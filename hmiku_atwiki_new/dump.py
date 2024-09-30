@@ -3,20 +3,14 @@ from pathlib import Path
 from atwiki import AtWikiAPI, AtWikiURI
 from urllib.error import HTTPError
 
-REQUEST_INTERVAL = 0.5
-MAX_RETRIES = 2
+REQUEST_INTERVAL = 0.1
+MAX_RETRIES = 5
 OUTPUT_DIR = Path("dump")
 OUTPUT_DIR.mkdir(exist_ok=True)
 
 api = AtWikiAPI(
     AtWikiURI('https://w.atwiki.jp/hmiku/'),
-    sleep=1,
-    headers={
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) '
-                      'AppleWebKit/537.36 (KHTML, like Gecko) '
-                      'Chrome/91.0.4472.124 Safari/537.36',
-        'Accept-Language': 'en-US,en;q=0.9',
-    }
+    sleep=REQUEST_INTERVAL
 )
 
 known_404_pages = set()
@@ -56,9 +50,10 @@ for page in page_list:
                 #     f.write(f"{page_id}\n")
                 # print(f"Page {page_id} not found (404).")
             # else:
-            print(f"Page {page_id} got HTTP Error ({e.code})")
+            # print(f"Page {page_id} got HTTP Error ({e.code})")
             retries += 1
-            wait_time = REQUEST_INTERVAL * (2 ** (retries - 1))
+            # wait_time = REQUEST_INTERVAL * (2 ** (retries - 1))
+            wait_time = 240
             print(f"Failed to download page {page_id} (attempt {retries}): {e}")
             print(f"Waiting {wait_time} seconds before retrying...")
             time.sleep(wait_time)
