@@ -1,0 +1,68 @@
+#right(){&furigana(RenG)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/3328613" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/3328613">【ニコニコ動画】Works</a></iframe>)
+-「ニコニコ動画での活動は辞める」（マイリストコメントより）との事。
+- 現在は[[YouTube>>https://www.youtube.com/user/solidbeatsJP]]で新作を発表している。
+
+**特徴
+作り手名：『&u(){Re:nG}』（&u(){レンジ}）
+-一応&b(){カウンターP}というP名もあるが、まったく定着していない。
+-疾走感のあるアップテンポソングに定評のある作り手。ロック、ポップス、トランス風、アニソン風、ミディアムバラードと幅広いジャンルを手掛ける。
+-歌詞は自ら手掛けることもあるが、最近は[[yuki]]氏に任せていることが多い。
+-使用ボーカロイドはミク、がくぽ、キヨテル、ユキ、miki、KAITO、MEIKO。
+-近年はKAITOをメインにした曲が多い。
+-歌い手のRe:A氏と共に、男女2人組ユニット&ruby(リアレンジ){&b(){Re:A&Re:nG}}に所属。&br()なお、Re:nG氏の以前のアーティスト名は&b(){ユウスケ}であったが、Re:A&Re:nG定着後にRe:nGに変更された。&br()しかし、Re:A&Re:nGは2009年12月6日をもって[[解散>>http://reareng.com/message/index.php?date=20091206]]。今後はそれぞれの道で活動するとのこと。
+-VOCALOIDオリジナル曲の以外でも、既存曲をアレンジしたり、自ら歌唱したりと活動の幅が広い。
+-現在殿堂入りしている曲は、&br()「&list_by_tagsearch(Re:nG,殿堂入り,sort=furigana,option=nolist,nolistspace=」「,100)」
+-2017年ごろから商業作家としても活躍、竹達彩奈、石原夏織、RumBlue（ライブレボルト）、Minami（「栗林みな実」より改名）、Hop!Step!Sing!などへ楽曲提供を行っている。（別名義として「&b(){サトウ ユウスケ}」を利用）
+-UTAU「双音レンジ」の中の人でもある。
+
+**リンク
+-[[solidbeats website（作者ホームページ）>>https://reng.jp/]]
+//-[[Re:A&Re:nG Portal>>http://reareng.com/]]
+-[[PIAPRO>>https://piapro.jp/reng]]
+-[[KARENT>>https://karent.jp/artist/pp000041]]
+-[[YouTube>>https://www.youtube.com/user/solidbeatsJP]]
+
+**曲
+#list_by_tag(Re:nG,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(Re:nGCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+-&bold(){YouTube}
+|&youtube(https://www.youtube.com/watch?v=es6LRS0P3_g){342,187}空想カレイドスコープ|&youtube(https://www.youtube.com/watch?v=xDu-C_I2fAE){342,187}仮初めのリコリス|
+|&youtube(https://www.youtube.com/watch?v=di6a6hy6WlI){342,187}ライム色の幻|&youtube(https://www.youtube.com/watch?v=OduS18a7Ad4){342,187}link - 2017 Remaster -|
+|&youtube(https://www.youtube.com/watch?v=8jcAkCtvsV4){342,187}身に余る軽蔑|&youtube(https://www.youtube.com/watch?v=xUmlRzrfQ2o){342,187}SYMPHONIC DIVE - DIVA FT full edit -|
+|&youtube(https://www.youtube.com/watch?v=RcWoLOKtVQU){342,187}夢見るマカロンガール|&youtube(https://www.youtube.com/watch?v=xSsLBdzuHFc){342,187}DEVOTION|
+
+
+-&bold(){ニコニコ動画}
+|&nicovideo(sm3212446)|&nicovideo(sm1697854)|
+|&nicovideo(sm18757788)|&nicovideo(sm20092909)|
+|&nicovideo(sm4733714)|&nicovideo(sm13131464)|
+|&nicovideo(sm22254964)|&nicovideo(sm1567970)|
+|&nicovideo(sm2516988)|&nicovideo(sm23016267)|
+
+**コメント
+- WAYは元祖「機動歌姫ヴォーカリオンだっぜ  -- WAYのファン  (2009-01-02 17:53:23)
+- 昔カウンターPって呼んでた気がする  -- binarystarのファン  (2009-09-21 20:52:28)
+- jewelfishも配信してるぜ！！  -- 名無しさん  (2010-12-29 02:59:14)
+- ↑さらに殿堂入りもしてますね  -- 名無しさん  (2010-12-29 10:37:33)
+- りあれんじ の解散の訳が気になる´;ω;｀  -- 名無しさん  (2011-05-11 16:17:12)
+- Re:nGさんのがくぽが凄くかっこいいです！応援してます＾＾  -- 名無しさん  (2011-06-11 16:55:56)
+- がくキヨアルバムとか本当に俺得な人だなぁ、大好きだ！！！  -- 名無しさん  (2011-06-11 17:36:24)
+- 双音レンジの存在忘れられてね？  -- 名無しさん  (2012-01-19 23:58:27)
+- まったくだ  -- ぬるま湯  (2012-03-05 20:49:58)
+- この人のがくぽの曲、神懸かってるぜ  -- がくぽ廃  (2012-10-24 00:07:00)
+- ↑同意、かもジャンルの幅広いとかRe:nGさん素敵だ  -- がくぽ廃さんに同意のがくぽ廃  (2013-04-04 18:22:20)
+- この人のミクには惚れる！特に激情トラジェディーが良い。  -- 名無しさん  (2014-11-12 17:16:27)
+- もっと評価されるべき。応援してます！！  -- 名無しさん  (2015-09-27 14:03:28)
+- 聴いてすぐRe:nGさんだと分かってしまうぐらいシンセの音使いが特徴的。  -- 名無しさん  (2016-07-26 21:39:13)
+- 久々にKAITOのアルバム出してくれるの、本当にうれしい。Escape from sweet rain （ttp://efsr.reng.jp/ ）買います！  -- 名無しさん  (2018-06-23 12:06:09)
+- この人は本当に曲の幅広くて、よく「同じ人だったの！？」ってなる  -- 練習試合  (2023-09-19 19:01:30)
+#comment()

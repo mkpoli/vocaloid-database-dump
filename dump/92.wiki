@@ -1,0 +1,52 @@
+#right(){&furigana(わんだらP) &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/3218879" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/3218879">【ニコニコ動画】VOCALOID_わんだら</a></iframe>)
+
+**特徴
+-P名の由来にもなった「[[wanderer>wanderer/わんだらP]]」でニコ動デビュー。
+-マリアッチ風や和風の、渋い曲調の曲を作るP。歌詞が難解とも言われるが、情景を考慮して書かれているので、イメージしながら読んでみると面白い。
+-アーティスト名は&b(){F.Koshiba}。
+-当初はミクを使用していたが、KAITO使いとして開眼。ニコニコで初のKAITOオリジナル曲・「[[万感吟遊]]」を作成した。また、がくっぽいども所有しており、「[[愚足武者]]」でお披露目となった。
+-KAITOファンに与えた影響は大きく、P自身の人気が極めて高い。Pの曲は人間にとって極めて歌唱難度が高いものが多いが、取り組む歌い手が後を絶たない事からも、その一端が窺える。
+-時折KAITOを喋らせてみたり、わかりやすいPV付きの曲を投稿したりとお茶目な一面も見せる（わんだらPのちょっとしたお茶目シリーズ）。
+-2008年1月辺りから動画のイラストにピアプロのものを使うことが多くなったが、自作のイラストも何気に味がある。
+-これまでに殿堂入りを達成した曲は、以下の通り。「[[愚足武者]]」「[[	紅の花]]」「[[万感吟遊]]」
+
+**リンク
+-[[小柴迷曲譜（作者ホームページ）>>http://sound.jp/f_koshiba/]]
+-[[F.MEMO（作者ブログ）>>http://fkoshiba.seesaa.net/]]
+-[[PIAPRO（fkoshiba）>>http://piapro.jp/fkoshiba]]
+-[[twitter>>http://twitter.com/f_koshiba]]
+-[[YouTube>>https://www.youtube.com/channel/UCISnpiAEnTdCO5aT-HvBV2Q]]
+
+**曲
+#list_by_tag(わんだらP,100,sort=furigana)
+
+**CD
+#list_by_tag(わんだらPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm1158757)|&nicovideo(http://www.nicovideo.jp/watch/sm1310732)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm1350555)|&nicovideo(http://www.nicovideo.jp/watch/sm1484208)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm1550571)|&nicovideo(http://www.nicovideo.jp/watch/sm1571467)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm1715802)|&nicovideo(http://www.nicovideo.jp/watch/sm1854563)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm1914393)|&nicovideo(http://www.nicovideo.jp/watch/sm1991297)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2026015)|&nicovideo(http://www.nicovideo.jp/watch/sm2141441)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2364179)|&nicovideo(http://www.nicovideo.jp/watch/sm2767961)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2768013)|&nicovideo(http://www.nicovideo.jp/watch/sm2995351)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3217874)|&nicovideo(http://www.nicovideo.jp/watch/sm3309039)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3604473)|&nicovideo(http://www.nicovideo.jp/watch/sm3671490)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3996446)|&nicovideo(http://www.nicovideo.jp/watch/sm4251981)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4252016)|&nicovideo(http://www.nicovideo.jp/watch/sm4340441)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4916562)|&nicovideo(http://www.nicovideo.jp/watch/sm5013683)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5482734)|&nicovideo(http://www.nicovideo.jp/watch/sm5951679)|
+
+**コメント
+- 敢えてKAITO曲も記載しました。 　存在そのものが貴重(というか初)のKAITOオリジナル曲だったので…  -- 名無しさん(ページ作成者)  (2007-12-19 02:23:39)
+- 初音ミクWikiというよりはVOCALOIDWikiになっているのでKAITOもOKでしょう。  -- 名無しさん  (2008-01-20 21:58:06)
+- 最近ぶっ壊れてきました。  -- 名無しさん  (2008-04-03 11:52:33)
+- ↑ぶっこわれｗｗｗｗお茶目というべきではｗ  -- 名無しさん  (2008-09-22 21:36:22)
+- その言い方はあまりに失礼だろｗ　腐とかに走ったら壊れたといっても良いと思うが  -- 名無しさん  (2008-09-22 22:17:49)
+- わんだらさんのカイトが凄く好きです(*´｀*)  -- 名無しさん  (2010-05-20 02:29:38)
+- 誰か、からくり時計と恋の話追加してくれない？ sm14638831  -- 名無しさん  (2011-09-11 19:22:22)
+- ↑その動画はわんだらPがUPしたやつじゃないから追加できないよー。  -- 名無しさん  (2011-09-11 20:06:23)
+#comment()

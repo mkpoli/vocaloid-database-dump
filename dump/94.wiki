@@ -1,0 +1,46 @@
+#right(){&furigana(くらP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/1587552" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/1587552">【ニコニコ動画】目からここあが出る動画【VOCALOID作品】</a></iframe>)
+
+**特徴
+作り手名：『&u(){くらP}』
+-素直で優しい曲調の曲を作るP。
+-HPおよびmuzieなどでは &bold(){夏樹くら} 名義である。
+-目からここあ。
+-[[凪庵>nagi-P]]氏とコラボした「[[恋愛タイガ→☆]]」が物凄い勢いで初の殿堂入りを達成。
+
+**リンク
+-[[ここあのおと（作者HP）>>https://cocoanote.net/]]
+-&s(){[[ここあのおとブログ（作者ブログ）>>http://kurap.blog.so-net.ne.jp/]]}（削除済み）
+-[[PIAPRO>>https://piapro.jp/kurap]]
+-[[Twitter>>https://twitter.com/kura_p]]
+-[[ニコニコ>>https://www.nicovideo.jp/user/81423]]
+-[[YouTube>>https://www.youtube.com/channel/UC4cjPRJXLKBnQtq8CHOvi3Q]]
+
+**曲
+#list_by_tag(くらP,100,sort=furigana)
+
+**CD
+#list_by_tag(くらPCD,100,sort=furigana)
+
+**動画
+|&nicovideo(sm1333477)|&nicovideo(sm1342090)|
+|&nicovideo(sm1383739)|&nicovideo(sm1510801)|
+|&nicovideo(sm1736124)|&nicovideo(sm1848520)|
+|&nicovideo(sm1853303)|&nicovideo(sm1933498)|
+|&nicovideo(sm2199695)|&nicovideo(sm2557162)|
+|&nicovideo(sm6874320)|&nicovideo(sm7763273)|
+|&nicovideo(sm8487337)|&nicovideo(sm8655893)|
+|&nicovideo(sm9685085)|&nicovideo(sm10911955)|
+
+**コメント
+- muzieおよびブログでは夏樹くら名義 -ページ作成時に入れ忘れた、すまん  -- 名無しさん  (2007-12-24 21:41:29)
+- 「恋愛タイガ→☆」「玉砕バニー」大好きです！  -- 名無しさん  (2011-03-27 18:03:49)
+//家族のパソコンだからニコ動に登録できません。誰か「大分弁でみくみくにしてあげる♪」をyoutubeに登録して下さい。お願いします。くらさんの作品でこれだけ見れないんです。  -- 名無しさん  (2011-03-27 18:03:49)
+//- DIVAACスレで暴れてた人か  -- 名無しさん  (2011-03-27 19:28:41)
+- くらＰさんのＣＤでて欲しい！特に大丈夫だよっが好きです！  -- よわむし  (2014-01-02 13:19:47)
+- CD出てるよ。よわむしさん。  -- 名無しさん  (2014-08-20 13:57:32)
+#comment()

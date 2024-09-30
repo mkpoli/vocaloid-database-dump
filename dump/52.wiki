@@ -1,0 +1,29 @@
+#right(){&furigana(はなけP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/2636913" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/2636913">【ニコニコ動画】つくったやつ</a></iframe>)
+
+**特徴
+-調教が安定していて、どれも聞きやすい
+-同じ曲でもまともな歌詞と壊れた歌詞の２つを用意するなど、遊び心がある
+-さりげなく[[KAITO]]の扱いが酷い
+-恐らく日本で一番けん玉のうまいミクマスター
+
+**リンク
+-[[ピアプロ>>http://hanage.org/music.html]]
+
+**曲
+#list_by_tag(鼻毛P,100,sort=furigana)
+
+**曲
+#list_by_tag(鼻毛PCD,100,sort=furigana)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm1140952){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm1125907){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm1588274){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm1489159){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm1771019){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm1264047){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm1031824){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm1247010){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12304315){340,185}|
+
+**コメント
+- 鼻毛Pの片道きゃっちぼーるカバーは珠玉の出来だと思うんだ  -- 名無しさん  (2010-10-13 11:38:13)
+- 今のとこ載ってない「balooner」も名曲。youtubeでも見られるよ  -- 名無しさん  (2010-11-01 22:08:13)
+#comment()

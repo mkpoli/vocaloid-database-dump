@@ -1,0 +1,135 @@
+#right(){&furigana(らんすうP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+**特徴
+作り手名：『&u(){乱数P}』(&u(){らんすうP})
+
+-&bold(){乱数で作成された歌詞}を使った電波曲を手がけるP。
+-乱数を使わなくても特徴的な曲を作り、手書きの絵も絶妙な味。
+-ロードローラーブームの立役者の一人。
+-ちなみに、乱数作詞プログラムと「絵でレベルメーター」スクリプトは個人ページで公開中。
+-レンの女装および性転換ネタが多い。
+--ゲームや鉄道をネタにした曲も散見される。
+--2016年以降は、マスコットキャラの「らん」という金髪少女が、各動画に登場することが多い。
+-「[[のぼり棒]]」が名誉のランキング除外街道を独走（30回以上）！！さらに「[[蚊に刺された]]」「[[魔法の７月]]」「[[鏡の向こうに居る君と・フル>鏡の向こうに居る君と]]」「[[×]]」「[[焼けた滑り台]]」など次々と除外曲を発表し、[[デP>デッドボールP]]に継ぐ新・除外王の地位を確かなものにしたと囁かれている。
+-2008年7月16日、鏡音リン･レン Act.2 最古の動画となる「[[蚊に刺された]]」（リンオリジナル曲）を投稿。
+
+**投稿動画
+-作者マイリスト(ニコニコ動画)
+|&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/7029900" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/7029900">【ニコニコ動画】マイリス１軍（再生１００００以上）</a></iframe>)|&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/4158526" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"></iframe><a target="_blank" href="https://www.nicovideo.jp/mylist/4158526">【ニコニコ動画】ミクとかリンとかレンとかetc...</a>)|
+-初投稿作および、最新作(2022年7月7日現在)
+|&nicovideo(sm1178931)|&nicovideo(sm40731134)|
+
+**リンク
+//-[[作者ホームページ>>http://namakobcg.cv02.net/]]
+-[[Twitter>>https://twitter.com/namakobcg/]]
+-[[PIAPRO>>https://piapro.jp/namakobcg_rnd]]
+
+//井戸端にも掲載されていますが、ふりがなのルールについては現在議論中です。ふりがなの修正を今すぐに中断するようお願いします。
+**曲
+登録が100曲を超え、一つのタグで全曲のリストアップが出来なくなりました。そのため、先頭文字を元にした12種類のタグ「曲あ」～「曲わ」、「曲英」、「曲他」をつけて、P名とともにselectするリストにしています。「曲他」は記号等です。ここに表示されていない曲については、[[タグキーワード「乱数P」を含むページ一覧>http://www5.atwiki.jp/hmiku/tag/乱数P]]を参照するか、wiki内検索をお願いします。
+ページが存在する場合は「乱数P」と「曲×」の2つのタグをつければ、ここに表示されるようになります。
+
+|&link_aname(A){あ行}|&link_aname(K){か行}|&link_aname(S){さ行}|&link_aname(T){た行}|&link_aname(N){な行}|&link_aname(H){は行}|&link_aname(M){ま行}|&link_aname(Y){や行}|&link_aname(R){ら行}|&link_aname(W){わ行}|&link_aname(AZ){英語}|&link_aname(1){記号・数字}|
+&search3(title=,size=100,and,ignore=own)
+&small(){&aname(,option=nolink){(}[[あ行>https://w.atwiki.jp/hmiku/?cmd=tagsearch&keyword=乱数P+曲あ&andor=and&opt1=2]])}
+#list_by_tagsearch(乱数P,曲あ,sort=furigana2,errmsg=「あ行」で始まる曲はまだ登録されていません。,and,100)
+&small(){&aname(K,option=nolink){(}[[か行>https://w.atwiki.jp/hmiku/?cmd=tagsearch&keyword=乱数P+曲か&andor=and&opt1=2]])}
+#list_by_tagsearch(乱数P,曲か,sort=furigana2,errmsg=「か行」で始まる曲はまだ登録されていません。,and,100)
+&small(){&aname(S,option=nolink){(}[[さ行>https://w.atwiki.jp/hmiku/?cmd=tagsearch&keyword=乱数P+曲さ&andor=and&opt1=2]])}
+#list_by_tagsearch(乱数P,曲さ,sort=furigana2,errmsg=「さ行」で始まる曲はまだ登録されていません。,and,100)
+&small(){&aname(T,option=nolink){(}[[た行>https://w.atwiki.jp/hmiku/?cmd=tagsearch&keyword=乱数P+曲た&andor=and&opt1=2]])}
+#list_by_tagsearch(乱数P,曲た,sort=furigana2,errmsg=「た行」で始まる曲はまだ登録されていません。,and,100)
+&small(){&aname(N,option=nolink){(}[[な行>https://w.atwiki.jp/hmiku/?cmd=tagsearch&keyword=乱数P+曲な&andor=and&opt1=2]])}
+#list_by_tagsearch(乱数P,曲な,sort=furigana2,errmsg=「な行」で始まる曲はまだ登録されていません。,and,100)
+&small(){&aname(H,option=nolink){(}[[は行>https://w.atwiki.jp/hmiku/?cmd=tagsearch&keyword=乱数P+曲は&andor=and&opt1=2]])}
+#list_by_tagsearch(乱数P,曲は,sort=furigana2,errmsg=「は行」で始まる曲はまだ登録されていません。,and,100)
+&small(){&aname(M,option=nolink){(}[[ま行>https://w.atwiki.jp/hmiku/?cmd=tagsearch&keyword=乱数P+曲ま&andor=and&opt1=2]])}
+#list_by_tagsearch(乱数P,曲ま,sort=furigana2,errmsg=「ま行」で始まる曲はまだ登録されていません。,and,100)
+&small(){&aname(Y,option=nolink){(}[[や行>https://w.atwiki.jp/hmiku/?cmd=tagsearch&keyword=乱数P+曲や&andor=and&opt1=2]])}
+#list_by_tagsearch(乱数P,曲や,sort=furigana2,errmsg=「や行」で始まる曲はまだ登録されていません。,and,100)
+&small(){&aname(R,option=nolink){(}[[ら行>https://w.atwiki.jp/hmiku/?cmd=tagsearch&keyword=乱数P+曲ら&andor=and&opt1=2]])}
+#list_by_tagsearch(乱数P,曲ら,sort=furigana2,errmsg=「ら行」で始まる曲はまだ登録されていません。,and,100)
+&small(){&aname(W,option=nolink){(}[[わ行>https://w.atwiki.jp/hmiku/?cmd=tagsearch&keyword=乱数P+曲わ&andor=and&opt1=2]])}
+#list_by_tagsearch(乱数P,曲わ,sort=furigana2,errmsg=「わ行」で始まる曲はまだ登録されていません。,and,100)
+&small(){&aname(AZ,option=nolink){(}[[英語>https://w.atwiki.jp/hmiku/?cmd=tagsearch&keyword=乱数P+曲英&andor=and&opt1=2]])}
+#list_by_tagsearch(乱数P,曲英,sort=furigana2,errmsg=「英語」で始まる曲はまだ登録されていません。,and,100)
+&small(){&aname(1,option=nolink){(}[[記号・数字>https://w.atwiki.jp/hmiku/?cmd=tagsearch&keyword=乱数P+曲他&andor=and&opt1=2]])}
+#list_by_tagsearch(乱数P,曲他,sort=furigana2,errmsg=「記号・数字」で始まる曲はまだ登録されていません。,and,100)
+
+
+**CD
+#list_by_tag(乱数PCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画　(シリーズ別、2021年1月5日更新)
+先述の通り投稿曲が100曲を超えているので、代表的と思われるものを抜粋しシリーズ別に分類
+
+-乱数ソング　…歌詞を乱数で生成した曲
+|&nicovideo(sm1331242)|&nicovideo(sm2080539)|
+-なぜか変換できないシリーズ
+|&nicovideo(sm1524384)|&nicovideo(sm35942233)|
+-ロードローラシリーズ
+|&nicovideo(sm1881329)|&nicovideo(sm1899209)|
+-のぼり棒(校庭遊具)シリーズ
+|&nicovideo(sm3124800)|&nicovideo(sm3724217)|
+
+-満月のステージ
+|&nicovideo(sm2371027)|&nicovideo(sm35186763)|
+-鏡音リンレン七夕シリーズ　(2011年より、毎年投稿)
+|&nicovideo(sm14989268)|&nicovideo(sm18288795)|
+|&nicovideo(sm31479717)|&nicovideo(sm37394503)|
+-カガミメガミ
+|&nicovideo(sm19681462)|&nicovideo(sm38021611)|
+-鏡設定シリーズ
+|&nicovideo(sm4713345)|&nicovideo(sm9206762)|
+-同一人物シリーズ
+|&nicovideo(sm5667446)|&nicovideo(sm7761178)|
+|&nicovideo(sm7984313)|&nicovideo(sm28950314)|
+
+-性同一性障害シリーズ
+|&nicovideo(sm2698420)|&nicovideo(sm2963554)|
+|&nicovideo(sm6248079)|&nicovideo(sm24545290)|
+|&nicovideo(sm26538672)|&nicovideo(sm34756926)|
+-ゲームをネタにしたもの
+|&nicovideo(sm5991171)|&nicovideo(sm22033557)|
+|&nicovideo(sm29591601)|&nicovideo(sm30934533)|
+-鉄道をネタにしたもの
+|&nicovideo(sm25019871)|&nicovideo(sm26333428)|
+|&nicovideo(sm30533717)||
+
+-その他
+|&nicovideo(sm3032016)|&nicovideo(sm3981681)|
+|&nicovideo(nm5004808)|&nicovideo(nm5411402)|
+|&nicovideo(sm6448544)|&nicovideo(sm14269666)|
+|&nicovideo(sm22774479)|&nicovideo(sm27256988)|
+|&nicovideo(sm28479287)|&nicovideo(sm32016766)|
+
+**関連タグ内の更新履歴
+#region(close,関連タグ内の更新履歴)
+関連タグ内の更新履歴
+※「乱数P」「乱数PCD」タグ内で最近編集された記事を新しい方から10件表示しています。
+#list_by_tagsearch(乱数P,乱数PCD,sort=timestamp,sort2=desc,errmsg=まだ曲が登録されていません。,or,10)
+#endregion
+
+
+**コメント
+- 女装と言うより性転換をさせたいように感じるぞ。  -- 名無しさん  (2008-03-23 00:30:20)
+- ついに「のぼり棒」でぼからん名誉の除外ｗ  -- 名無しさん  (2008-05-06 13:12:48)
+- 「蚊に刺された」でリンACT2一番乗り！  -- 名無しさん  (2008-07-16 21:41:05)
+- 除外されっぷりではデPを超えたと思う。  -- 名無しさん  (2008-09-13 19:17:12)
+- ノギス  -- 名無しさん  (2008-11-28 15:23:27)
+- のぼり棒52週除外おめでとう  -- 名無しさん  (2009-05-02 14:46:55)
+- もう乱数より性転換Ｐでいいんじゃないかな  -- 名無しさん  (2009-08-03 18:06:51)
+- ↑いや、性転換ネタ抜きでも十分ヤバい  -- 名無しさん  (2009-09-18 21:35:28)
+- ↑でもそういうとこが好きだぜ！  -- 名無しさん  (2009-09-20 17:30:11)
+- エロばっかピックアップされるが、おちゃめな曲というジャンルでも多分トップクラスだと思う。  -- 名無しさん  (2009-09-24 09:39:36)
+- この人、結構おじさんらしいね、本人いわく。DTMができるおじ様なんて素敵！  -- 名無しさん  (2010-11-23 08:59:00)
+- 作者のサイトが移転したとのことで、早速対応してみました。  -- 名無しさん  (2012-01-23 08:59:44)
+- 伝説の名曲「のぼり棒」を聴いた時から、乱数Ｐの大ファンです。これからも運営に削除されない範囲で頑張って下さい。  -- 竜奇  (2012-02-07 15:59:23)
+- 最低勇者の旅で乱数Ｐのこと知った  -- 名無しさん  (2012-05-10 23:23:47)
+- 最高の編曲、最高の調声、そして最低のPV。これを毎回楽しみにして新曲をチェックしています。  -- 名無しさん  (2012-07-17 13:56:46)
+- 近年の作品や、らんの件について追記してみました  -- 名無しさん  (2021-01-06 00:10:25)
+- 歌詞が乱数で作成されているなんて個性的だなw  -- 名無しさん  (2022-08-09 10:54:00)
+#comment()

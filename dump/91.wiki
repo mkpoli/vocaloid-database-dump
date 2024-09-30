@@ -1,0 +1,27 @@
+#right(){&furigana(ふみどりP) &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/3587686" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/3587686">【ニコニコ動画】マイリスト</a></iframe>)
+
+**特徴
+-しっとりと落ち着いた曲調のオリジナル曲を作るP。
+-読み方は「ぶんちょう」ではなく「ふみどり」が正しい。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/Fumidori]]
+
+**曲
+#list_by_tag(文鳥P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(文鳥PCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm1377859){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm1497764){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm1669482){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm1859693){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm1984077){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm2208758){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2348112){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm2828877){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2894216){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm3497490){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4759994)||
+
+**コメント
+- いやし。  -- 名無しさん  (2009-04-26 12:48:53)
+#comment()

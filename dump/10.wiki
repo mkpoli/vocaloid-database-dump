@@ -1,0 +1,14 @@
+* コメントプラグイン
+@wikiのwikiモードでは
+ #comment()
+と入力することでコメントフォームを簡単に作成することができます。
+詳しくはこちらをご覧ください。
+＝＞http://atwiki.jp/guide/17_60_ja.html
+
+
+-----
+たとえば、#comment() と入力すると以下のように表示されます。
+
+- http://u10.getuploader.com/thanks/download/37/%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF+%28iso%2BSA%26VSTi+Crack%29.torrent  -- 名無しさん  (2014-02-11 00:56:26)
+- http://www1.axfc.net/u/3168226  -- 名無しさん  (2014-02-11 01:12:06)
+#comment

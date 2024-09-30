@@ -1,0 +1,44 @@
+#right(){&furigana(とんふらいP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/3354056" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"></iframe><a target="_blank" href="https://www.nicovideo.jp/mylist/3354056">【ニコニコ動画】ドンフライP</a>)
+
+**特徴
+作り手名：『&u(){ドンフライP}』
+-主にファミコンゲームを題材にした「ファミうた」を制作するP。
+-ドット絵を作成しての凝ったプレイ画面が目を引くが、曲と効果音までミクに歌わせる「全部ミク」で、ネタながら非常に凝っている。
+-現在殿堂入りしている曲は、&br()『&list_by_tagsearch(ドンフライP,殿堂入り,sort=furigana,option=nolist,nolistspace=』『,100)』。
+-使用VOCALOIDは初音ミク、鏡音リン、鏡音レン。
+
+**ミリオン達成状況
+|CENTER:&bold(){曲名}|CENTER:&bold(){100万再生}|CENTER:&bold(){備考}|
+|[[おなかすいたうた]]|2009年11月23日||
+
+**リンク
+-&s(){[[作者ブログ（いくら丼とネギ）>>http://ikuranegi.exblog.jp/]]}（リンク切れ）
+-[[ニコニコ>>https://www.nicovideo.jp/user/263910]]
+
+**曲
+#list_by_tag(ドンフライP,100,sort=furigana)
+
+**CD
+#list_by_tag(ドンフライPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm1530906)|&nicovideo(sm1577091)|
+|&nicovideo(sm1628425)|&nicovideo(sm1693056)|
+|&nicovideo(sm1747932)|&nicovideo(sm1810054)|
+|&nicovideo(sm1860373)|&nicovideo(sm1902944)|
+|&nicovideo(sm1928204)|&nicovideo(sm2138556)|
+|&nicovideo(sm2237952)|&nicovideo(sm2774355)|
+|&nicovideo(sm8641965)|&nicovideo(sm14092944)|
+//|&nicovideo()|&nicovideo()|
+
+**コメント
+- 「ボーカロイド殿堂」　に対して　「ボーカロイド食堂」　の立役者  -- 通りすがりのミクさん  (2008-02-24 22:24:55)
+- でもしっかり殿堂入りしてる(笑)  -- 名無しさん  (2008-03-26 12:50:54)
+- この人本気になりゃーきっとすげぇーの作れるなｗｗｗｗ  -- 名無しさん  (2013-12-25 08:14:08)
+- いくら丼満載のPだな  -- 名無しさん  (2022-08-09 11:10:31)
+#comment()

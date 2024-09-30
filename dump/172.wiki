@@ -1,0 +1,87 @@
+#right(){&furigana(すすかせP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/2843180" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/2843180">【ニコニコ動画】作品集</a></iframe>)|&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/5416382" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/5416382">【ニコニコ動画】2st Album　『近未来都市』</a></iframe>)|
+|&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/6504220" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/6504220">【ニコニコ動画】3rd Album　『再生世界』</a></iframe>)|&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/7238111" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/7238111">【ニコニコ動画】4th Album　『約束の場所』</a></iframe>)|
+
+**特徴
+作り手名：『&u(){涼風P}』（&u(){すずかぜP}）
+-落ち着いた癒し曲やクールな都市系の音楽を作る。また、意味が深い大人向けの歌詞を書く。コアなファンが多い。
+-以前からMEIKOを所有しており、MEIKOマスターとして名が高い。
+-バックミュージックのピアノは実際に演奏しており、音の使い方がうまい。ピアノ歴自体は短いらしい。
+-JazzBarのマスターもやっており、時々コメントを残している。
+-師匠はアメリカのジャズピアニストだった（Barでのコメント）。また、ファミコンゲーム『いっき』の楽曲や黒飴のCM曲の製作者からも学んでいた（ブログより）。
+-ニコニコ動画外でも&bold(){涼風涼雨（すずかぜりょう）}名義で幅広く音楽活動をしている。
+-以前「仙光花火」という音楽グループにて活動していた。
+-&bold(){近未来都市シリーズ}としてオリジナル曲を発表しており、第1部、第2部の完結時にはそれぞれアルバムを公開した。
+
+**リンク
+-[[作者ホームページ>>https://ryota.site/suzukazenote/]]
+-[[作者ホームページ2>>https://ryota.site/]]
+-[[ニコニコ>>https://www.nicovideo.jp/user/1007701]]
+-[[ピアプロ>>https://piapro.jp/suzukaze]]
+//-[[muzie>>http://www.muzie.co.jp/cgi-bin/artist.cgi?id=a032099]]
+
+**アルバム紹介ページ
+-[[近未来都市>>http://methuselah.websozai.jp/s/contents/music/kinmirai.html]] （『近未来都市』第1部）&br()収録曲： 冒頭 ～回想～ / [[都市]] / [[銀の夢]] / 崩壊都市 / [[Hologram]] / [[近未来都市]] / [[願い>願い/涼風P]] / [[鉄巨人]] / [[Escape>Escape/涼風P]]
+-[[再生世界>>http://methuselah.websozai.jp/s/contents/music/saisei.html]] （『近未来都市』第2部）&br()収録曲： [[冒頭 ～外界～>外界]] / [[再生世界]] / [[感情の波]] / [[軌道エレベータ]] / [[i>i/涼風P]] / [[レクイエム>レクイエム/涼風P]] / [[約束>約束/涼風P]]
+-[[約束の場所>>http://methuselah.websozai.jp/s/contents/music/yakusoku.html]] （『近未来都市』第3部）&br()収録曲： [[約束の場所へ]] / [[荒廃都市]] / [[ルート22]] / [[黒い雨]] / [[Angel's Radio>Angel's Radio -chu chu noise-]] / [[理想の世界]] / [[約束の場所>約束の場所/涼風P]]
+
+**曲
+#list_by_tag(涼風P,100,sort=furigana)
+
+**CD
+#list_by_tag(涼風PCD,100,sort=furigana)
+
+**動画
+|&nicovideo(sm1195780)|&nicovideo(sm1255544)|
+|&nicovideo(sm1402225)|&nicovideo(sm2016174)|
+
+-&bold(){近未来都市シリーズ（アルバム動画）}
+|&nicovideo(sm2972106)|&nicovideo(sm3729308)|
+|&nicovideo(sm4675801)|&nicovideo(sm4675315)|
+
+-&bold(){近未来都市シリーズ（一部）}
+|&nicovideo(sm1422063)|&nicovideo(sm2471311)|
+|&nicovideo(sm3426973)|&nicovideo(sm4675487)|
+
+※ 「近未来都市」シリーズの曲目については「アルバム紹介ページ」の節を参照。
+
+-&bold(){鉄巨人シリーズ（一部）}
+|&nicovideo(sm4966949)|&nicovideo(sm5478860)|
+曲目： [[Monument]] / [[星の命]] / [[仮想現実]] / [[黒のエーテル]] / [[One>One/涼風P]] / [[天空のアナスタシア]] / [[ACID RAIN]] / [[カレイドスコープ>カレイドスコープ/涼風P]] / [[過去の未来]]
+
+-&bold(){中編楽曲シリーズ『Rats』}
+|&nicovideo(sm5610833)|&nicovideo(sm6262455)|
+曲目： [[序幕、旅立ち]] / [[案内マウス]]
+
+-&bold(){バラードアルバム『Sepia』}
+|&nicovideo(sm5633858)|
+曲目： [[夢路]]
+
+-&bold(){「仙光花火」関係}
+|&nicovideo(sm1241861)|&nicovideo(sm3251280)|
+|&nicovideo(sm3264933)|&nicovideo(sm3944782)|
+
+-&bold(){その他の作品}
+|&nicovideo(sm4714621)|&nicovideo(sm5155757)|
+|&nicovideo(sm1321762)|&nicovideo(sm3034796)|
+
+**コメント
+- JazzBarというのはニコ動にあるですか？  -- 名無しさん  (2008-04-04 23:09:37)
+- ありますよ。下に追加しておきました。  -- 名無しさん  (2008-04-04 23:42:46)
+- なんか最近よく海辺のお店に出入りしてます。音楽と会話でけっこう賑やかなはづなのに、なぜか落ち着く・・・  -- てきとう怪獣  (2008-04-05 01:34:51)
+- かなりの実力派だが、あくまで謙虚な人。  -- 名無しさん  (2008-05-05 00:22:34)
+- ページが重かったので、近未来都市1部・2部はアルバムだけにしました。  -- 名無しさん  (2008-07-16 22:38:31)
+- 作った曲かなり多いなｗｗｗｗｗ  -- 名無しさん  (2009-04-10 21:59:24)
+- この人の曲は聞いていると何故か落ち着く。不思議だよね。  -- 名無しさん  (2009-06-06 02:30:17)
+- 実力はあるけど、再生数に恵まれない人です。曲は、どれも素晴らしいです、落ち着きますし、感動できますよね。  -- 名無しさん  (2009-07-15 15:22:49)
+- わがままな自分を否定せずに優しく包んでくれるような曲が多くて、聞いていると癒されてしまいます  -- 名無しさん  (2009-12-26 23:11:17)
+- 涼風Pの曲はどこか優しい。包み込んでくれる感じ。  -- 名無しさん  (2010-03-03 22:10:29)
+- この人の曲聴くと悲しいような懐かしいような気持ちになる・・・  -- yume  (2010-03-15 10:25:00)
+- 涼風さんの曲は聴いてると落ち着く。ずっと聴いてられます  -- 名無しさん  (2012-02-24 18:08:45)
+- 涼風さんの曲で好きなのは、アンティークです。とても心地いい曲です。  -- ユナ  (2012-11-14 19:05:16)
+- 涼風さんのMEIKOコンピレーションCDがでてくれたら、私はすごく嬉しいです。  -- ユナ  (2013-01-17 19:47:23)
+#comment()

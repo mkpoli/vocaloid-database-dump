@@ -1,0 +1,59 @@
+#right(){&furigana(kihirohito)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/3633617" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/3633617">【ニコニコ動画】護法少女ソワカちゃん</a></iframe>)|&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/4414387" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/4414387">【ニコニコ動画】夢の旧作</a></iframe>)|
+|&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/6649531" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/6649531">【ニコニコ動画】袋のままで行く</a></iframe>)||
+
+**特徴
+作り手名：『&u(){kihirohito}』
+-架空のアニメ&bold(){護法少女ソワカちゃん}シリーズの作者。
+-アニメは、自前の独特の絵柄とぶっ飛んだストーリー展開、度々挟まれる小ネタ・仏教ネタにより、見るものを虜にする＝中毒性高し。
+-本編は現在、第&bold(){7→3→6→8→5→4→11→9→2→10-1→10-2→1-1→1-2→1-3→1-4→12}話+スピンオフが公開中（投稿順での視聴をお勧めします）。
+-歌詞や曲調から察するに、仏教のみならず多方面に精通した衒学家であることが伺える。
+-作者の過去のオリジナル曲&bold(){夢の旧作}シリーズもご拝聴あれ。
+-これまでに殿堂入りを達成した曲は、以下の通り。&br()「&list_by_tagsearch(kihirohito,殿堂入り,sort=furigana,option=nolist,nolistspace=」「,100)」
+
+**リンク
+-[[PIAPRO>>https://piapro.jp/kihirohito]]
+-[[Twitter>>https://twitter.com/kihirohito]]
+-[[ニコニコ>>https://www.nicovideo.jp/user/517132]]
+-[[心のともしび>>http://blog.livedoor.jp/kihirohito/]]（作者ブログ）
+//-[[逆転写無縁仏>>http://blogs.yahoo.co.jp/sowaka_chan]]（旧・作者ブログ）
+//-[[ソワカちゃん疏鈔>>http://sowaka.s-dog.net/]]（ファンによるまとめサイト）
+-[[護法少女ソワカちゃんコミュ>>https://mixi.jp/view_community.pl?id=2749241]]（mixiコミュニティ）
+//-[[ソワカちゃんスレ過去ログ保管庫>>http://sowaka.s-dog.net/2chlog.html]]　（2ch 心と宗教板 / ソワカちゃん疏鈔）
+-[[UTAU楽曲データベース「kihirohito」ページ>>https://www24.atwiki.jp/utauuuta/pages/1047.html]]
+
+**曲
+#list_by_tag(kihirohito,100,sort=furigana)
+
+**CD
+#list_by_tag(kihirohitoCD,100,sort=furigana)
+
+**動画
+&bold(){護法少女ソワカちゃん シリーズ}
+|&nicovideo(sm1235394)|&nicovideo(sm1283174)|
+|&nicovideo(sm3158566)|&nicovideo(sm2491595)|
+|&nicovideo(sm1705674)|&nicovideo(sm1565102)|
+|&nicovideo(sm1366726)|&nicovideo(sm1452171)|
+|&nicovideo(sm1381807)|>|
+
+&bold(){夢の旧作 シリーズ}
+|&nicovideo(sm2587006)|
+
+**コメント
+- テンプレに沿ってない作りになってたので直してみますた  -- 名無しさん  (2007-12-30 01:57:07)
+- 八月に東京で上映イベントが決まった。 &br()行きたいなぁ…  -- 名無しさん  (2008-05-31 14:21:29)
+- 全部巡るのが大変だぁ＞＜  -- 名無しさん  (2009-01-22 20:18:04)
+- 六月に上映会決定！！  -- 朝　日  (2009-03-27 02:24:58)
+- だれかＤＶＤの項目書け！ｗ  -- 名無しさん  (2009-07-15 13:20:37)
+- 書いた。  -- 名無しさん  (2009-08-27 16:11:47)
+- 移転先の新ブログへのリンク追加しました。  -- 名無しさん  (2010-02-14 08:45:25)
+- 恐怖ガーデン  -- 名無しさん  (2010-03-11 00:48:03)
+- 着々とカラオケ配信してるなｗｗ  -- 名無しさん  (2010-03-16 18:37:38)
+- 再生数もコメント数もマイリス数も多いのにボカロ系メドレーに全然使われなくて残念・・・  -- 名無しさん  (2011-08-31 12:20:27)
+- 僕が初音ミクの存在を知ったのは、「護法少女ソワカちゃん」を雑誌の記事で読んだからでした。僕がボーカロイドを好きになったのも、kihirohitoさんのお蔭です。  -- 竜奇  (2012-03-28 14:04:52)
+- プラスチックチェリーボムはコラボだから除外？  -- 名無しさん  (2012-07-24 23:20:57)
+#comment()

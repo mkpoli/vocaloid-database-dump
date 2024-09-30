@@ -1,0 +1,53 @@
+#right(){&furigana(GonGoss)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/2465190" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/2465190">【ニコニコ動画】卓上音楽でアレコレ・。ﾟ＠ニコ動画出張所</a></iframe>)
+
+**特徴
+作り手名：『&u(){GonGoss}』
+-現在殿堂入りを達成している楽曲の中では最も投稿日時が古い初音ミクオリジナル曲である『[[White Letter>>White Letter/GonGoss]]』の作者。
+-作りたいものを作るというスタンスで裏街道を進むことを目標にしている。
+-毎回お題を決めて曲を作っている。
+-「裏街道P」と名乗ることもある…が別人格という設定らしい。
+
+**リンク
+-[[作者ブログ>>http://gondtm.blog111.fc2.com/]]
+-[[PIAPRO>>https://piapro.jp/GonGoss]]
+-[[YouTube>>https://www.youtube.com/user/VivioLiner]]
+-[[Twitter>>https://twitter.com/GonGoss]]
+
+**曲
+#list_by_tag(GonGoss,100,sort=furigana)
+
+**CD
+#list_by_tag(GonGossCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm1028001)|&nicovideo(sm1108412)|
+|&nicovideo(sm1178919)|&nicovideo(sm1505105)|
+|&nicovideo(sm1886501)|&nicovideo(sm2569928)|
+|&nicovideo(sm2833542)|&nicovideo(sm4076485)|
+|&nicovideo(sm5142324)|&nicovideo(sm5481871)|
+|&nicovideo(sm6305408)|&nicovideo(sm6427846)|
+|&nicovideo(sm6546180)}|&nicovideo(sm6875596)|
+|&nicovideo(sm11431973)|&nicovideo(sm11741968)|
+|&nicovideo(sm17419476)|&nicovideo(sm17835463)|
+|&nicovideo(sm17916489)|&nicovideo(sm19749921)|
+|&nicovideo(sm19812300)|&nicovideo(sm20451613)|
+|&nicovideo(sm25766521)|&nicovideo(sm25859142)|
+|&nicovideo(sm28169616)|&nicovideo(sm28619499)|
+|&nicovideo(sm37005763)|>|
+
+
+
+**コメント
+- White Letter、スマイリーｘ2共に素晴らしいＰＶが製作されている。　爽やかで暖か。　ブログでの人柄も微笑ましい。  -- 名無し  (2008-04-02 20:39:26)
+- 何故か本家の曲が埋もれているのにＰＶが出て、それが一気に伸びる。ＰＶと合わせると再生数も凄いんだが…。  -- 名無しさん  (2008-04-03 00:26:17)
+- バーボンPと呼ばれていたことも。  -- 名無しさん  (2008-04-15 22:32:43)
+- PVに抜かれることに定評のあるうｐ主がタグロックされていたこともあるｗ  -- 名無しさん  (2008-04-17 23:52:35)
+- 初音ミクさんの心境はガチでいい曲ぜひ聞くべき  -- 名無しさん  (2009-03-09 21:18:11)
+- 日本万歳  -- 名無しさん  (2009-06-01 17:58:09)
+- GonGossさん　素敵な曲ばかりで本当好き･･･知ったのは男子校からだけどｗｗ　特徴は毎回御代を作ってですか・・・すごいなｗ作りたいものを作るって言うのも尊敬　さわやか曲あったまる曲いろいろあってすごく好きです  -- 麻里亜  (2010-06-24 07:52:04)
+#comment()

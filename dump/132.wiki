@@ -1,0 +1,28 @@
+#right(){&furigana(らいおん)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+&nicovideo_mylist(2458612)
+
+**特徴
+作り手名：『&u(){らいおんP}』
+-メタル系のカバーを手がける
+-英語の歌詞は空耳を駆使して苦しいながらも自然に聞こえるよう努力している
+-途中からギターソロをスキャットで表現し芸域を広げた
+
+**リンク
+-[[らいおんPのまったりMUSIC LIFE（作者ブログ）>>http://blog.livedoor.jp/lionp/]]
+-[[PIAPRO>>http://piapro.jp/lionp]]
+
+**曲
+#list_by_tag(らいおんP,100,sort=furigana,errmsg=まだ曲が登録されていません) 
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm1031337){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm1879397){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2140465){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm1331596){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm971485){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm964540){340,185}|
+
+
+**コメント
+- ミクとは直接関係ない話かもしれないが、けなげな日常生活のKAITOを低音で歌わせる  -- 名無しさん  (2008-01-06 18:43:54)
+- それってライオンPじゃない？  -- 名無しさん  (2008-01-07 01:37:53)
+- 多分ライオンPですね。 (少なくともニコ動のアカウントは別で、作風も全然違う）  -- 名無しさん  (2008-01-07 01:48:25)
+- ↑ライオンP(カタカナの方の)は「木琴P」に改名した模様。  -- 名無しさん  (2008-01-28 23:19:10)
+#comment()

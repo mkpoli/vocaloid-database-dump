@@ -1,0 +1,34 @@
+#right(){&furigana(またおまP) &furigana()【登録タグ:&tags() 】}
+|&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/2860658" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/2860658">【ニコニコ動画】料理...以外もあるよ</a></iframe>)|&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/13643078" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/13643078">【ニコニコ動画】料理以外もありますよ２</a></iframe>)|
+
+**特徴
+-独特な絵柄と曲調（主にアニメソング）にのせて料理を作り続ける動画を多数アップ。固定ファン多し。
+-挨拶は「またお前か」がお約束。
+-鏡音リン・レン、KAITO、MEIKO（メイコお母さん）も仲間入り。
+-目標は1000曲らしい。
+
+**リンク
+-[[作者HP>>http://ww1.enjoy.ne.jp/~kiroiyane/mataomap1.html]]
+-[[PIAPRO>>https://piapro.jp/mataomap]]
+
+**動画
+|&nicovideo(sm1202385)|&nicovideo(sm2379131)|
+|&nicovideo(sm1562340)|&nicovideo(sm1631349)|
+|&nicovideo(sm3726658)|&nicovideo(sm5789812)|
+|&nicovideo(sm7654065)|&nicovideo(sm7744807)|
+|&nicovideo(sm7803408)|&nicovideo(sm7829647)|
+
+
+**コメント
+- どうも主婦らしい  -- 名無しさん  (2008-02-02 11:08:24)
+- 後に主「夫」である事をカミングアウトしてます。  -- 名無しさん  (2008-02-07 23:24:48)
+- 何やら夫婦合作という説がでています  -- 名無しさん  (2008-02-09 00:01:58)
+- 「継続は力なり」を体現している  -- 名無しさん  (2008-02-20 16:38:57)
+- サムネでわかるうｐ主です。  -- 名無し  (2008-04-02 20:11:52)
+- 最近大変なのかペースが落ちてますね…元気にしてるのかなぁ  -- 名無しさん  (2008-05-21 21:19:09)
+- ブログはhttp://mataomap.blog45.fc2.com/  -- 名無しさん  (2008-05-25 02:25:46)
+- またおまＰ新ＨＰ開設してました。http://ww1.enjoy.ne.jp/~kiroiyane/mataomap1.html  -- 名無しさん  (2009-01-06 21:48:42)
+- 紹介動画が少なかったので増やしてみました。楽しげなもの数曲＋ミク以外のボカロ曲ひとつずつです。選曲に不満がありましたら修正お願いします。  -- 名無しさん  (2009-08-06 23:48:12)
+- この人いったいいくつ作ってんだ？ｗ  -- 名無しさん  (2009-08-07 01:20:21)
+- 当コミュでファン増殖中です　http://com.nicovideo.jp/community/co9271  -- オレンジ親衛隊  (2010-04-26 01:57:04)
+#comment()

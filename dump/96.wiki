@@ -1,0 +1,51 @@
+#right(){&furigana(ねはんしかP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/3192955" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/3192955">【ニコニコ動画】ネハンシカP作品集</a></iframe>)
+
+**特徴
+作り手名：『&u(){ネハンシカP}』
+-人と同じ事をやるのが大嫌いと語り癖の強い曲を作るPだが、活動初期は優しげな曲も作っていた。
+
+**リンク
+//-[[yggdrasil（作者ブログ）>>http://gabriel777.dyndns.org/blog/]]
+-[[PIAPRO（xxxGabxxx）>>https://piapro.jp/xxxGabxxx]]
+-[[ニコニコ>>https://www.nicovideo.jp/user/3225114]]
+
+**曲
+#list_by_tag(ネハンシカP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**動画
+***オリジナル曲
+|&nicovideo(sm1340111)|&nicovideo(sm1352500)|
+|&nicovideo(sm1370700)|&nicovideo(sm1385307)|
+|&nicovideo(sm1475230)|&nicovideo(sm1508726)|
+|&nicovideo(sm1645684)|&nicovideo(sm1737498)|
+|&nicovideo(sm1747032)|&nicovideo(sm1784041)|
+|&nicovideo(sm1809717)|&nicovideo(sm1924354)|
+|&nicovideo(sm1976990)|&nicovideo(sm2175658)|
+|&nicovideo(sm2273429)|&nicovideo(sm3342533)|
+|&nicovideo(sm3372320)|&nicovideo(sm3599266)|
+|&nicovideo(sm3621300)|&nicovideo(sm3814581)|
+|&nicovideo(sm3881025)|&nicovideo(sm3936900)|
+|&nicovideo(sm3952115)|&nicovideo(sm4055788)|
+|&nicovideo(sm4160498)|&nicovideo(sm4205524)|
+|&nicovideo(sm4353819)|&nicovideo(sm5399109)|
+|&nicovideo(sm5617064)|&nicovideo(sm6303851)|
+|&nicovideo(sm6356069)|&nicovideo(sm6644517)|
+|&nicovideo(sm7745734)|&nicovideo(sm7831788)|
+|&nicovideo(sm8347512)|&nicovideo(sm9668606)|
+
+***アレンジ
+|&nicovideo(sm8113135)|&nicovideo(sm8238264)|
+
+***クリスマス曲
+|&nicovideo(sm1747032)|&nicovideo(sm1854534)|
+
+**コメント
+- ネハンシカさいこー!  -- 名無しさん  (2012-05-05 01:15:42)
+- ネハンシカがいいなぁ(*´∀｀)  -- 名無しさん  (2012-05-09 15:56:04)
+- 赤い人形もいいよね!!ネハンシカＰさん大好きです!!ヾ(*・∀・)/  -- 名無しさん  (2012-05-09 15:56:54)
+#comment()

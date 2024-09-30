@@ -1,0 +1,11 @@
+#right(){&furigana(しようわかよう) &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/2827152" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/2827152">【ニコニコ動画】昭和歌謡大全（付録）</a></iframe>)
+
+**特徴
+-昭和時代のヒット曲のカバーを矢継ぎ早に発表。おっさんホイホイの第一人者。
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm1334715){340,185}|
+
+**コメント
+#comment()

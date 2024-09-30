@@ -1,0 +1,38 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/2520465" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/2520465">【ニコニコ動画】BinoP 動画リスト</a></iframe>)
+
+**特徴
+-曲選択がすてきです。
+-BinoPとは別人の専属絵師有り。
+
+**曲
+#list_by_tag(BinoP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**ミリオン達成状況
+-オリジナル楽曲では達成楽曲なし。
+-以下のカヴァー楽曲が[[ミリオン>曲一覧/ミリオン曲一覧]]を達成している。(曲名をクリックすると、ニコニコ動画内の対応した動画に飛ぶ仕様となっている。)
+
+|CENTER:&bold(){曲名}|CENTER:&bold(){100万再生}|CENTER:&bold(){200万再生} |CENTER:&bold(){300万再生}|CENTER:&bold(){備考}|
+|[[粉雪>>http://www.nicovideo.jp/watch/sm1465138]]|2010年12月13日|||原曲はレミオロメンの[[粉雪>>https://youtu.be/1wxTksLZ1Mw]]&br()歌唱は初音ミク|
+
+**リンク
+-[[作者ホームページ>http://www2.atword.jp/binop/]]
+
+**オリジナル曲
+|&nicovideo(sm2274095)|&nicovideo(sm4365750)|
+|&nicovideo(sm7052196)|&nicovideo(sm21464939)|
+|&nicovideo(sm23391809)||
+
+**カバー曲
+|&nicovideo(sm1055428)|&nicovideo(sm1092609)|
+|&nicovideo(sm1117385)|&nicovideo(sm1139078)|
+|&nicovideo(sm1151416)|&nicovideo(sm1181096)|
+|&nicovideo(sm1194935)|&nicovideo(sm1237855)|
+|&nicovideo(sm1347456)|&nicovideo(sm1465138)|
+|&nicovideo(sm1878266)|&nicovideo(sm2000425)|
+|&nicovideo(sm21236065)||
+
+**コメント
+- 調教上手いし専属絵師さんの絵も良い  -- 名無しさん  (2008-03-30 14:21:45)
+- もっと評価されるべき  -- 吃音カム  (2010-01-21 10:51:14)
+#comment()

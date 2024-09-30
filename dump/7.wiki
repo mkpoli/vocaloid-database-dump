@@ -1,0 +1,17 @@
+* 動画(youtube)
+@wikiのwikiモードでは
+ #video(動画のURL)
+と入力することで、動画を貼り付けることが出来ます。
+詳しくはこちらをご覧ください。
+＝＞http://atwiki.jp/guide/17_209_ja.html
+
+また動画のURLはYoutubeのURLをご利用ください。
+＝＞http://www.youtube.com/
+
+-----
+
+
+たとえば、#video(http://youtube.com/watch?v=kTV1CcS53JQ)と入力すると以下のように表示されます。
+
+
+#video(http://youtube.com/watch?v=kTV1CcS53JQ)

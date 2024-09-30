@@ -1,0 +1,17 @@
+#right(){&furigana(すみっこ) &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/126600" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/126600">【ニコニコ動画】「隅っこP 」のマイリスト</a></iframe>)
+
+**特徴
+-調教レベルの高さに定評があり、主に演歌のカバーを得意とする。
+-名前の由来は動画の右下隅っこにミクの絵がある事。
+-マイリストに書いてあるようにワンコーラスしか作らない事が多いが、稀にフルも作る。
+-かなり古いPCでVocaloid2を動かしていた（そして、PCが壊れた）らしい。 （sm1679478の作者コメより）
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm1210091){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm1447158){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm1557090){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm1959833){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2216136){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm3680835){340,185}|
+
+**コメント
+- 信頼のブランド隅P。この人の、魂のこもった歌唱の影響でボカロに目覚めました。演歌にも。ありがとう！  -- 名無しさん  (2009-11-03 17:52:40)
+#comment()

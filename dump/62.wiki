@@ -1,0 +1,242 @@
+#right(){&furigana(cosMoほうそうP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion|&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/3335347" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"></iframe><a target="_blank" href="https://www.nicovideo.jp/mylist/3335347">【ニコニコ動画】cosMo＠暴走P feat.ミクとかレンとか</a>)|&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/37662493" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/37662493">【ニコニコ動画】</a></iframe>)|
+
+**特徴
+作り手名：『&u(){cosMo＠暴走P}』（&u(){コスモ アット ぼうそうピー}）
+
+-ニコニコ動画のタグでは主に「cosMo（暴走P）」表記が使われている。
+--当初は単に&bold(){cosMo}の名で活動していたが、ニコニコ動画で2曲目に発表した『[[初音ミクの暴走]]』をきっかけに&bold(){暴走P}の名が付けられ、それらを繋げた名義を使うようになった（本人は「そろそろcosMoに戻すかって思いつつ完全に戻すタイミング失ってる感ある」とのこと）。
+//https://twitter.com/cosmobsp/status/625619289945407488 より
+-本業はイラスト描きだが、後にイラスト描き見習い兼DTMerになった。
+-ミク、リン・レン、がくぽ、ルカ、KAITO、GUMI、ゆかり、IA、MAYU、flower、ウナを使いこなす。
+--ちなみに、一番好きなのは 鏡音レンらしい。（『ぼからじ』より）
+-機械ならではのユニークな調声が特徴。また、独特の音階も印象深い。高速スキャット、超ハイテンポ楽曲や、周波数の高い曲に定評がある。
+-最近は彼のいとこである絵師の ナナシ氏や、彼の実弟である作詞家の [[GAiA]]氏とコラボしていたりする。&br()特にGAiA氏とは「Story Researcher」（前：Storyteller）としてタッグを組んでいる。&br()また、後述の星ノ少女ト幻奏楽土シリーズより、イラストやキャラクターデザインとして[[syuri22]]氏がメンバー入りをしている。
+-シリーズとして繋がっている曲が多い。代表的なシリーズ名は以下の通り。
+-+&b(){"ボーカロイドにオリ曲を喋ってもらった"シリーズ}…『[[初音ミクの暴走]]』『[[ラジカルペイント>魔法少女ラジカルペイント]]』 etc...
+-+&b(){"「消失」ストーリー"}（上記と重複あり）…『[[初音ミクの消失 -DEAD END-]]』『[[初音ミクの戸惑]]』 etc...
+-+&b(){"少女の空想庭園"シリーズ}…『[[少女の空想庭園]]』『[[園庭想空の女少]]』『[[ミヤコワスレ>ミヤコワスレ/cosMo（暴走P）]]』 etc...
+-+&b(){"星ノ少女ト幻奏楽土"シリーズ}…『[[家出少年と迷子少女]]』『[[修道少女と偶像少女]]』『[[童心少女と大人世界]]』 etc...
+--空想庭園シリーズなどの一部の曲にはテキストによるオハナシ（サイドストーリー）が付属していたり、かつてコミケで「少女の空想庭園 設定資料集」が頒布されたりなどしていた。また、シリーズを超えて設定が関わっている事もある模様（例として 『[[HYPER∞LATiON>Infinite∞HOLiC]]』は（空想庭園シリーズの）「少女」による「InfinitY」の二次創作という設定 など）。
+-殿堂入り曲を多数輩出しているボカロPであり、2022年12月5日現在、オリジナル曲では処女作の『[[電脳スキル]]』から数えて69件（セルフカバー・アレンジ含）の曲が殿堂入りを果たしている。
+--他ボカロPとのコラボ曲・カバー曲においても『[[ひとりかくれんぼ]]』『[[炉心融解]]』など（コラボ2件・カバー5件）の殿堂入りを果たしている。
+--余談だが自身や他のボカロPとの歌ってみたもしており、それらについても殿堂入りを果たしている。
+-&bold(){黒猫アンティーク} という別名義でリリースすることもある。
+-2014年2月にsyuri22氏と入籍。
+--後に夫婦でのユニット名として「うさぎ愛好会」という形でオリジナル曲を手がけており、2017年には自身初の東方Projectアレンジ曲も手がけた((東方永夜抄コンテストにおいて「誰が為に兎は舞う＝狂速狂騒曲＝」で採用、2018年登場))。
+-189回生放送にて上記の入籍の件、及びGAiA氏と実の兄弟（cosMo氏が兄）であることを報告。
+-音ゲーのインスト曲を中心に非ボカロ曲も制作している。
+--彼の楽曲はどの音ゲーでも必ず難しくなる、というジンクスがある。
+//特に、『太鼓の達人』の「ダンガンノーツ」は全良難易度SSで最難関の一角である。
+-次の曲が殿堂入りを達成している。&br()&list_by_tagsearch(暴走P,殿堂入り,sort=furigana,option=nolist,nolistspace=、,100)
+
+#region(CD限定曲等)
+-アカツキシアタ / 巡音ルカ
+-ウタハコ://M / 巡音ルカ
+-ガラクタネバーランド / GUMI
+-月明・昂揚・乱舞 / 初音ミク
+-トキハコ / 初音ミク
+-ボクらのコスモロジー / 初音ミク
+-星の少女と幻想楽土 / 巡音ルカ
+-ミュージック∞ファクトリー / 鏡音リン
+-ラパンビースト /GUMI・初音ミク
+-ラパンブラン/ 初音ミク
+-ループする初恋 / 初音ミク
+-A.I. / 初音ミク
+-Evans VolteX Pf arrange / 初音ミク
+-Hyper∞LATiON / 初音ミク
+--[[メドレーとして公開>Infinite∞HOLiC]]
+-R-25 / 鏡音レン
+-θコトノハθカプセルθ  / 音街ウナ 
+#endregion
+
+**ミリオン達成状況
+-以下の10曲が[[ミリオン>曲一覧/ミリオン曲一覧]]を達成している。
+|CENTER:&bold(){曲名}|CENTER:&bold(){100万再生}|CENTER:&bold(){200万再生}|CENTER:&bold(){300万再生}|CENTER:&bold(){}|
+|[[初音ミクの消失 -DEAD END-]]|2008年11月11日|2009年8月14日|2010年6月15日|史上7曲目となる&bold(){テンミリオン達成曲}&br()令和初のテンミリオン達成曲|
+|[[鏡音レンの暴走]]|2010年11月1日|2022年6月9日||12人目となるミリオン複数持ちP|
+|[[初音ミクの暴走]]|2011年2月19日|||6人目となる3曲ミリオン持ちP|
+|[[初音ミクの激唱（LONG VERSION）]]|2012年12月3日|2021年4月4日||11人目となる4曲ミリオン持ちP|
+|[[ANTI THE∞HOLiC]]|2014年6月4日|2023年5月12日||9人目となる5曲ミリオン持ちP&br()31人目となる&bold(){4曲ダブルミリオン持ちP}|
+|[[初音ミクの暴走（LONG VERSION）]]|2017年4月5日|||14人目となる6曲ミリオン持ちP|
+|[[僕は空気が嫁ない]]|2020年10月12日|||25人目となる7曲ミリオン持ちP|
+|[[初音ミクの分裂→破壊]]|2021年3月21日|||21人目となる8曲ミリオン持ちP|
+|[[マシンガンポエムドール]]|2022年12月2日|||21人目となる9曲ミリオン持ちP|
+|[[リアル初音ミクの消失]]|2023年7月30日|||19人目となる10曲ミリオン持ちP|
+
+**リンク
+-[[作者ホームページ "Chemical system LE">>https://chemsys.cc/]]
+--※作者サイトの[[DISCOGRAPHY 作品一覧>>https://chemsys.cc/disc.html]]にて、これまでの発表曲や関連動画・イラスト・SSへのリンクが詳細にまとめられている（[[参照>>https://chemsys.cc/disc/list_a01.html]]）。
+//-[[muzie>>http://www.muzie.ne.jp/artist/a047541/]]
+-[[pixiv>>https://www.pixiv.net/users/226161]]
+-[[Twitter>>https://twitter.com/cosmobsp]]
+-[[YouTube>>https://www.youtube.com/user/cosmobsp]]
+-[[Bilibili>>https://space.bilibili.com/414638228]]
+-[[ニコニコ大百科（単語記事）>>https://dic.nicovideo.jp/a/cosmo%28%E6%9A%B4%E8%B5%B0p%29]]
+-[[Wikipedia>>https://ja.wikipedia.org/wiki/CosMo]]
+
+**曲
+登録が100曲を超え、一つのタグで全曲のリストアップが出来なくなりました。そのため、先頭文字を元にした12種類のタグ「曲あ」～「曲わ」、「曲英」、「曲他」をつけて、P名とともにselectするリストにしています。「曲他」は記号等です。ここに表示されていない曲については、[[タグキーワード「暴走P」を含むページ一覧>http://www5.atwiki.jp/hmiku/tag/暴走P]]を参照するか、wiki内検索をお願いします。
+ページが存在する場合は「暴走P」と「曲×」の2つのタグをつければ、ここに表示されるようになります。
+
+|&link_aname(A){あ行}|&link_aname(K){か行}|&link_aname(S){さ行}|&link_aname(T){た行}|&link_aname(N){な行}|&link_aname(H){は行}|&link_aname(M){ま行}|&link_aname(Y){や行}|&link_aname(R){ら行}|&link_aname(W){わ行}|&link_aname(AZ){英語}|&link_aname(1){記号・数字}|
+&search3(title=,size=100,and,ignore=own)
+&small(){&aname(,option=nolink){(}[[あ行>https://w.atwiki.jp/hmiku/?cmd=tagsearch&keyword=暴走P+曲あ&andor=and&opt1=2]])}
+#list_by_tagsearch(暴走P,曲あ,sort=furigana2,errmsg=「あ行」で始まる曲はまだ登録されていません。,and,100)
+&small(){&aname(K,option=nolink){(}[[か行>https://w.atwiki.jp/hmiku/?cmd=tagsearch&keyword=暴走P+曲か&andor=and&opt1=2]])}
+#list_by_tagsearch(暴走P,曲か,sort=furigana2,errmsg=「か行」で始まる曲はまだ登録されていません。,and,100)
+&small(){&aname(S,option=nolink){(}[[さ行>https://w.atwiki.jp/hmiku/?cmd=tagsearch&keyword=暴走P+曲さ&andor=and&opt1=2]])}
+#list_by_tagsearch(暴走P,曲さ,sort=furigana2,errmsg=「さ行」で始まる曲はまだ登録されていません。,and,100)
+&small(){&aname(T,option=nolink){(}[[た行>https://w.atwiki.jp/hmiku/?cmd=tagsearch&keyword=暴走P+曲た&andor=and&opt1=2]])}
+#list_by_tagsearch(暴走P,曲た,sort=furigana2,errmsg=「た行」で始まる曲はまだ登録されていません。,and,100)
+&small(){&aname(N,option=nolink){(}[[な行>https://w.atwiki.jp/hmiku/?cmd=tagsearch&keyword=暴走P+曲な&andor=and&opt1=2]])}
+#list_by_tagsearch(暴走P,曲な,sort=furigana2,errmsg=「な行」で始まる曲はまだ登録されていません。,and,100)
+&small(){&aname(H,option=nolink){(}[[は行>https://w.atwiki.jp/hmiku/?cmd=tagsearch&keyword=暴走P+曲は&andor=and&opt1=2]])}
+#list_by_tagsearch(暴走P,曲は,sort=furigana2,errmsg=「は行」で始まる曲はまだ登録されていません。,and,100)
+&small(){&aname(M,option=nolink){(}[[ま行>https://w.atwiki.jp/hmiku/?cmd=tagsearch&keyword=暴走P+曲ま&andor=and&opt1=2]])}
+#list_by_tagsearch(暴走P,曲ま,sort=furigana2,errmsg=「ま行」で始まる曲はまだ登録されていません。,and,100)
+&small(){&aname(Y,option=nolink){(}[[や行>https://w.atwiki.jp/hmiku/?cmd=tagsearch&keyword=暴走P+曲や&andor=and&opt1=2]])}
+#list_by_tagsearch(暴走P,曲や,sort=furigana2,errmsg=「や行」で始まる曲はまだ登録されていません。,and,100)
+&small(){&aname(R,option=nolink){(}[[ら行>https://w.atwiki.jp/hmiku/?cmd=tagsearch&keyword=暴走P+曲ら&andor=and&opt1=2]])}
+#list_by_tagsearch(暴走P,曲ら,sort=furigana2,errmsg=「ら行」で始まる曲はまだ登録されていません。,and,100)
+&small(){&aname(W,option=nolink){(}[[わ行>https://w.atwiki.jp/hmiku/?cmd=tagsearch&keyword=暴走P+曲わ&andor=and&opt1=2]])}
+#list_by_tagsearch(暴走P,曲わ,sort=furigana2,errmsg=「わ行」で始まる曲はまだ登録されていません。,and,100)
+&small(){&aname(AZ,option=nolink){(}[[英語>https://w.atwiki.jp/hmiku/?cmd=tagsearch&keyword=暴走P+曲英&andor=and&opt1=2]])}
+#list_by_tagsearch(暴走P,曲英,sort=furigana2,errmsg=「英語」で始まる曲はまだ登録されていません。,and,100)
+&small(){&aname(1,option=nolink){(}[[記号・数字>https://w.atwiki.jp/hmiku/?cmd=tagsearch&keyword=暴走P+曲他&andor=and&opt1=2]])}
+#list_by_tagsearch(暴走P,曲他,sort=furigana2,errmsg=「記号・数字」で始まる曲はまだ登録されていません。,and,100)
+
+**CD
+#list_by_tagsearch(暴走PCD,sort=furigana2,errmsg=まだCDが登録されていません。,and,100)
+
+**動画
+（最新9～10曲優先表示）
+-&bold(){VOCALOIDオリジナル曲・セルフカヴァー曲}
+#region(close,これ以前の楽曲)
+|&nicovideo(sm1233296)|&nicovideo(sm1342044)|
+|&nicovideo(sm1476648)|&nicovideo(sm1683450)|
+|&nicovideo(sm1962941)|&nicovideo(sm1999863)|
+|&nicovideo(sm2114763)|&nicovideo(sm2341885)|
+|&nicovideo(sm2677711)|&nicovideo(sm2937784)|
+|&nicovideo(sm3207909)|&nicovideo(sm3605027)|
+|&nicovideo(sm3874763)|&nicovideo(sm4603213)|
+|&nicovideo(sm4775243)|&nicovideo(sm5156246)|
+|&nicovideo(sm5598180)|&nicovideo(sm5640393)|
+|&nicovideo(sm7020470)|&nicovideo(sm7295500)|
+|&nicovideo(sm7513121)|&nicovideo(sm7781905)|
+|&nicovideo(sm8755251)|&nicovideo(sm8823002)|
+|&nicovideo(sm9024225)|&nicovideo(sm10114759)|
+|&nicovideo(sm10385613)|&nicovideo(sm10924943)|
+|&nicovideo(sm11328911)|&nicovideo(sm11622258)|
+|&nicovideo(sm11943126)|&nicovideo(sm12821199)|
+|&nicovideo(sm13587322)|&nicovideo(sm14538995)|
+|&nicovideo(sm14735906)|&nicovideo(sm15406427)|
+|&nicovideo(sm15603633)|&nicovideo(sm16001608)|
+|&nicovideo(sm16417324)|&nicovideo(sm17628353)|
+|&nicovideo(sm17771227)|&nicovideo(sm18163371)|
+|&nicovideo(sm18240671)|&nicovideo(sm18424915)|
+|&nicovideo(sm18603564)|&nicovideo(sm18729289)|
+|&nicovideo(sm19200600)|&youtube(https://www.youtube.com/watch?v=McA9a-wrAcs){342,187}|
+|&nicovideo(sm19835180)|&nicovideo(sm20738577)|
+|&nicovideo(sm20755687)|&nicovideo(sm20855427)|
+|&nicovideo(sm21258854)|&nicovideo(sm21552463)|
+|&nicovideo(sm21744668)|&nicovideo(1379217119)|
+|&nicovideo(sm22421174)|&nicovideo(sm22777981)|
+|&nicovideo(sm23769208)|&nicovideo(sm23866802)|
+|&nicovideo(sm26813372)|&nicovideo(sm27497499)|
+|&nicovideo(sm27531582)|&nicovideo(sm27825447)|
+|&nicovideo(1458199044)|&nicovideo(sm28844020)|
+|&nicovideo(sm28997411)|&nicovideo(sm30829059)|
+|&nicovideo(sm31378419)|&nicovideo(sm32071010)|
+|&nicovideo(sm33747740)|&nicovideo(sm34904158)|
+|&nicovideo(sm35009595)|&nicovideo(sm35236208)|
+|&nicovideo(sm35330351)|&nicovideo(sm35509199)|
+|&nicovideo(sm35614785)|&nicovideo(sm35840371)|
+|&nicovideo(sm36226531)|&nicovideo(sm36423951)|
+|&youtube(https://www.youtube.com/watch?v=Dk7SBvBrL6M){342,187}|&nicovideo(sm36723442)|
+|&nicovideo(sm36916315)|&nicovideo(sm37372478)|
+|&nicovideo(sm37502212)|&nicovideo(sm37697231)|
+|&nicovideo(sm37803377)|&youtube(https://www.youtube.com/watch?v=MJ4Ksv4TyKk){342,187}|
+|&nicovideo(sm38267699)|&nicovideo(sm39209934)|
+|&nicovideo(sm39411026)|&nicovideo(sm39426624)|
+|&nicovideo(sm39541078)|&nicovideo(sm40113702)|
+|&nicovideo(sm40344554)|&nicovideo(sm40527372)|
+|&nicovideo(sm40519024)|&nicovideo(sm40973500)|
+#endregion
+|&nicovideo(sm41871286)|&nicovideo(sm42010625)|
+|&nicovideo(sm42389063)|&nicovideo(sm42492046)|
+|&nicovideo(sm42840225)|&nicovideo(sm43088340)|
+|&nicovideo(sm43367934)|&nicovideo(sm43430389)|
+|&youtube(https://www.youtube.com/watch?v=5ZxdXIZQ080){342,187}|>|
+//|&nicovideo()|&nicovideo()|
+-&bold(){コラボ曲}
+|&nicovideo(sm11790454)|&nicovideo(sm17565963)|
+-&bold(){カバー曲}
+|&nicovideo(sm2469590)|&nicovideo(sm4456545)|
+|&nicovideo(sm7219091)|&nicovideo(sm8110724)|
+|&nicovideo(sm13144498)|&nicovideo(sm15817630)|
+|&nicovideo(sm16467298)||
+-&bold(){音ゲー収録曲（非ボカロ）}
+|&youtube(https://www.youtube.com/watch?v=SOKNGjdJF80){342,187}|&youtube(https://www.youtube.com/watch?v=r3FFOl-LAM8){342,187}|
+|&youtube(https://www.youtube.com/watch?v=InHxulBfIck){342,187}|&youtube(https://www.youtube.com/watch?v=VmuuzwL6IXA){342,187}|
+|&youtube(https://www.youtube.com/watch?v=j0aBmzO70HY){342,187}|&youtube(https://www.youtube.com/watch?v=DUNDpJcubn8){342,187}|
+|&youtube(https://www.youtube.com/watch?v=PyMtm6ATLsA){342,187}|&youtube(https://www.youtube.com/watch?v=y-_m2z28-HM){342,187}|
+|&youtube(https://www.youtube.com/watch?v=o5rjWKmk1Gs){342,187}|>|
+
+**関連タグ内の更新履歴
+#region(close,関連タグ内の更新履歴)
+関連タグ内の更新履歴
+※「暴走P」「暴走PCD」タグ内で最近編集やコメントのあった記事を新しい方から10件表示しています。
+#list_by_tagsearch(暴走P,暴走PCD,sort=timestamp,sort2=desc,errmsg=まだ曲が登録されていません。,or,10)
+#endregion
+
+**コメント
+&bold(){2012年までのログは[[こちら>cosMo（暴走P）/過去ログ]]に収納しました。}
+- オリ曲殿堂入り数この人一番多いよね？  -- 名無しさん  (2013-01-22 14:56:14)
+//- 激唱でニエンテパクったのも記憶に新しいのにガラクタネバーランドでリナシタをパクるとはこいつ何を考えているのか  -- 名無しさん  (2013-02-10 12:06:41)
+//- 激唱がニエンテに似てないっていうやつって音楽なめてるか真面目に曲聞いてないかのどっちかだな  -- 名無しさん  (2013-02-10 12:13:03)
+- cosMoって視聴者皮肉ったり作者の愚痴をテーマにした歌結構多いよね  -- 名無しさん  (2013-02-10 12:14:29)
+//- なぜまっとうなパクリひはんコメがけされているのか  -- 名無しさん  (2013-02-10 14:12:03)
+- 少年ラジオのコピバンだよね  -- 名無しさん  (2013-02-10 14:13:59)
+//- 激唱でニエンテパクった次はガラクタネバーランドでリナシタをパクったcosMoはいったいどういうつもりなのか  -- 名無しさん  (2013-02-10 14:15:18)
+//- 韓国人  -- 名無しさん  (2013-02-10 15:28:05)
+//- ↑２ それだけwacさんのこと尊敬してるってことじゃないかな……あなたのおかげで僕はここまで進むことができましたっていう感謝を込めたかった。………と、僕は思いたい。  -- 長文失礼。  (2013-02-10 21:04:29)
+- だから？  -- 名無しさん  (2013-02-10 22:12:10)
+//- 激唱でニエンテパクったばかりなのに新曲で今度はリナシタパクってるぞ  -- 名無しさん  (2013-02-11 19:41:09)
+//- 他人の才能を借りて作ったものに感動するの？ボロイ商売だな  -- 名無しさん  (2013-02-11 19:42:08)
+//- 激唱でニエンテパクったばかりなのに新曲で今度はリナシタパクってるぞ  -- 名無しさん  (2013-02-11 19:57:30)
+//- なんでお前ら窃盗者の糾弾を隠蔽するの？  -- 名無しさん  (2013-02-11 19:58:14)
+- CosMoさんの曲は速くて鋭いけど、おもしろくて大好きです。  -- 名無しさん  (2014-12-29 20:31:35)
+- ↑禿同です　速い曲多いですね  -- ☆響  (2014-12-29 21:04:08)
+- 22 ＰＥＮＤＵＡＬに収録している『Monopole.』はいまのところここにはないけど、、、多機種化したらやってくれるのかな？  -- バルキリー燕  (2015-01-06 17:39:11)
+- ボーカロイドにオリ曲を喋ってもらったのシリーズ好きです  -- 名無し  (2015-01-18 13:29:00)
+- 転生少女と転生少年が名作だと思います！  -- 名無しさん  (2015-02-07 12:42:33)
+- 有名Pなのにミリオン少ないよな…殿堂入りはたくさんあるけど。曲全部好きです  -- 名無しさん  (2015-05-10 12:32:11)
+- 消失までは楽しい曲もあって好きだったけど、それ以降は歌詞が暗かったりお前の愚痴なんて聞きたくないよ的な曲が大半になったから好きじゃなくなった。聞いてて全然楽しい気持ちになれないもん。  -- 名無しさん  (2015-07-30 00:34:50)
+- サードアルバムおめ！  -- 名無しさん  (2015-07-30 01:18:09)
+- ↑２ 歌に楽しさだけを求めるなんて愚かすぎると思うよ。それに、自分の感性を他人に押し付けるのも。でも、明るい曲が聞きたいならバンブー、空気嫁、電波少女とか新しめの曲であるんだけど、聞いてないの？ インストとかも全く聞かないの？  -- 名無しさん  (2015-09-04 20:56:11)
+- 埋もれているけれどカヴァーも結構やっているんですね…  -- 名無しさん  (2015-09-20 08:41:54)
+- 批判コメント対策用に、空想庭園シリーズ作ったのか？と思うこの頃。  -- 名無し  (2015-11-03 22:15:57)
+- そういやprojectDIVAXに参加するらしいね。もしSM工場と同じパターンでゲーム用書き下ろし曲を収録されるのならもしかするとcosMoさんのミク曲を久々に聴けるかもしれないね。  -- 名無しさん  (2015-11-14 22:20:47)
+- 空想庭園書籍化の記念に空想庭園プラスの楽曲配信とかしてくれないかなあ  -- 名無しさん  (2015-11-15 19:01:44)
+- プラスはもう音源がないらしいよ。最近GUMIばっかでちょびっと寂しい。  -- 名無しさん  (2015-11-15 22:06:41)
+- またラジカルペイントやミク・レンの暴走みたいな電波ソング作ってください！  -- 名無しさん  (2016-02-17 05:32:45)
+//- 少女の空想庭園小説家おめでとうございます(今更感)買いたいけど学校の校則のせいでバイトできないw  -- 蘭丸  (2016-02-17 05:48:04)
+- この方の音楽は本当に凄い。ただ速いだけじゃなくて、中身の濃い作品が多い。しかも、音楽はリスナーがいなくては成り立たない。だから音作りも手を抜かない。このプロデューサーは、その全てができている。自分の個性も表現できているし、本当に素晴らしいと思う。この人は本当に人生を楽しんでいると思う。人間性から好きだな！だから、どうかそのままでいてほしいな……  -- 6916-96969@171171-471  (2016-02-23 01:15:42)
+- ウサギノキモチってこすもたんの曲だったの？？？？？？？？？！！！！！！  -- 名無しさん  (2016-06-16 13:04:08)
+- 初音ミクの激晶に憧れました!マジ最高っす！  -- ボカロ愛し隊1号  (2016-10-29 17:58:36)
+- インストCD嬉しい！！  -- 名無しさん  (2016-10-29 18:30:48)
+- 次のミクコンピに書き下ろす曲が楽しみ  -- 名無しさん  (2017-01-27 20:33:15)
+- ねぇ、壊れた人形は何処へ捨てられるの？  -- まる9  (2017-07-09 08:36:26)
+- ↑誰かページ作ってくれー  -- まる9  (2017-07-09 08:37:32)
+- らしるの、はボカロ使ってないからなしだよ  -- 名無しさん  (2017-07-09 15:07:34)
+- 作詞　作曲　編曲　動画　イラスト　全部出来るボカロPってすごいですね。  -- 名無し  (2020-11-23 12:16:16)
+- どの曲も好きです！本当にすごい人で尊敬しかないっす………  -- 名無しさん  (2021-11-25 16:46:33)
+- こんだけ書いてきてワ行が一つもないの逆にすごいな…  -- 名無しさん  (2024-06-27 00:34:43)
+- ↑非ボカロかつ英字なら「WalpurgisNacht」が存在するんですけどね。  -- 名無しさん  (2024-06-27 00:51:55)
+#comment()
+//&color(red){一時コメント欄を休止します。なお、2013-02-10～02-11にかけて同様のコメントを連投していた方については、誹謗中傷の面が強いため、発信元の確認および関係各所への連絡を行わせていただくかもしれません。}
+&color(red){※コメント欄を再開しました。トップページの&b(){コメントを書き込む際の注意}を読んでからコメントする様、お願いします。}

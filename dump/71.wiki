@@ -1,0 +1,46 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/2855724" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a target="_blank" href="http://www.nicovideo.jp/mylist/2855724">【ニコニコ動画】自作＆参加作品</a></iframe>)
+
+**特徴
+-初期の頃は、ショート版をアップして意見を集めてからフル版に反映させる手法を取っていた。
+-まめにコメントへのレスを入れる。
+-かつては&bold(){Kou}というクリエイターネームを名乗っていたが、アイマス界隈に「kouP」というPがいたり（当然ながら別人）など、&br()よくある名前ということもあって、2010年6月より&bold(){Kouhei}に名義変更した。
+-また、&bold(){おっさんP}というP名でも親しまれていたが、上記名義変更を機に「返上します」と宣言。&br()（「[[アウト オブ エデン]]」投稿者コメントより）
+--ちなみにこのP名は、「[[Life of Melody]]」のコメントで「おっさんリーマン」と自称したことに由来する。
+-ギタープレイにも定評があり、他のPの作品にギタープレイヤーとして参加することも多い。
+-最近では、歌ってみた・演奏してみたカテゴリへの進出や、&br()他の歌い手の作品のミックスを手がけるなど、活動の幅を大きく広げている。
+-産総研&bold(){『Netぼかりすα版』}のモニターユーザーのひとり。
+
+**リンク
+-[[作者ブログ "K's Sound Project">>http://be-dreamer.jugem.jp/]]
+-[[ピアプロ（旧アカウント）>>http://piapro.jp/OssanP]]
+-[[ピアプロ（現行アカウント）>>http://piapro.jp/k_s_project]]
+-[[zoome>>http://zoome.jp/ossanp/]]
+-[[muzie>>http://www.muzie.co.jp/cgi-bin/artist.cgi?id=a058174]]
+-[[Twitter>>http://twitter.com/Kouhei_ksp]]
+
+**曲
+#list_by_tag(Kouhei,100,sort=furigana)
+
+**CD
+#list_by_tag(KouheiCD,100,sort=furigana)
+
+**動画（オリジナル曲）
+|&nicovideo(http://www.nicovideo.jp/watch/sm1118149)|&nicovideo(http://www.nicovideo.jp/watch/sm1443655)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm1638936)|&nicovideo(http://www.nicovideo.jp/watch/sm2609155)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3820695)|&nicovideo(http://www.nicovideo.jp/watch/sm4283400)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6144187)|&nicovideo(http://www.nicovideo.jp/watch/sm6546162)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm11455035)|&nicovideo(http://www.nicovideo.jp/watch/sm13139336)|
+
+**動画（主なギター参加曲）
+|&nicovideo(http://www.nicovideo.jp/watch/sm3022878)|&nicovideo(http://www.nicovideo.jp/watch/sm3113205)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm4016253)|&nicovideo(http://www.nicovideo.jp/watch/sm4047356)|
+
+
+**コメント
+- 愛してます  -- みかん雨  (2010-08-01 22:11:24)
+- 誰かvisって曲の歌詞書いてくれませんか  -- 名無しさん  (2012-04-17 12:27:21)
+- アウトオブエデンで好きになりますたw今ではもう中毒です…♪  -- 名無しさん  (2012-07-26 00:43:19)
+- 「女王ゲルダ」は素晴らしい！！最高です！一発でファンになったのですが皆さんあまり知らないみたいなので宣伝してきます  -- ボカロ初級者  (2013-02-15 22:57:21)
+- ほりすたとアダザクラ好きっす_(:3 ｣ ∠)_  -- 名無しさん  (2013-10-15 18:16:58)
+#comment()

@@ -1,0 +1,121 @@
+#right(){&furigana(へへろんP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/3093143" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/3093143">【ニコニコ動画】虹原ぺぺろん／ぺぺろんＰ</a></iframe>)
+
+**特徴
+作り手名：『&u(){ぺぺろんP}』
+-若きハイペースDTMer。クールさの中に渋さを含んだ曲調・熱い思いを湛えた歌詞が特徴である。&br()また、&bold(){イントロの魔術師}と渾名されるように、初聴きでも引き込まれる個性的なイントロにも定評がある。
+-アーティスト名は&bold(){虹原ぺぺろん}。VOCALOID以外ではOzaShinという名義も使用している。
+-P名は「[[ぺぺろんちぃの☆ぱにっく！！]]」に由来するが、その作詞者はぺぺろんPではなく友人の舞人さんである。
+-所持ボーカロイドは非常に多く、曲ごとにボーカルを使い分けている。いずれも調整の技術は高い。
+-VOCALOID解説本を作ったり、デモソングの制作、YAMAHAの元でVOCALOID講座を行うなど、VOCALOIDの先生としての側面もある。
+-[[No.D]]氏と[[えろあきP]]とは高校時代からの友人である。えろあきPとは共同でCD製作を行った（『[[PROMINENT>PROMINENT/CD]]』）。
+-2012年8月29日に『[[ReFraction -BEST OF Peperon P-]]』でメジャーデビュー。
+-2014年には柴咲コウのシングル『蒼い星』より、「[[涙は宇宙に降る]]」の作詞作曲を担当。
+-殿堂入りしている曲は以下の通り。&br()「&list_by_tagsearch(ぺぺろんP,殿堂入り,sort=furigana,option=nolist,nolistspace=」「,100)」
+
+**ミリオン達成情報
+|CENTER:&bold(){曲名}|CENTER:&bold(){100万再生}|CENTER:&bold(){備考}|
+|[[シルバーバレット]]|2017年10月16日||
+|[[Guilty Verse]]|2019年8月24日|&bold(){氷山キヨテルオリジナル曲では史上初}|
+
+**リンク
+//-[[作者ホームページ（M-tone）>>http://www.njpeperon.sakura.ne.jp/]]
+-[[作者ブログ>>https://ozashin.hatenablog.com/]]
+//-[[作者ブログ（ぺっぺろん）>>http://peperonp.blog59.fc2.com/]]
+-[[PIAPRO>>https://piapro.jp/mrawo]]
+//-[[Twitter>>https://twitter.com/NJpeperon]]
+-[[ニコニコ>>https://www.nicovideo.jp/user/144833]]
+-[[YouTube>>https://www.youtube.com/channel/UC8Gj-yMpZT2C9UKzpWygxkQ]]
+-[[SoundCloud>>https://soundcloud.com/nijiharapeperon]]
+
+**曲
+#list_by_tag(ぺぺろんP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(ぺぺろんPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm1280406)|&nicovideo(sm1340022)|
+|&nicovideo(sm1454335)|&nicovideo(sm1454845)|
+|&nicovideo(sm1681054)|&nicovideo(sm1939482)|
+|&nicovideo(sm2044728)|&nicovideo(sm2121231)|
+|&nicovideo(sm2371970)|&nicovideo(sm2500834)|
+|&nicovideo(sm2766674)|&nicovideo(sm3017107)|
+|&nicovideo(sm3403073)|&nicovideo(sm3604446)|
+|&nicovideo(sm3893760)|&nicovideo(sm4267102)|
+|&nicovideo(sm4452409)|&nicovideo(sm4481613)|
+|&nicovideo(sm4651486)|&nicovideo(sm4850321)|
+|&nicovideo(sm5157109)|&nicovideo(sm5621101)|
+|&nicovideo(sm5671374)|&nicovideo(sm5884820)|
+|&nicovideo(sm6117948)|&nicovideo(sm6448569)|
+|&nicovideo(sm6696264)|&nicovideo(sm7012914)|
+|&nicovideo(sm7433059)|&nicovideo(sm7482275)|
+|&nicovideo(sm7755997)|&nicovideo(sm8053820)|
+|&nicovideo(sm8090884)|&nicovideo(sm8696152)|
+|&nicovideo(sm8720185)|&nicovideo(sm9085950)|
+|&nicovideo(sm9135925)|&nicovideo(sm9195638)|
+|&nicovideo(sm9216314)|&nicovideo(sm9218213)|
+|&nicovideo(sm10037227)|&nicovideo(sm10359559)|
+|&nicovideo(sm10981076)|&nicovideo(sm11398976)|
+|&nicovideo(sm11951016)|&nicovideo(sm12408368)|
+|&nicovideo(sm12465364)|&nicovideo(sm14225693)|
+|&nicovideo(sm15244119)|&nicovideo(sm15246106)|
+|&nicovideo(sm15464774)|&nicovideo(sm15467171)|
+|&nicovideo(sm15789667)|&nicovideo(sm15967377)|
+|&nicovideo(sm16491085)|&nicovideo(sm16817021)|
+|&nicovideo(sm17232159)|&nicovideo(sm17456528)|
+|&nicovideo(sm17633678)|&nicovideo(sm18337577)|
+|&nicovideo(sm18668057)|&nicovideo(sm18791896)|
+|&nicovideo(sm19949259)|&nicovideo(sm20307466)|
+|&nicovideo(sm21330100)|&nicovideo(sm21950184)|
+|&nicovideo(sm22537224)|&nicovideo(sm24005532)|
+|&nicovideo(sm24446662)|&nicovideo(sm25577978)|
+|&nicovideo(sm26108211)|&nicovideo(sm27464959)|
+|&nicovideo(sm27518772)|&nicovideo(sm29200429)|
+|&nicovideo(sm32097623)|&nicovideo(sm32368779)|
+|&nicovideo(sm32863505)|&nicovideo(sm35317195)|
+|&nicovideo(sm37073511)|&nicovideo(sm43023664)|
+//|&nicovideo()|&nicovideo()|
+
+**カバー曲
+|&nicovideo(sm20125227)|&nicovideo(sm24239771)|
+|&nicovideo(sm25308530)|>|
+
+**コメント
+- がくぽをゲットし鳥の詩をカバー。  -- 名無しさん  (2008-07-31 19:01:18)
+- 8月だけで4曲投稿とか、ほんとペース早いねｗ  -- 名無しさん  (2008-09-01 19:16:57)
+- メイコ姉さん人だったよｗｗｗ  -- 名無しさん  (2008-10-23 21:02:23)
+- この人全ボカロ持ってるよね?6人による歌とか出来ないかな  -- 名無しさん  (2008-11-15 20:30:02)
+- ↑それはいいね。新しい試みとして是非挑戦して欲しいな  -- 名無しさん  (2008-12-01 19:45:05)
+- 最近出てきたNo.D氏と高校時代から友人らしいな  -- 名無しさん  (2009-03-14 18:40:08)
+- 良い曲創るなぁ〜！完全に神だ！  -- 雨  (2009-06-15 17:15:15)
+- オレンジ・ティーンズの二人の滑舌メチャいいすね！作詞、作曲共に神！  -- 名無しさん  (2009-06-29 16:35:59)
+- 曲を探してると無意識にこの人の曲を気に入ってることが多いですけど…やっぱりぺぺろんPさんの実力なんですかね  -- 名無しさん  (2010-03-19 18:50:04)
+- 全ボカロを出す曲作る時はＰを止めるときだそうだ。嫌だけど、出たら多分聴くｗ  -- 名無しさん  (2010-03-22 21:05:15)
+- ぺぺろんさんを超すイントロの魔術師は存在しない  -- 名無しさん  (2010-09-04 09:57:05)
+- ぺぺろんさん調教凄すぎです。どのボカロも聞きやすい。最高です！  -- 名無しさん  (2011-08-14 21:58:59)
+- ボカロ3を積極的に導入しているPの一人だな  -- 名無しさん  (2012-02-15 07:02:32)
+- ぺぺろんPはIA、CUL、りおんは曲投稿してるし、ガチャとかラピスとかも持ってるんじゃない？  -- 名無しさん  (2012-04-18 11:14:16)
+- ぺぺろんPはMewとVy1V3以外の日本語ボカロは持ってるよ  -- 名無しさん  (2012-04-21 00:29:34)
+- 動画多すぎるんで貼る数まとめた方がよくないですか？  -- 名無しさん  (2012-07-10 17:25:59)
+- ReFraction楽しみ^^  -- 名無しさん  (2012-07-17 23:21:29)
+- メジャーデビューおめでとうございます！どの曲も素敵です！！好きです！  -- 名無しさん  (2012-08-02 00:03:14)
+- この人確かがくぽV3のデモソング作ったよね… Avengerって曲 前奏とがくぽの調教に惚れたｗｗ  -- がくぽ廃  (2012-10-23 23:49:15)
+- 私の師匠です  -- 名無しさん  (2012-10-26 02:50:41)
+- ぺぺろんさんの曲が一番好みだ これからも活躍期待してます  -- 名無しさん  (2013-02-01 01:24:31)
+- サテライト、シルバーバレット、レクイエム、ロスト・メモリーなど聴きやすく耳に残る曲ありがとうです！ぺぺろんさんは神を越えた!!  -- 名無しさん  (2013-02-12 23:41:23)
+- Dogmaのがくぽさんは非常に素敵です(´;ω;｀)ﾌﾞﾜｯ  -- 名無しさん  (2013-03-30 20:07:52)
+- 記事GJ  -- 名無しさん  (2013-04-30 00:01:26)
+- ぺぺろんPは調教が凄すぎる!!  -- 名無しさん  (2013-06-27 19:11:37)
+- 調教の神！！！！  -- aima  (2013-11-13 18:00:46)
+- 歌詞が自分好み。そして色んなボカロを使ってて、しかも調教が上手い。ボカロを深く愛してないと出来ない！  -- キヨテル先生の曲から入った人  (2014-11-16 07:30:07)
+- ぺぺろんP大好きです！！！冬の唄な感じがとても好きです！！！！  -- 良太  (2014-12-28 20:26:42)
+- CD何枚か持ってますがとても気に入ってます。  -- 名無しさん  (2015-01-02 17:48:50)
+- この人めちゃくちゃ古参のpだったのか……知らんかった。  -- 名無しさん  (2017-06-13 09:55:39)
+- 「シルバーバレット」ミリオン間近ですね♪これは超超カッコいい曲なのでもっと有名になって良い曲だと思います！「レクイエム」「Avenger」「シャンデリエ」「波紋」「ここに君がいないなら」もかなり良いですね！個人的にはちょっと怖いリンちゃん曲「ヒイフウミイヨ」が一番好きです！  -- 名無しさん  (2017-07-15 17:38:13)
+- ぺぺろんＰ活動10周年おめでとうございます！！  -- 名無しさん  (2017-10-14 19:53:28)
+#comment()

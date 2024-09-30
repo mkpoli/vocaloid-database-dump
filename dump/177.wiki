@@ -1,0 +1,50 @@
+#right(){&furigana(ほかろこしょかい)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo_mylist(<iframe width="312" height="176" src="https://ext.nicovideo.jp/thumb_mylist/8734172" scrolling="no" style="border:solid 1px #CCC;" frameborder="0">【ニコニコ動画】mylist</iframe>)|&nicovideo_mylist(<iframe width="312" height="176" src="https://ext.nicovideo.jp/thumb_mylist/9854661" scrolling="no" style="border:solid 1px #CCC;" frameborder="0">【ニコニコ動画】mylist</iframe>)|
+|&nicovideo_mylist(<iframe width="312" height="176" src="https://ext.nicovideo.jp/thumb_mylist/11840622" scrolling="no" style="border:solid 1px #CCC;" frameborder="0">【ニコニコ動画】mylist</iframe>)|&nicovideo_mylist(<iframe width="312" height="176" src="https://ext.nicovideo.jp/thumb_mylist/11840763" scrolling="no" style="border:solid 1px #CCC;" frameborder="0">【ニコニコ動画】mylist</iframe>)|
+|&nicovideo_mylist(<iframe width="312" height="176" src="https://ext.nicovideo.jp/thumb_mylist/17882071" scrolling="no" style="border:solid 1px #CCC;" frameborder="0">【ニコニコ動画】mylist</iframe>)|&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/3504013" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/3504013">【ニコニコ動画】ボカロ互助会作品リスト</a></iframe>)|
+
+**特徴
+作り手名：『&u(){ボカロ互助会}』（&u(){ぼかろごじょかい}）
+-2chDTM板に立てられたスレに音楽制作者が集まり音ネタや歌詞を投下し始めたことから発生した集団。
+-それぞれ得意とする分野（作詞・作曲・イラスト・調声・動画作成・Wiki編集等…）を分担作業で行い１つの作品を作る。
+-分担作業のため、幅広いジャンルを手がけることが出来るのが強み。
+-代表作は「[[同じように]]」「[[距離-distance]]」「[[無条件幸福]]」「[[今夜もｾﾌｾﾌ>今夜もセフセフ]]」など。
+//-メンバーは随時募集中、とのこと。
+-2011年8月26日をもって活動終了した。
+
+**リンク
+//-個人HP、PIAPRO、YouTube等ある場合は、ここに。当wiki以外のサイトへリンクを貼る場合は必ず「>>」で別ウインドウでリンクしてください。
+//-[[ニコニコ動画>>https://www.nicovideo.jp/user/]]
+//-[[YouTube>>https://www.youtube.com/]]
+//-[[piapro>>https://piapro.jp/]]
+//-[[Twitter>>https://twitter.com/]]
+-[[ボカロ互助会Wiki>>https://www29.atwiki.jp/vocalo-gojokai/]]
+-[[ニコニコ大百科>>https://dic.nicovideo.jp/t/a/%E3%83%9C%E3%82%AB%E3%83%AD%E4%BA%92%E5%8A%A9%E4%BC%9A]]（単語記事）
+
+**曲
+#list_by_tag(ボカロ互助会,100,sort=furigana)
+
+**CD
+#list_by_tag(ボカロ互助会CD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm1822517)|&nicovideo(sm1853527)|
+|&nicovideo(sm1855708)|&nicovideo(sm2024492)|
+|&nicovideo(sm2374028)|&nicovideo(sm3335582)|
+
+**関連タグ内の更新履歴
+#region(close,関連タグ内の更新履歴)
+関連タグ内の更新履歴
+※「ボカロ互助会」「ボカロ互助会CD」タグ内で最近編集やコメントのあった記事を新しい方から10件表示しています。
+#list_by_tagsearch(ボカロ互助会,ボカロ互助会CD,sort=timestamp,sort2=desc,errmsg=まだ曲、CDが登録されていません。,or,10)
+#endregion
+
+**コメント
+- 作詞したいな！  -- えりな  (2011-01-20 09:52:21)
+- えりなさん!!うちも作曲したいとおもうよ!!  -- gumi  (2011-12-24 17:35:42)
+- ボカロ大好きです!  -- 名無しさん  (2013-11-30 22:06:12)
+#comment()

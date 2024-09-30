@@ -1,0 +1,161 @@
+&bold(){外部リンク}
+----
+#contents()
+----
+**公式
+***VOCALOID
+-[[VOCALOID>>http://www.vocaloid.com/]]　　　＊ヤマハ公式サイト
+--[[VOCALOID（en）>>http://www.vocaloid.com/en/]]
+--[[VOCALOID（us）>>http://www.vocaloid.com/us/]]
+//日本語サイトの上部にある言語選択で「English」を選ぶと（en）版。（en）版サイトから、United Statesを選択すると、（us）版。
+-[[クリプトン･フューチャー･メディア>>http://www.crypton.co.jp/]]　　　＊初音ミク、鏡音リン・レン、巡音ルカなどの発売元
+--[[SONICWIRE>>http://sonicwire.com/product/vocaloid/special/index]]　　　＊クリプトン社からのV3以降のボカロのDL版販売元
+-[[株式会社インターネット>>http://www.ssw.co.jp/]]　　　＊メグッポイド（GUMI）、がくっぽいど、Lilyなどの発売元
+-[[AH-Software>>http://www.ah-soft.com/]]　　　＊歌愛ユキ、氷山キヨテル、結月ゆかりなどの発売元
+-[[1st PLACE>>https://1stplace.co.jp/]]　　　＊IAの発売元
+-[[ガイノイド（Gynoid）>>https://www.gynoid.co.jp/]]　　　＊v flower、心華、鳴花ヒメ・ミコトの発売元
+-[[ボーカロイドストア>>http://shop.vocaloidstore.com/]]　　　＊VOCALOID関連商品オンラインショップ
+--[[VOCALOID STORE（en）>>http://en.vocaloidstore.com/]]
+-[[KarenT>>http://karent.jp/]]　　＊クリプトン公式音楽配信サイト
+
+***CeVIO
+-[[CeVIO Official Site>>https://cevio.jp/]]
+-[[KAMITSUBAKI STUDIO>>https://kamitsubaki.jp/]]
+-[[音楽的同位体 可不(KAFU)>>https://kaf-u.kamitsubaki.jp/]]
+-[[ONE -ARIA ON THE PLANETES->>https://one-aria.com]]
+-[[東北きりたん>>https://zunko.jp/con_voice.html#kiri_ai]]
+-[[ハルオロイド・ミナミ / TEICHIKU RECORDS>>https://www.teichiku.co.jp/teichiku/artist/hal-o-roid/]]
+-[[Color Voice Series>>https://camp.joysound.com/colorvoice/]]
+
+***Synthesizer V
+-[[Synthesizer V>>https://dreamtonics.com/synthesizerv/]]
+-[[Synthesizer V公式フォーラム>>https://forum.synthesizerv.com/]]
+-[[AHS(Synth-V)>>https://www.ah-soft.com/synth-v/]]
+-[[Web Synthesizer V>>https://synthesizerv.com/web/index-ja.html]]
+-[[TOKYO6 ENTERTAINMENT 公式サイト>>https://tokyo6.tokyo/]]　　　＊小春六花・夏色花梨・花隈千冬公式サイト
+
+***NEUTRINO
+-[[NEUTRINO(NEURAL SINGING SYNTHESIZER)>>https://n3utrino.work/]]
+-[[東北きりたん>>https://zunko.jp/con_voice.html#kiri_ai]]
+
+***A.I.VOICE
+-[[個人向け音声合成ソフト A.-I.VOICE™ 公式サイト>>https://aivoice.jp/]]
+
+***その他
+-[[AHS(VOICEROID)>>https://www.ah-soft.com/voiceroid/]]
+-[[株式会社AI - VOICEROID>>https://www.ai-j.jp/productindiv/]]
+
+**楽曲投稿
+-[[ピアプロ>>http://piapro.jp/]]　　　＊クリプトン公式ＣＧＭ型コンテンツ投稿サイト
+-[[ニコニコ動画>>http://www.nicovideo.jp/]]　　　＊動画投稿サイト
+-[[YouTube>>http://www.youtube.com/]]　　　＊動画投稿サイト
+-[[Bilibili>>https://www.bilibili.com/]]　　　＊動画投稿サイト
+-[[SoundCloud>>https://soundcloud.com/]]　　　＊音声ファイル共有サイト
+-[[musictrack>>http://musictrack.jp/]]　　　＊音楽SNS
+
+**製作・操作方法
+-[[VPVP wiki>>http://www6.atwiki.jp/vpvpwiki/]]　　＊MikuMikuDance情報共有ウィキ
+-[[Synthesizer V 日本語非公式 Wiki>>https://synthesizer-v.fandom.com/ja/wiki/Synthesizer_V_%E6%97%A5%E6%9C%AC%E8%AA%9E%E9%9D%9E%E5%85%AC%E5%BC%8F_Wiki]]
+
+**データベース
+-[[VOCA DB（VOCALOID DataBase）>>https://vocadb.net/]]　　＊情報総合データベース
+-[[ニコニコチャート>>http://www.nicochart.jp/]]　　＊動画やランキングなどのデータベース
+-&s(){[[Vocalog（ボカログ）>>http://vocalog.jp/]]　　＊ボーカロイド関連情報総合データベース}（リンク切れ）
+
+***曲
+-[[ぼかさち Vocaloid Music Search>>http://bokasachi.natsu.gs/]]　　＊VOCALOID曲検索サイト
+-[[ボカラン観測所>>http://www.geocities.jp/vcr_watch/index.html]]　　＊各種データを視覚化
+-[[有名Pの暴走シリーズまとめ>>http://www47.atwiki.jp/vocaloburnup/]]
+-[[UTAU楽曲データベース>>http://www24.atwiki.jp/utauuuta/pages/1.html]]　　＊UTAUの楽曲データベース
+-&s(){[[CeVIO・Synthesizer V +etc 楽曲データベース>>https://w.atwiki.jp/cevio_synthv/]]　　＊VOCALOID・UTAU以外の合成音声の楽曲データベース}（当wikiと統合し閉鎖）
+-[[さとうささらオリジナル曲@wiki>>https://w.atwiki.jp/satosasara/]]
+
+***ランキング
+-[[動画ランキング「VOCALOID」 - ニコニコ動画>>https://www.nicovideo.jp/ranking/genre/music_sound?tag=VOCALOID]]
+-[[Billboard JAPAN「ニコニコ VOCALOID SONGS TOP20」>>https://www.billboard-japan.com/charts/detail?a=niconico]]
+-[[Vocaloard Charts>>https://vocaloard.injpok.tokyo/]]　＊YouTubeボーカロイド楽曲ランキング
+-&s(){[[ボカ路地>>http://www.monomonobox.jp/vocalogy/daily.html]]　＊VOCALOID動画リアルタイムランキング}（リンク切れ）
+//InternetArchiveより 　最終更新？ https://web.archive.org/web/20131014085103/http://www.monomonobox.jp/vocalogy/daily.html
+-&s(){[[週刊VOCALOIDランキングまとめ>>http://www.geocities.jp/vocaran_link/]]　　　＊週刊ボカランのまとめ（#1～#200まで）}（リンク切れ）
+//InternetArchiveより https://web.archive.org/web/20111110235136/http://www.geocities.jp/vocaran_link/
+-[[週刊VOCALOIDランキング情報処>>http://vocaran30.blog.fc2.com/]]　　　＊週刊ボカランのまとめ（#201～）（更新停止か）
+-[[週刊ボーカロイドランキングまとめ>>http://vocaran.jpn.org/]]　　　*週刊ボカランのまとめ（全体）（上記の#1～#200までのサイトから自動リンク）（更新停止）
+
+***作り手
+-[[VOCALOID関連作品｢○○Ｐ｣リスト>>http://wikiwiki.jp/oop/]]　　＊全ＰリストWiki(人材募集中)
+-[[ニコニコ動画@歌い手まとめ>>http://www41.atwiki.jp/niconico_singer/]]　　＊歌い手まとめWiki
+--[[ジャンル別「歌うボーカロイドP系」>>http://www41.atwiki.jp/niconico_singer/pages/63.html#歌うボーカロイドP系]]　　＊歌い手としてのVOCALOIDプロデューサー(歌うPシリーズ)
+-[[ぼかさち 作者一覧>>http://bokasachi.natsu.gs/maker/]]　　＊曲製作者一覧､データベース
+-[[ニコニコ大百科 VOCALOIDのプロデューサーの一覧>>http://dic.nicovideo.jp/a/vocaloid%E3%81%AE%E3%83%97%E3%83%AD%E3%83%87%E3%83%A5%E3%83%BC%E3%82%B5%E3%83%BC%E3%81%AE%E4%B8%80%E8%A6%A7]]
+-[[ニコニコ大百科 VOCALOID関係者のTwitter一覧>>http://dic.nicovideo.jp/a/vocaloid%E9%96%A2%E4%BF%82%E8%80%85%E3%81%AEtwitter%E4%B8%80%E8%A6%A7]]
+
+***カラオケ
+-[[世界の片隅でVOCALOIDカラオケを応援>>http://vocaloidkaraoke.khaospedia.org/]]　　＊カラオケ総合情報（2015年4月4日より更新休止）
+//リダイレクト先へ変更。旧リンクはスパムエラーに引っかかるため、参照は編集履歴より。
+-[[ぼかさちモバイル>>http://bokasachi.natsu.gs/mo/]]　　＊ケータイVOCALOID曲･カラオケ検索
+-[[VOCALOIDカラオケ予習室>>http://spaceharrier.ddo.jp/vocaloid/]]　　＊カラオケ検索 CD 歌ってみた紹介
+//-[[VOCALOIDカラオケ予習室>>http://spaceharrier.mine.nu/vocaloid/]]　　＊カラオケ検索 CD 歌ってみた紹介
+
+***ニュース
+-[[初音ミクみく>>http://vocaloid.blog120.fc2.com/]]　　＊VOCALOID関連情報ブログ（[[超卒業>>http://vocaloid.blog120.fc2.com/blog-entry-18273.html]]）
+-[[初音ミクニュース>>http://hatsunemiku.blog107.fc2.com/]]　　　＊VOCALOID関連ニュースサイト
+//-[[初音ミクみくらぶ>>http://hatunemikumikurabu.blog17.fc2.com/]]　　＊VOCALOIDやその亜種に関する情報ブログ
+//2011年より更新停止 リンクを踏んだ後ジャンプする為コメントアウト化
+//InternetArchiveより https://web.archive.org/web/20140406235423/http://hatunemikumikurabu.blog17.fc2.com/
+-[[初音ミクリン>>http://hatunemikurin.com/]]　　　＊初音ミクを主体としたVOCALOID関連情報ブログ
+
+***フィギュア
+-[[ボーカロイドフィギュアのまとめ。>>http://koketsuin.blog136.fc2.com/blog-entry-280.html]]
+
+**SNS
+-&s(){[[ボーカロイドにゃっぽん>>http://v-nyappon.net/]]　　＊VOCALOID専用SNSサイト（招待制）}（閉鎖）
+
+**2ch
+-[[【初音ミク･鏡音リンレン】VOCALOIDボーカロイド___【KAITO･MEIKO】>>http://vocalog.web.fc2.com/]]　　＊Youtube板 VOCALOID本スレ 過去ログ倉庫
+-[[２ちゃん初音ミク画像保管庫>>http://hatsunemikumiku.jimdo.com/]]
+-[[初音ミクちゃんねる>>http://www.mikumiku2ch.jp/]]    ＊2chのVOCALOIDスレまとめサイト
+
+**海外
+-[[Vocaloid Wiki>>http://vocaloid.wikia.com/wiki/Vocaloid_Wiki]]   ＊英語版ボーカロイド情報
+-&s(){-[[さくらささくら>>http://sakura-sasakura.com/]]   ＊ボーカロイド関係の海外のまとめサイト}（リンク切れ）
+-[[萌娘百科>>https://zh.moegirl.org.cn/Mainpage]]   ＊中国語版ボーカロイド情報
+-[[Vocal Synthesizer Wiki(Fandom)>>https://vocalsynth.fandom.com/wiki/Vocal_Synthesizer_Wiki]] ＊ボーカルシンセサイザーの総合wiki(英語)
+-[[SynthV Wiki>>https://synthv.fandom.com/wiki/SynthV_Wiki]] ＊Synthesizer Vの総合wiki(英語)
+-[[Vocaloid_Lyrics_Wiki>>https://vocaloidlyrics.fandom.com/wiki/Vocaloid_Lyrics_Wiki]] ＊ボカロ曲等の歌詞をまとめたwiki(英語)
+//-[[Vocaloid Sub Fan>>http://v-subfan.kokage.cc/]]　　　＊YouTube に転載された各国語訳のデータベース
+//リンク切れ広告化 InternetArchiveより最終更新？ 　https://web.archive.org/web/20140629193951/http://v-subfan.kokage.cc/
+
+**その他
+-[[VOCALOID（Wikipedia）>>https://ja.wikipedia.org/wiki/VOCALOID]]
+-[[VOCALOID関連サイトの一覧（ニコニコ大百科）>>http://dic.nicovideo.jp/a/vocaloid%E9%96%A2%E9%80%A3%E3%82%B5%E3%82%A4%E3%83%88%E3%81%AE%E4%B8%80%E8%A6%A7]]
+-[[VOCALOID（萌娘百科）>>https://zh.moegirl.org.cn/VOCALOID]]
+----
+
+&size(16){&bold(){コメント}}
+- OFFICIALにYAMAHA追加｡  -- 名無しさん  (2008-04-11 17:07:35)
+- ぼかさる追加､互助会をOTHERSへ移動｡ &br()項目名英語はかっこいいけどMATOMEはちょっと無理があるから日本語のほうがいいかも^^;  -- 名無しさん  (2008-04-11 22:35:41)
+- 日本語へ…  -- 名無しさん  (2008-04-12 01:57:14)
+- 初音ミクみくを追加しました｡  -- 名無しさん  (2008-04-17 03:08:47)
+- 歌うPシリーズ追加しました｡いらなかったら消してください｡  -- 名無しさん  (2008-04-24 04:25:52)
+- 歌い手まとめWikiは､｢ジャンル別まとめ｣にボカロPが並んでる項目があるよ  -- 名無しさん  (2008-04-25 00:01:42)
+- 情報thx!修正しました｡  -- 名無しさん  (2008-04-25 02:45:55)
+- こちらも､貼っておくといいかもしれません｡ttp://vocaloidkaraoke.khaotic.info/  -- 名無しさん  (2008-07-06 17:13:57)
+- 日刊様のブログと はつねぎ は直リンクするとスパムエラーが出てしまうのでアドレスの先頭をttpにしました｡詳しくは[[井戸端]]に書きました｡  -- bota  (2008-11-29 02:47:00)
+- 初音ミクみくらぶを追加しました｡  -- 名無しさん  (2008-12-09 02:08:54)
+- ぼかさちの作者一覧データベースを作り手の項目に追加しました  -- 名無しさん  (2009-01-26 07:58:49)
+- カラオケの項目を追加しました  -- 名無しさん  (2009-03-28 21:24:47)
+- 曲の項目にVOCALOID系新着　ttp://ippo.dip.jp/nico/nico/new/ を加えました。  -- 名無しさん  (2009-04-08 01:56:15)
+- にゃっぽんは招待制だってこと事前に書いておいた方がいいとおもう  -- 名無しさん  (2009-11-20 21:52:17)
+- 英語バージョン見てみたい！！  -- 名無しさん  (2009-12-25 13:59:06)
+- 作り手の項目に「ニコニコ大百科 VOCALOIDのプロデューサーの一覧」と「ニコニコ大百科 VOCALOID関係者のTwitter一覧」へのリンクを追加しました。  -- 名無しさん  (2011-01-06 16:48:02)
+- まとめの項目にRe:VOCALOID [レボカロ]へのリンクを追加。  -- 名無しさん  (2011-07-06 18:12:55)
+- リンクお願いします。ボーカロイド交流Wiki  ttp://wikiwiki.jp/negi/  -- 草もち  (2012-12-01 12:28:21)
+//- えーごば↓み⌒るよぇ  -- 将来ミクになる人(嘘ぅ。テヘッ∂∂)  (2013-06-23 13:15:36)
+- 初音ミクリンを追加しました  -- 名無しさん  (2014-02-03 23:15:05)
+- グミも頼む  -- 名無しさん  (2015-09-07 16:36:03)
+//- w  -- お  (2016-01-27 17:46:38)
+- 初音ミクちゃんねる、さくらささくら追加  -- 名無しさん  (2016-11-23 18:54:17)
+//- GERに近づけば近づくほど現在から未来に近づく→GERに未来で殴られて死亡して吹っ飛ばされるがGERとの距離が離れ現在に戻り生き返る→未来で死んだという因果は決して消えずに永遠に死に続ける。  -- 名無しさん  (2021-09-02 17:15:24)
+- 「楽曲投稿」にSoundCloudを追加しました。  -- 名無しさん  (2022-02-11 17:09:48)
+- musictrackも追加希望です  -- 名無しさん  (2022-12-05 16:43:00)
+#comment()

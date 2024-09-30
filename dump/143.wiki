@@ -1,0 +1,317 @@
+***小見出し
+//スレからコピペする場合　行の末尾に半角スペースが混入するので除去してください
+//アドレスが誤認識されるようになります
+//ニ
+//
+ スレッドタイトルは以下の書式に従うこと。これを無視したスレッドは本スレと認めない。
+ 【初音ミク・○○○○】VOCALOID総合****【○○○○○○○○○○○○他】
+ 検索の便宜の為【初音ミク】は残す、その余は各ボカロから自由に。全角12文字、半角24文字までOK。 
+ >950をフシアナさんで取った人がスレ立て、その人が立てられないか無効なスレ立ての場合は
+ >950後で最初にフシアナさんレスした人が立てる（その人がダメなら以下繰り返し）
+ ただし>950までに書き込みがない単発のスレ立ては無効（日付変更1時間以内の際は例外として単発もOK）
+ >950後でフシアナなく埋まった場合、次スレ立てる人は>1にフシアナさんすること
+ 
+ 以上のルールに違反したIPは以後スレ立て禁止とします
+
+#center{&size(18){&bold(){&color(crimson){IEユーザーの場合は、改行が正確に反映されるように、一度ページを「[[編集>http://www5.atwiki.jp/hmiku/editx/143.html]]」状態にしてからコピー＆ペーストしてください。}}}}
+
+----
+//行数 51/60
+#asciiart{{
+歌声合成システム「VOCALOID」とその文化について熱く語れ！
+
+前スレ
+//前スレのタイトル
+//前スレのURL //以下全文コピペ
+※スレ立てはテンプレ置き場を参照 （不定期更新）
+ttp://www5.atwiki.jp/hmiku/pages/143.html
+
+□公式サイト
+〔ヤマハ〕：　VOCALOIDエンジン開発本家
+VOCALOID公式ホームページ: ttp://www.vocaloid.com/
+
+□販売終了製品
+（英）〔Zero-G〕V1《英語》［LEON］［LOLA］［MIRIAM］
+
+□公式ツイッター 
+ボーカロイド：　ttp://twitter.com/vocaloid_yamaha
+vocaloid2_cv_cfm_wat：　ttp://twitter.com/vocaloid_cv_cfm
+INTERNET Co.Ltd.：　ttp://twitter.com/INTERNETjp
+AH-Software社：　ttp://twitter.com/ahsoft
+i-style project：　ttp://twitter.com/i_style_vc3
+※機能停止 or 休止中
+IA Project広報：　ttp://twitter.com/IA_Project
+兎眠りおん最新情報：　ttp://twitter.com/tonerion_info
+SeeU：　ttp://twitter.com/SV01_SeeU
+
+□関連サイト　〔公式〕
+初音ミク公式ブログ：　クリプトン公式！「初音ミク」らバーチャル・シンガーの最新情報を発信します
+http://blog.piapro.net/
+PIAPRO：　作品投稿（楽曲・歌詞・絵画）　※クリプトン社運営サイト
+ttp://piapro.jp/
+KarenT：　音楽レーベル（楽曲配信）　※クリプトン社運営サイト
+ttp://karent.jp/
+ボーカロイドストア：　オンラインショップ　※ビープラッツ社運営VOCALOID商品専門店
+ttp://www.vocaloidstore.com/
+VOCALOID MUSIC PUBLISHING：　音楽レーベル　※ヤマハ社運営出版社
+ttp://www.ugc-pub.com/
+}}
+----
+//行数 43/60
+#asciiart{{
+□関連サイト　〔情報・ニュース〕
+初音ミクみく：　ttp://vocaloid.blog120.fc2.com/
+初音ミクニュース：　ttp://hatsunemiku.blog107.fc2.com/
+初音ミクちゃんねる：　http://www.mikumiku2ch.jp/
+初音ミクリン：　http://hatunemikurin.com/
+ミクストリーム：　http://39mikustream.blogspot.jp/
+vocalendar:　イベント情報総合　http://vocalendar.jp/
+
+□関連サイト　〔楽曲紹介〕
+日刊VOCALOIDランキング：　yamaha_vocaran1さん
+ttp://www.nicovideo.jp/user/22571066/mylist
+週刊VOCALOIDランキング：　sippotan さん
+http://www.nicovideo.jp/user/983487/mylist
+月刊ボーカロイドTOP30：　ioriさん
+http://www.nicovideo.jp/mylist/10583525
+
+ボカロノビス：　(全体ソート)　ttp://vocalonobis.com/
+みてれぅチャンネル：　(全体ソート)　ttp://vocaloid.miterew.com/
+VOCALOID系新着：　（日別ソート）ttp://ippo.dip.jp/nico/nico/new
+sounds39：　（ジャンル別ソート）ttp://sounds39.com/ja/
+
+ぼかにゅー：　(新着紹介)　ttp://vocanew.kuune.org/
+Vocaloid Salvage：　（埋もれ曲紹介）
+ttp://www.geocities.jp/vocaloidsalvage/
+VOCALOID 聴き専ラジオ：　(ネットラジオ)　ttp://d.hatena.ne.jp/kikisenradio/
+
+□関連サイト　〔CGM〕
+VOCALOID@Wiki：　総合情報　ttp://www39.atwiki.jp/vocaloid/
+初音ミク@Wiki：　データベース　ttp://www5.atwiki.jp/hmiku/
+ぼかさち：　VOCALOID曲検索サイト　データベース（楽曲・作者）
+ttp://bokasachi.natsu.gs/
+Yahoo!知恵袋：　vocaloidに関するQ&A
+http://chiebukuro.yahoo.co.jp/tag/tags.php?tag=vocaloid
+VOCALOID生放送：　http://com.nicovideo.jp/community/co14007
+２ちゃんねるyoutube板VOCALOID本スレ出張所：　http://com.nicovideo.jp/community/co881
+ボカロ投票所＠Wiki：　楽曲紹介（おすすめ曲投票）
+ttp://www9.atwiki.jp/vocaloid-vote/
+
+□関連サイト　〔その他〕
+VOCALOIDカラオケ予習室：　データベース（カラオケ）
+ttp://spaceharrier.ddo.jp/vocaloid/
+世界の片隅でVOCALOIDカラオケを応援：　データベース（カラオケ）
+ttp://vocaloidkaraoke.khaospedia.org/
+
+THE VOCALOID M@SATER：　(ボーカロイドonly event)　ttp://ketto.com/tvm/
+}}
+----
+//行数 49/60
+#asciiart{{
+【ボカロ関連他スレ】　(ニュース系・雑談系単発スレ以外でかつて確認されたスレ)
+２ｃｈスレタイ検索　http://ff2ch.syoboi.jp/　or　http://dig.2ch.net/
+
+□YouTube板(ここ)関連スレ
+VOCALOID議論隔離スレ：　初音ミクLIVE総合：　MikuMikuDance動画制作/鑑賞スレ：　歌ってみたを語るスレ
+ボカロPの自貼りスレ：　あなたが好きそうなVOCALOID曲を紹介します：　
+□DTM板関連スレ
+ヤマハ歌声合成ソフト『VOCALOID』：　隔週刊「ボカロPになりたい！」：　
+□マスコットキャラ板関連スレ 
+マスコットキャラクター＠2ch掲示板　http://hello.2ch.net/mascot/
+沢山あるので省略 "VOCALOID"かキャラ名で検索する 無ければ諦めるか自分で立てる
+
+□その他板関連スレ
+[携帯ゲーソフト]　初音ミク -Project DIVA-：　初音ミク Project mirai
+[音ゲー]　project DIVA Arcade　[ﾓｰﾀｰｽﾎﾟｰﾂ]　初音ミクZ4を応援するスレ
+[おもちゃ]　VOCALOIDフィギュア総合　[ホラー]　VOCALOIDなるSF
+[同人イベント]　ボーカロイドイベント　[しりとり]　曲名しりとり（ボカロ専用）
+[創作発表]　VOCALOID関連キャラ総合スレ　[同人]　VOCALOID同人
+
+∇ 荒らしについて
+・2ちゃんねるガイドへどうぞ　http://info.2ch.net/index.php/Guide
+・専用ブラウザを使うと色々と便利な事が出来ます　http://info.2ch.net/?curid=261
+
+□本スレの手引き　VOCALOID本スレとは - ニコニコ大百科　http://DIC.NICOVIDEO.JP/a/vocaloid%E6%9C%AC%E3%82%B9%E3%83%AC
+※自貼り歓迎＆他貼り推奨＆おまはや（既出）上等
+※おすすめ・検索依頼、随時受け付け中：　ttp://www5.atwiki.jp/hmiku/pages/4954.html
+Youtube板VOCALOID総合スレ（本スレ）自動要約システム：　※最終更新：2014/03
+ttp://vocaloid.tk4168.info/2ch/youtube/main/auto_summary/
+本スレ過去ログ倉庫：　※最終更新：2009/08　ttp://vocalog.web.fc2.com/
+
+［したらば］【VOCALOID】ボーカロイドＡＡ　その２　　※AA倉庫
+ttp://jbbs.livedoor.jp/bbs/read.cgi/computer/39182/1282737484/
+［したらば］VOCALOID総合 避難所25　　※難民中、規制中はここへ
+ttp://jbbs.shitaraba.net/bbs/read.cgi/computer/39182/1397150902/
+
+※本スレマスコットキャラクター「本スレたん」　http://DIC.NICOVIDEO.JP/a/%E6%9C%AC%E3%82%B9%E3%83%AC%E3%81%9F%E3%82%93
+　　　　　　　　　　　　　　　　　　　　　, -､ 
+　　　　　　　　　　　　　　　　 　 　 　 | 　 |　.-､ 
+　　　_　-‐…‐-　_　　　　　　　　　　/　　|/ 　 | 
+　 ＜　　　　　　　 ＞　　　　　　　　/　　/　　/ 
+　　｜ ＝　　＝　｜　 ＜ もけー　　　/ 　 / 　 厶-､ 
+　　｜　　､_,　　　｜　　　　　　　 /　／　／　 　 } 
+　　｜　 ｰ'^ｰ'　　 |　　　　　　　 /　　　　　　　ノ 
+　　！　　　　　　　　 `´￣ ｀ヽｲ　　､__丿 
+　　　　ヽ._　　　　　　　　　　　 ﾞT´ 
+　　　　　　|　 ｢｀ｉ　 |￣|　 「|　 r' 
+　　　　　　|　 |　|　 |　 |　 | |　 | 
+　　　　　　｀¨´　｀¨´　 ｀¨´ ｀¨´　　
+}}
+----
+
+
+&big(){以下自由に}
+
+----
+//バイト数 4093/4096  行数 52/60
+#asciiart{{
+□公式サイト
+〔ヤマハ〕：　VOCALOIDエンジン開発本家
+VOCALOID公式ホームページ　ttp://www.vocaloid.com/
+VOCALOID2→3→4：［VY1 "MIZKI"(SE)(NEO)］
+VOCALOID2→3：［VY2 "勇馬" (SE)(NEO)］
+VOCALOID3： ［Mew (SE)(NEO)］ ［ZOLA Project  "YUU" "KYO" "WIL" (NEO)］
+
+〔クリプトン・フューチャー・メディア〕
+VOCALOID1→3： [MEIKO] [KAITO]
+VOCALOID2→3： ［初音ミク (Append)(English)(バンドル)］
+VOCALOID2： ［鏡音リン･レン (act2)(Append)］
+VOCALOID2→4：［巡音ルカ(X)］
+ttp://www.crypton.co.jp/mp/pages/prod/vocaloid/
+
+〔インターネット〕
+VOCALOID2→3： ［Megpoid (complete/Power/Whisper/Adult/Sweet/Native/ENGLISH)］
+[がくっぽいど (COMPLETE/NATIVE/POWER/WHISPER)］ [Lily] ［ガチャッポイド(V3はDL販売のみ)］
+VOCALOID3： ［CUL］ ［kokone(心響)］ ［Chika］
+ttp://www.ssw.co.jp/products/vocal/index.html
+
+〔AH-Software〕
+VOCALOID2→4： ［SF-A2開発コードmiki］ ［氷山キヨテル］ ［歌愛ユキ］ ［猫村いろは］
+VOCALOID3→4： ［結月ゆかり(コンプリート/純/穏/凛)］
+VOCALOID3： ［東北ずん子］ 
+ttp://www.ah-soft.com/product/index.html#menu1
+
+・その他
+〔キューンレコード社〕V2　［開発コードPIKO 歌手音ピコ］
+〔ディアステージ社〕V3　ボーカロイドル ［兎眠りおん］(生産終了、現在DL販売のみ)
+〔1st PLACE社〕V3　［IA -ARIA ON THE PLANETES-(ROCKS)(DUO)］ 
+〔サーファーズパラダイス社×スタジオディーン社〕V3　i-style project ［蒼姫ラピス(SE)(NEO)］ ［Merli メルリ(NEO)］
+〔ローソン社〕V3　［あきこロイドちゃん］（非売品）
+〔EXIT TUNES社〕V3　［MAYU］
+〔Mac音家制作委員会〕 V3［マクネナナ EJ バンドル］(JapanとEnglishの単体はDL販売のみ)
+〔アクセルエンターメディア〕 V3［杏音鳥音］
+〔ガイノイド〕 V3［v flower］
+〔スターダスト音楽出版〕 V3［garaco ギャラ子 (NEO)］ 
+〔ウィーヴ〕 V3［Rana(らな)］ 
+
+・その他（海外）
+（英）〔Zero-G〕 V2《英語》［Prima］［SONiKA］［Tonio］　V3《英語》［AVANNA］
+（瑞）〔PowerFX〕 V2《英語》［Sweet ANN］［BIG AL］
+（米）〔VOCATONE〕V3 《英語》［OLIVER］　V3《英語/日本語》［YOHIOloid］V4？（新製品［Ruby］予定）
+（韓）〔SBS A&T〕 V3《韓国語/日本語》［SV01 SeeU］(日本での販売終了、韓国では購入可能)
+（韓）〔ST Media〕V4？（新製品［ユニ］SBS A&Tから技術支援予定）
+（西）〔Voctro Labs〕 V3《スペイン語》［Bruno］［Clara］［MAIKA］
+（中）〔上海禾念信息科技〕 V3《中国語》［洛天依］［言和］　V4？（新製品［楽正綾］［戦音Lorra］予定）
+（台）〔華創文化有限公司/ガイノイド〕 V3《？》（新製品［心華（シンファ）］予定）
+
+}}
+----
+#asciiart{{
+VOCALOID 議論隔離スレ
+ttp://find.2ch.net/?STR=VOCALOID+%B5%C4%CF%C0%B3%D6%CE%A5&BBS=ALL&TYPE=TITLE
+スレ歌 ttp://www.nicovideo.jp/watch/sm2202326 ttp://www.nicovideo.jp/watch/sm4481866
+ニコニコ大百科 ttp://dic.nicovideo.jp/a/%E3%82%AE%E3%83%AD%E3%82%AB%E3%82%AF%E3%81%9F%E3%82%93
+権利関係のギロンは用法容量を守って正しくお使いください。
+
+ミク派閥リスト（リンレンもいるよ） 2008/05/13 ver.
+┣電子の歌姫派(sm1200230)┳アイドル派(sm1097445)
+┃　　　　　　　　　　　　　　　　 ┗歌姫派(sm1136355)
+┣野生の歌姫派(sm1417622)┳樹海で捕まるよ派(sm3298353)━むしろ女神だよ派(sm3264508)
+┃　　　　　　　　　　　　　　　　 ┗ねんどろいどは生きている派(sm2321776)
+┣歌って踊るよ(sm2597605)━はいてないよ(sm2207678)
+┣戦うよ(sm2629116)
+┣普通の女の子になります派(sm1715919)┳もう大人だよ派(sm2468636)
+┃　　　　　　　　　　　　　　　　　　　　　　　　┣人間だから忘れ物もするよ派(sm3252511)
+┃　　　　　　　　　　　　　　　　　　　　　　　　┣でもヤンデルよ派(sm1399878)
+┃　　　　　　　　　　　　　　　　　　　　　　　　┣家族だよ派(sm1726535)━だがヤンデルよ派(sm2698420)
+┃　　　　　　　　　　　　　　　　　　　　　　　　┗歌ってる場合じゃないよ派(sm1924663)
+┣役者派(sm1235394)┳ヒーロー物派(sm1639267)
+┃　　　　　　　　　　　　┣和風派(sm2977323)
+┃　　　　　　　　　　　　┗洋風派(sm2393562)
+┣俺がボカロ派(sm2516629)┳学生派(sm1264047)━教授派(sm2298470)━むしろ両方(sm2476112)
+┃　　　　　　　　　　　　 　　　 ┗代弁派(sm1908098)
+┣VOCALOID派(sm1274898)┳感情もあるよ派(sm1050729)
+┃　　　　　　　　　　　　　　　　┣語り合うよ派(sm2137739)━分析もするよ派(tdki/media/616)
+┃　　　　　　　　　　　　　　　　┗幸せの形派(sm1755010)━お別れ派(sm2053548)
+┣あほの子派(sm982882)━増えるよ派(sm1136630)
+┣それ以外の何かだよ(sm2500894)┳おばけだよ派(sm3299431)
+┃　　　　　　　　　　　　　　　　　　　　 ┗菌だよ派(sm3008916)━感染もするよ派(sm1464024)
+┗カオスだよ(sm2677711)
+
+マイリスト　ミク派閥リスト（リンレンもいるよ）
+ttp://www.nicovideo.jp/mylist/6672660
+
+}}
+----
+#asciiart{{
+スマン　俺はマジに　　　　　　系の職人してるんだが
+正直　　　　　　の何が良いのか分からん
+
+でもアンチ来たと思わないでくれ
+オレは　　　　　　も好きだ
+
+具体的にどんなところがいいのか教えてくれないか？
+純粋な疑問だ
+-------
+　　　　　好きでも嫌いでも無いけど最近ちょっと酷すぎる
+完全に信者の人海戦術じゃん、ただ　　　　　だからって
+良し悪し考え無いでにマイリスト入れないでよ
+もっと他ジャンルの動画見てしっかり吟味して
+ただ　　　　　ただけで1位とか舐めてるとしか思えないから
+皆　　　　　を抜かしたランキングが正常なランキングだと思ってるよ、実際
+-------
+ランキングならカテゴリーで見ればいいじゃん。
+カテゴリーで見ればほとんどいないし。
+それに何でもかんでもランキングに載れる程、
+　　　　　だって甘くないんだから。
+わざわざ文句付けたり、荒らしに行く嫉妬厨乙。
+-------
+　　　　　　　　　のどこが良かったのか最後まで分からなかった・・・
+この人が作った曲はなんでも良い、みたいな空気漂ってない？
+一度売れたアーティストのような扱いだけは止めて欲しいな
+逆に作者の首を絞めてる気がするよ
+--------
+社長が一貫しているのは、　　　　　での業界の慣習や前例を踏襲するつもりがまるでないと言うことだ。
+　　　　　は本業じゃないし、ユーザーに　　　　　しても痛くないもんだからとことん実験するつもりだよ。
+--------
+そう言えばryoって　　しないんだな
+ryoには　　を　　して欲しい
+
+そうなんだよ。　　をなぜryoがやらないのか不思議
+せっかく　　しても　　されちゃう可能性だってないわけじゃないのに
+--------
+だってこのスレって(対象)でワイワイ騒ぐような雰囲気漂ってるじゃん
+俺はそんな空気が気に入らないんだよ
+他にも(対象が扱うジャンル)にはいい作品あるだろうに。(作品例A)とか(作品例B)とか
+--------
+(対象A)や(対象B)は(見地)的には普通の(評価)って感じだな(対象群)の大半もそうだ。
+だがryoは別格。あれは(評価)といえる。
+--------
+てか(対象)の(作品が)(今後の予定)ってのは嬉しいんだけど
+確か(対象)は(今までの認識)っていたよね。
+なんでいきなり全部OKにしたんだろ？
+特別扱いだからついついOKしちゃったとか？
+(対象が受ける措置)だと、金銭もらえたりするとか？
+
+【以上荒れたときに使って遊べるコピペ一覧】
+}}
+----
+【古い情報】
+※本スレテーマソング　【初音ミク】ボカロスレのうた【修正版】（削除済み）
+ttp://www.nicovideo.jp/watch/sm2311093
+日刊・週刊VOCALOID-PVランキング　：ランキング（PV）
+ttp://ippo.dip.jp/nico/nico/
+----
+過去スレ立てルールに違反したIPリスト
+-EM119-72-120-36.pool.e-mobile.ne.jp
+-nfmv001102054.uqw.ppp.infoweb.ne.jp

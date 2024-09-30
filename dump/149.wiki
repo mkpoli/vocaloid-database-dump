@@ -1,0 +1,43 @@
+#right(){&furigana(たたみP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://ext.nicovideo.jp/thumb_mylist/2849580" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/2849580">【ニコニコ動画】North-T%20%2F%20%E5%88%B6%E4%BD%9C%E7%89%A9</a></iframe>)
+
+**特徴
+作り手名：『&u(){畳P}』（&u(){たたみP}）
+-切な系からポップな曲まで対応するP。
+-元々DTM畑の人なのでオケ作りに定評がある。
+
+**リンク
+-[[作者ホームページ "North-T">>http://www.north-t.com]]
+-[[PIAPRO（たたみ）>>https://piapro.jp/Tatami]]
+-[[Twitter>>https://twitter.com/tatami_n]]
+-[[KarenT>>https://karent.jp/artist/pp000001]]
+-[[SoundCloud>>https://soundcloud.com/north-t]]
+-[[YouTube>>https://www.youtube.com/channel/UC5ecHN4bIvusJBUimnq2LxQ]]
+
+**曲
+#list_by_tag(畳P,100,sort=furigana)
+
+**CD
+#list_by_tag(畳PCD,100,sort=furigana)
+
+**動画
+-&b(){オリジナル曲}
+|&nicovideo(sm1241072)|&nicovideo(sm1334458)|
+|&nicovideo(sm1461680)|&nicovideo(sm2298470)|
+|&nicovideo(sm3402262)|&nicovideo(nm3373114)|
+|&nicovideo(sm3446893)|&nicovideo(nm3600480)|
+|&nicovideo(sm3672994)|&nicovideo(nm4457970)|
+-&b(){その他}
+|&nicovideo(sm2507945)|
+
+**コメント
+- 神  -- 名無しさん  (2008-05-02 23:42:17)
+- イケメンＰという異名もあるが、本当にイケメンで困った  -- 名無しさん  (2008-08-27 22:00:07)
+- タイムリミットだけじゃなく、他の曲も是非聴いてほしい  -- 名無しさん  (2009-03-14 01:23:43)
+- タイムリミットは神がかった名曲。　復活が待たれる  -- 名無しさん  (2009-04-05 18:18:03)
+- なんかわかるような気がするな・・・・・・・・。  -- 混沌  (2009-08-12 04:36:09)
+#comment()
