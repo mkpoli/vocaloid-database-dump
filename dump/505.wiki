@@ -1,0 +1,50 @@
+#right(){&furigana(SOUL FREE)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo(http://www.nicovideo.jp/watch/sm1742639){340,185}
+作詞：[[LINCO]]
+作曲：[[チーターガールP]]
+編曲：[[チーターガールP]]
+唄：[[初音ミク]]
+
+**曲紹介
+曲名：『&u(){SOUL FREE}』
+
+**歌詞
+
+come over the dream
+almost next of us with in the reach
+stay your warmth of hands
+makes me beam happily at those come and go
+
+none of us can tears us apart in the future
+’cause there is no doubt of it so believe me !
+angels could dance on pinheadｓ
+
+come over the dream
+almost next of us with in the reach
+how ! your warmth of hands makes me feel
+jumping heart like a cute bambi
+
+none of us can tears us apart in the future
+be polled together like a pair of magnets
+nothing to be scared about
+just show me who you are
+full of the special joy will lie ahead of us
+
+soul free
+you will make it better days with me anytime
+never mind
+you’ll be rude like a gangstar sometime
+I love you so
+
+soul free
+you will make it better days with me anytime
+feel free
+you break the rule past bonds at all
+It’s the easy only let your mind drift 　 
+
+**コメント
+#comment()
