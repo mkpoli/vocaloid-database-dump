@@ -16,13 +16,13 @@ certifi==2024.8.30
     # via requests
 charset-normalizer==3.3.2
     # via requests
-frontmatter==3.0.8
 html5lib==1.1
     # via atwiki-python
 idna==3.10
     # via requests
-pyyaml==5.1
-    # via frontmatter
+python-frontmatter==1.1.0
+pyyaml==6.0.2
+    # via python-frontmatter
 requests==2.32.3
 six==1.16.0
     # via html5lib

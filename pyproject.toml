@@ -9,7 +9,7 @@ dependencies = [
     "requests>=2.32.3",
     "atwiki-python>=0.0.11",
     "tqdm>=4.66.5",
-    "frontmatter>=3.0.8",
+    "python-frontmatter>=1.1.0",
 ]
 readme = "README.md"
 requires-python = ">= 3.8"
