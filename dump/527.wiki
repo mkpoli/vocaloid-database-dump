@@ -1,0 +1,108 @@
+#right(){&furigana(Existence)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(http://www.nicovideo.jp/watch/sm1726042){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm1561623){340,185}|
+作詞：dds & [[SW>kaya/作り手]]
+作曲：[[shu-tP]]
+編曲：[[shu-tP]]
+唄：[[LOLA]]
+
+**曲紹介
+曲名：『&u(){Existence}』(&u(){いぐじすてんす})
+-ニコニコ動画では希少なLOLAを用いた楽曲。
+-short mixでは全編LOLAがボーカルだが、Full mixではAメロおよび間奏部の語りをkayaさんが担当（それ以外のボーカルパートはLOLA）。
+
+**歌詞(short mix)
+
+I can still feel your existence.
+I can still love.
+I love you still.
+
+(lalala...)
+
+Every night in my dreams.
+I see you, I feel you.
+Every night in my dreams.
+That is how I know you go on.
+
+I can still feel your existence.
+I can still love.
+I love you still.
+
+Every night in my dreams.
+I see you, I feel you.
+Every night in my dreams.
+That is how I know you go on.
+
+I can still feel your existence.
+I can still love.
+I love you still.
+
+I can still feel your existence.
+I can still love.
+I love you still.
+
+I can still feel your existence.
+I can still love.
+I love you still.
+
+(lalala...) 
+
+**歌詞(2007 full mix)
+I can still feel your existence.
+I can still love.
+I love you still.
+
+(lalala...)
+
+Every night in my dreams.
+I see you, I feel you.
+Every night in my dreams.
+That is how I know you go on.
+
+I can still feel your existence.
+I can still love.
+I love you still.
+
+（今までのあたしは今日で終わり）
+（ウソも悲しみも今日で終わり）
+（新しい世界の扉をノックするから）
+（少しの自信とたくさんの勇気を携えて）
+
+（真っ直ぐあたしを見つめてくれてた）
+（本当の気持ちを思い出させてくれた）
+（あったくて優しい存在へ）
+（感謝の気持ちは絶対に忘れない）
+
+Every night in my dreams.
+I see you, I feel you.
+Every night in my dreams.
+That is how I know you go on.
+
+I can still feel your existence.
+I can still love.
+I love you still.
+
+I can still feel your existence.
+I can still love.
+I love you still.
+
+I can still feel your existence.
+I can still love.
+I love you still.
+
+(lalala...) 
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+**コメント
+- 何度聞いても凄い・・・！！  -- 亜龍  (2013-09-13 19:42:03)
+#comment()
+
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)

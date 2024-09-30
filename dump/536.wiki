@@ -1,0 +1,67 @@
+#right(){&furigana(そそそP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/3275992" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/3275992">【ニコニコ動画】そそそ集</a></iframe>)
+
+**特徴
+作り手名：『&u(){そそそP}』
+-デビュー作『[[あなたがいるから-Monitor of Love-]]』が、『DTMマガジン増刊CV01初音ミク』Xmasソングで入賞した実力派ミク使い。
+-その正体は、愛内里菜らに楽曲を提供している &bold(){津久井箇人}（つくい かずひと）氏 本人。
+--つまり、正真正銘&bold(){プロの犯行}。
+-代表作は殿堂入りしている「[[Looking for]]」「[[Next Stage>Next Stage/そそそP]]」
+-ミクの生誕祭ではこれまでに「[[命の翼-Listen to my soul-]]」「[[愛の翼-Eternal song-]]」「[[黒のツバサ]]」という「翼」の名が付いた3曲を投稿。
+-2008/11/20、オリジナル投稿1周年記念として以下の3曲をリメイクして同時リリース。&br()「[[あなたがいるから-Monitor of Love-]]」「[[Shooting Star Prologue]]」「[[アリガトウを言えたなら]]」
+-2009/11/20、オリジナル投稿2周年記念として以下の4曲を同時リリース。&br()「[[I wanna keep your smile]] (Full ver.)」「[[Generation Breaker]]」「[[千年一夜の夢]]」「[[Mind Flower]]」
+-2010/11/20、オリジナル投稿3周年記念として以下の2曲を同時リリース。&br()「[[AGAIN>AGAIN/そそそP]]」「[[SUNRISE-My love is for you-]]」
+
+**リンク
+//-[[作者ホームページ（S-TRIBE.NET）>>http://www.s-tribe.net/]]
+-[[作者ブログ（SOSOSO BLOG）>>http://sososo.seesaa.net/]]
+-[[Twitter>>https://twitter.com/sososo291]]
+-[[PIAPRO>>https://piapro.jp/sososo]]
+-[[YouTube>>https://www.youtube.com/user/sososo291]]
+
+**曲
+#list_by_tag(そそそP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(そそそPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm5298260)|&nicovideo(sm5298300)|
+|&nicovideo(sm4479944)|&nicovideo(sm2452761)|
+|&nicovideo(sm2614451)|&nicovideo(sm3547289)|
+|&nicovideo(sm4409927)|&nicovideo(sm5298326)|
+|&nicovideo(sm5632162)|&nicovideo(sm5990990)|
+|&nicovideo(sm5991206)|&nicovideo(sm6030645)|
+|&nicovideo(sm6142386)|&nicovideo(sm6630123)|
+|&nicovideo(sm6954378)|&nicovideo(sm7791834)|
+|&nicovideo(sm8157966)|&nicovideo(sm8522169)|
+|&nicovideo(sm8856208)|&nicovideo(sm8856363)|
+|&nicovideo(sm8856525)|&nicovideo(sm8856660)|
+|&nicovideo(sm11642947)|&nicovideo(sm12800595)|
+|&nicovideo(sm12800664)|&nicovideo(sm13904604)|
+|&nicovideo(sm14914747)|>|
+
+**インタビュー動画
+|&nicovideo(sm6779676)|>|
+
+**コメント
+- プロだったのかこの人ww　納得！  -- 名無しさん  (2008-08-22 18:40:46)
+- え、マジでプロ？すごいな点  -- 名無しさん  (2009-03-09 14:36:42)
+- まじかｗｗさすがだｗ  -- 名無しさん  (2009-03-26 17:04:11)
+- そそそPはミクやネットに可能性を見てるんだけど、本業で干されないか心配だ  -- 名無しさん  (2009-04-18 22:03:58)
+- つか本業の方の仕事少ねぇよな…　心配だ  -- 名無しさん  (2009-06-05 03:49:35)
+- この前ボカロが新聞で紹介された時に名前あがっててプロだと知った　その時は全然知らなかったが…ｗｗ  -- 名無しさん  (2009-08-01 02:18:59)
+- プロかぁ～すげぇな。  -- かいと  (2009-09-06 20:51:28)
+- 不自然なくらい曲作り上手いと思ったらそういうことだったのか  -- 名無しさん  (2009-09-10 06:49:29)
+- 最近、表舞台でまったく見ないけど。。。  -- 名無しさん  (2009-11-04 23:07:19)
+- こっちの道で食っていけるようにならんもんかな  -- じい  (2009-12-31 02:41:31)
+- 超いい曲!!マジサンキュ～☆  -- 紀光香  (2010-05-09 10:27:18)
+- そんな人が何故「のぼり棒」なんかに…!  -- 名無しさん  (2010-12-13 08:26:02)
+- 良い曲しかつくれないんですか？　Σ(￣□￣;)  -- 名無しさん  (2013-11-01 13:08:41)
+- 「Fly with me」「AGAIN」「黒のツバサ」「運命の歯車を廻して」が神曲すぎて毎日聴いてます！！そそそPさん素敵な曲を本当にありがとう。  -- 名無しさん  (2013-11-02 00:15:47)
+- 大好きです☆ ( 〃▽〃) そもそもウミネコさんのイラストからして好き☆  -- 名無しさん  (2014-02-25 22:17:34)
+#comment()

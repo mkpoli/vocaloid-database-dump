@@ -3,7 +3,7 @@ from pathlib import Path
 from atwiki import AtWikiAPI, AtWikiURI
 from urllib.error import HTTPError
 
-REQUEST_INTERVAL = 0.1
+REQUEST_INTERVAL = 0
 MAX_RETRIES = 5
 OUTPUT_DIR = Path("dump")
 OUTPUT_DIR.mkdir(exist_ok=True)

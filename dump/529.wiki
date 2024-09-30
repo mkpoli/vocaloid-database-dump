@@ -1,0 +1,57 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/2663842" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/2663842">【ニコニコ動画】HMOなど一覧</a></iframe>)
+
+**特徴
+-HMO(初音ミクオーケストラ)=YMOカバー作者の中でも量・質共に群を抜いていたため、こう名付けられた。
+-一聴してわかる独得の調教をしている。
+-何気に喋らせもうまい。
+-古いゲームミュージックをネタに使うことも多い。
+-カバーだけでなくオリジナルも複数うｐしているが、残念ながら埋もれ気味。
+--最近はボカラン等の上位に食い込む事も多くなった。
+-動画のうｐタイトルは必ず「(曲名)@ミクさん」。
+--だったが「10のやくそく」以降は使われていない
+-今でもオケの作成にZ-Musicを使っている。
+-ミクへのボコーダの使用やMIX時の音声ボリュームなど、議論になることもしばしば。
+-08年2月に絵師のくぅと「PAw Laboratory」という名のユニット結成。
+-レン君はいつも笛吹き役。
+
+**リンク
+-[[作者ブログ>>http://www2.atword.jp/2525hmo/]]
+-[[PIAPRO>>http://piapro.jp/XXVI]]
+
+**曲
+#list_by_tag(HMOとかの中の人,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(HMOとかの中の人CD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+HMO(YMOカバー)
+|&nicovideo(http://www.nicovideo.jp/watch/sm1101964){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm1125003){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm1127307){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm1148127){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm1172721){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm1228370){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm1265950){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm1368251){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm1573650){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm1601243){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm1879629){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm2626978){340,185}|
+
+その他カバー
+|&nicovideo(http://www.nicovideo.jp/watch/sm1198468){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm2159601){340,185}|
+
+ゲーム関連
+|&nicovideo(http://www.nicovideo.jp/watch/sm1116581){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm1161602){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm1191851){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm2057732){340,185}|
+
+オリジナル
+|&nicovideo(http://www.nicovideo.jp/watch/sm1482320){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm1672949){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm1916695){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm2367351){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2797346){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm3444737){340,185}|
+
+**コメント
+- HMOというジャンルを一人で牽引している。　一聴してわかる独特な声のミク、異常な完成度の楽曲共に評価が高い。  -- 名無し  (2008-04-02 20:43:15)
+- ミュージックジャパン（NHK総合）アニソンスペシャル２でオープニングダクトで初音ミクは出たんだけど登録が初音ミクじゃなくHMOとか中の人で登録してあった　日本放送協会がなにやってんだよ  -- 名無しさん  (2010-10-18 17:16:52)
+- Hatsune Miku Orchestra　増殖気味 X≒MULTIPLIES　MIKU NO POP　だれか追加してくれないかなCDに  -- 黒葉  (2012-10-14 08:24:07)
+- 「10のやくそく」聴いてボロ泣きしました(;_;)  -- 名無しさん  (2013-02-21 11:30:18)
+- HMOを聴いてね、すんごくよくわかるのはね、いいものもあるだけどいいものもある  -- ももない  (2014-05-05 23:08:50)
+- ↑それはちょっと違うな、いいものもあるだけど悪いものも……あれ、見つからない  -- さきさか  (2014-06-17 12:21:44)
+- 僕はやっぱり…HMOが一番かと  -- ニューおじさん  (2014-10-24 00:07:34)
+#comment()

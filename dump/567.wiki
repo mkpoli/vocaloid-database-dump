@@ -1,0 +1,58 @@
+#right(){&furigana(はすてぃP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/4511768" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/4511768">【ニコニコ動画】自作曲一覧</a></iframe>)|
+
+**特徴
+作り手名：『&u(){ばすてぃP}』
+-2008年1月、「[[Always]]」にてボカロPデビュー。
+-使用合成音声は鏡音リン・レン、巡音ルカ。
+-バラード・ロック・80'sポップ・ラップ・アカペラ等、幅広いジャンルに才能を光らせる実力派Ｐ。
+-1つの曲の中で、メロディラインが大きく変化していく独特の展開が特徴（通称ばすてぃ節）。
+-デビュー以来「大きな構想（&bold(){ばすてぃ×鏡音リン・レン アルバム製作プロジェクト}）」に基づいて、&br()専らリン・レンのオリジナル曲を発表し続けてきたが、先日その集大成とも言うべきCD『[[Always yours way]]』が頒布された。&br()今後の活動に注目が集まる。
+-動画のイラストはピアプロや友人のものを使うことが多いが、自ら手掛けることもあり、好評を得ている。
+-アルバム制作時から水穂沙羅氏とコラボし「(゜∀ﾟ)o彡°わんつー！工房」を結成する。
+
+**リンク
+-[[ばすてぃ音楽日記（作者ブログ）>>http://ameblo.jp/birth-from-tear/]]
+-[[(゜∀ﾟ)o彡°わんつー！工房（サークルHP）>>http://www6.plala.or.jp/festoon/]]
+-[[PIAPRO>>http://piapro.jp/yayuyu]]
+
+**曲
+#list_by_tag(ばすてぃP,100,sort=furigana)
+
+**CD
+#list_by_tag(ばすてぃPCD,100,sort=furigana)
+
+**動画
+-&bold(){リンレンシリーズ第1部}
+|&nicovideo(http://www.nicovideo.jp/watch/sm2038769){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm2112420){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2257067){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm2311779){340,185}|
+-&bold(){リンレンシリーズ第2部}
+|&nicovideo(http://www.nicovideo.jp/watch/sm2485240){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm2673514){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2908800){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm3042843){340,185}|
+-&bold(){リンレンシリーズ第2.5部}
+|&nicovideo(http://www.nicovideo.jp/watch/sm3273838){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm3521472){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3638455)||
+-&bold(){リンレンシリーズ第3部}
+|&nicovideo(http://www.nicovideo.jp/watch/sm3866018)|
+-&bold(){リンレンシリーズ第3.5部}
+|&nicovideo(http://www.nicovideo.jp/watch/sm4611149)|&nicovideo(http://www.nicovideo.jp/watch/sm5675343)|
+
+-&bold(){リンレンシリーズ外オリジナル曲}
+|&nicovideo(http://www.nicovideo.jp/watch/sm4465955)|&nicovideo(http://www.nicovideo.jp/watch/sm5948584)|
+
+-&bold(){巡音ルカ曲}
+|&nicovideo(http://www.nicovideo.jp/watch/sm18183401)|
+
+**コメント
+- 「Ｒ☆Ｌ滑舌探究歌」はノリノリな、ボカロでは珍しい全てラップの曲です。かわいいイラストも楽しい。  -- 名無しさん  (2008-03-18 11:06:32)
+- Be mine! が最高すぎます　(　ﾟ∀ﾟ)o彡゜わんつー！わんつー！  -- 名無しさん  (2008-03-19 23:43:02)
+- HBの5人のレンが織り成すボイスパーカッションは美しすぎます。  -- 名無しさん  (2008-04-20 17:33:03)
+- R☆LがYoutubeにない…聴いてみたいです  -- 霞観  (2009-08-14 16:54:13)
+//- ↑え、前はありましたよ？  -- 名無しさん  (2009-09-05 13:42:55)
+//- ↑R☆L、Youtubeにちゃんとありますよ。  -- リンレン好きの人  (2010-07-07 17:36:08)
+- この方はもっと評価されるべきだと思います。わんつー！わんつー！(゜∀ﾟ)o彡°  -- 檸檬  (2012-07-14 15:47:20)
+#comment()

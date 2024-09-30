@@ -1,0 +1,40 @@
+#right(){&furigana(I shine without you)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo(http://www.nicovideo.jp/watch/sm1906195)
+作詞：[[The Lying Low]]
+作曲：[[The Lying Low]]
+編曲：[[The Lying Low]]
+唄：初音ミク
+
+**曲紹介
+曲名：『&u(){I shine without you}』
+
+**歌詞
+思い出なんて　いらなかったのに
+あなたの声は　あの日のままで
+
+聞かせて欲しい　この手をひいて
+いつも二人で　歌った詩を　
+
+負けないように　想いは時を越えて　届けよう
+哀しみを　せめて　調べに乗せて　任せたい
+
+演じなくても　笑える日まで
+
+濡れた瞳　未来に向けて
+
+約束をしよう　また逢う日まで
+きっと忘れない　くれた　安らぎを…
+
+負けないように　想いは時を越えて　届けよう
+寂しさを　今は　調べに乗せて　歩き出す
+
+生き抜くための　支えに変えて
+
+月の光のような　あなたは　もう、いない…
+
+**コメント
+#comment()
