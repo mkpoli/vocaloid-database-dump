@@ -1,0 +1,223 @@
+*曲
+#right(){[&link_edit(page=タグまとめ/曲,text=編集)]}
+**オリジナル系
+-[[ミクオリジナル曲>http://www.nicovideo.jp/tag/%E3%83%9F%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB%E6%9B%B2]]
+-[[リンオリジナル曲>http://www.nicovideo.jp/tag/%E3%83%AA%E3%83%B3%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB%E6%9B%B2]]
+-[[レンオリジナル曲>http://www.nicovideo.jp/tag/%E3%83%AC%E3%83%B3%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB%E6%9B%B2]]
+-[[ルカオリジナル曲>http://www.nicovideo.jp/tag/%E3%83%AB%E3%82%AB%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB%E6%9B%B2]]
+-[[ネルオリジナル曲>http://www.nicovideo.jp/tag/%E3%83%8D%E3%83%AB%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB%E6%9B%B2]]
+-[[ハクオリジナル曲>http://www.nicovideo.jp/tag/%E3%83%8F%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB%E6%9B%B2]]
+-[[がくぽオリジナル曲>http://www.nicovideo.jp/tag/%E3%81%8C%E3%81%8F%E3%81%BD%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB%E6%9B%B2]]
+-[[MEIKOオリジナル曲>http://www.nicovideo.jp/tag/MEIKO%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB%E6%9B%B2]]
+-[[KAITOオリジナル曲>http://www.nicovideo.jp/tag/KAITO%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB%E6%9B%B2]]
+-[[SweetAnnオリジナル曲>http://www.nicovideo.jp/tag/SweetAnn%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB%E6%9B%B2]]
+-[[LEONオリジナル曲>http://www.nicovideo.jp/tag/LEON%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB%E6%9B%B2]]
+-[[LOLAオリジナル曲>http://www.nicovideo.jp/tag/LOLA%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB%E6%9B%B2]]
+-[[MIRIAMオリジナル曲>http://www.nicovideo.jp/tag/MIRIAM%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB%E6%9B%B2]]
+-[[Primaオリジナル曲>http://www.nicovideo.jp/tag/Prima%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB%E6%9B%B2]]
+-[[VOCALOIDオリジナル曲>http://www.nicovideo.jp/tag/VOCALOID%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB%E6%9B%B2]]
+-[[ボーカロイドオリジナル曲>http://www.nicovideo.jp/tag/%E3%83%9C%E3%83%BC%E3%82%AB%E3%83%AD%E3%82%A4%E3%83%89%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB%E6%9B%B2]]
+-&i(){[[オリジナル曲>http://www.nicovideo.jp/tag/VOCALOID+or+MEIKO+or+KAITO+or+%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF+or+%E9%8F%A1%E9%9F%B3%E3%83%AA%E3%83%B3+or+%E9%8F%A1%E9%9F%B3%E3%83%AC%E3%83%B3+or+%E5%B7%A1%E9%9F%B3%E3%83%AB%E3%82%AB+or+%E3%81%8C%E3%81%8F%E3%81%A3%E3%81%BD%E3%81%84%E3%81%A9+%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB%E6%9B%B2]]}
+-&i(){[[オリジナル>http://www.nicovideo.jp/tag/VOCALOID+or+MEIKO+or+KAITO+or+%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF+or+%E9%8F%A1%E9%9F%B3%E3%83%AA%E3%83%B3+or+%E9%8F%A1%E9%9F%B3%E3%83%AC%E3%83%B3+or+%E5%B7%A1%E9%9F%B3%E3%83%AB%E3%82%AB+or+%E3%81%8C%E3%81%8F%E3%81%A3%E3%81%BD%E3%81%84%E3%81%A9+%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB]]}
+
+**カバー・替え歌系
+-[[VOCALOIDカバー曲>http://www.nicovideo.jp/tag/VOCALOID%E3%82%AB%E3%83%90%E3%83%BC%E6%9B%B2]]
+-[[VOCALOIDアレンジ曲>http://www.nicovideo.jp/tag/VOCALOID%E3%82%A2%E3%83%AC%E3%83%B3%E3%82%B8%E6%9B%B2]]
+-&i(){[[替え歌>http://www.nicovideo.jp/tag/VOCALOID+or+MEIKO+or+KAITO+or+%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF+or+%E9%8F%A1%E9%9F%B3%E3%83%AA%E3%83%B3+or+%E9%8F%A1%E9%9F%B3%E3%83%AC%E3%83%B3+or+%E5%B7%A1%E9%9F%B3%E3%83%AB%E3%82%AB+or+%E3%81%8C%E3%81%8F%E3%81%A3%E3%81%BD%E3%81%84%E3%81%A9+%E6%9B%BF%E3%81%88%E6%AD%8C]]} [[VOCALOID替え歌リンク>http://www.nicovideo.jp/tag/VOCALOID%E6%9B%BF%E3%81%88%E6%AD%8C%E3%83%AA%E3%83%B3%E3%82%AF]]
+-[[ファミうた>http://www.nicovideo.jp/tag/%E3%83%95%E3%82%A1%E3%83%9F%E3%81%86%E3%81%9F]] [[VOCALOID任天堂入り>http://www.nicovideo.jp/tag/VOCALOID%E4%BB%BB%E5%A4%A9%E5%A0%82%E5%85%A5%E3%82%8A]]
+-[[ポケモン×VOCALOID>>https://www.nicovideo.jp/tag/ポケモン×VOCALOID?sort=v&order=d]]
+-[[東方ミク>http://www.nicovideo.jp/tag/%E6%9D%B1%E6%96%B9%E3%83%9F%E3%82%AF]] [[VOCALOID幻想入り>http://www.nicovideo.jp/tag/VOCALOID%E5%B9%BB%E6%83%B3%E5%85%A5%E3%82%8A]]
+-[[初音聖歌隊>http://www.nicovideo.jp/tag/%E5%88%9D%E9%9F%B3%E8%81%96%E6%AD%8C%E9%9A%8A]]
+-[[ミクちゃんといっしょ>http://www.nicovideo.jp/tag/%E3%83%9F%E3%82%AF%E3%81%A1%E3%82%83%E3%82%93%E3%81%A8%E3%81%84%E3%81%A3%E3%81%97%E3%82%87]]
+-[[リンちゃんといっしょ>http://www.nicovideo.jp/tag/%E3%83%AA%E3%83%B3%E3%81%A1%E3%82%83%E3%82%93%E3%81%A8%E3%81%84%E3%81%A3%E3%81%97%E3%82%87]]
+-&i(){[[みんなのうた>http://www.nicovideo.jp/tag/VOCALOID+or+MEIKO+or+KAITO+or+%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF+or+%E9%8F%A1%E9%9F%B3%E3%83%AA%E3%83%B3+or+%E9%8F%A1%E9%9F%B3%E3%83%AC%E3%83%B3+or+%E5%B7%A1%E9%9F%B3%E3%83%AB%E3%82%AB+or+%E3%81%8C%E3%81%8F%E3%81%A3%E3%81%BD%E3%81%84%E3%81%A9+%E3%81%BF%E3%82%93%E3%81%AA%E3%81%AE%E3%81%86%E3%81%9F]]}
+-[[ぼかろ幼稚園>http://www.nicovideo.jp/tag/%E3%81%BC%E3%81%8B%E3%82%8D%E5%B9%BC%E7%A8%9A%E5%9C%92]]
+-[[みくちゃんとうたお>http://www.nicovideo.jp/tag/%E3%81%BF%E3%81%8F%E3%81%A1%E3%82%83%E3%82%93%E3%81%A8%E3%81%86%E3%81%9F%E3%81%8A]]
+-[[ボカロ音ゲ曲リンク>http://www.nicovideo.jp/tag/%E3%83%9C%E3%82%AB%E3%83%AD%E9%9F%B3%E3%82%B2%E6%9B%B2%E3%83%AA%E3%83%B3%E3%82%AF]] [[音ゲミク>http://www.nicovideo.jp/tag/%E9%9F%B3%E3%82%B2%E3%83%9F%E3%82%AF]]
+-[[VOCALOID特撮>http://www.nicovideo.jp/tag/VOCALOID%E7%89%B9%E6%92%AE]] &i(){[[特撮>http://www.nicovideo.jp/tag/VOCALOID+or+MEIKO+or+KAITO+or+%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF+or+%E9%8F%A1%E9%9F%B3%E3%83%AA%E3%83%B3+or+%E9%8F%A1%E9%9F%B3%E3%83%AC%E3%83%B3+or+%E5%B7%A1%E9%9F%B3%E3%83%AB%E3%82%AB+or+%E3%81%8C%E3%81%8F%E3%81%A3%E3%81%BD%E3%81%84%E3%81%A9+%E7%89%B9%E6%92%AE]]}
+-[[シネマ初音>http://www.nicovideo.jp/tag/%E3%82%B7%E3%83%8D%E3%83%9E%E5%88%9D%E9%9F%B3]]
+-[[みくみくテレビ探偵団>http://www.nicovideo.jp/tag/%E3%81%BF%E3%81%8F%E3%81%BF%E3%81%8F%E3%83%86%E3%83%AC%E3%83%93%E6%8E%A2%E5%81%B5%E5%9B%A3]]
+-&i(){[[アニソン>http://www.nicovideo.jp/tag/VOCALOID+or+MEIKO+or+KAITO+or+%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF+or+%E9%8F%A1%E9%9F%B3%E3%83%AA%E3%83%B3+or+%E9%8F%A1%E9%9F%B3%E3%83%AC%E3%83%B3+or+%E5%B7%A1%E9%9F%B3%E3%83%AB%E3%82%AB+or+%E3%81%8C%E3%81%8F%E3%81%A3%E3%81%BD%E3%81%84%E3%81%A9+%E3%82%A2%E3%83%8B%E3%82%BD%E3%83%B3]]} &i(){[[OP>http://www.nicovideo.jp/tag/VOCALOID+or+MEIKO+or+KAITO+or+%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF+or+%E9%8F%A1%E9%9F%B3%E3%83%AA%E3%83%B3+or+%E9%8F%A1%E9%9F%B3%E3%83%AC%E3%83%B3+or+%E5%B7%A1%E9%9F%B3%E3%83%AB%E3%82%AB+or+%E3%81%8C%E3%81%8F%E3%81%A3%E3%81%BD%E3%81%84%E3%81%A9+OP]]} &i(){[[ED>http://www.nicovideo.jp/tag/VOCALOID+or+MEIKO+or+KAITO+or+%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF+or+%E9%8F%A1%E9%9F%B3%E3%83%AA%E3%83%B3+or+%E9%8F%A1%E9%9F%B3%E3%83%AC%E3%83%B3+or+%E5%B7%A1%E9%9F%B3%E3%83%AB%E3%82%AB+or+%E3%81%8C%E3%81%8F%E3%81%A3%E3%81%BD%E3%81%84%E3%81%A9+ED]]}
+-[[初音ゆりかご会>http://www.nicovideo.jp/tag/%E5%88%9D%E9%9F%B3%E3%82%86%E3%82%8A%E3%81%8B%E3%81%94%E4%BC%9A]]
+-[[初音ミクガンダムシリーズ>http://www.nicovideo.jp/tag/%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA]]
+-[[超時空歌姫ミクロス>http://www.nicovideo.jp/tag/%E8%B6%85%E6%99%82%E7%A9%BA%E6%AD%8C%E5%A7%AB%E3%83%9F%E3%82%AF%E3%83%AD%E3%82%B9]] [[初音ミクマクロスシリーズ>http://www.nicovideo.jp/tag/%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF%E3%83%9E%E3%82%AF%E3%83%AD%E3%82%B9%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA]] [[超時空VOCALOIDリンク>http://www.nicovideo.jp/tag/%E8%B6%85%E6%99%82%E7%A9%BAVOCALOID%E3%83%AA%E3%83%B3%E3%82%AF]]
+-[[ジブリ歌わせてみた>http://www.nicovideo.jp/tag/%E3%82%B8%E3%83%96%E3%83%AA%E6%AD%8C%E3%82%8F%E3%81%9B%E3%81%A6%E3%81%BF%E3%81%9F]]
+-[[初音ミクでエロゲソング集 >http://www.nicovideo.jp/tag/%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF%E3%81%A7%E3%82%A8%E3%83%AD%E3%82%B2%E3%82%BD%E3%83%B3%E3%82%B0%E9%9B%86]]
+-[[超初音>http://www.nicovideo.jp/tag/%E8%B6%85%E5%88%9D%E9%9F%B3]] （超兄貴シリーズ）
+-[[初音エージェンシー>http://www.nicovideo.jp/tag/%E5%88%9D%E9%9F%B3%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B7%E3%83%BC]]
+-[[Vocaloid-CM>http://www.nicovideo.jp/tag/Vocaloid-CM]]
+-[[VOCALOID家電量販店ソングリンク>http://www.nicovideo.jp/tag/VOCALOID%E5%AE%B6%E9%9B%BB%E9%87%8F%E8%B2%A9%E5%BA%97%E3%82%BD%E3%83%B3%E3%82%B0%E3%83%AA%E3%83%B3%E3%82%AF]]
+-[[初音洋楽シリーズ>http://www.nicovideo.jp/tag/%E5%88%9D%E9%9F%B3%E6%B4%8B%E6%A5%BD%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA]]
+-[[鏡音洋楽シリーズ>http://www.nicovideo.jp/tag/%E9%8F%A1%E9%9F%B3%E6%B4%8B%E6%A5%BD%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA]]
+-[[VOCALOID校歌シリーズ>http://www.nicovideo.jp/tag/VOCALOID%E6%A0%A1%E6%AD%8C%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA]] [[ミクの校歌シリーズ>http://www.nicovideo.jp/tag/%E3%83%9F%E3%82%AF%E3%81%AE%E6%A0%A1%E6%AD%8C%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA]]
+-[[VOCALOID国歌シリーズ>http://www.nicovideo.jp/tag/VOCALOID%E5%9B%BD%E6%AD%8C%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA]]
+-[[LOCALOID>http://www.nicovideo.jp/tag/LOCALOID]]
+-[[ご当地ミク>http://www.nicovideo.jp/tag/%E3%81%94%E5%BD%93%E5%9C%B0%E3%83%9F%E3%82%AF]]
+-[[ご当地KAITO>http://www.nicovideo.jp/tag/%E3%81%94%E5%BD%93%E5%9C%B0KAITO]]
+-&i(){[[日本の歌百選>http://www.nicovideo.jp/tag/VOCALOID+or+MEIKO+or+KAITO+or+%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF+or+%E9%8F%A1%E9%9F%B3%E3%83%AA%E3%83%B3+or+%E9%8F%A1%E9%9F%B3%E3%83%AC%E3%83%B3+or+%E5%B7%A1%E9%9F%B3%E3%83%AB%E3%82%AB+or+%E3%81%8C%E3%81%8F%E3%81%A3%E3%81%BD%E3%81%84%E3%81%A9+%E6%97%A5%E6%9C%AC%E3%81%AE%E6%AD%8C%E7%99%BE%E9%81%B8]]}
+-[[ボーカロイドたちのＹＡＭＡＴＯ>http://www.nicovideo.jp/tag/%E3%83%9C%E3%83%BC%E3%82%AB%E3%83%AD%E3%82%A4%E3%83%89%E3%81%9F%E3%81%A1%E3%81%AE%EF%BC%B9%EF%BC%A1%EF%BC%AD%EF%BC%A1%EF%BC%B4%EF%BC%AF]]
+-[[電脳愛国婦人>http://www.nicovideo.jp/tag/%E9%9B%BB%E8%84%B3%E6%84%9B%E5%9B%BD%E5%A9%A6%E4%BA%BA]] [[萌え軍歌>http://www.nicovideo.jp/tag/%E8%90%8C%E3%81%88%E8%BB%8D%E6%AD%8C]]
+-[[汎用人型プロパガンダ発声機「初音ミク」>http://www.nicovideo.jp/tag/%E6%B1%8E%E7%94%A8%E4%BA%BA%E5%9E%8B%E3%83%97%E3%83%AD%E3%83%91%E3%82%AC%E3%83%B3%E3%83%80%E7%99%BA%E5%A3%B0%E6%A9%9F%E3%80%8C%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF%E3%80%8D]]
+-[[同志初音ミク>http://www.nicovideo.jp/tag/%E5%90%8C%E5%BF%97%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF]]
+-[[初音みゆき>http://www.nicovideo.jp/tag/%E5%88%9D%E9%9F%B3%E3%81%BF%E3%82%86%E3%81%8D]]
+-[[HMO（初音ミクオーケストラ）>http://www.nicovideo.jp/tag/HMO%EF%BC%88%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF%E3%82%AA%E3%83%BC%E3%82%B1%E3%82%B9%E3%83%88%E3%83%A9%EF%BC%89]] [[HMOソロワークス>http://www.nicovideo.jp/tag/HMO%E3%82%BD%E3%83%AD%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B9]] [[HMOファミリー>http://www.nicovideo.jp/tag/HMO%E3%83%95%E3%82%A1%E3%83%9F%E3%83%AA%E3%83%BC]]
+-[[MOSAIC.MIC>http://www.nicovideo.jp/tag/MOSAIC.MIC]]
+-[[Perfu音ミク>http://www.nicovideo.jp/tag/Perfu%E9%9F%B3%E3%83%9F%E3%82%AF]]
+-[[ボカ天>http://www.nicovideo.jp/tag/%E3%83%9C%E3%82%AB%E5%A4%A9]]
+-[[HM-Network>http://www.nicovideo.jp/tag/HM-Network]]
+-[[小室ミク>http://www.nicovideo.jp/tag/%E5%B0%8F%E5%AE%A4%E3%83%9F%E3%82%AF]]
+-[[MIKUPROJECT>http://www.nicovideo.jp/tag/MIKUPROJECT]]（アリプロ）
+-[[初音ミク小悪魔化計画>http://www.nicovideo.jp/tag/%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF%E5%B0%8F%E6%82%AA%E9%AD%94%E5%8C%96%E8%A8%88%E7%94%BB]]（聖飢魔Ⅱ）
+-[[初音YUKI>http://www.nicovideo.jp/tag/%E5%88%9D%E9%9F%B3YUKI]]（主にJUDY AND MARY）
+-[[ハロプロイド>http://www.nicovideo.jp/tag/%E3%83%8F%E3%83%AD%E3%83%97%E3%83%AD%E3%82%A4%E3%83%89]]
+-[[VOCALOIDで平沢進>http://www.nicovideo.jp/tag/VOCALOID%E3%81%A7%E5%B9%B3%E6%B2%A2%E9%80%B2]]
+-[[VocaloidHorizon>http://www.nicovideo.jp/tag/VocaloidHorizon]](SoundHorizon)
+-[[ジャ兄さん>http://www.nicovideo.jp/tag/%E3%82%B8%E3%83%A3%E5%85%84%E3%81%95%E3%82%93]]
+-[[ボカログラフィティ>http://www.nicovideo.jp/search/%E3%83%9C%E3%82%AB%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A3%E3%83%86%E3%82%A3]]（ポルノグラフィティ）
+-[[ミク≠原曲聞き比べリンク>http://www.nicovideo.jp/tag/%E3%83%9F%E3%82%AF%E2%89%A0%E5%8E%9F%E6%9B%B2%E8%81%9E%E3%81%8D%E6%AF%94%E3%81%B9%E3%83%AA%E3%83%B3%E3%82%AF]]
+-[[VOCALOID→VOCALOIDカバー>http://www.nicovideo.jp/tag/VOCALOID%E2%86%92VOCALOID%E3%82%AB%E3%83%90%E3%83%BC]]
+-[[鏡音リン課題曲>http://www.nicovideo.jp/tag/%E9%8F%A1%E9%9F%B3%E3%83%AA%E3%83%B3%E8%AA%B2%E9%A1%8C%E6%9B%B2]]
+-[[鏡音レン課題曲>http://www.nicovideo.jp/tag/%E9%8F%A1%E9%9F%B3%E3%83%AC%E3%83%B3%E8%AA%B2%E9%A1%8C%E6%9B%B2]]
+-[[KAITO用課題曲>http://www.nicovideo.jp/tag/KAITO%E7%94%A8%E8%AA%B2%E9%A1%8C%E6%9B%B2]]
+-[[巡音ルカ課題曲>http://www.nicovideo.jp/tag/%E5%B7%A1%E9%9F%B3%E3%83%AB%E3%82%AB%E8%AA%B2%E9%A1%8C%E6%9B%B2]]
+
+**音楽ジャンル系
+-[[ボカロクラシカ>http://www.nicovideo.jp/tag/%E3%83%9C%E3%82%AB%E3%83%AD%E3%82%AF%E3%83%A9%E3%82%B7%E3%82%AB]] [[ミクラシック>http://www.nicovideo.jp/tag/%E3%83%9F%E3%82%AF%E3%83%A9%E3%82%B7%E3%83%83%E3%82%AF]] &i(){[[クラシック>http://www.nicovideo.jp/tag/VOCALOID+or+MEIKO+or+KAITO+or+%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF+or+%E9%8F%A1%E9%9F%B3%E3%83%AA%E3%83%B3+or+%E9%8F%A1%E9%9F%B3%E3%83%AC%E3%83%B3+or+%E5%B7%A1%E9%9F%B3%E3%83%AB%E3%82%AB+or+%E3%81%8C%E3%81%8F%E3%81%A3%E3%81%BD%E3%81%84%E3%81%A9+%E3%82%AF%E3%83%A9%E3%82%B7%E3%83%83%E3%82%AF]]}
+-[[ボカロ童謡>http://www.nicovideo.jp/tag/%E3%83%9C%E3%82%AB%E3%83%AD%E7%AB%A5%E8%AC%A1]] &i(){[[童謡>http://www.nicovideo.jp/tag/VOCALOID+or+MEIKO+or+KAITO+or+%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF+or+%E9%8F%A1%E9%9F%B3%E3%83%AA%E3%83%B3+or+%E9%8F%A1%E9%9F%B3%E3%83%AC%E3%83%B3+or+%E5%B7%A1%E9%9F%B3%E3%83%AB%E3%82%AB+or+%E3%81%8C%E3%81%8F%E3%81%A3%E3%81%BD%E3%81%84%E3%81%A9+%E7%AB%A5%E8%AC%A1]]}
+-[[ボカロ演歌>http://www.nicovideo.jp/tag/%E3%83%9C%E3%82%AB%E3%83%AD%E6%BC%94%E6%AD%8C]] [[萌演歌>http://www.nicovideo.jp/tag/%E8%90%8C%E6%BC%94%E6%AD%8C]] &i(){[[演歌>http://www.nicovideo.jp/tag/VOCALOID+or+MEIKO+or+KAITO+or+%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF+or+%E9%8F%A1%E9%9F%B3%E3%83%AA%E3%83%B3+or+%E9%8F%A1%E9%9F%B3%E3%83%AC%E3%83%B3+or+%E5%B7%A1%E9%9F%B3%E3%83%AB%E3%82%AB+or+%E3%81%8C%E3%81%8F%E3%81%A3%E3%81%BD%E3%81%84%E3%81%A9+%E6%BC%94%E6%AD%8C]]}
+-[[ボカロラップ>http://www.nicovideo.jp/tag/%E3%83%9C%E3%82%AB%E3%83%AD%E3%83%A9%E3%83%83%E3%83%97]] &i(){[[ラップ>http://www.nicovideo.jp/tag/VOCALOID+or+MEIKO+or+KAITO+or+%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF+or+%E9%8F%A1%E9%9F%B3%E3%83%AA%E3%83%B3+or+%E9%8F%A1%E9%9F%B3%E3%83%AC%E3%83%B3+or+%E5%B7%A1%E9%9F%B3%E3%83%AB%E3%82%AB+or+%E3%81%8C%E3%81%8F%E3%81%A3%E3%81%BD%E3%81%84%E3%81%A9+%E3%83%A9%E3%83%83%E3%83%97]]}
+-[[VOCASKA>http://www.nicovideo.jp/tag/VOCASKA]]
+-[[VOCAROCK>http://www.nicovideo.jp/tag/VOCAROCK]] [[ミクろっく>http://www.nicovideo.jp/tag/%E3%83%9F%E3%82%AF%E3%82%8D%E3%81%A3%E3%81%8F]] &i(){[[ロック>http://www.nicovideo.jp/tag/VOCALOID+or+MEIKO+or+KAITO+or+%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF+or+%E9%8F%A1%E9%9F%B3%E3%83%AA%E3%83%B3+or+%E9%8F%A1%E9%9F%B3%E3%83%AC%E3%83%B3+or+%E5%B7%A1%E9%9F%B3%E3%83%AB%E3%82%AB+or+%E3%81%8C%E3%81%8F%E3%81%A3%E3%81%BD%E3%81%84%E3%81%A9+%E3%83%AD%E3%83%83%E3%82%AF]]}
+-[[ボカノバ>http://www.nicovideo.jp/tag/%E3%83%9C%E3%82%AB%E3%83%8E%E3%83%90]]　&i(){[[ミクボッサ>http://www.nicovideo.jp/tag/%E3%83%9F%E3%82%AF%E3%83%9C%E3%83%83%E3%82%B5]]}
+-[[オルタナティブミック>http://www.nicovideo.jp/tag/%E3%82%AA%E3%83%AB%E3%82%BF%E3%83%8A%E3%83%86%E3%82%A3%E3%83%96%E3%83%9F%E3%83%83%E3%82%AF]]
+-[[ポストミック>http://www.nicovideo.jp/tag/%E3%83%9D%E3%82%B9%E3%83%88%E3%83%9F%E3%83%83%E3%82%AF]]
+-[[プログレミク>http://www.nicovideo.jp/tag/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%AC%E3%83%9F%E3%82%AF]] &i(){[[プログレ>http://www.nicovideo.jp/tag/VOCALOID+or+MEIKO+or+KAITO+or+%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF+or+%E9%8F%A1%E9%9F%B3%E3%83%AA%E3%83%B3+or+%E9%8F%A1%E9%9F%B3%E3%83%AC%E3%83%B3+or+%E5%B7%A1%E9%9F%B3%E3%83%AB%E3%82%AB+or+%E3%81%8C%E3%81%8F%E3%81%A3%E3%81%BD%E3%81%84%E3%81%A9+%E3%83%97%E3%83%AD%E3%82%B0%E3%83%AC]]}
+-[[ミクパンク>http://www.nicovideo.jp/tag/%E3%83%9F%E3%82%AF%E3%83%91%E3%83%B3%E3%82%AF]] &i(){[[パンク>http://www.nicovideo.jp/tag/VOCALOID+or+MEIKO+or+KAITO+or+%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF+or+%E9%8F%A1%E9%9F%B3%E3%83%AA%E3%83%B3+or+%E9%8F%A1%E9%9F%B3%E3%83%AC%E3%83%B3+or+%E5%B7%A1%E9%9F%B3%E3%83%AB%E3%82%AB+or+%E3%81%8C%E3%81%8F%E3%81%A3%E3%81%BD%E3%81%84%E3%81%A9+%E3%83%91%E3%83%B3%E3%82%AF]]}
+-[[ミクメタル>http://www.nicovideo.jp/tag/%E3%83%9F%E3%82%AF%E3%83%A1%E3%82%BF%E3%83%AB]] [[ボカロメタル>http://www.nicovideo.jp/tag/%E3%83%9C%E3%82%AB%E3%83%AD%E3%83%A1%E3%82%BF%E3%83%AB]] &i(){[[メタル>http://www.nicovideo.jp/tag/VOCALOID+or+MEIKO+or+KAITO+or+%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF+or+%E9%8F%A1%E9%9F%B3%E3%83%AA%E3%83%B3+or+%E9%8F%A1%E9%9F%B3%E3%83%AC%E3%83%B3+or+%E5%B7%A1%E9%9F%B3%E3%83%AB%E3%82%AB+or+%E3%81%8C%E3%81%8F%E3%81%A3%E3%81%BD%E3%81%84%E3%81%A9+%E3%83%A1%E3%82%BF%E3%83%AB]]}
+-[[ミクHR/HM>http://www.nicovideo.jp/tag/%E3%83%9F%E3%82%AFHR%2FHM]]
+-[[ミクトランス>http://www.nicovideo.jp/tag/%E3%83%9F%E3%82%AF%E3%83%88%E3%83%A9%E3%83%B3%E3%82%B9]] [[リントランス>http://www.nicovideo.jp/tag/%E3%83%AA%E3%83%B3%E3%83%88%E3%83%A9%E3%83%B3%E3%82%B9]] &i(){[[トランス>http://www.nicovideo.jp/tag/VOCALOID+or+MEIKO+or+KAITO+or+%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF+or+%E9%8F%A1%E9%9F%B3%E3%83%AA%E3%83%B3+or+%E9%8F%A1%E9%9F%B3%E3%83%AC%E3%83%B3+or+%E5%B7%A1%E9%9F%B3%E3%83%AB%E3%82%AB+or+%E3%81%8C%E3%81%8F%E3%81%A3%E3%81%BD%E3%81%84%E3%81%A9+%E3%83%88%E3%83%A9%E3%83%B3%E3%82%B9]]}
+-[[ミクトロニカ>http://www.nicovideo.jp/tag/%E3%83%9F%E3%82%AF%E3%83%88%E3%83%AD%E3%83%8B%E3%82%AB]] [[エレクトロルカ>http://www.nicovideo.jp/tag/%E3%82%A8%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AD%E3%83%AB%E3%82%AB]]&i(){[[エレクトロニカ>http://www.nicovideo.jp/tag/VOCALOID+or+MEIKO+or+KAITO+or+%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF+or+%E9%8F%A1%E9%9F%B3%E3%83%AA%E3%83%B3+or+%E9%8F%A1%E9%9F%B3%E3%83%AC%E3%83%B3+or+%E5%B7%A1%E9%9F%B3%E3%83%AB%E3%82%AB+or+%E3%81%8C%E3%81%8F%E3%81%A3%E3%81%BD%E3%81%84%E3%81%A9+%E3%82%A8%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AD%E3%83%8B%E3%82%AB]]}
+-[[ミクノ>http://www.nicovideo.jp/tag/%E3%83%9F%E3%82%AF%E3%83%8E]] [[ミク☆テクノ>http://www.nicovideo.jp/tag/%E3%83%9F%E3%82%AF%E2%98%86%E3%83%86%E3%82%AF%E3%83%8E]] &i(){[[テクノ>http://www.nicovideo.jp/tag/VOCALOID+or+MEIKO+or+KAITO+or+%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF+or+%E9%8F%A1%E9%9F%B3%E3%83%AA%E3%83%B3+or+%E9%8F%A1%E9%9F%B3%E3%83%AC%E3%83%B3+or+%E5%B7%A1%E9%9F%B3%E3%83%AB%E3%82%AB+or+%E3%81%8C%E3%81%8F%E3%81%A3%E3%81%BD%E3%81%84%E3%81%A9+%E3%83%86%E3%82%AF%E3%83%8E]]}
+-[[ミクノポップ>http://www.nicovideo.jp/tag/%E3%83%9F%E3%82%AF%E3%83%8E%E3%83%9D%E3%83%83%E3%83%97]] &i(){[[テクノポップ>http://www.nicovideo.jp/tag/VOCALOID+or+MEIKO+or+KAITO+or+%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF+or+%E9%8F%A1%E9%9F%B3%E3%83%AA%E3%83%B3+or+%E9%8F%A1%E9%9F%B3%E3%83%AC%E3%83%B3+or+%E5%B7%A1%E9%9F%B3%E3%83%AB%E3%82%AB+or+%E3%81%8C%E3%81%8F%E3%81%A3%E3%81%BD%E3%81%84%E3%81%A9+%E3%83%86%E3%82%AF%E3%83%8E%E3%83%9D%E3%83%83%E3%83%97]]}
+-[[ミックンベース>http://www.nicovideo.jp/tag/%E3%83%9F%E3%83%83%E3%82%AF%E3%83%B3%E3%83%99%E3%83%BC%E3%82%B9]]
+-[[ミクビエント>http://www.nicovideo.jp/tag/%E3%83%9F%E3%82%AF%E3%83%93%E3%82%A8%E3%83%B3%E3%83%88]] &i(){[[アンビエント>http://www.nicovideo.jp/tag/VOCALOID+or+MEIKO+or+KAITO+or+%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF+or+%E9%8F%A1%E9%9F%B3%E3%83%AA%E3%83%B3+or+%E9%8F%A1%E9%9F%B3%E3%83%AC%E3%83%B3+or+%E5%B7%A1%E9%9F%B3%E3%83%AB%E3%82%AB+or+%E3%81%8C%E3%81%8F%E3%81%A3%E3%81%BD%E3%81%84%E3%81%A9+%E3%82%A2%E3%83%B3%E3%83%93%E3%82%A8%E3%83%B3%E3%83%88]]}
+-[[ミクゲイザー>http://www.nicovideo.jp/tag/%E3%83%9F%E3%82%AF%E3%82%B2%E3%82%A4%E3%82%B6%E3%83%BC]] &i(){[[シューゲイザー>http://www.nicovideo.jp/tag/VOCALOID+or+MEIKO+or+KAITO+or+%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF+or+%E9%8F%A1%E9%9F%B3%E3%83%AA%E3%83%B3+or+%E9%8F%A1%E9%9F%B3%E3%83%AC%E3%83%B3+or+%E5%B7%A1%E9%9F%B3%E3%83%AB%E3%82%AB+or+%E3%81%8C%E3%81%8F%E3%81%A3%E3%81%BD%E3%81%84%E3%81%A9+%E3%82%B7%E3%83%A5%E3%83%BC%E3%82%B2%E3%82%A4%E3%82%B6%E3%83%BC]]}
+-[[ミク☆バラード>http://www.nicovideo.jp/tag/%E3%83%9F%E3%82%AF%E2%98%86%E3%83%90%E3%83%A9%E3%83%BC%E3%83%89]] [[リン☆バラード>http://www.nicovideo.jp/tag/%E3%83%AA%E3%83%B3%E2%98%86%E3%83%90%E3%83%A9%E3%83%BC%E3%83%89]] &i(){[[バラード>http://www.nicovideo.jp/tag/VOCALOID+or+MEIKO+or+KAITO+or+%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF+or+%E9%8F%A1%E9%9F%B3%E3%83%AA%E3%83%B3+or+%E9%8F%A1%E9%9F%B3%E3%83%AC%E3%83%B3+or+%E5%B7%A1%E9%9F%B3%E3%83%AB%E3%82%AB+or+%E3%81%8C%E3%81%8F%E3%81%A3%E3%81%BD%E3%81%84%E3%81%A9+%E3%83%90%E3%83%A9%E3%83%BC%E3%83%89]]}
+-[[ミクノイズ>http://www.nicovideo.jp/tag/%E3%83%9F%E3%82%AF%E3%83%8E%E3%82%A4%E3%82%BA]]
+-[[リンダストリアル>http://www.nicovideo.jp/tag/%E3%83%AA%E3%83%B3%E3%83%80%E3%82%B9%E3%83%88%E3%83%AA%E3%82%A2%E3%83%AB]]
+-[[初音フォークジャンボリー>http://www.nicovideo.jp/tag/%E5%88%9D%E9%9F%B3%E3%83%95%E3%82%A9%E3%83%BC%E3%82%AF%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%9C%E3%83%AA%E3%83%BC]] &i(){[[フォーク>http://www.nicovideo.jp/tag/VOCALOID+or+MEIKO+or+KAITO+or+%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF+or+%E9%8F%A1%E9%9F%B3%E3%83%AA%E3%83%B3+or+%E9%8F%A1%E9%9F%B3%E3%83%AC%E3%83%B3+or+%E5%B7%A1%E9%9F%B3%E3%83%AB%E3%82%AB+or+%E3%81%8C%E3%81%8F%E3%81%A3%E3%81%BD%E3%81%84%E3%81%A9+%E3%83%95%E3%82%A9%E3%83%BC%E3%82%AF]]}
+-[[初音ニューミュージック>http://www.nicovideo.jp/tag/%E5%88%9D%E9%9F%B3%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF]]
+-[[VOCAJAZZ>http://www.nicovideo.jp/tag/VOCAJAZZ]] [[ジャズクラブ初音>http://www.nicovideo.jp/tag/%E3%82%B8%E3%83%A3%E3%82%BA%E3%82%AF%E3%83%A9%E3%83%96%E5%88%9D%E9%9F%B3]] &i(){[[jazz>http://www.nicovideo.jp/tag/VOCALOID+or+MEIKO+or+KAITO+or+%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF+or+%E9%8F%A1%E9%9F%B3%E3%83%AA%E3%83%B3+or+%E9%8F%A1%E9%9F%B3%E3%83%AC%E3%83%B3+or+%E5%B7%A1%E9%9F%B3%E3%83%AB%E3%82%AB+or+%E3%81%8C%E3%81%8F%E3%81%A3%E3%81%BD%E3%81%84%E3%81%A9+jazz]]} &i(){[[ジャズ>http://www.nicovideo.jp/tag/VOCALOID+or+MEIKO+or+KAITO+or+%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF+or+%E9%8F%A1%E9%9F%B3%E3%83%AA%E3%83%B3+or+%E9%8F%A1%E9%9F%B3%E3%83%AC%E3%83%B3+or+%E5%B7%A1%E9%9F%B3%E3%83%AB%E3%82%AB+or+%E3%81%8C%E3%81%8F%E3%81%A3%E3%81%BD%E3%81%84%E3%81%A9+%E3%82%B8%E3%83%A3%E3%82%BA]]}
+-[[MIKuPOP>http://www.nicovideo.jp/tag/MIKuPOP]] [[リンポップ>http://www.nicovideo.jp/tag/%E3%83%AA%E3%83%B3%E3%83%9D%E3%83%83%E3%83%97]]
+-[[MIKuHOUSE>http://www.nicovideo.jp/tag/MIKuHOUSE]] &i(){[[ハウス>http://www.nicovideo.jp/tag/VOCALOID+or+MEIKO+or+KAITO+or+%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF+or+%E9%8F%A1%E9%9F%B3%E3%83%AA%E3%83%B3+or+%E9%8F%A1%E9%9F%B3%E3%83%AC%E3%83%B3+or+%E5%B7%A1%E9%9F%B3%E3%83%AB%E3%82%AB+or+%E3%81%8C%E3%81%8F%E3%81%A3%E3%81%BD%E3%81%84%E3%81%A9+%E3%83%8F%E3%82%A6%E3%82%B9]]}
+-&i(){[[民族音楽>http://www.nicovideo.jp/tag/VOCALOID+or+MEIKO+or+KAITO+or+%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF+or+%E9%8F%A1%E9%9F%B3%E3%83%AA%E3%83%B3+or+%E9%8F%A1%E9%9F%B3%E3%83%AC%E3%83%B3+or+%E5%B7%A1%E9%9F%B3%E3%83%AB%E3%82%AB+or+%E3%81%8C%E3%81%8F%E3%81%A3%E3%81%BD%E3%81%84%E3%81%A9+%E6%B0%91%E6%97%8F%E9%9F%B3%E6%A5%BD]]}
+
+**印象系
+-[[みんなのミクうた>http://www.nicovideo.jp/tag/%E3%81%BF%E3%82%93%E3%81%AA%E3%81%AE%E3%83%9F%E3%82%AF%E3%81%86%E3%81%9F]]（現在他ボカロも含まれてる）
+-[[みんなのリンうた>http://www.nicovideo.jp/tag/%E3%81%BF%E3%82%93%E3%81%AA%E3%81%AE%E3%83%AA%E3%83%B3%E3%81%86%E3%81%9F]] [[リンなのうた>http://www.nicovideo.jp/tag/%E3%83%AA%E3%83%B3%E3%81%AA%E3%81%AE%E3%81%86%E3%81%9F]]
+-[[みんなのレンうた>http://www.nicovideo.jp/tag/%E3%81%BF%E3%82%93%E3%81%AA%E3%81%AE%E3%83%AC%E3%83%B3%E3%81%86%E3%81%9F]]
+-[[かわいいミクうた>http://www.nicovideo.jp/tag/%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84%E3%83%9F%E3%82%AF%E3%81%86%E3%81%9F]]
+-[[爽やかなミクうた>http://www.nicovideo.jp/tag/%E7%88%BD%E3%82%84%E3%81%8B%E3%81%AA%E3%83%9F%E3%82%AF%E3%81%86%E3%81%9F]]
+-[[切ないミクうた>http://www.nicovideo.jp/tag/%E5%88%87%E3%81%AA%E3%81%84%E3%83%9F%E3%82%AF%E3%81%86%E3%81%9F]]
+-[[クールなミクうた>http://www.nicovideo.jp/tag/%E3%82%AF%E3%83%BC%E3%83%AB%E3%81%AA%E3%83%9F%E3%82%AF%E3%81%86%E3%81%9F]]
+-[[素朴なミクうた>http://www.nicovideo.jp/tag/%E7%B4%A0%E6%9C%B4%E3%81%AA%E3%83%9F%E3%82%AF%E3%81%86%E3%81%9F]]
+-[[元気が出るミクうた>http://www.nicovideo.jp/tag/%E5%85%83%E6%B0%97%E3%81%8C%E5%87%BA%E3%82%8B%E3%83%9F%E3%82%AF%E3%81%86%E3%81%9F]]
+-[[元気が減るミクうた>http://www.nicovideo.jp/tag/%E5%85%83%E6%B0%97%E3%81%8C%E6%B8%9B%E3%82%8B%E3%83%9F%E3%82%AF%E3%81%86%E3%81%9F]]
+-[[ききいるミクうた>http://www.nicovideo.jp/tag/%E3%81%8D%E3%81%8D%E3%81%84%E3%82%8B%E3%83%9F%E3%82%AF%E3%81%86%E3%81%9F]]
+-[[不安になるミクうた>http://www.nicovideo.jp/tag/%E4%B8%8D%E5%AE%89%E3%81%AB%E3%81%AA%E3%82%8B%E3%83%9F%E3%82%AF%E3%81%86%E3%81%9F]]
+-[[エロかわいいミクうた>http://www.nicovideo.jp/tag/%E3%82%A8%E3%83%AD%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84%E3%83%9F%E3%82%AF%E3%81%86%E3%81%9F]]
+-[[初音ミクの魂の叫び>http://www.nicovideo.jp/tag/%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF%E3%81%AE%E9%AD%82%E3%81%AE%E5%8F%AB%E3%81%B3]]
+-[[なごミク>http://www.nicovideo.jp/tag/%E3%81%AA%E3%81%94%E3%83%9F%E3%82%AF]]
+-[[萌えリンソング>http://www.nicovideo.jp/tag/%E8%90%8C%E3%81%88%E3%83%AA%E3%83%B3%E3%82%BD%E3%83%B3%E3%82%B0]]
+-[[爽やかなレンうた>http://www.nicovideo.jp/tag/%E7%88%BD%E3%82%84%E3%81%8B%E3%81%AA%E3%83%AC%E3%83%B3%E3%81%86%E3%81%9F]]
+-[[せつないレンうた>http://www.nicovideo.jp/tag/%E3%81%9B%E3%81%A4%E3%81%AA%E3%81%84%E3%83%AC%E3%83%B3%E3%81%86%E3%81%9F]]
+-[[さわやKAITO>http://www.nicovideo.jp/tag/%E3%81%95%E3%82%8F%E3%82%84KAITO]]
+-[[せつない姉さんは好きですか>http://www.nicovideo.jp/tag/%E3%81%9B%E3%81%A4%E3%81%AA%E3%81%84%E5%A7%89%E3%81%95%E3%82%93%E3%81%AF%E5%A5%BD%E3%81%8D%E3%81%A7%E3%81%99%E3%81%8B]]
+-[[癒し曲リンク>http://www.nicovideo.jp/tag/%E7%99%92%E3%81%97%E6%9B%B2%E3%83%AA%E3%83%B3%E3%82%AF]]
+-[[VOCALOID和風曲>http://www.nicovideo.jp/tag/VOCALOID%E5%92%8C%E9%A2%A8%E6%9B%B2]]
+-[[VOCALOID民族調曲リンク>http://www.nicovideo.jp/tag/VOCALOID%E6%B0%91%E6%97%8F%E8%AA%BF%E6%9B%B2%E3%83%AA%E3%83%B3%E3%82%AF]]
+-[[VOCALOID幻想狂気曲リンク>http://www.nicovideo.jp/tag/VOCALOID%E5%B9%BB%E6%83%B3%E7%8B%82%E6%B0%97%E6%9B%B2%E3%83%AA%E3%83%B3%E3%82%AF]]
+-[[VOCALOIDヒーローシリーズ>http://www.nicovideo.jp/tag/VOCALOID%E3%83%92%E3%83%BC%E3%83%AD%E3%83%BC%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA]]
+-[[感性の反乱β>http://www.nicovideo.jp/tag/%E6%84%9F%E6%80%A7%E3%81%AE%E5%8F%8D%E4%B9%B1%CE%B2]]
+-[[アングーグラウンドボカロジャパン>http://www.nicovideo.jp/tag/%E3%82%A2%E3%83%B3%E3%82%B0%E3%83%BC%E3%82%B0%E3%83%A9%E3%82%A6%E3%83%B3%E3%83%89%E3%83%9C%E3%82%AB%E3%83%AD%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3]]
+-[[ロキノン系ボーカロイド>http://www.nicovideo.jp/tag/%E3%83%AD%E3%82%AD%E3%83%8E%E3%83%B3%E7%B3%BB%E3%83%9C%E3%83%BC%E3%82%AB%E3%83%AD%E3%82%A4%E3%83%89]]
+-[[大人のミク曲>http://www.nicovideo.jp/tag/%E5%A4%A7%E4%BA%BA%E3%81%AE%E3%83%9F%E3%82%AF%E6%9B%B2]]
+-&i(){[[おっさんホイホイ>http://www.nicovideo.jp/tag/VOCALOID+or+MEIKO+or+KAITO+or+%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF+or+%E9%8F%A1%E9%9F%B3%E3%83%AA%E3%83%B3+or+%E9%8F%A1%E9%9F%B3%E3%83%AC%E3%83%B3+or+%E5%B7%A1%E9%9F%B3%E3%83%AB%E3%82%AB+or+%E3%81%8C%E3%81%8F%E3%81%A3%E3%81%BD%E3%81%84%E3%81%A9+%E3%81%8A%E3%81%A3%E3%81%95%E3%82%93%E3%83%9B%E3%82%A4%E3%83%9B%E3%82%A4]]}
+-&i(){[[おばさんホイホイ>http://www.nicovideo.jp/tag/VOCALOID+or+MEIKO+or+KAITO+or+%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF+or+%E9%8F%A1%E9%9F%B3%E3%83%AA%E3%83%B3+or+%E9%8F%A1%E9%9F%B3%E3%83%AC%E3%83%B3+or+%E5%B7%A1%E9%9F%B3%E3%83%AB%E3%82%AB+or+%E3%81%8C%E3%81%8F%E3%81%A3%E3%81%BD%E3%81%84%E3%81%A9+%E3%81%8A%E3%81%B0%E3%81%95%E3%82%93%E3%83%9B%E3%82%A4%E3%83%9B%E3%82%A4]]}
+-&i(){[[じいさんホイホイ>http://www.nicovideo.jp/tag/VOCALOID+or+MEIKO+or+KAITO+or+%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF+or+%E9%8F%A1%E9%9F%B3%E3%83%AA%E3%83%B3+or+%E9%8F%A1%E9%9F%B3%E3%83%AC%E3%83%B3+or+%E5%B7%A1%E9%9F%B3%E3%83%AB%E3%82%AB+or+%E3%81%8C%E3%81%8F%E3%81%A3%E3%81%BD%E3%81%84%E3%81%A9+%E3%81%98%E3%81%84%E3%81%95%E3%82%93%E3%83%9B%E3%82%A4%E3%83%9B%E3%82%A4]]}
+-&i(){[[酒のうまくなる曲>http://www.nicovideo.jp/tag/VOCALOID+or+MEIKO+or+KAITO+or+%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF+or+%E9%8F%A1%E9%9F%B3%E3%83%AA%E3%83%B3+or+%E9%8F%A1%E9%9F%B3%E3%83%AC%E3%83%B3+or+%E5%B7%A1%E9%9F%B3%E3%83%AB%E3%82%AB+or+%E3%81%8C%E3%81%8F%E3%81%A3%E3%81%BD%E3%81%84%E3%81%A9+%E9%85%92%E3%81%AE%E3%81%86%E3%81%BE%E3%81%8F%E3%81%AA%E3%82%8B%E6%9B%B2]]} [[酒の味が判らなくなる良曲>http://www.nicovideo.jp/tag/%E9%85%92%E3%81%AE%E5%91%B3%E3%81%8C%E5%88%A4%E3%82%89%E3%81%AA%E3%81%8F%E3%81%AA%E3%82%8B%E8%89%AF%E6%9B%B2]]
+-[[スナック初音>http://www.nicovideo.jp/tag/%E3%82%B9%E3%83%8A%E3%83%83%E3%82%AF%E5%88%9D%E9%9F%B3]] [[BAR初音>http://www.nicovideo.jp/tag/BAR%E5%88%9D%E9%9F%B3]]
+-[[パブMEIKO>http://www.nicovideo.jp/tag/%E3%83%91%E3%83%96MEIKO]] [[スナックMEIKO>http://www.nicovideo.jp/tag/%E3%82%B9%E3%83%8A%E3%83%83%E3%82%AFMEIKO]]
+-[[クラブ鏡音>http://www.nicovideo.jp/tag/%E3%82%AF%E3%83%A9%E3%83%96%E9%8F%A1%E9%9F%B3]]
+-[[居酒屋KAITO>http://www.nicovideo.jp/tag/%E5%B1%85%E9%85%92%E5%B1%8BKAITO]]
+-[[BAR弱音>http://www.nicovideo.jp/tag/BAR%E5%BC%B1%E9%9F%B3]]
+-[[キャバレー巡音>http://www.nicovideo.jp/tag/%E3%82%AD%E3%83%A3%E3%83%90%E3%83%AC%E3%83%BC%E5%B7%A1%E9%9F%B3]] [[Luka's_Bar>http://www.nicovideo.jp/tag/Luka%27s_Bar]]
+-[[初音ミク迷曲リンク>http://www.nicovideo.jp/tag/%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF%E8%BF%B7%E6%9B%B2%E3%83%AA%E3%83%B3%E3%82%AF]]
+-[[鏡音リン迷曲リンク>http://www.nicovideo.jp/tag/%E9%8F%A1%E9%9F%B3%E3%83%AA%E3%83%B3%E8%BF%B7%E6%9B%B2%E3%83%AA%E3%83%B3%E3%82%AF]]
+-[[鏡音レン迷曲リンク>http://www.nicovideo.jp/tag/%E9%8F%A1%E9%9F%B3%E3%83%AC%E3%83%B3%E8%BF%B7%E6%9B%B2%E3%83%AA%E3%83%B3%E3%82%AF]]
+-[[KAITO迷曲リンク>http://www.nicovideo.jp/tag/KAITO%E8%BF%B7%E6%9B%B2%E3%83%AA%E3%83%B3%E3%82%AF]]
+-[[がくぽ迷曲リンク>http://www.nicovideo.jp/tag/%E3%81%8C%E3%81%8F%E3%81%BD%E8%BF%B7%E6%9B%B2%E3%83%AA%E3%83%B3%E3%82%AF]]
+-[[VOCALOID迷曲リンク>http://www.nicovideo.jp/tag/VOCALOID%E8%BF%B7%E6%9B%B2%E3%83%AA%E3%83%B3%E3%82%AF]]
+-[[あたまわるいうた>http://www.nicovideo.jp/tag/%E3%81%82%E3%81%9F%E3%81%BE%E3%82%8F%E3%82%8B%E3%81%84%E3%81%86%E3%81%9F]]
+-[[OMOSILOID>http://www.nicovideo.jp/tag/OMOSILOID]]
+-[[神調教の無駄遣い>http://www.nicovideo.jp/tag/%E7%A5%9E%E8%AA%BF%E6%95%99%E3%81%AE%E7%84%A1%E9%A7%84%E9%81%A3%E3%81%84]]
+-[[ピコピコ動画（SP1）>http://www.nicovideo.jp/tag/%E3%83%94%E3%82%B3%E3%83%94%E3%82%B3%E5%8B%95%E7%94%BB%EF%BC%88SP1%EF%BC%89]]、[[ピコピコ動画（夏）>http://www.nicovideo.jp/tag/%E3%83%94%E3%82%B3%E3%83%94%E3%82%B3%E5%8B%95%E7%94%BB%EF%BC%88%E5%A4%8F%EF%BC%89]]
+
+**内容系 
+-[[ピアノミク>http://www.nicovideo.jp/tag/%E3%83%94%E3%82%A2%E3%83%8E%E3%83%9F%E3%82%AF]]
+-[[初音ミクの弾き語り>http://www.nicovideo.jp/tag/%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF%E3%81%AE%E5%BC%BE%E3%81%8D%E8%AA%9E%E3%82%8A]]
+-[[VOCALOIDアカペラ曲>http://www.nicovideo.jp/tag/VOCALOID%E3%82%A2%E3%82%AB%E3%83%9A%E3%83%A9%E6%9B%B2]]
+-[[初音ぬこ>http://www.nicovideo.jp/tag/%E5%88%9D%E9%9F%B3%E3%81%AC%E3%81%93]]
+-[[夜のうた>http://www.nicovideo.jp/tag/%E5%A4%9C%E3%81%AE%E3%81%86%E3%81%9F]]
+-[[星のうた>http://www.nicovideo.jp/tag/%E6%98%9F%E3%81%AE%E3%81%86%E3%81%9F]]
+-[[夜ミク>http://www.nicovideo.jp/tag/%E5%A4%9C%E3%83%9F%E3%82%AF]]
+-[[VOCALOID忍者村>http://www.nicovideo.jp/tag/VOCALOID%E5%BF%8D%E8%80%85%E6%9D%91]]
+-[[VOCALOID鉄道シリーズ>http://www.nicovideo.jp/tag/VOCALOID%E9%89%84%E9%81%93%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA]] [[初音ミク鉄道シリーズ>http://www.nicovideo.jp/tag/%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF%E9%89%84%E9%81%93%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA]]
+-[[VOCALOIDマリッジソング>http://www.nicovideo.jp/tag/VOCALOID%E3%83%9E%E3%83%AA%E3%83%83%E3%82%B8%E3%82%BD%E3%83%B3%E3%82%B0]]
+-[[ポップ・レクイエム>http://www.nicovideo.jp/tag/%E3%83%9D%E3%83%83%E3%83%97%E3%83%BB%E3%83%AC%E3%82%AF%E3%82%A4%E3%82%A8%E3%83%A0]]
+-[[おれらのうた>http://www.nicovideo.jp/tag/%E3%81%8A%E3%82%8C%E3%82%89%E3%81%AE%E3%81%86%E3%81%9F]]
+-[[応援曲リンク>http://www.nicovideo.jp/tag/%E5%BF%9C%E6%8F%B4%E6%9B%B2%E3%83%AA%E3%83%B3%E3%82%AF]]
+-[[物語音楽>http://www.nicovideo.jp/tag/%E7%89%A9%E8%AA%9E%E9%9F%B3%E6%A5%BD]]
+-[[アカデミク>http://www.nicovideo.jp/tag/%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%82%AF]]
+-[[社会派ミク>http://www.nicovideo.jp/tag/%E7%A4%BE%E4%BC%9A%E6%B4%BE%E3%83%9F%E3%82%AF]]
+-[[ボーカロイド印度化計画>http://www.nicovideo.jp/tag/%E3%83%9C%E3%83%BC%E3%82%AB%E3%83%AD%E3%82%A4%E3%83%89%E5%8D%B0%E5%BA%A6%E5%8C%96%E8%A8%88%E7%94%BB]]
+-[[不思議の国のボーカロイド>http://www.nicovideo.jp/tag/%E4%B8%8D%E6%80%9D%E8%AD%B0%E3%81%AE%E5%9B%BD%E3%81%AE%E3%83%9C%E3%83%BC%E3%82%AB%E3%83%AD%E3%82%A4%E3%83%89]]
+-[[文語に萌え>http://www.nicovideo.jp/tag/%E6%96%87%E8%AA%9E%E3%81%AB%E8%90%8C%E3%81%88]]
+-[[VOCALOID幼児化計画>http://www.nicovideo.jp/tag/VOCALOID%E5%B9%BC%E5%85%90%E5%8C%96%E8%A8%88%E7%94%BB]]
+-[[VOCALOID食堂入り>http://www.nicovideo.jp/tag/VOCALOID%E9%A3%9F%E5%A0%82%E5%85%A5%E3%82%8A]]
+-[[ミクッキング>http://www.nicovideo.jp/tag/%E3%83%9F%E3%82%AF%E3%83%83%E3%82%AD%E3%83%B3%E3%82%B0]]
+-[[メタボロイド>http://www.nicovideo.jp/tag/%E3%83%A1%E3%82%BF%E3%83%9C%E3%83%AD%E3%82%A4%E3%83%89]]
+-[[VOCALOID仏堂入り>http://www.nicovideo.jp/tag/VOCALOID%E4%BB%8F%E5%A0%82%E5%85%A5%E3%82%8A]]
+-[[VOCALOID神宮入り>http://www.nicovideo.jp/tag/VOCALOID%E7%A5%9E%E5%AE%AE%E5%85%A5%E3%82%8A]]
+-[[VOCALOID球場入り>http://www.nicovideo.jp/tag/VOCALOID%E7%90%83%E5%A0%B4%E5%85%A5%E3%82%8A]]
+-[[初音の応援歌>http://www.nicovideo.jp/tag/%E5%88%9D%E9%9F%B3%E3%81%AE%E5%BF%9C%E6%8F%B4%E6%AD%8C]]
+-[[VOCALOID病棟入り>http://www.nicovideo.jp/tag/VOCALOID%E7%97%85%E6%A3%9F%E5%85%A5%E3%82%8A]]
+-[[VOCALOID病院入り>http://www.nicovideo.jp/tag/VOCALOID%E7%97%85%E9%99%A2%E5%85%A5%E3%82%8A]]
+-[[VOCALOID迷宮入り>http://www.nicovideo.jp/tag/VOCALOID%E8%BF%B7%E5%AE%AE%E5%85%A5%E3%82%8A]]
+-[[VOCALOID雪隠入り>http://www.nicovideo.jp/tag/VOCALOID%E9%9B%AA%E9%9A%A0%E5%85%A5%E3%82%8A]]
+-[[VOCALOID水槽入り>>https://www.nicovideo.jp/tag/VOCALOID%E6%B0%B4%E6%A7%BD%E5%85%A5%E3%82%8A]]
+-[[VOCALOID培養液入り>http://www.nicovideo.jp/tag/VOCALOID%E5%9F%B9%E9%A4%8A%E6%B6%B2%E5%85%A5%E3%82%8A]]
+-[[VOCALOID銭湯入り>http://www.nicovideo.jp/tag/VOCALOID%E9%8A%AD%E6%B9%AF%E5%85%A5%E3%82%8A]] [[オフロイド>http://www.nicovideo.jp/tag/%E3%82%AA%E3%83%95%E3%83%AD%E3%82%A4%E3%83%89]]
+-[[VOCALOID炭酸入り>https://www.nicovideo.jp/tag/VOCALOID%E7%82%AD%E9%85%B8%E5%85%A5%E3%82%8A]]
+-[[VOCALOID樹海入り>http://www.nicovideo.jp/tag/VOCALOID%E6%A8%B9%E6%B5%B7%E5%85%A5%E3%82%8A]]
+-[[VOCALOID宮殿入り>http://www.nicovideo.jp/tag/VOCALOID%E5%AE%AE%E6%AE%BF%E5%85%A5%E3%82%8A]]
+-[[VOCALOID戦場入り>http://www.nicovideo.jp/tag/VOCALOID%E6%88%A6%E5%A0%B4%E5%85%A5%E3%82%8A]]
+-[[VOCALOID箱入り>http://www.nicovideo.jp/tag/VOCALOID%E7%AE%B1%E5%85%A5%E3%82%8A]]
+-[[VOCALOIDおふとん入り>http://www.nicovideo.jp/tag/VOCALOID%E3%81%8A%E3%81%B5%E3%81%A8%E3%82%93%E5%85%A5%E3%82%8A]]
+-[[VOCALOID都市伝説入り>http://www.nicovideo.jp/tag/VOCALOID%E9%83%BD%E5%B8%82%E4%BC%9D%E8%AA%AC%E5%85%A5%E3%82%8A]]
+-[[VOCALOIDお蔵入り>http://www.nicovideo.jp/tag/VOCALOID%E3%81%8A%E8%94%B5%E5%85%A5%E3%82%8A]]
+-[[VOCALOID嫁入り>http://www.nicovideo.jp/tag/VOCALOID%E5%AB%81%E5%85%A5%E3%82%8A]]
+-[[VOCALOID雨上がり>http://www.nicovideo.jp/tag/VOCALOID%E9%9B%A8%E4%B8%8A%E3%81%8C%E3%82%8A]]
+-[[VOCALOID桜曲>http://www.nicovideo.jp/tag/VOCALOID%E6%A1%9C%E6%9B%B2]]
+-[[VOCALOID梅雨入り>http://www.nicovideo.jp/tag/VOCALOID%E6%A2%85%E9%9B%A8%E5%85%A5%E3%82%8A]]
+-[[VOCALOID夏曲>http://www.nicovideo.jp/tag/VOCALOID%E5%A4%8F%E6%9B%B2]]
+-[[VOCALOID秋曲>http://www.nicovideo.jp/tag/VOCALOID%E7%A7%8B%E6%9B%B2]]
+-[[VOCALOID冬曲>http://www.nicovideo.jp/tag/VOCALOID%E5%86%AC%E6%9B%B2]]
+-[[VOCALOIDハロウィン曲>http://www.nicovideo.jp/tag/VOCALOID%E3%83%8F%E3%83%AD%E3%82%A6%E3%82%A3%E3%83%B3%E6%9B%B2]]
+-[[VOCALOIDクリスマス曲>http://www.nicovideo.jp/tag/VOCALOID%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E6%9B%B2]] [[ミクのクリスマス曲>http://www.nicovideo.jp/tag/%E3%83%9F%E3%82%AF%E3%81%AE%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E6%9B%B2]]
+-[[VOCALOIDお正月曲>http://www.nicovideo.jp/tag/VOCALOID%E3%81%8A%E6%AD%A3%E6%9C%88%E6%9B%B2]]
+-[[バレンタインソング>http://www.nicovideo.jp/tag/%E3%83%90%E3%83%AC%E3%83%B3%E3%82%BF%E3%82%A4%E3%83%B3%E3%82%BD%E3%83%B3%E3%82%B0]]
+-[[VOCALOID卒業曲集>http://www.nicovideo.jp/tag/VOCALOID%E5%8D%92%E6%A5%AD%E6%9B%B2%E9%9B%86]]
+-[[ボーカロイド歳時記>http://www.nicovideo.jp/tag/%E3%83%9C%E3%83%BC%E3%82%AB%E3%83%AD%E3%82%A4%E3%83%89%E6%AD%B3%E6%99%82%E8%A8%98]]
+-[[VOCALOIDネタ曲リンク>>https://www.nicovideo.jp/tag/VOCALOID%E3%83%8D%E3%82%BF%E6%9B%B2%E3%83%AA%E3%83%B3%E3%82%AF]]
+([[曲一覧]]へ)９

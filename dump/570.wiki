@@ -1,0 +1,98 @@
+#right(){&furigana(ひくつP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/4644704" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/4644704">【ニコニコ動画】VOCALOIDオリジナル</a></iframe>)
+
+**特徴
+作り手名：『&u(){卑屈P}』（&u(){ひくつP}）
+-代表曲は『[[左右 -みぎひだり-]]』、『[[なんだかとっても！いいかんじ>なんだかいいかんじ]]』、『[[アナロ熊のうた]]』、『[[もっと　伸びろ　ぼくの　動画]]』など。
+-P名と代表曲からネタ曲中心の印象が強いが、幅広いジャンルの曲を発表している。むしろネタではない曲の方が実は多い。
+-P名の由来は2作目で出世作にあたる『[[伸びろ　ぼくの　動画>もっと　伸びろ　ぼくの　動画]]』の歌詞から。
+-3作目『もっと　伸びろ　ぼくの　動画』が殿堂入りを果たした際、本人もリアルタイムに立会うなど、頻繁に自身の動画に出没する。
+-ボーカルの個性を活かした調声（調教）に定評がある。
+//-どこか哀愁を帯びた曲が多い（ネタの曲も含めて）。
+-クレジットは、&bold(){koushirou}。たまに平仮名で&bold(){こうしろう}になることもある。
+//未記事化　「僕たちは、「おかえり」を言える蝶になる。」「23時に溶けていく」「一度きりじゃないクリスマス」
+
+**リンク
+-[[作者サイト>>http://jirai8.web.fc2.com/index.html]]
+//-[[作者ブログ（音戯噺200X）>>http://jirai8.blog101.fc2.com/]]
+-[[PIAPRO>>https://piapro.jp/koushirou]]
+-[[Twitter>>https://twitter.com/kou46]]
+-[[YouTube>>https://www.youtube.com/user/antesansan]]
+
+**曲
+#list_by_tag(卑屈P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+***ソロアルバム
+#list_by_tag(卑屈PCDソロ,100,sort=furigana,errmsg=ソロアルバムはまだ登録されていません)
+***コンピレーションアルバム
+#list_by_tagsearch(卑屈PCD,CDコンピレーション,sort=furigana2,errmsg=コンピレーションアルバムはまだ登録されていません。,and,100)
+*** その他のCD
+#list_by_tagsearch(卑屈PCD他,sort=furigana2,errmsg=その他のCDはまだ登録されていません。,and,100)
+
+**動画
+|&nicovideo(sm2112617)|&nicovideo(sm2500972)|
+|&nicovideo(sm2678341)|&nicovideo(sm2950823)|
+|&nicovideo(sm3125185)|&nicovideo(sm3412901)|
+|&nicovideo(sm3604366)|&nicovideo(sm3904242)|
+|&nicovideo(sm4080453)|&nicovideo(sm4251883)|
+|&nicovideo(sm4457801)|&nicovideo(sm5068028)|
+|&nicovideo(sm5373974)|&nicovideo(sm5673046)|
+|&nicovideo(sm5990463)|&nicovideo(sm6608011)|
+|&nicovideo(sm6885074)|&nicovideo(sm7358741)|
+|&nicovideo(sm7763437)|&nicovideo(sm8572875)|
+|&nicovideo(sm8659199)|&nicovideo(sm9024174)|
+|&nicovideo(sm9150755)|&nicovideo(sm9537950)|
+|&nicovideo(sm9960427)|&nicovideo(sm10751738)|
+|&nicovideo(sm11234505)|&nicovideo(sm12323215)|
+|&nicovideo(sm12492486)|&nicovideo(sm12893030)|
+|&nicovideo(sm13095029)|&nicovideo(sm13686227)|
+|&nicovideo(sm14113859)|&nicovideo(sm14686537)|
+|&nicovideo(sm15288750)|&nicovideo(sm15492569)|
+|&nicovideo(sm16499636)|&nicovideo(sm16547960)|
+|&nicovideo(sm16832005)|&nicovideo(sm17627192)|
+|&nicovideo(sm17643619)|&nicovideo(sm17923430)|
+|&nicovideo(sm18199633)|&nicovideo(sm18761450)|
+|&nicovideo(sm19389672)|&nicovideo(sm19634114)|
+|&nicovideo(sm19688458)|&nicovideo(sm19703970)|
+|&nicovideo(sm19931922)|&nicovideo(sm21544416)|
+|&nicovideo(sm22556610)|&nicovideo(sm23400453)|
+|&nicovideo(sm23508748)|&nicovideo(sm24190186)|
+|&nicovideo(sm24237830)|&nicovideo(sm27491704)|
+|&nicovideo(sm27889292)|&nicovideo(sm29355519)|
+|&nicovideo(sm29559273)|&nicovideo(sm29613208)|
+|&nicovideo(sm29696973)|&nicovideo(sm29938632)|
+|&nicovideo(sm30142466)|&nicovideo(sm30535843)|
+|&nicovideo(sm30726749)|&nicovideo(sm30931915)|
+|&nicovideo(sm31123992)|&nicovideo(sm31287994)|
+|&nicovideo(sm31483306)|&nicovideo(sm31648713)|
+|&nicovideo(sm31838470)|&nicovideo(sm32020554)|
+|&nicovideo(sm33656893)|&nicovideo(sm34552400)|
+|&nicovideo(sm35042526)|&nicovideo(sm35501289)|
+|&nicovideo(sm37032443)|&nicovideo(sm41132454)|
+|&nicovideo(sm41193460)|&nicovideo(sm41308225)|
+
+**コメント
+- 曲も増えてきたので修正しました。至らないところがあると思いますが…  -- 八尋  (2008-08-14 02:42:05)
+- 俺が掃除に行こう  -- 名無しさん  (2009-03-21 00:53:13)
+- 卑屈Ｐのレン曲好きすぐる  -- 香絵瑠  (2009-09-28 21:06:20)
+- この人はもっともっとガチ曲も評価されていい。ストレートに心にクるよ！  -- 名無しさん  (2009-12-18 08:32:12)
+- やっぱりネタ曲の印象がつよいけどガチ曲もかなりレベル高いよね。 &br()ハローワールドは全ルカ曲の中で一番好き。  -- cody  (2010-04-02 23:57:31)
+- 卑屈Pの轍からボカロの世界に入りました。  -- 名無しさん  (2011-06-12 14:05:15)
+- レベル高いですー  -- Franc  (2011-06-14 01:26:41)
+- パーフェクト  -- 名無しさん  (2011-06-21 06:57:27)
+- 左右‐みぎひだり‐　凄くいいです‼  -- 愛  (2011-10-13 19:21:52)
+- 卑屈さんかまってやりたくなるｗｗほっとけないなあ・・・  -- 名無しさん  (2012-04-22 22:38:47)
+- P　名　言　わ　れ　て　な　い　何かすごく好きｗｗｗ  -- 名無しさん  (2012-06-15 23:36:39)
+- ↑２ 君は変態なのか  もっと伸びろはいい曲ですねぇ。  -- 名無しさん  (2013-06-16 10:36:09)
+- 般若の面が好き〜　この曲はもっと世界に知られるべき  -- 名無しさん  (2013-10-20 15:41:36)
+- 卑屈ｐもっともっと人気でろーーーーーー大好き！！！！  -- 名無しさん  (2014-10-11 23:37:35)
+- 魍魎怪奇譚が凄く好きです  -- 名無しさん  (2015-07-04 16:26:23)
+- ここ一年以上書込みなかったのか…もっと伸びろ卑屈P  -- 名無しさん  (2016-10-30 21:42:03)
+- 再生数気にしてない感じ好き  -- 名無しさん  (2023-01-14 18:00:10)
+- もっと　伸びろ  -- 名無しさん  (2023-06-13 16:27:33)
+#comment()

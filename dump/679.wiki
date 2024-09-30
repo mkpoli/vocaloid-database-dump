@@ -1,0 +1,24 @@
+#include(作り手一覧/header)
+|&link_aname(KA){か}|&link_aname(KI){き}|&link_aname(KU){く}|&link_aname(KE){け}|&link_aname(KO){こ}|
+
+#include(作り手一覧/か)
+
+#include(作り手一覧/き)
+
+[[く>>http://www5.atwiki.jp/hmiku/tag/作く]] &small(){&aname(KU,option=nolink){(}&link_aname(HD){↑})}
+#list_by_tagsearch(作く,sort=furigana2,errmsg=「く」で始まる作り手はまだ登録されていません。,and,100)
+[[け>>http://www5.atwiki.jp/hmiku/tag/作け]] &small(){&aname(KE,option=nolink){(}&link_aname(HD){↑})}
+#list_by_tagsearch(作け,sort=furigana2,errmsg=「け」で始まる作り手はまだ登録されていません。,and,100)
+
+#include(作り手一覧/こ)
+
+|&link_aname(KA){か}|&link_aname(KI){き}|&link_aname(KU){く}|&link_aname(KE){け}|&link_aname(KO){こ}|
+|[[あ>作り手一覧/あ行]]|か|[[さ>作り手一覧/さ行]]|[[た>作り手一覧/た行]]|[[な>作り手一覧/な行]]|[[は>作り手一覧/は行]]|[[ま>作り手一覧/ま行]]|[[や>作り手一覧/や行]]|[[ら>作り手一覧/ら行]]|[[わ>作り手一覧/わ行]]|[[A～Z>作り手一覧/A～Z]]|[[その他>作り手一覧/その他]]|
+
+※複数の呼び名がある作り手は、最も一般的であろう名前で登録されています。
+　 目的のページが見つからない場合は、ここから検索してみてください。
+#search2(or,ignore=own)
+&small(){(&link_aname(HD){上に戻る↑})}
+//**コメント
+//- たくさんあるね！わら  -- 名無しさん  (2016-09-20 21:36:55)
+//#comment

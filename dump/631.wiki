@@ -1,0 +1,37 @@
+#right(){&furigana(なかくつP) &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/5091559" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/5091559">【ニコニコ動画】長靴</a></iframe>)
+
+**特徴
+作り手名：『&u(){長靴P}』(&u(){ながぐつP})
+-動画内に描かれたミクの履いている靴がどう見てもゴム長靴にしか見えないというツッコミにより長靴Pと名づけられた。
+-正統派ロックンロールのサウンドにユーモア、ギャグ、風刺を織り込ませている個性派。
+-ユルいギターにユルい歌詞、ユルい手描きの絵が笑いを誘う。ついでにミクの履いている靴もなんだかユルそうに見える。
+-公式設定の初音ミクは16歳と年頃の女の子。しかし長靴Pのミクは晩酌や二度寝が大好きなサラリーマンという名のオッサンである。&br()もしかしたら、もはや死語になってしまった「オヤジギャル」なのかもしれない。（もちろんいい意味でね）
+
+**リンク
+-[[長靴の中身>>http://longbootsp.seesaa.net/]]（作者ブログ）
+
+**曲
+#list_by_tag(長靴P,100,sort=furigana)
+
+**CD
+#list_by_tag(長靴PCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm1959279){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm2037013){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2284523){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm2675617){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3152746){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm3726273){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3953897){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm4680425){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5377567){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm5729304){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9283848)||
+
+**コメント
+- 曲を聴いているうちになんかどーでもよくなってくる  -- 名無しさん  (2008-03-30 23:00:11)
+- 全国のリーマンに聴いてほしい。　歌と絵で一度で二度おいしい。  -- 名無し  (2008-04-02 20:29:59)
+- 細かいことで悩まなくなる歌ｗ  -- 名無しさん  (2008-04-23 23:04:10)
+- 一人称が「おいら」、行動がおっさんのミクが登場する珍しい動画です  -- 名無しさん  (2008-04-29 16:31:52)
+- いやあ、最高ｗｗ  -- 名無しさん  (2008-05-04 08:49:21)
+- ギターがかっこよすぎる  -- 名無しさん  (2008-05-29 22:47:04)
+- ここまで辿り着いた、ボーカロイ道。  -- 名無しさん  (2009-05-03 21:39:34)
+- 一年ぶりの新作に嬉しすぎて感無量。  -- 名無しさん  (2010-01-09 23:51:17)
+#comment()

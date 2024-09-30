@@ -1,0 +1,113 @@
+#right(){&furigana(daniwell)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/4009728" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/4009728">【ニコニコ動画】まいりすと です。</a></iframe>)
+
+**特徴
+作り手名：『&u(){daniwell}』
+-使用するボーカロイドは初音ミク、MAYU、鏡音リン・レン、巡音ルカ、IA。
+--UTAUの桃音モモを使用する事も多い。UTAUを使用した曲については下記リンクのUTAU楽曲データベースを参照。
+-投稿されている動画は全て神クオリティ。flashをベースとした映像のセンスは非常に高い。
+-代表作は中毒性が高い「[[てむてららる ちょむちょめぷ]]」。
+-12月以外の動画投稿が全く無かったdaniwellPだが、「[[ねこみみスイッチ]]」で遂にその法則は破られた。
+--が、12月以外の投稿でもファンの間では「何月だろうとdaniwellPが投稿すれば12月が来る」ということになっている。
+-「[[初音ミクが円周率10,000桁覚えたようです。]]」はVOCALOIDオリジナル曲・殿堂入り曲ともに再生時間が最長の記録を持つ。
+-殿堂入りしている作品は、「&list_by_tagsearch(daniwell,殿堂入り,sort=furigana,option=nolist,nolistspace=」「,100)」の他にREMIXである、「[[RE:Nyanyanyanyanyanyanya!(NEKOMATAGI　REMIX)>>https://www.nicovideo.jp/watch/sm12478341]]」「[[Electrical Parade - Remix ->>https://www.nicovideo.jp/watch/sm13175991]]」や「[[To i hola>>https://www.nicovideo.jp/watch/sm22449121]]」がある。
+-2011年6月21日、「[[Nyanyanyanyanyanyanya!]]」が自身初の[[ミリオン>曲一覧/ミリオン曲一覧]]達成曲となる。
+-2012年2月1日、アルバム『[[Nyan Cat]]』でメジャーデビューした。
+
+**ミリオン達成状況
+|CENTER:&bold(){曲名}|CENTER:&bold(){100万再生}|CENTER:&bold(){200万再生}|CENTER:&bold(){300万再生}|CENTER:&bold(){備考}|
+|[[Nyanyanyanyanyanyanya!]]|2011年6月21日|2014年1月30日|2019年1月25日||
+
+**リンク
+-[[作者サイト>>https://aidn.jp/]]
+-[[PIAPRO>>https://piapro.jp/daniwell]]
+-[[KarenT>>https://karent.jp/artist/pp000298]]
+-[[Twitter>>https://twitter.com/daniwell_aidn]]
+-[[YouTube>>https://www.youtube.com/user/daniwellaidn]]
+-[[UTAU楽曲データベース「daniwell」ページ（外部Wiki）>>https://www24.atwiki.jp/utauuuta/pages/1815.html]]
+
+**曲
+#list_by_tag(daniwell,100,sort=furigana)
+
+**CD
+#list_by_tag(daniwellCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+&b(){オリジナル曲}
+|&nicovideo(sm1796373)|&nicovideo(sm1908635)|
+|&nicovideo(sm5408980)|&nicovideo(sm5508506)|
+|&nicovideo(sm5508895)|&nicovideo(nm5518096)|
+|&nicovideo(sm5608513)|&nicovideo(sm5660103)|
+|&nicovideo(sm8233245)|&nicovideo(sm9168029)|
+|&nicovideo(sm9174236)|&nicovideo(sm11402996)|
+|&nicovideo(sm11418604)|&nicovideo(sm11509720)|
+|&nicovideo(sm13164008)|&nicovideo(sm13173175)|
+|&nicovideo(sm14034860)|&nicovideo(sm14665617)|
+|&nicovideo(sm14699723)|&nicovideo(sm14712885)|
+|&nicovideo(sm15379207)|&nicovideo(sm16729081)|
+|&nicovideo(sm16782302)|&nicovideo(sm16814231)|
+|&nicovideo(sm16842855)|&nicovideo(sm17592564)|
+|&nicovideo(sm17920259)|&nicovideo(sm19635653)|
+|&nicovideo(sm21053158)|&nicovideo(sm21383851)|
+|&nicovideo(sm21424851)|&nicovideo(sm22538447)|
+|&nicovideo(sm24434826)|&nicovideo(sm27127932)|
+|&nicovideo(sm27526561)|&nicovideo(sm27708145)|
+|&nicovideo(sm27840570)|&nicovideo(sm27906401)|
+|&nicovideo(sm29050340)|&nicovideo(sm29062374)|
+|&nicovideo(sm32246921)|&nicovideo(sm32349449)|
+|&nicovideo(sm32425452)|&nicovideo(sm32430035)|
+|&nicovideo(sm32436620)|&nicovideo(sm32485174)|
+|&nicovideo(sm32682801)|&nicovideo(sm34261192)|
+|&nicovideo(sm34289281)|&nicovideo(sm34379410)|
+|&nicovideo(sm36148282)|&nicovideo(sm36754965)|
+|&nicovideo(sm38033391)|&nicovideo(sm40631871)|
+|&nicovideo(sm41005771)|&nicovideo(sm41502119)|
+|&nicovideo(sm41518900)|&nicovideo(sm43092799)|
+|&nicovideo(sm43125522)|&nicovideo(sm43154020)|
+//|&nicovideo()|&nicovideo()|
+
+&b(){ボカロカバー曲・アレンジ曲}
+|&nicovideo(sm9001262)|&nicovideo(sm12478341)|
+|&nicovideo(sm13175991)|&nicovideo(sm15428733)|
+|&nicovideo(sm17980427)|&nicovideo(sm22449121)|
+|&nicovideo(sm22532105)|&nicovideo(sm22547226)|
+|&nicovideo(sm25225412)|>|
+
+**コメント
+- 「おみくじ」はギミック付きで実際におみくじが引ける  -- 名無しさん  (2008-12-26 12:41:39)
+- 一年の休みの後突如現れたdaniwellP。大好きです。  -- 名無しさん  (2009-01-28 22:19:17)
+- daniwellさん戻ってきてくれて本当に嬉しい。  -- 名無しさん  (2009-02-01 21:59:34)
+- CD買ってファンになりたて　なんか好きだな・・  -- 名無しさん  (2010-07-19 21:35:27)
+- 今年から猫娘として生きていくらしいね  -- 名無しさん  (2011-01-06 11:11:54)
+- 猫娘ｗｗｗ確かに新曲が……。エレクトリカルパレードのリミックスも素敵すぎる!!!  -- 名無しさん  (2011-01-23 21:15:25)
+- おみくじの記事も作るべき！  -- 名無しさん  (2011-03-29 23:34:19)
+- あれ?ポンパラピンポンの記事ないの?何故。?  -- 名無しさん  (2011-05-04 13:58:26)
+- ↑間違えました　歌詞です歌詞。  -- 名無しさん  (2011-05-04 14:04:34)
+- なんかいろいろと記事きえてるきがする。エレクトリカルパレードRimixの記事あった筈…  -- 名無しさん  (2011-05-18 21:08:29)
+- nyan catの件は？  -- 名無しさん  (2011-05-21 18:14:51)
+- ミリオン達成おめでとうございます  -- 名無しさん  (2011-06-21 15:06:16)
+- CDの歌詞ｗｗｗ本当にNyanyanyanya（（ryだけｗｗｗ  -- 名無しさん  (2011-07-09 17:46:48)
+- 最近daniwellPがネコであることが判明しましたｗｗｗ  -- 名無しさん  (2011-09-03 11:37:55)
+- おおお！おみくじもdaniwellPさんのだったのか！あれ毎年試してるｗ  -- 名無しさん  (2011-09-22 23:43:32)
+- nyanyanyaと円周率が同じ人だとは知らんかった  -- 名無しさん  (2011-10-18 05:50:43)
+- daniwell再始動まであと1週間wktk  -- 名無しさん  (2011-11-25 00:52:37)
+- 今年は何曲作ってくれるか楽しみです！  -- 名無しさん  (2011-12-01 02:19:35)
+- 今年はメジャーアルバムの発表がありました  -- 名無しさん  (2011-12-18 07:15:46)
+- 神クオリティっていう表現は臭いからやめろ  -- 名無しさん  (2012-01-09 21:00:34)
+- 俺の好みに合いすぎてやばい　音が気持ちいいです  -- 名無しさん  (2012-01-22 11:32:43)
+- メジャーCD買いました！ｄａｎｉｗｅｌｌPさんの作品は聴いていて、ウキウキします。猫が沢山出てくるのも、猫派の私にはたまりません。  -- 竜奇  (2012-02-19 19:15:01)
+- ムニエル好き！あとMAYUのLove Logicもハマっちゃいました！！daniwellPさんホントすごい！！！！  -- ringo  (2012-12-28 23:28:51)
+- 機械音的な独特の歌声が衝撃だったなこの人は独自の道を行ってほしいよ  -- 名無しさん  (2013-07-14 10:12:32)
+- この人のミクは可愛くて好きだ。ネコミミスイッチでやられた！  -- ミク廃  (2014-10-08 13:01:58)
+- どれもこれもあの中毒ソングはこの人が作ってたのか！w  -- 名無しさん  (2015-08-03 22:58:18)
+- コメント検閲・・・？マイナスのコメントが並んでないのはそういうことなのね  -- 名無しさん  (2015-09-25 20:09:16)
+- ↑ニコニコ動画の  -- 名無しさん  (2015-09-25 20:10:17)
+- またアルバムを出してほしいです！  -- 名無しさん  (2016-12-19 08:47:00)
+- 歌詞が謎な曲でもリズムと語感で楽しめるところが好き  -- 名無しさん  (2022-01-06 01:21:50)
+- daniwellさんの読みはダニウェルでいいですか？  -- 名無し  (2022-10-06 18:53:16)
+- ポンパラピンポンの記事も求む！  -- 名無しさん  (2022-10-23 11:34:39)
+#comment()

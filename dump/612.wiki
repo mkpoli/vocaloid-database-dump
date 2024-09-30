@@ -1,0 +1,52 @@
+#right(){&furigana(つるつるP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(4118557)
+
+**特徴
+-投稿着メロサイト「J研」での名義は&b(){turuturu}。
+-着メロ職人として以前から人気があったPがボカロ界に参戦。着メロがミク版の原曲になっていることもある。
+-『歌ってみた』が盛況している。つるつるP自身もいくつか歌っているが、ボカロ要らずの巧さ。
+-代表曲の一つ「[[幸せの種]]」は「うぇぶたま×ピアプロ 春のベストプロデューサーコンテスト」で最優秀賞を受賞。
+
+**リンク
+-[[音楽サークル「めろんそーだ」ブログ>>http://sodamelon.blog21.fc2.com/]]
+-[[投稿着メロサイト「J研」　turuturuさんのページ>>http://j-ken.com/s.php?creator=25676]]
+-[[PIAPRO>>http://piapro.jp/turuturu]]
+
+**曲
+#list_by_tag(つるつるP,100,sort=furigana)
+
+**CD
+#list_by_tag(つるつるPCD,100,sort=furigana)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm1852795){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm2652907){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2058842){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm2590091){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2769668){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm1784929){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2139371){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm3132077){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3225512){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm3893718){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4028567){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm4223905){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4816362)|&nicovideo(http://www.nicovideo.jp/watch/sm5445992)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5587406)|&nicovideo(http://www.nicovideo.jp/watch/sm5604147)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5652069)|&nicovideo(http://www.nicovideo.jp/watch/sm6162690)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6783352)|&nicovideo(http://www.nicovideo.jp/watch/sm7448499)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7570740)|&nicovideo(http://www.nicovideo.jp/watch/sm7987277)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm8124876)|&nicovideo(http://www.nicovideo.jp/watch/sm8133902)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm8198357)|&nicovideo(http://www.nicovideo.jp/watch/sm8906830)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm10255935)|&nicovideo(http://www.nicovideo.jp/watch/sm10308137)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm10404269)|&nicovideo(http://www.nicovideo.jp/watch/sm10637063)|
+
+**コメント
+- 懐かしいなBOLDさん。幸せの種は着メロの方が好きだけどなー  -- 名無しさん  (2009-01-09 23:45:40)
+- INSIDE ACTIVITYをミクに歌わせたの聞きたいです  -- 名無しさん  (2009-02-04 00:30:56)
+- わかります、そんなに昔じゃないのにどこか音楽が懐かしいそんな楽曲を提供するつるつるPもといBOLDさんにKOです個人的には着メロ時代の楽曲をアレンジしてmiku様にするのもいいけど着メロ時代にやってた聖剣アレンジ見たいな物も聞いてみたいが。  -- 名無しさん  (2009-10-02 05:05:30)
+- つるつるPというP名の由来が知りたいです。  -- 名無しさん  (2009-11-25 21:07:27)
+- j  -- 名無しさん  (2010-09-28 03:51:35)
+- J研でのクリエイターネームturuturuから取ったのかな  -- 名無しさん  (2010-09-28 03:53:13)
+- INSIDE ACTIVITY聴きたいね  -- 名無しさん  (2010-12-05 18:30:10)
+- 同じ曲があると思ったら……本当にturuturuさんだったのか、びっくりだ  -- ポン酢  (2011-01-30 18:43:27)
+- 「つるつる」は実○関係で　「P」は何にでも最後にPつけるのがクセなんだとさ　  -- 名無しさん  (2011-08-17 05:14:02)
+#comment()

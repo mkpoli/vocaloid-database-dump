@@ -1,0 +1,42 @@
+#right(){&furigana(きょうたいP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/3893119" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/3893119">【ニコニコ動画】とある初音ミクの成長記録とか</a></iframe>)
+
+**特徴
+作り手名：『&u(){兄弟P}』（&u(){きょうだいP}）
+-しっとりとした心に染み入るようなメロディと、本当に人間が歌っているかのような情感こもったミクの調声に定評があるP。
+-アコースティックギターが奏でる優しく心地よい音色も必聴のこと。
+-視聴者のことを&bold(){兄弟}と呼ぶ。時に意見を聞いて一緒に作品を作り上げていくことも。
+-アーティスト名はulysses（ゆりしず）。猫の名前はミルフィーユ。
+-タナカ（歌い手）としても期待され、ファン層を広げつつある。
+-2曲目となる「[[風切羽]]」が、投稿から9年以上を経て初の殿堂入りを果たした。
+
+**リンク
+//-[[作者ホームページ>>http://ulys.sakura.ne.jp/]]
+-[[作者ブログ>>http://ulys.seesaa.net/]]
+-[[PIAPRO>>https://piapro.jp/ulysses]]
+
+**曲
+#list_by_tag(兄弟P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(兄弟PCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+-&b(){オリジナル曲}
+|&nicovideo(sm1732883)|&nicovideo(sm2286844)|
+|&nicovideo(sm3006901)|&nicovideo(sm3493942)|
+|&nicovideo(sm4469306)|&nicovideo(sm6505084)|
+|&nicovideo(sm9881076)|&nicovideo(nm13118913)|
+-&b(){アレンジ曲}
+|『[[雪月風花]]』&nicovideo(sm7871835)|
+
+
+**コメント
+- みんなの意見を聞いて何度も作り直し、素晴らしい作品に仕上げてくれる自分が一番好きな作者  -- 名無しさん  (2008-04-20 09:52:06)
+- 素のミクを声を大事にしていて、固定ファンも多いね。  -- 名無しさん  (2008-08-31 19:14:30)
+- 心にしみるバラードだ  -- damesukekun  (2009-09-17 15:21:40)
+#comment()

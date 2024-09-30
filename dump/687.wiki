@@ -1,0 +1,20 @@
+#include(作り手一覧/header)
+|&link_aname(WA){わ}|&link_aname(WO){を}|&link_aname(NN){ん}|
+
+[[わ>>http://www5.atwiki.jp/hmiku/tag/作わ]] &small(){&aname(WA,option=nolink){(}&link_aname(HD){↑})}
+#list_by_tagsearch(作わ,sort=furigana2,errmsg=「わ」で始まる作り手はまだ登録されていません。,and,100)
+[[を>>http://www5.atwiki.jp/hmiku/tag/作を]] &small(){&aname(WO,option=nolink){(}&link_aname(HD){↑})}
+#list_by_tagsearch(作を,sort=furigana2,errmsg=「を」で始まる作り手はまだ登録されていません。,and,100)
+[[ん>>http://www5.atwiki.jp/hmiku/tag/作ん]] &small(){&aname(NN,option=nolink){(}&link_aname(HD){↑})}
+#list_by_tagsearch(作ん,sort=furigana2,errmsg=「ん」で始まる作り手はまだ登録されていません。,and,100)
+
+|&link_aname(WA){わ}|&link_aname(WO){を}|&link_aname(NN){ん}|
+|[[あ>作り手一覧/あ行]]|[[か>作り手一覧/か行]]|[[さ>作り手一覧/さ行]]|[[た>作り手一覧/た行]]|[[な>作り手一覧/な行]]|[[は>作り手一覧/は行]]|[[ま>作り手一覧/ま行]]|[[や>作り手一覧/や行]]|[[ら>作り手一覧/ら行]]|わ|[[A～Z>作り手一覧/A～Z]]|[[その他>作り手一覧/その他]]|
+
+※複数の呼び名がある作り手は、最も一般的であろう名前で登録されています。
+　 目的のページが見つからない場合は、ここから検索してみてください。
+#search2(or,ignore=own)
+
+&small(){(&link_aname(HD){上に戻る↑})}
+//**コメント
+//#comment

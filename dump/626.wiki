@@ -1,0 +1,30 @@
+#right(){&furigana(かしわもち) &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/4523250" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/4523250">【ニコニコ動画】製作リスト（みく）</a></iframe>)
+
+**特徴
+-SB_YUNEという名で活動もしている。詳細は作者のサイトにて。
+-例外を除いて全てミク作品。
+-歌詞の言葉遊びに定評がある。
+-何故かマイリストに全ての自作曲を入れていない？
+-絵については、オリジナル作品は&b(){PAW Laboratory}（HMOの中の人とくぅさんのコンビ）の「[[くぅ>>http://www.kuroneko-gallery.com/]]」さんが担当。
+-タイミングが悪いのか、良曲が多いのになかなか再生数が伸びない。
+
+**曲
+#list_by_tag(柏餅P,100,sort=furigana)
+
+**リンク
+-[[Mur Mur Studio（作者HP）>>http://homepage3.nifty.com/karihamo/]]
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm1841151){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm2589372){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12136042){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm2050299){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2174557){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm2398576){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4844025){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm2843660){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3669318){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm6652953){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm8651893){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm12318920){340,185}||
+
+**コメント
+- 作者サイトへのリンク及び、曲の紹介、歌詞については作者の柏餅Pさまより許可をいただきました。追記・訂正ありましたらお願いします。
+- みくみくちぇっく♪が可愛くて好きです。  -- 左脳  (2010-08-18 17:51:14)
+- ちょっと修正したのですが前よりおかしくなったような・・・；；すいません；  -- 名無しさん  (2010-12-31 12:51:23)
+#comment()

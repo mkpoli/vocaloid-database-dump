@@ -1,0 +1,39 @@
+#right(){&furigana(りょのすけP)&furigana()【登録タグ:&tags() 】}
+|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/5923486" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/5923486">【ニコニコ動画】regular list</a></iframe>)|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/5923784" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/5923784">【ニコニコ動画】irregular list</a></iframe>)|
+
+**特徴
+-中島みゆきなど定番の名曲カバーが多い。特に『島唄』の完成度は視聴者を圧倒する。
+-主な歌い手は、鏡音リン・鏡音レン・KAITO。
+-「僧侶」と呼ばれる音源プラグイン「Delay Lama」の使い手でもある。
+-2008年7月15日、初のオリジナル曲『[[love is a mirror]]』を投稿。
+-2009年6月2日、KAITOを使用した投稿動画をニコ動から削除。詳しい事情はブログ（[[アーカイブ>>https://web.archive.org/web/20090831090356/https://sidelines.seesaa.net/]]）を参照。
+
+**リンク
+-[[作者ブログ>>http://sidelines.seesaa.net/]]
+-[[PIAPRO（大司）>>http://piapro.jp/ryonosuke_2000]]
+
+**曲
+#list_by_tag(涼之介,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(涼之介CD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+-&bold(){オリジナル曲}
+|&nicovideo(http://www.nicovideo.jp/watch/sm3968146)|
+-&bold(){カバー曲}
+|&nicovideo(http://www.nicovideo.jp/watch/sm1894343){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm1905558){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2121170){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm2469271){340,185}|
+
+**コメント
+- 「うろたんだーを歌ってみた」の合唱版動画を作ったのもこの人。  -- 名無しさん  (2008-03-19 14:06:28)
+- 島唄は神だよ神。人が歌ってるようにしか聞こえない。  -- 名無しさん  (2008-03-21 18:54:27)
+- ふりがなは「りょうのすけ」でいいんでしょうか？「すずのすけ」さんでしょうか。間違ってたら気付いた方編集お願いします。  -- ふりがな振った人  (2008-04-15 22:31:50)
+- りょのすけ　だよ  -- 名無しさん  (2008-04-19 03:38:26)
+- フィルターの使い方を覚えてから、コメがおもしろいことになっている  -- 名無しさん  (2008-04-28 16:23:05)
+- 誕生日おめでとう！！  -- 名無しさん  (2008-12-27 11:34:45)
+- KAITOの可能性を提示してくれてありがとう。涼乃介さんには心から感謝してるよ。だから、もしまたその気になったら好きな曲作って戻ってきてください。本当にお疲れ様でした。  -- 名無しさん  (2009-06-02 21:31:24)
+- 涼乃介さんのブログ読んだら何とも言えない気持ちに…  -- 名無しさん  (2009-06-27 15:54:11)
+- ↑同じく…可哀そうから読んでから何とも言えない気持ちに…正直がっかり  -- 名無しさん  (2009-09-06 01:38:48)
+- 回虫が暴れた結果だな  -- 名無しさん  (2009-09-06 09:18:43)
+#comment()

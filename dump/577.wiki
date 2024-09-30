@@ -1,0 +1,24 @@
+#right(){&furigana(うらこまんだー) &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/4383509" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/4383509">【ニコニコ動画】私の作品</a></iframe>)
+
+**特徴
+-曲のジャンルは主にテクノ・トランス。
+-自作曲のクオリティも高いが、自分で歌うことも得意。
+-「卑怯戦隊うろたんだーを歌ってみた」で語りや裏声まで入れて完璧に歌いこなした。
+-命名の経緯は、上記の歌ってみた動画のコメントのやり取りかららしい。&br()（00:33 p名ないのか　                02/15 03:30&br()00:37 裏コマンダーpとかはどうだ？　02/15 03:31）
+
+**曲
+#list_by_tag(裏コマンダーP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(裏コマンダーPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm1987494){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm2277447){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2666562){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm4131761){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5331628){340,185}|
+
+**コメント
+- この人の曲はどれも良い  -- 遊羅麒  (2013-05-28 17:31:52)
+- この人今はなにしてるのかな  -- 名無しさん  (2018-12-09 22:46:18)
+#comment()

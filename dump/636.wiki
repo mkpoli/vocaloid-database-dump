@@ -1,0 +1,61 @@
+#right(){&furigana(EverybodySayHello)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm1504260)|
+作詞：[[Glint Of Sound>shu-tP]]
+作曲：[[Glint Of Sound>shu-tP]]
+編曲：[[Glint Of Sound>shu-tP]]
+唄：[[MEIKO]]・[[LOLA]]
+
+**曲紹介
+曲名：『&u(){Everybody Say Hello}』(&u(){えぶりばでぃ　せい　はろー})
+
+**歌詞
+
+（Everybody Say Hello, Good Bye） 
+
+（Everybody Say Hello, Everybody Say Good Bye, Everybody Say Hello） 
+
+lala... lala... lala... いつもの場所で
+lala... lala... lala... また明日会いましょう
+
+ひるまない毎日　だけど確かな意味がある
+交わした言葉は　心の奥に響いてく
+
+lala... lala... lala... いつもの場所で
+lala... lala... lala... また明日会いましょう
+
+何気ない毎日　交わす言葉重なって
+出会って分かれて　繰り返して繋がっていく
+
+（Everybody Say Hello, Good Bye）
+
+みんな一人じゃない　いつも傍に誰かいる
+こぼした溜め息　かき消して歩き出そうよ
+
+lala... lala... lala... 大切なもの
+lala... lala... lala... それぞれ違うけど
+
+lala... lala... lala... いつもの場所で
+lala... lala... lala... また明日会いましょう
+
+（Everybody Say Hello, Everybody Say Good Bye, Everybody Say Hello）
+
+（Everybody Say Hello, Good Bye）
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+**コメント
+- 正式な歌詞が分からないため耳コピです。英語の部分はLOLAが歌ってます。  -- 名無しさん  (2008-04-04 23:17:00)
+- そう言えばピアプロにもないし、ニコニコの歌詞は有志によるものでしたね。自分的にはダウンロードするためにピアプロアカウント取得した記念の曲  -- てきとう怪獣  (2008-04-05 02:45:13)
+- 色々な呼び名がある楽師さんですが、Glint Of Soundさんとも呼ばれているのですか？  -- てきとう怪獣  (2008-04-05 02:47:38)
+- 自分はこの曲でボカロに嵌りましたｗ　shu-tさんは音楽仲間が多いらしく、組む人によってユニット名を変えてるみたいです。  -- 名無しさん  (2008-04-05 03:22:25)
+#comment()
+
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)

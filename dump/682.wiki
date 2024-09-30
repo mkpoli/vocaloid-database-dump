@@ -1,0 +1,23 @@
+#include(作り手一覧/header)
+|&link_aname(NA){な}|&link_aname(NI){に}|&link_aname(NU){ぬ}|&link_aname(NE){ね}|&link_aname(NO){の}|
+
+#include(作り手一覧/な)
+
+[[に>>http://www5.atwiki.jp/hmiku/tag/作に]] &small(){&aname(NI,option=nolink){(}&link_aname(HD){↑})}
+#list_by_tagsearch(作に,sort=furigana2,errmsg=「に」で始まる作り手はまだ登録されていません。,and,100)
+[[ぬ>>http://www5.atwiki.jp/hmiku/tag/作ぬ]] &small(){&aname(NU,option=nolink){(}&link_aname(HD){↑})}
+#list_by_tagsearch(作ぬ,sort=furigana2,errmsg=「ぬ」で始まる作り手はまだ登録されていません。,and,100)
+[[ね>>http://www5.atwiki.jp/hmiku/tag/作ね]] &small(){&aname(NE,option=nolink){(}&link_aname(HD){↑})}
+#list_by_tagsearch(作ね,sort=furigana2,errmsg=「ね」で始まる作り手はまだ登録されていません。,and,100)
+[[の>>http://www5.atwiki.jp/hmiku/tag/作の]] &small(){&aname(NO,option=nolink){(}&link_aname(HD){↑})}
+#list_by_tagsearch(作の,sort=furigana2,errmsg=「の」で始まる作り手はまだ登録されていません。,and,100)
+
+|&link_aname(NA){な}|&link_aname(NI){に}|&link_aname(NU){ぬ}|&link_aname(NE){ね}|&link_aname(NO){の}|
+|[[あ>作り手一覧/あ行]]|[[か>作り手一覧/か行]]|[[さ>作り手一覧/さ行]]|[[た>作り手一覧/た行]]|な|[[は>作り手一覧/は行]]|[[ま>作り手一覧/ま行]]|[[や>作り手一覧/や行]]|[[ら>作り手一覧/ら行]]|[[わ>作り手一覧/わ行]]|[[A～Z>作り手一覧/A～Z]]|[[その他>作り手一覧/その他]]|
+
+※複数の呼び名がある作り手は、最も一般的であろう名前で登録されています。
+　 目的のページが見つからない場合は、ここから検索してみてください。
+#search2(or,ignore=own)
+&small(){(&link_aname(HD){上に戻る↑})}
+//**コメント
+//#comment※タグに「作あ（作＋作り手名の先頭のひらがな、または半角大文字のアルファベットのいずれか1文字、または他）」などのタグが入っていないとこの一覧には表示されません。

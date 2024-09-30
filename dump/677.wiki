@@ -1,0 +1,62 @@
+#right(){&furigana(やんでれP) &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/2578095" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/2578095">【ニコニコ動画】公開作品</a></iframe>)
+
+**特徴
+-2008年1月7日ニコニコ動画初投稿以来、鏡音リン（act1）を使用した激しい（病んでる）恋愛がテーマのメタル楽曲を連投している「鏡音リンでメタル」頂点の一人
+-所有ボカロはリンレン・ルカ、そして2010年夏にはGUMIも購入した。
+-メタル楽曲には珍しい日本語でジュブナイル（子供向け小説）風ストーリー性歌詞＆哀メロで、メタルに興味が無かった人にも人気がある。
+-鏡音単独の楽曲で唯一「ボカロメタル殿堂入り」（1万再生超え）を果たしている。
+--2009年7月12日時点で「[[重恋歌>重恋歌-Jyurenka-]](リンver/高音質)(ルカver)」「[[激嬢想歌>激嬢想歌-Gekijyousouka-]]」「[[旋律王姫>旋律王姫-Senritsuouki-]]」「[[氷葬花>氷葬花-Hyousouka-]]」「[[哀撃貴鋼>哀撃貴鋼-Aigekikikou-]]」「[[雨弾凶奏>雨弾凶奏-Udankyousou-]]」「[[魔王嬢>魔王嬢-MaoujyouⅠ-]]」「[[続・魔王嬢>続・魔王嬢-Maoujyou II-]]」
+-「[[氷葬花>氷葬花-Hyousouka-]]」公開時のコメントや投稿時間から、残業と闘いながら夜な夜なギターを弾き込んでいる健全な社会人らしいｗ
+-ピアプロでのハンドルは「ヤンデレリンの中の人」。ピアプロの規制を心配してか、ピアプロへの楽曲公開はしていない。
+-「歌ってみた」で披露している素敵なハイトーンヴォイスと歌唱力で歌い手としても注目されている。
+-「歌ってみた」でもVOCALOIDをコーラスやパートナーとして投入しており、VOCALOIDの活用法を試しながらの活動している。
+-ブームになっている曲へ祭り的に参加する気配は無さそう。
+--でも特に曲自体を嫌っている事もなさそうで、実際[[組曲「ニコニコ動画」>>http://www.nicovideo.jp/watch/sm7692127]]をVOCALOIDと共に歌ってアップロードしたりしている。
+-「歌ってみた」楽曲に限り、鏡音レンも使用されている。（2010年8月現在）
+
+**エピソード等
+-「[[雨弾凶奏>雨弾凶奏-Udankyousou-]]」以降、ストリングスの音源がQY100からソフト音源になり、よりハイクオリティーなシンフォニックメタルとなっている。
+-「[[重恋歌>重恋歌-Jyurenka-]]」の歌詞からヤンデレPと呼ばれだしたが、当初は「ヤンデレ」という言葉を知らなかったらしい。（MP3公開時のライナーノーツから）
+--ちなみに、「ヤンデレ」は「病んで、でれ」であって、「ヤンキーで、でれ」ではない。
+-「[[鮮血誓歌>鮮血誓歌-Senketsuseika-]]」で投稿者名をXescaからMusie時代からのハンドルKiescaに変更、発表後、一時活動を停止していた（モンハンにハマッていたらしい）が、ねぎしお氏のラブコールにより、リン廃にとって伝説のコンピレーションアルバム『[[HOWRING]]』に参加、「[[幼帝ノ森]]」で創作活動に復帰。この時のあまりに豪華な面子と直接対面した事が強い刺激になり、新シリーズMetall Dollsでは器材を一新し、ギターの音作りから再出発した新生Kiescaの原動力となった。
+
+
+**リンク
+-[[The Skies Symphony>>http://www.aa.cyberhome.ne.jp/~tsukada_s/index.html]]（本人サイト）
+-[[歌い手まとめwiki「ヤンデレP」ページ>>http://www41.atwiki.jp/niconico_singer/pages/382.html]]
+
+**曲
+#list_by_tag(ヤンデレP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(ヤンデレPCD,100,sort=furigana,errmsg=まだCDが登録されていません) 
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm2418337)|&nicovideo(http://www.nicovideo.jp/watch/sm2089636)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2351579)|&nicovideo(http://www.nicovideo.jp/watch/sm2896419)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3218654)|&nicovideo(http://www.nicovideo.jp/watch/sm4258861)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5387061)|&nicovideo(http://www.nicovideo.jp/watch/sm6006883)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6958033)|&nicovideo(http://www.nicovideo.jp/watch/sm8605678)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm10453745)|&nicovideo(http://www.nicovideo.jp/watch/sm10808018)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm11832934)|&nicovideo(http://www.nicovideo.jp/watch/sm12523426)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm13586246)|&nicovideo(http://www.nicovideo.jp/watch/sm14784000)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm15033455)|&nicovideo(http://www.nicovideo.jp/watch/sm15968768)|
+
+**コメント
+- 「鏡音リンでメタル」シリーズは第四弾のコメントからアルバム化を前提とした展開が予想される。  -- 名無しさん  (2008-04-17 22:18:09)
+- ピアプロでのハンドルは「ヤンデレリンの中の人」。ピアプロの規制を心配してか、ピアプロへの楽曲公開はしていない。  -- Toy6  (2008-04-20 01:04:31)
+- 「歌ってみた」での美声が素晴らし過ぎる人。  -- 名無しさん  (2008-06-23 23:58:08)
+- 適当に説明のところまとめてみました＾＾リンク貼りまくったんでくどいようでしたら剥がしてください。  -- 名無しさん  (2009-03-08 03:29:02)
+- この人はボカロメタルの神  -- 名無しさん  (2009-03-12 21:10:12)
+- リン使いの中で一番好きなＰです。  -- 名無しさん  (2009-04-17 20:28:06)
+- 新曲来ましたね！　鮮血誓歌のページ作成、どなたかお願いします。m(_ _)m  -- 名無しさん  (2009-11-06 12:03:51)
+- 鮮血誓歌、ページ作成ありがとうございました。そして『和風』というコンセプトの次作にも期待！  -- 名無しさん  (2010-01-26 16:36:42)
+- もうほんっとヤンデレP好きです。聞いててすごく揺さぶられるｗ自分的には語るに尽くせないくらい  -- 名無しさん  (2010-04-13 02:22:30)
+- 「幼帝の森」、公開です。  -- マッハ７の通りすがり  (2010-04-22 09:52:17)
+- 「幼帝の森」待ってました！！ どなたか幼帝の森のページ作成お願いします(_ _)  -- 名無しさん  (2010-04-24 10:51:13)
+- 幼帝の森ってすごくいい歌です（＞∀＜）ノシ  -- 紅葉  (2010-08-21 09:26:16)
+- 新曲の幽奏少女よかった！！  -- 名無しさん  (2012-05-08 02:13:59)
+- 大好き  -- 名無しさん  (2014-02-01 22:15:04)
+- 幽奏少女以降の曲の記事がなかなか作成されない  -- 名無しさん  (2014-06-13 23:37:47)
+#comment()
