@@ -1,0 +1,42 @@
+#right(){&furigana(よわねP) &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/2568614" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/2568614">【ニコニコ動画】過去の作品</a></iframe>)
+
+**特徴
+-弱音ハク3部作で知られるP。弱音ハクへの褒め言葉は緑文字で「&color(green){&b(){ツマンネ}}」
+-最近は普通に良曲を作るようになったが、弱音ハクへの愛は変わらないらしい。
+-クラシック系楽器音の扱いは得意だが、ポップス系は苦手で本気曲でも「テラMIDI」と罵られる事も。
+-再生の多い作品は週刊VOCALOIDランキングとの縁が薄かった。ハク作品は＃28まで問答無用で却下。『カエルウマウマ』（[[sm2226441>>http://www.nicovideo.jp/watch/sm2226441]]）もPV扱いされ除外。
+-第4回VOCALOIDアルバム企画では、初オリジナル曲『[[Snow-white Medium]]』がアレンジ対象に使用される。本人も参加した。
+-『[[龍ノ啼ク箱庭拠リ]]』および『[[シャイン！]]』がJOYSOUNDにてカラオケ配信中。
+
+**リンク
+-[[作者ブログ>>http://mejipa.blog16.fc2.com/]]
+-[[PIAPRO>>http://piapro.jp/meji]]
+-[[Twitter>>https://mobile.twitter.com/yowanep]]
+
+**曲
+#list_by_tag(弱音P,100,sort=furigana)
+
+**CD
+#list_by_tag(弱音PCD,100,sort=furigana)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm1209417)|&nicovideo(http://www.nicovideo.jp/watch/sm1804377)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2159091)|&nicovideo(http://www.nicovideo.jp/watch/sm3789084)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3936455)|&nicovideo(http://www.nicovideo.jp/watch/sm4468361)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5038116)|&nicovideo(http://www.nicovideo.jp/watch/sm5526533)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5579117)|&nicovideo(http://www.nicovideo.jp/watch/sm7420165)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7792237)|&nicovideo(http://www.nicovideo.jp/watch/sm8039789)|
+&b(){弱音ハク作品}
+|&nicovideo(http://www.nicovideo.jp/watch/sm1609005)|&nicovideo(http://www.nicovideo.jp/watch/sm1640374)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm1698079)|&nicovideo(http://www.nicovideo.jp/watch/sm1908445)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2408076)|&nicovideo(http://www.nicovideo.jp/watch/sm3084137)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4229685)|&nicovideo(http://www.nicovideo.jp/watch/sm5304735)|
+
+
+**コメント
+- ハジメテノオト騒動の最中にあなたがくれたオトを公開、思わず目が潤んだ  -- 名無しさん  (2008-02-01 16:04:46)
+- ぼからん＃29から方針が変わり、＃30でついにハク曲がランクインしたため、文章を変えました。  -- 名無しさん  (2008-04-29 20:11:10)
+- ニコニコ職人の神調教に刺激されて初音ミクを購入したものの、自分には音楽の才能の無さに気付き、弱音という存在をつくりだした。  -- 名無しさん  (2008-12-21 07:46:32)
+- ↑ええ！マジでかぁ!!  -- 名無しさん  (2009-09-09 20:59:33)
+#comment()

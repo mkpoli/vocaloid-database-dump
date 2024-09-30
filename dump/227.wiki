@@ -1,0 +1,52 @@
+#right(){&furigana(Harmonia)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+
+**特徴
+作り手名：『&u(){Harmonia}』（&u(){ハルモニア}）
+-&bold(){[[FAT>fatP]]}（Chief Composer）、&bold(){emi}（Vocal＆Lyrice）、&bold(){[[SHIKI]]}（Composer）から成る、Trance&DigitalPops中心のオリジナル楽曲ユニット。
+-2007年10月、「[[saturation]]」にてボカロデビュー。
+-使用合成音声は[[初音ミク]]のみ。
+-2008年5月、M3でのCDアルバム発売をもって、&bold(){活動休止中}。メンバーは、それぞれソロ活動や別ユニット活動を展開中。
+--FAT氏とSHIKI氏が組んで楽曲発表をすることがあるが、emi氏が加わっていない作品については、正確に言えば、Harmonia名義にはならないので注意を要する。
+//-トランス好きにはたまらないくらい、メロディアスな旋律。
+//-隠れた名曲揃い。
+//-作者HPに、emiが歌う別バージョンあり（本格派VOCAL）。
+
+**リンク
+//-個人HP、PIAPRO、YouTube等ある場合は、ここに。当wiki以外のサイトへリンクを貼る場合は必ず「>>」で別ウインドウでリンクしてください。
+//-[[ニコニコ動画>>https://www.nicovideo.jp/user/]]
+//-[[YouTube>>https://www.youtube.com/]]
+//-[[piapro>>https://piapro.jp/]]
+//-[[Twitter>>https://twitter.com/]]
+//-[[作者ホームページ>>http://harmonia-hp.com/]]
+-[[ブログ（FAT）>>http://dslab.blog19.fc2.com/]]
+-[[mixi（FAT）>>http://mixi.jp/show_friend.pl?id=2065152]]
+//-[[ホームページ（emi）>>http://phantas-magoria.info/]]
+-[[mixi（emi）>>http://mixi.jp/show_friend.pl?id=300588]]
+//-[[ホームページ（SHIKI）>>http://kobe.cool.ne.jp/linker/fohs.html]]
+
+**曲
+#list_by_tag(Harmonia,100,sort=furigana)
+
+**CD
+#list_by_tag(HarmoniaCD,100,sort=furigana)
+
+**動画
+|&nicovideo(sm1237688)|&nicovideo(sm1797448)|
+|&nicovideo(sm3102685)|>|
+
+**関連タグ内の更新履歴
+#region(close,関連タグ内の更新履歴)
+関連タグ内の更新履歴
+※「Harmonia/作り手」「Harmonia/作り手CD」タグ内で最近編集やコメントのあった記事を新しい方から10件表示しています。
+#list_by_tagsearch(Harmonia/作り手,Harmonia/作り手CD,sort=timestamp,sort2=desc,errmsg=まだ曲、CDが登録されていません。,or,10)
+#endregion
+
+**コメント
+- 活動休止が残念です。アルバムがあきばお～で購入可能です。emiさんverもすごく良かったです。  -- 名無しさん  (2008-06-14 20:16:25)
+- どの曲も殿堂入りしていないのが不思議なくらいの名曲。再生数が伸びないのは、サムネイルで損しているからでは？  -- 名無しさん  (2008-06-24 00:56:29)
+- 作者ホームページがアフィサイトになってます。。  -- 名無しさん  (2016-08-19 00:34:11)
+#comment()

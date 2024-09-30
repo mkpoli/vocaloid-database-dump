@@ -1,0 +1,42 @@
+#right(){&furigana(うどんげるげ)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/3464187" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/3464187">udongergeさんの公開マイリスト</a></iframe>)
+
+**特徴
+-2007年11月2日、「矢野顕子の春咲小紅をモノマネっぽく歌ってもらった」を初投稿。
+-調教のレベルが高く、なめらかで滑舌のよい歌声に驚きのコメントが寄せられる。
+-カバー曲の代表作は、原作準拠の衝撃的なサムネで一世を風靡した「薔薇は美しく散る」。
+-オリジナル曲の代表作は「[[どうしてこうなった>どうしてこうなった/うどんゲルゲ]]」。まさかの「Project DIVA ARCADE」の製品版収録曲候補に選出されるという快挙を成し遂げました。
+-オリジナル曲のほか、カバー曲の投稿も多く、戸川純・ゲルニカ・大貫妙子 etc. から「ベルばら」「ヤッターマン」などのアニソン・CMソングまで多岐にわたる。
+-カバー曲の場合でも、オケを自ら作り込んで製作する。テクノ風にアレンジすることも。
+-使用ボーカロイドは、初音ミク・鏡音リン・鏡音レン・MEIKO・KAITO・巡音ルカ・BIG-AL。
+-7作目くらいからイラストも自作（「薔薇は美しく散る」はご友人作）。
+
+**リンク
+-[[作者ブログ>>http://udongerge.spaces.live.com/]]
+-[[Twitter>>https://twitter.com/udongerge]]
+-[[YouTube>>https://www.youtube.com/user/udongerge]]
+
+**曲
+#list_by_tag(うどんゲルゲ,100,sort=furigana,errmsg=まだ曲が登録されていません。)
+
+**CD
+#list_by_tag(うどんゲルゲCD,100,sort=furigana,errmsg=まだCDが登録されていません。)
+
+**動画
+-&bold(){オリジナル曲}
+|&nicovideo(http://www.nicovideo.jp/watch/sm1761392){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm2611890){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3275112){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm3370537){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3831248){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm8645051){340,185}|
+
+-&bold(){その他の曲}
+|&nicovideo(http://www.nicovideo.jp/watch/sm1848517){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm2028367){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2203486){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm2296173){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2919967){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm3671336){340,185}|
+
+**コメント
+//- アイウエオカキクケコサシスセソ  -- アイウエオ  (2013-03-10 13:40:14)
+- カバーにはBIG ALの「I'm too Sexy」（sm9789427）も入れるべき。  -- 名無しさん  (2013-09-30 20:27:17)
+- 優曇華院かと思った  -- 名無し  (2013-09-30 20:45:39)
+- DJ Lilyの深愛綺麗ですね。どうしてこうなった。  -- スケルツォ  (2013-11-09 09:45:12)
+- ネタ曲の選抜やその他もろもろセンスありすぎだろ  -- 名無しさん  (2022-10-21 19:58:45)
+#comment()

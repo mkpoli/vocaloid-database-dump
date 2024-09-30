@@ -1,0 +1,46 @@
+#right(){&furigana(ぼかぬし) &furigana()【登録タグ:&tags() 】}
+|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/7356407" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/7356407">【ニコニコ動画】うｐした動画Mk2</a></iframe>)|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/513812" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/513812">【ニコニコ動画】うｐした動画</a></iframe>)|
+
+**特徴
+-ニコニコ動画におけるVOCALOID使いの先駆者。ミク発売以前からMEIKOを使用しカバー曲を多数作り上げてきた。
+
+-2007年04月05日投稿の「おっくせんまん！　歌わせてみた（VOCALOID ver.）」を皮切りに、その後MEIKOを使用しTHE IDOLM@STERの曲を中心にカバー曲を展開していく。数万を超える再生数も叩き出し、VOCALOIDの存在がニコニコ動画内で広く知れ渡る事となる。それゆえ、一時期はYAMAHAの回し者、YAMAHA社員とも呼ばれていた。
+-初音ミク発売前までの作品で殿堂入りした動画数は実に5つ。
+-初音ミク発売前は最古参の作り手である[[mo7779]]に触発されて、互いにカバー曲を作りあっていたこともあった。
+-2007年08月初音ミク発売。数多くの作り手が参入し、空前のVOCALOIDブームが沸き起こる中、ぼか主自身も「寝・逃・げでリセット！」を始めとした殿堂入り曲を連発、カバー曲の巨匠と呼ばれるようになる。
+-調教レベルも高く、MEIKOだけではなくミク、Sweet Annも導入し、ネタ曲や替え歌へと芸幅を広げていく。
+-2008年06月にアカウント停止処分となり、全動画が削除されてしまった。その後、本人が新規アカウントを取得し、問題のない動画から順次再UPされている。
+
+**曲
+#list_by_tag(ぼか主,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**主な動画
+-初音ミク発売以前（左が削除前、右が再投稿）
+
+|&nicovideo(http://www.nicovideo.jp/watch/sm109016){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm3829457){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm310875){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm3880186){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm346059){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm3882486){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm423872){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm3893415){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm476733){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm3904231){340,185}|
+
+-初音ミク発売以後（左が削除前、右が再投稿）
+
+|&nicovideo(http://www.nicovideo.jp/watch/sm975660){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm4359845){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm1059995){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm3942821){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm1162699){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm3943733){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm1541708){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm3956991){340,185}|
+
+-アカウント停止後
+
+|&nicovideo(http://www.nicovideo.jp/watch/sm4316531){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm5369728){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/nm5630464){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm5858987){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/nm6085660){340,185}|
+
+**コメント
+- ニコニコ動画におけるVOCALOIDブームの功労者。もしボカロランキングがミク発売以前からあったとすれば、この人一色に染まってただろう。  -- 名無しさん  (2008-04-23 02:56:55)
+- 垢停止で動画全滅しとる……  -- 名無しさん  (2008-06-28 04:12:45)
+- これは一大事件じゃね？貴重なボカロ最古動画の数々が一度に無くなるとは  -- 名無しさん  (2008-06-28 12:56:49)
+- 事件ではあるけれど、同垢でマクロスＦの動画使ってちゃなぁ・・  -- 名無しさん  (2008-06-29 01:46:07)
+- 一応新垢で復活してるね。オペラとかアンインストールも上げなおされてる。  -- 名無しさん  (2008-07-09 03:04:00)
+- ゴム  -- 名無しさん  (2008-10-24 21:03:25)
+#comment()

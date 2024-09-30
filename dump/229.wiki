@@ -1,0 +1,28 @@
+#right(){&furigana(ねきたまP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://ext.nicovideo.jp/thumb_mylist/15641491" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/15641491">【ニコニコ動画】投稿した動画</a></iframe>)
+
+**特徴
+作り手名：『&u(){ねぎたまP}』
+-プロの漫画家らしい。
+-かわいいミクの自作イラストが楽しい。
+-作詞・作曲・編曲までこなしている。
+-ねぎたまSequencer とも。
+
+**曲
+#list_by_tag(ねぎたまP,100,sort=furigana)
+
+**CD
+#list_by_tag(ねぎたまPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm2088347)|
+
+
+**コメント
+- DTM＝デスク・トップ・ミクでおk？  -- pak  (2008-10-10 16:25:21)
+- ええんでね？  -- ななしさん  (2010-11-14 22:55:39)
+#comment()

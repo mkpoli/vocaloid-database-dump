@@ -1,0 +1,35 @@
+#right(){&furigana(clear) &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/2789063" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/2789063">【ニコニコ動画】andromeca</a></iframe>)
+
+**特徴
+-数少ないSweet Annマスターの一人。
+-脳内Annに定評がある。
+-公式のSweetAnnのイメージのままではモチベーションが上がらないということで、脳内で補完したAnnのイラストを自作。
+-大人びた容姿の金髪美女であるこの脳内Annを見て初めてSweetAnnを知った人は、公式Annを画像検索して後悔することが多い。
+-後に本人によってSD化された脳内Annも登場する。
+-使用VOCALOIDは他に初音ミク、鏡音リン・レン、Prima、巡音ルカ、SONIKA、Big-Al、Tonio。
+
+**リンク
+-[[作者ホームページ>>http://andromeca.s324.xrea.com/]]
+-[[YouTube>>http://www.youtube.com/user/andromecajp]]
+-[[KarenT>>http://karent.jp/artist/pp000200]]
+
+**曲
+#list_by_tag(andromeca,100,sort=furigana)
+
+**CD
+#list_by_tag(andromecaCD,100,sort=furigana)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm1385804)|&nicovideo(http://www.nicovideo.jp/watch/sm1604785)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2027678)|&nicovideo(http://www.nicovideo.jp/watch/sm2573775)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3044247)|&nicovideo(http://www.nicovideo.jp/watch/sm3413118)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4389210)|&nicovideo(http://www.nicovideo.jp/watch/sm4915586)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6301733)|&nicovideo(http://www.nicovideo.jp/watch/sm8154094)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9031544)|&nicovideo(http://www.nicovideo.jp/watch/sm9282841)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9428063)|&nicovideo(sm10483377)|
+|&nicovideo(sm11578328)||
+
+**コメント
+- 作者ホームページ追加しました。  -- 名無しさん  (2008-03-19 23:14:45)
+#comment()
