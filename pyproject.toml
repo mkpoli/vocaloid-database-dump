@@ -5,13 +5,12 @@ description = "Add your description here"
 authors = [
     { name = "mkpoli", email = "mkpoli@mkpo.li" }
 ]
-dependencies = []
+dependencies = [
+    "requests>=2.32.3",
+]
 readme = "README.md"
 requires-python = ">= 3.8"
 classifiers = ["Private :: Do Not Upload"]
-
-[project.scripts]
-"vocaloid-database-dump" = "vocaloid_database_dump:main"
 
 [tool.rye]
 managed = true

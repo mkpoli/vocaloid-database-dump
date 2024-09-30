@@ -11,5 +11,11 @@ Dumpd from [Database Dump page](https://vocaloid.fandom.com/wiki/Special:Statist
 ## 初音ミク Wiki (atwiki) article dump
 Dumped articles from [初音ミク Wiki](https://w.atwiki.jp/hmiku/) on 2021-09-28.
 
+### Usage
+```bash
+$ rye run python hmiku_atwiki/scrap.py
+$ rye run python hmiku_atwiki/extract.py
+```
+
 ## VocaDB database dump
 Database dump of [VocaDB](https://vocadb.net) retrieved from [Vocaloid.eu](http://vocaloid.eu/vocadb/dump.zip), dumped on 2021-09-28.
