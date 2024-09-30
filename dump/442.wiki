@@ -1,0 +1,44 @@
+#right(){&furigana(ふなむし) &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/2121278" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/2121278">【ニコニコ動画】ふなむしの曲なのですが…</a></iframe>)
+
+**特徴
+-主にMEIKO（たまにミク）を使用し、AORや80年代風ポップスなどの曲を中心に書く。
+-最近は色々なジャンルに挑戦しつつある。
+-時折壊れてネタ曲を作る時もある。
+-ふなむしをテーマにしたネタ曲を作り、ふなむしPと命名された。
+
+**リンク
+-[[作者ブログ>>http://www.voiceblog.jp/hunamushi/]]
+-[[PIAPRO>>http://piapro.jp/Thouars]]
+-[[公開プロフィール（ニコニコ動画）>>http://www.nicovideo.jp/user/31296]]
+-[[zoome>>http://zoome.jp/hunamushi/]]
+-[[にゃっぽん>>http://v-nyappon.net/?m=pc&a=page_f_home&target_c_member_id=494]]
+
+**曲
+#list_by_tag(ふなむしP,100,sort=furigana)
+
+**CD
+#list_by_tag(ふなむしPCD,100,sort=furigana)
+
+**動画
+***オリジナル曲
+|&nicovideo(http://www.nicovideo.jp/watch/sm1072485){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm1349091){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm1879405){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm1988413){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2006876){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm2041654){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2090286){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm2137498){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2227355){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm2369886){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2419094){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm2571650){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2710548){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm3057520){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4636671){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm4789489){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5148081){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm6491175){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7872080){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm8004159){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm8543215){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm8886415){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm8910264){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm9904596){340,185}|
+***カバー曲
+|&nicovideo(http://www.nicovideo.jp/watch/sm2437621){340,185}|
+
+**コメント
+- MEIKOの男声(MEITO)のパイオニア。  -- 名無しさん  (2008-04-30 00:51:33)
+- 0004:a galaxy odysseyに収録されている「ふなむし」さんの曲はこの人の曲ですか…？小児ﾄﾛﾆｶ作った人の方なきがす  -- 名無しさん  (2013-01-08 16:51:20)
+- ↑ふなむしさんとふなむしPは別の人ですよー  -- すがり  (2013-10-08 23:32:59)
+#comment()

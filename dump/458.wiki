@@ -1,0 +1,41 @@
+#right(){&furigana(Otomania)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/2337055" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/2337055">【ニコニコ動画】OtomaniaがUPした動画</a></iframe>)
+
+**特徴
+作り手名：『&u(){Otomania}』（&u(){おとまにあ}）
+-言わずと知れたはちゅねミクの生みの親。ミク＝ネギのイメージもここから。
+-もう一人の生みの親であるtamagoと組んでコミックエースにて『はちゅねミクの日常 ろいぱら！』を連載していた。
+-P名は&b(){前日予約P}。
+-初音ミク発売当初にAmazonからの配送が遅れる事件が発生した際、前日に予約したのにちゃんと届いた事がP名の由来。&br()この事件に関しては「初音ミクが来ない？来た？」タグを参照。事件をネタとした動画が作られている。
+
+**ミリオン達成状況
+-オリジナル楽曲では達成楽曲なし。
+-以下のカヴァー楽曲が[[ミリオン>曲一覧/ミリオン曲一覧]]を達成している。（曲名をクリックすると、ニコニコ動画内の対応した動画に飛ぶ仕様となっている。）
+|CENTER:&b(){曲名}|CENTER:&b(){100万再生}|CENTER:&b(){200万再生}|CENTER:&b(){300万再生}|CENTER:&b(){備考}|
+|[[Ievan Polkka>>https://www.nicovideo.jp/watch/sm982882]]|2007年11月7日|2008年10月12日|2010年11月10日|原曲はフィンランドの伝統的ポルカ&br()歌唱は初音ミク|
+
+**リンク
+-[[Otomania.net（おとまにあどっとねっと）>>https://www.otomania.net/]]
+
+**曲
+#list_by_tag(Otomania,100,sort=furigana)
+
+**CD
+#list_by_tag(OtomaniaCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm982882)|&nicovideo(sm1109430)|
+|&nicovideo(sm1893548)|&nicovideo(sm977517)|
+
+**コメント
+- Ievan　Polkkaは?　ミクの代表曲じゃないの?  -- 不明Ｐ  (2010-12-21 13:40:43)
+- ↑ある意味代表曲だけど、あれはフィンランド民謡であってボカロオリジナルじゃないからWikiには掲載できないんですよ～。  -- 名無しさん  (2010-12-21 14:15:47)
+- なんと！残念  -- 雑音  (2011-02-11 19:33:47)
+- なるほど。カバーされた曲やリミックス、歌わせたものは掲載されないんですね。  -- 不明Ｐ  (2011-04-05 18:47:04)
+- みんなの手はもう公開出来ますよね？（東日本大震災の翌日にOtomaniaさんがブログにアップしたし）  -- 少年R  (2011-05-10 18:44:26)
+- はちゅねミクの日常　ろいぱら！4巻集めた！CD付いててちょっと高いけど、内容は超笑えるww  -- 明音ラン  (2011-12-26 18:59:32)
+#comment()

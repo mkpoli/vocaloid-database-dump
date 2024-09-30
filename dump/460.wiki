@@ -1,0 +1,46 @@
+#right(){&furigana(sansuiP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/3780179" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/3780179">【ニコニコ動画】sansui</a></iframe>)
+
+**特徴
+作り手名：『&u(){sansuiP}』
+-アンビエント、エレクトロニカ、電子ノイズ系の曲が得意。
+-「全部ミク」「ドラム以外ミク」などミクの「声」を極限まで変調した音作りの第一人者。
+-中毒性に定評がある。
+-「VOCALOIDアンダーグラウンド・カタログ」Part2、Part3、Part5、Part7、Part12、Part13の編纂者（「アングラカタログ補完委員会」名義含む）でもあり、ボカロアングラ界の顔となりつつある。
+-衛星シリーズ、深海生物シリーズなどボカロ以外のエレクトロニカ作品も多数。
+-2008年8月、ナニカシイラ（akaなにかしらP、音楽）、時田（イラスト、コンセプト）とともにユニット「ロストメガネ」を結成。ユニット名の由来はメンバー全員メガネ着用であることから。
+-P名の由来は、愛用のアンプがsansui社製であったことから。
+-本業はノンフィクション・ライター。
+
+**リンク
+-[[作者ブログ>>http://d.hatena.ne.jp/softpunk/]]
+-[[PIAPRO>>http://piapro.jp/sansui]]
+
+**曲
+#list_by_tag(sansuiP,100,sort=furigana)
+
+**CD
+#list_by_tag(sansuiPCD,100,sort=furigana)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm1868202){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm1712229){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm1712486){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm1853411){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm1784882){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm1760048){340,185}|
+
+-&bold(){オリジナルアルバム}
+|&nicovideo(http://www.nicovideo.jp/watch/sm3304617){340,185}|
+
+**コメント
+- 大ファンです。超個性的。  -- 名無しさん  (2008-07-21 18:27:19)
+- 「sansuiP」のP名の方がよく知られていると思うんですが、見出しの修正方法がわかりません  -- 名無しさん  (2008-07-22 22:12:28)
+- ↑修正しました。  -- 名無しさん  (2008-07-22 22:26:18)
+- 修正ありがとう　アルバム追加しました  -- 名無しさん  (2008-07-23 21:10:29)
+- ロストメガネ追加してみました。  -- 名無しさん  (2008-08-17 11:55:47)
+- 惑星シリーズじゃなくて衛星シリーズなのでは？  -- 名無しさん  (2008-11-25 14:49:52)
+- 衛星とかカタログとか追加修正しましたー  -- 名無しさん  (2008-12-25 20:38:11)
+- 深海、衛星は特に素晴らしい。  -- 名無しさん  (2009-11-23 23:57:36)
+#comment()
