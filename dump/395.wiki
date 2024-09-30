@@ -1,0 +1,51 @@
+#right(){&furigana(しようねつP) &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/4988835" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/4988835">【ニコニコ動画】哀愁と情熱のあいだ</a></iframe>)
+
+**特徴
+-ラテン系の情熱的な楽曲に定評があるP。
+-魅惑的な音を奏でるクラシックギターは必聴。
+-アーティスト名は、&b(){てとてと}、&b(){ネオンテトラ}。
+-『[[紅い百合 -Lilium-]]』は殿堂入りを果たしている。
+
+**リンク
+-[[作者ホームページ>>http://sound.jp/neontetra_feel/]]
+-[[PIAPRO>>http://piapro.jp/tetoteto]]
+-[[YouTube>>http://www.youtube.com/user/JounetsuP]]
+
+**曲
+#list_by_tag(情熱P,100,sort=furigana)
+
+**CD
+#list_by_tag(情熱PCD,100,sort=furigana)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm1969557)|&nicovideo(http://www.nicovideo.jp/watch/sm2499534)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3054771)|&nicovideo(http://www.nicovideo.jp/watch/sm4023701)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3651214)|&nicovideo(http://www.nicovideo.jp/watch/sm3937125)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4155159)|&nicovideo(http://www.nicovideo.jp/watch/sm4187574)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5599631)|&nicovideo(http://www.nicovideo.jp/watch/sm5638808)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6039316)|&nicovideo(http://www.nicovideo.jp/watch/sm6206827)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7881037)|&nicovideo(http://www.nicovideo.jp/watch/sm9534269)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm10574807)|&nicovideo(http://www.nicovideo.jp/watch/sm12432814)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12603999)|&nicovideo(http://www.nicovideo.jp/watch/sm16542257)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm16566340)|
+-&b(){踊り子シリーズ}
+|&nicovideo(http://www.nicovideo.jp/watch/sm2223476)|&nicovideo(http://www.nicovideo.jp/watch/nm3199521)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4861040)|&nicovideo(http://www.nicovideo.jp/watch/sm10328888)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm10393226)|&nicovideo(http://www.nicovideo.jp/watch/sm11119916)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm13174804)|&nicovideo(http://www.nicovideo.jp/watch/sm13227614)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm13670888)|&nicovideo(http://www.nicovideo.jp/watch/sm16205496)|
+-&b(){アレンジ曲}
+|&nicovideo(http://www.nicovideo.jp/watch/sm4651096)|&nicovideo(http://www.nicovideo.jp/watch/sm4839818)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5673362)|&nicovideo(http://www.nicovideo.jp/watch/sm13727736)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm7282930)|
+
+**コメント
+- 情熱Ｐのアコギはマジ最高−！  -- 名無しさん  (2008-11-15 09:02:15)
+- つっ次わ、悪ノPの物語（４曲構成）最後の曲、「Re_birthday」やって下さい！！お願いします！！  -- 名無しさん  (2009-05-09 11:40:45)
+- コンチータ様、やっぱりあなたでしたかw  -- 名無しさん  (2009-06-16 02:18:09)
+- 花を枕にってミクの曲は情熱Pだっけ？  -- 名無しさん  (2009-09-27 01:32:02)
+- 悪ノ召使Append鳥肌ものでした！  -- 何処某  (2011-09-21 16:54:08)
+- 悪ノシリーズアレンジ版聴きました・・・すっげぇよかった・・・・・冗談抜きでＣＤ化してほしい。  -- 名無しさん  (2011-10-24 23:34:07)
+- 踊り子シリーズ最終きたね！！  -- 名無しさん  (2011-11-19 12:56:37)
+#comment()

@@ -1,0 +1,34 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/3647392" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"></iframe><a target="_blank" href="http://www.nicovideo.jp/mylist/3647392">【ニコニコ動画】作ったもの</a>)
+
+**特徴
+-アーティスト名は&bold(){wara}で、P名もそのままそこからきている
+-初音の民のために葱神教の曲を作る
+-明るい曲を作るのは、ちょっと苦手
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/tetracross]]（「わら」表記）
+
+**曲
+#list_by_tag(waraP,100,sort=furigana)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm1591650){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm1384787){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm1942767){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm2193167){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2757266){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm3067546){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3455638){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm3857939){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4186000){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm4760254){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4910561){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm5265124){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5892602){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm6027113){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6047117){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm7624724){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7754618){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm8561367){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9531089){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm10427662){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/nm17285921){340,185}|
+
+**コメント
+- 久々に隠れた神アーティスト見つけた！なんでもっと評価されないのかが不思議すぎる!!　ここには貼ってないけど『雨をまっているの』と『止水の湖』は鳥肌もの  -- 名無しさん  (2009-02-06 16:07:35)
+- 【天使の天国】はマジで良曲。一度は聞くべき。  -- 名無しさん  (2009-02-08 20:54:11)
+- 止水の湖はなんでないのーっ！？  -- ふみ  (2009-02-12 07:05:36)
+- 『迷い森夜に二首梟』もいい曲  -- 名無しさん  (2012-10-04 12:07:53)
+- ほんと「天使の天国」は皆に是非聞いてほしい  -- 名無しさん  (2012-10-07 23:29:16)
+#comment()

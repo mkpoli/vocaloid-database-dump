@@ -1,0 +1,76 @@
+#right(){&furigana(XPlorez)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/4193474" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/4193474">【ニコニコ動画】X-Plorez</a></iframe>)|
+
+**特徴
+作り手名：『&u(){X-Plorez}』(&u(){えくすぷろれ})
+-ユニット名はフランス語のexplorez（探求する）に由来するそう。（公式ページより）
+-音楽同人サークル「&bold(){うさころにー}」では、&bold(){ぶちうさ}名義で活動を行っている。
+-2008年1月、「[[MIA VOCE]]」にてボカロデビュー。
+-使用合成音声は、[[初音ミク]]、[[鏡音リン・レン]]、[[巡音ルカ]]、[[GUMI>megpoid]]、[[KAITO]]。
+//-当初は作詞、作曲、編曲、ボーカル、コーラス、ギター、ベース、シンセ、プログラミング担当の&bold(){RIO}氏と、ミキシング、マスタリング、SE、作曲段階からの意見番担当の&bold(){KOW}氏、ボーカルとHP担当の&bold(){SAK}氏から成る3名のユニットだった。
+-当初は作詞・作編曲・ボーカル・コーラス・ギター・ベース・シンセ・プログラミング担当の&bold(){RIO}氏と、ミキシング・マスタリング・SE&co(){・作曲段階からの意見番}担当の&bold(){KOW}氏、ボーカル・HP担当の&bold(){SAK}氏から成る3名のユニットだった。
+--その後、2011年8月にイラスト・動画担当の&bold(){アイラ}氏が正式メンバーとして加入し、SAK氏が脱退した。
+-ロック、ポップ、テクノ、ボサノバ、アコースティックなど、手掛けるジャンルは幅広い&co(){が、どれもいまひとつ再生数が伸び悩んでいた}。
+-&co(){だがついに}「[[Mikunologie]]」が自身初の殿堂入り作品となる。
+-P自身による歌もかなり本格的。 → [[歌い手としてのX-Plorez氏（ニコニコ動画@歌い手まとめ）>>http://www41.atwiki.jp/niconico_singer/pages/398.html]]
+
+**リンク
+//-個人HP、PIAPRO、YouTube等ある場合は、ここに。当wiki以外のサイトへリンクを貼る場合は必ず「>>」で別ウインドウでリンクしてください。
+-[[ニコニコ動画>>https://www.nicovideo.jp/user/4055251]]
+-[[YouTube>>http://www.youtube.com/user/xplorezz]]
+-[[PIAPRO>>http://piapro.jp/xplorez]]
+-[[Twitter>>http://twitter.com/xplorez/]]
+-[[公式ホームページ「X-PLOREZ」>>http://x-plorez.com/]]
+-[[公式ブログ「lqX-ぇくすプロxレ-Xpl」>>http://xplorez.blog45.fc2.com/]]
+//-[[muzie（mp3等のファイル配布先）>>http://www.muzie.co.jp/cgi-bin/artist.cgi?id=a056241]]
+
+**曲
+#list_by_tag(X-Plorez,100,sort=furigana)
+
+**CD
+#list_by_tag(X-PlorezCD,100,sort=furigana)
+
+**動画
+#region(close,2008-2010)
+|&nicovideo(sm1956467)|&nicovideo(sm2038859)|
+|&nicovideo(sm2181317)|&nicovideo(sm2413448)|
+|&nicovideo(sm2429141)|&nicovideo(sm2481971)|
+|&nicovideo(sm2786323)|&nicovideo(sm3417372)|
+|&nicovideo(sm4216478)|&nicovideo(sm4487356)|
+|&nicovideo(sm4859566)|&nicovideo(sm5106524)|
+|&nicovideo(sm6195725)|&nicovideo(sm6803064)|
+|&nicovideo(sm6840231)|&nicovideo(sm12353261)|
+|&nicovideo(sm12476122)|&nicovideo(sm12735381)|
+#endregion
+#region(close,2011-2015)
+|&nicovideo(sm13336044)|&nicovideo(sm13799252)|
+|&nicovideo(sm14203501)|&nicovideo(sm15320478)|
+|&nicovideo(sm17317642)|&nicovideo(sm18947371)|
+|&nicovideo(sm18990537)|&nicovideo(sm19707227)|
+|&nicovideo(sm20225109)|&nicovideo(sm20971786)|
+|&nicovideo(sm21716219)|&nicovideo(sm22580705)|
+#endregion
+|&nicovideo(sm33361809)|&nicovideo(sm33552795)|
+|&nicovideo(sm33589527)|&nicovideo(sm33779970)|
+|&nicovideo(sm34317166)|&nicovideo(sm36164780)|
+|&nicovideo(sm37778042)||
+
+**関連タグ内の更新履歴
+#region(close,関連タグ内の更新履歴)
+関連タグ内の更新履歴
+※「X-Plorez」「X-PlorezCD」タグ内で最近編集やコメントのあった記事を新しい方から10件表示しています。
+#list_by_tagsearch(X-Plorez,X-PlorezCD,sort=timestamp,sort2=desc,errmsg=まだ曲、CDが登録されていません。,or,10)
+#endregion
+
+**コメント
+//-うろたんだー歌ってた、普通にうめえｗ
+//- ↑のコメントは特徴の欄にあったのですがコメントっぽいので移しておきました。  -- 名無しさん  (2008-02-27 00:50:45)
+//- お願い☆プロデューサーも追加してあげてｗ  -- 名無しさん  (2008-04-23 17:17:27)
+- X-Plorezさんの曲大好きです^ ^ もっと 色んな人に聴いてほしい!!  -- 梨緒  (2009-09-23 11:52:37)
+- iTs配信おめでとうございます。&co(){『[[エクスプロリズム]]』の項目、作成しました。}  -- 名無しさん  (2009-11-01 00:46:53)
+- ＳＡＫさん入ったので今は３人組みですよ！  -- 名無しさん  (2010-08-14 15:41:21)
+#comment()

@@ -1,0 +1,108 @@
+#right(){&furigana(くせもの) &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/3158085" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/3158085">【ニコニコ動画】Vocaloid作品集-by Kusemono</a></iframe>)
+
+
+**特徴
+-恋する女の子から無気力男まで鮮やかに描く、卓越した作詞センス。
+-2009年9月　学生時代のサークルの同僚 [[en>en/作り手]] 氏とユニット &b(){SWANTONE} を結成。
+-2009年12月　SWANTONE結成時の代表曲「[[アンバランスコミュニケーション]]」が、海外コミュニティ Vocaloidism で &b(){One Week Wonder of the Year} という微妙な賞を獲得。
+-2009年12月　自身のルーツミュージックと語るゲームミュージック愛が実り、アレンジ曲「[[Magical Sound Shower]]」が「Project DIVA Arcade」のロケテスト採用曲に加えられた。
+
+**リンク
+-[[Twitter>>http://twitter.com/kusemono_st]]
+-[[PIAPRO>>http://piapro.jp/kusemono]]
+-[[SWANTONE>>http://www.ninjaguy.jp/swantone/]]
+-[[ホームページ>>http://ninjaguy.jp/]]
+
+**曲
+#list_by_tag(曲者P,100,sort=furigana)
+
+**CD
+#list_by_tag(曲者PCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm1284033){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm1794662){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm1944196){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm2104119){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm8230122){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm8707393){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm10443413){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm10585646)|
+
+***カバーアレンジ
+|&nicovideo(http://www.nicovideo.jp/watch/nm3043842)|&nicovideo(http://www.nicovideo.jp/watch/sm7569338)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12616770)|&nicovideo(http://www.nicovideo.jp/watch/sm20624647)|
+
+**コメント
+- なぜアンバランスコミュニケーションがないのか…  -- 名無しさん  (2009-09-30 07:58:55)
+- 曲、詞、調声、音、みんなハイレベルな人だと思うんだけど、dollydollyなんで伸びなかったんだろ、PVも力作なのに勿体無い。&br()ちなみに、Magical Sound Shower大好きです。  -- 名無しさん  (2009-12-22 00:14:52)
+- ↑ってなこと書いてたらMagical Sound Shower、DIVA-ACロケテスト採用おめでとうございます。　嬉しいなあｗ  -- 名無しさん  (2009-12-24 21:51:06)
+- でそのMSSがここに歌詞無い件。だれかたのむｗ  -- しゅーにゃん  (2009-12-28 21:42:47)
+- オリジナル曲じゃないからーって思ってたけど、歌詞はオリジナルだから良いのかな。歌詞は公開されてないから、動画から書き出さないとだけど  -- 名無しさん  (2009-12-28 21:59:47)
+- lemon.アップされないかなぁ  -- 名無しさん  (2010-04-26 21:48:15)
+- lemon.……！  -- 名無しさん  (2010-05-03 11:54:28)
+- lemon. お願いします  -- 名無しさん  (2010-05-13 14:53:55)
+- lemonｲｲ！！！  -- 名無しさん  (2010-05-14 20:07:50)
+- 今更ですがコメント行で歌詞をページの下の方にぶち込みました　どっか書く場所あればどなたか適当にコピペしてください  -- 名無しさん  (2010-08-15 04:23:36)
+- ↑ＭＳＳです  -- 名無しさん  (2010-08-15 04:23:48)
+- カルテットはどうした  -- 名無しさん  (2011-05-16 20:18:38)
+- 2010-08-15付でMSS歌詞を書き出ししてくださった方、ページ作成しましたので使わせていただきました。ありがとうございます。（東方BGMにオリジナル歌詞を載せた曲ページなども作成されるようになったので、MSSもOKかと判断しました）  -- moto  (2013-06-24 02:18:35)
+#comment()
+
+
+
+
+//the shiny world there is.
+//passing blue breeze.
+//splashing waves singing.
+//the sound is a MAGIC.
+//
+//肩をすべる風が　波の歌を運ぶ
+//街並みが途切れて　青の世界広がる
+//
+//Magic　時間がこぼれだす
+//Magic　駆け抜けた波間に
+//Magic　世界を包み込む
+//Magic　きらめく音のシャワー
+//
+//
+//the shiny world there is.
+//passing blue breeze.
+//splashing waves singing.
+//the sound is a MAGIC.
+//
+//砂浜の足跡　脱ぎ捨てたサンダル
+//振り上げたかかとで　青のしずく目覚める
+//
+//Magic　ココロがこぼれだす
+//Magic　打ち寄せる波間に
+//Magic　カラダを抱きしめる
+//Magic　はじける音のシャワー
+//
+//
+//傾く　視界に
+//プリズム　虹を引く
+//
+//*サビ*(歌詞なし)
+//
+//預けた　背中を
+//くすぐる　引き潮
+//
+//傾く　視界に
+//指先　雲を引く
+//
+//
+//the shiny world there is.
+//passing blue breeze.
+//splashing waves singing.
+//the sound is a MAGIC.
+//
+//肩をすべる風が　波の歌を運ぶ
+//耳澄ませばそこに　青の世界広がる
+//
+//Magic　時間がこぼれだす
+//Magic　駆け抜けた波間に
+//Magic　世界を包み込む
+//Magic　きらめく音のシャワー
+//
+//Magic　ココロがこぼれだす
+//Magic　打ち寄せる波間に
+//Magic　カラダを抱きしめる
+//Magic　はじける音のシャワー

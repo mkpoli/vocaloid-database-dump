@@ -1,0 +1,70 @@
+#right(){&furigana(ゆにめもP) &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/3920588" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/3920588">【ニコニコ動画】uniMemo公開作品</a></iframe>)
+
+**特徴
+-打ち込み＋ギターのスタイル。
+-ボカロデビュー作の中毒性は異常。
+-調教が独特なことから好みが分かれるが、VOCALOIDを喋らせる手法は群を抜いている。
+-VOCALOIDでインストゥルメンタルを作成するなど、新しい可能性を見出している。
+-本人のギターテクニックももちろんのこと、バイオリンを自由自在に操る協力者の西崎氏の評判も高い。
+-ルカが仲間入りして早速ネタの「巡音ルカと英語でおしゃべり！」を投稿。これがルカ関連ネタものでは初の殿堂入りを達成。
+-ニコニコ動画の「下田麻美ちゃんねる」にて下田麻美さんとのインタビュー形式の談話に、[[悪ノP]]と出演。さわやかな男性と判明。
+
+**リンク
+-[[ゆにログ（作者ブログ）>>http://unimemopro.blog129.fc2.com/]]
+-[[旧ブログ>>http://unimemo.net/blog/]]
+-[[PIAPRO>>http://piapro.jp/uniMemo]]
+-[[MySpace>>http://www.myspace.com/unimemory]]
+-[[twitter>>http://twitter.com/unimemo_p]]
+
+**曲
+#list_by_tag(ゆにめもP,100,sort=furigana)
+
+**CD
+#list_by_tag(ゆにめもPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm2137739)|&nicovideo(http://www.nicovideo.jp/watch/sm2476112)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2606182)|&nicovideo(http://www.nicovideo.jp/watch/sm2766522)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3206303)|&nicovideo(http://www.nicovideo.jp/watch/sm4160802)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4249279)|&nicovideo(http://www.nicovideo.jp/watch/sm4271005)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6606048)|&nicovideo(http://www.nicovideo.jp/watch/sm7419720)|
+
+&bold(){コラボ}
+|&nicovideo(http://www.nicovideo.jp/watch/sm5378871)|&nicovideo(http://www.nicovideo.jp/watch/sm4217141)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5630948)|&nicovideo(http://www.nicovideo.jp/watch/sm6206827)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7896909)|&nicovideo(http://www.nicovideo.jp/watch/sm8923574)|
+
+&bold(){カバー}
+|&nicovideo(http://www.nicovideo.jp/watch/sm4469901)|&nicovideo(http://www.nicovideo.jp/watch/sm8097121)|
+
+&bold(){ネタ動画}
+|&nicovideo(http://www.nicovideo.jp/watch/sm5994039)|&nicovideo(http://www.nicovideo.jp/watch/sm9225689)|
+
+**コメント
+- 息吹にも触れてほしいな。「西崎」とか。  -- 名無しさん  (2008-04-06 00:49:50)
+- 「またね」の歌詞わかんね～～  -- 名無しさん  (2008-04-12 03:42:15)
+- 息吹はマジで神…ゆにめも氏も西崎も  -- 名無しさん  (2008-04-12 07:23:51)
+- ゆめにもＰだと思ってた（汗  -- 名無しさん  (2008-09-30 22:48:03)
+- リンレンラリリンは良過ぎるZE！  -- 名無しさん  (2008-11-26 16:30:08)
+- おしゃべりかわいいい！リンレンラリリンめっちゃすき！  -- 名無しさん  (2009-06-11 16:29:53)
+- リンレンラリリンは個人的ネ申  -- 霞観  (2009-08-14 16:27:45)
+- 新曲(?)の化粧台のﾏﾘｵﾈｯﾄが素晴らし過ぎる…!! &br()今までの曲とは違っててこんな独特な感じもまた良い…+  -- 名無しさん  (2009-08-17 07:50:17)
+- ゆにめもさんの曲かぁいい♪  -- ひぐらし  (2009-08-25 17:11:24)
+- 息吹には思わず愕然とした・・・・いろんな意味ですげえ  -- 名無しさん  (2009-08-25 17:18:54)
+- 化粧台のマリオネットが良かった(´¬`)ニコニコにうpしてほしーなー  -- 名無しさん  (2009-09-09 13:27:42)
+- ゆにめもPのリンの調教すごく好み  -- 名無しさん  (2010-01-15 02:21:58)
+- 牛乳飲め！のおしゃべりかぁいい！  -- リンリンＬＯＶＥ  (2010-01-20 17:04:20)
+- あれ？「なんてね！」って曲がのってない・・・。  -- リンレン好きの人  (2010-08-29 13:32:47)
+- ものすごく可愛らしいサウンドをお作りになるもんだからつい最近まで勝手に女性の方だと思い込んでたｗｗｗｗ  -- 名無しさん  (2010-10-03 10:31:58)
+- 悪ノPとのコラボ曲が好き!!  -- リン可愛いww  (2010-11-24 01:28:14)
+- ネクサスのボーナストラック（トラック20）のトークロイド調教はこの人で間違いないのかな？  -- 名無しさん  (2011-02-11 09:59:12)
+- トークロイドスゴい。曲もお喋りも好き！  -- 名無しさん  (2011-04-06 10:09:58)
+- たのむから、あの云々悪マリンはなしで頼む。  -- 鮎  (2011-09-11 12:10:58)
+- ↑私は大好きですが…  -- 名無しさん  (2012-02-14 10:05:32)
+- まだここに無いですが『キューティー・ポップ！』っていう曲のトクロ調教(特にレン)に惚れた！  -- まー  (2012-08-13 20:07:28)
+- 化粧台のマリオネット好きよ  -- 名無しさん  (2013-03-16 19:55:10)
+- 息吹大好きです。  -- 元禄  (2014-09-06 10:32:47)
+- キューティー・ポップ！追加して欲しい  -- 名無しさん  (2017-08-29 16:15:18)
+- 「キューティ・ポップ！」追加しました。  -- ↑と同じ人  (2018-01-05 16:16:11)
+#comment()

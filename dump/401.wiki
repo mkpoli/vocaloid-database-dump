@@ -1,0 +1,87 @@
+#right(){&furigana(CleanTears)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/8157026" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/8157026">【ニコニコ動画】Clean Tears 関連作品集</a></iframe>)
+
+**特徴
+作り手名：『&u(){Clean Tears}』（&u(){くりーん　てぃあーず}）
+-&b(){勝史}とも。
+-[[らぶざわP]]とともにサークル「はちみつれもん」に所属するP。
+-トランスサウンド、クラブサウンド系をメインに投稿している。
+-使用合成音声は、初音ミク・巡音ルカ・IA・蒼姫ラピス。
+
+**リンク
+-[[作者ホームページ（S.C.X Homepage）>>https://scx-ct.net/]]
+-[[Twitter>>https://twitter.com/cleantears/]]
+-[[ニコニコ>>https://www.nicovideo.jp/user/1313476]]
+-[[YouTube>>https://www.youtube.com/@CleanTears]]
+-[[PIAPRO>>https://piapro.jp/bpms]]
+//-[[muzie>>http://www.muzie.co.jp/cgi-bin/artist.cgi?id=a003738]]
+-[[KarenT>>https://karent.jp/artist/pp000020]]
+//-[[Clean Tears のブロマガ（ブロマガ）>>https://ch.nicovideo.jp/cleantears]]
+
+**曲
+#list_by_tagsearch(Clean Tears,sort=furigana2,errmsg=まだ曲が登録されていません。,and,100)
+
+**CD
+#list_by_tagsearch(Clean TearsCD,sort=furigana2,errmsg=まだCDが登録されていません。,and,100)
+
+**動画
+|&nicovideo(sm1169503)|&nicovideo(sm1526931)|
+|&nicovideo(sm2917608)|&nicovideo(sm5514532)|
+|&nicovideo(sm6153997)|&nicovideo(sm7808771)|
+|&nicovideo(sm10136488)|&nicovideo(sm10493043)|
+|&nicovideo(sm12726379)|&nicovideo(sm14187384)|
+|&nicovideo(sm14583498)|&nicovideo(sm14660740)|
+|&nicovideo(sm15467645)|&nicovideo(sm16180389)|
+|&nicovideo(sm16325548)|&nicovideo(sm16450147)|
+|&nicovideo(sm16540589)|&nicovideo(sm17485142)|
+|&nicovideo(sm17574798)|&nicovideo(sm18357549)|
+|&nicovideo(sm18511645)|&nicovideo(sm18711382)|
+|&nicovideo(sm19626460)|&nicovideo(sm19660962)|
+|&nicovideo(sm21153730)|&nicovideo(sm21344067)|
+|&nicovideo(sm23245835)|&nicovideo(sm23312398)|
+|&nicovideo(sm24362563)|&nicovideo(sm25177622)|
+|&nicovideo(sm26750945)|&nicovideo(sm26842831)|
+|&nicovideo(sm26885198)|&nicovideo(sm28223979)|
+|&nicovideo(sm29080722)|&nicovideo(sm29303551)|
+|&nicovideo(sm29379546)|&nicovideo(sm29986597)|
+|&nicovideo(sm30250675)|&nicovideo(sm31485778)|
+|&nicovideo(sm31654156)|&nicovideo(sm32347786)|
+|&nicovideo(sm32982184)|&nicovideo(sm33597778)|
+|&nicovideo(sm34328270)|&nicovideo(sm35431143)|
+|&nicovideo(sm35480451)|&nicovideo(sm36089758)|
+|&nicovideo(sm37018208)|&nicovideo(sm37913066)|
+|&nicovideo(sm39774721)|&nicovideo(sm40354859)|
+|&nicovideo(sm40809630)|&nicovideo(sm41186205)|
+|&nicovideo(sm41948946)|&nicovideo(sm42573935)|
+|&nicovideo(sm43153171)|>|
+
+**関連タグ内の更新履歴
+#region(close,関連タグ内の更新履歴)
+関連タグ内の更新履歴
+※「Clean Tears」「Clean TearsCD」タグ内で最近編集やコメントのあった記事を新しい方から10件表示しています。
+#list_by_tagsearch(Clean Tears,Clean TearsCD,sort=timestamp,sort2=desc,errmsg=まだ曲、CDが登録されていません。,or,10)
+#endregion
+
+**コメント
+- ピアプロにあるミク曲「Acceleration」はオススメ。  -- k  (2009-06-08 10:13:08)
+- Pusse cafeが好きだな  -- 名無しさん  (2011-04-17 16:48:09)
+- 虹はやばい  -- 名無し  (2011-05-05 02:10:56)
+- S.E.K.Nを聴いて好きになりました。Tears of palmとかもすごいいい曲。なのに殿堂入りしないなんて・・・  -- 名無しさん  (2011-08-01 22:38:41)
+- アルバム4 on the floorに入っているNew Worldが好きです！  -- Am  (2012-05-24 01:30:19)
+- Clean Tears様の、透き通るようにきれいな初音ミクの声が大好きです。  -- 雲来三琴  (2012-08-04 20:10:00)
+- Lightsを聴いた時の衝撃は一生忘れない  -- 鼻毛太郎  (2013-01-12 22:47:48)
+- どの曲もかっこいい！  -- 名無しさん  (2013-07-22 02:52:34)
+- 2009年発表の「Road of 4 elements」の１曲目「Dream navi」がとてつもなくいい曲の予感だが・・・特設サイトで少ししか聴けない  -- 名無しさん  (2013-09-29 11:58:53)
+- turn around書いたのこの人？  -- 名無しさん  (2013-12-06 22:34:33)
+- tranquilizerとかBeyond the wavesとか最高だと思う！  -- 味噌  (2014-03-16 01:10:00)
+- Vermilion Sky 買いましたよ！最高でした！  -- 名無しさん  (2017-04-05 02:13:30)
+- 水鏡の庭  -- 名無しさん  (2017-11-17 16:56:47)
+- ↑とimpureが特に好きです！  -- 名無しさん  (2018-03-14 14:57:59)
+- この人の作風とミクの調教、好きだなあ。  -- 名無しさん  (2018-04-22 17:42:23)
+- いまや最古参の一人ですね　技術的にはtop層の一人でしょ　最近は良い感じにpopで凄く好きです　  -- takoruka2  (2018-06-24 18:46:55)
+- こんなに美しいミクなかなかいない  -- 名無しさん  (2020-07-13 09:15:50)
+#comment()

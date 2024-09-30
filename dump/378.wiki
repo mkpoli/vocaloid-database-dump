@@ -1,0 +1,25 @@
+#right(){&furigana(LOVEP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/4363746" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/4363746">【ニコニコ動画】オリジナル曲</a></iframe>)
+
+**特徴
+作り手名：『&u(){LOVE&P}』
+-進化の度合いがハンパない
+-「[[前へ>前へ/LOVE&P]]」以外も聞きましょう
+
+**リンク
+-[[PIAPRO（rosemary）>>http://piapro.jp/rosemary]]
+
+**曲
+#list_by_tag(Love＆P,100,sort=furigana)
+
+**動画
+|&nicovideo(sm2435965)|&nicovideo(sm2206189)|
+|&nicovideo(sm2081332)|&nicovideo(sm2022701)|
+|&nicovideo(sm1295732)|&nicovideo(sm1256431)|
+
+**コメント
+#comment()
