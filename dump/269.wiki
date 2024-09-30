@@ -1,0 +1,37 @@
+#right(){&furigana(InTheMoment)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm1555117)|&nicovideo(sm12171902)|
+|&nicovideo(sm2284732)|&youtube(https://www.youtube.com/watch?v=KJv0pQMuVWE){342,187}|
+作詞：dds + [[SW>kaya/作り手]]
+作曲：[[shu-tP]]
+編曲：[[shu-tP]]
+唄：[[MEIKO]]
+
+**曲紹介
+曲名：『&u(){In The Moment}』（&u(){いん　ざ　もーめんと}）
+-Glint Of Soundとして活動を開始する以前に、shu-tPとkayaさんが組んでいたユニット・&br()&bold(){Crescent Mirror}で手がけた楽曲。（[[ソース>>https://twitter.com/shu_sonicwave/status/1324324737422557184]]）
+
+**歌詞
+きっと消えることのない
+この気持ちを星空に
+散りばめて愛を語ろう
+青い月明かりの下
+
+感じる時
+伝える時
+奏でる時を
+流れに邪魔されないで過ごしていきたい 
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+**コメント
+#comment()
+
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)

@@ -1,0 +1,52 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/3277076" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/3277076">【ニコニコ動画】cmmzのリスト</a></iframe>)
+
+**特徴
+-オリジナル曲の他にYMO関連の曲や洋楽のカバーも手がける。
+-主な歌い手は、初音ミクと英語版のPrima。
+-動画はキオ式ミクを使った自作のものが多い。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/cmmz]]
+
+**曲
+#list_by_tag(cmmz,100,sort=furigana,errmsg=まだ曲が登録されていません。)
+
+**CD
+#list_by_tag(cmmzCD,100,sort=furigana,errmsg=まだCDが登録されていません。)
+
+**動画
+#region(close,オリジナル曲 2007-2008年)
+-オリジナル曲 2007-2008年
+|&nicovideo(http://www.nicovideo.jp/watch/sm1852024)|&nicovideo(http://www.nicovideo.jp/watch/sm2246383)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2280208)|&nicovideo(http://www.nicovideo.jp/watch/sm2784450)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2833063)|&nicovideo(http://www.nicovideo.jp/watch/sm2895991)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3025273)|&nicovideo(http://www.nicovideo.jp/watch/sm3640506)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4180371)|&nicovideo(http://www.nicovideo.jp/watch/sm4344632)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4603617)|&nicovideo(http://www.nicovideo.jp/watch/sm4734626)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4774699)||
+#endregion
+#region(close,オリジナル曲 2009年)
+-オリジナル曲 2009年
+|&nicovideo(http://www.nicovideo.jp/watch/sm6674092)|&nicovideo(http://www.nicovideo.jp/watch/sm7061649)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7652706)||
+#endregion
+#region(open,オリジナル曲 2010年)
+-オリジナル曲 2010年
+|&nicovideo(http://www.nicovideo.jp/watch/sm9381677)|&nicovideo(http://www.nicovideo.jp/watch/sm9489220)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9569612)|&nicovideo(http://www.nicovideo.jp/watch/sm11574579)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12622771)||
+#endregion
+#region(open,オリジナル曲 2011年)
+-オリジナル曲 2011年
+|&nicovideo(http://www.nicovideo.jp/watch/sm14802579)|
+#endregion
+#region(close,その他の曲)
+-その他の曲
+|&nicovideo(http://www.nicovideo.jp/watch/sm8469928)|&nicovideo(http://www.nicovideo.jp/watch/sm5576174)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6129607)|&nicovideo(http://www.nicovideo.jp/watch/sm9798440)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm11922962)|&nicovideo(http://www.nicovideo.jp/watch/sm14685972)|
+#endregion
+
+**コメント
+#comment()

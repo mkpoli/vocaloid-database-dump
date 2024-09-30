@@ -1,0 +1,32 @@
+#right(){&furigana(ねじ) &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/3640983" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/3640983">【ニコニコ動画】作った曲リスト</a></iframe>)
+
+**特徴
+-作る曲は退廃的、幻想的な雰囲気を醸し出す。
+-カラオケ化投票に参戦した3曲（「[[不思議な幸せ]]」「[[黄昏サーカス]]」「[[爪櫛]]」）とも配信が決定。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/neji]]
+-[[作者ブログ（ネジ屋本舗）>>http://nejifreedom.blog5.fc2.com]]
+
+**曲
+#list_by_tag(ネジP,100,sort=furigana)
+
+**CD
+#list_by_tag(ネジPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm1636933){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm1833913){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2392987){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm2410628){340,185}|
+
+**コメント
+- 黄昏サーカスは一聴の価値あり  -- 名無しさん  (2008-04-24 14:40:10)
+- 不思議な幸せはなんか心を侵される感じがする  -- 名無しさん  (2008-05-09 21:50:28)
+- …戻ってきてくれないかなぁ。  -- 名無しさん  (2008-08-16 02:44:50)
+- 最近爪櫛で惚れ直した　ハズレなしですよー…三曲だけだけど。歌詞も曲もすごすぎる　好きすぎる  -- 名無しさん  (2009-02-13 23:30:52)
+- もっと評価されるべきっ…！不思議な幸せはイントロから惚れました  -- 名無しさん  (2009-02-15 13:46:23)
+- もっと評価されるべき！最高！  -- 名無しさん  (2009-03-06 11:37:40)
+- もっと評価されるべき!!3曲とも大好きです。ネジPさんの新曲が聴きたい(`ω´)  -- 名無しさん  (2012-08-09 16:55:41)
+- 爪櫛は神だと思う&#8252;  -- 名無しさん  (2012-08-24 12:48:53)
+- 爪櫛はほんとにいい(^-^)  -- 魅  (2012-09-22 12:47:54)
+#comment()

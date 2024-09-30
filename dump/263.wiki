@@ -1,0 +1,42 @@
+#right(){&furigana(awk)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/3018909" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/3018909">【ニコニコ動画】VOCALOID作品集</a></iframe>)
+
+**特徴
+作り手名『&u(){awk}』（&u(){オーク}）
+-カバー・替え歌専門のP。
+-どのVOCALOIDの調声も非常にレベルが高く、”よく調教されたうｐ主”タグの常連。
+-ただし（？）選曲は非常にお茶目で“神調教の無駄遣い”タグも同時に付与されている。
+-友人「祐」氏によく絵を頼んでおり、こちらも『友神』と呼ばれるほどレベルが高い。
+
+**リンク
+-[[作者ホームページ（私的裏庭）>>http://pyawk.s1001.xrea.com/]]
+--[[旧作者ホームページ>>http://pyawk.if.land.to/]]
+-[[ブログ>http://pyawk.blog16.fc2.com/]]
+-[[Twitter>https://twitter.com/pyawk]]
+-[[PIAPRO>>https://piapro.jp/pyawk]]
+-[[公開プロフィール（ニコニコ動画）>>https://www.nicovideo.jp/user/1353089]]
+
+**曲
+#list_by_tag(awk,100,sort=furigana)
+
+**CD
+#list_by_tag(awkCD,100,sort=furigana)
+
+**動画
+|&nicovideo(sm1594618)|&nicovideo(sm1796078)|
+|&nicovideo(sm1880023)|&nicovideo(sm3146172)|
+|&nicovideo(sm3348708)|&nicovideo(sm4114301)|
+|&nicovideo(sm3428468)|&nicovideo(sm3604990)|
+|&nicovideo(sm4468648)|&nicovideo(sm5152386)|
+
+
+**コメント
+- メカっぽさがなく一言一言にアクセントを付けたりと、awk氏の調教は本当に神。  -- 名無しさん  (2008-06-27 18:15:32)
+- カバーばかりのせいで、ここへの登録曲数は少ない  -- 名無しさん  (2008-09-26 01:07:30)
+- 滑らかでリアルさがあって素敵過ぎる！！！！　  -- ひつじ  (2009-01-12 23:20:58)
+- VOCALOIDのニコニコ動画流星群ってこの人だったのか・・・!!!  -- 名無しさん  (2009-07-15 21:54:57)
+#comment()

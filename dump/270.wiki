@@ -1,0 +1,35 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/2759233" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/2759233">【ニコニコ動画】俺節なリスト</a></iframe>)
+
+**特徴
+-メタラー。80～90年代のジャパメタを敬愛する。
+-主にMEIKOを使用し、ヘヴィメタルな曲を多数作り上げていく。
+-曲中のギターは自ら弾いている。
+-ニコニコ動画の鏡音リン・レンプレゼント企画の当選者。
+
+**リンク
+//-[[作者ホームページ（mp3配布先）>>http://www.geocities.jp/genjin999/]]
+-[[PIAPRO>>http://piapro.jp/BingoBongo]]
+
+**曲
+#list_by_tag(BingoBongoP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(BingoBongoPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm1171660){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm1193617){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm1267569){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm1382321){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm1597440){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm2025484){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2487625){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm3789511){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4426257){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm5720089){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6914338){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm7266855){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm8275523){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm10004024){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm10802729){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm11601184){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm13506162){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm14518484){340,185}|
+
+**コメント
+- コメント０かよマジ信じらんねぇこういうpはもっともっと評価されるべきだ  -- 名無しさん  (2013-03-26 18:30:52)
+- 姐党は基本シャイなのよ…動画で燃えてコメ叫ぶぞ!  -- 姐党+親衛隊  (2013-03-31 23:25:42)
+- メタルの要とも言えるギターソロには毎回気合い入れてんなー  -- 名無しさん  (2013-03-31 23:58:16)
+#comment()

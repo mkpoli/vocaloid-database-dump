@@ -1,0 +1,38 @@
+#right(){&furigana(りんご) &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/3160504" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"></iframe><a target="_blank" href="http://www.nicovideo.jp/mylist/3160504">【ニコニコ動画】ボーカロイド・オリジナル曲</a>)
+
+**特徴
+-やさぐれたミク（通称：エコノミク）に、主にやさぐれた歌を歌わせる。
+-自作イラストのミクのやさぐれぶりがまた曲に合う。
+
+**リンク
+//-[[作者ホームページ>>http://syararato.jugem.jp/]]
+// リンク切れ
+//-[[PIAPRO（毒林檎）>>http://piapro.jp/dokuringo]]
+-[[PIAPRO>>http://piapro.jp/ringos]]
+-[[Twitter>>https://twitter.com/rngn_music]]
+
+**曲
+#list_by_tag(林檎,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(林檎CD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm1334939)|&nicovideo(http://www.nicovideo.jp/watch/sm1405734)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm1445701)|&nicovideo(http://www.nicovideo.jp/watch/sm1502190)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm1793819)|&nicovideo(http://www.nicovideo.jp/watch/sm2128051)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2279063)|&nicovideo(http://www.nicovideo.jp/watch/sm2427164)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2743770)|&nicovideo(http://www.nicovideo.jp/watch/sm3523983)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3640058)|&nicovideo(http://www.nicovideo.jp/watch/sm4170329)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4546464)|&nicovideo(http://www.nicovideo.jp/watch/sm5660538)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5781576)|&nicovideo(http://www.nicovideo.jp/watch/sm11229448)|
+
+**コメント
+- みくぶるの人で通ってるけど林檎ｐが正しいのかな？  -- 名無しさん  (2007-12-31 14:49:36)
+- 自称は林檎みたいですね。　ブログではそっちになってます。  -- 名無しさん  (2008-01-02 23:14:57)
+- むしろ、自称のままPなしで林檎さんて呼ばれることが多いと思います。  -- 名無しさん  (2008-01-14 14:39:15)
+- 最近は癒し系の動画も多いよ。  -- 名無しさん  (2008-03-28 11:53:24)
+- 「恋は戦争」の勝手にアレンジｖｅｒも素敵  -- 名無しさん  (2008-05-04 11:11:54)
+- メリーメリークリスマスの歌詞はまだないのね  -- 名無しさん  (2013-01-10 21:10:19)
+#comment()

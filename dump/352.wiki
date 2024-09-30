@@ -1,0 +1,33 @@
+#right(){&furigana(Crea)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/2467948" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/2467948">【ニコニコ動画】CreaPの作品庫でぃぃゃｗ</a></iframe>)
+
+**特徴
+作り手名：『&u(){Crea}』(&u(){クレア})
+-使用合成音声は、初音ミク、がくっぽいど、KAITO、KAIKO、鏡音レン、鏡音リン、MEIKO
+-ネタでもガチでもボーカロイドを使いこなす。
+-相方の[[azuma]]（ボクP）と協力してひとつの動画を作ることもある
+
+**リンク
+-[[azuma]]氏と、VOCALOIDオンリーサークル「creazuma」を組んでいる。
+-[[PIAPRO>>http://piapro.jp/crea12]]
+
+**曲
+#list_by_tagsearch(Crea,sort=furigana2,errmsg=まだ曲が登録されていません。,and,100)
+
+**CD
+#list_by_tagsearch(CreaCD,sort=furigana2,errmsg=まだCDが登録されていません。,and,100)
+
+**動画
+|&nicovideo(sm2289340)|&nicovideo(sm2043391)|
+|&nicovideo(sm2041929)|&nicovideo(sm2026547)|
+|&nicovideo(sm1977860)|&nicovideo(sm1956419)|
+|&nicovideo(sm1946251)|&nicovideo(sm1887581)|
+|&nicovideo(sm1803610)|&nicovideo(sm1444739)|
+|&nicovideo(sm1067178)|&nicovideo(sm1042518)|
+
+**コメント
+#comment()

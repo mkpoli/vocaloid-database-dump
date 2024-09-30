@@ -1,0 +1,36 @@
+#right(){&furigana(ちえP) &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/28039711" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/28039711">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-可愛らしい曲に定評があり、様々な曲調、音色を駆使する器用さを見せている。
+-特徴としては突拍子もない転調。これを導入してるので曲が上手く際立っている。
+-前々から健康を損ねており、自身のブログで、09年6月にネット上での創作活動そのものを止めることを発表し休養していたが、09年7月からこっそりと復帰。
+-[[マクガフィン]]の一員として活動していたが、2010年10月2日にマクガフィンのブログで解散を発表。今後はメンバー個別で活動していく予定とのこと。
+
+**リンク
+-[[作者サイト>>http://chie.cc]]
+-[[Twitter>>https://twitter.com/chiepomme]]
+-[[KarenT>>http://karent.jp/artist/pp000198]]
+-[[YouTube>>http://www.youtube.com/user/Chiepomme]]
+-[[UTAU楽曲データベース「ちえP」ページ>>http://www24.atwiki.jp/utauuuta/pages/1769.html]]
+
+**曲
+#list_by_tag(ちえP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(ちえPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm1714678)|&nicovideo(http://www.nicovideo.jp/watch/sm1876850)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2083135)|&nicovideo(http://www.nicovideo.jp/watch/sm2235956)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2548913)|&nicovideo(http://www.nicovideo.jp/watch/sm3878834)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4478913)|&nicovideo(http://www.nicovideo.jp/watch/sm4557546)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5615277)|&nicovideo(http://www.nicovideo.jp/watch/sm6913157)|
+
+**コメント
+- 転調多めが好き嫌い分かれるところ。  -- 名無しさん  (2008-10-29 23:38:25)
+- 俺は好きだなぁ。予想できない方に曲を持ってかれる感じが好きだ＞転調  -- 名無しさん  (2008-12-22 12:07:03)
+- ネットでの創作活動停止は残念・・、ゆっくり休んで違う場所で活躍して欲しいな  -- 名無しさん  (2009-05-27 10:26:43)
+- 楽曲以上に本人のキャラクターがいろんな意味で魅力的。  -- 名無しさん  (2010-04-01 04:02:19)
+- ↑可愛くて好きだけどな…本人のキャラも作品も。嫌な人は嫌だろうけどな。  -- 名無しさん  (2010-08-02 18:00:30)
+#comment()

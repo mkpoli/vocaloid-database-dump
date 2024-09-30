@@ -1,0 +1,45 @@
+#right(){&furigana(OPA)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/3140857" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/3140857">【ニコニコ動画】自作曲</a></iframe>)
+
+**特徴
+作り手名：『&u(){OPA}』
+-MEIKO代表曲の1つに数えられる『[[忘却心中]]』を生んだ、伝説のMEIKOマスター。
+-熱さと愁いを兼ね備えたロック曲に定評がある。
+-作詞家の[[Asaki No'9]]氏は実の友人であり、&bold(){0-9}（オーナイン）というユニット名で、作詞 Asaki No'9・作曲 OPA として共に活動している。
+--OPA氏がAsaki No'9氏の詞（『忘却心中』）に惚れ込んだことがきっかけでコラボレーションが始まったと言う。
+//--これまでのMEIKOオリジナル曲も、全て0-9の作品である。
+-好きなアーティストに椎名林檎の名を挙げており、発表曲はどこか東京事変を彷彿とさせる所がある。
+-楽曲中の（特に間奏で魅せる）ギターは、氏による生演奏である。
+
+**リンク
+-[[PIAPRO（opaopa777）>>https://piapro.jp/opaopa777]]
+-[[Twitter>>https://twitter.com/opaopa7777]]
+
+**曲
+#list_by_tag(OPA,100,sort=furigana)
+
+**CD
+#list_by_tag(OPACD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm1098016)|&nicovideo(sm1587618)|
+|&nicovideo(sm2036136)|&nicovideo(sm5152120)|
+|&nicovideo(sm7012231)|&nicovideo(sm7549474)|
+|&nicovideo(sm8441097)|&nicovideo(sm8713569)|
+|&nicovideo(sm9260299)|&nicovideo(sm12649201)|
+|&nicovideo(sm13176959)|&nicovideo(sm16078793)|
+
+**コメント
+- Asaki No'9氏は、ぢょんPやパレットPとのコラボ実績もあるので、項目分けた方がいいと思う。  -- 名無しさん  (2008-04-03 14:00:52)
+- [[Asaki No'9]]氏のページを分けました。  -- tombo  (2008-06-08 04:19:16)
+- snow by snow追加してくれるジェバンニは現れなかったか… &br()OPAさんまじ多才すぎる。好きだ！  -- 携帯ユーザー  (2010-11-06 15:17:50)
+- たまたま通りがかって聴いてみたら超良曲ばかりで驚きました！！！全曲ハズレ無し！MEIKO良すぎる！  -- 名無しさん  (2013-02-23 23:38:41)
+- 『道徳の樹海』とか、本当に神曲だらけ。歌詞もメロディもギタープレイもサビも調声もスゴいと思う。もっと評価されるべき！歌ってみたも何気に好きw  -- 名無しさん  (2013-05-07 23:55:07)
+- めーちゃんを語る上ではこの方は外せないでしょう！  -- 名無しさん  (2014-02-14 19:10:53)
+- 「バラ色の夜明け」が好き  -- 名無しさん  (2014-09-09 15:50:59)
+- 忘却心中好き  -- 名無しさん  (2021-11-11 16:22:35)
+#comment()

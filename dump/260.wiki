@@ -1,0 +1,24 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/3039169" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/3039169">【ニコニコ動画】KYUTARO制作音源</a></iframe>)
+
+**特徴
+-作りこまれたメロディアスな序奏・間奏が秀逸。
+-自身のブログでは猫又球太郎という名前になっている。
+
+**リンク
+-[[作者ブログ>>http://nekomatakyutaro.cocolog-nifty.com/]]
+
+**曲
+#list_by_tag(KYUTARO,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(KYUTAROCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm1247399){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm1548226){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm1740608){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm2228882){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2831951){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm2847308){340,185}|
+
+**コメント
+- 復活うれしいです。  -- 名無しさん  (2009-04-14 20:31:55)
+#comment()

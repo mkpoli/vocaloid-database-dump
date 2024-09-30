@@ -1,0 +1,32 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/4259203" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/4259203">【ニコニコ動画】ミクさん-完成作品</a></iframe>)|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/3345719" scrolling="yes" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/3345719">harunacute</a></iframe>)|
+
+**特徴
+-ガールズポップや優しいメロディの作品を発表しているP。
+-主にポップスを発表しており、そのポップスセンスや女の子視点の歌詞には固定したファンがついている。
+-「[[LEO>LEO/harunacute]]」ではそれまでとは違う疾走感のあるバンドサウンドを発表し人気を得た。
+-アニメ『ARIA』のファンであり作中に使われているボーカル曲を初音ミクでカバーしている曲が多数ある。
+-動画に『ARIA』ファンが集まる場にもなっている。
+-「[[優しい奇跡>優しい奇跡/harunacute]]」は『ARIA』の新しいOPを意識して作られた。
+-2010年5月、遂に「LEO」が自身初の殿堂入り作品となる。
+
+**リンク
+-[[作者ホームページ（みく☆りん感染ファイル検疫所）>>http://tea.s214.xrea.com/txt/damekimi.html]]
+-[[zoome>>http://zoome.jp/harunacute/]]
+-[[PIAPRO>>http://piapro.jp/suidream2007]]
+
+**曲
+#list_by_tag(harunacute,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(harunacuteCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm1851781){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm1964308){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2095198){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm2501749){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2576155){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm3165717){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3811621){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm4802656){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6014348){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm6120827){340,185}|
+
+**コメント
+#comment()
