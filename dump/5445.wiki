@@ -1,0 +1,34 @@
+#right(){&furigana(ふぁいとぴー) &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/9964279" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/9964279">【ニコニコ動画】keen（ファイトP）の投稿動画</a></iframe>)
+
+**特徴
+-おもにリンを用いて作曲するが、その他にもミクやルカ、レン曲も作っている。
+-聞いている方を元気づけるような曲が多い。
+-ニコニコインディーズにてインスト曲も発表している。
+-代表曲は、『[[自由気ままのB級人生]]』。
+-アーティスト名は&bold(){keen}（けーん）。
+
+**リンク
+-[[ピアプロ>>http://piapro.jp/unlib]]
+-[[見えない敵と戦う（作者ブログ）>>http://keen-unlib.seesaa.net/]]
+
+**曲
+#list_by_tag(ファイトP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(ファイトPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm2142873)|&nicovideo(http://www.nicovideo.jp/watch/sm2667418)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5507790)|&nicovideo(http://www.nicovideo.jp/watch/sm5638108)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5892486)|&nicovideo(http://www.nicovideo.jp/watch/sm6335081)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6893716)|&nicovideo(http://www.nicovideo.jp/watch/sm8285770)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9348368)|&nicovideo(http://www.nicovideo.jp/watch/sm12595766)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm15567224)|&nicovideo(http://www.nicovideo.jp/watch/sm16476326)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm20896214)|&nicovideo(http://www.nicovideo.jp/watch/sm22002499)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm27242614)||
+
+**コメント
+- いまだにコメないのか……。自由気ままの〜はマジ良い曲。もっと伸びていいと思うんだがなぁ  -- 名無しさん  (2009-11-26 18:00:59)
+- ↑ですよねっ…！！自由気ままのB級人生大好きですっ他のも聴いてみたいなぁ…  -- 名無しさん  (2009-12-06 22:11:46)
+#comment()

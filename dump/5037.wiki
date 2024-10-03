@@ -1,0 +1,53 @@
+#right(){&furigana(しゃんぐりら　おう、わしらじゃ) &furigana()【登録タグ:&tags() 】}
+
+#image(http://sound.jp/heliodor_music/washira/shangri_la_files/shan_banner_200.gif,http://sound.jp/heliodor_music/washira/shangri_la.html,title=Shangri-La ／ Yes We Are!,blank)
+
+//&ref(https://sound.jp/heliodor_music/washira/shangri_la_files/jacket.png)
+&ref(https://www.suruga-ya.jp/database/pics/game/186108712.jpg,x=300,y=300)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){シャングリラ / おう、わしらじゃ！}|CENTER:[[Camuiz]]|
+
+|&bold(){[[すずきP]]}|
+
+発売：2009年5月5日
+価格：￥900
+流通：通販、即売会
+サークル：おう、わしじゃ
+
+**CD紹介
+-&bold(){“ Shangri-La / Yes We Are ! ”}
+-すずきP初のVOCALOIDアルバム。M3での初頒布後、ボーマス８でも頒布される。
+-歌声だけの存在であるはずのVOCALOID達がほんの束の間だけ姿形をあらわし、お気に入りの楽器を手に自分達の曲を演奏してみました（特設ページより）
+-ジャケットにも登場している神威がくぽ・がくこ、鏡音リン・レン、巡音ルカらが歌う人気の楽曲から全8曲を収録。
+　　上記のコンセプトに基づき、楽曲選曲・リアレンジ・ボーカル調整など新たに手が加えられている。
+-呉さん、しうかさん、だぶるくりっくさん、3人の絵師が描く楽曲のイメージイラストも必見のこと。
+
+**曲目
+&nicovideo(http://www.nicovideo.jp/watch/sm7052773)
++Welcome Back -From Nowhere-
++[[siGrE]]
++[[錦の舞]] -Version: Last Dance-
++[[月下の喜遊曲]] -Version: Girl's Own-
++[[どうにもこうにも　I LOVE YOU ☆]] -Version: Pain Killer !!-
++[[流浪の民]]
++[[人狼狂想曲>人狼狂詩曲]]
++[[桃源郷]] -Version: To Everywhere-
+
+**リンク
+-[[「シャングリラ / おう、わしらじゃ！」特設ページ>>http://sound.jp/heliodor_music/washira/shangri_la.html]]
+-[[作者ホームページ>>http://sound.jp/heliodor_music/suzuki.html]]
+-[[作者ブログ>>http://blog.goo.ne.jp/spin2spin2002/]]
+
+**コメント
+- 作成乙です！通販してくれないかな・・  -- 名無しさん  (2009-05-02 22:17:59)
+- ＣＤ名で作者特定余裕でしたwww  -- 名無しさん  (2009-05-02 23:54:07)
+- ↑↑イベント販売後に委託通販の予定はあるそうですよ  -- 名無しさん  (2009-05-06 21:25:43)
+- CDだと人狼狂想曲なんだよね  -- 名無しさん  (2009-05-26 22:19:31)
+- 通販きた！  -- 名無しさん  (2009-06-02 13:46:31)
+- CD買っちゃったよ！  -- 名無しさん  (2009-09-27 15:01:10)
+- ほしい誰かゆずってくれないかな・・・  -- 名無しさん  (2013-02-23 13:46:09)
+- ↑3 人狼狂詩曲でもこのページ引っかかって俺鳥肌  -- 名無しさん  (2013-05-28 17:31:25)
+- ほしいいいいいいいい  -- 名無しさん  (2013-07-17 20:20:59)
+- 欲しかったなあ  -- 名無しさん  (2014-09-26 22:13:15)
+#comment

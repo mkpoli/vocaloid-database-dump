@@ -1,0 +1,37 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[えろろんP～Special Arrange Disc～]]（コラボ）&br()[[Empty World]]|CENTER:&bold(){sacred garden}|CENTER:[[スズメノナミダ>スズメノナミダ/CD]]|
+
+|&bold(){[[ぺぺろんP]]}|[[No.D]]|[[Asaki No'9]]|
+
+||CENTER:即売|CENTER:同人|
+|発売|CENTER:2009年5月17日|CENTER:2009年6月20日|
+|価格|CENTER:￥1,000|CENTER:￥1,260（税込）|
+|サークル|CENTER:陰謀派スライダー||
+
+
+**CD紹介
+-[[ぺぺろんP]]のボーカロイドCD第5弾。
+-新作3曲を含む11曲を収録。
+-前作「[[Empty World]]」のテーマが「無」だったのに対し、今回のアルバムは「有」がテーマです。（作者ブログより） 
+-ジャケットデザインは「[[Empty World]]」と同じく信原まさき氏。
+-ボーマス8にて初頒布。とらのあなで委託販売も行われた。
+
+**曲目
++[[bitter-sweet-lollipop]]（新曲） / ミク
++[[アミュレット]] / リン・MEIKO
++[[フランベルジェ]] / ルカ
++[[subspecies]] / KAITO
++[[D and A]]（新曲） / がくぽ
++[[Links to Render]] / リン・レン
++[[カギロヒ]] / KAITO
++[[雪の精霊たち]] / ミク・リン・レン
++[[スズメノナミダ]] / MEIKO
++[[色の無い街]] MEIKO ver.（アレンジ：[[No.D]]） / MEIKO
++[[セイクリッド・ガーデン]]（新曲） / ミク
+
+**リンク
+-[[作者ブログ>>http://peperonp.blog59.fc2.com/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/18/48/040010184817.html]]
+**コメント
+#comment

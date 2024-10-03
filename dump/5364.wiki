@@ -1,0 +1,33 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+#image(http://chrono.sakura.ne.jp/graphic/cgp-017.jpg,title=Valkyrjur)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Valkyrjur}|CENTER:-|
+
+|&bold(){[[Chrono Gram]]}|
+
+||CENTER:即売|CENTER:同人|
+|発売|CENTER:2009年5月5日|CENTER:2009年5月14日|
+|価格|CENTER:￥500|CENTER:￥630(税込)|
+|サークル|>|CENTER:Chrono Gram|
+
+**CD紹介
+-「ワルキューレ」を題材とした6曲を収録した音楽CD。うち3曲を初音ミク・鏡音レンが歌う。
+-「Valkyrjur」は古ノルド語でワルキューレの複数形。
+-M3にて初頒布後、あきばお～こくにて委託販売されている。
+
+**曲目
++Valkyrjur #1 ～降臨～
++Valkyrjur #2 ～宿命～
++Beautiful Valkyrie
++Pray
++天高く馬翔ける初夏
++蒼の丘
+
+**リンク
+-[[作者サークルHP>>http://chrono.sakura.ne.jp/]]
+-[[あきばお～こく>>http://www.akibaoo.com/02/commodity_param/t/0/ctc/82020000/shc/0/cmc/2500020082584/backURL/+02+main]]
+
+
+**コメント
+#comment

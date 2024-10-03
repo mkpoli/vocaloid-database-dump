@@ -1,0 +1,115 @@
+#right(){&furigana(SeikoP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/11281901" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="mylist/11281901">楽曲集</a></iframe>)
+
+**特徴
+作り手名：『&u(){SeikoP}』(&u(){せいこぴー})
+-幻想的・叙情的な作風を持つ、とかく多才なP。
+-巡音ルカとVY1を主に使用している。他ボカロについては、
+--初音ミクAppend体験版で「[[音の物理学]]」(2009/12)
+--GUMI Whisperで「[[白妙の詩]]」(2011/12)
+-非常に高い技量でルカのポテンシャルを存分に引き出している事から、ルカ曲には「伝説のルカマスター」タグをつけられる。
+-トラッド、ニューエイジ、シンフォニック、アンビエント、プログレッシブ、民族音楽などの要素を持った美旋律が特徴。
+--ルカ曲では創作言語（本人曰く「デタラメ外国語」）を投稿している。
+--ゲームBGMを髣髴とさせ、特にゲーム「聖剣伝説2」はコメントでもよく引き合いに出される。
+-ボカロ未使用のインスト曲やゲーム曲アレンジ等も多く手がけ、ボカロ曲でやっていない曲調の物も見られる。
+-自身で歌やコーラスもこなせる。
+--元々ボカロは自分の歌のコーラス補強目的だった。（「[[Dryas (PartI)]]」投稿者コメントより）
+-絵も達者で、動画イラストも2曲を除き本人作。曲調と世界観を共有するような、柔らかなタッチの画風。
+--「[[XII Totem]]」の画像は、簡易作画メイキングになっている。
+--「[[風の嗣子]]」「[[Snow Quartz]]」の絵は友人・卯月なごやさん。
+-ボカロ界への参入は2009年からだが、作曲歴はもっと長い。
+-2014年4月12日に投稿された「[[Affectio Deorum]]」の作者コメントで、ボカロ曲の活動終了を宣言した。
+
+**リンク
+-[[Peridot Foresta（作者ブログ）>>http://sei-peri.seesaa.net/]]
+-[[PIAPRO>>http://piapro.jp/hw_izumi]]
+-[[Twitter>>https://mobile.twitter.com/PeriTune_info]]
+-[[pixiv>>http://www.pixiv.net/member.php?id=12146]]
+-[[YouTube>>http://www.youtube.com/channel/UCgrQkWWf_48rQm-x-dQ4_uA]]
+
+**曲
+#list_by_tag(SeikoP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(SeikoPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+-オリジナル曲
+#region(open,2009年のオリジナル曲)
+|&nicovideo(http://www.nicovideo.jp/watch/nm6399415)|&nicovideo(http://www.nicovideo.jp/watch/nm7221150)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm7596554)|&nicovideo(http://www.nicovideo.jp/watch/nm8194671)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm8561077)|&nicovideo(http://www.nicovideo.jp/watch/nm8848650)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm9099133)|&nicovideo(http://www.nicovideo.jp/watch/nm9234966)|
+#endregion
+#region(open,2010年のオリジナル曲)
+|&nicovideo(http://www.nicovideo.jp/watch/nm9749170)|&nicovideo(http://www.nicovideo.jp/watch/nm10072785)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm10778064)|&nicovideo(http://www.nicovideo.jp/watch/nm11066358)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm11741359)|&nicovideo(http://www.nicovideo.jp/watch/nm12123552)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm12565395)|&nicovideo(http://www.nicovideo.jp/watch/nm13041341)|
+#endregion
+#region(open,2011年のオリジナル曲)
+|&nicovideo(http://www.nicovideo.jp/watch/nm13311839)|&nicovideo(http://www.nicovideo.jp/watch/nm14086771)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm15409833)|&nicovideo(http://www.nicovideo.jp/watch/nm15809426)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm15955913)|&nicovideo(http://www.nicovideo.jp/watch/nm16361012)|
+※Glacierはニコニコインディーズカテゴリですが、ここではとりあえずボカロに入れておきます。
+#endregion
+#region(open,2012年のオリジナル曲)
+|&nicovideo(http://www.nicovideo.jp/watch/nm16645993)|
+#endregion
+
+-カバー曲
+#region(close,カバー曲)
+|&nicovideo(http://www.nicovideo.jp/watch/nm6986052)|&nicovideo(http://www.nicovideo.jp/watch/nm7761074)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm9340748)||
+#endregion
+
+-非VOCALOID
+#region(close,非VOCALOID)
+-歌ってみた
+|&nicovideo(http://www.nicovideo.jp/watch/nm14659973)|&nicovideo(http://www.nicovideo.jp/watch/nm17154146)|
+-ニコニコインディーズオリジナル曲
+|&nicovideo(http://www.nicovideo.jp/watch/nm15055658)|&nicovideo(http://www.nicovideo.jp/watch/nm15125355)|
+-ピストンコラージュ曲集
+|&nicovideo(http://www.nicovideo.jp/watch/nm8670837)|
+-コーラス&オリジナル曲集
+|&nicovideo(http://www.nicovideo.jp/watch/nm9931390)|
+-ニンテンドーDSのシンセソフト「KORG M01」による習作
+|&nicovideo(http://www.nicovideo.jp/watch/nm13000783)|&nicovideo(http://www.nicovideo.jp/watch/nm13026588)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm13051057)|&nicovideo(http://www.nicovideo.jp/watch/nm13139929)|
+
+-ゲームBGMアレンジ
+世界樹の迷宮III
+|&nicovideo(http://www.nicovideo.jp/watch/nm10364489)|&nicovideo(http://www.nicovideo.jp/watch/nm10424373)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm10465110)|&nicovideo(http://www.nicovideo.jp/watch/nm10645717)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm11173029)|&nicovideo(http://www.nicovideo.jp/watch/nm11811987)|
+世界樹の迷宮II
+|&nicovideo(http://www.nicovideo.jp/watch/nm11821145)|
+聖剣伝説2
+|&nicovideo(http://www.nicovideo.jp/watch/nm13421731)|
+世界樹の迷宮I
+|&nicovideo(http://www.nicovideo.jp/watch/nm14467262)|
+
+#endregion
+
+**コメント
+- ルカの調声に関して質・量ともに最も技術技法を持つPの一人だと思う。感心する。そしてそれ以上に、素直な感動を覚える。  -- 名無しさん  (2009-11-21 01:31:53)
+- 本当にこの人好きだ。ボカロでこんなに感動するとは思わなかった。  -- 名無しさん  (2009-12-07 07:57:01)
+- プロではないんですよね？でもいずれ一般流通で作品出して欲しい方です。  -- 名無しさん  (2010-04-22 00:37:11)
+- この方はただでさえ凄いのに、追い続けてるとさらに徐々に成長してる感じがする。  -- 名無しさん  (2010-08-14 01:04:46)
+- 伝説のルカマスター…正しく、このタグに偽り無し！  -- 名無しさん  (2010-09-21 20:06:55)
+- 最近知ったばっかりだけど、この人すごい  -- 名無しさん  (2011-01-19 21:43:07)
+- VY1の曲も凄いぞ！月翅は文句なしでおすすめできる  -- 名無しさん  (2011-02-20 00:04:17)
+- 才能がある人だと思う。世界観が確立されてる。月翅から入ったけど他も素晴らしかった。  -- 名無しさん  (2011-06-20 13:45:39)
+- 久々のルカ新曲ｋｔｋｒ！！  -- 名無しさん  (2011-10-22 23:31:13)
+- GUMI曲来た！イヤホオオ！  -- 名無しさん  (2011-12-07 01:33:21)
+- 人間を超越しているぜ・・・  -- 名無しさん  (2012-07-10 22:40:56)
+- この人はボカロ以外にもゲームBGMのアレンジをしたりしているが、そちらも非常に素晴らしい。大好きです。  -- 名無しさん  (2012-11-25 23:13:30)
+- 音がとても心地いいです　ゲーム音楽好きにはたまらないですね～  -- 名無しさん  (2013-02-11 01:00:52)
+- 昨今のゲーム曲に魅力的な曲がないため、SeikoPの楽曲は私の心の拠り所となっています。  -- 名無しさん  (2013-11-10 15:19:20)
+- SeikoPの曲大好きです。美しい曲調が最高です。  -- 元禄  (2014-07-03 06:30:44)
+- 個人的に鼻そうめんPと比肩しうる天賦の才を持つ方だと思う。とにかく凄い！  -- 名無しさん  (2015-09-09 04:25:55)
+#comment()

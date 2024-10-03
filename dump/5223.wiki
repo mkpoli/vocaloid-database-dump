@@ -1,0 +1,120 @@
+#right(){&furigana(ほーかりおとP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion 
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/6667938" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/6667938">【ニコニコ動画】ぼーかりおどP（noa）のオリジナル曲リスト</a></iframe>)
+
+**特徴
+-初音ミクを使用したロック曲を主に投稿するP。
+-P名は、ニコ動のタグで「ボーカロイド」を「ぼーかりおど」とタイプミスしてしまったことに由来する。
+--愛称は「&bold(){おどP}」。
+--アーティスト名は&b(){noa}。
+-ギターは基本的に自分で弾いて入力している。
+-これまでに殿堂入りした曲は「[[1/6>1／6]]」「[[ラストラスト]]」｢[[ジュゲムシーケンサー]]｣の3曲。のちに「[[1/6>1／6]]」は[[100万再生>曲一覧/ミリオン曲一覧]]を達成した。
+
+***各曲の歌詞や「歌ってみた」について
+> ■お願い■
+> 
+> 「歌ってみた」は大歓迎です。
+> 
+> ただし、歌詞の改変と追加、
+> 「語り」「ミリしら」「アナザー」は絶対お断りです。
+> 曲間にフェイクやシャウトを入れるのは問題ないです。
+> キーの変更なども特に制限かけてません。
+> 
+> ピアプロの歌詞にも注意書きとして
+> 書いてありますので、ご確認をお願いします
+>[[ピアプロのプロフィール文>>https://piapro.jp/my_page/?view=profile&pid=noa7010]]より転載
+
+> ★★重要★★
+> NG：セリフや歌詞の追加、変更
+> OK：フェイクやシャウト、キー変更
+> 上記を守って頂けない場合、削除をお願いする事もあります。
+> 宜しくお願いいたします。
+>[[ピアプロの歌詞ページ>>https://piapro.jp/t/Rb2y]]より転載
+**ミリオン達成状況
+|CENTER:&bold(){曲名}|CENTER:&bold(){100万再生}|CENTER:&bold(){備考}|
+|[[1/6>1／6]]|2016年2月25日||
+
+**リンク
+-[[ピアプロ>>http://piapro.jp/noa7010]]
+-[[Twitter>>http://twitter.com/vocaliod_P]]
+-[[YouTube>>https://www.youtube.com/user/VOCALIODP]]
+-[[作者ブログ「誤字脱字を出来る限りしないブログ」>>http://vocaliod.blog54.fc2.com/]]
+
+**曲
+#list_by_tag(ぼーかりおどP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(ぼーかりおどPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm3336626)|&nicovideo(http://www.nicovideo.jp/watch/sm3790077)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4195993)|&nicovideo(http://www.nicovideo.jp/watch/nm4936423)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5228989)|&nicovideo(http://www.nicovideo.jp/watch/nm6227180)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm6265662)|&nicovideo(http://www.nicovideo.jp/watch/sm6695965)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6807980)|&nicovideo(http://www.nicovideo.jp/watch/nm6971638)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm7114633)|&nicovideo(http://www.nicovideo.jp/watch/nm7478100)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm8050486)|&nicovideo(http://www.nicovideo.jp/watch/nm8215989)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm8561886)|&nicovideo(http://www.nicovideo.jp/watch/nm8695971)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm8830646)|&nicovideo(http://www.nicovideo.jp/watch/nm8967590)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm9261464)|&nicovideo(http://www.nicovideo.jp/watch/nm9961878)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm11069744)|&nicovideo(http://www.nicovideo.jp/watch/nm11424443)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm11727043)|&nicovideo(http://www.nicovideo.jp/watch/nm11943281)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm11955493)|&nicovideo(http://www.nicovideo.jp/watch/nm12290697)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm12506157)|&nicovideo(http://www.nicovideo.jp/watch/nm12618743)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm13344892)|&nicovideo(http://www.nicovideo.jp/watch/sm13788877)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm14378155)|&nicovideo(http://www.nicovideo.jp/watch/sm15251875)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm14660268)|&nicovideo(http://www.nicovideo.jp/watch/sm16092405)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm16103888)|&nicovideo(http://www.nicovideo.jp/watch/sm16487363)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm16792306)|&nicovideo(http://www.nicovideo.jp/watch/sm17330478)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm18236574)|&nicovideo(http://www.nicovideo.jp/watch/sm19269038)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm19859626)|&nicovideo(http://www.nicovideo.jp/watch/sm20547489)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm21173527)|&nicovideo(http://www.nicovideo.jp/watch/sm21523682)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm22025579)|&nicovideo(http://www.nicovideo.jp/watch/sm23370851)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm26648849)|&nicovideo(http://www.nicovideo.jp/watch/sm27045913)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm27223752)|&nicovideo(http://www.nicovideo.jp/watch/sm27509651)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm27874597)|&nicovideo(sm31497723)|
+|&nicovideo(sm33633938)|&nicovideo(sm33926584)|
+|&nicovideo(sm34152230)|&nicovideo(sm34178229)|
+|&nicovideo(sm34212405)|&nicovideo(sm34306052)|
+|&nicovideo(sm34822335)|&nicovideo(sm36101473)|
+|&nicovideo(sm37445815)|&nicovideo(sm37936865)|
+|&nicovideo(sm38278832)|&nicovideo(sm38625870)|
+|&nicovideo(sm39174090)|&nicovideo(sm39263284)|
+|&nicovideo(sm39480174)|&nicovideo(sm39674004)|
+|&nicovideo(sm40356722)|&nicovideo(sm40999915)|
+|&nicovideo(sm41205002)|&nicovideo(sm41345453)|
+|&nicovideo(sm41948007)|&nicovideo(sm42578867)|
+|&nicovideo(sm42696850)|&nicovideo(sm43435331)|
+//|&nicovideo()|&nicovideo()|
+
+**カバー曲
+|&nicovideo(http://www.nicovideo.jp/watch/sm15888305)|
+
+**コメント
+- うおお！ぼーかりおどPのページができとる！  -- 名無しさん  (2009-05-13 22:25:38)
+- ぼーかりおどPは一発屋なんかじゃない！これからも頑張ってください＾＾  -- 名無しさん  (2009-10-30 00:48:36)
+- 1/6の人がメテオブリンガーを作ってたなんて…どっちも感動しました！  -- 名無しさん  (2010-01-17 00:43:27)
+- この人の歌詞は胸にグッとくる  -- 名無しさん  (2010-01-26 14:17:16)
+- ラストラスト殿堂入りおめです！おどP大好きです！  -- 名無しさん  (2011-02-25 00:04:54)
+- ラストラストでファンになた´∀｀これからも頑張れ！  -- 名無しさん  (2011-03-18 12:11:22)
+- おどPの曲大好き！前向きなロックが多いし私にはドストライクです！これからも頑張ってください！  -- 名無しさん  (2011-03-28 09:31:58)
+- インターステラ　配信決定になってたけど・・・  -- 名無しさん  (2011-04-03 23:45:26)
+- 498ハマったｗ誰か歌詞をｗｗ  -- 名無しさん  (2011-05-16 22:11:52)
+- 歌詞いいなあ。好きすぎる。  -- 名無しさん  (2011-05-22 22:41:35)
+- この人はいつか1/6級のヒットを出す気がするんだよなぁ  -- 名無しさん  (2011-06-08 23:14:26)
+- ぼーかりおど様のやわらかいのにきれいで、はっきり、クリアな歌わせ方がものすごく大好きですごいと思う。圧倒的！！ギターのリズムも音もすき＞＜  -- かおり  (2011-08-10 15:16:00)
+- ﾊｽﾞﾚ曲がほとんどなく ぼーかりおどPさんは 実力派 もっと伸びてもいいはず！  -- RinRin  (2011-08-23 18:31:42)
+- ぼーかりおどpさんそういう名前の由来だったんですかーwwwwボーカロイドがおどる…？とか思ってましたwwww  -- 名無しさん  (2012-01-03 06:30:39)
+- ラストラストしか知らんかったけどRUNとかいい曲一杯あったです。さすがおどP  -- 名無しさん  (2012-05-08 06:55:59)
+- 『1/6』で一発で好きになりました！！心にガツンと響きました。正直、超有名作者さんたちの作るような『洗練された隙の無い曲』では無いと思いますが、そこが良いです。 &br()武器に例えて言うなら『切れ味の良い刀』というより『大きなハンマー』という感じで、横なぐりに吹き飛ばされたような感動を受けました。 &br()今後も心に響く曲を是非作ってください！上手な曲じゃ無くても構いません！  -- ファンの人  (2012-12-24 14:45:55)
+- RUNとラストラストで本当にはまった！なぜのびない！？カラオケでおどPの曲歌いたい(>_<)  -- 必死で応援！！  (2013-01-31 01:16:33)
+- 「1/6」「RUN」の後半〜終盤にかけて怒濤のようにたたみかける盛り上がり方が最高に好き  -- 名無しさん  (2013-02-02 12:46:32)
+- おどPの影響でギター始めました！  -- 名無しさん  (2014-01-08 23:50:38)
+- この歌はいつ聞いてもいい曲です！  -- 名無しさん  (2014-03-08 01:51:29)
+- ナノヘヴンではまりました。もっと伸びて！  -- 名無しさん  (2015-03-11 15:00:36)
+- ずっとずっと特別な音で、言葉。ほかの何が変わっても、変わらないんだろう。遠く広く響きますように。  -- tomori  (2017-02-19 21:35:55)
+- この曲は人を元気にする！！  -- 名無しさん  (2021-11-25 09:08:15)
+#comment()

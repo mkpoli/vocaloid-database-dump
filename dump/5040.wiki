@@ -1,0 +1,37 @@
+#right(){&furigana(en)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/3345817" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/3345817">【ニコニコ動画】works</a></iframe>)
+
+**特徴
+作り手名：『&u(){en}』
+-&b(){waber.n}とも呼ばれる。
+-2007年10月、『[[コーヒーとチョコレート]]』にてボカロPデビュー。
+-ミクを使用したポップソングを主に投稿するP。
+-[[曲者P]]とのユニット「&bold(){SWANTONE}」で活動中。
+
+**リンク
+-[[mp3置場>>http://jhonsmith.seesaa.net/]]
+-[[ピアプロ>>http://piapro.jp/alteralter]]
+-[[SWANTONE>>http://www.ninjaguy.jp/swantone/]]
+
+**曲
+#list_by_tag(en,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(enCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm1368571)|&nicovideo(http://www.nicovideo.jp/watch/sm1434087)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3836154)|&nicovideo(http://www.nicovideo.jp/watch/sm4148981)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4309772)|&nicovideo(http://www.nicovideo.jp/watch/sm4408882)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6132882)|&nicovideo(http://www.nicovideo.jp/watch/sm6347516)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7784029)|&nicovideo(http://www.nicovideo.jp/watch/sm10546478)|
+
+**コメント
+- 「コーヒーとチョコレート」の序盤のふわりふわり、っていうトコがいい  -- ｒｈ  (2009-12-28 14:52:01)
+- プラネタルーム茜射す収録曲のSTAR LIGHT DIRCO格好良すぎる！  -- 名無しさん  (2011-06-27 12:31:28)
+- 間違えたStarlight Discoだった  -- 名無しさん  (2011-06-27 12:44:07)
+#comment()

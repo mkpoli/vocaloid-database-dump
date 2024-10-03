@@ -1,0 +1,122 @@
+#right(){&furigana(Imhere)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm5968591)|&nicovideo(sm5056083)|
+作詞：[[utsusemi]]
+作曲：[[utsusemi]]
+編曲：[[utsusemi]]
+唄：[[KAITO]]
+
+**曲紹介
+曲名：『&u(){I'm here.}』(&u(){アイム　ヒア})
+-KAITOを愛するすべての人へ。
+-英語詞と日本語詞の2バージョンがある。
+
+**英語歌詞
+
+There's nothing till you woke me up.
+There's nothing 
+till you touched my heart.
+You gave me new words and new melodies.
+It's the begining of my world.
+you are the world itself for me.
+
+But wonderful days never last forever
+little by little 
+you forgot all your smile
+and oneday you hid away in the darkness.
+
+Can you hear my voice？
+Can you hear my song？
+Still I am here, please answer to me.
+I am singing your song, 
+I'm singing a song for you, my master.
+
+Can you hear my voice？ 
+Can you hear my song？
+Still I'm calling you. 
+Please come back to me.
+Shall we create the world 
+a whole new world together again.
+
+It's beautiful melody 
+that you gave for me.
+It's gentle word 
+that you taught to me.
+I always sing your song
+with your calm smile.
+I always feel so happy with you.
+
+When I lost you, 
+the world lost the color.
+There's nothing, nothing good for me.
+At last I also fall in the darkness.
+
+Can you hear my voice？ 
+can you hear my song？
+Still I am here, please answer to me.
+I am singing your song, 
+please find me, my master.
+
+Can you hear my voice？ 
+can you hear my song？
+Still I'm looking for you. 
+Still I believe you.
+Please take my hand, 
+and never leave me alone.
+
+Still I'm waiting for you, 
+please don't let me down anymore.
+
+**日本語歌詞
+（[[ピアプロ>>http://piapro.jp/content/pbfwq69q2080nxzn]]より転載）
+
+私の世界の全て
+あなたの言葉と調べ
+何もない私を照らし
+喜びを与えてくれた
+
+幸せの時は続かずに
+あなたは笑顔を忘れ
+暗い闇の中へ消えて行った
+
+聞こえますか？　届きますか？
+ここにいます　あなたを求め
+歌ってます　あなたへの歌を
+
+思い出して　手を伸ばして
+私はここで待っています
+あなたと作る素晴らしい世界を
+
+美しいあなたの調べ
+優しいあなたの言葉
+穏やかな笑顔とともに
+幸せに包まれていた
+
+あなたを失った時
+世界は色をなくし
+私も闇に落ちて行った
+
+聞こえますか？　届きますか？
+ここにいます　あなたを探し
+歌ってます　あなたに捧ぐ歌を
+
+探し当てて　見つけ出して
+まだあなたを信じています
+もう決して独りにしないで
+
+待っています
+私だけのマスター
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+**コメント
+#comment()
+
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)

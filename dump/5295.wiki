@@ -1,0 +1,46 @@
+#right(){&furigana(mintiack)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/7507186" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"></iframe><a target="_blank" href="https://www.nicovideo.jp/mylist/7507186">【ニコニコ動画】作品集 by mintiack</a>)
+
+**特徴
+作り手名：『&u(){mintiack}』（&u(){みんてぃあっく}）
+-初のオリジナル曲は「[[うん、ありがとう]]」。
+-使用しているボーカロイドは初音ミク、巡音ルカ。
+-まだ作品数こそ少ないものの、徐々に成長を果たしている期待のP。
+-キオ式ミクを使用したクオリティの高いPVは必見。
+--また「[[UNSTUCK MIND]]」「[[TRI▼OID～どうせボカロ女です～]]」ではフル動画を作成している。
+-作者ブログにある各曲の解釈や解説は必見。
+
+**リンク
+//-[[作者ホームページ>>http://mintiack.sitemix.jp/]]
+-[[ニコニコ>>https://www.nicovideo.jp/user/6778266]]
+-[[PIAPRO>>https://piapro.jp/mintiack]]
+
+**曲
+#list_by_tagsearch(mintiack,sort=furigana2,errmsg=まだ曲が登録されていません。,and,100)
+
+**CD
+#list_by_tagsearch(mintiackCD,sort=furigana2,errmsg=まだCDが登録されていません。,and,100)
+
+
+**動画
+|&nicovideo(sm3937492)|&nicovideo(sm4235915)|
+|&nicovideo(sm5209940)|&nicovideo(sm5909661)|
+|&nicovideo(sm6193531)|&nicovideo(sm6627628)|
+|&nicovideo(sm7616330)|&nicovideo(sm8194738)|
+|&nicovideo(sm8651239)|&nicovideo(sm8654493)|
+|&nicovideo(nm9010862)|&nicovideo(sm8764604)|
+|&nicovideo(sm10445090)|>|
+
+**カバー曲
+|&nicovideo(sm3169761)|&nicovideo(sm3784555)|
+|&nicovideo(sm4037719)|&nicovideo(sm4625499)|
+
+**コメント
+- どの曲も好きです♪  -- つきしま  (2009-07-19 21:52:18)
+- おっ、ついに特徴の項目が記載されたか！  -- 名無しさん  (2009-09-10 21:09:08)
+- 最近ハマりました!!!!!!良い曲多い!!!!!!  -- 名無しさん  (2013-06-22 17:48:36)
+#comment()

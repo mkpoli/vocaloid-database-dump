@@ -1,0 +1,28 @@
+#right(){&furigana(AEGIS)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/4080310" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/4080310">【ニコニコ動画】project.AEGIS</a></iframe>)
+
+**特徴
+作り手名：『&u(){AEGIS}』
+-キャッチーでノリのいい曲の作り手。
+-活動再開が待たれるPのひとりである。
+
+**リンク
+-[[ニコニコ動画>https://www.nicovideo.jp/user/3166723]]
+
+**曲
+#list_by_tag(AEGIS,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**動画
+|&nicovideo(sm1150249)|&nicovideo(sm1236936)|
+|&nicovideo(sm1528317)|&nicovideo(sm1587008)|
+|&nicovideo(sm1783775)|&nicovideo(sm1824423)|
+|&nicovideo(sm1895749)|&nicovideo(sm2079925)|
+|&nicovideo(sm3437697)|&nicovideo(sm4709792)|
+
+**コメント
+- 作ったけどマイリスのリンクがまだですみません。寝ます。  -- k  (2009-05-23 02:35:40)
+#comment()

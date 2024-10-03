@@ -1,0 +1,48 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/18011910" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/18011910">【ニコニコ動画】</a></iframe>)|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/11503796" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/11503796">【ニコニコ動画】マイリス</a></iframe>)|
+
+**特徴
+-この画像キレイで好きです(投稿者コメントより)のように気に入ったサムネを使い続ける。
+-ハウスやエレクトロ、テクノ、トランスなど作風は広い。
+-調声に特徴がある。
+
+**リンク
+-[[muzie>>http://www.muzie.co.jp/artist/a053964/]]
+-[[Myspace>>http://www.myspace.com/rinx2musixxxxxxxxxx]]
+-[[PIAPRO>>http://piapro.jp/rinx2255]]
+-[[YouTube>>http://www.youtube.com/user/Rinx2musixxx]]
+//-[[サイト>>http://kuronekolounge.sakura.ne.jp/neko/KuronekoLounge.html]]
+-[[サイト>>http://kuronekolounge.com/]]
+-[[ブログ>>http://blog.livedoor.jp/rinx2musixxx/]]
+-[[KARENT>>http://karent.jp/artist/pp000221]]
+
+**曲
+#list_by_tag(Rin（ぎん）,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(Rin（ぎん）CD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm6413166)|&nicovideo(http://www.nicovideo.jp/watch/sm6429247)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6452208)|&nicovideo(http://www.nicovideo.jp/watch/sm6588065)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6667110)|&nicovideo(http://www.nicovideo.jp/watch/sm6686725)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6735552)|&nicovideo(http://www.nicovideo.jp/watch/sm6735662)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6744639)|&nicovideo(http://www.nicovideo.jp/watch/sm6753490)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6789292)|&nicovideo(http://www.nicovideo.jp/watch/sm6789315)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6830000)|&nicovideo(http://www.nicovideo.jp/watch/sm6830067)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6836702)|&nicovideo(http://www.nicovideo.jp/watch/sm6873204)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6910537)|&nicovideo(http://www.nicovideo.jp/watch/sm7000937)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7028648)|&nicovideo(http://www.nicovideo.jp/watch/sm7087804)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7339309)|&nicovideo(http://www.nicovideo.jp/watch/sm7359342)|
+
+**インストなど
+|&nicovideo(http://www.nicovideo.jp/watch/sm6774417)|&nicovideo(http://www.nicovideo.jp/watch/sm7013260)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7340823)||
+
+**コメント
+//- 炉心融解  -- 名無しさん  (2010-09-02 21:43:38)
+//- すいません 間違えました 結構気に入ってたり…  -- 名無しさん  (2010-09-02 21:45:07)
+- Neko-des大好きなんだけどなあ…なんで伸びないんだろう  -- りょーん  (2012-11-16 17:23:30)
+- 過疎り過ぎだろ…  -- 名無しさん  (2014-03-15 14:03:32)
+- NNMRにマイリストを貼っていたら伸びたかもな。  -- 名無しさん  (2014-08-14 17:04:14)
+#comment()

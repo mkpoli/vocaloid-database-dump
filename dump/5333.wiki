@@ -1,0 +1,34 @@
+#right(){&furigana(いなさくのふきゅう) &furigana()【登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186148961.jpg,x=300,y=300)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){稲作の普及}|CENTER:[[恥骨骨折>恥骨骨折/CD]]|
+
+|&bold(){[[ニラP]]}|
+
+発売：2009年2月22日
+価格：￥（税込）
+流通：即売
+サークル：こめくえ
+
+**CD紹介
+-ニラPの1stアルバム。
+
+**曲目
++[[ニラ]]
++[[桜>桜/ニラP]]
++[[モノクロームの雨、灰色の空]]
++[[Cherry>Cherry/ニラP]]
++[[Lemonade>Lemonade/ニラP]]
++[[夏帯]]
++[[優しい雨が続くように]]
++[[Butterfly in the snowing air]]
++[[じゃあね、ばいばい]]
++[[耳血]]
+
+**リンク
+-[[作者ホームページ>>http://elisabetta.hp.infoseek.co.jp/]]
+
+**コメント
+#comment

@@ -1,0 +1,35 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+#image(http://www.polyphonicbranch.com/vocalogo/s-jak.jpg,title=Like a Rolling Star ☆)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[ネギじゃなかった…]]&br()[[Extension of my wish>Extension of my wish/CD]]|CENTER:&bold(){Like A Rolling Star ☆}|CENTER:[[Heaven>Heaven/CD]]|
+
+|&bold(){[[PolyphonicBranch]]}|
+
+||CENTER:即売|CENTER:同人|
+|発売|CENTER:2009年5月17日|CENTER:2009年5月20日|
+|価格|CENTER:￥1,000|CENTER:￥1,470(税込)|
+|サークル|>|CENTER:PolyphonicBranch|
+
+**CD紹介
+-『PolyphonicBranch』がお届けするボーカロイドCD第三弾。
+-表題作「[[Like A Rolling Star ☆]]」を含む初音ミクが歌う5曲入りミニアルバム。
+--4曲目の「夢舞一夜」は今までの曲とはちょっと違った和風テイスト。
+-ボーマス8で初頒布された後、あきばお～こくやD-STAGEにて委託販売が行われている。
+
+**曲目
++[[Seven Seas Sailing]]
++[[Like A Rolling Star ☆]]
++[[Revolution No.251]]
++夢舞一夜
++Wish.
+
+**リンク
+-[[作者HP>>http://www.polyphonicbranch.com/]]
+-[[CD特設サイト>>http://www.polyphonicbranch.com/lars.htm]]
+-[[あきばお～こく>>http://www.akibaoo.com/02/commodity_param/con/0/ctc/+/shc/0/cmc/2500020083703]]
+-[[D-STAGE>>http://d-stage.com/shop/detail.php?seq=9138&kw=Like+A+Rolling+Star+%81%99&from=items]]
+
+**コメント
+- マジ最高゜+。:.゜ヽ(*´∀`)ノ゜.:。+゜  -- 沖田  (2013-04-08 17:45:38)
+#comment

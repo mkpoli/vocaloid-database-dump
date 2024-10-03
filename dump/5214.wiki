@@ -1,0 +1,30 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/20996870" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/20996870">【ニコニコ動画】TuKuRu VOCALOID作品群 オリジナル </a></iframe>)&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/20996719" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/20996719">【ニコニコ動画】TuKuRu VOCALOID作品群 カヴァー</a></iframe>)
+
+**特徴
+-坂本真綾「[[奇跡の海>>http://www.nicovideo.jp/watch/sm1250829]]」のカバーでの神調教ぶりで一躍高い評価を得る。
+-完成版の動画に対しては、「Ver.1.*-Release」という表記がなされるので、修正版との区別がしやすい。
+-2008年4月からはオリジナル曲も手がける。作風はエレクトロポップから聴かせるバラードまで幅広い。
+-&bold(){[[KORG DS-10>>http://www.aqi.co.jp/product/ds10/]]}開発者・佐野電磁プロデュースによるユニット・&bold(){DG-10}（今井麻美・長谷川明子・又吉愛）のアルバム&br()『[[DG-10 ～Devise Girls on The Analog Synthesizer～>>http://ex-project.com/DG-10/]]』に、「[[アメフリカエル]]」の収録が決定した。
+
+
+**リンク
+-[[ニコニコ動画・公開プロフィール>>http://www.nicovideo.jp/user/884858]]
+-[[PIAPRO>>http://piapro.jp/TuKuRu]]
+-[[YouTube>>http://www.youtube.com/user/tukurukoubou]]
+
+**曲
+#list_by_tag(TuKuRu,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(TuKuRuCD,100,sort=furigana)
+
+**動画（オリジナル曲）
+|&nicovideo(http://www.nicovideo.jp/watch/sm6491751)|&nicovideo(http://www.nicovideo.jp/watch/sm3922818)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3211755)||
+**動画（その他）
+|&nicovideo(http://www.nicovideo.jp/watch/sm6907152)|&nicovideo(http://www.nicovideo.jp/watch/sm4194475)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm1250829)|&nicovideo(http://www.nicovideo.jp/watch/sm1103703)|
+
+**コメント
+#comment()

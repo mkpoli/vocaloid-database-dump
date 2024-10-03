@@ -1,0 +1,35 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Holy Star/サクラアメ>Holy Star／サクラアメ]]|CENTER:&bold(){The First Of Thousands}|CENTER:-|
+
+|&bold(){[[Kouhei>Kouhei（K's Sound Project）]]}|[[mak.kanz@wa]]|
+
+||CENTER:即売|CENTER:通販|
+|発売|CENTER:2009年05月17日|CENTER:2009年06月01日|
+|価格|CENTER:\700|CENTER:\900(税込)|
+|サークル|CENTER:K's Project||
+
+**CD紹介
+-おっさんP初のフルアルバム。収録曲は全てボカロバージョンとなっている。
+-「Life of Melody」から「Love me tender」までのオリジナル曲を収録。&br()「Holy Star」は、ミクバージョンとルカバージョンの両方を収録している。
+-ボーマス8では、[[坊主P>Ackey++]]との合同サークル「おっさん坊主」での頒布となった。
+-&bold(){御社}こと[[tap>>http://sign-tap.jp/index.html]]のオンラインショップで通販取り扱いも開始。
+
+**曲目
++Prologue -Holy Star-
++[[Holy Star]]
++[[Life of Melody]]
++[[Blue Rose>Blue Rose/Kouhei]]
++[[Love me tender]]
++[[この花火が終わるまでに]]
++[[サクラアメ]]
++[[Moon -Dream of Thousands-]]
++Holy Star -featured by Luka-
+
+**リンク
+-[[合同サークル「おっさん坊主」サイト>>http://est.moo.jp/ob/index.htm]]
+-[[作者ブログ>>http://be-dreamer.jugem.jp/]]
+-[[タップ オンラインショップ>>https://v-nyappon.net/shop/tap/products/detail.php?product_id=23]]
+
+**コメント
+#comment

@@ -1,0 +1,38 @@
+#right(){&furigana(びょうきP) &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/10000721" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"></iframe><a target="_blank" href="http://www.nicovideo.jp/mylist/10000721">【ニコニコ動画】初音ミク</a>)
+
+**特徴
+- MAD製作者の一人。VOCALOIDのPとしても曲を投稿している。
+- 投稿者名ははせな。
+- オリジナル曲・カバー曲における病的な歌詞とイラストに定評がある。
+- VOCALOIDに喋らせてみた系の投稿もある。しかしその内容はやはり病的である。
+- 初音ミクと鏡音リン・レンを保有。
+- P名は平成19年12月6日に「【初音ミク】クリスマスをぶち壊せ」において視聴者の一人が名づけたことに由来する。
+- 代表作はドヴォルザーク交響曲第9番第4楽章に病的な歌詞を載せた「初音ミクのおっぱい」。50万再生を記録するが、2009年2月末ごろに「利用規約に違反していたため」削除される。
+- MikuMikuDanceを使用した動画も作成する。
+
+**リンク
+- [[blog>>http://hasena.blog.shinobi.jp/]]
+
+**曲
+#list_by_tag(病気P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**動画
+-&b(){オリジナル曲}
+|&nicovideo(http://www.nicovideo.jp/watch/sm1265549)|&nicovideo(http://www.nicovideo.jp/watch/sm1495713)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm1704291)|&nicovideo(http://www.nicovideo.jp/watch/sm2709846)|
+-&b(){カバー・アレンジ曲}
+|&nicovideo(http://www.nicovideo.jp/watch/sm1214200)|&nicovideo(http://www.nicovideo.jp/watch/sm1399473)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm1426632)|&nicovideo(http://www.nicovideo.jp/watch/sm1572909)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm1609141)|&nicovideo(http://www.nicovideo.jp/watch/sm2019540)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3336574)|
+-&b(){VOCALOID-MADネタ}
+|&nicovideo(http://www.nicovideo.jp/watch/sm1526901)|&nicovideo(http://www.nicovideo.jp/watch/sm3906316)|
+-&b(){トークロイド}
+|&nicovideo(http://www.nicovideo.jp/watch/sm1674479)|&nicovideo(http://www.nicovideo.jp/watch/sm1784747)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm1825862)|&nicovideo(http://www.nicovideo.jp/watch/sm1908823)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2065415)|&nicovideo(http://www.nicovideo.jp/watch/sm2327930)|
+
+**コメント
+- ミク〃〃〃〃〃どんだけミク  -- なおと  (2012-10-22 22:04:39)
+#comment()

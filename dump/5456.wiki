@@ -1,0 +1,54 @@
+#right(){&furigana(VividSummer)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm4306277)|&youtube(https://www.youtube.com/watch?v=mczBgGUw4ZI){342,187}|
+||&youtube(https://www.youtube.com/watch?v=sRTbrq_AFx8){342,187}|
+作詞：[[kaya>kaya/作り手]]
+作曲：[[shu-tP]]
+編曲：[[shu-tP]]
+唄：[[初音ミク]]（オリジナル）、[[MEIKO]]（アルバム版）
+
+**曲紹介
+曲名：『&u(){Vivid Summer}』
+-わっしー氏のイラストから曲を作る～Memories～企画の曲。
+-『[[Various feelings ～shu-t's works～]]』に歌詞を変えボーカルをMEIKOに代えたものが収録されている。 
+
+**歌詞
+（動画より書き起こし）
+
+写真　見たことある
+キラキラ光ってる
+コレは　なんていうの？
+キレイな「カタチ」ね
+
+あした一緒にコレ　見に行こうよ！
+車で一緒にコレ　見たい
+急だけど　朝　早起きして
+あなたと一緒にコレ　見に行きたいの！
+
+ワクワクしちゃうね
+何着ていこうかな？ねぇ？
+あのお気に入りの曲
+聴きながら行こうよ
+
+
+まだちょっと　眠たいね
+朝陽が　眩しい
+車でコレ　聴いて
+キラキラ　見に行こう
+
+流れる風が気持ちいいね
+選んだ曲も心地いいね
+何よりも1番いいのは
+あなたと一緒にいる　シアワセな時間！
+
+弾ける笑顔と
+波しぶき　感じて　ねぇ
+鮮やかな夏の想い出
+忘れたくない
+
+
+**コメント
+#comment()

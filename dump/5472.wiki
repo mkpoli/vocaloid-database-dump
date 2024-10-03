@@ -1,0 +1,17 @@
+#right(){&furigana(clear)&furigana()【登録タグ:&tags()】}
+&nicovideo(http://www.nicovideo.jp/watch/nm6399415)
+作詞：[[SeikoP]]
+作曲：[[SeikoP]]
+編曲：[[SeikoP]]
+唄：巡音ルカ
+
+**曲紹介
+-歌詞は創作言語。
+-SeikoPのボーカロイド関連初投稿曲。
+-イラストもSeikoPの手による。
+
+**PV
+|&nicovideo(http://www.nicovideo.jp/watch/sm7750725)|
+
+**コメント
+#comment()

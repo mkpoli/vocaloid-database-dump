@@ -1,0 +1,37 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/029_20091225193325_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Nebula>Nebula/CD]]|CENTER:&bold(){Synthesis}|CENTER:[[future>future/TripshotsCD]]|
+
+|&bold(){[[Tripshots]]}|
+
+発売：2009年6月11日
+価格：￥750、1曲￥150
+流通：配信
+レーベル：KarenT（クリプトン・フューチャー・メディア） 
+
+|&bold(){[[iTunes Store で購入する>>http://itunes.apple.com/jp/album/synthesis-ep/id318788535]]}|
+
+**CD紹介
+-驚愕のPVで知られる[[Tripshots]]氏の初アルバム。
+-新たにリミックスされた「[[anger]]」、「[[Extended>Extended-ゆっくり-]]」および「[[Nebula]]」と、mitsumushi/Lunaのボーカルを合わせて5曲を収録。
+--3曲目の「Nebula」は、[[じゅるP]]の独自解釈による英語歌詞をmitsumushiが歌う。
+--4曲目はLunaのボーカルによる「anger」を収録。
+
+**クロスフェードデモ
+&nicovideo(http://www.nicovideo.jp/watch/sm7314826)
+
+**曲目
++[[anger]] [Extend-RMX] feat. 初音ミク
++[[Extended>Extended-ゆっくり-]] [Sirius RMX] feat. 初音ミク
++[[Nebula]][type J] feat. mitsumushi
++anger [Extend-RMX] feat. Luna
++Nebula feat. 初音ミク
+
+**リンク
+-[[作者HP>>http://www.tripshots.net/]]
+-[[KarenT>>http://karent.jp/album/29]]
+
+**コメント
+#comment

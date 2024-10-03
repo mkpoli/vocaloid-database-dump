@@ -1,0 +1,31 @@
+#right(){&furigana(きょうきしんごうで、ひかれそうになったよ) &furigana()【登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186148963.jpg,x=300,y=300)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){今日黄信号で、轢かれそうになったよ。}|CENTER:-|
+
+発売：2009年5月5日
+価格：￥200
+流通：即売
+サークル：東京工科大学文化会-サウンドジェネシス-
+
+**CD紹介
+-&bold(){黄信号って○でもなく×でもなく中途半端だよね} （CDケースレーベル裏面より）
+-メディアはCD-R、CDレーベルは印刷ではなくシール貼付。
+-M3で初頒布。ちなみに今回が同人即売会イベント初参加だそうです。
+
+**曲目
++シングルベル - 麻倉・TMTK・弐性 feat. 初音ミク
++湯豆腐 - 弐性 feat. 初音ミク
++いつかどこかで - まいか feat. 初音ミク
++BYE天使 - TMTK and 初音ミク produced by 麻倉
++awaking of mind - 弐性 feat. 初音ミク
++Remember - BL with AquesTone
++シングルバレンタイン - 麻倉 feat. 初音ミク
+
+**リンク
+-[[サウンドジェネシス>>http://soundgenesis.net/]]
+
+**コメント
+#comment

@@ -1,0 +1,39 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Affairs of Life]]|CENTER:&bold(){alive}|CENTER:[[ライカ>ライカ/CD]]|
+
+|&bold(){[[彩音P]]}|
+
+||CENTER:即売|CENTER:同人|
+|発売|CENTER:2009年1月25日|CENTER:2009年3月8日|
+|価格|CENTER:￥1,000|CENTER:￥1,365(税込)|
+|サークル|>|CENTER:彩音 ～xi-on～|
+
+**CD紹介
+-[[彩音P]]の初音ミクオリジナルCD第2弾。
+-表題作「[[alive>alive/彩音P]]」など、「[[春風 ～harukaze～>春風]]」以降ニコニコ動画に発表してきた楽曲を収録。
+--全曲がアルバム用にミックスが再調整されている。
+-COMIC CITY東京121で初頒布。その後とらのあなやあきばお～こくなどで委託販売されている。
+
+**曲目
++[[春風 ～harukaze～]]
++[[シャム猫のうた]]
++[[星空>星空/彩音P]]
++[[alive>alive/彩音P]]
++[[雪峰 ～yukimine～ -piano&strings Ver.->雪峰 ～yukimine～]]
++春風 ～harukaze～ (off vocal)
++シャム猫のうた (off vocal)
++星空 (off vocal)
++alive (off vocal)
++雪峰 ～yukimine～ -piano&strings Ver.- (off vocal)
++ハツネリズム
+
+**リンク
+-[[作者ホームページ>>http://xion.art-studio.cc/]]
+-[[頒布作品紹介>>http://xion.art-studio.cc/product.htm]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/17/66/040010176683.html]]
+-[[あきばお～こく>>http://www.akibaoo.com/02/commodity_param/ctc/82030100/cmc/2500020076095/shc/0/]]
+
+**コメント
+- げーむ  -- 名無しさん  (2011-05-20 11:32:36)
+#comment

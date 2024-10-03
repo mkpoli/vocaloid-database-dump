@@ -1,0 +1,35 @@
+#right(){&furigana(おれののうないみくがいちばんかわいい3) &furigana()【登録タグ:&tags() 】}
+
+#image(http://studioiig.com/discography/oremiku3/oremiku3_banner.jpg,http://studioiig.com/discography/oremiku3/,title=俺の脳内ミクが一番可愛い3,blank)
+
+&ref(http://studioiig.com/discography/oremiku3/oremiku3_artwork.jpg,x=300,y=300)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[俺の脳内ミクが一番可愛い2]]|CENTER:&bold(){俺の脳内ミクが一番可愛い3}|CENTER:&bold(){[[俺の脳内ミクが一番可愛い4]]}|
+
+|&bold(){[[ziki_7]]}|&bold(){[[ゆうゆ]]}|&bold(){[[IIG]]}|&bold(){[[どぶウサギ]]}|&bold(){[[陳炒飯]]}|&bold(){[[ムスカP]]}|&bold(){[[みよ]]}|
+
+||CENTER:即売|CENTER:同人|
+|CENTER:発売|CENTER:2009年5月17日|CENTER:|
+|CENTER:価格|CENTER:￥500|CENTER:￥751（税込）|
+|CENTER:サークル|>|俺の脳内ミクが一番可愛い|
+
+**CD紹介
+-「俺の脳内ミクが一番可愛い」というこだわりもどこへやら、個性豊かなクリエイターたちの着地点が気になる合同企画CD第3弾。ボーマス8で頒布。
+-現在、とらのあなおよびメロンブックスにて販売中。
+-CDのジャケット絵は、マクー氏の描き下ろし。
+
+**曲目
++industrian / 作曲・編曲：[[ziki_7]]
++[[カタパルトネーション]] / 作詞・作曲・編曲：[[ゆうゆ]]
++[[parallel†unbalance]] / 作詞・作曲・編曲：[[IIG]]
++芭蕉の恋 / 作詞・作曲・編曲：[[どぶウサギ]]
++[[キミトメグルセカイ]] / 作詞・作曲：[[陳炒飯]]、編曲：[[ムスカP]]
++黒板の消えかけた、さよなら / 作詞・作曲・編曲：[[みよ]]
++parallel†unbalance (heart beat recollection mix.) / 作詞・作曲：IIG、編曲：ziki_7
+
+**リンク
+-[[俺の脳内ミクが一番可愛い3（CD特設サイト）>>http://studioiig.com/discography/oremiku3/]]
+
+**コメント
+#comment

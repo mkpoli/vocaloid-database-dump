@@ -1,0 +1,38 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[HM-COMPILATION Vol.1]]|CENTER:&bold(){Sound Camp Vol.1}|CENTER:-|
+
+|&bold(){[[774P]]}|[[NAV]]|[[KomuroFleeP]]|[[蜂の巣P]]|[[あルカP]]|[[アドム]]|[[テラ小室P]]|[[△P]]|[[コーネリア]]|[[ノラにゃんこ]]|[[風杜鈴音]]|[[mak.kanz@wa]]|
+
+発売：2009年05月17日
+価格：￥500
+流通：即売
+サークル：FANKS DYNA-MIKUs
+
+**CD紹介
+-にゃっぽん『HM-Network』コミュニティ発のサークル『FANKS DYNA-MIKUs』によるコラボCD。
+--HM-Networkコミュの十八番である&bold(){「大人数コラボ」}による楽曲を中心に収録。
+--上記参加メンバーは&bold(){作詞・作曲担当者}のみ。コーラス・ボカロ調教なども含めるともっと多数のメンバーが参加している。
+-2009年3月のミクフェス2・5月のボーマス8にて、コンピCD『[[HM-COMPILATION Vol.1]]』と同時頒布された。
+--制作統括は2枚とも774Pが担当。
+-下記収録曲の他にボーナストラックがいくつか収録されている。
+
+**曲目
++[[Vega and Altair]] （feat. 初音ミク） / ゲットワイルダーズ
++[[Minerva's Owl]] （feat. 神威がくぽ・巡音ルカ） / 作詞：[[mak.kanz@wa]]、作曲：[[ハニカム>蜂の巣P]]
++[[Sonic Beat]] （feat. 巡音ルカ） / 作詞：[[mak.kanz@wa]]、作曲：[[KomuroFleeP]]
++[[Connected Line －21 years after－]] （feat. 初音ミク） / 作詞：[[mak.kanz@wa]]、作曲：[[コーネリア]]（コネ尚登P）
++[[Sakura@...]] （feat. 巡音ルカ） / [[774P]]（音7７４）
++[[ストレリチア]] （feat. 鏡音リン） / [[ADMRINBDAY08 PROJECT>アドム]]
++[[星を解き放つ鍵 ～tri universe edition～]] （feat. 初音ミク） / 作詞：[[△P]]・[[mak.kanz@wa]]、作曲：[[△P]]
++Sound From The Future （Instrumental） / [[あルカP]]
++[[たとえばこんなクリスマスイブ]] （feat. 初音ミク） / FANKS DYNA-MIKUs
++Welcome to party －information of end at Christmas－ （feat. 初音ミク） / FANKS DYNA-MIKUs
++[[パーティーにようこそ]] （feat. 初音ミク） / FANKS DYNA-MIKUs
++[[Human Makes Network]] （feat. 初音ミク） / FANKS DYNA-MIKUs
+
+**リンク
+-[[特設サイト（バックアップ）>>http://nyappon-hmn.srv7.biz/]]
+
+**コメント
+#comment

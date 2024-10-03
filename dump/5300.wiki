@@ -1,0 +1,31 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+#image(http://www.frontier-create.com/mixture/image/jacket/jacket02_200.png,title=Login to the World)
+
+|CENTER:本作|CENTER:次作|
+|CENTER:&bold(){Login to the World}|CENTER:-|
+
+|&bold(){[[Doppelman]]}|
+
+||CENTER:即売|CENTER:同人|
+|発売|CENTER:2009年5月17日|CENTER:2009年5月17日|
+|価格|CENTER:￥500|CENTER:￥735(税込)|
+|サークル|>|CENTER:FRONTIER CREATE|
+
+**CD紹介
+-初音ミクオリジナルトランス4曲を収録したミニアルバム。
+-同人レーベル&b(){Mixture+}から[[euphony]]と同時にリリースされている。
+-ボーマス8にて初頒布後、とらのあななどで委託販売が行われている。
+
+**曲目
++Login to the World
++floating fragility
++[[Will]]
++HAPPY DAY
+
+**リンク
+-[[Mixture+ 特設サイト>>http://www.frontier-create.com/mixture/special/090517/Login_to_the_World.html]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/18/32/040010183238.html]]
+-[[あきばお～こく>>http://www.akibaoo.com/02/commodity_param/t/0/ctc/91000000/shc/0/cmc/2500020082423/backURL/+02+main]]
+
+**コメント
+#comment

@@ -1,0 +1,42 @@
+#right(){&furigana(ふゆP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/7244135" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/7244135">【ニコニコ動画】投稿したもの</a></iframe>)
+
+**特徴
+曲名：『&u(){ふゆP}』
+-&b(){モルスァッー！！！P}とも。&br()[[くれなゐくるむくぅ]]のコメントに「どうも、モルスァッー！！！改めましてふゆです。」とコメントしている。&br()しかし、次の廻紐時計のコメントには「モルスァッー！！！或いはふゆです。」とあるので、あまりP名にはこだわっていないらしい。
+-使用合成音声は、初音ミク・巡音ルカ・神威がくぽ・鏡音リン。
+-高めのかわいらしい歌声で曲を作っている。
+-PVも含めかなりクオリティは高い。
+-要 それなりの再生環境。
+-イラスト＆PVは、[[ぷちでびる]]氏製作の物が多い。
+
+**リンク
+-[[PF AUDIO（サークルブログ）>>http://ameblo.jp/pfaudio/]]
+-[[PIAPRO>>http://piapro.jp/wagtail]]
+
+**曲
+#list_by_tag(ふゆP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(ふゆPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm5316188)|&nicovideo(http://www.nicovideo.jp/watch/sm5402458)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6513503)|&nicovideo(http://www.nicovideo.jp/watch/sm7147138)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm7614620)|&nicovideo(http://www.nicovideo.jp/watch/sm8071284)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm8237735)|&nicovideo(http://www.nicovideo.jp/watch/sm8581624)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9231040)|&nicovideo(http://www.nicovideo.jp/watch/sm9478427)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm10998417)|&nicovideo(http://www.nicovideo.jp/watch/sm11140470)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm11353894)|&nicovideo(http://www.nicovideo.jp/watch/sm12503288)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12680027)|&nicovideo(http://www.nicovideo.jp/watch/sm13815704)|
+
+
+**コメント
+- モルスァッー！！！P大好き。  -- 名無しさん  (2014-07-13 11:50:09)
+- 双つの印の解釈について話し合いたい欲求が募ります  -- にんじん@耳奴隷  (2017-07-19 22:44:11)
+- 結縁桜抄はルカ曲でもトップレベルでしょこれ  -- 名無しさん  (2021-02-15 10:07:06)
+#comment()

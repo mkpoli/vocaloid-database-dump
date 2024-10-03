@@ -1,0 +1,35 @@
+#right(){&furigana(むきりょくP) &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/3703462" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"></iframe><a target="_blank" href="http://www.nicovideo.jp/mylist/3703462">【ニコニコ動画】初音ミク</a>)
+
+**特徴
+- 脱力系のサウンドが特徴的なP。
+- 投稿者HNはcolor=red。
+- P名の由来は自身のミクオリジナル曲『やるきないうた』から。
+- 時事ネタに対する反応速度が極めて速い。しかし他のジェバンニにばかり注目が集まり、無気力Pの動画は伸びないことが多い。（例:ニコに関して頑張る、裸だったら何が悪い、地デジカ等）
+- ニコニ広告で様々な動画に提供を出してることでも有名。
+
+**リンク
+-[[覚え書きオブジイヤー>>http://d.hatena.ne.jp/colorred/]]
+
+**曲
+#list_by_tag(無気力P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**曲
+#list_by_tag(無気力PCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+-&b(){オリジナル曲}
+|&nicovideo(http://www.nicovideo.jp/watch/sm2026962)|&nicovideo(http://www.nicovideo.jp/watch/sm2400951)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4509446)|&nicovideo(http://www.nicovideo.jp/watch/sm6830945)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6885498)||
+-&b(){カバー曲}
+|&nicovideo(http://www.nicovideo.jp/watch/sm4468646)|&nicovideo(http://www.nicovideo.jp/watch/sm1432189)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5476313)|&nicovideo(http://www.nicovideo.jp/watch/sm5879752)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6018289)||
+
+**コメント
+- やっぱり提供の人っていうイメージがあるなｗ  -- 名無しさん  (2009-06-11 05:23:33)
+- ↑同意。  -- 名無しさん  (2009-08-23 17:37:50)
+- 最近時事ネタ曲が来るとほぼ日Ｐと間違える。  -- 名無しさん  (2012-03-21 15:18:21)
+- 曲のリストにないの多くね？無気力ｐの創作物置場にある1曲目から書いてないし。  -- 名無しさん  (2016-02-15 17:57:00)
+#comment()

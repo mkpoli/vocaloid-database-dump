@@ -1,0 +1,33 @@
+#right(){&furigana(きん) &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/6535711" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/6535711">【ニコニコ動画】残念な作品集</a></iframe>)
+
+**特徴
+-カバー、オリジナル、インストゥルメンタル、喋らせまでこなす幅広い作風。
+-独特な曲調が特徴。
+-明瞭な調教も特徴だが、ノイジィな曲が多いためそれが目立たない。
+-吟P、いんたばP、小休止PなどのP名を持つがいずれも定着していない。
+-妹様、片桐録音さんのイラスト人気が侮れないｗ
+-スーパー303タイム。
+
+**リンク
+-[[ギンの雑食ブログ>>http://ginblo92.blog64.fc2.com/]]
+-[[PIAPRO>>http://piapro.jp/n19790507]]
+-[[にゃっぽん>>http://v-nyappon.net/?m=pc&a=page_f_home&target_c_member_id=6363]]
+
+**曲
+#list_by_tag(ギン,100,sort=furigana)
+
+**CD
+#list_by_tag(ギンCD,100,sort=furigana)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm3203014)|&nicovideo(http://www.nicovideo.jp/watch/sm4104089)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4853529)|&nicovideo(http://www.nicovideo.jp/watch/sm5808203)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6558051)|&nicovideo(http://www.nicovideo.jp/watch/sm6652541)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7393007)|&nicovideo(http://www.nicovideo.jp/watch/sm8695267)|
+
+
+**コメント
+- あら2000踏んだ  -- 名無しさん  (2009-11-03 15:40:11)
+- 今更だけどいんたばPハマった！  -- 名無しさん  (2011-01-02 17:51:07)
+#comment()

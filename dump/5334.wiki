@@ -1,0 +1,35 @@
+#right(){&furigana(ちこつこっせつ) &furigana()【登録タグ:&tags() 】}
+//&ref(http://taketombo.la.coocan.jp/log/data/2009_05/chikotsu_512.jpg,x=300,y=300)
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186149345.jpg,x=300,y=300)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[稲作の普及]]|CENTER:&bold(){恥骨骨折}|CENTER:[[ニラまみれ]]|
+
+|&bold(){[[ニラP]]}|
+
+発売：2009年5月17日
+価格：￥（税込）
+流通：即売
+サークル：こめくえ
+
+**CD紹介
+-ニラPのマキシシングル。
+-THE VOC@LOiD M@STER 8にて頒布された。
+-ジャケットイラストは五城 猛 氏。
+
+**曲目
++[[恥骨骨折]]
++[[Lemonade -川に流されMix->Lemonade/ニラP]]
++恥骨骨折 (Backing Track)
++Lemonade -川に流されMix- (Backing Track)
+
+**リンク
+-[[作者ホームページ>>http://elisabetta.hp.infoseek.co.jp/]]
+-[[絵師ブログ>>http://taketombo.la.coocan.jp/log/bn2009_05.html]]
+
+
+**コメント
+- タイトルｗｗｗ  -- 名無しさん  (2009-07-06 20:41:29)
+- ちょｗｗｗCDでるとかｗｗｗｗ  -- 名無しさん  (2009-07-08 12:47:51)
+#comment

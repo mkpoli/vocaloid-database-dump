@@ -1,0 +1,103 @@
+#right(){&furigana(BlueEyes)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm1913254)|
+作詞：[[れい・ぼーん]]
+作曲：[[れい・ぼーん]]
+編曲：[[れい・ぼーん]]
+唄：[[初音ミク]]
+
+**曲紹介
+曲名：『&u(){Blue Eyes...}』(&u(){ブルー　アイズ...})
+
+**歌詞
+
+フルスペックの マシンで
+早く 私を 連れ出して
+声が響くよ 離れないよ
+あは〜 sold outの日々
+ハヤリ だけだったの
+まぼろし
+もう 現実のことなの
+気づいて いるでしょ あなた
+忘れないでね
+　（i like this NEGI You ike this NEGI）
+いつ いつの日も
+　（i like this NEGI You ike this NEGI）
+ボーカロイド
+　（Can siger song This lke can,My name is Miku Miku）
+わたし 初音 初音 ミクなの
+　（Like this can,Singer song）
+わたし 初音 初音 ミクなの
+　（No more can,My neme is Miku Miku）
+あなたの マシンに
+　（Sol can singer song）
+　（This like can My neme is Miku Miku）
+早く うまく 響かせて
+　（Like this can siger song）
+　（No more can,My neme is Miku Miku AH Ha）
+あ・げ・る
+　（No more can,My neme is Miku Miku Ah Ha）
+　（Can siger song,No more can,My name is Miku Miku）
+　（Like this can siger song）
+　（No more can,My neme is Miku Miku　Yo）
+
+フルスロットで走る
+青く光るの この瞳
+気づいているでしょ もう
+声がシンクロ 離れないよ
+あは〜 ドロップアウトの日々
+高く 広く 響き渡る
+お〜いぇ〜 変わりゆく世界に
+気づいているでしょ あなた
+小さな 胸の
+　（l like this NEGI You ike this NEGI）
+熱い この 思い
+　（l like this NEGI You ike this NEGI）
+ボーカロイド
+　（l like NEGI You ike this NEGI）
+ボーカロイド
+　（Can siger song,This like can,My name is Miku Miku）
+わたし 初音 初音 ミクなの
+　（Like this can,Singer song）
+わたし 初音 初音 ミクなの
+　（No more can,My neme is Miku Miku）
+時の流れに
+　（No more can,My nema is Miku Miku）
+時の流れに
+　（So l can siger song）
+時の流れに
+　（This like xan My neme is Miku Miku）
+深く 深く 響かせて
+　（This like can My neme is Miku Miku）
+　（No more can,My neme is Miku Miku Ah Ha）
+あ・げ・る
+　（No more can,My neme is Miku Miku Ah Ha）
+ボーカロイド
+　（Can siger song,This like can,My name is Miku Miku）
+わたし 初音 初音 ミクなの
+　（Like this can,Singer song）
+わたし 初音 初音 ミクなの
+　（No more can,My neme is Miku Miku）
+あなたの マシンに
+　（Sol can singer song）
+　（This like can My neme is Miku Miku）
+早く うまく 響かせて
+　（Like this can siger song）
+　（No more can,My neme is Miku Miku AH Ha）
+あ・げ・る
+　（No more can,My neme is Miku Miku Ah Ha）
+　（Can siger song,No more can,My name is Miku Miku）
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+**コメント
+#comment()
+
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)

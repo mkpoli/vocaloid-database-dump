@@ -1,0 +1,38 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1587_20140808213843_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[P∴Rhythmatiq act:03]]|CENTER:&bold(){P∴Rhythmatiq act:04}|CENTER:[[harmonia>harmonia/P∴RhythmatiqCD]]|
+
+|&bold(){[[Aether_Eru]]}|&b(){[[ゆうP]]}|&b(){[[ノア>ノア(Noah)]]}|
+
+||CENTER:即売|CENTER:同人|CENTER:配信|
+|発売|CENTER:2009年5月17日|CENTER:2009年5月17日|CENTER:2014年8月22日|
+|価格|CENTER:￥500|CENTER:￥735(税込)|CENTER:￥600|
+|サークル|>|CENTER:P∴Rhythmatiq||
+
+**CD紹介
+-Aether_Eru、ゆう、Noahの３氏から成るサークル&bold(){P∴Rhythmatiq}（プリズマティック）のシングル第4弾。
+-肝心の楽曲はとってもバラエティに富んだ内容になりまして、今までにない新しいP∴Rhythmatiqの一面をお聴き頂けるかと想います！(作者ブログより)
+-今回からついにプレスCDになり、レーベルもピクチャー仕様に。
+-ボーマス8にて初頒布後、とらのあな・あきばお～こくなどで委託販売が行われている。
+-KARENTレーベルよりダウンロード販売が行われている。初音ミク7周年記念企画で配信された作品の1つ。
+
+**曲目
++ココロノツバサ
++ゆらめき
++にじいろおりがみ
++ココロノツバサ(without miku ver.)
++ゆらめき(without miku ver.)
++にじいろおりがみ(without miku ver.)
+
+**リンク
+-[[作者ブログ>>http://prq.blog44.fc2.com/]]
+-[[P∴Rhythmatiq act:04>>http://prq.blog44.fc2.com/blog-entry-99.html]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/18/40/040010184029.html]]
+-[[あきばお～こく>>http://www.akibaoo.com/02/commodity_param/t/0/ctc/+/shc/0/cmc/2500020083628/backURL/+02+main]]
+-[[KARENT：「P∴Rhythmatiq act:04」>>http://karent.jp/album/1587]]
+-[[KARENT：「初音ミク 7th Anniversary」特集ページ>>http://karent.jp/special/miku14]]
+
+**コメント
+#comment

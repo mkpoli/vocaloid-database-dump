@@ -1,0 +1,23 @@
+#right(){&furigana(をとめみくるP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+
+**特徴
+作り手名：『&u(){ヲトメミクルP}』
+-ストリングス系？です
+
+//**リンク
+//-[[ヲトメミクルのにっき>>http://wotomemikuru.jugem.jp/]]
+//-[[PIAPRO>>https://piapro.jp/wotomemikuru]]
+
+**曲
+#list_by_tag(ヲトメミクルP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**動画
+|&nicovideo(sm7101225)|&nicovideo(sm7052838)|
+|&nicovideo(sm7050924)|>|
+
+**コメント
+#comment()

@@ -1,0 +1,171 @@
+#right(){&furigana(W)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm4656952)|&nicovideo(sm2321621)|
+作詞：[[れい・ぼーん]]
+作曲：[[れい・ぼーん]]
+編曲：[[れい・ぼーん]]
+イラスト：[[GK☆drive]]
+唄：[[鏡音リン>鏡音リン・レン]]
+コーラス：[[初音ミク]]
+
+**曲紹介
+曲名：『&u(){W...}』(&u(){ダブリュ...})
+
+**歌詞
+
+くずれゆく街並にさえ　もう
+Not Found Authorization
+（Not Found Authorization）
+光と影の中に潜む擬人
+Nice Sound Good Sound
+（Nice Sound Good Sound）
+
+ほほ笑みに溢れ埋もれて　もう
+Not Found Authorization
+（Not Found Authorization）
+虹のカケラ握りしめて　羽ばたく
+Go Oh イェ〜
+
+Ready!
+
+流れる雲を　見つめ
+ながされる　時の　中で
+繰り返す　失意の日々
+なないろの空　あざ笑う
+
+無くした　物のすべて
+ありふれた　変わらぬ日々
+振り返る　夢の中の
+孤島の中の　虹の翼
+
+Wo Oh Oh イェ〜イヤ〜
+（Wo Oh Oh Oh）
+I Know Move now,
+（I Know Move now,）
+Wo Oh Oh Oh イェ〜イヤ〜
+（Wo Oh Oh Oh）
+Aha Good my music
+（Aha Good my music）
+
+Wo Oh Oh Oh イェ〜イヤ〜
+（Wo Oh Oh Oh）
+I Know Move now,
+（I Know Move now,）
+Wo Oh Oh Oh イェ〜イヤ〜
+（Wo Oh Oh Oh）
+Aha Good my music
+（Aha Good my music）
+
+Wo Oh Oh Oh イェ〜イヤ〜
+（Wo Oh Oh Oh）
+Move now, Go Move now
+（I Know Move now,）
+Wo Oh Oh Oh イェ〜イヤ〜
+（Wo Oh Oh Oh）
+Aha Music
+（AhA Music）
+
+Wo Oh Oh Oh イェ〜イヤ〜
+（Wo Oh Oh Oh）
+Move now, Go Move now
+（I Know Move now,）
+Wo Oh Oh Oh イェ〜イヤ〜
+（Wo Oh Oh Oh）
+Aha Good my music
+（Aha Good my music）
+
+くずれゆく街並にさえ　もう
+Not Found Authorization
+（Not Found Authorization）
+光と影の中に潜む擬人
+Nice Sound Good Sound
+（Nice Sound Good Sound）
+
+ほほ笑みに溢れ埋もれて　もう
+向かい風に　髪をなびかせて（なびかせて）
+虹のカケラ握りしめて　羽ばたく
+Go Oh イェ〜
+
+流される闇の　世界
+現実と　嘘の　世界
+（崩れゆく　街なみ）
+空高く　羽ばたけるさ
+なないろの空へ　羽ばたく（羽ばたく）
+
+繰り返す　争いに
+（くずれゆく街並にさえ　もう
+Not Foun Authorization）
+偽りと　変わらぬ日々
+（光と影の中に潜む擬人
+Nice Sound Good Sound）
+雲の中　風の中の
+（ほほ笑み溢れ溢れ埋もれてもう
+向かい風に髪をなびかせて）
+虹のカケラ握りしめて羽ばたく
+Go！
+
+Wo Oh Oh Oh　イェ〜イヤ〜
+（Wo Oh Oh Oh）
+W... W... W... I ll be there for you
+（W... W... W... Ill be there for you）
+
+Wo Oh Oh Oh イェ〜イヤ〜
+（Wo Oh Oh Oh）
+W... W... W... I ll be there for you
+（W... W... W... Ill be there for you）
+
+気づいて　窓の向こうに虹のカケラ
+（気づいて　I Know Move nou,）
+Wo Oh Oh Oh イェ〜イェ〜
+（Wo Oh Oh Oh）
+W... W... W... Music
+（W... W... W... Music）
+
+Wo Oh Oh Oh イェ〜イヤ〜
+（Wo Oh Oh Oh）
+W... W... W... I ll be there for you
+（W... W... W... Ill be there for you）
+Wo Oh Oh Oh イェ〜イヤ〜
+（Wo Oh Oh Oh）
+W... W... W... I ll be there for you
+（W... W... W... Ill be there for you）
+
+このまま（このまま）
+虹のカケラ　握りしめて
+（I Know Move now.）
+Wo Oh Oh Oh イェ〜イェ〜
+（Wo Oh Oh Oh）
+W... W... W... Music
+（W... W... W... Music）
+Wo Oh Oh Oh イェ〜イェ〜
+（Wo Oh Oh Oh）
+Aha Music
+（Aha）
+
+Wo Oh Oh Oh イェ〜イェ〜
+（Wo Oh Oh Oh）
+
+Wo Oh Oh Oh イェ〜イェ〜
+（Wo Oh Oh Oh）
+Aha my music
+（Aha）
+
+Wo Oh Oh Oh　イェ〜イェ〜
+Aha Music
+（Aha）
+
+Aha  my Music...
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+**コメント
+#comment()
+
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)

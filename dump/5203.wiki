@@ -1,0 +1,47 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+#image(http://tap2.jp/shop/bannar/bannar5.jpg,http://v-nyappon.net/shop/tap/products/detail.php?product_id=5,title=Nostalgia II ～Compilation of 13 Jewels～,blank) 
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Nostalgia ～Compilation of 7 Colors～]]|CENTER:&bold(){Nostalgia II ～Compilation of 13 Jewels～}|CENTER:[[Nostalgia III ～Compilation of 15 Dreams～]]|
+
+|&bold(){[[たかP]]}|[[IGASIO]]|[[兄弟P]]|[[骨盤P]]|[[GonGoss]]|[[ぢょんP]]|[[TuKuRu]]|[[にいとP]]|[[パレットP]]|
+|[[マリアP]]|[[むーと]]|[[Bumpyうるし]]|[[レオP]]|[[orange>orange/作り手]]|Taken|涼介|yuu|うどん屋|
+
+||CENTER:即売|CENTER:通販|
+|発売|CENTER:2009年05月17日|CENTER:2009年06月01日|
+|価格|CENTER:￥1,000|CENTER:￥1,200(税込)|
+|サークル|CENTER:tun-zuk(委託)||
+
+**CD紹介
+-真のおっさんホイホイアルバム第二弾！
+-13名のおっさんPによる17曲を収録しています。
+-ジャケットイラストは、兄弟Pの動画でおなじみナヲコ（nawo）さんの描き下ろし。
+-「また御社か」で有名な[[タップ>>http://sign-tap.jp/index.html]]のオンラインショップで通販されています。
+
+&nicovideo(http://www.nicovideo.jp/watch/sm7030506)
+
+**曲目
++[[サッドソング]] / 作詞・作曲・編曲：パレットP
++[[散る]] / 作詞・作曲・編曲：パレットP
++[[アメフリカエル]] / 作詞：orange、作曲・編曲：TuKuRu
++ユメ -Reverie- / 作詞：Taken、作曲：クロード・ドビュッシー、編曲：マリアP
++[[ソラ techno mix>ソラ]] / 作詞・作曲・編曲：Bumpyうるし
++[[after the end]] / 作詞・作曲・編曲：骨盤P
++[[なみだめ☆ロック>なみだめ☆ロック ～ DTM板に捧ぐ ～]] / 作詞：2ちゃんねる「初音ミク買ったはいいけど使えない奴→四人目」スレのみなさん、作曲・編曲：[[ぢょんP]]
++[[早く帰りたい]] / 作詞：涼介、作曲・編曲：IGASIO
++[[アヤメ>アヤメ/むーと]] / 作詞・作曲・編曲：むーと
++ともしび～新しき空の間(はざま)へ… / 作詞：ゆきだるま、作曲・編曲：IGASIO
++夢のかけら / 作詞・作曲・編曲：GonGoss
++[[黄昏のノスタルジア]] / 作詞：yuu (Speaking Whale)、作曲・編曲：たかP
++[[本当の自分]] / 作詞・作曲・編曲：アカサコフ
++[[すばらしき人生]] / 作詞：うどん屋、作曲・編曲：たかP
++[[苛イラDayS>苛★イラDAyS＃4Ne]] / 作詞・作曲・編曲：GonGoss
++魔笛 夜の女王のアリア2 / 作詞：Emanuel Schikaneder、作曲：Wolfgang Amadeus Mozart、編曲：レオP
++[[星の子守唄]] / 作詞・作曲・編曲：兄弟P (ulysses)
+
+**リンク
+-[[公式サイト>>https://appst359.securesites.net/nostalgia/]]
+-[[タップ オンラインショップ>>https://v-nyappon.net/shop/tap/products/detail.php?product_id=5]]
+
+**コメント
+#comment

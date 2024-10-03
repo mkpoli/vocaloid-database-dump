@@ -1,0 +1,64 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/10486785" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/11311084">【ニコニコ動画】作ったもの</a></iframe>)
+
+**特徴
+-ポップ、エレクトロニカ、アンビエント、ジャズ、ラテン、プログレ、中世ヨーロッパ調など多岐にわたるジャンルを手掛けるが、 その技術力には定評があり、心地よく洗練された音色が魅力的なP。
+-あるDTMコンテストでグランプリに輝いた経歴もあるという表現力豊かな打ち込み技術、あるいはウインドシンセを駆使した制作手法の他、数多くの楽器の生演奏も自身で行ってしまう凄腕である。
+-所有する楽器はかなりの数に上るようで、ソプラノサックス、エレピ、ギター、ベース、フルート、ソプラノ・サックス、さらには揚琴、ブズーキ etc.に至る。
+-うみぬこP、という名前はボカロ関連だけに使うようであり、アーティスト名はMasuda K.（もしくはMasuda_K）。
+-[[yukiwo]]さんの曲はうみぬこPとともに制作されている。[[sansuiP]]、さらさんと共に、雑音部も結成している。
+-歌詞は虚脱感のあるものが多く、悲しい歌詞のものが多い。
+-Pのミクは僕っ子であり、[[見知らぬ雲見知らぬ街]]では僕っ子ミクとうみぬこP、ルカとの掛け合いが見れる。そのさい、Pとミクは兄と妹である。
+-ねこが相当好きらしく、うみぬこPの名前は[[昨日夢を見たんだよ]]にて募集され、決められたもの。
+-ボカロのみならず、オリジナル曲もアップしている。こちらも必聴である。
+-うｐ主ではなく、あｐ主と呼びましょう。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/peb02110]]
+-[[Masuda K. HomePage>>http://homepage2.nifty.com/kyuzan/index.html]]
+-[[YouTube>>http://www.youtube.com/user/MasudaKaoru]]
+-[[muzie>>http://www.muzie.co.jp/artist/a023652/]]
+-[[zoome>>http://zoome.jp/masudak/]]
+
+**曲
+#list_by_tag(うみぬこP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(うみぬこPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm5126308)|&nicovideo(http://www.nicovideo.jp/watch/sm5333752)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5534713)|&nicovideo(http://www.nicovideo.jp/watch/sm5660687)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5797159)|&nicovideo(http://www.nicovideo.jp/watch/sm5901633)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5993375)|&nicovideo(http://www.nicovideo.jp/watch/sm6091038)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6215306)|&nicovideo(http://www.nicovideo.jp/watch/sm6411851)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6490421)|&nicovideo(http://www.nicovideo.jp/watch/sm6510852)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6616053)|&nicovideo(http://www.nicovideo.jp/watch/sm6675441)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6769287)|&nicovideo(http://www.nicovideo.jp/watch/sm6850573)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7077743)|&nicovideo(http://www.nicovideo.jp/watch/sm7518678)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7868141)|&nicovideo(http://www.nicovideo.jp/watch/sm8158145)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm8307848)|&nicovideo(http://www.nicovideo.jp/watch/sm8432533)|
+
+**VOCALOIDを使ったインストもの
+|&nicovideo(http://www.nicovideo.jp/watch/sm6246968)|&nicovideo(http://www.nicovideo.jp/watch/sm6358784)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7165870)|&nicovideo(http://www.nicovideo.jp/watch/sm7983994)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm8210684)||
+
+**共作
+|&nicovideo(http://www.nicovideo.jp/watch/sm4349904)|&nicovideo(http://www.nicovideo.jp/watch/sm4485233)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4558236)|&nicovideo(http://www.nicovideo.jp/watch/sm4775930)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5485389)|&nicovideo(http://www.nicovideo.jp/watch/sm5755407)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7487989)|&nicovideo(http://www.nicovideo.jp/watch/sm7687593)|
+
+**コメント
+- 今までつくられていなかったので、作ってみました。が、いろいろ間違っていそうなのでどんどん編集してください…。  -- 作成者  (2009-04-29 12:25:23)
+- タグがちとおかしいような。作成乙です  -- 名無しさん  (2009-04-29 15:30:55)
+- とりあえずタグ直しました。これで「う」でも「M」でも一覧に載るかな？  -- 名無しさん  (2009-04-29 17:23:48)
+- 編集ありがとうございます！　でも、曲の方のうみぬこPからリンクがたどれないのはどうしたらいいでしょうか…すいません；；  -- 作成者  (2009-04-29 22:51:55)
+- もし内容面でいろいろ間違っているとしたら私のせいです。何かあったらニコニコ大百科の方にもご一報くださるとありがたいと思います。  -- ニコニコ大百科の方の編集人  (2009-05-21 13:03:58)
+- 編集完了です。これですべての記事から飛べるはずです＾＾ &br()ニコニコ大百科の方の作成人さん、大百科での作成ありがとうございます！ &br()転載すいませんでした＞＜  -- 作成者  (2009-05-23 00:51:25)
+- 作成者です。曲追加しました！　すいませんが上記のタグはうみぬこPのみでお願いします…！  -- 作成者  (2009-10-30 21:25:47)
+- ↑ 「（Masuda K.）」の部分を消して「うみぬこP」のみにしました。ついでに今まで追加された曲での表記やタグも修正しておきました。  -- 名無しさん  (2009-11-20 21:34:53)
+- 「月が笑えばきみは歌う」という曲をあｐしている「あすは」さんという方はうみぬこPさんなのだろうか。（暗黙の了解？）  -- 名無しさん  (2012-03-07 20:46:02)
+- マイリストエラーがおきてr  -- 名無し  (2012-07-08 12:51:43)
+#comment()

@@ -1,0 +1,70 @@
+#right(){&furigana(もるP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/11980672" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/11980672">【ニコニコ動画】MOL.の初音ミク</a></iframe>)
+
+**特徴
+作り手名：『&u(){盛るP}』（&u(){もるP}）
+-ニューウェーブを中心にアヴァンギャルドな作品で異風を放つ。
+-自身3曲目となる「[[ハイセンスナンセンス]]」の爆発的なパワーで一躍有名に。
+-PIAPROなどでは「&b(){園山モル}」と名乗っている。&b(){MOL.}とも。
+-かわいらしい女の子の絵にも定評がある。
+--「傲音（おごりね）みく」【[[百>>https://dic.nicovideo.jp/a/%E5%82%B2%E9%9F%B3%E3%81%BF%E3%81%8F]]】というオリジナル設定のキャラを生み出した。
+-盛るPの読みだが、間違っても「さかるP」ではない。
+-2015年3月29日に「[[ハイセンスナンセンス]]」が自身初のミリオンを達成。
+
+**ミリオン達成状況
+|CENTER:&bold(){曲名}|CENTER:&bold(){100万再生}|CENTER:&bold(){備考}|
+|[[ハイセンスナンセンス]]|2015年3月29日||
+
+**リンク
+//-[[作者ブログ（モル園）>>http://moli3.sblo.jp/]]
+-[[Twitter>>https://twitter.com/soundbook]]
+-[[pixiv>>https://www.pixiv.net/users/64151]]
+-[[PIAPRO>>https://piapro.jp/moli_three]]
+
+**曲
+#list_by_tag(盛るP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(盛るPCD,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**動画
+|&nicovideo(sm6515787)|&nicovideo(sm6704181)|
+|&nicovideo(sm6793193)|&nicovideo(sm6846721)|
+|&nicovideo(sm7024898)|&nicovideo(sm7129433)|
+|&nicovideo(sm7875350)|&nicovideo(sm8019989)|
+|&nicovideo(sm8314346)|&nicovideo(sm8500300)|
+|&nicovideo(sm8594549)|&nicovideo(sm9311082)|
+|&nicovideo(sm9429933)|&nicovideo(sm10124911)|
+|&nicovideo(sm10653880)|&nicovideo(sm10904108)|
+|&nicovideo(sm13934169)|&nicovideo(sm20407891)|
+|&nicovideo(sm24700615)|&nicovideo(sm28185798)|
+|&nicovideo(sm28186007)|&nicovideo(sm38476602)|
+//|&nicovideo()|&nicovideo()|
+-&bold(){PV提供}
+|&nicovideo(sm7215797)|
+-&bold(){アレンジ曲}
+|&nicovideo(sm7684858)|&nicovideo(sm8239998)|
+
+**コメント
+- ついにできたかｗ  -- ゾム  (2009-05-12 23:42:39)
+- 絵で釣ってイントロで掴んで聴き終えた頃には立派なアングラ界の住人に。業が深いのぅ･･･  -- 名無しさん  (2009-05-15 18:12:48)
+- 実際この人の絵、アングラっぽいのが多いぞｗ  -- 名無しさん  (2009-05-16 15:57:09)
+- iTunes配信決定と聞いて  -- 名無しさん  (2009-07-10 22:17:08)
+- 盛るPハマってきた…！やばいぞｗｗ  -- 名無しさん  (2009-12-06 00:53:32)
+- この人蟹が好きだよな。歌詞のところどころにでてくるw  -- 名無しさん  (2010-03-21 10:23:56)
+- 動画にちょいちょい出てくる鳥みたいなの、あれなんなんだろう…  -- 名無しさん  (2010-05-10 04:40:49)
+- あれこそまさに蟹だ。  -- Shout  (2010-05-24 04:06:47)
+- 最近まで素で「さかるP」かと思ってたｗｗｗ  -- 名無しさん  (2010-07-06 18:39:19)
+- ピロンさんがリンクされてない…何故？  -- 名無しさん  (2010-07-23 02:54:43)
+- ↑タグの読み込みエラーによるもの。直しました。  -- 名無しさん  (2010-07-23 05:26:03)
+- モザイクロール  -- 名無しさん  (2010-12-30 12:21:27)
+- さかるPフイタｗｗ  -- 名無しさん  (2011-02-21 17:05:38)
+- さかるPだと思ってたわ。  -- 名無しさん  (2011-05-28 00:39:12)
+- さかるPwww  -- 名無しさん  (2011-11-30 13:55:48)
+- ピアプロに新曲が！https://piapro.jp/t/TeY8  -- 名無しさん  (2021-03-11 01:37:19)
+- さかるは笑ってしまった。ハイセンスナンセンス癖になる良い曲ですよね  -- 名無しさん  (2022-10-06 16:55:28)
+#comment()

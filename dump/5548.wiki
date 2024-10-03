@@ -1,0 +1,43 @@
+#right(){&furigana(きゅP) &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/7423830" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/7423830">【ニコニコ動画】初音ミク・鏡音リン・レン</a></iframe>)
+
+**特徴
+-曲担当の&bold(){画伯}とイラスト担当の&bold(){の氏}のコンビ。
+-故に、きゅPのPはプロデューサーではなくプロジェクトだと解釈しているらしい。
+-P名の由来は[[お弁当を温める歌]]の最後に入る「きゅ」という音から。
+-食べ物や調味料に関する曲に定評があり、&bold(){VOCALOID食堂入り}タグが付くことが多い。
+-曲の最後の一言に拘りがあるらしく、毎回、最後に表示されるイラストと共に視聴者を楽しませてくれる。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/mn5218]]
+-[[pixiv（の氏）>>http://www.pixiv.net/member.php?id=219961]]
+-[[ニコニコ大百科>>http://dic.nicovideo.jp/a/%E3%81%8D%E3%82%85p]]
+
+**曲
+#list_by_tag(きゅP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(きゅPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/nm3872293)|&nicovideo(http://www.nicovideo.jp/watch/nm3920314)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm4048478)|&nicovideo(http://www.nicovideo.jp/watch/nm4180531)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm4270813)|&nicovideo(http://www.nicovideo.jp/watch/nm4454404)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm4516240)|&nicovideo(http://www.nicovideo.jp/watch/nm4593790)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm4790813)|&nicovideo(http://www.nicovideo.jp/watch/nm4889350)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm4969250)|&nicovideo(http://www.nicovideo.jp/watch/nm5310169)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5931227)|&nicovideo(http://www.nicovideo.jp/watch/sm5979903)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm6135745)|&nicovideo(http://www.nicovideo.jp/watch/nm6209698)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm6526376)|&nicovideo(http://www.nicovideo.jp/watch/nm6848154)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7254081)|&nicovideo(http://www.nicovideo.jp/watch/sm7268308)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm7285841)|&nicovideo(http://www.nicovideo.jp/watch/nm7419512)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm7697559)|&nicovideo(http://www.nicovideo.jp/watch/sm7779012)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm8181664)|&nicovideo(http://www.nicovideo.jp/watch/nm8807663)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm8852214)|&nicovideo(http://www.nicovideo.jp/watch/sm8987555)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm9514513)|&nicovideo(http://www.nicovideo.jp/watch/nm9796660)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm10778598)|&nicovideo(http://www.nicovideo.jp/watch/sm11248785)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm12641337)||
+
+**コメント
+- きゅPの曲は、とても面白いと思います。イラストも可愛くて好きなので、新曲がでるのがとても楽しみです。  -- 名無しさん  (2012-12-23 19:07:42)
+#comment()

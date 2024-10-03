@@ -1,0 +1,89 @@
+#right(){&furigana(Garden)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm7025436)|
+作詞：[[青幇P]]
+作曲：[[青幇P]]
+編曲：[[青幇P]]
+唄：[[巡音ルカ]]
+
+**曲紹介
+曲名：『&u(){Garden}』(&u(){ガーデン})
+-軽音な英語ルカ。
+-相変わらず丁寧な調教。
+
+**歌詞
+#region(close,和訳)
+鳥が鳴いた　賽は投げられた
+
+獣の如き炎は、全てを呑み込んでしまった
+それはきっと、契約が終わったことの証明なのだろう
+
+黒焦げの庭で叫ぶ声
+歌っているのは過去か　それとも未来の事なのか
+そして、舞台は巡る　星の光と日の光
+ゲームは続いてゆき、駒は進む　降りるな、最後まで
+降りるな、最後まで
+
+焼け付いた大地が冷えた頃、私達は戦いの準備を始めた
+生きるために死ぬ準備が必要なのは皮肉なことだ
+
+黒焦げの庭で叫ぶ声
+歌っているのは過去か　それとも未来の事なのか
+そして、舞台は巡る　星の光と日の光
+ゲームは続いてゆき、駒は進む　降りるな、最後まで
+降りるな、最後まで
+
+鳥が鳴いた　賽は投げられた
+
+黒焦げの庭で叫ぶ声
+歌っているのは過去か　それとも未来の事なのか
+そして、舞台は巡る　星の光と日の光
+ゲームは続いてゆき、駒は進む　降りるな、
+物語の終わりまで
+
+#endregion
+（[[PIAPRO>>http://piapro.jp/ernie]]より転載/和訳は動画より書き起こし）
+
+Bird crowed. The die is cast.
+
+Flame like beast swallowed everything up.
+It might have been proof of disengagement.
+
+The voice of one crying in the charred garden.
+Are you singing the past? or the future?　
+And, the stage goes around. Star light, and day light.
+Game goes on, pieces go on. Don't drop out,
+until the end.
+
+When burnt ground became cold, we started war efforts.
+It's sarcastic that readiness to die to live is necessary...
+
+Voice of one crying in the charred garden.
+Are you singing the past? or the future?
+And, the stage goes around. Star light, and day light.
+Game goes on, pieces go on. Don't drop out,
+until the end.
+
+Bird crowed. The die is cast.
+
+The voice of one crying in the charred garden.
+Are you singing the past? or the future?
+And, the stage goes around. Star light, and day light.
+Game goes on, pieces go on. Don't drop out,
+until the ending of tale.
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+**コメント
+- 素敵！  -- 名無しさん  (2009-05-21 19:36:24)
+- このひとの曲は何故伸びないのかわからない  -- 名無しさん  (2009-05-21 19:44:22)
+#comment()
+
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)

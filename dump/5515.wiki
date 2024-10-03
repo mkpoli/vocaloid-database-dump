@@ -1,0 +1,10 @@
+#right(){【登録タグ:&tags()】}
+//↑タグ忘れ防止のための表示
+曖昧さ回避のためのページ
+----
+-[[DUNKEL]]の曲
+--[[Recollection/DUNKEL]]
+-[[Clean Tears]]・[[らぶざわP]]の曲
+--[[Recollection/Clean Tears・らぶざわP]]
+
+#include(曖昧さ回避の追加の仕方/告知)

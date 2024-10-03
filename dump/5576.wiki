@@ -1,0 +1,79 @@
+#right(){&furigana(あつそうくん)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+//&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/15201889" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/15201889">【ニコニコ動画】あつぞうくんマイリスト</a></iframe>)
+
+**特徴
+作り手名：『&u(){あつぞうくん}』
+-オサレでキュートでレトロポップな楽曲、音に合わせてタイミング良く動く映像。何回聴いても飽きない作風に定評がある。
+-VOCALOID初投稿作品は2009年3月6日の「[[water]]」（2009年12月現在非公開）だが、音楽に関わる仕事に就いていたらしく、それ以前からの作曲暦DTM暦を持つ。
+-代表曲「[[メガネ・キューティ]]」（2009年12月現在非公開）のようにキラキラした感じがステキ。
+-遂に「[[トリコロール・エア・ライン]]」にて悲願の殿堂入りを達成。
+-[[ふわP]] 、 [[れいな]]氏 らが所属する音楽サークル &bold(){atz records} の主宰者。
+-中の人は、90年代渋谷系POPユニットとしてインディーズで活動していた「&bold(){Melting Holidays}」の ササキアツシ氏 。
+
+**リンク
+//-[[あつぞうくん日記（作者ブログ）>>http://blog.livedoor.jp/atsu3kun/]]
+-[[ニコニコ>>https://www.nicovideo.jp/user/11503697]]
+-[[PIAPRO>>https://piapro.jp/atsuzoukun]]
+-[[KarenT>>https://karent.jp/artist/pp000081]]
+
+**曲
+#list_by_tag(あつぞうくん,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(あつぞうくんCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+#region(open,2009年の動画)
+-2009年の動画
+|&nicovideo(nm6407335)|&nicovideo(nm6653306)|
+|&nicovideo(sm6875850)|&nicovideo(sm7130999)|
+|&nicovideo(sm8451973)|&nicovideo(sm8590801)|
+|&nicovideo(sm8699900)|&nicovideo(sm8830476)|
+|&nicovideo(sm9021477)|>|
+#endregion
+#region(open,2010年の動画)
+-2010年の動画
+|&nicovideo(sm9269975)|&nicovideo(sm9684088)|
+|&nicovideo(sm9772732)|&nicovideo(sm9854464)|
+|&nicovideo(sm10176840)|&nicovideo(sm11117221)|
+|&nicovideo(sm11802708)|&nicovideo(sm12173659)|
+|&nicovideo(sm12420364)|>|
+#endregion
+#region(open,2011年の動画)
+-2011年の動画
+|&nicovideo(sm13817232)|&nicovideo(sm14557907)|
+|&nicovideo(sm15271033)|&nicovideo(sm15498622)|
+|&nicovideo(sm16483886)|>|
+#endregion
+#region(open,2012年の動画)
+-2012年の動画
+|&nicovideo(sm16580107)|&nicovideo(sm17946424)|
+|&nicovideo(sm18689118)|&nicovideo(sm18730821)|
+|&nicovideo(sm19492823)|>|
+#endregion
+#region(close,その他の動画)
+-&bold(){あつぞうくんが宇宙から贈る初めての歌ってみた}
+&nicovideo(sm7228848)
+#endregion
+
+**コメント
+- マイリスト変更や旧作公開停止などがあったので修正加筆させていただきました。 時期的に今こそあつぞうくんのきらきら～しゃららら～が光るべきだと思う  -- 名無しさん  (2009-12-09 19:02:38)
+- I want to be your girlfriend（綴りあやふや）　が聴きたいよー  -- 名無しさん  (2010-01-23 11:36:34)
+- 「パフスリーブ・ガール」が復活！  -- 名無しさん  (2010-02-18 21:15:10)
+- I want to be your girl friend　→ ttp://www.nicovideo.jp/watch/sm8638200  -- 名無しさん  (2011-03-20 04:04:13)
+- 大好き！！！！！！！！！  -- ∩・∀・)Ｇ  (2011-11-12 14:53:10)
+//- 他のPをゴキブリ呼ばわりして喜んでるサークルの親玉　音楽なんてやめちまえ  -- 名無しさん  (2012-08-13 02:01:47)
+//- あつぞうくんは良い曲作るけど、人間的に最低な人間です。（twitterある一部にて）  -- 名無しさん  (2012-08-24 15:13:45)
+- TAL殿堂入りおめでとうございます。　あつぞうさんの曲がいろんな人に聞いてもらえますように...  -- 名無しさん  (2012-12-15 01:36:13)
+- トリコール・エア・ライン大大大大大大大大大大大好きききききききき((ry  -- あああ  (2013-08-26 18:20:23)
+- あつぞうくんって、「メルホリ」の人だったのか！道理でセンスが良い筈だよ。  -- 竜奇  (2013-08-26 20:26:07)
+- あつぞうくん消えた？  -- 名無しさん  (2014-12-25 05:11:17)
+- 2010年が、この人が本領をボカロで発揮しまくった年だった。2011年に「Baby Baby It's You」の歌詞が現実になってしまった頃から、  -- 名無しさん  (2015-02-24 01:04:47)
+- ペースは下がっていったように思える。2014年に出した5枚目の「スク水コンピ」CDの最後に収録された「最後の夏」が、彼とボカロとの蜜月の終わりを語っていたようだ。それでも帰ってきてほしいと思う  -- 名無しさん  (2015-02-24 01:09:23)
+- あつぞうくんの音楽本当に大好きです。　戻ってきて欲しい　きっとみんな同じ気持だよね？  -- 名無しさん  (2015-07-27 00:27:20)
+- 失踪しても良いけど（寂しいけど）、非公開にするのはやめてほしいな…聴きたいよ  -- 厚底武くん  (2024-03-10 14:20:46)
+#comment()

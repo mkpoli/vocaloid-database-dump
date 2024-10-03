@@ -1,0 +1,17 @@
+#right(){【登録タグ:&tags()】}
+//↑タグ忘れ防止のための表示
+曖昧さ回避のためのページ
+----
+-[[えろあきP]]の曲
+--[[SMILE/えろあきP]]
+-[[シロツメP]]の曲
+--[[SMILE/シロツメP]]
+-[[td]]の曲
+--[[SMILE/td]]
+-[[Haltak at satellites]]の曲
+--[[smile/Haltak at satellites]]
+
+-[[くっじー]]のCD
+--[[smile/CD]]
+
+#include(曖昧さ回避の追加の仕方/告知)

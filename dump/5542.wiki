@@ -1,0 +1,30 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/11222312" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/11222312">【ニコニコ動画】せいさくぶつ</a></iframe>)
+
+**特徴
+-2009年2月「[[CuriousBox]]」にてVOCALOIDデビュー
+-ピアノを基調としたポップスやバラードを発表しているP。
+-ピアノとドラムが大好きで同時に演奏も得意。作品のピアノは本人が演奏している(ドラムはリアルタイム録音)。
+-ピアノの演奏技術は高く、聞き入る演奏を披露している。
+-また、「[[唄を歌えなくなった少女の唄]]」で穏やかで力強い音を、「[[雨、でもずっと晴れ。]]」で楽しい音を、と作品のジャンル毎に演奏を使い分けるなど演奏の幅も広い。
+-「雨、でもずっと晴れ。」では他のPとコラボをし作品の幅広げており今後の活躍が楽しみなPである。
+
+**リンク
+-[[Alter Root（作者ホームページ）>>http://alterroot.yu-nagi.com/index.html]]
+-[[CuriousBox（作者ブログ）>>http://alterroot.blog5.fc2.com/]]
+-[[PIAPRO>>http://piapro.jp/alter_root]]
+
+**曲
+#list_by_tag(Nutts,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(NuttsCD,100,sort=furigana)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/nm7088848)|&nicovideo(http://www.nicovideo.jp/watch/nm7292252)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm6309993)|&nicovideo(http://www.nicovideo.jp/watch/nm6639953)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm8024922)|&nicovideo(http://www.nicovideo.jp/watch/nm8730470)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm10390562)||
+
+**コメント
+#comment()

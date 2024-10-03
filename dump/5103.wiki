@@ -1,0 +1,115 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/8466522" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/8466522">【ニコニコ動画】VOCALOID投稿作品</a></iframe>)
+
+**特徴
+-2008年7月、「[[Search for Answer]]」にてボカロデビュー。
+-使用ボカロは初音ミク・巡音ルカ・Lily・結月ゆかり・紲星あかり・鏡音リン・鏡音レン。また1曲のみだがCeVIOのOИEも使用している。
+-7弦ギター、5弦ベースをメインとしたヘヴィ・ラウドなサウンドを軸に、その都度本人がやりたいことを取り入れた楽曲が特徴。
+-19作目からマイリスト説明欄においてカラオケ音源の他にギターとベースのタブ譜も配布するようになった。（一部楽曲を除く）
+-マイリスト説明欄によると一部の楽曲は繋がっているらしく、
+--「[[四次元犯行声明文]]」→「[[Яaison D'etre]]」→「[[ケイコク]]」≒「[[_the NIGHTMARE THEATER]]」→「[[SICKthty [9] victim consciousness]]」→「[[DISordermade monster]]」
+--「[[THE INVISIBLE FACT]]」⇔「[[Körpertemperatur]]」
+---となっている。
+-人間の五感シリーズ「[[視覚>A FRAME OF CONTRAST]]」「[[味覚>OBLIVION FLAVOR'S TEXTURE]]」「[[嗅覚>scentensive√]]」「[[触覚>INTERFACE[Σ]ENT]]」「[[聴覚>ネオスペクトラム]]」
+-殿堂入りしている曲は以下の4曲。&br()「_the NIGHTMARE THEATER」「[[ALICE iN BLACK MARKET]]」「[[Frontier]]」「[[SWALLOWTAIL ON THE SPIDER'z NET]]」
+
+**リンク
+-[[PIAPRO>>https://piapro.jp/LIQUIDIZE]]
+-[[YouTube>>https://www.youtube.com/channel/UCu4g9HI0VMWASkTp5tPrLtg]]
+-[[twitter>>https://twitter.com/ezidiuqil]]
+
+**曲
+#list_by_tag(LIQ,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(LIQCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画（最新9～10曲優先表示）
+#region(close,これ以前の楽曲)
+|&nicovideo(sm4087192)|&nicovideo(sm4201838)|
+|&nicovideo(sm4376142)|&nicovideo(sm4708216)|
+|&nicovideo(sm4952154)|&nicovideo(sm5432838)|
+|&nicovideo(sm5627162)|&nicovideo(sm5899033)|
+|&nicovideo(sm6222328)|&nicovideo(sm6222462)|
+|&nicovideo(sm6832687)|&nicovideo(sm7515258)|
+|&nicovideo(sm8337023)|&nicovideo(sm9205601)|
+|&nicovideo(sm9654388)|&nicovideo(sm10290601)|
+|&nicovideo(sm10862675)|&nicovideo(sm11310999)|
+|&nicovideo(sm11784652)|&nicovideo(sm12107146)|
+|&nicovideo(sm13034539)|&nicovideo(sm13506387)|
+|&nicovideo(sm14509526)|&nicovideo(sm14577163)|
+|&nicovideo(sm14638416)|&nicovideo(sm15801411)|
+|&nicovideo(sm15801476)|&nicovideo(sm16788378)|
+|&nicovideo(sm17558916)|&nicovideo(sm18729188)|
+|&nicovideo(sm18908438)|&nicovideo(sm19678822)|
+|&nicovideo(sm21121383)|&nicovideo(sm21177101)|
+|&nicovideo(sm21177136)|&nicovideo(sm21177155)|
+|&nicovideo(sm22431661)|&nicovideo(sm22963084)|
+|&nicovideo(sm23778879)|&nicovideo(sm24454551)|
+|&nicovideo(sm25787118)|&nicovideo(sm25832154)|
+|&nicovideo(sm25832251)|&nicovideo(sm27042597)|
+|&nicovideo(sm27042769)|&nicovideo(sm27042882)|
+|&nicovideo(sm27269296)|&nicovideo(sm28581632)|
+|&nicovideo(sm28830933)|&nicovideo(sm29401952)|
+|&nicovideo(sm29621494)|&nicovideo(sm30958698)|
+|&nicovideo(sm31600489)|&nicovideo(sm31996591)|
+|&nicovideo(sm32467672)|&nicovideo(sm32664753)|
+|&nicovideo(sm32951036)|&nicovideo(sm34069398)|
+|&nicovideo(sm34114222)|&nicovideo(sm34148073)|
+|&nicovideo(sm34513826)|&nicovideo(sm35241630)|
+|&nicovideo(sm35259880)|&nicovideo(sm35554110)|
+|&nicovideo(sm35677491)|&nicovideo(sm35739675)|
+|&nicovideo(sm35946083)|&nicovideo(sm36224267)|
+|&nicovideo(sm36755406)|&nicovideo(sm36967388)|
+|&nicovideo(sm37174516)|&nicovideo(sm37223265)|
+|&nicovideo(sm37327654)|&nicovideo(sm37654051)|
+#endregion
+|&nicovideo(sm37803602)|&nicovideo(sm37945525)|
+|&nicovideo(sm38358847)|&nicovideo(sm38508851)|
+|&nicovideo(sm38949790)|&nicovideo(sm39217254)|
+|&nicovideo(sm39402230)|&nicovideo(sm40216513)|
+|&nicovideo(sm41076804)|&nicovideo(sm42262741)|
+|&nicovideo(sm43583568)|&nicovideo(sm44010788)|
+|&nicovideo(sm44152305)||
+//|&nicovideo()|&nicovideo()|
+
+**コメント
+- LIQさん音楽の趣味とかいっしょすぎる！  -- りょおすこ  (2011-02-13 13:14:09)
+- 本能的に好きです。  -- 名無しさん  (2011-02-24 23:39:20)
+- なんて読むのかわからない泣  -- 名無しさん  (2011-02-28 19:52:39)
+- 好きです。もっと伸びてほしい…！  -- 名無しさん  (2011-03-07 20:53:25)
+- ３週連続リリースｋｔｋｒ！！！  -- 名無しさん  (2011-05-25 21:30:47)
+- リリースお疲れ様でした。しかし一向に記事が出来ないのは何故なのか・・・。  -- 名無しさん  (2011-06-12 10:46:55)
+- アリスインブラックマーケット大好きです。  -- ゆんたく  (2011-06-13 20:38:27)
+- 英語がカタカナ読みなのが気になる・・・　他は全部かっこいいから余計に  -- 名無しさん  (2011-10-07 01:44:50)
+- 本当に大好き！！  -- 名無しさん  (2012-02-26 14:42:34)
+- LIQさんの結月ゆかりはカッコ良すぎ(〃'▽'〃)  -- ゆりやん  (2012-05-03 18:34:58)
+- 次のゆかり曲も期待してます♪  -- kazz  (2012-07-29 22:39:40)
+- ゆかり曲も良いけどLIQさんのソリッドなミク声たまんない  -- 名無しさん  (2012-10-16 23:06:20)
+- ジーサスアンドメリーチェインが神すぎて辛い・・  -- 名無しさん  (2012-10-22 21:40:57)
+- LIQさん神すぐる｡ゆかりんでは間違いなく一番だな｡  -- 名無しさん  (2012-11-08 00:17:53)
+- frontier聞いて精神崩壊しそうになった  -- 名無しさん  (2012-11-14 17:42:20)
+- 確かに「Frontier」はシビレる！間違いなくVOCAROCK屈指の良曲だと思います。  -- 名無しさん  (2013-02-11 16:55:24)
+- Ｆｒｏｎｔｉｅｒが大好きすぎる。  -- るっちゃん  (2013-04-02 20:55:11)
+//毎日歌ってる…最高！  -- るっちゃん  (2013-04-02 20:55:11)
+- 「Яaison D'etre」もかなり良いよ。若干検索しにくいかもだけど  -- 名無しさん  (2013-04-21 21:24:56)
+- デュエット曲とか聴いてみたい。ミク、ゆかり、ルカ、Lilyで。  -- ♬♪♫  (2013-06-22 04:33:58)
+- この人は完成度高いなぁ。少し前まで英語の発音が気になってたけどそれも解消されて聴きやすい  -- 名無しさん  (2013-11-09 22:08:08)
+- 記憶-キオク-　いい曲でした！！！！！！！！  -- 283  (2013-11-10 01:35:14)
+- ボカロPの中でも実力派の一人だな本当  -- 名無しさん  (2013-11-25 20:23:43)
+- 某アーティスト方の曲パクってるだけじゃん。好きになれないわ  -- 名無しさん  (2013-12-02 16:43:02)
+- 「ARROWz」もかなり良いね！ちなみに上↑みたいな主旨のコメントする人は洋楽とかあまり聴いた事が無い証拠。  -- 名無しさん  (2014-02-03 14:19:14)
+- 根拠なくてわろた  -- 名無しさん  (2014-03-29 20:22:04)
+- 「INNOCENT ADDICT」が一番好きです！超カッコいいです！  -- 名無しさん  (2014-04-29 11:58:13)
+- センスの良さは認めるよ。でも俺も上4コメと同じく、v系バンドとかパクってるよこのP。あとロック曲にDJのターンテーブル入れられるとちょっとイラっとする  -- 名無しさん  (2015-03-22 03:42:54)
+- パクリとまではいかないまでもよくあるV系な感じだなーとは思う。ターンテーブル云々は知らんわｗチラ裏にでも書いとけ  -- 名無しさん  (2015-03-22 12:29:23)
+- ディスパに影響受けてるって本人が公言しているって書いてあったの消えてる。  -- 名無しさん  (2015-05-31 08:25:56)
+- オルタナとかV系の要素が強いからね。どちらも好んで聴くけどわざわざ目くじら立てるレベルじゃないよ  -- 名無しさん  (2016-04-18 21:47:29)
+- piaproにあるカップリング曲もしっかり作り込まれててgood  -- 名無しさん  (2016-07-29 23:20:49)
+- 色々聴いてみましたが、「ACCEPT ERROR COMPLEX」「Deeds, not words」「flashback $cript」「iolite」もかなり良いですね！  -- 名無しさん  (2017-03-30 01:08:01)
+//- 誰かアステロイドベルトの歌詞分かる人いますか？  -- 名無しさん  (2017-05-21 23:02:21)
+//- 私もアステロイドベルトの曲好きなんですが、歌詞見つからないです。  -- 名無しさん  (2017-09-09 23:31:58)
+//- アステロイドベルトの曲によく出てくるフレーズの「てんかいちてんかんそくの」ってどういう意味なのか気になります。  -- 名無しさん  (2017-09-09 23:58:08)
+//- piaproからじゃなくaxfcからzipでダウンロードして解凍しますとtxtファイルで歌詞が手に入ります  -- 名無し  (2017-11-28 00:49:03)
+//- 何故かTwitterでブロックされて、とても悲しいです…  -- 名無しさん  (2020-06-21 00:51:05)
+#comment()

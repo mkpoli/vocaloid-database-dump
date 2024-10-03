@@ -1,0 +1,46 @@
+#right(){&furigana(きみははっぽうすちろーる) &furigana()【登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186105788.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){君は発泡スチロール}|CENTER:[[Summer Driver]]|
+
+|&bold(){[[ちえP]]}|&bold(){[[リョータイ]]}||[[OSTER project]]|[[弱音P]]|[[マチゲリータP]]|[[minao（希望P）]]|
+
+||CENTER:即売|CENTER:同人|
+|CENTER:発売|CENTER:2009年5月17日|CENTER:2009年5月27日|
+|CENTER:価格|CENTER:￥1,000|CENTER:￥1,470（税込）|
+|CENTER:サークル|>|CENTER:ちえぽむ。|
+
+**CD紹介
+-[[ちえP]]初のVOCALOIDアルバムにして2008年までの活動を全て纏めたベストアルバム！
+-ブックレット前半は「文：[[リョータイ]]、絵：はらの」のミニ絵本になっています。
+-変幻自在かつ可愛らしいメロディラインに身を委ねて、心地よいひと時を過ごしてみませんか？
+-発表済みのオリジナル曲とアレンジ曲の全てを収録。新曲もありの全16曲72分超の大ボリューム。
+-ボーナストラック（15,16）には、[[OSTER project]]がアレンジで2曲ゲスト参加しています。
+
+**曲目
+（特に記述の無いものはすべて、作編曲：ちえ / 作詞：リョータイ）
++君は発泡スチロール　&color(red){NEW!}
++[[クリスマスはバイトだ！]]
++[[放課後ちょこかっぷ]]
++[[フライングスタート]]
++[[月花ノ姫歌>月花ノ姫歌/ちえP]]
++[[シャイン！]] ちえPアレンジ　（作曲作詞：[[弱音P]] / 編曲：ちえ）
++[[クリーニングスイッチ>クリーニングスイッチ - Cleaning Switch -]]　（パーカッション：[[子猫P]]）
++[[湯船にのって]]
++[[少年ジェット]]
++[[ナイトメア劇をご覧あれ]]　（作曲：[[マチゲリータP]] / 作詞：リョータイ / 編曲：ちえ）
++[[starry world>starry world/minao（希望P）]] (in twinkling night)　（作曲：[[minao>minao（希望P）]] / 作詞：sami / 編曲：ちえ）
++[[白雪の巫女>Snow-white Medium]]　（作曲作詞：[[弱音P]] / 編曲：ちえ）
++[[ロケット宅宙便]]
++[[La Noel Sucree ～おさとうノエル～>La Noël Sucrée ～おさとうノエル～]]
++ロケット宅宙便 (速達FTN-Remix)　arranged by [[OSTER Project]]
++AFTER SCHOOL CHOCOLATE CUP SHOW　arranged by [[OSTER Project]]
+
+**リンク
+-[[作者ホームページ>>http://chie.cc/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/18/51/040010185148.html]]
+
+**コメント
+#comment

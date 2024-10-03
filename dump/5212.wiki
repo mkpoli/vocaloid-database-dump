@@ -1,0 +1,36 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){HM-COMPILATION Vol.1}|CENTER:[[Sound Camp Vol.1]]|
+
+|&bold(){774P}|[[SOLIDIO]]|[[そそそP]]|[[NAV]]|[[あルカP]]|[[アドム]]|[[右マッチP]]|[[vanette]]|[[テラ小室P]]|[[刹那P]]|[[2M]]|[[Hal>ポン酢P]]|[[ノラにゃんこ]]|
+
+発売：2009年05月17日
+価格：￥500
+流通：即売
+サークル：FANKS DYNA-MIKUs
+
+**CD紹介
+-にゃっぽん『HM-Network』コミュニティ発のサークル『FANKS DYNA-MIKUs』によるコンピCD。
+-2009年3月のミクフェス2・5月のボーマス8にて、コラボCD『[[Sound Camp Vol.1]]』と同時頒布された。
+-2枚とも、制作統括は774P。
+--ただし、こちらのCDについては、774Pは曲提供はしておらず、制作統括のみを担当。
+
+**曲目
++[[yellow heart]] （feat. 鏡音リン） / 作詞：[[SugarGlider]]、作曲：[[SOLIDIO]]
++[[Try for Keeps-時代はいつでもLOOPする-]] （feat. 初音ミク） / [[そそそP]]
++[[勇気の翼]] （feat. 鏡音リン） / [[NAV]]
++[[教えてシンセサイザー　～制約のない世界で～]] （feat. 初音ミク・巡音ルカ） / [[あルカP]]
++[[Pastel Days]] （feat. 初音ミク） / 作詞：[[mayu]]、作曲：[[アドム]]
++[[誰にも負けない]] （feat. 鏡音レン） / [[右マッチP]]
++[[Etranger ～旅立ちの刻を越えて～]] （feat. MEIKO） / 作詞：[[774P]]、作曲：[[vanette]]
++[[X'mas to you]] （feat. 初音ミク） / [[テラ小室P]]
++[[Science]] （feat. KAITO・初音ミク） / [[刹那P]]
++HELIX （feat. 初音ミク） / [[2M]]
++[[unforgotten name]] （feat. 巡音ルカ） / 作詞：chu-ji、作曲：[[Hal>ポン酢P]]
++[[ねぇ？]] （feat. 初音ミク） / [[ノラにゃんこ]]（メンテ突入P）
+
+**リンク
+-[[特設サイト（バックアップ）>>http://nyappon-hmn.srv7.biz/]]
+
+**コメント
+#comment

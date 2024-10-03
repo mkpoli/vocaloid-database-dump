@@ -1,0 +1,36 @@
+#right(){&furigana(らいか) &furigana()【登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186108941.jpg,x=300,y=300)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[alive>alive/CD]]|CENTER:&bold(){ライカ}|CENTER:[[ライカ（配信）>ライカ/彩音P]]|
+
+|&bold(){[[彩音P]]}|
+
+発売：2009年3月29日
+流通：即売
+価格：￥500
+サークル：彩音 ～xi-on～
+
+**CD紹介
+-[[彩音P]]の初音ミクオリジナルCD第3弾。
+--レーベルなどには「Vocaloid Project 2.5」と書かれており、第2.5弾扱いとなっている。
+-表題作「[[ライカ>ライカ/彩音P]]」などのカラオケ版やコーラス付きカラオケを含む6トラックを収録。
+--「[[ライカ>ライカ/彩音P]]」は次回発表予定のミニアルバムに収録予定。
+--「Stray Dog」は、このCD以外での発表予定はないとのこと。
+-ミクフェス2で初頒布。イベント以外での頒布は行われない。
+
+**曲目
++[[ライカ>ライカ/彩音P]]
++Stray Dog
++ライカ （カラオケ）
++Stray Dog （カラオケ）
++ライカ （カラオケ・コーラスあり）
++Stray Dog （カラオケ・コーラスあり）
+
+**リンク
+-[[作者ホームページ>>http://xion.art-studio.cc/]]
+-[[頒布作品紹介>>http://xion.art-studio.cc/product.htm]]
+
+**コメント
+#comment

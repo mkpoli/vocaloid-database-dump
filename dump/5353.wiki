@@ -1,0 +1,83 @@
+#right(){&furigana(しらいおんな)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(nm7027178)|
+作詞：[[図書延滞P]]
+作曲：[[図書延滞P]]
+編曲：[[図書延滞P]]
+イラスト：[[ざいん]]
+唄：[[巡音ルカ]]
+
+**曲紹介
+曲名：『&u(){地雷女}』(&u(){じらいおんな})
+-英語でメタルなルカ曲。
+
+**歌詞
+#region(close,和訳)
+あなたが私にしたことをあなたにしたい
+自分のしたことを覚えてる？
+あなたが私を見るのをやめても多分
+あなたの住む世界から私は消えない
+
+本当のことを言ってよ　あなたは私を暴行したがってる
+私を暴行したいと言ってよ
+
+私を好きになるのは　私を知りもしない人だけ
+私のことを知れば知るほど　あなたは私から離れていく　違う？
+
+本当のことを言ってよ　あなたは私を暴行したがってる
+私を暴行したいと言ってよ
+
+ばらばらになる思考と感情
+どちらを信じなければいけないのか分からない
+別々のリズムで血と骨が踊る
+どちらが私にそれをさせるのか分からない
+
+私を嫌いになるのは決まって　かつては私を好きだった人
+私好きにならなければ　あなたは私から離れていかない　違う？
+
+私を好きになるのは　私を知りもしない人だけ
+私のことを知れば知るほど　あなたは私から離れていく　違う？
+#endregion
+I want to do it to you as you did to me
+do you remember what you've done?
+even if you stop watching me,maybe
+I don't disappear from your world
+
+tell the truth,you wanna rape me
+say to me that you wanna rape me
+
+man who love me is only the man who don't know about me
+the more you know about me,the more you go away from me
+do not you?
+
+tell the truth,you wanna rape me
+say to me that you wanna rape me
+
+thought and emotion are falling apart
+I don't know which I must believe
+blood and bone are dancing in different rhythm
+I don't know which let me do it
+
+man who hate me is always the man who once have loved me
+if you don't love me,you don't go away from me
+don't you?
+
+man who love me is only the man who don't know about me
+the more you know about me,the more you go away from me
+do not you?
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+**コメント
+- やたらかっこいいんですが  -- 名無しさん  (2009-05-25 00:01:54)
+- これはやばいです！中毒です！かっこいい・・・！  -- 名無し  (2009-08-09 00:02:43)
+#comment()
+
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)

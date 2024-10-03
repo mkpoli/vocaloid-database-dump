@@ -1,0 +1,35 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm7013607)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Greatest misses}|CENTER:[[Second Coming]]|
+
+|&b(){[[えっちP]]}|[[l.i.a.m>liam/作り手]]|[[夢見るP]]|[[テンネン]]|[[wintermute]]|[[キャプテンミライ]]|[[ここ狭いP]]|
+
+||CENTER:即売|CENTER:同人|
+|発売|>|CENTER:2009年5月17日|
+|価格|CENTER:￥1,000|CENTER:￥1,050（税込）|
+|サークル|>|CENTER:Out Wave Cluster|
+
+作詞・作曲：&b(){[[えっちP]],[[l.i.a.m>liam/作り手]],[[夢見るP]],[[テンネン]],[[wintermute]],[[キャプテンミライ]],[[ここ狭いP]]}
+イラスト：&b(){[[しまだ>>http://www.pixiv.net/member.php?id=499516]]}
+
+**CD紹介
+-ギターサウンドに定評のある7人のPがそれぞれの“ロキノン”を掻き鳴らすコンピレーションアルバム。
+-主催は[[えっちP]]。ボーマス8にて初頒布。
+
+**曲目
++[[デイジー>デイジー/liam]]　/ l.i.a.m＠ジューダスP
++[[5:03]]　/ 夢見るP
++[[カラカラ]]　/ テンネン＠おっぴろげP
++[[White Light>White Light/wintermute]]　/ wintermute
++[[ハローノストラ]]　/ キャプテンミライ
++[[you&i>you ＆ i/えっちP]]　/ hr＠えっちP
++[[浮華]]　/ ろくがつ＠ここ狭いP
+
+**リンク
+-[[Out Wave Cluster ブログ>>http://owc.blog20.fc2.com/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/18/56/040010185629.html]]
+
+**コメント
+#comment

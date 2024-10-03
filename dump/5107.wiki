@@ -1,0 +1,37 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+
+|CENTER:本作|CENTER:次作|
+|CENTER:&bold(){THE DARK OF WANDERING}|CENTER:-|
+
+|&bold(){[[ことえり（♂）]]}|
+
+発売：2009年5月5日
+価格：￥500
+流通：即売
+サークル：P.B.R.（ぱぁびぃろっく）
+
+**CD紹介
+-ことえり（♂）氏の作品をPIAPROでコラボ募集して出来上がったCD。
+-M3にて初頒布、ボーマス8でも頒布される。
+-現在PV制作者募集中とのこと。
+
+**クロスフェードデモ
+&nicovideo(http://www.nicovideo.jp/watch/sm6942900)
+
+**曲目
++[[迷走経路～WANDERING DARK ROAD]]
++TIME TO GO
++NEW WORLD
++THE DARK OF WANDERING
++[[夏の閃光]] -BandEdition
++THE DARK OF SKY -TechnoEdition
++THE DARK OF WANDERING -OriginalEdition
++夏の閃光 -BandEdition off vocal
++夏の閃光 feat.祭屋 (ボーナストラック)
+
+**リンク
+-[[作者PIAPRO>>http://piapro.jp/kotoeri777]]
+-[[PIAPROコラボ>>http://piapro.jp/collabo/?view=collabo&id=11206]]
+
+**コメント
+#comment

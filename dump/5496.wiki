@@ -1,0 +1,30 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/4327172" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/4327172">【ニコニコ動画】一覧表仮</a></iframe>)
+
+**特徴
+-自称『なぎっぽい人』、アーティスト名は初期の頃は『nagi』、[[RAIN>RAIN/ゆうなぎP]]以降は『Yu-nagi』。
+-[[出せないメール]]がJOYSOUNDにてリクエスト投票エントリー中ではあるが、そこでのアーティスト名は『asphodelus garden』なので注意が必要。
+-ミク曲ばっかりつくってますが，本命はリンです．（本人プロフィール欄より転載）
+-美しいピアノメロディーに特徴があります。
+-※注意．リンを与えないで下さい．うっかりついて行く恐れがあります（本人プロフィール欄より転載）
+
+**リンク
+-[[作者ホームページ>>http://utsk.net/]]
+-[[ピアプロ>>http://piapro.jp/sinya_mk]]
+-[[にゃっぽん>>http://v-nyappon.net/?m=pc&a=page_f_home&target_c_member_id=2728]]
+
+**曲
+#list_by_tag(ゆうなぎP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(ゆうなぎPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm2033565)|&nicovideo(http://www.nicovideo.jp/watch/sm2974618)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3423279)|&nicovideo(http://www.nicovideo.jp/watch/sm3544401)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3988605)|&nicovideo(http://www.nicovideo.jp/watch/sm4475944)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5777792)|&nicovideo(http://www.nicovideo.jp/watch/sm6242795)|
+
+
+**コメント
+#comment()

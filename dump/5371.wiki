@@ -1,0 +1,31 @@
+#right(){&furigana(いろなP) &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/12693132" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/12693132">【ニコニコ動画】うｐりすと</a></iframe>)
+
+**特徴
+-2009年2月27日「[[ハートビート>ハートビート/いろなP]]」でデビュー。
+-その心地良いメロディと軽快なベースラインには定評がある。
+-最初は 167 で投稿してたが [[164]]氏 と紛らわしいため いろなP になった。
+
+**リンク
+-[[初音さんとぼく（作者ブログ）>>http://i167.sakura.tv/]]
+-[[PIAPRO>>http://piapro.jp/skgc_orz]]
+-[[KarenT>>http://karent.jp/artist/pp000150]]
+
+**曲
+#list_by_tag(いろなP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(いろなPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/nm6277427)|&nicovideo(http://www.nicovideo.jp/watch/sm7126670)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm8890355)|&nicovideo(http://www.nicovideo.jp/watch/sm9950938)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm10534340)|&nicovideo(http://www.nicovideo.jp/watch/sm11984332)|
+|&nicovideo(sm13121052)||
+
+**コメント
+- もっと評価されるべき  -- 名無しさん  (2010-10-08 18:25:49)
+- 優しい感じが好きです  -- mizuki  (2011-03-25 04:41:33)
+- すごくイイのに！！  -- ヨヨ  (2011-08-16 22:29:25)
+- いろなPの優しい感じが好き  -- 名無しさん  (2011-10-14 20:25:38)
+#comment()

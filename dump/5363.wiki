@@ -1,0 +1,69 @@
+#right(){&furigana()&furigana()【登録タグ:&tags()】}
+&nicovideo(http://www.nicovideo.jp/watch/sm6708944)
+作詞：[[モノローグP]]
+作曲：[[モノローグP]]
+編曲：[[モノローグP]]
+唄：初音ミク
+
+**曲紹介
+-モノローグPの第1作目となる楽曲。
+-KarenTレーベルよりダウンロード販売中。
+
+**KarenT配信
+&ref(http://karent.jp/npdca/156_20091224132520_0240_0240.jpg)
+
+|CENTER:&bold(){前作}|CENTER:&bold(){本作}|CENTER:&bold(){次作}|
+|CENTER:-|CENTER:&bold(){A to the World}|CENTER:-|
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/a-to-the-world-single/id349053161]]}|
+
+***CD詳細
+-流通：配信
+-発売：2010年1月13日
+-価格：￥150（税込）
+-レーベル：[[KarenT>>http://karent.jp/album/156]]
+-名義：[[モノローグP>>http://karent.jp/artist/pp000111]]
+
+***曲目
++A to the world （feat. 初音ミク）
+
+**歌詞
+A to the world
+雲の流れよりも　もっとはやく
+小さな胸が高鳴るの　Memory
+true　the　world
+空も海も風も　全部　ゼンブ
+二人の色になれ　ah Memory
+
+サヨナラ　トウメイの空　yeah yeah
+今　朝が始まるの　yeah yeah
+
+キミが笑って
+その手を伸ばすとね　yeah yeah
+想い出に色が降る
+
+午後　キスの時間だね　yeah yeah
+すぐに溶け合う二人　yeah yeah
+
+Don't stop radio
+歌をとめないでね　yeah yeah
+夢からさめたくないの
+
+A to the world
+キミが教えてくれた世界は
+イチオクの星が　きらめくの　memory
+true the world
+春の夢も　恋も　全部　ゼンブ
+二人で彩るの　ah memory
+
+true the　world
+キミの指も、髪をなでる癖も
+消えないで　キエナイデ　ワタシノ　memory
+
+true the world
+このナミダで　薄れゆくキオクを
+つないで　ツナイデよ　ah memory
+
+
+**コメント
+#comment()

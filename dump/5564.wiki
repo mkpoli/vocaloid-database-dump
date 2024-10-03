@@ -1,0 +1,59 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/8972443" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/8972443">自作曲リスト</a></iframe>)
+
+**特徴
+-エレクトロ、テクノ、アンビエント等のジャンルをmixした様な作品を発表しているP
+-上記の様に1つの作品中で複数のジャンルの音を合わせて使用しているため、ジャンルは不特定。
+-様々な音を組み合わせた曲も作るなど意欲的な作品も多い。
+-投稿数も多く40曲を超える曲を発表している。
+-作品はどれも心地良く固定したファンが付いている。BGMとして聞くファンが多い模様。
+-歌詞は自らほとんど書かず作詞家に頼んでいる。（※ [[桃華なゆた（灯下はこ、）>灯下はこ、]] 氏等）
+-代表作は「[[アン・イノセンス]]」。
+
+**リンク
+-[[ピアプロ>>http://piapro.jp/k_s_river]]
+-[[KarenT>>http://karent.jp/artist/pp000238]]
+
+**曲
+#list_by_tag(river,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(riverCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+***オリジナル
+|&nicovideo(http://www.nicovideo.jp/watch/sm4922846)|&nicovideo(http://www.nicovideo.jp/watch/sm4936386)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5059542)|&nicovideo(http://www.nicovideo.jp/watch/sm5073297)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5127283)|&nicovideo(http://www.nicovideo.jp/watch/sm5143381)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5316920)|&nicovideo(http://www.nicovideo.jp/watch/sm5559500)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5571616)|&nicovideo(http://www.nicovideo.jp/watch/sm5690911)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5817395)|&nicovideo(http://www.nicovideo.jp/watch/sm5844017)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6194963)|&nicovideo(http://www.nicovideo.jp/watch/sm6253025)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6351017)|&nicovideo(http://www.nicovideo.jp/watch/sm6429350)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6492650)|&nicovideo(http://www.nicovideo.jp/watch/sm6744018)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6764033)|&nicovideo(http://www.nicovideo.jp/watch/sm6853373)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6987885)|&nicovideo(http://www.nicovideo.jp/watch/sm7156855)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7223343)|&nicovideo(http://www.nicovideo.jp/watch/sm7294793)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7336490)|&nicovideo(http://www.nicovideo.jp/watch/sm7569264)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7682634)|&nicovideo(http://www.nicovideo.jp/watch/sm8027158)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm8069104)|&nicovideo(http://www.nicovideo.jp/watch/sm8123522)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm8171777)|&nicovideo(http://www.nicovideo.jp/watch/sm8317023)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm8503809)|&nicovideo(http://www.nicovideo.jp/watch/sm8615803)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm8657444)|&nicovideo(http://www.nicovideo.jp/watch/sm8753932)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm8854089)|&nicovideo(http://www.nicovideo.jp/watch/sm8903614)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9063673)|&nicovideo(http://www.nicovideo.jp/watch/sm9176017)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9323828)|&nicovideo(http://www.nicovideo.jp/watch/sm9401348)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9491763)|&nicovideo(http://www.nicovideo.jp/watch/sm9578501)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9789871)|&nicovideo(http://www.nicovideo.jp/watch/sm9812190)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9858665)|&nicovideo(http://www.nicovideo.jp/watch/sm9895573)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm10149212)|&nicovideo(http://www.nicovideo.jp/watch/sm10384652)|
+
+***アレンジ
+|&nicovideo(http://www.nicovideo.jp/watch/sm8609449)||
+
+**コメント
+- なんでこんなに精力的な人のページが作られてないんだ。でも詳しく知らないから解説等よろしく  -- 名無しさん  (2009-06-11 05:18:04)
+- 「フラン」という曲の記事はないのですか？  -- 名無しさん  (2012-08-08 21:53:44)
+- silent forestいい曲なのに入ってないね  -- 名無しさん  (2013-05-22 20:37:14)
+- riverさんの曲はボカロ曲の中でも独特の個性があると思う  -- 名無しさん  (2014-06-29 17:37:09)
+#comment()

@@ -1,0 +1,33 @@
+#right(){&furigana(DOLL)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){DOLL}|CENTER:[[DIARRHEA>DIARRHEA/CD]]|
+
+|&bold(){[[鬱P]]}|
+
+発売：2009年5月17日
+価格：￥500（税込）
+流通：即売
+サークル：MY SONG IS SHIT
+
+**CD紹介
+CD名：『&u(){DOLL}』
+-鬱P初のシングルCD。ボーマス8にて頒布。
+-既発表１曲に加え3曲が新曲。ボーマス8直前に収録曲「[[dope disco]]」が公開された。
+-既発表曲である「[[クビククリ・モンスター]]」はCDの為に再ミックスが行われている。
+
+**曲目
++ドール　&color(red){NEW!}
++[[dope disco]]
++[[クビククリ・モンスター]]-Doll MiX-
++華　&color(red){NEW!}
+
+//**リンク
+//-[[作者サイト>>http://msis.xxxxxxxx.jp/]]
+//
+**コメント
+- 音が高くなった？  -- 名無しさん  (2012-07-08 16:22:48)
+#comment

@@ -1,0 +1,34 @@
+#right(){&furigana(ねぎじゃなかった) &furigana()【登録タグ:&tags() 】}
+//#image(http://www.polyphonicbranch.com/image/s-negu_jacket.jpg,title=ネギじゃなかった…)
+//&ref(http://www.polyphonicbranch.com/image/jk001.jpg)
+
+#amazon(B005ZDRDDO)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){ネギじゃなかった…}&br()[[Extension of my wish>Extension of my wish/CD]]|CENTER:[[Like A Rolling Star ☆>Like A Rolling Star ☆/CD]]|
+
+|&bold(){[[PolyphonicBranch]]}|
+
+||CENTER:即売|CENTER:同人|
+|発売|CENTER:2009年2月22日|CENTER:2009年3月|
+|価格|CENTER:￥500|CENTER:￥735(税込)|
+|サークル|>|CENTER:PolyphonicBranch|
+
+**CD紹介
+-『Polyphonic Branch』がお届けするボーカロイドCD第一弾（ルカシングル『[[Extension of my wish>Extension of my wish/CD]]』と同時リリース）。
+-既発表曲「[[music>music/PolyphoniｃBranch]]」を含む3曲入りマキシシングル。
+-ボーマス7での初頒布後、とらのあな・あきばお～こくなどで委託販売されている。
+
+**曲目
++Feel My Soul
++Rainy Day But Rainbow
++[[music>music/PolyphoniｃBranch]]
+
+**リンク
+-[[作者HP>>http://www.polyphonicbranch.com/]]
+-[[CD特設サイト>>http://www.polyphonicbranch.com/negi.htm]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/17/74/040010177425.html]]
+
+**コメント
+- 『ﾈｷﾞじゃなかった…』ってﾐｸさんそのまま水に流してしまうんですかww  -- 画像と題名見て思った小生  (2011-04-04 22:12:55)
+#comment

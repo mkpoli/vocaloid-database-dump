@@ -1,0 +1,21 @@
+#right(){&furigana(れい・ぼーん) &furigana()【登録タグ:&tags() 】}
+
+
+**特徴
+-ベースのギターや後ろのコーラスがかっこいい、ロック調の歌が特徴。
+-&b(){Ray Vaughan}とも。
+
+**リンク
+-[[センターステーション（作曲者ブログ）>>http://bbh25.blog104.fc2.com/]]
+-[[ピアプロ>>http://piapro.jp/Dote27]]
+
+**曲
+#list_by_tag(れい・ぼーん,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm1913254)|&nicovideo(http://www.nicovideo.jp/watch/sm4656952)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4657197)||
+
+**コメント
+- 実は隠れた名曲が多かったりするw  -- 名無しさん  (2010-01-06 17:55:15)
+#comment()

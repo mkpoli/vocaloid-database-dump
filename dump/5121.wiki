@@ -1,0 +1,39 @@
+#right(){&furigana(ひとこと) &furigana()【登録タグ:&tags() 】}
+//#image(http://ichi.no-ip.net/user_present2.gif,title=ヒトコト)
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186107963.jpg,x=300,y=300)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[1+9=?…]]|CENTER:&bold(){ヒトコト}|CENTER:[[ア・ラ・カルト]]|
+
+|&bold(){[[ichiP]]}|
+
+||CENTER:即売|CENTER:同人|
+|発売|CENTER:2009年5月5日|CENTER:2009年5月5日|
+|価格|CENTER:￥1,000|CENTER:￥1,050(税込)|
+|サークル|>|CENTER:SOUNDstudio -ONE-|
+
+**CD紹介
+-&bold(){「ヒトヒラのコトノハを伝えたい・・・ただヒトコト」} (CD帯より)
+-[[ichiP]]のボーカロイド処女作「[[ひとひら]]」のアルバムver.を含む8曲を収録したボカロCD第2弾。
+-6曲目の「[[君と見た景色]]」は『[[Festiva!]]』にも収録されている。
+-M3にて初頒布、とらのあな・メロンブックスでも委託販売がおこなわれている。
+-ジャケットはshariによるもの。
+
+**曲目
++インストール
++[[シロップ]]
++できそこないの世界
++[[lala way]]
++閑話休題
++[[君と見た景色]]
++[[ポップ・ノイズ]]
++[[ひとひら-album ver.->ひとひら]]
+
+**リンク
+-[[作者HP>>http://ichi.no-ip.net/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/18/28/040010182844.html]]
+-[[メロンブックス>>http://shop.melonbooks.co.jp/tsuhan/system/list.php?RATED=18&GENRE=&FREEWORD=SOUNDstudio-ONE-]]
+
+**コメント
+#comment

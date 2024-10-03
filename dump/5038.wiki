@@ -1,0 +1,40 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+
+&ref(http://karent.jp/npdca/019_20091225192136_0240_0240.jpg)
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/utopia/id313306676]]}|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Utopia}|CENTER:[[No answer>No answer/CD]]|
+
+|&bold(){[[otetsu]]}|
+
+>&b(){ジャケットイラスト：[[riria009]]}
+
+|発売：2009年5月1日|
+|価格：全曲￥900、1曲￥150|
+|流通：配信|
+|レーべル：KarenT|
+
+**CD紹介
+-KarenTから配信限定で発売されるotetsu氏初のVOCALOIDアルバム。
+-ルカの代表曲として支持を集める『[[星屑ユートピア]]』『[[transient future]]』や、数あるotetsuミク曲の中でも人気の高い3曲、5/5に開催されたイベント Hokk@loid Festival に提供したルカ新曲『[[迷的サイバネティックス]]』など全7曲（全て再調声・再ミックス）を収録。
+-中でも注目は、会社の壁を越えて今回からKarenT配信が実現となったがくっぽいど曲。&br()がくぽマスターとしても名高いotetsu氏のがくぽ代表作『[[喪失モノクローム]]』が、その第1弾となる。
+
+**曲目
++[[Existence>Existence/otetsu]] （feat. 初音ミク）
++[[transient future]]（feat. 巡音ルカ）
++[[喪失モノクローム]]（feat. がくっぽいど）
++[[迷的サイバネティックス]]（feat. 巡音ルカ）
++[[白灰砂の海]]（feat. 初音ミク）
++[[星屑ユートピア]]（feat. 巡音ルカ）
++[[恋紅綬]]（feat. 初音ミク）
+
+**リンク
+-[[作者ブログ>>http://otetsu721.blog60.fc2.com/]]
+-[[KarenT>>http://karent.jp/album/19]]
+
+**コメント
+- 全曲少しずつ手直しされてましたね。買って正解でした  -- 名無しさん  (2009-05-18 19:02:18)
+- ↑同じく買いました今大事に聴いています！！  -- 良太  (2014-06-02 21:14:32)
+#comment

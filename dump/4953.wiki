@@ -1,0 +1,29 @@
+#right(){&furigana(おれののうないみくがいちばんかわいい) &furigana()【登録タグ:&tags() 】}
+
+//#image(http://wasag.net/oremiku/images/oremiku_banner_l.jpg,http://wasag.net/oremiku/,title=俺の脳内ミクが一番可愛い,blank)
+
+&ref(http://studioiig.com/discography/oremiku/images/oremiku.jpg,x=300,y=380)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){俺の脳内ミクが一番可愛い}|CENTER:[[俺の脳内ミクが一番可愛い2]]|
+
+|&bold(){[[どぶウサギ]]}|&bold(){[[みよ]]}|&bold(){[[ziki_7]]}|&bold(){[[IIG]]}|
+
+発売：2007年12月31日
+価格：￥200
+流通：即売
+
+**CD紹介
+-「俺の脳内ミクが一番可愛い」というこだわりだけが共通項という4人のクリエーターによる合同企画。C73で委託頒布。
+
+**曲目
++[[ねぎみそ☆ふぁんたじー]] / 作詞・作曲・編曲：[[どぶウサギ]]
++[[しろいろのしとやすみ]] / 作詞・作曲・編曲：[[みよ]]
++[[oqIs]] / 作詞・作曲・編曲：[[ziki_7]]
++[[冬の魔法>冬の魔法/IIG]] / 作詞：okayuman 作曲・編曲：[[IIG]]
+
+**リンク
+-[[俺の脳内ミクが一番可愛い（CD特設サイト）>>http://wasag.net/oremiku/]]
+
+**コメント
+#comment
