@@ -1,0 +1,53 @@
+#right(){&furigana(とおくてきこえるてんしおん)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+//&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/5592804" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/5592804">とおでん</a></iframe>)
+
+**特徴
+作り手名：『&u(){とおくできこえるデンシオン}』
+-&b(){二大迷走P（α）}とも。
+-ノスタルジックな曲調とチャイルドライクな歌唱とを軸にした作品を定期的に発表し、かねてからのリスナーに加えて、ニコニコユーザーの中から、新規のリスナーを獲得、日々、&bold(){新境地}を開拓し続けている。複合的な意味で。
+-P名は、中の人 「まつ」 氏が運営するDTM系サイトの表題に由来する。 
+-ACT2レンの&bold(){個人レッスン（笑）}に期待。
+
+**リンク
+//-[[とおくできこえる デンシオン（作者HP）>>http://matsule.hp.infoseek.co.jp/]]
+//-[[muzie>>http://www.muzie.co.jp/cgi-bin/artist.cgi?id=a003839]]
+-[[ニコニコ>>https://www.nicovideo.jp/user/5227351]]
+-[[YouTube>>https://www.youtube.com/channel/UCYhioPjKVnABX3wyQU34PsA]]
+-[[PIAPRO>>https://piapro.jp/toden]]
+-[[Twitter>>https://twitter.com/to_den]]
+
+**曲
+#list_by_tag(とおくできこえるデンシオン,100,sort=furigana)
+
+**動画
+|&nicovideo(sm2647565)|&nicovideo(sm2647256)|
+|&nicovideo(sm2836603)|&nicovideo(sm3789173)|
+|&nicovideo(sm4294554)|>|
+
+**新境地
+|&big(){（扱いやすく従順な）ACT2レン}|（ACT2未使用）|
+|&nicovideo(sm3967589)|&nicovideo(sm4294076)|
+
+|>|&big(){バレンタイン・デーとホワイト・デーとの両方を、プラトニックにこなすレンきゅん。}|
+|&nicovideo(sm2321170)|&nicovideo(sm2646223)|
+
+&big(){レンきゅんの話芸シリーズ（&bold(){ニ大迷走P(α)}による&bold(){「鏡音レンきゅんが××」シリーズ}）}
+-とおでんPがレンきゅんにホイホイされてしまった結果生じた、裏の顔である。 
+-レンきゅんがちょっとアレなセリフをしゃべるというショタコンホイホイ動画である。釣りではない。
+-「鏡音レンきゅんが××」の表題を冠している。 
+-当該Pの作品群と双璧をなす、通称・[[ニ大迷走P(β)>バナナP（二大迷走P（β））]]の「鏡音レンきゅんと××」シリーズよりも（聞く人によっては）少し××である。
+|&nicovideo(sm2786791)|&nicovideo(sm2806123)|
+|&nicovideo(sm3535930)|&nicovideo(sm3853140)|
+|&nicovideo(sm4294054)|>|
+
+|&big(){レンきゅんの話ゲイシリーズ。}|
+|&nicovideo(sm3373501)|
+
+**コメント
+- ニコニコ大百科から引用させていただきました。  -- 名無しさん  (2008-07-06 01:35:36)
+- 本当にACT2のレンが楽しみですｗ  -- 名無しさん  (2008-07-17 23:48:34)
+#comment()

@@ -1,0 +1,42 @@
+#right(){&furigana()&furigana()【登録タグ:&tags()】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/3050230" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/3050230">【ニコニコ動画】すけ制作物</a></iframe>)
+
+**特徴
+-殿堂入りも果たした「[[お兄さんは心配性]]」でブレイクしたP。
+-ロック曲によるVOCALOIDの扱いに定評がある。
+-主にミク・KAITOを使う。「[[Love of a Groove（夏版）>Love of a Groove]]」からLEONも使用し始めた。
+-製作ペースは結構速い。
+-2009年、定額給付金を利用してMEIKOをゲット。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/suke_xx]]
+-[[あでゅでゅ・うるふむぬ(作者ブログ)>>http://a22dhu20dhu10.blog9.fc2.com/]]
+
+**曲
+#list_by_tag(すけP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(すけPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm1869412){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm2133163){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2272884){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm2290684){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2381200){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm2404993){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/nm2766425){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm3311987){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3452723){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm3534457){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3733683){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm3734385){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3789170){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm4044281){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4136302){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm4316084)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4527719)|&nicovideo(http://www.nicovideo.jp/watch/sm4922259)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5501487)|&nicovideo(http://www.nicovideo.jp/watch/sm5600199)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5834916)|&nicovideo(http://www.nicovideo.jp/watch/sm6140557)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6180851)|&nicovideo(http://www.nicovideo.jp/watch/sm6556036)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6662627)|&nicovideo(http://www.nicovideo.jp/watch/sm6751582)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7223579)|&nicovideo(http://www.nicovideo.jp/watch/sm7752196)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm8889174)|&nicovideo(http://www.nicovideo.jp/watch/sm9701912)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12018286)|&nicovideo(http://www.nicovideo.jp/watch/sm18685657)|
+
+**コメント
+- ならけんみんがない・・・だと？！  -- 名無しさん  (2011-07-23 01:10:53)
+- ならけんみんの記事作成しておきました。  -- 名無しさん  (2012-01-12 23:09:05)
+#comment()

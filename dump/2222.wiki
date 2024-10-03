@@ -1,0 +1,23 @@
+#right(){&furigana(のあ) &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/5430373" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/5430373">【ニコニコ動画】製作物一覧</a></iframe>)
+
+**特徴
+-[[Aether_Eru]]氏、[[ゆうP]]と同じく、同人音楽サークル「&bold(){P∴Rhythmatiq}」に所属するP。
+-『[[キミノカケラ>キミノカケラ/ノア(Noah)]]』でデビュー。テクノポップを軸とした曲を作り、爽快で軽快なメロディを発表している。
+
+**リンク
+-[[作者ブログ（P∴Rhythmatiq blog）>>http://prq.blog44.fc2.com/]]
+-[[ピアプロ>>http://piapro.jp/noah]]
+
+**曲
+#list_by_tag(ノア,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(ノアCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm2525935){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm4238608){340,185}|
+
+**コメント
+- もっとノアPさんのような曲は知りたい  -- 名無しさん  (2023-01-30 22:52:40)
+#comment()

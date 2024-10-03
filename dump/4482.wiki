@@ -1,0 +1,46 @@
+#right(){&furigana(まっぺ) &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/6606903" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/6606903">【ニコニコ動画】う</a></iframe>)
+
+**特徴
+-物語性のある歌詞展開とメロディラインで、聴く者の感情を揺さぶるような構成となっている曲が多い。
+-声を重ねて歌わせるのを得意とし、狂気を感じさせつつも美しい曲と評されることが多い。
+-特にヤンデロイドや幻想狂気とされる曲での、力強さのあるVOCALOIDの声、雰囲気のある歌詞、不安を煽るオケの評価が高い。
+-ドリーに代表される穏やかな曲が白マッペ、幻想狂気の雰囲気をもつものが黒マッペと言われることもある。
+-卓越した映像センスも持ち合わせており、加工写真や文字表現を効果的に使用した動画を作成している。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/kinnniku]]
+-[[pixiv>>http://www.pixiv.net/member.php?id=504677]]
+-[[blog（実験場　音源置き場）>>http://www.voiceblog.jp/mape/]]
+
+**曲
+#list_by_tag(マッペ,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(マッペCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm3197754)|&nicovideo(http://www.nicovideo.jp/watch/sm3232878)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3251094)|&nicovideo(http://www.nicovideo.jp/watch/sm3845659)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4018900)|&nicovideo(http://www.nicovideo.jp/watch/sm4153863)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5717613)|&nicovideo(http://www.nicovideo.jp/watch/sm5892805)|
+動画担当
+|&nicovideo(http://www.nicovideo.jp/watch/sm6274429)|
+
+**コメント
+- おお！マッペさんのページ出来てて嬉しい。  -- omega  (2009-03-06 10:04:29)
+- ページ作ってくれた方本当にＧＪ！マッペさんはもっと知られていい人だ！  -- 名無しさん  (2009-03-06 12:40:51)
+- 鋭利すぎる天才です。  -- 名無しさん  (2009-03-06 21:54:41)
+- 曲ページを増やしてみました。しかし自信ないので曲解説などの改定・編集どんどんお願いします…  -- 名無しさん  (2009-03-07 00:03:37)
+- へんな人だよね。大好き。  -- 名無しさん  (2009-03-09 19:29:01)
+- ヒッキーPとのコラボがヒットしたから、少しは知名度上がるかな？  -- 名無しさん  (2009-03-09 19:29:52)
+- blogリンク追加しました。  -- 名無しさん  (2009-03-30 21:36:42)
+- これぞアングラ。ある意味伸びないでほしい  -- 匿名希望  (2009-06-13 14:02:18)
+- 一時期幻想狂気Pって言われてなかった？定着しなかったけど  -- 名無しさん  (2009-12-31 21:53:51)
+- 音沙汰なし  -- 名無しさん  (2012-06-28 00:30:34)
+- pixivの方は今年も更新されてたけど、ちょっと調子悪そうかもって感じだった。  -- 名無しさん  (2012-12-23 15:51:01)
+- きもすぎ。大嫌い。  -- 名無しさん  (2013-04-25 08:43:57)
+- twitter　https://twitter.com/ma_ppe  -- 名無しさん  (2013-04-25 08:47:48)
+- Pixiv見たが非常に不快。お前がしねばいいのに。  -- 名無しさん  (2013-08-12 01:52:39)
+- 人を選ぶとは思うけど私は好き  -- 名無しさん  (2013-08-30 23:42:56)
+#comment()

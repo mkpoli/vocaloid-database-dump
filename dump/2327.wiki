@@ -1,0 +1,74 @@
+#right(){&furigana(NoD)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/6464775" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/6464775">【ニコニコ動画】マイリスト</a></iframe>)
+
+**特徴
+作り手名：『&u(){No.D}』
+-サークル我楽多スタジオ所属の楽師。ミク、ルカ、MEIKO、がくぽ、キヨテルを使用する。
+-出世作『[[Seeker]]』、代表作『[[火葬曲]]』を始めとしたダークな雰囲気の漂う曲に定評があるが、&br()処女作『[[どこまでも広い空を仰いで]]』、5作目『[[Echoes]]』など希望を抱かせるような明るいサウンドも卒なくこなす。
+-サークルの相方上野悠仁によってしばしばPVが製作される。
+-[[ぺぺろんP]]とは高校時代からの友人。クラスが一緒だったこともあるらしい。
+-2013年9月13日に代表曲の『[[火葬曲]]』が100万再生を達成した。
+-殿堂入りを達成した曲は&br()「&list_by_tagsearch(No.D,殿堂入り,sort=furigana,option=nolist,nolistspace=」「,100)」
+
+**ミリオン達成状況
+|CENTER:&bold(){曲名}|CENTER:&bold(){100万再生}|CENTER:&bold(){備考}|
+|[[火葬曲]]|2013年9月13日||
+|[[巡姫舞踊曲]]|2018年8月17日||
+
+**リンク
+-[[作者ブログ（我楽多スタジオ）>>https://garakutastudio.blog.so-net.ne.jp/]]
+-[[Twitter>>https://twitter.com/Numb_D]]
+-[[PIAPRO>>https://piapro.jp/No_D]]
+-[[YouTube>>https://www.youtube.com/channel/UCDP465DoeTtNt1l7rWuRpuw]]
+//-[[ブロマガ>>http://ch.nicovideo.jp/garakutastudio]]
+
+**曲
+#list_by_tag(No.D,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(No.DCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+-&bold(){オリジナル曲}
+|&nicovideo(sm3155925)|&nicovideo(sm4592729)|
+|&nicovideo(sm3995757)|&nicovideo(sm4331797)|
+|&nicovideo(sm4528539)|&nicovideo(sm4641954)|
+|&nicovideo(sm4669992)|&nicovideo(sm5150214)|
+|&nicovideo(sm5740616)|&nicovideo(sm5990158)|
+|&nicovideo(sm6074567)|&nicovideo(sm6342697)|
+|&nicovideo(sm6714063)|&nicovideo(sm7686521)|
+|&nicovideo(sm7798156)|&nicovideo(sm7981321)|
+|&nicovideo(sm8090362)|&nicovideo(sm8711557)|
+|&nicovideo(sm8998660)|&nicovideo(sm10349301)|
+|&nicovideo(sm12647965)|&nicovideo(sm15153800)|
+|&nicovideo(sm15467546)|&nicovideo(sm16079704)|
+|&nicovideo(sm17241756)|&nicovideo(sm25047052)|
+|&nicovideo(sm25217988)|&nicovideo(sm26220314)|
+|&nicovideo(sm28801754)|&nicovideo(sm28923831)|
+
+-&bold(){アレンジ曲}
+|&nicovideo(sm5760231)|&nicovideo(sm8619813)|
+
+**コメント
+- この方の曲で私は一番「巡姫舞踊曲」が好きです！  -- 名無しさん  (2009-10-17 13:25:19)
+- こめんと少ないぃ…！　　　この人すごい人だよ！  -- 名無しさん  (2009-11-09 21:45:08)
+- No.Dさんのダークな世界観は引き込まれます！大好きです  -- 名無しさん  (2009-11-20 21:21:47)
+- 凄くいい曲作るよね、この方。何度も聴きたくなる。  -- 名無しさん  (2010-01-11 03:54:59)
+- ミクとルカが有名だけど、何気にめーちゃん曲が素晴らしいと思う。聞いてない人がいたら聴いてみ、ピエロプレイとえかきうた。  -- 名無しさん  (2010-01-11 03:59:00)
+- No.Dさん大好きです！火葬曲大好き  -- 名無しさん  (2010-02-28 10:10:09)
+- めーちゃん曲はサムネで敬遠してたけど、マジいいからきいてほしい！  -- 名無しさん  (2010-02-28 10:51:57)
+- No．Dさん大好きです  -- 名無しさん  (2010-03-14 21:50:41)
+- カラオケ配信投票数やばいwwwwww  -- レイ  (2010-04-10 11:57:28)
+- 火葬曲とseekerとscreen shotが大好き！  -- しょこら  (2010-08-08 10:24:36)
+- 巡姫舞踊曲がすっごい好き。  -- 名無しさん  (2010-08-12 22:20:29)
+- えかきうたがボカロ曲で一番好きです。  -- 名無しさん  (2010-09-17 07:37:27)
+- No.DさんのMEIKOはもっと評価されるべき  -- 名無しさん  (2010-11-28 12:29:01)
+- 火葬曲が素晴らしい！  -- 名無しさん  (2012-08-05 12:54:44)
+- No.Dさんのめーちゃんが素晴らしい  -- 名無しさん  (2013-02-20 14:14:27)
+- 誰か曲とCD登録してください！・゜・(つД｀)・゜・（ケータイからなので編集できないです）  -- 名無しさん  (2013-03-03 00:03:06)
+- No.Dさんの曲では、エゴイスティックとピエロプレイが好きです。  -- ミュウミュウ  (2014-05-08 19:35:49)
+#comment()

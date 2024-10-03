@@ -1,0 +1,20 @@
+#right(){&furigana(なうろまP)&furigana()【登録タグ:&tags()】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/3950507" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/3950507">【ニコニコ動画】ボカロうｐもの</a></iframe>)
+
+**特徴
+-低音・高音ともに自然な調整をするカバー職人
+-ネタ曲をあくまでも生真面目に歌わせる（カバーする）ことが多い
+-KAITOメインの曲が多いが、日本語版のボカロはすべて所持している模様
+-加えてPRIMAも所持しているという意外な一面も
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm1701710){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm1864186){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm1970783){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm2030551){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2130233){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm2203563){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2245359){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm3742548){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3906505){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm4104018){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4141778){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm4252932){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4253430){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm4415743){340,185}|
+
+**コメント
+#comment()

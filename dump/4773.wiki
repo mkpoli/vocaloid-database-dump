@@ -1,0 +1,32 @@
+#right(){&furigana(はじめてのおと　みらいのうた) &furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/014_20091225195750_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){ハジメテノオト/未来の歌}|CENTER:[[732日]]|
+
+|&bold(){[[malo]]}|
+
+発売：2009年4月3日
+価格：全曲￥400・１曲￥150
+流通：配信
+レーベル：KarenT
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=310152971&s=143462]]}|
+
+**CD紹介
+-初音ミク曲の原点として多くの人に愛される『[[ハジメテノオト]]』と『[[未来の歌]]』が、KarenTレーベルより遂にiTunes Store配信開始。
+-「初めての音」「未来」と対になる2曲が、インストゥルメンタルを含む両A面シングル形式となっている。
+
+**曲目
++[[ハジメテノオト]]
++[[未来の歌]]
++ハジメテノオト（Instrumental）
++未来の歌（Instrumental）
+
+**リンク
+-[[KarenT>>http://karent.jp/album/14]]
+
+**コメント
+- 記事作成乙です。午前あたりiTunes総合ダウンロードランキングで8位に浮上してたな  -- 名無しさん  (2009-04-04 13:15:37)
+- おぉ、これは！iPod買うしかないな  -- みみなし  (2009-04-11 01:41:16)
+#comment

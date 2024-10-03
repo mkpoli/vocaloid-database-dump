@@ -1,0 +1,40 @@
+#right(){&furigana(しんしやあP) &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/6361462" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/6361462">【ニコニコ動画】初音ミク作品</a></iframe>)
+
+**特徴
+-MIDIアニメを初めてニコニコに送り出した「初代MIDIアニメ職人」。
+-MIDIアニメ以外では組曲｢ドラクエ風｣、自動演奏ピアノのためのオリジナル曲、&br()Phunを利用したピタゴラスイッチならぬニコニコスイッチなど、技術力の幅広さや意外性がアピールされた。
+-Vocaloid作品においても変拍子を多用した作品、お洒落なジャズなど芸風の広さを発揮。
+-『[[カサブタ]]』ではジンジャーP自ら初音ミクとデュエットし、その歌声は「KAITOいらず」と視聴者から称される。
+
+**リンク
+-[[ものおき（作者個人サイト）>>http://www4.pf-x.net/~jinjor/]]
+-[[ジンジャー研究室（作者個人サイト）>>https://jinjor-labo.hatenablog.com/]]
+-[[muzie:ジンジャー>>http://www.muzie.co.jp/cgi-bin/artist.cgi?id=a033878]]
+-[[X(旧Twitter) @jinjor>>https://twitter.com/jinjor]]
+**曲
+#list_by_tag(ジンジャーP,100,sort=furigana)
+
+**CD
+#list_by_tag(ジンジャーPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+&b(){オリジナル曲}
+|&nicovideo(http://www.nicovideo.jp/watch/sm3083124){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm3156292){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3354957){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm3567597){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4313845){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm5353162){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5681169){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm5800814){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6022507){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm8087048){340,185}|
+
+&b(){カバー曲}
+|&nicovideo(http://www.nicovideo.jp/watch/sm2896748){340,185}|
+
+**コメント
+- ジンジャーP追加してくれた人ありがとう！ジンジャーPはカバー曲もＧＪすぎる  -- 名無しさん  (2008-08-09 20:53:16)
+- ここでわがままを言わせていただけるなら　カラオケ版が欲しい  -- 名無しさん  (2009-01-07 17:55:50)
+//- というか　カラオケに入れて欲しい  -- 名無しさん  (2009-04-21 20:39:30)
+- 曲調が柔らかくて好き  -- 名無しさん  (2010-04-05 14:44:48)
+- この人のおかげで音楽観が完全に変わった。聴く人を惹きつけるだけでなく、啓蒙するような魅力があると思う  -- 名無しさん  (2011-03-29 05:43:51)
+- 氏の音楽には高校の時に出会って衝撃を受けた。今もﾂｲｯﾀｰに曲を投稿されているがどの曲も本当ため息が出る  -- 名無しさん  (2012-10-03 11:26:49)
+- 若き奇才としか言わざるを得なかった。花火と春の歌がお気に入りです。。ジンジャーPさん。どの曲も素晴らしいけど、春の歌が最高傑作かな。はなびも  -- 通りすがりの太ったら男。  (2021-06-22 22:12:30)
+#comment()

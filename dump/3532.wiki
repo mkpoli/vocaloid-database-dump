@@ -1,0 +1,40 @@
+#right(){&furigana(たそがれP)&furigana()【登録タグ:&tags()】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/5294102" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/5294102">【ニコニコ動画】鳥野関連動画。</a></iframe>)
+
+**特徴
+-作詞・作曲・編曲だけでなく絵も自作というタイプのP。
+-使用ボカロは初音ミクと鏡音リン・レン。
+-Pとしてのデビュー作は「桜ファンタジア」。
+-オリジナル曲の投稿以前はVOCALOID-PVの投稿をしていた。
+-現在のP名の由来は物語音楽の要素も含まれている&b(){黄昏シリーズ}から。
+-製作ペースはかなり速い。
+-アーティスト名は&b(){鳥野ささみ}。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/torinosasami]]
+
+**曲
+#list_by_tag(黄昏P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**動画
+***オリジナル曲（再生数、マイリスト数などが高いものを）
+|&nicovideo(http://www.nicovideo.jp/watch/sm3937727)|&nicovideo(http://www.nicovideo.jp/watch/sm3072271)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3862395)|&nicovideo(http://www.nicovideo.jp/watch/sm2426398)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3510738)|&nicovideo(http://www.nicovideo.jp/watch/sm4683037)|
+***黄昏シリーズ
+|&nicovideo(http://www.nicovideo.jp/watch/sm2635635)|&nicovideo(http://www.nicovideo.jp/watch/sm2711357)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2975674)|&nicovideo(http://www.nicovideo.jp/watch/sm3143217)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3731301)||
+
+**コメント
+- 黄昏Ｐ様　サイコーー！  -- 無名  (2009-01-24 11:49:49)
+- うあああ//やっと作り手の欄にでてきた！＞＜  -- 名無しさん  (2009-01-31 00:21:42)
+- 僕は好きですよ　こういう曲  -- 名無しさん  (2009-06-13 21:38:48)
+- この人の作品はいつも中毒です。大好き！  -- 名無しさん  (2009-08-11 22:06:49)
+- 黄昏Pさんの曲は何回聴いても厭きません。本当に大好きです!!  -- 名無し  (2009-09-17 18:01:55)
+- この人のヤンデレや和風は名曲  -- 名無しさん  (2010-02-16 18:00:51)
+- 神様隠しからハマりました。本当にこの人の和風曲は素敵だと思います。あと個人的な頼みだけど神様隠し関連の曲の歌詞誰かうpしてはくれませんか＞＜  -- お腹痛い  (2010-03-17 15:21:54)
+- 曲調と言葉の選び方ともに大好きです…！  -- 名無しさん  (2011-01-30 20:33:35)
+- 同じく！またコメ戻ってこないかな  -- そらのん  (2016-07-01 23:17:37)
+- 不意に思い出して聞きに行った。8年ぶり。時が経つのは早い。  -- 名無しさん  (2018-01-19 20:37:29)
+#comment()

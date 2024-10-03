@@ -1,0 +1,21 @@
+#right(){&furigana(ねこぜP) &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/7089193" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/7089193">【ニコニコ動画】tks@猫背</a></iframe>)
+
+**特徴
+-「[[さよならをほどく]]」を投稿してデビューしたKAITO使い。今後の活躍に期待。
+
+**リンク
+-[[月曜の夜も出たくない（作者ブログ）>>http://d.hatena.ne.jp/retro-star/]]
+-[[PIAPRO>>http://piapro.jp/go0220]]
+
+**曲
+#list_by_tag(猫背P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(猫背PCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm3628230){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm4103304){340,185}|
+
+**コメント
+#comment()

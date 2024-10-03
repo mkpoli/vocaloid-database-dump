@@ -1,0 +1,38 @@
+#right(){&furigana(はくおんP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+
+**特徴
+作り手名：『&u(){爆音P}』（&u(){ばくおんP}）
+-正式名称は「soundroot」。P名として「爆音P」の他にカタカナで「バクオンP」とも呼ばれている。
+-テクノポップやハウス系の楽曲を数多く制作している。
+-2007年9月6日　ニコニコ動画で確認できるミクオリジナル曲最古の動画「[[VOCALOID 2 初音ミク 僕なりのDEMO SONG(test ver.)>>https://www.nicovideo.jp/watch/sm995950]]」投稿（ユーザー削除）。
+-2007年9月8日　YouTubeにおけるミクオリジナル曲最古の動画「&s(){[[P@r@dox Love (Bomb Classic club mix)>>https://www.youtube.com/watch?v=iOhmrwdXKjE]]｣}投稿（曲は上記9月6日にUPされたニコニコ動画（&s(){[[僕なりのDEMO SONG>>https://www.nicovideo.jp/watch/sm995950]]}）のものと同じ）。
+-他にも、9月8日までの段階でミクオリジナル曲を少なくとも3曲は上げており（全てユーザー削除）、当時カバー曲のみだった初音ミクの動画に新しい風を吹き入れた先駆者。
+-言わずもがな、ミクオリジナル曲での作り手では最古参Pの一人である。
+-音圧が強めのミキシングをしており、曲は良いのに音割れ爆音。良くも悪くもそれが最大の特徴となっており、P名の由来でもある。
+-かといって、のべつまくなしに大音量というわけでなく、多くの場合はアクセントとして音圧を上げたり、中低音で重層的で豊かなミックスをしている。
+-2009年6月17日未明にそれまでの代表曲であった「[[LOVE-C＠LL B∀CK]]」を含め、大部分の投稿曲が削除された。
+-その後も精力的にニコニコ動画、YouTube、iTunesにアップロード、楽曲配信をしている。
+
+//**リンク
+//-[[作者HP>>http://soundroot.web.fc2.com/]]
+
+**曲
+#list_by_tag(爆音P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(爆音PCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm5334502)|&nicovideo(sm5837019)|
+|&nicovideo(sm4669317)|&nicovideo(sm5896456)|
+|&nicovideo(sm5517105)|&nicovideo(sm6506826)|
+|&nicovideo(sm6177461)|&nicovideo(sm6598851)|
+|&nicovideo(sm5420778)|&nicovideo(sm5023244)|
+|&nicovideo(sm5457206)|>|
+
+**コメント
+#comment()

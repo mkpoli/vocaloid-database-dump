@@ -1,0 +1,51 @@
+#right(){&furigana(しゅがーぱーてぃくる) &furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/051_20091225194347_0240_0240.jpg)
+
+//#image(http://homepage3.nifty.com/shibayan/stal0802/0802bn_l.jpg,http://homepage3.nifty.com/shibayan/stal0802/,title=しゅがー☆ぱーてぃくる,blank)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){しゅがー☆ぱーてぃくる}|CENTER:[[Happy life]]|
+
+|&b(){[[Shibayan]]}||Kalmaria|
+
+||CENTER:即売|CENTER:同人|CENTER:配信|
+|発売|CENTER:2008年8月16日|CENTER:2008年8月16日|CENTER:2009年8月5日|
+|価格|CENTER:￥1,000|CENTER:￥1,260（税込）|CENTER:￥900 / 1曲￥150|
+|サークル|>|>|CENTER:Shibayan Records|
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/sugar-particle/id325515723]]}|
+
+**CD紹介
+-みくーんでお馴染み [[Shibayan]] 氏の初ボーカロイドアルバム。2008年夏コミで初頒布（ [[Sprite Wing>>http://spritewing.com/cd/innovation/]] スペースに委託）。
+-夏コミでの頒布と同時に書店委託も、[[あきばお～こく>>http://www.akibaoo.com/02/commodity_param/t/0/ctc/80130000/shc/0/cmc/2500020055854/backURL/+02+main]]及び[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/15/84/040010158481.html]]で行われている。
+-さらに2009年8月、KarenTレーベルより配信開始。
+-『[[lost one]]』以外の全オリジナル曲ならびにそのオフボーカルver.に加え、Sprite Wing の Kalmaria 氏の楽曲も収録。
+-タイトル通りの甘くてポップな音楽を召し上がれ☆
+
+**曲目
++[[きょうもうたう]]
++[[sugar chocolate waffle]]
++[[箱入り娘]]
++[[なんということでしょう（アルバムver）>なんということでしょう]]
++[[シュタロフテノラッセ]]
++Summer days　　　 music by Kalmaria
++Divided Front　　　music by Kalmaria
++きょうもうたう - off vocal 
++sugar chocolate waffle - off vocal
++箱入り娘 - off vocal 
++なんということでしょう - off vocal
++シュタロフテノラッセ - off vocal 
++Summer days - off vocal
++Divided Front - off vocal 
++[[Innocent hearts]]
+　　（#15 は、Bonustrack）
+
+**リンク
+-[[しゅがー☆ぱーてぃくる特設サイト>>http://homepage3.nifty.com/shibayan/stal0802/]]
+-[[Shibayan Records>>http://homepage3.nifty.com/shibayan/index.html]]
+-[[あきばお～こく>>http://www.akibaoo.com/02/commodity_param/t/0/ctc/80130000/shc/0/cmc/2500020055854/backURL/+02+main]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/15/84/040010158481.html]]
+-[[KarenT>>http://karent.jp/album/51]]
+
+**コメント
+#comment

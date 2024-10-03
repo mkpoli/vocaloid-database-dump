@@ -1,0 +1,29 @@
+#right(){&furigana(はるひP) &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/6092790" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/6092790">【ニコニコ動画】オリジナル曲</a></iframe>)
+
+**特徴
+-狛犬名義の方が有名？
+-引き込まれるようなメロディーライン
+-どこか丸いミクのサムネが多い
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/siro_inu]]
+-[[にゃっぽん>>http://v-nyappon.net/?m=pc&a=page_f_home&target_c_member_id=2529]]
+
+**曲
+#list_by_tag(はるひP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(はるひPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm2806509)|&nicovideo(http://www.nicovideo.jp/watch/sm2874792)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2959120)|&nicovideo(http://www.nicovideo.jp/watch/sm3083886)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3943241)|&nicovideo(http://www.nicovideo.jp/watch/sm4134081)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4260673)|&nicovideo(http://www.nicovideo.jp/watch/sm4653515)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5723893)|
+
+
+**コメント
+- 余りにも再生数伸びないから、ウィキにまとめて入れます。  -- 赤男  (2008-11-29 05:09:52)
+#comment()

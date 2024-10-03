@@ -1,0 +1,32 @@
+#right(){&furigana(てつぶんP)&furigana()【登録タグ:&tags()】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/6545149" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/6545149">【ニコニコ動画】ボカロ制作物</a></iframe>)
+
+**特徴
+-KAITOをメインに使っている。MEIKO、初音ミク、鏡音リン・レン、巡音ルカも所持している。
+-「[[闇ノ王]]」をKAITOに歌わせてブレイクした。P名の由来も曲中の歌詞から。
+-初のオリジナル曲「[[ケー・エー・アイ]]」からオリジナル曲も投稿するようになった。
+-アーティスト名は&b(){壱里}。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/ichiri28]]
+
+**曲
+#list_by_tag(鉄分P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(鉄分PCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm3223614){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm3378105){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3776157){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm3984476){340,185}|
+
+**コメント
+- KAITOランキング1位の常連。つまり超有名Pまでもう一歩。  -- 名無しさん  (2008-09-13 19:10:03)
+- 鉄分P好きすぎる  -- 名無しさん  (2009-11-02 23:25:55)
+- 鉄分Ｐは年長組の調教が特に凄い。大好き。  -- 名無しさん  (2009-11-11 18:28:53)
+- KAITOのイメージだけど他のボカロも調教凄まじくてつまりあれだ、ルカの曲入れてあげて？！！  -- 名無しさん  (2011-05-01 15:43:26)
+- KAITO使い  -- 名無しさん  (2012-08-16 06:18:13)
+- 忘憶の白(ルカ曲)も入れてくださいな〜  -- 名無しさん  (2012-11-02 19:28:55)
+- こういうの凄く欲しいのに、サークルとかコミュとかじゃないと手に入らないんだもんなぁ…  -- 李人  (2013-05-10 23:29:10)
+- ガラクタの歌詞が欲しい  -- 名無しさん  (2016-01-08 00:55:16)
+#comment()

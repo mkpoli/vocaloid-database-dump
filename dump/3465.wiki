@@ -1,0 +1,32 @@
+#right(){&furigana(ぎっちょんのひと)&furigana()【登録タグ:&tags()】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/5779642" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/5779642">【ニコニコ動画】ぎっちょんの人</a></iframe>)
+
+**特徴
+-リン使い。他にはMEIKOやルカも使う。
+-1980年代を彷彿とさせるサウンドが特徴。
+-現在のニックネームの由来はデビュー作である「[[愛して☆ぎっちょん]]」から。
+-本来のアーティスト名は&b(){qes}。
+
+**リンク
+-[[作者ホームページ（葱箱）>>http://www.negivox.net/]]
+-[[PIAPRO>>http://piapro.jp/qeseras]]
+
+**曲
+#list_by_tag(ぎっちょんの人,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(ぎっちょんの人CD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm2197552)|&nicovideo(http://www.nicovideo.jp/watch/sm3173682)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4480205)|&nicovideo(http://www.nicovideo.jp/watch/sm5461502)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5529456)|&nicovideo(http://www.nicovideo.jp/watch/sm5599584)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5671501)|&nicovideo(http://www.nicovideo.jp/watch/sm6196949)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7116557)|&nicovideo(http://www.nicovideo.jp/watch/sm8087690)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9122764)|&nicovideo(http://www.nicovideo.jp/watch/sm10789044)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12213794)|&nicovideo(http://www.nicovideo.jp/watch/sm12434052)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12654888)|&nicovideo(http://www.nicovideo.jp/watch/sm14026396)|
+**コメント
+- 強化月間、毎週毎週乙。4曲とも投稿時間が毎時00分なのは狙ったんだろうか...。  -- 名無しさん  (2008-12-27 13:26:27)
+- 名前統一したのかー  -- 名無しさん  (2010-04-05 13:34:43)
+#comment()

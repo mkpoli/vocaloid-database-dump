@@ -1,0 +1,40 @@
+#right(){&furigana(そろそろP) &furigana()【登録タグ:&tags() 】}
+|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/4653434" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/4653434">【ニコニコ動画】そろそろＰの製作物リスト（全て）</a></iframe>)|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/6720332" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/6720332">【ニコニコ動画】そろそろＰの新作　直近２０件</a></iframe>)|
+
+**特徴
+-主に、鏡音リン・レン、初音ミクを用いている。（他に所有しているVOCALOIDは、KAITOとSweet Annとがくっぽいどの模様。）
+-カバー曲や替え歌を多く投稿している。
+-関西の鉄道ネタある。
+-投稿数はとても多い。また、投稿のペースもはやいために、睡眠をとっていないのではないのか、という疑惑を持たれ、「そろそろ寝ろP」などのタグを貼られることもある。
+-「三年目の浮気」を自らの課題曲と位置づけているようである。
+-P命の由来は、「[[鏡音リン/鏡音レンに『愛が生まれた日』をデュエットしてもらった>>http://www.nicovideo.jp/watch/sm2707400]]」の動画の動画説明文より。
+-2009年8月12日ににゃっぽんにて引退を表明、マイリストを非公開に。動画も今後削除するとのこと。
+
+**リンク
+-[[作者ブログ>>http://nakatec.sblo.jp/]]
+-[[PIAPRO>>http://piapro.jp/nakatec]]
+
+**曲
+#list_by_tag(そろそろP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(そろそろPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm2276690){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm2606136){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2743847){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm2981750){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3055445){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm3116067){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3120745){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm3341057){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3651482){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm3726075){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3932586){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm4003970){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4177795){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm4215346){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4242910){340,185}||
+
+**コメント
+- 2chでは「自貼りいいですか？」　→　「寝てください」　はもはや名物になっている。　登録乙。  -- 名無しさん  (2008-08-10 16:53:53)
+- とりあえず寝てください。ゆっくり寝て、一休みしたらそっと戻ってきてくれるといいねぇ。別の名前でもいいから。  -- 名無しさん  (2009-08-20 00:22:31)
+- いつかきっと戻ってきてくれることを信じています。  -- 名無しさん  (2009-08-22 23:42:00)
+- 自分がボカロを始めるきっかけになったのがそろそろPさんの和歌山県民歌でした。いつか戻って来て下さいね。待っています。  -- 和歌山人  (2009-12-28 07:29:16)
+- 三年目の浮気がきっかけで知ったのですが・・・また戻ってきてくれるといいですね。  -- 名無しさん  (2011-05-10 22:18:45)
+- この人ほんとすき  -- 名無しさん  (2016-04-20 23:03:04)
+#comment()

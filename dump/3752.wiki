@@ -1,0 +1,14 @@
+#right(){【登録タグ:&tags()】}
+//↑タグ忘れ防止のための表示
+曖昧さ回避のためのページ
+----
+-[[えろあきP]]のCD
+--[[Sky/CD]]
+-[[鉄分P]]の曲
+--[[sky/鉄分P]]
+-[[innisfree]]の曲
+--[[sky/innisfree]]
+-[[MCI_Error]]の曲
+--[[SKY/MCI_Error]]
+
+#include(曖昧さ回避の追加の仕方/告知)

@@ -1,0 +1,24 @@
+#right(){【登録タグ:&tags()】}
+//↑タグ忘れ防止のための表示
+曖昧さ回避のためのページ
+----
+-[[らぶざわP]]の曲
+--[[Wish/らぶざわP]]
+-[[19's Sound Factory]]の曲
+--[[Wish/19's Sound Factory]]
+-[[菩薩P]]の曲
+--[[Wish/菩薩P]]
+-[[otetsu]]の曲
+--[[wish/otetsu]]
+-[[hiwa]]の曲
+--[[wish/hiwa]]
+-[[図書延滞P]]の曲
+--[[wish/図書延滞P]]
+-[[Eon]]の曲
+--[[Wish/Eon]]
+-[[shu-tP]]の曲
+--[[WISH/shu-tP]]
+-[[あるせれ]]の曲
+--[[wish/あるせれ]]
+
+#include(曖昧さ回避の追加の仕方/告知)

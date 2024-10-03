@@ -1,0 +1,37 @@
+#right(){&furigana(SilentBlankALTERNATE)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Wind In Her Hair]]|CENTER:&bold(){Silent Blank -> "ALTERNATE"}|CENTER:[[浅葱色アクアレイル]]|
+
+|&bold(){[[むーと]]}|
+
+発売：2008年05月11日
+価格：￥500（税込）／￥700（税込）
+流通：即売／同人
+サークル：timenaut
+
+**CD紹介
+CD名：『&u(){Silent Blank -> "ALTERNATE"}』(&u(){サイレント ブランク -> "オルタネート"})
+-M3-2008春にて初頒布。
+-アルバム全編通した物語調の作品。
+-当初は人によるボーカルの予定だったが、諸事情により初音ミクの再登板となった。
+
+**曲目
++昏雪の空　(Instrumental)
++双剣の記憶
++桜花の契り
++反旗の序章
++熾紙の祈り -fragments-　(Instrumental)
+
+**リンク
+-[[作者サイト内特設ページ>http://timenaut.jpn.org/sb01_alt.html]]
+-[[あきばお～こく>http://www.akibaoo.com/02/commodity_param/ctc/82040100/cmc/2500020052891/shc/0/]]
+-[[とらのあな>http://www.toranoana.jp/mailorder/article/04/0010/15/14/040010151491.html]]
+-[[メッセサンオー>http://www.doujinshop.com/doujin/user_top.cgi?type=music&strings=01951]]
+
+**コメント
+#comment

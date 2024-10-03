@@ -1,0 +1,33 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Aloetherapy}|CENTER:-|
+
+|&bold(){[[アロエP]]}|
+
+発売：2008年11月30日
+価格：￥500（税込）
+流通：即売
+サークル：すたじおあろえ
+
+**CD紹介
+-アロエPのオリジナルCD第1弾。
+-ボーマス6にて初頒布。
+-[[あなたがくれたオト]]は[[弱音P]]の曲のアレンジである。
+
+**曲目
++とある百合科の薬用植物
++[[天上、地上、アマノガワ]]
++置き去りのヴィオラ
++cruise
++スノースターステージ
++√‐Root
++紅蓮荒野‐GurenKouya
++[[あなたがくれたオト]]_Aloe Answer Arrangement
++とある百合科の薬用植物_pianosolo
++夜汽車、窓際、アマノガワ
+
+**リンク
+-[[作者ホームページ（すたじおあろえ）>>http://aloep.blog.shinobi.jp/]]
+
+**コメント
+#comment

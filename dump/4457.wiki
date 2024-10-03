@@ -1,0 +1,99 @@
+#right(){&furigana(したはたP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/7426906" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/7426906">【ニコニコ動画】うｐ動画</a></iframe>)
+
+**特徴
+-ハンドルネームは「&bold(){黒魔}」。
+-[[「中二の俺がスーパーマリオブラザーズを頑張って耳コピしてみた」>>http://www.nicovideo.jp/watch/sm1636528]]の人。
+-VOCALOID生放送 part2967でまさかの本人降臨。part2968でじたばたPの曲が流された。
+--その羞恥に耐えられなかったじたばたPが「ちょっと枕に顔突っ込んでくる」と発言。コメ番号322の赤面枕Pを筆頭に様々なP名提案がなされた。
+--本人が「じたばたP」をロック、P名が決定される。
+--正式名称はコメ番号370「赤面して枕に顔突っ込んでじたばたP」。
+-以前は中二PというP名を名乗っていたが、「[[ryo]]さんの昔のP名と被っている」という理由で名乗らないようになったらしい。
+-「The 7th KACオリジナル楽曲コンテスト」最優秀賞受賞を始め、幅広い分野で活躍しているコンポーザーの一人である。
+-使用VOCALOIDは初音ミク、鏡音リン、鏡音レン、歌愛ユキ。
+-オリジナル曲では「[[ラストステージ]]」「[[ラストバトル]]」が殿堂入りを達成している。
+
+**ミリオン達成状況
+|CENTER:&bold(){曲名}|CENTER:&bold(){100万再生}|CENTER:&bold(){備考}|
+|[[イッシュのポケモン　言えるのか！]]|2017年1月20日|&bold(){mikiを用いたオリジナル曲では史上初}&br()&bold(){リュウトを用いたオリジナル曲では史上初}&br()[[hapi⇒]]氏、[[mazoP]]氏、&br()[[大丈夫P]]氏、[[鬱P]]氏、[[生㌔P]]氏との共作|
+
+**リンク
+-[[公式サイト>>http://www.c-h-r-o-m-a.jp/]]
+-[[作者ブログ>>http://yrk315.blog61.fc2.com/]]
+-[[PIAPRO>>http://piapro.jp/chrochro]]
+-[[Twitter>>http://twitter.com/c_h_r_o_m_a]]
+-[[Youtube>>http://www.youtube.com/channel/UCii85-6X30uI0epcMi4spKQ]]
+-[[BOOTH>>http://chrokawa.booth.pm/]]
+
+**曲
+#list_by_tag(じたばたP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(じたばたPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+#region(close,2008年～2009年)
+|&nicovideo(http://www.nicovideo.jp/watch/nm3544263)|&nicovideo(http://www.nicovideo.jp/watch/nm3875413)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm4017762)|&nicovideo(http://www.nicovideo.jp/watch/nm4157757)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm4362086)|&nicovideo(http://www.nicovideo.jp/watch/nm4462969)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm5457816)|&nicovideo(http://www.nicovideo.jp/watch/nm8059560)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm8077956)|&nicovideo(http://www.nicovideo.jp/watch/nm8150088)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm8212600)|&nicovideo(http://www.nicovideo.jp/watch/nm8385177)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm8473818)|&nicovideo(http://www.nicovideo.jp/watch/nm8475655)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm9074580)|&nicovideo(http://www.nicovideo.jp/watch/nm9149074)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm9254295)|>|
+#endregion
+#region(close,2010年)
+|&nicovideo(http://www.nicovideo.jp/watch/nm9408708)|&nicovideo(http://www.nicovideo.jp/watch/nm9409030)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm9696061)|&nicovideo(sm11409276)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm11682562)|&nicovideo(http://www.nicovideo.jp/watch/nm11811940)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm11868315)|&nicovideo(http://www.nicovideo.jp/watch/nm12023661)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm12101150)|&nicovideo(sm12177762)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm12828737)|&nicovideo(http://www.nicovideo.jp/watch/nm12869864)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm13127494)|&nicovideo(http://www.nicovideo.jp/watch/nm13138425)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm13175722)|>|
+#endregion
+#region(close,2011年)
+|&nicovideo(http://www.nicovideo.jp/watch/nm13380595)|&nicovideo(sm13540227)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm13566363)|&nicovideo(http://www.nicovideo.jp/watch/nm13584752)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm13729783)|&nicovideo(http://www.nicovideo.jp/watch/nm13852093)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm13981164)|&nicovideo(http://www.nicovideo.jp/watch/nm14032663)|
+|&nicovideo(sm14124221)|&nicovideo(http://www.nicovideo.jp/watch/nm14240067)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm14580080)|&nicovideo(sm15039332)|
+|&nicovideo(sm15146331)|&nicovideo(sm15430076)|
+|&nicovideo(sm15456314)|&nicovideo(http://www.nicovideo.jp/watch/nm15701570)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm15819422)|>|
+#endregion
+#region(close,2012年～2014年)
+|&nicovideo(http://www.nicovideo.jp/watch/nm16632169)|&nicovideo(http://www.nicovideo.jp/watch/nm17554931)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm18257415)|&nicovideo(http://www.nicovideo.jp/watch/nm19006621)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm19629447)|&nicovideo(http://www.nicovideo.jp/watch/nm22290112)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm23643432)|&nicovideo(http://www.nicovideo.jp/watch/nm24108948)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm24587260)|&nicovideo(http://www.nicovideo.jp/watch/nm25197336)|
+#endregion
+|&nicovideo(sm29591548)|&nicovideo(http://www.nicovideo.jp/watch/1487588850)|
+|&nicovideo(sm32808035)|>|
+
+**コメント
+- 作成させていただきましたｗ　「わたしとあなた」大好きです  -- 332  (2009-03-04 01:17:24)
+- 昨日の生放送見たばかりなのに、もう作成されてるｗＧＪ  -- 名無しさん  (2009-03-04 08:09:33)
+- wiki仕事早いｗ　今後のじたPに期待  -- 名無しさん  (2009-03-09 00:51:06)
+- ここには載ってないけど「空き缶」もよかったです！  -- 名無しさん  (2009-05-13 23:22:37)
+- 俺が一番好きなのはロケットパワーだな  -- 名無しさん  (2009-08-29 10:43:47)
+- 「自殺」素晴らしいです^^  -- 名無しさん  (2010-03-17 14:59:29)
+- ラストステージが一番好き  -- 水素  (2010-12-17 21:09:59)
+- ラストステージ好きです！泣くのは早い！！  -- ひーちゃん  (2011-05-23 17:44:35)
+- ロケットパワー大好きです！  -- 名無しさん  (2011-06-11 17:37:27)
+- ただいま(remake)もメロウで好き。大サビ凄い。  -- 名無しさん  (2011-08-08 17:15:47)
+- 星くずガールもっと伸びてくれー!  -- 名無しさん  (2011-10-04 22:25:50)
+- 自殺が一番好き  -- 名無しさん  (2012-01-23 17:32:23)
+- ラストステージ聞いて初めてボカロ曲で泣いた！  -- やまさん  (2012-03-24 09:15:48)
+- 神様と人生論がない…ページ作ってほしいな…  -- かき氷  (2012-11-14 19:48:34)
+- サウンド君の冒険評価されとくれ！  -- 名無しさん  (2012-12-23 22:54:01)
+- この方の曲は全体的にもっと評価されて良いと思うんだ…… 特に｢サウンドオブひみつの旅団｣とか｢ロケットパワー｣とか再生数もっとあっていい  -- ゆーな  (2012-12-23 23:42:28)
+- 星くずガール大好き&#9825;もっと伸びろー！！！  -- おもち  (2013-11-28 21:00:24)
+- この人はホームページでボカロとか使ったフリーアルバム結構出してるから、それも追記したらどう？  -- 名無しさん  (2013-12-10 15:32:23)
+- 生や死にかかわる、切ない感じの曲も出してるＰさんですね。特にbabyは泣きました。  -- 名無しさん  (2015-06-17 23:12:54)
+//- 大宇宙ステージは16  -- 名無しさん  (2016-09-02 21:52:34)
+- 久々に聞いたけど分からないもラストバトルもラストステージもやっぱり大好きだな  -- 名無しさん  (2022-02-26 19:22:33)
+#comment()

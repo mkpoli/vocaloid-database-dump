@@ -1,0 +1,66 @@
+#right(){&furigana() &furigana()【登録タグ:&tags()】}
+&nicovideo(http://www.nicovideo.jp/watch/nm3729467)
+作詞：[[Tokusaka]]
+作曲：[[Tokusaka]]
+編曲：[[Tokusaka]]
+唄：初音ミク
+
+**曲紹介
+-ピアプロと講談社のコラボ企画「初音ミクミキシングボックス」に採用された（トップページで流れる）。
+-TWO－MIXを目標にしているらしく、かなりそれらしい切なくカッコいい曲調。
+-ミクのイラストは自らの手によるものだが…しかし曲のよさは関係ない。
+-微妙さは本人も認めており、最近の作品ではピアプロからイラストを借りている。
+
+**歌詞
+（[[ピアプロ>>http://piapro.jp/a/content/?id=vyvrk2517uyfw3da]]より転載）
+
+Won't Give Up　諦めない　
+その翼ひろげて
+
+切なさおそう　震えるsilent heart
+この気持ちを抱え込んで　日々を過ごしてた
+
+闇のような日々　その先何あるの
+瞳濡らす　私の涙
+
+星はきらきらと輝く　
+私だって負けて　ばかりいられない
+
+Won't Give Up　諦めない　その翼ひろげて
+silent heart　この思いを抱きしめ歩くんだ
+
+Won't Give Up　恐れないで　瞳そらさずに
+silent heart　光に続く私のその夢
+
+
+
+悔しさ恐れ　怯えるsilent heart
+その気持ちを振り払えず　逃げ続ける日々
+
+降り続く雪は　どうして冷たいの
+凍えている　私の心
+
+だけどその雪は輝く　
+やさしさを教える　厳しさと一緒に
+
+Won't Give Up　諦めない　その翼ひろげて
+silent heart　この強さを抱きしめ歩くんだ
+
+Won't Give Up　恐れないで　瞳そらさずに
+silent heart　光を目指す私のこの夢
+
+
+
+切なさおそう　震えるsilent heart
+この気持ちを抱え込んで　日々を過ごしてた
+
+
+Won't Give Up　諦めない　その翼ひろげて
+silent heart　この思いを抱きしめ歩くんだ
+
+Won't Give Up　恐れないで　瞳そらさずに
+silent heart　光に続く私のその夢
+
+
+**コメント
+#comment()

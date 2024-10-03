@@ -1,0 +1,44 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/028_20091225193239_0240_0240.jpg)
+
+|&b(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/caution/id318911476]]}|
+
+|CENTER:本作|CENTER:次作|
+|CENTER:&bold(){CAUTION}|CENTER:[[PASTEL BEETZ]]|
+
+|&bold(){[[くちばしP]]}|
+
+||CENTER:即売|CENTER:同人|CENTER:配信|
+|CENTER:発売|CENTER:2008年12月30日|CENTER:2009年1月19日|CENTER:2009年6月11日|
+|CENTER:価格|CENTER:￥500|CENTER:￥735（税込）|CENTER:￥900 / 1曲￥150|
+|CENTER:サークル|>|>|CENTER:線形ネコ型システム|
+|CENTER:レーベル|>|CENTER:-|CENTER:KarenT|
+
+**CD紹介
+-[[くちばしP]]初となるボーカロイド・ミニアルバム。メディアはプレスCD。
+-ニコニコ動画で発表済みの２曲に新曲３曲を加え、各インスト版を含めた全10曲収録。既発表曲もリマスタリング版となる。
+-ジャケットイラストに先生と山田さんが描かれているが、既存の先生シリーズは収録されていないので注意が必要だ！&br()その代わり、山田さんの楽曲と先生の新曲が新たに収録されているので、ファンは要注目だ！
+-イベント後に[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/17/45/040010174549.html]]への書店委託も行われています。
+-09年6月よりKarenT配信アルバムとして、ダウンロード販売も開始。
+
+**曲目
++となりのカミサマ &color(RED){NEW!}
++[[EX-GIRL]]
++雪晴れ &color(RED){NEW!}
++[[私の時間]]
++HYPERAGE &color(RED){NEW!}
++となりのカミサマ (inst)
++EX-GIRL (inst)
++雪晴れ (inst)
++私の時間 (inst)
++HYPERAGE (inst)
+
+**リンク
+-[[「CAUTION」特設サイト>>http://pokoneko.haru.gs/c75/]]
+-[[Linear System>>http://pokoneko.haru.gs/linersystem/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/17/45/040010174549.html]]
+-[[KarenT>>http://karent.jp/album/28]]
+
+
+**コメント
+#comment

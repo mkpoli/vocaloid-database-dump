@@ -1,0 +1,49 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/007_20091225191342_0240_0240.jpg)
+
+|&bold(){[[iTunes Store で購入する>>http://itunes.apple.com/jp/album/fragments/id305322893]]}|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Fragments}|CENTER:[[Just Be Friends>Just Be Friends/CD]]|
+
+|&bold(){[[Dixie Flatline]]}|
+
+||CENTER:配信|CENTER:即売|CENTER:同人|
+|発売|CENTER:2009年2月19日|CENTER:2009年2月22日|CENTER:2009年3月17日|
+|価格|CENTER:全曲￥900・1曲￥150（税込）|CENTER:￥1,000|CENTER:￥1,470（税込）|
+|サークル|CENTER:-|CENTER:>|CENTER:Yeheyuan Studio|
+|レーベル|CENTER:KarenT|CENTER:>|CENTER:-|
+
+**CD紹介
+-「&bold(){12の欠片（Fragments）を繋ぎ止めて贈る珠玉のアルバム。星々は夜空に、想いは此処に、いつまでも、いつまでも。}」（特設サイトより）
+-Dixie Flatline待望のファーストアルバム。ボーマス７、A05-06「よっこらジェミニのナナナナ論」にて頒布される。
+-既発表の８曲に加え、新録として、「[[ジェミニ]]」「[[Sweetiex2]]」にそれぞれ連なるイントロ・アウトロ、「[[ジュブナイル]]」の70年代風ニューソウルリメイク、とぴさんをボーカルに迎えた「[[歌ってみた版ジェミニ>>http://www.nicovideo.jp/watch/sm5385767]]」を収録した全12曲。
+-アートデザインは、鏡音PV師として人気の[[グライダー絵師>グライダー]]が担当。12の欠片を素敵に彩ります。
+-KarenT配信アルバム第3弾として、iTunes Storeよりダウンロード販売も行われています。
+
+**曲目
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/10759925" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/10759925">【ニコニコ動画】「Fragments」収録曲</a></iframe>)
+
++イントロ
++[[ジェミニ]]
++[[ジュブナイル]]
++[[メービウス]]
++[[東雲スクランブル]]
++[[ジェイコブズ・ラダー]]
++ミクランティカ
++[[花曇]]
++ジュブナイル（MS70's mix）
++ジェミニ（feat. とぴ）
++[[Sweetiex2]]
++アウトロ
+
+**リンク
+-[[Fragments特設サイト>>http://web.me.com/dixieflatline/Fragments/]]
+-[[作者ブログ>>http://dixieflatline.blog59.fc2.com/]]
+-[[よっこらジェミニのナナナナ論特設ブログ>>http://ygnr.seesaa.net/]]
+-[[KarenT>>http://karent.jp/album/7]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/17/77/040010177752.html]]
+
+
+**コメント
+#comment

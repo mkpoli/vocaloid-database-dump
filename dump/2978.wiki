@@ -1,0 +1,67 @@
+#right(){&furigana(おれじなるP) &furigana()【登録タグ:&tags() 】}
+|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/6172238" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/6172238">【ニコニコ動画】オレジナル＆オレンジ集</a></iframe>)|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/6613155" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/6613155">【ニコニコ動画】オレジナルP全作品</a></iframe>)|
+
+**特徴
+-自らの作った曲を&b(){オレジナル}（俺のオリジナル）、他のPの作品のカバーは&b(){オレンジ}（俺のアレンジ）として発表するP。
+-2011年11月19日に発売された、女性P限定のコンピCD「[[sugirl*music]]」にて、女性Pである事が判明する。
+-カバーは原曲とは曲調をガラリと変えて発表するが、ジャズアレンジのレベルの高さには定評がある。
+-調教技術やコード進行にも定評があり、「神調教」や「ベースラインの魔術師」タグが付く事も。
+-曲のジャンルはジャズを始め、バラード、ロック、フュージョン、サンバなどオールマイティに手掛ける。
+-3DS専用ゲームソフト「初音ミク Project mirai 2」では、「[[1925]]」（原曲：[[T-POCKET>とみー]]）のアレンジを担当。
+-使用するVOCALOIDはMEIKO、KAITO、初音ミク、鏡音リン・レン、巡音ルカ、GUMI、神威がくぽ、miki、猫村いろは。
+
+**リンク
+-[[Twitter>>https://twitter.com/mio__mio]]
+-[[PIAPRO>>http://piapro.jp/mio_mio_mio]]
+-[[SoundCloud>>https://soundcloud.com/mio-mio-1]]
+-[[Youtube>>https://www.youtube.com/user/miomio1124]]
+
+**曲
+#list_by_tag(オレジナルP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(オレジナルPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+-&b(){オレジナル曲}
+|&nicovideo(http://www.nicovideo.jp/watch/sm3234861)|&nicovideo(http://www.nicovideo.jp/watch/sm3592939)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3717312)|&nicovideo(http://www.nicovideo.jp/watch/sm4165950)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4469716)|&nicovideo(http://www.nicovideo.jp/watch/sm5269479)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6029170)|&nicovideo(http://www.nicovideo.jp/watch/sm6583036)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9232227)|&nicovideo(http://www.nicovideo.jp/watch/sm9327411)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm10324099)|&nicovideo(http://www.nicovideo.jp/watch/sm11935198)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm13396285)|&nicovideo(http://www.nicovideo.jp/watch/sm13999108)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm13999221)|&nicovideo(http://www.nicovideo.jp/watch/sm14781085)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm15052191)|&nicovideo(http://www.nicovideo.jp/watch/sm17392908)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm17502511)|&nicovideo(http://www.nicovideo.jp/watch/sm17581373)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm17643707)|&nicovideo(http://www.nicovideo.jp/watch/sm18850011)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm18910912)|&nicovideo(http://www.nicovideo.jp/watch/sm19948822)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm20440704)|&nicovideo(http://www.nicovideo.jp/watch/sm20587925)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm22752552)||
+
+-&b(){オレンジ曲}
+#region(close,一覧を見る)
+|&nicovideo(http://www.nicovideo.jp/watch/sm4272361)|&nicovideo(http://www.nicovideo.jp/watch/sm4306301)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4687326)|&nicovideo(http://www.nicovideo.jp/watch/sm4842322)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5483151)|&nicovideo(http://www.nicovideo.jp/watch/sm5529225)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5789021)|&nicovideo(http://www.nicovideo.jp/watch/sm6691340)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7423081)|&nicovideo(http://www.nicovideo.jp/watch/sm8167029)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm8275035)|&nicovideo(http://www.nicovideo.jp/watch/sm8919022)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm18816037)|&nicovideo(http://www.nicovideo.jp/watch/sm23509103)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm23562411)|&nicovideo(sm24243478)|
+|&nicovideo(sm27660835)|&nicovideo(sm27674770)|
+#endregion
+
+-&b(){コラボ曲}
+#region(close,一覧を見る)
+|&nicovideo(http://www.nicovideo.jp/watch/sm5671944)|&nicovideo(http://www.nicovideo.jp/watch/sm7932821)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9534077)||
+#endregion
+
+**コメント
+- オレジナルPほんとに大好き  -- 名無しさん  (2010-10-28 14:40:16)
+- 本当に素晴らしいアレンジ!!  -- 名無しさん  (2012-03-22 00:14:30)
+- 新曲やばいです！優刻の街のミクの声がとても素敵！！  -- 名無しさん  (2012-08-31 19:33:47)
+- オレジナルPのベストアルバムがもしもできたら即買い確定！！(＾∀＾)♪  -- 名無しさん  (2013-02-10 17:08:05)
+- mirai2の1925カバーよかったです…MEIKO固定余裕でした  -- 名無しさん  (2013-12-05 17:55:20)
+#comment()

@@ -1,0 +1,68 @@
+#right(){&furigana(Shooting Star)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(nm4613899)|
+作詞：[[MineK]]
+作曲：[[MineK]]
+編曲：[[MineK]]
+唄：[[初音ミク]]
+
+**曲紹介
+曲名：『&u(){Shooting Star}』
+-MineK氏のボカロ初投稿作品。
+-某テクノポップユニットをイメージして作られている。
+
+**歌詞
+
+明日きっと見える　夜空に光る流れ星
+今は見えないけれど　いつか辿りつけるよ
+
+夢を見てた遠い　あの憧れのShining Star
+私ならなれると思っていたの
+一人じゃ進むの怖いけれども
+誰よりも自分を信じて...
+
+※今 Shooting Star 始めるよ
+　みんなに会いに行くために
+　でも Shooting Star まだつかめない
+　光はどこにある...
+　ほら Shooting Star 飛び立つよ
+　あなたに会いたいよ　すぐに
+　そう Shooting Star 出会えるように
+　流れ星に祈る...
+
+誰も知らなかった　私だけのこの　Secret Star
+いつかみんなに見せてあげたいから
+シグナル全開に伝わるように
+歌いたい宇宙の果てまで
+
+※繰り返し
+
+不安になるけれど...
+大丈夫　乗り越えてみせるよ
+一人じゃ　進むの怖いけれども
+誰よりも仲間を信じて...
+
+※繰り返し
+
+今 Shooting Star ほら Shooting Star
+そして Shining Star Ahh...
+今 Shooting Star ほら Shooting Star
+キタよ Shining Star!
+
+今 Shooting Star ほら Shooting Star
+そして Shining Star Ahh...
+今 Shooting Star ほら Shooting Star
+キタよ Shining Star!
+
+ワタシ Shining Star!
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+**コメント
+#comment()

@@ -1,0 +1,10 @@
+#right(){&furigana(さくしゃべつかたろぐ)&furigana()【登録タグ:&tags()】}
+|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/3682208" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/3682208">作者別初音ミク曲カタログ集一覧</a></iframe>){340,185}|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/7295384" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/7295384">作者別KAITO曲カタログ</a></iframe>){340,185}|
+
+**特徴
+-各VOCALOIDの曲を作者様別にまとめ、全曲紹介したカタログ
+-初音ミク、鏡音リン、鏡音レンの作者別カタログはxaby氏、KAITOの作者別カタログはカタログの中の人氏である
+
+**コメント
+- 巨大少女  -- 初音ミク  (2011-12-19 22:39:06)
+#comment()

@@ -1,0 +1,41 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[イイトコドリップ]]|CENTER:&bold(){Turbotrax}|CENTER:[[Rinspire]]|
+
+|&bold(){[[ちょむP]]}|
+
+||CENTER:即売|CENTER:同人|
+|発売|CENTER:2008年8月16日|CENTER:2008年11月13日|
+|価格|CENTER:￥1,000|CENTER:￥1,470（税込）|
+|サークル|>|CENTER:ちょむ工房|
+
+**CD紹介
+-[[ちょむ工房>ちょむP]]のVOCALOIDオリジナルCD第5弾。08夏コミにて頒布された。
+-作曲・編曲は全て[[ちょむP]]。ジャケットイラストは[[MIRACLE TRAX]]・[[Trax Mint]]と同じく、PalePink!の桜部のとす。
+-書店委託は、[[D-STAGE>>http://d-stage.com/shop/detail.php?seq=7170]]や[[メッセサンオー>>http://www.doujinshop.com/doujin/user_top.cgi?type=music&strings=02176]]など7店にて販売されています。
+
+**曲目
++マイクラ　【作詞：おがた うた：初音ミク】
++メイプリ　【作詞：おがた うた：鏡音リンACT2】
++Double Cross　【作詞：真雪 うた：鏡音レンACT2】
++浪下の墨花　【作詞：水無月龍那 うた：神威がくぽ】
++ホントはどうよ？ (original mix)　【作詞：TakeponG うた：初音ミク】
++Happy!　【作詞：野宮あゆみ うた：初音ミク・鏡音リンACT2】
++ラブマイライブ ("passcord" vocal mi'ku-s)　【作詞：留桜良姫 うた：初音ミク】
++おしゃべり
++ブルーハワイ（DS-10 scamping mix）【作詞：おがた うた：初音ミク】
++～ KARAOKE TRAX
+
+**リンク
+-[[ちょむ工房>>http://chomstudio.com/]]
+-[[作品ページ>>http://chomstudio.com/products/28_turbo.html]]
+-[[D-STAGE>>http://d-stage.com/shop/detail.php?seq=7170]]
+-[[メッセサンオー>>http://www.doujinshop.com/doujin/user_top.cgi?type=music&strings=02176]]
+-[[メロンブックス>>http://shop.melonbooks.co.jp/tsuhan/system/list.php?RATED=18&MAKER_FULL=%A4%C1%A4%E7%A4%E0%B9%A9%CB%BC]]
+-[[ホワイトキャンバス>>http://www.w-canvas.com/shopping/doujins.cgi?sec=show_catalog&search_type=maker_key&key=1526&no_item=&listing_style=graphic]]
+-[[あきばお～こく>>http://www.akibaoo.com/02/main/b/0/actionNameTxt/search?srchWordTxt=%82%BF%82%E5%82%DE%8D%48%96%5B]]
+-[[グレップ>>http://grep.will-zeal.net/tsuhan/dview_searchcri.cfm?janlname=ちょむ工房&janl=1&pagedata=1]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/16/01/040010160183.html]]
+
+**コメント
+#comment

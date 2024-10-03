@@ -1,0 +1,66 @@
+#right(){&furigana() &furigana()【登録タグ:&tags()】}
+|&nicovideo(http://www.nicovideo.jp/watch/nm2654173)|&nicovideo(http://www.nicovideo.jp/watch/sm4761451)|
+作詞：[[かすたまP]]
+作曲：[[かすたまP]]
+編曲：[[かすたまP]]
+唄：初音ミク・鏡音リン・鏡音レン・KAITO
+
+**曲紹介
+-ダークな雰囲気が印象的な洋風メロスピ。
+
+**歌詞
+（[[PIAPRO>>http://piapro.jp/content/atafu3yvcrituy8o]]より転載。*2のWeisのsはエスツェット。）
+
+凍てつく吐息は白く貴方は何を歌うの？
+氷壁に眠ってしまった貴方は何処？
+
+空に掲げた手に集った歌は誰のため？
+記録(メモリー)が残っていますように
+
+響き合う旋律(メロディ)　高らかに奏でる調べ
+たとえ傷付け合っても　<想い>(うた)は伝わるはずと
+
+響き合う歌声　蝶のように閃いて
+たとえ声嗄れても　この声よ届けと
+
+&nowiki(){*}1{
+(人々は氷を求めるだろう。。。)
+Alle Leute... Lieben das Eis.
+Alle Leute... Suchen das Eis.
+Alle Leute... Lieben das Eis.
+}
+(それこそが全てだ)
+Liebeseis ist das alles.
+
+&nowiki(){*}1
+Liebeseis ist das alles.
+
+&nowiki(){*}1
+(それこそ彼らの全て・・・)
+Eis ist Ihr alles...
+
+繰り返し紡がれるその詩は何を見ている？
+冷たくて悲しくてまるで氷のように
+
+冷たい声溶かす炎　心揺るがす歌を
+最後まで歌おう何度でも
+
+　　
+氷刺(ひし)の風　冷艶(れいえん)の　氷刃の煌き
+Fee　吹き抜ける風をこの手で抱いて歌う
+
+歌声は羽ばたいて 砕氷と煌く
+Ra　玉響(たまゆら)の清静(せいせ)が包んだ
+
+(世界が白い霧に包まれていく・・・)
+(世界が静寂に包まれていく・・・)
+Die Welt herrschte vollkommene Ruhe.
+Die Welt herrschte vollkommene Nebel.
+Die Welt herrschte vollkommene Weis.*2
+Die Welt herrschte vollkommene Ruhe.
+
+
+そして聞こえてきた歌声は・・・
+
+**コメント
+#comment()

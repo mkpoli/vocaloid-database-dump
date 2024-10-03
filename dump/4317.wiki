@@ -1,0 +1,47 @@
+#right(){&furigana(oOらいかOo)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/8536519" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/8536519">【ニコニコ動画】つくったもの</a></iframe>)
+
+**特徴
+作り手名：『&u(){oOらいかOo}』
+-シンセ音を使った、不思議な音が特徴的。
+-使用VOCALOIDは鏡音リン・レン、がくっぽいど、メグッポイド、初音ミク。巡音ルカも所持している。
+-歌詞は恋愛モノが多い様子。
+-アーティスト名は &bold(){oOらいかOo} または、&bold(){織音らいか（おりおらいか）}
+-遂に 『[[escapade]]』 にて、自身初の殿堂入りを達成した。
+
+**リンク
+-[[らいか★らいか（作者ブログ）>>https://ooraikaoo.info/]]
+-[[PIAPRO>>https://piapro.jp/oOraikaOo]]
+-[[Twitter>>https://twitter.com/ooraikaoo]]
+-[[ニコニコ>>https://www.nicovideo.jp/user/7560151]]
+-[[YouTube>>https://www.youtube.com/user/ooraikaooCh]]
+
+**曲
+#list_by_tag(oOらいかOo,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(oOらいかOoCD,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**動画
+|&nicovideo(sm4532512)|&nicovideo(sm4762235)|
+|&nicovideo(sm4899986)|&nicovideo(sm5204811)|
+|&nicovideo(sm5214151)|&nicovideo(sm5308953)|
+|&nicovideo(sm5943449)|&nicovideo(sm6171458)|
+|&nicovideo(sm6500913)|&nicovideo(sm6623675)|
+|&nicovideo(sm7228444)|&nicovideo(sm7378388)|
+|&nicovideo(sm7511653)|&nicovideo(sm8013638)|
+|&nicovideo(sm8454798)|>|
+
+**コメント
+- マイリスがエラーになるのですが…どうすればいいんです？  -- 名無しさん  (2009-02-19 00:46:15)
+- ↑アドが一部違ってたので直しときました。  -- 名無しさん  (2009-02-22 18:01:01)
+- この人の曲はどれもかわいすぎる！！  -- 名無しさん  (2009-02-26 00:37:50)
+- なにこれコメ少な  -- 名無しさん  (2010-07-10 13:06:50)
+- 聞いてたら恋したくなるwwもっといろんな人に聞いてほしい!  -- 名無しさん  (2011-01-31 02:55:42)
+- らいかさんの曲は良い曲ばかりです、CDをEXITTUNESで出してほしいです！！  -- 名無しさん  (2011-07-02 16:33:17)
+- 曲作り頑張って下さい、応援しています！！  -- 名無しさん  (2011-07-02 16:35:25)
+#comment()

@@ -1,0 +1,22 @@
+#right(){&furigana(あんまくP) &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/6954647" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/6954647">【ニコニコ動画】おれの</a></iframe>)
+
+**特徴
+-鏡音リンを用いて、ブラックな詩・ダークでポップな曲調を織り成すアングラ系VOCALOIDプロデューサー。
+-P名は動画の背景が終始黒一色だったことから。
+-ちなみに、この黒一色の背景は詩のブラックさ＝絵で描写できない＝想像する＝恐怖を煽る効果があった。
+-中毒性の高い音楽に魅了され、もっと評価されるべきだと嘆くファンも多い。
+-無邪気に可愛く喋るリンの声は、ファンシーさとホラーさを兼ね揃えた、いわゆる萌える危険物である。
+
+**リンク
+-[[ピアプロ（あんまく）>>http://piapro.jp/vocalo321]]
+
+**曲
+#list_by_tag(暗幕P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/nm3511470)|&nicovideo(http://www.nicovideo.jp/watch/nm3516721)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm3475673)|&nicovideo(http://www.nicovideo.jp/watch/nm13255754)|
+
+**コメント
+#comment()

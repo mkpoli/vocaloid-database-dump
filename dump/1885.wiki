@@ -1,0 +1,34 @@
+#right(){&furigana(TOKYOBEAT)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo(nm4208169)
+作詞：[[パイパンP]]・[[マル]]
+作曲：[[パイパンP]]
+編曲：[[パイパンP]]
+イラスト：[[月條現矢]]（[[piapro>>http://piapro.jp/content/jsr8lw5tkp3626qg]]）
+エンディング題字：[[canna。]]
+唄：[[初音ミク]]
+
+**曲紹介
+曲名：『&u(){TOKYO BEAT}』
+
+**歌詞
+（[[PIAPRO>>https://piapro.jp/content/3ju2llqw2tac9jtc]]より転載）
+
+Tokyo Beat......
+
+
+流れてく　光のルート超え
+繋いだ手　離さずに駆け抜けよう
+
+足元に　響くメトロの音
+感じるよ　ぼくらの鼓動
+　
+
+Tokyo Beat.......
+
+
+**コメント
+#comment()

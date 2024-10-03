@@ -1,0 +1,75 @@
+#right(){&furigana(4FREEDOM)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm6052716)|&youtube(https://www.youtube.com/watch?v=JBTDN0W4KuA){342,187}|
+|&nicovideo(sm6127437)|&youtube(https://www.youtube.com/watch?v=4UkKFP43w2U){342,187}|
+作詞：[[shu-tP]]
+作曲：[[shu-tP]]
+イラスト（オリジナル）：[[黄ばんだごはん]]
+唄（オリジナル）：[[巡音ルカ]]
+唄（ルカメイver.）：[[MEIKO]]・[[巡音ルカ]]・[[Sweet Ann]]
+
+**曲紹介
+曲名：『&u(){4 FREEDOM}』（&u(){4 フリーダム}）
+-氏の記念すべきルカ初挑戦曲。
+
+**歌詞
+（動画より書き起こし）
+
+I can become free. 
+I threw everything away. 
+I can become free. 
+I can live alone. 
+
+何故あなたは　いつもそう言うの？
+壊れかけた二人のこの生活
+
+記憶の隅に　置き去りにした
+二度と戻らない　愛し合った私たち
+
+I can become free. 
+I threw everything away. 
+I can become free. 
+I can live alone. 
+
+古いアルバム　過去の思い出
+いつまで続く夢はもうない
+涙をこらえ　振り向かないで
+全てを捨てて自由を求めて
+
+乾いた気持ち　無意味な言葉
+分かっているの　冷め切った私たち
+
+眩しい朝日　抱かれた夜
+「好き」と囁きあったあの日･･･消えてく
+
+I can become free. 
+I threw everything away. 
+I can become free. 
+I can live alone. 
+
+二人の場所に　灯りはないの
+霞んだ夜景（ひかり）　街を背にして
+涙をこらえ　振り向かないで
+全てを捨てて　I keep walking for freedom.
+
+I can become free. 
+I threw everything away. 
+I can become free. 
+I can live alone. 
+
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+**コメント
+- ルカメイverがすげぇ！！  -- 名無しさん  (2009-02-13 17:56:27)
+- め、めーちゃんが英語を…！  -- 名無しさん  (2009-08-23 07:34:16)
+#comment()
+
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)

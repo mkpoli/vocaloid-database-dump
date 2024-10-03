@@ -1,0 +1,32 @@
+#right(){&furigana(ふるみっくP)&furigana()【登録タグ:&tags()】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/5029450" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/5029450">【ニコニコ動画】フルみっく置き場</a></iframe>)
+
+**特徴
+-代表作は、P名の由来にもなった「[[フルみっくで　ニコニコ動画流星群>>http://www.nicovideo.jp/watch/sm3402781]]」。
+-他にも、普段は初音ミクを使用した東方カバー曲の投稿が中心。
+-「ナツウタ。」からオリジナル曲も投稿するようになった。
+
+**リンク
+-[[ピアプロ>>http://piapro.jp/fullmikku]]
+
+**曲
+#list_by_tag(フルみっくP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(フルみっくPCD,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**動画
+***オリジナル曲
+|&nicovideo(http://www.nicovideo.jp/watch/sm4207197)|&nicovideo(http://www.nicovideo.jp/watch/sm4625619)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5206628)|&nicovideo(http://www.nicovideo.jp/watch/sm5635969)|
+***カバー曲
+|&nicovideo(http://www.nicovideo.jp/watch/sm2485660)|&nicovideo(http://www.nicovideo.jp/watch/sm2624743)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2891656)|&nicovideo(http://www.nicovideo.jp/watch/sm3402781)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3693590)|&nicovideo(http://www.nicovideo.jp/watch/sm3721048)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3928310)|&nicovideo(http://www.nicovideo.jp/watch/sm4221531)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4235484)|&nicovideo(http://www.nicovideo.jp/watch/sm4908497)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5630399)|&nicovideo(http://www.nicovideo.jp/watch/sm5833343)|
+
+**コメント
+- 地声かミクか真剣に分からないんだが・・・  -- 名無しさん  (2009-08-24 21:51:50)
+#comment()

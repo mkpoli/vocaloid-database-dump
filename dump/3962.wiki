@@ -1,0 +1,73 @@
+#right(){&furigana(clear) &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/7345364" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://whttp://kous1128.blog22.fc2.com/ww.nicovideo.jp/mylist/7345364">【ニコニコ動画】kous</a></iframe>)
+
+**特徴
+-エレクトロニカ系の独特なオケを背景に、どこか暗鬱とした世界観の楽曲を発表しているP。
+-専門の楽器はドラムであるためどの作品もリズムが良い。
+-どの作品も聴いていて気持ちが良くなるとの定評がある。
+-作曲は本職では無い様だが、作品から音楽全般の知識と演奏技術の高さが伺える。
+-遂に「[[嘘つき造花]]」が自身初の殿堂入り作品となる。
+
+**リンク
+-[[kous+音（作者ホームページ）>>http://kous1128.mods.jp/hp/]]
+-[[Twitter>>https://twitter.com/kous1128]]
+-[[PIAPRO>>http://piapro.jp/kous]]
+-[[KarenT『kous』のページ>>http://piapro.jp/karent/?view=artist&id=152]]
+
+**曲
+#list_by_tag(kous,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(kousCD,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/nm4163892)|&nicovideo(http://www.nicovideo.jp/watch/sm5357414)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm5387973)|&nicovideo(http://www.nicovideo.jp/watch/sm6364849)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6865106)|&nicovideo(http://www.nicovideo.jp/watch/sm7335311)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7975080)|&nicovideo(http://www.nicovideo.jp/watch/sm8298746)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm8637114)|&nicovideo(http://www.nicovideo.jp/watch/sm8695098)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9007570)|&nicovideo(http://www.nicovideo.jp/watch/sm9396287)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9534743)|&nicovideo(http://www.nicovideo.jp/watch/sm10063137)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm10302917)|&nicovideo(http://www.nicovideo.jp/watch/sm10442542)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm10529625)|&nicovideo(http://www.nicovideo.jp/watch/sm10595297)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm10831931)|&nicovideo(http://www.nicovideo.jp/watch/sm11215809)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm11422387)|&nicovideo(http://www.nicovideo.jp/watch/sm11776152)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12175572)|&nicovideo(http://www.nicovideo.jp/watch/sm12388025)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12558351)|&nicovideo(http://www.nicovideo.jp/watch/sm12631993)|
+
+-&bold(){そのほかの作品}（オリジナル、アレンジなど）
+|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/11434316" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/11434316">【ニコニコ動画】格納庫</a></iframe>)|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/12124513" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/12124513">【ニコニコ動画】うっかりkousのお茶目な日常★</a></iframe>)|
+
+**コメント
+- 本当に評価されてほしい  -- 名無しさん  (2009-03-24 18:42:45)
+- 埋もれすぎですよね…見つけれてよかたorz  -- 名無しさん  (2009-03-28 03:12:37)
+- いいなぁ  -- 名無しさん  (2009-04-05 10:28:29)
+- 「はなればなれ」２曲とも大好きです。ずっとリピートしてても全然飽きません！  -- 名無し  (2009-07-03 19:15:21)
+- Eraserのページ欲しいな...  -- 名無しさん  (2009-07-09 15:11:37)
+- re:setに運命感じた…ページ求む  -- 名無しさん  (2009-08-19 17:37:20)
+- かくれんぼ &br()誰かお願いします  -- 名無しさん  (2009-08-26 12:29:43)
+- 月屑惚れました  -- 名無しさん  (2010-03-10 03:22:22)
+- ミクAppendの公式サイトでkousさんのデモソング聴いたよ。最高だった。  -- 名無しさん  (2010-03-10 13:10:48)
+- 最近kousさんモテモテだなあ…しょっちゅうランキング載ってるし。嬉しい反面ちょっと寂しかったり…  -- 名無しさん  (2010-05-25 13:56:20)
+- 嘘つき造花好きだ。  -- 名無しさん  (2010-08-27 01:58:22)
+- かくれんぼが無いだと……？  -- 名無しさん  (2010-08-27 17:43:15)
+- 月屑の埋もれ方は以上  -- 名無しさん  (2010-10-31 21:57:57)
+- かくれんぼ…ない…  -- 名無しさん  (2010-11-27 15:42:50)
+- 月屑、時計屋と夢は特に大好きです。  -- 名無しさん  (2011-01-18 18:14:08)
+- ほんとなにもかも好きだ。  -- nill  (2011-03-23 21:19:07)
+- 昔の動画消えてる・・・？  -- 名無しさん  (2011-06-19 14:14:45)
+- ピアプロのほうもなくなってるな…いつのまにか  -- 名無しさん  (2011-07-24 23:04:17)
+- 大好きです  -- 名無しさん  (2011-08-29 20:48:44)
+- 大好き。  -- 名無しさん  (2011-09-25 01:29:09)
+- すごく好き  -- 名無しさん  (2011-10-31 20:36:57)
+- 初期の頃の曲が消えてしまったのはすごく残念…  -- 名無しさん  (2012-12-05 17:37:08)
+- CDリリース早くて嬉しいお  -- 名無しさん  (2013-07-26 17:39:55)
+- 『故におちた理由』が大好き！  -- アンマン  (2013-08-12 20:30:04)
+- ↑　超同感。  -- 名無しさん  (2013-08-12 20:38:58)
+- 2PENTAGONの記事が無い・・・  -- 名無しさん  (2013-09-25 10:29:17)
+- ↑ インスト集だから難しいかもね・・・というか廃盤になったCDいっぱいあって辛い  -- 名無しさん  (2013-12-29 09:50:18)
+- 「憂鬱な死神」kousさんの中で好きです、って最近新曲作らないけどもしかして・・・・・引退とか？  -- 名無しさん  (2015-01-06 00:34:37)
+- 最近はメゾネットメゾンだねー  -- 名無しさん  (2016-08-05 16:57:56)
+- ずっと大好きっす！メゾメゾで活動してくれてるの嬉ちい  -- 名無しさん  (2022-11-14 09:19:32)
+- 最近DECOさんの愛迷エレジーを買って、その中に収録されてたモザイクロールのRemixを聴いて「すごい好きなアレンジだな」って思ったらこの人だった！好きです！  -- 名無しさん  (2024-05-12 09:14:09)
+#comment()

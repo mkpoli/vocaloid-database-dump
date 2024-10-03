@@ -1,0 +1,27 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[mikuringo]]|CENTER:&b(){mikuringo EP}|CENTER:[[mikuringo EP2]]|
+
+|&bold(){[[林檎>林檎/作り手]]}|[[psgmania]]|
+
+発売：2008年6月28日
+価格：￥500（税込）
+流通：即売
+サークル：シャララと。
+
+**CD紹介
+-ボーマス4にて初頒布された林檎さんの2枚目のCD。
+-08夏コミで再頒布される。前作と共に[[畳P>畳P（North-T）]]のスペース、[[マユカさん>>http://mayuka.nce.buttobi.net/]]のスペースに委託。
+
+**曲目
++ぴちぴちちゃぷ　(album.edit)
++poco　(album.edit)
++color　(作詞・作曲・編曲：[[psgmania]] / ミックス：林檎)
++ぴちぴちちゃぷ　(ep.ver picopico edit)
++poco　(ep.ver lo-fi edit)
+
+**リンク
+-[[シャララと。>>http://syararato.jugem.jp/]]
+
+**コメント
+#comment

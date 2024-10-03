@@ -1,0 +1,56 @@
+#right(){&furigana(きぼうのはなたば) &furigana()【登録タグ:&tags() 】}
+//希望ノ花束ジャケット
+//#image(http://www.toranoana.jp/mailorder/cit/pagekit/0000/01/91/0000019198/10168300-1.jpg,http://pastelvitamin.blog37.fc2.com/blog-entry-62.html,title=希望ノ花束,blank)
+//希望ノ花束 -starry tunes-ジャケット&br()
+&ref(http://karent.jp/npdca/035_20091225193836_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){希望ノ花束}|CENTER:[[サクラ＊スノウドーム]]|
+
+|&bold(){[[minao（希望P）]]}|[[ちえP]]|[[フェイP]]|[[210P]]|
+
+||CENTER:即売|CENTER:同人|CENTER:配信|
+|発売|CENTER:2008年11月30日|CENTER:2008年11月30日|CENTER:2009年6月24日|
+|価格|CENTER:￥500|CENTER:￥735(税込)|CENTER:￥900 / 1曲￥150|
+|サークル|>|>|CENTER:Pastel Vitamin|
+|レーベル|>|CENTER:-|CENTER:KarenT|
+
+|&b(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/kibou-no-hanataba-starry-tunes/id320486742]]}|
+
+**CD紹介
+-[[minao（希望P）]]初のミニアルバム。11月30日のボーマス6で初頒布された。
+-C75（冬コミ）でも頒布され、とらのあなでも委託販売中。
+-オリジナル曲4曲に加え、ゲストとして[[ちえP]]によるアレンジと「歌ってみた」の祭屋さんによるアレンジを収録している。
+-ジャケットイラスト及びデザインは[[噴き上がるユメの碧]]のイラストを手掛けた縣さんが担当。
+
+-『希望ノ花束 - starry tunes -』のタイトルで、KarenTからダウンロード販売を開始。
+-新たに『[[ビードロ]]』のアレンジと[[210P]]がアレンジした『噴き上がるユメの碧』が追加されている。
+
+**『希望ノ花束』曲目
++ [[スノウドロップ]]
++ [[starry world>starry world/minao（希望P）]]（full.ver）
++ [[噴き上がるユメの碧]]
++ [[ガラクタロボット]]
++ starry world（in twinkling night ） / Chie
++ 噴き上がるユメの碧（ver.祭屋）
+
+**『希望ノ花束 - starry tunes -』曲目
++[[スノウドロップ]] (feat. 初音ミク)
++[[starry world>starry world/minao（希望P）]] (feat. 初音ミク)
++[[ビードロ]] - Arrange - (feat. 鏡音リン・レン)
++[[噴き上がるユメの碧]] (feat. 初音ミク)
++[[ガラクタロボット]] (feat. 鏡音リン・レン)
++噴き上がるユメの碧 - fragile - (feat. 初音ミク)
++starry world - in twinkling night - (feat. 初音ミク)
++噴き上がるユメの碧 (ver. 祭屋)
+
+
+**リンク
+-[[Pastel Vitamin（作者ホームページ）>>http://pastelvitamin.web.fc2.com/]]
+-[[@jj（縣さんホームページ）>>http://psy.x0.to/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/cit/pagekit/0000/01/91/0000019198/index.html]]
+-[[KarenT>>http://karent.jp/album/35]]
+
+
+**コメント
+#comment

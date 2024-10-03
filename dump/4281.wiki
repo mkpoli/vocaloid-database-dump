@@ -1,0 +1,25 @@
+#right(){&furigana(ねぎぶえP) &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/7833683" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/7833683">【ニコニコ動画】うｐしたものとか</a></iframe>)
+
+**特徴
+-代表曲のひとつ「ねぎぶえ」がP名の由来。
+-[[アゴアニキP]]の曲を繋げてユーロビートアレンジした「[[SUPER AGOANIKI BEAT]]」が有名。
+-「ねぎぶえ」のエコノミー時は異次元に行けます。
+-アーティスト名は&b(){ぽむ}。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/pompom55]]
+
+**曲
+#list_by_tag(ねぎぶえP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm3681460)|&nicovideo(http://www.nicovideo.jp/watch/sm4177950)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4371026)|&nicovideo(http://www.nicovideo.jp/watch/sm4605724)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6215348)|&nicovideo(http://www.nicovideo.jp/watch/sm8004898)|
+
+**コメント
+- ねぎぶえのページがないのは理由でもあるの？ ただ作ってないだけ？  -- 名無しさん  (2009-04-01 21:14:47)
+- マイリス名吹いたｗｗｗ兄貴好きなのかｗｗｗｗｗ  -- 名無しさん  (2009-06-21 02:26:19)
+- ↑↑エコノミー症候群で歌詞が読めなくて作れん…  -- 名無しさん  (2009-12-21 23:15:48)
+#comment()

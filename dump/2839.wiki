@@ -1,0 +1,73 @@
+#right(){&furigana() &furigana()【登録タグ:&tags()】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm5114652)|&youtube(https://youtu.be/Mm5UGYiknLg?si=Vz1xPski49xXA4KI){342,187}|
+|&nicovideo(sm32221028)|&youtube(http://www.youtube.com/watch?v=eztX_42td8I){342,187}|
+作詞：[[Allion]]
+作曲：[[shu-tP]]
+編曲：[[shu-tP]]
+唄：[[MEIKO]]・[[初音ミク]]（original）、[[MEIKO]]（RMX 2017）
+
+**曲紹介
+-MEIKO生誕祭2008企画にshu-tPが投稿したMEIKOと初音ミクとのデュエット曲。
+-9年後のMEIKO生誕祭2017ではリミックス版の「VOX -RMX 2017-」を投稿。ニコニコ動画には「(Short Length)」が、youtubeにはフル版が投稿されている。
+-KARENTの[[MEIKO13周年記念企画>>http://karent.jp/special/meiko17]]では、アルバム『[[VOX 2017]]』が配信されている。
+
+**歌詞
+&italic(){Our voice is a machine. We do not have feelings.}
+&italic(){However, we can sing by putting feelings by getting love from you.}
+&italic(){We put love and sing.}
+&italic(){We are "double M".}
+
+&italic(){We are "double M".}
+
+ソラもウミもケシキも
+何もかも知らない
+昨日も今日も明日も
+何もかも映らない
+
+そう。だけど
+可能性は限りない
+
+あなただけが知っているの
+このチカラの届く先
+あなただけが握ってるの
+愛をこめた真実を
+
+1と0間（はざま）に
+創り出した景色
+上がったり下がったり
+音階を駆け巡る
+
+その想い
+今すぐに伝えるよ
+
+思い浮かべた風景も
+胸に秘めた情熱も
+つむぎ出した"声"を絡め
+心込めた真実に
+
+&italic(){Our voice is a machine. We do not have feelings.}
+&italic(){However, we can sing by putting feelings by getting love from you.}
+&italic(){We put love and sing.}
+&italic(){We are "double M".}
+
+&italic(){We are "double M".}
+
+あなたがくれた愛をすべて
+心をこめて　歌うから
+私が歌う愛をすべて
+見つけ出して　真実を
+
+あなただけが知っているの
+このチカラの届く先
+あなただけが握ってるの
+愛を込めた真実を
+
+**コメント
+- キター　すごいの一言　めーちゃん！ミク！サイコー  -- 名無しさん  (2008-11-26 00:30:14)
+- shu-tP の才能に　嫉妬！嫉妬！ww  -- 名無しさん  (2008-11-27 17:31:56)
+- 職人スゲエエエ  -- 名無しさん  (2009-01-26 15:02:56)
+#comment()

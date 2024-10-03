@@ -1,0 +1,70 @@
+#right(){&furigana(Cinderella)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm3821482)|
+作詞：[[cocotuki]]
+作曲：[[psgmania]]
+編曲：[[psgmania]]
+イラスト：[[かもめ]]・[[klemme]]・[[ユの人]]・[[kyky]]・[[tokatoto]]
+唄：[[鏡音リン>鏡音リン・レン]]
+
+**曲紹介
+曲名：『&u(){【　Cinderella　】}』(&u(){【　シンデレラ　】})
+-リンが二十歳になって、Barデビューしたようです。（作者コメ抜粋）
+-正式タイトルは【　】を含めて【　Cinderella　】
+
+**歌詞
+
+はき慣れないハイヒール　銀（シルバー）の靴が夜道鳴らす
+滑るように歩いてくLady 横目で通り過ぎていった　
+
+カウンターバーで出合った　Ladies' manは
+私だけにオーダー
+照れたように逃げる腕　捕まえ……
+
+RinGon RinGon Time RinGon
+甘くてとろける口当たり
+RinGon RinGon Time RinGon
+まるで無邪気なキスの味ね
+RinGon RinGon Time RinGon
+喉の奥のかすかな苦味が
+RinGon RinGon Time RinGon
+これが大人の味？　シンデレラ
+
+目の前に差し出された　グラスに輝く宝石cocktail
+一口付けてひと時夢の　Talking今宵語り明かしましょう　
+
+酔えないグラス　「君には早い」なんて
+夜会デビューのお姫様はノンアルコール……？
+
+RinGon RinGon Time RinGon
+さぁタイムリミットまでまだある
+RinGon RinGon Time RinGon
+酔えないカクテルなんて　失礼
+RinGon RinGon Time RinGon
+子供騙しなんていらないわ
+RinGon RinGon Time RinGon
+硝子（ガラス）の靴だって履きこなせる
+
+RinGon RinGon Time RinGon
+オレンジ・パインの香りのする
+RinGon RinGon Time RinGon
+カクテルグラス　１２時告げる
+RinGon RinGon Time RinGon
+年下だって「好き」の意味分かる
+RinGon RinGon Time RinGon
+私だって釣り合えるレディよ？
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+**コメント
+- おませなリンちゃん。  -- どんぐり  (2009-08-10 20:27:23)
+#comment()
+
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)

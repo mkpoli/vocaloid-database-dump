@@ -1,0 +1,93 @@
+#right(){&furigana(Takemehigher)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(nm5608996)|
+作詞：[[MineK]]
+作曲：[[MineK]]
+編曲：[[MineK]]
+唄：[[神威がくぽ>がくっぽいど]]
+
+**曲紹介
+曲名：『&u(){Take me higher}』(&u(){テイク　ミー　ハイアー})
+-MineK氏６作目のがくぽ曲。爽やかなハウス系。
+
+**歌詞
+（動画より書き起こし）
+
+You take me higher!
+二人ならどこまでも行ける気がする
+You take me higher!
+果てしなく続く扉の向こうまで
+higher...So high...
+
+不安に怯えてる日々に　取り込まれてしまいそうさ
+自分じゃ気付かないうちに　踏み出せなくなってしまう
+「遠回りはしたくない」　なんてわがままな理想は
+通じないと気づく度に　周りを気にしている
+
+現実を恐れたら　何もできないって
+でも君と一緒なら何も怖くない
+
+You take me higher!
+二人ならどこまでも行ける気がする
+You take me higher!
+果てしなく続く扉の向こうまで
+You take me higher!
+君となら迷うことも楽しめるさ
+You take me higher!
+止まらずに信じていける　to the limit
+
+不安に怯えてるだけじゃ　何も君を変えはしない
+そんな時必要なのは　少しだけの勇気だろう
+昨日を振り返る度に　後悔ばかり繰り返して
+動けない未熟な僕を　君が救ってくれた
+
+特別なことなら　誰にもできないって
+思うよりも先に　歩き出せばいいさ
+
+You take me higher!
+二人ならどこまでも行ける気がする
+You take me higher!
+果てしなく続く扉の向こうまで
+You take me higher!
+君となら迷うことも楽しめるさ
+You take me higher!
+止まらずに信じていける　to the limit
+
+I'll go with you ... higher!
+I'll go with you ... higher!
+I'll go with you ... higher!
+I'll go with you ... higher!
+
+好きだったら好きと　言う事が大切さ
+チャンスなど何度も　簡単には来ない
+
+You take me higher!
+二人ならどこまでも行ける気がする
+You take me higher!
+果てしなく続く扉の向こうまで
+You take me higher!
+君となら迷うことも楽しめるさ
+You take me higher!
+止まらずに信じていける　to the limit
+
+I'll go with you ... higher!
+I'll go with you ... higher!
+
+You take me higher!
+二人ならどこまでも行ける気がする
+You take me higher!
+果てしなく続く扉の向こうまで
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+**コメント
+#comment()
+
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)

@@ -1,0 +1,29 @@
+#right(){&furigana(DARS)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/4431547" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/4431547">【ニコニコ動画】うｐ主ワークス</a></iframe>)
+
+**特徴
+作り手名：『&u(){DARS}』
+-殿堂入りを果たした「[[Chillyditty Of February]]」のフル版でブレイクした実力派KAITO使い。
+-作詞・作曲・編曲のほか、絵も自作。
+-あと、動画のオチにも何気に定評あり。
+
+**リンク
+-[[oscillation cage（作者ホームページ）>>https://sound.jp/dars/]]
+-[[PIAPRO>>https://piapro.jp/nyugyo]]
+
+**曲
+#list_by_tagsearch(DARS,sort=furigana2,errmsg=まだ曲が登録されていません。,and,100)
+
+**CD
+#list_by_tagsearch(DARSCD,sort=furigana2,errmsg=まだCDが登録されていません。,and,100)
+
+**動画
+|&nicovideo(sm2291596)|&nicovideo(sm3121422)|
+|&nicovideo(sm4937860)|>|
+
+**コメント
+#comment()

@@ -1,0 +1,38 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:Brilliant＋|CENTER:&bold(){Farbe}|CENTER:[[Traveler>Traveler/つるつるPCD]]|
+
+|&bold(){[[つるつるP]]}|[[かたほとりP]]|[[鮭P]]|[[ナタP]]|[[におP]]|[[ここ狭いP]]|
+
+||CENTER:即売|CENTER:同人|
+|発売|CENTER:2008年12月29日|CENTER:2008年12月29日|
+|価格|CENTER:未定|CENTER:￥1,500（税込）|
+|サークル|>|CENTER:めろん・そ～だ|
+
+>ジャケットイラスト：&b(){[[SHO(runatic moon)>>http://runaticmoon.web.fc2.com/]]}
+
+**CD紹介
+-サークル「めろん・そ～だ」による3枚目のアルバム。
+-[[つるつるP]]のオリジナル曲＋αに加え、豪華ゲスト陣によるアレンジ曲を収録した全10曲。
+-2008年冬コミでの初頒布と同時に、[[メロンブックス>>http://shop.melonbooks.co.jp/tsuhan/system/list.php?RATED=18&MAKER_FULL=%A4%E1%A4%ED%A4%F3%A1%A6%A4%BD%A1%BC%A4%C0]]及び[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/16/78/040010167840.html]]での委託販売も行われている。
+
+**曲目
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/10069485" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/10069485">【ニコニコ動画】「Farbe」収録曲リンク</a></iframe>)
++introduction
++[[幸せの種]] -におP remix-
++[[青春コンプレックス]] -ナタP remix-
++[[空飛ぶウサギの歌]] -かたほとり remix-
++tomorrow
++[[NERU-ACT.2>NERU・ACT.2]]
++[[はいいろ]]
++[[Driving]] -Shake Sphere remix-
++[[椛路]] -ろくがつ remix-
++[[永遠>永遠/つるつるP]]
+
+**リンク
+-[[めろん・そ～だ>>http://sodamelon.web.fc2.com/]]
+-[[メロンブックス>>http://shop.melonbooks.co.jp/tsuhan/system/list.php?RATED=18&MAKER_FULL=%A4%E1%A4%ED%A4%F3%A1%A6%A4%BD%A1%BC%A4%C0]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/16/78/040010167840.html]]
+
+**コメント
+#comment

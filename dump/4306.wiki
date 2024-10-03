@@ -1,0 +1,34 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+#amazon(B0031881KO)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){ZANEEDS #01}|CENTER:[[ZANEEDS ＃02]]|
+
+|&bold(){[[パイパンP]]}|
+
+発売：2009年2月22日
+価格：￥1,000
+流通：即売
+サークル：ZANEEDS
+
+**CD紹介
+-パイパンPことざにお氏のVOCALOIDアルバム第1弾。ボーマス７にて初頒布。
+-ボーカルにミクを迎え、代表作『[[ペヤングだばあ]]』から『[[Showered]]』『[[Distance>Distance/パイパンP]]』といった本領「綺麗な」曲、さらには[[Dixie>Dixie Flatline]]氏の名曲カバーに未公開のインスト曲まで、全7曲を収録。
+-イラスト担当の[[chan×co]]さんを含む5名から成る VOCALOID creative team "ZANEEDS" の作品として発表される。
+
+**曲目
++Introduction
++[[Showered]]
++[[ペヤングだばあ]]
++[[Stay>Stay/パイパンP]]
++[[Distance>Distance/パイパンP]]
++[[ジェミニ]]　&color(red){COVER}
++サムデイ イン ザ レイン
+
+**リンク
+-[[作者サークルホームページ>>http://zaneeds.com/]]
+-[[作者ブログ>>http://blogs.dion.ne.jp/zanio/]]
+-[[アニメイトの通販ページ>>http://www.animate-onlineshop.jp/products/detail.php?product_id=1000106]]
+
+**コメント
+#comment

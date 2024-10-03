@@ -1,0 +1,56 @@
+#right(){&furigana(おーまねーいすおーる)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm4449086)|&nicovideo(sm6738143)|
+作詞：[[トマ豆腐]]
+作曲：[[トマ豆腐]]
+編曲：[[トマ豆腐]]
+唄：[[鏡音リン>鏡音リン・レン]]
+
+**曲紹介
+曲名：『&u(){オー！マネー・イズ・オール}』
+-始まりはトイザらス
+
+**歌詞
+
+始まりはいつだったか　もう遠い昔のこと
+だだをこねた　トイザらスで　寝転がった床は冷たくて
+
+自分に金があったら　既にそう思えてた
+買ってもらえないなら　買ってやるいつか
+大人になるって金が自由に使えることだと信じてた
+金が全て　そう金があれば何でもできる
+
+OH! MONEY IS ALL, YEAH! (Money is for me, for me)
+困ることなんてない (So, happy happy days)
+OH! MONEY IS ALL, YEAH! (Money is for me, for me)
+裏切ることのない友達 IT'S LOVABLE MONEY
+
+この世に金がなかったら　何にすがるのだろう
+浅はかな愛の溢れた都会（まち）で
+金持ちのばーさんは　無駄に値の張る指輪大量買い
+金が有り余ると頭が麻痺してしまうのかも
+
+OH! MONEY IS ALL, YEAH! (Money is for me, for me)
+いいことだけじゃないんだ (So, some come unhappy)
+OH! MONEY IS ALL, YEAH! (Money is for me, for me)
+私を誘惑する悪魔 IT'S HATEFUL MONEY
+
+OH! MONEY IS ALL, YEAH! (Money is for me, for me)
+困ることなんてない (So, happy happy days)
+OH! MONEY IS ALL, YEAH! (Money is for me, for me)
+裏切ることのない友達
+but 溺れてはいけない VARIOUS MONEY
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+**コメント
+#comment()
+
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)

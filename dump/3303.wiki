@@ -1,0 +1,59 @@
+#right(){&furigana(はちすずめ Complete Box) &furigana()【登録タグ:&tags() 】}
+//#image(http://shinp.web.fc2.com/cb01/img/banner.gif,http://shinp.web.fc2.com/cb01/,title=ハチスズメCompleteBox,blank)
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186107969.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[卑怯戦隊うろたんだー>卑怯戦隊うろたんだー/CD]]|CENTER:&bold(){ハチスズメ Complete Box}|CENTER:-|
+
+|&bold(){[[シンP]]}|[[弱音P]]|
+
+||CENTER:即売|CENTER:同人|
+|発売|CENTER:2008年12月29日|CENTER:2008年12月29日|
+|価格|CENTER:￥1,500|CENTER:￥1,890（税込）|
+|サークル|CENTER:Y_Project（委託先Sp）|CENTER:ハチスズメ|
+
+**CD紹介
+-[[シンP]]が08年冬コミの[[弱音P]]スペースにて頒布のボーカロイドCD。メディアはプレスCD。&br()頒布スペースは[[弱音P]]の"西2 あ72b"以外にも、"西2 お16b"「ミロ」様及び"西2 か37ｂ"「Ciel Blue」様に委託されています。
+-[[シンP]]の発表済の全てのオリジナル曲とアレンジ曲に、ゲストによる歌ってみた曲などを加えた、豪華２枚組全２５曲収録の決定版。&br()既発表曲も全てリマスタリング版となる。「公開済み音源とは段違いのクオリティを、是非お楽しみください。」（公式サイトより）
+-イベントでの頒布と同時に[[D-STAGE>>http://store.shopping.yahoo.co.jp/d-stage/2900071200010.html]]で委託販売され、1月21日から[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/17/33/040010173381.html]]でも委託販売が行われています。
+
+**曲目
+&nicovideo(http://www.nicovideo.jp/watch/sm5681139)
+&bold(){Disc:1}
++[[輝く希望の謳]]【Vocal：鏡音リン】
++[[Mirror Christmas>MirrorChristmas]]【Vocal：初音ミク】
++[[Fortune Diver>FortuneDiver]]【Vocal：MEIKO×初音ミク×鏡音レン】
++[[φは∞（ファイはインフィニティ）]]【Vocal：KAITO】
++[[Abyss -深淵-]]【Vocal：初音ミク×MEIKO×KAITO】
++[[Oniyagura the Metal -鬼櫓-]]【Vocal：神威がくぽ】
++[[Ark -方舟-]]【Vocal：初音ミク×MEIKO×KAITO】
++[[A Lonely Heart]]【Vocal：MEIKO】
++[[マジカル☆クリプト☆リン]]【Vocal：鏡音リン】
++[[卑怯戦隊うろたんだー]]【Vocal：ALL VOCALOIDS】
++[[それが僕らのJustice!>それが僕らのジャスティス]]【Vocal：MEIKO】
++真実の剣【Vocal：KAITO】
++[[虚空戦士マジスパイダー]]【Vocal：KAITO】
+
+&bold(){Disc:2}
++チーターマン2〈S.S.H.風アレンジ〉
++[[龍ノ啼ク箱庭拠リ]]【作詞・作曲：弱音Ｐ Vocal：KAITO】
++[[Snow-white Medium]]【作詞・作曲：弱音Ｐ Vocal：MEIKO】
++真実の剣【Vocal：名称未定】
++Black★Limit【作曲：黒パンダ 作詞・Vocal:黒パンダ×名称未定×リト】
++[[虚空戦士マジスパイダー]]【Vocal：黒パンダ×名称未定×リト】
++チーターマン2〈オケ風アレンジ〉
++[[Fortune Diver>FortuneDiver]]【Vocal：Milia】
++[[卑怯戦隊うろたんだー]]【Vocal：いさじ×Milia】
++[[それが僕らのJustice!>それが僕らのジャスティス]]【Vocal：Milia】
++卑怯戦隊うろたんだー〈ピアノVer〉
++Secret Track
+
+**リンク
+-[[公式サイト>>http://shinp.web.fc2.com/cb01/]]
+-[[D-STAGE>>http://store.shopping.yahoo.co.jp/d-stage/2900071200010.html]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/17/33/040010173381.html]]
+
+**コメント
+- ＳｅｃｒｅｔＴｒａｃｋすげぇｗｗｗｗｗｗｗ  -- 名無しさん  (2009-04-07 01:05:22)
+#comment

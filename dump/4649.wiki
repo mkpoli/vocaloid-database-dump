@@ -1,0 +1,27 @@
+#right(){&furigana(そろもん) &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/7244600" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/7244600">【ニコニコ動画】mylist</a></iframe>)
+
+**特徴
+-素朴で魅力的な作品を発表しているP
+-作品は広く言うとポップスだがメロディやリズムに味わいがあり[[みんなのミクうた>>http://www.nicovideo.jp/tag/%E3%81%BF%E3%82%93%E3%81%AA%E3%81%AE%E3%83%9F%E3%82%AF%E3%81%86%E3%81%9F]]タグが付けられることが多い。
+-歌詞は物語形式になっていることが多く、歌詞だけでも面白く作品の魅力が分かる。
+
+**リンク
+-[[ピアプロ>>http://piapro.jp/thot_jp]]
+
+**曲
+#list_by_tag(ソロモンP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(ソロモンPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm3146021)|&nicovideo(http://www.nicovideo.jp/watch/sm2585513)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4462040)|&nicovideo(http://www.nicovideo.jp/watch/sm4555353)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5608462)||
+
+**コメント
+- ソロモンPのページ!作った人GJ!!  -- 名無しさん  (2009-03-22 01:25:22)
+- この人はもっと評価されていいと思う  -- 名無しさん  (2010-12-04 20:26:29)
+- ↑本当そうですね。youtubeにも動画無いですし、海外でも広まって欲しい。  -- わた  (2019-02-15 02:06:37)
+#comment()

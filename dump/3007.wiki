@@ -1,0 +1,21 @@
+#right(){&furigana(とほほP)&furigana()【登録タグ:&tags()】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/5035057" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/5035057">【ニコニコ動画】とほほPの投稿作品</a></iframe>)
+
+**特徴
+-製作ペースが速く、特徴的な曲を作る。
+-使用ボカロは主にミク・リン・MEIKO・ルカ。
+-替え歌の歌詞も何気に上手い。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/okirakujinsei]]
+ 
+**曲
+#list_by_tag(とほほP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+ 
+**動画（主に再生数・マイリスト数が高いものを6つ）
+|&nicovideo(http://www.nicovideo.jp/watch/sm6054832)|&nicovideo(http://www.nicovideo.jp/watch/sm2687266)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3578360)|&nicovideo(http://www.nicovideo.jp/watch/sm5138963)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2665230)|&nicovideo(http://www.nicovideo.jp/watch/sm2385616)|
+
+**コメント
+#comment()

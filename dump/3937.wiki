@@ -1,0 +1,33 @@
+#right(){&furigana(oken)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/9881655" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/9881655">【ニコニコ動画】おーけんのまいりす。</a></iframe>)
+
+**特徴
+作り手名：『&u(){o.ken}』
+-実は「歌ってみた」で活動しているneko氏と同一人物。これからの活動が期待される新人である。
+-「[[Comet☆Seeker]]」でボカロに参戦。そのデビュー曲がいきなりヒットする。
+-使用するボカロは今のところミクオンリー。
+-o.kenを逆から読むと…(*’∀’*)
+
+**リンク
+-[[PIAPRO>>https://piapro.jp/xkohx]]
+
+**曲
+#list_by_tag(o.ken,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**動画
+|&nicovideo(sm5482733)|&nicovideo(sm5873296)|
+|&nicovideo(sm8839463)|>|
+
+
+**コメント
+- 演奏者の方だと思ってたら、歌い手の方だったか  -- 名無しさん  (2009-01-20 01:14:20)
+- 新曲出してくれないかなー…今出てる２曲とも大好きすぎて困る  -- 名無し  (2009-07-26 00:27:40)
+- o.kenさんの曲カラオケに入ってないのか(´･ω・｀)  -- 名無しさん  (2010-05-28 06:33:53)
+- え！？この人nekoさんだったのか！！  -- 名無しさん  (2010-08-12 02:45:02)
+- signに惚れてWikiに飛んだらまさかの事実ｗｗｗnekoさむだったとはｗｗ &br()さすがの演奏クォリティー  -- 昆布  (2011-10-14 23:14:11)
+- まさかのneko様! o.ken←やることが可愛いな(´艸｀*)  -- 名無しさん  (2011-11-02 18:08:28)
+#comment()

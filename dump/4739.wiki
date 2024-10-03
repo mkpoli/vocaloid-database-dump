@@ -1,0 +1,38 @@
+#right(){&furigana(このり) &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/10803297" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/10803297">【ニコニコ動画】ボカロオリジナルのみのリストです。</a></iframe>)
+
+**特徴
+-使用ボーカロイドは初音ミク、鏡音リン・レン、巡音ルカ、がくっぽいど等だが、この他にも日本語ボカロを所有している。
+-普段は歌い手として活動している。
+-このり氏自身とボカロとの掛け合いによる小芝居にも定評がある。
+-「[[星空と雪の舞踏会]]」はぼからんで初の1位を達成し、自身の代表曲となる。
+
+**リンク
+-[[Iristellia（作者ホームページ）>>http://konori.srmk.net/]]
+-[[PIAPRO>>http://piapro.jp/konnory]]
+-[[twitter>>http://twitter.com/konori_konori]]
+
+**曲
+#list_by_tag(このり,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(このりCD,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm2316475)|&nicovideo(http://www.nicovideo.jp/watch/sm3771466)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3771507)|&nicovideo(http://www.nicovideo.jp/watch/sm5492898)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5840042)|&nicovideo(http://www.nicovideo.jp/watch/sm9338088)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6009689)|&nicovideo(http://www.nicovideo.jp/watch/sm6529625)|
+
+
+**コメント
+- このりさん追加ありがとうございますｗ  -- 名無しさん  (2009-03-29 20:02:48)
+- このりさんと聞くとルクレツィアしか思い浮かばないwww初めてマイリスしたのがこのりさんだったｗ  -- 名無しさん  (2009-07-07 17:11:33)
+- ああもうこのりさん好き！大好き！！The grove of princessも好き！小芝居も好き！このりさん好き！！  -- レイカ  (2010-06-08 01:11:40)
+- 「桜に誓う」がないのは何故？とても力強く歌うミクが新鮮だよ  -- 名無しさん  (2010-06-25 18:47:06)
+- P集めたwikiとかあったのか、このりさん好きすぎる  -- 名無しさん  (2010-10-21 20:30:13)
+- 隣のJKとハゲを入れてください。  -- 天霧志都音  (2011-01-17 08:59:58)
+- 好きすぎて言葉が見つからないけど、とにかく愛しています?  -- ?きのこ?  (2011-06-19 13:24:59)
+- 好きすぐる！このりがいればﾀﾋれる！←　一番好き＾ｑ＾  -- このりんらぶ＾ｑ＾  (2011-12-10 21:08:52)
+- 周りにこのりさん好きな奴いなくて泣きたくなる。　　初めて好きになった歌い手がこのりさんだった。このりさんマジ好きですこのりさん私を嫁にして下さい///  -- 充電器  (2012-04-06 16:30:20)
+#comment()

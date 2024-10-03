@@ -1,0 +1,31 @@
+#right(){&furigana(NEWSONG)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){NEW SONG}|CENTER:|
+
+|&bold(){[[ティッシュ姫]]}|
+
+発売：2008年12月29日
+価格：￥500
+流通：即売
+サークル：BabyDollProject
+
+**CD紹介
+CD名：『&u(){NEW SONG}』
+-08年冬コミケにて初頒布された、[[ティッシュ姫]]の初ボーカロイドCD。
+-ティッシュ姫のボカロデビュー作『[[NEW SONG]]』を含む全３曲。
+
+**曲目
++[[NEW SONG]]
++コンタクト
++オンナノコになりたい！
+
+**リンク
+-[[作者ホームページ>>https://chinkotsuiteru.dokkoisho.com/]]
+//-[[作者サークルホームページ>>http://babydollproject.sakura.ne.jp/]]
+
+**コメント
+#comment

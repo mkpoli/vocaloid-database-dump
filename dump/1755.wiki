@@ -1,0 +1,33 @@
+#right(){&furigana(さまーぐらふぃてぃ) &furigana()【登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186107584.jpg,x=300,y=300)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){サマーグラフィティ}|CENTER:[[レン愛いたしませんかぁ！]]|
+
+|&bold(){[[れれれP]]}|
+
+発売：2008年8月16日
+価格：￥1,000（税込）
+流通：即売
+サークル：L3Project
+
+**CD紹介
+-れれれPにとって初となるVOCALOIDアルバム。今の季節にピッタリなサマーソング4曲を収録。08夏コミで頒布。
+-ジャケット絵の[[ワカコヒメモエ>>http://piapro.jp/moetora]]氏は、付属のフルカラーブックレットのイラストも担当。&br()イベント当日はワカコヒメモエ氏のスペースに委託という形になる。
+
+**曲目
++[[サマーグラフィティ]]
++[[NOSTALGIA>NOSTALGIA/れれれP]]
++[[セツナノヒカリ]]
++[[One Promise -08 SUMMER STYLE->One Promise]]
++サマーグラフィティ (instrumental)
++NOSTALGIA (instrumental)
++セツナノヒカリ (instrumental)
++One Promise -08 SUMMER STYLE- (instrumental)
+
+**リンク
+-[[作者ブログ>>http://yaplog.jp/lelele-p/]]
+
+**コメント
+#comment

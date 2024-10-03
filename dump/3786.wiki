@@ -1,0 +1,39 @@
+#right(){&furigana()&furigana()【登録タグ:&tags()】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/10739379" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/10739379">【ニコニコ動画】. 。○ yusuke&#039;s works and collaborations ○ 。.</a></iframe>)
+
+**特徴
+-コンポーザーであり、ギタリスト。
+-オリジナル曲を制作、投稿もする。ただ、今は諸事情によりオリジナル楽曲を削除中。
+-近日、これまでの投稿楽曲を全曲リマスタリングでパワーアップさせて復活する予定となってます。
+-これまでに[[クリーム市長]]氏、[[Tripshots]]氏の作品に演奏で参加。
+-イベントではTripshots氏と合同で参加している。
+-知り合いである[[花束P]]の名曲「[[さよならのかわりに、花束を]]」をアレンジ。それが切っ掛けでこの埋もれていた名曲が再び注目されることに。
+-アレンジ曲の「サボテン」は[[PENGUINS PROJECT]]のデビュー曲「[[揺れるトケイめぐるセカイ]]」と同じ。
+-タイトル変更した理由は「長い間[[思春期P>PENGUINS PROJECT]]が温めていた思い入れのある名曲を多くの人たちへ聴かせたい」という強い意志から。
+
+**リンク
+-[[作者ホームページ（yusuke.cc）>>http://yusuke.cc/]]
+-[[PIAPRO>>http://piapro.jp/gamma_at_piapro]]
+
+**曲
+#list_by_tag(yusuke,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(yusukeCD,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**動画
+&bold(){オリジナル楽曲}
+|&nicovideo(http://www.nicovideo.jp/watch/sm6122768)|
+&bold(){楽曲アレンジ}
+|&nicovideo(http://www.nicovideo.jp/watch/nm3800890)|&nicovideo(http://www.nicovideo.jp/watch/sm5977966)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6216235)||
+&bold(){演奏参加}
+|&nicovideo(http://www.nicovideo.jp/watch/sm5551784)|&nicovideo(http://www.nicovideo.jp/watch/sm6029342)|
+
+
+**コメント
+- 「Tripster」は同名のミニアルバムにも収録されています  -- 名無しさん  (2009-02-19 12:09:21)
+- また花束Pとコラボしてほしい！この二人バランスいいよ  -- 名無しさん  (2009-03-20 23:55:32)
+- Nebulaのギターに超惚れた。超カッコイイ。  -- 豪炎寺  (2010-05-21 22:49:50)
+- summer.exeの再投稿、ずっと待ってます。　夏になると聞きたくなる  -- 名無しさん  (2012-08-28 15:07:14)
+#comment()

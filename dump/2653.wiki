@@ -1,0 +1,11 @@
+#right(){&furigana(ぼーかろいどらんきんぐ　の　かたろぐ)&furigana()【登録タグ:&tags()】}
+
+|&nicovideo(http://www.nicovideo.jp/watch/sm2702138){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm2721344){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2818829){340,185}||
+
+**特徴
+-2008年3月までにあったランキング動画・カタログ動画をまとめて掲載したもの
+-そのため、現在は終了した企画の動画も紹介されている
+
+**コメント
+#comment()

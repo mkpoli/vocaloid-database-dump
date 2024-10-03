@@ -1,0 +1,39 @@
+#right(){&furigana(てくのすとれす) &furigana()【登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186105813.jpg,x=300,y=300)
+
+//&ref(http://img.toranoana.jp/img/04/0010/16/82/040010168293-1.gif)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){テクノストレス}|CENTER:&bold(){[[Instability]]}|
+
+|&bold(){[[ちゃぁ]]}|
+
+||CENTER:即売|CENTER:同人|
+|発売|CENTER:2008年11月30日|CENTER:2008年12月15日|
+|価格|CENTER:￥500|CENTER:￥735（税込）|
+|サークル|>|CENTER:sound_fly|
+
+**CD紹介
+-ちゃぁ初のVOCALOIDアルバム。ボーマス6にて初頒布されました。
+-全7曲のうち新曲5曲+リミックス2曲という、全て未発表の曲で構成されている。
+-ボーマス6での頒布後、[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/16/82/040010168293.html]]での委託販売も行われています。
+
+**曲目
++[[selfish illusion]]=tremoloRemix=　&color(red){NEW!}
++錆　&color(red){NEW!}
++childdreaming　&color(red){NEW!}
++ラナウェ〜イ　&color(red){NEW!}
++[[ひよこかみなり]]=HiyokokkoRemix=　&color(red){NEW!}
++極上フライト　&color(red){NEW!}
++全力下り坂　&color(red){NEW!}
+
+**リンク
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/16/82/040010168293.html]]
+
+**コメント
+- ラジオで通販やるかもって言ってたね。  -- 名無しさん  (2008-11-30 14:53:51)
+- あ  -- あ  (2009-01-18 00:51:38)
+- 今聞いてるけどすごく良いです＾＾  -- 名無しさん  (2009-03-30 09:11:31)
+- 極上フライト…タイトル最強すぎるわ  -- 名無しさん  (2010-10-17 19:03:48)
+#comment

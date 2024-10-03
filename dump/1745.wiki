@@ -1,0 +1,32 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Wind In Her Hair}|CENTER:&link(Silent Blank -> "ALTERNATE"){Silent Blank -> "ALTERNATE"}|
+
+|&bold(){[[むーと]]}|
+
+発売：2008年1月13日
+価格：￥500（税込）／￥700（税込）
+流通：即売／同人
+サークル：timenaut
+
+**CD紹介
+-THE VOC@LOiD M@STER2にて初頒布。
+-ロックやメタルを源流とするバンドサウンドをあえて初音ミクに歌ってもらったという意欲作。
+-ピアプロ公開作品だったStill In Loveも収録。
+
+**曲目
++Into The Groove　(Instrumental)
++風に吹かれて
++Dance In The Dark
++Sans Adieu　(Instrumental)
++Believe
++Still In Love
+
+**リンク
+-[[作者サイト内特設ページ>>http://timenaut.jpn.org/wihh.html]]
+-[[ピアプロ>>http://piapro.jp/mute]]
+-[[メッセサンオー>>http://www.doujinshop.com/doujin/user_top.cgi?type=music&strings=01800]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/14/43/040010144382.html]]
+
+**コメント
+#comment

@@ -1,0 +1,34 @@
+#right(){&furigana(ひなた)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/10015457" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/10015457">【ニコニコ動画】【投稿動画】オリジナル曲</a></iframe>)|&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/10015447" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/10015447">【ニコニコ動画】【投稿動画】カバー曲・替え歌</a></iframe>)|
+|&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/10015436" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/10015436">【ニコニコ動画】【投稿動画】バカイツ・バカイト系替え歌</a></iframe>)|>|
+
+**特徴
+作り手名：『&u(){ひなた}』
+-KAITO使い。
+-替え歌やカバー曲の投稿が主だが、オリジナル曲も投稿する。
+-何気に、KAITOの人気や知名度が今ほどでなかった頃からKAITO関連にかかわっている者でもある。
+-本来のアーティスト名は&b(){日向 葵}（ひなた あおい）。間違っても「ひまわり」ではありません。
+
+**リンク
+-[[ひまわり畑～KAITO兄さん支援中（作者ホームページ）>>https://sun.ciao.jp/kaito/]]
+-[[ピアプロ>>https://piapro.jp/aoi0hinata]]
+//-[[にゃっぽん>>http://v-nyappon.net/?m=pc&a=page_f_home&target_c_member_id=682]]
+//-[[zoome>>http://zoome.jp/aoi0hinata/]]
+
+**曲
+#list_by_tag(ひなた,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**動画
+|&nicovideo(sm1888415)|&nicovideo(sm2777408)|
+|&nicovideo(sm3237791)|&nicovideo(sm3593872)|
+|&nicovideo(sm3650035)|&nicovideo(sm4077846)|
+|&nicovideo(sm4659061)|&nicovideo(sm4895390)|
+|&nicovideo(sm5378573)|&nicovideo(sm5378608)|
+|&nicovideo(sm5378640)|&nicovideo(sm5717375)|
+
+**コメント
+#comment()

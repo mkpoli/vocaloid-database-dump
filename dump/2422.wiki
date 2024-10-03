@@ -1,0 +1,50 @@
+#right(){&furigana(clear) &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/6902153" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/6902153">【ニコニコ動画】style.s</a></iframe>)
+
+**特徴
+-ロック系の楽曲に定評があるクリエイター。カッコイイとのコメントがよく見られる。
+-音楽サークル&b(){STYLE.S}で活動中。
+-ギター、ベース等は自ら演奏している。
+-第6回BSヤングバトル地区大会優勝、NHKホールでの全国大会出場経験がある。
+-1998年期間楽器メーカーSCHECTERにてミュージシャンとしてモニター契約をしている。
+-生粋のミク廃な人（本人のマイリストのコメントより）。
+-「[[匁]]」は殿堂入りを果たしている。
+
+**リンク
+-[[作者ホームページ（STYLE.S）>>http://www.s-style.tv/]]
+-[[PIAPRO>>http://piapro.jp/styles]]
+
+**曲
+#list_by_tag(SHUN,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(SHUNCD,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/nm3520268){340,185}|&nicovideo(http://www.nicovideo.jp/watch/nm3551618){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/nm4036151){340,185}|&nicovideo(http://www.nicovideo.jp/watch/nm4552688){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4959169){340,185}|&nicovideo(http://www.nicovideo.jp/watch/nm6008115){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6730909){340,185}|&nicovideo(http://www.nicovideo.jp/watch/nm5564008){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7443693){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm7996019){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm8100793){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm10136758){340,185}|
+
+**コメント
+- 新曲憎悪の欲望で知りました　ＳＨＵＮさんの曲は何度も聞きたくなる中毒性があります。  -- 名無しさん  (2008-09-25 17:24:53)
+- ノリがいいテンポが好きです  -- 名無しさん  (2008-09-26 16:08:14)
+- 応援してます、ファンです。  -- 名無しさん  (2008-09-27 12:37:14)
+- 生粋のミク廃らしい（本人コメより）  -- 名無しさん  (2008-09-27 18:04:25)
+- スルメ曲が多くて聞けば聞くほど味が出るＰさん  -- じょりぃ  (2008-10-02 12:37:25)
+- いい曲作る人  -- 名無しさん  (2008-10-08 15:35:32)
+- 好きです,応援してます  -- メッシー  (2008-10-15 15:12:15)
+- カッコイイです ファンになりました　頑張ってください  -- 名無しさん  (2008-10-22 14:49:15)
+- クールですね、生演奏の感じがすごく好き  -- 名無しさん  (2008-10-30 17:30:45)
+- 歌詞が知りたいです  -- 名無しさん  (2008-11-09 20:45:14)
+- この人元プロの人みたいね  -- 名無しさん  (2008-12-06 13:49:58)
+- 新曲が神すぎるんですけどw  -- 名無しさん  (2008-12-24 11:41:51)
+- 何者ですか？　凄くいい曲作る人ですね  -- 名無しさん  (2009-02-10 21:47:45)
+- ファンです　応援してます  -- 名無しさん  (2009-05-14 00:02:14)
+- 気になるお方  -- 名無しさん  (2009-07-09 22:04:04)
+- 好きなPの一人  -- 名無しさん  (2009-10-07 13:49:06)
+- 新曲を激しく期待します  -- 名無しさん  (2010-09-17 22:50:43)
+- 匁と幻覚ラビットとCursed Painが好き過ぎる。これからももっと頑張ってほしい！  -- 僕もミク廃  (2014-12-08 19:23:08)
+#comment()

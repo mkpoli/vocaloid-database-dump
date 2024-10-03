@@ -1,0 +1,74 @@
+#right(){&furigana(きょうかいせん)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm6093329)|
+作詞：[[青幇P]]
+作曲：[[青幇P]]
+編曲：[[青幇P]]
+唄：[[巡音ルカ]]
+
+**曲紹介
+曲名：『&u(){境界線}』（&u(){きょうかいせん}）
+-闇に響くルカうた
+-人生は、明るく楽しく元気が一番。
+
+**歌詞
+（[[ピアプロ>>http://piapro.jp/content/qgza8zwltorzpfpo]]より転載/和訳は動画より書き起こし）
+
+You're sleeping under very merciless peace　（君は無慈悲な安寧の下に眠る）
+I'm not permitted to go there　（私がそこに行くことは許されない）
+And, I'll suffer day after day　（そして、私は毎日、苦しむだろう）
+I'll keep standing in the dark　（私は暗闇に立ち続けるだろう）
+Day after day　（来る日も来る日も）
+
+Why not kill me?　（なぜ私を殺さない？）
+Surely, I'm so worthless for you, surely, certainly　（きっと、私はとても無価値だ）（確かに、確実に）
+Ah, not enough...?　（ああ、まだ足りない……？）
+Should I suffer more?　（私はさらに苦しむべきなのか？）
+
+月の光に惑う人　帰り道も忘れて
+
+水平線より上の世界
+見慣れた青の先に想う　まだ見ぬ青
+君の笑顔を片時も　曇らせぬ為
+もしもそこに届く為に　必要ならば
+私はいつでも　心なき獣になろう　
+
+I'm standing on the border of insanity　（私は狂気との境界線に居る）
+Too simple reason why I stand here　（私がここに立つ簡単過ぎる理由）
+It's still raining... Who is calling it?　（まだ雨が降っている……　誰がそれを呼んでいるんだ？）
+Someone should end it End all now　（誰かがそれを終わらせるべきだ）（終わらせてくれ、全てを今すぐに）
+
+Why am not I killed?　（なぜ私は殺されない？）
+Surely, I'm injurious for you, surely, certainly　（きっと、私はとても有害だ）（確かに、確実に）
+Ah, not enough...?　（ああ、まだ足りない……？）
+Should I suffer more?　（私はさらに苦しむべきなのか？）
+
+届かない声歌う人　それが無駄だとしても
+
+境界線から先の世界
+溢れた涙が冷たい色　まだ見ぬ蒼　
+それはきっと何よりも　綺麗な色
+辿り着いて振り返れば　君はもう動かない
+爪を赤に染めた獣は一人　笑った
+
+Kill me
+Please kill me
+Kill me now...
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+**コメント
+- もっと伸びろ！！  -- 名無しさん  (2009-03-01 20:18:23)
+- 静かに突き刺さる。メロディの雰囲気がすごく綺麗。  -- 名無しさん  (2009-03-02 22:19:32)
+- もっと評価されようぜ。  -- 名無しさん  (2009-04-19 18:05:33)
+- かっくいい  -- 名無しさん  (2009-04-19 18:12:21)
+#comment()
+
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)

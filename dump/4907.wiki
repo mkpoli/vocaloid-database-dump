@@ -1,0 +1,35 @@
+#right(){&furigana(ゆうやみP) &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/12084406" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/12084406">【ニコニコ動画】Works</a></iframe>)
+
+**特徴
+-ピアノや弦が奏でる優しい音色と繊細な歌詞が紡ぎ出す、めくるめくような情景が美しい。
+-発表曲数こそ多くないものの、知る人ぞ知る名Pとして密かな人気を集めている。
+-アーティスト名は、&bold(){ismK}（イズミ・ケイ）。個人サークル、&bold(){Private Square}を主催している。
+-2015年9月27日に発表した「[[救われない僕達 - Last Summer Recollection-]]」を最後に夕闇Pとしての活動を終了した。
+
+**リンク
+-[[PRSQ BLOG（作者ブログ）>>http://prsq.sblo.jp]]
+-[[PIAPRO>>http://piapro.jp/ismk]]
+-[[ニコニコミュ>>http://ch.nicovideo.jp/community/co1657]]
+
+**曲
+#list_by_tag(夕闇P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(夕闇PCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm1517348)|&nicovideo(http://www.nicovideo.jp/watch/sm1597909)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3064974)|&nicovideo(http://www.nicovideo.jp/watch/sm6775394)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm8430927)|&nicovideo(http://www.nicovideo.jp/watch/nm9891522)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm9900771)|&nicovideo(http://www.nicovideo.jp/watch/nm11951287)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm11951287)|&nicovideo(http://www.nicovideo.jp/watch/sm12130057)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12420828)|&nicovideo(http://www.nicovideo.jp/watch/nm12464814)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm13117203)||
+
+**コメント
+- 夕闇P来た！登録ありがとー！  -- 名無しさん  (2009-04-19 01:17:01)
+- イブに新曲出ましたね！  -- Menoa  (2011-01-05 22:53:14)
+- 何故伸びない……っ  -- Menoa  (2011-02-11 08:33:27)
+- 良曲が多すぎるのに伸びない、隠れた名P。そろそろ殿堂入りしてもいい頃なのにな…  -- 名無しさん  (2011-05-14 12:29:39)
+#comment()

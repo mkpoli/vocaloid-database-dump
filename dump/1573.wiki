@@ -1,0 +1,36 @@
+#right(){&furigana(すP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/5164849" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/5164849">【ニコニコ動画】残念ながらスPでした。</a></iframe>)|&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/7398608" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/7398608">【ニコニコ動画】スPのボカロリミックス</a></iframe>)|
+
+**特徴
+作り手名：『&u(){スP}』
+-ニコニコ外ではcomicという名で活動。（magicという名を使う場合もある。）
+-P名の由来はマイリストを開いてサムネを見れば分かります。
+-基本的にエレクトロで、曲調の幅はとても広い。
+-ボコーダーボイスが好きなよう、たまに凄いことになってます。
+-非常に多作で、ファンはいつもお腹一杯です。
+-リミックス作品での大暴れも聴きどころ。
+-捻れたアヒルラジオのメインパーソナリティ。
+
+**リンク
+-[[ピアプロ>>https://piapro.jp/comic]]
+-[[スPが性懲りもなくブログをはじめました>>http://comicsp.blog49.fc2.com/]]
+
+**曲
+#list_by_tag(スP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(スPCD,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**動画
+（一部を抜粋）
+|&nicovideo(nm3407578)|&nicovideo(nm3852818)|
+
+**コメント
+- スＰwww  -- 名無しさん  (2008-07-15 18:35:27)
+- うおお、スPの項目があるなんてｗｗｗ  -- 名無しさん  (2008-07-21 18:46:13)
+- ニコニコ大百科のスPの項目笑ったｗｗ  -- 名無しさん  (2013-09-02 05:50:53)
+#comment()

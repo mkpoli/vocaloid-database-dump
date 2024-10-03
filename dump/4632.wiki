@@ -1,0 +1,44 @@
+#right(){&furigana(SparkofScum)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+#image(sos.jpg,title=Spark of Scum)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Spark of Scum}|CENTER:[[MUSIC LIFE>MUSIC LIFE/CD]]|
+
+|&bold(){[[U-ske]]}|
+
+発売：2009年2月22日／2009年3月
+価格：￥1,000／￥1,050(税込)
+流通：即売／同人
+サークル：HERE and THERE
+
+**CD紹介
+CD名：『&u(){Spark of Scum}』
+-U-ske氏のオリジナルアルバム第1弾。
+-未公開曲を含む、13曲入りフルアルバム。
+
+**曲目
++Open the Story
++[[sparkle song]]
++[[Remind of you -album Mix->Remind of you]]
++[[カレン]]
++トウシン
++[[スピード☆メイカー]]
++ロストラブレター
++[[I hate you (original key)>I hate you]]
++[[つれていって]]
++Please Please
++フワフワ
++[[Last Word]]
++つれていって -faroff Mix-
+
+**リンク
+-[[作者ホームページ（HERE and THERE）>>http://hat.lix.jp/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/17/73/040010177354.html]]
+
+**コメント
+- カレン、トウシン、ロストラブレター目当てで欲しい、  -- 名無しさん  (2015-09-01 23:35:00)
+#comment

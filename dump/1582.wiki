@@ -1,0 +1,16 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm3733097){340,185}
+作詞：[[（*・ω・）わおーんP]]
+作曲：[[（*・ω・）わおーんP]]
+編曲：[[（*・ω・）わおーんP]]
+唄：KAITO
+
+**曲紹介
+-前奏は長くないです。
+
+**歌詞
+(唸り声のような低音で)uh...
+
+
+**コメント
+#comment()

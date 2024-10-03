@@ -1,0 +1,53 @@
+#right(){&furigana(Alwaysyoursway)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm5241878)|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Always yours way}|CENTER:Feel with the No Name|
+
+|&bold(){[[ばすてぃP]]}|
+
+発売：2008年11月30日
+価格：￥
+流通：即売
+サークル：(゜∀゜)o彡゜わんつー!工房
+
+**CD紹介
+CD名：『&u(){Always yours way}』
+-ばすてぃP初のVOCALOIDアルバム。&bold(){リンレンアルバムプロジェクト}の集大成として、ボーマス６で発表される。
+-CDは２ディスク仕様。ディスク１にはリンレンシリーズ本編、ディスク２にはシリーズ番外編、全17曲と盛り沢山に収録。
+-ジャケット絵は、『[[恋華]]』や『[[水色の空]]』のイラストを担当した[[水穂沙羅]]さん。
+-通販・書店委託の予定は現在のところ無いようなので、欲しい方はイベント現地まで。
+
+**曲目
+&bold(){DISC1}
++[[Always]]（リン・レン）
++[[サイレン>サイレン/ばすてぃP]]（レン）
++[[鈴のうた]]（リン）
++[[Twin's fire]]（リン・レン）
++[[Be mine!]]（リン）
++[[R☆L滑舌探求歌]]（リン・レン）
++[[HB]]（レン）
++[[music world]]（リン・レン）
++[[Cool-lazeist]]（レン）
++[[今宵貴方を待つ]]（リン）　&color(red){NEW!}
++[[yours way]]（リン・レン）　&color(red){NEW!}
+　　（1-4 は第1部、5-8 は第2部、9-11 は第3部）
+
+&bold(){DISC2}
++[[ココロ -thousands after-]]（リン）
++[[水色の空]]（レン）
++[[雨の歌]]（レン）
++[[恋華]]（リン）
++[[R☆L滑舌検証歌]]（リン・レン）
++[[A･R･I]]（リン・レン）
+
+**リンク
+//リンク切れ-[[Always yours way 特設ページ>>http://www6.plala.or.jp/festoon/cd/basty-cd01.html]]
+-[[作者ホームページ>>http://ameblo.jp/birth-from-tear]]
+
+**コメント
+#comment

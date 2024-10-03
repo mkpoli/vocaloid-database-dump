@@ -1,0 +1,82 @@
+#right(){&furigana(におP)&furigana()【登録タグ:&tags()】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/4784825" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/4784825">【ニコニコ動画】におリスト</a></iframe>){340,185}
+
+**特徴
+-2008年1月、 『[[桜並木>桜並木/におP]]』 にてボカロデビュー。
+-5作目の 『[[rain stops, good-bye]]』 にて初の殿堂入りを達成。
+-聴き手にゆったりと聴かせるサウンドが特徴。
+-たまに自分で演奏してみたり歌ってみたりもする。
+-ボカロは今のところ、ミク・リン・レン・ルカ・IAを使用。
+-最近はぼくのりりっくのぼうよみやEVO+等への曲提供や自身のバンド [[如何様詐欺師は夜動く>>https://www.iksg.rocks]]等での活動も目立つ。
+
+**リンク
+-[[作者ブログ>>http://momojirin.blog45.fc2.com/]]
+--[[旧ブログ>>http://blog.livedoor.jp/nionio20/]]
+-[[Twitter>>http://twitter.com/niotch]]
+-[[PIAPRO>>http://piapro.jp/nionio410]]
+
+**曲
+#list_by_tag(におP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(におPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm2143155)|&nicovideo(http://www.nicovideo.jp/watch/sm2183786)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2380039)|&nicovideo(http://www.nicovideo.jp/watch/sm2794197)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3075492)|&nicovideo(http://www.nicovideo.jp/watch/sm3119549)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3145685)|&nicovideo(http://www.nicovideo.jp/watch/sm3351745)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3393044)|&nicovideo(http://www.nicovideo.jp/watch/sm3477535)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4104077)|&nicovideo(http://www.nicovideo.jp/watch/sm4327637)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4816464)|&nicovideo(http://www.nicovideo.jp/watch/sm4863765)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5596160)|&nicovideo(http://www.nicovideo.jp/watch/sm6076409)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6426687)|&nicovideo(http://www.nicovideo.jp/watch/sm8326494)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm8836935)|&nicovideo(http://www.nicovideo.jp/watch/sm9501555)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm10302536)|&nicovideo(http://www.nicovideo.jp/watch/sm11773174)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12097293)|&nicovideo(http://www.nicovideo.jp/watch/sm12281432)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12826297)|&nicovideo(http://www.nicovideo.jp/watch/sm14074037)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm14917525)|&nicovideo(http://www.nicovideo.jp/watch/sm15386608)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm15911424)|&nicovideo(http://www.nicovideo.jp/watch/sm16474988)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm18069843)|&nicovideo(http://www.nicovideo.jp/watch/sm18314923)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm19474343)|&nicovideo(http://www.nicovideo.jp/watch/sm19898493)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm20226024)|&nicovideo(http://www.nicovideo.jp/watch/sm21430086)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm22213529)|&nicovideo(http://www.nicovideo.jp/watch/sm23305404)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm23800789)|&nicovideo(http://www.nicovideo.jp/watch/sm24094620)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm24588832)|&nicovideo(http://www.nicovideo.jp/watch/sm24759536)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm25102496)|&nicovideo(http://www.nicovideo.jp/watch/sm25374006)|
+|&nicovideo(sm26399053)|&nicovideo(sm27530019)|
+|&nicovideo(sm31307140)|&nicovideo(sm32638216)|
+|&nicovideo(sm32780847)|>|
+//|&nicovideo(sm)|&nicovideo(sm)|
+//|&nicovideo(sm)|&nicovideo(sm)|
+//|&nicovideo(sm)|&nicovideo(sm)|
+//|&nicovideo(sm)|&nicovideo(sm)|
+
+**コメント
+- 新曲がショタでBLすぎる件  -- 名無しさん  (2008-10-22 19:09:18)
+- そしてショタでBLな新曲が1日で自粛されてしまった件(泣)  -- 名無しさん  (2008-10-23 14:00:59)
+- ↑YouTubeにうpされてる件  -- 名無しさん  (2008-10-23 14:59:00)
+- 速攻DLしたから今聞いてる件。曲良いんだから絵無しでまたあげてくんないかな  -- 名無しさん  (2009-03-11 23:07:49)
+- およ？なぜ初音堂のページがないんだ？要るだろ。  -- pak_13  (2009-03-12 09:09:41)
+- ↑んで[初音堂歌ってもらいました]追加させて頂きました。  -- pak_13  (2009-03-15 03:44:12)
+- white town の記事がないだと・・・  -- 名無しさん  (2009-10-28 19:28:30)
+- 未だに殿堂入り曲がないのは、氏自体が埋もれすぎか、またはボカロを聴く世代に理解されづらい大人な曲ばかりだからだと思う。  -- (´д｀)  (2010-03-22 22:37:14)
+- ↑同意  -- 名無しさん  (2010-03-30 13:35:09)
+- におP一番好きだ。もっと伸びてほしい  -- 名無しさん  (2010-04-01 14:34:18)
+- すごい作曲家だと思う！人間が歌ってる作品もすごくいい！  -- 名無しさん  (2010-04-11 06:09:06)
+- 「蜜蜂」と「帰り道」大好き！ドラマチックな曲調が素敵です  -- 名無しさん  (2010-04-18 11:07:44)
+- 新曲最高  -- 名無しさん  (2010-09-15 08:02:38)
+- 新曲2作連続うつな感じだけど、こういうにおＰ好きだなあ  -- 名無しさん  (2010-09-19 19:31:53)
+- その二作で惹かれた俺はシェイプアップがこの人の曲だったことに驚きだ  -- 名無しさん  (2010-09-28 14:05:22)
+- ｢汚れたプリズム｣ってこの方の曲だったのか…!!知らなかった(←  -- 小百合  (2010-11-23 12:43:45)
+- 3年以上ボカロ聞いてるけど、自分の中ではrain stops good byeがいつも3位以内に居るわ。ずっと好き！これからも好き！！  -- nano  (2011-05-01 17:48:45)
+- デコ  -- 名無しさん  (2011-05-21 20:00:27)
+- まだまだガキな俺だけどにおＰが１番好きなボカロＰ 改めて音楽が好きになった ありがとうにおＰ  -- 名無しさん  (2011-07-01 22:02:19)
+- におＰが同じ県出身と聞いて驚いた  -- 名無し  (2011-12-07 19:44:52)
+- 私がニコ動を知った当初から大好きなボカロP。 &br()におさんの作る曲はどれも胸がぎゅっとなる。昔から思ってたんだけど、素敵な曲ばかり作ってるのに何故伸びぬ…。最近は｢帰り道｣リピートしてます。  -- 昆布  (2012-01-23 14:28:09)
+- におさん大好きです！アルバム収録曲の「繰返し」の歌詞ってございますか……？  -- 名無しさん  (2013-05-12 14:22:02)
+- 壱ツ弐ツいいね。みんなが大人な曲風って言う気持ちが分かるよ。  -- 名無しさん  (2014-02-24 02:10:10)
+- 余所事が好き  -- 名無しさん  (2014-06-28 20:03:51)
+- ワンナイトスタンドのoffvocalってうｐされないかな～。  -- 名無しさん  (2016-08-23 22:27:16)
+- どれも好きなんだけど、におP単体のアルバムは少なくて残念…いい音で聴きたいんだがなぁ… いつか全曲アルバムとは言わないからベストアルバム出してほしいなぁ  -- 名無しさん  (2018-12-06 07:38:02)
+#comment()

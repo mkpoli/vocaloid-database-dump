@@ -1,0 +1,31 @@
+#right(){&furigana(takanonP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://ext.nicovideo.jp/thumb_mylist/4453545" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/4453545">【ニコニコ動画】%E4%BD%9C%E3%81%A3%E3%81%9F%E3%82%82%E3%81%AE</a></iframe>)
+
+**特徴
+作り手名：『&u(){takanonP}』
+-主な使用VOCALOIDはKAITO・鏡音レン・鏡音リン。
+-作詞・作曲だけでなく絵も自作という、少し珍しいP。
+-ジャンルも和風曲・明るいポップス・民族調と幅広い範囲に精通する。
+-なお、たまに&b(){裏takanonP}と化して、VOCALOIDに仕事を選ばせないオリジナル曲を歌わせることがある。
+
+**リンク
+-[[孤軍奮闘（作者ブログ）>>http://takanon.sblo.jp/]]
+-[[ニコニコ>>https://www.nicovideo.jp/user/431159]]
+
+**曲
+#list_by_tag(takanonP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**動画
+|&nicovideo(sm2337995)|&nicovideo(sm2454818)|
+|&nicovideo(sm2511759)|&nicovideo(sm2574802)|
+|&nicovideo(sm2598381)|&nicovideo(sm2675638)|
+|&nicovideo(sm2820478)|&nicovideo(sm2918135)|
+|&nicovideo(sm2996812)|&nicovideo(sm3171248)|
+|&nicovideo(sm3285492)|&nicovideo(sm3370079)|
+
+**コメント
+#comment()

@@ -1,0 +1,22 @@
+#right(){&furigana(ぐろP) &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/12149995" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/12149995">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-
+
+**リンク
+-[[作者ブログ>>http://glomusic.blog104.fc2.com/]]
+-[[PIAPRO>>http://piapro.jp/global]]
+
+**曲
+#list_by_tag(グロP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm2020548)|&nicovideo(http://www.nicovideo.jp/watch/sm6018666)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6733416)||
+
+
+**コメント
+- グロP好きです  -- 名無しさん  (2009-04-17 22:41:31)
+- 大!!好きっ♪  -- 赤トンボ  (2011-09-22 20:36:01)
+#comment()

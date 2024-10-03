@@ -1,0 +1,35 @@
+#right(){&furigana(きれいなうた) &furigana()【登録タグ:&tags() 】}
+//#image(http://www16.big.or.jp/~f-psyche/uta/utabn01.jpg,http://www16.big.or.jp/~f-psyche/uta/,title=きれいなうた,blank) 
+
+#amazon(B001ODI78O)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){きれいなうた}|CENTER:[[ユカイナウタ]]|
+
+|&bold(){朱月笛丸}|犬椅子|
+
+||CENTER:即売|CENTER:同人|CENTER:全国|
+|発売|CENTER:2008年05月11日|CENTER:2008年05月12日|CENTER:2009年01月01日|
+|価格|CENTER:￥500|>|CENTER:￥630（税込）|
+|サークル|>|>|CENTER:BRAINBOX|
+
+**CD紹介
+-朱月笛丸氏のサークル「BRAINBOX」による、初のボーカロイドCD。
+-08年5月のM3で初頒布の後、[[Amazon>>http://www.amazon.co.jp/exec/obidos/ASIN/B001ODI78O/hatsunemiku-22/ref=nosim/]]での全国販売及び[[D-STAGE>>http://d-stage.com/shop/detail.php?seq=5213]]、[[あきばお～こく>>http://www.akibaoo.com/02/commodity_param/t/0/ctc/80020000/shc/0/cmc/2500020050675/backURL/%2002%20main]]、[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/14/77/040010147718.html]]での委託販売も行われています。
+
+**曲目
++Tender Pray〜祈りのうた　（作詞：犬椅子　作曲・編曲：朱月笛丸）
++にせものの神さま～愛のうた　（作詞：犬椅子　作曲・編曲：朱月笛丸）
++夕映えスキップ～風のうた　（作詞：犬椅子　作曲・編曲：朱月笛丸）
++キミの咲くころ～花のうた　（作詞：犬椅子　作曲・編曲：朱月笛丸）
+
+**リンク
+-[[「きれいなうた」　特設サイト>>http://www16.big.or.jp/~f-psyche/uta/]]
+-[[作者HP>>http://www16.big.or.jp/~f-psyche/]]
+-[[Amazon>>http://www.amazon.co.jp/dp/B001ODI78O]]
+-[[D-STAGE>>http://d-stage.com/shop/detail.php?seq=5213]]
+-[[あきばお～こく>>http://www.akibaoo.com/02/commodity_param/t/0/ctc/80020000/shc/0/cmc/2500020050675/backURL/%2002%20main]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/14/77/040010147718.html]]
+
+**コメント
+#comment

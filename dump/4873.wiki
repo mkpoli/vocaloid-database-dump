@@ -1,0 +1,49 @@
+#right(){&furigana()&furigana()【登録タグ:&tags()】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm6742237)|&youtube(https://www.youtube.com/watch?v=VlEYzdfvupU){342,187}|
+|&nicovideo(sm10380894)|&youtube(https://www.youtube.com/watch?v=tnGVkGjVx4E){342,187}|
+|&nicovideo(sm24735195)|&youtube(https://www.youtube.com/watch?v=mLE_t3IJihg){342,187}|
+作詞：[[shu-t>shu-tP]]
+作曲：[[shu-t>shu-tP]]
+編曲：[[shu-t>shu-tP]]
+唄：[[MEIKO]]・[[初音ミク]] (オリジナル)、初音ミク（SID2010 STYLE）、MEIKO V3・初音ミク V3（2014）
+
+**曲紹介
+-「[[So-La]]」での小休止宣言から約2ヶ月のインターバルをおいての復活作。
+-1周年記念バージョンとしてミク単体の「So Labyrinthine -SID2010 STYLE-」を発表した。
+-MEIKO 10周年記念アルバム『[[GODDESS>GODDESS/CD]]』収録版の「So Labyrinthine 2014」では、MEIKO・ミク共にV3を用いている。
+
+**歌詞
+（[[作者ブログ>>http://shu-t.sonic-wave.net/article/117475280.html]]より転載）
+
+メールを送っても返事が遅すぎる
+あなたは今何を？　わたしは空回り
+
+「そんなに力まずに気楽に行きましょう！」
+
+そんな時には外で真っ白な空気吸って
+輝く太陽を背に歌おう　大声で
+迷路に迷い込んでも出口はあるのだから
+焦らず進んで行こう　心配ないから
+
+久々のデートも１時間待ちぼうけ
+時間ばかりみてる　溜息がフワフワァ～
+
+「二人の将来（みらい）は心配ないから！」
+
+そんな時には外で真っ白な空気吸って
+輝く太陽を背に歌おう　大声で
+女同士で今日はドライブなんかしよう
+相談のってあげる　心配ないから
+
+そんな時には外で真っ白な空気吸って
+輝く太陽を背に歌おう　大声で
+迷路に迷い込んでも出口はあるのだから
+焦らず進んで行こう　心配ないから
+
+**コメント
+- メイミクもたまらんな。  -- どんぐり  (2009-08-17 13:32:56)
+#comment()

@@ -1,0 +1,62 @@
+#right(){&furigana(あひるくんそうP) &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/11285553" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/11285553">【ニコニコ動画】ぼくのモテ曲（当社比）</a></iframe>)
+
+**特徴
+-PIAPRO内などではAKIJINとも名乗る
+-音楽サークル『捻れたアヒル』を統括するリーダーである
+-サークルメンバーで唯一、[[アングラカタログ>>http://www.nicovideo.jp/mylist/5773596]]で紹介されていないPだったが、「[[MICRO WORLD]]」が伸びに伸びたため、セレブ軍曹と言われるようになった。
+
+**リンク
+-[[作者ホームページ（Twisted Ducks）>>http://twistedducks.blog87.fc2.com/]]
+-[[Twitter>>http://twitter.com/akijin_duck]]
+-[[PIAPRO>>http://piapro.jp/akijin]]
+-[[KarenT『アヒル軍曹P』>>http://karent.jp/artist/pp000105]]
+
+**曲
+#list_by_tag(アヒル軍曹P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(アヒル軍曹PCD,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm3698866)|&nicovideo(http://www.nicovideo.jp/watch/sm3729268)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3752361)|&nicovideo(http://www.nicovideo.jp/watch/sm3876419)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4097688)|&nicovideo(http://www.nicovideo.jp/watch/sm4173897)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4270873)|&nicovideo(http://www.nicovideo.jp/watch/sm4498866)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4503823)|&nicovideo(http://www.nicovideo.jp/watch/sm4557314)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4697196)|&nicovideo(http://www.nicovideo.jp/watch/sm4779361)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4882291)|&nicovideo(http://www.nicovideo.jp/watch/sm4934508)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4987051)|&nicovideo(http://www.nicovideo.jp/watch/sm5129234)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5290189)|&nicovideo(http://www.nicovideo.jp/watch/sm5453764)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5788034)|&nicovideo(http://www.nicovideo.jp/watch/sm5884251)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6664078)|&nicovideo(http://www.nicovideo.jp/watch/sm6769779)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7106513)|&nicovideo(http://www.nicovideo.jp/watch/sm7814947)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5985252)|&nicovideo(http://www.nicovideo.jp/watch/sm8425509)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm10446457)|&nicovideo(http://www.nicovideo.jp/watch/sm16402828)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm8908413)|&nicovideo(http://www.nicovideo.jp/watch/sm18521596)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm16775875)|&nicovideo(http://www.nicovideo.jp/watch/sm18521931)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm31372023)|&nicovideo(http://www.nicovideo.jp/watch/sm38840882)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm39247370)|
+**カバー・アレンジ
+|&nicovideo(http://www.nicovideo.jp/watch/sm6309520)|&nicovideo(http://www.nicovideo.jp/watch/sm6438785)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7958427)|&nicovideo(http://www.nicovideo.jp/watch/sm12648200)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm16112481)|&nicovideo(http://www.nicovideo.jp/watch/sm19019303)|
+
+
+
+**コメント
+- 新曲よかったです！PV可愛いかった  -- 名無しさん  (2010-04-21 22:33:19)
+- 新曲150回くらいリピートしてる  -- 名無しさん  (2010-05-03 16:16:29)
+- 嘘とタイムマシン大好きすぐる。　もっと評価されても良いお方だ!!  -- 夢見  (2010-05-16 09:06:35)
+- とりあえずMICRO WORLD は早くカラオケに入ってくれ  -- 名無しさん  (2010-08-11 20:07:57)
+- 窓際少女が大好きです!  -- 名無しさん  (2010-10-09 21:57:36)
+- アヒルさんの鏡音は可愛いすぎる！歌もだいすき(*´ω｀*)毎日聞いてます  -- 名無しさん  (2010-11-22 03:34:07)
+- 大好きすぐる(∀)  -- ミオ  (2010-12-08 16:04:37)
+- 空中庭園すき  -- 名無しさん  (2012-01-16 21:57:44)
+- ユメノユメがない…大好きです  -- 名無しさん  (2012-04-28 14:43:48)
+- 大好き  -- 名無しさん  (2014-02-10 19:59:29)
+- 今でも好きなPだな  -- 名無しさん  (2016-03-05 20:39:55)
+- ↑同意です。ボカロ離れして久しい今でも、大好きなPさんの一人！  -- 名無しさん  (2016-05-07 16:40:08)
+- 窓際少女と空中庭園は知っていて、よく聴いてた。こういう気持ち分かるなあ、と憧れる所がある。  -- 視点(世界観？)や物語性が好き  (2017-05-12 22:23:27)
+- 嘘とタイムマシンがずっと好きです  -- 名無しさん  (2022-11-17 19:51:09)
+#comment()

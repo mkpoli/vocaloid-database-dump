@@ -1,0 +1,41 @@
+#right(){&furigana(おんぷではなたば)&furigana()【登録タグ:&tags() 】}
+#image(http://hanataba.michikusa.jp/img/banner.gif,http://hanataba.michikusa.jp/CD.html,title=音符で花束,blank)
+
+&ref(http://hanataba.michikusa.jp/img/JK-P1.jpg,x=300,y=300)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){音符で花束}|CENTER:[[楽園の窓>楽園の窓/CD]]|
+
+|&bold(){[[花束P]]}|
+
+||CENTER:即売|CENTER:同人|
+|CENTER:発売|CENTER:2008年11月30日|CENTER:2008年12月31日|
+|CENTER:価格|CENTER:￥500（税込）|CENTER:￥735（税込）|
+|CENTER:サークル|>|CENTER:音符で花束|
+
+**CD紹介
+-&b(){花束P}の1stアルバム。
+-P名のきっかけになった「[[さよならのかわりに、花束を]]」のstrings verが収録される等ファンの期待に応える内容。
+-ジャケットは「[[つないだ手と花、紙飛行機]]」のイラストを描いた&b(){なめ}が担当。
+
+**曲目
++[[さよならのかわりに、花束を]]
++[[ヒトツオボエ]]
++[[エキストラ]]
++[[つないだ手と花、紙飛行機]]
++さよならのかわりに、花束を -strings ver.-　 
++とてもよく晴れた日の空に　&color(red){NEW!}
++crossroad　&color(red){NEW!}
++ヒトツオボエ -instulmental ver.-
++とてもよく晴れた日の空に -instulmental ver.-
++さよならのかわりに、花束を -instulmental ver.-
+
+**リンク
+-[[CD紹介HP>>http://hanataba.michikusa.jp/CD.html]]
+
+**コメント
+- 再販してほしい  -- 名無しさん  (2010-04-14 23:47:46)
+- これ欲しいな…。もう売ってないのかな？？  -- 屡歌  (2012-08-01 00:22:40)
+- フーン  -- るな  (2013-06-18 15:32:22)
+- 欲しいなぁ  -- 名無しさん  (2014-07-09 17:46:34)
+#comment

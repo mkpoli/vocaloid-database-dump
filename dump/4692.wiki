@@ -1,0 +1,56 @@
+#right(){&furigana(HomeSweetHomicide)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm5630317)|
+作詞：[[kihirohito]]
+作曲：[[kihirohito]]
+編曲：[[kihirohito]]
+唄：[[鏡音レン>鏡音リン・レン]]
+
+**曲紹介
+>&bold(){もうすぐクリスマスですね。}
+曲名：『&u(){Home Sweet Homicide}』(&u(){ホーム　スイート　ホミサイド})
+
+**歌詞
+
+首から名札を下げたまま卵の中へ
+Reversed Evolution
+全知全能なんてよくあるスキル
+
+泳ぐ目線の裏側に何も持たない
+Vacant Generation
+はだかの脳みそを母親にねだる
+
+Home Sweet Homicide
+
+そして夕餉の食卓に真っ赤な花が
+Easy Solution
+家庭の幸福は諸悪の根源
+
+割れた鏡に映るのは壊れた笑顔
+Human Revolution
+全ての憎悪は近親憎悪
+
+Home Sweet Homicide
+
+右手首をひねるたびに一切は済し崩される
+裏から見たひしゃげた空 この愛を歌うよ
+
+
+首から名札を下げたまま…
+割れた鏡に映るのは…
+
+Home Sweet Homicide
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+**コメント
+#comment()
+
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)

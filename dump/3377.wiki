@@ -1,0 +1,67 @@
+#right(){&furigana(clear) &furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/015_20091225191812_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[dandelion>dandelion/CD]]|CENTER:&bold(){crystaL}|CENTER:[[八月三十一日 / 湖城>八月三十一日／湖城]]|
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/crystal/id311312272]]}|
+
+|&bold(){[[クリスタルP]]}|
+
+|流通|CENTER:即売|CENTER:同人|CENTER:配信|
+|発売|>|CENTER:2008年12月29日|CENTER:2009年4月11日|
+|価格|CENTER:￥1,500|CENTER:￥1,995（税込）|CENTER:全曲￥1,200、１曲￥150|
+|サークル|>|>|CENTER:zegHed Label|
+|レーベル|>|CENTER:-|CENTER:KarenT|
+
+作詞・作曲：&bold(){[[クリスタルP]]}
+イラスト：&bold(){[[みぎわ蓮>>http://www.pixiv.net/member.php?id=10991]]}
+
+**CD紹介
+-HzEdge氏ことクリスタルP、2作目のVOCALOIDアルバム。C75にて初頒布された。
+-crystaLと書いて、クリスタエルと読む。
+-これまでの全発表曲に新作を加えた渾身のDisc1、様々なバラエティのリミックスとインストを収録したDisc2の豪華2枚組。
+-調声協力として、[[流星P]]やbestgt氏らも参加している。
+-現在では、KarenTレーベルからダウンロード販売が行われている。
+
+**曲目
+[&b(){disc1 : Album main}]
+
++with,crystaL ～introduce～
++without U
++[[rb]]
++[[crystal mic]]
++[[陰陽]]
++from sea.or,to the sea. ～interlude～
++b-Mermaid
++[[dandelion]]
++[[erase or zero]]
++white code
++ロンドの惑星（ほし）
+
+[&b(){disc2 : remixes&off vocals}]
+
++陰陽 ～L-step Remix～
++erase or zero ～oriental moon Remix～
++dandelion ～Suggestively Device Remix～
++crystal mic ～Cathedral Remix～
++without U ～LEN-less
++rb ～LEN-less
++rb ～KAITO-less
++rb ～brother-less
++陰陽 ～LEN-less
++b-Mermaid ～LEN-less
++dandelion ～LEN-less
++erase or zero ～LEN-less
++erase or zero ～KAITO-less
++erase or zero ～brother-less
++ロンドの惑星（ほし） ～LEN-less
+
+**リンク
+-[[アルバム『crystaL』特設ページ>>http://k-kei.versus.jp/zeghed/crystal_page.html]]
+-[[作者ホームページ>>http://k-kei.versus.jp/]]
+-[[KarenT>>http://karent.jp/album/15]]
+
+
+**コメント
+#comment

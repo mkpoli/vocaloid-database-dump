@@ -1,0 +1,31 @@
+#right(){&furigana(RabbitDayRapid)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[カナリア>カナリア/CD]]|CENTER:&bold(){Rabbit Day Rapid}|CENTER:&bold(){[[Correct&Collect]]}|
+
+|&bold(){[[あわあわp]]}|
+
+発売：2008年12月29日
+価格：？？
+流通：即売
+サークル：うさかっぷ
+
+**CD紹介
+CD名：『&u(){Rabbit Day Rapid}』
+-[[あわあわp]]作品にイラストを提供している、サークル「[[うさかっぷ>>http://ukw.sakura.ne.jp/u_cup/top.html]]」が08年冬コミケにて発行した同人誌「little*little」に付属するイメージCD。
+-サークルHPで連載されているweb４コマ漫画「うさ*ミク」のイメージソング『[[Rabbit Day Rapid]]』及び『little*little』の２曲を収録。
+-08年冬コミケの会場のみでの頒布となる為、書店委託は行われません。
+
+**曲目
++[[Rabbit Day Rapid]]
++little*little（イメージインストルメンタル）
+
+//**リンク
+//-[[うさかっぷ>>http://ukw.sakura.ne.jp/u_cup/top.html]]
+//-[[あわあわpブログ>>http://nolfest.seesaa.net/]]
+
+**コメント
+#comment

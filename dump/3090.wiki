@@ -1,0 +1,36 @@
+#right(){&furigana(たつりょくしゃはんP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/6998100" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/6998100">【ニコニコ動画】投稿作一覧</a></iframe>)
+
+**特徴
+作り手名：『&u(){脱力ジャパンP}』(&u(){だつりょくじゃぱんP})
+-80～90年代のニューミュージック・アニソン・特撮主題歌を中心にカバーしている。作者名は「偽･雷電」（マイリストより）。
+-使用ボカロは現在のところKAITO中心だが、MEIKO・ミク・リン・レンでも作品を発表している。
+-2008年10月より、KAITOを主ボーカルに据えた「ボカロ５兄弟」で東映歴代戦隊主題歌カバー作品を順次発表中。（現時点でオリジナル曲はない。）
+-P名は「バトルフィーバーＪ」をカバーした際の、「おーーーーー」という脱力感溢れるKAITOの叫びがきっかけとなった。
+
+
+**リンク
+//-[[YouTube>>https://www.youtube.com/]]
+//-[[piapro>>https://piapro.jp/]]
+-[[Twitter>>https://twitter.com/datsuryoku_jpn]]
+
+//**曲
+//#list_by_tagsearch(脱力ジャパンP,sort=furigana2,errmsg=まだ曲が登録されていません。,and,100)
+//
+**CD
+#list_by_tagsearch(脱力ジャパンPCD,sort=furigana2,errmsg=まだCDが登録されていません。,and,100)
+
+
+**動画
+|&nicovideo(sm4541418)|&nicovideo(sm4687626)|
+|&nicovideo(sm4718675)|&nicovideo(sm4978400)|
+|&nicovideo(sm5024154)|&nicovideo(sm5124196)|
+|&nicovideo(sm5124376)|&nicovideo(sm5196230)|
+|&nicovideo(sm5304730)|&nicovideo(sm5330032)|
+
+**コメント
+#comment()

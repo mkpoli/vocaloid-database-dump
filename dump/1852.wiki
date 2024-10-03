@@ -1,0 +1,20 @@
+#right(){&furigana(しろねこP)&furigana()【登録タグ:&tags()】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/20892482" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/20892482">【ニコニコ動画】</a></iframe><a target="_blank" href="http://www.nicovideo.jp/mylist/20892482">【ニコニコ動画】</a>)
+
+**特徴
+-VOCALOIDを使った楽曲やニコニコインディーズでのオリジナル曲などを発表していたが、&br()2012年4月に音楽活動を終了し、自身のオリジナル曲をまとめたメドレー動画を投稿した後、今までの動画は全削除された。
+
+**曲
+#list_by_tag(白猫P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(白猫PCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+||&nicovideo(http://www.nicovideo.jp/watch/sm5032720){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm6222893){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm11961146){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm10194002){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4225465){340,185}||
+
+
+**コメント
+#comment()

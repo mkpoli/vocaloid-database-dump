@@ -1,0 +1,26 @@
+#right(){&furigana(わたりどりP) &furigana()【登録タグ:&tags() 】}
+|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/5499934" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/5499934">【ニコニコ動画】自作曲一覧</a></iframe>)|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/7682504" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/7682504">【ニコニコ動画】カバー曲など</a></iframe>)|
+
+**特徴
+-やさしい雰囲気や懐かしく感じる楽曲を多く発表している。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/wataridori]]
+
+**曲
+#list_by_tag(渡り鳥P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**動画
+-オリジナル曲
+|&nicovideo(http://www.nicovideo.jp/watch/sm2468151){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm2582684){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3153562){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm3555337){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4017205){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm4343576){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4490778){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm4571665){340,185}|
+
+-コラボ曲
+|&nicovideo(http://www.nicovideo.jp/watch/sm4382480){340,185}||
+
+
+**コメント
+- ただし今は人力ボカロとしてやっている　ただ人力の方が再生数取りやすかった  -- 名無しさん  (2012-06-28 19:13:34)
+#comment()

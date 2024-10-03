@@ -1,0 +1,42 @@
+#right(){&furigana(さざなみ　ばんじょうのかぜ) &furigana()【登録タグ:&tags() 】}
+//#image(http://jiro9876.sakura.ne.jp/vocaloid/2008cd/banner.gif,http://jiro9876.sakura.ne.jp/vocaloid/2008cd/,height=100,width=300,)
+
+#amazon(B001PGZSCS)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:[[ナチュらリズム]]&br()&bold(){漣 -盤上の風-}|CENTER:-|
+
+|&bold(){[[秦野P]]}||[[リョータイ]]|[[裏花火]]|[[orange>orange/作り手]]|
+
+||CENTER:即売|CENTER:同人|
+|発売|CENTER:2008年11月30日|CENTER:2009年1月12日|
+|価格|CENTER:不明|CENTER:￥1,000|
+|サークル|>|CENTER:めくるめく秦野P|
+
+**CD紹介
+-ボーマス6で頒布される秦野P初のVOCALOIDアルバム。2枚同時リリースの1枚。
+-こちらのCDには、『[[雨を連れゆく]]』『[[月花ノ姫歌>月花ノ姫歌/秦野P]]』といった儚く幻想的な世界観が魅力のレン曲を中心に収録。
+--と思いきや、『[[ハト]]』……だと？
+-ジャケットは、『[[目の無い私]]』『雨を連れゆく』でお馴染みの[[裏花火]]氏が担当。
+-ゲストイラストレーターとして、[[シバションP]]と[[なぎみそ]]氏も参加。
+-現地での購入者には、特典としてもれなくポストカードがプレゼントされるとのこと。数量限定なので、欲しい方はお早めに。
+-バンピーファクトリーよりamazonでも同人流通している。
+
+**曲目
+|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/9112454" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/9112454">【ニコニコ動画】盤上の風</a></iframe>)|&nicovideo(http://www.nicovideo.jp/watch/sm5325055)|
+
++[[月花ノ姫歌 ver.紅>月花ノ姫歌/秦野P]]　　/ 詞： [[リョータイ]] 
++[[目の無い私]]　　/ 詞： [[裏花火]]
++竜馬！　　/ 詞： [[orange>orange/作り手]]　　&color(red){NEW!}
++盤上の風 -instrument-　　&color(red){NEW!}
++[[雨を連れゆく]]　　/ 詞： [[裏花火]]
++[[ハト]] -len cover-　　&color(red){NEW!}
+
+**リンク
+-[[ナチュらリズム/盤上の風特設サイト>>http://jiro9876.sakura.ne.jp/vocaloid/2008cd/]]
+-[[作者ブログ>>http://twentyfour1224.blog72.fc2.com]]
+-[[amazon.co.jp>>http://www.amazon.co.jp/gp/product/B001PGZSCS/ref=olp_product_details?ie=UTF8&me=&seller=]]
+
+**コメント
+- ほ・・欲しい・・・・!!  -- 香絵瑠  (2009-12-12 07:53:18)
+#comment

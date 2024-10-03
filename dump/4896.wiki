@@ -1,0 +1,81 @@
+#right(){&furigana(Moonlight)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(nm6293384)|
+作詞：[[MineK]]
+作曲：[[MineK]]
+編曲：[[MineK]]
+イラスト：[[yutu]]
+唄：[[巡音ルカ]]
+
+**曲紹介
+曲名：『&u(){Moonlight}』(&u(){ムーンライト})
+-MineK氏のルカ２作目。
+-ルカの特徴であるウィスパーボイスをフィーチャーしている。
+
+**歌詞
+
+Ah...夕闇がゆっくり降りてきて街に広がる
+Ah...誰とも会いたくない時にはそっと見上げるの
+Ah...静かな河のせせらぎに耳を澄ませて
+Ah...川面に揺らめく月をそっと見つめてみる
+
+The moonlight heals my mind.
+I feel powerin the moonlight.
+When I'm lonely,and I feel blue,
+the moonlight wraps me gently.
+So I like moonlight.
+
+Moonlight. It's beautiful light.
+美しい光に身をゆだねて
+Moonlight. It's peaceful light.
+穏やかな空気を肌に感じて
+Moonlight. It's tender light.
+優しい月明かりに包まれて
+Moonlight. It's wonder light.
+見えない力に導かれて
+
+Ah...誰にも言えない秘密がある時には
+Ah...窓に映る月夜にそっとささやいてみる
+
+It's a beautiful moonlight night
+that has never been seen.
+This atmosphere, wind, smell, and fresh feeling.
+I love it.
+
+Moonlight. It's beautiful light.
+美しい光に身をゆだねて
+Moonlight. It's peaceful light.
+穏やかな空気を肌に感じて
+Moonlight. It's tender light.
+優しい月明かりに包まれて
+Moonlight. It's wonder light.
+見えない力に導かれて
+
+I can become obedient under the moonlight night.
+It's possible to become very gentle.
+I feel it's like god's whisper.
+moonlight, the power, the tenderness,
+open my mind.
+
+Moonlight. It's beautiful light.
+美しい光に身をゆだねて
+Moonlight. It's peaceful light.
+穏やかな空気を肌に感じて
+Moonlight. It's tender light.
+優しい月明かりに包まれて
+Moonlight. It's wonder light.
+見えない力に導かれて
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+**コメント
+#comment()
+
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)

@@ -1,0 +1,38 @@
+#right(){&furigana(しゃけちゅーんず) &furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/004_20091225190603_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){鮭Tunes}|CENTER:[[Birthday>Birthday/CD]]|
+
+|&bold(){[[鮭P]]}|
+
+発売：2008年12月29日
+価格：￥900（税込）/ 1曲￥150（税込）
+流通：配信
+発売元：KarenT（クリプトン・フューチャー・メディア株式会社） 
+
+|&bold(){[[iTunes Store で購入する>>http://itunes.apple.com/jp/album/shake-tunes/id300841582]]}|
+
+**CD紹介
+-鮭Pの愛称で親しまれる Shake Sphere 氏のVOCALOIDアルバム。
+-『[[バースデイ]]』以降のミクソロオリジナル曲を9曲収録。
+-クリプトン・フューチャー・メディア社「KarenT」レーベル配信作第2弾として、iTunes Store他より現在配信中。
+
+**曲目
++[[After the Wind]]
++[[Overflow>Over Flow]]
++[[Last Smile>Last Smile/鮭P]]
++[[サジタリアス]]
++[[End of Rain]]
++[[ポテト>ポテト/鮭P]]
++[[黄昏ポートレイト]]
++[[ポラリス]]
++[[バースデイ]]
+
+**リンク
+-[[作者ホームページ>>http://www.shakesphere.jp/]]
+-[[作者ブログ>>http://shakesphere.jp/blog/]]
+-[[KarenT>>http://karent.jp/album/4]]
+
+**コメント
+#comment

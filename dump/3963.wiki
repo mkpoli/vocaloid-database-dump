@@ -1,0 +1,58 @@
+#right(){&furigana(PtPd)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/10360239" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/10360239">【ニコニコ動画】☆★PtPd★☆</a></iframe>)|
+
+**特徴
+>&bold(){ロリコンでペドフィリアなPtPdをよろしくおねがいしますっ☆}
+作り手名：『&u(){PtPd}』
+-作曲&bold(){pedo-o（[[きくお]]）}と作詞&bold(){loli-co（赤卵）}の二人ユニット。
+-ポップな曲に鬼畜な歌詞と可愛い歌詞を対にしてのせる。
+-2009年1月、「[[shooting star replica]]」にてボカロデビュー。
+-使用合成音声は[[初音ミク]]。
+
+**リンク
+//-個人HP、PIAPRO、YouTube等ある場合は、ここに。当wiki以外のサイトへリンクを貼る場合は必ず「>>」で別ウインドウでリンクしてください。
+-[[ニコニコ動画（赤卵）>>https://www.nicovideo.jp/user/346381]]
+//-[[YouTube>>https://www.youtube.com/]]
+//-[[piapro>>https://piapro.jp/]]
+//-[[Twitter>>https://twitter.com/]]
+-[[PtPd HP>>http://fdempa.com/redchick/ptpd/]]
+--[[きくお個人HP>>https://kikuo.jp/]]
+---[[旧・きくお個人HP「Kikuo Sound Works」>>https://kikk.uunyan.com/]]
+--[[赤卵個人HP「bq」>>http://fdempa.com/redchick/bq/]]
+
+**曲
+#list_by_tag(PtPd,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(PtPdCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm5761936)|&nicovideo(sm5761866)|
+
+**関連タグ内の更新履歴
+#region(close,関連タグ内の更新履歴)
+関連タグ内の更新履歴
+※「PtPd」「PtPdCD」タグ内で最近編集やコメントのあった記事を新しい方から10件表示しています。
+#list_by_tagsearch(PtPd,PtPdCD,sort=timestamp,sort2=desc,errmsg=まだ曲、CDが登録されていません。,or,10)
+#endregion
+
+**コメント
+- どっちが本家かを知った時の衝撃はかなりのもの  -- 名無しさん  (2009-01-21 04:37:33)
+- ニコニコで赤卵タグを見るとテクニカがマシに見えるｗ  -- 名無しさん  (2009-01-21 09:14:54)
+- 曲は良いから誰か替え歌を作ってくれれば良いと思う…w  -- 名無しさん  (2009-01-21 14:27:23)
+- レプリカを見ればいいじゃない  -- 名無しさん  (2009-01-21 14:32:45)
+//- replicaも追加しました  -- 名無しさん  (2009-01-21 15:38:14)
+- サイトを見ると1つの曲に必ず2バージョンの歌詞を入れるユニットなのかな？  -- 名無しさん  (2009-01-21 16:54:12)
+- 確かに対になってるのばっかだ  -- 名無しさん  (2009-01-21 23:20:42)
+- ブログできてるｗ  -- 名無しさん  (2009-02-03 09:21:29)
+- 普通に最悪  -- 名無しさん  (2009-02-10 16:49:25)
+- 最高に最低　すばらしい  -- 名無しさん  (2010-01-24 20:31:28)
+- ミク楽曲以外もいいね  -- 名無しさん  (2010-03-12 09:10:05)
+- 作曲の人が単独でミク曲うｐしてた  -- 名無しさん  (2010-09-16 11:52:15)
+//- 【初音ミク】ボクを忘れた空想紀行【オリジナル曲】 ttp://www.nicovideo.jp/watch/nm12105428  -- 名無しさん  (2010-09-16 11:53:40)
+//- &quot;shooting star replica&quot; JOYSOUND[[カラオケリクエスト投票中>>http://joysound.com/ex/utasuki/request/search.htm?searchKbnGet=2&searchKeyWordGet=PtPd&searchForm%3AsearchButton=1]]  -- 名無しさん  (2011-10-15 23:01:51)
+#comment()

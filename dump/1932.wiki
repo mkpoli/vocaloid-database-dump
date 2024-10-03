@@ -1,0 +1,48 @@
+#right(){&furigana(いそP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/7621600" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/7621600">【ニコニコ動画】VOCALOIDと磯</a></iframe>)
+
+**特徴
+作り手名：『&u(){磯P}』（&u(){いそP}）
+-2008年7月に投稿デビューしたミクマスター。
+-他に類を見ない個性的な調教と、独特の詩的な世界観が見るものの哀愁を誘う。
+-使用ボカロは今のところ、ミク・リン・がくぽ。
+-長い間日の目を見ることがなかったが、「[[袖触れ合うも他生の縁]]」のリメイクで遂にブレイクし、現在に至る。
+-自らの曲で 歌ってみた の活動もしている。
+-初期の数曲以外のサムネイラストは全て [[riria009]]氏 が手掛けている。
+
+**リンク
+-[[袖触れ合うも他生の縁（作者ブログ）>>http://iso-iso.cocolog-nifty.com/blog/]]
+-[[Twitter>>https://twitter.com/iso0614]]
+-[[PIAPRO>>https://piapro.jp/isoiso]]
+-[[ニコニコ>>https://www.nicovideo.jp/user/7852128]]
+-[[YouTube>>https://www.youtube.com/user/iso0614]]
+
+**曲
+#list_by_tag(磯P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(磯PCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm3907740)|&nicovideo(sm5805302)|
+|&nicovideo(sm4138884)|&nicovideo(sm4491514)|
+|&nicovideo(sm5174750)|&nicovideo(sm7255470)|
+|&nicovideo(sm6733701)|&nicovideo(sm8076844)|
+|&nicovideo(sm8933048)|&nicovideo(sm11333292)|
+|&nicovideo(sm14934892)|&nicovideo(sm18484732)|
+|&nicovideo(sm24296123)|&nicovideo(sm29323637)|
+
+**コメント
+//- P名何て読むんですかね？  -- 名無しさん  (2009-06-15 16:55:01)
+//- ↑読み方、書いてあるよ？ちゃんと見てっ  -- 名無しさん  (2009-06-15 17:47:23)
+- あともう一曲無かったっけ？  -- 名無しさん  (2009-06-30 18:13:18)
+- ↑『一蓮托生』ですね。井戸端で追加依頼でてますよ。  -- 名無しさん  (2009-07-03 07:41:15)
+//- 磯も読めんとかアホすぎんだろ  -- 名無しさん  (2011-01-29 02:18:48)
+- キンクマブルースで惚れた人だったりする  -- 名無しさん  (2011-02-06 16:08:39)
+- この人はもっと評価されるべき。  -- ま  (2011-04-26 14:38:14)
+- ほんといい歌ばっかだわ  -- 名無しさん  (2013-07-05 18:03:27)
+#comment()

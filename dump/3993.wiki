@@ -1,0 +1,15 @@
+#right(){【登録タグ:&tags()】}
+//↑タグ忘れ防止のための表示
+曖昧さ回避のためのページ
+----
+-[[Kouhei（K's Sound Project）]]の曲
+--[[Blue Rose/Kouhei]]
+-[[マイんドP]]の曲
+--[[Blue Rose/マイんドP]]
+-[[錯乱P]]の曲
+--[[Blue Rose/錯乱P]]
+
+-[[natsuP]]のCD
+--[[Blue Rose/CD]]
+
+#include(曖昧さ回避の追加の仕方/告知)

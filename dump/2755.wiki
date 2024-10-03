@@ -1,0 +1,29 @@
+#right(){&furigana(なにかしらP) &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/5731825" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/5731825">【ニコニコ動画】ナニカシイラ</a></iframe>)
+
+**特徴
+-ミクを楽器として使い心地よいアンビエント系の曲を作る。
+-不思議な音色は聞いていると心地良くなる。
+-サイン波が大好き。
+-自作絵のかわいらしさにも定評がある。
+-同人音楽サークル「捻れたアヒル」に所属。（2ndアルバム『[[アヒルアルカナ]]』より参加）
+-P名は、本人のアーティスト名&bold(){NANIKA_SHEILA（ナニカシイラ）}から。&br()（が、なにかしらPという名を気に入っていないらしく動画についていたタグをすべて自分で消した。)
+
+**リンク
+-[[piapro>>http://piapro.jp/nanika_sheila]]
+-[[pixiv>>http://www.pixiv.net/member.php?id=9339]]
+-[[twitter>>http://twitter.com/nanika_sheila]]
+
+**曲
+#list_by_tag(なにかしらP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(なにかしらPCD,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm3454187)|&nicovideo(http://www.nicovideo.jp/watch/sm3403590)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm4256546)|&nicovideo(http://www.nicovideo.jp/watch/sm3587206)|
+
+**コメント
+- 埋もれてる…｡これはショベルカーを呼ぶべき。 AWD大好きです。  -- 名無しさん  (2010-08-27 17:48:25)
+#comment()

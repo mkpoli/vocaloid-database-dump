@@ -1,0 +1,33 @@
+#right(){&furigana(MAXVEGETABLE)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/7366654" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/7366654">【ニコニコ動画】ミク</a></iframe>)
+
+**特徴
+作り手名：『&u(){MAX VEGETABLE}』(&u(){まっくす べじたぶる})
+-「[[愛の電波、最大限で伝えたいこの想い]]」でデビューしたミクマスター。
+-低音ミクを好んで用いているようだ。
+-作者は、ロックマンアレンジなども手掛けている。【[[マイリスト>>http://www.nicovideo.jp/mylist/4761539]]】
+
+**リンク
+-[[作者ブログ>>http://maxvegetable.blog.shinobi.jp/]]
+-[[PIAPRO（ヤサイ）>>http://piapro.jp/yasai831]]
+-[[muzie>>http://www.muzie.co.jp/cgi-bin/artist.cgi?id=a053330]]
+
+**曲
+#list_by_tag(MAX VEGETABLE,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(MAX VEGETABLECD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm3060136){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm3829107){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4461225){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm6105169){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm8500817){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm11381948){340,185}|
+
+
+**コメント
+- 野菜Pはもっともっと評価されるべき！  -- 名無しさん  (2010-01-13 23:22:22)
+#comment()

@@ -1,0 +1,79 @@
+#right(){&furigana(そらからのせんりつ)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm2874340)|&nicovideo(sm4413849)|
+作詞：[[スタッフロールP]]
+訳詞（英語版のみ）：Googleの自動翻訳
+作曲：[[スタッフロールP]]
+編曲：[[スタッフロールP]]
+唄：[[KAITO]]（コーラス：[[初音ミク]]・[[鏡音リン>鏡音リン・レン]]・[[鏡音レン>鏡音リン・レン]]）
+唄（別Ver.）：[[PRIMA]]・[[MIRIAM]]
+
+**曲紹介
+曲名：『&u(){空からの旋律}』(&u(){そらからのせんりつ})
+-春らしい希望の曲と思って作ったら、RPGのEDみたいにやたらと壮大に仕上がったのがこの曲。
+-その壮大さゆえに、スタッフロールPと名づけられるきっかけとなった。
+-間奏の語りは「心を開いている時だけ、世の中は美しい」という格言をドイツ語とロシア語でごちゃまぜにしたもの。
+-なお、この語りは日本語版、英語版ともKAITOが語っている。
+
+**歌詞（日本語版）
+（[[ニコニコ動画>>http://www.nicovideo.jp/watch/sm2874340]]より書き起こし）
+
+風と話す　草木を見て
+水と太陽の　恵みに気付く
+
+生まれ還りし者に
+生命を与え続ける　空から
+
+降ってくる全てのものが　僕等の中にあり
+空を見上げるだけで　勇気が沸く訳を理解した
+
+小さな花の歌声が　優しい風に乗り
+遥かないとしい国へも　届くと信じているから
+
+その歌声は　民の心にも花咲かせ
+明日の希望を照らし　力与えると信じている
+
+あぁ　届くかな
+ここにある　やわらかな歌が
+
+
+
+**歌詞（英語版）
+（[[ニコニコ動画>>http://www.nicovideo.jp/watch/sm4413849]]より書き起こし）
+
+Speaking to see wind and water
+plants and pick up the blessings of the sun
+All living things continue to give life to sky,
+from the blue sky
+
+All falling objects of which come rain come to us,
+Just look up the courage
+to understand the real reason
+
+Singing voice is beautiful
+little flowers on the gentle breeze
+Far extremely dear country so far
+to reach and will probably strongly believe
+
+The flower is hte voice of the people
+live in the hearts of beautiful flowers
+In light of hope for a brighrer tomorrow,
+always give a boost to the heart
+and strogly believe
+
+Write a warm plece to sing,
+but I also feel great to arrive
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+**コメント
+#comment()
+
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)

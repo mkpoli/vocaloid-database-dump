@@ -1,0 +1,29 @@
+#right(){&furigana(clear) &furigana()【登録タグ:&tags() 】}
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Transparent>Transparent/CD]]|CENTER:&bold(){MIND ERROR}|CENTER:[[COOL ZERO ONE]]|
+
+|&bold(){[[SHUN]]}|
+
+発売：2008年7月06日
+価格：￥630（税込）
+流通：同人・即売
+サークル：STYLE.S
+
+**CD紹介
+-ボーマス4で初頒布されたSHUN氏のVOCALOIDアルバム第2弾。
+-サイコ系のハードロックCD、疾走感がある。
+-ジャケットイラスト(おにねこ)
+
+**曲目
++[[minderror>Mind-Error]]
++雲のように
++minderror-vocaloff
++雲のように-vocaloff
++close
+
+**リンク
+-[[作者ホームページ>http://www.s-style.tv/wp/works]]
+-とらのあな
+
+**コメント
+#comment

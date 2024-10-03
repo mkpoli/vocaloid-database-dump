@@ -1,0 +1,52 @@
+#right(){&furigana(clear) &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/7377825" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/7377825">【ニコニコ動画】ボカロ関連</a></iframe>)
+
+**特徴
+-「読めないP」っていう読み方、だそうです。
+-リンレン、ルカを所有。最近がくっぽいども購入したようだ。
+-歌詞のセンスには定評がある。
+-ガチ曲もいいよ！
+-ポップスから演歌、HIP HOPまでジャンルは幅広い。
+-アーティスト名は&bold(){島下博文}。
+-個性的なイラストも自作。
+-ボカロを喋らせる技術にも定評があり、&bold(){鏡音レンのちょい辛淡々レン}というシリーズもののトークロイドネタを投稿している。
+-最近はルカとレンのデュエット曲が多い。
+
+**リンク
+-[[（бεб）<ぼかろぃ>>http://www.voiceblog.jp/a2ki/]]（Blog）
+-[[PIAPRO>>http://piapro.jp/battlema2a]]（島下博文（бεб）P）
+
+**曲
+#list_by_tag(（бεб）P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(（бεб）PCD,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**オリジナル曲
+|&nicovideo(http://www.nicovideo.jp/watch/nm3733518)|&nicovideo(http://www.nicovideo.jp/watch/sm3940090)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4210488)|&nicovideo(http://www.nicovideo.jp/watch/sm5226171)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5678021)|&nicovideo(http://www.nicovideo.jp/watch/sm6120884)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6385309)|&nicovideo(http://www.nicovideo.jp/watch/sm6505549)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7055015)|&nicovideo(http://www.nicovideo.jp/watch/sm7183203)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7415083)|&nicovideo(http://www.nicovideo.jp/watch/sm7626771)|
+
+**鏡音レンのちょい辛淡々レン
+|&nicovideo(http://www.nicovideo.jp/watch/sm4388206)|&nicovideo(http://www.nicovideo.jp/watch/sm4481422)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4619147)|&nicovideo(http://www.nicovideo.jp/watch/sm5103682)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5491110)|&nicovideo(http://www.nicovideo.jp/watch/sm6408608)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6869784)||
+
+**コメント
+- 「何となく言ってみたい言葉」を聞いて興奮し、勢いだけでこのページと「はにほら…」を書きました。正直限界です。どなたか、後をよろしくお願いします。この方はもっと評価されるべき。。  -- 名無しさん  (2009-04-18 11:11:53)
+- アーティスト名で思い出した…この人、すごモン描いてた人では！？  -- ひそかにファン  (2009-05-24 03:25:16)
+- レンの喋りが凄く上手いんですよね〜  -- 紗音  (2009-06-08 17:35:15)
+- このひとのセンスはあり得ない良さ。ガチもいいけど、おバカ系に関してはちょっと見ない才能を持ってると思う。  -- 名無しさん  (2009-09-12 11:29:07)
+- 新曲がよかったｗｗｗこれはおバカ系だろうかｗ  -- 香絵瑠  (2009-12-12 07:26:51)
+- 新曲俺もハマったｗｗ読めないPマジ大好き！ &br()ガチ曲が素晴らしいのなんの  -- 名無しさん  (2009-12-29 18:34:49)
+- ヨメナイP好きですｗｗ喋りレンかわえぇぇｗｗｗｗ  -- ΩmΩ  (2010-03-04 12:02:30)
+- この人のバナグロが一番好きだ  -- 名無しさん  (2010-07-21 15:49:30)
+- この方のルカレン好きです！すごい声が合う  -- 小百合  (2010-11-02 18:40:57)
+- この方はすごくいい意味で病気ですよねｗｗ大好きです！  -- 名無しさん  (2010-12-24 21:36:01)
+- いつの間にか殿堂入り持ちＰになってたのか！おめでとう！  -- 名無しさん  (2010-12-29 17:42:21)
+- 新曲ががくカイだった！！！  -- 名無しさん  (2012-09-29 13:48:22)
+#comment()

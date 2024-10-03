@@ -1,0 +1,38 @@
+#right(){&furigana(けとらP) &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/9403341" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/9403341">【ニコニコ動画】自転車集</a></iframe>)
+
+**特徴
+-P名が付く前の投稿者名は「かえる自転車」
+-2008年11月より、重音テトを中心とした楽曲を発表している。
+-2009年2月からは、鏡音リン、レンを使用しての楽曲も見られるようになった。
+-疾走感あるキャッチーなロックサウンドが持ち味。
+-枕詞などを用いた、語感の良い独特な歌詞にも定評がある。
+-初代OrbitalのPVでは堪能なギターを披露し好評を得る。
+-その後、唐突に続いた怪しい踊りに対しても根強いファンは多い。
+-2009年3月1日、休止を宣言、同月18日復活を果たす。
+-困った事に動画削除が非常に多い。一期一会の勢いである。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/hgk40s]]
+-[[KR400 weblog>>http://blog.livedoor.jp/hgk40s/]]（本人ブログ）
+-[[UTAU楽曲データベース - ケトラP>>http://www24.atwiki.jp/utauuuta/pages/18.html]]（重音テトなど）
+
+**曲
+#list_by_tag(ケトラP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**動画
+&bold(){UTAU曲は[[UTAU楽曲データベース>>http://www24.atwiki.jp/utauuuta/pages/18.html]]へ移動しました}
+|&nicovideo(http://www.nicovideo.jp/watch/nm6286182)|&nicovideo(http://www.nicovideo.jp/watch/nm8772356)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm14368001)|&nicovideo(http://www.nicovideo.jp/watch/nm14457411)|
+
+**コメント
+- 項目作成GJです！！ 春は近いのに冬眠されちゃいましたね・・・  -- 名無しさん  (2009-03-04 12:49:14)
+- 超気圧は「動画非表示推奨」のタグを冠せられた数少ない動画の一つ。閲覧時はマジで注意。  -- 名無しさん  (2009-05-24 20:30:34)
+- Nagatani　Ringと蔦花の歌が削除された模様  -- 名無しさん  (2009-06-15 23:48:56)
+- ３ヶ月振りの新曲が！！  -- 名無しさん  (2009-07-08 12:59:00)
+- anesthesiaも削除されてしまったようです…  -- 名無しさん  (2009-09-08 23:38:06)
+- 久々のテト新曲来ましたねー  -- 名無しさん  (2009-09-26 18:52:35)
+- 久々にリンソロ曲が  -- 名無しさん  (2009-11-10 00:03:16)
+- UTAU音源の歌詞はUTAU楽曲ﾃﾞｰﾀﾍﾞｰｽに移動しています。  -- 名無しさん  (2010-01-25 10:29:15)
+- 世界の終わりシリーズが好き！  -- 名無しさん  (2011-05-17 23:35:32)
+#comment()

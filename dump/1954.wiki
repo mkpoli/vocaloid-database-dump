@@ -1,0 +1,77 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/8150831" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/8150831">【ニコニコ動画】自分が制作に関わった動画</a></iframe>)
+
+**特徴
+-fatPは、活動休止中の[[Harmonia>Harmonia/作り手]]のメンバーで、作曲及び編曲を担当。デジタルポップ、トランスを得意とする。
+-正しい表記は「&b(){FAT}」だが、タグの同名異語が多いため「fatP」と表記されている。
+-fatPは現在、ソロプロジェクト「&b(){D.S.L}」を展開中。同じ[[Harmonia>Harmonia/作り手]]メンバーの[[SHIKI]]氏や、その他の人物と楽曲発表を行うこともあるが、&br()[[Harmonia>Harmonia/作り手]]名義ではないので、注意を要する。
+-スルメソングに定評のあるうp主。何度も聴いてみて、初めて、その良さが伝わってくる曲が多い。
+-2010年元日から無職になった記念にHNを FAT から &b(){amyu} に変更した。
+-2010年9月27日、ボカロPとしてのデビュー作「[[saturation]]」が殿堂入りを果たした。
+
+**リンク
+-[[作者サイト>>http://dslaboratory.com/]]
+-[[作者ブログ（D.S.L-Digital Sound Laboratory-）>>http://dslab.blog19.fc2.com/]]
+-[[PIAPRO>>http://piapro.jp/dslab]]
+-[[YouTube>>http://www.youtube.com/user/DSLaboratory]]
+
+**曲
+#list_by_tag(fatP,100,sort=furigana)
+
+**CD
+#list_by_tag(fatPCD,100,sort=furigana)
+
+**動画
+#region(close,2007年の動画)
+-2007年の動画
+|&nicovideo(sm1237688)|&nicovideo(sm1797448)|
+#endregion
+#region(close,2008年の動画)
+-2008年の動画
+|&nicovideo(sm3102685)|&nicovideo(sm4293785)|
+|&nicovideo(sm4886860)|&nicovideo(sm5522463)|
+#endregion
+#region(close,2009年の動画)
+-2009年の動画
+|&nicovideo(sm6048521)|&nicovideo(sm7430555)|
+|&nicovideo(sm7780990)|&nicovideo(sm8015284)|
+|&nicovideo(sm8658576)|&nicovideo(sm9127966)|
+#endregion
+#region(close,2010年の動画)
+-2010年の動画
+|&nicovideo(sm9642230)|&nicovideo(sm9663159)|
+|&nicovideo(sm9734036)|&nicovideo(sm9854305)|
+|&nicovideo(sm10333339)|&nicovideo(http://www.nicovideo.jp/watch/nm12939508)|
+#endregion
+#region(close,2011年の動画)
+-2011年の動画
+|&nicovideo(sm13632065)|&nicovideo(sm14513223)|
+|&nicovideo(sm14792712)|&nicovideo(sm15317162)|
+|&nicovideo(sm15467819)|&nicovideo(sm15663375)|
+|&nicovideo(sm15977213)|&nicovideo(sm16103602)|
+#endregion
+#region(close,2012年の動画)
+-2012年の動画
+|&nicovideo(sm18015434)|&nicovideo(sm18277808)|
+|&nicovideo(sm18384347)|&nicovideo(sm18758878)|
+|&nicovideo(sm19608918)||
+#endregion
+#region(open,2013年の動画)
+-2013年の動画
+|&nicovideo(sm20592295)|&nicovideo(sm20826041)|
+#endregion
+
+#region(close,関連動画)
+-関連動画
+|&nicovideo(sm4183964)|&nicovideo(sm6240178)|
+|&nicovideo(sm6378122)|&nicovideo(sm10982186)|
+#endregion
+
+**コメント
+- 誰かrevealをうｐしてください・・・  -- 名無しさん  (2011-03-20 19:10:28)
+- 「seeing off」の曲の記事がないみたいなので追加お願いします。  -- 名無しさん  (2011-12-06 03:39:17)
+- 「[[reveal]]」「[[seeing off>seeing off/fatP]]」作成しました。  -- 名無しさん  (2011-12-07 04:36:09)
+- ラブラドライトの深淵をの記事も追加願います。よろしくお願いします。  -- 名無しさん  (2013-05-11 12:05:52)
+- saturation格好いい！  -- 名無しさん  (2014-11-15 21:10:59)
+- 「Symmetric target」「NADIA」とか、カッコイイ曲がいっぱいです！  -- 名無しさん  (2017-06-03 01:31:29)
+#comment()

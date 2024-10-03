@@ -1,0 +1,34 @@
+#right(){&furigana(なきP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/5461873" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/5461873">【ニコニコ動画】つくったもの 『手描きアニメ』</a></iframe>)
+
+**特徴
+作り手名：『&u(){nagi-P}』
+-&b(){凪庵（なぎあん）} のペンネームで活動している、れっきとしたプロの漫画家。
+-以前より手書きアニメ「はる☆すた」やMADなどで有名であったが、ボカロ界では『「[[サラリーマンのうた]]」をアニメED風にしてみた』で一躍有名に。
+--後に元歌と共に殿堂入りを果たした。
+-ボカロ処女作となる[[おなかすいたのうた]]は20日ほどで殿堂入りを果たすほどの人気に。
+--「ビンボロイド」タグはこの曲から生まれた。
+
+**リンク
+-[[路地裏萬亭（作者HP）>>https://yoroz.jp/]]
+-[[pixiv>>https://www.pixiv.net/users/79280]]
+
+**曲
+#list_by_tag(nagi-P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(nagi-PCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm2256061)|&nicovideo(sm4564561)|
+|&nicovideo(sm5059839)|&nicovideo(sm7007198)|
+
+**コメント
+- まずは作ってみました。補足お願いします。  -- 名無しさん  (2008-11-05 12:19:34)
+- 乙です。この人の作品は歌も絵も和むなぁ  -- 名無しさん  (2008-11-08 01:39:10)
+- 可愛すぎるし和む！  -- 名無しさん  (2009-09-22 18:05:17)
+#comment()

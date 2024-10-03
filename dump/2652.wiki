@@ -1,0 +1,526 @@
+#right(){&furigana(ぼーかろいどあんだーぐらうんどかたろぐ)&furigana()【登録タグ:&tags()】}
+
+#contents()
+
+----
+
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/5773596" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/5773596">VOCALOID・アンダーグラウンド・カタログ</a></iframe>){340,185}
+
+*特徴
+-再生数1万以下の作者限定で、他の人は絶対にこんな事やらねぇ！ストイックで奇個性！と感じた方々を独断で特集動画にしたカタログ
+-PART10（編集：金子氏）は、「再生数1万以下の作者限定」「既にアングラカタログに載った作者は対象外」という条件に反する作者が多数紹介された事が問題となり、アップロード者が削除した後に、アドメニ母ゆーこナリキリん氏が改訂版をアップした。
+-初代編者が PART2 以降を「誰か作ってください」という形ではじめたため、シリーズ続編がどのタイミングで投稿されるかは不定。
+-また、カタログ内での紹介楽曲に、再生数 1 万以下の作者限定、既にカタログに載った作者は対象外、という以外の明確な条件がなく、各編者の裁量によって紹介が行われるため、毎回編者によるカラーが色濃く現れるのが特徴である。
+
+*掲載P・編集者一覧
+-【！】付きは「再生数1万以下」の条件に該当しないP（作成後に達成した場合はこれに含まない）
+-PART28,29 は実験的に再生数1万以上のPも紹介している
+
+**PART1　編集：アドメニ母ゆーこナリキリん
+-[[なっとくP]]
+-[[ハイネケンP]]
+-[[プーチンP]]
+-[[大福P]]
+-[[ヒッキーP]]
+-[[ヒーリングP]]
+-[[こんぺいとうP]]
+-[[sansuiP]]
+-[[宇宙電波受信P（裸時）>宇宙電波受信P]]
+-[[裏コマンダーP]]
+-[[なんかP（白井黒）>なんかP]]
+-[[よよP]]
+-[[なんとかP（kiichi）>kiichi（なんとかP）]]
+
+**PART2　編集：[[sansuiP]]
+-[[ソイソイP]]
+-[[orokamono]]
+-iwadon
+-[[電波P]]
+-[[グロP]]
+-[[ypl]]
+-みやじー
+-[[山本ニュー]]
+-[[じゃむぱんP>じゃむぱん]]
+-邪界ニドヘグ
+-[[いりじゃこP]]
+-[[ぷれいらP]]
+-[[ちゃぁ]]
+
+**PART3　編集：[[sansuiP]]
+-ボイラーP
+-[[ジャムおじさんP>今日犬（ジャムおじさんP）]]
+-M@M
+-[[tatmos]]
+-[[長靴P]]
+-[[ふみP]]
+-[[らんらんP]]
+-kam
+-ラロドラP
+-[[wintermute]]
+-[[機材欲しいP]]
+-lazyrage
+-[[vanzz]]
+-東京メロディ
+
+**PART4　編集：アドメニ母ゆーこナリキリん
+-（名無し）
+-場末P
+-ISOP【-＿-】
+-unluck
+-[[機能美P]]
+-[[kalP>kal]]
+-くれは。
+-怒ワン娘
+-ky
+-[[ｸﾞﾙｸﾞﾙP]]
+-トルバP
+-[[はるひP]]
+-[[手タレP]]
+-QUALCOMM
+-[[出勤拒否P]]
+-ﾏｿﾞﾋｽﾃｨｯｸ ﾐｸ ﾊﾞﾝﾄﾞ
+
+**PART5　編集：[[sansuiP]]
+-[[マッペ]]
+-[[苅田狼藉]]
+-ゆぬきうた
+-sampling_イヅナ
+-ミチヲP
+-今週のびっくりドッキリP
+-satobo
+-もちP
+-Suisei
+-Zekky
+-[[牢獄P]]
+-[[スP]]
+-[[コーチP]]
+
+**PART6　編集：[[山本ニュー]]
+-根黒ノミ子
+-nankado
+-aki
+-エスノP
+-motuonootouto
+-[[ガテラルPee>ガテラルP]]
+-[[はふーP]]
+-純粋落下P
+-kachu
+-rashearthP
+-[[nak-amiP>Nak-AmiP]]
+-ピコピコP
+-sixty-six-eleven
+
+**PART7　編集：[[sansuiP]]
+-[[ネガティブP]]
+-マスターvation
+-karadaP
+-HironoLin
+-神童の兄P
+-【[[SaMa]]】
+-こだまちゃん
+-[[燃素P]]
+-[[なにかしらP]]
+-[[アンテナP]]
+-[[リーマンP]]
+-[[ジンジャーP]]
+-クズ野郎P
+
+**PART8　編集：アドメニ母ゆーこナリキリん
+-[[8秒P]]
+-mijinko3
+-載しますP
+-ごはんP
+-蛹ソーダP
+-[[ハナブサキック>ハナブサキックP]]
+-ねこ（仮）P
+-[[師匠P]]
+-[[u160>u160(ういろー丸P)]]
+-ジョイメカP
+-[[暗幕P]]
+-[[鉄風P]]
+-[[若干P]]
+
+**PART9　編集：アドメニ母ゆーこナリキリん
+-aruaruwwww（たけじ）
+-右マッチP
+-otmaaal
+-l.i.a.m.
+-centrevillage（箱根P）
+-[[（*・ω・）わおーんP]]
+-[[ひつじP]]
+-Aibon（完コピP）
+-ＢＵＮＧＡＬＡＮＧＩＴ（[[ブンガP]]）
+-宇宙風呂P
+-タキタ
+-[[スクリーム（鬱P）>鬱P]]
+-[[大納僧シニア（だいなそー）>大納僧]]
+
+**PART10　編集：金子（動画削除）
+-[[黄昏P（umako）>黄昏P]]
+-[[u160>u160（ういろー丸P）]]（再掲）
+-【！】hcliz
+-たすどろ
+-カブー
+-nof
+-【！】[[刹那P]]
+-【！】peace_acoustic（ylistP）
+
+**PART10（改訂版）　編集：アドメニ母ゆーこナリキリん
+-onco
+-[[生㌔P]]（かえる）
+-クラクションP（星忍）
+-100sP (nukegaradotnet)
+-kafu
+-球（スフィア）
+-ひつじ改（[[ひつじP]]）
+-[[黄昏P]] (umako)（＊）
+-Zon (Digital itako)
+-たすどろ（＊）
+-nof（＊）
+-[[カオスP]]（幻術植木林）
+-[[kous]]
+-とち-music box
+-[[あかやかP]]（あかやか）
+-[[囚人P]]
+-カブー（＊）
+（＊）付きは金子氏編集の動画掲載P
+
+**PART11　編集：Jmuang
+-[[楽しいのかP]]
+-cannabanoid 
+-廃人 
+-[[えっちP（hr）>えっちP]]
+-[[Treow（逆衝動P）]]
+-[[アニメーターP (macaronisting)>アニメーターP]]
+-njn 
+-[[FuzzP]]（サイケ）
+-[[中二P]]（[[じたばたP]]）
+-[[ガチャP]] （med_ley） 
+-fox_river 
+-Sime-Saba_Twisters （MRI）
+-[[PYS/ぱやP>ぱやP]]
+-[[FMAK (phili@music)>曼荼羅P]]
+
+**PART12　編集:アングラカタログ補完委員会
+-seis
+-あるせ 
+-いまいゆP 
+-nigo 
+-懐古P (wiwaxia) 
+-とあるエロ本のインデックス 
+-ILL 
+-[[吟P（ギン）>ギン]] 
+-non 
+-プリプリP (selax) 
+-[[MineK]]
+-kaeru 
+-[[田中和夫]]
+
+**PART13　編集:アングラカタログ補完委員会
+-神戸のシュナイダー 
+-mirumiru 
+-うなP 
+-[[ケトラP]]
+-[[ゆよゆっぺ]] 
+-uunnie 
+-[[ピンクロボP]]
+-tac_ 
+-闇烏P（闇詠乃功良） 
+-ちびP 
+-nyannyanP（satton） 
+-Lue 
+-えんP（en）
+ 
+**PART14　編集:へべべ
+-ネバーエンディングP（yamamai） 
+-[[邪気眼P]]（きみどり）
+-アクアP（gungun）
+- ・～・ 
+-deathpiyo 
+-ゆっくりP（どらら） 
+-pemopemo 
+-neg 
+-ピーターパンP（ys） 
+-[[miksolodyne-ts]]
+-母乳P（BONU） 
+-[[river>river/作り手]] 
+-[[水彩P]]（loco） 
+-[[もじょP]]（mojorising） 
+
+**PART15　編集:Jmuang
+-M氏
+-[[ノエル>ノエル/作り手]]
+-地球
+-てるるての人(300)
+-ガイアの響きを音楽で現すP
+-ムギー
+-uvox
+-niconico-chan
+-LOOP
+-ノロケP
+-フリスP 
+-tatata 
+-key-yan69 
+-Dengaku
+-玉手箱P(ryanghe)
+-【！】緑の髪の娘さん
+
+**PART16　編集:tac_
+-TebasaP
+-私と友人たち
+-村雨の大吉P
+-[[ARuFa]]
+-Gene-P
+-たいようのおならP
+-[[単色P]]
+-neoneoneo
+-飛沫P
+-[[ych>P.I.N.A.]]
+-手書きノートP
+-Log
+-mondaiji
+
+**PART17（sideA）　編集：kotac
+-どったまP
+-多摩川タマコ
+-mogi.result
+-[[電PアルPカ]]
+-peakedyellow
+-しらんP 
+-こそあどP
+-五線譜P
+-雛國ミキ
+-kiyoyan
+-nick氏
+-sh_m
+
+**PART17（sideB）　編集：kotac
+-weeP
+-マイナスイオン
+-broiler
+-うんちょP 
+-H.A.E.B
+-hyton
+-崎崎崎
+-hosaka1988
+-ギザギザネコ
+-両義P
+-ぱたや氏 
+-[[ベーコンP]]
+-カシオトーンちよこP
+-SCP
+
+**PART18　編集:tac_
+-the_neko
+-たまごやきP
+-[[五字熟語P]]
+-娘細胞P
+-音痴P
+-YSK
+-salome
+-くぇ
+-ManHoleManP
+-あぼんギャルP
+-まちざわ
+-102号室
+-[[うみぬこP]]
+
+**PART19　編集:tac_
+-プンスカP
+-geppei-taro
+-どどんご
+-シイサ
+-AIR田
+-[[ノイズP]]
+-鰻オフォP
+-err
+-TDC
+-回転P
+-ookami
+-縹渺P
+-円盤P
+
+**PART20　編集:tac_
+-[[かめりあ]]
+-[[キャプテン・ビーフハートP>牛心隊長]]
+-voltex
+-ロム虫
+-菊水P
+-[[Wonderlandica]]
+-天田晃司
+-finks07
+-[[大丈夫P]]
+-アヤユガP
+-ゆうちゃんP
+-牛乳中毒P
+-[[ブルボンヌ雪村]]
+
+**PART21　編集:大丈夫P
+-小室コアP
+-ゆめぐP
+-タタタ夕P
+-鈍角きのこ
+-ドP
+-斉藤P
+-[[HAMO]]
+-マインP
+-キチガイP
+-[[Mr.Pom]]
+-ててて
+-イレイザー
+-黒糖書店
+-daluy shhig
+-眼球P
+
+**PART22　編集:tac_
+-イポップサン
+-さう
+-[[NIYMORIY]]
+-Nukogenome
+-りゅーしか
+-[[享年16]]
+-DragoUno
+-ハモンドでご飯P
+-ヒラタユウト
+-細かいことを気にしないP
+-Jeter butter
+-ちゃぼっと
+
+**PART23　編集:ただ何となく我々は放置されている
+-きりがぷにえ（ぷにえ工房）
+-いつものP
+-[[モノトーンP]]
+-ニンジン大根
+-Mag!
+-325
+-惑星P（ですぅ。）
+-[[うんこは苦くてうまい]]
+-とち-music box
+-ラジカセP（子供の死体）
+-[[danierukunP]]
+-konsyoku
+-ずきお(3)
+-好きだよP
+-ふぃぎゅ＠たっち
+
+**PART24　編集:ただ何となく我々は放置されている
+-[[ガスマス子]]
+-アナルヴァージンP
+-ななはち
+-暗黒P
+-ソニック・ドラゴルゴ
+-回想P
+-東京セル
+-samplingsampling
+-OD-J
+-蛸壺P
+-Mickey
+-薄暗くてよく見えない
+-ATTO
+-立秋
+-Fraidy-fraidy
+-空洞P
+-猫作詞P
+-テルコ
+-PP左衛門
+-ポッジー＿
+-dddaaaiii
+-スケープゴートP
+-kusegumi
+
+**PART25　編集:Golpie
+-MaSaKa
+-まさ
+-シュバルツ
+-DoTくん
+-佐々木Kすけ
+-にほへ
+-岩本　竹広
+-坂本アキロー
+-PーナッツP
+-ねこぜなおとこ
+-人間どっく
+-わたしのココ
+-ぽき(セムセムP)
+-庭野井戸
+
+**PART26　編集:tac_
+-アイリアシアル(しあわせP)
+-pholusfold
+-反現代死
+-pei
+-paul_starr
+-go乱心
+-不始末
+-ケメ子
+-Any01
+-音楽聴かないマン
+-森田優大
+-μ’
+-Reo
+
+**PART27　編集:ただ何となく我々は放置されている
+-Daphnis
+-まこ猫
+-外道
+-梔 八重
+-eaiis
+-キリンジェラート
+-六段 琴羽(みきたんP)
+-山ま善し
+-俺＋(底辺P)
+-1i
+-hymn
+-苫都真徒(液体のりP)
+-Nogirroute(ナノルーP)
+
+**PART28　編集：misty
+-lustybaby
+-sect（pholusfold）（再掲）
+-歩行者P
+-【！】llliiillliiilll
+-noname（電子棒人間P）
+-茶渋屋
+-田中じゅんじろー
+-【！】なす
+-[[ムシP]]（Layla）
+-8bit（オクトパスタコビッチ）P
+-ハトネコエ
+-【！】それっぽいP
+-ケツ乃風P（[[Torero]]）
+-ボサツ
+-【！】Task
+-8 to 7（八嶋）
+-KKK_KKK
+
+**PART29　編集：samson
+-nnnb
+-nimura303
+-ぷろこふ
+-exodepatica（raj hikomar）
+-眞白まみ
+-包み紙
+-めんたいランド
+-うらじゃP（月人）
+-qqqq
+-ぐらんびあ
+-六の位
+-【！】hasuya michiharu
+
+**PART30　編集：misty
+-araihisao
+-YARUSE NAKIO
+-ゆるポート
+-ピートさん
+-オチャノミズ研究所
+-ホラー東雲（オリオン・クロウ）
+-さえか
+-はとみね（棒きれーつきりP）
+-爆弾ポピー
+-ラリラ
+-UN ELITE NEET （アンエリ）
+-neilguse-il
+-Wisonic
+
+*コメント
+#comment()

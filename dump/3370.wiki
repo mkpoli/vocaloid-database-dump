@@ -1,0 +1,12 @@
+#right(){【登録タグ:&tags()】}
+//↑タグ忘れ防止のための表示
+曖昧さ回避のためのページ
+----
+-[[Fixxxer]]の曲
+--[[Love Song/Fixxxer]]
+-[[大納僧]]の曲
+--[[LOVE SONG/大納僧]]
+-[[Rockaa]]の曲
+--[[Love Song/Rockaa]]
+
+#include(曖昧さ回避の追加の仕方/告知)

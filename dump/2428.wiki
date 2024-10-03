@@ -1,0 +1,37 @@
+#right(){&furigana(しゅうまつろん)&furigana()【登録タグ:&tags()】}
+|&nicovideo(http://www.nicovideo.jp/watch/nm6811937){340,185}|&nicovideo(http://www.nicovideo.jp/watch/nm3393196){340,185}|
+作詞：[[ke-ji]]
+作曲：[[ke-ji]]
+編曲：[[ke-ji]]
+唄：鏡音レン
+
+**曲紹介
+-12人の鏡音レンによるプログレッシブ合唱曲。
+-ke-ji氏がmuzieで公開しているインスト曲「カタストロフ」という曲の続編にあたる曲となっている。
+-そして物語は「[[メサイア]]」へと続いていく。
+
+**歌詞
+☆Oh, By the wrath of God, the world has gone to ruin.
+　we kill people for pure water
+　we hope for is...
+
+　　ああ、神の逆鱗に触れ、世界は荒廃してしまった。
+　　綺麗な水の為に人々が殺し合う
+　　我々が望むものは、そう…
+
+☆繰り返し×2
+
+★On the right hand a blood sword!
+　Our pride to the left hand!
+　This is the last war...
+　First resistance to God the last resistance.
+
+　　右手に血塗られた剣を！
+　　左手に我らの誇りを！
+　　これは最後の戦争…
+　　最初にして最後の神への反逆。
+
+★繰り返し
+
+**コメント
+#comment()

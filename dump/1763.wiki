@@ -1,0 +1,43 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+#image(http://www.north-t.com/work/tsv/media_description/in_bunner_01.gif,http://www.north-t.com/work/#interlude,title=Interlude,blank)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[タイムリミット>タイムリミット/CD]]|CENTER:&bold(){Interlude}|CENTER:-|
+
+|&bold(){[[畳P（North-T）]]}|
+
+||CENTER:即売|CENTER:同人|CENTER:配信|
+|発売|CENTER:2008年8月16日|CENTER:2008年8月22日|CENTER:2008年12月16日|
+|価格|CENTER:￥1,000|CENTER:￥1,470（税込）|CENTER:全曲￥900/１曲￥150（税込）|
+|サークル|>|>|CENTER:North-T|
+|レーベル|>|CENTER:-|CENTER:KarenT|
+
+**CD紹介
+-C74にて頒布される畳Pの&bold(){2ndアルバム}。コミケでの頒布後[[とらのあな>>http://www.toranoana.jp/mailorder/cit/pagekit/0000/01/62/0000016253/index.html]]での通信販売も行われています。
+-コンセプトは「家具のように、シンプルかつそこに在る物として違和感のないもの」。（作者ホームページより） 
+-『[[心の小箱]]』『[[タイムリミット]]』のようなシンプルながらもクールな楽曲、「恋の☆」シリーズのような遊び心いっぱいの楽曲、&br()『[[赤いブランコ]]』のような優しさに溢れた楽曲等、畳Pの様々な魅力が詰まった1枚。
+-クリプトン・フューチャー・メディア社「KarenT」レーベル配信作第1弾として、iTunes Storeより好評配信中。
+
+**曲目
++Interlude Vol.01 
++[[心の小箱]] 
++[[mist night]]
++[[恋の三角関数☆]] 
++恋の天気予報☆ &color(red){NEW!}
++[[赤いブランコ]]
++Interlude Vol.02 &color(red){NEW!}
++[[恋の化学反応☆]]
++[[春隠 -はるがくし-]]
++デジタルスケッチ &color(red){NEW!}
++[[タイムリミット]] 
++Interlude Vol.03 &color(red){NEW!}
+
+**リンク
+-[[North-T>>http://www.north-t.com/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/cit/pagekit/0000/01/62/0000016253/index.html]]
+-[[KarenT>>http://karent.jp/album/2]]
+-[[iTunes Store>>http://itunes.apple.com/jp/album/interlude/id298799704]]
+
+
+**コメント
+#comment

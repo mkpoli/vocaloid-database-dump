@@ -1,0 +1,82 @@
+#right(){&furigana(すぺーすしょーとかっときー) &furigana()【登録タグ:&tags()】}
+&nicovideo(http://www.nicovideo.jp/watch/nm4077357)
+作詞：[[謝謝P]]
+作曲：[[謝謝P]]
+編曲：[[謝謝P]]
+唄：初音ミク
+
+**曲紹介
+-PCに向かうも歌詞が思い浮かばず、とりあえず「コントロール+S」した時にできた曲
+-[F10]・・・はんかくえいすう　は、きょくのつごうじょうはいりませんでした。
+
+**歌詞
+[Ctrl]+C・・・コピー　[Ctrl]+Z・・・Undo
+[Ctrl]+O・・・ひらく　[Ctrl]+N・・・しんきさくせい
+[Ctrl]+S・・・ほぞん　[Ctrl]+W・・・とじる
+
+Control myself　Control myself
+
+[Ctrl]+P・・・いんさつ　[Ctrl]+H・・・ちかん
+[Ctrl]+F・・・けんさく　[Ctrl]+G・・・ジャンプ
+[Ctrl]+X・・・きりとり　[Ctrl]+V・・・はりつけ
+[Shift]+クリック・・・はんいせんたく
+[Ctrl]+クリック・・・ふくすうせんたく
+
+[Win]+E・・・エクスプローラきどう
+[Win]+D・・・デスクトップひょうじ/ひひょうじ
+[Win]+W・・・とじる
+[Win]+L・・・PCロック
+[Win]+M・・・ウインドウすべてをさいしょうか
+
+[F6]・・・ひらがな　[F7]・・・ぜんかくカタカナ
+[F8]・・・はんかくカタカナ　[F9]・・・ぜんかくえいすう
+
+Control myself　Control myself
+
+（Next lesson is studying shortcut key of Excel application）
+
+[Ctrl]+1・・・セルのさくせい　[Ctrl]+Space・・・れつのせんたく
+[Shift]+Space・・・ぎょうせんたく　[Ctrl]+A・・・ぜんセルせんたく
+[Ctrl]+B・・・ふとじ　[Ctrl]+I・・・しゃせん
+[Ctrl]+U・・・かせん　[Ctrl]+F3・・・なまえていぎ
+
+[Ctrl]+D・・・うえのセルをコピー　[Ctrl]+R・・・ひだりのセルをコピー
+[Ctrl]+PageDown・・・つぎのシート　[Ctrl]+PageUp・・・まえのシート
+[End]→カーソルみぎ・・・いちばんみぎはしのセルへジャンプ
+
+[Ctrl]+プラス[+]・・・そうにゅう　[Ctrl]+マイナス[-]・・・さくじょ
+[Ctrl]+コロン[：]・・・ひづけさくせい　[Ctrl]+セミコロン[；]・・・じかんそうにゅう
+
+Control myself
+
+かくしファイルひょうじしちゃう　かくしごとはなしヨ
+わすれないでデフラグ　ココロはキレイに
+あそれ！　[Ctrl]....
+
+[Ctrl]+O・・・ひらく　[Ctrl]+N・・・しんきさくせい
+[Ctrl]+S・・・ほぞん　[Ctrl]+W・・・とじる
+
+hai　hai　hai
+hai　hai　hai
+
+hai　hai　hai
+hai　hai　hai
+
+fu　fu　fu
+fu　fu　fu
+
+wow　wow　wow
+
+Control myself　Control myself
+
+[Ctrl]+O・・・ひらく　[Ctrl]+N・・・しんきさくせい
+[Ctrl]+S・・・ほぞん　[Ctrl]+W・・・とじる
+
+あそれ！
+
+**コメント
+- 途中の英語の部分はヘタレ聴き取りで起こしました。無かったほうがよかったかな。。。  -- 名無しさん  (2008-11-24 01:42:58)
+- 歌詞一部修正しました  -- 名無しさん  (2009-07-19 01:38:12)
+- 歌詞一文字修正  -- 名無しさん  (2010-02-24 18:32:07)
+- 僕の以前使っていたパソコンがＷｉｎｄｏｗｓＸＰだったので、この曲を知っていれば、もっと使いこなせたのにと、後悔している。  -- 竜奇  (2012-01-02 17:55:00)
+#comment()

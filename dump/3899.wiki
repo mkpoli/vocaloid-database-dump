@@ -1,0 +1,35 @@
+#right(){&furigana(ほさつP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/4951574" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/4951574">【ニコニコ動画】うｐしたもの一覧</a></iframe>)
+
+**特徴
+作り手名：『&u(){菩薩P}』（&u(){ぼさつP}）
+-アーティスト名は&b(){cresc}。
+-リンレンやミクを使用した癒し系の曲を主に投稿する。
+-作曲講座動画も投稿している。
+
+**リンク
+//-[[cresc音楽工房（作者ホームページ）>>http://members3.jcom.home.ne.jp/cresc_stm/]]
+-[[ピアプロ>>https://piapro.jp/cresc]]
+-[[Twitter>https://twitter.com/nico_bosatsup]]
+
+**曲
+#list_by_tag(菩薩P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**動画
+***オリジナル曲
+|&nicovideo(sm2204723)|&nicovideo(nm2663441)|
+|&nicovideo(nm3049653)|&nicovideo(nm4228063)|
+|&nicovideo(nm4755692)|&nicovideo(nm5440961)|
+|&nicovideo(nm9267751)|&nicovideo(nm10008840)|
+|&nicovideo(nm12366082)|>|
+
+***カバー曲
+|&nicovideo(nm4320494)|&nicovideo(nm4627122)|
+
+**コメント
+- ありがとう菩薩P。愛されているよあなたは。そして愛しているよ皆。  -- 菩薩Pの隠れ教え子。  (2012-09-03 22:40:07)
+#comment()

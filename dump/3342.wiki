@@ -1,0 +1,113 @@
+#right(){&furigana(びにゅP) &furigana()【登録タグ:&tags() 】}
+|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/11892274" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/11892274">【ニコニコ動画】作ったもの</a></iframe>)|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/14090300" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/14090300">【ニコニコ動画】作ったもの その２</a></iframe>)|
+
+**特徴
+-電子音やエフェクトをかけたエレクトロニカやポップスを発表しているP。
+-雪の粒の様なキラキラしたメロディの歌が特徴。
+-メロディは綺麗な音、透明感のある音、可愛い音等異なる音を重ね合わせて作られている。
+-しかし、１つ１つの音のよりも先にどの曲も優しく暖かいことが特徴。
+-これらの作品の特徴は本人がピアプロのコメント欄にて書いている&br()「冬が好きです。人や建物やいろんなものの暖かさに気がつく季節です。」というコメントからも伺える。
+-歌詞は「僕と君と」をテーマにしたものが多く、「僕」視点の無邪気で無垢な優しさを書いたものが多い。
+-多くのユーザーがびにゅPの曲を聴いて癒されるとコメントしている。
+-アーティスト名は &b(){ryuryu（りゅーりゅー）}。
+
+***P名の由来
+『[[あいのうた>あいのうた/びにゅP]]』の歌詞が元になっている。
+この歌のコーラス「thinking of you」の「of you」が微乳（美乳）と聞こえるというコメントが付き、そこから微乳Pというタグが付いた。
+
+しかし、これでは恥ずかしいと思いつつ、せっかく貰った名前だからと考えた結果自ら『びにゅP』と名乗ることを決めタグロックをした。
+可愛い名前だと本人も気に入っており、ユーザーからも合っていると評判。
+
+***代表作
+-20曲以上の作品を発表しているびにゅPだが『[[ステラマリン]]』、『[[April Fool]]』等が代表作
+
+***自作品のアレンジ
+-自作を自ら再アレンジし発表することが多くアレンジ版は、ファンから好評を得ており、初回versionの再生数を超えることもしばしば。 
+-『ステラマリン』、『[[Charge]]』、『あいのうた』がアレンジされてる
+
+***活動休止
+-2009年4月ピアプロ上にて生活の都合から音楽活動の休止を発表。製作途中の作品を投稿後長期の音楽活動の休止をユーザーに伝えた。
+-沢山のユーザーが休止を惜しみ、復帰を待つとコメントしている。
+-2009年6月25日最後の曲となる『[[Packed Memory In A Small Toy Box]]』 を発表し長期の音楽活動の停止をした。
+
+活動休止発表後に投稿された曲は以下
+-2009年4月27日　『あいのうた【修正版】』 
+-2009年5月13日　『Stella Marine -little lovers' magic-』 
+-2009年6月10日　『[[Past Days Sparkle]]』 
+-2009年6月25日　『[[Packed Memory In A Small Toy Box]]』 
+
+***復活
+-2009年8月4日、『[[Parasite Satellite]]』を投稿。
+-2009年8月14日、初インスト曲の『Disposable Music』で正式に活動再開を宣言する。
+-「完全復活ではないですが、もう無理に我慢しない方針でいきます。いつも迷惑かけてごめんなさい＞＜ということで、ただいま！！」
+-これを機にマイリスも新しいものになりました。
+
+**リンク
+-[[作者ブログ（Past Days Sparkle）>>http://pastdayssparkle.blog99.fc2.com/]]
+-[[Twitter>>http://twitter.com/ryuryuephemera]]
+-[[bandcamp>>http://pastdayssparkle.bandcamp.com/]]
+-[[PIAPRO>>http://piapro.jp/ryuta123]]
+-[[Myspace>>http://www.myspace.com/ryuryuephemera]]
+-[[YouTube>>http://www.youtube.com/channel/UCHlbavmqBTRRr92o76ZaOag]]
+
+**曲
+#list_by_tag(びにゅP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(びにゅPCD,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**アルバム
+***Past Present
+-活動再開後に発表された4曲によるミニアルバム。
+-収録曲は『[[Mathematics]]』『[[Kid>Kid/びにゅP]]』『[[Parasite Satellite]]』『[[Blue Sky Fish]]』。
+-内向的な、ネガティブな世界感がテーマになった曲で構成されている。
+
+**動画
+***オリジナル曲
+|&nicovideo(http://www.nicovideo.jp/watch/sm4536909)|&nicovideo(http://www.nicovideo.jp/watch/sm4574996)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4659388)|&nicovideo(http://www.nicovideo.jp/watch/sm4691486)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4783120)|&nicovideo(http://www.nicovideo.jp/watch/sm4894765)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5071854)|&nicovideo(http://www.nicovideo.jp/watch/sm5131237)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5179072)|&nicovideo(http://www.nicovideo.jp/watch/sm5449952)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5488850)|&nicovideo(http://www.nicovideo.jp/watch/sm5582705)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5628055)|&nicovideo(http://www.nicovideo.jp/watch/sm5698824)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5782785)|&nicovideo(http://www.nicovideo.jp/watch/sm6111030)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6111246)|&nicovideo(http://www.nicovideo.jp/watch/sm6332313)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6609659)|&nicovideo(http://www.nicovideo.jp/watch/sm6765631)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6871472)|&nicovideo(http://www.nicovideo.jp/watch/sm7030348)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7304938)|&nicovideo(http://www.nicovideo.jp/watch/sm7447317)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7833421)|&nicovideo(http://www.nicovideo.jp/watch/sm7930215)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7989068)|&nicovideo(http://www.nicovideo.jp/watch/sm8037324)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm8099896)|&nicovideo(http://www.nicovideo.jp/watch/sm8348450)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm8971372)|&nicovideo(http://www.nicovideo.jp/watch/sm9101357)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9425757)|&nicovideo(http://www.nicovideo.jp/watch/sm11513412)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm11644980)|&nicovideo(http://www.nicovideo.jp/watch/sm12732754)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm13104396)|&nicovideo(sm14842523)|
+|&nicovideo(sm17521891)|&nicovideo(sm19596820)|
+|&nicovideo(sm22931790)|&nicovideo(sm23466271)|
+|&nicovideo(sm24260385)|&nicovideo(sm25042829)|
+|&nicovideo(sm27622878)|&nicovideo(sm29091835)|
+|&nicovideo(sm30931386)|&nicovideo(sm31677754)|
+|&nicovideo(sm31794782)|&nicovideo(sm32287385)|
+|&nicovideo(sm32451744)|&nicovideo(sm33399525)|
+|&nicovideo(sm33806985)|&nicovideo(sm33888538)|
+//|&nicovideo()|&nicovideo()|
+
+***カバー曲
+|&nicovideo(http://www.nicovideo.jp/watch/sm5628055)|&nicovideo(http://www.nicovideo.jp/watch/sm8800028)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm8982649)||
+
+**コメント
+- とても綺麗で透明感ある 心落ちつく曲を作る方です。邪気や皮肉などが全くない歌詞にも癒されます。  -- 310  (2009-05-24 20:41:27)
+- なんて・・・癒し。ボカロのPのなかで一番の癒し曲を作ることができる人だ  -- 名無しさん  (2009-06-30 22:06:43)
+- ここのページを見ただけで、愛されてるなーって。伝わってくるよ。  -- 名無しさん  (2009-09-15 20:34:58)
+- 最近知ったけどすごく良い曲ばかり！もっと早くであいたかった・・・  -- 名無しさん  (2010-11-10 01:45:02)
+- 殿堂入り  -- 名無しさん  (2011-05-21 03:56:55)
+- びにゅpさんの作る曲、本当に大好きです。  -- 名無しさん  (2012-07-11 20:36:49)
+- 俺の中ボカロミリオンＰの１人です。ありがとう  -- 名無しさん  (2012-08-05 14:15:42)
+- この人の曲に会えたからボカロもいいなって思うんだ  -- 名無しさん  (2012-12-21 13:28:32)
+- びにゅpさんの作る曲に会えて心から幸せです。  -- 夕  (2013-03-22 14:29:45)
+- いろんなお気に入りのPいるけども、間違いなくトップ３に入るくらい大好きだわ。この人の作品全部綺麗で優しくて聴いててたまらなく愛おしくなってくる。正直もっともっと有名になって皆に聴いてほしいよ。  -- 名無しさん  (2014-01-13 05:56:19)
+-  わたしもびにゅpさんの楽曲に会えて本当によかったと思います！大好きです！！  -- 名無しさん  (2014-11-24 15:26:05)
+- マジミラで知りました。黎明期から活動されてる方なんですね。こんなすごい人を知らなかったとは・・・orz  -- 名無しさん  (2019-02-20 06:57:00)
+#comment()

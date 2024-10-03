@@ -1,0 +1,32 @@
+#right(){&furigana(clear) &furigana()【登録タグ:&tags() 】}
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Transparent}|CENTER:[[MIND ERROR]]|
+
+|&bold(){[[SHUN]]}|
+
+発売：2008年4月11日
+価格：￥1200（税込）
+流通：同人
+サークル：STYLE.S
+
+**CD紹介
+-SHUN氏のVOCALOIDアルバム第1弾。
+-バラードが多いアルバム、ふわふわ感が心地良い。
+-ジャケット(おにねこ)
+
+**曲目
++はじまり
++smil aftaer the rain
++鐘の鳴る町
++chocolate!
++Mischievous at time
++トロピカルなカーニバル!
++Painful snow.
++別れ
+
+**リンク
+-[[Transparent特設ページ>http://s-style.tv/pages/4st/index.html]]
+-[[とらのあな>http://www.toranoana.jp/mailorder/article/04/0010/14/70/040010147019.html]]
+
+**コメント
+#comment

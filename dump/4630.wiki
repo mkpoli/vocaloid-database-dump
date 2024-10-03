@@ -1,0 +1,40 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+#image(angelring.jpg,title=ANGEL RING,blank) 
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){ANGEL RING}|CENTER:&b(){[[LOLI RHYTHM]]}|
+
+|&bold(){[[かたほとりP]]}|
+
+||CENTER:即売|CENTER:同人|
+|発売|CENTER:2009年2月22日|CENTER:2009年3月|
+|価格|CENTER:￥1,000|CENTER:￥1,260(税込)|
+|サークル|>|CENTER:ポヤッチオ|
+
+>作詞・作曲：&b(){[[かたほとりP]]}
+>ジャケットイラスト：&b(){[[坂巻あきむ>>http://www4.ocn.ne.jp/~toybo/]]}
+
+**CD紹介
+-&bold(){鏡音リン12さい、いっしょうけんめい歌います！}
+-かたほとりPのオリジナルアルバム第1弾。
+-ボーマス7にて初頒布、委託販売もあり。
+-鏡音リンをメインとした楽曲を、全曲再調整して収録した、キュートなアルバムになってます。
+
+**曲目
++ごあいさつ
++[[おひめさまだっこしてネ]]
++[[「ありがと。」]]
++[[Love me らんらんるー]]
++[[NEVER CROSS U]]
++みずいろ
++となりにいてね side R
++[[あたし電波りようこちゃん]]
++[[たゆん！たゆん！]]
++[[ぎゅ～っ☆とね]]
+
+**リンク
+-[[作者ホームページ（HOT SPOT）>>http://www.orc2000.com/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/17/75/040010177505.html]]
+
+**コメント
+#comment

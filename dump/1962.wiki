@@ -1,0 +1,42 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Tatsh MUSIC COLLECTION -I-}|CENTER:[[Tatsh MUSIC COLLECTION -J-]]|
+
+|&bold(){Tatsh}|
+
+||CENTER:即売|CENTER:同人|
+|発売|CENTER:2008年8月17日|CENTER:2008年8月18日|
+|価格|CENTER:￥1,000|CENTER:￥1,500（税込）|
+|サークル|>|CENTER:ぶんぶく堂＆T.M.C|
+
+**CD紹介
+-beatmaniaIIDXなどで注目を浴び、今はゲームやアニメの楽曲を手がけている、Tatsh氏のオリジナルCD第１弾。
+-ニコニコ動画にて公開されたミクオリジナル曲のほか、インスト楽曲も収録されている。
+-CDとともに歌詞カード兼イラスト本である冊子がついている。
+-コミケでの頒布後、[[メロンブックス>>http://shop.melonbooks.co.jp/tsuhan/system/list.php?RATED=18&MAKER_FULL=%A4%D6%A4%F3%A4%D6%A4%AF%C6%B2%A1%F5T.M.C]]でも販売されています。
+
+**曲目
++Introduction -Music Crystal-
++[[シンデレラ・ロマンス]]
++虹と風の丘
++デジタリック・ラヴ
++[[Liberate～赤い海の夜明け～]]
++Lamentation
++電脳旅行記
++strange forest
++シンデレラ・ロマンス short ver.
++虹と風の丘 short ver.
++デジタリック・ラヴ short ver.
++Liberate～赤い海の夜明け～ short ver.
++シンデレラ・ロマンス Instrumental
++虹と風の丘 Instrumental
++デジタリック・ラヴ Instrumental
++Liberate～赤い海の夜明け～ Instrumental
+
+**リンク
+-[[Tatsh Music Collection 特設サイト>>http://tmccd.web.fc2.com/]]
+-[[Tatshのブログ(TAT)/>>http://yaplog.jp/tatsh_blog/]]
+-[[メロンブックス>>http://shop.melonbooks.co.jp/tsuhan/system/list.php?RATED=18&MAKER_FULL=%A4%D6%A4%F3%A4%D6%A4%AF%C6%B2%A1%F5T.M.C]]
+
+**コメント
+#comment

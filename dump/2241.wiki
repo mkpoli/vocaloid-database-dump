@@ -1,0 +1,27 @@
+#right(){&furigana(くっじー) &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/4563394" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/4563394">【ニコニコ動画】【作曲修行中】フリーソフトだけで頑張る</a></iframe>)
+
+**特徴
+-[[菩薩P]]の作曲講座が元で2月頃から作曲を始めたミク使い。
+-なんと現役高校生である。なので機材にはお金がかけられないのでフリーソフトを駆使して作曲してます。
+-「[[心の手紙]]」で一躍注目されるようになる。
+-音源はミク以外全て無料で頑張っているが、それでもなかなかの腕前。これからの成長にも期待。
+-最近になってがくっぽいども使い始めた様子。
+
+**リンク
+-[[ブログ（ギターは俺の嫁）>>http://kuzzy-guitar.cocolog-nifty.com/blog/]]
+-[[PIAPRO>>http://piapro.jp/s0240664]]
+
+**曲
+#list_by_tag(くっじー,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(くっじーCD,100,sort=furigana)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm4080545){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm4354913){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4470194){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm4538055){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5604330){340,185}||
+
+**コメント
+#comment()

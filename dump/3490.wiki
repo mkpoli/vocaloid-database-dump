@@ -1,0 +1,46 @@
+#right(){&furigana(くりとこ) &furigana()【登録タグ:&tags() 】}
+//#image(http://www.sofurasu.co.jp/s_s_chonki/images/c75_bannar2.gif,title=クリトコ,http://sofurasu.co.jp/s_s_chonki/pps5.html,blank)
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186107573.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){クリトコ}|CENTER:[[クリトコⅡ]]|
+
+|&bold(){[[クリーム市長]]}|[[yusuke]]|[[デッドボールP]]|
+
+||CENTER:即売|CENTER:同人|
+|発売|CENTER:2008年12月29日|CENTER:2008年12月29日|
+|価格|CENTER:￥1,000|CENTER:￥1,470（税込）|
+|サークル|>|CENTER:PPS|
+
+|[[あきばお～こくで購入する>>http://www.akibaoo.com/02/commodity_param/t/0/ctc/+/shc/0/cmc/2500020070055/backURL/+02+main]]|
+|[[メロンブックスで購入する>>http://shop.melonbooks.co.jp/tsuhan/system/list.php?RATED=18&MAKER_FULL=PPS]]|
+|[[とらのあなで購入する>>http://www.toranoana.jp/mailorder/article/04/0010/16/91/040010169119.html]]|
+
+**CD紹介
+-[[クリーム市長]]による初VOCALOIDアルバム。08年冬コミにて頒布された。
+-イベントでの頒布と同時に、[[あきばお～こく>>http://www.akibaoo.com/02/commodity_param/t/0/ctc/+/shc/0/cmc/2500020070055/backURL/+02+main]]、[[メロンブックス>>http://shop.melonbooks.co.jp/tsuhan/system/list.php?RATED=18&MAKER_FULL=PPS]]、[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/16/91/040010169119.html]]での委託販売も行われています。
+-ニコニコ動画での既発表曲を中心とした全11曲。
+
+**曲目
++[[EDEN-album ver->EDEN/クリーム市長]]
++[[恋色☆マジック-album ver->恋色☆マジック]]
++[[柘榴石-the garnet-]]
++[[マリオネット-album ver->マリオネット/クリーム市長]]
++[[metempsychosis>metempsychosis/クリーム市長]]
++[[総合学園クリプトンアカデミー-album ver->総合学園クリプトンアカデミー]]
++[[運命のシルエット-album ver->運命のシルエット]]
++恋ノライバル
++[[お手紙]]
++[[ブザービーター]]
++[[画面の向こうのあなた]]
+-#11は、Bonus Tracks
+
+**リンク
+-[[Passage Point's Sounds>>http://www.sofurasu.co.jp/s_s_chonki/]]
+-[[あきばお～こく>>http://www.akibaoo.com/02/commodity_param/t/0/ctc/+/shc/0/cmc/2500020070055/backURL/+02+main]]
+-[[メロンブックス>>http://shop.melonbooks.co.jp/tsuhan/system/list.php?RATED=18&MAKER_FULL=PPS]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/16/91/040010169119.html]]
+
+**コメント
+#comment

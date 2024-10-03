@@ -1,0 +1,47 @@
+#right(){&furigana(Returntotheorigin)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(nm3839973)|
+作詞：[[おパンクP]]
+作曲：[[おパンクP]]
+編曲：[[おパンクP]]
+絵：[[いくら。]]（[[pixive>>https://www.pixiv.net/users/136160]]）
+唄：[[鏡音レン>鏡音リン・レン]]
+
+**曲紹介
+//>&bold(){適切な文があれば、ここに投稿者コメントの最初の文を記入}
+曲名：『&u(){Return to the origin}』
+
+**歌詞
+（[[ピアプロ>>https://piapro.jp/content/8gt1xl2swbkrrrxi]]より転載）
+
+Listen to my favorite music.
+Surely I should come to like you, too.
+Leave here right now if I don't like it.
+It is what you should accomplish now.
+
+I listen to here, and how?
+Cannot you yet come to like me?
+I love punk rock with the intonation.
+I listened so to only such a music so far.
+
+There is being reliant in this music to me.
+This is all which I live for.all which I live for.
+
+Do not think that I am particular.
+I take in it for a heart.
+You should understand it if you do so it.
+You go to listen to genuine music right now.
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+**コメント
+#comment()
+
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)

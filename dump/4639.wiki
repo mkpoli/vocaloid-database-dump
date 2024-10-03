@@ -1,0 +1,38 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/011_20091225191437_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){BOTCH UP}|CENTER:[[憂いうらら]]|
+
+|&bold(){[[ボッチ]]}|
+
+発売：2009年3月18日
+価格：全曲￥900 / 1曲￥150
+流通：配信
+レーベル：KarenT
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/botch-up/id308098346]]}|
+
+**CD紹介
+-リンマスターボッチ氏初のVOCALOIDアルバムは、KarenTレーベル発の配信アルバム。
+-「オリジナル６」までの楽曲に新曲を加えた全９曲。全てリンボーカル曲となる。
+-ジャケットは写真を加工したもので、飄逸氏が手がけた。
+
+**曲目
++[[Be Alike]] 
++[[空想の花]]
++[[I'm a Perfect Girl！]]
++A Walk After The Rain 　&color(red){NEW!}
++[[27 dec]] 
++[[Cherry's Butterfly]]
++姫竹　&color(red){REMIX!}
++[[Parallel Lines]] 
++After The Butterfly　&color(red){NEW!}
+
+**リンク
+-[[作者ブログ>>http://blog.livedoor.jp/maturi2643/]]
+-[[KarenT>>http://karent.jp/album/11]]
+
+
+**コメント
+#comment

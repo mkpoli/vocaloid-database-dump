@@ -1,0 +1,36 @@
+#right(){&furigana(Hellomymaster)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Hello, my master.}|CENTER:[[Color of tears]]|
+
+|&bold(){[[ぺぺろんP]]}|
+
+発売：2007年12月31日
+価格：￥500（税込）
+流通：即売
+サークル：Sky-Gate
+
+**CD紹介
+CD名：『&u(){Hello, my master.}』(&u(){ハロー, マイ マスター.})
+-[[ぺぺろんP]]のボーカロイドCD第一弾。メディアは手焼きのCD-R。
+-表題曲である『[[Hello, my master.]]』を含む、[[ぺぺろんP]]初期の楽曲が収録されている。現在再頒布予定はない様子。
+-歌詞と曲解説が掲載されたコピー本も同時に配布された。またその表紙には『[[Hello, my master.]]』の動画に使用されたミクのイラスト（作/猫叉）の全景が印刷されている。
+
+**曲目
++[[はつね]]
++[[don't look for me]]
++[[ぺぺろんちぃの☆ぱにっく！！]]
++[[水鏡～みずかがみ～]]
++[[色の無い街]]
++[[はつね Arrange ver.>はつね]]
++[[Hello, my master.]]
+
+**リンク
+-[[M-tone>>http://22.pro.tok2.com/~mrawo/]]
+
+**コメント
+#comment

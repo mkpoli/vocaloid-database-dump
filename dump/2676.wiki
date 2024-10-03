@@ -1,0 +1,31 @@
+#right(){&furigana(はれんたいんP) &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/4558654" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/4558654">【ニコニコ動画】バレンタインＰの家のボカロたち</a></iframe>)
+
+**特徴
+-比較的早くからボーカロイド作品を投稿している古参Pで投稿曲数も多いものの、殆どが埋もれてしまう不遇なPの一人。&br()ネタ曲が少なく、得意な曲調が「さらっと聞き流せるBGM」という事と努力家の割りに積極的なアピールは行っていないその姿勢が&br()埋もれがちな理由と思われるが、その分安心して聴ける良曲揃いでもある。
+-アーティスト名は「&b(){NYA}」で、主に使用するボーカロイドは初音ミクだが、KAITOやMEIKOの調声も得意である。&br()投稿作品のイラストを担当している絵師の[[一花>>http://piapro.jp/ichika_a]]さんの絵柄もバレＰの曲調とマッチしていてより温かなイメージを高めている。&br()殆どの投稿曲の動画製作はほりのPが担当している。
+-代表作は『[[バレンタインの]]』でこれがP名の由来ともなった。略称は「&b(){バレP}」
+-『[[きょうも、あしたも]]』が週刊VOCALOIDランキング一周年となる[[#54>>http://www.geocities.jp/vocaran_link/rnk054.htm]]にてED曲に採用された。
+-ボーカロイドオリジナル曲の他にアニメ等のアレンジ曲も投稿している。
+-コンピレーションCD「オレの嫁」シリーズにも積極的に参加しているが、自身名義のCDは08年10月現在未発表となっている。
+
+**リンク
+-[[作者ホームページ "Star Avenue">>http://star-avenue.net/]]
+-[[PIAPRO>>http://piapro.jp/NYA920]]
+
+**曲
+#list_by_tag(バレンタインP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(バレンタインPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm1832133){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm2578071){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2086794){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm2189246){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2713297){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm2827322){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3589038){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm3688485){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4468782){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm4591340){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6203642){340,185}|
+
+**コメント
+#comment()

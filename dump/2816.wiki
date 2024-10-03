@@ -1,0 +1,51 @@
+#right(){&furigana() &furigana()【登録タグ:&tags()】}
+|&nicovideo(http://www.nicovideo.jp/watch/sm4361315)|&nicovideo(http://www.nicovideo.jp/watch/sm6738010)|
+//|&nicovideo(http://www.nicovideo.jp/watch/sm3680301)|
+作詞：[[トマ豆腐]]
+作曲：[[トマ豆腐]]
+編曲：[[トマ豆腐]]
+唄：鏡音リン
+
+**曲紹介
+-トマ豆腐の&b(){欲望命令三部作}第二弾。
+-アルバム「QUICK WORKER」14曲目に収録。
+
+**歌詞
+BO-SHI-NUGE BO-SHI-NU-GE
+
+頭を守るためなんて言うけど　頭には頭髪が生えているわ
+それはもちろん頭守るため　つまり帽子はファッションよ
+
+デザイン重視で　どんどんボリュームアップだわ
+被りすぎて蒸れていそうよ
+
+BO-SHI-NUGE BO-SHI-NU-GE
+
+脱いだとき髪　潰れているから外では
+むやみに脱げない不便さ　帽子
+
+BO-SHI-NUGE BO-SHI-NU-GE
+
+被るとカッコイイなんて言うけど　被ればぶっちゃけ髪型は見えない
+そうね頭の見栄え悪いから　帽子で隠してるのね
+
+どうなっているの　帽子の中に髪はあるの？
+ハゲ隠しじゃないでしょうね
+
+BO-SHI-NUGE BO-SHI-NU-GE
+
+ベレーは持ってない　むぎわらは田舎でかぶるの
+ニットはほつててるから　キャップ
+
+テンガロンは嫌い　シルクハットは貴族用
+角帽は昔のインテリだから　キャップ
+
+BO-SHI-NUGE BO-SHI-NU-GE
+
+何故かぶってるの
+何を隠すため被ってんのよ　堂々と脱いで見せなさいよ　帽子
+
+BO-SHI-NUGE BO-SHI-NU-GE
+
+**コメント
+#comment()

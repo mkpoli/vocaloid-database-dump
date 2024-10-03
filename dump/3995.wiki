@@ -1,0 +1,24 @@
+#right(){&furigana(ぴんくろぼP) &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/9695783" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/9695783">【ニコニコ動画】music</a></iframe>)
+
+**特徴
+-レン使い。サムネでほぼ特定が可能。
+-楽曲は無駄をそぎ落としたシンプルなものだが、それでいて非常に奥深い印象を受ける。
+-また、寂寥感や孤独感がそこはかとなく漂っている。
+-アーティスト名は&bold(){ぴぴーす}。
+-画像のピンクロボを見ていると…あなたもロボットにじっと見つめられている気がしませんか？
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/coldplay13]]
+
+**曲
+#list_by_tag(ピンクロボP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/nm4426385)|&nicovideo(http://www.nicovideo.jp/watch/nm4820228)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm5380089)|&nicovideo(http://www.nicovideo.jp/watch/sm5854988)|
+
+**コメント
+- 撤退してしまったが、この方が好きすぎてどうにもならなかったな  -- 名無しさん  (2011-06-22 02:36:30)
+- 今でも宝物みたいに大切に聴いてるよ  -- 名無しさん  (2014-03-08 22:38:57)
+#comment()

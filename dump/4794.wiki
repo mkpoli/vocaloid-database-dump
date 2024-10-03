@@ -1,0 +1,36 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/7483942" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"></iframe><a target="_blank" href="http://www.nicovideo.jp/mylist/7483942">【ニコニコ動画】Cielの作品マイリスト</a>)
+
+**特徴
+-読み方は「シエルP」。「Ciel」はフランス語で「空」という意味。
+-長いDTM歴・作曲歴から産み出される様々なジャンルの曲や調声技術の高さに定評がある。
+-ルカが歌うバラード「[[Re:present]]」は反響が大きく、約4か月で自身初の殿堂入りを達成。
+
+**リンク
+-[[作者ホームページ（Le Ciel Bleu）>>http://sound.jp/ciel/]]
+-[[YouTube>>http://www.youtube.com/user/ciel8617]]
+
+**曲
+#list_by_tag(CielP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(CielPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm10558817)|&nicovideo(http://www.nicovideo.jp/watch/sm1880652)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5242597)|&nicovideo(http://www.nicovideo.jp/watch/sm5992810)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6641117)|&nicovideo(http://www.nicovideo.jp/watch/sm8163888)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9064137)|&nicovideo(http://www.nicovideo.jp/watch/sm9065535)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9537666)|&nicovideo(http://www.nicovideo.jp/watch/sm14705525)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm15288299)|&nicovideo(http://www.nicovideo.jp/watch/sm16889248)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm20615095)|&nicovideo(http://www.nicovideo.jp/watch/sm20634024)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm20644797)|&nicovideo(http://www.nicovideo.jp/watch/sm20796486)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm21283296)|&nicovideo(http://www.nicovideo.jp/watch/sm21318569)|
+
+**コメント
+- Re:presentとのリンクをどなたかお願いします  -- 名無しさん  (2009-04-06 18:03:54)
+- この人の作る曲は教科書みたいでつまらんね。水樹奈々風やRADやetc...MIXとか音のセンスは良いと思うけど、楽曲はありきたり過ぎてチャレンジしたけど通して聴けない。展開がわかるもん。  -- 名無しさん  (2011-08-27 21:03:59)
+- Altair -アルタイル-がないよ～（><）  -- 名無しさん  (2011-11-12 21:47:26)
+- ↑×２ 断言する。つまらなくはない。  -- 名無しさん  (2013-07-01 19:20:52)
+- とあるVtuberの件で一気に知名度が上がった。  -- 名無しさん  (2021-06-27 23:42:56)
+#comment()

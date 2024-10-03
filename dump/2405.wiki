@@ -1,0 +1,27 @@
+#right(){&furigana(えのすけP)&furigana()【登録タグ:&tags()】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/4125454" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/4125454">【ニコニコ動画】ゑのすけP作品リスト</a></iframe>){340,185}
+
+**特徴
+-みんなのうた風のVOCALOID合唱曲に定評がある。
+-Pとしてはかなり初期の頃から活動している。&br()そして意外にも、KAITOの知名度がかなり低かった頃からのKAITO所持者でもある。
+-動画制作技術も高く、それを買われた「[[ぱんつのうた]]」では動画制作にも参加した。
+
+**リンク
+-[[作者ブログ>>http://studio-exiad.seesaa.net/]]
+-[[PIAPRO>>http://piapro.jp/Exiad]]
+-[[公開プロフィール（ニコニコ動画）>>http://www.nicovideo.jp/user/1029641]]
+
+**曲
+#list_by_tag(ゑのすけP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(ゑのすけPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm1080039){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm1726535){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm1860414){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm1906470){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2338272){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm4217141){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4495209){340,185}||
+
+**コメント
+#comment()

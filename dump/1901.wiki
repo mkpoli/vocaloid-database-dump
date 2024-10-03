@@ -1,0 +1,26 @@
+#right(){&furigana(yae)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+
+**特徴
+作り手名：『&u(){yae}』
+-作詞家。ミク発売初期から[[kz]]や[[かじゅきP]]の曲に歌詞を提供している。
+-その中で「[[ストロボナイツ]]」と「[[リラホルン]]」は殿堂入りを果たした。
+
+**曲
+#list_by_tag(yae,100,sort=furigana)
+
+**CD
+#list_by_tag(yaeCD,100,sort=furigana)
+
+**動画
+|&nicovideo(sm1120232)|&nicovideo(sm1327130)|
+|&nicovideo(sm1657814)|&nicovideo(sm1723424)|
+|&nicovideo(sm1777705)|&nicovideo(sm3172237)|
+|&nicovideo(sm4080690)|>|
+
+**コメント
+- ストロボナイツ大好きです！  -- ボカロ廃人  (2014-02-08 16:26:26)
+#comment()

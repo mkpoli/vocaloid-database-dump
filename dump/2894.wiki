@@ -1,0 +1,25 @@
+#right(){&furigana()&furigana()【登録タグ:&tags()】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/4574588" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/4574588">【ニコニコ動画】オリジナル作品リスト</a></iframe>)
+
+**特徴
+-聴き手にゆったりと聴かせる癒し曲に定評のあるミク使い。
+-アーティスト名は「Van Halen」と「ZZ Top」からとったもの。&br()Van Halenの大ファンではあるが、ZZ Topは1曲しか知らないらしい。
+-製作ペースはかなり速い。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/vanzz]]
+
+**曲
+#list_by_tag(vanzz,100,sort=furigana)
+
+**CD
+#list_by_tag(vanzzCD,100,sort=furigana)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm2435838)|&nicovideo(http://www.nicovideo.jp/watch/sm1992726)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2722663)|&nicovideo(http://www.nicovideo.jp/watch/sm1951044)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3007057)|&nicovideo(http://www.nicovideo.jp/watch/sm4511533)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5396775)|&nicovideo(http://www.nicovideo.jp/watch/sm4461871)|
+
+**コメント
+#comment()

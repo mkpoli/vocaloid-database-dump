@@ -1,0 +1,27 @@
+#right(){&furigana(かてらるP)&furigana()【登録タグ:&tags()】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/4846780" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/4846780">【ニコニコ動画】下水道ガテラルから超音波絶叫まで、幅広くカバーするデスボーカロイド初音ミクを使った曲のマイリストです</a></iframe>)
+
+**特徴
+-ミクを使用したグラインドコア・デスメタル等を投稿する。
+-&b(){ガテラルPee}とも。
+-彼の使用するミクは「GUTTURALOID」とも呼ばれる。
+-「[[絶望の神が支配する]]」にて[[牢獄P]]・merakia氏とコラボ。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/Gutturaloid]]
+
+**曲
+#list_by_tag(ガテラルP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(ガテラルPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm2180769){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm2187827){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2196627){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm2230271){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2238592){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm2324015){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2431241){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm2485528){340,185]|
+
+**コメント
+- もう帰国してるのかなあ？新作ずっと待ってますよ！  -- 名無しさん  (2008-10-04 14:55:26)
+#comment()

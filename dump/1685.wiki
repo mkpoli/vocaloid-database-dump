@@ -1,0 +1,38 @@
+#right(){&furigana(こねこP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/3344584" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/3344584">【ニコニコ動画】子猫Pのとっておき</a></iframe>)
+
+**特徴
+作り手名：『&u(){子猫P}』（&u(){こねこP}）
+-主にボサノバ・シャンソン系の曲を中心としたオシャレな曲によるVOCALOIDの扱いに定評があるP。
+-作詞・作曲・演奏だけでなくイラストも描いたり歌ってみたりとかなり多彩。
+-ニコニコ動画初のリンレンオリジナル曲「[[つめの窓]]」を投稿したPでもある。
+-円高メリットを活用し、全ボカロをコンプリートした模様。
+-さらに、ひょんなことからルカを入手し、発売2日前の超ジェバンニを成し遂げた。
+
+**リンク
+-[[PIAPRO>>https://piapro.jp/PeppyKitten]]
+//-[[muzie>>http://www.muzie.co.jp/cgi-bin/artist.cgi?id=a009630]]
+
+**曲
+#list_by_tag(子猫P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(子猫PCD,100,sort=furigana)
+
+**動画
+|&nicovideo(sm1298138)|&nicovideo(sm1496097)|
+|&nicovideo(sm1715410)|&nicovideo(sm1802221)|
+|&nicovideo(sm1833687)|&nicovideo(sm1889908)|
+|&nicovideo(sm1932600)|&nicovideo(sm2028954)|
+|&nicovideo(sm2048734)|&nicovideo(sm2198543)|
+|&nicovideo(sm2931668)|&nicovideo(sm5970555)|
+
+**コメント
+- ブラジル音楽への造詣の深さは只者じゃない。本人歌唱も絶品。女性だったのか・・・  -- 名無しさん  (2008-07-21 18:32:18)
+- どうやってルカ手に入れたか知ってる人いる？  -- 名無しさん  (2009-02-03 20:55:56)
+- 偶然通りかかったお店で店員さんに発売日について聞いたらその場で売ってくれたんです  -- 名無しさん  (2010-05-16 23:10:46)
+#comment()

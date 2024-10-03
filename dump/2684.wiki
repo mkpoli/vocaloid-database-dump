@@ -1,0 +1,30 @@
+#right(){&furigana(ぴろりろP) &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/5385122" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/5385122">【ニコニコ動画】中に誰もいませんよ？</a></iframe>)
+
+**特徴
+-『[[ピロリ菌のうた]]』の作者。もちろんP名も同作から。
+-かわいらしい代表作からP自身もかわいらしいお方なのかと思いきや、裏では[[『君に☆スプラッシュ』祭り>>http://dic.nicovideo.jp/a/%E3%82%AD%E3%83%9F%E3%81%AB%E2%98%86%E3%82%B9%E3%83%97%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5]]の首謀者として暗躍するなど、中々侮れない男である。
+-時々サムネ絵も自身で描いてます。
+
+**リンク
+-[[作者ブログ（ピロリロなるままに。）>>http://pirorirop.blog116.fc2.com/]]
+-[[PIAPRO>>http://piapro.jp/karanabe]]
+-[[twitter>>https://mobile.twitter.com/pirorirop]]
+-[[公開プロフィール>>http://www.nicovideo.jp/user/1150944]]
+-[[にゃっぽん>>http://v-nyappon.net/?m=pc&a=page_f_home&target_c_member_id=47]]
+
+**曲
+#list_by_tag(ピロリロP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(ピロリロPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm2809982)|&nicovideo(http://www.nicovideo.jp/watch/sm3008916)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4480800)|&nicovideo(http://www.nicovideo.jp/watch/sm4595844)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4994422)|&nicovideo(http://www.nicovideo.jp/watch/sm5613661)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6486222)|&nicovideo(http://www.nicovideo.jp/watch/sm8103225)|
+
+**コメント
+- 追加おつ  -- はふん  (2017-06-13 11:06:20)
+#comment()

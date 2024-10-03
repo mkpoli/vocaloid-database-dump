@@ -1,0 +1,69 @@
+#right(){&furigana(りゅうのなくはこにわより) &furigana()}#right{【登録タグ:&tags() 】}
+//&ref(http://ryunaku.web.fc2.com/common/cd.jpg)
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186104494.jpg,x=300,y=300)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){龍ノ啼ク箱庭拠リ}|CENTER:[[Precocious Melodies>Precocious Melodies/CD]]|
+
+|&bold(){[[弱音P]]}|[[ichiP]]|[[cosMo（暴走P）]]|[[子猫P]]|[[レッドカードP]]|[[シンP]]|[[ちえP]]|
+|[[ボクP>azuma]]|[[ヤスオP]]|[[つるつるP]]|[[アロエP]]|[[マチゲリータP]]|[[なみP]]|[[デッドボールP]]|
+
+||CENTER:即売|CENTER:同人|
+|発売|CENTER:2008年8月16日|CENTER:2008年8月22日|
+|価格|CENTER:￥1,000|CENTER:￥1,470（税込）|
+|サークル|>|CENTER:Y_Project|
+
+**CD紹介
+-[[弱音P]]の初ボーカロイドアルバム。コミックマーケット74にて初頒布された後、[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/15/82/040010158203.html]]でも委託販売されています。
+-CD2枚組み全29曲（104分）というボカロCD屈指の超大作。
+-[[弱音P]]のオリジナル曲に加え、総勢13名の有名Pによる豪華リミックスも収録。
+--第4回VOCALOIDアルバム企画、8人のP陣による『[[Snow-white Medium]]』アレンジも完全収録。
+
+**曲目
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/7626184" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/7626184">【ニコニコ動画】龍ノ啼ク箱庭拠リ</a></iframe>)
+
+&bold(){Disc1}
++[[Snow-white Medium]]  
++[[龍ノ啼ク箱庭拠リ]]  
++[[あなたがくれたオト]]  
++[[シャイン！]]  
++[[Lunar...]]
++龍ノ啼ク箱庭拠リ Act.2レンVer.　　by [[弱音P]]
++Snow-white Medium ichiP Ver.　　by [[ichiP]]
++Snow-white Medium cosMo Ver.　　by [[cosMo（暴走P）]]
++Snow-white Medium 子猫P Ver.　　by [[子猫P]]
++Snow-white Medium サ骨P Ver.　　by [[サ骨P>レッドカードP]]  
++Snow-white Medium シンP Ver.　　by [[シンP]]  
++Snow-white Medium ちえP Ver.　　by [[ちえP]] 
++Snow-white Medium ボクP Ver.　　by [[ボクP>azuma]]
++Snow-white Medium ヤスオP Ver.　　by [[ヤスオP]] 
++あなたがくれたオト ～marimba instrumental～　　by [[弱音P]]
+ 
+&bold(){Disc2}
++シャイン！-つるP Band Ver.-　　by [[つるつるP]]  
++龍ノ啼ク箱庭拠リ（夏）　　by [[ヤスオP]] 
++あなたがくれたオト_Aloe Answer Arrangement_　　by [[アロエP]]  
++龍ノ啼ク箱庭グルーヴ　　by [[サ骨P>レッドカードP]]
++シャイン！～ちえPアレンジVer.～　　by [[ちえP]]  
++龍ノ啼ク箱庭拠リ(消化不良ロック ver.)　　by [[マチゲリータP]]
++あなたがくれたオト～unplugged ver.～　　by [[ichiP]]
++Lua　　by [[子猫P]]
++シャイン！azuma(ボクP)ver.　　by [[ボクP>azuma]]  
++あなたがくれたオト～なみPオケ作ってみた～　　by [[なみP]]
++龍ノ啼ク箱庭拠リ～オケ風アレンジ～　　by [[シンP]]
++Lunar...七ツ月ノ輪唱　　by [[アロエP]]  
++鮮紅ノ龍啼ク箱庭拠リ　　by [[デッドボールP]] 
++あなたがくれたおと（ピアノアレンジ）　　by [[cosMo（暴走P）]]
+  
+**リンク
+-[[龍ノ啼ク箱庭拠リ>>http://ryunaku.web.fc2.com/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/15/82/040010158203.html]]
+
+**コメント
+- デPの｢鮮紅ノ…｣は超速くて歌えません。  -- 名無しさん  (2008-08-17 17:18:59)
+- 龍ノ啼ク箱庭拠リ（夏）の不具合修正版が公式サイトで配布されてるけど、どう修正されたのか分からない。最後の無音が3秒カットされただけ？  -- 名無しさん  (2008-11-01 15:38:12)
+- 多分MIXとか裏音とか微妙に違う部分があるんだと思うよ。  -- 名無しさん  (2008-11-24 04:30:54)
+- 風雅なおと  -- 名無しさん  (2009-11-09 14:13:00)
+- 鮮紅もうちょっとはやくしてほしいなぁ  -- 凶器  (2010-09-16 19:47:46)
+#comment

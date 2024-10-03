@@ -1,0 +1,36 @@
+#right(){&furigana(Laura)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/143244" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/143244">【ニコニコ動画】VOCALOIDオリジナル曲 - L*aura</a></iframe>)|&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/1069378" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/1069378">【ニコニコ動画】VOCALOIDカバー - L*aura</a></iframe>)|
+
+**特徴
+曲名：『&u(){L*aura}』（&u(){ろーら}）
+-2007年09月24日に[[星空‐ショートヴァージョン>>https://www.nicovideo.jp/watch/sm1134848]]でボカロデビュー。Pとしては古くから活動している部類に入る。
+-読み方は「ろーら」本人いわく「ろらでおｋｗ」。
+-固有結界を持っているのか作曲数にキリがない。（[[L*auraタグ>>https://www.nicovideo.jp/tag/L%2Aaura]]参照）
+-修正版を多数投稿することが多い。（多いもので5つ近くある）
+-ほんわかしたイラストも自作。
+-オルゴールアレンジや[[歌ってみた>>https://www41.atwiki.jp/niconico_singer/pages/187.html]]でも活動している。
+
+**リンク
+-[[作者ホームページ（L*aura Official Music Site）>>http://laura.oiran.org/home.html]]
+//-[[作者ブログ（L*aura＠VoiceBlog）>>http://www.voiceblog.jp/laura/]]
+-[[PIAPRO>>https://piapro.jp/laura]]
+
+**曲
+#list_by_tag(L*aura,100,sort=furigana)
+
+**CD
+#list_by_tag(L*auraCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+数があまりにも多いのでこのwikiにページがある動画だけ紹介しています。
+|&nicovideo(sm1324581)|&nicovideo(sm1831988)|
+|&nicovideo(sm2441706)|&nicovideo(sm2508084)|
+|&nicovideo(sm2635834)|&nicovideo(nm2653036)|
+|&nicovideo(nm3390820)|&nicovideo(nm3881798)|
+
+**コメント
+#comment()

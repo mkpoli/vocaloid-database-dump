@@ -1,0 +1,37 @@
+#right(){&furigana(AetherEru)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/9208828" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/9208828">【ニコニコ動画】【投稿動画】P∴Rhythmatiq</a></iframe>)
+
+**特徴
+作り手名：『&u(){Aether_Eru}』（&u(){エーテルエル}）
+-[[ゆうP]]、[[ノア>ノア(Noah)]]氏と同じく、同人音楽サークル「&bold(){P∴Rhythmatiq}」に所属するP。
+-明るいエレクトロポップ曲を中心に発表している。
+
+**リンク
+-[[Twitter>>https://twitter.com/aether_eru]]
+-[[作者ブログ>>https://www.lkjp.net/]]
+//-[[P∴Rhythmatiq （プリズマティック）>>http://prhythmatiq.com/]]
+-[[P∴Rhythmatiq blog>>https://prq.blog44.fc2.com/]]
+-[[PIAPRO（aether_eru）>>https://piapro.jp/aether_eru]]
+-[[YouTube>>https://www.youtube.com/user/jp8080]]
+
+**曲
+#list_by_tag(Aether_Eru,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(Aether_EruCD,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**動画
+|&nicovideo(sm3953705)|&nicovideo(sm5109737)|
+|&nicovideo(sm6210729)|&nicovideo(sm7327520)|
+|&nicovideo(sm7450924)|&nicovideo(sm9014177)|
+|&nicovideo(sm8468603)|&nicovideo(sm13310037)|
+|&nicovideo(sm14697560)|&nicovideo(sm16133204)|
+|&nicovideo(sm19156134)|>|
+
+**コメント
+- 某アルバムに入ってるエバーライジングが好きです。  -- 不明P  (2016-11-30 09:41:10)
+#comment()

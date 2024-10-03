@@ -1,0 +1,30 @@
+#right(){&furigana(はやくちP)&furigana()【登録タグ:&tags() 】}
+|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/5330782" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/5330782">【ニコニコ動画】</a></iframe>)|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/11315767" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/11315767">【ニコニコ動画】</a></iframe>)|
+
+**特徴
+-KAITO使い。他にはルカを使用。
+-アーティスト名は&b(){TUNNY}。
+-早口や流暢なしゃべりを多用するスタイルから、現在のP名がついた。
+
+**リンク
+-[[ピアプロ>>http://piapro.jp/thunnus]]
+
+**曲
+#list_by_tag(早口P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm2520409)|&nicovideo(http://www.nicovideo.jp/watch/sm2623937)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3296477)|&nicovideo(http://www.nicovideo.jp/watch/sm3588070)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3681332)|&nicovideo(http://www.nicovideo.jp/watch/sm3859336)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4488706)|&nicovideo(http://www.nicovideo.jp/watch/sm4843655)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4920645)|&nicovideo(http://www.nicovideo.jp/watch/sm5404361)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm5765714)|&nicovideo(http://www.nicovideo.jp/watch/sm6041589)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6178211)|&nicovideo(http://www.nicovideo.jp/watch/sm6659644)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7955714)|&nicovideo(http://www.nicovideo.jp/watch/sm9930834)|
+
+**コメント
+- おおお、早口Pできてる!!!やったね!!!  -- 名無しさん  (2010-01-25 01:06:05)
+- 県庁所在地ってこの人だったんだ!!  -- ぺい  (2011-08-01 23:24:55)
+- 47都道府県が面白かった！  -- yukkina  (2012-12-31 17:03:10)
+- この人LEONもALも持ってないか？  -- 名無しさん  (2014-03-28 18:54:50)
+#comment()

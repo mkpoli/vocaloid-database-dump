@@ -1,0 +1,80 @@
+#right(){&furigana(なんてーくあっちゃたんた)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm2864012)|&nicovideo(sm6738073)|
+作詞：[[トマ豆腐]]
+作曲：[[トマ豆腐]]
+編曲：[[トマ豆腐]]
+唄：[[鏡音リン>鏡音リン・レン]]
+
+**曲紹介
+曲名：『&u(){ナンデーク・アッチャ・タンダ}』
+
+**歌詞
+（[[ニコニコ動画>>http://www.nicovideo.jp/watch/sm2864012]]より転載）
+
+アマゾンド○トシーオージェーピーを
+ぐるっと一周していたよ
+ミュージックコーナー見てたよ
+
+なんだかジャケットだけ見ると
+すごくよさげなドラマCD
+タイトルと収録内容見ると
+すごく興味湧くドラマCD
+
+なんだかわかんないけど
+カスタマーレビュー☆1つだったけど
+買っちゃった
+
+聴いたけど　なんだろう　これなんで買ったんだ…
+
+ha,ha,ha...(;＞
+Nandeak acha Tunder！Nandeak acha Tunder！
+Doner hyoca Saratil car,nam decook neen sea nack atander！
+
+深夜に第二部放送してたよ
+見れないから録画してたよ
+録画忘れた日ニコニコで探したよ
+
+アニメは見るけどあんまり
+原作読んだことないアニメ
+そんなにギャグマンガ好きじゃないけど
+割と好きな方のこのアニメ
+
+ちょっとお金ピンチだったけど
+原作も読んでみたくなったから
+買いたいな
+
+それなのに　某書店　ここ第一巻だけねえ…
+
+ha,ha,ha...(;＞
+Nam Deoytea Nenda！Nam Deoytea Nenda！
+Dineecan woal no nee,kangina dickan dakey nejean！
+
+なんで買いたいものが売ってないんだろう
+見つけたときにはもう手元に金ない
+あとから考えればどうでもいいものだったってものばっかり
+なんで買っちゃうんだろう…
+
+ha,ha,ha...(;＞
+Nandeak acha Tunder！Nandeak acha Tunder！
+Doner hyoca Saratil car,nam decook neen sea nack atander！
+ha,ha,ha...(;＞　ha,ha,ha...(;＜
+Nandeak acha Tunder！Nandeak acha Tunder！
+Ocanee gial caratte,ilean monovacarry katean jarney yoh！
+Nandeak acha Tunder！Nandeak acha Tunder！
+Tack swam know syow heenonacade,
+nandeak olaywork acha tunder...
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+**コメント
+#comment()
+
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)

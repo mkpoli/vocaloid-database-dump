@@ -1,0 +1,84 @@
+#right(){&furigana(Uske)【検索用:&furigana()&space(2)登録タグ:&tags()】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/41954262" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/41954262">【ニコニコ動画】</a></iframe>)
+//&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/3783904" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/3783904">【ニコニコ動画】U-skeの</a></iframe>){340,185}
+
+**特徴
+作り手名：『&u(){U-ske}』
+-Pとしては2007年内にデビューしたミク使い。
+-ポップな曲からシリアスな曲まで対応。製作ペースの速さにも定評がある。
+-2008年7月18日発売の『ピコ萌え！Future8bitシリーズ2-マジカル?チップ8bitちゃん！-』に参加。
+-2009年6月24日に自らのブログで[[結婚することを発表>>http://blog.livedoor.jp/yuhske0921/archives/50707151.html]]。そのため以後の活動が不定期になった。
+-2011年12月、VOCALOID楽曲の動画を削除。この件については[[ニコニコ大百科の「U-skeP」のページ>>http://dic.nicovideo.jp/a/u-skep]]に本人が書込みをしている。
+-2012年3月、「[[inverse]]」にてボカロ界へ復帰し今に至る。
+
+**リンク
+//-[[作者HP(HERE and THERE)>>http://hat.lix.jp/]]
+-[[ニコニコ動画>>https://www.nicovideo.jp/user/4039104]]
+-[[YouTube>>https://www.youtube.com/user/PlusUske]]
+-[[PIAPRO>>https://piapro.jp/yuhske0921]]
+//-[[muzie>>http://www.muzie.co.jp/cgi-bin/artist.cgi?id=a055420]]
+-[[KarenT：「U-ske」>>http://karent.jp/artist/pp000130]]
+-[[Twitter>>https://twitter.com/uske921]]
+-[[foriio>>https://www.foriio.com/u-ske]]
+
+**曲
+#list_by_tagsearch(U-ske,sort=furigana2,errmsg=まだ曲が登録されていません。,and,100)
+
+**CD
+#list_by_tagsearch(U-skeCD,sort=furigana2,errmsg=まだCDが登録されていません。,and,100)
+
+**動画
+#region(close,削除済みの動画)
+|&nicovideo(sm1746738)|&nicovideo(sm1833658)|
+|&nicovideo(sm1852502)|&nicovideo(sm1865505)|
+|&nicovideo(sm1965780)|&nicovideo(sm2106964)|
+|&nicovideo(sm2161599)|&nicovideo(sm2244681)|
+|&nicovideo(sm2383816)|&nicovideo(sm3064757)|
+|&nicovideo(sm3123193)|&nicovideo(sm4593494)|
+|&nicovideo(sm5394713)|&nicovideo(sm5990257)|
+|&nicovideo(sm6126733)|&nicovideo(sm6402770)|
+|&nicovideo(sm6814787)|&nicovideo(sm6832891)|
+|&nicovideo(sm7124939)|&nicovideo(sm7305936)|
+|&nicovideo(sm7447117)|&nicovideo(sm7983223)|
+|&nicovideo(sm8298029)|&nicovideo(sm8635312)|
+|&nicovideo(sm8773954)|&nicovideo(sm8992704)|
+|&nicovideo(sm8999924)|&nicovideo(sm9515618)|
+#endregion
+|&nicovideo(sm6293950)|&nicovideo(sm12989847)|
+|&nicovideo(sm13930070)|&nicovideo(sm15548638)|
+|&nicovideo(sm17405267)|&nicovideo(sm17574965)|
+|&nicovideo(sm20450067)|&nicovideo(sm21583478)|
+|&nicovideo(sm22996811)|&nicovideo(sm23437579)|
+|&nicovideo(sm28166369)|&nicovideo(sm28172621)|
+|&nicovideo(sm28593676)|&nicovideo(sm29772866)|
+|&nicovideo(sm41472597)|&nicovideo(sm43409037)|
+|&nicovideo(sm43959973)||
+
+**関連タグ内の更新履歴
+#region(close,関連タグ内の更新履歴)
+関連タグ内の更新履歴
+※「U-ske」「U-skeCD」タグ内で最近編集やコメントのあった記事を新しい方から10件表示しています。
+#list_by_tagsearch(U-ske,U-skeCD,sort=timestamp,sort2=desc,errmsg=まだ曲、CDが登録されていません。,or,10)
+#endregion
+
+**コメント
+- 新曲sparkle songで上がってくるんじゃと期待  -- 名無しさん  (2008-09-16 16:11:43)
+- 独自な調声でやさしくささやくように歌うミクちゃん、穏やかで綺麗な音と合わさり、とても素敵なのです  -- 310  (2009-07-02 22:25:00)
+- １番好きなＰ。婚約おめでとうございます！  -- 名無しさん  (2009-08-14 01:06:19)
+- 誰か透明なシンパシーも記事追加してくれー  -- 名無しさん  (2010-12-19 23:23:14)
+//- 誰かfeel  -- 名無しさん  (2011-05-20 23:53:13)
+//- ↑ミスった（〉_〈）　　  -- 名無しさん  (2011-05-20 23:53:54)
+- 誰かliesを追加してくれ…!!  -- Ｎ  (2011-08-18 00:58:55)
+- 視聴できません  -- 名無しさん  (2011-12-05 22:01:14)
+- 復活は嬉しいのだが消してしまった楽曲達はまた聴けるようになるの？  -- 名無しさん  (2012-04-28 23:14:21)
+- ↑こちらにu-skeP本人がmp3を上げてますよ→ ttp://goo.gl/zjWHH でも出来ればまた動画の方でも見たいよな～（ﾁﾗｯ  -- 名無しさん  (2012-04-29 13:20:42)
+//- ゆーちゅーぶできけるよ！  -- やまさん  (2012-04-30 07:47:54)
+- 誰も言わないけれど初音ミクの出身地札幌で、唯月ふうかってアイドルと一緒に「教室」って曲出してた。すごくいい曲で、札幌の祭りのテーマソングにもなってた。  -- うさぎ毛布  (2014-03-11 15:45:58)
+- この人の過去の曲動画消えてるからね・・・・残念  -- 名無しさん  (2015-08-26 07:44:34)
+- 動画復活してくれよ〜  -- 名無しさん  (2015-09-01 23:36:11)
+- 別々に知って、大好きだった４曲が、全部U-skeさんの曲だってさっき気付いた。これは偶然じゃないはず…。他の曲も聴ける限りたくさん聴こう  -- Rimu  (2016-11-06 16:48:17)
+#comment()

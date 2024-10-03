@@ -1,0 +1,33 @@
+#right(){&furigana(TEST)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/2779693" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/2779693">【ニコニコ動画】[TEST]動画</a></iframe>)
+
+**特徴
+作り手名：『&u(){[TEST]}』
+-元は「演奏してみた」カテゴリで活躍していたギタリスト。
+-ミクオリジナル曲の投稿を開始し、VOCALOIDプロデューサーに転向。こちらでの活躍も期待される。
+-[[デッドボールP]]のファンで、コラボレーション実績もある。「デP」をもじった&bold(){テP}というP名で呼ばれることもある。
+
+**リンク
+-[[作者ブログ>>https://ameblo.jp/test2525]]
+-[[Twitter>https://twitter.com/hiroki_test]]
+
+**曲
+#list_by_tag([TEST],100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag([TEST]CD,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**動画
+|&nicovideo(sm4629383)|&nicovideo(sm4775328)|
+|&nicovideo(sm4854751)||
+
+
+**コメント
+- 「TEST」の部分を覆う大カッコが半角だと、別ページへのリンク用に使う大カッコを使う時に戸惑うので全角で代用しました。  -- 名無しさん  (2011-07-06 23:07:22)
+//- ふでゅdbd  -- いzじx  (2017-11-01 23:19:01)
+//- zぶbづbz  -- んjdjんxkんx  (2017-11-01 23:19:14)
+#comment()

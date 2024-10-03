@@ -1,0 +1,39 @@
+#right(){&furigana(ゆめにもゆにめも) &furigana()【登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186106867.jpg,x=300,y=300)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){ゆめにも ゆにめも}|CENTER:[[Pretty Panty AKU-MARIN]]|
+
+|&bold(){[[ゆにめもP]]}|
+
+||CENTER:即売|CENTER:同人|
+|CENTER:発売|CENTER:2008年8月16日|CENTER:2008年8月18日|
+|CENTER:価格|CENTER:￥1,000|CENTER:￥1,260（税込）|
+|CENTER:サークル|>|CENTER:ゆにめも|
+
+**CD紹介
+-鏡音マスター・ゆにめもP初のVOCALOIDアルバム。代表曲『[[リンレンラリリン]]』など、リンレン曲を中心に全10曲を収録。
+-アルバム用の新曲のうち、『[[あわせ鏡]]』と『レンゾク♪リンク♪』の2作は先行公開された。
+-08夏コミで初頒布され、その後とらのあなにて委託販売されています。
+
+**曲目
++[[リンレンラリリン]]
++[[あわせ鏡]]
++進化 &color(red){NEW!}
++[[レンゾク♪リンク♪]]
++[[卒論P]]
++桃太郎2 &color(red){NEW!}
++鏡の音のカナリア姫 &color(red){NEW!}
++[[息吹]]
++上昇気流 &color(red){NEW!}
++[[またね]]
+
+**リンク
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/15/92/040010159299.html]]
+
+**コメント
+- いいわぁ～☆  -- 名無しさん  (2008-11-26 16:28:24)
+- 最初CD名『ゆにめも ゆにめも』に見えたwww  -- 名無しさん  (2011-08-06 08:48:08)
+- ↑同感ｗ　ゆにめもゆにめも♪  -- 名無しさん  (2011-08-06 08:59:51)
+#comment

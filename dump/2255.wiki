@@ -1,0 +1,42 @@
+#right(){&furigana()&furigana()【登録タグ:&tags()】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/3421402" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/3421402">【ニコニコ動画】MyWork</a></iframe>){340,185}
+
+**特徴
+-レンによるボカロラップや、聴き手にゆったり聴かせるサウンドに定評があるP。
+-楽曲の特徴は歌詞が様々な他のボカロ楽曲名を駆使して構成されていること。なのでちょっとしたボカロ検定動画になっている。
+-これまでに殿堂入りを達成した曲は、以下の通り。&br()「[[Invisible Tears]]」「[[Loose Change]]」
+
+**リンク
+-[[Nefertiti（作者ブログ）>>http://nefertiti.seesaa.net/]]
+-[[プロフィール（ニコニコ動画）>>http://www.nicovideo.jp/user/1809435]]
+-[[PIAPRO>>http://piapro.jp/tyskmt1981]]
+-[[twitter>>https://mobile.twitter.com/tys_Nefertiti]]
+-[[にゃっぽん>>http://v-nyappon.net/?m=pc&a=page_f_home&target_c_member_id=1587]]
+
+**曲
+#list_by_tag(tysP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(tysPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm1594055){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm2477342){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3033059){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm3717084){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4172614){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm5463116)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6724585)|&nicovideo(http://www.nicovideo.jp/watch/sm8002597)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm10410821)|&nicovideo(http://www.nicovideo.jp/watch/sm14669481)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm18408895)|&nicovideo(http://www.nicovideo.jp/watch/sm20886882)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm33348749)||
+
+**コメント
+- 元々はマッシュアップ方面で知られててHIPHOP的な発想の音つくりをするひと。ボカロ周辺では貴重だと思う。  -- 名無しさん  (2008-09-13 14:03:53)
+- tysP大好きっ！どの曲も好き！本当に中毒っ(>_<)tysPのレン最高っ(*^^*)こんな素敵な曲ばっかだし、もっともっと知名度上がればいいのにな(;_;)/  -- 名無しさん  (2010-01-26 06:32:09)
+- 色々な作者の中で全ての曲が良いと思ったのはｔｙｓＰだけだね！  -- 名無しさん  (2010-02-11 02:36:04)
+- レンとミク大好き！神やわぁ☆ｗｗ出会えてよかった！！  -- 紫織  (2010-03-30 16:05:19)
+- 何で皆知らんか謎なくらい神ッちょうやん！！（方言  -- 名無しさん  (2010-07-28 17:30:13)
+- 何故無名なのかわからんっ  -- しっぽ  (2011-11-29 10:55:35)
+- この人好きなんだけどなぁ。なんで伸びないかなぁ。  -- NOAH  (2013-06-03 16:48:58)
+- tyspの曲大好きです！  -- air  (2013-08-27 00:50:44)
+- どこか懐かしい気持ちにさせる曲が魅力的だと思います。もっと色んな人に聴いてほしい！  -- roku  (2014-07-19 01:28:33)
+- この人のレンミク好き☆  -- 名無しさん  (2015-06-17 22:14:07)
+#comment()

@@ -1,0 +1,27 @@
+#right(){&furigana(おされP) &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/9862797" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/9862797">【ニコニコ動画】オサレパーマ</a></iframe>)
+
+**特徴
+-動画師（PV師）、絵師。
+-洗練されたシーンの切り替え等のセンスに定評がある。
+-どんなものでもオサレになる。
+-ピアプロにて使用されたイラストが公開されている。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/shinjin]]
+
+**曲
+#list_by_tag(オサレP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(オサレPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm4829197)|&nicovideo(http://www.nicovideo.jp/watch/sm5093858)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5514823)|&nicovideo(http://www.nicovideo.jp/watch/sm5808092)|
+
+**コメント
+- 好きです  -- 名無しさん  (2011-11-01 15:09:21)
+- あは  -- 名無しさん  (2012-08-06 22:16:27)
+- ミクノポップ好きなら聞くべし　なぜ伸びない　PVとの雰囲気がオサレすぎてやばい  -- 黒葉  (2013-02-04 12:59:03)
+#comment()

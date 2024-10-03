@@ -1,0 +1,71 @@
+#right(){&furigana(be alright)【検索用:&furigana()&space(2)登録タグ:&tags()】}
+#region(目次)
+目次
+#contents
+#endregion
+|&nicovideo(sm5264858)|
+作詞：[[u160(ういろー丸P)]]
+作曲：[[u160(ういろー丸P)]]
+編曲：[[u160(ういろー丸P)]]
+唄：[[初音ミク]]
+
+**曲紹介
+曲名：『&u(){be alright}』（&u(){ビー オーライ}）
+-[[u160(ういろー丸P)]]氏、73作品目。
+
+**歌詞
+
+不安感じて　泣きだして
+文句ばっかり　吐きだして
+いざとなったら　逃げだして
+知らん顔して　なんもしねえ
+
+「いい加減ホラ　落ち着いて」？
+やってられるか　めんどくせえ
+くだらないのは　クソくらえ
+俺はまだまだ　死にたくねえ
+
+everything gonna be alright
+everything gonna be alright
+なんとかなる　大丈夫
+なんとかする　大丈夫
+
+「生まれたことが間違い」で？
+「ここにいるのは場違い」で？
+「例え死んでも幸い」で？
+不幸自慢は聞きたくねえ
+
+諦めるなら　この辺で
+戦うのなら　最後まで
+共にいくなら　来世まで
+付き合っちゃうぜ　oh my friend
+
+everything gonna be alright
+everything gonna be alright
+なんとかなる　大丈夫
+なんとかする　大丈夫
+
+叶わない夢　抱いたまま
+溺れ死ぬのか　このまんま
+できることなら　逃げだしてえ
+だけどそんなの　できやしねえ
+
+everything gonna be alright
+everything gonna be alright
+なんとかなる　大丈夫
+なんとかする　大丈夫
+
+everything gonna be alright
+everything gonna be alright
+なんとかなる　大丈夫
+なんとかする　大丈夫
+
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+
+**コメント
+#comment()
+
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)

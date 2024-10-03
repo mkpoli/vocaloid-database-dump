@@ -1,0 +1,27 @@
+#right(){&furigana() &furigana()【登録タグ:&tags()】}
+&nicovideo(http://www.nicovideo.jp/watch/sm5180702)
+作詞：[[くちばしP]]
+作曲：[[くちばしP]]
+編曲：[[くちばしP]]
+唄：子ミク（初音ミク）
+
+**曲紹介
+-[[くちばしP]]の"子ミク"シリーズ第二弾。
+-[[くちばシステム>>http://pokoneko.haru.gs/kuchibasystem/]]の宣伝しちゃおうかな企画。
+
+**歌詞
+（[[動画コメント欄>>http://www.nicovideo.jp/watch/sm5180702]]より転載）
+
+いつもは聴き流すだけのmusic
+自分だけの形で色づけた
+名もない歌を胸に閉じ込め
+どれだけの時を過ごしたのかな
+
+Love is song for you
+Life is song for me
+Love is song for you
+Life is song for me
+
+**コメント
+- またしてもさりげない英語がうまい。子ミクもニューキャラクターとして定着しそう。  -- pak_13  (2008-11-10 17:46:24)
+#comment()

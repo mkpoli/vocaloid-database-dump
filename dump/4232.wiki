@@ -1,0 +1,30 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/13529880" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/13529880">【ニコニコ動画】function</a></iframe>)
+
+**特徴
+-ハスキーで切ない声のMEIKOでデビューしたP。
+-作風はJazzやロックであり(正確にはフュージョン)演奏に高い技術や深い経験を感じとれる。
+-しかし、何よりも聴く人にはそのハスキーながら潤いや艶があるMEIKOの歌声が耳に残る。
+-大人の女性のJazzナンバーが得意でありJazzが少ないVOCALOID界に置いてJazzファンから高い期待を受けている。
+
+**リンク
+-[[mp3置き場>>http://upride.com/function/minibbs.php]]
+
+**曲
+#list_by_tag(function,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(functionCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm4839659)|&nicovideo(http://www.nicovideo.jp/watch/sm7932821)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6727398)|&nicovideo(sm7932821)|
+|&nicovideo(sm12361061)|&nicovideo(sm12957165)|
+|&nicovideo(sm14565035)|&nicovideo(sm15853580)|
+|&nicovideo(sm21190247)|&nicovideo(sm21787215)|
+|&nicovideo(sm24865211)|&nicovideo(sm25427577)|
+|&nicovideo(sm25478178)|&nicovideo(sm31878414)|
+
+**コメント
+- 濡れたような感じがする独特の調声と、高い音楽性がfunctionさんの魅力。もっと評価されても良いと思う。  -- 竜奇  (2012-11-15 21:36:40)
+#comment()

@@ -1,0 +1,810 @@
+//&color(red){new!}
+&aname(TOP,option=nolink){まとめショートカット}：&link_anchor(664){【664】}：&link_anchor(663){【663】}：&link_anchor(662){【662】}：&link_anchor(661){【661】}　　　[[【過去ログ】>http://www19.atwiki.jp/vocaloidosusume/tag/%E6%9C%AC%E3%82%B9%E3%83%AC%E3%81%BE%E3%81%A8%E3%82%81]]　　最終更新：&lastmod(2chつべ板　ボカロスレ本日のオススメ動画)
+最新の日刊（[[日刊マイリス>http://www.nicovideo.jp/mylist/5024496]]）　　　　　　　　　　　　　　　&link_anchor(ブログパーツ){【ぼかさちブログパーツ】}
+#showrss(linelimit=2,http://www.nicovideo.jp/mylist/5024496?rss=2.0)
+|PMⅡ世さんによるまとめマイリス|イベント|リンク|
+|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/4728420" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/4728420">【ニコニコ動画】2chつべ板　ボカロスレ　本日のオススメ動画</a></iframe>)&br()&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/4747239" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/4747239">【ニコニコ動画】2chつべ板　ボカロスレ　最近のオススメ動画</a></iframe>)|・[[「Vocaloid動画全リスト」>http://www.nicovideo.jp/watch/sm6299069]]（注：無茶苦茶長い動画です）&br()・[[ここ狭いPミニアルバムツアー>http://www.nicovideo.jp/watch/sm6287580]]&br()・[[第２回MMD杯>http://www31.atwiki.jp/mmdcup/]]、終了/[[「表彰閉会式」>http://www.nicovideo.jp/watch/sm6254234]]（[[ランキング&一覧>http://ehehe.jp/MMD_CUP/honsen.php]]）&br()・[[「KAITOお誕生会2009」>http://www.nicovideo.jp/tag/KAITO%E3%81%8A%E8%AA%95%E7%94%9F%E4%BC%9A2009?sort=f]]&br()・ニコニコ技術部、[[Innocence 3DPVのあの楽器製作に挑戦シリーズ>http://www.nicovideo.jp/tag/%E3%81%82%E3%81%AE%E6%A5%BD%E5%99%A8?sort=f]]&br()・[[原曲・ラヴリーPのわりばしおんな。アレンジ感染者拡大>http://www.nicovideo.jp/tag/%E3%82%8F%E3%82%8A%E3%81%B0%E3%81%97%E3%81%8A%E3%82%93%E3%81%AA%E3%80%82?sort=f]]&br()・ボカロ関係の生放送多数/[[ここでチェック>http://live.nicovideo.jp/recent]]&br()&br()■更新時の三行■&br()・[[ぼか路地ブログパーツデスクトップアプリケーション版登場>http://bocasachi.exblog.jp/9412747/]]&br()・[[supercellスペシャルサイト更新（TV用CMとメルトPVも有）>http://supercell.jp/]]&br()・狂気な歌詞の話からスーパー狂気タイムへ&br()・[[打倒炉心宣言した人がうｐろだに仮UPし盛り上がる。>http://files.or.tp/dl.php?f=up14152.mp3]]&br()・[[デッドボールPベストCDが出るらしい>http://www.amazon.co.jp/%E3%83%87%E3%83%83%E3%83%89%E3%83%9C%E3%83%BC%E3%83%ABP-%E3%83%99%E3%82%B9%E3%83%88/dp/B001U8RHFM/]]&br()・初音ミクwikiが荒らされメニューのリンク随所にトロイを仕掛けられていることがあります。注意！&br()&br()&br()|[[ボカ路地>http://www.monomonobox.jp/vocalogy/daily.html]]&br()[[Nearch(VOCALOIDタグ投稿日の勢い)>http://www.nearch.jp/tag/VOCALOID]]&br()[[本日のMMDランキング/えへへ♪で行こう>http://ehehe.jp/MMD_Ranking/day.php]]([[週間>http://ehehe.jp/MMD_Ranking/week.php]]/[[月間>http://ehehe.jp/MMD_Ranking/]])&br()[[ニコニコ動画 日刊ランキング(PV)>http://ippo.dip.jp/nico/nico/]]&br()[[はてなブックマーク-タグVOCALOID>http://b.hatena.ne.jp/t/vocaloid?sort=eid]]&br()[[ぼかさち VOCALOID曲検索サイト>http://bokasachi.natsu.gs/]]&br()[[ボカロおすすめサーチ>http://vocaloidosusume.me.land.to/]]&br()[[無限公開マイリストキーワード検索>http://ippo.dip.jp/nico/nico/openlist/sm3555836/20080801.html]] （自分のマイリスをリストに入れたい時は[[この動画>http://www.nicovideo.jp/watch/sm3555836]]をマイリス&br()[[Vocaloid Salvage ～ぼかさる～>http://www.geocities.jp/vocaloidsalvage/]]&br()[[VOCALOID本スレオススメ依頼まとめ>http://www19.atwiki.jp/vocaloidosusume/]]&br()[[ボーカロイド本スレおすすめまとめ（234～305スレ）>http://www2.atword.jp/nanasisan/]]&br()[[ニコニコ動画VOCALOID関連作品「○○Ｐ」リスト Wiki>http://wikiwiki.jp/oop/]]&br()[[VOCALOID関連公開マイリスト@ wiki>http://www14.atwiki.jp/v-openmylist/]]&br()[[ボカロ投票所 Wiki>http://www9.atwiki.jp/vocaloid-vote/]]&br()[[VOCALOIDオリジナル曲リスト>http://www.geocities.jp/vcr_watch/list.html]]&br()[[週刊VOCALOIDランキングまとめ>http://www.geocities.jp/vocaran_link/]]&br()[[Vocaloidランキングのカタログ@wiki>http://www7.atwiki.jp/v-ranking/]]&br()[[VOCALOID Ranking Viewer>http://isztspr.blog79.fc2.com/]]&br()[[本スレ過去ログ倉庫>http://vocalog.web.fc2.com/]]|
+*2chつべ板本スレ【&aname(664,option=nolink){664}】にて紹介された動画
+http://pc11.2ch.net/test/read.cgi/streaming/1235991766/
+・まとめ
+[[「月刊ボーカロイドTOP30 2009年03月号」>http://www.nicovideo.jp/watch/sm6314367]]　[[「月刊大人の都合 3月号【VOCALOID 名誉の除外ランキング＆名誉の除外検定】」>http://www.nicovideo.jp/watch/sm6319417]]　[[「週刊VOCALOIDランキング#74」>http://www.nicovideo.jp/watch/sm6319063]]
+----
+【ランキング】月刊ボーカロイドTOP30 2009年03月号
+http://www.nicovideo.jp/watch/sm6314367
+新着より
+----
+自貼りしようと思ったら規制くらった！でも携帯から貼る！
+【ルカオリジナル】はなながいさん と さしみたん【コラボ】
+http://www.nicovideo.jp/watch/sm6315166
+ただの ぬこ曲…とは思わない方が良いですｗ
+----
+ぼか路地から～
+【巡音ルカ】生きてゆくために【オリジナルイメージソング】
+http://www.nicovideo.jp/watch/sm6309232
+ＴＡＣＨＥさん　同名ミク曲のルカ版
+「おじいちゃんより動くP」こと御厨わたさんが今回も動画担当されてます
+【巡音ルカ】下剋上（替）【巡音一家】
+http://www.nicovideo.jp/watch/sm6307971
+がく楽Ｐ　後半にクリーチャーのターン有　もはや全ボカロ課題曲なんだろうか…ｗ
+【巡音ルカ】Frenzy glass【オリジナル】
+http://www.nicovideo.jp/watch/nm6312204
+ke-jiさん　鏡音レン１２人の人　英語歌詞のドラムンベース
+----
+日刊　日刊VOCALOIDランキング 2009年3月2日 #386
+http://www.nicovideo.jp/watch/sm6315396
+----
+初音ミク　が　オリジナル曲を歌ってくれたよ「ハートブレイカー」
+http://www.nicovideo.jp/watch/sm4448124（無断転載）
+宣伝にきますた＾＾ご支援よろしくお願いします＾＾
+----
+【巡音ルカオリジナル曲】Symmetric target
+http://www.nicovideo.jp/watch/sm6048521
+ルカの特徴を1曲の中で端的に表現した曲と思うのになかなか伸びない　調教も無難だと思うんだがなあ　インパクトに欠けるのかな
+----
+自貼りにきました～　惑星探査機ボイジャーをテーマにした曲です。ぜひ聴いてみてください！
+【初音ミク】木星スイング・バイ【オリジナル】
+http://www.nicovideo.jp/watch/sm6316298
+----
+他貼り。注目のがくぽ使いの新人3作目（3本目ならもう新人でもないか）。
+【神威がくぽ】雅唄～みやびうた～【オリジナル曲】
+http://www.nicovideo.jp/watch/nm6313530
+----
+そういえば、カニミソPが昨日カバーあげてたので貼り
+【巡音ルカ】Beautiful Sunrise【英語詞】
+http://www.nicovideo.jp/watch/sm6303920(既出)
+----
+くまうた　★祝★（1000）　「ありがとう」　唄：嵐山クマ男
+http://www.nicovideo.jp/watch/sm6314408
+サイハテミリオンの影でもう1つ　偉大な記録が生まれていた…
+----
+【初音ミク】sing2song【オリジナル】
+http://www.nicovideo.jp/watch/sm6317863
+新人。うけそう
+----
+【完全版】初音ミク 神曲メドレー【作業用BGM 厳選50曲】
+http://www.nicovideo.jp/watch/sm6287887
+曲一覧　マイリスト ミクオリジナル曲　神曲
+http://www.nicovideo.jp/mylist/11273029
+これ本当に有名曲ばかり集めているなｗ　初心者に優しいと思ったけどフルで215分だとその時点で逃げそうｗ
+----
+新着
+【巡音ルカ】 crystal mic (short ver.) 【レンオリジナル】
+http://www.nicovideo.jp/watch/nm6316836
+bestgtさん　クリスタルPのcrystal micの、ルカ カバーバージョン
+【インスト】一部初音ミクが「Eclipsion」を歌いやがった【オリジナル】
+http://www.nicovideo.jp/watch/sm6315199
+よだれP　コーラスにミク
+----
+新着より　Unizon MELTの人が杏あめ氏の曲をリミックス　バトルどころか硝煙漂ってるｗ
+【初音ミク】 Unizon Over Drive 【本家+Remix+α】
+http://www.nicovideo.jp/watch/sm6312543
+----
+新着
+【鏡音リンPV】リンカーネーションHD【オリジナル】
+http://www.nicovideo.jp/watch/sm6318617
+プラグアウトなどのPVを作った人　設定ミスっていたので上げなおしたらしい　ガッ
+----
+ぼからんが来てないところに大変なにですが「月刊大人の都合3月号」アップしましたー。
+月刊大人の都合 3月号【VOCALOID 名誉の除外ランキング＆名誉の除外検定】
+http://www.nicovideo.jp/watch/sm6319417
+特集は「名誉の除外検定」です。よろしければ見てやってください。
+----
+453 名前： ◆isakuPIdV. [sage] 投稿日：2009/03/03(火) 05:39:11 ID:iTE7PTf60
+自貼りです
+【巡音ルカ】 水の女神 【オリジナル】by 遺作P
+http://www.nicovideo.jp/watch/sm6319889
+初ルカです。フラメンコ調です。
+----
+週刊VOCALOIDランキング　#74
+http://www.nicovideo.jp/watch/sm6319063
+----
+毎時から。ボカロじゃないがぼかりす並の衝撃を覚えたので貼っとく
+「midiで音声を表現するテスト」
+http://www.nicovideo.jp/watch/sm6280081
+----
+
+*2chつべ板本スレ【&aname(663,option=nolink){663}】にて紹介された動画
+http://pc11.2ch.net/test/read.cgi/streaming/1235894102/
+・まとめ
+|&nicovideo(http://www.nicovideo.jp/watch/sm6301251){200,110}大好評|&nicovideo(http://www.nicovideo.jp/watch/sm6304843){200,110}大好評|&nicovideo(http://www.nicovideo.jp/watch/sm6305408){200,110}GonGossさん/じわじわ評判|
+[[「MEIKO新曲ランキング#42、#43」>http://www.nicovideo.jp/watch/sm6304804]]　[[「KAITO新曲ランキング#56」>http://www.nicovideo.jp/watch/sm6304355]]　[[「月刊VOC@LOIDランキング　2月(2009)増刊号」>http://www.nicovideo.jp/watch/sm6307413]]　[[「週刊VOCALOID-PVランキング ～2009年3月1日」>http://www.nicovideo.jp/watch/sm6309283]]
+----
+可愛かったので貼り
+【巡音ルカ】トエト【ネコPV】
+http://www.nicovideo.jp/watch/sm6296167
+----
+ではお言葉に甘えて
+【作業用BGM】初音ミク NONSTOP DANCE MIX Vol.3【妨害用？】
+http://www.nicovideo.jp/watch/sm6302863
+23曲80分仕様のノンストップメドレー第3弾です　よろしくお願いします
+----
+31 名前：宇宙帝国P[] 投稿日：2009/03/01(日) 17:15:47 ID:KoSEDgLj0
+前スレで、中高生が共感できる歌詞がよい、的な話があったと思うんだけど、今回それをすごく実感してる。まぁ、共感とか言う前に曲も歌詞もそんな威張れるようなものでもないけれども。ラブソングだけどおそらく女子中高生は共感できないと思う。
+初音ミク／ちょこれーと／オリジナル曲
+http://www.nicovideo.jp/watch/sm6290723
+サムネは借り物ですごくかわいいのだけど。
+----
+新着から
+◆初音ミク◆黄昏サーカス◆ＰＶ◆
+http://www.nicovideo.jp/watch/sm6301251
+名無しさん　ネジPの同名曲のPV　手書風3Dというか…？
+----
+新着より。バラード系。
+鏡音レンでオリジナル曲21 「One-sided love」
+http://www.nicovideo.jp/watch/nm6296363
+----
+764 名前：名無しさん＠お腹いっぱい。[sage] 投稿日：2009/03/01(日) 15:03:22 ID:49R+2r8U0
+≫そんなことよりdanchoPが字幕なし版のTOXICを公開してたぜ！
+【ネタ☆MAD2nd】ののワ_TOXIC
+≫http://www.nicovideo.jp/watch/sm6298277
+≫熱くなるならこっちで熱くなろうぜ！
+----
+スレの流れを切ってすみません。カバー曲ですが、自貼り失礼致します。
+【川嶋あい】旅立ちの日に…【初音ミクカバー】
+http://www.nicovideo.jp/watch/sm6300774
+よろしくお願いします。
+----
+では依頼の方を…。条件は　「レインボーダー」・「ドキドキ♪ハートチューン」みたいなまぁ…、つまるところロリ声だ。この前不覚にもロリ声に癒されたもんで。
+VOCALOIDはミクかリンで、再生数は50k↓くらいで。ただ歌詞そのものはあまりロリロリしていないというか…、例えば恋歌で相手の呼び方が「お兄ちゃん」とかは出来れば勘弁で頼みたい。更に言うと上記２曲みたいな、ロリ声に更にAuto-Tuneとかかけてケロらせた奴があればなお良いかな。
+http://pc11.2ch.net/test/read.cgi/streaming/1235894102/n130-150
+http://pc11.2ch.net/test/read.cgi/streaming/1235894102/n174-185
+----
+「ダンサム」のカニミソPさんの新作。カバーだそうだけど元ネタ知りません……。
+【巡音ルカ】Beautiful Sunrise【英語詞】
+http://www.nicovideo.jp/watch/sm6303920
+----
+今北産業社歌　とかそんなのだれかつくってなかったっけ？
+http://pc11.2ch.net/test/read.cgi/streaming/1235894102/n195-200
+----
+おや
+マイリスト マイリスト
+http://www.nicovideo.jp/mylist/2618517
+----
+すみません空気読まず自張りします。　
+【巡音ルカ】核のボタンを16連打【オリジナル曲】ロングバージョン
+http://www.nicovideo.jp/watch/sm6303979
+----
+ついでにこっちもよろしくお願いします。
+鏡音レンきゅんが口笛でメドレーを吹いてくれました【Pデビュー1周年】
+http://www.nicovideo.jp/watch/sm6295859(既出)
+----
+Ann使いで有名なandromecaさん（脳内Annの人）の新曲きてたぁぁぁ
+巡音ルカ with Sweet Ann オリジナル曲 『ナバスカイ』
+http://www.nicovideo.jp/watch/sm6301733
+----
+新着
+MEIKO新曲ランキング#42、#43
+http://www.nicovideo.jp/watch/sm6304804
+----
+ボカロオリジナル曲のフォークソングってないかな？うちの親父の好みに合わせた曲を流したら反応してくれるかなと思って。
+http://pc11.2ch.net/test/read.cgi/streaming/1235894102/n290-305
+----
+演歌はもっと欲しいけど作る人が少ない…
+http://pc11.2ch.net/test/read.cgi/streaming/1235894102/n301-307
+----
+去年の11月からルカ祭り前まででマイリス500以下目安でこれは！というものを。あんまり機械的な感じなものより打ち込みでもいいので生楽器由来の音を使ってるオケが好みです。完成度よりもメロディの良さ優先で。ボカロの種類は問いませんがミクの四つ打ちとバラード以外でお願いします。
+http://pc11.2ch.net/test/read.cgi/streaming/1235894102/n315
+http://pc11.2ch.net/test/read.cgi/streaming/1235894102/n356-364
+http://pc11.2ch.net/test/read.cgi/streaming/1235894102/n381-396
+----
+MMD2Blenderテスト、亞北ネルでBe My Self、白目修正版です。
+PMD_and_VMDimporter_to_blenderテスト動画【亞北ネルでBe My Self】
+http://www.nicovideo.jp/watch/sm6305336
+----
+新着
+【初音ミクPV】 プラグアウト 【オリジナル】
+http://www.nicovideo.jp/watch/sm6304843
+かっこええ！
+----
+日刊VOCALOIDランキング 2009年3月1日 #385
+http://www.nicovideo.jp/watch/sm6306045
+----
+KAITO新曲ランキング#56
+http://www.nicovideo.jp/watch/sm6304355
+----
+これですかい
+【H.264】 P-MODEL - 2D OR NOT 2D（画質向上版） 【鏡音レン・KAITO他】
+http://www.nicovideo.jp/watch/sm3857287
+やる気のないアレンジでミクに歌わせた2曲の既存曲+1（特別読み切り編）
+http://www.nicovideo.jp/watch/sm3195429
+----
+久々のGonGossさん。
+【初音ミク】苛★イラDAyS#4Ｎe【オリジナル】
+http://www.nicovideo.jp/watch/sm6305408
+…何があった
+----
+ふっ、にゃぽとか全く誘いの無い自分には関係ないぜ……
+他貼り。英語ライブラリで「【巡音ルカ】恋のミクル伝説【カバー】」
+http://www.nicovideo.jp/watch/sm6298547
+意外と上手い
+----
+【リンレン】双子があの歌を知ったようです。よ。【KAITO・がくぽ】
+http://www.nicovideo.jp/watch/sm6187460
+たまらP殿堂入りオメ！
+----
+新着
+a Beautiful Snow【巡音ルカオリジナル】
+http://www.nicovideo.jp/watch/nm6304886
+初投稿かな？　>自分のBMS曲にボーカル入れてみました。
+【巡音ルカ】KALUISM【オリジナル】
+http://www.nicovideo.jp/watch/sm6303851
+ネハンシカP
+----
+今月大幅に遅れる可能性がある＆ボーダー上がりまくりなので、50～31位の増刊作りました。
+月刊VOC@LOIDランキング　2月(2009)増刊号
+http://www.nicovideo.jp/watch/sm6307413
+中途半端ですみません。
+----
+うっかりこんなものまである。KAITO廃の自分が思わず目を逸らすほどきもかった
+【KAITO】アイスにこのあふれる想い伝えたい
+http://www.nicovideo.jp/watch/sm5430249
+----
+宇宙電波受信Pの曲の歌詞はなんかやっちゃってるかも　発音のやり方が独特すぎてまったく聞き取れないので害はないのだけど、他のPのアレンジだと歌詞がわかってしまって怖さが増してしまう。
+【鏡音レン】「沼の中」【オリジナル】
+http://www.nicovideo.jp/watch/sm2491294
+【初音ミクオリジナル】Speed Cake
+http://www.nicovideo.jp/watch/sm5607557
+【宇宙電波受信P】ぬらり【プーチンP】
+http://www.nicovideo.jp/watch/sm5059693
+【KAITOコラボオリジナル】透明なコーヒー
+http://www.nicovideo.jp/watch/sm2506684
+----
+【MikuMikuDance】お絵描きツールなるものを作ってみた
+http://www.nicovideo.jp/watch/sm6307242
+画像ファイルを読み込んで表示する物体を公開
+----
+とりあえずこれを貼っておきますね
+PK-ぱんつくいこむ
+http://www.nicovideo.jp/watch/sm3448397
+----
+しまったおまはやorz　検索してみたら宇宙電波受信Pの新作来てた。プーチンPとのコラボ
+【サイコパズル】【プーチンＰ】　hot wave realized【宇宙電波受信Ｐ】
+http://www.nicovideo.jp/watch/nm6306509
+----
+じゃあ未出の和み系を
+【クトゥルカ】うみのるかさん【替え歌】
+http://www.nicovideo.jp/watch/sm6245869
+----
+これはここで言われてる狂気とは違うのかな？
+「ブーメラン病」を初音ミクに歌ってもらった
+http://www.nicovideo.jp/watch/sm2403793
+「飲酒運転」を初音ミクに歌わせてみた
+http://www.nicovideo.jp/watch/sm1827960
+----
+自貼り失礼します。
+【鏡音リンオリジナル曲】 勇気の翼 【FANKS DYNA-MIKUs】
+http://www.nicovideo.jp/watch/sm6307591
+ご視聴・コメントよろしくお願い致します。
+----
+支離滅裂な狂気というほどではないかも知れないが、これなどは、ややそうした雰囲気があるのではないか。
+千々石ミゲル友の会のテーマ【鏡音リン】【オリジナル】
+http://www.nicovideo.jp/watch/sm2587006
+----
+S県月宮検索したらミクでもあったw
+【初音ミク】お兄ちゃんどいて！そいつ殺せない！【フルコーラス】
+http://www.nicovideo.jp/watch/sm3424216
+----
+新着から
+【初音ミクオリジナル曲】 I can not say good-bye
+http://www.nicovideo.jp/watch/sm6303528
+バファリンPことOBAさん　さわやか卒業ソング
+【巡音ルカ】 I'N'OTHERS 【オリジナル】
+http://www.nicovideo.jp/watch/nm6305970
+G9Fried@GRMさん　＞と言う夢を見たお話。
+----
+【クトゥルカ】しょごすのうた【替え歌】
+http://www.nicovideo.jp/watch/sm6114268
+----
+新着他貼り
+【どう見ても】ホワイトニング【巡音ルカ】
+http://www.nicovideo.jp/watch/sm6308351
+アニメーターP　ミクトロニカ界の若干P的存在だと思う
+----
+週刊VOCALOID-PVランキング ～2009年3月1日
+http://www.nicovideo.jp/watch/sm6309283
+----
+自貼り失礼します。
+【LEON】Pop Keyboard
+http://www.nicovideo.jp/watch/sm6309542
+よかったらお試しを。
+----
+朝から自貼り失礼します
+ロシュの限界【レンオリジナル曲】
+http://www.nicovideo.jp/watch/sm6308738
+「年上の女性との背徳の恋」 を 14歳シンガーが鬼プレイヤー5人をしたがえてスタジオライブで熱唱 みたいなのです。
+----
+【巡音ルカ】いとしあの星
+http://www.nicovideo.jp/watch/sm6309767
+こがうたP、満州を舞台にした映画の主題歌カバー
+【初音ミク】 Resonant 【オリジナル曲】
+http://www.nicovideo.jp/watch/sm6309765
+あかやかP、不思議な感じの曲
+----
+演奏してみただけど
+鮮紅ノ龍啼ク箱庭拠リ(初音ミク) バイオリンで弾かせていただきました。
+http://www.nicovideo.jp/watch/sm6307491
+炉心融解をバイオリンで弾いていた人の　相変わらず凄い
+----
+音声合成大辞典2009 Part1/7
+http://www.nicovideo.jp/watch/nm6309972
+1年前とは言っても、リンレン発売されて定着した後だし今とそんなに変わらない気がすると思っていたんだが思った以上にいろいろあったんだな、前の動画と比べるとそれぞれの待遇がかなり変わってきてるｗ
+----
+【初音ミク】 clear veil 【オリジナル】
+http://www.nicovideo.jp/watch/sm6306989
+yusukePの新曲、ポップなハウス
+----
+【巡音ルカ】「警報！ぷるるん指令☆覚醒版」オリジナル曲
+http://www.nicovideo.jp/watch/sm6310930
+natsuP エロいwww
+----
+夏完成予定【 ミ ク ア ニ メ 】
+http://nicovideo.jp/watch/sm6057340
+完成版作ることにしたらしい。おまはや？
+----
+【初音ミク・鏡音リン・巡音ルカ】　スワン　【アヒル軍曹P×kalP】
+http://www.nicovideo.jp/watch/sm6309520
+モテ曲（当社比） マイリス率17.5％
+【ギロカクたん】Nonsense(Long version)【カバー】
+http://www.nicovideo.jp/watch/sm6307870
+しまぱんP 相変わらずネタ元にあわせた調声
+----
+ところで仕事の愚痴を吐くのに良い曲て何かありますでしょうか　しねばいいのにとうろたんだーしか思いつかないのです
+http://pc11.2ch.net/test/read.cgi/streaming/1235894102/n775-792
+----
+PIAPRO(ピアプロ)|音楽「斜陽」
+http://piapro.jp/content/tpui4mt4apunajgl
+----
+やわらかくて可愛い曲調/ミクかリン/再生15万以下でおすすめお願いします
+http://pc11.2ch.net/test/read.cgi/streaming/1235894102/n898-902
+http://pc11.2ch.net/test/read.cgi/streaming/1235894102/n941
+----
+スレ終盤ですがぼか路地で素敵なＰＶ見つけたので
+【鏡音リン】Ｄｏｌｌｓに絵をつけてみました【リベンジしました】
+http://www.nicovideo.jp/watch/sm6303370
+以前にＰＶ作成された寅いちさんのリベンジ版 手描きの柔らかな線や色彩が素敵です
+----
+
+*2chつべ板本スレ【&aname(662,option=nolink){662}】（実質）にて紹介された動画
+・まとめ
+|&nicovideo(http://www.nicovideo.jp/watch/sm6290477){200,110}mantaP/好評|&nicovideo(http://www.nicovideo.jp/watch/nm6293384){200,110}MineKさん/好評|&nicovideo(http://www.nicovideo.jp/watch/sm6298794){200,110}鼻そうめんP/好評|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6299069){200,110}話題/※ツアー形式で長い|&nicovideo(http://www.nicovideo.jp/watch/sm6293443){200,110}松原P/じわじわ好評|&nicovideo(http://www.nicovideo.jp/watch/sm6292301){200,110}じわじわ好評|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6295318){200,110}■P/じわじわ好評|&nicovideo(http://www.nicovideo.jp/watch/sm6296495){200,110}マイコP/じわじわ好評|
+[[「RANKIN' MMD 2009年2月号」>http://www.nicovideo.jp/watch/sm6298022]]　[[「VOCALOIDオリジナル曲ランキング外伝ⅩⅥ」>http://www.nicovideo.jp/watch/sm6298874]]
+----
+【オリジナル曲】 リンリンロック 【鏡音リン】
+http://www.nicovideo.jp/watch/sm6286210
+----
+【鏡音レン】鏡音レンの暴走 描いてみた【1番まで】
+http://www.nicovideo.jp/watch/sm6292301
+諸事情で一番までらしいが、ハイクオリティなPVが来てた。
+----
+THE IDOLM@STER chihaya@relations -les animaux remix
+http://www.nicovideo.jp/watch/sm6258401
+この動画のryoはsupercellのryoなのか?
+----
+神ＰＶ来た
+【初音ミク】Dragoon ３DCG image video
+http://www.nicovideo.jp/watch/sm6290477
+----
+因みに、作ろうと思ってるのは2Dオンリー　ところどころヌルヌル動くアニメーション　ところどころFLASHアニメみたいに絵がそのまま横にスライドするアニメーション　そんな感じで作ろうと思ってる　理想↓「ロンリーハート」
+【初音ミク】ロンリーハート -PV付-【オリジナル】
+http://www.nicovideo.jp/watch/sm5553836
+----
+【鏡音レン】POP・POP【オリジナル曲】
+http://www.nicovideo.jp/watch/sm6288691
+聴いてもらえたら喜びます。
+----
+ボカロ漫画を動画にしていただきました
+【初音ミク】「ハツネ・ザ・ミック」第四話【アナログ漫画】
+http://www.nicovideo.jp/watch/sm6293443
+右手折って、サイト版一月作業停止中orz
+----
+遅レスだけどFLASHみたいな動画作りたいなら
+suzukaでつくってもいいんじゃないかなあ
+無料で手描きMAD②【ｽｸﾛｰﾙ・ｽﾞｰﾑ・回転・暗転】
+http://www.nicovideo.jp/watch/sm2443017
+手描きMAD講座　Suzukaで静止画を動かしてみた　その2
+http://www.nicovideo.jp/watch/sm6174268
+----
+つ VMDimporter
+ギロカクたんがBeMyselfを練習しているようです。
+http://www.nicovideo.jp/watch/sm6167413
+【初音ミク】BeMYSELF【Blender x MMD】
+http://www.nicovideo.jp/watch/sm6052810
+----
+ＩＳＡＯさんのモデルですね。あれも良い。
+初音ミクにキンゲダンスを踊ってもらった(画質改善版)
+http://www.nicovideo.jp/watch/sm1107811
+こちらのミクさんも好きだったけど、初期から新しいのは
+出ていないです。
+----
+なかなかこっちに来ないので貼っておきますね
+609 名前： 名無しさん＠お腹いっぱい。 [sage] 投稿日： 2009/02/28(土) 21:52:23 ID:wB4GcDJI0
+日刊VOCALOIDランキング 2009年2月28日 #384
+http://www.nicovideo.jp/watch/sm6294640
+----
+日刊のbかなりいいと思うんだが埋もれそうだなぁ…修正前もあんま伸びてないし
+【初音ミク】snow believe(修正版)【オリジナル/音源のみ】
+http://www.nicovideo.jp/watch/sm6281003
+----
+新着
+鏡音リン オリジナル 『 silence eater 』
+http://www.nicovideo.jp/watch/nm6292133
+英語で歌うリン
+【初音ミク】オリジナル　『徒花　－アダバナ－』 -Japanesque mix-
+http://www.nicovideo.jp/watch/sm6291997
+カップラーメンP　リミックス
+----
+新着から
+【巡音ルカ】 Moonlight 【オリジナル】
+http://www.nicovideo.jp/watch/nm6293384
+MineKさん
+初音ミク◆えれくとろん◆オリジナル
+http://www.nicovideo.jp/watch/sm6293293
+vanzzさん　テクノ系を2曲
+----
+新着
+初音ミク『プラチナ』-shin'in future Mix-
+http://www.nicovideo.jp/watch/sm6293950
+10日Pの曲を U-skePがアレンジ
+----
+では。今日（正確には2/29なんですが今年はないんで）で自分がPデビューしてから一年が過ぎましたのでその記念というわけではないですが自分が作った動画を再ミックスしてメドレーにしてみました。ここまで続けられたのもひとえに視聴してくださる皆さんのおかげです。よろしくお願いします。
+一周年なので鏡音レンきゅんが口笛メドレーを吹いてくれました【FF9他】
+http://www.nicovideo.jp/watch/sm6295859
+----
+新着
+【祝誕生日】KAITOでオリジナル曲「Nowhere Love」
+http://www.nicovideo.jp/watch/sm6295318
+■Ｐのごっさかっこいい酒うまジャズ曲
+----
+おお■P！この人のKAITOは低音もよく響くし調教すごく上手いんだけど、いまいち伸びないんだよな　ついでに一番お気に入りのこれを貼っておこう
+KAITOとMEIKOでLIVE A LIVE「鳥児在天空飛翔 魚児在河里遊泳」
+http://www.nicovideo.jp/watch/sm4577409
+----
+初音ミク３ＤＰＶ「♪ロンドンデリーの歌」フルＶｅｒ
+http://www.nicovideo.jp/watch/sm6295911
+　　　r'^'Ｅｭﾆ=y'广´￣⌒ヽﾆ二丁¨TT丶､
+　　 （　　　　　| |　　　　 　　　　 | 　LL____}　
+　　　L　　　_,人|─-､　　 　　　｜　　　　ﾉ
+　　　　｀¨¨´ 　 ﾊ. 　 ト----‐ｧ介l　　　 /
+　　　　　　　　/　} 　 |　 　　/ / | |　 　ﾉ介ー'ＴY＾'ー､
+　　　_＿, ィ'"´＞'ｰ､ |　 　 〈_辷.|　|__ノﾉ'⌒￣￣厂|´＼＿
+　r'彡'___{_{￣´　　　ﾉ　　　　　　 ＼.辷二二二ニ|__∟＿＿,>
+／ええい。あともうちょっと・・・もうちょっとなんだ！＼
+----
+08/07/29 20:30 投稿
+【鏡音レンACT2】悪ノ召使【中世物語風オリジナル(再・修正版)】
+http://www.nicovideo.jp/watch/sm4119128
+ミリオンも近いレン曲、ACT2の方も殿堂入りおめ
+----
+こちらもお忘れ無く
+ドッPの初音ミク「しろいそら」をPC-6601で再現してみた
+http://www.nicovideo.jp/watch/sm4712651
+----
+それではお言葉に甘えて！
+MEIKOでaiko「milk」【1番まで】
+http://www.nicovideo.jp/watch/sm6296495
+音量バランスなどいろいろ不安なので（特に息継ぎのバランスとか）気になるところなどあったら何でもコメントいただけると嬉しいです！
+----
+新着
+【初音ミク】自由帳【オリジナル曲】
+http://www.nicovideo.jp/watch/sm6296095
+梨本P
+----
+横から自張りする卑しいMMDユーザーでございます…
+お許し下さいませお代官様
+【MikuMikuDance】RANKIN' MMD 2009年2月号【MMDランキング】
+http://www.nicovideo.jp/watch/sm6298022
+----
+ありがとうございます；；
+【巡音ルカ】My sweet darlin' 【矢井田瞳カヴァー】
+http://www.nicovideo.jp/watch/sm6297971
+----
+新着
+今宵同じ空の下で　【初音ミク オリジナル】
+http://www.nicovideo.jp/watch/sm6297993
+レイターP　シリアスでダークな世界は相変わらず
+【MikuMikuDance】予餞会♪
+http://www.nicovideo.jp/watch/sm6297833
+ネコ耳P　おなじみボカロ軽音部が名曲アレンジに挑戦
+----
+もいっちょ新着から
+【初音ミク】やふうでぐぐれ-full edit-【オリジナル】
+http://www.nicovideo.jp/watch/sm6298471
+猫虫P　迷曲のフルver.　それにしてもこのサムネ…
+----
+【巡音ルカ】Higher Flyer【英語歌詞】
+http://www.nicovideo.jp/watch/sm6298586
+拙い曲ですがよろしくお願いしますm(_ _)m
+----
+ぺぺろんPのカゲフミ続編ｋｔｋｒ
+KAITOオリジナル「カギロヒ」
+http://www.nicovideo.jp/watch/sm6298588
+----
+528 名前： ◆isakuPIdV. [sage] 投稿日：2009/03/01(日) 07:17:23 ID:3i8dlntD0
+VOCALOIDオリジナル曲ランキング外伝ⅩⅥ
+http://www.nicovideo.jp/watch/sm6298874
+ボカラン#70以降の弾かれた曲多数です
+----
+【初音ミク】YOUTHFUL DAYS' GRAFFITI【オリジナル】
+http://www.nicovideo.jp/watch/sm6298794
+いつもと違う鼻そうめんP
+----
+自張り、逃げ！
+MMDからBlenderへのインポーターのテストBe My Self
+ttp://www.nicovideo.jp/watch/sm6299693（削除）
+----
+歪P、2つ目の殿堂入りおめ　08/05/30 17:00 投稿
+【リンレンオリジナル曲】白黒病棟【疾走悪夢】
+http://www.nicovideo.jp/watch/sm3490404
+----
+めい★みくの人だね　zoomeにも上げてたはず
+初音ミク3ＤＰＶ「時をかける少女」原田知世カバーH264／920Kbps
+http://www.nicovideo.jp/watch/sm5622702
+この動画にマイリスト載ってる
+----
+すいません、新曲を自貼りさせてください（＞＜
+【鏡音リン】恋のマーブルケミカル【オリジナル・ＰＶ付】
+http://www.nicovideo.jp/watch/sm6298342
+----
+初音ミクも歌う、くまうた『希少価値』
+http://www.nicovideo.jp/watch/sm1085162
+ここに書いてあった
+----
+では失礼して…
+【オリジナル】そんな季節に【MEIKO】
+http://www.nicovideo.jp/watch/sm6300027
+カバーメインでやっていますがオリジナルを作ってみました　よろしくお願いします
+----
+【初音みく】手袋の歌【オリジナル】
+http://www.nicovideo.jp/watch/nm5141274
+はふーＰ 冬曲
+【初音ミク】わたしのおうち【オリジナル】
+http://www.nicovideo.jp/watch/sm6023356
+めんどくさいP　童謡
+【有限要素法】流体体積法－自由表面流れ
+http://www.nicovideo.jp/watch/sm6294471
+AnsysEDの解析　第三弾
+----
+初音ミクオリジナル SOU*
+http://www.nicovideo.jp/watch/nm6298689
+AVTechNOさんのSOU*
+----
+新着
+【初音ミク】　サキソラ　【オリジナル曲】　
+http://www.nicovideo.jp/watch/sm6297739
+≫一人ぼっちになったミクちゃんが立ち直るまでの様子を描いた青春動画です。
+【初音ミク】割箸女-ワリバシオンナ-【今更カバー←】
+http://www.nicovideo.jp/watch/sm6298916
+←P　やたらせつない　一体何人目の感染者なんだ…
+----
+ポップン×ボーカロイド３【手書きパロ】
+http://www.nicovideo.jp/watch/sm6290464
+以下456
+ポップン×ボーカロイド４【手書きパロ】
+http://www.nicovideo.jp/watch/sm6290954
+ポップン×ボーカロイド５【手書きパロ】
+http://www.nicovideo.jp/watch/sm6291211
+ポップン×ボーカロイド６【手書きパロ】
+http://www.nicovideo.jp/watch/sm6291605
+きてた
+----
+前スレ終了間際に貼っちゃったので、こちらにも失礼致します。
+【鏡音リン】　初恋　【オリジナル15】
+http://www.nicovideo.jp/watch/sm6290818（既出）
+最初はピアノオンリーですが、後半で盛り上がるようにしたつもりです。イラストも可愛いんで、聴いて頂けたら幸いです。
+----
+【鏡音リン・レン】NICO★PARA【重音テト】
+http://www.nicovideo.jp/watch/nm6299130
+怒涛のスピードケトラP。これにて小休止だそうです
+----
+新着
+[巡音ルカ]たこルカ デス・スター～After Story～
+http://www.nicovideo.jp/watch/sm6291270
+BB素材使用のMAD　感動のラストがだいなし
+----
+なんか恐ろしく長いシリーズが
+Vocaloid動画全リスト【2007年09月】 1/4
+http://www.nicovideo.jp/watch/sm6299069
+≫.2007年09月にニコ動に投稿されているVocaloid動画のリスト。　※20分超
+Vocaloid動画全リスト【2007年09月】 2/4
+http://www.nicovideo.jp/watch/sm6299157
+Vocaloid動画全リスト【2007年09月】 3/4
+http://www.nicovideo.jp/watch/sm6299316
+Vocaloid動画全リスト【2007年09月】 4/4
+http://www.nicovideo.jp/watch/sm6299687
+※それぞれ30分超
+----
+07年8月までの分も一応あるみたい
+Vocaloid動画全リスト【2007年08月まで】
+http://www.nicovideo.jp/watch/sm5556895
+が、どう考えてもえらいことになるね
+----
+とりあえず、マイリス支援してみた。
+Vocaloid動画全リスト
+http://www.nicovideo.jp/mylist/11307969
+----
+新着からカバー曲
+【唄 アンコ・スイート】 マネー, ピンク・フロイド ( Money, Pink Floyd )
+http://www.nicovideo.jp/watch/sm6299645
+あぶパ(Abzonally Park)さん
+----
+しっぽたん殿堂入りおめ
+超簡単！電子レンジで出来る本格生キャラメルレシピ！
+http://www.nicovideo.jp/watch/sm6238612
+今日気づいたんだがこれっておまはや？
+----
+
+*2chつべ板本スレ【&aname(661,option=nolink){661}】（実質）にて紹介された動画
+http://pc11.2ch.net/test/read.cgi/streaming/1235655627/
+・まとめ
+|&nicovideo(http://www.nicovideo.jp/watch/sm6285946){200,110}評判|&nicovideo(http://www.nicovideo.jp/watch/sm6249299){200,110}おればななP/話題|&nicovideo(http://www.nicovideo.jp/watch/sm6287580){200,110}ここ狭いP/じわじわ好評/&br()ミニアルバム形式4曲同時リリース&br()[[「Todays」>http://www.nicovideo.jp/watch/sm6287634]]/[[「蜀犬吠日」>http://www.nicovideo.jp/watch/sm6287668]]/[[「アッバンドーノ」>http://www.nicovideo.jp/watch/sm6287717]]|
+----
+【初音ミク】ぽっぴっぽーＰＶ【飲もう！】
+http://www.nicovideo.jp/watch/sm5993253
+【初音ミク】【オリジナル曲「スターダスト トレイン」】
+http://www.nicovideo.jp/watch/sm6156401
+----
+これならスレ違いじゃない…と思う
+グレンラガンをミクレンリンでwith東方　【手書ＭＡＤ】
+http://www.nicovideo.jp/watch/sm2970778
+----
+じゃあちょっと新着張りしていきますね
+【初音ミク】snow believe(修正版)【オリジナル/音源のみ】
+http://www.nicovideo.jp/watch/sm6281003
+風景画サムネが白を基調としたシンプルサムネにパワーアップ（？）　MIDIの字もタイトルからなくなってるけど今度は伸びるかなあ
+----
+再生が伸び悩んでいる神曲達に殿堂入りしてもらいたい
+http://pc11.2ch.net/test/read.cgi/streaming/1235655627/n106
+----
+長細Pがルカ出してもやっぱり長細Pなので安心した
+初音ミクPV「ありがとうございます、微笑ビデオ!」
+http://www.nicovideo.jp/watch/sm6281005（既出）
+----
+グレンラガン→中島かずき（脚本・構成）→劇団☆新感線　というわけで、これを貼ってみる
+【KAITO】メタル演歌～七光り三度笠～【メタルマクベス】
+http://www.nicovideo.jp/watch/sm4866225
+----
+新着
+【鏡音リンPV】リンカーネーションHD【オリジナル】
+http://www.nicovideo.jp/watch/sm6283217
+【鏡音リンPV】ねえもしもし、わすれちゃったよ、そんなこと
+http://www.nicovideo.jp/watch/sm6279439
+再うpなのかな？PV2作
+----
+【初音ミク】article showcase【オリジナル】
+http://www.nicovideo.jp/watch/sm6263689
+----
+新着
+【初音ミク】オリジナル曲『OVERDRIVE-arrange ver.-』
+http://www.nicovideo.jp/watch/nm6283516
+杏あめさん
+【ボカロと】にほんむかし（？）ばなし（？）【ゆっくりさんの】
+http://www.nicovideo.jp/watch/sm6283116
+（´・ω・`）やあP　紙芝居系
+----
+これを貼れと言われた
+初音ミクオリジナル　（ ＾ω＾）おっおっ オバマ！！
+http://www.nicovideo.jp/watch/sm5266212
+----
+【巡音ルカオリジナル】　filozofio　【ロシア語ルカ】
+http://www.nicovideo.jp/watch/sm6276806
+毎時にいた曲。凄くかっこよくていいんだけどマイリス開いて腹筋崩壊したんだがどうしてくれるんだ！ｗ
+----
+ちょっとここらで俺の切実な思いの丈を語るか　頑なPはもっと評価されるべきだと思う、そして活動再開して欲しい
+【オリジナル】vocaloider 1.0　| Meiko
+http://www.nicovideo.jp/watch/sm3174862
+他にこういうブラックミュージック系のクリエイターが作ったような曲ってある？
+----
+新着あさってたらみつけた。いかにもストリークP
+初音ミクがプロ野球のユニフォーム着て踊るだけの動画
+http://www.nicovideo.jp/watch/sm6284320
+----
+なつかしいな
+初音ミク「粉雪」をゲーム風にしてみた
+http://www.nicovideo.jp/watch/sm1962015
+----
+【巡音ルカ】　PEACEMAKER　【オリジナル】
+http://www.nicovideo.jp/watch/sm6281126
+境界線　の 青幇P前の曲1500近いけどまだマイリス率10％↑なんだな
+----
+採れたて、深夜の新着便ですよぉ
+【初音ミク】 宇宙みかん 【オリジナル】
+http://www.nicovideo.jp/watch/sm6285946
+歌詞が面白いｗ　それだけじゃなく深みがあってなかなか良かったよ。あとみかん星人だった。
+----
+【｜ω・)｡oO(初音ミク)】　トエト
+http://www.nicovideo.jp/watch/sm6249299
+おればななP　少し大人っぽく
+【｜ω・)｡oO(鏡音レン)】　トエト
+http://www.nicovideo.jp/watch/sm6205579
+同じくおればななP
+----
+ところで「ひとしずく」というと、こっちが思い浮かぶんだよね　ひとしずくP紛らわしい＞＜
+【オリジナル】ひとしずくを初音ミクに歌ってもらった
+http://www.nicovideo.jp/watch/sm3007408
+----
+≫670のついでにピアプロ行ったらニコにない黒うさPのルカ曲があったので貼り
+PIAPRO(ピアプロ)|音楽「はなむけ（巡音ルカ」
+http://piapro.jp/content/s2z0vj0s5ngb5he6
+----
+【初音ミク】神様はいない【オリジナル曲＆PV】
+http://www.nicovideo.jp/watch/sm6287184
+ろりん動画作りました！何度もうｐってエンコやり直しました…高画質にするの難しいorz
+----
+新着から
+きみのほし （鏡音リン オリジナル曲）
+http://www.nicovideo.jp/watch/sm6281743
+ベーコンP
+----
+OKと踏んで。
+【初音ミク】 プリズムの夜 (オリジナル)
+http://www.nicovideo.jp/watch/sm6287975
+----
+それでは失礼します、異界堂Worksの桐生です（ω）
+【巡音ルカ】夜想月譚－朔月夜＜むげん＞【オリジナル】
+http://www.nicovideo.jp/watch/sm6286645
+今回は歌ではなくナレーション作品となりますが、企画物のイントロダクションという事で今後の展開を楽しみにしてもらえると幸いです。
+----
+新着から　ここ狭いPがミニアルバム的なことやっとるぞー！
+【鏡音レン・オリジナル曲】モノトニー
+http://www.nicovideo.jp/watch/sm6287580
+【鏡音レン・オリジナル曲】Todays
+http://www.nicovideo.jp/watch/sm6287634
+【鏡音レン・オリジナル曲】蜀犬吠日
+http://www.nicovideo.jp/watch/sm6287668
+【鏡音レン・オリジナル曲】アッバンドーノ
+http://www.nicovideo.jp/watch/sm6287717
+まとめ
+マイリスト キミ　ボク　フォッサマグナ
+http://www.nicovideo.jp/mylist/11286727
+サムネが地味に戻ってるが
+----
+【MikuMikuDance】 俯いた花 PV ショート版 【MMD】
+http://www.nicovideo.jp/watch/sm6287466
+昨日投稿だけどまだ貼られてないよね？
+----
+新着貼り
+【鏡音リン・レン】Neverland Symphony【オリジナル曲】
+http://www.nicovideo.jp/watch/nm6286182
+ケトラＰボカロ３作目来てた
+----
+【初音ミク】見知らぬ雲見知らぬ街【オリジナル】
+http://www.nicovideo.jp/watch/sm6215306
+うみねこPのおまけが面白いの結局日刊載り損ねたか…支援貼り
+----
+ちょっと検索依頼してもいいか？歌詞とサビのメロディは解るのに曲のタイトルがわかんないんだ
+ひとつ目　流れて行く 時の中で 人は悩み 立ち止まって～
+ふたつ目　溢れる涙はちゃらちゃちゃちゃちゃらちゃら～
+本スレ民ならわかると信じてる、頼む
+http://pc11.2ch.net/test/read.cgi/streaming/1235655627/n774 (正解)
+http://pc11.2ch.net/test/read.cgi/streaming/1235655627/n782-803
+----
+NMMだったらエコノミータイムなんてないんだから＞＜　というのも運営の罠なんだろうか　可愛い新着一つ貼っていきますね
+【鏡音レン・リン】この愛よりも､もっと…【オリジナル曲】
+http://www.nicovideo.jp/watch/nm6289482
+----
+自貼り失礼します。前作で微エロなリン曲と言っておきながら、アウト判定を喰らったので今回は清純極まりない曲をＵＰしました。
+鏡音リン「初恋」
+http://www.nicovideo.jp/watch/sm6290818
+最初はピアノだけですが、後半で盛り上がるようにしたつもり～　ＰＶ風イラストもあるよ！
+----
+feat.巡音ルカのお勧めは？て聞かれたんだがどうしよう。週刊vocaloidで30位以内に入ってない辺りで答えようと思うとなんか厳しいんだ。助けてくれ
+http://pc11.2ch.net/test/read.cgi/streaming/1235655627/n955-968
+http://pc11.2ch.net/test/read.cgi/streaming/1235655627/n983-986
+----
+くまうた(196) 『のこの』 唄：白熊カオス
+http://www.nicovideo.jp/watch/sm6283114
+師匠まさかのトエトカバー参戦ｗ
+----
+
+----
+これより前の[[【過去ログ】>http://www19.atwiki.jp/vocaloidosusume/tag/%E6%9C%AC%E3%82%B9%E3%83%AC%E3%81%BE%E3%81%A8%E3%82%81]]
+&aname(ブログパーツ,option=nolink)
+#flash(http://bokasachi.natsu.gs/blog_part/vocaran.swf,height=300,width=180)
+&link_anchor(TOP){【上に戻る】}
+----
+※このwikiにURLを載せたくない時は「のせないでー」と一言レスに書いておくか、URLを貼る時htまで抜いてください 
+※うろ覚えですがスレで５回以上見たことがあるおまはやは外しています 
+※まとめマイリスの人とこのページのまとめ人は別人です。掲載の基準も少し違います 
+※まとめの基準はレスの数です　じわじわ好評：3～4　好評：5～9　大好評：10～ 大体こんな感じ。ボカロに関係ないものはまとめでピックアップしていません

@@ -1,0 +1,106 @@
+#right(){&furigana(あんめるつP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/4036533" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/4036533">【ニコニコ動画】AnnにメルトでアンメルツP</a></iframe>)|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/20185713" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/20185713">【ニコニコ動画】</a></iframe>)|
+
+**特徴
+作り手名：『&u(){アンメルツP}』
+-2008年2月、「[[Reply:]]」にてボカロPデビュー。
+-使用合成音声は、Sweet Ann初音ミク、鏡音リン・レン、MEIKO、KAITO、巡音ルカ。
+-作る曲のジャンルはユーロビート・ロック・J-POPなどと幅広い。
+-オリジナル曲が中心だが、他にもカバー曲やアレンジ曲を投稿する場合もある。中には音ゲーネタもあり。
+-元のアーティスト名は&b(){ISD}。
+-現在のP名の由来は「[[【SweetAnnが歌う】メルト（HAPPYアレンジ）【One More Melty】>http://www.nicovideo.jp/watch/sm2370217]]」から。
+-毎年、初音ミクの生誕祭には&b(){VOCALOMANIA SPEED}と題したメドレー動画を投稿しており、鏡音誕生祭では&b(){RINLENMANIA}と題したメドレー動画を投稿している。
+
+**リンク
+-[[G.C.M -Game Crosses Music-（作者ブログ）>>http://www.gcmstyle.com/]]
+-[[PIAPRO（ISD＠アンメルツP）>>http://piapro.jp/chart190]]
+-[[muzie>>http://www.muzie.co.jp/cgi-bin/artist.cgi?id=a053693]]
+-[[YouTube>>http://www.youtube.com/user/GCMRecords]]
+-[[Twitter>>http://twitter.com/gcmstyle]]
+
+**曲
+#list_by_tagsearch(アンメルツP,sort=furigana2,errmsg=まだ曲が登録されていません。,and,100)
+
+**CD
+#list_by_tagsearch(アンメルツPCD,sort=furigana2,errmsg=まだCDが登録されていません。,and,100)
+
+**動画
+***オリジナル曲
+|&nicovideo(sm2268579)|&nicovideo(nm3156015)|
+|&nicovideo(sm3536810)|&nicovideo(sm3994803)|
+|&nicovideo(sm5348580)|&nicovideo(sm5861268)|
+|&nicovideo(sm5997265)|&nicovideo(sm6991834)|
+|&nicovideo(sm7917679)|&nicovideo(sm8671041)|
+|&nicovideo(sm8742589)|&nicovideo(sm9148741)|
+|&nicovideo(sm9558648)|&nicovideo(sm10097388)|
+|&nicovideo(sm10172028)|&nicovideo(sm11194611)|
+|&nicovideo(sm11422421)|&nicovideo(sm11584103)|
+|&nicovideo(sm12119656)|&nicovideo(sm12719663)|
+|&nicovideo(sm12827257)|&nicovideo(sm13422797)|
+|&nicovideo(sm14638852)|&nicovideo(sm15523673)|
+|&nicovideo(sm15892617)|&nicovideo(sm16259424)|
+|&nicovideo(sm17308586)|&nicovideo(sm17638203)|
+|&nicovideo(sm17781738)|&nicovideo(sm18051457)|
+|&nicovideo(sm18606242)|&nicovideo(sm20259039)|
+|&nicovideo(sm20394574)|&nicovideo(sm20676087)|
+|&nicovideo(sm20785977)|&nicovideo(sm21521770)|
+|&nicovideo(sm21747941)|&nicovideo(sm21857857)|
+|&nicovideo(sm22657541)|&nicovideo(sm22792960)|
+|&nicovideo(sm22844846)|&nicovideo(sm22936870)|
+|&nicovideo(sm23375710)|&nicovideo(sm23555148)|
+|&nicovideo(sm23764472)|&nicovideo(sm23982107)|
+|&nicovideo(sm24023544)|&nicovideo(sm24768420)|
+|&nicovideo(sm25526692)|&nicovideo(sm25621571)|
+|&nicovideo(sm25809522)|&nicovideo(sm26064579)|
+|&nicovideo(sm27885010)|&nicovideo(sm29356162)|
+|&nicovideo(sm29395405)|&nicovideo(sm29418063)|
+|&nicovideo(sm29673850)|&nicovideo(sm29706909)|
+|&nicovideo(sm29745759)|&nicovideo(sm30271496)|
+|&nicovideo(sm30440392)|&nicovideo(sm31208013)|
+|&nicovideo(sm31591860)|&nicovideo(sm31831131)|
+|&nicovideo(sm32321415)|&nicovideo(sm32482954)|
+|&nicovideo(sm32662872)|&nicovideo(sm32777968)|
+|&nicovideo(sm33373855)|&nicovideo(sm33399171)|
+|&nicovideo(sm33794668)|&nicovideo(sm34478745)|
+***カバー
+|&nicovideo(sm2370217)|&nicovideo(sm2452804)|
+|&nicovideo(nm3792624)|&nicovideo(nm4016622)|
+|&nicovideo(sm4539594)|&nicovideo(sm6152008)|
+|&nicovideo(sm7686752)|&nicovideo(sm7886965)|
+|&nicovideo(sm8240383)|&nicovideo(sm15044625)|
+|&nicovideo(sm17548198)|&nicovideo(sm19375836)|
+|&nicovideo(sm21659472)|&nicovideo(sm21801900)|
+|&nicovideo(sm23828655)|&nicovideo(sm24240827)|
+|&nicovideo(sm24691233)|&nicovideo(sm26163182)|
+|&nicovideo(sm26938649)|&nicovideo(sm27134598)|
+|&nicovideo(sm28106227)|&nicovideo(sm31199205)|
+|&nicovideo(sm32521633)|&nicovideo(sm33525786)|
+|&nicovideo(sm33700817)|>|
+***VOCALOMANIA SPEED（高速ノンストップメドレー）
+|&nicovideo(sm4466346)|&nicovideo(sm8078428)|
+|&nicovideo(sm11940002)|&nicovideo(sm15466545)|
+***RINLENMANIA（ノンストップメドレー）
+|&nicovideo(sm5665423)|&nicovideo(sm8908195)|
+|&nicovideo(sm9205972)|&nicovideo(sm13137924)|
+|&nicovideo(sm16531502)|&nicovideo(sm19679093)|
+|&nicovideo(sm21374986)|&nicovideo(sm22536122)|
+|&nicovideo(sm25209757)|&nicovideo(sm27877738)|
+|&nicovideo(sm30306078)|&nicovideo(sm32482233)|
+|&nicovideo(sm34377927)|>|
+
+**関連タグ内の更新履歴
+#region(close,関連タグ内の更新履歴)
+関連タグ内の更新履歴
+※「アンメルツP」「アンメルツPCD」タグ内で最近編集やコメントのあった記事を新しい方から10件表示しています。
+#list_by_tagsearch(アンメルツP,アンメルツPCD,sort=timestamp,sort2=desc,errmsg=まだ曲、CDが登録されていません。,or,10)
+#endregion
+
+**コメント
+- あれ？Sweet Androidとか消えてる…  -- 名無しさん  (2009-06-11 04:40:43)
+- 偽りの勇者、偽りのセカイいい曲なのになんであんまりのびないんだろ  -- 名無しさん  (2012-10-16 00:40:53)
+- ここには載ってないけど、幼馴染っていう曲が好きです。  -- 不明P  (2015-05-18 23:32:23)
+#comment()

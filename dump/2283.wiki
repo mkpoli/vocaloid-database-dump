@@ -1,0 +1,22 @@
+#right(){&furigana(きま) &furigana()【登録タグ:&tags() 】}
+
+
+**特徴
+-体験版を駆使して作り上げている新進気鋭のP（2008年9月現在）。
+-調教のクオリティは、体験版ながらも高い。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/ma_unsk]]
+
+**曲
+#list_by_tag(鬼魔,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(鬼魔CD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/nm4524080){340,185}|&nicovideo(http://www.nicovideo.jp/watch/nm4562223){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/nm4584241){340,185}||
+
+**コメント
+#comment()

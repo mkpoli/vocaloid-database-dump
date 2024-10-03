@@ -1,0 +1,17 @@
+#right(){【登録タグ:&tags()】}
+//↑タグ忘れ防止のための表示
+曖昧さ回避のためのページ
+----
+-[[otetsu]]の曲
+--[[graduation/otetsu]]
+-[[カラオケP]]の曲
+--[[Graduation/カラオケP]]
+-[[ナナミP]]の曲
+--[[Graduation/ナナミP]]
+-[[あべぜいりP]]の曲
+--[[graduation/あべぜいりP]]
+
+-[[mao sasagawa]]のCD
+--[[Graduation/CD]]
+
+#include(曖昧さ回避の追加の仕方/告知)

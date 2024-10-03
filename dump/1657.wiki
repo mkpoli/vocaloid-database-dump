@@ -1,0 +1,44 @@
+#right(){&furigana(うたとら) &furigana()【登録タグ:&tags() 】}
+#amazon(B0015NS5DK)
+
+&nicovideo(sm1909994)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){ウタトラ}|CENTER:[[こちら、幸福安心委員会です。]]|
+
+|&bold(){[[うたたP]]}|[[orange>orange/作り手]]|
+
+発売：2008年3月6日（一般発売）、2008年2月6日（先行発売）
+価格：￥1,890（税込）
+流通：全国
+レーベル：AKIBA RECORDS
+
+**CD紹介
+-うたたPことt.Komineのボーカロイドアルバム。インディーズ・レーベル AKIBA RECORDS より発売。
+-全国発売の1ヶ月前には、AKIBA RECORDS 限定で1000枚の先行発売が行われた。
+-タイトルの通り、トランス曲を多数収録した1枚となっている。
+-VOCALOIDを使用したCDで全国流通されたのは、クリプトン公式CD『[[星のカケラ]]』を除けば、このCDが初めてのケースである。
+
+**曲目
++不在の女神 -utatata-Trance 02-
++Fall in Love
++Let me kiss you, I feel nothing.
++utatata-Trance -Original mix-
++[[Stratoshpere>ストラトスフィア]]
++Hi-tension -utatata-Trance 03-
++[[Ad Astra>アド・アストラ]]
++Stratosphere -Tararira remix-
++Don't stop, just go !
++Stratosphere -omake remix-
++[[コいネコ]] feat. 鏡音リン
++Electro-Voice feat. 鏡音レン
+
+**リンク
+-[[AKIBA RECORDS>>http://akiba.records.jp/uta-tora.html]]
+-[[作者ホームページ>>http://tkomine.com/]]
+
+**コメント
+- 買います。stratoshere  -- 前原圭一  (2008-11-23 10:20:27)
+- むぅ。欲しいなぁ・・・  -- 北条悟史  (2009-05-03 18:51:28)
+- 買いました  -- cosMo＠暴走P  (2013-08-07 19:13:42)
+#comment

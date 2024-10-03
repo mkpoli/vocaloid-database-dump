@@ -1,0 +1,32 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+#image(http://karent.jp/npdca/583_20101117002236_0240_0240.jpg,http://prq.blog44.fc2.com/blog-entry-4.html,title=P∴Rhythmatiq act:01,blank) 
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){P∴Rhythmatiq act:01}|CENTER:[[七色リミックス]]|
+
+|&b(){[[Aether_Eru]]}|&b(){[[ノア(Noah)]]}|&b(){[[ゆうP]]}|
+
+|流通|CENTER:即売|CENTER:同人|CENTER:配信|
+|発売|>|CENTER:2008年9月23日|CENTER:2010年12月8日|
+|価格|CENTER:￥500|CENTER:￥630（税込）|CENTER:￥600 / 1曲￥150|
+|サークル|>|>|CENTER:P∴Rhythmatiq|
+
+**CD紹介
+-Aether_Eru、ゆう、Noahの3人から成る音楽集団&b(){P∴Rhythmatiq}（プリズマティック）の1stシングル。
+-ジャケットイラストは、しろ。
+
+**曲目
++[[Melodia]]　　作曲・作詞：Aether_Eru
++[[Snow Promenade]]　　作曲・作詞：ゆう
++Jewel　　作曲・作詞：Noah
++Melodia (without miku ver.)
++Snow Promenade (without miku ver.)
++Jewel (without miku ver.)
+
+**リンク
+-[[P∴Rhythmatiqのブログ>>http://prq.blog44.fc2.com/blog-entry-4.html]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/16/30/040010163005.html]]
+-[[KarenT>>http://karent.jp/album/583]]
+
+**コメント
+#comment

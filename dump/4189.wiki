@@ -1,0 +1,47 @@
+#right(){&furigana(げりP) &furigana()【登録タグ:&tags() 】}
+
+**特徴
+-2008年前半から登場、文部省唱歌や童謡・合唱曲などのカバーを投稿している。2009年2月から巡音ルカ、2009年12月からは歌愛ユキ・その他重音テトなどUTAUを使った投稿作品もある。
+-オリジナル曲は、容易にトイレにいけない環境、たとえば電車の走行中や授業中などでキャラが下痢を我慢するというシチュエーションを描写するものが多い。（作者は「下痢系作品」としている）
+-それ以外のオリジナル曲も、下ネタやそれに近いネタ曲が多い。また3拍子を好みとしているようである。
+-カバー曲は童謡・唱歌が中心である。
+-その一方で替え歌・いわゆる店内ソングやポピュラーソングのカバーなどジャンルは複数にわたる。
+-なお、読み方は「下痢プロデューサー」なのか「下痢ピー」なのかは不明。
+
+**リンク
+-[[ピアプロ>>http://piapro.jp/nikke001]]
+
+**曲
+#list_by_tag(下痢P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(下痢PCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+&bold(){下痢系オリジナル曲}
+|&nicovideo(http://www.nicovideo.jp/watch/sm3312132)|&nicovideo(http://www.nicovideo.jp/watch/sm3330018)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3379424)|&nicovideo(http://www.nicovideo.jp/watch/sm3406213)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4117204)|&nicovideo(http://www.nicovideo.jp/watch/sm4428926)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4448948)|&nicovideo(http://www.nicovideo.jp/watch/sm5309976)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6033474)|&nicovideo(http://www.nicovideo.jp/watch/sm6380401)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7172279)|&nicovideo(http://www.nicovideo.jp/watch/sm8381009)|
+
+&bold(){非下痢系オリジナル曲}
+|&nicovideo(http://www.nicovideo.jp/watch/sm3265538)|&nicovideo(http://www.nicovideo.jp/watch/sm3281183)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7304038)|&nicovideo(http://www.nicovideo.jp/watch/sm7839179)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6210216)|&nicovideo(http://www.nicovideo.jp/watch/sm8030847)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3281064)|&nicovideo(http://www.nicovideo.jp/watch/sm6420809)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm8464702)|&nicovideo(http://www.nicovideo.jp/watch/sm9061648)|
+
+&bold(){カバー曲（主な曲）}
+|&nicovideo(http://www.nicovideo.jp/watch/sm8457511)|&nicovideo(http://www.nicovideo.jp/watch/sm7830405)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7228035)|&nicovideo(http://www.nicovideo.jp/watch/sm7180959)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7153323)|&nicovideo(http://www.nicovideo.jp/watch/sm7083222)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4889665)|&nicovideo(http://www.nicovideo.jp/watch/sm9108976)|
+
+**コメント
+- 最近ついに漏らしたな  -- あ  (2009-10-21 11:39:13)
+- ↑↑くそわろたww  -- い  (2012-01-08 14:49:53)
+- まとめてあったのか・・・  -- う  (2013-07-30 17:42:17)
+//- 　　　　　　　　　　　　　　  -- 　　　　　　　　　　　　　　　　  (2019-12-01 09:37:15)
+#comment()

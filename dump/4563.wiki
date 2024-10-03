@@ -1,0 +1,175 @@
+#right(){&furigana(しきいきのうた)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm6244656)|
+作詞：[[よだれだよ>よだれP（島白）]]
+作曲：[[島白>よだれP（島白）]]
+編曲：[[島白>よだれP（島白）]]
+唄：[[でって音イウ>初音ミク]]
+
+**曲紹介
+曲名：『&u(){識閾の唄}』(&u(){しきいきのうた})
+-「[[無垢のための子守唄]]」と同じく、よだれ語で歌われている。向こうは無垢へ、こっちは無垢からの唄らしい。
+-壮大でファンタジーな世界観がある。
+
+**歌詞
+（[[動画>>http://www.nicovideo.jp/watch/sm6244656]]より書き起こし）
+
+Ei wi sin fo soa woneu
+誰かのために歌おう
+
+Vie cem e koam mein
+心穏やかに
+
+Ei sin zatu cyan row ie chadoa
+いつか届いた時に
+
+Wen toan miedi sun tei
+やっと向かい合える気がするから
+
+Wer in vie ti fer
+世界は鮮やかで
+
+En wer in jen ti wear
+世界は温かくて
+
+Des tinei lesen rath lesen
+憤りの辿り着く先は憤り
+
+Phine rie endoar tu nei
+それが今になってわかった
+
+Sow en da leiz noari
+音は新しく産まれ
+
+Sow en cun zaw
+外れて
+
+Sow en in tu nei
+調律されて
+
+Tu esi win vi lei yer da gei
+またありのままの唄を奏でるだろう
+
+Ei wi sin fo soa woneu
+誰かのために歌おう
+
+Vie cem e koam mein
+心穏やかに
+
+Ei sin zatu cyan row ie chadoa
+いつか届いた時に
+
+Wen toan miedi sun tei
+やっと向かい合える気がするから
+
+Ei wi sin fo soa woneu
+誰かのために歌おう
+
+Vie cem e koam mein
+心穏やかに
+
+Ley yer za ti qie vien vueti fer
+目に映るもの全てが
+
+Ou vizi lei sin
+綺麗でいられるように
+
+Wer in vie ti fer
+世界は鮮やかで
+
+En wer in jen ti wear
+世界は温かくて
+
+Lo sin to ser de mie
+私を取り巻いていた全てのモノ
+
+Lo tie fo ley du arie
+緩やかに流れる全ての時間
+
+Folow dis pei za noeti eni wera
+何処でもないこの場所から
+
+Rey nou chen foa lo tei
+いつまでも変わらないように願っている
+
+Ei wi sin fo soa woneu
+誰かのために歌おう
+
+Vie cem e koam mein
+心穏やかに
+
+Eva nif bea lie dir ley for
+どんなに深い雨が流れても
+
+Clow pasiz son tei
+その内雲は過ぎるから
+
+Ei wi sin fo soa woneu
+誰かのために歌おう
+
+Vie cem e koam mein
+心穏やかに
+
+Eva belie sadee nuli sin gie
+どんなにありふれた事でも
+
+Salie her fo yu
+きっと手を差し伸べてくれるから
+
+Ei wi sin fo soa woneu
+誰かのために歌おう
+
+Vie cem e koam mein
+心穏やかに
+
+Ei sin zatu cyan row ie chadoa
+いつか届いた時に
+
+Wen toan miedi sun tei
+やっと向かい合える気がするから
+
+Lo sin to ser de mie
+私を取り巻いていた全てのモノ
+
+Lo tie fo ley du arie
+緩やかに流れる全ての時間
+
+Folow dis pei za noeti eni wera
+何処でもないこの場所から
+
+Rey nou chen foa lo tei
+いつまでも変わらないように願っている
+
+Lo sin to ser de mie
+私を取り巻いていた全てのモノ
+
+Lo tie fo ley du arie
+緩やかに流れる全ての時間
+
+Folow dis pei za noeti eni wera
+何処でもないこの場所から
+
+Rey nou chen foa lo tei
+いつまでも変わらないように願っている
+
+Gown bei
+さようなら
+
+Enti mie ti again
+また会える時まで
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+**コメント
+- よだれ教に入信しそうなくらい好きだ！  -- 潔  (2009-03-20 00:28:05)
+- よだれ語すき  -- 名無しさん  (2009-03-24 11:19:31)
+#comment()
+
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)

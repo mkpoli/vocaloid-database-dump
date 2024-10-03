@@ -1,0 +1,32 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+#image(http://www004.upp.so-net.ne.jp/dcweb/info/absolute.jpg,title=Absolute BLue,http://www004.upp.so-net.ne.jp/dcweb/absolute/,blank)
+
+|CENTER:本作|CENTER:次作|
+|CENTER:&bold(){Absolute BLue}|CENTER:[[Last Drop>Last Drop]]|
+
+|&b(){[[だあくP]]}|
+
+||CENTER:即売|CENTER:同人|
+|CENTER:発売|CENTER:2008年1月13日|CENTER:2008年1月13日|
+|CENTER:価格|CENTER:￥500（税込）|CENTER:￥746（税込）|
+|CENTER:サークル|>|CENTER:DARK CASTLE|
+
+**CD紹介
+-サークル「DARK CASTLE」の初音ミクCD・第一弾。メディアはCD-R。
+-作詞を高木誠、作曲をベルネイジが担当している。
+-主にユーロビート、バラード、ポップス系。
+-ボーナストラックとして、収録曲を自らアレンジしたインスト曲が収められている。
+
+**曲目
++Darling!!
++儚幻
++Absolute BLue
++果てなき道を
++果てなき道を -remix-（インスト曲）
+
+**リンク
+-[[DARK CASTLE>>http://www004.upp.so-net.ne.jp/dcweb/]]
+-[[とらのあな特設ページ>>http://www.toranoana.jp/mailorder/cit/pagekit/0000/01/45/0000014555/]]
+
+**コメント
+#comment()

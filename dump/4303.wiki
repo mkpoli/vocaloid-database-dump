@@ -1,0 +1,34 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[NEXT (Ver.i) feat. 初音ミク]]|CENTER:&bold(){Looking for}|CENTER:[[愛の翼-Eternal song- feat. 初音ミク]]|
+
+|&bold(){[[そそそP]]}|
+
+>&b(){ジャケットイラスト：[[meola]]}
+
+発売：2009年2月22日
+価格：￥500
+流通：即売
+サークル：S-TRIBE
+
+**CD紹介
+-そそそP初のイベント頒布CD。ボーマス７にて頒布される。
+-巡音ルカの楽曲として人気を博した『[[Looking for]]』『[[Change the world]]』『[[Walk your way]]』の3作を収録。
+-ボーマス７当日は同スペースにて meola氏のイラスト集も頒布される。
+
+**曲目
++[[Looking for]]
++[[Change the world]]
++[[Walk your way]]
++Looking for (Instrumental)
++Change the world (Instrumental)
++Walk your way (Instrumental)
++[[Looking for (English version)>Looking for]]
+
+**リンク
+-[[STYLE.S ボーマス７情報ページ（SHUN氏ホームページ）>>http://www.s-style.tv/wp/archives/274]]
+-[[S-TRIBE（作者ホームページ）>>http://www.s-tribe.net/]]
+-[[PIAPROリンク>>http://piapro.jp/product/?id=b560ss89]]
+
+**コメント
+#comment

@@ -1,0 +1,48 @@
+#right(){&furigana(えろあきP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/4714887" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/4714887">【ニコニコ動画】マイリスト</a></iframe>)
+
+**特徴
+作り手名：『&u(){えろあきP}』
+-爽やかで可愛らしい曲に定評がある。「[[忘れられた街]]」のようなシリアスな曲調も守備範囲。
+-[[ぺぺろんP]]とは高校時代からの友人。[[No.D]]とも友人関係。
+-作る曲はえろくない（ランキング除外になるような曲もない）が、実はえろい。
+-↑という路線だったが、「[[そんなのダメダメっ☆]]」という曲で遂にやらかしました。(6/30投稿)
+
+**リンク
+-[[作者ブログ（めろでぃらいん）>>https://ameblo.jp/melodyline53/]]
+-[[PIAPRO>>https://piapro.jp/eroaki]]
+
+**曲
+#list_by_tag(えろあきP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(えろあきPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+-&bold(){オリジナル曲}
+|&nicovideo(sm2148507)|&nicovideo(sm2651293)|
+|&nicovideo(sm3058096)|&nicovideo(sm3299605)|
+|&nicovideo(sm3771281)|&nicovideo(sm3787073)|
+|&nicovideo(sm4212531)|&nicovideo(sm4257692)|
+|&nicovideo(sm4610127)|&nicovideo(sm6091528)|
+|&nicovideo(sm6162432)|&nicovideo(sm7491054)|
+|&nicovideo(sm7561624)|&nicovideo(sm8062860)|
+|&nicovideo(sm8706456)|&nicovideo(sm9266767)|
+|&nicovideo(sm9706699)|&nicovideo(sm11705261)|
+|&nicovideo(sm13116555)|&nicovideo(sm17575434)|
+
+
+-&bold(){アレンジ曲}
+|&nicovideo(http://www.nicovideo.jp/watch/sm5370285)|&nicovideo(http://www.nicovideo.jp/watch/sm6467640)|
+|&nicovideo(sm10150684)|>|
+
+**コメント
+- えろあきＰは、絶対もっと評価されてもいい曲がいっぱいある。みんなもったいないよっ！私はえろあきＰの前向きソング大好きです！  -- おせんべい  (2011-10-05 22:00:37)
+- 私はえろあきPの下ネタ曲大好きです！  -- 名無しさん  (2013-02-20 01:51:18)
+- 説明吹きました。 えろあきさんの愛ある下ネタ好きです。  -- 名無しさん  (2013-03-30 20:05:08)
+- えろあきさん好きだなぁ。面白い  -- ぽぽっぽ  (2014-05-31 18:14:37)
+#comment()

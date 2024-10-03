@@ -1,0 +1,32 @@
+#right(){&furigana(minaoきほうP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/5652894" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/5652894">【ニコニコ動画】minaoの成長（？）記録</a></iframe>)|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/24644349" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/24644349">【ニコニコ動画】</a></iframe>)|
+
+**特徴
+作り手名：『&u(){minao（希望P）}』(&u(){みなお きぼうP})
+-透き通るような曲を作るP
+-物語的で優しく切ない歌詞が多い
+-ウインドチャイムが好きらしい（[[starry world>starry world/minao（希望P）]]作者コメより）
+
+**リンク
+-[[+ Pastel Vitamin +（作者ホームページ）>>http://pastel-v.com/]]
+-[[muzie>>http://www.muzie.co.jp/cgi-bin/artist.cgi?id=a045449]]
+-[[ピアプロ>>http://piapro.jp/minao]]
+-[[KarenT>>http://karent.jp/artist/pp000042]]
+
+**曲
+#list_by_tagsearch(minao（希望P）,sort=furigana2,errmsg=まだ曲が登録されていません。,and,100)
+
+**CD
+#list_by_tagsearch(minao（希望P）CD,sort=furigana2,errmsg=まだCDが登録されていません。,and,100)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm2659016)|&nicovideo(http://www.nicovideo.jp/watch/sm4405887)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5305357)|&nicovideo(http://www.nicovideo.jp/watch/sm5539536)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm13986132)||
+
+**コメント
+#comment()

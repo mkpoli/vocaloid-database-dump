@@ -1,0 +1,62 @@
+#right(){&furigana(さわさわP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/7203631" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/7203631">【ニコニコ動画】YMO（Yandere Miku Orchestra）</a></iframe>)
+
+**特徴
+作り手名：『&u(){ざわざわP}』
+-アーティスト名は&bold(){Kamiyanagi}。
+-[[菩薩P]]の教え子の一人。ミクのヤンデレソングに定評のあるミク使い。
+-ミク以外ではKAITO、リンレン、ルカも使用。
+-偶数曲はホラーになるという法則がある。細い声にすることで、不安感や恐怖感の演出に一役買っている。
+-ホラー・ヤンデレソング以外にも普通の曲はあるので、猟奇表現が苦手な人はそちらもどうぞ。
+
+**リンク
+-[[ニコニコ>>https://www.nicovideo.jp/user/391234]]
+-[[PIAPRO（Kamiyanagi）>>https://piapro.jp/Kamiyanagi]]
+-[[Twitter>>https://twitter.com/Kamiyanagi]]
+-[[作者ブログ>>https://kamiyanagi.jugem.jp/]]
+
+**曲
+#list_by_tag(ざわざわP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(ざわざわPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**オリジナル曲
+|&nicovideo(sm2407696)|&nicovideo(sm3659702)|
+|&nicovideo(sm3976559)|&nicovideo(sm4188043)|
+|&nicovideo(sm4326674)|&nicovideo(sm4543146)|
+|&nicovideo(sm5206504)|&nicovideo(sm6107122)|
+|&nicovideo(sm6540208)|&nicovideo(sm9038329)|
+|&nicovideo(sm12029065)|&nicovideo(sm12411931)|
+|&nicovideo(sm13660181)|&nicovideo(sm17887795)|
+|&nicovideo(sm18243126)|&nicovideo(sm18380482)|
+|&nicovideo(sm18529058)|&nicovideo(sm20187579)|
+|&nicovideo(sm22007484)|&nicovideo(sm22166649)|
+|&nicovideo(sm25052808)|&nicovideo(sm25257015)|
+|&nicovideo(sm26876732)|&nicovideo(sm29788620)|
+|&nicovideo(sm31108697)|&nicovideo(sm32651601)|
+|&nicovideo(sm34278840)|&nicovideo(sm35622187)|
+|&nicovideo(sm36138532)|&nicovideo(sm38011608)|
+|&nicovideo(sm39410492)|>|
+
+**カバー曲
+|&nicovideo(sm5274543)|&nicovideo(sm8170754)|
+|&nicovideo(sm9464493)|&nicovideo(sm27649772)|
+
+**コメント
+- 元ネタは福本作品  -- 名無しさん  (2010-09-09 12:24:12)
+- ↑Ｐ名がね  -- 名無しさん  (2011-02-01 10:08:18)
+- アルジャノーンに、花束を。が個人的には神曲で大好きです＾＾  -- ミヤ  (2011-03-10 18:42:16)
+- 私も「アルジャノーンに花束を」が一番好きです…(°ω°)ノ  -- 夏雪  (2011-07-28 20:06:21)
+//- 封印  -- かこめかこめ  (2012-04-20 15:55:55)
+- かこめかこめが一番好きです！  -- 名無しさん  (2012-04-24 18:18:17)
+- かこめかこめ大好きです！かごめかごめはいろんな説がありますね！  -- 現実拒否  (2012-09-18 21:10:21)
+//- 「ダルマ少女はパパのいうことを聞くか」の歌詞はないんですか？  -- 名無しさん  (2013-09-23 21:55:21)
+//- ↑俺もその曲大好きです！  -- 名無しさん  (2014-01-18 09:17:18)
+- シザーロイド作った人って…かこめかこめの人だったのか  -- ぽっぴぽっぽー  (2017-06-13 14:45:26)
+- だるま少女(略)が1番好き　ざわざわさんって女の人かな　なんかそんなイメージ  -- 名無しさん  (2020-02-08 17:33:24)
+#comment()

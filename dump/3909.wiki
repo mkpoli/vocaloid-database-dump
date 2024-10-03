@@ -1,0 +1,41 @@
+#right(){&furigana(DjAQ)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/38467321" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/38467321">A.Q.ボカロリスト</a></iframe>)|&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/1020620" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/1020620">玄米坊P RMX List</a></iframe>)|
+
+**特徴
+作り手名：『&u(){Dj A.Q.}』
+-新進気鋭のトランスクリエイター。
+-11、2才の頃から音楽制作を始め、海外の有名ゲームメーカーからその才能を認められ様々な楽曲を提供。
+-2001年「DJ Lizz」としての活動を開始。
+-トランス界の権威「System-F」の楽曲に感銘を受け、トランスクリエイターとなる。
+-投稿はゲーム・アニメ楽曲のRemixがメインだったが、ボカロ業界にもオリジナル楽曲「[[Unlimited Skies]]」で参戦。
+-アーティスト名は「dj Aura Qualic」
+
+**リンク
+//-[[作者ホームページ（A.Q.-Sounds）>>http://www.auraqualic-sounds.com/]]
+-[[ニコニコ>>https://www.nicovideo.jp/user/143538]]
+-[[YouTube>>https://www.youtube.com/user/AuraQualic]]
+//-[[旧 YouTube チャンネル>>https://www.youtube.com/user/djaq000arkadian]]（更新停止中）
+-[[Twitter>>https://twitter.com/auraqualic]]
+
+**曲
+#list_by_tag(Dj A.Q.,100,sort=furigana)
+
+**CD
+#list_by_tag(Dj A.Q.CD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm1224917)|&nicovideo(sm1230548)|
+|&nicovideo(sm4160253)|&nicovideo(sm5607079)|
+|&nicovideo(sm5603474)|&nicovideo(sm8618953)|
+|&nicovideo(sm16753118)|&nicovideo(sm19335915)|
+|&nicovideo(sm19539870)|&nicovideo(sm21558591)|
+|&nicovideo(sm21792755)|&nicovideo(sm22274274)|
+|&nicovideo(sm22381416)|&nicovideo(sm22654097)|
+|&nicovideo(sm23470495)|>|
+
+**コメント
+#comment()

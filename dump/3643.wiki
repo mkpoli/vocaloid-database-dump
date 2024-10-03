@@ -1,0 +1,39 @@
+#right(){&furigana(はいねけんP) &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/5331867" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/5331867">【ニコニコ動画】tradd music</a></iframe>)
+
+**特徴
+-心地よく中毒性のあるエレクトロニカ曲が魅力的なP。
+
+**リンク
+-[[作者ブログ>>http://d.hatena.ne.jp/mister_walker/]]
+
+**曲
+#list_by_tag(ハイネケンP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(ハイネケンPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm2171427)|&nicovideo(http://www.nicovideo.jp/watch/sm2383221)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3032576)|&nicovideo(http://www.nicovideo.jp/watch/sm3825844)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5087269)|&nicovideo(http://www.nicovideo.jp/watch/sm5237746)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7317837)|&nicovideo(http://www.nicovideo.jp/watch/sm7756470)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm8071572)|&nicovideo(http://www.nicovideo.jp/watch/sm8913959)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9390931)|&nicovideo(http://www.nicovideo.jp/watch/sm11272194)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12641749)|&nicovideo(http://www.nicovideo.jp/watch/sm13224245)|
+
+
+**コメント
+- だれかNeedle Nectarを…  -- 名無しさん  (2009-11-20 22:07:48)
+- ↑かいてみた、曲紹介なにもかけなくてすまん  -- 名無しさん  (2010-01-21 16:15:15)
+- ハイネケンPの曲って、頭の無音が短くてnonstopmusicみたいに聞けるからイイ  -- 名無しさん  (2010-01-21 16:37:28)
+- 勝手ながら、いくつか曲ページを作らせていただきました。あとこのページの編集も。しくしくは何て書けばいいのかわかんなくてorz  -- 名無しさん  (2010-01-21 17:39:39)
+- 曲のスタイルを貫く人って格好良い。  -- 名無しさん  (2010-03-21 12:31:37)
+- 新曲きてたよ！  -- 名無しさん  (2010-10-06 20:13:08)
+- おお！  -- 名無しさん  (2010-11-16 21:13:06)
+- 新曲きたああああああああああああああああ（ｒｙ  -- 名無しさん  (2010-11-16 21:48:27)
+- Airarenicがこない…  -- 名無しさん  (2011-08-08 10:03:00)
+- この人の歌詞がすごく好きなんだよなあ  -- 名無しさん  (2013-01-18 21:12:34)
+- 新曲きたよー2月22日Alamp やっぱり良かった  -- 名無しさん  (2013-02-27 04:40:15)
+- Alampから。独特で好きだわー。  -- 名無しさん  (2013-10-05 21:40:38)
+#comment()

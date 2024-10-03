@@ -1,0 +1,38 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[SIGNALOID ALBUM]]|CENTER:&bold(){SIGNALOID SOUNDS}|CENTER:[[SIGNALOID BOX]]|
+
+|&bold(){[[シグナルP]]}|[[orange>orange/作り手]]|[[田村ヒロ]]|
+
+||CENTER:即売|CENTER:同人|
+|CENTER:発売|CENTER:2008年9月23日|CENTER:2008年9月23日|
+|CENTER:価格|CENTER:￥1,000|CENTER:￥1,470（税込）|
+|CENTER:サークル|>|CENTER:twinkledisc|
+
+**CD紹介
+-[[シグナルP]]の&bold(){2ndアルバム}。ボーマス5にて初頒布された新作。
+-メディアはプレスCDで、レーベル面やフルカラーブックレット内のイラストは前作同様、[[田村ヒロ]]が担当。
+-オリジナル06～10と番外編02、そして「[[リンリンシグナル]]」Act2版に加え、&br()コンピレーションCD『[[PROMINENT>PROMINENT/CD]]』に提供された「repeated regret」、さらに未発表の新曲を含む全9曲を収録。
+-イベント頒布と同時にD-STAGE、メッセサンオー、メロンブックスおよびとらのあなでの委託販売も行われている。
+-イベント頒布はボーマス7で最後、店頭販売はD-STAGEの在庫分終了と共に廃盤となる（作者サイトより）。
+
+**曲目
++[[CHU！して！]]
++[[Transmit]]
++[[サンドリヨン>サンドリヨン（Cendrillon）]]
++[[ライバル>ライバル/シグナルP]]
++音のリズム♪ &color(red){NEW!}
++[[怪盗KAITO～今宵も君を求めて～]]
++repeated regret
++[[想いをこめて]]
++[[リンリンシグナル ACT.2>リンリンシグナル]]
+
+**リンク
+-[[twinkledisc>>http://twinkledisc.net/]]
+-[[D-STAGE>>http://d-stage.com/shop/detail.php?seq=6909&kw=&from=items]]
+-[[メッセサンオー>>http://www.doujinshop.com/doujin/user_top.cgi?type=music&strings=cd02118]]（販売終了）
+-[[メロンブックス>>http://shop.melonbooks.co.jp/tsuhan/system/list.php?RATED=18&MAKER_FULL=twinkledisc]]（販売終了）
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/16/25/040010162535.html]]（販売終了）
+
+**コメント
+#comment

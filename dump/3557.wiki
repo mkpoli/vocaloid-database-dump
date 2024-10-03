@@ -1,0 +1,44 @@
+#right(){&furigana(GaPOPO)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/7056786" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/7056786">【ニコニコ動画】G@POPO’ｓ MyList</a></iframe>)
+
+**特徴
+作り手名：『&u(){G@POPO}』（&u(){がぽぽ}）
+-王道アイドルポップ、胸キュン哀愁メロディー系に定評があり今後の活躍が気になるP。
+-曲調は B'z・小室などの90's J－POP系サウンドが主。
+-特にB'zの影響が強く、しばし「野生の松本孝弘」タグがついたりする。
+--「テラ松本P」と呼ばれる事もあるが、そちらの定着度は低い。
+-自称「俺はミクの嫁」「ミクは高めの張り上げた声が好きなんです」（作者コメ抜粋）
+-使用ボカロは初音ミク・鏡音リン・巡音ルカ。
+-歌詞に反復を多用するのも特徴。
+-PSPゲームソフト「初音ミク -Project DIVA-」に「キコエテイマスカ・・・」がエディット・エンディング曲として収録。
+--後に「Project DIVA Arcade」にて曲者Pアレンジの「多重未来のカルテット -Quartet Theme-」にてギターを担当。
+-近頃はギタリストとして他のPの楽曲に参加することも多くなってきた。
+
+**リンク
+-[[G@POPOP ■ がぽぽっぷ（作者ブログ）>>http://gapopo.blog43.fc2.com/]]
+//-[[Freesia Farm（サークル）>>http://www.freesiafarm.com/]]
+-[[PIAPRO>>https://piapro.jp/gapopo]]
+-[[YouTube>>https://www.youtube.com/user/gapopo2525]]
+-[[KarenT>>https://karent.jp/artist/pp000335]]
+
+**曲
+#list_by_tag(G@POPO,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(G@POPOCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm3885450)|&nicovideo(sm4739848)|
+|&nicovideo(sm5688758)|&nicovideo(sm5958275)|
+|&nicovideo(sm7506571)|&nicovideo(sm9089862)|
+|&nicovideo(sm9242040)|&nicovideo(sm9886473)|
+
+&bold(){カバー曲}
+|&nicovideo(sm6088061)|&nicovideo(sm7694538)|
+
+**コメント
+#comment()

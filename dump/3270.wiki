@@ -1,0 +1,35 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+#image(http://karent.jp/npdca/1467_20140219200804_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[七色リミックス]]|CENTER:&bold(){P∴Rhythmatiq act:02}|CENTER:[[P∴Rhythmatiq EXTRA]]|
+
+|&bold(){[[Aether_Eru]]}|&b(){[[ゆうP]]}|
+
+|流通|CENTER:即売|CENTER:同人|CENTER:配信|
+|発売|CENTER:2008年11月30日||CENTER:2014年3月7日|
+|価格|CENTER:￥500|CENTER:￥630（税込）|CENTER:\600 / 1曲￥200|
+|サークル|>|>|CENTER:P∴Rhythmatiq|
+
+**CD紹介
+-Aether_Eru、ゆう、Noahの３氏から成るサークル&bold(){P∴Rhythmatiq}（プリズマティック）のセカンドシングル。
+-ボーマス６にて初頒布。
+-今作はNoah氏が不参加となっている。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++カラフルパズルピース / Aether_Eru
++Silver Stars / ゆう
++[[Snow Promenade　-Acoustic mix->Snow Primenade]] / ゆう
++カラフルパズルピース(without miku ver.) / Aether_Eru
++Silver Stars(without miku ver.) / ゆう
++Snow Promenade　-Acoustic mix-(without miku ver.) / ゆう
+
+**リンク
+-[[P∴Rhythmatiq act:02>http://prq.blog44.fc2.com/blog-entry-31.html]]
+-[[P∴Rhythmatiq act:01>http://prq.blog44.fc2.com/blog-entry-3.html]]
+-[[作者ホームページ>http://prq.blog44.fc2.com/blog-category-3.html]]
+-[[KARENT：「P∴Rhythmatiq act:02」>>http://karent.jp/album/1467]]
+
+**コメント
+#comment

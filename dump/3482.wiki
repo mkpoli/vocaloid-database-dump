@@ -1,0 +1,32 @@
+#right(){&furigana(もじょP) &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/8011005" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/8011005">【ニコニコ動画】mylist</a></iframe>)
+
+**特徴
+-ロック曲を中心に発表しているP。
+-くぐもっているようでいながらも伸びやかな調声が印象的。
+-P名は、アーティスト名の&bold(){mojorising}から。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/cardamome]]
+
+**曲
+#list_by_tag(もじょP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(もじょPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm4922954)|&nicovideo(http://www.nicovideo.jp/watch/sm4981880)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5196391)|&nicovideo(http://www.nicovideo.jp/watch/sm5388856)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5599432)|&nicovideo(http://www.nicovideo.jp/watch/sm6357126)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7085927)|
+
+
+**コメント
+- もじょPさん好きです！  -- 名無しさん  (2009-05-13 01:03:01)
+- かっこいいね！とても気に入りました  -- 名無しさん  (2009-08-29 22:38:16)
+- サイコキャンディーの歌詞お願いします  -- ぞう  (2010-08-02 07:55:52)
+- すごく好きです！！！  -- 名無しさん  (2010-09-28 17:18:52)
+- サイコキャンディーのリンクをお願いします  -- 名無しさん  (2011-04-10 16:41:43)
+- じんわりと癖になる  -- 名無しさん  (2011-05-27 18:40:16)
+#comment()

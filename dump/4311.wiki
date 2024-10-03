@@ -1,0 +1,89 @@
+#right(){&furigana(DATEKEN)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/10109173" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/10109173">【ニコニコ動画】自作曲リスト</a></iframe>)|
+
+**特徴
+作り手名：『&u(){DATEKEN}』(&u(){ダテケン})
+-ボカロ業界に参戦したのは2008年10月頃。
+-参戦する以前にもオリジナル楽曲やアレンジCDを作っている。
+-使用合成音声は初音ミク・鏡音リン・鏡音レン・結月ゆかり。
+-4作目の二胡を使った中華曲「[[紡唄 -つむぎうた-]]」が殿堂入りを達成。
+//-今後の活動が期待される作り手の一人。
+-次の曲が殿堂入りを達成している。&br()&list_by_tagsearch(DATEKEN,殿堂入り,sort=furigana,option=nolist,nolistspace=、,100)
+
+**リンク
+-[[作者ホームページ（VITALIZE）>>http://www14.plala.or.jp/dateken]]
+-[[作者ブログ（二重陰陽譜）>>http://blog.livedoor.jp/vit_dat/]]
+-[[PIAPRO>>http://piapro.jp/dateken]]
+-[[muzie>>http://www.muzie.co.jp/artist/a014791/]]
+-[[KARENT>>http://karent.jp/artist/pp000052]]
+-[[twitter>>http://twitter.com/dateken]]
+-[[YouTube>>http://www.youtube.com/user/datechnology]]
+
+**曲
+#list_by_tagsearch(DATEKEN,sort=furigana2,errmsg=まだ曲が登録されていません。,and,100)
+
+**CD
+#list_by_tagsearch(DATEKENCD,sort=furigana2,errmsg=まだ曲が登録されていません。,and,100)
+
+**動画
+|>|BGCOLOR(Gold):COLOR(#FFF):CENTER:&font(b,11pt){オリジナル曲}|
+|&nicovideo(http://www.nicovideo.jp/watch/nm5046052)|&nicovideo(http://www.nicovideo.jp/watch/nm5410824)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm5584051)|&nicovideo(http://www.nicovideo.jp/watch/nm6053623)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm6441583)|&nicovideo(http://www.nicovideo.jp/watch/nm6731427)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm6765815)|&nicovideo(http://www.nicovideo.jp/watch/nm7051391)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm7927775)|&nicovideo(http://www.nicovideo.jp/watch/nm7972553)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm8325511)|&nicovideo(http://www.nicovideo.jp/watch/nm8966495)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9013175)|&nicovideo(http://www.nicovideo.jp/watch/sm9714971)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm10265526)|&nicovideo(http://www.nicovideo.jp/watch/sm11333486)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12060498)|&nicovideo(http://www.nicovideo.jp/watch/sm12759095)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12873561)|&nicovideo(http://www.nicovideo.jp/watch/sm13225559)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm13641760)|&nicovideo(http://www.nicovideo.jp/watch/sm13881621)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm14547379)|&nicovideo(http://www.nicovideo.jp/watch/sm16875924)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm17430315)|&nicovideo(http://www.nicovideo.jp/watch/sm20096569)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm22116655)|&nicovideo(http://www.nicovideo.jp/watch/sm23262288)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm26013779)|&nicovideo(http://www.nicovideo.jp/watch/sm29455784)|
+|&nicovideo(https://www.nicovideo.jp/watch/sm32536069)|&nicovideo(https://www.nicovideo.jp/watch/sm34323867)|
+|&nicovideo(https://www.nicovideo.jp/watch/sm35277170)|&nicovideo(https://www.nicovideo.jp/watch/sm37738196)|
+|&nicovideo(https://www.nicovideo.jp/watch/sm41564440)||
+//|&nicovideo()|&nicovideo()|
+//|&nicovideo()|&nicovideo()|
+
+**関連タグ内の更新履歴
+#region(close,関連タグ内の更新履歴)
+関連タグ内の更新履歴
+※「DATEKEN」「DATEKENCD」タグ内で最近編集やコメントのあった記事を新しい方から10件表示しています。
+#list_by_tagsearch(DATEKEN,DATEKENCD,sort=timestamp,sort2=desc,errmsg=まだ曲、CDが登録されていません。,or,10)
+#endregion
+
+**コメント
+- 穏やかな風が吹く日のような曲を作る方です。曲調が広く、どの曲も丁寧で一環とした魅力を感じます。  -- 310  (2009-07-09 13:37:36)
+- 大好きなPさんです。センス抜群！ずっと応援してます！  -- 名無しさん  (2009-08-02 16:20:22)
+- 大好きだ！曲全て好きです^^  -- 名無しさん  (2009-09-06 11:16:33)
+- 民族系の音楽を作るのがうまい！！大好きです（>▽<）ノ  -- 名無しさん  (2009-09-19 14:56:01)
+- DATEKENさんの作る曲は全て大好きです。  -- 名無しさん  (2009-09-26 18:58:15)
+- 新曲きてましたね！  -- 名無しさん  (2009-12-02 06:52:57)
+- DATEKENさんの曲はいつも心地よくて好き（´ω｀＊）  -- 香絵瑠  (2009-12-07 19:29:11)
+- 紡唄的な中華曲待ってまつ！  -- 黒姫  (2010-01-29 15:34:32)
+- tear切ない  -- 名無し  (2010-04-22 20:36:01)
+- イマジネイション最高  -- 名無しさん  (2010-04-28 14:18:54)
+- 同人CD出してくれないかなあ  -- 名無しさん  (2010-05-22 19:04:45)
+- 同人CD欲しいな  -- 名無しさん  (2010-07-28 17:08:40)
+- 始めて「Jutenija 」に出会ったときの衝撃は忘れられません!  -- 名無しさん  (2010-08-05 21:04:48)
+- trick art!に出会った時のあの衝撃  -- 名無しさん  (2011-01-17 02:02:09)
+- 個人的にはNeverが一番好きです←  -- 美羽  (2011-07-07 23:39:15)
+- 心の奥の奥まで響いてくるような、優しくて綺麗で何度聴いても飽きない曲ばかり、本当に大好き  -- てるみ  (2011-09-09 22:20:50)
+- trick art! まじで癒しだわ  -- mk.p  (2011-09-10 10:23:51)
+- Jutenija初めて聴いたとき鳥肌たった　DATEKENさん大好き  -- 名無しさん  (2012-03-25 11:13:19)
+- あなた様だったのかああああああ!!!　parallelinesとUr-styuleは神曲  -- 名無しさん  (2013-01-13 18:18:52)
+- tearやtrick art!の人が紡唄を作っていたのか・・・と最初驚きました　本当に大好きです！  -- 名無しさん  (2013-01-29 19:22:00)
+- tearを最初聞いたときの感動はいつまでも忘れない。大好きです応援してます！！  -- 名無しさん  (2013-10-19 11:40:16)
+//- ああああああああああああああ  -- 恋  (2013-10-19 13:53:49)
+- DIVA2の収録曲のCardioidで知った。ひそかに好きなボカロpの1人です  -- バンク  (2014-03-17 08:56:43)
+- 小さなその手でも殿堂入りしてたんですね  -- 名無しさん  (2014-10-13 12:57:14)
+- 大好きです  -- はーまにー  (2015-01-18 18:41:25)
+- バラード好きなひとは「名前のない歌」絶対聞いた方がいいまじやばい  -- 名無しさん  (2015-02-15 19:10:22)
+#comment()

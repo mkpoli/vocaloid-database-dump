@@ -1,0 +1,30 @@
+#right(){&furigana(ふねP)&furigana()【登録タグ:&tags()】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/7173855" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/7173855">【ニコニコ動画】ボカロ関係まいりすと</a></iframe>)
+
+**特徴
+-綺麗なメロディラインの曲に定評がある。
+-元はライブ活動など行う癒し系シンガーソングライター「こんふぉーと（近藤吹音）」。
+-アーティスト名は&b(){ふねっこ}。
+-リンレンSNSのコラボCD企画「cheeRfuL」に和風オリジナル曲「悠久音色」で参加。
+-ピアプロ１周年記念コラボに参加するなど、ピアプロでも活動中。
+
+**リンク
+-[[ボカロード（作者ホームページ）>>http://fune117.blog50.fc2.com/]]
+-[[PIAPRO>>http://piapro.jp/fune_fune]]
+
+**曲
+#list_by_tag(ふねP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(ふねPCD,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm3467256)|&nicovideo(http://www.nicovideo.jp/watch/sm3620522)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4250062)|&nicovideo(http://www.nicovideo.jp/watch/sm4292940)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5281569)|&nicovideo(http://www.nicovideo.jp/watch/sm5434014)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5433965)||
+
+**コメント
+- ふねPの曲大好きですｗ  -- 名無しさん  (2009-09-06 12:00:15)
+- 美しいです  -- 名無しさん  (2010-08-30 15:00:26)
+#comment()

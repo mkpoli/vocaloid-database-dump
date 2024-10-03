@@ -1,0 +1,35 @@
+#right(){&furigana(なみP) &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/4534573" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/4534573">【ニコニコ動画】作品 （初音ミクに歌って貰った動画）</a></iframe>)
+
+**特徴
+-バラード曲に定評のあるP。カバー・オリジナル曲ともにミクの透明感のある声が特徴的である。
+-ピアノを主体としたメロディは聴き手を優しく包み込み、初めて聴く曲でもどこか懐かしさを感じさせる。
+-代表作「[[虹の貝殻]]」は何度もバージョンアップされ、その度に完成度を高めていった。
+-ほとんどの動画のイラストは絵師・[[はるよ>>http://piapro.jp/haruyo]]が手がけている。
+-カバー曲に関しては「ボカロには歌真似ではなく、一人の歌い手として歌わせている」というスタンスをとっている。
+-挨拶は「はぉ」がお約束。
+
+**リンク
+-[[公開プロフィール>>http://www.nicovideo.jp/user/4790169]]
+-[[PIAPRO>>http://piapro.jp/nami]]
+-[[MySound>>http://players.music-eclub.com/?action=user_detail&user_id=161670]]
+
+**曲
+#list_by_tag(なみP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(なみPCD,100,sort=furigana)
+
+**動画
+&bold(){オリジナル曲}
+|&nicovideo(http://www.nicovideo.jp/watch/sm2031101){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm2500618){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2677981){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm3840506){340,185}|
+&bold(){カバー・アレンジ曲}
+|&nicovideo(http://www.nicovideo.jp/watch/sm2896913){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm3034136){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3305920){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm3838495){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3883295){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm4152414){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4300518){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm4758217){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4884036){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm4884806){340,185}|
+
+**コメント
+#comment()

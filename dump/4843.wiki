@@ -1,0 +1,82 @@
+#right(){&furigana()&furigana()【登録タグ:&tags()】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm6727398)|&nicovideo(http://www.nicovideo.jp/watch/1384434038)|
+作詞：[[function]]　[[ユの人]]
+作曲：[[function]]
+編曲：[[function]]
+唄：[[MEIKO]]
+
+**曲紹介
+-星が綺麗な夜のドライブに似合う曲Jazzナンバー
+-カーラジオと流れる景色を眺めながらMEIKOが君への切ない想いを歌う
+-切なく擦れた声で歌うMEIKOの歌声がとても美しい
+-カーラジオのチューニングを合わせて7分間のMEIKOとのドライブをお楽しみ下さい
+-「MEIKO V3」の公式デモサンプルに選ばれた。使用DBは「WHISPER」。
+-MEIKO初ソロアルバム『[[EXIT TUNES PRESENTS Meikonic feat. MEIKO]]』にMEIKOの中の人である&bold(){拝郷メイコ}氏の歌唱Ver.が収録される。
+
+**歌詞
+あの星屑 引き連れて歩く
+誰かの悲しい歌声
+月がそっと照らしてる
+
+この世界中が 涙あふれても
+それでも君がいるなら
+頬にそっと口づける
+
+(
+　Let me tell you about my heart belongs to you
+　Darling, you know...
+　Stay with me, Hold me tight all through the night
+
+　Every time you smile
+　Every night you kiss
+　Every dream you wish
+
+　Oh, 'cause It's love, It's a crazy love
+　Let's get together
+)
+
+些細な言葉で 君を傷つけて
+本当の気持と うらはらに
+ひっそり落とした 涙だけが
+言えない言葉を 知っている
+
+ねぇ 君への距離近づいてくのに言い出せない
+ねぇ 心打ち明けられないままだとしても
+
+囁くように 星空が揺れる
+ふいに口ずさむ歌声
+闇にふっと溶けてく
+
+この世界射す 光なくしても
+この声届かなくても
+二人きっと巡り会う
+
+ごめん 困らせて
+本当の言葉を言えずに
+俯く私見つめ
+微笑む君に涙溢れ
+優しいその腕で抱きしめて
+
+ねぇ 君との距離離れていくほど会えないほど
+ねぇ 確かなものなど何も無いと知っても
+
+あの星屑 引き連れて歩く
+誰かの悲しい歌声
+月がそっと照らしてる
+
+この世界中が 涙あふれても
+それでも君がいるなら
+頬にそっと口づける
+
+この世界中が 涙あふれても
+それでも君がいるなら
+頬にそっと口づける
+
+( You and I, got love addiction... )
+
+**コメント
+#comment()

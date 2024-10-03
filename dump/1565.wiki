@@ -1,0 +1,64 @@
+#right(){&furigana(ShootingStar)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm3887036)|&youtube(https://www.youtube.com/watch?v=msTfNsmDero){342,187}|
+|&nicovideo(sm3887108)|&youtube(https://www.youtube.com/watch?v=e07ayec5kO8){342,187}|
+作詞：[[瑠璃]]（Blue Style）、[[kaya>kaya/作り手]]（Red Style）
+作曲：[[shu-tP]]
+編曲：[[shu-tP]]
+唄：[[初音ミク]]（Blue Style）、[[MEIKO]]（Red Style）
+
+**曲紹介
+曲名：『&u(){Shooting Star}』
+-Blue StyleとRed Styleの2バージョンあり、Vocalと歌詞が違います。
+-VOCALOID以外のソフトウェア音源は使用していないそうです。
+
+**Remix
+|&nicovideo(sm3910363)|&youtube(https://www.youtube.com/watch?v=cgdk5hnAqZg){342,187}|
+|&nicovideo(sm7524042)|&youtube(https://www.youtube.com/watch?v=rYuzg32a1RU){342,187}|
+
+**歌詞
+**Blue Style
+空を見上げた　いくつもの光が
+頼りなく…でも、強く輝いてる
+
+そっとそっと手を　伸ばして―
+
+流れる星を　目を凝らして見ていた
+そして胸に秘め続けた願い　そっと祈る…
+
+空を見上げて　あなたを想っている
+あなたも同じ　空を見上げているの？
+
+ねぇ　ずっとあなたを想う―
+
+流れる光に　サインを
+流れる星を　ずっとずっと見ていた
+そして胸に秘め続けた想い　そっと祈る…
+
+
+**Red Style
+心の闇を　さまよいあるいてた
+途切れた記憶　繋ぎとめられなくて
+
+願い叶えて　Shooting Star
+
+夜を飛び越えて　衝撃（チカラ）を恐れないで
+目指した明日は　幾千の光を超えて
+
+迷うことなく　作り上げた未来
+確かな記憶　空に手を差し伸べて
+
+祈り届けて　Shooting Star
+
+あぁ　願い伝えて　Shooting Star
+誰よりも強く　誰よりも果てない
+溢れる想いを　幾千の光に変えて
+
+**コメント
+- ミクもいいけどMEIKOの力強さが半端ねえ  -- 名無しさん  (2008-07-09 13:00:36)
+- 気が付くとループしているという中毒性がヤバイ曲  -- 名無しさん  (2008-07-30 09:15:36)
+- 本当に人間が歌ってるようにしかきこえない  -- 名無しさん  (2008-09-27 11:30:30)
+#comment()

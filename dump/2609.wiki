@@ -1,0 +1,2 @@
+最近追加または更新されたCDから100枚まで表示
+#list_by_tag(CD,100,sort=timestamp)

@@ -1,0 +1,43 @@
+#right(){&furigana(すたーらいとP) &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/7803667" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/7803667">【ニコニコ動画】作ったもの</a></iframe>)
+
+**特徴
+-転調を繰り返すイリュージョナルな曲調が特徴の技巧派P。
+-コードを支えるピアノの音色が醸し出す優しい雰囲気にも定評がある。
+-歌詞にあった画像を当てて作成されたPVも好評である。
+-P名は「宇宙インフラストラクチャー」の歌詞から。
+-アーティスト名は、&bold(){Benjamin}。
+-誕生日は6月28日、日本の貿易記念日である。
+
+**リンク
+-[[スターライト☆トラベラー（作者ブログ）>>http://starlighttraveler.blog78.fc2.com/]]
+-[[Twitter>>http://twitter.com/benjamin335]]
+-[[PIAPRO（スターライトP）>>http://piapro.jp/starlightP]]
+-[[YouTube>>http://www.youtube.com/user/StarlightPBenjamin]]
+-[[KARENT>>http://karent.jp/artist/pp000358]]
+
+**曲
+#list_by_tag(スターライトP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(スターライトPCD,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm4144223)|&nicovideo(http://www.nicovideo.jp/watch/sm4871950)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5595572)|&nicovideo(http://www.nicovideo.jp/watch/sm5985469)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7218545)|&nicovideo(http://www.nicovideo.jp/watch/sm8307617)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm11215933)|&nicovideo(http://www.nicovideo.jp/watch/sm12240700)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12991816)|&nicovideo(http://www.nicovideo.jp/watch/sm14672290)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm15185120)|&nicovideo(http://www.nicovideo.jp/watch/sm15933955)|
+
+#region(close,関連動画)
+-関連動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm10909940)|&nicovideo(http://www.nicovideo.jp/watch/sm14678419)|
+#endregion
+
+**コメント
+- 大好きです。本当に素敵な曲ばかり！  -- 名無しさん  (2010-03-21 11:15:22)
+- ここまで神曲作ってるのに何故伸びない・・・！？  -- 名無しさん  (2010-11-17 18:15:02)
+- 静かだけどいい曲多いね。安らげる  -- 名無しさん  (2011-08-02 18:20:18)
+- 再生数が一ケタ足りないくらいの神曲ばかり!!…伸びてくれ~!!!!  -- 名無しさん  (2011-10-10 21:54:15)
+#comment()

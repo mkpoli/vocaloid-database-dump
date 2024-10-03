@@ -1,0 +1,45 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/14234569" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/14234569">【ニコニコ動画】Chiquewaの曲</a></iframe>)
+
+**特徴
+-エレクトロニカ、R&B、ジャズ系の楽曲を中心に発表しており、本業でもジャズ・ギタリストとして活躍している。
+-オリジナルアルバム『[[Voice Electronique]]』のiTunes配信で一躍注目を浴びた。
+-「[[みれん坂]]」「[[雨恋慕]]」「[[金木犀]]」「[[結晶]]」の4作は、春夏秋冬をテーマに作られた連作である。
+-これまでピアプロ限定で活動してきたが、2009年8月20日に「[[Come To Me]]」（ルカ版）を投稿し、ついにニコニコ動画にも進出を果たした。
+
+**リンク
+-[[旧作者ブログ>>http://chiquewa.blog.eonet.jp/voice_organique/]]
+-[[作者ブログ>>http://chiquewa.blogspot.jp/]]
+-[[PIAPRO>>http://piapro.jp/chiquewa]]
+-[[YouTube>>http://www.youtube.com/user/chiquewamusic]]
+
+**曲
+#list_by_tag(Chiquewa,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(ChiquewaCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm7992308)|&nicovideo(http://www.nicovideo.jp/watch/sm8250359)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm8606360)|&nicovideo(sm10219484)|
+|&nicovideo(sm10345798)|&nicovideo(sm11869485)|
+|&nicovideo(sm12109318)|&nicovideo(sm13353217)|
+|&nicovideo(sm13423666)|&nicovideo(sm13538691)|
+|&nicovideo(sm13806303)|&nicovideo(sm14415075)|
+|&nicovideo(sm14562116)|&nicovideo(sm14800647)|
+|&nicovideo(sm15386311)|&nicovideo(sm15586883)|
+|&nicovideo(sm16000094)|&nicovideo(sm16539122)|
+|&nicovideo(sm20680960)|&nicovideo(sm21147606)|
+|&nicovideo(sm21632879)|&nicovideo(sm22105481)|
+|&nicovideo(sm22859958)|&nicovideo(sm23130118)|
+|&nicovideo(sm23700845)|&nicovideo(sm23965453)|
+|&nicovideo(sm24284179)|&nicovideo(sm24803589)|
+|&nicovideo(sm25553432)|&nicovideo(sm25683281)|
+|&nicovideo(sm26606234)|&nicovideo(sm31346231)|
+|&nicovideo(sm33193324)|&nicovideo(sm31512754)|
+|&nicovideo(sm33320825)|&nicovideo(sm29824344)|
+|&nicovideo(sm29045512)|&nicovideo(sm29234619)|
+
+**コメント
+- Chiquewaさんだいすきです(゜∇゜*)特にマロンが良すぎる  -- 名無しさん  (2012-06-10 10:57:01)
+#comment()

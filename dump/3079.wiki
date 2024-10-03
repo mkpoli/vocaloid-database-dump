@@ -1,0 +1,27 @@
+#right(){&furigana(あかいみはじけた　えもらぶ) &furigana()【登録タグ:&tags() 】}
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Missing>Missing/CD]]|CENTER:&bold(){赤い実はじけた/えもラブ}|CENTER:[[Story>Story/CD]]|
+
+|&bold(){[[samfree]]}|
+
+発売：2008年11月30日
+価格：￥200
+流通：即売
+サークル：Nation One
+
+**CD紹介
+-[[SAM>samfree]]氏が[[ボーマス６>>http://ketto.com/tvm/]]にて頒布の新作ボーカロイドCD。
+-殿堂入り曲『[[赤い実はじけた]]』と最新曲『[[えもラブ]]』の両A面シングル。
+-書店委託などの予定は未発表となっている。
+
+**曲目
++[[赤い実はじけた]]
++[[えもラブ]]
++赤い実はじけた(Instrumental)
++えもラブ(Instrumental)
+
+**リンク
+-[[Nation One>>http://www.sam-free.com/]]
+
+**コメント
+#comment

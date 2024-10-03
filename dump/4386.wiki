@@ -1,0 +1,2015 @@
+-&bold(){ミリオン曲}とは、ニコニコ動画で100万再生を達成した曲を指す。現在、&bold(){907曲}がミリオン曲に該当する。&br() (VOICEROID、CeVIOなどVOCALOID以外の合成音声も含む) &br()（「[[炉心融解]]」、「[[右肩の蝶]]」、「[[（スーパー）トルコ行進曲 - オワタ＼(^o^)／>トルコ行進曲 - オワタ＼(^o^)／]]」、「[[アスノヨゾラ哨戒班、キミノヨゾラ哨戒班>アスノヨゾラ哨戒班]]」、「[[Nostalogic (single edit)、(MEIKO-SAN mix)>Nostalogic (single edit)]]」、「[[想像フォレスト、空想フォレスト>想像フォレスト]]」、「[[繰り返し一粒]]」、「[[失敗作少女]]」、「[[テレキャスタービーボーイ]]」、「[[エゴロック]]」、「[[バグ]]」、「[[ザムザ]]」、「[[Iなんです]]」、「[[ロウワー]]」、「[[トンデモワンダーズ]]」をそれぞれ一曲としてカウントすると、現在、&bold(){922曲}がミリオン曲に該当する。）
+//
+//日数を間違える方がおられますので書いときます。日数はTwitterのニコニコ ミリオン達成botの達成日数を小数点以下を切り捨てにして書いてください。
+//
+//「907曲」（一曲扱い含むと「922曲」）現在は「アップルドットコム」までの数値です。（括弧内も書き換えてください）
+//
+//以前、実際の数値と誤差があったので、上記の括弧内にどの曲まで反映したか記すようにしてください。
+//900曲目は「一千光年」(目安として)
+//
+//今年（2024年）のミリオン数
+//「47曲」（一曲扱い含むと「48曲」）現在は「アップルドットコム」までの数値です。（括弧内も書き換えてください）
+//
+//P名・ボカロ名のタグが広すぎる問題を防ぐ為、人数が増えすぎたら「&br()」による段落化をお願いします。
+//何人で区切るのかは名前の字数によって変わるので、そこの処はお任せします。
+//[[曲の追加の仕方]]にある通り、人間が歌唱していても、合成音声が使われていれば掲載可のため、セカイver.についても記載しています。
+
+#areaedit
+-VOCALOIDを打ち込んだ本人または動画関係者が投稿したカバー楽曲では以下の&bold(){40曲}がミリオンを達成した。
+-曲名をクリックすると、ニコニコ動画内の対応した動画に飛ぶ仕様となっている。
+//ボカロの打ち込みのないアレンジ,マッシュアップは別でまとめる仕様に変更します。//
+//ぶっちぎりにしてあげる♪などメロディそのままの楽曲がオリジナルとなっているため、チルノのすうがく教室もオリジナルとする。//
+//※音MADは入れないで下さい。//
+
+#region(close,表示する)
+閉じる
+|CENTER:&bold(){曲名}|CENTER:&bold(){原曲&br()or アーティスト}|CENTER:&bold(){投稿日}|CENTER:&bold(){投稿者名}|CENTER:&bold(){ボカロ名}|
+|[[Ievan Polkka>>http://www.nicovideo.jp/watch/sm982882]]|[[フィンランドの伝統的ポルカ>>http://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%A8%E3%83%B4%E3%82%A1%E3%83%B3%E3%83%BB%E3%83%9D%E3%83%AB%E3%83%83%E3%82%AB]]|07/09/04|[[Otomania]]|初音ミク|
+|[[粉雪>>http://www.nicovideo.jp/watch/sm1465138]]|[[レミオロメン>>http://www.youtube.com/watch?v=1wxTksLZ1Mw]]|07/11/06|[[BinoP]]|初音ミク|
+|[[SUPER HATSUNE BEAT vol.1>>http://www.nicovideo.jp/watch/sm1563848]]|[[OSTER project>恋スルVOC@LOID]]&br()[[GonGoss>White Letter/GonGoss]]&br()[[乱数P>なぜか変換できない]]&br()[[ヤスオP>えれくとりっく・えんじぇぅ]]&br()[[畳P（North-T）>タイムリミット]]&br()[[ika>みくみくにしてあげる♪]]|07/11/18|[[ゆうゆ]]|初音ミク|
+|[[亡國覚醒カタルシス>>http://www.nicovideo.jp/watch/sm2302776]]|[[ALI PROJECT>>http://ja.wikipedia.org/wiki/%E4%BA%A1%E5%9C%8B%E8%A6%9A%E9%86%92%E3%82%AB%E3%82%BF%E3%83%AB%E3%82%B7%E3%82%B9]]|08/02/12|[[しえろP>しえろP（ショタエロイドP）]]|鏡音レン|
+|[[白虎野の娘>>http://www.nicovideo.jp/watch/sm2352095]]|[[平沢進>>http://dic.nicovideo.jp/a/%E7%99%BD%E8%99%8E%E9%87%8E%E3%81%AE%E5%A8%98]]|08/02/17|[[ぶっちぎりP]]|KAITO|
+|[[Dearest (pf mix)>>https://www.nicovideo.jp/watch/sm3225391]]|[[浜崎あゆみ>>https://www.youtube.com/watch?v=4EPsrl1UIn0]]|08/05/07|[[yuukiss]]|MEIKO|
+|[[ウザテイ>>https://www.nicovideo.jp/watch/sm3613195]]|[[IOSYS>>https://www.youtube.com/watch?v=bu1oJaWChwE&t=19s]]|08/06/10|[[Pマン]]|ゆっくり(AquesTalk)|
+|[[患部で止まってすぐゆっくり>>https://www.nicovideo.jp/watch/sm4166177]]|[[IOSYS>>https://www.youtube.com/watch?v=D1HAsA0_tBQ&t=1s]]|08/08/03|[[Pマン]]|ゆっくり(AquesTalk)|
+|[[ゆっくりでいいさ>>https://www.nicovideo.jp/watch/sm4187803]]|[[中島義実&ヤング・フレッシュ>>https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%B3%B6%E7%BE%A9%E5%AE%9F]]|08/08/05|[[Pマン]]|ゆっくり(AquesTalk)|
+|[[under the darkness>>http://www.nicovideo.jp/watch/sm4248763]]|[[C.G mix>>http://dic.nicovideo.jp/a/under%20the%20darkness]]|08/08/10|[[黒糖ポッキーP]]|がくっぽいど|
+|[[ニコニコ動画流星群>>http://www.nicovideo.jp/watch/sm4468648]]|[[ニコニコ動画流星群>>http://www.nicovideo.jp/watch/sm2959233]]|08/08/31|[[awk]]|初音ミク、KAITO、鏡音リン、鏡音レン|
+|[[you>>http://www.nicovideo.jp/watch/sm5865063]]|[[dai>>http://dic.nicovideo.jp/a/you%28%E3%81%B2%E3%81%90%E3%82%89%E3%81%97%E3%81%AE%E3%81%AA%E3%81%8F%E9%A0%83%E3%81%AB%29]]|09/01/17|[[ココアシガレットP]]|鏡音リン|
+|[[たこルカぽっぴっぽー>>https://www.nicovideo.jp/watch/sm6040129]]|[[ラマーズP>ぽっぴっぽー]]|09/02/04|[[seer]]|巡音ルカ|
+|[[チルノフのパーフェクトゆっ⑨り教室>>https://www.nicovideo.jp/watch/sm6506250]]|[[IOSYS>>https://www.youtube.com/watch?v=V_bQNPG2OyE]]|09/03/22|[[Pマン]]|ゆっくり(AquesTalk)|
+|[[アンインストール>>https://www.nicovideo.jp/watch/sm7387583]]|[[石川智晶>>https://www.youtube.com/watch?v=aTvexNLRwHw]]|09/06/19|[[アンインストールの人]]|ゆっくり(AquesTalk)|
+|[[七色のヘタリア動画 を歌わせてみた>>http://www.nicovideo.jp/watch/sm7559438]]|[[七色のニコニコ動画>>http://www.nicovideo.jp/watch/sm7233711]]&br()[[七色のヘタリア動画>>http://www.nicovideo.jp/watch/sm7296743]]|09/07/07|[[axisP]]|KAITO、初音ミク、がくっぽいど、鏡音レン、巡音ルカ、Megpoid、鏡音リン、MEIKO|
+|[[君の知らない物語>>http://www.nicovideo.jp/watch/sm8899411]]|[[supercell>>https://www.youtube.com/watch?v=caF6nJxTejc&t=14s]]|09/11/23|[[神無月P]]|Megpoid|
+|[[ホール・ニュー・ワールド>>https://www.nicovideo.jp/watch/sm9707593]]|[[アラジン（石井一孝）・ジャスミン（麻生かほ里）>>https://www.youtube.com/watch?v=1V0PrYjAeM4]]|10/02/14|[[根気P]]|KAITO、MEIKO|
+|[[般若心経ロック>>http://www.nicovideo.jp/watch/sm11998050]]|[[おにゅうP>般若心経ポップ]]|10/09/05|[[クワガタP]]|初音ミク|
+|[[枝野官房長官に炉心融解歌わせてみた>>http://www.nicovideo.jp/watch/sm14021824]]|[[iroha(sasaki)>>https://www.nicovideo.jp/watch/sm8089993]]|11/03/31|[[fs]]|枝野ネロ(UTAU)|
+|[[ハッピーシンセサイザ歌ってみたverレンwith96猫>>https://www.nicovideo.jp/watch/sm14752734]]|[[EasyPop>ハッピーシンセサイザ]]|11/06/15|[[96猫]]|鏡音レン、96猫|
+|[[PONPONPON>>http://www.nicovideo.jp/watch/sm15484827]]|[[きゃりーぱみゅぱみゅ>>http://www.youtube.com/watch?v=yzC4hFK5P3g]]|11/09/01|[[おればななP]]|鏡音レン|
+|[[嗚呼、素晴らしきニャン生歌ってみたver９６ばなな>>https://www.nicovideo.jp/watch/sm16486262]]|[[Nem>嗚呼、素晴らしきニャン生]]|11/12/22|[[96猫]]|鏡音レン、96猫|
+|[[下からマ○コ>>http://www.nicovideo.jp/watch/sm16531235]]|[[AKB48>>http://www.youtube.com/watch?v=-7YJkt-4R1A]]|11/12/26|[[まだ仔]]|初音ミク、弱音ハク、Megpoid、MEIKO、デフォ子（UTAU）、巡音ルカ、重音テト（UTAU）、miki、猫村いろは、鏡音リン、波音リツ（UTAU）、Lily、阿久女イク（推定）|
+|[[つけまつける>>https://www.nicovideo.jp/watch/sm16628066]]|[[きゃりーぱみゅぱみゅ>>https://www.youtube.com/watch?v=NLy4cvRx7Vc]]|12/01/07|[[おればななP]]|鏡音リン|
+|[[-ERROR>>https://www.nicovideo.jp/watch/sm17969073]]|[[niki>>https://www.nicovideo.jp/watch/sm12099561]]|12/05/31|[[cillia]]|波音リツ|
+|[[ODDS & ENDS>>http://www.nicovideo.jp/watch/sm19314286]]|[[supercell>>https://www.youtube.com/watch?v=HUzLUGKwQJc]]|12/11/09|[[cillia]]|重音テト|
+|[[ルパン三世のテーマ>>http://www.nicovideo.jp/watch/sm19400263]]|[[大野雄二>>https://www.youtube.com/watch?v=_i0BKOSlYok]]|12/11/20|[[しろかぜ]]|ゆっくり(UTAU)|
+|[[えれくとりっく・えんじぇぅ>>http://www.nicovideo.jp/watch/sm20040564]]|[[ヤスオP>えれくとりっく・えんじぇぅ]]|13/02/13|[[ギガP]]|鏡音リン、鏡音レン|
+|[[名前のない怪物>>http://www.nicovideo.jp/watch/sm20308615]]|[[EGOIST>>http://www.youtube.com/watch?v=4IkLEmswL30]]|13/03/11|[[タカオカミズキ]]|結月ゆかり|
+|[[sister's noise>>http://www.nicovideo.jp/watch/sm20766496]]|[[fripSide>>http://ja.wikipedia.org/wiki/Sister%27s_noise]]|13/05/03|[[non]]|鏡音リン|
+|[[いーあるふぁんくらぶ>>http://www.nicovideo.jp/watch/sm20971363]]|[[みきとP>いーあるふぁんくらぶ]]|13/05/27|[[ギガP]]|初音ミク、鏡音レン|
+|[[unravel>>http://www.nicovideo.jp/watch/sm24028752]]|[[TK from 凛として時雨>>https://www.youtube.com/watch?v=gQMmVCv8P3w]]|14/07/18|[[dj-jo]]|初音ミク|
+|[[春よ、来い>>http://www.nicovideo.jp/watch/sm24469131]]|[[松任谷由実>>https://youtu.be/gol5dFrv4Ao]]|14/09/14|[[家が燃えているね、俺んちさ]]|初音ミク|
+|[[Fairytale,>>http://www.nicovideo.jp/watch/sm25143595]]|[[buzzG>Fairytale,]]|14/12/18|[[cillia]]|VY1|
+|[[脳漿炸裂バーサン>>https://www.nicovideo.jp/watch/sm26885145]]|[[れるりり>脳漿炸裂ガール]]|15/08/08|[[黒田亜津]]|Sachiko|
+|[[言の葉クリニック>>https://www.nicovideo.jp/watch/sm28067804]]|[[つなまる>言の葉クリニック]]|16/01/24|[[スズモフ]]|琴葉茜・琴葉葵|
+|[[メルト>>http://www.nicovideo.jp/watch/sm29353638]]|[[ryo>メルト]]|16/07/31|[[cillia]]|音街ウナ|
+|[[再演>>http://www.nicovideo.jp/watch/sm32576768]]|[[RINGO>再演]]|18/01/13|[[MARETU]]|初音ミク|
+|[[オルターエゴ>>https://www.nicovideo.jp/watch/so41526405]]|[[Misumi>オルターエゴ]]|22/12/23|プロジェクトセカイ公式|初音ミク、小豆沢こはね（CV.秋奈）、白石杏（CV.鷲見友美ジェナ）、東雲彰人（CV.今井文也）、青柳冬弥（CV.伊東健人）|
+#endregion
+
+-VOCALOIDの打ち込みはないが、VOCALOID楽曲を使用したアレンジ・Remix・マッシュアップは現在&bold(){5曲}が達成している。
+
+#region(close,表示する)
+閉じる
+|CENTER:&bold(){曲名}|CENTER:&bold(){原曲&br()or アーティスト}|CENTER:&bold(){投稿日}|CENTER:&bold(){投稿者名}|CENTER:&bold(){ボカロ名}|
+|[[パラジクロロベンゼン×アンチクロロベンゼン>>https://www.nicovideo.jp/watch/sm12159572]]|[[オワタP>パラジクロロベンゼン]]&br()[[オワタP>アンチクロロベンゼン]]|10/09/19|[[sup]]|鏡音リン、鏡音レン|
+|[[ロストワンラバーズ>>http://www.nicovideo.jp/watch/sm20256053]]|[[Neru>ロストワンの号哭]]&br()[[wowaka>裏表ラバーズ]]|13/03/06|[[草薙なぎ]]|鏡音リン、初音ミク|
+|[[ヒビカセ × ECHO>>http://www.nicovideo.jp/watch/sm24948843]]|[[ギガP>ヒビカセ]]&br()[[Crusher-P>ECHO/Crusher-P]]|14/11/19|[[ウサナー]]|初音ミク、Megpoid|
+|[[妄想税 Big Room House Remix>>http://www.nicovideo.jp/watch/sm25476202]]|[[DECO*27>妄想税]]|15/02/01|[[Spacelectro]]|初音ミク|
+|[[スシトレイン>>https://www.nicovideo.jp/watch/sm39388215]]|[[稲葉曇>ラグトレイン]]、[[ORANGE RANGE>>https://youtu.be/u7adbYXou8Q]]|21/09/26|ケフィア|歌愛ユキ、ORANGE RANGE|
+#endregion
+
+-本家は達成してないが、第三者のPV付き動画では&br()ussyPの「[[melody...]]」&br()恵（めぐむ）氏の「[[アナザー：ワールドイズマイン]]」&br()＠まさたかPの「[[Chaining Intention]]」&br()がミリオンを達成している。
+//本家も達成している、第三者のPVも載せるべきか思案中。
+//&br()わかむらPの「[[Sweet Devil]]」&br()luc氏の「[[しねばいいのに]]」br()ぱげらった氏の「[[ねぎだけでじゅうぶんですよ>Stargazer/骨盤P]]」←本家でも達成しました。
+
+-クロスフェードデモでは、以下の&bold(){2動画}がミリオンを達成した。
+|CENTER:&bold(){動画名}|CENTER:&bold(){P名}|CENTER:&bold(){ボカロ名}|CENTER:&bold(){投稿日}|CENTER:&bold(){達成日}|
+|[[メカクシティレコーズ]]|[[自然の敵P]]|IA|13/05/27|18/10/22|
+|[[メカクシティデイズ]]|[[自然の敵P]]|初音ミク、IA|12/05/12|19/06/11|
+
+-トークロイドでは、以下の&bold(){1動画}がミリオンを達成した。
+|CENTER:&bold(){動画名}|CENTER:&bold(){P名}|CENTER:&bold(){ボカロ名}|CENTER:&bold(){投稿日}|CENTER:&bold(){達成日}|
+|[[すいません・・・、鏡音リンを予約したいのですが・・・>>https://www.nicovideo.jp/watch/sm1667273]]|loadorigin|初音ミク|07/12/01|11/12/31|
+#areaedit(end)
+
+#areaedit
+-なお、ミリオンを複数曲達成したボカロPはこちら。
+#region(close,ミリオン複数持ちP一覧)
+（「[[アップルドットコム]]」まで）
+
+40曲　[[DECO*27]]
+32曲　[[ピノキオピー]] 
+21曲　[[自然の敵P]]
+20曲　[[MARETU]]
+17曲　[[Neru]]、[[Orangestar]]
+16曲　[[ナブナ]]
+14曲　[[ナユタン星人]]、[[ギガP]]、[[かいりきベア]]
+13曲　[[40㍍P]]
+12曲　[[いよわ]]、[[ささくれP]]
+11曲　[[ハチ]]、[[ひとしずくP]]、[[れるりり]]
+10曲　[[トーマ]]、[[バルーン>バルーン/作り手]]、[[syudou]]、[[悪ノP]]、[[kemu]]、[[cosMo（暴走P）]]
+9曲　[[ココアシガレットP]]、[[Kanaria]]、[[やま△]]、[[みきとP>みきとP/作り手]]
+8曲　[[wowaka]]、[[カンザキイオリ]]、[[Eve>Eve/2016～]]、[[すりぃ]]、[[きくお]]、[[使徒>チョリスP]]（[[HoneyWorks]]）
+7曲　[[黒うさP]]、[[ryo>ryo/supercell]]、[[Mitchie M]]、[[くらげP]]、[[梅とら]]、[[まふまふ]]、[[ぽわぽわP]]、[[すこっぷ]]
+6曲　[[Last Note.]]、[[ぬゆり]]
+5曲　[[オワタP]]、[[蝶々P]]、[[OSTER project]]、[[のぼる↑]]、[[Omoi]]、[[keeno]]、[[kz]]、[[150p]]、[[柊キライ]]、[[niki]]、[[ゴム]]（[[HoneyWorks]]）、[[とあ]]、[[電ポルP]]、[[ユリイ・カノン]]、[[煮ル果実]]
+4曲　[[doriko]]、[[samfree]]、[[家の裏でマンボウが死んでるP]]、[[うたたP]]、[[ジミーサムP]]、[[ゆうゆ]]、[[有機酸]]、[[YASUHIRO（康寛）]]、[[ナナホシ管弦楽団]]、[[Ayase]]、[[八王子P]]、[[FB777]]、[[てにをは]]、[[ラマーズP]]、[[じーざすP]]、[[西沢さんP]]
+3曲　[[halyosy]]、[[流星P]]、[[スズム]]、[[クワガタP]]、[[164]]、[[ゆちゃP]]、[[ほえほえP]]、[[KEI>KEI/ハヤシケイ]]、[[サイゼp]]、[[日向電工]]、[[夏代孝明]]、[[ツミキ]]、[[R Sound Design]]、[[Junky]]、[[めざめP]]、[[Nem]]、[[shr]]、[[DIVELA]]、[[くるりんご]]、[[r-906]]、[[wotaku]]、[[ポリスピカデリー]]、[[まらしぃ]]、[[MIMI]]、[[柊マグネタイト]]、[[カラスヤサボウ]]、[[梨本P]]、[[はるまきごはん]]、[[yuukiss]]、[[EZFG]]、[[稲葉曇]]、[[一二三]]
+2曲　[[アゴアニキP]]、[[のりP]]、[[トラボルタP]]、[[シグナルP]]、[[ika]]、[[くちばしP]]、[[さつき が てんこもり]]、[[キノシタ]]、[[羽生まゐご]]、[[ろくろ]]、[[蜂屋ななし]]、[[john>john/2019～]]、[[baker]]、[[KIRA]]、[[ねこぼーろ]]、[[南ノ南]]、[[takamatt]]、[[鬱P]]、[[なきそ]]、[[19's Sound Factory]]、[[SLAVE.V-V-R]]、[[nyanyannya]]、[[buzzG]]、[[カニミソP]]、[[Easy Pop]]、[[Diarays]]、[[猫虫P]]、[[とくP]]、[[natsuP]]、[[PolyphonicBranch]]、[[もじゃ]]、[[仕事してP]]、[[No.D]]、[[otetsu]]、[[iroha>iroha/作り手]]、[[こんにちは谷田さん]]、[[ぺぺろんP]]、[[tepe]]、[[おにゅうP]]、[[原口沙輔]]、[[メドミア]]、[[Guiano]]、[[傘村トータ]]
+#endregion
+#areaedit(end)
+
+*ニコニコ動画以外の達成曲
+#include(曲一覧/YouTubeミリオン曲一覧)
+
+-また、ニコ動未投稿 or ニコ動ミリオン未達成で、本人（または関係者）がBiliBiliに投稿している公式動画は下記参照。&br()"(※)"が記されている動画に関しては、ページが作成されていないため、対応する動画に直接飛ぶ仕様となっている。
+#region(close,表示する)
+閉じる
+#region(close,[[Ayase]])
+[[Ayase]]による以下の&bold(){1曲}がミリオンを達成している。
+|CENTER:&bold(){曲名}|CENTER:&bold(){投稿日}|CENTER:&bold(){ボカロ名}|
+|[[HERO>HERO/ayase]]|23/06/30|初音ミク|
+#endregion
+#region(close,ChiliChill)
+ChiliChillによる以下の&bold(){1曲}がミリオンを達成している。
+|CENTER:&bold(){曲名}|CENTER:&bold(){投稿日}|CENTER:&bold(){ボカロ名}|
+|[[万分之一的光>>https://bilibili.com/video/BV1Tp4y1S7cu]](※)|20/07/12|洛天依|
+#endregion
+#region(close,[[Chinozo]])
+Chinozoによる以下の&bold(){1曲}がミリオンを達成している。
+|CENTER:&bold(){曲名}|CENTER:&bold(){投稿日}|CENTER:&bold(){ボカロ名}|
+|[[チーズ]]|22/12/30|可不（CeVIO）|
+#endregion
+#region(close,[[Circus-P]])
+Circus-Pによる以下の&bold(){1曲}がミリオンを達成している。
+|CENTER:&bold(){曲名}|CENTER:&bold(){投稿日}|CENTER:&bold(){ボカロ名}|
+|[[Intergalactic Bound]]（雄之助との共作）|24/01/12|初音ミク|
+#endregion
+#region(close,COP)
+COPによる以下の&bold(){4曲}がミリオンを達成している。
+|CENTER:&bold(){曲名}|CENTER:&bold(){投稿日}|CENTER:&bold(){ボカロ名}|
+|[[世末积雨云>>https://www.bilibili.com/video/av1579079/]](※)|14/10/02|洛天依|
+|[[霜雪千年>>http://www.bilibili.com/video/av3060153]](※)|15/05/31|洛天依、言和|
+|[[世末歌者>>http://www.bilibili.com/video/av6009789]](※)|16/08/25|楽正綾|
+|[[光与影的对白>>https://www.bilibili.com/festival/lty10th?bvid=BV1dZ4y1Y7bt]](※)|22/07/12|洛天依(ACE AI)|
+#endregion
+#region(close,CヰEL文)
+CヰEL文による以下の&bold(){1曲}がミリオンを達成している。
+|CENTER:&bold(){曲名}|CENTER:&bold(){投稿日}|CENTER:&bold(){ボカロ名}|
+|[[你先别急]]|23/01/05|初音ミク|
+#endregion
+#region(close,Ddickky)
+Ddickkyによる以下の&bold(){2曲}がミリオンを達成している。
+|CENTER:&bold(){曲名}|CENTER:&bold(){投稿日}|CENTER:&bold(){ボカロ名}|
+|[[Seattle物语 II>>http://www.bilibili.com/video/av2585185]](※)|15/07/17|洛天依、楽正綾|
+|[[最终祈愿>>https://www.bilibili.com/video/BV1uP4y1g7c3]](※)（胧とのコラボ）|22/03/04|星尘Infinity(Synthesizer V)|
+#endregion
+#region(close,[[DECO*27]])
+[[DECO*27]]による以下の&bold(){5曲}がミリオンを達成している。
+|CENTER:&bold(){曲名}|CENTER:&bold(){投稿日}|CENTER:&bold(){ボカロ名}|
+|[[ポジティブ・パレード]]|20/01/17|初音ミク|
+|[[モザイクロール]] (Reloaded)|21/10/08|初音ミク|
+|[[愛言葉Ⅳ]]|22/05/27|初音ミク|
+|[[ゾンビ]]|22/07/29|初音ミク|
+|[[毒林檎]]|22/12/02|初音ミク|
+#endregion
+#region(close,DELA_P)
+DELA_Pによる以下の&bold(){13曲}がミリオンを達成している。
+|CENTER:&bold(){曲名}|CENTER:&bold(){投稿日}|CENTER:&bold(){ボカロ名}|
+|[[一重加害>>http://www.bilibili.com/video/av3291729]](※)|15/11/28|洛天依、言和、楽正綾|
+|[[二重变革>>http://www.bilibili.com/video/av3370007]](※)|15/12/12|洛天依、言和|
+|[[三重爱恋>>http://www.bilibili.com/video/av3683320]](※)|16/01/28|洛天依、言和|
+|[[四重罪孽>>http://www.bilibili.com/video/av4188543]](※)|16/03/26|洛天依、言和、楽正綾|
+|[[五重空洞>>http://www.bilibili.com/video/av4492594]](※)|16/04/28|洛天依、楽正綾|
+|[[泠重乞愿>>https://bilibili.com/video/av4704894]](※)|16/05/20|洛天依|
+|[[六重不忠>>http://www.bilibili.com/video/av5656549]](※)|16/08/05|洛天依、言和、楽正綾|
+|[[自攻自受>>https://bilibili.com/video/av6477673]](※)|16/10/01|言和|
+|[[七重痼病>>https://www.bilibili.com/video/av7549517]](※)|16/12/16|洛天依、言和、楽正綾|
+|[[零重祈願>>https://bilibili.com/video/av8815372]](※)|17/02/25|楽正綾|
+|[[八重回归·真>>http://www.bilibili.com/video/av9072485]](※)|17/03/10|洛天依、楽正綾|
+|[[九重现实>>http://www.bilibili.com/video/av9214515]](※)|17/03/17|洛天依、言和、楽正綾|
+|[[妄想Reality>>https://www.bilibili.com/video/av17679245]](※)|17/12/27|洛天依、言和、楽正綾|
+#endregion
+#region(close,H.K.君)
+H.K.君による以下の&bold(){1曲}がミリオンを達成している。
+|CENTER:&bold(){曲名}|CENTER:&bold(){投稿日}|CENTER:&bold(){ボカロ名}|
+|[[千年食譜頌]]|12/07/13|洛天依|
+#endregion
+#region(close,[[HoneyWorks]])
+[[HoneyWorks]]君による以下の&bold(){1曲}がミリオンを達成している。
+|CENTER:&bold(){曲名}|CENTER:&bold(){投稿日}|CENTER:&bold(){ボカロ名}|
+|[[恋の魔法ポーション]]|23/06/02|洛天依|
+#endregion
+#region(close,iKz)
+iKzによる以下の&bold(){2曲}がミリオンを達成している。
+|CENTER:&bold(){曲名}|CENTER:&bold(){投稿日}|CENTER:&bold(){ボカロ名}|
+|[[反派死于话多>>http://www.bilibili.com/video/av24180113]](※)|18/05/31|洛天依、言和|
+|[[聚光>>https://www.bilibili.com/video/av612444436/]](※)（纪远とのコラボ）|23/04/15|洛天依(ACE Studio)|
+#endregion
+#region(close,[[ilem]])
+[[ilem]]による以下の&bold(){34曲}がミリオンを達成している。
+|CENTER:&bold(){曲名}|CENTER:&bold(){投稿日}|CENTER:&bold(){ボカロ名}|
+|[[今天没吃药>>http://www.bilibili.com/video/av1433985]](※)|14/08/19|洛天依、言和|
+|[[僵尸舞>>http://www.bilibili.com/video/av1486033]](※)|14/08/31|洛天依|
+|[[怪物大暴走>>http://www.bilibili.com/video/av1685009]](※)|14/11/05|洛天依、言和|
+|[[神经病之歌>>http://www.bilibili.com/video/av1844227]](※)|14/12/30|洛天依、言和|
+|[[阴阳先生]]|15/02/08|洛天依、言和|
+|[[普通DISCO]]|15/03/21|洛天依、言和|
+|[[葬歌>>http://www.bilibili.com/video/av2609801]](※)|15/07/22|洛天依、言和|
+|[[花儿纳吉>>http://www.bilibili.com/video/av3031443]](※)|15/10/08|洛天依、言和|
+|[[大时代>>http://www.bilibili.com/video/av3179885]](※)|15/11/07|心華、楽正綾|
+|[[写给我第一个喜欢的女孩的歌>>http://www.bilibili.com/video/av3444039]](※)|15/12/24|洛天依|
+|[[一人行者>>http://www.bilibili.com/video/av3709035]](※)|16/01/31|心華|
+|[[最美的夏天>>https://bilibili.com/video/av5350871]](※)|16/07/16|洛天依|
+|[[埃及方块>>https://bilibili.com/video/av5838968]](※)|16/08/16|洛天依、言和|
+|[[深夜诗人>>http://www.bilibili.com/video/av7400996]](※)|16/12/05|洛天依、言和|
+|[[達拉崩吧]]|17/03/25|洛天依、言和|
+|[[9Bang15便士>>http://www.bilibili.com/video/av18426282]](※)|18/01/18|洛天依|
+|[[〇>>http://www.bilibili.com/video/av28381447]](※)|18/08/03|洛天依|
+|[[傲娇系男孩的告白日>>http://www.bilibili.com/video/av33640798]](※)|18/10/12|楽正綾|
+|[[鸽子>>http://www.bilibili.com/video/av39330059]](※)|18/12/29|洛天依、言和|
+|[[勾指起誓]]|19/02/13|洛天依|
+|[[夜间出租车>>http://www.bilibili.com/video/av44255110]](※)|19/02/21|洛天依|
+|[[大氿歌>>http://www.bilibili.com/video/av45020985]](※)|19/03/01|洛天依|
+|[[得过且过的勇者>>https://www.bilibili.com/video/av46980139]](※)|19/03/22|洛天依、言和|
+|[[售楼小姐>>http://www.bilibili.com/video/av3399141]](※)|19/04/26|洛天依|
+|[[保卫罗德岛>> http://www.bilibili.com/video/av55287468]](※)|19/06/11|洛天依|
+|[[上山岗>>http://www.bilibili.com/video/av80155822]](※)|19/12/22|洛天依|
+|[[苍蝇>>https://www.bilibili.com/video/av456679355]](※)|20/08/10|赤羽(Synthesizer V)|
+|[[泥汤>>https://bilibili.com/video/BV17y4y1q7ex]](※)|20/12/02|洛天依|
+|[[梦良衣>>https://www.bilibili.com/video/BV1UA411G7aS/]](※)|21/05/11|赤羽(Synthesizer V)|
+|[[我没有歌能给你听>>https://bilibili.com/video/BV1WR4y147x4]](※)|21/11/27|洛天依、楽正綾|
+|[[白鸟过河滩>>https://bilibili.com/video/BV1wT4y1k7Pw]](※)|22/05/02|洛天依|
+|[[大吉>>https://www.bilibili.com/video/BV1za411X7BJ]](※)|22/07/05|洛天依|
+|[[开心高兴歌>>https://www.bilibili.com/video/BV1Xe411F7bq/]](※)|22/12/19|洛天依|
+|[[大地球歌厅>>https://www.bilibili.com/video/BV1Xs4y1377m/]](※)|22/12/19|洛天依、ilem（人間）|
+#endregion
+#region(close,JUSF周存)
+JUSF周存による以下の&bold(){17曲}がミリオンを達成している。
+|CENTER:&bold(){曲名}|CENTER:&bold(){投稿日}|CENTER:&bold(){ボカロ名}|
+|[[双向监禁>>https://www.bilibili.com/video/av905385/]](※)|14/01/10|洛天依、言和|
+|[[罂粟花冠>>https://www.bilibili.com/video/av1125077]](※)|14/05/15|洛天依、鏡音レン|
+|[[宿命論>>http://www.bilibili.com/video/av1872018]](※)|15/01/09|洛天依|
+|[[双向遗忘>>https://www.bilibili.com/video/av3061232/]](※)|15/10/15|洛天依、言和、楽正綾|
+|[[由>>https://www.bilibili.com/video/av3809642]](※)|16/02/11|洛天依|
+|[[大小姐和大少爷的反派生涯>>http://www.bilibili.com/video/av14911611]](※)|17/09/30|洛天依|
+|[[大小姐的逃亡生涯>>https://www.bilibili.com/video/av15735744]](※)|17/10/26|洛天依、言和|
+|[[十二号诛杀者>>https://www.bilibili.com/video/av22271765]](※)|18/04/19|洛天依|
+|[[双向倾诉>>https://www.bilibili.com/video/av26586543]](※)|18/07/11|洛天依、言和|
+|[[大小姐的复仇生涯>>http://www.bilibili.com/video/av14911611]](※)|18/07/19|洛天依|
+|[[罂粟花冠 Forgotten ver.>>http://www.bilibili.com/video/av59781416]](※)|19/07/19|洛天依、鏡音レン|
+|[[请踢断我的肋骨吧]]|20/01/17|鏡音リン|
+|[[二十三>>https://www.bilibili.com/video/BV1hi4y1j7e2]](※)|20/10/16|洛天依|
+|[[王后>>https://www.bilibili.com/video/BV1Fv4y1f7wt/]](※)|21/01/22|洛天依|
+|[[然而我不是神>>https://www.bilibili.com/video/BV1Jy4y1Y7g7/]](※)|21/02/05|洛天依|
+|[[表里如一>>https://www.bilibili.com/video/BV19t4y1b7fr/]](※)|22/06/30|洛天依|
+|[[代替我>>https://www.bilibili.com/video/BV1VN411y7dx/]](※)|23/06/08|洛天依(ACE Studio)|
+#endregion
+#region(close,KBShinya)
+KBShinyaによる以下の&bold(){3曲}がミリオンを達成している。
+|CENTER:&bold(){曲名}|CENTER:&bold(){投稿日}|CENTER:&bold(){キャラクター名}|
+|[[弈>>https://www.bilibili.com/video/BV1q34y1271d]](※)|22/01/31|蒼穹(Synthesizer V)|
+|[[剑与雪>>https://www.bilibili.com/video/BV1H8411r74n/]](※)（冉语优とのコラボ）|23/10/17|星尘infinity(Synthesizer V)|
+|[[仙舟旧纪>>https://www.bilibili.com/festival/honkaistarrail2024spring?bvid=BV1oZ421B7RM]](※)|24/02/04|赤羽(Synthesizer V)|
+#endregion
+#region(close,Kide)
+Kideによる以下の&bold(){2曲}がミリオンを達成している。
+|CENTER:&bold(){曲名}|CENTER:&bold(){投稿日}|CENTER:&bold(){ボカロ名}|
+|[[星愿StarWish>>http://www.bilibili.com/video/av3954472]](※)|16/02/10|星尘|
+|[[404 Not Found>>https://www.bilibili.com/video/av69376404]](※)|19/09/30|赤羽(Synthesizer V)|
+#endregion
+#region(close,litterzy)
+litterzyによる以下の&bold(){3曲}がミリオンを達成している。
+|CENTER:&bold(){曲名}|CENTER:&bold(){投稿日}|CENTER:&bold(){ボカロ名}|
+|[[冠世一战>>http://www.bilibili.com/video/av36570568]](※)|19/02/04|言和|
+|[[万古生香]]|20/01/24|洛天依|
+|[[万物有灵>>https://www.bilibili.com/festival/VSF2023live?bvid=BV1e14y1M7gK]](※)（冥凰とのコラボ）|23/01/19|洛天依(ACE AI)|
+#endregion
+#region(close,LunaSafari)
+LunaSafariによる以下の&bold(){1曲}がミリオンを達成している。
+|CENTER:&bold(){曲名}|CENTER:&bold(){投稿日}|CENTER:&bold(){ボカロ名}|
+|[[月华舞>>https://www.bilibili.com/video/BV19W4y1f7hz/]](※)（冥凰とのコラボ）|23/07/12|洛天依(ACE AI)|
+#endregion
+#region(close,LS=_=)
+LS=_=による以下の&bold(){2曲}がミリオンを達成している。
+|CENTER:&bold(){曲名}|CENTER:&bold(){投稿日}|CENTER:&bold(){ボカロ名}|
+|[[一花依世界>>http://www.bilibili.com/video/av26659364]](※)|18/07/12|洛天依|
+|[[夏虫>>https://www.bilibili.com/video/bv1Hf4y1L7MF]](※)|21/07/12|洛天依|
+#endregion
+#region(close,[[Mitchie M]])
+[[Mitchie M]]による以下の&bold(){4曲}がミリオンを達成している。
+|CENTER:&bold(){曲名}|CENTER:&bold(){投稿日}|CENTER:&bold(){ボカロ名}|
+|[[ぶれないアイで]]|14/08/29|初音ミク|
+|[[暗殺プリンセス]]|19/10/30|初音ミク|
+|[[买买买]]|20/01/24|初音ミク|
+|[[ワーワーワールド]]（ギガPとの共作）|20/08/05|初音ミク・鏡音リン|
+#endregion
+#region(close,MusikM)
+MusikMによる以下の&bold(){1曲}がミリオンを達成している。
+|CENTER:&bold(){曲名}|CENTER:&bold(){投稿日}|CENTER:&bold(){ボカロ名}|
+|[[Sing>Sing/MusikM]]|18/08/31|初音ミク|
+#endregion
+#region(close,OQQ)
+OQQによる以下の&bold(){1曲}がミリオンを達成している。
+|CENTER:&bold(){曲名}|CENTER:&bold(){投稿日}|CENTER:&bold(){ボカロ名}|
+|[[你好，世界！>>https://www.bilibili.com/video/av28384607]](※)|18/08/03|徵羽摩柯|
+#endregion
+#region(close,PoKeR)
+PoKeRによる以下の&bold(){2曲}がミリオンを達成している。
+|CENTER:&bold(){曲名}|CENTER:&bold(){投稿日}|CENTER:&bold(){ボカロ名}|
+|[[我可能放了假寒假>>https://www.bilibili.com/video/av8037466]](※)|17/01/16|洛天依|
+|[[当然是选择原谅她啊>>https://www.bilibili.com/video/av9795355]](※)|17/04/13|洛天依|
+#endregion
+#region(close,[[STEAKA]])
+[[STEAKA]]による以下の&bold(){1曲}がミリオンを達成している。
+|CENTER:&bold(){曲名}|CENTER:&bold(){投稿日}|CENTER:&bold(){ボカロ名}|
+|[[ドーピングダンス]]|22/07/31|初音ミク|
+#endregion
+#region(close,Sya)
+Syaによる以下の&bold(){3曲}がミリオンを達成している。
+|CENTER:&bold(){曲名}|CENTER:&bold(){投稿日}|CENTER:&bold(){ボカロ名}|
+|[[自言自语>>https://www.bilibili.com/video/av10131337]](※)|17/04/27|洛天依|
+|[[自作自受>>https://www.bilibili.com/video/av20698616]](※)|18/03/15|洛天依|
+|[[自暴自弃>>http://www.bilibili.com/video/av43377419]](※)|19/02/13|洛天依|
+#endregion
+#region(close,Tino.S3)
+Tino.S3による以下の&bold(){4曲}がミリオンを達成している。
+|CENTER:&bold(){曲名}|CENTER:&bold(){投稿日}|CENTER:&bold(){ボカロ名}|
+|[[哈利波特学院印象曲・斯莱特林>>http://www.bilibili.com/video/av67647585]](※)|19/09/14|星尘|
+|[[哈利波特学院印象曲・格蘭芬多>>https://bilibili.com/video/BV1u54y1R7Rw]](※)|20/04/25|楽正綾|
+|[[哈利波特学院印象曲・拉文克勞>>https://bilibili.com/video/av459693843]](※)|21/03/20|言和|
+|[[哈利波特学院印象曲・赫奇帕奇>>https://bilibili.com/video/BV1tL4y1Y7iF]](※)|21/08/28|洛天依|
+#endregion
+#region(close,WOVOP)
+WOVOPによる以下の&bold(){1曲}がミリオンを達成している。
+|CENTER:&bold(){曲名}|CENTER:&bold(){投稿日}|CENTER:&bold(){ボカロ名}|
+|[[毕业通知>>https://www.bilibili.com/video/BV1hm411X77E]](※)|23/07/25|洛天依(ACE AI)|
+（削除された初期版で達成。リンク先は再投稿版）
+#endregion
+#region(close,Yu H.)
+Yu H.による以下の&bold(){1曲}がミリオンを達成している。
+|CENTER:&bold(){曲名}|CENTER:&bold(){投稿日}|CENTER:&bold(){ボカロ名}|
+|[[我的悲伤是水做的>>http://www.bilibili.com/video/av285205499]](※)|20/04/10|洛天依|
+#endregion
+#region(close,Z新豪)
+Z新豪による以下の&bold(){3曲}がミリオンを達成している。
+|CENTER:&bold(){曲名}|CENTER:&bold(){投稿日}|CENTER:&bold(){ボカロ名}|
+|[[東京不太熱>>http://www.bilibili.com/video/av2251501]](※)|15/04/24|洛天依|
+|[[幹物女(WeiWei)>>http://www.bilibili.com/video/av2951993]](※)|15/09/25|洛天依、楽正綾|
+|[[黑凤梨>>http://www.bilibili.com/video/av24929108]](※)|18/06/15|洛天依|
+#endregion
+#region(close,Z.Y.L)
+Z.Y.Lによる以下の&bold(){1曲}がミリオンを達成している。
+|CENTER:&bold(){曲名}|CENTER:&bold(){投稿日}|CENTER:&bold(){ボカロ名}|
+|[[警察蜀黍!!!就是这个人!!!!>>https://www.bilibili.com/video/av1328642]](※)|14/07/25|洛天依|
+#endregion
+#region(close,[[アボガド6]])
+[[アボガド6]]による以下の&bold(){2曲}がミリオンを達成している。
+|CENTER:&bold(){曲名}|CENTER:&bold(){投稿日}|CENTER:&bold(){ボカロ名}|
+|[[hand]]|20/02/25|旭音エマ(UTAU)|
+|[[ラヴ>ラヴ/アボガド6]]|20/07/09|旭音エマ(UTAU)|
+#endregion
+#region(close,[[稲葉曇]])
+[[稲葉曇]]による以下の&bold(){1曲}がミリオンを達成している。
+|CENTER:&bold(){曲名}|CENTER:&bold(){投稿日}|CENTER:&bold(){ボカロ名}|
+|[[ハルノ寂寞]]|21/05/13|弦巻マキ(Synthesizer V)|
+#endregion
+#region(close,[[ギガP]])
+[[ギガP]]による以下の&bold(){1曲}がミリオンを達成している。
+|[[ワーワーワールド]]（Mitchie Mとの共作）|20/08/05|初音ミク・鏡音リン|
+#endregion
+#region(close,[[ぐちり]])
+[[ぐちり]]による以下の&bold(){1曲}がミリオンを達成している。
+|CENTER:&bold(){曲名}|CENTER:&bold(){投稿日}|CENTER:&bold(){ボカロ名}|
+|[[アブノーマリティ・ダンシンガール]]|21/02/27|v flower|
+#endregion
+#region(close,[[自然の敵P]])
+[[自然の敵P]]による以下の&bold(){1曲}がミリオンを達成している。
+|CENTER:&bold(){曲名}|CENTER:&bold(){投稿日}|CENTER:&bold(){ボカロ名}|
+|[[T.A.O.]]|19/10/18|洛天依|
+#endregion
+#region(close,立入禁止)
+立入禁止による以下の&bold(){1曲}がミリオンを達成している。
+|CENTER:&bold(){曲名}|CENTER:&bold(){投稿日}|CENTER:&bold(){ボカロ名}|
+|[[惊蛰正中央>>https://www.bilibili.com/video/BV1bg4y1j7Mc/]](※)|23/05/06|歌愛ユキ、詩岸(Synthesizer V)|
+#endregion
+#region(close,[[西沢さんP]])
+[[西沢さんP]]による以下の&bold(){1曲}がミリオンを達成している。
+|CENTER:&bold(){曲名}|CENTER:&bold(){投稿日}|CENTER:&bold(){ボカロ名}|
+|[[ランウェイのファンタジスタ]]|19/01/27|初音ミク|
+#endregion
+#region(close,[[煮ル果実]])
+[[煮ル果実]]による以下の&bold(){2曲}がミリオンを達成している。
+|CENTER:&bold(){曲名}|CENTER:&bold(){投稿日}|CENTER:&bold(){ボカロ名}|
+|[[フランケンX]]（はるまきごはんとの共作）|21/10/17|初音ミク、v flower|
+|[[命辛辛]]|23/02/10|v flower|
+#endregion
+#region(close,[[ぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬ]])
+[[ぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬ]]による以下の&bold(){1曲}がミリオンを達成している。
+|CENTER:&bold(){曲名}|CENTER:&bold(){投稿日}|CENTER:&bold(){ボカロ名}|
+|[[ネ⠀土⠀会⠀ェ⠀貝⠀南⠀犬⠀☆⠀カ⠀ゞ⠀ん⠀I⠀よ⠀″⠀る⠀ノ⠀D⠀A⠀!!｡]]|23/08/05|ずんだもん(VOICEPEAK･NEUTRINO･VOICEVOX)・東北きりたん(VOICEPEAK･NEUTRINO)・可不(CeVIO)・初音ミク・栗田まろん(A.I.VOICE)・歌愛ユキ|
+#endregion
+#region(close,[[羽生まゐご]])
+[[羽生まゐご]]による以下の&bold(){1曲}がミリオンを達成している。
+|CENTER:&bold(){曲名}|CENTER:&bold(){投稿日}|CENTER:&bold(){ボカロ名}|
+|[[ハレハレヤ]]|18/05/03|v flower|
+#endregion
+#region(close,[[はるまきごはん]])
+[[はるまきごはん]]による以下の&bold(){2曲}がミリオンを達成している。
+|CENTER:&bold(){曲名}|CENTER:&bold(){投稿日}|CENTER:&bold(){ボカロ名}|
+|[[第三の心臓]]|21/05/15|初音ミク|
+|[[フランケンX]]（煮ル果実との共作）|21/10/17|初音ミク、v flower|
+#endregion
+#region(close,[[ピノキオピー]])
+[[ピノキオピー]]による以下の&bold(){4曲}がミリオンを達成している。
+|CENTER:&bold(){曲名}|CENTER:&bold(){投稿日}|CENTER:&bold(){ボカロ名}|
+|[[キラースパイダー]]|22/10/14|初音ミク|
+|[[甘噛みでおねがい]]|23/05/12|初音ミク|
+|[[Aじゃないか]]|23/05/12|初音ミク|
+|[[嘘ミーム]]|24/05/10|初音ミク|
+#endregion
+#region(close,[[ぺぽよ]])
+[[ぺぽよ]]による以下の&bold(){9曲}がミリオンを達成している。
+|CENTER:&bold(){曲名}|CENTER:&bold(){投稿日}|CENTER:&bold(){ボカロ名}|
+|[[疾風忍殺わらにんじゃ]]|20/07/12|初音ミク|
+|[[めんへらーめん]]|21/07/20|初音ミク|
+|[[『±0』/ぺぽよ]]|21/08/14|初音ミク|
+|[[いみごのたまご]]|22/04/23|歌愛ユキ・ぽよろいど（UTAU）|
+|[[でんでん心電図]]（リマスター版）|22/10/08|初音ミク|
+|[[のろいのノイローゼ]]|22/10/08|初音ミク、VY1、ぽよろいど（UTAU）|
+|[[×はんでぃ♡きゃっぱー×]]|22/12/11|初音ミク|
+|[[失態生態実験体]]|22/12/27|初音ミク|
+|[[拝啓]]|23/03/19|初音ミク|
+#endregion
+#region(close,[[まらしぃ]])
+[[まらしぃ]]による以下の&bold(){1曲}がミリオンを達成している。
+|CENTER:&bold(){曲名}|CENTER:&bold(){投稿日}|CENTER:&bold(){ボカロ名}|
+|[[SnowMix♪]]|22/12/23|初音ミク|
+#endregion
+#region(close,[[ヤバス]])
+[[ヤバス]]による以下の&bold(){1曲}がミリオンを達成している。
+|CENTER:&bold(){曲名}|CENTER:&bold(){投稿日}|CENTER:&bold(){ボカロ名}|
+|[[ニャンデット]]|22/11/11|初音ミク|
+#endregion
+#region(close,[[雄之助]])
+[[雄之助]]による以下の&bold(){2曲}がミリオンを達成している。
+|CENTER:&bold(){曲名}|CENTER:&bold(){投稿日}|CENTER:&bold(){ボカロ名}|
+|[[Awake Now]]|22/05/31|初音ミク|
+|[[Intergalactic Bound]]（Circus-Pとの共作）|24/01/12|初音ミク|
+#endregion
+#region(close,乌龟Sui)
+乌龟Suiによる以下の&bold(){5曲}がミリオンを達成している。
+|CENTER:&bold(){曲名}|CENTER:&bold(){投稿日}|CENTER:&bold(){ボカロ名}|
+|[[八辈子>>http://www.bilibili.com/video/av1250752]](※)|14/07/03|洛天依|
+|[[権御天下]]|15/03/05|洛天依|
+|[[九九八十一]]|16/02/22|洛天依、楽正綾|
+|[[天行健>>http://www.bilibili.com/video/av17632970]](※)|17/12/26|洛天依|
+|[[逆浪千秋>>http://www.bilibili.com/video/av20204904]](※)|18/03/01|言和|
+#endregion
+#region(close,鸟爷)
+鸟爷による以下の&bold(){1曲}がミリオンを達成している。
+|CENTER:&bold(){曲名}|CENTER:&bold(){投稿日}|CENTER:&bold(){ボカロ名}|
+|[[一半一半>>http://www.bilibili.com/video/av482844]](※)|13/02/22|洛天依|
+#endregion
+#region(close,初心社米库喵)
+初心社米库喵による以下の&bold(){1曲}がミリオンを達成している。
+|CENTER:&bold(){曲名}|CENTER:&bold(){投稿日}|CENTER:&bold(){ボカロ名}|
+|[[竹鼠煮熟术>>http://www.bilibili.com/video/av33676907]](※)|18/10/13|洛天依|
+#endregion
+#region(close,纳兰寻风)
+纳兰寻风による以下の&bold(){2曲}がミリオンを達成している。
+|CENTER:&bold(){曲名}|CENTER:&bold(){投稿日}|CENTER:&bold(){ボカロ名}|
+|[[繁华唱遍>>http://www.bilibili.com/video/av36570707]](※)|19/02/04|洛天依、言和|
+|[[流年如歌>>https://www.bilibili.com/video/av78978783]](※)|20/01/24|蒼穹(Synthesizer V)|
+|[[快乐手帐>>https://bilibili.com/video/BV1t34y1273b]](※)|22/01/31|初音ミク|
+#endregion
+#region(close,阿良良木健)
+阿良良木健による以下の&bold(){4曲}がミリオンを達成している。
+|CENTER:&bold(){曲名}|CENTER:&bold(){投稿日}|CENTER:&bold(){ボカロ名}|
+|[[I LOVE U>>https://www.bilibili.com/video/av540768]](※)|13/04/20|洛天依|
+|[[绝体绝命>>http://www.bilibili.com/video/av21551703]](※)|18/04/04|洛天依|
+|[[不老不死>>http://www.bilibili.com/video/av55888297]](※)|19/06/18|洛天依|
+|[[一点一点>>https://www.bilibili.com/video/BV15J411x7e1/]](※)|19/12/25|洛天依|
+#endregion
+#region(close,康师傅の海鲜面)
+康师傅の海鲜面による以下の&bold(){1曲}がミリオンを達成している。
+|CENTER:&bold(){曲名}|CENTER:&bold(){投稿日}|CENTER:&bold(){ボカロ名}|
+|[[万神纪>>http://www.bilibili.com/video/av8506694]](※)|17/02/10|星尘|
+#endregion
+#region(close,黒白P)
+黒白Pによる以下の&bold(){2曲}がミリオンを達成している。
+|CENTER:&bold(){曲名}|CENTER:&bold(){投稿日}|CENTER:&bold(){ボカロ名}|
+|[[你真的好弔>>http://www.bilibili.com/video/av3399141]](※)|15/12/17|洛天依、言和|
+|[[起来！（我特么不想起床啊啊啊啊）>>https://www.bilibili.com/video/av4481889]](※)|16/04/27|洛天依、言和|
+#endregion
+#region(close,睡狸)
+睡狸による以下の&bold(){1曲}がミリオンを達成している。
+|CENTER:&bold(){曲名}|CENTER:&bold(){投稿日}|CENTER:&bold(){ボカロ名}|
+|[[真·操戈天下>>http://www.bilibili.com/video/av2414867]](※)|15/06/08|洛天依|
+#endregion
+#region(close,唐乐林)
+唐乐林による以下の&bold(){1曲}がミリオンを達成している。
+|CENTER:&bold(){曲名}|CENTER:&bold(){投稿日}|CENTER:&bold(){ボカロ名}|
+|[[前尘如梦「新年重制版」>>https://www.bilibili.com/video/av456930]](※)|13/01/31|洛天依|
+（本家ではなく、投稿者本人によるリメイクPV版）
+#endregion
+#region(close,花儿不哭)
+花儿不哭による以下の&bold(){1曲}がミリオンを達成している。
+|CENTER:&bold(){曲名}|CENTER:&bold(){投稿日}|CENTER:&bold(){ボカロ名}|
+|[[再一杯！>>https://www.bilibili.com/video/av56836021]](※)|19/06/26|洛天依、言和、楽正綾、楽正龍牙、徵羽摩柯、墨清弦|
+#endregion
+#region(close,非人哉工作室)
+非人哉工作室による以下の&bold(){1曲}がミリオンを達成している。
+|CENTER:&bold(){曲名}|CENTER:&bold(){投稿日}|CENTER:&bold(){ボカロ名}|
+|[[非人哉>>https://www.bilibili.com/video/av21221652]](※)|18/03/25|洛天依|
+#endregion
+#region(close,宣霖)
+宣霖による以下の&bold(){1曲}がミリオンを達成している。
+|CENTER:&bold(){曲名}|CENTER:&bold(){投稿日}|CENTER:&bold(){ボカロ名}|
+|[[地势坤>>https://www.bilibili.com/video/av69519887]]（李星月とのコラボ）(※)|19/10/01|洛天依、言和、楽正綾、楽正龍牙、徵羽摩柯、墨清弦|
+#endregion
+#region(close,李星月)
+李星月による以下の&bold(){1曲}がミリオンを達成している。
+|CENTER:&bold(){曲名}|CENTER:&bold(){投稿日}|CENTER:&bold(){ボカロ名}|
+|[[地势坤>>https://www.bilibili.com/video/av69519887]]（宣霖とのコラボ）(※)|19/10/01|洛天依、言和、楽正綾、楽正龍牙、徵羽摩柯、墨清弦|
+#endregion
+#region(close,纯白)
+纯白による以下の&bold(){3曲}がミリオンを達成している。
+|CENTER:&bold(){曲名}|CENTER:&bold(){投稿日}|CENTER:&bold(){ボカロ名}|
+|[[中华墨水娘>>https://www.bilibili.com/video/BV1Cs411f7v6/]](※)|13/09/08|洛天依|
+|[[白石溪>>https://www.bilibili.com/video/av3675122]](※)|16/01/27|洛天依、楽正綾|
+|[[中华铄金娘>>https://www.bilibili.com/video/av5244057]](※)|16/07/08|洛天依|
+#endregion
+#region(close,沧弦落尘)
+沧弦落尘による以下の&bold(){1曲}がミリオンを達成している。
+|CENTER:&bold(){曲名}|CENTER:&bold(){投稿日}|CENTER:&bold(){ボカロ名}|
+|[[肮脏的神>>https://www.bilibili.com/video/BV1Ta4y147hE]](※)|20/04/21|洛天依|
+#endregion
+#region(close,忘川风华录)
+忘川风华录による以下の&bold(){38曲}がミリオンを達成している。
+|CENTER:&bold(){曲名}|CENTER:&bold(){投稿日}|CENTER:&bold(){ボカロ名}|
+|[[多情岸>>https://www.bilibili.com/video/av25386207]](※)|18/06/22|洛天依|
+|[[洛陽懷>>https://www.bilibili.com/video/av26273939]](※)|18/07/06|洛天依|
+|[[易水诀>>https://www.bilibili.com/video/av27928449]](※)|18/07/28|洛天依、楽正綾|
+|[[山河令>>https://www.bilibili.com/video/av29861968]](※)|18/08/20|星尘|
+|[[簪花人间>>https://www.bilibili.com/video/av32236561/]](※)|18/09/22|星尘|
+|[[栖凰>>https://bilibili.com/video/av34158327]](※)|18/10/19|星尘|
+|[[祖龙吟>>https://www.bilibili.com/video/av42348447]](※)|19/02/01|星尘|
+|[[如见青山>>https://www.bilibili.com/video/av48312083]](※)|19/04/05|心華|
+|[[天下局>>https://www.bilibili.com/video/av65904455]](※)|19/08/30|赤羽(Synthesizer V)|
+|[[青鸟衔风>>https://www.bilibili.com/video/av79182548]](※)|19/12/14|詩岸(Synthesizer V)、海伊(Synthesizer V)|
+|[[木兰行>>https://www.bilibili.com/video/av837540509]](※)|20/04/01|蒼穹(Synthesizer V)|
+|[[好字唯之>>https://www.bilibili.com/video/av710942299]](※)|20/06/12|海伊(Synthesizer V)|
+|[[不可道>>https://www.bilibili.com/video/BV1xD4y127im]](※)|20/08/14|赤羽(Synthesizer V)|
+|[[水叙湖风>>https://www.bilibili.com/video/BV1Xp4y1a7zj/]](※)|20/09/30|星尘Infinity(Synthesizer V)|
+|[[是非>>https://www.bilibili.com/video/BV14K4y1E7t4]](※)|20/11/06|蒼穹(Synthesizer V)|
+|[[风起甘露>>https://www.bilibili.com/video/BV1Xi4y1L7wL/]](※)|20/11/20|蒼穹(Synthesizer V)|
+|[[谓剑>>https://www.bilibili.com/video/BV1xZ4y137QB]](※)|21/01/01|赤羽(Synthesizer V)、叁琏(UTAU)|
+|[[万象霜天>>https://www.bilibili.com/festival/2021bnj?bvid=BV1zN411d7dG]](※)|21/02/11|赤羽(Synthesizer V)|
+|[[千秋梦>>https://www.bilibili.com/video/BV1Gi4y1K7Hr]](※)|21/03/12|赤羽(Synthesizer V)|
+|[[易安难安>>https://www.bilibili.com/video/BV19y4y1b7Kd]](※)|21/04/02|赤羽(Synthesizer V)|
+|[[惊鹊>>https://www.bilibili.com/video/av375265162]](※)|21/04/30|海伊(Synthesizer V)、星尘Minus(Synthesizer V)|
+|[[不赴>>https://www.bilibili.com/video/av375265162]](※)|21/08/13|赤羽(Synthesizer V)、蒼穹(Synthesizer V)|
+|[[西行>>https://www.bilibili.com/video/av377998145/]](※)|21/09/10|赤羽(Synthesizer V)|
+|[[倾国>>https://www.bilibili.com/video/BV1V34y1r77P]](※)|21/09/10|赤羽(Synthesizer V)・赵方婧（人間）|
+|[[牡丹乱>>https://www.bilibili.com/video/BV1aL41137rN/]](※)|21/11/05|赤羽(Synthesizer V)|
+|[[相虎>>https://www.bilibili.com/video/BV1wm4y1S7qZ/]](※)|22/01/22|苍穹(Synthesizer V)|
+|[[补天裂>>https://www.bilibili.com/video/BV1EP4y1N7QN/]](※)|22/02/03|海伊(Synthesizer V)、星尘Infinity(Synthesizer V)|
+|[[破云来>>https://www.bilibili.com/video/BV1zU4y1m7ej]](※)|22/05/13|赤羽(Synthesizer V)|
+|[[归钓吟>>https://www.bilibili.com/video/BV1eG4y1e76P/]](※)|22/08/12|苍穹(Synthesizer V)|
+|[[始见千秋>>https://www.bilibili.com/video/BV1JG4y1b7oB/]](※)|22/10/29|苍穹、赤羽、星尘Infinity、海伊(いずれもSynthesizer V)|
+|[[临川浮梦>>https://www.bilibili.com/video/BV1Tx4y137YT/]](※)|23/01/13|赤羽(Synthesizer V)、星尘Infinity(Synthesizer V)|
+|[[将军行>>https://www.bilibili.com/video/BV1xs4y1s7Kj/]](※)|23/01/27|苍穹、星尘infinity、赤羽(いずれもSynthesizer V)|
+|[[妄语人间>>https://www.bilibili.com/video/BV1yj411g7Lo/]](※)|23/03/03|星尘Infinity(Synthesizer V)|
+|[[数风流>>https://www.bilibili.com/video/BV1Wg4y1W7jK/]](※)|23/03/23|星尘infinity、海伊、苍穹、诗岸、星尘Minus、赤羽、牧心(いずれもSynthesizer V)|
+|[[问剑春秋>>https://www.bilibili.com/video/BV1Uu4y1Z7vN/]](※)|23/06/09|苍穹(Synthesizer V)、赤羽(Synthesizer V)|
+|[[起战令>>https://www.bilibili.com/video/BV1fg4y1c7pD/]](※)|23/07/08|赤羽(Synthesizer V)、星尘Minus(Synthesizer V)|
+|[[人间应又雪>>https://www.bilibili.com/video/BV1wH4y1m7Pc/]](※)|23/11/24|洛天依(ACE AI)、言和(ACE AI)|
+|[[旷古回响>>https://www.bilibili.com/video/BV1wH4y1m7Pc/]](※)|23/11/24|赤羽、苍穹、海伊、诗岸、星尘Infinity、星尘Minus、牧心(いずれもSynthesizer V)|
+#endregion
+#region(close,阿薩)
+阿薩による以下の&bold(){1曲}がミリオンを達成している。
+|CENTER:&bold(){曲名}|CENTER:&bold(){投稿日}|CENTER:&bold(){ボカロ名}|
+|[[說書先生>>https://bilibili.com/video/BV1iz4y117uc]](※)|21/03/13|洛天依|
+#endregion
+#region(close,林迈可)
+林迈可による以下の&bold(){1曲}がミリオンを達成している。
+|CENTER:&bold(){曲名}|CENTER:&bold(){投稿日}|CENTER:&bold(){ボカロ名}|
+|[[追光使者>>https://www.bilibili.com/video/av7846056]](※)|17/01/04|洛天依|
+#endregion
+#region(close,人形兎)
+人形兎による以下の&bold(){1曲}がミリオンを達成している。
+|CENTER:&bold(){曲名}|CENTER:&bold(){投稿日}|CENTER:&bold(){ボカロ名}|
+|[[一梦千宵>>https://bilibili.com/video/BV1QL4y147wM]](※)|22/01/22|洛天依|
+#endregion
+#region(close,雨狸)
+雨狸による以下の&bold(){2曲}がミリオンを達成している。
+|CENTER:&bold(){曲名}|CENTER:&bold(){投稿日}|CENTER:&bold(){ボカロ名}|
+|[[塔与少女的无题诗>>https://www.bilibili.com/video/BV17D4y1R7Ut]](※)|20/10/04|洛天依、言和、楽正綾、墨清弦|
+|[[那些我恐惧至极的事>>https://www.bilibili.com/video/BV17D4y1R7Ut]](※)|20/11/14|洛天依、楽正綾|
+#endregion
+#region(close,米库喵)
+米库喵による以下の&bold(){1曲}がミリオンを達成している。
+|CENTER:&bold(){曲名}|CENTER:&bold(){投稿日}|CENTER:&bold(){ボカロ名}|
+|[[COME BACK~重返巅峰~>>https://www.bilibili.com/bangumi/play/ep290218]](※)|19/11/01|初音ミク|
+#endregion
+#region(close,闹闹)
+闹闹による以下の&bold(){2曲}がミリオンを達成している。
+|CENTER:&bold(){曲名}|CENTER:&bold(){投稿日}|CENTER:&bold(){ボカロ名}|
+|[[老街北>>https://www.bilibili.com/video/av57785834/]](※)|19/07/05|洛天依|
+|[[扬旗鸣鼓>>https://www.bilibili.com/festival/VSF2022live?bvid=BV1mb4y1E7RF]](※)|22/02/01|洛天依、楽正綾|
+#endregion
+#region(close,四不像)
+四不像による以下の&bold(){1曲}がミリオンを達成している。
+|CENTER:&bold(){曲名}|CENTER:&bold(){投稿日}|CENTER:&bold(){ボカロ名}|
+|[[谁杀死了知更鸟>>https://www.bilibili.com/video/av25691870/]](※)|18/06/27|言和|
+#endregion
+#region(close,希望索任合资)
+希望索任合资による以下の&bold(){1曲}がミリオンを達成している。
+|CENTER:&bold(){曲名}|CENTER:&bold(){投稿日}|CENTER:&bold(){ボカロ名}|
+|[[阿弥陀佛头摇摇>>https://www.bilibili.com/video/av91876053/]](※)|20/02/28|洛天依|
+#endregion
+#region(close,星葵)
+星葵による以下の&bold(){1曲}がミリオンを達成している。
+|CENTER:&bold(){曲名}|CENTER:&bold(){投稿日}|CENTER:&bold(){ボカロ名}|
+|[[啥啊>>https://www.bilibili.com/video/BV15r4y1E72p/]](※)|22/07/12|洛天依(ACE AI)|
+#endregion
+#region(close,伊野奏)
+伊野奏による以下の&bold(){2曲}がミリオンを達成している。
+|CENTER:&bold(){曲名}|CENTER:&bold(){投稿日}|CENTER:&bold(){ボカロ名}|
+|[[我多想说再见啊>>https://www.bilibili.com/video/BV1dP4y1T7TU/]](※)|22/03/25|星尘Infinity(Synthesizer V)|
+|[[我在池袋看漂亮姐姐>>https://www.bilibili.com/video/BV1sZ4y127KT/]](※)|22/04/10|星尘Infinity(Synthesizer V)|
+|[[Monster!Monster!>>https://www.bilibili.com/video/BV14V4y157Qx/]](※)|22/10/22|洛天依(ACE AI)|
+#endregion
+#region(close,柯立可)
+柯立可による以下の&bold(){1曲}がミリオンを達成している。
+|CENTER:&bold(){曲名}|CENTER:&bold(){投稿日}|CENTER:&bold(){ボカロ名}|
+|[[我多想说再见啊>>https://www.bilibili.com/video/BV1dP4y1T7TU/]](※)|22/03/25|星尘Infinity(Synthesizer V)|
+#endregion
+#region(close,杉田朗)
+杉田朗による以下の&bold(){1曲}がミリオンを達成している。
+|CENTER:&bold(){曲名}|CENTER:&bold(){投稿日}|CENTER:&bold(){ボカロ名}|
+|[[66CCFF>>https://www.bilibili.com/video/av360940/]](※)|12/09/22|洛天依|
+#endregion
+#region(close,苏逸)
+苏逸による以下の&bold(){2曲}がミリオンを達成している。
+|CENTER:&bold(){曲名}|CENTER:&bold(){投稿日}|CENTER:&bold(){ボカロ名}|
+|[[有你刚刚好>>https://www.bilibili.com/festival/genshin2023?bvid=BV1ZY4y1Z7og]](※)|23/01/21|洛天依（ACE Studio）、楽正綾（ACE Studio）|
+|[[闭眼 我触碰幻想的边界>>https://www.bilibili.com/festival/2023bnj?bvid=BV1QY4y1Z7UZ]](※)|23/01/21|洛天依（ACE Studio）|
+#endregion
+#region(close,温莨)
+温莨による以下の&bold(){1曲}がミリオンを達成している。
+|CENTER:&bold(){曲名}|CENTER:&bold(){投稿日}|CENTER:&bold(){ボカロ名}|
+|[[灼>>https://www.bilibili.com/video/BV12m4y1m7bT/]](※)|23/04/13|洛天依（ACE Studio）|
+#endregion
+#region(close,西门振)
+西门振による以下の&bold(){1曲}がミリオンを達成している。
+|CENTER:&bold(){曲名}|CENTER:&bold(){投稿日}|CENTER:&bold(){ボカロ名}|
+|[[灼>>https://www.bilibili.com/video/BV12m4y1m7bT/]](※)|23/04/13|洛天依（ACE Studio）|
+#endregion
+#region(close,浓缩排骨)
+浓缩排骨による以下の&bold(){1曲}がミリオンを達成している。
+|CENTER:&bold(){曲名}|CENTER:&bold(){投稿日}|CENTER:&bold(){ボカロ名}|
+|[[Talking to the Rain>>https://www.bilibili.com/video/av85509041/]](※)（芹菜猪肉大馄饨とのコラボ）|20/01/29|星尘、海伊（Synthesizer V）|
+#endregion
+#region(close,芹菜猪肉大馄饨)
+西门振による以下の&bold(){1曲}がミリオンを達成している。
+|CENTER:&bold(){曲名}|CENTER:&bold(){投稿日}|CENTER:&bold(){ボカロ名}|
+|[[Talking to the Rain>>https://www.bilibili.com/video/av85509041/]](※)（浓缩排骨とのコラボ）|20/01/29|星尘、海伊（Synthesizer V）|
+#endregion
+#region(close,徐肖)
+徐肖による以下の&bold(){1曲}がミリオンを達成している。
+|CENTER:&bold(){曲名}|CENTER:&bold(){投稿日}|CENTER:&bold(){ボカロ名}|
+|[[歌行四方>>https://www.bilibili.com/video/BV1Yp4y1j7jX/]](※)（乐仔とのコラボ）|23/09/01|星尘、海伊（Synthesizer V）|
+#endregion
+#region(close,乐仔)
+西门振による以下の&bold(){1曲}がミリオンを達成している。
+|CENTER:&bold(){曲名}|CENTER:&bold(){投稿日}|CENTER:&bold(){ボカロ名}|
+|[[歌行四方>>https://www.bilibili.com/video/BV1Yp4y1j7jX/]](※)（徐肖とのコラボ）|23/09/01|洛天依（ACE Studio）|
+#endregion
+#region(close,冉语优)
+冉语优による以下の&bold(){1曲}がミリオンを達成している。
+|CENTER:&bold(){曲名}|CENTER:&bold(){投稿日}|CENTER:&bold(){キャラクター名}|
+|[[剑与雪>>https://www.bilibili.com/video/BV1H8411r74n/]](※)（KBShinyaとのコラボ）|23/10/17|星尘infinity(Synthesizer V)|
+#endregion
+#region(close,冥凰)
+冥凰による以下の&bold(){2曲}がミリオンを達成している。
+|CENTER:&bold(){曲名}|CENTER:&bold(){投稿日}|CENTER:&bold(){ボカロ名}|
+|[[万物有灵>>https://www.bilibili.com/festival/VSF2023live?bvid=BV1e14y1M7gK]](※)（litterzyとのコラボ）|23/01/19|洛天依(ACE AI)|
+|[[月华舞>>https://www.bilibili.com/video/BV19W4y1f7hz]](※)（LunaSafariとのコラボ）|23/07/12|洛天依(ACE AI)|
+#endregion
+#region(close,动点P)
+动点Pによる以下の&bold(){1曲}がミリオンを達成している。
+|CENTER:&bold(){曲名}|CENTER:&bold(){投稿日}|CENTER:&bold(){キャラクター名}|
+|[[咱俩谁管谁叫爹>>https://www.bilibili.com/video/av40513142]](※)|19/01/12|楽正龍牙、徵羽摩柯|
+#endregion
+#region(close,豆腐P)
+豆腐Pによる以下の&bold(){1曲}がミリオンを達成している。
+|CENTER:&bold(){曲名}|CENTER:&bold(){投稿日}|CENTER:&bold(){キャラクター名}|
+|[[我将沐火而唱>>https://www.bilibili.com/video/av84418002]](※)|20/02/13|東方梔子(UTAU)|
+#endregion
+#region(close,纪远)
+纪远による以下の&bold(){1曲}がミリオンを達成している。
+|CENTER:&bold(){曲名}|CENTER:&bold(){投稿日}|CENTER:&bold(){ボカロ名}|
+|[[聚光>>https://www.bilibili.com/video/av612444436/]](※)（iKzとのコラボ）|23/04/15|洛天依(ACE Studio)|
+#endregion
+#region(close,胧)
+胧による以下の&bold(){1曲}がミリオンを達成している。
+|CENTER:&bold(){曲名}|CENTER:&bold(){投稿日}|CENTER:&bold(){ボカロ名}|
+|[[最终祈愿>>https://www.bilibili.com/video/BV1uP4y1g7c3]](※)（Ddickkyとのコラボ）|22/03/04|星尘Infinity(Synthesizer V)|
+#endregion
+#endregion
+
+//ニコ動で達成した場合はこちらの方を消してください。
+//勝手に読みやすくまとめてしまいました。前の状態に戻してもらっても構いません。申し訳ございません。(2018.5.12)
+
+*達成曲一覧
+//
+//
+// 編集の順序
+// 1.本家曲の場合、基本的に一番上の数字を増やす。カバー曲などでは触らない
+// 2.コメントアウト分から必要なデータを表に載るように入れる
+// 2-a.バージョン違い、同名曲などに注意してリンクを張る
+// 2-b.達成日時の記載。
+//
+// 達成時刻の確認方法について（一編集者のやり方なので、参考程度に
+// 1.投稿者のニコレポで100万再生or動画再生数スタンプLv4が公開されている場合、ページのソースから正確な達成時刻が確認可能
+// 2.ニコレポ非公開の場合
+//  2-a.編集者が達成時に立会いした場合であれば、その時刻
+//  2-b.達成時に立会いできなかった場合、コメント時刻より類推（コメントの流れが速い場合、過去ログコメントで）
+
+YouTube・Bilibili達成状況についての表記の意味は以下の通り。
+-「○」:その動画サイトで達成済み
+-「×」:その動画サイトには投稿されているが、達成していない
+-「投稿なし」:その動画サイトに投稿されていない
+
+#region(close,リスト表示（表示最大100件）)
+リスト表示（表示最大100件）
+#list_by_tag(ミリオン達成曲,100,sort=furigana,errmsg=まだ曲が登録されていません)
+※このリストの表示は最大100件までしかされません。リスト外の曲は下記より参照。
+[[「ミリオン達成曲」タグを含む全てのページ>http://www5.atwiki.jp/hmiku/tag/%e3%83%9f%e3%83%aa%e3%82%aa%e3%83%b3%e9%81%94%e6%88%90%e6%9b%b2]]
+#endregion
+
+400曲超えと膨大になり複雑化を避けるため、リスト表示にしました。
+
+#areaedit
+#region(close,2007年～2012年 計122曲、一曲扱い除くと計120曲)
+2007年～2012年 計122曲、一曲扱い除くと計120曲
+#region(close,2007年 計1曲)
+2007年 計1曲
+|CENTER:&bold(){曲名}|CENTER:&bold(){P名}|CENTER:&bold(){ボカロ名}|CENTER:&bold(){投稿日}|CENTER:&bold(){達成日（所要日数）}|CENTER:&bold(){YouTube達成状況}|CENTER:CENTER:&bold(){BiliBili達成状況}|
+|[[みくみくにしてあげる♪]]|[[ika]]|初音ミク|07/09/20|07/10/15 22:18（25日）|×&footnote(アートトラックのみの投稿)|投稿なし|
+#endregion
+#region(close,2008年 計9曲)
+2008年 計9曲
+|CENTER:&bold(){曲名}|CENTER:&bold(){P名}|CENTER:&bold(){ボカロ名}|CENTER:&bold(){投稿日}|CENTER:&bold(){達成日（所要日数）}|CENTER:&bold(){YouTube達成状況}|CENTER:CENTER:&bold(){BiliBili達成状況}|
+|[[メルト]]|[[ryo>ryo/supercell]]|初音ミク|07/12/07|08/01/13 21:56（37日）|投稿なし|投稿なし|
+|[[卑怯戦隊うろたんだー]]|[[シンP]]|KAITO、MEIKO、初音ミク|07/11/28|08/05/10 04:42（164日）|投稿なし|投稿なし|
+|[[ワールドイズマイン>ワールドイズマイン/ryo]]|[[ryo>ryo/supercell]]|初音ミク|08/05/31|08/08/17 01:30（78日）|投稿なし|投稿なし|
+|[[ハジメテノオト]]|[[malo]]|初音ミク|07/10/14|08/09/21 04:27（343日）|×&footnote(アートトラックのみの投稿)|投稿なし|
+|[[ブラック★ロックシューター]]|[[ryo>ryo/supercell]]|初音ミク|08/06/13|08/10/01 22:10（110日）|投稿なし|投稿なし|
+|[[恋スルVOC@LOID]]（修正版）|[[OSTER project]]|初音ミク|07/09/13|08/10/15 20:24（398日）|×|投稿なし|
+|[[恋は戦争]]|[[ryo>ryo/supercell]]|初音ミク|08/02/22|08/11/04 11:28（256日）|投稿なし|投稿なし|
+|[[初音ミクの消失 -DEAD END-]]|[[cosMo（暴走P）]]|初音ミク|08/04/08|08/11/11 18:56（217日）|○&footnote(2018リメイク版での達成。オリジナル版は投稿なし)|×|
+|[[ぶっちぎりにしてあげる♪]]|[[ぶっちぎりP]]|鏡音リン|08/01/01|08/12/01 00:36（335日）|投稿なし|投稿なし|
+#endregion
+#region(close,2009年 計18曲、一曲扱い除くと計17曲)
+2009年 計18曲、一曲扱い除くと計17曲
+|CENTER:&bold(){曲名}|CENTER:&bold(){P名}|CENTER:&bold(){ボカロ名}|CENTER:&bold(){投稿日}|CENTER:&bold(){達成日（所要日数）}|CENTER:&bold(){YouTube達成状況}|CENTER:CENTER:&bold(){Bilibili達成状況}|
+|[[炉心融解]]（オリジナル版）|[[iroha>iroha/作り手]]|鏡音リン|08/12/20|09/02/18 19:50（60日）|投稿なし|投稿なし|
+|[[サイハテ]]|[[小林オニキス]]|初音ミク|08/01/16|09/03/02 23:56（411日）|投稿なし|投稿なし|
+|[[ダブルラリアット]]|[[アゴアニキP]]|巡音ルカ|09/02/05|09/03/07 10:14（30日）|○|投稿なし|
+|[[悪ノ召使]]|[[悪ノP]]|鏡音レン|08/04/29|09/03/21 22:31（326日）|×|投稿なし|
+|[[桜ノ雨]]|[[halyosy]]|初音ミク|08/02/23|09/03/30 12:26（401日）|×|投稿なし|
+|[[Packaged]]|[[kz]]|初音ミク|07/09/25|09/04/21 23:41（574日）|×|投稿なし|
+|[[RIP=RELEASE]]|[[流星P]]|巡音ルカ|09/01/30|09/05/10 14:22（100日）|投稿なし|投稿なし|
+|[[ダンシング☆サムライ]]|[[カニミソP]]|がくっぽいど|08/07/31|09/07/09 08:45（343日）|×|投稿なし|
+|[[ロミオとシンデレラ]]|[[doriko]]|初音ミク|09/04/06|09/07/09 13:45（94日）|○|投稿なし|
+|[[歌に形はないけれど]]|[[doriko]]|初音ミク|08/01/20|09/08/25 22:20（583日）|×|投稿なし|
+|[[magnet]]|[[流星P]]|初音ミク、巡音ルカ|09/05/01|09/09/06 23:30（128日）|投稿なし|投稿なし|
+|[[初めての恋が終わる時]]|[[ryo>ryo/supercell]]|初音ミク|08/12/12|09/10/06 21:14（298日）|投稿なし|投稿なし|
+|[[Just Be Friends]]|[[Dixie Flatline]]|巡音ルカ|09/07/04|09/11/07 03:31（126日）|○&footnote(アートトラックおよびプロジェクトセカイ2DMVでの達成。本家動画は未達成)|投稿なし|
+|[[結ンデ開イテ羅刹ト骸]]|[[ハチ]]|初音ミク|09/07/06|09/11/09 13:00（126日）|○|投稿なし|
+|[[おなかすいたうた]]|[[ドンフライP]]|初音ミク|07/12/25|09/11/23 11:59（699日）|投稿なし|投稿なし|
+|[[千年の独奏歌]]|[[yanagiP]]|KAITO|08/04/27|09/11/23 20:20（575日）|投稿なし|投稿なし|
+|[[悪ノ娘]]|[[悪ノP]]|鏡音リン|08/04/06|09/11/26 23:20（599日）|×|投稿なし|
+|[[炉心融解]]（再投稿版）|[[iroha>iroha/作り手]]|鏡音リン|09/08/30|09/12/16 21:31（108日）|○|投稿なし|
+#endregion
+#region(close,2010年 計28曲、一曲扱い除くと計27曲)
+2010年 計28曲、一曲扱い除くと計27曲
+|CENTER:&bold(){曲名}|CENTER:&bold(){P名}|CENTER:&bold(){ボカロ名}|CENTER:&bold(){投稿日}|CENTER:&bold(){達成日（所要日数）}|CENTER:&bold(){YouTube達成状況}|CENTER:CENTER:&bold(){BiliBili達成状況}|
+|[[よっこらせっくす]]|[[アゴアニキP]]|鏡音リン|08/09/29|10/01/18 16:46（476日）|投稿なし|投稿なし|
+|[[ミラクルペイント]]|[[OSTER project]]|初音ミク|07/11/22|10/02/27 00:26（828日）|×|投稿なし|
+|[[ココロ]]|[[トラボルタP]]|鏡音リン|08/03/03|10/03/02 18:10（729日）|×&footnote(アートトラックのみの投稿)|投稿なし|
+|[[ルカルカ★ナイトフィーバー]]|[[samfree]]|巡音ルカ|09/02/12|10/03/07 15:11（388日）|投稿なし|投稿なし|
+|[[裏表ラバーズ]]|[[wowaka]]|初音ミク|09/08/30|10/03/25 23:32（207日）|○|投稿なし|
+|[[カンタレラ]]|[[黒うさP]]|KAITO、初音ミク|08/02/21|10/04/07 18:02（776日）|○&footnote(grace editionでの達成。オリジナル版は投稿なし)|投稿なし|
+|[[＊ハロー、プラネット。]]|[[ささくれP]]|初音ミク|09/05/24|10/04/09 16:23（320日）|○|×|
+|[[Last Night, Good Night]]|[[kz]]|初音ミク|08/07/31|10/04/19 23:51（627日）|○|投稿なし|
+|[[サンドリヨン（Cendrillon）]]|[[シグナルP]]|初音ミク、KAITO|08/08/25|10/05/24 11:15（637日）|×|×|
+|[[くるみ☆ぽんちお]]|[[まだ仔]]|初音ミク|09/11/02|10/06/06 21:45（216日）|投稿なし|投稿なし|
+|[[ワールズエンド・ダンスホール]]|[[wowaka]]|初音ミク、巡音ルカ|10/05/18|10/06/17 06:53（30日）|○|投稿なし|
+|[[パラジクロロベンゼン]]|[[オワタP]]|鏡音レン|09/09/19|10/06/27 16:14（281日）|○|×|
+|[[ローリンガール]]|[[wowaka]]|初音ミク|10/02/14|10/06/28 21:52（134日）|○|投稿なし|
+|[[ぽっぴっぽー]]（初音ミク版）|[[ラマーズP]]|初音ミク|08/12/11|10/06/29 21:15（565日）|○&footnote(V3Editionでの達成。初期版は投稿なし)|投稿なし|
+|[[右肩の蝶]]（鏡音リン版）|[[のりP]]|鏡音リン|09/04/01|10/07/01 09:55（456日）|×|投稿なし|
+|[[星屑ユートピア]]|[[otetsu]]|巡音ルカ|09/01/30|10/07/19 02:16（535日）|×|投稿なし|
+|[[右肩の蝶]]（鏡音レン版）|[[のりP]]|鏡音レン|09/05/03|10/08/03 05:56（457日）|×|投稿なし|
+|[[1925]]|[[とみー]]|初音ミク|09/10/05|10/08/08 17:33（307日）|×|投稿なし|
+|[[モザイクロール]]|[[DECO*27]]|Megpoid|10/07/15|10/08/10 17:33（25日）|○|投稿なし|
+|[[マトリョシカ]]|[[ハチ]]|初音ミク、Megpoid|10/08/19|10/09/21 14:41（33日）|○|投稿なし|
+|[[弱虫モンブラン]]|[[DECO*27]]|Megpoid|10/04/15|10/09/23 23:43（161日）|○|投稿なし|
+|[[鏡音レンの暴走]]|[[cosMo（暴走P）]]|鏡音レン、初音ミク、鏡音リン|08/09/29|10/11/01 22:06（763日）|投稿なし|投稿なし|
+|[[いろは唄]]|[[銀サク]]|鏡音リン|09/02/11|10/11/12 21:26（639日）|投稿なし|投稿なし|
+|[[おちゃめ機能]]&footnote(UTAU初)|[[ゴジマジP>ラマーズP]]|重音テト（UTAU）|10/04/01|10/11/24 00:05（236日）|投稿なし|投稿なし|
+|[[ぼくらの16bit戦争]]|[[ささくれP]]|Megpoid|09/07/12|10/11/28 20:01（504日）|○|×|
+|[[ワンダーラスト]]|[[ささくれP]]|巡音ルカ|09/02/02|10/12/09 23:23（675日）|×|×|
+|[[from Y to Y]]|[[ジミーサムP]]|初音ミク|09/03/24|10/12/19 01:43（635日）|投稿なし|投稿なし|
+|[[コンビニ>コンビニ/cokesi]]|[[cokesi]]|初音ミク|07/12/30|10/12/25 16:48（1091日）|投稿なし|投稿なし|
+#endregion
+#region(close,2011年 計31曲)
+2011年 計31曲
+|CENTER:&bold(){曲名}|CENTER:&bold(){P名}|CENTER:&bold(){ボカロ名}|CENTER:&bold(){投稿日}|CENTER:&bold(){達成日（所要日数）}|CENTER:&bold(){YouTube達成状況}|CENTER:CENTER:&bold(){BiliBili達成状況}|
+|[[私の時間]]|[[くちばしP]]|初音ミク|07/10/22|11/01/03 15:38（1169日）|×|投稿なし|
+|[[clock lock works]]|[[ハチ]]|初音ミク|09/11/27|11/01/04 20:52（403日）|○|投稿なし|
+|[[般若心経ポップ]]|[[おにゅうP]]|初音ミク|10/09/03|11/01/29 18:19（148日）|投稿なし|投稿なし|
+|[[二息歩行]]|[[DECO*27]]|初音ミク|09/08/28|11/02/12 22:48（533日）|○|投稿なし|
+|[[え？あぁ、そう。]]|[[蝶々P]]|初音ミク|10/03/22|11/02/17 20:48（332日）|○&footnote(10th Anniversary Editionでの達成。初期版は投稿なし)|×&footnote(10th Anniversary Editionのみの投稿。初期版は投稿なし)|
+|[[家に帰ると妻が必ず死んだふりをしています。]]|[[ほぼ日P]]|初音ミク|10/07/23|11/02/19 13:13（211日）|○|投稿なし|
+|[[トルコ行進曲 - オワタ＼(^o^)／]]|[[オワタP]]|初音ミク|08/04/12|11/02/19 13:40（1043日）|○|投稿なし|
+|[[初音ミクの暴走]]|[[cosMo（暴走P）]]|初音ミク|07/10/22|11/02/19 13:50（1216日）|投稿なし|投稿なし|
+|[[パンダヒーロー]]|[[ハチ]]|Megpoid|11/01/23|11/03/07 00:35（43日）|○|投稿なし|
+|[[えれくとりっく・えんじぇぅ]] (Full ver.)|[[ヤスオP]]|初音ミク|07/10/10|11/03/10 22:25（1247日）|×&footnote(アートトラックのみの投稿)|投稿なし|
+|[[絵本『人柱アリス』]]|[[歪P]]|MEIKO、KAITO、初音ミク、&br()鏡音リン、鏡音レン|08/04/30|11/04/30 20:58（1095日）|投稿なし|投稿なし|
+|[[Fire◎Flower]]|[[halyosy]]|鏡音レン|08/08/02|11/05/03 17:56（1004日）|○|投稿なし|
+|[[アンチクロロベンゼン]]|[[オワタP]]|鏡音リン|10/09/19|11/05/17 23:20（240日）|○|×|
+|[[ACUTE]]|[[黒うさP]]|初音ミク、巡音ルカ、KAITO|09/08/21|11/05/26 02:29（643日）|投稿なし|投稿なし|
+|[[IMITATION BLACK]]|[[natsuP]]|がくっぽいど、KAITO、鏡音レン|09/06/01|11/05/31 08:54（729日）|×|投稿なし|
+|[[アンハッピーリフレイン]]|[[wowaka]]|初音ミク|11/05/02|11/06/19 00:50（48日）|○|投稿なし|
+|[[むかしむかしのきょうのぼく]]|[[DECO*27]]|初音ミク|10/11/25|11/06/21 13:58（208日）|×&footnote(アートトラックのみの投稿)|投稿なし|
+|[[Nyanyanyanyanyanyanya!]]|[[daniwell]]|初音ミク|10/07/25|11/06/21 14:46（331日）|投稿なし|投稿なし|
+|[[ハッピーシンセサイザ]]|[[Easy Pop]]|巡音ルカ、Megpoid|10/11/22|11/07/05 23:03（225日）|○|×|
+|[[メランコリック]]|[[Junky]]|鏡音リン|10/04/19|11/07/12 23:46（449日）|○|投稿なし|
+|[[Mrs.Pumpkinの滑稽な夢]]|[[ハチ]]|初音ミク|09/10/12|11/07/18 23:47（644日）|投稿なし|投稿なし|
+|[[ヴェノマニア公の狂気]]|[[悪ノP]]|がくっぽいど|10/07/26|11/08/13 15:39（383日） |○|投稿なし|
+|[[FREELY TOMORROW]]|[[Mitchie M]]|初音ミク|11/07/31|11/08/20 20:40（20日）|○|投稿なし|
+|[[下剋上(完)]]|[[一行P]]|鏡音リン、鏡音レン|08/04/02|11/09/02 21:07（1248日）|投稿なし|投稿なし|
+|[[十面相]]|[[YM]]|Megpoid|11/01/14|11/10/07 22:52（266日）|×&footnote(アートトラックのみの投稿)|投稿なし|
+|[[千本桜]]|[[黒うさP]]|初音ミク|11/09/17|11/10/29 18:50（42日）|○|投稿なし|
+|[[紅一葉]]（巡音ルカ版）|[[黒うさP]]|巡音ルカ|09/05/26|11/11/05 13:52（893日）|投稿なし|投稿なし|
+|[[trick and treat]]|[[OSTER project]]|鏡音リン、鏡音レン|08/10/30|11/11/21 23:43（1117日）|×|投稿なし|
+|[[リンネ>リンネ/ハチ]]|[[ハチ]]|初音ミク|10/07/21|11/11/30 12:25（497日）|○|投稿なし|
+|[[天ノ弱]]|[[164]]|Megpoid|11/05/28|11/12/04 14:19（190日）|○|×|
+|[[深海少女]]|[[ゆうゆ]]|初音ミク|10/09/01|11/12/08 22:46（463日）|○|投稿なし|
+#endregion
+#region(close,2012年 計35曲)
+2012年 計35曲
+|CENTER:&bold(){曲名}|CENTER:&bold(){P名}|CENTER:&bold(){ボカロ名}|CENTER:&bold(){投稿日}|CENTER:&bold(){達成日（所要日数）}|CENTER:&bold(){YouTube達成状況}|CENTER:CENTER:&bold(){BiliBili達成状況}|
+|[[カゲロウデイズ]]|[[自然の敵P]]|初音ミク|11/09/30|12/01/16 01:44（108日）|○|投稿なし|
+|[[Calc.]]|[[ジミーサムP]]|初音ミク|10/09/09|12/02/07 00:26（516日）|投稿なし|投稿なし|
+|[[トリノコシティ]]|[[40㍍P]]|初音ミク|10/07/29|12/03/09 23:45（589日）|○|×|
+|[[悪食娘コンチータ]]|[[悪ノP]]|MEIKO|09/03/04|12/03/10 22:00（1102日）|○|投稿なし|
+|[[ネトゲ廃人シュプレヒコール]]|[[さつき が てんこもり]]|初音ミク|10/10/15|12/03/11 12:52（513日）|○|投稿なし|
+|[[Dear>Dear/19's Sound Factory]]|[[19's Sound Factory]]|初音ミク|08/03/15|12/03/12 18:28（1458日）|投稿なし|投稿なし|
+|[[リンちゃんなう！]]|[[オワタP]]|初音ミク、巡音ルカ、鏡音リン|11/12/27|12/03/25 17:27（89日）|○|投稿なし|
+|[[ポーカーフェイス]]|[[ゆちゃP]]|Megpoid|10/11/29|12/03/29 22:26（486日）|×|投稿なし|
+|[[インビジブル]]|[[kemu]]|Megpoid、鏡音リン|11/12/20|12/05/08 22:00（140日）|○|投稿なし|
+|[[メグメグ☆ファイアーエンドレスナイト]]|[[samfree]]|Megpoid|09/06/26|12/05/09 21:50（1048日）|投稿なし|投稿なし|
+|[[クワガタにチョップしたらタイムスリップした]]|[[家の裏でマンボウが死んでるP]]|Megpoid|11/07/11|12/05/12 10:50（306日）|○|投稿なし|
+|[[イカサマライフゲイム]]|[[kemu]]|Megpoid|12/02/08|12/06/07 00:33（120日）|○|投稿なし|
+|[[人生リセットボタン>人生リセットボタン/kemu]]|[[kemu]]|Megpoid|11/11/07|12/06/12 21:26（218日）|○|投稿なし|
+|[[鎖の少女]]|[[のぼる↑]]|初音ミク|09/10/26|12/06/13 22:44（961日）|○|投稿なし|
+|[[想像フォレスト]]|[[自然の敵P]]|IA|12/02/01|12/06/15 01:04（135日）|○|投稿なし|
+|[[からくりピエロ]]|[[40㍍P]]|初音ミク|11/07/15|12/06/15 18:25（336日）|○|×|
+|[[東京テディベア]]|[[Neru]]|鏡音リン|11/08/14|12/06/20 11:07（311日）|○|投稿なし|
+|[[トエト]]|[[トラボルタP]]|巡音ルカ|09/02/17|12/06/22 22:29（1221日）|×&footnote(アートトラックのみの投稿)|投稿なし|
+|[[キリトリセン]]|[[40㍍P]]|Megpoid|11/02/26|12/06/24 14:51（484日）|○|×|
+|[[六兆年と一夜物語]]|[[kemu]]|IA|12/04/11|12/07/01 18:23（81日）|○|投稿なし|
+|[[ヘッドフォンアクター]]|[[自然の敵P]]|IA|11/12/15|12/07/02 00:39（200日）|○|投稿なし|
+|[[コノハの世界事情]]|[[自然の敵P]]|初音ミク、IA|12/03/30|12/07/27 14:21（119日）|○|投稿なし|
+|[[こちら、幸福安心委員会です。]]|[[うたたP]]|初音ミク|12/06/15|12/07/31 21:12（46日）|○|投稿なし|
+|[[セツナトリップ]]|[[Last Note.]]|Megpoid|12/05/03|12/08/12 15:05（101日）|○&footnote(アートトラックでの達成。本家動画は投稿なし)|投稿なし|
+|[[会いたい]]|[[シグナルP]]|Megpoid|10/08/11|12/08/18 11:32（738日）|×|投稿なし|
+|[[チルドレンレコード]]|[[自然の敵P]]|IA|12/07/21|12/08/18 15:04（27日）|○|投稿なし|
+|[[如月アテンション]]|[[自然の敵P]]|IA|12/05/27|12/08/22 19:47（87日）|○|投稿なし|
+|[[恋愛勇者]]|[[Last Note.]]|Megpoid|12/01/20|12/09/11 06:14（235日）|×&footnote(アートトラックのみの投稿)|投稿なし|
+|[[リモコン]]|[[じーざすP]]|鏡音リン、鏡音レン|11/02/16|12/09/21 22:43（583日）|○|投稿なし|
+|[[白い雪のプリンセスは]]|[[のぼる↑]]|初音ミク|10/02/22|12/10/21 22:48（972日）|○|投稿なし|
+|[[シリョクケンサ]]|[[40㍍P]]|Megpoid|11/08/06|12/10/23 10:53（444日）|○|×|
+|[[いーあるふぁんくらぶ]]|[[みきとP>みきとP/作り手]]|Megpoid、鏡音リン|12/08/15|12/10/28 00:11（74日）|○|×|
+|[[Bad ∞ End ∞ Night]]|[[ひとしずくP]]×[[やま△]]|初音ミク、鏡音リン、鏡音レン、&br()巡音ルカ、KAITO、MEIKO、&br()Megpoid、がくっぽいど|12/01/15|12/11/04 22:41（294日）|○|投稿なし|
+|[[初音ミクの激唱（LONG VERSION）]]|[[cosMo（暴走P）]]|初音ミク|10/07/09|12/12/03 02:33（878日）|○&footnote(2018リメイク版での達成。オリジナル版は投稿なし)|投稿なし|
+|[[Alice in Musicland]]|[[OSTER project]]|初音ミク、鏡音リン、鏡音レン、&br()巡音ルカ、KAITO、MEIKO|11/07/24|12/12/07 22:16（502日）|×|投稿なし|
+#endregion
+#endregion
+
+#region(close,2013年～2017年 計242曲、一曲扱い除くと計239曲)
+2013年～2017年 計242曲、一曲扱い除くと計239曲
+#region(close,2013年 計42曲)
+2013年 計42曲
+|CENTER:&bold(){曲名}|CENTER:&bold(){P名}|CENTER:&bold(){ボカロ名}|CENTER:&bold(){投稿日}|CENTER:&bold(){達成日（所要日数）}|CENTER:&bold(){YouTube達成状況}|CENTER:CENTER:&bold(){BiliBili達成状況}|
+|[[腐れ外道とチョコレゐト]]|[[ピノキオピー]]|初音ミク|11/01/10|13/01/05 00:20（726日）|○|投稿なし|
+|[[モノクロ∞ブルースカイ]]|[[のぼる↑]]|初音ミク|10/03/25|13/01/10 08:27（1022日）|×|×|
+|[[脳漿炸裂ガール]]|[[れるりり]]|初音ミク、Megpoid|12/10/19|13/01/11 01:08（84日）|○|○|
+|[[地球最後の告白を]]|[[kemu]]|Megpoid|12/06/26|13/01/26 07:03（214日）|○|投稿なし|
+|[[タイムマシン>タイムマシン/1640mP]]|[[164]]、[[40㍍P]]|初音ミク|10/09/13|13/01/29 17:14（869日）|○|投稿なし|
+|[[ハロ／ハワユ]]|[[ほえほえP]]|初音ミク|10/07/20|13/02/17 01:03（943日）|○|投稿なし|
+|[[メカクシコード]]|[[自然の敵P]]|初音ミク|11/05/29|13/02/24 18:15（637日）|×&footnote(アートトラックのみの投稿)|投稿なし|
+|[[カミサマネジマキ]]|[[kemu]]|Megpoid|12/08/02|13/02/28 19:49（210日）|○|投稿なし|
+|[[みんなみくみくにしてあげる♪]]|[[ika]]|初音ミク|12/10/08|13/03/03 18:01（146日）|×|投稿なし|
+|[[天樂]]|[[ゆうゆ]]|鏡音リン|09/08/12|13/03/10 12:29（1306日）|×|投稿なし|
+|[[心拍数♯0822]]|[[蝶々P]]|初音ミク|10/08/22|13/03/12 23:37（933日）|投稿なし|投稿なし|
+|[[夜咄ディセイブ]]|[[自然の敵P]]|IA|13/02/17|13/03/18 19:47（28日）|○|投稿なし|
+|[[スイートフロートアパート]]|[[家の裏でマンボウが死んでるP]]|Megpoid|11/10/24|13/04/08 20:47（532日）|○|投稿なし|
+|[[永遠に幸せになる方法、見つけました。]]|[[うたたP]]|初音ミク|12/08/27|13/04/13 17:55（229日）|○|投稿なし|
+|[[ロスタイムメモリー]]|[[自然の敵P]]|IA|13/03/30|13/04/25 21:18（26日）|○|投稿なし|
+|[[LOL -lots of laugh-]]|[[エンドケイプ]]、[[KeN>KeN/作り手]]|初音ミク|09/08/25|13/04/28 17:53（1342日）|投稿なし|投稿なし|
+|[[サイバーサンダーサイダー]]|[[EZFG]]|VY1|11/08/28|13/05/18 00:52（629日）|×|投稿なし|
+|[[円尾坂の仕立屋]]|[[悪ノP]]|巡音ルカ|09/12/08|13/05/23 23:04（1262日）|○|投稿なし|
+|[[ロストワンの号哭]]|[[Neru]]|鏡音リン|13/03/04|13/05/24 19:58（81日）|○|投稿なし|
+|[[愛言葉]]|[[DECO*27]]|初音ミク|09/07/21|13/05/30 12:58（1409日）|×&footnote(アートトラックのみの投稿)|投稿なし|
+|[[夢みることり]]|[[はややP]]|鏡音リン、初音ミク|08/02/05|13/05/30 16:10（1941日）|×&footnote(アートトラックのみの投稿)|投稿なし|
+|[[妄想スケッチ]]|[[40㍍P]]|初音ミク|11/01/08|13/06/01 08:19（875日）|○|×|
+|[[秘蜜～黒の誓い～]]|[[ひとしずくP]]|鏡音リン、鏡音レン|10/04/05|13/06/24 18:00（1176日）|○|投稿なし|
+|[[アヤノの幸福理論]]|[[自然の敵P]]|IA|13/04/22|13/07/19 11:33（88日）|○|投稿なし|
+|[[ワンダーランドと羊の歌]]|[[ハチ]]|初音ミク|10/07/03|13/07/28 20:24（1121日）|○|投稿なし|
+|[[嗚呼、素晴らしきニャン生]]|[[Nem]]|Megpoid、鏡音レン|11/07/11|13/08/03 11:16（754日）|○|投稿なし|
+|[[ギガンティックO.T.N]]|[[ギガP]]|鏡音レン|12/12/08|13/08/06 17:54（241日）|○|投稿なし|
+|[[SPiCa]]|[[とくP]]|初音ミク|09/07/27|13/08/31 02:30（1496日）|×|投稿なし|
+|[[ビバハピ]]|[[Mitchie M]]|初音ミク|13/07/26|13/09/08 15:03（44日）|○|×|
+|[[火葬曲]]|[[No.D]]|初音ミク|09/02/07|13/09/13 14:32（1679日）|投稿なし|投稿なし|
+|[[THE WORLDS]]|[[FB777]]（[[M.S.S Project]]）|初音ミク|13/01/18|13/10/08 23:39（263日）|×|投稿なし|
+|[[glow>glow/keeno]]|[[keeno]]|初音ミク|10/06/28|13/10/20 11:40（1210日）|投稿なし|投稿なし|
+|[[オツキミリサイタル]]|[[自然の敵P]]|IA|13/07/02|13/10/22 21:36（112日）|×&footnote(アートトラックおよびメカクシティアクターズMV版のみの投稿)|投稿なし|
+|[[paranoia>paranoia/めざめP]]|[[めざめP]]|初音ミク|12/03/13|13/10/29 18:39（595日）|×|投稿なし|
+|[[あなたの歌姫]]|[[azuma]]|初音ミク|07/09/18|13/11/01 12:55（2236日）|投稿なし|投稿なし|
+|[[Crazy ∞ nighT]]|[[ひとしずくP]]×[[やま△]]|初音ミク、鏡音リン、鏡音レン、&br()巡音ルカ、KAITO、MEIKO、&br()Megpoid、がくっぽいど|12/07/18|13/11/12 14:52（482日）|○|投稿なし|
+|[[アウターサイエンス]]|[[自然の敵P]]|IA|13/08/31|13/11/17 21:20（78日）|○|投稿なし|
+|[[どういうことなの！？]]|[[くちばしP]]|初音ミク|11/01/13|13/11/28 18:47（1050日）|投稿なし|投稿なし|
+|[[エンヴィキャットウォーク]]|[[トーマ]]|初音ミク|11/10/22|13/11/28 23:16（768日）|投稿なし|投稿なし|
+|[[サマータイムレコード]]|[[自然の敵P]]|IA|13/09/02|13/12/16 17:21（105日）|○|投稿なし|
+|[[ドーナツホール]]|[[ハチ]]|Megpoid|13/10/28|13/12/25 18:14（58日）|○|投稿なし|
+|[[夕景イエスタデイ]]|[[自然の敵P]]|IA|13/08/04|13/12/27 10:11（145日）|○|投稿なし|
+#endregion
+#region(close,2014年 計36曲、一曲扱い除くと計35曲)
+2014年 計36曲、一曲扱い除くと計35曲
+|CENTER:&bold(){曲名}|CENTER:&bold(){P名}|CENTER:&bold(){ボカロ名}|CENTER:&bold(){投稿日}|CENTER:&bold(){達成日（所要日数）}|CENTER:&bold(){YouTube達成状況}|CENTER:CENTER:&bold(){BiliBili達成状況}|
+|[[放課後ストライド]]|[[Last Note.]]|Megpoid|12/12/01|14/01/06 10:18（401日）|投稿なし|投稿なし|
+|[[リリリリ★バーニングナイト]]|[[samfree]]|Lily|10/08/26|14/01/07 20:37（1230日）|投稿なし|投稿なし|
+|[[WORLD'S END UMBRELLA]]|[[ハチ]]|初音ミク|10/02/08|14/01/09 16:03（1431日）|○|投稿なし|
+|[[再教育]]|[[Neru]]|鏡音リン、鏡音レン|12/09/02|14/01/23 03:19（508日）|○|投稿なし|
+|[[ハウトゥー世界征服]]|[[Neru]]|鏡音リン、鏡音レン|13/03/09|14/02/11 19:16（339日）|○|投稿なし|
+|[[番凩]]|[[仕事してP]]|MEIKO、KAITO|08/10/01|14/03/07 03:10（1983日）|×&footnote(2019年版とreboot版のみの投稿、オリジナル版は投稿なし)|投稿なし|
+|[[夕日坂]]|[[doriko]]|初音ミク|08/03/22|14/03/08 22:31（2177日）|投稿なし|投稿なし|
+|[[リンカーネイション]]|[[kemu]]|Megpoid、鏡音リン|13/03/24|14/03/10 19:53（351日）|○|投稿なし|
+|[[バビロン]]|[[トーマ]]|初音ミク|11/05/02|14/03/16 01:04（1049日）|投稿なし|投稿なし|
+|[[スーパートルコ行進曲　－　オワタ＼(^o^)／>トルコ行進曲 - オワタ＼(^o^)／]]|[[オワタP]]|がくっぽいど|08/08/01|14/03/31 00:00（2068日）|×|投稿なし|
+|[[骸骨楽団とリリア]]|[[トーマ]]|初音ミク|11/06/18|14/04/06 12:52（1023日）|投稿なし|投稿なし|
+|[[人造エネミー]]|[[自然の敵P]]|初音ミク|11/02/17|14/04/06 21:48（1144日）|×&footnote(アートトラックのみの投稿)|投稿なし|
+|[[指切り]]|[[すこっぷ]]|初音ミク|10/04/28|14/04/09 20:20（1442日）|投稿なし|投稿なし|
+|[[白ノ娘]]|[[悪ノP]]|弱音ハク（初音ミク）|10/01/06|14/04/12 10:43（1557日）|×&footnote(アートトラックのみの投稿)|投稿なし|
+|[[妄想税]]|[[DECO*27]]|初音ミク|13/09/07|14/04/30 23:48（235日）|○|投稿なし|
+|[[吉原ラメント]]|[[亜沙]]|重音テト（UTAU）|12/07/20|14/05/04 16:20（653日）|○|投稿なし|
+|[[ドレミファロンド]]|[[40㍍P]]|初音ミク|12/01/17|14/05/12 21:03（846日）|○|×|
+|[[聖槍爆裂ボーイ]]|[[れるりり]]×[[もじゃ]]|鏡音レン|13/08/29|14/06/02 20:39（277日）|○|投稿なし|
+|[[ANTI THE∞HOLiC]]|[[cosMo（暴走P）]]|巡音ルカ、鏡音リン|09/07/29|14/06/04 18:30（1771日）|○&footnote(2019リメイク版での達成。オリジナル版は投稿なし)|×&footnote(2019リメイク版のみの投稿。オリジナル版は投稿なし)|
+|[[イージーデンス]]|[[Mitchie M]]|初音ミク|12/01/02|14/06/05 04:46（885日）|○|×|
+|[[M.S.S.Planet>M.S.S.Planet/M.S.S Project]]|[[FB777]]（[[M.S.S Project]]）|初音ミク、Megpoid|13/08/28|14/06/09 13:57（285日）|投稿なし|投稿なし|
+|[[独りんぼエンヴィー]]|[[電ポルP]]|初音ミク|12/11/29|14/07/18 17:43（596日）|○|投稿なし|
+|[[No Logic]]|[[ジミーサムP]]|巡音ルカ|09/09/14|14/08/08 14:15（1789日）|投稿なし|投稿なし|
+|[[敗北の少年]]|[[kemu]]|Megpoid|13/05/06|14/08/12 16:07（463日）|○|投稿なし|
+|[[一触即発☆禅ガール]]|[[れるりり]]|初音ミク、Megpoid|13/07/12|14/08/13 15:47（397日）|○|投稿なし|
+|[[威風堂々]]|[[梅とら]]|巡音ルカ、初音ミク、Megpoid、&br()IA、鏡音リン|12/10/29|14/08/18 23:46（658日）|○|投稿なし|
+|[[リスキーゲーム]]|[[黒うさP]]|初音ミク|11/01/06|14/09/14 23:32（1347日）|投稿なし|投稿なし|
+|[[Twilight ∞ nighT]]|[[ひとしずくP]]×[[やま△]]|初音ミク、鏡音リン、鏡音レン、&br()巡音ルカ、KAITO、MEIKO、&br()Megpoid、がくっぽいど|13/02/14|14/09/23 00:57（586日）|○|投稿なし|
+|[[桜前線異常ナシ]]|[[ワタルP]]|初音ミク|10/04/23|14/09/25 22:46（1616日）|投稿なし|投稿なし|
+|[[39>39/ささくれP・DECO*27]]|[[ささくれP]]、[[DECO*27]]|初音ミク|12/07/27|14/10/07 00:06（802日）|○|投稿なし|
+|[[たすけてドラえもん]]|[[黒田亜津]]|初音ミク|13/05/08|14/10/12 02:05（522日）|×|投稿なし|
+|[[Mr.Music]]|[[れるりり]]、ロンチーノ=ぺぺ、&br()[[かごめP]]|初音ミク、巡音ルカ、鏡音リン、&br()鏡音レン、Megpoid、歌愛ユキ|11/03/04|14/11/07 04:09（1344日）|投稿なし|投稿なし|
+|[[ストリーミングハート]]|[[DECO*27]]|初音ミク|14/03/21|14/12/03 23:58（257日）|○|投稿なし|
+|[[罪と罰>罪と罰/DECO*27]]|[[DECO*27]]|初音ミク|09/09/08|14/12/06 22:10（1915日）|×&footnote(アートトラックのみの投稿)|投稿なし|
+|[[粘着系男子の15年ネチネチ]]（VY2版）|[[家の裏でマンボウが死んでるP]]|VY2|11/07/11|14/12/20 12:45（1258日）|○|投稿なし|
+|[[幸せになれる隠しコマンドがあるらしい]]|[[うたたP]]|結月ゆかり|13/07/01|14/12/24 00:41（541日）|○|投稿なし|
+#endregion
+#region(close,2015年 計38曲)
+2015年 計38曲
+|CENTER:&bold(){曲名}|CENTER:&bold(){P名}|CENTER:&bold(){ボカロ名}|CENTER:&bold(){投稿日}|CENTER:&bold(){達成日（所要日数）}|CENTER:&bold(){YouTube達成状況}|CENTER:CENTER:&bold(){BiliBili達成状況}|
+|[[イケ恋歌]]|[[れれれP]]|鏡音レン|08/03/31|15/02/07 19:41（2504日）|×|投稿なし|
+|[[心壊サミット]]|[[DECO*27]]|初音ミク|09/07/28|15/02/08 11:16（2021日）|×&footnote(アートトラックのみの投稿)|投稿なし|
+|[[ありふれたせかいせいふく]]|[[ピノキオピー]]|初音ミク|12/06/18|15/02/13 02:35（970日）|○|投稿なし|
+|[[アイドルを咲かせ]]|[[Mitchie M]]|初音ミク|12/12/14|15/02/14 16:08（792日）|○|×|
+|[[オレンジ>オレンジ/トーマ]]|[[トーマ]]|初音ミク|12/12/20|15/02/20 16:11（792日）|投稿なし|投稿なし|
+|[[リグレットメッセージ]]|[[悪ノP]]|鏡音リン|08/05/25|15/03/11 11:16（2481日）|×|投稿なし|
+|[[透明エレジー]]|[[ナブナ]]|Megpoid|13/02/19|15/03/23 14:20（762日）|○|投稿なし|
+|[[ウミユリ海底譚]]|[[ナブナ]]|初音ミク|14/02/24|15/03/24 15:38（393日）|○|投稿なし|
+|[[ハイセンスナンセンス]]|[[盛るP]]|初音ミク|09/04/19|15/03/29 23:19（2170日）|投稿なし|投稿なし|
+|[[おこちゃま戦争]]|[[ギガP]]|鏡音リン、鏡音レン|13/11/29|15/04/01 00:49（488日）|○|投稿なし|
+|[[Black Board]]|[[蝶々P]]|初音ミク|12/03/26|15/04/18 05:51（1118日）|○|投稿なし|
+|[[告白予行練習]]|[[使徒>チョリスP]]（[[HoneyWorks]]）|Megpoid|12/10/27|15/05/09 20:57（924日）|○|投稿なし|
+|[[ヤンキーボーイ・ヤンキーガール]]|[[トーマ]]|Megpoid|13/03/05|15/05/19 16:49（805日）|投稿なし|投稿なし|
+|[[サリシノハラ]]|[[みきとP>みきとP/作り手]]|初音ミク|12/10/04|15/05/23 16:09（961日）|○|×|
+|[[＋♂]]|[[ギガP]]|鏡音レン|14/03/20|15/06/14 14:27（451日）|○|投稿なし|
+|[[キャットフード]]|[[doriko]]|初音ミク|10/11/17|15/06/17 17:48（1673日）|×|投稿なし|
+|[[スキキライ>スキキライ/HoneyWorks]]|[[ゴム]]（[[HoneyWorks]]）|鏡音リン、鏡音レン|11/01/21|15/06/27 18:09（1618日）|○|投稿なし|
+|[[秘密警察]]|[[ぶりるP]]|初音ミク|10/11/09|15/07/03 17:52（1697日）|×|投稿なし|
+|[[ECHO>ECHO/CRUSHER-P]]|[[CRUSHER-P]]|Megpoid|14/10/08|15/07/10 00:08（275日）|○|投稿なし|
+|[[恋愛裁判]]|[[40㍍P]]|初音ミク|14/06/10|15/07/18 16:15（403日）|○|○|
+|[[WAVE>WAVE/niki]]|[[niki]]|Lily|12/09/22|15/07/24 01:15（1035日）|○|×|
+|[[すろぉもぉしょん]]|[[ピノキオピー]]|初音ミク|14/05/27|15/07/26 01:50（425日）|○|投稿なし|
+|[[My Colorful Confuse]]|[[家の裏でマンボウが死んでるP]]|Megpoid|12/02/28|15/07/26 16:35（1244日）|×|投稿なし|
+|[[二次元ドリームフィーバー]]（初音ミク版）|[[PolyphonicBranch]]|初音ミク|12/02/14|15/08/03 00:08（1266日）|×|投稿なし|
+|[[アイロニ>アイロニ/すこっぷ]]|[[すこっぷ]]|初音ミク|12/05/24|15/08/17 19:58（1180日）|○|投稿なし|
+|[[世界寿命と最後の一日]]|[[スズム]]|Megpoid|13/09/05|15/08/18 02:19（712日）|投稿なし|投稿なし|
+|[[カムパネルラ]]|[[ささくれP]]|Megpoid|09/10/28|15/09/07 00:46（2140日）|×|投稿なし|
+|[[アスノヨゾラ哨戒班]]|[[Orangestar]]|IA|14/08/19|15/09/13 20:15（390日）|○|投稿なし|
+|[[Blessing]]|[[halyosy]]|初音ミク、鏡音レン、鏡音リン、&br()巡音ルカ、KAITO、MEIKO|14/04/11|15/10/11 23:20（548日）|○|投稿なし|
+|[[全く身にならないソング]]|[[露吐]]、レトルト、キヨ|結月ゆかり|15/03/12|15/10/13 02:22（215日）|○|投稿なし|
+|[[EveR ∞ LastinG ∞ NighT]]|[[ひとしずくP]]×[[やま△]]|初音ミク、鏡音リン、鏡音レン、&br()巡音ルカ、KAITO、MEIKO、&br()Megpoid、がくっぽいど|14/09/11|15/10/27 21:47（411日）|○|投稿なし|
+|[[Nostalogic (single edit)]]|[[yuukiss]]|MEIKO|10/03/01|15/11/09 09:46（2079日）|投稿なし|投稿なし|
+|[[告白ライバル宣言]]|[[使徒>チョリスP]]（[[HoneyWorks]]）|Megpoid|14/02/14|15/11/21 18:35（645日）|○|投稿なし|
+|[[ヤキモチの答え]]|[[使徒>チョリスP]]（[[HoneyWorks]]）|Megpoid|13/03/14|15/11/22 16:16（983日）|○|投稿なし|
+|[[夜明けと蛍]]|[[ナブナ]]|初音ミク|14/11/11|15/11/23 06:55（377日）|○|投稿なし|
+|[[ヒビカセ]]|[[ギガP]]|初音ミク|14/09/24|15/12/08 22:34（440日）|○|投稿なし|
+|[[ケッペキショウ]]|[[すこっぷ]]|Megpoid|12/12/16|15/12/29 14:47（1108日）|○|投稿なし|
+|[[罰ゲーム]]|[[くるりんご]]|初音ミク、Megpoid|12/03/27|15/12/29 21:55（1372日）|投稿なし|投稿なし|
+#endregion
+#region(close,2016年 計57曲、一曲扱い除くと計56曲)
+2016年 計57曲、一曲扱い除くと計56曲
+|CENTER:&bold(){曲名}|CENTER:&bold(){P名}|CENTER:&bold(){ボカロ名}|CENTER:&bold(){投稿日}|CENTER:&bold(){達成日（所要日数）}|CENTER:&bold(){YouTube達成状況}|CENTER:CENTER:&bold(){BiliBili達成状況}|
+|[[「Ib」]]|[[Diarays]]|IA|12/09/21|16/01/03 13:21（1199日）|×|投稿なし|
+|[[LUVORATORRRRRY!]]|[[ギガP]]×[[れをる]]|Megpoid、鏡音リン|14/02/22|16/01/26 23:52（703日）|○|投稿なし|
+|[[BadBye]]|[[koma'n]]|初音ミク|11/02/11|16/02/06 03:08（1821日）|投稿なし|×|
+|[[過食性:アイドル症候群]]|[[スズム]]|Megpoid、MAYU|13/01/24|16/02/13 14:17（1115日）|投稿なし|投稿なし|
+|[[メリュー]]|[[ナブナ]]|初音ミク|15/05/12|16/02/14 22:26（278日）|○|投稿なし|
+|[[Hello, Worker]]|[[KEI]]|巡音ルカ|11/09/02|16/02/15 20:28（1627日）|×|投稿なし|
+|[[一途な片思い、実らせたい小さな幸せ。]]|[[うたたP]]|MAYU|12/11/23|16/02/18 22:39（1182日）|○|投稿なし|
+|[[1/6>1／6]]|[[ぼーかりおどP]]|初音ミク|09/05/07|16/02/25 19:30（2485日）|×|投稿なし|
+|[[ゴーストルール]]|[[DECO*27]]|初音ミク|16/01/08|16/02/27 09:53（49日）|○|投稿なし|
+|[[ろりこんでよかった～]]（フルver.PV）|[[Takebo3]]|初音ミク|12/03/10|16/03/21 23:51（1472日）|投稿なし|投稿なし|
+|[[好き！雪！本気マジック]]|[[Mitchie M]]|初音ミク|14/02/01|16/03/27 11:04（785日）|○|×|
+|[[しゅうまつがやってくる！]]|[[ささくれP]]|鏡音リン|10/06/04|16/04/01 23:18（2128日）|投稿なし|投稿なし|
+|[[チルノのすうがく教室]]|[[eiki`]]|初音ミク|09/05/20|16/04/06 01:30（2513日）|投稿なし|投稿なし|
+|[[魔法少女幸福論]]|[[トーマ]]|初音ミク|13/04/02|16/04/12 13:29（1106日）|投稿なし|投稿なし|
+|[[ペテン師が笑う頃に]]|[[梨本P]]|初音ミク|09/05/12|16/04/14 21:11（2529日）|×&footnote(アートトラックのみの投稿)|投稿なし|
+|[[マダラカルト]]|[[トーマ]]|Megpoid|12/05/06|16/04/22 14:06（1447日）|投稿なし|投稿なし|
+|[[Soar]]|[[流星P]]|初音ミク|08/03/19|16/04/24 20:56（2958日）|投稿なし|投稿なし|
+|[[Just a game]]|[[takamatt]]|Megpoid|10/06/03|16/04/28 22:27（2156日）|投稿なし|投稿なし|
+|[[M.S.S.Phantom>M.S.S.Phantom/M.S.S Project]]|[[FB777]]（[[M.S.S Project]]）|初音ミク|14/03/25|16/05/04 20:20（771日）|投稿なし|投稿なし|
+|[[脳内革命ガール]]|[[MARETU]]|初音ミク|13/09/20|16/05/14 22:46（967日）|○|投稿なし|
+|[[チュルリラ・チュルリラ・ダッダッダ！]]|[[くらげP]]|結月ゆかり|16/02/22|16/05/20 17:17（88日）|○|○|
+|[[タイガーランペイジ]]|[[ささくれP]]|鏡音リン|10/08/05|16/05/31 20:40（2126日）|×|投稿なし|
+|[[孤独の果て]]|[[光収容]]|鏡音リン|09/08/09|16/06/04 22:20（2491日）|投稿なし|投稿なし|
+|[[アブストラクト・ナンセンス]]|[[Neru]]|鏡音リン|11/05/06|16/06/10 08:27（1862日）|○|投稿なし|
+|[[九龍レトロ]]|[[トーマ]]|Megpoid|12/09/07|16/06/13 20:14（1375日）|投稿なし|投稿なし|
+|[[毒占欲]]|[[DECO*27]]|初音ミク|14/01/31|16/06/19 18:59（870日）|○|投稿なし|
+|[[猪突猛進ガール]]|[[れるりり]]|初音ミク、Megpoid|13/11/08|16/06/22 22:19（957日）|○|投稿なし|
+|[[ゆるふわ樹海ガール]]|[[石風呂]]|初音ミク|11/10/14|16/07/15 22:12（1736日）|×|投稿なし|
+|[[ボーカロイドたちがただ2コードくりかえすだけ]]|[[ココアシガレットP]]|初音ミク、鏡音リン、鏡音レン、KAITO|15/08/15|16/07/16 23:17（336日）|○|投稿なし|
+|[[イドラのサーカス]]|[[Neru]]|鏡音リン|13/05/03|16/07/18 07:28（1172日）|○|投稿なし|
+|[[チェックメイト>チェックメイト/ゆちゃP]]|[[ゆちゃP]]|Megpoid|12/04/22|16/07/24 15:39（1554日）|○|投稿なし|
+|[[ブリキノダンス]]|[[日向電工]]|初音ミク|13/03/10|16/07/27 21:34（1235日）|○&footnote(アートトラックでの達成。オリジナル版は未達成。)|投稿なし|
+|[[サヨナラチェーンソー]]|[[くらげP]]|結月ゆかり|12/04/24|16/08/01 00:08（1560日）|投稿なし|投稿なし|
+|[[ツギハギスタッカート]]|[[とあ]]|初音ミク|14/06/12|16/08/01 11:16（781日）|○|○|
+|[[エイリアンエイリアン]]|[[ナユタン星人]]|初音ミク|16/04/05|16/08/03 23:22（120日）|○|投稿なし|
+|[[とても痛い痛がりたい]]|[[EZFG]]|VY1、VY2|12/01/10|16/08/13 18:30（1677日）|×|投稿なし|
+|[[脱法ロック]]|[[Neru]]|鏡音レン|16/06/19|16/08/20 09:29（62日）|○|投稿なし|
+|[[ボーカロイドたちがただﾃｯﾃｰﾃﾚｯﾃｰするだけ]]|[[ココアシガレットP]]|初音ミク、鏡音リン、鏡音レン、&br()巡音ルカ、結月ゆかり|15/12/30|16/08/26 20:48（240日）|○|投稿なし|
+|[[今好きになる。]]|[[使徒>チョリスP]]（[[HoneyWorks]]）|初音ミク|14/11/25|16/08/29 10:07（643日）|○|投稿なし|
+|[[うそつき>うそつき/めざめP]]|[[めざめP]]|初音ミク|11/06/10|16/09/02 17:01（1911日）|×|投稿なし|
+|[[被害妄想携帯女子（笑）]]|[[ギガP]]|Megpoid|14/04/01|16/09/15 12:21（898日）|投稿なし|投稿なし|
+|[[命短し恋せよ乙女]]|[[デスおはぎ]]|重音テト（UTAU）|12/10/06|16/09/16 12:18（1441日）|○|投稿なし|
+|[[3331]]|[[ほえほえP]]|初音ミク|11/10/31|16/09/16 18:46（1782日）|×|投稿なし|
+|[[厨病激発ボーイ]]|[[れるりり]]|鏡音レン|15/01/02|16/09/23 20:39（630日）|○|投稿なし|
+|[[しんでしまうとはなさけない！]]|[[じーざすP]]|鏡音リン、鏡音レン|13/03/14|16/09/24 18:55（1290日）|○|投稿なし|
+|[[しわ]]|[[buzzG]]|Megpoid|12/05/07|16/10/15 09:04（1622日）|×|×|
+|[[延命治療]]|[[Neru]]|IA|12/12/28|16/10/28 18:53（1400日）|○|投稿なし|
+|[[桜の季節]]（Full.ver）|[[ゆうゆ]]|初音ミク|07/11/02|16/10/29 20:44（3284日）|×|投稿なし|
+|[[すきなことだけでいいです]]|[[ピノキオピー]]|初音ミク|16/05/01|16/11/05 12:23（188日）|○|投稿なし|
+|[[アイラ]]|[[ナブナ]]|Megpoid|15/07/08|16/11/09 21:02（490日）|○|投稿なし|
+|[[罪の名前]]|[[ryo>ryo/supercell]]|初音ミク|16/06/10|16/11/13 20:14（155日）|×|投稿なし|
+|[[はやぶさ>はやぶさ/SHO（キセノンP）]]|[[SHO（キセノンP）]]|初音ミク|10/03/28|16/12/08 00:19（2447日）|×|投稿なし|
+|[[きょうもハレバレ]]|[[ふわりP]]|Megpoid|13/07/12|16/12/13 16:55（1250日）|×|投稿なし|
+|[[ストロボナイツ]]|[[kz]]|初音ミク|07/11/30|16/12/19 18:25（3307日）|×|投稿なし|
+|[[キミノヨゾラ哨戒班>アスノヨゾラ哨戒班]]|[[Orangestar]]、鈴木秋則|IA|15/08/19|16/12/28 23:05（497日）|○|投稿なし|
+|[[完全犯罪ラブレター]]|[[150P]]|IA|12/06/23|16/12/31 11:26（1651日）|投稿なし|投稿なし|
+|[[ボーカロイドたちがただ叫ぶだけ]]|[[ココアシガレットP]]|初音ミク、鏡音リン、鏡音レン、&br()結月ゆかり、猫村いろは、巡音ルカ|16/08/14|16/12/31 21:26（139日）|○|投稿なし|
+#endregion
+#region(close,2017年 計69曲、一曲扱い除くと計68曲)
+2017年 計69曲、一曲扱い除くと計68曲
+|CENTER:&bold(){曲名}|CENTER:&bold(){P名}|CENTER:&bold(){ボカロ名}|CENTER:&bold(){投稿日}|CENTER:&bold(){達成日（所要日数）}|CENTER:&bold(){YouTube達成状況}|CENTER:CENTER:&bold(){BiliBili達成状況}|
+|[[虎視眈々]]|[[梅とら]]|巡音ルカ、初音ミク、Megpoid、&br()IA、鏡音リン|13/10/24|17/01/10 16:32（1173日）|○|投稿なし|
+|[[イッシュのポケモン　言えるのか！]]|[[hapi⇒]]、[[mazoP]]、[[大丈夫P]]、&br()[[じたばたP]]、[[鬱P]]、[[生㌔P]]|初音ミク、miki、KAITO、&br()鏡音リン、Megpoid、重音テト（UTAU）、&br()がくっぽいど、ガチャッポイド|10/12/12|17/01/20 02:25（2230日）|○|投稿なし|
+|[[イノコリ先生]]|[[ゴム]]（[[HoneyWorks]]）|v flower|14/04/17|17/01/19 17:09（1007日）|○|投稿なし|
+|[[白ゆき]]|[[ナブナ]]|初音ミク|16/03/12|17/01/23 08:27（316日）|○|投稿なし|
+|[[イヤホンと蝉時雨]]|[[Orangestar]]|IA|14/07/17|17/01/26 21:09（923日）|○|投稿なし|
+|[[悪徳のジャッジメント]]|[[悪ノP]]|KAITO|11/06/13|17/02/01 22:27（2060日）|○|投稿なし|
+|[[ピエロ>ピエロ/KEI]]|[[KEI]]|初音ミク|10/06/29|17/02/02 17:54（2410日）|×|投稿なし|
+|[[Leia]]|[[ゆよゆっぺ]]|巡音ルカ|11/01/01|17/02/07 12:48（2228日）|○|投稿なし|
+|[[ロゼッタ]]|[[10日P]]|Megpoid|10/09/02|17/02/18 15:34（2359日）|×|投稿なし|
+|[[有頂天ビバーチェ]]|[[Last Note.]]|Megpoid|13/06/28|17/02/26 11:37（1338日）|投稿なし|投稿なし|
+|[[僕をそんな目で見ないで]]|[[きくお]]|初音ミク|11/02/21|17/03/02 23:54（2201日）|○|投稿なし|
+|[[ライアーダンス]]|[[DECO*27]]、Naoki Itai|初音ミク|16/05/27|17/03/03 05:51（279日）|○|投稿なし|
+|[[命のユースティティア]]|[[Neru]]|鏡音レン|13/10/06|17/03/14 19:35（1254日）|○|投稿なし|
+|[[頓珍漢の宴]]|[[ピノキオピー]]|初音ミク|15/03/02|17/03/15 01:32（743日）|○|投稿なし|
+|[[Alice in 冷凍庫]]|[[Orangestar]]|IA|16/02/17|17/03/16 17:18（392日）|○|投稿なし|
+|[[月・影・舞・華]]（初音ミク版）|[[銀河方面P]]|初音ミク|11/11/15|17/03/21 15:13（1952日）|×|投稿なし|
+|[[金曜日のおはよう]]|[[使徒>チョリスP]]（[[HoneyWorks]]）|Megpoid|14/07/02|17/03/27 21:15（999日）|○|投稿なし|
+|[[妄想感傷代償連盟]]|[[DECO*27]]、[[emon（Tes.）]]|初音ミク|16/11/18|17/04/03 11:45（135日）|○|○&footnote(中国語版での投稿。オリジナル版は投稿なし)|
+|[[初音ミクの暴走（LONG VERSION）]]|[[cosMo（暴走P）]]|初音ミク|10/04/14|17/04/05 12:08（2548日）|投稿なし|投稿なし|
+|[[自傷無色]]|[[ねこぼーろ]]|初音ミク|13/01/20|17/04/08 17:55（1539日）|投稿なし&footnote(セルフカバーのみの投稿。ミリオン未達成。)|投稿なし|
+|[[Masked bitcH]]|[[ギガP]]|Megpoid|12/08/22|17/04/09 12:42（1690日）|投稿なし|投稿なし|
+|[[シャルル]]|[[バルーン>バルーン/作り手]]|v flower|16/10/12|17/04/11 13:47（180日）|○|投稿なし|
+|[[脱げばいいってモンじゃない！]]|[[デッドボールP]]|初音ミク|09/10/16|17/04/17 22:10（2739日）|投稿なし|投稿なし|
+|[[VOiCE>VOiCE/ラヴリーP]]|[[ラヴリーP]]|初音ミク|08/08/13|17/04/22 17:33（3174日）|投稿なし|投稿なし|
+|[[アンドロメダアンドロメダ]]|[[ナユタン星人]]|初音ミク|15/07/01|17/04/28 23:02（667日）|○|投稿なし|
+|[[とある一家の御茶会議]]|[[くるりんご]]|Megpoid|13/05/27|17/04/30 11:48（1433日）|投稿なし|投稿なし|
+|[[深海シティアンダーグラウンド]]|[[田中B]]|鏡音リン|11/11/22|17/05/01 00:09（1986日）|○|投稿なし|
+|[[キライ・キライ・ジガヒダイ！]]|[[くらげP]]|音街ウナ|16/07/25|17/05/01 19:10（280日）|○|×|
+|[[とおせんぼ]]|[[wowaka]]|初音ミク|09/06/16|17/05/14 11:56（2889日）|○|投稿なし|
+|[[乱躁滅裂ガール]]|[[れるりり]]|初音ミク、Megpoid|16/10/14|17/05/16 10:43（213日）|○|投稿なし|
+|[[DAYBREAK FRONTLINE]]|[[Orangestar]]|IA|16/12/03|17/05/17 04:48（164日）|○|投稿なし|
+|[[ダンスロボットダンス]]|[[ナユタン星人]]|初音ミク|16/12/06|17/05/19 19:02（163日）|○|投稿なし|
+|[[Nostalogic (MEIKO-SAN mix)>Nostalogic (single edit)]]|[[yuukiss]]|MEIKO|14/11/05|17/05/28 02:44（934日）|×|投稿なし|
+|[[脱獄>脱獄/Neru]]|[[Neru]]|鏡音リン|16/05/01|17/05/28 14:37（392日）|○|投稿なし|
+|[[このふざけた素晴らしき世界は、僕の為にある]]|[[n.k]]|初音ミク|15/01/19|17/05/30 22:56（862日）|○|×|
+|[[太陽系デスコ]]|[[ナユタン星人]]|初音ミク|17/01/20|17/06/24 14:52（154日）|○|投稿なし|
+|[[マッシュルームマザー]]|[[ピノキオピー]]|初音ミク|11/08/13|17/07/04 21:44（2152日）|○|投稿なし|
+|[[パーフェクト生命]]|[[ナユタン星人]]|初音ミク|15/10/06|17/07/09 07:26（641日）|×|投稿なし|
+|[[アザレアの亡霊]]|[[トーマ]]|初音ミク|12/11/05|17/07/09 19:05（1707日）|投稿なし|投稿なし|
+|[[アカツキアライヴァル]]|[[Last Note.]]|初音ミク、巡音ルカ|12/02/24|17/07/15 01:26（1967日）|投稿なし|投稿なし|
+|[[雨とペトラ]]|[[バルーン>バルーン/作り手]]|v flower|17/03/09|17/07/20 21:38（133日）|○|投稿なし|
+|[[拝啓ドッペルゲンガー]]|[[kemu]]|Megpoid|17/05/31|17/07/21 13:11（50日）|○|投稿なし|
+|[[砂の惑星]]|[[ハチ]]|初音ミク|17/07/21|17/07/27 22:19（6日&footnote(ミリオン達成最速記録)）|○|投稿なし|
+|[[夏に去りし君を想フ]]|[[baker]]|初音ミク|11/08/29|17/07/28 15:58（2159日）|投稿なし|投稿なし|
+|[[リバーシブル・キャンペーン]]|[[DECO*27]]|初音ミク|16/09/16|17/08/07 01:08（325日）|○|投稿なし|
+|[[神のまにまに]]|[[れるりり]]|初音ミク、鏡音リン、Megpoid|14/02/07|17/08/13 03:57（1282日）|○|投稿なし|
+|[[君の体温]]|[[クワガタP]]|初音ミク|09/12/25|17/08/16 11:31（2791日）|投稿なし|投稿なし|
+|[[惑星ループ]]|[[ナユタン星人]]|初音ミク|16/10/26|17/08/20 00:48（297日）|○|投稿なし|
+|[[チェチェ・チェック・ワンツー！]]|[[くらげP]]|結月ゆかり|16/08/29|17/08/25 17:04（361日）|○|投稿なし|
+|[[くたばれPTA]]|[[梨本P]]|初音ミク|10/05/26|17/09/01 00:58（2655日）|×&footnote(アートトラックのみの投稿)|投稿なし|
+|[[彗星ハネムーン]]|[[ナユタン星人]]|初音ミク|17/04/06|17/09/10 13:16（156日）|○|投稿なし|
+|[[さよならワンダーノイズ]]|[[ナブナ]]|初音ミク|13/06/04|17/09/11 21:45（1560日）|投稿なし|投稿なし|
+|[[音偽バナシ]]|[[DECO*27]]|初音ミク|13/11/30|17/09/13 20:34（1384日）|○|投稿なし|
+|[[Q]]|[[ぽわぽわP]]|鏡音リン|13/01/23|17/09/14 22:13（1696日）|○|投稿なし|
+|[[幽霊屋敷の首吊り少女]]|[[トーマ]]|Megpoid|12/02/03|17/09/15 07:38（2051日）|投稿なし|投稿なし|
+|[[shake it！]]|[[emon（Tes.）]]|初音ミク、鏡音リン、鏡音レン|12/04/21|17/09/21 20:41（1979日）|×|×|
+|[[crack>crack/keeno]]|[[keeno]]|初音ミク|10/10/22|17/09/23 22:54（2527日）|投稿なし|投稿なし|
+|[[アルカリレットウセイ]]|[[かいりきベア]]|初音ミク|16/11/25|17/10/02 03:34（310日）|○|投稿なし|
+|[[はやくそれになりたい！]]|[[キノシタ]]|音街ウナ|17/05/11|17/10/10 02:18（151日）|○|×|
+|[[アンノウン・マザーグース]]|[[wowaka]]|初音ミク|17/08/22|17/10/13 01:40（51日）|○|投稿なし|
+|[[シルバーバレット]]|[[ぺぺろんP]]|Megpoid|12/03/12|17/10/16 01:29（2043日）|投稿なし|投稿なし|
+|[[ヒバナ]]|[[DECO*27]]|初音ミク|17/08/04|17/10/19 23:27（76日）|○|○|
+|[[いいや]]|[[DECO*27]]|初音ミク|16/08/05|17/10/28 18:30（449日）|○|投稿なし|
+|[[曖昧劣情Lover]]|[[電ポルP]]|v flower|14/08/14|17/11/03 22:27（1177日）|投稿なし|投稿なし|
+|[[ドクハク]]|[[MARETU]]|初音ミク|16/12/27|17/11/23 03:22（330日）|○|投稿なし|
+|[[テロル]]|[[Neru]]|鏡音リン|14/06/03|17/11/24 21:21（1270日）|○|投稿なし|
+|[[ナンセンス文学]]|[[Eve>Eve/2016～]]|初音ミク|17/05/19|17/11/28 07:51（192日）|投稿なし&footnote(セルフカバーのみ投稿。ミリオン達成済。)|投稿なし|
+|[[ロストエンファウンド]]|[[ささくれP]]|初音ミク|10/07/09|17/12/10 11:41（2711日）|○|×|
+|[[About me]]|[[蝶々P]]|Megpoid|14/02/05|17/12/16 13:07（1409日）|投稿なし|投稿なし|
+#endregion
+#endregion
+
+#region(close,2018年～2022年 計400曲、一曲扱い除くと計395曲)
+2018年～2022年 計400曲、一曲扱い除くと計395曲
+#region(close,2018年 計90曲)
+2018年 計90曲
+|CENTER:&bold(){曲名}|CENTER:&bold(){P名}|CENTER:&bold(){ボカロ名}|CENTER:&bold(){投稿日}|CENTER:&bold(){達成日（所要日数）}|CENTER:&bold(){YouTube達成状況}|CENTER:CENTER:&bold(){BiliBili達成状況}|
+|[[何でも言うことを聞いてくれるアカネチャン]]&footnote(VOICEROID初)|[[ココアシガレットP]]|琴葉茜、結月ゆかり、弦巻マキ、東北きりたん（全てVOICEROID）|17/12/28|18/01/12 00:04（14日）|○|投稿なし|
+|[[アンチビート]]|[[DECO*27]]|初音ミク|14/04/28|18/01/22 22:23（1365日）|○|投稿なし|
+|[[飛行少女]]|[[ナユタン星人]]|初音ミク|16/07/13|18/01/24 15:12（559日）|×|投稿なし|
+|[[グラーヴェ]]|[[niki]]|初音ミク|17/04/04|18/01/26 21:30（297日）|○|投稿なし|
+|[[バレリーコ]]|[[みきとP>みきとP/作り手]]|Megpoid|14/07/28|18/01/29 23:11（1281日）|○|×|
+|[[てんしょう　しょうてんしょう]]|[[きくお]]|初音ミク|12/11/08|18/01/31 13:30（1909日）|○|投稿なし|
+|[[ロケットサイダー]]|[[ナユタン星人]]|初音ミク|15/08/04|18/02/01 00:10（911日）|○|投稿なし|
+|[[Unfragment]]|[[鼻そうめんP]]|初音ミク|09/12/26|18/02/02 15:30（2959日）|×|投稿なし|
+|[[始発とカフカ]]|[[ナブナ]]|初音ミク|15/08/31|18/02/04 21:12（888日）|○|投稿なし|
+|[[キレキャリオン]]|[[ポリスピカデリー]]|初音ミク|16/12/15|18/02/09 06:51（420日）|○|投稿なし|
+|[[やりますねぇのうた]]&footnote(CeVIO初)|[[15m]]|さとうささら（CeVIO）|17/08/10|18/02/09 20:23（183日）|投稿なし|投稿なし|
+|[[日本橋高架下R計画]]|[[自然の敵P]]|IA|12/04/04|18/02/13 09:26（2140日）|×|投稿なし|
+|[[テオ]]|[[Omoi]]|初音ミク|17/07/08|18/02/15 22:11（222日）|○|×|
+|[[ちがう!!!]]|[[サイゼP]]|初音ミク、音街ウナ|16/11/17|18/02/22 19:24（462日）|○|投稿なし|
+|[[スターナイトスノウ]]|[[ナブナ]]、[[Orangestar]]|初音ミク|17/01/06|18/03/05 16:19（422日）|○|投稿なし|
+|[[恋愛フィロソフィア]]|[[黒うさP]]|初音ミク|12/05/28|18/03/20 13:37（2121日）|投稿なし|投稿なし|
+|[[愛Dee]]|[[Mitchie M]]|初音ミク、巡音ルカ|12/06/09|18/03/28 01:49（2117日）|○|×|
+|[[古書屋敷殺人事件]]|[[てにをは]]|初音ミク|12/07/03|18/03/29 14:32（2094日）|×|投稿なし|
+|[[ロキ>ロキ/みきとP]]|[[みきとP>みきとP/作り手]]|鏡音リン、みきとP|18/02/27|18/04/22 18:03（53日）|○|○|
+|[[メーベル]]|[[バルーン>バルーン/作り手]]|v flower|16/12/14|18/05/01 07:20（502日）|○|投稿なし|
+|[[林檎売りの泡沫少女]]|[[yukkedoluce]]|Megpoid|12/11/15|18/05/01 20:41（1992日）|○|投稿なし|
+|[[いかないで]]|[[想太]]|歌愛ユキ|13/10/09|18/05/02 20:36（1666日）|○|投稿なし|
+|[[ドラマツルギー>ドラマツルギー/Eve/2016～]]|[[Eve>Eve/2016～]]|初音ミク|17/10/10|18/05/07 06:31（208日）|投稿なし&footnote(セルフカバーのみの投稿。ミリオン達成済。)|投稿なし&footnote(セルフカバーのみの投稿。ミリオン達成済。)|
+|[[気まぐれメルシィ]]|[[八王子P]]|初音ミク|16/06/03|18/05/07 21:41（703日）|○|投稿なし|
+|[[ハウトゥワープ]]|[[ナユタン星人]]|初音ミク|15/09/01|18/05/10 14:54（981日）|×|投稿なし|
+|[[命ばっかり]]|[[ぬゆり]]|v flower、結月ゆかり|17/08/04|18/05/18 18:28（286日）|○|×|
+|[[竹取オーバーナイトセンセーション]]|[[ゴム]]（[[Honeyworks]]）|鏡音リン、鏡音レン|12/09/28|18/05/27 15:53（2067日）|○|投稿なし|
+|[[夜もすがら君想ふ]]|[[西沢さんP]]|Megpoid|14/03/27|18/06/05 14:27（1530日）|○|投稿なし|
+|[[雨き声残響]]|[[Orangestar]]|IA|14/10/05|18/06/10 21:01（1343日）|○|投稿なし|
+|[[ジャバヲッキー・ジャバヲッカ]]|[[カラスヤサボウ]]|鏡音リン、鏡音レン|11/07/29|18/06/15 23:48（2513日）|投稿なし|投稿なし|
+|[[デリヘル呼んだら君が来た]]|[[ナナホシ管弦楽団]]|初音ミク、IA|14/06/09|18/06/19 14:37（1470日）|○|投稿なし|
+|[[死にたがり]]|[[梨本P]]|初音ミク|10/02/23|18/06/20 16:12（3039日）|×&footnote(アートトラックのみの投稿)|投稿なし|
+|[[高音厨音域テスト]]|[[木村わいP]]|初音ミク|13/08/21|18/06/22 21:44（1765日）|○|投稿なし|
+|[[フラジール]]|[[ぬゆり]]|Megpoid|16/09/10|18/06/23 07:08（650日）|○|×|
+|[[ホワイトハッピー]]|[[MARETU]]|初音ミク|17/06/30|18/06/27 00:39（361日）|○|投稿なし|
+|[[金曜日のおはよう-another story-]]|[[ゴム]]（[[HoneyWorks]]）|初音ミク|14/09/26|18/06/27 19:18（1369日）|○|投稿なし|
+|[[コインロッカーベイビー>コインロッカーベイビー/MARETU]]|[[MARETU]]|初音ミク|13/02/02|18/07/03 01:03（1976日）|○|投稿なし|
+|[[ずれていく]]|[[wowaka]]|初音ミク|09/10/23|18/07/07 10:27（3179日）|○|投稿なし|
+|[[メリーバッドエンド]]|[[まふまふ]]|初音ミク|18/02/02|18/07/15 10:43（162日）|○|×|
+|[[愛言葉Ⅱ]]|[[DECO*27]]|初音ミク|13/10/08|18/07/21 23:55（1747日）|○|投稿なし|
+|[[カーニバル>カーニバル/otetsu]]|[[otetsu]]|Megpoid|11/03/07|18/07/28 17:08（2699日）|×|投稿なし|
+|[[フィクサー]]|[[ぬゆり]]|v flower|17/03/22|18/07/30 16:14（494日）|○|×|
+|[[うみなおし]]|[[MARETU]]|初音ミク|17/08/25|18/07/30 21:02（339日）|○|投稿なし|
+|[[だんだん早くなる]]|[[40㍍P]]|初音ミク|15/02/25|18/08/01 23:04（1253日）|○|×|
+|[[グリーンライツ・セレナーデ]]|[[Omoi]]|初音ミク|18/07/06|18/08/04 04:38（28日）|○|投稿なし|
+|[[在来ヒーローズ]]|[[150P]]|初音ミク、Megpoid、鏡音リン、MAYU|13/01/12|18/08/07 17:25（2032日）|投稿なし|投稿なし|
+|[[moonlit bear]]|[[悪ノP]]|初音ミク、KAITO|09/06/22|18/08/16 21:45（3342日）|投稿なし|投稿なし|
+|[[巡姫舞踊曲]]|[[No.D]]|巡音ルカ|09/01/30|18/08/17 23:29（3486日）|投稿なし|投稿なし|
+|[[上弦の月]]|[[黒うさP]]|KAITO|13/07/15|18/08/30 16:34（1871日）|○|投稿なし|
+|[[劣等上等]]|[[ギガP]]|鏡音リン、鏡音レン|18/07/13|18/08/30 21:46（48日）|○|×|
+|[[残響]]|[[164]]|Megpoid|16/12/22|18/08/31 22:58（617日）|○|×|
+|[[病名恋ワズライ]]|[[使徒>チョリスP]]（[[Honeyworks]]）|Megpoid|13/12/17|18/09/02 13:44（1719日）|○|投稿なし|
+|[[空奏列車]]|[[Orangestar]]|IA、初音ミク|15/02/21|18/09/02 18:42（1288日）|○|投稿なし|
+|[[命に嫌われている。]]|[[カンザキイオリ]]|初音ミク|17/08/06|18/09/02 19:38（392日）|○|投稿なし|
+|[[アサガオの散る頃に]]|[[じっぷす]]|初音ミク|15/03/15|18/09/05 19:47（1269日）|○|投稿なし|
+|[[失敗作少女]]|[[かいりきベア]]|初音ミク|15/08/08|18/09/10 21:03（1129日）|○|投稿なし|
+|[[Happy Halloween]]|[[Junky]]|鏡音リン|14/10/10|18/09/11 01:01（1431日）|○|投稿なし|
+|[[だれかの心臓になれたなら]]|[[ユリイ・カノン]]|Megpoid|18/02/12|18/09/13 20:56（213日）|○|投稿なし|
+|[[drop pop candy]]|[[ギガP]]|鏡音リン、巡音ルカ|14/07/18|18/09/14 22:12（1519日）|○|投稿なし|
+|[[病名は愛だった]]|[[Neru]]|鏡音リン、鏡音レン|17/09/17|18/09/15 10:36（362日）|○|投稿なし|
+|[[アウトサイダー>アウトサイダー/Eve/2016～]]|[[Eve>Eve/2016～]]|初音ミク|18/04/06|18/09/20 11:48（166日）|投稿なし&footnote(セルフカバーのみの投稿。ミリオン達成済。)|投稿なし&footnote(セルフカバーのみの投稿。ミリオン未達成。)|
+|[[ハイスペックニート]]|[[40㍍P]]|初音ミク|17/01/06|18/09/20 18:17（621日）|○|投稿なし|
+|[[celluloid]]|[[baker]]|初音ミク|07/10/05|18/09/21 22:25（4004日）|×|投稿なし|
+|[[影踏みエトランゼ]]|[[Substreet]]|初音ミク|11/01/29|18/09/21 23:58（2792日）|投稿なし|投稿なし|
+|[[レディーレ]]|[[バルーン>バルーン/作り手]]|v flower|17/06/14|18/09/23 15:43（465日）|○|投稿なし|
+|[[怪盗Fの台本～消えたダイヤの謎～]]|[[ひとしずくP]]×[[やま△]]|初音ミク、Megpoid、IA、KAITO、&br()鏡音レン、巡音ルカ、がくっぽいど、&br()MEIKO、鏡音リン、MAYU|13/11/05|18/10/01 11:15（1790日）|○|投稿なし|
+|[[トゥインクル]]|[[Junky]]|鏡音リン|11/07/14|18/10/14 21:46（2648日）|投稿なし|投稿なし|
+|[[戯言スピーカー]]（日本語版）|[[ねこぼーろ]]|初音ミク|11/05/07|18/10/23 20:56（2725日）|×|投稿なし|
+|[[ビースト・ダンス]]|[[くらげP]]|音街ウナ|17/03/14|18/10/27 21:27（592日）|○|×|
+|[[ジェシカ]]|[[くるりんご]]|初音ミク|12/01/14|18/10/28 02:04（2478日）|投稿なし|投稿なし|
+|[[一騎当千]]|[[梅とら]]|初音ミク、鏡音リン、巡音ルカ、&br()IA、Megpoid|14/12/09|18/10/28 21:48（1419日）|投稿なし|投稿なし|
+|[[アカリがやってきたぞっ]]|[[ココアシガレットP]]|紲星あかり|18/09/22|18/10/31 22:23（39日）|○|投稿なし|
+|[[繰り返し一粒]]（初音ミク版）|[[猫虫P]]|初音ミク|10/10/30|18/11/05 12:26（2928日）|投稿なし|投稿なし|
+|[[おどりゃんせ]]|[[ユリイ・カノン]]|初音ミク、Megpoid|16/10/26|18/11/10 22:56（745日）|○|投稿なし|
+|[[ストラトステラ]]|[[ナユタン星人]]|初音ミク|15/12/09|18/11/18 11:25（1074日）|×|投稿なし|
+|[[ダーリン>ダーリン/MARETU]]|[[MARETU]]|初音ミク|17/09/29|18/11/21 20:06（418日）|○|投稿なし|
+|[[お気に召すまま]]|[[Eve>Eve/2016～]]|初音ミク|17/11/28|18/11/22 16:37（358日）|投稿なし&footnote(セルフカバーのみの投稿。ミリオン達成済。)|投稿なし&footnote(セルフカバーのみの投稿。ミリオン未達成。)|
+|[[花瓶に触れた]]|[[バルーン>バルーン/作り手]]|v flower|16/02/23|18/11/22 22:59（1003日）|○|投稿なし|
+|[[KILLER B]]|[[梅とら]]|巡音ルカ、初音ミク、Megpoid、&br()IA、鏡音リン|17/12/21|18/11/26 20:20（340日）|○|投稿なし|
+|[[愛迷エレジー>愛迷エレジー/DECO*27]]|[[DECO*27]]|初音ミク|13/12/18|18/12/15 17:48（1822日）|○|投稿なし|
+|[[初恋の絵本]]|[[使徒>チョリスP]]（[[HoneyWorks]]）|Megpoid|11/11/18|18/12/20 11:36（2588日）|○|投稿なし|
+|[[アンデッドエネミー]]|[[ギガP]]×[[スズム]]|鏡音リン|14/06/20|18/12/23 12:02（1646日）|投稿なし|投稿なし|
+|[[闇色アリス>闇色アリス/samfree]]|[[samfree]]|初音ミク|09/02/20|18/12/26 01:22（3595日）|投稿なし|投稿なし|
+|[[いつだってHappyDay！]]|[[バカッパの証-ｱｶｼ-]]|初音ミク|16/11/17|18/12/26 21:46（769日）|×|投稿なし|
+|[[こっち向いて Baby]]|[[ryo>ryo/supercell]]|初音ミク|10/07/02|18/12/29 07:09（3101日）|投稿なし|投稿なし|
+|[[明星ギャラクティカ]]|[[ナユタン星人]]|初音ミク|18/02/20|18/12/29 11:36（311日）|○|投稿なし|
+|[[スーサイドパレヱド]]|[[ユリイ・カノン]]|Megpoid|17/07/18|18/12/29 14:48（528日）|○|投稿なし|
+|[[マチガイサガシ]]|[[まふまふ]]|IA|17/06/30|18/12/29 15:24（546日）|○|×|
+|[[ARiA>ARiA/とくP]]|[[とくP]]|初音ミク|10/04/29|18/12/31 18:08（3168日）|×|投稿なし|
+|[[Paranoid Doll]]|[[natsuP]]|がくっぽいど|09/07/22|18/12/31 21:36（3449日）|×|投稿なし|
+#endregion
+#region(close,2019年 計92曲、一曲扱い除くと計91曲)
+2019年 計92曲、一曲扱い除くと計91曲
+|CENTER:&bold(){曲名}|CENTER:&bold(){P名}|CENTER:&bold(){ボカロ名}|CENTER:&bold(){投稿日}|CENTER:&bold(){達成日（所要日数）}|CENTER:&bold(){YouTube達成状況}|CENTER:CENTER:&bold(){BiliBili達成状況}|
+|[[ハローディストピア]]|[[まふまふ]]|鏡音リン、鏡音レン|18/05/25|19/01/14 11:41（233日）|○|×|
+|[[おじゃま虫]]|[[DECO*27]]|初音ミク|14/02/14|19/01/24 20:18（1805日）|○|投稿なし|
+|[[レトロマニア狂想曲]]|[[PolyphonicBranch]]|鏡音リン、鏡音レン|16/12/09|19/01/25 00:07（776日）|○|投稿なし|
+|[[ハートアラモード]]|[[DECO*27]]|初音ミク|14/10/03|19/01/31 09:57（1580日）|○|投稿なし|
+|[[乙女解剖]]|[[DECO*27]]|初音ミク|19/01/18|19/02/07 21:35（20日）|○|○|
+|[[アディショナルメモリー]]|[[自然の敵P]]|初音ミク|18/09/14|19/02/13 20:53（152日）|○|投稿なし|
+|[[愛言葉Ⅲ]]|[[DECO*27]]|初音ミク|18/10/08|19/02/16 15:53（130日）|○|○|
+|[[マカロン>マカロン/ATOLS]]|[[ATOLS]]|初音ミク|12/08/10|19/02/19 14:08（2383日）|○|投稿なし|
+|[[UNDER CONSTRUCTION]]|[[けんまP]]|初音ミク|15/04/19|19/02/24 21:07（1407日）|×|投稿なし|
+|[[ぼくらはみんな意味不明]]|[[ピノキオピー]]|初音ミク|17/04/04|19/02/26 11:30（692日）|○|投稿なし|
+|[[疑心暗鬼]]|[[梅とら]]|初音ミク、鏡音リン、巡音ルカ、&br()Megpoid、IA|14/06/13|19/02/28 03:42（1720日）|×|投稿なし|
+|[[Blackjack]]|[[ゆちゃP]]|巡音ルカ|10/11/04|19/03/16 05:39（3054日）|×|投稿なし|
+|[[帝国少女]]|[[R Sound Design]]|初音ミク|17/03/09|19/03/17 16:20（737日）|○|×|
+|[[からっぽのまにまに]]|[[ピノキオピー]]|初音ミク|10/11/28|19/03/17 21:14（3031日）|○|投稿なし|
+|[[メテオ]]（初音ミク版）|[[じょん]]|初音ミク|11/03/20|19/03/24 20:34（2925日）|×|投稿なし|
+|[[クノイチでも恋がしたい]]|[[みきとP>みきとP/作り手]]|初音ミク、鏡音リン|13/03/23|19/03/25 17:19（2192日）|○|×|
+|[[チャンバラジョニー]]|[[DECO*27]]|初音ミク|15/12/16|19/03/26 05:19（1195日）|○|投稿なし|
+|[[Let Me Take You]]|[[banvox]]|banvox、初音ミク|18/02/10|19/03/26 16:38（408日）|×|投稿なし|
+|[[ベノム]]|[[かいりきベア]]|v flower|18/08/02|19/03/27 21:40（237日）|○|投稿なし|
+|[[天使だと思っていたのに]]|[[鬱P]]|初音ミク|18/02/01|19/03/29 17:29（420日）|○|×|
+|[[ジャガーノート]]|[[夏代孝明]]|初音ミク|18/05/17|19/03/31 09:08（317日）|投稿なし&footnote(セルフカバーのみの投稿。ミリオン達成済。)|投稿なし|
+|[[うみたがり]]|[[MARETU]]|初音ミク|15/05/02|19/04/01 17:20（1429日）|○|投稿なし|
+|[[ポジティブ☆ダンスタイム]]|[[キノシタ]]|音街ウナ、鏡音リン|17/10/12|19/04/04 18:52（538日）|○|×|
+|[[右に曲ガール]]|[[はるふり]]|重音テト（UTAU）|15/01/04|19/04/04 22:04（1551日）|○|投稿なし|
+|[[バイオレンストリガー]]|[[八王子P]]|初音ミク|18/12/23|19/04/06 07:27（103日）|○|投稿なし|
+|[[撥条少女時計]]|[[Drop>Drop/作り手]]、[[葉月ゆら]]|初音ミク|18/12/09|19/04/08 20:37（120日）|○|×|
+|[[この曲100万再生いかなかったら死にます！]]|[[たまお]]|初音ミク|17/12/31|19/04/09 15:46（463日）|×|投稿なし|
+|[[ストロボラスト]]|[[ぽわぽわP]]|初音ミク|11/01/20|19/04/09 19:23（3000日）|×&footnote(アートトラックのみの投稿)|投稿なし|
+|[[スキスキ絶頂症]]|[[電ポルP]]|Megpoid|14/02/13|19/04/10 20:06（1882日）|○|投稿なし|
+|[[空想フォレスト>想像フォレスト]]|[[自然の敵P]]|IA|12/05/19|19/04/13 20:04（2519日）|○|投稿なし|
+|[[時忘人]]|[[仕事してP]]|KAITO|09/04/27|19/04/13 12:20（3637日）|×|投稿なし|
+|[[誰でもいいから付き合いたい]]|[[卓球少年]]|鏡音レン|12/12/01|19/04/14 13:22（2324日）|×|投稿なし|
+|[[劇場愛歌]]|[[ナブナ]]|miki|15/02/23|19/04/15 15:33（1511日）|投稿なし|投稿なし|
+|[[い～やい～やい～や]]|[[Neru]]|鏡音リン、鏡音レン|17/11/10|19/04/15 17:08（520日）|○|○|
+|[[ダンスダンスデカダンス]]|[[カラスヤサボウ]]|鏡音リン|13/01/28|19/04/25 06:36（2277日）|投稿なし|投稿なし|
+|[[快晴]]|[[Orangestar]]|IA|17/08/31|19/04/25 08:26（602日）|○|投稿なし|
+|[[マインドブランド]]|[[MARETU]]|初音ミク|15/05/29|19/04/26 00:11（1427日）|○|投稿なし|
+|[[スロウダウナー]]|[[ろくろ]]|初音ミク、Megpoid|18/07/01|19/04/28 05:14（300日）|○|投稿なし|
+|[[なりすましゲンガー]]|[[KulfiQ]]|初音ミク、鏡音リン|12/01/28|19/04/28 14:39（2648日）|×|投稿なし|
+|[[ねぇ、どろどろさん]]|[[YASUHIRO（康寛）]]|鏡音リン|18/11/09|19/04/28 18:58（170日）|○|投稿なし|
+|[[無気力クーデター]]|[[Last Note.]]|Megpoid|13/03/19|19/04/28 20:23（2231日）|投稿なし|投稿なし|
+|[[ビターチョコデコレーション]]|[[syudou]]|初音ミク|19/01/04|19/04/29 15:00（114日）|○|○|
+|[[このピアノでお前を8759632145回ぶん殴る]]|[[SLAVE.V-V-R]]|猫村いろは|16/04/26|19/04/30 13:33（1098日）|○|投稿なし|
+|[[積み木の人形]]|[[wowaka]]|初音ミク|09/12/02|19/04/30 22:19（3436日）|○|投稿なし|
+|[[春に一番近い街]]|[[40㍍P]]|Megpoid|12/03/03|19/05/04 00:54（2617日）|×|×|
+|[[厭世輪舞曲]]|[[YASUHIRO（康寛）]]|鏡音リン|17/11/05|19/05/05 14:51（545日）|×|投稿なし|
+|[[ディカディズム]]|[[ぬゆり]]|v flower、心華|18/05/11|19/05/07 14:31（360日）|○|×|
+|[[愛惜ヒエラルキ]]|[[shr]]|鏡音レン|12/09/30|19/05/07 23:10（2409日）|投稿なし|投稿なし|
+|[[フリィダム ロリィタ]]|[[ねじ式]]|結月ゆかり|17/02/21|19/05/09 23:53（807日）|×|×|
+|[[エイトリアム]]|[[R Sound Design]]|v flower|18/10/26|19/05/13 10:27（198日）|×|×|
+|[[番蝶]]|[[てにをは]]|初音ミク|11/06/23|19/05/16 22:49（2883日）|投稿なし|投稿なし|
+|[[僕がモンスターになった日]]|[[れるりり]]|Fukase|16/01/08|19/05/18 10:28（1225日）|○|投稿なし|
+|[[橙ゲノム]]|[[めざめP]]|初音ミク|12/09/03|19/05/29 22:08（2459日）|×|投稿なし|
+|[[表裏一体]]|[[すりぃ]]|鏡音リン、鏡音レン|18/05/03|19/06/02 19:54（395日）|×|投稿なし|
+|[[スヂ]]|[[MARETU]]|初音ミク|15/12/11|19/06/04 23:17（1271日）|○|投稿なし|
+|[[プロトディスコ]]|[[ぬゆり]]|v flower|17/11/08|19/06/11 14:04（579日）|○|投稿なし|
+|[[ミラーリング]]|[[バルーン>バルーン/作り手]]|初音ミク|16/01/12|19/06/13 23:28（1248日）|×|投稿なし|
+|[[再演]]|[[RINGO]]|音街ウナ、Megpoid|17/11/03|19/06/14 12:38（587日）|○|投稿なし|
+|[[幸福な死を]]|[[きくお]]|初音ミク|12/05/30|19/07/06 02:34（2592日）|○|投稿なし|
+|[[失想ワアド]]|[[自然の敵P]]|初音ミク|17/12/29|19/07/06 22:29（553日）|○|投稿なし|
+|[[ミスリード・ミスリード]]|[[Omoi]]|初音ミク、鏡音リン|18/11/02|19/07/09 21:46（249日）|×|×|
+|[[阿吽のビーツ]]|[[羽生まゐご]]|v flower|17/08/19|19/07/25 08:05（704日）|○|○|
+|[[廃墟の国のアリス]]|[[まふまふ]]|初音ミク|18/08/19|19/07/26 16:14（340日）|○|×|
+|[[ディザーチューン]]|[[DIVELA]]|初音ミク|18/08/31|19/07/28 22:47（331日）|○|×|
+|[[しかばねの踊り]]|[[きくお]]|初音ミク|13/08/31|19/08/03 10:43（2163日）|○|投稿なし|
+|[[lili.]]|[[有機酸]]|v flower|16/10/20|19/08/11 15:19（1024日）|○|×|
+|[[Sweet Devil]]|[[八王子P]]|初音ミク|10/02/14|19/08/15 03:29（3468日）|○|×|
+|[[ユクエシレズ]]|[[うみろ]]|Megpoid|13/06/03|19/08/18 15:53（2267日）|×|×|
+|[[リバースユニバース]]|[[ナユタン星人]]|初音ミク|17/08/31|19/08/19 20:14（717日）|×|投稿なし|
+|[[きみも悪い人でよかった]]|[[ピノキオピー]]|初音ミク|16/08/26|19/08/21 21:32（1090日）|○|投稿なし|
+|[[イナイイナイ依存症]]（初音ミク版）|[[かいりきベア]]、[[MARETU]]|初音ミク|17/01/06|19/08/22 17:39（957日）|○|投稿なし|
+|[[Guilty Verse]]|[[ぺぺろんP]]|氷山キヨテル|10/03/15|19/08/24 18:44（3448日）|×&footnote(2017 ver.のみの投稿。オリジナル版は投稿なし)|投稿なし|
+|[[レミングミング]]|[[かいりきベア]]|v flower|17/11/02|19/09/01 03:21（667日）|○|投稿なし|
+|[[週刊少年バイバイ]]|[[ピノキオピー]]|初音ミク|12/10/02|19/09/18 06:23（2541日）|○|投稿なし|
+|[[アンヘル]]|[[かいりきベア]]|鳴花ミコト|19/03/30|19/10/09 19:07（192日）|投稿なし|投稿なし|
+|[[シザーハンズ]]|[[Nem]]|初音ミク|09/11/24|19/10/29 22:55（3626日）|×|投稿なし|
+|[[トラッシュ・アンド・トラッシュ！]]|[[くらげP]]|鏡音リン|17/01/31|19/11/01 16:59（1003日）|○|×|
+|[[アイムハイ]]|[[MARETU]]|初音ミク|17/04/08|19/11/07 19:27（942日）|○|投稿なし|
+|[[ショットガン・ラヴァーズ]]|[[のぼる↑]]|初音ミク|10/10/14|19/11/10 21:52（3314日）|×|投稿なし|
+|[[心做し]]|[[蝶々P]]|Megpoid|14/01/05|19/11/14 17:34（2138日）|×|投稿なし|
+|[[君はできない子]]|[[きくお]]|初音ミク|13/03/23|19/11/15 11:25（2428日）|○|投稿なし|
+|[[CITRUS]]|[[Orangestar]]|IA、ONE（CeVIO）|15/04/04|19/11/21 17:02（1692日）|○|投稿なし|
+|[[愛して愛して愛して]]|[[きくお]]|初音ミク|15/03/06|19/11/24 21:38（1724日）|○|投稿なし|
+|[[レイズ]]|[[ナブナ]]|初音ミク|14/07/04|19/11/28 17:59（1972日）|投稿なし|投稿なし|
+|[[SNOBBISM]]|[[Neru]]|鏡音リン、鏡音レン|18/03/21|19/12/03 22:18（622日）|○|×|
+|[[君が飛び降りるのなら]]|[[Omoi]]|初音ミク|17/12/02|19/12/08 07:04（735日）|○|×|
+|[[ミュージックミュージック]]|[[とあ]]|初音ミク|14/08/27|19/12/08 23:08（1929日）|○|投稿なし|
+|[[どうぶつ占い]]|[[すこっぷ]]|初音ミク|10/08/11|19/12/13 01:54（3410日）|×|投稿なし|
+|[[39みゅーじっく！]]|[[みきとP>みきとP/作り手]]|初音ミク|16/06/29|19/12/16 15:20（1264日）|○|○|
+|[[メルティランドナイトメア]]|[[はるまきごはん]]|初音ミク|18/02/16|19/12/22 14:47（673日）|○|○|
+|[[テレキャスタービーボーイ]]|[[すりぃ]]|鏡音レン|19/04/13|19/12/23 13:18（253日）|○|投稿なし|
+|[[時ノ雨、最終戦争]]|[[Orangestar]]|IA|15/12/20|19/12/27 04:10（1467日）|○|投稿なし|
+#endregion
+#region(close,2020年 計76曲、一曲扱い除くと計74曲)
+2020年 計76曲、一曲扱い除くと計74曲
+|CENTER:&bold(){曲名}|CENTER:&bold(){P名}|CENTER:&bold(){ボカロ名}|CENTER:&bold(){投稿日}|CENTER:&bold(){達成日（所要日数）}|CENTER:&bold(){YouTube達成状況}|CENTER:CENTER:&bold(){BiliBili達成状況}|
+|[[ラブソングを殺さないで]]|[[ピノキオピー]]|初音ミク|12/04/22|20/01/01 14:52（2809日）|×|投稿なし|
+|[[回る空うさぎ]]|[[Orangestar]]|初音ミク|16/11/14|20/01/02 23:18（1144日）|○|投稿なし|
+|[[おねがいダーリン]]|[[ナナホシ管弦楽団]]|ONE（CeVIO）|15/04/24|20/01/06 11:28（1715日）|×|投稿なし|
+|[[Cynic]]|[[ポリスピカデリー]]|闇音レンリ（UTAU）|16/04/19|20/01/13 14:51（1363日）|○|投稿なし|
+|[[未完成タイムリミッター]]|[[Orangestar]]|IA|14/02/01|20/01/13 18:28（2172日）|○|投稿なし|
+|[[スクランブル交際]]|[[DECO*27]]|初音ミク|19/03/22|20/01/15 13:19（298日）|○|×|
+|[[朝焼け、君の唄。]]|[[ほえほえP]]|初音ミク|09/02/17|20/01/20 19:04（3989日）|投稿なし|投稿なし|
+|[[幾望の月]]|[[なきゃむりゃ]]|結月ゆかり|18/09/22|20/01/25 14:31（490日）|×|投稿なし|
+|[[ニア>ニア/夏代孝明]]|[[夏代孝明]]|初音ミク|17/06/29|20/01/25 23:54（940日）|投稿なし&footnote(セルフカバーのみの投稿。ミリオン達成済。)|×|
+|[[濫觴生命]]|[[Orangestar]]|IA|15/08/29|20/01/26 19:45（1610日）|○|投稿なし|
+|[[花降らし]]|[[ナブナ]]|初音ミク|16/05/07|20/01/27 13:13（1359日）|○|投稿なし|
+|[[fix>fix/keeno]]|[[keeno]]|初音ミク|11/08/25|20/02/02 09:56（3082日）|投稿なし|投稿なし|
+|[[それがあなたの幸せとしても]]|[[ヘブンズP]]|巡音ルカ|13/04/02|20/02/04 19:12（2498日）|×|×|
+|[[こどものしくみ]]|[[ピノキオピー]]|初音ミク|13/08/21|20/02/04 23:53（2358日）|○|投稿なし|
+|[[ミルククラウン・オン・ソーネチカ]]|[[ユジー]]|初音ミク|14/04/25|20/02/07 03:11（2113日）|○|×|
+|[[あの夏が飽和する。]]|[[カンザキイオリ]]|鏡音レン、鏡音リン|18/08/12|20/02/19 09:53（555日）|○|投稿なし|
+|[[cat's dance]]|[[まらしぃ]]|初音ミク|12/01/02|20/02/20 20:56（2971日）|×|投稿なし|
+|[[ハイファイレイヴァー]]|[[Easy Pop]]|巡音ルカ、Megpoid、初音ミク|12/01/16|20/02/20 20:56（2956日）|×|×|
+|[[自由に捕らわれる。]]|[[カンザキイオリ]]|初音ミク|18/04/07|20/02/24 19:25（688日）|○|投稿なし|
+|[[一心不乱]]|[[梅とら]]|初音ミク、巡音ルカ、Megpoid|12/03/03|20/02/24 21:35（2914日）|×|投稿なし|
+|[[パケットヒーロー]]|[[MARETU]]|初音ミク|15/01/09|20/03/02 16:21（1878日）|○|投稿なし|
+|[[アダルトチルドレン>アダルトチルドレン/カンザキイオリ]]（リメイク版）|[[カンザキイオリ]]|鏡音リン|17/03/28|20/03/05 09:17（1072日)|○|投稿なし|
+|[[ハグ]]|[[カンザキイオリ]]|初音ミク|18/03/11|20/03/06 17:40（726日）|○|投稿なし|
+|[[ジェンガ]]|[[40㍍P]]|初音ミク|10/01/31|20/03/15 02:24（3695日）|投稿なし|投稿なし|
+|[[ヒトサマアレルギー]]|[[かいりきベア]]|v flower|16/01/30|20/03/23 04:03（1513日）|○|投稿なし|
+|[[ELECT]]|[[niki]]|Lily|14/01/02|20/03/29 18:52（2277日）|○|×|
+|[[絶対にチョコミントを食べるアオイチャン]]|[[ココアシガレットP]]|琴葉葵、琴葉茜（全てVOICEROID）|19/08/09|20/03/30 19:21（234日）|○|投稿なし|
+|[[たべるんごのうた]]|[[バチ]]|女声1（AquesTalk）|20/01/11|20/04/10 22:35（90日）|投稿なし|投稿なし|
+|[[メアの教育]]|[[Diarays]]|初音ミク|13/08/22|20/04/10 19:53（2422日）|×|投稿なし|
+|[[トーキョーゲットー]]|[[Eve>Eve/2016～]]|初音ミク|18/07/05|20/04/10 19:54（645日）|投稿なし&footnote(セルフカバーのみの投稿。ミリオン達成済。)|投稿なし&footnote(セルフカバーのみの投稿。ミリオン未達成。)|
+|[[驫麤～とりぷるばか～]]|[[ラマーズP]]|初音ミク、重音テト（UTAU）|08/07/13|20/05/04 15:24（4313日）|投稿なし|投稿なし|
+|[[ドミノ倒シ]]|[[すこっぷ]]|初音ミク|11/01/14|20/05/16 22:10（3409日）|×|投稿なし|
+|[[クレイジー・ビート]]|[[さつき が てんこもり]]|初音ミク、鏡音レン|18/12/13|20/05/20 18:33（524日）|○|投稿なし|
+|[[セイデンキニンゲン]]|[[かいりきベア]]|初音ミク|15/04/10|20/05/27 15:36（1873日）|○|投稿なし|
+|[[アンドロイドガール]]|[[DECO*27]]|初音ミク|19/05/03|20/06/02 14:22（396日）|○|○|
+|[[妄想疾患■ガール]]|[[れるりり]]、[[もじゃ]]|Megpoid|14/06/07|20/06/05 23:14（2190日）|投稿なし|投稿なし|
+|[[ニセモノ注意報]]|[[150P]]|IA|12/06/10|20/06/08 01:59（2919日）|投稿なし|投稿なし|
+|[[スーパーマーケット☆フィーバー]]|[[サイゼP]]|初音ミク、音街ウナ|17/02/24|20/06/14 18:03（1205日）|○|投稿なし|
+|[[忘れちゃったよ。]]|[[カンザキイオリ]]、[[msy]]|IA|17/04/05|20/07/07 04:21（1188日）|×|投稿なし|
+|[[懺悔参り]]|[[羽生まゐご]]|v flower|18/02/04|20/07/07 05:12（883日）|○|×|
+|[[ラストダンス>ラストダンス/Eve/2016～]]|[[Eve>Eve/2016～]]|初音ミク|18/12/14|20/07/15 09:23（578日）|投稿なし&footnote(セルフカバーのみの投稿。ミリオン達成済。)|投稿なし&footnote(セルフカバーのみの投稿。ミリオン未達成。)|
+|[[レッド・パージ！！！]]|[[P.I.N.A.]]|鏡音リン、鏡音レン|14/02/07|20/07/20 09:07（2354日）|○|投稿なし|
+|[[ラズベリー＊モンスター]]|[[ゴム]]（[[HoneyWorks]]）|初音ミク|13/06/06|20/07/20 18:41（2600日）|○|投稿なし|
+|[[ニュース39]]|[[Mitchie M]]|初音ミク|15/05/03|20/08/04 22:50（1920日）|○|×|
+|[[レコード・レド]]|[[shr]]|鏡音リン|12/04/20|20/08/13 14:48（3036日）|×|投稿なし|
+|[[オートファジー]]|[[柊キライ]]|v flower|19/08/19|20/08/14 21:20（361日）|○|×|
+|[[ボッカデラベリタ]]|[[柊キライ]]|v flower|20/04/26|20/08/17 13:22（112日）|○|○|
+|[[繰り返し一粒]]（鏡音リン版）|[[猫虫P]]|鏡音リン|11/11/12|20/08/27 11:51（3210日）|投稿なし|投稿なし|
+|[[パズル>パズル/クワガタP]]|[[クワガタP]]|初音ミク|09/09/05|20/09/06 05:16（4018日）|×|投稿なし|
+|[[ぼかろころしあむ]]|[[DIVELA]]|鏡音リン|18/08/05|20/09/06 23:12（763日）|○|×|
+|[[祝福のメシアとアイの塔]]|[[ひとしずくP]]×[[やま△]]|初音ミク、鏡音リン、鏡音レン、&br()巡音ルカ、KAITO、MEIKO、&br()Megpoid、がくっぽいど、IA、MAYU|16/07/20|20/09/11 08:35（1513日）|○|×|
+|[[ヴィラン]]|[[てにをは]]|v flower|20/02/07|20/09/13 16:14（218日）|○|投稿なし|
+|[[恋人のランジェ]]|[[ハチ]]|初音ミク|09/12/19|20/09/14 14:46（3922日）|投稿なし|投稿なし|
+|[[踊れオーケストラ]]|[[YASUHIRO（康寛）]]|IA|16/04/23|20/09/18 12:03（1608日）|○|投稿なし|
+|[[ジッタードール]]|[[niki]]|Lily|12/02/25|20/09/18 12:09（3127日）|×|投稿なし|
+|[[ルマ]]|[[かいりきベア]]|初音ミク|19/11/23|20/09/25 22:54（307日）|○|投稿なし|
+|[[わたしのアール]]|[[くらげP]]|初音ミク|15/08/31|20/10/01 10:46（1857日）|○|投稿なし|
+|[[金星のダンス]]|[[ナユタン星人]]|初音ミク|18/07/06|20/10/02 22:09（819日）|○|投稿なし|
+|[[ぼうけんのしょがきえました！]]|[[じーざすP]]|鏡音リン、鏡音レン|14/11/14|20/10/09 08:04（2155日）|○|投稿なし|
+|[[KING]]|[[Kanaria]]|Megpoid|20/08/02|20/10/10 15:22（68日）|○|投稿なし|
+|[[コールボーイ]]|[[syudou]]|初音ミク|19/04/13|20/10/11 12:10（546日）|○|×|
+|[[僕は空気が嫁ない]]|[[cosMo（暴走P）]]|Megpoid|13/09/03|20/10/12 08:17（2595日）|×|×|
+|[[Gimme×Gimme]]|[[八王子P]]×[[ギガP]]|初音ミク、鏡音リン|19/10/26|20/10/13 00:13（352日）|○|○|
+|[[ドクター＝ファンクビート]]|[[nyanyannya]]|KAITO|15/06/12|20/10/31 20:46（1968日）|○|×|
+|[[アマツキツネ]]|[[まらしぃ]]|鏡音リン|12/08/13|20/11/01 02:55（3001日）|○|投稿なし|
+|[[君を捜す空]]|[[ひとしずくP]]|鏡音レン|09/02/25|20/11/01 12:30（4267日）|×|投稿なし|
+|[[コウカツ]]|[[MARETU]]|初音ミク|18/03/16|20/11/08 16:46（967日）|○|投稿なし|
+|[[失敗作少女]]（MARETU版）|[[かいりきベア]]、[[MARETU]]|初音ミク|19/08/09|20/11/12 18:25（460日）|○|投稿なし|
+|[[孤独の宗教]]|[[syudou]]|初音ミク|20/02/03|20/11/17 18:29（287日）|○|×|
+|[[恋はきっと急上昇☆]]|[[のぼる↑]]|Megpoid|09/06/26|20/11/20 23:58（4165日）|×|投稿なし|
+|[[愛があれば。]]|[[カンザキイオリ]]|鏡音リン|18/02/24|20/11/25 21:50（1005日）|○|投稿なし|
+|[[ジグソーパズル]]|[[まふまふ]]|鏡音レン|18/11/23|20/12/01 18:54（739日）|○|×|
+|[[からくり卍ばーすと]]|[[ひとしずくP]]×[[やま△]]|鏡音リン、鏡音レン|11/01/15|20/12/03 23:48（3610日）|○|投稿なし|
+|[[おおかみは赤ずきんに恋をした]]|[[ひとしずくP]]×[[やま△]]|鏡音リン、鏡音レン|12/08/04|20/12/12 15:27（3051日）|○|投稿なし|
+|[[少女レイ]]|[[みきとP>みきとP/作り手]]|初音ミク|18/07/18|20/12/22 13:39（887日）|○|×|
+|[[仇返しシンドローム]]|[[まふまふ]]|IA|12/12/05|20/12/30 22:22（2947日）|投稿なし|投稿なし|
+#endregion
+#region(close,2021年 計74曲、一曲扱い除くと計73曲)
+2021年 計74曲、一曲扱い除くと計73曲
+|CENTER:&bold(){曲名}|CENTER:&bold(){P名}|CENTER:&bold(){ボカロ名}|CENTER:&bold(){投稿日}|CENTER:&bold(){達成日（所要日数）}|CENTER:&bold(){YouTube達成状況}|CENTER:CENTER:&bold(){BiliBili達成状況}|
+|[[エバ]]|[[柊キライ]]|v flower|20/01/03|21/01/03 18:05（365日）|○|投稿なし|
+|[[スクラマイズ]]|[[MARETU]]|初音ミク|15/08/20|21/01/05 08:31（1964日）|○|投稿なし|
+|[[アイ情劣等生]]|[[かいりきベア]]|鏡音リン|20/06/27|21/01/09 00:09（195日）|○|投稿なし|
+|[[邪魔]]|[[syudou]]|初音ミク|18/01/24|21/01/12 21:26（1084日）|○|×|
+|[[片恋歌]]|[[紅紫]]|初音ミク|20/11/16|21/01/14 15:18（58日）|×&footnote(Ver.1.1のみの投稿。オリジナル版は削除済み。)|投稿なし|
+|[[インタビュア]]|[[クワガタP]]|巡音ルカ|11/11/04|21/01/29 16:24（3373日）|投稿なし|投稿なし|
+|[[ジャンキーナイトタウンオーケストラ]]|[[すりぃ]]|鏡音レン|19/12/20|21/02/03 22:21（411日）|○|投稿なし|
+|[[Ready Steady]]|[[ギガP]]|初音ミク、鏡音リン、鏡音レン|20/09/30|21/02/09 12:14（131日）|○|投稿なし|
+|[[ラストリゾート]]|[[Ayase]]|初音ミク|19/04/30|21/02/10 07:07（651日）|○|×|
+|[[少年少女カメレオンシンプトム]]|[[Neru]]|鏡音リン|12/04/20|21/03/05 22:44（3241日）|×|投稿なし|
+|[[ダーリンダンス]]|[[かいりきベア]]|初音ミク|20/08/30|21/03/09 21:02（191日）|○|投稿なし|
+|[[テレカクシ思春期]]|[[使徒>チョリスP]]（[[HoneyWorks]]）|鏡音レン|13/10/26|21/03/18 18:13（2700日）|○|投稿なし|
+|[[初音ミクの分裂→破壊]]|[[cosMo（暴走P）]]|初音ミク|10/06/02|21/03/21 03:23（3944日）|○&footnote(2018リメイクでの達成。オリジナル版は投稿なし。)|×&footnote(2018リメイクのみの投稿。オリジナル版は投稿なし。)|
+|[[くたばろうぜ]]|[[Neru]]|鏡音リン、鏡音レン|17/12/29|21/03/21 13:04（1177日）|○|投稿なし|
+|[[マエガミスト]]|[[MARETU]]|初音ミク|16/05/27|21/03/24 01:20（1761日）|○|投稿なし|
+|[[カトラリー]]|[[有機酸]]|初音ミク|17/12/25|21/03/28 00:16（1188日）|○|○|
+|[[合い鳴き]]|[[shr]]|鏡音リン、鏡音レン|12/07/23|21/04/04 16:40（3177日）|×|投稿なし|
+|[[グッバイ宣言]]|[[Chinozo]]|v flower|20/04/13|21/04/05 14:18（356日）|○|○|
+|[[ボーカロイドたちが2コードくり返してﾃｯﾃｰﾃﾚｯﾃｰとか叫ぶだけ]]|[[ココアシガレットP]]|初音ミク、鏡音リン、鏡音レン、&br()巡音ルカ、結月ゆかり、猫村いろは|17/04/28|21/04/23 15:41（1455日）|○|投稿なし|
+|[[キュートなカノジョ]]|[[syudou]]|可不（CeVIO）|21/02/20|21/04/29 14:09（67日）|○|○|
+|[[エンヴィーベイビー]]|[[Kanaria]]|Megpoid|21/02/13|21/04/29 21:13（75日）|○|投稿なし|
+|[[夜行性ハイズ]]|[[DECO*27]]|初音ミク|19/02/01|21/04/30 13:29（818日）|○|×|
+|[[SCREAM>SCREAM/梅とら]]|[[梅とら]]|Megpoid|17/01/09|21/05/02 03:57（1573日）|×|投稿なし|
+|[[テレキャスタービーボーイ]]（long ver.）|[[すりぃ]]|鏡音レン|20/09/12|21/05/07 13:42（236日）|○|投稿なし|
+|[[potatoになっていく]]|[[Neru]]|鏡音リン、鏡音レン|20/03/30|21/05/14 21:15（410日）|○|○|
+|[[ヴァンパイア>ヴァンパイア/DECO*27]]|[[DECO*27]]|初音ミク|21/03/09|21/05/16 22:37（68日）|○|○|
+|[[ジャックポットサッドガール]]|[[syudou]]|初音ミク|20/10/24|21/05/31 07:28（218日）|○|×|
+|[[alternate]]|[[keeno]]|初音ミク|15/09/15|21/06/07 23:32（2092日）|投稿なし|投稿なし|
+|[[エゴロック]]|[[すりぃ]]|鏡音レン|18/09/07|21/06/19 10:10（1015日）|○|投稿なし|
+|[[↑人生ゲーム↓]]|[[ゆずひこ]]|初音ミク|11/02/02|21/06/20 14:26（3790日）|投稿なし|投稿なし|
+|[[パズルガール]]|[[とあ]]|初音ミク|15/03/25|21/07/02 19:00（2290日）|○|×|
+|[[春嵐]]|[[john>john/作り手]]|初音ミク|19/12/07|21/07/02 23:44（573日）|○|投稿なし|
+|[[あの娘シークレット]]|[[Eve>Eve/2016～]]|初音ミク|17/07/13|21/07/04 02:08（1451日）|投稿なし&footnote(セルフカバーのみの投稿。ミリオン達成済。)|投稿なし&footnote(セルフカバーのみの投稿。ミリオン未達成。)|
+|[[トラフィック・ジャム]]|[[煮ル果実]]|v flower|19/08/25|21/07/07 18:06（682日）|○|○|
+|[[夢喰い白黒バク]]|[[Nem]]|鏡音レン|11/07/04|21/07/28 09:21（3676日）|×|投稿なし|
+|[[8.32]]|[[*Luna]]|v flower|18/07/07|21/07/30 01:21（1118日）|○|×|
+|[[テスラは夢の中]]|[[西沢さんP]]|初音ミク|17/04/26|21/08/15 00:34（1571日）|○|投稿なし|
+|[[flos]]|[[R Sound Design]]|初音ミク|18/03/08|21/08/16 16:52（1256日）|○|×|
+|[[物をぱらぱら壊す]]|[[きくお]]|初音ミク|11/07/22|21/08/20 14:18（3681日）|○|投稿なし|
+|[[猛独が襲う]]|[[一二三]]|初音ミク|17/06/13|21/08/21 11:15（1529日）|○|×|
+|[[フォニイ]]|[[ツミキ]]|可不（CeVIO）|21/06/05|21/08/25 06:25（80日）|○|投稿なし|
+|[[バケモノダンスフロア]]|[[日向電工]]|初音ミク|17/02/17|21/08/28 14:38（1652日）|×|投稿なし|
+|[[幽霊東京]]|[[Ayase]]|初音ミク|19/12/03|21/08/28 23:37（634日）|○|投稿なし|
+|[[メビウス>メビウス/柊キライ]]|[[柊キライ]]|v flower|20/11/26|21/09/01 08:31（278日）|○|×|
+|[[ラグトレイン]]|[[稲葉曇]]|歌愛ユキ|20/07/16|21/09/05 11:27（415日）|○|○|
+|[[トウキョウダイバアフェイクショウ]]|[[ツミキ]]|IA|17/12/15|21/09/07 08:10（1361日）|×|投稿なし|
+|[[ラブカ？]]|[[柊キライ]]|v flower|20/12/11|21/09/07 16:15（269日）|○|○|
+|[[内臓ありますか]]|[[ピノキオピー]]|初音ミク|19/01/22|21/09/08 09:18（959日）|○|○|
+|[[Henceforth]]|[[Orangestar]]|IA|20/05/21|21/09/13 22:01（480日）|○|投稿なし|
+|[[細菌汚染 - Bacterial Contamination -]]|[[カニミソP]]|初音ミク|12/02/03|21/09/30 18:23（3526日）|○|投稿なし|
+|[[ライムライト>ライムライト/蜂屋ななし]]|[[蜂屋ななし]]|初音ミク、Megpoid|17/11/12|21/10/03 19:34（1420日）|○|×|
+|[[紗痲]]|[[煮ル果実]]|v flower|18/10/08|21/10/09 20:37（1097日）|○|○|
+|[[Starduster]]|[[ジミーサムP]]|初音ミク|09/10/17|21/10/10 03:12（4375日）|投稿なし|投稿なし|
+|[[走れ]]|[[KEI]]|Megpoid|12/07/06|21/10/13 20:26（3386日）|×|投稿なし|
+|[[FLOWER TAIL]]|[[yuukiss]]|KAITO|11/03/24|21/10/18 20:49（3861日）|投稿なし|投稿なし|
+|[[愛及屋烏]]|[[バルーン>バルーン/作り手]]|初音ミク、v flower|15/05/04|21/10/23 15:45（2363日）|○|投稿なし|
+|[[シネマ]]|[[Ayase]]|初音ミク|21/05/08|21/10/27 12:18（171日）|○|投稿なし|
+|[[パメラ]]|[[バルーン>バルーン/作り手]]|v flower|21/10/15|21/11/01 16:52（17日）|○|投稿なし|
+|[[限りなく灰色へ]]|[[すりぃ]]|鏡音レン|21/02/26|21/11/03 01:38（249日）|○|投稿なし|
+|[[ジェヘナ]]|[[wotaku]]|初音ミク|19/08/09|21/11/13 15:56（826日）|○|投稿なし|
+|[[群青讃歌]]|[[Eve>Eve/2016～]]|初音ミク|21/09/30|21/11/15 12:47（45日）|投稿なし&footnote(セルフカバーのみの投稿。ミリオン達成済。)|投稿なし&footnote(セルフカバーのみの投稿。ミリオン達成済。)|
+|[[おばけのウケねらい]]|[[ピノキオピー]]|初音ミク|18/01/30|21/11/17 20:41（1387日）|○|×|
+|[[トンデモワンダーズ]]|[[ささくれP]]|初音ミク、KAITO|21/06/19|21/11/22 12:34（155日）|○|×|
+|[[君が生きてなくてよかった]]|[[ピノキオピー]]|初音ミク|17/08/28|21/11/26 13:47（1550日）|○|○|
+|[[心臓デモクラシー]]|[[みきとP>みきとP/作り手]]|初音ミク|12/01/23|21/11/26 18:25（3594日）|×|×|
+|[[カンタービレ×パッシオーネ]]|[[OSTER project]]|初音ミク|17/08/11|21/11/28 02:17（1569日）|○|投稿なし|
+|[[マーシャル・マキシマイザー]]|[[柊マグネタイト]]|可不（CeVIO）|21/08/21|21/11/28 08:36（99日）|○|投稿なし|
+|[[セカイはまだ始まってすらいない]]|[[ピノキオピー]]|初音ミク|20/04/17|21/12/02 23:44（594日）|○|×|
+|[[とても素敵な六月でした]]|[[Eight]]|初音ミク|14/06/13|21/12/04 20:31（2731日）|○|投稿なし|
+|[[ggrks-ググれカス-]]|[[あー民P]]|巡音ルカ、がくっぽいど|09/02/08|21/12/06 10:38（4683日）|投稿なし|投稿なし|
+|[[純情スカート]]|[[40㍍P]]|初音ミク|13/02/19|21/12/06 22:19（3212日）|○|×|
+|[[神っぽいな]]|[[ピノキオピー]]|初音ミク|21/09/17|21/12/09 21:41（83日）|○|○|
+|[[クローバー♣クラブ]]|[[ゆうゆ]]|初音ミク|08/01/03|21/12/17 18:40（5097日）|×|投稿なし|
+|[[ロウワー]]|[[ぬゆり]]|v flower|21/11/11|21/12/28 17:37（47日）|○|○|
+#endregion
+#region(close,2022年 計68曲、一曲扱い除くと計67曲)
+2022年 計68曲、一曲扱い除くと計67曲
+|CENTER:&bold(){曲名}|CENTER:&bold(){P名}|CENTER:&bold(){ボカロ名}|CENTER:&bold(){投稿日}|CENTER:&bold(){達成日（所要日数）}|CENTER:&bold(){YouTube達成状況}|CENTER:CENTER:&bold(){BiliBili達成状況}|
+|[[ガランド]]|[[ピコン]]|初音ミク|18/05/11|22/01/03 21:29（1333日）|○|○|
+|[[君の神様になりたい。]]|[[カンザキイオリ]]|初音ミク|17/10/01|22/01/06 12:46（1557日）|○|投稿なし|
+|[[ヨヒラ]]|[[ナブナ]]|初音ミク|18/03/09|22/01/09 02:18（1401日）|○|投稿なし|
+|[[アンチジョーカー]]|[[マイキP]]|初音ミク|20/09/06|22/01/11 07:38（491日）|○|投稿なし|
+|[[エゴロック]]（long ver.）|[[すりぃ]]|鏡音レン|21/09/07|22/01/14 00:42（128日）|○|投稿なし|
+|[[負け犬至上主義]]|[[150P]]|IA|13/03/16|22/01/24 21:49（3236日）|投稿なし|投稿なし|
+|[[シニカルナイトプラン]]|[[Ayase]]|初音ミク|20/03/24|22/02/01 18:43（678日）|○|投稿なし|
+|[[きゅうくらりん]]|[[いよわ]]|可不（CeVIO）|21/08/29|22/02/10 13:18（165日）|○|投稿なし|
+|[[ファイヴ]]|[[Omoi]]|初音ミク|17/09/07|22/02/11 19:10（1618日）|×|×|
+|[[ハイドアンド・シーク]]|[[19's Sound Factory]]|初音ミク|14/11/04|22/02/15 06:23（2659日）|投稿なし|投稿なし|
+|[[ラブドール]]|[[DECO*27]]|Megpoid|14/05/30|22/02/27 02:27（2829日）|○|投稿なし|
+|[[無限にホメてくれる桜乃そら先生]]|[[ココアシガレットP]]|桜乃そら|18/12/28|22/02/28 00:13（1157日）|○|投稿なし|
+|[[アヤカシ]]|[[buzzG]]|初音ミク|16/12/17|22/03/06 12:47（1904日）|○|投稿なし|
+|[[quiet room]]|[[有機酸]]|初音ミク|17/08/30|22/03/08 23:27（1651日）|○|×|
+|[[ノイローゼ]]|[[蜂屋ななし]]|v flower|19/04/08|22/03/09 23:24（1066日）|○|×|
+|[[カレシのジュード]]|[[syudou]]|初音ミク|21/08/14|22/03/10 17:14（207日）|○|○|
+|[[なにやってもうまくいかない]]|[[meiyo]]|可不（CeVIO）|21/10/03|22/03/14 11:46（161日）|○|投稿なし|
+|[[文学少女インセイン]]|[[カラスヤサボウ]]|鏡音リン|12/09/28|22/03/22 14:26（3461日）|×|投稿なし|
+|[[クライヤ]]|[[すこっぷ]]|初音ミク|13/11/22|22/04/08 23:24（3059日）|○|投稿なし|
+|[[キャットラビング]]|[[香椎モイミ]]|可不（CeVIO）|21/07/17|22/04/20 16:47（276日）|○|×|
+|[[爆笑]]|[[syudou]]|初音ミク|21/05/27|22/04/22 16:17（329日）|投稿なし&footnote(セルフカバーのみの投稿。ミリオン達成済。)|投稿なし&footnote(セルフカバーのみの投稿。ミリオン未達成。)|
+|[[少女ケシゴム]]|[[MARETU]]|初音ミク、Megpoid|13/12/27|22/04/23 15:26（3038日）|×&footnote(アートトラックのみの投稿)|投稿なし|
+|[[アイロニック]]|[[Kanaria]]|初音ミク|21/12/19|22/04/25 22:57（127日）|×&footnote(アートトラックのみの投稿)|投稿なし|
+|[[アニマル]]|[[DECO*27]]|初音ミク|21/12/16|22/05/02 18:16（136日）|○|×|
+|[[アイディスマイル]]|[[とあ]]|初音ミク、鏡音リン|21/05/02|22/05/14 09:25（377日）|○|×|
+|[[ノマド]]|[[バルーン>バルーン/作り手]]|v flower|22/03/28|22/05/19 07:49（51日）|○|投稿なし|
+|[[アイデンティティ>アイデンティティ/Kanaria]]|[[Kanaria]]|初音ミク、Megpoid|22/01/09|22/05/23 07:01（133日）|○|投稿なし|
+|[[魔法少女とチョコレゐト]]|[[ピノキオピー]]|初音ミク|22/02/25|22/05/24 02:59（87日）|○|○|
+|[[オルターエゴ]]|[[Misumi]]|初音ミク|19/08/16|22/05/30 08:44（1017日）|○|×|
+|[[ラヴィット]]|[[ピノキオピー]]|初音ミク|20/10/16|22/05/30 18:04（590日）|○|○|
+|[[悪魔の踊り方]]|[[こんにちは谷田さん]]|鏡音リン|18/04/27|22/06/06 22:17（1501日）|○|投稿なし|
+|[[アストロノーツ]]|[[ぽわぽわP]]|初音ミク|11/06/02|22/06/21 23:02（4037日）|×&footnote(アートトラックのみの投稿)|投稿なし|
+|[[シンデレラ>シンデレラ/DECO*27]]|[[DECO*27]]|初音ミク|21/08/06|22/06/25 03:15（322日）|○|○|
+|[[孤独ノ隠レンボ]]|[[150P]]|IA|12/05/12|22/06/27 21:27（3698日）|投稿なし|投稿なし|
+|[[失楽ペトリ]]|[[ナナホシ管弦楽団]]|初音ミク|19/10/02|22/07/03 00:27（1004日）|○|投稿なし|
+|[[drop>drop/keeno]]|[[keeno]]|初音ミク|13/04/02|22/07/04 20:44（3379日）|投稿なし|投稿なし|
+|[[CH4NGE]]|[[ギガP]]|可不（CeVIO）|21/12/25|22/07/04 21:06（191日）|○|投稿なし|
+|[[リコレクションエンドロウル]]|[[ツミキ]]|初音ミク|18/07/07|22/07/11 06:11（1464日）|○|投稿なし|
+|[[シンクロナイザー]]|[[Orangestar]]|初音ミク|16/08/11|22/07/21 17:13（2169日）|○|投稿なし|
+|[[無人駅]]|[[ナブナ]]|miki|15/07/21|22/07/29 14:17（2564日）|○|投稿なし|
+|[[ヒガン]]|[[john>john/作り手]]|初音ミク|20/05/22|22/08/03 17:33（802日）|○|投稿なし|
+|[[ファインダー]]|[[kz]]|初音ミク|08/01/05|22/08/06 22:54（5327日）|×|投稿なし|
+|[[アルティメットセンパイ]]|[[ピノキオピー]]|初音ミク|19/10/16|22/08/08 01:20（1026日）|○|×|
+|[[サラマンダー]]|[[DECO*27]]|初音ミク|22/01/07|22/08/08 23:58（213日）|○|○|
+|[[アブソリュート]]|[[YASUHIRO（康寛）]]|鏡音リン|19/08/17|22/08/19 09:33（1097日）|○|投稿なし|
+|[[EYE>EYE/Kanaria]]|[[Kanaria]]|Megpoid|21/07/25|22/08/22 21:36（393日）|○|投稿なし|
+|[[抜錨]]|[[ナナホシ管弦楽団]]|巡音ルカ|18/06/13|22/09/02 15:39（1541日）|○|投稿なし|
+|[[バグ]]|[[かいりきベア]]|初音ミク|22/06/25|22/09/04 19:35（71日）|○|投稿なし|
+|[[孤独毒毒]]|[[syudou]]|初音ミク|21/11/26|22/09/05 08:07（282日）|○|×|
+|[[空っぽのメロディー]]|[[うみくん]]|可不（CeVIO）|21/12/10|22/09/17 13:24（280日）|×|投稿なし|
+|[[故にユーエンミ―]]|[[ただのCo]]|初音ミク、薪宮風季（UTAU）|14/02/13|22/09/19 18:25（3139日）|○|投稿なし|
+|[[1000年生きてる]]|[[いよわ]]|初音ミク|20/12/11|22/09/29 23:15（657日）|○|投稿なし|
+|[[クーネル・エンゲイザー]]|[[電ǂ鯨]]|琴葉葵（VOICEROID）、琴葉茜（VOICEROID）、ストピくん（UTAU）、&br()根音ネネ（UTAU）、AquesTone2（アクエスト）|19/02/07|22/10/11 15:41（1341日）|○|投稿なし|
+|[[ニナ]]|[[ピノキオピー]]|初音ミク|13/11/25|22/10/24 13:34（3254日）|○|投稿なし|
+|[[転生林檎]]|[[ピノキオピー]]|初音ミク|22/06/03|22/10/24 21:12（143日）|○|○|
+|[[ド屑]]|[[なきそ]]|歌愛ユキ|22/03/05|22/10/26 05:48（234日）|○|投稿なし|
+|[[ヒアソビ]]|[[かめりあ]]|初音ミク|22/03/13|22/10/26 21:05（227日）|○|投稿なし|
+|[[It's A Whole World]]|[[そーいち]]|鏡音レン|13/09/27|22/10/29 15:15（3318日）|○|投稿なし|
+|[[QUEEN>QUEEN/Kanaria]]|[[Kanaria]]|Megpoid|22/08/06|22/11/01 23:31（87日）|○|投稿なし|
+|[[パラサイト>パラサイト/DECO*27]]|[[DECO*27]]|初音ミク|22/02/07|22/11/07 08:11（272日）|○|○|
+|[[セカイ再信仰特区]]|[[ろくろ]]|初音ミク|17/09/08|22/11/17 07:37（1895日）|○|投稿なし|
+|[[酔いどれ知らず]]|[[Kanaria]]|Megpoid|22/05/02|22/11/30 13:55（211日）|○|投稿なし|
+|[[マシンガンポエムドール]]|[[cosMo（暴走P）]]|初音ミク|21/10/03|22/12/02 20:09（425日）|○|×|
+|[[ノンブレス・オブリージュ]]|[[ピノキオピー]]|初音ミク|21/06/02|22/12/08 05:08（553日）|○|○|
+|[[イヤガール]]|[[かいりきベア]]|初音ミク|17/04/12|22/12/13 15:10（2070日）|○|投稿なし|
+|[[赤ペンおねがいします]]|[[ぽわぽわP]]|初音ミク|15/07/23|22/12/21 23:04（2708日）|×&footnote(アートトラックのみの投稿)|投稿なし|
+|[[しう>しう/MARETU]]|[[MARETU]]|初音ミク|19/11/09|22/12/27 20:53（1144日）|○|投稿なし|
+|[[Hand in Hand]]|[[kz]]|初音ミク|15/07/08|22/12/29 12:32（2731日）|○|×|
+#endregion
+#endregion
+
+#region(close,2023年〜 計96曲、一曲扱い除くと計92曲)
+2023年〜 計96曲、一曲扱い除くと計92曲
+#region(open,2023年 計96曲、一曲扱い除くと計92曲)
+2023年 計96曲、一曲扱い除くと計92曲
+|CENTER:&bold(){曲名}|CENTER:&bold(){P名}|CENTER:&bold(){ボカロ名}|CENTER:&bold(){投稿日}|CENTER:&bold(){達成日（所要日数）}|CENTER:&bold(){YouTube達成状況}|CENTER:CENTER:&bold(){BiliBili達成状況}|
+|[[ロストアンブレラ]]|[[稲葉曇]]|歌愛ユキ|18/02/27|23/01/04 09:18（1771日）|○|○|
+|[[ラヴィ>ラヴィ/すりぃ]]|[[すりぃ]]|鏡音レン|22/10/29|23/01/05 00:23（67日）|○|投稿なし|
+|[[Surges]]|[[Orangestar]]|IA、初音ミク|21/08/23|23/01/05 23:18（500日）|○|投稿なし|
+|[[IMAWANOKIWA]]|[[いよわ]]|初音ミク|19/11/10|23/01/07 15:49（1153日）|○|投稿なし|
+|[[∞まわる∞]]|[[サイゼP]]|初音ミク、音街ウナ|17/09/23|23/01/09 12:33（1933日）|○|投稿なし|
+|[[ドリームレス・ドリームス]]|[[はるまきごはん]]|初音ミク|17/05/06|23/01/18 23:24（2083日）|○|投稿なし|
+|[[エンドロール>エンドロール/夏代孝明]]|[[夏代孝明]]|VY1、初音ミク|18/07/19|23/01/23 20:52（1649日）|投稿なし&footnote(セルフカバーのみの投稿。ミリオン達成済。)|投稿なし&footnote(セルフカバーのみの投稿。ミリオン未達成。)|
+|[[花が落ちたので、]]|[[一二三]]|初音ミク|17/01/20|23/01/23 22:26（2194日）|○|×|
+|[[krank]]|[[有機酸]]|初音ミク|17/03/17|23/01/28 00:29（2142日）|○|×|
+|[[まにまに>まにまに/r-906]]|[[r-906]]|初音ミク|22/04/23|23/01/28 15:21（280日）|○|投稿なし|
+|[[Shadow Shadow]]|[[Azari]]|v flower|21/09/27|23/02/05 21:38（496日）|○|投稿なし|
+|[[ラプンツェル>ラプンツェル/ナブナ]]|[[ナブナ]]|初音ミク|16/07/06|23/02/09 16:42（2408日）|○|投稿なし|
+|[[ジレンマ>ジレンマ/DECO*27]]|[[DECO*27]]|初音ミク|22/03/09|23/02/10 21:08（338日）|○|×|
+|[[クローゼットルーム]]|[[るりう]]|Megpoid、v flower|21/04/24|23/02/11 23:28（658日）|×|×|
+|[[ゴキブリの味]]|[[MARETU]]|初音ミク|19/08/24|23/02/17 12:19（1272日）|○|投稿なし|
+|[[ムーンウォークフィーバー]]|[[日向電工]]|初音ミク|16/12/03|23/02/18 21:34（2268日）|×|投稿なし|
+|[[バグ]]（セカイver.）|[[かいりきベア]]|鏡音レン、朝比奈まふゆ（CV.田辺留依）、&br()宵崎奏（CV.楠木ともり）、東雲絵名（CV.鈴木みのり）、&br()暁山瑞希（CV.佐藤日向）|22/08/24|23/02/20 18:35（179日）|○|投稿なし|
+|[[マシュマリー]]|[[MIMI]]|初音ミク|18/01/04|23/02/22 19:08（1875日）|○|投稿なし|
+|[[星界ちゃんと可不ちゃんのおつかい合騒曲]]|[[南ノ南]]|星界（CeVIO）、可不（CeVIO）、東北きりたん（CeVIO）|22/10/08|23/02/25 18:00（140日）|○|×|
+|[[デビルじゃないもん]]|[[DECO*27]]、[[ピノキオピー]]|初音ミク|23/01/13|23/03/02 17:13（47日）|○|投稿なし|
+|[[アプリコット>アプリコット/いよわ]]|[[いよわ]]|初音ミク|21/12/12|23/03/05 16:50（447日）|○|投稿なし|
+|[[キメラ>キメラ/DECO*27]]|[[DECO*27]]|初音ミク|22/04/02|23/03/07 08:12（338日）|○|投稿なし|
+|[[熱異常]]|[[いよわ]]|足立レイ（UTAU）、初音ミク|22/10/08|23/03/10 20:21（153日）|○|投稿なし|
+|[[ネコミミアーカイブ]]|[[糞田舎P]]|初音ミク|12/01/28|23/03/18 13:00（4066日）|×|投稿なし|
+|[[シティライツ]]|[[ぽわぽわP]]|鏡音リン|13/01/21|23/03/23 20:35（3713日）|×|投稿なし|
+|[[影光SPECTRUM]]|[[FB777]]（[[M.S.S Project]]）|初音ミク|17/02/04|23/03/23 22:19（2238日）|×|投稿なし|
+|[[絶え間なく藍色]]|[[獅子志司]]|初音ミク|19/06/25|23/03/24 19:24（1367日）|○|投稿なし|
+|[[Iなんです]]（セカイver.）|[[れるりり]]|初音ミク、東雲絵名（CV.鈴木みのり）、&br()宵崎奏（CV.楠木ともり）、朝比奈まふゆ（CV.田辺留依）、&br()暁山瑞希（CV.佐藤日向）|22/11/28|23/03/27 17:37（118日）|○|投稿なし|
+|[[p.h.]]|[[SEVENTHLINKS]]|v flower|20/05/29|23/04/01 01:12（1036日）|○|○|
+|[[従属ふりったー]]|[[電ポルP]]|初音ミク|14/07/09|23/04/01 11:31（3187日）|投稿なし|投稿なし|
+|[[三日月ステップ]]|[[r-906]]|初音ミク|20/03/26|23/04/01 11:55（1100日）|○|投稿なし|
+|[[茶番カプリシオ]]|[[悪ノP]]|MEIKO、KAITO、初音ミク、鏡音リン、鏡音レン、&br()巡音ルカ、がくっぽいど、Megpoid|11/10/29|23/04/07 12:16（4177日）|×|投稿なし|
+|[[シャンティ]]|[[wotaku]]|KAITO|21/09/17|23/04/09 00:25（568日）|○|投稿なし|
+|[[性格悪くてすみません。]]|[[青谷]]|重音テト（UTAU）|16/06/13|23/04/11 05:16（2492日）|○|投稿なし|
+|[[匿名M]]|[[ピノキオピー]]|初音ミク、ARuFa|23/02/17|23/04/18 21:32（60日）|○|○|
+|[[愛の詩]]|[[ラマーズP]]|初音ミク|13/10/31|23/04/23 13:02（3461日）|○|投稿なし|
+|[[GETCHA!]]|[[ギガP]]、[[KIRA]]|初音ミク、Megpoid|20/09/04|23/04/27 07:58（964日）|○|投稿なし|
+|[[永遠にゲームで対戦したいキリタン]]|[[ココアシガレットP]]|東北きりたん（VOICEROID）、結月ゆかり（VOICEROID）、&br()紲星あかり|19/12/29|23/04/28 15:37（1215日）|○|投稿なし|
+|[[スーパーヒーロー>スーパーヒーロー/Guiano]]|[[Guiano]]|IA|18/04/14|23/04/29 21:05（1841日）|○|×|
+|[[強風オールバック]]|[[ゆこぴ]]|歌愛ユキ|23/03/15|23/05/05 23:47（51日）|○|投稿なし|
+|[[ゴー・トゥ・大都会]]|[[ニャン・トンロン]]、[[月裏]]|Megpoid|19/12/19|23/05/07 21:33（1235日）|○|投稿なし|
+|[[METEOR>METEOR/DIVELA]]|[[DIVELA]]|初音ミク|18/06/08|23/05/15 18:09（1801日）|○|投稿なし|
+|[[パレットには君がいっぱい]]|[[ぽわぽわP]]|初音ミク|12/11/01|23/05/29 18:44（3861日）|×&footnote(アートトラックのみの投稿)|投稿なし|
+|[[ザムザ]]（セカイver.ゲームサイズ）|[[てにをは]]|KAITO、宵崎奏（CV.楠木ともり）、&br()朝比奈まふゆ（CV.田辺留依）、東雲絵名（CV.鈴木みのり）、&br()暁山瑞希（CV.佐藤日向）|23/03/28|23/05/29 19:31（61日）|○|投稿なし|
+|[[異星にいこうね]]|[[いよわ]]|星界（CeVIO）|22/04/29|23/05/30 17:31（395日）|○|投稿なし|
+|[[MONSTER>MONSTER/KIRA]]|[[KIRA]]|Megpoid|19/05/29|23/06/05 10:42（1467日）|○|投稿なし|
+|[[ザムザ]]|[[てにをは]]|初音ミク|23/04/07|23/06/05 16:01（58日）|○|投稿なし|
+|[[花に風]]|[[バルーン>バルーン/作り手]]|初音ミク|23/02/10|23/06/07 22:57（117日）|○|投稿なし|
+|[[エゴイスト>エゴイスト/大沼パセリ]]|[[大沼パセリ]]|v flower|18/09/12|23/06/08 22:32（1730日）|○|投稿なし|
+|[[ひつじがいっぴき]]（セカイver.）|[[Peg]]|MEIKO、小豆沢こはね（CV.秋奈）、&br()白石杏（CV.鷲見友美ジェナ）、東雲彰人（CV.今井文也）、&br()青柳冬弥（CV.伊東健人）|23/02/26|23/06/14 19:03（107日）|○|投稿なし&footnote(バーチャル・シンガーverのみの投稿。ミリオン未達成。)|
+|[[深海>深海/Riei]]|[[Riei]]|初音ミク|23/04/07|23/06/19 23:11（73日）|×|投稿なし|
+|[[パノプティコン]]|[[r-906]]|初音ミク|19/08/17|23/06/21 01:06（1403日）|○|投稿なし|
+|[[Beat Eater]]|[[ポリスピカデリー]]|初音ミク|21/07/18|23/06/24 20:24（705日）|○|投稿なし|
+|[[ねぇねぇねぇ。]]|[[ピノキオピー]]|鏡音リン、初音ミク|21/08/06|23/06/26 11:31（688日）|○|○|
+|[[ハナタバ]]|[[MIMI]]|可不（CeVIO）|22/11/19|23/06/26 19:45（219日）|○|投稿なし|
+|[[マイナスレッテル]]|[[かいりきベア]]|v flower|18/01/16|23/06/30 22:44（1991日）|○|投稿なし|
+|[[レクイエム>レクイエム/Kanaria]]|[[Kanaria]]|初音ミク|23/04/22|23/07/03 07:02（71日）|○|投稿なし|
+|[[すーぱーぬこわーるど]]|[[まふまふ]]|IA、鏡音リン|13/12/20|23/07/05 01:06（3483日）|投稿なし|投稿なし|
+|[[馬鹿>馬鹿/syudou]]|[[syudou]]|初音ミク|18/03/21|23/07/08 09:08（1934日）|○|×|
+|[[閻魔さまのいうとおり]]|[[ピノキオピー]]|初音ミク、ピノキオピー|18/08/20|23/07/20 10:23（1794日）|○|×|
+|[[ラビットホール]]|[[DECO*27]]|初音ミク|23/05/19|23/07/22 08:09（63日）|○|○|
+|[[背景、夏に溺れる]]|[[ナブナ]]|初音ミク|13/08/20|23/07/28 12:44（3628日）|投稿なし|投稿なし|
+|[[マフィア]]|[[wotaku]]|初音ミク|20/08/07|23/07/29 14:47（1085日）|○|投稿なし|
+|[[-ERROR]]|[[niki]]|Lily|10/09/13|23/07/29 23:08（4702日）|○|×|
+|[[リアル初音ミクの消失]]|[[cosMo（暴走P）]]|Megpoid|15/07/29|23/07/30 12:39（2922日）|○|投稿なし|
+|[[トキヲ・ファンカ]]|[[takamatt]]|Megpoid|13/05/27|23/08/01 10:41（3717日）|○|投稿なし|
+|[[真夏と少年の天ノ川戦争]]|[[Orangestar]]|IA|13/07/06|23/08/04 20:55（3680日）|×&footnote(アートトラックのみの投稿)|投稿なし|
+|[[可不ちゃんのカレーうどん狂騒曲]]&footnote(VOICEVOX初) |[[南ノ南]]|可不（CeVIO）、ずんだもん（VOICEVOX）、&br()東北きりたん（CeVIO）、東北ずん子（CeVIO）|22/04/23|23/08/05 03:26（469日）|○|×|
+|[[MIRA]]&footnote(Synthesizer V初)|[[Kanaria]]|小春六花（Synthesizer V）|21/03/12|23/08/08 16:33（878日）|○|×|
+|[[新人類]]|[[まらしぃ]]、[[自然の敵P]]、[[kemu]]|鏡音リン|23/03/19|23/08/11 16:30（145日）|○|×|
+|[[くうになる]]|[[MIMI]]|初音ミク、可不（CeVIO）|22/01/15|23/08/14 09:19（575日）|○|投稿なし|
+|[[マジカルドクター]]|[[MARETU]]|初音ミク|19/12/27|23/08/21 21:34（1333日）|○|投稿なし|
+|[[フューチャー・イヴ]]|[[ささくれP]]|初音ミク|22/06/17|23/08/24 18:24（432日）|○|○|
+|[[あなたの夜が明けるまで]]|[[傘村トータ]]|IA、Fukase|19/01/27|23/09/03 15:57（1680日）|○|×|
+|[[あだぽしゃ]]|[[いよわ]]|初音ミク|21/06/20|23/09/06 12:37（807日）|○|投稿なし|
+|[[エル・タンゴ・エゴイスタ]]|[[nyanyannya]]|KAITO、巡音ルカ|17/01/09|23/09/09 08:49（2433日）|○|×|
+|[[Iなんです]]|[[れるりり]]|初音ミク|22/11/28|23/09/14 18:24（289日）|○|投稿なし|
+|[[ももいろの鍵]]|[[いよわ]]|初音ミク|23/05/31|23/09/14 20:05（105日）|○|投稿なし|
+|[[キティ>キティ/ツミキ]]（セカイver.）|[[ツミキ]]|鏡音レン、暁山瑞希（CV.佐藤日向）、&br()宵崎奏（CV.楠木ともり）、朝比奈まふゆ（CV.田辺留依）、&br()東雲絵名（CV.鈴木みのり）|23/05/12|23/09/19 21:26（130日)|○|投稿なし|
+|[[ロウワー]]（セカイver.）|[[ぬゆり]]|MEIKO、暁山瑞希（CV.佐藤日向）、&br()宵崎奏（CV.楠木ともり）、朝比奈まふゆ（CV.田辺留依）、&br()東雲絵名（CV.鈴木みのり）|22/08/24|23/09/20 16:31（391日）|○|投稿なし|
+|[[あわよくばきみの眷属になりたいな]]|[[Peg]]|鏡音リン|19/03/21|23/09/30 02:54（1653日）|○|×|
+|[[トゥイー・ボックスの人形劇場]]|[[ささくれP]]|初音ミク|13/05/01|23/10/05 22:17（3809日）|○|投稿なし|
+|[[人マニア]]|[[原口沙輔]]|重音テト（UTAU）|23/08/06|23/10/11 07:14（65日)|○|投稿なし|
+|[[君色に染まる]]|[[西沢さんP]]|Megpoid|15/11/06|23/10/19 10:34（2903日）|○|×|
+|[[『んっあっあっ。』]]|[[SLAVE.V-V-R]]|初音ミク|21/03/28|23/10/30 15:43（946日）|○|投稿なし|
+|[[イカサマ⇔カジノ]]|[[ひとしずくP]]×[[やま△]]|鏡音リン、鏡音レン|12/04/01|23/11/01 18:27（4230日）|○|投稿なし|
+|[[ハイドレンジア]]|[[LonePi]]|歌愛ユキ|21/03/08|23/11/11 12:22（977日）|○|投稿なし|
+|[[ヲズワルド]]|[[煮ル果実]]|v flower|19/02/10|23/11/16 11:59（1739日）|○|×|
+|[[終焉逃避行]]|[[柊マグネタイト]]|初音ミク|20/12/11|23/11/16 18:38（1069日）|○|投稿なし|
+|[[らくらく安楽死]]|[[ぺぽよ]]|初音ミク、VY1、ぽよろいど（UTAU）|21/10/14|23/11/18 00:35（764日）|○|○|
+|[[てらてら]]（セカイver.）|[[くらげP]]|初音ミク、天馬咲希（CV.礒部花凜）、&br()星乃一歌（CV.野口瑠璃子）、望月穂波（CV.上田麗奈）、&br()日野森志歩（CV.中島由貴）|22/08/24|23/11/24 16:21（456日）|○|投稿なし&footnote(バーチャル・シンガーverのみの投稿。ミリオン未達成。)|
+|[[リアライズ>リアライズ/柊マグネタイト]]|[[柊マグネタイト]]、[[C'Na]]、&br()[[雪乃イト]]|初音ミク|23/08/19|23/12/05 17:37（107日）|○|×|
+|[[四季刻歌]]|[[綿飴]]|IA|12/10/22|23/12/19 16:33（4074日）|○|投稿なし|
+|[[おすしのおしり]]&footnote(NEUTRINO初)|[[asaha]]|東北イタコ、東北ずん子、東北きりたん（全てNEUTRINO）|23/11/01|23/12/22 16:25（50日）|×|投稿なし|
+|[[お呪い]]|[[なきそ]]|花隈千冬（Synthesizer V）|23/02/06|23/12/29 10:23（325日）|○|投稿なし|
+|[[ハングリーニコル]]|[[煮ル果実]]|v flower|18/06/10|23/12/31 02:46（2030日）|○|×|
+#endregion
+#endregion
+
+2024年 まだ現在の曲数は確定していません
+|CENTER:&bold(){曲名}|CENTER:&bold(){P名}|CENTER:&bold(){ボカロ名}|CENTER:&bold(){投稿日}|CENTER:&bold(){達成日（所要日数）}|CENTER:&bold(){YouTube達成状況}|CENTER:CENTER:&bold(){BiliBili達成状況}|
+|[[地球の裏]]|[[いよわ]]|裏命（CeVIO）|22/11/29|24/01/12 08:33（408日）|○|投稿なし|
+|[[月光>月光/キタニタツヤ・はるまきごはん]]|[[はるまきごはん]]、[[こんにちは谷田さん]]|初音ミク、鏡音リン|22/05/30|24/01/12 22:54（592日）|○|×|
+|[[ごめんね ごめんね]]|[[きくお]]|初音ミク|11/10/29|24/01/18 18:42（4464日）|○|投稿なし|
+|[[さよならジャックポット]]|[[いよわ]]|初音ミク、v flower|20/09/27|24/01/21 10:32（1210日）|○|投稿なし|
+|[[ケセラリズム]]|[[ユリイ・カノン]]|Megpoid|18/06/27|24/02/03 11:28（2046日）|○|投稿なし|
+|[[少女A>少女A/ぽわぽわP]]|[[ぽわぽわP]]|鏡音リン|13/10/17|24/02/08 16:33（3765日）|○|投稿なし|
+|[[のだ]]（本人投稿版）|[[大漠波新]]|ずんだもん（NEUTRINO）、初音ミク、重音テト（Synthesizer V）|23/11/06|24/02/11 19:48（97日）|○|投稿なし|
+|[[神曲>神曲/おにゅうP]]|[[おにゅうP]]、[[ピノキオピー]]|初音ミク|11/01/30|24/02/12 21:52（4760日）|投稿なし|投稿なし|
+|[[NEO>NEO/じん]]（セカイver.アニメーションMV）|[[自然の敵P]]|初音ミク、星乃一歌（CV.野口瑠璃子）、&br()花里みのり（CV.小倉唯）、小豆沢こはね（CV.秋奈）、&br()天馬司（CV.廣瀬大介）、宵崎奏（CV.楠木ともり）|23/09/30|24/02/13 20:46（136日）|○|投稿なし|
+|[[うまれるまえは]]|[[MARETU]]|初音ミク|15/09/17|24/02/20 19:53（3078日）|○|投稿なし|
+|[[混沌ブギ]]|[[jon]]|初音ミク|23/08/30|24/02/22 19:57（175日）|○|○|
+|[[マリオネットシンドローム]]|[[すこっぷ]]|初音ミク|09/12/30|24/02/24 19:14（5169日）|投稿なし|投稿なし|
+|[[絶対敵対メチャキライヤー]]|[[メドミア]]|初音ミク、可不（CeVIO）|22/04/23|24/02/26 09:34（674日）|○|投稿なし|
+|[[にっこり^^調査隊のテーマ]]|[[じーざすP]]|鏡音リン、鏡音レン|22/01/19|24/03/01 14:19（771日）|○|×|
+|[[オーバーライド>オーバーライド/吉田夜世]]|[[吉田夜世]]|重音テト（Synthesizer V）|23/11/29|24/03/06 17:01（97日）|○|投稿なし|
+|[[ピチカートドロップス]]|[[とあ]]|初音ミク|16/06/22|24/03/08 14:05（2815日）|○|×|
+|[[おくすり飲んで寝よう]]|[[もちうつね]]|初音ミク|22/10/07|24/03/11 17:17（520日）|○|投稿なし|
+|[[イガク]]|[[原口沙輔]]|重音テト（UTAU）|24/02/23|24/03/20 22:50（26日）|○|投稿なし|
+|[[magician's operation]]|[[EZFG]]|巡音ルカ|12/05/17|24/03/21 18:41（4325日）|×|投稿なし|
+|[[しねばいいのに]]|[[どぶウサギ]]|KAITO|09/01/16|24/03/21 22:08（5543日)|投稿なし|投稿なし|
+|[[JUVENILE>JUVENILE/じん（自然の敵P）]]|[[自然の敵P]]|初音ミク|23/12/22|24/03/22 16:13（90日）|○|投稿なし|
+|[[リレイアウター]]|[[稲葉曇]]|歌愛ユキ|23/08/05|24/03/28 14:05（236日）|○|×|
+|[[さよならプリンセス]]|[[Kai]]|初音ミク|22/01/29|24/03/31 14:02（791日）|○|投稿なし|
+|[[StargazeR>stargazer/骨盤P]]|[[骨盤P]]|初音ミク|08/06/21|24/04/01 08:49（5762日&footnote(ミリオン達成最遅記録)）|投稿なし|投稿なし|
+|[[Booo!]]|[[西沢さんP]]|音街ウナ|18/10/24|24/04/06 17:33（1990日）|○|投稿なし|
+|[[GURU]]|[[自然の敵P]]|可不（CeVIO）|21/12/10|24/04/11 10:26（852日）|○|投稿なし|
+|[[キッカイケッタイ]]（本人投稿版）|[[メドミア]]|初音ミク、可不（CeVIO）|22/07/31|24/04/15 06:45（623日）|○|投稿なし|
+|[[サイノウサンプラー]]|[[電ポルP]]|初音ミク|10/11/25|24/04/23 19:46（4898日）|投稿なし|投稿なし|
+|[[ニューダーリン]]|[[MARETU]]|初音ミク|21/12/27|24/04/24 16:12（848日）|○|投稿なし|
+|[[生きる>生きる/水野あつ]]|[[水野あつ]]|可不（CeVIO）|21/07/22|24/05/02 21:00（1015日）|○|×|
+|[[パジャミィ]]|[[いよわ]]|初音ミク|22/03/27|24/05/03 01:51（767日）|○|投稿なし|
+|[[サイコグラム]]|[[DECO*27]]|初音ミク|19/08/09|24/05/03 11:25（1728日）|○|×|
+|[[メズマライザー]]|[[サツキ>サツキ/作り手]]|初音ミク、重音テト（Synthesizer V）|24/04/27|24/05/12 16:33（14日）|○|○|
+|[[人間らしい]]|[[ユリイ・カノン]]|Megpoid|19/04/25|24/05/14 21:28（1846日）|○|投稿なし|
+|[[花を唄う]]|[[シノ]]|初音ミク|21/01/28|24/05/16 00:57（1203日）|○|投稿なし|
+|[[ライアーダンサー]]|[[マサラダ]]|重音テト（Synthesizer V）|23/06/15|24/05/20 21:31（340日）|○|投稿なし|
+|[[さようなら、花泥棒さん]]|[[メル]]|初音ミク|15/04/03|24/06/03 07:22（3348日）|○|投稿なし|
+|[[シックシックシック]]|[[ピノキオピー]]|初音ミク|17/11/20|24/06/04 16:21（2387日）|○|×|
+|[[死んでしまったのだろうか]]|[[Guiano]]|v flower|18/07/16|24/08/17 13:01（2223日）|○|×|
+|[[一千光年]]|[[いよわ]]|初音ミク、v flower、歌愛ユキ、Megpoid、VY1、&br()足立レイ（UTAU）、可不、星界、裏命（以上CeVIO）、&br()花隈千冬、SOLARIA（以上Synthesizer V）|23/03/19|24/08/17 13:07（517日）|○|投稿なし|
+|[[サクラノタトゥー]]|[[一二三]]、[[ピノキオピー]]|初音ミク、音街ウナ|21/10/15|24/08/25 08:28（1044日）|○|×|
+|[[トンデモワンダーズ]]（セカイver.2DMV）|[[ささくれP]]|KAITO、天馬司（CV.廣瀬大介）、&br()鳳えむ（CV.木野日菜）、草薙寧々（CV.Machico）、&br()神代類（CV.土岐隼一）|22/10/31|24/08/30 08:07（668日）|○|投稿なし|
+|[[小夜子]]|[[みきとP>みきとP/作り手]]|初音ミク|11/08/08|24/09/01 01:45（4772日）|○|×|
+|[[キルマー]]|[[煮ル果実]]|v flower|19/11/22|24/09/02 01:57（1745日）|○|×|
+|[[愛されなくても君がいる]]|[[ピノキオピー]]|初音ミク|20/07/22|24/09/02 08:58（1502日）|○|○|
+|[[晴天を穿つ]]|[[傘村トータ]]|Mew|20/04/20|24/09/02 16:46（1595日）|○|×|
+|[[蜘蛛糸モノポリー]]|[[ささくれP]]|初音ミク|13/04/16|24/09/07 03:37（4161日）|○|投稿なし|
+|[[アップルドットコム]]|[[ピノキオピー]]|初音ミク|17/07/01|24/09/20 21:36（2638日）|○||
+
+#areaedit(end)
+//
+//
+//　2019年分けを行いました。(2019.03.22)
+//　2007～2012年は例外として、5年ごとにまとめてください。
+//
+//
+// 2008年、2012年、2016年、2020年、2024年はうるう年です。その年の2月29日を跨ぐ場合は注意してください。
+// ミリオン達成順に記載されてます。
+// 達成日数は、日単位未満切捨てで記載されています。
+// 必要度合いは低いですが、達成日数のミスが多々ありそうなので、期間計算などのwebページ利用も視野に。
+// 有志の編集により、YouTubeのミリオン達成について、記載部分が増えました。
+// ニコニコにおいて達成した場合に消す作業を忘れないように
+// &nicovideo()のプラグインは下の動画部分で使いますので、消さないでいただくとありがたいです。間違えてる場合の修正は構いません。
+// 14/01/14 カバーやアレンジはプラグイン表示でやっていないので、URLへついでに修正。
+// 動画の勢いもあるので、ここの再生数ソートはざっくりとした区切りで十分です。
+// 24/09/21時点での80万再生以上の動画を追加しました。
+// 本人（または代理投稿者）の手による投稿ではない曲は除外してください。
+//
+//
+//
+// 以下、ミリオン予備軍（95万以上）
+//|Party×Party|ひとしずくP×やま△|初音ミク、鏡音リン、鏡音レン、&br()巡音ルカ、KAITO、MEIKO|14/04/15|**/**/** **:**（日）|○||
+//|ポジティブ・パレード|DECO*27|初音ミク|20/01/17|**/**/** **:**（日）|○||
+//|ハイパーゴアムササビスティックディサピアリジーニャス|nyanyannya|KAITO|16/05/02|**/**/** **:**（日）|○||
+//|LaLaL危|梅とら|巡音ルカ、初音ミク、Megpoid、&br()IA、鏡音リン|16/09/17|**/**/** **:**（日）|○||
+//|夕暮れ蝉日記|まふまふ|IA|12/09/16|**/**/** **:**|||
+//|かなしみのなみにおぼれる|Neru|鏡音レン|13/04/19|**/**/** **:**（日）|○||
+//|囚人|囚人P|鏡音レン|08/11/01|**/**/** **:**（日）|||
+//|[[マーメイド>マーメイド/10日P]]|10日P|Megpoid|11/04/18|**/**/** **:**（日）|||
+//|紙飛行機|囚人P|鏡音リン|09/02/15|**/**/** **:**（日）|||
+//|天使の翼。|A4。|可不（CeVIO）、ゲキヤク（UTAU）|22/10/07|**/**/** **:**（日）|○||
+//|ミザン|[[バルーン>バルーン/作り手]]、ぬゆり|v flower、歌愛ユキ|22/04/22|**/**/** **:**（日）|○||
+//|in the rain|keeno|初音ミク|13/09/18|**/**/** **:**（日）|||
+//|morning haze|keeno|初音ミク|14/11/07|**/**/** **:**（日）|||
+//|GLIDE|niki|Lily|12/12/05|**/**/** **:**（日）|||
+//|ONE OFF MIND|VAN DE SHOP|初音ミク、Megpoid|16/02/14|**/**/** **:**（日）|||
+//|ネガティブ進化論|DECO*27|初音ミク|19/12/20|**/**/** **:**（日）|○||
+//|エリート|Chinozo|可不（CeVIO）|21/11/03|**/**/** **:**（日）|○||
+//|光と影の楽園|ひとしずくP|鏡音リン、鏡音レン|09/12/09|**/**/** **:**（日）|||
+//|鉄の処女と夢見がちなお姫さま|暗黒童話P|鏡音リン|20/07/27|**/**/** **:**（日）|○||
+//|虚ろを扇ぐ（セカイver.）|獅子志司|KAITO、青柳冬弥（CV.伊東健人）、&br()小豆沢こはね（CV.秋奈）、白石杏（CV.鷲見友美ジェナ）、&br()東雲彰人（CV.今井文也）|22/09/29|**/**/** **:**（日）|○||
+//|クラブ＝マジェスティ|nyanyannya|鏡音レン|14/12/03|**/**/** **:**（日）|○||
+//|空中分解|すりぃ|鏡音レン|18/03/03|**/**/** **:**（日）|○||
+//|bitter|keeno|初音ミク|12/07/16|**/**/** **:**（日）|||
+//|キミ以上、ボク未満。|DECO*27|初音ミク|09/09/22|**/**/** **:**（日）|||
+//|ロジカ|かいりきベア|v flower|19/02/08|**/**/** **:**（日）|○||
+//|[[カンタレラ]] ～grace edition～|黒うさP|KAITO、初音ミク|13/03/02|**/**/** **:**（日）|○||
+//|longing|keeno|初音ミク|10/12/30|**/**/** **:**（日）|||
+//|hp|ナカノは4番|雪歌ユフ（UTAU）|10/09/11|**/**/** **:**（日）|○||
+//|[[鳥の詩>>http://www.nicovideo.jp/watch/sm1880080]]|[[Lia>>https://ja.wikipedia.org/wiki/%E9%B3%A5%E3%81%AE%E8%A9%A9_(Lia%E3%81%AE%E6%9B%B2)]]|07/12/28|じゃがりこP（みょん）|鏡音レン|※アレンジカヴァー
+//|デイバイデイズ|syudou|初音ミク、可不（CeVIO）|22/06/03|**/**/** **:**（日）|○||
+//|世界を壊している|Neru|鏡音リン|15/07/14|**/**/** **:**（日）|||
+//|愛言葉Ⅳ|DECO*27|初音ミク|22/05/27|**/**/** **:**（日）|○||
+//|かいしんのいちげき！|天月-あまつき-|初音ミク|18/07/18|**/**/** **:**（日）|||
+//|Unveiled|ナナホシ管弦楽団|初音ミク|19/02/27|**/**/** **:**（日）|||
+//|[[ステラ>ステラ/自然の敵P]]|自然の敵P|初音ミク|20/11/16|**/**/** **:**（日）|||
+//|ラブレター・フロム・メランコリー|カラスヤサボウ|初音ミク|15/03/15|**/**/** **:**（日）|○||
+//|お姫様は電子音で眠る|ハチ|初音ミク|09/05/20|**/**/** **:**（日）|||
+//|夏の終わり、恋の始まり|すこっぷ|Megpoid|12/08/16|**/**/** **:**（日）|||
+//|[[炉心融解(Hard-R.K.mix)>>https://www.nicovideo.jp/watch/sm7219091]]|[[iroha>炉心融解]]|09/06/01|cosMo（暴走P）|鏡音リン|※アレンジカバー
+//|ミクがネギを背負ってやって来る|にとぱん|初音ミク|16/08/31|**/**/** **:**（日）|○||
+//|[[キメラ>キメラ/ATOLS]]|ATOLS|初音ミク|14/10/31|**/**/** **:**（日）|○||
+//|ていていしんじゃえ|ただのCo|初音ミク|14/09/30|**/**/** **:**（日）|||
+//|バイビーベイビーサヨウナラ|saiB|初音ミク|09/09/28|**/**/** **:**（日）|||
+//|lllトゥルティンアンテナlll|△○□×、レタスP、ギガP|鏡音レン|12/09/25|**/**/** **:**（日）|||
+//|撫子色ハート|ユリイ・カノン|初音ミク、Megpoid|17/10/11|**/**/** **:**（日）|○||
+//|[[∞>∞/cosMo（暴走P）]]|cosMo（暴走P）|初音ミク|08/05/05|**/**/** **:**（日）|||
+//|ココロナンセンス|かいりきベア|初音ミク|16/08/26|**/**/** **:**（日）|○||
+//|[[正体>正体/Riei]]|Riei|初音ミク|22/04/23|**/**/** **:**（日）|||
+//|トオトロジイダウトフル|ツミキ|Megpoid|18/01/20|**/**/** **:**（日）|||
+//|アイシテ|とあ|初音ミク|15/11/21|**/**/** **:**（日）|○||
+//|ニビョウカン|MARUDARUMA|Megpoid|12/01/14|**/**/** **:**（日）|||
+//|デッドラインサーカス|Last Note.|Megpoid、鏡音レン、がくっぽいど|12/08/09|**/**/** **:**（日）|||
+//|ホップ！ステップ！即死！シアワセダンスデストラップ|うたたP|初音ミク|13/07/24|**/**/** **:**（日）|○||
+//|マネマネサイコトロピック|かいりきベア|Megpoid|13/08/23|**/**/** **:**（日）|○||
+//
+//以下、90万台
+//|ディストピア・ジパング|cosMo（暴走P）|Megpoid|11/09/14|**/**/** **:**（日）|||
+//|俺のロードローラーだッ！|[[おやつP>名誉会長P]]|鏡音リン、鏡音レン|08/01/02|**/**/** **:**（日）|||
+//|ミサイルキラー|ただのCo|鏡音リン、滲音かこい（UTAU）、初音ミク|13/09/08|**/**/** **:**（日）|○||
+//|Mr. Showtime（セカイver.）|ひとしずくP×やま△|巡音ルカ、天馬司（CV.廣瀬大介）、&br()鳳えむ（CV.木野日菜）、草薙寧々（CV.Machico）、&br()神代類（CV.土岐隼一）|23/03/19|**/**/** **:**（日）|○||
+//|乱躁滅裂ガール（Fukase・鏡音レン版）|れるりり|Fukase、鏡音レン|16/10/21|**/**/** **:**（日）|○||
+//|ReAct|黒うさP|初音ミク、鏡音リン、鏡音レン|11/04/04|**/**/** **:**（日）|||
+//|アドレサンス（Adolescence）|シグナルP|鏡音リン、鏡音レン|08/12/26|**/**/** **:**（日）|||
+//|DIGITAL-TATTOO|けんまP|初音ミク|15/05/06|**/**/** **:**（日）|||
+//|Persona Alice|ハチ|初音ミク|09/06/02|**/**/** **:**（日）|||
+//|刹月華|natsuP|がくっぽいど、KAITO、鏡音レン|10/01/18|**/**/** **:**（日）|||
+//|あぁあぁあぁああぁあぁああぁ|梨本P|初音ミク|09/04/22|**/**/** **:**（日）|||
+//|ボーナスステージ|オワタP|鏡音リン、鏡音レン|11/05/08|**/**/** **:**（日）|||
+//|Love Me If You Can|梅とら|巡音ルカ、初音ミク、Megpoid、&br()IA、鏡音リン|15/03/28|**/**/** **:**（日）|||
+//|ミキミキ★ロマンティックナイト|samfree|miki|09/12/04|**/**/** **:**（日）|||
+//|東京レトロ|すこっぷ|初音ミク|13/06/14|**/**/** **:**（日）|||
+//|夏色アンサー|Orangestar|IA|15/10/16|**/**/** **:**（日）|○||
+//|ゾンビ|DECO*27|初音ミク|22/07/29|**/**/** **:**（日）|○||
+//|STEP TO YOU|40㍍P|初音ミク|09/02/16|**/**/** **:**（日）|||
+//|[[HERO>HERO/Ayase]]|Ayase|初音ミク|23/06/30|**/**/** **:**（日）|○||
+//|ネロイズム|かいりきベア|鳴花ミコト|20/09/04|**/**/** **:**（日）|○||
+//|赤心性：カマトト荒療治|スズム|鏡音リン、鏡音レン|14/02/01|**/**/** **:**（日）|||
+//|夕立のりぼん|[[みきとP>みきとP/作り手]]|MAYU|12/11/07|**/**/** **:**（日）|||
+//|ハッピーヒロインスナイパー|暗黒童話P|Megpoid、初音ミク|16/02/22|**/**/** **:**（日）|○||
+//|ポッピンキャンディ☆フィーバー！|キノシタ|音街ウナ、鏡音リン|19/10/29|**/**/** **:**（日）|○||
+//|シネマ（セカイver.2DMV）|Ayase|KAITO、東雲彰人（CV.今井文也）、&br()小豆沢こはね（CV.秋奈）、白石杏（CV.鷲見友美ジェナ）、&br()青柳冬弥（CV.伊東健人）|22/08/24|**/**/** **:**（日）|○||
+//|相愛性理論|DECO*27|初音ミク|09/04/14|**/**/** **:**（日）|||
+//|ジベタトラベル|日向電工|初音ミク|12/09/04|**/**/** **:**（日）|||
+//|イアイア★ナイトオブデザイア|samfree|IA|12/01/30|**/**/** **:**（日）|||
+//|[[あったかいんだからぁ♪>>http://www.nicovideo.jp/watch/sm25344705]]|[[クマムシ>>https://www.youtube.com/watch?v=J_KCtPxq_u4]]|15/01/14|HoneyWorks|初音ミク|※アレンジカバー
+//|Yellow|kz|初音ミク|10/07/02|**/**/** **:**（日）|||
+//|おどれ！VRダンス！|くらげP|音街ウナ|17/12/15|**/**/** **:**（日）|○||
+//|白の季節|ゆうゆ|初音ミク|07/11/29|**/**/** **:**（日）|||
+//|ドライドライフラワー|とあ|初音ミク|18/01/27|**/**/** **:**（日）|○||
+//|刹那プラス|[[みきとP>みきとP/作り手]]|初音ミク|12/05/14|**/**/** **:**（日）|||
+//|霽れを待つ|Orangestar|初音ミク|21/01/10|**/**/** **:**（日）|○||
+//|KiLLER LADY|八王子P|Megpoid|11/06/10|**/**/** **:**（日）|||
+//|永久に続く五線譜|デッドボールP|初音ミク|07/11/29|**/**/** **:**（日）|||
+//|アゲアゲアゲイン|Mitchie M|初音ミク|13/10/04|**/**/** **:**（日）|○||
+//|雨音ノイズ|40㍍P|初音ミク|15/01/05|**/**/** **:**（日）|||
+//|キドアイラク|[[Task>Task/作り手]]|初音ミク、Megpoid|16/01/05|**/**/** **:**（日）|○||
+//|さよならだけが人生だ|伊東歌詞太郎|初音ミク|15/01/31|**/**/** **:**（日）|||
+//|[[ナミダ>ナミダ/MARETU]]|MARETU|初音ミク|21/05/21|**/**/** **:**（日）|○||
+//|[[バベル>バベル/ATOLS]]|ATOLS|初音ミク|11/01/21|**/**/** **:**（日）|||
+//|[[恋の才能>恋の才能/とあ]]|とあ|初音ミク|14/12/01|**/**/** **:**（日）|○||
+//|[[月光>月光/キタニタツヤ・はるまきごはん]]（セカイver.）|はるまきごはん、こんにちは谷田さん|MEIKO、東雲彰人（CV.今井文也）、&br()小豆沢こはね（CV.秋奈）、白石杏（CV.鷲見友美ジェナ）、&br()青柳冬弥（CV.伊東健人）|22/08/24|**/**/** **:**（日）|○||
+//|[[カノンごのうた>>https://www.nicovideo.jp/watch/sm36536205]]|[[ヨハン・パッヘルベル>>https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%8E%E3%83%B3_(%E3%83%91%E3%83%83%E3%83%98%E3%83%AB%E3%83%99%E3%83%AB)]]&br()[[バチ>たべるんごのうた]]&br()[[バチ>>https://www.nicovideo.jp/watch/sm36440819]]|20/03/19|一匹狼くん|東北きりたん（NEUTRINO）|※カバー
+//|コバルトメモリーズ|はるまきごはん|初音ミク|17/09/16|**/**/** **:**（日）|○||
+//
+//以下、85万台
+//|ロクベル|[[使徒>チョリスP]]（[[HoneyWorks]]）|IA|12/12/25|**/**/** **:**（日）|○||
+//|リンリンシグナル|シグナルP|鏡音リン、鏡音レン|08/01/07|**/**/** **:**（日）|○||
+//|[[m/es>m／es]]|ピノキオピー|初音ミク|12/12/24|**/**/** **:**（日）|||
+//|四季折の羽|ひとしずくP×やま△|鏡音リン、鏡音レン|14/01/20|**/**/** **:**（日）|○||
+//|Beyond the way（セカイver.2DMV）|ギガP|初音ミク、小豆沢こはね（CV.秋奈）、&br()白石杏（CV.鷲見友美ジェナ）、東雲彰人（CV.今井文也）、&br()青柳冬弥（CV.伊東健人）|23/12/08|**/**/** **:**（日）|○||
+//|のろいのめか゛ね ～ stray girl in her lenses|ぶっちぎりP|鏡音リン|09/03/20|**/**/** **:**（日）|||
+//|貴方に花を　私に唄を|Re:nG|初音ミク|08/05/06|**/**/** **:**（日）|||
+//|ぴんく|MARETU|初音ミク|21/07/25|**/**/** **:**（日）|○||
+//|Connecting|halyosy|初音ミク、鏡音リン、鏡音レン、&br()巡音ルカ、KAITO、MEIKO|14/12/05|**/**/** **:**（日）|○||
+//|[[Palette>Palette/ゆよゆっぺ]]|ゆよゆっぺ×meola|巡音ルカ|09/04/23|**/**/** **:**（日）|||
+//|モチベーションが死んでる|ピノキオピー|初音ミク|15/12/25|**/**/** **:**（日）|○||
+//|愛に奇術師|電ポルP|初音ミク|13/08/01|**/**/** **:**（日）|||
+//|モザイクロール (Reloaded)|DECO*27|初音ミク|21/10/08|**/**/** **:**（日）|○||
+//|夕染|[[バルーン>バルーン/作り手]]|v flower|16/07/21|**/**/** **:**（日）|○||
+//|[[Journey>Journey/DECO*27]]（セカイver.アニメーションMV）|DECO*27|初音ミク、星乃一歌（CV.野口瑠璃子）、&br()花里みのり（CV.小倉唯）、小豆沢こはね（CV.秋奈）、&br()天馬司（CV.廣瀬大介）、宵崎奏（CV.楠木ともり）|22/10/05|**/**/** **:**（日）|○||
+//|ラブアトミック・トランスファー|蝶々P|初音ミク|09/12/14|**/**/** **:**（日）|||
+//|寝起きヤシの木|ゆこぴ|歌愛ユキ|23/07/28|**/**/** **:**（日）|○||
+//|ワールド・コーリング|自然の敵P|IA|12/11/02|**/**/** **:**（日）|||
+//|45秒|れすぽん|初音ミク、Megpoid|13/05/29|**/**/** **:**（日）|||
+//|[[シェーマ>シェーマ/Chinozo]]|Chinozo|v flower|20/09/14|**/**/** **:**（日）|○||
+//|牆壁|Orangestar|IA|15/01/01|**/**/** **:**（日）|||
+//|SING＆SMILE|Re:nG|初音ミク|07/12/05|**/**/** **:**（日）|||
+//|嘘の歌姫|telmin|初音ミク、重音テト（UTAU）|08/08/27|**/**/** **:**（日）|||
+//|ヤキモチの答え-another story-|[[使徒>チョリスP]]（HoneyWorks）|初音ミク|13/04/09|**/**/** **:**（日）|○||
+//|ハルノ寂寞|稲葉曇|弦巻マキ（Synthesizer V）|21/05/13|**/**/** **:**（日）|○||
+//|[[カノン>カノン/柊マグネタイト]]|柊マグネタイト|可不（CeVIO）|22/02/19|**/**/** **:**（日）|○||
+//|ミクランカー|ドンフライP|初音ミク|07/12/19|**/**/** **:**|||
+//|soundless voice|ひとしずくP|鏡音レン|08/10/19|**/**/** **:**（日）|||
+//|letter song|doriko|初音ミク|08/06/26|**/**/** **:**（日）|||
+//|鏡音八八花合戦|モジャP|鏡音リン、鏡音レン|09/12/27|**/**/** **:**（日）|||
+//|ハートブレイク・ヘッドライン|40㍍P|Megpoid、結月ゆかり（VOICEROID）|12/06/29|**/**/** **:**（日）|||
+//|FPS|Neru|鏡音レン|15/08/13|**/**/** **:**（日）|○||
+//|水死体にもどらないで|いよわ|初音ミク、v flower|18/12/14|**/**/** **:**（日）|○&footnote(アートトラックでの達成。本家動画は投稿なし)||
+//|バラバラココロ|かいりきベア|v flower|18/02/23|**/**/** **:**（日）|○||
+//|[[Fate：Rebirth>Fate -運命の扉-]]|natsuP|鏡音レン、KAITO、がくっぽいど|09/11/16|**/**/** **:**（日）|||
+//|曖昧さ回避|ポリスピカデリー|闇音レンリ（UTAU）|16/01/19|**/**/** **:**（日）|||
+//|Christmas Morgue|ハチ|初音ミク|10/12/07|**/**/** **:**（日）|○||
+//|[[-ERROR (Synth Rock Cover)>>https://www.nicovideo.jp/watch/sm30082265]]|[[niki>-ERROR]]|16/11/20|Omoi|初音ミク|※アレンジカヴァー
+//|[[POP TEAM EPIC>>https://www.nicovideo.jp/watch/sm32683742]]|[[上坂すみれ>>https://www.youtube.com/watch?v=uGrI25V6ewU]]|18/02/03|hiropon_5th|初音ミク|※カバー
+//|黒塗り世界宛て書簡|フロクロ|重音テト（UTAU）|22/04/01|**/**/** **:**（日）|○||
+//|天国へ行こう|きくお|初音ミク|11/07/12|**/**/** **:**（日）|○||
+//|[[バベル>バベル/いよわ]]|いよわ|重音テト（UTAU、Synthesizer V）|23/04/29|**/**/** **:**（日）|○||
+//|家の裏でマンボウが死んでる|家の裏でマンボウが死んでるP|初音ミク|09/07/12|**/**/** **:**（日）|||
+//|Baby Maniacs|八王子P|初音ミク|11/12/21|**/**/** **:**（日）|||
+//|イフ|ユリイ・カノン|初音ミク|22/05/08|**/**/** **:**（日）|||
+//|残灯花火|Orangestar|初音ミク|15/07/25|**/**/** **:**（日）|||
+//|ショウタイム・ルーラー|カラスヤサボウ|鏡音リン|21/10/29|**/**/** **:**（日）|○||
+//|マジンガーZ|水木一郎、鋼鉄電脳少女隊（レフティーモンスターP、MARETU、エンドウ.、たるとP）|Lily、水木一郎|14/02/22|**/**/** **:**（日）|||
+//|[[Reboot>Reboot/ジミーサムP]]|ジミーサムP|初音ミク、巡音ルカ、寒音ジミ|12/12/13|**/**/** **:**（日）|||
+//|例えば、今此処に置かれた花に|164|Megpoid|14/05/09|**/**/** **:**（日）|||
+//|猿マネ椅子盗りゲーム|150P|IA|12/10/27|**/**/** **:**（日）|||
+//|[[Ievan Polkka>>https://www.nicovideo.jp/watch/sm1893548]]|[[フィンランドの伝統的ポルカ>>http://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%A8%E3%83%B4%E3%82%A1%E3%83%B3%E3%83%BB%E3%83%9D%E3%83%AB%E3%83%83%E3%82%AB]]|07/12/29|Otomania|鏡音リン、鏡音レン|※カバー
+//|贖罪|傘村トータ|IA、結月ゆかり、初音ミク、Fukase、Ken|18/07/24|**/**/** **:**（日）|○||
+//|きみはだいじょうぶ|サイゼP|初音ミク、音街ウナ|17/06/09|**/**/** **:**（日）|○||
+//|[[u>u/shr]]|shr|鏡音リン|14/11/29|**/**/** **:**（日）|||
+//|[[マリオネット>マリオネット/クリーム市長]]|クリーム市長|初音ミク|08/07/15|**/**/** **:**（日）|||
+//|ヨンジュウナナ|[[みきとP>みきとP/作り手]]|初音ミク|14/01/08|**/**/** **:**（日）|||
+//|○○は受信機なんです|裏コマンダーP|初音ミク|08/11/23|**/**/** **:**（日）|||
+//|海賊Fの肖像|ひとしずくP×やま△|鏡音レン、鏡音リン、巡音ルカ、&br()KAITO、MEIKO|15/07/30|**/**/** **:**（日）|○||
+//|[[Lingering Fireworks>残灯花火]]|Orangestar|初音ミク|15/07/25|**/**/** **:**（日）|||
+//|トップシークレット|すこっぷ|初音ミク|10/10/07|**/**/** **:**（日）|||
+//|バーバヤーガ|煮ル果実|可不（CeVIO）、v flower|21/12/26|**/**/** **:**（日）|○&footnote(ニコニコとはバージョンが異なる)||
+//|[[シンデレラ>シンデレラ/DECO*27]] (Giga First Night Remix)|DECO*27、ギガP|初音ミク|21/11/27|**/**/** **:**（日）|○||
+//|Lust Blue|R Sound Design|逆音セシル（UTAU）|18/03/30|**/**/** **:**（日）|○||
+//|あいしていたのに|MARETU|初音ミク|23/07/28|**/**/** **:**（日）|○||
+//|Chaining Intention|Treow（逆衝動P）|初音ミク|08/11/08|**/**/** **:**（日）|||
+//
+//以下、80万台
+//|東京電脳探偵団|PolyphonicBranch|初音ミク、巡音ルカ、鏡音リン、&br()鏡音レン、Megpoid、がくっぽいど、IA|12/09/24|**/**/** **:**（日）|○||
+//|[[あいのうた>あいのうた/大漠波新]]|大漠波新|初音ミク、重音テト（Synthesizer V）|23/08/05|**/**/** **:**（日）|○||
+//|ゆめゆめ|DECO*27|初音ミク|12/01/12|**/**/** **:**（日）|○||
+//|Carry Me Off|八王子P|初音ミク|14/08/21|**/**/** **:**（日）|○||
+//|SPICE!|流星P|鏡音レン|08/03/06|**/**/** **:**（日）|||
+//|トゥール|MARETU|初音ミク|18/11/11|**/**/** **:**（日）|○||
+//|キミノカゼニナル|のぼる↑|鏡音リン|18/09/24|**/**/** **:**（日）|○||
+//|悪役にキスシーンを|40㍍P|初音ミク|17/11/08|**/**/** **:**（日）|○||
+//|我が儘賛歌|◈*ゆくえわっと|暗鳴ニュイ、重音テト（全てUTAU）|21/05/14|**/**/** **:**（日）|||
+//|IMAGINARY LIKE THE JUSTICE|ナナホシ管弦楽団|Megpoid|12/09/17|**/**/** **:**（日）|||
+//|好きな惣菜発表ドラゴン|ンバヂ|重音テト（UTAU）|23/08/05|**/**/** **:**（日）|○||
+//|たこルカ★マグロフィーバー|samfree|たこルカ（巡音ルカ）|09/02/17|**/**/** **:**（日）|||
+//|五番目のピエロ|悪ノP|鏡音レン|11/06/03|**/**/** **:**（日）|||
+//|[[DAYBREAK FRONTLINE>>https://www.nicovideo.jp/watch/so41800369]]|[[Orangestar>DAYBREAK FRONTLINE]]|23/02/18|プロジェクトセカイ公式|初音ミク、小豆沢こはね（CV.秋奈）、白石杏（CV.鷲見友美ジェナ）、東雲彰人（CV.今井文也）、青柳冬弥（CV.伊東健人）|※カバー
+//|ラストバトル|じたばたP|鏡音リン、初音ミク|11/04/10|**/**/** **:**（日）|||
+//|[[再会>再会/はるまきごはん]]|はるまきごはん|初音ミク|19/06/29|**/**/** **:**（日）|||
+//|ねがい|てぃあら|初音ミク|14/10/04|**/**/** **:**（日）|||
+//|パラレルレイヤー|lumo|初音ミク、VY2|20/10/28|**/**/** **:**（日）|○||
+//|恐山ル・ヴォワール|かぴたろう|初音ミク|10/03/13|**/**/** **:**（日）|||
+//|Who?|Azari|歌愛ユキ、v flower|22/08/10|**/**/** **:**（日）|○||
+//|ロリ誘拐|汚点P|鏡音レン|09/01/29|**/**/** **:**（日）|||
+//|エウレカレプリカ|ユギカ|鳴花ミコト|23/01/15|**/**/** **:**（日）|○||
+//|月見夜ラビット|蝶々P|初音ミク|12/09/12|**/**/** **:**（日）|||
+//|ずんだパーリナイ|なみぐる|ずんだもん（Seiren Voice、VOICEVOX）|23/03/18|**/**/** **:**（日）|○||
+//|[[ARROW>ARROW/niki]]|niki|Lily|16/07/30|**/**/** **:**（日）|||
+//|Flyer!（セカイver.2DMV）|Chinozo|鏡音レン、小豆沢こはね（CV.秋奈）、&br()白石杏（CV.鷲見友美ジェナ）、東雲彰人（CV.今井文也）、&br()青柳冬弥（CV.伊東健人）|22/10/07|**/**/** **:**（日）|○||
+//|テノヒラ|wowaka|初音ミク|09/05/24|**/**/** **:**（日）|||
+//|バカ通信（MV版）|のすけ|知声（VoiSona）|23/05/12|**/**/** **:**（日）|○||
+//|アンクローズ・ヒューマン|傘村トータ、カジャ、ねじ式|初音ミク|19/10/05|**/**/** **:**（日）|○||
+//|天才ロック|カラスヤサボウ|鏡音リン|17/11/04|**/**/** **:**（日）|○||
+//|結い傷な|一二三|音街ウナ|19/04/11|**/**/** **:**（日）|○||
+//|今ちょっとだけ話題の神様|[[使徒>チョリスP]]（[[HoneyWorks]]）|Megpoid|13/06/05|**/**/** **:**（日）|○||
+//|秒針|Riei|初音ミク|21/04/24|**/**/** **:**（日）|||
+//|ラストスコア|せきこみごはん|初音ミク|21/08/31|**/**/** **:**（日）|○||
+//|だから言ったでしょ？|Easy Pop|巡音ルカ|18/10/06|**/**/** **:**（日）|○||
+//|回生|◈*ゆくえわっと|健音テイ、暗鳴ニュイ、湯鬱声からす（全てUTAU）|21/01/22|**/**/** **:**（日）|○||
+//|おでこに生えたビワの性格が悪い|家の裏でマンボウが死んでるP|VY2|11/09/20|**/**/** **:**（日）|||
+//|唯一、愛ノ詠|梅とら|巡音ルカ、初音ミク、Megpoid、&br()IA、鏡音リン|18/09/15|**/**/** **:**（日）|○||
+//|Pane dhiria|新城P|KAITO|10/01/19|**/**/** **:**（日）|||
+//|パラメタ|40㍍P|初音ミク|11/11/19|**/**/** **:**（日）|||
+//|Q.|くらげP|音街ウナ|17/11/07|**/**/** **:**（日）|||
+//|88☆彡|まらしぃ、kemu|初音ミク、KAITO|22/04/21|**/**/** **:**（日）|○||
+//|最後のリボルバー|悪ノP|Megpoid|10/03/08|**/**/** **:**（日）|||
+//|だんだん高くなる|40㍍P|初音ミク|15/04/01|**/**/** **:**（日）|○||
+//|戯曲とデフォルメ都市|まふまふ|IA|14/10/05|**/**/** **:**（日）|||
+//|ルートスフィア|Last Note.|Megpoid|12/10/05|**/**/** **:**（日）|||
+//|スパークガールシンドローム|日向電工|初音ミク|13/09/20|**/**/** **:**（日）|||
+//|ねこみみスイッチ|daniwell|初音ミク|09/09/15|**/**/** **:**（日）|||
+//|眠らせ姫からの贈り物|悪ノP|初音ミク|11/05/23|**/**/** **:**（日）|||
+//|エンゼルフィッシュ|パトリチェフ|鏡音リン|13/07/25|**/**/** **:**（日）|||
+//|DOGMA|wotaku|初音ミク|19/07/12|**/**/** **:**（日）|○||
+//|孤食|カンザキイオリ|鏡音レン|17/03/09|**/**/** **:**（日）|||
+//|胸いっぱいのダメを|ピノキオピー|初音ミク|13/10/11|**/**/** **:**（日）|||
+//|だめにんげんだ!|薄塩指数|重音テト（UTAU）|19/06/25|**/**/** **:**（日）|○||
+//|フタリボシ|40㍍P|初音ミク、Megpoid|10/07/07|**/**/** **:**（日）|||
+//|僕みたいな君　君みたいな僕|DECO*27|初音ミク|08/10/08|**/**/** **:**（日）|||
+//|海のサーチライト|[[子牛>子牛/2019～]]|初音ミク|22/07/01|**/**/** **:**（日）|||
+//|[[THE BLUE>THE BLUE/FB777]]（フルバージョン）|FB777（M.S.S Project）|初音ミク|14/08/25|**/**/** **:**（日）|||
+//|アナザー：ワールドイズマイン|awk|KAITO|08/06/09|**/**/** **:**（日）|||
+//|崩壊歌姫-disruptive diva-|マチゲリータP|初音ミク|09/10/28|**/**/** **:**（日）|||
+//|[[星間飛行>>https://www.nicovideo.jp/watch/sm8568000]]|[[ランカ・リー＝中島愛>>https://www.youtube.com/watch?v=2CnvZOs8TWM]]|09/10/20|神無月P|Megpoid|※カバー
+//|[[祭りだヘイカモン>祭りだヘイカモン/ピノキオピー]]|ピノキオピー|初音ミク、ピノキオピー|15/08/26|**/**/** **:**（日）|||
+//|ミセエネン|MARETU|初音ミク|15/10/30|**/**/** **:**（日）|○||
+//|[[カレンデュラ>>https://www.nicovideo.jp/watch/sm30577384]]|[[森田交一>>https://www.youtube.com/watch?v=YPZ5skoVP7c]]|17/02/06|azuma|琴葉茜、琴葉葵（全てVOICEROID）|※カバー
+//|[[ビターチョコデコレーション>>https://www.nicovideo.jp/watch/so41388547]]|[[syudou>ビターチョコデコレーション]]|22/12/27|プロジェクトセカイ公式|初音ミク、宵崎奏（CV.楠木ともり）、朝比奈まふゆ（CV.田辺留依）、東雲絵名（CV.鈴木みのり）、暁山瑞希（CV.佐藤日向）|※カバー
+//|kick|猫アレルギー|音街ウナ|18/06/12|**/**/** **:**（日）|||
+//|yours|keeno|初音ミク|15/08/21|**/**/** **:**（日）|||
+//|ハレハレヤ|羽生まゐご|v flower|18/05/03|**/**/** **:**（日）|○||
+//
+//達成動画への直リンクについては近年全く追加されてないこと、記事肥大化の防止、達成動画一覧表のリンク先に貼られている動画からも飛べることから不用と判断し削除しました。復元しないでください。

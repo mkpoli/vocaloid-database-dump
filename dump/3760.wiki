@@ -1,0 +1,30 @@
+#right(){&furigana(でんぴょうP) &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/5895167" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/5895167">【ニコニコ動画】伝票リスト</a></iframe>)
+
+**特徴
+-KAITO使い。KAITOを使用したトークロイド作品や替え歌を投稿する。
+-「伝説のおしゃべりKAITOマスター」のひとりで、博多弁でしゃべるKAITOが特徴。
+
+**リンク
+-[[作者ブログ>>http://www.voiceblog.jp/denpyou/]]
+
+**曲
+#list_by_tag(伝票P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**動画
+***トークロイド・カバー（主に再生数・マイリスト数が多いものを）
+|&nicovideo(http://www.nicovideo.jp/watch/sm3015432)|&nicovideo(http://www.nicovideo.jp/watch/sm5327915)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4196603)|&nicovideo(http://www.nicovideo.jp/watch/sm3392875)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5367859)|&nicovideo(http://www.nicovideo.jp/watch/sm3832253)|
+***替え歌
+|&nicovideo(http://www.nicovideo.jp/watch/sm2582697)|&nicovideo(http://www.nicovideo.jp/watch/sm2832981)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5696584)||
+
+**コメント
+- 伝票Pだいすきだ(´･ω･`)  -- 名無しさん  (2009-06-22 15:48:08)
+- 殿下かわいすぎるｗ  -- 名無しさん  (2010-01-02 10:41:33)
+- 殿下好きすぎてこまってる＼(^^)／  -- つばめ  (2010-04-01 03:28:33)
+- K子名義で藍玉の箱庭のイラスト描かれてた…。ふつくしいｗ  -- 名無しさん  (2011-03-05 20:53:23)
+- なにこれかわいいｐ＾  -- 名無しさん  (2011-04-15 20:10:59)
+- 久しぶりにボカロに戻ってきたらほとんど非公開になってたけど何かあったのか？  -- 名無しさん  (2015-02-19 18:57:42)
+#comment()

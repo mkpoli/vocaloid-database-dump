@@ -1,0 +1,34 @@
+#right(){&furigana(clear) &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/4385047" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/4385047">【ニコニコ動画】俺作品</a></iframe>)
+
+**特徴
+-最初はAckeyと名乗っていたが、Cubase4(DAWソフト)を購入して以来Ackey++と名乗っている。
+-理系。数式や化学などをモチーフにした曲を多数アップしている。
+-作品の最初にはOP曲とともにAckeyの似顔絵が出る。
+-害虫Pと呼ばれていたが、坊主Pに定着。
+-曲中にパロディーを入れることも多い。
+-その他、入試数学の名問などを集めた作品もアップしている。
+
+**曲
+#list_by_tag(Ackey＋＋,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**リンク
+-[[作者ホームページ "D.C.Forever Never Fine.">>http://dfnf.songwriter.gozaru.jp/]]
+-[[PIAPRO>>http://piapro.jp/Ackey01]]
+
+**動画（オリジナル曲）
+|&nicovideo(http://www.nicovideo.jp/watch/sm1848865){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm1863445){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm1880178){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm1901435){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm1988967){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm2093270){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2176922){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm2228560){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2548466){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm2641844){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2652136){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm3517767){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/nm3908026){340,185}|&nicovideo(http://www.nicovideo.jp/watch/nm4165929){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/nm4386605){340,185}|&nicovideo(http://www.nicovideo.jp/watch/nm5239163){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5597955){340,185}||
+
+**コメント
+- 坊主Pと表記されていた曲を統合。  -- 名無しさん  (2009-12-18 00:50:22)
+- 誰か有機化学の唄のページも作ってください(>_<)  -- 受験生  (2011-11-05 09:22:06)
+- アナザーワールド好きｗ  -- 名無しさん  (2013-03-06 22:00:23)
+#comment()

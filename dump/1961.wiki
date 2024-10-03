@@ -1,0 +1,32 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Stir up!]]|CENTER:&bold(){Stir up vol.2}|CENTER:[[Stir up club edition]]|
+
+|&bold(){[[Allium Project]]}|
+
+発売：2008年08月16日
+価格：￥1,500
+流通：即売
+サークル：Allium Project
+
+**CD紹介
+-Allium Project 第２弾。C74にて頒布。
+-前作は同人誌＋CD（裏表紙の内側にCDがついている形）であったが、今作はCD＋同人誌（CDの歌詞カード部分が同人誌になっているデジパック仕様）となっている。
+
+**曲目
++Be Rock!
++Enjoy Time
++PH
++真夏の欠片
++世界讃歌
++セーブデータ
++あなたにおくるうた
++情景、色取り取り。
++flow away
++Roaming hearts
+
+**リンク
+-[[ホームページ>>http://www.compllege.com/allium/]]
+
+**コメント
+#comment

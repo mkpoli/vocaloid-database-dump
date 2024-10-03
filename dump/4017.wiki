@@ -1,0 +1,32 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+#image(http://blog-imgs-29-origin.fc2.com/p/r/q/prq/pq_extra.jpg,http://prq.blog44.fc2.com/,title=P∴Rhythmatiq EXTRA)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[P∴Rhythmatiq act:02]]|CENTER:&bold(){P∴Rhythmatiq EXTRA}|CENTER:[[P∴Rhythmatiq act:03]]|
+
+|&bold(){[[ノア>ノア(Noah)]]}|&b(){[[ゆうP]]}|&B(){[[Aether_Eru]]}|
+
+発売：2008年12月29日
+価格：￥500
+流通：即売
+サークル：P∴Rhythmatiq
+
+**CD紹介
+-Aether_Eru、ゆう、Noahの3氏から成るサークル&bold(){P∴Rhythmatiq}（プリズマティック）のエクストラシングル。C75（08冬コミ）にて初頒布。
+-今回は、act:03に収録されるNoah氏の新曲のショートバージョンの先行公開に加え、&br()ゲストボーカル mitsuko☆さんを迎えた『[[Snow Promenade]] -winter breath Ver.-』、&br()さらに『Snow Promenade』の動画PVが二本立てと、エクストラという名前以上の豪華収録ぶり。
+
+**曲目
++エレクトロガール / 曲：Noah
++[[Snow Promenade]]　- winter breath Ver.- / 曲：ゆう、唄：mitsuko☆
++Snow Promenade　-Inst. Ver.- / 曲：ゆう
+
+&bold(){EXTRA stage（PV）}
++Snow Promenade / 曲：ゆう、映像：Aether_Eru
++Snow Promenade Acoustic ver / 曲：ゆう、映像：Aether_Eru
+
+**リンク
+-[[P∴Rhythmatiq EXTRA>>http://prq.blog44.fc2.com/blog-entry-40.html]]
+-[[作者ホームページ>>http://prq.blog44.fc2.com/]]
+
+**コメント
+#comment

@@ -1,0 +1,22 @@
+#right(){【登録タグ:&tags()】}
+//↑タグ忘れ防止のための表示
+曖昧さ回避のためのページ
+----
+曲
+-[[お抹茶P]]の曲
+--[[Restart/お抹茶P]]
+-[[TOKYO COM]]の曲
+--[[restart/TOKYO COM]]
+-[[ムラサキツユクサ]]の曲
+--[[Restart/ムラサキツユクサ]]
+-[[Masayoshi_n]]の曲
+--[[Restart/Masayoshi_n]]
+-[[COBA x5884x]]の曲
+--[[RESTART/COBA x5884x]]
+//-[[]]の曲
+//--[[]]
+----
+類似するタイトル
+-[[re:start]]
+
+#include(曖昧さ回避の追加の仕方/告知)

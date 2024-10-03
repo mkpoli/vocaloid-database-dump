@@ -1,0 +1,49 @@
+#right(){&furigana(u160)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/7521361" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/7521361">【ニコニコ動画】</a></iframe>)|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/9432537" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/9432537">【ニコニコ動画】</a></iframe>)|
+|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/11334558" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/11334558">【ニコニコ動画】</a></iframe>)|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/17187756" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/17187756">【ニコニコ動画】</a></iframe>)|
+|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/28132801" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/28132801">【ニコニコ動画】</a></iframe>)|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/32763787" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/32763787">【ニコニコ動画】</a></iframe>)|
+|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/36011915" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/36011915">【ニコニコ動画】</a></iframe>)||
+
+**特徴
+作り手名：『&u(){u160(ういろー丸P)}』
+-非常に多作なPの一人。
+-&bold(){14日連続}リリースという荒行を&bold(){2度}も成し遂げている。
+-2度目の14日連続リリース「live supernova」ではアンコールに応えて、更に2作をリリース。計16日となる。
+-愛をテーマとする作品が多い。曲は、ポップ調やロックが主である。
+//-次の曲が殿堂入りを達成している。&br()&list_by_tagsearch(u160(ういろー丸P),殿堂入り,sort=furigana,option=nolist,nolistspace=、,100)
+
+**リンク
+//-[[YouTube>>https://www.youtube.com/]]
+//-[[piapro>>https://piapro.jp/]]
+-[[Twitter>>https://twitter.com/u160witcho]]
+
+**曲
+#list_by_tagsearch(u160（ういろー丸P）,sort=furigana2,errmsg=まだ曲が登録されていません。,and,100)
+
+**CD
+#list_by_tagsearch(u160（ういろー丸P）CD,sort=furigana2,errmsg=まだCDが登録されていません。,and,100)
+
+**動画(再生数、マイリス数など高いものを)
+|&nicovideo(nm3082234)|&nicovideo(nm3281307)|
+|&nicovideo(sm5283666)|&nicovideo(nm5332585)|
+|&nicovideo(nm5392652)|&nicovideo(sm5408010)|
+|&nicovideo(sm6596269)|&nicovideo(nm9659834)|
+|&nicovideo(sm10863502)|&nicovideo(sm17376486)|
+
+**コラボ
+|u160×[[comic>スP]]&br()&nicovideo(http://www.nicovideo.jp/watch/nm4177973)|
+
+**関連タグ内の更新履歴
+#region(close,関連タグ内の更新履歴)
+関連タグ内の更新履歴
+※「u160（ういろー丸P）」「u160（ういろー丸P）CD」タグ内で最近編集やコメントのあった記事を新しい方から10件表示しています。
+#list_by_tagsearch(u160（ういろー丸P）,u160（ういろー丸P）CD,sort=timestamp,sort2=desc,errmsg=まだ曲、CDが登録されていません。,or,10)
+#endregion
+
+**コメント
+- Vocaloid界を賑わせたPの一人に、「お疲れ様！」そして「ありがとう！」の思いを込めて編集。  -- 名無しさん  (2008-12-01 17:13:37)
+#comment()

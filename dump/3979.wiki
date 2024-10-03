@@ -1,0 +1,24 @@
+#right(){&furigana(てきすとP) &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/3212386" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/3212386">【ニコニコ動画】投稿もの</a></iframe>)
+
+**特徴
+-P自身の体験を動画内でテキスト形式で紹介する。
+-アーティスト名は&b(){一人華飯スペシャル}。
+-うさころにーの&b(){黄うさ}でもあるが、テキストの面白さから後に&b(){テキストP}というP名がついた。
+-現在は上記の2つを合成した&b(){テ黄ストP}というP名になっている。
+-うさころにーのメンバーで唯一神威がくぽを所持している。
+
+**リンク
+-[[作者ホームページ（the Psalm of Dreamers）>>http://kakkin.pro.tok2.com/]]
+
+**曲
+#list_by_tag(テ黄ストP,100,sort=furigana)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm4278043){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm4369140){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/nm4497668){340,185}|&nicovideo(http://www.nicovideo.jp/watch/nm4552975){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/nm4628161){340,185}|&nicovideo(http://www.nicovideo.jp/watch/nm4704843){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/nm4874921){340,185}|&nicovideo(http://www.nicovideo.jp/watch/nm5412836){340,185}|
+
+**コメント
+#comment()

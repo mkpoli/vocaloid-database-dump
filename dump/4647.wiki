@@ -1,0 +1,32 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){8bit darling project}|CENTER:[[8bit darling project ; DELUXE]]|
+
+|&bold(){Sweet Vacation}|[[U-ji]]|
+
+発売：2009年3月11日
+価格：全曲￥900（税込）、1曲￥150（税込）
+流通：レンタル・配信
+アーティスト：Sweet Vacation meets 初音ミク
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=307078922]]}|
+
+**CD紹介
+-メジャー音楽ユニットSweet Vacationの楽曲を、ユーザーや話題のアーティストがVOCALOIDを用いてカバー・リミックスする公式コラボ「8bit darling project」。
+-そのプロジェクトを纏めたCDが、今夏の発売に先駆け&color(red){レンタル・配信限定}で先行リリース中。
+-VOCALOIDユーザーからリミックスを募集した新曲「8bit darling」については、[[U-ji]]さんのチップチューンリミックスがCDに収録されている。
+
+**曲目
++8 Bit Darling ～remix Rev.2～ (U-ji Remix)　【[[ピアプロで聴く>>http://piapro.jp/content/c2nq4nvumi3iorah]]】【[[ニコニコで見る>>http://www.nicovideo.jp/watch/nm5937894]]】
++Brand New Wave (☆STAR GUiTAR Remix)
++Sexy Girl (dj_miya Remix)
++遊びに行こうよ (Vacation Brothers Remix)
++I Miss You ～ユメデアエタラ～ “うっとりタイプ” (スギモトトモユキ Remix)
++I Feel So Good (metagalaxies Remix)
+
+**リンク
+-[[Sweet Vacation 公式サイト>>http://www.sweetvacation.jp/]]
+-[[8bit darling project 特設サイト>>http://www.crypton.co.jp/mp/pages/special/8bitdarlingproject/]]
+
+**コメント
+#comment

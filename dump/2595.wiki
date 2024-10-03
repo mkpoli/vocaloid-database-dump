@@ -1,0 +1,30 @@
+#right(){&furigana(しやむはん) &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/4253367" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/4253367">【ニコニコ動画】引き出しのじゃむぱん</a></iframe>)
+
+**特徴
+-最底辺あたりに棲息するボカロP。じゃむぱんPと呼ばれることもあるような・・・
+-作詞・作曲・演奏の一部（ギター他）・イラスト・動画担当。しかたなく、曲作りから動画までを一人でやっている。
+-意味不明の歌詞と少しズレた動画がチャームポイントか・・・
+
+**リンク
+-[[Youtube（HD版あり）>>http://www.youtube.com/user/jampang7]]
+
+**曲
+#list_by_tag(じゃむぱん,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(じゃむぱんCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm1787479)|&nicovideo(http://www.nicovideo.jp/watch/sm2411476)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4016045)|&nicovideo(http://www.nicovideo.jp/watch/nm4482439)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm5212167)|&nicovideo(http://www.nicovideo.jp/watch/sm5740283)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6937862)|&nicovideo(http://www.nicovideo.jp/watch/sm8671933)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12160784)|&nicovideo(http://www.nicovideo.jp/watch/sm14319648)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm16274985)|&nicovideo(http://www.nicovideo.jp/watch/sm19209302)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm22573973)|&nicovideo(http://www.nicovideo.jp/watch/sm22600577)|
+
+**コメント
+- おおじゃむぱんさんのページだ！  -- 名無しさん  (2009-11-01 09:15:08)
+- こういう人がいないと、底辺は広がらないんだろうな・・・頑張って欲しい。つか紅い靴は良曲ｗ  -- ZOP  (2011-07-19 09:00:38)
+#comment()

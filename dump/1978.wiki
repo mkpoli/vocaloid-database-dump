@@ -1,0 +1,23 @@
+#right(){&furigana(かあにはるP) &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/4226554" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/4226554">【ニコニコ動画】今までに作ったもの</a></iframe>)
+
+**特徴
+-非常にシュールな作風が魅力。
+-アーティスト名はtsujigami。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/tsujigami]]
+
+**曲
+#list_by_tag(カーニバルP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(カーニバルPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/nm3238324){340,185}|&nicovideo(http://www.nicovideo.jp/watch/nm3943549){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/nm4097572){340,185}|&nicovideo(http://www.nicovideo.jp/watch/nm4132764){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/nm4626891){340,185}|&nicovideo(http://www.nicovideo.jp/watch/nm5208330){340,185}|
+
+**コメント
+#comment()

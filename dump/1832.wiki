@@ -1,0 +1,52 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+#image(http://blog-imgs-26.fc2.com/h/i/g/higherskies/banner.jpg,http://higherskies.blog25.fc2.com/,title=Up in the Higher Skies,blank)
+
+#image(http://blog-imgs-26.fc2.com/h/i/g/higherskies/banner.png,http://higherskies.blog25.fc2.com/,title=Up in the Higher Skies,blank)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Up in the Higher Skies}|CENTER:[[Drive On]]|
+
+|&bold(){[[orange>orange/作り手]]}|[[うたたP]]|[[Clean Tears]]|[[T-ism]]|[[HMOとかの中の人]]|[[samfree]]|[[wintermute]]|[[ちえP]]|[[リョータイ]]|[[流星P]]|
+
+||CENTER:即売|CENTER:同人|
+|発売|CENTER:2008年8月16日|CENTER:2008年8月16日|
+|価格|CENTER:￥1,000|CENTER:￥1,470（税込）|
+|サークル|>|CENTER:TEAM UHS|
+
+>ジャケットイラスト：&b(){[[零花>>http://0hua.blog3.fc2.com/]]}
+>アートワーク協力：&b(){[[なぎみそ>>http://nagimiso.blog.shinobi.jp/]]}
+>マスタリング：&b(){[[Shibayan]]}
+
+**CD紹介
+-"Up in the Higher Skies"は、空を飛ぶことをテーマにしたオリジナル曲のコンピレーションアルバムです。&br()「空高く浮かんだときに聞こえてくるような歌を集めてひとつのアルバムに」というコンセプトで企画されています。
+-7名のPのオリジナル曲とそのリミックスバージョン、さらに3名の歌い手による「歌ってみた」が収録されています。
+-マスタリングは、[[Shibayan]]氏が担当。
+-08年夏のコミックマーケットでの頒布の後、[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/15/89/040010158901.html]]、[[メロンブックス>>http://shop.melonbooks.co.jp/tsuhan/system/list.php?RATED=15&GENRE=&FREEWORD=up+in+the+higher+skies]]でも販売されています。
+
+**曲目
++[[ストラトスフィア 2008remix>ストラトスフィア]]　　　by [[T.Komine>うたたP]] & [[orange>orange/作り手]]
++[[Dragoon (feat. Yamai)>Dragoon]]　　　by [[Clean Tears]] & [[T-ism]], song by ヤマイ
++[[ロケット宅宙便]]　　　by [[ちえ]] & [[リョータイ]]
++[[Song of Pixie (Bossa Study)>Song of Pixie]]　　　by [[Wintermute>wintermute]]
++[[電空少女 Caramel-ICE Ver.>電空少女]]　　　by [[HMOとかの中の人]]
++[[Soar UHS ver.>Soar]]　　　by [[minato>流星P]]
++[[ストラトスフィア -Exaggerate MIX- (feat. Re:A)>ストラトスフィア]]　　　by [[T.Komine>うたたP]] & [[orange>orange/作り手]], arranged by [[Clean Tears]], song by Re:A
++[[ロケット宅宙便 クール便Ver.>ロケット宅宙便]]　　　arranged by [[HMOとかの中の人]]
++[[ストラトスフィア -Fine weather mix->ストラトスフィア]]　　　by [[T.Komine>うたたP]] & [[orange>orange/作り手]]
++[[Song of Pixie]]　　　by [[Wintermute>wintermute]]
++[[電空少女 Azuki-ICE Ver. (feat. Φ串Φ)>電空少女]]　　　by [[HMOとかの中の人]], song by Φ串Φ
++[[Dragoon]]　　　by [[Clean Tears]] & [[T-ism]]
++[[Soar -uta-balla Remix>Soar]]　　　by [[minato>流星P(minato)]], arranged by[[T.Komine>うたたP]]
++[[キミノモトヘ]]　　　by [[SAM>samfree]]
+
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/6507571" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/6507571">【ニコニコ動画】飛ぶリスト</a></iframe>)
+
+**リンク
+-[[公式ページ>>http://higherskies.blog25.fc2.com/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/15/89/040010158901.html]]
+-[[メロンブックス>>http://shop.melonbooks.co.jp/tsuhan/system/list.php?RATED=15&GENRE=&FREEWORD=up+in+the+higher+skies]]
+
+
+**コメント
+- 07.ストラトスフィア-Exaggerate MIX- (feat.Re.A)  -- 7曲目が抜けてます  (2008-09-07 20:23:46)
+#comment

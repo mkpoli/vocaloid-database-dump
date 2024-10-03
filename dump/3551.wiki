@@ -1,0 +1,82 @@
+#right(){&furigana(Distance)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|>|CENTER:&bold(){ミクver.}|
+|&nicovideo(nm5687786)|&youtube(https://www.youtube.com/watch?v=LMz6oF3Mr-4){342,187}|
+|>|CENTER:&bold(){ルカver.}|
+|&nicovideo(nm6016963)|&youtube(https://www.youtube.com/watch?v=b7RKuvodUq8){342,187}|
+|>|CENTER:&bold(){『[[TWO WORLDS]]』収録ver.}|
+|&nicovideo(sm22886276)|&youtube(https://www.youtube.com/watch?v=Pplw3IC0blg){342,187}|
+作詞：[[パイパンP]]
+英詞：[[マル]]
+作曲：[[パイパンP]]
+編曲：[[パイパンP]]
+唄：[[初音ミク]]（日本語）、[[巡音ルカ]]（英語）
+
+**曲紹介
+曲名：『&u(){Distance}』
+-綺麗な雪に包まれているような白くふんわりとしたメロディ。
+-「攻殻機動隊」へのオマージュです。9つの愛しいゴーストたちへ（作者コメント欄より）
+-間奏の歌詞はそれぞれが感じた詩を入れて下さい。
+
+**歌詞
+（[[ピアプロ>>https://piapro.jp/content/oi2ieip4892z4jma]]より転載）
+
+白いそら　So far, You are ah,ah
+静かなそら　Too far, yeah We are
+
+
+ひかり　照らされて
+言葉も　白くなる
+誰も気付かずに　静かな空気の粒
+誰が降らせたの？　ふたり　So far
+
+－・　・－　・－・　・・　－　・－
+
+風が知らせる　冬の匂い
+ふたりの間に　白い羽根がひらひら
+凍る世界と　とける心が
+繋ぐ　ぼくらの距離を
+
+
+***英詞
+（[[ピアプロ>>https://piapro.jp/content/f8q0venu3pqlqcup]]より転載）
+
+Soar in the air　　　　　　　
+So far, You are ah,ah　　
+Fly high in the air　　　　
+Too far, yeah We are…　
+
+Shining snow, 　
+　　it covered the world　　
+So, I dont know, 　
+　　where there are words,yeah　　
+
+Blinking light,　through the night　 
+Its so bright,　like a tiny angel　
+Beating heart, through the sight　
+Just We are, so far…　
+
+
+－・　・－　・－・　・・　－　・－
+
+
+I feel the sound in silence,　 
+you see the sign of snow　
+I feel the shiny shadow,　　
+all of lie, fall in and melt in same time 　
+
+Ｉ hear some silky voices, 　　
+you know the Ghost come and wis*　
+Calling me, 　
+now, to take us far away…
+
+
+**コメント
+- 間奏の記号はモール信号で英文に変換すると・・・  -- 名無しさん  (2008-12-29 00:01:34)
+- うはｗｗまさかの答えｗｗｗｗ何故ｗｗ  -- 名無しさん  (2009-01-04 15:03:22)
+- 感想の記号の謎が今日解けました…ガチ曲においてもネタを盛り込むのを忘れない精神が素晴らしいよＰＰＰｗｗｗ  -- 名無しさん  (2009-05-11 21:43:16)
+- そういえばこれだけアレがないな、と思ったらそんなところにｗ  -- 名無しさん  (2009-05-31 12:56:03)
+#comment()

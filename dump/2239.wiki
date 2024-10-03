@@ -1,0 +1,33 @@
+#right(){&furigana(らんらんP) &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/5867184" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/5867184">【ニコニコ動画】Dtk</a></iframe>)
+
+**特徴
+-エレクトロニカ、エフェクトをかけたミクの歌声とポップな歌を作るP。
+-アーティスト名は&b(){DtK}。
+
+**リンク
+-[[ピアプロ>>http://piapro.jp/dtkdtk]]
+
+**曲
+#list_by_tag(らんらんP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(らんらんPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm2815166){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm2902618){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3024047){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm3336409){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3512685){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm3708023){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3923643){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm4113945){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4513879){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm5143579){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5586930){340,185}||&nicovideo(sm8358598)|
+|&nicovideo(sm12324758)|&nicovideo(sm12427830)|
+|&nicovideo(sm15795959)|&nicovideo(sm15868213)|
+|&nicovideo(sm15921536)|&nicovideo(sm15985859)|
+|&nicovideo(sm16082757)|&nicovideo(sm17750302)|
+|&nicovideo(sm17816754)|>|
+
+**コメント
+- 11月9日　動画一覧色々修正+Heaven頁作成。Pの曲もっと伸びろと思って行動してみた  -- 名無しさん  (2008-11-09 04:29:46)
+- らんらんPのマイリストに、「dtkはもういません。マイリストも更新することができません」って書いてあるんだけど…理解できない。新曲ずっとまってるんだぜ…。  -- 名無しさん  (2009-05-09 22:34:18)
+#comment()

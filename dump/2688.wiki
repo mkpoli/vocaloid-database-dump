@@ -1,0 +1,21 @@
+#right(){&furigana(てんしんどんぐり) &furigana()【登録タグ:&tags() 】}
+
+**特徴
+-[[ミミコP]]の友人で、「[[いろべよう]]」の作詞を担当している。
+-言葉遊びと文語的な表現を得意とする。
+-「[[いろべよう]]」という言葉は、英語が苦手だったミミコPが昔『I Love You』をわざと読み違えて照れ隠しをしたエピソードにちなんだものらしい。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/ten_sin]]
+
+**曲
+#list_by_tag(天津団栗,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(天津団栗CD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm4933906)|
+
+**コメント
+#comment()

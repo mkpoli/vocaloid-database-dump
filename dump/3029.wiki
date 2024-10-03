@@ -1,0 +1,29 @@
+#right(){&furigana(あはれほりゆうしょんP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/20169757" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/20169757">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-ロック調の楽曲（スピード感のある楽曲が比較的多い）を発表しているP。
+-代表曲に[[日刊VOCALOIDランキング>>http://www.nicovideo.jp/watch/sm5321950]]（08年11月22日）にランクインを果たした『[[君を奪いたくて]]』など。
+-アーティスト名は、&bold(){SOUNDROP}。
+
+**リンク
+-[[TOYS IN THE ATTIC（作者ブログ）>>http://piapro.jp/soundrop]]
+-[[PIAPRO（SOUNDROP）>>http://piapro.jp/soundrop]]
+-[[作者ブログ>>http://ameblo.jp/soundrop2010/]]
+-[[UTAU楽曲データベース>>https://w.atwiki.jp/utauuuta/pages/752.html]]
+
+**曲
+#list_by_tag(暴れぼりゅーしょんP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(暴れぼりゅーしょんPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm11467931)|&nicovideo(http://www.nicovideo.jp/watch/sm12023539)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12028264)|&nicovideo(http://www.nicovideo.jp/watch/sm12214803)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12269670)|&nicovideo(http://www.nicovideo.jp/watch/sm12410190)|
+
+**コメント
+- 今後に期待です＾＾  -- 波瑠  (2008-11-23 21:26:42)
+- 大好きです。  -- JM  (2009-12-02 10:54:09)
+#comment()

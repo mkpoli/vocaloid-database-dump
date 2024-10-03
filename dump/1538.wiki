@@ -1,0 +1,47 @@
+#right(){&furigana(はななP) &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/5614121" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/5614121">うｐしたもの</a></iframe>)
+
+**特徴
+-ショタに定評がある。まさにショタコンホイホイ。
+-バナナPのレンは総じて破壊力がすごい。
+-バナナPのKAITOは総じて末期。
+-何かに目覚める動画である。
+-レンにしゃべらせてみたシリーズ、「&bold(){鏡音レンきゅんと××}」には&bold(){二大迷走P(β)}タグがつく。
+-上記のシリーズを踏襲した、[[とおくできこえるデンシオン（とおでん）＝二大迷走P(α)>とおくできこえるデンシオン]] による「鏡音レンきゅんが××」シリーズと合わせて聞くと二倍楽しめる。
+-「ヘタレないでよ！」は名誉のランキング除外14連覇を達成！！
+-アーティスト名は&bold(){中村ちょめ}、あるいは&bold(){chome}。
+
+**リンク
+-[[作者ブログ>>http://ochinchin.blog.shinobi.jp/]]
+-[[PIAPRO>>http://piapro.jp/douxrose]]（中村ちょめ）
+
+**曲
+#list_by_tag(バナナP,100,sort=furigana)
+
+**CD
+#list_by_tag(バナナPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm2885288){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm2908495){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3011142){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm3400657){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3953018){340,185}||
+
+-&bold(){二大迷走P(β)}　「鏡音レンきゅんと××」シリーズ
+|&nicovideo(http://www.nicovideo.jp/watch/sm2932414){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm2996172){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3417571){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm3509997){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3815862){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm4318520){340,185}|
+
+**コメント
+- バナナPのページが見当たらなかったので作ってみたが…二大迷走Pを一緒にしてしまってよかったのだろうか…  -- 名無しさん  (2008-07-05 12:20:09)
+- 編集してて初めて気がついたんですけどブログのアドレスすごいですよね笑  -- 名無しさん  (2008-07-06 00:34:13)
+- お●んち●ｗｗｗｗｗ  -- 名無しさん  (2008-07-07 00:16:21)
+- ブログ見て知ったけどこの人クラシックやってるのか！  -- 名無しさん  (2008-07-22 02:09:34)
+- クラシックと聞いた後でマイリスを見てギャップに笑ってしまったｗ  -- 名無しさん  (2008-07-22 09:32:58)
+- クラシックの要素がどこにあるんだよｗｗｗｗｗｗｗｗ  -- 名無しさん  (2008-07-24 02:43:18)
+- ニコニコ大百科の解説がすごいので、文章をお借りしてこっちも充実させたいけど…。そういうのってOKでしょうかね。それにしても百科を書いた方はすごいなぁ…。  -- 名無しさん  (2008-08-01 03:39:56)
+- もうダメだ……バナナPのせいだぁ!!  -- 名無しさん  (2009-03-09 20:29:11)
+- バナナPもう新曲うpしないのかな…  -- 名無しさん  (2009-05-18 19:50:56)
+- 7月7日ぐらいに動画ごっそり消されてるね・・・  -- 名無しさん  (2009-07-11 16:34:37)
+- ↑↑PIAPROに新曲がうpされてるから漸く帰還したんだと思う  -- 名無しさん  (2009-07-28 17:46:44)
+- PIAPRO新曲fullキターーーーー!!!  -- 名無しさん  (2009-08-23 20:19:19)
+#comment()

@@ -1,0 +1,71 @@
+#right(){&furigana(すいーとあんのうた) &furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm3658165)
+作詞：[[だいすけP]]
+作曲：[[だいすけP]]
+編曲：[[だいすけP]]
+唄：SweetAnn
+
+**曲紹介
+-だいすけPの初SweetAnn曲。原曲は「[[初音ミクのうた]]」。
+-日本語が苦手、と言う割にはかなり上手に歌っている。
+
+**歌詞
+（[[PIAPRO>>http://piapro.jp/content/1qv3r6olha7bobts]]より転載）
+
+Hello every one
+Nice to meet you
+My name is Sweet Ann 
+I'm from Sweeden
+
+I sing the songs which you made
+I sing it for you beautifully
+My input is difficult 
+However please hold out by your abillty
+
+Sweet Ann ×４
+Virtual singer Sweet Ann
+Sweet Ann ×４ 
+Please give me any songs
+Sweet Ann ×４
+I don't understand japanese
+Sweet Ann ×４
+Please get along well with me  
+
+私の名前は　スイート・アンです
+年齢はヒミツ
+体重もヒミツ
+あなたが作った歌を
+私が歌ってあげるわ
+  
+入力難しいの 
+でもあなたの力で何とかして  
+
+Sweet Ann ×４
+Virtual singer Sweet Ann
+Sweet Ann ×４
+私に歌わせて
+Sweet Ann ×４
+日本語が苦手アンアン
+Sweet Ann ×４ 
+みんなよろしくね  
+
+（間奏）
+&i(){ギターとバイオリンの} 
+&i(){バトルバトルバトル} 
+&i(){ランランラーラー　×４}  
+
+&i(){ラーラン}  
+
+&i(){「にゃんにゃん！」}  
+
+Sweet Ann ×４ 
+Virtual singer Sweet Ann
+Sweet Ann ×４
+Please give me any songs 
+Sweet Ann ×４
+I don't understand japanese
+Sweet Ann ×４
+みんなよろしくね
+
+**コメント
+#comment()

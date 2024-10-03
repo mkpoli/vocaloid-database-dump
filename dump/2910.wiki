@@ -1,0 +1,35 @@
+#right(){&furigana(あめふりのちははれきぶん) &furigana()【登録タグ:&tags() 】}
+
+&ref(http://blog-imgs-24.fc2.com/a/n/z/anzutokumeikibou/maxi_miku4jacketsFRONT.jpg,width=250,height=500)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Burst!>Burst!/CD]]|CENTER:&bold(){雨フリノチハ晴レキブン}|CENTER:[[誰よりもHappyDay>誰よりもHappyDay/CD]]|
+
+|&bold(){[[杏あめ>杏あめ（匿名希望の東京都在住）]]}|
+
+発売：2008年11月15日
+価格：￥1,050
+流通：同人
+サークル：匿名希望の東京都在住
+
+**CD紹介
+-匿名希望の東京都在住の&bold(){4thシングル}。
+-7曲目のセルフカバーは、杏あめと匿名希望のゲストボーカル2名を加えた&b(){匿名少女達}による過去最多のトリプルボーカル。
+-ジャケットイラスト：片腹痛士
+
+**曲目
++[[雨フリノチハ晴レ気分]] -Full Ver.-
++[[メルヘンメランコリック]] -Full Ver.-
++雨フリノチハ晴レ気分 -NicoNicoVer.-
++メルヘンメランコリック -NicoNicoVer.-
++雨フリノチハ晴レ気分 -KARAOKE Ver.-
++メルヘンメランコリック -KARAOKE Ver.-
++雨フリノチハ晴レ気分 -Another Vocal Ver.-
+
+**リンク
+-[[作者ブログ>>http://anzutokumeikibou.blog96.fc2.com/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/16/61/040010166129.html]]
+
+
+**コメント
+#comment

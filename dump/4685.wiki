@@ -1,0 +1,32 @@
+#right(){&furigana(ちーむあふりとろとん) 【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/10955132" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/10955132">【ニコニコ動画】トロける☆美味食堂</a></iframe>)
+
+**特徴
+作り手名：『&u(){ちーむ炙りトロ丼}』（&u(){ちーむあぶりとろどん}）
+-複数のメンバーから構成されており、それぞれ作詞作曲・編曲・調声・動画制作などを分担で行っている。
+-メンバーのΦ串Φ氏は歌い手としても有名である。
+-代表作に「[[イダルゴ]]」。
+
+**リンク
+-[[作者ブログ>>http://aburitorodon.blog89.fc2.com/]]
+//-[[作者ブログ(旧)>>http://kushiyahonpo.blog103.fc2.com/]]
+
+**曲
+#list_by_tag(ちーむ炙りトロ丼,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(ちーむ炙りトロ丼CD,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**動画
+|&nicovideo(sm3670527)|&nicovideo(sm6096404)|
+|&nicovideo(sm7621212)|>|
+
+**コメント
+- やっとできたね。Φ串Φさんの歌も良いです。  -- 名無しさん  (2009-03-30 12:08:07)
+- 呼吸が一番好き☆  -- あ  (2011-09-08 00:51:49)
+- 曲好きすぎる。  -- せんさー  (2012-01-18 13:20:56)
+#comment()

@@ -1,0 +1,46 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/4591637" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/4591637">【ニコニコ動画】自作曲とか</a></iframe>)
+
+**特徴
+-クールな曲調、特に低音のミク声に定評がある。
+-コンピレーションサークル「捻れたアヒル」に参加している。
+-丸の内OLに叱られたい願望を抱いている。※年下でも可
+-大橋のぞみに似ている。
+-普段「ｗ」を多く使用し、雑草Pと名前が付いた事があるが実際は笑っていないので注意。
+-最近実家に帰りたいらしい。
+
+**リンク
+-[[rekalculation（作者のブログ）>>http://d.hatena.ne.jp/kalculation/]]
+-[[miskalculation（作者の旧ブログ）>>http://kalcu.blog52.fc2.com/]]
+-[[muzie>>http://www.muzie.co.jp/cgi-bin/artist.cgi?id=a057005]]
+-[[zoome>>http://zoome.jp/kal/]]
+-[[PIAPRO>>http://piapro.jp/ksan]]
+
+**曲
+#list_by_tag(kal,100,sort=furigana)
+
+**CD
+#list_by_tag(kalCD,100,sort=furigana)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm2087530)|&nicovideo(http://www.nicovideo.jp/watch/sm2233425)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2155850)|&nicovideo(http://www.nicovideo.jp/watch/sm2474859)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2721661)|&nicovideo(http://www.nicovideo.jp/watch/sm2992938)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3033822)|&nicovideo(http://www.nicovideo.jp/watch/sm3348305)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4080521)|&nicovideo(http://www.nicovideo.jp/watch/sm4451787)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4818153)|&nicovideo(http://www.nicovideo.jp/watch/sm4947945)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5263243)|&nicovideo(http://www.nicovideo.jp/watch/sm6309520)|
+
+**コメント
+- ああやっとkalさんの項目がでけたか。作った人でかした。いりじゃこPもほしいな。  -- 名無しさん  (2008-08-29 21:03:51)
+- 本日新曲うｐされてますよ！！→「スワン」  -- 名無しさん  (2008-08-29 23:29:45)
+- kalPさんのミク、一度は聴いてほしいステキな声ですよね♪  -- 名無しさん  (2008-08-31 11:50:05)
+- もっとたくさんの人にkalさんの曲を知ってもらいたいなぁ、自分は3部作辺りからハマった。  -- 名無しさん  (2009-03-13 23:58:17)
+- 特徴更新しておきました。  -- AKIJIN  (2009-10-11 03:00:20)
+- 数稼げば何してもいいと思ってるの？　傲慢なの？　  -- kal  (2009-10-11 21:51:36)
+- 新曲素敵！  -- ovo  (2009-10-16 03:47:52)
+- アヒル軍曹PｗｗkalPは仕返ししてもいいと思います  -- 名無しさん  (2009-12-14 00:59:27)
+- ランドルトの環と俯いた花かっこよすぎる  -- 名無しさん  (2010-06-20 21:26:46)
+- なんだこの特徴ｗｗｗ  -- 名無しさん  (2011-10-06 19:32:26)
+- もう曲は作らないのかな  -- 名無しさん  (2014-01-24 12:03:24)
+#comment()

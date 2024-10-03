@@ -1,0 +1,37 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+//#image(http://shakesphere.jp/blog/wp-content/uploads/2009/02/birthday_350_350.jpg,http://www.shakesphere.jp/,title=Birthday,blank)
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[鮭Tunes]]|CENTER:&bold(){Birthday}|CENTER:[[OVER>OVER/CD]]|
+
+|&bold(){[[鮭P]]}|
+
+||CENTER:即売|CENTER:同人|
+|CENTER:発売|CENTER:2009年2月22日|CENTER:2008年2月22日|
+|CENTER:価格|CENTER:不明|CENTER:不明|
+|CENTER:サークル|>|CENTER:Shake Sphere|
+
+**CD紹介
+-Shake Sphere氏初のボーカロイドCD。
+-THE VOC@LOiD M@STER 7（ボーマス7）にて初頒布。
+-前作の配信限定アルバム『[[鮭Tunes]]』を下敷きに、新たに未収録だった3作を加え、「[[ポラリス]]」までの全ての発表曲を網羅した全12曲。
+
+**曲目
++[[After the Wind]]
++[[Overflow>Over Flow]]
++[[Last Smile>Last Smile/鮭P]]
++[[サジタリアス]]
++[[End of Rain]]
++[[ポテト>ポテト/鮭P]]
++[[クライベイビー>クライベイビー/鮭P]]　※鮭Tunes未収録
++[[黄昏ポートレイト]]
++[[D.O.P.E>D.O.P.E.]]　※鮭Tunes未収録
++[[パステルライナー>パステルライナー☆]]　※鮭Tunes未収録
++[[ポラリス]]
++[[バースデイ]]
+
+**リンク
+-[[作者ホームページ>>http://www.shakesphere.jp/]]
+-[[作者ブログ>>http://shakesphere.jp/blog/]]
+
+**コメント
+#comment

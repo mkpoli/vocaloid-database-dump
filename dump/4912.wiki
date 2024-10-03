@@ -1,0 +1,67 @@
+#right(){&furigana(Last Summer)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(nm4720729)|
+作詞：[[MineK]]
+作曲：[[MineK]]
+編曲：[[MineK]]
+唄：[[初音ミク]]
+
+**曲紹介
+曲名：『&u(){Last Summer}』
+-MineK氏のミク２作目、連呼系のテクノポップ。
+
+**歌詞
+
+※きっと今は言えるよ　何も要らないよ　そう
+　君と過ごした夏は　ずっと消えないよ
+　過ぎ去ったあの夏を　決して忘れないでしょ
+　2度と帰らない日々を想う Last Summer
+
+いつもの交差点　信号待つあなたを
+見つけて手を振る　恥ずかしいから
+帽子深く　かぶってうつむく
+そんな景色も今では懐かしい
+
+でも一人何もできずに　そっと空を見る
+
+※繰り返し
+
+海までドライブ　ハンドル握るあなたと
+一緒に聴いた　お気に入りのNumber
+でも一人今は寂しい　ずっと雨の中
+
+※繰り返し
+
+Last Summer Last Summer Last Summer
+運命を
+Last Summer Last Summer Last Summer
+信じてた
+Last Summer Last Summer Last Summer
+運命を
+Last Summer Last Summer Last Summer...
+
+あなたのバースディ　プレゼント選んだ
+嬉しそうにしてる　笑顔愛しくて
+そんなイベントも今では懐かしい
+でも今は一人静かに　オブジェを見てる
+
+※繰り返し
+
+Last Summer Last Summer Last Summer
+運命を
+Last Summer Last Summer Last Summer
+信じてた
+Last Summer Last Summer Last Summer
+運命を
+Last Summer Last Summer Last Summer...
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+**コメント
+#comment()

@@ -1,0 +1,32 @@
+#right(){&furigana(あさぎいろあくあれいる) &furigana()【登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/pics/boxart_m/186116286m.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:&link(Silent Blank -> "ALTERNATE"){Silent Blank -> "ALTERNATE"}|CENTER:&bold(){浅葱色アクアレイル}|CENTER:-|
+
+|&bold(){[[むーと]]}|
+
+発売：2008年06月29日
+価格：￥500（税込）
+流通：即売
+サークル：timenaut
+
+**CD紹介
+-THE VOC@LOiD M@STER4にて初頒布。
+-ニコニコ動画やピアプロなどに公開されていた曲を収録した企画盤、今回は全曲ボーカル入り。
+
+**曲目
++[[アカネ]]
++夜風
++Wintermute
++桜雪
++星鳴り
++[[アヤメ>アヤメ/むーと]]
+
+**リンク
+-[[作者サイト内特設ページ>>http://timenaut.jpn.org/asagi.html]]
+-[[ピアプロ>>http://piapro.jp/mute]]
+
+**コメント
+#comment

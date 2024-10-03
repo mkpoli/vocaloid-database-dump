@@ -1,0 +1,58 @@
+#right(){&furigana(なけきのいすみ)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm5378640)|
+作詞：[[ひなた]]
+作曲：[[ひなた]]
+編曲：[[ひなた]]
+唄：[[KAITO]]
+
+**曲紹介
+//>&bold(){適切な文があれば、ここに投稿者コメントの最初の文を記入}
+曲名：『&u(){嘆きの泉}』(&u(){なげきのいずみ})
+
+**歌詞
+（[[作者ホームページ>>http://sun.ciao.jp/kaito/song/82]]より転載）
+
+　--精霊の加護を受ける
+URE KUOWOGA KONI ERIES
+
+　--枯れない泉
+IMUZIIANE RAK
+
+　--雨なき空に嘆く民は渇き
+I KAWAKAHIM ATUKEGANIN ARO SIKANE MA
+
+　--犠牲を代償に水を願う
+UA GENOWU ZIMIN UOYSIADO WIESI G
+
+　--……彼らは知らない
+I AN ARISA HARE RAK
+
+　--この泉の水が
+A GU ZIMONIMU ZI ONOK
+
+　--忘れ去られた者の涙であることを
+O WOTOKURA EDADIMA NONONOMA TERARA SERUSAW
+
+　--水の代償に犠牲を求める理由を
+O WUUYIRU REMOTOMO WIESI GINUO YSIA DONU ZIM
+
+　--精霊は精霊たる我が身を嘆き
+IKEGANOWI MAGAWURATIER IESAHIERIES
+
+　--人を羨む
+UMAYARU OWOTIH
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+**コメント
+#comment()
+
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)

@@ -1,0 +1,24 @@
+#right(){&furigana(めさまP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(3808299)
+
+**特徴
+作り手名：『&u(){めざまP}』
+-KAITOが「青いの誰？」と言われていた頃からのKAITO使い。
+-殿堂入りを果たした「[[アイスがメルト]]」のKAITOカバーで知られる（元は「歌ってみた」である）。
+-他にも既存の「歌ってみた」をKAITOで再現することが多い。
+-アーティスト名は&b(){ひろな}。
+
+**曲
+#list_by_tag(めざまP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm1928124){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm1965293){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2014550){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm2139966){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2422674){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm3874900){340,185}|
+
+**コメント
+#comment()

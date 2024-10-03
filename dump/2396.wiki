@@ -1,0 +1,44 @@
+#right(){&furigana(TACHE)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/3791523" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/3791523">【ニコニコ動画】作品リスト</a></iframe>)
+
+**特徴
+作り手名：『&u(){TACHE}』
+-ピアノを使った心に響くバラードに定評がある。
+-これまでに使用しているボカロは ミク・ルカ・GUMI。
+-「TACHE」というアーティスト名の読みは「たちぇ」
+-代表作に「[[切望]]」「[[生きてゆくために]]」など。
+-「[[みくみくにしてあげる♪]]」「[[歌に形はないけれど]]」のピアノアレンジもある。
+-ほとんどの楽曲のサムネや動画は [[御厨わた]]氏 が手掛けているが、「[[呪縛の律動]]」では るっか氏 が手掛けた。
+
+**リンク
+//-[[TACHE Official web site（作者ホームページ）>>http://tache.selfip.net/]]
+-[[PIAPRO>>https://piapro.jp/TACHE]]
+
+**曲
+#list_by_tag(TACHE,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(TACHECD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+***オリジナル曲
+|&nicovideo(sm6167082)|&nicovideo(sm6309232)|
+|&nicovideo(sm7492230)|&nicovideo(sm7493917)|
+|&nicovideo(sm2048241)|&nicovideo(sm2542753)|
+|&nicovideo(sm3251275)|&nicovideo(sm4072546)|
+|&nicovideo(sm7686589)|&nicovideo(sm8024691)|
+|&nicovideo(sm4661237)|&nicovideo(sm5336210)|
+|&nicovideo(sm8754973)|&nicovideo(sm9650761)|
+***アレンジ曲
+|&nicovideo(sm1677879)|&nicovideo(sm2300517)|
+
+**コメント
+- ついに1万再生オメ　個人的にミクバラードの神なんだが埋もれすぎですよｗ  -- 名無しさん  (2009-02-18 13:55:15)
+- TACHEさんの曲は全部好きだ。もっと評価されてよ  -- 名無しさん  (2010-02-22 23:54:51)
+- 何故埋もれているのかが理解出来ない……  -- 名無しさん  (2010-02-23 01:02:18)
+- 最近投稿ないしHPとかも消えてるみたいで残念。まぁ気が向いたらでいいんでまた戻ってきて欲しいかな  -- 名無しさん  (2014-06-09 01:24:45)
+#comment()

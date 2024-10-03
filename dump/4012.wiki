@@ -1,0 +1,49 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&ref(https://www.suruga-ya.jp/database/pics/game/186105641.jpg,x=300,y=300)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Seven Color Light}&br()[[男魂]]|CENTER:[[ぷるるんぱにっく]]&br()[[IMITATION BLACK×breathe deeply]]|
+
+|&bold(){[[natsuP]]}|[[たまぁ～ずP]]|
+
+||CENTER:即売|CENTER:同人|
+|発売|CENTER:2009年2月22日|CENTER:2009年3月5日|
+|価格|CENTER:￥1,000|CENTER:￥1,449（税込）|
+|サークル|>|CENTER:SEVEN COLOR LIGHT|
+
+**CD紹介
+-natsuP初のボーカロイドCDであり、デビュー作や新曲3作を含む全12曲のオリジナル作品を収録した渾身の一作。ボーマス7にて初頒布される。
+-同時頒布の『[[男魂]]』が「ナイス（がくぽ・KAITO）」ヴォーカルCDであるのに対して、こちらはミクのソロ曲やメインヴォーカル曲が中心となっている。
+-サークル名と同名のタイトルからもその意気込みの高さが伺える。
+-Bonus Trackでは、[[たまぁ～ずP]]による『[[ZUTTO>ZUTTO -for a long time-]]』のインストピアノアレンジバージョンや『[[ありがとうを伝えたい]]』の[[ちぃ]]さん歌唱バージョンも収録。
+
+**曲目
++SEVEN COLOR LIGHT &color(red){NEW!!}
++[[ブリリアンス]]
++[[Fate -運命の扉-]] &color(red){NEW!!}
++[[ラストプロトコル]]
++[[コントロールパラメータ]]
++[[ありがとうを伝えたい]]
++ラフレシア &color(red){NEW!!}
++[[This Heart]]
++[[夏音夜]]
++[[＊シロイサヨナラ＊]]
++[[Crying Air]]
++[[ZUTTO -for a long time-]]
++（Bonus Tracks）ありがとうを伝えたい（song by [[ちぃ]]）
++（Bonus Tracks）ZUTTO（Piano inst Ver by [[たまぁ～ず>たまぁ～ずP]]）
+
+**リンク
+-[[特設サイト>>http://natsuvocaloid.rejec.net/index.html]]
+-[[収録曲解説>>http://musicnatsuvocaloid.blog25.fc2.com/blog-entry-90.html]]
+
+**コメント
+- Fate-運命の扉-って・・・・ミクverですか？？  -- 名無しさん  (2010-02-19 17:50:27)
+- ↑YES。このCDはVanaN'Iceが出来る以前のものだから  -- 名無しさん  (2010-02-19 19:01:12)
+- Fate-運命の扉-のがくぽ＆ＫＡＩＴＯ＆レンverってないんですか？？  -- 名無しさん  (2010-03-15 14:23:47)
+- ↑（追加です）バナナイスverのＣＤってありますか？  -- 名無しさん  (2010-03-15 14:29:20)
+- 自分で探してみな  -- 名無しさん  (2010-03-15 22:35:29)
+- ↑の「natsuP」のリンクで「VanaN'Ice」ってCDのページに行けると思うので、そこで  -- 名無しさん  (2010-03-15 22:51:55)
+- ↑見つけるコトができました＞＜　ありがとうございます♪  -- 名無しさん  (2010-03-28 22:30:38)
+- SEVEN COLOR LIGHTはインストだよね？  -- 名無しさん  (2014-09-06 14:14:34)
+#comment

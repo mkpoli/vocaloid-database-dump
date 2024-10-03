@@ -1,0 +1,41 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/005_20091225190659_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Voice Electronique}|CENTER:[[I Love Music]]|
+
+|&bold(){[[Chiquewa]]}|
+
+発売：2008年12月28日
+価格：アルバム￥900（税込）；単曲￥150（税込）
+流通：配信
+レーベル：KarenT
+販売元：クリプトン・フューチャー・メディア
+
+|&bold(){[[iTunes Store で購入する>>http://itunes.apple.com/jp/album/voice-electronique/id300854971]]}|
+
+**CD紹介
+-ピアプロのみで活動しているボカロP[[Chiquewa>>http://piapro.jp/chiquewa]]さんのVOCALOIDオリジナルアルバム。
+-クリプトン社KarenTレーベル配信第2弾として、iTunes Storeをはじめとする各音楽配信サイトでダウンロード販売中。
+-ポップスサウンドを軸に、R&B・テクノ・バラードといったバラエティに富んだテイストの楽曲が、全て独特に光るハイセンスなアレンジに仕上げられている。
+-スタイルの似通った#1と#2、#3と#4、そして春夏秋冬をイメージして綴られた#5-#8の3部構成となる。
+
+**曲目
++[[Come To Me]]
++[[恋しくて]]
++[[コロンブス]]
++Ultra Hero
++[[みれん坂]]
++雨恋慕
++金木犀
++[[結晶]]
+
+**リンク
+-[[作者ブログ>>http://chiquewa.blog.eonet.jp/]]
+-[[KarenT>>http://karent.jp/album/5]]
+-[[PIAPRO>>http://piapro.jp/chiquewa]]
+
+**コメント
+- ブログのリンク、対応速いじゃないですかｗｗ  -- 名無しさん  (2008-12-30 11:16:53)
+- おお、chiquewa氏が登録されてる！　登録した人、おつです。  -- 名無しさん  (2009-01-04 03:53:06)
+#comment

@@ -1,0 +1,46 @@
+#right(){&furigana(はるP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/5125662" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/5125662">【ニコニコ動画】バルPとVOCALOID</a></iframe>)
+
+**特徴
+作り手名：『&u(){バルP}』
+-耳に馴染む聞きやすいメロディーは、一度聞いたら頭からはなれない。
+-VOCALOIDは初音ミクと鏡音リン・レンを所持しており、どれも調教レベルが高い。
+-楽しそうに歌うボカロたちと一緒に、思わず口ずさみたくなるような曲を作る。
+-ミク、リン、レンが、それぞれ雨の交差点をテーマに歌う三部作「Cross Road」は、共通のストーリーが展開される中で、曲調の違いを楽しめる面白い試みである。
+-「[[グレア>グレア/バルP]]」で初の殿堂入りを果たす。
+
+**リンク
+//-[[作者ブログ>>http://avalgomilon.blog29.fc2.com/]]
+//-[[にゃっぽん！>>http://v-nyappon.net/?m=pc&a=page_f_home&target_c_member_id=4277]]
+//-[[Zip配布>>http://cid-a0d6162e33f0a070.skydrive.live.com/browse.aspx/nico_music]]
+//-[[Twitter>>https://twitter.com/valgomila]]
+-[[KarenT（バルP）>>https://karent.jp/artist/pp000118]]
+-[[PIAPRO>>https://piapro.jp/valgomila]]
+
+**曲
+#list_by_tag(バルP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(バルPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm2368795)|&nicovideo(sm3889892)|
+|&nicovideo(sm4917069)|&nicovideo(sm5254226)|
+|&nicovideo(sm7079846)|&nicovideo(sm7691987)|
+|&nicovideo(sm10996740)|&nicovideo(sm11290633)|
+|&nicovideo(sm13139339)|&nicovideo(sm14639317)|
+|&nicovideo(sm14735942)|>|
+
+-&bold(){雨の交差点三部作「Cross Road」}
+|&nicovideo(sm3151304)|&nicovideo(sm3151473)|
+|&nicovideo(sm3151401)|>|
+
+**コメント
+- バルPのページが無かったので作ってみましたが…曲のジャンルなどに詳しくないのでどうやって説明を書けばよいのやら…。きらめきドリーマーズの方誰か補足編集お願いします。ビシッと書けなくてすいません。支援支援。  -- 名無しさん  (2008-07-25 01:27:41)
+- バルPの新曲グレア超かっけええ！なんか今までにないビジュアル系なかんじがしてほんとに良い！グレアのページを誰か作ってください、、。すいません。バルP大好きですっ!  -- 名無しさん  (2009-07-22 23:10:02)
+- グレアすげー鳥肌立った！！！  -- 名無しさん  (2011-11-26 11:58:21)
+#comment()

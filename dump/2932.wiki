@@ -1,0 +1,38 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+#image(http://ichi.no-ip.net/user_present1.gif,title=1+9=?…)
+
+|CENTER:本作|CENTER:次作|
+|CENTER:&bold(){1+9=?…}|CENTER:[[ヒトコト]]|
+
+|&bold(){[[ichiP]]}|[[オワタP]]|[[U-ske]]|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2008年9月23日||
+|価格|CENTER:￥1,000|CENTER:￥1,250（税込）|
+|サークル|>|CENTER:SOUNDstudio -ONE-|
+
+**CD紹介
+-ichiP初のVOCALOIDアルバム。ボーマス5にて初頒布。
+-ichiの音楽と九月のイラスト。この2つが織り成すモノは10？それとも･･･
+
+**曲目
++[[おはようラブレター]]
++[[昨日→明日]]
++ウソカノ
++[[落葉とワルツを]]
++[[コワネ-kowane-]]
++[[heart beat]]
++[[S or A]]
++[[誰が為に]]
++九月の雨
++[[桜の花びら咲く頃にもう一度ここで会いましょう／U-ske MIX>桜の花びら咲くころにもう一度ここで逢いましょう]] <arranged by U-ske>
++heart beat -Another mixed- <arranged by ガルナ>
+
+**リンク
+-[[作者ホームページ>>http://soundstudioone.web.fc2.com/]]
+-[[メッセサンオー>>http://www.doujinshop.com/doujin/user_top.cgi?type=music&strings=02124]]
+
+**コメント
+- やすいな  -- 名無しさん  (2012-02-29 16:28:44)
+- ichiさん好きです！  -- 桃凪  (2013-10-13 22:38:32)
+#comment

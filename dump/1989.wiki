@@ -1,0 +1,23 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/6537131" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/6537131">【ニコニコ動画】公開曲</a></iframe>)
+
+**特徴
+-鏡音レン使い。
+-ダークな曲調のものが多いが、「ひみつのとびら」といった明るい曲もある。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/ryohs_k]]
+
+**曲
+#list_by_tag(ryohs_k,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(ryohs_kCD,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm2077611){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm2248936){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2710648){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm3175935){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3728427){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm5620578){340,185}|
+
+**コメント
+#comment()

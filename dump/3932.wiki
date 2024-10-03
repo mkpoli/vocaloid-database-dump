@@ -1,0 +1,70 @@
+#right(){&furigana()&furigana()【登録タグ:&tags()】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/7975763" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/7975763">【ニコニコ動画】vocaloidで作ってみたリスト</a></iframe>)
+
+**特徴
+作り手名：『&u(){U-ji}』(&u(){ユージ})
+-またの名を、&bold(){霊長類P}。
+--可愛らしいピコピコチップチューンや深みのあるハウスサウンドに定評のあるプロデューサー。
+-使用ボーカロイドは、[[初音ミク]]、[[がくっぽいど]]、[[巡音ルカ]]。
+-メジャーアーティストSweet Vacationとの公式コラボ「[[8bit darling project]]」に採用されるなど、実力派としても知られる。
+-元々はカバー曲や山本高広のモノマネなどのネタ系の動画を投稿していた。P名の由来も、山本のモノマネの元ネタである「織田裕二」から来ている。
+-そんな中、オリジナル曲『[[Chip Tears]]』のヒットで一躍その名が知られるところとなる。
+-楽曲製作は、基本的に作詞家の[[U-SUKE]]氏と組んで行っている。
+-投稿動画の特徴として、ニコニコムービーメーカー以外で制作されたswfファイルであることが挙げられる。&br()そのため、再生を一時停止しても動画自体は動き続けるというギミックを盛り込むことに成功している。
+
+**リンク
+//-個人HP、PIAPRO、YouTube等ある場合は、ここに。当wiki以外のサイトへリンクを貼る場合は必ず「>>」で別ウインドウでリンクしてください。
+-[[YouTube>>https://www.youtube.com/user/RaychoruiP]]
+-[[PIAPRO>>http://piapro.jp/u_ji]]
+-[[Twitter>>https://twitter.com/Uji_raychoruiP]]
+-[[作者ブログ（U-ji's HOUSE NRG）>>http://ameblo.jp/housenrg/]]
+-[[作者ホームページ>>http://www.hinocatv.ne.jp/~borro/house-nrg/]]
+
+
+**曲
+#list_by_tag(U-ji,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(U-jiCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+#region(close,2008)
+|&nicovideo(sm2358657)|&nicovideo(sm2359460)|
+|&nicovideo(sm4143321)|&nicovideo(sm4143697)|
+|&nicovideo(sm4152427)|&nicovideo(nm4940942)|
+|&nicovideo(nm4964119)|&nicovideo(nm5016316)|
+|&nicovideo(nm5160714)|&nicovideo(nm5227864)|
+|&nicovideo(nm5516842)|>|
+#endregion
+#region(close,2009)
+|&nicovideo(nm5871890)|&nicovideo(nm5937894)|
+|&nicovideo(nm6016356)|&nicovideo(sm6084211)|
+|&nicovideo(nm6422938)|&nicovideo(nm6832515)|
+|&nicovideo(nm6964790)|&nicovideo(nm7449458)|
+|&nicovideo(nm8146928)|&nicovideo(nm8693625)|
+#endregion
+#region(close,2010~2011)
+|&nicovideo(nm9261760)|&nicovideo(nm10579772)|
+|&nicovideo(nm12317051)|&nicovideo(nm14014505)|
+|&nicovideo(sm15358418)|&nicovideo(nm16428737)|
+|&nicovideo(nm16514440)|>|
+#endregion
+|&nicovideo(nm16644478)|&nicovideo(nm18376299)|
+|&nicovideo(nm18608219)|&nicovideo(nm18758393)|
+|&nicovideo(sm19951334)|&nicovideo(sm20447740)|
+|&nicovideo(sm20699952)|&nicovideo(sm20773797)|
+|&nicovideo(sm20796143)|&nicovideo(nm22966136)|
+|&nicovideo(sm31838820)|&nicovideo(sm31885423)|
+
+**関連タグ内の更新履歴
+#region(close,関連タグ内の更新履歴)
+関連タグ内の更新履歴
+※「U-ji」「U-jiCD」タグ内で最近編集やコメントのあった記事を新しい方から10件表示しています。
+#list_by_tagsearch(U-ji,U-jiCD,sort=timestamp,sort2=desc,errmsg=まだ曲、CDが登録されていません。,or,10)
+#endregion
+
+**コメント
+- どの曲も可愛くて、何度も聞きたくなります! &br()  -- 名無しさん  (2012-05-02 20:32:35)
+//- もうそろそろ新しいＣＤ出してくださいよー、曲もたまってきてますし  -- 名無しさん  (2013-01-02 02:30:31)
+- Chip*********************Tune++++!!!!!!  -- 名無しさん  (2024-01-24 16:52:33)
+#comment()

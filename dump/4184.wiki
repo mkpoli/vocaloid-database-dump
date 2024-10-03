@@ -1,0 +1,41 @@
+#right(){&furigana(ああみんP) &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/8735623" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/8735623">【ニコニコ動画】うｐした動画</a></iframe>)
+
+**特徴
+-「[[ダンシング☆サムライ]]」の手描きPVがブレイク、その岡田あーみん風絵柄によりP名が名づけられた。
+-↑の動画を作ったという罪の意識からがくっぽいどを購入、晴れてがくぽマスターとなる。
+-加えて2009年からはリンレン、巡音ルカ、メグッポイドも使用している。
+-2021年12月、ついに「[[ggrks-ググれカス-]]」にてミリオンを達成した。
+
+**ミリオン達成状況
+|CENTER:&bold(){曲名}|CENTER:&bold(){100万再生}|CENTER:&bold(){備考}|
+|[[ggrks-ググれカス-]]|2021年12月6日||
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/dtm_wakaba]]
+-[[Twitter>>https://twitter.com/ahmingp]]
+
+**曲
+#list_by_tag(あー民P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(あー民PCD,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**動画
+-&bold(){オリジナル曲}
+|&nicovideo(http://www.nicovideo.jp/watch/sm4861724)|&nicovideo(http://www.nicovideo.jp/watch/sm5551576)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5816355)|&nicovideo(http://www.nicovideo.jp/watch/sm6085510)|
+
+-&bold(){コラボ曲}
+|&nicovideo(http://www.nicovideo.jp/watch/sm7729957)|&nicovideo(http://www.nicovideo.jp/watch/sm8177003)|
+
+-&bold(){手描きPV}
+|&nicovideo(http://www.nicovideo.jp/watch/sm4206327)|
+
+**コメント
+- 曲の雰囲気がとにかく大好きです!!＾＾  -- 名無しさん  (2009-09-29 15:26:58)
+- 程よくカオスな詩とか、昭和テイストのメロディーとかかなり中毒性がある。  -- 名無しさん  (2009-12-25 20:03:03)
+- 「ｇｇｒｋｓ」が中毒性が高いｗｗ  -- あー  (2011-05-21 15:29:36)
+- 『ggrks』のルカねぇのツンデレがハンパなくかわいすぎます！  -- ツンデレ  (2012-04-04 14:31:58)
+- まさかのww鶴さんへっしーみっちゃん伽羅ちゃんwww面白！次は薬研でお願いします!www  -- とある黒猫審神者  (2017-07-11 22:41:46)
+#comment()

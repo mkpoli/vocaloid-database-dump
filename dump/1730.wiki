@@ -1,0 +1,57 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+#image(http://www.sf.airnet.ne.jp/tkst/takepod/img/dbp2_b.jpg,http://takepod.accela.jp/,title=5/4TAKEPOD,blank)
+
+&ref(http://karent.jp/npdca/968_20111227153454_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Dead Ball Project vol.1]]|CENTER:&bold(){Dead Ball Project vol.2}|CENTER:[[EXIT TUNES PRESENTS THE VERY BEST OF デッドボールP loves 初音ミク]]|
+
+|&bold(){[[デッドボールP]]}||[[畳P（North-T）]]|[[baker]]|[[クリーム市長]]|[[kz]]|[[［TEST］]]|
+
+||CENTER:即売|CENTER:同人|CENTER:配信|
+|発売|CENTER:2008年8月16日|CENTER:2008年8月16日|CENTER:2012年1月18日|
+|価格|CENTER:￥1,000|CENTER:￥1,470（税込）|CENTER:￥1,200 / 1曲￥150|
+|サークル|>|>|CENTER:5/4TAKEPOD|
+
+**CD紹介
+-08年夏コミで初頒布される[[デッドボールP]]の&bold(){2ndアルバム}。
+-同時にとらのあなおよびメッセサンオーでの販売も行われている。
+-2012年にはKARENTレーベルよりダウンロード販売も開始された。Tr.2から10までが収録された全9曲。
+-今回は百合ジナル曲多めのラインナップ？　前作に引き続き、リミックスに有名Pが続々参戦！
+-ジャケットイラストは空木あんぐ氏。
+
+**曲目
++デPたん愛のテーマ　　song by うーたん。
++[[椿の花]]
++[[曾根崎心中]]
++[[1LDK]]
++[[いつしか、必ず。]]
++[[画面の向こうのあなた]]
++[[二次元に咲く花]]
++[[拝啓　お姉様]]
++[[とある娼婦の恋]]
++[[真・既成事実]]
++いつしか、必ず。~contra el destino ver.~　　arranged by [TEST]＋デッドボールP　guitar by [TEST]
++俗・既成事実　　arranged by North-T（畳P）
++カフェで聴くデッドボールミュージック 第一回（最終回）「シュークリームのうた」　　arranged by baker
++画面の向こうの宇宙　　arranged by クリーム市長
++既成事実 kz covered　　covered by kz
++デッドボールPの恋したいラジオ・第二回
+
+-#11-16は、Bonus Tracks
+
+**リンク
+-[[5/4TAKEPOD Official Website>>http://takepod.accela.jp/]]
+-[[とらのあな "Dead Ball Project vol.2">>http://www.toranoana.jp/mailorder/article/04/0010/15/60/040010156019.html]]
+-[[メッセサンオー "Dead Ball Project vol.2">>http://www.doujinshop.com/doujin/deadbp02top.htm]]
+-[[KARENT:「Dead Ball Project vol.2」>>http://karent.jp/album/968]]
+
+**コメント
+- オリジナル10曲中6曲が百合ってｗｗまさにデＰのためのＣＤｗ  -- 名無しさん  (2008-07-27 17:21:01)
+- 予約したさ  -- 名無しさん  (2008-08-11 00:34:43)
+- 友達に夏コミへおつかいさせたさ  -- 名無しさん  (2008-08-17 11:39:48)
+- さっき注文したさー  -- 名無しさん  (2008-09-08 12:48:47)
+- あれ？続の字が俗って…  -- 名無しさん  (2008-12-17 18:04:49)
+- まだメッセに在庫あるな  -- 名無しさん  (2009-04-05 11:55:14)
+- とらのあなで在庫が復活したね  -- 名無しさん  (2009-09-03 19:32:52)
+#comment

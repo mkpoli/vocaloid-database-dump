@@ -1,0 +1,42 @@
+#right(){&furigana(Towardthefuture)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo(http://www.nicovideo.jp/watch/nm5016316)
+作詞：[[U-SUKE]]
+作曲：[[U-ji]]
+編曲：[[U-ji]]
+イラスト：[[kishirotaka]]・[[鳥越タクミ]]（[[PIAPRO>>https://piapro.jp/chrysopa]]）・[[uTURA]]（[[PIAPRO>>https://piapro.jp/uturautura]]）・[[ちゃまろ]]
+唄：[[初音ミク]]
+
+**曲紹介
+>&bold(){今回は低音ミクでロック色を強調しました。}前作のようなかわいさは無いので、きっと受け入れられづらいと思う。（アセ）
+曲名：『&u(){Toward the future}』
+-低音ミクがフューチャーされたテクノポップ風ダンスサウンド。
+-PVイラストはPIAPROより『[[花の散るらむ>>https://piapro.jp/t/IX_Q]]/鳥越タクミ』、『[[World is mine.>>https://piapro.jp/t/jARU]]/uTURA』ほか不明。
+
+**歌詞
+さぁ　暗闇の中　突き進んで行く　僕達の未来目指して 
+もし　突き進むことが　怖くなったとしても　光は見えるよ
+
+深い暗闇　視界の中　無数に広がっているよ
+cross over deep in black shadow
+呟いてみた　心の奥　深く秘めた野望を
+「ここから飛び出したい」
+
+膝をかかえ　うずくまり　悩んでいた
+空を　飛ぶ羽を無くしたと　心が叫ぶ 
+
+でも　目の前に広がる　暗闇の中にも　光はあるから
+さぁ　悩んでなんかいられないよ　時計の針戻せないからね
+
+Ah～　膝をかかえ　うずくまり　悩んでいた
+空を　飛ぶ羽を無くしたと　心が叫ぶ
+
+でも　目の前に広がる　暗闇の中にも　光はあるから
+さぁ　暗闇の中突き進んで行く　僕達の未来目指して
+
+
+**コメント
+#comment()

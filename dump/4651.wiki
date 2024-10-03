@@ -1,0 +1,36 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+#image(tripster.jpg,title=Tripster)
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Tripster}|CENTER:[[いちごだいふく]]|
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/tripster-ep/id346079731]]}|
+
+|&bold(){[[yusuke]]}|
+
+||CENTER:即売|CENTER:同人|CENTER:配信|
+|発売|CENTER:2008年9月23日|CENTER:2008年10月|CENTER:2009年12月23日|
+|価格|CENTER:￥500|CENTER:￥735（税込）|CENTER:￥600|
+|サークル|>|CENTER:yusuke.cc||
+|レーベル|>|CENTER:-|CENTER:KarenT|
+
+**CD紹介
+-初音ミクとギターをフィーチャーしたオリジナルミニアルバムです。
+-旅する女の子のテーマ「Tripster」はドライブに最適!
+-ボーマス5にて初頒布された。
+-KarenTレーベルでも配信されおり、「[[Tripster]]」のカラオケ音源も付属している。
+
+**曲目
++[[tripster]]
++クライ
++ラッセル幸福論
++甘夏のしずく
++Re:ありがとう
++Tripster inst. &bold(){←KarenT配信版のみ収録}
+
+**リンク
+-[[作者ホームページ（yusuke.cc）>>http://yusuke.cc/]]
+-[[とらのあな>>http://www.toranoana.jp/bl/article/04/0010/16/38/040010163868.html]]
+-[[KarenT>>http://karent.jp/album/132]]
+
+**コメント
+#comment

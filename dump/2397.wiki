@@ -1,0 +1,50 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+#image(http://sasakure.bms.ms/kaleido/kaleidm_banner.jpg,http://sasakure.bms.ms/kaleido/kaleido_mixture.htm,title=Kaleido*MIXture)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Kaleido＊MIXture}|CENTER:[[ラララ終末論。]]|
+
+|&bold(){[[ささくれP]]}||YOmindAmp|Latteneko|
+
+||CENTER:同人|CENTER:即売|
+|CENTER:発売|CENTER:2008年8月14日|CENTER:2008年8月16日|
+|CENTER:価格|CENTER:￥1,300（税込）|CENTER:￥1,000|
+|CENTER:サークル|>|CENTER:ササクレイション|
+
+**CD紹介
+-世界中のヒトに贈る　&bold(){&color(red){A　I}}　のウタ。（作者HPより）
+-ささくれPことsasakure.UK氏の初VOCALOIDアルバム。YOmindAmp氏、Latteneko氏もメンバーに迎え、全16曲という豪華ラインナップ。
+-C74にて初頒布され、同時に氏のホームページ上にて通信販売が開始された。
+-ジャケットはささくれPが自ら手掛けた。
+
+**曲目
++PROLOGUE　　 / sasakure.UK × 初音ミク
++○月×日の　　 / YOmindAmp × 初音ミク
++[[Pico@LUV ～☆とvとAIのウタ。～>PICO＠LUV (☆彡とvとAIのウタ。)]]　　 / sasakure.UK × 初音ミク
++どこへ行っても　　 / Latteneko × 鏡音リン
++[[アドレッセンチメートル]]　　 / sasakure.UK × 初音ミク
++海抜100Mbps　　 / YOmindAmp × 初音ミク
++Calling....！(INTERLUDE)　　 / sasakure.UK
++[[モバイリ：センセーション]]　　 / sasakure.UK × 鏡音リン
++Airy　　 / Latteneko × 初音ミク
++アオの境界線　　 / sasakure.UK × 初音ミク
++passing rain　　 / Latteneko ×初音ミク
++星儀ノエテ　　 / sasakure.UK × 初音ミク
++No-vaLid　　 / YOmindAmp × 鏡音リン 
++[[ニジイロ＊アドベンチュア]]　　 / sasakure.UK × 初音ミク
++たゆたい　　 / YOmindAmp × 初音ミク
++[[はるのはるか]]　　 / sasakure.UK × 初音ミク
+
+**リンク
+-[[ササクレイション>>http://sasakure.bms.ms/sasakuration.htm]]
+-[[Kaleido＊MIXture>>http://sasakure.bms.ms/kaleido/kaleido_mixture.htm]]
+-[[ササクレイション（通販ページ）>>http://sasakure.cart.fc2.com/]]
+
+**コメント
+- 高校合格したらラララ終末論。と一緒に買ってもらえる予定だったのに完売ってそんなぁー…；；  -- 名無しさん  (2010-02-17 14:09:00)
+- 同人は買えるうちに買うもんだぜ  -- 名無しさん  (2010-03-07 09:21:47)
+- 星儀ノエテが一番好き。もっとWORLD系も作ってもらいたいなぁ  -- 名無しさん  (2010-05-25 22:59:07)
+- アオの境界線が好きだ(*^o^*)  -- 名無しさん  (2010-10-13 20:01:33)
+- 昨日開催されたVOCALOID PARADISEで買ってきた！いいアルバムだった  -- 名無しさん  (2011-03-28 17:32:37)
+- 同人は買え  -- 習近平  (2013-07-17 00:10:51)
+#comment

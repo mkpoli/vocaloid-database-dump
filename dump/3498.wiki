@@ -1,0 +1,44 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/006_20091225190815_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Resound}|CENTER:[[Toy Box>Toy Box/CD]]|
+
+|&bold(){[[ジミーサムP]]}|
+
+発売：2008年12月29日
+価格：1曲ごとで150円、11曲のアルバムで900円
+流通：配信
+発売元：KarenT（クリプトン・フューチャー・メディア株式会社） 
+
+|&bold(){[[iTunes Store で購入する>>http://itunes.apple.com/jp/album/resound/id300885829]]}|
+
+**CD紹介
+-ジミーサムPことOneRoom氏待望の初VOCALOIDアルバム。　&color(red){※CDではありません！}
+-デビュー作『[[Four Signals]]』から『[[Message in our silence]]』までの11のミクオリジナル曲を収録。
+-クリプトン社「KarenT」レーベル第2弾として、iTunes Storeより2008年12月配信開始。
+-相変わらずジャケットは地ｍ…もといスタイリッシュである。
+
+**曲目
++[[Luminous Point]]
++[[Scene>Scene/ジミーサムP]]
++[[Room 206]]
++[[Vision>Vision/ジミーサムP]]
++[[Adam>Adam/ジミーサムP]]
++[[Eve>Eve/ジミーサムP]]
++[[The 9th]]
++[[Birth in Heaven]]
++[[Four Signals]]
++[[Message in our silence]]
++[[SoundScaper]]
+
+**リンク
+-[[SOUNDSCAPE（作者ブログ）>>http://oneroom206.seesaa.net]]
+-[[KarenT>>http://karent.jp/album/6]]
+
+
+**コメント
+- 今度は是非ＣＤお願いします(●￣(エ)￣●)ノ☆・゜  -- 名無しさん  (2008-12-28 13:12:47)
+- 先程リリースのアナウンスでました。  -- 名無しさん  (2009-01-08 20:20:52)
+- ダウンロードランキングでカテゴリ2位・総合3位とか普通にスゲェよな。  -- 名無しさん  (2009-02-11 22:03:39)
+#comment

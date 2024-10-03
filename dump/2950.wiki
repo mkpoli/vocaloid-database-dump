@@ -1,0 +1,32 @@
+#right(){&furigana(かおすP) &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/5122968" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/5122968">【ニコニコ動画】曲など</a></iframe>)
+
+**特徴
+-ロック調の曲を作り、ギターのかっこよさには定評がある。
+-また、一見フリーダム、あるいはカオスでありながらも、深い意味を感じさせる歌詞も特徴。
+-アーティスト名は、「&bold(){幻術植木鉢}」。
+
+**リンク
+-[[ブログ>>http://genjutsuuekibachi.blog22.fc2.com/]]
+-[[PIAPRO>>http://piapro.jp/gu123]]
+-[[KARENT>>http://karent.jp/artist/pp000295]]
+-[[twitter>>http://twitter.com/guekibachi]]
+
+**曲
+#list_by_tag(カオスP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(カオスPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm2330636)|&nicovideo(http://www.nicovideo.jp/watch/sm2423623)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2971859)|&nicovideo(http://www.nicovideo.jp/watch/nm3971593)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm4445357)|&nicovideo(http://www.nicovideo.jp/watch/nm5138153)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5601322)|&nicovideo(http://www.nicovideo.jp/watch/sm6518773)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm16649961)||
+
+**コメント
+- 言葉遊びが面白くて好きです！  -- 名無しさん  (2011-11-26 18:02:38)
+- ドツボでした^^  -- 名無しさん  (2012-04-15 19:05:43)
+- ほんわかぷるるんダメージケアの記事ないのね･･･。歌詞を見たかった。。  -- 名無しさん  (2012-10-24 02:15:30)
+#comment()

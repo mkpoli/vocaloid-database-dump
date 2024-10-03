@@ -1,0 +1,73 @@
+#right(){&furigana(いきろP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo_mylist(<iframe width="312" height="176" src="https://ext.nicovideo.jp/thumb_mylist/3651169" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/3651169">【ニコニコ動画】Zbtb7</a></iframe>)|&nicovideo_mylist(<iframe width="312" height="176" src="https://ext.nicovideo.jp/thumb_mylist/13898381" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/13898381">【ニコニコ動画】%E3%83%87%E3%82%A3%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E4%BD%9C%E5%93%81</a></iframe>)|
+
+**特徴
+作り手名：『&u(){生㌔P}』（&u(){いきろP}）
+-使用ボーカロイドは初音ミク、鏡音リン・レン、がくっぽいど、巡音ルカ。 
+-オリジナル曲だけでなく、カバー曲や3D・手書きPV、ポケモンMADなども制作している多才なP。
+-他のPの楽曲の動画を制作することも多い。
+-アーティスト名は「かえるボイラー」。最近は「逝㌔P」の名も気に入っているらしい。
+-楽曲の多くはポケモンにキーワードが関連している。
+
+**リンク
+-[[うづまき（作者ブログ）>>http://www.voiceblog.jp/johson/]]
+-[[PIAPRO>>https://piapro.jp/poty]]
+-[[YouTube>>https://www.youtube.com/user/johsonpoty]]
+
+**ミリオン達成状況
+|CENTER:&bold(){曲名}|CENTER:&bold(){100万再生}|CENTER:&bold(){備考}|
+|[[イッシュのポケモン　言えるのか！]]|2017年1月20日|&bold(){mikiを用いたオリジナル曲では史上初}&br()&bold(){リュウトを用いたオリジナル曲では史上初}&br()[[hapi⇒]]氏、[[mazoP]]氏、&br()[[大丈夫P]]氏、[[じたばたP]]氏、[[鬱P]]氏との共作|
+
+**曲
+#list_by_tagsearch(生㌔P,sort=furigana2,errmsg=まだ曲が登録されていません。,and,100)
+
+**CD
+#list_by_tagsearch(生㌔P,sort=furigana2,errmsg=まだCDが登録されていません。,and,100)
+
+**動画
+***オリジナル曲
+|&nicovideo(sm3058494)|&nicovideo(sm3832172)|
+|&nicovideo(sm4069732)|&nicovideo(sm4136405)|
+|&nicovideo(sm4601174)|&nicovideo(sm6087108)|
+|&nicovideo(sm7211225)|&nicovideo(sm7211692)|
+|&nicovideo(sm7548655)|&nicovideo(sm7686645)|
+|&nicovideo(sm8088855)|&nicovideo(sm8872309)|
+|&nicovideo(sm11945838)|&nicovideo(sm12063631)|
+|&nicovideo(sm19591433)|>|
+
+***コラボ
+|&nicovideo(sm13004628)|>|
+
+***PV
+|&nicovideo(sm4891421)|&nicovideo(sm5720459)|
+|&nicovideo(sm6562330)|>|
+
+**関連タグ内の更新履歴
+#region(close,関連タグ内の更新履歴)
+関連タグ内の更新履歴
+※「生㌔P」「生㌔PCD」タグ内で最近編集やコメントのあった記事を新しい方から10件表示しています。
+#list_by_tagsearch(生㌔P,生㌔PCD,sort=timestamp,sort2=desc,errmsg=まだ曲、CDが登録されていません。,or,10)
+#endregion
+
+**コメント
+- パ、パラサイトつええええええ  -- レナ  (2009-04-02 18:53:37)
+- 次はいやしのねがいとかでそうな気がするｗ  -- 名無しさん  (2009-07-08 19:09:35)
+- カントー　→一撃必殺　　　ジョウト　→ほろびのうた　ホウエン→　はめつのねがいだね。シンオウはなに？  -- ゼッくん  (2009-08-30 19:01:17)
+- ↑重力だと思う  -- 名無しさん  (2009-09-06 12:59:51)
+- あぁ。あの2体か。　　　　ところで、重力の歌詞と自爆の歌詞がほしいのですけどもココに無いとしたら、どこにあるかな？特に自爆。  -- ゼッくん  (2009-09-06 19:07:15)
+- あの2体？？ディアパル？　…でわないと思う。だって空に羽ばたくんでしょ？　　　そもそもシンオウの何？　　ヂバクは、マルマインとかでしょ？あ、私も自爆の歌詞欲しいです。  -- 黒良忌  (2009-09-06 19:31:03)
+- 生キロわpixivつかっているんだね　あ、↑私はスカイシェイミと予測。  -- 名無しさん  (2009-09-07 18:17:16)
+- 「しおキャラメルの歌」の曲は載ってないんでしょうか？リンとがくぽの歌っている、変な生物の出てくるやつです。  -- ルナ  (2009-09-22 22:19:08)
+- ↑　重力は、はめつ繋がり。つまり、ホウエンだょ。  -- 名無しさん  (2009-09-28 15:29:00)
+- はめつも、ほろびも各地方の幻の特例技。次はミュウorシェイミじゃない？？  -- 名無しさん  (2009-09-28 15:32:36)
+- ほんとにポケモン好きだよね生?P。だからポケモンを理解してないと分かんない曲が多いね  -- 名無しさん  (2009-10-17 16:11:30)
+- 生？Ｐの曲好き。ポケモンも好きだし(°∀°)  -- Franc  (2011-06-14 01:41:31)
+- 生㌔ｐさんポケモンｗ  -- ウルルｐ  (2011-06-18 21:18:40)
+- 何?Ｐの所持ポケなんだろｗｗｗバグとか使って伝ポケだらけだったら面白いなｗｗｗ  -- 立体Ｐ  (2012-04-23 03:49:44)
+- 金 銀 殿堂入り  -- 名無しさん  (2012-08-10 02:48:40)
+- おいおい、Holographyはどうしたよw  -- 名無しさん  (2013-06-29 20:51:49)
+#comment()

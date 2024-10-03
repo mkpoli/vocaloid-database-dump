@@ -1,0 +1,33 @@
+#right(){&furigana(ゆうきゅうねいろ) &furigana()【登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186110461.jpg,x=300,y=300)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[RaruRaru]]|CENTER:&bold(){悠久音色}|CENTER:[[今宵誓い奇跡]]|
+
+|&bold(){[[ふねP]]}|
+
+発売：2008年12月29日
+価格：￥700
+流通：即売
+サークル：コンフォート
+
+**CD紹介
+-[[ふねP]]が08年冬コミケにて頒布した2ndボーカロイドCD。
+-タイトル曲『[[悠久音色]]』のリンレンデュエット版と、各カラオケトラックを含む全８トラック。
+
+**曲目
++[[悠久音色]]　【Vo：鏡音リン・レン】
++最初で最後の歌　【Vo：KAITO、初音ミク】
++My Sweet Strawberry　【Vo：鏡音レン】
++悠久音色　【Vo：鏡音レン】
++悠久音色　（カラオケ）
++最初で最後の歌　（カラオケ）
++My Sweet Strawberry　（カラオケ）
++悠久音色　（カラオケ）
+
+**リンク
+-[[ボカロード（作者ブログ）>>http://fune117.blog50.fc2.com/]]
+
+**コメント
+#comment

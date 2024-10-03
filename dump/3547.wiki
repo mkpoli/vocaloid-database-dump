@@ -1,0 +1,35 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+#image(http://ecx.images-amazon.com/images/I/51nQIdi4E5L._SL500_AA280_.jpg,http://d.hatena.ne.jp/PENGUINS_PROJECT/20081126/1227711324,title=Chocolate Train,blank)
+
+|&b(){[[amazon.com で購入する>>http://www.amazon.com/Chocolate-Train/dp/B001LJV8JQ/]]}|
+|&b(){[[iTunes Store で購入する>>http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=300362121&s=143462]]}|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Chocolate Train}|CENTER:[[飛べない鳥の想像力]]|
+
+|&bold(){[[PENGUINS PROJECT]]}|
+
+発売：2008年11月7日
+価格：$1.98（1曲$0.99）, \300(税込)（1曲\150(税込)）
+流通：配信
+アーティスト：PENGUINS PROJECT
+レーベル：CD baby
+
+**CD紹介
+-思春期PことPENGUINS PROJECTの配信限定シングル。
+　　現在、米Amazonならびに&color(red){世界22カ国}のiTunes Storeにてダウンロード販売中。
+-ボカロ曲の新たな流通経路の開拓を目指した採算度外視の挑戦であり（クリプトン社承諾済）、アマチュアミュージシャンの楽曲を代行販売する米企業&bold(){CD baby}と契約している。
+-引き続きピアプロでの無料ダウンロードも可能だが、有料配信版ではリマスタリング、SE追加など新たに手が加えられている。
+-キュートなペンギンのジャケットは、おなじみ[[かこい>>http://piapro.jp/gyo666]]さん。
+
+**曲目
++[[Chocolate Train>チョコレート・トレイン]]
++Chocolate Train (Off Vocal)
+
+**リンク
+-[[作者ホームページ（08/11/26エントリー）>>http://d.hatena.ne.jp/PENGUINS_PROJECT/20081126/1227711324]]
+-[[作者ホームページ（08/12/23エントリー）>>http://d.hatena.ne.jp/PENGUINS_PROJECT/20081223/1229966529]]
+-[[アーティストページ（CD baby）>>http://cdbaby.com/cd/penguinsp]]
+
+**コメント
+#comment

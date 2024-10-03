@@ -1,0 +1,37 @@
+#right(){&furigana(あまさひかえめ) &furigana()【登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186119645.jpg,x=300,y=300)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){甘さ控えめ}|CENTER:[[Magical Palette]]|
+
+|&bold(){[[MazoP]]}|[[まなみん]]|Rossie|あひる|ネイ|
+
+発売：2008年9月23日
+価格：￥800
+流通：即売
+サークル：Discord
+
+**CD紹介
+-MazoPによる初のVOCALOIDアルバム。ボーマス5にて初頒布された。
+-既発表曲9曲をリマスタリング、細部修正して収録。
+-まなみん（01,02,08）、Rossie（03,04,05）、あひる（06）、ネイ（07）、MazoP（09,10）という5人の作詞家の詞が一度に楽しめるのも魅力！
+
+**曲目
++[[雨夜の月]]
++[[夜天の陽]]
++うたひめ
++甘さ控えめ
++疑惑と結末
++[[愛のかたち]]
++[[（；`・ω・）チャーハン作るよ！]]
++ストロベリー☆ジャム &color(red){未公開曲}
++[[手をつないで]]
++Dancing Queen
+
+**リンク
+-[[作者ホームページ>>http://discord.sakura.ne.jp/cd.html]]
+
+**コメント
+- ちなみに価格は￥800でした(｀・ω・´)  -- MazoP  (2008-11-28 01:33:28)
+#comment

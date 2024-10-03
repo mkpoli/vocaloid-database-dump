@@ -1,0 +1,51 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+#image(http://debutante.main.jp/debutante3/banner_db3.jpg,width=468,height=90,title=DEBUTANTE III,http://debutante.main.jp/debutante3/,blank)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[DEBUTANTE II]]|CENTER:&bold(){DEBUTANTE III}|CENTER:[[DEBUTANTE IV]]|
+
+|CENTER:&bold(){k-shi}|CENTER:[[kz]]|CENTER:[[OSTER project]]|CENTER:[[情熱P]]|[[sasakure.UK>ささくれP]]|CENTER:[[yanagiP]]|CENTER:[[DARS]]|
+|CENTER:[[デッドボールP]]|CENTER:[[qurter]]|CENTER:[[cosMo（暴走P）]]|CENTER:[[秦野P]]|CENTER:[[トラボルタP]]|CENTER:[[North-T>畳P（North-T）]]|CENTER:[[ゆうゆ]]|
+
+||CENTER:即売|CENTER:同人|
+|発売|CENTER:2008年12月29日|CENTER:未定|
+|価格|CENTER:￥1,400|CENTER:￥1,550（税抜）|
+|サークル|>|CENTER:けしスタジオ|
+
+**CD紹介
+-超豪華有名P陣によるオムニバスアルバム『DEBUTANTE』シリーズ第3弾。
+-前作から間髪入れずに発表される今作では、第1弾『[[DEBUTANTE]]』で好評だった「歌ってみた」企画が復活！
+-ジャケットイラストは[[憂]]氏が手掛けている。
+-08冬コミ（C75）で初頒布。その後、[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/17/06/040010170662.html]]委託販売も行われています。
+
+**曲目
++Heart Beat / kz  
++[[ピアノ×フォルテ×スキャンダル]] / OSTER project   
++[[メルツェルの機械人形]] / てとてと@情熱P  
++マリィの世界 / sasakure.UK  
++[[トラッジ]] / yanagi
++日和見 / DARS  
++星音計画 / k-shi  
++[[白夜のイヴを越えて]] / デッドボールP
++[[ライフストリーム]] / qurter  
++[[園庭想空の女少（Anti The fantasic garden）>園庭想空の女少]] / cosMo@暴走P
++パラノイア・ローズ / 風見レン
++[[オメデトウ]] / トラボルタ
++[[INTERMISSION]] / yanagi feat. MaY
++ヒトゴミ / North-T feat. はるよ
++[[ライフストリーム]] / queter feat. Milia
++オメデトウ / トラボルタ feat. うさ
++[[極楽鳥 -bird of paradise-]] / ゆうゆ feat. 片霧烈火
+
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/10093622" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/10093622">【ニコニコ動画】DEBUTANTE3</a></iframe>)
+
+**リンク
+-[[けしスタジオ>>http://sincere.ddo.jp/]]
+-[[DEBUTANTE III 特設サイト>>http://debutante.main.jp/debutante3/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/17/06/040010170662.html]]
+
+**コメント
+- P達の面子がどんどん豪華になっていきますな・・・  -- 名無しさん  (2008-12-20 19:37:25)
+- まさか片霧烈火が極楽鳥を歌うとは…感動！  -- 名無しさん  (2009-02-15 20:36:53)
+- 歌ってみたとか心底邪魔でしょうがない。買ったけど。  -- 和美  (2022-04-08 20:35:56)
+#comment

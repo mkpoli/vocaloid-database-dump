@@ -1,0 +1,43 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+#image(http://tap2.jp/shop/bannar/bannar6.jpg,http://v-nyappon.net/shop/tap/products/detail.php?product_id=6,title=Nostalgia ～Compilation of 7 Colors～,blank) 
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Nostalgia ～Compilation of 7 Colors～}|CENTER:[[Nostalgia II ～Compilation of 13 Jewels～]]|
+
+|&bold(){[[たかP]]}|[[にいとP]]|[[骨盤P]]|[[GonGoss]]|[[ぢょんP]]|[[TuKuRu]]|[[兄弟P]]|
+|yuu|[[凡人P]]|[[Asaki No'9]]|牛タンP|Danzing|[[mak.kanz@wa]]||
+
+||CENTER:即売|CENTER:通販|
+|発売|CENTER:2009年02月22日|CENTER:2009年06月01日|
+|価格|CENTER:￥1,000|CENTER:￥1,200(税込)|
+|サークル|CENTER:timenaut(委託)||
+
+**CD紹介
+-真のおっさんホイホイアルバムが誕生！（Liner Notesより）
+-7名のおっさんPによる15曲を収録しています。
+-ジャケットイラストは、兄弟Pの動画でおなじみナヲコ（nawo）さんの描き下ろし。
+-「また御社か」で有名な[[タップ>>http://sign-tap.jp/index.html]]のオンラインショップで通販されています。
+
+**曲目
++[[リナリア]] / 作詞・作曲・編曲：アカサコフ
++[[StargazeR>Stargazer/骨盤P]] / 作詞・作曲・編曲：骨盤P
++[[青空を見つけた日]] / 作詞・作曲・編曲：GonGoss
++[[Honest Love]] / 作詞：yuu、作曲・編曲：たかP
++[[たんぽぽ>たんぽぽ/たかP]]（ロックバージョン） / 作詞：凡人P、作曲：たかP、編曲：TuKuRu
++[[風切羽]] / 作詞・作曲・編曲：兄弟P
++[[桜吹雪>桜吹雪/ぢょんP]] / 作詞：Asaki No'9、作曲・編曲：ぢょんP
++[[message>message/骨盤P]] / 作詞・作曲・編曲：骨盤P
++[[リナリア第二章>リナリア-第二章-]] / 作詞・作曲・編曲：アカサコフ
++[[愛の言葉]] / 作詞：牛タンP、作曲・編曲：TuKuRu
++そよ風のリズム / 作詞・作曲・編曲：GonGoss
++[[勧酒>勧酒 (quanjiu)]] / 作詞：Danzing、作曲・編曲：たかP
++[[Machine Meiden]] / 作詞・作曲・編曲：兄弟P
++[[いつしか]] / 作詞・作曲・編曲：ぢょんP
++[[Keep Your Small Happiness]] / 作詞：mak.kanz@wa、作曲・編曲：TuKuRu
+
+**リンク
+-[[公式サイト>>https://appst359.securesites.net/nostalgia/]]
+-[[タップ オンラインショップ>>https://v-nyappon.net/shop/tap/products/detail.php?product_id=6]]
+
+**コメント
+#comment

@@ -1,0 +1,90 @@
+&bold(){VOCALOID史}(2008年)
+-PRIMA発売
+-鏡音リン･レン act2発売
+-がくっぽいど発売
+
+|[[2000-2006年>歴史/VOCALOID/2000-2006年]]|[[2007年>歴史/VOCALOID/2007年]]|&bold(){2008年}|[[2009年>歴史/VOCALOID/2009年]]|[[2010年>歴史/VOCALOID/2010年]]|[[2011年>歴史/VOCALOID/2011年]]|[[2012年>歴史/VOCALOID/2012年]]|[[2013年>歴史/VOCALOID/2013年]]|[[2014年>歴史/VOCALOID/2014年]]|[[2015年>歴史/VOCALOID/2015年]]|[[2016年>歴史/VOCALOID/2016年]]|[[2017年>歴史/VOCALOID/2017年]]|[[2018年>歴史/VOCALOID/2018年]]|[[2019年>歴史/VOCALOID/2019年]]|[[2020年>歴史/VOCALOID/2020年]]|[[2021年>歴史/VOCALOID/2021年]]|[[2022年>歴史/VOCALOID/2022年]]|[[2023年>歴史/VOCALOID/2023年]]|[[2024年>歴史/VOCALOID/2024年]]|
+
+----
+#contents
+
+*1月
+-1月5日　ニコニコ動画に現存する最古のBIG-AL関連動画「[[VOCALOID2 BIG-AL　デモソング>>http://www.nicovideo.jp/watch/sm1952215]]」。
+-1月16日　ニコニコ動画でのPrimaオリジナル曲最古の動画「[[【Prima プリマ】Garden（庭園）【オリジナル】>>http://www.nicovideo.jp/watch/sm2048734]]」投稿。※以前にKAITOにより歌われた曲「[[【KAITO】Garden（庭園）【オリジナル】>>http://www.nicovideo.jp/watch/sm2028954]]」。
+-1月25日　初音ミク公式デビュー曲となる公認CD『星のカケラ』発売（フロンティアワークス）。
+-1月30日　DAMで初のカラオケ配信開始。配信曲は、公認ヴォーカルCDより「Angel Night～天使のいる場所～」と「ムーンライト ダンス」の2曲。
+
+*2月
+-2月22日　&strong(){&big(){日本国内での『PRIMA』発売(販売：ZERO-G)}}
+-2月24日　MikuMikuDance　Ver.1.0が公開。
+-2月28日　初音ミクがイメージソングを歌う初のPS2用ゲームソフト『トリノホシ』（日本一ソフトウェア）が発売。楽曲は同梱特典のCDに収録。
+
+*3月
+-3月6日　歌声合成ソフトウェア「UTAU」公開。
+-3月31日　「ねんどろいど 初音ミク」発売。
+
+*4月
+-4月1日　ニコニコニュースの記事「[[スクープ！男性大物アーティスト版のVOCALOIDを開発中>>http://blog.nicovideo.jp/niconews/2008/04/001056.html]]」、ITmediaの記事「[[あのGacktがVOCALOIDに？>>http://www.itmedia.co.jp/news/articles/0804/01/news135.html]]」。「がくっぽいど」の最初の発表。当時はエイプリルフールとも見られた。
+-4月8日　｢[[初音ミクの消失 -DEAD END-]]｣が投稿される。
+-4月14日　うぇぶたま×ピアプロ コラボ企画「初音ミク ベストプロデューサーコンテスト」結果発表｡[[詳細は公式ページへ>>http://www.tv-tokyo.co.jp/webtama3/hatsune.html]]。
+-4月20日　ニコニコ動画でのPrimaで最初に発表された曲としてはPrimaオリジナル曲最古の動画「[[Prima オリジナル曲 『Falsky』>>http://www.nicovideo.jp/watch/sm3044247]]｣投稿。
+-4月28日　「[[【初音ミク】 PROLOGUE 【ぼかりす】>>http://www.nicovideo.jp/watch/sm3128145]]」投稿。[[産業技術総合研究所>>http://www.aist.go.jp/]]の「[[VocaListener: ユーザ歌唱を真似る歌声合成パラメータを自動推定するシステム>>http://staff.aist.go.jp/m.goto/VocaListener/index-j.html]]」のデモンストレーション。当初は正体を伏せて投稿。
+-4月29日　2ちゃんねるDTM板「ヤマハ歌声合成ソフト『VOCALOID』Part30」987レス目で「ぼかりす」の正体は「VocaListener」ではと推定される。5月28日の[[第75回音楽情報科学研究会>>http://www.ipsj.or.jp/sigmus/SIG/sig200805program.html]]でVocaListenerが発表されることも判明。
+
+*5月
+-5月1日　ITmediaの記事「[[ねとらぼ：初音ミクの“神調教”が自動で!?　「ぼかりす」に話題騒然>>http://www.itmedia.co.jp/news/articles/0805/01/news103.html]]」。「VocaListener」や「第75回音楽情報科学研究会」にも言及。
+-5月2日　J-CASTニュースの記事「[[「ニコニコ」の「初音ミク歌声」　「神の領域に」とネット騒然>>http://www.j-cast.com/2008/05/02019791.html]]」。産業技術総合研究所に対する取材で「ぼかりす」が「VocaListener」であり詳細は音楽情報科学研究会で発表するとの回答を得る。ネット上で賛否両論であることなどに言及。
+-5月2日　ITmediaの記事「[[ニコ動「時報」がGacktの声に!?>>http://www.itmedia.co.jp/news/articles/0805/02/news086.html]]」。5月1日0時の時報にGacktと思しき声が流れ、「がくっぽいど」の伏線ではとも見られた。
+-5月7日　ITmediaの記事「[[Gacktの声で歌うソフト　VOCALOID「がくっぽいど」6月発売>>http://www.itmedia.co.jp/news/articles/0805/07/news050.html]]」。「がくっぽいど」正式発表。当時は6月中旬発売予定。
+-5月28日　[[第75回音楽情報科学研究会>>http://www.ipsj.or.jp/sigmus/SIG/sig200805program.html]]（[[情報処理学会>>http://www.ipsj.or.jp/]]の[[音楽情報科学研究会(SIGMUS)>>http://www.ipsj.or.jp/sigmus/]]の研究会）が神戸において開催。
+-5月29日　「[[野尻抱介リファレンス・マニュアル>>http://njb.virtualave.net/web/]]」ホームページにおいて「[[第75回音楽情報科学研究会に行ってみた>>http://njb.virtualave.net/web/rl2008/mus75/mus75.htm]]」公開。参加者146人で例年の5割増しだったことやニコニコ動画、ぼかりす、[[CV02 ACT2>>http://www.nicovideo.jp/watch/sm3477076]]関連など。
+-5月29日　この日発売した「13歳のハローワークDS」に初音ミクがミュージシャン役として登場。初音ミクを使用した初めての商用ゲームとなる。
+-5月30日　ニコニコ動画の午前0時の時報にて三浦建太郎へのアナウンス（[[2008/05/30 0:00の時報>>http://www.nicovideo.jp/watch/sm3484260]]）。がくっぽいどの公式絵を依頼するためインターネット社により流された。
+-5月31日　｢[[ワールドイズマイン>ワールドイズマイン/ryo]]｣が投稿される。
+
+*6月
+-6月10日　ITmediaの記事「[[Gackt声のVOCALOID「がくっぽいど」発売延期>>http://www.itmedia.co.jp/news/articles/0806/10/news049.html]]」
+-6月12日　6/10付オリコンデイリーチャートで、dorikoの2ndシングル『夕日坂』が初登場21位、1stシングル『歌に形は無いけれど』が初登場25位を記録。VOCALOID楽曲として初のオリコン入り。
+-6月12日　クリプトンが『鏡音リン･レン Act.2』を正式発表。
+-6月18日　クリプトンのブログ「[[リン・レン act2 ベタ打ちデモソング公開!!>>http://blog.crypton.co.jp/mp/2008/06/vocaloid2_act2_1.html]]」
+-6月20日　インターネット社の[[がくっぽいど製品情報ページ>>http://www.ssw.co.jp/products/vocal/gackpoid/]]にてがくっぽいどデモソング公開(DEMO SONG 01)。「大きな古時計」と「Lovers Again」。
+-6月20日　ITmediaの記事「[[「がくっぽいど」7月末発売　“ニコ厨”漫画家・三浦建太郎さんのイラストで>>http://www.itmedia.co.jp/news/articles/0806/20/news043.html]]」、Impress Watchの記事「[[「がくっぽいど」の発売が7月末に決定し、キャラも公開－「ベルセルク」の三浦建太郎描き下ろし“神威がくぽ”>>http://www.watch.impress.co.jp/av/docs/20080620/internet.htm]]」。発売日を7月末と発表。三浦建太郎によるイメージキャラ「神威がくぽ」公開。
+-6月27日　CNET Japanの記事「[[これがプロの本気--三浦建太郎さんの「がくっぽいど」スケッチ画を独占入手>>http://japan.cnet.com/news/tech/story/0,2000056025,20376119,00.htm]]」。7点の神威がくぽ試案と決定稿を公開。
+
+*7月
+-7月17日　7月21日付のオリコン週刊アルバムチャートで、『[[CDで聞いてみて。ニコニコ動画せれくちょん]]』（『みくみくにしてあげる♪【してやんよ】』『恋スルVOC@LOID』収録）が、初登場21位。
+-7月18日　&strong(){&big(){『鏡音リン･レン Act.2』発売(販売：クリプトン･フューチャー･メディア)}}
+-7月22日　[[OGCシンポジウム>>http://www.bba.or.jp/ogc/sym/080722/]]が東京大学にて開催。UCC(User Created Contents)やCGM(Consumer Generated Media)等が議題。クリプトン・フューチャー・メディアの佐々木渉が初音ミクの現状報告や経緯、将来展開等について講演。
+-7月23日　ITmediaの記事「[[「初音ミク」発売からもうすぐ1年　開発者が語る、これまでとこれから>>http://www.itmedia.co.jp/news/articles/0807/23/news046.html]]」、4Gamer.netの記事「[[「初音ミク」や「Perfume」はなぜブレイクしたのか。UCCやCGMについて語られた「OGCシンポジウム」>>http://www.4gamer.net/games/000/G000000/20080723050/]]」。初音ミクの販売本数は約4万本、鏡音リン･レンの販売本数は約2万本とのこと。
+-7月30日　ニコニコ動画でのがくっぽいどオリジナル曲（がくぽオリジナル曲）最古の動画「[[【がくっぽいど】ヨミビトシラズ（ワンコーラス）【オリジナル】∀studio>>http://www.nicovideo.jp/watch/nm4131246]]｣投稿。※以前にミクにより歌われた曲「[[【初音ミク】ヨミビトシラズ【オリジナル】∀studio>>http://www.nicovideo.jp/watch/sm3560783]]」。
+-7月31日　&strong(){&big(){『がくっぽいど』発売(販売：株式会社 インターネット)}}
+-7月31日　ニコニコ動画でのがくっぽいどで最初に発表された曲としてがくっぽいどオリジナル曲（がくぽオリジナル曲）最古の動画「[[【がくっぽいど】音のかけら【一応テスト】>>http://www.nicovideo.jp/watch/sm4135465]]」投稿。
+
+*8月
+-8月24日　仙台初音ミク音楽祭"せんみく"開催。
+-8月24日　第39回 星雲賞『自由部門』を初音ミクが受賞。
+-8月27日　初音ミクを使用した初の一般流通CDであるlivetune feat. 初音ミクの『[[Re:Package]]』が発売。
+-8月31日　初音ミク発売1周年。
+
+*9月
+-9月1日　2ちゃんねるYoutube板のVOCALOID本スレが500スレッド目を達成。1スレの設立から361日。
+-9月2日　9/8日付オリコンウィークリーアルバムチャートで、livetune feat. 初音ミクの『[[Re:Package]]』が､2.0万枚を売り上げて初登場第5位に登場。
+-9月19日　九一九事件。くちばしP、OSTER projectを筆頭に、P7名、全23曲の楽曲が、JOYSOUNDリアルタイムリクエスト投票で投票開始された。
+
+*10月
+-10月8日　キャラクター･ボーカル･シリーズ01 初音ミクが2008年度[[グッドデザイン賞を受賞>>http://www.g-mark.org/search/Detail?id=34937]]。
+-10月12日　サイエンス･カフェ「初音ミクNight～科学を超えた歌姫～」開催。ITmediaの記事「[[「協創」の結節点としてのサイエンス・カフェ「初音ミクNight」>>http://www.itmedia.co.jp/anchordesk/articles/0810/20/news060.html]]」
+
+*11月
+-11月14日　クリプトンのブログにおいてCV03のデモ音声が初公開「[[サンプル音声公開>>http://blog.crypton.co.jp/mp/2008/11/vocaloid2_23.html]]」
+-11月17日　CV03の音声データベース修正版デモが公開「[[サンプル音声　11/17版>>http://blog.crypton.co.jp/mp/2008/11/vocaloid21117.html]]」
+
+*12月
+-12月20日　｢[[炉心融解]]｣（オリジナル版）が投稿される。
+
+
+----
+- がくぽは２００８年生まれだったのか・・・  -- 名有りさん  (2011-06-05 13:10:53)
+- がくぽはルカより後だと思ってた そんな前だったのか…  -- 昆布  (2011-09-21 17:25:36)
+- がくぽがエイプリルフールネタだと思われたのは、テトの存在が大きいんだろうなｗ  -- 名無しさん  (2013-07-14 22:38:35)
+#comment

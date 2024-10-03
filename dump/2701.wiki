@@ -1,0 +1,52 @@
+#right(){&furigana(たあくP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/7888300" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/7888300">【ニコニコ動画】【だあくP】作品一覧</a></iframe>)|
+
+**特徴
+作り手名：『&u(){だあくP}』
+-作詞・&bold(){高木誠}、作曲・&bold(){ベルネイジ}の二人で「だあくP」だが、表舞台に出るのは高木氏の役割らしい。
+-2008年5月、「[[Crystal Wing]]」にてニコニコデビュー。
+-使用合成音声は[[初音ミク]]、[[がくっぽいど]]。
+--ニコニコデビューはがくっぽいど。加減を知らない調教が人気を呼び、一部で盛り上がる。
+//-本人曰く、「この曲のためだけにがくぽ買った」。
+-初音ミクのCDを精力的にリリースしていた。
+-同人サークルとしては比較的初期の頃から活動していたが、CDでの活動がメインらしく、ニコニコは特に重視してない模様。
+-がくっぽいどコンテストにおいて、「[[鈍色の街>鈍色の街/だあくP]]」が受賞となった。
+-2016年1月11日、「[[Hypocrisy]]」をもって活動休止、引退を発表した。
+
+**リンク
+//-個人HP、PIAPRO、YouTube等ある場合は、ここに。当wiki以外のサイトへリンクを貼る場合は必ず「>>」で別ウインドウでリンクしてください。
+-[[ニコニコ動画>>https://www.nicovideo.jp/user/274183]]
+//-[[YouTube>>https://www.youtube.com/]]
+-[[piapro>>https://piapro.jp/dcweb]]
+//-[[Twitter>>https://twitter.com/dark_mako]]
+//-[[DARK CASTLE（作者ホームページ）>>http://www004.upp.so-net.ne.jp/dcweb/]]
+
+**曲
+#list_by_tagsearch(だあくP,sort=furigana2,errmsg=まだ曲が登録されていません。,and,100)
+
+**CD
+#list_by_tagsearch(だあくPCD,sort=furigana2,errmsg=まだCDが登録されていません。,and,100)
+
+**動画
+|&nicovideo(nm4195208)|&nicovideo(nm4215065)|
+|&nicovideo(nm4696070)|&nicovideo(nm5875289)|
+|&nicovideo(sm6419009)|&nicovideo(sm6601567)|
+|&nicovideo(nm7333369)|&nicovideo(nm7785474)|
+|&nicovideo(sm7976917)|&nicovideo(sm8138652)|
+|&nicovideo(sm12869750)|&nicovideo(nm13057799)|
+|&nicovideo(sm17113337)|&nicovideo(sm20431816)|
+|&nicovideo(sm27987654)|>|
+
+**関連タグ内の更新履歴
+#region(close,関連タグ内の更新履歴)
+関連タグ内の更新履歴
+※「だあくP」「だあくPCD」タグ内で最近編集やコメントのあった記事を新しい方から10件表示しています。
+#list_by_tagsearch(だあくP,だあくPCD,sort=timestamp,sort2=desc,errmsg=まだ曲、CDが登録されていません。,or,10)
+#endregion
+
+**コメント
+#comment()

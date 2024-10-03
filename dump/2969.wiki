@@ -1,0 +1,43 @@
+#right(){&furigana(clear) &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/7686435" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/7686435">【ニコニコ動画】作ったものリスト</a></iframe>)
+
+**特徴
+-ピアノ、ギター等の演奏技術が高いP。
+-メロディ、歌詞ともにとても丁寧に作り、高いクオリティの作品を発表している。
+-代表作は「[[CANDY>CANDY/yusukeP]]」「[[La, La, Love You]]」。
+
+**リンク
+-[[euphony（作者ブログ）>>http://euphony335.blog22.fc2.com/]]
+-[[PIAPRO>>http://piapro.jp/handicraft]]
+-[[KarenT>>https://karent.jp/artist/pp000331]]
+
+**曲
+#list_by_tag(yusukeP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(yusukePCD,100,sort=furigana)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm1984857)|&nicovideo(http://www.nicovideo.jp/watch/nm2643340)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4066353)|&nicovideo(http://www.nicovideo.jp/watch/sm4373334)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5236441)|&nicovideo(http://www.nicovideo.jp/watch/sm5761759)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6306989)|&nicovideo(http://www.nicovideo.jp/watch/sm6730078)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm8127855)|&nicovideo(http://www.nicovideo.jp/watch/sm10437794)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm10903568)|&nicovideo(http://www.nicovideo.jp/watch/sm11153071)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12430409)|&nicovideo(http://www.nicovideo.jp/watch/sm13354262)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm14110180)|&nicovideo(http://www.nicovideo.jp/watch/sm14981201)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm16274078)|&nicovideo(http://www.nicovideo.jp/watch/sm16803075)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm19385164)|&nicovideo(http://www.nicovideo.jp/watch/sm22620353)|
+
+**コメント
+- yusukePさんとyusukeさん、同一人物だと思ってたら…別人なのね。  -- 名無しさん  (2009-03-11 21:39:12)
+- ピアプロの重兵衛さんが描いた画像、どちらのyusukeさんも使ってるよね  -- 名無しさん  (2009-03-27 22:11:50)
+- ↑そうなの？どこにも見あたらないけど  -- 名無しさん  (2010-06-22 13:47:37)
+- yusukeP、楽曲提供もしてるのか！プロ？  -- 名無しさん  (2011-01-27 19:46:50)
+- yusukePさんの曲は可愛いらしいので、大好きですっ♪♪♪(*^_^*）  -- モモちゃん  (2012-05-15 22:46:19)
+- yusukePさん、プラスティック･スタイルで惚れました(*´｀*)全部いい曲ですねっ♪  -- まぁる  (2013-02-14 17:56:44)
+- In Your Handsの作者を調べてみたら行きついた。2年以上調べなかったことを若干後悔。癒されるメロディと歌詞が好きです。  -- 名無しさん  (2013-03-04 12:06:47)
+- 全曲聴きました!!ホントにいい曲ばっかりで...yusukePさんだいすきです(´∀｀*)☆  -- ありぃ  (2013-04-03 00:34:07)
+- 配信限定のアルバム良いですね♪  -- 名無しさん  (2014-01-08 00:54:34)
+- 私はyusukePさんの曲が本当に大好きです。またあの素敵な曲が聴ける日を待ってます  -- 蒼井晴  (2016-01-07 16:18:32)
+#comment()

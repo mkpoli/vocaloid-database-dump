@@ -1,0 +1,109 @@
+#right(){&furigana(そらにささくましないのうた)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm5378608)|
+作詞：[[エラ通信]]・[[ひなた]]
+作曲：[[ひなた]]
+編曲：[[ひなた]]
+唄：[[KAITO]]
+
+**曲紹介
+曲名：『&u(){空に捧ぐまじないの歌}』(&u(){そらにささぐまじないのうた})
+
+**歌詞
+（[[作者ホームページ>>http://sun.ciao.jp/kaito/song/62]]より転載（裏歌詞・裏歌詞日本語訳共に））
+
+***表歌詞
+この魂(うた)　精霊に捧ぐ
+
+空は無常に晴れ渡り、太陽(ひ)が哄笑う(わらう)
+天空(てん)を目指す雲雀(ヒバリ)が焦げて墜ちるほどに
+
+愛も慈悲もなくうねる天の無情に、
+ボクら村びとは立ち枯れてゆくばかり
+赤子の泣き声　母が子を呼ぶ声　父のこぶしと叱責　限りなくいとしい
+
+郷(さと)の未来はただ　
+あなたの慈悲だけにかかる
+精霊よ この願いの報酬(むくい)をうけとりたまえ
+
+精霊力(ちから)　泉に(ここに)　つど(集)まる
+
+豊かに溢れる　精霊の泉
+虹かかる飛沫　我が村に分け与えたまえ
+この声枯れるまで　祈り捧げ続けよう
+雨よ降り注げ　乾いた砂礫の地に
+このともしび尽きる前に聞かせてください
+愛した村と人たちの晴れやかな笑顔と声を
+
+----
+
+***裏歌詞
+UOYE KUDU TIATU
+UOYE KUDU TIATU
+EDA MURETA HITUKIMONOK
+
+UGEAETEMO TOMOWUZIMAHI KASIKATERA TEBUOK
+ATTUSUSOWIMU RAKUNERAKA HODIERAWI BI HAHIT
+
+UTESNEDONI ERIESI MUZI URERUHA IRODIM
+U OKOWEM AEGASA SOWATUO NIRONI
+ITO INIONETI A TUAHI UKUMONE KAKIBOY
+
+U AKUMOTEHUKO NIROMIO ESO WIATIKONARUM
+ARAGANEA NOTOTINE MATONOTIHA NUTESIAT
+ATISUKAKI NUKOON ENUMOWIO MOUKAMUZU
+
+URAMO DUTINO KOKARAKIT
+
+I AKESATITIMI NUZIMANUOYO NOSUAGIKAWA KONOTOS
+IMISUKINAHU RAGAIKAWINN NEUKARA NAKATUY IRODIM
+
+IRATIKISOTE ATUTONN NISAKUHIMUZIURE AKAKIMUGEM
+IAGENURERA REKUTISO INA TAKONEKADIROTIH
+
+UO ORONIMARU OWETEBUSO MOTIBARUMO MIERIES
+INUOYSI ADUS ADIS ASITO NIONOKONI RIKUTOTIH
+
+#region(close,裏歌詞日本語訳)
+***裏歌詞日本語訳
+歌い続けよう　謳い続けよう
+この身朽ち果てるまで
+
+頭垂れた草木は水を求めて　喘ぐ
+地はひびわれ　井戸は枯れ　泥濘を啜った
+
+緑溢れる泉　精霊の伝説
+祈りの歌を捧げ　雨を乞う
+
+喚びかけの報いは　歌い手の命
+村の期待を背負い　森の奥へと向かう
+
+大切な人のためにと唱えながら
+渦巻く想いを　胸の奥に隠した
+
+精霊力(ちから)　泉に(ここに)　つど(集)まる
+
+外の乾きが嘘のような　水に満ちた世界
+緑豊かな楽園に　湧き上がるは憎しみ
+
+恵み抱える泉　不可侵の伝えとしきたり
+ひとりだけの肩に　押し付けられる願い
+
+精霊も村人も　全てを恨み呪おう
+ひとつきりのこの命　差し出す代償に
+#endregion
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+**コメント
+- 裏歌詞にこんな意味があったとは…。それにしても、裏歌詞の兄さんの低音がカッコいい…！  -- 姫虎  (2009-07-12 19:57:26)
+#comment()
+
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)

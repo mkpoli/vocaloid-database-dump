@@ -1,0 +1,30 @@
+#right(){【登録タグ:&tags()】}
+//↑タグ忘れ防止のための表示
+曖昧さ回避のためのページ
+----
+-[[ゴゼンP]]の曲
+--[[memories/ゴゼンP]]
+-[[だあくP]]のCD
+--[[Memories/CD]]
+-[[19's Sound Factory]]の曲
+--[[Memories/19's Sound Factory]]
+-[[SHIKI]]の曲
+--[[MEMORIES/SHIKI]]
+-[[SmileR]]の曲
+--[[Memories/SmileR]]
+-[[いかすP]]の曲
+--[[Memories/いかすP]]
+-[[Anemone>Anemone/作り手]]の曲
+--[[Memories/Anemone]]
+-[[no-ix]]の曲
+--[[memories/no-ix]]
+-[[jiji]]の曲
+--[[memories/jiji]]
+//-[[]]の曲
+//--[[]]
+
+//-類似タイトル
+//-[[]]の曲
+//--[[]]
+
+#include(曖昧さ回避の追加の仕方/告知)

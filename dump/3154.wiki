@@ -1,0 +1,55 @@
+#right(){&furigana()&furigana()【登録タグ:&tags()】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/994396" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/994396">【ニコニコ動画】inokix</a></iframe>)
+
+**特徴
+-&b(){222戦争}当日に投稿された「[[ニコニコ替え唄メドレー Part 1]]」でブレイクしたP。
+-他にも、普段は既存の曲の替え歌やカバーの投稿が中心。
+-ネタ曲に定評があるため、たまにガチ曲をうｐすると「有名Pの暴走シリーズ」タグを貼られる。最近では自らタグロックしている。
+-アーティスト名からもわかるとおり、アントニオ猪木を用いた人力VOCALOID作品を投稿することもある。
+-替え歌に関してはかの有名な&b(){嘉門達夫}氏を彷彿とさせる奇抜なセンスを見せる。
+-MEIKO・KAITO・ミク・リンレン・がくぽ・ルカ・GUMIと、7つものVOCALOIDを所持している数少ないPの一人。
+-初のオリジナル曲は「[[夏だ！祭りだ！ぼーかろんど！]]」。
+-ボキャブロイド「&b(){太目ニク}」というミク派生キャラによるsupercell楽曲の替え唄は調声も歌詞も秀逸で爆笑必至です。
+-視聴すると&bold(){顎が伸びる}。伸びすぎには注意しよう。
+
+**曲
+#list_by_tag(inokix,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**動画
+***オリジナル曲
+|&nicovideo(http://www.nicovideo.jp/watch/sm4004879)|&nicovideo(http://www.nicovideo.jp/watch/sm5388729)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm8469490)|&nicovideo(http://www.nicovideo.jp/watch/sm9229114)|
+***替え歌
+|&nicovideo(http://www.nicovideo.jp/watch/sm1303354)|&nicovideo(http://www.nicovideo.jp/watch/sm1404218)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm1612701)|&nicovideo(http://www.nicovideo.jp/watch/sm1786248)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2398630)|&nicovideo(http://www.nicovideo.jp/watch/sm2981693)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3161635)|&nicovideo(http://www.nicovideo.jp/watch/sm4239454)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5745575)|&nicovideo(http://www.nicovideo.jp/watch/sm6783163)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7805251)|&nicovideo(http://www.nicovideo.jp/watch/sm11423292)|
+
+***替え歌（太目ニク）
+|&nicovideo(http://www.nicovideo.jp/watch/sm3716702)|&nicovideo(http://www.nicovideo.jp/watch/sm4389402)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4752361)|&nicovideo(http://www.nicovideo.jp/watch/sm4966877)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6368411)|&nicovideo(http://www.nicovideo.jp/watch/sm8810296)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm10574285)
+
+**コメント
+- ネ申  -- 名無しさん  (2009-01-01 18:19:07)
+- 大好きですw  -- 名無しさん  (2009-03-21 22:47:58)
+- はじけても５時はおやつ時のページを誰か…！  -- 名無しさん  (2009-03-23 19:49:54)
+- ↑同上  -- 名無しさん  (2009-03-24 01:36:31)
+- inokix様の替え歌やばいｗｗ歌詞見るだけで腹筋がもう駄目ｗｗ  -- 名無しさん  (2009-03-24 21:56:34)
+- 「はじけても５時はおやつ時」の歌詞ページ作成しました。  -- 名無しさん  (2009-03-27 15:21:40)
+- ここまできたら「きみをわすれない」もニクちゃんに替え歌わせてほしい(笑)  -- 名無しさん  (2009-04-04 04:25:12)
+- どっしん融解の追加求ム！  -- 名無しさん  (2009-11-29 21:56:58)
+- どっしん融解♪ &br()追加して下さい！  -- りある  (2009-12-11 17:02:19)
+- 追加しました。ほんとこの人替え歌うまいね。歌詞書き出しながら何度も吹いた  -- 名無しさん  (2009-12-11 18:01:45)
+- すばらしい才能ですよね  -- 葉月  (2009-12-31 19:10:14)
+- inokixさんは最高だと思う。どれも上手いWW毎回笑うから腹筋がWWW  -- りある  (2009-12-31 19:46:09)
+- 今聴いてるｗ  -- 名無しさん  (2010-02-07 14:23:58)
+- Nice to 肉 chu!も可愛いよね。誰か追加求む…！  -- 名無しさん  (2010-10-21 04:18:50)
+- 太目ニクシリーズ？はそろそろ新たな「被害者」に期待・・・・したい（ぉ  -- 名無しさん  (2010-12-22 21:12:57)
+- 例：もーデブデブになっちゃってー・・・・いや、なんでもないです。  -- 名無しさん  (2010-12-22 21:15:22)
+- 限界エサくれーションは…？追加お願いします  -- でぶ  (2013-08-21 17:40:12)
+- この人大好きww  -- じゅり  (2014-05-22 15:30:35)
+#comment()

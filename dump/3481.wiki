@@ -1,0 +1,36 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&ref(http://dslabratory.web.fc2.com/images/contrast_01.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Contrast}|CENTER:[[Digiholic]]|
+
+|&bold(){[[FAT>fatP]]}|[[SHIKI]]|
+
+|流通|CENTER:即売|CENTER:通販|
+|発売|CENTER:2008年12月29日||
+|価格|CENTER:￥700|CENTER:￥700|
+|サークル|>|CENTER:Digital Sound Laboratory|
+
+|&bold(){[[氏のサイトで購入する>>http://dslabratory.web.fc2.com/shop.html]]}|
+
+**CD紹介
+-[[FAT>fatP]]氏初のVOCALOIDアルバム。
+-12/29（月）コミックマーケット冬75、"西き-39a"にて頒布。
+-殿堂入り曲『[[SETSUNA>SETSUNA/SHIKI]]』を初めとする[[SHIKI]]氏との合作曲、及び[[FAT>fatP]]氏のニコニコ動画公開曲等を含めた全7曲収録。
+-現在、氏のサイトで個人販売が行われている。
+
+**曲目
++[[STAY BLUE>stayblue]]
++[[SETSUNA>SETSUNA/SHIKI]]
++Aspiration～切望～
++Blind Colors
++fourth rain
++seeing off
++finite element
+
+**リンク
+-[[D.S.L（Digital Sound Laboratory）>>http://dslab.blog19.fc2.com/]]
+-[[Link to you>>http://kobe.cool.ne.jp/linker/]]
+
+**コメント
+#comment

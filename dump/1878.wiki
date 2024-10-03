@@ -1,0 +1,32 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){VACATION!}|CENTER:[[Say Hello>Say Hello/CD]]|
+
+|&bold(){藤川ヒロヒコ（[[トラP]]）}|
+
+||CENTER:即売|CENTER:同人|
+|発売|CENTER:2008年8月16日|CENTER:2008年9月5日|
+|価格|CENTER:￥500|CENTER:￥735（税込）|
+|サークル|>|CENTER:NoMode|
+
+**CD紹介
+-M3-2008春での無料配布CD『CAPTURED』に続く正式盤１作目。2008年夏コミ（C74）の[[Studio F#>>http://www.f-sp.net/]]のスペースと、2008年コミティアのNoModeのスペースにて発売。
+-ニコニコ動画で発表した全７曲を、細部調整の上収録。他、シークレットトラックが１曲？
+-盤面フルカラー印刷CD-Rにカラー8Pブックレット（歌詞カード）を付けたPケース仕様。
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/16/11/040010161116.html]]でも販売開始。
+
+**曲目
++[[Vacation]]
++[[カップ麺]]
++[[サンセット>サンセット/トラP]]
++[[Innes]]
++[[Silver Marmaid]]
++[[Another Promise]]
++[[Captured]]
+
+**リンク
+-[[VACATION! 特設ページ（NoMode）>>http://nm.f-sp.net/vocaloid/vacation_cd.html]]
+-[[藤川帳（ブログ）>>http://hrfj.jugem.jp/?eid=216]]
+
+**コメント
+#comment

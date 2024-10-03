@@ -1,0 +1,62 @@
+#right(){&furigana(clear) &furigana()【登録タグ:&tags()】}
+&nicovideo(http://www.nicovideo.jp/watch/sm4621570){340,185}
+作詞：[[mak.kanz@wa]]
+作曲：[[Rino Mika>エンドロールに拘りのあるP]]
+編曲：[[Rino Mika>エンドロールに拘りのあるP]]
+唄：初音ミク
+
+**曲紹介
+-ピアプロコラボ 『[[旋律のおもちゃ箱 ～Let's enjoy the sound～>>http://piapro.jp/collabo/?view=collabo&id=10061]]』 制作楽曲。
+-ピアプロ公式コラボ企画『ミク痛車デザイン（＝SUPER GT参戦企画）』応募曲。
+--2008年（スーパーラップ用BGM部門）は落選したが、2009年の「ピットウォークBGM」のひとつとして採用された。
+-原曲は、Rino氏が1994年に制作したインスト曲「Pursuit」。
+-タイトルは、GT参戦開始時のチーム名である&bold(){[[Studie & GLAD with ASADA Racing>>http://www.advance-step.net/]]}と頭文字をあわせている。
+-ギター演奏およびアレンジで、[[Kouhei>Kouhei（K's Sound Project）]]氏（当時おっさんP）と[[syunkit]]氏が参加。
+-CD『[[初音ミクGT Project Theme Song Collection]]』収録楽曲。（CD収録版はニコ動版とは別ミックス）
+
+**歌詞
+（[[PIAPRO>>http://piapro.jp/content/qfhx9tkzz8qaol02]]より転載）
+
+灼熱のアスファルト　空へ駆け上がる熱が
+戦場に立つ君の　身を焦がして吹き抜けてく
+
+栄光に続く道は　いつもたったひとつだけ
+その場所を狙っている　すべてのライバル　振り払って進め
+
+　Set and Go!!　Set and Go!!　命を燃やして走れ
+　追いかけ続けた　夢をつかむのさ
+　ゴールの瞬間（とき）まで　あきらめたりしないで
+　勝利の女神は　そこに待ってるよ
+
+太陽の光浴び　なびく翠（みどり）の翼が
+陽炎を切り裂いて　ディストーション奏でるのさ
+
+コーナーの向こう側へ　飛び込むアドレナリンは
+1/1000秒の　タイトロープを渡る勇気になるよ
+
+　Set and Go!!　Set and Go!!　その身を捧げて走れ
+　その手で　見えない壁　突き破れ
+　音速に迫る　リズムのその向こうに
+　求めた最高の　結末があるよ
+
+　Set and Go!!　Set and Go!!　火花を散らして走れ
+　荒ぶる魂（こころ）のままに突き進め
+　誰にも譲れぬ　プライド抱きしめながら
+　新たな歴史を　ここに刻み込め
+
+
+　Set and Go!!　Set and Go!!　命を燃やして走れ
+　追いかけ続けた　夢をつかむのさ
+　音速に迫る　リズムのその向こうに
+　求めた最高の　結末があるよ
+
+　Set and Go!!　Set and Go!!　その身を捧げて走れ
+　その手で　見えない壁　突き破れ
+　ゴールの瞬間まで　あきらめたりしないで
+　勝利の女神は　そこに待ってるよ
+
+　(Fade Out)
+　
+
+**コメント
+#comment()

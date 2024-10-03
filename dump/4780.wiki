@@ -1,0 +1,58 @@
+#right(){&furigana(Walkyourway)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm6142386)|&youtube(https://www.youtube.com/watch?v=17_XRpLmRFQ){342,187}|
+作詞：[[そそそ>そそそP]]
+作曲：[[そそそ>そそそP]]
+編曲：[[そそそ>そそそP]]
+唄：[[巡音ルカ]]
+
+**曲紹介
+曲名：『&u(){Walk your way}』
+-ちょっぴり大人な卒業ソング。ポップでロックでフォークで、、、ロックｗ（作者コメ転載）
+-『[[Looking for>Looking for/CD]]』に収録されている。
+
+**歌詞
+いつか　こんな時が来ると　理解ってはいたのに
+でもね　受け入れる自信がなかっただけだから
+
+茜色に染まる空　雲が滲んで見えたら
+夕闇が包む前に　今すぐ　あの列車に飛び乗って
+
+さよなら告げずに　そっと　Walk my way
+春の訪れが　少し切なく
+夢とか追いかけて　強く　Walk your way
+きっと叶うよ　叶えて見せてよ
+Longest way
+
+もしも　弱さ見せていたら　どんな顔しただろう
+だから　君が眠っている間に部屋を出た
+
+かける言葉見つからず　宙を舞った想いには
+未練が浮かび上がって　迷わずにはいられなかったけど
+
+手紙を残して　そっと　Walk my way
+風が吹くままに　振り向かないで
+明日を探して　強く　Walk your way
+きっと届くよ　君なら届くよ
+Longest way
+
+Walk my way, Walk your way...　それぞれの道　歩むことを
+Longest way　どこまでも続いていくこと　恐れずに
+
+さよなら告げずに　そっと　Walk my way
+春の訪れが　少し切なく
+夢とか追いかけて　強く　Walk your way
+きっと叶うよ　叶えて見せてよ
+
+手紙を残して　そっと　Walk my way
+風が吹くままに　振り向かないで
+明日を探して　強く　Walk your way
+きっと届くよ　君なら届くよ
+Longest way
+
+
+**コメント
+#comment()

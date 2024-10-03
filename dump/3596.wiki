@@ -1,0 +1,44 @@
+#right(){&furigana(はつねがくさい) &furigana()【登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186105924.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[初音幻想]]|CENTER:&bold(){初音楽祭-VOC@LOID☆PARTY!-}|CENTER:-|
+
+|&bold(){[[nick-9>UPNUSY]]}|
+
+||CENTER:即売|CENTER:同人|
+|発売|CENTER:2008年12月29日|CENTER:2008年12月31日|
+|価格|CENTER:￥1,000|CENTER:￥1,155（税込）|
+|サークル|>|CENTER:Nick-Ninth|
+
+**CD紹介
+-[[nick-9>UPNUSY]]氏によるボーカロイドCD第３弾。08年冬コミでの頒布と同時に、[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/16/96/040010169668.html]]での委託販売も行われています。
+-前作『[[初音幻想]]』の後日談的位置付けのミニアルバム。&br()今回も歌詞カードを兼ねた全20ページのビジュアルストーリーブックが付属する。イラスト担当はおにねこ氏。
+-初音ミク、鏡音リン、鏡音レン、KAITO、MEIKO、ボーカロイド５人それぞれのソロ楽曲及び５人の合唱版『わたしはうたう(Remix）』と&br()各インスト版の全12曲を収録。
+-冬コミケ会場での頒布版には、「特製ボーカロイド卓上カレンダー」が付属しての頒布となる。このカレンダーは通販版には付属していない。
+
+**曲目
++聖誕歌 -0831-(Remix)　【Vo：初音ミク】
++Wind of North　【Vo：鏡音レン】
++ANGEL☆FLOW　【Vo：鏡音リン】
++月蝕ノ楔　【Vo：KAITO】
++Bloody Mary　【Vo：MEIKO】
++わたしはうたう(Remix)　【Vo：VOC@LOID ALLSTARS】
++聖誕歌 -0831-(Remix)(instumental)
++Wind of North(instumental)
++ANGEL☆FLOW(instumental)
++月蝕ノ楔(instumental)
++Bloody Mary(instumental)
++わたしはうたう(instumental)
+
+**リンク
+//-[[Nick-Ninth>>http://nickninth.blog104.fc2.com/]]
+-[[作者ブログ>>http://nickninth.blog104.fc2.com/blog-date-200812.html]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/16/96/040010169668.html]]
+
+**コメント
+//- あはは  -- 初音ミクっぽく  (2009-03-26 13:04:31)
+//- 願いをかなえよー遊び足りなぁい♪  -- 初音ミクっぽく  (2009-03-26 13:05:27)
+//- この歌を～  -- 初音ミクっぽく  (2009-03-26 13:06:15)
+#comment

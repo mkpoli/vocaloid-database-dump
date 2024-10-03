@@ -1,0 +1,16 @@
+#right(){&furigana(わたしのゆめはぎんのもりへとんでいった)&furigana()【登録タグ:&tags()】}
+&nicovideo(http://www.nicovideo.jp/watch/sm6246968)
+作詞：?
+作曲：[[うみぬこP]]
+編曲：[[うみぬこP]]
+唄：初音ミク
+
+**曲紹介
+-フォークトロニカ
+-絵：白熱灯
+
+**歌詞
+（なし）
+
+**コメント
+#comment()

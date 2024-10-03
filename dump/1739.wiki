@@ -1,0 +1,39 @@
+#right(){&furigana(けふぃあP) &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/4795597" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/4795597">【ニコニコ動画】喋らせてみたシリーズ</a></iframe>)
+
+**特徴
+-VOCALOID達を喋らせることに特化したP。伝説のTALKLOIDマスター。
+-たまに歌う。
+-初音ミク、鏡音リン・レンを所持している。
+-本当にボカロたちが家の中で動き回っているかのような生活感溢れるトークに、思わずほのぼのしてしまう。
+-当時、自然に喋らせることが不可能かもしれないと思われていた初音ミクを、[[「いいえ、それらはすべてケフィアです」>>http://www.nicovideo.jp/watch/sm1604978]]の吹き替えにおいて、泣き声を含めて見事に喋らせたことからケフィアPと呼ばれることとなった。ケフィアPの原点とも言えるこの動画は、本人が著作権的にグレーであると判断して自主的に削除したため現在では見ることが出来ない。
+-カラスの鳴きマネが得意。（[[動画で披露>>http://www.nicovideo.jp/watch/sm1968921]]）
+-授業の選択は音楽ではなく書道、ただし字は下手だそうだ。（[[ミク談>>http://www.nicovideo.jp/watch/sm1968921]]）
+
+**リンク
+-[[ピアプロ>>http://piapro.jp/g111eafg]]
+
+**曲
+#list_by_tag(ケフィアP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(ケフィアPCD,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm1968921){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm2151578){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2292251){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm3803030){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3803136){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm5932293){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6002535){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm6776648){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7188752){340,185}||
+
+-背中Pによる実写化（MMD）
+|&nicovideo(http://www.nicovideo.jp/watch/sm2617215){340,185}|
+
+
+**コメント
+
+- 一部ニコニコ大百科から引用させていただきました  -- 名無しさん  (2008-07-25 21:15:11)
+- 空気感というか…後ろで犬の鳴き声がしたりとか…すごいナチュラルで聞いててほんと楽しいです。支援支援！  -- 名無しさん  (2008-07-25 21:26:14)
+- 本当に生きているような、自然過ぎるしゃべり方が好き  -- 名無しさん  (2008-07-28 01:05:41)
+- この人の持ってるボカロはしゃべりもOKの  -- pak_13  (2008-07-28 11:31:57)
+#comment()

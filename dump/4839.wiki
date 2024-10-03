@@ -1,0 +1,97 @@
+#right(){&furigana(Believemyself)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm4016207)|
+作詞：[[gle]]
+作曲：[[のりP]]
+編曲：[[のりP]]
+イラスト：[[syou]]
+唄：[[鏡音リン>鏡音リン・レン]]
+
+**曲紹介
+>&bold(){絶望の淵にたっていても、希望を強く心に込めればどんな事でも出来るんだ！}
+曲名：『&u(){Believe×myself}』(&u(){ビリーブ×マイセルフ})
+
+**歌詞
+（[[ピアプロ>>http://piapro.jp/content/jy3wxztfumfz29et]]より転載）
+
+手を伸ばせば　どんな　暗闇も飛べるはず
+未来を変えられる　私たちを信じて
+
+We do not give up. I do not want to lose.
+If there is the world the hope over there.
+Even if it is almost crushed by despair.
+We clear the door of the heart a little.
+
+I crush so darkness by straight hope.
+We who shine get over the dark world. and,
+I leave for the world where light sparkles.
+We lose sight of nobady any more.
+
+吹き荒れる　嵐でも
+導かれる様に
+一筋の光へと
+強く　前に　進む
+
+手を伸ばせば　どんな　暗闇も飛べるはず
+未来を変えられる　私たちを信じて
+孤独や戸惑いに　負けそうに　なってても
+その先にある　ただ　一つの光　break through
+
+We do not give up. I do not want to lose.
+If there is the world the hope over there.
+Even if it is almost crushed by despair.
+We clear the door of the heart a little.
+
+I crush so darkness by straight hope.
+We who shine get over the dark world. and,
+I leave for the world where light sparkles.
+We lose sight of nobady any more.
+
+凍りついた世界でも
+前だけを見据えて
+手の中に宿るヒカリ
+今　そっと　抱きしめ
+
+心の中にある　自分の弱さを今
+曝け出して　本当の自分を見つける
+あやまちも苦しみも乗り越えていくんだ
+無数の言葉たちが　勇気を紡いでく
+
+止まらない　この感情　未来を切り開いてく　友情
+手のひらにギュと　握りしめていたんだ
+あの雲の隙間から　一筋の光が指してく
+私たちを輝く世界へ　導く
+
+空たかく　空たかく　鳥のように　自由で
+汚れを知らぬ　その強い心で
+目の前の暗闇も　孤独への悲しみも
+蹴散らして　この先の未来へ
+
+吹き荒れる　嵐でも
+導かれる様に
+一筋の光へと
+強く　前に　進む
+
+手を伸ばせば　どんな　暗闇も飛べるはず
+未来を変えられる　私たちを信じて
+一筋の光が　今　私を包んでく
+輝きを忘れないで　Believe×myself
+
+We do not give up. I do not want to lose.
+If there is the world the hope over there.
+Even if it is almost crushed by despair.
+We clear the door of the heart a little
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+**コメント
+#comment()
+
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)

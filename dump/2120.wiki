@@ -1,0 +1,31 @@
+#right(){&furigana() &furigana()【登録タグ:&tags()】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/7065163" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/7065163">【ニコニコ動画】ピ的なコラボ</a></iframe>)
+
+**特徴
+-作詞家の作り手。
+-[[はごろもP]]、[[刹那P]]、[[夏目P]]等とコラボの経験がある。
+-PIAPROでの作品スタイルは次のとおり。
+--タイトルに【　　】（飾りカッコ＋カッコ内の左右に全角スペース1つ空け）
+--タイトルに「※」＝「曲募集」
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/cocotuki]]
+-[[にゃっぽん>>http://v-nyappon.net/?m=pc&a=page_f_home&target_c_member_id=1194]]
+
+**曲
+#list_by_tag(cocotuki,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(cocotukiCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm2494490){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm2504702){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2637321){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm2789287){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3681686){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm3821482){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3821560){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm5304874){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4057911){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm5706453){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5709926){340,185}||
+
+
+**コメント
+#comment()

@@ -1,0 +1,38 @@
+#right(){&furigana()&furigana()【登録タグ:&tags()】}
+&nicovideo(http://www.nicovideo.jp/watch/sm4309620){340,185}
+作詞：[[wintermute]]
+作曲：[[wintermute]]
+編曲：[[wintermute]]
+唄：初音ミク
+
+**曲紹介
+-ごりごりシューゲイザー/パンク。（作者コメより転載）
+-イラストは漫画家のニヤコ氏が手掛ける。
+
+**歌詞
+（[[PIAPRO>>http://piapro.jp/content/umu6gz6w62wxgaq9]]より転載）
+
+夢みたい　ほんとさ
+きみの声　囁き
+約束なんか信じない　ただの言葉さ
+
+繋ぐ手のリアルとぼくが見た幻
+回る時の渦で
+
+星の海　きれいさ
+ぼくの手が溶けてく
+褪せた記憶の憂鬱も関係ないさ
+
+時が過ぎ消えてく　きみとぼく　同じさ
+だけど今を見てて
+
+星の光が焼き尽くす　ぼくのすべてを
+
+触れあえる指先　赤い血が流れて
+瞳　暗く　深く
+
+**関連動画
+&nicovideo(http://www.nicovideo.jp/watch/nm15244801)
+
+**コメント
+#comment()

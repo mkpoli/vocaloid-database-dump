@@ -1,0 +1,66 @@
+#right(){&furigana(とべないとりのそうぞうりょく) &furigana()【登録タグ:&tags() 】}
+//#amazon(B001YMSX16)
+
+&ref(https://m.media-amazon.com/images/I/81N5we8hllL._SS500_.jpg,x=300,y=300)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Chocolate Train]]|CENTER:&bold(){飛べない鳥の想像力}|CENTER:[[GALAPAGOS>GALAPAGOS/PENGUINS PROJECTCD]]|
+
+|&bold(){[[PENGUINS PROJECT]]}|
+
+||CENTER:即売|CENTER:同人|CENTER:配信|
+|CENTER:発売|>|CENTER:2009年2月22日|CENTER:2009年3月11日|
+|CENTER:価格|CENTER:￥1,000|CENTER:￥1,260（税込）|CENTER:全曲$8.99 / ￥1,500（税込）&br()単曲$0.99 / ￥150（税込）|
+|CENTER:サークル|>|>|CENTER:PENGUINS PROJECT|
+|CENTER:レーベル|>|CENTER:-|CENTER:CD baby|
+
+**CD紹介
+-初音ミクと中の人（思春期P）から成るユニット「PENGUINS PROJECT」待望の1stアルバム。ボーマス7にて頒布される。
+-ジャケットは前作に引き続き、[[かこい>>http://piapro.jp/gyo666]]さんが描くキュートなペンギンが目印！　飛べない鳥は青空を仰ぎ何を思うのか―
+-『[[Chocolate Train]]』同様、本作も『Penguin's Dream』の英題のもとで独自ルートによるamazon.com、iTunes Storeでの配信が開始。
+
+**曲目
++overture -飛べない鳥の想像力- (instrumental)　&color(red){NEW!}
++[[チョコレート・トレイン]]
++[[泣いて 泣いて 泣きやんで]]
++[[あめあめ]]
++アノコロ　&color(red){NEW!}
++すねたりしないで　&color(red){NEW!}
++[[はてな！ - 2nd Edition ->はてな！]]
++[[うしろまえワルツ]]
++[[春の手紙]]
++[[忘れないで]]
++[[ロンリーハート]]
++[[思春期ボーカロイド]]
++[[揺れるトケイめぐるセカイ - 2nd Edition ->揺れるトケイめぐるセカイ]]
++PENGUINS PROJECTのテーマ　&color(red){NEW!}
+
+#region(close,Penguins's Dream)
++Overture-penguins's Dream-(instrumental)
++Chocolate Train
++No More Cry
++Rain
++Those Days
++Don't Be In a Sulk
++Why?
++Waltz On Backwards
++a Letter to Spring
++Forget Me Not
++Lonely Heart
++Vocaloid In Adolescence
++Cactus
++Theme of Penguin's Project
+#endregion
+
+**リンク
+-[[作者ブログ>>http://d.hatena.ne.jp/PENGUINS_PROJECT/20091231/1233854254]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/17/73/040010177355.html]]
+-[[D-Stage>>http://d-stage.com/shop/detail.php?seq=8339&kw=PENGUINS+PROJECT&from=items]]
+-[[amazon.com>>http://www.amazon.com/dp/B001YMSX16]]
+-[[iTunes Store>>http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=308506582&s=143462]]
+
+**コメント
+- 同人でも流通して欲しい・・・  -- ボーマス生きたい  (2009-02-22 16:39:58)
+- 同人の委託始まったみたいですね＾＾  -- ( ´･ω･)   (2009-03-08 18:57:10)
+- 買い逃した・・・  -- 名無しさん  (2009-08-22 17:19:47)
+#comment

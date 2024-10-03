@@ -1,0 +1,49 @@
+#right(){&furigana(かぷせる) &furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/113_20091225201538_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){カプセル}|CENTER:[[Volatile]]|
+
+|&bold(){[[とらのあなで購入する>>http://www.toranoana.jp/mailorder/article/04/0010/18/19/040010181901.html]]}|
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/capsule/id338069523]]}|
+
+|&bold(){[[束子P]]}|&bold(){[[バルP]]}|
+
+|CENTER:流通|CENTER:即売|CENTER:同人|CENTER:配信|
+|CENTER:発売|CENTER:2009年2月22日|CENTER:2009年2月|CENTER:2009年11月11日|
+|CENTER:価格|CENTER:￥1,000|CENTER:￥1,470（税込）|CENTER:￥1,200/ 1曲￥150|
+|CENTER:サークル|>|>|CENTER:CENTER:AVALON|
+|CENTER:レーベル|>|CENTER:-|CENTER:KarenT|
+
+作詞・作曲：&bold(){[[バルP]],[[束子P]]}
+イラスト：&bold(){[[謎○>>http://piapro.jp/omarumaru]]}
+
+**CD紹介
+-束子PとバルPが自身初となるCDをコンピレーション形式で制作。
+-未発表曲を含む計14曲を収録。
+-とらのあなにて通販が行われていたが、現在は完売となっている。
+-KarenTレーベルよりダウンロード販売も行われている。
+
+**曲目
++[[君が最後についた嘘]] / 束子P　&color(red){NEW!}
++[[ゼロ・ワン]] / 束子P
++ボカロ天気予報 / バルP
++[[アンブレラ -side Len->アンブレラ ～side Len～]] / バルP
++[[雨の女 -side Miku->雨の女 ～side Miku～]] / バルP
++[[わたし注意報]] / 束子P
++[[雨のち晴れ -side Rin->雨のち晴れ ～side Rin～]] / バルP
++[[きらめきドリーマー]] / バルP
++[[機動戦士リンダモ]] / バルP
++[[Dummy Clock]] / 束子P
++[[solitude>solitude/バルP]] / バルP
++[[ライムライト>ライムライト/バルP]] / バルP
++[[夕凪>夕凪/束子P]] / 束子P
++[[きらめきエクスプレス]] / バルP　&color(red){NEW!}
+
+**リンク
+-[[ボーマス7 CD特設サイト>>http://sound.jp/philosophy/ava/]]
+-[[KarenT>>http://karent.jp/album/113]]
+
+**コメント
+//- JOKER  -- 名無しさん  (2009-10-11 20:37:29)
+#comment

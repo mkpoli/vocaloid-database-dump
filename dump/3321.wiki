@@ -1,0 +1,47 @@
+#right(){&furigana(ぎゃくほうこうのまち) &furigana()【登録タグ:&tags() 】}
+//#image(http://tsubu.ath.cx/~ssry/gyaku/gyakuban_l.jpg,title=逆方向の街,http://tsubu.ath.cx/~ssry/gyaku/,blank)
+//&ref(http://tsubu.ath.cx/~ssry/gyaku/gyaku_jac.jpg)
+
+&ref(https://ecdnimg.toranoana.jp/ec/img/04/0010/16/72/040010167291-1p.jpg,x=300,y=300)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[虹色の花]]|CENTER:&bold(){逆方向の街}|CENTER:[[ビビッドカラー・ビューティフルカンバス]]|
+
+|&bold(){[[ゆうゆ]]}|
+
+||CENTER:即売|CENTER:同人|
+|発売|CENTER:2008年12月29日|CENTER:2008年12月29日|
+|価格|CENTER:￥1,000|CENTER:￥1,449（税込）|
+|サークル|>|CENTER:ゆや。|
+
+>作詞：&b(){[[ゆうゆ]],[[TOKO>>a]](Tr.9)}
+>作曲：&b(){[[ゆうゆ]]}
+>ジャケットイラスト・デザイン：&b(){[[tamajam>>http://www.pixiv.net/member.php?id=23223]]}
+
+**CD紹介
+-08年冬コミにて頒布の、ゆうゆ氏のボーカロイドCD第二弾。メディアはプレスCD。
+-前作以降の既発表曲に加え、思い思いに綴った書き下ろし曲を多数含む、全9曲収録。
+-”誰か”は”僕”へ、”僕”は”何処か”へ。届き、響きますように―（公式サイトより）
+-冬コミでの頒布と同時に、[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/16/72/040010167291.html]]にて委託販売が行われています。
+
+**曲目
++[[ハイウェイノート]]
++[[極楽鳥 -bird of paradise-]]
++逆方向の街
++omega plug(inst)
++[[UltraHardAttacks of OddMusiK]]
++[[エレクトロエレジー]]
++[[桜の季節 -Separation-]]
++九十九の旅
++百年の恋
+
+**リンク
+-[[「逆方向の街」特設サイト>>http://tsubu.ath.cx/~ssry/gyaku/]]
+-[[ゆや。>>http://tsubu.ath.cx/~ssry/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/16/72/040010167291.html]]
+
+**コメント
+- 何か切なくていい歌です。。。  -- るーじゅ  (2012-03-31 14:01:42)
+- 曲調が独特で好きです！  -- 名無しさん  (2013-04-25 14:58:37)
+- 伴奏が良き  -- 名無しさん  (2018-02-24 03:43:13)
+#comment

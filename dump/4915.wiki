@@ -1,0 +1,28 @@
+#right(){【登録タグ:&tags()】}
+//↑タグ忘れ防止のための表示
+曖昧さ回避のためのページ
+----
+-[[shu-tP]]の曲
+--[[Shooting Star/shu-tP]]
+-[[MineK]]の曲
+--[[Shooting Star/MineK]]
+-[[shin]]の曲
+--[[shooting star/shin]]
+-[[カニミソP]]の曲
+--[[SHOOTING STAR/カニミソP]]
+-[[カニミソP]]のCD
+--[[SHOOTING STAR/CD]]
+-ぱんちくりん（[[ぱんだっち]]・[[Chiquewa]]・じーこば（[[恋竹林]]）の曲
+--[[Shooting Star/ぱんちくりん]]
+-[[松傘]]の曲
+--[[Shooting star/松傘]]
+-[[KURIS]]・[[YUICHI NAKASE]]・[[TeddyLoid]]の曲
+--[[Shooting Star/KURIS&YUICHI NAKASE]]
+//-[[]]の曲
+//--[[]]
+
+//-類似タイトル
+//-[[]]の曲
+//--[[]]
+
+#include(曖昧さ回避の追加の仕方/告知)

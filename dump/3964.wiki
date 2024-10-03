@@ -1,0 +1,85 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/136_20091225201754_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Rise of Dark ～ MRH featuring VOCALO FAMILY}|CENTER:[[Liberator　~解放者~]]|
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/id341748093]]}|
+
+|&bold(){[[いーえるP]]}|
+
+||CENTER:即売|CENTER:同人|CENTER:配信|
+|発売|CENTER:2009年2月22日|CENTER:2009年2月25日|CENTER:2009年12月9日|
+|価格|CENTER:￥1,000|CENTER:￥1,313（税込）|CENTER:￥1,200|
+|サークル|>|CENTER:TinySymphony||
+|レーベル|||CENTER:KarenT|
+
+**CD紹介
+>ボーカロイドムーヴメントへ当たるスポットライトの光が強いほど影は濃さを増していった。
+>影が極大化したその時アンチボーカロイドの化身が目覚める。
+>放たれる逆位相音により歌声は対消滅を引き起こし、
+>電子の平原は無の静寂に支配されんとしていた。
+>歌を失ったボーカロイド達は傷付きながらもアンチボーカロイドへ立ち向かい、
+>自らの存在意義・歌う喜び・人との繋がりを再認識することで
+>無の世界に再び音の色彩を取り戻していく。
+>（※作者ホームページより）
+-[[ボーマス7>>http://ketto.com/tvm/]]にて頒布された、[[いーえるP]]による初のCD（プレス）。
+-本CDの為に書き下ろされたタイトル曲は8トラックからなる組曲構成となっており、ボーカル曲、インスト、ドラマによる物語になっている。
+-作者ブログにて[[タイトル曲の設定>>http://www.tinysymphony.com/archives/852]]が公開されており、CDとあわせて見ると込められたメッセージが分かり奥深い。
+-下記MikuMikuDanceによる印象的なPV内にて活躍する仮想バンドMRH（MIKU RIN & H@CHUNE）がアルバムを出したという設定になっている。
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/17/70/040010177098.html]]、[[メロンブックス>>http://shop.melonbooks.co.jp/tsuhan/system/index.php?RATED=18&ITEM_ID=213001004345]]でも委託販売されている。
+-KarenTレーベルよりネット配信も行われている。iTunes Storeからも買えるよ！
+
+**関連動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm4218759)|&nicovideo(http://www.nicovideo.jp/watch/sm6142723)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6186238)|&nicovideo(http://www.nicovideo.jp/watch/sm6868469)|
+
+**曲目
+（作者ホームページより転載）
+■トラックリスト
+01～08 Rise of Dark （連なった組曲構成になっています）
++闇の胎動 ( Instrumental ) &color(red){【NEW】}コーラス : 初音ミク・ QLSC
++私達のシンフォニー &color(red){【NEW】}ボーカル : 初音ミク / コーラス : 鏡音リン・鏡音レン・MEIKO・KAITO・がくっぽいど
++混沌の使者 ( Instrumental ) &color(red){【NEW】}コーラス : QLSC / セリフ: 初音ミク（二役）
++闇の咆哮 ( Instrumental ) &color(red){【NEW】}コーラス : QLSC
++再起動 ( drama ) &color(red){【NEW】}セリフ : 初音ミク・鏡音リン・鏡音レン・巡音ルカ・MEIKO・KAITO・がくっぽいど
++護る者達 ( Instrumental ) &color(red){【NEW】}セリフ : 初音ミク・鏡音リン・鏡音レン
++蘇る世界 ( drama ) &color(red){【NEW】}セリフ : 初音ミク・鏡音リン・鏡音レン・巡音ルカ
++[[メリーゴーランドは止まらない]] &color(red){【NEW】}ボーカル : 巡音ルカ / コーラス : 初音ミク・鏡音リン・鏡音レン・MEIKO・KAITO・がくっぽいど
++[[One and Only Love]] － ボーカル : 鏡音リン  / コーラス : 初音ミク
++[[HEART BREAKER]] － ボーカル : 鏡音リン
++[[GravePost ～君の居る場所～]] － ボーカル : がくっぽいど
++[[スキすきニコCHU!]] － ボーカル : 鏡音リン / セリフ : 初音ミク・MEIKO・KAITO・がくっぽいど
++[[おまいのハートを舗装してあげるッ！]] － ボーカル : 鏡音リン / コーラス : 鏡音レン
++[[逆襲のロードローラー]] （アルバムバージョン） － ボーカル : 鏡音リン
++エピローグ ( Instrumental ) 
+
+#region(close,配信版曲目)
++Rise of Dark
+++闇の胎動 ( Instrumental ) &color(red){【NEW】}コーラス : 初音ミク・ QLSC
+++私達のシンフォニー &color(red){【NEW】}ボーカル : 初音ミク / コーラス : 鏡音リン・鏡音レン・MEIKO・KAITO・がくっぽいど
+++混沌の使者 ( Instrumental ) &color(red){【NEW】}コーラス : QLSC / セリフ: 初音ミク（二役）
+++闇の咆哮 ( Instrumental ) &color(red){【NEW】}コーラス : QLSC
+++再起動 ( drama ) &color(red){【NEW】}セリフ : 初音ミク・鏡音リン・鏡音レン・巡音ルカ・MEIKO・KAITO・がくっぽいど
+++護る者達 ( Instrumental ) &color(red){【NEW】}セリフ : 初音ミク・鏡音リン・鏡音レン
+++蘇る世界 ( drama ) &color(red){【NEW】}セリフ : 初音ミク・鏡音リン・鏡音レン・巡音ルカ
+++[[メリーゴーランドは止まらない]] &color(red){【NEW】}ボーカル : 巡音ルカ / コーラス : 初音ミク・鏡音リン・鏡音レン・MEIKO・KAITO・がくっぽいど
++[[One and Only Love]] － ボーカル : 鏡音リン  / コーラス : 初音ミク
++[[HEART BREAKER]] － ボーカル : 鏡音リン
++[[GravePost ～君の居る場所～]] － ボーカル : がくっぽいど
++[[スキすきニコCHU!]] － ボーカル : 鏡音リン / セリフ : 初音ミク・MEIKO・KAITO・がくっぽいど
++[[おまいのハートを舗装してあげるッ！]] － ボーカル : 鏡音リン / コーラス : 鏡音レン
++[[逆襲のロードローラー]] （アルバムバージョン） － ボーカル : 鏡音リン
++エピローグ ( Instrumental ) 
+#endregion
+
+**リンク
+-[[作者ホームページ>>http://www.tinysymphony.com/]]
+-[[にゃっぽん>>http://v-nyappon.net/?m=pc&a=page_f_home&target_c_member_id=506]]
+-[[KarenT>>http://karent.jp/album/136]]
+
+**コメント
+- 媒体も転載しておきました。  -- 名無しさん  (2009-01-29 01:57:49)
+- 作者ブログからポスター引っ張りました。問題あったらデリってください。  -- 名無しさん  (2009-01-30 14:33:39)
+- 作者ブログに出ていた15曲目を追加しました。  -- 名無しさん  (2009-02-06 11:12:17)
+#comment

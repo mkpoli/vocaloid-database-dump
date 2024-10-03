@@ -1,0 +1,45 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+#image(http://debutante.main.jp/debutante2/banner_db2.jpg,width=468,height=90,title=DEBUTANTE II,http://debutante.main.jp/debutante2/,blank)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[DEBUTANTE]]|CENTER:&bold(){DEBUTANTE II}|CENTER:[[DEBUTANTE III]]|
+
+|CENTER:&bold(){k-shi}|CENTER:[[ささくれP]]|CENTER:[[OSTER project]]|CENTER:[[畳P>畳P（North-T）]]|CENTER:[[情熱P]]|CENTER:sick|CENTER:[[DARS]]|
+|CENTER:[[qurter]]|CENTER:[[杏あめ>杏あめ（匿名希望の東京都在住）]]|CENTER:[[シグナルP]]|CENTER:[[yanagiP]]|CENTER:[[ミク詐欺P>ミク詐欺P（右近）]]|CENTER:[[ゆうゆ]]|CENTER:[[cosMo（暴走P）]]|
+
+||CENTER:即売|CENTER:同人|
+|発売|CENTER:2008年9月23日|CENTER:2008年9月23日|
+|価格|CENTER:￥1,000|CENTER:￥1,260（税込）|
+|サークル|>|CENTER:けしスタジオ|
+
+**CD紹介
+-超豪華有名P陣によるオムニバスアルバム『DEBUTANTE』シリーズ第2弾。今回は前回を上回る14名のPが参加！
+-08年9月のボーマス5にて初頒布され、同時に書店での委託販売も行われています。
+-ジャケットイラストは[[憂]]氏が担当。
+
+**曲目
++Kiddy Ground / k-shi  
++[[＊ハロー、プラネット。]] / sasakure.UK  
++[[プリンセス・カウガール・ショー]] / OSTER project  
++ヒトゴミ / North-T  
++[[風の踊り子]] / てとてと@情熱P  
++シンクロ / sick  
++[[数十億の着想と理想から]] / DARS  
++[[Continuous ignition]] / qurter  
++[[Bravery]] / 匿名希望の東京都在住  
++[[Transmit]] / シグナルP  
++[[INTERMISSION]] / yanagi  
++[[サンドスクレイパー -砂漠の特急線-]] / 右近@ミク詐欺P  
++[[極楽鳥 -bird of paradise-]] / ゆうゆ  
++[[Θ]] / cosMo@暴走P  
+
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/8346435" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/8346435">【ニコニコ動画】DEBUTANTE2</a></iframe>)
+
+**リンク
+-[[けしスタジオ>>http://sincere.ddo.jp/]]
+-[[DEBUTANTE II 特設サイト>>http://debutante.main.jp/debutante2/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/cit/pagekit/0000/01/71/0000017187/index.html]]
+
+**コメント
+- やったー＼＾o＾／ 好きな曲多い！ Transmit大好きじゃっ(´Д｀)  -- 茜  (2011-07-18 20:32:51)
+#comment

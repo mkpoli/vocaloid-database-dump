@@ -1,0 +1,35 @@
+#right(){&furigana(ほんしんP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/3077468" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/3077468">【ニコニコ動画】衝動買いした凡人Ｐの挑戦</a></iframe>)
+
+**特徴
+作り手名：『&u(){凡人P}』（&u(){ぼんじんP}）
+-主にカバー・替え歌を投稿する。
+-また、他人のオリジナル曲でも作詞を担当することがある。
+-P名の由来は、活動初期の頃に連発していた「初音ミクを衝動買いした凡人が～」というくだりから。
+
+**リンク
+-[[PIAPRO>>https://piapro.jp/kirima21]]
+
+**曲
+#list_by_tag(凡人P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(凡人PCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm1298753)|&nicovideo(sm1307995)|
+|&nicovideo(sm1364945)|&nicovideo(sm1414387)|
+|&nicovideo(sm1489217)|&nicovideo(sm1546694)|
+|&nicovideo(sm1698651)|&nicovideo(sm1790451)|
+|&nicovideo(sm1895781)|&nicovideo(sm2022388)|
+|&nicovideo(sm2046596)|&nicovideo(sm2102200)|
+|&nicovideo(sm2102525)|&nicovideo(sm2583256)|
+|&nicovideo(sm3224628)|&nicovideo(sm4236474)|
+
+**コメント
+- あーボヤキロイドの人かぁ  -- 名無しさん  (2009-01-19 18:58:29)
+#comment()

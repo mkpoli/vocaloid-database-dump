@@ -1,0 +1,96 @@
+#right(){&furigana() &furigana()【登録タグ:&tags()】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm4520762)|&nicovideo(sm4648379)|
+|&nicovideo(sm12493748)|&youtube(https://www.youtube.com/watch?v=I27ezCgK5ew){342,187}|
+|&nicovideo(sm27839627)|&youtube(https://www.youtube.com/watch?v=OrSWuhF7Xb4){342,187}|
+作詞：[[kaya>kaya/作り手]]
+英訳：[[Metragoon]]（White Color）
+作曲：[[kaya>kaya/作り手]]
+編曲：Glint Of Sound
+唄：[[MEIKO]] (オリジナル)、[[神威がくぽ>がくっぽいど]]・[[MEIKO]] (MG Style)
+
+**曲紹介
+-[[shu-tP]]と[[kaya>kaya/作り手]]のユニット、Glint Of Soundの楽曲。
+-英語版として「Cradle Of Destiny -White Color-」を公開。英訳は[[Metragoon]]氏が手掛ける。
+
+**歌詞
+（[[PIAPRO>>http://piapro.jp/content/0hp8077wtu1num44]]より転載）
+
+街の明かりが　灯り始めて
+微かに震える　夜を彷徨い歩く
+懐かしいのは　この街並みだけじゃなく
+明日に傾けてた想い
+
+いつかはきっと叶うと
+何にも恐れず　信じてた
+あなたがいる　未来だけが
+わたしのすべてだった
+
+
+
+融け始めてく　過去の記憶に
+触れてはこぼれる　あの日流した涙
+
+笑顔に隠した弱さ
+知られないように 過ごしてた
+うつむいてた　あの日だけは
+今でも火傷のまま
+
+
+
+流れてゆく時間の
+波に揺られて
+交わした　瞳の
+奥に夢を抱いて
+
+
+
+いつまでも続いてゆく
+生まれ変わってもまた逢える
+二人がいた　証は今
+時間のゆりかごの中 
+
+**White Color 歌詞
+（動画より書き起こし）
+
+Inside a city of lights　As they started twinkling by
+I subtly start to tremble　As I walk through the night from place to place
+Nostalgia has come again　While I gaze the cityscape for so much more
+Feelings that I am steering towards a tomorrow
+
+Someday I'm sure this dream really will come true
+Furthermore I believe there's not anything to fear
+In a future where you and I stay together
+That is the only thing I want and need
+
+As it starts to melt away the memories of the past
+I felt an urge touching my heart　On that day I had cried so many tears
+
+Those weaknesses I kept hidden in a smile
+I spent some time making sure they would never be know
+Though on that day I found we kept on going down
+Even now it remains a burning wound
+
+Passing by gently with the flow of time
+Being thrown around in waves
+It's embedded deep in our eyes
+In the back of a dream we both embrace
+
+The feelings we share will go on forever
+And when we are reborn I am sure we'll meet again
+Proof of the love we had coming together now
+Resting gently so in a cradle of time
+
+**PV
+&nicovideo(http://www.nicovideo.jp/watch/sm14509004)
+
+**コメント
+- マジかっこいい曲　歌詞も大人でMEIKOに惚れ直した  -- 名無しさん  (2008-10-09 10:46:00)
+- メイコの本気ですねぇ  -- 名無しさん  (2008-10-30 22:09:50)
+- 歌詞かっこいい！！  -- 名無しさん  (2009-01-26 15:00:50)
+- この歌を聴いて、もう一度立ち上がる勇気が沸いてきました。  -- 名無しさん  (2010-07-18 00:35:27)
+//- カイト  -- 名無しさん  (2012-07-07 18:17:49)
+#comment()

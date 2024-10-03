@@ -1,0 +1,25 @@
+#right(){&furigana(clear)&furigana()【登録タグ:&tags()】}
+|&nicovideo(http://www.nicovideo.jp/watch/sm2028954)|&nicovideo(http://www.nicovideo.jp/watch/sm2048734)|
+作詞：[[子猫P]]
+作曲：[[子猫P]]
+編曲：[[子猫P]]
+唄：KAITO（KAITO版）、Prima（Prima版）
+
+**歌詞（KAITO版）
+薔薇咲きこぼれ　空は青し
+其を愛でつつ　君を待たん
+嗚呼馨し君を
+嗚呼未だまみえぬ　心の高鳴りを
+風に乗せん
+
+**歌詞（Prima版、和訳のみ）
+&i(){薔薇の花が咲き乱れている}
+&i(){仰ぎ見る空の青い色}
+&i(){花と空を愛でながら}
+&i(){君を待つこの喜びよ}
+&i(){君はきっといい香りだろう}
+&i(){会えない時間で私は昂ぶる}
+&i(){その興奮を風に乗せるのだ}
+
+**コメント
+#comment()

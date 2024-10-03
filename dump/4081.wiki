@@ -1,0 +1,54 @@
+#right(){&furigana(んちゃP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo_mylist(<iframe width="312" height="176" src="https://ext.nicovideo.jp/thumb_mylist/49131161" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/49131161">【ニコニコ動画】</a></iframe>)|&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/10363960" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/10363960">【ニコニコ動画】にせんきゅ</a></iframe>)|
+
+**特徴
+作り手名：『&u(){ンチャP}』
+-ノリがよく中毒性のある曲を多く作るP。
+-動画及びイラストも自作。
+-曲ごとに顔文字＋擬音を付けるのがお約束（ンチャンチャ(゜∀゜)　ンチャンチャ(゜∀゜),ミョワ------(゜∀゜)-----------ン　など）。
+-現在、初音ミク(DARK)をメインに使用している
+-アーティスト名は、&bold(){啓乃進}。
+-ギター演奏や動画作成といったコラボ作品もあり。
+
+**リンク
+-[[Twitter>>https://twitter.com/knoshin_nchaP]]
+-[[Youtube>>https://www.youtube.com/channel/UClpO3f4sxaLePNCs6NVcH7Q/videos]]
+
+**曲
+#list_by_tag(ンチャP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(ンチャPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**オリジナル曲
+|&nicovideo(nm7165688)|&nicovideo(sm7464922)|
+|&nicovideo(nm7711520)|&nicovideo(sm9980786)|
+|&nicovideo(sm12193716)|&nicovideo(sm13413889)|
+|&nicovideo(sm13636144)|&nicovideo(sm15424276)|
+|&nicovideo(sm15614527)|&nicovideo(sm15995742)|
+|&nicovideo(sm16196176)|&nicovideo(sm16418813)|
+|&nicovideo(sm16841971)|&nicovideo(sm25919571)|
+|&nicovideo(sm26411909)|&nicovideo(sm26763566)|
+|&nicovideo(sm27448036)|&nicovideo(sm27853481)|
+|&nicovideo(sm28715391)|&nicovideo(sm29782642)|
+|&nicovideo(sm29871526)|>|
+**コラボ参加作品
+|&nicovideo(sm6454881)|&nicovideo(sm8092230)|
+|&nicovideo(sm8233533)|&nicovideo(sm13711888)|
+
+**コメント
+- ンチャＰの「僕が生まれた朝」のカッコヨさは異常  -- 名無しさん  (2009-02-01 01:31:13)
+- wikiに載れた！これでかつる！  -- ンチャP  (2009-02-01 01:44:23)
+- 本人ｗ作ってよかったｗ  -- 名無しさん  (2009-02-01 16:26:03)
+- ↑↑ちょｗｗｗンチャPさんｗｗｗ何してんすかｗｗ「氷の風」最高ｗｗ  -- 名無しさん  (2009-07-06 23:44:35)
+- ちょっ、本人様ｗ  -- 名無しさん  (2011-12-08 23:13:04)
+- ンチャPさんの「サン・フェアリー・アン」が大好き!良ければ歌詞を載せていただきたいです?  -- レンLOVE  (2012-02-25 14:50:52)
+- あ、上に本人様！？  -- 名無しさん  (2013-03-08 10:27:49)
+- ファミられた(ry　のインパクトが忘れられない  -- 名無しさん  (2013-08-13 17:10:13)
+- この人のP名口にしたら十中八九ゆちゃPと間違えられそう…  -- 名無しさん  (2013-09-09 20:30:06)
+- Real girl 大好き　アルバム楽しみ  -- 名無しさん  (2016-06-26 16:31:40)
+#comment()

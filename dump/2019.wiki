@@ -1,0 +1,34 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/3910896" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/3910896">【ニコニコ動画】MIKULLICA</a></iframe>)
+
+**特徴
+-メタルを中心としたVOCAROCKを手がけるP。
+-名前の由来はMETALLICAの楽曲から。
+-MIKULLICAと称したMETALLICAの間違ったカバーも手がけている。
+-アニメーションを含む動画製作にも定評がある。
+-重要なタグはロックしないが変なタグはロックすることにも定評がある。
+-ギタープレイにも定評があるが実はバンドではボーカルらしい。
+-サムネイルからも分かるように鎖骨フェチらしい。
+
+**リンク
+-[[ピアプロ>>http://piapro.jp/Fixxxer]]
+
+**曲
+#list_by_tag(Fixxxer,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(FixxxerCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+-&bold(){オリジナル曲}
+|&nicovideo(http://www.nicovideo.jp/watch/sm2205860){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm2749719){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2952017){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm4103475){340,185}|
+-&bold(){カバー曲}
+|&nicovideo(http://www.nicovideo.jp/watch/sm1679644){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm1742679){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3095199){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm3372667){340,185}|
+
+
+**コメント
+- なんだか定評がいっぱいですねｗ  -- 名無しさん  (2008-08-25 06:03:29)
+- この人のロックはくせになるな  -- 名無しさん  (2008-08-25 20:46:23)
+#comment()

@@ -1,0 +1,32 @@
+#right(){&furigana(てたれ) &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/3319829" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/3319829">【ニコニコ動画】ヘタレな手タレ演奏動画記録</a></iframe>)
+
+**特徴
+-通称「アングラ最後の大物」。彼を紹介したことによって「VOCALOIDアンダーグラウンド・カタログ」は最初の使命を終えたとも言える。
+-パーカッションや生楽器の多重録音/録画とミクをフリーダムにシンクロさせた特異な作品を多く発表している。
+-スティーヴ・ライヒなどに代表される現代音楽畑の出自であり、自身のユニットでドラムも叩いている。
+-P名の由来は、実際に手タレ（CM等に手のみで出演するタレント）であることから。ほんとに手がキレイ。
+
+**リンク
+-[[Casa do Teta-rePi >>http://www.geocities.jp/in99m04/tetarepi/]]
+
+**曲
+#list_by_tag(手タレP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(手タレPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm10458398){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm12606399){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7912142){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm6261281){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6685561){340,185}|
+
+**コメント
+- 手タレさんの魅力を伝えるにはまだまだ足りませんが、ひとまず作ってみました  -- 名無しさん  (2008-07-22 22:51:47)
+- ブログのリンクが間違ってるようだったので修正しました。しかし本当にいい曲を作ってる方ですね！感動した！  -- 名無しさん  (2008-07-23 00:33:16)
+- 作っくれた名無しさま、ありがとうございました!  -- 手たれ  (2008-07-23 01:40:56)
+- ちょｗまさかの手タレp登場ｗｗｗドラムにタブラにサンバ楽器とマルチなプレイ、尊敬しています！！自分もそんな風にラテン楽器叩けるようになりたい…！  -- 名無しさん  (2008-07-23 02:17:43)
+- 最近サンバ集団で本気ブラジリアモードらしい。  -- 名無しさん  (2008-08-29 21:06:43)
+- 手タレP最高だよ！！ファンだよ！  -- 名無しさん  (2009-10-20 01:33:35)
+- だれか　マスターベーションの歌詞ものっけてくれないかな？  -- 名無しさん  (2010-07-27 08:28:54)
+#comment()

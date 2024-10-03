@@ -1,0 +1,41 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+#image(wwt.jpg,title=Wktk☆World Tour,blank) 
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Wktk☆World Tour}|CENTER:[[RIN★MELTS]]|
+
+|&bold(){[[アンメルツP]]}|
+
+||CENTER:即売|CENTER:同人|
+|発売|CENTER:2009年2月22日|CENTER:2009年3月|
+|価格|CENTER:￥1,000|CENTER:￥1,050(税込)|
+|サークル|>|CENTER:G.C.M Records|
+
+**CD紹介
+-アンメルツP初めての個人CD。
+-ボーマス7にて初頒布。
+-ユーロダンス、ポップロックを中心に全14曲を収録。
+-初音ミク、鏡音リン・レン、巡音ルカの他、英語版VOCALOIDのSweet Annをボーカルに使用した曲も収録しています。
+
+**曲目
++[[wktk☆Dance '08]]
++Night Light Dance '08
++[[cheeRfuL Harmony '08]]
++Sweet Android
++わがままミシュラン
++ヴァンパイア・ガール
++ヴァンパイア・ボーイ
++[[パンドラの希望]]
++Night Light Dance 2009
++cheeRfuL Harmony '08
++Perfect Love
++ろんり～きゃっと
++ソラネコ×リセットボタン
++僕らの旅路
+
+**リンク
+-[[特設サイト>>http://www.gcmstyle.com/0/release/wktkworldtour/]]
+-[[作者ホームページ(G.C.M)>>http://www.gcmstyle.com/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/17/74/040010177420.html]]
+
+**コメント
+#comment

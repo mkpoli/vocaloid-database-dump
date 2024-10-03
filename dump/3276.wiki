@@ -1,0 +1,47 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/003_20091225190421_0240_0240.jpg)
+
+&youtube(http://jp.youtube.com/watch?v=71T2J6O8fLk&fmt=22)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){NEXT (Ver.i) feat. 初音ミク}|CENTER:[[Looking for>Looking for/CD]]|
+
+|&bold(){[[そそそP]]}|
+
+>&b(){ジャケットイラスト：[[meola]]}
+
+発売：2008年12月16日
+価格：アルバム￥900（税込）、1曲￥150（税込）
+流通：配信
+発売元：KarenT（クリプトン・フューチャー・メディア株式会社）
+
+**CD紹介
+>&bold(){「初音ミクはJ-POPに恋をする。」}
+-そそそPこと津久井箇人氏が満を持して発表する1stボカロフルアルバム。
+-本作は、ピアプロが企画するiTunes配信アルバム第1弾としてiTunes Storeで先行販売されている。（現在CD化の予定は未定）
+-プロのコンポーザーとして活躍するPだからこそ表現できる「懐かしくも新しいJ-POPサウンド」に、あなたもきっと恋をすることでしょう。
+
+**曲目
++[[Next Stage (Album Edition)>Next Stage/そそそP]]　　&color(red){NEW!}
++[[命の翼-Listen to my soul-]]
++[[サヨナラ>サヨナラ/そそそP]]
++[[Prime Drive]]
++Take Off　　&color(red){NEW!}
++Trust You　　&color(red){NEW!}
++My Everything　　&color(red){NEW!}
++[[アリガトウを言えたなら]]
++[[あなたがいるから-Monitor of Love-]]
++[[Shooting Star Prologue]]
++A DAY　　&color(red){NEW!}
++[[きっとこの場所で]]
++Pure Heart　　&color(red){NEW!}
+
+**リンク
+-[[「NEXT (Ver.i) feat. 初音ミク」特設ページ>>http://www.s-tribe.net/next/index.html]]
+-[[作者ホームページ>>http://www.s-tribe.net]]
+-[[KarenT>>http://karent.jp/album/3]]
+-[[iTunes Store>>http://itunes.apple.com/jp/album/next-ver-i-feat-hatsune-miku/id298805146]]
+
+
+**コメント
+#comment

@@ -1,0 +1,52 @@
+#right(){&furigana(ふたりのX'mas Night) &furigana()【登録タグ:&tags()】}
+&nicovideo(http://www.nicovideo.jp/watch/nm5504757)
+作詞：[[ROY]]
+作曲：[[ROY]]
+編曲：[[ROY]]
+唄：初音ミク・神威がくぽ
+
+**曲紹介
+-初音ミクと神威がくぽのハーモニーが奏でるクリスマスバラード。
+-ピアノは自分で弾いてあとはシンセサイザーを使って作曲。
+-KarenTレーベルよりダウンロード販売が行われている。
+
+**KarenT配信
+&ref(http://karent.jp/npdca/127_20091125114525_0240_0240.jpg)
+
+|CENTER:前作|CENTER:今作|CENTER:次作|
+|CENTER:[[Metallized World>Metallized World/CD]]|CENTER:&bold(){二人のX'mas Night}|CENTER:[[Distance to the sky>Distance to the sky/CD]]|
+
+流通：配信
+発売：2009年12月11日
+価格：￥300 / 1曲￥150
+レーベル：[[KarenT>>http://karent.jp/album/127]]
+
+|&bold(){[[iTunes Storeで購入>>http://itunes.apple.com/jp/album/id343004812]]}|
+
+***曲目
++二人のX'mas Night （feat. 初音ミク&がくっぽいど）
++二人のX'mas Night （Original Karaoke）
+
+
+**歌詞
+響き始めた鐘の音が街を包む
+恋人達の幸せそうな笑顔
+
+忙しく過ぎてゆく時間さえ
+今日は何故だかゆっくりと流れてゆく
+
+夕暮れが迫り　窓に灯る光
+あなたが待っている家路を急ぐ
+
+飾られた街並みを白く染める
+降り出した雪　今夜は静かなX'mas Night
+
+この愛の果てに何もなくていいから
+抱きしめていたい　夜が明けるまで…
+
+ろうそくの灯が暖かく部屋を照らす
+交わす口づけ　今夜は二人のX'mas Night
+
+
+**コメント
+#comment()

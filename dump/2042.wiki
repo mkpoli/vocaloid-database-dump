@@ -1,0 +1,42 @@
+#right(){&furigana(なつみP)&furigana()【登録タグ:&tags()】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/5870424" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/5870424">【ニコニコ動画】奈都魅がうｐしたもの</a></iframe>)
+
+**特徴
+-和風ロックによるMEIKOの扱いに定評があるMEIKO使い。
+-他にはミク・リンレン・ルカ・がくっぽいども所持している模様。
+-普通のオリジナル曲のほか、&b(){MEIKO無双}シリーズも投稿している。
+
+**リンク
+-[[夢幻の狂想曲（作者ホームページ）>>http://kitsunemusic.sakura.ne.jp/]]
+-[[PIAPRO>>http://piapro.jp/coconut]]
+
+**曲
+#list_by_tag(奈都魅P,100,sort=furigana)
+
+**CD
+#list_by_tag(奈都魅PCD,100,sort=furigana)
+
+**動画
+***オリジナル曲
+|&nicovideo(http://www.nicovideo.jp/watch/nm2745567){340,185}|&nicovideo(http://www.nicovideo.jp/watch/nm2773339){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/nm2917700){340,185}|&nicovideo(sm5060385)|
+|&nicovideo(sm7044519)|&nicovideo(sm16690560)|
+|&nicovideo(sm18367010)|&nicovideo(sm24842117)|
+|&nicovideo(sm26799627)|&nicovideo(sm34124460)|
+***MEIKO無双シリーズ
+|&nicovideo(http://www.nicovideo.jp/watch/nm2816104){340,185}|&nicovideo(http://www.nicovideo.jp/watch/nm3006854){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/nm3220739){340,185}|&nicovideo(http://www.nicovideo.jp/watch/nm3511021){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/nm3724268){340,185}|&nicovideo(http://www.nicovideo.jp/watch/nm3873462){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/nm4019863){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm4178395){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4254380){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm4361300){340,185}|
+|&nicovideo(sm5585248)|&nicovideo(sm7371896)|
+|&nicovideo(sm11321836)|&nicovideo(sm12647116)|
+|&nicovideo(sm14753120)|&nicovideo(sm16077655)|
+|&nicovideo(sm17202097)|&nicovideo(http://www.nicovideo.jp/watch/nm17795815)|
+|&nicovideo(sm19287102)|&nicovideo(sm25072628)|
+|&nicovideo(sm32212687)|&nicovideo(sm34124517)|
+
+**コメント
+- えっ!!!誰もコメしてねぇし・・奈都魅Pのめーちゃん無双マジかっけぇ。　「艶葉之椛」（いろはのもみじ）誰か追加してくれませんかね・・。  -- とある名無し。  (2011-09-15 14:03:21)
+- この人のめーちゃん好きだ  -- 名無しさん  (2012-04-23 00:56:16)
+#comment()

@@ -1,0 +1,37 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+
+#ref(http://www.raku2u160.com/rkcd-001_s.jpg)
+
+|CENTER:本作|CENTER:次作|
+|CENTER:&bold(){love}|CENTER:[[LOVE（アルバム版）>LOVE/u160(ういろー丸P)CD]]|
+
+|&bold(){[[u160(ういろー丸P)]]}|
+
+発売：2008年11月15日
+価格：￥500（税込）
+流通：即売
+サークル：raku2u160
+
+**CD紹介
+-手刷りで作られた自主製作盤。HPからの通販のみで発売されたのでほとんど知られていない。
+
+**曲目
++[[give me love]]
++[[oh my love]]
++[[体温で愛して]]
++[[be alright]]
++[[大きなハート]]
++[[ハグ！ハグ！ハグ！]]
++[[kids are alright！]]
++[[baby love you]]
++[[little wish>little wish/u160(ういろー丸P)]]
++[[愛のある日々]]
++[[理由]]
++[[I . L . U]]
+
+**リンク
+-[[raku2u160>>http://www.raku2u160.com/]]
+
+**コメント
+- 画像失敗した……誰か修正お願いします  -- 名無しさん  (2008-12-02 14:21:41)
+#comment

@@ -1,0 +1,31 @@
+#right(){&furigana(So-La)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm6243085)|&youtube(https://youtu.be/b5-7BPTycrM?si=LKTRXneCdQqi6Yt8){342,187}|
+|&nicovideo(sm21234866)|&youtube(https://youtu.be/RpmviSE0FxY){342,187}|
+作詞：[[shu-tP]]
+作曲：[[shu-tP]]
+編曲：[[shu-tP]]
+唄：[[MEIKO]]・[[巡音ルカ]] / [[KAITO]] V3・[[MEIKO]](2013)
+
+**曲紹介
+-この曲をもって「shu-t」をちょっとお休み致します。（作者コメントより）
+-後にKAITOV3＆MEIKOでのリアレンジ版も投稿された。
+
+**歌詞
+小さく生まれた光が　海の底で輝きを増す
+見慣れぬ景色　不安になる気持ちと未来への希望
+
+まだ見ぬ明日を求めて　あなたは何処までも泳ぎ続ける
+水面に映る輝かしい未来は　手に届かないまま
+
+あなたは戸惑いながら彷徨う　霞んだ未来に手を伸ばした
+掴むこと出来ない悲しみに溺れて　大空の夢を見る
+
+小さく生まれた光は　戸惑いなく大空へ舞い上がった
+いつまでもあなたは私の傍にいる　見守ってくれる
+
+**コメント
+#comment()

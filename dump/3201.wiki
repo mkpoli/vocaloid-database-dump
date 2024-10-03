@@ -1,0 +1,83 @@
+#right(){&furigana(Love Love)【検索用:&furigana()&space(2)登録タグ:&tags()】}
+#region(目次)
+目次
+#contents
+#endregion
+|&nicovideo(nm3572967)|
+作詞：[[u160(ういろー丸P)]]
+作曲：[[u160(ういろー丸P)]]
+編曲：[[u160(ういろー丸P)]]
+唄：[[初音ミク]]
+
+**曲紹介
+曲名：『&u(){Love Love}』（&u(){ラブ ラブ}）
+-[[u160(ういろー丸P)]]氏、21作品目。
+
+**歌詞
+
+冷めた心に　愛をください
+一生ぶんの　愛をください
+
+Love love give me love
+Love love　君に　love
+Love love　もっと　love
+愛情をぎゅっと
+
+Love love give me love
+Love love　日々に　love
+Love love　強く　love
+心にずっと
+
+よろこびも　苦しみも
+愛してほしい
+悲しみも　ときめきも
+愛してほしい
+
+Love love give me love
+Love love　君に　love
+Love love　もっと　love
+愛情をぎゅっと
+
+Love love give me love
+Kiss kiss kiss me now
+Love love　君へ　love
+愛情をそっと
+
+君のこと　愛せたら
+いつかは笑えるようになるの？
+いつだって　僕らには
+愛が足りない
+
+Love love give me love
+Love love　君に　love
+Love love　もっと　love
+愛情をぎゅっと
+
+Love love give me love
+Love love　日々に　love
+Love love　強く　love
+心にずっと
+
+Love love give me love
+Love love　君に　love
+Love love　もっと　love
+愛情をぎゅっと
+
+Love love we need love
+Love love to your heart
+Love love　いつも　love
+心にそっと
+
+冷めた心に　愛をあげよう
+君の心に　愛をあげよう
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+**コメント
+#comment()
+
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)

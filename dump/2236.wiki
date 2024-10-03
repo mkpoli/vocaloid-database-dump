@@ -1,0 +1,51 @@
+#right(){&furigana(clear) &furigana()【登録タグ:&tags()】}
+&nicovideo(http://www.nicovideo.jp/watch/sm4513879)
+作詞：[[らんらんP]]
+作曲：[[らんらんP]]
+編曲：[[らんらんP]]
+唄：初音ミク
+
+**曲紹介
+-8人のミクが贈る幸せの歌。ミクの英語が流暢な曲。
+
+**歌詞
+（[[ピアプロ>>http://piapro.jp/content/a49pik762387a2ep]]より転載）
+
+あたたかな気持ち　抱きしめて
+あなたのぬくもりに抱かれて
+
+窓越しの日差し　ふれたとき
+夕焼け色にこころが色づくわ
+
+つかみかけた　願い
+もう放さない
+
+Happiness
+
+Happiness
+I'm grateful for my mam and dad
+
+Happiness
+I'm grateful for all of my friends
+
+Happiness
+I'm grateful for my memories
+
+Happiness
+I'm grateful for you...
+
+あなたとみてた未来　夢じゃないよ
+星空までもっていこう
+
+Happiness
+
+わたしの歌声　とどいたかな
+星空の下のみんなへ
+
+Happiness
+
+la la la la...
+
+
+**コメント
+#comment()

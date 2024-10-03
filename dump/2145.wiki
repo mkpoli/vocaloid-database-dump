@@ -1,0 +1,46 @@
+#right(){&furigana(こせんP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/4713061" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/4713061">【ニコニコ動画】作ったもの</a></iframe>)
+
+**特徴
+作り手名：『&u(){ゴゼンP}』
+-主にMEIKOを使い楽曲を投稿しているP。
+-初期はカバー曲も投稿していたが、初オリジナル曲『[[プログラム]]』以降、発表曲はオリジナルメインになる。
+-バラード、ポップス、ロックなど手がけるジャンルは幅広いが、オケの完成度はどれも安定して高い。
+-オリジナル曲『[[日曜日>日曜日/ゴゼンP]]』が週刊VOCALOIDランキング#58EDに採用された。
+-『[[Scarlet M∞N]]』にて自身初の殿堂入りを達成する。
+
+**リンク
+-[[PIAPRO>>https://piapro.jp/mmmzam]]
+-[[KARENT：Artist『ゴゼン』>>https://karent.jp/artist/pp000030]]
+
+**曲
+#list_by_tag(ゴゼンP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(ゴゼンPCD,100,sort=furigana)
+
+**動画
+|&nicovideo(sm2147327)|&nicovideo(sm2370020)|
+|&nicovideo(sm2447703)|&nicovideo(sm2650971)|
+|&nicovideo(sm2848734)|&nicovideo(sm2991584)|
+|&nicovideo(sm3112817)|&nicovideo(sm3482782)|
+|&nicovideo(sm3687538)|&nicovideo(sm4331909)|
+|&nicovideo(sm4395986)|&nicovideo(sm5150645)|
+|&nicovideo(sm5778606)|&nicovideo(sm6444839)|
+|&nicovideo(sm6948245)|&nicovideo(sm7374006)|
+|&nicovideo(sm8714537)|&nicovideo(sm8715938)|
+|&nicovideo(sm8748686)|&nicovideo(sm8920304)|
+|&nicovideo(sm10073799)|&nicovideo(sm10610611)|
+|&nicovideo(sm10818461)|&nicovideo(sm10986241)|
+|&nicovideo(sm12993264)|&nicovideo(sm13000391)|
+|&nicovideo(sm13703412)|&nicovideo(sm16085326)|
+|&nicovideo(sm19663349)|&nicovideo(sm19765621)|
+
+**コメント
+- Scarlet M∞N 凄くいい曲ですｗｗ  -- 千  (2009-12-06 19:57:20)
+- ↑同意ｗｗｗハマった。あれは神曲だろ。  -- 名無しさん  (2012-02-29 19:58:59)
+#comment()

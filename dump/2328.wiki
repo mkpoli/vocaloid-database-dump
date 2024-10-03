@@ -1,0 +1,28 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){THE ENDLESS SKY}|CENTER:[[cacophony>cacophony/CD]]|
+
+|&bold(){[[No.D]]}|
+
+発売：2008年9月23日
+価格：￥500（税込）
+流通：即売
+サークル：我楽多スタジオ
+
+**CD紹介
+-No.DのVOCALOIDアルバム第1弾。全発表曲6曲を収録し、ボーマス5にて初頒布される。
+
+**曲目
++[[Southern Wave！]]
++[[Seeker]]
++[[Echoes]]
++[[ブラックミラー]]
++[[Particles]]
++[[どこまでも広い空を仰いで]]
+
+**リンク
+-[[作者ホームページ>http://garakutastudio.blog.so-net.ne.jp/2008-09-15]]
+
+**コメント
+- 安いっ！採算とか大丈夫なのか、これは‥  -- 名無しさん  (2008-09-19 18:47:11)
+#comment

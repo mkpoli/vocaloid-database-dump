@@ -1,0 +1,52 @@
+#right(){&furigana(Dear)【検索用:&furigana()&space(2)登録タグ:&tags()】}
+#region(目次)
+目次
+#contents
+#endregion
+|&nicovideo(https://www.nicovideo.jp/watch/sm3456045)|&nicovideo(https://www.nicovideo.jp/watch/sm3983571)|
+作詞：[[Tさん]]
+作曲：[[Azell]]
+編曲：[[Azell]]
+唄：[[鏡音レン>鏡音リン・レン]]
+
+**曲紹介
+曲名：『&u(){Dear}』（&u(){ディアー}）
+-バラード風のオケに乗せてレンが切ない想いを歌う、せつないレンうた。
+
+**歌詞
+（[[PIAPRO>>http://piapro.jp/content/dd6bxatx2i5csiva]]より転載）
+
+君と出会ってから　いくつの時が過ぎたの
+はじめの頃は　照れくさくて　顔すら見れなかった
+
+今では　君の瞳を見て「愛してる」と言えるよ
+
+You see. You see.
+君がいないとダメなんだ。
+この想いどうすれば　君に伝わるのかな
+僕の素直な気持ちを　この歌に乗せ君へ
+
+きっと　きっと
+君を幸せにするよ　どんな困難が待っていても
+
+君だけは　僕が守ってみせるから
+これから僕たちの進む道
+君となら歩いてゆける　君じゃなきゃダメなんだ
+
+ずっと　ずっと
+君と寄り添っていたい　君が僕を愛する限り
+
+ボクが君を幸せにしてみせるよ
+君に届けこの想い
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+**コメント
+//- 遊戯王ZEXALとは何だったのか。 &br()http://www.tv-tokyo.co.jp/anime/yugioh-zexal/index2.html &br()http://w.atwiki.jp/kizuna1999/ &br()http://www.nicovideo.jp/watch/so36847474 &br()http://yugioh-wiki.net/ &br()https://mao.5ch.net/test/read.cgi/ranimeh/1693819948  -- 名無しさん  (2023-10-07 16:36:50)
+#comment()
+
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)

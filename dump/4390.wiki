@@ -1,0 +1,37 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+#image(http://karent.jp/npdca/1500_20140413124820_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[P∴Rhythmatiq EXTRA]]|CENTER:&bold(){P∴Rhythmatiq act:03}|CENTER:[[P∴Rhythmatiq act:04]]|
+
+|&bold(){[[Aether_Eru]]}|&b(){[[ゆうP]]}|&b(){[[ノア>ノア(Noah)]]}|
+
+|流通|CENTER:即売|CENTER:同人|CENTER:配信|
+|発売|CENTER:2009年2月22日||CENTER:2014年4月25日|
+|価格|CENTER:￥500||￥600 / 1曲￥150|
+|サークル|>|>|P∴Rhythmatiq|
+
+**CD紹介
+-Aether_Eru、ゆう、Noahの３氏から成るサークル&bold(){P∴Rhythmatiq}（プリズマティック）のサードシングル。
+-ボーマス７にて初頒布。
+-「エレクトロガール」はC75で販売された[[P∴Rhythmatiq EXTRA]]で先行収録されたもの。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++[[ハートフルドライブ]] / Aether_Eru
++Happy Loop!! / ゆう
++エレクトロガール / Noah
++ハートフルドライブ (without miku ver.) / Aether_Eru
++Happy Loop!! (without miku ver.) / ゆう
++エレクトロガール (without miku ver.) / Noah
+
+**リンク
+-[[P∴Rhythmatiq act:03>>http://prq.blog44.fc2.com/blog-entry-69.html]]
+-[[P∴Rhythmatiq EXTRA>>http://prq.blog44.fc2.com/blog-entry-40.html]]
+-[[P∴Rhythmatiq act:02>>http://prq.blog44.fc2.com/blog-entry-31.html]]
+-[[P∴Rhythmatiq act:01>>http://prq.blog44.fc2.com/blog-entry-3.html]]
+-[[作者ホームページ>>http://prq.blog44.fc2.com/blog-category-3.html]]
+-[[KARENT：「P∴Rhythmatiq act:03」>>http://karent.jp/album/1500]]
+
+**コメント
+#comment

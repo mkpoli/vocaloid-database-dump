@@ -1,0 +1,32 @@
+#right(){&furigana(ぷちぷちP)&furigana()【登録タグ:&tags()】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/4233772" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/4233772">【ニコニコ動画】つくったもの</a></iframe>)
+
+**特徴
+-「[[みくみくにしてあげる♪]]」のバカイト的替え歌「[[解雇解雇にしてあげる]]」で知られるKAITO使い
+-他にはリンレンも所持している模様
+-動画のオチにも定評がある
+-他にも既存の作品をバカイト的替え歌にしたものが多い
+-自分でも絵を描いたりPVを作ったり歌ったりする多彩なP。友人である折紙Pにも作画を提供している
+
+**曲
+#list_by_tag(プチプチP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm1901744){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm1919362){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm1949280){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm2001398){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2073659){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm2230359){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2263344){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm2408017){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2407921){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm2515454){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2815217){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm3174018){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3394049){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm3567835){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4070229){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm4070327){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4081954){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm4125613){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4164509){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm4361186){340,185}|
+
+**コメント
+- この人のみなぎるKAITOが大好きだ  -- 名無しさん  (2008-09-13 19:07:34)
+- ひたすら草むしりをさせる動画もシュールでいい  -- 名無しさん  (2008-11-18 10:00:07)
+- この人の生活飛行大好きすぎて困るｗｗｗｗ  -- 名無しさん  (2010-04-18 11:18:12)
+- そして、さり気無く絵が上手いという。  -- 落武者笹  (2010-11-18 21:04:22)
+- 生活飛行が好きｗｗ  -- 名無しさん  (2014-04-06 12:34:54)
+#comment()

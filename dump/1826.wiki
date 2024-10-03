@@ -1,0 +1,42 @@
+#right(){&furigana(はつねげんそう) &furigana()【登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186104700.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[ハツオト]]|CENTER:&bold(){初音幻想}|CENTER:[[初音楽祭]]|
+
+|&bold(){[[nick-9>UPNUSY]]}|
+
+||CENTER:即売|CENTER:同人|
+|発売|CENTER:2008年8月16日|CENTER:2008年8月16日|
+|価格|CENTER:￥1,000|CENTER:￥1,470（税込）|
+|サークル|>|CENTER:Nick-Ninth|
+
+**CD紹介
+-[[nick-9>UPNUSY]]氏によるボーカロイドCD第２弾。08年夏コミでの頒布と同時に、[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/15/65/040010156593.html]]でも販売されています。
+-人気曲「[[コノハナサクヤ>コノハナサクヤ/UPNUSY]]」、「[[rain>rain/UPNUSY]]」等のニコニコ発表曲を中心に、「[[みくのこもりうた]]」や「[[Sound of Virginity]]」の新録版も含めた、ボーカル11曲インスト2曲の合計13曲収録。
+-ボーカロイドCDと32ページのビジュアルストーリーブックがセットになった「ビジュアルストーリーコンセプトアルバム」。イラスト担当はおにねこ氏。
+
+**曲目
++【ReBOOT】　(instrumental) 
++覚醒のアリア 
++彼方へ-Distance- 
++[[コノハナサクヤ]]
++[[rain>rain/UPNUSY]] 
++TWILIGHT VISION 
++森の呼び声　(instrumental)
++Twinbells Ringing! 
++[[みくのこもりうた]] (LR edit)
++妖精幻想曲 ～Fairisia～ 
++[[Sound of Virginity]] (New　Recording)
++わたしはうたう 
++discovery
+
+**リンク
+//-[[Nick-Ninth>>http://nickninth.blog104.fc2.com/]]
+-[[作者ブログ>>http://nickninth.blog104.fc2.com/blog-date-200808.html]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/15/65/040010156593.html]]
+
+**コメント
+- 数ある初音ミクの曲の中で、このＣＤに収録されている『わたしはうたう』は言葉に尽くせないほどの素晴らしい曲だと思う。ビジュアルストーリーブックを併せて読めば、涙なくして聴けない。あくまで私の私的感想ですが、『わたしはうたう』はかのジョンレノンの『イマジン』並の名曲だと断言したい。『初音ミク』という存在が世界に知れ渡ったものならば、この曲を各国の言語に訳して、世界の人たちに聴いてもらいたい。この曲はもっと評価されるべきだ。  -- 名無しさん  (2009-12-07 16:23:23)
+#comment

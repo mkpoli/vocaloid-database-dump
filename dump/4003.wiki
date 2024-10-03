@@ -1,0 +1,33 @@
+#right(){&furigana(おれののうないみくがいちばんかわいい2) &furigana()【登録タグ:&tags() 】}
+
+#image(http://studioiig.com/_src/sc340/sign.png,http://studioiig.com/discography/oremiku2/,title=俺の脳内ミクが一番可愛い2,blank)
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186115410.jpg,x=300,y=300)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[俺の脳内ミクが一番可愛い]]|CENTER:&bold(){俺の脳内ミクが一番可愛い2}|CENTER:[[俺の脳内ミクが一番可愛い3]]|
+
+|&bold(){[[どぶウサギ]]}|&bold(){[[みよ]]}|&bold(){[[oiko]]}|&bold(){[[IIG]]}|&bold(){[[ziki_7]]}|
+
+発売：2008年12月29日
+価格：￥300
+流通：即売
+
+**CD紹介
+-「俺の脳内ミクが一番可愛い」というこだわりの下に制作された前作に続く合同企画CD第2弾。C75で委託頒布。
+-CDのジャケット絵は、じろう氏によるもの。IIG氏によれば、「ちなみにじろう先生への報酬はカレーとアイスでした」。
+
+**曲目
++[[しねばいいのに]] / 作詞：愉快なヴォーパルバニーズ・作曲：[[どぶウサギ]]
++[[世界の針が刻む音]] / 作詞・作曲：[[みよ]]
++[[夕焼けいまじねーしょん-short.ver->夕焼けいまじねーしょん]] / 作詞・作曲：[[oiko]]
++[[la]] / 作詞・作曲：[[IIG]]
++world end / 作曲：[[ziki_7]]
+
+**リンク
+-[[俺の脳内ミクが一番可愛い2（CD特設サイト）>>http://studioiig.com/discography/oremiku2/]]
+
+**コメント
+- しねばいいのに好きだーー!!（ミクの曲じゃないけどｗ  -- 香絵瑠  (2009-08-11 23:46:49)
+- おおw  -- 名無しさん  (2021-07-20 14:51:07)
+#comment

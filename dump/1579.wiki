@@ -1,0 +1,149 @@
+&bold(){VOCALOID系ニコニコミュニティ一覧}
+-例）コミュニティ名　［オーナー名］
+----
+#contents()
+----
+**VOCALOID総合
+-[[VOCALOID総合>>http://com.nicovideo.jp/community/co109]]　［Kossie(こじー) さん］
+
+**VOCALOID別
+-[[初音ミク>>http://com.nicovideo.jp/community/co154]]　［to_see さん］　
+-[[ミク>>http://com.nicovideo.jp/community/co39]]　[PARLOUR さん]　※番号ネタ
+-&del(){[[初音ミク中毒患者総合窓口>>http://com.nicovideo.jp/community/co1004]]　[ントッヶわぅぅ゛ゆぁわは さん]} (閉鎖？)
+-[[鏡音リン>>http://com.nicovideo.jp/community/co1276]]　［まなみん さん］
+-[[VOCALOID2 鏡音レン>>http://com.nicovideo.jp/community/co6870]]　［uup さん］
+-[[MEIKO>>http://com.nicovideo.jp/community/co1243]]　［startra さん］
+-[[KAITO>>http://com.nicovideo.jp/community/co133484]]　［light＠一番星 さん］
+-[[神威がくぽ>>http://com.nicovideo.jp/community/co425]]　［そうや さん］
+-[[巡音ルカ>>http://ch.nicovideo.jp/community/co8814]]　［syn さん］
+-[[Prima>>http://com.nicovideo.jp/community/co1310]]　［ことほぎ さん］
+
+***VOCALOID亜種
+-[[弱音ハク>>http://com.nicovideo.jp/community/co1699]]　［jm ◆GJLfR8Mbtk さん］
+-[[亞北ネル>>http://com.nicovideo.jp/community/co1791]]　［jm ◆GJLfR8Mbtk さん］
+-&del(){[[【ネギ】はちゅねミク【うめえ】>>http://com.nicovideo.jp/community/co2386]]　［コウキ さん］}(閉鎖？)
+-[[外れミク>>http://com.nicovideo.jp/community/co3044]]　［・ｗ・ さん］
+
+***VOCALOIDカップリング
+-[[リン×レン×リン>>http://com.nicovideo.jp/community/co2337]]　[ｎｍ さん]
+-[[【VOCALOID】KAITO＆MEIKO>>http://com.nicovideo.jp/community/co1495]]　[A･I･R さん]
+-[[カイミク>>http://com.nicovideo.jp/community/co3963]]  [koichi　さん]
+
+**UTAU別
+-[[重音テトコミュ>>http://com.nicovideo.jp/community/co3771]]　[KiPCiN さん]
+
+**プロデューサー別
+-[[ぬくもりP>>http://com.nicovideo.jp/community/co426]]　［SilverWolf さん］
+-[[Dios/シグナルP>>http://com.nicovideo.jp/community/co905]]　［twinkledisc さん］
+-[[槇タケポン（デッドボールP）>>http://com.nicovideo.jp/community/co1078]]　［みずか さん］
+-[[くちばしゾーン>>http://com.nicovideo.jp/community/co411822]]　［くちばし　さん］
+-[[【くちばしP】みんなの時間Ⅱ>>http://com.nicovideo.jp/community/co140054]]　［くろまこ さん］
+-[[cosMo@暴走P＋>>http://com.nicovideo.jp/community/co126204]]　［KNG さん］
+-[[azuma@ボクP>>http://com.nicovideo.jp/community/co232257]]　［azuma さん］
+-[[電波P>>http://com.nicovideo.jp/community/co1437]]　［saitamanist さん］
+-[[みなと（流星P）>>http://com.nicovideo.jp/community/co1491]]　［☆崎 さん］
+-[[ゑのすけP/Studio Exiad>>http://com.nicovideo.jp/community/co1497]]　［ゑのすけP さん］
+-[[夕闇P>>http://com.nicovideo.jp/community/co1657]]　［VOCALOFAN(STAR) さん］
+-[[(綺麗な?) ちょいワルP>>http://com.nicovideo.jp/community/co1661]]　［コロリ菌.exe さん］
+-[[HMOとかの中の人>>http://com.nicovideo.jp/community/co1787]]　［コロリ菌.exe さん］
+-[[OSTER project（ふたなりP）>>http://com.nicovideo.jp/community/co2073]]　［たるっち さん］
+-[[VOCALOID 底辺Pの集会所>>http://com.nicovideo.jp/community/co2273]]　［hogehoge さん］
+-[[F.Koshiba（わんだらP）>>http://com.nicovideo.jp/community/co2489]]　［ドニー さん］
+-[[shu-tP@SONIC WAVE>>http://com.nicovideo.jp/community/co2648]]　［qQwQp さん］
+-[[ぺぺろんP>>http://com.nicovideo.jp/community/co2679]]　［ぶれいど。 さん］
+-[[doriko（きりたんＰ）>>http://com.nicovideo.jp/community/co888]]　[コギト さん]
+-[[スイーツ（笑）P>>http://com.nicovideo.jp/community/co1784]]　[Rim さん]
+-[[長細P>>http://com.nicovideo.jp/community/co1841]]　[dasm さん]
+-[[ワンカップP>>http://com.nicovideo.jp/community/co1792]]　[viande さん]
+-[[夕闇P>>http://com.nicovideo.jp/community/co1657]]　[ぼかろふぁん さん]
+-[[場末の歓楽街>>http://com.nicovideo.jp/community/co2633]]　[場末P さん]
+-[[ごきげんよう、マリアPです♪>>http://com.nicovideo.jp/community/co2892]]　[しかづき＠マリアP さん]
+-[[Aliced Twilightz>>http://com.nicovideo.jp/community/co2461]]　[saltmoon さん]
+-[[ryoさん応援コミュ>>http://com.nicovideo.jp/community/co1350]]　[ほくと さん]
+-[[samfree>>http://com.nicovideo.jp/community/co3061]]　[Nostalgic hacK さん]
+-[[kz（ダイソンP）>>http://com.nicovideo.jp/community/co3352]]　[たるっち さん]
+-[[トラボルタP>>http://com.nicovideo.jp/community/co3454]]　［Nostalgic hacK さん］
+-[[宇宙電波受信Ｐ>>http://com.nicovideo.jp/community/co3503]]　[裸時 さん］
+-[[病気Ｐファンコミュ>>http://com.nicovideo.jp/community/co3557]]　[warou さん］
+-[[若干Ｐファンコミュ>>http://com.nicovideo.jp/community/co3892]]　[いろはしょうゆ。 さん]
+-[[マチゲリータP>>http://com.nicovideo.jp/community/co3915]]　[jm ◆GJLfR8Mbtk さん]
+-[[ぶっちぎりP>>http://com.nicovideo.jp/community/co3978]]　[|･ω･´)  さん]
+-[[ソラユニP>>http://com.nicovideo.jp/community/co4328]]  [ganzi　さん]
+-[[よよPだっこし隊>>http://com.nicovideo.jp/community/co4205]]  [voix1429(フェリーニP) さん]
+-[[プチプチP>>http://com.nicovideo.jp/community/co4187]]  [jm ◆GJLfR8Mbtk さん]
+-[[haruna808>>http://com.nicovideo.jp/community/co3602]]  [voix1429(フェリーニP) さん]
+-[[Ｂｕｍｐｙうるし>>http://com.nicovideo.jp/community/co4886]]　[たぁ さん]
+-[[百合んごＰの音楽で遊ぼう♪>>http://com.nicovideo.jp/community/co5434]]　[七々原りんご さん]
+-[[ラマーズP>>http://ch.nicovideo.jp/community/co6502]]　[yamadanoorochi さん]
+-[[碧海吟遊（さだまさP）>>http://ch.nicovideo.jp/community/co9976]]　[JaguarTopia さん]
+-[[北森劇場会議室>>http://com.nicovideo.jp/community/co212659]]　[きたもり さん]
+
+**ジャンル別
+-[[VOCALOID　埋もれ名曲コミュ>>http://com.nicovideo.jp/community/co351]]　［ryuichi さん］
+-[[VOCALOIDアングラコミュ>>http://com.nicovideo.jp/community/co1294]]　［xxxGbaxxx さん］　
+-[[【VOCALOID】 ミクスタシーな部屋 【XJAPAN】>>http://com.nicovideo.jp/community/co2398]]　[SR14 さん]
+-[[ミクトロニカ>>http://com.nicovideo.jp/community/co433]]　[imron さん]
+-[[スナック初音>>http://com.nicovideo.jp/community/co1646]]　[Eclipse01 さん]
+-[[リン・レンの名曲>>http://com.nicovideo.jp/community/co3977]]  [kセイバー　さん]
+-[[ききいるVOCALOID放送局>>http://com.nicovideo.jp/community/co238244]]  [わにぼー2000　さん]
+
+**作品別
+-[[桜ノ雨>>http://com.nicovideo.jp/community/co2875]]　[hemi さん]
+-[[ハジメテノオト>>http://com.nicovideo.jp/community/co1779]]　[Xin さん]
+-[[ブラック★ロックシューター>>http://com.nicovideo.jp/community/co2267]]　[だだぱ さん]
+-[[【初音ミク】みくみくにしてあげる♪【してやんよ】>>http://com.nicovideo.jp/community/co2252]]　[だだぱ さん]
+-[[【初音ミク】メルト【ryo氏名曲】>>http://com.nicovideo.jp/community/co2295]]　[みるきー さん]
+-[[My Brand New Love>>http://com.nicovideo.jp/community/co4202]]  [しぐ☆しぐ＠涙目 さん]
+
+**派生作品別
+-[[卑怯戦隊うろたんだー>>http://com.nicovideo.jp/community/co455]]　［しにょん さん］
+-[[森之宮先生>>http://com.nicovideo.jp/community/co858]]　［ししょー さん］
+-[[本日営業中！森之宮先生シリーズ>>http://com.nicovideo.jp/community/co2861]]　[ふぇるなんでむ さん]
+-[[森之宮神療所☆>>http://com.nicovideo.jp/community/co2870]]　[りの さん]
+-[[みくよん>>http://com.nicovideo.jp/community/co1374]]　[うにぷう(1) さん]
+
+**VOCALOID-PV系
+-[[VOCALOID-PV>>http://com.nicovideo.jp/community/co66]]　［llcheesell さん］
+-[[【VOCALOID】3DPV制作講座【XSI・After Effects】>>http://com.nicovideo.jp/community/co3969]]  [tintirorin さん]
+-[[MikuMikuDance>>http://com.nicovideo.jp/community/co499]]　［じゅんＰ さん］
+-[[【アイドルマスター】Voc@loidM@ster【ボーカロイド>>http://com.nicovideo.jp/community/co2411]]　［19 さん］
+-[[ごきげんミクさん>>http://com.nicovideo.jp/community/co336]]　[naonao さん]
+
+**生放送系
+-[[VOCALOID生放送>>http://ch.nicovideo.jp/community/co14007]]　［wata_z さん］
+-[[鏡音リン・レン～鏡音放送局～>>http://ch.nicovideo.jp/community/co6846]]　［○light○ さん］
+-[[KAITO de LIVE -KAITO生放送専門コミュ->>http://ch.nicovideo.jp/community/co6784]]　［黒砂糖（KdLコミュ主 さん］
+
+**2ch系
+-[[２ちゃんねるyoutube板VOCALOID本スレ出張所>>http://com.nicovideo.jp/community/co881]]　［xaby さん］
+-[[ボカロギロカク>>http://com.nicovideo.jp/community/co486]]　［owari さん］
+
+**SNS系
+-[[ボーカロイドにゃっぽん！出張所>>http://com.nicovideo.jp/community/co1388]]　［ゆひ さん］
+
+**その他
+-[[ボカロ曲歌ってみた限定>>http://ch.nicovideo.jp/community/co10415]]　［Hammerfest さん］
+-[[VOCALOIDマイリスト>>http://ch.nicovideo.jp/community/co7187]]　［Fritz さん］
+-[[週刊Vocaloidランキング>>http://com.nicovideo.jp/community/co2266]]　[エヴァ囧 さん]
+-[[VOCALOID技術向上コミュ>>http://com.nicovideo.jp/community/co1897]]　[失脚 さん]
+-[[VOCALOID喋らせてみたコミュ>>http://com.nicovideo.jp/community/co1866]]　[失脚 さん]
+-[[VOCALOID the world>>http://com.nicovideo.jp/community/co1323]]　[Kossie(こじー) さん]
+-[[ご当地VOCALOIDコミュニティ>>http://com.nicovideo.jp/community/co1348]]　[ゴトカン さん]
+-[[ボカロ図書館。>>http://com.nicovideo.jp/community/co4114]]  [姫っち さん]
+-[[『MEIKO生誕祭2008』実行委員会 コミュ支部>>http://com.nicovideo.jp/community/co4310]]  [レヴィ さん]
+-[[下田麻美>>http://com.nicovideo.jp/community/co2064]]　[Gettan さん]
+-[[VOCALOID！全員集合！！(ボカロ作曲主・ボカロP支援コミュ)>>http://com.nicovideo.jp/community/co1516989]]　[黑齣Pさん]
+
+**お助け
+-[[プレミアム会員数が足りない！【メンバー枠救済】>>http://com.nicovideo.jp/community/co921]]　[やな さん]
+
+#co(){
+追加用テンプレート
+-[[ここにコミュニティ名>>ここにURL]]　[ここにオーナー名 さん]
+}
+※誰でも簡単に編集できるメモ帳です。ご自由にお使い下さい。編集を確定するときは確定ボタンを押してください。
+&memox(cols=1000,rows=4,submit=編集を確定<>大百科の方を御覧下さい↓)
+
+
+  ニコニコ大百科 - VOCALOID関連ニコニコミュニティの一覧
+  http://dic.nicovideo.jp/a/vocaloid%E9%96%A2%E9%80%A3%E3%83%8B%E3%82%B3%E3%83%8B%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3%E3%81%AE%E4%B8%80%E8%A6%A7

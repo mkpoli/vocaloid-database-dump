@@ -1,0 +1,40 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+#image(http://blog-imgs-32.fc2.com/p/r/e/precociousmelodies/20081211000626.jpg,http://precociousmelodies.blog41.fc2.com/,title=Precocious Melodies,blank)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[龍ノ啼ク箱庭拠リ>龍ノ啼ク箱庭拠リ/CD]]|CENTER:&bold(){Precocious Melodies}|CENTER:[[籠の中の雛龍>籠の中の雛龍/CD]]|
+
+|&bold(){[[弱音P]]}|[[アロエP]]|[[ウタP]]|[[オワタP]]|[[レッドカードP]]|[[baker]]|℃iel|
+
+||CENTER:即売|CENTER:同人|
+|発売|CENTER:2008年12月29日|CENTER:2008年12月29日|
+|価格|CENTER:￥1,000|CENTER:￥1,470（税込）|
+|サークル|>|CENTER:Y_Project|
+
+**CD紹介
+-[[弱音P]]による、ボーカロイド・セカンドアルバム。コミックマーケット75にて初頒布と同時に、[[D-STAGE>>http://store.shopping.yahoo.co.jp/d-stage/2900070500012.html]]及び[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/16/89/040010168930.html]]にて委託販売されています。
+-[[前作>龍ノ啼ク箱庭拠リ/CD]]に続き今回も豪華ゲスト陣によるアレンジ・歌ってみた曲を多数収録し、[[弱音P]]の代表曲『[[龍ノ啼ク箱庭拠リ]]』の神威がくぽ版や&br()先行公開された表題曲『[[Precocious Melodies]]』及び未発表曲『雪詠』を含めた全13トラック。
+
+**曲目
++INTRODUCTION（インスト曲）
++[[龍ノ啼ク箱庭拠リ]] (がくっぽいど歌唱版）
++[[この広い空の下で]]
++[[君と望んだ、永遠]]
++[[Precocious Melodies]] 
++[[雪詠]]
++PrecociousAloerina　　by [[アロエP]]
++[[シャイン！（U-ta MIX）>シャイン！]]　　by [[ウタP]]
++砂詠　　by [[オワタP]]
++[[Snow-white Medium Ver.C75>Snow-white Medium]]　　by [[レッドカードP]]　
++shine!　　by [[baker]]
++Precocious Melodies (song by ℃iel)　
++Precocious Melodies -sequel-（インスト曲）
+
+**リンク
+-[[Precocious Melodies公式サイト>>http://precociousmelodies.blog41.fc2.com/]]
+-[[作者ブログ>>http://mejipa.blog16.fc2.com/]]
+-[[D-STAGE>>http://store.shopping.yahoo.co.jp/d-stage/2900070500012.html]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/16/89/040010168930.html]]
+
+**コメント
+#comment

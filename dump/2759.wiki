@@ -1,0 +1,22 @@
+#right(){&furigana(はやP) &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="https://ext.nicovideo.jp/thumb_mylist/21105846" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/21105846">【ニコニコ動画】PYS%2F%E3%81%B1%E3%82%84P%20%E4%BD%9C%E3%81%A3%E3%81%9F%EF%BC%86%E5%BC%BE%E3%81%84%E3%81%9F%EF%BC%86%E3%81%BB%E3%81%8B%E3%80%82</a></iframe>)
+
+**特徴
+-バイオリン、ギター、ベース、ピアノを使い心地よい作品を作るP。
+-色々な作風の作品を発表しているところに経験の深さを感じる。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/payafy]]
+-[[Blog>>http://soundf.com/blog/]]
+
+**曲
+#list_by_tag(ぱやP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(ぱやPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm4177384)|&nicovideo(http://www.nicovideo.jp/watch/sm4897942)|
+
+**コメント
+#comment()

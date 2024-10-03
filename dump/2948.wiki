@@ -1,0 +1,49 @@
+#right(){&furigana(MineK)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/8528081" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/8528081">【ニコニコ動画】ボカロ曲</a></iframe>)|
+
+**特徴
+作り手名：『&u(){MineK}』（&u(){みねっく}）
+-ハウスやテクノポップの曲を中心に発表している実力派のP。
+-がくっぽいど＆MEIKOという珍しい組み合わせのデュエットソングに多く取り組んでいるのも特徴。
+-使用したVOCALOIDはがくっぽいど、初音ミク、MEIKO、巡音ルカ、メグッポイド、ガチャッポイド、KAITO、Mew、Lily、ZOLA PROJECT。
+-また、楽曲の制作ペースは非常に早い。
+-都会的なアレンジが印象的である。
+//-&bold(){みねっく}と読む。
+
+**リンク
+-[[PIAPRO>>https://piapro.jp/minek1025]]
+-[[Twitter>>https://twitter.com/MineK1025]]
+-[[ニコニコ>>https://www.nicovideo.jp/user/6795488]]
+-[[YouTube>>https://www.youtube.com/user/MineK1025]]
+-[[KARENT>>https://karent.jp/artist/pp000054]]
+
+**曲
+#list_by_tagsearch(MineK,sort=furigana2,errmsg=まだ曲が登録されていません。,and,100)
+
+**CD
+#list_by_tagsearch(MineKCD,sort=furigana2,errmsg=まだCDが登録されていません。,and,100)
+
+**動画
+|&nicovideo(nm4613899)|&nicovideo(nm4705405)|
+|&nicovideo(nm4720729)|&nicovideo(nm4940173)|
+|&nicovideo(nm4987263)|&nicovideo(nm5209702)|
+|&nicovideo(nm5408717)|&nicovideo(nm5608996)|
+|&nicovideo(nm5701312)|&nicovideo(nm5736493)|
+|&nicovideo(nm5827215)|&nicovideo(nm5890706)|
+|&nicovideo(nm5955550)|&nicovideo(nm6035510)|
+|&nicovideo(nm6112927)|&nicovideo(nm6112982)|
+|&nicovideo(nm6237763)|&nicovideo(nm6293384)|
+|&nicovideo(nm6365548)|&nicovideo(nm6447384)|
+|&nicovideo(nm6544432)|&nicovideo(nm6663921)|
+|&nicovideo(nm6766739)|&nicovideo(nm6888548)|
+|&nicovideo(nm7074289)|&nicovideo(sm7267433)|
+
+**コメント
+- 心地よいメロディですよねーずっと応援してます！  -- 名無しさん  (2011-09-28 18:21:45)
+- この人の曲は大好きだ  -- 名無しさん  (2011-12-24 14:13:32)
+- Chu♪Chu♪Chu♪から。がくメイも案外合うんだな。応援してます！  -- 雨音クラウ  (2012-08-06 15:54:13)
+#comment()

@@ -1,0 +1,119 @@
+#right(){&furigana(かにみそP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/4413700" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/4413700">【ニコニコ動画】mathruみゅーじっくす</a></iframe>)
+
+**特徴
+作り手名：『&u(){カニミソP}』
+-アーティスト名は、&bold(){mathru}（まさる）。
+-先駆のがくぽマスター。『[[ダンシング☆サムライ]]』でボカロ界をたちどころに洗脳し尽くした。この曲は自身初のミリオンを達成した。
+-代表作からネタ系の印象が強いが、本来得意とするバラードのメロディや、飾らない歌詞の秀逸さには定評がある。
+-がくっぽいど曲では、[[ソワカちゃん>護法少女ソワカちゃん]]を彷彿とさせる自作のイラストを用い、さらに曲の中毒性を高めている。
+-P名は6作目『[[Kanimiso - カニミソ -]]』から。これもまた洗脳性高し。
+-09年12月16日には『[[ダンシング☆サムライ>ダンシング☆サムライ/CD]]』が一般流通で全国発売される。
+-Gackt自らが吟味し選考する企画、「がくっぽいどコンテスト」にて『[[Episode.0]]』がグランプリを受賞するという快挙を成し遂げた。
+-31作目の『[[細菌汚染 - Bacterial Contamination -]]』は『ダンシング☆サムライ』と同じ作曲家が作ったとは思えない幻想狂気系の雰囲気が人気を博し、こちらもミリオンを達成している。
+
+**ミリオン達成状況
+|CENTER:&bold(){曲名}|CENTER:&bold(){100万再生}|CENTER:&bold(){200万再生}|CENTER:&bold(){300万再生}|CENTER:&bold(){備考}|
+|[[ダンシング☆サムライ]]|2009年7月9日|2012年8月19日|2024年1月19日|&bold(){神威がくぽオリジナル曲では史上初}|
+|[[細菌汚染 - Bacterial Contamination -]]|2021年9月30日||||
+
+**リンク
+-[[Twitter>>https://twitter.com/mathru]]
+-[[作者ブログ>>https://mathru.net/]]
+//-[[muzie>>http://www.muzie.co.jp/cgi-bin/artist.cgi?id=a037884]]
+-[[ニコニコ>>https://www.nicovideo.jp/user/1741662]]
+-[[YouTube>>https://www.youtube.com/@mathrunet]]
+
+**曲
+#list_by_tagsearch(カニミソP,sort=furigana2,errmsg=まだ曲が登録されていません。,and,100)
+
+**CD
+#list_by_tagsearch(カニミソPCD,sort=furigana2,errmsg=まだCDが登録されていません。,and,100)
+
+**動画
+|&nicovideo(sm3382691)|&nicovideo(sm3457572)|
+|&nicovideo(sm3536705)|&nicovideo(sm3536800)|
+|&nicovideo(sm3604248)|&nicovideo(sm3728350)|
+|&nicovideo(sm4136912)|&nicovideo(sm4145135)|
+|&nicovideo(sm4333429)|&nicovideo(sm4472021)|
+|&nicovideo(sm4923668)|&nicovideo(sm5137013)|
+|&nicovideo(sm5501562)|&nicovideo(sm5546211)|
+|&nicovideo(sm5803294)|&nicovideo(sm5989245)|
+|&nicovideo(sm6426329)|&nicovideo(sm6475738)|
+|&nicovideo(sm7459284)|&nicovideo(sm7733474)|
+|&nicovideo(sm7782619)|&nicovideo(sm7792086)|
+|&nicovideo(sm9261336)|&nicovideo(sm9420483)|
+|&nicovideo(sm10556561)|&nicovideo(sm11149963)|
+|&nicovideo(sm11572166)|&nicovideo(sm11960854)|
+|&nicovideo(sm15005764)|&nicovideo(sm15145818)|
+|&nicovideo(sm15792643)|&nicovideo(sm15882989)|
+|&nicovideo(sm16203036)|&nicovideo(sm16866804)|
+|&nicovideo(sm17369221)|&nicovideo(sm18331950)|
+|&nicovideo(sm20953969)|&nicovideo(sm24541694)|
+|&nicovideo(sm25958104)|&nicovideo(sm29256533)|
+|&youtube(https://www.youtube.com/watch?v=wPPRqP9JxYA){342,187}|&nicovideo(sm35328978)|
+|&nicovideo(sm37001097)|&nicovideo(sm37005963)|
+|&nicovideo(sm37015628)|&nicovideo(sm37023794)|
+|&nicovideo(sm37053241)|&nicovideo(sm37139232)|
+|&nicovideo(sm37174514)|&nicovideo(sm37206093)|
+|&youtube(https://www.youtube.com/watch?v=3ZYl_AM4tP0){342,187}|&youtube(https://www.youtube.com/watch?v=vUomN3fzWl0){342,187}|
+|&youtube(https://www.youtube.com/watch?v=vUomN3fzWl0){342,187}|&youtube(https://www.youtube.com/watch?v=sX2LxIS63b8){342,187}|
+|&youtube(https://www.youtube.com/watch?v=OyhsHZhfddo){342,187}|&youtube(https://www.youtube.com/watch?v=4IM4SgQ-j1c){342,187}|
+|&youtube(https://www.youtube.com/watch?v=dy7HZUcewYk){342,187}|&youtube(https://www.youtube.com/watch?v=1GDLy03hxTA){342,187}|
+|&youtube(https://www.youtube.com/watch?v=L5ldNvn_itE){342,187}|&youtube(https://www.youtube.com/watch?v=m--fEDjsBQk){342,187}|
+|&youtube(https://www.youtube.com/watch?v=uAb8uHuAT7w){342,187}|&youtube(https://www.youtube.com/watch?v=wLDUivjIP9Y){342,187}|
+|&youtube(https://www.youtube.com/watch?v=4tvwb8Zep4w){342,187}|&youtube(https://www.youtube.com/watch?v=gCjfr7VN7ug){342,187}|
+|&youtube(https://www.youtube.com/watch?v=iedQTMdt1m4){342,187}|&youtube(https://www.youtube.com/watch?v=frCW3REBUvQ){342,187}|
+|&youtube(https://www.youtube.com/watch?v=p2ltTTp-a4A){342,187}|&youtube(https://www.youtube.com/watch?v=MPafxJoQvfE){342,187}|
+|&youtube(https://www.youtube.com/watch?v=7aW56WwEYxg){342,187}|&youtube(https://www.youtube.com/watch?v=o-wdjO45CHI){342,187}|
+|&youtube(https://www.youtube.com/watch?v=5piO8DmA_30){342,187}|&youtube(https://www.youtube.com/watch?v=-pLX3zFLxIo){342,187}|
+|&youtube(https://www.youtube.com/watch?v=gm7gSrL4F7o){342,187}|&youtube(https://www.youtube.com/watch?v=bbEfRxJGDQg){342,187}|
+|&youtube(https://www.youtube.com/watch?v=OAGFdyKEf0Y){342,187}|>|
+//|&nicovideo()|&nicovideo()|
+//|&youtube(){342,187}|&youtube(){342,187}|
+
+**関連タグ内の更新履歴
+#region(close,関連タグ内の更新履歴)
+関連タグ内の更新履歴
+※「カニミソP」「カニミソPCD」タグ内で最近編集やコメントのあった記事を新しい方から10件表示しています。
+#list_by_tagsearch(カニミソP,カニミソPCD,sort=timestamp,sort2=desc,errmsg=まだ曲、CDが登録されていません。,or,10)
+#endregion
+
+**コメント
+- しっかりと歌詞に意味があって大好きです  -- えびみそ  (2009-10-16 20:20:12)
+- がくっぽいどコンテストグランプリおめでとうございます！！  -- 名無しさん  (2009-12-16 12:49:57)
+- 新曲の「武思道　～It is the way of the SAMURAI～ 」がすごくイイ。  -- 名無しさん  (2011-07-13 20:16:04)
+//- ↑のページ作っていただきたい。  -- 名無しさん  (2011-07-14 17:06:52)
+- Episode.0今日Mステで初めて聞いたけど最高！カニミソPおめでとう！  -- 名無しさん  (2011-07-15 20:43:01)
+- Episode.0、がくぽ原曲もいいけどＭステのＧＡＣＫＴのロックサウンドもよかった！カニミソPおめでとう！＾＾  -- 名無しさん  (2011-07-15 21:51:39)
+- 曲名忘れたけどドリクリで聴いた「オラオラ」ってずっと言ってる曲が頭から離れないｗｗ　てかかにみそＰさんの中毒曲を多数生みだすその才能に嫉妬してしまうｗｗ  -- Ｍｏｎｏ  (2011-09-08 00:57:49)
+- カニミソさん 大好k(((((((((  -- †殺嘩†  (2011-09-18 11:34:25)
+- ↑×2 多分、「純情☆ファイター」な希ガスww 私も頭から離れません  -- 名無しさん  (2011-09-19 01:59:56)
+- ｵﾗｵﾗｵﾗｵﾗ…かにみそＰｻﾝのかにﾏｽｸ欲しいｯｽ!  -- リンク  (2011-09-26 02:15:54)
+//- 純情☆ファイターだいスキデス??? 歌詞よろしくお願いします(^_-)-☆  -- トメト  (2011-10-09 08:48:13)
+//- ↑ボカロが歌ってる曲じゃないからWikiには追加できないよ  -- 名無しさん  (2011-10-09 09:08:55)
+- 今度がくぽ新曲を発表するらしい。ネタ曲なんだと  -- 名無しさん  (2011-11-11 21:24:02)
+//- ブラウンのページ作ってくれええ  -- 名無しさん  (2011-11-20 22:01:50)
+- カニミソさんは曲も好きですが、自筆の絵も味があって大好きです。  -- 竜奇  (2011-11-25 21:12:17)
+- かにみそPさん＝細菌汚染っしょ。神曲すぎるもん!!  -- HIRAO  (2012-05-03 10:33:48)
+- どの曲にも中毒があってループから抜け出せません^^かにみそP好きだー←  -- 名無しさん  (2012-08-28 16:50:36)
+- 細菌汚染好きです＼(^o^)／  -- 名無しさん  (2012-10-02 13:32:36)
+- 万華鏡が良すぎて/////////細菌汚染も好きです！  -- Rea♪  (2012-11-12 21:28:04)
+- 細菌汚染 好きﾃﾞｽ＾＾  -- 黒葉美  (2012-12-06 12:44:31)
+- チャラ音シンゴ知ってますか？カニミソさん関係してるらしいですよ\(`∀´)/  -- うらうら  (2012-12-07 19:24:21)
+- ダンシング☆サムライの人なのに細菌汚染まで作れちゃうギャップに微笑んでしまうのは私だけでしょうか  -- 名無しさん  (2012-12-23 18:25:44)
+- ↑同士だw　全く同じ事考えてたwwwww  -- 征真＠キリッシャー  (2013-02-07 03:16:25)
+- ↑はげどww  -- 名無しさん  (2013-03-02 18:20:42)
+//- めぐたん成人をにこやかに聞いているのですがチャンバラーがwikiに無くて途方にくれてます かにみそさんが歌詞を公開してないんでしょうか…  -- 因みに↑3の名無しです  (2013-03-16 11:54:05)
+- ダンシング☆サムライ好き！他に好きなＰさんがいるけど、かにみそＰもいいなぁ…  -- 赤猫  (2013-12-12 22:30:23)
+- もずもずは？  -- 名無しさん  (2014-08-08 00:57:27)
+//- ↑×３作者がネットに正式に上げていない曲の歌詞は、載せる事が出来ません。ご了承ください。  -- 竜奇  (2014-10-12 19:17:34)
+- 多次元解釈の猫がない・・・  -- 名無しさん  (2015-04-06 00:42:17)
+- 真面目な曲とふざけた曲を交互に作るとは流石です。  -- 万年ぼっち♀  (2016-04-13 19:58:32)
+- 源平侍の原曲がわかりません。教えて下さい。  -- 燎平です。  (2016-08-05 16:30:15)
+- 中学歴史と理科で勉強楽しいぃ かにみそさんの曲は神ばかり  -- がくぽは俺の嫁  (2024-08-29 19:31:31)
+#comment()

@@ -1,0 +1,45 @@
+#right(){&furigana(にらP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/6689068" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/6689068">【ニコニコ動画】えりゃーさんの動画</a></iframe>)
+
+**特徴
+作り手名：『&u(){ニラP}』
+-P名の由来にもなった「[[ニラ]]」でブレイクしたP。
+-ブレイク作の影響かネタ曲のイメージが強いが、ガチ曲もよく作る。
+-ミクの他にはリンも使う。
+-アーティスト名は&b(){えりゃー}。
+
+**リンク
+-[[ニコニコ>>https://www.nicovideo.jp/user/6716293]]
+//-[[作者ホームページ>>http://elisabetta.hp.infoseek.co.jp/]]
+//-[[作者ブログ>>https://ameblo.jp/elisabet/]]
+-[[PIAPRO>>https://piapro.jp/elisabetta]]
+//-[[zoome>>http://zoome.jp/elisabetta/]]
+//-[[にゃっぽん>>http://v-nyappon.net/?m=pc&a=page_f_home&target_c_member_id=4788]]
+
+**曲
+#list_by_tag(ニラP,100,sort=furigana)
+
+**CD
+#list_by_tag(ニラPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm3182673)|&nicovideo(sm3317995)|
+|&nicovideo(sm3447175)|&nicovideo(sm3498204)|
+|&nicovideo(nm3923672)|&nicovideo(nm4172853)|
+|&nicovideo(nm4315358)|&nicovideo(nm4483730)|
+|&nicovideo(nm4591894)|&nicovideo(nm4953502)|
+|&nicovideo(nm4997598)|&nicovideo(nm5150529)|
+|&nicovideo(nm5519699)|&nicovideo(nm6025639)|
+|&nicovideo(sm6185263)|&nicovideo(sm7485216)|
+|&nicovideo(sm7528455)|&nicovideo(sm7828280)|
+|&nicovideo(sm8433150)|>|
+
+
+**コメント
+- 凄く清廉された曲ですねv優しいメロディーで、昔のフォークソングを彷彿さる曲は今まで聴いて来た中では斬新でした！  -- 夏霞  (2009-03-19 10:31:48)
+- どこに行ってしまったのだろう....  -- 名無しさん  (2017-05-11 04:13:28)
+#comment()

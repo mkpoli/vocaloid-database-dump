@@ -1,0 +1,38 @@
+#right(){&furigana(かなりあ) &furigana()【登録タグ:&tags() 】}
+//#image(http://ukw.sakura.ne.jp/awaawa/awaawa-k.jpg,width=468,height=90,title=カナリア,http://ukw.sakura.ne.jp/awaawa/kanaria.html,blank)
+
+&ref(https://ecdnimg.toranoana.jp/ec/img/04/0010/16/70/040010167007-1p.jpg,x=400,y=400)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[stripe>stripe/CD]]|CENTER:&bold(){カナリア}|CENTER:[[Rabbit Day Rapid>Rabbit Day Rapid/CD]]|
+
+|&bold(){[[あわあわp]]}|
+
+発売：2008年9月23日
+価格：￥500（税込）
+流通：即売
+サークル：nolfestic
+
+**CD紹介
+-サークル『nolfestic』&bold(){2ndあわばむ}。
+-THE VOC@LOiD M@STER 5 にて頒布。
+
+**曲目
++Introduction「カナリア」
++[[カナリア>カナリア/あわあわp]]
++光射す場所
++スペシャルチョコバナナパフェ
++[[笹の葉Lovers]]
++[[ナイト・ブルーム]]
++[[サヨナラは桜色]]
++[[翼歌-retake->翼歌]]
++[[月歌-another->月歌]]
++[[嘘歌-extra->嘘歌]]
+
+**リンク
+-[[カナリア特設サイト>>http://ukw.sakura.ne.jp/awaawa/kanaria.html　]]
+-[[作者ブログ>>http://nolfest.seesaa.net/]]
+-[[とらのあな>>https://ec.toranoana.jp/tora_r/ec/item/040010167007/]]
+
+**コメント
+#comment

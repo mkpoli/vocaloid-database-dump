@@ -1,0 +1,35 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+#image(http://www004.upp.so-net.ne.jp/dcweb/info/Memories.jpg,title=Last Drop,http://www004.upp.so-net.ne.jp/dcweb/Memories/,blank)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Last Drop]]|CENTER:&bold(){Memories}|CENTER:-|
+
+|&b(){[[だあくP]]}|
+
+||CENTER:即売|CENTER:同人|
+|CENTER:発売|CENTER:2008年9月23日|CENTER:2008年9月23日|
+|CENTER:価格|CENTER:￥800（税込）|CENTER:￥1,155（税込）|
+|CENTER:サークル|>|CENTER:DARK CASTLE|
+
+**CD紹介
+-サークル「DARK CASTLE」の初音ミクCD・第三弾。
+-作詞を高木誠、作曲をベルネイジが担当している。
+-ニコニコ動画では「だあくP」を名乗っている。
+-ロックをメインとした全6曲収録
+-8Pブックレット封入。
+-5曲目は神威がくぽが歌っている。
+
+**曲目
++Memories
++ネガイ
++Prayer
++Burst Angel
++Crystal Wing - version.G -
++Prayer -mondo mix- (インスト曲)
+
+**リンク
+-[[DARK CASTLE>>http://www004.upp.so-net.ne.jp/dcweb/]]
+-[[とらのあな特設ページ>>http://www.toranoana.jp/mailorder/cit/pagekit/0000/01/73/0000017370/index.html]]
+
+**コメント
+#comment()

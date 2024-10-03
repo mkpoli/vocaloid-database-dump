@@ -1,0 +1,34 @@
+#right(){&furigana(ねくすとP)&furigana()【登録タグ:&tags()】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/4962207" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/4962207">【ニコニコ動画】ekusieの動画一覧</a></iframe>)
+
+**特徴
+-リンレンの特性を生かした素直な曲を作るリンレン使い
+-長くDTM界から遠ざかっていたが、リンレン購入を気にDTM界に復帰＆ニコ動デビュー
+-後になってミク・mikiも使い始めた模様
+
+**リンク
+-[[PIAPRO（ネクスト（ekusie））>>http://piapro.jp/ekusie]]
+-[[にゃっぽん>>http://piapro.jp/jump/?url=http%3A%2F%2Fv-nyappon.net%2F%3Fm%3Dpc%26a%3Dpage_f_home%26target_c_member_id%3D439]]
+-[[Twitter>>http://twitter.com/ekusi_]]
+
+**曲
+#list_by_tag(ネクストP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+
+**CD
+#list_by_tag(ネクストPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm2084505)|&nicovideo(http://www.nicovideo.jp/watch/sm2165089)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2583865)|&nicovideo(http://www.nicovideo.jp/watch/sm2912218)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3360370)|&nicovideo(http://www.nicovideo.jp/watch/sm4411002)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4669177)|&nicovideo(http://www.nicovideo.jp/watch/sm5072394)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5986490)|&nicovideo(http://www.nicovideo.jp/watch/sm6038489)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6288691)|&nicovideo(http://www.nicovideo.jp/watch/sm6573351)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm8004240)|&nicovideo(http://www.nicovideo.jp/watch/sm8307629)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm8671929)|&nicovideo(http://www.nicovideo.jp/watch/sm9173097)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9209645)|&nicovideo(http://www.nicovideo.jp/watch/sm9270775)|
+
+**コメント
+- 「NEXT」というタイトルのアルバムが出ています  -- 名無しさん  (2009-02-19 12:29:18)
+#comment()

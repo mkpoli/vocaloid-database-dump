@@ -1,0 +1,46 @@
+#right(){&furigana(あかやかP) &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/8265722" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/8265722">【ニコニコ動画】つくったもの</a></iframe>)
+
+**特徴
+作り手名：『&u(){あかやかP}』
+-「&bold(){AKAYAKA}」とも呼ばれる。
+-アンビエント、エレクトロニカ、ハウス等電子音を多用したオリジナル曲を発表しているボカロP。
+-ボカロ/UTAU/NNI/ゆっくり曲などを投稿している。なおUTAU曲については、全楽曲が音源をMelodyneによりピッチ調整して作られた物であり、ボーカルソフトウェアとしてのUTAUを用いて作られたものではない。
+-2008年に投稿した「[[もっとゆっくりでいいよ]]」「[[ばかだよ？]]」の2曲の棒歌ロイド(softalk)オリジナル曲が大ヒット。棒歌ロイドマスターとして有名に。
+-「ニコニコインディーズ」の創設者・命名者でもある。
+
+**リンク
+-[[作者ブログ>>http://akayaka.blog24.fc2.com/]]
+-[[PIAPRO>>http://piapro.jp/akayaka]]
+-[[Twitter>>http://twitter.com/akayaka]]
+-[[＃akayaka（ホームページ）>>http://akayaka.net/]]
+-[[bandcamp>>http://akayaka.bandcamp.com/]]
+-[[UTAU楽曲データベース「akayaka」>>https://w.atwiki.jp/utauuuta/pages/1955.html]]
+
+**曲
+#list_by_tag(あかやかP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm4539629)|&nicovideo(http://www.nicovideo.jp/watch/sm4678362)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm4853779)|&nicovideo(http://www.nicovideo.jp/watch/nm4863406)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5174245)|&nicovideo(http://www.nicovideo.jp/watch/sm5527072)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5720136)|&nicovideo(http://www.nicovideo.jp/watch/sm5717696)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5891378)|&nicovideo(http://www.nicovideo.jp/watch/sm6037606)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6097478)|&nicovideo(http://www.nicovideo.jp/watch/sm6309765)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9286371)|
+
+-&bold(){棒歌ロイド}
+|&nicovideo(http://www.nicovideo.jp/watch/nm4909432)|&nicovideo(http://www.nicovideo.jp/watch/sm6547849)|
+|&nicovideo(https://www.nicovideo.jp/watch/sm7624638)|&nicovideo(https://www.nicovideo.jp/watch/sm30762595)|
+
+
+**コメント
+- なんかすごいですね  -- 赤也  (2011-08-11 16:16:52)
+- なにが言いたいんですか？  -- きりり  (2011-08-11 16:18:24)
+- この歌好き！！！！  -- りお  (2011-08-11 16:22:27)
+- いいね！かわいー！  -- りつ子  (2011-08-11 16:24:07)
+- 下の絵何・・・・？？？？？？？？？  -- ちひろ  (2011-08-11 16:25:28)
+- あああああああああああああああひま  -- あ鋳  (2011-08-11 16:25:57)
+- ミクⒸかわい～！iloveミク❤  -- おさら  (2011-08-11 16:28:01)
+- ニコニコインディーズってこの人が考えたの  -- 名無しさん  (2023-08-04 11:59:23)
+#comment()

@@ -1,0 +1,41 @@
+#right(){&furigana(redjuice)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+
+**特徴
+作り手名：『&u(){redjuice}』
+-絵師。動画製作・WEBサイトデザインにも長ける。
+-supercellに参加しており、[[ryo]]氏の『[[ワールドイズマイン>ワールドイズマイン/ryo]]』のイラスト・動画を手掛けた。
+-livetuneのメジャーCD『[[Re:Package]]』では、イラストデザイン・特設サイトデザインを担当。
+-それに先立って[[kz]]氏の『[[Last Night, Good Night]]』にPVを提供した。
+-&bold(){"しる"}とも。
+
+**リンク
+-[[Twitter>https://twitter.com/shiru]]
+//-[[作者ホームページ>>http://redjuicegraphics.com/]]
+-[[pixiv>>https://www.pixiv.net/users/3446]]
+//-[[Luvits!インタビュー>>http://luvits.jp/column/pickup/9972/]]
+
+**曲
+#list_by_tag(redjuice,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(redjuiceCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm3504435)|&nicovideo(sm4141643)|
+
+
+**コメント
+- 大好きです：神絵師  -- 豪炎寺  (2009-06-06 19:52:42)
+- あなたの絵大好きです！  -- パンプキンＺ  (2010-07-13 19:37:24)
+- とにかく大好きです！  -- うりょ  (2010-09-23 20:42:49)
+- アンセムズのジャケイラのクリプトンのボカロ達がすごい好きです！  -- 名無しさん  (2011-05-02 16:44:12)
+- だいすきです！  -- 名無しさん  (2011-08-12 19:39:30)
+- いつまでも綺麗な絵を描き続けてください  -- 名無しさん  (2011-11-05 05:58:54)
+- 絵綺麗ですね～  -- ゆうたん  (2013-04-15 18:21:31)
+- 進撃の巨人の予告の後の絵redjuiceさんでビックリした！  -- 名無しさん  (2013-08-19 14:41:25)
+- 初画集おめでとうございまーす！！  -- 名無しさん  (2013-09-16 09:52:00)
+#comment()

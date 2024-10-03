@@ -1,0 +1,35 @@
+#right(){&furigana(なないろりみっくす) &furigana()【登録タグ:&tags() 】}
+//#image(http://www.p-pr.info/image/bn_7re_468.png,http://prq.blog44.fc2.com/blog-entry-8.html,title=七色リミックス)
+&ref(https://blog-imgs-27-origin.fc2.com/p/r/q/prq/7iro_remix.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[P∴Rhythmatiq act:01]]|CENTER:&bold(){七色リミックス}|CENTER:[[P∴Rhythmatiq act:02]]|
+
+|&bold(){[[Aether_Eru]]}||[[ゆうP]]|JOYH-TV|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|CENTER:2008年10月13日||
+|価格|CENTER:￥800|CENTER:1,050（税込）|
+|サークル|>|CENTER:P∴Rhythmatiq|
+
+**CD紹介
+-Aether_Eru氏のエレクトロポップの名曲「[[七色グラデーション]]」のリミックス曲を集めた企画アルバム。
+-M3にて初頒布。現在では、とらのあなのほか、メロンブックス、ホワイトキャンバス、あきばおーこくでも販売されています。
+
+**曲目
++acoustic mix / ゆう
++7th memories mix / Aether_Eru
++Dr.Cripton's Strangelove mix / JOYH-TV
++monochrome mix / ゆう
++Rhythmical house mix / Aether_Eru
++[[Original Sound>七色グラデーション]] / Aether_Eru
++Prototype (without Miku) mix / Aether_Eru
+
+**リンク
+-[[七色リミックス>>http://prq.blog44.fc2.com/blog-entry-8.html]]
+-[[作者ホームページ>>http://prq.blog44.fc2.com]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/cit/pagekit/0000/01/78/0000017847/index.html]]
+
+**コメント
+//- 七色のヘタリア  -- 名無しさん  (2009-09-18 22:35:59)
+#comment

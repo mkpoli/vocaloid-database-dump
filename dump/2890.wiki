@@ -1,0 +1,37 @@
+#right(){&furigana(なちゅらりずむ) &furigana()【登録タグ:&tags() 】}
+#amazon(B001PGZSCI)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){ナチュらリズム}&br()[[漣 -盤上の風-]]|CENTER:-|
+
+|&bold(){[[秦野P]]}|
+
+||CENTER:即売|CENTER:同人| 
+|発売|CENTER:2008年11月30日|CENTER:2009年1月12日| 
+|価格|CENTER:不明|CENTER:￥1,000|
+|サークル|>|CENTER:めくるめく秦野P| 
+
+**CD紹介
+-ボーマス6で頒布される秦野P初のVOCALOIDアルバム。2枚同時リリースの1枚。
+-こちらのCDには、『[[ハト]]』に代表されるポップで遊び心溢れたミクの楽曲を中心に収録。
+-ジャケットは、『[[RAINBOWロード]]』を手がけた[[神楽坂>>http://kjun.blog111.fc2.com/blog-entry-526.html]]氏が担当。
+-バンピーファクトリーよりamazonでも同人流通している。
+
+**曲目
+|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/9118236" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/9118236">【ニコニコ動画】ナチュらリズム</a></iframe>)|&nicovideo(http://www.nicovideo.jp/watch/sm5325055)|
+
++[[ハト]]
++[[テラカゾク]]
++[[レインボーロード>RAINBOWロード]]
++ぱっぱっぱ　&color(red){NEW!}
++牧場のおじいちゃん　&color(red){NEW!}
++星のタテゴト　&color(red){NEW!}
+
+**リンク
+-[[ナチュらリズム/盤上の風特設サイト>>http://jiro9876.sakura.ne.jp/vocaloid/2008cd/]]
+-[[作者ブログ>>http://twentyfour1224.blog72.fc2.com]]
+-[[amazon.co.jp>>http://www.amazon.co.jp/dp/B001PGZSCI]]
+
+**コメント
+- これが至宝、出会えて幸運だった  -- 名無しさん  (2014-11-03 17:01:38)
+#comment

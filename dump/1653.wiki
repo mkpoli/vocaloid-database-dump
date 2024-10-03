@@ -1,0 +1,33 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){DON'T CALL ME ROBOT}|CENTER:-|
+
+|&bold(){[[おパンクP]]}|
+
+発売：2008年6月29日
+価格：￥1,000／￥1,365（税込）
+流通：即売／同人
+サークル：こいあじ
+
+**CD紹介
+-ニコニコ動画で公開されていた6曲に、未発表曲などを加えた全11トラック。
+-作者サイト内に、[[歌詞ページ>>http://onionslice.saikyou.biz/al/01.html]]が設置されています。
+
+**曲目
++OPENING
++[[Song Save the World]]
++[[Link of Light]]
++Don't Call Me Robot
++[[Remember>Remember/おパンクP]]
++[[大切な宝物]]
++[[君と僕>君と僕/おパンクP]]
++d.o.a
++[[Let's Fly Sky-high]]
++BABY
++Don't Say Good-bye
+
+**リンク
+-[[作者webサイト>>http://onionslice.saikyou.biz/]]
+
+**コメント
+#comment

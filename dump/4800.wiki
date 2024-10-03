@@ -1,0 +1,33 @@
+#right(){&furigana(marcury)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/6821549" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/6821549">【ニコニコ動画】自作動画</a></iframe>)
+
+**特徴
+作り手名：『&u(){marcury}』(&u(){まーきゅりー})
+-主にがくっぽいどを使用した曲を投稿している。
+-「YAMAHA MU50」への愛着は相当なもの。
+-生粋のGACKTファン。曲調もその影響を大きく受けたものが多い。
+-「[[-ふらりゆらり-]]」はがくっぽいどコンテストの優秀賞を受賞。
+
+**リンク
+-[[ピアプロ>>http://piapro.jp/marcury]]
+
+**曲
+#list_by_tagsearch(marcury,sort=furigana2,errmsg=まだ曲が登録されていません。,and,100)
+
+**CD
+#list_by_tagsearch(marcuryCD,sort=furigana2,errmsg=まだCDが登録されていません。,and,100)
+
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/nm3008285)|&nicovideo(http://www.nicovideo.jp/watch/nm3412180)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4147962)|&nicovideo(http://www.nicovideo.jp/watch/sm4418000)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4739715)|&nicovideo(http://www.nicovideo.jp/watch/sm5486230)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6075958)|&nicovideo(http://www.nicovideo.jp/watch/sm6403387)|
+
+**コメント
+#comment()

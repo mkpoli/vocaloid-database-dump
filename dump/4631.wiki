@@ -1,0 +1,60 @@
+#right(){&furigana(ふんかP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+//&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/11332155" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/11332155">【ニコニコ動画】ブンガP</a></iframe>)
+//&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/20657533" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/20657533">【ニコニコ動画】</a></iframe>)
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/35190451" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/35190451">【ニコニコ動画】</a></iframe>)
+
+**特徴
+作り手名：『&u(){ブンガP}』
+-2008年5月にニコニコ参入。ミク、ルカを使用しての楽曲を作る。
+-12月、一時撤退。復帰。撤退時、ニコニコ動画内で削除された楽曲は、一部PIAPROで視聴できる。
+-エレクトロニカ、ミニマル、ドラムンベース、民族音楽まで、幅広いジャンルを手がける。
+-丁寧で完成度の高い楽曲と、オリエンタルで幻想的な世界観が持ち味の実力派。
+-民族音楽に造詣が深く、楽曲中にガムランを使用したり、タイ語での楽曲を製作するなど、Pならではの作品が見受けられる。
+-2009年3月現在、インドネシアでガムラン修行中らしい。
+
+**リンク
+-[[YouTube>>https://www.youtube.com/@Tidaltail]]
+-[[PIAPRO>>https://piapro.jp/bungatunjun]]
+//-[[BUNGALANGIT>>http://bungalangit.com/]]
+//-[[旧ブログ>>http://www.voiceblog.jp/bungalangit/]]
+//-[[VOCALOIDのうた！VOCALOTUS COLORATA（新ブログ）>>http://ameblo.jp/vocalotus/]]
+//-[[アメノタマモ>>http://monstar.fm/amenotamamo]]（ボカロトロニカ）
+//-[[BUNGALANGIT>>http://monstar.fm/bungalangit/]]（民族系楽曲紹介と販売）
+-[[KarenT>>https://karent.jp/artist/pp000038]]
+-[[Twitter>>https://twitter.com/RadioTidaltail]]
+
+**曲
+#list_by_tag(ブンガP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(ブンガPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(nm5701337)|&nicovideo(nm6037327)|
+|&nicovideo(nm6117832)|&nicovideo(nm6189101)|
+|&nicovideo(sm6801626)|&nicovideo(sm7520354)|
+|&nicovideo(sm7553435)|&nicovideo(sm7719787)|
+|&nicovideo(sm7747122)|&nicovideo(nm8511491)|
+|&nicovideo(nm8620412)|&nicovideo(sm8725939)|
+|&nicovideo(sm9103387)|&nicovideo(sm9348433)|
+|&nicovideo(nm9377193)|&nicovideo(sm9391261)|
+|&nicovideo(nm9446777)|&nicovideo(nm9523278)|
+|&nicovideo(nm10646174)|&nicovideo(sm10753847)|
+|&nicovideo(sm10855855)|&nicovideo(nm11037344)|
+|&nicovideo(sm11355927)|&nicovideo(sm11402252)|
+|&nicovideo(nm11538437)|&nicovideo(nm11562598)|
+|&nicovideo(sm11814817)|&nicovideo(sm12014606)|
+|&nicovideo(sm12135482)|&nicovideo(nm12256716)|
+|&nicovideo(nm12296128)|&nicovideo(sm12602547)|
+|&nicovideo(sm12646200)|&nicovideo(sm12970787)|
+|&nicovideo(sm13246463)|&nicovideo(sm14480207)|
+|&nicovideo(sm14688293)|&nicovideo(sm14693093)|
+|&nicovideo(sm14706245)|&nicovideo(sm14707370)|
+|&nicovideo(sm14710340)|>|
+
+**コメント
+#comment()

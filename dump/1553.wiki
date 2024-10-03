@@ -1,0 +1,34 @@
+#right(){&furigana(おぱんくP)&furigana()【登録タグ:&tags()】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/3193032" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/3193032">【ニコニコ動画】最近おパンクＰが気に入ってきた</a></iframe>)
+
+**特徴
+-P名通り、VOCAROCK系を中心とした曲によるミク・リンレンの扱いに定評があるP。
+-本来日本語の歌詞の曲を歌うことを目的とされているミク・リンレンに英語詞の曲を歌わせるのも何気に上手い。
+-アーティスト名は&b(){たまねぎ}。サークル名は&b(){こいあじ}。
+
+**リンク
+-[[作者ホームページ>>http://onionslice.saikyou.biz/punk/]]
+-[[ピアプロ（たまねぎ）>>http://piapro.jp/tamanegi_desu]]
+
+**曲
+#list_by_tag(おパンクP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(おパンクPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm1349755){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm1350852){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm1399048){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm1422828){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm1620897){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm1660381){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm1690199){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm1845765){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm1892639){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm1908984){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm1993484){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm2011479){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2052341){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm2069623){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2120901){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm2259191){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2474487){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm2570373){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/nm3839973){340,185}||
+
+**コメント
+- この人の曲好き  -- 名無しさん  (2014-06-29 18:09:27)
+- 凄いね(*´∇｀*)  -- リィン  (2015-07-02 14:12:20)
+#comment()

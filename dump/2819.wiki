@@ -1,0 +1,42 @@
+#right(){&furigana(clear)&furigana()【登録タグ:&tags()】}
+&nicovideo(http://www.nicovideo.jp/watch/sm3627007)
+作詞：[[UPNUSY]]
+作曲：[[UPNUSY]]
+編曲：[[UPNUSY]]
+唄：初音ミク
+
+**歌詞
+Waiting in the rain, lay in the rain.
+So I still remain what feel the pain.
+
+雨上がりの空に虹を見てた　あなたと
+アスファルトの町が雫に揺れる水鏡
+
+通り過ぎた季節　佇むままのわたしに巡る記憶
+雨がまた降り出した…
+
+Waiting in the rain, lay in the rain.
+So I still remain what feel the pain.
+悲しみも流して
+愛しさも溶かして
+
+Waiting in the rain, lay in the rain.
+追憶に委ねて
+
+Everlasting…
+
+Everlasting rain…
+
+&i(){痛みをおぼえながら}
+&i(){わたしはここにいます。}
+
+Waiting in the rain, lay in the rain.
+この雨がいつか止む時は
+わたしの悲しみも
+消えるのだろうか　果てない雨よ
+
+Waiting in the rain…
+Waiting in the rain…
+
+**コメント
+#comment()
