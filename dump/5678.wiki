@@ -1,0 +1,29 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+#image(http://scx-ct.net/pict/album_200/scx_200_r4e.jpg,title=Road of 4 elements特設サイト,http://r4e.amalet.com/,blank)
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Love it!>Love it!/CD]]|CENTER:&bold(){Road of 4 elements}|CENTER:[[羽糸]]|
+
+|&bold(){[[Clean Tears]]}|
+
+発売：2009年2月22日
+価格：￥500（税込）
+流通：即売
+サークル：S.C.X
+
+**CD紹介
+-イベント限定頒布ミニアルバム。2009/6/24時点で[[ボーカロイドマスター7、8>>http://ketto.com/tvm/]]、[[ミクフェス2>>http://miku-fes.info/]]にて頒布。[[Clean Tears]]によるボーカロイドCD第二段。CD-R。
+-ニコニコ動画公開曲「[[Pusse Cafe]]」を含む全4曲収録。
+
+**曲目
++Dream navi
++[[Pusse Cafe]]
++夏恋 -old-fashioned MIX-
++Moon light shadow
+
+**リンク
+-[[S.C.X Homepage>>http://scx-ct.net/]]
+-[[Road of 4 elements特設サイト>>http://r4e.amalet.com/]]
+
+**コメント
+- 再販を・・・  -- ああああ  (2013-09-29 11:56:02)
+#comment

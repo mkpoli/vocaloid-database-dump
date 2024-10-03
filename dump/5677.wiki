@@ -1,0 +1,40 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+#image(http://loveit.amalet.com/img/promotion/loveitbanner01.png,title=Love it!特設ページ,http://loveit.amalet.com/,blank)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Love it!}|CENTER:[[Road of 4 elements]]|
+
+|&bold(){[[Clean Tears]]}|
+
+発売：2008年12月29日
+価格：￥1,000（税込）
+流通：即売or同人
+サークル：S.C.X
+
+**CD紹介
+-[[コミックマーケット75>>http://www.comiket.co.jp/]]にて頒布。[[Clean Tears]]によるボーカロイドCD第一段。プレスCD。
+-ニコニコ動画公開曲「[[虹>虹/Clean Tears]]」や、ピアプロ登録曲、DTMマガジン クリスマスソングコンテスト楽曲や、[[Project DIVA>>http://miku.sega.jp/]]採用楽曲の「[[Love it!]]」等を含む全11曲収録。
+-同人にしては本格的なサイトで仮想の化粧品ブランドとのタイアップというコンセプトがあり、[[特設サイト>>http://loveit.amalet.com/]]には、定期的に化粧品の新製品が出たり、ブログパーツやCMがあったりとかなり凝ったつくり。
+-アートディレクションやデザインなど、表立って発表されていないがおそらくプロと思われる。
+-イベント時にはA2のポスター又は紙袋のおまけがついた。
+
+**曲目
+&nicovideo(http://www.nicovideo.jp/watch/sm5542827)
+
++[[Love it!]]
++Thank you!
++One Voice
++[[虹>虹/Clean Tears]]
++水鏡の庭 -Deep Blue MIX-
++Dancin' Flower
++[[Acceleration]]
++最高のプレゼント
++SUNRISE SUNSET
++SUNRISE SUNSET -Lovery Sky MIX- 
+
+**リンク
+-[[S.C.X Homepage>>http://scx-ct.net/]]
+-[[Love it!特設ページ>>http://loveit.amalet.com/]]
+
+**コメント
+#comment

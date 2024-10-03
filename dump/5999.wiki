@@ -1,0 +1,57 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+#image(http://www.sf.airnet.ne.jp/tkst/takepod/img/dbp3_b.jpg,http://takepod.accela.jp/,title=5/4TAKEPOD,blank)
+
+&ref(http://karent.jp/npdca/969_20111227170413_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[EXIT TUNES PRESENTS THE VERY BEST OF デッドボールP loves 初音ミク]]|CENTER:&bold(){Dead Ball Project vol.3}|CENTER:[[Dead Ball Project vol.4]]|
+
+|&bold(){[[デッドボールP]]}|
+
+||CENTER:即売|CENTER:同人|CENTER:配信|
+|発売|>|CENTER:2009年8月15日|CENTER:2012年1月18日|
+|価格|CENTER:￥1,000|CENTER:￥1,470（税込）|CENTER:￥1,200 / 1曲￥150|
+|サークル|>|>|CENTER:5/4TAKEPOD|
+
+**CD紹介
+-前作から1年ぶりとなる「Dead Ball Project」第3弾。09年夏コミにて初頒布。
+-今回は本編を含めて全4パートから成る特盛り仕様！
+--ルカ曲『[[Japanese Ninja No.1]]』や問題作『[[マンドラゴラ]]』など、vol.2以後の楽曲が収録されるVOCALOIDオリジナル曲パート、&br()名リミックスと名高い『[[鮮紅ノ龍啼ク箱庭拠リ>龍ノ啼ク箱庭拠リ]]』や「てつ×ねこ」提供の『カエルウタ』ミクバージョンなどデP参加曲から成るボーナスパート1、&br()ゲーム「死球少女 デPたん2」のオリジナルサウンドトラックであるボーナスパート2、毎度お馴染みカオスなおまけのボーナスパート3で、全19曲！！
+-ジャケットイラストは空木あんぐ氏。
+-2012年にはKARENTレーベルよりダウンロード販売が開始された。CD版よりTr.1-7、9-11、14、17が収録された全12曲。
+
+**曲目
+　　 1. [[Japanese Ninja No.1]]
+　　 2. [[Wash My Blood]]
+　　 3. [[多分、ネッシー]]
+　　 4. Se:MIKUS
+　　 5. [[筆おろし]]
+　　 6. [[マンドラゴラ]]
+　　 7. [[白夜のイヴを越えて]]
+-&bold(){Bonus Tracks Part1 -デP提供曲-}
+　　 8. [[鮮紅ノ龍啼ク箱庭拠リ>龍ノ啼ク箱庭拠リ]]
+　　 9. カエルウタ　-Miku ver.-
+　　10. のらみく。
+-&bold(){Bonus Tracks Part2 -デPたん2 OST-}
+　　11. PERFECT CLOSER
+　　12. DEVIL'S CRYPT
+　　13. TO MAKE THE END OF SHIMAPAN
+　　14. TERMINATION SAPPORO
+　　15. GAME OVER
+　　16. THE DEADBALL GROW
+-&bold(){Bonus Tracks Part3 -DENPA-}
+　　17. 電撃処女なのかもね！ -Miku ver.-　/ 作詞：デッドボールP、馬鹿の極み　作編曲：デッドボールP
+　　18. カチンコチン -Miku ver.-　/ 作詞：デッドボールP、馬鹿の極み　作編曲：馬鹿の極み
+　　19. デッドボールPの恋したいラジオ・第三回
+
+**リンク
+-[[5/4TAKEPOD Official Website>>http://takepod.accela.jp/]]
+-[[KARENT：「Dead Ball Project vol.3」>>http://karent.jp/album/969]]
+
+**コメント
+- 遂に第3弾ｗｗｗ　やりましたな！デP様！！！　今回も超豪華ですなｗ  -- 名無しさん  (2009-07-26 18:31:16)
+- ﾎﾞｰﾅｽがﾊﾝﾊﾟねぇな。とらのあな委託はいつかなぁ〜  -- 名無しさん  (2009-07-26 22:12:22)
+- とらのあなで予約始まったよ！  -- 名無しさん  (2009-07-27 18:57:27)
+- さすがデＰ、ラジオが最低でした（ほめことば）  -- 名無しさん  (2009-11-19 15:52:01)
+- 永遠に  -- 名無しさん  (2010-01-28 00:07:49)
+#comment

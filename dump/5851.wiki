@@ -1,0 +1,26 @@
+#right(){&furigana(けいし) &furigana()【登録タグ:&tags() 】}
+|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/12179348" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"></iframa><a target="_blank" href=http://www.nicovideo.jp/mylist/12179348">【ニコニコ動画】投稿したものやコラボったものやコラボの人の作品とか</a>)|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/13489496" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"></iframa><a target="_blank" href=http://www.nicovideo.jp/mylist/13489496">【ニコニコ動画】隔離病棟</a>)|
+
+**特徴
+-初期の名前はK氏。但し、同名がいたらしく、当て字で現在（慧梓）に至るらしい。
+-所持ボカロは初音ミク。
+-得意な曲調は、マイナー中心の悲恋など。明るい曲調は苦手？但し、ネタ動画作りは好きな模様。
+-ネタ動画（替え歌）の際は、やっちまったPを名乗っている。「カイト大暴走」から。
+
+**リンク
+-[[ピアプロ>>http://piapro.jp/k_si]]
+
+**曲
+#list_by_tag(慧梓,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/nm6778304)|&nicovideo(http://www.nicovideo.jp/watch/nm6931604)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7075636)|&nicovideo(http://www.nicovideo.jp/watch/nm7117110)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm7267972)|&nicovideo(http://www.nicovideo.jp/watch/sm7415281)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm7482257)|&nicovideo(http://www.nicovideo.jp/watch/nm7482010)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm7488527)|&nicovideo(http://www.nicovideo.jp/watch/nm7571551)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm7620123)|&nicovideo(http://www.nicovideo.jp/watch/sm7609975)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm7690909)||
+
+**コメント
+#comment()

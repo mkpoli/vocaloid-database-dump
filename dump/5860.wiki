@@ -1,0 +1,77 @@
+#right(){&furigana(XIITotem)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(nm7596554)|
+作詞：[[SeikoP]]
+作曲：[[SeikoP]]
+編曲：[[SeikoP]]
+唄：[[巡音ルカ]]
+（一部スキャット：[[SeikoP]]）
+
+**曲紹介
+曲名：『&u(){XII Totem}』
+-デタラメ外国語のトラッド・エレクトロ。
+-呪術的イメージの、妖しさ漂う不思議な曲。
+-背景動画は簡易作画メイキング。
+-初の音源Delay Lama使用曲との事。
+
+**歌詞
+（[[PIAPRO>>http://piapro.jp/content/zw2b1kkc97avjc1y]]より転載）
+
+※造語詞・一部コーラス部分は割愛
+
+ah-areia ah-aile ah-areiya
+
+(turamia turamia) 
+wilsana palsana accela wayhe
+yaccheng xole quinan
+wilsana palsana accela wayhe
+yaccheng xole quinan
+(o palufipa rakecack purukea paanya)
+
+(turamia turamia) 
+wilsana palsana accela wayhe
+yaccheng xole quinan
+wilsana palsana accela wayhe
+yeemv pulcak tempadxi
+
+pulucha maijo marshultt yeng
+avurrumatiola syuruberra taronug
+pingarra recio pharnabi
+pulnicak lubicera sejo
+
+cak rah-raima ah-yalletzasejo
+pingarra recio pharnabi
+pulnicak lubicera sejo
+
+itzza pasla zen yuglasppa...
+
+
+closadyo fie mell syanglira
+syden mereafarmi clanserena
+vio wism palaxiza je selettotemiza
+asta lezmedeo astoa 
+
+telmosapa lumineseuljo 
+vong weijang totemiza
+solmajelta solmeria mahal muuvlei
+
+(turamia turamia) 
+wilsana palsana accela wayhe
+yaccheng xole quinan
+wilsana palsana accela wayhe
+xikiyengno belafandalika reifa
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+**コメント
+- 他の曲でSeikoPの作風（複数部構成とか）に慣れてから聴くと、評価がぐっと上がる曲だと思う。  -- 名無しさん  (2011-10-01 07:37:42)
+#comment()
+
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)

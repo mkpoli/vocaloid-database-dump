@@ -1,0 +1,81 @@
+#right(){&furigana(blue)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(nm4404024)|
+作詞：[[MikSolodyne-ts]]
+作曲：[[MikSolodyne-ts]]
+編曲：[[MikSolodyne-ts]]
+唄：[[初音ミク]]
+
+**曲紹介
+曲名：『&u(){blue}』(&u(){ブルー})
+
+**歌詞
+
+I sing of you　I want be with you
+I think of you　And go forward and go forward
+キミは　スルー　ダカラ　ブルー　　
+ソシテ　ハート　ウチヌケルノ？
+アア
+
+I sing of you　I want be with you
+I think of you　And go forward and go forward
+キミニ　デアウ　ソレハ　キセキ
+ソシテ　ハート　ウチヌケルノ？
+
+I sing of you　I want be with you
+I think of you　And go forward and go forward
+キミハ　スルー　ダカラ　ブルー
+ソシテ　ハート　ウチヌケルノ？
+アア
+
+I love you
+
+飛び交う心に　翼をひろげて
+くちびるは閉じて　歌をうたうから
+地球がほろびる　最後のときまで
+胸には愛する　痛みは勲章
+
+I feel you　I tell you　I want your heart
+I find you believe you And go forward and go forward
+ユレルヒトミ　ヤドルヒカリ
+ソシテ　change the world　ハジマルノヨ
+I love you
+
+I love you
+
+飛び交う心に　翼をひろげて
+くちびるは閉じて　歌をうたうから
+地球がほろびる　最後の　ときまで
+胸には愛　痛みは勲章
+
+飛び交う心に　翼をひろげて
+くちびるは閉じて　歌をうたうから
+地球がほろびる　最後の　ときまで
+胸には愛　痛みは勲章
+
+I sing of you　I want be with you
+I think of you　And go forward and go forward　
+キミニ　デアウ　ソレハ　キセキ
+ソシテ　ハート　ウチヌケルノ？
+
+I sing of you　I want be with you
+I think of you　And go forward and go forward
+キミハ　スルー　ダカラ　ブルー
+ソシテ　ハート　ウチヌケルノ？
+I love you
+
+I love you...
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+**コメント
+#comment()
+
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)

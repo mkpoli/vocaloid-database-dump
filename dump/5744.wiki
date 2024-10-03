@@ -1,0 +1,60 @@
+#right(){&furigana(ますひろP) &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/6085121" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/6085121">【ニコニコ動画】作ったもの、いろいろ</a></iframe>)
+
+**特徴
+- 投稿者名は、鈴掛ヨモギ。
+- 使用VOCALOIDは、初音ミク、IA、ギャラ子。
+- アンビエント、テクノポップ、ノイズミュージック、バラード等、様々なジャンルの曲を手掛ける。
+- 優しいメロディラインと繊細な調声に定評がある。
+- 季節感のある曲と食べ物系の曲が多いのが特徴。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/suzukake]]
+
+**曲
+#list_by_tag(マスヒロP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(マスヒロPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+-&bold(){オリジナル曲}
+|&nicovideo(http://www.nicovideo.jp/watch/sm2954675)|&nicovideo(http://www.nicovideo.jp/watch/sm3017512)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3277783)|&nicovideo(http://www.nicovideo.jp/watch/sm4363111)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4468709)|&nicovideo(http://www.nicovideo.jp/watch/sm5283673)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5357711)|&nicovideo(http://www.nicovideo.jp/watch/sm5638125)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5964789)|&nicovideo(http://www.nicovideo.jp/watch/sm6147716)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6301219)|&nicovideo(http://www.nicovideo.jp/watch/sm6813864)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7397943)|&nicovideo(http://www.nicovideo.jp/watch/sm7476421)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7973518)|&nicovideo(http://www.nicovideo.jp/watch/sm8659175)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm8905869)|&nicovideo(http://www.nicovideo.jp/watch/sm8907179)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9175199)|&nicovideo(http://www.nicovideo.jp/watch/sm9571516)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm11940967)|&nicovideo(http://www.nicovideo.jp/watch/sm12362628)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm13108489)|&nicovideo(http://www.nicovideo.jp/watch/sm13970001)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm15469906)|&nicovideo(http://www.nicovideo.jp/watch/sm16808633)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm16963897)|&nicovideo(http://www.nicovideo.jp/watch/sm17660163)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm18281736)|&nicovideo(http://www.nicovideo.jp/watch/sm18756923)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm19242246)|&nicovideo(http://www.nicovideo.jp/watch/sm19261550)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm19466051)|&nicovideo(http://www.nicovideo.jp/watch/sm19803433)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm20539554)|&nicovideo(http://www.nicovideo.jp/watch/sm21007378)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm21259255)|&nicovideo(http://www.nicovideo.jp/watch/sm21552572)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm21721477)|&nicovideo(http://www.nicovideo.jp/watch/sm22212350)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm22696310)|&nicovideo(http://www.nicovideo.jp/watch/sm23197805)|
+
+-&bold(){コラボ曲}
+#region(close,一覧を見る)
+|&nicovideo(http://www.nicovideo.jp/watch/sm8780368)|&nicovideo(http://www.nicovideo.jp/watch/sm13533548)|
+#endregion
+
+-&bold(){カバー曲}
+#region(close,一覧を見る)
+|&nicovideo(http://www.nicovideo.jp/watch/sm6732016)|&nicovideo(http://www.nicovideo.jp/watch/sm6844102)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm8092489)|&nicovideo(http://www.nicovideo.jp/watch/sm8296420)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm11015852)|&nicovideo(http://www.nicovideo.jp/watch/sm11340923)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm11660371)|&nicovideo(http://www.nicovideo.jp/watch/sm12665785)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm13951452)|&nicovideo(http://www.nicovideo.jp/watch/sm16807944)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm20218865)|
+#endregion
+
+**コメント
+#comment()

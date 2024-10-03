@@ -1,0 +1,67 @@
+#right(){&furigana(Rosemary)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm6594168)|
+作詞：[[Sweet Revenge]]
+作曲：[[Sweet Revenge]]
+編曲：[[Sweet Revenge]]
+イラスト：[[RiRineko]]
+唄：[[巡音ルカ]]
+
+**曲紹介
+曲名：『&u(){Rosemary}』(&u(){ローズマリー})
+-ジャンルは何だろう？ダークオルタナティヴロック？自分で言うのもなんですが変な曲です。(動画コメントより)
+
+**歌詞
+（[[ピアプロ>>http://piapro.jp/content/1e0nulmif7bva8ef]]より転載）
+
+Well, parting time has come
+I sleep deeply and never wake
+But please don't look so sad
+I continue being alive in your memory
+
+Gray scenery,The world that faded
+My eyes can't already look at a color
+The consciousness that is shut little by little
+I have little time
+
+Well, parting time has come
+I sleep deeply and never wake
+But please don't look so sad
+I continue being alive in your memory
+
+Stairs to the sky,The heaven's door
+A courier from the sky goes down before long
+Recollection, Memory without what is lost
+My light disappears soon
+
+Well, parting time has come
+I sleep deeply and never wake
+But please don't look so sad
+I continue being alive in your memory
+
+You seem to be surrounded for a lot of light
+You gave me courage and hope
+Oh, if God hears my wish
+Give me time a little more
+
+I don't want to disappear
+Don't forget me forever
+
+Well, parting time has come
+I sleep deeply and never wake
+But please don't look so sad
+I continue being alive in your memory
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+**コメント
+#comment()
+
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)

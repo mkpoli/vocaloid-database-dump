@@ -1,0 +1,45 @@
+#right(){&furigana(ものくろせかいのつみきあそひ)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+//#image(http://blog-imgs-19.fc2.com/m/o/n/monaca10/jaket8.jpg,http://monaca10.blog116.fc2.com/blog-entry-35.html,title=モノクロセカイの積み木遊び。,blank) 
+
+&ref(https://www.suruga-ya.jp/database/pics_light/game/186114342.jpg,x=300,y=300)
+
+|>|>|CENTER:&bold(){10日P}|
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[プラチナ>プラチナ/CD]]|CENTER:&bold(){モノクロセカイの積み木遊び。}|CENTER:[[10p-tation]]|
+
+|>|>|CENTER:&bold(){kous}|
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:[[はじめての]]&br()&bold(){モノクロセカイの積み木遊び。}|CENTER:[[白い黒]]&br()[[01>01/CD]]|
+
+|&bold(){[[10日P]]}|&bold(){[[kous]]}|hie|
+
+||CENTER:即売|CENTER:同人|
+|発売|CENTER:2009年5月17日|CENTER:2009年6月10日|
+|価格|CENTER:￥500|CENTER:￥735(税込)|
+|サークル|CENTER:monaca:factory|CENTER:kous×monaca|
+
+**CD紹介
+CD名：『&u(){モノクロセカイの積み木遊び。}』（&u(){ものくろせかいのつみきあそび。}）
+-monaca（10日P）とkousがコラボレーションしたミニアルバム。
+-THE VOC@LOiD M@STER 8（ボーマス8）で頒布。
+-とらのあなで委託販売が行われていた。
+
+**曲目
++[[タメイキ]] (Miku.ver)　　　作曲：kous　作詞：hie
++[[kirai.>kirai]] -tear drops MIX-　　　作詞/作曲：kous　アレンジ：monaca
++[[プラチナ]] -ibushi MIX-　　　作詞/作曲：monaca　アレンジ：kous
++SPACE SHIP　&color(red){NEW!}　　　作詞/作曲：monaca
+
+&nicovideo(sm7012338)
+
+**リンク
+//-[[monacaのブログ>>http://monaca10.blog116.fc2.com/blog-entry-35.html]]
+-[[kousのブログ>>http://kous1128.blog22.fc2.com/blog-entry-5.html]]
+//-[[とらのあな>>http://www.toranoana.jp/mailorder/cit/pagekit/0000/02/27/0000022729/index.html]]
+
+**コメント
+#comment

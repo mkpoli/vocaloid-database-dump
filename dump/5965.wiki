@@ -1,0 +1,43 @@
+#right(){&furigana(はいのことん)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/5058257" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/5058257">【ニコニコ動画】詞：はいのことん</a></iframe>)
+
+**特徴
+-作り手名は『&u(){はいのことん}』
+-作詞家の作り手。
+-基本的に [[えこ。]]氏 とのコラボが多いが、[[ぽこたんP]]や[[一行P]]等にも歌詞提供・コラボの実績がある。
+-代表作に「[[トウキョウト・ロック・シティ]]」「[[MY BABY BLUE]]」「[[トカレフと少女]]」。
+-以前は&b(){灰色ことん}と名乗っていた。
+//-2009年11月、「思うところあり」とのことで、突如ピアプロとにゃっぽんを退会。&br()ただし、今後も作詞活動は継続していくとのこと。
+
+**リンク
+//-[[ハイノブログ。（作者ブログ）>>http://highneco.blog26.fc2.com/]]
+-[[ピアプロ>>https://piapro.jp/hainocoton]]
+-[[Twitter>>https://twitter.com/hainocoton]]
+
+**曲
+#list_by_tag(はいのことん,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(はいのことんCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画（再生数・マイリスト数が多いもの）
+|&nicovideo(sm7454296)|&nicovideo(sm2609203)|
+|&nicovideo(sm7128586)|&nicovideo(sm6604788)|
+|&nicovideo(sm4924961)|&nicovideo(sm5674068)|
+|&nicovideo(sm6359489)|&nicovideo(sm3155854)|
+|&nicovideo(sm8375897)|&nicovideo(sm8754399)|
+
+**コメント
+- はいのことんさんのページ出来てて嬉しいです！作成した方ありがとうございます！ &br()この人の歌詞大好きです  -- 名無しさん  (2009-07-23 22:11:32)
+- 歌詞がいつもすごく素敵ですよね。  -- 名無しさん  (2009-10-22 02:19:13)
+- はいのことん(＾ω＾)  -- 名無しさん  (2009-12-20 13:11:49)
+- ボカロ界のピート・シンフィールドと勝手に思っています。  -- 名無しさん  (2010-02-18 09:18:24)
+- この人の詞はほんとに素敵  -- 名無しさん  (2010-11-16 22:22:21)
+- 特にリン曲の歌詞がツボ。純情通りとかは今でも大好き！  -- 名無しさん  (2011-04-09 13:00:21)
+- 素敵です　大好きです  -- りょーん  (2012-11-11 20:00:08)
+
+#comment()

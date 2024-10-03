@@ -1,0 +1,42 @@
+#right(){&furigana(しにしずむ) &furigana()【登録タグ:&tags() 】}
+//#image(http://hikarisyuyo.web.infoseek.co.jp/cynic_banner.jpg,http://hikarisyuyo.web.infoseek.co.jp/cynic.html,title=Cynicism,blank)
+
+&ref(https://cdn.karent.jp/thumb_a/428/428_20100621004238_0400_0400.jpg,x=300,y=300)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[マーシトロン]]|CENTER:&bold(){シニシズム}|CENTER:[[セントラリア]]|
+
+|&bold(){[[光収容]]}|
+
+||CENTER:即売|CENTER:同人|CENTER:配信|
+|CENTER:発売|CENTER:2009年8月15日|CENTER:未定|CENTER:2010年7月9日|
+|CENTER:価格|CENTER:￥1,000|CENTER:￥1,260（税込）|CENTER:￥900 / 1曲￥150|
+|CENTER:サークル|>|CENTER:光収容の倉庫||
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/id379576637]]}|
+
+**CD紹介
+-激情的なリンギターロックで知られる光収容氏の1年ぶりとなる2ndアルバム。09夏コミ（C76）にて初頒布。
+-先行公開された『[[体温]]』『[[偽者の歌]]』『[[チューニング]]』『[[孤独の果て]]』を収録した全9トラック。
+-メロンブックス、とらのあな、あきばお〜こく、D-STAGE各店で委託販売されていたが既に完売。
+-2010年7月にはKarenTレーベルより各音楽配信サイトにてダウンロード販売を開始。
+
+**曲目
+&nicovideo(http://www.nicovideo.jp/watch/sm7886387)
+
++[[孤独の果て]]
++横顔
++[[チューニング]]
++星が落ちた日
++ネガティブフィードバック（inst）
++半分死んでいる
++[[偽者の歌]]
++[[体温]]
++シニシズム
+
+**リンク
+-[[作者ホームページ>>http://www.hikarisyuyo.net/]]
+-[[KarenT>>http://karent.jp/album/428]]
+
+**コメント
+#comment

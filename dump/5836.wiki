@@ -1,0 +1,27 @@
+#right(){&furigana(かんきゆうP) &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://ext.nicovideo.jp/thumb_mylist/20708988" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/20708988">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-benzo（眼球ポンチョ企画）
+-旧名義はlahealthy。
+-バンドサウンドを中心に幅広い作風を持つP。
+-曲だけでなく絵や動画も自作。
+
+**リンク
+//-[[zoome>>http://zoome.jp/gankyu/]]
+-[[作者ブログ>>http://gankyuponcho.blog.fc2.com/]]
+
+**曲
+#list_by_tag(眼球P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(眼球PCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/nm6432636)|&nicovideo(http://www.nicovideo.jp/watch/nm6596279)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6709185)|&nicovideo(http://www.nicovideo.jp/watch/sm7052742)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7389602)|&nicovideo(http://www.nicovideo.jp/watch/sm8068527)|
+
+**コメント
+- ページ名を変更しました。  -- 名無しさん  (2018-08-19 06:11:43)
+#comment()

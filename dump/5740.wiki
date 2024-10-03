@@ -1,0 +1,33 @@
+#right(){&furigana(たなかかすお)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+//&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/8393372" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https ://www.nicovideo.jp/mylist/8393372">【ニコニコ動画】和夫という生き方</a></iframe>)
+
+**特徴
+作り手名：『&u(){田中和夫}』（&u(){たなかかずお}）
+-ユニークな作風でありながら、ストイックな姿勢も感じる作品が多い。
+-音楽的な引き出しが多彩であり、特にピアノを主体とした鍵盤楽器の演奏力は高い。
+
+//**リンク
+//-[[PIAPRO>>https://piapro.jp/nmwadaaki]]
+//
+**曲
+#list_by_tagsearch(田中和夫,sort=furigana2,errmsg=まだ曲が登録されていません。,and,100)
+
+**CD
+#list_by_tagsearch(田中和夫CD,sort=furigana2,errmsg=まだCDが登録されていません。,and,100)
+
+**動画
+|&nicovideo(nm7018507)|&nicovideo(nm7381943)|
+
+**関連タグ内の更新履歴
+#region(close,関連タグ内の更新履歴)
+関連タグ内の更新履歴
+※「田中和夫」「田中和夫CD」タグ内で最近編集やコメントのあった記事を新しい方から10件表示しています。
+#list_by_tagsearch(田中和夫,田中和夫CD,sort=timestamp,sort2=desc,errmsg=まだ曲、CDが登録されていません。,or,10)
+#endregion
+
+**コメント
+#comment()

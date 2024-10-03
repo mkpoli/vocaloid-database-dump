@@ -1,0 +1,29 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/3363974" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/3363974">【ニコニコ動画】おねむりピカチュウを職場に10匹ぐらい置いてたら怒られました。 ＞ （- ゜ っ</a></iframe>)
+
+**特徴
+- 星のカービィ組曲「THE MEDLEY OF KIRBY SSDX」など、メドレーやアレンジで有名な作者。
+- つまみーなPとも呼ばれる。AOiRO_Manbowという名義でも活動している。
+- 幅広いジャンルに手を出しており、VOCALOIDのPとしてもオリジナル曲を発表している。
+
+**ミリオン達成状況
+|CENTER:&bold(){曲名}|CENTER:&bold(){100万再生}|CENTER:&bold(){備考}|
+|[[イッシュのポケモン　言えるのか！]]|2017年1月20日|&bold(){mikiを用いたオリジナル曲では史上初}&br()&bold(){リュウトを用いたオリジナル曲では史上初}&br()[[mazoP]]氏、[[大丈夫P]]氏、&br()[[じたばたP]]氏、[[鬱P]]氏、[[生㌔P]]氏との共作|
+
+**リンク
+-[[はぴぶろぐ>>http://hapinano.blog60.fc2.com/]]
+
+**曲
+#list_by_tag(hapi⇒,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(hapi⇒CD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm2143500)|&nicovideo(http://www.nicovideo.jp/watch/sm5630203)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6078306)|&nicovideo(http://www.nicovideo.jp/watch/sm7017661)|
+
+**コメント
+- あたまのたいそう大好きﾃﾞｽっ!  -- みくーん  (2011-11-12 08:27:52)
+- ピカチュウかわいい  -- ちりふあいか  (2012-01-04 08:08:30)
+#comment()

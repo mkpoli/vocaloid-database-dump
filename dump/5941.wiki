@@ -1,0 +1,46 @@
+#right(){&furigana(clear) &furigana()【登録タグ:&tags() 】}
+#amazon(B002FHSCME)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Heartsnative}|CENTER:[[みんなみくみくにしてあげる♪~Heartsnative2~]]|
+
+|&bold(){[[ika]]}|&bold(){[[MOSAIC.TUNE]]}|
+
+発売：2009年10月21日
+価格：￥2,480（税込）
+流通：全国
+レーベル：エンターブレイン
+
+**CD紹介
+-「&bold(){ヒトとミクとのココロをつなぐ、電子の海でのhearts native feeling──}」（公式サイトより）
+-『[[みくみくにしてあげる♪]]』で知られるikaこと鶴田加茂氏と音楽ユニット「MOSAIC.WAV」とのコラボレーションCD。&br()本作にはなんと『[[みくみくにしてあげる♪]]』のフルバージョンリミックスが収録される。 
+-そのほかika、MOSAIC.WAVの書き下ろしの新曲3曲と、MOSAIC.WAV楽曲のミク×み～こカバーなどを収録。
+-ジャケットは、[[鼻そうめんP]]ことかんざきひろ氏。
+
+**曲目
++[[みんなみくみくにしてあげる♪]] / み～こ & 初音ミク
++＊＊＊にできたかな / MIEKO & KAYATO & 初音ミク & 巡音ルカ
++電気の恋人 -I am Programmer's Song- /* VL-3901mkII */ / み～こ & 初音ミク
++server error　&color(red){NEW!} / み～こ & 初音ミク
++キミは何テラバイト？ ～Chorus of 6 Vocaloids～ / 初音ミク & 鏡音リン & 鏡音レン & 巡音ルカ & MEIKO & KAITO
++HATSUNEtive　&color(red){NEW!} / み～こ & 初音ミク
++Mimic me.　&color(red){NEW!} / み～こ & 初音ミク
+
+**リンク
+-[[「Heartsnative」公式サイト>>http://www.enterbrain.co.jp/magical-cute/sp/heartsnative/]]
+-[[MOSAIC.WAV>>http://web.mosaicwav.com/article/30528068.html]]
+-[[amazon.co.jp>>http://www.amazon.co.jp/dp/B002FHSCME]]
+
+**コメント
+- なぬ！鼻そうめんPが仕事してるｗｗｗ  -- 名無しさん  (2009-07-24 19:30:24)
+- この人の絵は好きだな  -- 名無しさん  (2009-08-03 13:33:15)
+- server errorが好きだなあ。ミクとみ〜この声に違和感がなくていい。  -- 名無しさん  (2009-11-02 18:32:05)
+- ミクとMOSAIC.WAVのコラボは個人的には神コラボです  -- 名無しさん  (2009-11-17 14:53:57)
+- みんなみくみくにしてあげる♪は感動モノでしたww  -- 名無しさん  (2009-12-15 19:09:47)
+- HATSUNEtive最高です。  -- 初音ﾌｧﾝ418  (2010-03-15 21:50:48)
+- みんなみくみくにしてあげる♪ってミクとだれが歌ってるの？  -- 名無しさん  (2010-12-26 00:53:43)
+- み～こって人  -- 名無しさん  (2011-01-04 10:47:46)
+- まって、MIEKOとKAYATOってだれｗｗｗｗ  -- 名無しさん  (2014-03-18 21:30:43)
+- MIEKOとKAYATOはMOSAIC.WAVのみ～こと柏森進の声をサンプリングして人力VOCALOID化したものだよ  -- 名無しさん  (2015-08-03 03:23:40)
+- 明日、買うぜー！！！  -- taiga-oga-oga  (2015-11-07 19:57:31)
+#comment

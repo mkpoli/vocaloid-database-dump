@@ -1,0 +1,58 @@
+#right(){&furigana(Crosslight)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+#amazon(B002BV0U42)
+
+|&nicovideo(sm7860803)|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[COSMiCA/CD]]|CENTER:&bold(){Crosslight}|CENTER:[[こっち向いて Baby / Yellow>こっち向いて Baby／Yellow]]|
+
+|&bold(){[[kz]]}|
+
+発売：2009年8月26日
+価格：￥2,500（税込）
+流通：廃盤
+レーベル：LOiD
+
+**CD紹介
+CD名：『&u(){Crosslight}』
+-音楽、マンガ、カラーイラストという異なる表現が交差して、ひとつの新しい物語を映しだす、&br()オリジナル・ストーリー・アルバム。
+-サウンドプロデュース・&bold(){kz（livetune）}&br()キャラクターデザイン/マンガ/監修・&bold(){ゆうきまさみ}&br()イラストレーション/キャラクターデザイン協力・&bold(){うっけ}
+-付属の全32Pとなるブックレットには、ゆうき氏書き下ろしマンガや、&br()うっけ氏の各曲をイメージしたフルカラーイラストが掲載。
+-ゆうき氏がkzの大ファンと公言していることから今回のコラボレーションが実現した。
+-LOiDレーベル消滅に伴い、2011年1月31日で廃盤となった。
+
+**曲目
++Overture（instrumental）
++I.C（I, See） / feat.初音ミク
++Initial song / feat.初音ミク
++Panorama Future（instrumental）
++[[COSMiCA]] / feat.Megpoid
++Sepia / feat.初音ミク
++Crosslight / feat.Megpoid & 初音ミク
+
+**幻の8曲目「After Party」
+-2010年09月11日、[[よよP]]によって投稿された「[[After Party]]」は、ブックレット掲載の楽譜から作られた楽曲だった。&br()これを受ける形で[[LOiDのブログ>>http://loid.asia/news/]]では楽譜を自由に使用する許可を発表した。以下、引用。
+>この楽譜の曲に関してはどなたでも自由にお作りいただいて構いません。
+>コードや、歌詞も全て勝手に付けてくださって構いません。どなたでもご自由に楽曲を発表下さいませ。
+
+|&nicovideo(sm12071207)|
+
+**リンク
+-[[Crosslight 公式ウェブサイト>>http://www.crosslight-project.net/]]
+//-[[livetune OFFICIAL WEB SITE>>http://livetune.syncl.jp/]]
+-[[ゆうきまさみのにげちゃだめかな？>>https://www.yukimasami.com/]]
+//-[[LOiD>>http://loid.syncl.jp/]]
+-[[Amazon>>https://www.amazon.co.jp/dp/B002BV0U42]]
+
+**コメント
+- kz節炸裂！GUMI曲がいい！！迷ってたけどこれは買いだなー  -- 名無しさん  (2009-08-08 10:56:25)
+- 即予約余裕でした。ミクもいいけど、GUMI曲が想像以上によかったわぁ。  -- 名無しさん  (2009-08-10 12:32:51)
+- やばいなー。すごいいい作品だ。音と絵とマンガとで、なんか頭がすごく働かされる～  -- 名無しさん  (2009-08-27 16:10:42)
+- sepia→crosslightの流れで鳥肌たった  -- 名無しさん  (2009-08-28 01:12:27)
+- 期待以上に良かったです。Initial songとCrosslightがお気に入り～。  -- Navi  (2009-08-28 16:51:27)
+- 再販されてよかった、livetuneもボカロもニワカですがCOSMICAが良かった  -- 名無しさん  (2013-05-13 01:59:00)
+#comment

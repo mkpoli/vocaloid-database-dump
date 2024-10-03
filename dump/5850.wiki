@@ -1,0 +1,75 @@
+#right(){&furigana(DirgeASLEEPINJESUS)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm7349398)|
+作詞：[[パンドリストP]]
+作曲：[[パンドリストP]]
+編曲：[[パンドリストP]]
+イラスト：[[おおがみだい]]
+唄：[[巡音ルカ]]
+
+**曲紹介
+曲名：『&u(){Dirge -ASLEEP IN JESUS-}』(&u(){ダージ　-アスリープ　イン　ジーザス-})
+-英語ラップ。
+
+**歌詞
+（[[ピアプロ>>http://piapro.jp/content/fux119dn3orjb643]]より転載）
+
+Asleep in Jesus! Blessed sleep,
+From which none ever wakes to weep;
+A calm and undisturbed repose,
+Unbroken by the last of foes.
+
+Asleep in Jesus! Peaceful rest,
+Whose waking is supremely blessed;
+No fear, no woe, shall dim that hour
+That manifests the Savior's power.
+
+LaLaLa...
+
+Asleep in Jesus! Oh, how sweet,
+To be for such a slumber meet,
+With holy confidence to sing
+That death has lost his venomed sting!
+
+LaLaLa...
+Amen...
+
+Asleep in Jesus! Oh, for me
+May such a blessed refuge be!
+Securely shall my ashes lie
+And wait the summons from on high.
+
+Asleep in Jesus! Far from thee
+Thy kindred and their graves may be;
+But there is still a blessed sleep,
+From which none ever wakes to weep.
+
+LaLaLa...
+Amen...
+
+（公式意訳詩）
+「眠れ 主にありて　憩え 主のみ手に
+さまたぐる者は　いずこにもあらじ
+
+眠れ 主にありて　憩え 主のみ手に
+われらいざ歌わん 「死のとげいずこ」と
+
+眠れ 主にありて　憩え 主のみ手に
+まかせたるものに　恐れのかげなし
+
+眠れ 主にありて　憩え 主のみ手に
+主は覚ましたもう とこしえの朝に」
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+**コメント
+#comment()
+
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)

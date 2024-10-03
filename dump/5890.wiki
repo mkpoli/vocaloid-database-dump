@@ -1,0 +1,29 @@
+#right(){&furigana(ともばひろし) &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/11253734" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/11253734">【ニコニコ動画】自分の携わった曲など～♪</a></iframe>)
+
+**特徴
+-作詞家の作り手。ピアプロを拠点に、詞先・曲先問わず歌詞を提供している。
+-非常に多作で、ピアプロにアップ済みの歌詞はすでに250本を突破。（2010/04/28現在）
+-[[鼻そうめんP]]に歌詞提供した「[[YOUTHFUL DAYS' GRAFFITI]]」の殿堂入りによって、一躍名を知られるようになった。
+-[[AVTechNO]]氏らとのコラボサークル&bold(){『Project EATA』}においても、作詞担当として精力的に活動中。
+
+**リンク
+-[[作者ホームページ>>http://www52.tok2.com/home/ture/]]
+-[[PIAPRO>>http://piapro.jp/turedure]]
+-[[サークル「Project EATA」>>http://eata.web.fc2.com/eata.html]]
+
+**曲
+#list_by_tag(友場洋,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(友場洋CD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/nm7391605)|&nicovideo(http://www.nicovideo.jp/watch/nm6949781)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6489648)|&nicovideo(http://www.nicovideo.jp/watch/sm6298794)|
+
+
+**コメント
+- 作詞家かぁ～（≧∇≦）  -- かのん  (2014-03-15 11:43:55)
+- 「synchronicity」が死ぬほどカッコよかった。  -- 名無しさん  (2017-11-02 18:01:39)
+#comment()

@@ -1,0 +1,43 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+
+&image(http://karent.jp/npdca/1913_20160616154835_0280_0280.jpg)
+
+&nicovideo(sm7872872)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[キミノコエ>キミノコエ/CD]]|CENTER:&bold(){Re-rising}|CENTER:-|
+
+|&bold(){[[Yoshihi]]}|
+
+>&b(){ジャケットイラスト：[[meola]]}
+
+|流通|CENTER:即売|CENTER:配信|
+|発売|CENTER:2009年8月15日|CENTER:2016年7月6日|
+|価格|CENTER:￥1,000|CENTER:￥1,200|
+|サークル|CENTER:|CENTER:|
+
+**CD紹介
+-ハードロック系Pとして人気を集める[[Yoshihi]]氏初のVOCALOIDアルバム。09年夏コミにて初頒布（「[[STYLE.SHUN>SHUN]]」委託）。
+-『[[Re-rise]]』『[[キミノコエ>キミノコエ/Yoshihi]]』など、これまでに発表された全10曲を全曲再ミックスして収録。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++[[ユウミチ]]
++[[失月]]
++[[Re-rise]]
++[[朱炎]]
++[[Unchain]]
++[[シンクリダクション]]
++[[クグツ]]
++[[Blossom]]
++[[キミノコエ>キミノコエ/Yoshihi]]
++[[おもちの日]]
+
+**リンク
+-[[作者ブログ>>http://akizuki.net/]]
+-[[KARENT：「Re-rising」>>http://karent.jp/album/1913]]
+-[[iTunes Store>>https://itunes.apple.com/jp/album/re-rising/id1126723630]]
+
+**コメント
+- 初聴きもあったけど全部好きだ　mixもいい感じ  -- 名無しさん  (2009-09-25 16:15:20)
+#comment

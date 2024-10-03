@@ -1,0 +1,46 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+#ref(http://kogashitsu.cocolog-nifty.com/photos/etc/ephemera.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){ephemera}|CENTER:[[Homeland]]|
+
+&nicovideo(http://www.nicovideo.jp/watch/sm10414712)
+
+|&bold(){[[びにゅP]]}|
+
+||CENTER:配信|CENTER:即売|CENTER:同人|
+|発売|CENTER:2009年6月24日|CENTER:2010年5月9日|CENTER:2010年5月9日|
+|価格|CENTER:￥900 / 1曲￥150|CENTER:￥1,000|CENTER:￥1,500（税込）|
+|レーベル|CENTER:KarenT|CENTER:s10rw||
+
+|&b(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/ephemera/id319873234]]}|
+
+**CD紹介
+-びにゅP初のアルバム。
+-活動休止前に発表された曲の中から9曲、未発表曲『Eclipse』『Packed Memory In A Small Toy Box』を収録した計11曲を収録。
+-代表曲である『April Fool』『Stella Marine -little lovers' magic-』も収録されたびにゅPを語るのに相応しい一枚。
+-2010年5月9日に開催の「VOC@LOiD M@STER12（ボーマス12）」にてCDにプレスされ発売された。
+-CD版は新たに「Searchlight」の再録バージョンを収録。
+
+**曲目
++Ephemera　&color(red){NEW！}
++[[Lysosome]]
++[[Clockwise]]
++[[April Fool]]
++[[Charge]]
++Eclipse　&color(red){NEW！}
++[[Sunday>Sunday/びにゅP]]
++Last Words, Quiet Sleep（原題『[[サイゴノコトバ]]』）
++[[Searchlight>Searchlight ／ 夢の終わり]]　　※CD版のみ。
++[[Piano>Piano/びにゅP]]
++[[Stella Marine -little lovers' magic->ステラマリン]]
++[[Packed Memory In A Small Toy Box]]　&color(red){NEW！}
+
+**リンク
+-[[KarenT>>http://karent.jp/album/32]]
+-[[Past Days Sparkle（作者ブログ）>>http://pastdayssparkle.blog99.fc2.com/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/22/24/040010222459.html]]
+
+**コメント
+- ボーマスでの頒布版には9曲目にSearchlightが入ってますねー  -- 名無しさん  (2010-05-31 00:04:25)
+#comment

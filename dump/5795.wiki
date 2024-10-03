@@ -1,0 +1,494 @@
+※ルール改変に伴い、作者名の後ろにキャラクター名の表示が可能となりましたが、ここでは省略しています。
+
+//※&font(b,120%){&bgcolor(pink){このように表示されている曲}} は今月（2015年8月）末で投票が終了する曲です。
+&bold(){&color(red){&big(){2015年10月1日（木）で現在のエントリー曲への投票が全て終了となります}}}
+
+&font(b,120%){[[BACK（カラオケ情報総合インデックスページへ戻る）>カラオケ配信曲一覧]]}
+
+[[アイ$コンP>アイ＄コン]]　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=%E3%82%A2%E3%82%A4%24%E3%82%B3%E3%83%B3P]]】
+-[[絶望奈落セレナーデ]]
+
+iceP　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=iceP]]】
+-アイマイミーマインド
+
+[[out of survice]]　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=out%20of%20survice]]】
+-[[ガーネットフォスファ]]
+-[[セルリアンヴェスパ]]
+
+[[アキヅキミナト]]　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=%E3%82%A2%E3%82%AD%E3%83%85%E3%82%AD%E3%83%9F%E3%83%8A%E3%83%88]]】
+-[[ヒューマンバリュー]]
+
+[[あつぞうくん]]　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=%E3%81%82%E3%81%A4%E3%81%9E%E3%81%86%E3%81%8F%E3%82%93]]】
+-[[トリコロール・エア・ライン]]
+
+[[あつぞうくん]]（[[OSTER project]]）　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=%E3%81%82%E3%81%A4%E3%81%9E%E3%81%86%E3%81%8F%E3%82%93%EF%BC%88OSTER%20project%EF%BC%89]]】
+-[[トリコロール・エア・ライン(TropicalResortMix)>トリコロール・エア・ライン]]
+
+[[add9(ヘリP)>ヘリP]]　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=add9%28%E3%83%98%E3%83%AAP%29]]】
+-[[マジックコード]]
+
+[[AVTechNO!>AVTechNO]]　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=AVTechNO]]】
+-[[アDVAnCEテCHノ]]
+-[[ZOU]]
+-[[SOU CORE>SOU]]
+-[[Darkness Six]]
+-[[Plus/Space>Plus／Space]]
+-[[Boku-Boku D’n’T>僕と僕/AVTechNO]]
+-[[LUST DOLL]]
+-[[Limiter>LIMITER]]
+
+[[ATOLS]]　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=ATOLS]]】
+-[[アイ>アイ/ATOLS]]
+-[[01>01/ATOLS]]
+
+Another Infinity　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=Another%20Infinity]]】
+-[[夢現]]
+
+アフロ2号　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=%E3%82%A2%E3%83%95%E3%83%AD2%E5%8F%B7]]】
+-[[ラバースナイパー]]
+
+天邪鬼P　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=%E5%A4%A9%E9%82%AA%E9%AC%BCP]]】
+-月影ノ鬼夜行
+
+[[あんP]]　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=%E3%81%82%E3%82%93P]]】
+-[[旅人の奏]]
+
+[[アンビリカル244P]]　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=%E3%82%A2%E3%83%B3%E3%83%93%E3%83%AA%E3%82%AB%E3%83%AB244P]]】
+-[[シンナーガール]]
+
+[[いーえるP]]　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=%E3%81%84%E3%83%BC%E3%81%88%E3%82%8BP]]】
+-運命へ至る為のプロトコル
+-[[スリークイーンズ]]
+
+[[EasyPop>Easy Pop]]　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=EasyPop]]】
+-[[フォール イン ラブ]]
+
+[[家の裏でマンボウが死んでるP]]　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=%E5%AE%B6%E3%81%AE%E8%A3%8F%E3%81%A7%E3%83%9E%E3%83%B3%E3%83%9C%E3%82%A6%E3%81%8C%E6%AD%BB%E3%82%93%E3%81%A7%E3%82%8BP]]】
+-[[有限の窓]]
+
+[[いきなりP>>http://www24.atwiki.jp/utauuuta/pages/3281.html]]　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=%E3%81%84%E3%81%8D%E3%81%AA%E3%82%8AP]]】
+-[[失恋の痛みに正露丸>>http://www24.atwiki.jp/utauuuta/pages/3282.html]]
+
+[[19's Sound Factory]]　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=19%E2%80%99s%20Sound%20Factory]]】
+-[[Dear〈Remix-Edition〉>Dear/19's Sound Factory]]
+-[[ハートフルメッセージ]]
+
+[[石風呂]]　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=%E7%9F%B3%E9%A2%A8%E5%91%82]]】
+-[[サイコなわたし]]
+-[[ばいばいスーパースター]]
+
+[[164]]　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=164]]】
+-ウロノキ
+-おやすみの街
+-[[good bye monochrome]]
+-[[ジーニー]]　※「164 from 203soundworks」名義でもエントリーされている。
+-[[sleeping beauty]]
+-[[例えば、今此処に置かれた花に]]
+-NONINONI
+
+[[164 from 203soundworks>164]]　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=164%20from%20203soundworks]]】
+-[[ジーニー]]　※「164」名義でもエントリーされている。
+-[[ボクソラウミキミ]]
+
+[[inaphon>>http://www24.atwiki.jp/utauuuta/pages/424.html]]　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=inaphon]]】
+-公共歯車機構
+
+[[芋犬ポテト>芋犬P]]　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=%E8%8A%8B%E7%8A%AC%E3%83%9D%E3%83%86%E3%83%88]]】
+-[[アンドロイドは砂糖菓子の夢を魅るか?>アンドロイドは砂糖菓子の夢を魅るか？]]
+
+[[うしろめたさP]]　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=%E3%81%86%E3%81%97%E3%82%8D%E3%82%81%E3%81%9F%E3%81%95P]]】
+-[[16ビットガール]]
+
+[[うたたP]]　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=%E3%81%86%E3%81%9F%E3%81%9FP]]】
+-3人の可愛い姉妹と、吊り橋の下に潜むモノ。
+-ヤマダを狙うサトウの影に潜むスズキを操るタナカ
+-[[Re:Try]]
+
+[[鬱P]]（作詞作曲：[[ピノキオP]]）　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=%E9%AC%B1P]]】
+-[[ありふれたせかいせいふく]]
+
+[[L-tone]]　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=L-tone]]】
+-[[パンデミックの掃除]]
+
+エレキP　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=%E3%82%A8%E3%83%AC%E3%82%ADP]]】
+-[[Story Rider〈English.ver〉>Story Rider]]
+
+[[ELECTROCUTICA>Treow（逆衝動P）]]　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=ELECTROCUTICA]]】
+-Right×Dark
+-[[Reversus]]
+-[[Re:quiem［Melas］]]
+-Romancer
+
+[[翁]]　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=%E7%BF%81]]】
+-[[堕落夢想ガール]]
+
+おさむらいさん　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=%E3%81%8A%E3%81%95%E3%82%80%E3%82%89%E3%81%84%E3%81%95%E3%82%93]]】
+-[[御神輿担ぎ]]
+
+ojitoole　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=ojitoole]]】
+-あなたが散った時の話
+-君のとなり
+
+[[OSTER project]]　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=OSTER%20project]]】
+-HAPPY FLOWER SHOOOOOP!!
+-[[flower of sorrow]]
+-[[POMPADOUR]]
+
+[[otetsu]]　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=otetsu]]】
+-[[アンドロ]]
+-umbrella
+-Territory
+-[[抑圧錯乱ガール]]
+
+[[おにゅうP]]（作詞作曲：[[ピノキオP]]）　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=%E3%81%8A%E3%81%AB%E3%82%85%E3%81%86P]]】
+-[[eight hundred]]
+
+[[小野塚裕也>小野塚]]　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=%E5%B0%8F%E9%87%8E%E5%A1%9A%E8%A3%95%E4%B9%9F]]】
+-キミが好きだ
+
+[[オワタP]]　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=%E3%82%AA%E3%83%AF%E3%82%BFP]]】
+-[[まゆずみのような空から]]
+
+[[(仮)P]]　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=%28%E4%BB%AE%29P]]】
+-[[透明交差点]]
+
+[[かにみそP>カニミソP]]　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=%E3%81%8B%E3%81%AB%E3%81%BF%E3%81%9DP]]】
+-[[JackKnife]]
+-[[純情☆ファイター]]
+-[[丁半博打]]
+-[[ドライブ]]
+-Drop out　※「mathru」名義のエントリー曲。得票状況の確認は【[[こちらから>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=mathru]]】
+-なすがすき　※「mathru」名義のエントリー曲。得票状況の確認は【[[こちらから>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=mathru]]】
+
+屍P　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=%E5%B1%8DP]]】
+-ヴァーミリオン
+
+[[Calla Soiled>Ev（イーブル）P]]　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=Calla%20Soiled]]】
+-[[虚構の光]]
+-[[ネフナ]]
+
+[[カラスヤサボウ]]　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=%E3%82%AB%E3%83%A9%E3%82%B9%E3%83%A4%E3%82%B5%E3%83%9C%E3%82%A6]]】
+-[[祈るように]]
+-[[世界で一番きれいな朝に]]
+
+[[keeno]]　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=keeno]]】
+-tears
+
+[[kiichi（なんとかP）]]　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=kiichi%28%E3%81%AA%E3%82%93%E3%81%A8%E3%81%8BP%29]]】
+-[[The Ghost of Romantic Tranceiver]]
+-[[思春期･オブ･ザ･デッド>思春期・オブ・ザ・デッド]]
+
+[[ギガP]]　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=%E3%82%AE%E3%82%ACP]]】
+-サイレントエレジー
+-[[MarImo]]
+
+[[ギガP]]×[[おればななP]]（作詞作曲：[[みきとP>みきとP/作り手]]）　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=%E3%82%AE%E3%82%ACP%C3%97%E3%81%8A%E3%82%8C%E3%81%B0%E3%81%AA%E3%81%AAP]]】
+-[[いーあるふぁんくらぶ]]
+
+[[きくお]]　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=%E3%81%8D%E3%81%8F%E3%81%8A%20feat.]]】
+-[[清水もつカレーのうた]]
+
+[[キッドP]]　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=%E3%82%AD%E3%83%83%E3%83%89P]]】
+-[[雨音と偽りのワルツ]]
+-慟哭のラビリズム
+-[[虹色の少年]]
+-[[Filtering]]
+
+[[きむた]]　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=%E3%81%8D%E3%82%80%E3%81%9F]]】
+-[[テレフォンライダー]]
+
+[[木村わいP]]　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=%E6%9C%A8%E6%9D%91%E3%82%8F%E3%81%84P]]】
+-[[みんなともだち]]
+
+[[キャプテンミライ]]　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=%E3%82%AD%E3%83%A3%E3%83%97%E3%83%86%E3%83%B3%E3%83%9F%E3%83%A9%E3%82%A4]]】
+-[[秘密のメロディ>>http://www24.atwiki.jp/utauuuta/pages/1654.html]]
+
+[[銀河方面P]]　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=%E9%8A%80%E6%B2%B3%E6%96%B9%E9%9D%A2P]]】
+-[[硝子細工のオルゴール]]
+-[[黄昏ゆく想い]]
+
+[[KulfiQ]]　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=KulfiQ]]】
+-[[レイニーレイ]]
+
+[[KulfiQ]]（作詞作曲：[[ピノキオP]]）　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=KulfiQ]]】
+-[[OZ]]
+
+[[くるりんご]]　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=%E3%81%8F%E3%82%8B%E3%82%8A%E3%82%93%E3%81%94]]】
+-[[幸福な少年]]
+-[[twinkle*glitter]]
+
+[[黒猫アンティーク>cosMo（暴走P）]]　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=%E9%BB%92%E7%8C%AB%E3%82%A2%E3%83%B3%E3%83%86%E3%82%A3%E3%83%BC%E3%82%AF]]】
+-[[HΨ=世界創造=EΨ]]
+
+黒船P　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=%E9%BB%92%E8%88%B9P]]】
+-共振回路
+
+[[kk2]]　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=kk2]]】
+-[[誰にも否定なんてさせない]]
+
+[[kz(livetune)>kz]]　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=livetune]]】
+-Half Step
+
+[[kemu]]　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=kemu]]】
+-嘘つきシューティングスター
+-期末試験の帝王
+-君にモテたい
+-タイムマシンと入道雲
+-天才シンガー凡才シンガー
+-独白
+-何でもない朝に
+
+[[KEMU VOXX>kemu]]　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=KEMU%20VOXX]]】
+-[[イカサマライフゲイム feat.スズムSound>イカサマライフゲイム]]
+-[[インビジブル feat.スズムSound>インビジブル]]
+-[[カミサマネジマキ feat.スズムSound>カミサマネジマキ]]
+-[[人生リセットボタン feat.スズムSound>人生リセットボタン/kemu]]
+-[[地球最後の告白を feat.スズムSound>地球最後の告白を]]
+-[[リンカーネイション feat.スズムSound>リンカーネイション]]
+-[[六兆年と一夜物語 feat.スズムSound>六兆年と一夜物語]]
+
+[[幻想エアリー>ぱんたんP]]　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=%E5%B9%BB%E6%83%B3%E3%82%A8%E3%82%A2%E3%83%AA%E3%83%BC]]】
+-[[君に逢えない夏]]
+-[[LIAR>LIAR/ぱんたんP]]
+
+[[けんまP]]　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=%E3%81%91%E3%82%93%E3%81%BEP]]】
+-[[UNDER CONSTRUCTION]]
+-[[DIGITAL-TATTOO]]
+
+[[Kohm]]　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=Kohm]]】
+-[[セツナルラバーズ]]
+-[[レイニーライトメロディ]]
+
+[[こがねむし]]　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=%E3%81%93%E3%81%8C%E3%81%AD%E3%82%80%E3%81%97]]】
+-[[アポカリプス]]
+
+[[cosMo@暴走P>cosMo（暴走P）]]　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=%E6%9A%B4%E8%B5%B0]]】
+-[[浅紫色のエンドロール]] 
+-星の少女と幻想楽土
+-[[ミュージック∞ファクトリー>Sadistic.Music∞Factory]]
+-「もう一つの迷子少女」
+
+[[sasakure.UK>ささくれP]]　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=sasakure]]】
+-[[PICO＠LUV(☆彡とvとAIのウタ。)>PICO＠LUV (☆彡とvとAIのウタ。) ]]
+-マリィの世界
+
+[[SASHI>ゆきちゃんP]]　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=SASHI%20feat.]]】
+-[[青空ドルチェ]]
+-[[踊れ！巫女少女]]
+-[[儚き花は紅の]]
+
+[[挫折P(でか大)>挫折P]]　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=%E6%8C%AB%E6%8A%98P]]】
+-[[確率論]]
+
+[[さたな]]　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=%E3%81%95%E3%81%9F%E3%81%AA]]】
+-[[嘘と数式]]
+
+that　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=that%20feat.]]】
+-父乱淫悦ガール
+
+[[sunny spot]]　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=sunny%20spot]]】
+-It’s a WOndeRful LiFE
+-sunny spot
+-[[ステップバイステップ]]
+
+[[samfree]]　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=samfree]]】
+-[[イアイア★ナイトオブデザイア]]
+-[[Promise>Promise/samfree]]
+-[[ユカユカ☆ヘヴンリーナイト]]
+
+CNa　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=CNa]]】
+-[[縁環の理的に私が一番だと言う歌です！]]
+
+[[sequel>鬼畜ショタP]]×[[ユミソラ]]　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=sequel%20%C3%97%20%E3%83%A6%E3%83%9F%E3%82%BD%E3%83%A9]]】
+-decide
+
+[[sequel>鬼畜ショタP]]×[[ワタルP]]×[[やしきん]]　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=sequel%20%C3%97%20%E3%83%AF%E3%82%BF%E3%83%ABP%20%C3%97%20%E3%82%84%E3%81%97%E3%81%8D%E3%82%93]]】
+-[[幸せの拠りどころ]]
+
+[[椎名もた>ぽわぽわP]]　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=%E6%A4%8E%E5%90%8D%E3%82%82%E3%81%9F]]】
+-[[嘘ップ]]
+-[[ガラクタのエレジー]]
+-[[3年C組14番窪園チヨコの入閣]]
+
+[[椎名もた>ぽわぽわP]]（作詞作曲：[[ピノキオP]]）　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=%E6%A4%8E%E5%90%8D%E3%82%82%E3%81%9F]]】
+-[[胸いっぱいのダメを]]
+
+[[じたばたP]]　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=%E3%81%98%E3%81%9F%E3%81%B0%E3%81%9FP]]】
+-[[サウンドオブひみつの旅団]]
+
+[[じっぷす]]　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=%E3%81%98%E3%81%A3%E3%81%B7%E3%81%99]]】
+-[[ウヌボレ仮面]]
+
+[[シメサバツイスターズ]]　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=%E3%82%B7%E3%83%A1%E3%82%B5%E3%83%90%E3%83%84%E3%82%A4%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA]]】
+-[[あらまほしガールの世界>>http://www24.atwiki.jp/utauuuta/pages/2416.html]]
+-[[神様は朝に目覚める]]
+
+[[シメサバツイスターズ]]（作詞作曲：[[ピノキオP]]）　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=%E3%82%B7%E3%83%A1%E3%82%B5%E3%83%90%E3%83%84%E3%82%A4%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA]]】
+-[[どうしてちゃんのテーマ]]
+
+[[Junky]]　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=Junky]]】
+-[[Happy Halloween]]
+-[[夕花火]]
+
+[[じん>自然の敵P]]　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=%E3%81%98%E3%82%93%28%E8%87%AA%E7%84%B6%E3%81%AE%E6%95%B5P%29]]】
+-キャプテンリトル
+
+[[すこっぷ]]　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=%E3%81%99%E3%81%93%E3%81%A3%E3%81%B7]]】
+-[[ハローグッバイ>ハローグッバイ/すこっぷ]]
+
+[[砂粒]]　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=%E7%A0%82%E7%B2%92]]】
+-[[少女溶解]]
+-[[シンクロサイクロトロン・スピリチュアライザー。]]
+
+[[スマイルP]]　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=%E3%82%B9%E3%83%9E%E3%82%A4%E3%83%ABP]]】
+-[[スマイルメイカー]]
+
+セカイ系P　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=%E3%82%BB%E3%82%AB%E3%82%A4%E7%B3%BBP]]】
+-[[無表情少女と夢見る薬]]
+
+石脂王　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=%E7%9F%B3%E8%84%82%E7%8E%8B]]】
+-[[エレナ]]
+
+[[Sevencolors>nana]]　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=Sevencolors]]】
+-[[スウィートビター]]　※「nana」名義のエントリー曲。得票状況の確認は【[[こちらから>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=nana%20feat.]]】
+-[[リフレクション>リフレクション/nana]]
+-[[流星サウンド]]
+-[[レッドパニッシュメント]]
+
+[[そそそ(津久井箇人)>そそそP]]　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=%E3%81%9D%E3%81%9D%E3%81%9D]]】
+-[[命の翼 ～Listen to my soul～>命の翼-Listen to my soul-]]
+-[[サヨナラ>サヨナラ/そそそP]]
+-[[Generation Breaker]]
+-[[Try for Keeps-時代はいつでもLOOPする-]]
+
+[[そらいろくらぶ]]　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=%E3%81%9D%E3%82%89%E3%81%84%E3%82%8D%E3%81%8F%E3%82%89%E3%81%B6]]】
+-[[Oval>oval]]
+-[[空色ラジオ]]
+
+[[そらP]]　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=%E3%81%9D%E3%82%89P]]】
+-[[スカイカラー]]
+-ホワイトプレゼント
+
+[[たかし縫いP>>http://www24.atwiki.jp/utauuuta/pages/2179.html]]　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=%E3%81%9F%E3%81%8B%E3%81%97%E7%B8%AB%E3%81%84P]]】
+-[[アネストメイト>>http://www24.atwiki.jp/utauuuta/pages/3244.html]]
+
+[[タカノン]]　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=%E3%82%BF%E3%82%AB%E3%83%8E%E3%83%B3]]】
+-[[チョコにとかして]]
+
+[[takamatt]]　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=takamatt]]】
+-[[スピードスター・スコルピオ]]
+
+[[takamatt]]（作詞作曲：[[ピノキオP]]）　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=takamatt]]】
+-[[からっぽのまにまに]]
+
+滝善充　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=%E6%BB%9D%E5%96%84%E5%85%85]]】
+-[[セツナドライブ]]
+
+[[Task>Task/作り手]]　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=Task]]】
+-[[人形愛憎ガール]]
+
+[[だだ]]　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=%E3%81%A0%E3%81%A0]]】
+-[[ミルクティー>ミルクティー/だだ]]
+
+[[脱出型椎間板ヘルニアP]]　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=%E8%84%B1%E5%87%BA%E5%9E%8B%E6%A4%8E%E9%96%93%E6%9D%BF%E3%83%98%E3%83%AB%E3%83%8B%E3%82%A2P]]】
+-[[独奏アイデンティティー]]
+
+[[daniwellP>daniwell]]　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=daniwellP]]】
+-[[次世代センセーションの始まり>次世代センセーションのはじまり]]
+
+[[ダルビッシュP]]　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=%E3%83%80%E3%83%AB%E3%83%93%E3%83%83%E3%82%B7%E3%83%A5P]]】
+-天上天下
+
+[[ダルビッシュP]]/Keisuke.N　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=%E3%83%80%E3%83%AB%E3%83%93%E3%83%83%E3%82%B7%E3%83%A5P/Keisuke.N]]】
+-[[Kung-Fu]]
+
+[[束子P]]　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=%E6%9D%9F%E5%AD%90P]]】
+-ヘクトパステル
+
+team-FSR　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=team-FSR]]】
+-[[Letter>Letter/team-FSR]]
+
+ちーむMOER　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=%E3%81%A1%E3%83%BC%E3%82%80MOER]]】
+-カラフル×セクシィ
+
+ちゃり　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=%E3%81%A1%E3%82%83%E3%82%8A]]】
+-[[悪魔と少女と盲目Jealousy]]
+-名も無き魔女のナイフ
+
+ちゅうとろP　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=%E3%81%A1%E3%82%85%E3%81%86%E3%81%A8%E3%82%8DP]]】
+-[[ウタカタストロフィ]]
+
+[[鶴田加茂>ika]] & MOSAIC.TUNE　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=%E9%B6%B4%E7%94%B0%E5%8A%A0%E8%8C%82%26MOSAIC.TUNE]]】
+-[[18号のBlue-Gene]]
+-[[トランジスタの道化団]]
+
+[[DC]]　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=DC%20feat.]]】
+-[[例えば]]
+
+[[Dios/シグナルP>シグナルP]]　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=Dios%2F%E3%82%B7%E3%82%B0%E3%83%8A%E3%83%ABP]]】
+-[[TABOO>TABOO/シグナルP]]
+-Brand-new Step
+
+[[DECO*27]]　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=DECO*27]]】
+-[[二息歩行〈スンスンスコップremix〉>二息歩行]]
+
+[[デスおはぎ]]　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=%E3%83%87%E3%82%B9%E3%81%8A%E3%81%AF%E3%81%8E]]】
+-[[終夜ジャパネスク>>http://www24.atwiki.jp/utauuuta/pages/2187.html]]
+
+[[デッドボールP]]　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=%E3%83%87%E3%83%83%E3%83%89%E3%83%9C%E3%83%BC%E3%83%ABP]]】
+-[[秋の夜長にワガママを]]
+-[[Electrical Zombies]]
+-[[エロゲーみたいな恋がしたい!>エロゲーみたいな恋がしたい！]]
+-[[Svartalfheim]]
+-[[二次元に咲く花]]
+-[[ベジタリアン]]
+-[[ホルマリンの海]] 
+-[[メガクリスマスリクガメ]]
+-[[リバースゲーム]]
+
+[[てにをは]] × [[AVTechNO!>AVTechNO]]　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=%E3%81%A6%E3%81%AB%E3%82%92%E3%81%AF%20%C3%97%20AVTechNO%21]]】
+-怪々絵巻
+
+[[電ポルP]]　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=koyori]]】
+-I’m a Hero　※「koyori」名義のエントリー曲。
+-命音ノイジー　※「koyori」名義のエントリー曲。
+
+[[トーマ]]　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=%E3%83%88%E3%83%BC%E3%83%9E]]】
+-envycat blackout
+-クジラ病棟の或る前夜
+-サンセットバスストップ
+-心臓
+-潜水艦トロイメライ
+-廃景に鉄塔、「千鶴」は田園にて待つ。
+-未来少年大戦争
+-リベラバビロン
+
+[[桃源郷>>http://www24.atwiki.jp/utauuuta/pages/2960.html]]　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=%E6%A1%83%E6%BA%90%E9%83%B7]]】
+-[[quarter rest>>http://www24.atwiki.jp/utauuuta/pages/3081.html]]
+-[[四季折々>>http://www24.atwiki.jp/utauuuta/pages/1998.html]]
+
+[[とくP]]　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=%E3%81%A8%E3%81%8FP]]】
+-[[ホシノウタ]]
+
+[[TOKOTOKO(西沢さんP)>西沢さんP]] feat.天月-あまつき-　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=TOKOTOKO%28%E8%A5%BF%E6%B2%A2%E3%81%95%E3%82%93P%29]]】
+-[[投資家レコーズ(ゆうゆarrange)>投資家レコーズ]]
+
+[[TOKOTOKO(西沢さんP)>西沢さんP]] feat.みどりいぬ。　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=TOKOTOKO%28%E8%A5%BF%E6%B2%A2%E3%81%95%E3%82%93P%29]]】
+-路地裏猫の正体
+
+[[Tobi.]]　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=Tobi.]]】
+-プルーヴ
+
+tom"U"　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=tom%22U%22]]】
+-[[Net Walk]]
+
+[[doriko]]　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=doriko]]】
+-Electric Sheep
+-桜の社
+
+tombo.　【[[得票状況を確認>>https://www.joysound.com/utasuki/request/search.htm?searchType=2&q=tombo.]]】
+-[[LALAWAY - 僕らの長い帰り道 -]]
+
+&font(b,120%){【な】～【わ】は}&font(b,150%){[[こちら>JOYエントリー楽曲一覧【な】～【わ】]]}
+
+&font(b,120%){[[BACK（カラオケ情報総合インデックスページへ戻る）>カラオケ配信曲一覧]]}

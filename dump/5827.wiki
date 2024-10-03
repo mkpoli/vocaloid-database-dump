@@ -1,0 +1,75 @@
+#right(){&furigana(MyVoices)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm3175901)|
+作詞：[[shig]]
+作曲：[[Sweet Revenge]]
+編曲：[[Sweet Revenge]]
+イラスト：[[シンセリティ]]
+唄：[[初音ミク]]・[[鏡音リン>鏡音リン・レン]]
+
+**曲紹介
+曲名：『&u(){My Voices}』(&u(){マイ　ボイス})
+
+**歌詞
+（[[ピアプロ>>http://piapro.jp/content/3j3bin5bktyfh2hj]]より転載）
+
+My voices, my sounds.
+聞こえてるの？
+My voices, my singing.
+泣かないで
+My voices, my melody.
+気づいてるの？
+Hear my voices, hear my songs.
+ここにいるよ
+
+君はひとり何を　見ているの
+君のその虚ろな　眼差しで
+途方に暮れている　その姿
+見るたびに心痛むよ
+　　
+ねぇ、君は泣いてすぐそばの
+僕に気付かない
+
+My voices, my sounds.
+聞こえてるの？
+My voices, my singing.
+無視しないで
+My voices, my melody.
+嘘じゃないよ
+Hear my voices, hear my songs.
+ここにいるよ
+
+暗闇のなかで　叫んでる
+残された苦しみ　追い詰める
+だから僕がそばに　いてあげる
+君にその希望が　見えるまで
+
+伝えられない　僕の思いを
+なんとしてでも　伝えたいんだ
+だから僕は　歌うよ
+
+ねぇ、君はどうして僕のことに
+気づいてくれないの？
+
+My voices, my sounds.
+聞こえてるの？
+My voices, my singing.
+泣かないで
+My voices, my melody.
+気づいてるの？
+Hear my voices, hear my songs.
+ここにいるよ
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+**コメント
+#comment()
+
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)

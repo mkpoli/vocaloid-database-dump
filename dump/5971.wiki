@@ -1,0 +1,23 @@
+#right(){&furigana(りょうさんがたP) &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/5170557" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/5170557">【ニコニコ動画】music-box @ DragonFlavor</a></iframe>)
+
+**特徴
+- 初音ミク、巡音ルカ、そしてゆっくりを使い個性的なサウンドを作るP
+- 投稿者名はDragonFlavor
+- 代表曲のスペース　チョッパーズは[[【量産型】たこルカを作ってみた【巡音ルカ】>http://www.nicovideo.jp/watch/sm7391703]]という動画のBGMに使われたことで再生数が伸び、その結果量産型Pと名付けられる。
+
+**リンク
+-[[ピアプロ>>http://piapro.jp/DragonFlavor]]
+
+**曲
+#list_by_tag(量産型P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm1977741)|&nicovideo(http://www.nicovideo.jp/watch/sm2440429)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2806600)|&nicovideo(http://www.nicovideo.jp/watch/sm6676115)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6749263)|&nicovideo(http://www.nicovideo.jp/watch/sm7162910)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7490107)|&nicovideo(http://www.nicovideo.jp/watch/nm7719550)|
+
+**コメント
+- 何処行った？  -- みなもとかりん  (2015-05-19 23:37:19)
+#comment()

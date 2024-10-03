@@ -1,0 +1,44 @@
+#right(){&furigana(はねいと) &furigana()【登録タグ:&tags() 】}
+//#image(http://scx-ct.net/pict/album_200/scx_200_han.jpg,blank)
+
+&ref(https://cdn.karent.jp/thumb_a/013/013_20091225191710_0400_0400.jpg,x=300,y=300)
+
+|&b(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/hane-ito/id309978470]]}|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Road of 4 elements]]|CENTER:&bold(){羽糸}|CENTER:[[Solesta!>Solesta!/CD]]|
+
+|&bold(){[[Clean Tears]]}|
+
+発売：2009年4月1日
+価格：￥900 / 1曲￥150
+流通：配信
+サークル：S.C.X
+レーベル：KarenT
+
+**CD紹介
+-[[クリプトンKarenTレーベル>>http://karent.jp/album/13]]より配信のアルバム。
+-配信オリジナルアルバムとなっているため、CDは存在しない。（iTunes Store以外も配信）
+-ニコニコ動画公開の「[[水鏡の庭]]」、「[[Dragoon]]」、「[[Far away]]」はアルバムバージョンで収録。
+-また、ニコニコ動画で歌い手が公開している「濡羽の景」はミクバージョンが収録されている。
+-ジャケットイラスト：楓菜あきの
+
+**曲目
++[[Dragoon]] -Album Edition-
++[[Far away]] -Album Edition-
++Sting
++Message
++[[水鏡の庭]] -Album Edition-
++明日晴れたら
++9th
++Hyper Sonic Beat
++Wing
++濡羽の景
+
+**リンク
+-[[S.C.X Homepage>>http://scx-ct.net/]]
+-[[KarenT>>http://karent.jp/album/13]]
+
+
+**コメント
+#comment
