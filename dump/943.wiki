@@ -1,0 +1,35 @@
+#right(){&furigana(おまっちゃP) &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/6070602" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/6070602">【ニコニコ動画】お抹茶Ｐの曲でもどう？</a></iframe>)
+
+**特徴
+-「[[カランコエ>カランコエ/お抹茶P]]」で初作曲、初DTM。
+-バンド経験有り。現在も活動中？
+-一番得意な楽器はギター。ロックとポップス、バラード曲を発表している。
+-アーティスト名は、&bold(){京極抹茶}。
+
+**リンク
+-[[PLUS ONE MORE（作者ブログ）>>http://omaccha178.blog41.fc2.com/]]
+-[[PIAPRO>>http://piapro.jp/kyogoku_maccha]]
+
+**曲
+#list_by_tag(お抹茶P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(お抹茶PCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm2942500){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm3547596){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3478060){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm3762333){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4834341){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm5153123){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5379359){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm5691098){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5904240){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm6255166){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7293158){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm8195183){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm8570603){340,185}||
+
+**コメント
+- 最近の曲はほんとの人間みたいな声を出しててすごいと思う  -- 名無しさん  (2008-11-25 10:45:52)
+- おんなじミク使ってるはずなのに、「このPのは声が独特だなあ」って人が何人かいる。この人はまさにその一人だ。  -- 名無しさん  (2009-06-10 01:29:31)
+- 感動しますね。とても綺麗な歌声のミクだった・・・  -- 名無しさん  (2009-11-24 18:06:24)
+- もっと評価されるべき  -- 名無しさん  (2010-01-29 17:36:53)
+- カランコエでDTMデビューとか信じられん  -- 名無しさん  (2010-09-17 14:17:30)
+#comment()

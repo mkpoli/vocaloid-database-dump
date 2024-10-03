@@ -1,0 +1,63 @@
+#right(){&furigana(ろりP) &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/7248070" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/7248070">【ニコニコ動画】VOCALOID 自作曲リスト</a></iframe>){340,185}
+
+**特徴
+-2007年12月、 『[[Dancing in the snow]]』 にてボカロデビュー。
+-使用ボカロはミクのみだったが、GUMIも仲間入り。
+-ロリPというP名の由来は、『[[Universe.]]』での声や歌い方に「ロリっぽい」というコメントが多く寄せられたため。
+-14作目からは実弟にサムネイラストを依頼していたが、19作目から自身でイラストに挑戦している。
+-20作目『[[林檎と歯車のショーケース]]』で自身初の殿堂入りを達成する。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/thely]]
+-[[Twitter>>https://twitter.com/loli_p_thely]]
+
+**曲
+#list_by_tag(ロリP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(ロリPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|>|BGCOLOR(#0cb0e0):COLOR(#FFF):CENTER:&font(b,11pt){オリジナル曲}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm1711393)|&nicovideo(http://www.nicovideo.jp/watch/sm1797487)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3745109)|&nicovideo(http://www.nicovideo.jp/watch/sm5219469)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5251386)|&nicovideo(http://www.nicovideo.jp/watch/sm6203067)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7371703)|&nicovideo(http://www.nicovideo.jp/watch/sm7436496)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12024463)|&nicovideo(http://www.nicovideo.jp/watch/sm12061350)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm13769122)|&nicovideo(http://www.nicovideo.jp/watch/sm13928757)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm14066003)|&nicovideo(http://www.nicovideo.jp/watch/sm14332435)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm14417571)|&nicovideo(http://www.nicovideo.jp/watch/sm14735017)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm15023311)|&nicovideo(http://www.nicovideo.jp/watch/sm15522291)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm16467476)|&nicovideo(http://www.nicovideo.jp/watch/sm17046266)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm17699819)|&nicovideo(http://www.nicovideo.jp/watch/sm18553781)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm19517193)|&nicovideo(http://www.nicovideo.jp/watch/sm19625288)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm22353056)|&nicovideo(http://www.nicovideo.jp/watch/sm23963452)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm24349109)|&nicovideo(http://www.nicovideo.jp/watch/sm24855432)|
+|&nicovideo(sm27133495)|&nicovideo(sm27276513)|
+|&nicovideo(sm29778655)|&nicovideo(sm31401233)|
+|&nicovideo(sm32384084)|>|
+
+**コメント
+- ロリPさん最高です！ロリPさんの曲を聞くと元気が出ます♪  -- 名無しさん  (2011-04-05 19:14:46)
+- 「the Fate of Outcast」追加して欲しいな！  -- 名無しさん  (2011-09-06 19:57:42)
+- ↑追加されたよ！　「fall into “reality”」ないから追加して欲しい。  -- 名無しさん  (2011-09-15 18:41:01)
+- ネームひでぇｗｗｗ  -- 鮎  (2011-09-15 18:52:01)
+- ルサンチマンで初めて知りましたがメロディがすごく好みでした♪  -- 名無しさん  (2012-02-14 19:35:15)
+- この人の曲が好き過ぎて生きるのが辛い  -- 名無しさん  (2012-02-25 09:38:23)
+- ボマスとかは出ないのかなぁ･･･  -- 名無しさん  (2012-03-09 01:18:03)
+- 調声から何から何までいいわぁ  -- 名無しさん  (2012-03-18 06:28:49)
+- この人の曲は勿論どれも良いんだけど、GUMIから人気出だして嬉しいような寂しいような……。自分はﾐｸ曲のようなﾊｰﾄﾞﾛｯｸ感が好きだった  -- 名無しさん  (2012-04-06 22:30:18)
+- ↑すっげぇ分かる。  -- 名無しさん  (2012-04-07 21:59:54)
+- ｻﾞﾌｪｲﾄカラオケ配信おめでとうございます！　５月からも楽しみにしてます！  -- 名無しさん  (2012-04-12 06:22:14)
+- 錯誤形成マジョリティ最高です(≧∇≦)何度聴いても飽きません(^w^)  -- 名無しさん  (2012-05-08 19:41:58)
+- ↑私もです！もっと伸びて欲しい(*´∀｀*)  -- 名無しさん  (2012-05-16 17:34:24)
+- メジャーデビュー(？)おめぇぇっっ!! ずっと応援してます！  -- 名無しさん  (2012-06-10 22:13:02)
+- 五周年おめ。大好きです。  -- 名無しさん  (2012-12-13 06:52:27)
+- ロリＰさんの曲、もっとみんなに知って欲しい～。  -- 名無しさん  (2013-10-15 23:11:25)
+- ロリさんですが、ロリさんは男性ですか?女性ですか?誰か教えてください。お願いします。  -- 名無しさん  (2014-08-05 22:22:37)
+- よくわかりませんが、女性でしょうかね?  -- マイ  (2014-08-06 11:59:36)
+- ニコニコ動画のユーザーページは「男性」  -- 名無しさん  (2015-08-18 20:52:43)
+- ニコ動にはうｐされてないけど、救いの声、リアリストの妄執が大好き！  -- 名無しさん  (2015-10-20 01:25:11)
+- この人２００７年からいるんだね・・・・・・全く知らなかった・・・・・・・  -- 名無しさん  (2015-10-24 23:56:28)
+#comment()

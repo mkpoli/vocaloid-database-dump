@@ -1,0 +1,89 @@
+#right(){&furigana(COCOLOのとけい) &furigana()【登録タグ:&tags() 】}
+|&nicovideo(http://www.nicovideo.jp/watch/sm3417372)|&youtube(http://www.youtube.com/watch?v=U_fdULtHu5Q)|
+作詞：[[X-Plorez]]
+作曲：[[X-Plorez]]
+編曲：[[X-Plorez]]
+唄：初音ミク、鏡音リン
+
+**歌詞
+（orange：リン、cyan：ミク、pink：2人）
+
+//実験的にパート分けしてみました。見づらかったら下に色分け無しのがあります。こちらをコメントアウトして、下のコメントアウトを外して下さい。
+//
+&underdot(orange){君を想う寂しげな春の夜}
+&underdot(cyan){ラジオから流れる切ない・・・}　&underdot(pink){LOVE SONG}
+&underdot(cyan){愛がみえない}　&underdot(orange){夢がみえない}
+&underdot(pink){もうこの季節も　終わるよ}
+
+&underdot(cyan){遠くにこだまするサイレンの音}
+&underdot(pink){離れて初めて知った痛み}
+&underdot(orange){もう君の街では}　&underdot(cyan){桜も散って}
+&underdot(cyan){想い出も}&underdot(pink){全て隠すだろう}
+
+&underdot(orange){MY LOVE・・・　戻れない}
+&underdot(orange){貴方と過ごしたあの時から}
+&underdot(orange){僕の心の時計は止まったまま・・・}
+
+
+&underdot(orange){帰りたい・・・}　&underdot(cyan){帰れない・・・}
+&underdot(cyan){心凍る前に}　&underdot(pink){眠りたい・・・}
+
+
+&underdot(cyan){MY LOVE・・・　二人が}
+&underdot(cyan){心を重ねたあのメロディ}
+&underdot(cyan){僕の心に今も流れてる}
+
+&underdot(orange){MY LOVE・・・　戻れない}
+&underdot(orange){貴方と出会ったあの時から}
+&underdot(orange){僕の心の時計は止まったまま・・・}
+
+&underdot(orange){MY LOVE　戻れない}
+&underdot(orange){貴方と過ごしたあの時から・・・}
+&underdot(orange){僕の心の時計は止まったまま・・・}
+
+&underdot(cyan){MY LOVE・・・　二人が}
+&underdot(cyan){心を重ねたあのメロディ}
+&underdot(cyan){僕の心に今も流れてる}
+
+
+
+#co(){
+**歌詞
+君を想う寂しげな春の夜
+ラジオから流れる切ない・・・LOVE SONG
+愛がみえない　夢がみえない
+もうこの季節も　終わるよ
+
+遠くにこだまするサイレンの音
+離れて初めて知った痛み
+もう君の街では　桜も散って
+想い出も全て隠すだろう
+
+MY LOVE・・・　戻れない
+貴方と過ごしたあの時から
+僕の心の時計は止まったまま・・・
+
+
+帰りたい・・・　帰れない・・・
+心凍る前に　眠りたい・・・
+
+
+MY LOVE・・・　二人が
+心を重ねたあのメロディ
+僕の心に今も流れてる
+
+MY LOVE・・・　戻れない
+貴方と出会ったあの時から
+僕の心の時計は止まったまま・・・
+
+MY LOVE　戻れない
+貴方と過ごしたあの時から・・・
+僕の心の時計は止まったまま・・・
+
+MY LOVE・・・　二人が
+心を重ねたあのメロディ
+僕の心に今も流れてる
+}
+
+**コメント
+#comment()

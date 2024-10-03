@@ -1,0 +1,40 @@
+#right(){&furigana(AsakiNo9)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+
+**特徴
+作り手名：『&u(){Asaki No'9}』
+-作詞家の作り手。「熱くて冷たい詞」に定評がある。
+-ボカロPの[[OPA]]は実の友人であり、&bold(){0-9}（オーナイン）というユニット名で、作詞：Asaki No'9、作曲：OPAとして活動している。
+--ユニット結成のきっかけは、OPAが『[[忘却心中]]』の詞に惚れ込んだことであるという。
+-OPAの他にも、MEIKOの楽曲を中心に詞を提供しており、&br()これまでに[[パレットP]]、[[ぢょんP]]、[[ナモナキP]]、[[ぺぺろんP]]とコラボレーションしている。
+
+**リンク
+-[[PIAPRO>>https://piapro.jp/asaki0009]]
+-[[Twitter>>https://twitter.com/AsakiRevolution]]
+-[[ニコニコ大百科>>https://dic.nicovideo.jp/a/asaki%20no%279]]
+
+**曲
+#list_by_tag(Asaki No'9,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(Asaki No'9CD,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**動画
+|&nicovideo(sm1587618)|&nicovideo(sm2036136)|
+|&nicovideo(sm2423426)|&nicovideo(sm2580743)|
+|&nicovideo(sm3510371)|&nicovideo(sm5152120)|
+|&nicovideo(sm5162029)|&nicovideo(sm5884820)|
+|&nicovideo(sm7012231)|&nicovideo(sm7549474)|
+|&nicovideo(sm7737365)|&nicovideo(sm8441097)|
+|&nicovideo(sm8713569)|&nicovideo(sm9260299)|
+|&nicovideo(sm12649201)|&nicovideo(sm13176959)|
+|&nicovideo(sm16078793)|>|
+
+**コメント
+- コラボしてる人全員好きだ…  -- 名無しさん  (2012-02-19 00:44:49)
+- 歌詞素敵だよね  -- 名無しさん  (2012-02-19 00:45:05)
+- 『道徳の樹海』とか、神がかった曲が多い。やっぱりOPAさんとのユニットが好きだな  -- 名無しさん  (2013-05-24 16:24:51)
+#comment()

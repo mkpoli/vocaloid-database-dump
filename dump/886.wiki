@@ -1,0 +1,27 @@
+#right(){&furigana(なかれたP) &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/4588078" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a target="_blank" href="http://www.nicovideo.jp/mylist/4588078">【ニコニコ動画】流田作品</a></iframe>)
+
+**特徴
+作り手名：『&u(){流田P}』(&u(){ながれたP})
+-ファミコン系8bit風味ピコピコチープサウンドな曲（本人談）「[[ホホホイ娘の血が騒ぐ]]」の作者。
+--コミケ前日の夕方に「今から作詞、作曲、打ち込み、MixDown、CD焼き込みを行って、明日ミクＣＤを配布しよう。」という構想３分から一気に作成した曲。
+-歌い手としても活動している。（[[歌い手まとめwikiの個人ページ>>http://www41.atwiki.jp/niconico_singer/pages/406.html]]）
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/z123123]]
+
+**曲
+#list_by_tag(流田P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(流田PCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm2013783){340,185}|
+-アレンジ版
+|&nicovideo(http://www.nicovideo.jp/watch/sm2422626){340,185}|
+-歌ってみた版
+|&nicovideo(http://www.nicovideo.jp/watch/sm2560424){340,185}|
+
+**コメント
+#comment()

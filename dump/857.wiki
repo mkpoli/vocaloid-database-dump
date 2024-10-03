@@ -1,0 +1,43 @@
+#right(){&furigana(りりす　えれくとろ) &furigana()【登録タグ:&tags() 】}
+|>|ver.full|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2932640)|&youtube(http://www.youtube.com/watch?v=5XRCir4RRP8){336,189}|
+|>|ver.short|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2408052)|&youtube(http://www.youtube.com/watch?v=6-CNJKeaZTQ){336,189}|
+|>|AntiochiaMIX(フル)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7568005)||
+|>|AntiochiaMIX(デモ)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5996421)|&youtube(http://www.youtube.com/watch?v=eoGE01NzJXM){336,189}|
+作詞：[[orange>orange/作り手]]
+作曲：[[Bumpyうるし]]
+編曲：[[Bumpyうるし]]
+唄：初音ミク（Full ver.）、巡音ルカ（AntiochiaMIX）
+
+**歌詞
+乾いてるの
+私を満たしてください
+あなたの中流れてる全てで
+
+冷えているの
+私を溶かしてください
+あなたをつき動かしてる熱で
+
+抱きしめるの
+私の終わりない吐息が
+あなたの肌を薄く覆う
+
+吸い込んであげる
+あなたの言葉も涙も
+
+呟いてあげる
+百年後　月の夜に
+あなたがここにいたと
+
+私を満たしてください
+あなたたちの言葉で
+私を満たしてください
+あなたたちの時間で
+
+**コメント
+- ファイル名に半角スラッシュ使うと、階層化されちゃうんだよ。カタカナだけでよかったんでない？  -- 名無しさん  (2008-02-28 17:22:22)
+- 移動しました。  -- 名無しさん  (2008-05-04 22:00:11)
+#comment()

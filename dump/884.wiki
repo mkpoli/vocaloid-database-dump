@@ -1,0 +1,67 @@
+#right(){&furigana(たいすけP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/3901423" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"></iframe><a target="_blank" href="https://www.nicovideo.jp/mylist/3901423">【ニコニコ動画】初音ミクのうた　たち</a>)
+
+**特徴
+作り手名：『&u(){だいすけP}』
+-子供から大人まで楽しんで聴けるような、ほのぼのとした曲調と温かみのある歌詞が特徴。
+-それゆえ「みんなのミクうた」タグがよく付けられている。
+-だが、油断しているとあまりにも&bold(){ストレートな歌詞}に涙腺崩壊させられることも・・・。
+-デビュー作の「[[初音ミクのうた]]」は[[ミク時計(mikuclock)>>http://nekokan.easter.ne.jp/flush/mikuclock.html]]に使われている。
+-使用VOCALOIDは、初音ミク(+Append)、鏡音リンレン(ACT1&ACT2+Append)、巡音ルカ、MEIKO、KAITO、&br()SWEET ANN、がくっぽいど、メグッポイド、歌愛ユキ、猫村いろは、結月ゆかり（[[作者HP>>http://www.infosnow.ne.jp/~koubou_6075/music/index.html]]より）。
+-「エレうた」のテーマソング募集で見事に「ラララ♪エレうた！」が採用され、番組公認のテーマソングとして使われている。
+
+**リンク
+-[[だいすけPのつぶやき(作者ブログ)>>http://daisukep.blog47.fc2.com/]]
+//-[[DAISUKE S./だいすけP　official site (作者HP)>>http://www.infosnow.ne.jp/~koubou_6075/music/index.html]]
+-[[PIAPRO>>https://piapro.jp/DaisukeS]]
+-[[Twitter>>https://twitter.com/Daisuke_P]]
+-[[ニコニコ>>https://www.nicovideo.jp/user/944502]]
+-[[YouTube>>https://www.youtube.com/user/DaisukeProducer]]
+//-[[zoome>>http://zoome.jp/DaisukeS/]]
+
+**曲
+#list_by_tag(だいすけP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(だいすけPCD,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**動画
+&bold(){オリジナル曲}
+|&nicovideo(sm1589380)|&nicovideo(sm1617626)|
+|&nicovideo(sm1882486)|&nicovideo(sm2479407)|
+|&nicovideo(sm2481399)|&nicovideo(sm2729517)|
+|&nicovideo(sm2837545)|&nicovideo(sm3251989)|
+|&nicovideo(sm3423625)|&nicovideo(sm3658165)|
+|&nicovideo(sm3937196)|&nicovideo(sm5055580)|
+|&nicovideo(sm6245530)|&nicovideo(sm7547490)|
+|&nicovideo(sm7741494)|&nicovideo(sm7802878)|
+|&nicovideo(sm8019435)|&nicovideo(sm8662695)|
+|&nicovideo(sm8780399)|&nicovideo(sm9706417)|
+|&nicovideo(sm10571924)|&nicovideo(sm12188202)|
+|&nicovideo(sm12525843)|&nicovideo(sm12872869)|
+|&nicovideo(sm12931936)|&nicovideo(sm13888847)|
+|&nicovideo(sm21893365)|&nicovideo(sm21915334)|
+
+&bold(){コラボ曲}
+|&nicovideo(sm2729202)|&nicovideo(sm5344292)|
+|&nicovideo(sm5369916)|&nicovideo(sm7526254)|
+|&nicovideo(sm13852043)|>|
+
+&bold(){カバー曲}
+|&nicovideo(sm4034836)|&nicovideo(sm13831849)|
+|&nicovideo(sm14048653)|>|
+
+**コメント
+- この人の曲を聴くと心が温かくなります  -- 名無しさん  (2008-05-08 21:27:32)
+- げんきでる  -- 名無しさん  (2008-08-31 14:27:05)
+- mikiの新曲かっこよかった。  -- 名無しさん  (2011-11-08 21:09:39)
+- 天国への手紙すごい泣いた、号泣でした。  -- 良太  (2015-10-28 23:54:03)
+- でも最近は「おはようじょ」でぶっ壊れた方向に行っているような…  -- 名無しさん  (2016-07-25 02:06:36)
+- 神曲「悪いコのためのハロウィンソング」が載ってなくないですか？！  -- 名無しさん  (2017-06-06 18:03:14)
+- 良い曲いっぱいですね！かなり神調教だと思いますし！「夢見人」「Justitia」「ルナトピア」「地の果てへ」が特に良いと思います！と思ったら「ルナトピア」のページが無い！神曲だと思うのでどなたかページ作成お願いします～！  -- 名無しさん  (2017-07-04 23:31:04)
+- 最強最高  -- なくすむ  (2021-06-26 10:05:43)
+#comment()

@@ -1,0 +1,42 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){SIGNALOID ALBUM}|CENTER:[[SIGNALOID SOUNDS]]|
+
+|&bold(){[[シグナルP]]}|
+
+||CENTER:即売|CENTER:同人|
+|CENTER:発売|CENTER:2008年3月23日|CENTER:2008年4月6日|
+|CENTER:価格|CENTER:￥1,000|CENTER:￥1,470（税込）|
+|CENTER:サークル|>|CENTER:twinkledisc|
+
+**CD紹介
+-[[シグナルP]]の初ボーカロイドCD。[[ボーマス３>>http://ketto.com/tvm/]]にて初頒布され、その後のイベントでも頒布されている。
+-オリジナル01～05と番外編01、そしてコムロイド01に加え「[[リンリンシグナル]]」の&b(){鏡音リン×シグナルP}デュエットを収録。
+-イベント頒布の後は[[D-STAGE>>http://d-stage.com/shop/detail.php?seq=6908&kw=&from=items]]、[[メッセサンオー>>http://www.doujinshop.com/doujin/user_top.cgi?type=music&strings=cd01842]]および[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/15/25/040010152547.html]]でも販売されました。
+-D-STAGEでの在庫を最後に廃盤となりました。（作者サイトより）
+
+**曲目
++[[リンリンシグナル]]
++[[Time&Space]]
++[[ファミリンコンピューター]]
++[[ひまわり>ひまわり/シグナルP]]
++[[桜舞う日]]
++Can't be your No.1 &color(red){NEW!}
++[[Overcome]]
++リンリンシグナル　(リン×シグP Ver.)
++リンリンシグナル　カラオケ
++Time＆Space　カラオケ
++ファミリンコンピューター　カラオケ
++ひまわり　カラオケ
++桜舞う日　カラオケ
++Can't be your No.1　カラオケ
++Overcome　カラオケ
+
+**リンク
+-[[twinkledisc>>http://twinkledisc.web.fc2.com/]]
+-[[D-STAGE>>http://d-stage.com/shop/detail.php?seq=6908&kw=&from=items]]（販売終了）
+-[[メッセサンオー>>http://www.doujinshop.com/doujin/user_top.cgi?type=music&strings=cd01842]]（販売終了）
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/15/25/040010152547.html]]（販売終了）
+
+**コメント
+#comment

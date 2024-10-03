@@ -1,0 +1,39 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[MIRACLE TRAX]]|CENTER:&bold(){Trax Mint}|CENTER:[[イイトコドリップ]]|
+
+|&bold(){[[ちょむP]]}|
+
+||CENTER:即売|CENTER:同人|
+|発売|CENTER:2008年4月6日|CENTER:2008年5月3日|
+|価格|CENTER:￥1,000|CENTER:￥1,500（税込）|
+|サークル|>|CENTER:ちょむ工房|
+
+**CD紹介
+-[[ちょむ工房>ちょむP]]のVOCALOIDオリジナルCD第三弾。[[ミクフェス1>>http://miku-fes.info/]]にて頒布された後、[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/14/89/040010148959.html]]等で販売された。
+
+**曲目
++海の季節
++Shout your name
++KAHLUA MILK KISS -Girl friends-
++across
++[[ミライのオト]]
++misty rain (endless night mix)
++[[歌いながら歩こう]]
++…
++海の季節 (off vocal)
++Shout your name (off vocal)
++KAHLUA MILK KISS -Girl friends- (off vocal)
++across (off vocal)
++ミライのオト (off vocal)
++misty rain (endless night mix) (off vocal)
++歌いながら歩こう (off vocal)
+
+**リンク
+-[[ちょむ工房>>http://chomstudio.com/products/26_mint.html]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/14/89/040010148959.html]]
+-[[メッセサンオー>>http://www.doujinshop.com/doujin/user_top.cgi?type=music&strings=01888]]
+-[[あきばお～こく>>http://www.akibaoo.com/02/commodity_param/t/0/ctc/+/shc/0/cmc/2500020050798/]]
+
+**コメント
+#comment

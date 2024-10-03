@@ -1,0 +1,37 @@
+#right(){&furigana(ゆうひさか)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+#amazon(B0019HA7FQ)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[歌に形はないけれど>歌に形はないけれど/CD]]|CENTER:&bold(){夕日坂}|CENTER:[[unformed]]|
+
+|&bold(){[[doriko]]}|
+
+発売：2008年6月11日
+価格：￥1,000（税込）
+流通：全国
+レーベル：Groove note
+
+**CD紹介
+CD名：『&u(){夕日坂}』（&u(){ゆうひざか}）
+-『[[歌に形はないけれど>歌に形はないけれど/CD]]（通常版）』と同時発売される[[doriko]]の&bold(){2ndシングル}。
+-前作に引き続き、ジャケットイラストはnezukiが担当。
+-さらに彼女が手がけたPVも、Bonus Trackとして収録されている。
+-6/10付オリコンデイリーシングルチャートで、初登場21位を記録。
+-本作及び『[[歌に形はないけれど>歌に形はないけれど/CD]]』は、現在の店頭在庫をもって廃盤となるようです。（作者サイトより）
+
+**曲目
++[[夕日坂]]
++Astraea
++[[通勤快速]]
+　　Bonus Track　　夕日坂[PV](エンハンズドCD仕様)
+
+**リンク
+//-[[作者ホームページ "なにか置場 ～doriko's homepage～">>http://doriko.oops.jp/]]
+-[[Groove note(doriko)>>http://www.groove-note.com/doriko.html]]
+
+**コメント
+#comment

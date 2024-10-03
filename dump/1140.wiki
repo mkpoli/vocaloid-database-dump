@@ -1,0 +1,44 @@
+#right(){&furigana(さささP) &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/3312716" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/3312716">【ニコニコ動画】ミク動画</a></iframe><a target="_blank" href="http://www.nicovideo.jp/mylist/3312716">【ニコニコ動画】ミク動画</a>)
+
+**特徴
+-民族音楽調のゆったりとした曲を制作するP。
+-自作イラストもほんわかしていて可愛らしい。
+-ピアプロでは[[絵描き発のコラボ（仮）>>http://piapro.jp/a/collabo/?view=collabo&id=10087]]を立て、コラボ促進活動展開中。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/sasasa]]
+
+**曲
+#list_by_tag(さささP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(さささPCD,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm1533105){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm1593047){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm1829748){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm1999758){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2321328){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm2574612){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4240263){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm4480119){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4764267){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm5377729){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5580571){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm5640333){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6276860){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm6366115){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7012548){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm7508611){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm8122597){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm8442504){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm8619492){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm8763175){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm8934448){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm9023632){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9031512){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm9108402){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9180246){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm9362695){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9390228){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm9489619){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9720773){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm9720795){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9974464){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm10290886){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm10548426){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm10564570){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm10576419){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm11241184){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm11376366){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm11950287){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12243644){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm12279913){340,185}|
+
+
+**コメント
+- Jack and Jill 超かわいいです＞＜   kagamination!!  -- 名無しさん  (2011-06-26 19:24:06)
+- 春慕えど君遠くとかトエトとか好きです。今でも聞きますよー  -- 名無しさん  (2014-08-23 17:44:08)
+#comment()

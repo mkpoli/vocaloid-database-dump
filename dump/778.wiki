@@ -1,0 +1,33 @@
+#right(){&furigana(はころもP) &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/4734248" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/thumb_mylist/4734248">はごろもリスト</a></iframe>)
+
+**特徴
+-KAITO使い。2008年8月からがくぽも導入。
+-そこはかとなく重く怖い曲調。
+-ねるね絵師の絵の迫力との相性が抜群。
+-P名の由来は「[[生命の詩]]」冒頭に入っていた水音ノイズから。
+-アーティスト名は&b(){yuzen}。
+
+**リンク
+-[[#1(Sharp-1)（作者ホームページ）>>http://sharp1.m--q.org/]]
+-[[PIAPRO>>http://piapro.jp/yuzen]]
+
+**曲
+#list_by_tag(はごろもP,100,sort=furigana)
+
+**CD
+#list_by_tag(はごろもPCD,100,sort=furigana)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm2280617){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm2490180){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2575541){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm2601177){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2789287){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm3423091){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4419503){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm7796589){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9075321){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm11001109){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm11010117){340,185}||
+
+**コメント
+- WEBデザインカラオケ配信おめでと  -- 霞観  (2009-08-14 16:52:51)
+- ペイガニズム大好きっ☆はごろもP最高ーーーっ！！！  -- 首なし  (2011-03-28 20:15:09)
+- ショタマッチョは名曲（色んな意味で）だと思うんだが、記事ないの？ｗｗ  -- 名無しさん  (2011-06-12 16:35:07)
+#comment()

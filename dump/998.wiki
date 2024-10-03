@@ -1,0 +1,34 @@
+#right(){&furigana(はつおと) &furigana()【登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186103185.jpg,x=300,y=300)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){ハツオト}|CENTER:[[初音幻想]]|
+
+|&bold(){[[nick-9>UPNUSY]]}|
+
+||CENTER:即売|CENTER:同人|
+|発売|CENTER:2007年12月31日|CENTER:2008年1月7日|
+|価格|CENTER:￥500|CENTER:￥735（税込）|
+|サークル|>|CENTER:Nick-Ninth|
+
+**CD紹介
+-[[nick-9>UPNUSY]]氏によるボーカロイドCD。07年冬コミにて頒布された後、[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/14/23/040010142382.html]]でも販売された。
+-人気曲「[[みくのこもりうた]]」や「[[Sound of Virginity]]」、[[「だいじょうぶだよ」>だいじょうぶだよ]]を含む全６曲。
+-ジャケットイラスト：おにねこ
+
+**曲目
++sunshine smile!
++ツインテール・ラプソディ
++Nostalgia～風の彼方に～
++[[Sound of Virginity]]
++[[「だいじょうぶだよ」>だいじょうぶだよ]]
++[[みくのこもりうた]]
+
+**リンク
+//-[[Nick-Ninth>>http://nickninth.blog104.fc2.com/]]
+-[[作者ブログ>>http://nickninth.blog104.fc2.com/blog-date-200712.html]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/14/23/040010142382.html]]
+
+**コメント
+#comment

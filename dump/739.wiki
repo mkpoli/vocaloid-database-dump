@@ -1,0 +1,92 @@
+#right(){&furigana(しえろP) &furigana()【登録タグ:&tags() 】}
+|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/6018103" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/6018103">【ニコニコ動画】投稿動画一覧</a></iframe>)|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/4268984" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/4268984">【ニコニコ動画】投稿動画一覧</a></iframe>)|
+
+**特徴
+-&b(){しえろP}（ショタエロイドP）は2つの名があるPであり、動画によって名前を使い分けている模様。
+-鏡音リン・レン使い。
+-一部楽曲に関してはショタコンという名の紳士が集っている。
+-「[[Deja vu ～いつか見た場所～]]」で初めて歌詞有りのオリジナル曲を投稿。
+
+**ミリオン達成状況
+-オリジナル楽曲では達成楽曲なし。
+-以下のカヴァー楽曲が[[ミリオン>曲一覧/ミリオン曲一覧]]を達成している。(曲名をクリックすると、ニコニコ動画内の対応した動画に飛ぶ仕様となっている。)
+
+|CENTER:&bold(){曲名}|CENTER:&bold(){100万再生}|CENTER:&bold(){200万再生} |CENTER:&bold(){300万再生}|CENTER:&bold(){備考}|
+|[[亡國覚醒カタルシス>>https://nico.ms/sm982882]]|2014年3月1日|||原曲はALI PROJECTの[[亡國覚醒カタルシス>>https://youtu.be/QRg_H2DRNAU]]&br()歌唱は鏡音レン|
+
+**曲
+#list_by_tag(しえろP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(しえろPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**リンク
+-[[ahp（作者サイト）>>http://ahp.xii.jp/]]
+-[[PIAPRO（ぷる＠しえろ）>>http://piapro.jp/pull]]
+
+**動画
+|>|BGCOLOR(#B66):COLOR(#FFF):CENTER:&font(b,11pt){オリジナル曲}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3202311){360,123}|&nicovideo(http://www.nicovideo.jp/watch/sm5672410){360,123}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12437306){360,123}|&nicovideo(http://www.nicovideo.jp/watch/sm13467258){360,123}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm14650917){360,123}|BGCOLOR(#FFF):|
+
+|>|BGCOLOR(#66B):COLOR(#FFF):CENTER:&font(b,11pt){カバー・アレンジ曲}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3148420){360,123}|&nicovideo(http://www.nicovideo.jp/watch/sm3524236){360,123}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7340553){360,123}|&nicovideo(http://www.nicovideo.jp/watch/sm8580407){360,123}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9502006){360,123}|&nicovideo(http://www.nicovideo.jp/watch/sm14854198){360,123}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm15055234){360,123}|&nicovideo(http://www.nicovideo.jp/watch/sm15238320){360,123}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm16534267){360,123}|&nicovideo(http://www.nicovideo.jp/watch/sm17739949){360,123}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm17863881){360,123}|&nicovideo(http://www.nicovideo.jp/watch/sm19689024){360,123}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm19734064){360,123}|&nicovideo(http://www.nicovideo.jp/watch/sm21511323){360,123}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm21663725){360,123}|BGCOLOR(#FFF):|
+
+|>|BGCOLOR(#6A6):COLOR(#FFF):CENTER:&font(b,11pt){カバー曲}&font(10pt){（しえろP名義）}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3798833){360,123}|&nicovideo(http://www.nicovideo.jp/watch/sm3882258){360,123}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5540957){360,123}|&nicovideo(http://www.nicovideo.jp/watch/sm6144178){360,123}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7216039){360,123}|&nicovideo(http://www.nicovideo.jp/watch/sm9236977){360,123}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm17737450){360,123}|&nicovideo(http://www.nicovideo.jp/watch/sm17807191){360,123}|
+
+|>|BGCOLOR(#AA6):COLOR(#FFF):CENTER:&font(b,11pt){カバー曲}&font(10pt){（ショタエロイドP名義）}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm1955331){360,123}|&nicovideo(http://www.nicovideo.jp/watch/sm2033731){360,123}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2157838){360,123}|&nicovideo(http://www.nicovideo.jp/watch/sm2250420){360,123}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2302776){360,123}|&nicovideo(http://www.nicovideo.jp/watch/sm6019590){360,123}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6092076){360,123}|&nicovideo(http://www.nicovideo.jp/watch/sm7472288){360,123}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm10296809){360,123}|&nicovideo(http://www.nicovideo.jp/watch/sm15571520){360,123}|
+
+|>|BGCOLOR(#6AA):COLOR(#FFF):CENTER:&font(b,11pt){関連動画}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4478599){360,123}|&nicovideo(http://www.nicovideo.jp/watch/sm4886301){360,123}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm8580407){360,123}|&nicovideo(http://www.nicovideo.jp/watch/sm11421907){360,123}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm13245859){360,123}|&nicovideo(http://www.nicovideo.jp/watch/sm16502734){360,123}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm16532938){360,123}|&nicovideo(http://www.nicovideo.jp/watch/sm19680114){360,123}|
+
+
+**コメント
+- オリ曲では「しえろＰ」と名乗っているようですね。  -- 名無しさん  (2008-05-24 21:14:38)
+- 名義を変えて投稿してる場合は分けるかまとめるか迷いますね。  -- 名無しさん  (2008-05-30 14:26:22)
+- しえろPとショタエロイドPのページを統合しました。  -- tombo  (2008-06-08 15:53:02)
+- 絵にも定評がありますね。夜間飛行と夜にはぐれては本人の作画。  -- 名無しさん  (2008-06-15 10:06:19)
+- ↑ブラック★ロックシューターもだとか。  -- 名無しさん  (2008-08-02 00:59:41)
+- ピアプロでしえろPさんやいたるさんのところで荒らしを行うa_tsukasaによってPが活動休止らしい。  -- 名無し  (2008-08-24 17:11:41)
+- 荒らしは「公序良俗に引っ掛る」と騒いでいたが、ピアプロ側は「別に問題ない」だしな  -- 名無しさん  (2008-08-24 20:23:07)
+- っていうかa_tsukasaが公序良俗、乱してるよね。あぁ、しえろPかむばぁーっく！！  -- 名無しさん  (2008-08-24 21:47:47)
+- 荒らしが現れる前から活動休止っていってたｷｶﾞｽ  -- 名無しさん  (2008-08-25 21:33:24)
+- 荒らしが現れる前からはないと思うが  -- 名無しさん  (2008-10-08 18:17:43)
+- そろそろしえろPの曲が聴きたくなってきた  -- 名無しさん  (2008-10-11 14:14:55)
+- ショタエロイドPが帰ってキタ―(゜∀゜)―!!　相変わらずの神調教でした  -- 名無しさん  (2008-10-17 19:23:57)
+- しえろPの帰還に敬礼！  -- 名無しさん  (2008-12-07 23:07:59)
+- Pの活動が精力的で嬉しいお＾＾  -- 名無しさん  (2009-02-03 22:35:59)
+- 亡國覚醒カタルシスのWikiがない。  -- 名無しさん  (2009-06-11 18:06:07)
+- ↑カバー曲なんだから当たり前  -- 名無しさん  (2009-06-17 20:04:16)
+- ↑↑ボカロオリジナルじゃなくて一般アーティストの曲だからダメなんだよ  -- 名無しさん  (2009-07-11 14:40:31)
+- 亡國覚醒カタルシスのカバーって歌詞もいじってるんですか？  -- 飴ちょこ  (2009-07-18 21:15:16)
+- ↑いじってませんよ  -- 名無しさん  (2009-07-19 15:10:18)
+- ↑ありがとうございますω  -- 飴ちょこ  (2009-07-21 20:21:46)
+- アリプロの曲、他にもカバーして欲しいな。聖少女領域とかｗ  -- 名無しさん  (2009-09-21 16:23:53)
+- じゃあ、夢見る少女じゃいられないも！！  -- 名無しさん  (2009-09-30 22:36:29)
+- 聖少女領域の歌詞Wikiにほしい  -- 名無しさん  (2010-01-02 15:10:17)
+- シエロさんって名前『江口』じゃないかな  -- 名無しさん  (2010-04-08 20:11:53)
+- ↑その発想はなかった  -- 名無しさん  (2010-06-13 10:17:03)
+- ↑↑フイタwwww  -- 名無しさん  (2011-12-04 00:34:55)
+- なんで非表示になってしまったんでしょうか？動画…  -- 名無しさん  (2011-12-09 19:48:04)
+- あのカッコイイ絵って本人のだったのか⋯！！！！！  -- 名無しさん  (2014-12-05 22:43:58)
+#comment()

@@ -1,0 +1,31 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Affairs of Life}|CENTER:[[alive>alive/CD]]|
+
+|&bold(){[[彩音P]]}|
+
+発売：2008年5月11日
+価格：￥1000（税込）
+流通：即売
+サークル：彩音 ～xi-on～
+
+**CD紹介
+-彩音Pの初ボーカロイド&bold(){ミニアルバム}。
+-新曲『ミカタ』に加え、『サラリーマンのうた』を始めとする人気の既発表曲も再調整して収録。
+-M3-2008春にて初頒布。THE VOC@LOiD M@STER 4 (6/29) でも頒布される。
+
+**曲目
++[[サラリーマンのうた]]
++[[ニコニコ・ラプソディー]]
++ミカタ &color(red){NEW!}
++[[雪峰 ～yukimine～]]
++サラリーマンのうた （off vocal） 
++ニコニコ・ラプソディー （off vocal）
++ミカタ （off vocal）
++雪峰 ～yukimine～ （off vocal）
+
+**リンク
+-[[作者頒布作品紹介ページ>http://xion.art-studio.cc/product.htm]]
+
+**コメント
+#comment

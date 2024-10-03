@@ -1,0 +1,77 @@
+#right(){&furigana(うたP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/4734715" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/4734715">【ニコニコ動画】VOCALOIDに歌わせたもの</a></iframe>)
+
+**特徴
+作り手名：『&u(){ウタP}』
+-民族音楽調を得意とするP。
+//-P名は&bold(){ウタP}
+-使用するボカロは鏡音リン・レン、初音ミク、MEIKO、巡音ルカ。
+-そのレンの調教度合は数少ない「伝説のLENマスター」の称号を与えられるほど。レンを伸び伸びと自然に歌わすことができる。
+-音楽、歌詞、共に情熱的なものが多い。
+-時々歌ってみたりもしている。
+-また、他のPとも積極的にコラボを行っている。
+-造語が十八番である。…歌えませんｗ
+
+**リンク
+//-[[ウラ退屈ノート>>http://www.geocities.jp/boredom_note/]]（HP）
+//-[[退屈ノート>>http://boredomnote.blog2.fc2.com/]]（blog）
+-[[PIAPRO>>https://piapro.jp/windmaster]]（ウタP（U-ta）表記）
+-[[Twitter>>https://twitter.com/boredomnote]]
+
+**曲
+#list_by_tag(ウタP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(ウタPCD,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**動画
+|&nicovideo(sm2230330)|&nicovideo(sm2279829)|
+|&nicovideo(sm2388032)|&nicovideo(sm2509414)|
+|&nicovideo(sm2722302)|&nicovideo(sm3268190)|
+|&nicovideo(sm3445140)|&nicovideo(sm4196877)|
+|&nicovideo(sm4468889)|&nicovideo(sm4762229)|
+|&nicovideo(sm5127829)|&nicovideo(sm5870324)|
+|&nicovideo(sm6018165)|&nicovideo(sm6074691)|
+|&nicovideo(sm6513344)|&nicovideo(sm7559003)|
+|&nicovideo(sm8024556)|&nicovideo(sm8091312)|
+|&nicovideo(sm8540552)|&nicovideo(sm9439204)|
+|&nicovideo(sm9165465)|&nicovideo(sm11129600)|
+|&nicovideo(sm11342999)|&nicovideo(sm12985343)|
+|&nicovideo(sm13883550)|&nicovideo(sm16523033)|
+|&nicovideo(sm17744766)|&nicovideo(sm18506855)|
+|&nicovideo(sm27688976)|&nicovideo(sm28533036)|
+|&nicovideo(sm37814602)|&nicovideo(sm38135169)|
+|&nicovideo(sm41241357)|&nicovideo(sm41564738)|
+|&nicovideo(sm42433194)|&nicovideo(sm42777342)|
+
+-コラボ
+|&nicovideo(sm4382480)|&nicovideo(sm4987720)|
+|&nicovideo(sm5200729)|&nicovideo(sm5639103)|
+|&nicovideo(sm7009627)|&nicovideo(sm8722383)|
+|&nicovideo(sm9165624)|&nicovideo(sm17459260)|
+
+-アレンジ
+|&nicovideo(sm4688641)|&nicovideo(sm5538947)|
+|&nicovideo(sm5669956)|&nicovideo(sm18096273)|
+
+**コメント
+- 民族調ハマりました。素晴らしいです  -- 名無しさん  (2009-03-29 23:24:35)
+- 民族調好きにはたまらないです。そしてウタPのレンが本当に良い！！  -- 名無しさん  (2009-06-11 19:52:25)
+- ウタPの曲は全部、もっと評価されるべき！  -- 名無しさん  (2009-09-12 09:08:47)
+- ウタPさんの曲みんないい曲ですよね!!!　空とか風花舞とか大好きです。  -- あかね  (2009-12-08 23:20:03)
+- たまに食い物関係で暴走する先生。だが、それがいい。  -- 名無しさん  (2010-04-19 08:15:20)
+- 民族調×レン＝∞！  -- 名無しさん  (2010-04-29 15:50:28)
+- 生きとし生けるものから、ウタPのことを知って、ウタPの製作する民謡曲が、大好きになりました歌Pの曲はすべて神・・・もっと評価されるべきだと思います  -- 麻里亜  (2011-03-07 06:18:25)
+- ウタＰすきだー!!!!  -- ナツエル  (2011-03-23 16:56:08)
+- ウタPの曲を聴いたのがきっかけで民族調が大好きになりました！ウタPの曲はみんな素晴らしいと思います！  -- 名無しさん  (2011-10-05 22:27:21)
+- 鏡音民族調コンピレーション、「僕に罰を 君に光を」の続きってことで凄く楽しみ！！！  -- 名無しさん  (2011-11-19 15:11:42)
+- 民族曲調大好き　Pygmalionが特に･･･!!  -- 名無しさん  (2012-02-05 13:26:33)
+- 「Imitator」でウタＰさんの事を知り、大好きになりました。これからも頑張って欲しいです。  -- 名無しさん  (2012-10-03 18:48:52)
+- ウタPさんすてき。唄音ウタや唄音オトもいい!!  -- 名無しさん  (2014-02-05 16:48:53)
+- Dakiniが掲載されてない…だと？編集できん、誰か頼む！  -- 名無しさん  (2014-02-24 04:02:37)
+- ウタさんの曲は、とてもおもしろくてすごいです。  -- 名無しさん  (2015-02-06 21:14:16)
+#comment()

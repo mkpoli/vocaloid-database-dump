@@ -1,0 +1,35 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){celluloid}|CENTER:[[REFLECTION>REFLECTION/CD]]|
+
+|&bold(){[[baker]]}|
+
+発売：2008年1月13日
+価格：￥500（税込）
+流通：同人
+サークル：REFLECTION
+
+**CD紹介
+-ボーカロイドマスター2より販売開始
+-とらのあなでも販売されたが現在絶版となっている模様
+
+**曲目
++[[celluloid]]
++[[サウンド]]
++ash
++nostalgia
++kidd
+
+**PV(動画)
++[[celluloid]]
++[[サウンド]]
++ash
+
+
+**リンク
+-[[REFLECTION>>http://kisk55.web.fc2.com/baker/index_baker.html]]
+
+**コメント
+//- あ、１ゲット！
+- CD発売してたんですね～。欲しかったです・・・（泣）  -- はるるん  (2011-08-03 18:52:33)
+#comment

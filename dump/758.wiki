@@ -1,0 +1,39 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/5899102" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"></iframe><a target="_blank" href="http://www.nicovideo.jp/mylist/5899102">【ニコニコ動画】うｐリスト</a>)
+
+**特徴
+-処女作である「[[Linkage]]」は週刊VOCALOIDランキング #14で11位にランクイン。その後殿堂入りを果たす。
+-その後2曲投稿するも再生数が伸び悩む不遇の人。
+-3曲目の「[[Aurora>Aurora/RozenkreuzP]]」を投稿後にリアルが大変という事で活動を停止。CV03が出たら何かやるかもしれないとの事。
+-いつまで待っても情報が出ない為、2008年5月20日に新曲を3曲まとめて投稿して復活の狼煙を上げる（翌21日に分割版もアップ）。
+--そして2年後の2010年6月1日、「[[Under The Ground]]」を投稿して復活。
+
+**曲
+#list_by_tag(RozenkreuzP,100,sort=furigana)
+
+**CD
+#list_by_tag(RozenkreuzPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm1914307)|&nicovideo(http://www.nicovideo.jp/watch/sm2061292)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2227394)|&nicovideo(http://www.nicovideo.jp/watch/sm3381632)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3381726)|&nicovideo(http://www.nicovideo.jp/watch/sm3381792)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm10916300)||
+
+**コメント
+- この人復活したよ  -- 名無しさん  (2008-05-21 18:06:51)
+- 新曲分割版を一覧に追加  -- 名無しさん  (2008-05-24 04:41:33)
+- かなりのリン使いとみた。  -- 名無しさん  (2009-02-11 22:22:24)
+- CV03が出たけど復活しないのかな  -- 名無しさん  (2009-03-16 13:16:55)
+- 新曲ずっと楽しみにしてるんですが…  -- 名無しさん  (2009-04-01 12:34:53)
+- ルカ曲も作って欲しいなぁ…絶対ハマる！  -- 名無しさん  (2009-08-04 19:54:50)
+- Dollsちょっとずつだけど伸びてきてるねーうれしい  -- 名無しさん  (2009-08-28 01:22:08)
+- ロゼＰの曲癒される(･ω･*。新曲こないかな…  -- 名無しさん  (2009-10-13 20:28:22)
+- 本っっっ当に待ってました！おかえりなさい！新曲も凄く良かったです！  -- とりこ  (2010-10-03 02:11:10)
+- この人のDollsとLinkageが大好き！  -- 名無しさん  (2011-05-26 20:58:42)
+- この人の曲にはハズレが無い！！  -- 名無しさん  (2011-11-23 13:19:35)
+- 復活したはいいけどまた失踪・・・また曲上げてほしいな  -- 名無しさん  (2012-01-24 09:38:37)
+- 伝説のＲＩＮマスタータグがついているけどこのままだと幻のＲＩＮマスターになってしまうな  -- Dollsが好きな人  (2012-01-31 19:42:48)
+- この人の曲、2008年に知ったけど、いまだに好き。dolls殿堂入りうれしいです  -- 名無しさん  (2014-01-22 16:04:10)
+- もうすぐ鏡音10周年になるけど、それくらい時間経ってもずっとローゼンpが好き。リンちゃん好き！って思わせてくれたのこの人のおかげ。  -- 名無しさん  (2017-11-08 15:19:12)
+#comment()

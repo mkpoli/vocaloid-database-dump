@@ -1,0 +1,78 @@
+#right(){&furigana(はれっとP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/1205684" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"></iframe><a target="_blank" href="https://www.nicovideo.jp/mylist/1205684">【ニコニコ動画】うｐしたやつ</a>)
+
+**特徴
+作り手名：『&u(){パレットP}』
+-[[MEIKO]]を使ったロック曲を投稿する。
+--他のボカロ（KAITO・ミク・GUMI等）を並行して用いるMEIKOユーザーが多い中、&br()一貫してMEIKOのみを使い続ける数少ない作り手のひとり。
+-アーティスト名は、&b(){nocchi1031}。
+-聴きどころであるギターは、全曲とも自身の演奏によるもの。&br()ファンからは&bold(){エロギター}と呼ばれており、ギターソロが始まるとともに弾幕が飛びかう。
+--また、時に&bold(){暴れ太鼓}とも称される激しいドラムも、氏の曲を特徴づけるサウンドである。
+-『[[Color>Color/パレットP]]』（イラスト差し替え版）以降、動画ごとに投コメで異なる名前を名乗っていた。（多くが海外スターの名前）&br()しかし、『[[空を仰ぐ]]』を最後に、投コメにおけるこの「お約束」は封印されている。
+--&bold(){ヴィンセント☆ギャロ}でも大抵分かってもらえる。
+-時々、ピアプロ限定で新曲をアップすることがあるので要チェック！
+
+***今までに使った名前の一覧
+|Color（イラスト差し替え版）|ヴィンセント☆ギャロ|
+|サッドソング|オーランド☆ブルーム|
+|卒業おめでとう…|キャメロン☆ディアｓ|
+|散る|デイヴ☆クーリアー|
+|Voice|マシ☆オカ|
+|指先|天★才☆少★年☆ドギー・ハウザー|
+|雨音|（　）☆（　）　　←好きな名前を入れて遊ぼう！|
+|紫陽花|凡蔵☆パレ男|
+|GENIUS Syndrome|ドリュー☆バリモア|
+|きれいなゆめ|ルーシー☆リュー|
+|Winner Takes All|リバー☆フェニックス|
+|いつかのメロディー|サミュエル☆L★ジャクソン|
+|1987|ゲイリー☆オールドマン|
+|空を仰ぐ|マーク☆レスター|
+
+**リンク
+-[[作者ブログ「のらりくらり」>>http://nocchi1031.seesaa.net/]]
+-[[PIAPRO>>https://piapro.jp/nocchi1031]]
+-[[YouTube>>https://www.youtube.com/channel/UC24Kwi_BFSMW4DL17HDySHQ]]
+-[[Twitter>>https://twitter.com/nocchi1031]]
+
+**曲
+#list_by_tag(パレットP,100,sort=furigana)
+
+**CD
+#list_by_tag(パレットPCD,100,sort=furigana)
+
+**動画
+|&nicovideo(sm1755938)|&nicovideo(sm1928246)|
+|&nicovideo(sm2052071)|&nicovideo(sm2112833)|
+|&nicovideo(sm2281101)|&nicovideo(sm2423426)|
+|&nicovideo(sm2725991)|&nicovideo(sm3002417)|
+|&nicovideo(sm3503078)|&nicovideo(sm3753790)|
+|&nicovideo(sm4487092)|&nicovideo(sm5162029)|
+|&nicovideo(sm5162217)|&nicovideo(sm6359156)|
+|&nicovideo(sm8716913)|&nicovideo(sm8716955)|
+|&nicovideo(sm9133359)|&nicovideo(sm10617676)|
+|&nicovideo(sm11896809)|&nicovideo(sm12238756)|
+|&nicovideo(sm12648447)|&nicovideo(sm14471957)|
+|&nicovideo(sm14686079)|&nicovideo(sm15640880)|
+|&nicovideo(sm16086169)|&nicovideo(sm16498726)|
+|&nicovideo(sm17162170)|&nicovideo(sm18298897)|
+|&nicovideo(sm19062307)|&nicovideo(sm21713045)|
+|&nicovideo(sm22075647)|&nicovideo(sm22688260)|
+|&nicovideo(sm23413636)|&nicovideo(sm24417229)|
+|&nicovideo(sm24861442)|&nicovideo(sm26048094)|
+|&nicovideo(sm28269233)|&nicovideo(sm28744190)|
+|&nicovideo(sm30564800)|&nicovideo(sm32322139)|
+|&nicovideo(sm35483321)|&nicovideo(sm39723097)|
+
+**コメント
+- 個人的にパレットPの曲は良曲ばかりだと思う\(^o^)/  -- 名無しさん  (2008-12-12 15:36:54)
+- パレットP大好きだ!!  -- 名無しさん  (2009-01-23 09:35:19)
+- PIAPROにしかないけどEmptinessも好きだ  -- 名無しさん  (2009-03-13 16:49:09)
+- 名前一覧追記した人、激しく乙ｗｗｗ  -- 名無しさん  (2009-03-13 21:51:50)
+- 名前一覧超ＧＪｗｗｗｗこういうの欲しかったｗｗｗ  -- 名無しさん  (2009-03-13 23:26:17)
+- 名前一覧ｗｗｗ　この発想は無かったｗｗｗ　　つーかニコニコ大百科にも欲しいｗｗｗ  -- 名無しさん  (2010-10-17 00:03:49)
+- 適当にMEIKOの曲聴いてたら好きになった曲は殆どこの人の曲だった  -- 名無しさん  (2013-03-22 17:05:41)
+#comment()

@@ -1,0 +1,61 @@
+#right(){&furigana(なたP) &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/4237078" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/4237078">【ニコニコ動画】オリジナル曲とか</a></iframe>)
+
+**特徴
+-低音レンでの渋く聞かせる曲調の曲が多い。
+-自作曲のセルフカバーで、低音がくぽマスターとしても有名。
+-ルカを使い始めてからは一転、非常に綺麗な高音を魅力とした曲も発表している。
+-『[[スターゲイザー>スターゲイザー/ナタP]]』の動画に見られるように、お茶目な一面も持つ。
+
+**リンク
+-[[NATARIE IN THE DREAM（作者ブログ）>>http://natarieinthedream.com/]]
+-[[PIAPRO>>http://piapro.jp/natarie]]
+-[[twitter>>https://mobile.twitter.com/natarieks]]
+
+**曲
+#list_by_tag(ナタP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(ナタPCD,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**動画
+&bold(){オリジナル曲}
+|&nicovideo(http://www.nicovideo.jp/watch/sm1934647)|&nicovideo(http://www.nicovideo.jp/watch/sm2034055)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2407450)|&nicovideo(http://www.nicovideo.jp/watch/sm2518850)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2832213)|&nicovideo(http://www.nicovideo.jp/watch/sm3223345)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3547427)|&nicovideo(http://www.nicovideo.jp/watch/sm3649406)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3849270)|&nicovideo(http://www.nicovideo.jp/watch/sm4005249)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4144990)|&nicovideo(http://www.nicovideo.jp/watch/sm4155166)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4155201)|&nicovideo(http://www.nicovideo.jp/watch/sm4853697)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5994151)|&nicovideo(http://www.nicovideo.jp/watch/sm6466219)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7763050)|&nicovideo(http://www.nicovideo.jp/watch/sm8500126)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm8754594)|&nicovideo(http://www.nicovideo.jp/watch/sm9207558)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm10457668)|&nicovideo(http://www.nicovideo.jp/watch/sm10467136)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm10512599)|&nicovideo(http://www.nicovideo.jp/watch/sm14594846)|
+
+-&bold(){カバー曲}
+|&nicovideo(http://www.nicovideo.jp/watch/sm2176003){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm2231874){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2250705){340,185}||
+
+**コメント
+- 勝手にバナナスの先駆者だと思って居る。  -- 名無しさん  (2008-09-10 19:32:19)
+- 低音レン共々もっと評価されるべき  -- 名無しさん  (2008-11-24 14:52:01)
+- もっと評価されるべき  -- 名無しさん  (2009-06-01 01:07:35)
+- ほんともっと評価されるべき  -- 名無しさん  (2009-08-19 23:59:27)
+- 綺麗なオケといいレンの美声(低音)といい、透明感のある歌詞といい、何をとっても素晴らしいの一言しか出ません。これからも応援してます  -- 名無しさん  (2009-08-28 09:36:07)
+- 曲とレンの声が美しくていつも聞きほれます。  -- 名無しさん  (2009-08-28 15:08:39)
+- 初ルカ曲が秀逸。かしほしいー  -- 名無しさん  (2009-10-17 21:39:15)
+- 空気感、言葉選び・・・群を抜いて好きです。iPodのナタPフォルダはエンドレスリピート。  -- 名無しさん  (2009-11-13 14:14:53)
+- ボマスで買ったWATERISE:がたまらない。幻想的でドラマチック。自然と何度も聴いてしまう。  -- 名無しさん  (2009-12-09 16:57:47)
+- この人は最高すぎる、もっと評価されるべき  -- 名無しさん  (2009-12-16 09:15:21)
+- ブログのアドレスが変わってたので変更しときましたー  -- 名無しさん  (2009-12-21 01:14:50)
+- レンの久々の新曲も良かった…。毎回思うけれど、音がきれいだなぁ。惚れ惚れする。  -- 名無しさん  (2009-12-27 02:07:56)
+- ナタPの曲の雰囲気というか空気が大好きです。専門的なことは分からないけど素敵な曲を作るなあといつも思います。  -- 名無しさん  (2009-12-27 12:11:03)
+- 調教に透明感がありすぎて聴き入ってしまって良い意味で困る。  -- 名無しさん  (2010-08-30 09:18:00)
+- ↑１４ 　バナナスの先駆者！自分もそう思う  -- 名無しさん  (2011-01-18 17:02:21)
+- 数在るPの中でも一番好き…もっと評価されてほしい  -- 名無しさん  (2011-03-30 12:04:28)
+- なぜもっと評価されないのか不思議でしょうがない。 ナタPの低音レンは神  -- 名無しさん  (2011-07-13 16:57:09)
+- 波みたいとかきらきらしてるとか、そういう表現したくなる音をつくるよなぁ  -- 名無しさん  (2011-08-25 00:10:25)
+- 多幸感。ただ曲を聴くだけなのに凄く幸せな気分になれる  -- 名無しさん  (2015-03-02 22:46:27)
+- この人ミリオン持ってないのまじで信じられない驚愕  -- 名無しさん  (2022-12-01 01:47:07)
+#comment()

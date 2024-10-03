@@ -1,0 +1,29 @@
+#right(){&furigana(さくらさく) &furigana()【登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186114030.jpg)
+
+|CENTER:本作|CENTER:次作|
+|CENTER:&bold(){サクラ39}|CENTER:[[イイトコドリップ]]|
+
+|&bold(){すぺらんかー}|
+
+||CENTER:即売|CENTER:同人|
+|発売|2008年4月6日|CENTER:2008年5月3日|
+|価格|CENTER:￥500（税込）|CENTER:￥525（税込）|
+|サークル|CENTER:Silly Walker|CENTER:Silly Walker|
+
+**CD紹介
+-サークル"[[Silly Walker>>http://www.sillywalker.info/]]"によるボーカロイドCD。
+
+**曲目
++Glasshopper
++軽い気持ち
++3-9-RA
++エメラルド・タブレット
++Cream
+
+**リンク
+-[[Silly Walker>>http://www.sillywalker.info/]]
+
+**コメント
+#comment

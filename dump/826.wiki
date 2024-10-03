@@ -1,0 +1,57 @@
+#right(){&furigana(てんねん)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/5545517" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"></iframe><a target="_blank" href="https://www.nicovideo.jp/mylist/5545517">【ニコニコ動画】陳列品</a>)
+
+**特徴
+作り手名：『&u(){テンネン}』
+-一味違った癖のある楽曲が特徴。作曲ペースも速い。
+-曲タイトルの特徴としてカタカナを多用している。
+-&bold(){おっぴろげP}とも。
+-その正体は、「ゴッドイーター」などを手掛けたゲームデザイナーの&bold(){保井俊之}氏。
+
+**リンク
+-[[作者ブログ（Natural Freaks）>>http://t3nn3n.blog81.fc2.com/]]
+-[[PIAPRO>>https://piapro.jp/tennen]]
+-[[Twitter>>https://twitter.com/natural_freaks]]
+//-[[にゃっぽん>>http://v-nyappon.net/?m=pc&a=page_f_home&target_c_member_id=2312]]
+
+**曲
+#list_by_tag(テンネン,100,sort=furigana)
+
+**CD
+#list_by_tag(テンネンCD,100,sort=furigana)
+
+**動画
+|&nicovideo(sm2478507)|&nicovideo(sm2489096)|
+|&nicovideo(nm2540970)|&nicovideo(nm2615669)|
+|&nicovideo(nm2657928)|&nicovideo(nm2678019)|
+|&nicovideo(nm2724056)|&nicovideo(nm2749649)|
+|&nicovideo(nm2758991)|&nicovideo(nm2799370)|
+|&nicovideo(nm2800085)|&nicovideo(nm2841970)|
+|&nicovideo(nm2947984)|&nicovideo(nm2979831)|
+|&nicovideo(nm2991904)|&nicovideo(nm3155962)|
+|&nicovideo(nm3198706)|&nicovideo(nm3382581)|
+|&nicovideo(sm3526618)|&nicovideo(nm3742744)|
+|&nicovideo(sm4238102)|&nicovideo(nm4423379)|
+|&nicovideo(nm4478189)|&nicovideo(nm4830871)|
+|&nicovideo(nm5358414)|&nicovideo(nm5713813)|
+|&nicovideo(nm5714045)|&nicovideo(nm5885563)|
+|&nicovideo(sm6448601)|&nicovideo(nm6661637)|
+|&nicovideo(sm7022187)|&nicovideo(sm7422794)|
+|&nicovideo(sm8128812)|&nicovideo(sm8138001)|
+|&nicovideo(sm9216621)|&nicovideo(sm10515377)|
+
+
+**コメント
+- ここまで自分の世界を作り出しているＰはあまりいないと思います。大好き。  -- 名無しさん  (2009-09-07 18:53:37)
+- テンネンP大好きだ！本当に中毒になるｗ  -- 名無しさん  (2009-09-10 01:26:21)
+- ＡＯ買った トリカヘバヤ最高  -- 名無しさん  (2011-07-24 23:34:22)
+- ハイハハイニであなたを知りました……神だわあの曲(≧▽≦)  -- 名無しさん  (2012-12-26 12:55:23)
+- AO2買ったらロラコスタ⇔エクスプレスに全部持ってかれた　凄くかっこいい  -- 名無しさん  (2013-06-28 23:35:48)
+- ばいばいスーパースター  -- 名無しさん  (2013-07-28 20:43:59)
+- プロのゲーム製作者だったのか…  -- 名無しさん  (2013-11-20 20:29:37)
+- まさかゴッドイーターのメインスタッフだったとは  -- 名無しさん  (2014-01-21 03:34:00)
+#comment()

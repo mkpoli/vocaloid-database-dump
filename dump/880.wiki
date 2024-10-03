@@ -1,0 +1,61 @@
+#right(){&furigana(ちょむP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/2502660" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"></iframe><a target="_blank" href="https://www.nicovideo.jp/mylist/2502660">【ニコニコ動画】マイわーく</a>)
+
+**特徴
+作り手名：『&u(){ちょむP}』
+-黎明期からミク楽曲を発表しているP。そして意外な事に、[[ドワンゴ>>http://pc.dwango.jp/link.php/d/special/f/miku/]]にて配信されている初音ミク楽曲の着うたの中で、&br()「[[教えて!! 魔法のLyric]]」だけが他の4曲に遅れて殿堂入りを果たしたという執念の人でもある。
+-音楽同人サークル「[[ちょむ工房>>https://chomstudio.com/]]」主宰。積極的にイベントに参加し、新作CDのリリースペースも早い努力家。&br()イベント「[[THE VOC@LOiD M@STER>>https://ketto.com/tvm/]]」へは第1回より欠かさず参加している。
+-サークル「[[Silly Walker>>http://www.sillywalker.info/]]」とは音系サークルとして8年もの長い付き合いであり、2008年6月には共同制作のボーカロイドCD『[[イイトコドリップ]]』を発表。
+-遂に「教えて!! 魔法のLyric」に続き、「[[Catch the Wind]]」とボカロ以外のオリジナル曲「積乱雲」もカラオケ配信が決定。
+-2011年まではTakeponGという名前も使用していたが、VOCALOIDに関してはちょむP名義に統一した。
+-[[結月ゆかり]]の制作等の企画を手掛ける[[VOCALOMAKETS>>http://www.vocalomakets.com/index.html]]の一員。
+
+**リンク
+-[[作者ホームページ （ちょむ工房）>>https://chomstudio.com/]]
+//-[[作者特設HP（ちょむPのカラオケ入曲計画！）>>http://karaoke.chomkoubou.com/]]
+-[[PIAPRO>>https://piapro.jp/TakeponG]]
+-[[KARENT>>https://karent.jp/artist/pp000016]]
+-[[YouTube>>https://www.youtube.com/user/chomstudio]]
+-[[Twitter>>https://twitter.com/chom]]
+
+**曲
+#list_by_tag(ちょむP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(ちょむPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm1295540)|&nicovideo(sm1323757)|
+|&nicovideo(sm1950344)|&nicovideo(sm3097978)|
+|&nicovideo(sm3388328)|&nicovideo(sm4407021)|
+|&nicovideo(sm4844630)|&nicovideo(sm5958447)|
+|&nicovideo(sm8563938)|&nicovideo(sm10483771)|
+|&nicovideo(sm10977110)|&nicovideo(sm12481948)|
+|&nicovideo(sm15347719)|&nicovideo(sm15985447)|
+|&nicovideo(sm16541137)|&nicovideo(sm18201092)|
+|&nicovideo(sm18288975)|&nicovideo(sm19603952)|
+|&nicovideo(sm20000423)|&nicovideo(sm20106842)|
+|&nicovideo(sm20209591)|&nicovideo(sm20629256)|
+|&nicovideo(sm22484842)|&nicovideo(sm22677034)|
+|&nicovideo(sm23639439)|&nicovideo(sm25642365)|
+|&nicovideo(sm28232360)|&nicovideo(sm30503930)|
+|&nicovideo(sm30632772)|&nicovideo(sm33257054)|
+|&nicovideo(sm36073521)|&nicovideo(sm38406074)|
+|&nicovideo(sm40308016)|&nicovideo(sm42527181)|
+|&nicovideo(sm44039706)||
+//|&nicovideo()|&nicovideo()|
+**コメント
+- 読みはタグロックされているちょむPにしました。  -- 名無しさん  (2008-05-07 03:06:30)
+- 積乱雲もカラオケ配信されるのね^ω^*  -- 名無しさん  (2009-02-08 23:58:24)
+- デッドボールじゃない方のタケポンさんでいらっしゃっただけにパンツ～にはちょっとがっかりだったというか、うーんという感じだったけども、眩壊グレイアウト聴くとやっぱり能力の高さが伺える…Takeponさん結構多才だと思うのは俺だけだろうか？  -- 後喜  (2011-03-16 00:23:23)
+- コアな人じゃないとわからない方だと思うけど知ってて良かったと思える人  -- 名無しさん  (2013-05-16 22:41:07)
+- 『君の幻』は…？？私あれこの人の中で一番好きなのに…せめて曲名だけでも書いてよ………( :ω: )  -- 名無しさん  (2014-08-27 18:12:55)
+- ↑「unhopeless utopia」収録曲ですね。作者がネット上に正式に上げてない曲の記事は作れませんのでご了承下さい。曲名だけなら、該当するCDの記事にちゃんと入ってますよ。  -- 竜奇  (2014-08-27 18:40:18)
+- 最近、miki v4のデモソングを手掛けたようで…健在ぶりが窺えて何よりです。  -- 名無しさん  (2015-09-29 23:09:05)
+- 月の調Ⅲに収録されてる『マダミヌキミヨ』が本当に好き  -- 名無しさん  (2016-07-29 18:33:49)
+- いい曲作る人です  -- 名無しさん  (2018-02-04 16:47:42)
+#comment()

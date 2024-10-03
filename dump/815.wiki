@@ -1,0 +1,41 @@
+#right(){&furigana(しゆん) &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/5050940" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"></iframe><a target="_blank" href="http://www.nicovideo.jp/mylist/5050940">【ニコニコ動画】zyun−ボカロ曲集−</a>)
+
+**特徴
+-「[[ココロ・キセキ]]」でブレイクを果たしたP。
+-ミク・リンレンを使用したロック曲を主に投稿する。バラードや童謡っぽい曲も守備範囲。
+-「ココロ・キセキ」以外の曲も聴きましょう。
+
+**リンク
+-[[作者ブログ（zyun日記）>>http://blog.livedoor.jp/zyun110/]]
+-[[PIAPRO>>http://piapro.jp/zyun]]
+
+**曲
+#list_by_tag(ジュンP,100,sort=furigana)
+
+**CD
+#list_by_tag(ジュンPCD,100,sort=furigana)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm2327660){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm2485889){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2650908){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm2844423){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2844465){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm3402896){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3883231){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm3945106){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4195386){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm4359881){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4499706){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm5332327){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5486732){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm5623737){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5992269){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm6676915){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7292152)|&nicovideo(http://www.nicovideo.jp/watch/sm8911671)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9933119)|&nicovideo(http://www.nicovideo.jp/watch/sm10748239)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm11348155)|&nicovideo(http://www.nicovideo.jp/watch/sm12102939)|
+|&nicovideo(sm13142705)|&nicovideo(sm13500963)|
+|&nicovideo(sm14043952)|&nicovideo(sm14309354)|
+|&nicovideo(sm14635355)|&nicovideo(sm16709052)|
+|&nicovideo(sm19533501)|&nicovideo(sm19641721)|
+|&nicovideo(sm20605776)|&nicovideo(sm24304120)|
+|&nicovideo(sm32485909)||
+
+**コメント
+- ジュンさんですが、ジュンさんは男性ですか?女性ですか?誰か教えてください!  -- 名無しさん  (2013-10-13 13:45:25)
+- ↑男性でした。  -- 名無しさん  (2014-01-08 14:44:07)
+#comment()

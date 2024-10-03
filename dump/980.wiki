@@ -1,0 +1,39 @@
+#right(){&furigana(しゅるP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/3913470" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/3913470">【ニコニコ動画】公開用。</a></iframe)
+
+**特徴
+作り手名：『&u(){じゅるP}』
+-2007年12月、「[[初音ミクSNS]]」にてボカロPデビュー。
+-使用合成音声は初音ミク。
+-サムネこそ地味だが、特徴のある曲を多く作るミク使い。
+
+**リンク
+-[[ニコニコ>>https://www.nicovideo.jp/user/1146609]]
+//-[[zoome>>http://zoome.jp/jule/]]
+
+**曲
+#list_by_tagsearch(じゅるP,sort=furigana2,errmsg=まだ曲が登録されていません。,and,100)
+
+**CD
+#list_by_tagsearch(じゅるPCD,sort=furigana2,errmsg=まだCDが登録されていません。,and,100)
+
+**動画
+|&nicovideo(sm3175914)|&nicovideo(sm2956149)|
+|&nicovideo(sm2584252)|&nicovideo(sm2259589)|
+
+**関連タグ内の更新履歴
+#region(close,関連タグ内の更新履歴)
+関連タグ内の更新履歴
+※「じゅるP」「じゅるPCD」タグ内で最近編集やコメントのあった記事を新しい方から10件表示しています。
+#list_by_tagsearch(じゅるP,じゅるPCD,sort=timestamp,sort2=desc,errmsg=まだ曲、CDが登録されていません。,or,10)
+#endregion
+
+**コメント
+- 「ソニック☆サイクラー」はＰＶとしての完成度が非常に高い。埋もれているのがもったいない作品。  -- 名無しさん  (2008-06-01 15:06:56)
+- PIAPROのリンク別人じゃね？  -- 名無しさん  (2012-03-10 06:47:39)
+- たぶん肺がんで亡くなったのでよろしくお願いいたします。  -- 最初の相方  (2024-08-15 21:41:26)
+#comment()

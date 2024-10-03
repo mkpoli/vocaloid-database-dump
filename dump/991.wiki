@@ -1,0 +1,27 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){dandelion}|CENTER:[[crystaL>crystaL（クリスタエル）]]|
+
+|&bold(){[[クリスタルP]]}|
+
+発売：2008年03月23日
+価格：？
+流通：即売
+サークル：zegHed Label
+
+**CD紹介
+-THE VOC@LOiD M@STER 3で頒布された。
+-その後、一時通販もされていたが、現在は終了している。
+-『crystal mic』も収録されてます。
+
+**曲目
++[[dandelion]]
++[[crystal mic]]
++dandelion -vocaless-
++サクララバイ
+
+**リンク
+-[[作者ブログ>>http://blog.k-kei.versus.jp/?day=20080313]]
+
+**コメント
+#comment

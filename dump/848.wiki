@@ -1,0 +1,25 @@
+#right(){&furigana(くれーまーP) &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/5344166" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"></iframe><a target="_blank" href="http://www.nicovideo.jp/mylist/5344166">【ニコニコ動画】WIZの作品</a>)
+
+**特徴
+-個人名義は、WIZ(うぃず)。
+-P名の由来は、過去にクリプトンにクレーム送りつけた事によるらしい。
+-クラブ用のジャズ系の曲作りに専念するため、08年6月2日投稿の『草原の夜想曲』を最後にボカロオリジナルに当分のお別れ。
+-09年2月21日投稿の『TONIGHT! UNITE!』で8ヶ月ぶりの復活。
+
+**リンク
+-
+
+**曲
+#list_by_tag(クレーマーP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm2314488){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm2348121){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2445024){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm2562031){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2806638){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm2825716){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2835621){340,185}|&nicovideo(http://www.nicovideo.jp/watch/nm2969211){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/nm3020565){340,185}|&nicovideo(http://www.nicovideo.jp/watch/nm3527147){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6223244){340,185}|
+
+**コメント
+#comment()

@@ -1,0 +1,94 @@
+#right(){&furigana(うちゅうてんはしゅしんP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+
+**NEW
+|&nicovideo(sm16738562)|
+
+//&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/8080415" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/8080415">【ニコニコ動画】裸時</a></iframe>)
+
+**特徴
+作り手名：『&u(){宇宙電波受信P}』（&u(){うちゅうでんぱじゅしんP}）
+-別名「裸時」
+-近未来的なトランスに乗せて散弾的なメロディーを発する個性派
+-2008年4月現在最も多くのオリジナル曲をニコニコに投稿するPである
+-歌詞は大変聞き取りづらいが文字に起こすと非常に奇抜
+-UTAU音源も使用する。作品は[[こちらから>>https://w.atwiki.jp/utauuuta/pages/322.html]]
+
+**本人からの情報
+-使用ソフトはFL　STUDIOシリーズである
+-プーチンＰとユニット「サイコパズル」を結成
+-最近の作曲は運動神経だけでつくってる
+-現代俳句協会G2会員である 
+-VOCALOIDはミク・リンレン・PRIMA・歌愛ユキを持っている
+-ＵＴＡＵで[[鉛音ピネ]]、鉛音ピネact2、鉛音ピネact3で中の人になった
+-2008年12月22日　viBirth マイスペース　で活動開始
+-調教はアバウトな数式のような感じ
+-アンダーグランドカタログ１に載っている
+-良コメもらえるように頑張ります
+-作曲廃
+-調教はエンベローブ的何か
+-（・ｗ・）
+-（・ｗ・）ｂ
+-（・ｗ・；
+-（・ｘ・）
+-（・ｘ・）ｂ
+-（・ｘ・；
+-orz
+-（；；
+-（ｘ－ｘ）
+-（ｘ０ｘ）
+
+**リンク
+//-[[viBirth>>http://www.vibirth.com/artist_detail/raji0625/]]
+//-[[作者ブログ>>http://blog.oricon.co.jp/raji758/]]
+-[[PIAPRO>>https://piapro.jp/nago5656]]
+-[[マイスペース>>https://www.myspace.com/raji0625]]
+-[[DLsite>>https://www.dlsite.com/home-touch/circle/profile/=/from/work.maker/maker_id/RG10515.html]]
+-[[UTAU楽曲データベース - 宇宙電波受信P>>https://w.atwiki.jp/utauuuta/pages/322.html]]
+-[[UTAU楽曲データベース - 鉛音ピネ>>https://w.atwiki.jp/utauuuta/pages/260.html]]
+
+**曲
+#list_by_tag(宇宙電波受信P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(宇宙電波受信PCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**ツアー入り口
+|&nicovideo(sm1279574)|
+
+**動画
+|&nicovideo(sm1879731)|&nicovideo(sm2410394)|
+**関連動画
+|&nicovideo(sm2770654)|
+**コラボ
+UTAU曲は[[UTAU楽曲データベース>>https://www24.atwiki.jp/utauuuta/pages/322.html]]へ移動しました
+|&nicovideo(sm2506684)|&nicovideo(sm2851493)|
+|&nicovideo(sm3234533)|&nicovideo(sm3618948)|
+|&nicovideo(sm4244187)|&nicovideo(nm4746387)|
+|&nicovideo(nm5093258)|&nicovideo(nm5002587)|
+|&nicovideo(nm5020577)|&nicovideo(sm5059693)|
+|&nicovideo(nm5068979)|&nicovideo(nm5145521)|
+|&nicovideo(sm8913959)|&nicovideo(sm5373530)|
+|&nicovideo(nm8821622)|&nicovideo(sm5562157)|
+|&nicovideo(nm5592811)|&nicovideo(sm5607557)|
+|&nicovideo(nm6306509)|&nicovideo(sm6608058)|
+|&nicovideo(sm6808048)|&nicovideo(nm6902549)|
+|&nicovideo(sm7488916)|&nicovideo(nm7514218)|
+|&nicovideo(nm8527515)|&nicovideo(nm14942274)|
+
+**コメント
+- どこまで行っても何もかわらないツアー、最高でした。皮肉じゃなくて！  -- 名無しさん  (2008-07-21 18:42:38)
+- ツアーに行った猛者ですね→つくるのに時間がかかりましたが反応あって良かったです（＾＾  -- 裸時  (2008-07-22 01:02:23)
+- ↑ちょｗｗｗ神がおるｗｗｗ  -- 名無しさん  (2010-01-02 02:33:07)
+- ありがとうろ（ｘ－ｘ）でも音の商人と思って欲しいろ（ｘ－ｘ）  -- 裸時  (2010-01-04 23:45:49)
+- 裸時こらのトラック15とトラック16はタイトルってないんでしょうか？  -- 名無しさん  (2010-02-12 11:17:48)
+- 裸時さんがカラオケ交渉されるとは思いもよりませんでしたw  -- 名無しさん  (2010-04-17 21:33:25)
+- (↑の続き)でも「ごめんなさい」扱いだったのが非常に残念。「桃の姫」のどこがいけなかったのでしょうか。  -- 名無しさん  (2010-04-17 21:37:52)
+- 「桃の姫」は何でか解りませんが、サイコパズルの「ポン酢降る」は配信決定しました。  -- 裸時  (2011-04-19 20:43:57)
+- 桃の姫ニコカラにしてみました。再生出来るか分かりませんが。  -- 裸時  (2013-03-17 00:08:39)
+- 新しいマイリスつくりました。　http://www.nicovideo.jp/my/mylist/#/54243123  -- 裸時  (2015-12-29 00:17:03)
+- dlsite イイロ　の屋号で色々売っています（＾＾  -- 裸時  (2021-07-23 22:27:57)
+#comment()

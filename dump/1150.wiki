@@ -1,0 +1,33 @@
+#right(){&furigana(つりし) &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/3874199" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/3874199">【ニコニコ動画】ミクかわいいよミク</a></iframe><a target="_blank" href="http://www.nicovideo.jp/mylist/3874199">【ニコニコ動画】ミクかわいいよミク</a>)
+
+**特徴
+-サムネやタイトル、動画での釣りに定評のあるうｐ主。
+-ｗｗｗｗｗｗｗｗｗｗｗｗｗ
+-最大のヒットは「那由他の彼方まで」、元々はミクオリジナル曲である。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/nayuta]]
+
+**曲
+#list_by_tag(釣り師P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(釣り師PCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm1245904){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm1629403){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm1637066){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm1769398){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm1797504){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm1809597){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm1869379){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm1879735){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm1891201){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm1917593){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2037312){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm2525952){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2538144){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm2581426){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5991129){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm6236757){340,185}|
+
+
+**コメント
+- 那由多の彼方までが好き！超カッコイイです！  -- 左脳  (2010-12-19 11:19:36)
+- マジもりたか?  -- 右脳  (2012-10-23 16:27:54)
+- 特徴  wwwww  って  -- 名無しさん  (2015-07-20 19:23:28)
+#comment()

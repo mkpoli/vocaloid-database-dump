@@ -1,0 +1,33 @@
+#right(){&furigana(まけないわたしのこいのうた) &furigana()【登録タグ:&tags() 】}
+//&ref(http://blog-imgs-21.fc2.com/a/n/z/anzutokumeikibou/colabo1.jpg,x=300,y=300)
+
+|CDジャケット&br()&ref(https://www.suruga-ya.jp/database/pics/game/186105581.jpg,x=300,y=300)|画集表紙&br()&ref(https://www.suruga-ya.jp/database/pics/game/zhore24460.jpg)|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Traveler!>Traveler!/CD]]|CENTER:&bold(){マケナイワタシノコイノウタ}|CENTER:[[オトメラブコメレンアイジジョウ>オトメラブコメレンアイジジョウ/CD]]|
+
+|&bold(){[[杏あめ>杏あめ（匿名希望の東京都在住）]]}|
+
+発売：2008年4月27日
+価格：不明
+流通：即売（COMIC1☆2）
+サークル：東京組体操組
+
+**CD紹介
+-創作サークル&bold(){東京組体操組}との&bold(){Special Collaboration シングル}。
+-「初音ミクが歌う１つの曲をイラストレーターが描く」という企画に基づき、楽曲が収録されたCDと、21人の絵師のイラストが掲載された画集とがセットで頒布された。
+-ジャケットは、初音ミクの公式イラストレイターの&b(){KEI}。
+-委託で買う場合はCDのみとなる。イラスト集はイベントのみの販売。CD単品でのショップ価格は525円。
+
+**曲目
++[[マケナイワタシノコイノウタ]] -Full Ver.-
++マケナイワタシノコイノウタ -niconico ver.-
++マケナイワタシノコイノウタ -karaoke ver.-
+
+**リンク
+-[[作者ブログ>>http://anzutokumeikibou.blog96.fc2.com/blog-entry-36.html]]
+-[[東京組体操組>>http://2style.net/tokyocpe/]]
+
+
+**コメント
+#comment

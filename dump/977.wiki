@@ -1,0 +1,33 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&b(){mikuringo}|CENTER:[[mikuringo EP]]|
+
+|&bold(){[[林檎>林檎/作り手]]}||[[baker]]|
+
+発売：2008年4月6日
+価格：￥1,000（税込）
+流通：即売
+サークル：シャララと。
+
+**CD紹介
+-[[林檎>林檎/作り手]]氏が[[ミクフェス>>http://miku-fes.info/]]にて頒布した手焼きCD。[[ボーマス４>>http://ketto.com/tvm/]]で再販された。
+-[[baker]]氏が『[[さよなら>さよなら/林檎]]』のアレンジで参加している他、[[ryo]]氏の『[[恋は戦争]]』の[[林檎>林檎/作り手]]アレンジ版も収録。
+-2008年夏コミにて新作CDと共に[[畳P>畳P（North-T）]]のスペースにて委託販売され、その後[[作者ホームページ>>http://syararato.jugem.jp/]]にて個人通販が行われていた（既に終了）。
+
+**曲目
++[[みくぶる２>みくぶる]]
++[[さよなら>さよなら/林檎]]
++[[みくぶる３>みくぶる3]]
++みくぶる２の２
++nostalgia　～ringo arrange～
++さよなら　～baker arrange～
++[[にちよう]]
++ハナダンゴ
++[[恋は戦争　～ringo arrange～>恋は戦争]]
++ゆきがふった　～Acoustic guitar～
+
+**リンク
+-[[シャララと。>>http://syararato.jugem.jp/]]
+
+**コメント
+#comment

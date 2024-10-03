@@ -1,0 +1,90 @@
+#right(){&furigana(だいふくP) &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/18158629" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/18158629">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-ミニマル・テクノやアンビエント・エレクトロニカなどに定評がある。
+-多くの曲で歌詞はほとんど存在しない。しかし、電子ドラッグと呼ばれるほどの中毒性を含んでいる。
+-電子音のオケに乗せて、ひたすら「大福」と「草餅」を繰り返す『[[A big happiness]]』、「あさ」を連呼する『モーニングコール』などの作品がある。
+-P名の由来は『[[A big happiness]]』の歌詞から。
+-アーティスト名は&bold(){小物(komono)}。&bold(){dfkomono}, &bold(){Ohnuma} という名義もある。
+-アレンジ曲も多数あり。
+-08年7月末突然の引退を表明したが、2ヵ月後にベーコンPの曲「カリカリ★ベーコン-synth tech remix-」から復帰し今に至る。
+-独特の雰囲気と特徴あるサムネは自作。
+
+**リンク
+-[[Ohnuma Sound Lab. blog（作者ブログ）>>http://komonodfkdfk.blog19.fc2.com/]]
+-[[PIAPRO>>http://piapro.jp/komono]]
+-[[Twitter>>http://twitter.com/#!/dfk_ohnuma]]
+-[[KarenT>>http://karent.jp/artist/pp000106]]
+-[[YouTube>>http://www.youtube.com/user/OhnumaDaifuku]]
+
+**曲
+#list_by_tag(大福P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(大福PCD,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**オリジナル曲（セルフリミックス含む）
+|&nicovideo(http://www.nicovideo.jp/watch/sm8661606)|&nicovideo(http://www.nicovideo.jp/watch/sm10162218)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm10586307)|&nicovideo(http://www.nicovideo.jp/watch/sm11449431)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm11670095)|&nicovideo(http://www.nicovideo.jp/watch/sm11670419)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm11670677)|&nicovideo(http://www.nicovideo.jp/watch/sm11670901)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm11671201)|&nicovideo(http://www.nicovideo.jp/watch/sm11694340)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12354430)|&nicovideo(http://www.nicovideo.jp/watch/sm12596831)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12714304)|&nicovideo(http://www.nicovideo.jp/watch/sm12865047)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12951835)|&nicovideo(http://www.nicovideo.jp/watch/sm12960522)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm13300199)|&nicovideo(http://www.nicovideo.jp/watch/sm13371459)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm13730181)|&nicovideo(http://www.nicovideo.jp/watch/sm13758660)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm13758728)|&nicovideo(http://www.nicovideo.jp/watch/sm14249943)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm14516040)|&nicovideo(http://www.nicovideo.jp/watch/sm14625657)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm14691465)|&nicovideo(http://www.nicovideo.jp/watch/sm14810952)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm15503127)|&nicovideo(http://www.nicovideo.jp/watch/sm15764977)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm16170526)|&nicovideo(http://www.nicovideo.jp/watch/sm16317827)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm16542710)||
+
+**カバー曲・リミックス参加作品
+|&nicovideo(http://www.nicovideo.jp/watch/sm4385504)|&nicovideo(http://www.nicovideo.jp/watch/sm9735720)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9740471)|&nicovideo(http://www.nicovideo.jp/watch/sm9806483)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9808634)|&nicovideo(http://www.nicovideo.jp/watch/sm10258940)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm10475117)|&nicovideo(http://www.nicovideo.jp/watch/sm10721086)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm10757724)|&nicovideo(http://www.nicovideo.jp/watch/sm10904055)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm11347281)|&nicovideo(http://www.nicovideo.jp/watch/sm11347370)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm11551432)|&nicovideo(http://www.nicovideo.jp/watch/sm11670157)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm11670232)|&nicovideo(http://www.nicovideo.jp/watch/sm11879277)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12020012)|&nicovideo(http://www.nicovideo.jp/watch/sm14839020)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm14848280)|&nicovideo(http://www.nicovideo.jp/watch/sm14854354)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm14904357)|&nicovideo(http://www.nicovideo.jp/watch/sm15077815)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm15098683)|&nicovideo(http://www.nicovideo.jp/watch/sm15302576)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm15470304)|&nicovideo(http://www.nicovideo.jp/watch/sm15878567)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm16046369)||
+
+**コメント
+- ミニマルテクノって言うのかな？こういうジャンル  -- 名無しさん  (2008-05-14 23:20:24)
+- 全部見れなくなってる。なんだろ  -- 名無しさん  (2008-07-13 00:46:33)
+- ↑非表示になってますよね。  -- 名無しさん  (2008-07-14 12:09:33)
+- ニコ動から撤退だそうです。ピアプロでは活動継続中のようなので、曲はそちらで。  -- 名無しさん  (2008-07-30 02:03:55)
+- 復帰したようですが、誰かページ作り直してくれませんか？私の力量では無理です…  -- 名無しさん  (2008-09-29 23:47:10)
+- 復元はページ上部の「表示」→「編集履歴」→復元したい日付のものを「復元」で出来ます。&br()動画とマイリスト部分はよろしくお願いします。  -- 名無しさん  (2008-09-30 00:11:08)
+- 動画部分書いてみましたが、独断と偏見で選びました。すいません。  -- 名無しさん  (2008-11-21 23:17:45)
+- なんかまた非表示になってるね  -- 名無しさん  (2009-08-10 01:35:07)
+- 動画を近いうちに非表示にしてしまうらしい　ファンの人はダウンロードしておいたほうがいいかも  -- 名無しさん  (2009-08-10 02:16:55)
+- 動画は全部削除、ニコニコ動画も退会されたそうです。。。  -- 名無しさん  (2010-02-15 20:48:44)
+- この方も退会されたのか…  -- naoh  (2010-02-15 22:14:17)
+- この人はニコニコ以外の場所でブレイクする。間違いない。  -- 名無しさん  (2010-02-24 13:30:38)
+- 彼のリリースしたニコニコインディーズ楽曲は、もっと評価されるべきだ。  -- 名無しさん  (2010-04-11 13:25:26)
+- 大福さん乙です^^  -- 名無しさん  (2010-04-11 15:35:01)
+- この人の作る曲はすごい。近い将来に必ずミリオンいくね  -- 名無しさん  (2011-06-14 14:59:13)
+- この人の曲大好き。もっと評価されるべき!  -- 名無しさん  (2012-04-10 18:23:09)
+- 歌はいいけど、この人のいい噂聞かないよね。  -- 名無しさん  (2013-05-14 17:45:34)
+- 作品は良いけど性格は・・・っていうのは割とよくある話しだけど彼の場合、性格面での悪さがデカすぎる。  -- 名無しさん  (2013-05-21 15:46:15)
+- ↑　同感。性格知っちゃうと、なんか曲まで悪く思えてしまうんだよなぁ・・・  -- 名無しさん  (2013-05-21 17:49:14)
+- この前ニコニコ超会議の時にスタッフに有名Pの整列をちゃんとしろって怒鳴りつけてるの見てドン引いた。気持ちもわかるけど怒鳴るな  -- 名無しさん  (2013-09-05 02:43:38)
+- 悪い話しかきいたことない  -- 名無しさん  (2013-10-31 00:38:07)
+- 大福炎上  -- 名無しさん  (2013-11-01 03:49:18)
+- 寝たいけど曲書かなきゃ…ってつぶやいてたけど、誰も待ってないよ  -- 名無しさん  (2013-11-03 14:04:11)
+- あのう・・・↑から７番目から１番目の人までに言いますね。それ全部捏造ですよ　大福Ｐはそんな事していないそうです　今日ツイッターで真相を書きましたよ。  -- 名無しさん  (2013-12-17 17:31:43)
+- なんだ捏造だったのかｗｗｗ騙された俺もバカだなｗｗさあ、捏造で済んだ事だしこれで平和になったな  -- 名無しさん  (2013-12-17 17:34:18)
+- ↑こういう自演みたいなことするから叩かれるってわかんないかなあ？大福P  -- 名無しさん  (2013-12-17 18:33:20)
+- あら、大福Ｐさんいらしていたんですか　ところで聞きたいんですが全部捏造って事でいいんですよね？  -- 名無しさん  (2013-12-17 19:20:55)
+- [[大福炎上>>http://www.nicovideo.jp/watch/sm22160663]]  -- 名無しさん  (2014-12-10 01:10:02)
+#comment()

@@ -1,0 +1,60 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+#image(http://debutante.main.jp/debutante/img/banner_db.jpg,width=468,height=90,title=DEBUTANTE,http://debutante.main.jp/,blank)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){DEBUTANTE}|CENTER:[[DEBUTANTE II]]|
+
+|CENTER:&bold(){k-shi}|CENTER:[[yanagiP]]|CENTER:[[情熱P]]|CENTER:qurter|CENTER:[[畳P>畳P（North-T）]]|CENTER:[[baker]]|CENTER:[[kz]]|
+|CENTER:[[OSTER project]]|CENTER:[[ささくれP]]|CENTER:[[デッドボールP]]|CENTER:NA+|>|CENTER:[[ミク詐欺P>ミク詐欺P（右近）]]|CENTER:sick|
+
+||CENTER:即売|CENTER:同人|
+|発売|>|CENTER:2008年5月11日|
+|価格|CENTER:￥1,500|CENTER:￥1,680（税込）|
+|サークル|>|CENTER:けしスタジオ|
+
+**CD紹介
+-『DEBUTANTE』には、総勢13名のPが制作したオリジナルボーカロイド曲と、今回のために特別に収録した「歌ってみた」企画曲が収録されています。
+-DISC01は民族系や落ち着いた雰囲気の曲を、DISC02には元気で明るめの曲を中心に揃えました。（[[公式サイトより>>http://sincere.ddo.jp/debutante/]]）
+-タイトルは「デビュタント」と読むが、一部では「デＰたんと」でも通じる。
+-イベント頒布の他、[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/14/58/040010145858.html]]にて発売中。
+-ジャケットイラストは[[憂]]氏が手掛けている。
+
+**曲目
+-DISC01
++[[雲の遺跡]]　（唄：初音ミク / 作：[[yanagiP]]）
++ノスタルジア　（唄：初音ミク / 作：k-shi）
++[[熱情詩 -Flame Heart-]]　（唄：鏡音リン / 作：[[てとてと>情熱P]]）
++カイソウ　（唄：初音ミク / 作：qurter）
++[[千年の独奏歌]]　（唄：KAITO / 作：[[yanagiP]]）
++[[心の小箱]]　（唄：初音ミク / 作：[[畳P>畳P（North-T）]]）
++[[カナリア>カナリア/baker]]　（唄：初音ミク / 作：[[baker]]）
++ギフト　（唄：初音ミク / 作：k-shi）
++雲の遺跡　（唄：桃木真美）
++カナリア　（唄：はるよ）
++カイソウ　（唄：Milia）
+　　（#9-11は、歌ってみた企画曲）
+-DISC02
++[[フキゲンワルツ]]　（唄：初音ミク / 作：[[OSTER project]]）
++[[ニジイロ＊アドベンチュア]]　（唄：初音ミク / 作：[[ささくれP]]）
++[[椿の花]]　（唄：初音ミク / 作：[[デッドボールP]]）
++TOO BAD GIRL (STRAIGHT RUN)　（唄：初音ミク / 作：NA+）
++ピース・ピース　（唄：鏡音リン / 作：[[右近>ミク詐欺P（右近）]]）
++vermilion　（唄：初音ミク / 作：sick）
++[[PASSIONAIRE]]　（唄：MEIKO / 作：[[yanagiP]]）
++[[Light Song]]　（唄：初音ミク / 作：[[kz]]）
++vermilion　（唄：sick）
++TOO BAD GIRL (STRAIGHT RUN)　（唄：はるよ）
++フキゲンワルツ　（唄：Milia）
+　　（#9-11は、歌ってみた企画曲）
+
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/6375355" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/6375355">【ニコニコ動画】DEBUTANTE</a></iframe>)
+
+**リンク
+-[[けしスタジオ>>http://sincere.ddo.jp/]]
+-[[DEBUTANTE特設サイト>>http://debutante.main.jp/debutante/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/14/58/040010145858.html]]
+
+**コメント
+- これお金出して買って良かった  -- 名無しさん  (2009-01-24 20:02:52)
+- デPたんと。だと・・・  -- 名無しさん  (2010-03-01 14:03:32)
+#comment

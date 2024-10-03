@@ -1,0 +1,27 @@
+#right(){&furigana(しやくP) &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/5363351" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"></iframe><a target="_blank" href="http://www.nicovideo.jp/mylist/5363351">【ニコニコ動画】鏡音レン　Ｍｙ曲</a>)
+
+**特徴
+-ロキノン系ボーカロイドマスター。主にレンを扱い、その低音調教には定評がある。
+-ダークさの中に希望を感じさせるような曲風が特徴的。
+-アーティスト名は、&bold(){ナンジ}or&bold(){釈南次}。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/syaku_nanji]]
+-[[作者ブログ>>http://bokukoi.blog.shinobi.jp/]]
+
+**曲
+#list_by_tag(釈P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(釈PCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm2526011){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm2860323){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2946424){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm4674942){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5880563){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm10128586){340,185}| 
+|&nicovideo(http://www.nicovideo.jp/watch/sm13648504){340,185}||
+
+**コメント
+- この人の歌詞は深いテーマが多くて好き  -- 名無しさん  (2014-06-29 17:32:12)
+#comment()

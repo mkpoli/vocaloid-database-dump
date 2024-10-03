@@ -1,0 +1,46 @@
+#right(){&furigana(いなしきしょうしゅう)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/6429841" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/6429841">【ニコニコ動画】稲敷常州とやんちゃめいこのアジアっぽい曲たち</a></iframe>)
+
+**特徴
+作り手名：『&u(){稲敷常州}』（&u(){いなしきじょうしゅう}）
+-普段は技術者
+-技術的な興味からVOCALOIDに手をだしてみっくみくにされた人
+-和風、中華風など、民族音楽調な曲を作る
+-アオリを多用した民謡風の歌わせ方を得意とする
+-彼の歌わせるMEIKOは&b(){やんちゃめいこ}と呼ばれる
+-上記のことから稲敷常州自身も&b(){やんちゃP}と呼ばれる
+-「桂花」以降は二胡、椰子胡、古筝等の東アジア系民族楽器を自身で演奏するようになり、独特の響きを得るようになった。
+
+**リンク
+-[[ピアプロ>>https://piapro.jp/tnakano0316]]
+-[[KarenT>>https://karent.jp/artist/pp000019]]
+-[[Twitter>>https://twitter.com/InashikiJoshu]]
+
+**曲
+#list_by_tag(稲敷常州,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(稲敷常州CD,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**動画
+|&nicovideo(sm3131042)|&nicovideo(sm3526603)|
+|&nicovideo(sm3664934)|&nicovideo(sm3881853)|
+|&nicovideo(sm4852678)|&nicovideo(sm4890730)|
+|&nicovideo(sm5144254)|&nicovideo(sm6318605)|
+|&nicovideo(sm7695661)|&nicovideo(sm7817849)|
+|&nicovideo(sm8413659)|&nicovideo(sm8420247)|
+|&nicovideo(sm8747103)|&nicovideo(sm8749532)|
+|&nicovideo(sm10374451)|&nicovideo(sm10798587)|
+|&nicovideo(sm12098790)|&nicovideo(sm12649436)|
+|&nicovideo(sm12658802)|&nicovideo(sm13671775)|
+|&nicovideo(sm16079851)|&nicovideo(sm16080889)|
+
+**コメント
+- ボカロ議論に対するコメントは秀逸だとおもう  -- 名無しさん  (2008-05-01 20:16:52)
+- MEIKOの声はどうやって作っているのだろう？  -- 名無しさん  (2008-06-22 00:49:59)
+- 稲敷常州さんの曲大好きです。ずっと応援しています！  -- 元禄  (2014-08-27 18:38:55)
+#comment()

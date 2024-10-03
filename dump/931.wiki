@@ -1,0 +1,46 @@
+#right(){&furigana(にこP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/4266743" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"></iframe><a target="_blank" href="http://www.nicovideo.jp/mylist/4266743">【ニコニコ動画】ヽ（ヽ･∀∀･）にこP　オリジナル曲</a>)
+
+**特徴
+作り手名：『&u(){ヽ(ヽ･∀∀･)にこP}』(&u(){にこP})
+-使用合成音声は初音ミク、鏡音リン。
+-アップテンポやしっとりとしたバラード、バンドミュージックと幅広い作風。
+-[[雨の降る日]]では雨の音をサンプリングし使うなど意欲的な曲作りをする
+-ジャンルが多岐に渡るがどれも調教と共にクオリティが高くしっかりとした評価を受ける
+
+**リンク
+-[[twitter>>https://twitter.com/Nyusound]]
+-[[PIAPRO>>http://piapro.jp/naitte]]
+-[[New Sound（作者ブログ）>>http://newsound.blog91.fc2.com/]]
+
+**曲
+#list_by_tagsearch(にこP,sort=furigana2,errmsg=まだ曲が登録されていません。,and,100)
+
+**CD
+#list_by_tagsearch(にこPCD,sort=furigana2,errmsg=まだCDが登録されていません。,and,100)
+
+**動画
+|&nicovideo(sm2277162)|&nicovideo(sm2478449)|
+|&nicovideo(sm2688648)|&nicovideo(sm2909441)|
+|&nicovideo(sm3033078)|&nicovideo(sm3199725)|
+|&nicovideo(sm3591498)|&nicovideo(sm3869011)|
+|&nicovideo(sm4510411)|&nicovideo(sm5269869)|
+|&nicovideo(sm7940370)|&nicovideo(sm8413539)|
+|&nicovideo(sm8782998)||
+
+**関連タグ内の更新履歴
+#region(close,関連タグ内の更新履歴)
+関連タグ内の更新履歴
+※「にこP」「にこPCD」タグ内で最近編集やコメントのあった記事を新しい方から10件表示しています。
+#list_by_tagsearch(にこP,にこPCD,sort=timestamp,sort2=desc,errmsg=まだ曲、CDが登録されていません。,or,10)
+#endregion
+
+**コメント
+- PIAPROは空です。  -- 名無しさん  (2009-04-07 08:34:03)
+- どころがPIAPROには一曲だけあがってます。  -- 名無しさん  (2009-10-04 10:34:33)
+- ずっと大好きです…なんでこんなにコメントが少ないんだろう  -- 名無しさん  (2015-08-02 16:01:58)
+#comment()

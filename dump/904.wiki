@@ -1,0 +1,20 @@
+#right(){&furigana(そらみみP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/4421839" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/4421839">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-主にボカロカバーを投稿しているP。
+-その原曲ボーカルの再現度や聞き取りやすさは活動初期からかなりのものである。
+-初期はMOSAIC.WAVのカバーを行っていたが、現時点ではそのどれもが削除されている。
+
+**リンク
+-[[空耳とミク（作者ブログ）>>http://soramiloid.blog46.fc2.com/]]
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm2677823)|&nicovideo(http://www.nicovideo.jp/watch/sm3277923)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3277923)|&nicovideo(http://www.nicovideo.jp/watch/sm5287609)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5812747)|&nicovideo(http://www.nicovideo.jp/watch/sm5813410)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7697437)|&nicovideo(http://www.nicovideo.jp/watch/sm7773749)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm8682858)||
+
+**コメント
+#comment()

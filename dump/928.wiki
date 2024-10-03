@@ -1,0 +1,39 @@
+#right(){&furigana(m@rk)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/4552182" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"></iframe><a target="_blank" href="http://www.nicovideo.jp/mylist/4552182">【ニコニコ動画】m@rk の VOCALOID 作品</a>)
+
+**特徴
+作り手名：『&u(){m@rk}』(&u(){まーく})
+-カバー曲、ネタ曲、まじめな曲と作風は多岐に渡る。
+-初期はカバー曲、ネタ曲が多かったが「[[キルシュ。]]」（2008年2月）からまじめな曲を作り始め2作目の「[[tautology]]」がヒット。
+-ピアプロに参加した頃からまじめな曲（オリジナル曲）を作り始めた。
+-初音ミクの歌については無調教の方がミクらしい、という「無調教主義」。
+-2008年9月23日　音楽活動の休止を宣言し休眠。同時にVOCALOID03の発売後の復帰をコメント。
+-2009年5月17日　「[[【初音ミクカバー曲】みくみくにしてあげる♪【してやんよ】>>http://www.nicovideo.jp/watch/sm7064930]]」で活動再開。今後の活躍が期待される。
+
+**リンク
+-[[ピアプロ>>http://piapro.jp/markish303]]
+
+**曲
+#list_by_tag(m@rk,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(m@rkCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+-&bold(){オリジナル曲}
+|&nicovideo(http://www.nicovideo.jp/watch/sm2204662)|&nicovideo(http://www.nicovideo.jp/watch/sm2394813)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3400373)|&nicovideo(http://www.nicovideo.jp/watch/sm4159137)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm10334143)||
+
+-&bold(){コラボ曲（編曲での参加）}
+|&nicovideo(http://www.nicovideo.jp/watch/sm2905302)|&nicovideo(http://www.nicovideo.jp/watch/sm5085313)|
+
+-&bold(){カバー曲}
+|&nicovideo(http://www.nicovideo.jp/watch/sm2654830)|&nicovideo(http://www.nicovideo.jp/watch/sm7064930)|
+
+**コメント
+#comment()

@@ -1,0 +1,49 @@
+#right(){&furigana(clear)&furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm3199725){340,185}
+作詞：[[ヽ(ヽ･∀∀･)にこP]]
+作曲：[[ヽ(ヽ･∀∀･)にこP]]
+編曲：[[ヽ(ヽ･∀∀･)にこP]]
+唄：初音ミク
+
+**歌詞
+君の名前　呼ぶの
+響く綺麗な　旋律遠く
+
+蘇る日々の記憶が
+同じ景色を彩る限り
+
+Gloria...　
+
+見せてよ　窓の外
+未だに　不思議な世界
+
+いずれ変わるはずの
+遥か彼方への歌
+
+繰り返す日々の祈りが
+この苦しみを伝えてく魔法
+
+Gloria...　
+(Gloria　ねえ　Gloria？)
+
+I wanna see the world outside
+(私にも見せてよ・・・！)
+
+Because I'm still wondering about this world
+(不思議なままでいたくないの・・・)
+
+Gloria...
+
+I wanna hear the sound of life
+(聞かせて　この世の音を)
+
+Gloria...
+
+I wanna feel この世の”感動”を
+
+Gloria...
+
+目覚めて...
+
+**コメント
+#comment()

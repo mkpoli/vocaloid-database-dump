@@ -1,0 +1,31 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Stir up!}|CENTER:[[Stir up vol.2]]|
+
+|&bold(){[[Allium Project]]}|
+
+発売：2007年12月31日
+価格：￥1000
+流通：即売
+サークル：Allium Project
+
+**CD紹介
+-コミケ73、サンクリ39にて頒布。
+-同名の本とセットでの販売。
+
+**曲目
++デンシオンガク
++Glitter
++Invisible aerial attack!(Miku Edit)
++Before the Time（メタボシンドローム）
++POP LIFE
++空のキャンバス
++新宿ルミネ
++Stir up!（マラ大福）
++heart-shaped knifeの予定でした
+
+**リンク
+-[[ホームページ>>http://www.compllege.com/allium/]]
+
+**コメント
+#comment

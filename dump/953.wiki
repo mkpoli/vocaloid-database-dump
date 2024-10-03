@@ -1,0 +1,55 @@
+#right(){&furigana(しえしえP) &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/6681097" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/6681097">【ニコニコ動画】kkpf Mylist</a></iframe><a target="_blank" href="http://www.nicovideo.jp/mylist/6681097">【ニコニコ動画】kkpf Mylist</a>)
+
+**特徴
+-中国福建省に在住の日本人P、現地からの投稿。
+-ジャンルに関係なくどこか懐かしさを感じさせるメロディとセンチメンタルな歌詞が相まってどこか少女漫画的な雰囲気がある。
+-メインボーカルとコーラスの重ね方や後半になる程盛り上がる展開には定評があり、固定ファンも少なくない。
+-得意なジャンルは、バラード、ポップス、ロック、歌謡曲。
+-使用ボーカロイドは初音ミク、神威がくぽ、巡音ルカ、GUMI、IA、KAITO V3。
+-2011年11月9日、『[[永遠花火]]』が自身初の殿堂入りを果たした。
+
+***歌詞紹介
+-一人称視点で恋心を中心とした切ない心の内を綴るものが多い。
+-同性愛を扱ったものもある。また、女声ボカロで男性視点、男声ボカロで女性視点の歌詞を歌ったものもある。
+
+***VOCALOIDの調教
+-声に潤いを与えつつ、震えさせることで感情表現豊かな歌声になっている。
+-さらに、かすれ声等を加える事でより深い感情を表現している。&size(9){(※[[キスのあとはふれないで]])}
+-特にミクの歌声が甘くて良いと好評。※&size(9){([[MY DESTINY EXPRESS]])}※&size(9){([[スピカ☆プラトニックラヴ]])}
+
+
+**リンク
+-[[作者HP（謝謝P/ボーカロイド地下音楽室）>>http://www.symphonic-net.com/xiexieP/]]
+-[[Twitter>>http://twitter.com/xiexieP/]]
+-[[作者ブログ（アモイ現地集合 in China）>>http://kkpf2.seesaa.net/]]
+-[[PIAPRO>>http://piapro.jp/kkpf]]
+-[[muzie>>http://www.muzie.co.jp/cgi-bin/artist.cgi?id=a058479]]
+
+**曲
+#list_by_tag(謝謝P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/nm3002494)|&nicovideo(http://www.nicovideo.jp/watch/nm3144237)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm3660381)|&nicovideo(http://www.nicovideo.jp/watch/nm4077357)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm5170222)|&nicovideo(http://www.nicovideo.jp/watch/nm5669293)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm5998639)|&nicovideo(http://www.nicovideo.jp/watch/nm6364517)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm6568268)|&nicovideo(http://www.nicovideo.jp/watch/nm7585176)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7731068)|&nicovideo(http://www.nicovideo.jp/watch/sm8032825)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm8363694)|&nicovideo(http://www.nicovideo.jp/watch/sm8726612)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm8839787)|&nicovideo(http://www.nicovideo.jp/watch/sm9282469)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm11148775)|&nicovideo(http://www.nicovideo.jp/watch/sm11149256)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm11190040)|&nicovideo(http://www.nicovideo.jp/watch/sm11496469)|
+
+**コメント
+- 謝謝Pのミクはすごく甘い声で歌うよね。好きだなー  -- 名無しさん  (2008-11-29 01:00:26)
+- ひそかに応援している人。謝謝Pの調教はどのボカロでも神。  -- 海星  (2009-09-02 17:05:54)
+- 謝謝Pの甘いミクといえばまずこれでしょう。MY DESTINY EXPRESS。「VOCALOIDの調教」欄に勝手に追記してしまいました  -- 名無しさん  (2009-09-07 21:57:06)
+- まあ、だからといって他ボカロ使ったらその動画に「また甘いミクが聴きたい」って書き込む人がいるのは考え物だけれどね。  -- 名無しさん  (2009-11-09 21:21:37)
+- すみません！誰か「デルマトーム♀」の歌詞書いて下さい！  -- 名無しさん  (2009-11-15 23:15:48)
+- ↑書きました。補足・訂正お願いします。  -- 名無しさん  (2009-11-17 09:38:13)
+- アーティスト名ですが本人より今後「謝謝P」一本で行くため削除の依頼がありましたので削除しました。  -- さとる  (2010-01-05 00:23:04)
+- 女性視点で歌うがくぽがいい。  -- 名無しさん  (2010-01-24 23:18:25)
+- 中国でニコニコ動画へのアクセスが規制されたとのことだが、案の定、謝謝Pもニコニコを見ることが出来ないでいる様子ttp://twitter.com/xiexieP/status/12847106159026176  -- 名無しさん  (2010-12-10 17:58:06)
+- MY DESTINY EXPRESSは名曲。評価されるべきだ。  -- 名無しさん  (2014-11-11 19:22:42)
+#comment()

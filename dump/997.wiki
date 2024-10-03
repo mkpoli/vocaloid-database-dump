@@ -1,0 +1,33 @@
+#right(){&furigana(たいむりみっと) &furigana()【登録タグ:&tags() 】}
+//&ref(http://www.north-t.com/sound/album/north-t-timelimit-cover.jpg,x=300,y=300)
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186103773.jpg,x=300,y=300)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){タイムリミット}|CENTER:[[Interlude]]|
+
+|&bold(){[[畳P>畳P（North-T）]]}|[[ゆうゆ]]|
+
+||CENTER:即売|CENTER:同人|
+|発売|CENTER:2007年12月31日|CENTER:2007年12月31日|
+|価格|CENTER:￥500|CENTER:￥735（税込）|
+|サークル|>|CENTER:North-T|
+
+**CD紹介
+-[[畳P>畳P（North-T）]]のボーカロイドCD第１弾。07年冬コミにて頒布された後、[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/14/41/040010144166.html]]でも販売された。
+-ExtraTrackに、[[ゆうゆ]]のSUPER HATSUNE BEAT版タイムリミットを収録。
+
+**曲目
++[[タイムリミット]] 
++[[恋の三角関数☆]]
++On The Way 
++[[赤いブランコ]] 
++EX - タイムリミット(TATAMIX) 
++EX - タイムリミット(SHBver)
+
+**リンク
+-[[North-T>>http://www.north-t.com/]]
+-[[とらのあな "タイムリミット">>http://www.toranoana.jp/mailorder/article/04/0010/14/41/040010144166.html]]
+
+**コメント
+#comment

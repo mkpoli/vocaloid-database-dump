@@ -1,0 +1,62 @@
+#right(){&furigana(きょうけん　じゃむおじさんP) &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/5674132" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"></iframe><a target="_blank" href="http://www.nicovideo.jp/mylist/5674132">【ニコニコ動画】今日のわんこ</a>)
+
+**特徴
+-｢みくみく童話｣と称した一連の動画を投稿している。
+-その中でも○○屋さんシリーズと、タイトルをアニメやゲームなどから引用した作品とがある。
+-可愛い手描きの絵とは裏腹に、シュールな歌詞とハードロックの曲調が特徴。
+-制作のペースはかなり早い。
+-Fixxxer氏への詞提供、[[骨盤P]]へのイラスト提供など、サイドプロジェクトでの活動でも有名。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/aruki]]
+-[[zoome>>http://zoome.jp/kyouken/]]
+-[[作者ブログ（今日、犬の散歩に行ってきた）>>http://kyouinu.blog32.fc2.com/]]
+
+**曲
+#list_by_tag(今日犬（ジャムおじさんP）,100,sort=furigana)
+
+**CD
+#list_by_tag(今日犬（ジャムおじさんP）CD,100,sort=furigana)
+
+**動画
+-オリジナル曲
+|&nicovideo(http://www.nicovideo.jp/watch/sm2622144){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm2648875){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2704717){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm2731089){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2801118){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm2873541){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2940977){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm3012125){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3081295){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm3481381){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3622276){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm3813296){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3893733){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm3995540){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4348986){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm4481442){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4739772){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm4844832){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5081667){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm5203993){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5345852){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm5680429){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5819344){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm6067895){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6637951){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm7213407){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7447634){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm7586505){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7879207){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm8086028){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9538082){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm9772177){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm10108272){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm10548159){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm11481492){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm13748324){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm14425517){340,185}|
+
+
+-その他
+|&nicovideo(http://www.nicovideo.jp/watch/sm3320553){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm5433350){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5482210){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm5855659){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6346370){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm10559563){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm14622269){340,185}|
+
+**コメント
+- 最近一押しのPなので紹介させて頂きました。はまると中毒性高し、です。  -- 名無しさん  (2008-04-30 20:08:21)
+- 歌詞と曲調のギャップが好き  -- 名無しさん  (2008-05-01 09:37:26)
+- P名より「今日犬」の名前の方が分かりやすい気がしなくもない。  -- 名無しさん  (2008-07-10 04:23:57)
+- どちらもタグはロックしていないので、「今日犬（ジャムおじさんP）」のように、両方併記するのがいいのかもしれませんね。  -- 名無しさん  (2008-07-10 15:23:33)
+- 中毒性のあるP  -- 名無しさん  (2008-10-02 05:48:46)
+- おじさんＰはもっとみんなハマるべき  -- 名無しさん  (2009-04-06 10:43:09)
+- 今日犬さんは本当に良い曲をお作りになられる方です！大好きです！！  -- riyo  (2009-10-09 22:39:28)
+- 今日犬さんって「こんにちワン」と読むのかと思ってた  -- 名無しさん  (2012-03-18 10:50:31)
+- 何気にいい曲たくさん作ってるPさんです！  -- なりあさ  (2021-05-16 21:34:36)
+- あ〜…つべねぇかなぁ…  -- 名無しさん  (2021-12-30 21:26:41)
+#comment()

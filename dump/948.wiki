@@ -1,0 +1,42 @@
+#right(){&furigana(めると)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186103128.jpg,x=300,y=300)
+
+|CENTER:本作|CENTER:次作|
+|CENTER:&bold(){メルト}|CENTER:[[supercell]]|
+
+|&bold(){[[ryo]]}|
+
+||CENTER:即売|CENTER:同人|
+|発売|CENTER:2007年12月31日|CENTER:2007年12月31日|
+|価格|CENTER:￥1,000|CENTER:￥1,365(特典付)/￥700(各税込)|
+|サークル|>|CENTER:supercell|
+
+**CD紹介
+CD名：『&u(){メルト}』
+-supercellことryoの&bold(){1st attack}。イラストは119氏が担当。
+-メディアはプレスCDで、楽曲の他にPC用壁紙と楽譜のデータも収録されている。
+-C73での頒布の後、&s(){[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/14/58/040010145807.html]]}や&s(){[[メロンブックス>>http://shop.melonbooks.co.jp/tsuhan/system/list.php?RATED=18&MAKER_FULL=Super+cell]]}等で販売されている。
+-書店委託での価格は特典（ポスター）付き1,365円（売切）、特典無し700円（税込）。
+
+**曲目
++[[メルト]]
++メルト　カラオケver
++[[きみをわすれない]]
++きみをわすれない　アレンジver
+
+//**リンク
+//-[[supercell>>http://supercell.sc/]]
+//-[[とらのあな>>https://www.toranoana.jp/mailorder/article/04/0010/14/58/040010145807.html]]
+//-[[メロンブックス>>http://shop.melonbooks.co.jp/tsuhan/system/list.php?RATED=18&MAKER_FULL=Super+cell]]
+
+**コメント
+- 切ない曲ですねすごく気持ちが伝わってくる。  -- 舞  (2011-03-29 17:31:57)
+- どこでうっているんですか？  -- チョコ  (2011-06-11 14:33:17)
+- なかなかないんです、どこで売ってますか?  -- 宇宙人  (2011-10-17 14:53:13)
+- 人気過ぎてもう売り切れとか（汗）  -- 天然マヨ  (2011-11-27 22:01:01)
+//- ボカロの楽譜ってどこに売ってるんですか？  -- ヒマワリ  (2011-12-12 14:25:29)
+//- 関係ないけどニコ動尾崎豆の変なツイート下がってました。感謝します。  -- 名無しさん  (2012-04-27 21:45:24)
+//- ピアノで拍手喝采歌合を弾きたいんですけど  -- みえみえ  (2013-07-06 22:37:35)
+- この歌好きだわ  -- 初音ミクLOVE  (2013-09-15 11:55:10)
+#comment

@@ -1,0 +1,40 @@
+#right(){&furigana(すいめんか) &furigana()【登録タグ:&tags() 】}
+//#image(http://ukw.sakura.ne.jp/awaawa/awaawa.jpg,width=468,height=90,title=水面花,http://ukw.sakura.ne.jp/awaawa/,blank)
+
+&ref(https://ecdnimg.toranoana.jp/ec/img/04/0010/16/70/040010167006-1p.jpg,x=300,y=300)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){水面花}|CENTER:[[stripe>stripe/CD]]|
+
+|&bold(){[[あわあわp]]}|
+
+発売日：2008年6月29日
+価格：￥300（税込）
+流通：即売
+サークル：nolfestic
+
+**CD紹介
+-サークル『nolfestic』&bold(){1stあわばむ}。
+-THE VOC@LOiD M@STER 4　にて頒布。
+-既公開曲を全て再アレンジ。さらに未公開の表題曲『水面花』を収録。
+-ジャケットイラストは うさくまみにょ 氏。
+-とらのあなで委託販売も行われていた。
+
+**曲目
++水面花 &color(red){NEW!}
++[[cappuccino]]
++[[嘘歌]]
++[[chocolat]]
++[[月歌]]
++[[soda]]
++[[桜歌]]
++[[espresso>espresso/あわあわp]]
++[[茜色の空に思うこと ]]
+
+**リンク
+-[[水面花特設サイト>>http://ukw.sakura.ne.jp/awaawa/suimenka]]
+-[[作者ブログ>>http://nolfest.seesaa.net/]]
+-[[とらのあな>>https://ec.toranoana.jp/tora_r/ec/item/040010167006/]]
+
+**コメント
+#comment

@@ -1,0 +1,43 @@
+#right(){&furigana(はちすずめ　おりじなるさうんどとらっく) &furigana()【登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186109845.jpg,x=300,y=300)
+
+|CENTER:本作|CENTER:次作|
+|CENTER:&bold(){ハチスズメ　O.S.T.}|CENTER:[[ハチスズメ　O.S.T.2>ハ☆チ☆ス☆ズ☆メ　オリジナルサウンドトラック2]]|
+
+|&bold(){[[シンP]]}||[[弱音P]]|
+
+発売：2008年4月6日
+価格：￥500（税込）
+流通：即売
+サークル：はちすずめ
+
+**CD紹介
+-[[シンP]]が[[ミクフェス>>http://miku-fes.info/]]で頒布した初ボーカロイドCD。メディアは手焼きのCD-Rで白いレーベルにはシンPの直筆サイン入り。
+-今のところ「FortuneDiverKaitoVer.」がFullで聴けるのはこのCDのみ。
+-さりげなく[[弱音P]]の「[[卑屈戦隊うつなんだー]]」も収録。
+-「[[輝く希望の謳]]」はRinVer、「[[卑怯戦隊うろたんだー！>卑怯戦隊うろたんだー]]」はとかち仕様で収録。
+-誤字・誤植の多い歌詞カードも密かな魅力。
+-ハチスズメとは？　ハチのように舞い、スズメのような味がするナゾの生物だ！
+-卑怯も正義も感動もぎっしりつまったお徳用！
+
+**曲目
++[[輝く希望の謳]]
++[[FortuneDiver(CubaseRemix)>FortuneDiver]]
++[[MirrorChristmas]]
++[[それが僕らのJustice!(CubaseRemix)>それが僕らのジャスティス]]
++[[卑怯戦隊うろたんだー！>卑怯戦隊うろたんだー]]
++FortuneDiver カラオケ
++それが僕らのJustice! カラオケ
++卑怯戦隊うろたんだー！ カラオケ
++[[FortuneDiverKaitoVer.>FortuneDiver]]
++[[卑屈戦隊うつなんだー]]　（作詞・作曲　弱音P）
++[[SnowWhiteMedium>Snow-white Medium]]　（Arrenged By 匠シン）
+　　（#10-11は、Bonus Tracks ）
+
+**リンク
+-[[作者ホームページ>>http://sound.jp/kobapie/]]
+
+**コメント
+- 500円という安すぎる値段でうるのは卑怯だ!  -- kセイバー  (2008-06-02 11:13:57)
+#comment

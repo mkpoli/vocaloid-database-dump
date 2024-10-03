@@ -1,0 +1,68 @@
+#right(){&furigana(MazoP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/4318000" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/4318000">【ニコニコ動画】なんか、作ったアレ</a></iframe>)|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/11837180" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/11837180">【ニコニコ動画】</a></iframe>)|
+
+**特徴
+作り手名：『&u(){MazoP}』(&u(){まぞP})
+-明るく元気の出るような歌に定評のあるうｐ主。
+-２ちゃんねる「youtube板」の住人で、同板住人の詩に曲をつけたりしている。
+-時々VOCALOIDと一緒に歌う。
+-[[シンP]]の『[[卑怯戦隊うろたんだー]]』をPたちで歌う「シンPフルボッコ祭り」に1ヶ月遅れるという卑怯な手を使って参戦した。もちろん合唱には間に合っていない。
+-作者自身、すっごくいい声。
+-そのいい声で「&bold(){ボーカロイド曲発掘ラジオ ぼからじ}」のDJを務める。
+-「[[よっこらせっくす歌ってみた。>>http://www.nicovideo.jp/watch/sm4992338]]」では、ついに2次元の世界に進出ｗ
+-「[[（；`・ω・）チャーハン作るよ！]]」「[[桜吹雪>桜吹雪/MazoP]]」「[[籠ノ鳥]]」「[[囃子唄]]」は殿堂入りを果たしている。
+
+**ミリオン達成状況
+|CENTER:&bold(){曲名}|CENTER:&bold(){100万再生}|CENTER:&bold(){備考}|
+|[[イッシュのポケモン　言えるのか！]]|2017年1月20日|&bold(){mikiを用いたオリジナル曲では史上初}&br()&bold(){リュウトを用いたオリジナル曲では史上初}&br()[[hapi⇒]]氏、[[大丈夫P]]氏、&br()[[じたばたP]]氏、[[鬱P]]氏、[[生㌔P]]氏との共作|
+
+**リンク
+-[[作者ホームページ>>http://7-palette.net/]]
+-[[作者ブログ>>http://7-palette.sblo.jp/]]
+-[[ぼからじ。>>http://discord.sakura.ne.jp/radio/]]
+-[[PIAPRO>>http://piapro.jp/discord]]
+-[[twitter>>http://twitter.com/mazop]]
+
+**曲
+#list_by_tag(MazoP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(MazoPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+-&bold(){VOCALOID使用曲}シリーズ
+|&nicovideo(http://www.nicovideo.jp/watch/sm1987606)|&nicovideo(http://www.nicovideo.jp/watch/sm2163179)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2382975)|&nicovideo(http://www.nicovideo.jp/watch/sm2432501)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2473177)|&nicovideo(http://www.nicovideo.jp/watch/sm2949269)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2967917)|&nicovideo(http://www.nicovideo.jp/watch/sm3193918)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3578854)|&nicovideo(http://www.nicovideo.jp/watch/sm3716849)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3750050)|&nicovideo(http://www.nicovideo.jp/watch/sm3788993)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3986509)|&nicovideo(http://www.nicovideo.jp/watch/sm4154061)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4596185)|&nicovideo(http://www.nicovideo.jp/watch/sm4629354)|
+
+-&bold(){なんか、歌ったアレ}シリーズ
+|&nicovideo(http://www.nicovideo.jp/watch/sm2619705)|&nicovideo(http://www.nicovideo.jp/watch/sm2620518)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2926157)|&nicovideo(http://www.nicovideo.jp/watch/sm4992338)|
+
+**コメント
+- 登録タグが「作り手」「作M」と区切られてなかったようなので修正。  -- 名無しさん  (2008-08-23 22:55:35)
+- チャーハンのページ誰か作ってくれませんか…  -- 名無しさん  (2009-01-17 16:39:01)
+- チャーハンできたよー！  -- 名無しさん  (2009-02-12 23:35:06)
+- 桜吹雪と囃子唄の追加を希望！  -- 名無しさん  (2009-05-08 00:30:51)
+- 紅恋歌もいい  -- 名無しさん  (2009-07-05 00:08:27)
+- どなたかMazoPのあやつりピエロのページを作っていただけないでしょうか･･･（´・ω・｀）  -- 名無しさん  (2009-11-02 18:56:10)
+- 月想夜も作ってほしい  -- 名無しさん  (2010-05-12 19:07:02)
+- 月想夜お願いしたいです  -- 名無しさん  (2010-10-29 02:29:51)
+- ↑に同感です！  -- 聖  (2010-11-12 17:05:00)
+- どなたかみずのまもりびとお願いします  -- 名無しさん  (2011-03-07 18:19:40)
+- ↑お待たせ！一応作ってみました。  -- 名無しさん  (2011-05-04 20:03:23)
+- dancing queenのページ誰か作って下さい！！！！！  -- 名無しさん。  (2011-05-08 21:38:20)
+- 囃子唄とか、AOの羅針盤いいよ  -- 名無しさん  (2011-08-03 17:49:04)
+- 「夢一夜」の再販してくれないかなぁ  -- 名無しさん  (2011-09-26 18:36:06)
+- 「美しき獣のうた」がカッコ良すぎてハマりました！！(*''* )  -- 名無しさん  (2013-07-02 11:50:04)
+- Alice in Dreamlandが一番好きよ  -- 名無しさん  (2013-11-09 21:17:52)
+#comment()

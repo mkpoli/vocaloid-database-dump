@@ -1,0 +1,33 @@
+#right(){&furigana(きえないP) &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/3367161" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/3367161">【ニコニコ動画】消えないシリーズ</a></iframe>)
+
+**特徴
+-『消えない記憶』を発表してから『消えない傷痕』を発表するまで期間があったため、長期潜伏Pの異名も。
+-長期潜伏しすぎてしまったため、非常にクオリティーが高いにも関わらず、埋もれてしまっている。
+-サムネの地味さに定評のあるうｐ主。
+
+**リンク
+-[[作者ブログ "ムー　雑記帳">>http://muuuu.blog.shinobi.jp/]]
+
+**曲
+#list_by_tag(消えないP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm1402453){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm1433429){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm1526346){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm1526479){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2732893){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm3811322){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5649383){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm6566304){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm8531353){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm11409633){340,185}||
+
+**コメント
+- ドラマチックなPVがつけば、間違いなく殿堂入りするくらいの実力派。なぜ、こんなに埋もれてるのは、もったいない。  -- 名無しさん  (2008-06-29 02:37:55)
+- 毎回安定した曲と歌声を提供するのに、なぜか埋もれてしまう（´・ω・`）　きっかけさえ掴めば一気に上がれそうなんだが…  -- 名無しさん  (2008-06-30 21:36:45)
+- ちょっと安定しすぎてる歌声って雰囲気になってるね、歌声と絆が。  -- 名無しさん  (2009-02-07 08:55:03)
+- ヴォ機動歌姫ーカリオンタグが好きな人にとってこの人のマイリストは宝の山だと思う。  -- 名無しさん  (2009-02-25 05:21:52)
+- ミスった・・・機動歌姫ヴォーカリオンです。消えない記憶以外も聴こう！  -- 名無しさん  (2009-02-25 05:28:35)
+- 消えない記憶はマジ名曲。低評価にめげず曲を出していってほしいPだ。  -- 名無しさん  (2009-04-05 00:16:54)
+- 全ての曲いいんだけどな・・・なぜ評価されない･･･  -- 名無しさん  (2010-02-12 16:16:22)
+- MP3置き場復活を心待ちにしてる  -- 名無しさん  (2010-11-07 02:52:21)
+- もっと評価されるべきだと思う 凄くいい曲なのに埋もれているのが勿体ない  -- 名無しさん  (2012-04-07 14:32:01)
+- 毎日mp3聴いてるけど動画も見よう…埋もれてるのがもったいなさすぎる  -- 名無しさん  (2012-10-23 01:25:37)
+#comment()

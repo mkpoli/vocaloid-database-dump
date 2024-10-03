@@ -1,0 +1,39 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[教えて!! 魔法のLyric>教えて!! 魔法のLyric/CD]]|CENTER:&bold(){MIRACLE TRAX}|CENTER:[[Trax Mint]]|
+
+|&bold(){[[ちょむP]]}|
+
+||CENTER:即売|CENTER:同人|
+|発売|CENTER:2007年12月30日|CENTER:2007年12月31日|
+|価格|CENTER:￥1,000|CENTER:￥1,500（税込）|
+|サークル|>|CENTER:ちょむ工房|
+
+**CD紹介
+-[[ちょむ工房>ちょむP]]のVOCALOIDオリジナルCD第二弾。07冬コミにて頒布された後、[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/14/29/040010142941.html]]等でも発売された。
+-[[鏡音リン・レン]]の発売４日後の頒布ながら、リンの曲を収録している。
+-おまけトラックとして、Catch the Windのoff vocalも収録。
+
+**曲目
++Rotate! 
++[[Catch the Wind]] 
++[[キミとの季節]] 
++想い出並木道 
++misty rain 
++lost my... 
++ひろくてひろい僕らの世界 (extended vocal mik-x) 
++[[教えて!! 魔法のLyric (winter club mix)>教えて!! 魔法のLyric]]
++…
++Catch the Wind (off vocal)
+　　（#9-10は、おまけトラック）
+
+**リンク
+-[[ちょむ工房>>http://chomstudio.com/products/25_miracle.html]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/14/29/040010142941.html]]
+-[[メッセサンオー>>http://www.doujinshop.com/doujin/user_top.cgi?type=music&strings=01805]]
+-[[あきばお～こく>>http://www.akibaoo.com/02/commodity_param/con/0/ctc/+/shc/0/cmc/2500020045985]]
+-[[グレップ>>http://grep.will-zeal.net/tsuhan/big_view.cfm?ID=3822]]
+-[[ホワイトキャンバス>>http://www.w-canvas.com/shopping/doujins.cgi?sec=show_explain&key=21981&no_item=&listing_style=]]
+
+**コメント
+#comment

@@ -1,0 +1,45 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+#image(http://takepod.accela.jp/img/dbp1.jpg,http://takepod.accela.jp/,title=5/4TAKEPOD,blank)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Dead Ball Project vol.1}|CENTER:[[Dead Ball project vol.2]]|
+
+|&bold(){[[デッドボールP]]}||[[畳P（North-T）]]|[[baker]]|[[ゆうゆ]]|
+
+||CENTER:即売|CENTER:同人|CENTER:配信|
+|発売|CENTER:2008年3月23日|CENTER:2008年3月23日|CENTER:2012年1月6日|
+|価格|CENTER:￥1,000|CENTER:￥1,470（税込）|CENTER:￥1,200 / 1曲￥150|
+|サークル|>|>|CENTER:5/4TAKEPOD|
+
+**CD紹介
+-デッドボールPの&bold(){デビューアルバム}。
+-オリジナル曲からちょっとアレな曲、有名P陣によるリミックスと、収録曲は超豪華！
+-ボーマスやM3などのイベントで頒布されているほか、とらのあなでも委託されている。
+-2012年にはKarenTレーベルよりダウンロード販売が開始された。ボーナストラック抜きの全10曲。
+-ジャケットイラストは空木あんぐ氏。
+
+**曲目
++[[私は人間じゃないから。]]
++[[永久に続く五線譜]]
++[[木枯らしの朝]]
++[[牛乳飲め！]]
++[[ベジタリアン]]
++[[/hidden>／hidden]]
++[[シュークリームのうた]]
++[[既成事実]]
++[[続・既成事実]]
++[[金の聖夜霜雪に朽ちて]]
++私は人間じゃないから。- Dashite mix -　remixed by [[デッドボールP]]
++既成事実 - baker vs deadball -　remixed by [[畳P（North-T）]]
++[[SUPER DEADBALL BEAT]]　remixed by [[ゆうゆ]]＋[[baker]]
++デッドボールPの恋したいラジオ
+-#11-14は、Bonus Tracks
+
+**リンク
+-[[5/4TAKEPOD Official WebSite>>http://takepod.accela.jp/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/14/66/040010146610.html]]
+-[[KarenT：「Dead Ball Project vol.1」>>http://karent.jp/album/950]]
+
+**コメント
+- 今更だけど、欲しい！  -- 殺嘩  (2012-03-30 18:59:26)
+#comment

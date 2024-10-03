@@ -1,0 +1,48 @@
+#right(){&furigana(かしゅきP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/2677415" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"></iframe><a target="_blank" href="https://www.nicovideo.jp/mylist/2677415">【ニコニコ動画】ミクがスタジオに篭りきりです</a>)
+
+**特徴
+作り手名：『&u(){かじゅきP}』
+-初期から多彩なオリジナル曲を作り続けてきた老舗P。
+-コメントをするとゴロゴロと回転して喜ぶという不思議な習性を持つ。
+--ｺﾞﾛｺﾞﾛｺﾞﾛｺﾞﾛＹ⌒Ｙ⌒（ﾟ∀ﾟ)⌒Ｙ⌒（｡Ａ｡)⌒Ｙ⌒（ﾟ∀ﾟ)⌒Ｙ⌒Ｙｺﾞﾛｺﾞﾛｺﾞﾛｺﾞﾛ
+-livetuneのアルバム『[[Re:package]]』は、2008年8月27日にビクター・エンターテインメントから[[メジャー再発>>https://www.amazon.co.jp/exec/obidos/ASIN/B001BOBYO0/]]決定。
+-[[kz]]氏と同じサークル&bold(){livetune}で活動してきたが、2009年3月 livetuneとしての活動停止を発表。
+-現在はカプコンサウンドで活動中。
+
+**リンク
+//-[[livetune旧公式ページ（更新停止中）>>http://livetune.6.dtiblog.com/]]
+//-[[カプコンサウンドチーム>>https://www.capcom.co.jp/sound/index.html]]
+-[[Amazon "Re:package">>https://www.amazon.co.jp/exec/obidos/ASIN/B001BOBYO0/]]
+-[[PIAPRO>>https://piapro.jp/kstyle2]]
+
+**曲
+#list_by_tag(かじゅきP,100,sort=furigana)
+
+**CD
+#list_by_tag(かじゅきPCD,100,sort=furigana)
+
+**動画
+|&nicovideo(sm1120232)|&nicovideo(sm1327130)|
+|&nicovideo(sm1697243)|&nicovideo(sm1723424)|
+|&nicovideo(sm1777705)|&nicovideo(sm2210430)|
+|&nicovideo(sm3172237)|&nicovideo(sm4080690)|
+
+**コメント
+- 神  -- 名無しさん  (2008-05-02 23:42:46)
+- 篭もりPは現在ではあまり呼ばれていないようなので、新曲の投稿を機にページ名を変更しました。変更前のページ閲覧数は3026でした。  -- 名無しさん  (2008-05-03 17:47:27)
+- リラホルン殿堂入りおめでとうございます  -- 名無しさん  (2008-08-01 00:55:59)
+- livetuneのCDの、日々の夢想いって曲が最高だった  -- 名無しさん  (2008-11-06 12:44:49)
+- 日々の夢想いって曲本当に名曲だから聴いてほしい  -- 名無しさん  (2009-04-17 20:51:06)
+- 日々の夢想いはマジ神  -- 名無しさん  (2009-10-18 22:36:45)
+- なんで日々の夢想いのページがないんだ・・・  -- 名無しさん  (2010-02-05 00:45:54)
+- 生きているうちに、｢日々の夢想い｣に出会えて本当によかった。  -- ジーク  (2011-12-04 16:23:03)
+- 日々の夢想いは名曲だね。livetuneのアルバム聴く度に感動する  -- 名無しさん  (2011-12-25 21:15:26)
+- リラホルンに激しく心を動かされました。  -- 名無しさん  (2015-09-16 15:53:02)
+//- ミクちゃんが歌う翼をくださいすごくいい曲だよー！みんなよかったら聴いてみてね！！  -- ニャー  (2015-09-16 16:22:32)
+- 作詞作曲どちらもセンスがあるな。デビュー曲を聴いたとき一瞬でドハマりしました！  -- 名無しさん  (2022-08-10 20:16:39)
+#comment()

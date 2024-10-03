@@ -1,0 +1,47 @@
+#right(){&furigana(しやけP) &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/4991935" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"></iframe><a target="_blank" href="http://www.nicovideo.jp/mylist/4991935">【ニコニコ動画】feat.初音ミク オリジナル曲</a>)
+
+**特徴
+-切ないベースラインが印象的なR&Bサウンドに定評があるミクマスター。代表作に『[[OVER>OVER/鮭P]]』『[[Last Smile>Last Smile/鮭P]]』など。
+-実は「oga」と「low」の2人から成るユニットであり、全ての楽曲は2人の共同で制作されている。
+-音を幾重に重ねていく「足し算」的な音作りではなく、シンプルな音源や無音部分（休符）を効果的に組み合わせる「引き算」的な音作りが特徴。&br()「休符の魔術師」と評されることもある。（参照：[[ニコニコ大百科>>http://dic.nicovideo.jp/a/shakesphere]]）
+-アーティスト名は、&bold(){Shake Sphere}。P名の由来は、Shake をローマ字読みしてみよう！
+
+**リンク
+-[[Shake Sphere 鮭ログ>>http://shakesphere.jp/blog/]]
+-[[PIAPRO>>http://piapro.jp/lowgain]]
+//ホームページ廃止してブログへ飛ぶようにしたようなので、修正しました。09-08-29 damesukekun
+**曲
+#list_by_tag(鮭P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(鮭PCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm2290000)|&nicovideo(http://www.nicovideo.jp/watch/sm2407505)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2746903)|&nicovideo(http://www.nicovideo.jp/watch/sm3034754)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3503864)|&nicovideo(http://www.nicovideo.jp/watch/sm3581225)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3951936)|&nicovideo(http://www.nicovideo.jp/watch/sm4004296)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4173285)|&nicovideo(http://www.nicovideo.jp/watch/sm4327357)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4903386)|&nicovideo(http://www.nicovideo.jp/watch/sm5520743)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6079564)|&nicovideo(http://www.nicovideo.jp/watch/sm6194443)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6789505)|&nicovideo(http://www.nicovideo.jp/watch/sm9951713)|
+-&bold(){VOCALOID以外の楽曲}
+|&nicovideo(http://www.nicovideo.jp/watch/sm7290966)|&nicovideo(http://www.nicovideo.jp/watch/sm7346615)|
+
+**コメント
+- 雨上がりの晴れた午後のような清んだ音に癒されます。一回はまったなら、この方々の虜になり抜け出せないでしょう。  -- 310  (2009-05-10 15:25:11)
+- 歌い手の祭屋さんとの曲もオススメです。  -- 名無しさん  (2009-07-21 21:37:36)
+- joysound  -- 名無しさん  (2009-08-24 04:20:14)
+- 投票開始キタ!これでかつる  -- 名無しさん  (2010-02-28 00:33:16)
+- メロディーがとっても綺麗です！音の一つ一つに心が躍ります！  -- 蝉時雨  (2011-02-27 20:20:48)
+- クライベイビーで惚れた  -- 名無しさん  (2012-02-14 17:02:23)
+- 大好き  -- とっきー  (2012-04-02 11:29:26)
+- はまりました。メロディーも歌詞も全部が好きです////  -- 和華  (2012-09-24 19:01:43)
+- ogaさんはボカロ、歌い手コラボをソロで出してるけど、鮭Ｐとしてはボカロ新曲もう出さないのかなー…  -- 名無しさん  (2013-08-02 21:36:56)
+- いまなにしてんの  -- 名無しさん  (2014-09-09 21:58:13)
+- 今でも大好きなボカロP  -- 名無しさん  (2015-01-18 20:16:46)
+- また曲が聞きたい  -- 名無しさん  (2015-07-25 00:49:01)
+- Baby love はどのCDに入っていますか??とっても好きな曲なのですが、見当たらないです。  -- 名無しさん  (2016-07-24 17:06:34)
+- クライベイビーが大好きです。。  -- 名無しさん  (2017-09-20 06:50:56)
+#comment()

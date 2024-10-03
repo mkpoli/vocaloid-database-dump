@@ -1,0 +1,31 @@
+#right(){&furigana(おしえてまほうのLyric) &furigana()【登録タグ:&tags() 】}
+
+&ref(https://chomstudio.com/products/24_lyric/jacket320.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){教えて!! 魔法のLyric}|CENTER:[[MIRACLE TRAX]]|
+
+|&bold(){[[ちょむP]]}|
+
+**情報
+発売：2007年11月3日
+価格：￥500（税込）
+流通：同人
+サークル：ちょむ工房
+
+**CD紹介
+-[[ちょむ工房>ちょむP]]のVOCALOIDオリジナルCD第一弾。
+-収録楽曲は、off vocal以外[[ピアプロ>>http://piapro.jp/TakeponG]]で公開されています。
+
+**曲目
++[[教えて!!魔法のLyric (tvm edit version)>教えて!! 魔法のLyric]]
++ミルクたっぷりとろりんシューのうた
++雨上がりのステップ (extended vocal mik-x)
++教えて!!魔法のLyric (off vocal)
++ミルクたっぷりとろりんシューのうた (off vocal)
+
+**リンク
+-[[ちょむ工房>>http://chomstudio.com/products/24_lyric.html]]
+
+**コメント
+#comment

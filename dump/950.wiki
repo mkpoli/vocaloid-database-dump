@@ -1,0 +1,38 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+|CENTER:本作|CENTER:次作|
+|CENTER:&b(){Daybreak}|CENTER:[[Missing>Missing/CD]]|
+
+|&bold(){[[samfree]]}|
+
+||CENTER:即売|CENTER:同人|
+|CENTER:発売|CENTER:2008年3月23日|CENTER:2008年4月18日|
+|CENTER:価格|CENTER:￥1,000|CENTER:￥1,365（税込）|
+|CENTER:サークル|>|CENTER:Nation One|
+
+**CD紹介
+-[[SAM>samfree]]さんが[[ボーマス３>>http://ketto.com/tvm/]]にて頒布したボーカロイドCD。イベントの後、[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/14/83/040010148365.html]]でも販売が行われた。
+-殿堂入り曲「[[Daybreak>Daybreak/samfree]]」や「[[桜のような恋でした]]」、「[[Promise>Promise/samfree]]」などを始め、様々なジャンルの楽曲を収録。
+-ボーナストラックとして「Daybreak」のリミックス版も収録されている。
+-CDにはタイトルなどがCD-TEXTでさりげなく記録されていたりする。
+
+**曲目
++[[Daybreak>Daybreak/samfree]]
++[[君のメロディー]]
++[[桜のような恋でした]]
++[[トキメキはぴねす☆]]
++[[Tender Wind]]
++[[Promise>Promise/samfree]]
++夏恋
++[[CHAIN>CHAIN/samfree]]
++#$%&
++Together
++[[Powder Snow>Powder Snow/samfree]]
++Daybreak -Stand up Remix-
+
+**リンク
+-[[Nation One>>http://www.sam-free.com/]]
+
+**コメント
+- 一時期、Yahoo!オークションで20,000円の値がついていた。  -- 名無しさん  (2008-06-21 23:37:29)
+- PromiseのＣＤめっちゃ欲しいから、２万でも買うな俺なら。  -- 名無しさん  (2013-05-04 07:05:32)
+#comment

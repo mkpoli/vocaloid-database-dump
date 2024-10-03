@@ -1,0 +1,39 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+#image(http://blog-imgs-19.fc2.com/i/r/o/irohairo/moon_ph.png,http://irohairo.blog108.fc2.com/blog-entry-40.html,title=moon,blank)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&b(){moon}|CENTER:[[moon>moon/iroha]]（配信）&br()[[彩花]]&br()[[はなゆりかご]]&br()[[炉心融解]]|
+
+|&bold(){[[iroha>iroha/作り手]]}||[[ゆうゆ]]|[[林檎>林檎/作り手]]|
+
+||CENTER:即売|CENTER:CD-R版|CENTER:プレス版|
+|発売|CENTER:2008年3月23日|CENTER:2008年5月26日|CENTER:2008年9月15日|
+|価格|CENTER:￥500|CENTER:￥751（税込）|CENTER:￥1,050（税込）|
+|サークル|>|>|CENTER:Xiao-Sphere|
+
+**CD紹介
+-[[iroha>iroha/作り手]]氏による初のボーカロイドCD。
+-「[[moon>moon/iroha]]」を[[ゆうゆ]]氏や[[林檎>林檎/作り手]]氏がリミックスしたver.も収録。
+-ボーマス3での初頒布後、[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/15/20/040010152076.html]]でも販売された。また、9月15日にはプレス版が[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/16/21/040010162153.html]]で再販され、09年1月からは[[D-STAGE>>http://store.shopping.yahoo.co.jp/d-stage/2900074400011.html]]でも販売されている。再販の予定は無いという事で、現在の通販在庫とiroha氏の手持ち在庫が最後になる模様。なお、プレス版の収録内容はCD-R版と同じでジャケットやレーベル面等が変更されている。
+-ジャケット等のイラストは漫画『みくよん』で有名な[[なぎみそ]]氏が担当している。
+
+**曲目
++[[moon>moon/iroha]]
++moon（ringo-arrange）　by 林檎
++moon（VN02-remix）　by ゆうゆ
++[[彩花-saika->彩花]]
++moon -Infiltration-　by ゆうゆ
++moon*behind
+
+**リンク
+-[[Xiao-Sphere>>http://xiao-sphere.net/]]
+-[[とらのあな（CD-R版）>>http://www.toranoana.jp/mailorder/article/04/0010/15/20/040010152076.html]]
+-[[とらのあな（プレス版）>>http://www.toranoana.jp/mailorder/article/04/0010/16/21/040010162153.html]]
+-[[D-STAGE（プレス版）>>http://store.shopping.yahoo.co.jp/d-stage/2900074400011.html]]
+
+**コメント
+- ・・・・・すげーな・・・ｗｗｗｗ  -- 獄音  (2011-07-07 22:38:25)
+- 素敵な曲♪♪  -- まろん  (2012-01-20 19:49:03)
+- 気づくのが遅かった 再販激しく希望  -- 名無しさん  (2013-02-07 02:27:43)
+- アマゾンで売ってくれ。↑同意  -- 名無しさん  (2013-03-13 20:59:50)
+#comment

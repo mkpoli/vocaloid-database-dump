@@ -1,0 +1,31 @@
+#right(){&furigana(RTfactory)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://ext.nicovideo.jp/thumb_mylist/4980192" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/4980192">【ニコニコ動画】R%26T%20factory%E3%81%AE%E4%BD%9C%E6%9B%B2%E3%83%BB%E3%82%AB%E3%83%90%E3%83%BC%E6%9B%B2%E4%BD%9C%E5%93%81%E4%B8%80%E8%A6%A7%EF%BC%88%E7%B7%8F%E5%90%88%EF%BC%89</a></iframe>)
+
+**特徴
+作り手名：『&u(){RT factory}』
+-VOCALOIDを使用し、かつて制作した自作曲のセルフカバーをしている。
+-VIP STARの歌い手で有名なkobaryu氏とは旧知の仲。
+-歌声は小室哲哉+貴水博之÷2
+
+**リンク
+//-[[作者ホームページ>>http://www2.tba.t-com.ne.jp/RT-factory/]]
+//-[[muzie>>http://www.muzie.co.jp/cgi-bin/artist.cgi?id=a006446]]
+-[[PIAPRO>>https://piapro.jp/RT_factory]]
+
+**曲
+#list_by_tag(RT factory,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**動画
+|&nicovideo(sm1810636)|&nicovideo(sm1852775)|
+|&nicovideo(sm2247926)|&nicovideo(sm2446885)|
+|&nicovideo(sm3302110)|&nicovideo(sm3302540)|
+|&nicovideo(sm3371518)|&nicovideo(sm3879812)|
+|&nicovideo(sm4122074)|&nicovideo(sm5129203)|
+|&nicovideo(sm5607372)|&nicovideo(sm5728542)|
+
+**コメント
+#comment()
