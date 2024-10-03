@@ -1,0 +1,32 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Holy Star/サクラアメ}|CENTER:[[The First Of Thousands]]|
+
+|&bold(){[[Kouhei>Kouhei（K's Sound Project）]]}|Milia|[[mak.kanz@wa]]|
+
+発売：2008年5月3日
+価格：￥500（税込）
+流通：即売
+サークル：K's Project
+
+**CD紹介
+-[[Holy Star]]の[[おっさんP>Kouhei（K's Sound Project）]]と、「歌ってみた」でおなじみMiliaさんによるコラボCD。
+-[[Holy Star]]、[[サクラアメ]]それぞれミクverとMilia verを収録。
+
+**過去の頒布実績
+-VOC@LOID NIGHT in 関西（2008年5月）
+-THE VOC@LOiD M@STER 5（2008年9月）
+-M3（2008年10月）
+
+**曲目
++[[Holy Star]]
++[[サクラアメ]]
++[[Holy Star]]（Milia ver.）
++[[サクラアメ]]（Milia ver.）
+
+**リンク
+-[[K's Project>>http://be-dreamer.jugem.jp/]]
+-[[MILAI'S VOICE>>http://blog.livedoor.jp/milai0807/]]
+
+**コメント
+#comment

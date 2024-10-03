@@ -1,0 +1,71 @@
+#right(){&furigana(ここせまいP) &furigana()【登録タグ:&tags() 】}
+|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/6031556" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/6031556">【ニコニコ動画】</a></iframe>)|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/11286727" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/11286727">【ニコニコ動画】キミ　ボク　フォッサマグナ</a></iframe>)|
+|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/10105822" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/10105822">【ニコニコ動画】</a></iframe>)||
+
+**特徴
+-&bold(){ろくがつ feat. 鏡音レン from KOKOSEMAI RECORDS}。 愛称は、ここせまP。
+-&bold(){レンの低音}によるミッドテンポ、スローテンポのロキノン系曲に定評がある。
+-自他共に認めるレン廃である。好んで聞くVOCALOIDオリジナル曲もリンレン曲が多いとのこと。
+--なお、特にレンの低音に惚れ込んでおり、オリジナル曲で自ら低音を用いるのは、「レンの低音」支援の意味も込められていると言う。
+-曲の発表スピードが非常に早い。
+--08年6月13日からは3日連続で新曲を投稿した。　1.『[[Eraser>Eraser/ここ狭いP]]』　2.『[[追憶>追憶/ここ狭いP]]』　3.『[[The flower of you]]』
+--09年2月28日には、4曲から成るミニアルバム『[[キミ ボク フォッサマグナ>>http://www.nicovideo.jp/mylist/11286727]]』を発表。（1.『[[モノトニー]]』　2.『[[Todays]]』　3.『[[蜀犬吠日]]』　4.『[[アッバンドーノ]]』）
+--09年4月6日には、デビュー1周年ということで『[[タイムイズモネー]]』『[[こじんまりとしたぼやき]]』『[[追憶>追憶/ここ狭いP]]』の修正版がそれぞれ投稿された。
+-また、1度発表した曲でも度々修正版を発表しており、その度に上達の色がうかがえる。
+-動画の作者コメント欄を全て埋め尽くす勢いでコメントを残す。ちなみにP名は、書くスペースが足りずに「ここ狭い！」と発言したことに由来する。
+-絵師のイラストを借用する勇気が無く、自ら釣る気のない（？）サムネイルを用意していたため、サムネチキンPとも呼ばれていたが、&br()14回目の投稿『[[エクスプレス Ver.2.0>エクスプレス]]』で初めて他者のイラストを使用、更にPV製作にも力を入れたところ見事にヒットしたという逸話を持つ。
+--その後しばらくは絵師とのコラボレーションが続いた。サムネチキンは克服したようで。
+--しかしながら、日常のワンシーンを切り取ったかのようなサムネイルも密かに好評であった。
+-そのほか20を越えるP名を有する（08年9月現在）。
+-[[Mazoっぷ>MazoP]]氏によるボーカロイド曲発掘ラジオ「[[ぼからじ。第6回>>http://www.nicovideo.jp/watch/sm3725638]]」に登場。
+--ミクのパンツは何派？との質問に、「ミク？そんなものは幻想です。エロイ人にはそれが分からんのです。」と発言し、Mazoっぷを含む全国のミクファンを敵に回した。
+-以下の4作は、1連の物語を成している。
+--『[[Lonely Snow]]』（本編）、『[[エクスプレス]]』（サイドストーリー）、『[[Witness]]』（別視点）、『[[シルク]]』（エピローグ）
+
+**リンク
+-[[作者ホームページ>>http://lopnur126.web.fc2.com/]]
+-[[作者ブログ>>http://rkgt.blog32.fc2.com/]]
+-[[YouTube(LopnurLopnur)>>http://www.youtube.com/user/LopnurLopnur]]
+-[[公開プロフィール>>http://www.nicovideo.jp/user/1297415]]
+//-[[にゃっぽんホーム>>http://v-nyappon.net/?m=pc&a=page_f_home&target_c_member_id=4652]]
+-[[bandcamp>>http://rokugatsu.bandcamp.com/]]
+-[[tumblr>>http://lopnur0126.tumblr.com/]]
+-[[ブロマガ>>http://ch.nicovideo.jp/rokugatsu]]
+
+**曲
+#list_by_tag(ここ狭いP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(ここ狭いPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm5808664)|&nicovideo(http://www.nicovideo.jp/watch/sm5681061)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2999108)|&nicovideo(http://www.nicovideo.jp/watch/sm6671560)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6672840)|&nicovideo(http://www.nicovideo.jp/watch/sm4641729)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3638319)|&nicovideo(http://www.nicovideo.jp/watch/sm6672922)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3658234)|&nicovideo(http://www.nicovideo.jp/watch/sm5161759)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5480427)|&nicovideo(http://www.nicovideo.jp/watch/sm5675450)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6287580)|&nicovideo(http://www.nicovideo.jp/watch/sm6287634)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6287668)|&nicovideo(http://www.nicovideo.jp/watch/sm6287717)|
+-&bold(){アレンジ曲}
+|&nicovideo(http://www.nicovideo.jp/watch/sm5590713)|
+
+
+**コメント
+- もっと評価されるべき。良曲ばっか。  -- 名無し  (2008-07-19 16:03:42)
+- もっと評価されるべき｡…にしてもミクファン敵に回したのかww頑張れww  -- 名無しさん  (2008-11-06 20:36:10)
+- ここせまPすきだ〜！  -- 名無しさん  (2009-02-25 20:56:48)
+- 俺もここ狭Ｐ好きだー！  -- 名無しさん  (2009-02-25 23:37:47)
+- もっと評価されてほしい  -- 名無しさん  (2009-03-14 09:53:34)
+- ミニアルバム最高!　一気に4曲とか強すぎるｗ  -- 名無しさん  (2009-03-17 18:19:21)
+- ミクのパンツって白緑のボーダーじゃなかったの？  -- Nicholson  (2009-04-02 23:07:14)
+- そんなものは幻想です  -- 名無しさん  (2009-04-09 06:40:42)
+- ぼからじ聞けばよかった……。ミクのパンツじゃなくてレンのパンツだったらどう答えたんだろ。  -- 名無しさん  (2009-05-05 17:08:53)
+- レン君の低音が非常に気持ちいい！ゆったり聴かせる曲が多く、聴くほどに惹き込まれていくような魅力があります。  -- 310  (2009-05-17 22:55:51)
+- ↑↑そんなこと言うと気になってくるじゃないかｗｗｗまたネトラジ出てくれないかなー  -- 名無しさん  (2009-05-18 03:06:27)
+- よく聴いてる曲をよく見てみたらほとんどここせまPの曲だった。こんなにキレイなレンの低音聴いたことない！  -- 名無しさん  (2009-06-23 23:18:50)
+- 自分ミクファンだけどここ狭Ｐ好きだぞ！頑張れ！！  -- 名無しさん  (2009-07-07 23:50:57)
+- ここせまPは本当にいい。まじで埋もれ過ぎだよなあ...もっと評価されるべき。  -- 名無しさん  (2009-10-09 21:15:13)
+- ユーブイずっと聞いてる。いい曲。  -- 名無しさん  (2010-11-04 23:54:29)
+- Out Wave Cluster「Quadrophenia」にあのこはいないっていう曲があった  -- 名無しさん  (2011-02-06 14:42:10)
+#comment()

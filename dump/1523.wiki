@@ -1,0 +1,33 @@
+#right(){&furigana(ちょうきんけつP) &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/6312319" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/6312319">【ニコニコ動画】Silence</a></iframe>用をコピペ)
+
+**特徴
+-アーティスト名は &bold(){χ -kai-}。
+-P名の由来は、オリジナル曲『翼を広げて』の別歌詞バージョン『お金がないかもしれない…』から。
+-&bold(){ユーロトランスのアレンジの神。}
+-メロディーラインが秀逸。トランス、バラードともにプロの香りを感じさせる。
+-再生数が伸び悩んでいるが、きっかけがあれば化けるであろう曲ばかり。
+-最近（2008年11月）は otetsu 氏によるがくぽのロック曲のトランスアレンジを発表している。 第1弾は『[[End of the Ache]]』、第2弾は『[[喪失モノクローム]]』。2009年2月15日、第3弾となる『[[transient future]]』のリミックスを発表した。
+
+**リンク
+-[[ピアプロ>>http://piapro.jp/neoneet]]
+
+
+**曲
+#list_by_tag(超金欠P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm3826677){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm3564959){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/nm2842999){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm4253646){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4937790){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm5336182){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5538594){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm6151859){340,185}|
+
+
+**コメント
+- 『Misfortune』は、ベートーヴェンの『月光』を基調としたトランスの意欲作。哀愁系トランスが好きな人は、ハマると思います。  -- 名無しさん  (2008-07-03 20:49:25)
+- 超金欠Pのガクトランスはすごくかっこいいのに伸びなくてもったいない！！！とりあえず聴いて欲しい…  -- 名無しさん  (2008-11-28 03:31:18)
+- 非表示になっているnm3049347を外して、最新作（「喪失モノクローム」のトランスアレンジ）を入れました。私ももっと聴いて欲しいと思う！  -- 名無しさん  (2008-11-28 13:48:41)
+- ↑ありがとう！ほんとにもっと評価されるといいね。  -- 名無しさん  (2008-11-28 20:03:52)
+- ちょｗ新作ｗｗｗ  -- 名無しさん  (2008-12-22 02:12:06)
+- otetsuリミックス第３弾出たよ！「transient future」　どなたか追加おねです  -- 名無しさん  (2009-02-18 11:59:44)
+#comment()

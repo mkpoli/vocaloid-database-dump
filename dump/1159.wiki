@@ -1,0 +1,28 @@
+#right(){&furigana(せぴあP) &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/11594251" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/11594251">【ニコニコ動画】VOCALOID投稿曲</a></iframe>)
+
+**特徴
+-
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/tarako]]
+-[[いかすみへの突然変異（ブログ）>>http://slaim.blog57.fc2.com/]]
+-[[いかすみ！（ホームページ）>>http://sepibox.web.fc2.com/top.html]]
+
+**曲
+#list_by_tag(セピアP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(セピアPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+
+|&nicovideo(http://www.nicovideo.jp/watch/sm5921422)|&nicovideo(http://www.nicovideo.jp/watch/sm5948055)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6142998)|&nicovideo(http://www.nicovideo.jp/watch/sm6797383)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6893802)|&nicovideo(http://www.nicovideo.jp/watch/sm7041148)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7302069)|&nicovideo(http://www.nicovideo.jp/watch/nm7304145)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7503659)|
+
+
+**コメント
+#comment()

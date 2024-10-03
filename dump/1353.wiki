@@ -1,0 +1,63 @@
+#right(){&furigana(wintermute)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/3946960" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/3946960">【ニコニコ動画】wintermuteのもの</a></iframe>)
+
+**特徴
+作り手名：『&u(){wintermute}』（&u(){ウィンターミュート}）
+-2007年12月、「[[Mint Tea]]」にてボカロPデビュー。
+-使用合成音声は初音ミク、巡音ルカ。
+-ミクゲイザーの伝道師。
+-mango700氏やドラマーの友人氏によるmixや別バージョンもあり。
+-サムネのイラストは殆ど漫画家のニヤコ氏が手掛けているが、自分自身で描く事もある。
+-メガネ部らしい（笑）
+
+**リンク
+-[[作者ホームページ（Like a Daydream）>>http://likeadaydream.net/]]
+-[[YouTube>>http://www.youtube.com/user/likeadaydream?feature=watch]]
+-[[PIAPRO>>http://piapro.jp/wintermute]]
+-[[twitter>>https://twitter.com/_wntrmt]]
+
+**曲
+#list_by_tagsearch(wintermute,sort=furigana2,errmsg=まだ曲が登録されていません。,and,100)
+
+**CD
+#list_by_tagsearch(wintermuteCD,sort=furigana2,errmsg=まだCDが登録されていません。,and,100)
+
+**動画
+|>|CENTER:~オリジナル曲|
+|&nicovideo(sm1735711)|&nicovideo(sm2045384)|
+|&nicovideo(sm2264780)|&nicovideo(sm3561388)|
+|&nicovideo(sm3653875)|&nicovideo(sm4027953)|
+|&nicovideo(sm4309620)|&nicovideo(sm6009449)|
+|&nicovideo(sm6334366)|&nicovideo(sm7020122)|
+|&nicovideo(sm7354057)||
+|>|CENTER:~セルフアレンジ・アレンジ曲|
+|&nicovideo(sm1787399)|&nicovideo(sm2016426)|
+|&nicovideo(sm2356275)|&nicovideo(sm3641253)|
+|&nicovideo(sm4252254)|&nicovideo(sm4473520)|
+
+**関連タグ内の更新履歴
+#region(close,関連タグ内の更新履歴)
+関連タグ内の更新履歴
+※「wintermute」「wintermuteCD」タグ内で最近編集やコメントのあった記事を新しい方から10件表示しています。
+#list_by_tagsearch(wintermute,wintermuteCD,sort=timestamp,sort2=desc,errmsg=まだ曲、CDが登録されていません。,or,10)
+#endregion
+
+**コメント
+- ちょっと苦戦しましたが大好きな作り手さんなので編集させてもらいました。  -- hanu  (2008-06-22 04:05:37)
+- ニコニコ大百科にこのPの記事を書きたいのですが、一部借用させていただいてもよろしいでしょうか？  -- tom  (2008-07-21 16:09:45)
+- すみません、自重できずに”「Warm Life」「Song of Pixie」のイラストはプロの漫画家のニヤコ氏によるもの。”の部分をお借りして、記事を作成してしまいました。もし問題があるようでしたら、申し訳ございませんがお知らせ頂けますでしょうか  -- tom  (2008-07-21 16:52:10)
+- ＞tomさん　全然大丈夫です！ニヤコさんの現在のPNは“CAPTAIN NYAKO”等ですが、以前は“小川松風”というPNで活動されていたようです。  -- hanu  (2008-07-21 21:46:41)
+- 本当にこの人は凄いよな。音楽性を貫くところとかさ。  -- 名無しさん  (2010-02-06 21:26:51)
+- 最近ちゃんと知るようになって、凄い好きになった。もっと早く知ってたらどうなるかな。今に至るから好きになれたのかも。明日カラオケ行くので是非歌いたいけど、配信されてるのかな  -- 名無しさん  (2010-05-02 15:56:47)
+- これはいいシューゲイザー  -- mimei  (2010-08-15 07:59:18)
+- ミクのシューゲが聴きたくて探し回って遂にこの方に辿り着いた。  -- 名無しさん  (2011-08-08 17:32:17)
+- wintermuteさんのお蔭で、僕はシューゲイザーに出会うことが出来ました。これからも流行に流されず、自分の音楽を貫いてください。  -- 竜奇  (2012-09-28 16:32:44)
+- いい音ですよね～  -- かなか  (2014-01-26 00:12:29)
+- 空を見上げたりしないでください。ずっと靴を見ていてください  -- 76  (2014-12-30 18:59:17)
+- ちらほらと歌詞に、作曲や動画投稿の暗喩が散りばめられてるよなー。ならではの空気感がイイ  -- 名無しさん  (2015-11-26 16:30:33)
+- Spotifyで出会えて本当によかった。ずっと聴いてます  -- 名無しさん  (2024-09-11 01:26:04)
+#comment()

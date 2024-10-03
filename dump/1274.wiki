@@ -1,0 +1,40 @@
+#right(){&furigana(よよP) &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/4152619" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/4152619">【ニコニコ動画】よよだいん</a></iframe>)
+
+**特徴
+-曲のジャンルはテクノポップを基調とするが、ロックや童謡テイストの曲も守備範囲である。
+-歌詞は大人びたものが多く、ネタのように思われるタイトルでも実際に聴いてみるとその完成度に驚かされる。
+-社会問題や時事ネタを扱った作品も多い。
+-一部の曲では意図的に「し」を「すぃ」と発音させているのが特徴的。
+-ブライトワルトでの「だっこしたい」「おっさんでもいいからだっこしたい」というコメントがきっかけで「よよＰだっこし隊」が結成された。
+-ボカロ以外ではYoutube等でDenkitribeのハンドルネームでKORG・Electribe（通称・勃起部族）の演奏動画の投稿もしている。
+-また、ニコニコにもElectribeを使用したチーターマンアレンジなどを投稿している。
+-ブログ「Radium software」の中の人でもある。
+-「[[愛が足りない]]」は自身初の殿堂入り作品。
+
+**リンク
+-[[音源置き場>>http://www.voiceblog.jp/yoyodyne/]]
+-[[PIAPRO>>http://piapro.jp/yoyodyne]]
+
+**曲
+#list_by_tag(よよP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(よよPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm1780019){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm1846043){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm1878749){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm1912342){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm1954068){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm1967920){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2078938){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm2250439){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2455996){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm3667777){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4160570){340,185}||
+
+**コメント
+- 大百科の記事を参考に加筆してみました。書いた人すごいなぁ…  -- 名無しさん  (2008-11-30 18:25:54)
+- よよｐ大好きだー  -- れもん  (2009-01-29 16:33:38)
+- 愛が足りない いいよー好きだぜ  -- お  (2009-04-09 23:18:37)
+- よよP大好き！でもだっこし隊の意味は何ぞ？  -- 名無しさん  (2009-06-19 22:57:48)
+- もう曲つくんないのかな？大好きなのに  -- 名無しさん  (2011-06-19 12:02:29)
+- もう音楽作ってないみたいだね…新曲聴きたかったな  -- 名無しさん  (2016-06-30 14:11:27)
+#comment()

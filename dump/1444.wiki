@@ -1,0 +1,32 @@
+#right(){&furigana(あかりののえる) &furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm1829748)
+作詞：[[さささP]]
+作曲：[[さささP]]
+編曲：[[さささP]]
+唄：初音ミク
+
+**曲紹介
+-古楽っぽいクリスマス曲。
+-PIAPROには、リンレンミクのトリオバージョンも存在する（「[[灯りのノエル（トリオ）>>http://piapro.jp/content/ms0slubmnehpy751]]」）。
+
+**歌詞
+（[[PIAPRO>>http://piapro.jp/content/1ostd23n048v1sje]]より転載）
+
+ろうそくひとつ灯そう　雪深い窓に
+迷う子らの　明日のしるべになるよう
+Noel
+
+ろうそくふたつ灯そう　机の片隅に
+暖かな晩餐を　照らしてくれるだろう
+Noel
+
+ろうそく三つ灯そう　扉の向こうに
+訪れる客人を　迎え入れるために
+Noel
+
+ろうそく四つ灯そう　寝台の陰に
+眠る前の祈りの　支えになるよう
+Noel
+
+**コメント
+#comment()

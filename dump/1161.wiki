@@ -1,0 +1,30 @@
+#right(){&furigana(とおいそら)&furigana()【登録タグ:&tags()】}
+&nicovideo(http://www.nicovideo.jp/watch/sm1277823){340,185}
+作詞：[[まい]]
+作曲：[[CHEEBOW]]
+唄：初音ミク
+
+**曲紹介
+-CHEEBOW氏が活動しているインディーズユニット「Bubble of Everybody」の曲のセルフミクカバー。
+-[[muzieのBubble of Everybodyのページ>http://www.muzie.co.jp/cgi-bin/artist.cgi?id=a033163]]と[[JKEN MUSICのBubble of Everybodyのページ>http://music.j-ken.ne.jp/index.php?f=artist&aid=1494]]にボーカルのまい氏が歌っているフルバージョンがある。
+
+**歌詞
+たそがれに染まる雲に
+光る翼追いかけるの
+
+はなれないで　冷えた体
+抱きしめて祈る
+伏せた瞳に　もう見えないあなたを重ねている
+
+少し勇気が無くて
+ただ自信が無くて
+ためいきばかりついていたけれど
+
+いつも信じてるから
+つながっているから
+長い夜はきっと明けるよ
+
+朝日が街を照らして
+
+**コメント
+#comment()

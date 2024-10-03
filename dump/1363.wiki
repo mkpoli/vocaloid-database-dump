@@ -1,0 +1,105 @@
+#right(){&furigana(かたほとりP) &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/3747053" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/3747053">【ニコニコ動画】かたほとりVOCALOID作品</a></iframe>)
+
+**特徴
+-ロリ声リンの萌え萌え電波系ソングに定評のあるリン廃P、自称「ロリの伝道師」。
+--[[ジェバンニP]]、[[シグナルP]]に続く3人目の「伝説のリン廃」。
+--特にロリキャラの愛を前面に押し出した曲を「ロリジナル」とカテゴライズしている。
+--「[[NEVER CROSS U]]」のコメントを見るあたり、リンはACT.1を溺愛しているようだ。
+---「[[キオクノシズク]]」では、ACT.1をベースにACT.2成分を混ぜる事で滑舌を良くする試み（元はシグナルPが提唱）もしている。
+--独特のロリ声調律リンは、ファンの一部から「かたほとリン」と呼ばれている。
+-比較的初期（2007年10月）から活動している古参。
+-ボカロはフライングゲットする事が多い。
+--「[[Love me らんらんるー]]」、「[[ハロー！ハロー！]]」はそれぞれリン・GUMIの最古曲である。
+--ルカもフライングゲットだが、2010年1月1日「[[ミラクルたゆん]]」までニコニコでの曲公開はなかった。
+-ナムコゲームBGMのアレンジ曲も多い。
+-多くのロリ声歌い手と交流があり、特に2009年秋からは、ななひらと組んだ活動が多くなりつつある。
+
+**エピソード
+-[[「千の風になって」の初音ミクカバー>>http://www.nicovideo.jp/watch/sm1465388]]によって「墓ミク」「墓萌え」を生み出したとされる。
+-第５回ニコニコ料理祭・テーマ「トマトを使った料理」の支援ソング「[[いいからトマト食え]]」を作成。
+--これが「[[トマトきらいのうた]]」を作った[[オワタP]]への宣戦布告となり、「ニコニコトマト戦争」なるタグも生まれた。
+-2009年11月28日、[[ニコニコ大会議2009-2010>>http://www.nicovideo.jp/watch/sm8943306]]にゲスト出演。
+--セリフはほとんどなかったらしい。
+--VOCALOID曲ではないが、会場では新曲「[[カナザワカレー>>http://www.nicovideo.jp/watch/sm8943306]]」（歌唱：ななひら）を披露した。
+-幼女VOICEROID・月読アイの曲「[[かたおもい。>>http://www.nicovideo.jp/watch/sm8999479]]」を、アイ発売当日に発表した。
+--その投稿者コメントから、「VOICEROIDをVOCALOIDと勘違いして買ったのではないか」とも想像されているが、真実は定かではない。
+-最初は墓ミク（千のｒｙ）で殿堂入りすると思いきや、2010年2月6日未明に「[[ミラクルたゆん]]」が自身初の殿堂入りを達成。
+
+**リンク
+-[[HOT SPOT（作者ホームページ）>>http://www.orc2000.com]]
+-[[麺屋かたほとり。（作者ブログ）>>http://rinkawaii1.blog26.fc2.com/]]
+-[[PIAPRO>>http://piapro.jp/katahotori]]
+-[[Twitter>>http://twitter.com/katahotori]]
+
+**曲
+#list_by_tag(かたほとりP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(かたほとりPCD,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**本人作成動画
+-&b(){ロリジナル}
+|&nicovideo(http://www.nicovideo.jp/watch/sm4679497)|&nicovideo(http://www.nicovideo.jp/watch/sm6268211)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm8092813)||
+
+-&b(){オリジナル（ガチ曲）}
+|&nicovideo(http://www.nicovideo.jp/watch/sm4028125)|&nicovideo(http://www.nicovideo.jp/watch/sm5659401)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6091594)|&nicovideo(http://www.nicovideo.jp/watch/sm7349822)|
+
+-&b(){オリジナル（その他）}
+|&nicovideo(http://www.nicovideo.jp/watch/sm1876726)|&nicovideo(http://www.nicovideo.jp/watch/sm2112902)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2621015)|&nicovideo(http://www.nicovideo.jp/watch/sm2772525)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3471299)|&nicovideo(http://www.nicovideo.jp/watch/sm5100643)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5798932)|&nicovideo(http://www.nicovideo.jp/watch/sm7443613)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7958981)|&nicovideo(http://www.nicovideo.jp/watch/sm8696016)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9266888)|&nicovideo(http://www.nicovideo.jp/watch/sm9879969)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9979305)|&nicovideo(http://www.nicovideo.jp/watch/sm12892917)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm13404776)|&nicovideo(http://www.nicovideo.jp/watch/sm15126174)|
+
+-&b(){人間曲カバー}
+|&nicovideo(http://www.nicovideo.jp/watch/sm1255504)|&nicovideo(http://www.nicovideo.jp/watch/sm1465388)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3637938)|&nicovideo(http://www.nicovideo.jp/watch/sm4155582)|
+
+-&b(){VOCALOID曲カバー･アレンジ}
+|&nicovideo(http://www.nicovideo.jp/watch/sm4581099)|&nicovideo(http://www.nicovideo.jp/watch/sm5590610)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6437728)|&nicovideo(http://www.nicovideo.jp/watch/sm6476944)|
+
+-&b(){ゲーム曲アレンジ}
+|&nicovideo(http://www.nicovideo.jp/watch/sm1634441)|&nicovideo(http://www.nicovideo.jp/watch/sm1774054)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2161452)|&nicovideo(http://www.nicovideo.jp/watch/sm2402817)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3153432)|&nicovideo(http://www.nicovideo.jp/watch/sm6190801)|
+
+**関連動画
+-&b(){PV}
+|&nicovideo(http://www.nicovideo.jp/watch/sm6643191)|&nicovideo(http://www.nicovideo.jp/watch/nm8215390)|
+
+**コメント
+- この人のリンの調教は神だと思うんだが！  -- 名無しさん  (2008-09-28 11:14:31)
+- 「るー！」の声調に定評がある。  -- 名無しさん  (2009-03-19 21:28:10)
+- とうとう｢伝説のリン廃｣タグがｗ  -- 名無しさん  (2009-03-26 09:13:19)
+- かたほとリンの独特の声質はもっと評価されるべき  -- 名無しさん  (2009-05-05 01:33:57)
+- いやいや、かたほとりＰは伝説のロリン廃だろwww  -- 名無しさん  (2009-05-05 07:52:25)
+- リン廃もっと増えろおおお！リン支援支援支援！リンを愛してるっ  -- 名無しさん  (2009-05-15 20:04:16)
+- ↑わ・・私もリン廃だが落ち着け∑（;￣□￣Ａ　暴走したい気持ちは十分わかるが  -- 名無しさん  (2009-05-15 20:09:18)
+- 俺もリン廃なんだぜっ！リン他のボカロと比べ物にならないほど好きっ！www  -- 名無しさん  (2009-05-15 20:15:04)
+- 新曲かっこいい！かたほとりＰ好き！  -- 名無しさん  (2009-06-25 17:34:38)
+- リンの新曲めっちゃいい！  -- 名無しさん  (2009-06-25 17:35:34)
+- GUMIやばいよ!かわいい  -- 名無しさん  (2009-06-25 20:58:16)
+- ハローハロー良いよ  -- 名無しさん  (2009-06-25 21:04:31)
+- リンに続いてGUMIも最速か……さすが俺たちのかたほとりPだぜ！しかもこれがまたいい曲だからたまらない！  -- 名無しさん  (2009-06-26 00:08:54)
+- でもこれでキオクノシズクが埋もれかねないのは悲しいな。大抵の人は過去曲までなかなか漁ってくれないみたいだし。  -- 名無しさん  (2009-06-26 00:13:15)
+- ↑キオクノシズクめっちゃ好きだから悲しいな、、良い曲なのにとにかく支援支援！  -- 名無しさん  (2009-06-26 12:09:27)
+- キオクノシズクはリン曲でも最高峰だと思うんだよな。さらに評価されて欲しいのう  -- 名無しさん  (2009-07-05 10:09:02)
+- キオクノシズクめっちゃすき！もっと評価されて欲しい。支援支援！  -- 名無しさん  (2009-07-10 22:00:28)
+- 宣戦布告てwww  -- 名無しさん  (2009-08-20 04:34:23)
+- 項目を大幅改造してみました。  -- 名無しさん  (2009-10-17 18:47:08)
+- かたほとりPへの愛を感じるね、このページは。  -- 名無しさん  (2009-11-23 11:48:59)
+- かたほとりPって女なのかな？男なのかな？        かたほとりPさんの歌最高ーーーー！！好きーーーー！！好きです(＃^.^＃)  -- 名無しのドンキ  (2009-12-05 10:36:18)
+- ↑男ですがな。  -- 名無しさん  (2009-12-05 23:53:29)
+- ミラクルたゆんが代表曲になりそうな勢いだなｗ  -- 名無しさん  (2010-01-15 20:02:40)
+- ああ、とうとうミラクルたゆん殿堂入り。これは「奇跡」という名の「現実」か！  -- 名無しさん  (2010-02-06 03:59:31)
+- 新曲が楽しみ  -- 名無しさん  (2011-05-09 18:54:52)
+- かたほとりＰ神！特に「メイドの星からＳ・Ｏ・Ｓ」が好き＾＾リンちゃん可愛すぎ/////  -- リン廃  (2012-04-14 18:57:40)
+- かわいすぎる(>_<)  -- 名無しさん  (2012-07-06 19:43:55)
+#comment()

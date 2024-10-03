@@ -1,0 +1,24 @@
+#right(){&furigana(だらり) &furigana()【登録タグ:&tags() 】}
+**特徴
+-作詞家。[[れれれP]]のれれ恋歌シリーズで有名だが、他のPにも歌詞提供の実績がある。
+-『[[イケ恋歌]]』『[[ツンデ恋歌]]』『[[ヘタ恋歌]]』『[[ヤンデ恋歌]]』（殿堂入り順）は殿堂入りを果たしている。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/pfgmrs]]
+
+**曲
+#list_by_tag(ダラリ,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(ダラリCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm2280048){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm2716886)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2849292){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm3051638){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3260345){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm3536810)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5134729)||
+
+**コメント
+- 作詞が凄い上手ですね！特に、ツンデ恋歌は素晴らしかったww  -- 匿名で。  (2011-05-28 22:48:49)
+- 最近作詞提供してないんですかね…  -- 名無しさん  (2013-02-22 21:18:54)
+#comment()

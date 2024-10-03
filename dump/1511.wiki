@@ -1,0 +1,39 @@
+#right(){&furigana(なゆたP) &furigana()【登録タグ:&tags() 】}
+|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/11110968" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/11110968">【ニコニコ動画】なゆたP製作物</a></iframe>)|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/5606908" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/5606908">【ニコニコ動画】Silence</a></iframe>)|
+
+**特徴
+-本来は「NAYUTA」名義での活動をしているが、ニコニコ動画「歌ってみた」ジャンルに、既に同名（小文字）の女性ボーカルがいたため、ニコニコとピアプロでは名前をひらがなに変えて活動している。
+-5歳からクラシックピアノを始めるが、後にコンピューターミュージックへと転身。
+-初音ミク処女作は2008年3月14日『[[Silence>Silence/なゆたP]]』。当初プロデューサー名の名乗りもタグも無かったことから、「いったいどんな人物の作品か」が話題となった。 
+-サムネは地味ではあったものの曲の完成度が高く、多くのVOCALOIDプロデューサーやPV作家の注目を浴びることになる。
+-なゆたPは「Sonicland Peace Makers（SLPM）」という名古屋発のバンドメンバーの一人。…本当にプロの犯行でした。
+
+**リンク
+-[[ブログ>>http://blog.livedoor.jp/nayuta_slpm/]]
+-[[SLPM>>http://slpm.jp/]]
+-[[muzie>>http://www.muzie.co.jp/cgi-bin/artist.cgi?id=a002888]]
+-[[PIAPRO>>http://piapro.jp/nayuta_sonicland]]
+
+**曲
+#list_by_tag(なゆたP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(なゆたPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm2638905){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm6157800){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7940688){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm28676966)|
+
+
+**コメント
+- みんなもっと聞いて・・・特にトランス好きな人は、AOZORIZEDを。  -- 名無しさん  (2012-02-17 17:42:53)
+- ↑トランス好きというわけでは無かったけど聴いてみました。これはいい・・・！ Silenceも聴いてすっかりハマって毎日聴いてます☆  -- 名無しさん  (2013-06-06 00:06:13)
+- IA THE WORLD～影～と～翼～に曲提供したNAYUTAさんってこの方？  -- 名無しさん  (2014-09-08 11:27:05)
+- そのようです  -- 名無しさん  (2014-09-08 17:00:39)
+- IA THE WORLD ～翼～ に入ってる「NULL」を聞いて、プロの方かと思ったらマジだった。。  -- 上の方、教えて下さってありがとうございました   (2014-10-01 23:32:53)
+- 「IA影」に収録された「MONO」が微調整の上ニコ動にうｐされました→sm28676966  -- 名無しさん  (2016-07-30 00:33:00)
+- またなゆたPの曲が聴けて嬉しい  -- 名無しさん  (2016-10-05 23:09:44)
+- 久しぶりにニコ動に投稿されていてびっくりしました！「MONO」「SIREN」メチャクチャ良いです！！  -- 名無しさん  (2017-11-02 17:34:39)
+- この方は天才としか思えません。皆さん聴くべきです。  -- 名無しさん  (2018-06-28 14:19:01)
+- 昔、音楽至高。って名前のサイト持ってなかった？違う人かな。オリジナル楽曲で。「ピアノの記憶」（ほんとはドイツ語だが忘れた）って曲が忘れられない。  -- 名無しさん  (2020-02-11 01:28:42)
+#comment()

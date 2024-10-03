@@ -1,0 +1,49 @@
+#right(){&furigana(いいとこどりっぷ) &furigana()【登録タグ:&tags() 】}
+
+&ref(https://chomstudio.com/products/27_iitoko/jacket400.jpg,x=300,y=300)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Trax Mint]]|CENTER:&bold(){イイトコドリップ}|CENTER:[[Turbotrax]]|
+
+|&bold(){[[ちょむP]]}|&bold(){すぺらんかー}|
+
+||CENTER:即売|CENTER:同人|
+|発売|CENTER:2008年6月29日|CENTER:2008年8月16日|
+|価格|CENTER:￥700|CENTER:￥1,050（税込）|
+|サークル|>|CENTER:ちょむ工房＆Silly Walker|
+
+**CD紹介
+-ちょむ工房とSilly Walkerの２サークルがお互いに協力しあって製作した、全曲オリジナルのCD。[[ボーマス4>>http://ketto.com/tvm/]]にて頒布された。
+-08年夏コミのちょむ工房スペースにてプレス版での再販が行われ、同日より書店委託も行われています。
+-収録楽曲は、お互いのいいところを贅沢にドリップというコンセプト通りに、互いの曲を編曲したりと完全なる共同制作。
+-ジャケットデザインなどはSilly Walkerが担当し、CDのマスタリングと製作をちょむ工房が担当している。
+-CDの型番はちょむ工房のCHOM-0027にSilly Walkerの#74が併記される形になっている。
+
+**曲目
++ニヒャク　（作詞：板井逢智　作曲：すぺらんかー　編曲：TakeponG） 
++青く染めて　（作詞：板井逢智　作曲・編曲：すぺらんかー） 
++限界Breaker　（作詞・作曲・編曲：TakeponG） 
++Hana-ten　（作詞：板井逢智　作曲・編曲：すぺらんかー） 
++突撃アタック☆チャンス　（作詞・作曲・編曲：TakeponG） 
++ホントはどうよ？　（作詞・作曲：TakeponG　編曲：すぺらんかー） 
++タイトル無し　（初音ミクと鏡音リンの台詞が11秒）
++ニヒャク　（off vocal）
++青く染めて　（off vocal）
++限界Breaker　（off vocal）
++Hana-ten　（off vocal）
++突撃アタック☆チャンス　（off vocal）
++ホントはどうよ？　（off vocal）
+　　（#7-13は、おまけトラック）
+
+**リンク
+-[[ちょむ工房>>http://chomstudio.com/]]
+-[[Silly Walker>>http://www.sillywalker.info/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/15/43/040010154332.html]]
+-[[メロンブックス>>http://shop.melonbooks.co.jp/tsuhan/system/list.php?RATED=18&MAKER_FULL=%A4%C1%A4%E7%A4%E0%B9%A9%CB%BC]]
+-[[メッセサンオー>>http://www.doujinshop.com/doujin/image/cd/ncd02021.htm]]
+-[[あきばお～こく>>http://www.akibaoo.com/02/commodity_param/ctc/80000000/cmc/2500020058824/shc/0/]]
+
+**コメント
+- ボーマス4での頒布価格は￥1000じゃなくて￥700でした  -- 名無しさん  (2008-07-01 09:25:23)
+- 修正ありがと。確かに700円でしたね。確か、ピンク色の紙に青ペン？で書いてあったような。  -- 名無しさん  (2008-07-01 18:51:17)
+#comment

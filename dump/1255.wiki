@@ -1,0 +1,46 @@
+#right(){&furigana()&furigana()【登録タグ:&tags()】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/4885378" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/4885378">【ニコニコ動画】自作のもの</a></iframe>)
+
+**特徴
+-KAITOとMEIKOを使用。
+-独特なピコピコサウンドが特徴。
+-初のKAITOオリジナル曲は「[[日々精進]]」。投稿当時は少なかったKAITOオリジナル曲の可能性を示した。
+-「&b(){面白切ない}」（「日々精進」「[[恋するアプリ]]」）、「&b(){ウザ愛しい}」（「[[甘い日々]]」）などといった新ジャンルの開拓にも定評がある。
+-VOCALOIDの調教はかなり高レベルであり、機械らしさが薄い、人間の様な歌声を実現している。
+-MEIKOの歌声は優しく柔らかい歌声であり、とても高い評価を集めている。
+
+**リンク
+-[[作者ブログ>>http://halaki.seesaa.net/]]
+-[[ピアプロ>>http://piapro.jp/halaki111]]
+
+**曲
+#list_by_tag(halP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(halPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm1718025)|&nicovideo(http://www.nicovideo.jp/watch/sm2250148)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2669063)|&nicovideo(http://www.nicovideo.jp/watch/sm3242441)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3554928)|&nicovideo(http://www.nicovideo.jp/watch/sm3878810)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4048119)|&nicovideo(http://www.nicovideo.jp/watch/sm5090668)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5901070)|&nicovideo(http://www.nicovideo.jp/watch/sm7373706)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm8722943)|&nicovideo(http://www.nicovideo.jp/watch/sm9774964)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm11319011)|&nicovideo(http://www.nicovideo.jp/watch/sm12229601)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12657360)|&nicovideo(http://www.nicovideo.jp/watch/sm13620044)|
+
+**コメント
+- 調教神すぐる  -- 名無しさん  (2009-03-26 02:20:45)
+- お、ここにもhalPの記事が！　昔から好きだったので評価されてきてうれしい  -- 名無しさん  (2009-04-29 18:01:13)
+- この人こそもっと評価されるべき、とは思うものの…今こうやって本当に好きな人だけが知っている状態がいいのかも知れませんね  -- 名無しさん  (2009-07-27 01:23:00)
+- 心の奥にグサッとくる曲ばかり。調声も大好き。  -- 名無しさん  (2009-08-17 06:28:26)
+- ↑↑本当にその通りだと思います。 &br()静かな人気と言うのもいいですね。 &br()本当にhalPの曲は綺麗で大好きです  -- 名無しさん  (2010-05-21 14:25:57)
+- もっと評価されるべきと思いつつ、そっと評価されるべきと思ってしまうＰ &br()恋するアプリからずっと愛聴させていただいてます。halPの年長組みは素晴らしいです。独特なピコピコサウンドもたまりません… 伸びやかな声にいつも心奪われます  -- 名無しさん  (2010-11-11 10:33:38)
+- ジャバ  -- 名無しさん  (2011-08-09 17:31:07)
+- とおせんぼ  -- 名無しさん  (2011-08-24 01:07:07)
+- 「古都へ誘う夢」のめーちゃんが本当に人間に近いと思う。この曲大好きだけどリンク無かった…。  -- 名無しさん  (2011-10-30 13:56:54)
+- うむ、そっと評価されるべき　ただカラオケで歌いたい歌もあるんだよな  -- 名無しさん  (2011-11-12 15:57:26)
+- みなさんのhalPへの評価コメントに愛を感じる。自分も同感だ。  -- 紅白星☆ミ  (2012-08-21 12:36:23)
+- 甘い言葉・ラインの追加だれかー！　halPはそっと評価されてほしい！←  -- 黒葉  (2012-11-05 19:32:52)
+- 切なキレイな歌詞とピコピコサウンドがツボです。冷味驛Aプリではまってcrossfadeで抜け出せなくなった…  -- とも  (2014-06-16 00:19:07)
+#comment()

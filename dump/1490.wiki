@@ -1,0 +1,26 @@
+#right(){&furigana(ところP) &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/5371283" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/5371283">【ニコニコ動画】所P　自作曲</a></iframe><a target="_blank" href="http://www.nicovideo.jp/mylist/5371283">【ニコニコ動画】所P　自作曲</a>)
+**特徴
+-優しい癒し曲に定評のあるP。
+-P名の由来は、NHKの某番組で代表曲の「[[オアシスVer2.0]]」が作者本人（実名）とともに紹介されたことから。
+-ピアプロでのHNは「突撃上海」。
+-過度のNHKコメは自重しましょう。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/totsugeki]]
+
+**曲
+#list_by_tag(所P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(所PCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm1237549){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm1276836){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm1642921){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm2501382){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2788642){340,185}|&nicovideo(http://www.nicovideo.jp/watch/nm3633087){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/nm3633110){340,185}||
+
+**コメント
+- あなたのバラードに救われそうです。出会えてよかった。  -- 名無しさん  (2021-08-09 12:29:12)
+#comment()

@@ -1,0 +1,56 @@
+#right(){&furigana(ちゃぁ) &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/3234823" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/3234823">【ニコニコ動画】ちゃぁ</a></iframe>)
+
+**特徴
+-おもにテクノやエレクトロニカで電波度の高い曲を作るP。
+-一風変わった独特な曲が多いが、その分はまると病みつきになる。
+-ニコニコには2007年の9月から投稿していたが、どれもいまひとつ再生数が伸び悩んでいた。
+-そんな中、ボカロ25作目の「[[メコノプシス・ベトニキフォリア]]」が大ヒット。
+-ボカラン#35でも5位にランクインし、作者の代表曲となった。
+-「[[ひよこかみなり]]」はベルセルクの三浦先生も気に入っているらしい。
+-2008年11月末「[[メコノプシス・ベトニキフォリア]]」がついに初の殿堂入り達成。
+-2009年12月には、VOCALOID幻想狂気曲として知られている「[[恐怖ガーデン]]」も二つめの殿堂入りを果たした。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/dokkinko]]
+
+**曲
+#list_by_tag(ちゃぁ,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(ちゃぁCD,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm1203942){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm1405017){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm1659233){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm1696826){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2829140){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm3196189){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/nm3342279){340,185}|&nicovideo(http://www.nicovideo.jp/watch/nm3480339){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3758979){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm3880823){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/nm4231816){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm4299418){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/nm4806946){340,185}|&nicovideo(http://www.nicovideo.jp/watch/nm4900801){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/nm5510112){340,185}|&nicovideo(http://www.nicovideo.jp/watch/nm5517926){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/nm5846444){340,185}|&nicovideo(http://www.nicovideo.jp/watch/nm5890684){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/nm6806805)|&nicovideo(http://www.nicovideo.jp/watch/nm8125438)|
+|&nicovideo(sm8327821)|&nicovideo(http://www.nicovideo.jp/watch/nm8458838)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm13148741)|&nicovideo(http://www.nicovideo.jp/watch/nm13283755)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm14991656)|&nicovideo(sm15610542)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm20173452)|>|
+
+**コメント
+- ちゃぁさんの大ヒットはアングラ愛好者としてほんと嬉しかったなあ  -- 名無しさん  (2008-07-21 18:33:58)
+- 月に3、4曲は上げてくるものすごい多作作家でもあるんだよな。  -- 名無しさん  (2008-08-23 17:37:16)
+- ボーマス６でCD頒布っぽい。行けないのが悔しいよ（涙  -- 名無しさん  (2008-10-22 23:46:21)
+- CDの通販始まったみたいよ。  -- 名無しさん  (2008-12-16 22:01:22)
+- ちゃぁさんはもっと評価されるべき  -- 名無しさん  (2008-12-24 22:47:19)
+- CD欲しい～！通販再開してほしい！  -- 名無しさん  (2009-02-27 17:26:00)
+- グロくて好きだぁぁあぁぁあぁぁぁぁぁぁあああぁぁ  -- 名無しさん  (2009-04-25 20:26:24)
+- M3でインストCD、ボーマス8でnecro以降のボカロ曲+新曲のCDを出されたとか。いつでもいいので通販してくれると嬉しいですのぅ･･･  -- 名無しさん  (2009-05-18 20:51:46)
+- instabilityはここに記事作ってもいいものなのだろうか  -- 名無しさん  (2009-05-21 22:34:14)
+- ↑↑とらのあなで通販してますよ  -- 名無しさん  (2009-05-30 05:14:12)
+- 新作グリグリッチ注文したああああｗｋｔｋｗｋｔｋ  -- 名無しさん  (2009-06-03 11:33:28)
+- 新作まだあああ？  -- 名無しさん  (2009-07-05 16:28:54)
+- ワクテカ　ワクテカ  -- 名無しさん  (2009-09-13 14:32:16)
+- つい最近初めてちゃぁさんの曲を聞いてハマってしまいました。最近の活動わからないんですけど今後の活躍期待してます。ピアプロに「積み木遊び」「sundaymoreing」っていう名曲が眠ってるんだよなあ。  -- 名無しさん  (2012-09-24 21:35:26)
+- 二年前から恐怖ガーデン好きだったけど、他の曲聴いたことなかった！勉強します  -- 名無しさん  (2012-12-14 16:16:14)
+- 恐怖ガーデン大好き！！！ほんとに大好き(*´ω｀*)  -- 名無し  (2013-02-03 10:45:09)
+#comment()

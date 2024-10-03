@@ -1,0 +1,52 @@
+#right(){&furigana(SHIKI)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/6421081" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/6421081">【ニコニコ動画】mylist</a></iframe>)
+
+**特徴
+作り手名：『&u(){SHIKI}』
+-ハイクオリティなBMS・トランス曲の作り手。
+-使用するボカロはミク、ルカ、miki。
+-「&bold(){[[Harmonia>Harmonia/作り手]]}」のメンバーとして、かねてからメンバーのVOCALOID曲の作編曲も一部担当していた。
+-現在、殿堂入りを果たしているのは『[[とらいあんぐる☆Girl's Heart]]』と『[[SETSUNA>SETSUNA/SHIKI]]』の2曲。
+-JOYSOUNDにて『とらいあんぐる☆Girl's Heart』『SETSUNA』『[[blue ray]]』の三曲がカラオケ配信中。
+-C75で普通に高いお金出しても欲しいぐらいのハイクオリティな自作CD「[[ACTRESS AGAIN]]」を100円で売ったという猛者である。
+-2021年7月にSOUND VOLTEXで同作者の楽曲が配信された同月に、急逝したことがお知らせされた（[[参照>>https://twitter.com/void_inzalis/status/1416743929358151684]]）。&br()特にBMS界隈ではあまりにも早すぎる死を惜しむ声が多数寄せられている。
+
+**リンク
+//-[[作者ホームページ（Link to you?）>>http://shiki2.sakura.ne.jp/]]
+-[[PIAPRO（shiki2）>>https://piapro.jp/shiki2]]
+-[[Twitter>>https://twitter.com/shiki_maidguy]]
+-[[ニコニコ>>https://www.nicovideo.jp/user/161834]]
+-[[SoundCloud>>https://soundcloud.com/shiki-8]]
+
+**曲
+#list_by_tag(SHIKI,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(SHIKICD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm3080856)|&nicovideo(sm3398876)|
+|&nicovideo(sm4183964)|&nicovideo(sm5269774)|
+|&nicovideo(sm5332638)|&nicovideo(sm5618288)|
+|&nicovideo(sm6410523)|&nicovideo(sm7021574)|
+|&nicovideo(sm7780990)|&nicovideo(sm8899982)|
+|&nicovideo(sm8999191)|&nicovideo(sm9000714)|
+|&nicovideo(sm9029284)|&nicovideo(sm9029444)|
+
+**コメント
+- mikiの曲が特に良い！おまけにミクに英語歌わせるのもすごい！  -- 睡蓮  (2010-08-31 15:28:13)
+- SHIKI様の曲は全部好き＞＜　サウンドもいいし、とくに調教が響きがあって、すきとおてて、ふわふわしてて。。。いいだしたらきりがないです！！！&br()まじ　ネ申　です！！　メジャーでアルバムだしてほしいです＞＜　「プリズムドア」が一番すきです　大好きです！！愛してます！！！！  -- かおり  (2011-08-10 16:04:05)
+- 殿堂入り２曲じゃないよ  -- 名無しさん  (2012-05-04 14:31:03)
+- SETSUNA最高vAv大好きです☆  -- CRM  (2012-07-26 23:30:39)
+- きれいな曲がいっぱいで大好き！セレネの泪にハマってます  -- みんくる  (2013-11-23 14:00:52)
+- shikiさん‥戻ってこないかな。。。  -- みんくる  (2013-11-23 14:07:13)
+- ＢＭＳだけじゃなかったのかこの人  -- 名無しさん  (2016-08-14 21:10:19)
+- 今月亡くなったという知らせを聞いて哀しい、ご冥福をお祈りいたします  -- 名無しさん  (2021-07-19 00:16:14)
+- 神曲を残してくれたことに感謝  -- 名無しさん  (2022-10-25 19:51:30)
+- 神曲を残してくれたことに感謝  -- 名無しさん  (2022-10-25 19:51:58)
+- まじか。  -- 名無しさん  (2023-07-25 17:48:26)
+#comment()

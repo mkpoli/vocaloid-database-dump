@@ -1,0 +1,15 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm3789350){340,185}
+作詞：[[Nak-AmiP]]
+作曲：[[Nak-AmiP]]
+編曲：[[Nak-AmiP]]
+唄：初音ミク
+
+**曲紹介
+-情熱的なミクの吐息と汗臭い80'sエレクトロディスコ。
+
+**歌詞
+COME TO ME TOGETHER
+
+**コメント
+#comment()

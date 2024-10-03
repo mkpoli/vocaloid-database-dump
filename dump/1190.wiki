@@ -1,0 +1,29 @@
+#right(){&furigana(てんせつのみくるんるんP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://ext.nicovideo.jp/thumb_mylist/7806924" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/7806924">【ニコニコ動画】%E4%BC%9D%E8%AA%AC%E3%81%AE%E3%83%9F%E3%82%AF%E3%83%AB%E3%83%B3%E3%83%AB%E3%83%B3P%E4%BD%9C%E5%93%81%E7%B4%B9%E4%BB%8B</a></iframe>)
+
+**特徴
+作り手名：『&u(){伝説のミクルンルンP}』（&u(){でんせつのみくるんるんP}）
+-[[ミクルンルン－vocaloidテーマ曲－]]でデビュー。
+-あまり知られていないが、KAITOの売上が少なかった頃からKAITOを所持している数少ないPの一人。
+-手がける作品はほのぼのとしていながら、どこか幻想的・狂気的なセンスとクセの強さが光る。
+
+**リンク
+//-[[作者ホームページ>http://vmei.sijen.biz/]]
+-[[ニコニコ>https://www.nicovideo.jp/user/2872767]]
+
+**曲
+#list_by_tag(伝説のミクルンルンP,100,sort=furigana)
+
+**動画
+|&nicovideo(sm1300860)|&nicovideo(sm2766909)|
+|&nicovideo(sm2784386)|&nicovideo(sm2808023)|
+|&nicovideo(sm2808206)|&nicovideo(sm2827766)|
+
+
+**コメント
+- イラストが独特だｗ  -- 名無しさん  (2010-09-15 00:37:54)
+#comment()

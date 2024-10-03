@@ -1,0 +1,27 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[水面花]]|CENTER:&bold(){stripe}|CENTER:[[カナリア>カナリア/CD]]|
+
+|&bold(){[[あわあわp]]}|
+
+発売：2008年6月29日
+価格：￥0
+流通：即売
+サークル：nolfestic
+
+**CD紹介
+-ボーマス4にて無料配布されるあわあわｐのシングル。なんて太っ腹！
+-ぱんつ！ぱんつ！ぱんつ！ぱんつ！
+-&bold(){縞パンで苺パンな1枚}となっております。（作者ブログより）
+
+**曲目
++[[stripe]]
++stripe (縞パン版)
++count　&color(red){NEW!}
++stripe (カラオケ版)
+
+**リンク
+-[[作者ブログ>>http://nolfest.seesaa.net/]]
+
+**コメント
+#comment

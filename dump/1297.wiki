@@ -1,0 +1,30 @@
+#right(){&furigana(わたしらしくをほこらしく) &furigana()【登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186104089.jpg,x=300,y=300)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[オトメラブコメレンアイジジョウ>オトメラブコメレンアイジジョウ/CD]]|CENTER:&bold(){ワタシラシクヲホコラシク}|CENTER:[[Burst!>Burst!/CD]]|
+
+|&bold(){[[杏あめ>杏あめ（匿名希望の東京都在住）]]}|
+
+|流通|CENTER:同人|CENTER:即売|
+|発売|CENTER:2008年6月15日|CENTER:2008年6月15日|
+|価格|CENTER:￥1,050|CENTER:不明|
+|サークル|>|CENTER:東京組体操組|
+
+**CD紹介
+-創作サークル&bold(){東京組体操組}との&bold(){Special Collaboration シングル 第2弾}。
+
+**曲目
++[[ワタシラシクヲホコラシク]]　-Full Ver.-
++ワタシラシクヲホコラシク　-karaoke ver.-
++ワタシラシクヲホコラシク　-Another vocal ver.-
++[[マケナイワタシノコイノウタ]] -RinLen ver.-
+
+**リンク
+-[[作者ブログ>>http://anzutokumeikibou.blog96.fc2.com/blog-entry-36.html]]
+-[[東京組体操組>>http://2style.net/tokyocpe/]]
+
+
+**コメント
+#comment

@@ -1,0 +1,58 @@
+#right(){&furigana(clear)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/24676322" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/24676322">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-Pとしては比較的初期の頃から活動している。聴き手にゆったり聴かせる民族調の楽曲が特徴。
+-作る楽曲は、童謡調から演歌調まで幅広く、また、イラストも出がけるなど、芸の幅も広い。
+-[[ウタP]]、流樹氏とチームを組む時は、「たこうたるーじゅ」を名乗る。
+-2009年9月15日頃からa_hisaを名乗り、リニューアルした模様。今までにうｐした曲を聴くのが困難な状況。
+-2011年3月30日に「[[flow>flow/twinkle]]」再投稿し、twinkle名義での活動を再開した模様。
+-上記の通りVOCALOID関連楽曲以外ではa_hisaの名義での活動を行っている他、VOCALOID関連の活動ではたこわさPと呼ばれることもある。
+
+**リンク
+-[[hisaweb（作者ホームページ）>>http://hisaweb.6.ql.bz/]]
+-[[PIAPRO>>http://piapro.jp/takowasap]]
+
+**曲
+#list_by_tag(twinkle,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(twinkleCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm14003650){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm14009492){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm14068204){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm14115142){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm14116040){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm14134411){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm20553708){340,185}||
+-コラボ
+|&nicovideo(http://www.nicovideo.jp/watch/sm4987720){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm5639103){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9892873){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm17459260){340,185}|
+
+-編曲
+|&nicovideo(http://www.nicovideo.jp/watch/sm7694613){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm13883550){340,185}|
+
+#region(close,過去の動画)
+|&nicovideo(http://www.nicovideo.jp/watch/sm1281051){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm1289559){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm1325739){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm1726662){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm1732571){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm2008010){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2386944){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm2589978){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2691927){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm2988170){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3775973){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm4172921){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4319956){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm5623360){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5636958){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm5660834){340,185}|
+#endregion
+
+**コメント
+- この人の音楽もっと評価されてほしいなー  -- 名無しさん  (2009-03-09 14:40:02)
+- 素晴らしいです。もっと評価されるべき！  -- 名無しさん  (2009-03-29 23:07:25)
+- orz  -- 名無しさん  (2009-09-10 19:50:52)
+- 曲全部消えてる・・・なにがあったんですか？  -- 名無しさん  (2009-09-12 22:15:27)
+- 悲劇・・・ユメミルヒツジ大好きだったorz  -- 名無しさん  (2009-09-18 23:37:10)
+- かなり好きだったのに… 大学を恨む…  -- 名無したん  (2009-09-21 20:19:51)
+- 大学が何かあったの？  -- 名無しさん  (2009-09-22 00:18:08)
+- 大学は関係なくて、単に気まぐれで消したらしいぞ。サイト行け。まだたくさん曲聴けるし、モノによってはリメイクされてもっと良くなってる。  -- 名無しさん  (2009-11-28 15:07:16)
+- ↑インストは確かに聴けるけど、オンボーカル音源あった？  -- 名無しさん  (2010-01-08 17:39:49)
+- 上げる気ないって公言してた  -- 名無しさん  (2010-01-17 00:32:38)
+- 太鼓に入ってる「凛」の人だったんだ・・  -- 「月明かりの宴」が好きな人  (2019-01-17 14:06:22)
+- a_hisaって名前でプロ活動されてるね。できればボカロ系のも復活させてほしいなぁ。  -- 名無しさん  (2021-03-29 13:20:06)
+#comment()

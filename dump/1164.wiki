@@ -1,0 +1,38 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[color of tears>Color of tears]]|CENTER:&bold(){subliminal}|CENTER:[[PROMINENT>PROMINENT/CD]]（コラボ）&br()[[Empty World]]|
+
+|&bold(){[[ぺぺろんP]]}|
+
+||CENTER:即売|CENTER:同人|
+|発売|CENTER:2008年6月29日|CENTER:2008年8月31日|
+|価格|CENTER:￥1,000|CENTER:￥1,260（税込）|
+|サークル|>|CENTER:Sky-Gate|
+
+**CD紹介
+-[[ぺぺろんP]]が[[ボーマス4>>http://ketto.com/tvm/]]にて頒布したボーカロイドCD第3弾。[[ぺぺろんP]]にとって初のプレスCD。
+-08年に発表した曲を中心に、最新曲『[[サブリミナル]]』や&b(){色の無い街}3部作の最終章『[[硝子の瞳]]』も収録。
+-ボーマスの会場へは数百枚持ち込んだものの、1時間足らずで完売となった。
+-ボーマス4での頒布の後、偶然にも8月31日の初音ミクの誕生日に書店委託が始まりました。委託先は[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/15/43/040010154328.html]]と[[あきばお～こく>>http://www.akibaoo.com/02/commodity_param/t/0/ctc/82000000/shc/0/cmc/2500020054833/backURL/+02+main]]。
+
+**曲目
++[[サブリミナル]]
++[[カゲフミ]]
++[[ほりでぃ]]
++[[色の無い街]]
++[[vanished]]
++[[ひとりの庭]]
++[[朱い花]]
++[[オレンジ・ティーンズ]]
++[[遠き日の桜へ]]
++[[見えない涙を流すなら]]
++[[Hello, my master.]]
++[[硝子の瞳]]
+
+**リンク
+-[[M-tone>>http://22.pro.tok2.com/~mrawo/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/15/43/040010154328.html]]
+-[[あきばお～こく>>http://www.akibaoo.com/02/commodity_param/t/0/ctc/82000000/shc/0/cmc/2500020054833/backURL/+02+main]]
+
+**コメント
+#comment

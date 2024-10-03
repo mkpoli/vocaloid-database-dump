@@ -1,0 +1,20 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm3427525){340,185}
+作詞：[[Nak-AmiP]]
+作曲：[[Nak-AmiP]]
+編曲：[[Nak-AmiP]]
+唄：初音ミク
+
+**曲紹介
+-切なさ漂う哀愁ドラムンベース。曲の後半にミクのスクラッチが大胆に入る。サンプリングも多用している様子。
+
+**歌詞
+過去と今を 
+紡ぐ音のLegacy 
+未来が壊す 
+全ての音の壁を 
+
+VVVoocaloid.....
+
+**コメント
+#comment()
