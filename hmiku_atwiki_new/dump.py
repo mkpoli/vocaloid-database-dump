@@ -1,9 +1,10 @@
 import time
+import math
 from pathlib import Path
 from atwiki import AtWikiAPI, AtWikiURI
 from urllib.error import HTTPError
 
-REQUEST_INTERVAL = 0
+REQUEST_INTERVAL = 8
 MAX_RETRIES = 5
 OUTPUT_DIR = Path("dump")
 OUTPUT_DIR.mkdir(exist_ok=True)
@@ -13,23 +14,27 @@ api = AtWikiAPI(
     sleep=REQUEST_INTERVAL
 )
 
-known_404_pages = set()
-not_found_file = OUTPUT_DIR / '404_pages.txt'
-if not_found_file.exists():
-    with open(not_found_file, 'r') as f:
-        known_404_pages = {int(line.strip()) for line in f if line.strip().isdigit()}
+# known_404_pages = set()
+# not_found_file = OUTPUT_DIR / '404_pages.txt'
+# if not_found_file.exists():
+#     with open(not_found_file, 'r') as f:
+#         known_404_pages = {int(line.strip()) for line in f if line.strip().isdigit()}
+
+max_page_id = max(int(file.stem) for file in OUTPUT_DIR.glob("*.wiki"))
+start_from = math.floor(max_page_id / 100 + 1)
+
 
 print("Fetching the list of pages...")
-page_list = api.get_list()
+page_list = api.get_list(_start=start_from)
 
 for page in page_list:
     page_id = page['id']
     page_name = page['name']
     filename = OUTPUT_DIR / f"{page_id}.wiki"
 
-    if page_id in known_404_pages:
-        print(f"Page {page_id} is known to be 404. Skipping.")
-        continue
+    # if page_id in known_404_pages:
+    #     print(f"Page {page_id} is known to be 404. Skipping.")
+    #     continue
 
     if filename.exists():
         print(f"Page {page_id} already downloaded. Skipping.")
@@ -53,7 +58,7 @@ for page in page_list:
             # print(f"Page {page_id} got HTTP Error ({e.code})")
             retries += 1
             # wait_time = REQUEST_INTERVAL * (2 ** (retries - 1))
-            wait_time = 240
+            wait_time = 480
             print(f"Failed to download page {page_id} (attempt {retries}): {e}")
             print(f"Waiting {wait_time} seconds before retrying...")
             time.sleep(wait_time)
