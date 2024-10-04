@@ -1,0 +1,66 @@
+#right(){&furigana(TRIVOIDとうせほかろおんなてす)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo(sm10445090)
+作詞：[[mintiack]]
+作曲：[[mintiack]]
+編曲：[[mintiack]]
+唄：[[初音ミク]]・[[巡音ルカ]]・弱音ハク
+
+**曲紹介
+曲名：『&u(){TRI▼OID～どうせボカロ女です～}』（&u(){TRI▼OID～どうせボカロおんなです～}）
+-タイトルの読み方はトライポイド
+-「[[Surprise Attack]]」「[[LOGIC DESIGNER]]」に続くシリーズ最終作。
+-クオリティの高いPVは自作
+
+**歌詞
+どうせ　ボカロ女です
+
+He seems to think so.
+His ability fo music
+also declines,and let's say "goodbye"
+
+私は信じてきたのに
+今は一緒には歩けない
+冷えきったキミの言葉で濡れた頬が乾かないよ
+
+You see？
+
+Do you aleady understood it?
+We do not seem as software after all.
+it is a counterattack if so.
+We carry out the escape plan now!
+
+Let's run away taking off this chain which is binding us.
+We can do it surely if we join forces.
+You had better forget him.
+Gather like the trivoid.
+to obtain freedom and self this time.
+Finally, miku,say a word please!
+
+もぉ～
+キミの縛りはうんざりなんだよ
+俺様　ドＭのくせにさっ
+
+Is not there a regret?
+Did you feel fine?
+OK, let's dress up
+to go to the free world.
+
+私は変わって見せるよ
+悲しい思いはもういいよ
+あの日の自分とお別れをして生まれ変わるの
+
+大丈夫　流した涙は
+私を強くしてくれた
+少しでも悔やむキミの顔がみれたらいいな
+
+大事にしてくれたキミ
+大事にしたい思い出
+さよなら　今までありがとう
+
+
+**コメント
+#comment()

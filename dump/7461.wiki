@@ -1,0 +1,35 @@
+#right(){&furigana(べーすかんP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/10458685" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/10458685">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-缶の中にベースを入れる人。
+
+**リンク
+-[[作者ブログ>>http://basscan.blog47.fc2.com/]]
+-[[ピアプロ>>http://piapro.jp/k_syu]]
+
+**曲
+#list_by_tag(ベース缶P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(ベース缶PCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm5815400)|&nicovideo(http://www.nicovideo.jp/watch/sm5950645)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6058222)|&nicovideo(http://www.nicovideo.jp/watch/sm6181563)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6622979)|&nicovideo(http://www.nicovideo.jp/watch/sm7408271)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm8081358)|&nicovideo(http://www.nicovideo.jp/watch/nm9085340)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9329568)|&nicovideo(http://www.nicovideo.jp/watch/sm9548424)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9748216)|&nicovideo(http://www.nicovideo.jp/watch/sm11499676)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm11765083)|&nicovideo(http://www.nicovideo.jp/watch/sm12517157)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12967633)|&nicovideo(http://www.nicovideo.jp/watch/nm9085340)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm14054569)||
+
+
+**コメント
+- ようやく出来たかＧＪ－って特徴ｗｗｗ的確すぎるｗｗｗｗ  -- 名無しさん  (2009-11-30 23:33:45)
+- ページ作成GJ　ベース缶Pはもっと評価されて良いと思う  -- 名無しさん  (2009-12-14 07:19:28)
+- ベース缶Ｐもっと評価されるべき！！まちかぜブルー好き  -- 名無しさん  (2011-02-20 16:18:34)
+- 音作りがいいよね  -- 名無しさん  (2011-04-03 22:38:42)
+- 誰かチョコレイトギターを追加して頂きたい  -- 名無しさん  (2012-08-17 17:19:22)
+#comment()

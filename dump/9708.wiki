@@ -1,0 +1,52 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/620_20101227024323_0280_0280.jpg)
+&nicovideo(http://www.nicovideo.jp/watch/sm10552210)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[ノクターン>ノクターン/CD]]|CENTER:&b(){BEAUTIFUL DREAMER}|CENTER:[[COLORS>COLORS/ナタPCD]]|
+
+|&bold(){[[ナタP]]}|
+
+||CENTER:即売|CENTER:同人|CENTER:配信|
+|発売|CENTER:2010年5月9日|CENTER:2010年5月9日|CENTER:2011年1月30日|
+|価格|CENTER:￥1,000|CENTER:￥1,500（税込）|CENTER:￥1,200 / 1曲￥150|
+|サークル|>|>|CENTER:NATARIE IN THE DREAM|
+
+>作詞・作曲：&b(){[[ナタP]]}
+>ジャケットイラスト：&b(){[[kura>>http://www.pixiv.net/member.php?id=56712]]}
+>ジャケットデザイン：&b(){[[SHINN>>http://www.techno-sublime.com/]]}
+
+**CD紹介
+-前作『[[ノクターン>ノクターン/CD]]』からわずか3ヶ月で発表される、ナタP3枚目のフルアルバム。
+-THE VOC@LOiD M@STER 12（ボーマス12）にて頒布。
+-全曲巡音ルカ歌唱。新曲7曲を含めた全10曲を収録。
+-既に発表済みの曲は、ニコニコに投稿された「[[BEAUTIFUL DREAMER]]」「[[WATERISE]]」（初出は1st『[[WATERISE:]]』）、レン歌唱verが1st『[[WATERISE:]]』に収録されている「[[1000001colors]]」のみ。
+-未発表曲のうちの3曲「[[Lovers’ Eclipse]]」「[[アニマ>アニマ/ナタP]]」「[[マシーナリー]]」、及び「[[1000001colors]]」の4曲が、わずか5日の間に立て続けに発表された。
+-アルバムデザインについて、担当のSHINN氏がアツく語っている。[[詳細はこちら>>http://natarieinthedream.com/?p=131]]
+-巡音ルカ2周年記念に、KarenTレーベルよりダウンロード販売が開始された。
+
+**曲目
++[[BEAUTIFUL DREAMER]]
++[[アニマ>アニマ/ナタP]]
++TRAIN
++[[花鳥風月>花鳥風月/ナタP]]
++[[マシーナリー]]
++[[WATERISE]]
++ロマンスストリート
++[[Lovers’ Eclipse]]
++[[1000001colors]]
++End of Tiny Dreams
+
+**リンク
+-[[NATARIE IN THE DREAM 3rd Album 『BEAUTIFUL DREAMER』>>http://natarieinthedream.com/bd/]]特設サイト
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/21/93/040010219371.html]]
+-[[D-STAGE>>http://store.shopping.yahoo.co.jp/d-stage/2900103200032.html]]
+-[[KarenT：「BEAUTIFUL DREAMER」>>http://karent.jp/album/620]]
+-[[KarenT：「巡音ルカ聖誕祭'11」特集ページ>>http://karent.jp/special/luka11]]
+-[[iTunes Store>>http://itunes.apple.com/jp/album/beautiful-dreamer/id415816850]]
+
+**コメント
+- ルカ様素敵すぐる……！  -- 名無しさん  (2010-08-29 20:05:50)
+- 今更ですが購入、デモで期待してたTRAINも凄く良かった！  -- 名無しさん  (2011-04-06 09:10:10)
+- 取りあえず、買いに行こう  -- 名無しさん  (2012-05-03 13:06:14)
+#comment

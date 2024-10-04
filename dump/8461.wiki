@@ -1,0 +1,47 @@
+#right(){&furigana(そしてさいごにはかならずしあわせなけつまつを) &furigana()【登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186126970.jpg,x=300,y=300)
+
+&nicovideo(sm9541836)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[精一杯>精一杯/CD]]|CENTER:&bold(){そして最後には必ず幸せな結末を}|CENTER:-|
+
+|&bold(){[[たまぁ～ずP]]}|[[灯下はこ、]]|
+
+|&bold(){[[とらのあなで購入する>>http://www.toranoana.jp/mailorder/article/04/0010/21/23/040010212388.html]]}|
+
+||CENTER:即売|CENTER:同人|
+|発売|CENTER:2010年02月07日|CENTER:2010年2月07日|
+|価格|CENTER:￥500|CENTER:￥735(税込)|
+|サークル|>|CENTER:スライハンド|
+
+**CD紹介
+- THE VOC@LOiD M@STER 11で頒布のたまぁ～ずPにとって4作目となるアルバム。
+- Instrumentalを含めピアノは全て本人による生演奏。
+- 描き下ろしブックレット4Pも封入。
+-- ジャケットデザイン：春日菖蒲、わくらば、ひなの
+-- レーベルデザイン：シャリ
+-- ブックレットデザイン：十四
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/21/23/040010212388.html]]にて委託販売中
+
+**曲目
++ proroad（Instrumental）
++ [[ひらり、ひらり]]
++ ここからいなくなるよ？　&color(red){NEW!}
++ ツグミ　&color(red){NEW!}
++ [[そして最後には必ず幸せな結末を]]　&color(red){NEW!}
++ epiroad（Instrumental）
++ ひらり、ひらり（off vocal）
++ ここからいなくなるよ？（off vocal）
++ ツグミ（off vocal）
++ そして最後には必ず幸せな結末を（off vocal）
+
+
+&nicovideo(http://www.nicovideo.jp/watch/sm9541836)
+
+**リンク
+- [[CD特設ページ>>http://www.geocities.jp/sleihand/cd_sosite/top.html]]
+
+**コメント
+#comment

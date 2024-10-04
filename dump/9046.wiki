@@ -1,0 +1,40 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/039_20091225194052_0240_0240.jpg)
+
+**CD詳細
+-媒体：配信
+-発売：2009年7月15日
+-価格：アルバム￥900、1曲￥150
+-レーベル：[[KarenT>>http://karent.jp/album/39]]
+-名義：[[U-ta/ウタP>>http://karent.jp/artist/pp000051]]
+-ジャケットイラスト：[[ウール>>http://piapro.jp/kurokrkr]]
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[古ノ森]]|CENTER:&bold(){crow's-nest}|CENTER:[[創世記]]|
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/crows-nest/id323025956]]}|
+
+|&bold(){[[ウタP]]}|
+
+**CD紹介
+-民族調の曲で安定した人気を誇る「[[ウタP]]」の記念すべき1stアルバム。
+-KarenTレーベルより全国配信された。
+>今まで制作してきた、鏡音レンを中心とした民族調楽曲のアルバムです。
+>フォルクローレ、ケルト、アラビア、和風など、いろいろな視点から曲を制作しています。
+>自分自身が好きなものや、やりたいこと、伝えたいことを詰め込んだ音楽と言葉をお楽しみください。
+>（以上KarenTの作者コメントより引用）
+
+***曲目
++[[生きとし生けるもの]](feat. 鏡音レン)
++[[Imitator]](feat. 鏡音レン)
++[[空>空/ウタP]]（full ver.）(feat. 鏡音レン)
++[[風花舞]]　(feat. 鏡音レン)
++[[君恋ふる歌]](feat. 鏡音レン・リン)
++[[僕に罰を 君に光を]](feat. 鏡音レン・リン)
++[[Re-birth]](feat. 初音ミク・鏡音リン)
++[[regeneration]](feat. 巡音ルカ)
++[[Pygmalion]](feat. 鏡音レン・巡音ルカ)
+
+
+**コメント
+#comment()

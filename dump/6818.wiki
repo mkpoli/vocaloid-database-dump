@@ -1,0 +1,36 @@
+#right(){&furigana(ふゆぞら) &furigana()【登録タグ:&tags() 】}
+//&ref(http://aquastream.web.fc2.com/fuyuzora1.jpg)
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186149131.jpg,x=300,y=300)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[はいぱーかうんとだうん！>はいぱーかうんとだうん！/CD]]|CENTER:&bold(){冬空}|CENTER:[[February snow -]]|
+
+|&bold(){[[初心P]]}|
+
+発売：2008年12月29日
+価格：￥400
+流通：即売
+サークル：aquastream
+
+**CD紹介
+-aquastream 3rd CD
+-和風季節もの第二弾。
+-1st CD『[[七つ星>七つ星/CD]]』の続編で、秋と冬の曲が入っている。
+
+**曲目
++[[秋風抄]]
++[[冬空>冬空/初心P]]
++[[ナ・ナ・イ・ロ]]
++[[うるとらかうんとだうん！]]
++秋風抄 -instrumental-
++冬空 -instrumental-
++ナ・ナ・イ・ロ -instrumental-
++うるとらかうんとだうん！ -instrumental-
+
+**リンク
+-[[特設サイト>>http://aquastream.web.fc2.com/3rdcd.html]]
+-[[作者サイト（aquastream）>>http://aquastream.web.fc2.com/]]
+
+**コメント
+#comment

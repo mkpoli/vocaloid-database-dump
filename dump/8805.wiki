@@ -1,0 +1,63 @@
+#right(){&furigana(Sadness)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(http://www.nicovideo.jp/watch/sm9691609)|
+作詞：[[モテたいP]]
+作曲：[[モテたいP]]
+編曲：[[モテたいP]]
+絵：[[百可]]
+唄：[[巡音ルカ]]
+
+**曲紹介
+曲名：『&u(){『Sadness...』}』（&u(){サッドネス}）
+-五条城改め、モテたいPの5作目。
+-この曲の投コメ「冬ですね。寒いです。モテたいです。あぁ、モテたいモテたい。」がきっかけで「モテたいP」というP名がついた。
+
+**歌詞
+全力でも　地下からの叫びは
+届かぬまま　かき消されてくもの
+
+だから今は　凍った部屋の隅で
+注ぐ筈の月明かりを待っている
+
+囲み込む砂達は　今や数え切れない
+掴めそうな星さえも　手をすり抜けては消える
+
+feel sadness sadness sadness
+so far away far away far away
+
+feel sadness sadness sadness
+so far away far away far away
+
+妙に自信に　過剰になって
+夜も眠らずに　夜空を舞う
+
+きっと悲しみは　呪いのせいで
+愛に包まれる　夢に浸る
+
+地上じゃ誰もお前を　抱きしめたりはしない
+血の通わない人形の方がずっと素敵に見える
+
+feel sadness sadness sadness
+so far away far away far away
+
+feel sadness sadness sadness
+so far away far away far away
+
+far away far away far away...
+
+棘の尖った薔薇で　どうか私を殺して
+肥満に育ったプライドを　細かく引き裂いてよ…
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+**コメント
+#comment()
+
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)

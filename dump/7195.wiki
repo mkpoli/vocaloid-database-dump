@@ -1,0 +1,39 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+//#ref(http://blog-imgs-27-origin.fc2.com/n/e/w/newsound/20.jpg)
+//fc2系は画像ファイルの直リン外部表示不可なので、ジャケット画像URLは一旦コメントアウトとします。
+&nicovideo(http://www.nicovideo.jp/watch/sm8741742)
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){new sound}|CENTER:-|
+
+|&bold(){[[ヽ(ヽ･∀∀･)にこP]]}|
+
+||CENTER:即売|CENTER:同人|
+|発売|>|CENTER:2009年11月15日|
+|価格|CENTER:￥1,000|CENTER:|
+|サークル|>|CENTER:New Sound|
+
+**CD紹介
+-10ヶ月の間を置いて活動を再開したヽ(ヽ･∀∀･)にこPのファーストフルアルバム。
+-初期の作品から、活動再開後の新曲までを収録したヽ(ヽ･∀∀･)にこPのこれまでの音楽活動の総まとめとなる記念の一枚。
+-アップテンポな曲を中心に収録された内容は聴く人を楽しませる事うけあい。
+-ヽ(ヽ･∀∀･)にこを知ってる人知らない人にもお勧めできるBest盤といえるアルバム。
+
+**曲目
++[[new sound]]
++[[初夏]]
++[[Dreamy Fly]]
++恋のおまじない　&color(red){New!!}
++[[there>there/ヽ(ヽ･∀∀･)にこP]]
++[[will be...]]
++[[sus2nd]]
++[[Floating Iris]]
++[[Gloria　-閉ざされた世界の中で-]]
++[[季節は過ぎて]]
++[[雨の降る日]]
+
+**リンク
+-[[作者ブログ>>http://newsound.blog91.fc2.com/]]
+
+
+**コメント
+#comment

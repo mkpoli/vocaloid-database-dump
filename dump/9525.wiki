@@ -1,0 +1,44 @@
+#right(){&furigana(9ronicle)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&ref(https://karent.jp/npdca/259_20100325150614_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[光と空想の3原色]]|CENTER:&bold(){9ronicle+}|CENTER:[[ロゼッタ E.P]]|
+
+|&bold(){[[10日P]]}|
+
+発売：2010年4月7日
+価格：￥900 / 1曲￥150
+流通：配信
+レーベル：KarenT
+
+|&bold(){[[iTunes Storeで購入する>>https://itunes.apple.com/jp/album/9ronicle/id364949409]]}|
+
+作詞・作曲：&bold(){[[10日P]]}
+イラスト：&bold(){[[hie>>https://piapro.jp/hie_lie4]]}
+
+**CD紹介
+CD名：『&u(){9ronicle+}』
+-10日Pことmonacaの、2008～2010年前半の9曲を厳選した、クロニクル作品。プラスして、リミキシング・リマスタリング・リ調声を施しました。
+-10日P入門編のとっておきの１枚です。2010年、あなたも10日P始めてみませんか！
+
+**曲目
++ [[プラチナ]] （feat. 初音ミク）
++ [[タウリン1000mg High Go!!]] （feat. 初音ミク）
++ さまようこころ （feat. 初音ミク）　&color(red){NEW!}
++ [[ココロカラ]] （feat. 初音ミク）
++ [[ティアラ]] （feat. 初音ミク）
++ [[SPEED UP!]] （feat. 初音ミク）
++ [[マーブル]] （feat. 初音ミク）
++ [[にじいろ。]] （feat. 初音ミク）
++ [[SPACE SHIP]] （feat. 初音ミク）
+
+**リンク
+-[[KarenT：「9ronicle＋」>>https://karent.jp/album/259]]
+-[[monaca:factory（作者ブログ）>>http://monaca10.blog116.fc2.com/]]
+
+**コメント
+#comment

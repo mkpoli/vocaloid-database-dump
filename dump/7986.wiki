@@ -1,0 +1,41 @@
+#right(){&furigana(いよP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/10027888" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/10027888">【ニコニコ動画】</a></iframe>)
+
+**特徴
+作り手名：『&u(){いよP}』
+
+-ピアノ伴奏の曲を得意とするP。
+-再生数が伸び悩むことが多いため、｢そっと評価されるべき｣などのタグがつけられることが多い。
+-アーティスト名は142857。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/knee]]
+
+**曲
+#list_by_tagsearch(いよP,sort=furigana2,errmsg=まだ曲が登録されていません。,and,100)
+
+**CD
+#list_by_tagsearch(いよPCD,sort=furigana2,errmsg=まだCDが登録されていません。,and,100)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm2576227)|&nicovideo(http://www.nicovideo.jp/watch/sm4250028)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5559904)||
+
+**関連タグ内の更新履歴
+#region(close,関連タグ内の更新履歴)
+関連タグ内の更新履歴
+※「いよP」「いよPCD」タグ内で最近編集やコメントのあった記事を新しい方から10件表示しています。
+#list_by_tagsearch(いよP,いよPCD,sort=timestamp,sort2=desc,errmsg=まだ曲が登録されていません。,or,10)
+#endregion
+
+**コメント
+- 見当たらなかったのでページ作っておきました  -- 名無しさん  (2010-01-02 19:36:40)
+- 編集乙です！タグ修正しておきました。Pは半角大文字では…？  -- 名無しさん  (2010-01-02 20:42:19)
+#comment()
+
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)

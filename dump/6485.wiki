@@ -1,0 +1,34 @@
+#right(){&furigana(すばらしきじんせい) &furigana()【登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186130495.jpg,x=320,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm8082527)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){すばらしき人生}|CENTER:[[Born in the NIPPON]]|
+
+|&bold(){[[たかP]]}|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|>|CENTER:2010年2月7日|
+|価格|CENTER:\500|CENTER:\700(税込)|
+|サークル|>|CENTER:Project Nostalgia|
+
+**CD紹介
+-ボーマス9,10で無償配布されたお試し盤をパッケージした、たかPの1stミニアルバム。
+
+**曲目
++Introduction
++[[約束>約束/たかP]]
++[[たんぽぽ>たんぽぽ/たかP]]
++[[すばらしき人生]]
++[[忘れないで・・・]]
++[[Kind Regards]]
++[[黄昏のノスタルジア]]
+
+**リンク
+-[[Project NostalgiaのCD情報ページ>>http://nostalgia.takap.tk/solo/subarashiki_jinsei/]]
+-[[タップ オンラインショップの通販ページ>>https://v-nyappon.net/shop/tap/products/detail.php?product_id=44]]
+
+**コメント
+#comment

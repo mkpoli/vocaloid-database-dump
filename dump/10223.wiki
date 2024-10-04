@@ -1,0 +1,65 @@
+#right(){&furigana(こいちくりん)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo_mylist(<iframe width="312" height="176" src="https://ext.nicovideo.jp/thumb_mylist/15416475" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/15416475">【ニコニコ動画】恋竹林作品リスト</a></iframe>)|
+
+**特徴
+作り手名：『&u(){恋竹林}』（&u(){こいちくりん}）
+-創作ユニット。
+-当初は、&bold(){マサコイ}氏・&bold(){おたけ}氏・&bold(){じーこば}氏の3人から成るサークルだったが、新たに絵師の &bold(){e-megu}氏 がメンバーとなる。
+--3人が3人とも曲を制作するため、楽曲の幅が広いのが強み。
+-2009年9月、「[[サマーソルトキック]]」にてボカロデビュー。
+-使用合成音声は[[初音ミク]]、[[巡音ルカ]]。
+-じーこば氏 は 恋竹林 の活動とは別に、 [[ぱんだっち]]氏 ・ [[Chiquewa]]氏 とR＆Bメインのユニット「&bold(){Panchiquerin（ぱんちくりん）}」を結成し、そちらでも精力的に活動中。
+-メンバーの マサコイ氏 は、2013年9月に地元で開催された「NHKのど自慢」に出て見事合格。さらにその回のチャンピオンまでも受賞するという伝説をボカロ界に残した。
+
+**リンク
+//-個人HP、PIAPRO、YouTube等ある場合は、ここに。当wiki以外のサイトへリンクを貼る場合は必ず「>>」で別ウインドウでリンクしてください。
+-[[ニコニコ動画>>https://www.nicovideo.jp/user/6548559]]
+-[[YouTube>>https://www.youtube.com/koichikurin]]
+-[[piapro>>https://piapro.jp/take999]]
+-[[Twitter>>https://twitter.com/koichikurin]]
+--[[Twitter（マサコイ）>>https://twitter.com/masakoi92]]
+--[[Twitter（おたけ）>>https://twitter.com/take3take3take3]]
+--&s(){[[Twitter（じーこば）>>https://twitter.com/G_KOBA]]}
+--&s(){[[Twitter（e-megu）>>https://twitter.com/e_megu0721]]}
+-[[ホームページ>>https://koichikurinofficial.web.fc2.com/index.html]]
+-[[ブログ>>http://koichikurin.blog89.fc2.com/]]
+//-[[mixi（マサコイ）>>https://mixi.jp/show_friend.pl?id=27187310]]
+//-[[mixi（おたけ）>>https://mixi.jp/show_friend.pl?id=27333681]]
+//-[[mixi（じーこば）>>https://mixi.jp/show_friend.pl?id=27112469]]
+
+**曲
+#list_by_tag(恋竹林,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(恋竹林CD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+//|>|BGCOLOR(#156a6a):COLOR(#FFF):CENTER:&font(b,11pt){オリジナル曲}|
+|&nicovideo(nm8197755)|&nicovideo(nm8595374)|
+|&nicovideo(nm9009042)|&nicovideo(sm9100218)|
+|&nicovideo(nm9434045)|&nicovideo(nm9579477)|
+|&nicovideo(nm9725280)|&nicovideo(sm10038694)|
+|&nicovideo(nm10206732)|&nicovideo(nm10370343)|
+|&nicovideo(sm10526800)|&nicovideo(sm11140584)|
+|&nicovideo(sm11536659)|&nicovideo(sm11687784)|
+|&nicovideo(sm12334000)|&nicovideo(sm12411273)|
+|&nicovideo(sm12635485)|&nicovideo(sm14612841)|
+|&nicovideo(sm15474769)|&nicovideo(sm16258154)|
+|&nicovideo(sm18206081)|&nicovideo(sm19347685)|
+|&nicovideo(sm20378414)|&nicovideo(sm21937300)|
+|&nicovideo(sm22601927)|&nicovideo(sm22962048)|
+
+**関連タグ内の更新履歴
+#region(close,関連タグ内の更新履歴)
+関連タグ内の更新履歴
+※「恋竹林」「恋竹林CD」タグ内で最近編集やコメントのあった記事を新しい方から10件表示しています。
+#list_by_tagsearch(恋竹林,恋竹林CD,sort=timestamp,sort2=desc,errmsg=まだ曲、CDが登録されていません。,or,10)
+#endregion
+
+**コメント
+- 曲どれもかわいい♪  -- 名無しさん  (2010-12-06 22:36:59)
+#comment()

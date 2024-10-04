@@ -1,0 +1,43 @@
+#right(){&furigana()&furigana()【登録タグ:&tags()】}
+&nicovideo(http://www.nicovideo.jp/watch/sm9789871)
+作詞：[[river>river/作り手]]
+作曲：[[river>river/作り手]]
+編曲：[[river>river/作り手]]
+唄：初音ミク
+
+**曲紹介
+-river氏の45作目。
+-葛藤、誰、なんてものを作ってみました。（作者コメ転載）
+
+**歌詞
+笑顔で　覚ます
+笑顔で　冷める
+
+昨日の奥へ　今日と話し掛ける
+繰り返す今さえも　演じて
+
+cross you　触れるような　孤独さえ
+cross you　捨てるような　拘束かな
+
+目覚めて　探す
+目覚めて　隠す
+
+足元見つめ　擦れて揺らめいてく
+窓に映って　そっと
+
+言葉の奥に　今日も話し掛ける
+繰り返す今誰を　信じて
+
+close you　崩れそうに　残すなら
+close you　生きるように　隠（ころ）すかな
+
+心の　奥で
+繰り返す今何を　感じて
+
+round you　飾るような　堕落さえ
+round you　交わすような　涙かな
+right you　かざすような
+right you　right you..
+
+**コメント
+#comment()

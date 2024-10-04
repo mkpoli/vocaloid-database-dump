@@ -1,0 +1,52 @@
+#right(){&furigana()&furigana()【登録タグ:&tags()】}
+|&nicovideo(http://www.nicovideo.jp/watch/sm10246468)|&youtube(http://www.youtube.com/watch?v=9rakqUel1kc){340,185}|
+作詞：[[meijuni]]
+作曲：[[meijuni]]
+編曲：[[meijuni]]
+唄：初音ミク
+
+**曲紹介
+-インドネシア語の歌詞とメロディが心地よい曲。
+
+**歌詞
+（[[作者ブログ>>http://meijuni.webs.com/apps/blog/show/3334838-lirik-month-of-music]]より転載）
+
+&italic(){hook: 2x}
+music
+dari kita
+bagi music
+bagi kita semua
+
+memainkan nada yang kita bisa
+di sore ini yang ceria 
+bersama senyuman manja
+matahari sembunyi
+ 
+gunakan irama apa pun yang ada
+bawaku berdansa
+antara mimpi dan dunia nyata
+kita jumpa
+
+&italic(){reff:}
+tunjukkan mimpimu
+kita kan penuhi month of music
+tak ada jawaban mudah
+membawamu ke sana
+
+jika ku katakan
+akan kumainkan non-stop music
+irama jantungku kencang
+karena jumpa kamu
+
+&italic(){back to hook 2x}
+
+&italic(){bridge: 8x}
+dari kita, bagi kita
+
+&italic(){back to reff}
+&italic(){back to hook 2x}
+
+**コメント
+- インドネシアすごい  -- 名無しさん  (2010-04-04 00:09:07)
+- ウキウキしてくる感じの曲。作者のページで他の曲も聴けるよ！  -- 名無しさん  (2010-04-10 00:33:54)
+#comment()

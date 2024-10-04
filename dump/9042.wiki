@@ -1,0 +1,37 @@
+#right(){&furigana(clear) &furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/193_20100115224919_0240_0240.jpg)
+
+**CD詳細
+-媒体：配信
+-発売：2010年1月30日
+-価格：アルバム￥600 / 1曲￥150
+-レーベル：KarenT
+
+-作詞・作曲・イラスト：&b(){[[Seiko>>http://karent.jp/artist/pp000162]]}
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Leyenda}|CENTER:[[Trees of Origin]]|
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/leyenda-ep/id351279472]]}|
+
+|&bold(){[[SeikoP]]}|
+
+**CD紹介
+-造語詞コーラスを基調とした、ワールド＆ニューエイジ・調整版（KarenTコメントより）
+-マイク・オールドフィールドを彷彿とさせる純プログレに、ルカの深みのある造語詞が心の奥底まで響く。
+-これまでに発表された全6曲を新たにリマスターして収録。
+
+***曲目
++[[Rousalka]] (feat. 巡音ルカ)
++[[Crystalline>Crystalline/SeikoP]] (feat. 巡音ルカ)
++[[Esmeralda]] (feat. 巡音ルカ)
++[[Leyenda de Melodia]] (feat. 巡音ルカ)
++[[XII Totem]] (feat. 巡音ルカ)
++[[Queen Nereid]] (feat. 巡音ルカ)
+
+**リンク
+-[[KarenT：「Leyenda」>>http://karent.jp/album/193]]
+-[[KarenT：「巡音ルカ聖誕祭'10」特集ページ>>http://karent.jp/special/luka10]]
+
+**コメント
+#comment()

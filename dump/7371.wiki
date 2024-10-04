@@ -1,0 +1,36 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/105_20091225201422_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Electric Intoxication}|CENTER:[[Presage of Collapse～崩壊の前兆～]]|
+
+|&bold(){[[BingoBongoP]]}|
+
+発売：2009年11月5日
+価格：￥600、１曲￥150 
+流通：配信
+レーベル：KarenT（クリプトン・フューチャー・メディア）
+
+|&b(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/electric-intoxication/id337524079]]}|
+
+**CD紹介
+-『MEIKO生誕祭2009』にあわせ、KarenTレーベルより一挙10タイトルリリースされた&br()MEIKOフィーチャーアルバムのうちの1枚。&br()BingoBongoPにとってはこれが初アルバムとなる。
+-ジャケット（アートワーク）は、イラストレーター・&bold(){INO}氏が[[こちら>>http://www.nicovideo.jp/watch/sm5010020]]で手がけたイラスト。
+-7曲目の「ごめんなさい」は、本アルバムにて初公開の新曲。
+-KarenTの作品概要に、これまでのBingoBongoPの辿ってきた道のりが非常に詳しく記載されている。
+
+**曲目
++[[Burning Like a Volcano～逆襲のMeiko～>逆襲のMeiko]] (feat. MEIKO)
++[[Blade of Lament]] (feat. MEIKO＋巡音ルカ)
++[[Stop it！Hurry！]] (feat. MEIKO)
++[[メタル組曲 - Transilvania -]] (feat. MEIKO)
++[[Sentimental Memories>センチメンタル・メモリーズ]] (feat. MEIKO)
++[[Electric Intoxication]] (feat. MEIKO)
++ごめんなさい。 (feat. MEIKO)
+
+**リンク
+-[[KarenT：「Electric Intoxication」>>http://karent.jp/album/105]]（iTunes Store以外の配信先はこちらを参照）
+-[[KarenT：「MEIKO記念祭'09」特集ページ>>http://karent.jp/special/meiko09]]
+
+**コメント
+#comment

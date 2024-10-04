@@ -1,0 +1,46 @@
+#right(){&furigana(このそらのかなた)&furigana()【登録タグ:&tags()】}
+&nicovideo(http://www.nicovideo.jp/watch/sm4673323)
+作詞：[[ゆよゆっぺ]]
+作曲：[[ゆよゆっぺ]]
+編曲：[[ゆよゆっぺ]]
+唄：初音ミク
+コーラス等：ゆよゆっぺ
+
+**曲紹介
+-ゆよゆっぺのオリジナル曲二作目。
+-スクリーム部分はうｐ主本人が担当している。
+-初期の作品のため音色が悪く、リマスター希望の声が多い。
+
+**関連動画
+唯一の歌ってみた。
+&nicovideo(http://www.nicovideo.jp/watch/sm9628209)
+
+**歌詞
+形のない　透き通る　一つの想いに
+私の手を　重ねては　願いを　届けてるの
+
+僕らの　願いを　この手に
+
+この空の彼方　ずっと遠くまで
+届いてMy hope song 
+信じている　変わることのない
+この想いを　ずっと
+
+あなたの手に　刻まれた　かすかな想いを
+握りしめて　いつの日か　その手を　開く日まで
+
+私の左手　君の右手　
+重なるときに
+信じている　きっと叶うと
+
+この空の彼方　ずっと遠くまで
+届いてMy hope song 
+信じている　変わることのない
+この想いを　ずっと
+
+#region(&b(){視聴は自己責任でお願いします})
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/watch/sm4673323" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/14597813">合法ロリな人々（？）</a></iframe>)
+#endregion
+
+**コメント
+#comment()

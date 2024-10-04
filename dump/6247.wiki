@@ -1,0 +1,55 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+
+#ref(http://www.raku2u160.com/laca001_s.jpg)
+
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[love（手刷り版）>love/CD]]|CENTER:&bold(){LOVE}|CENTER:[[blue>blue/u160(ういろー丸P)CD]]|
+
+|&bold(){[[u160(ういろー丸P)]]}|
+
+||CENTER:即売|CENTER:同人|
+|CENTER:発売|CENTER:2009年8月15日|CENTER:2008年12月6日|
+|CENTER:価格|CENTER:￥1,000|CENTER:￥1,500（税込）|
+|CENTER:サークル|>|CENTER:love and thanks|
+
+
+**CD紹介
+-「本当に大切なものなんて、ほんの少ししかなかった。」(特設サイトより)
+-多作で知られる「[[u160(ういろー丸P)]]」の1stアルバム。CDも多作な作者らしく全24曲を収録。
+-ジャケットイラストは&b(){nagamon}さん。
+-C76で初頒布後、メロンブックスで委託販売されている。
+
+**曲目
++[[give me love]]
++[[kids are alright！]]
++[[愛のビタミン]]
++[[気楽にいこうぜ]]
++[[oh my love]]
++[[かごめかごめ>かごめかごめ/u160(ういろー丸P)]]
++[[be alright]]
++[[ハグ！ハグ！ハグ！]]
++[[love story>love story/u160(ういろー丸P)]]
++[[stop the time]]
++[[大きなハート]]
++[[愛のある日々]]
++[[心温]]
++[[アイランド]]
++[[love love]]
++[[愛がない]]
++[[体温で愛して]]
++[[マーガレット]]
++[[baby love you]]
++[[ありがとう>ありがとう/u160(ういろー丸P)]]
++[[理由]]
++[[Mary]]
++[[little wish>little wish/u160(ういろー丸P)]]
++[[good night,good dream]]
+
+**リンク
+-[[作者ホームページ>>http://www.raku2u160.com/]]
+-[[CD特設サイト>>http://www.raku2u160.com/music/love/index.html]]
+-[[メロンブックス>>http://shop.melonbooks.co.jp/shop/list/MF/LOVE+AND+THANKS]]
+
+**コメント
+#comment

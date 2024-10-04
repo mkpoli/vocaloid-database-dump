@@ -1,0 +1,21 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[JIGEN-WO-KOETE]]|CENTER:&bold(){Return to zero／Ooze out}|CENTER:[[Return to zero original sound track ＃1]]|
+
+|&bold(){[[クウヤ]]}|
+
+発売：2008年6月29日
+価格：？
+流通：即売
+サークル：すたじおEKO＆GP1
+
+**曲目
++[[Return to zero]] / Len Kagamine
++[[Ooze out]] / Len＆Rin
++DEEP SEA（inst）
+
+**リンク
+-[[Project 0>http://project0.biz/]]
+
+**コメント
+#comment

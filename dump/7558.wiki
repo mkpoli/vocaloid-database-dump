@@ -1,0 +1,68 @@
+#right(){&furigana(HolyNite)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(http://www.nicovideo.jp/watch/nm8693625)|&youtube(http://www.youtube.com/watch?v=wqplTCAcmgU){342,187}|
+作詞：[[U-SUKE]]
+作曲：[[U-ji]]
+編曲：[[U-ji]]
+イラスト：[[オカヒジキ]]・[[つみれ]]
+唄：[[初音ミク]]
+
+**曲紹介
+>&bold(){今回は季節ものに挑戦してみました。というか、なっちゃいました。}
+曲名：『&u(){Holy Nite}』(&u(){ホーリー ナイト})
+-「Holy Nite」というタイトル通り、クリスマスソングをイメージしている。
+
+**歌詞
+It's Brand New Holy Night
+今夜はHappyなパーティー
+みんなで一緒にBaby
+さぁ　盛り上がろう
+
+街のイルミネーション
+寒い季節には
+心を温かくする魔法
+
+魔法にかかって
+浮足立つ街並み
+プレゼントをねだる子供たち
+
+手と手をつないでる
+幸せそうな恋人達
+時計を見て足早なジェントルマン
+
+It's Brand New Holy Night
+今夜はHappyなパーティー
+みんなで一緒にBaby
+さぁ　盛り上がろう
+
+明かりが消えはじめ
+静かになる街並み
+急に空からプレゼント
+
+真っ白い 粉雪
+ちらちら 降り始め
+アスファルトが白くなる
+
+ベルの音が鳴り響く
+今夜はいつもと違う
+聖なる夜 年に一度　Christmas
+
+It's Brand New Holy Night
+今夜はHappyなパーティー
+みんなで一緒にBaby
+さぁ　盛り上がろう
+
+ベルの音が鳴り響く
+今夜はいつもと違う
+聖なる夜 年に一度　Christmas
+
+It's Brand New Holy Night
+今夜はHappyなパーティー
+みんなで一緒にBaby
+さぁ　盛り上がろう
+
+**コメント
+#comment()

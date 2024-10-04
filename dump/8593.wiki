@@ -1,0 +1,43 @@
+#right(){&furigana(そらのしずく) &furigana()【登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186111441.jpg,x=300,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm9534962)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){ソラノシズク}|CENTER:[[星のウタ]]|
+
+|&bold(){[[Pianissimo>Pianissimo/作り手]]}|
+
+||CENTER:即売|CENTER:委託|
+|発売|>|CENTER:2010年2月7日|
+|価格|CENTER:￥1,000|CENTER:￥1,050（税込）|
+|サークル|>|CENTER:Pianissimo.com|
+
+**CD紹介
+-Pianissimo初のオリジナルフルアルバム。
+-新曲4曲を含む全13曲を収録。既存曲は全てアルバムのために再mix。打ち込みを生音に変更したバージョンを収録。
+-『[[Chacoal Menthol]] 』とPianissimoデビュー曲の『[[SecretCrush]] 』はアルバム用にアレンジがされPianissimoを知るのに最高の一枚。
+
+**曲目
++[[Life>Life/Pianissimo]]
++[[泣き虫サンタ]]
++[[Chacoal Menthol]] (リンVer・AlbumMix)
++1+1
++ひらりひらり
++[[SKY TRAIN]]
++[[キミトボク]]
++Doubt
++君にサヨウナラ
++[[SecretCrush]]
++[[風のカノン]]
++[[ソラノシズク]]
++[[SecretCrush]] -AlbumArrange-
+
+**リンク
+-[[作者HP『Pianissimo.com』>>http://www3.pf-x.net/~blueelixir/index.html]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/21/33/040010213368.html]]
+
+**コメント
+- これ欲しいです  -- sad  (2013-07-07 14:07:00)
+#comment

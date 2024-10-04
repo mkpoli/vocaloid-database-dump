@@ -1,0 +1,37 @@
+#right(){&furigana()&furigana(もてたいP)【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/13388474" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/13388474">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-アーティスト名は、「五条城」。
+-このアーティスト名の由来は、小林尽の漫画『スクールランブル』から。
+-2009年7月に初音ミクを使用したデビュー作「[[晴れのち雨]]」を投稿し、現在も活動中。
+-第5作「[[『Sadness...』]]」の動画説明文に「モテたいモテたい」と書かれていたことがきっかけとなり、「モテたいP」となった。
+-個人での作品だけでなく、ピアプロのコラボにも作曲担当として所属し、曲を提供している。
+-曲のジャンルはロック系を得意とするが、ジャンルにとらわれず幅広く手をつけている。
+-本人曰く、作詞は不得意とのことである。
+
+**リンク
+//-[[五条城式（作者ブログ）>>http://ameblo.jp/gojojop/]]
+-[[作者ブログ>>http://ameblo.jp/motetaip/]]
+//-[[PIAPRO>>http://piapro.jp/koui2945]]
+//-[[にゃっぽん>>http://v-nyappon.net/?m=pc&a=page_f_home&target_c_member_id=10337]]
+-[[KARENT>>http://karent.jp/artist/pp000644]]
+
+**曲
+#list_by_tag(モテたいP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(モテたいPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm7543779)|&nicovideo(sm7764816)|
+|&nicovideo(sm7873006)|&nicovideo(sm9227458)|
+|&nicovideo(sm9691609)|&nicovideo(sm9718802)|
+|&nicovideo(sm9744352)|&nicovideo(sm11680576)|
+|&nicovideo(sm12649022)|&nicovideo(sm13473503)|
+|&nicovideo(sm14977396)|&nicovideo(sm16079453)|
+|&nicovideo(sm17999462)|&nicovideo(sm20834125)|
+|&nicovideo(sm21379503)|&nicovideo(sm22188952)|
+|&nicovideo(sm22189354)||
+**コメント
+#comment()

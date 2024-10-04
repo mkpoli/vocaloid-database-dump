@@ -1,0 +1,40 @@
+#right(){&furigana(くうや)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/5299341" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/5299341">【ニコニコ動画】GP1 ボーカロイド  オリジナル曲</a></iframe>)
+
+**特徴
+-音楽サークル&bold(){GP1}で活動中。
+-鈴鳴いちご（すたじおEKO）とのコラボ企画「Project 0」にて、近未来の世界を舞台にした&bold(){Return to zeroシリーズ}を公開している。
+-イラスト担当は鈴鳴氏（『We are one』を除く）（※『次元を超えて』は鈴鳴氏の別PN文猫（fuminyan）である）。
+-動画の投稿も鈴鳴氏と連名で、&bold(){すたじおEKO＆GP1}の名義で行っている。
+-力強いレンの調声が特徴的なHR/HM曲を主に投稿。
+-所有ボカロは鏡音リン・レン、初音ミク、KAITO、MEIKO。
+-現在、JOYSOUND投票受付中。投票は[[こちら>>http://joysound.com/ex/utasuki/request/search.htm?searchKbnGet=2&searchKeyWordGet=%E3%82%AF%E3%82%A6%E3%83%A4&y=22&x=35&searchForm%3AsearchButton=1]]
+-2010年8月25日にLantisから発売された『～初音ミクがランティスのネ申曲を歌ってみた～』にて、鏡音レンのマニュピレートを担当。曲は『1．もってけ！セーラーふく（TVアニメ『らき☆すた』OPテーマ）』『3．mind as Judgment（TVアニメ『CANAAN』OPテーマ）』。
+
+**リンク
+-[[GP1>>http://gp1.in]]
+-[[Project 0>>http://project0.biz]]
+
+**曲
+#list_by_tag(クウヤ,100,sort=furigana)
+
+**CD
+#list_by_tag(クウヤCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**Return to zeroシリーズ
+|&nicovideo(http://www.nicovideo.jp/watch/sm2542112)|&nicovideo(http://www.nicovideo.jp/watch/sm2653480)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3372198)|&nicovideo(http://www.nicovideo.jp/watch/sm4119214)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4966548)|&nicovideo(http://www.nicovideo.jp/watch/sm5463929)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5676553)|&nicovideo(http://www.nicovideo.jp/watch/sm7802538)|
+
+**その他のオリジナル曲
+|&nicovideo(http://www.nicovideo.jp/watch/sm2001430)|&nicovideo(http://www.nicovideo.jp/watch/sm2001497)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4678181)|&nicovideo(http://www.nicovideo.jp/watch/sm5114973)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5660940)|&nicovideo(http://www.nicovideo.jp/watch/sm6019517)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6020621)|&nicovideo(http://www.nicovideo.jp/watch/sm9208136)|
+
+**インスト曲
+|&nicovideo(http://www.nicovideo.jp/watch/sm7811957)|
+
+**コメント
+#comment()

@@ -1,0 +1,63 @@
+#right(){&furigana(FlapstheWings)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm10109750)|
+作詞：[[shu-tP]]
+作曲：[[shu-tP]]
+編曲：[[shu-tP]]
+イラスト：[[ヤンロン]]・[[椛朗]]
+唄：[[巡音ルカ]]・[[Sweet Ann]]
+コーラス：[[Big-Al]]
+
+**曲紹介
+曲名：『&u(){Flaps the Wings}』(&u(){ふらっぷす　ざ　うぃんぐす})
+-ルカと Ann が英語で歌う。
+
+**歌詞
+（[[作者ブログ>>http://shu-t.sonic-wave.net/article/144262203.html]]より転載）
+
+You are alone in the room with the small light.
+What kind of thing is it that you think now?
+Do you think about a far-off past?
+Or do you think about the future?
+What kind of thing will depend on us after this?
+We are same as in its being sad and the nice thing.
+We leave this room and begin to walk.
+We grasp a hand and begin to walk to the future.
+The small bird which flaps the wings to sky.
+Surely the bird flies to the place that you should go ahead through along a flow
+of the wind.
+We open a wing like the bird, too and want to fly.
+Surely the bird may get a very important thing.
+We can surely get it in the future.
+
+I do not understand how many times I cried.
+You surely cried almost as same as me.
+Our tears became the dazzling small light.
+The light soared up into the far-off distance.
+Then the light turned into a small bird.
+We continued chasing a small bird with eyes.
+We thought what there would be over there.
+You and I must go to the place by all means.
+
+The small bird which flaps the wings to sky.
+Surely the bird flies to the place that you should go ahead through along a flow
+of the wind.
+We open a wing like the bird, too and want to fly.
+Surely the bird may get a very important thing.
+We can surely get it in the future.
+
+(Repeat)
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+**コメント
+#comment()
+
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)

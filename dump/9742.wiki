@@ -1,0 +1,51 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/287_20100423163341_0240_0240.jpg)
+
+&nicovideo(sm10482479)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Child's Garden>Child's Garden/CD]]|CENTER:CENTER:&bold(){SHELL}&br()&bold(){[[CORE>CORE/otetsuCD]]}|CENTER:[[LENS]]|
+
+|&bold(){[[otetsu]]}|[[natsuP]]|
+
+>&b(){ジャケットイラスト：[[riria009]]}
+
+|流通|CENTER:即売|CENTER:同人|CENTER:配信|
+|発売|>|CENTER:2010年5月9日|CENTER:2010年5月10日|
+|価格|CENTER:￥1,000|CENTER:￥1,470（税込）|CENTER:￥1,200 / 1曲￥150（税込）|
+|サークル|>|CENTER:美女と野球拳||
+|レーベル|||CENTER:KarenT|
+
+|&bold(){[[とらのあなで購入する>>http://www.toranoana.jp/mailorder/article/04/0010/21/86/040010218644.html]]}|
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/shell/id369847096]]}|
+ 
+**CD紹介
+-『[[STARLET>STARLET/CD]]』以来となる、otetsu氏によるフルアルバム。
+-THE VOC@LOiD M@STER 12（ボーマス12）頒布。その翌日にはKarenTレーベルより配信販売開始。
+-とらのあなでCDが委託販売されている。
+-同じくフルアルバムである『[[CORE>CORE/otetsuCD]]』と同時に発表された。 
+-10トラック目は[[natsuP]]によるピアノアレンジ。ボーカル無しのインストトラックとなっている。
+
+**曲目
++[[shell>shell/otetsu]] / 巡音ルカ
++[[transient dream]] / GUMI
++[[廃日]] / 神威がくぽ
++[[証>証/otetsu]] / 初音ミク
++Blaze / 巡音ルカ
++[[Good-bye]] / 初音ミク
++荊 / 初音ミク
++[[Child's Garden]] / 巡音ルカ
++[[モノクロフィルム]] / 神威がくぽ
++[[星屑ユートピア]] (Fantaisic-Piano remix) / natsu(SCL Project)
+
+**リンク
+-[[作者ブログ>>http://otetsu721.blog60.fc2.com/]]
+-[[KarenT：「SHELL」>>http://karent.jp/album/287]]
+
+**コメント
+- 廃日ががくぽ…？セルフカバー？  -- 名無しさん  (2010-04-24 07:55:09)
+- ブログによるといくつかの曲でボーカルを差し替えてるみたいです  -- 名無しさん  (2010-04-24 08:17:43)
+- キヨテルｋｔｋｒ・・・と思ったんだけどなｗ  -- 名無しさん  (2010-05-19 01:38:58)
+- ７曲目いばらって読むんでしょ？前に調べました！荊  -- 良太  (2014-05-30 09:41:35)
+- 荊！ミク！otetsuさん最高！  -- 名無しさん  (2014-11-16 18:52:25)
+#comment

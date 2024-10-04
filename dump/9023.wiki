@@ -1,0 +1,31 @@
+#right(){&furigana(あおにとけてゆく) &furigana()【登録タグ:&tags()】}
+&ref(http://karent.jp/npdca/171_20100111215705_0240_0240.jpg)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm4852495)
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/id351305969]]}|
+
+|&bold(){[[ミナグ]]}|
+
+**CD紹介
+-「[[あかいせかい]]」で著名な「[[ミナグ]]」氏の初の全国配信作。
+-ニコニコ動画で公開された「&bold(){[[青に溶けてゆく]]}」、ピアプロやmuzieで公開された「&bold(){探しものを・・・}」の2曲に、カラオケトラックを追加した全４トラックを収録。
+
+**CD詳細
+-流通：配信
+-発売：2010年2月3日
+-価格：アルバム￥600、１曲￥150（税込）
+-レーベル：KarenT
+-名義：[[ミナグ>>http://karent.jp/artist/pp000099]]
+
+**曲目
++青に溶けてゆく(feat. 初音ミク)
++探しものを・・・(feat. 初音ミク)
++青に溶けてゆく（カラオケ）
++探しものを・・・（カラオケ）
+
+**リンク
+-[[KarenT>>http://karent.jp/album/171]]
+
+**コメント
+#comment()

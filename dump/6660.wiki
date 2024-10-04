@@ -1,0 +1,43 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/13361800" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/13361800">【ニコニコ動画】自作曲</a></iframe>)
+
+**特徴
+-名前は「ユージピー」と読む。
+-それまでもレベルの高い楽曲を発表していたが、4作目「[[千日草]]」から約2ヶ月あけて発表された&br()5作目「[[Sweet Sweet Cendrillon Drug]]」がヒット、一気に注目を浴びる。
+-バンドサウンドが好きで創作する楽曲にもその色を濃く出している。
+-実は明るい曲を作るのは苦手、とのこと。（PIAPROプロフィールより）
+
+**リンク
+-[[作者Blog>>http://uzuzuz.seesaa.net/]]
+-[[Twitter>>https://twitter.com/uz_yuji]]
+-[[PIAPRO>>http://piapro.jp/bungee_jump_777]]
+
+**曲
+#list_by_tag(uzP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(uzPCD,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm7534033)|&nicovideo(http://www.nicovideo.jp/watch/sm7552371)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7582999)|&nicovideo(http://www.nicovideo.jp/watch/sm7743793)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm8292936)|&nicovideo(http://www.nicovideo.jp/watch/sm8398026)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm8568063)|&nicovideo(http://www.nicovideo.jp/watch/sm8603754)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm8785428)|&nicovideo(http://www.nicovideo.jp/watch/sm8917354)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9880148)|&nicovideo(http://www.nicovideo.jp/watch/sm14148714)|
+
+
+**コメント
+- コメントに小５とあったけど、本当かしら  -- おのだ  (2009-09-26 02:15:56)
+- それはsweet～の絵師の話な。Pは違うよ  -- 名無しさん  (2009-09-27 13:18:07)
+- 花を はまだかな  -- み  (2011-01-15 19:06:10)
+- 世界シリーズが好き。  -- 名無しさん  (2011-05-15 12:52:26)
+- 「此処に在る左手と」の歌詞うpお願いします！！  -- 名無しさん  (2012-04-29 22:53:31)
+- なんでこの人こんな評価されんのだろう  -- 名無しさん  (2012-09-24 00:52:29)
+- uzPが好き過ぎて生きるのがつらい  -- 名無しさん  (2012-10-22 17:00:12)
+- 本当に、良い曲を作る方ですね。これからも応援させて頂きます＾＾  -- Askeeds  (2012-11-20 17:09:50)
+- 暗くてなかなか好き  -- 名無しさん  (2013-03-15 14:11:06)
+- 好きな曲が多くて困る  -- 名無しさん  (2013-03-23 18:04:09)
+- uzPの曲が、いい曲過ぎて泣けてくる・・・これからももっといい曲を作ってください・・・！  -- 名無しさん  (2013-08-28 19:57:04)
+- 前アニメでOPの作詞作曲のクレジットがuzって出てたけど本人？この人プロなのかな？  -- 名無しさん  (2016-01-11 08:29:02)
+#comment()

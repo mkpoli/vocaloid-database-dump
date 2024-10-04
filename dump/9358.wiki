@@ -1,0 +1,38 @@
+#right(){&furigana(いにしえのかがみ) &furigana()【登録タグ:&tags() 】}
+
+//&ref(http://cherry-blossom.blush.jp/gallery/offline/inisie.jpg)
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186110516.jpg,x=300,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm10172713)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){いにしえの鏡}|CENTER:-|
+
+|&bold(){[[さくら（えにくすP）>えにくすP]]}|
+
+||CENTER:即売|CENTER:同人|
+|発売|CENTER:2010年3月28日|CENTER:-|
+|価格|CENTER:￥300|CENTER:-|
+|サークル|>|CENTER:コモドリビトム|
+
+作詞：&bold(){[[あおん あき>>http://piapro.jp/micra_hk11]]}
+作曲：[[さくら（えにくすP）>えにくすP]]
+イラスト：&bold(){[[h>>http://plum.syanari.com/]]}
+
+
+**CD紹介
+-えにくすPのシングルEP。
+-&bold(){THE VOCALOID PARADISE 3（ボーパラ3）}で頒布。委託販売の予定は無いとのこと。
+-物語調の「いにしえの鏡」のルカ・ミクver.とカラオケ、計3曲を収録。
+
+**曲目
++いにしえの鏡
++いにしえの鏡-Ver.Miku-
++いにしえの鏡(off vocal)
+
+**リンク
+-[[特設サイト>>http://cherry-blossom.blush.jp/vl/inisie/index.html]] 
+
+**コメント
+#comment

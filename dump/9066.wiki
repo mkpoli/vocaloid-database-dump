@@ -1,0 +1,50 @@
+#right(){&furigana(MUSICLIFE)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&ref(http://hat.lix.jp/2nd/cd-jacket2.png)
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Spark of Scum]]|CENTER:&bold(){MUSIC LIFE}|CENTER:[[connect>connect/CD]]|
+
+|&bold(){[[U-ske]]}|
+
+発売：2009年9月6日／2009年9月
+価格：￥1,000／￥1,050(税込)
+流通：即売／同人
+サークル：HERE and THERE
+
+**CD紹介
+>朝がちょっと楽しくなるような、
+>重いまぶたをこする月曜日の朝が少し楽しくなるような、
+>そんな一枚になってたらいいなあと思います。
+>by U-ske
+CD名：『&u(){MUSIC LIFE}』(&u(){ミュージック ライフ})
+-U-ske氏のVOCALOIDオリジナルアルバム第2弾。
+-16曲も収録した豪華な作品。
+
+**曲目
++Good bye Past day
++[[music life of pop creation]]
++Follow Me
++[[fallin' love at first sight]]
++LOVE2U LOVE4U
++[[思い出になんかならないで]]
++[[I still love you>I still love you/U-ske]]
++[[Callin']]
++[[うそつき>うそつき/U-ske]]
++Adult
++[[Regret>Regret/U-ske]] -album Mix-
++[[Girly Dream]]
++Surly Future
++[[Elevator Music]]
++[[thank you, babe]]
++Next step
+
+**リンク
+-[[作者ホームページ（HERE and THERE）>>http://hat.lix.jp/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/19/63/040010196342.html]]
+
+**コメント
+- ２、６、７、８、９、１４曲目目当てで今頃欲しい！  -- 名無しさん  (2015-09-01 23:34:05)
+#comment

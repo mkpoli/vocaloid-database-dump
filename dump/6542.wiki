@@ -1,0 +1,27 @@
+#right(){&furigana(たく)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/12026098" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/12026098">【ニコニコ動画】卓のVOCALOID作品</a></iframe>)
+
+**特徴
+-シンプルな音作りで落ち着いた曲が多い。
+-「[[明日に走る唄]]」はボカランED曲に採用された。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/do_taku]]
+-[[作者ブログ>>http://takumusic.blog22.fc2.com/]]
+
+**曲
+#list_by_tag(卓（takuP）,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(卓（takuP）CD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/nm6713234)|&nicovideo(http://www.nicovideo.jp/watch/nm6735027)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm6808708)|&nicovideo(http://www.nicovideo.jp/watch/nm7011386)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm7042824)|&nicovideo(http://www.nicovideo.jp/watch/sm7414600)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7824180)|&nicovideo(http://www.nicovideo.jp/watch/sm8171733)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9731365)||
+
+**コメント
+- ページ作ったんで、ミクWiki内でのタグは「卓（takuP）」で統一してください。  -- naoh  (2009-09-13 20:28:45)
+#comment()

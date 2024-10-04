@@ -1,0 +1,29 @@
+#right(){&furigana(せんちゃ)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/12094496" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/12094496">こさえてみた</a></iframe>)
+
+**特徴
+-Piaproでのコラボレーション等、作曲を主として活動するプロデューサー。
+-インストでの作曲暦があり、作品毎にそれぞれの世界を表現した音と曲を作る。
+-ニコニコ動画デビューは、2009年4月7日投稿のルカ使用曲「はるかなる歌」
+-代表的な作品は「[[liar × liar]]」、「[[Last/L>Last／L]]」等。
+>節操なく曲をいろいろ作る毎日です。全部不得意ジャンル。（ニコ動プロフより）
+
+**リンク
+-[[サイト 「茶々余響」>>http://www.cyatya.net/]]
+-[[blog 「お茶しかない」>>http://d.hatena.ne.jp/sentya/]]
+-[[piapro 煎茶（sentya）>>http://piapro.jp/sentya]]
+
+**曲
+#list_by_tag(煎茶,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(煎茶CD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm7123844)|&nicovideo(http://www.nicovideo.jp/watch/sm7209677)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7429901)|&nicovideo(http://www.nicovideo.jp/watch/sm7973733)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm8976035)|&nicovideo(http://www.nicovideo.jp/watch/sm9045994)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9240706)|&nicovideo(http://www.nicovideo.jp/watch/sm9322640)|
+
+**コメント
+#comment()

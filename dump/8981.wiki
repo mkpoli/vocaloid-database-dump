@@ -1,0 +1,34 @@
+#right(){&furigana()&furigana()【登録タグ:&tags()】}
+&ref(http://karent.jp/npdca/163_20100104061156_0240_0240.jpg)
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/nelnelnel-ep/id349415737]]}|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[E-ROiRO]]&br()[[君よミクの望みの喜びを]]|CENTER:&bold(){NELNELNEL}&br()[[創造]]|CENTER:[[For example]]|
+
+|&bold(){[[AVTechNO]]}|
+
+**CD紹介
+-AVTechNO氏による、KarenTより全国配信されているEP。『[[創造]]』と同時リリース。
+-これまでも様々なアレンジが発表されてきた同氏の代表曲「[[NEL]]」だが、今回は新たな3つのバージョンが収録されている。
+-リリース後に収録曲の動画が公開されたが、3曲のうちルカの「ORANGE NEL」は未発表。『[[阿部犬の日曜日のあさ。]]』にはリメイクバージョンが収録されている。
+
+**CD詳細
+-媒体：配信
+-発売：2010年1月20日
+-価格：アルバム￥300、1曲￥150
+-レーベル：KarenT
+作詞・作曲：&bold(){[[AVTechNO]]}
+イラスト：&bold(){[[和音>>http://www.pixiv.net/member.php?id=5519]]}
+
+**曲目
++[[ACID NEL]]　(feat. 初音ミク)
++[[DARK NEL]]　(feat. 鏡音リン&鏡音レン)
++ORANGE NEL　(feat. 巡音ルカ)
+
+**リンク
+-[[KarenT>>http://karent.jp/album/163]]
+-[[作者ホームページ>>http://avtechno.ukime.org/]]
+
+**コメント
+#comment()

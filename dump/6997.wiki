@@ -1,0 +1,43 @@
+#right(){&furigana()&furigana()【登録タグ:&tags()】}
+&nicovideo(http://www.nicovideo.jp/watch/sm7593485)
+作詞：[[ypl]]
+作曲：[[ypl]]
+編曲：[[ypl]]
+唄：初音ミク・巡音ルカ
+
+**曲紹介
+-CD「[[アヒルアルカナ]]」収録楽曲。
+
+**配信EP
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:&bold(){[[Garbage Collection]]}|CENTER:&bold(){Tuonela}|CENTER:&bold(){[[Perception]]}|
+-氏のサイトで、ジャケット画像・歌詞付きのEP形式で無料でダウンロードすることができる。
+-ダウンロード先はこちら。→　&bold(){[[Tuonela>>http://yplmusic.bandcamp.com/album/tuonela]]}
+
+**曲目
++Tuonela
++Tuonela - instrumental -
+
+**歌詞
+（[[特設ページ>>http://yplmusic.bandcamp.com/album/tuonela]]より転載）
+
+白くため息をついた 
+ミルクを撒いた年月 
+
+あふれる光の川に 
+わたしは肢体を　 
+静かに 浮かべて… 
+
+まばゆい　視界 
+歪む　歪む　歪む 
+
+呼吸　空ろな体 
+掬う　現の崩壊 
+遠い　届かぬ　彼岸 
+
+呼吸　空ろな体 
+巣食う　意識の境界 
+遠い　届かぬ　彼岸
+
+**コメント
+#comment()

@@ -1,0 +1,51 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&ref(http://img.toranoana.jp/popup_img/04/0010/22/31/040010223127-1p.jpg)
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){window's music}|CENTER:-|
+
+|&bold(){[[すんｚりヴぇｒP]]}|&bold(){[[tom]]}|
+
+||CENTER:即売|CENTER:同人|
+|発売|CENTER:2010年5月9日|CENTER:-|
+|価格|CENTER:￥1,000|CENTER:-|
+|サークル|>|CENTER:window's fan club|
+
+>作詞・作曲：&bold(){[[すんｚりヴぇｒP]]}
+>イラスト：&bold(){[[tom>>http://www.nicovideo.jp/mylist/645943]]}
+
+|&bold(){[[とらのあなで購入する>>http://www.toranoana.jp/mailorder/article/04/0010/22/31/040010223127.html]]}|
+
+**CD紹介
+-すんｚりヴぇｒPによるフルアルバム。
+-THE VOC@LOID M@STER 12（ボーマス12）にて、「[[tom>>http://www.nicovideo.jp/mylist/6459436]]」氏の画集「window's picture」と併せて頒布される。
+-未発表曲を多数収録しており、「窓」をコンセプトとした、濃密で一体感のある作品に仕上がっている。
+-現在、とらのあなで委託販売が行われている。
+
+&nicovideo(http://www.nicovideo.jp/watch/sm15017055)
+
+**曲目
++[[login to the music]]
++[[sequenced blues]]
++&bold(){&color(red){逆}&color(orange){さ}&color(yellow){ま}&color(green){レ}&color(cyan){イ}&color(blue){ン}&color(violet){ボ}&color(orange){ー}}
++窓際
++[[四月の窓]]
++冬の音
++[[見えない煙を吐いている]]
++イツカキット
++開かずの窓
++[[迷いの窓　悟りの窓]]
++[[オレンジの手招き]]
++[[十二月の窓]]
++[[遊び相手は南風]]
+
+**リンク
+-[[特設サイト>>http://cassette.xii.jp/wfc/]] 
+
+**コメント
+- 特設サイトに忠実杉ワロタｗ  -- 名無しさん  (2010-03-31 00:27:42)
+- ↑頑張りましたｗ  -- 記事作った人  (2010-04-10 20:38:37)
+- ↑GJ!  -- すんｚ  (2010-06-01 17:14:05)
+- とらのあなでまだ売ってるのかなあ・・・ほしい・・・  -- るるか  (2011-04-02 00:38:12)
+- ↑↑まさかの本人きてた？！！  -- 名無しさん  (2011-04-02 02:10:41)
+- ちょこっと編集しました  -- 名無しさん  (2013-03-09 22:06:59)
+#comment()

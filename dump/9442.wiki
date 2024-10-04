@@ -1,0 +1,47 @@
+#right(){&furigana(はぐるまわーるど) &furigana()【登録タグ:&tags() 】}
+//&ref(http://img.toranoana.jp/img/04/0010/21/97/040010219735-1.gif)
+
+&ref(http://blog.cnobi.jp/v1/blog/user/127f17e5050a5b1fa24c88ef098c0e25/1272372233,x=200,y=200)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm10455720)
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:&bold(){[[サバのミク煮]]}|CENTER:&bold(){ハグルマワールド}|CENTER:-|
+
+|&bold(){[[シメサバツイスターズ]]}|
+//|&bold(){[[とらのあなで購入する>>http://www.toranoana.jp/mailorder/article/04/0010/21/97/040010219735.html]]}|
+
+||CENTER:即売|CENTER:同人|
+|CENTER:発売|CENTER:2010年5月9日|CENTER:-|
+|CENTER:価格|CENTER:￥1,000|CENTER:\1,470(税込)|
+|CENTER:サークル|>|CENTER:おけいはん|
+
+作詞・作曲：&bold(){[[シメサバツイスターズ]]}
+ジャケットイラスト：&bold(){[[Deino>>http://www012.upp.so-net.ne.jp/deino/]]}
+
+**CD紹介
+- シメサバツイスターズの2ndアルバム。
+- THE VOCALOID MASTER 12（ボーマス12）にて頒布される。
+--イベント後はとらのあなで通販が行われていた。
+- VOCALOIDからUTAUまで幅広く使用した全11曲を収録。うち4曲は未公開の新曲。
+- ボカロCD史上最強の&color(red){&b(){乳ジャケット}}を目撃しないか？
+
+**曲目
++[[歯車世界と暴れ色ギター]] &color(red){【new】}
++[[カルシウムガール]](Teto ver.)
++[[仮病少年（仮）]]
++[[アキゾラ純情ブレイカーズ]]
++世界で同率一位の幸せモノな君へ
++[[Tube Screamer>>http://www.nicovideo.jp/watch/sm9188972]]
++[[神様は朝に目覚める]]
++[[独裁者ヒマワリ]] More Adolescent Mix &color(red){【new】}
++[[パラシュート・アイドル]](Teto ver.)
++ダンス・ダンス・ダンス &color(red){【new】}
++Saba nine (musique concrète) &color(red){【new】}
+
+**リンク
+//- [[作者ブログ>>http://simesabat.blog.shinobi.jp/]]
+-[[作者ブログ>>http://simesabat.blog.shinobi.jp/%E5%91%8A%E7%9F%A5/%E3%80%8C%E3%83%8F%E3%82%B0%E3%83%AB%E3%83%9E%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%80%8D%E3%80%80%E3%82%AF%E3%83%AD%E3%82%B9%E3%83%95%E3%82%A7%E3%83%BC%E3%83%89%E3%83%87%E3%83%A2]]
+
+**コメント
+- シーエ（？）かわいい！  -- ｋｏｔｏｎｅ  (2012-02-25 10:06:57)
+#comment

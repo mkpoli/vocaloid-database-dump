@@ -1,0 +1,61 @@
+#right(){&furigana(やしるしP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/10167480" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/10167480">【ニコニコ動画】←投稿曲</a></iframe>)
+
+**特徴
+作り手名：『&u(){←P}』（&u(){やじるしP}）
+//-平成生まれの専門学生である、若手のP。
+-平成生まれのP。
+-「ふわふわずしん」をコンセプトにした曲を投稿している。
+-2008年初音誕生祭に感動し、コツコツ溜めてた貯金全てパソコンとDTMに費やし、処女作「[[雨音-アマオト-]]」を生み出す。
+-ミニアルバム作りを精力的に行っている。
+-P名の読み方は「やじるしP」。他にも「雨音ソラ」とも呼ばれる。
+-「[[falldown]]」で自身初の殿堂入りを果たす。他に「[[クドリャフカ>クドリャフカ/←P]]」と「[[宇宙ラジオ]]」も殿堂入りを達成している。
+
+**リンク
+-[[Twitter>>https://twitter.com/yajirushi_p]]
+-[[PIAPRO>>https://piapro.jp/sora_amane]]
+//-[[←P Official Website>>http://yajiruship.com/]]
+-[[$ky Rainsound（作者ブログ）>>http://amane69.blog23.fc2.com/]]
+-[[ニコニコ>>https://www.nicovideo.jp/user/8813678]]
+-[[YouTube>>https://www.youtube.com/@YajirushiP]]
+
+**曲
+#list_by_tag(←P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(←PCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+-&bold(){オリジナル曲}
+|&nicovideo(sm5090324)|&nicovideo(sm5642479)|
+|&nicovideo(sm6169349)|&nicovideo(sm6188841)|
+|&nicovideo(sm7121307)|&nicovideo(sm7158229)|
+|&nicovideo(sm8062966)|&nicovideo(sm8338564)|
+|&nicovideo(sm8706822)|&nicovideo(sm9382083)|
+|&nicovideo(sm10919875)|&nicovideo(sm11624701)|
+|&nicovideo(sm13230168)|&nicovideo(sm13501015)|
+
+-&bold(){カバー・アレンジ曲}
+|&nicovideo(sm6298916)|&nicovideo(sm7852810)|
+|&nicovideo(sm12017614)|>|
+
+**コメント
+- ボーマス9にて素敵な無料コンピを頂き、素敵な曲へささやかなお礼と応援の意味を込めてページ製作させてもらいました  -- ページ製作者  (2009-09-09 16:12:47)
+- 無料だったけど普通によかった。平成生まれすげーなｗ  -- 名無しさん  (2009-09-17 21:17:20)
+- 宇宙ラジオの人がまさかライブファミリーだったとは(°□°;)  -- 名無しさん  (2009-11-17 23:50:08)
+- やじるしPやじるしPになってる  -- しょこら  (2010-07-25 21:52:10)
+- ↑修正しました。-- moto  (2010-08-29 20:06:10)
+- 私好みの曲ばかりです！聞いてて落ち着きます。  -- 名無しさん  (2011-01-13 20:59:37)
+- 私好みの曲ばかりです！聞いてて落ち着きます。  -- ねぎ  (2011-01-13 21:00:50)
+- falldown聞いて、←Pに惚れました…！みんな好きです！もっともっと評価されるべきなのに…ッ！  -- 名無しさん  (2011-07-09 22:46:01)
+- 今音雨聞いて泣いてきました・・・ほんとに泣けます！最高です  -- negimikku  (2011-07-09 23:21:47)
+- やじるしPって読むんだ…。  -- 名無しさん  (2011-10-02 22:07:41)
+- ﾊﾟｰｷﾝｸﾞﾏｰｸを見た時に…！  -- 名無しさん  (2011-10-24 12:59:47)
+- いちばん好きな人です‥  -- ｢Ｌ｣  (2012-03-05 03:34:52)
+- falldownが大好きです!!!  -- りんご  (2013-03-16 15:26:46)
+- これ左側Ｐだと思ってた  -- みーざ  (2013-08-04 07:50:22)
+#comment()

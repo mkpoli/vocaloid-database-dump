@@ -1,0 +1,33 @@
+#right(){&furigana(mo7779)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/1943315" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/1943315">【ニコニコ動画】</a></iframe>)
+
+**特徴
+作り手名：『&u(){mo7779}』
+-ニコニコ動画において、作り手自身が投稿した最古のVOCALOID動画｢[[FF6 オペライベント歌わせてみました>http://www.nicovideo.jp/watch/sm88930]]｣を投稿した人物。ニコニコ動画最古参の作り手である。
+-初音ミク発売前は当時作り手の第一人者であった[[ぼか主]]に触発されて、互いにカバー曲を作りあっていたこともあった。
+-主に「耳コピしてみたシリーズ」で活動している。
+-VOCALOID100名で歌う、VOCALOID合唱団シリーズも投稿している。
+
+**リンク
+-[[作者HP>>http://nagoya.cool.ne.jp/mo7779/]]
+-[[Twitter>>https://twitter.com/mo7779]]
+
+**曲
+#list_by_tagsearch(mo7779,sort=furigana2,errmsg=まだ曲が登録されていません。,and,100)
+
+**CD
+#list_by_tagsearch(mo7779CD,sort=furigana2,errmsg=まだCDが登録されていません。,and,100)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm88930)|&nicovideo(http://www.nicovideo.jp/watch/sm154552)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm2968878)|&nicovideo(http://www.nicovideo.jp/watch/sm3147383)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5460427)|&nicovideo(http://www.nicovideo.jp/watch/sm5528228)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6055361)|&nicovideo(http://www.nicovideo.jp/watch/sm8154861)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm8209395)|&nicovideo(http://www.nicovideo.jp/watch/sm8888775)|
+
+**コメント
+#comment()

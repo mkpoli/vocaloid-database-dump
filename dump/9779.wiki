@@ -1,0 +1,30 @@
+#right(){&furigana(さくらだより) &furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/237_20100307013323_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[4 on the floor]]|CENTER:&bold(){さくらだより}|CENTER:[[INNERVE]]|
+
+|&bold(){[[Clean Tears]]}|
+
+発売：2010年3月24日
+価格：￥300 / 1曲￥150
+流通：配信
+レーベル：KarenT
+ジャケットイラスト：[[楓菜あきの>>http://akino.whitesnow.jp/]]
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/id361377803]]}|
+
+**CD紹介
+-春らしい爽やかさと、日本の春のような和テイストな楽曲を収録したシングル盤。「さくら」をテーマにそれぞれ違う一面の春を感じてください。（KarenT作品概要より）
+-KarenTの「春の唄'10」企画で配信された作品の1つ。
+
+**曲目
++さくらだより （feat. 初音ミク）
++[[風の花]] （feat. 初音ミク）
+
+**リンク
+-[[KarenT：「さくらだより」>>http://karent.jp/album/237]]
+-[[KarenT：「春の唄'10」特集ページ>>http://karent.jp/special/spring10]]
+
+**コメント
+#comment

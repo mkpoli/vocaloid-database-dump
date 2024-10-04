@@ -1,0 +1,28 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){CRYSTAL MICROPHONE UNDERGROUND}|CENTER:-|
+
+|&bold(){[[tysP]]}|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|CENTER:2009年9月6日|CENTER:2009年9月28日|
+|価格|CENTER:￥500|CENTER:￥751（税込）|
+|サークル|>|CENTER:Nefertiti|
+
+**CD紹介
+-tysP初のCD。ボーマス9で頒布。
+
+**曲目
++[[Loose Change]]
++[[Invisible Tears]]
++[[Emerald Coast>エメラルドコースト]]
++[[Rainbow Road Runner]]
++[[Shape of My Song]]
+
+**リンク
+-[[作者ブログ>>http://nefertiti.seesaa.net/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/19/74/040010197429.html]]
+
+**コメント
+//- 1げと  -- 名無しさん  (2012-07-23 00:48:24)
+#comment

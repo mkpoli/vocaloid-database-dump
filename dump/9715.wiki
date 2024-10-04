@@ -1,0 +1,34 @@
+#right(){&furigana(さいか) &furigana()【登録タグ:&tags() 】}
+//&ref(http://img.toranoana.jp/img/04/0010/20/60/040010206005-1.gif)
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186109685.jpg,x=300,y=300)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[PASTEL BEETZ]]|CENTER:&b(){賽華}|CENTER:[[BLUE DOLL]]|
+
+|&bold(){[[くちばしP]]}|
+
+||CENTER:即売|CENTER:同人|
+|発売|>|2009年12月30日|
+|価格|CENTER:\300|CENTER:￥420（税込）|
+|サークル|>|CENTER:線形ネコ型システム|
+
+>作詞・作曲・ジャケットイラスト：&b(){[[くちばしP]]}
+
+**CD紹介
+-くちばしPによるシングルEP。
+-コミックマーケット77（C77）にて頒布され、とらのあなでの委託販売も同時に開始された。
+-「[[ProjectDIVA-AC楽曲募集>>http://dic.nicovideo.jp/a/projectdiva-ac%E6%A5%BD%E6%9B%B2%E5%8B%9F%E9%9B%86]]」への応募作である「[[ナイトメア☆パーティーナイト]]」の&color(red){フル版}と、森之宮先生シリーズ最新作「[[HEAVENS OF DARKNESS]]」の2曲と、そのカラオケトラックを含めた全4曲を収録。
+
+**曲目
++[[ナイトメア☆パーティーナイト]]
++[[HEAVENS OF DARKNESS]]
++[[ナイトメア☆パーティーナイト]] (off vocal)
++[[HEAVENS OF DARKNESS]] (off vocal)
+
+**リンク
+-[[特設サイト>>http://pokoneko.haru.gs/c77/]]
+-[[作者ブログ>>http://linearsystem.blog.shinobi.jp/]]
+
+**コメント
+#comment

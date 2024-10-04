@@ -1,0 +1,35 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/112_20091225201045_0240_0240.jpg)
+|&b(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/in-the-box/id337258139]]}|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[M.A.>M.A./CD]]|CENTER:&bold(){in the BOX}|CENTER:[[Time with you>Time with you/CD]]|
+
+|&bold(){[[shu-tP]]}|
+
+発売：2009年11月05日
+価格：￥900、１曲￥150 
+流通：配信
+レーベル：KarenT（クリプトン・フューチャー・メディア）
+
+**CD紹介
+-『MEIKO生誕祭2009』にあわせ、KarenTレーベルより一挙10タイトルリリースされたMEIKOフィーチャーアルバムのうちの1枚。
+
+**曲目
++BOX -incl. VOX- (feat. MEIKO)
++[[Change me]] (feat. MEIKO)
++[[MIRROR>MIRROR/shu-tP]] (feat. MEIKO)
++[[Go Forward]] -Album edit- (feat. MEIKO)
++Around the Clock
++Free Time
++[[SHINING]] -Album edit- (feat. MEIKO)
++Starting Afresh (feat. MEIKO)
++[[M.A.]] -different Vocal- (feat. MEIKO)
++Forever Love
+
+**リンク
+-[[KarenT：「in the BOX」>>http://karent.jp/album/112]]（iTunes Store以外の配信先はこちらを参照）
+-[[KarenT：「MEIKO記念祭'09」特集ページ>>http://karent.jp/special/meiko09]]
+
+**コメント
+#comment

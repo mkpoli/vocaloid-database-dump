@@ -1,0 +1,32 @@
+#right(){&furigana(きゃんでぃP)&furigana()【登録タグ:&tags() 】}
+|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/13786461" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/13786461">【ニコニコ動画】</a></iframe>)|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/10467090" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/10467090">【ニコニコ動画】</a></iframe>)|
+
+**特徴
+-アーティスト名は「&bold(){和宮鈴奈}」。投稿一作品目の曲名に由来して「きゃんでぃP」と名付けられたと思われる。
+-主にリン・レン・mikiのオリジナル曲を投稿している。
+-可愛らしい曲が多い。
+-「歌ってみた」活動も別名義で行っている。また、作詞家、時には絵師として多数のPともコラボしている。
+
+**リンク
+-[[あたまのなか、アリス（作者HP）>>http://yumedreem.web.fc2.com/]]
+-[[CAN-DY（･v･*!!（作者ブログ）>>http://ameblo.jp/yumedreem/]]
+-[[アリアルティア-Arialtia-（作者所属サークルHP）>>http://arialtiax.xxxxxxxx.jp/]]
+
+**曲
+#list_by_tag(きゃんでぃP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(きゃんでぃPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm7769779)|&nicovideo(http://www.nicovideo.jp/watch/sm7934767)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7962491)|&nicovideo(http://www.nicovideo.jp/watch/sm8038416)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm8199904)|&nicovideo(http://www.nicovideo.jp/watch/sm8949156)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9214739)|&nicovideo(http://www.nicovideo.jp/watch/sm9221520)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm10263322)|&nicovideo(http://www.nicovideo.jp/watch/sm10517616)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm14744819)|&nicovideo(http://www.nicovideo.jp/watch/sm18840282)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm20156253)||
+
+**コメント
+- や、やっと作者ページ作れた…！  -- 名無しさん  (2010-06-12 04:24:09)
+#comment()

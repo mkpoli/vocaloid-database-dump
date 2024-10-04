@@ -1,0 +1,42 @@
+#right(){&furigana(すたーらいととらべらー) &furigana()【登録タグ:&tags() 】}
+|&ref(http://img.toranoana.jp/img/04/0010/19/73/040010197342-1.gif)|&ref(http://karent.jp/npdca/482_20100721004528_0240_0240.jpg)|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){スターライトトラベラー}|CENTER:[[BRaNE WoRLD>BRaNE WoRLD/CD]]|
+
+|&bold(){[[スターライトP]]}|
+
+||CENTER:即売|CENTER:同人|CENTER:配信|
+|発売|CENTER:2009年9月6日|CENTER:2009年9月|CENTER:2010年8月4日|
+|価格|CENTER:￥1,000|CENTER:￥1,260（税込）|CENTER:￥900 / 1曲￥150|
+|サークル|>|CENTER:スターライトトラベラー||
+|レーベル|>|CENTER:-|CENTER:KarenT|
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/id384415315]]}|
+
+**CD紹介
+-イリュージョナルな世界観に定評のあるスターライトP初のVOCALOIDアルバム。
+-既発表の4曲に加え、新曲4曲（うち1曲はインスト、もう1曲は「[[クリスマスオワタ＼(^o^)／ ]]」が原曲）を収録した全8曲。
+-アルバムタイトルの『スターライトトラベラー』には、「自分の音楽を聴いてもらって、色んな風景や景色、&br()または世界を旅してるように感じてもらえたら」（特設サイトより）という氏の思いが込められていると言う。
+-ジャケットは、動画でもコラボの多い[[ウタタネうた>>http://piapro.jp/oomi]]さん。
+-とらのあなで委託販売をおこなっていた。
+-2010年8月にはKarenTレーベルよりダウンロード販売が開始された。
+
+**曲目
++U make everything come 2 life　&color(red){NEW!}
++[[宇宙インフラストラクチャー]]
++[[七つ色バルール]]
++piece　（詞：sforza_t）　&color(red){NEW!}
++[[シェーマL>シェーマ/スターライトP]]
++[[ハニー]]
++始まる季節に　（原曲：[[クリスマスオワタ＼(^o^)／ ]]）　&color(red){NEW!}
++[[スターライトトラベラー]]　&color(red){NEW!}
+
+**リンク
+-[[「スターライトトラベラー」特設サイト>>http://infrastructure.web.fc2.com/]]
+-[[作者ブログ>>http://starlighttraveler.blog78.fc2.com/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/19/73/040010197342.html]]
+-[[KarenT：「スターライトトラベラー」>>http://karent.jp/album/482]]
+
+**コメント
+#comment

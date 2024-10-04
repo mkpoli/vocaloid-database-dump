@@ -1,0 +1,30 @@
+#right(){【登録タグ:&tags()】}
+//↑タグ忘れ防止のための表示
+曖昧さ回避のためのページ
+----
+-[[トマ豆腐]]の曲
+--[[SAKURA/トマ豆腐]]
+-[[レッドカードP]]の曲
+--[[Sakura/レッドカードP]]
+-[[Masayoshi_n]]の曲
+--[[sakura/Masayoshi_n]]
+-[[破P]]の曲
+--[[Sakura/破P]]
+-[[KeNY PLeeLY]]の曲
+--[[sakura/KeNY PLeeLY]]
+-[[空海月]]の曲
+--[[sakura/空海月]]
+-[[Clean Tears]]の曲
+--[[SAKURA/Clean Tears]]
+-[[南かのん]]の曲
+--[[sakura/南かのん]]
+
+----
+-VOCALOID音源
+--[[SAKURA/VOCALOID]]
+
+//-類似タイトル
+//-[[]]の曲
+//--[[]]
+
+#include(曖昧さ回避の追加の仕方/告知)

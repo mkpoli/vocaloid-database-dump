@@ -1,0 +1,26 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[STYLE.TUNE]]|CENTER:&bold(){Whereabouts of soul}|CENTER:[[wktk_hello>wktk Hello]]|
+
+|&bold(){[[SHUN]]}|
+
+発売：2009年5月17日
+価格：￥500
+流通：即売
+サークル：crow's-nest
+
+**CD紹介
+-THE VOC@LOiD M@STER 8（ボーマス8）で頒布された、SHUN氏のボーカロイドCD。
+-特典として鏡音リンの木札が付いていた。
+
+**曲目
++鬼騙り / 巡音ルカ
++[[匁 -whereabouts of soul->匁]] / 初音ミク
++口減らし / 鏡音リン&巡音ルカ
++ -匁- vocal off
+
+**リンク
+-[[STYLE.S（作者ホームページ）>>http://www.s-style.tv/wp/]]
+
+**コメント
+#comment

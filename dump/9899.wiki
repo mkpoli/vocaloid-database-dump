@@ -1,0 +1,39 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/284_20100418163402_0240_0240.jpg)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm10454425)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Time with you>Time with you/CD]]|CENTER:&bold(){AIMS}|CENTER:[[あなたのいる場所 -Important Place-]]|
+
+|&bold(){[[shu-tP]]}|
+
+発売：2010年5月4日
+価格：￥1,200 / 1曲￥150
+流通：配信
+レーベル：KarenT
+ジャケットイラスト：shu-t
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/aims/id368736662]]}|
+
+**CD紹介
+-『[[in the BOX]]』以来となるshu-tPのフルアルバム。
+-配信日はshu-tPの誕生日だったりする。
+
+**曲目
++[[AIMS]] （feat. MEIKO）
++[[SHADOW>SHADOW -dual M Style-]] （feat. MEIKO）
++[[@YOUR SIDE]] 2010 （feat. Big Al & Sweet Ann）
++GRADATION （feat. MEIKO）
++DELETE MEMORY （インスト）
++[[Flaps the wings>Flaps the Wings]] （feat. 巡音ルカ & Sweet Ann）
++[[Dream Grows]] （feat. 巡音ルカ）
++[[So Labyrinthine]] -SID2010 STYLE- （feat. 初音ミク）
++Aqua （feat. MEIKO）
++[[AIMS]] -Another STYLE- （feat. 鏡音リン）
+
+**リンク
+-[[KarenT：「AIMS」>>http://karent.jp/album/284]]
+
+**コメント
+#comment

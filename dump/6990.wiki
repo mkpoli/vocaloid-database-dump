@@ -1,0 +1,62 @@
+#right(){&furigana(めろねーと)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion 
+|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/7911904" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/7911904">【ニコニコ動画】めろねーど</a></iframe>)|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/18088959" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/18088959">【ニコニコ動画】めろねーど</a></iframe>)|
+
+**特徴
+作り手名：『&u(){メロネード(仮)}』(&u(){めろねーど})
+-&bold(){ぺティ・ドール(仮)}名義でも曲発表をしている。（本人から明言は無し）
+-ポップからバラードまで幅広くオリジナル曲を投稿する。
+-主な使用ボカロはKAITO。ミクやレン、リンを使った曲もある。
+-歌詞に定評のあるマスター（ニコニコ動画タグより）
+-本人いわく代表作は「[[リンカイ突破！！]]」。
+-実はドMらしいとかなんとか。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/my_page/?view=content&pid=anter]]
+
+**曲
+#list_by_tag(メロネード（仮）,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**曲
+#list_by_tag(メロネード（仮）CD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+#region(close,2008・2009)
+|&nicovideo(http://www.nicovideo.jp/watch/nm4240315)|&nicovideo(http://www.nicovideo.jp/watch/nm4324810)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm4388755)|&nicovideo(http://www.nicovideo.jp/watch/nm4520927)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm4584221)|&nicovideo(http://www.nicovideo.jp/watch/nm4708006)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm4869198)|&nicovideo(http://www.nicovideo.jp/watch/nm4926627)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm5070448)|&nicovideo(http://www.nicovideo.jp/watch/nm5481203)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm5620809)|&nicovideo(http://www.nicovideo.jp/watch/nm5817257)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm6045020)|&nicovideo(http://www.nicovideo.jp/watch/nm6164647)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm6164716)|&nicovideo(http://www.nicovideo.jp/watch/nm6525770)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm7086521)|&nicovideo(http://www.nicovideo.jp/watch/nm7348601)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm7464987)|&nicovideo(http://www.nicovideo.jp/watch/nm8020878)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm9087712)|
+#endregion
+|&nicovideo(http://www.nicovideo.jp/watch/nm9508019)|&nicovideo(http://www.nicovideo.jp/watch/nm9638904)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm10032557)|&nicovideo(http://www.nicovideo.jp/watch/nm11469914)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm12752912)|&nicovideo(http://www.nicovideo.jp/watch/nm12906343)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm15390560)|&nicovideo(http://www.nicovideo.jp/watch/nm16371058)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm22431249)|&nicovideo(http://www.nicovideo.jp/watch/nm22500610)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm24161542)|
+
+**関連タグ内の更新履歴
+#region(close,関連タグ内の更新履歴)
+関連タグ内の更新履歴
+※「メロネード（仮）」「メロネード（仮）CD」タグ内で最近編集やコメントのあった記事を新しい方から10件表示しています。
+#list_by_tagsearch(メロネード（仮）,メロネード（仮）CD,sort=timestamp,sort2=desc,errmsg=まだ曲、CDが登録されていません。,or,10)
+#endregion
+
+**コメント
+- ついに出来たか！作成者さま乙ですー  -- 名無しさん  (2009-10-27 23:44:26)
+- メロネード（仮）さんがついにできたとは・・・さりげなく好きです  -- 名無しさん  (2009-10-27 23:53:37)
+- ありがとうございます。これだけ曲を発表されてるのに、今までページが無かったのが不思議。  -- ＠作成者  (2009-10-28 00:55:58)
+- メロネード(仮)さん大好きです！  -- 名無しさん  (2009-12-06 00:48:38)
+//カラオケ入ればいいのに…！誘惑美人に全標つぎこむ日々です(笑)  -- 名無しさん  (2009-12-06 00:48:38)
+- （仮）のカッコが全角か半角か気になって仕方ない  -- 名無しさん  (2010-03-25 08:10:20)
+//ので、早くカラオケ投票で200位以内に入るべき  -- 名無しさん  (2010-03-25 08:10:20)
+#comment()

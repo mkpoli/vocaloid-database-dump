@@ -1,0 +1,69 @@
+#right(){&furigana(muhmue)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/13233002" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/13233002">【ニコニコ動画】</a></iframe>)
+
+**特徴
+作り手名：『&u(){muhmue}』(&u(){むーむー})
+-2009年6月、 『[[春風>春風/muhmue]]』 にてボカロデビュー。
+-知る人ぞ知るリンバラードの名手。バラード楽曲は心に響く、温かいものが多い。それらは「&bold(){むーバラ}」と呼ばれる。
+-バラードだけでなく、ポップスやディスコティックなサウンドにも定評がある。
+-最近は、「ぐみりんテクノポップの伝道師」となっている。
+-使用ボカロは今のところ、初音ミク・鏡音リン・鏡音レン・GUMI・蒼姫ラピス。
+-遂に『[[ケミカルエモーション]]』で悲願の殿堂入りを達成した。
+-楽曲のアートワークに関しては 絵師の eb氏 ・ [[夜宵]]氏 ・ [[華>n!ka]]氏 らが手掛けることが多い。
+
+**リンク
+//-[[office MUh MUE（作者ホームページ）>>http://www.geocities.jp/officemuhmue/index.html]]
+-[[5番街のむーむーエヴリデイ（作者ブログ）>>http://blog.livedoor.jp/muhmue/]]
+-[[PIAPRO>>http://piapro.jp/muhmue]]
+-[[Twitter>>http://twitter.com/muhmue]]
+-[[Youtube>>https://www.youtube.com/channel/UCVv4WaZ-26OdVN0FvA1Gg8w]]
+
+**曲
+#list_by_tagsearch(muhmue,sort=furigana2,errmsg=まだ曲が登録されていません。,and,100)
+
+**CD
+#list_by_tagsearch(muhmueCD,sort=furigana2,errmsg=まだCDが登録されていません。,and,100)
+
+**動画
+|>|BGCOLOR(#90ee90):COLOR(#FFF):CENTER:&font(b,11pt){オリジナル曲}|
+|&nicovideo(http://www.nicovideo.jp/watch/nm7462307)|&nicovideo(http://www.nicovideo.jp/watch/nm7504720)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm7544757)|&nicovideo(http://www.nicovideo.jp/watch/sm7606899)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7868290)|&nicovideo(http://www.nicovideo.jp/watch/sm7925484)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7962306)|&nicovideo(http://www.nicovideo.jp/watch/sm7962573)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm8038165)|&nicovideo(http://www.nicovideo.jp/watch/sm8162701)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm8365348)|&nicovideo(http://www.nicovideo.jp/watch/sm8494849)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm8640544)|&nicovideo(http://www.nicovideo.jp/watch/sm8922588)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9092075)|&nicovideo(http://www.nicovideo.jp/watch/sm9231607)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9335987)|&nicovideo(http://www.nicovideo.jp/watch/sm9575595)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9878083)|&nicovideo(http://www.nicovideo.jp/watch/sm10168147)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm10525795)|&nicovideo(http://www.nicovideo.jp/watch/sm11641482)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm11817782)|&nicovideo(http://www.nicovideo.jp/watch/sm12312211)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12824616)|&nicovideo(http://www.nicovideo.jp/watch/sm12998017)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm13477349)|&nicovideo(http://www.nicovideo.jp/watch/sm13754534)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm14555247)|&nicovideo(http://www.nicovideo.jp/watch/sm14751141)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm14861781)|&nicovideo(http://www.nicovideo.jp/watch/sm15005011)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm15201915)|&nicovideo(http://www.nicovideo.jp/watch/sm15800625)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm16366355)|&nicovideo(http://www.nicovideo.jp/watch/sm16606852)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm17248434)|&nicovideo(http://www.nicovideo.jp/watch/sm17574124)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm17635133)|&nicovideo(http://www.nicovideo.jp/watch/sm18145935)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm18206956)|&nicovideo(http://www.nicovideo.jp/watch/sm18979695)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm19735813)|&nicovideo(http://www.nicovideo.jp/watch/sm20199776)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm20323022)|&nicovideo(http://www.nicovideo.jp/watch/sm20385560)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm20878224)|&nicovideo(http://www.nicovideo.jp/watch/sm21216424)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm21281261)|&nicovideo(http://www.nicovideo.jp/watch/sm21956132)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm22293750)|&nicovideo(http://www.nicovideo.jp/watch/sm22675596)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm22765306)|&nicovideo(http://www.nicovideo.jp/watch/sm22871774)|
+
+**コメント
+- 鳥篭の中のマリアを最初に聴きましたが、そこからはまってほとんど聴いた。  -- 名無しさん  (2012-04-17 07:18:33)
+- ケミカルエモーション、大好きです！とても良い曲で、歌詞もハマります☆  -- モッツァレーラ  (2012-06-16 14:43:17)
+- muhmueさんはリンバラードの名手と言われるけど、なんでリン派と言わないのかな？  -- 名無しさん  (2012-08-26 19:48:16)
+- muhmueさんが持ってるのってＡＣＴ1のリンちゃんかな、それともＡＣＴ2のリンちゃんかな？  -- 名無しさん  (2012-09-14 14:57:18)
+- muhmueさんってかわいい絵を描く夜宵さんに動画作ってもらうことが多いけどかわいい絵を描く座敷ウサギさんとコラボで動画作ってもらうことになったらどんな動画になるのかな？  -- 名無しさん  (2012-09-14 15:17:04)
+- 愛脳サイノウ　という新曲が投稿されましたね  -- ぶどう美味しいよ！  (2014-03-19 18:53:30)
+- muhmueさんのGUMIリンテクノポップ曲大好きです。バラードも好きだけど・・  -- 名無しさん  (2015-11-27 13:13:35)
+#comment()

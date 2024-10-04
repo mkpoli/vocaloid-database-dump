@@ -1,0 +1,12 @@
+#right(){【登録タグ:&tags()】}
+//↑タグ忘れ防止のための表示
+曖昧さ回避のためのページ
+----
+-[[鮭P]]の曲
+--[[Last Smile/鮭P]]
+-[[564t]]の曲
+--[[Last Smile/564t]]
+-[[CROSS>CROSS/作り手]]の曲
+--[[Last smile/CROSS]]
+
+#include(曖昧さ回避の追加の仕方/告知)

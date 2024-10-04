@@ -1,0 +1,36 @@
+#right(){&furigana() &furigana()【登録タグ:&tags()】}
+#image(http://sls.amalet.com/data/banner01.png,title=Solesta!特設ページ,http://sls.amalet.com/,blank)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[羽糸]]|CENTER:&bold(){Solesta!}|CENTER:[[4 on the floor]]|
+
+|&bold(){[[Clean Tears]]}|
+
+発売：2009年8月15日
+価格：￥1,000（税込）
+流通：即売
+サークル：S.C.X
+
+**CD紹介
+-[[コミックマーケット76>>http://www.comiket.co.jp/]]にて頒布。[[Clean Tears]]によるボーカロイドCD第四段。プレスCD。
+-ニコニコ動画公開曲「[[tranquilizer]]」や、「[[Out of lies]]」、「[[It's me, It's you]]」等を含む全10曲収録。
+-「音をまとう、その彩り十人十色　10曲だけのミュージックガールズコレクション」がコンセプト。[[特設サイト>>http://sls.amalet.com/]]。
+
+**曲目
++[[Solesta!]]
++[[Out of lies]]
++ING
++Friends
++[[tranquilizer]]
++Techno distance
++Spiral
++[[It's me, It's you]]
++impure
++Ground sky 
+
+**リンク
+-[[S.C.X Homepage>>http://scx-ct.net/]]
+-[[Solesta!特設ページ>>http://sls.amalet.com/]]
+
+**コメント
+#comment

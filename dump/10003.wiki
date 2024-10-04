@@ -1,0 +1,29 @@
+#right(){&furigana(ゆみそら)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/14436138" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/14436138">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-2009年8月31日のミク誕に「[[Aimlessly / エイムレスリー>Aimlessly ／ エイムレスリー]]」と「[[ハイパーエステージア]]」でボカロ参入を果たした作り手。
+-肩書きは、作詞家・webデザイナー・プチ動画師・ボカロディレクター。
+-ユミソラは略称で、本来の名は「弓鳴 空怜（ユミナリ ソラ）」。
+-遂に「[[ロベリア／Lobelia]]」が殿堂入りという悲願を達成。益々今後の活躍が期待される。
+
+**リンク
+-[[ツキログ（作者ブログ）>>http://tukilog.jugem.jp/]]
+-[[Twitter>>https://twitter.com/YumiSora]]
+
+**曲
+#list_by_tag(ユミソラ,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(ユミソラCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm8090863)|&nicovideo(http://www.nicovideo.jp/watch/sm8092230)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm8412864)|&nicovideo(http://www.nicovideo.jp/watch/sm8521776)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm8649807)|&nicovideo(http://www.nicovideo.jp/watch/sm10748238)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12463736)|&nicovideo(http://www.nicovideo.jp/watch/sm16143431)|
+
+**コメント
+//- １番？やった！！
+- 曖昧セルフィッシュ好きですｗｗこれからも頑張ってください！！  -- 名無しさん  (2012-06-16 21:56:14)
+#comment()

@@ -1,0 +1,55 @@
+#right(){&furigana(みゅむP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/11502093" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/11502093">【ニコニコ動画】ミュームの作ったおんがく　（ミュムP）</a></iframe>)
+
+**特徴
+-2009年3月、「[[INNOCENT VIEW]]」にてボカロデビュー。
+-使用ボカロは今のところ、ミク・GUMI・りおん。
+-主にテクノポップ系の、明るく爽やかな曲を作る。
+-動画のイラストも稀に自分で描いたりしている。
+-アーティスト名は&bold(){ミューム}。
+-現在のP名はアーティスト名に由来する。かつては、うぇ～い♪P を名乗っていた時期もあった。 
+-インスト方面の投稿時の名義は「&bold(){W!λnw}」。通称 黒ミュム。
+-2009年11月18日、インスト曲メインで8曲を同時リリースするという 暴挙ｗ を成し遂げる。
+
+**リンク
+-[[アンドロメダ惑星基地（作者ホームページ）>>http://www.andromedapb.com/]]
+-[[Twitter>>http://twitter.com/miyum32]]
+-[[PIAPRO>>http://piapro.jp/miyu32]]
+-[[ミュムの耳（作者ブログ）>>http://blog.livedoor.jp/miyump/]]
+-[[ミュームの耳（作者旧ブログ）>>http://www.voiceblog.jp/miyum0302/]]
+-[[YouTube>>http://www.youtube.com/user/32miyum]]
+
+**曲
+#list_by_tag(ミュムP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(ミュムPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+***オリジナル曲
+|&nicovideo(http://www.nicovideo.jp/watch/sm7223721)|&nicovideo(http://www.nicovideo.jp/watch/sm6650226)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6770683)|&nicovideo(http://www.nicovideo.jp/watch/sm6886801)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7115386)|&nicovideo(http://www.nicovideo.jp/watch/sm7592010)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm8039237)|&nicovideo(http://www.nicovideo.jp/watch/sm8222588)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm8637400)|&nicovideo(http://www.nicovideo.jp/watch/sm8586138)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9114745)|&nicovideo(http://www.nicovideo.jp/watch/sm9764858)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm10056107)|&nicovideo(http://www.nicovideo.jp/watch/sm10522023)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm11216001)|&nicovideo(http://www.nicovideo.jp/watch/sm12018105)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12333509)|&nicovideo(http://www.nicovideo.jp/watch/sm13225114)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm13371828)|&nicovideo(http://www.nicovideo.jp/watch/sm14145866)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm14226346)|&nicovideo(http://www.nicovideo.jp/watch/sm17362707)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm17566297)|&nicovideo(http://www.nicovideo.jp/watch/sm18467423)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm18544972)|&nicovideo(http://www.nicovideo.jp/watch/sm18898409)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm19567942)|&nicovideo(http://www.nicovideo.jp/watch/sm20336482)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm21332745)|&nicovideo(http://www.nicovideo.jp/watch/sm23174723)|
+
+***カバー曲・アレンジ曲
+|&nicovideo(http://www.nicovideo.jp/watch/sm7763880)&br()原曲：[[Room 206]] / [[ジミーサムP]]|&nicovideo(http://www.nicovideo.jp/watch/sm8775728)&br()原曲：[[終わらないハンマー・タイム]] / [[おにゅうP]]|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9811884)&br()原曲：[[ハナウタ]] / [[ピノキオP]]||
+
+**コメント
+- 「ヽ(｡ゝω・｡)ﾉ うぇ～い♪」の頃から知ってるぜｗ  -- naoh  (2009-09-13 18:51:03)
+- 念願のwikiわほい！！　作ってくれてヽ(｡ゝω・｡)ﾉ うぇ～い♪  -- ミューム  (2009-09-18 16:48:13)
+- ミュムPサイコー！！うぉいぇい（ノ'◇'）ノ   って本人！！ｗ  -- victory☆  (2009-09-28 18:57:13)
+- みゅむううううううう  -- 名無しさん  (2010-10-08 16:11:21)
+#comment()

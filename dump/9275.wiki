@@ -1,0 +1,37 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&ref(http://www.gcmstyle.com/0/release/korumelts/image/soto01.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[RIN★MELTS]]|CENTER:&bold(){korumelts}|CENTER:[[RIN★MELTS 2 -ALIVE-]]|
+
+|&bold(){[[アンメルツP]]}|[[korumi]]|
+
+発売：2010年3月28日
+価格：￥500
+流通：即売
+サークル：G.C.M Records
+
+**CD紹介
+-THE VOCALOID PARADISE（ボーパラ）3で頒布する、アンメルツPのアルバム。
+-歌い手「korumi」との全面コラボレーション・アルバム。 
+
+**曲目
++[[ユメノカケラ>ユメノカケラ/アンメルツP]]
++Happy Happy Birthday
++[[幼馴染]]
++ユメノカケラ（korumi ver.）
++Happy Happy Birthday（korumi ver.）
++幼馴染（korumi ver.）
++ユメノカケラ（off vocal）
++Happy Happy Birthday（off vocal）
++幼馴染（off vocal）
++[[自分ということ]]（korumi ver.）
++ユメノカケラ -Epilogue Mix-
+
+**リンク
+-[[特設サイト>>http://www.gcmstyle.com/0/release/korumelts/]]
+-[[アンメルツPホームページ(G.C.M)>>http://www.gcmstyle.com/]]
+-[[korumiブログ>>http://ameblo.jp/korumi0901/]]
+
+**コメント
+#comment

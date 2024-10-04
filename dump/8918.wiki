@@ -1,0 +1,36 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/009_20091225191058_0240_0240.jpg)
+|&b(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/virtual-songs/id304876488]]}|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Gothic]]|CENTER:&bold(){Virtual Songs}|CENTER:[[Survivor -Manual Edit Ver.-]]|
+
+|&bold(){[[杏あめ（匿名希望の東京都在住）]]}|
+
+発売：2009年02月19日
+価格：￥900（税込）、１曲￥150（税込） 
+流通：配信
+レーベル：KarenT（クリプトン・フューチャー・メディア）
+イラスト：片腹痛士
+
+**CD紹介
+-杏あめ氏が2008年に発表したボカロオリジナル曲から10曲をセレクトした配信限定アルバム。
+
+**曲目
++[[Bravery]] (feat. 初音ミク)
++[[Burst!]] (feat. 初音ミク
++[[LiluLiLa]] (feat. 鏡音リン・レン）
++[[Traveler!]] (feat. 初音ミク)
++[[雨フリノチハ晴レ気分]] (feat. 初音ミク)
++[[オトメラブコメレンアイジジョウ]] (feat. 鏡音リン・レン)
++[[カ・ラ・フ・ル]] (feat. 初音ミク)
++[[マケナイワタシノコイノウタ]] (feat. 初音ミク)
++[[ユメロケッツ]] (feat. 初音ミク)
++[[ワタシラシクヲホコラシク]] (feat. 初音ミク)
+
+**リンク
+-[[ApricotCandy*（作者ブログ）>>http://anzutokumeikibou.blog96.fc2.com/]]
+-[[KarenT：Virtual Songs>>http://karent.jp/album/9]]
+
+**コメント
+#comment()

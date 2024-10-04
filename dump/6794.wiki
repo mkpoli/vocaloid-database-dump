@@ -1,0 +1,53 @@
+#right(){&furigana(へとはんP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/10018474" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/10018474">【ニコニコ動画】初音オリジナル</a></iframe>)
+
+**特徴
+作り手名：『&u(){ヘドバンP}』
+-ボカロPには数少ないパンクロックを制作するP。
+-P名は『[[ROCK‐LOCK HELLO↓]]』の動画で初音ミクがヘドバンを繰り返していたことに由来する。
+-フリーの音声合成ソフト&b(){Aquestone}を使用しており、&b(){小森マル}と呼んでいる。
+
+**リンク
+-[[作者ブログ>>http://sympathydiary.blog54.fc2.com/]]
+-[[PIAPRO>>https://piapro.jp/mal_kino]]
+-[[ニコニコ>>https://www.nicovideo.jp/user/6750783]]
+
+**曲
+#list_by_tag(ヘドバンP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(ヘドバンPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(nm5404204)|&nicovideo(nm5466313)|
+|&nicovideo(nm5553839)|&nicovideo(nm5699785)|
+|&nicovideo(sm5862309)|&nicovideo(nm6126132)|
+|&nicovideo(nm6274810)|&nicovideo(nm6509826)|
+|&nicovideo(nm6579765)|&nicovideo(nm6921651)|
+|&nicovideo(nm7036380)|&nicovideo(nm7160622)|
+|&nicovideo(nm7734740)|&nicovideo(nm7966214)|
+|&nicovideo(nm8290591)|&nicovideo(nm8424386)|
+|&nicovideo(nm8516385)|&nicovideo(nm8889616)|
+|&nicovideo(nm9080643)|&nicovideo(nm9469170)|
+|&nicovideo(nm9806034)|&nicovideo(nm10106633)|
+|&nicovideo(nm10161055)|&nicovideo(nm10494117)|
+|&nicovideo(nm11010795)|&nicovideo(nm11529722)|
+|&nicovideo(nm11870533)|&nicovideo(nm13016611)|
+|&nicovideo(nm13345371)|&nicovideo(nm13952411)|
+|&nicovideo(nm14680980)|&nicovideo(nm15456640)|
+|&nicovideo(nm15681734)|&nicovideo(nm15954407)|
+|&nicovideo(nm16373490)|>|
+
+**コメント
+- だいすきです  -- 名無しさん  (2009-12-04 19:58:19)
+- 埋もれていてはもったいない人。  -- 名無しさん  (2010-01-09 02:55:02)
+- まだまだ伸び代も未知数で、これからがすごく楽しみな人。すんげー好きです  -- 名無しさん  (2010-01-26 19:19:20)
+- 末永く愛する事を誓います。  -- 名無しさん  (2010-04-30 01:15:15)
+- 初めて聞いた時の衝撃といったら筆舌尽くしがたい！  -- 名無しさん  (2010-08-09 04:06:34)
+//- 誰かfool's basketの記事作ってくださいませんか…好きなのに記事無くてつらい  -- 名無しさん  (2011-09-12 21:29:06)
+//- ↑『[[fool's basket]]』作成しました。ヘドバンP大好き！  -- 名無しさん  (2011-09-13 10:15:01)
+#comment()

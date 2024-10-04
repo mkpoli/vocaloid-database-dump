@@ -1,0 +1,48 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+|配信版ジャケット&br()&ref(http://karent.jp/npdca/472_20100708155445_0240_0240.jpg)|
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Feel so easily]]|CENTER:&bold(){Dancing Love}|CENTER:[[恋のまみむめも作文♪>恋のまみむめも作文♪/CD]]|
+
+|&bold(){[[MineK]]}|
+
+||CENTER:即売|CENTER:同人|CENTER:配信|
+|発売|CENTER:2010年5月5日,5月9日|CENTER:2010年5月9日|CENTER:2010年7月31日|
+|価格|CENTER:￥1,000|CENTER:￥1,500（税込）|CENTER:￥1,200 / 1曲￥150|
+|サークル|>|CENTER:SUKIMONO||
+|レーベル|||CENTER:KarenT|
+|ジャケットイラスト|>|>|CENTER:[[トユ>>http://piapro.jp/akisamu12]]|
+
+|&bold(){[[とらのあなで購入する>>http://www.toranoana.jp/mailorder/article/04/0010/22/33/040010223313.html]]}|
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/dancing-love/id383590054]]}|
+
+**CD紹介
+-MineK氏初のCDアルバム。
+-メインは今までに発表したがくぽ曲と、更に新曲2曲とリミックス1曲（MEIKO）、全12曲が収録されている。
+-また、既発表曲もフルリメイクされている。
+-現在、とらのあなで委託販売が行われている。
+-がくっぽいど発売2周年記念でKarenTレーベルよりダウンロード販売が行われた。配信版では12曲目のリミックスが未収録となっている。
+
+**クロスフェードデモ
+|&nicovideo(nm10421728)|
+
+**曲目
++[[Destroyed World]]
++[[I miss you>I miss you/MineK]]
++[[Misty Sky]]
++[[Eternity Love]] 
++Happy New Life　（新曲）
++[[Lighthouse]] 
++[[Dancing Love]]　（新曲）
++[[Midnight Gravity]]
++[[Destiny Love]] 
++[[Missing Love]]
++[[Heart of you]] 
++[[Love Passion -club mix->Love Passion]]　（リミックス・配信版には未収録）
+
+**リンク
+-[[特設ページ＠とらのあな>>http://www.toranoana.jp/mailorder/cit/pagekit/0000/00/03/000000036395/index.html]]
+-[[KarenT：「Dancing Love」>>http://karent.jp/album/472]]
+-[[KarenT：「がくっぽいど2周年記念祭」特集ページ>>http://karent.jp/special/gackpoid10]]
+
+**コメント
+#comment

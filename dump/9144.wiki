@@ -1,0 +1,38 @@
+#right(){&furigana(ぷちりずむ) &furigana()【登録タグ:&tags() 】}
+#image(http://blog-imgs-32.fc2.com/r/i/n/rinkawaii1/pr_bn.jpg,title=プチリズム,blank) 
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186114695.jpg,x=300,y=300)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[LOLI RHYTHM]]|CENTER:&bold(){プチリズム}|CENTER:-|
+
+|&bold(){[[かたほとりP]]}|
+
+発売：2009年12月30日
+価格：￥500
+流通：即売
+サークル：ポヤッチオ
+
+>作詞・作曲：&b(){[[かたほとりP]]}
+>ジャケットイラスト：&b(){[[藤沢えいる>>http://www.pixiv.net/member.php?id=319407]]}
+>ゲストボーカル：&b(){[[ココ>>http://www.geocities.jp/nyokikoko/]]([[InnocentKey>>http://movieplanet.dyndns.org/~Innocent_Key/]]),[[ななひら>>http://77hira.jugem.jp/]],[[内緒妹>>http://dic.nicovideo.jp/a/%E5%86%85%E7%B7%92%E5%A6%B9]]}
+
+**CD紹介
+-かたほとりPの&bold(){ロリジナル}アルバム。
+-新曲に既存曲のカバーを加えた全7曲を収録。
+-制作に時間を割けなかったことから、手焼きのCD-Rでイベントのみ・少数のみの頒布となった。委託はされていない。
+
+**曲目
++オープニング　月読アイ
++いいからトマト食え（フルver.）　ココ
++カナザワカレー　ななひら
++かたおもい。（フルver.）　内緒妹＆ななひら
++私の想いは君には届かない　鏡音リン
++かるあみるく☆せんせーしょん　ななひら
++かたおもい。（フルver.）　月読アイ＆鏡音リン
+
+**リンク
+-[[作者ホームページ（HOT SPOT）>>http://www.orc2000.com/]]
+
+**コメント
+#comment

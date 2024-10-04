@@ -1,0 +1,37 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/166_20100106173640_0240_0240.jpg)
+
+|&b(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/sigh-ep/id350735849]]}|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[白い黒]]&br()[[01>01/CD]]|CENTER:&bold(){Sigh-EP}|CENTER:[[いいこわるいこ>いいこわるいこ/CD]]|
+
+|&bold(){[[kous]]}|
+
+発売：2010年1月30日
+価格：￥600、1曲￥150 
+流通：配信
+レーベル：KarenT（クリプトン・フューチャー・メディア） 
+
+作詞・作曲：&bold(){[[kous]]}
+イラスト：&bold(){[[hie>>http://hieeeee.blog46.fc2.com/]]}
+
+**CD紹介
+-kous初となるオンライン配信作品。巡音ルカ発売1周年を記念して配信された作品の1つ。
+-kous代表曲である「[[タメイキ]]」がmix違いで2曲、2枚目のフルアルバム『[[いいこわるいこ>いいこわるいこ/CD]]』から2曲、計4曲からなるミニアルバム。
+-アルバム名の「Sigh」は日本語でタメイキ。バージョン違いの「[[タメイキ]]」が2曲入っていることから命名。
+
+**曲目
++[[タメイキ]]
++[[いいこわるいこ]]
++おやすみ。
++タメイキ -waruiko Mix-
+
+**リンク
+-[[KarenT：『Sigh-EP』のページ>>http://karent.jp/album/166]]
+-[[KarenT：『kous』のページ>>http://karent.jp/artist/pp000152]]
+-[[KarenT：『巡音ルカ聖誕祭’10』特集ページ>>http://karent.jp/special/luka10]]
+-[[iTunes Store：『kous』のページ>>http://itunes.apple.com/jp/artist/kous/id350735855]]
+
+**コメント
+#comment

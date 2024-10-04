@@ -1,0 +1,44 @@
+#right(){&furigana(りとるP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/8375920" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/8375920">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-現在、最年少と噂されているPである。(2010/2/11時点で11歳)
+-小学生らしい可愛らしい歌詞を書く。
+-調声もなかなか上手い。
+
+**リンク
+-[[リト日記（作者ブログ）>>http://littlep39.blog.fc2.com/]]
+
+**曲
+#list_by_tag(リトルP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(リトルPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm4630883)|&nicovideo(http://www.nicovideo.jp/watch/sm5024226)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5165432)|&nicovideo(http://www.nicovideo.jp/watch/sm5631202)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6671588)|&nicovideo(http://www.nicovideo.jp/watch/sm8059380)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9672140)|&nicovideo(http://www.nicovideo.jp/watch/sm12429249)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm13948434)|&nicovideo(http://www.nicovideo.jp/watch/sm15793297)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm15793456)||
+
+**コメント
+- 特徴の欄が何だか上から目線な感じになってしまって申し訳ねぇ・・・  -- 名無しさん  (2010-02-12 00:37:21)
+- 10才の時点でボーカロイドを知ってる事自体すげぇ‥‥  -- 名無しさん  (2010-02-12 02:19:36)
+- これってホントなのかよ‥‥‥  -- 名無しさん  (2010-02-12 02:38:04)
+- Pのみんな、追い越されないようにするんだぞ  -- 名無しさん  (2010-02-12 08:57:46)
+- 動画が追加されてるよ　ttp://www.nicovideo.jp/watch/sm12429249  -- 名無しさん  (2010-10-16 00:11:36)
+- いつ追い越されるかヒヤヒヤです  -- 名無しさん  (2010-10-16 02:51:13)
+- リトルP卒業のようです。　ttp://www.nicovideo.jp/watch/sm13948434  -- 名無しさん  (2011-03-28 13:52:56)
+- お父様、親バカらしいですよ(笑  -- 色々乙ｗ  (2011-07-16 22:08:54)
+//- オイラ現在９歳だが、ボカロのミクを本気で買うか迷ってる。
+- お父さんボカロPとか羨ましい  -- 名無しさん  (2011-07-29 21:02:13)
+- ハッピーハロウィンのロングバージョンと、コラボ作品がうpされたよ！  -- 名無しさん  (2011-10-05 22:18:44)
+- うん…可愛いし、小学生らしいね。もっと本格的に作って欲しかった。  -- ゆっちゃん♪  (2012-08-25 16:27:51)
+//- 私は結構作詞作曲してるけどボカロ持ってないしうｐ出来なくて淋しい。ちなみに今小6.。大人くさい歌詞かもしれませんｗハチさんや40mpさんなどに憧れてる。  -- ゆっちゃん♪  (2012-08-25 16:27:51)
+//- 僕今現在12歳で鏡音リンレンもってる  -- 名無しさん  (2013-01-05 21:22:14)
+//- 僕11歳作詞作曲してるけどソフトもってねーｗｗ  -- きい  (2013-02-17 14:17:06)
+- すご！！  -- みくたま  (2013-04-15 10:47:43)
+//- 自慢大会かっつの  -- 名無しさん  (2014-06-24 23:30:15)
+#comment()

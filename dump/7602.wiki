@@ -1,0 +1,47 @@
+#right(){&furigana(きたもりけきしょう)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/15682861" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/15682861">【ニコニコ動画】北森劇場公演案内</a></iframe>)|
+
+**特徴
+作り手名：『&u(){北森劇場}』(&u(){きたもりげきじょう})
+-[[北森耕太郎]]（作詞）・[[律]]（作曲・編曲）・[[タクマ]]（作曲・編曲）・[[吹島サスロー]]（作曲・編曲）・[[でな]]（作曲・編曲）・[[cao]]（作画）・[[ありさ]]（ライブボーカル）の7人組コラボ。
+-代表作でもある「[[心中じゃぱねすく]]」がユニット結成のきっかけとなった。
+-流血、ほのぼの、エロスと幅広いジャンルの曲が特徴。
+-酒豪揃いとの噂である。
+
+**リンク
+//-[[北森劇場会議室>>https://com.nicovideo.jp/community/co212659]]（ニコ生コミュニティ）
+//-[[北森劇場>>https://piapro.jp/collabo/?id=11652]]（PIAPRO）
+-[[言葉遊び日記>>http://kitamorilyric.blog130.fc2.com/]]（北森耕太郎ブログ）
+-[[なんかつくろう>>http://artisritsu.blog18.fc2.com/]]（りつブログ）
+-[[のちら>>http://caopig.web.fc2.com/]]（caopigブログ）
+
+**曲
+#list_by_tagsearch(北森劇場,sort=furigana2,errmsg=まだ曲が登録されていません。,and,100)
+
+**CD
+#list_by_tagsearch(北森劇場CD,sort=furigana2,errmsg=まだCDが登録されていません。,and,100)
+
+**動画
+&bold(){オリジナル曲}
+|&nicovideo(sm7792239)|&nicovideo(sm8691892)|
+|&nicovideo(sm8432098)|&nicovideo(sm9024383)|
+|&nicovideo(sm9668357)|&nicovideo(sm42569269)|
+|&nicovideo(sm43980124)|>|
+
+**関連タグ内の更新履歴
+#region(close,関連タグ内の更新履歴)
+関連タグ内の更新履歴
+※「北森劇場」「北森劇場CD」タグ内で最近編集やコメントのあった記事を新しい方から10件表示しています。
+#list_by_tagsearch(北森劇場,北森劇場CD,sort=timestamp,sort2=desc,errmsg=まだ曲、CDが登録されていません。,or,10)
+#endregion
+
+**コメント
+- ピアプロコラボの正しい使い方  -- 名無しさん  (2009-12-08 23:16:14)
+- 酒豪揃いって怖いなｗｗ  -- 名無しさん  (2009-12-09 04:09:44)
+- バランスがいい  -- 名無しさん  (2011-02-21 01:43:47)
+- 酒豪揃いｗｗｗｗｗ  -- 名無しさん  (2011-11-17 07:01:22)
+#comment()

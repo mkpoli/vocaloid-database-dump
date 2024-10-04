@@ -1,0 +1,40 @@
+#right(){&furigana(はいぱーかうんとだうん！) &furigana()【登録タグ:&tags() 】}
+//&ref(http://aquastream.web.fc2.com/hcdjacket.jpg)
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186127714.jpg,x=300,y=300)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[七つ星>七つ星/CD]]|CENTER:&bold(){はいぱーかうんとだうん！}|CENTER:[[冬空>冬空/CD]]|
+
+|&bold(){[[初心P]]}|
+
+発売：2008年9月23日
+価格：￥500
+流通：即売
+サークル：aquastream
+
+**CD紹介
+-aquastream 2nd CD
+-全曲ニコニコに上がっているものからバランス調整をしている。
+-Tr.1『はいぱーかうんとだうん！』は間奏部にShort版のセリフが入っている。
+-Tr.5『今日という日を心に留めて』は、ピアノ伴奏ver.で、ニコニコに投稿されたものとは異なる。
+
+**曲目
++[[はいぱーかうんとだうん！]]
++[[アクアマリン -aquamarine-]]
++[[Type ACT.2！ ～新しいセカイへ～]]
++[[草原の風 -le lufali flalo-]]
++[[今日という日を心に留めて]]
++はいぱーかうんとだうん！レンver.（short size）
++草原の風 -Another-
++はいぱーかうんとだうん！ -instrumental-
++アクアマリン -instrumental--
++Type ACT.2！ -instrumental-
++草原の風 -instrumental-
+
+**リンク
+-[[特設サイト>>http://aquastream.web.fc2.com/2ndcd.html]]
+-[[作者サイト（aquastream）>>http://aquastream.web.fc2.com/]]
+
+**コメント
+#comment

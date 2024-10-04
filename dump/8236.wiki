@@ -1,0 +1,49 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/114_20091225201556_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[カプセル>カプセル/CD]]|CENTER:&bold(){Volatile}|CENTER:[[非対称ARTs]]&br()[[ヘクトパステル]]（束子P）&br()[[Sailing to Hope]]（バルP）|
+
+|&bold(){[[束子P]]}|&bold(){[[バルP]]}|
+
+||CENTER:即売|CENTER:同人|CENTER:配信|
+|CENTER:発売|CENTER:2009年9月6日|CENTER:2009年9月|CENTER:2009年11月11日|
+|CENTER:価格|CENTER:￥1,000（税込）|CENTER:￥1,260（税込）|CENTER:￥1,200/ 1曲￥150|
+|CENTER:サークル|>|>|CENTER:AVALON|
+|CENTER:レーベル|>|CENTER:-|CENTER:KarenT|
+
+作詞・作曲：&bold(){[[バルP]]、[[束子P]]}
+イラスト：&bold(){[[久楽>>http://piapro.jp/kutara]]}
+
+|&bold(){[[とらのあなで購入する>>http://www.toranoana.jp/mailorder/article/04/0010/19/70/040010197039.html]]}|
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/volatile/id338077737]]}|
+
+**CD紹介
+-束子PとバルPが前作に続き製作したコンピレーションCD。
+-ボーマス9で頒布、現在は「とらのあな」で委託販売。
+-KarenTよりダウンロード販売も行われている。
+
+**曲目
++[[Another Tune]] / 束子P
++[[グレア>グレア/バルP]] / バルP
++未来空想 / バルP　&color(red){NEW!}
++Vertical / 束子P　&color(red){NEW!}
++逆さまのパズル / バルP　&color(red){NEW!}
++神々の島 / バルP　&color(red){NEW!}
++[[わすれもの>わすれもの/束子P]] / 束子P
++Another Tune (Instrumental)
++グレア (Instrumental)
++未来空想 (Instrumental)
++Vertical (Instrumental)
++逆さまのパズル (Instrumental)
++神々の島 (Instrumental)
++わすれもの (Instrumental)
+
+**リンク
+-[[(亀の子)束子とバル(サン)のCD情報>>http://sound.jp/philosophy/ava/]]
+-[[KarenT>>http://karent.jp/album/114]]
+-[[KarenT「バルP&束子P」>>http://karent.jp/artist/pp000100]]
+
+**コメント
+- たわしP大好き！愛してる！  -- 名無しさん  (2010-03-06 13:50:46)
+#comment

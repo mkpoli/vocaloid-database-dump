@@ -1,0 +1,54 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&ref(http://twinkledisc.net/blog/wp-content/uploads/2010/04/relations_mid.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Prism feat.鏡音リン]]|CENTER:&b(){Relations}|CENTER:[[DigiStyling]]|
+
+|&bold(){[[シグナルP]]}|[[花束P]]|[[orange>orange/作り手]]|[[オレP]]|
+
+||CENTER:即売|CENTER:同人|
+|CENTER:発売|CENTER:2010年5月9日|2010年5月9日|
+|CENTER:価格|CENTER:￥1,000|CENTER:￥1,260|
+|CENTER:サークル|>|CENTER:twinkledisc|
+
+>作詞：&b(){[[Dios/シグナルP>シグナルP]](Tr.1,11,14),Chisato(Tr.2,9),[[orange>orange/作り手]](Tr.3,10),nosuke(Tr.4),Shino(Tr.7),もっちりオヤジ(Tr.5,8),[[オレP]](Tr.12),Miharu(Tr.13),[[花束P]](Tr.15)}
+>作曲：&b(){[[Dios/シグナルP>シグナルP]],[[花束P]](Tr.15)}
+>ジャケットイラスト：&b(){[[田村ヒロ>>http://star198.gozaru.jp/]]}
+
+**CD紹介
+-Dios/シグナルP通算5枚目となるVOCALOID-CD。フルアルバムとしては『[[DioSignal]]』以来１年ぶりの新作となる。
+-THE VOC@LOiD M@STER 12（ボーマス12）で頒布される。
+-これまでリリースしてきたCDアルバム『[[SIGNALOID ALBUM]]』『[[SIGNALOID SOUNDS]]』『[[DioSignal]]』の廃盤にあわせ、これら３作からベスト盤チックに抜粋して収録したアルバム。
+-全15曲収録。15曲目「[[エキストラ]]」は、[[花束P]]の楽曲のアレンジバージョンとなる。
+-当CD製作に当たり、「DSDリマスタリング」を経て更に高音質になっているとのこと。[[詳細はブログにて>>http://twinkledisc.net/blog/?p=618]]。
+-上記ブログ記事で、クロスフェード音源を試聴することが出来る。
+-なお、このCDの９曲目にて、シグナルPのGUMIが初お披露目される。
+
+**曲目
++[[Transmit]]（リン）
++[[Time&Space]]（リン）
++[[サンドリヨン>サンドリヨン（Cendrillon）]]（ミク＆KAITO）
++[[CHU！して！]]（リン）
++[[革命>革命/シグナルP]]（ルカ）
++Repeated Regret（リン）
++[[ラビリンス>ラビリンス/シグナルP]]（リン）
++[[TABOO>TABOO/シグナルP]]（ミク）
++[[桜舞う日]]2010（GUMI）
++[[アドレサンス>アドレサンス（Adolescence）]]（リン＆レン）
++[[Overcome]]（レン）
++[[Step and Go!]]（リン）
++[[ライバル>ライバル/シグナルP]]（リン）
++[[リンリンシグナル]]（リン＆レン）
++[[エキストラ]]（リン）
+
+**リンク
+-[[Dios/シグナルPブログ>>http://twinkledisc.net/blog.htm]]
+-[[田村ヒロブログ>>http://star198.gozaru.jp/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/22/01/040010220156.html]]
+-[[D-STAGE>>http://d-stage.com/shop/detail.php?seq=11392]]
+
+**コメント
+- とらのあなで買いました!!買って良かったと感激しました!!シグナルPのＣＤ持ってないひとはぜひ買うべきですo(^o^)o1260円だしお得♪  -- リサ  (2010-05-13 08:01:22)
+- 私もこのCDとらのあなで買った！収録曲と田村ヒロさんのジャケットイラストがやばくてｗｗ  -- こんにちは  (2012-03-31 01:04:02)
+- ↑うっそーーーーーーーーーーーー！！！、この曲に入ってる「アドレサンス」欲しい！  -- 良太  (2014-07-28 22:52:45)
+#comment

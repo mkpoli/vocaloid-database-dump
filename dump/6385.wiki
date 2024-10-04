@@ -1,0 +1,22 @@
+#right(){&furigana(mas)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/11272469" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/11272469">【ニコニコ動画】初音ミクオリジナル曲</a></iframe>)
+
+**特徴
+作り手名：『&u(){mas}』(&u(){ます})
+-曲時間が短いものが多い（3分以下多数）
+-失恋をテーマにした歌詞が多い
+-kannと言う女性（バンドメンバー？友人？）に、投稿曲を歌って貰ったものもアップロードしている
+-ロック系楽曲多し
+
+**曲
+#list_by_tag(mas,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**最新動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm12443440)|
+**コメント
+- 帰ってきてください...  -- 名無しさん  (2023-07-26 13:22:53)
+#comment()

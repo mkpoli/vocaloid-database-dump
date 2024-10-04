@@ -1,0 +1,41 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[赤い実はじけた／えもラブ]]|CENTER:&bold(){Story}|CENTER:[[Crime]]|
+
+|&bold(){[[samfree]]}|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2009年9月6日|CENTER:2009年10月6日|
+|価格|CENTER:￥1,000|CENTER:￥1,470(税込)|
+|サークル|>|CENTER:Nation One|
+
+**CD紹介
+-[[SAM>samfree]]さんのボーカロイドCDアルバム第三弾。
+--「Nation One」としては『[[Missing>Missing/CD]]』以来1年以上ぶりのフルアルバム。
+-殿堂入りを含む既発表曲に新曲を含めた全10曲を収録。
+--「Overture」は「[[闇色アリス>闇色アリス/samfree]]」をオーケストラ風にアレンジしたインスト曲。
+-ボーマス9にて初頒布。10/6よりとらのあな等で委託販売が行われている。
+
+**曲目
++Overture &color(red){New!}
++[[闇色アリス>闇色アリス/samfree]]
++Story &color(red){New!}
++[[赤い実はじけた]]
++[[ルカルカ★ナイトフィーバー]]
++[[たこルカ★マグロフィーバー]]
++[[えもラブ]]
++[[桜舞う　今]]
++星空の下で &color(red){New!}
++[[メグメグ☆ファイアーエンドレスナイト]]
+
+**リンク
+-[[Nation One official web>>http://nationone.jp/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/19/72/040010197245.html]]
+-[[D-STAGE>>http://d-stage.com/shop/detail.php?seq=10951]]
+-[[メッセサンオー>>http://www.doujinshop.com/doujin/user_top.cgi?type=music&strings=cd02599]]
+
+**コメント
+- 通販始まりましたね。にしてもイイ曲ばかりだ…  -- 名無しさん  (2009-09-26 06:43:58)
+- ニコニコ未発表曲の「星空の下で」が神曲でした・・・  -- 名無しさん  (2010-01-07 01:25:28)
+- これは正に捨て曲無しのアルバムかつ完成度が高い。  -- 名無しさん  (2012-11-11 08:52:31)
+#comment

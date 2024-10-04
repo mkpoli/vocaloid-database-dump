@@ -1,0 +1,51 @@
+#right(){&furigana(めばえいずむ) &furigana()【登録タグ:&tags() 】}
+//&ref(http://bnfactory.web.fc2.com/mebaeism/jacket.jpg)
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186121728.jpg,x=300,y=300)
+
+#image(http://bnfactory.web.fc2.com/mebaeism/mebae_banner.jpg,http://bnfactory.web.fc2.com/mebaeism/,title=めばえいずむ -mebaeism-,blank)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){めばえいずむ-mebaeism-}|CENTER:&bold(){[[ふゆこいボックス]]}|
+
+|&bold(){[[とらのあなで購入する>>http://www.toranoana.jp/mailorder/article/04/0010/19/92/040010199249.html]]}|
+
+|&bold(){[[イトカワP]]}|
+
+||CENTER:即売|CENTER:同人|
+|CENTER:発売|>|CENTER:2009年9月6日|
+|CENTER:価格|CENTER:￥500|CENTER:￥751（税込）|
+|CENTER:サークル|>|CENTER:Bright Note Factory|
+
+**CD紹介
+-これまで発表してきた曲を中心にまとめ上げた、イトカワPのアルバム。
+-通常アルバムとチップチューンコンセプトCDの2枚組構成。
+-ボーマス9で発表され、現在とらのあなで委託販売が行われている。
+
+**曲目
+Disc1　メバエイズム
++ Prologue -instrumental-
++ [[メバエイズム]]
++ [[トモエ>トモエ/イトカワP]]
++ [[なつぐも　～On her way to his home～]]
++ [[スイーツ・ぷり～ず！]]
++ [[ゆうやけワンダー]]
++ 歩いていこうよ
++ [[とある少女のツン日記]]
++ 夏雲 ～After story～ ＜bonus track＞
+
+Disc2　とある二人の・・・
++ 目覚まし時計のワルツ
++ Life is Like a Merry-Go-Round !!
++ なつぐも (8bit Ver.)
++ バーゲンクライシス
++ スイーツ・ぷり～ず！ (8bit Ver.)
++ 冒険の終わり
++ 魔法のフライパン
+
+**リンク
+-[[作者サイト>>http://bnfactory.web.fc2.com/index.html]]
+-[[特設サイト>>http://bnfactory.web.fc2.com/mebaeism/]]
+
+**コメント
+#comment

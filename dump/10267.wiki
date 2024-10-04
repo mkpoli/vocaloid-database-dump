@@ -1,0 +1,33 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/363_20100526092550_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[DYE_2]]|CENTER:&bold(){Six Under UG}|CENTER:[[69>69/CD]]&br()[[CABA]]|
+
+|&bold(){[[AVTechNO]]}|
+
+発売：2010年6月9日
+価格：￥300 / 1曲￥150
+流通：配信
+レーベル：KarenT
+ジャケットイラスト：[[和音>>http://piapro.jp/dot37]]
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/six-under-ug/id375645674]]}|
+
+**CD紹介
+-AVTechNO氏の配信シングル。
+-「[[6>6/AVTechNO]]」のリミックス2曲を収録している。
+-2曲目の「6_UGL」ではボーカルに氏の作品ではおなじみの絵師・和音 氏を起用している。
+-人の声が使われているため、ジャケットイラストではVOCALOIDではなくオリジナルキャラクターが描かれている。
+
+**曲目
++6_ug （feat. 巡音ルカ）
++[[6_UGL feat. 和音>>http://www.youtube.com/watch?v=4Ee2ZOGgpDw]]
+
+**リンク
+-[[KarenT「Six Under UG」>>http://karent.jp/album/363]]
+-[[作者サイト>>http://avtechno.ukime.org/]]
+
+**コメント
+- UGはアンダーグラウンドって意味かな？このバージョンがアレンジのいいとこ取りって感じで一番すき！  -- 名無しさん  (2013-11-24 16:13:35)
+#comment

@@ -1,0 +1,36 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/017_20091225191924_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Infinity]]|CENTER:&bold(){STYLE.TUNE}|CENTER:[[Whereabouts of soul]]|
+
+|&bold(){[[SHUN]]}|
+
+流通：配信
+発売：2009年4月7日
+価格：￥900 / 1曲￥150
+レーベル：KarenT
+ジャケットイラスト：おにねこ
+名義：[[SHUN P>>http://karent.jp/artist/pp000025]]
+
+**CD紹介
+-SHUN氏初のダウンロード販売限定アルバム。
+-これまでに公開された曲を中心に、未発表曲も収録した全8曲。
+
+**曲目
++[[THINK HOPE>Think Hope]] (feat. 巡音ルカ)
++[[憎悪の欲望]] (feat. 初音ミク)
++[[匁-whereabouts of soul->匁]] (feat. 初音ミク)
++[[CURSED　PAIN>Cursed Pain]] (feat. 初音ミク)
++[[MIND ERROR>Mind-Error]] (feat. 初音ミク)
++[[ETERNAL DANCER>Eternal Dancer]] (feat. 初音ミク)
++[[INFINITY>Infinity]] (feat. 巡音ルカ)
++[[捨猫ロシアンブルー>捨猫Russian Blue]] (feat. 鏡音リン)
+
+**リンク
+-[[STYLE.S公式サイト>>http://www.s-style.tv/wp/]]
+-[[KarenT『STYLE.TUNE』>>http://karent.jp/album/17]]
+-[[KarenT『SHUN P』>>http://karent.jp/artist/pp000025]]
+
+**コメント
+#comment()

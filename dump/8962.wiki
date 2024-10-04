@@ -1,0 +1,42 @@
+#right(){&furigana(せつなまじっく) &furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/208_20100201055833_0240_0240.jpg)
+&nicovideo(http://www.nicovideo.jp/watch/sm9691069)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){刹那魔術（セツナ・マジック）}|CENTER:-|
+
+|&bold(){[[刹那P]]}|
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/id353742976]]}|
+
+流通：配信
+発売：2010年2月17日
+価格：￥1,200（全曲）/ ￥150（1曲）
+レーベル：KarenT
+ジャケットイラスト：[[うじゅじゅ>>http://piapro.jp/uniuni0910]]
+
+**CD紹介
+-KAITOの使い手の一人として名を馳せる「刹那P」の1stアルバム。
+-KAITO生誕4周年を記念して、KarenTレーベルより配信された。
+-代表曲「[[悪魔降臨]]」「[[仮面舞踏会]]」「[[Science]]」を収録した、KAITOメインの渾身の一枚。
+-作者のブログにアルバムに関する解説が掲載されている。
+
+**曲目
++[[Science（サイエンス）>Science]] (feat. KAITO & 初音ミク)
++[[悪魔降臨]] (feat. KAITO)
++運命（さだめ） (feat. KAITO & 初音ミク)
++Loneliness (feat. KAITO & 初音ミク)
++Struggler (feat. KAITO)
++[[魔神再臨]] (feat. KAITO)
++[[仮面舞踏会]] (feat. 初音ミク&KAITO)
++[[Saturday Night]] (feat. KAITO)
++[[Love Again]] (feat. KAITO & 初音ミク)
++夜想曲（セレナーデ） (feat. KAITO)
+
+**リンク
+-[[作者ブログでのアルバム紹介>>http://setsunap.blog69.fc2.com/blog-entry-27.html]]
+-[[KarenT：「刹那魔術（セツナ・マジック）」>>http://karent.jp/album/208]]
+-[[KarenT：「KAITO誕生祭'10」特集ページ>>http://karent.jp/special/kaito10]]
+
+**コメント
+#comment

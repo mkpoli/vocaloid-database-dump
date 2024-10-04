@@ -1,0 +1,27 @@
+#right(){&furigana(わーるどあうとさいど　ふたりのにじ) &furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/220_20100228034728_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[ECHOES>ECHOES/CD]]|CENTER:&bold(){ワールドアウトサイド/二人の虹}|CENTER:[[すべてが終わってしまう前に]]|
+
+|&bold(){[[arata]]}|
+
+発売：2010年3月17日
+価格：￥300 / 1曲150円
+流通：配信
+レーベル：KarenT
+
+|&bold(){[[iTunes Storeで購入>>http://itunes.apple.com/jp/album/id360102437]]}|
+
+**CD紹介
+-arataが作詞作曲した初音ミク視点の歌「ワールドアウトサイド」「二人の虹」を２曲、両Ａ面シングルとしてまとめました。
+
+**曲目
++[[ワールドアウトサイド]] （feat. 初音ミク）
++[[二人の虹]] （feat. 初音ミク）
+
+**リンク
+-[[KarenT：「ワールドアウトサイド / 二人の虹」>>http://karent.jp/album/220]]
+
+**コメント
+#comment

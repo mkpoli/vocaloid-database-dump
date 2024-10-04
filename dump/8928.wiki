@@ -1,0 +1,38 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186115524.jpg,x=300,y=300)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){にこにこ}|CENTER:-|
+
+|&bold(){[[ひつじP]]}|
+
+流通：即売
+発売：2009年9月6日
+価格：￥500
+サークル：hitsuji
+
+**CD紹介
+-ひつじPによるオリジナルアルバム。ボーマス9で発表され、スPの「[[Cat of another world]]」と一緒に頒布された。
+-ジャケットイラストは[[時田]]氏と[[0310]]氏の共作。ひつじP本人も大のお気に入りらしい。
+-「ロックなのにロックじゃない」という評のように、とてもか細くゆったりとした音が奏でられる。しかしその一方で芯が一本通ったような確固たる世界観を築き上げており、聴き終わった後もリスナーを多幸感で包み込む。
+-特設サイトや試聴用デモの類は(執筆者が探した限りでは)見つからない。なので、曲タイトルから動画へアクセスし(直リンしてある)、その音の片鱗を感じ取って欲しい。
+
+**曲目
++[[透明な花>>http://www.nicovideo.jp/watch/nm3535545]]
++[[頭の中>>http://www.nicovideo.jp/watch/nm4220286]]
++[[忘れた昨日>>http://www.nicovideo.jp/watch/nm4638081]]
++[[不透明な水>>http://www.nicovideo.jp/watch/nm3695995]]
++[[4本足の夢>>http://www.nicovideo.jp/watch/nm4042625]]
++[[嫌われた？>>http://www.nicovideo.jp/watch/nm6896431]]
++[[けんか>>http://www.nicovideo.jp/watch/nm6640367]]
++[[にこにこ>>http://www.nicovideo.jp/watch/sm1342066]] ← 大幅に修正されている
++[[かなしみ>>http://www.nicovideo.jp/watch/nm7299040]]
++[[ふたりのたべもの>>http://www.nicovideo.jp/watch/nm5211793]]
++[[焦げた世界>>http://www.nicovideo.jp/watch/nm3960528]]
++羊の親子
+
+
+
+**コメント
+#comment

@@ -1,0 +1,35 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+//&ref(http://img.toranoana.jp/img/04/0010/22/30/040010223029-1.gif)
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Digiholic]]|CENTER:&bold(){existence}|CENTER:[[honey sweet a la mode.]]|
+
+|&bold(){[[fatP]]}|
+
+||CENTER:即売|CENTER:同人|
+|発売|CENTER:2010年5月9日|CENTER:-|
+|価格|CENTER:￥-|CENTER:￥1,470（税込）|
+|サークル|>|CENTER:D.S.L|
+
+**CD紹介
+-[[FAT>fatP]]氏3枚目となるVOCALOIDアルバム。
+-バラエティーに満ちた質の高い8曲を収録。
+-THE VOC@LOiD M@STER 12（ボーマス12）で頒布。
+-サイトでクロスフェード音源を試聴する事が出来る。
+
+**曲目
++introduction
++[[Re:Start>Re:Start/fatP]]
++[[秋風に揺れる鳳仙花、花言葉に揺れる想い。]]
++シアターワールド
++イグニスの鎖
++[[Ferrofluid]]
++[[4C8h]] -eve-
++[[幻月環]]
+
+**リンク
+-[[D.S.L（Digital Sound Laboratory）>>http://dslab.blog19.fc2.com/]]
+-[[「existence」試聴用リンク(voon.jp)>>http://voon.jp/a/cast/?id=ktzqj2dtiyf5xl5p]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/22/30/040010223029.html]]
+
+**コメント
+#comment

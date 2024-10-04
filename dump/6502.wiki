@@ -1,0 +1,48 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm8086958)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[卓上青空]]|CENTER:&bold(){GonGoss Works}|CENTER:-|
+
+|&bold(){[[GonGoss]]}|
+
+発売：2009年9月6日
+価格：￥1,000
+流通：即売
+サークル：Project Nostalgia
+
+**CD紹介
+-GonGoss初のソロアルバム。ボーマス9で頒布された。
+-『[[初音ミク ベスト～memories～]]』にも収録された「[[White Letter>White Letter/GonGoss]]」に始まり、全22曲という圧倒的な曲数を誇る。
+
+**曲目
++[[White Letter>White Letter/GonGoss]]
++機械仕掛けの歌姫
++[[夕闇の狭間]]
++[[青空を見つけた日]]
++大丈夫
++[[Smiley x Smiley>スマイリーxスマイリー]]
++[[バーボンハウスへようこそ]]
++[[フレンチプレスでコーヒータイム]]
++[[コタツと木枯し>コタツと木枯らし]]
++そよ風のリズム
++[[糸電話]]
++[[苛イラDayS>苛★イラDAyS＃4Ne]]
++夢のかけら
++[[earpick i☆n Ecstasy]]
++[[嗚呼!!麗しの男子校>嗚呼、麗しの男子校]]
++月に今晩は
++寒いうた
++鼻水たりら
++籠の中の自由
++㍉
++冬のいたずら
++[[空色航路（そらいろキャンバス）]]
+
+**リンク
+-[[Project NostalgiaのCD情報ページ>>http://nostalgia.takap.tk/solo/gongoss_works/]]
+-[[作者ブログ>>http://gondtm.blog111.fc2.com/]]
+
+
+**コメント
+#comment

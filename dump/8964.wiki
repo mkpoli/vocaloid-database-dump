@@ -1,0 +1,36 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/204_20100131005705_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){The First Unison}|CENTER:[[Broken rain]]|
+
+|&bold(){[[新城P]]}|
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/the-first-unison-ep/id353729684]]}|
+
+流通：配信
+発売：2010年2月17日
+価格：￥600（全曲）/ ￥150（1曲）
+レーベル：KarenT
+
+**CD紹介
+-KAITOの使い手の第一人者として名を馳せる「[[新城P]]」の初のアルバム。
+-KAITO生誕4周年を記念して、KarenTレーベルより配信された。
+-VOCALOID殿堂入り＆週刊VOCALOIDランキング1位を記録した「[[Pane dhiria]]」を始めとし、「[[Jewel]]」「[[Farewell Song>Farewell Song/新城P]]」等の代表曲を収録した、全6曲構成。
+
+**曲目
++[[Jewel>Jewel/新城P]] (feat. KAITO)
++[[Farewell Song>Farewell Song/新城P]] (feat. KAITO)
++[[Pane dhiria]] (feat. KAITO)
++[[See You>See You/新城P]] (feat. KAITO)
++[[Bequeath]] (feat. KAITO)
++[[What's COLOR?]] (feat. KAITO)
+
+**リンク
+-[[PIAPRO(ピアプロ)|新城留架さんのプロフィール>>http://piapro.jp/sin_luka]]
+-[[KarenT：「The First Unison」>>http://karent.jp/album/204]]
+-[[KarenT：「KAITO誕生祭'10」特集ページ>>http://karent.jp/special/kaito10]]
+
+**コメント
+- これは良いな・・・  -- 名無しさん  (2015-01-17 13:25:59)
+#comment

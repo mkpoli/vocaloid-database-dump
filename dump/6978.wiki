@@ -1,0 +1,10 @@
+#right(){【登録タグ:&tags()】}
+//↑タグ忘れ防止のための表示
+曖昧さ回避のためのページ
+----
+-[[takanonP]]の曲
+--[[LIMITED/takanonP]]
+-[[effe]]の曲
+--[[limited/effe]]
+
+#include(曖昧さ回避の追加の仕方/告知)

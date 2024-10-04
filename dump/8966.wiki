@@ -1,0 +1,41 @@
+#right(){&furigana(かってください) &furigana()【登録タグ:&tags() 】}
+&ref(http://blog-imgs-37-origin.fc2.com/m/a/c/machigerita/katte.jpg)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm9576440)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[モアモアワールド]]|CENTER:&bold(){買ってください。}|CENTER:[[幸せになれたら]]|
+
+|&bold(){[[マチゲリータP]]}|
+
+|CENTER:流通|CENTER:即売|CENTER:同人|
+|CENTER:発売|CENTER:2010年2月7日|CENTER:-|
+|CENTER:価格|CENTER:￥1,000|CENTER:-|
+|CENTER:サークル|>|CENTER:Iristellia|
+
+**CD紹介
+-マチゲリータP3枚目のVOCALOIDアルバム。THE VOC@LOID M@STER 11にて頒布された。
+-「マチゲカラー」とも呼ばれている、紫と黒のストライプ模様をそのままジャケットにあしらった、ある意味非常に分かりやすいデザインとなっている。
+-&bold(){『マチゲリータが放つ「カップリング的な曲を集めました、テーマが超卑屈アルバム！」』}（試聴動画の解説文より）
+-あまりに開き直ったタイトルに、クロスフェード動画のコメント・タグも大いに賑わった（いい意味で）。
+-委託販売は予定しているとのこと。
+
+**曲目
++intro
++鋏
++[[愛情レゾンデートル]]
++[[逆罪行進曲]]
++フォーリンロジカルショウ
++[[ヘイトフルワンダーランド]]
++密室サイレント
++outro
++あとがき
+
+**リンク
+-[[特設サイト>>http://machigerita.web.fc2.com/kattekudasai.htm]]
+-[[作者ブログでの案内>>http://machigerita.blog96.fc2.com/blog-entry-836.html]]
+-[[作者ブログ>>http://machigerita.blog96.fc2.com/]]
+
+**コメント
+- 買ってくださいって言っても買いたいけど、このアルバムがどこにもない  -- 良太  (2014-09-05 13:53:25)
+#comment

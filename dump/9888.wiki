@@ -1,0 +1,32 @@
+#right(){&furigana(よなきやしゃ)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/16214730" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/16214730">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-作風はVOCALOCK・VOCALAUD・VOCALEAMOなど。
+-VOCALOIDだけでなく、UTAUも使用する。
+-最近では多くのPや絵師・歌い手なども関わった作品を投稿している。
+-実は歌うP（というより叫ぶPの方が近い）の一人。
+-VOCALOID作品の他に8bitアレンジや歌ってみたなども手がける。
+-VOCALOID M@STER14では、自身のアルバムの他、コンピレーションアルバムをリリース。
+
+**リンク
+-[[作者ブログ>>http://yonakielect.blog104.fc2.com/]]
+-[[PIAPRO>>http://piapro.jp/yonakiyasya]]
+
+**曲
+#list_by_tag(夜鳴夜叉,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(夜鳴夜叉CD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm8210005)|&nicovideo(http://www.nicovideo.jp/watch/sm8959308)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9345781)|&nicovideo(http://www.nicovideo.jp/watch/sm9612951)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9737337)|&nicovideo(http://www.nicovideo.jp/watch/sm9846836)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9859896)|&nicovideo(http://www.nicovideo.jp/watch/sm9911042)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm10121007)|&nicovideo(http://www.nicovideo.jp/watch/sm10573222)|
+
+**コメント
+- 精神イコライザーのサムネが怖くて見れない  -- 名無しさん  (2012-09-02 09:11:58)
+- 早くアルバム出して欲しいデス(^O^)  -- 名無しさん  (2012-12-31 17:46:51)
+#comment()

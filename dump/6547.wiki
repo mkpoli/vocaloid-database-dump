@@ -1,0 +1,60 @@
+#right(){&furigana(clear)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/12171608" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/12171608">【ニコニコ動画】はつねろいど</a></iframe>)
+
+**特徴
+-&bold(){南ゆに} とも。
+-「[[ストロベリードウル]]」でボカロデビューしたP。
+-発表曲のジャンルは主にロック・エレクロトニカ。
+-使用しているボカロは初音ミクメイン。歌愛ユキも所有。
+-そのユキを使ったオリジナル曲「[[スケルツォーネ]]」では、ユキの新たなる可能性を魅せている。
+-ギターにも定評があり、[[卓（takuP）]]氏のオリジナル曲「[[You and You]]」ではギターで参加。
+-曲タイトルが全部カタカナ表記なのは、統一感が欲しいという拘りから。
+-デビュー曲以外、サムネイラストはほとんど [[ARiKEM]]氏 が手掛けている。
+-代表曲は「[[トウキョウエンドロウル]]」「[[スケルツォーネ]]」「[[カラレス]]」等。
+-現在はインスト曲「[[エルザとまほうの呪文]]」以外の楽曲は削除されている。
+--2018年でこの楽曲以外の全曲を削除します。初音ミク、歌愛ユキ、仲良くしてくれたボカロP・製作者の皆さん、そしてリスナーの皆さんには本当にお世話になりました。 ずっと忘れません。今までありがとうございました。（作者コメント転載）
+
+**リンク
+-[[yuniyuno（作者ブログ）>>http://yuniyuno.under.jp/]]
+-[[ユ ニ ヴ ロ グ（作者旧ブログ）>>http://yun1.blog10.fc2.com/]]
+-[[PIAPRO>>http://piapro.jp/yuniyuno]]
+-[[KarenT>>http://karent.jp/artist/pp000087]]
+-[[SOUNDCLOUD>>https://www.soundcloud.com/yuni-minami/sets/vocaloid-music-1]]
+
+**曲
+#list_by_tag(ゆにP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(ゆにPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm6832457)|&nicovideo(http://www.nicovideo.jp/watch/sm6841727)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7504739)|&nicovideo(http://www.nicovideo.jp/watch/sm8053950)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm8684057)|&nicovideo(http://www.nicovideo.jp/watch/sm8919155)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9077570)|&nicovideo(http://www.nicovideo.jp/watch/sm9250805)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9569574)|&nicovideo(http://www.nicovideo.jp/watch/sm11535860)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12566054)|&nicovideo(http://www.nicovideo.jp/watch/sm12990014)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm13422331)|&nicovideo(http://www.nicovideo.jp/watch/sm13874954)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm14270127)|&nicovideo(http://www.nicovideo.jp/watch/sm14548475)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm14669396)|&nicovideo(http://www.nicovideo.jp/watch/sm14686996)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm14833900)|&nicovideo(http://www.nicovideo.jp/watch/sm15673207)|
+&bold(){リミックス}
+|&nicovideo(http://www.nicovideo.jp/watch/nm8251719)|
+
+**コメント
+- ギターかっけえ！  -- naoh  (2009-09-13 21:58:09)
+- 鬼才。恋は戦争のリミックスは聞くべき。１日で作ったとは思えない出来栄え。  -- 名無しさん  (2009-09-20 23:31:38)
+- すごくすきです  -- 名無しさん  (2009-12-07 16:10:39)
+- アンプラグド・ハート、待ってます！！！  -- 名無しさん  (2010-12-11 19:41:32)
+- がんば  -- 名無しさん  (2011-01-08 21:10:10)
+- コイハセンソウ、あの凄さで一日だと……！  -- スライム  (2011-07-04 17:02:40)
+- 路地裏のギャラリーみたいな感じのＰ。人目に付きにくいけど独特で心くすぐられるものがある  -- 名無しさん  (2011-07-12 20:26:05)
+- 独特の雰囲気がたまらない。作り手で一番好き!!  -- 名無しさん  (2011-09-03 15:39:17)
+- Zombiedogすばらしいです(*´∀｀)｡*'`,･*出来ればラップの歌詞がほしいです(0^v^0)  -- 名無しさん  (2012-03-14 22:11:48)
+- 今でもずっと聴いてる。もっといろんな人に聴いてもらいたい。大好き。  -- 名無しさん  (2016-08-18 01:56:53)
+- ゆにP＝森ゆにでいいのかな？歌を歌われる方だということを今日初めて知った。  -- 名無しさん  (2016-11-20 04:08:52)
+- この人の曲かっこいいわ〜（╹◡╹）  -- 暇人#  (2018-02-21 17:01:40)
+- 久しぶりに聴こうとしたら、動画が見れなくなっていて。。。ありがとう大好きです  -- 名無しさん  (2019-11-19 21:56:21)
+- ↑上に同じく、動画が見つからないから調べたらここに来た。そうかあれから10年も経つのか  -- 名無しさん  (2020-01-15 22:15:32)
+- アリスシャッハから辿り着いてきた。  -- 名無しさん  (2021-12-15 01:49:07)
+#comment()

@@ -1,0 +1,42 @@
+#right(){&furigana(いとかわP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/4920002" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/4920002">【ニコニコ動画】</a></iframe>)
+
+**特徴
+作り手名：『&u(){イトカワP}』
+
+-明るく軽めの曲調のポップスが多い。
+-ピコピコしているのが好きらしい
+-P名の由来は、1作目「魔法のロケット」にて、誰かが糸川博士を連想したそうだ。
+
+**リンク
+-[[Bright Note Factory(作者HP)>>http://bnfactory.web.fc2.com/]]
+-[[PIAPRO>>http://piapro.jp/euphist]]
+-[[ボーカロイドにゃっぽん>>http://v-nyappon.net/?m=pc&a=page_f_home&target_c_member_id=7651]]
+-[[Twitter>>https://twitter.com/itokawa_bnf]]
+
+**曲
+#list_by_tagsearch(イトカワP,sort=furigana2,errmsg=まだ曲が登録されていません。,and,100)
+
+**CD
+#list_by_tagsearch(イトカワPCD,sort=furigana2,errmsg=まだCDが登録されていません。,and,100)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm2285029)|&nicovideo(http://www.nicovideo.jp/watch/sm2678404)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4020565)|&nicovideo(http://www.nicovideo.jp/watch/sm5168173)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6656879)|&nicovideo(http://www.nicovideo.jp/watch/sm7050056)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7180512)|&nicovideo(http://www.nicovideo.jp/watch/sm8106372)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9218648)|&nicovideo(http://www.nicovideo.jp/watch/sm9322316)|
+
+**関連タグ内の更新履歴
+#region(close,関連タグ内の更新履歴)
+関連タグ内の更新履歴
+※「イトカワP」「イトカワPCD」タグ内で最近編集やコメントのあった記事を新しい方から10件表示しています。
+#list_by_tagsearch(イトカワP,イトカワPCD,sort=timestamp,sort2=desc,errmsg=まだ曲が登録されていません。,or,10)
+#endregion
+
+**コメント
+#comment()

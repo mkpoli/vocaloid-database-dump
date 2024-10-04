@@ -1,0 +1,39 @@
+#right(){&furigana(あめいろどれば) &furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/355_20100524111125_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){雨、彩れば。}|CENTER:-|
+
+|&bold(){[[Wato]]}|
+
+発売：2010年6月9日
+価格：￥600
+流通：配信
+レーベル：KarenT
+
+>作詞：&b(){[[Wato]],[[桃華なゆた>灯下はこ、]],[[東雲鹿乃>鹿乃]]}
+>作曲：&b(){[[Wato]]}
+>アートワーク：&b(){[[natsu>>http://piapro.jp/n0586]]}
+
+**内容紹介
+- 変拍子とピアノを駆使したオリジナル曲が持ち味の[[Wato]]による、待望のアルバム。
+- KarenT企画「雨の季節'10」の一環でリリースされる。
+- ミクオリジナル3曲+ピアノソロ（インスト）2曲の計5曲を収録。
+
+**曲目
++雨模様 （feat. 初音ミク）
++渇きの雨 （feat. 初音ミク）
++[[雨音～amaoto～]] （feat. 初音ミク）
++雨模様 （instrument ver.）
++渇きの雨 （instrument ver.）
+
+**リンク
+-[[KarenT『雨、彩れば。』>>http://karent.jp/album/355]]
+-[[KarenT『Wato』>>http://karent.jp/artist/pp000268]]
+-[[KarenT『雨の季節'10』特集ページ>>http://karent.jp/special/rain10]]
+-[[Wato公開マイリスト>>http://www.nicovideo.jp/mylist/10355555]]
+-[[natsuブログ「ナナナツ」>>http://pixiv.cc/gabaisuito-n/]]
+-[[桃華なゆた（灯下はこ、）ウェブサイト「箱々、」>>http://hakobako.soragoto.net/]]
+
+**コメント
+#comment

@@ -1,0 +1,31 @@
+#right(){&furigana(べいだー)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/16940177" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/16940177">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-2009年12月23日に『[[bbb]]』によってVOCALOIDデビュー。以降継続して精力的に作品を発表している。
+-作品の主な作風はロック、ポップス。北欧風ポップス([[SlowLife]])やエレクトロニカ(「[[teapot]]」)等他のジャンルにも挑戦している。
+-2010年春の時点でバンド活動をしている現役のミュージシャンであり、バンド用に制作した曲をVOCALOIDにも歌わせている(「[[未来式パズル]]」がそれ)
+-様々なジャンルの曲を投稿しているがVaderらしいロック曲は自らのバンドでも演奏している「[[未来式パズル]]」。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/yu_koro]]
+-[[HP『hypothesis』>>http://piapro.jp/yu_koro]]
+-[[Myspace>>http://www.myspace.com/yukorovader]]
+
+**曲
+#list_by_tag(Vader,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm9170672)|&nicovideo(http://www.nicovideo.jp/watch/sm9234081)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9285103)|&nicovideo(http://www.nicovideo.jp/watch/sm9349261)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9400897)|&nicovideo(http://www.nicovideo.jp/watch/sm9451605)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9469171)|&nicovideo(http://www.nicovideo.jp/watch/sm9517316)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9637296)|&nicovideo(http://www.nicovideo.jp/watch/sm9728127)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9826617)|&nicovideo(http://www.nicovideo.jp/watch/sm9852538)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9911950)|&nicovideo(http://www.nicovideo.jp/watch/sm10022810)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9728127)|&nicovideo(http://www.nicovideo.jp/watch/sm10194205)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm10345521)|
+
+**コメント
+- Vaderさんのルカいつも素敵!  -- 名無しさん  (2012-06-07 23:12:57)
+#comment()

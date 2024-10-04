@@ -1,0 +1,43 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+#image(http://scx-ct.net/pict/banner/in_banner01.jpg,http://scx-ct.net/sp/innerve/index.html,blank,title=INNERVE)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[さくらだより]]|CENTER:&bold(){INNERVE}|CENTER:[[Set digital]]|
+
+|&bold(){[[Clean Tears]]}|T-ism|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|>|CENTER:2010年5月5日|
+|価格|CENTER:￥1,000|CENTER:￥1,100（税込）|
+|サークル|>|CENTER:S.C.X|
+
+>作詞：&b(){T-ism and [[Clean Tears]],Yuu(Tr.4)}
+>作曲：&b(){[[Clean Tears]],[[river>river/作り手]](Tr.4)}
+>ジャケットイラスト：&b(){Sanaka}
+
+|&bold(){[[とらのあなで購入する>>http://www.toranoana.jp/mailorder/article/04/0010/22/00/040010220078.html]]}|
+|&bold(){[[メロンブックスで購入する>>http://shop.melonbooks.co.jp/shop/list/?DA=chgitemtype&G=&F=INNERVE]]}|
+
+**CD紹介
+-&bold(){“いつまで踊ろうか？”初音ミクが歌うクラブトラック集}
+-「[[M3-2010春>>http://www.m3net.jp/]]」で頒布するClean Tears氏のボーカロイドアルバム。
+-「[[Desert wolf]]」や「[[Chemical inversion]]」といった楽曲の他、[[river>river/作り手]]氏の「[[daylight]]」のリミックスも収録している。
+-現在、とらのあなとメロンブックスで委託販売が行われている。
+
+**曲目
++[[Desert wolf]] 
++Techno distance -Innerve Remix- 
++[[Chemical inversion]] 
++[[Daylight]] -Revival Remix- 
++Healing your mind 
++Requiem 
++Lapislazli -Warp essential Remix- 
++Make me to smile 
++Requiem -Instrumental Version-
+
+**リンク
+-[[「INNERVE」特設サイト>>http://scx-ct.net/sp/innerve/index.html]]
+
+**コメント
+- make me to smileすんげー好きです  -- 名無しさん  (2012-12-23 17:07:47)
+#comment

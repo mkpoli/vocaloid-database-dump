@@ -1,0 +1,56 @@
+#right(){&furigana(clear) &furigana()【登録タグ:&tags() 】}
+配信版ジャケット
+&ref(http://karent.jp/npdca/121_20091113013433_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Heartful Cookie}|CENTER:[[夕暮れと明日の唄 ～Graduation～>夕暮れと明日の唄]]|
+
+|&bold(){[[BIRUGE>コモレビノーツ]]}|
+
+|流通|CENTER:即売|CENTER:配信|
+|発売|CENTER:2009年3月18日|CENTER:2009年12月2日|
+|価格|CENTER:￥500|CENTER:アルバム￥900、1曲￥150|
+|サークル|CENTER:Cookie|CENTER:-|
+|レーベル|CENTER:-|CENTER:KarenT|
+|名義|>|CENTER:[[BIRUGE>>http://karent.jp/artist/pp000102]]|
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/heartful-cookie-ep/id340380880]]}|
+
+**CD紹介
+-「[[シアワセマイゴ]]」「[[Nostalgic Rain]]」で知られるBIRUGE氏の1stアルバム。
+-『聴けば、心があったまる。』そんなCDになればいいな、と思いながら作りました。（作者サイトより）
+-2009年3月に行われたイベント「Cross Crover -final-」で頒布後、12月より内容を変更したものをKarenTレーベルより配信している。
+-CD版の1～10曲目は「VOCALOID SECTION」、11～15曲目を「INSTRUMENT SECTION」としている。
+
+**曲目
+***CD版
++[[Blank -ReMix->Blank/コモレビノーツ]]
++[[サヨナラはグッバイ]]
++[[ソラゾラ]]
++魚肉ソーセージの唄 -アカペラver.-
++[[夕暮れと明日の唄]]
++Blank -ReMix- （Off vocal）
++サヨナラはグッバイ （Off vocal）
++ソラゾラ （Off vocal）
++夕暮れと明日の唄 （Off vocal）
++波と月夜の宴 （Bonus Track）
++The Holiday's Wind
++赤い青空
++ジャミング
++魚肉ソーセージの唄 -インストver.-
++晩夏
+
+***配信版
++[[Blank -ReMiX->Blank/コモレビノーツ]] (feat. KAITO)
++[[サヨナラはグッバイ]] (feat. KAITO)
++[[ソラゾラ]] (feat. 巡音ルカ)
++[[シアワセマイゴ]] (feat. 初音ミク)
++[[Nostalgic Rain]] (feat. 初音ミク)
++[[夏華]] (feat. 巡音ルカ)
+
+**リンク
+-[[Cookie(作者サイト)>>http://cookie.cosa-cosa.com/]]
+-[[KarenT>>http://karent.jp/album/121]]
+
+**コメント
+#comment

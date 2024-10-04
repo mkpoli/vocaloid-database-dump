@@ -1,0 +1,71 @@
+#right(){&furigana(ちぇんじ) &furigana()【登録タグ:&tags() 】}
+//&ref(http://img.toranoana.jp/img/04/0010/21/95/040010219512-1.gif)
+
+&ref(https://cdn.karent.jp/thumb_a/393/2393_20190321181044_0400_0400.jpg,x=300,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm10605680)
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[ベンゼン＼(^o^)／]]|CENTER:&bold(){チェンジ＼(^o^)／}|CENTER:[[ボーナス＼(^o^)／]]|
+
+|&bold(){[[オワタP]]}|[[No.D]]|[[ラマーズP]]|[[もちーべP]]|
+|[[ichiP]]|[[ぺぺろんP]]|[[azuma]]|[[かたほとりP]]|
+
+||CENTER:即売|CENTER:同人|CENTER:配信|
+|発売|>|CENTER:2010年5月9日|2019年4月24日|
+|価格|CENTER:￥1,000|CENTER:￥1,500（税込）||
+|サークル|>|CENTER:善||
+
+|&bold(){[[とらのあなで購入する>>http://www.toranoana.jp/mailorder/article/04/0010/21/95/040010219512.html]]}|
+
+>企画・デザイン：&bold(){[[オワタP]]（ガルナ）} 
+>イラスト：&bold(){[[鴨。>>http://re-k.lovesick.jp/]],[[CAFFEIN>>http://wave.ap.teacup.com/caffeinism/]]}
+>ゲストアレンジャー：&bold(){[[No.D]],[[ラマーズP]],[[もちーべP]],[[ichiP]],[[ぺぺろんP]],[[azuma]],[[かたほとりP]]}
+>ゲストボーカル：&bold(){[[リツカ>>http://dic.nicovideo.jp/a/%E3%83%AA%E3%83%84%E3%82%AB]]} 
+>マスタリング：&bold(){[[Dios/シグナルP>シグナルP]]}
+
+**CD紹介
+>『今回はいつもと趣向を変更し、ゲスト楽師を８人招待、 
+>　　　互いに互いの曲をアレンジするコンピレーション企画。 』
+-総勢12人のスタッフによって作られた、オワタPの3rdアルバム。
+-今回もCD容量限界ギリギリまで詰め込んだ16曲、合計70分弱を収録。
+-かたほとりPのサークル「ボヤッチオ」と合同で頒布される。
+-特設サイトでクロスフェード音源の試聴ができる。
+-現在、各同人ショップで委託販売が行われている。
+-オワタPが編曲を担当した楽曲のみ、KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
+||CENTER:タイトル|CENTER:原曲|CENTER:作曲|CENTER:歌|CENTER:編曲|
+|CENTER:1|[[RX ベンゼン>>http://www.nicovideo.jp/watch/sm10413488]]|[[ベンゼン]]|[[オワタP]]|リツカ|オワタP|
+|CENTER:2|[[火葬曲_reject>>http://www.nicovideo.jp/watch/sm10613271]]|[[火葬曲]]|[[No.D]]|鏡音レン・鏡音リン|オワタP|
+|CENTER:3|トルコ行進曲 - ナンテコッタイ／(^o^)＼|[[トルコ行進曲 - オワタ＼(^o^)／]]|オワタP|MEIKO|No.D|
+|CENTER:4|バカプラス＋|[[驫麤～とりぷるばか～]]|[[ラマーズP]]|弱音ハク・鏡音リン・欲音ルコ|オワタP|
+|CENTER:5|萌えあがれぬこレンレン！|[[マジカル☆ぬこレンレン]]|オワタP|鏡音レン|ラマーズP|
+|CENTER:6|[[はらりはらり>>http://www.nicovideo.jp/watch/sm10487099]]|[[はらり]]|[[もちーべP]]|GUMI・巡音ルカ|オワタP|
+|CENTER:7|ツマンねっ！|[[ツマンない]]|オワタP|初音ミク|もちーべP|
+|CENTER:8|木枯らしのワルツ|[[落葉とワルツを]]|[[ichi>ichiP]]|鏡音リン・鏡音レン|オワタP|
+|CENTER:9|パラジクロロベンゼン arranged_by_ichi|[[パラジクロロベンゼン]]|オワタP|ichi|ichi|
+|CENTER:10|[[電光雪花>>http://www.nicovideo.jp/watch/sm10565207]]|[[真夏の雪と、真冬の花]]|[[ぺぺろんP]]|鏡音レン・鏡音リン|オワタP|
+|CENTER:11|超ツマンネ metal ver.|[[超ツマンネ]]|オワタP|鏡音リン・弱音ハク|ぺぺろんP|
+|CENTER:12|[[あきたの歌姫>>http://www.nicovideo.jp/watch/sm11940122]]|[[あなたの歌姫]]|[[azuma]]|亞北ネル|オワタP|
+|CENTER:13|[[片想いサンバ -BKAMIX->>http://www.nicovideo.jp/watch/sm12536123]]|[[片想いサンバ]]|オワタP|miki・巡音ルカ|azuma|
+|CENTER:14|[[いいからトマト食え？！～エンドレストマト～>>http://www.nicovideo.jp/watch/sm11109844]]|[[いいからトマト食え]]|[[かたほとり>かたほとりP]]|GUMI・巡音ルカ|オワタP|
+|CENTER:15|トマトきらい？のうた -地デジmix-|[[トマトきらいのうた]]|オワタP|鏡音リン・月読アイ|かたほとり|
+|CENTER:16|みちのうえ||ツキヤ|リツカ|オワタP|
+
+**リンク
+-[[特設サイト>>http://www.02.246.ne.jp/~n-zen/page009.html]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/21/95/040010219512.html]]
+-[[メロンブックス>>http://shop.melonbooks.co.jp/shop/list/?G=&MF=%E5%96%84]]
+-[[アニメイト>>http://www.animate-onlineshop.jp/products/detail.php?product_id=1022030]]
+-[[ホワイトキャンバス>>http://www.w-canvas.com/shopping/detail.php?item_id=41551]]
+-[[D-STAGE>>http://d-stage.com/shop/detail.php?seq=15453]]
+-[[KARENT>>https://karent.jp/album/2393]]
+
+**コメント
+//- １ゲト。
+- 買ってよかった。  -- holly  (2010-11-18 00:05:11)
+- なんかすごいなｗ  -- 名無しさん  (2011-03-26 23:43:00)
+- まだうってるかな・・・  -- るるか  (2011-04-07 17:36:34)
+- どこに売ってるんだろうか．．． 買いに行きたいけど時間が．．．  -- トライデント  (2012-01-06 01:30:17)
+- ジャケットイラストかわゆいｖ  -- ふひょ〜  (2012-07-02 19:13:09)
+#comment

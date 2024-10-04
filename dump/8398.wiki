@@ -1,0 +1,43 @@
+#right(){&furigana(なないろ) &furigana()【登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186113709.jpg,x=300,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm9482356)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){ナナイロ}|CENTER:[[秋の想い、春の声>秋の想い、春の声/CD]]|
+
+|&bold(){[[情熱P]]}|[[ウタP]]|
+
+||CENTER:即売|CENTER:同人|
+|CENTER:発売|>|CENTER:2010年2月7日|
+|CENTER:価格|CENTER:￥1,000|CENTER:￥1,260（税込）|
+|CENTER:サークル|>|CENTER:スタジオてとてと|
+
+**CD紹介
+- ラテン系サウンドで人気を誇る情熱Pによる初CD。THE VOC@LOiD M@STER 11（ボーマス11）で頒布された。
+- 情熱Pのほか、[[ウタP]]（作詞・編曲：6、調声：9）、seira（作詞：1,2,4,7,9,12）、カザグルマ（作詞：3,11）、鷺塚良太（作詞：5）、KANAE（作詞：10）、qurter（編曲：11）という豪華な面々による作品に
+- 新曲7曲を含む全12曲。なお「風の踊り子」以降はボーナストラック扱い。
+-ホワイトキャンバス、とらのあなにて委託販売されている。
+
+**曲目
++ [[月の踊り子]]
++ [[炎の踊り子]]　&color(red){NEW!}
++ [[水の踊り子]]　&color(red){NEW!}
++ [[森の踊り子]]　&color(red){NEW!}
++ [[黄金の踊り子]]　&color(red){NEW!}
++ 大地の踊り子　&color(red){NEW!}
++ [[太陽の踊り子]]　&color(red){NEW!}
++ ナナイロ　&color(red){NEW!}
++ [[風の踊り子]]
++ [[熱情詩 -Flame Heart-]]
++ [[秋の想い、春の声]]
++ [[紅い百合 -Lilium-]]
+
+**リンク
+- [[CD特設ページ>>http://sound.jp/neontetra_feel/nanairo/]]
+-[[ホワイトキャンバス>>http://www.w-canvas.com/shopping/detail.php?item_id=37195]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/21/57/040010215744.html]]
+
+**コメント
+#comment

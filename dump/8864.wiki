@@ -1,0 +1,43 @@
+#right(){&furigana() &furigana()【登録タグ:&tags(かごめP) 】}
+//&ref(http://img.toranoana.jp/img/04/0010/20/99/040010209916-1.gif)
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186123788.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:VOCALOID TRACKS☆VOL.2|CENTER:&bold(){かるま}|CENTER:[[VOCALOID TRACKS☆VOL.3]]|
+
+|&bold(){[[とらのあなで購入する>>http://www.toranoana.jp/mailorder/article/04/0010/20/99/040010209916.html]]}|
+
+|&bold(){[[かごめP]]}|
+
+||CENTER:即売|CENTER:同人|
+|発売|>|CENTER:2009年12月30日|
+|価格|CENTER:￥800|CENTER:￥1,050（税込）|
+|サークル||CENTER:白銀|
+
+**CD紹介
+-かごめPの3枚目のCDにして初のミニアルバム。コミックマーケット77（2日目）にて発表。
+-がくっぽいどをメインにフィーチャーした、メタル中心の濃密なアルバム。
+-先行して投稿された「[[かるま]]」、とにかくアツい「[[SAN.KIN.KOU.TAI!!]]」、クラシックの名フレーズ「アヴェ・マリア」を取り入れた「Ave Maria」のがくぽ歌唱版、果てには曲中で用いたサンプリングボイス集など、非常に充実した内容になっている。
+-収録曲のひとつである「[[ラブマッスル～腹筋のテーゼ～]]」はのちにニコニコ動画に投稿され、音も動画も非常にパワーアップし、視聴者を阿鼻叫喚に陥れた。
+-[[とらのあな>>http://www.toranoana.jp/mailorder/cit/author/21/a4aba4b4a4e150_01.html]] にて委託販売が行われている。
+
+**曲目
++[[かるま]]
++[[ラブマッスル～腹筋のテーゼ～]]
++[[SAN.KIN.KOU.TAI!!]]
++Ave Maria
++[[Limiter>リミッター/かごめP]]
++かるま ver.0.3
++"掛け声"ボイス集
+
+**ニコニコ動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm9801845)|&nicovideo(http://www.nicovideo.jp/watch/sm9178272)|
+|&nicovideo(sm8098660)|&nicovideo(http://www.nicovideo.jp/watch/sm8619149)|
+
+**リンク
+//-[[『ぷらなりや。』（作者ブログ）>>http://kimera3.u-abel.net/]]リンク切れ確認10/11/04
+-[[とらのあな>>http://www.toranoana.jp/mailorder/cit/author/21/a4aba4b4a4e150_01.html]]
+
+**コメント
+#comment

@@ -1,0 +1,27 @@
+#right(){&furigana(Opti)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/8430261" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"></iframe><a href="http://www.nicovideo.jp/mylist/8430261">【ニコニコ動画】OUR MUSIC</a>)
+
+**特徴
+作り手名：『&u(){Opti-}』
+-処女作は「[[restart>restart/Opti-]]」。
+
+**リンク
+-[[blog>>https://optix.blog7.fc2.com/]]
+-[[muzie>>https://www.muzie.co.jp/cgi-bin/artist.cgi?id=a061841　]]
+-[[piapro>>https://piapro.jp/skeience]]
+
+**曲
+#list_by_tag(Opti-,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(Opti-CD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(nm3800890)|&nicovideo(nm4468463)|
+|&nicovideo(sm5051698)|&nicovideo(sm6216983)|
+|&nicovideo(sm7881974)|&nicovideo(sm9594746)|
+|&nicovideo(sm12592303)|>|
+
+**コメント
+- もっと評価されていいよほんと・・。  -- 名無しさん  (2012-05-19 17:03:44)
+#comment()

@@ -1,0 +1,35 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/066_20091225194930_0240_0240.jpg)
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/no-answer-single/id328283641]]}|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Utopia>Utopia/CD]]|CENTER:&bold(){No Answer}|CENTER:[[STARLET>STARLET/CD]]|
+
+|&bold(){[[otetsu]]}|
+
+>&b(){ジャケットイラスト：[[riria009]]}
+
+|発売：2009年8月31日|
+|価格：￥300（1曲：￥150）|
+|流通：配信|
+|レーベル：KarenT|
+ 
+**CD紹介
+-初音ミク2周年を記念して配信された、ミクボーカル2曲入りのシングルEP。
+-切れ味の良い退廃的なロック「No Answer」と、和風チックで流麗な「[[証>証/otetsu]]」の2曲構成。どちらも力強いミクの歌声が心にしっくり来る。
+
+**曲目
++No Answer / otetsu feat. 初音ミク
++[[証>証/otetsu]] / otetsu feat. 初音ミク
+
+**動画
+&nicovideo(http://www.nicovideo.jp/watch/nm8090839)
+
+**リンク
+-[[作者ブログ>>http://otetsu721.blog60.fc2.com/]]
+-[[KarenT：「No Answer」>>http://karent.jp/album/66]]
+-[[KarenT：「初音ミク 2nd Anniversary」>>http://karent.jp/special/miku09]]
+
+**コメント
+#comment

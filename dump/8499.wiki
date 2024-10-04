@@ -1,0 +1,68 @@
+#right(){&furigana(TINGE)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+#region(close,ニコニコ（削除済み）)
+|&nicovideo(nm7566886)|&nicovideo(sm8995688)|
+|&nicovideo(sm9475240)|&nicovideo(sm10187044)|
+|&nicovideo(sm12004698)|&nicovideo(sm12361587)|
+|&nicovideo(sm12996460)|&nicovideo(sm14262561)|
+|&nicovideo(sm17535953)|&nicovideo(sm17541557)|
+#endregion
+|&youtube(https://www.youtube.com/watch?v=gxz_nmJvH5Y){342,187}|&youtube(https://www.youtube.com/watch?v=pRie4cUAPl4){342,187}|
+|&youtube(https://www.youtube.com/watch?v=uSUlf6Hf468){342,187}|&youtube(https://www.youtube.com/watch?v=ixEEtulZvNc){342,187}|
+|&youtube(https://www.youtube.com/watch?v=52O6BfvBVlc){342,187}|&youtube(https://www.youtube.com/watch?v=PXdjdbo4oWE){342,187}|
+|&youtube(https://www.youtube.com/watch?v=hXkXNdNlWHY){342,187}|&youtube(https://www.youtube.com/watch?v=dUHhrIe0bR0){342,187}|
+|&youtube(https://www.youtube.com/watch?v=ZyImWuz-6u4){342,187}|&youtube(https://www.youtube.com/watch?v=ffgHyPmNSLY){342,187}|
+|&youtube(https://www.youtube.com/watch?v=i56vpQK2zWM){342,187}||
+作詞：[[フルコンプP]]
+作曲：[[フルコンプP]]
+編曲：[[フルコンプP]]
+唄：[[KAITO]]（オリジナル）・[[リュウト>ガチャッポイド]]／[[BIG-AL]]／[[神威がくぽ>がくっぽいど]]／[[flower>v flower]]／[[アルスロイド]]／[[氷山キヨテル]]／[[CYBER SONGMAN]]／[[楽正龍牙]]／[[ken]]／[[徵羽摩柯]]（セルフカバー各種）
+
+**曲紹介
+>KAITO…壮大なる生命を(ry（動画内より）
+>教育者…生命の神秘を語る（動画内より）
+曲名：『&u(){TIN-GE}』（&u(){ちん-げ}）
+-[[鏡音リン>鏡音リン・レン]]オリジナル曲『[[HANAGE]]』のセルフ替え歌。
+
+**歌詞
+ＴＩＮ－ＧＥ　生える
+もじゃもじゃ生える
+縮れているよ
+頬擦りしようか
+
+ＴＩＮ-ＧＥ　伸びる
+どこまで伸びる
+どこまで伸びるか
+試してみようか
+
+ＴＩＮ-ＧＥ　伸びる
+生命の限り
+どこまで伸びるの
+宇宙の果てまで
+
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+**コメント
+- 何これwww  -- 名無しさん  (2010-02-03 00:01:07)
+- ピコも歌わされました…  -- 名無しさん  (2010-12-21 16:34:11)
+-  wwwwwww  -- 名無しさん  (2010-12-21 16:55:26)
+- 生命のかぎり‥って えらく格上げあつかいね。。  -- あらら  (2010-12-21 19:02:13)
+//- ちょwww この曲のページもちゃんとあるのかw乙★  -- 名無しさん  (2010-12-21 20:35:00)
+- 宇宙の果てって何処？  -- nouhime  (2010-12-21 20:39:17)
+- 何処まで伸びるだろうか  --  名無しさん  (2010-12-22 14:05:00) 
+- VY2も犠牲になりました…。  -- 名無しさん  (2011-07-11 08:28:48)
+- ガチャポ…おまえまだないだろ…  -- 何処某  (2011-09-07 00:13:08)
+- VY1まで…あんたは女でしょーがｗ  -- 名無しさん  (2011-09-07 22:58:47)
+//- (1902-13-32 25:66:378)!!? &br()百年以上前て  -- 名無しさん  (2012-04-27 17:02:40)
+- 動画みんな削除されてるみたいですがそれはwwwwww  -- 名無しさん  (2015-08-25 08:25:45)
+#comment()
+
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)

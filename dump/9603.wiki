@@ -1,0 +1,48 @@
+#right(){&furigana(うみからきたねこ)&furigana()【登録タグ:&tags() 】}
+
+&ref(https://pme.jp/shop/cgi/cue/p_image/1257p1.jpg)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm10364207)
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){うみからきたねこ}|CENTER:-|
+
+|&bold(){[[うみぬこP]]}|
+
+|&bold(){[[サウンドマーケットCUEで購入する>>http://pme.jp/shop/]]}|
+
+||CENTER:即売|CENTER:同人|
+|発売|>|CENTER:2010年5月9日|
+|価格|CENTER:￥1,000|CENTER:\1,200(税込)|
+|サークル|>|CENTER:うみからきたねこ|
+
+作詞・作曲：&bold(){[[Masuda_K(うみぬこP）>うみぬこP]]}
+イラスト：&bold(){[[さら>>http://750cider.jugem.jp/]]}
+
+**CD紹介
+- うみぬこPによる初のCDアルバム。
+- THE VOC@LOID M@STER 12（ボーマス12）で頒布。
+- これまで発表してきた曲のほか、新曲1曲を加えた全14曲を収録。
+- サウンドマーケットCUEにて委託販売が行われている。「うみからきたねこ」で検索すると商品ページにアクセスできる。
+
+**曲目
++[[ささやかな願いごと]]
++[[HatsuNeko]]
++[[青い致死量]]
++[[キミとUSB接続っ！>キミとUSB★接続っ！]]
++[[エインセル]]
++[[昨日夢を見たんだよ]]
++三日月猫 New!
++[[夢幻時間]]
++[[ワタシのユメは銀の森へ飛んでいった]]
++[[今日、世界が]]
++[[銀の森でワタシは影踏みをした]]
++[[山の手線ぐるぐる]]
++象徴の世界
++[[散光星雲]]
+
+**リンク
+- [[Masuda K. HomePage>>http://homepage2.nifty.com/kyuzan/index.html]]
+
+
+**コメント
+#comment

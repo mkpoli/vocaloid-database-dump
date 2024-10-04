@@ -1,0 +1,30 @@
+#right(){&furigana()【登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186122016.jpg,x=300,y=300)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:&bold(){[[季節の美句 準備号－その１－]]}|CENTER:&bold(){とらぶる☆げっＣＨＵ！}|CENTER:-|
+
+|&bold(){[[Nem38]]}|
+
+||CENTER:即売|CENTER:同人|
+|発売|CENTER:2010年3月28日|CENTER:-|
+|価格|CENTER:￥100|CENTER:-|
+|サークル|>|CENTER:ボカ☆ぷろ|
+
+**CD紹介
+-Nem38氏によるシングルEP。
+-THE VOCALOID PARADISE 3（ボーパラ3）で頒布。
+-絵師として「がにょ」「たかまる」両氏が参加。
+
+**曲目
++とらぶる☆げっＣＨＵ！
++聖白夜（修正版）
+
+**リンク
+-[[Nem38氏サイト>>http://www32.ocn.ne.jp/~nemtoys/]] 
+-[[Nem38氏ブログ>>http://nemtomikurin.blog4.fc2.com/]]
+-[[Nem38氏マイリスト>>http://www.nicovideo.jp/mylist/11417762]]
+
+**コメント
+#comment

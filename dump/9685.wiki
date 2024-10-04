@@ -1,0 +1,32 @@
+#right(){&furigana(こよいちかいきせき) &furigana()【登録タグ:&tags() 】}
+//&ref(http://blog-imgs-40.fc2.com/f/u/n/fune117/20090516133323.jpg)
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186110462.jpg,x=300)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[悠久音色>悠久音色/CD]]|CENTER:&bold(){今宵誓い奇跡}|CENTER:[[星空恋唄>星空恋唄/CD]]|
+
+|&bold(){[[ふねP]]}|
+
+発売：2009年5月17日
+価格：￥500
+流通：即売
+サークル：ふねっこ
+ジャケットイラスト：まさき
+
+**CD紹介
+-THE VOC@LOiD M@STER 8（ボーマス8）で頒布されたふねPの3枚目のボーカロイドCD。
+
+**曲目
++今宵、誓い奇跡　（レン）
++禁断どおる　（レン）
++鏡☆ミラクル☆無限大　（リン）
++今宵、誓い奇跡　（カラオケ）
++禁断どおる　（カラオケ）
++鏡☆ミラクル☆無限大　（カラオケ）
+
+**リンク
+-[[ボカロード（作者ブログ）>>http://fune117.blog50.fc2.com/]]
+
+**コメント
+#comment

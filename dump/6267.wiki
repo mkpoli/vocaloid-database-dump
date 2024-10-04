@@ -1,0 +1,50 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+
+&ref(http://karent.jp/npdca/078_20091225200213_0240_0240.jpg)
+
+&nicovideo(http://www.nicovideo.jp/watch/nm8030068)
+
+|&bold(){[[iTunesStoreで購入する>>http://itunes.apple.com/jp/album/starlet/id329426414]]}|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[No answer>No answer/CD]]|CENTER:&bold(){STARLET}|CENTER:[[Child's Garden>Child's Garden/CD]]|
+
+|&bold(){[[otetsu]]}|
+
+>&b(){ジャケットイラスト：[[riria009]]}
+
+|流通|CENTER:即売|CENTER:配信|
+|発売|CENTER:2009年9月6日|CENTER:2009年9月9日|
+|価格|CENTER:￥1,000|CENTER:￥1,200|
+|サークル|CENTER:蟹になり隊||
+|レーベル||CENTER:KarenT|
+ 
+**CD紹介
+-既存曲のリミックス・リマスタリングに加え、新曲も数曲収録。otetsuベスト盤といえる構成になっている。
+-THE VOCALOID MASTER(ボーマス)9で初頒布。その後KarenTレーベルから配信販売が行われた。
+
+**曲目
++[[星屑ユートピア]] (feat. 巡音ルカ)
++eyes (feat. 初音ミク)
++[[End of the Ache]] (feat. がくっぽいど)
++[[graduation>graduation/otetsu]] (feat. 巡音ルカ)
++[[君を越えて]] (feat. 初音ミク)
++[[Happiness>happiness/otetsu]] (feat. 初音ミク)
++[[喪失モノクローム]] (feat. がくっぽいど)
++砂時計 (feat. 巡音ルカ)
++[[スローモーション]] (feat. 巡音ルカ)
++時代 (feat. がくっぽいど)
++[[迷的サイバネティックス]] (feat. 巡音ルカ)
++[[World's Crying]] (feat. がくっぽいど)
++[[籠]] (feat. 巡音ルカ)
+
+**リンク
+-[[作者ブログ>>http://otetsu721.blog60.fc2.com/]]
+-[[サークル告知ページ>>http://rebelizm.com/kani/]]
+-[[KarenT>>http://karent.jp/album/78]]
+
+
+**コメント
+- めっちゃｲｲ↑ハマります。otetsuさんの曲は迫力満点！ｱﾆﾒｲﾄで売ってたから買ったv  -- Mzk  (2010-09-29 14:40:09)
+- この頃のotetsuは良かった、ネ申アルバム  -- 名無し  (2013-07-24 15:33:57)
+#comment

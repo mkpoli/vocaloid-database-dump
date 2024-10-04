@@ -1,0 +1,23 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Return to zero original sound track ＃1]]|CENTER:&bold(){Return to zero／for twins}|CENTER:[[Return to zero original sound track ＃2]]|
+
+|&bold(){[[クウヤ]]}|
+
+発売：2008年9月23日
+価格：￥500（即売）・￥630（同人）
+流通：即売・同人
+サークル：すたじおEKO＆GP1
+
+**曲目
++[[vengeance]] / Len Kagamine
++direction（inst）
++[[for twins]] / Len＆Rin
++[[JIGEN-WO-KOETE>次元を超えて]] / Rin＆Miku
+
+**リンク
+-[[Project 0>http://project0.biz/]]
+-[[とらのあな>http://www.toranoana.jp/mailorder/article/04/0010/16/37/040010163702.html]]
+
+**コメント
+#comment

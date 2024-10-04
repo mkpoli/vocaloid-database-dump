@@ -1,0 +1,32 @@
+#right(){&furigana(かくかくP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://ext.nicovideo.jp/thumb_mylist/10217808" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/10217808">【ニコニコ動画】miora%40%E3%81%8C%E3%81%8F%E6%A5%BD%E7%9A%84%E3%83%9E%E3%82%A4%E3%83%AA%E3%82%B9</a></iframe>)
+
+**特徴
+作り手名：『&u(){がく楽P}』（&u(){がくがくP}）
+-初投稿作は「[[下剋上(完)]]」のがくぽ版替え歌（ボーカルは無し）。また、体験版がくぽで歌を入れたバージョンも投稿している。
+-がくぽやルカによるカバーや替え歌を多く投稿している。「下剋上」のルカバージョンの替え歌もがく楽P作。
+
+**リンク
+-[[ニコニコ>>https://www.nicovideo.jp/user/277944]]
+
+**曲
+#list_by_tag(がく楽P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(がく楽PCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(nm5469910)|&nicovideo(nm5830440)|
+|&nicovideo(sm6307971)|&nicovideo(sm6948152)|
+|&nicovideo(sm7147165)|&nicovideo(sm7334738)|
+|&nicovideo(sm7842583)|&nicovideo(sm8052988)|
+|&nicovideo(sm8385983)|&nicovideo(sm9087262)|
+|&nicovideo(sm9351287)|>|
+
+**コメント
+- 応援しています。  -- 名無しさん  (2013-04-14 21:02:26)
+#comment()

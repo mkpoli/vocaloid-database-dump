@@ -1,0 +1,43 @@
+#right(){&furigana()&furigana()【登録タグ:&tags()】}
+&nicovideo(http://www.nicovideo.jp/watch/sm4922846)
+作詞：[[river>river/作り手]]
+作曲：[[river>river/作り手]]
+編曲：[[river>river/作り手]]
+唄：初音ミク
+
+**曲紹介
+-river氏のボカロデビュー曲。
+-イラストに触発され、心地良いカラフルな感じを目指しました。（作者コメ転載）
+
+**歌詞
+just keep on trying,and flying
+I will be the light...
+
+夜明けを一つ
+始まる二人
+キミと奏でる symphony
+
+迷いを一つ
+輝きとする
+雲の向こうの光の果ては
+
+夜明けを一つ
+始まる二人
+キミと奏でる symphony
+
+世界を一つ
+輝きとする
+雲の向こうの光の果ては
+
+世界は広く　風に流され
+それでも赤い beat を打つ
+応えは白く　奏でる melody
+こんなに青い beat は無い
+
+世界は広く　風に流され
+逆らう赤い beat を打つ
+心は青く　永遠掴む
+輝くよ I will be the light
+
+**コメント
+#comment()

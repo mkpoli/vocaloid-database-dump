@@ -1,0 +1,47 @@
+#right(){&furigana(PsychopathicFanaticAggressiveDepressiveScreaming)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm9146715)|
+作詞：[[tatsuro]]
+作曲：[[tatsuro]]
+編曲：[[tatsuro]]
+唄：[[巡音ルカ]]・[[MEIKO]]
+
+**曲紹介
+>&bold(){見せかけの正義も愛も要らない。}
+曲名：『&u(){Psychopathic Fanatic Aggressive Depressive Screaming}』(&u(){さいこぱしっく　ふなてぃっく　あぐれっしぶ　でぷれっしぶ　すくりーみんぐ})
+-急→緩→急という曲構成。1分30秒の短い曲。〆のブツ切りは仕様。
+
+**歌詞
+
+go fight　go fight　go fight for justice
+justice　justice　justice to destroy
+destroy　destroy　destroy this world.
+
+go fight　go fight　go fight for justice
+justice　justice　justice to destroy
+destroy　destroy　destroy this world.
+
+（i dont want the world full of hatred）
+（but i dont need the world full of untrue love）
+
+go fight　go fight　go fight for justice
+justice　justice　justice to destroy
+destroy　destroy　destroy this world.
+
+go fight　go fight　go fight for justice
+justice　justice　justice to destroy
+destroy　destroy　destroy this world.
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+**コメント
+#comment()
+
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)

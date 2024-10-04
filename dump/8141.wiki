@@ -1,0 +1,32 @@
+#right(){【登録タグ:&tags()】}
+//↑タグ忘れ防止のための表示
+曖昧さ回避のためのページ
+----
+-[[れれれP]]の曲
+--[[NOSTALGIA/れれれP]]
+-[[muhmue]]の曲
+--[[Nostalgia/muhmue]]
+-[[ムジカデリク]]の曲
+--[[nostalgia/ムジカデリク]]
+-[[いかすP]]の曲
+--[[Nostalgia/いかすP]]
+-[[脱出型椎間板ヘルニアP]]の曲
+--[[nostalgia/脱出型椎間板ヘルニアP]]
+-[[YU-KI 69]]の曲
+--[[Nostalgia/YU-KI 69]]
+-[[めろくる]]の曲
+--[[Nostalgia/めろくる]]
+-[[仕事してP]]の曲
+--[[Nostalgia/仕事してP]]
+-[[てぃーたいむP]]の曲
+--[[Nostalgia/てぃーたいむP]]
+----
+-[[ムジカデリク]]のCD
+--[[nostalgia/ムジカデリクCD]]
+-[[doriko]]のCD
+--[[Nostalgia/dorikoCD]]
+
+//-類似タイトル
+//-[[]]の曲
+//--[[]]
+#include(曖昧さ回避の追加の仕方/告知)

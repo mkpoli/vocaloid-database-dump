@@ -1,0 +1,35 @@
+#right(){&furigana(ほしぞらこいうた) &furigana()【登録タグ:&tags() 】}
+//&ref(http://img.toranoana.jp/img/04/0010/19/77/040010197790-1.gif)
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186114120.jpg,x=300,y=300)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[今宵誓い奇跡]]|CENTER:&bold(){星空恋唄}|CENTER:[[狐ノ恋紋様]]|
+
+|&bold(){[[ふねP]]}|
+
+||CENTER:即売|CENTER:同人|
+|発売|>|CENTER:2009年9月6日|
+|価格|CENTER:￥500|CENTER:￥751（税込）|
+|サークル|>|CENTER:ふねっこ|
+|ジャケットイラスト|>|CENTER:まさき|
+
+**CD紹介
+-THE VOC@LOiD M@STER 9（ボーマス9）で頒布されたふねPの4枚目のボーカロイドCD。
+-収録の3曲で1つの物語を紡いでいる。
+-とらのあなで委託販売が行われた。
+
+**曲目
++[[星空恋唄]]　（レン）
++[[祈々唄]]　（ミク）
++[[恋乞唄]]　（リンレン）
++星空恋唄　（カラオケ）
++祈々唄　（カラオケ）
++恋乞唄　（カラオケ）
+
+**リンク
+-[[ボカロード（作者ブログ）>>http://fune117.blog50.fc2.com/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/19/77/040010197790.html]]
+
+**コメント
+#comment

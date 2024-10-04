@@ -1,0 +1,123 @@
+#right(){&furigana(L)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm10131571)|
+作詞：[[友場洋]]・[[影清]]
+作曲：[[AVTechNO]]
+編曲：[[AVTechNO]]
+イラスト：[[kior]]・[[クリマティウス]]
+動画：[[闇李]]
+プロデュース：[[endy]]
+唄：[[巡音ルカ]]
+
+**曲紹介
+曲名：『&u(){L}』
+-AVTechNO氏が中心となって結成されたサークル「&bold(){[[project EATA>>http://eata.web.fc2.com/]]}」の楽曲第3弾。
+-ニコニコ動画に投稿されたのは英語歌詞の「L - COMPmix」。
+-KarenTレーベルより日本語歌詞版と合わせて楽曲配信が行われている。
+
+**KarenT配信
+&ref(http://karent.jp/npdca/253_20100317000639_0240_0240.jpg)
+
+|CENTER:前作|CENTER:今作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){L}|CENTER:[[Adu-lt-N-Collection]]|
+
+形態：配信
+発売：2010年3月31日
+価格：￥300 / 1曲￥150
+レーベル：[[KarenT>>http://karent.jp/album/253]]
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/l-single/id364188165]]}|
+
+作詞・作曲：&bold(){[[友場洋]]・影清・[[AVTechNO]]}
+イラスト：&bold(){[[kior>>http://airaria.web.fc2.com/]]&[[クリマティウス>>http://piapro.jp/kirie4]]}
+
+***曲目
++L - COMPmix （feat. 巡音ルカ）
++L - other view （feat. 巡音ルカ）
+
+**歌詞
+（[[project EATA official website>>http://eata.web.fc2.com/l.htm]]より転載）
+
+This digital city classified by many glasses.
+Everyone possesses freedom and pain.
+looking down the city, I'm looking for freedom.
+another my reflection on distorted mirrors.
+I who became a butterfly at all.
+It seem like beckoning me.
+From the inside of the city light.
+Another I'm calling me again.
+“follow me.”
+
+vivid...
+I have lived in the cell from my pubescens.
+I believed that limited freedom was true freedom.
+But now this world spreads right in front of me.
+It is the pure world made dirty by no one.
+I wished to get true freedom.
+So, like that butterfly.
+Another I in the cell say 
+“There ain't the dangerous line.” 
+
+Fly in the world...Float in the air...ah...
+I want to break out my cell, to breathe in your call.
+Why does anyone invade my freedom?　
+I knew to want?
+Fly in the world...Float in the air...
+...for saving myself
+Fly in the world...Float in　the　air...
+...Reloaded.
+
+What do you look at? Anser
+What do you feel? No dangerous line.
+What do you think? Anser
+What do you receive? Who is sender?
+What do you hear? Anser Memory 
+What do you feel? No dangerous voice.
+What do you think? Anser
+What do you get? and lose under?
+
+There were no glasses, no mirrors & no borders.
+I only wanted to think that they were in the world. 
+I ain't restrained but I wanted the restraint in the cell. 
+Reality and Ideal. instinct and reason I notice I'm in you & You're in me.
+
+In endless loop.
+Everyone is free. Everything is free.
+So, You & I own two faces & two minds is free, too.
+Though, you & I are the same "ID". 
+Seek for butterfly. Reach out butterfly.
+Vivid lights call me again tonight.
+
+When I was a child, I was innocent and pure. 
+I used to run after a beautiful butterfly in the wide grasses
+under that lightcyan blue sky.
+I reached out it, again & agein.
+Remember memory?
+There ain't border of the dream and the reality there. 
+However, There were wide grasses,
+lightcyan blue sky, beautiful butterfly & me.
+
+blink　my　my　mind　Awake...
+
+Now, this digital city classified by many glasses
+surely　extends in front of me. 
+If it's free to write the border, it's also free to exceed the border.
+It is me that decide & accept.
+The cell has already been opened.
+& That memory of butterfly was you.
+It's just another me...
+It's just free that I want.
+
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+**コメント
+- 壮大でカッコよすぎ。これは完璧電子ドラッグ  -- 名無しさん  (2010-10-31 14:06:17)
+//- 熱くベッドを  -- 名無しさん  (2011-01-05 06:14:12)
+#comment()

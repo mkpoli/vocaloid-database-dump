@@ -1,0 +1,25 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/6473042" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/6473042">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-別名&bold(){ぴっとんP}
+-NHK教育TVのカバーが多い
+
+**リンク
+-[[ピアプロ>>http://piapro.jp/kamomirukamonohashi]]
+
+**曲
+#list_by_tag(kamomiru,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/nm3038872)|&nicovideo(http://www.nicovideo.jp/watch/nm3050323)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm3063291)|&nicovideo(http://www.nicovideo.jp/watch/sm3090259)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm3130368)|&nicovideo(http://www.nicovideo.jp/watch/sm4341600)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5405840)|&nicovideo(http://www.nicovideo.jp/watch/nm6062232)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm6114529)|&nicovideo(http://www.nicovideo.jp/watch/nm6183206)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6293572)|&nicovideo(http://www.nicovideo.jp/watch/nm7396335)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm8053018)|&nicovideo(http://www.nicovideo.jp/watch/sm8624455)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9128122)|&nicovideo(http://www.nicovideo.jp/watch/sm9742558)|
+
+**コメント
+#comment()

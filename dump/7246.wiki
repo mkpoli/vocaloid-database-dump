@@ -1,0 +1,63 @@
+#right(){&furigana(ShoegazingFuneral)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm8780226)|
+作詞：[[マイゴッドP]]
+作曲：[[マイゴッドP]]
+編曲：[[マイゴッドP]]
+唄：[[巡音ルカ]]
+
+**曲紹介
+曲名：『&u(){Shoegazing Funeral}』(&u(){しゅーげいじんぐ　ふゅーねらる})
+-（動画の説明文及び、投稿者1コメ等より）
+　マイゴッド「さようなら。私の世界」
+　#52 A long long Introduction
+　HammerHead 1.0のプリセット音色、Sadowsky TOKYO RS、巡音ルカのみ使用。BPM50。 
+-"[[Ring of Love]]"から続く世界。静かに激しく、終わる世界を独りで迎える唄か。
+-タイトルや歌詞中いくつかのキーワードから、大切な人の葬儀を見つめながら別れを告げる唄にもとれる。
+
+**歌詞
+（動画中より引用）
+
+　&font(#999999){- Another side of "Ring of Love"-}
+
+Ring a bell, (It's a) Ring of life.
+Ring a bell, (It's a) Ring of life.
+Ring a bell, (It's a) Ring of life.
+Ring a bell, (It's a) Ring of life.
+
+Burning.
+
+You're burning, and burning.
+But I can't be crying.
+And so I'm shoegazing.
+And in my ear, ring of death.
+
+You're burning, and burning.
+But I can't be crying.
+And so I'm shoegazing.
+And in my ear, ring of death.
+
+
+　&font(#999999){私は泣く事も出来ずに、ただ足元を見つめていた。}
+　&font(#999999){さようなら。私の山査子の花。}
+　&font(#999999){貴方と共に、今日、世界は終わるわ。}
+　&font(#999999){この後に続く永遠を私はどう生きればいいのかしら。}
+　&font(#999999){貴方と一緒にいけなくてごめんなさい。}
+　&font(#999999){さようなら。}
+
+　&font(#999999){さようなら。}
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+**コメント
+- ページ作成はしてみたものの、新曲はやはり音楽の知識のある人に曲紹介をしてもらいたいなあと思わないでもない。 &br()曲の解釈については本文にあまり書くべきではないだろうし。  -- ページ作成者  (2009-11-15 01:12:11)
+#comment()
+
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)

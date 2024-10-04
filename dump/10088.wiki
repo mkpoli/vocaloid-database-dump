@@ -1,0 +1,35 @@
+#right(){&furigana(だれよりもHappyDay) &furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/162_20100106030042_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[雨フリノチハ晴レキブン>雨フリノチハ晴レキブン/CD]]|CENTER:&bold(){誰よりもHappyDay}|CENTER:[[Gothic]]|
+
+|&bold(){[[杏あめ（匿名希望の東京都在住）]]}|
+
+||CENTER:即売|CENTER:同人|CENTER:配信|
+|発売|>|CENTER:2008年12月29日|CENTER:2010年1月13日|
+|価格|CENTER:￥800|CENTER:￥840（税込）|CENTER:￥150|
+|サークル|>|CENTER:匿名希望の東京都在住|CENTER:-|
+|レーベル|>|-|CENTER:KarenT|
+|ジャケットイラスト|>|>|CENTER:片腹痛士|
+
+**CD紹介
+-匿名希望の東京都在住の&bold(){5thシングル}。
+-購入者特典として、アニメPV動画（MPEG）&初音ミク×巡音ルカ-twin vocal ver.-の高音質MP3が作者サイトにてダウンロード可能になる。
+-Full Ver.はKarenTレーベルより配信シングル『&bold(){誰よりもHappyDay feat.初音ミク}』として、ダウンロード販売が行われている。
+
+**曲目
+***CD版
++[[誰よりもHappyDay]] -Full Ver.-
++誰よりもHappyDay -KARAOKE Ver.-
++誰よりもHappyDay -NicoNico Ver.-
+***配信版
++誰よりもHappyDay feat.初音ミク
+
+**リンク
+-[[ApricotCandy*（作者ブログ）>>http://anzutokumeikibou.blog96.fc2.com/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/17/22/040010172206.html]]
+-[[KarenT：『誰よりもHappyDay feat.初音ミク』>>http://karent.jp/album/162]]
+
+**コメント
+#comment

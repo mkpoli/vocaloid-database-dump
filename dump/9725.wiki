@@ -1,0 +1,44 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&ref(http://ulys.up.seesaa.net/image/041011-thumbnail2.png)
+&nicovideo(http://www.nicovideo.jp/watch/sm10528967)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&b(){Comet}|CENTER:-|
+
+|&bold(){[[兄弟P]]}|[[骨盤P]]|
+
+||CENTER:即売|CENTER:同人|
+|発売|CENTER:2010年5月9日|CENTER:-|
+|価格|CENTER:￥1,000|CENTER:￥-|
+|サークル|>|CENTER:Project Nostalgia|
+
+>作詞・作曲：&b(){[[兄弟P]]}
+>ジャケットイラスト：&b(){nawo,[[さささP]]}
+>[[DTP>>http://ja.wikipedia.org/wiki/DTP]]、タイトルロゴ：&b(){ヨシヲ}
+
+**CD紹介
+-兄弟P単独名義としては初となるアルバム。
+-THE VOC@LOID M@STER 12（ボーマス12）で発表される。
+-新曲や新アレンジ、[[骨盤P]]の楽曲のアレンジを含めた、全12曲を収録している。
+
+**曲目
++Dear...
++[[風切羽]]（かぜきりばね）
++[[瞳の母]]
++[[Machine M"e"iden>>Machine Meiden]]
++Love...
++[[雪月風花]]（作詞・作曲：骨盤P）
++[[after the end]]（作詞・作曲：骨盤P）
++[[星の子守唄]]
++[[コメット]]
++Machine M"e"iden (Acoustic Ver.)
++星の子守唄 (Acoustic Ver.)
++Comet...
+
+**リンク
+-[[特設サイト>>http://nostalgia.takap.tk/solo/comet/]]
+-[[CD告知＠ブログ>>http://ulys.seesaa.net/article/146257490.html]]
+-[[Project Nostalgia>>http://nostalgia.takap.tk/]]
+
+**コメント
+#comment

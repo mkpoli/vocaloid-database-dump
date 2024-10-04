@@ -1,0 +1,36 @@
+#right(){&furigana(かいわれだいこん) &furigana()【登録タグ:&tags() 】}
+
+//&ref(http://aquastream.web.fc2.com/scd2jc_m.jpg)
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186138775.jpg,x=300,y=300)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[innocence>innocence/初心PCD]]|CENTER:&bold(){かいわれ大根}|CENTER:[[aquamarine>aquamarine/CD]]|
+
+|&bold(){[[初心P]]}|
+
+発売：2009年11月15日
+価格：￥300
+流通：即売
+サークル：aquastream
+
+**CD紹介
+-aquastream special CD 2
+-Tr.2とTr.6の「自爆」は、初心Pが作曲したものである。
+
+
+**曲目
++[[かいわれ大根]] -original mix-
++[[自爆>自爆/初心P]]
++[[自己空洞論]]
++かいわれ大根 -real mix-
++かいわれ大根 -instrumental-
++自爆 -instrumental-
++自己空洞論 -instrumental-
+
+**リンク
+-[[特設サイト>>http://aquastream.web.fc2.com/scd2.html]]
+-[[作者サイト（aquastream）>>http://aquastream.web.fc2.com/]]
+
+**コメント
+#comment

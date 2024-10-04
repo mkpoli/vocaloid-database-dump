@@ -1,0 +1,38 @@
+#right(){&furigana(にしざわだいいっしゅう) &furigana()【登録タグ:&tags() 】}
+//&ref(http://img.toranoana.jp/img/04/0010/22/30/040010223064-1.gif)
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186117412.jpg,x=300,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm10392586)
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[迷子ライフ]]|CENTER:&bold(){西沢第一集 (She is not here.)}|CENTER:[[ぐみたん！]]|
+
+|&bold(){[[西沢さんP]]}|[[灯下はこ、]]|
+
+||CENTER:即売|CENTER:同人|
+|発売|CENTER:2010年5月9日|CENTER:|
+|価格|CENTER:￥1,000|CENTER:￥1,470|
+|サークル|>|CENTER:量産型西沢さん。|
+
+>作詞・作曲：&bold(){[[西沢さんP]]}・&bold(){[[桃華なゆた>灯下はこ、]]}
+>イラスト：&bold(){[[猫太]]}
+
+|&bold(){[[とらのあなで購入する>>http://www.toranoana.jp/mailorder/article/04/0010/22/30/040010223064.html]]}|
+
+**CD紹介
+-西沢さんP の 1st mini album.
+-現時点で自身最大のヒット曲である「迷子ライフ」、桃華なゆた（現：灯下はこ、）氏とコラボレーションした根音ネネオリジナル曲「花になる」など、全6曲を収録。
+-THE VOC@LOiD M@STER 12（ボーマス12）にて頒布。
+-CDジャケットのデザインは 猫太氏 が手掛ける。
+-現在、とらのあなで委託販売が行われている。
+
+**曲目
++[[フルボリューム]]
++[[白昼、黒く透明]]
++[[ショコラ>ショコラ/西沢さんP]]
++[[花になる>>http://www24.atwiki.jp/utauuuta/pages/569.html]]
++[[迷子ライフ]]
++[[彗星ミッドナイト]]
+
+**コメント
+#comment

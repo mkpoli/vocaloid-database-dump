@@ -1,0 +1,39 @@
+#right(){&furigana(5らうんとP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/7965279" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/7965279">【ニコニコ動画】</a></iframe>)
+
+**特徴
+作り手名：『&u(){5ラウンドP}』
+-2008/8/2に「[[かえりみち>かえりみち/5ラウンドP]]」でデビュー。&br()それ以来、80曲近くを投稿している、多作なPの一人。
+-過去曲のリメイク・アレンジも結構よく行う。
+-P名の由来は、曲タイトル「[[メリーゴーラウンド>メリーゴーラウンド/5ラウンドP]]」を、間違って「メリーゴラウンド」と綴ってしまった事から。
+-[[鉄人バンド]]のメンバーでもある。
+-所有するボーカロイドは初音ミク、鏡音リン・レン、巡音ルカ、GUMI、歌愛ユキ、KAITO。
+
+**リンク
+-[[ピアプロ>>https://piapro.jp/notpjindex]]
+//-[[５ラウンドP屋さん（ブログ）>>http://www.voiceblog.jp/5roundp/]]
+
+**曲
+#list_by_tag(5ラウンドP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(5ラウンドPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画（再生数の多い順に10曲）
+|&nicovideo(sm7265310)|&nicovideo(sm12018419)|
+|&nicovideo(nm5988517)|&nicovideo(sm8738313)|
+|&nicovideo(sm8998749)|&nicovideo(sm11234882)|
+|&nicovideo(sm10985681)|&nicovideo(sm9957615)|
+|&nicovideo(sm5991721)|&nicovideo(sm9644092)|
+
+**コメント
+//- メグッポイド  -- 名無しさん  (2010-12-12 02:07:02)
+- P名の由来そうだったんだｗ  -- 名無しさん  (2011-01-16 15:06:13)
+- ５ラウンドPの歌、ハマる。　ずっと聞いてます。  -- 鈴  (2013-03-04 16:35:32)
+- ボカランの件で荒れてるけど気にしないでこれからもがんばって欲しい  -- 名無しさん  (2013-07-01 19:20:23)
+- この人のいい噂は聞かないなー  -- 名無しさん  (2014-02-08 12:40:00)
+#comment()

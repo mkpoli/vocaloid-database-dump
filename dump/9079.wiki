@@ -1,0 +1,43 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+|UMOREMIXジャケット&br()&ref(http://img.toranoana.jp/img/04/0010/18/48/040010184872-1.gif)|UMOREMIX ONLINEジャケット&br()&ref(http://karent.jp/npdca/031_20091225193521_0240_0240.jpg)|
+
+&nicovideo(http://www.nicovideo.jp/watch/nm6823182)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){UMOREMIX&br()（UMOREMIX ONLINE）}|CENTER:[[ガディスジュラガ>ガディス・ジュラガ]]&br()[[消えてゆく君のうた声>消えてゆく、君の歌声]]&br()[[おさなごころの日々]]&br()[[カミアソビ]]&br()[[もう帰らない、夏のうた]]&br()[[記憶の街]]&br()[[星明りの道]]&br()[[君の見てる空]]|
+
+|&b(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/umoremix-online/id322260883]]}|
+
+|&bold(){[[ブンガP]]}|
+
+||CENTER:通販|CENTER:同人|CENTER:配信|
+|発売||CENTER:2009年5月20日|CENTER:2009年7月8日|
+|価格|CENTER:￥1,300|CENTER:￥1,365（税込）|CENTER:￥900 / 1曲￥150|
+|レーベル|CENTER:-|CENTER:-|CENTER:KarenT|
+|名義|>|>|CENTER:[[BUNGALANGIT>>http://karent.jp/artist/pp000038]]|
+
+**CD紹介
+-[[ブンガP]]初のVOCALOIDアルバム。
+-これまで発表したVOCALOID楽曲9曲に未発表の「あかとんぼ」を収録したアルバム。配信版『UMOREMIX ONLINE』では「あかとんぼ」は未収録になっている。
+-タイトル通り、自身の発表作が多くの人の目に留まることなく「埋もれてしまった」ことへの嘆きがタイトルや作品概要に表れており、一度それを苦にニコニコ動画の投稿作品を全削除したことがあった。
+-しかし、このアルバムが予想以上に売れたことから、再びVOCALOIDの活動を再開するモチベーションが湧いてきたという。
+
+**曲目
++[[埋れてくミクのうた>埋もれてくミクのうた]] (feat. 初音ミク)
++悲しみの翼 (feat. 初音ミク)
++オトノナマエ (feat. 初音ミク)
++星の声 (feat. 初音ミク)
++[[もう帰らない、夏のうた]] (feat. 初音ミク)
++あんたがたどこさ (feat. 初音ミク)
++[[おさなごころの日々]] (feat. 初音ミク)
++テーサカーンモーラムファイ！ (feat. 初音ミク)
++[[遠音>遠音～とおね～]] (feat. 初音ミク)
++あかとんぼ (feat. 初音ミク)　　※配信版では未収録
+
+**リンク
+-[[作者ブログ>>http://ameblo.jp/vocalotus/]]
+-[[KarenT『UMOREMIX ONLINE』>>http://karent.jp/album/31]]
+-[[KarenT『BUNGALANGIT』>>http://karent.jp/artist/pp000038]]
+
+**コメント
+#comment

@@ -1,0 +1,34 @@
+#right(){&furigana(らいめいあんぷりふぁ　らいめいさすていん) &furigana()【登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186119898.jpg,x=300,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm10409647)
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Know Title]]|CENTER:&b(){雷鳴アンプリファ/雷鳴サステイン}&br()[[Jericho 941]]|CENTER:[[キミの色・ボクの音>キミの色・ボクの音/CD]]|
+
+|&bold(){[[雷鳴P]]}|
+
+発売：2010年5月9日 
+価格：￥300 
+流通：即売 
+サークル：Art Polyphony 
+
+**CD紹介
+-雷鳴PのシングルCD。『[[Jericho 941]]』と同時に発表された。
+-THE VOC@LOiD M@STER 12（ボーマス12）で頒布。
+-人気曲「[[雷鳴アンプリファ]]」と、それに対応する新曲「[[雷光サステイン]]」を含めた、全3曲を収録。
+-ボーカルは全曲鏡音レン。
+-ジャケットイラストは青野あじる氏。
+
+**曲目
++[[雷鳴アンプリファ]]
++[[雷光サステイン]]
++[[November moon]]
+
+**リンク
+-[[作者HP>>http://papillon-mm.hp.infoseek.co.jp/]]
+-[[作者ブログ>>http://papillon0mm.blog15.fc2.com/]]
+-[[サークルHP>>http://art-polyphony.sakura.ne.jp/]]
+
+**コメント
+#comment

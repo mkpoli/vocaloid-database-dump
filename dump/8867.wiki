@@ -1,0 +1,31 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/067_20091225195052_0240_0240.jpg)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm8090624)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[period 1]]|CENTER:&bold(){link}|CENTER:[[NextOne]]|
+
+|&bold(){[[Re:nG]]}|[[yuki]]|
+
+発売：2009年08月31日
+価格：￥150
+流通：配信
+サークル：Re:nG
+
+**CD紹介
+-初音ミク2周年にあわせ、Re:nG名義で発表された配信シングル。
+-KarenTレーベルより、iTunes Storeをはじめとする音楽配信サイトで購入することができる。
+-Re:A歌唱版も同時公開されている。「[[初音ミクの『link』を人間が歌ってみた【Re:A】>>http://www.nicovideo.jp/watch/sm8090621]]」
+-ジャケットイラストは「[[きみかわ>>http://piapro.jp/niwaka22]]」氏が担当。
+
+**曲目
++[[link>LINK/Re:nG]]
+
+**リンク
+-[[KarenT：「link」>>http://karent.jp/album/67]]
+-[[KarenT：「初音ミク 2nd Anniversary」特集ページ>>http://karent.jp/special/miku09]]
+-[[Re:nG氏の作品リスト>>http://reng.jp/media/]]
+
+**コメント
+#comment

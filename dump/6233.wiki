@@ -1,0 +1,57 @@
+#right(){&furigana(おにゅうP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/9484206" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/9484206">【ニコニコ動画】うｐして申し訳ありません･･･</a></iframe>)
+
+**特徴
+-某地デジ大使の騒動から着想した「[[裸だったら何が悪い～sing go～]]」でブレイクしたミク＆ルカ使い。
+-変わったタイトルからは予想できない、「謎の感動」を与える楽曲作りに定評がある。
+--転調の使い方が巧妙。絶妙なタイミングで転調させ、「謎の感動」に繁げている。
+-「裸だったら何が悪い～sing go～」の後も、「[[終わらないハンマー・タイム]]」「[[祝ってやる]]」「[[クソゲー実況プレイ]]」「[[般若心経ポップ]]」「[[ハートディスクドライブ]]」「[[神曲>神曲/おにゅうP]]」「[[鬱くしい花]]」も殿堂入りを果たす。
+-2011年1月29日に「般若心経ポップ」が自身初の[[ミリオン>曲一覧/ミリオン曲一覧]]を達成する。
+//2014年8月24日に「般若心経ポップ」200万再生達成。
+- 以前はmy92という名義で活動していた。
+- ボカロ以外でもアレンジや歌ってみたでも活躍している。
+- ネタのイメージが強いが真面目な曲もあります。
+
+**ミリオン達成状況
+|CENTER:&bold(){曲名}|CENTER:&bold(){100万再生}|CENTER:&bold(){200万再生}|CENTER:&bold(){300万再生}|CENTER:&bold(){備考}|
+|[[般若心経ポップ]]|2011年1月29日|2014年8月24日|2022年7月8日||
+|[[神曲>神曲/おにゅうP]]|2024年2月12日|||編曲は[[ピノキオピー]]|
+
+**リンク
+- [[ぼかろいじりはぁはぁ（作者ブログ）>>http://newribahuro.blog34.fc2.com/]]
+- [[PIAPRO>>http://piapro.jp/my92]]
+- [[Twitter>>http://twitter.com/onewmy92]]
+- [[YouTube>>https://youtube.com/channel/UC0FZbfIlnB0uwWwju6yRFgw]]
+
+**曲
+#list_by_tag(おにゅうP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(おにゅうPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm6357365)|&nicovideo(http://www.nicovideo.jp/watch/sm6505086)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6563846)|&nicovideo(http://www.nicovideo.jp/watch/sm6742087)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6818810)|&nicovideo(http://www.nicovideo.jp/watch/sm6996297)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7136774)|&nicovideo(http://www.nicovideo.jp/watch/sm7593541)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm8396261)|&nicovideo(http://www.nicovideo.jp/watch/sm8433038)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm8644071)|&nicovideo(http://www.nicovideo.jp/watch/sm8966268)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9494968)|&nicovideo(http://www.nicovideo.jp/watch/sm9960375)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm10833330)|&nicovideo(http://www.nicovideo.jp/watch/sm11912617)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm11982230)|&nicovideo(http://www.nicovideo.jp/watch/sm13452778)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm13894077)||
+
+**コメント
+- 世界はおっぱいに満ちている　ッてｗｗ  -- 名無しさん  (2009-12-22 22:38:45)
+- おにゅうPの謎の感動を与える作風が大好きです  -- 名無しさん  (2010-08-08 19:18:32)
+- 謎の感動をありがとう  -- （＾◇＾）  (2010-09-11 13:59:51)
+- 般若心経ミリオンおめでとうございます！  -- 名無しさん  (2011-02-01 23:36:54)
+- おにゅうP「クソゲー」から知ったんですよねw　曲どれも感動しちゃう・・・　これからも応援したいですww  -- 麻里亜  (2011-03-07 06:31:48)
+- 復活したねるねるねるねにｷｴﾔｧｧｧｧｧｧｼｬﾍﾞｯﾀｰを組み合わせるとかwww　sm13717303  -- 名無しさん  (2011-03-12 22:52:54)
+- やりすぎ　今度はＡＣかよwwwww  -- 名無しさん  (2011-03-19 10:32:40)
+- 鬱くしい花配信して欲しいなー････  -- 名無しさん  (2011-06-11 23:24:20)
+- もう２つもコンピのCD入りかー・・・すっかり有名Pになっちまたな・・・なんか寂しいぜ  -- 名無しさん  (2011-07-17 02:06:35)
+- ハートディスクドライブ大好きだwおにゅうPはネタ曲うまいけど感動曲もうまい。  -- 名無しさん  (2011-07-18 00:59:19)
+- おにゅうさんの曲はどれも心に響くものばかりでいつも励まされてる。これからも応援してます  -- 真白  (2014-02-03 21:36:49)
+- ワクワクチンチンから知りました 神曲ですね  -- 名無しさん  (2023-02-08 17:08:50)
+#comment()

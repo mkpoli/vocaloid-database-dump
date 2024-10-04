@@ -1,0 +1,32 @@
+#right(){&furigana(ちょこくろ♪) &furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/276_20100411212406_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Sailing to Hope]]|CENTER:&bold(){チョコクロ♪}|CENTER:[[Rainy Day>Rainy Day/バルP]]|
+
+|&bold(){[[バルP]]}|
+
+発売：2010年4月28日
+価格：￥300 / 1曲￥150
+流通：配信
+レーベル：KarenT
+ジャケットイラスト：[[Croya>>http://piapro.jp/croya]]
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/id368497518]]}|
+
+**CD紹介
+-メグッポイドと鏡音リンの素敵な休日を描く元気になれるロックナンバー。（KarenT作品概要より）
+-何故チョコクロかって？素敵な休日はチョコクロがないと始まりませんから。素敵じゃない休日も、チョコクロがあれば素敵になるんです。（作者ブログより）
+-KarenTの「素敵な休日'10」企画で配信された作品の1つ。
+
+**曲目
++チョコクロ♪ （feat. メグッポイド＆鏡音リン）
++チョコクロ♪ （instrumental）
+
+**リンク
+-[[KarenT：「チョコクロ♪」>>http://karent.jp/album/276]]
+-[[KarenT：「素敵な休日'10」特集ページ>>http://karent.jp/special/holiday10]]
+-[[喰処 『らいむらいと』（作者ブログ）>>http://avalgomilon.blog29.fc2.com/blog-entry-7.html]]
+
+**コメント
+#comment

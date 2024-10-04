@@ -1,0 +1,45 @@
+#right(){&furigana(effe)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://ext.nicovideo.jp/thumb_mylist/11652609" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/11652609">【ニコニコ動画】%E3%83%9C%E3%82%AB%E3%83%AD%E6%9B%B2%26remix</a></iframe>)
+
+**概要
+作り手名：『&u(){effe}』
+-アンビエント、エレクトロニカ曲を発表しているP。
+-テクノやらエレクトロニカがとても好きで、中学の時より電子音楽を聴き始める。
+-その後ロックを聴き始めるという一般的に多いロック→テクノとは逆の流れで音楽が広がる。
+-音楽で大事にしているのは「口ずさめるようなメロディやフレーズ」。
+
+**特徴
+-世界観や情景等をイメージさせる音を使用しているのが特徴。
+>僕は音の質感とか印象といった、凄く漠然としたものをイメージして曲を作ることが多いです。 [[HPの2009月12日26の日記より>>http://effel.blog11.fc2.com/blog-entry-5.html#more]]
+-曲を通して聴く内に頭の中に曲の世界観や情景が思い浮かぶ。
+
+**リンク
+-[[PIAPRO>>https://piapro.jp/effe]]
+-[[HP『ハコニワエフェクト』>>http://effel.blog11.fc2.com/]]
+-[[KarenT>>https://karent.jp/artist/pp000237]]
+
+**曲
+#list_by_tag(effe,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(effeCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+***オリジナル曲
+|&nicovideo(nm6211706)|&nicovideo(nm7593555)|
+|&nicovideo(nm7702643)|&nicovideo(nm7972241)|
+|&nicovideo(sm9194436)|&nicovideo(sm9797544)|
+|&nicovideo(sm11136148)|&nicovideo(sm12468990)|
+|&nicovideo(sm13263203)|>|
+
+***カバー
+|&nicovideo(nm8240672)|&nicovideo(nm8265110)|
+
+**コメント
+- 新曲も素敵です…！！  -- 名無しさん  (2010-02-24 09:32:20)
+- effeさんの曲大好き!  -- 名無しさん  (2010-05-26 07:07:58)
+#comment()

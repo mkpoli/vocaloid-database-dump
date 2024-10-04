@@ -1,0 +1,68 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+|&ref(http://karent.jp/npdca/042_20091225194223_0240_0240.jpg)&br()2009年版ジャケット|&ref(http://karent.jp/npdca/720_20110524083934_0240_0240.jpg)&br()2011年版ジャケット|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Lovely Diva}|CENTER:[[Feel so easily]]|
+
+|&bold(){[[MineK]]}|
+
+|流通|>|CENTER:配信|CENTER:即売|CENTER:委託|
+|発売|CENTER:2009年7月29日|CENTER:2011年6月1日|CENTER:2011年6月12日|CENTER:2011年6月|
+|価格|CENTER:アルバム￥1,200、1曲￥150|CENTER:￥1,500 / 1曲￥150||CENTER:￥1,470（税込）|
+|レーベル|>|CENTER:KarenT|CENTER:-|CENTER:-|
+|サークル|>|CENTER:-||CENTER:sukimono|
+
+|&b(){[[iTunesStoreで購入する>>http://itunes.apple.com/jp/album/lovely-diva/id440644454]]}|
+
+**CD紹介
+-MEIKO・がくっぽいどをメインに楽曲を発表してきた「MineK」氏の1stアルバム。
+-『ボーカロイドならではの高音域で歌うMEIKOが特徴です。』（KarenT作品概要より）
+-極上のハウスを味わえる全15曲、是非ご賞味あれ。
+-2011年には音源とジャケットを一新したリメイク版が発表された。新作アルバム『[[Make up Love>Make up Love/CD]]』と同時リリース。
+-リメイクに際してCD化し、THE VOC@LOiD M@STER 16（ボーマス16）にて頒布。とらのあなでの委託販売が行われている。
+
+**クロスフェード動画
+|&nicovideo(nm14770317)|
+
+**曲目
+***2009年版・CD版
++Lovely Diva - prologue - (feat. MEIKO)
++[[Crazy Love]] (feat. MEIKO)
++[[Love Passion]] (feat. MEIKO)
++[[Straight Feeling]] (feat. MEIKO)
++[[Starry Night>Starry Night/MineK]] (feat. MEIKO)
++[[Favorite Morning]] (feat. MEIKO)
++[[Cyber Trap]] (feat. MEIKO)
++[[I Miss You>I miss you/MineK]] (feat. MEIKO)
++[[Misty Sky]] (feat. MEIKO)
++[[Daydream Catcher]] (feat.がくっぽいど & MEIKO)
++[[Under the Blue]] (feat.がくっぽいど & MEIKO)
++Delicate Love (feat.がくっぽいど & MEIKO)
++[[Still Love You>Still Love You/MineK]] (feat. MEIKO)
++[[Brain Striker]] (feat. MEIKO)
++[[Energetic Force]] (feat.がくっぽいど & MEIKO)
+
+***2011年版
++Lovely Diva - prologue - (feat. MEIKO)
++[[Love Passion]] (feat. MEIKO)
++[[Crazy Love]] (feat. MEIKO)
++[[Straight Feeling]] (feat. MEIKO)
++[[Starry Night>Starry Night/MineK]] (feat. MEIKO)
++[[Favorite Morning]] (feat. MEIKO)
++[[Cyber Trap]] (feat. MEIKO)
++[[I Miss You>I miss you/MineK]] (feat. MEIKO)
++[[Misty Sky]] (feat. MEIKO)
++[[Daydream Catcher]] (feat.がくっぽいど & MEIKO)
++[[Under the Blue]] (feat.がくっぽいど & MEIKO)
++Delicate Love (feat.がくっぽいど & MEIKO)
++[[Still Love You>Still Love You/MineK]] (feat. MEIKO)
++[[Brain Striker]] (feat. MEIKO)
++[[Energetic Force]] (feat.がくっぽいど & MEIKO)
+
+**リンク
+-[[KarenT『Lovely Diva』（2011年版）>>http://karent.jp/album/720]]
+-[[KarenT『MineK』>>http://karent.jp/artist/pp000054]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0020/01/36/040020013696.html]]
+
+**コメント
+#comment

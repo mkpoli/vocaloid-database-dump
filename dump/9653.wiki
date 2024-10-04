@@ -1,0 +1,48 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+
+&ref(VLP_jacket.jpg)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm10409879)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){V.L.P.}|CENTER:-|
+
+|[[パンドリストP]]|[[ゆよゆっぺ]]|[[鬱P]]|[[Myriad]]|[[KEI]]|
+|[[無力P]]|[[LIQ]]|[[SHUN]]|[[Yoshihi]]|[[164]]|
+
+>&b(){ジャケットイラスト：[[晩杯あきら>>http://yatsukame.web.fc2.com/]]}
+>&b(){ジャケットデザイン：[[meola]]}
+>&b(){サイトデザイン：[[喜兵衛]]}
+
+||CENTER:即売|CENTER:同人|
+|発売|CENTER:2010年5月9日|CENTER:2010年5月19日|
+|価格|CENTER:￥1,000|CENTER:￥1,350(税込)|
+|サークル|>|CENTER:V.L.P.|
+
+**CD紹介
+>&b(){史上"&color(red){最重}"VOCALOIDコンピレーションアルバム。}
+-"Vocaloid Loud Project"、略して"V.L.P."
+-THE VOC@LOiD M@STER 12（ボーマス12）で頒布される、ラウド系の曲を集めたコンピレーション。
+-全員ダウンチューニング。
+-現在とらのあなで委託販売されている。
+
+**曲目
++Ready to Fight for Yourself / [[ミナツキトーカ>パンドリストP]]	
++I'm here / [[ゆよゆっぺ]]
++[[害虫]] / [[鬱P]]
++[[Broken Arms]] / [[Myriad]]/作詞：[[KEI]]
++[[a balance]] / [[無力P]]
++Strawberry on the XIII garrows / [[LIQ]]
++PAST OF ABYSS / [[SHUN]]
++[[Identity>Identity/Yoshihi]] / [[Yoshihi]]
++answer / [[164]]
+
+**リンク
+-[[公式サイト>>http://vocaloud.com/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/22/27/040010222725.html]]
+
+**コメント
+- とらのあな売り切れ(´；ω；｀)オークション探してもないし、もう手に入らないのかな･･･  -- Mikariau  (2011-09-05 04:00:37)
+- アニメイト販売希望！  -- 名無しさん  (2011-10-23 10:34:22)
+- VOCALOID RECORDSから同じコンセプトのコンピ出てるけどこっちのほうが粒揃いで好き  -- 名無しさん  (2016-07-29 23:23:58)
+#comment

@@ -1,0 +1,60 @@
+#right(){&furigana(SpiritualGarden)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo(http://www.nicovideo.jp/watch/sm9367727)
+作詞：[[エスノP]]
+作曲：[[エスノP]]
+編曲：[[エスノP]]
+唄：[[巡音ルカ]]
+
+**曲紹介
+曲名：『&u(){Spiritual Garden}』
+
+**歌詞
+（[[作者ブログ>>http://rhythmania02.blog100.fc2.com/blog-entry-15.html]]より転載）
+
+Children who don't know love go up the stairs.
+Light that draws the spiral aims at the garden.
+
+It's so quiet and beautiful.
+Full of love.
+
+
+Children who don't know all go up the stairs.
+Light that draws the spiral aims at the gate.
+
+It's so quiet and beautiful.
+Full of love.
+
+
+Perfect love.
+Full of love.
+
+
+Gate of the paradise opens.
+All terminal stations.
+Gate of the paradise opens.
+Only love shines on there.
+
+
+Crowd of light.
+Twinkle star.
+Sea of cloud.
+Promise land.
+Song of peace.
+Angel sings.
+Blest of god.
+Full of love.
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+**コメント
+#comment()
+
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)

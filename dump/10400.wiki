@@ -1,0 +1,82 @@
+#right(){&furigana(SHOキセノンP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/18521594" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/18521594">【ニコニコ動画】</a></iframe>)|&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/19936108" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/19936108">【ニコニコ動画】</a></iframe>)|
+
+**特徴
+作り手名：『&u(){SHO（キセノンP）}』
+-本業はヴォーカリストであり、以前からボカロオリジナル曲や東方Projectのアレンジ曲を制作している。
+-初のニコ動投稿曲でもある「[[はやぶさ>はやぶさ/SHO（キセノンP）]]」は自身初の殿堂入り作品である。
+-Use+keY（[[乙女P]]）とともにXMというサークルに所属している。
+-XMは本人が所属しているサークルであり、Sonic Hybrid Orchestraという個人サークルにおいてVocaloid以外の活動も行っている。
+-P名の由来は、「はやぶさ」の動画に感動した人が「目からキセノンガス」とタグをつけ、それを見た乙女Pが「キセノンP」と名づけたのを採用した事から。
+-また、周期表において「キセノン」の一つ上にある元素が「クリプトン」である事に縁を感じたことから。
+-今現在は活動を休止している。また、xenon meidenも2020年12月31日をもって解散している。尚、ニコニコ動画、YouTube共にアカウントは残存している。YouTubeの方では何か計画を練っているのか、2021年に短い動画が配信された。今後の動きに注目したい。
+//https://www.youtube.com/watch?v=845MvY3h4_s　こちらがその動画である。
+
+**ミリオン達成状況
+|CENTER:&bold(){曲名}|CENTER:&bold(){100万再生}|CENTER:&bold(){備考}|
+|[[はやぶさ>はやぶさ/SHO（キセノンP）]]|2016年12月8日||
+
+**リンク
+-[[Sonic Hybrid Orchestra（個人サークル）>>https://sound.jp/s-h-omega/top.htm]]
+-[[xenon-maiden（所属サークル）>>https://www.xenonmaiden.com/]]
+--[[XM（仮サイト）>>https://sound.jp/xenonmaiden/]]
+-[[キセノンPの独り言（ブログ）>>https://xenonp.dou-jin.com/]]
+-[[ピアプロ>>https://piapro.jp/sho_the_sonic]]
+-[[YouTube>>https://www.youtube.com/user/XENONPofficial]]
+//-[[Twitter>>https://twitter.com/XenonP_XM]]
+
+**曲
+#list_by_tag(SHO（キセノンP）,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(SHO（キセノンP）CD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm10187442)|&nicovideo(sm10582129)|
+|&nicovideo(sm10647133)|&nicovideo(sm10856177)|
+|&nicovideo(sm11050741)|&nicovideo(sm12066741)|
+|&nicovideo(sm12526332)|&nicovideo(sm12595347)|
+|&nicovideo(sm12658454)|&nicovideo(sm12865526)|
+|&nicovideo(sm12930039)|&nicovideo(sm12991990)|
+|&nicovideo(sm13432971)|&nicovideo(sm13776627)|
+|&nicovideo(sm14310131)|&nicovideo(sm14517930)|
+|&nicovideo(sm14706713)|&nicovideo(sm14960665)|
+|&nicovideo(sm15567137)|&nicovideo(sm15882729)|
+|&nicovideo(sm16141538)|&nicovideo(sm16324418)|
+|&nicovideo(sm16510573)|&nicovideo(sm16511092)|
+|&nicovideo(sm17020500)|&nicovideo(sm17054624)|
+|&nicovideo(sm17448806)|&nicovideo(sm17963017)|
+|&nicovideo(sm18148072)|&nicovideo(sm18757214)|
+|&nicovideo(sm19193593)|&nicovideo(sm19524843)|
+|&nicovideo(sm19632638)|&nicovideo(sm19686316)|
+|&nicovideo(sm20206329)|&nicovideo(sm21002643)|
+|&nicovideo(sm21952201)|&nicovideo(sm23222436)|
+|&nicovideo(sm23222681)|&nicovideo(sm23222758)|
+|&nicovideo(sm23225590)|&nicovideo(sm25044396)|
+|&nicovideo(sm25250434)|&nicovideo(sm26061430)|
+|&nicovideo(sm29517935)|&nicovideo(sm29553087)|
+|&nicovideo(sm29733080)|&nicovideo(sm30263074)|
+|&nicovideo(sm30263136)|&nicovideo(sm30263180)|
+|&nicovideo(sm31840230)|&nicovideo(sm31840254)|
+|&nicovideo(sm32476041)|&nicovideo(sm32483115)|
+//|&nicovideo()|&nicovideo()|
+
+**コメント
+//- 自分が１番か
+- ＳＨＯ（キセノンＰ）さん　まるくなる　ぼからん１位おめでとうございます！　はやぶさが流行語大賞トップ１０を取れば曲のほうも再生回数が増えると思いますが　でも急にロックからほのぼのになるのが凄いですね  -- なぜ有名Ｐなのに自分が１番コメなのか？  (2010-11-17 21:52:37)
+- ↑おまえがきもいからだようせろ  -- 名無しさん  (2011-01-11 18:06:48)
+- まるくなれよ。  -- XenonP  (2011-01-15 13:27:36)
+//- Wikiに乙女Pのページが無いのでここで言わせて下さい 今更ではありますが乙女Pのご冥福をお祈り致します ゆっくりお休み下さい…  -- 名無しさん  (2011-01-24 14:17:57)
+- キセノンＰさんの曲好きです！特にはやぶさ！！  -- マグロ  (2011-01-24 16:14:11)
+- CD購入し帰りの電車の中で初見で号泣でした。常磐線恐るべし・・・  -- わ～げん  (2011-01-27 02:05:57)
+- あれ、本人いた？  -- 名無しさん  (2011-02-26 14:19:40)
+- まるくなれよコメキセノンPだねｗ  -- ナナイロ  (2011-03-31 14:52:08)
+- 本人登場ワロタ  -- 那由多  (2011-07-09 17:32:33)
+- IKAROSが楽しみで仕方ない。IKAROSの1/100作りながら待つか  -- tyd02A  (2011-08-16 14:43:17)
+- はやぶさすごいっす　手本になります  -- 名無し  (2011-10-19 18:08:27)
+- 度を越した有言不実行  -- 　  (2021-08-18 16:53:25)
+#comment()

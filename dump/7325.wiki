@@ -1,0 +1,39 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/15210965" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/15210965">【ニコニコ動画】</a></iframe>)|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/2472549" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/2472549">【ニコニコ動画】</a></iframe>)|
+
+**特徴
+-2007年のミク発売初期に&b(){みくぴったんP}というP名でカバー曲やアレンジ曲を投稿していたP。
+-初期のP名である「みくぴったんP」は、「[[『ふたりのもじぴったん』（アレンジ）を初音ミク。>>http://www.nicovideo.jp/watch/sm1026257]]」という動画に由来する。
+-2007年11月を最後に長らくニコ動への投稿がなかったが、2009年10月に自身初のオリジナル曲となる「[[イツデモフワリ。]]」を投稿して見事にカムバックを果たした。
+-2010年3月21日に「[[「つけるよ。」]]」でオリジナル曲初の殿堂入りを達成（みくぴったんP時代にアレンジ曲の殿堂入り経験あり）。
+-作曲・DTM歴は長いらしく、オケの完成度の高さと爽やかなメロディーラインには定評がある。
+
+**リンク
+-[[さくひんおきば Mk-II>>http://suketchp.seesaa.net/]]
+-[[さくひんおきば（旧）>>http://mikupittan.seesaa.net/]]
+-[[ピアプロ>>http://piapro.jp/suketchp]]
+-[[にゃっぽん>>http://v-nyappon.net/?m=pc&a=page_f_home&target_c_member_id=10002]]
+
+**曲
+#list_by_tag(すけっちP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(すけっちPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm8489567)|&nicovideo(http://www.nicovideo.jp/watch/sm9856853)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm10028665)|
+***みくぴったんP時代
+|&nicovideo(http://www.nicovideo.jp/watch/sm998086)|&nicovideo(http://www.nicovideo.jp/watch/sm1012576)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm1026257)|&nicovideo(http://www.nicovideo.jp/watch/sm1108814)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm1138427)|&nicovideo(http://www.nicovideo.jp/watch/sm1215042)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm1239308)|&nicovideo(http://www.nicovideo.jp/watch/sm1443725)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm1461815)||
+
+**コメント
+- おかえり！だいすきです！  -- 名無しさん  (2010-01-10 11:11:25)
+- 「つけるよ。」はマルキン氏作詞作曲ですけっちPはあくまでも編曲担当なので、「オリジナル曲」という書き方では語弊があるのでは。  -- 名無しさん  (2010-11-04 00:00:46)
+- LoveYourLifeとつけるよ。がすけっちさんの曲だと知ってびっくりしたw  -- 名無しさん  (2011-11-14 15:57:52)
+- イツデモフワリ。聴いてハマりました!!  -- 発寝ミク  (2013-03-13 16:37:38)
+- すけっちPのカバーアレンジが今熱い！「つけるよ。」は今でも大好きなKAITOの１曲です。  -- 黒葉  (2014-08-03 19:09:40)
+#comment()

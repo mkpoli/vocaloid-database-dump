@@ -1,0 +1,41 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[White and white]]|CENTER:&bold(){From Sound Lab.}|CENTER:[[Protocol]]|
+
+|&bold(){[[大福P]]}|
+
+発売：2009年5月17日
+価格：￥800
+流通：即売
+サークル：Harvest
+
+作詞・作曲・イラスト：&bold(){[[大福P]]}
+
+**CD紹介
+-ボーマス8で頒布された、大福PのVOCALOIDアルバム。
+-インストアルバム『Departure』も同時に頒布された。
+-「サウンド・ラボのテーマ」「a big hapiness」のようなテンポの良いテクノから、「幻視の唄」のような超大作アンビエント、「Image of ...」のような緊迫感溢れる曲、果にはジャズチックなアレンジまで、幅広いジャンルの16曲を収録している。
+
+**曲目
++サウンド・ラボのテーマ
++a big happiness
++C.P.U.
++暴君三三七拍子
++モノクロ
++image of...
++テク脳症候群
++chaser
++テクノ体操第一
++little doll
++connecting
++幻視の唄
++et cetera
++flowing
++cold sleep
++サウンド・ラボ(jazzy lounge remix)←Bonus Track
+
+**リンク
+-[[作者ブログ>>http://www.voiceblog.jp/komono/]]
+
+**コメント
+#comment

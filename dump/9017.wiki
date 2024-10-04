@@ -1,0 +1,25 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[冬空>冬空/CD]]|CENTER:&bold(){February snow -}|CENTER:[[innocence>innocence/初心PCD]]|
+
+|&bold(){[[初心P]]}|
+
+発行：2009年2月22日
+価格：無料配布
+流通：即売
+サークル：aquastream
+
+**CD紹介
+-aquastream special CD 1
+
+
+**曲目
++[[February snow]] -English version-
++February snow -instrumental-
+
+
+**リンク
+-[[作者サイト（aquastream）>>http://aquastream.web.fc2.com/]]
+
+**コメント
+#comment

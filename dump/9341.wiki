@@ -1,0 +1,73 @@
+#right(){&furigana(まいなすP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/14519854" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/14519854">【ニコニコ動画】</a></iframe>)
+
+**特徴
+作り手名：『&u(){マイナスP}』
+-同人サークル「WONDERFUL★OPPORTUNITY!（ワンダフル☆オポチュニティ！）」の楽師の一人。
+--サークルは&bold(){マイナスP}と[[じーざすP]]の二人構成である。
+-投稿されている楽曲の多くはリンのVOCAROCKであり、イケリンっぷりに定評がある。「[[孵化する冷笑]]」よりレン曲も発表するように。
+-その後、初音ミク、巡音ルカ、MAYU、MEIKO、KAITOの使用も始めている。
+-自身最大のヒット曲は「[[ドッペル押し問答]]」。
+-殿堂入りしている曲は「[[修羅ノ庭]]」（リン・レン両バージョンとも）「[[先生と少女騒動-第一審公判-]]」「[[赤線モダニズム]]」「[[先生と少女騒動-第二審-「被害者の日記」]]」「[[ドッペル押し問答]]」「[[性悪オンナ・オンライン]]」。
+
+**リンク
+-[[PIAPRO（ワン☆オポ）>>https://piapro.jp/jesusp]]
+-[[オフィシャルサイト>>https://www.wan-opo.com/]]
+-[[サークルブログ>>http://wonderfuloppotunity.seesaa.net/]]
+-[[YouTube>>http://www.youtube.com/user/WANOPOch]]
+-[[SOUNDCLOUD>>https://soundcloud.com/wanderful-opportunity]]
+
+**曲
+#list_by_tag(マイナスP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(マイナスPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm8413746)|&nicovideo(sm9209994)|
+|&nicovideo(sm9582790)|&nicovideo(sm10200140)|
+|&nicovideo(sm10445286)|&nicovideo(sm11146117)|
+|&nicovideo(sm12123346)|&nicovideo(sm13141251)|
+|&nicovideo(sm13283072)|&nicovideo(sm13539726)|
+|&nicovideo(sm15010446)|&nicovideo(sm15289816)|
+|&nicovideo(sm16070272)|&nicovideo(sm16765671)|
+|&nicovideo(sm17420305)|&nicovideo(sm19065203)|
+|&nicovideo(sm20728925)|&nicovideo(sm20858242)|
+|&nicovideo(sm21684210)|&nicovideo(sm22043130)|
+|&nicovideo(sm22967724)|&nicovideo(sm23978306)|
+|&nicovideo(sm24641601)|&nicovideo(sm25457375)|
+|&nicovideo(sm26981449)|&nicovideo(sm27286444)|
+|&nicovideo(sm31093578)|&nicovideo(sm32047470)|
+|&nicovideo(sm34994775)|&nicovideo(sm36578185)|
+|&nicovideo(sm36733424)|&nicovideo(sm38571795)|
+|&nicovideo(sm39642953)|&nicovideo(sm40863994)|
+|&nicovideo(sm42719954)|>|
+//|&nicovideo()|&nicovideo()|
+
+**関連タグ内の更新履歴
+#region(close,関連タグ内の更新履歴)
+関連タグ内の更新履歴
+※「マイナスP」「マイナスPCD」タグ内で最近編集やコメントのあった記事を新しい方から10件表示しています。
+#list_by_tagsearch(マイナスP,マイナスPCD,sort=timestamp,sort2=desc,errmsg=まだ曲、CDが登録されていません。,or,10)
+#endregion
+
+**コメント
+- 再起動編キターー！！！PVめっちゃかっこいいｗｗマイナスPさんのこれからにめっちゃ期待したいですｗ  -- 千  (2010-03-29 13:37:25)
+- もっと評価されるべき  -- 名無しさん  (2010-03-30 15:15:13)
+- 第一次ウイルスシリーズほんっと大好き！凄くカッコイイ！！(＾ω＾)素敵すぎました  -- 名無しさん  (2010-04-01 23:31:30)
+- マイナスPはなぜ評価されないのか不思議で仕方ない  -- 名無しさん  (2010-05-07 20:15:52)
+- マイナスP大好き!!!  -- 名無しさん  (2010-10-11 16:41:28)
+- もっと評価されるべき！  -- 名無しさん  (2011-06-22 22:37:55)
+- 狂騒ノ現は殿堂入りしてもおかしくないと思う！！！  -- メガネ  (2011-11-26 15:00:44)
+- 「修羅ノ庭」は良すぎて本当にヤバい・・・。  -- 名無しさん  (2013-03-08 12:51:00)
+- もともとはXJAPNや黒夢が好きだったんですが、今やマイナスPさんの曲の方が好きです。最高です!イケレンな曲もっと作って欲しい。  -- 30代・男  (2013-03-09 14:01:12)
+- 『修羅ノ庭』と『先生と少女騒動』がもうたまらん  -- 闇月  (2013-04-14 15:28:20)
+- マイナスさんめっちゃいい曲つくるよね！！しかも、イケボやし！コミュ限定動画で修羅の庭歌ってました！！！！  -- 名無しさん  (2013-10-26 18:09:05)
+- ワンオポといえばじーざすpという人が多いが、俺はマイナスpだな。影で頑張っている感じがかっこいい。  -- 名無しさん  (2015-02-01 23:57:30)
+- 2人とも好きだけど、自分はマイナスP派!  -- 名無しさん  (2017-05-14 16:43:01)
+- 性悪オンナ・オンラインのイントロの初めがめっっっちゃ好き  -- 名無し  (2020-11-19 17:57:05)
+#comment()

@@ -1,0 +1,27 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Day to Day]]|CENTER:&bold(){Past of Abyss}|CENTER:[[捨て猫ロシアンブルー]]|
+
+|&bold(){[[SHUN]]}|
+
+発売：2010年2月7日
+価格：￥500
+流通：即売
+サークル：スタジオてとてと
+ジャケットイラスト：おにねこ
+
+**CD紹介
+-THE VOC@LOiD M@STER 11（ボーマス11）で頒布されたSHUN氏のボーカロイドCD。
+-2011年3月には、本作に曲を追加した配信アルバム『[[Abyss>Abyss/CD]]』がリリースされた。
+
+**曲目
++Enter the Gate
++Past of abyss
++[[幻覚ラビット]]
++past of abyss <vocal off>
+
+**リンク
+-[[STYLE.S（作者サイト）>>http://www.s-style.tv/wp/]]
+
+**コメント
+#comment

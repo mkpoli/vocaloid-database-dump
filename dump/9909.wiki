@@ -1,0 +1,47 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&ref(http://livedoor.2.blogimg.jp/maturi2643/imgs/a/5/a51cc4a6.JPG)
+&nicovideo(http://www.nicovideo.jp/watch/nm10637266)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[憂いうらら]]|CENTER:&b(){BOTCH SUN}|CENTER:[[Arbitrary Road]]|
+
+|&bold(){[[ボッチ]]}|
+
+||CENTER:即売|CENTER:同人|
+|発売|CENTER:2010年5月9日|CENTER:|
+|価格|CENTER:￥1,000|CENTER:￥1,470（税込）|
+|サークル|>|CENTER:ボッチ|
+
+>作詞：&b(){[[ボッチ]],szse(Tr.2,12),ボッチ＆szse(Tr.6)}
+>作曲；ボッチ
+>ジャケットイラスト・デザイン：&b(){[[野乃子>>http://m-pe.tv/u/page.php?uid=grandma&id=1]]}
+
+**CD紹介
+-CDとしては初となるボッチ氏のアルバム。
+-KarenTレーベルより配信シングルとして発表した「憂いうらら」を含む全15曲収録の豪華仕様。
+-THE VOC@LOiD M@STER 12（ボーマス12）で頒布。
+-インストであるところの1,11は除き、ボーカルはすべて鏡音リン。
+
+**曲目
++A Particle
++[[Parallel Lines]]
++[[Be Alike]]
++Perception
++憂いうらら
++[[I'm a Perfect Girl！]]
++[[空想の花]]
++[[Cherry's Butterfly]]
++[[Equilibrium]]
++[[Keep your escape]]
++Translation
++[[ホワイトキャンバス]]
++After The Butterfly
++At The Film Ground
++Little Morning
+
+**リンク
+-[[CD告知＠作者ブログ>>http://blog.livedoor.jp/maturi2643/archives/51700557.html]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/22/07/040010220775.html]]
+
+**コメント
+#comment

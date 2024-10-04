@@ -1,0 +1,39 @@
+#right(){&furigana(きもうとP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/17190666" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/17190666">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-アーティスト名は&bold(){スカーレットな迷彩}。
+-P名の由来は「[[キモウト☆だいばくはつ]]」から。
+-歌愛ユキで曲を作っている。
+-ロリコン。メタラー。
+-曲調は基本的にヘヴィーメタル。
+
+**リンク
+-[[ロリコンの地位向上（作者ホームページ）>>http://remiliahxahxa.iza-yoi.net/]]
+-[[音置き場>>http://u6.getuploader.com/remiliahxahxa/]]
+
+**曲
+#list_by_tag(キモウトP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(キモウトPCD,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/nm14515795)|&nicovideo(http://www.nicovideo.jp/watch/nm14515841)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm14515907)|&nicovideo(http://www.nicovideo.jp/watch/nm14515969)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm14516062)|&nicovideo(http://www.nicovideo.jp/watch/nm14516016)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm14516171)|&nicovideo(http://www.nicovideo.jp/watch/nm14516129)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm14516204)|&nicovideo(http://www.nicovideo.jp/watch/nm14516256)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm14516306)|&nicovideo(http://www.nicovideo.jp/watch/nm14516223)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm14909387)|&nicovideo(http://www.nicovideo.jp/watch/nm15501857)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm16885068)|&nicovideo(http://www.nicovideo.jp/watch/sm20576969)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm20665032)||
+
+**コメント
+- 動画足しておきました  -- 名無しさん  (2011-05-05 00:39:30)
+- キモウトＰが全消し再うｐしてたので動画直しておきました  -- 名無しさん  (2011-05-22 21:08:57)
+- ユキ使いでは珍しいメタラーなんですよね。こういう組み合わせは面白いですね。  -- 名無しさん  (2011-07-11 14:33:34)
+- ユキでメタルとかコア過ぎて伸びないけどね。いい動画師とめぐり逢えたら人気でそうだけど。  -- 名無しさん  (2011-07-19 01:22:16)
+- 気付いたら動画増えてたから足しておきました  -- 名無しさん  (2011-09-05 01:53:05)
+- 動画を追うについれ、だんだんゴシカルな方向に向かってますね。ある意味、ボカロP界の妖精帝國みたいな感じかも。  -- 名無しさん  (2011-10-13 08:39:02)
+#comment()

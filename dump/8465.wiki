@@ -1,0 +1,36 @@
+#right(){&furigana(らくえんのまど) &furigana()【登録タグ:&tags() 】}
+//&ref(http://floweract.com/images/CDjacket.jpg,x=300,y=300)
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186109837.jpg,x=300,y=300)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[音符で花束]]|CENTER:&bold(){楽園の窓}|CENTER:-|
+
+|&bold(){[[花束P]]}|[[ichiP]]|[[yusuke]]|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|>|CENTER:2010年2月7日|
+|価格|CENTER:\1,000(税込)|CENTER:\1,260(税込)|
+|サークル|>|CENTER:FlowerAct|
+
+**CD紹介
+-ボーマス11で頒布された花束Pの2ndアルバム。
+-表題曲「[[楽園の窓]]」の他、初の鏡音使用曲「[[ネリの星空]]」や「[[さよならのかわりに、花束を]]」のアレンジ企画に参加した[[ichiP]]と[[yusuke]]のバージョン等を収録。
+
+**曲目
++[[さよならのかわりに、花束を]] -strings.ver-
++[[楽園の窓]]
++とてもよく晴れた日の空に -sayonara.Remix-
++コンパス　&color(red){NEW!}
++[[ネリの星空]]　&color(red){NEW!}
++あなたへ　&color(red){NEW!}
++from Flower, for pure Color (inst.)　&color(red){NEW!}
++さよならのかわりに、花束を -ichi.ver-
++さよならのかわりに、花束を -yusuke.ver-
+
+**リンク
+-[[作者ブログのCD紹介>>http://floweract.com/?p=75]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/cit/pagekit/0000/00/03/000000033664/index.html]]
+
+**コメント
+#comment

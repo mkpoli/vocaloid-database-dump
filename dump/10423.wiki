@@ -1,0 +1,42 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://rebelizm.com/af/wp-content/uploads/2010/06/jacket.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){fragment}|CENTER:[[月紅>月紅/CD]]|
+
+|&bold(){[[maya]]}|&b(){[[藤代叶]]}|
+
+||CENTER:即売|CENTER:同人|
+|発売|CENTER:2010年6月20日|CENTER:2010年6月21日|
+|価格|CENTER:￥500|CENTER:￥735（税込）|
+|サークル|CENTER:K★SS|CENTER:ASSEMBLE†FAILURE|
+
+>All lyrics by &b(){[[藤代叶]]}
+>All musics by &b(){[[maya]]}
+>※ except Tr.4 original track by &b(){[[hazy>hazyP]]}
+>Album artwork by &b(){[[藤代叶]]}
+
+**CD紹介
+-二人のがくぽマスター、[[藤代叶]]・[[maya]]の全面プロデュースで送る、バンド「ASSEMBLE†FAILURE」の1st EP。
+-[[VOCALOID ONLY EVENT "DEAR MASTER!">>http://dear-master.com/]]　で頒布される。
+-先行して公開された「[[Bloody Fang]]」、[[hazyP]]の「[[poetaster_and_singing_dolls_]]」のカバーを含む、全4曲を収録。
+-ASSEMBLE†FAILURE は男ボカロによる架空バンド。メンバーは以下の通り。&br()Vocal：神威&br()Guitar&Chorus：凱斗&br()Guitar：耀&br()Bass：A-L&br()Drums：Le:ON
+
+**曲目
++[[Bloody Fang]]
++コカドリーユ
++calling to the moon
++[[poetaster_and_singing_dolls_]](cover)
+
+**関連動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm10921141)|&nicovideo(http://www.nicovideo.jp/watch/sm8522045)|
+
+**リンク
+-[[ASSEMBLE†FAILURE公式サイト>>http://rebelizm.com/af/]]
+-[[rebelizm（藤代叶氏のブログ）>>http://rebelizm.com/]]
+-[[mayaの音楽日記（maya氏のブログ）>>http://mayagt.seesaa.net/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/22/47/040010224724.html]]
+-[[D-STAGE>>http://d-stage.com/shop/detail.php?seq=15306]]
+
+**コメント
+#comment

@@ -1,0 +1,39 @@
+#right(){&furigana(せいいっぱい)&furigana()【登録タグ:&tags()】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186108869.jpg,x=300,y=300)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:白と黒と電子の音|CENTER:&bold(){精一杯}|CENTER:[[そして最後には必ず幸せな結末を>そして最後には必ず幸せな結末を/CD]]|
+
+|&bold(){[[たまぁ～ずP]]}|
+
+||CENTER:即売|CENTER:同人|
+|発売|CENTER:2009年9月6日|CENTER:2009年9月30日|
+|価格|CENTER:￥500|CENTER:￥735(税込)|
+|サークル|>|CENTER:スライハンド|
+
+**CD紹介
+-THE VOC@LOiD M@STER 9（ボーマス9）で頒布された8曲（カラオケ含む）入りアルバム。
+-人気Pの名曲をピアノアレンジした5曲、自身の曲をセルフアレンジした「[[いつか笑顔、いつも笑顔]]」に加え、新作のミクオリジナル曲「[[精一杯]]」を収録。
+-総勢絵師8名による、各楽曲をイメージしたイラストブックレット8P付属。
+-とらのあなにて委託販売中。
+
+**曲目
+-[[精一杯]]
+-精一杯（カラオケver）
+
+***その他ピアノインスト曲として以下を収録
++[[ワールドアウトサイド]] / arata
++[[カナリア>カナリア/あわあわp]] / あわあわP
++[[さよならのかわりに、花束を]] / 花束P
++[[いつか笑顔、いつも笑顔]]
++[[朝焼け、君の唄。]] / ほえほえP
++[[Eve>Eve/ジミーサムP]] / ジミーサムP
+
+**リンク
+-[[sleight of hand(作者ホームページ)>>http://www.geocities.jp/sleihand/]]
+-[[CD特設サイト>>http://www.geocities.jp/sleihand/cd_s/top.html]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/19/73/040010197348.html]]
+
+**コメント
+#comment

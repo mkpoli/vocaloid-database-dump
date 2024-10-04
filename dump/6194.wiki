@@ -1,0 +1,39 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&ref(http://headphone-tokyo.com/_src/sc472/SPiCa_Jacket.png)
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[SPiCa（配信）>SPiCa]]|CENTER:&bold(){SPiCa}|CENTER:[[COLOR>COLOR/とくP]]&br()[[RiNG My BeLL]]|
+
+|&bold(){[[D-STAGEで購入する>>http://store.shopping.yahoo.co.jp/d-stage/search.html?p=%A4%D8%A4%C3%A4%C9%A4%DB%A4%F3%A5%C8%A1%BC%A5%AD%A5%E7%A1%BC&x=0&y=0]]}|
+
+|&bold(){[[とくP]]}|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|>|CENTER:2009年8月15日|
+|価格|CENTER:￥1,000|CENTER:￥1,299（税込）|
+|サークル|>|CENTER:へっどほんトーキョー|
+
+>作詞：&b(){[[とくP]],A.I.(Tr.1),uryan(Tr.2)}
+>作曲：&b(){[[とくP]]}
+>イラスト：&b(){[[refeia>>http://q-orbit.jp/]]}
+
+**CD紹介
+-コミックマーケット76で委託頒布された、とくPの1st CD。
+-大ヒットをキメた「[[blue bird>blue bird/とくP]]」「[[SPiCa]]」の他、デビュー曲の「[[COLOR>COLOR/とくP]]」、最新曲でKarenTからも配信している「[[RiNG My BeLL]]」の計4曲と各曲のオフボーカルが収録されている。イベント限定ステッカー付。
+
+**曲目
++[[blue bird>blue bird/とくP]]
++[[SPiCa]]
++[[COLOR>COLOR/とくP]]
++[[RiNG My BeLL]]
++blue bird（Vocal Off）
++SPiCa（Vocal Off）
++COLOR（Vocal Off）
++RiNG My BeLL（Vocal Off）
+
+**リンク
+-[[作者サイト>>http://headphone-tokyo.com/]]
+-[[作者ブログ>>http://blog.livedoor.jp/headphonetokyo/]]
+
+
+**コメント
+#comment

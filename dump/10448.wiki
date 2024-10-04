@@ -1,0 +1,12 @@
+#right(){【登録タグ:&tags()】}
+//↑タグ忘れ防止のための表示
+曖昧さ回避のためのページ
+----
+-[[MineK]]の曲
+--[[I miss you/MineK]]
+-[[oOらいかOo]]の曲
+--[[I miss you/oOらいかOo]]
+-[[ONE WORLD]]の曲
+--[[I MISS YOU/ONE WORLD]]
+
+#include(曖昧さ回避の追加の仕方/告知)

@@ -1,0 +1,47 @@
+#right(){&furigana(clear) &furigana()【登録タグ:&tags() 】}
+&ref(http://bandcamp.com/files/14/95/1495157682-1.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Garbage Collection}|CENTER:&bold(){[[Tuonela]]}|
+
+|&bold(){[[サイトで無料ダウンロードする>>http://yplmusic.bandcamp.com/album/garbage-collection]]}|
+
+|&bold(){[[ypl]]}|
+
+流通：配信
+公開：2009年2月28日
+価格：￥0
+作詞・作曲：&bold(){[[ypl]]}
+イラスト：&bold(){[[時田>>http://piapro.jp/k12250330]]}
+
+**CD紹介
+-ypl氏のフルアルバム。
+-まずCDとして近しい知人のみに配られ、のちに自身のサイトで音源を公開した。
+-ジャケットイラストは[[時田>http://www.pixiv.net/member_illust.php?mode=medium&illust_id=3584476]]氏が手がけた。
+
+**動画
+-ニコニコ動画でも全曲を聴くことが出来る。
+-動画は前半・後半に分かれているが、再生終了後もう一方の動画へジャンプする仕様になっており、無制限にリピートすることが可能である。
+|&nicovideo(http://www.nicovideo.jp/watch/sm6288878)|&nicovideo(http://www.nicovideo.jp/watch/sm6288943)|
+
+**曲目
++CRL2688 - gc mix -
++自己認識エラー
++宇宙人にさらわれる
++コンタクト
++スイーツ
++睡魔
++落下感
++Tuonela - gc mix -
++春色の電車
++ただよう檻
++あかねいろ
++零の水槽
++空になる
+
+**リンク
+-[[サイトリンク>>http://yplmusic.bandcamp.com/album/garbage-collection]] 
+-[[ypl氏マイリスト>>http://www.nicovideo.jp/mylist/3737365]]
+
+**コメント
+#comment

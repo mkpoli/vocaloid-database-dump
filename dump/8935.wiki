@@ -1,0 +1,34 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+
+&ref(http://karent.jp/npdca/140_20091210070216_0240_0240.jpg)
+&nicovideo(http://www.nicovideo.jp/watch/sm9207558)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[WATERISE:]]|CENTER:&bold(){14}|CENTER:[[ノクターン>ノクターン/CD]]|
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/14-ep/id346163641]]}|
+
+|&bold(){[[ナタP]]}|
+
+流通：配信
+発売：2009年12月27日
+価格：アルバム￥300、1曲￥150
+レーベル：KarenT
+
+**CD紹介
+>永遠の14歳といつかの14歳に。（KarenT作品概要より）
+-鏡音リン・鏡音レン2周年を記念してKarenTより配信された、ナタP初の全国配信。
+-爽やかなロックナンバー。レン・リンそれぞれがボーカルを取ったバージョンがある。それにカラオケverを加えた全3曲収録。
+-ニコニコ動画ではレンver.が公開されている。
+
+**曲目
++[[14]](len)
++14(rin)
++14(instrumental)
+
+**リンク
+-[[作品概要＠KarenT>>http://karent.jp/album/140]]
+-[[リン・レン2周年記念ページ＠KarenT>>http://karent.jp/special/rinlen09]]
+
+**コメント
+#comment

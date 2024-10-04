@@ -1,0 +1,46 @@
+#right(){&furigana(はいてん★がーる2) &furigana()【登録タグ:&tags() 】}
+//&ref(http://img.toranoana.jp/img/04/0010/21/99/040010219931-1.gif)
+//&ref(http://www.orc2000.com/cd/htg2pic.jpg,x=300,y=300)
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186114262.jpg,x=300,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm10596136)
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:&bold(){[[ハイテン★ガール]]}|CENTER:&b(){ハイテン★ガール２}|CENTER:-|
+
+|CENTER:&b(){[[かたほとりP]]}|[[さつき が てんこもり]]|CENTER:[[U-ji]]|CENTER:[[U-SUKE]]|CENTER:[[悪ノP]]|
+|CENTER:[[SHUN]]|CENTER:[[ちょむP]]|CENTER:[[いーえるP]]|CENTER:[[azuma]]||
+
+|&b(){[[とらのあなで購入する>>http://www.toranoana.jp/mailorder/article/04/0010/21/99/040010219931.html]]}|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|>|CENTER:2010年5月9日|
+|価格|CENTER:￥500|CENTER:￥735(税込)|
+|サークル|>|CENTER:ポヤッチオ|
+
+作詞・作曲：&b(){[[かたほとりP]],[[さつき が てんこもり]],[[U-ji]],[[U-SUKE]],[[悪ノP]],[[SHUN]],[[ちょむP]],[[いーえるP]],[[azuma]]}
+イラスト：&b(){[[しめ子>>http://valon-1.sakura.ne.jp/2/]]}
+マスタリング：&b(){[[Dios/シグナルP>シグナルP]]}
+
+**CD紹介
+-&b(){定義にとらわれない自分なりの&color(red){電波ソング}を作ってみよう！！}というコンセプトに基づいた、コンピレーション・アルバムの第2弾。
+-THE VOC@LOiD M@STER 12（ボーマス12）で頒布される。
+-前回に負けず劣らず豪華なメンバーを取り揃えている。
+-現在、前作と併せてとらのあなで委託販売されている。
+
+**曲目
++[[くるぶしとかかとの間のツボ]]　／　歌：初音ミク　作詞作曲：[[さつき が てんこもり]]
++[[ハイスクール Days]]　／　歌：GUMI　作詞：[[U-SUKE]]、作曲：[[U-ji]] (aka 霊長類P)
++ウェンディ　／　歌：鏡音リン　作詞作曲：mothy（[[悪ノP]]）
++楽園鞦韆（ブランコ）　／　歌：初音ミク　作詞作曲：[[SHUN]]
++[[パンツ脱げるもん！]]　／　歌：鏡音リン　作詞作曲：[[TakeponG（ちょむP）>ちょむP]]
++[[Sleep Sheep Sheep Shit!]]　／　歌：初音ミク　作詞作曲：[[いーえるP]]
++[[隠れオタクでごめんなさい]]　／　歌：GUMI　作詞作曲：[[かたほとり>かたほとりP]]
++Tower Girl　／　歌：巡音ルカ　作詞作曲：[[azuma]]（ボクP）
+
+**リンク
+-[[特設ページ>>http://www.orc2000.com/cd/htg2.htm]]
+
+**コメント
+- mothy が mochy になってます  -- 名無しさん  (2010-04-14 20:07:51)
+#comment

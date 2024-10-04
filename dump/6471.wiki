@@ -1,0 +1,64 @@
+#right(){&furigana(clear) &furigana()【登録タグ:&tags() 】}
+&ref(http://v-nyappon.net/img/jpg/w_h/img_cache_dc_4250449_1_1271791313_jpg.jpg)&ref(http://karent.jp/npdca/270_20100331230025_0240_0240.jpg)
+&nicovideo(http://www.nicovideo.jp/watch/sm7045366)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){fate of ・・・}|CENTER:[[キラキラなコドモ / escaper>キラキラなコドモ／escaper]]|
+
+|&bold(){[[キッドP]]}|[[クリスタルP]]|[[マルチプレイヤーP]]|[[パプリカP]]|[[残鏡P]]|
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/id366758549]]}|
+
+||CENTER:即売|CENTER:同人|CENTER:配信|
+|発売|CENTER:2009年5月17日|CENTER:2009年5月18日|CENTER:2010年4月23日|
+|価格|CENTER:￥1,000|CENTER:￥1,470(税込)|CENTER:￥1,200 / 1曲￥150|
+|サークル|>|CENTER:NnDS☆||
+|レーベル|||CENTER:KarenT|
+
+**CD紹介
+-キッドPの初VOCALOIDアルバム。VOC@LOiD M@STER 8にて頒布。
+-&b(){2010年4月23日、KarenTレーベルより全国向けにダウンロード販売も行われる。}画像は左がCD版で&b(){[[碧茶]]}氏が、右がKarenT配信版のもので、&b(){碧茶}・&b(){[[ワカコヒメモエ>>http://piapro.jp/moetora]]}両氏が手掛けたものである。
+-デビュー作である『[[運命の扉]]』から『[[Beginning of the world]]』までの全曲を収録している。
+-作詞に[[残鏡P]]、マルチプレイヤーP、パプリカPなどが参加している。
+-サウンドプロデュースに[[クリスタルP]]を迎え、豪華なCDとなっている。
+-CD版ジャケットは碧茶氏が担当。中のイラストもワカコヒメモエ氏、シロツグ氏が担当している。
+-ミックス、マスタリングはクリスタルPが参加している。 
+-ボーナストラックとして、キッドPが歌う『コガネイロの故郷』と『[[erase or zero]]』も収録。
+
+**収録曲
++[[ツキノウタ]]
++-Lyrics：キッド＆HzEdge(クリスタルP)／Music：キッド／Arrangement：HzEdge(クリスタルP)
++[[運命の扉]]～2009 brand new Crystal mix～
++-Lyrics＆Music＆Arrangement：キッド
++[[ホーリーバレンタイン]]～Twins duet mix～
++-Lyrics：マルチプレイヤーP／Music：キッド／Arrangement：キッド＆HzEdge(クリスタルP)
++[[暁]]～2009 more,hearty mix～
++-Lyrics：パプリカP／Music：キッド／Arrangement：パプリカP＆キッド＆HzEdge(クリスタルP)
++[[あたりまえに言えたこと]]
++-Lyrics：残鏡P／Music：キッド／Arrangement：HzEdge(クリスタルP)
++[[風の旅人～A traveler of wind～]]
++-Lyrics＆Music：キッド／Arrangement：キッド＆HzEdge(クリスタルP)
++勇気の樹
++-Lyrics：残鏡P／Music：キッド／Arrangement：キッド＆HzEdge(クリスタルP)
++Good-bye my paranoia
++-Lyrics：ひな／Music:キッド／Arrangement：キッド＆HzEdge(クリスタルP)
++[[Beginning of the world]]
++-Lyrics&Music：キッド／Arrangement：HzEdge(クリスタルP)
++[[コガネイロの故郷]]
++-Lyrics：残鏡P／Music：キッド／Arrangement：キッド＆HzEdge(クリスタルP)
++[[餞]]
++-Lyrics&Music：キッド／Arrangement：キッド＆HzEdge(クリスタルP)
++コガネイロの故郷 （vocal by キッド）
++-Lyrics：残鏡P／Music：キッド／Arrangement：キッド＆HzEdge(クリスタルP)
++[[erase or zero]] （vocal by ぷち & キッド）
++-Lyrics&Music&Arrangement：HzEdge(クリスタルP)
+
+**リンク
+-[[作者ホームページ>>http://nnds.soudesune.net/]]
+-[[作者ブログ>>http://yaplog.jp/kidsworks/]]
+-[[PIAPRO>>http://piapro.jp/kazya]]
+-[[KarenT>>http://karent.jp/album/270]]
+
+**コメント
+- いいいいいいいいいいいいいね  -- るるか  (2011-04-07 17:30:08)
+#comment

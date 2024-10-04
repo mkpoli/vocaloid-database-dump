@@ -1,0 +1,40 @@
+#right(){&furigana(はろーわーるど) &furigana()【登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186107523.jpg,x=300,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm7782373)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[ミンナノオト]]|CENTER:&bold(){ハローワールド}|CENTER:[[Smilization - スマイリゼーション -]]|
+
+|&bold(){[[卑屈P]]}|
+
+||CENTER:即売|CENTER:同人|
+|発売|CENTER:2009年8月15日|CENTER:2009年10月1日|
+|価格|CENTER:￥1,000|CENTER:￥1,470（税込）|
+|サークル|>|CENTER:音戯噺屋|
+
+**CD紹介
+-卑屈Pの2ndアルバム。新曲2曲を含む全10曲を収録。
+-「[[アナロ熊のうた]]」も収録されている。
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/19/80/040010198061.html]]にて委託販売開始。
+
+**曲目
++[[ハローワールド>ハローワールド/卑屈P]]
++デイライト・ハイフライト　&color(red){new!}
++[[名人様がやってくる！]]
++[[ライアー！]]
++[[ねえ]]
++[[涼月譚詩曲]]
++[[LiBi-LiDA]]
++[[アナロ熊のうた]]
++[[タカラモノ>タカラモノ/卑屈P]]
++スーパーポジティブタイム　&color(red){new!}
+
+**リンク
+-[[特設ページ>>http://music.geocities.jp/jjjjjirai8/c76.html]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/19/80/040010198061.html]]
+
+**コメント
+- 買いに行くのが楽しみだ(＾p＾)  -- 名無しさん  (2009-08-12 23:37:19)
+#comment

@@ -1,0 +1,32 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Know Title}|CENTER:[[雷鳴アンプリファ/雷光サステイン>雷鳴アンプリファ／雷光サステイン]]&br()[[Jericho 941]]|
+
+|&bold(){[[雷鳴P]]}|
+
+発売：2009年12月30日
+価格：￥500
+流通：即売
+サークル：Art Polyphony
+
+**CD紹介
+-雷鳴Pの1stミニアルバム。
+-ジャケットイラストは青野あじる氏と高 佶鉉氏。
+-2009年冬のコミックマーケット（C77）で頒布。
+
+**曲目
++[[雷鳴アンプリファ]]
++[[桜グラフィティ]]
++[[星空の天蓋を彷徨いて]]
++鳳蝶 <アゲハチョウ>  &color(red){New!!}
++[[恋愛ロシアンルーレット]] -Long Ver.-
++[[ネオ・クラシカ]] -Neo Classica-
++[[E.O.F]] -Long Ver.-
+
+**リンク
+-[[作者HP>>http://papillon-mm.hp.infoseek.co.jp/]]
+-[[作者ブログ>>http://papillon0mm.blog15.fc2.com/]]
+-[[サークルHP>>http://art-polyphony.sakura.ne.jp/]]
+
+**コメント
+#comment

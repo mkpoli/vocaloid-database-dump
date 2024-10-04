@@ -1,0 +1,33 @@
+#right(){&furigana(げっこうとーたるいくりぷす) &furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/207_20100201055205_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[買ってください。]]|CENTER:&bold(){月光トータルイクリプス}|CENTER:[[桜花繚乱>桜花繚乱/CD]]|
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/id353733529]]}|
+
+|&bold(){[[マチゲリータP]]}|
+
+流通；配信
+発売：2010年2月17日
+価格：全曲￥300、1曲￥150
+レーベル：KarenT
+
+**CD紹介
+-マチゲリータP2作目のKarenT配信限定EP。
+-KAITO生誕4周年を記念して配信された。
+-切ない恋愛をテーマに爽やかに仕上げた3曲を収録。
+-THE VOC@LOiD M@STER10で頒布され瞬殺だったCD『[[Starrysky prayer]]』から、ニコニコ未発表の一曲をリテイクして収録している。
+
+**曲目
++[[月光トータルイクリプス]] (feat. KAITO)
++[[セパレイティヴ・ラブ]] (feat. KAITO)
++スターリースカイ・プレイヤー (feat. KAITO)
+
+**リンク
+-[[作者ブログでの案内>>http://machigerita.blog96.fc2.com/blog-entry-849.html]]
+-[[KarenT：「月光トータルイクリプス」>>http://karent.jp/album/207]]
+-[[KarenT：「KAITO誕生祭'10」特集ページ>>http://karent.jp/special/kaito10]]
+
+**コメント
+#comment

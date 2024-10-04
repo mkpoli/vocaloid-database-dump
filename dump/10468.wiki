@@ -1,0 +1,27 @@
+#right(){&furigana(Paradox)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo(http://www.nicovideo.jp/watch/sm6197584)
+作詞：[[いるーP]]
+作曲：[[いるーP]]
+編曲：[[いるーP]]
+唄：[[重音テト]]・[[巡音ルカ]]
+
+**曲紹介
+>&bold(){ルカさんのexchange(交換)の一言でテトさんの中の何かが入れ替わってしまいます。&br()あなたはあなたで、わたしはわたしで、あなたがわたしで、わたしがあなたで、あなたもあなたで、わたしもわたしで…&br()そんな感じの歌です。}
+曲名：『&u(){Paradox}』
+
+**歌詞
+（[[ピアプロ>>http://piapro.jp/content/hty4cr020u0a1t5j]]より転載）
+
+あなたはあなたで
+わたしはわたしで
+あなたがわたしで
+わたしがあなたで
+あなたもあなたで
+わたしもわたしで…
+
+**コメント
+#comment()

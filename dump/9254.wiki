@@ -1,0 +1,25 @@
+#right(){&furigana(えんだかP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/12251060" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/12251060">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-2009年2月に「[[ロングトレイル]]」にてデビュー。
+-弦楽器を使ったアナログだが未来を感じさせるメロディと、本人が制作した影絵の様なミクが歩くハイセンスなPVに注目が集まる。
+-普段は映像やデザインをやっており、趣味で音楽を始めたとのこと。
+-そのため、本人が制作したPVはデビュー作でありながらとてもハイレベル、ハイセンスでアーティスト性が高い作品となっている。
+-本人の絵やデザインはサイトやpixivで見る事が出来る。
+-今後も是非活動して欲しいPの一人。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/humid]]
+-[[iddy>>http://iddy.jp/profile/takuma-id/]]
+-[[hum-id（作者のサイト）>>http://hum-id.jp/]]
+-[[pixiv>>http://www.pixiv.net/member.php?id=13209]]
+
+**曲
+#list_by_tag(円高P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm6052546)|
+
+**コメント
+#comment()

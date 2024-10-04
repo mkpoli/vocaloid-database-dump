@@ -1,0 +1,32 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+
+|BGCOLOR(#FFF):　|BGCOLOR(#DDD):CENTER:前作|BGCOLOR(#B66):COLOR(#FFF):CENTER:&b(){本作}|BGCOLOR(#DDD):CENTER:次作|
+|　[[しえろP>しえろP（ショタエロイドP）]]　|CENTER:[[Deja vu>Deja vu/CD]]|BGCOLOR(#FFF):MIDDLE:CENTER:&font(b,14px){　Resonance　}|CENTER:[[ReaLignment]]|
+|　[[ちくP]]|　[[Yellow Angel]]　|~|　[[Latter End Chronicle]]　|
+
+|&bold(){　[[しえろP>しえろP（ショタエロイドP）]]　}|&bold(){　[[ちくP]]　}|
+
+|BGCOLOR(#FFF):　|BGCOLOR(#DDD):CENTER:即売|BGCOLOR(#DDD):CENTER:　委託　|
+|BGCOLOR(#DDD):CENTER:発売|CENTER:　2010年05月09日　|CENTER:　-　|
+|BGCOLOR(#DDD):CENTER:価格|CENTER:300円|CENTER:-|
+|BGCOLOR(#DDD):CENTER:備考|CENTER:&color(red){頒布終了}|CENTER:-|
+|BGCOLOR(#DDD):　サークル　|>|CENTER:ahp+way|
+
+**CD紹介
+-しえろP＆ちくPによるCDシングル。
+-「[[Clepsanmia]]」はニコニコ動画にショートサイズのみ投稿されている。
+-ジャケットイラストは[[マクロ>>http://piapro.jp/kignyo122]]。
+
+**トラックリスト
+|BGCOLOR(#CCC):　Tr　|BGCOLOR(#CCC):　タイトル|BGCOLOR(#CCC):　歌　|BGCOLOR(#CCC):　作詞|BGCOLOR(#CCC):　作曲　|BGCOLOR(#CCC):　編曲　|
+|CENTER:01|　[[Clepsanmia]]|　鏡音レンact.1　|　成澤悠斗　|　成澤悠斗　|　成澤悠斗　|
+|CENTER:02|　刻の砂|　鏡音レンact.1　|　石動武蔵　|　葉の月　|　葉の月　|
+|CENTER:03|　Clepsanmia -instrumental-　|　-　|　-　|　成澤悠斗　|　成澤悠斗　|
+|CENTER:04|　刻の砂 -instrumental-|　- |　-|　葉の月|　葉の月　|
+
+**リンク
+[[ahp+way>>http://ahp.xii.jp/ahpway/]]
+
+
+**コメント
+#comment

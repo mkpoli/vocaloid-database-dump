@@ -1,0 +1,36 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm9436040)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){nekomusic}|CENTER:[[猫虫図鑑]]|
+
+|&bold(){[[猫虫P]]}|
+
+||CENTER:即売|CENTER:同人|
+|CENTER:発売|CENTER:2010年2月7日|CENTER:2010年3月5日|
+|CENTER:価格|CENTER:\1,000|CENTER:\1,365（税込）|
+|CENTER:サークル|>|CENTER:ねこ!むし!|
+
+**CD紹介
+-猫虫Pがボーマス11で初頒布した1stアルバム。
+-新曲や大きくアレンジを変えた「one way」「街灯の唄」の他、CD化にあたり再アレンジや再ミックスした曲も含む全10曲。
+
+**曲目
++[[one way>one way/猫虫P]]
++[[街灯の唄]]
++[[星海の唄]]
++[[夏空の唄]]
++[[やふうでぐぐれ]]
++[[さんまだいすき]]
++[[壊想]]
++[[不協想]]
++[[花空想]]
++心模様　&color(red){NEW!}
+
+**リンク
+-[[作者のブログ>>http://nekomushing.seesaa.net/]]
+-[[とらのあなの通販ページ>>http://www.toranoana.jp/mailorder/cit/pagekit/0000/00/03/000000034454/]]
+
+**コメント
+- 街灯の唄アレンジすごい！久しぶりに興奮した！ｗ  -- mizuki  (2011-04-05 00:42:14)
+#comment

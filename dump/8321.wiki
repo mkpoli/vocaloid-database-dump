@@ -1,0 +1,68 @@
+#right(){&furigana(くそいなかP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/9677892" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/9677892">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-初音ミクオリジナル曲の「[[虹の彼方]]」でデビュー。
+-曲調は全体的に疾走感のあるロックが多い。
+-P名の由来は3作目「[[緑が歌う街]]」の「僕の住んでる街があまりにも糞田舎だったのでミク様に罵って頂きました。」という投コメから。
+-アーティスト名は &bold(){ryt}（りず）。今のところ、使用ボカロはミク一筋。
+-すでにコアなファンも多く、今後の活動が楽しみな製作者の一人である。
+-24作目の「[[ネコミミアーカイブ]]」で、遂に殿堂入りを達成。
+--さらに2023年3月18日、同曲にて自身初のミリオンを達成した。
+-次の曲が殿堂入りを達成している。&br()&list_by_tagsearch(糞田舎P,殿堂入り,sort=furigana,option=nolist,nolistspace=、,100)
+
+**ミリオン達成状況
+-以下の楽曲が[[ミリオン>曲一覧/ミリオン曲一覧]]を達成している。
+|CENTER:&bold(){曲名}|CENTER:&bold(){100万再生}|CENTER:&bold(){備考}|
+|[[ネコミミアーカイブ]]|2023年3月18日||
+
+**リンク
+-[[糞田舎ブログ（作者ブログ）>>http://ameblo.jp/r-nashi/]]
+-[[PIAPRO>>http://piapro.jp/ryt_ryt]]
+-[[Twitter>>http://twitter.com/ksinkp]]
+-[[YouTube>>https://youtube.com/channel/UCPTIMr1eKThmds3-juBCRaw]]
+
+**曲
+#list_by_tag(糞田舎P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(糞田舎PCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|>|BGCOLOR(#004080):COLOR(#FFF):CENTER:&font(b,11pt){オリジナル曲}|
+|&nicovideo(http://www.nicovideo.jp/watch/nm5369846)|&nicovideo(http://www.nicovideo.jp/watch/nm5675482)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm5964480)|&nicovideo(http://www.nicovideo.jp/watch/nm6078570)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm6248135)|&nicovideo(http://www.nicovideo.jp/watch/nm6896785)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm7393291)|&nicovideo(http://www.nicovideo.jp/watch/nm7957543)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm8624683)|&nicovideo(http://www.nicovideo.jp/watch/nm8927914)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm9664293)|&nicovideo(http://www.nicovideo.jp/watch/nm9861967)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm10617945)|&nicovideo(http://www.nicovideo.jp/watch/sm11022263)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm11269633)|&nicovideo(http://www.nicovideo.jp/watch/sm11808508)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12092134)|&nicovideo(http://www.nicovideo.jp/watch/sm12558199)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm13814659)|&nicovideo(http://www.nicovideo.jp/watch/sm14584289)|
+|&nicovideo(sm15335929)|&nicovideo(http://www.nicovideo.jp/watch/sm15355366)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm15556708)|&nicovideo(http://www.nicovideo.jp/watch/sm15793598)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm16057388)|&nicovideo(http://www.nicovideo.jp/watch/sm16812983)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm17326909)|&nicovideo(http://www.nicovideo.jp/watch/sm19164627)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm19426261)|&nicovideo(http://www.nicovideo.jp/watch/sm20747141)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm21661185)|&nicovideo(sm22341054)|
+|&nicovideo(sm24129086)|&nicovideo(sm38673300)|
+|&nicovideo(sm39334506)|&nicovideo(sm43247459)|
+//|&nicovideo()|&nicovideo()|
+
+**コメント
+- 糞田舎Pのページが出来てる！作成乙です！！  -- 名無しさん  (2010-02-02 19:04:10)
+- 糞田舎Pさんの作る曲大好きです。  -- mizuki  (2010-11-22 02:28:39)
+- ファンになりました。  -- 名無しさん  (2010-12-20 19:54:23)
+- 花へ辿る糸とGREEN SHIPが好き！  -- 梨緒  (2011-03-31 00:02:16)
+- ミカヅキプリンセスが神曲すぎる  -- IR  (2011-12-03 10:12:40)
+- 糞田舎Pという名前とは対照的に、曲がオシャレでカッコいい。  -- 竜奇  (2012-01-03 19:44:19)
+- ようやく評価され始めたね。GREEN SHIPはもっと伸びていい  -- 名無しさん  (2012-01-31 13:52:58)
+- うおおおやっと殿堂入り！おめでとうございます!!糞田舎さんはもっと評価されてもいいはずだと思うんだ… 糞田舎さんが作る曲は飽きなくて好きです  -- 昆布  (2012-02-06 16:38:46)
+- ネコミミアーカイブを聞いて、糞田舎Pが作ったほかの曲を見ようと思ったらアフターナイトワンダーランドも作ってただと…!?あとで、ほかの曲も聞いてきます。  -- 名無しさん  (2012-02-10 19:32:49)
+- マジ最高！  -- アハアハ  (2014-02-17 15:04:52)
+- 新曲昨日投稿されたよ！うれしすぎて泣いた  -- 名無しさん  (2021-05-03 11:55:44)
+- 最近YouTubeに上げられたので編集してほしい、そして糞田舎pさんの曲好きすぎる  -- 名無しさん  (2021-08-10 17:26:09)
+- ネコミミアーカイブもついにミリオン直前…ミリオン持ちPになるその瞬間を見届けたい。DIVAのPVはようつべで500万行ってるから本家100万もはよ〜〜〜  -- 名無しさん  (2022-05-31 09:32:05)
+- steam版に収録されてないのが残念  -- 名無しさん  (2022-05-31 16:13:35)
+#comment()

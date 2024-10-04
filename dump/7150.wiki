@@ -1,0 +1,63 @@
+#right(){&furigana(ふろまいそうP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/10819733" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/10819733">【ニコニコ動画】</a></iframe>)
+
+**特徴
+作り手名：『&u(){風呂埋葬P}』（&u(){ふろまいそうP}）
+-ロックを基調に様々な曲を発表しているP。
+-先輩であり先に活動をしていた[[大洪水P]]に憧れ、2009年5月よりVOCALOID活動を開始。&br()同時に初めてオリジナルの作詞・作曲作りとDTMを開始する。
+-音楽歴は数年。基本はバンドサウンド。その中で一番長いのはドラム。&br()さらにクラシックギターを演奏することが出来る稀有なP。逆にエレキギター歴は2009年5月からと短い。
+-作品はギターのみ生演奏、それ以外の楽器は打ち込み。
+-好きなジャンルはロック。邦楽、洋楽ともに聴いている。浮遊感の有る音、水っぽい音が大好き。
+-好きなPは[[wintermute]]や[[梨本P]]等のミクゲイザータグのPと、恩人であり永遠のライバルである[[大洪水P]]。
+
+***P名の由来
+-『[[F.M.S.]]』のサビ「FLOAT　MY　SOUL」が「風呂(FLOAT)　埋(MY)　葬(SOUL)」と聞こえると自らSNSの日記に書いたことがきっかけ。&br()この日記に周囲が「風呂埋葬P」だと反応し自ら名乗る事を決定。まさかのP名に周囲を震撼させた。&br()※しかも、この時点では『[[F.M.S.]]』は未発表。
+-アーティスト名は「&bold(){36g}」。これは、Syrup16gが好きな事が理由。
+-Syrup16gの歌詞やギターが作品作りにも強い影響を受けているとコメントしている。
+
+**リンク
+-[[PIAPRO>>https://piapro.jp/syrup0_0016g]]
+-[[Twitter>>https://twitter.com/_36g_]]
+-[[UTAUデータベース「36g（風呂埋葬P）」ページ>>https://www24.atwiki.jp/utauuuta/pages/1356.html]]
+-[[KARENT>>https://karent.jp/artist/pp000481]]
+
+**曲
+#list_by_tag(風呂埋葬P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(風呂埋葬PCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm7185904)|&nicovideo(sm7579804)|
+|&nicovideo(sm7618507)|&nicovideo(sm7867419)|
+|&nicovideo(sm8314953)|&nicovideo(sm8655196)|
+|&nicovideo(sm10526257)|&nicovideo(sm10865880)|
+|&nicovideo(sm10901538)|&nicovideo(sm11601048)|
+|&nicovideo(sm12628903)|&nicovideo(sm13944492)|
+|&nicovideo(sm15222900)|&nicovideo(sm15356106)|
+|&nicovideo(sm15853125)|&nicovideo(sm16151071)|
+|&nicovideo(sm16597783)|&nicovideo(sm17292285)|
+|&nicovideo(sm17724057)|&nicovideo(sm17956588)|
+|&nicovideo(sm18208659)|&nicovideo(sm18417127)|
+|&nicovideo(sm19565776)|&nicovideo(sm20732585)|
+|&nicovideo(sm20769008)|&nicovideo(sm23540365)|
+|&nicovideo(sm24668321)|&nicovideo(sm25961125)|
+|&nicovideo(sm31089128)|>|
+
+**コメント
+- がんばれ〜  -- 名無し  (2009-11-06 23:19:09)
+- エレキギター歴短っ。それでこれらを作るのは凄いよなあ  -- 名無しさん  (2010-02-06 21:41:30)
+- F.M.S、シラミレミいいよなー。好きだわ。音に引き込まれること、引き込まれること。好きすぎて、困るわ。誰か助けてくれ。  -- 伊良部  (2010-10-29 09:33:50)
+- 「暦」×➔「歴」○あのぅ、間違えていますけど。  -- 伊良部  (2010-10-29 09:43:14)
+- アルバム｢The raingazer's song｣楽しみ～  -- 風呂Pﾌｧﾝ  (2010-11-04 12:36:37)
+- アルバム｢The raingazer's song」すごく良いです！！  -- 名無しさん  (2010-11-25 11:29:30)
+- ↑3 指摘箇所を訂正しました。  -- 名無しさん  (2010-11-25 13:14:41)
+- アルバム買いました！いい曲ばっかり  -- 名無しさん  (2011-03-25 15:20:47)
+- ちくしょう、こんな良いシューゲ作る人に気付かなかったとは……&br()アルバム再販してくれぇぇぇ  -- 名無しさん  (2011-08-19 00:40:19)
+- 誰かの歌で僕が死ぬ がすごく良かったから、ゆかりんもっと使ってほしい！！  -- えむ  (2012-12-25 19:58:42)
+- ↑同感!!ゆかりんで一番好きな曲や!! ダロい感じが良い!!  -- 葉月  (2013-03-03 11:01:36)
+#comment()

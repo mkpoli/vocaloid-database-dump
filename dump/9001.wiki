@@ -1,0 +1,44 @@
+#right(){&furigana(yuxuki)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/28756576" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/28756576">【ニコニコ動画】yuxuki waga / sorairo club</a></iframe>)|&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/5961309" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/5961309">【ニコニコ動画】sorairo club Songs</a></iframe>)|
+
+**特徴
+作り手名：『&u(){yuxuki}』
+-2009/4/21、「[[空色ラジオ]]」でデビュー。
+-yuxuki（音関係全般）・maquao（ベース）・霜村（絵・動画）・K（サポートメンバー）・ミク（ボーカル）の5人からなる音楽グループ、「[[そらいろくらぶ]]」を主宰。
+-曲調はアコースティック、エレクトロニカ、シューゲイズを合わせたサウンド。それ以外の曲調も作れる。
+-yuxuki氏が創り出す、良質なメロディーラインには高い定評がある。
+-&bold(){yuxuki waga}名義でソロ活動も行っている。
+
+**リンク
+//-[[作者ブログ>>http://s10rw.net/yuxukiwaga/]]
+-[[KARENT>>https://karent.jp/artist/pp000294]]
+-[[MySpace>>https://www.myspace.com/sorairoclub]]
+-[[PIAPRO>>https://piapro.jp/luke9876]]
+-[[Twitter>>https://twitter.com/yuxuki]]
+
+**曲
+#list_by_tagsearch(yuxuki,100,sort=furigana2,errmsg=まだ曲が登録されていません。,and,100)
+
+**CD
+#list_by_tagsearch(yuxukiCD,100,sort=furigana2,errmsg=まだCDが登録されていません。,and,100)
+
+**動画（ソロ作品）
+|&nicovideo(sm16367572)|&nicovideo(sm17172232)|
+
+**関連タグ内の更新履歴
+#region(close,関連タグ内の更新履歴)
+関連タグ内の更新履歴
+※「yuxuki」「yuxukiCD」タグ内で最近編集やコメントのあった記事を新しい方から10件表示しています。
+#list_by_tagsearch(yuxuki,yuxukiCD,sort=timestamp,sort2=desc,errmsg=まだ曲、CDが登録されていません。,or,10)
+#endregion
+
+**コメント
+- ユウキさんは後々絶対評価される。  -- 名無しさん  (2012-12-08 13:53:14)
+- 今、一押しのPです。  -- 名無しさん  (2013-05-23 21:56:41)
+- ハルチカのOPの人とは、、そらいろくらぶ好きだったから嬉しいな  -- 名無しさん  (2016-01-31 23:19:42)
+- ↑予言者いて草　しかのこのこのここしたんたん  -- 名無しさん  (2024-08-15 14:28:12)
+#comment()

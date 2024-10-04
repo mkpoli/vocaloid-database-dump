@@ -1,0 +1,45 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/086_20091225200647_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[P∴Rhythmatiq act:04]]|CENTER:&bold(){harmonia}|CENTER:[[P∴Rhythmatiq Rock!!]]|
+
+|&b(){[[Aether_Eru]]}|&b(){[[ゆうP]]}|&b(){[[ノア>ノア(Noah)]]}|
+
+||CENTER:即売|CENTER:同人|CENTER:配信|
+|発売|>|CENTER:2009年8月15日|CENTER:2009年10月7日|
+|価格|CENTER:￥1,000|CENTER:￥1,470（税込）|CENTER:￥1,200 / 1曲￥150|
+|サークル|>|CENTER:P∴Rhythmatiq||
+|レーベル|>|CENTER:-|CENTER:KarenT|
+
+**CD紹介
+-P∴Rhythmatiq初のアルバム。
+-全曲にVOCALOIDの再調整とリマスタリングが施されています。
+-ジャケットイラストは&b(){しろ}。
+-虎の穴・メロンブックス・ホワイトキャンバス・あきばお～こく・D-STAGE各店にて委託販売が行われている。
+-KarenTレーベルよりダウンロード配信販売も行われている。
+
+**曲目
++[[Melodia]]
++YOU
++ココロノツバサ
++[[シアワセノシグナル]]
++[[CLOSE 2U]]
++Happy Loop!!
++Dream Maker
++sweet home
++jewel
++stella
++にじいろおりがみ
++ほしのふね
++キューティーフェイカー
++カラフルパズルピース
++Harmonia
+
+**リンク
+-[[作者ブログ>>http://prq.blog44.fc2.com/blog-entry-157.html]]
+-[[クロスフェードPV（YouTube）>>http://www.youtube.com/watch?v=H8A9bWSgyHY]]
+-[[KarenT：「Harmonia」>>http://karent.jp/album/86]]
+
+**コメント
+#comment

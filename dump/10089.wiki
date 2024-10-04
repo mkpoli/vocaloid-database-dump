@@ -1,0 +1,30 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[誰よりもHappyDay>誰よりもHappyDay/CD]]|CENTER:&bold(){Gothic}|CENTER:[[Virtual Songs]]|
+
+|&bold(){[[杏あめ（匿名希望の東京都在住）]]}|&bold(){社長}|
+
+発売：2008年12月30日
+価格：不明
+流通：即売
+サークル：東京組体操組
+ジャケットイラスト：津雪
+
+**CD紹介
+-創作サークル &bold(){東京組体操組} との &bold(){Special Collaboration} シングル 。
+-ゴシックをテーマにした企画CD。匿名希望の東京都在住と社長の2組が楽曲を提供している。
+
+**曲目
++ウタカタエクスタシー / 匿名希望の東京都在住（唄：初音ミク）
++勿忘草 / 社長
++ウタカタエクスタシー -off vocal ver.-
++勿忘草 -off vocal ver.-
+
+**リンク
+-[[東京組体操組>>http://2style.net/tokyocpe/]]
+-[[ApricotCandy*（匿名希望の東京都在住のブログ）>>http://anzutokumeikibou.blog96.fc2.com/]]
+-[[FLY STUDIO（社長氏のサイト）>>http://www.fly-studio.net/]]
+
+**コメント
+#comment

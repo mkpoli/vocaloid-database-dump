@@ -1,0 +1,64 @@
+#right(){&furigana(はなかのひーる)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&ref(http://cdn.karent.jp/thumb_a/214/214_20100220232127_0400_0400.jpg,height=250)
+
+|&nicovideo(http://www.nicovideo.jp/watch/sm8029702)||
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){ハナガノビール}|CENTER:[[poncotsu]]|
+
+|&bold(){[[ピノキオピー]]}|
+
+||CENTER:即売|CENTER:同人|CENTER:配信|
+|CENTER:発売|>|CENTER:2009年9月6日|CENTER:2010年3月3日|
+|CENTER:価格|CENTER:￥1,000|CENTER:￥1,470（税込）|CENTER:￥1,500 / 1曲￥150|
+|CENTER:サークル|>|CENTER:ふぬけ||
+|CENTER:レーベル|>|CENTER:-|CENTER:KarenT|
+
+作詞・作曲・イラスト：&bold(){[[ピノキオピー]]}
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/id357675377]]}|
+
+**CD紹介
+- 鋭い音とメッセージ性の強い詞で根強い人気を誇るピノキオピーの1stアルバム。
+- THE VOC@LOiD M@STER 9（ボーマス9）で発表された。
+- 出世作となった「[[eight hundred]]」以降の曲に加え、「[[玉葱]]」「[[ネガポジ]]」などのブレイク前の曲もリテイクを経ていくらか収録されている。
+- 全曲が新曲or新録or新アレンジと気合の入った一枚である。
+- とらのあなで委託販売されていたが、現在は完売となっている。
+- 2010年3月3日、KarenTレーベルよりダウンロード販売開始。中身はCD版と変化はない。
+
+**曲目
++[[あかんぼ]]   &color(red){NEW!!}
++[[ネガポジ]]
++[[宇宙みかん]]
++[[玉葱]]
++[[カケラ>カケラ/ピノキオピー]]   &color(red){NEW!!}
++[[Cocoa]]
++[[ひとりの帰り道]]
++[[キラキラ☆カプセル]]
++[[HAPPY END BAD END]]   &color(red){NEW!!}
++[[Fireworks>Fireworks/ピノキオピー]]
++[[「なんてね。」]]   &color(red){NEW!!}
++[[eight hundred]]
++[[ハナウタ]]
+
+**リンク
+- [[作者ブログでのCD紹介>>http://pinocchiop.blog.shinobi.jp/Entry/29/]]
+- [[作者ブログでのKarenT配信の案内>>http://pinocchiop.blog.shinobi.jp/Entry/59/]]
+- [[KarenT>>http://karent.jp/album/214]]
+
+**コメント
+- これは伸びる。  -- 名無しさん  (2013-06-28 19:24:12)
+- これは伸びる。  -- 名無しさん  (2013-07-15 22:10:43)
+- これは伸びる。  -- 名無しさん  (2014-01-25 19:47:49)
+//- あかんぼの歌詞早くお願いします  -- 良太  (2014-05-26 17:11:17)
+- これは伸びる。  -- 名無しさん  (2015-02-11 14:35:41)
+- これは伸びる。  -- 名無しさん  (2015-12-14 22:08:55)
+- これは伸びる。  -- 名無しさん  (2023-03-30 17:50:15)
+- これは伸びる。  -- 名無しさん  (2023-05-01 13:01:10)
+- これは伸びる。  -- 名無しさん  (2023-08-21 10:36:22)
+- これは伸びる。  -- 名無しさん  (2024-06-23 12:33:17)
+#comment

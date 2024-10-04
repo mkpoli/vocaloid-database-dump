@@ -1,0 +1,39 @@
+#right(){&furigana(せむせむ) &furigana()【登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186145797.jpg,x=300,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm10393574)
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&b(){セムセム}|CENTER:-|
+
+|&bold(){[[ぽき]]}|
+
+||CENTER:即売|CENTER:同人|
+|発売|2010年5月9日||
+|価格|CENTER:￥1,000||
+|サークル|>|CENTER:ぽき|
+
+>作詞・作曲：&b(){[[ぽき]]}
+>ジャケットイラスト・デザイン：&b(){[[なもdo>>http://www.nicovideo.jp/mylist/3826367]]}
+
+**CD紹介
+-「セムセムP」こと「ぽき」によるアルバム。
+-THE VOC@LOID M@STER 12（ボーマス12）にて頒布。
+
+**曲目
++キリサキレイン
++ネガティブ♡
++かえりみち
++グローバーズ・コーナーズ(新曲)
++[[090]]
++[[Good-bye kiss]]
++そらいろ
++セムセム
++バンソーコー(新曲)
+
+**リンク
+-[[piapro>>http://piapro.jp/pocky_body]]
+-[[セムセムPマイリスト>>http://www.nicovideo.jp/mylist/13682172]]
+
+**コメント
+#comment

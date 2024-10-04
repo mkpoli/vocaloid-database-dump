@@ -1,0 +1,46 @@
+#right(){&furigana()&furigana()【登録タグ:&tags()】}
+&ref(http://karent.jp/npdca/089_20091225200752_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Rinspire]]|CENTER:&bold(){CHOM-P BEST TRAX!}|CENTER:[[Bitter Amp.]]|
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/chom-p-best-trax/id335315876]]}|
+|&bold(){[[D-STAGEで購入する>>http://d-stage.com/shop/detail.php?seq=10853]]}|
+|&bold(){[[メロンブックスで購入する>>http://shop.melonbooks.co.jp/shop/detail/213001005418?LIVRET=off]]}|
+
+|&bold(){[[ちょむP]]}|[[ストーカーP]]|[[orange>orange/作り手]]|
+
+||CENTER:即売|CENTER:同人|CENTER:配信|
+|発売|CENTER:2009年8月15日|CENTER:2009年|CENTER:2009年10月20日|
+|価格|CENTER:￥1,000|CENTER:￥1,470（税込）|CENTER:￥1,200 / 1曲￥150|
+|サークル|>|>|CENTER:ちょむ工房|
+|レーベル|>|CENTER:-|CENTER:KarenT|
+|名義|||CENTER:[[TakeponG>>http://karent.jp/artist/pp000016]]|
+
+**CD紹介
+-精力的に作品をリリースしてきた、「[[ちょむP]]」のベストアルバム。
+-コミックマーケット76でCDとして初頒布。続いてKarenTレーベルより自身初のダウンロード販売を開始した。
+
+**曲目
++Rotate! (feat. 初音ミク & 鏡音リン)
++[[教えて!! 魔法のLyric ［advanced mix］>教えて!! 魔法のLyric]] (feat. 初音ミク)
++1000%グローリー [vocalo mix] (feat. 初音ミク)
++ホントはどうよ？ [original mix] (feat. 初音ミク)
++[[Catch the Wind]] (feat. 初音ミク & 鏡音リン)
++アンブレラ (feat. 鏡音リン)
++[[Rejoyce]] (feat. 鏡音リン)
++マイクラ (feat. 初音ミク)
++キミのＴシャツ [disco house mix] (feat. 鏡音リン)
++突撃アタック☆チャンス (feat. 初音ミク)
++[[ミライのオト]] (feat. 初音ミク, 鏡音リン & レン)
++misty rain [endless night mix] (feat. 鏡音リン)
++Third mind (feat. 鏡音リン)
++[[千葉都市モノレールに乗って君に会いに行こう]] (feat. 初音ミク)
++さよなら、ありがとう。 (feat. 鏡音リン)
+
+**リンク
+-[[KarenT：『CHOM-P BEST TRAX! / TakeponG』>>http://karent.jp/album/89]]
+-[[KarenT：『TakeponG』>>http://karent.jp/artist/pp000016]]
+
+**コメント
+#comment

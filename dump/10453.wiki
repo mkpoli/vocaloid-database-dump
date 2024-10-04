@@ -1,0 +1,32 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/104_20091225201449_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Lovely Diva]]|CENTER:&bold(){Feel so easily}|CENTER:[[Dancing Love>Dancing Love/CD]]|
+
+|&bold(){[[MineK]]}|
+
+発売：2009年11月5日
+価格：￥300 / 1曲￥150
+流通：配信
+レーベル：KarenT
+ジャケットイラスト：トユ
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/feel-so-easily-single/id337640144]]}|
+
+**CD紹介
+-大人なMEIKOをイメージして作ったという2曲を収録した配信限定シングル。
+-MEIKO発売5周年を記念してリリースされた作品の1つ。
+-収録曲の歌詞がPIAPROで公開されている。
+
+**曲目
++Feel so easily （feat. MEIKO）
++Tomorrow's wind （feat. MEIKO）
+
+**リンク
+-[[KarenT：「Feel so easily」>>http://karent.jp/album/104]]
+-[[KarenT：「MEIKO記念祭'09」特集ページ>>http://karent.jp/special/meiko09]]
+-[[PIAPRO>>http://piapro.jp/minek1025]]
+
+**コメント
+#comment()

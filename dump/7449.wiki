@@ -1,0 +1,20 @@
+#right(){&furigana()&furigana(ぴくみんP)【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/6335716" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/6335716">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-市場でボーカロイド達をポチッとしてしまうらしい。
+-使用ボカロは、KAITO、MEIKO、鏡音リン,レン。
+
+**曲
+#list_by_tag(ピクミンP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm3065814)|&nicovideo(http://www.nicovideo.jp/watch/sm3092487)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3131814)|&nicovideo(http://www.nicovideo.jp/watch/sm3888149)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4809776)|&nicovideo(http://www.nicovideo.jp/watch/sm4923811)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5569459)|&nicovideo(http://www.nicovideo.jp/watch/sm6318090)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7036854)|
+
+**コメント
+- 愛のうたのカバー好きだよ。ピクミン2にははまったなぁ。  -- 不明P  (2014-06-12 15:38:25)
+#comment()

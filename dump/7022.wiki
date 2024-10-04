@@ -1,0 +1,124 @@
+#right(){&furigana(HowDeepIsTheSea)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(nm8600262)|
+作詞：[[さはら]]　[[ニコニコ>http://www.nicovideo.jp/mylist/9713208]]
+作曲：[[psgmania]]
+編曲：[[psgmania]]
+イラスト：[[givson]]
+唄：[[巡音ルカ]]
+
+**曲紹介
+曲名：『&u(){How Deep Is The Sea}』(&u(){はう　でぃーぷ　いず　ざ　しー})
+-英詩による洒落なＲ＆Ｂナンバー
+-曲や調教のレベルは共に高く、イントロから体が動き出すようなリズムカルなサウンドに合わせて
+　　英語で滑らかに歌うルカの歌声が心地良い。
+
+
+**歌詞
+（[[piapro>>http://piapro.jp/content/2cuvrq7i9042peom]]より転載）
+
+I like the way you do the things you do
+and it can be always very fresh and new
+but I can't ever seem to get enough
+of your love and touch
+
+My feeling for you be getting stronger
+and a night without you would be too longer
+Baby, it's you who I've been thinking about
+You're the one I can't live without
+
+How deep is the sea?
+I want you to tell it to me
+Come whisper me your love and just let me into your world deeper n' deeper
+How high is the sky?
+You and me, let's not get no shy
+I know you're gonna take me higher tonight
+
+You're taking my breath away when you near me
+and you can make my fears disappear
+You got me thinking that I'm all in love
+So you need not rush
+
+No one ever knows how to get in 'tween us
+I can shine so bright when we intertwine
+Babe I'm holding a sign, put your hand on mine
+Just the two of us can be tryin'
+
+How deep is the sea?
+I want you to tell it to me
+Come sing me your love song tenderly and you can make me weaker n' weaker
+How far are the stars?
+Can you feel my heart beat so hard?
+I know you're gonna take me further tonight
+
+How deep is the sea?
+I want you to tell it to me
+Come hold me in your love and I can be falling for you deeper n' deeper
+How deep can we go?
+If you don't know, I'll let you know!
+I know we will go deeper than ever tonight
+
+How deep is the sea...
+How deep is our love...
+
+#region(close,和訳)
+あなたのやり方が好き
+いつも見たことないほど新しいから
+でも，まだまだ満足できない
+あなたがいくら触れてくれても愛してくれても
+
+気持ちはどんどん強くなっていって
+あなたのいない夜はとっても長くって
+ねえ，あなたのことを考えてしまう
+もうあなたなしじゃだめなんだ
+
+海ってどのくらい深い？
+あなたに教えてほしい
+私のところへ来て，愛を囁いて，あなたの世界に深く深く夢中にさせて
+空ってどのくらい高い？
+私たち，シャイにならないでいよう
+今夜はもっと高いところへ連れて行ってくれるんでしょう？
+
+あなたが近くにいると息がつまるみたい
+怖いって感じをなくしてくれるから
+好きなんだな，って思う
+だから急がないでいいよ
+
+誰も私たちの間に入りこめない
+私がいちばん綺麗になるのは，あなたと一緒に何かしてる時
+ねえ，サイン出してるんだよ，手と手を重ねて
+ふたりなら大丈夫
+
+海ってどのくらい深い？
+あなたに教えてほしい
+私のところへ来て，優しく愛を歌って，そしたら私は弱く弱くなる
+星ってどのくらい遠い？
+私の激しい鼓動を感じる？
+今夜はもっと遠いところへ連れて行ってくれるんでしょう？
+
+海ってどのくらい深い？
+あなたに教えてほしい
+私のところへ来て，その愛の中に抱いて，そしたら私はあなたの中に深く深く落ちていく
+私たち，どこまで深くに行けるの？
+知らないのなら教えてあげる
+今夜は今まで以上に深いところまで行けるから
+
+海ってどのくらい深い？
+私たちの愛は？
+#endregion
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+**コメント
+- これカッコイイです！  -- 名無しさん  (2009-10-30 14:51:32)
+- もっと伸びても良いはずなんだが・・・  -- 名無しさん  (2009-12-10 06:53:58)
+#comment()
+
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)

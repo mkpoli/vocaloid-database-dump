@@ -1,0 +1,32 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/182_20100113095730_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){VIRGIN KILLER}|CENTER:[[Nude>Nude/明太RockerCD]]|
+
+|&bold(){[[明太Rocker]]}|[[あちこあこ]]|
+
+媒体：配信
+発売：2010年1月30日
+価格：アルバム￥300 / 1曲￥150
+レーベル：KarenT
+名義：[[明太Rocker×あちこあこ>>http://karent.jp/artist/pp000154]]
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/virgin-killer-ep/id351266511]]}|
+
+**CD紹介
+-明太Rocker氏初の全国配信アルバムは、絵師「[[あちこあこ]]」氏との共同名義。
+-巡音ルカ生誕1周年を記念して、新曲を含めた全3曲入りEPをリリース。
+-既発表の「[[Perfect Liar]]」「[[Masquerade>Masquerade/明太Rocker]]」は音源が新たにリマスターされている。
+
+**曲目
++[[Perfect Liar]] (feat. 巡音ルカ)
++[[Masquerade>Masquerade/明太Rocker]] (feat. 巡音ルカ)
++[[Bullet for Prisoner]] (feat. 巡音ルカ)
+
+**リンク
+-[[KarenT：「VIRGIN KILLER」>>http://karent.jp/album/182]]
+-[[KarenT：「巡音ルカ聖誕祭'10」特集ページ>>http://karent.jp/special/luka10]]
+
+**コメント
+#comment()

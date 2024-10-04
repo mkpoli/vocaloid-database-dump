@@ -1,0 +1,50 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/434_20100623123947_0240_0240.jpg)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm10963398)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[二人のX'mas Night]]|CENTER:&bold(){Distance to the sky}|CENTER:[[Four seasons]]|
+
+|&bold(){[[ROY]]}|[[神楽美咲]]|Ciel|
+
+||CENTER:即売|CENTER:同人|CENTER:配信|
+|発売|CENTER:2010年6月20日|CENTER:2010年6月|CENTER:2010年7月31日|
+|価格|CENTER:￥800|CENTER:￥1,155（税込）|CENTER:￥900 / 1曲￥150|
+|サークル|CENTER:K★SS|CENTER:ROY||
+|レーベル|>|CENTER:-|CENTER:KarenT|
+
+>All musics by [[ROY]]
+>Lyrics by [[ROY]] (Track1.3.6.7)
+>　　　　　　[[Misaki Kamura>神楽美咲]] (Track2.4.5)
+>　　　　　　Ciel (Track8)
+>Album artwork & designed by [[Miyako>>http://piapro.jp/miyakozl]]
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/distance-to-the-sky/id383569613]]}|
+
+**CD紹介
+-ROYによるミニアルバム。
+-がくっぽいどによる、オリジナル様式美ヘヴィメタルの真髄を詰め込んだ、全8曲を収録。
+-「DEAR MASTER!」（ディアマス）＠新大阪にて頒布。
+-とらのあな・アニメイトで委託販売が行われている。
+-がくっぽいど発売2周年記念として、KarenTレーベルよりダウンロード販売が行われている。
+
+**曲目
++[[Countdown]]
++[[Close to me]]
++Autumn dusk
++[[Uranus]]
++Destiny
++[[Keep on shining]] (Gackpoid Ver.)
++[[Distance to the sky]]
++[[Cherry blossom]]
+
+**リンク
+-[[作者ブログ>>http://roymetalnasu.blog23.fc2.com/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/22/06/040010220619.html]]
+-[[アニメイト>>http://www.animate-onlineshop.jp/pn/%E3%80%90%E5%90%8C%E4%BA%BACD%E3%80%91ROY/Distance+to+the+sky/pd/1047255/]]
+-[[KarenT：「Distance to the sky」>>http://karent.jp/album/434]]
+-[[KarenT：「がくっぽいど2周年記念祭」特集ページ>>http://karent.jp/special/gackpoid10]]
+
+**コメント
+#comment

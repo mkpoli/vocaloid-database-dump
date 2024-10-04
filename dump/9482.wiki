@@ -1,0 +1,34 @@
+#right(){&furigana(くろいねことしろいはな)&furigana()【登録タグ:&tags() 】}
+&ref(http://blog-imgs-30.fc2.com/a/m/a/amane69/20090512011321064s.jpg)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm7005137)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[雨音>雨音/CD]]|CENTER:&bold(){黒い猫と白い花}|CENTER:[[宇宙ラジオ-STARDUST MIX->宇宙ラジオ]]&br()[[falldown]]|
+
+|&bold(){[[←P]]}|
+
+流通:即売
+発売:2009年5月17日
+価格:￥300
+サークル:-
+
+作詞・作曲：&bold(){[[←P]]}
+イラスト：&bold(){[[meisa>>http://www.pixiv.net/member.php?id=135293]]}
+
+**CD紹介
+- 「ふわふわずしん」をコンセプトとする[[←P]]の2ndミニアルバム。
+- THE VOCALOID MASTER 8（ボーマス8）で頒布された。
+- 4曲目はリテイクされ、新たにPVを付して公開されている。[[リンクはこちら>>http://www.nicovideo.jp/watch/sm8062966]]
+
+**曲目
++[[Re:Re:Re:Re:>Re;Re;Re;Re;]]
++[[黒い猫と白い花]]
++[[ハナムケ]]（words：のこのこ）
++[[-オトアメ-音雨]]
+
+**リンク
+- [[$ky Rainsound（作者ホームページ）>>http://amane69.blog23.fc2.com/]]
+
+**コメント
+#comment

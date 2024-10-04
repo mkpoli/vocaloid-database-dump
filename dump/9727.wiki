@@ -1,0 +1,30 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/269_20100331224050_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Favor}|CENTER:[[DEFINITION]]|
+
+|&bold(){[[ポン酢P]]}|
+
+発売：2010年4月21日
+価格：￥300 / 1曲￥150
+流通：配信
+レーベル：KarenT
+ジャケットイラスト：[[LIRAN>>http://piapro.jp/liran_iro]]
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/favor-single/id366757489]]}|
+
+**CD紹介
+-0108-音屋-所属の[[ポン酢P]]ことHal氏のファーストシングル。
+-代表曲「[[Favor]]」に、今回の為に書き下ろした楽曲2曲をカップリングしている。
+
+**曲目
++[[Favor]] （feat. 初音ミク）
++Preparation （feat. 初音ミク）
++△□ -The unstable world- （feat. 初音ミク）
+
+**リンク
+-[[KarenT>>http://karent.jp/album/269]]
+
+**コメント
+#comment

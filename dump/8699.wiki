@@ -1,0 +1,38 @@
+#right(){&furigana(Deja vu) &furigana()【登録タグ:&tags() 】}
+
+|BGCOLOR(#DDD):CENTER:　前作　|BGCOLOR(#B66):COLOR(#FFF):CENTER:&b(){　本作　}|BGCOLOR(#DDD):CENTER:　次作　|
+|CENTER:　[[法力国家ノ魔法使]]　|BGCOLOR(#FFF):CENTER:&font(b,14px){　Deja vu　}|CENTER:　[[Resonance>Resonance/しえろP・ちくPCD]]　|
+
+|&b(){　[[しえろP>しえろP（ショタエロイドP）]]　}|
+
+|BGCOLOR(#FFF):　|BGCOLOR(#DDD):CENTER:即売|BGCOLOR(#DDD):CENTER:　委託　|
+|BGCOLOR(#DDD):CENTER:発売|CENTER:　2009年11月15日　|CENTER:　-　|
+|BGCOLOR(#DDD):CENTER:価格|CENTER:500円|CENTER:-|
+|BGCOLOR(#DDD):CENTER:備考|CENTER:&color(red){頒布終了}|CENTER:-|
+|BGCOLOR(#DDD):　サークル　|>|CENTER:ahp|
+
+**CD紹介
+-「[[Deja vu ～いつか見た場所～]]」「[[Promise ～約束の地～]]」含む、[[しえろP>しえろP（ショタエロイドP）]]の1stミニアルバム。
+-「[[Daybreak>Daybreak/samfree]]」は[[samfree]]、「[[リグレットメッセージ]]」は[[悪ノP]]のアレンジカバー。
+-ジャケットイラストは[[いたる]]。
+
+**トラックリスト
+|BGCOLOR(#CCC):　Tr　|BGCOLOR(#CCC):　タイトル|BGCOLOR(#CCC):　歌|BGCOLOR(#CCC):　作詞|BGCOLOR(#CCC):　作曲　|
+|CENTER:01|　Overture ～夜の神殿～|　-|　-|　成澤悠斗　|
+|CENTER:02|　[[Deja vu ～いつか見た場所～]]|　鏡音レンact.1　|　高城悠基・種代深秋　|　成澤悠斗|
+|CENTER:03|　[[Promise ～約束の地～]]|　鏡音レンact.1　|　成澤悠斗|　成澤悠斗|
+|CENTER:04|　Deja vu ～いつか見た場所～ ［ReMix］|　鏡音レンact.1　|　高城悠基・種代深秋|　成澤悠斗|
+|CENTER:05|　[[Daybreak>Daybreak/samfree]]|　鏡音レンact.1　|　SAM|　SAM|
+|CENTER:06|　[[リグレットメッセージ]]|　鏡音リンact.1　|　mothy|　mothy|
+|CENTER:07|　Deja vu ～いつか見た場所～ -instrumental-|　-|　-|　成澤悠斗|
+|CENTER:08|　Promise ～約束の地～ -instrumental-|　-|　-|　成澤悠斗|
+|CENTER:09|　Deja vu ～いつか見た場所～ ［ReMix］ -instrumental-　|　-|　-|　成澤悠斗|
+|CENTER:10|　Daybreak -instrumental-|　-|　-|　SAM|
+|CENTER:11|　リグレットメッセージ -instrumental-|　-|　-|　mothy　|
+
+**リンク
+[[ahp+way>>http://ahp.xii.jp/ahpway/]]
+
+
+**コメント
+#comment

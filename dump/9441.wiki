@@ -1,0 +1,55 @@
+#right(){&furigana(poncotsu)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&ref(http://karent.jp/npdca/644_20110118113726_0240_0240.jpg)
+&nicovideo(http://www.nicovideo.jp/watch/sm10457114)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[ハナガノビール]]|CENTER:&bold(){poncotsu}|CENTER:[[remodel]]|
+
+|&bold(){[[ピノキオピー]]}|[[シメサバツイスターズ]]|
+
+||CENTER:即売|CENTER:同人|CENTER:配信|
+|CENTER:発売|>|CENTER:2010年5月9日|CENTER:2011年2月9日|
+|CENTER:価格|CENTER:￥1,000|CENTER:￥1,491（税込）|CENTER:￥1,200 / 1曲￥150|
+|CENTER:サークル|>|>|CENTER:ライブファミリー|
+|CENTER:レーベル|>|CENTER:-|CENTER:KarenT|
+
+>作詞・作曲・イラスト：&bold(){[[ピノキオピー]]}
+
+|&bold(){[[とらのあなで購入する>>http://www.toranoana.jp/mailorder/article/04/0010/22/13/040010221372.html]]}|
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/poncotsu/id417695750]]}|
+
+**CD紹介
+- 前作より更に勢いを増してリリースされる、ピノキオピーの2ndアルバム。
+- THE V@CALOID M@STER 12（ボーマス12）で発表される。
+- ピノキオピー1周年の記念すべき日に立て続けに殿堂入りを果たし、代表曲のひとつとなった「[[ボーカロイドのうた]]」「[[好き好き好き好き好き好き好き好き好き]]」の他、根強い人気を誇る「[[サイケデリックスマイル]]」「[[ポンコツ天使]]」、過去曲のリメイクである「[[Re:Continue>CONTINUE]]」、作詞・イラストでコラボした&bold(){[[シメサバツイスターズ]]}の「[[仮病少年（仮）]]」のアレンジに、新曲4曲を加えた全12曲を収録。
+-既存曲はすべて再度ミックスされる。
+-『全体的になんだか、テンションの高いアルバムになりそうです。』（本人ブログより）
+-現在、とらのあなで委託販売が、KarenTレーベルよりダウンロード販売が行われている。
+
+**曲目
++[[ぼくとわたしと少年少女]]  &color(red){NEW!!}
++[[ポンコツ天使]]
++[[ファンタジーへようこそ]]  &color(red){NEW!!}
++[[Re:Continue>CONTINUE]]
++[[おもちゃロボット]]
++[[仮病少年（仮）]] -pinocchio version-　&color(red){NEW!!}
++[[サイケデリックスマイル]]
++[[好き好き好き好き好き好き好き好き好き]]
++[[HANANOBI GIRL]]
++[[箱庭からのメッセージ]]　&color(red){NEW!!}
++[[ボーカロイドのうた]]
++[[今年の終わりと始まりをノラ猫は見ていた]]
++ [[(Bonus Track)>ベニチオデルトロ]]
+
+**リンク
+- [[作者ブログでのCD告知>>http://pinocchiop.blog.shinobi.jp/Entry/66/]]
+-[[KarenT>>http://karent.jp/album/644]]
+
+**コメント
+- ボーナストラックは「[[ベニチオデルトロ]]」かｗ  -- 名無しさん  (2011-01-25 01:11:22)
+- ぼくとわたしと少年少女がスルメ曲。ファンタジーへようこそもいいよ  -- 名無しさん  (2011-02-10 18:08:13)
+#comment

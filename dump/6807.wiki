@@ -1,0 +1,92 @@
+#right(){&furigana(てんりんせいおうししほうこう)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm7760676)|&nicovideo(sm8124454)|
+作詞：[[マイゴッドP]]
+作曲：[[マイゴッドP]]
+編曲：[[マイゴッドP]]
+唄：[[鏡音リン>鏡音リン・レン]]・[[鏡音レン>鏡音リン・レン]]
+
+**曲紹介
+曲名：『&u(){転輪聖王 -獅子咆哮-}』（&u(){てんりんせいおう -ししほうこう-}）
+-正しく有効活用された[[Delay Lama]]と、特徴的な音とが響く広い音空間の中、サンスクリット語のラップとエエエェェ（´д｀）ェェエエエが絡み合う。
+
+-以下動画の説明文等より
+　&bold(){転輪聖王 -獅子咆哮-}
+>帝王は、武力を用いず。唯是、正義のみ。
+>マイゴッドは長期休暇。
+>　大ボス戦。ただし敵は物理反射。
+>
+>＃41 迷子の実験室(3)
+>ミクとあの方々をゲストに迎えております。　　　　　　　　　　　　　　
+>・悟りが開けましたが、すぐに閉じました。
+
+　&bold(){転輪聖王 -獅子咆哮- (第２形態)}
+>マイゴッド「アラ不思議　ギターを弾いたら　メガテン風」
+>ならば･･･　ならば･･･っ！
+>
+>＃41-2 迷子の実験室(3R)
+>大ボス戦、おまけ。
+>・悟れませんでした。
+
+**歌詞
+
+gate gate paragate 
+parasamgate bodhi svaha...
+
+gate gate paragate 
+parasamgate bodhi svaha...
+
+cakra varti raajan...
+
+cakkaratana, hatthiratana, 
+assaratana, maniratana
+itthiratana, gahapatiratana, 
+parinayakaratana...
+
+cakkaratana, hatthiratana, 
+assaratana, maniratana
+itthiratana, gahapatiratana, 
+parinayakaratana...
+
+cakkaratana, hatthiratana, 
+assaratana, maniratana
+itthiratana, gahapatiratana, 
+parinayakaratana...
+
+ahavs ihdob etagmasarap 
+etagarap etag etag...
+
+ahavs ihdob etagmasarap 
+etagarap etag etag...
+
+gate gate paragate 
+parasamgate bodhi svaha...
+
+gate gate paragate 
+parasamgate bodhi svaha...
+
+cakra varti raajan...
+
+cakra varti raajan...
+
+gate gate paragate 
+parasamgate bodhi svaha...
+
+cakra varti raajan
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+**コメント
+- 第二形態のメガテンも好きだけど、最初のverは「よくわからないなにか」的なPVと、一つ一つの音が効きすぎてやヴぁい。  -- 名無しさん  (2009-12-19 15:02:57)
+- マイゴッドが大好きだマイゴッド嫁にきてほしい本気で  -- 名無し  (2010-08-05 15:41:19)
+- この音楽好きです!今ハマってます  -- ユッキー  (2013-06-04 12:23:43)
+#comment()
+
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)

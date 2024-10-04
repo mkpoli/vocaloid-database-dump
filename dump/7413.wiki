@@ -1,0 +1,29 @@
+#right(){&furigana()&furigana()【登録タグ:&tags()】}
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Say Hello>Say Hello/CD]]|CENTER:&bold(){MICROCOSMOS}|CENTER:[[MAGIC THEATER]]|
+
+|&bold(){[[トラP]]}|
+
+||CENTER:即売|CENTER:同人|
+|発売|CENTER:2009年5月17日|CENTER:2009年5月29日|
+|価格|CENTER:￥300|CENTER:￥420（税込）|
+|サークル|>|CENTER:NoMode|
+
+**CD紹介
+-THE VOC@LOID M@STER 8で頒布された2曲入りシングル。
+-発表済みの1曲＋1曲。
+-タイトル曲のカラオケ版入り。
+-盤面フルカラーレーベルCD-Rに透明スリムケース、カラー4Pブックレット付属。
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/18/49/040010184969.html]]でも販売開始。
+
+**曲目
+&nicovideo(http://www.nicovideo.jp/watch/sm7053456)
++[[ミクロコスモス>ミクロコスモス/トラP]]
++Future Gate
++ミクロコスモス（カラオケ版）
+
+**リンク
+-[[作者ホームページ>>http://nm.f-sp.net/]]
+
+**コメント
+#comment

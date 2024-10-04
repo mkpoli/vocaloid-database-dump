@@ -1,0 +1,38 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/065_20091225194908_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Solesta!>Solesta!/CD]]|CENTER:&bold(){4 on the floor}|CENTER:[[さくらだより]]|
+
+|&bold(){[[Clean Tears]]}|
+
+発売：2009年8月31日
+価格：￥600 / 1曲￥150
+流通：配信
+サークル：S.C.X
+レーベル：KarenT
+ジャケットイラスト：楓菜あきの
+
+**CD紹介
+-[[クリプトンKarenTレーベル>>http://karent.jp/album/65]]より配信のミニアルバム。
+-配信オリジナルアルバムとなっているため、CDは存在しない。(iTunes Store以外も配信)
+-KarenTの初音ミク発売2周年記念企画で配信された作品の1つ。
+-ProjectDIVA 「[[Love it!]]」の別バージョンが収録されている。
+-新曲は「New World」のみ、他楽曲はリミックスとなっている。
+-タイトルの通り、4つ打ち楽曲のみの構成となっている。
+
+**曲目
++[[Pusse Cafe]] -Flame MIX-
++[[Sting>羽糸]] -Flex MIX-
++New World
++[[Love it!]] -mofmof MIX-
+
+**リンク
+-[[S.C.X Homepage>>http://scx-ct.net/]]
+-[[KarenT：「4 on the floor」>>http://karent.jp/album/65]]
+-[[KarenT：「初音ミク 2nd anniversary」特集ページ>>http://karent.jp/special/miku09]]
+-[[KarenT：アーティスト詳細「Clean Tears」>>http://karent.jp/artist/pp000020]]
+-[[iTunes Store>>http://itunes.apple.com/jp/album/4-on-the-floor-ep/id327895458]]
+
+**コメント
+#comment

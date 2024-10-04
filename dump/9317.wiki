@@ -1,0 +1,42 @@
+#right(){&furigana(はやしうた)&furigana()【登録タグ:&tags() 】}
+//&ref(http://7-palette.net/wp/wp-content/uploads/2010/01/canvas-300x300.jpg)
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186108009.jpg,x=300,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm10146573)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:&bold(){[[CREMATION PARTY]]}|CENTER:&bold(){はやしうた}|CENTER:-|
+
+|&bold(){[[MazoP]]}|
+
+||CENTER:即売|CENTER:同人|
+|発売|CENTER:2010年3月28日|CENTER:-|
+|価格|CENTER:￥1,000|CENTER:-|
+|サークル|>|CENTER:ナナイロパレット|
+
+作詞：&bold(){Manamin,[[MazoP]]}
+作曲：&bold(){[[MazoP]]}
+イラスト：&bold(){[[Yukko>>http://www.pixiv.net/member.php?id=583128]]}
+
+**CD紹介
+-MazoPのフルアルバム。
+-日本語ボカロ9人を使用した、和風曲中心の9曲を収録。
+-THE VOCALOID PARADISE 3（ボーパラ3）＠京都で頒布。
+
+**曲目
++烏天狗のかぞえうた
++夜泣石
++月想夜
++[[籠ノ鳥]]
++ひらいたひらいた
++狸さん。
++月の提灯
++雪景色
++[[囃子唄]]
+
+**リンク
+-[[本人のサイト>>http://7-palette.net/]] 
+
+**コメント
+#comment

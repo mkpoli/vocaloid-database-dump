@@ -1,0 +1,29 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/4784098" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/4784098">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-個人サークル「G protein-coupled receptor」の主宰者。その時々に応じて歌い手さんや作詞さんとコラボしている。
+-サークル名になっている「G protein-coupled receptor（Gタンパク質結合受容体）」とは生物用語。
+-昔ジャズ・フュージョンをメインで作っていた名残が曲の間奏で感じられる。
+-本業は医科大学の教員で、生物系の研究者である。
+
+**リンク
+-[[G protein-coupled receptor（作者ホームページ）>>http://homepage1.nifty.com/g-kijin/]]
+-[[muzie>>http://www.muzie.co.jp/artist/a014468/]]
+-[[PIAPRO>>http://piapro.jp/Gkijin]]
+
+**曲
+#list_by_tag(YS（クリアP）,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(YS（クリアP）CD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm1256882)|&nicovideo(http://www.nicovideo.jp/watch/sm1620205)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm1330907)|&nicovideo(http://www.nicovideo.jp/watch/sm1919516)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2531381)|&nicovideo(http://www.nicovideo.jp/watch/sm3201496)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm4003080)|&nicovideo(http://www.nicovideo.jp/watch/sm5325293)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7469665)||
+
+**コメント
+#comment()

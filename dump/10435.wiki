@@ -1,0 +1,45 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+|CD版ジャケット&br()&ref(http://img.toranoana.jp/img/04/0010/22/98/040010229891-1.gif)|配信版ジャケット&br()&ref(http://karent.jp/npdca/647_20110120233940_0240_0240.jpg)|
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Broken rain]]|CENTER:&bold(){Unexplored&br()（Unexplored-reboot-）}|CENTER:[[Day Dream Night]]|
+
+|&bold(){[[新城P]]}|
+
+||CENTER:即売|CENTER:同人|CENTER:配信|
+|発売|CENTER:2010年6月20日|CENTER:2010年8月|CENTER:2011年2月17日|
+|価格|CENTER:￥1,000|CENTER:￥1,500（税込）|CENTER:￥1,200 / 1曲￥150|
+|サークル|CENTER:K★SS|CENTER:COLOR LESS LOVE||
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/unexplored-reboot/id418515205]]}|
+
+**CD紹介
+>『探求されていない　未知の場所へ』
+
+-新城P初となるCDアルバム。
+-2010年6月20日開催のディアマスターで頒布された。
+-とらのあな、D-STAGEで委託販売が行われていた。
+-KAITO発売5周年記念として、KarenTレーベルよりダウンロード販売が開始された。&br()タイトルが『&bold(){Unexplored-reboot-}』に変更となり、既にシングルとして配信されている「[[Broken rain]]」が未収録の全10曲。
+
+**曲目
++Mobius
++水時計
++Broken rain　　&color(red){※配信版には未収録}
++[[Draft]]
++promise
++To Be Honest
++ココロ・アメダマ
++Rosary Oath
++[[Pane dhiria]] -Leap remix-
++Paru nya
++Unexplored
+
+**リンク
+-[[CD特設ページ>>http://colorlesslove.nobody.jp/unexploredp.html]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/22/98/040010229891.html]]
+-[[D-STAGE>>http://d-stage.com/shop/detail.php?seq=16867]]
+-[[KarenT：「Unexplored-reboot-」>>http://karent.jp/album/647]]
+-[[KarenT：「KAITO誕生祭'11」特集ページ>>http://karent.jp/special/kaito11]]
+
+**コメント
+- とても良かった  -- 名無しさん  (2014-07-04 18:17:53)
+#comment()

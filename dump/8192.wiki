@@ -1,0 +1,58 @@
+#right(){&furigana(Pianissimo)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo_mylist(<iframe width="312" height="176" src="https://ext.nicovideo.jp/thumb_mylist/15020970" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/15020970">【ニコニコ動画】pianissimo</a></iframe>)|
+
+**特徴
+作り手名：『&u(){Pianissimo}』（&u(){ピアニッシモ}）
+-&bold(){雪太}と&bold(){わさび}の2人からなる創作ユニット。
+--2人の詳しいプロフィールと使用機材は[[作者ブログのこの記事>>http://snowpianissimo.blog84.fc2.com/blog-entry-2.html?sp]]を参照すると良い。
+-2009年10月、リンオリジナル曲「[[SecretCrush]]」でデビュー。
+-使用合成音声は[[初音ミク]]、[[鏡音リン・レン]]。
+//--[[巡音ルカ]]も所有しているが、まだオリジナル曲は出ていない。
+//-今後の活動が楽しみな製作者の一人である。
+
+**リンク
+//-個人HP、PIAPRO、YouTube等ある場合は、ここに。当wiki以外のサイトへリンクを貼る場合は必ず「>>」で別ウインドウでリンクしてください。
+-[[ニコニコ動画>>https://sp.nicovideo.jp/user/8242982]]
+//-[[YouTube>>https://www.youtube.com/]]
+-[[piapro>>https://piapro.jp/blueelixir]]
+//-[[Twitter>>https://twitter.com/]]
+//-&s(){[[作者ホームページ「Pianissimo.com」>>http://www3.pf-x.net/~blueelixir/index.html]]}
+-[[作者ブログ「Pianissimo music」>>http://snowpianissimo.blog84.fc2.com/]]
+
+**曲
+#list_by_tag(Pianissimo,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(PianissimoCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm8395145)|&nicovideo(sm8640311)|
+|&nicovideo(sm8658547)|&nicovideo(sm8899431)|
+|&nicovideo(sm8944597)|&nicovideo(sm9130770)|
+|&nicovideo(sm9327877)|&nicovideo(sm9535249)|
+|&nicovideo(sm9690453)|&nicovideo(sm10401348)|
+|&nicovideo(sm10728227)||
+
+**関連タグ内の更新履歴
+#region(close,関連タグ内の更新履歴)
+関連タグ内の更新履歴
+※「Pianissimo」「PianissimoCD」タグ内で最近編集やコメントのあった記事を新しい方から10件表示しています。
+#list_by_tagsearch(Pianissimo,PianissimoCD,sort=timestamp,sort2=desc,errmsg=まだ曲、CDが登録されていません。,or,10)
+#endregion
+
+**コメント
+- キミトボク最高です!!  -- 名無しさん  (2010-01-13 14:48:05)
+- SKY TRAINがガチで好きだ、なんかホッとすんだよなー。これからも是非頑張ってほしい！！  -- 名無しさん  (2010-02-23 21:49:08)
+- Pianissimoさんのリンの声は驚異的なまでに心に染みるぜ  -- 名無しさん  (2010-04-17 02:19:06)
+- 愛してます！  -- まめ  (2010-07-20 17:12:01)
+- クドリャフカ大好きです！！！  -- 名無しさん  (2011-04-01 13:53:24)
+- 風のカノンが泣ける・・・歌詞が、心に響いてきました。  -- みくる☆  (2012-02-18 21:22:53)
+- クドリャフカ今日聞いて、マジ泣きした…クド…ありがとう…そして、ごめんね…  -- 名無しさん  (2012-08-05 22:29:01)
+- Pianissimoさんの曲はもっともっと評価されるべき。新曲聴きたいなぁ  -- 名無しさん  (2013-11-22 23:17:19)
+- 最近曲投稿してないみたいだけど引退とかじゃないよね？ Pianissimoさんの新しい曲聴きたいなー  -- 名無しさん  (2014-01-10 23:22:02)
+- ↑定期的に見ていますが、2011年以降、HPとかも更新してないです。悲しいですが、Pianissimoさんがすでに投稿している今までの曲を大切に聞こうと思います。  -- 名無しさん  (2014-01-22 16:02:23)
+#comment()

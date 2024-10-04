@@ -1,0 +1,36 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+#ref(http://www.loveandthanks.org/laca002_s.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[LOVE>LOVE/u160(ういろー丸P)CD]]|CENTER:&bold(){blue}|CENTER:-|
+
+|&bold(){[[u160(ういろー丸P)]]}|
+
+||CENTER:即売|CENTER:同人|
+|CENTER:発売|CENTER:2010年2月7日|CENTER:2010年2月15日|
+|CENTER:価格|CENTER:￥500|CENTER:￥715（税込）|
+|CENTER:サークル|>|CENTER:love and thanks|
+
+作詞・作曲：&b(){[[ういろー丸P>u160(ういろー丸P)]]}
+イラスト：&b(){[[ちくわ部>>http://www.pixiv.net/member.php?id=37319]]}
+
+**CD紹介
+-u160（ういろー丸P）の初のシングルEP。
+-ボーマス11で発表され、後にメロンブックス・とらのあなで委託販売が開始された。
+-ジャケットイラストは&b(){[[ちくわ部>>http://www.pixiv.net/member.php?id=37319]]}氏。pixivで本人による&bold(){[[宣伝マンガ>>http://www.pixiv.net/member_illust.php?mode=medium&illust_id=8605779]]}が読めるぞ。
+
+**曲目
++ダーリンダーリン
++My Girl
++泣いて笑って
++[[baby blue>baby blue/u160(ういろー丸P)]]
++レインソング
+
+**リンク
+-[[作者ホームページ>>http://www.raku2u160.com/]]
+-[[CD特設サイト>>http://www.loveandthanks.org/music/blue.html]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/cit/circle/79/10/5730323131303739/4c4f564520414e44205448414e4b53_01.html]]
+-[[メロンブックス>>http://shop.melonbooks.co.jp/shop/list/MF/LOVE+AND+THANKS]]
+
+**コメント
+#comment

@@ -1,0 +1,28 @@
+#right(){&furigana(ぶりぶりP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/7468489" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/7468489">【ニコニコ動画】フライドチキン</a></iframe>)
+
+**特徴
+-ペンネームは&b(){Selax}
+-ブリブリとしたエレクトロベースを土台とした楽曲を制作している。
+-P名は2008年夏にリリースされた処女作Night of the Dollをはじめとする楽曲で&br()聴き手の耳を破壊したブリブリベースの多用にちなんで名づけられた。
+-2009年度は耳と脳に心地よいサウンドを出している。
+-2008年度はABサビCメロの区別が困難な楽曲を発表していたが、&br()2009年1月にはP自身がWarp Brothersの影響を受けたと述べるエレクトロダンス曲「BЯeak You」を、&br()9月には日本で数少ないエレクトロハウスとポップスの融合曲で代表作、「テイクオフ」の発表を行っている。&br()またその約2週間後には正統派エレクトロハウス「インベーダー」をリリース。&br()日本ではあまり認知されていない海外の新ジャンルを取り込んでいるPなので今後の動向が注目される。
+-テイクオフBメロにてコードを主旋律とする展開を見せていることから、才能は奇才の域にあるものと見られる。
+-曲のリリースは不定期。
+-バックにL.A.のロックアーティスト･Justin Lanningと独のニューウェーブテクノアーティスト・Pablo Decoder、&br()イギリスダンスレーベル・チャンピオンレコード、ジャズリスナー歴50年のたい焼き屋のおっさんとのこと。
+
+**リンク
+-[[Myspace>>http://www.myspace.com/selax]]
+-[[Piapro>>http://piapro.jp/Oliver_Selax]]
+
+**曲
+#list_by_tag(ブリブリP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/nm3908516)|&nicovideo(http://www.nicovideo.jp/watch/nm4133139)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm4262234)|&nicovideo(http://www.nicovideo.jp/watch/sm5997895)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm8234164)|&nicovideo(http://www.nicovideo.jp/watch/nm8379372)|
+
+**コメント
+- この人の曲、大好きだったのになぁ…。撤退されたのが残念でならない  -- 名無しさん  (2010-01-06 01:40:01)
+#comment()

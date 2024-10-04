@@ -1,0 +1,157 @@
+#right(){&furigana(そうげんのかぜ)&furigana()【登録タグ:&tags()】}
+|&nicovideo(http://www.nicovideo.jp/watch/sm3945156)|&nicovideo(http://www.nicovideo.jp/watch/sm2713284)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4399617)||
+作詞：[[初心P]]
+作曲：[[初心P]]
+編曲：[[初心P]]
+唄：初音ミク（原曲）、鏡音リン・鏡音レン（Another）
+
+**曲紹介
+-架空言語が取り入れられている民族音楽曲の1つ。
+-「le lufali flalo」は「レ　ルファーリ　フラーロ」と読む。
+-ちゃんとした日本語で歌うショート版やリンレンが歌うAnotherもある。
+
+**歌詞
+（[[作者ホームページ>>http://aquastream.web.fc2.com/music.html]]より転載）
+
+lis flalo, lis flalo, lis flalo
+li cons ulo an falo, an falo, li cons ulo
+
+fa la la la la la
+fa la la la la la la
+fa la la la la la
+fa la la la la la la
+
+遥かな(lis flalo)　草原(si contes)
+この地に(se flali)　一人で(an solo)
+
+行く手は(li nes so)　見えずとも(wi li ulo)
+旅路は(le tien)　続いていく(si contes)
+
+どこまでも続く　この道は
+(le losli si fala, si fala cons)
+最果てへと導く　遠き旅路
+(le tien si li fala ledi, si li ledi)
+
+吹き抜けるこの風さえ　虹をまとって
+(le lufali si flola afa lis ancili)
+仄かに彩られて　今彼方へ
+(le siuli an fuli, le flola)
+
+fa la la la la la
+fa la la la la la la
+fa la la la la la
+fa la la la la la la
+
+遥かな(lis stoli)　青空(si contes)
+どこまで(li nes so)　続くのか(wi le cons)
+
+道程は(ho fala)　遠くとも(le tien)
+彼方を(li we ulo)　目指して(ti fala)
+
+いつまでも続く　この歌は
+(le son si fala contes, si fala cons)
+希望へと繋がる　旅の道連れ
+(le li as mi les tiena, les tiena)
+
+透き通るこの音さえ　青く染まって
+(le son si cli siuli an flo, siuli an flo)
+舞い上がる　風とともに　今彼方へ
+(le lufali si soala, le flola)
+
+fa la la la la la
+fa la la la la la la
+fa la la la la la
+fa la la la la la la
+
+#region(close,歌詞（Another）)
+lis flalo, lis flalo, lis flalo
+(草原、草原、草原)
+li cons ulo an falo, an falo, li cons ulo
+(私たちは歩き続ける！遥か遠くまで！)
+
+fa la la la la la
+fa la la la la la la
+fa la la la la la
+fa la la la la la la
+
+lis flalo
+(どこまでも続く)
+si contes
+(草原)
+se flali
+(この地に)
+an dulo
+(二人で)
+li nes so
+(どこに向かうのかは)
+wi li ulo
+(見えないけれど)
+le tien
+(この旅路は)
+si contes
+(続いていく)
+le losli si fala, si fala cons
+(どこまでも続くこの道)
+le tien si li fala ledi, si li ledi
+(私たちを遠くへと導く旅路)
+le lufali si flola afa lis ancili
+(吹き抜ける風は虹色に染まり)
+le siuli an fuli, le flola
+(仄かに光りつつ吹き続ける)
+
+fa la la la la la
+fa la la la la la la
+fa la la la la la
+fa la la la la la la
+
+lis stoli
+(どこまでも続く)
+si contes
+(青空)
+li nes so
+(どこまで続いているのかは)
+wi le cons
+(見えないけれど)
+ho fala
+(旅路は)
+le tien
+(遠くても)
+li we ulo
+(私たちは遠くまで)
+ti fala
+(歩き続ける)
+le son si fala contes, si fala cons
+(どこまでも続くこの歌は)
+le li as mi les tiena, les tiena
+(私たちの旅と共にある)
+le son si cli siuli an flo, siuli an flo
+(透き通るこの歌は青く光って)
+le lufali si soala, le flola
+(舞い上がる風は吹き続ける)
+
+fa la la la la la
+fa la la la la la la
+fa la la la la la
+fa la la la la la la
+
+fa la la la la la
+fa la la la la la la
+fa la la la la la
+fa la la la la la la
+#endregion
+
+#region(close,歌詞（ショート版）)
+遥かな　草原
+この地に　一人で
+
+どこまでも続く　この道は
+「サイハテ」へと導く　遠き旅路
+
+吹き抜ける　この風さえ　虹をまとって
+仄かに　彩られて　今彼方へ…
+#endregion
+
+**コメント
+- 架空言語？それにしても清々しい良曲だね。  -- 名無しさん  (2018-07-19 01:11:21)
+#comment()

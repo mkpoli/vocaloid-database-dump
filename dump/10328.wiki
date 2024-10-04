@@ -1,0 +1,25 @@
+#right(){&furigana(あだばな)&furigana()【登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186146420.jpg,x=300,y=300)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[花鳥風月>花鳥風月/CD]]|CENTER:&bold(){徒花}|CENTER:[[Princess Note]]|
+
+|&bold(){[[かぐらP]]}|
+
+発売：2010年3月28日
+価格：？
+流通：即売
+サークル：DeZI:R
+
+**曲目
++[[La Neige]]
++[[花鳥風月>花鳥風月/かぐらP]]‐ニコニコVer‐
++花鳥風月‐DIVA応募Ver‐
++[[五月雨恋歌]]
+
+**リンク
+-[[作者サイト>>http://www.dezi-r.net/]]
+
+**コメント
+#comment

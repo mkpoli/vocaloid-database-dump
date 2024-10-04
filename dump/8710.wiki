@@ -1,0 +1,35 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/12187013" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/12187013">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-MEIKOを主に、時々巡音ルカも使用してオリジナル曲やカバー曲を発表している。
+-作風は幅広く、ハードなロックナンバーから爽やかなポップス、幻想的なバラード、プログレ風の大作まで様々。
+-「CLEAR WAVE」が世界の新着動画で流れた際にP名の提案があり、本人も一時は乗り気だったものの、周囲からの助言もあり最終的には辞退した模様。
+-ごく一部では「兄さん」と呼ばれているらしい。
+-2010年よりVOCALOID活動の名義を「&bold(){L.A.M.B}」とする。
+-2018年～2019年頃（詳細時期未確認）に、突如全ての動画とマイリストを削除し活動を休止した。
+
+**リンク
+-[[Usotsuki Vanilla Shake（作者ホームページ）>>http://ttsr.web.fc2.com/]]
+-[[PIAPRO>>http://piapro.jp/peach616]]
+-[[にゃっぽん>>http://v-nyappon.net/?m=pc&a=page_f_home&target_c_member_id=6870]]
+
+**曲
+#list_by_tag(tatsuro,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(tatsuroCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+***オリジナル曲
+|&nicovideo(http://www.nicovideo.jp/watch/nm6862302)|&nicovideo(http://www.nicovideo.jp/watch/sm7190444)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7477493)|&nicovideo(http://www.nicovideo.jp/watch/sm7620616)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7982007)|&nicovideo(http://www.nicovideo.jp/watch/sm8358261)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm8682497)|&nicovideo(http://www.nicovideo.jp/watch/sm8959797)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9146715)|&nicovideo(http://www.nicovideo.jp/watch/sm9183554)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9284144)|&nicovideo(http://www.nicovideo.jp/watch/sm9549548)|
+***カバー曲
+|&nicovideo(http://www.nicovideo.jp/watch/sm7897391)|&nicovideo(http://www.nicovideo.jp/watch/sm8418916)|
+
+**コメント
+#comment()

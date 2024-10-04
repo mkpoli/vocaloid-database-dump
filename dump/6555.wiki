@@ -1,0 +1,32 @@
+#right(){&furigana(のえる)&furigana()【登録タグ:&tags() 】}
+|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/9904393" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/9904393">【ニコニコ動画】うｐリスト（最新 #31~）</a></iframe>)|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/14200861" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/14200861">【ニコニコ動画】#21~30</a></iframe>)|
+|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/14096451" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/14096451">【ニコニコ動画】#11~20</a></iframe>)|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/14096446" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/14096446">【ニコニコ動画】#1~10</a></iframe>)|
+
+
+**特徴
+-作風は、動画の説明冒頭部分に「アンビエントやエレクトロニカ、ノイズが好きなうｐ主です。」と入れている通りである。
+-投稿作品には必ず上の一文が冒頭にあるので、すぐにノエル氏の曲と判別可能である。
+-主にミクを音源として使っている。
+-ニコニコ動画には、ミク以外の曲（インスト曲など）も投稿している。
+-後にインスト曲「[[Hi, Go ill" DUB-Russell>>https://www.nicovideo.jp/watch/sm15205280]]」以外の全ての曲を削除した。
+
+**リンク
+-[[作者ブログ>>http://d.hatena.ne.jp/loadbang/]]
+
+**曲
+#list_by_tag(ノエル,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+//**CD
+//#list_by_tag(ノエルCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+&bold(){再生数の多いものを各マイリストから抜粋}
+|&nicovideo(http://www.nicovideo.jp/watch/sm5504302)|&nicovideo(http://www.nicovideo.jp/watch/sm5565200)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7128178)|&nicovideo(http://www.nicovideo.jp/watch/sm7274840)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7565261)|&nicovideo(http://www.nicovideo.jp/watch/sm7805223)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7978649)|&nicovideo(http://www.nicovideo.jp/watch/sm8153381)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm8195264)|
+
+**コメント
+- ノエルさんの曲は、聴いててとても心地よいです。  -- naoh  (2009-09-14 02:31:26)
+#comment()

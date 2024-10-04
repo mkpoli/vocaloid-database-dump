@@ -1,0 +1,15 @@
+#right(){【登録タグ:&tags()】}
+//↑タグ忘れ防止のための表示
+曖昧さ回避のためのページ
+----
+-[[KazuP]]の曲
+--[[Innocence/KazuP]]
+-[[ナカノは4番]]の曲
+--[[innocence/ナカノは4番]]
+
+-[[KazuP]]のCD
+--[[Innocence/KazuPCD]]
+-[[初心P]]のCD
+--[[Innocence/初心PCD]]
+
+#include(曖昧さ回避の追加の仕方/告知)

@@ -1,0 +1,59 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&ref(http://img.toranoana.jp/img/04/0010/22/26/040010222630-1.gif)
+&nicovideo(http://www.nicovideo.jp/watch/sm10496527)
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[dolce>dolce/フェイPCD]]|CENTER:&b(){Alato&br()（Alato minimo）}|CENTER:[[dolcissimo]]|
+
+|&bold(){[[フェイP]]}|[[リョータイ]]|[[MazoP]]|[[イカロスP]]|
+
+|&bold(){[[とらのあなで購入する>>http://www.toranoana.jp/mailorder/article/04/0010/22/26/040010222630.html]]}|
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/alato-minimo/id417697326]]}|
+
+||CENTER:即売|CENTER:同人|CENTER:配信|
+|発売|>|CENTER:2010年5月9日|CENTER:2011年2月14日|
+|価格|CENTER:￥1,000|CENTER:￥1,470(税込)|CENTER:900円 / 1曲￥150|
+|サークル|>|>|CENTER:Chiara|
+
+>作詞：&b(){[[フェイP]]},[[かなき>>http://www.nicovideo.jp/mylist/11905394]](Tr.2),[[リョータイ]](Tr.8)}
+>作曲：&b(){[[フェイP]]}
+>ジャケットイラスト：&b(){[[水奈]]}
+
+**CD紹介
+-フェイPによる3枚目のCDアルバム。
+-THE VOC@LOiD M@STER 12（ボーマス12）で頒布される。
+-週刊ぼからん1位を記録したコラボ作品「[[逃走ロマンティック]]」、巡音ルカ1周年を記念して公開された「[[カタハネ]]」、自身初のデュエット（レンミク）となる「[[ねじ恋ベクトル]]」、後に「419戦争」と呼ばれた（？）激戦区に、シンプルで美しい曲調で切り込んで高評価を得た「[[ヒャクニチソウ]]」等の既存曲を収録。
+-更に、既存曲の新アレンジに「[[MazoP]]」「tomn（[[イカロスP]]）」が参加。更にカラオケトラックを6曲収録した、合計14曲入りのアルバムである。
+-現在、とらのあなで委託販売が行われている。
+-KarenTレーベルよりダウンロード販売が行われている。配信版はタイトルが『&bold(){Alato minimo}』と変更され、収録曲の内容にも変更がある。全6曲。
+
+**曲目
+***Alato
++[[Lift Off!]]
++[[カタハネ]]
++[[春風の作り方]]（Arranged by MazoP）
++[[ねじ恋ベクトル]]
++[[黒いつばさ]]
++[[ヒャクニチソウ]]
++[[きみにごめんね]]（Arranged by Tomn）
++[[逃走ロマンティック]]
++Lift Off!（instrumental）
++カタハネ（instrumental）
++ねじ恋ベクトル（instrumental）
++黒いつばさ（instrumental）
++ヒャクニチソウ（instrumental）
++逃走ロマンティック）（instrumental）
+
+***Alato minimo
++[[Lift Off!]]
++[[カタハネ]]
++[[ねじ恋ベクトル]]
++[[黒いつばさ]]
++[[ヒャクニチソウ]]
++[[逃走ロマンティック]]
+
+**リンク
+-[[作者ブログ>>http://chiara19.blog73.fc2.com/]]
+-[[KarenT>>http://karent.jp/album/651]]
+
+**コメント
+#comment

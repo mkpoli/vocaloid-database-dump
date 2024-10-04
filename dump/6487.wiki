@@ -1,0 +1,28 @@
+#right(){&furigana(ちーたすまつお)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/6634512" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/6634512">【ニコニコ動画】うｐリスト</a></iframe>)
+
+**特徴
+-オリジナル曲投稿以前よりニコニコに様々な動画を投稿。絵も描けてしまうPです。
+-パソコン内臓音源、フリーソフトによりふんばり中（PIAPROより）
+-バンドサウンド中心に楽曲作成を目指し、ギター、ベースの弾き手さんも募集中との事（同上）
+-卒業アルバムのコメントに「年取ってもロックに生きたいぜ！」と書いてしまうロック好き。
+-部屋の写真をTwitter上で公開したところ、あまりの汚さから「汚部屋P」と命名される。
+
+**リンク
+-[[ピアプロ>>http://piapro.jp/cheetas]]
+-[[pixiv>>http://www.pixiv.net/member.php?id=212277]]
+-[[mixi>>http://mixi.jp/show_friend.pl?id=14677664]]
+
+**曲
+#list_by_tag(チータスまつお,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(チータスまつおCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**オリジナル曲
+|&nicovideo(http://www.nicovideo.jp/watch/nm6017424)|&nicovideo(http://www.nicovideo.jp/watch/sm6984921)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm8100612)||
+
+**コメント
+- 汚部屋Pのことが書いてある辺りに編者の愛を感じた。  -- 名無しさん  (2010-02-24 13:32:30)
+#comment()

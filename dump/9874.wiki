@@ -1,0 +1,50 @@
+#right(){&furigana(takethefieldSHOP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm10594703)|
+作詞：[[マイゴッドP]]
+作曲：[[マイゴッドP]]
+編曲：[[マイゴッドP]]
+唄：[[初音ミク]]・弱音ハク（[[初音ミク]]）
+
+**曲紹介
+>マイゴッド「求めぬこと、是を禁ず･･･」
+>（・∀・）
+曲名：『&u(){take the field (SHOP)}』
+-＃69 やるならやんな、さもなきゃ黙んな。
+-「[[take the field (FULLMOON)]]」のブルース・ロックアレンジ。＋α
+-同じ空間で演奏しているのを聴いてるような、そんな音を目指しました。たしか。
+-初音ミクAppend soft＋solid、弱音ハクAppend solid＋sweetを使用している。
+
+**歌詞
+Put up it, all of you
+And please buy me.
+Put up or shut up, you.
+Ready for? I bet you.
+
+「お前等全部、そいつを出しな。
+　そしたら頼んであたしを買いな。
+　有り金賭けな、さもなきゃ黙んな。
+　準備はいいかい。怪しいもんだ。」
+
+「お前等全部、そいつを出しな。
+　縋り付いてもあたしを買いな。
+　財布を出しな、嫌なら見てな。
+　あたしを賭ける、準備しな。」
+
+Put up it, all of you
+And please buy me.
+Put up or shut up, you.
+Ready for? I bet you.
+
+Put up it, all of you
+And please buy me.
+Put up or shut up, you.
+Ready for "You bet me".
+
+
+**コメント
+- これがマイゴットPの世界観だと思って好きなんだが、コメントすくねえよ！！買いな！！  -- 名無しさん  (2011-05-23 16:11:10)
+#comment()

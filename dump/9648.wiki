@@ -1,0 +1,40 @@
+#right(){&furigana(clear) &furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/271_20100405115900_0240_0240.jpg)
+&nicovideo(http://www.nicovideo.jp/watch/sm10370153)
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){rhythm symphony}|CENTER:-|
+
+|&bold(){[[river>river/作り手]]}|[[灯下はこ、]]|[[halky]]|[[Leda]]|[[猫屋ツバキ]]|
+
+発売：2010年4月23日
+価格：￥900 / 1曲￥150
+流通：配信
+レーベル：KarenT
+
+>作詞：&b(){[[桃華なゆた>灯下はこ、]]}(Tr.1,2,4,6,7,)&b(){halky}(Tr.3)&b(){,猫屋ツバキ}(Tr.5),&b(){Leda}(Tr.8),&b(){[[river>river/作り手]]}(Tr.9)
+>作曲：&b(){[[river>river/作り手]]}
+>ジャケットイラスト：&b(){[[吉田ドンドリアン]]}
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/rhythm-symphony/id366947577]]}|
+
+**CD紹介
+-ハウス、トランス、エレクトロニカ方面で精力的に作曲活動を続けてきた[[river>river/作り手]]氏による、初のアルバム。
+-2010年4月23日より、KarenTレーベルよりiTunes Storeを始めとした各種ダウンロードサイトにて配信が開始される。
+-これまで発表してきた多数の作品から8曲を厳選し、更にニコニコ動画未投稿の「LINE」を含めた、全9曲を収録。
+
+**曲目
++[[Automata]] (feat. 初音ミク)
++[[idola>idola/river]] (feat. 初音ミク)
++LINE (feat. 初音ミク)
++[[clear blue echo]] (feat. 初音ミク)
++[[insanity>insanity/river]] -remix- (feat. 初音ミク)
++[[アン・イノセンス]] (feat. 初音ミク&鏡音リン)
++[[cocoon>cocoon/river]] (feat. 初音ミク)
++[[Empty>Empty/river]] -Album Edition- (feat. 初音ミク)
++[[rhythm symphony]] (feat. 初音ミク)
+
+**リンク
+-[[KarenT：「rhythm symphony」>>http://karent.jp/album/271]]
+
+**コメント
+#comment

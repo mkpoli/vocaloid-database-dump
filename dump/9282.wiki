@@ -1,0 +1,39 @@
+#right(){&furigana(しろくろちぇっくめいと) &furigana()【登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186114863.jpg,x=300,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm10027892)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){白黒チェックメイト}|CENTER:-|
+
+|&bold(){[[しえいか]]}|
+
+||CENTER:即売|CENTER:同人|
+|発売|CENTER:2010年3月28日|CENTER:-|
+|価格|CENTER:￥500|CENTER:-|
+|サークル|>|CENTER:白黒チェックメイト|
+
+作詞：&bold(){[[shaker>しえいか]],[[一石楠耳]](Tr.2),[[樞>>http://piapro.jp/hiyomakura]](Tr.3,4)}
+作曲：&bold(){[[shaker>しえいか]]}
+イラスト：&bold(){[[うめ吉>>http://penga.blog11.fc2.com/]]}
+
+**CD紹介
+-しえいか氏初のCDは、KAITOがメインの5曲入りミニアルバム。
+-THE VOCALOID PARADISE（ボーパラ3）にて発表。
+-哀愁を込めた温かい声に定評がある。
+
+**曲目
++[[時計の音]]
++[[僕は風邪をひく]] - Rock version -
++[[一年便り]]
++[[最後のさよなら]]
++[[白黒チェックメイト]]
+
+**リンク
+-[[特設サイト>>http://monochrocheckmate.blog97.fc2.com/]] 
+-[[しえいか氏ブログ>>http://d.hatena.ne.jp/erithtruth/]]
+-[[しえいか氏マイリスト>>http://www.nicovideo.jp/mylist/11421118]]
+
+**コメント
+#comment

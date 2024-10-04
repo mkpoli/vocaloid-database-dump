@@ -1,0 +1,143 @@
+#right(){&furigana(Rose)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo(sm9902277)
+作詞：[[さはら]]
+作曲：[[とめP]]
+編曲：[[とめP]]
+唄：[[巡音ルカ]]
+
+**曲紹介
+曲名：『&u(){Rose}』
+-R&B調の大人向けのしっとりとした愛の歌。
+-全編英詩であり、ルカの愛を込められたしっとりとした歌声が染みる歌。
+
+**歌詞
+（[[piapro>>https://piapro.jp/t/_VgF]]より転載）
+
+***英詩
+Yeah, you've got me hypnotized
+Can't believe, no...
+Boy, you've made me realized
+I'm in love with you
+
+You've made a red rose bloom in my room
+And I sleep in the sweet perfume
+Gets me just dreamin' of those
+Things you do
+
+　　Your what I've been lookin' for, ain't no one can be like you
+　　Baby let me hold you close, I don't know what else to do
+　　Never felt this way before, you got something in your eyes
+　　And like the scent of this rose, my love for you never dies
+
+I want you
+Just want you to know what is on my mind
+You softly try to dry my eyes when there's nowhere to find
+Yes you've let my heart unwind
+
+You are the one
+　　who sings a song that's left unsung
+You are the one
+　　whose mind set and heart is so young
+Am I the one
+　　for you to show all your love
+Won't you let me be your red rose, cuz I need some affection
+
+My life has turned to be so rosy for your perfection
+
+It doesn't matter how far we are apart
+You will forever remain in my heart
+We are together and never ever
+Meant to be torn apart
+
+I need you
+Just need you here right by my side tonite
+Thru the window comes the moonshine, and it makes the rose white
+Yes you've let my heart ignite
+
+It's cause of you
+　　that I have been feeling this way
+I'm so confused
+　　with you is where I don't feel stray
+I wanna have
+　　your heart I'll never betray
+Don't you make me be your white rose, yeah I need more affection
+
+You've made a red rose bloom in my room
+And I rise in the sweet perfume
+Gets me thinkin' of things you do
+That makes me love you
+
+Do you feel what I feel
+I sing you this song for real
+If you be feeling this way too
+I'll give this rose to you
+
+※1段低いのは歌詞はコーラス部
+
+
+***日本語詩
+#region(close,日本語詩)
+私，あなたに魅かれてしまった
+信じられない
+ねえ，気づいたの
+あなたに恋してしまったわ
+
+あなたは私の部屋に赤いバラを咲かせて
+そして私はその香りに包まれ眠るの
+あなたのことばかり夢に見ながら
+
+（ずっと探してた人，誰もあなたの代わりにはなれない
+　抱き締めさせて，それしかできない
+　こんな気持ちは初めて，その瞳に何かを感じた
+　このバラの香りのように，私の愛が枯れることはないでしょう）
+
+私の気持ちを知ってほしい
+行くべき場所が判らなくなった時，そっと涙を拭いてくれる
+あなたは私の心をほどいてくれた
+
+あなたは
+（歌われない歌を歌う人
+　しっかりしてて無邪気な人）
+私は
+（あなたにとって愛せる人？）
+あなたの赤いバラになりたい
+愛して
+
+私の日々はあなたの完璧さに染まってしまった
+
+どれだけ離れたって
+あなたは私の心の中
+私たちは共にあって
+そして絶対に引き裂かれない
+
+今夜は私のそばにいてほしい
+窓から月の光がさしてバラを白く見せる
+あなたは私の心に火をつけた
+
+あなたのせい
+（こんな気持ちになるのは）
+混乱してる
+（あなたが私の居場所）
+ただほしいの
+（その心を，私は裏切らない）
+白いバラにはなりたくない
+もっと愛して
+
+あなたは私の部屋に赤いバラを咲かせて
+私はその香りに包まれ目覚める
+あなたのことばかりを考えながら
+さらに好きになる
+
+私の感じることを感じる？
+この歌を心から歌っている
+もしあなたもこんな気持ちなら
+このバラをあげる
+#endregion
+
+
+**コメント
+#comment()

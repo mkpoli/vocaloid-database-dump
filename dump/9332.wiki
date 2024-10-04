@@ -1,0 +1,43 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm10147928)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){slowfood}|CENTER:-|
+
+|&bold(){[[ごはんP]]}|
+
+発売：2010年3月28日
+価格：￥500
+流通：即売
+サークル：※ただし細胞に限る
+
+>作詞・作曲：&bold(){[[ごはんP]]}
+>ジャケット写真：&bold(){[[ユキ>>http://phec.biz/]]}
+>盤面・ジャケットデザイン：&bold(){[[白熱灯>>http://hakunetsutou.blog37.fc2.com/]]}
+
+**CD紹介
+-エレクトロニカ・アンビエント・ポストロックを得意とする、ごはんPの初のアルバム。
+-THE VOCALOID PARADISE 3（ボーパラ3）＠京都市で頒布。
+-その後、7月19日開催のTHE VOC@LOID M@STER 13(ボーマス13)＠浜松町でも頒布される（「雑音部」のブースにて）。
+-歌入り7曲、インスト3曲の全10曲を収録。
+-ジャケットの写真を[[ユキ>>http://phec.biz/]]氏、デザインを[[白熱灯>>http://hakunetsutou.blog37.fc2.com/]]氏がそれぞれ手がけている。
+-6曲目と9曲目は「 」（空白）というタイトル。誤植ではない。
+
+**曲目
++intro
++panorama
++slowfood
++[[bigmuff]]
++[[detune]]
++
++postmodern
++yada_yada
++
++211
+
+**リンク
+-[[ごはんPマイリスト>>http://www.nicovideo.jp/mylist/6940168]] 
+
+**コメント
+- 密かにずっと通販待ってる  -- 名無しさん  (2013-12-23 20:48:40)
+#comment

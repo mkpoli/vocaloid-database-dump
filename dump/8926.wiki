@@ -1,0 +1,121 @@
+#right(){&furigana(Prism)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&youtube(http://www.youtube.com/watch?v=bnD2AqYtpDU){342,187}|
+作詞：[[Giuseppe]]
+作曲：[[Giuseppe]]
+編曲：[[Giuseppe]]
+唄：[[SONIKA]]・[[Big-AL]]
+
+**曲紹介
+曲名：『&u(){Prism}』(&u(){ぷりずむ})
+-海外のボカロPによる海外ボカロのための日本語曲。
+-シンプルな音とメロディには、何処となく懐かしさを感じる人もいるだろう。
+-海外ボカロだか、日本語として十分聞き取れる程の調教には、ただただ驚きである。
+
+
+**歌詞
+
+Kotchi ni kite jitto shite 'te
+Hora
+Kirei da ne
+
+Happa no ue sotto hikaru
+Hora
+Ame no tsubu
+
+Fushigi ga ippai
+Achikochi de DANCE shite 'ru
+Genki wo wa surenaide tte messeji ne
+
+Mawarimichi datte suteki
+Mata aeta mono
+
+Mahou da ne
+Sono egao
+Nanka hotto suru yo
+
+Tenshi ga ippai
+Poketto de DANCE shite 'ru
+Jibun wo shinjite ne tte yuu messeji ne
+
+Suteki ga ippai
+Achikochi de DANCE shite 'ru
+Ganbaru haato ni sora kara no purezento ne
+
+Nani ka aru ka na
+Kono michi no mukou ni
+Nee Ikou
+Ikou yo
+Ikeba wakaru yo
+
+Fushigi ga ippai
+Achikochi de DANCE shite 'ru
+Genki wo wa surenaide tte messeji ne
+
+Tenshi ga ippai
+Poketto de DANCE shite 'ru
+Jibun wo shinjite ne tte yuu messeji ne
+
+
+//#region(close,日本語に直してみました)
+#region(close,日本語表記)
+
+こっちに来て　じっとしてて
+ほら
+綺麗だね
+
+葉っぱの上　そっと光る
+ほら
+雨の粒
+
+不思議がいっぱい
+あちこちでダンスしてる
+「元気を忘れないで」ってメッセージね
+
+回り道だって素敵
+また会えたもの
+
+魔法だね
+その笑顔
+なんかホッとするよ
+
+天使がいっぱい
+ポケットでダンスしてる
+「自分を信じてね」って言うメッセージね
+
+素敵がいっぱい
+あちこちでダンスしてる
+頑張るハートに空からのプレゼントね
+
+なにかあるから
+この道の向こうに
+ねえ　行こう
+行こうよ
+行けばわかるよ
+
+不思議がいっぱい
+あちこちでダンスしてる
+「元気を忘れないで」ってメッセージね
+
+天使がいっぱい
+ポケットでダンスしてる
+「自分を信じてね」って言うメッセージね
+
+#endregion
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+**コメント
+- どこかの記事に出てたので、紹介の意味も込めてページ作ってみました。海外からもどんどん曲が増えるといいな～  -- naoh  (2010-02-28 21:39:41)
+- なぜアカウント停止されたし  -- 名無しさん  (2011-09-14 19:46:45)
+- 一昔前の懐かしいアニソンみたいで良いね￣▽￣。子供でも楽しく歌えそう。  -- 名無しさん  (2012-08-19 18:12:38)
+#comment()
+
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)

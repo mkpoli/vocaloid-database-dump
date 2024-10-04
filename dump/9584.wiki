@@ -1,0 +1,46 @@
+#right(){&furigana(えせほんもの) &furigana()【登録タグ:&tags() 】}
+//&ref(http://www.toranoana.jp/mailorder/cit/pagekit/0000/00/03/000000035874/040010222652-1.jpg)
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186108614.jpg,x=300,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm10360448)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[いいこわるいこ>いいこわるいこ/CD]]|CENTER:&bold(){似非本物}|CENTER:[[無彩色の虹とサカナ]]|
+
+|&bold(){[[kous]]}|
+
+||CENTER:即売|CENTER:同人|
+|発売|>|CENTER:2010年5月9日|
+|価格|CENTER:￥1,000|CENTER:￥1,470（税込）|
+|サークル|>|CENTER:美女と野球拳|
+
+>作詞・作曲・ジャケットデザイン：&bold(){[[kous]]}
+>ジャケットイラスト：&bold(){[[hie>>http://hieeeee.blog46.fc2.com/]]}
+
+|&bold(){[[とらのあなで購入する>>http://www.toranoana.jp/mailorder/article/04/0010/22/26/040010222652.html]]}|
+
+**CD紹介
+-前作『[[いいこわるいこ>いいこわるいこ/CD]]』からわずか3ヶ月のスパンで発表される、[[kous]]氏のミニアルバム。
+-THE VOC@LOiD M@STER 12（ボーマス12）にて頒布。
+-ジャケットは毎度おなじみの[[hie>>http://hieeeee.blog46.fc2.com/]]氏が担当。真っピンクの目立ちやすいジャケットが印象に残る。
+-現在とらのあなで委託販売が行われている。
+-ぬこー。
+
+**曲目
++xi
++[[黒と白>白と黒]]
++[[てるてる坊主と色々イロ]]
++青空サーチライト
++[[嘘つき造花]]
++[[○＋●]]
++おかえりなさい。
+
+**リンク
+-[[kousの思考回路図（作者ブログ）>>http://kous1128.blog22.fc2.com/]]
+
+**コメント
+- 欲しいんだけど、とらのあなの店舗で探してみても無いんだよなぁ。通販は出来ないしなぁ。  -- ねひ  (2010-10-27 18:54:54)
+- 歌詞カードは付いてないの？  -- 名無しさん  (2011-12-05 07:23:24)
+//- 歌詞カードは？  -- 名無しさん  (2011-12-06 16:15:35)
+#comment

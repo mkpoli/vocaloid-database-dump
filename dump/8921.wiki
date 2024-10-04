@@ -1,0 +1,51 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+
+&ref(http://imgjam.com/albums/s47/47978/covers/1.200.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){fragments of the end}|CENTER:[[assault byte grass]]&br()[[queens quiet quintet]]|
+
+|&bold(){[[Jamendoで無料ダウンロードする>>http://www.jamendo.com/en/album/47978]]}|
+
+|&bold(){[[ずどどんP]]}|
+
+発売：2009年6月30日
+価格：￥0
+流通：配信
+媒体：Jamendo
+
+**CD紹介
+-ずどどんP(zddn)名義では初となるアルバム。
+-ブログの他には、同時に投稿された「[[kumo kage tristesse]]」の説明文にJamendoのリンクが貼られていただけであったが、その新作の情報は瞬く間にボカロ界隈に広まり、アルバムも広く認知されるところとなった。
+-全曲新曲、VOCALOIDだけでなくSofTalkを用いたオリジナル曲から、ボーカル無しのインスト曲まで、どれを取っても一切自重しないずどどん節が五臓六腑に響き渡る。
+-しかも、これだけのクオリティを有していながら全曲無料でダウンロードできる。もし今まで彼の音楽を聴いたことがないのなら、ここでひとつダウンロードして聴いてみてはいかがだろうか。
+
+**曲目
++ annihilate
++ gienb
++ here we are
++ yubisaki
++ seilyu
++ fullmoon
++ byacco
++ shikisai
++ [[kumo kage tristesse]]
++ suzak
++ parade
+
+**関連動画
+&nicovideo(http://www.nicovideo.jp/watch/sm7494963)
+
+**関連動画(派生)
+-ニコニコ動画未発表であるにも関わらず、いくつかの収録曲は有志により映像化されている。
+|&nicovideo(http://www.nicovideo.jp/watch/sm9486378)|&nicovideo(http://www.nicovideo.jp/watch/sm9497782)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9505778)|
+
+**リンク
+-[[zddn's profile - Jamendo>>http://www.jamendo.com/en/artist/zddn]]
+
+**コメント
+- このアルバムはもっと聴かれるべき。特にニコニコ動画でしかボカロ曲を聴かない人に。  -- 名無しさん  (2010-03-07 00:03:55)
+- これこそ究極の振り込めない詐欺  -- 名無しさん  (2010-04-02 15:50:07)
+- これが無料で聴けるんだからすげぇわ  -- 名無しさん  (2014-02-08 22:44:00)
+#comment

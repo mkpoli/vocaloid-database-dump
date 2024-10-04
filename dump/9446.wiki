@@ -1,0 +1,43 @@
+#right(){&furigana()【登録タグ:&tags() 】}
+&ref(http://langueduchat.moo.jp/img/album1.jpg)
+&nicovideo(http://www.nicovideo.jp/watch/sm10257072)
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){langue du chat}|CENTER:-|
+
+|&bold(){[[五字熟語P]]}|
+
+||CENTER:即売|CENTER:通販|
+|CENTER:発売|CENTER:2010年5月9日|CENTER:2010年5月15日|
+|CENTER:価格|CENTER:￥1,000|CENTER:\1,180|
+|CENTER:サークル|>|CENTER:langue du chat|
+
+|&bold(){[[通信販売で購入する>>http://langueduchat.moo.jp/shop/catalog.php]]}|
+
+作詞・作曲・ジャケットイラスト：&bold(){[[五字熟語P]]}
+
+**CD紹介
+- 暖かみのあるオルタナティブ・ロックを得意とする、五字熟語Pの1stアルバム。
+- THE VOCALOID MASTER 12（ボーマス12）にて頒布される。
+- 現在、[[自身のブログ>>http://lavis0215.seesaa.net/]]にて通信販売を行っている。
+
+**曲目
++、、、、。
++[[透明空咲花]]
++[[自転車通学]]
++[[虚空新世界]]
++[[月火水木金]]
++[[雨色花時計]]
++[[箱庭小宇宙]]
++[[溜息流星群]]
++[[視界進化論]]
++[[夜間飛行記]]
++[[中野路地裏]]
++[[高円寺喫茶]]
++[[夕焼帰宅部]]
+
+**リンク
+- [[CD告知>>http://lavis0215.seesaa.net/article/145454715.html]]
+- [[作者ブログ「langue du chat」>>http://lavis0215.seesaa.net/]]
+
+**コメント
+#comment

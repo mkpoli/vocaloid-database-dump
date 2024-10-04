@@ -1,0 +1,37 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+#amazon(B0031891VW)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[ZANEEDS ＃01]]|CENTER:&bold(){ZANEEDS ＃02}|CENTER:[[ZANEEDS ＃EP]]|
+
+|&bold(){[[パイパンP]]}|
+
+発売：2009年8月15日
+価格：￥1000
+流通：即売
+サークル：ZANEEDS
+
+**CD紹介
+-ZANEEDSののVOCALOIDアルバム第2弾。C76にて初頒布。
+-今回はリンがメイン。リンソロの『So Far』やリン・ミク・ルカが歌う『[[Overwrite]]』などを収録。
+--最終トラックの『フライトプラン』はインスト曲。Vocalと書かれている「HND 16L」とは羽田空港C滑走路のこと。
+--『[[C.I.T.M>ちんげ in the まんげ]]』は歌詞カードで除外扱いされている。
+-かっこいいリンのパッケージデザインは今回も[[chan×co]]さん。
+
+**曲目
++Track One
++So Far
++[[Overwrite]]
++Subsonic
++[[C.I.T.M.>ちんげ in the まんげ]]
++Round Midnight
++[[Tokyo Beat]]
++フライトプラン
+
+**リンク
+-[[作者サークルホームページ>>http://zaneeds.com/]]
+-[[作者ブログ>>http://blogs.dion.ne.jp/zanio/]]
+-[[アニメイトの通販ページ>>http://www.animate-onlineshop.jp/products/detail.php?product_id=1000107]]
+
+**コメント
+#comment

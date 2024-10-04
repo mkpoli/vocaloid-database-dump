@@ -1,0 +1,109 @@
+#right(){&furigana(samsara)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm4486603)|&nicovideo(sm6008605)|
+|&nicovideo(sm8312390)||
+作詞：[[CALFO]]
+作曲：[[CALFO]]
+編曲：[[CALFO]]
+唄：[[MIRIAM]] / [[巡音ルカ]] / [[SONIKA]]
+
+**曲紹介
+>&bold(){やぁ（´・ω・｀）ようこそ。こんな辺鄙な所にまで来てくれて有難う。}
+>&bold(){このテｋ…いや何だコレ？まぁいいや…はサービスだから、よかったら飲んでね。}
+曲名：『&u(){samsara}』(&u(){サムサラ})
+-CALFO氏によるMIRIAMオリジナル曲。
+-全編英語。
+
+>&bold(){samsaraの楽譜を㍉ｧﾑさんから借りて練習している様ですよ？}
+>㍉ｧﾑさんの環境にルカを放り込んだらどの位歌えるか試してみました。
+-2009年2月に巡音ルカによるテスト版セルフカバーが投稿された。
+
+>&bold(){Ｃ「ソニ子オリジナル曲も作りたいけどね！」}
+>&bold(){ソ「そうだね！でもまだ先の話だね」}
+-2009年9月にSONIKA版のセルフカバーが投稿された。
+
+**歌詞
+（[[ピアプロ>>http://piapro.jp/content/l94zp9pbb41d9r19]]より転載）
+
+When they crossed, it is integrated.
+When they crossed, it is mixed hard.
+When they crossed, it is accelerated.
+And when they crossed...
+
+It spreads out so rapidly!
+
+One day, you meet me there.
+Your melody lets my body be resonant,
+And my singing voice flows into your consciousness.
+It becomes the torrent before long and will surely swallow all.
+
+
+When it is over, a new seed will fall.
+When somebody found it, the person will sow water.
+When a flower bloomed, the person watches it and will think.
+
+And it becomes the form.
+And when you made the thought a song...
+
+It is a song that I have heard once.
+Your melody shakes my body again.
+My singing voice begins to sound all over the world!
+...moreover, it is good if my voice reach you again.
+
+
+A lot of same things surely happen by another place, another time.
+This world which filled wonderful things is endless.
+
+
+#region(close,※日本語意訳)
+
+（[[ピアプロ>>http://piapro.jp/content/vhbqomafcdqwt9mg]]より転載）
+
+彼らが交錯する時、それは集積されていく。
+彼らが交錯する時、それは激しく掻き混ぜられる。
+彼らが交錯する時、それは加速していき、
+
+…そして急速に広がって行く！
+
+ある日、私とあなたはそこで出会う。
+あなたの旋律が私の身体を共鳴させ、
+私の歌声はあなたの意識へと流れ込む。
+それは奔流となって全てを飲み込んで行くでしょう。
+
+
+それが終わる時、新しい種が落ちるでしょう。
+誰かがその種を見つけたら、水を蒔くでしょう。
+花が咲いたら、人はそれを見て思いを馳せる事でしょう。
+
+そしてそれは形になる。
+その思いをあなたが歌にした時…
+
+かつて聞いた事のある歌。
+再びあなたの旋律が私の身体を震わせ、
+私の歌声は世界中に響き出す！
+…またあなたに届けばいいのだけれど。
+
+
+別の場所、別の時間でもきっと、同じ事がたくさん起こってる。
+果てしない、素敵に満ちたこの世界。
+
+#endregion
+
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+**コメント
+- なんでコメ無いん！？かっこいいよっ！一度聴いてみてよみんな！！ほんとに！ボカロでこんなになめらかに英語歌うの初めて聴いた！！！！！  -- るちぇりんぐ  (2010-02-21 11:55:35)
+- 格好良すぎる・・・  -- 0.3mm  (2010-04-18 12:26:29)
+- 確かにかっこいい！貴重なMIRIAMがフィーチャーされてる時点で聴くべき!(^^)!  -- Beat of blues (Firstsound)  (2010-05-03 10:19:34)
+- 歌詞いいな  -- 高梁 景  (2012-08-25 06:19:40)
+#comment()
+
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)

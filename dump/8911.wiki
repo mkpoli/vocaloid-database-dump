@@ -1,0 +1,36 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&ref(http://blog-imgs-31-origin.fc2.com/c/o/m/comicsp/20090902002221eb1.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Cat of another world}|CENTER:&bold(){[[偉大なる君へ]]}|
+
+|&bold(){[[スP]]}|
+
+流通：即売
+発売：2009年9月6日
+価格：￥500
+
+**CD紹介
+-スPによるオリジナルアルバム。ボーマス9で発表され、[[ひつじP]]のサークル「hitsuji」及び「[[捻れたアヒル]]」にて頒布された。
+-ジャケットイラストは[[時田]]氏、作中のボイスは時田・0310両氏によるもの。
+-ひとつのストーリーに沿ったような構成になっており、全トラックノーカットで最後まで突っ走るように再生される。
+-VOCALOIDは使っていない。
+-下記リンクの「wacca」というサイトにて、収録曲のうち数曲がアップロードされているので、気になった方は聴いてみてはいかがだろうか？
+
+**曲目
+01.Epilogue in the mirror
+02.The dog said that I am a cat
+03.Triumph
+04.That people
+05.ham
+06.Cat of another summer(voice 時田)
+07.His challenge
+08.Door dust (voice 時田)
+09.Did I die？ (vioce 0310 waiting for you/0310&Zekky より)
+
+**リンク
+-[[comic：試聴・楽曲配信サイトwacca>>http://wacca.fm/a/comic]]
+-[[本人ブログでのCD告知>>http://comicsp.blog49.fc2.com/blog-entry-34.html]]
+
+**コメント
+#comment

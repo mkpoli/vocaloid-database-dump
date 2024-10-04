@@ -1,0 +1,42 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+#image(http://blog-imgs-30.fc2.com/n/a/s/nashimotowe/OWC3rd_paperjacket1_webs.jpg)
+&nicovideo(http://www.nicovideo.jp/watch/sm10480599)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Second Coming]]|CENTER:&bold(){Three Out Change!}|CENTER:[[Quadrophenia]]|
+
+|&b(){[[えっちP]]}|[[liam>liam/作り手]]|[[夢見るP]]|[[テンネン]]|[[wintermute]]|[[キャプテンミライ]]|
+|[[ここ狭いP]]|[[えこ。]]|[[bothneco]]|[[梨本P]]|[[●テラピコス]]||
+
+||CENTER:即売|CENTER:同人|
+|発売|>|CENTER:2010年5月9日|
+|価格|CENTER:￥1,000|CENTER：￥1,050（税込）|
+|サークル|>|CENTER:Out Wave Cluster|
+
+>ジャケット：&bold(){[[liam>liam/作り手]]}
+
+**CD紹介
+-メンバーに[[●テラピコス]]氏を加えて更に攻勢を強める、サークル「Out Wave Cluster」の第3弾コンピレーション。
+-THE VOC@LOID M@STER 12（ボーマス12）で頒布される。
+-とらのあなで委託販売が行われていた。
+
+**曲目
++[[晴れた日にはギターポップを]]　/　[[liam>liam/作り手]]
++夢の続きを見させてよ　/　hr（[[えっちP]]）
++[[in the city of Ghost]] / [[wintermute]]
++[[アントラクト]]　/　[[夢見るP]] ミーツ mmmboP
++[[1/2>1／2/●テラピコス]] / [[●テラピコス]]
++suiren / [[えこまる>えこ。]]
++[[ハルマゲ音頭]]　/　リン＆フューチャーナウ（[[キャプテンミライ]]）　　
++[[のーたりん・やけくそ編>のーたりん・ふらつき編]]　/　梨本うい（[[梨本P]]）
++[[je t'aime, je t'aime]] / [[bothneco]]
++ユーブイ / rokugatsu（[[ここ狭いP]]）
++マダヤダ / [[テンネン]]（おっぴろげP）
+
+**リンク
+-[[CD告知>>http://owc.blog20.fc2.com/blog-entry-37.html]]
+-[[Out Wave Cluster ブログ>>http://owc.blog20.fc2.com/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/22/26/040010222656.html]]
+
+**コメント
+#comment

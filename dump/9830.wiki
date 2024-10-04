@@ -1,0 +1,43 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+|CD版ジャケット&br()&ref(http://www.s-style.tv/wp/wp-content/uploads/2009/08/soft2.jpg)|配信版ジャケット&br()&ref(http://karent.jp/npdca/278_20100412030436_0240_0240.jpg)|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[wktk_hello>wktk Hello]]|CENTER:&bold(){Day to Day}|CENTER:[[Past of Abyss]]|
+
+|&bold(){[[SHUN]]}|
+
+||CENTER:即売|CENTER:同人|CENTER:配信|
+|発売|>|CENTER:2009年9月6日|CENTER:2010年4月28日|
+|価格|CENTER:￥500|CENTER:￥735（税込）|CENTER:￥300 / 1曲￥150|
+|サークル|>|CENTER:STYLE.S||
+|ジャケットイラスト|>|CENTER:おにねこ|CENTER:[[岩波>>http://piapro.jp/u_niko]]|
+
+**CD紹介
+-THE VOC@LOiD M@STER 9（ボーマス9）で頒布されたSHUN氏のボーカロイドCD。
+-とらのあなにて委託販売が行われている。
+-表題曲「Day to Day」とそのvocal off版をKarenTレーベルより配信販売している。
+-配信シングル『Day to Day』はKarenTの「素敵な休日'10」企画で配信された作品の1つ。
+
+**曲目
+***CD版
++DAY TO DAY <feat.hatsune miku / gumi>
++爺-G- Temptation <feat. hatsune miku> 
++[[wktk Hello]] <feat.hatsune miku / gumi / len>
++[[One Wish>one wish]] <feat.gumi> 
++DAY TO DAY <vocal off>
++爺-G- Temptation <vocal off>
++wktk Hello <vocal off>
++One Wish <vocal off>
++etc?
+***配信版
++Day to Day （feat. 初音ミク&メグッポイド）
++Day to Day Vocal off
+
+**リンク
+-[[STYLE.S（作者サイト）>>http://www.s-style.tv/wp/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/19/73/040010197393.html]]
+-[[KarenT：「Day to Day」>>http://karent.jp/album/278]]
+-[[KarenT：「素敵な休日'10」特集ページ>>http://karent.jp/special/holiday10]]
+
+**コメント
+#comment

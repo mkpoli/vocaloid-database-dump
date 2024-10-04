@@ -1,0 +1,45 @@
+#right(){&furigana()【登録タグ:&tags() 】}
+&ref(http://sorairoclub.up.seesaa.net/image/82140459-9129a46fc5707e32baf7336a5b08f098.4bb757ab-full-thumbnail2.gif)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm10384892)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){telescope}|CENTER:[[stellar place e.p.]]|
+
+|&bold(){[[そらいろくらぶ]]}|
+
+||CENTER:即売|CENTER:同人|
+|CENTER:発売|CENTER:2010年5月9日|CENTER:2010年5月9日|
+|CENTER:価格|CENTER:￥1,000|CENTER:￥1,260（税込）|
+|CENTER:サークル|>|CENTER:s10rw|
+
+>作詞・作曲：&bold(){[[yuxuki]]}
+>ベース演奏：&bold(){maquao}
+>イラスト：&bold(){[[霜村]]}
+
+|&bold(){[[D-STAGEで購入する>>http://d-stage.com/shop/detail.php?seq=14851]]}|
+|&bold(){[[とらのあなで購入する>>http://www.toranoana.jp/mailorder/article/04/0010/22/28/040010222844.html]]}|
+
+**CD紹介
+- yuxuki、霜村を中心とした音楽サークル「そらいろくらぶ」としては初となるCDアルバム。
+- THE VOCALOID MASTER 12（ボーマス12）で頒布される。
+- これまでに発表された「[[空色ラジオ]]」「[[ステラプレイス]]」等の楽曲に加え、新曲を4曲収録した全9曲入り。
+- 現在とらのあな（通販再開済）、およびD-STAGEにて購入することができる。
+
+**曲目
++telescope &color(red){NEW!}
++[[空色ラジオ]]
++[[ステラプレイス]]
++drop &color(red){NEW!}
++[[oval]] &color(red){NEW!}
++[[スノウライト]]
++[[photograph>photograph/そらいろくらぶ]]
++[[Last Scene]]
++melody &color(red){NEW!}
+
+**リンク
+- [[CD案内>>http://sorairoclub.seesaa.net/article/145613028.html]]
+- [[Sorairo Log.（サークルホームページ）>>http://sorairoclub.seesaa.net/]]
+
+**コメント
+#comment

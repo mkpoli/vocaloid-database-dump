@@ -1,0 +1,28 @@
+#right(){&furigana(ねがぽじさいくる　あいとまこと) &furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/362_20100525153735_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){ネガポジサイクル / 藍と真}|CENTER:[[ブルーエッグ幻想曲 / Between The Real and Fairy Tale.>ブルーエッグ幻想曲／Between The Real and Fairy Tale.]]&br()[[原罪と未来のジレンマ / Only a little>原罪と未来のジレンマ／Only a little]]|
+
+|&bold(){[[疾風P]]}|[[灯下はこ、]]|
+
+発売：2010年6月11日
+価格：￥300 / 1曲￥150
+流通：配信
+レーベル：KarenT
+ジャケットイラスト：[[桃華なゆた>灯下はこ、]]
+
+**CD紹介
+-共通した世界観の『ネガポジサイクル』と『藍と真』を収録した両A面シングルです。
+-桃華なゆたさんによるコミカルながら深い歌詞を軽快なロックに乗せて初音ミクが歌います。
+
+**曲目
++[[ネガポジサイクル]] （feat. 初音ミク）
++[[藍と真]] （feat. 初音ミク）
+
+**リンク
+-[[KarenT：「ネガポジサイクル / 藍と真」>>http://karent.jp/album/362]]
+-[[まさくにぶろぐ（疾風Pブログ）>>http://masakuni.cocolog-nifty.com/blog/]]
+
+**コメント
+#comment

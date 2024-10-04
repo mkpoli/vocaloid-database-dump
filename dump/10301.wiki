@@ -1,0 +1,32 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/137_20091206034935_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Dive Into Sky High / Degenerate -デジェネレイト-}|CENTER:[[in the rain>in the rain/テラ小室PCD]]|
+
+|&bold(){[[テラ小室P]]}|[[ポン酢P]]|[[SOLIDIO]]|[[他P]]|
+
+発売：2010年1月6日
+価格：￥300 / 1曲￥150
+流通：配信
+レーベル：KarenT
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/dive-into-sky-high-degenerate/id346166034]]}|
+
+**CD紹介
+-0108-音屋-所属のテラ小室P、[[Hal>ポン酢P]]、SOLIDIO、[[ep0d>他P]]が本来の目的を忘れ、やりたい事やった結果が、これだよ。
+-音屋のアルバム『[[amplitude]]』には未収録だった「Dive Into Sky High」と、新曲の「Degenerate -デジェネレイト-」の2曲を収録した両A面シングル。
+-アーティスト名義は、テラ小室Pになっている。
+
+**曲目
++[[Dive Into Sky High]] （feat. 初音ミク）
++-作詞：テラ小室P、作曲：テラ小室P・Hal、ミックス・マスタリング：SOLIDIO
++Degenerate -デジェネレイト- （feat. 初音ミク）
++-作詞：テラ小室P、作曲：Hal・ep0d、マスタリング：SOLIDIO
+
+**リンク
+-[[KarenT：「Dive Into Sky High / Degenerate -デジェネレイト-」>>http://karent.jp/album/137]]
+-[[0180-音屋-（所属サークルサイト）>>http://www.die8.name/0108/index.html]]
+
+**コメント
+#comment

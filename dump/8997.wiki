@@ -1,0 +1,61 @@
+#right(){&furigana(わたしかあいしたけいしゃかーる)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm9838235)|
+作詞：[[kihirohito]]
+作曲：[[kihirohito]]
+編曲：[[kihirohito]]
+唄：[[Big-AL]]
+
+**曲紹介
+曲名：『&u(){私が愛したゲイシャガール}』（&u(){わたしがあいしたげいしゃがーる}）
+
+**歌詞
+色は匂へどCherry Bloom World
+仕事帰りのOn The Roadで
+Very PrettyなGeisha Girlを
+NinjaがAbduction
+
+Coltは俺のPassport
+そこで一人のLonsome Samurai
+クセモノ共をFanning Shotで
+次々Bump Off Chicken
+
+あなたがArchaicなSmileを見せるとき
+私のHeartにHoryu Templeの鐘が鳴り響く
+
+「お礼にいいとこお連れしますわ」
+彼女と共にChiba Cityから
+さらりまんらとTrainに乗って
+花のTokyoへGO
+
+そこはClub Ryugu Castle
+タイやヒラメが舞い踊る中
+知らぬ同士が小皿をたたいて
+I'm A Stranger In Paradise
+
+あなたがOrientalなDancingを見せるとき
+私のHeartにシシオドシの音がこだまする
+
+あなたがArchaicなSmileを見せるとき
+私のHeartにHoryu Templeの鐘が鳴り響く
+
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+**コメント
+- これ最高だ。キッヒー流石だよ！！  -- 名無しさん  (2010-03-04 08:47:26)
+- 破壊力・中毒性共に最高ww低音渋いっすw  -- 名無しさん  (2010-03-31 03:22:23)
+- これはオチがすごすぎるww  -- 名無しさん  (2010-08-14 21:39:33)
+- うまい。  -- 名無しさん  (2011-08-17 22:58:36)
+- BIG-ALをボーカルにしたことによって、外国人のイメージする、変な日本の感じが良く出ていると思う。  -- 竜奇  (2012-06-12 15:41:56)
+- いろいろとおかしいこの動画ｗｗｗ  -- 名無しさん  (2012-10-15 11:51:51)
+#comment()
+
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)

@@ -1,0 +1,115 @@
+#right(){&furigana(nyanyannya)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+//&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/25423019" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/25423019">【ニコニコ動画】</a></iframe>)
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/36713618" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/36713618">【ニコニコ動画】冷たい抽象</a></iframe>)
+
+**特徴
+作り手名：『&u(){nyanyannya}』（&u(){にゃにゃんにゃ}）
+-読み方は「にゃにゃんにゃ」。愛称は「ねこさん」。自身でも “ねこ” と名乗ることがある。
+-P名は「大天才P」。由来は「[[ドクター＝ファンクビート]]」の歌詞より。
+-同人サークル「てつ×ねこ」や音楽ユニット「Team.ねこかん[猫]」のボーカル、単独インディーズ「Project wild cat」としても活動している。
+-使用ボカロは鏡音リン・鏡音レン・東北ずん子・MEIKO・初音ミク・KAITO・巡音ルカ・神威がくぽ。
+--一曲のみ（「[[哲学的ジャバウォック]]」）だがUTAUの飴音わめあも使用。
+-時報アレンジ曲の「[[にこにこ☆すまいる>>https://www.nicovideo.jp/watch/sm2991484]]」の歌詞を募集、約一ヶ月後歌詞がコメントで投稿されたが、1年以上経っても動画は投稿されていない。現在動画は非公開。
+-絵師の予感子（よかんこ）氏と一緒に、サークル・VOCALOIDの版元「&s(){[[濱神肖像 ～ハマガミポヲトレヱト～>>http://www.hamagamiportrait.jp/]]}」、中でも現在は&s(){[[鉛姫シリーズ>>https://ch.nicovideo.jp/nyanyannya/blomaga/ar729630]]}を主に展開している。&br()また、CDやグッズ、小説などは、BOOTH「[[クラブ＝マジェスティ>>https://club-majesty.booth.pm/]]」にて取り扱っている。
+-最新の情報は[[Twitter>>https://twitter.com/neko_nekokan]]&s(){（または[[ブロマガ>>https://ch.nicovideo.jp/nyanyannya]]）}にて公開。逆に、ピアプロなどの更新はほとんどない。
+-藝術家としての活動を開始。→[[PATREON>>https://www.patreon.com/nyanyannya]]
+-自作のキャラクター（鉛姫シリーズに登場するDr.ファンクビート）のコスプレをしてイベントに参加することがある。
+-投稿曲のほとんどが非公開となっていた件についての氏のメッセージ。
+--[[PIXIV FANBOX>>https://nyanyannya.fanbox.cc/posts/1435643]]
+--[[PIXIV FANBOX>>https://nyanyannya.fanbox.cc/posts/1442307]]
+-次の曲が殿堂入りを達成している。&br()&list_by_tagsearch(nyanyannya,殿堂入り,sort=furigana,option=nolist,nolistspace=、,100)
+
+**ミリオン達成状況
+|CENTER:&bold(){曲名}|CENTER:&bold(){100万再生}|CENTER:&bold(){備考}|
+|[[ドクター＝ファンクビート]]|2020年10月31日||
+|[[エル・タンゴ・エゴイスタ]]|2023年9月9日||
+
+**リンク
+//-[[てつ×ねこオフィシャルサイト>>http://www.team-nekokan.com/tetuxneko/]]
+-[[てつ×ねこぶろぐ>>https://ameblo.jp/tetsunekokankan/]]
+-[[ねこかんぶろぐ［猫］>>http://blog.livedoor.jp/nekonekokankan/]]
+-[[PATREON>>https://www.patreon.com/nyanyannya]]
+-[[Twitter>>https://twitter.com/neko_nekokan]]
+-[[YouTube>>https://www.youtube.com/channel/UC13cTkDWK6o_TYL2tdtpJHg]]
+-[[Bilibili>>https://space.bilibili.com/471551547]]
+//-[[サイト〔濱神肖像〕>>http://www.hamagamiportrait.jp/]]
+//-[[ブロマガ〔カドワナルカの片隅で〕>>https://ch.nicovideo.jp/nyanyannya]]
+-[[KARENT>>https://karent.jp/artist/pp000651]]
+//-[[コミュニティ〔ねこのキングダム〕>>https://com.nicovideo.jp/community/co2538395]]
+-[[ピアプロ>>https://piapro.jp/nyanyannya_nekokan]]
+-[[pixiv>>https://www.pixiv.net/users/4055693]]
+-[[通販〔クラブ＝マジェスティ〕>>https://club-majesty.booth.pm/]]
+
+**曲
+#list_by_tag(nyanyannya,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(nyanyannyaCD,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**動画
+|&nicovideo(sm2347093)|&nicovideo(sm8946163)|
+|&nicovideo(sm14504051)|&nicovideo(sm14629208)|
+|&nicovideo(sm17606016)|&nicovideo(sm20606408)|
+|&nicovideo(sm21513623)|&nicovideo(sm22295129)|
+|&nicovideo(sm23253352)|&nicovideo(sm23552338)|
+|&nicovideo(sm23692113)|&nicovideo(sm23792290)|
+|&nicovideo(sm24121400)|&nicovideo(sm24176281)|
+|&nicovideo(sm24467693)|&nicovideo(sm24681417)|
+|&nicovideo(sm25034487)|&nicovideo(sm25210702)|
+|&nicovideo(sm25763619)|&nicovideo(sm26070038)|
+|&nicovideo(sm26470008)|&nicovideo(sm26747954)|
+|&nicovideo(sm27861704)|&nicovideo(sm28113401)|
+|&nicovideo(sm28367510)|&nicovideo(sm28749686)|
+|&nicovideo(sm30395468)|&nicovideo(sm31344890)|
+|&nicovideo(sm32563885)|&youtube(https://www.youtube.com/watch?v=mpKkOYTK59Y){342,187}|
+|&nicovideo(sm34129455)|&nicovideo(sm34231053)|
+|&nicovideo(sm34631009)|&nicovideo(sm36554899)|
+|&youtube(https://www.youtube.com/watch?v=X2bsM3IFnkU){342,187}|&nicovideo(sm36584124)|
+|&youtube(https://www.youtube.com/watch?v=Cwg0azGK_v8){342,187}|&youtube(https://www.youtube.com/watch?v=VIKk1EDdZ0w){342,187}|
+|&youtube(https://www.youtube.com/watch?v=QlEHNC6d-eY){342,187}|&youtube(https://www.youtube.com/watch?v=bXyWxuebkrA){342,187}|
+|&youtube(https://www.youtube.com/watch?v=-AwwOz_vKdU){342,187}|&nicovideo(sm36615908)|
+|&nicovideo(sm36652645)|&youtube(https://www.youtube.com/watch?v=t0RQP0K4CUw){342,187}|
+|&nicovideo(sm37946928)|&nicovideo(sm38467103)|
+|&nicovideo(sm38779840)|&nicovideo(sm39554760)|
+|&nicovideo(sm39689087)|&nicovideo(sm39963843)|
+|&nicovideo(sm40988639)|&nicovideo(sm42688321)|
+//|&nicovideo()|&nicovideo()|
+//|&youtube(){342,187}|&youtube(){342,187}|
+
+**コメント
+- どなたかShutterとああああああああああああの追加を・・！素敵な曲なのに(´；ω；｀)  -- 黒葉  (2013-04-16 10:31:27)
+- ↑「ねこP」という名前で登録されていただけで、[[Shutter>Shutter/nyanyannya]]ありますよー。[[ああああああああああああ]]も追加されてました。  -- 名無しさん  (2013-04-16 22:43:55)
+- list_by_tagが、nyanyanya（にゃにゃにゃ）になっていたので、nyanyannya（にゃにゃんにゃ）に直しておきましたー  -- 名無しさん  (2013-04-16 22:45:16)
+- なめこユニバースはまだー？？  -- 名無しさん  (2013-05-04 09:50:28)
+- 鉛姫を……！  -- 名無しさん  (2014-01-13 10:05:07)
+- 哲学的ジャバウォックがない・・・！  -- 名無しさん  (2015-04-05 20:23:46)
+- ↑これはボカロじゃなくてUTAUなので、追加できません  -- 名無しさん  (2015-05-31 21:22:57)
+- カドワナルカ＝シアノタイプを再販してほしい  -- 名無しさん  (2017-10-23 00:14:21)
+- 誰か燃えよシャオロンを…  -- 名無しさん  (2020-03-18 10:13:32)
+- なんで消したの？  -- 名無しさん  (2020-09-26 13:10:36)
+- 珍しく実力あるボカロPだっただけにしょーもない理由で終わって残念やら失望やら  -- 名無しさん  (2020-09-30 00:48:32)
+- pixivfanbox読んだが、つまり無断転載と批判コメが嫌だったって事か？  -- 名無しさん  (2020-09-30 08:48:13)
+- 無断転載が嫌だってのと↑↑のように無礼失礼なリスナーの態度にうんざりしたんだろうよ、知らんけど  -- 名無し  (2020-09-30 14:05:07)
+- いや無断転載への対応として明らかに常軌を逸したことしてるんだから、作者に非は一切無いとはいえボカロPとしての印象はだいぶ悪化したわ。こういう真似してもなお盲目的に賛同してくれる信者だけを選別して崇拝のみの空間を作りたいとかならまあ人間心理として納得できんこともないけど、釈明文みた感じそういうわけでもなさそうだし理解に苦しむ。  -- 名無しさん  (2020-09-30 18:15:16)
+- ファンボックスでも言ってたけど、別に作者はボカロpとして名声を得たいわけじゃないんだからいいんじゃね。自分の世界を創り出しているだけで、それを一般的な商業作品の価値で消費されるのが嫌だったんとちゃうん。知らんけど。  -- 名無しさん  (2020-10-01 03:05:35)
+- 好きなPだったしショックだけど、ファンボックス見てもちょっと考えが理解できなかった…商業的に作品が消費されるのが嫌って言いたいのかと思ったらゲームへの楽曲提供はしてるし……。結局何がしたいんだ…??  -- 名無しさん  (2020-10-28 05:53:26)
+- 読んだ感じだと、こちらをきちんとリスペクトしてくれるなら常識の範疇ならどうしてくれても構わなかった(形がお金であれメールであれ)。けれども勝手に転載して広告受け取ったり、勝手にメドレーとして転載してしかもそれに「このPの作品イラネ」とか書かれたり、ガイドラインガン無視の二次創作作られたり、こちらの制作苦労とか考えずに「はよ次の作品投稿しろ」とか言われて完全にブチ切れたと見た。で、しばらくして頭が冷めたのとそれで怒る人よりも嘆き悲しむ人の方が圧倒的に多かったのを見て再アップし始めたのかな  -- 名無しさん  (2020-11-01 03:25:06)
+- 本人が本気で悩んでたことを上から目線で｢しょーもない理由｣だの｢失望した｣だの言われるような環境にいたら嫌気もさすわなと納得した。ありがとう  -- 名無しさん  (2020-11-02 17:03:25)
+- ベスト何選がダメなの...?ねこさんの敬語だ何だってのはTwitterとかメールの話だと思いたい、ニコ動のコメについての事だったら敬語云々の話は意味不になってしまう....その他についてはわからんでもない話だったので応援続けまする、作った作品の感想言う場で次まだって言われりゃそりゃキレるよね！  -- 名無しさん  (2020-11-20 22:40:17)
+- 最近知ってすごく推したいんだけど、非公開についての文読んだ感じ、言うことは納得はできるんだけど、なんとなく、ガチ勢とか曲設定とかきちんと全部理解してる人とか作品だけじゃなく言動全てに理解を示す人しか許容しない感じがして、どうしようか悩んでる…。  -- 名無しさん  (2020-12-29 15:57:27)
+- プロセカでPを知った新規が閉口しちゃうのわかるなぁ。言ってることはわからなくないけど、動画サイトに投稿している以上解釈や評価は再生数分多岐に渡るでしょうよ。  -- 名無しさん  (2021-01-17 14:32:57)
+- この一件で嫌になった人は思い出しちゃうから聞かなきゃ良いだけだし  -- 名無しさん  (2021-01-28 18:25:02)
+- 気難しそうな人と思ったけど自分の作品を切り貼りしてメドレーにされたりそんな人に広告料入ったりは普通に嫌だろうな。勝手にやられた挙げ句この曲いらない扱いされたらやる気は失くすと思う  -- 名無しさん  (2021-03-26 01:25:38)
+- この人は商売人じゃなくて創作者。それだけなんじゃないかな。s  -- 名無しさん  (2021-05-15 17:04:57)
+- 非公開にした件、「シンプリズム」の歌詞でも同じようなこと言ってるし昔からずっと敏感な部分なんだろうなと。好き放題に転載されたりそのうえで批判意見を見てしまってつらいのは当たり前では？ 産みの苦しみは作り手にしか分からないということがよくわかる。 個人的にはまたボーカリストとしてバリバリ活動してほしいんだが。  -- 名無しさん  (2021-07-08 14:44:54)
+- この人は恐らく芸術家タイプ  -- 名無しさん  (2021-07-30 10:35:46)
+- nyanyannya  -- 名無しさん  (2022-07-31 21:16:41)
+- ↑さんの曲は大音量で流すのが好き  -- 名無しさん  (2022-07-31 21:17:45)
+- 割と人柄も誠実って感じで好き。職人肌っぽいよね。  -- 名無しさん  (2022-10-28 19:15:54)
+- 曲の世界観が壮大で好き。もっと人気でもおかしくないと思ってる  -- 名無しさん  (2022-11-29 00:57:37)
+- ↑それな  -- 名無しさん  (2024-06-25 06:54:33)
+#comment()

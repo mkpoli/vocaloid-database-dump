@@ -1,0 +1,26 @@
+#right(){&furigana(すくみずP)&furigana()【登録タグ:&tags() 】}
+
+**特徴
+-「斑石うにも」名義で同人アニメを作っている。投稿動画のイラストはもちろん自作。
+-ギターも弾けるとのこと。
+-P 名は投稿動画のボーカロイドキャラクターがスクール水着であることに由来（全ての作品というわけではありません）。
+
+**リンク
+-[[公式HP>>http://ajihira.sakura.ne.jp/]]
+-[[ピアプロ>>http://piapro.jp/wunimo]]
+
+**曲
+#list_by_tag(すくみずP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(すくみずPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm1081665)|&nicovideo(http://www.nicovideo.jp/watch/sm1418287)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm1632617)|&nicovideo(http://www.nicovideo.jp/watch/sm2163890)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2207678)||
+
+**コメント
+- ボカロ界隈では、楽師兼絵師のはしりになる人と言っていいかもしれないな。  -- 名無しさん  (2011-04-10 16:26:27)
+- もうボカロは作らないのかな？  -- 名無しさん  (2017-10-13 07:40:59)
+#comment()

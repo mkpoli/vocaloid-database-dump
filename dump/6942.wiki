@@ -1,0 +1,45 @@
+#right(){&furigana(あきのせんりつ)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(nm8224431)|
+作詞：[[あルカP]]
+作曲：[[あルカP]]
+編曲：[[あルカP]]
+唄：[[巡音ルカ]]
+
+**曲紹介
+曲名：『&u(){秋の旋律}』（&u(){あきのせんりつ}）
+
+**歌詞
+秋の風に吹かれて　思い出す一年前の
+Happy day Rainy day
+Every day spent with you
+
+風が奏でるメロディ
+あの日聴いたキミの歌声
+
+☆時が過ぎても　この季節に運ばれてきた
+　その歌声は、はるか遠く　精霊の丘へ‥
+
+★秋の風に吹かれて　思い出す一年前の
+　Happy day Rainy day
+　Every day spent with you
+　Happy day Rainy day
+　Every day spent with you
+
+僕が奏でるメロディ
+いつか聴いた過去の旋律
+時が過ぎても　この季節に運ばれてきた
+その歌声は、はるか遠く　精霊の丘へ‥
+
+★繰り返し
+
+生まれた旋律　季節に刻もう
+未来へ繋がる　きっと繋がっている
+
+
+**コメント
+//- 何でいい曲なのにコメントしてる人がいないんですか？！  -- オタP  (2009-11-15 08:21:14)
+#comment()

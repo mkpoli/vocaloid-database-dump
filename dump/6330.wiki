@@ -1,0 +1,43 @@
+#right(){&furigana(かごのなかのひなりゅう)&furigana()【登録タグ:&tags() 】}
+
+//&ref(http://kagoryu.web.fc2.com/file/top.jpg)
+&ref(https://www.suruga-ya.jp/database/pics/game/186108895.jpg,x=300,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm8020704)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Precocious Melodies>Precocious Melodies/CD]]|CENTER:&bold(){籠の中の雛龍}|CENTER:[[真夜、龍ハ夢拠リ醒メ>真夜、龍ハ夢拠リ醒メ/CD]]|
+
+|&bold(){[[弱音P]]}|[[otetsu]]|[[レッドカードP]]|[[シンP]]|[[つるつるP]]|[[ぺぺろんP]]|
+
+発売：2009年9月6日
+価格：￥1,000
+流通：即売
+サークル：Y_Project
+
+**CD紹介
+-弱音Pの3rdアルバム。ボーマス9で頒布されます。
+-新曲、リミックス、4名のゲストによるアレンジを含めた全13曲を収録。
+-ジャケットイラストは&b(){[[藤代叶]]}が担当。
+
+**曲目
++[[DREAM☆HUNT]]
++[[龍ノ啼ク箱庭拠リ]] luka.ver
++[[Precocious Melodies]] luka.ver
++[[blood sea]]
++[[あなたがくれたオト]] gumi.ver
++[[籠の中の雛龍]]
++[[瓶に詰めた青い蝶]]
++[[Yesha]]
++Precocious Melodies otetsu'n Rock ver.
++[[「シャイン？」「シャイン。」>シャイン！]]
++籠の中の雛龍をピアノクラシックで
++[[この広い空の下で]] つるP POP Ver.
++籠の中の雛龍 Peperon arrange ver.
+
+**リンク
+-[[特設サイト>>http://kagoryu.web.fc2.com/]]
+-[[作者ブログ>>http://mejipa.blog16.fc2.com/]]
+
+**コメント
+#comment

@@ -1,0 +1,43 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&ref(http://blog-imgs-23.fc2.com/o/w/c/owc/2OWC2nd_jacket4P_1-4P.jpg)
+&nicovideo(http://www.nicovideo.jp/watch/sm8752192)
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Greatest Misses]]|CENTER:&b(){Second Coming}|CENTER:[[Three Out Change!]]|
+
+|&b(){[[とらのあなで購入する>>http://www.toranoana.jp/mailorder/article/04/0010/20/81/040010208195.html]]}|
+
+|&b(){[[えっちP]]}|[[夢見るP]]|[[テンネン]]|[[wintermute]]|[[キャプテンミライ]]|
+|[[ここ狭いP]]|[[えこ。]]|[[はいのことん]]|[[梨本P]]|[[bothneco]]|
+
+||CENTER:即売|CENTER:同人|
+|発売|CENTER:2009年11月15日|CENTER:-|
+|価格|CENTER:￥1,000|CENTER:￥1,050（税込）|
+|サークル|>|CENTER:Out Wave Cluster|
+
+作詞：&b(){[[bothneco]],[[wintermute]],[[はいのことん]],[[えっちP]],[[ここ狭いP]],[[キャプテンミライ]],[[テンネン]],[[夢見るP]],[[梨本P]]}
+作曲：&b(){[[bothneco]],[[wintermute]],[[えこ。]],[[えっちP]],[[ここ狭いP]],[[キャプテンミライ]],[[テンネン]],[[夢見るP]],[[梨本P]]}
+ジャケット：&b(){[[liam>liam/作り手]]}
+
+**CD紹介
+-前作から新たに「[[えこ。]]＆[[はいのことん]]」・「[[梨本P]]」、「[[bothneco]]」をメンバーに迎えた、サークル「Out Wave Cluster」の第2弾コンピレーション。
+-THE VOC@LOiD M@STER 10（ボーマス10）で頒布された。
+-現在とらのあなで委託販売が行われている。
+
+**曲目
++[[バイバイ>バイバイ/えっちP]] / hr（[[えっちP]]） 
++[[ハートは万華鏡]] / [[えこまる>えこ。]]/[[はいのことん]]
++[[Diary>Diary/wintermute]] / [[wintermute]]
++[[待ちぼうけ>待ちぼうけ/梨本P]] / 梨本うい（[[梨本P]]）
++[[アイタイ]] / [[テンネン]]（おっぴろげP）
++[[Out of Reach]] / [[bothneco]]
++[[ネビエクライド]] / ろくがつ（[[ここ狭いP]]）
++[[積雪ロック]] / リン & フューチャーナウ（[[キャプテンミライ]]）
++[[たとえば]] / [[夢見るP]]
+
+**リンク
+-[[CD告知>>http://owc.blog20.fc2.com/blog-entry-24.html]]
+-[[Out Wave Cluster ブログ>>http://owc.blog20.fc2.com/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/20/81/040010208195.html]]
+
+**コメント
+#comment

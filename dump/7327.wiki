@@ -1,0 +1,48 @@
+#right(){&furigana(しめさはついすたーす)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://ext.nicovideo.jp/thumb_mylist/10395993" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/10395993">【ニコニコ動画】%E3%82%B7%E3%83%A1%E3%82%B5%E3%83%90%E3%83%84%E3%82%A4%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA%20%E4%BD%9C%E5%93%81%E3%82%BA</a></iframe>)
+
+**特徴
+作り手名：『&u(){シメサバツイスターズ}』
+-"京都在住の鍵盤弾き『しめさば』によるプロジェクト。ひとりだけど複数形。"
+-"プログレ変拍子ポップスを目指して作曲しています。合言葉は Progress My Life！"
+-（以上、作者ホームページより引用）
+
+**リンク
+-[[作者ホームページ「シメサバツイスターズ」>>https://simesabat.blog.shinobi.jp/]]
+//-[[→移転>>http://simesabat.jimdo.com/]]
+-[[Twitter>https://twitter.com/simesabat]]
+-[[PIAPRO>>https://piapro.jp/mri_kk]]
+-[[ニコニコ>>https://www.nicovideo.jp/user/565959]]
+-[[UTAU楽曲データベース「シメサバツイスターズ」ページ>>https://www24.atwiki.jp/utauuuta/pages/1130.html]]
+
+**曲
+#list_by_tag(シメサバツイスターズ,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(シメサバツイスターズCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+-第一シリーズ
+|&nicovideo(nm3763364)|&nicovideo(nm4004234)|
+|&nicovideo(nm5694775)|&nicovideo(nm5766957)|
+|&nicovideo(sm6316298)|&nicovideo(sm6708562)|
+|&nicovideo(sm7329573)|&nicovideo(sm7725879)|
+
+-第二シリーズ
+|&nicovideo(sm8279313)|&nicovideo(sm8330514)|
+|&nicovideo(sm8726609)|>|
+
+**コメント
+- 神様は朝に目覚める ←壮絶、壮絶、好きになりました〜♪ 応援してます！  -- 10時  (2010-03-26 10:17:22)
+- パレードとかないなぁ…誰か作ってほしいなぁ…  -- 10時  (2010-05-14 18:42:30)
+- VOCALOIDとUTAUの両方を使うとこがいいねェ  -- ドリル  (2010-10-04 00:43:29)
+- コメすくなっΣ（´Д｀；）    この方のミク良い声で歌うのに・・・  -- サイトウチヂワ  (2010-12-10 01:39:10)
+- この方はもっと評価されるべき！！  -- 夏風  (2011-08-15 16:32:56)
+- 日常鎖飯事 大好きです  -- 名無しさん  (2011-10-16 13:37:56)
+- 新生児ブギ好きやな  -- 名無しさん  (2014-06-13 08:27:36)
+- Rolling twentiesも個人的には推したい  -- 名無しさん  (2016-03-06 15:53:32)
+#comment()

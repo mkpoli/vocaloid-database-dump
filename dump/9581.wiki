@@ -1,0 +1,46 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Nostalgia II ～Compilation of 13 Jewels～]]|CENTER:&bold(){Nostalgia III ～Compilation of 15 Dreams～}|CENTER:-|
+
+|&bold(){[[たかP]]}|[[夕闇P]]|[[兄弟P]]|[[イカロスP]]|[[GonGoss]]|[[弱音P]]|[[TuKuRu]]|[[にいとP]]|[[パレットP]]||
+|[[かたほとりP]]|[[むーと]]|[[うどんゲルゲ]]|[[U-ske]]|[[コスプレP]]|[[ichiP]]|ナヲコ(nawo)|アイスP|[[orange>orange/作り手]]|牛タンP|
+
+||CENTER:即売|CENTER:通販|
+|発売|CENTER:2010年5月9日|CENTER:-|
+|価格|CENTER:￥1,000|CENTER:￥1,200(税込)|
+|サークル|>|CENTER:Project Nostalgia|
+
+>ジャケットイラスト：&b(){ナヲコ}
+
+|&bold(){[[タップオンラインショップで購入する>>http://v-nyappon.net/shop/tap/products/detail.php?product_id=46]]}|
+
+**CD紹介
+-真のおっさんホイホイアルバム第三弾！
+-15名のおっさんPによる渾身の15曲を収録。
+-ジャケットイラストは、兄弟Pの動画でおなじみナヲコ（nawo）さんの描き下ろし。
+-現在タップオンラインショップにて委託販売が行われている。
+
+**曲目
++[[イージー・モード]] / 作詞・作曲・編曲：U-ske
++[[キオクノシズク]] / 作詞・作曲・編曲：かたほとりP
++[[どうしてこうなった>どうしてこうなった/うどんゲルゲ]] / 作詞・作曲・編曲：うどんゲルゲ
++[[school is over]] / 作詞・作曲・編曲：ichiP
++[[終着点、或いは]] / 作詞・作曲・編曲：パレットP
++[[幻想舞姫]] / 作詞・作曲・編曲：弱音P
++[[熱情舞踏曲]] / 作詞・作曲・編曲：イカロスP
++[[speedier increase]] / 作詞・作曲・編曲：むーと
++[[@rigatto>@rigatto!]] / 作詞：うどん屋、作曲・編曲：コスプレP
++[[君が居ない空に僕は誓う]] / 作詞：orange、作曲・編曲：にいとP
++[[コメット]] / 作詞・作曲・編曲：兄弟P
++[[明け方の月]] / 作詞・作曲・編曲：たかP
++[[かごの鳥]] / 作詞：牛タンP、作曲・編曲：TuKuRu
++[[空色航路（そらいろキャンバス）]] / 作詞・作曲・編曲：GonGoss
++[[blank>blank/夕闇P]] / 作詞・作曲・編曲：夕闇P
+
+**リンク
+-[[公式サイト>>http://nostalgia.takap.tk/]]
+-[[CD案内>>http://nostalgia.takap.tk/discography/nostalgia3/]]
+
+**コメント
+#comment

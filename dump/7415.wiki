@@ -1,0 +1,31 @@
+#right(){&furigana()&furigana()【登録タグ:&tags()】}
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[MAGIC THEATER]]|CENTER:&bold(){VIRTUAL}|CENTER:-|
+
+|&bold(){[[トラP]]}|
+
+
+||CENTER:即売|CENTER:同人|
+|発売|CENTER:2009年11月15日|CENTER:2009年12月5日|
+|価格|CENTER:￥300|CENTER:￥420（税込）|
+|サークル|>|CENTER:NoMode|
+
+**CD紹介
+-THE VOC@LOiD M@STER 10で頒布された2曲入りシングル。
+-各曲のカラオケ版を収録した合計4トラック。
+-盤面フルカラーレーベルCD-RにクリアPケース、カラー4Pブックレット付属。
+-[[とらのあな>http://www.toranoana.jp/mailorder/article/04/0010/20/26/040010202639.html]]でも頒布開始。
+
+**曲目
+&nicovideo(http://www.nicovideo.jp/watch/sm8796091)
++[[Virtual]]
++リロード
++Virtual（カラオケ版）
++リロード（カラオケ版）
+
+**リンク
+-[[作者ホームページ>>http://nm.f-sp.net/]]
+
+
+**コメント
+#comment

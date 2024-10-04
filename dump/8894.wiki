@@ -1,0 +1,31 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/070_20091225195252_0240_0240.jpg)
+
+|&bold(){[[iTunes Store で購入する>>http://itunes.apple.com/jp/album/future-single/id328165477]]}|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Synthesis>Synthesis/CD]]|CENTER:&bold(){future}|CENTER:[[Another Dimensions]]|
+
+|&bold(){[[Tripshots]]}|
+
+発売：2009年8月31日
+価格：￥150
+流通：配信
+レーベル：KarenT（クリプトン・フューチャー・メディア） 
+
+**CD紹介
+-ミク2周年を記念して発表された、[[Tripshots]]氏のシングルEP。
+-この曲はニコニコ動画には投稿されておらず、PVは存在しない。
+-アップテンポで重厚なトランスの音を存分に堪能して欲しい。
+
+**曲目
++future （feat. 初音ミク）
+
+**リンク
+-[[作者HP>>http://www.tripshots.net/]]
+-[[KarenT：「future」>>http://karent.jp/album/70]]
+-[[KarenT：「初音ミク 2nd anniversary」特集ページ>>http://karent.jp/special/miku09]]
+
+
+**コメント
+#comment

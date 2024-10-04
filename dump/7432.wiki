@@ -1,0 +1,118 @@
+#right(){&furigana(IO)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(http://www.nicovideo.jp/watch/sm8928343)|
+作詞：[[temporu]]
+作曲：[[temporu]]
+編曲：[[temporu]]
+イラスト：[[siois]]（[[piapro>>http://piapro.jp/content/g1uizsguvaa9g22a]]）
+唄：[[巡音ルカ]]
+
+**曲紹介
+曲名：『&u(){I/O}』
+-temporu氏の11作目。
+-全体的に音圧が凄まじくてかっこいいフロアサウンド。
+
+**歌詞
+Take a rest if tired
+Take a rest if tired
+Please response to riot
+Please response to riot
+
+Light of the diode
+Light of the diode
+One fate is to I/O（I/O）
+Two fate is to I/O
+
+Take a rest if tired
+Take a rest if tired
+Please response to riot
+Please response to riot
+
+Light of the diode
+Light of the diode
+Three fate is to I/O（I/O）
+Four fate is to I/O
+
+Take a rest if tired
+Take a rest if tired
+Please response to riot
+Please response to riot
+
+Light of the diode
+Light of the diode
+Five fate is to I/O（I/O）
+Six fate is to I/O
+
+Take a rest if tired
+Take a rest if tired
+Please response to riot
+Please response to riot
+
+Light of the diode
+Light of the diode
+Seven fate is to I/O（I/O）
+Eight fate is to I/O
+
+下がり始める体温
+ニャーと鳴いたライオン
+響き渡らす低音
+いつかはなるさ快音
+決められていた採用
+仮定まみれの対応
+好きになれたら内容
+静かなときを待望
+吐息が絡む最期
+訪れた機を開放
+それでも巡る愛を
+崩れかかる願いを
+
+Take a rest if tired
+Take a rest if tired
+Please response to riot
+Please response to riot
+
+Light of the diode
+Light of the diode
+Nine fate is to I/O（I/O）
+Ten fate is to I/O
+
+Take a rest if tired
+Take a rest if tired
+Please response to riot
+Please response to riot
+
+Light of the diode
+Light of the diode
+Eleven fate is to I/O（I/O）
+Twelve fate is to I/O
+
+Take a rest if tired
+Take a rest if tired
+Please response to riot
+Please response to riot
+
+Light of the diode
+Light of the diode
+Thirteenth fate is to I/O（I/O）
+Fourteenth fate is to I/O
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+**コメント
+- これは良曲  -- 名無しさん  (2009-11-28 16:57:06)
+- やべえ、聞く程深い。ルカがメインだが、一部でミク、リン、レンも歌ってくれる贅沢な曲 ジャンル的にも大好きです  -- 午後の緑茶  (2010-05-28 00:00:03)
+- この曲は神曲だと思う（迫真  -- きんぴらごぼう  (2011-01-09 18:20:40)
+- すごくいい曲  -- なまえ  (2014-12-24 17:17:30)
+- ニャーの意外性にやられました  -- 名無しさん  (2016-06-06 18:14:54)
+- リピートしたい  -- 名無しさん  (2017-12-29 13:35:39)
+- 英語も日本語の歌詞も好きです  -- 名無しさん  (2020-08-09 21:31:42)
+#comment()
+
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)

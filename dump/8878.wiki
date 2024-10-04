@@ -1,0 +1,43 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+
+&ref(a color linking you me with the world.jpg)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm9464227)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){a color linking (me/you) with the world}|CENTER:-|
+
+|&bold(){[[uzP]]}|
+
+||CENTER:即売|CENTER:同人|
+|CENTER:発売|CENTER:2010年2月7日|CENTER:|
+|CENTER:価格|CENTER:\500|CENTER:|
+|CENTER:サークル|>|僕と君と音楽と|
+
+**CD紹介
+- uzP待望の1stアルバム。THE VOCALOID MASTER 11で発表された。
+- 全曲オケを作り替えており、ニコニコ動画とはかなり異なる曲もある。
+- 全曲についての一言解説がブログに記載されている。
+- 紙ジャケットは5色用意されており、頒布当日は購入者が好きな色を選ぶことが出来た。CDの中身は全部一緒。
+- 現在、個人通販が行われている。ブログに記載されている氏のメールアドレスに連絡を入れると、uzP本人が対応してくれる。
+
+**曲目
++この世界の下で(新曲)
++[[Sweet Sweet Cendrillon Drug]]
++[[きみのそばに]]
++夢と君(新曲)
++[[ruin]]
++[[Blackout]]
++[[Overdrive]]
++[[千日草]]
++[[僕と世界をつなぐ色]]
++[[ふたつ >> futatsu]]
++[[青い花]]
+
+**リンク
+- [[作者ブログ>>http://uzuzuz.seesaa.net/]]
+- [[ブログ中のCD詳細記事>>http://uzuzuz.seesaa.net/article/140093386.html]]
+
+**コメント
+- ああ！ほしい！！  -- 名無しさん  (2013-08-14 21:28:58)
+#comment

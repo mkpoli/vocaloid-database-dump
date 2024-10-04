@@ -1,0 +1,40 @@
+#right(){&furigana(あべけんのにちようびのあさ。)&furigana()【登録タグ:&tags()】}
+&ref(http://karent.jp/npdca/256_20100320091347_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[日本語を練習中の巡音ルカが「花のかをり」を練習中！]]|CENTER:&bold(){阿部犬の日曜日のあさ。}|CENTER:[[DYE_2]]|
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/id364190648]]}|
+
+|&bold(){[[AVTechNO]]}|
+
+媒体：配信
+発売：2010年4月1日
+価格：￥300
+レーベル：KarenT
+作詞・作曲：&bold(){[[AVTechNO]]}
+イラスト：&bold(){[[和音>>http://www.pixiv.net/member.php?id=5519]]}
+
+**CD詳細
+-これまでに発表した6曲をノンストップで繋げたアルバム（のようなもの）。
+-アルバムタイトル通り、日曜の朝にまったり聴くような、爽やかな曲を詰め合わせている。
+-2010年4月1日よりKarenTレーベルから各音楽配信サイトにて配信されている。
+-全曲リマスタリングされており、所々アレンジを調整している模様。
+-イラストは毎度おなじみ「[[和音>>http://piapro.jp/dot37]]」氏が手がけている。
+-AVTechNO氏は今後こういった趣向の楽曲をシリーズ化する構想を自サイトで語っている。
+
+***曲目
++AVDog-01 （feat. 初音ミク&巡音ルカ）
++-[[i love loop / 単調>I Love Loop ／ 単調]] （feat. 初音ミク）
++-[[たまにわ。]] （feat. 初音ミク）
++-[[DYE / SAKURA>DYE／SAKURA]] （feat. 巡音ルカ）
++-[[ORANGE NEL>NELNELNEL]] （feat. 巡音ルカ）
++-[[日本語を練習中の巡音ルカが「花のかをり」を練習中！]] （feat. 巡音ルカ）
++-[[Blue / Green>Blue／Green]] （feat. 初音ミク）
+
+**リンク
+-[[KarenT>>http://karent.jp/album/256]]
+-[[作者サイト>>http://avtechno.ukime.org/]]
+
+**コメント
+#comment()

@@ -1,0 +1,29 @@
+#right(){&furigana()&furigana(ぼのりす)【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/4675125" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"></iframe><a target="_blank" href="http://www.nicovideo.jp/mylist/4675125">【ニコニコ動画】</a>)
+
+**特徴
+-2009/10に「[[月夜ノ森]]」で衝撃的なボカロデビューを果たした、これからの活動を期待される新鋭。
+-オリジナルは「[[月夜ノ森]]」が初投稿だが、数年前からDTMは趣味でやっていたので音作りには定評がある。
+-作者曰く「浅倉大介」や「岡村靖幸」の音楽性に影響を受けてるとのこと。
+
+**リンク
+-[[ボノリスノブログ（作者ブログ）>>http://bonorisu.blog17.fc2.com/]]
+-[[PIAPRO>>http://piapro.jp/bonorisu]]
+
+**曲
+#list_by_tag(ぼのりす,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(ぼのりすCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/nm8440582)|&nicovideo(http://www.nicovideo.jp/watch/nm8770602)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm8770750)|&nicovideo(http://www.nicovideo.jp/watch/nm9056569)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm9868747)|&nicovideo(http://www.nicovideo.jp/watch/nm9868914)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm10053514)|&nicovideo(http://www.nicovideo.jp/watch/nm10053992)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm10054088)|&nicovideo(sm12626383)|
+
+**コメント
+- 作者ページが無かったようなので突貫ですが作成しました。  -- 名無しさん  (2009-11-23 03:10:49)
+- ぼのりすっていう名前はミク曲の前にぼのぼのとシマリスくんにウマウマさせた動画上げてたからかなｗ  -- 名無しさん  (2009-11-29 23:44:55)
+#comment()

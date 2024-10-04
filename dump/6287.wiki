@@ -1,0 +1,47 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/411_20100611031856_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Memories of love]]|CENTER:&bold(){Metallized World}|CENTER:[[二人のX'mas Night]]|
+
+|&bold(){[[ROY]]}|
+
+||CENTER:即売|CENTER:同人|CENTER:配信|
+|発売|CENTER:2009年9月6日|2009年10月|CENTER:2010年7月31日|
+|価格|CENTER:￥1,000|CENTER:￥1,470（税込）|CENTER:￥1,200 / 1曲￥150|
+|サークル|CENTER:Roy's Metallized World|CENTER:ROY||
+|レーベル|>|CENTER:-|CENTER:KarenT|
+
+**CD紹介
+-がくっぽいどオリジナル様式美ヘヴィメタルフルアルバム。
+-未発表新曲3曲、未発表アレンジ1曲を含む全11曲を収録。
+-8Pフルカラーブックレット付き。
+-ジャケット・盤面デザイン：Zion
+-ブックレット・バックインレイ・オビデザイン:藤代叶
+-THE VOC@LOiD M@STER 9（ボーマス9）で頒布後、とらのあなで委託販売が行われていた。
+-2010年のがくっぽいど発売2周年記念にKarenTレーベルよりダウンロード販売が開始された。
+
+**クロスフェードデモ
+&nicovideo(http://www.nicovideo.jp/watch/sm8038979)
+
+**曲目
++[[Metallized World]]
++[[Searching For My Dreams]]
++[[Last Song>Last Song/ROY]]
++Rain
++[[Stay By My Side]](Gackpoid Ver.)
++[[Endless Nightmare>Endless Nightmare/ROY]]
++[[The Gambler]]
++[[Cry for you]]
++[[In The Name Of God]]
++Broken Glass
++[[Daybreak>Daybreak/ROY]]
+
+**リンク
+-[[作者ブログ>>http://roymetalnasu.blog23.fc2.com/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/19/90/040010199003.html]]
+-[[KarenT：「Metallized World」>>http://karent.jp/album/411]]
+-[[KarenT：「がくっぽいど2周年記念祭」特集ページ>>http://karent.jp/special/gackpoid10]]
+
+**コメント
+#comment

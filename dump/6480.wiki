@@ -1,0 +1,43 @@
+#right(){&furigana(はちがつさんじゅういちにち／こじょう) &furigana()【登録タグ:&tags() 】}
+//#image(http://k-kei.versus.jp/zeghed/c76_bn.gif,http://k-kei.versus.jp/zeghed/,title=八月三十一日/湖城,blank)
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186105910.jpg,x=300,y=300)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[crystaL（クリスタエル）]]|CENTER:&bold(){八月三十一日/湖城}|CENTER:&bold(){[[星の飛行船]]}|
+
+|&bold(){[[クリスタルP]]}|
+
+||CENTER:即売|CENTER:同人|
+|発売|CENTER:2009年8月15日|CENTER:2009年9月2日|
+|価格|CENTER:￥980|CENTER:￥1,050(税込)|
+|サークル|>|CENTER:zegHed Label|
+
+作詞・作曲：&bold(){[[クリスタルP]]}
+イラスト：&bold(){Toshi(8pun),Moe Wakakohime(Rump)}
+
+**CD紹介
+-クリスタルP、初のVOCALOID両A面シングル。C76にて初頒布された。
+-調声協力として、前回と同様bestgt氏が参加している。
+-また、4曲目の『crystal mic - another dream "pf" remix -』ではクリスタルPの旧友であるtakumaru氏がリミックスを手掛けている。
+-アルバム特設ページより、クロスフェードデモの試聴ができる。
+
+**曲目
++八月三十一日
++[[湖城]]
++circular
++[[crystal mic]] - another dream "pf" remix -
++八月三十一日 (LENless)
++湖城 (MAINless)
++circular (LENless)
++crystal mic - another dream "pf" remix - (MAINless)
+ 
+**リンク
+-[[アルバム『八月三十一日/湖城』特設ページ>>http://k-kei.versus.jp/zeghed/0012_tokusetupage_0801.html]]
+-[[作者ホームページ>>http://k-kei.versus.jp/]]
+
+
+**コメント
+- ほしいんですけどーーーーーーーーーーーーーーーーー  -- るるか  (2011-04-07 17:26:11)
+- これは良いCDだった！！！  -- 名無しさん  (2014-12-20 12:49:16)
+#comment

@@ -1,0 +1,32 @@
+#right(){&furigana(clear)&furigana()【登録タグ:&tags()】}
+&ref(http://karent.jp/npdca/180_20100113083336_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[NELNELNEL]]&br()[[創造]]|CENTER:&bold(){For example}|CENTER:[[DYE>DYE/AVTechNO]]|
+
+|&bold(){[[AVTechNO]]}|
+
+媒体：配信
+発売：2010年1月30日
+価格：￥150
+レーベル：KarenT
+作詞・作曲：&bold(){[[AVTechNO]]}
+イラスト：&bold(){[[和音>>http://www.pixiv.net/member.php?id=5519]]}
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/for-example-single/id351073540]]}|
+
+**CD紹介
+-ルカ生誕1周年を記念してKarenTレーベルより配信された、AVTechNO氏のシングル。
+-動画投稿はされていない。
+
+**曲目
++For example （feat. 巡音ルカ）
+
+**リンク
+-[[KarenT：『For example』>>http://karent.jp/album/180]]
+-[[KarenT：「巡音ルカ聖誕祭'10」特集ページ>>http://karent.jp/special/luka10]]
+
+**コメント
+- 凄く格好良いなこれ  -- 名無しさん  (2013-10-26 06:58:21)
+- DYEの裏に隠れた名曲  -- 名無しさん  (2015-02-01 20:00:14)
+#comment()

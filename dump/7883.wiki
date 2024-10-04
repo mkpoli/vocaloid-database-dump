@@ -1,0 +1,55 @@
+#right(){&furigana(HIDAKA)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/8065711" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/8065711">【ニコニコ動画】HIDAKA's works</a></iframe>)|&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/25159012" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/25159012">【ニコニコ動画】HIDAKA's works 2</a></iframe>)|
+
+**特徴
+作り手名：『&u(){HIDAKA}』
+-「[[ON YOUR MARK]]」でボカロデビュー。
+-曲を作る時は基本的に曲だけ作り、歌詞をピアプロで公募して作品を創り上げている。
+-使用しているボカロはミク・リン・レン・ルカ。使用頻度はリン廃なのでリン多め。
+-「[[forever if made]]」はぼからんのEDにも採用されたことがある隠れた名曲。
+
+**リンク
+-[[ニコニコ>>https://www.nicovideo.jp/user/4665476]]
+-[[YouTube>>https://www.youtube.com/@hidaka8634]]
+-[[Twitter>>https://x.com/hidaka1122]]
+//-[[すまいるぷり～ず！（作者ブログ）>>http://smileplease01.blog86.fc2.com/]]
+//-[[ピアプロ>>https://piapro.jp/hidaka1122]]
+//-[[にゃっぽん>>http://v-nyappon.net/?m=pc&a=page_f_home&target_c_member_id=5663]]
+
+**曲
+#list_by_tag(HIDAKA,100,sort=furigana)
+
+**CD
+#list_by_tag(HIDAKACD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm3547623)|&nicovideo(sm3568342)|
+|&nicovideo(sm4251638)|&nicovideo(sm4344277)|
+|&nicovideo(sm4665972)|&nicovideo(sm4926013)|
+|&nicovideo(sm5170244)|&nicovideo(sm5341279)|
+|&nicovideo(sm5369999)|&nicovideo(sm5629332)|
+|&nicovideo(sm5939912)|&nicovideo(sm5995233)|
+|&nicovideo(sm6003534)|&nicovideo(sm6218982)|
+|&nicovideo(sm6290818)|&nicovideo(sm6378915)|
+|&nicovideo(sm6652552)|&nicovideo(sm6744822)|
+|&nicovideo(sm6936419)|&nicovideo(sm7208280)|
+|&nicovideo(sm7218077)|&nicovideo(sm7679241)|
+|&nicovideo(sm7818016)|&nicovideo(sm7818072)|
+|&nicovideo(sm7880413)|&nicovideo(sm8018866)|
+|&nicovideo(sm8087811)|&nicovideo(sm8492772)|
+|&nicovideo(sm9230614)|&nicovideo(sm9230877)|
+|&nicovideo(sm9230899)|&nicovideo(sm9230925)|
+
+**コメント
+- どこか心が温かくなるような曲調、大好きです  -- 名無しさん  (2010-01-01 04:09:13)
+- HIDAKAさんはもっと評価されるべきお方だと思います！  -- 名無しさん  (2011-05-09 07:38:23)
+- ジャンル問わずに曲作りなされる技能は本物！！ もっと伸びてほしいです！ 知らないと損します！(笑)  -- 名無しさん  (2011-05-09 07:45:03)
+- HIDAKAさんがたまに書かれる、時にあたたかく…そして時に考えさせられるような、そんな詞にも注目です！  -- 通りすがりの○○○○←  (2011-05-09 07:50:15)
+- 何故伸びない！このお方！もっと広めないといけませんね！  -- 名無しさん  (2011-08-26 19:28:20)
+//- カナリアメモリーがない！！！  -- 名無しさん  (2011-08-26 21:54:42)
+//- 恐らく ｢鶯｣ 辺りからないですね。どうか、更新ぷり〜ず！(笑)  -- 名無しさん  (2011-08-27 20:46:27)
+#comment()

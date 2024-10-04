@@ -1,0 +1,38 @@
+#right(){&furigana(みきゅーーーん！) &furigana()【登録タグ:&tags() 】}
+//&ref(http://www.studiosatuki.com/guunone/img/gncd4.jpg)
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186112942.jpg,x=300,y=300)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){ミキューーーン！}|CENTER:[[バブルガムミミック！！]]|
+
+|&bold(){[[さつき が てんこもり]]}|&b(){[[ラマーズP]]}|&b(){[[かめりあ]]}|
+
+||CENTER:即売|CENTER:同人|
+|発売|2010年5月9日|-|
+|価格|CENTER:￥1,000|CENTER:￥-|
+|サークル|>|CENTER:ぐうのねサウンズ|
+
+>ジャケットイラスト・デザイン：&b(){[[しょくにく>>http://shokuniku.blog40.fc2.com/]]}
+
+**CD紹介
+-「ふぁみまみま～」の作曲者として知られる「さつき が てんこもり」と、「ラマーズP」とがタッグを組んで発表するスプリット・アルバム。
+- 5/5のM3、5/9のボーマス12で頒布される。
+
+**曲目
++さつき が てんこもり - [[ウインク・トランジ・スター]]
++ラマーズP - [[＊＊ぽ]]
++さつき が てんこもり - [[チョコレートは人体に対してこんなにも危険！]]
++ラマーズP - commenter
++さつき が てんこもり - [[STOMP THE ENEMY]]
++かめりあ feat. ラマーズP - [[好きすぎて>>http://www24.atwiki.jp/utauuuta/pages/2888.html]](ミキューーーン！Remix)
+
+**リンク
+-[[CD紹介>>http://www.studiosatuki.com/guunone/]]
+-[[クロスフェードデモ>>http://www.studiosatuki.com/guunone/mikyun_CF.mp3]]
+
+**コメント
+- すごく良かった  -- 名無しさん  (2010-05-07 16:23:02)
+- リンクが間違ってね？誰か修正頼む！！  -- 名無しさん  (2010-07-07 12:42:23)
+- 直してみた  -- 名無しさん  (2010-07-07 13:38:21)
+#comment

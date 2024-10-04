@@ -1,0 +1,41 @@
+#right(){&furigana(Caz)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/15802367" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/15802367">【ニコニコ動画】</a></iframe>)
+
+**特徴
+作り手名：『&u(){Caz}』
+-2009/10/28、Project DIVA-AC 企画に投稿した「[[Heartless Moment]]」でボカロデビュー。
+-疾走感のあるカッコいいメタルロックに定評がある。
+-使用ボカロは今のところミク・ルカ。
+-今後の活動が期待される製作者の一人である。
+-遂に「[[Corruption Garden]]」が自身初の殿堂入りを果たす。
+
+**リンク
+-[[Cazの頼むよ初音さん（作者ブログ）>>http://blog.livedoor.jp/caz_music/]]
+-[[tumblr>>https://caz-03.tumblr.com/]]
+-[[PIAPRO>>https://piapro.jp/kazmetal]]
+-[[Twitter>>https://mobile.twitter.com/Caz_01]]
+-[[KarenT>>https://karent.jp/artist/pp000258]]
+
+**曲
+#list_by_tag(Caz,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(CazCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(nm8644183)|&nicovideo(sm8835360)|
+|&nicovideo(sm9104595)|&nicovideo(sm9220176)|
+|&nicovideo(sm9355254)|&nicovideo(sm9829636)|
+|&nicovideo(sm10710500)|>|
+
+**コメント
+- こうして曲を並べてると魔女っ子ルカちゃんシリーズがものすごい浮いてるｗｗｗ  -- 名無しさん  (2011-06-25 07:39:49)
+- Cazさんの曲全部好きだ  -- ピボット  (2011-08-16 04:35:40)
+- 俺の一番好きなボカロＰ  -- 名無しさん  (2011-09-28 21:23:47)
+- アルバムは出さないのかな？  -- 重いんだけど優しさがある曲が好きな一般people  (2013-03-19 18:53:35)
+- このひとあるてまのべーしすとってきいたんですがほんとうですか？  -- 名無しさん  (2014-09-24 12:53:28)
+#comment()

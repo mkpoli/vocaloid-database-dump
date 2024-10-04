@@ -1,0 +1,63 @@
+#right(){&furigana(はやかわP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/15314836" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/15314836">【ニコニコ動画】UP作品</a></iframe>)
+
+**特徴
+作り手名：『&u(){ハヤカワP}』
+-2009年10月9日から10日にかけて、ほぼ同時に4曲を投稿して注目を集めた期待の新人、あるいは新人でない何か。
+--2009年11月23日には3曲をほぼ同時に投稿して再び注目を集めた。
+--2010年1月には新春連続UPとして5～8日にかけて4曲を投稿している。
+--2010年12月27日と2011年1月8～10日、立て続けに4曲を投稿。これらの楽曲は笹本祐一のSF小説『妖精作戦』シリーズのオマージュとして制作された。
+--2011年5月26日、「少女シリーズ」と題した3曲を連続投稿。20011年7月22～24日、「少女シリーズ」第二期として再び3曲を連日投稿。
+-作詞、作曲、編曲、演奏全てを一人でこなす（PIAPROより）。
+-古き良きSFを愛し、ハードSFも同じく愛しています（同上）。
+-アーティスト名は &bold(){Plutonius} 。座右の銘は&b(){野に咲くアマ}。
+
+**リンク
+-[[ニコニコ>>https://www.nicovideo.jp/user/1525541]]
+-[[PIAPRO>>https://piapro.jp/yoccoy]]
+-[[KarenT>>https://karent.jp/artist/pp000228]]
+//-[[ハヤカワ・ラボ（作者ブログ）>>http://hayakawalabo.otaden.jp/]]
+//-[[ブロマガ>>https://ch.nicovideo.jp/hayakawaP]]
+-[[note>>https://note.com/plutonius]]
+-[[UTAU楽曲データベース「ハヤカワP」ページ>>https://www24.atwiki.jp/utauuuta/pages/1730.html]]
+
+**曲
+#list_by_tag(ハヤカワP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(ハヤカワPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(nm8466294)|&nicovideo(nm8466590)|
+|&nicovideo(nm8467168)|&nicovideo(nm8467359)|
+|&nicovideo(sm8570043)|&nicovideo(sm8897060)|
+|&nicovideo(sm8897283)|&nicovideo(sm8998895)|
+|&nicovideo(sm9300002)|&nicovideo(sm9310150)|
+|&nicovideo(sm9319118)|&nicovideo(sm9330077)|
+|&nicovideo(sm9977631)|&nicovideo(sm10863312)|
+|&nicovideo(sm11299048)|&nicovideo(sm11367569)|
+|&nicovideo(sm11431661)|&nicovideo(sm12260938)|
+|&nicovideo(sm12567156)|&nicovideo(sm13716402)|
+|&nicovideo(sm14205393)|&nicovideo(sm14639128)|
+|&nicovideo(sm15954363)|&nicovideo(sm15987636)|
+|&nicovideo(sm16118350)|&nicovideo(sm16500993)|
+|&nicovideo(sm16539784)|>|
+-&b(){妖精作戦tribute}
+|&nicovideo(sm13145512)|&nicovideo(sm13254071)|
+|&nicovideo(sm13263049)|&nicovideo(sm13274204)|
+-&b(){少女シリーズ}
+|&nicovideo(sm14564593)|&nicovideo(sm14564710)|
+|&nicovideo(sm14564860)|&nicovideo(sm15090846)|
+|&nicovideo(sm15098521)|&nicovideo(sm15107170)|
+-&b(){カバー曲}
+|「[[宵闇のアウグスティン]]」&br()&nicovideo(sm8897455)|
+
+**コメント
+- ハヤカワP、大好きです!!  -- 名無しさん  (2013-06-17 22:04:45)
+- 隠れた天才  -- 名無しさん  (2021-06-10 21:03:38)
+- 天才なんだとは思う。SNSで宣伝してればきちんとした評価されていただろうに。売る気が無さすぎる。  -- 名無しさん  (2024-03-26 08:26:51)
+#comment()

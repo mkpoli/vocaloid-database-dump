@@ -1,0 +1,64 @@
+#right(){&furigana(i love loopたんちょう)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo(http://www.nicovideo.jp/watch/nm8577972)
+作詞：[[AVTechNO]]
+作曲：[[AVTechNO]]
+編曲：[[AVTechNO]]
+唄：[[初音ミク]]
+
+**曲紹介
+曲名：『&u(){i love loop ／ 単調}』(&u(){i love loop ／ たんちょう})
+-「[[I Love Loop]]」からリメイクされ、1曲をじっくり聴き込む仕様になっている。
+-ボーカルもルカからミクに変更されている。
+
+**KarenT配信
+&ref(http://karent.jp/npdca/088_20091225200729_0240_0240.jpg)
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/i-love-loop-tanchou-single/id334652108]]}|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[CORE>CORE/AVTechNOCD]]|CENTER:&bold(){I love loop / 単調}|CENTER:[[冬のさくら。]]|
+-&bold(){[[KarenTレーベル>>http://karent.jp/album/88]]}より有料配信が行われている。1曲のみで￥150。 
+作詞・作曲：&bold(){[[AVTechNO]]}
+イラスト：&bold(){[[和音>>http://www.pixiv.net/member.php?id=5519]]}
+
+**歌詞
+いつまでも繰り返す　止めることができないもの
+満たされるまでずっと　何度でも繰り返すLOOP
+気づかないだけで誰もが　選んでいるのはLOOP
+自然に受け入れてる　名もないLOOPのすべてを
+繰り返すことのできない　ものには何かが足りない
+だからLOOPできるものは　最高の贈り物だから・・・。
+
+いつも僕のすぐそばに...　いつも僕のすぐとなり...
+何処で生まれてくるのか...　誰も...僕も知らないよ。
+
+自然に流れてくる　Melodyが僕をつつむ・・・。
+
+止めることができない　それともそうさせているの？
+どのみちとめる事はないけれど　不思議なLOOP
+誰でもひとつはある　特別なときのLOOP
+繰り返すことですべて　思いのままにいくLOOP
+
+いつでも胸の中で　繰り返しているLOOP
+満たされ続けている　これ以上何も要らないよ。
+忘れられないものも　LOOPの力ですべて
+気がつけば今の僕は　LOOPで支えられている
+誰もが欲しがる“LOOP”　世界にひとつだけの“LOOP”
+そのひとつを君にあげる　僕の“大切”なLOOPを・・・。
+
+君も一度くらいだけ　僕のLOOPを聴いてよ。
+君の特別なLOOPを　僕にも聴かせて欲しいよ...
+
+終わりが始まりに聴こえたら　とめられない・・・。
+
+一度でも耳にしたら　やめられないほどのLOOP
+僕だけのものじゃなくて　誰でも聴けるようなLOOP
+世界が望むLOOPを　作りだせるのはLOOP
+自然に流れてくる　それが本当のLOOPの姿...。
+
+
+**コメント
+#comment()

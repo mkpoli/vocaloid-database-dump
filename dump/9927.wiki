@@ -1,0 +1,31 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/283_20100415040952_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Neko seT}|CENTER:[[A+D SENSATION ]]|
+
+|&bold(){[[daniwell]]}|
+
+発売：2010年5月7日
+価格：￥300 / 1曲￥150
+流通：配信
+レーベル：KarenT
+ジャケットイラスト：daniwell
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/neko-set-single/id368943922]]}|
+
+**CD紹介
+>カフェオレ片手にねこポップ。
+
+-daniwell氏初の配信シングル。
+-ポップでネコがテーマの2曲が収録された作品。
+
+**曲目
++[[ねこみみスイッチ]] （feat. 初音ミク）
++[[子猫は独り遥か雪に埋もれてわたしを見つめる　脱４畳半mix>子猫は独り遥か雪に埋もれてわたしを見つめる]] （feat. 初音ミク）
+
+**リンク
+-[[KarenT：「Neko seT」>>http://karent.jp/album/283]]
+
+**コメント
+#comment

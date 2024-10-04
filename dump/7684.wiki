@@ -1,0 +1,35 @@
+#right(){&furigana(はんとりすとP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/5025886" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/5025886">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-もともとギター・バイオリン奏者。
+-絵の才能もあり、背景画を自ら描くことも多い。
+-メロディーライン・歌詞・動画いろいろな意味で危険な作風。
+-P 名の由来は『パンドラの箱』から。
+-別名ミナツキトーカ。
+-波音リツ(UTAU)製作にもかかわっている。リツの作品は[[こちら>>http://www24.atwiki.jp/utauuuta/pages/481.html]]。
+
+**リンク
+-[[作者ブログ>>http://corvorex.seesaa.net/]]
+-[[Twitter>>https://twitter.com/toka_minatsuki]]
+-[[PIAPRO>>http://piapro.jp/corvorex]]
+-[[UTAU楽曲データベース - パンドリストP>>http://www24.atwiki.jp/utauuuta/pages/481.html]]
+-[[KarenT>>http://karent.jp/artist/pp000079]]
+-[[YouTube>>http://www.youtube.com/user/minatsukitoka]]
+
+**曲
+#list_by_tag(パンドリストP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(パンドリストPCD,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm6276806)|&nicovideo(http://www.nicovideo.jp/watch/sm7681014)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6374788)|&nicovideo(http://www.nicovideo.jp/watch/sm9065667)|
+
+**コメント
+- 今回のハンマーアレンジも良かった。ほんと多芸だなこの人  -- 名無しさん  (2009-12-13 23:22:15)
+- EFBもこの人かｗ多芸だな  -- 名無しさん  (2009-12-14 10:38:33)
+- どうしてパンドラの箱　がないの？  -- 名無しさん  (2010-12-31 11:47:52)
+#comment()

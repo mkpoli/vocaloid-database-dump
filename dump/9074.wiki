@@ -1,0 +1,51 @@
+#right(){&furigana()&furigana()【登録タグ:&tags()】}
+&ref(http://karent.jp/npdca/173_20100112075024_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[CHOM-P BEST TRAX!]]|CENTER:&bold(){Bitter Amp.}|CENTER:[[眩壊グレイアウト]]&br()[[ゼンカイブレイクアウト]]|
+
+|&bold(){[[ちょむP]]}|
+
+||CENTER:即売|CENTER:同人|CENTER:配信|
+|発売|CENTER:2009年12月30日|CENTER:2010年1月25日|CENTER:2010年1月30日|
+|価格|CENTER:￥1,000|CENTER:￥1260（税込）|CENTER:￥900 / 1曲￥150|
+|サークル|>|>|CENTER:ちょむ工房|
+|レーベル|>|CENTER:-|CENTER:KarenT|
+|名義|||CENTER:[[TakeponG>>http://karent.jp/artist/pp000016]]|
+
+|&bold(){[[とらのあなで購入する>>http://www.toranoana.jp/mailorder/article/04/0010/20/97/040010209723.html]]}|
+|&bold(){[[D-STAGEで購入する>>http://d-stage.com/shop/detail.php?seq=12994]]}|
+|&bold(){[[メロンブックスで購入する>>http://shop.melonbooks.co.jp/shop/detail/213001006238?LIVRET=off]]}|
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/bitter-amp-s/id391724144]]}|
+
+**CD紹介
+-「[[ちょむP]]」7作目のVOCALOIDアルバム。
+-巡音ルカがメインの7曲とそのカラオケ版の、合計14曲を収録。
+-コミックマーケット77でCD初頒布。
+-続いてKarenTレーベルより、ルカ生誕1周年の日にダウンロード販売を開始した。&br()当初はCD版と同じ内容で￥1,500となっていたが、『[[眩壊グレイアウト S>眩壊グレイアウト]]』の配信開始のタイミングでoff vocalトラックを除いた全7曲構成の『&bold(){Bitter Amp. S}』に変更された。
+
+**曲目
++Stella (feat. 巡音ルカ)
++LIFE TIDE (feat. 巡音ルカ)
++レヴァルシー (feat. 巡音ルカ)
++エチカ (feat. 巡音ルカ)
++ユキバナノウタ (feat. 巡音ルカ)
++アトモライツ (feat. 巡音ルカ)
++[[ためいきひとつ]] (feat. 巡音ルカ)
++Stella (off vocal)
++LIFE TIDE (off vocal)
++レヴァルシー (off vocal)
++エチカ (off vocal)
++ユキバナノウタ (off vocal)
++アトモライツ (off vocal)
++ためいきひとつ (off vocal)
+
+**リンク
+-[[ちょむ工房（作者サイト）>>http://chomstudio.com/]]
+-[[作品ページ>>http://chomstudio.com/products/33_bitter.html]]
+-[[KarenT：『Bitter Amp. S / TakeponG』>>http://karent.jp/album/173]]
+-[[KarenT：『TakeponG』>>http://karent.jp/artist/pp000016]]
+-[[KarenT：『巡音ルカ聖誕祭'10』特集ページ>>http://karent.jp/special/luka10]]
+
+**コメント
+#comment

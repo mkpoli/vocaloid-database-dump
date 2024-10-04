@@ -1,0 +1,30 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/074_20091225195454_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Virtual Songs]]|CENTER:&bold(){Survivor -Manual Edit Ver.-}|CENTER:[[ユメロケッツ-Remix-]]|
+
+|&bold(){[[杏あめ>杏あめ（匿名希望の東京都在住）]]}|
+
+発売：2009年8月31日
+価格：￥300、1曲￥150
+流通：配信
+レーベル：KarenT
+
+|&b(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/survivor-manual-edit-single/id328300685]]}|
+
+**CD紹介
+-初音ミク生誕2周年を記念して、新たにリリースされた「SURVIVOR」の新バージョン。
+-「Manual Edit Ver.」というのは、通常のボーカロイドエディターのみで編集を行ったものである。
+
+**曲目
++[[Survivor]] -Manual Edit Ver.-(feat. 初音ミク)
++Survivor -Off Vocal ver.-
+
+**リンク
+-[[作者ブログ>>http://anzutokumeikibou.blog96.fc2.com/]]
+-[[KarenT：「Survivor -Manual Edit Ver.-」>>http://karent.jp/album/74]]
+-[[KarenT：「初音ミク2nd Anniversary」特設サイト>>http://karent.jp/special/miku09]]
+
+**コメント
+#comment

@@ -1,0 +1,32 @@
+#right(){&furigana(ななつぼし) &furigana()【登録タグ:&tags() 】}
+//&ref(http://aquastream.web.fc2.com/nanatsu_s.jpg)
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186149130.jpg,x=300,y=300)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){七つ星}|CENTER:[[はいぱーかうんとだうん！>はいぱーかうんとだうん！/CD]]|
+
+|&bold(){[[初心P]]}|
+
+発売：2008年6月29日
+価格：￥300
+流通：即売
+サークル：aquastream
+
+**CD紹介
+-aquastream 1st CD
+-和風季節もの第一弾。
+-春と夏の曲が入っている。
+
+**曲目
++[[七つ星]]
++[[早春]]
++七つ星 -instrumental-
++早春 -instrumental-
++[[追想>追想/初心P]] -instrumental-
+
+**リンク
+-[[作者サイト（aquastream）>>http://aquastream.web.fc2.com/]]
+
+**コメント
+#comment

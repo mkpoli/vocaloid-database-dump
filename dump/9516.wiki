@@ -1,0 +1,15 @@
+#right(){&furigana()&furigana()【登録タグ:&tags()】}
+&nicovideo(http://www.nicovideo.jp/watch/nm10072785)
+作曲：[[SeikoP]]
+編曲：[[SeikoP]]
+唄：巡音ルカ
+
+**曲紹介
+-劇伴寄りニューエイジ。Caoin(キーン)はゲール語で哀悼、悲しみの意（←投稿者コメントより）
+-スローテンポでしっとり美しい。ただ悲しいだけでなく、それを包み込む優しさが感じられる。
+
+**歌詞
+
+
+**コメント
+#comment()

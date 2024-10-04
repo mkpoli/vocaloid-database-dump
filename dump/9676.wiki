@@ -1,0 +1,31 @@
+#right(){&furigana(clear) &furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm10409647)
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Know Title]]|CENTER:[[雷鳴アンプリファ/雷光サステイン>雷鳴アンプリファ／雷光サステイン]]&br()&bold(){Jericho 941}|CENTER:[[キミの色・ボクの音>キミの色・ボクの音/CD]]|
+
+|&bold(){[[雷鳴P]]}|
+
+発売：2010年5月9日 
+価格：￥300 
+流通：即売 
+サークル：Art Polyphony 
+
+**CD紹介
+-雷鳴PのシングルCD。『[[雷鳴アンプリファ/雷光サステイン>雷鳴アンプリファ／雷光サステイン]]』と同時に発表された。
+-THE VOC@LOiD M@STER 12（ボーマス12）で頒布。
+-[[東京都青少年健全育成条例の改正案>>http://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E9%83%BD%E9%9D%92%E5%B0%91%E5%B9%B4%E3%81%AE%E5%81%A5%E5%85%A8%E3%81%AA%E8%82%B2%E6%88%90%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E6%9D%A1%E4%BE%8B]]に異議を唱えた楽曲「[[思想クーデター]]」を含めた、全4曲を収録。
+-ボーカルは初音ミク・鏡音リン・巡音ルカ。
+
+**曲目
++Jericho 941 / 巡音ルカ
++[[思想クーデター]] / 初音ミク
++too Day's / 鏡音リン
++Virtual Voice Syndrome / 初音ミク（Append Dark）　&color(red){NEW!!}
+
+**リンク
+-[[作者HP>>http://papillon-mm.hp.infoseek.co.jp/]]
+-[[作者ブログ>>http://papillon0mm.blog15.fc2.com/]]
+-[[サークルHP>>http://art-polyphony.sakura.ne.jp/]]
+
+**コメント
+#comment

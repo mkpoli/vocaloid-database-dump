@@ -1,0 +1,28 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm6135862)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[PAIN]]|CENTER:&bold(){Infinity}|CENTER:[[STYLE.TUNE]]|
+
+|&bold(){[[SHUN]]}|
+
+発売：2009年2月22日
+価格：￥500
+流通：即売
+サークル：STYLE.S-TRIBE
+
+**CD紹介
+-THE VOC@LOiD M@STER 7（ボーマス7）で頒布されたSHUN氏のボーカロイドCD。
+
+**曲目
++Voice
++[[Think Hope]]
++Infinity
++Think Hope （vocal off）
++Infinity （vocal off）
+
+**リンク
+-[[STYLE.S（作者ホームページ）>>http://www.s-style.tv/wp/]]
+
+**コメント
+#comment

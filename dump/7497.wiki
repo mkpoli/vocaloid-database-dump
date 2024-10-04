@@ -1,0 +1,53 @@
+#right(){&furigana(いたる)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/10299796" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/10299796">【ニコニコ動画】</a></iframe>)
+
+**特徴
+作り手名：『&u(){いたる}』
+-元はイラスト畑の人で、レンを中心にイラストを投稿している人。
+-最近はPとしても活動を開始。絵も自前です。
+--使用VOCALOIDは当たり前のように鏡音レン。2012年からはOliverも使用するようになる。
+-楽曲製作当初はハウスのみだったが、最近はドラムンベースも作成するようになった。
+-ショタコン紳士でもあるので、レン廃紳士淑女のみで結成されたグループ、ユニット名「レン廃留置所」にも絵師として参加。
+
+**リンク
+-[[ピアプロ>>http://piapro.jp/itamatu]]
+-[[pixiv>>http://www.pixiv.net/member.php?id=7894]]
+
+**曲
+#list_by_tagsearch(いたる,sort=furigana2,errmsg=まだ曲が登録されていません。,and,100)
+
+**CD
+#list_by_tagsearch(いたるCD,sort=furigana2,errmsg=まだCDが登録されていません。,and,100)
+
+**動画
+|>|BGCOLOR(#A66):COLOR(#FFF):CENTER:&font(b,11pt){オリジナル曲}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5731096){360,123}|&nicovideo(http://www.nicovideo.jp/watch/sm6410017){360,123}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7182370){360,123}|&nicovideo(http://www.nicovideo.jp/watch/sm8458831){360,123}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9222447){360,123}|&nicovideo(http://www.nicovideo.jp/watch/sm9564830){360,123}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm11810682){360,123}|&nicovideo(http://www.nicovideo.jp/watch/sm11830835){360,123}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12403990){360,123}|&nicovideo(http://www.nicovideo.jp/watch/sm13264357){360,123}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm14740199){360,123}|&nicovideo(http://www.nicovideo.jp/watch/sm15600485){360,123}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm16542862){360,123}|&nicovideo(http://www.nicovideo.jp/watch/sm16573109){360,123}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm16573836){360,123}|&nicovideo(http://www.nicovideo.jp/watch/sm17336277){360,123}|
+
+|>|BGCOLOR(#699):COLOR(#FFF):CENTER:&font(b,11pt){関連動画}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm11421907){360,123}|&nicovideo(http://www.nicovideo.jp/watch/sm13245859){360,123}|
+
+**関連タグ内の更新履歴
+#region(close,関連タグ内の更新履歴)
+関連タグ内の更新履歴
+※「いたる」「いたるCD」タグ内で最近編集やコメントのあった記事を新しい方から10件表示しています。
+#list_by_tagsearch(いたる,いたるCD,sort=timestamp,sort2=desc,errmsg=まだ曲が登録されていません。,or,10)
+#endregion
+
+
+**コメント
+- いたるさんのレンきゅんがかわゆすぎる・・・  -- リク  (2014-02-01 21:21:44)
+- ↑ですよね！！でも周りにはこの可愛さを分かってくれる人がなかなかいなくて⋯  -- 名無しさん  (2014-08-01 19:13:45)
+- いたるさんはもーーーーっと評価されるべきだと私は思います！！  -- レンきゅんマジ天使  (2014-08-11 01:10:27)
+#comment()

@@ -1,0 +1,30 @@
+#right(){&furigana(きちくしょたP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/4989802" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/4989802">【ニコニコ動画】VOCALOID（うｐしたもの）</a></iframe>)
+
+**特徴
+-鏡音レンをこよなく愛するP。生放送「VOCALOID生放送」の生主の一人。
+-2008年01月29日に「[[白鋼～shirogane～]]」でデビュー。以降、白鋼は4度にわたり修正版が投稿されている。
+-投稿者名は sequel（シーケル）。名前は以前使用していたDTMソフトに由来する。
+-代表作は殿堂入りした「[[ロベリア／Lobelia]]」、生放送で使用されるジングルのインスト曲「Angels song」。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/gocrazy]]
+-[[twitter>>http://twitter.com/sequel_ShotaP]]
+-[[YouTube>>https://www.youtube.com/user/sequelShotaP]]
+
+**曲
+#list_by_tag(鬼畜ショタP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(鬼畜ショタPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm2675212)|&nicovideo(http://www.nicovideo.jp/watch/sm4119171)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5680053)|&nicovideo(http://www.nicovideo.jp/watch/sm6379368)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6612081)|&nicovideo(http://www.nicovideo.jp/watch/sm7663996)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm8092230)|&nicovideo(http://www.nicovideo.jp/watch/sm10748238)|
+
+**コメント
+- ロベリア大好きです！  -- 殺られちゃうのよ  (2013-02-05 20:46:06)
+//- あんまり知られてなくね?俺このP知らねんだけど・・・  -- しゃむたん  (2013-02-05 22:04:22)
+#comment()

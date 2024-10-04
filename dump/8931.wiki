@@ -1,0 +1,33 @@
+#right(){&furigana(えんどれすE.P.) &furigana()【登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186132733.jpg,x=300,y=300)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[幻想論>幻想論/CD]]|CENTER:&bold(){エンドレスE.P.}|CENTER:[[積雪ロック]]&br()[[ハローノストラ>ハローノストラ/CD]]|
+
+|&bold(){[[キャプテンミライ]]}|
+
+流通:即売
+発売:2009年9月6日
+価格:￥200
+サークル:バイバイレコード
+
+作詞・作曲・ジャケットデザイン：&b(){[[キャプテンミライ]]}
+
+**CD紹介
+-キャプテンミライによるシングルCD。
+-ボーマス9で限定頒布された。
+-GUMIの代表曲のひとつ「[[エンドレス]]」とそのリミックスを収録した全3曲のシングルCD。
+-3曲目をリミックスした「[[HONDALADY>>http://www.hondalady.net/]]」はキャプテンミライの友人のバンドで、プロ。
+
+**曲目
++[[エンドレス]] (GUMI ver)
++エンドレス (ミク ver)
++エンドレス (HONDALADY Real By Reel mix)
+
+**リンク
+-[[作者ブログでの告知>>http://ameblo.jp/capmira/entry-10332282118.html]]
+-[[HONDALADY公式>>http://www.hondalady.net/]]
+
+**コメント
+#comment

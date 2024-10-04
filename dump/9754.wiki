@@ -1,0 +1,45 @@
+#right(){【登録タグ:&tags() 】}
+#image(http://karent.jp/npdca/1466_20140219004921_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){[[napitas]]}|CENTER:-|
+
+|&bold(){[[三点P]]}|
+
+|流通|CENTER:即売|CENTER:同人|CENTER:配信|
+|発売|CENTER:2010年5月9日|CENTER:2010年5月26日|CENTER:2014年3月7日|
+|価格|CENTER:￥1,000|CENTER:￥1,050(税込)|CENTER:￥1,200 / 1曲￥200|
+|サークル|>|>|CENTER:eruplano|
+
+>作詞・作曲：&b(){[[三点P]]}
+>ジャケットイラスト：&b(){[[三月まうす>>http://lrrh.silk.to/]]}
+>ジャケットデザイン：&b(){[[市井>>http://noid.boo.jp/n/]]}
+
+**CD紹介
+-三点P初となるオリジナルフルアルバム。
+-THE VOC@LOID M@STER 12（ボーマス12）で発表される。
+-アンビエント・エレクトロニカ・ポストロック等のジャンルを得意とし、シンプルでいて深みのある音が聴く者を虜にする。
+-既に発表された曲を含む、全11曲を収録する。
+-とらのあなで委託販売、KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++Morning glow
++[[reLo's]]
++coffingirl
++float
++past am
++[[savonland]]
++past pm
++kidz
++[[pareHo]]
++[[ilaw]]
++Evening grow
+
+**リンク
+-[[作者ホームページ『eruplano』>>http://eruplano.lolipop.jp/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/22/30/040010223066.html]]
+-[[KARENT：「napitas」>>http://karent.jp/album/1466]]
+
+**コメント
+- 三月まうすさんイラストなのか…買いにいきたいです  -- 黒姫  (2012-02-16 01:38:25)
+#comment

@@ -1,0 +1,41 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/172_20100112000938_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[愛の翼-Eternal song- feat. 初音ミク]]|CENTER:&bold(){World Breakout feat. 巡音ルカ}|CENTER:[[REBOOT feat. 初音ミク ]]|
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/world-breakout-feat-megurine-luka/id351069196]]}|
+
+|&bold(){[[そそそP]]}|
+
+発売：2010年1月30日
+価格：￥1,200（全曲）/￥150（１曲）
+流通：配信
+レーベル：KarenT
+ジャケットイラスト：[[ウミネコ>>http://piapro.jp/susineko18]]
+
+**CD紹介
+-ルカ生誕１周年を記念してリリースされた、そそそPのアルバム。
+-初の殿堂入り曲となった「[[Looking for]]」や「[[Change the World]]」などの代表曲や新曲など、最初から最後までルカ三昧の全12曲を収録。
+
+**曲目
++[[Change the world]] (feat. 巡音ルカ)
++World Breakout (feat. 巡音ルカ)
++[[Looking for]] (feat. 巡音ルカ)
++Egoist (feat. 巡音ルカ)
++永遠のはじまり (feat. 巡音ルカ)
++[[千年一夜の夢]] (feat. 巡音ルカ)
++I am Queen (feat. 巡音ルカ)
++a Boy's Journey (feat. 巡音ルカ)
++Night of Blizzard (feat. 巡音ルカ)
++[[Walk your way]] (feat. 巡音ルカ)
++[[Mind Flower]] (feat. 巡音ルカ)
++[Secret track] (feat. 巡音ルカ)
+
+**リンク
+-[[作者HPでの紹介ページ>>http://www.s-tribe.net/worldbreakout/index.html]]
+-[[KarenT：「World Breakout feat. 巡音ルカ」>>http://karent.jp/album/172]]
+-[[KarenT：「巡音ルカ聖誕祭'10」特集ページ>>http://karent.jp/special/luka10]]
+
+**コメント
+#comment

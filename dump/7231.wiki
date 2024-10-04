@@ -1,0 +1,47 @@
+#right(){&furigana(いかろすP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/5805793" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/5805793">【ニコニコ動画】</a></iframe>)
+
+**特徴
+作り手名：『&u(){イカロスP}』
+-P名は代表曲『[[飛べない鳥]]』に由来する。
+-アーティスト名は&b(){tomn}。トムと読む。
+
+**リンク
+-[[作者ホームページ>>http://studiohitsuji.web.fc2.com/]]
+-[[作者ブログ>>http://tomn.blog53.fc2.com/]]
+-[[PIAPRO>>http://piapro.jp/tomn0322]]
+-[[Twitter>>http://twitter.com/tomn0322]]
+
+**曲
+#list_by_tagsearch(イカロスP,sort=furigana2,errmsg=まだ曲が登録されていません。,and,100)
+
+**CD
+#list_by_tagsearch(イカロスPCD,sort=furigana2,errmsg=まだCDが登録されていません。,and,100)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm3711643)|&nicovideo(http://www.nicovideo.jp/watch/sm4207574)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4470114)|&nicovideo(http://www.nicovideo.jp/watch/sm4936473)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4989804)|&nicovideo(http://www.nicovideo.jp/watch/sm5061475)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5151650)|&nicovideo(http://www.nicovideo.jp/watch/sm5332435)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5588153)|&nicovideo(http://www.nicovideo.jp/watch/sm5674515)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5988602)|&nicovideo(http://www.nicovideo.jp/watch/sm6072654)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6298342)|&nicovideo(http://www.nicovideo.jp/watch/sm6726861)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7002996)|&nicovideo(http://www.nicovideo.jp/watch/sm7452995)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7455166)|&nicovideo(http://www.nicovideo.jp/watch/sm7529900)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7965336)|&nicovideo(http://www.nicovideo.jp/watch/sm8070361)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm8889155)||
+
+**関連タグ内の更新履歴
+#region(close,関連タグ内の更新履歴)
+関連タグ内の更新履歴
+※「イカロスP」「イカロスPCD」タグ内で最近編集やコメントのあった記事を新しい方から10件表示しています。
+#list_by_tagsearch(イカロスP,イカロスPCD,sort=timestamp,sort2=desc,errmsg=まだ曲、CDが登録されていません。,or,10)
+#endregion
+
+**コメント
+- 飛べない鳥好きです  -- 名無しさん  (2013-04-03 01:34:00)
+#comment()

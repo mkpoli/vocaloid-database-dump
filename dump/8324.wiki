@@ -1,0 +1,31 @@
+#right(){&furigana(にょっすP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/12988501" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/12988501">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-あいさつが　｜ω・)ﾉｼ にょっす。
+-王道で聞き心地のよい曲を多く手がける。
+-赤羽カラスやがくぽとのデュエット曲も発表している。
+-ドット絵PVを作ったり、オマケでアニメを描いたりと多才である。
+-新作11曲目の[[ミッドナイトブルー]]で、初音ミクの偽乳疑惑が浮上した。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/mizusima]]
+-[[UTAU楽曲データベース>>https://w.atwiki.jp/utauuuta/pages/1441.html]]
+**曲
+#list_by_tag(にょっすP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(にょっすPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/nm7308936)|&nicovideo(http://www.nicovideo.jp/watch/nm7487377)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm7663113)|&nicovideo(http://www.nicovideo.jp/watch/nm7808206)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm8125403)|&nicovideo(http://www.nicovideo.jp/watch/nm8203085)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm8368313)|&nicovideo(http://www.nicovideo.jp/watch/sm8519332)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm8733084)|&nicovideo(http://www.nicovideo.jp/watch/nm8917104)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm9402492)|&nicovideo(http://www.nicovideo.jp/watch/sm9870369)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm10454460)|
+**コメント
+- にょっす🐮🖐️  -- 小松潤季  (2023-08-23 16:46:33)
+- 🐮✋だーにょのリズムを知ってるかい  -- はんぜう  (2023-10-21 14:58:51)
+#comment()

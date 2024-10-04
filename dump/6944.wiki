@@ -1,0 +1,35 @@
+#right(){&furigana(ざんきょうのぴーす) &furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/092_20091225200954_0240_0240.jpg)
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){残響のピース}|CENTER:[[フラッシュバックサウンド>フラッシュバックサウンド/CD]]|
+
+|&bold(){[[クワガタP]]}|
+
+発売：2009年10月21日
+価格：￥600 / 1曲￥150
+流通：配信 
+レーベル：[[KarenT>>http://karent.jp/album/92]]
+名義：[[apple41>>http://karent.jp/artist/pp000075]]
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/zankyou-no-piece-ep/id335316521]]}|
+
+**CD紹介
+-クワガタPこと「apple41」の初のアルバム。
+-初の殿堂入り曲『パズル』注目されるきっかけとなった「アカルイミライ」、新曲「夢とファズ」等、代表曲から新曲までの４曲が入ったミニアルバム。
+-ジャケットは「パズル」「夢とファズ」等、クワガタPの動画を担当している「りょーの」が担当
+-曲は全曲アルバムのためにリマスタリング。まさにクワガタPを知ってる人、知らない人全員にお勧めできる一枚。
+-発売日はクワガタPの誕生日。
+
+**曲目
++[[夢とファズ]]
++[[感覚]]
++[[アカルイミライ]]
++[[パズル>パズル/クワガタP]]
+
+**リンク
+-[[KarenT：『残響のピース』>>http://karent.jp/album/92]]
+-[[iTunes Store：『apple41』ページ>>http://itunes.apple.com/jp/artist/apple41/id335316756]]
+-[[クワガタPのBlog>>http://apple4161.blog20.fc2.com/]]
+
+**コメント
+#comment

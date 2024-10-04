@@ -1,0 +1,44 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&ref(http://kogashitsu.cocolog-nifty.com/photos/etc/envy_ep.jpg)
+
+&nicovideo(http://www.nicovideo.jp/watch/nm9591355)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[PIANO LESSON E.P.]]|CENTER:&bold(){(the army for your) ENVY E.P.}|CENTER:[[alta mugs E.P]]|
+
+|&bold(){[[古川P]]}|&bold(){[[acane_madder]]}|
+
+|発売|CENTER:2010年2月7日|CENTER:2010年2月8日|
+|価格|CENTER:￥1,000（税込）|CENTER:￥1,050（税込）|
+|流通|CENTER:即売|CENTER:同人|
+|サークル|>|CENTER:現フル逃避中|
+
+|&bold(){[[通販サイト>>http://www.toranoana.jp/mailorder/cit/pagekit/0000/00/03/000000033796/index.html]]}|
+
+**CD紹介
+-古川本舗2作目のアルバム。
+-全曲Remix、Remaster、アレンジがされニコニコ動画投稿作とは異なるという、古川本舗渾身の一枚。
+-ヴォーカルも投稿作から一新され初音ミクは全てAppend版。
+-特に「-reprise-」された『[[はなれ、ばなれ]]』『[[ピアノ・レッスン]]』はアレンジにより、全くの新作として収録。
+-『[[ユーウツ]]』は作詞作曲が[[acane_madder]]による、ニコニコ動画未発表曲。
+-bonus trackには[[む～ちょ]]による『[[Good Morning EMMA Sympson]]』のRemixを収録
+-ジャケットは『[[envy.]]』等を担当した純が担当。
+
+**曲目
++[[スーパー・ノヴァ]]　feat.GUMI×miki
++[[envy.]]　　　　　　　feat. 初音ミク (DARK)
++[[ユーウツ]]　　　　　feat.初音ミク (DARK)
++[[girlfriend>girlfriend/古川P]]　　　　　feat. 初音ミク(DARK/Soft/)×ルカ
++[[はなれ、ばなれ]] -reprise-　feat.初音ミク (Soft)
++[[ピアノ・レッスン]] -reprise-　feat.初音ミク (DARK)×acane
++[[Good Morning EMMA Sympson （む～ちょリミックス）　feat.巡音ルカ>>http://www.nicovideo.jp/watch/nm8730956]]
+
+**リンク
+-[[古川PのBlogのアルバム紹介>>http://ameblo.jp/fullkawa-p/entry-10440409351.html]]
+-[[通販サイト>>http://www.toranoana.jp/mailorder/cit/pagekit/0000/00/03/000000033796/index.html]]
+
+
+**コメント
+- 楽しみすぎる(･∀･)  -- 愛を  (2010-01-24 06:12:32)
+- これはほんとに素敵です。涙出そうになった。  -- 名無しさん  (2010-03-02 16:42:56)
+#comment

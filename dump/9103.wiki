@@ -1,0 +1,38 @@
+#right(){&furigana(clear) &furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm8069826)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[はじめての]]&br()[[モノクロセカイの積み木遊び。]]|CENTER:[[白い黒]]&br()&bold(){01}|CENTER:[[Sigh-EP]]|
+
+|&bold(){[[kous]]}|
+
+流通：即売
+発売：2009年9月6日
+価格：￥1,000
+サークル：+音（タスオト）
+
+作詞・作曲：&bold(){[[kous]]}
+イラスト：&bold(){[[hie>>http://hieeeee.blog46.fc2.com/]],[[有識]]}他
+
+**CD紹介
+-kous初のオリジナルフルアルバム『[[白い黒]]』と同時に、THE VOC@LOiD M@STER 9（ボーマス9）で頒布されたアルバム。
+-各曲が１枚の絵と対応しており、総勢７名の絵師とコラボしている（ジャケットイラストは１曲目に相当するものと思われる）。
+-CDはトールケース仕様で、各イラストのポストカードが同梱されている。
+-委託販売はしていない。が、&bold(){ある程度希望が集まれば再版してイベントで頒布するとのこと。}
+
+**曲目
++籠の中（イラスト：[[有識]]）
++hitomebore（イラスト：有識）
++[[inai]]（イラスト：[[山荘>>http://piapro.jp/kamei]]）
++[[kirai]]（イラスト：[[luc>>http://piapro.jp/wavay_luc]]）
++nagareboshi（イラスト：azune）
++デジタル（イラスト：hie）
++フライ・ハイ（イラスト：hie）
++[[モノクロ涙]]（イラスト：[[石蕗 英>>http://mithrilgear.web.fc2.com/]]）
++[[時の終わり]]（イラスト：[[山田エヌ>>http://www.pixiv.net/member.php?id=32500]]）
+
+**リンク
+-[[作者ブログ>>http://kous1128.blog22.fc2.com/]]
+
+**コメント
+#comment

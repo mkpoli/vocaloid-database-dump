@@ -1,0 +1,38 @@
+#right(){&furigana(かにみそにしてあげる♪) &furigana()【登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186121393.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[ダンシング☆サムライ>ダンシング☆サムライ/CD]]|CENTER:&bold(){カニミソにしてあげる♪}|CENTER:&bold(){[[SHOOTING STAR>SHOOTING STAR/CD]]}|
+
+|&bold(){[[カニミソP]]}|
+
+発売：2009年9月6日
+価格：￥1,000
+流通：即売
+サークル：mathruねっと
+
+**CD紹介
+-ボーマス9で『[[ダンシング☆サムライ>ダンシング☆サムライ/CD]]』と同時頒布された、初音ミクオンリーのアルバム。
+
+**曲目
++カニミソにしてあげる♪
++[[SHOOTING STAR>SHOOTING STAR/カニミソP]] (ミクVer.)
++[[エレクトロ★クイーン]] (ミクVer.)
++[[Horizon>Horizon/カニミソP]]
++[[Ocean>ocean/カニミソP]]
++[[Kanimiso - カニミソ -]]
++[[陽炎>陽炎/カニミソP]] (ミクVer.)
++[[サンタクロースがやってくる]]
++[[まあお茶でも飲もうよ]]
++[[みみっく]]
++[[Attractive Rainbow]] (ミクVer.)
++[[そばにいてくれたね]] ～original MIX～ 
+
+**リンク
+-[[作者サイト>>http://mathru.net/]]
+-[[CDの紹介ページ>>http://mathru.net/products/1287.html]]
+
+
+**コメント
+#comment

@@ -1,0 +1,222 @@
+#right(){&furigana()&furigana()【登録タグ:&tags()】}
+&nicovideo(http://www.nicovideo.jp/watch/sm10752593)
+作詞：[[OSTER project]]
+作曲：[[OSTER project]]
+編曲：[[OSTER project]]
+唄：初音ミク・巡音ルカ
+コーラス：Sweet Ann
+
+**曲紹介
+-他と違う恋は、普通の恋より楽しさも辛さもいっぱいあるけれど、それがいつか最高のオリジナリティになるんだぜ！&br()&nowiki(){　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　}カカロット！女の子がナンバーワンだ！！という歌です。（作者コメ転載）
+-ようするに、爽やかな百合ソングである。
+-世界観は「[[one more kiss]]」の続編的な楽曲。
+-イラストは 原之氏 が手掛けている。
+
+**歌詞
+I wanna be your number one
+
+悪ふざけのキスをひとつ
+イタズラなあなたの微笑み
+ポカンと口を開いたまま
+凍りついちゃった私
+
+こんなはずじゃなかったのに
+ねえ、どうしてそんな顔をして
+私のコトを見つめてるの
+眠ってた心の奥から
+
+じわり滲み出す熱い恋のエッセンスはね
+嘘つけないみたい
+
+神様がいたずらしたことくらい
+もう気付いたでしょう？
+私　覚悟は出来てる
+
+I wanna be your number one
+
+隣の恋よりも
+ちょっぴり壁とか多いんだよ？
+
+繋いだ手を解かないでね
+どんなに向かい風が強い日でも
+
+あの時から始まったの
+初めての不思議な関係
+分かり合えなかった事でも
+同じ視線なら分かる
+
+二人分のリップグロス
+ピンク色の並んだ歯ブラシ
+へんてこなのが愛おしいの
+あなただけが特別だから
+
+今日は ladies day　だから
+とびきりのオシャレして
+couples day　楽しませてね
+
+思いがけず通り過ぎてった友達に
+慌てふためくあなたと空っぽの右指
+
+I wanna be your only one
+
+仕方ないよねって
+悲しい笑顔がチクリ痛い
+
+あなたの気持ち分かってるよ
+なおさら切なくなる
+
+I wanna be your number one
+
+薄明かりの部屋で
+交わした口づけは秘密なの
+
+こんなに素敵な恋なのに
+どうして泣いているの？
+
+I wanna be your number one
+
+I wanna be your number one
+
+今夜は腕をふるうよ
+ディナータイム冷蔵庫を開けてみる
+
+こんなものじゃ何も作れやしないけど
+幸せなの　あなたがいるから
+
+I wanna be your number one
+
+二人ぼっちな分
+気持ちも時間も分け合おうね
+
+選んだ愛の形だもの
+決まりなんて要らない
+
+I wanna be your only one
+
+世界で一番の
+可愛い二人でいられるように
+
+大きく好きだと叫びたいよ
+いつかは……　そういつかね
+
+I wanna be your number one
+
+***色分け歌詞
+#region
+パート分け：&color(LightSeaGreen){初音ミク}・&color(HotPink){巡音ルカ}
+
+&color(hotpink){I wanna be your number one}
+
+&color(hotpink){悪ふざけのキスをひとつ}
+&color(hotpink){イタズラなあなたの微笑み}
+&color(hotpink){ポカンと口を開いたまま}
+&color(hotpink){凍りついちゃった私}
+
+&color(LightSeaGreen){こんなはずじゃなかったのに}
+&color(LightSeaGreen){ねえ、どうしてそんな顔をして}
+&color(LightSeaGreen){私のコトを見つめてるの}
+&color(LightSeaGreen){眠ってた心の奥から}
+
+&color(hotpink){じわり滲み出す熱い恋のエッセンスはね}
+&color(hotpink){嘘つけないみたい}
+
+&color(LightSeaGreen){神様がいたずらしたことくらい}
+&color(LightSeaGreen){もう気付いたでしょう？}
+&color(LightSeaGreen){私　覚悟は出来てる}
+
+&color(hotpink){I wanna be your number one}
+
+&color(hotpink){隣の恋よりも}
+&color(hotpink){ちょっぴり壁とか多いんだよ？}
+
+&color(LightSeaGreen){繋いだ手を解かないでね}
+&color(LightSeaGreen){どんなに向かい風が}強い日でも
+
+&color(hotpink){あの時から始まったの}
+&color(hotpink){初めての不思議な関係}
+&color(hotpink){分かり合えなかった事でも}
+&color(hotpink){同じ視線なら分かる}
+
+&color(LightSeaGreen){二人分のリップグロス}
+&color(LightSeaGreen){ピンク色の並んだ歯ブラシ}
+&color(LightSeaGreen){へんてこなのが愛おしいの}
+&color(LightSeaGreen){あなただけが特別だから}
+
+&color(hotpink){今日は ladies day　だから}
+&color(hotpink){とびきりのオシャレして}
+&color(hotpink){couples day　楽しませてね}
+
+&color(LightSeaGreen){思いがけず通り過ぎてった友達に}
+&color(LightSeaGreen){慌てふためくあなたと空っぽの右指}
+
+&color(hotpink){I wanna be your only one}
+
+&color(hotpink){仕方ないよねって}
+&color(hotpink){悲しい笑顔がチクリ痛い}
+
+&color(LightSeaGreen){あなたの気持ち分かってるよ}
+&color(LightSeaGreen){なおさら切なくなる}
+
+&color(hotpink){I wanna be your number one}
+
+&color(hotpink){薄明かりの部屋で}
+&color(hotpink){交わした口づけは秘密なの}
+
+&color(LightSeaGreen){こんなに素敵な恋なのに}
+&color(LightSeaGreen){どうして泣いているの？}
+
+I wanna be your number one
+
+&color(hotpink){I wanna be your number one}
+
+&color(hotpink){今夜は腕をふるうよ}
+&color(hotpink){ディナータイム冷蔵庫を開けてみる}
+
+&color(LightSeaGreen){こんなものじゃ何も作れやしないけど}
+&color(hotpink){幸せなの}　あなたがいるから
+
+I wanna be your number one
+
+&color(hotpink){二人ぼっちな分}
+&color(hotpink){気持ちも時間も分け合おうね}
+
+&color(LightSeaGreen){選んだ愛の形だもの}
+&color(LightSeaGreen){決まりなんて要らない}
+
+&color(hotpink){I wanna be your only one}
+
+&color(hotpink){世界で一番の}
+&color(hotpink){可愛い二人でいられるように}
+
+&color(LightSeaGreen){大きく好きだと叫びたいよ}
+&color(LightSeaGreen){いつかは……}　&color(hotpink){そういつかね}
+
+I wanna be your number one
+#endregion
+
+**コメント
+- OSTERの新曲待ってました！！！  -- 名無しさん  (2010-05-18 19:56:24)
+- OSTERきたー！  -- 名無しさん  (2010-05-19 22:49:39)
+- 凄くいい百合。切ないのに幸せ。甘い女の子は神ってことだな  -- 名無しさん  (2010-05-20 14:56:42)
+- 新曲ktkr！やっぱふわシナさんの百合好きだなー  -- 名無しさん  (2010-05-23 23:56:52)
+- 曲調が好き  -- 名無しさん  (2010-05-24 08:47:03)
+- OSTERさんの曲大好きです!ミクルカいいね?  -- 丼  (2010-05-27 20:11:29)
+- 曲調が変わった感じがする！  -- 名無しさん  (2010-06-18 08:07:06)
+- この人は本当に作曲の引き出しが広いな  -- 名無しさん  (2010-06-21 16:05:25)
+- 女の子は可愛いって！  -- 名無しさん  (2010-07-14 23:25:29)
+- 何も作れやしない …ってそういうことですねわかります  -- 名無しさん  (2010-07-16 00:59:34)
+- ミクルカかわいいですねー。ほのぼのしててとっても応援したくなっちゃう恋です。OSTERさんはかわいい曲作るのとってもうまいですよねー  -- ぴー  (2010-11-03 14:16:27)
+- ああ、女の子はナンバーワンだ！  -- 名無しさん  (2010-11-05 15:26:00)
+- 可愛いーー！！！！  -- 名無しさん  (2011-04-10 01:22:27)
+- この曲本当にAnn使ってんの？  -- 名無しさん  (2011-05-08 17:09:08)
+- ↑英語のコーラスはみんなアンだよ。ルカと声が似てるから気付きにくいだけで。  -- 名も無き人  (2011-07-02 20:00:05)
+- 切なくなることわかってるけど、それでも好きって、すごい  -- 名無しさん  (2011-08-09 17:50:56)
+- カカロット!!女の子はかわいいか? ミクルカいいですね^^  -- バルーンコゾー  (2011-08-09 18:18:11)
+//- ようやくカラオケおめ  -- ふぁな  (2011-11-26 18:22:02)
+- これはいい！  -- 支援射撃隊隊長  (2013-05-06 15:52:56)
+//- この曲が大好きで、いつもカラオケで歌うんだが、『二人分のリップグロス』あたりから、周りの様子がおかしい…。でも
+- 大好きだーーー(///∇///)  -- 未練がましいの大嫌いさん  (2014-01-20 15:26:20)
+- か・・・っ可愛い・・・・・・・！！  -- ぱれ  (2014-02-13 22:07:15)
+- あったかい百合曲  -- 名無しさん  (2014-04-02 17:37:56)
+- 報われたいよねぇ…  -- 硝子の猫  (2017-03-26 13:03:23)
+#comment()

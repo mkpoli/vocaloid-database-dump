@@ -1,0 +1,30 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/341_20100522220852_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Dive Into Sky High / Degenerate -デジェネレイト->Dive Into Sky High／Degenerate -デジェネレイト-]]|CENTER:&bold(){in the rain}|CENTER:[[TKp product pure]]|
+
+|&bold(){[[テラ小室P]]}|
+
+発売：2010年6月9日
+価格：￥150
+流通：配信
+レーベル：KarenT
+ジャケットイラスト：[[ちぃ]]
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/in-the-rain/id375640588]]}|
+
+**CD紹介
+-雨をイメージしたゆったりとしたロッカバラード。
+-KarenTの「雨の季節'10」企画で配信された作品の1つ。
+
+**曲目
++in the rain （feat. 初音ミク）
+
+**リンク
+-[[KarenT：「in the rain」>>http://karent.jp/album/341]]
+-[[KarenT：「雨の季節'10」特集ページ>>http://karent.jp/special/rain10]]
+-[[TKp product（作者ブログ）>>http://terakomurop.blog20.fc2.com/]]
+
+**コメント
+#comment

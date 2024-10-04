@@ -1,0 +1,35 @@
+#right(){&furigana(いとたけ)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&ref(https://karent.jp/npdca/110_20091225201122_0240_0240.jpg)
+|&b(){[[iTunes Storeで購入する>>https://itunes.apple.com/jp/album/string-and-bamboo-ep/id337263081]]}|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[春告草]]|CENTER:&bold(){糸竹}|CENTER:[[坂の町と雨]]|
+
+|&bold(){[[稲敷常州]]}|
+
+発売：2009年11月5日
+価格：￥600、１曲￥150 
+流通：配信
+レーベル：KarenT（クリプトン・フューチャー・メディア）
+名義：[[稲敷常州>>https://karent.jp/artist/pp000019]]
+
+**CD紹介
+-MEIKO生誕5周年の日にリリースされた、稲敷常州氏の2ndアルバム。
+
+**曲目
++春風春夜 ～あの日の思い出～ （feat. MEIKO,初音ミク）
++月舟 ～雲の波を越えて～ （feat. MEIKO）
++ヒルガオ （feat. MEIKO）
++草原を渡る風 ～大地と空が交わるところ～ （feat. MEIKO）
++桂花 ～秋の恋風～ （feat. MEIKO,初音ミク）
+
+**リンク
+-[[KarenT：「糸竹」>>https://karent.jp/album/110]]（iTunes Store以外の配信先はこちらを参照）
+-[[KarenT：「MEIKO記念祭'09」特集ページ>>https://karent.jp/special/meiko09]]
+
+**コメント
+#comment

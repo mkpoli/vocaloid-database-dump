@@ -1,0 +1,40 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+//&ref(http://reng.jp/img/jk/p1_200.jpg)
+//
+&image(https://cdn.karent.jp/thumb_a/034/034_20091225193745_0400_0400.jpg,height=200)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){period 1}|CENTER:[[link>link/CD]]|
+
+|&bold(){[[Re:nG]]}|[[yuki]]|エラ|
+
+発売：2009年6月9日
+価格：アルバム￥1,500、1曲￥150
+流通：配信
+サークル：Re:nG
+
+**CD紹介
+-KarenTレーベルより配信された、Re:nG名義では初となるアルバム。
+-iTunes Storeをはじめとした配信サイトからダウンロード購入することができる。詳しくは[[特設サイト>>http://karent.jp/album/34]]にて。
+-ヒット作「[[SING＆SMILE]]」「[[貴方に花を 私に唄を]]」などの代表作を収録した、Re:nG feat.初音ミクの集大成のアルバムと位置付けられる。
+-「VOCALOID処女作「[[WAY]]」から最新曲「[[echo>echo/Re:nG]]」まで全10曲を収めた、「ポップス書きでありたい」と公言するRe:nGのシングル集的アルバム。」（作者紹介文）
+-ジャケットイラストは「echo」の動画イラストと同じく「志摩」氏が担当。
+
+**曲目
++[[binary star]]
++[[WAY]]
++[[_boot]]
++[[SING&SMILE>SING＆SMILE]]
++[[晴れときどきにわか雨]]
++[[le grand bleu]]
++[[シンメトリー>シンメトリー/Re:nG]]
++[[貴方に花を 私に唄を]]
++[[echo>echo/Re:nG]]
++[[それが永遠ではないのなら]]
+
+**リンク
+-[[KarenT>>http://karent.jp/album/34]]
+-[[Re:nG氏の作品リスト>>http://reng.jp/media/]]
+
+**コメント
+#comment

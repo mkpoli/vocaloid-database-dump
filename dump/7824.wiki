@@ -1,0 +1,44 @@
+#right(){&furigana(はーれむえんど)&furigana()【登録タグ:&tags()】}
+&nicovideo(http://www.nicovideo.jp/watch/sm5987306)
+作詞：[[めたはあ]]
+作曲：[[めたはあ]]
+編曲：[[めたはあ]]
+唄：初音ミク、鏡音リン、巡音ルカ
+
+**曲紹介
+-「ミク、リン(初期)、ルカのトリオです。 全キャラ同時攻略を意識して作りました。」（作者コメントより）
+-ところで発売日はいつですか？
+
+**歌詞
+&color(limegreen){は～れむ♥えんど}
+&color(orange){は～れむ♥えんど}
+&color(hotpink){は～れむ♥えんど}
+
+&color(limegreen){私の大好きな　あなたは人気者}
+&color(limegreen){今日も誰かと　二人歩いてる}
+
+&color(orange){アタシの大好きな　あなたは誰とでも}
+&color(orange){仲良しみたいね}
+&color(limegreen){私が}　&color(orange){アタシが}　&color(hotpink){私が}
+&color(limegreen){一番好きなのに！　ねっ♥}
+
+&color(limegreen){は～れむ♥えんど}
+&color(orange){は～れむ♥えんど}
+&color(hotpink){は～れむ♥えんど}
+
+&color(hotpink){いつでもあなたのこと　みんなで奪い合いなんて}
+&color(hotpink){我慢できないよ}　
+&color(limegreen){私が}　&color(orange){アタシが}　&color(hotpink){私が}
+&color(hotpink){独り占めしたい！　むぎゅ♥}
+
+&color(hotpink){別のルートは違う結末}
+&color(limegreen){夢見る}　&color(orange){アタシと}　&color(hotpink){あなたの}
+&color(limegreen){ふた}&color(orange){りき}&color(hotpink){り}
+
+&color(limegreen){は～れむ♥えんど}
+&color(orange){は～れむ♥えんど}
+&color(hotpink){は～れむ♥えんど}
+
+**コメント
+- 女ですが、こんなかわいい3人に囲まれたいっ！ はーれむいいですねぇ、  -- たから  (2012-06-09 13:05:06)
+#comment()

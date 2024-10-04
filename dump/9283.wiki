@@ -1,0 +1,45 @@
+#right(){&furigana(そらのはて) &furigana()【登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186134475.jpg,x=300,y=300)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){空ノ果テ}|CENTER:-|
+
+|&bold(){[[774P]]}|
+
+||CENTER:即売|CENTER:同人|
+|発売|CENTER:2010年3月28日|CENTER:-|
+|価格|CENTER:-|CENTER:-|
+|サークル|>|CENTER:音小屋|
+
+作詞：&bold(){[[774P]],[[あルカP]](Tr.6)}
+作曲：&bold(){[[774P]],[[あルカP]](Tr.6,12)} &color(white){,[[大福P]](Tr.13)}
+イラスト：&bold(){[[ひなの>>http://hermit1217.web.fc2.com/]]}
+
+**CD紹介
+-サークル「音小屋」でコラボCDの統括をしてきた[[774P]]による、初の個人CD。
+-THE VOCALOID PARADISE（ボーパラ3）にて発表。
+-既存の5曲+あルカPのカバー、およびそのカラオケトラックを加えた全12トラックを収録。
+-&color(white){[[シークレットトラック>>http://www.nicovideo.jp/watch/sm10004352]]もあるらしい。}
+
+**曲目
++空ノ果テ　作詞・作曲：774P
++Sakura@...　作詞・作曲：774P
++その旅、初音色。　作詞・作曲：774P
++聖夜、繋がる想い　作詞・作曲：774P
++企業戦士MEIKO　作詞・作曲：774P
++大空色のHi-To-Mi（774 remix）　作詞・作曲：あルカP、編曲：774P
++空ノ果テ（カラオケ）　
++Sakura@...（カラオケ）
++その旅、初音色。（カラオケ）
++聖夜、繋がる想い（カラオケ）
++企業戦士MEIKO（カラオケ）
++大空色のHi-To-Mi（774 remix）（カラオケ）
++&color(white){空ノ果テ(dfk soundsystem rmx) remix by [[大福P]]}
+
+**リンク
+-[[774PブログでのCD詳細>>http://oto774.blog.shinobi.jp/Entry/150/]] 
+-[[774Pマイリスト>>http://www.nicovideo.jp/mylist/7142261]]
+
+**コメント
+#comment

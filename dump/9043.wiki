@@ -1,0 +1,35 @@
+#right(){&furigana()&furigana()【登録タグ:&tags()】}
+&ref(http://karent.jp/npdca/183_20100113105143_0240_0240.jpg)
+
+**CD詳細
+-媒体：配信
+-発売：2010年1月30日
+-価格：アルバム￥300 / 1曲￥150
+-レーベル：KarenT
+
+-作詞・作曲：&b(){[[パンドリストP（ミナツキトーカ）>>http://karent.jp/artist/pp000079]]}
+-イラスト：&b(){大神 大}
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Dirge / filozofio}|CENTER:[[Silent Dloc]]|
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/dirge-filozofio-ep/id351269753]]}|
+
+|&bold(){[[パンドリストP]]}|
+
+**CD紹介
+-ルカ生誕1周年の日に発売された。パンドリストP初の全国配信アルバム。
+-全曲外国語で歌詞が書かれている。
+-英語詞の「[[Dirge>Dirge -ASLEEP IN JESUS-]]」、ロシア語詞の「[[filozofio]]」、新曲の「sechs」の全3曲を収録。
+
+***曲目
++sechs (feat. 巡音ルカ)
++[[Dirge -ASLEEP IN JESUS-]] (feat. 巡音ルカ)
++[[filozofio -Другой->filozofio]] (feat. 巡音ルカ)
+
+**リンク
+-[[KarenT：Dirge / filozofio>>http://karent.jp/album/183]]
+-[[KarenT：「巡音ルカ聖誕祭'10」特集ページ>>http://karent.jp/special/luka10]]
+
+**コメント
+#comment()

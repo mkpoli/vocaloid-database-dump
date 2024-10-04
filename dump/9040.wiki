@@ -1,0 +1,164 @@
+#right(){&furigana(free)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(http://www.nicovideo.jp/watch/nm9911470)|&YouTube(https://www.youtube.com/watch?v=lQFOt5fRIOA){336,189}|
+作詞：[[AVTechNO]]
+作曲：[[AVTechNO]]
+編曲：[[AVTechNO]]
+唄：[[巡音ルカ]]・[[鏡音レン>鏡音リン・レン]]
+
+**曲紹介
+>&b(){たとえ今が不自由な時間を過ごしたとしても・・・僕は自由になれるのさ。}
+曲名：『&u(){free}』
+-低音の聴ける環境で是非聴いて欲しい曲です。（投コメより）
+-動画タイトルは「巡音ルカオリジナル曲」だが、実際には鏡音レンも歌っている。
+-動画のオープニングで使われているのは前作「[[DYE>DYE/AVTechNO]]」のアレンジである「[[DYE / SAKURA>DYE／SAKURA]]」。
+-2010年6月3日、AVTechNO氏3作目となる殿堂入りを達成。
+-コンピCD『[[EX:P2~Ex:Producers2~]]』収録曲。
+-KarenTレーベルよりダウンロード販売が行われている。
+
+**KarenT配信
+&ref(http://karent.jp/npdca/216_20100223144220_0240_0240.jpg)
+媒体：配信
+発売：2010年3月10日
+価格：￥300、1曲￥150
+レーベル：[[KarenT>>http://karent.jp/album/216]]
+作詞・作曲：&bold(){[[AVTechNO]]}
+イラスト：&bold(){[[和音>>http://www.pixiv.net/member.php?id=5519]]}
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[DYE>DYE/AVTechNO]]|CENTER:&bold(){free}|CENTER:[[DYE / SAKURA>DYE／SAKURA]]|
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/free-single/id358364949]]}|
+
+***曲目
++free （feat. 巡音ルカ）
++free LENmix （feat. 巡音ルカ＆鏡音レン）
+
+**歌詞
+All people are Freedom always.
+When working. When enjoying it in the game.
+When studying at the school.
+When surfing with the friend.
+When you spend significant time with the person who loves.
+We are always... free.
+
+All freedoms exists in "My inside".
+The person whom being limited dislikes cannot exceed the limit of "Myself".
+A person hating a rule is a resident of "the small world".
+However, it is not so!
+My idea changes greatly by accepting the hated person.
+Let's value opposite of my idea!
+If it is such an idea a lot of people can immediately become Freedom.
+
+
+答えの無い「自由」がほしいのさ。
+答えのある「自由」は要らないさ。
+けど、その「答え」を知ることで
+僕の自由は広がるのさ。
+たとえ今が不自由な時間を過ごしたとしても
+それは自由になるための時間だと思えばいいさ・・・。
+
+The chance need not be waited for.
+　　（きっかけを待つ必要はない。）
+Office, school, and home...
+　　（オフィス、学校、また家庭でも...）
+In any case, it is unrelated.
+　　（どんな場合でも、それは関係ない。）
+When I attached a thumb and a forefinger,
+there is certainly "the freedom" there though there is nothing.
+　　（親指と人差し指を付けたとき、何もないけど、確かに、「自由」がそこにある。）
+"Reason" etc. It is unrelated.
+　　（「理屈」など それは関係ない。）
+"Freedom" that we imagine is sure to become the one of the reality.
+　　（私たちが想像する「自由」は、必ず現実の1つになる。）
+I want the person who lost sight of "freedom" to listen.
+　　（「自由」を見失った人に聴いて欲しい。）
+This is freedom of my song.
+　　（これは私の歌の自由。）
+
+
+Being able to dance is proof of freedom.
+Being able to talk is proof of freedom.
+Being able to listen to Music is proof of freedom.
+Being able to eat is proof of freedom.
+We are always free.
+I can feel freedom a lot by decreasing "Custom of relying on" to the thing.
+"Freedom" increases by changing your idea.
+
+It thinks in the bed.
+It thinks about tomorrow.
+And, thinks whether there are a lot of "Wonderful event".
+All "Freedom" starts here.
+It is a very easy thing.
+
+
+理由の無い「自由」が欲しいのさ。
+理屈のある「自由」は要らないさ。
+けど、その「理由」を知ることで
+僕は自由になれるのさ。
+たとえ今が不自由な時間を過ごしたとしても
+それは自由になるための時間だと思えばいいさ・・・。
+
+The chance need not be waited for.
+　　（きっかけを待つ必要はない。）
+Office, school, and home...
+　　（オフィス、学校、また家庭でも...）
+In any case, it is unrelated.
+　　（どんな場合でも、それは関係ない。）
+When I attached a thumb and a forefinger,
+there is certainly "the freedom" there though there is nothing.
+　　（親指と人差し指を付けたとき、何もないけど、確かに、「自由」がそこにある。）
+"Reason" etc. It is unrelated.
+　　（「理屈」など それは関係ない。）
+"Freedom" that we imagine is sure to become the one of the reality.
+　　（私たちが想像する「自由」は、必ず現実の1つになる。）
+I want the person who lost sight of "freedom" to listen.
+　　（「自由」を見失った人に聴いて欲しい。）
+This is freedom of my song.
+　　（これは私の歌の自由。）
+
+#region(close,02:17)
+いつもすべての人々が「自由」。働いているとき。ゲームでそれを楽しんでいるとき。
+あなたが愛している人と重要な時間を過ごすとき。学校で勉強するとき。
+友人と共にサーフィンするとき。私たちはいつも自由。
+
+すべての自由が「私の内」に存在してる。制約を嫌う人は、「自分」の限界を超える事が出来ない。
+規則を嫌う人は、「小さい世界」の居住者。しかし、そうではない！
+私の考えは、嫌いな人を受け入れることによって、大きく変わる。自分の考えの正反対を評価しよう！
+そのような考えであれば、多くの人々が、すぐに「自由」になる事ができる。
+
+きっかけを待つ必要はない。オフィス、学校、また家庭でも。どんな場合でも、それは関係ない。
+親指と人差し指を付けたとき、何もないけど、確かに、「自由」がそこにある。
+「理屈」などそれは関係ない。私たちが想像する「自由」は、必ず現実の1つになる。
+「自由」を見失った人に聴いて欲しい。これは私の歌の自由。
+
+踊る事ができるのは、自由の証。話す事ができるのは、自由の証。
+音楽を聴く事ができるのは、自由の証。食べる事ができるのは、自由の証。
+僕達はいつも自由。僕は、物に「頼る習慣」を減らす事で、自由を多く感じることができる。
+「自由」は、あなたの考えを変える事によって増える。
+
+ベットで考える。明日の事を・・・。そして、多くの「素晴らしい出来事」があるかどうか考える。
+すべての「自由」がここから始まる。とても簡単だよ。
+#endregion
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+**コメント
+- かっこいい!あべさんサウンド最高でした!!  -- 香絵瑠  (2010-03-05 21:38:25)
+- すごすぎます。こんな曲作れるのはきっとAVさんだけだと思います  -- 名無しさん  (2010-03-16 15:48:02)
+- 何この神曲…鳥肌が…  -- お茶猫  (2010-04-12 22:36:27)
+- 神曲……！  -- 名無しさん  (2010-08-02 16:00:55)
+- 英語が分からないので、何を言ってるのかさっぱり分からなかった。でもこの曲は不思議と好きだった。翻訳したら好きな理由が分かった。  -- 名無しさん  (2010-11-18 18:09:33)
+- 聴いてると、体が動いてしまいそうな曲です  とても良い曲  -- 名無しさん  (2011-07-07 09:49:32)
+- 綺麗な曲ですねぇ～♪この曲好きです♪  -- †+ハル+†  (2011-12-03 15:14:22)
+- かっこいぃ曲でした。(*´∀｀*)  -- 名無しさん  (2012-04-04 18:33:15)
+- 英語の歌詞があったとは...  -- 名無しさん  (2013-10-08 13:01:04)
+//- 向日葵さんが歌ってるので知りました  -- 名無しさん  (2013-10-16 09:26:32)
+- カラオケ配信おめ！この曲が入るとか・・・嬉しすぎるwただ、LENMixのが良かったなぁ・・・w  -- 名無しさん  (2014-07-15 11:32:58)
+#comment()

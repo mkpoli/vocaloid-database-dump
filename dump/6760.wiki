@@ -1,0 +1,12 @@
+#right(){【登録タグ:&tags()】}
+//↑タグ忘れ防止のための表示
+曖昧さ回避のためのページ
+----
+-[[山本ニュー]]の曲
+--[[Ding-Dong/山本ニュー]]
+-[[miksolodyne-ts]]の曲
+--[[Ding-Dong/miksolodyne-ts]]
+-[[miksolodyne-ts]]のCD
+--[[Ding-Dong/CD]]
+
+#include(曖昧さ回避の追加の仕方/告知)

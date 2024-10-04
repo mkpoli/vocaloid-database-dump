@@ -1,0 +1,72 @@
+#right(){&furigana(2Sing4U)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo(http://www.nicovideo.jp/watch/sm9623032)
+作詞：[[柊P]]
+作曲：[[柊P]]
+編曲：[[柊P]]
+イラスト：ヒジキ
+動画：[[ke-sanβ]]
+唄：[[巡音ルカ]]
+
+**曲紹介
+>&bold(){本日は（略）が、ココから3万光年（略）なわけで新曲作りました。（作者コメ転載）}
+曲名：『&u(){2 Sing 4 U}』(&u(){To Sing For You, とぅー しんぐ ふぉー ゆー})
+
+
+
+**歌詞
+（[[PIAPRO>>http://piapro.jp/content/cm8p6syu4qzd6zfl]]より転載）
+
+不意に掠めた夢の痕が 
+君を映した気がしたから 
+
+舞台裏での隠された歌 
+私にだけ歌えればいい 
+
+How can I live for you?　How can I do for you? 
+How can I take your mind out of your world that closed? 
+How can I be with you?　How can I get close to you? 
+How can I make you feel so good sincerely? 
+何をすれば何を言えば 
+気持ちは伝わるのかな 
+消えない傷　癒えない闇 
+何も言えずに終わりたくない 
+
+緋色の閉ざされたカーテン 
+胸に揺れる蒼色の石 
+
+ざわめきを聴き目を瞑って 
+握り締めたら安心して 
+
+How can I live for you?　How can I do for you? 
+How can I take your mind out of your world that closed? 
+How can I be with you?　How can I get close to you? 
+How can I make you feel so good sincerely? 
+見えないまま解けないまま 
+心の淵に囚われて 
+歌声さえ届かなくて 
+私じゃ響かせられないの？ 
+
+How can I sing without you? 
+I can't be without you. 
+一人では歌も歌えず 
+炎燃え滾る夢の続きを 
+あなたと共に見ていたい 
+
+舞台裏での隠された歌 
+あなたにだけ聴えればいい 
+
+How can I live for you?　How can I do for you? 
+How can I take your mind out of your world that closed? 
+How can I be with you?　How can I get close to you? 
+How can I make you feel so good sincerely? 
+震える手も嗄れる声も 
+一つだけ想いのせて 
+響かせるわ届かせるわ 
+春が雪を溶かしていくように
+
+**コメント
+#comment()

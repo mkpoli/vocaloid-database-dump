@@ -1,0 +1,56 @@
+#right(){&furigana(へりP)&furigana()【登録タグ:&tags() 】}
+|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/10896703" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/10896703">【ニコニコ動画】</a></iframe>)|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/21123711" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/21123711">【ニコニコ動画】</a></iframe>)|
+
+**特徴
+-爽やかで切ない曲を多く発表している。
+-デビュー作「[[snow believe]]」が、2009年2月のボカロ投票所で1位を獲得、マイリスト度ランキング#44でも1位を獲得した。
+-「[[風待ちハローワールド]]」で初の殿堂入りを果たした。
+
+**リンク
+-[[日進月歩add9（作者ブログ）>>http://yaplog.jp/nsgp-add9/]]
+-[[PIAPRO>>http://piapro.jp/add9]]
+-[[Twitter>>http://twitter.com/heri_add9]]
+-[[YouTube>>https://www.youtube.com/channel/UC-zGQ04Lf_tUHYUzyPJfadA]]
+
+**曲
+#list_by_tag(ヘリP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(ヘリPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm5594387)|&nicovideo(sm6064153)|
+|&nicovideo(sm6281003)|&nicovideo(sm9651065)|
+|&nicovideo(sm9917214)|&nicovideo(sm10810755)|
+|&nicovideo(sm11255040)|&nicovideo(sm12003668)|
+|&nicovideo(sm12388314)|&nicovideo(sm12853758)|
+|&nicovideo(sm13326349)|&nicovideo(sm13931328)|
+|&nicovideo(sm15436456)|&nicovideo(sm15567968)|
+|&nicovideo(sm16060736)|&nicovideo(nm16184452)|
+|&nicovideo(sm16918481)|&nicovideo(sm17381585)|
+|&nicovideo(sm17520124)|&nicovideo(sm18964957)|
+|&nicovideo(sm19500074)|&nicovideo(sm20520982)|
+|&nicovideo(sm22149766)|&nicovideo(sm23238703)|
+|&nicovideo(sm23895416)|&nicovideo(sm25228652)|
+|&nicovideo(sm25758431)|&nicovideo(sm26090338)|
+|&nicovideo(sm26161401)|&nicovideo(sm27372374)|
+|&nicovideo(sm28751950)|&nicovideo(sm30323926)|
+|&nicovideo(sm38478965)|&nicovideo(sm39321773)|
+
+**コメント
+- ヘリP す◯です！  -- SUMALU  (2010-01-27 08:57:58)
+- 今後の活躍を期待してます  -- 名無しさん  (2010-05-23 18:43:40)
+- 誰か「ひとつの始まり」を…!!  -- 名無しさん  (2010-05-29 00:41:45)
+- ↑追加しました  -- 名無しさん  (2010-06-08 12:12:35)
+- 今日初めて聞きましたが、今まで聴いたことがなかったことを後悔しました・・・めっちゃ素敵です！  -- 名無しさん  (2010-10-13 00:58:32)
+- マイリス1000ごえおめでとう（・∀・）！！  -- SUMALU  (2010-11-30 16:00:19)
+- 未来地図の歌詞みたいよおー＞＜  -- makina  (2011-01-12 16:14:37)
+- どれもPOPでキャッチーな曲で素晴らしい  -- 名無しさん  (2011-11-19 10:33:34)
+- 今まで知らなかった事に罪悪感を覚えます…  -- 名無しの蛾  (2012-01-27 12:12:25)
+- この人のミク曲を聴かないと一日が始まらない  -- 名無しさん  (2012-10-19 23:56:01)
+- CDだしてくんねーかなー(・ω・)ノ買うのに、、、  -- とっきー  (2012-12-25 12:09:41)
+- snow believeめっちゃ名曲だったのにその後ぱっとしないねー、風待が及第点くらいって感じ。  -- 名無しさん  (2017-12-06 22:08:21)
+- つーかなんで処女曲CDに入れんの？  -- 名無しさん  (2017-12-06 22:08:56)
+//- 歌い手のしゅーずの為だけに作られたナイトフォールも入れるべき……！  -- 名無しさん  (2020-08-14 11:18:17)
+- これ程の曲を作っていて何故伸びないのか。悲しい。  -- 名無しさん  (2021-06-14 21:44:25)
+#comment()

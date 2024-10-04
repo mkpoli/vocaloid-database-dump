@@ -1,0 +1,37 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm7819686)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[February snow -]]|CENTER:&bold(){innocence}|CENTER:[[かいわれ大根>かいわれ大根/CD]]|
+
+|&bold(){[[初心P]]}|
+
+発売：2009年8月15日
+価格：￥500
+流通：即売
+サークル：aquastream
+
+**CD紹介
+-aquastream 4th CD
+-ピアノ曲とロック調の曲がメイン。
+-全曲ニコニコに上げてあるものから、再ミックス、再マスタリングしている。
+
+**曲目
++[[ハジマリのセカイ]]
++[[February snow]] -日本語版-
++[[ナ・ナ・イ・ロ]] -2nd style-
++[[雨が降る街]]
++[[どきどき☆ばれんたいん 2009]] &color(red){NEW!}
++アクアマリン/002 -innocence-
++[[変拍子のワルツ]] &color(red){NEW!}
++February snow -English version-
++どきどき☆ばれんたいん 2009 （レンver.）
++アクアマリン/002 -innocence- （instrumental）
++変拍子のワルツ （instrumental）
+
+**リンク
+-[[特設サイト>>http://aquastream.web.fc2.com/4thcd.html]]
+-[[作者サイト（aquastream）>>http://aquastream.web.fc2.com/]]
+
+**コメント
+#comment

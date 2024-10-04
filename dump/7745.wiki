@@ -1,0 +1,18 @@
+#right(){【登録タグ:&tags()】}
+//↑タグ忘れ防止のための表示
+曖昧さ回避のためのページ
+----
+-[[とくP]]の曲
+--[[blue bird/とくP]]
+-[[びにゅP]]の曲
+--[[Blue Bird/びにゅP]]
+-[[あかやかP]]の曲
+--[[blue bird/あかやかP]]
+-[[Chiquewa]]の曲
+--[[Blue Bird/Chiquewa]]
+-[[花撫寺]]の曲
+--[[Blue Bird/花撫寺]]
+-[[nwnw]]の曲
+--[[blue bird/nwnw]]
+
+#include(曖昧さ回避の追加の仕方/告知)

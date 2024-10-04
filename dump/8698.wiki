@@ -1,0 +1,31 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm9566219){550,163}
+
+|BGCOLOR(#DDD):CENTER:　前作　|BGCOLOR(#B66):COLOR(#FFF):CENTER:&b(){　本作　}|BGCOLOR(#DDD):CENTER:　次作　|
+|CENTER:-|BGCOLOR(#FFF):CENTER:&b(){　Yellow Angel　}|CENTER:　[[Resonance>Resonance/しえろP・ちくPCD]]　|
+
+|&bold(){[[ちくP]]}|
+
+|BGCOLOR(#DDD):CENTER:流通|CENTER:即売|
+|BGCOLOR(#DDD):CENTER:発行|CENTER:　2010年02月07日　|
+|BGCOLOR(#DDD):CENTER:価格|CENTER:￥500|
+|BGCOLOR(#DDD):　サークル　|CENTER:Lethe=Zion|
+
+**CD紹介
+-ちくPの1stミニアルバム。
+-ジャケットイラストはよもぎりんご氏。
+
+**曲目
++異邦者
++passion flower  &color(red){New!!}
++桜化粧
++latter end－iTaRu-house Mix－  &color(red){New!!}
++MOON FATE
++自爆－Self bomb－
++遠い記憶  &color(red){New!!}
+
+　　　　 and more...
+
+
+**コメント
+#comment

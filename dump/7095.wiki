@@ -1,0 +1,52 @@
+#right(){&furigana(えくすぷろりずむ) &furigana()【登録タグ:&tags() 】}
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){エクスプロリズム}|CENTER:[[雨音、既視感]]|
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/explorism/id335763718]]}|&bold(){[[とらのあなで購入する>>http://www.toranoana.jp/mailorder/cit/pagekit/0000/00/03/000000033275/index.html]]}|&bold(){[[あきばお～こくで購入する>>http://www.akibaoo.com/02/commodity_param/t/0/ctc/82000000/shc/0/cmc/2500020117286/backURL/+02+main]]}|
+|&bold(){[[メロンブックスで購入する>>http://shop.melonbooks.co.jp/shop/list/?G=&MF=X-Plorez]]}|&bold(){[[D-STAGEで購入する>>http://d-stage.com/shop/detail.php?seq=13382]]}|&bold(){[[メッセサンオーで購入する>>http://www.doujinshop.com/doujin/user_top.cgi?type=music&strings=cd02748]]}|
+
+|&bold(){[[X-Plorez]]}|
+
+**配信版詳細
+&ref(http://karent.jp/npdca/093_20091225200937_0240_0240.jpg)
+発売：2009年10月28日
+価格：￥1,200 / 1曲￥150
+流通：配信
+レーベル：KarenT
+
+**CD版詳細
+&ref(http://www.akibaoo.jp/i/jan-jpg/1/2500020117286.jpg)
+発売：2010年2月7日
+価格：即売￥1,000（税込）、同人￥1,260（税込）
+流通：即売・同人
+レーベル：KarenT
+
+**CD紹介
+-既存の発表曲ほぼ全てを収録した、X-Plorez初のアルバム。
+-まずKarenTよりダウンロード配信がなされ、続いてTHE VOC@LOiD M@STER 11（ボーマス11）でCD版が頒布された。
+-昔の曲を中心にリミックス＆リマスタリングが施されている。
+-ボーナストラックとして、歌い手のSAK歌唱の2曲も収録。
+-&bold(){配信版とCD版は若干作りが違うとのこと。[[詳細はこちら>>http://xplorez.blog45.fc2.com/blog-entry-240.html#more]]}
+
+**曲目
++[[エピデミク・ガール]] (feat. 初音ミク)
++[[恋するうさぎ]] (feat. 初音ミク)
++[[お願い☆プロデューサー]] (feat. 初音ミク)
++[[Mikunologie]] (feat. 初音ミク)
++[[F.G.A.M.]] (feat. 巡音ルカ)
++[[グレープ]] (feat. 初音ミク)
++[[雨音、既視感]] (feat. 初音ミク)
++[[離さんといてよ]] (feat. 初音ミク)
++[[ハッピネス]] (feat. 初音ミク)
++[[MIA VOCE]] (feat. 初音ミク)
++[[LONG 4 U]] (feat. 初音ミク)
++[[チリユクトキハ]] (feat. 初音ミク)
++雨音、既視感 (feat. SAK)
++お願い☆プロデューサー (feat. SAK)
+
+**リンク
+-[[KarenT>>http://karent.jp/album/93]]
+-[[Website>>http://x-plorez.com/]]
+
+**コメント
+#comment

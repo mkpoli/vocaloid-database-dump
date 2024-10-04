@@ -1,0 +1,42 @@
+#right(){&furigana(みゆきすとP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/6752682" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/6752682">【ニコニコ動画】ミユキストPが作った曲リスト</a></iframe>)
+
+**特徴
+作り手名：『&u(){ミユキストP}』
+-P名は、初投稿曲の『[[お前の歌など聞きたくない]]』で「中島みゆきっぽい」という声が多かった事から。
+-アーティスト名は&b(){patalla}。
+-所持ボーカロイドは初音ミク、巡音ルカ、GUMI。
+-「昭和84年」とコメントされるように、懐かしいフォークソング風のメロディーが多い。
+-歌詞も味わい深く、曲調と合わせて大人びた雰囲気が漂う。
+-『[[セレシェイラ　～五月にしか咲けない桜～]]』『[[あこがれのラベンダー]]』『[[風の岬]]』など、北海道をテーマにした曲も。
+-『[[小樽って街は　～　歌ふことなき人への哀歌　～]]』から、出身は小樽だと思われる。
+-背景に写真が使われている事が多い。
+
+**リンク
+-[[PIAPRO>>https://piapro.jp/patalla]]
+
+**曲
+#list_by_tag(ミユキストP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**動画
+|&nicovideo(sm1903615)|&nicovideo(sm2603712)|
+|&nicovideo(sm3234927)|&nicovideo(sm5365371)|
+|&nicovideo(sm6427510)|&nicovideo(sm7013998)|
+|&nicovideo(sm7672117)|&nicovideo(sm8085413)|
+|&nicovideo(sm8405557)|&nicovideo(sm9226033)|
+|&nicovideo(sm9731551)|&nicovideo(sm10880124)|
+|&nicovideo(sm12621161)|&nicovideo(sm12794331)|
+|&nicovideo(sm13513830)|&nicovideo(sm14731246)|
+|&nicovideo(sm15583340)|&nicovideo(sm15832409)|
+|&nicovideo(sm17123596)|&nicovideo(sm18822760)|
+
+
+
+**コメント
+- 歌詞が深くてどの曲もいい。メロディも優しくて懐かしい。  -- 名無しさん  (2010-01-01 23:14:38)
+- ミユキストＰことpatalla氏は2022年12月に急逝されました（享年57）。 現在、市立小樽文学館にてpatalla氏のボカロ他創作活動全般を追悼する企画展を2023年10月1日まで開催中。 詳細は  市立小樽文学館企画展 「荒木聡追悼展　ゲームとアニメの間にーJOSCA THE CREATORー」 2023.8.26（土）～10.1（日） 市立小樽文学館２階　無料展示スペース （小樽市色内1丁目9番5号　0134-32-2388）  小樽文学館ホームページ http://otarubungakusha.com/next/2023064404  小樽市ホームページ https://www.city.otaru.lg.jp/docs/2022082500047/  -- olternative  (2023-09-23 20:47:52)
+#comment()

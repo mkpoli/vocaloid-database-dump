@@ -1,0 +1,37 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+
+&nicovideo(http://www.nicovideo.jp/watch/sm9452211)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Alstroemeria～アルストロメリア～]]|CENTER:&bold(){Judgment}|CENTER:[[EDEN>EDEN/なおぽCD]]|
+
+|&bold(){[[なおぽ]]}|
+
+発売：2010年02月07日
+価格：￥1,000（税込）
+流通：即売
+サークル：Naoki
+
+**CD紹介
+-[[なおぽ]]氏2作目のCDにして初のフルアルバム。
+-THE VOC@LOID M@STER（ボーマス）11にて発表された。
+-新曲2曲を含めた全10曲を収録している。
+-ボーカルは神威がくぽ、初音ミク、GUMI、巡音ルカ。
+
+**曲目
++[[Judgment Day]]（がくぽ）
++[[お前が欲しい、何もかも欲しい]]（がくぽ）
++[[貴方の長く甘い果実を咥えたくて]]（ミク）
++Tsun-Dere（がくぽ・ルカ）
++[[私ハ還ルコトハ出来ナイ>ワタシハカエルコトハデキナイ]]（がくぽ）
++[[戦火の果てに生きて]]（ミク））
++White Night（がくぽ）
++[[Carnival～クリスマスは滅びた～]]（GUMI）
++[[Lost Christmas]]（GUMI）
++[[Wing～私の恋はオルゴール～>私の恋はオルゴール]]（ミク）
+
+**リンク
+-[[なおぽ氏のWebsite>>http://www.naoki-nk.com/index.html]]
+
+**コメント
+#comment

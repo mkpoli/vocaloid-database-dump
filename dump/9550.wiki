@@ -1,0 +1,48 @@
+#right(){&furigana()【登録タグ:&tags() 】}
+&ref(http://img.toranoana.jp/img/04/0010/22/33/040010223390-1.gif)
+&nicovideo(http://www.nicovideo.jp/watch/sm10337357)
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){UFHs -luxury}|CENTER:[[汚れたプリズム]]|
+
+|&bold(){[[におP]]}|
+
+||CENTER:即売|CENTER:同人|
+|CENTER:発売|CENTER:2010年5月9日|CENTER:2010年5月27日|
+|CENTER:価格|CENTER:￥1,000|CENTER:￥1,500（税込）|
+|CENTER:サークル|>|CENTER:におにおデンジャラス|
+
+|&bold(){[[とらのあなで購入する>>http://www.toranoana.jp/mailorder/article/04/0010/22/33/040010223390.html]]}|
+
+作詞・作曲：&bold(){[[におP]]}
+作詞・ジャケット写真：&bold(){[[裏花火]]}
+ジャケットデザイン：&bold(){朋子}
+ゲストボーカル：&bold(){[[UmiNeko>>http://dic.nicovideo.jp/a/umineko]]、[[布団姉さん>>http://dic.nicovideo.jp/a/%E5%B8%83%E5%9B%A3%E5%A7%89%E3%81%95%E3%82%93]]、[[向日葵>>http://dic.nicovideo.jp/a/%E5%90%91%E6%97%A5%E8%91%B5(%E6%AD%8C%E3%81%84%E6%89%8B)]]、[[spBlue>>http://dic.nicovideo.jp/a/spblue]]}
+
+**CD紹介
+- 情緒豊かで渋い味の曲を送り出してきた[[におP]]の、初となるCDアルバム。
+- THE VOC@LOiD M@STER 12（ボーマス12）にて頒布される。
+- 「[[僕は灰猫]]」「[[蜜蜂>蜜蜂/におP]]」「[[指結い。]]」「[[rain stops, good-bye]]」等、これまで発表してきた曲を詰め込んだ、渾身の作品。
+- アルバム前半はボーカロイド、後半はゲストの歌い手をそれぞれボーカルに迎えている。
+- 現在、とらのあなで委託販売が行われている。
+
+**曲目
++朝が来る
++[[僕は灰猫]]
++[[指結い。]]
++[[帰り道>帰り道/におP]]
++休日
++[[ナトリウム]]
++繰返し
++[[蜜蜂>蜜蜂/におP]] feat. UmiNeko
++[[rain stops, good-bye]] feat. 向日葵
++下手な駆引き　feat. UmiNeko×spBlue
++[[common things feat. 布団姉さん>>http://www.nicovideo.jp/watch/sm7887933]]
++[[Losing game feat. UmiNeko>>http://www.nicovideo.jp/watch/sm7965313]]
++空に着く　feat. 向日葵
++　？
+
+**リンク
+- [[CD案内>>http://momojirin.blog45.fc2.com/blog-entry-23.html]]
+
+**コメント
+#comment

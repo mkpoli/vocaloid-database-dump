@@ -1,0 +1,24 @@
+#right(){&furigana(てつじんばんど)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/13627657" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/13627657">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-[[5ラウンドP]]・[[おいも>朝メシP]]・[[とふかふ>ふかふかP]]・[[△P]]・[[こそあどP]]・[[右マッチP]]の6人によるコラボユニット。
+-２曲目「ひまわり」から△Pが、６曲目「愚痴日記」からこそあどPがメンバーに加わった。
+-動画にはMikuMikuDanceがよく使われている。
+-うｐ主米のひどさは仕様ですｗ
+
+**曲
+#list_by_tag(鉄人バンド,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(鉄人バンドCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm7457245)|&nicovideo(http://www.nicovideo.jp/watch/sm7684652)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm8208154)|&nicovideo(http://www.nicovideo.jp/watch/sm8614420)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9235126)|&nicovideo(http://www.nicovideo.jp/watch/sm10347595)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm10882759)|&nicovideo(http://www.nicovideo.jp/watch/sm12212881)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12811164)||
+
+**コメント
+#comment()

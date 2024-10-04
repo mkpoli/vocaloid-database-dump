@@ -1,0 +1,26 @@
+#right(){&furigana(やみずこP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/6393072" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/6393072">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-KAITOの使い手。
+-氏のKAITOは病んでいるようである。
+-歌詞だけ見てみろよ。
+
+**曲
+#list_by_tag(病みズコP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(病みズコPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm3438121)|&nicovideo(http://www.nicovideo.jp/watch/sm3616183)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3692504)|&nicovideo(http://www.nicovideo.jp/watch/sm3677576)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3815521)|&nicovideo(http://www.nicovideo.jp/watch/sm4209965)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4624933)|&nicovideo(http://www.nicovideo.jp/watch/sm5206798)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5449433)|&nicovideo(http://www.nicovideo.jp/watch/sm6597599)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6699976)|&nicovideo(http://www.nicovideo.jp/watch/sm6817956)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7419014)|&nicovideo(http://www.nicovideo.jp/watch/sm8395983)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm8554488)||
+
+**コメント
+#comment()

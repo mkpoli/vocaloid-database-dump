@@ -1,0 +1,37 @@
+#right(){&furigana(はるつげぐさ) &furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/023_20091225192437_0240_0240.jpg)
+|&b(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/id316543252]]}|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){春告草}|CENTER:[[糸竹]]|
+
+|&bold(){[[稲敷常州]]}|
+
+発売：2009年5月22日
+価格：￥600、１曲￥150 
+流通：配信
+レーベル：[[KarenT（クリプトン・フューチャー・メディア）>>http://karent.jp/album/23]]
+名義：[[稲敷常州>>http://karent.jp/artist/pp000019]]
+
+**CD紹介
+-稲敷常州氏初のアルバム。KarenTレーベルより全国向けにダウンロード販売が行われている。
+
+>（以下、KarenTの作品概要からの引用）
+>全曲が東アジアの民族音楽風楽曲で構成されています。
+>常州の特異な音楽体験から紡ぎ出された楽曲は、和風とも中華風とも取れる不思議な音響空間を作り出します。
+>VOCALOID音楽の新たな可能性を感じていただけたら幸いです。
+>（引用終）
+
+**曲目
++[[常世の如く]]　～常陸讃歌～(feat. MEIKO & 初音ミク)
++[[華人街雨情]]　～紫陽花の咲くころ～(feat. MEIKO)
++[[西域楽府]]　～沙漠の歌姫～(feat. MEIKO & 初音ミク)
++[[藤宴]]　～うつろう季節～　(feat. MEIKO & 初音ミク)
++[[水郷古鎮]]　～古き水のまち～　(feat. MEIKO & 初音ミク)
+
+**リンク
+-[[KarenT>>http://karent.jp/album/23]]（iTunes Store以外の配信先はこちらを参照）
+-[[KarenT「稲敷常州」>>http://karent.jp/artist/pp000019]]
+
+**コメント
+#comment

@@ -1,0 +1,46 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/645_20110119123002_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){CHIP TEARS}|CENTER:[[PLANET DANCE]]|
+
+|&bold(){[[とらのあなで購入する>>http://www.toranoana.jp/mailorder/article/04/0010/18/48/040010184820.html]]}|
+|&bold(){[[D-STAGEで購入する>>http://d-stage.com/shop/detail.php?seq=9220]]}|
+|&bold(){[[メロンブックスで購入する>>http://shop.melonbooks.co.jp/shop/list/?DA=chgitemtype&G=&F=213001004839]]}|
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/chip-tears/id416967248]]}|
+
+|&bold(){[[U-ji]]}|[[U-SUKE]]|
+
+|流通|CENTER:即売|CENTER:同人|CENTER:配信|
+|発売|>|CENTER:2009年5月17日|CENTER:2011年2月4日|
+|価格|CENTER:￥1,000|CENTER:￥1,050（税込）|CENTER:￥900 / 1曲￥150|
+|サークル|CENTER:U-ji×揚げ物P×いーえるPのもうどうにでもなーれ(仮)|CENTER:U-ji’s HOUSENRG||
+
+**CD紹介
+-U-ji氏による1stアルバム。
+-THE VOC@LOiD M@STER 8（ボーマス8）で頒布された。
+-FLASHのなんかあれをどうこうした仕掛けを施したPVで注目を浴びた「[[Chip Tears]]」を始めとする、キラキラしたテクノポップを詰め込んだCD。
+-イラストは、ドット絵を「[[つみれ>>http://piapro.jp/tsumire]]」氏、イラストを「[[オカヒジキ>>http://piapro.jp/toridaisuki]]」がそれぞれ手がけている。
+-現在通販各所は品切れとなっている。KarenTレーベルよりダウンロード販売中。ただし、1曲目と10曲目を除いた全8曲構成。
+
+**試聴用動画
+&nicovideo(http://www.nicovideo.jp/watch/nm6960307)
+
+**曲目
++Overtures
++[[Obedience-素直さ-]]
++[[Toward the future]]
++[[ジェリービーン]]
++[[Chip Tears]]
++[[スイートドリーム]]
++Chip Tears（CHIP mix）
++Chip Tears（TEARS mix）
++Chip Tears（Ace F Extendede Eurobeat Remix）
++megamix
+
+**リンク
+-[[本人ブログ>>http://ameblo.jp/housenrg/]]
+-[[KarenT>>http://karent.jp/album/645]]
+
+**コメント
+#comment

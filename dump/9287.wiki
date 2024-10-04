@@ -1,0 +1,43 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm10051940)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Music Sketch}|CENTER:-|
+
+|&bold(){[[かいわれP]]}|
+
+||CENTER:即売|CENTER:同人|
+|発売|CENTER:2010年3月28日|CENTER:-|
+|価格|CENTER:￥500|CENTER:-|
+|サークル|>|CENTER:MicchiMusicStudio|
+
+作詞：&bold(){Libra,みっち（かいわれP）}
+作曲：&bold(){みっち（かいわれP）}
+イラスト：&bold(){葉粉蜜柑}
+
+**CD紹介
+-かいわれP初のCDにして総集編となるアルバム。
+-THE VOCALOID PARADISE（ボーパラ3）にて発表。
+
+**曲目
++[[Next Adventure]]
++[[milford]]
++[[蒼き羽を持つものよ>蒼き羽をもつものよ]]
++[[フラストレーション・オーバー！]]
++[[Flame Sound]]
++[[星の海]]
++Predicable
++[[Trick]]
++[[北極星]]
++[[夏恋歌]]
++[[南からの風]]
++[[つつじの花]]
++[[Thanks For...]]
++[[粉雪の街]]
++Monotone
+
+**リンク
+-[[特設サイト>>http://habcy.web.fc2.com/musicsketch.html]] 
+
+**コメント
+#comment

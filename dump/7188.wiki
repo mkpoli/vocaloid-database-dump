@@ -1,0 +1,37 @@
+#right(){&furigana(ぽかぽか) &furigana()【登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186123157.jpg,x=300,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/nm8728328)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){ぽかぽか。}|CENTER:-|
+
+|&bold(){[[Nutts]]}|
+
+||CENTER:即売|CENTER:同人|
+|発売|>|CENTER:2009年11月15日|
+|価格|CENTER:￥500|CENTER:|
+|サークル|>|CENTER:可愛い女の子|
+
+**CD紹介
+-Nutts初となるファーストフルアルバム。
+-ニコニコ動画に投稿したデビュー作から代表曲、新曲を収録したNutts渾身の一枚。
+-曲は全てRemixされており、特に『[[CuriousBox]]』と『[[Imitate Snow]]』は別アレンジバージョンを収録。
+-Nuttsを知ってる人、知らない人どちらにもお勧めできる一枚。
+
+**曲目
++[[CuriousBox]]-Expanded Edition-
++[[唄を歌えなくなった少女の唄]]
++[[LostGlacier]]
++[[Imitate Snow]]-Album Ver.-
++[[雨、でもずっと晴れ。]]
++ぽかぽか。　&color(red){NEW!}
++[[あれぐれっと！]]　
++[[おやすみ。>おやすみ。/Nutts]]
+
+**リンク
+-[[アルバム特設サイト>>http://alterroot.yu-nagi.com/vomas10.html]]
+
+**コメント
+#comment

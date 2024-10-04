@@ -1,0 +1,51 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+#image(http://www.tinysymphony.com/wordpress/wp-content/uploads/1970/01/el2nd_150px.jpg,http://www.tinysymphony.com/,title=いーえるP,blank)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Rise of Dark ～ MRH featuring VOCALO FAMILY]]|CENTER:&bold(){Liberator　~解放者~}|CENTER:[[一度きりの物語]]|
+
+|&bold(){[[いーえるP]]}|[[U-ji]]|
+
+||CENTER:即売|CENTER:同人|CENTER:配信|
+|発売|>|CENTER:2009年11月15日|CENTER:2011年1月12日|
+|価格|CENTER:￥1,000|CENTER:￥1,313（税込）|CENTER:￥900 / 1曲￥150|
+|サークル|>|>|CENTER:氷山の一角獣([[U-ji]]とのサークル)|
+
+**CD紹介
+-いーえるPのセカンドアルバム。
+-ジャケットイラストは鋼音ミクの生みの親で有名な飯時さん。
+-ボーカロイドマスター10での購入者にはサークルHMverses6.9制作イラスト小冊子「Official Bootleg」が付属。
+
+**曲目
++解放者 (inc.Toccata And Fugue, J.S.Bach) feat.初音ミク・鏡音リン・巡音ルカ
++[[レトロスペクト]] feat.初音ミク
++[[刻印]] feat.巡音ルカ
++[[チャールストン・ドリーム]] feat.初音ミク
++[[偽りのエゴイスト]] feat.がくっぽいど
++[[ロケット☆ブースター]] feat.メグッポイド
++[[音像サナトリウム]] feat.初音ミク
++[[深紅の月>深紅の月 Moon of The Crimson]] feat.初音ミク・鏡音リン
++[[おまいのハートを舗装してあげるッ！]] feat.鏡音リン (Bonus Track [[U-ji]] Remix)
+
+※トラック1・2・5・7はCD用新曲（2・5トラックのPVをニコニコへ投稿致しました）
+※トラック4はオルガンをHAMMONDへ差し替えました。
+※トラック6はMIX再調整版です。
+※トラック8はよりロック寄りに再アレンジ・大改修を施したアルバムバージョンとなっています。
+（作者ブログより）
+
+**関連動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm2280411)|&nicovideo(http://www.nicovideo.jp/watch/sm4604331)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6795978)|&nicovideo(http://www.nicovideo.jp/watch/sm7459842)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm8617784)|&nicovideo(http://www.nicovideo.jp/watch/sm8674819)|
+
+**リンク
+-[[作者ホームページ>>http://www.tinysymphony.com/]]
+-[[にゃっぽん>>http://v-nyappon.net/?m=pc&a=page_f_home&target_c_member_id=506]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/20/26/040010202649.html]]
+-[[メロンブックス>>http://shop.melonbooks.co.jp/shop/detail/213001005835?LIVRET=off]]
+-[[グレップ>>http://grep.will-zeal.net/tsuhan/dview_searchcri.cfm?janlname=TinySymphony&janl=1&pagedata=1]]
+-[[KarenT>>http://karent.jp/album/618]]
+
+**コメント
+- 1曲目の注釈はバッハのトッカータとフーガだと思われます  -- 名無しさん  (2009-11-04 23:53:15)
+#comment

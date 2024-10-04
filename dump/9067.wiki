@@ -1,0 +1,48 @@
+#right(){&furigana(connect)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&ref(http://karent.jp/npdca/125_20091225201729_0240_0240.jpg)
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[MUSIC LIFE>MUSIC LIFE/CD]]|CENTER:&bold(){connect}|CENTER:[[brand new day>brand new day/U-ske]]|
+
+|&bold(){[[U-ske]]}|
+
+発売：2009年11月25日
+価格：￥1,200 / 1曲￥150
+流通：配信
+レーベル：KarenT
+名義：[[U-ske>>http://karent.jp/artist/pp000130]]
+ジャケットイラスト：[[零花>>http://cloviastudio.net/]]
+
+**CD紹介
+>1st・2ndアルバムよりウェブ未公開曲12曲に、書き下ろし楽曲を加えたアルバム
+>（KarenT作品概要より）
+CD名：『&u(){connect}』(&u(){記入})
+-U-ske氏のVOCALOIDオリジナルアルバム第2.5弾。
+-今までリリースした2枚のCDのうち、CDのみの収録だった12曲を収録したアルバム。同人イベントに中々行けない人たちにとってはこれ以上無く嬉しいアルバムではないだろうか。
+
+**曲目
++[[Remind of you]] -S.S. Mix- (feat. 初音ミク)
++トウシン (feat. 初音ミク)
++ロストラブレター (feat. 初音ミク)
++[[I hate you]] -S.S. Mix- (feat. 初音ミク)
++Please Please (feat. 初音ミク)
++フワフワ (feat. 初音ミク)
++[[つれていって]] -S.S. Mix- (feat. 初音ミク)
++Follow Me (feat. 初音ミク)
++LOVE2U LOVE4U (feat. 初音ミク)
++Adult (feat. 初音ミク)
++[[Regret>Regret/U-ske]] -M.L. Mix- (feat. 初音ミク)
++Surly Future (feat. 初音ミク)
++Close to you (feat. 初音ミク)
+
+**リンク
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/connect/id339476233]]}|
+-[[作者ホームページ（HERE and THERE）>>http://hat.lix.jp/]]
+-[[アルバム特設ページ>>http://hat.lix.jp/2_5th/]]
+-[[KarenT：「connect」>>http://karent.jp/album/125]]
+
+**コメント
+#comment

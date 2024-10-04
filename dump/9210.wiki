@@ -1,0 +1,48 @@
+#right(){&furigana(にまいめなう) &furigana()【登録タグ:&tags() 】}
+//#image(http://artical-riddim.net/nimaime.jpg,title=二枚目なう,blank)
+
+#amazon(B005RALCOG)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm10604089)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[桜満開なう]]|CENTER:&bold(){二枚目なう}|CENTER:[[オトメ☆純情☆発信中]]|
+
+|&bold(){[[ぶりるP]]}|[[飴っころ>longan]]|
+
+||CENTER:即売|CENTER:同人|
+|CENTER:発売|>|CENTER:2010年3月28日|
+|CENTER:価格|CENTER:￥1,000|CENTER:￥1,160（税込）|
+|CENTER:サークル|>|CENTER:蜜柑派最後の砦|
+
+作詞・作曲：&bold(){[[ぶりるP]]}
+イラスト：&bold(){[[拶>初]]}
+
+**CD紹介
+>&bold(){二枚目だからって、容赦しないわよ！}（特設サイトより）
+-ぶりるP二作目となるVOCALOIDアルバム、なう。
+-2010年3月28日に京都で開催された「THE VOCALOID PARADISE 3」（通称：ボーパラ3）で初頒布された、なう。
+-同日に本人のサイトで個人通販を開始する旨が告知されおり、&bold(){現在発送を開始している}、なう。
+-タイトルやサムネイルがものすごく気になる「[[恋ですね、わかります]]」「[[どうでもいい！]]」や、リンチャーズの曲としてKarenTからリリースされた「[[白いリボン]]」「[[もしもきみが]]」等の計10曲を収録している、なう。
+-ジャケットのイラストは「&bold(){ブリオッシュ画伯}」として知られる「&bold(){拶}」氏が手がけた、なう。
+-蛇足だが「なう」ネタについては[[ここ>>http://dic.nicovideo.jp/a/twitter]]を参照すると吉、なう。
+
+**曲目
++[[桜満開なう]]
++[[もしもきみが]]
++[[Morning Star>Morning Star/ぶりるP]]
++[[終わらないパレード]]
++[[恋ですね、わかります]]
++[[白いリボン]]
++どうして、ねぇ、どうして？
++[[どうでもいい！]]
++[[サンデイ・アフタヌーン]]
++[[NO MORE CHAIN]] (L REMIX)
+
+**リンク
+//-[[蜜柑派最後の砦>>http://artical-riddim.net/]]
+-[[通販サイト>>http://buriru.cart.fc2.com/ca1/1/p-r-s/]]
+
+**コメント
+- リンチャーズなう  -- 名無しさん  (2010-03-18 13:21:15)
+#comment

@@ -1,0 +1,31 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/267_20100331003925_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){night drive e.p.}|CENTER:[[sss e.p.]]|
+
+|&bold(){[[effe]]}|
+
+発売：2010年4月21日
+価格：￥300 / 1曲￥150
+流通：配信
+レーベル：KarenT
+ジャケットイラスト：[[maru>>http://piapro.jp/aa0557]]
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/night-drive-e-p-single/id366757009]]}|
+
+**CD紹介
+-[[effe]]氏初の配信シングル。
+-最新曲「[[night drive]]」と、「[[flicker evidence]]」のリミックスを収録。
+-ジャケットを含め、素敵な家具のように傍に置いて楽しんでもらえるような作品を目指しました。（作者ブログより）
+
+**曲目
++[[night drive]] （feat. 初音ミク）
++[[flicker evidence]] part.2 （feat. 初音ミク） 
+
+**リンク
+-[[KarenT>>http://karent.jp/album/267]]
+-[[ハコニワエフェクト（作者ブログ）>>http://effel.blog11.fc2.com/blog-entry-51.html]]
+
+**コメント
+#comment

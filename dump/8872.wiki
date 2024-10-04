@@ -1,0 +1,37 @@
+#right(){&furigana(わたしはみーむ) &furigana()【登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/zhore147051.jpg,x=220,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm9165328)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){わたしはミーム}|CENTER:-|
+
+|&bold(){[[Nak-amiP]]}|
+
+||CENTER:即売|CENTER:同人|
+|発売|CENTER:2009年12月30日|CENTER:-|
+|価格|CENTER:￥1,000|CENTER:-|
+|サークル|>|CENTER:ナクアミ|
+
+**CD紹介
+-コミックマーケット77（C77）、およびTHE VOC@LOID M@STER 11（ボーマス11）で発表された。
+-nak-amiP初となる同人誌。イメージコミック+仮想サウンドトラックCDという豪華仕様で頒布された。
+-CDには、幻想的な世界観を綴った物語音楽「[[わたしはミーム]]」と、その続編「[[ミームをさがして]]」を含めた全８トラックを収録している。
+-ゲスト原稿に[[盛るP]]、[[キャプミラP>キャプテンミライ]]等８名が参加し、こちらも豪華な顔並びとなっている。
+
+**曲目
++思い出のテーマ
++水辺（スキャット）
++[[わたしはミーム]]
++語り部（インストゥルメンタル）
++[[ミームをさがして]]
++沈黙の魔女のテーマ
++沈黙の使い（インストゥルメンタル）
++ミームをさがして（インストゥルメンタル）
+
+**リンク
+-[[作者ブログ>>http://www.voiceblog.jp/nakuami/]]
+
+**コメント
+#comment

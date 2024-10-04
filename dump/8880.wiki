@@ -1,0 +1,40 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/170_20100111192650_0240_0240.jpg)
+
+|&bold(){[[iTunesStoreで購入する>>http://itunes.apple.com/jp/album/childs-garden-ep/id350739229]]}|
+|&bold(){[[とらのあなで購入する>>http://www.toranoana.jp/mailorder/article/04/0010/20/83/040010208368.html]]}|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[STARLET>STARLET/CD]]|CENTER:&bold(){Child's Garden}|CENTER:CENTER:[[SHELL>SHELL/CD]]&br()[[CORE>CORE/otetsuCD]]|
+
+|&bold(){[[otetsu]]}|
+
+>&b(){ジャケットイラスト：[[riria009]]}
+
+|流通|CENTER:配信|CENTER:即売|CENTER:同人|
+|発売|CENTER:2010年1月30日|CENTER:2010年2月7日|CENTER:2010年2月|
+|価格|CENTER:￥600 / 1曲￥150|CENTER:￥500|CENTER:￥735|
+|サークル||>|CENTER:三重谷 Visual Works|
+|レーベル|CENTER:KarenT|>||
+ 
+**CD紹介
+-ルカ発売一周年を記念してKarenTより配信された、ルカオンリーの4曲入りミニアルバム。
+-THE VOC@LOiD M@STER 11（ボーマス11）でCDとしても頒布され、配信のものとは同内容。とらのあなでもCDが委託販売されている。
+-今作も自重しない鬱さ加減がことごとくツボに入る。
+
+**曲目
++[[Child's Garden]] (feat. 巡音ルカ)
++RED (feat. 巡音ルカ)
++Incineration (feat. 巡音ルカ)
++[[殻]] (feat. 巡音ルカ)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm9540128)|&nicovideo(http://www.nicovideo.jp/watch/nm9189114)|
+
+**リンク
+-[[作者ブログ>>http://otetsu721.blog60.fc2.com/]]
+-[[KarenT：「Child's Garden」>>http://karent.jp/album/170]]
+-[[KarenT：「巡音ルカ聖誕祭'10」特集ページ>>http://karent.jp/special/luka10]]
+
+**コメント
+#comment

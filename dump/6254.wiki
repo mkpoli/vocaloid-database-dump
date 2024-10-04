@@ -1,0 +1,37 @@
+#right(){&furigana(しっしゃもP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/12325600" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/12325600">【ニコニコ動画】日刊VOCALOIDオリジナル曲&PVほぼ全動画チェック</a></iframe>)
+
+**特徴
+作り手名：『&u(){しっしゃもP}』
+2009年2月、「[[でぃででぃるぱ]]」にてボカロPデビュー。
+//-早すぎた才能（[[でぃででぃるぱ]]）
+-【日刊VOCALOID系動画カタログ】オリジナル曲＆PVほぼ全部　の発案者。実装は一歩さん。
+
+**リンク
+-[[ニコニコ動画>>https://www.nicovideo.jp/user/3110084]]
+//-http://ippo.dip.jp/nico/nico/new/check.html
+//-[[ニコニコミュニティ>>http://ch.nicovideo.jp/community/co27114]]
+
+**曲
+#list_by_tagsearch(しっしゃもP,sort=furigana2,errmsg=まだ曲が登録されていません。,and,100)
+
+**CD
+#list_by_tagsearch(しっしゃもPCD,sort=furigana2,errmsg=まだCDが登録されていません。,and,100)
+
+**動画
+|&nicovideo(sm6177188)|
+
+**関連タグ内の更新履歴
+#region(close,関連タグ内の更新履歴)
+関連タグ内の更新履歴
+※「しっしゃもP」「しっしゃもPCD」タグ内で最近編集やコメントのあった記事を新しい方から10件表示しています。
+#list_by_tagsearch(しっしゃもP,しっしゃもPCD,sort=timestamp,sort2=desc,errmsg=まだ曲、CDが登録されていません。,or,10)
+#endregion
+
+**コメント
+- 早すぎた才能って何やねん。  -- 伊良部  (2010-10-29 08:57:34)
+#comment()

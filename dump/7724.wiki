@@ -1,0 +1,43 @@
+#right(){&furigana(おれののうないみくがいちばんかわいい4) &furigana()【登録タグ:&tags() 】}
+
+#image(http://studioiig.com/discography/oremiku4/oremiku4_banner.jpg,http://studioiig.com/discography/oremiku4/,title=俺の脳内ミクが一番可愛い4,blank)
+
+&ref(http://studioiig.com/_src/sc813/oremiku4_jacket28flont29.jpg,x=300,y=300)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[俺の脳内ミクが一番可愛い3]]|CENTER:&bold(){俺の脳内ミクが一番可愛い4}|CENTER:[[YoruMiku]]|
+
+|&bold(){[[IIG]]}|[[oiko]]|[[みよ]]|[[ムスカP]]|[[どぶウサギ]]|
+
+||CENTER:即売|
+|発売|CENTER:2009年12月30日|
+|価格|CENTER:￥500|
+
+**CD紹介
+-また君たちか。
+-Project DIVA Arcadeの楽曲募集をきっかけに、あの個性派クリエイター集団がまたも集結した合同企画CD第4弾。
+-C77で頒布。
+-CDのジャケット絵は、前作に続きマクー氏。
+
+**曲目
++シンキロウ / 作詞・作曲・編曲：oiko
++はれり・くるり / 作詞・作曲・編曲：みよ
++[[5. 4. 3. 2. 1. Fly High!!]] / 作詞・作曲・編曲：[[ムスカP]]
++[[Les Infortunes de la Vertu]] / 作詞・作曲・編曲：どぶウサギ
++エコロジカル事業仕分け / 作曲・編曲：ziki_7
++[[All Your Memories]] -refrain- / 作詞・作曲・編曲：[[IIG]]
++シンキロウ（off vocaloid）
++はれり・くるり（off vocaloid）
++5. 4. 3. 2. 1. Fly High!!（off vocaloid）
++Les Infortunes de la Vertu（off vocaloid）
++All Your Memories -refrain-（off vocaloid）
+
+**リンク
+-[[俺の脳内ミクが一番可愛い4（CD特設サイト）>>http://studioiig.com/discography/oremiku4/]]
+
+**コメント
+//- シンキロウデイズでも入ってるのかと思ったｗｗｗｗ
+- 追加乙！ちょっと過去に行って買ってくるわｗｗ  -- 名無しさん  (2013-04-06 18:51:17)
+//- またシンキロウデイズの類いか？はあ、あきれる。あ、シンキロウ信者は、私に呆れててください。一人で呆れてるだけですから。長文すみませんでした。  -- 雪崩  (2015-01-08 19:49:50)
+- 初音ミク可愛いですよね！  -- アバター  (2015-01-09 12:54:57)
+#comment

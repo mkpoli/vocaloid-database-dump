@@ -1,0 +1,31 @@
+#right(){&furigana(つきのP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/11641434" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/11641434">【ニコニコ動画】投稿動画</a></iframe>)
+
+**特徴
+-民族調、和風テイストを得意とする。変拍子もお手の物。
+-使用するVOCALOIDは鏡音リン・レン、鏡音リン・レンAppend、VY1。
+-トマトが大好きなレン廃腐男子。
+-使用言語はにゃう語。にゃう∩(・ω・)∩にゃう
+
+**リンク
+-[[作者HP>>http://tsukinowa.syakuhati.com]]
+-[[つきのPのすみか（ブログ）>>http://kitsutsukinowa.blog99.fc2.com/]]
+-[[PIAPRO>>http://piapro.jp/tsukinowa]]
+-[[twitter>>https://mobile.twitter.com/tsukinop_nyau]]
+
+**曲
+#list_by_tag(つきのP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(つきのPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm6495003)|&nicovideo(http://www.nicovideo.jp/watch/sm7754872)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7788934)|&nicovideo(http://www.nicovideo.jp/watch/nm12967732)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm13193286)|&nicovideo(http://www.nicovideo.jp/watch/sm13909303)|
+
+**コメント
+//- 私の友人に似た名前の人いますよｗｗｗ  -- 愛  (2011-08-22 20:47:01)
+//- ってか、一番get➚  -- 愛  (2011-08-22 20:49:54)
+- つきのPの民族調と調教好きですｖｖ  -- みさ  (2011-09-11 10:32:19)
+#comment()

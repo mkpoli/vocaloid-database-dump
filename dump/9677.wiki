@@ -1,0 +1,49 @@
+#right(){&furigana(ばふぉめっと) &furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/685_20110324095407_0240_0240.jpg)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm10463321)
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&b(){バフォメット}|CENTER:[[やしまユニテ]]|
+
+|&bold(){[[kiichi（なんとかP）]]}|
+
+||CENTER:即売|CENTER:同人|CENTER:配信|
+|発売|2010年5月9日||CENTER:2011年4月6日|
+|価格|CENTER:￥1,000|CENTER:￥-|CENTER:￥1,500 / 1曲￥150|
+|サークル|>|>|CENTER:なんとかかんとか|
+
+>作詞・作曲：&b(){kiichi}
+>ジャケットイラスト：&b(){[[Leche>>http://gno.xrea.jp/]]}
+>ジャケットデザイン：&b(){[[なぎみそ]]}
+
+**CD紹介
+-「kiichi（なんとかP）」単独名義では初となる、フルアルバム。
+-THE VOC@LOiD M@STER 12（ボーマス12）で頒布。
+-「[[Miktronica]]」「[[氷結のディスコ]]」等の初期の名曲、幻想的なエレクトロニカ「[[電気羊の夢]]」、穏やかな電子音の奏でるバラード「[[雨音色>雨音色/kiichi（なんとかP）]]」、盛るPとのコラボ作品「[[The Ghost of Romantic Tranceiver]]」、可愛くて賑やかな「[[にじいろのへび]]」、中毒性の高いテクノ調「[[Love Love Nightmare]]」等これまで発表してきた曲に、新曲を加えた全15曲を収録。
+- クロスフェード動画には、本人による各曲の一言コメントが載せてある。
+
+**曲目
++超暗黒幻想
++[[氷結のディスコ]]
++[[Miktronica II]]
++2026
++[[電気羊の夢]]（reprise）
++[[にじいろのへび]]
++原風景その２
++[[プラスチック・ガール]]
++[[The Ghost of Romantic Tranceiver]]
++原風景その３
++[[［I Love You］]]
++[[Love Love Nightmare]]
++[[雨音色>雨音色/kiichi（なんとかP）]]
++[[Miktronica]]
++The New Town Renaissance Plan of chairman baphomet
+
+**リンク
+-[[特設サイト>>http://kiiiichi.sakura.ne.jp/baphomet.html]]
+-[[KarenT>>http://karent.jp/album/685]]
+
+**コメント
+- wktk  -- 名無しさん  (2010-04-20 21:17:50)
+- いつの間にかピアプロでSuper Darknessの関連ファイルとして超暗黒幻想がうｐされてる  -- 名無しさん  (2011-03-03 11:12:09)
+#comment

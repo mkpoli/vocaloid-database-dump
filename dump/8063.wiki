@@ -1,0 +1,98 @@
+#right(){&furigana(かこめP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/13631314" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/13631314">【ニコニコ動画】</a></iframe>)|&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/14483299" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/14483299">【ニコニコ動画】</a></iframe>)|
+
+**特徴
+作り手名：『&u(){かごめP}』
+-アーティスト名は&b(){"きらめそ。"}。「[[かごめかごめ>かごめかごめ/かごめP]]」より&b(){"かごめP"}という名が付いた。
+-使用ボーカロイドはミク、がくぽ、ユキ、いろは、リン、キヨテル、ゆかり、GUMI、（ギャラ子）。
+--特に歌愛ユキの調声に定評があり&b(){"伝説のユキマスター"}として名を馳せている。ちなみにユキ廃。
+--「VOCALOMAKETS」の一員として、結月ゆかりの開発に参加しており、ゆかり初のオリジナル曲「[[Tiny PaRadisE]]」の作者である。ブログ中で、「初めて声を聴いたときから一目惚れ」したと語っている。&s(){気が多い方のようだ}
+-かっこいいロックやメタル、かわいいポップス、ネタ曲まで何でもこなす。
+-他製作者の楽曲のマスタリングや動画製作などを手掛けることもしばしば。
+-ひょんなことから歌愛ユキの中の人の正体を知ってしまったらしい。しかし、中の人については極秘事項、&del(){中に誰もいませんよ？}
+-「[[Mr.Music]]」の歌愛ユキパート及び作詞に携わっており、歌愛ユキが使用されている曲としては初となる[[ミリオン>曲一覧/ミリオン曲一覧]]を達成している。
+
+**ミリオン達成状況
+|CENTER:&bold(){曲名}|CENTER:&bold(){100万再生}|CENTER:&bold(){備考}|
+|[[Mr.Music]]|2014年11月7日|&bold(){歌愛ユキを用いたオリジナル曲では初}&br()[[れるりり]]氏、ロンチーノ=ぺぺ氏との共作|
+
+**リンク
+-[[tumblr>>https://planariya.tumblr.com/]]
+-[[PLANARIYA Recordings（作者ブログ）>>https://planariya.blogspot.com/]]
+-[[PIAPRO>>https://piapro.jp/kimeraso]]
+-[[Twitter>>https://twitter.com/kagome_p]]
+-[[YouTube>>https://www.youtube.com/user/kimeraso]]
+
+**曲
+登録が100曲を超え、一つのタグで全曲のリストアップが出来なくなりました。そのため、先頭文字を元にした12種類のタグ「曲あ」～「曲わ」、「曲英」、「曲他」をつけて、P名とともにselectするリストにしています。「曲他」は記号等です。ここに表示されていない曲については、[[タグキーワード「かごめP」を含むページ一覧>http://www5.atwiki.jp/hmiku/tag/かごめP]]を参照するか、wiki内検索をお願いします。
+ページが存在する場合は「かごめP」と「曲×」の2つのタグをつければ、ここに表示されるようになります。
+
+|&link_aname(A){あ行}|&link_aname(K){か行}|&link_aname(S){さ行}|&link_aname(T){た行}|&link_aname(N){な行}|&link_aname(H){は行}|&link_aname(M){ま行}|&link_aname(Y){や行}|&link_aname(R){ら行}|&link_aname(W){わ行}|&link_aname(AZ){英語}|&link_aname(1){記号・数字}|
+&search3(title=,size=100,and,ignore=own)
+&small(){&aname(,option=nolink){(}[[あ行>https://w.atwiki.jp/hmiku/?cmd=tagsearch&keyword=かごめP+曲あ&andor=and&opt1=2]])}
+#list_by_tagsearch(かごめP,曲あ,sort=furigana2,errmsg=「あ行」で始まる曲はまだ登録されていません。,and,100)
+&small(){&aname(K,option=nolink){(}[[か行>https://w.atwiki.jp/hmiku/?cmd=tagsearch&keyword=かごめP+曲か&andor=and&opt1=2]])}
+#list_by_tagsearch(かごめP,曲か,sort=furigana2,errmsg=「か行」で始まる曲はまだ登録されていません。,and,100)
+&small(){&aname(S,option=nolink){(}[[さ行>https://w.atwiki.jp/hmiku/?cmd=tagsearch&keyword=かごめP+曲さ&andor=and&opt1=2]])}
+#list_by_tagsearch(かごめP,曲さ,sort=furigana2,errmsg=「さ行」で始まる曲はまだ登録されていません。,and,100)
+&small(){&aname(T,option=nolink){(}[[た行>https://w.atwiki.jp/hmiku/?cmd=tagsearch&keyword=かごめP+曲た&andor=and&opt1=2]])}
+#list_by_tagsearch(かごめP,曲た,sort=furigana2,errmsg=「た行」で始まる曲はまだ登録されていません。,and,100)
+&small(){&aname(N,option=nolink){(}[[な行>https://w.atwiki.jp/hmiku/?cmd=tagsearch&keyword=かごめP+曲な&andor=and&opt1=2]])}
+#list_by_tagsearch(かごめP,曲な,sort=furigana2,errmsg=「な行」で始まる曲はまだ登録されていません。,and,100)
+&small(){&aname(H,option=nolink){(}[[は行>https://w.atwiki.jp/hmiku/?cmd=tagsearch&keyword=かごめP+曲は&andor=and&opt1=2]])}
+#list_by_tagsearch(かごめP,曲は,sort=furigana2,errmsg=「は行」で始まる曲はまだ登録されていません。,and,100)
+&small(){&aname(M,option=nolink){(}[[ま行>https://w.atwiki.jp/hmiku/?cmd=tagsearch&keyword=かごめP+曲ま&andor=and&opt1=2]])}
+#list_by_tagsearch(かごめP,曲ま,sort=furigana2,errmsg=「ま行」で始まる曲はまだ登録されていません。,and,100)
+&small(){&aname(Y,option=nolink){(}[[や行>https://w.atwiki.jp/hmiku/?cmd=tagsearch&keyword=かごめP+曲や&andor=and&opt1=2]])}
+#list_by_tagsearch(かごめP,曲や,sort=furigana2,errmsg=「や行」で始まる曲はまだ登録されていません。,and,100)
+&small(){&aname(R,option=nolink){(}[[ら行>https://w.atwiki.jp/hmiku/?cmd=tagsearch&keyword=かごめP+曲ら&andor=and&opt1=2]])}
+#list_by_tagsearch(かごめP,曲ら,sort=furigana2,errmsg=「ら行」で始まる曲はまだ登録されていません。,and,100)
+&small(){&aname(W,option=nolink){(}[[わ行>https://w.atwiki.jp/hmiku/?cmd=tagsearch&keyword=かごめP+曲わ&andor=and&opt1=2]])}
+#list_by_tagsearch(かごめP,曲わ,sort=furigana2,errmsg=「わ行」で始まる曲はまだ登録されていません。,and,100)
+&small(){&aname(AZ,option=nolink){(}[[英語>https://w.atwiki.jp/hmiku/?cmd=tagsearch&keyword=かごめP+曲英&andor=and&opt1=2]])}
+#list_by_tagsearch(かごめP,曲英,sort=furigana2,errmsg=「英語」で始まる曲はまだ登録されていません。,and,100)
+&small(){&aname(1,option=nolink){(}[[記号・数字>https://w.atwiki.jp/hmiku/?cmd=tagsearch&keyword=かごめP+曲他&andor=and&opt1=2]])}
+#list_by_tagsearch(かごめP,曲他,sort=furigana2,errmsg=「記号・数字」で始まる曲はまだ登録されていません。,and,100)
+
+**CD
+#list_by_tag(かごめPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm7686320)|&nicovideo(sm7891168)|
+|&nicovideo(sm8098660)|&nicovideo(sm8619149)|
+|&nicovideo(sm8694467)|&nicovideo(sm8990126)|
+|&nicovideo(sm9178272)|&nicovideo(sm9569325)|
+|&nicovideo(sm9801845)|&nicovideo(sm10589810)|
+|&nicovideo(sm11448659)|&nicovideo(sm12504072)|
+|&nicovideo(sm12545641)|&nicovideo(sm12698225)|
+|&nicovideo(sm12956107)|&nicovideo(sm13107727)|
+|&nicovideo(sm13527384)|&nicovideo(sm14092707)|
+|&nicovideo(sm15078196)|&nicovideo(sm15166160)|
+|&nicovideo(sm15687814)|&nicovideo(sm15878226)|
+|&nicovideo(sm15937226)|&nicovideo(sm16412917)|
+|&nicovideo(sm16489618)|&nicovideo(sm17638356)|
+|&nicovideo(sm17662815)|&nicovideo(sm18829871)|
+|&nicovideo(sm19498290)|&nicovideo(sm19636557)|
+|&nicovideo(sm19743048)|&nicovideo(sm20873530)|
+|&nicovideo(sm21528069)|&nicovideo(sm21670594)|
+|&nicovideo(sm22388891)|&nicovideo(sm22724038)|
+|&nicovideo(sm23182521)|&nicovideo(sm25221842)|
+|&nicovideo(sm25982069)|&nicovideo(sm27526810)|
+|&nicovideo(sm31809804)|&nicovideo(sm33347321)|
+**コメント
+- おぉ、やっと載った！応援してるので嬉しいですｗ  -- 名無しさん  (2010-02-28 01:04:49)
+- 伝説のユキマスターさん!でぃすこ☆しょこらてっく 大好きです*  -- 名無しさん  (2011-02-05 13:37:29)
+- だいすきだかごめP!!!!!!!!!  -- 名無しさん  (2011-03-30 12:55:10)
+- 次の曲こそ殿堂入り！  -- 素敵な名無しさん  (2012-03-30 23:56:38)
+- ユキの声の元の人を知っているだと？無駄に気になる・・・。  -- 名無しさん  (2013-11-26 00:57:49)
+- これからもかっこいい曲を作ってほしいものです　頑張ってください！  -- 名無しさん  (2013-12-06 18:25:31)
+- マスタリング含めるとすごい数のCDに関わってるよね  -- 名無しさん  (2014-04-08 20:28:23)
+- 使用ボカロのところにゆかりさんも追加してください出来る人！  -- 名無しさん  (2015-01-11 03:18:29)
+- 動画部分追加及び使用ボカロ等更新しました。mikiに関して、実際に使用してる動画がないようなので(合作でみきとPのmikiが登場する作品はある)、とりあえず外しました。ギャラ子について、現在使用できる状態（製品版）の所持が不明の為括弧つきとしています  -- 名無しさん  (2015-03-23 08:06:44)
+- 皆さんはkagomeP Dance Tracks買いました？私は早速買いました。  -- 名無しさん  (2017-11-27 21:54:53)
+- 意外と活動の幅が広すぎる  -- 名無しさん  (2024-06-02 21:48:39)
+#comment()

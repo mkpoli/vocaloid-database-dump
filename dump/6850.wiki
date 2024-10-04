@@ -1,0 +1,54 @@
+#right(){&furigana(きいろのまほう)&furigana()【登録タグ:&tags() 】}
+
+//#image(http://tsubu.ath.cx/~komso/kmcd0004/kmcd0004_bn1.gif,http://tsubu.ath.cx/~komso/kmcd0004.html,title=黄色の魔法,blank)
+//&ref(http://tsubu.ath.cx/~komso/kmcd0004/kmcd0004.jpg)
+
+#amazon(B007RE27UI)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){黄色の魔法}|CENTER:&bold(){[[Love Is Not Hidable / キミトメグルセカイ>Love Is Not Hidable／キミトメグルセカイ]]}|
+
+|&bold(){[[ムスカP]]}|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|>|CENTER:2009年8月15日|
+|価格|CENTER:￥1,000|CENTER:￥1,365（税込）|
+|サークル|>|CENTER:狐夢想屋|
+
+作詞・作曲：&bold(){[[ムスカP]]}
+イラスト：&bold(){[[碧茶]]}
+
+**CD紹介
+-すでにニコニコ動画でご好評頂いている楽曲に加え、巡音ルカの「キミトメグルセカイ」のレンバージョン、さらにCD用に書き下ろした新曲を収録。
+-ロック、ラテン、バラード等をポップ仕立てにしてお届けします！
+-DVDに収録された嵐の予感！PVはハイビジョン画質！（[[狐夢想屋（作者ホームページ）>>http://tsubu.ath.cx/~komso/]]より）
+-とらのあなとメロンブックスにて委託販売が行われている。
+
+**曲目
+Disc-1（CD）
++暁スタートライン（CD用新曲）
++[[嵐の予感！]]
++星の雫（CD用新曲）
++エンドレスナイト（CD用新曲）
++[[虹>虹/ムスカP]]（And My Bird Can Sing）
++[[最初のクリスマス]]
++[[キミトメグルセカイ]] -レン-
++暁スタートライン　Instrumental
++嵐の予感！　Instrumental
++星の雫　Instrumental
++エンドレスナイト　Instrumental
++虹（And My Bird Can Sing）　Instrumental
++最初のクリスマス　Instrumental
++キミトメグルセカイ -レンver-　Instrumental
+
+Disc-2（DVD）
++嵐の予感！PV（ハイビジョン画質）
+
+**リンク
+-[[作者ホームページ>>http://tsubu.ath.cx/~komso/]]
+-[[特設ページ>>http://tsubu.ath.cx/~komso/kmcd0004.html]]
+-[[めろんぶっくす>>http://shop.melonbooks.co.jp/shop/sp_len_kiiro.php]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/18/89/040010188982.html]]
+
+**コメント
+#comment

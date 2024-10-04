@@ -1,0 +1,34 @@
+#right(){&furigana()【登録タグ:&tags()】}
+&ref(http://karent.jp/npdca/250_20100310063559_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){R_in_mono.ep}|CENTER:[[Visions & Flowers]]|
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/r-in-mono-ep-ep/id364202011]]}|
+
+|&bold(){[[えこ。]]}|
+
+媒体：配信
+発売：2010年4月2日
+価格：￥600 / 1曲￥150
+レーベル：KarenT
+作詞・作曲：&bold(){[[えこまる>>http://karent.jp/artist/pp000109]]}
+イラスト：&bold(){[[秋赤音]]}
+
+**CD詳細
+-ニコニコ未発表の「スペクタクル」を含め、全曲が鏡音リン歌唱のミニアルバム。
+-2010年4月2日より、KarenTレーベルから全国配信されている。
+
+**曲目
++[[さんがつのあめ]] (feat. 鏡音リン)
++[[ハートは万華鏡]] (feat. 鏡音リン)
++[[A monochrome girl.>A monochrome girl. ( @the world's end )]] (feat. 鏡音リン)
++スペクタクル (feat. 鏡音リン)
++[[純情通リ刹那西入ル三丁目]] (feat. 鏡音リン)
+
+**リンク
+-[[KarenT:「R_in_mono.ep」>>http://karent.jp/album/250]]
+
+**コメント
+- こんな俺得アルバムがあったなんて…！  -- 名無しさん  (2011-03-09 01:37:39)
+#comment()

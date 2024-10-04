@@ -1,0 +1,37 @@
+#right(){&furigana(めがれんP) &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/6273591" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/6273591">眼鏡レンきゅんでメガレンPです。</a></iframe>)
+
+**特徴
+-正式名称はMeganeLenProject。よってメガレンPのPはProducerではなくProjectの略である。
+-メンバーは作詞・作曲・編曲・調教担当の雪乃(Yukino)と、ヴォーカル・眼鏡・夜の相手担当の鏡音レンの2名で構成されている。（またサポートメンバーとしてKAITO、MEIKO、初音ミク、鏡音リン、がくっぽいど、MIRIAMが居る。）
+-元々はカバー曲を製作していたが、2008年12月からオリジナル曲を製作している。
+-オリジナル曲では眼鏡レンをテーマにした曲を製作している。
+-P名は眼鏡属性のレン廃という理由から。（荒城の月コメントより）
+-デビュー作がミクの「メインキャラに萌えられない」である事はあまり知られていない。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/mksmegane]]
+
+**曲
+#list_by_tag(メガレンP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(メガレンPCD,100,sort=furigana,errmsg=まだCDが登録されていません) 
+
+**動画
+主に眼鏡レンのオリジナル曲
+|&nicovideo(http://www.nicovideo.jp/watch/sm9261225){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm9184298){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7748304){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm7207425){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6492211){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm6104965){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5651544){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm5510181){340,185}|
+カバー曲
+|&nicovideo(http://www.nicovideo.jp/watch/sm9548481){340,185}||
+|&nicovideo(http://www.nicovideo.jp/watch/sm5678123){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm4944039){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4788735){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm4653961){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4244790){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm4155659){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3850806){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm3295538){340,185}|
+
+
+**コメント
+- 眼鏡れんきゅんＹou tubeにもほしーーーーーー  -- レン  (2013-03-21 07:57:41)
+#comment()

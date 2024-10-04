@@ -1,0 +1,67 @@
+#right(){&furigana(The Girls in The Showtime)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo(https://www.nicovideo.jp/watch/sm11247450)
+作詞：[[錯乱P]]
+作曲：[[錯乱P]]
+編曲：[[錯乱P]]
+イラスト：[[メグル]]（[[pixiv>>https://www.pixiv.net/users/130249]]）・[[ごぜんぜうな]]（[[X(Twitter)>>https://twitter.com/gozenzeu7]]）
+唄：[[初音ミク]]・[[波音リツ]]
+
+**曲紹介
+曲名：『&u(){The Girls in The Showtime}』(&u(){ザ ガールズ イン ザ ショータイム})
+-初音ミクAppend solid と波音リツ強音源 SVM、力強い2人のボーカルによるVOCA/UTAUROCK。
+
+**歌詞
+空の空に　ガラクタ重ねて　ひとつずつ
+再生、崩壊と　ひとりぼっちの部屋の隅
+
+内気な夢を見て　人の群れから逃げ出した
+踏みにじられ　汚れてもそれでもまだ
+
+闇の中で踊る僕ら　We are the girls in the showtime now
+震える指で　描き出したの　空　ただ祈るだけ
+頭の奥に　ただ連なる言葉を　固く閉ざして
+Be in the showtime now
+
+　Maybe I'll be what I want!
+　But you say I'm crazy!
+　... I don't know why!
+
+幻想　辺浄土　最高のライフル　背信の勝利
+厭世の片端者　酸の雨に曝されて
+ハイ・タイドの夜　叫びと祈りの渦
+
+夢の中で踊る僕ら　We are the girls in the showtime now
+蒼然の空で　憐情を裂いたら　赤　ただ叫ぶだけ
+喧騒の中で　大事な記憶さえ　奪われぬように
+Be in the showtime now!
+
+僕らは踊る　ニューゲートの踊り
+We are the girls in the showtime now
+扇動につられ　加速する声
+Riding high now, floating around
+
+Be in the showtime now!
+
+再降下　僕ら夢の旅人って柄じゃない
+阿鼻叫喚　僕ら首唐櫃持ってゲバルト
+
+歩き出せ
+歩き出せ
+歩き出せ
+You're the girl in the showcase now
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+**コメント
+- りっちゃん大好きｗ  -- 紅姫  (2010-12-30 05:32:39)
+#comment()
+
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)

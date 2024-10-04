@@ -1,0 +1,41 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+
+|&nicovideo(https://www.nicovideo.jp/watch/sm15194823 )|&youtube(https://youtu.be/OGT5u9jA4vs){330,247}|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Wktk☆World Tour]]|CENTER:&bold(){RIN★MELTS}|CENTER:[[Korumelts]]|
+
+|&bold(){[[アンメルツP]]}|
+
+発売：2009年8月15日
+価格：￥800
+流通：即売
+サークル：G.C.M Records
+
+**CD紹介
+>「Let's Rin Hiiiiiiiiiiiiiiiiiiiiiiiiigh!!!!」
+-鏡音リンを大特集した、個人CD第2弾。
+-新曲や、巡音ルカ曲「トモエ」「Night Light Dance 2009」のリンによるセルフカバーなどを収録。
+-コミックマーケットC76にて初頒布。
+
+**曲目
++リンメルトーク
++メロメロダンス '09
++[[攻略本]]
++[[トモエ>トモエ/アンメルツP]] -Rin ver.-
++[[Night Light Dance 2009]] -Rin ver.-
++[[Reply:]]
++[[自分ということ]]
++おつかれマスター
++メロメロダンス '09 (off vocal)
++攻略本 (off vocal)
++Reply: (off vocal)
++自分ということ (off vocal)
+
+**リンク
+-[[特設サイト>>http://www.gcmstyle.com/0/release/rinmelts/]]
+-[[作者ホームページ(G.C.M)>>http://www.gcmstyle.com/]]
+
+**コメント
+- これ  -- 名無しさん  (2014-12-06 15:47:39)
+#comment

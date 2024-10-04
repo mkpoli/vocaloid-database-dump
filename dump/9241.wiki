@@ -1,0 +1,33 @@
+#right(){&furigana(ひとりのせかい) &furigana()【登録タグ:&tags() 】}
+//#image(http://kidding-stylez.cranky.jp/vm/img/hitoseka.jpg,title=ヒトリノセカイ)
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186108905.jpg,x=300,y=300)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){ヒトリノセカイ}|CENTER:[[DotLoids]]|
+
+|&bold(){[[ceresP]]}|
+
+流通：即売
+発売：2009年11月15日
+価格：￥500
+サークル：ヒトリノセカイ
+
+**CD紹介
+-ceresP1作目となるVOCALOID-CD。THE VOC@LOiD M@STER 10（ボーマス10）にて『[[DotLoids]]』と同時に頒布された。
+-すでに発表されていた「[[ヒトリノセカイ]]」「39La」等やそのカラオケトラックを収録した、全7曲入り。&color(white){生理？何のことだか私にはさっぱり(ry}
+
+**曲目
++[[ヒトリノセカイ]]
++Desert Healer
++39La -サクラ-
++Two Years -Meditation 922-
++ヒトリノセカイ (Off Vocal)
++Desert Healer (Off Vocal)
++39La -サクラ- (Off Vocal)
+
+**リンク
+-[[本人サイトのCD告知ページ>>http://kidding-stylez.cranky.jp/vm/]]
+
+**コメント
+#comment

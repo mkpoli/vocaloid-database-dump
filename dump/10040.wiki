@@ -1,0 +1,54 @@
+#right(){&furigana(millstones)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/1925013" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/1925013">【ニコニコ動画】</a></iframe>)
+
+**特徴
+作り手名：『&u(){millstones}』（&u(){みるすとーんず}）
+-2008/11/18、「[[明日は明日の風が吹く]]」でデビュー。
+-使用ボカロは ミク・ルカ・GUMI・IA 。
+-かつて、自作曲をBGMにしたMADを作っていた。
+-得意ジャンルはナードコア・テクノ系。
+-ボカロでも自作曲MADと同じく、ハウス・エレクトロニカ系統の楽曲を製作している。
+-殿堂入り作品に「[[計画都市]]」「[[可能世界のロンド]]」「[[キップル・インダストリー]]」「[[カガリビト]]」「[[未来紀元歴元年]]」がある。
+
+**リンク
+-[[サークルScriptedCity Revised.>>https://scriptedcity.aroundhalf.info/]]
+-[[作者ブログ>>https://millstones.tumblr.com/]]
+-[[Twitter>>https://twitter.com/millstones]]
+-[[YouTube>>https://www.youtube.com/user/millstonesCh]]
+-[[ニコニコ大百科（単語記事）>>https://dic.nicovideo.jp/a/millstones]]
+
+**曲
+#list_by_tagsearch(millstones,sort=furigana2,errmsg=まだ曲が登録されていません。,and,100)
+
+**CD
+#list_by_tagsearch(millstonesCD,sort=furigana2,errmsg=まだCDが登録されていません。,and,100)
+
+**VOCALOIDオリジナル曲
+|&nicovideo(nm5286764)|&nicovideo(nm5517730)|
+|&nicovideo(nm6087598)|&nicovideo(nm6371305)|
+|&nicovideo(nm6922887)|&nicovideo(nm7277748)|
+|&nicovideo(sm9094966)|&nicovideo(sm9405740)|
+|&nicovideo(sm9970229)|&nicovideo(sm10462222)|
+|&nicovideo(sm10723549)|&nicovideo(sm11654663)|
+|&nicovideo(sm13509161)|&nicovideo(sm14021485)|
+|&nicovideo(sm17031196)|&nicovideo(sm18920639)|
+|&nicovideo(sm21726936)|&nicovideo(sm21793330)|
+**VOCALOIDカバー・アレンジ曲
+|&nicovideo(sm12002316)|>|
+
+**コメント
+//- 記事作成お疲れ様です！  -- 名無しさん  (2010-05-24 11:17:17)
+- この人の世界に入り込んでしまいたいです。  -- 小島  (2010-09-24 22:38:33)
+- 黄昏ホリックの記事ってないのかな？  -- 名無しさん  (2010-11-19 00:05:28)
+- 「黄昏ホリック」追加しました。編集は初めてなもので粗も多いかと思いますがよろしくお願いします。  -- 名無しさん  (2010-11-24 17:21:36)
+- 大好きです!  -- 名無しさん  (2011-05-04 01:14:23)
+- millstonesさんの曲は全部大好きです。愛してます！！  -- 色彩  (2011-05-15 10:36:33)
+- P界の村上春樹だと思ふ  -- とらこ  (2011-09-02 00:36:46)
+- millstonesさんの曲ホンッッッッッッット大好きです！　  -- うだび  (2011-09-03 00:36:38)
+- 優しく爽やかで聴きやすい  -- 名無しさん  (2011-09-19 01:31:41)
+- 戻ってきて  -- ぅぅぅぅ  (2023-06-14 21:28:47)
+#comment()

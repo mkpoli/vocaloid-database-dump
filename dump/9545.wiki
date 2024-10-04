@@ -1,0 +1,40 @@
+#right(){&furigana(clear)&furigana()【登録タグ:&tags()】}
+&nicovideo(http://www.nicovideo.jp/watch/nm10333231)
+作詞：[[Noёl]]
+作曲：[[Noёl]]
+編曲：[[Noёl]]
+唄：巡音ルカ
+
+**歌詞
+罪深き炎の中で…
+
+誰も知らぬ場所でただ一人
+心と閉ざし歪んだ祈りを
+Endless guilty blaze!
+
+誰も知らぬ場所でただ一人
+荒んだ眼で禁忌の言葉を　繰り出す
+生きていく事さえ許されぬならば
+背徳の盟約に口付けを…
+‐血に染められし物語‐
+
+Glory Tale　深紅の　Strega　断罪に抗う為
+Regret Faith　炎を纏い　踊る　踊る
+深い闇へ　堕ちていく…
+
+忘れられし場所でただ一人
+狂気に似た悲痛の叫びを　繰り返す
+生きていく事さえ許されぬならば
+背徳の盟約に口付けを…
+‐灰になるまで灼き尽くす‐
+
+Glory Tale　深紅の　Strega　恐れは消え去ったけれど
+Regret Faith　人の心が思い出せない
+戻れない
+
+Glory Tale　最後の　Strega　惨劇が幕を閉じる
+Regret Faith　炎と共に　崩れ　滅ぶ
+永久の闇へ　堕ちていく…
+
+**コメント
+#comment()

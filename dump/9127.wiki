@@ -1,0 +1,44 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&ref(http://img.toranoana.jp/img/04/0010/20/62/040010206265-1.gif)
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){HI-TRANCE AIRLINE}|CENTER:-|
+
+|&bold(){[[とらのあなで購入する>>http://www.toranoana.jp/mailorder/article/04/0010/20/62/040010206265.html]]}|
+|&bold(){[[あきばお～こくで購入する>>http://www.akibaoo.com/02/commodity_param/ctc/82090200/cmc/2500020111284/shc/0/]]}|
+|&bold(){[[SweepRecordSHOPで購入する>>http://sweeprecord.biz/?pid=17932304]]}|
+
+|&bold(){[[鼻そうめんP]]}|&bold(){[[なゆたP]]}|&bold(){[[粒子P]]}|&bold(){[[定額P]]}|&bold(){[[Clean Tears]]}|&bold(){[[ツナマヨP]]}|&bold(){[[Atsushio]]}|&bold(){[[Taishi]]}|
+
+||CENTER:即売|CENTER:同人|
+|CENTER:発売|>|CENTER:2009年12月30日|
+|CENTER:価格|CENTER:\1,500|CENTER:\1,890（税込）|
+|CENTER:サークル|>|CENTER:LINEAR|
+
+**CD紹介
+-&bold(){"Hi-TRANCE" = "穿いトランス" + "HiGH-TRANCE" !!}【&bold(){[[百>>http://dic.nicovideo.jp/a/hi-trance]]}】
+-ミクトランスの第一線で活躍するPが勢揃いしたコンピレーション・アルバム。
+-コミックマーケット77にて頒布、後に委託販売がなされた。
+-ジャケットイラストは「かんざきひろ」氏（＝鼻そうめんP）が手がけた。
+
+**曲目
++Acrossgust / [[鼻そうめんP]]
++[[AOZORIZED]] / [[NAYUTA>なゆたP]]
++Song of eternity / [[粒子P]]
++Look Away / [[定額P]]
++Lapislazuli / [[Clean Tears]]
++[[Plugout>プラグアウト]] / 鼻そうめんP
++Fragrance / [[ツナマヨP]]
++Light Flight / Atsushio
++World Line / Taishi
+
+**リンク
+-[[特設サイト>>http://www.linear.nu/lncd-0005.html]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/20/62/040010206265.html]]
+-[[あきばお～こく>>http://www.akibaoo.com/02/commodity_param/ctc/82090200/cmc/2500020111284/shc/0/]]
+-[[SweepRecordSHOPで購入する>>http://sweeprecord.biz/?pid=17932304]]
+
+**コメント
+- マジで意味分からん、素晴らし過ぎるじゃないか…。このPたちはミクが出てくる前はどこにいたんだろう…？  -- ss268  (2012-01-27 01:40:46)
+- 鼻そうめんPさんなら、前から「Hiroyuki Oda」というDJとして活動中です。  -- 名無しさん  (2015-07-31 23:20:43)
+- 紹介文にもあるけど、なにせ、面子がすごい。頒布当時の有名ミクトランスマスターが揃ってる。コンピに殆ど参加していないPもいるので、ディスクメディアとして持っておきたい人には、とても貴重なCD。  -- 名無しさん  (2016-11-20 00:17:56)
+#comment

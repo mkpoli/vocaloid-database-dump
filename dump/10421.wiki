@@ -1,0 +1,40 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/443_20100625195716_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Leyenda]]|CENTER:&b(){Trees of Origin}|CENTER:[[暗夜月想]]|
+
+|&bold(){[[SeikoP]]}|
+
+|媒体|CENTER:即売|CENTER:同人|CENTER:配信|
+|発売|>|CENTER:2010年6月20日|CENTER:2010年7月14日|
+|価格|CENTER:￥800|CENTER:￥840（税込）|CENTER:￥900 / 1曲￥150|
+|サークル|>|CENTER:Peridot Foresta||
+
+-作詞・作曲・イラスト：&b(){[[Seiko]]}
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/trees-of-origin/id380631592]]}|
+
+**CD紹介
+-歌モノ・インスト含めて全8曲を収録した、SeikoPのミニアルバム。
+-2010年6月20日の「DEAR MASTER!」（ディアマス）＠新大阪にて頒布される。
+-D-STAGEとWORLD DISQUEで委託販売が行われていた。
+-7月6日の時点でCD版は全て完売しており、再販の予定も無いとのこと。
+
+***曲目
++[[Blue Amber]]
++[[Dryas (PartI)]]
++Cristal Clear
++Lime Pothos
++[[Ancient Ring]]
++[[Caoin]]
++Dryas (PartII)
++Hotarubi
+
+**リンク
+-[[CD告知>>http://sei-peri.seesaa.net/article/152729081.html]]
+-[[KarenT：「Trees of Origin」>>http://karent.jp/album/443]]
+
+**コメント
+- 30枚程度しか販売されなくて瞬殺だったとか。SeikoP、ご自分のニコニコでの人気度を把握しそびれていたようです。（初参加のPにはよくある事らしい）  -- 名無しさん  (2010-07-08 23:47:24)
+#comment()

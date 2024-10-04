@@ -1,0 +1,30 @@
+#right(){&furigana(あまおと)&furigana()【登録タグ:&tags() 】}
+&ref(http://blog-imgs-30.fc2.com/a/m/a/amane69/20090512044203a67.jpg)
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){雨音}|CENTER:&bold(){[[黒い猫と白い花>黒い猫と白い花/CD]]}|
+
+|&bold(){[[←P]]}|
+
+流通:即売
+発売:2009年2月7日
+価格:未調査
+サークル:未調査
+
+作詞・作曲：&bold(){[[←P]]}
+イラスト：&bold(){のこのこ}
+
+**CD紹介
+-「ふわふわずしん」をコンセプトとする[[←P]]の1stミニアルバム。
+-THE VOC@LOiD M@STER 7（ボーマス7）で頒布された。
+
+**曲目
++[[雨音-アマオト-]]
++[[晴れのち曇り、時々涙]]
++[[Christmas prayer]]（words：highG）
++[[-オトアメ-音雨]]
+
+**リンク
+-[[$ky Rainsound（作者ホームページ）>>http://amane69.blog23.fc2.com/]]
+
+**コメント
+#comment

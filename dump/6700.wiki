@@ -1,0 +1,27 @@
+#right(){&furigana(ぽき)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/13682172" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/13682172">【ニコニコ動画】作ったもの</a></iframe>)
+
+**特徴
+-初音ミクを用いた曲を投稿している。
+-疾走感のある曲、POP調の曲、官能的な曲、落ち着いた曲などレパートリー多数。
+-歌詞の表現に定評がある。切なさ、焦燥などを歌ったものが多い。
+-投稿ペースがやたら早い。
+-デビュー曲から取った「セムセムP」という呼び名も存在する。
+
+**リンク
+-[[ピアプロ>>http://piapro.jp/pocky_body]]
+
+**曲
+#list_by_tag(ぽき,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(ぽきCD,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**動画(マイリスト数が多いものを4つ)
+|&nicovideo(http://www.nicovideo.jp/watch/sm7843313)|&nicovideo(http://www.nicovideo.jp/watch/sm7922723)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7773415)|&nicovideo(http://www.nicovideo.jp/watch/sm8152912)|
+
+**コメント
+- 記事追加ありがとう！このひとの曲好き。  -- 名無し  (2009-09-29 04:05:50)
+- クレナイエフェクトだれか歌詞たのんます  -- 名無しさん  (2010-12-06 02:04:09)
+#comment()

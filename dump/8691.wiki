@@ -1,0 +1,35 @@
+#right(){&furigana(たいかいちょう)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/8307622" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/8307622">【ニコニコ動画】大怪鳥の投稿動画</a></iframe>)
+
+
+**特徴
+作り手名：『&u(){大怪鳥}』(&u(){だいかいちょう})
+-2009年05月07日「[[麗しの指宿いわさきホテル]]」で初音ミクデビュー。
+-その後、一度削除されていたが、10年以上経った2019年08月にソロ版が復刻された。
+-初音ミクはこれ一作品だけで、それ以前はネタ動画や「歌ってみた」などをアップしていたようだ。
+-どういう理由でPを剥奪されたのか、処女作中で「大怪鳥P」から「大怪鳥」にHNを変更している。
+-2019年08月、[[麗しの指宿いわさきホテル]]のソロ復刻版が公開される。
+-2023年03月01日、新曲である「[[富士雪華]]」を実に14年ぶりに投稿している。
+
+**曲
+#list_by_tagsearch(大怪鳥,sort=furigana2,errmsg=まだ曲が登録されていません。,and,100)
+
+**CD
+#list_by_tagsearch(大怪鳥CD,sort=furigana2,errmsg=まだCDが登録されていません。,and,100)
+
+**動画
+|&youtube(https://www.youtube.com/watch?v=DE9YdRX6KUM){342,187}|&youtube(https://www.youtube.com/watch?v=8K2F28OxrtY){342,187}|
+
+**関連タグ内の更新履歴
+#region(close,関連タグ内の更新履歴)
+関連タグ内の更新履歴
+※「大怪鳥」「大怪鳥CD」タグ内で最近編集やコメントのあった記事を新しい方から10件表示しています。
+#list_by_tagsearch(大怪鳥,大怪鳥CD,sort=timestamp,sort2=desc,errmsg=まだ曲、CDが登録されていません。,or,10)
+#endregion
+
+**コメント
+#comment()

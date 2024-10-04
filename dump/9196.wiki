@@ -1,0 +1,50 @@
+#right(){&furigana()&furigana()【登録タグ:&tags()】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm9981341)|&youtube(http://www.youtube.com/watch?v=i-NTurlfwfk){342,187}|
+|&nicovideo(sm34128826)|&youtube(http://www.youtube.com/watch?v=_xA9Akq5oFU){342,187}|
+作詞：[[shu-tP]]
+作曲：[[shu-tP]]
+編曲：[[shu-tP]]
+唄：[[MEIKO]]
+
+**曲紹介
+-曲自体は投稿する3ヶ月前に完成していたが、MMDで苦労した模様。
+-動画はN式MEIKO。
+-2018年11月5日、MEIKO生誕祭2018に合わせ、Glint Of Soundのkaya氏のアイディアを形にした別バージョン「GOS STYLE」が投稿された。「[[MIRAI>>MIRAI/shu-tP]]」と同時投稿。
+
+**歌詞
+([[作者リンク>>http://shu-t.sonic-wave.net/article/143381271.html]]より転載)
+
+何かに怯え暮らしてる毎日
+誰かの視線感じてる「誰なの？」
+何処にも逃げる事できぬ現実
+何処までもまとわりついてくる「影」
+
+Why do you restrict me?
+Am not I evaded throughout the life by you?
+Please teach it.
+Do you love me?
+Please please teach it.
+
+全てを背後から
+鋭い視線で見つめ
+全てを感じとり
+何もかも見透かして
+
+生まれた時から
+あなたとの時間を共に
+この先もあなたと
+様々な時間（とき）過ごす
+
+lalala...
+
+何かに怯え暮らしてる毎日
+誰かの視線感じてる「誰なの？」
+何処にも逃げる事できぬ現実
+何処までもまとわりついてくる「影」
+
+**コメント
+#comment()

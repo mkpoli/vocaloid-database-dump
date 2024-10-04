@@ -1,0 +1,36 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&ref(http://piapro.jp/npdca/020_20091225192230_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Colorful Light}|CENTER:-|
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/colorful-light/id314781173]]}|
+
+|&bold(){[[ポコP]]}|
+
+発売：2009年5月13日
+価格：￥900、1曲￥150
+流通：配信
+レーベル：KarenT（クリプトン・フューチャー・メディア）
+
+**CD紹介
+-ポコPが今までに作った8曲のVOCALOID曲+1曲を集めたアルバム。
+-「+1」に該当する表題曲「Colorful Light」はこのアルバムのための書き下ろし曲となっている。
+
+**曲目
++スターライト (feat. 初音ミク)
++グラヴィティー (feat. 初音ミク)
++Breezin' (feat. 初音ミク)
++コズミックバード (feat. 初音ミク)
++[[シーサイド]] (feat. 初音ミク)
++[[Sweetheart]] (feat. 初音ミク)
++eternal yours (feat. 初音ミク)
++[[恋シテル]] (feat. 初音ミク)
++Colorful Light (feat. 初音ミク)
+
+**リンク
+-[[作者ブログ「Wenig Spas」>>http://doperabbit.blog22.fc2.com/]]
+-[[KarenT：「Colorful Light」>>http://karent.jp/album/20]]
+
+**コメント
+#comment()

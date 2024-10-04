@@ -1,0 +1,26 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/16978085" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/16978085">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-オーケストラによる物語風の楽曲などを発表している。
+-投稿された動画は、いずれも代理アップロードとなっている。&br()つまり&bold(){おかんP}とは、動画投稿者の母のことを指す。
+-ニコニコ大百科のスレ内に、おかんP本人の書き込みがある。&br()それによると、ファミコンが世に出る前からゲーム音楽を作り続けていたという、長い音楽経験の持ち主のようだ。
+
+//**リンク
+//-個人HP、PIAPRO、muzie等ある場合は、ここに。当wiki以外のサイトへリンクを貼る場合は必ず「>>」で別ウインドウでリンクしてください。
+
+**曲
+#list_by_tag(おかんP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+//**CD
+//#list_by_tag(おかんPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm8202455)|&nicovideo(http://www.nicovideo.jp/watch/sm8298693)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm8298981)|&nicovideo(http://www.nicovideo.jp/watch/sm8299145)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm8737239)|&nicovideo(http://www.nicovideo.jp/watch/sm8737722)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12726937)|&nicovideo(http://www.nicovideo.jp/watch/sm14388566)|
+
+**コメント
+- しっとりとしたメロディに癒されます。  -- naoh  (2009-11-07 18:44:09)
+#comment()

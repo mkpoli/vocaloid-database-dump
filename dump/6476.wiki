@@ -1,0 +1,71 @@
+#right(){&furigana(きっとP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/8978552" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/8978552">【ニコニコ動画】キッドP</a></iframe>)
+
+**特徴
+作り手名：『&u(){キッドP}』
+-[[クリスタルP]]と仲が良いらしく、多くの曲を一緒に作っている。
+-&b(){KID(キッド)}という名前で「歌ってみた」カテゴリでも活動している。
+-キッドPの口癖が「なのです☆」という由来からサークル名は「NnDS☆」になった。（クリスタルP命名）
+-無類の苺好き。
+
+**リンク
+-[[NnDS☆(作者ホームページ)>>https://nnds.soudesune.net/]]
+//-[[kid's land(作者ブログ)>>http://yaplog.jp/kidsworks/]]
+-[[作者ブログ>>https://kid-blog.jugem.jp]]
+-[[PIAPRO>>https://piapro.jp/kazya]]
+-[[Twitter>>https://twitter.com/kid_NnDS]]
+-[[ニコニコ>>https://www.nicovideo.jp/user/628183]]
+-[[YouTube>>https://www.youtube.com/channel/UCBOfy2Z25U_BLL_mIac13-Q]]
+
+**曲
+#list_by_tag(キッドP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(キッドPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|>|BGCOLOR(#A66):COLOR(#FFF):CENTER:&font(b,11pt){オリジナル曲}|
+|&nicovideo(sm4978444)|&nicovideo(sm5569914)|
+|&nicovideo(sm6142926)|&nicovideo(sm6151383)|
+|&nicovideo(sm6467355)|&nicovideo(sm6600316)|
+|&nicovideo(sm6665786)|&nicovideo(sm6939707)|
+|&nicovideo(sm7414426)|&nicovideo(sm8619796)|
+|&nicovideo(sm9207262)|&nicovideo(sm9218135)|
+|&nicovideo(sm10584206)|&nicovideo(sm10823833)|
+|&nicovideo(sm11681609)|&nicovideo(sm12539641)|
+|&nicovideo(sm13089428)|&nicovideo(sm13140447)|
+|&nicovideo(sm13148351)|&nicovideo(sm14794274)|
+|&nicovideo(sm15044683)|&nicovideo(sm16226183)|
+|&nicovideo(sm16533107)|&nicovideo(sm16766099)|
+|&nicovideo(sm17430255)|&nicovideo(sm17561555)|
+|&nicovideo(sm18530890)|&nicovideo(sm19249731)|
+|&nicovideo(sm19680850)|&nicovideo(sm19688965)|
+|&nicovideo(sm19994026)|&nicovideo(sm20339300)|
+|&nicovideo(sm21918574)|&nicovideo(sm22885270)|
+|&nicovideo(sm23825431)|&nicovideo(sm25203981)|
+|&nicovideo(sm27199423)|&nicovideo(sm27878793)|
+|&nicovideo(sm28420590)|&nicovideo(sm28565508)|
+|&nicovideo(sm29039964)|&nicovideo(sm29363393)|
+|&nicovideo(sm30075466)|&nicovideo(sm30307626)|
+|&nicovideo(sm31834621)|&nicovideo(sm32202140)|
+|&nicovideo(sm32484557)|&nicovideo(sm32712796)|
+|&nicovideo(sm33376841)|&nicovideo(sm34378022)|
+|&nicovideo(sm34376630)|>|
+
+|>|BGCOLOR(#00ff00):COLOR(#FFF):CENTER:&font(b,11pt){提供曲}|
+|&nicovideo(sm21235003)|&nicovideo(sm22534168)|
+|&nicovideo(sm24419742)|>|
+
+|>|BGCOLOR(#66A):COLOR(#FFF):CENTER:&font(b,11pt){カバー曲}|
+|&nicovideo(nm4252462)|&nicovideo(sm5314436)|
+
+**コメント
+- キッドPのCDと曲の項目が連続して作られていたのに、Pの項目が無いままでしたので、作成しました。僕はキッドPに詳しくありませんので、誰か詳しい方は特徴の追記をお願いします。  -- 名無しさん  (2009-09-08 19:36:05)
+- てかクリスタルPとキッドPって仲いいの！？・・・メッチャすごいし。  -- 名無しさん  (2012-02-17 17:53:13)
+- キッドＰのレンきゅんめっちゃ萌えです！　さすがです、調教が好きです！  -- 名無しさん  (2014-07-08 19:26:16)
+- キッドP大好きです。  -- 元禄  (2014-09-09 06:30:08)
+#comment()

@@ -1,0 +1,29 @@
+#right(){&furigana(clear)&furigana()【登録タグ:&tags() 】}
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[THE ENDLESS SKY]]|CENTER:&bold(){cacophony}|CENTER:[[MINORITY>MINORITY/CD]]|
+
+|&bold(){[[No.D]]}|[[ぺぺろんP]]|
+
+発売：2009年2月22日
+価格：￥500（税込）
+流通：即売
+サークル：我楽多スタジオ
+
+**CD紹介
+-No.DのVOCALOIDアルバム第2弾。代表作「[[火葬曲]]」を含む全7曲を収録し、ボーマス7にて初頒布される。
+-Bonus trackはぺぺろんPアレンジによる「[[Seeker]]」のRin ver.を収録。
+
+**曲目
++[[巡姫舞踊曲]]
++てるてる坊主の唄
++[[ピエロプレイ]]
++[[鳥風月]]
++[[火葬曲]]
++[[cacophony]]
++Seeker 〜Rin ver.〜
+
+//**リンク
+//-
+//
+**コメント
+#comment

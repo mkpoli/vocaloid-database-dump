@@ -1,0 +1,10 @@
+#right(){【登録タグ:&tags()】}
+//↑タグ忘れ防止のための表示
+曖昧さ回避のためのページ
+----
+-[[haruno-suke]]の曲
+--[[I Sing For You/haruno-suke]]
+-[[パワーコードP]]の曲
+--[[I sing for you/パワーコードP]]
+
+#include(曖昧さ回避の追加の仕方/告知)

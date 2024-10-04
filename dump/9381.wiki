@@ -1,0 +1,37 @@
+#right(){&furigana(ふかくぼりょう)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/16646501" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/16646501">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-2009年02月25日『[[Freiheit]]』でVOCALOIDデビュー
+-以前バンド活動をしており、当時バンドのために制作した曲をVOCALOIDに合わせて作り直したものを発表していたが3作目の&br()『[[Birthday>Birthday/フカクボリョウ]]』から新たに制作した曲を発表している。
+
+***作風
+-ストレートで力強いロック曲をメインに発表している。
+-サウンドのレベルからしっかりとしたバンド経験や音楽暦が感じられる。
+-感情や思いが届く「歌」を制作している。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/Schwarzer]]
+-[[Twitter>>https://mobile.twitter.com/Leungxxx/with_replies]]
+
+**曲
+#list_by_tag(フカクボリョウ,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(フカクボリョウCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm9171105)|&nicovideo(http://www.nicovideo.jp/watch/sm9319593)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9842476)|&nicovideo(http://www.nicovideo.jp/watch/sm10105287)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm11250868)||
+***バンド時代の曲
+|&nicovideo(http://www.nicovideo.jp/watch/sm6265237)|&nicovideo(http://www.nicovideo.jp/watch/sm6582672)|
+
+**コメント
+- もっと評価されるべき！個人的にこの人の歌が一番好き！  -- 輪音ムク  (2010-09-20 19:08:40)
+- ↑に同感＼(^o^)／  -- 名無しさん  (2011-03-07 12:03:13)
+- _theBLUE最高。  -- 名無しさん  (2011-06-06 09:09:07)
+- the blue最高?もっと評価されるべき!!まぢで。  -- ｶｼﾞｷﾏｸﾞﾛP  (2011-06-12 00:11:30)
+- この曲でルカはまったwもっともっと評価されろおおお!!  -- ばるばろん  (2011-09-27 22:39:38)
+- 全体的にもっと評価がほしい  -- 名無しさん  (2013-03-13 16:09:53)
+#comment()

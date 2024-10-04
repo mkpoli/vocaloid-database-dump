@@ -1,0 +1,60 @@
+#right(){&furigana(まももP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/15754540" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/15754540">【ニコニコ動画】</a></iframe>)&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/22093662" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/22093662">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-伸びやかで素直な歌詞＆調教、後半に向けて一気に盛り上がる展開やきらめく分散和音などが特徴だが、未だ模索中とのこと。
+
+**リンク
+-[[まもも家（作者ホームページ）>>http://www.s-mamomo.com/]]
+-[[どうしようもなく日記的なもの（作者旧ブログ）>>http://blog.livedoor.jp/mamomomomomomo/]]
+-[[PIAPRO>>http://piapro.jp/potois35753]]
+-[[twitter>>http://twitter.com/mamomop]]
+
+**曲
+#list_by_tag(まももP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(まももPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm8756201)|&nicovideo(http://www.nicovideo.jp/watch/sm8811997)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm8878860)|&nicovideo(http://www.nicovideo.jp/watch/sm8943077)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9004659)|&nicovideo(http://www.nicovideo.jp/watch/sm9073854)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9172258)|&nicovideo(http://www.nicovideo.jp/watch/sm9721139)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9721174)|&nicovideo(http://www.nicovideo.jp/watch/sm9721217)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9721268)|&nicovideo(http://www.nicovideo.jp/watch/sm10368609)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm10385382)|&nicovideo(http://www.nicovideo.jp/watch/sm10775721)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm10978517)|&nicovideo(http://www.nicovideo.jp/watch/sm11183820)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm11613602)|&nicovideo(http://www.nicovideo.jp/watch/sm12310221)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12705947)||
+
+**コメント
+- まももPはもっと評価されるべき。・・・・・と思いつつも、有名になってほしくないオレガイル。  -- 名無しさん  (2010-04-26 23:40:18)
+- わかるぜ。でもほんともっと評価されていい人だよなぁ。後はセールスしだいだと思うんだけどなぁ  -- 名無しさん  (2010-07-27 03:00:15)
+- 最近はけっこうマイリス増えてきたよね　500越えとか　でも少しさびしいなあ  -- 名無しさん  (2010-08-18 08:13:20)
+- そこらのありがちな曲よりはまももPの曲の方が断然良いと思う  -- 名無しさん  (2010-08-23 22:18:55)
+- まももP大好きだ　Mirageヘビロテしてます　これほどハズレ曲ない人めずらしい  -- 名無しさん  (2010-12-04 14:07:17)
+- 最近noesis知って驚きました。他の曲も聞いてみたいですo(^-^)o  -- Stella  (2011-01-20 08:55:34)
+- あのメロディーにあのミクの調教具合………いくら聴いても飽きないな………  -- 名無しさん  (2011-01-30 14:26:27)
+- 私の中でまももP以上の存在はない  -- 名無しさん  (2011-04-03 13:23:13)
+- まももｐさんの曲を聴くと、すごく落ち着きます^^  -- あかた  (2011-06-04 13:42:40)
+- こういうジャンルの曲作ってる人まももPの他に誰がいる？  -- 名無しさん  (2011-08-04 23:04:49)
+- ↑落ち着く曲ってことなら、あーるP・minjita・びにゅPを個人的にオススメする  -- 名無しさん  (2011-08-21 13:18:23)
+- エレクトロニカが好きな人ならひとっつもハズレがないと思う!!  -- 名無しさん  (2012-01-07 00:35:12)
+- ↑おおお…ありがとうございます、さっそく聴いてみますね！  -- あかた  (2012-01-27 22:09:53)
+- もっと評価されるべきだよなー  -- 名無しさん  (2012-04-12 13:36:48)
+- familyってまももPさんの曲で合ってますよね？追加してくださるとうれしいんですが…。  -- 赤毛七三  (2012-06-22 20:11:56)
+- 癒されます～(＾＾)  -- あ  (2012-07-12 10:34:08)
+- 最初の頃は仕事が早すぎだった、週１ペースとかヤバイ  -- 名無しさん  (2012-07-13 21:11:28)
+- この人のセンスやばい　もっと評価されるべきだと思う  -- 名無しさん  (2012-11-29 23:04:07)
+- ピアノの音がきれいなスローテンポな曲が多いですよ。本読みながらとか、いいですよ！  -- 名無しさん  (2013-01-07 08:33:31)
+- ピアノとか歌詞が綺麗過ぎていつも泣きます・・・感動です  -- 桜  (2013-01-07 15:43:29)
+- L'abbaye素敵です！読み方わかりませんが！  -- 名無しさん  (2013-08-20 14:45:53)
+- 3rdeyeのゲームの主題歌この人が作ってたんだね、名曲揃いだしすごい  -- 名無しさん  (2014-06-29 20:36:03)
+- 最近まももpとamazarashiしか聞いてないかもしれない。  -- 名無しさん  (2015-09-21 23:34:50)
+- family聞いてたらなんとなくlife is beautiful思い出して泣いたんだよな。歌詞も素晴らしいけど、ピアノとメロディーだけでもこんなに心にくるのはまももpさんだけです。聞く人にとって一番感動できる何かを思い起こさせる音を使ってくるからすごい。  -- 名無しさん  (2015-09-21 23:41:35)
+- まももさんのCDはblue ocean factoryというところで売ってますよ  -- 名無しさん  (2017-04-30 15:33:13)
+- 今でも聴いてます。いつ聴いても泣ける。  -- 名無しさん  (2020-10-13 11:00:33)
+- ぼくも今でも聴いています、そしてこれからもずっと  -- 名無しさん  (2021-03-02 01:29:17)
+- 今でも聴いています。  -- 名無しさん  (2023-01-29 07:03:33)
+#comment()

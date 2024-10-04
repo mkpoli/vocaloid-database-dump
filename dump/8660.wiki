@@ -1,0 +1,45 @@
+#right(){&furigana(らいめいP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/14552504" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/14552504">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-ギターポップやオルタナティブロックを得意とするP。
+-&b(){Art Polyphon}というサークルの楽曲担当として活動している。
+-P名は初投稿曲「[[雷鳴アンプリファ]]」に由来する。アーティスト名は&b(){cos k}（コスケ）。
+-そのデビュー作である「雷鳴アンプリファ」は初の殿堂入りも果たす。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/kosukegl7qro]]
+-[[作者HP>>http://papillon-mm.hp.infoseek.co.jp/]]
+-[[作者ブログ>>http://papillon0mm.blog15.fc2.com/]]
+-[[サークルHP>>http://art-polyphony.sakura.ne.jp/]]
+-[[Twitter>>https://twitter.com/arc_cos_k]]
+-[[YouTube>>https://www.youtube.com/user/kosukegl7qro]]
+
+**曲
+#list_by_tag(雷鳴P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(雷鳴PCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|>|BGCOLOR(#A66):COLOR(#FFF):CENTER:&font(b,11pt){オリジナル曲}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm8153259){360,123}|&nicovideo(http://www.nicovideo.jp/watch/sm8315318){360,123}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm8379165){360,123}|&nicovideo(http://www.nicovideo.jp/watch/sm8625510){360,123}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm8626236){360,123}|&nicovideo(http://www.nicovideo.jp/watch/sm8648517){360,123}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9117119){360,123}|&nicovideo(http://www.nicovideo.jp/watch/sm9331625){360,123}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9407815){360,123}|&nicovideo(http://www.nicovideo.jp/watch/sm9549089){360,123}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9741304){360,123}|&nicovideo(http://www.nicovideo.jp/watch/sm9878655){360,123}|
+
+
+**コメント
+- 雷鳴アンプリファ大好きだだだあ〜！！！！  -- かにゃ  (2010-07-10 13:13:18)
+- どうして新曲の歌詞うｐされないんですかー？  -- 名無しさん  (2010-08-20 23:20:42)
+- 雷鳴Pのワールドイズマインのアレンジ好きです！もっと評価されてほしい・・・  -- 黒音  (2010-10-01 16:20:45)
+- EXERIONの歌詞よろしくです！  -- 縷蓮  (2010-12-05 17:47:53)
+- 雷鳴P大好きだ！雷鳴アンプリファで惚れた！もっと評価されてもいいと思うんだが…  -- 名無しさん  (2011-06-19 23:08:34)
+- プログレッシブ  -- 名無しさん  (2011-06-21 06:54:27)
+- 雷鳴Pのレンの声好き！  -- 名無しさん  (2011-09-15 21:45:07)
+- 雷鳴Ｐさんの曲は、全体的にスピード感にあふれ、聞いていて、爽快感がある。  -- 龍奇  (2011-09-30 02:02:22)
+- やっぱ雷鳴アンプリファいいよね～  -- がつこ  (2013-05-15 07:41:18)
+- 雷鳴Pさんの曲どれも好きです。もっともっと評価されてほしい方。雷鳴アンプリファだけでなく、別の曲も聞いてみるべき。  -- パン  (2014-10-18 02:09:35)
+#comment()

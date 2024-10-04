@@ -1,0 +1,83 @@
+#right(){&furigana(へれしーまんしょん)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm10206295)|
+作詞：[[マイゴッドP]]
+作曲：[[マイゴッドP]]
+編曲：[[マイゴッドP]]
+唄：弱音ハク（[[LOLA]]）、[[初音ミク]]、[[MEIKO]]
+
+**曲紹介
+>マイゴッド「オマージュの館」
+>ここまでそのまま突っ込んだらもはやアレンジでは。
+>
+>＃65 迷子の実験室(9) [Neutral-Dark]　合体させる所。
+>-ハイパーリスペクトタイム？　ノンノン、ハイパーリスペクトソング。
+>-不協和音は気にしない。
+>-進行もフレーズも完全手癖を採用の為、過去曲に激似でも気にしない。
+曲名：『&u(){ヘレシー・マンション}』
+-ヘレシー（heresy）…異端、反論、異端信仰　　　マンション（mansion）…マンション、邸宅、館
+
+**歌詞
+//（[[引用元のページ名>>引用元のURL]]より転載）
+&color(#999999){　ようこそ、私の実験室へ。}
+&color(#999999){　歓迎はしないが、楽しんでいって貰えたら幸いだ。}
+&color(#999999){　今回はいつもの調声をしていない。その代わりに調教しておいた。}
+&color(#999999){　さぁ、遊戯的実験をはじめようか。}
+
+&color(#999999){　ようこそ、ヘレシー・マンションへ。}
+&color(#999999){　主人の代わりに私がご案内致します。}
+&color(#999999){　確かに薄汚れた館では御座いますが…}
+&color(#999999){　もしやお忘れでしょうか？}
+&color(#999999){　ではその何かを思い出して頂けたら幸いで御座います。}
+
+&color(#999999){　それは、確かに受け取ったはずだ。私も、君も。}
+
+day by day, your communication
+is grown grown cheap and tricky.
+what is A? and what is B?
+they are love in mad in mansion.
+don't you worry to kill some demon?
+are you going unite me?
+no, no, I want to be in your mind.
+no, no, I want to go with you.
+
+please don't forget me.
+"my best regards in the future."
+
+&color(#999999){　ようこそ、ヘレシー・マンションへ。}
+&color(#999999){　ここは、感情無き人形と造られた悪魔の館。}
+&color(#999999){　そんなワタクシ共では御座いますが、}
+&color(#999999){　是非とも歓待させて頂きたく存じます。}
+
+&color(#999999){　ようこそ、ヘレシー・マンションへ。}
+&color(#999999){　そろそろ思い出して貰えたかしら？}
+&color(#999999){　それは、貴方が願ったもの。}
+&color(#999999){　それを、確かに貴方は受け取った筈。}
+
+&color(#999999){　あぁ。確かに受け取った。私も、君も。}
+
+&color(#999999){　ここは、ヘレシー・マンション。}
+&color(#999999){　もう分かったかしら？}
+&color(#999999){　それは、私が願ったもの。}
+&color(#999999){　それを、確かに貴方は奪っていったのよ。}
+
+day by day, your communication is grown grown cheap and tricky.
+what is A? and what is B? they are love in mad in mansion.
+don't you worry to kill some demon? are you going unite me?
+no, no, I want to be in your mind. no, no, I want to go with you.
+
+please don't forget me. 
+"my best regards in the future."
+
+&color(#999999){　これで今回の実験は終わりだ。}
+&color(#999999){　来訪を感謝する。}
+&color(#999999){　こんごともよろしく。}
+&color(#999999){　では、ごきげんよう。}
+
+
+**コメント
+- 日本語訳見るまでおなじみのセリフに気付かなかった。いやはや素晴らしい。しみじみとメガテニストで良かったと思うな  -- 名無しさん  (2010-04-09 08:28:39)
+#comment()

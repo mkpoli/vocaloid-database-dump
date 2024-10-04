@@ -1,0 +1,73 @@
+#right(){&furigana(killingme)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|http://ewind.homeip.net/impress/200910/8316.html|
+|(※2013年4月末に[[E-Wind閉鎖>>http://ewind.seesaa.net/article/356251434.html]]のため現在視聴不可)|h
+作詞：[[Ryuuuu]]
+作曲：[[Ryuuuu]]
+編曲：[[Ryuuuu]]
+唄：[[巡音ルカ]]
+
+**曲紹介
+>&bold(){半日で完成させたため}
+>&bold(){荒削りなところもありますが}
+>&bold(){今までで一番の自信作になったかもしれません。}
+>ハードなギターを入れてみたり、
+>ボーカロイドも強めにボコーダかけたり
+>今までのカワイイ感じからすこし
+>脱してみました。
+>感想、アドバイスおねがいします。(Eternal Windより) 
+曲名：『&u(){killing me}』(&u(){キリング ミー})
+
+**歌詞
+※1
+I loved U so much
+Boy, Do U know?
+U shared things
+I'd never told
+But U, Boy...
+Made us nothing
+
+※2
+Tellin'U
+U're just killing me
+No more missing me
+I just want to say Good bye 2 U
+No get away
+
+Fairy tail won't last till end
+U could see, Boy
+Congratulation, yeah
+Celebration
+No imitation
+Hey U!!! Get away!!!
+
+3,2,1,0!
+
+※2 repeat
+※2 repeat
+
+3,2,1,0!
+
+※2 repeat
+※2 repeat
+※2 repeat
+
+※1 repeat
+※1 repeat
+
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+**コメント
+- きりん組  -- 名無しさん  (2009-10-24 15:42:03)
+- ↑ｗｗ  -- 名無しさん  (2010-12-27 16:40:25)
+#comment()
+
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)

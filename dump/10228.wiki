@@ -1,0 +1,49 @@
+#right(){&furigana(あなたはどのみくにこいをしますか) &furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/336_20100521172659_0240_0240.jpg)
+#image(http://koichikurin.web.fc2.com/img/koichikurin_banner_b.jpg,title=あなたはどのミクに恋をしますか)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){あなたはどのミクに恋をしますか}|CENTER:[[Puzzle>Puzzle/CD]]|
+
+|&bold(){[[恋竹林]]}|
+
+||CENTER:即売|CENTER:同人|CENTER:配信|
+|発売|CENTER:2010年5月5日|CENTER:2010年5月5日|CENTER:2010年6月16日|
+|価格|CENTER:￥1,000|CENTER:￥1,050|CENTER:￥1,500 / 1曲￥150|
+|サークル|>|>|CENTER:恋竹林|
+|レーベル|>|CENTER:-|CENTER:KarenT|
+|ジャケットイラスト|>|>|CENTER:e-megu|
+
+|&bold(){[[とらのあなで購入する>>http://www.toranoana.jp/mailorder/article/04/0010/22/35/040010223504.html]]}|
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/id375950338]]}|
+
+**CD紹介
+-サークル恋竹林の1stアルバム
+-全曲フルリマスター＆未発表曲3曲を含む全13曲を収録！
+-キラキラした優しい音がつまってる
+-5月9日開催のTHE VOC@LOiD M@STER 12（ボーマス12）で頒布される。が、5月5日開催のM3でも先行して[[Clean Tears]]氏のブースでの委託頒布が行われた。
+-その後とらのあなでの委託販売、更にKarenTレーベルよりダウンロード販売が開始。
+
+**曲目
++[[今から君を愛してる]]
++[[when you touch me?]]
++[[ナイツ オブ カラー>ナイツオブカラー]]
++2-3 "恋竹林mix"
++[[涙腺突破ガメンミエン]]
++[[Can't stop fallin' in love, baby]]
++[[music kick]]
++ハナレバナ
++[[キューティージェリー]]
++[[ひらひらはらりら]]
++[[sweet capsule]]
++もう一度だけ
++[[スタートラック]]
+
+**リンク
+-[[CD特設HP>>http://koichikurin.web.fc2.com/index.html]]
+-[[恋竹林ブログ>>http://koichikurin.blog89.fc2.com/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/22/35/040010223504.html]]
+-[[KarenT：「あなたはどのミクに恋をしますか」>>http://karent.jp/album/336]]
+
+**コメント
+#comment

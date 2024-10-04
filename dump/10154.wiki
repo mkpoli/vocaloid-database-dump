@@ -1,0 +1,31 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/333_20100520085420_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[阿部犬の日曜日のあさ。]]|CENTER:&bold(){DYE_2}|CENTER:[[Six Under UG]]|
+
+|&bold(){[[AVTechNO]]}|
+
+発売：2010年6月2日
+価格：￥150
+流通：配信
+レーベル：KarenT
+ジャケットイラスト：AVTechNO
+
+|&bold(){[[iTunes Storeで購入>>http://itunes.apple.com/jp/album/dye-2/id374241326]]}|
+
+**CD紹介
+-『[[DYE>DYE/AVTechNO]]』の続編となるシングル。
+-元の歌詞（作者サイトに掲載）をある定義に基づいて変換させた、日本語でも英語でもない歌詞で歌われている。
+-コンピレーションCD『[[EXIT TUNES PRESENTS Supernova 3]]』に収録されている。
+-「DYE」関連作を[[Treow（逆衝動P）]]氏率いるサークルELECTROCUTICAがプロデュースしたアルバム『[[DYE -Synthesis-]]』にも収録されている。また、そのプロデュースバージョンが「[[DYE2]]」として動画投稿されている。
+
+**曲目
++[[DYE_2>DYE2]] （feat. 巡音ルカ）
+
+**リンク
+-[[KarenT：「DYE_2」>>http://karent.jp/album/333]]
+-[[作者サイト>>http://avtechno.ukime.org/]]
+
+**コメント
+#comment

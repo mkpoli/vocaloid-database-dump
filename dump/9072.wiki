@@ -1,0 +1,32 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/090_20091225200822_0240_0240.jpg)
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){We are POP☆CANDY!}|CENTER:[[ネギさま！Bravo☆]]|
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/we-are-pop-candy-ep/id335774983]]}|
+
+|&bold(){[[Runo]]}|
+
+発売：2009年10月21日
+価格：アルバム￥600、1曲￥150
+流通：配信 
+レーベル：KarenT
+名義：[[runo>>http://karent.jp/artist/pp000080]]
+
+**CD紹介
+-「[[We are POP☆CANDY!]]」で知られる「&bold(){[[Runo]]}」氏の1stアルバム。
+-KarenTレーベルよりダウンロード販売が行われている。
+
+**曲目
++[[We are POP☆CANDY!]] (feat. 初音ミク)
++[[My Beautiful Life]] (feat. 初音ミク)
++[[日曜日フレーバー]] (feat. 初音ミク)
++[[ジャーニーエクレストン]] (feat. 初音ミク)
++[[トマトの気持ち]] (feat. 初音ミク)
+
+**リンク
+-[[KarenT：『We are POP☆CANDY! / Runo』>>http://karent.jp/album/90]]
+-[[KarenT：『runo』>>http://karent.jp/artist/pp000080]]
+
+**コメント
+#comment

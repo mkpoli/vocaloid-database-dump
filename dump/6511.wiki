@@ -1,0 +1,33 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/061_20091225194747_0240_0240.jpg)
+|&b(){[[iTunesStoreで購入する>>http://itunes.apple.com/jp/album/intolerant-space-ep/id327786112]]}|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Intolerant Space}|CENTER:[[Piece of Cipher]]|
+
+|&bold(){[[Treow（逆衝動P）]]}|
+
+発売：2009年8月26日
+価格：￥600 / 1曲￥150
+流通：配信
+レーベル：KarenT
+
+**CD紹介
+>広いけれど狭い空間。あなたはそこで、もがいていますか？
+>聴いた後に心地よい違和感を残せる様な一枚を目指しました。 
+-公開済みの4曲をリマスターし、書き下ろしのリミックス1曲を収録した全5曲。
+
+**曲目
++[[Chaining Intention]] (feat. 初音ミク)
++[[Dependence Intension]] (feat. 初音ミク/巡音ルカ)
++[[あめふるはこにわ]] (feat. 初音ミク)
++Chaining Intention Re:form mix
++Dependence Intension Re:birth mix
+
+**リンク
+-[[作者ブログ>>http://elektlyze.blog.shinobi.jp/]]
+-[[KarenT>>http://karent.jp/album/61]]
+
+
+**コメント
+#comment

@@ -1,0 +1,27 @@
+#right(){&furigana(りんとして、) &furigana()【登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186116741.jpg,x=210,y=200)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[桜、舞い散るあの丘へ>桜、舞い散るあの丘へ/CD]]|CENTER:&bold(){凛として、}|CENTER:[[花鳥風月>花鳥風月/CD]]|
+
+|&bold(){[[かぐらP]]}|
+
+発売：2009年9月6日
+価格：？
+流通：即売
+サークル：DeZI:R
+
+**曲目
++秋桜〜器楽曲〜
++[[大和撫子、咲き誇れ]]
++ヒカリナデシコ
++[[桜、舞い散るあの丘へ]]（リミックスver.）
++彼岸花
+
+**リンク
+-[[作者サイト>>http://www.dezi-r.net/]]
+-[[CD特設ページ>>http://www.dezi-r.net/rin.html]]
+
+**コメント
+#comment

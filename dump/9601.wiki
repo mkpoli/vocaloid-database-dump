@@ -1,0 +1,59 @@
+#right(){&furigana(いちときりのすとーりー)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm10197879)|&youtube(https://www.youtube.com/watch?v=hHE7KC4Up_8){342,187}|
+作詞：[[いーえるP]]
+作曲：[[いーえるP]]
+編曲：[[いーえるP]]
+イラスト：[[ももぱん]]
+唄：[[初音ミク]]・[[MEIKO]]
+
+**曲紹介
+曲名：『&u(){一度きりの物語}』（&u(){いちどきりのすとーりー}）
+-いーえるPの春っぽいテーマの楽曲。
+-KarenTレーベルより1曲入りシングルとして配信中。「[[春の唄'10>>https://karent.jp/special/spring10]]」企画で配信された作品の1つ。
+-動画版と配信版ではミックスが異なる。
+
+**KarenT配信
+&ref(https://karent.jp/npdca/243_20100308010906_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Liberator　~解放者~]]|CENTER:&bold(){一度きりの物語}|CENTER:[[交差する想像共感 SIDE-R]]&br()[[POINT OF THE GLANCE - Another Ver]]|
+
+発売：2010年3月24日
+価格：￥150
+流通：配信
+レーベル：[[KarenT>>https://karent.jp/album/243]]
+ジャケットイラスト：[[ももぱん>>https://piapro.jp/momopann]]
+
+|&bold(){[[iTunes Storeで購入する>>https://itunes.apple.com/jp/album/id362074110]]}|
+
+**歌詞
+//（[[引用元のページ名>>引用元のURL]]より転載）
+学校の帰りに二人　遠回りした駅までの道
+放課後の雑踏が遠くに　Don't fade away
+
+繋いだ手はいつか解けてしまう
+分かっていたけど向き合う勇気がなくて
+
+めいいっぱいの笑顔を見せてあげる
+泣き顔で見送りたくないから
+忘れないよあなたと笑ったあの日々を
+二人だけの物　一度きりの物語（ストーリー）
+
+二人だけの時間が　このまま続けばいいのに
+そんな事ばかり考えて　Don't cry for me
+
+巻かれた鎖もいつか解けてしまう
+あなたを一人にしてしまう事が怖い
+
+大切な思い出たくさんくれた
+泣いて無いよあなたを見送るまで
+忘れないよあなたと笑ったあの日々を
+二人だけの物　一度きりの物語（ストーリー）
+
+
+**コメント
+#comment()

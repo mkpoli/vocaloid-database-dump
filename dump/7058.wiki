@@ -1,0 +1,38 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/nm8691804)
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Chiara]]|CENTER:&bold(){dolce}|CENTER:[[Alato]]|
+
+|&bold(){[[フェイP]]}|
+
+||CENTER:即売|CENTER:同人|
+|発売|CENTER:2009年11月15日|CENTER:2009年11月15日|
+|価格|CENTER:￥|CENTER:￥1,050（税込）|
+|サークル|>|CENTER:Chiara|
+
+**CD紹介
+-GUMIオンリー？のミニアルバム。ボーマス10で頒布される。
+-新曲を含む全5曲を収録。
+-5曲目の『空を見上げて』は、[[イカロスP]]の楽曲のカバー。
+-[[じゃあにぃ>>http://www41.atwiki.jp/niconico_singer/pages/497.html]]による「歌ってみた」も収録されている。
+-とらのあなでの委託販売が行われている。
+
+**曲目
++[[きみにごめんね]]
++[[マジで恋する5分前]]
++[[dolce ～空の絵描きうた～]]　&color(red){New!!}
++[[白いつばさ]]（GUMI.ver）
++[[空を見上げて>空を見上げて/イカロスP]]（超時空Cheerful-Remix）
++きみにごめんね（without GUMI）
++マジで恋する5分前（without GUMI）
++dolce ～空の絵描きうた～（without GUMI）
++きみにごめんね（じゃあにぃver）
++白いつばさ（without GUMI）
++空を見上げて（超時空Cheerful-Remix, without GUMI）
+
+**リンク
+-[[作者ブログ>>http://chiara19.blog73.fc2.com/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/20/40/040010204069.html]]
+
+**コメント
+#comment

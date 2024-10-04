@@ -1,0 +1,36 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/14728961" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/14728961">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-2009/10に「[[夢のフォルダ～シロクマ達に囲まれて～]]」でボカロデビューした実力派。
+-その正体は、自主映画、演劇、アーティストへの楽曲製作などをしている音楽家。
+-ソロプロジェクト「しろくま喫茶」を主宰し、関西を拠点にライブ活動などを展開中。
+-憂鬱なシンセサウンドに色々な楽器を混じり合わせ、哀愁漂う空間を作りあげることをモットーにしている。
+-使用ボカロは今のところミクのみ。
+-「[[山羊の想いは胃の中へ]]」「[[鳩の想いは的外れ]]」などで、歌い手の 「ぷんこちん」こと 実谷なな氏 を招いて羨むような無駄遣いをしている。
+
+**リンク
+-[[しろくま喫茶（作者ブログ）>>http://pelie.blog104.fc2.com/]]
+-[[PIXIE_Group Official site（作者ホームページ）>>http://pigxie.com/]]
+
+**曲
+#list_by_tag(PELIE,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm8544299)|&nicovideo(http://www.nicovideo.jp/watch/sm8671784)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm8818187)|&nicovideo(http://www.nicovideo.jp/watch/sm9018823)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9132155)|&nicovideo(http://www.nicovideo.jp/watch/sm9831909)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9831978)|&nicovideo(http://www.nicovideo.jp/watch/sm9832016)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9832064)|&nicovideo(http://www.nicovideo.jp/watch/sm9960982)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm10042567)|&nicovideo(http://www.nicovideo.jp/watch/sm11181142)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm11205495)|&nicovideo(http://www.nicovideo.jp/watch/sm11223543)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm11251459)|&nicovideo(http://www.nicovideo.jp/watch/sm11255785)|
+
+**コメント
+- PELIE氏のページ作ろうと思ってた矢先に、ページが出来てたｗｗ作成乙です！私は&quot;P&quot;が好きです。  -- 名無しさん  (2010-02-28 23:23:48)
+- PELIEは隠れた天才  -- 昴  (2011-01-04 14:46:43)
+- 運だけが全くないよなこの人。センスも実力も十分あると思うんだけどなぁ・・・  -- 名無しさん  (2011-05-18 20:11:09)
+- DRUGSだけないよｗ  -- 名無しさん  (2011-05-30 21:07:17)
+- どうしてメリーゴーランドがないんだ  -- 名無しさん  (2011-08-12 08:44:01)
+- DRUGSの記事ページ欲しいな  -- 名無しさん  (2016-10-10 20:43:00)
+#comment()

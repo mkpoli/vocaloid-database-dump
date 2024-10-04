@@ -1,0 +1,55 @@
+#right(){&furigana(maya)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/13370348" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/13370348">【ニコニコ動画】</a></iframe>)
+
+**特徴
+作り手名：『&u(){maya}』(&u(){まや})
+-2009年7月『[[stainless moon]]』でデビュー。活動開始早々いきなり&b(){" がくっぽいどコンテスト "}優秀賞受賞を果たした。
+-プロのギタリストであり、[[yuukiss]]氏を始めとする多数のボカロPの楽曲にギターで参加している他、&br()fripSideやvin-PRADなど一般アーティストのサポートメンバーを務めたこともある。
+-投稿する曲は主にロック。特にギターメインのハードロックに定評がある。
+-使用ボーカロイドは がくぽ、ミク、ルカ、GUMI、miki、Lily、リン・レン、KAITO、MEIKO、リュウト。
+-mixiで「疲れる」+「くたびれる」＝つかびれる　という言葉を生み出した。&br()そこから「つかびれた人たちを応援する」意志の元、プロのミュージシャンらが集まって結成されたプロジェクト『Teamつかびれ』の主宰者でもある。
+-遂に『[[fake or fate?]]』で悲願の殿堂入りを果たす。
+
+**リンク
+-[[asanagi（作者HP）>>http://maya.xii.jp/]]
+-[[mayaの音楽日記（作者ブログ）>>http://mayagt.seesaa.net/]]
+-[[Teamつかびれ>>http://tukabire.aikotoba.jp/index.html]]
+-[[PIAPRO>>http://piapro.jp/maya_guitar]]
+-[[KarenT>>http://karent.jp/artist/pp000517]]
+-[[twitter>>http://twitter.com/maya_gt]]
+-[[YouTube>>http://www.youtube.com/channel/UCDj1fytH2WBM3aHfwPqXGZw]]
+
+**曲
+#list_by_tag(maya,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(mayaCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm7655834)|&nicovideo(sm7765773)|
+|&nicovideo(sm7911834)|&nicovideo(sm8072002)|
+|&nicovideo(sm8120014)|&nicovideo(sm8840061)|
+|&nicovideo(sm9002700)|&nicovideo(sm9138686)|
+|&nicovideo(sm9237253)|&nicovideo(sm9249442)|
+|&nicovideo(sm9349005)|&nicovideo(sm9544570)|
+|&nicovideo(sm9849776)|&nicovideo(sm10921141)|
+|&nicovideo(sm11183729)|&nicovideo(sm11184022)|
+|&nicovideo(sm11849610)|&nicovideo(sm12377743)|
+|&nicovideo(sm12864126)|&nicovideo(sm13832654)|
+|&nicovideo(sm14503375)|&nicovideo(sm14829786)|
+|&nicovideo(sm15044727)|&nicovideo(sm15054061)|
+|&nicovideo(sm15147135)|&nicovideo(sm15160180)|
+|&nicovideo(sm15269424)|&nicovideo(sm15330034)|
+|&nicovideo(sm15509171)|&nicovideo(sm15714327)|
+|&nicovideo(sm15742608)|&nicovideo(sm15828958)|
+
+**コメント
+- 曲がもう犯罪級にかっこいいです  -- 名無しさん  (2010-06-14 00:08:42)
+- ついにガチャポまで使うとは・・・  -- 名無しさん  (2011-10-08 22:37:12)
+- mayaさんのがくぽさんは、落ち着いた雰囲気だと思っていたのですが、Lilyzmが尋常じゃなくラップが格好いい。Lilyさんの声も綺麗で好きです。  -- 名無しさん  (2013-05-06 18:48:52)
+- 新曲素敵でした!  -- 名無しさん  (2013-08-11 07:53:11)
+#comment()

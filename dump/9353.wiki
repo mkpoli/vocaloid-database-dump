@@ -1,0 +1,39 @@
+#right(){&furigana(はるあるばむ) &furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/238_20100307050959_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[ワン★オポ！vol.01]]|CENTER:&bold(){ハルアルバム}|CENTER:[[ワン★オポ！vol.02]]|
+
+|&bold(){[[マイナスP]]}|&bold(){[[じーざすP]]}|
+
+発売：2010年3月24日
+価格：￥600 / 1曲￥150
+流通：配信
+サークル：Wonderful★opportunity!
+レーベル：KarenT
+
+作詞・作曲：&bold(){[[マイナスP]] , [[じーざすP]]}
+イラスト：&bold(){[[SHARK>>http://www.pixiv.net/member.php?id=691946]]}
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/id361378069]]}|
+
+**CD紹介
+-春らしい詩曲を集めました。それぞれ違った春色をしているので、聞いて楽しんでもらえると嬉しいです。（KarenT作品ページより）
+-マイナスP、じーざすPによる同人サークル「Wonderful★Opportunity!（ワンダフル☆オポチュニティ！）」の2作目は、配信限定アルバム。
+-KarenTの「春の唄'10」企画で配信された作品の1つ。
+-PIAPROで収録曲の歌詞を公開している。
+
+**曲目
++ユビキリ -eternal friend- （feat. 鏡音リン） / じーざすP
++[[修羅ノ庭]] （feat. 鏡音リン） / マイナスP
++クワイエットワールド （feat. 鏡音リン） / じーざすP
++[[ロマンスニフレ]] （feat. 鏡音レン） / じーざすP
+
+**リンク
+-[[KarenT：「ハルアルバム」>>http://karent.jp/album/238]]
+-[[KarenT：「春の唄'10」特集ページ>>http://karent.jp/special/spring10]]
+-[[クロスフェードデモ>>http://wonderfuloppotunity.seesaa.net/article/144103332.html]]
+-[[PIAPRO>>http://piapro.jp/jesusp]]
+
+**コメント
+#comment

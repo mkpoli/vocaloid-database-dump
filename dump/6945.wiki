@@ -1,0 +1,37 @@
+#right(){&furigana(はいてんがーる) &furigana()【登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186107586.jpg,x=300,y=300)
+
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/15522443" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/15522443">【ニコニコ動画】</a></iframe>)
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){ハイテン★ガール}|CENTER:[[ハイテン★ガール２]]|
+
+|&bold(){[[かたほとりP]]}|[[えろあきP]]|[[シュールレアリスムを正しく理解するP]]|[[つるつるP]]|
+|[[Bumpyうるし]]|[[ぺぺろんP]]|[[U-ske]]|[[ラマーズP]]|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|CENTER:2009年11月15日|CENTER:|
+|価格|CENTER:￥500|CENTER:￥735（税込）|
+|サークル|>|CENTER:ポヤッチオ|
+
+**CD紹介
+-8人のPによるコンピレーション・アルバム。
+-定義にとらわれない自分なりの&bold(){電波ソング}を作ってみよう、というコンセプト。
+-ジャケットイラストは[[北乃友利＠ゆーりん]]氏、マスタリングは[[Dios/シグナルP>シグナルP]]。
+-THE VOC@LOiD M@STER 10（ボーマス10）で頒布。
+
+**曲目
++[[なまちょこざい]] / 鏡音リン、[[ラマーズP]]
++[[空想⇔現実メトロノーム]] / 初音ミク、[[U-ske]]
++[[A・Re・Re]] / GUMI、[[Bumpyうるし]]
++[[ノコギリとペンデュラム]] / 初音ミク、[[ぺぺろんP]]
++[[恋してGYU♥っと！]] / 鏡音リン、[[えろあきP]]
++[[パパパパパラダイス]] / GUMI、[[シュールレアリスムを正しく理解するP]]
++[[かるあみるく☆せんせーしょん]] / 鏡音リン、[[かたほとり>かたほとりP]]
++[[Fiction>Fiction/つるつるP]] / 初音ミク、[[つるつるP]]
+
+**リンク
+-[[特設ページ>>http://www.orc2000.com/m_new.html]]
+
+**コメント
+#comment

@@ -1,0 +1,33 @@
+#right(){&furigana(さくさくらっきーがーるEP) &furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/236_20100307002332_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){サクサクラッキーガール EP}|CENTER:[[クルクルシーソーゲーム]]|
+
+|&bold(){[[IIG]]}|
+
+発売：2010年3月24日
+価格：￥300、1曲￥150
+流通：配信
+レーベル：KarenT
+
+作詞・作曲：&bold(){[[Studio IIG>IIG]]}
+イラスト：&bold(){[[ガガ>>http://www.pixiv.net/member.php?id=691946]]}
+
+|&bold(){[[iTunes Storeで購入>>http://itunes.apple.com/jp/album/id361373559]]}|
+
+**CD紹介
+-春らしい新曲「サクサクラッキーガール」にボーナストラックとして「A Lover Runs Through It」をカップリングした配信EP。
+-KarenTの「春の唄'10」企画で配信された作品の１つ。
+
+**曲目
++[[サクサクラッキーガール]] （feat. 初音ミク）
++[[A Lover Runs Through It]] （feat. 初音ミク）
++サクサクラッキーガール （off vocaloid）
+
+**リンク
+-[[Karent：「サクサクラッキーガール EP」>>http://karent.jp/album/236]]
+-[[KarenT：「春の唄'10」特集ページ>>http://karent.jp/special/spring10]]
+
+**コメント
+#comment

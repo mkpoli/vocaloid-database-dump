@@ -1,0 +1,36 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Birthday>Birthday/CD]]|CENTER:&bold(){OVER}|CENTER:-|
+
+|&bold(){[[鮭P]]}|
+
+発売：2009年11月15日
+価格：￥
+流通：即売
+サークル：Shake Sphere
+
+**CD紹介
+-鮭PことShake Sphereの2ndアルバム。ボーマス10で頒布される。
+-VOCALOID歌唱のオリジナル曲と歌い手による「歌ってみた」の12曲を収録。
+-『優しい音色』は、[[Dixie Flatline]]の楽曲のカバー。
+-参加している歌い手は、[[UmiNeko>>http://www41.atwiki.jp/niconico_singer/pages/640.html]]、[[☆彩☆>>http://dic.nicovideo.jp/a/%E2%98%86%E5%BD%A9%E2%98%86]]、[[祭屋>>http://dic.nicovideo.jp/a/%E7%A5%AD%E5%B1%8B]]。
+
+**曲目
++[[OVER>OVER/鮭P]]
++[[サジタリアス]] orbital mix
++[[エナメルとリボン]]
++優しい音色(cover)
++FSTVL
++AWAKE!
++Life feat. ☆彩☆
++[[D.O.P.E.]] feat. UmiNeko　mixed by [[madamxx]]
++OVER feat. ☆彩☆
++[[Last Smile>Last Smile/鮭P]] feat. 祭屋
++ChinaTown feat.UmiNeko
++優しい音色(cover) feat. ☆彩☆
+
+**リンク
+-[[作者ブログ>>http://shakesphere.jp/blog/]]
+
+**コメント
+#comment

@@ -1,0 +1,64 @@
+#right(){&furigana(くへへP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/13065337" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/13065337">【ニコニコ動画】ファンドの作品</a></iframe>)
+
+**特徴
+作り手名：『&u(){ぐへへP}』
+-アーティスト名は&b(){ファンド}。
+-ロックやエレクトロニカなど、作風は幅広い。
+-ある時から動画の説明文で「ぐへへ。」と入れるようになって、このP名が付いた。それを狙ったのかも知れない。
+-初投稿は2009年7月だが、2010年4月から投稿数が激増した。
+
+**リンク
+-[[PIAPRO>>https://piapro.jp/blendyumekichi]]
+-[[Twitter>>https://twitter.com/fund_blendy]]
+-[[ニコニコ>>https://www.nicovideo.jp/user/2013349]]
+
+**曲
+#list_by_tag(ぐへへP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(ぐへへPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm7700435)|&nicovideo(sm7853556)|
+|&nicovideo(sm9437944)|&nicovideo(sm9785463)|
+|&nicovideo(sm9990862)|&nicovideo(sm10042028)|
+|&nicovideo(sm10244620)|&nicovideo(sm10288633)|
+|&nicovideo(sm10293446)|&nicovideo(sm10303514)|
+|&nicovideo(sm10313002)|&nicovideo(sm10344317)|
+|&nicovideo(sm10409981)|&nicovideo(sm10417920)|
+|&nicovideo(sm10462927)|&nicovideo(sm10470369)|
+|&nicovideo(sm10524318)|&nicovideo(sm10552698)|
+|&nicovideo(sm10559983)|&nicovideo(sm10571532)|
+|&nicovideo(sm10700950)|&nicovideo(sm10705976)|
+|&nicovideo(sm11009551)|&nicovideo(sm11066776)|
+|&nicovideo(sm11147946)|&nicovideo(sm11169719)|
+|&nicovideo(sm11247013)|&nicovideo(sm11309712)|
+|&nicovideo(sm11370355)|&nicovideo(sm11397019)|
+|&nicovideo(sm11599472)|&nicovideo(sm11770635)|
+|&nicovideo(sm11771902)|&nicovideo(sm11941694)|
+|&nicovideo(sm12205560)|&nicovideo(sm12419988)|
+|&nicovideo(sm12428019)|&nicovideo(sm12513476)|
+|&nicovideo(sm12647917)|&nicovideo(sm12698546)|
+|&nicovideo(sm13025838)|&nicovideo(sm13073849)|
+|&nicovideo(sm13488439)|&nicovideo(sm13661217)|
+|&nicovideo(sm13746719)|&nicovideo(sm13907221)|
+|&nicovideo(sm14490969)|&nicovideo(sm14571815)|
+|&nicovideo(sm14769169)|&nicovideo(sm15495882)|
+|&nicovideo(sm16508075)|&nicovideo(sm16548289)|
+|&nicovideo(sm21902207)|&nicovideo(sm22230767)|
+|&nicovideo(sm22773179)|&nicovideo(sm27881307)|
+|&nicovideo(sm30270070)|&nicovideo(sm32326944)|
+|&nicovideo(sm33374588)|&nicovideo(sm34050101)|
+|&nicovideo(sm34093167)|&nicovideo(sm34614964)|
+|&nicovideo(sm35510412)|>|
+
+**コメント
+- ぐへへPの曲調すごい好き。  -- 名無しさん  (2011-07-17 18:06:39)
+- 何で水色の街がないの・・・！  -- わぁるど  (2012-12-21 18:45:46)
+- 水色の街が一番好きです　追加されると良いなぁ(´；ω；｀)  -- 名無しさん  (2014-10-13 02:21:15)
+#comment()

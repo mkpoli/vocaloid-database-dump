@@ -1,0 +1,34 @@
+#right(){【登録タグ:&tags() 】}
+&ref(BLUE DOLL_jacket.jpg)
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[賽華]]|CENTER:&b(){BLUE DOLL}|CENTER:[[Mushroom War]]|
+
+|&bold(){[[くちばしP]]}|
+
+||CENTER:即売|CENTER:同人|
+|発売|>|2010年5月9日|
+|価格|CENTER:\300|CENTER:￥420（税込）|
+|サークル|>|CENTER:線形ネコ型システム|
+
+**CD紹介
+>　　　　　　　　　　　　　　蒼ノ魔法使イ
+>世界ヲワタリ、戦場ヲ覆シ、三時ノ小休憩ヲ欠カサナイ、ハイセンスデ強引ナ日々
+-くちばしPによるシングルEP。
+-THE VOC@LOID M@STER 12（ボーマス12）にて頒布される。
+-『[[EXIT TUNES PRESENTS Supernova]]』に収録された『[[DREAMA]]』と新曲2曲を収録した全3曲構成。
+-DREAMAを含め、これまでとは違う方向性を目指しているとのこと。
+-現在、とらのあなで委託販売が行われている。
+-ほにほに
+
+**曲目
++[[Sr. Wonderland]]
++[[DREAMA]]
++[[innovation]]
+
+**リンク
+-[[特設サイト>>http://pokoneko.haru.gs/vm12/]]
+-[[作者ブログ>>http://linearsystem.blog.shinobi.jp/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/22/26/040010222654.html]]
+
+**コメント
+#comment

@@ -1,0 +1,81 @@
+#right(){&furigana(すぺーすしょーとかっときー Part3)&furigana()【登録タグ:&tags()】}
+&nicovideo(http://www.nicovideo.jp/watch/sm11148775)
+作詞：[[謝謝P]]
+作曲：[[謝謝P]]
+編曲：[[謝謝P]]
+唄：巡音ルカ
+
+**曲紹介
+-謝謝Pの17作目。
+-「[[スペースショートカットキー]]」のMac OSX ver.
+-Dance×Mixerを駆使した動画は カマヤンD氏 が手掛ける。
+
+**歌詞
+（Space Shortcut Key… Macintosh Love…）
+
+Learn about common Mac OS X keyboard shortcuts.
+A keyboard shortcut is a way to invoke a function in Mac OS X by pressing a combination of keys on your keyboard.
+
+shift + command + A　・・・「アプリケーション」フォルダ開く
+shift + command + D　・・・「デスクトップ」フォルダを開く
+shift + command + U　・・・「ユーティリティ」フォルダを開く
+shift + command + N　・・・新規フォルダ
+
+control + command + I　・・・概要情報見る
+option + command + ドラッグ　・・・項目のエイリアスを作る
+
+command + C　・・・コピー
+command + V　・・・ペースト
+command + X　・・・切り取り
+command + A　・・・選択ALL
+command + D　・・・複製
+command + E　・・・取り出し
+command + I　・・・情報を見る
+command + W　・・・閉じる
+
+
+option + command + N　・・・新規スマートフォルダ作成
+option + command + T　・・・Finderウインドウのツールバー表示／隠す
+option + command + A　・・・すべての項目の選択解除
+option + command + Y　・・・スライドショー （Mac OS X 10.5 以降）
+
+option + command + I　・・・インスペクタ表示
+shift + command + F　・・・ファイル名の一致を検索
+
+command + 1　・・・アイコン表示
+command + 2　・・・リスト表示
+command + 3　・・・列で表示
+command + 4　・・・Cover Flowで表示
+command + ドラッグ　・・・項目を別の場所に移す
+option + ドラッグ　・・・ドラッグして項目をコピー
+
+command + M　・・・ウィンドウしまう
+command + L　・・・エイリアス作成
+command + H　・・・ウィンドウ隠す
+command + J　・・・表示オプション表示
+
+shift + command + delete　・・・ゴミ箱を空にする
+option + shift + command + esc　・・・Finderの強制終了
+shift + command + T　・・・よく使う項目に追加
+option + shift + command + Q　・・・すぐにログアウトする
+option + command + パワーボタン　・・・強制終了
+
+
+command + Z　・・・Undo/Redo
+command + Y　・・・Quick Look
+command + O　・・・開く
+command + delete　・・・ゴミ箱へ
+command + K　・・・サーバに接続
+command + N　・・・新規Finderウインドウ
+command + R　・・・エイリアスのオリジナル表示
+
+command + tab　・・・アプリ切り替え
+command + T　・・・サイドバーに追加
+command + [（左角かっこ）　・・・戻る
+command + ]（右角かっこ）　・・・進む
+
+とっくに...マウス...捨てました
+
+**コメント
+- すごい勉強になる曲…！！  -- 名無しさん  (2013-09-15 19:07:01)
+#comment()

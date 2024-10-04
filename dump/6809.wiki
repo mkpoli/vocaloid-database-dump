@@ -1,0 +1,56 @@
+#right(){&furigana(まんだらP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/6918200" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/6918200">【ニコニコ動画】拙作マイリスト</a></iframe>)
+
+**特徴
+-叙情的なエモ、メタル等ロック系の歌を発表しているP。
+-主に鏡音リンを使用し、思春期の女の子として歌を歌わせている。
+-リンの設定は公式設定の14歳より少し上、高校生の様。
+-影響をうけた音楽は「光田康典」氏、[[ジェバンニP]]。
+-バンド活動をやっている。その様子はマイリスから辿る事が出来る。
+
+***作品の特徴
+-思春期の女の子の瑞々しい感情や想いが激しく、強く、静かに歌わせている。
+-曲のジャンルに関係なく思春期特有の感情や想いが印象的。&size(9){([[夏の終わり、君と見ていた夢]]、[[底辺少女]])}
+-メロディに影響を受けた[[ジェバンニP]]に似た光のイメージを感じる&size(9){([[LIGHT>LIGHT/曼荼羅P]])}
+
+***命名の由来
+-投稿曲「[[曼荼羅]]」から。
+-これは「[[曼荼羅]]」が初の再生数1万を越えた事から付けられた模様。
+-アーティスト名はFMAK。phili@music所属
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/fukioka72727]]
+-[[Twitter>>https://twitter.com/mandara_P]]
+
+**曲
+#list_by_tag(曼荼羅P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(曼荼羅PCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**シリーズ曲
+***ジェバンニpと曼荼羅pのてるてる坊主
+-2011年6月20日から24日の間に展開された[[ジェバンニP]]とのコラボ企画。
+-月～金の5日間でお互いに5曲ずつ合計10曲が発表された。
+-この企画、実は梅雨明けを祈願するために行われていたことが最終日に判明。
+***曲リスト
++月曜日：[[魔法が解ける前に]]
++火曜日：[[思い出せる限りの四季の色]]
++水曜日：[[少年時代の終わり、少女時代の終わり]]
++木曜日：[[夜明けのFPS]]
++金曜日：[[欠けた月の裏側]]
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/nm4517475)|&nicovideo(http://www.nicovideo.jp/watch/nm4640934)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6144580)|&nicovideo(http://www.nicovideo.jp/watch/sm6335360)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7240695)|&nicovideo(http://www.nicovideo.jp/watch/sm7610831)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7647143)|&nicovideo(http://www.nicovideo.jp/watch/sm8330260)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9519427)|&nicovideo(http://www.nicovideo.jp/watch/sm9921534)|
+
+**コメント
+- 歌詞の世界観が大好きです。リンAppendとの相性もいい  -- 名無しさん  (2012-09-13 12:54:10)
+- この人って今やまじ（チロp）さんですよね？  -- 名無しさん  (2013-02-13 23:57:44)
+- ↑どうしてそうなったｗｗどっちも顔出ししてるけど別人だよ  -- 名無しさん  (2013-02-20 01:06:18)
+- 好きだ。「遺書」とか「LOVE PUPPET」の気持ちよさはすごい。  -- 名無しさん  (2013-03-16 08:28:26)
+-  LIGHT/曼荼羅P Rising star 祈りと虚無に揺蕩う惜別の花 思い出せる限りの四季の色 革命家の散弾銃 欠けた月の裏側 傘と子猫 空澱粉 午前四時の低周波 少年時代の終わり、少女時代の終わり 底辺少女 棘の咎 夏の終わり、君と見ていた夢 ねえ、寂しいよ 猫の彼女のESP 2 シルバーティア ノイズの海 反唯物論 ばれんたいん☆ひいろお バレンタインで浮かれてる奴は氏ね 星の慟哭 また、会えるよね 魔法が解ける前に 曼荼羅 満ちた月の裏側 夜明けのFPS  -- 名無しさん  (2024-05-22 08:36:52)
+#comment()

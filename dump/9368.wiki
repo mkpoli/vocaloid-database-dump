@@ -1,0 +1,42 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&ref(http://img.toranoana.jp/img/04/0010/22/05/040010220508-1.gif)
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Rebellion on the Sunday}|CENTER:[[Marygold]]|
+
+|&bold(){[[buzzG]]}|
+
+>&b(){ジャケットイラスト・デザイン：[[meola]]}
+
+||CENTER:即売|CENTER:同人|
+|発売|>|CENTER:2010年5月9日|
+|価格|CENTER:￥1,000|CENTER:￥1,365(税込)|
+|サークル|>|CENTER:美女と野球拳|
+
+|&bold(){[[とらのあなで購入する>>http://www.toranoana.jp/mailorder/article/04/0010/22/05/040010220508.html]]}|
+
+**CD紹介
+-buzzG氏の1stフルアルバム。
+-THE VOC@LOID M@STER 12（ボーマス12）にて発表。
+-初の殿堂入り曲『[[アルビノ>アルビノ/buzzG]]』から、デビュー曲の『[[LAST YEAR]]』、「[[Megpoid歌わせ歌ってみた祭>>http://www.ssw.co.jp/products/vocal/megpoid/matsuri/index.html]]」の特別賞を獲得した『[[赤い雨>赤い雨/buzzG]]』と&br()それまでのbuzzGの全てが収録された魅力的な一枚。
+-収録曲はバラードのからヘビィネスと幅広くbuzzGの全てが聴ける内容になっている。
+-さらに新曲の2曲を収録し、既存曲も再Mixを施している。
+-現在、とらのあなで委託販売が行われている。
+
+**曲目
++Srius　&color(red){NEW！}
++[[AGAINST]]
++[[赤い雨>赤い雨/buzzG]]
++[[name of memory]]
++[[LAST YEAR]]
++[[月の羅針盤]]
++[[アルビノ>アルビノ/buzzG]]
++[[D.P.C.W]]
++[[Flashback>Flashback/buzzG]]
++[[Carry on>Carry on/buzzG]] &color(red){NEW！}
+
+**リンク
+-[[CD告知>>http://buzzg.blog84.fc2.com/blog-entry-24.html]]
+-[[buzzGHP『【Destruction room】 from buzzG』>>http://buzzg.blog84.fc2.com/]]
+
+**コメント
+#comment

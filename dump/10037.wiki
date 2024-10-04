@@ -1,0 +1,46 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/331_20100519094214_0240_0240.jpg)
+&nicovideo(http://www.nicovideo.jp/watch/sm10521859)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[消えてゆく、君のうた声]]|CENTER:&bold(){SAPIENTIA STELLAE}|CENTER:[[サクハナ　チルハナ]]|
+
+|&bold(){[[ブンガP]]}|
+
+||CENTER:即売|CENTER:同人|CENTER:配信|
+|発売|>|CENTER:2010年5月9日|CENTER:2010年6月11日|
+|価格|CENTER:￥1,300|CENTER:￥1,365(税込)|￥900 / 1曲￥150|
+|サークル|>|CENTER:BUNGALANGIT||
+|レーベル|>|CENTER:-|CENTER:KarenT|
+
+|&bold(){[[とらのあなで購入する>>http://www.toranoana.jp/mailorder/article/04/0010/22/30/040010223032.html]]}|
+|&bold(){[[D-STAGEで購入する>>http://d-stage.com/shop/detail.php?seq=14984]]}|
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/id374457568]]}|
+
+**CD紹介
+-THE VOC@LOiD M@STER 12（ボーマス12）で頒布されたブンガPのアルバム。
+-宇宙を旅しているうちに、いつしか心の中を旅しているのに気付くそんな世界観の作品。
+-タイトルの読み方は「サピエンティア・ステラエ」。「星の知恵」という意味を持つ。
+-ジャケットに描かれているキャラクターの名前は、[[紆余曲折>>http://ameblo.jp/vocalotus/entry-10534960930.html]]の末にユセルネウ＝フワ子と決定した。
+-とらのあな、D-STAGEにて委託販売が行われている。
+-KarenTより、iTunes Storeを始めとする各種ダウンロードサイトより有料配信が行われている。
+
+**曲目
+曲名は、CDでの表記 / 配信サイトでの表記 としている。
++[[Mother mars / 夏日星>MOTHER MARS（夏日星）]]
++[[Orbis]]
++[[Gadis jelaga / GADIS JELAGA　煤の少女　（リマスター）>ガディス・ジュラガ]]
++[[On another planet,On another galaxy / もう一つの銀河の、もう一つの惑星で>もう一つの銀河の、もう一つの惑星で]]
++[[Paleoptera>パレオプテラ]]
++Tropical rain planet / トロピカル・レイン・プラネット
++[[Abyss diver]]
++[[The road of star light / 星明りの道>星明りの道]]
+
+**リンク
+-[[VOCALOIDのうた！VOCALOTUS COLORATA（作者ブログ）>>http://ameblo.jp/vocalotus/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/22/30/040010223032.html]]
+-[[D-STAGE>>http://d-stage.com/shop/detail.php?seq=14984]]
+-[[KarenT>>http://karent.jp/album/331]]
+
+**コメント
+#comment

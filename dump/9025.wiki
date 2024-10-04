@@ -1,0 +1,59 @@
+#right(){&furigana(わんおほvol01)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+
+&ref(http://karent.jp/npdca/124_20091119022228_0240_0240.jpg)
+
+&youtube(https://www.youtube.com/watch?v=ol8oRYq3nq0)
+
+**CD詳細
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){ワン★オポ！vol.01}|CENTER:[[ハルアルバム]]|
+
+|CENTER:流通|CENTER:即売|CENTER:同人|CENTER:配信|
+|CENTER:発売|>|CENTER:2009年11月15日|CENTER:2009年12月27日|
+|CENTER:価格|CENTER:￥1,000|CENTER:￥1,260（D-STAGE・税込）&br()￥1,323（とらのあな・税込）|CENTER:￥900、1曲￥150|
+|CENTER:サークル|>|>|CENTER:&bold(){Wonderful★opportunity!}|
+|CENTER:レーベル|>|CENTER:-|CENTER:KarenT|
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/id346174224]]}|
+|&bold(){[[D-STAGEで購入する>>http://d-stage.com/shop/detail.php?seq=12009]]}|
+|&bold(){[[とらのあなで購入する>>http://www.toranoana.jp/mailorder/article/04/0010/22/43/040010224374.html]]}|
+
+|&bold(){[[マイナスP]]}|&bold(){[[じーざすP]]}|
+
+**CD紹介
+CD名：『&u(){ワン★オポ！vol.01}』
+-[[マイナスP]]、[[じーざすP]]による同人サークル「Wonderful★Opportunity!（ワンダフル☆オポチュニティ！）」の記念すべき1stアルバム。
+-続き物となっている「【第一次】ウイルス抗戦」シリーズ3作の他、全10曲を収録。
+-2009年11月15日、THE VOC@LOID M@STER 10（ボーマス10）にて頒布された。
+-その後、D-STAGEととらのあなで委託販売が行われている。
+-2009年12月27日、鏡音リン・鏡音レン生誕2周年の日にKarenTレーベルより全国配信された。
+
+**曲目
++[[【第一次】ウイルス抗戦＿強襲編>第一次ウイルス抗戦_強襲編]] （feat. 鏡音リン）
++[[【第一次】ウイルス抗戦＿漂着編>第一次ウイルス抗戦_漂着編]] （feat. 鏡音リン）
++[[【第一次】ウイルス抗戦＿再起動編>第一次ウイルス抗戦_再起動編]] （feat. 鏡音リン）
++[[ハイスクリプト！]] （feat. 鏡音リン&鏡音レン）
++[[SSD-GIRL]]　[Extend mix] （feat. 鏡音リン&鏡音レン）
++D.N.A　-ホシノウタ- （feat. 鏡音リン）
++UME琴線 （feat. 鏡音リン）
++Don't look back （feat. 鏡音リン）
++inside （feat. 鏡音リン）
++[[ナルシスティックユニゾン]] （feat. 鏡音リン&鏡音レン）
+
+**関連動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm8113577)|&nicovideo(http://www.nicovideo.jp/watch/sm8241945)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm8413746)|&nicovideo(http://www.nicovideo.jp/watch/sm9013687)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9209994)|&nicovideo(http://www.nicovideo.jp/watch/sm10200140)|
+
+**リンク
+-[[KarenT：「ワン★オポ！vol.01」>>http://karent.jp/album/124]]
+-[[KarenT：「鏡音リン・レン祭09」特集ページ>>http://karent.jp/special/rinlen09]]
+-[[Wonderful★opportunity!＠KarenT>>http://karent.jp/artist/pp000124]]
+-[[official website>>http://wonderfuloppotunity.seesaa.net/]]
+
+**コメント
+#comment()

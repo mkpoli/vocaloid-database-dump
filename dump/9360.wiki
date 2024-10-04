@@ -1,0 +1,33 @@
+#right(){&furigana(clear) &furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm10163973)
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[カニミソにしてあげる♪]]|CENTER:&bold(){SHOOTING STAR}|CENTER:[[ダンシング☆サムライアレンジアルバム『舞侍組』]]|
+
+|&bold(){[[カニミソP]]}|
+
+発売：2010年3月28日
+価格：￥500
+流通：即売
+サークル：mathruねっと
+
+作詞・作曲・イラスト：&bold(){[[カニミソP]]}
+
+**CD紹介
+-カニミソPの放つ、GUMI（メグッポイド）オンリーのミニアルバム。
+-THE VOCALOID PARADISE 3（ボーパラ3）で頒布。
+-収録曲6曲のうち4曲が未発表というゴージャスな仕様となっている。
+
+**曲目
++[[LoveDroid]]
++Silent Fears
++Diamond
++[[SHOOTING STAR>SHOOTING STAR/カニミソP]]
++[[Attractive Rainbow]]
++小さなゆりかごの中で
+
+**リンク
+-[[作者サイト>>http://mathru.net/]]
+-[[CDの紹介ページ>>http://mathru.net/discography/245.html]]
+
+**コメント
+#comment

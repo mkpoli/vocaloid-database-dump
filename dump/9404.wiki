@@ -1,0 +1,180 @@
+#right(){&furigana(Adu-lt)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(http://www.nicovideo.jp/watch/nm8644907)|&nicovideo(http://www.nicovideo.jp/watch/nm8645476)|
+作詞：[[友場洋]]
+英訳詞：[[影清]]（EnglishVers）
+作曲：[[AVTechNO]]
+編曲：[[endy]]（EnglishVers）、[[AVTechNO]]（NoiseCollection）
+効果音声：[[闇李]]（NoiseCollection）
+唄：[[巡音ルカ]]（EnglishVers）、[[GUMI>Megpoid]]（NoiseCollection）
+
+**曲紹介
+曲名：『&u(){Adu-lt}』
+-AVTechNO氏を中心に結成されたサークル「&bold(){[[project EATA>>http://eata.web.fc2.com/]]}」の楽曲第2弾。
+-発表された2曲はどちらもリミックスバージョンであり、オリジナルバージョンは未だ未発表。
+-GUMI版は『[[Adu-lt-N-Collection]]』、ルカ版は『[[feminity]]』に収録されて、KarenTレーベルよりダウンロード販売が行われている。配信版はどちらも新たにミックスされている。
+
+**歌詞（ルカ版）
+（配布zipより転載）
+
+The hot your eyes which scorch me.
+It made me feel pain in that silent moon night.
+The story written in a lot of paradoxic words.
+oh, well, I knew it's so simple casting.
+
+Like tasting around and twining around my skin.
+
+my eyes, lip, fingers and my everything.
+
+They were tricked by you.
+I am led to the trap concealed in word "fate".
+I'm just falling down in your love.
+
+I cast the another world over the glass with my side glance.
+raining there again.
+And it is spreading gradually.
+So, like that moon night.
+
+Do you remember ?
+
+I have never shown anyone else the rose which is my deepest secret,yet.
+I want to wet these all sinful pain and endless drying with your love.
+I want you to stick in.
+Please make me crazy.
+And I want to drown at this lazy night.
+Could you accept this gloom?
+it's just only you.
+
+
+The lovely your eyes which scorch me.
+I can not see anything because of it.
+This story which raised the curtain by our passion.
+And We surely know sad conclusion (of it).
+
+Please fascinate my heart.
+Please break my all.
+I implore your eyes, lip, fingers and your all.
+Even if I ain't your true heroine, I don't mind.
+So, please do as you think.
+
+When I open my eyes, I look at the ceiling over you.
+It looks warped by a cause of our sweet sigh.
+Do you remember that moon night?
+
+I have never known your soared needle which is your hottest secret,yet.
+I'll accept your heat.
+I'll accept your desire.
+
+
+So please make me crazy.
+Liberate my all.
+Give me your mercy, please.
+Take me unknown high bottom, more.
+You say the word "love".
+Even if it is lie for me ...
+
+Just only me
+
+Tonight, I want to play the role.
+
+#region(close,英詩イメージ)
+&bold(){英詩イメージ}
+（オリジナルの歌詞とは若干相違が有ります）
+
+アタシを焦がすアナタの熱い視線
+あの静かな月の夜、それはアタシには痛すぎたの
+たくさんの逆接的な言葉で書かれた物語
+それはいたって「単純なキャスティングだった」なんて知ってた？
+
+舐めるように、肌に巻きつくように
+アタシの目や唇、指先や全部
+アナタに騙されて
+なんか「運命」という言葉の中の隠された罠に導かれてさ
+あぁ、　アタシ、アナタに落ちてくんだなって
+
+横目でね、ガラスの向こうの”別世界”眺めてたら
+また、雨が降ってね
+そしてそれがだんだん滲んでいって
+そう、あの月の夜みたいにね
+ねぇ、アナタ覚えてる？
+
+アタシがまだ他の誰にも見せたことない「一番深い秘密」の薔薇
+アナタの「愛」でこの罪深い痛みと終わらない渇きを潤してよ
+中まで突き刺して
+アタシ、狂ワセテ
+ねぇ、この怠惰な夜に落ちていたいよ
+この憂いを受け入れてくれる？
+それは「アナタ」しかいないの
+
+
+愛おしいアナタの視線に焦がされて
+アタシ何も見えなくなっちゃって
+二人の激情で幕を開けたこの物語
+だけどアタシ達、この物語の哀しい結末をきっと知ってるの
+
+ねぇ、アタシのココロ、奪って
+もう、全部壊しちゃってよ
+アナタの目や唇、指先や全部にお願いするわ
+例えアタシがアナタの本当のヒロインでなくても、いいよ
+ねぇ、アナタの思うようにしていいから
+
+目を開けたときね、アナタの向こうに天井があって
+それがアタシ達二人の甘い吐息のせいで歪んで見えて
+なんかあの時の月夜みたいね、ねぇ、覚えてる？
+
+アタシがまだ知らないアナタの高まった「一番熱い秘密」の針
+アナタの火照りを
+アナタの欲望を　受け入れるから
+アタシ、狂ワセテ
+アタシの全部、解き放って
+お願い、お願いだから
+もっと、アタシの知らない「絶頂の奥」へ連れてって
+アナタが言う「愛シテル」という言葉
+例えそれがアタシにとって嘘だとしても
+
+アタシだけに
+
+今夜は演じさせてよ
+
+#endregion
+
+**歌詞（GUMI版）
+灼けるよな　熱い視線が痛すぎたの　そう、あの時は
+逆接で綴られたこの物語は単純なのね
+舐めまわすような　絡め取るよな視線も舌も指先にも
+運命という罠はかけられて「わたし」はあなたに落ちていくだけ...
+
+横目に見た　ガラス越しの世界は
+あの日のように雨にまみれて見る間にくすんだ...
+
+まだ誰にも魅せない　あたしの一番深い場所
+この疼きを　この渇きを潤して…
+貫かれて　酔わされて　波に浚われてみたいの
+この憂いを受け止めてくれるのは　あなたでしょ？
+
+灼けるよな　あなたの視線が恋しくて　もう、何も見えない
+激情で始まったこの物語の行く先は一つね
+奪って欲しいと　“愛（こわ）されたい”と　視線に舌に指先に希う
+たとえあたしが本当のヒロインでなくても...　構わないから
+
+目を開ければ　あなた越しの天井は
+いつものように吐息絡めて　僅かに歪んでいた
+
+まだあたしの知らない　あなたの一番熱い場所
+その火照りを　その猛りを　受け入れて
+狂わされて　絆されて　奥まで灼かれてみたいの
+たとえ「愛」という言葉は嘘でも
+
+あたしだけに　今夜は演じさせて・・・
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+**コメント
+- これ昔からほんとに好きなのに何で評価されないんだろう  -- 名無しさん  (2014-03-24 20:52:40)
+#comment()

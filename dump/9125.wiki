@@ -1,0 +1,41 @@
+#right(){&furigana(でんさいぞうか)&furigana()【登録タグ:&tags()】}
+//#image(http://digitalartistry.uijin.com/banner_l.png,http://tsubu.ath.cx/~ssry/c77_2nd_h73ab/,title=電彩造花-digital artistory-,blank)
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186127231.jpg,x=300,y=300)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[電彩想歌]]|CENTER:&bold(){電彩造花-digital artistory-}|CENTER:[[透明水彩 retake>透明水彩]]|
+
+|&bold(){[[ヤスオP]]}|[[骨盤P]]|
+
+||CENTER:即売|CENTER:同人|
+|発売|CENTER:2009年12月30日|-|
+|価格|CENTER:￥500|-|
+|サークル|CENTER:ゆや。|-|
+
+>作詞・作曲：&b(){[[ヤスオP]]}
+>イラスト：&b(){[[二色鯉>>http://www.geocities.jp/sien_000/gc.html]]}
+>ギター：&b(){[[骨盤P]]}
+
+**CD紹介
+-コミックマーケット77で頒布された、ヤスオPのVOCALOIDアルバム。
+-前作『[[電彩想歌]]』に続いて、初のCDアルバムをリリースした。
+-暴走Pの『[[InfiniteHOLiC]]』、ゆうゆ氏の『[[ビビッドカラー・ビューティフルカンバス]]』、卑屈Pの『[[Smilization - スマイリゼーション -]]』とともに頒布された。
+-「[[えれくとりっく・えんじぇぅ]]」「[[透明水彩]]」「[[月隠　－ツキゴモリ－]]」「[[雨宿りの二人]]」など、これまで発表してきた曲を網羅し、さらに新曲も加えた全8曲。
+-委託販売については未定のままである。
+
+**曲目
++[[電彩造花 -digital artistry-]]
++[[月隠>月隠　－ツキゴモリ－]] feat. 骨盤P
++[[Azurite>アズライト]]
++[[えれくとりっく・えんじぇぅ]]
++[[終わってしまった夏の物語]]
++[[透明水彩]] feat. 骨盤P
++[[雨宿りの二人]]
++[[いつか見た黄昏]]
+
+**リンク
+-[[特設サイト>>http://digitalartistry.uijin.com/]]
+
+**コメント
+#comment

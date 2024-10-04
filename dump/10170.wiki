@@ -1,0 +1,37 @@
+#right(){&furigana(でぃすこ・ふぁんたじか　CLOUDY) &furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/320_20100517211156_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[SWANTONE]]&br()[[KUMA BEAT EP]]|CENTER:&bold(){ディスコ・ファンタジカ / CLOUDY}|CENTER:[[プラネタルーム / 茜射す>プラネタルーム／茜射す]]|
+
+|&bold(){[[曲者P]]}|&bold(){[[en>en/作り手]]}|
+
+||CENTER:即売|CENTER:配信|
+|発売|CENTER:2010年5月9日|CENTER:2010年6月2日|
+|価格|CENTER:￥1,000|CENTER:￥600 / 1曲￥150|
+|サークル|>|CENTER:SWANTONE|
+|レーベル|CENTER:-|CENTER:KarenT|
+|ジャケットイラスト|>|CENTER:[[あんこ>>http://www.pixiv.net/member.php?id=249614]]|
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/id373492817]]}|
+
+**CD紹介
+-曲者Pとenによる音楽ユニット「SWANTONE」のマキシシングル。
+-THE VOC@LOiD M@STER 12（ボーマス12）で頒布され、その後KarenTレーベルよりダウンロード販売開始。
+-配信版にはオフボーカルトラックが未収録だが、SWANTONEのサイトでダウンロード可能となっている。
+
+**曲目
++[[ディスコ・ファンタジカ]] （feat. 初音ミク） / 曲者P
++[[CLOUDY]] （feat. 初音ミク） / en
++THE SOUND LIKE YOU （feat. 初音ミク） / en
++[[スーパーソニックファイターガール]] （MORE ROCK） （feat. 初音ミク） / 曲者P（原曲：en）
++イチゴガール・ビートボックス （ALPHA MIX） （feat. 初音ミク） / en
++ディスコ・ファンタジカ （OFF VOCAL MIX） / 曲者P　　※配信版では未収録
++CLOUDY （OFF VOCAL MIX） / en　　※配信版では未収録
+
+**リンク
+-[[KarenT：「ディスコ・ファンタジカ / CLOUDY」>>http://karent.jp/album/320]]
+-[[SWANTONE（作者サイト）>>http://www.ninjaguy.jp/swantone/]]
+
+**コメント
+#comment

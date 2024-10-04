@@ -1,0 +1,43 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/224_20100305022923_0240_0240.jpg)
+&nicovideo(http://www.nicovideo.jp/watch/sm10646649)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Protocol]]|CENTER:&bold(){Telepathy}|CENTER:[[Strikes back E.P.]]|
+
+|&bold(){[[大福P]]}|
+
+||CENTER:配信|CENTER:即売|
+|CENTER:発売|CENTER:2010年3月26日|CENTER:2010年5月9日|
+|CENTER:価格|CENTER:￥600|CENTER:￥1,000|
+|CENTER:レーベル|CENTER:KarenT||
+|CENTER:名義|CENTER:Ohnuma||
+|CENTER:サークル||CENTER:Harvest|
+
+作曲・デザイン：&bold(){[[大福P]]}
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/telepathy/id362748576]]}|
+
+**CD紹介
+-大福Pのアルバム。
+-1曲15-18分、4曲で合計71分という驚愕のアルバム構成。
+-ジャンルはアンビエント。「現実からの逃避と回帰」をテーマにしている。
+-2010年3月26日、KarenTレーベルより全国向けにダウンロード販売が開始された。
+-続いて2010年5月9日のTHE VOC@LOiD M@STER 12（ボーマス12）でも、CDとして頒布される。
+-ダウンロード版では、楽曲データの他に、収録曲のイメージイラスト、および写真がPDFファイルとして添付されており、CDジャケットのように楽しむことが出来る。
+-CDでも、上記のイラストや写真をブックレットとして堪能することが出来る。
+-iTunes Storeでのみ、曲別購入が不可となっている。
+-1曲目「[[Tokyo No Byakuya>>http://vimeo.com/9467715]]」が動画投稿サイト「Vimeo」にて高音質で公開されている。ただし、読み込む際のCPU負荷が高いため、低スペックPCの場合は注意する必要がある。
+
+**曲目
++[[Tokyo No Byakuya>>http://vimeo.com/9467715]]
++幻視の唄（Re-mastering Long Ver.）(feat. 初音ミク)
++投影の唄(Long Ver.)(feat. 初音ミク)
++Fragment Of Dream(feat. 初音ミク)
+
+**リンク
+-[[KarenT(カレント)：音楽詳細 ： 『Telepathy / Ohnuma』>>http://karent.jp/album/224]]
+-[[KarenT(カレント)：アーティスト詳細 ： 『大福P』>>http://karent.jp/artist/pp000106]]
+-[[Ohnuma Sound Lab. blog>>http://komonodfkdfk.blog19.fc2.com/]]
+**コメント
+#comment

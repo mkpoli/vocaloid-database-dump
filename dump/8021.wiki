@@ -1,0 +1,95 @@
+#right(){&furigana(すぺーすしょーとかっときー Part2)&furigana()【登録タグ:&tags()】}
+&nicovideo(http://www.nicovideo.jp/watch/sm9282469)
+作詞：[[謝謝P]]
+作曲：[[謝謝P]]
+編曲：[[謝謝P]]
+唄：初音ミク
+
+**曲紹介
+-カマヤン＠ミクMADのひとさんが可愛すぎる動画を作ってくれました。キュートなダンスをお楽しみください＞＜。(作者コメ転載)
+-「[[スペースショートカットキー]]」のWindows7 ver.
+
+**歌詞
+[Windows] + [D]・・・デスクトップ表示
+[Windows] + [E]・・・コンピュータ表示
+[Windows] + [F]・・・ファイル/フォルダ検索
+[Windows] + [L]・・・コンピュータをロック
+
+[Windows] + [↑]・・・(アクティブ)ウィンドウ最大化
+[Windows] + [↓]・・・(アクティブ)ウィンドウ最小化
+[Windows] + [Space]・・・デスクトッププレビュー
+[Windows] + [R]・・・[ファイル名を指定して実行]
+
+[Ctrl] + [Alt] + [Space]・・・拡大鏡でマウスポインターを表示
+[Ctrl] + [Alt] + [F]・・・拡大鏡で[全画面表示]に切り替え
+
+[Ctrl] + [O]・・・開く
+[Ctrl] + [S]・・・保存
+[Ctrl] + [Tab]・・・次のタブへ
+[Ctrl] + [Shift] + [Tab]・・・前のタブへ
+[Ctrl] + [C]・・・コピー
+[Ctrl] + [X]・・・切り取り
+[Ctrl] + [V]・・・貼付け
+[Ctrl] + [Esc]・・・[スタートメニュー]
+
+Keyboard shortcuts are combinations of two or more keys that,when pressed,
+can be used to perform a task that would typically require a mouse or other pointing device. 
+
+[Windows] + [Break]・・・[システム]表示
+[Windows] + [G]・・・各ガジェット巡回
+[Windows] + [+]/[-] ・・・(拡大鏡)ズームイン/アウト
+[Windows]キー・・・スタートメニュー表示/非表示
+
+[Windows] + [←]・・・ウィンドウ左固定
+[Windows] + [→]・・・ウィンドウ右固定
+[Windows] + [Esc]・・・拡大鏡終了
+[Windows] + [T] ・・・ アイテムをフォーカス＆スクロール
+
+[Ctrl] + [Alt] + [L]・・・拡大鏡で[レンズ]に切り替え
+[Ctrl] + [Alt] + [D]・・・拡大鏡で[固定]に切り替え
+
+[Ctrl] + [Z]・・・Undo
+[Ctrl] + [Y]・・・Redo
+[Ctrl] + [P]・・・印刷
+[Ctrl] + [A]・・・選択ALL
+[Home]キー・・・行頭へ
+[End]キー・・・行末へ
+[Ctrl] + [Home]・・・文頭へ
+[Ctrl] + [End]・・・文末へ
+
+Keyboard shortcuts can make it easier to interact with your computer,
+saving you time and effort as you work with Windows and other programs.
+
+[Windows] + [Home]・・・アクティブウィンドウ以外の全てをクリア
+[Windows] + [U]・・・「コンピューターの簡単操作センター」を開く
+[Windows] + [Pause]・・・システムプロパティ表示
+[Windows] + [数字キー]・・・タスクバー左下表示のプログラムを起動
+[Print Screen]・・・スクリーンショットをクリップボードにコピー
+[Alt] + [Print Screen]・・・アクティブウインドウのスクリーンショットをクリップボードにコピー
+
+[shift] + CD-ROM挿入・・・(CD-ROMを)自動再生しない
+
+[F1]・・・ヘルプ起動
+[F2]・・・名前変更
+[F3]・・・ファイル検索
+[F5]・・・最新情報に更新
+[Shift] + [Del]・・・アイテム完全削除
+[Windows] + [Tab]・・・フリップ3D表示
+[Alt] + [Tab]キー・・・プログラム切り替え
+[Alt] + [F4]・・・プログラム終了　Hey!
+
+[Windows] + [C]・・・コントロールパネル
+[Windows] + [L]・・・(Windowsから)ログオフ
+[Windows] + [V]・・・クリップボード起動
+[Windows] + [S]・・・[CapsLock]オン/オフ
+[Windows] + [P]・・・プレゼンテーションモード
+[Windows] + [K]・・・[キーボードプロパティ] 
+[Windows] + [I]・・・[マウスのプロパティ]
+[Windows] + [A]・・・ユーザー補助オプション起動 
+
+「もう...マウスなんて...使わない」
+
+**コメント
+- 僕のパソコン、Ｗｉｎｄｏｗｓ７だから、この歌の歌詞覚えて、使いこなすぞ！  -- 竜奇  (2012-01-10 21:08:15)
+- このシリーズの中ではPart２が一番好き♪  -- 〈(@ω@)〉  (2014-10-05 05:25:50)
+#comment()

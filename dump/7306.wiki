@@ -1,0 +1,22 @@
+#right(){&furigana(おかのうえ)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/15962372" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/15962372">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-メロウなメロディーとキラキラした電子音が特徴
+
+**リンク
+-[[作者ホームページ>>http://www.oknuw.net/]]
+-[[ピアプロ>>http://piapro.jp/oknuw]]
+
+**曲
+#list_by_tag(おかのうえ,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(おかのうえCD,100,sort=furigana)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/nm7827420)|&nicovideo(http://www.nicovideo.jp/watch/sm8804178)|
+
+**コメント
+- おかのした  -- 名無しさん  (2016-02-20 21:03:41)
+#comment()

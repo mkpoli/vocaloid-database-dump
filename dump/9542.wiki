@@ -1,0 +1,26 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/16125889" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/16125889">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-[[バファリンP]]とサイト、ブログを共有してる為同人サークル（同一人物）かも？
+-不確定要素多数なので情報募集中
+-綺麗な音特にピアノが耳障り良いのが特徴
+
+**リンク
+-[[バファリンP公式サイト（跡地）>>http://sound.jp/oba39/]]
+-[[PIAPRO>>http://piapro.jp/sumalu]]
+-[[Spring Stray Sheep（ブログ）>>http://oba39.seesaa.net/]]
+
+**曲
+#list_by_tag(SUMALU,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(SUMALUCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm8924989)|&nicovideo(http://www.nicovideo.jp/watch/sm9233210)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9265378)|&nicovideo(http://www.nicovideo.jp/watch/sm9323961)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9340491)|&nicovideo(http://www.nicovideo.jp/watch/sm9530094)|
+
+**コメント
+#comment()

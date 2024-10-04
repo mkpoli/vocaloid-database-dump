@@ -1,0 +1,37 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/059_20091225194605_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Voice Electronique]]|CENTER:&bold(){I Love Music}|CENTER:[[Magic>Magic/CD]]|
+
+|&bold(){[[Chiquewa]]}|[[ぱんだっち]]|
+
+発売：2009年8月19日
+価格：アルバム￥900 / 1曲￥150
+流通：配信
+レーベル：KarenT
+販売元：クリプトン・フューチャー・メディア 
+
+**CD紹介
+-Chiquewa氏のセカンドアルバム。今回はルカをメインにフィーチャー。
+-&bold(){前作『Voice Electronique』比108％のエナジー！&br()制作過程で増加した体脂肪率3%という壮大なスケール！！}（KarenTアルバムページの作者コメントより）
+
+**曲目
++I Love Music (feat. 巡音ルカ)
++[[秘密>秘密/Chiquewa]] (feat. 巡音ルカ)
++Can't Stop (feat. 巡音ルカ)
++Kiss Of Life (feat. 巡音ルカ)
++[[クウソウカガク]] (feat. 巡音ルカ + 初音ミク)
++落日と月影 (feat. 巡音ルカ)
++泪 (feat. 巡音ルカ)
++ポンパドール (feat. 巡音ルカ)
++I Love Music - Reprise (feat. 巡音ルカ)
++恋 (feat. 巡音ルカ)
++[[恋しくて - Luka's Bossa Version>恋しくて]]
+
+**リンク
+-[[作者ブログ>>http://chiquewa.blog.eonet.jp/]]
+-[[KarenT>>http://karent.jp/album/59]]
+
+**コメント
+#comment

@@ -1,0 +1,38 @@
+#right(){&furigana(なないろ！) &furigana()【登録タグ:&tags() 】}
+//&ref(http://tonicflow.com/top-img/jacket-nanairo.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){ナナいろ！}|CENTER:&bold(){[[春の常世の夜の夢]]}|
+
+|&bold(){[[生P]]}|
+
+||CENTER:即売|CENTER:同人|
+|発売|CENTER:2010年3月28日|CENTER:-|
+|価格|CENTER:￥100|CENTER:-|
+|サークル|>|CENTER:Tonic Flow|
+
+作詞・作曲：&bold(){[[sayu_t]]}
+イラスト：&bold(){[[とれパン>>http://d.n01.boy.jp/]]}
+
+**CD紹介
+-同人音楽サークル「Tonic Flow」のMac音中心アルバム。
+-THE VOCALOID PARADISE 3（ボーパラ3）で頒布される。
+-これだけ入って100円ですって奥さん！
+-奇しくも、イベント当日の3月28日はMac音家の1回目の誕生日だった。
+-委託販売の予定は無いらしい。
+
+**曲目
++Expression / Mac音ナナ
++ウタゴコロ / Mac音ナナ
++Pisces / 揺歌サユ・Mac音ナナ
++Mac-ne Caffe / Mac音ココ・ナナ
++七恋歌 / Mac音ナナ
++ココの子守唄 / Mac音ココ
++Gratitude / Mac音ナナ
++大切な一日 / VOCALOID・Mac音家
+
+**リンク
+-[[特設サイトDiscography>>http://tonicflow.com/discography/]] 
+
+**コメント
+#comment

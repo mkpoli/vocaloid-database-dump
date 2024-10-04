@@ -1,0 +1,46 @@
+#right(){&furigana(chuji)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+
+**特徴
+作り手名：『&u(){chu-ji}』
+-PIAPROで歌詞を提供している。
+-代表作は「[[プラグアウト]]」。[[鼻そうめんP]]に採用された。
+-英語での作詞を得意とする。 が
+>この人物の書く詞は重大な間違い英語である危険性があります。 予めご了承下さい。（PIAPROプロフより）
+
+**リンク
+-[[PIAPRO（chu-ji）>>https://piapro.jp/transient1710]]
+
+**曲
+#list_by_tag(chu-ji,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(chu-jiCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+***主なコラボ先と作品
+[[鼻そうめんP]]
+|&nicovideo(sm5321419)|&nicovideo(sm9205429)|
+
+[[蜂の巣P]]（ハニカム）
+|&nicovideo(sm4423918)|&nicovideo(sm5739778)|
+
+[[DuronSpitfire（DuronII）>DuronII]]
+|&nicovideo(nm5141082)|&nicovideo(nm6292133)|
+
+[[ポン酢P]](Hal)
+|&nicovideo(sm6579498)|&nicovideo(sm8274787)|
+
+[[fatmanP]]
+|&nicovideo(sm6298586)|>|
+
+[[箱庭P]]（6∀⊥）
+|&nicovideo(sm8760082)|>|
+
+**コメント
+- 作詞専門なので作成するか迷いましたが、プラグアウトが殿堂入りしたので作詞者がリンク切れはまずいと思いまして・・・  -- damesukekun  (2009-08-26 17:25:50)
+- この方の歌詞に鼻そうめんPのサウンドがぴったりマッチしていて凄く良いと思います。  -- 名無しさん  (2013-06-08 00:25:52)
+#comment()

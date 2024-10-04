@@ -1,0 +1,33 @@
+#right(){&furigana(ほかP)&furigana()【登録タグ:&tags() 】}
+|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/15984055" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/15984055">【ニコニコ動画】</a></iframe>)|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/11911690" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/11911690">【ニコニコ動画】自分の関わった作品集</a></iframe>)|
+
+**特徴
+-音楽サークル「0108－音屋－」メンバー。
+-ハウス系クラブMIXを得意とする。
+-アーティスト名は &bold(){ep0d}。
+-趣味はネトラジパーソナリティ。
+-カバー曲（主にTMN）を扱う際には「.NetworkP」名義を使用。
+-P名の由来は、[[ポン酢P]]・[[SOLIDIO]]・ep0dの3名で制作したにも関わらず、2ちゃんねる「VOCALOID(初音ミク等)の良作を貼るスレ 第十一集」>>19の&br()『マクロスF：アイモ作ったけど』にて、製作者ポン酢P、SOLIDIO、『他』と省略されたことから。
+-洋泉社発行のムック書籍「降臨！ボーカロイドマル秘名曲大全」の200選曲に「Crazy For You」が選ばれ掲載されている。
+
+**リンク
+-[[0108－音屋－（作者サークルHP）>>http://www.die8.name/0108/]]
+-[[作者ブログ>>http://www.fourslippers.com/ep0d/]]
+-[[PIAPRO>>http://piapro.jp/ep0d]]
+-[[KarenT>>http://karent.jp/artist/pp000323]]
+
+**曲
+#list_by_tag(他P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(他PCD,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm8796815)|&nicovideo(http://www.nicovideo.jp/watch/sm11244737)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm11505731)|&nicovideo(http://www.nicovideo.jp/watch/sm12215709)|
+|&nicovideo(sm12584218)|&nicovideo(sm16768119)|
+|&nicovideo(sm17604393)|&nicovideo(sm17720649)|
+
+**コメント
+- TMNのコピーとか最高。さすが分かってる。  -- 名無しさん  (2011-03-21 00:09:43)
+#comment()

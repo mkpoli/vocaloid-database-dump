@@ -1,0 +1,65 @@
+#right(){&furigana(LOVEHOLIC)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo(http://www.nicovideo.jp/watch/sm3437562)
+作詞：[[@知人]]([[M@M]])
+作曲：[[まっこう]]([[M@M]])
+編曲：[[も～れっくす]]([[M@M]])
+絵：[[@知人]]
+唄：[[初音ミク]]
+
+**曲紹介
+>&bold(){ゴス系のメタルソングをイメージして作ってみましたが、いかがでしょうか？}
+曲名：『&u(){LOVEHOLIC}』
+-M@Mによる初音ミク歌唱楽曲。
+
+**歌詞
+（[[ピアプロ>>http://piapro.jp/a/content/?id=j75i6g6b2swyeclo]]より転載）
+
+I　
+冷たい指
+濡れる頬
+偽りの冷たさに
+
+I
+凍えてる
+見失う
+真実の欠片を
+
+
+LOVE　HOLIC　狂おしいほど
+LOVE　HOLIC　求めてる
+
+
+so
+絡み合う
+糸のように
+離れられない運命
+
+so
+言葉でなく
+揺ぎ無い
+答えを探し続け
+
+
+LOVE　HOLIC　狂おしいほど
+LOVE　HOLIC　求めても
+LOVE　HOLIC　震えてる
+LOVE　HOLIC　押しつぶされそう
+
+
+ベールに隠された真実に気づかず
+翻弄されてく
+この心を貫く刃
+
+Ah
+
+いくつの時を越え例え離れ離れになっても
+決して見失わないでほしい
+
+ここへ
+
+**コメント
+#comment()

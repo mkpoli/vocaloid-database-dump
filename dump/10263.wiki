@@ -1,0 +1,74 @@
+#right(){&furigana()&furigana()【登録タグ:&tags()】}
+&nicovideo(http://www.nicovideo.jp/watch/sm10996740)
+作詞：[[バルP]]
+作曲：[[バルP]]
+編曲：[[バルP]]
+唄：初音ミク
+
+**曲紹介
+-Appendいじるだけいじって、結局初代ミクに落ち着きました。
+-人々が行き交う雨の交差点で、今日も一つのドラマが繰り広げられます。
+-2008年制作「[[雨の女 -side Miku->雨の女 ～side Miku～]]」の続編です(笑)
+-KarenTレーベルよりダウンロード販売が行われている。「[[雨の季節'10>>http://karent.jp/special/rain10]]」企画で配信された作品の1つ。
+
+**KarenT配信
+&ref(http://karent.jp/npdca/348_20100523200346_0240_0240.jpg)
+
+|CENTER:前作|CENTER:今作|CENTER:次作|
+|CENTER:[[チョコクロ♪]]|CENTER:&bold(){Rainy Day}|CENTER:[[比較対象]]|
+
+流通：配信
+発売：2010年6月9日
+価格：￥300 / 1曲￥150
+レーベル：[[KarenT>>http://karent.jp/album/348]]
+ジャケットイラスト：[[Croya>>http://piapro.jp/croya]]
+
+|&bold(){[[iTunes Storeで購入>>http://itunes.apple.com/jp/album/rainy-day/id375641938]]}|
+
+***曲目
++Rainy Day （feat. 初音ミク）
++Rainy Day （instrumental）
+
+**歌詞
+//（[[引用元のページ名>>引用元のURL]]より転載）
+泣き出しそうな　ご機嫌斜めの空
+そんなに嫌いじゃない
+君がくれた傘を　大切に抱えている
+もしかしたら　葉桜並木道の
+曲がり角の向こうで……
+そんな淡い期待　今でも
+
+once again story.
+あの日の君の姿を　探している
+
+Rainy Day　色とりどりの傘模様
+踊りだす雨粒たち
+いつかの交差点へ足を運ぶ
+今日もまた　Rainy Day
+
+ドアを開けて急かされるように飛び出す
+お決まりの朝のこと
+今日も明日も　単調なリズム刻んで揺れてる
+そんなある日　見慣れた景色をなぞり
+駅へと向かう途中
+道の先に　君を見つけたの
+
+once again story.
+激しく降り始めた雨　駆け出してた
+
+Rainy Day　青になる信号の合図
+動き出す人波へと
+消えてく後ろ姿追いかけても
+届かない　Rainy Day
+
+once again story.
+はじけた雨の雫だけ　輝いてた
+
+Rainy Day　いつも通りの一日が
+今日もまた始まるだけ
+飛び乗る快速線　窓の向こう
+見つめてる　Rainy Day
+
+
+**コメント
+#comment()

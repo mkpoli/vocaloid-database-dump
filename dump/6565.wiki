@@ -1,0 +1,46 @@
+#right(){&furigana(KおんかおーっP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/4615998" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/4615998">【ニコニコ動画】ちかごろのがおさん</a></iframe>)|&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/9417954" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/9417954">【ニコニコ動画】がおさんとこらぼ</a></iframe>)|
+
+**特徴
+作り手名：『&u(){K音ガオーッP}』（&u(){KおんがおーっP}）
+-ガールズロック系の元気な曲を多く作曲する。
+-コラボにも多数参加している。
+-歌うPでもある。ロリ声のPとして、もっぱら評判である。
+-2ch底辺Pの集会所スレに自貼りされた曲を紹介するネトラジを放送している。
+
+**リンク
+-[[PIAPRO>>https://piapro.jp/K440]]
+-[[ブログ>>http://kongao.sblo.jp/]]
+-[[ラジオ★スイミー特設ブログ>>http://k440.sblo.jp/]]
+
+**曲
+#list_by_tag(K音ガオーッP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+//**CD
+//#list_by_tag(K音ガオーッPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm2199089)|&nicovideo(sm2350157)|
+|&nicovideo(sm2415291)|&nicovideo(sm2663677)|
+|&nicovideo(sm3204590)|&nicovideo(sm3893682)|
+|&nicovideo(sm4291855)|&nicovideo(sm4862809)|
+|&nicovideo(sm4928858)|&nicovideo(sm5142489)|
+|&nicovideo(sm5536615)|&nicovideo(sm5717386)|
+|&nicovideo(sm5755512)|&nicovideo(sm6007499)|
+|&nicovideo(sm6246958)|&nicovideo(sm8459790)|
+|&nicovideo(sm8513412)|&nicovideo(nm9420335)|
+&bold(){コラボ曲}
+|&nicovideo(sm2940522)|&nicovideo(sm3403164)|
+|&nicovideo(sm4478096)|&nicovideo(sm4972291)|
+|&nicovideo(sm5049722)|&nicovideo(sm7290126)|
+|&nicovideo(sm7586505)|&nicovideo(sm8087711)|
+
+**コメント
+- 「幸せの鐘よ鳴り響け、～」はもっと評価されるべき！  -- naoh  (2009-09-15 02:46:35)
+- ガオー結婚してくれ頼む！  -- 名無しさん  (2009-09-16 14:38:08)
+- ずっとファンでした＞＜  -- 名無しさん  (2009-09-16 22:51:19)
+#comment()

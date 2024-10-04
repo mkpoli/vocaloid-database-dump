@@ -1,0 +1,37 @@
+#right(){&furigana(clear) &furigana()【登録タグ:&tags() 】}
+&ref(http://a1.phobos.apple.com/us/r30/Music/d0/3f/c1/mzi.ijwzheyo.170x170-75.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){possible to die for - ep}|CENTER:[[chorus lines - ep]]|
+
+|&bold(){[[EHAMIC]]}|
+
+||CENTER:即売|CENTER:同人|CENTER:配信|
+|発売|>|CENTER:2009年9月6日|CENTER:2009年10月15日|
+|価格|CENTER:￥1,000|CENTER:￥1,260|CENTER:￥750 / 1曲￥150|
+|サークル|>|>|CENTER:ehamiku|
+
+|&bold(){[[iTunse Storeで購入する>>http://itunes.apple.com/jp/album/possible-to-die-for-ep/id336578114]]}|
+
+**CD紹介
+-ボーマス9にて発表。
+-とらのあなにて委託販売が行われていた。
+-iTunes Storeにてダウンロード販売が行われている。
+
+**曲目
++[[possible to die for (邦題：1000円で死ねる)>1000円で死ねる]]
++[[tokyo (邦題：東京)>東京(tokyo)]]
++[[chicken rice (邦題：チキンライス)>チキンライス]]
++possible to die for (instrumental)
++tokyo (instrumental)
+
+**リンク
+-[[EHAMIC twitter>>http://twitter.jp/EHAMIC/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/19/84/040010198435.html]]
+-[[メロンブックス>>http://shop.melonbooks.co.jp/shop/detail/213001009264/]]
+
+**コメント
+- ボーマスで買いましたよ。素敵すぎます。  -- 名無しさん  (2009-11-24 12:42:12)
+- 去年のボマスでジャケ買いして惚れました！  -- 織  (2010-11-05 15:28:47)
+- 再販はじめたんですね…購入してきます。  -- Root1.4  (2012-02-26 21:23:47)
+#comment

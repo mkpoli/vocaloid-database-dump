@@ -1,0 +1,55 @@
+#right(){&furigana(のくたーん)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&ref(http://karent.jp/npdca/442_20100625013738_0240_0240.jpg)
+|&nicovideo(sm9559470)|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[14>14/CD]]|CENTER:&bold(){ノクターン}|CENTER:[[BEAUTIFUL DREAMER>BEAUTIFUL DREAMER/CD]]|
+
+|&bold(){[[ナタP]]}|
+
+||CENTER:即売|CENTER:同人|CENTER:配信|
+|発売|CENTER:2010年2月7日|CENTER:2010年2月7日|CENTER:2010年7月31日|
+|価格|CENTER:￥1,000|CENTER:￥1,500(税込)|CENTER:￥1,200 / 1曲￥150|
+|サークル|>|CENTER:NATARIE IN THE DREAM||
+|レーベル|>|CENTER:-|CENTER:KarenT|
+
+|&bold(){[[とらのあなで購入する>>http://www.toranoana.jp/mailorder/article/04/0010/21/07/040010210737.html]]}|
+|&bold(){[[D-STAGEで購入する>>http://d-stage.com/shop/detail.php?seq=14738]]}|
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/id383588142]]}|
+
+>作詞・作曲：&b(){[[ナタP]]}
+>ジャケットイラスト：&b(){[[kura>>http://www.pixiv.net/member.php?id=56712]]}
+>ジャケットデザイン：&b(){[[SHINN>>http://www.techno-sublime.com/]]}
+
+**CD紹介
+-ナタP２枚目のフルアルバム。神威がくぽが歌う１０曲の夜想曲。
+-ボーマス11にて初頒布。
+-イラストはkura氏による描きおろし。
+-一部の曲にコーラスで巡音ルカが参加している。
+-現在、とらのあなとD-STAGEで委託販売が行われているが、とらのあなでは完売となっている。
+-がくっぽいど発売2周年記念にKarenTレーベルよりダウンロード販売が開始された。
+
+**曲目
++[[ノクターン>ノクターン/ナタP]]（新曲）
++[[バタフライ]]
++オレンジ海岸（新曲）
++[[空に届く砂の山]]
++[[しあわせな王子]]
++[[冬の虫]]
++[[スターゲイザー>スターゲイザー/ナタP]]
++[[月色回帰]]
++新世界（新曲）
++太陽を知らない人（新曲）
+
+**リンク
+-[[特設サイト>>http://natarieinthedream.com/nocturne/]]
+-[[とらのあな通販ページ>>http://www.toranoana.jp/mailorder/article/04/0010/21/07/040010210737.html]]
+-[[KarenT：「ノクターン」>>http://karent.jp/album/442]]
+-[[KarenT：「がくっぽいど2周年記念祭」特集ページ>>http://karent.jp/special/gackpoid10]]
+
+**コメント
+#comment

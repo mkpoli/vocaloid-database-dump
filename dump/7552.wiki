@@ -1,0 +1,60 @@
+#right(){&furigana(Mixer)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm8210727)|
+作詞：[[taat]]
+作曲：[[taat]]
+編曲：[[taat]]
+唄：[[巡音ルカ]]
+
+**曲紹介
+曲名：『&u(){Mixer}』(&u(){みきさー})
+-ルカの高音が彩るテクノ曲。
+-歌詞にニコニコ動画を象徴させるものがたくさん含まれているのも特徴。
+-ご覧の通りひたすらMixer。バックで流れているMixerも合わせると、実に100回程度Mixerと言っている。
+
+**歌詞
+
+Mixer... Mixer... Mixer... Mixer...
+Mixer... Mixer... Mixer... Mixer...
+Mixer... Mixer... Mixer... Mixer...
+Mixer... Mixer... Mixer... Mixer...
+
+Mixer　ふたえのきわみで Mixer　どなるどぜんかい Mixer　でででデスノトにゃん Mixer
+Mixer　えりくさーれんせい Mixer　あにきもみまもるよ Mixer　せめてたこらしく Mixer
+
+Mixer... (soran, soran) Mixer... (soran, soran) 
+Mixer... (soran, soran) Mixer... (soran, soran)
+Mixer... (soran, soran) Mixer... (soran, soran)
+Mixer... (soran, soran) Mixer... (soran, soran)
+
+☆
+Mixer　ふたえのきわみで Mixer　どなるどぜんかい Mixer　でででデスノトにゃん Mixer
+Mixer　えりくさーれんせい Mixer　あにきもみまもるよ Mixer　せめてたこらしく Mixer
+Mixer　みなぎるふえのね Mixer　ねこふんじゃた Mixer　なぞのぎじゅつで Mixer
+Mixer　いちおくねんとにせんねんまえから Mixer　えむえむでぃだれにでも Mixer　にこにこのりゅうぎで Mixer
+
+Mixer... Mixer... Mixer... Mixer...
+
+Mixer　ふたえのきわみで Mixer　どなるどぜんかい Mixer　でででデスノトにゃん Mixer
+Mixer　えりくさーれんせい Mixer　あにきもみまもるよ Mixer　せめてたこらしく Mixer
+Mixer　みなぎるふえのね Mixer　ねこふんじゃた Mixer　なぞのぎじゅつで Mixer
+Mixer　いちおくねんとにせんねんまえから Mixer　えむえむでぃだれにでも Mixer　にこにこのりゅうぎで Mixer
+
+Mixer　ふたえのきわみで Mixer　どなるどぜんかい Mixer　でででデスノトにゃん Mixer
+Mixer　えりくさーれんせい Mixer　あにきもみまもるよ Mixer　せめてたこらしく Mixer
+Mixer　みなぎるふえのね Mixer　ねこふんじゃた Mixer　なぞのぎじゅつで Mixer
+Mixer　いちおくねんとにせんねんまえから Mixer　えむえむでぃだれにでも Mixer　にこにこのりゅうぎで Mixer
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+**コメント
+#comment()
+
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)

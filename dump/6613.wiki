@@ -1,0 +1,38 @@
+#right(){&furigana(にびいろのまち) &furigana()【登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186110311.jpg,x=300,y=300)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:Sunny Days|CENTER:&bold(){鈍色の街}|CENTER:-|
+
+|&bold(){[[だあくP]]}|
+
+||CENTER:即売|CENTER:同人|
+|CENTER:発売|CENTER:2009年2月22日|CENTER:2009年2月22日|
+|CENTER:価格|CENTER:￥700|CENTER:￥1,000|
+|CENTER:サークル|>|CENTER:DARK CASTLE|
+
+**CD紹介
+-がくっぽいどonlyアルバム。
+-作詞を高木誠、作曲をベルネイジが担当している。
+-ジャケット・ブックレットイラストはうむ氏が手がけている。
+
+**曲目
++[[Midnight Chase]]
++柘榴［ザクロ］ 
++Masquerade 
++[[鈍色の街>鈍色の街/だあくP]] 
++[[Rebellion>Rebellion/だあくP]] 
++Midnight Chase (vocal off) 
++柘榴［ザクロ］ (vocal off) 
++Masquerade (vocal off) 
++鈍色の街 (vocal off) 
++Rebellion (vocal off) 
+
+
+**リンク
+-[[DARK CASTLE>>http://www004.upp.so-net.ne.jp/dcweb/]]
+-[[D-STAGE特設ページ>>http://d-stage.com/shop/detail.php?seq=8667&kw=29000712&focus=1]]
+
+**コメント
+#comment

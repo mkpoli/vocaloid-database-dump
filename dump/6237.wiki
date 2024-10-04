@@ -1,0 +1,38 @@
+#right(){&furigana(ゆよゆっは)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/10544614" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/10544614">【ニコニコ動画】塩辛が嫌い</a></iframe>)
+
+**特徴
+作り手名：『&u(){ゆよゆっぱ}』
+-ミクリーモで有名、[[ゆよゆっぺ]]氏の実の弟
+-兄弟だけありエモ、スクリーモ好きは共通の模様（PIAPROプロフィールより）
+-初投稿の[[Everything Lost]]から処女作とは思えないクオリティを見せた、期待のP
+
+**リンク
+-[[PIAPRO>>https://piapro.jp/m2vwjp]]
+
+**曲
+#list_by_tag(ゆよゆっぱ,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(ゆよゆっぱCD,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**動画
+|&nicovideo(sm5453703)|&nicovideo(sm5865043)|
+|&nicovideo(sm6435298)|&nicovideo(sm12274753)|
+|&nicovideo(sm12429457)|&nicovideo(sm12727005)|
+|&nicovideo(sm13537422)|&nicovideo(sm16501831)|
+
+**コメント
+- ゆよゆっぺさんの弟だったんですね！  -- 名無しさん  (2011-07-30 10:54:11)
+- 兄よりメタル性が強い  -- 名無しさん  (2012-02-11 13:06:34)
+- 伸び悩んでいるなぁ・・・  -- 名無しさん  (2012-07-16 18:43:03)
+- 友達からゆよゆっぱなるゆよゆっぺの弟がいると聞いてｗｗｗ  -- 名無しさん  (2013-03-06 14:46:05)
+- 声ききたい…兄弟でかわいい！萌える！  -- 夢月  (2013-03-15 02:19:45)
+- コラボＣＤでるんだね！期待  -- 名無しさん  (2013-12-17 22:07:06)
+- すげえええすき!!!!///なんで伸び悩んでるの…VOCALOUD01たのしみだ!!  -- SeLen  (2014-03-05 21:22:03)
+- 今ゆよゆっぺ・ゆよゆっぱ兄弟はGrilled Meat Youngmansというバンドをやっているので是非チェックしてみてください！  -- 名無し  (2017-07-13 17:05:13)
+#comment()

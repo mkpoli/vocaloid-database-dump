@@ -1,0 +1,38 @@
+#right(){&furigana()【登録タグ:&tags() 】}
+#image(http://kidding-stylez.cranky.jp/vm/img/dotloidsCDVol1.jpg,title=DotLoids)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:&bold(){[[ヒトリノセカイ>ヒトリノセカイ/CD]]}|CENTER:&bold(){DotLoids}|CENTER:&bold(){[[CENSORED E.P.]]}|
+
+|&bold(){[[ceresP]]}|
+
+流通：即売
+発売：2009年11月15日
+価格：￥1,000
+サークル：ヒトリノセカイ
+
+作曲：&b(){Nobuo Uematsu, Kenji Ito(Tr.9)}
+アレンジ・ジャケット：&b(){[[ceresP]]}
+
+**CD紹介
+-ceresP2作目となるVOCALOID-CD。ボーマス10にて頒布された。
+-FFシリーズのピコピコアレンジ「DotLoidsシリーズ」の総集編。Interludeを含む全11曲を収録。
+
+**曲目
++Prelude
++Wild Rose
++Two Moons
++Interlude Chocobo Scat
++Tina
++Lix
++Friends
++Interlude Fat Chocobo Scat
++The Holy Sword
++Drowned Workd
++The Decisive
+
+**リンク
+-[[本人サイトのCD告知ページ>>http://kidding-stylez.cranky.jp/vm/]]
+
+**コメント
+#comment

@@ -1,0 +1,16 @@
+#right(){【登録タグ:&tags()】}
+//↑タグ忘れ防止のための表示
+曖昧さ回避のためのページ
+----
+-作り手
+--[[Harmonia/作り手]]
+
+-P∴Rhythmatiq（[[Aether_Eru]]・[[ゆうP]]・[[ノア>ノア/作り手]]）のCD
+--[[harmonia/P∴RhythmatiqCD]]
+-[[ナナミP]]のCD
+--[[Harmonia/ナナミPCD]]
+
+-[[さといも]]の曲
+--[[harmonia/さといも]]
+
+#include(曖昧さ回避の追加の仕方/告知)

@@ -1,0 +1,29 @@
+#right(){&furigana(いわしみすP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/18538338" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/18538338">【ニコニコ動画】</a></iframe>)
+
+**特徴
+作り手名：『&u(){岩清水P}』（&u(){いわしみずP}）
+&big(){もしかして:&s(){&color(blue){Easy Pop}}}
+-エロティシズム満載の楽曲を製作するPである。
+-ボーカロイドPである[[Easy Pop]]氏の&color(red){妹}である。&br()そのためか、曲調もとても似ている。
+-曲中に喘ぎ声を多用する。ちなみに、喘ぎ声は岩清水P自身のものらしい。
+
+**リンク
+-[[piapro>https://piapro.jp/iwashimizu1930]]
+
+**曲
+#list_by_tag(岩清水P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**動画
+|&nicovideo(nm9201222)|&nicovideo(nm10357124)|
+
+**コメント
+- すきですww  -- しう  (2010-09-05 08:18:52)
+- こんな妹欲しかったなぁ！！  -- mizuki  (2011-04-21 02:09:58)
+- し・・・視聴できない・・・だと！？  -- 名無しさん  (2013-09-02 00:16:04)
+- 喘ぎ声wwwところで同一人物じy(ry  -- 名無しさん  (2014-12-07 14:36:56)
+#comment()

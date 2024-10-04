@@ -1,0 +1,36 @@
+#right(){&furigana()【登録タグ:&tags() 】}
+#image(http://kidding-stylez.cranky.jp/vm/img/censoredEP_Banner.jpg,title=CENSORED E.P.)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[DotLoids]]|CENTER:&bold(){CENSORED E.P.}|CENTER:[[EMETH e.p.]]|
+
+|&bold(){[[ceresP]]}|
+
+流通：即売
+発売：2010年2月28日
+価格：￥500
+サークル：ヒトリノセカイ
+
+>作詞・作曲(Tr.3,5除く)：&b(){[[ceresP]]}
+>Tr.3：作詞・作曲：&bold(){[[涼介P]]}
+>Tr.5：作詞：&b(){[[kuma>kuma（alfred）]]}、作曲：&b(){[[iroha>iroha/作り手]]}
+
+**CD紹介
+-ceresP3作目となるVOCALOID-CD。ボーマス11にて頒布された。
+-「[[リア友の嫁が初音ミクを描いて以下略]]」等、ネタ要素を多く含む歌詞に作りこまれたガチな音が乗った、全8曲を収録している。
+
+**曲目
++リア友の嫁が初音ミクを以下略
++むにょ。 nico mix
++[[そして誰もいなくなった]] white out mix
++Binary Heart
++[[炉心融解]] Re:Act2Mix
++むにょ。 club mix
++リア友の嫁が初音ミクを以下略(Instrumental)
++Binary Heart(Instrumental)
+
+**リンク
+-[[本人サイトのCD告知ページ>>http://kidding-stylez.cranky.jp/vm/]]
+
+**コメント
+#comment

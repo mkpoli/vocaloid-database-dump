@@ -1,0 +1,34 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm8771905)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[アンバランスジャージディスコミュニケーション]]|CENTER:&bold(){SWANTONE}&br()[[KUMA BEAT EP]]|CENTER:[[ディスコ・ファンタジカ / CLOUDY>ディスコ・ファンタジカ／CLOUDY]]|
+
+|&bold(){[[曲者P]]}|&bold(){[[en>en/作り手]]}|
+
+発売：2009年11月15日
+価格：￥1,000
+流通：即売
+サークル：SWANTONE
+
+**CD紹介
+-曲者Pとenによる音楽ユニット「SWANTONE」の1stCDアルバム。
+-THE VOC@LOiD M@STER 10（ボーマス10）で頒布。
+-カセットテープ『[[KUMA BEAT EP]]』と同時発売。
+
+**曲目
++We are SWANTONE / en
++イチゴガールビートボックス / en
++[[アンバランスコミュニケーション]] / 曲者P
++[[dolly dolly]] / 曲者P
++[[KUMA BEAT]] / en
++No Bird / en
++[[10月の雨>10月の雨/曲者P]] / 曲者P
++[[パーフェクト・ジャージ・ディストーション]] / en
++[[lemon.]] / 曲者P
+
+**リンク
+-[[SWANTONE（作者サイト）>>http://www.ninjaguy.jp/swantone/]]
+
+**コメント
+#comment

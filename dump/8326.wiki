@@ -1,0 +1,35 @@
+#right(){&furigana(ほうちょうP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/8194293" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/8194293">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-ロック系の楽曲を手がける。
+-[[ファズガール]]といった楽曲から[[新世界トラベラー]]のような明るい楽曲まで、幅広い作風の曲を発表している。
+-初期は自らイラストを描いていた。
+-ゆめにっきというフリーゲームの楽曲をアレンジした作品もいくつか発表している。
+-モノ名義でホラーゲーム実況を行っている。
+-ちょっと自虐的。
+-またの名をわさび柿Pという。
+-4月6日にブログにて、包丁Pとしての活動をしないことを発表する。準備が整った頃にまた再出発する模様。
+-活動休止と同時に、動画はすべて削除された。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/lain03]]
+-[[作者ブログ(～ものにっき～)>>http://s1n0.blog73.fc2.com/]]
+
+**曲
+#list_by_tag(包丁P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(包丁PCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm7661150)|&nicovideo(http://www.nicovideo.jp/watch/sm7692173)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7721903)|&nicovideo(http://www.nicovideo.jp/watch/sm7755522)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm8513936)|&nicovideo(http://www.nicovideo.jp/watch/sm8768512)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm9012532)|&nicovideo(http://www.nicovideo.jp/watch/nm9145191)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm9337623)|&nicovideo(http://www.nicovideo.jp/watch/nm9654608)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm9724692)|&nicovideo(http://www.nicovideo.jp/watch/nm9961050)|
+
+**コメント
+- 今はモノトーンpですよ  -- 名無しさん  (2012-08-08 08:59:08)
+#comment()

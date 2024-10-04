@@ -1,0 +1,39 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&ref(http://headphone-tokyo.com/_src/sc486/Black_420.jpg)
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[COLOR>COLOR/とくP]]&br()[[RiNG My BeLL]]|CENTER:&bold(){Black}|CENTER:[[The Universe>The Universe/CD]]|
+
+|&bold(){[[D-STAGEで購入する>>http://store.shopping.yahoo.co.jp/d-stage/search.html?p=%A4%D8%A4%C3%A4%C9%A4%DB%A4%F3%A5%C8%A1%BC%A5%AD%A5%E7%A1%BC&x=0&y=0]]}|
+|&bold(){[[メロンブックスで購入する>>http://shop.melonbooks.co.jp/shop/list/MF/%E3%81%B8%E3%81%A3%E3%81%A9%E3%81%BB%E3%82%93%E3%83%88%E3%83%BC%E3%82%AD%E3%83%A7%E3%83%BC]]}|
+
+|&bold(){[[とくP]]}|
+
+||CENTER:即売|CENTER:同人|
+|CENTER:発売|>|CENTER:2009年11月15日|
+|CENTER:価格|CENTER:￥1,000|CENTER:￥1,300（税込）|
+|CENTER:サークル|>|CENTER:へっどほんトーキョー|
+
+>作詞：&b(){A.I.}
+>作曲：&b(){[[とくP]]}
+>イラスト：&b(){[[refeia>>http://q-orbit.jp/]]}
+
+**CD紹介
+-THE VOC@LOiD M@STER 10（ボーマス10）で頒布された、とくPの2枚目となるVOCALOID-CD。
+-コミックマーケット76からの3ヶ月間に発表された3曲と未発表の新曲、そしてそれぞれのカラオケトラックを収録した、計8曲入りCD。
+
+**曲目
++Fall　&font(red){NEW!!}
++[[Black]]
++[[Butterfly>Butterfly/とくP]]
++[[Rainbow>Rainbow/とくP]]
++Fall （VocalOff）
++Black （VocalOff）
++Butterfly （VocalOff）
++Rainbow （VocalOff）
+
+**リンク
+-[[作者サイト>>http://headphone-tokyo.com/]]
+-[[作者ブログ>>http://blog.livedoor.jp/headphonetokyo/]]
+
+**コメント
+#comment

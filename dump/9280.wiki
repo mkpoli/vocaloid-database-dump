@@ -1,0 +1,57 @@
+#right(){&furigana(あめばこてんかいず)&furigana()【登録タグ:&tags()】}
+|&nicovideo(http://www.nicovideo.jp/watch/sm10027796)|&youtube(https://www.youtube.com/watch?v=daIvPrVAK-M){342,187}|
+作詞：[[ドンガリンゴP]]
+作曲：[[ドンガリンゴP]]
+編曲：[[ドンガリンゴP]]
+唄：初音ミク・巡音ルカ
+
+**曲紹介
+-Kinra（ドンガリンゴP）氏の4作目。
+-ドンガリンゴPは、台湾の年間降雨日数170日の都市在住。「&bold(){大嫌いな小雨に、この一曲を捧げます。}」（動画説明文より）
+-まさに「時空の狭間に閉じこまれた」ようなPVにも注目。写真素材の一部はmuaさん提供。
+-PVに出てくる二人について。(マイリストコメントより)
++この二人を描いた時には一応&color(darkcyan){「ハレマチ」}＆&color(hotpink){「アメミ」}というコードネームがあったけど、それ以外の設定は特に無し。
++アメミのデザインはルカより写真提供のmuaさんに近い。（一方、muaさんは「私はどう見てもミクでしょう」と主張した）
+-&bold(){どうやら「閉じ込まれる」は誤用らしいです。ご指摘頂き有難うございました！でもそれ以外にも間違いはいっぱいありそうです！もう絶望した！}（動画説明文より）
+
+**歌詞
+&color(hotpink){「バス、なかなか来ないな…。」}
+&color(darkcyan){「もしかしたら私たち、時空の狭間に閉じこまれているかもしれない…。}
+&color(darkcyan){　そしてこの雨の中で同じ時間を繰り返し、永遠に待つだけ…。」}
+&color(hotpink){「なにその痛い妄想…。」}
+
+|>|BGCOLOR(white):&color(darkcyan){日時計　あなたの横顔}|
+|>|BGCOLOR(white):&color(darkcyan){雲模様　なぞって彷徨う}|
+|>|BGCOLOR(white):&color(darkcyan){世界中ささやきが箱入りな構造}|
+|>|BGCOLOR(white):&color(darkcyan){この天気雨も今世紀での第三変奏}|
+|>|BGCOLOR(white):&color(darkcyan){そのうち忘れる}|
+|>|BGCOLOR(white):&color(darkcyan){もう　あなたは}|
+|>|BGCOLOR(white):&color(darkcyan){誰だったんだって？}|
+|BGCOLOR(white):　|BGCOLOR(white):|
+|BGCOLOR(white):&color(hotpink){形だけでも　形さえない　雲のような愛情}|RIGHT:BGCOLOR(white):&color(darkcyan){（地図から消えていた街角）}|
+|BGCOLOR(white):&color(hotpink){販売機蹴飛ばして　三本くらい出てくる『運命の人』}|RIGHT:BGCOLOR(white):&color(darkcyan){（傘ごと潰した小雨に）}|
+|BGCOLOR(white):&color(hotpink){眠り姫を救う}|RIGHT:BGCOLOR(white):&color(darkcyan){（会えなくて　会いたくて　会えなくても　ずっと）}|
+|BGCOLOR(white):&color(hotpink){市バスはあと何分？}|RIGHT:BGCOLOR(white):&color(darkcyan){（繰り返し　繰り返し　繰り返す夢回路）}|
+|BGCOLOR(white):&color(hotpink){そのうち忘れる}|RIGHT:BGCOLOR(white):&color(darkcyan){（そのうち忘れる）}|
+|>|BGCOLOR(white):&color(hotpink){もうあなたと　出会ったっけ？}|
+|BGCOLOR(white):　|BGCOLOR(white):|
+|BGCOLOR(white):&color(hotpink){地球の裏で叫んでいいのさ}|BGCOLOR(white):|
+|BGCOLOR(white):　|BGCOLOR(white):|
+|BGCOLOR(white):&color(darkcyan){黙殺できるぐらい浅い対流層}|RIGHT:BGCOLOR(white):&color(hotpink){（たすけてくれ）}|
+|BGCOLOR(white):&color(darkcyan){更に狭い空間に閉じ込まれる妄想}|RIGHT:BGCOLOR(white):&color(hotpink){（たすけてくれ）}|
+|BGCOLOR(white):　|BGCOLOR(white):|
+|>|BGCOLOR(white):速すぎる永遠　はてしない瞬間|
+|>|BGCOLOR(white):そのうち忘れる　そろそろ忘れる|
+|>|BGCOLOR(white):&color(darkcyan){もう　わたしは}|
+|>|BGCOLOR(white):&color(darkcyan){誰だったなんて…}|
+
+&color(hotpink){「バス、なかなか来ないな…。」}
+&color(darkcyan){「もしかしたら私たち、時空の狭間に閉じこまれているかもしれない…。}
+&color(darkcyan){　そしてこの雨の中で同じ時間を繰り返し、永遠に待つだけ…。」}
+&color(hotpink){「なにその痛い妄想…。」}
+
+**コメント
+- いい  -- 名無しさん  (2011-01-29 18:25:34)
+- 地雷から来たけど、氏の世界観に惚れた  -- 名無しさん  (2011-10-09 13:11:30)
+- もっと伸びるべき  -- 名無しさん  (2012-02-27 09:16:25)
+#comment()

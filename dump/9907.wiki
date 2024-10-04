@@ -1,0 +1,33 @@
+#right(){&furigana(どうぶつえん)&furigana()【登録タグ:&tags()】}
+&ref(http://blog-imgs-36-origin.fc2.com/n/e/k/nekonobasu/zoojake6.jpg)
+&nicovideo(http://www.nicovideo.jp/watch/sm10584617)
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&b(){動物園}|CENTER:-|
+
+|&bold(){[[K音ガオーッP]]}|&bold(){[[はむ☆P]]}|&bold(){[[テンネン]]}|
+|&bold(){[[楽しいのかP]]}|>|&bold(){[[今日犬（ジャムおじさんP）]]}|
+
+||CENTER:即売|CENTER:同人|
+|発売|2010年5月9日||
+|価格|CENTER:￥500|CENTER:￥-|
+|サークル|>|CENTER:獣組|
+
+>ジャケットイラスト：&b(){[[わんこそば>>http://comodoblog.blog4.fc2.com/]]}
+>ジャケットデザイン：&b(){[[K音ガオーッP]]}
+
+**CD紹介
+-サークル「獣組」による、全曲書き下ろし新曲のコンピレーション。
+-THE VOC@LOiD M@STER 12（ボーマス12）にて頒布。
+
+**曲目
++のげざかのぼれば　/ [[はむ☆P]]
++[[百獣の嬢]]　/ [[テンネン]](おっぴろげP)
++アニマル大脱走　/ ねこあれるぎー([[楽しいのかP]])
++シロクマロマンチスタ　/ [[K音ガオーッP]]
++どうしてないているのかな　/ [[今日犬>今日犬（ジャムおじさんP）]]
+
+**リンク
+-[[獣組特設ブログ>>http://nekonobasu.blog35.fc2.com/]]
+
+**コメント
+#comment

@@ -1,0 +1,39 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&ref(http://img.toranoana.jp/img/04/0010/20/26/040010202652-1.gif)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Fallen>Fallen/CD]]|CENTER:&bold(){Starrysky prayer}|CENTER:[[モアモアワールド]]|
+
+|&bold(){[[とらのあなで購入する>>http://www.toranoana.jp/mailorder/article/04/0010/20/26/040010202652.html]]}|
+
+|&bold(){[[マチゲリータP]]}|
+
+|CENTER:流通|CENTER:即売|CENTER:同人|
+|CENTER:発売|>|CENTER:2009年11月15日|
+|CENTER:価格|CENTER:￥1,000|CENTER:￥1,500（税込）|
+|CENTER:サークル|CENTER:HATONOS|CENTER:CUBElab.|
+
+**CD紹介
+-マチゲリータPがメンバーとして活動するポストロックバンド「CUBE lab.」の1stアルバム。マチゲリータPが頒布するVOCALOIDアルバムとしては2作目となる。
+-全8+2トラックを収録。+2の詳細は買ってみての(ry
+-[[サ骨>レッドカードP]]氏のサークル「HATONOS」にて100枚限定で頒布された。
+-とらのあなで委託販売されていたが、現在は完売となっている。
+
+**曲目
++intro - starrysky prayer -
++[[hello.nightlights>ハロー、ナイトライツ]]
++7
++[[gekkoh total eclipse>月光トータルイクリプス]]
++[[separative love>セパレイティヴ・ラブ]]
++starrysky prayer
++outro - snow lights -
++comment
++bonus track
++bonus track
+
+**リンク
+-[[特設サイト>>http://machigerita.web.fc2.com/ssp.htm]]
+-[[作者ブログ>>http://machigerita.blog96.fc2.com/]]
+
+**コメント
+#comment

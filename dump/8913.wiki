@@ -1,0 +1,59 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/646_20110119173210_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[CHIP TEARS>CHIP TEARS/CD]]|CENTER:&bold(){PLANET DANCE}|CENTER:[[ハイスクールDAYS]]&br()[[DRIVE TO THE MOON E.P.]]|
+
+|&bold(){[[とらのあなで購入する>>http://www.toranoana.jp/mailorder/article/04/0010/20/25/040010202580.html]]}|
+|&bold(){[[D-STAGEで購入する>>http://d-stage.com/shop/detail.php?seq=11922]]}|
+|&bold(){[[メロンブックスで購入する>>http://shop.melonbooks.co.jp/shop/list/?DA=chgitemtype&G=&F=213001005804]]}|
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/planet-dance/id416968201]]}|
+
+|&bold(){[[U-ji]]}|[[U-SUKE]]|
+
+|流通|CENTER:即売|CENTER:同人|CENTER:配信|
+|発売|>|CENTER:2009年11月15日|CENTER:2011年2月4日|
+|価格|CENTER:￥1,000|CENTER:￥1,260（税込）|CENTER:￥900 / 1曲￥150|
+|サークル|氷山の一角獣|CENTER:U-ji’s HOUSENRG||
+
+**CD紹介
+-U-ji氏による待望の2ndアルバム。
+-THE VOC@LOiD M@STER 10（ボーマス10）にて、[[いーえるP]]の[[アルバム>Liberator　~解放者~]]とともに頒布された。
+-GUMI発売直後に投稿されてヒットした「[[DRIVE TO THE MOON]]」を始めとする、キラキラしたテクノポップを存分に堪能することが出来る。
+-上記の「[[DRIVE TO THE MOON]]」と「[[Feeling Again]]」以外は全て新曲。
+-とらのあな・D-STAGE・メロンブックスにて委託販売されている。KarenTレーベルよりダウンロード販売も行われている。ただし一部曲目が変更されており、1曲目が未収録、「check it! feel it!」が新たに収録されている。
+-イラストは、ドット絵の「[[つみれ>>http://piapro.jp/tsumire]]」氏とイラストの「[[オカヒジキ>>http://piapro.jp/toridaisuki]]」の二人が手がけている。
+-CDの宣伝動画も非常に凝っており、ひとつの娯楽作品としても十分に楽しめる出来となっている。
+
+**試聴用動画
+&nicovideo(http://www.nicovideo.jp/watch/nm8611391)
+
+**曲目
+***CD版
++intro
++[[DRIVE TO THE MOON]]
++[[Holy Nite]]
++planet dance
++[[Feeling Again]](DJ TO-Z Mind Eraser Remix)
++VIVA ! DIVA ! LIFE !
++[[BurNing HeaRt]]
++Feeling Again
++[[合鍵]]
+**配信版
++[[DRIVE TO THE MOON]]
++[[Holy Nite]]
++planet dance
++[[Feeling Again]](DJ TO-Z Mind Eraser Remix)
++VIVA ! DIVA ! LIFE !
++[[BurNing HeaRt]]
++Feeling Again
++[[合鍵]]
++check it! feel it!
+
+**リンク
+-[[本人ブログでのCD告知(その1)>>http://ameblo.jp/housenrg/entry-10369242003.html]]
+-[[本人ブログでのCD告知(その2)>>http://ameblo.jp/housenrg/entry-10370851365.html]]
+-[[KarenT>>http://karent.jp/album/646]]
+
+**コメント
+#comment

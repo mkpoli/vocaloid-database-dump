@@ -1,0 +1,29 @@
+#right(){&furigana(shesawちゅうりゃくstellarlightsintheこうりゃく)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm9467962)|
+作詞：[[sampling INO]]
+作曲：[[sampling INO]]
+編曲：[[sampling INO]]
+唄：[[初音ミク]]
+
+**曲紹介
+曲名：『&u(){she saw frequency of artificial stellar lights in the local city theater by chance}』
+-タイトルが長すぎるあまりに、ニコ動は勿論、このwikiにおいても突っぱねられてしまった。
+-ミクを音源として扱った曲のため、歌詞は存在しない。
+
+**歌詞
+（インスト曲のため有りません）
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+**コメント
+#comment()
+
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)

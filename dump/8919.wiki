@@ -1,0 +1,39 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:&bold(){[[From Sound Lab.]]}|CENTER:&bold(){Protocol}|CENTER:&bold(){[[Telepathy]]}|
+
+|&bold(){[[大福P]]}|
+
+発売：2009年9月6日
+価格：￥1,000
+流通：即売
+サークル：Harvest
+
+**CD紹介
+-ボーマス9で頒布された、大福Pのアルバム。
+-前作「[[From Sound Lab.]]」「Departure」以降発表されたオリジナル曲に新曲を加えた全13曲を収録。
+-VOCALOID使用曲と未使用曲がだいたい半々で収録されている。
+
+作曲：&bold(){[[大福P]]}
+イラスト：&bold(){ko.}
+
+**曲目
++極楽殿
++Marble
++Logical Cycle
++Gunjoh
++Genom
++どうしてこうなった
++8b
++退廃音楽:死に行くものに口付けを
++Yurikago
++J(neo Japan RMX)
++退廃音楽(___mix)
++-BonusTrack- 
++-BonusTrack-
+
+**リンク
+-[[作者ブログ>>http://www.voiceblog.jp/komono/]]
+
+**コメント
+#comment

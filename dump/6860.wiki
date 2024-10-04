@@ -1,0 +1,41 @@
+#right(){&furigana(udonzky)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/11474674" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/11474674">【ニコニコ動画】udonzky作品集</a></iframe>)
+
+**特徴
+作り手名：『&u(){udonzky}』
+-曲師にして、ピアプロ内コラボ【NANO WONDERLAND OF GIRLS】の管理者。
+-多様なジャンルの作品を発表している。
+-ブログ、ピアプロにて作曲中の曲のデモ版を公開している。
+
+**リンク
+-[[うどんは世界を救う（作者ブログ）>>http://udonzky.blog14.fc2.com/]]
+-[[PIAPRO>>https://piapro.jp/aad110]]
+//-[[にゃっぽん>>http://v-nyappon.net/?m=pc&a=page_h_home]]
+
+**曲
+#list_by_tag(udonzky,100,sort=furigana,errmsg=まだ曲が登録されていません)
+**CD
+#list_by_tag(udonzkyCD,100,sort=furigana)
+
+**動画
+|&nicovideo(sm6216935)|&nicovideo(sm6407502)|
+|&nicovideo(sm7224643)|&nicovideo(sm8097212)| 
+|&nicovideo(sm8774767)|&nicovideo(sm9169549)|
+|&nicovideo(sm10580465)|&nicovideo(sm11305164)|
+|&nicovideo(sm11672072)|&nicovideo(sm12531608)|
+|&nicovideo(sm13446166)|&nicovideo(sm14038658)|
+|&nicovideo(sm16240134)|&nicovideo(sm16275495)|
+|&nicovideo(sm16805215)|&nicovideo(sm17575657)|
+|&nicovideo(sm19179903)|&nicovideo(sm19328685)|
+|&nicovideo(sm21290970)||
+
+**コメント
+- おお、この人のページが出来るとは。密かにずっと注目してます。  -- 名無しさん  (2009-10-13 05:39:55)
+- 試しにCD買ったら凄く格好良かったです!!  -- 名無しさん  (2010-07-19 15:02:20)
+- 誰か純愛禁区追加して下さい．．．!!  -- 名無しさん  (2011-04-24 13:07:33)
+- 応援してます！どの歌もカッコイイです！  -- 名無しさん  (2013-12-30 23:20:34)
+#comment()

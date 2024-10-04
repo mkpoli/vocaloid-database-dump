@@ -1,0 +1,42 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&ref(http://ginkgo.raindrop.jp/scop-web/img/hgb300300.jpg)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm9477938)
+
+|&b(){[[通販サイトで購入する>>http://www.toranoana.jp/mailorder/article/04/0010/21/34/040010213435.html]]}|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[ローリーズルーム]]|CENTER:&bold(){Hello Goodbye}|CENTER:[[Light and Shadow]]|
+
+|&bold(){[[すこっぷ]]}|
+
+||CENTER:即売|CENTER:同人|
+|発売|>|CENTER:2010年02月07日|
+|価格|CENTER:￥1,000|CENTER:￥1,500|
+|サークル|>|CENTER:No one hears|
+
+**CD紹介
+-すこっぷが満を持して発表するファーストフルアルバム。
+-アルバムタイトル曲であり、デビュー作の『[[ハローグッバイ>ハローグッバイ/すこっぷ]]』から初の殿堂入り曲『[[マリオネットシンドローム]]』までの代表曲を収録した渾身の一枚。
+-ニコニコ動画に投稿された曲は全てリテイクされ、未発表曲の3曲を合わせた全10曲を収録。
+-アルバムのデザイン。イラストはすこっぷの作品を担当している[[まつとり>>http://dic.nicovideo.jp/a/%E3%81%BE%E3%81%A4%E3%81%A8%E3%82%8A]]が担当。
+-すこっぷの今までの世界の全てを味わえるアルバム。
+
+**曲目
++Hello
++[[らぶ・いぐにっしょん]]
++[[光>光/すこっぷ]]
++[[ローリーズルーム]]
++よふかし
++[[星屑サテライト]]
++[[マリオネットシンドローム]]
++[[もしも話]]
++[[ハローグッバイ>ハローグッバイ/すこっぷ]]
++Goodbye
+
+**リンク
+-[[作者HP>>http://ginkgo.raindrop.jp/scop.html]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/21/34/040010213435.html]]
+**コメント
+- すこっぷさんの最初のアルバムなんだ  -- 良太  (2014-07-12 14:52:32)
+#comment

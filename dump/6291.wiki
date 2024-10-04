@@ -1,0 +1,22 @@
+#right(){&furigana(かすちやP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/5784929" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/5784929">【ニコニコ動画】自作曲晒しヾ（ﾟωﾟ）ﾉ゛</a></iframe>)
+
+**特徴
+-初音ミク、MEIKO、Prima、がくっぽいどを使用した楽曲を投稿している。
+-歌詞は作詞者とのコラボが多い。
+
+**リンク
+-[[公開ユーザーページ（ニコニコ動画）>>http://www.nicovideo.jp/user/1551348]]
+
+**曲
+#list_by_tag(かずちゃP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/nm2767819)|&nicovideo(http://www.nicovideo.jp/watch/nm2959983)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm3361485)|&nicovideo(http://www.nicovideo.jp/watch/sm5398620)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6389544)|&nicovideo(http://www.nicovideo.jp/watch/sm6808405)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6808491)|&nicovideo(http://www.nicovideo.jp/watch/sm7418649)|
+
+**コメント
+- かずちゃPすきですｗｗ　和風曲が素敵で・・・、　知ったのは彩ル夢路のカラオケが配信のときですが　聞いていて大好きなPです　応援しています  -- 麻里亜  (2011-03-11 08:13:07)
+#comment()

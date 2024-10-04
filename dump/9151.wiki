@@ -1,0 +1,37 @@
+#right(){&furigana(ふゆこいぼっくす) &furigana()【登録タグ:&tags() 】}
+//&ref(http://img.toranoana.jp/img/04/0010/20/99/040010209918-1.gif)
+//&ref(http://bnfactory.web.fc2.com/fuyukoijacket.jpg,x=300,y=300)
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186121702.jpg,x=300,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm9199890)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[めばえいずむ-mebaeism-]]|CENTER:&bold(){ふゆこいボックス}|CENTER:[[なないろチップス]]|
+
+|&bold(){[[とらのあなで購入する>>http://www.toranoana.jp/mailorder/article/04/0010/20/99/040010209918.html]]}|
+
+|&bold(){[[イトカワP]]}|
+
+||CENTER:即売|CENTER:同人|
+|CENTER:発売|>|CENTER:2009年12月30日|
+|CENTER:価格|CENTER:￥300|CENTER:￥420（税込）|
+|CENTER:サークル|>|CENTER:Bright Note Factory|
+
+**CD紹介
+-コミックマーケット77で発表された、イトカワPの5曲入りミニアルバム。
+-のちにシングルカットされた「[[Starry☆Rocket]]」は、自身初の週刊ぼからんTOP30入りを達成している。
+-現在とらのあなで委託販売が行われている。
+
+**曲目
++[[Starry☆Rocket]]　<GUMI・リン>
++サンタクロースガール　<ミク>
++音のない雪 -instrumental-
++[[ゆうやけワンダー]] (pf Ver.)　<GUMI>
++[[にこいちマフラー]]　<リン・レン>
+
+**リンク
+-[[作者サイト>>http://bnfactory.web.fc2.com/index.html]]
+
+**コメント
+#comment

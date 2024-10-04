@@ -1,0 +1,36 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&ref(http://image.blog.livedoor.jp/multipath/imgs/8/6/86e374eb.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Extra}|CENTER:[[BlackStone]]|
+
+|&bold(){[[NanahoshiP]]}|
+
+発売：2009年9月6日
+価格：￥500
+流通：即売
+サークル：ななほしProject
+
+**CD紹介
+-NanahoshiP初のVOCALOIDアルバム。THE VOC@LOiD M@STER 9（ボーマス9）で発表された。
+-未発表曲も含めた全8曲を収録。
+-ジャケットイラストは[[相ヶ瀬タツリ>>http://www3.to/f-penguin]]氏が手がけた。
+
+**クロスフェード
+&nicovideo(http://www.nicovideo.jp/watch/nm8052564)
+
+**曲目
++[[おとぎばなし]] &color(red){NEW!}
++[[白鍵と黒鍵]]
++[[Star Parade]]
++SkyTwister &color(red){NEW!}
++[[赤い靴、青い鳥]]
++[[鬼灯]]
++[[Extra]] &color(red){NEW!}
++じゃあまたね &color(red){NEW!}
+
+**リンク
+-[[作者ブログのCD情報>>http://blog.livedoor.jp/multipath/archives/923173.html]]
+
+**コメント
+#comment

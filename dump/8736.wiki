@@ -1,0 +1,39 @@
+#right(){&furigana(uncertainhappiness)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo(sm14811769)
+作詞：[[REDSHiFT]]
+作曲：[[REDSHiFT]]
+編曲：[[REDSHiFT]]
+アートワーク：[[Daybreaks0]]
+唄：[[GUMI>Megpoid]]
+
+**曲紹介
+曲名：『&u(){[un]certain happiness}』
+-REDSHiFT氏のオリジナル6作目。
+//-アートワークは Daybreaks0氏が手掛ける。
+
+**歌詞
+kimi to meawaseta toki ni nanika ga chigau
+ima made sugoshita shunkan ha kierundarou?
+
+Hazimete kimi no atatakai te wo tunagatta toki
+eranda koto wa kimagure dakedo
+kimi ha daijobu tte itta
+
+itsumo soba ni itetemo "hanareru shinka dekinai" to
+toki ga iu made ni hari ga mawaru
+
+doushite waratte iku no? kuchibiru ha mou nanimo
+ienai tsurai genjitsu wo miru shika nai nara
+
+itsumo soba ni itetemo "hanareru shinka dekinai" to
+toki ga iu made ni hari ga mawaru
+
+itsumo soba ni itetemo "hanareru shinka dekinai" to
+toki ga iu made ni hari ga mawaru
+
+**コメント
+#comment()

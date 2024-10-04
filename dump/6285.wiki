@@ -1,0 +1,30 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Re:MIKUS]]|CENTER:&bold(){COSMiCA}|CENTER:[[Crosslight]]|
+
+|&bold(){[[ゆうきまさみ×kz(livetune)>kz]]}|
+
+発売：2009年8月14日
+価格：￥500（税込）
+流通：即売
+レーベル：LOiD
+発売元：ハッチ・エンタテインメント
+販売元：エイベックス・マーケティング
+
+**CD紹介
+-&b(){ゆうきまさみ}と&b(){kz(livetune)}のコラボCDである「[[Crosslight]]」の収録曲「[[COSMiCA]]」の先行シングル。
+-パッケージイラストは「Crosslight」内のイラストに使用されている&b(){うっけ}が描く街頭ディスプレイのGUMIを採用。
+-コミケット76の企業ブース「LOiD」にて限定2000枚発売。
+
+**曲目
++[[COSMiCA]]
++COSMiCA (instrumental)
+
+**リンク
+-[[Crosslight 公式ウェブサイト>>http://www.crosslight-project.net/]]
+-[[livetune OFFICIAL WEB SITE>>http://livetune.syncl.jp/]]
+-[[ゆうきまさみのにげちゃだめかな？>>http://www.yukimasami.com/]]
+-[[LOiD>>http://loid.syncl.jp/]]
+
+**コメント
+#comment

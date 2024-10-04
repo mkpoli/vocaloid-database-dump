@@ -1,0 +1,33 @@
+#right(){&furigana(ぼくのもてきょく　とうしゃひ) &furigana()【登録タグ:&tags()】}
+&ref(http://karent.jp/npdca/138_20091206215348_0240_0240.jpg)
+
+|CENTER:&bold(){前作}|CENTER:&bold(){本作}|CENTER:&bold(){次作}|
+|CENTER:-|CENTER:&bold(){ぼくのモテ曲（当社比）}|CENTER:[[ボクのモテ曲（当社比）BEST]]|
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/id346165276]]}|
+
+|&bold(){[[アヒル軍曹P]]}|
+
+**CD紹介
+-アヒル軍曹Pの「モテ曲（当社比）」を4曲厳選した、いいとこ取りの贅沢なミニアルバム。
+-鏡音リン・レン2周年の日に、KarenTレーベルより全国配信が開始された。
+
+**CD詳細
+-流通：配信
+-発売：2009年12月27日
+-価格：アルバム￥600、１曲￥150
+-レーベル：KarenT
+-名義：[[アヒル軍曹P>>http://karent.jp/artist/pp000105]]
+
+**曲目
++[[mellow]] (feat. 鏡音リン)
++[[嘘とタイムマシン]] (feat. 鏡音リン&鏡音レン)
++[[GHOST>GHOST/アヒル軍曹P]] (feat. 鏡音リン&鏡音レン）
++[[空中庭園]] (feat. 鏡音リン&鏡音レン)
+
+**リンク
+-[[KarenT：「ぼくのモテ曲（当社比）」>>http://karent.jp/album/138]]
+-[[KarenT：「鏡音リン・レン祭09」特集ページ>>http://karent.jp/special/rinlen09]]
+
+**コメント
+#comment()

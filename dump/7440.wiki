@@ -1,0 +1,23 @@
+#right(){&furigana(あきよし)&furigana()【登録タグ:&tags() 】}
+//&nicovideo_mylist()
+
+**特徴
+-ニコニコ技術部員の一人。電子楽器を作ったりしている。
+-投稿動画のほとんどが技術系のものだが、たまにオリジナル曲も投稿する。&br()さらに、ごく稀に歌う。
+-娘もボカロPであり、[[いなちゃん]]と呼ばれている。&br()娘とともに作った動画のアップロードも行っている。
+--[[第一次P名呼ばれたか戦>>P　名　言　っ　て　み　ろ　！]]において、[[娘に敗北（？）した>P　名　娘　だ　け　呼　ば　れ　た]]。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/kamide]]
+-[[作者サイト>>http://www.yk.rim.or.jp/~kamide/]]
+-[[Twitter>>http://twitter.com/akiyoshi_kamide]]
+
+**曲
+#list_by_tag(@きよし,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm3032526)|&nicovideo(http://www.nicovideo.jp/watch/sm4467270)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6488620)|&nicovideo(http://www.nicovideo.jp/watch/sm14199714)|
+
+**コメント
+#comment()

@@ -1,0 +1,44 @@
+#right(){&furigana(ぐるぐるひゃくびょうまんだら)&furigana()【登録タグ:&tags() 】}
+//&ref(http://nununun.nukegara.net/images/nnnn1.png)
+
+&ref(https://f4.bcbits.com/img/a0292757505_10.jpg,x=300,y=300)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){グルグル100秒曼荼羅}|CENTER:-|
+
+|&bold(){[[nununun recordsで無料ダウンロードする>>http://nununun.nukegara.net/]]}|
+
+|&bold(){[[100sP]]}|
+
+流通：配信
+発売：2010年3月26日
+価格：￥0
+名義：100sP
+
+作詞・作曲・イラスト：&bold(){[[100sP]]}
+
+**CD紹介
+- 100sPによるアルバム。無料でダウンロードできる。
+- 自身が設立したネットレーベル「nununun records」からリリースされる、第1弾作品。
+- 各曲100秒という短い時間で、構成を似せつつも徐々に姿を変えていくという、いわば「変奏曲」のような形式のアルバムになっている。是非全曲通して聴いてみよう。
+
+**曲目
+01.にるばなさん
+02.くらんけさん
+03.さわやかさん
+04.はらぺこさん
+05.きくばりさん
+06.はらきりさん
+07.いんふるさん
+08.ばてれんさん
+09.てれほんさん
+10.おかしら
+
+**リンク
+- [[ぬぬぬんレコード>>http://nununun.nukegara.net/]]
+- [[作者ブログ>>http://haraiso.nukegara.net/]]
+- [[100sP公開マイリスト>>http://www.nicovideo.jp/mylist/8264897]]
+- [[Bandcamp>>https://nununun.bandcamp.com/album/100]]
+
+**コメント
+#comment

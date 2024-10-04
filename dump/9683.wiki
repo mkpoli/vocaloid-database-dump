@@ -1,0 +1,34 @@
+#right(){&furigana(きつねのこいもんよう) &furigana()【登録タグ:&tags() 】}
+//&ref(http://img.toranoana.jp/img/04/0010/21/38/040010213864-1.gif)
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186111527.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[星空恋唄>星空恋唄/CD]]|CENTER:&bold(){狐ノ恋紋様}|CENTER:[[夜桜舞]]|
+
+|&bold(){[[ふねP]]}|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|>|CENTER:2010年2月7日|
+|価格|CENTER:￥500|CENTER:￥751（税込）|
+|サークル|>|CENTER:ふねっこ|
+
+**CD紹介
+-THE VOC@LOiD M@STER 11（ボーマス11）で頒布されたふねPのアルバム。
+-狐のレンが綴る切ない物語。アップテンポな物語調、しっとりとした和風調など、全6曲入り。
+-とらのあなで委託販売が行われた。
+
+**曲目
++[[僕の魂]]　（レン）
++[[春待ち蝶]]　（レン）
++追憶のためのピアノ小品　ハ長調　（リン）
++僕の魂　（カラオケ）
++春待ち蝶　（カラオケ）
++追憶のためのピアノ小品　ハ長調　（カラオケ）
+
+**リンク
+-[[ボカロード（作者ブログ）>>http://fune117.blog50.fc2.com/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/21/38/040010213864.html]]
+
+**コメント
+#comment

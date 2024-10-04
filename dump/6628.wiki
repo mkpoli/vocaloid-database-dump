@@ -1,0 +1,55 @@
+#right(){&furigana(21せいきP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/14699878" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/14699878">【ニコニコ動画】恐るべき子供</a></iframe>)
+
+**特徴
+作り手名：『&u(){21世紀P}』（&u(){21せいきP}）
+-デビュー作は2009年7月18日に投稿した「[[～20XX～]]」。
+-VOCALOIDを始めたきっかけは「週休５日の暇を持て余した」から。
+-P名の由来は自身の投稿者名から。
+-主にポップ、バラード、ロック作品を投稿している。
+-本人は2009年時点で軽音楽部に所属する現役の大学生であり、バンドに参加し音楽活動を行っていた。
+--後に81プロデュース所属の声優・&bold(){伊東健人}として芸能活動を開始。
+-普段はバンドのメンバーとして活動しているが、VOCALOIDはソロワークとなり作詞、作曲、演奏等は自らが行っている。
+-作品で使用されるエレキギターやアコースティックギター等の楽器は21世紀P自身によるもの。
+-丁寧な聞き入る作品を発表しており、作品から聞き手に音を届けようという丁寧な制作姿勢が伺える。
+-ニコニコでは友人の「ニワトリ」氏と共に活動し、動画や絵の作成を手伝って貰っている。
+
+**リンク
+-[[ニコニコ>>https://www.nicovideo.jp/user/9235675]]
+-[[PIAPRO>>https://piapro.jp/isn2403isn]]
+-[[UTAU楽曲データベース「21世紀P」ページ>>https://www24.atwiki.jp/utauuuta/pages/913.html]]
+-[[Twitter>>https://twitter.com/21s_ken]]
+
+**曲
+#list_by_tagsearch(21世紀P,sort=furigana2,errmsg=まだ曲が登録されていません。,and,100)
+
+**CD
+#list_by_tagsearch(21世紀PCD,sort=furigana2,errmsg=まだCDが登録されていません。,and,100)
+
+**動画
+|&nicovideo(sm7672642)|&nicovideo(sm8167831)|
+|&nicovideo(sm8223187)|&nicovideo(sm8331003)|
+|&nicovideo(sm8396210)|&nicovideo(sm8799919)|
+|&nicovideo(sm9232000)|&nicovideo(sm9717118)|
+|&nicovideo(sm10280950)|&nicovideo(sm12390513)|
+|&nicovideo(sm13740589)|&nicovideo(sm13866276)|
+|&nicovideo(sm16744951)|&nicovideo(sm18288580)|
+|&nicovideo(sm19076464)|&nicovideo(so40968838)|
+
+**関連タグ内の更新履歴
+#region(close,関連タグ内の更新履歴)
+関連タグ内の更新履歴
+※「21世紀P」「21世紀PCD」タグ内で最近編集やコメントのあった記事を新しい方から10件表示しています。
+#list_by_tagsearch(21世紀P,21世紀PCD,sort=timestamp,sort2=desc,errmsg=まだ曲、CDが登録されていません。,or,10)
+#endregion
+
+**コメント
+- この人の音作り心地よくて好きだなー～唄～とか特に  -- 名無しさん  (2009-11-29 23:56:16)
+- 今やプロデュースされる側とは数奇なものである  -- 名無しさん  (2016-02-01 17:06:10)
+- 好きです()  -- なりあさ  (2021-11-03 19:46:25)
+- これがとうやくんの曲か…シカーダちょっと好きかも  -- @。  (2023-12-20 20:26:10)
+#comment()

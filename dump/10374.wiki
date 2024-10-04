@@ -1,0 +1,31 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/395_20100604042836_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Six Under UG]]|CENTER:&bold(){69}&br()[[CABA]]|CENTER:[[Contradiction]]|
+
+|&bold(){[[AVTechNO]]}|
+
+発売：2010年6月16日
+価格：￥300 / 1曲￥150
+流通：配信
+レーベル：KarenT
+ジャケットイラスト：[[和音>>http://piapro.jp/dot37]]
+
+|&bold(){[[iTuns Storeで購入する>>http://itunes.apple.com/jp/album/69-single/id377179830]]}|
+
+**CD紹介
+-AVTechNO氏の配信EP。『[[CABA]]』と同時リリース。
+-読み方は「シックスナイン」。
+-まず最初に「[[9]]」があり、そこから「[[6>6/AVTechNO]]」ができ、「6」をリミックスした「6_ug」「6_UGL」（どちらも『[[Six Under UG]]』収録）が誕生している。更に「[[CABA]]」にも関連が…。
+
+**曲目
++[[6>6/AVTechNO]] （feat. 初音ミク）
++[[9]] （feat. 巡音ルカ）
+
+**リンク
+-[[KarenT：「69」>>http://karent.jp/album/395]]
+-[[作者サイト>>http://avtechno.ukime.org/]]
+
+**コメント
+#comment()

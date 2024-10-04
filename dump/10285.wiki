@@ -1,0 +1,31 @@
+#right(){&furigana(へくとぱすてる) &furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/349_20100523200646_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Volatile]]|CENTER:&bold(){ヘクトパステル}|CENTER:[[非対称ARTs]]|
+
+|&bold(){[[束子P]]}|
+
+発売：2010年6月9日
+価格：￥300 / 1曲￥150
+流通：配信
+レーベル：KarenT
+ジャケットイラスト：[[久楽>>http://piapro.jp/kutara]]
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/id375642275]]}|
+
+**CD紹介
+-雨の日が続くのもたまには悪くない…&br()そんな風に思える優しいポップロック。
+-束子P初の単独リリースとなる配信シングル。
+-KarenTの「雨の季節'10」企画で配信された作品の1つ。
+
+**曲目
++ヘクトパステル （feat. 初音ミク）
++ヘクトパステル （instrumental）
+
+**リンク
+-[[KarenT：「ヘクトパステル」>>http://karent.jp/album/349]]
+-[[KarenT：「雨の季節'10」特集ページ>>http://karent.jp/special/rain10]]
+
+**コメント
+#comment

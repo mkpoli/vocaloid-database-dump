@@ -1,0 +1,38 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+#amazon(B001RXR7ZU)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Return to zero／for twins]]|CENTER:&bold(){Return to zero original sound track ＃2}|CENTER:[[Return to zero original sound track ＃3]]|
+
+|&bold(){[[クウヤ]]}|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|CENTER:2008年12月29日||
+|価格|CENTER:￥1,200|CENTER:￥1,365（税込）|
+|サークル|>|CENTER:すたじおEKO＆GP1|
+
+**曲目
++[[vengeance]] / Len Kagamine
++direction（inst）
++[[for twins]] / Rin＆Len
++幾千の色 / Miku Hatsune
++[[prayer>prayer/クウヤ]] / KAITO（co：Len）
++[[can't forget]] / Len Kagamine
++[[ツンdeリン]] / Rin Kagamine
++[[JIGEN-WO-KOETE>次元を超えて]] / Rin＆Miku
++prayer（Len ver.) / Len Kagamine
++vengeance（off vocal）
++for twins（off vocal）
++幾千の色（off vocal）
++prayer（off vocal）
++can't forget（off vocal）
++ツンdeリン（off vocal）
++JIGEN-WO-KOETE（off vocal）
+
+**リンク
+-[[Project 0>>http://project.biz/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/16/85/040010168535.html]]
+-[[Amazon>>http://www.amazon.co.jp/dp/B001RXR7ZU]]
+
+**コメント
+#comment

@@ -1,0 +1,33 @@
+#right(){&furigana(おうかりょうらん)&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/241_20100307235832_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[月光トータルイクリプス>月光トータルイクリプス/CD]]|CENTER:&bold(){桜花繚乱}|CENTER:[[alone>alone/CD]]|
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/id362069100]]}|
+
+|&bold(){[[マチゲリータP]]}|
+
+流通；配信
+発売：2010年3月24日
+価格：全曲￥300、1曲￥150
+レーベル：KarenT
+名義：[[マチゲリータ>>http://karent.jp/artist/pp000139]]
+
+**CD紹介
+-マチゲリータP3作目のKarenT配信限定EP。
+-KarenT企画「春の唄'10」に併せて配信される。
+-既発のリン曲「[[桜花繚乱>桜花繚乱/マチゲリータP]]」に、更にミク・ルカバージョンを加えた計3曲をミニアルバム形式で収録。
+
+**曲目
++桜花繚乱・凛 (feat. 鏡音リン)
++桜花繚乱・美 (feat. 初音ミク)
++桜花繚乱・流 (feat. 巡音ルカ)
+
+**リンク
+-[[作者ブログでの案内>>http://machigerita.blog96.fc2.com/blog-entry-878.html]]
+-[[KarenT：「桜花繚乱」>>http://karent.jp/album/241]]
+-[[KarenT:「春の唄'10」企画ページ>>http://karent.jp/special/spring10]]
+
+**コメント
+#comment

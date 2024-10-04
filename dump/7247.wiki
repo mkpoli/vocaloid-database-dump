@@ -1,0 +1,40 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm8685905)
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){STRINGS}|CENTER:[[NATURAL]]|
+
+|&bold(){[[だいすけP]]}|[[OXYGEN]]|
+
+||CENTER:即売|CENTER:同人|
+|発売|CENTER:2009年11月15日|CENTER:2010年1月|
+|価格|CENTER:￥1,000|CENTER:￥1,470|
+|サークル|>|CENTER:おんぷのーとくらぶ|
+
+**CD紹介
+-だいすけP初VOCALOIDアルバム。ボーマス10で頒布される。
+-これまでの活動を集大成した一枚。
+-全曲リマスタリングが行われ、音質が向上している。
+-イラストはぎんこ氏が担当。
+-とらのあなで委託販売が行われた。
+
+**曲目
++Intro
++[[Moon Light ～月からの使者～]]
++[[DEUS EX DIGITAL]]
++[[PIAPRO☆すまいる！]]
++[[HIT!]]
++[[おねしょっこ！]]
++[[Rainy Heart -夏の記憶-]]
++[[歌え!!HOKK@LOID FESTIVAL!!]]
++[[自然戦隊マガレンジャー！]]
++[[白いプレゼント]]
++[[初音ミクのうた de SKA？>初音ミクのうた]]
++[[夕日に包まれて。]]
++[[雨の中の捨てられたぬいぐるみ Concert Ver.>雨の中の捨てられたぬいぐるみ]] 
+
+**リンク
+-[[作者ホームページ>>http://www.infosnow.ne.jp/~koubou_6075/music/index.html]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/20/70/040010207049.html]]
+
+**コメント
+#comment

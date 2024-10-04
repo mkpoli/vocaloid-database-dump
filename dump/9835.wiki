@@ -1,0 +1,31 @@
+#right(){&furigana(うぉーたー) &furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/282_20100413192151_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[vostok E.P.]]|CENTER:&bold(){ウォーター}|CENTER:[[ATZ(A to Z)]]|
+
+|&bold(){[[あつぞうくん]]}|
+
+発売：2010年4月28日
+価格：￥150
+流通：配信
+レーベル：KarenT
+ジャケットイラスト：[[阿部>>http://piapro.jp/tansan00xx]]
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/id368499575]]}|
+
+**CD紹介
+-あつぞうくんの処女作品「[[water>>http://www.nicovideo.jp/watch/nm6347684]]」（2010年7月現在視聴不可）が配信シングルとして登場。
+-80年代風サウンドに乗せた春にぴったりのうきうきするシャッフルポップナンバー。（KarenT作品概要より）
+-KarenTの「素敵な休日'10」企画で配信された作品の1つ。
+
+**曲目
++ウォーター （feat. 初音ミク）
+
+**リンク
+-[[KarenT：「ウォーター」>>http://karent.jp/album/282]]
+-[[KarenT：「素敵な休日'10」特集ページ>>http://karent.jp/special/holiday10]]
+-[[あつぞうくん日記（作者ブログ）>>http://blog.livedoor.jp/atsu3kun/]]
+
+**コメント
+#comment

@@ -1,0 +1,32 @@
+#right(){&furigana(clear) &furigana()【登録タグ:&tags() 】}
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[cacophony>cacophony/CD]]|CENTER:&bold(){MINORITY}|CENTER:[[ピエロプレイ>ピエロプレイ/CD]]|
+
+|&bold(){[[No.D]]}|
+
+発売：2009年9月6日
+価格：￥500（税込）
+流通：即売
+サークル：我楽多スタジオ
+
+**CD紹介
+-No.DのVOCALOIDアルバム第3弾。『[[えかきうた]]』から2009年9月までニコニコ動画に投稿した楽曲に加え、未公開曲『[[Runner's high]]』『使い捨てカメラライク』の計7曲を収録。
+-CDエキストラ仕様となっており、Bonus Trackとして『[[火葬曲]]』の高画質mp4を収録している。
+
+**曲目
++[[VOICE LIMIT]]
++[[moon night]]
++[[エゴイスティック]]
++[[えかきうた]]
++[[嫌われ者のテーマ]]
++[[Runner's high]] &color(red){New!}
++使い捨てカメラライク &color(red){New!}
++[[火葬曲]]（Bonus Track）
+
+**リンク
+-[[作者ブログ>>http://garakutastudio.blog.so-net.ne.jp/archive/20090901]]
+
+
+**コメント
+- これは良いCD　  -- 名無しさん  (2014-11-01 17:01:40)
+#comment

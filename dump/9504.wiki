@@ -1,0 +1,42 @@
+#right(){&furigana(てのひらのあお) &furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/251_20100314214741_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Traveler>Traveler/つるつるPCD]]|CENTER:&bold(){てのひらの青}|CENTER:[[椛路 -2010年、秋-]]|
+
+|&bold(){[[つるつるP]]}|切儚|
+
+発売：2010年4月7日
+価格：￥1,200/ 1曲￥150
+流通：配信
+レーベル：KarenT
+
+作詞：&bold(){切儚}
+作曲：&bold(){つるつる}
+イラスト：&bold(){[[燐>>http://piapro.jp/nati5142]]}
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/id364203709]]}|
+
+**CD紹介
+-つるつるPの配信限定アルバム。
+-2010年4月7日にKarenTレーベルより全国配信された。
+-GUMI歌唱曲を含む、全10曲構成。
+
+**曲目
++[[幸せの種]] (Original Mix) （feat. 初音ミク）
++[[虹>虹/つるつるP]] (Original Mix) （feat. 鏡音リン）
++[[Goodnight Sweetheart]] （feat. メグッポイド）
++[[革新の時]] （feat. 鏡音レン）
++[[Be in Love Tonight]] （feat. 初音ミク）
++[[青春コンプレックス]] (Original Mix) （feat. 初音ミク）
++[[tomorrow>tomorrow/つるつるP]] （feat. 鏡音リン）
++[[青春シンドローム]] （feat. 初音ミク）
++[[椛路]] (Original Mix) （feat. 初音ミク）
++[[永遠>永遠/つるつるP]] （feat. 初音ミク）
+
+**リンク
+-[[作者ホームページ>>http://sodamelon.web.fc2.com/index.html]]
+-[[KarenT>>http://karent.jp/album/251]]
+
+**コメント
+#comment
