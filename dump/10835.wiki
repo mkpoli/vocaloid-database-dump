@@ -1,0 +1,27 @@
+#right(){&furigana(ひっさつP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/10861834" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/10861834">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-デビュー作は、ルカ初期に投稿された「[[終電はまだ――]]」。
+--P名はその曲のコメント「必殺永井氏ね」からきたものだと思われる。
+-「歌ってみた」のMIXも担当するほか、Nanasyという名義で同人活動もしている。
+
+**リンク
+//-[[Like a rabbit（作者ホームページ）>>http://likearabbit.info/]]
+-[[ピアプロ>>http://piapro.jp/Nanasy]]
+//-[[Twitter>>http://twitter.com/#!/hissatsu_nanasy]]
+
+**曲
+#list_by_tag(必殺P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(必殺PCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm6000933)|&nicovideo(http://www.nicovideo.jp/watch/sm6040772)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm6049500)|&nicovideo(http://www.nicovideo.jp/watch/nm6073348)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7707089)|&nicovideo(http://www.nicovideo.jp/watch/sm10981086)|
+
+**コメント
+- 作成乙です。  -- 茶伊  (2012-11-08 19:33:19)
+#comment()

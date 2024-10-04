@@ -1,0 +1,36 @@
+#right(){&furigana(おかしP)&furigana()【登録タグ:&tags() 】}
+|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/8963784" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/8963784">【ニコニコ動画】</a></iframe>)|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/7815332" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/7815332">【ニコニコ動画】</a></iframe>)|
+
+**特徴
+-歌い手として活動している[[たると>>http://www.nicovideo.jp/mylist/4764494]]のボカロPとしての名前。
+-たると名義で、作詞家としても活動している。
+-歌い手としての活動で培ったロリコンぶりはボカロPでも思う存分に発揮されている。
+-活動初期ではミクメインだったが、ユキ購入後そのロリコンぶりにますます拍車がかかる。
+
+**リンク
+-[[たるたるにしてやんよ♪（作者ブログ）>>http://tarte-mode.paslog.jp/]]
+-[[ピアプロ>>http://piapro.jp/tarte_tarte]]
+-[[Twitter>>http://twitter.com/tartemode]]
+
+**曲
+#list_by_tag(お菓子P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(お菓子PCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画（再生数・マイリスト数が多いものを6つ）
+|&nicovideo(http://www.nicovideo.jp/watch/sm8999486)|&nicovideo(http://www.nicovideo.jp/watch/sm9151078)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9352351)|&nicovideo(http://www.nicovideo.jp/watch/sm9187515)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm10365967)|&nicovideo(http://www.nicovideo.jp/watch/sm10284711)|
+
+**コメント
+- お菓子Ｐというより犯しＰだと思う。  -- 名無しさん  (2010-08-08 15:15:00)
+- シテヤンヨ  -- 名無しさん  (2010-08-28 10:59:35)
+- ユキの替え歌シリーズはやばいw  -- 名無しさん  (2010-08-28 13:21:56)
+- (・ω・｀)乙　 これは乙じゃなくてポニーテールなんだからね！  -- 安置  (2010-09-04 11:04:02)
+- どなたか「ユキユキ★モフモフィーバーナイト」のページを製作していただけませんか？  -- 名無しさん  (2011-03-19 03:07:00)
+- 貴方のロリコンっぷりには負けます。くれぐれも警察に捕まらないようにして下さい。「歌ってみた」の新作も楽しみにしております。  -- 竜奇  (2012-07-10 19:20:46)
+- どなたか「ユキユキ☆キララ☆ラブリーフィーバードリーム」のページを製作していただけませんか？  -- 名無しさん  (2012-07-20 22:46:45)
+- ↑・↑３：出来てます  -- 名無しさん  (2012-07-22 20:00:32)
+- ↑8うまい(笑)　SAMじゃナイト好きだなぁ  -- すがり  (2013-05-04 19:11:40)
+#comment()

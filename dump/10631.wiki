@@ -1,0 +1,45 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+|&nicovideo(http://www.nicovideo.jp/watch/sm15358827)|&youtube(https://www.youtube.com/watch?v=0C1HSd60UPo){336,189}|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Dive'N'Arrive]]|CENTER:&bold(){Isolation}|CENTER:[[ケモノ]]|
+
+|&bold(){[[磯P]]}|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|CENTER:2011年9月4日|CENTER:2011年9月5日|
+|価格|CENTER:￥1,500|CENTER:￥1,620（税込）|
+|サークル|CENTER:Isolation Records|>|
+
+**CD紹介
+-磯Pの1stアルバム。
+-VOCALOID楽曲の他、磯P自身がボーカルをとった3曲も収録。
+-ジャケット＆ブックレットイラストは[[riria009]]氏。
+-THE VOC@LOiD M@STER 17（ボーマス17）で頒布。
+-THREE!やアニメイトで委託販売が行われていた。
+
+**曲目
++Too Late
++1.21
++[[TypeB]]
++[[袖触れ合うも他生の縁]]
++[[千夜月>千夜月-senyaduki-]]
++[[YouSaySo]]
++[[BossDeath]]
++[[Dive'N'Arrive]]
++[[About Us]]
++[[一蓮托生]]
++[[紫煙]]
++[[キンクマブルース]]
++袖触れ合うも他生の縁 feat. 磯P
++BossDeath feat. 磯P
++Dive'N'Arrive feat. 磯P
+
+**リンク
+-[[作者ブログ>>http://iso-iso.cocolog-nifty.com/blog/]]
+-[[THREE!>>http://www.lagoa.jp/shopdetail/006002000003/]]
+
+
+**コメント
+- うわぁ欲しい・・・！！！  -- 名無しさん  (2014-10-04 17:10:32)
+#comment()

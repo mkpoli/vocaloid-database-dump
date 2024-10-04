@@ -1,0 +1,41 @@
+#right(){&furigana(もじゃP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/14154876" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/14154876">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-リンレンを使用したロック曲を主に投稿する。
+-ロック曲以外にもエレクトロやバラード等も投稿する。
+-代表作に、殿堂入りを果たした「[[鏡音八八花合戦]]」。
+
+**リンク
+-[[ピアプロ>>http://piapro.jp/dappon_tarou]]
+-[[Twitter>>http://twitter.com/Mogiavelli]]
+
+**曲
+#list_by_tag(モジャP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(モジャPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm4464107)|&nicovideo(http://www.nicovideo.jp/watch/sm5406756)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7957589)|&nicovideo(http://www.nicovideo.jp/watch/sm9179864)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9206487)|&nicovideo(http://www.nicovideo.jp/watch/sm10000569)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm10346932)|&nicovideo(http://www.nicovideo.jp/watch/sm10566618)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm10741422)||
+
+**コメント
+- モジャPさんの曲大好きです！！特に「鏡音八八花合戦」が、  -- クルス  (2010-08-09 19:34:07)
+- ファンファーレ♪もっと もっと、試してください！  -- ホワイトキュレム  (2012-08-27 22:02:29)
+- 鏡音八八花合戦は必聴！凄いですよ！！  -- 名無しさん  (2013-01-01 00:53:44)
+- モジャPさんはもっと評価されるべき！！  -- 名無しさん  (2013-01-01 20:04:15)
+- モジャPさん三味線曲もっと作ってください☆  -- 「鏡音八八」でハマった人  (2013-02-04 14:59:20)
+- 前の方のコメント見る限り、先月はまだ残ってたのか？今日、曲を聴こうとしたら、この方の投稿動画が全部消えてたんだが…  -- 名無しさん  (2013-03-30 10:14:55)
+- どうして……  -- 名無しさん  (2013-05-13 23:32:01)
+- 氏は本当にもっと評価されるべきだったと思うんだがな…削除に関し情報持っている人、いないもんかな（´・ω・）  -- 6iyzyug9kS  (2013-09-02 05:08:47)
+- 鏡音八八花合戦なら一応projectDIVA-f-でなら聴けますよ～ &br()しかし動画削除されたなんて…勿体無い(´・ω・｀)  -- せっちぃ  (2013-10-27 13:19:24)
+- 親族です。先日モジャPが亡くなりました。応援してくれた方々や安否を気遣われてくださった皆様方にこの場をお借りしてお礼を申し上げます。  -- 名無しさん  (2015-09-19 23:41:40)
+- お亡くなりになっていたのですか。。。今知りました。ご冥福をお祈り申し上げます  -- 名無しさん  (2015-11-08 18:32:08)
+- しんでないですよ！モジャさんのマイリストも普通に更新されてます！！  -- 名無しさん  (2015-12-27 18:06:04)
+- 亡くなったなんて不謹慎なウソいわないでください。本当に最低です。  -- 名無しさん  (2015-12-27 18:06:38)
+- モジャPのマイリストはずっと前に削除されていますよ。動画投稿者のmelouさんとは別人です。嘘つき最低呼ばわりはどうかと・・・  -- 名無しさん  (2016-02-19 23:16:10)
+#comment()

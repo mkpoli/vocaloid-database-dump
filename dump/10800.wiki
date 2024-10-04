@@ -1,0 +1,34 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+
+&nicovideo(http://www.nicovideo.jp/watch/sm11261936)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[future>future/TripshotsCD]]|CENTER:&bold(){Another Dimensions}|CENTER:[[Genesis>Genesis/Tripshots]]|
+
+|&bold(){[[Tripshots]]}|ajiponn|[[HaruP(ごとりん)]]|[[そそそP]]|[[粒子P]]|Kuma|
+
+||CENTER:即売|CENTER:同人|
+|発売|>|CENTER:2010年7月19日|
+|価格|CENTER:￥1,000|CENTER:￥-|
+|サークル|>|CENTER:Naoki|
+
+**CD紹介
+-Tripshots氏主宰のコンピレーション・アルバム。
+-THE VOC@LOID M@STER 13（ボーマス13）にて発表される。全7曲収録。
+-氏の楽曲「[[nebula]]」「[[anger]]」のリミックスの他、Tripshotsの新曲「RESISTANCE」も収録。
+-特典として、「トリミク」オリジナルステッカーが付属する。
+
+**曲目
++[[Nebula]] / HaruP
++Nebula(hardcore 93 Kaz-HiTechno Remix) / そそそP
++Nebula(Link Remix) / Kuma
++Nebula(DMG01 Remix) / ajiponn
++[[anger]](DMG01 Remix) / ajiponn
++anger(Ambient Trance Remix) / 粒子P
++RESISTANCE / Tripshots
+
+**リンク
+-[[特設サイト>>http://www.tripshots.net/ad/]]
+
+**コメント
+#comment

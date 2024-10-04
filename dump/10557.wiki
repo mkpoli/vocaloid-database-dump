@@ -1,0 +1,34 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/383_20100601232025_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[L>L/AVTechNO]]|CENTER:&bold(){Adu-lt-N-Collection}|CENTER:[[feminity]]|
+
+|>|>|>|CENTER:&bold(){project EATA}|
+|endy|[[AVTechNO]]|[[友場洋]]|闇李|
+|和音|kior|クリマティウス|影清|
+
+発売：2010年6月26日
+価格：￥150
+流通：配信
+レーベル：KarenT
+ジャケットイラスト：kior
+
+|&bold(){[[iTunes Storeで購入>>http://itunes.apple.com/jp/album/adu-lt-n-collection-single/id378465262]]}|
+
+**CD紹介
+-AVTechNO氏を中心に結成されたサークル「 project EATA 」の楽曲第2弾として発表された『[[Adu-lt]]』。
+-その『Adu-lt』のリミックス作品の1つ、GUMIを起用した『Adu-lt NoiseCollection』を配信開始。
+-KarenTのメグッポイド発売1周年記念企画で配信された作品の1つ。
+
+**曲目
++[[Adu-lt N_Collection>Adu-lt]] （feat. メグッポイド）
+
+**リンク
+-[[KarenT：「Adu-lt-N-Collection」>>http://karent.jp/album/383]]
+-[[KarenT：「メグッポイド1周年記念祭」>>http://karent.jp/special/megpoid10]]
+-[[project EATA（サークルサイト）>>http://eata.web.fc2.com/]]
+
+**コメント
+//- 林檎売りの泡沫少女の方角可愛い  -- えへへ  (2013-06-03 09:40:52)
+#comment()

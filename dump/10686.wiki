@@ -1,0 +1,26 @@
+#right(){&furigana(つきゆめ)&furigana()【登録タグ:&tags()】}
+&nicovideo(http://www.nicovideo.jp/watch/sm10716063)
+作詞：[[haru*nya]]
+作曲：[[Dee!]]
+編曲：[[Dee!]]
+唄：GUMI
+
+**歌詞
+揺らめく　聴こえる
+小さな　歌声
+
+紡ぎし　言の葉
+かすかに　希望を秘めて
+
+白く　淡く
+溶けて　消える
+指に　伝う
+想い　儚い華
+
+遠く　Silent Night
+響く　Moonlight Dream
+零す　Shooting Star
+それは　まだ見ぬ夢
+
+**コメント
+#comment()

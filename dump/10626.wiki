@@ -1,0 +1,29 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[mikuringo EP2]]|CENTER:&bold(){garden}|CENTER:-|
+
+|&bold(){[[林檎>林檎/作り手]]}|
+
+発売：2010年5月9日
+価格：￥500
+流通：即売
+サークル：シャララと。
+
+**CD紹介
+-林檎氏の4枚目のCD。
+-THE VOC@LOiD M@STER 12（ボーマス12）で頒布。
+-「electoronic piano poem」というサブタイトルが付いている。
+-インスト3曲にルカ歌もの2曲という構成。
+
+**曲目
++chastity -instruments-
++[[garden>garden/林檎]] -vo.luca megurine-
++flirt -instruments-
++[[sampling sky]] -vo.luca megurine-
++forget me not -instruments-
+
+**リンク
+-[[シャララと。（作者ブログ）>>http://syararato.jugem.jp/]]
+
+**コメント
+#comment()

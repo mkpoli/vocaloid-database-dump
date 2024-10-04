@@ -1,0 +1,32 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/424_20100618102803_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[stellar place e.p.]]|CENTER:&bold(){Last Scene e.p.}|CENTER:[[Vista>Vista/CD]]|
+
+|&bold(){[[そらいろくらぶ]]}|
+
+発売：2010年7月9日
+価格：￥300 / 1曲￥150
+流通：配信
+レーベル：KarenT
+ジャケットイラスト：[[霜村>>http://piapro.jp/veltpunk26]]
+
+|&bold(){[[iTunes Storeで購入>>http://itunes.apple.com/jp/album/last-scenee-ep/id379573258]]}|
+
+**CD紹介
+>「それはほら、まるで昨日観た映画の様なラストシーン」
+
+-そらいろくらぶの配信EP。
+-タイトル曲『Last Scene』の、ミクAppendを利用した新バージョンや、&br()CDとは別バージョンの『oval』、リマスターした『photograph』を収録。
+
+**曲目
++[[oval]] （alternate ver.） （feat. 初音ミク）
++[[photograph>photograph/そらいろくらぶ]] （feat. 初音ミク）
++[[Last Scene]] （alternate ver.） （feat. 初音ミク）
+
+**リンク
+-[[KarenT>>http://karent.jp/album/424]]
+
+**コメント
+#comment()

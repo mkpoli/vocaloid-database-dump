@@ -1,0 +1,43 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+
+
+#ref(すこっぷ - Light and Shadow.jpg)
+
+
+&nicovideo(http://www.nicovideo.jp/watch/sm11205255)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Hello Goodbye]]|CENTER:&bold(){Light and Shadow}|CENTER:[[Rainy Story]]|
+
+|&bold(){[[すこっぷ]]}|
+
+||CENTER:即売|CENTER:同人|
+|発売|>|CENTER:2010年07月19日|
+|価格|CENTER:\1,000|CENTER:\1,470(税込)|
+|サークル|CENTER:DEKOUSCOP|CENTER:No one hears|
+
+**CD紹介
+-「光」な曲と「影」な曲が交互に流れていくような曲順になってます。（作者コメ転載）
+-今作は、大ヒット作「[[指切り]]」や「[[マリオネットシンドローム]]」の Remix 、未発表曲4曲を含む、全10曲を収録。
+-アルバムのビジュアル関係は まつとり氏 が手掛ける。
+-ボーマス13 で初頒布された。
+
+**曲目
++Light and Shadow
++朝焼けの散歩道
++[[指切り]]
++[[スノートリック]]
++惰性モラトリアム
++[[seventeen]]
++[[Marionette Syndrome>マリオネットシンドローム]]-Strings Remix
++[[インターネットシティ]]
++[[泡沫のダンス]]
++ドーシレ
+
+**リンク
+-[[作者HP>>http://ginkgo.raindrop.jp/scop.html]]
+-[[とらのあなの通販ページ>>http://www.toranoana.jp/mailorder/article/04/0010/22/95/040010229508.html]]
+
+**コメント
+- 「光」と「影」が交互にくるけど、最後の曲が光で終わるあたり、希望(？)を持たせて終わりたかったのかなー？ とか思った  -- 名無しさん  (2011-02-23 12:07:02)
+#comment

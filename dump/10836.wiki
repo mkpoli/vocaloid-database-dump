@@ -1,0 +1,25 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/18620546" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/18620546">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-2007年11月2日、「[[星空に願いを込めて -Good Night]]」を投稿してニコ動デビュー。
+--同年11月6日、同曲の再修正版を投稿。後に初の殿堂入りとなる。
+-そして2010年4月に「あたらしい明日」を投稿してカムバックを果たす。
+
+**リンク
+-[[おんがくしつ（作者ブログ）>>http://tomoroom.xrea.jp/]]
+-[[Twitter>>http://twitter.com/_tomoP]]
+-[[mixi>>http://mixi.jp/show_profile.pl?id=5620460]]
+
+**曲
+#list_by_tag(tomoP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(tomoPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm1466832)|&nicovideo(http://www.nicovideo.jp/watch/sm6326585)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm10353263)||
+
+**コメント
+#comment()

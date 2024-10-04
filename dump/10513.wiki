@@ -1,0 +1,35 @@
+#right(){&furigana(くろさむね)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/12478298" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/12478298">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-リンレン・ルカを使用したチップチューン曲を投稿するP。
+-それ以外にもロック系などの曲を投稿することがある。
+-結構な頻度で真っ黒いサムネの動画を投稿することがあり、アーティスト名の由来もそこからきている。
+-曲によってはギターが筋肉少女帯の橘高文彦にそっくりである。
+-多彩なアイテム使い。
+-ギターはたぶんギブソンフライングブイオールドモデルを使用していると思われる。
+-スタジオミュージシャンである可能性が高い。
+
+**リンク
+-[[ピアプロ>>http://piapro.jp/norione]]
+
+**曲
+#list_by_tag(黒サムネ,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(黒サムネCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm6899254)|&nicovideo(http://www.nicovideo.jp/watch/sm6899266)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6931839)|&nicovideo(http://www.nicovideo.jp/watch/sm6965805)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7040660)|&nicovideo(http://www.nicovideo.jp/watch/sm7079782)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7117591)|&nicovideo(http://www.nicovideo.jp/watch/sm7156100)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7181842)|&nicovideo(http://www.nicovideo.jp/watch/sm7345343)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7451279)|&nicovideo(http://www.nicovideo.jp/watch/sm7566778)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7678764)|&nicovideo(http://www.nicovideo.jp/watch/sm8083539)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm8273551)|&nicovideo(http://www.nicovideo.jp/watch/sm8397752)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm8662317)|&nicovideo(http://www.nicovideo.jp/watch/sm8951259)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9899512)|&nicovideo(http://www.nicovideo.jp/watch/sm11049816)|
+
+**コメント
+#comment()

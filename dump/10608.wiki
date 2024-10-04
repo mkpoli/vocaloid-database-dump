@@ -1,0 +1,37 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/374_20100531232249_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Alato]]|CENTER:&bold(){dolcissimo}|CENTER:[[涙色アルバム]]|
+
+|&bold(){[[フェイP]]}|[[リョータイ]]|[[イカロスP]]|[[ゆちゃP]]|
+
+発売：2010年6月26日
+価格：￥1,200 / 1曲￥150
+流通：配信
+サークル：KarenT
+ジャケットイラスト：[[ぶーた]]
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/dolcissimo/id378461924]]}|
+
+**CD紹介
+-フェイP初の配信限定のアルバム。KarenTのメグッポイド発売1周年記念企画で配信が行われた。
+-アルバム『[[dolce>dolce/フェイPCD]]』に数曲加わりグレードアップしたという意味で、dolceの絶対最上級の単語「dolcissimo」をタイトルとした。
+-「[[空を見上げて>空を見上げて/イカロスP]]」は[[イカロスP]]の、「[[空想パレット]]」は[[ゆちゃP]]の楽曲のアレンジカバー。
+
+**曲目
++[[Lift Off!]] （feat. メグッポイド＆巡音ルカ）
++[[マジ恋～Five Minutes Before It Falls in Love～>マジで恋する5分前]] （feat. メグッポイド）
++[[白いつばさ]] （feat. メグッポイド）
++[[黒いつばさ]] （feat. メグッポイド）
++[[きみにごめんね]] （feat. メグッポイド＆巡音ルカ）
++[[dolce ～空の絵描きうた～]] （feat. メグッポイド）
++[[空を見上げて>空を見上げて/イカロスP]]（超時空Cheerful-Remix） （feat. メグッポイド）
++[[空想パレット]]（超時空Colorful-Remix） （feat. メグッポイド）
+
+**リンク
+-[[KarenT：「dolcissimo」>>http://karent.jp/album/374]]
+-[[KarenT：「メグッポイド発売1周年記念祭」特集ページ>>http://karent.jp/special/megpoid10]]
+
+**コメント
+#comment()

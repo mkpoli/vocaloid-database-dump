@@ -1,0 +1,19 @@
+#right(){&furigana()&furigana()【登録タグ:&tags()】}
+&nicovideo(http://www.nicovideo.jp/watch/nm4649010)
+作詞：[[HYBRID SENSE]]
+作曲：[[HYBRID SENSE]]
+編曲：[[HYBRID SENSE]]
+唄：初音ミク
+
+**歌詞
+JOY WARD
+
+泣いてなんかないわ　独りじゃない
+寂しくないわ　素敵な音　この場　この生活
+
+JOY WARD
+
+いつか　きっと　出会うはず
+
+**コメント
+#comment()

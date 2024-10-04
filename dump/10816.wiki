@@ -1,0 +1,33 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/143_20091211135435_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){LEO ～ twins 2nd anniversary ～}|CENTER:[[サンキュー]]|
+
+|&bold(){[[harunacute]]}|[[orange>orange/作り手]]|
+
+発売：2009年12月27日
+価格：￥300 / 1曲￥150
+流通：配信
+レーベル：KarenT
+ジャケットイラスト：雨色
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/id346526574]]}|
+
+**CD紹介
+>あたたかな、LEO。
+-harunacute氏の配信EP。
+-そのサブタイトルからも分かるとおり、鏡音リン・レンの発売2周年を記念してリリースされた作品。
+-氏の代表作「[[LEO>LEO/harunacute]]」の詰め合わせ。
+
+**曲目
++[[LEO>LEO/harunacute]] -feat. Len-
++LEO -feat. Rin-
++LEO （Instrumental）
+
+**リンク
+-[[KarenT：「LEO ～ twins 2nd anniversary ～」>>http://karent.jp/album/143]]
+-[[KarenT：「鏡音リン・レン祭09」特集ページ>>http://karent.jp/special/rinlen09]]
+
+**コメント
+#comment()

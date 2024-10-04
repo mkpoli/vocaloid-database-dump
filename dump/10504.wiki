@@ -1,0 +1,37 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/400_20100604214248_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[euphony]]|CENTER:&bold(){cosmic tones}|CENTER:[[add 9 songs]]|
+
+|&bold(){[[yusukeP]]}|
+
+発売：2010年6月23日
+価格：￥1,200 / 1曲￥150
+流通：配信
+レーベル：KarenT
+ジャケットイラスト：[[ちほP]]
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/cosmic-tones/id377671161]]}|
+
+**CD紹介
+-未発表の新曲を中心に構成された、配信限定のyusukeP 2ndアルバム。
+
+**曲目
++Blue Bird （feat. 初音ミク）
++Singer （feat. 初音ミク）
++Saturation （feat. 初音ミク）
++[[cosmic tones]] （feat. 初音ミク）
++[[Life Stream]] （feat. 初音ミク）
++Kiss Away （feat. 初音ミク）
++[[canvas>canvas/yusukeP]] （feat. 初音ミク）
++Air Castle （feat. 初音ミク）
++Reminiscence （feat. 初音ミク）
++[[In Your Hands]] （feat. 初音ミク）
+
+**リンク
+-[[KarenT：「cosmic tones」>>http://karent.jp/album/400]]
+-[[euphony（作者ブログ）>>http://euphony335.blog22.fc2.com/]]
+
+**コメント
+#comment()

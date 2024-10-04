@@ -1,0 +1,41 @@
+//このwikiは曲、作り手、CD情報ををデータベース化しています。
+//ですので、ページ内容はなるべくテンプレートに沿ったものにしていただけると、助かります。
+//なお、本ページは、ネット配信で販売されているミニアルバムのページになります。
+//即売会でも同人ショップでも販売しておりません。
+//当wikiでは、ネット配信の作品もCD作品と同じように扱うことになっています。
+#right(){&furigana(しゃろけっと) &furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/372_20100531104327_0240_0240.jpg)
+&nicovideo(http://www.nicovideo.jp/watch/sm11149592)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:Gathering places E.P|CENTER:&bold(){シャロケット}|CENTER:[[change of seasons>change of seasons/CD]]|
+
+|&bold(){[[ミュムP]]}|[[灯下はこ、]]|[[atsuki]]|
+
+発売：2010年6月26日
+価格：￥600 / 1曲￥150
+流通：配信
+レーベル：KarenT
+ジャケットイラスト：[[atsuki>>http://piapro.jp/styrofoam]]
+
+|&bold(){[[iTunes Storeで購入>>http://itunes.apple.com/jp/album/sharoketto-ep/id378459461]]}|
+
+**CD紹介
+-ミュムPの配信限定ミニアルバム。
+-既存曲は再アレンジや再調声をほどこしてある。
+-KarenTのメグッポイド発売1周年記念企画で配信された作品の1つ。
+
+**曲目
++[[方舟の部屋]] （feat. メグッポイド）
++[[ぶらすばんどがーる]] （feat. メグッポイド&初音ミク）
++[[KEEP OUT]] （feat. メグッポイド）
++[[ホシメグリ]] （feat. メグッポイド&初音ミク）
++[[シャロケット]] （feat. メグッポイド）
+
+**リンク
+-[[KarenT：「シャロケット」>>http://karent.jp/album/372]]
+-[[KarenT：「メグッポイド1周年記念祭」特集ページ>>http://karent.jp/special/megpoid10]]
+-[[ミュムPの耳（作者ブログ）>>http://blog.livedoor.jp/miyump/]]
+
+**コメント
+#comment()

@@ -1,0 +1,30 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/401_20100604224256_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[telescope>telescope/CD]]|CENTER:&bold(){stellar place e.p.}|CENTER:[[Last Scene e.p.]]|
+
+|&bold(){[[そらいろくらぶ]]}|
+
+発売：2010年6月23日
+価格：￥300 / 1曲￥150
+流通：配信
+レーベル：KarenT
+ジャケットイラスト：[[霜村>>http://piapro.jp/veltpunk26]]
+
+|&bold(){[[iTunes Storeで購入>>http://itunes.apple.com/jp/album/stellar-place-ep/id377671492]]}|
+
+**CD紹介
+-そらいろくらぶの配信EP。
+-色とりどりのポップな楽曲を３つ揃えました。
+
+**曲目
++[[空色ラジオ]] （feat. 初音ミク）
++[[ステラプレイス]] （feat. 初音ミク）
++[[スノウライト]] （feat. 初音ミク）
+
+**リンク
+-[[KarenT：「stellar place e.p.」>>http://karent.jp/album/401]]
+
+**コメント
+#comment()

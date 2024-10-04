@@ -1,0 +1,39 @@
+#right(){&furigana(とんぼ)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/17471344" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/17471344">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-デビュー作は「[[ロンパリ]]」。
+-GUMIを使用したロック曲を主に投稿する。
+-作詞家のf氏と共に活動している。
+-作品数こそ少ないが、これからの活躍が期待されるP。
+
+**リンク
+-[[ピアプロ>>http://piapro.jp/tombo000]]
+
+**曲
+#list_by_tag(蜻蛉,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(蜻蛉CD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm10020741)|&nicovideo(sm10134758)|
+|&nicovideo(sm10460160)|&nicovideo(sm10779088)|
+|&nicovideo(sm10964935)|&nicovideo(sm11186954)|
+|&nicovideo(sm12838903)|&nicovideo(sm12969618)|
+|&nicovideo(sm13579111)|&nicovideo(sm13768840)|
+|&nicovideo(sm13991753)|&nicovideo(sm14158543)|
+|&nicovideo(sm14355409)|&nicovideo(sm14550425)|
+|&nicovideo(sm14873271)|&nicovideo(sm14873412)|
+|&nicovideo(sm15533565)|&nicovideo(sm16233320)|
+|&nicovideo(sm18019237)|&nicovideo(sm18194251)|
+|&nicovideo(sm19645433)|&nicovideo(sm20605340)|
+|&nicovideo(sm20625187)|&nicovideo(sm26650539)|
+
+**コメント
+- とんぼさんって読むんじゃないんですか？かげろうさん？  -- 名無しさん  (2011-04-21 09:29:42)
+- 普通にとんぼさんでしょｗ  -- 名無しさん  (2011-05-05 19:39:04)
+- 修正しました。  -- 名無しさん  (2011-05-05 20:45:42)
+- かげろう とんぼ どっちも蜻蛉だよ  -- 名無しさん  (2011-05-24 16:44:28)
+- デビュー曲ロンパリじゃなかったでしたっけ？  -- 名無しさん  (2011-06-02 23:46:05)
+#comment()

@@ -1,0 +1,56 @@
+#right(){&furigana(ごじじゅくごP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/11372328" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/11372328">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-シューゲイザー（ロックの1種）を投稿することが多く、歌詞は前向き。
+-P名の由来は曲名が五字熟語になっていることから。
+-アーティスト名は&b(){lavis}。
+
+**リンク
+-[[langue du chat（作者ホームページ）>>http://langueduchat.moo.jp/]]
+-[[ピアプロ>>http://piapro.jp/nyna]]
+
+**曲
+#list_by_tag(五字熟語P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(五字熟語PCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm6342019)|&nicovideo(http://www.nicovideo.jp/watch/sm6517371)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6877372)|&nicovideo(http://www.nicovideo.jp/watch/sm7234193)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7315663)|&nicovideo(http://www.nicovideo.jp/watch/sm7364292)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7562804)|&nicovideo(http://www.nicovideo.jp/watch/sm7655350)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7927384)|&nicovideo(http://www.nicovideo.jp/watch/sm8091177)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm8528436)|&nicovideo(http://www.nicovideo.jp/watch/sm8647521)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm8762256)|&nicovideo(http://www.nicovideo.jp/watch/sm8883450)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9000562)|&nicovideo(http://www.nicovideo.jp/watch/sm9168238)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9510981)|&nicovideo(http://www.nicovideo.jp/watch/sm9565254)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm10883748)|&nicovideo(http://www.nicovideo.jp/watch/sm11052870)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm11208134)|&nicovideo(http://www.nicovideo.jp/watch/sm11910365)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm11995076)|&nicovideo(http://www.nicovideo.jp/watch/sm12128540)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12203451)|&nicovideo(http://www.nicovideo.jp/watch/sm12313386)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12390158)|&nicovideo(http://www.nicovideo.jp/watch/sm13058635)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm13273806)|&nicovideo(http://www.nicovideo.jp/watch/sm14242427)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm14302514)|&nicovideo(http://www.nicovideo.jp/watch/sm14822557)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm14852591)|&nicovideo(http://www.nicovideo.jp/watch/sm15002979)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm15142283)|&nicovideo(http://www.nicovideo.jp/watch/sm15636584)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm15685382)|&nicovideo(http://www.nicovideo.jp/watch/sm15718928)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm15789861)|&nicovideo(http://www.nicovideo.jp/watch/sm15903367)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm15961838)|&nicovideo(http://www.nicovideo.jp/watch/sm16045987)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm16270617)|&nicovideo(http://www.nicovideo.jp/watch/sm16324698)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm16437427)|&nicovideo(http://www.nicovideo.jp/watch/sm16563845)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm16704116)|
+
+
+
+**コメント
+- 綺麗ってイメージ。新曲も良かった！追加して欲しいな。  -- 名無しさん  (2011-07-20 23:20:33)
+- このＰはもっと評価されるべき  -- 名無しさん  (2011-10-06 11:56:51)
+- 結構消されてるの多いな・・・。  -- 名無しさん  (2012-05-22 22:45:15)
+- 動画とかブログが消えてるけどもしかして辞めちゃった…？  -- 名無しさん  (2012-12-25 15:32:42)
+- うわあああ不思議輪舞にはまったら消されてる・・・ショック・・  -- 黒葉  (2014-02-12 11:42:28)
+- やめたのかねぇ...  -- 名無しさん  (2014-07-11 22:40:56)
+- YouTubeのは生き残ってんね  -- 名無しさん  (2014-07-11 22:41:53)
+- 全曲リストで気になって身に来たら全部消されてて草も生えない、一曲でも聴いてみたかったンゴ…  -- 名無しさん  (2021-09-23 03:50:12)
+#comment()

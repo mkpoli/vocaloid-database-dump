@@ -1,0 +1,26 @@
+#right(){&furigana(あん)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/3949571" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/3949571">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-製作ペースが遅いため、その合間に歌ってみた作品を投稿することがあるが、今ではそちらの方が数が多くなっている。
+-とはいえ本業はボカロP。使用ボカロはミク・ルカ・miki。
+-ミニサイズのミクが動画に登場することが多い。
+
+**リンク
+-[[ANFLASH（作者ブログ）>>http://anflash.com/]]
+-[[ピアプロ>>http://piapro.jp/anflash]]
+
+**曲
+#list_by_tag(あん,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(あんCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm1387100)|&nicovideo(http://www.nicovideo.jp/watch/sm1425468)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3196731)|&nicovideo(http://www.nicovideo.jp/watch/nm5417939)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5988288)|&nicovideo(http://www.nicovideo.jp/watch/nm9024447)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm11496579)||
+
+**コメント
+#comment()

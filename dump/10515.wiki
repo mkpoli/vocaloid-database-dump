@@ -1,0 +1,25 @@
+#right(){&furigana()&furigana()【登録タグ:&tags()】}
+&nicovideo(http://www.nicovideo.jp/watch/sm3848797)
+作詞：[[HYBRID SENSE]]
+作曲：[[HYBRID SENSE]]
+編曲：[[HYBRID SENSE]]
+唄：初音ミク
+
+**曲紹介
+-HYBRID SENSE氏がナムコのアーケードFPSゲーム「Counter-Strike NEO」の情報ネットラジオ、&br()「NEO★らじ」のテーマソングを依頼を受けて作ったもの。
+
+**歌詞
+（[[ピアプロ>>http://piapro.jp/content/7o4i9fu6w6b0xhe9]]より転載）
+
+モニター越しに写るリアルな世界へ
+失くした物を探しにさぁ出かけよう
+
+鍛えた「Aim」があれば誰にも負けないよ
+
+さぁその両手を広げ
+敵を狙い打て
+出会えた仲間と共に遊ぼう
+～NEO★らじ～
+
+**コメント
+#comment()

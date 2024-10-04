@@ -1,0 +1,37 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/nm11322086)
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){merotronica}|CENTER:-|
+
+|&bold(){[[tac_]]}|
+
+||CENTER:即売|CENTER:同人|
+|発売|CENTER:2010年7月19日|CENTER:-|
+|価格|CENTER:￥500|CENTER:-|
+|サークル|>|CENTER:山水高校雑音部|
+
+>作詞・作曲：&bold(){tac_}
+>ジャケット：&bold(){[[夏>>http://www.nicovideo.jp/mylist/10284824]]}
+
+**CD紹介
+-心地よいエレクトロニカ・ノイズミュージックを得意とする、「雑音部副部長」tac_によるアルバム。
+-全10曲収録。
+-THE VOC@LOID M@STER 13（ボーマス13）にて頒布される。
+
+**曲目
+-merotronica
+-少しの勇気と僕の魔法
+-僕の歌声
+-ハイドランジア
+-sound_garden
+-終末
+-parabora
+-antenna
+-hydrogen
+-parabora(world_end_rmx)
+
+**リンク
+-[[tac_マイリスト(VOCALOID関連)>>http://www.nicovideo.jp/mylist/10056005]]
+
+**コメント
+#comment

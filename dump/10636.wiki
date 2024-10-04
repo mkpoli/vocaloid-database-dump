@@ -1,0 +1,32 @@
+#right(){&furigana(しゆわいP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/7186450" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/7186450">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-使用ボカロはミク・リンレン・ルカ。
+-オリジナル曲の他にもMMDを使用したPVの制作もしている。
+-MMDでは激しい動きはないが、楽曲に合わせたストーリー性が感じられる演出を行う。
+-第2回MMD杯（2009年2月開催）でアーティスト名である&b(){シュワイ}がそのままP名となった。
+-2009年4月より、ピアプロのコラボから派生したコラボサークル「[[Culb-Ru:ne>>http://www.nicovideo.jp/mylist/12365198]]」で作曲活動を行っている。
+-Culb-Ru:neではシュワイP本人は作曲のみを担当し、作詞・イラスト・動画制作・投稿は他メンバーが担当している。
+
+**リンク
+-[[「Culb-Ru:ne」のHP（サークルサイト）>>http://www2s.biglobe.ne.jp/~k5855/culb-rune/]]
+-[[Culb-Ru:ne／シュワイのメモ話（作者ブログ）>>http://syuryouy.blog15.fc2.com/]]
+-[[ピアプロ>>http://piapro.jp/syuryouy]]
+-[[Twitter>>http://twitter.com/syu_wai]]
+-[[mixi>>http://mixi.jp/show_friend.pl?id=19287487]]
+-[[にゃっぽん>>http://v-nyappon.net/?m=pc&a=page_f_home&target_c_member_id=7204]]
+
+**曲
+#list_by_tag(シュワイP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(シュワイPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm4332656)|&nicovideo(http://www.nicovideo.jp/watch/sm5267841)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5526953)|&nicovideo(http://www.nicovideo.jp/watch/sm6149561)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7936031)||
+
+**コメント
+#comment()

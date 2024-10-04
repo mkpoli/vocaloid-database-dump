@@ -1,0 +1,34 @@
+#right(){&furigana(しんでれらすくーる) &furigana()【登録タグ:&tags() 】}
+|CD版ジャケット&br()&ref(http://b-n-factory.up.seesaa.net/image/CinderellaSchool-jacket-500-thumbnail2.jpg)|配信版ジャケット&br()&ref(http://karent.jp/npdca/412_20100621172105_0240_0240.jpg)|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[なないろチップス]]|CENTER:&bold(){シンデレラスクール}|CENTER:-|
+
+|&bold(){[[イトカワP]]}|
+
+||CENTER:即売|CENTER:配信|
+|発売|CENTER:2010年6月20日|CENTER:2010年6月26日|
+|価格|CENTER:￥200|CENTER:￥150|
+|サークル|CENTER:Bright Note Factory|CENTER:-|
+|レーベル|CENTER:-|CENTER:KarenT|
+|ジャケットイラスト|>|CENTER:[[紅雪>>http://piapro.jp/riu_y_1055]]|
+
+**CD紹介
+-GUMI誕に先駆けてリリースしたシングル。
+-2010年6月20日に開催されたディアマスターで頒布。
+-GUMI誕当日の同26日にはKarenTレーベルよりダウンロード販売開始。
+
+**曲目
+***CD版
++[[シンデレラスクール]]
++最終電車
+***配信版
++シンデレラスクール （feat. メグッポイド）
+
+**リンク
+-[[Bright Note Factory（作者サイト）>>http://bnfactory.web.fc2.com/]]
+-[[KarenT：「シンデレラスクール」>>http://karent.jp/album/412]]
+-[[KarenT：「メグッポイド1周年記念祭」特集ページ>>http://karent.jp/special/megpoid10]]
+
+**コメント
+#comment()

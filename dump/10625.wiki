@@ -1,0 +1,28 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[mikuringo EP]]|CENTER:&bold(){mikuringo EP2}|CENTER:[[garden>garden/CD]]|
+
+|&bold(){[[林檎>林檎/作り手]]}|[[psgmania]]|[[cocotuki]]|
+
+発売：2008年11月30日
+価格：￥500
+流通：即売
+サークル：PGG
+
+**CD紹介
+-林檎氏の3枚目となるCD。
+-ボーマス6で頒布。
+-作者のサイトで通信販売を行っていたが、既に終了している。
+
+**曲目
++[[にちよう]]　short short ep2 self cover
++そらっくも
++[[廻 - mawari -]] ep2 self cover
++【[[パティシエ・ダーリン]]】 ep2 mix （作詞：[[cocotuki]]　作編曲：[[psgmania]]　mix：林檎）
++サンタさんくるかな？ep2 mix （作詞・作曲・編曲：かとり　mix：林檎）
+
+**リンク
+-[[シャララと。（作者ブログ）>>http://syararato.jugem.jp/]]
+
+**コメント
+#comment()

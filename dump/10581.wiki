@@ -1,0 +1,30 @@
+#right(){&furigana(こいのまみむめもさくぶん) &furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/368_20100529043054_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Dancing Love>Dancing Love/CD]]|CENTER:&bold(){恋のまみむめも作文♪}|CENTER:[[Spirit and Love>Spirit and Love/CD]]|
+
+|&bold(){[[MineK]]}|
+
+発売：2010年6月26日
+価格：￥300 / 1曲￥150
+流通：配信
+レーベル：KarenT
+ジャケットイラスト：[[ダルマ>>http://piapro.jp/rurururu]]
+
+|&bold(){[[iTunes Storeで購入>>http://itunes.apple.com/jp/album/mamimumemo-composition-love/id378455550]]}|
+
+**CD紹介
+-MineK氏が贈る、GUMIメインの配信EP。
+-KarenTのメグッポイド発売1周年記念企画で配信が行われた作品の1つ。
+
+**曲目
++[[恋のまみむめも作文♪]] （feat. メグッポイド）
++[[ポイっちゃお？]] -ぷち♂mix- （feat. メグッポイド）
+
+**リンク
+-[[KarenT：「恋のまみむめも作文♪」>>http://karent.jp/album/368]]
+-[[KarenT：「メグッポイド1周年記念祭」特集ページ>>http://karent.jp/special/megpoid10]]
+
+**コメント
+#comment()

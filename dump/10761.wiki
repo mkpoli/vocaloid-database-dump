@@ -1,0 +1,39 @@
+#right(){&furigana(さくはなちるはな) &furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/484_20100723101835_0240_0240.jpg)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm11321631)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[SAPIENTIA STELLAE]]|CENTER:&bold(){サクハナ　チルハナ}|CENTER:[[朝顔節]]|
+
+|&bold(){[[ブンガP]]}|
+
+||CENTER:即売|CENTER:同人|CENTER:配信|
+|発売|>|CENTER:2010年7月19日|CENTER:2010年8月11日|
+|価格|CENTER:￥1,500|CENTER:￥1,575（税込）|CENTER:￥900 / 1曲￥150|
+|サークル|>|>|CENTER:BUNGALANGIT|
+|レーベル|>|CENTER:-|CENTER:KarenT|
+
+**CD紹介
+-ブンガP4作目となるボーカロイドCD。
+-今作は初のプレスCD。
+-THE VOC@LOiD M@STER 13（ボーマス13）で頒布。
+-とらのあなで委託販売、KarenTレーベルよりダウンロード販売が行われている。
+-全体に落ち着いた雰囲気の恋のうたが中心です。たどたどしい幼い恋愛から、ゆるぎない本物の愛までを「花が咲き、そして散り、やがて実る」そんなイメージになぞらえ表現しました。（作者ブログより）
+
+**曲目
++[[春の一歩]] （feat. 初音ミク）
++雨音の季節（feat. 初音ミク）
++夕立（feat. 初音ミク）
++[[嵐が聴こえる]]（feat. 初音ミク）
++らんかん橋（奄美大島民謡）（feat. 初音ミク&巡音ルカ）
++[[君の見てる空]]（feat. 初音ミク）
++[[世界の種を抱いて]]（feat. 初音ミク）
+
+**リンク
+-[[VOCALOIDのうた！VOCALOTUS COLORATA（作者ブログ）>>http://ameblo.jp/vocalotus/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/22/84/040010228400.html]]
+-[[KarenT：「サクハナ　チルハナ」>>http://karent.jp/album/484]]
+
+**コメント
+#comment()

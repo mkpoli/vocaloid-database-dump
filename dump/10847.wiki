@@ -1,0 +1,39 @@
+#right(){&furigana(はんたん)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/17314034" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/17314034">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-ぱんたんC（来兎）・ぱんたんD（めろこ）・ぱんたんP（中の人不在）からなるユニット「&b(){ぱんたんず}」として活動している。
+-作詞は綾菓さんが担当していることが多い。
+-最近はレン・KAITO・がくぽ・キヨテルからなるユニット「幻想エアリー」の曲を投稿している模様。
+--その中の「[[ユアハイネス☆マイプリンセス]]」は自身初の殿堂入り作品となる。
+-ぱんたんCの中の人である来兎氏はメルティブラッドやってる人ならわかるはず。正真正銘&b(){プロの犯行}なのです。
+
+**リンク
+-[[幻想エアリー公式ページ>>http://lisa-rec.net/genso/]]
+-[[リサレコ（作者ホームページ）>>http://lisa-rec.net/]]
+-[[YouTube>>http://www.youtube.com/user/lisamovie]]
+-[[Twitter>>http://twitter.com/lisa_rec]]
+
+**曲
+#list_by_tag(ぱんたんP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(ぱんたんPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm9312373)|&nicovideo(http://www.nicovideo.jp/watch/sm9692946)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9701403)|&nicovideo(http://www.nicovideo.jp/watch/sm9844092)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm10243594)|&nicovideo(http://www.nicovideo.jp/watch/sm10911790)|
+
+**コメント
+- ぱんたんずキター!!  -- 名無しさん  (2010-07-12 13:35:45)
+- ミニアルバム絶対買います  -- 名無しさん  (2010-08-03 09:52:31)
+- CD良かったｗ  -- 名無しさん  (2010-08-15 19:07:07)
+- インビテーションも素敵だったよ  -- 名無しさん  (2011-01-07 16:04:14)
+- 幻想エアリーをプロデュースするときのモットーは「男性ボカロでぐへへ」らしいです  -- 名無しさん  (2011-05-12 16:43:17)
+- 幻想エアリー、かっこよかったです。男の私でも惚れます。  -- 龍奇  (2011-10-22 09:24:31)
+- 幻想エアリー無かったら、今の私居なかった♪がっくん愛してる！  -- 猫  (2012-09-01 00:35:04)
+- セレクションのページ無いのか  -- 名無しさん  (2013-08-25 08:06:42)
+- 幻想エアリーの曲素敵だけど、曲によって時々レンの高音が場違いに思うときがある…レンをもう少し低くしてくれたらいいな  -- 名無しさん  (2015-06-25 15:26:21)
+- また歌つくってくれないかなー  -- 名無しさん  (2017-09-15 21:13:05)
+#comment()

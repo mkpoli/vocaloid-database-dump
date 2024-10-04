@@ -1,0 +1,52 @@
+#right(){&furigana(CompilationAlbumりかしつあるかりはん)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm11360528)|&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/19822996" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/19822996">【ニコニコ動画】Compilation Album 理科室</a></iframe>)|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:[[Compilation Album 理科室 "酸性盤"]]&br()&bold(){Compilation Album 理科室 "アルカリ盤"}|CENTER:-|
+
+|[[ARuFa]]|[[いなごろ]]|[[ハヤカワP]]|[[大福P]]|[[古川P]]|[[epic>>epic/作り手]]|[[渦音P]]|[[やひろ]]|
+|[[灯下はこ、]]|[[mochilon]]|[[acane_madder]]|[[ンジャメナP]]|[[nakanoise]]|[[雛國ミキ]]|[[ふゆP]]|[[じたばたP]]|
+
+||CENTER:即売|CENTER:同人|
+|発売|>|CENTER:2010年7月19日|
+|価格|CENTER:￥1,000|CENTER:￥1,050（税込）|
+|サークル|>|CENTER:理科委員会|
+
+**CD紹介
+CD名：『&u(){Compilation Album 理科室 "アルカリ盤"}』（&u(){Compilation Album りかしつ "あるかりばん"}）
+-総勢54名による、理科室をテーマにした2つのコンピレーションアルバムとブックレット。
+-主宰者・副主宰者は、 [[娘細胞P]] と [[雛國ミキ]]氏 。
+-『[[Compilation Album 理科室 "酸性盤"]]』と同時リリース。
+-CDは 酸性盤 と同様に、12Pフルカラーブックレット仕様で全15曲を収録。
+-ブックレット参加者は以下の通り。白熱灯/[[いるー>いるーP]]/傘子/たま/shari/[[水鹿しくめ>独楽子]]/[[普通人みかん（渦音P）>渦音P]]/ジルシー/ねむ/佳世/もちょこ/natsu/[[mishiki]]（敬称略）
+-ジャケットイラストは 白熱灯氏 、マスタリングは[[acane_madder]]氏 、デザインは 市井氏 が担当。
+-THE VOC@LOiD M@STER 13（ボーマス13）で頒布。とらのあなとD-STAGEで委託販売が行われている。
+
+**曲目
++くうかんじっけん / [[ARuFa]]
++[[little prisoner]] / [[いなごろ]] 
++[[10Years After]] / [[Plutonius>ハヤカワP]]
++二重螺旋 / [[Ohnuma>大福P]]
++Sound Agree / [[古川本舗>古川P]]
++[[マイナス200の世界]] / [[epic>>epic/作り手]]
++架空元素Sqt（Sept-quad-trium） / [[渦音P]]
++水槽の中と外のビーカーの破片 / [[yahiro>やひろ]]＆[[桃華なゆた>灯下はこ、]]
++恋愛飽和水溶液 / [[mochilon]]
++[[茜音色チャイム]] / [[acane_madder]]
++Bye-Bye Laboratory / [[ンジャメナP]]	 
++microscope / [[nakanoise]]
++loving / [[雛國ミキ]]
++[[逃火項]] / [[ふゆP]]
++[[理科室が待ってる]] / [[黒魔（じたばたP）>じたばたP]]
+
+**リンク
+-[[特設サイト>>https://rikashitsu.futene.net/index.html]]
+//-[[とらのあな>>https://www.toranoana.jp/mailorder/article/04/0010/23/07/040010230727.html]]
+//-[[D-STAGE>>http://d-stage.com/shop/detail.php?seq=16103]]
+
+**コメント
+#comment()

@@ -1,0 +1,38 @@
+#right(){&furigana(なないろちっぷす) &furigana()【登録タグ:&tags() 】}
+//&ref(http://img.toranoana.jp/img/04/0010/22/12/040010221280-1.gif)
+//&ref(http://bnfactory.web.fc2.com/nanairo-jacket.jpg,x=300,y=300)
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186115441.jpg,x=300,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm10603001)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[ふゆこいボックス]]|CENTER:&bold(){なないろチップス}|CENTER:[[シンデレラスクール>シンデレラスクール/CD]]|
+
+|&bold(){[[イトカワP]]}|
+
+||CENTER:即売|CENTER:同人|
+|発売|CENTER:2010年5月9日||
+|価格|CENTER:￥700|CENTER:￥945（税込）|
+|サークル|CENTER:おけいはん|CENTER:Bright Note Factory|
+|ジャケットイラスト|>|CENTER:橘じん|
+
+**CD紹介
+-イトカワPの新作CDは、アレンジ曲あり、チップ新曲ありの7トラック構成のアルバム。
+-THE VOC@LOiD M@STER 12（ボーマス12）で頒布されたのち、とらのあなでの委託販売が行われている。
+
+**曲目
++Press Start Button!! （instrumental）
++[[Wanderland]] （原曲：[[めろんてぃーP]]）
++[[ggrks-ググれカス-]] （原曲：[[あー民P]]）
++[[Starry☆Rocket]] -3/4 arrange- （instrumental）
++[[上海★ディスコ]] （原曲：[[大納僧]]）
++[[レンラクマダー？]] （原曲：[[ライブP]]）
++スタートボタン
+
+**リンク
+-[[Bright Note Factory（作者サイト）>>http://bnfactory.web.fc2.com/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/22/12/040010221280.html]]
+
+**コメント
+#comment()

@@ -1,0 +1,43 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+#ref(←P - meer.jpg)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm11300954)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:CENTER:[[宇宙ラジオ-STARDUST MIX->宇宙ラジオ]]&br()[[falldown]]|CENTER:&bold(){meer}|CENTER:[[徒夢]]&br()[[アストロ]]|
+
+|&bold(){[[←P]]}|
+
+||CENTER:即売|CENTER:同人|
+|発売|>|CENTER:2010年7月19日|
+|価格|CENTER:￥1,000|CENTER:￥1,496（税込）|
+|サークル|>|CENTER:矢印良品|
+
+>作詞：&b(){[[←P]],のこのこ,meisa}
+>作曲：&b(){[[←P]]}
+>ジャケット：&b(){[[meisa>>http://dic.nicovideo.jp/a/meisa]]}
+
+**CD紹介
+-「ふわふわずしん」をコンセプトに楽曲を発表し続けてきた、←Pの満を持しての1stフルアルバム。
+-THE VOC@LOID M@STER 13（ボーマス13）にて頒布される。全10曲収録。
+-「[[宇宙ラジオ]]」「[[falldown]]」「[[徒夢]]」をはじめとしたヒット作を収録するほか、「[[黒い猫と白い花]]」「[[Re;Re;Re;Re;]]」などの過去曲はリメイク。打ち込みギターを生演奏にするなど、よりパワーアップした音を堪能できる。
+-ジャケットイラスト、およびデザイン全般は、動画でもタッグを組み続けてきた[[meisa>>http://dic.nicovideo.jp/a/meisa]]が手がける。また、アルバムのラストを飾る10曲目「meer」では、作詞にも挑戦している。
+
+**曲目
++[[Re;Re;Re;Re;]]
++[[徒夢]]
++[[ハナムケ]]
++[[晴れのち曇り、時々涙]]
++[[-オトアメ-音雨]]
++[[falldown]]
++[[黒い猫と白い花]]
++[[アストロ]]
++[[宇宙ラジオ]]
++meer
+
+**リンク
+-[[アルバム告知＠楽士ブログ>>http://amane69.blog23.fc2.com/blog-entry-31.html]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/cit/pagekit/0000/00/03/000000038338/index.html]]
+
+**コメント
+#comment
