@@ -9,6 +9,8 @@
 #   generate-hashes: false
 #   universal: false
 
+asttokens==2.4.1
+    # via stack-data
 atwiki-python==0.0.11
 beautifulsoup4==4.12.3
     # via atwiki-python
@@ -16,20 +18,90 @@ certifi==2024.8.30
     # via requests
 charset-normalizer==3.3.2
     # via requests
+comm==0.2.2
+    # via ipykernel
+    # via ipywidgets
+debugpy==1.8.6
+    # via ipykernel
+decorator==5.1.1
+    # via ipython
+executing==2.1.0
+    # via stack-data
 html5lib==1.1
     # via atwiki-python
 idna==3.10
     # via requests
+ipykernel==6.29.5
+ipython==8.28.0
+    # via ipykernel
+    # via ipywidgets
+ipywidgets==8.1.5
+jedi==0.19.1
+    # via ipython
+jupyter-client==8.6.3
+    # via ipykernel
+jupyter-core==5.7.2
+    # via ipykernel
+    # via jupyter-client
+jupyterlab-widgets==3.0.13
+    # via ipywidgets
+matplotlib-inline==0.1.7
+    # via ipykernel
+    # via ipython
+nest-asyncio==1.6.0
+    # via ipykernel
+packaging==24.1
+    # via ipykernel
+parso==0.8.4
+    # via jedi
+pexpect==4.9.0
+    # via ipython
+platformdirs==4.3.6
+    # via jupyter-core
+prompt-toolkit==3.0.48
+    # via ipython
+psutil==6.0.0
+    # via ipykernel
+ptyprocess==0.7.0
+    # via pexpect
+pure-eval==0.2.3
+    # via stack-data
+pygments==2.18.0
+    # via ipython
+python-dateutil==2.9.0.post0
+    # via jupyter-client
 python-frontmatter==1.1.0
 pyyaml==6.0.2
     # via python-frontmatter
+pyzmq==26.2.0
+    # via ipykernel
+    # via jupyter-client
 requests==2.32.3
 six==1.16.0
+    # via asttokens
     # via html5lib
+    # via python-dateutil
 soupsieve==2.6
     # via beautifulsoup4
+stack-data==0.6.3
+    # via ipython
+tornado==6.4.1
+    # via ipykernel
+    # via jupyter-client
 tqdm==4.66.5
+traitlets==5.14.3
+    # via comm
+    # via ipykernel
+    # via ipython
+    # via ipywidgets
+    # via jupyter-client
+    # via jupyter-core
+    # via matplotlib-inline
 urllib3==2.2.3
     # via requests
+wcwidth==0.2.13
+    # via prompt-toolkit
 webencodings==0.5.1
     # via html5lib
+widgetsnbextension==4.0.13
+    # via ipywidgets
