@@ -21,7 +21,7 @@ api = AtWikiAPI(
 #         known_404_pages = {int(line.strip()) for line in f if line.strip().isdigit()}
 
 max_page_id = max(int(file.stem) for file in OUTPUT_DIR.glob("*.wiki"))
-start_from = math.floor(max_page_id / 100 + 1)
+start_from = math.floor(max_page_id / 100)
 
 
 print("Fetching the list of pages...")
