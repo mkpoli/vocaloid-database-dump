@@ -1,0 +1,26 @@
+#right(){&furigana(きもかわぴー)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/18394455" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/18394455">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-投稿者名は&b(){aokix}。
+--P名は、処女作「a lioness」において、歌詞がキモかわいいとコメントされた事に由来する。
+-ロックをメインに発表している。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/aokix]]
+
+**曲
+#list_by_tag(キモカワP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+//**CD
+//#list_by_tag(キモカワPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm9942548)|&nicovideo(http://www.nicovideo.jp/watch/sm10025903)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm10254779)|&nicovideo(http://www.nicovideo.jp/watch/sm10481657)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm10698537)|&nicovideo(http://www.nicovideo.jp/watch/sm10791830)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm11275898)|&nicovideo(http://www.nicovideo.jp/watch/sm11979134)|
+
+**コメント
+- 機械ノ唄とてもいい曲  -- みゅみゅ  (2011-09-03 23:22:52)
+- だなぁ  -- aaaaaaaa  (2011-09-03 23:33:56)
+#comment()

@@ -1,0 +1,35 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/675_20110306210038_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Draw the Emotional × AVTechNO!]]|CENTER:&bold(){III}&br()[[DYE -Synthesis- 2/8>DYE -Synthesis- 2／8]]|CENTER:[[できること]]|
+
+|&bold(){[[AVTechNO]]}|
+
+発売：2011年3月16日
+価格：￥300 / 1曲￥150
+流通：配信
+レーベル：KarenT
+ジャケットイラスト：[[和音>>http://piapro.jp/dot37]]
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/iii-single/id425634535]]}|
+|&bold(){[[Amazon MP3で購入する>>http://www.amazon.co.jp/dp/B004RGN2G2/]]}|
+
+**紹介
+-AVTechNO!氏の配信EP。
+-クールなエレクトロナンバーの「III」と、そのアレンジの「III / SAKURA」の2曲を収録。
+-『[[DYE -Synthesis- 2/8>DYE -Synthesis- 2／8]]』と同時リリース。
+
+**クロスフェード
+&nicovideo(http://www.nicovideo.jp/watch/nm13838183)
+
+**曲目
++III （feat. 巡音ルカ）
++III / SAKURA （feat. 巡音ルカ）
+
+**リンク
+-[[作者サイト>>http://avtechno.ukime.org/]]
+-[[KarenT>>http://karent.jp/album/675]]
+
+**コメント
+#comment()

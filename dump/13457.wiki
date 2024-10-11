@@ -1,0 +1,17 @@
+#right(){【登録タグ:&tags()】}
+//↑タグ忘れ防止のための表示
+曖昧さ回避のためのページ
+----
+-[[おパンクP]]の曲
+--[[Remember/おパンクP]]
+-[[鉋屑]]の曲
+--[[remember/鉋屑]]
+-CRONUS×CЯOCUSの曲
+--[[Remember/CRONUS×CЯOCUS]]
+-[[アキヅキミナト]]の曲
+--[[Remember/アキヅキミナト]]
+
+-[[23]]のCD
+--[[remember/CD]]
+
+#include(曖昧さ回避の追加の仕方/告知)

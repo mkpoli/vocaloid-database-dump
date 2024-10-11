@@ -1,0 +1,71 @@
+#right(){&furigana(るなちゅ)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/22138252" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/22138252">【ニコニコ動画】るなちゅのみゅっみゅなお品書き</a></iframe>)
+
+**特徴
+作り手名：『&u(){るなちゅ}』
+-動画の説明文に〝&bold(){みゅっみゅっ}〟とマイリスト番号だけを残す、謎の多い主。
+-使用ボカロはミク、リン、レン、GUMI、ゆかり、IA、ルカ。
+-13作目として投稿された「[[禁断少女プラスA]]」が初の殿堂入りを達成した。
+--殿堂入り達成曲は、「[[禁断少女プラスA]]」「[[猫にオレンジ]]」「[[楓>楓/るなちゅ]]」。
+-イラストも自前。
+
+**リンク
+//-[[作者ブログ>>http://ameblo.jp/lunachu/]]
+-[[Twitter>>https://twitter.com/lunachu13]]
+-[[KarenT>>https://karent.jp/artist/pp000436]]
+-[[PIAPRO>>https://piapro.jp/lunachu]]
+-[[ニコニコ>>https://www.nicovideo.jp/user/11124900]]
+-[[YouTube>>https://www.youtube.com/channel/UC6u87yID_t7W6BSyvLBv-Pg]]
+
+**曲
+#list_by_tag(るなちゅ,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(るなちゅCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(nm9984366)|&nicovideo(sm11877224)|
+|&nicovideo(sm12643546)|&nicovideo(sm13102834)|
+|&nicovideo(sm13185582)|&nicovideo(sm14345427)|
+|&nicovideo(sm15121977)|&nicovideo(sm15791902)|
+|&nicovideo(sm17112170)|&nicovideo(sm17112280)|
+|&nicovideo(sm17112397)|&nicovideo(sm19800546)|
+|&nicovideo(sm20629698)|&nicovideo(sm24848351)|
+|&nicovideo(sm25202088)|&nicovideo(sm25697732)|
+|&nicovideo(sm27271298)|&nicovideo(sm28594961)|
+|&nicovideo(sm30151222)|&nicovideo(sm31566896)|
+|&nicovideo(sm34000525)|&nicovideo(sm34366387)|
+|&nicovideo(sm34403672)|&nicovideo(sm36358865)|
+|&nicovideo(sm37955951)|&nicovideo(sm38629316)|
+|&nicovideo(sm39511816)|&nicovideo(sm42116847)|
+
+**関連タグ内の更新履歴
+#region(close,関連タグ内の更新履歴)
+関連タグ内の更新履歴
+※「るなちゅ」「るなちゅCD」タグ内で最近編集やコメントのあった記事を新しい方から10件表示しています。
+#list_by_tagsearch(るなちゅ,るなちゅCD,sort=timestamp,sort2=desc,errmsg=まだ曲、CDが登録されていません。,or,10)
+#endregion
+
+**コメント
+//- 記事あったんだ！るなちゅさんの曲好きだ  -- 名無しさん  (2011-10-15 22:02:33)
+- こんなに良い曲ばかりのボカロPは初めてでした。本当に素晴らしい曲ばかりです！  -- 名無しさん  (2012-03-01 20:41:45)
+- 何者なんだ・・・音のセンスすげぇ  -- 名無しさん  (2012-05-20 05:08:24)
+- みゅっみゅっ  -- 名無しさん  (2012-05-20 05:52:00)
+- 猫にオレンジでハマりましたー！みゅっみゅっ  -- 名無しさん  (2013-04-05 14:57:10)
+- ギターのコード進行のセンスがずば抜けて高いと思う。クセになって耳から離れない！みゅっみゅっ！  -- みゅっみゅっ！  (2013-04-17 00:12:45)
+- 最高すぎる……みゅっみゅっ！  -- 名無しさん  (2013-05-25 09:49:27)
+- いい曲ばかりだ…みゅっみゅっ  -- 名無しさん  (2013-07-27 02:28:39)
+- 禁断少女好きです！…みゅっみゅっ  -- 名無しさん  (2013-08-03 14:12:19)
+- ぷれい うぃず みぃ ヤバい（笑）  -- 名無し  (2013-08-22 15:16:16)
+- 何故るなちゅさんの曲は伸びない………&#8252;  -- 名無しさん  (2013-09-29 10:46:51)
+//- みゅっ みゅっ       みゅっ？  -- さくら  (2013-10-22 23:05:18)
+//- みゅっみゅっ  -- 名無しさん  (2014-08-23 17:18:57)
+- なぜ伸びないのだあああああ  -- みゅっみゅっ  (2014-10-30 00:41:39)
+- な、なぜにるなちゅさんのところだけこんなに書き込み少ないの？神曲ばっかりなのに！  -- Na  (2016-01-09 14:22:52)
+- 新曲出てるじゃん！優しい曲もいいね！  -- カリィ  (2016-04-16 16:32:36)
+- あれっ。神と間違えてたわ  -- 名無しさん  (2016-06-03 15:07:10)
+#comment()

@@ -1,0 +1,77 @@
+#right(){&furigana(NEGI)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/11300514" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/11300514">【ニコニコ動画】</a></iframe>)|&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/18715043" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/18715043">【ニコニコ動画】</a></iframe>)|
+
+**特徴
+作り手名：『&u(){NEGI}』
+-絵師・PV師。&b(){ねぎしお}&b(){.｡oO}名義を使用していたこともある。
+-PV制作スタイルは主に手書きだが、映像編集やロゴデザイン等も行う。
+-[[光収容氏のCD>其の掌に刺さる棘]]にて作詞で参加するなどPV製作以外の活動も。
+-太めの線、ハッキリとした色使いを用いるためサムネでも一発で分かるイラスト作りが出来る絵師の一人。
+-楽器の描写が非常に上手く、[[特にギターには細部までこだわりを感じる。>>https://www.nicovideo.jp/watch/sm13497587]]
+-映像編集に関しては、自らのイラストを編集した物の他に、コラボとして映像編集のみ参加している物も存在する。
+-リン廃であり、動画・イラストともリン登場率が高いがそれ以外のボカロが登場しないわけではない。
+-実はボカロを持っている。（初音ミク、鏡音リン・レン（ACT1、2）、巡音ルカ、神威がくぽ）
+-｢&bold(){CITRIN}｣という同人サークルを、同じくPV師・絵師である[[田村ヒロ]]氏と2人で主宰している。
+
+**リンク
+//-[[作者サイト>>http://ulogbe.net/]]
+//-[[作者ブログ>>http://ulogbe.blog75.fc2.com/]]
+-[[ピアプロ>>https://piapro.jp/ulogbe]]
+-[[Pixiv>>https://www.pixiv.net/users/40586]]
+
+**曲
+#list_by_tag(NEGI,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(NEGICD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+***PV担当
+|&nicovideo(sm6991380)|&nicovideo(sm7882150)|
+|&nicovideo(sm9218213)|&nicovideo(sm10122166)|
+|&nicovideo(sm10443906)|&nicovideo(sm10524385)|
+|&nicovideo(sm11371327)|&nicovideo(sm13328173)|
+|&nicovideo(sm14031339)|&nicovideo(sm14519009)|
+|&nicovideo(sm15079249)|&nicovideo(sm15145460)|
+|&nicovideo(sm16877644)|&nicovideo(sm17762432)|
+|&nicovideo(sm18521596)|&nicovideo(sm18849739)|
+|&nicovideo(sm19254869)|&nicovideo(sm19594721)|
+|&nicovideo(sm21003586)|&nicovideo(sm21221874)|
+|&nicovideo(sm22537224)|&nicovideo(sm23205922)|
+***CITRIN（田村ヒロ氏との合作）
+|&nicovideo(sm5709945)|&nicovideo(sm6206647)|
+|&nicovideo(sm10037931)|&nicovideo(sm10114816)|
+|&nicovideo(sm15089052)|>|
+***イラストのみの参加
+|&nicovideo(sm4359845)|&nicovideo(sm4472573)|
+|&nicovideo(sm4640606)|&nicovideo(sm5461502)|
+|&nicovideo(sm7116557)|&nicovideo(sm8936923)|
+|&nicovideo(sm24591880)|
+***動画作成のみの参加
+|&nicovideo(sm10446457)|&nicovideo(sm16402828)|
+|&nicovideo(sm18521931)|&nicovideo(sm18958272)|
+
+**コメント
+- NEGIさんの絵けっこうツボです！ページ作成していただいた方ありがとうございました！  -- 奈良の人  (2011-03-31 00:17:44)
+- NEGIさん大好きです！ページ作成ありがとです！NEGIさんのおかげでリン廃になったと言っても過言ではない。  -- 名無しさん  (2011-04-01 17:04:41)
+- ほんとNEGIさんギター描くのうまい  -- 名無しさん  (2011-04-04 13:29:21)
+- CD（HOWRINGとか）のリンクも入れて欲しいです。  -- 名無しさん  (2011-04-09 21:56:19)
+- NEGIさんのページありがとうございます！NEGI大好きだああああああああ  -- 名無しさん  (2011-06-20 00:39:07)
+- NEGIさん大好きです」！  -- 名無しさん  (2011-08-18 11:38:34)
+- NEGIさんの絵が好きで、光収容さんの曲が好きになったといっても、過言ではない。  -- …と、言える程に好きな人  (2012-01-06 16:23:59)
+- NEGIさんの性別が気になる。  -- エイリアン  (2012-03-26 14:35:13)
+- ↑NEGIさんは女性ですよ。  -- 名無しさん  (2012-03-26 15:52:08)
+- ↑中の人はおっさんですよ  -- 名無しさん  (2012-03-27 09:01:19)
+- 性別は女性だけど、性格におっさん要素が含まれてます。  -- 名無しさん  (2012-03-31 14:06:58)
+- というか本人が公開してない情報を書くものじゃないと思うんだけど。  -- 名無しさん  (2012-04-01 15:55:58)
+- ↑そうですね聞いた俺が悪かったNEGIさんすみません･････  -- エイリアン  (2012-04-03 20:27:38)
+- 孤独の果てからこの絵スキになりました。  -- 名無しさん  (2012-08-03 08:53:55)
+- この人の絵すきだわぁ…かっこかわぇぇ  -- 名無しさん  (2012-10-23 18:27:05)
+- こんな絵を書けるように頑張っていますぅ  -- ラチュタ  (2013-02-10 23:11:57)
+- NEGIと田村ヒロは２大リン廃だとおもう・・・御二方の絵かなり好きです  -- 名無しさん  (2013-05-13 01:07:08)
+- ボカロ持ってたんですかこの人(笑)　光収容さんとよく一緒にやってるのがもうほんとにうれしくて  -- 名無しさん  (2013-06-15 21:25:27)
+#comment()

@@ -1,0 +1,22 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+
+**特徴
+-爽やかでかわいい曲風が特徴。
+
+**リンク
+-[[i:vyHP>>http://i-vy.info/]]
+-[[i：LOvE yOU（ブログ）>>http://evergreenivy.blog47.fc2.com/]]
+-[[PIAPRO>>http://piapro.jp/i_vy]]
+-[[Twitter>>https://twitter.com/YUTAKivy]]
+
+**曲
+#list_by_tag(i:vy,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(i:vyCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm15109884)||
+
+**コメント
+#comment()

@@ -1,0 +1,42 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/510_20100910023142_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[VIRGIN KILLER]]|CENTER:&bold(){Nude}|CENTER:-|
+
+|&bold(){[[明太Rocker]]}|
+
+||CENTER:即売|CENTER:配信|
+|発売|CENTER:2010年9月5日|CENTER:2010年9月29日|
+|価格|CENTER:￥|CENTER:￥1,200 / 1曲￥150|
+|サークル|CENTER:VIRGIN KILLER|CENTER:-|
+|レーベル|CENTER:-|CENTER:KarenT|
+
+**CD紹介
+-明太Rocker氏初となるCDアルバム。
+-本作も、絵師[[あちこあこ>>http://piapro.jp/achikoaco]]氏との共同名義。
+-2010年9月5日に開催されたVOCALOID Fantasia で頒布。その後、KarenTレーベルよりダウンロード販売が開始された。
+-なお、通販も委託も全く予定なしとのこと。
+
+**クロスフェード
+&nicovideo(sm11916709)
+
+**曲目
++[[Just Close Your Eyes]]
++Wild Joker
++[[Perfect Liar]]
++[[Hot Milk]]
++[[New Romancer]]
++[[Masquerade>Masquerade/明太Rocker]]
++SCANDAL
++Roses for the Queen
++[[Bullet for Prisoner]]
++Diamond Rain
+
+**リンク
+-[[明太Blog(´_ゝ`)（明太Rocker氏のブログ）>>http://mentairocker.blog52.fc2.com/]]
+-[[飴と鞭（あちこあこ氏ブログ）>>http://achikoaco.blog119.fc2.com/]]
+-[[KarenT：「Nude」>>http://karent.jp/album/510]]
+
+**コメント
+#comment()

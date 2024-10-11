@@ -1,0 +1,33 @@
+#right(){&furigana(FuzzP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/9872648" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/9872648">【ニコニコ動画】</a></iframe>)
+
+**特徴
+作り手名：『&u(){FuzzP}』
+-アーティスト名は&b(){ふしだら劇場}。
+-1980年代を思わせるサイケデリックロックを得意とする。
+-P名が示す通りファズ（エフェクターを用いてギターの音を歪ませる事）にこだわりを持っている。
+-たまに「初音ミク」の部分を「ファズ音ミク」とすることがある。ここではミクの声を跡形もないほどに歪ませている。
+-実は[[牛心隊長]]（キャプテン・ビーフハートP）と同一人物である。
+
+**リンク
+-[[ピアプロ>>https://piapro.jp/psychedelic123]]
+-[[Twitter>>https://twitter.com/fushidara_fuzz]]
+
+**曲
+#list_by_tag(FuzzP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(FuzzPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画（オリジナル曲のみ、再生数が多い順に6つ）
+|&nicovideo(sm14177794)|&nicovideo(sm9657776)|
+|&nicovideo(sm7983628)|&nicovideo(sm13177904)|
+|&nicovideo(sm8454655)|&nicovideo(nm4866565)|
+
+**コメント
+- 「あのこはいない」大好きです!!もの凄く惹かれました!!ほかの曲もキイテみたいと思います!!  -- はとまる  (2011-11-06 19:14:11)
+#comment()

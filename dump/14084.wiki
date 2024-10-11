@@ -1,0 +1,36 @@
+#right(){&furigana(さすらいだー)&furigana()【登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186132715.jpg,x=300,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm13230320)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[novel music]]|CENTER:&bold(){サスライダー}|CENTER:[[Little Dreamer>Little Dreamer/CD]]|
+
+|&bold(){[[ヤヅキ]]}|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|>|CENTER:2011年1月16日|
+|価格|CENTER:￥500（税込）|CENTER:￥750（税込）|
+|サークル|CENTER:(仮)とヤヅキ|CENTER:ヤヅキ|
+
+**CD紹介
+-ヤヅキのミニアルバム。全9曲。
+-THE VOC@LOiD M@STER15（ボーマス15）で初頒布。
+
+**曲目
++[[サスライダー]]
++[[ハチミツ]]
++stay
++色塗りぞうさん
++私のお部屋へ
++[[夢に向かってデゥクシ]]
++いばら姫の約束
++[[ボクだけの歌]]
++銀河鉄道
+
+**リンク
+-[[ホワイトキャンバス>>http://www.w-canvas.com/shopping/detail.php?item_id=45533]]
+
+**コメント
+#comment()

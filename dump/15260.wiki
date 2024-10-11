@@ -1,0 +1,44 @@
+#right(){&furigana(いきありP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/17984144" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/17984144">【ニコニコ動画】</a></iframe>)
+
+**特徴
+作り手名：『&u(){異議ありP}』（&u(){いぎありP}）
+-P名の由来は生放送中に「なるほど」と言う発言を「成歩堂」と誤変換してしまったことに由来する。
+-初投稿は2010年3月6日の「ともだちのうた」と言うリンレンオリジナルである。
+-その後、ユキ、ミク（Appendも）・キヨテル・ガチャッポイド等を使用したオリ曲からカバー曲まで幅広く投稿している。
+-またボカロ曲の歌ってみたや「カズー」という管楽器を利用した演奏してみたも投稿している。
+-それだけでなくイラストも提供していたりと多方面でも頑張っている。
+-趣味は英語で、英語のタイトルのものも幾つかある。
+
+**リンク
+-[[円形水槽地下三十二階（作者ブログ）>>http://kumanomixr.exblog.jp/]]
+-[[ピアプロ>>http://piapro.jp/kumanomi]]
+
+**曲
+#list_by_tagsearch(異議ありP,sort=furigana2,errmsg=まだ曲が登録されていません。,and,100)
+
+**CD
+#list_by_tagsearch(異議ありP,sort=furigana2,errmsg=まだCDが登録されていません。,and,100)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm13555511)|&nicovideo(http://www.nicovideo.jp/watch/nm12513591)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm12768461)|&nicovideo(http://www.nicovideo.jp/watch/sm12966996)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm13605822)|&nicovideo(http://www.nicovideo.jp/watch/1300053075)|
+
+**関連タグ内の更新履歴
+#region(close,関連タグ内の更新履歴)
+関連タグ内の更新履歴
+※「異議ありP」「異議ありPCD」タグ内で最近編集やコメントのあった記事を新しい方から10件表示しています。
+#list_by_tagsearch(異議ありP,異議ありPCD,sort=timestamp,sort2=desc,errmsg=まだ曲、CDが登録されていません。,or,10)
+#endregion
+
+**コメント
+- 名前で滾ったｗｗ(逆転裁判好きなのでｗ  -- teru  (2011-05-07 13:50:25)
+- ↑＼(＾＾)人(・ω・)ノなかーま  -- 名無しさん  (2011-07-29 17:25:12)
+- センスやばい  -- 名無しさん  (2011-09-18 20:57:56)
+- 名前でつい、つられました・・・ボカロ好きなので、曲きいてきます。  -- 名無しさん  (2012-02-17 17:40:27)
+#comment()

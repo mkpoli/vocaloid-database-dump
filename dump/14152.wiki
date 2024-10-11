@@ -1,0 +1,30 @@
+#right(){&furigana(まきP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/14904052" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/14904052">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-ボカロPとしての活動の他に、MikuMikuDanceを使った動画の制作も行っている。
+-主に谷山浩子や沢田聖子等のカバー曲を制作しているが、オリジナル曲の「こたつのうた」も投稿している。
+-レンの将来が不安になるのは気のせいでしょうか・・ｗ
+
+**リンク
+-[[徒然愚痴浪漫２>>http://maporo.moe-nifty.com/blog/]]
+-[[徒然愚痴浪漫（旧作者ブログ）>>http://blog.livedoor.jp/maporo/]]
+-[[ピアプロ>>http://piapro.jp/maporo]]
+
+**曲
+#list_by_tag(魔姫★P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(魔姫★PCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm7390271)|&nicovideo(http://www.nicovideo.jp/watch/sm7529585)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7671917)|&nicovideo(http://www.nicovideo.jp/watch/sm7818241)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm8152500)|&nicovideo(http://www.nicovideo.jp/watch/sm8961664)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9374744)|&nicovideo(http://www.nicovideo.jp/watch/sm9785987)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm11373958)|&nicovideo(http://www.nicovideo.jp/watch/sm11589579)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm11760513)|&nicovideo(http://www.nicovideo.jp/watch/sm12079751)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12442089)||
+
+**コメント
+#comment()

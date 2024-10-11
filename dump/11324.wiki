@@ -1,0 +1,33 @@
+#right(){&furigana(nakanoise)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://ext.nicovideo.jp/thumb_mylist/47267381" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/47267381">【ニコニコ動画】movie</a></iframe>)
+
+**特徴
+作り手名：『&u(){nakanoise}』
+-ボカロPとしてのデビュー作は「[[ユビサキ]]」。
+-それ以前はギター演奏者であるキーゲイザー氏としても活動していた。
+-ボカロの他にも、MOTHERやKEY等のゲーム音楽のアレンジもある。
+
+//**リンク
+//-[[nakanoise（作者ホームページ）>>http://nakanoise.biz/]]
+
+**曲
+#list_by_tag(nakanoise,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(nakanoiseCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(nm9734159)|&nicovideo(nm9909720)|
+|&nicovideo(nm10710527)|&nicovideo(nm11076502)|
+|&nicovideo(nm12287455)|&nicovideo(nm12509974)|
+|&nicovideo(nm13577603)|&nicovideo(sm15786491)|
+
+**コメント
+- ギター演奏者であるキーゲイザー氏とのコラボ動画を投稿、と記述してありますけどkeygazerさん=nakanoiseさんですよ  -- 名無しさん  (2010-10-28 19:42:06)
+- ↑そうでしたかｗｗ気づきませんでした。お詫びに特徴の欄を少し修正しました。  -- 名無しさん  (2010-10-28 21:30:25)
+- 動画削除しちゃったか・・・とりあえず彼のバンド応援しようかな・・・  -- 名無しさん  (2013-11-19 16:23:41)
+#comment()

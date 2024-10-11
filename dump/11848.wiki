@@ -1,0 +1,31 @@
+#right(){&furigana(ゆめろけっつりみっくす)&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/489_20100804084832_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Survivor -Manual Edit Ver.-]]|CENTER:&bold(){ユメロケッツ}|CENTER:-|
+
+|&bold(){[[杏あめ（匿名希望の東京都在住）]]}|
+
+発売：2010年8月31日
+価格：￥150
+流通：配信
+レーベル：KarenT
+ジャケットイラスト：匿名希望の東京都在住
+
+|&bold(){[[iTunes Storeで購入>>http://itunes.apple.com/jp/album/id388924305]]}|
+
+**CD紹介
+-初音ミク生誕3周年記念配信シングル。
+-コンピレーションCD『[[Try!]]』で発表した、「[[ユメロケッツ]]」のリミックスを収録。
+-爽快感は前作比2倍！？　銀河の果てまで飛べそうな、キュートでドリーミーなテクノポップナンバー。
+
+**曲目
++ユメロケッツ-Remix- （feat. 初音ミク）
+
+**リンク
+-[[ApricotCandy*（作者ブログ）>>http://anzutokumeikibou.blog96.fc2.com/]]
+-[[KarenT：「ユメロケッツ-Remix-」>>http://karent.jp/album/489]]
+-[[KarenT：「初音ミク 3rd Anniversary」特集ページ>>http://karent.jp/special/miku10]]
+
+**コメント
+#comment()

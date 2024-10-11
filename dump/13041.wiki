@@ -1,0 +1,24 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+//&nicovideo_mylist(ここにマイリストブログパーツのiframe用をコピペ)
+**特徴
+-
+
+**リンク
+-[[Twitter>>http://twitter.com/arp_realizer]]
+
+**曲
+#list_by_tag(arp realizer,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(arp realizerCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/nm13089107)|&nicovideo(http://www.nicovideo.jp/watch/nm12866832)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm11338800)|&nicovideo(http://www.nicovideo.jp/watch/nm11337880)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4723899)|
+
+**コメント
+- もしや、ページを立てられたのはご本人か!?ページの体裁はこちらで直せますので、歌詞などは自由に記述くださいませ～。  -- 名無しさん  (2010-11-17 00:37:59)
+- 本人ですー。wikiがあるなんてはじめて知りました。歌詞はあって無いようなものなんで・・・。体裁の件、ありがとうです！  -- 名無しさん  (2010-11-17 00:40:25)
+- 結局、ruraraだけ歌詞をつけちゃった。  -- 名無しさん  (2010-11-17 01:23:40)
+#comment()

@@ -1,0 +1,37 @@
+#right(){&furigana(clear) &furigana()【登録タグ:&tags() 】}
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[キラキラなコドモ / escaper>キラキラなコドモ／escaper]]（クリキッド）&br()[[crystaL-before-]]（クリスタルP）&br()[[灰雪>灰雪/CD]]（キッドP）|CENTER:&bold(){CK-album- Ver,0.9}|CENTER:[[CKⅠ]]&br()[[嫌い、キライ、…だいきらい。]]&br()[[CKⅠ]]|
+
+|&bold(){[[クリスタルP]]}|&bold(){[[キッドP]]}|[[残鏡P]]|[[れれれP]]|[[ダラリ]]|
+
+発売：2011年1月9日
+流通：即売
+価格：￥500
+サークル：クリキッド
+ジャケットイラスト：シロツグ
+
+**CD紹介
+-クリスタルPとキッドPのユニット「クリキッド」のミニアルバム。
+-オリジナル曲の他、れれれPの「イケ恋歌」のカバーも収録されている。
+-コミックシティ大阪82やTHE VOC@LOiD M@STER 15（ボーマス15）で頒布。
+
+**曲目
++[[エンジェル・ハート]]（LEN vocal）
++-作詞：残鏡P、作曲：キッドP、編曲：クリスタルP
++消えない、雪（full size）
++-作詞：クリスタルP、作曲：キッドP、編曲：クリスタルP
++[[イケ恋歌]]（ck remix）
++-作詞：ダラリ、作曲：れれれP、編曲：クリスタルP
++escaper（2&3Dimension mixture）
++-作詞：クリスタルP、作曲：キッドP、編曲：クリスタルP
++消えない、雪（LEN vocal）
++エンジェル・ハート（KID vocal）
++消えない、雪（Off vocal）
+ 
+**リンク
+-[[クリキッドホームページ>>http://k-kei.versus.jp/ck/]]
+-[[キッドPのサイト>>http://nnds.soudesune.net/]]
+
+**コメント
+#comment

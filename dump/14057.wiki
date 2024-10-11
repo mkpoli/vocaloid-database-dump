@@ -1,0 +1,39 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/622_20101228153931_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[暗夜月想]]|CENTER:&bold(){Snow Quartz}|CENTER:[[Harmony Esmeralda]]|
+
+|&bold(){[[SeikoP]]}|
+
+||CENTER:即売|CENTER:同人|CENTER:配信|
+|発売|CENTER:2010年12月31日|CENTER:2011年1月|CENTER:2011年1月21日|
+|価格|CENTER:￥500|CENTER:￥630（税込）|CENTER:￥600 / 1曲￥150|
+|サークル|>|>|CENTER:ぺりほん。|
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/snow-quartz/id414411494]]}|
+
+**CD紹介
+>透明な声が輝き、重なる旋律―
+
+-2010年冬コミ（C79）で頒布された、SeikoPのアルバム。
+-先行で発表された「Snow Quartz」、VY1でのセルフカバーとなる「風の嗣子」の他に、[[桃木真美>>http://peachild.ifdef.jp/]]氏が歌う3曲も収録している。
+-作詞に天鏡氏、ジャケットイラストを[[卯月なごや>>http://piapro.jp/ratix]]氏、デザインをあい。氏が担当している。
+-D-STAGEとメロンブックスにて委託販売が、KarenTレーベルよりダウンロード販売が行われる。
+
+**曲目
++[[Snow Quartz]] （feat. 巡音ルカ）
++[[風の嗣子]] （VY1）
++[[月翅]] （feat. 桃木真美）
++風の嗣子 （feat. 桃木真美）
++[[玻璃の海]] （feat. 桃木真美）
+
+**リンク
+-[[作者ブログ>>http://sei-peri.seesaa.net/]]
+-[[特設ページ>>http://perihon.ifdef.jp/c79/snow_quartz.html]]
+-[[D-STAGE>>http://d-stage.com/shop/detail.php?seq=11905]]
+-[[メロンブックス>>http://shop.melonbooks.co.jp/shop/list/?DA=disporder&MF=%E3%81%BA%E3%82%8A%E3%81%BB%E3%82%93%E3%80%82&ST=0&SC=0&G=&E=&CR%5B%5D=0&O=last_arrival_desc&P=10&DS=desc]]
+-[[KarenT>>http://karent.jp/album/622]]
+
+**コメント
+#comment()

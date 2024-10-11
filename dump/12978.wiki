@@ -1,0 +1,68 @@
+#right(){&furigana()&furigana()【登録タグ:&tags()】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(nm12739847)|
+作詞：[[MineK]]
+作曲：[[MineK]]
+編曲：[[MineK]]
+唄：[[がくっぽいど]]・[[MEIKO]]
+
+**曲紹介
+-MEIKO生誕祭2010で発表された楽曲。
+-アルバム『[[Spirit and Love>Spirit and Love/CD]]』タイトルナンバー。
+
+**歌詞
+//（[[引用元のサイト>>引用元のURL]]より転載）
+きっとキミとボクの2人のこの魂はずっと行き先を探し続ける
+愛という名の終わり無きterminal station
+
+きっとキミとボクの2人のこの出会いは偶然なんかじゃないから
+もし　引き裂かれても心は繋がってるよ　Spirit and Love
+
+&font(red){真紅に染まるドレスをまとい誘惑の扉開けてみる}
+&font(purple){心も体も汚れた過去も全てを洗い流して}
+
+&font(red){ワタシの頬を触れる貴方の指先に心奪われて}
+&font(purple){妖艶に光る宝石のようなキミの瞳に吸い込まれて}
+
+&font(red){唇を伝うワインの}
+甘い香りに導かれ
+&font(purple){そのまま}
+深い場所へ runaway
+
+きっとキミとボクの2人のこの魂はずっと行き先を探し続ける
+愛という名の終わり無きterminal station
+
+きっとキミとボクの2人のこの出会いは偶然なんかじゃないから
+もし　引き裂かれても心は繋がってるよ　Spirit and Love
+
+&font(purple){信じる事も裏切る事も全てがただの偽りさ}
+&font(red){繋いだ指も途切れた糸も全てが記憶の片隅へ}
+
+&font(purple){今を生きる意味が}
+お互いのぬくもりならば
+&font(red){そのまま}
+快楽へfaraway
+
+きっとキミとボクの2人のこの魂はずっと行き先を探し続ける
+愛という名の終わり無きterminal station
+
+きっとキミとボクの2人のこの出会いは偶然なんかじゃないから
+もし　引き裂かれても心は繋がってるよ　Spirit and Love
+
+&font(purple){唇重ねる度に}
+魂が同化するような
+&font(red){錯覚に}
+引き込まれてfade away
+
+きっとキミとボクの2人のこの魂はずっと行き先を探し続ける
+愛という名の終わり無きterminal station
+
+きっとキミとボクの2人のこの出会いは偶然なんかじゃないから
+もし　引き裂かれても心は繋がってるよ　Spirit and Love
+
+
+**コメント
+#comment()

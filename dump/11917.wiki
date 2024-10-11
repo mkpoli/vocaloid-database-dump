@@ -1,0 +1,45 @@
+#right(){&furigana(わんおほvol03)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+
+&ref(http://karent.jp/npdca/579_20101113172754_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[マイレイン]]|CENTER:&bold(){ワン★オポ！vol.03}|CENTER:[[MIDI MASTER!!]]|
+
+|&bold(){[[マイナスP]]}|&bold(){[[じーざすP]]}|
+
+||CENTER:即売|CENTER:同人|CENTER:配信|
+|発売|CENTER:2010年9月19日|CENTER:2010年10月|CENTER:2010年12月27日|
+|価格|CENTER:￥500|CENTER:￥700（税込・タップ）&br()￥735（税込・他店）|CENTER:￥600 / 1曲￥150|
+|サークル|>|>|CENTER:ワンダフル☆オポチュニティ！|
+|ジャケットイラスト|>|>|CENTER:[[SHARK]]（[[piapro>>http://piapro.jp/shark_a]]）|
+
+**CD紹介
+CD名：『&u(){ワン★オポ！vol.03}』
+-マイナスP、じーざすPによる同人サークル「Wonderful★Opportunity!（ワンダフル☆オポチュニティ！）」の3rdCD。
+-今作は5曲入りミニアルバム。
+-2010年9月19日開催の鏡音リンレンオンリーイベント、鏡音びより！で頒布される。
+-タップにて『ワン★オケ！vol.01』（オフボーカルCD）と共に委託販売が行われている。その後とらのあなやD-STAGEでも委託販売が始まる（こちらは『ワン★オケ！』は無し）。
+-KarenTの鏡音リン・レン3周年記念企画によりダウンロード販売も始まった。
+
+**曲目
++[[自走式V型拾六気筒ヒューマノイド「鏡音」GT-R>自走式V型拾六気筒ヒューマノイド[鏡音]GTR]] / じーざすP feat. 鏡音リン・鏡音レン
++[[Black Rebel]] / マイナスP feat. 鏡音リン
++[[かがPIYO！]] / じーざすP feat. 鏡音リン・鏡音レン
++[[マイレイン]] / じーざすP feat. 鏡音リン
++Frozen world / マイナスP feat. 鏡音リン
+
+**リンク
+-[[ワンオポ！（作者ブログ）>>http://wonderfuloppotunity.seesaa.net/]]
+-[[タップ>>http://sign-tap.ocnk.net/product/106]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/24/78/040010247800.html]]
+-[[D-STAGE>>http://d-stage.com/shop/detail.php?seq=18884]]
+-[[KarenT：「ワン★オポ！vol.03」>>http://karent.jp/album/579]]
+-[[KarenT：「鏡音リン・レン祭'10」特集ページ>>http://karent.jp/special/rinlen10]]
+
+**コメント
+- 新作待ってましたー!!　絶対買いに行きます（＞＜）♪  -- 名無しさん  (2010-09-12 11:15:42)
+#comment()

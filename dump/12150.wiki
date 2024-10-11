@@ -1,0 +1,28 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/15997221" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/15997221">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-ロック、とりわけハードロック中心に楽曲を発表している。
+-ルカ曲が多数を占めるが、ミク曲も作っている。
+-代表作は「Only Goddess Knows」、全編英語詞のメタルである。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/takkwylde]]
+
+**曲
+#list_by_tag(Takk=Wylde,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(Takk=WyldeCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm8909653)|&nicovideo(http://www.nicovideo.jp/watch/sm9133898)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9256611)|&nicovideo(http://www.nicovideo.jp/watch/sm10100745)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm10384889)|&nicovideo(http://www.nicovideo.jp/watch/sm11340375)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm11942358)|&nicovideo(http://www.nicovideo.jp/watch/sm14905326)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm14979125)|&nicovideo(http://www.nicovideo.jp/watch/sm15036677)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm15965285)||
+
+**コメント
+- Only Goddess Knows、なぜ代表曲なのに英語歌詞ないんだ・・もっとこの人は評価されてほしい  -- 黒葉  (2013-01-15 10:51:40)
+#comment()

@@ -1,0 +1,20 @@
+#right(){&furigana(みつばち)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/15558109" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/15558109">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-作詞家の作り手。
+-[[No-H]]氏や[[少々P]]とのコラボが多いが、他のPともコラボの実績がある。
+-代表作に「[[初雪草歌]]」がある。
+
+**リンク
+-[[ピアプロ>>http://piapro.jp/hb38]]
+
+**曲
+#list_by_tag(蜜蜂,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(蜜蜂CD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**コメント
+- 追加乙です！  -- いじめられて私立を退学したドS  (2016-09-22 11:36:04)
+#comment()

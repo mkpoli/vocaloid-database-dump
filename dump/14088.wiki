@@ -1,0 +1,46 @@
+#right(){&furigana(clear)&furigana()【登録タグ:&tags()】}
+&nicovideo(http://www.nicovideo.jp/watch/sm11733209)
+作詞：[[innisfree]]
+作曲：shigeki kimura（[[snowy*]]）
+編曲：shigeki kimura（[[snowy*]]）
+ミックス：[[innisfree]]
+唄：鏡音リン
+
+**曲紹介
+-さわやかにシンプルに、そしてやわらかくあたたかく。そんなふうにして、心に届いたらうれしいです。（作者コメ参照）
+
+**歌詞
+（[[ピアプロ>>http://piapro.jp/content/t5nqedknuqc65yv7]]）
+
+何をそんな強がってるの？　何も怖くないから
+心の殻 脱ぎ捨てちゃって　おいでよ　ここにいるから
+
+君の影　今この歌で　洗い流すように　燦々と
+響け　Ding-Dong Ding-Dong と鳴る鐘の音にあわせて
+
+何をそんな怖がってるの？　誰も強くないから
+寄り添いあっていけばいいんだ　おいでよ　そばにいるから
+
+君の夢　今この歌で　輝き増すように　キラキラと
+響け　Ding-Dong Ding-Dong と鳴る鐘の音にあわせて
+
+
+きっと来る　顔を上げて
+ステキな日々が　君を待ってる
+
+
+すべての影　今この歌で　洗い流すように　燦々と
+響け　Ding-Dong Ding-Dong と鳴る鐘の音にあわせて
+
+君の夢　今この空へ　羽ばたいてゆける　高々と
+響け　Ding-Dong Ding-Dong と鳴る鐘の音にあわせて
+
+
+lalalala…
+　
+どこまでも 翼を拡げ　
+　
+空翔る 鳥のように
+
+**コメント
+#comment()

@@ -1,0 +1,40 @@
+#right(){&furigana(こいはきっときゅうじょうしょう)&furigana()【登録タグ:&tags() 】}
+
+&ref(https://static.wixstatic.com/media/f7b40d_98e94bd2e4c64b71b31839e1f566e44c~mv2.jpg,x=300,y=300)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[ROVE]]|CENTER:&bold(){恋はきっと急上昇☆}|CENTER:[[Ecstasy]]|
+
+|&bold(){[[のぼる↑]]}|[[アイス芋P]]|
+
+||CENTER:即売|CENTER:同人|
+|発売|CENTER:2009年9月6日|CENTER:2009年9月|
+|価格|CENTER:￥500|CENTER:￥735（税込）|
+|サークル|>|CENTER:REONAlD|
+
+**CD紹介
+-『あなたとにゃんにゃんしたい―――』&br()ギタリストとして最も無名なのぼる↑がデスメタルに挑戦？&br()ニコニコ動画で公開した騒然のニュージャンル【です☆めた】が、 誰も待望していないのについにシングルカット！ ボーマスで9にて頒布開始。
+-5曲＋カラオケ4曲の計9トラックを収録。
+-ジャケットイラストは壳氏。
+-THE VOC@LOiD M@STER 9（ボーマス9）で頒布。その後D-STAGE、とらのあなで委託販売が行われた。
+
+**曲目
++[[恋はきっと急上昇☆]] / GUMI
++恋のスケジュール / 初音ミク
++アリガトウ / KAITO
++[[初音ミクの憂鬱]] ～ミクの気持ちを代弁してみた～ / [[nayuta>>https://w.atwiki.jp/nicoutaiteranking/pages/504.html]]
++恋はきっと急上昇☆ / 初音ミク
++恋はきっと急上昇☆ -inst-
++恋のスケジュール -inst-
++アリガトウ -inst-
++初音ミクの憂鬱 -inst-
+
+**リンク
+-[[作者サイト>>http://www.reonald.com/]]
+-[[特設ページ>>http://www.reonald.com/koi/index.html]]
+-[[D-STAGE>>http://d-stage.com/shop/detail.php?seq=10869]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/19/66/040010196629.html]]
+
+**コメント
+- のぼるさんのKAITO・・・！？  -- 名無しさん  (2014-12-06 16:18:37)
+#comment()

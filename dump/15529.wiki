@@ -1,0 +1,108 @@
+#right(){&furigana(ぎんがほうめんP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/24618056" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/24618056">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-アーティスト名は &b(){TakaJ-Boy}。
+-実は、中の人は音楽家の &bold(){神野貴志}氏 。正真正銘、プロの仕業である。
+-2010年10月、「好きだよっ」でボカロデビュー。
+-2作目の「銀河の片隅で」以降4ヶ月のブランクがあったが、「好きだよっ」の完成版から速めのペースで曲を投稿するようになった。
+-なお、P名の由来は、2曲目の歌詞の内容から。
+-13作目の「[[月・影・舞・華]]」で遂に、自身初の殿堂入りを達成。
+-親しみやすいメロディと高度なアレンジテクニックを駆使して和風曲からロック、R&Bソウル、美しいバラードまで幅広い作品を発表している。
+-使用ボカロは今のところ、ミク・GUMI・miki・いろは・ギャラ子・ZOLA PROJECT・ゆかり。
+-自らがイラストや動画を手がけることもある。
+-現在の殿堂入り楽曲は「[[月・影・舞・華]]」「[[恋は気まぐれイリュージョン！！]]」「[[黄昏ゆく想い]]」「[[ハダカの女王様]]」
+-2014年7月25日には、自身初となるソロベストアルバム「[[Prhythm☆Star]]」がメジャーで発売された。
+-2017年3月21日、「月・影・舞・華」にて自身初の[[ミリオン>曲一覧/ミリオン曲一覧]]達成。
+
+**ミリオン達成状況
+|CENTER:&bold(){曲名}|CENTER:&bold(){100万再生}|CENTER:&bold(){備考}|
+|[[月・影・舞・華]]|2017年3月21日||
+
+**リンク
+-[[公式ホームページ>>http://studiopeppermint.web.fc2.com/]]
+-[[作者ブログ（銀河方面P(たかぴ)のブログ）>>http://ameblo.jp/studiopeppermint/]]
+-[[YouTube>>http://youtube.com/user/STUDIOPeppermint/]]
+-[[facebook>>https://www.facebook.com/gingahoumenp.official]]
+-[[ピアプロ>>http://piapro.jp/Taka_J_Boy]]
+-[[Twitter>>http://twitter.com/gingahoumenp]]
+
+**曲
+#list_by_tag(銀河方面P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(銀河方面PCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画・セルフカバー
+|&nicovideo(http://www.nicovideo.jp/watch/sm12838384)|&nicovideo(http://www.nicovideo.jp/watch/sm13923509)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm14079570)|&nicovideo(http://www.nicovideo.jp/watch/sm14124253)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm14261702)|&nicovideo(http://www.nicovideo.jp/watch/sm14505165)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm14844024)|&nicovideo(http://www.nicovideo.jp/watch/sm15085113)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm15487761)|&nicovideo(http://www.nicovideo.jp/watch/sm15686498)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm15822873)|&nicovideo(http://www.nicovideo.jp/watch/sm15959367)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm16121389)|&nicovideo(http://www.nicovideo.jp/watch/sm16179659)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm16364877)|&nicovideo(http://www.nicovideo.jp/watch/sm16870655)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm17235354)|&nicovideo(http://www.nicovideo.jp/watch/sm17373315)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm17502282)|&nicovideo(http://www.nicovideo.jp/watch/sm17736407)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm17844658)|&nicovideo(http://www.nicovideo.jp/watch/sm17888402)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm18193314)|&nicovideo(http://www.nicovideo.jp/watch/sm18556224)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm19308976)|&nicovideo(http://www.nicovideo.jp/watch/sm19746671)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm20497047)|&nicovideo(http://www.nicovideo.jp/watch/sm20889708)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm21585518)|&nicovideo(http://www.nicovideo.jp/watch/sm22227246)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm22316118)|&nicovideo(http://www.nicovideo.jp/watch/sm22869685)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm23058759)|&nicovideo(http://www.nicovideo.jp/watch/sm23086190)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm24909707)|&nicovideo(http://www.nicovideo.jp/watch/sm25548291)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm25766110)|&nicovideo(http://www.nicovideo.jp/watch/sm26565762)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm26572295)|&nicovideo(http://www.nicovideo.jp/watch/sm26701006)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm29128018)|&nicovideo(http://www.nicovideo.jp/watch/sm29837380)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm30142889)|&nicovideo(http://www.nicovideo.jp/watch/sm30277005)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm30402449)|&nicovideo(http://www.nicovideo.jp/watch/sm30822057)|
+|&nicovideo(sm31845032)|&nicovideo(sm32461412)|
+|&nicovideo(sm33792684)|&nicovideo(sm34363188)|
+//|&nicovideo()|&nicovideo()|
+
+**コメント
+- お気に入りに5曲溜ってるから見に来たらやっぱりプロの方でしたか…  -- ミクに  (2011-06-11 10:48:25)
+- JOYSOUND全曲配信決定だって！凄い！  -- 名無しさん  (2012-01-05 04:28:06)
+- 良曲だらけだけど以前みたいにオサレな曲も作って欲しい  -- 名無しさん  (2012-01-06 19:00:25)
+- 色々なタイプの曲作ってるけどどの曲も外れなしで流石です  -- カササギ  (2012-01-11 20:38:48)
+- 大好きだー全曲オススメみんな聞いてみて  -- 名無しさん  (2012-02-15 10:42:13)
+- この方、モバゲーにいたような…  -- 神無  (2012-02-21 01:14:25)
+- いい曲多いよね  -- 名無しさん  (2012-02-26 01:59:59)
+- 曲リストに恋は気まぐれイリュージョン！！が無いのは何故？ｗ  -- 名無しさん  (2012-04-15 17:24:20)
+- CDリストにSuperGumixIllusionも入れてくれ！  -- 名無しさん  (2012-04-15 17:28:26)
+- 好きな曲ばかりなのでもっと評価されるべき  -- 名無しさん  (2012-11-19 16:44:37)
+- ボカロ界屈指のメロディーメーカー  -- 名無しさん  (2013-01-07 15:07:06)
+- 月・影・舞・華しか知らない人はマイリス巡回おすすめ  -- 名無しさん  (2013-01-07 15:50:40)
+- この人の場合曲が凄くいいので下手にPVつけるよりも一枚絵の方が曲が引き立つと思う  -- 名無しさん  (2013-03-15 10:33:01)
+- ヘタリアのキャラソン作曲したの？  -- 名無しさん  (2013-04-10 12:31:57)
+- ヘタリアCDまで手掛けるとは…流石です!!  -- 邦姫  (2013-04-12 07:55:37)
+- 流行りの物語曲とかと違って汎用性高い曲が多いから企業も使いやすいんだろね  -- 名無しさん  (2013-04-13 13:48:02)
+- 「銀河」を曲に入れてください！！  -- 朱雀  (2013-05-10 23:22:27)
+- APHの日本さんのキャラソンで知りました！これからマイリス巡回してきます!!  -- 闇唄蓮音  (2013-05-13 21:26:24)
+- いい曲だらけなのに過小評価されすぎ  -- 名無しさん  (2013-05-28 13:29:52)
+- 流行とは一線を画する何時の時代も愛されるような曲を書くP  -- 名無しさん  (2013-05-28 13:32:03)
+- 純粋な音楽として楽しめる曲を作れる数少ないボカロPになっちゃったなｗ応援してるから間違っても物語曲なんかに走るなよ！ｗ  -- 名無しさん  (2013-06-22 21:18:40)
+- きみの声がきこえるよが一番すき！  -- 名無しさん  (2013-07-09 10:12:08)
+- ↑あの曲いいよね！Pのミクへの愛をすごく感じる  -- 名無しさん  (2013-07-18 13:11:06)
+- ああ..プロの仕業だったか...もっと評価されて良い筈  -- ↑3同意  (2013-07-20 19:23:16)
+- 個人的にハダカの女王様とかよりも片想いの街路樹とか黄昏ゆく想いとかみたいな曲の方が好き  -- 名無しさん  (2013-07-24 19:44:26)
+- もっと評価されてほしいなぁ  -- ↑５同意  (2013-07-25 22:32:20)
+//- 俺この人とゲームでフレンドだ～  -- しーたけ  (2013-07-29 18:25:35)
+- 曲の引き出しがものすごく多いからマイリス巡回しても飽きない  -- 名無しさん  (2013-11-03 19:06:58)
+- 未来Treasureと笑顔にRAINBOWが凄くよかった  -- 名無しさん  (2013-12-02 14:30:14)
+- どれも流石のクオリティだけどある程度作風固定しないと固定ファンつかないと思う  -- 名無しさん  (2013-12-04 00:39:06)
+- 浅倉杏美に提供してた曲凄くよかったです！！  -- 名無しさん  (2013-12-22 00:16:23)
+- 未来Treasureとか凄くいいのになんでこの人評価されないの？  -- 名無しさん  (2013-12-22 00:18:59)
+- このPこそまさにプロの犯行！  -- 名無しさん  (2014-01-03 12:26:59)
+- エクセントリックwが追加されてない？  -- 名無しさん  (2014-02-16 11:05:30)
+- 曲のクオリティは折り紙つきなのに何故人気ないんだろ？  -- 名無しさん  (2014-03-11 15:29:38)
+- プロだったんだ…道理でいい曲が多いと。  -- 孤虚者  (2014-06-06 19:32:09)
+- この人曲のバリエーションが広いのが災いして固定ファンが居ない典型的なPだよね  -- 名無しさん  (2014-07-22 15:01:18)
+- 銀河方面Pは良曲しかない！応援しています！  -- 名無しさん  (2014-08-05 21:52:46)
+- 和風のイメージが強いけどそれ以外の曲もすごくいい  -- 名無しさん  (2014-08-14 19:08:08)
+- ベストアルバム毎日聞いてます！  -- 名無しさん  (2014-08-24 22:14:45)
+- 応戦してるよ！！  -- 名無しさん  (2015-06-07 15:09:14)
+- 新曲更新止まっとるねｗ  -- 名無しさん  (2017-01-07 23:13:37)
+- 祖国のキャラソンの人だ  -- 名無しさん  (2017-02-20 21:40:08)
+#comment()

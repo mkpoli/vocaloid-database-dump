@@ -1,0 +1,30 @@
+#right(){&furigana(はうらP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/4243939" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/4243939">【ニコニコ動画】ﾐｸﾐｸ（3939）マイリスト</a></iframe>)
+
+**特徴
+作り手名：『&u(){葉浦P}』（&u(){はうらP}）
+-デビュー作は「[[White Lights]]」。
+-2作目「[[桜色の時間]]」から長くブランクがあったが、2010年9月27日「[[風のハーモニー]]」を投稿。
+
+**リンク
+-[[ニコニコ>>https://www.nicovideo.jp/user/4314521]]
+-[[ピアプロ>>https://piapro.jp/SOUND_Leaf]]
+
+**曲
+#list_by_tag(葉浦P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(葉浦PCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm1944253)|&nicovideo(sm2167810)|
+|&nicovideo(sm12016444)|&nicovideo(sm12076226)|
+|&nicovideo(sm12250109)|>|
+
+**コメント
+- もう活動されないのかな・・・  -- 名無しさん  (2018-02-12 11:57:37)
+#comment()

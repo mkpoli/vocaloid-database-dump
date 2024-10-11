@@ -1,0 +1,53 @@
+#right(){&furigana(RoundGoRoundこへるにくすのゆううつ)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo(http://www.nicovideo.jp/watch/sm10559831)
+作詞：[[北森耕太郎]]
+作曲：[[tomoya]]
+編曲：[[tomoya]]
+イラスト：[[NGT moke]]（[[piapro>>https://piapro.jp/NGT_moke]]）
+唄：[[初音ミク]]
+
+**曲紹介
+曲名：『&u(){Round Go Round～コペルニクスの憂鬱}』(&u(){ラウンド ゴー ラウンド～コペルニクスのゆううつ})
+-tomoya氏による初音ミク歌唱楽曲。
+--初音ミクAppend・Sweet使用。
+--PVイラストはNGT moke氏のpiaproより『[[初音ミク　アペンド　パッケージアート　トレス画>>https://piapro.jp/t/MWZj]]』。
+-どこか懐かしいメロディーと歌詞の世界観が特徴の一曲。
+
+**歌詞
+（[[ピアプロ>>http://piapro.jp/content/cjhnqlj4oejhhclg]]より転載）
+
+滲んだ空から 溢れ出す星 舞い降りてく
+ひとり溜息漏らすスピカ アルクトゥルスの苦笑い
+流星はもう 見えない場所
+
+round go round 今夜もまた
+学者たちの饗宴を 見守るだけ窓の外
+指くわえて
+
+回る 回る 地球 幾億の
+光の果てだってつながるよ
+
+たたずむ窓辺に レンズの割れた望遠鏡
+春の星座をひとすくい 銀のスプーンでかきまぜて
+古ぼけた部屋 かすか映す
+
+bound go bound のけ者でも
+天穹まであと少し 大曲線越えていく
+千夜の夢
+
+巡る 巡る 軌跡 光年の
+遠い闇に白く輝くよ
+響く 響く 鼓動 どこまでも
+熱い想いそっと届けるよ
+
+そうさ 回る 回る 地球 幾億の
+光の果てだってつながるよ
+照らす 照らす 無限 信じてる
+長い夜の隅で微笑むよ
+
+**コメント
+#comment()

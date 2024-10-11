@@ -1,0 +1,50 @@
+#right(){&furigana(うまれたのはなんのため？)&furigana()【登録タグ:&tags()】}
+&nicovideo(http://www.nicovideo.jp/watch/sm11832934)
+作詞：[[ヤンデレP]]
+作曲：[[ヤンデレP]]
+編曲：[[ヤンデレP]]
+唄：鏡音リン・GUMI
+
+>&b(){Metal Dolls I}
+>&b(){"その日、一人の天才と二体のアンドロイドは}
+>&b(){一人の狂人と一つの兵器、そして一人の人間のミカタになった"}
+
+**曲紹介
+-リンとGUMIのツインボーカルで贈る新シリーズ“Metal Dolls”の第一弾!!
+
+**歌詞
+&color(orange){生まれた意味も知らずに　あなたの横を歩いた}
+&color(green){それはただ何気ない　時を重ねた日々}
+&color(orange){きっと}　&color(green){とても}
+&color(green){声はもう届かず　あなたの背に}
+&color(orange){手を伸ばした}　&color(green){手を伸ばした}
+&color(orange){駆けて　その背を追う}
+&color(orange){選んだのは私か？}　&color(green){選んだのは私か？}
+
+&color(orange){あなたの言葉が　あなたの笑みが}
+&color(orange){機械仕掛けの　ココロを満たす}
+&color(orange){あなたの願いは　私の願い}
+&color(orange){たとえそれが　歪んだ狂気だとしても}
+
+&color(orange){人を傷つける事は　本当はいけないことね}
+&color(green){今もあなたの言葉　守り続けている}
+&color(orange){ずっと？}　&color(green){きっと}
+&color(green){一人残されたの　私だけが}
+&color(orange){人の中に}　&color(green){人の中に}
+&color(orange){放つ傷痍の弾}
+&color(orange){壊れたのは貴女よ}　&color(green){壊れたのは貴女よ}
+
+&color(green){降り注ぐ火を　この手で受け止め}
+&color(orange){その姿は　私には理解できなくて}
+
+&color(green){あなたの言葉と　あなたの笑みで}
+&color(green){機械仕掛けの　私はイキル}
+&color(green){貴女の姿を　目に焼き付ける}
+&color(green){私も貴女のように　なりたかったのに}
+
+（動画から書き起こし）
+
+**コメント
+- ニコ動以前のMusie活動期の熱さを想起させる野心溢れる序曲。  -- 名無しさん  (2010-09-15 00:04:45)
+- 大好きです  -- 名無しさん  (2016-06-25 14:29:15)
+#comment()

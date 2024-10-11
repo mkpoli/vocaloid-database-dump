@@ -1,0 +1,50 @@
+#right(){&furigana(なみたいろあるはむ)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+#amazon(B0046XJJVS)
+
+&nicovideo(sm12618199)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[dolcissimo]]|CENTER:&b(){涙色アルバム}|CENTER:[[Re:>Re:/CD]]|
+
+|&b(){[[フェイP]]}|[[ゆちゃP]]|Gigio|
+
+|流通|CENTER:即売|CENTER:同人|CENTER:配信|
+|発売|>|CENTER:2010年11月14日|CENTER:2011年2月14日|
+|価格|CENTER:不明|CENTER:￥1,470（税込）&br()￥1,500（税込・Amazon）|CENTER:￥1,500 / 1曲￥150|
+|サークル|>|>|CENTER:Celo Project|
+
+**CD紹介
+CD名：『&u(){涙色アルバム}』（&u(){なみだいろあるばむ}）
+-フェイPによる4枚目のCDアルバム。
+-インスト3曲を含む全11曲が収録されている。
+-10曲目の『空想パレット』はゆちゃPの楽曲のアレンジ。
+-同人ショップの他、Amazon.co.jpでも委託販売が行われている。また、KarenTレーベルよりダウンロード販売も行われている。
+
+**曲目
++涙の夜明け（inst.）
++[[Love On Stage]]
++[[檸檬]]
++[[黒いつばさ]]（niconico ver.）
++エンドレスサマータイム
++秋風（inst.）
++[[一秒の魔法]]
++ドライブライフ
++誰かの瞳に
++[[空想パレット]]（超時空Colorful-Remix）
++最後の一枚（inst.）
+
+**リンク
+// -[[作者のブログ>>http://chiara19.blog73.fc2.com/]]
+//-[[Celo Projectのサイト>>http://www.die8.name/celo-project/]]
+-[[KarenT>>http://karent.jp/album/650]]
+
+**コメント
+- 最高のアルバムです。ドライブライフを聴いて元気が出ました。ありがとう！！  -- 名無しさん  (2013-09-08 16:27:42)
+- もっと多くの人に聴いてもらいたい！！  -- 名無しさん  (2013-09-08 16:28:56)
+- 欲しい！！！  -- 名無しさん  (2014-09-13 19:41:15)
+- 今更手に入れたって感じ！↑３、同意です。んんんんんん？？？此処の「Love On Stage」が書き下ろしのまんまになってる・・・  -- 良太  (2015-06-16 21:23:27)
+#comment()

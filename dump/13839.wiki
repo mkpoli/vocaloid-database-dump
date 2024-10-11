@@ -1,0 +1,82 @@
+#right(){&furigana(emonTes)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/19849912" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/19849912">【ニコニコ動画】</a></iframe>)
+
+**特徴
+作り手名：『&u(){emon（Tes.）}』(&u(){えもん（てす）})
+-2010年6月、「[[8760センチメンタル]]」にてボカロデビュー。
+-ボカロデビュー当時は、3人組テクノポップユニット「Tes.」として大阪で活動していたが、現在ではボカロでの音楽活動に専念している。
+-使用ボカロは今のところ、ルカ・ミク・リン・レン・GUMI・IA 。
+-「[[ジュリエッタとロミヲ]]」で自身初の殿堂入りを達成。その後はコンスタントにヒット作を輩出している。
+-特に「[[Heart Beats]]」「[[shake it！]]」「[[too Cute!]]」の3曲については、踊ってみた動画やMMD動画などで振り付け課題曲として絶大な人気を誇っている。
+-殿堂入りした楽曲は以下の通り。(編曲のみの楽曲も含む)&br()「&list_by_tagsearch(emon（Tes.）,殿堂入り,sort=furigana,option=nolist,nolistspace=」「,100)」
+-2017年9月21日に、「shake it！」が自身初の[[100万再生>曲一覧/ミリオン曲一覧]]を達成した。
+
+**ミリオン達成状況
+|CENTER:&bold(){曲名}|CENTER:&bold(){100万再生}|CENTER:&bold(){200万再生}|CENTER:&bold(){備考}|
+|[[shake it！]]|2017年9月21日|2023年1月26日||
+
+**リンク
+//-[[Tes.公式サイト>>http://www.tesmusic.net/]]
+-[[PIAPRO>>http://piapro.jp/emon0316]]
+-[[Twitter>>http://twitter.com/emon316]]
+-[[YouTube>>http://www.youtube.com/channel/UCQS8TAEfaDhnU-L5oZ5Mj5A]]
+-[[Bilibili>>https://space.bilibili.com/443981381]]
+-[[ニコニコ大百科（単語記事）>>https://dic.nicovideo.jp/a/emon%28tes.%29]]
+
+**曲
+#list_by_tag(emon（Tes.）,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(emon（Tes.）CD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm10981940)|&nicovideo(sm11134936)|
+|&nicovideo(sm11537373)|&nicovideo(sm12029867)|
+|&nicovideo(sm12118254)|&nicovideo(sm12334645)|
+|&nicovideo(sm13008824)|&nicovideo(sm13261998)|
+|&nicovideo(sm13282962)|&nicovideo(sm13546522)|
+|&nicovideo(sm14386853)|&nicovideo(sm14584980)|
+|&nicovideo(sm14679230)|&nicovideo(sm15032299)|
+|&nicovideo(sm15427741)|&nicovideo(sm15744975)|
+|&nicovideo(sm16187973)|&nicovideo(sm16833058)|
+|&nicovideo(sm17608134)|&nicovideo(sm19490202)|
+|&nicovideo(sm20664010)|&nicovideo(sm21047920)|
+|&nicovideo(sm21550098)|&nicovideo(sm22522722)|
+|&nicovideo(sm22599577)|&nicovideo(sm23294977)|
+|&nicovideo(sm24229348)|&nicovideo(sm24399664)|
+|&nicovideo(sm28403900)|&nicovideo(sm33640380)|
+|&nicovideo(sm33777331)|&nicovideo(sm34565879)|
+|&nicovideo(sm35129416)|&nicovideo(sm35610357)|
+|&nicovideo(sm36046983)|&nicovideo(sm36080336)|
+|&nicovideo(sm36946169)|&nicovideo(sm37342975)|
+|&nicovideo(sm37733324)|&nicovideo(sm38217206)|
+|&nicovideo(sm39541853)|&nicovideo(sm40194038)|
+|&nicovideo(sm40367895)|>|
+
+**コメント
+- いつのまにemonさんのページが...　感謝！！！まじでemonさん好きだからありがたい  -- kr  (2011-01-04 03:15:52)
+- 待ちわびた！  -- 名無し×リグル  (2011-01-05 21:37:47)
+- 大好きです!!　嬉しすぎる!  -- 名無し  (2011-01-30 00:43:03)
+- Emonさん神!!  -- りさ  (2011-03-22 21:12:39)
+- emonさんのルカ曲大好き！聴いてると自然と元気になれる！7daysとHeart Beartsはヘビロテしてます！  -- 名無しさん  (2011-04-28 23:58:05)
+- のはぁ・・・プロだったのか！納得、  -- 名無しさん  (2011-08-07 15:06:47)
+- CDの他Pのリミックスも必聴  -- 名無しさん  (2011-12-11 22:35:48)
+- 静電気。とジュリエッタとロミヲって同じ人だったのか  -- 名無し  (2011-12-12 23:36:47)
+- emonさんの曲好きすぎる(≧∀≦)  -- 名無しさん  (2012-02-06 12:29:30)
+- Emonさんのアルバム、叔父に貸してもらって本っ当によかったです&#8252;&#8252;  -- 蒼ヒナ  (2012-05-21 23:28:48)
+- 素敵ｻｳﾝﾄﾞﾒｰｶｰ[ｷﾗｷﾗ]  -- 雪りん  (2013-03-29 18:41:30)
+- shake it！はこれからもっと評価されてくるはず・・！Heart Beats好きです！  -- 黒葉  (2013-12-02 10:25:08)
+- 「どりーみんチュチュ」が可愛すぎてリピートが止まりません助けて  -- 名無しさん  (2014-08-29 11:32:46)
+- shake it !ライブで流れてた！感動っ！  -- 知葉  (2014-10-06 15:51:18)
+- プロのemonさんにアマチュアのボカロPたちが立ち向かっても敵わないわけだ、どうりで  -- 名無しさん  (2014-12-05 00:06:26)
+- ミク10thのイオンモール福岡でのイベントでDJライブ行きました！最高でした！  -- ツクシテントウ  (2017-06-26 00:18:05)
+- 少女終末旅行のED良かった  -- 名無しさん  (2017-10-24 01:44:17)
+- むてきpop最高でした！  -- 名無しさん  (2018-09-01 14:03:59)
+- emonさんの作るメロディーラインがすごくすごく好きです  -- 名無しさん  (2019-12-05 09:45:49)
+- 衛門？  -- 名無しさん  (2021-09-29 04:59:31)
+- emonさんはほんとにすごい。もっと評価されなきゃおかしい。ルカの使い手としては一番だと思う。マイナーだけど「さよならグライダー」オススメだから聴いてみて～  -- 名無しさん  (2023-04-05 22:21:26)
+#comment()

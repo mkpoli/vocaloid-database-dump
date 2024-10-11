@@ -1,0 +1,32 @@
+#right(){&furigana(MKSR)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/14828904" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/14828904">【ニコニコ動画】</a></iframe>)
+
+**特徴
+作り手名：『&u(){MKSR}』(&u(){えむけいえすあーる})
+-代表作に「覚 -mezame-」「貧血☆psychedelic」がある。
+-サークル「ばんだいく」としても活動している。そっち方面では東方Project曲のアレンジが主。
+--それに飽き足らず、東方Projectをモチーフにしたオリジナル曲を投稿することがある。
+-制作ペースはかなり速い。
+
+**リンク
+-[[サークルサイト>>http://www.h6.dion.ne.jp/~mks7/bndyk.htm]]
+-[[ピアプロ>>http://piapro.jp/krule]]
+-[[Twitter>>https://twitter.com/remifla_mk]]
+
+**曲
+#list_by_tagsearch(MKSR,sort=furigana2,errmsg=まだ曲が登録されていません。,and,100)
+
+**CD
+#list_by_tagsearch(MKSRCD,sort=furigana2,errmsg=まだCDが登録されていません。,and,100)
+
+**動画（オリジナル曲のみ・再生数が多い順に6つ）
+|&nicovideo(http://www.nicovideo.jp/watch/nm12454158)|&nicovideo(http://www.nicovideo.jp/watch/nm10965641)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm9873512)|&nicovideo(http://www.nicovideo.jp/watch/nm12064797)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm10776647)|&nicovideo(http://www.nicovideo.jp/watch/nm9352583)|
+
+**コメント
+#comment()

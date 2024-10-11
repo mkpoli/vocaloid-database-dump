@@ -1,0 +1,62 @@
+#right(){&furigana()&furigana(むげんしさくでぃーぷすぺーすみっくす)【登録タグ:&tags()】}
+|&nicovideo(http://www.nicovideo.jp/watch/sm10400247)|&nicovideo(http://www.nicovideo.jp/watch/sm7839136)|
+作詞：[[コワレミクP]]
+作曲：[[コワレミクP]]
+編曲：[[コワレミクP]]
+唄：GUMI
+
+**曲紹介
+-13作目のテーマは「セルフカバー」
+-3作目の[[『【初音ミク】オリジナル「無限思索」』>>http://www.nicovideo.jp/watch/sm7839136]]をリメイク。歌詞等も若干追加されている。
+-MMMD-PV使用モデルはISAO式GUMI
+-[[詳しい作品解説(作者Blog)>>http://kowaremiku.slabweb.com/?eid=21]]
+-KarenTレーベルよりダウンロード販売が行われている。[[メグッポイド2周年記念企画>>http://karent.jp/special/megpoid11]]で配信された作品の1つ。
+
+**KarenT配信
+&ref(http://karent.jp/npdca/724_20110523212316_0240_0240.jpg)
+
+|CENTER:前作|CENTER:今作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){無限思索 DEEP SPACE MIX}|CENTER:-|
+
+流通：配信
+発売：2011年6月24日
+価格：￥150
+レーベル：[[KarenT>>http://karent.jp/album/724]]
+ジャケットイラスト：[[コワレミク>コワレミクP]]
+
+|&bold(){[[iTunes Storeで購入>>http://itunes.apple.com/jp/album/id444700254]]}|
+
+***曲目
++無限思索 DEEP SPACE MIX （feat. メグッポイド）
+
+**歌詞
+瞬いて 無限に帰す 星らの旅立ち
+億年のその旅路を 独り歩いていく
+
+時を超え 光超えて 輪廻は煌めく
+寄せては反す 宇宙（そら）の音 果てしなく響く
+
+風に流され 彼方へ
+元素に還る 何もかもが
+
+今 すべて砕け
+存在の意味も理由も ゼロへと向かう
+終わりが来て
+光が消えて すべてが 崩壊していく
+
+傾いでは ゆらり凪いで 光の子ら舞う
+千年は既に此方 無限の思索
+
+常夜に向かい翔ぶ
+闇の岸辺で風は途絶え
+
+ただ 消え往くだけ
+存在の意味も 理由も ゼロへと還る
+終わりが来て
+全てが消えて世界が 崩壊していく
+
+Deleted the world
+
+
+**コメント
+#comment()

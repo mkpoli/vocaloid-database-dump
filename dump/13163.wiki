@@ -1,0 +1,45 @@
+#right(){&furigana(わくせい)&furigana()【登録タグ:&tags() 】}
+
+&ref(040010249276-1p.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[音のない部屋の中で>音のない部屋の中で/CD]]|CENTER:&bold(){惑星}|CENTER:[[fines EP]]|
+
+|&bold(){[[whoo]]}|
+
+||CENTER:即売|CENTER:同人|CENTER:配信|
+|CENTER:発売|CENTER:2010年11月14日|CENTER:2010年11月23日|CENTER:2011年2月23日|
+|CENTER:価格|CENTER:￥1,000|CENTER:￥1,470（税込）|CENTER:￥1,200 / 1曲￥150|
+|CENTER:サークル|>|>|CENTER:s10rw(ストロウ)|
+
+>音楽・アートデザイン：&b(){[[whoo]]}
+>ジャケット写真：岬
+>デザインデータ監修：霜村([[そらいろくらぶ]])
+>　#8　歌・たぶん自分
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/id419582450]]}|
+
+**CD紹介
+-whoo氏による２作目のオリジナルアルバム。
+-既発表曲４曲＋未発表曲４曲の計８曲を収録。
+-８曲目の"Time And A Word"は「たぶん自分」氏が歌唱を担当。
+
+**クロスフェードデモ
+&nicovideo(http://www.nicovideo.jp/watch/sm12628416)
+
+**曲目
++惑星
++[[Parades]]
++[[トラベリングムード]]
++[[Fireworks>Fireworks/whoo]]
++[[Intimacy]]
++[[Dear Prudence]]
++惑星(Re.Birth)
++Time And A Word(feat.たぶん自分)
+
+**リンク
+-[[作者ブログ>>http://ameblo.jp/whoosrockq/]]
+-[[KarenT>>http://karent.jp/album/660]]
+
+**コメント
+#comment()

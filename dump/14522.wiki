@@ -1,0 +1,33 @@
+#right(){&furigana(ねこむしたんばりん)&furigana()【登録タグ:&tags() 】}
+#image(http://nekomushing.up.seesaa.net/image/nekomushi_s_01.png,http://nekomushing.seesaa.net/article/175293847.html,title=猫虫タンバリン,blank)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm13207957)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[ねこむしのあしあと]]|CENTER:&b(){猫虫タンバリン}|CENTER:[[N-echo]]|
+
+|&b(){[[猫虫P]]}|
+
+|流通|CENTER:即売|
+|発売|CENTER:2011年1月16日|
+|価格|CENTER:\500(税込)|
+|サークル|CENTER:えんがわで猫虫がひなたぼっこして寝込むし|
+
+**CD紹介
+-猫虫P通算4枚目のCDは4曲収録のシングル。
+-ジャケットイラストはソライロが担当している。
+-THE VOC@LOID M@STER 15（ボーマス15）で初頒布。
+
+**曲目
++猫虫タンバリン
++onaka is very suita
++[[Mental Trick]]
++[[わんわんお にゃんにゃんお]] -Rin ver-
+
+**リンク
+-[[サークル特設サイト>>http://www.onetem.net/enmushi/]]
+-[[猫虫が猫無視して寝込むし。（猫虫Pのブログ）>>http://nekomushing.seesaa.net/]]
+
+**コメント
+- ジャケちょう可愛い！！  -- 名無しさん  (2011-02-17 14:23:31)
+#comment()

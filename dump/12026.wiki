@@ -1,0 +1,31 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#image(http://blog-imgs-41-origin.fc2.com/p/r/q/prq/tm_ban_big_450_100.jpg,http://prq.blog44.fc2.com/blog-entry-238.html,title=P∴Rhythmatiq Trial mix,blank) 
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[P∴Rhythmatiq act:05]]|CENTER:&bold(){P∴Rhythmatiq Trial mix}|CENTER:[[P∴Rhythmatiq Re:act]]|
+
+|&b(){[[Aether_Eru]]}|&b(){[[ノア(Noah)]]}|&b(){[[ゆうP]]}|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|>|CENTER:2009年12月30日|
+|価格|CENTER:\500|CENTER:\735(税込)|
+|サークル|>|CENTER:P∴Rhythmatiq|
+
+**CD紹介
+-P∴Rhythmatiqの試作的ミニアルバム。特殊加工のケースのため、今回はしろのイラストは無し。
+-いつもと一味違った新曲3曲＋リミックス3曲の全6曲。
+
+**曲目
++Orizzontia -Noah's Out of Place Remix-
++[[Snow Promenade]] -Aether_Eru's Frozen heart Remix-
++jewel -Yu-'s Jeweling AcousTech Remix-
++Mind's door (prototype)
++Musique Musica
++ICE AGE
+
+**リンク
+-[[P∴Rhythmatiqのブログ>>http://prq.blog44.fc2.com/blog-entry-238.html]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/20/71/040010207155.html]]
+
+**コメント
+#comment()

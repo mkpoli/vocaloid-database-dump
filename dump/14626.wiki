@@ -1,0 +1,27 @@
+#right(){&furigana()&furigana()【登録タグ:&tags()】}
+&nicovideo(http://www.nicovideo.jp/watch/sm11819828)
+作詞：[[コワレミクP]]
+作曲：[[コワレミクP]]
+編曲：[[コワレミクP]]
+唄：初音ミク
+
+**曲紹介
+>音楽はあなたを救わない。でも、迷った心の方向を修正してくれる。
+-第5回MMD本選に進出した曲。
+
+**歌詞
+HeadPhone　空気震わし　GoodMusic　耳に届く
+GoodSound　僕を惑わし　きっと　ここが天国
+
+Yah Yah Yah　Yah Yah Yah
+Yah Yah Yah　さあ踊ろう
+
+ひとり　グレーの夜　極彩色をくれる　NiceSound
+自然　身体　動き始めるよ
+
+ほら　ここが小さな　部屋でも　音　溢れて
+色に染まっていけば　ほら　今すぐに
+きみの曇り顔　晴れに変わって　いくのさ
+
+**コメント
+#comment()

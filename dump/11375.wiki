@@ -1,0 +1,30 @@
+#right(){&furigana(もっきんP)&furigana()【登録タグ:&tags() 】}
+**特徴
+-アーティスト名は&b(){kametaka}。
+-主にピアノや木琴のみを使用したシンプルな弾き語り調の曲を作る。
+-そのため、現在のP名がついた。
+-2008年2月以降、ニコ動への投稿を休止している模様。復帰が待たれるPの1人である。
+
+**リンク
+-[[kametaka.net（作者ホームページ）>>http://kametaka.net/]]
+-[[DTM.kametaka.net（ボカロ関連サイト）>>http://dtm.kametaka.net/]]
+
+**曲
+#list_by_tag(木琴P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(木琴PCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm1774610)|&nicovideo(http://www.nicovideo.jp/watch/sm1790788)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm1808824)|&nicovideo(http://www.nicovideo.jp/watch/sm1846132)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm1849025)|&nicovideo(http://www.nicovideo.jp/watch/sm1892036)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm1901270)|&nicovideo(http://www.nicovideo.jp/watch/sm1936579)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm1936615)|&nicovideo(http://www.nicovideo.jp/watch/sm1971834)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2092168)|&nicovideo(http://www.nicovideo.jp/watch/sm2149388)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2156173)|&nicovideo(http://www.nicovideo.jp/watch/sm2181735)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2204038)||
+
+**コメント
+- 帰ってきてほしい…w  -- ひかる  (2011-11-24 18:04:57)
+#comment()

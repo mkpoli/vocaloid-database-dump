@@ -1,0 +1,35 @@
+#right(){&furigana(あさがおぶし)&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/500_20100809235037_0240_0240.jpg)
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[サクハナ　チルハナ]]|CENTER:&bold(){朝顔節}|CENTER:[[THE HEART SUTRA　（サンスクリットによる般若心経）]]|
+
+|&bold(){[[ブンガP]]}|
+
+発売：2010年8月31日
+価格：￥300 / 1曲￥150
+流通：配信
+レーベル：KarenT
+ジャケットイラスト：[[田中秀俊>ブンガP]]
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/id388928428]]}|
+
+**CD紹介
+-ブンガPの配信シングル。
+-KarenTの初音ミク3周年記念企画で配信された作品の1つ。
+-ミクの誕生日にブンガPから届けられたのは、奄美民謡「朝顔節」。
+-ミクさんのお誕生日ということで奄美でお祝いの席などで歌われる歌です。
+
+**曲目
++朝顔節 （feat. 巡音ルカ）
++朝顔節 （feat. 初音ミク）
+
+**動画
+&nicovideo(http://www.nicovideo.jp/watch/sm12014606)
+
+**リンク
+-[[KarenT：「朝顔節」>>http://karent.jp/album/500]]
+-[[KarenT：「初音ミク 3rd Anniversary」特集ページ>>http://karent.jp/special/miku10]]
+
+
+**コメント
+#comment()

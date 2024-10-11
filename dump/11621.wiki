@@ -1,0 +1,26 @@
+#right(){&furigana(clear)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/7111951" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/7111951">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-鏡音リンを使用したカバー曲を多く投稿し、そのレベルの高い調教に定評がある。
+-「【鏡音リン】「ブラック★ロックシューター」」は殿堂入りを達成。この曲の間奏でレンが"ほいほい"という声を連発していることがP名の由来になった。
+-他のPと一緒に多くのコラボ曲を発表している。特に[[てかP]]とは仲が良いらしい。
+
+**曲
+#list_by_tag(ほいほいP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(ほいほいPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm2718291)|&nicovideo(http://www.nicovideo.jp/watch/sm3644687)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3852945)|&nicovideo(http://www.nicovideo.jp/watch/sm4526485)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4682607)|&nicovideo(http://www.nicovideo.jp/watch/sm5018162)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6360046)||
+
+**コラボ
+|&nicovideo(http://www.nicovideo.jp/watch/sm6169217)|&nicovideo(http://www.nicovideo.jp/watch/sm6312178)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7545735)|&nicovideo(http://www.nicovideo.jp/watch/sm8846875)|
+
+**コメント
+#comment()

@@ -1,0 +1,38 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/631_20110108210520_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Crimson Camellia]]|CENTER:&bold(){Forbidden Happiness}|CENTER:[[Miracle is Dead : Infection]]|
+
+|&bold(){[[Sweet Revenge]]}|[[さはら]]|YukitchEN RugMap|[[Shig（かなしい係P）]]|
+
+発売：2011年1月30日
+価格：￥900 / 1曲￥150
+流通：配信
+レーベル：KarenT
+ジャケットイラスト：[[uni>>http://piapro.jp/window2407]]
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/forbidden-happiness/id415628538]]}|
+
+**CD紹介
+-Sweet Revenge氏の配信アルバム。
+-巡音ルカによる全曲英詞の楽曲です。ダークでロックなアルバムになりました。（KarenT作品概要より）
+-「[[Broken Steps]]」「[[Valkyria]]」の2作も英語バージョンで収録されている。
+-KarenTの巡音ルカ2周年記念企画で配信された作品の1つ。
+
+**曲目
++[[Forbidden Happiness]] （feat. 巡音ルカ）
++[[Speak]] （feat. 巡音ルカ）
++[[Until the Bitter End]] （feat. 巡音ルカ）
++[[Broken Steps]] - English Ver. （feat. 巡音ルカ）
++[[Rosemary]] （feat. 巡音ルカ）
++[[Elixir]] （feat. 巡音ルカ）
++[[Fatal Farewell]] （feat. 巡音ルカ）
++[[Valkyria]] - Alternative English Ver. （feat. 巡音ルカ）
+
+**リンク
+-[[KarenT：「Forbidden Happiness」>>http://karent.jp/album/631]]
+-[[KarenT：「巡音ルカ聖誕祭'11」特集ページ>>http://karent.jp/special/luka11]]
+
+**コメント
+#comment()

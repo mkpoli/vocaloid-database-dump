@@ -1,0 +1,36 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/569_20101028095920_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Darkness Six]]|CENTER:&bold(){Tone color}|CENTER:[[±(Plus Minus)]]|
+
+|&bold(){[[AVTechNO]]}|
+
+発売：2010年11月10日
+価格：￥900 / 1曲￥150
+流通：配信
+レーベル：KarenT
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/tone-color/id401124287]]}|
+
+**CD紹介
+-AVTechNO!氏の配信EP。
+-全て1分以内の楽曲で構成された、携帯の着信音設定をコンセプトとしたアルバム。
+-トラック1から4はVOCALOIDの声を使ったアラーム音。トラック5から8は既存曲のオルゴールアレンジとなっている。
+
+**曲目
++Miku tone （feat. 初音ミク）
++Miku tone harmony （feat. 初音ミク）
++Luka tone （feat. 巡音ルカ）
++Rin tone （feat. 鏡音リン）
++[[冬のさくら。]] orgel+miku （feat. 初音ミク）
++[[NEL]] orgel+miku （feat. 初音ミク）
++[[free>free/AVTechNO]] orgel+miku （feat. 初音ミク）
++[[Feminity>Feminity Original]] orgel+miku （feat. 初音ミク）
+
+**リンク
+-[[作者サイト>>http://avtechno.ukime.org/]]
+-[[KarenT>>http://karent.jp/album/569]]
+
+**コメント
+#comment()

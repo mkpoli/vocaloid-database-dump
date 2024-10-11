@@ -1,0 +1,52 @@
+#right(){&furigana(ONYOURMARK)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm3547623)|
+作詞：[[水無瀬吟]]
+作曲：[[HIDAKA]]
+編曲：[[HIDAKA]]
+唄：[[鏡音リン>鏡音リン・レン]]
+
+**曲紹介
+曲名：『&u(){ON YOUR MARK}』
+-「BeautifulなRainbow☆PowerfulなStart☆☆」
+-HIDAKA氏のデビュー作。
+
+**歌詞
+（&s(){[[ピアプロ>>https://piapro.jp/content/q06q0c0q69uil706]]}より転載）
+
+雨上がりの空をふと見上げたら　七色の虹が
+キラキラのリボンのその向こうには　突然あなたが
+
+ドキドキ鼓動が駆け巡る　ギュッと目つむりカウントダウン
+せぇの！で駆け出そう！
+
+BeautifulなRainbow☆PowerfulなStart☆☆
+ここで見てるのはつまんない　あなたと二人一緒がいい
+
+だから急いで今すぐあなたの元へ
+走り出すから待っててね　ここがスタートライン
+
+校舎の窓際で微笑むあなた　隣に私が
+そんな夢見てても叶えなくっちゃ　このままじゃ嫌
+
+振り向くあなたにどうしよう　神様お願いカウントダウン
+待って！て言わなきゃ！
+
+BeautifulなRainbow☆WonderfulなGoal☆☆
+ただ一言伝えたいの　私をあなたの隣に
+
+虹が消えちゃう前にあなたの元へ
+見てるだけの夢は終わり　ホントの恋をしようよ
+
+BeautifulなRainbow☆WonderfulなGoal☆☆
+ここで見てるのはつまんない　あなたと二人一緒がいい
+
+だから急いで今すぐあなたの元へ
+走り出すから待っててね　私ON YOUR MARK
+
+
+**コメント
+#comment()

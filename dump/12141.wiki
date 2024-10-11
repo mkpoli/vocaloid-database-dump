@@ -1,0 +1,54 @@
+#right(){&furigana(まよなかP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://ext.nicovideo.jp/thumb_mylist/18497994" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/18497994">【ニコニコ動画】%E3%83%9F%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB%E6%9B%B2（%E7%9C%9F%E5%A4%9C%E4%B8%ADP）</a></iframe>)
+
+**特徴
+作り手名：『&u(){真夜中P}』（&u(){まよなかP}）
+-作曲ジャンルは特にない。ジャンルに拘らない作曲を目指しているようである。
+-初投稿から再生数3桁が続いたが、6作目「[[東京モノフォニック]]」がヒット（ジャンルはテクノ）。&br()氏の代表作となる。
+-「MIDNIGHT OFFICE」、「真夜中屋」と名乗っている。
+-「[[フェノメノン>フェノメノン/真夜中P]]」にて自身の初の殿堂入りを達成する。
+
+**リンク
+-[[PIAPRO>>https://piapro.jp/MNoffice2010]]
+-[[Twitter>>https://twitter.com/MNoffice2010]]
+-[[ニコニコ>>https://www.nicovideo.jp/user/16444552]]
+
+**曲
+#list_by_tag(真夜中P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(真夜中PCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm10459750)|&nicovideo(sm10478198)|
+|&nicovideo(sm10725598)|&nicovideo(sm10958487)|
+|&nicovideo(sm11000333)|&nicovideo(sm11063930)|
+|&nicovideo(sm11112591)|&nicovideo(sm11879569)|
+|&nicovideo(sm12205599)|&nicovideo(sm12365658)|
+|&nicovideo(sm12439842)|&nicovideo(sm12687652)|
+|&nicovideo(sm12904631)|&nicovideo(sm13908238)|
+|&nicovideo(sm14124120)|&nicovideo(sm14663296)|
+|&nicovideo(sm14800145)|&nicovideo(sm14980312)|
+|&nicovideo(sm15108373)|&nicovideo(sm15387049)|
+|&nicovideo(sm15438775)|&nicovideo(sm15643241)|
+|&nicovideo(sm15699052)|&nicovideo(sm15976727)|
+|&nicovideo(sm16267913)|&nicovideo(sm16339944)|
+|&nicovideo(sm16408900)|&nicovideo(sm16441071)|
+|&nicovideo(sm17689476)|&nicovideo(sm18198509)|
+|&nicovideo(sm18297238)|&nicovideo(sm19426726)|
+|&nicovideo(sm19426726)|&nicovideo(sm20069881)|
+|&nicovideo(sm20225610)|&nicovideo(sm22012864)|
+|&nicovideo(sm22109744)|&nicovideo(sm22321584)|
+|&nicovideo(sm23298647)|>|
+
+**コメント
+- 今一番好きな作り手  -- 名無しさん  (2010-10-06 22:48:57)
+- バラード調もピコピコテクノも耳にハマる  -- 名無しさん  (2012-11-06 10:19:00)
+- 最近知った者ですが、真夜中ｐマイリスとここのリンクでうｐ曲すべてでしょうか？  -- 名無しさん  (2013-08-01 12:57:02)
+- 曲ページの作者名タグが3種類あってばらけていたので、P名で統一しました。  -- 名無しさん  (2014-04-13 02:22:33)
+- 放課後ループがすごく好きです。全体的になんとなく気だるげで好みです。  -- 名無しさん  (2014-04-13 03:51:02)
+#comment()

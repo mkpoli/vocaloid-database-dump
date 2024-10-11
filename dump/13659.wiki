@@ -1,0 +1,48 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/585_20101118173238_0240_0240.jpg)
+
+&nicovideo(sm11404470)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[DATE tunes]]|CENTER:&bold(){D.A. technology}&br()[[D.A. technology -remixes-]]|CENTER:[[ワンルーム・オール・ザット・ジャズ]]|
+
+|&bold(){[[DATEKEN]]}|
+
+||CENTER:即売|CENTER:同人|CENTER:配信|
+|発売|>|CENTER:2010年7月19日|CENTER:2010年12月27日|
+|価格|CENTER:|CENTER:￥1,050（税込）|CENTER:￥1,500 / 1曲￥150|
+|サークル|>|>|CENTER:VITALIZE|
+|レーベル|>|CENTER:-|CENTER:KarenT|
+
+**CD紹介
+-DATEKEN氏のボーカロイドアルバム。リミックス盤『[[D.A. technology -remixes-]]』と同時リリース。
+-THE VOC@LOiD M@STER 13（ボーマス13）で頒布された。
+-とらのあなで委託販売がおこなわれている。
+-KarenTレーベルよりダウンロード販売も行われている。鏡音リン・レン3周年記念企画で配信された作品の1つで、もちろんリミックス盤も同時に配信開始となっている。
+
+**曲目
++[[PROTECT CODE]]
++[[イマジネイション]]
++[[parallelines]]
++[[Ur-Style]]
++[[*tear*]]
++[[trick art！]]
++[[なまえのないうた]]
++[[Jutenija]]
++[[紡唄 -つむぎうた-]]
++[[愛しのHDD -mirror sound edit.-]]
++DAM DA LA Dancin'
++[[Never>Never/DATEKEN]]
++[[schwarz waltz]]
++[[Cardioid]]
++君が生まれた日
+
+**リンク
+-[[作者サイト>>http://www14.plala.or.jp/dateken/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/cit/pagekit/0000/00/03/000000038271/index.html]]
+-[[KarenT：「D.A. technology」>>http://karent.jp/album/585]]
+-[[KarenT：「鏡音リン・レン祭'10」特集ページ>>http://karent.jp/special/rinlen10]]
+
+**コメント
+- 最近ＤＡＴＥＫＥＮさん知った。いいなぁ再販とかないかなぁ  -- 名無しさん  (2013-10-06 17:52:46)
+#comment()

@@ -1,0 +1,48 @@
+#right(){&furigana(まぇろP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/13263943" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/13263943">【ニコニコ動画】</a></iframe>)
+
+**特徴
+作り手名：『&u(){マェロP}』
+-使用ボカロは 巡音ルカ ・GUMI ・Lily（体験版）・初音ミク（体験版）。
+-代表作は、自身初の殿堂入り作となった「[[後追い自殺に定評のあるみっちゃん]]」。
+-P名の由来は「Melody Sky」にて、「マクロスのエロゲーかと思って買ったらボカロだった」という旨の発言からきている。
+
+**リンク
+-[[こぼし場（作者ブログ）>>http://oktp.blog65.fc2.com/]]
+-[[ピアプロ>>https://piapro.jp/u8176301]]
+-[[Twitter>>https://twitter.com/MAeLOP]]
+
+**曲
+#list_by_tag(マェロP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(マェロPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm6686153)|&nicovideo(nm7143647)|
+|&nicovideo(nm7468828)|&nicovideo(nm8715066)|
+|&nicovideo(nm9230787)|&nicovideo(sm9332471)|
+|&nicovideo(nm9767920)|&nicovideo(sm10071049)|
+|&nicovideo(sm10732145)|&nicovideo(sm11186655)|
+|&nicovideo(nm11807542)|&nicovideo(sm12253389)|
+|&nicovideo(sm13105707)|&nicovideo(sm14484170)|
+|&nicovideo(sm14711334)|&nicovideo(sm14854251)|
+
+**コメント
+- 製作ＧＪですｗＰ名の由来吹きましたｗｗｗ  -- サエキくん  (2010-08-29 19:25:05)
+- やっと制作されたかマェロＰ(^^)v  由来www  -- あか  (2010-09-02 02:39:26)
+- みっちゃん聴いてファンになりますた  -- 名無しさん  (2010-09-06 14:33:45)
+- 由来おいｗｗｗｗ  -- 名無しさん  (2010-09-29 21:48:57)
+- 由来ｗｗそうだったのかｗｗ  -- 藍  (2010-10-16 16:00:34)
+- マェロさん大好き！CD 買いました!  -- ロイ  (2011-07-22 22:56:51)
+- なんて発音で呼べばいいんだろ？ｗｗ  -- 名無しさん  (2011-09-03 16:36:22)
+- maとmeを同時に発音すんのかなぁ？  -- まｪろ、めｧｪろっ…ｷー！イーニキー！www  (2011-09-05 21:49:04)
+- もうマエロでいいじゃない  -- 名無しさん  (2011-10-17 23:14:01)
+- P名の由来ｗｗ　この人のGUMIの調声好きだわ  -- Re:mu  (2012-09-16 11:30:33)
+- マェロさんの歌詞がすきーっ  -- 名無しさん  (2012-09-18 18:08:26)
+- マェロさんの曲って暗くて結構自分好みだわ  -- 名無しさん  (2014-09-21 10:49:17)
+#comment()

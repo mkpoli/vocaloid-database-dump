@@ -1,0 +1,37 @@
+#right(){&furigana(はこにわP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://ext.nicovideo.jp/thumb_mylist/11539864" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/11539864">【ニコニコ動画】%EF%BC%96%E2%88%80%E2%8A%A5%E3%81%AE%E7%AE%B1%E5%BA%AD%EF%BC%88%E3%81%9F%E3%81%90%E3%81%AE%E3%81%AF%E3%81%93%E3%81%AB%E3%82%8F</a></iframe>)
+
+**特徴
+作り手名：『&u(){箱庭P}』（&u(){はこにわP}）
+-アーティスト名は&b(){６∀⊥}（たぐ）。
+-使用ボカロは初音ミク・巡音ルカ・IA。
+-P名は「[[My Little Garden]]」に由来している。
+
+**リンク
+-[[６∀⊥の一服スペース（作者ブログ）>>http://tagworld.blog46.fc2.com/]]
+-[[ピアプロ>>https://piapro.jp/taguk076]]
+-[[ニコニコ>>https://www.nicovideo.jp/user/143046]]
+-[[Twitter>>https://twitter.com/tag_6at]]
+
+**曲
+#list_by_tag(箱庭P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(箱庭PCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm6455991)|&nicovideo(sm6932542)|
+|&nicovideo(sm7446461)|&nicovideo(sm8052164)|
+|&nicovideo(sm8760082)|&nicovideo(sm9671673)|
+|&nicovideo(sm11106720)|&nicovideo(sm11208102)|
+|&nicovideo(sm12064027)|&nicovideo(sm12833017)|
+|&nicovideo(sm15484621)|&nicovideo(sm17484964)|
+|&nicovideo(sm19133967)|>|
+
+**コメント
+- My Little Garden好きなんだけど埋もれてしまってる…(;ω;`)  -- 名無しさん  (2011-10-13 07:38:52)
+#comment()

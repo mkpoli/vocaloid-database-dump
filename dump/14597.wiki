@@ -1,0 +1,33 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/655_20110201010447_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){SPIRAL TRILOGY}|CENTER:[[螺旋-RASEN-]]&br()[[SPIRAL TRILOGY The Art Works]]|
+
+|&bold(){[[Ebot]]}|
+
+発売：2011年2月17日
+価格：￥300 / 1曲￥150
+流通：配信
+レーベル：KarenT
+ジャケットイラスト：Unin
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/spiral-trilogy-ep/id418513809]]}|
+
+**CD紹介
+-Ebot氏の3曲入りEP。
+-KAITO発売5周年記念に、KarenTレーベルよりダウンロード販売が開始された。
+-VOCALOID『KAITO(カイト)』を使用し、バイオリン等の西洋楽器と津軽三味線を交え、“螺旋”をテーマに壮大に奏でられた3曲。&br()「月雪花」「パラドキシカル・パラダイム」を再ミックス＆マスタリングし、最終章「信號燈-SIGNAL-」を加え、“螺旋三部作”ここに完成。&br()“和洋折衷”“大正浪漫”がお好きな方にもオススメです。&br()（KarenT作品概要より）
+
+**曲目
++[[月雪花]] （feat. KAITO）
++[[パラドキシカル・パラダイム]] （feat. KAITO）
++[[信號燈-SIGNAL-]] （feat. KAITO）
+
+**リンク
+-[[KarenT：「SPIRAL TRILOGY」>>http://karent.jp/album/655]]
+-[[KarenT：「KAITO誕生祭'11」特集ページ>>http://karent.jp/special/kaito11]]
+
+**コメント
+- KAITO兄さん！キター！  -- MIZKO  (2012-02-17 21:14:18)
+#comment()

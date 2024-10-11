@@ -1,0 +1,36 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#image(http://blog-imgs-43-origin.fc2.com/p/r/q/prq/prtq_0011_bn_b.jpg,http://prq.blog44.fc2.com/blog-entry-298.html,title=P∴Rhythmatiq act:07,blank) 
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[P∴Rhythmatiq act:06]]|CENTER:&bold(){P∴Rhythmatiq act:07}|CENTER:[[Constella]]|
+
+|&b(){[[Aether_Eru]]}|&b(){[[ノア(Noah)]]}|&b(){[[ゆうP]]}|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|>|CENTER:2010年7月19日|
+|価格|CENTER:\500|CENTER:\735(税込)|
+|サークル|>|CENTER:P∴Rhythmatiq|
+
+**CD紹介
+-P∴Rhythmatiqの7thシングル。ジャケットイラストは、しろ。
+-夏らしい爽やかな曲や少し甘めのラブソング等、夏の陽気を感じさせる3曲が収録されている。
+-全曲に初音ミクAppendを使用しているのも特徴。
+
+**曲目
++[[夏海感]]
++星くずレター
++I sing 4U
++夏海感 (without miku ver.)
++星くずレター (without miku ver.)
++I sing 4U (without miku ver.)
+
+**リンク
+-[[P∴Rhythmatiqのブログ>>http://prq.blog44.fc2.com/blog-entry-298.html]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/22/87/040010228727.html]]
+-[[D-stage>>http://d-stage.com/shop/detail.php?seq=15606]]
+-[[あきばおーこく>>http://www.akibaoo.com/02/commodity_param/t/0/ctc/+/shc/0/cmc/2500020142615/backURL/+02+main]]
+-[[ホワイトキャンバス>>http://www.w-canvas.com/shopping/detail.php?item_id=41116]]
+-[[メロンブックス>>http://shop.melonbooks.co.jp/shop/list/?G=&MF=P%E2%88%B4Rhythmatiq]]
+
+**コメント
+#comment()

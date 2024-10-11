@@ -1,0 +1,30 @@
+#right(){&furigana(ぜんらでぎたーだいてねてたP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/18691977" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/18691977">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-デビュー作は「[[Re:Birth>Re:Birth/全裸でギター抱いて寝てたP]]」。
+-リンレンを使用したロック曲を投稿する。
+-本人の本業はベーシストなのだが、あまり信じてくれる者はいないらしい。
+-P名はそのまま、アーティスト名である&b(){全裸でギター抱いて寝てた人}から付いたもの。
+
+**リンク
+-[[全裸でギター抱いて寝てた人、パンツ履いてもう一度寝るの巻（作者ブログ）>>http://ameblo.jp/auaua-19840414/]]
+-[[ピアプロ>>http://piapro.jp/akito1999]]
+-[[Twitter>>http://twitter.com/akito1999]]
+
+**曲
+#list_by_tag(全裸でギター抱いて寝てたP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(全裸でギター抱いて寝てたPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm10469247)|&nicovideo(http://www.nicovideo.jp/watch/sm10895487)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm11254170)|&nicovideo(sm12324674)|
+|&nicovideo(sm12814127)|&nicovideo(sm15020945)|
+|&nicovideo(sm19910100)|>|
+
+**コメント
+- 結構この人の曲好きだ  -- 名無しさん  (2011-04-06 17:43:49)
+- 名前にびっくりした  -- 名無しさん  (2018-12-10 07:05:49)
+#comment()

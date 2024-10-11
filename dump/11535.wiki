@@ -1,0 +1,67 @@
+#right(){&furigana()&furigana()【登録タグ:&tags()】}
+&nicovideo(http://www.nicovideo.jp/watch/sm8657642)
+作詞：[[もわもわP]]
+作曲：[[もわもわP]]
+編曲：[[もわもわP]]
+唄：巡音ルカ
+
+**曲紹介
+-&i(){【重要な更新】世界がアップグレードされ、v2.0になります（笑）。}
+-全英語詞のオリジナルロック。
+
+**歌詞
+（[[ピアプロ>>http://piapro.jp/content/zl61rjxf4j12ubvd]]より転載）
+
+Finally a major update is released.
+The world is upgraded to version 2.0.
+Backward compatibility is not guaranteed.
+Old ideas may not work on the new version.
+
+If you accept this, please click now
+to experience brave new world beyond your imagination.
+
+World 2.0, something wonderful. World 2.0, Something cool.
+Upgrade at once or remain archaic forever.
+
+There is a critical update available.
+Upgrade the world now to version 2.0.
+It consumes much less resources of the Earth.
+You can expect to reduce heat emissions.
+
+No fear of freezing and shutting down.
+What a difference from the infamous unstable previous version.
+
+World 2.0, something wired. World 2.0, Something fun.
+Upgrade at once and keep yourself up-to-date.
+
+World 2.0, World 2.0...
+
+#region(close,日本語訳)
+**歌詞（日本語）
+ついに大型アップデートのリリースです
+世界がアップグレードされ　バージョンが2.0になります
+旧バージョンとの互換性は保証されません
+古い考えは新バージョン上で動作しないかもしれません
+
+このことに同意できるなら　今すぐクリックしてください
+そして　想像を超えた新世界を体験してください
+
+世界2.0　すばらしい何か　世界2.0　かっこいい何か
+今すぐアップグレードしないと　永遠に遅れたままよ
+
+重要な更新が利用可能です
+すぐに世界を20.にアップグレードしてください
+地球のリソース消費量が大きく減少しました
+排熱量の削減が期待できます
+
+フリーズやシャットダウンの心配も無用です
+悪名高い不安定な前バージョンとなんという違いでしょう
+
+世界2.0　奇妙な何か　世界2.0　おもしろい何か
+今すぐ更新して　あなた自身を最新の状態に保ってね
+
+世界2.0　世界2.0
+#endregion
+
+**コメント
+#comment()

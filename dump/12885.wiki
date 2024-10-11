@@ -1,0 +1,42 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm12660214)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&b(){Innocence}|CENTER:-|
+
+|&b(){[[KazuP]]}|[[八王子P]]|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|CENTER:2010年11月14日|CENTER:2010年11月14日|
+|価格|CENTER:\1,000|CENTER:\1,500(税込)|
+|サークル|>|CENTER:KazuPism|
+
+**CD紹介
+-&b(){KazuP}の待望の1stアルバムは、CDとDVDの2枚組！！　ボーマス14で初頒布。
+-CDには表題曲「[[Innocence>Innocence/KazuP]]」を含む、全10曲が収録されている。
+--[[八王子P]]がゲストとして1曲提供している（M5「Don't Stop Lovin'」）。
+-DVDには「Innocence」再評価のきっかけとなった&b(){KELLOW☆UP DATE FILM}のPVが収録!!
+-あの楽器を持ったミクのジャケットを描いたのはBUZZ、デザインは柊椋。
+
+**曲目
+-Disc01 CD
++Intro
++[[Till the End of World]]  /  初音ミクAppend
++[[Nonentity Youth]]  /  鏡音レン
++[[Awakening!]](Miku Ver.)  /  初音ミク
++Don't Stop Lovin'  /  初音ミク
++Cold Fusion  /  初音ミク & 鏡音リン
++Crescent Honey  /  巡音ルカ & 初音ミク
++ぷらずま☆くらすた  /  初音ミク
++macrocosm-kazuP Mix-  /  初音ミク
++[[Innocence>Innocence/KazuP]]  /  初音ミク
+-Disc02 DVD
++Innocence-3DPV-  /  KELLOW☆UP DATE FILM
+
+**リンク
+-[[特設サイト>>http://kazup.net/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/24/79/040010247994.html]]
+-[[TANO*C STORE>>http://www.tanocstore.net/shop/item_detail?category_id=164482&item_id=874712]]
+
+**コメント
+#comment()

@@ -1,0 +1,21 @@
+#right(){&furigana(とりからP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/4408156" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/4408156">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-寡作ながら印象に残るPVを制作しているP。
+--中の人はプロの漫画家だが公言していないため名前は伏せる。
+-可愛らしいデフォルメと淡い色彩のイラストが持ち味。
+-代表作&b(){『ダブルラリアットに合わせてチャーハンつくるよ！』}はミリオンを達成したVOCALOID-PVのひとつ。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/torikara]]
+
+**動画
+|『[[ハト]]』&nicovideo(http://www.nicovideo.jp/watch/sm1927968)|&br()&nicovideo(http://www.nicovideo.jp/watch/sm2042558)|
+|『[[ピンクスパイダー]]』&nicovideo(http://www.nicovideo.jp/watch/sm1995370)|&br()&nicovideo(http://www.nicovideo.jp/watch/sm2639886)|
+|『[[子猫は独り遥か雪(以下略)>子猫は独り遥か雪に埋もれてわたしを見つめる]]』&nicovideo(http://www.nicovideo.jp/watch/sm2293087)|『[[sugar chocolate waffle]]』&nicovideo(http://www.nicovideo.jp/watch/sm3017317)|
+|『[[なんだかとっても！いいかんじ>なんだかいいかんじ]]』&nicovideo(http://www.nicovideo.jp/watch/sm4534199)|『[[ぽっぴっぽー]]』&nicovideo(http://www.nicovideo.jp/watch/sm5521121)|
+|『[[ダブルラリアット]]』&nicovideo(http://www.nicovideo.jp/watch/sm6231060)|『[[おきあがれないよー]]』&nicovideo(http://www.nicovideo.jp/watch/sm9895628)|
+
+**コメント
+#comment()

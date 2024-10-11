@@ -1,0 +1,27 @@
+#right(){&furigana(げどうさん)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/20239736" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/20239736">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-使用ボカロはミクAppend・GUMI。
+-テクノやトランス、サイケデリックなの楽曲を主に制作していて、自身の手がけた曲のREMIXナンバーも多数存在する。
+-GUMIを主軸にした曲が多く、N式GUMI等を使用したMMDは印象に残るものが多く、非常に特徴的。
+-またVOCALOIDだけでなく実際の人の声(誰か）を取り入れたり、&br()音楽そのものを重要視したエレクトロニカな曲も制作していて様々な音に挑戦しているのが感じられる。
+
+**リンク
+-[[ピアプロ>>http://piapro.jp/gedousan]]
+
+**曲
+#list_by_tag(外道さん,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+//**CD
+//#list_by_tag(外道さんCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画（再生数が多い順に6つ）
+|&nicovideo(http://www.nicovideo.jp/watch/sm12433176)|&nicovideo(http://www.nicovideo.jp/watch/sm12113649)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm13434360)|&nicovideo(http://www.nicovideo.jp/watch/sm11634227)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm13080786)|&nicovideo(http://www.nicovideo.jp/watch/sm11964092)|
+
+**コメント
+- [[外道さんよりおしらせ>>http://www.nicovideo.jp/watch/sm17003927]]  -- 名無しさん  (2012-02-19 00:17:36)
+- 新曲が再生数工作の憂き目に。黙ってたら全員生温かくヌルーしてたかもしれない  -- 名無しさん  (2016-01-07 23:25:09)
+#comment()

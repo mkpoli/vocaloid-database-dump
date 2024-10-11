@@ -1,0 +1,37 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#amazon(B00451DBOC)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){KarenT Songs HATSUNE MIKU}&br()[[KarenT Songs KAGAMINE RIN/LEN>KarenT Songs KAGAMINE RIN／LEN]]&br()[[KarenT Songs MEGURINE LUKA]]|CENTER:[[KarenT Songs 02 MIKU・RIN・LEN・LUKA]]|
+
+|&bold(){[[杏あめ（匿名希望の東京都在住）]]}|&bold(){[[ちょむP]]}|&bold(){[[Clean Tears]]}|&bold(){[[SHUN]]}|&bold(){[[Re:nG]]}|
+
+発売：2010年11月9日
+価格：無料
+流通：配信
+レーベル：KarenT
+
+**CD紹介
+-Amazon MP3ジャパンストアのオープンキャンペーンとして2週間限定で配信販売されたオムニバスアルバム。
+-フリーダウンロード、つまり無料。
+-収録曲は過去KarenTからリリースされた作品からのチョイス。
+-ミク版、リンレン版、ルカ版の3種がリリースされている。
+
+**曲目
++[[Burst!]] （feat. 初音ミク） / 匿名希望の東京都在住
++-『[[Virtual Songs]]』より。
++1000%グローリー [vocalo mix] （feat. 初音ミク） / TakeponG
++-『[[CHOM-P BEST TRAX!]]』より。
++Sting （feat. 初音ミク） / Clean Tears
++-『[[羽糸]]』より。
++[[Mind Error>Mind-Error]] （feat. 初音ミク） / SHUN
++-『[[STYLE.TUNE]]』より。
++[[SYMPHONIC DIVE>SYMPHONIC DIVE -DIVA edit-]] （feat. 初音ミク） / Re:nG
++-『[[NextOne -KrnT edit->NextOne]]』より。
+
+**リンク
+-[[Amazon>>http://www.amazon.co.jp/dp/B00451DBOC]]
+
+**コメント
+- KarenTの公式twitterで取り上げていただけたようです→[[詳細>>http://twitter.com/#!/KarenT_Crypton/status/3359838457307136]]  -- ページ作った人  (2012-01-23 16:37:44)
+#comment()

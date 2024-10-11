@@ -1,0 +1,51 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+
+
+#ref(すこっぷ - Rainy Story.jpg)
+
+
+&nicovideo(http://www.nicovideo.jp/watch/sm12636702)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Light and Shadow]]|CENTER:&bold(){Rainy Story}|CENTER:[[嘘つきの世界>嘘つきの世界/CD]]|
+
+|&bold(){[[すこっぷ]]}|
+
+||CENTER:即売|CENTER:同人|
+|発売|>|CENTER:2010年11月14日|
+|価格|CENTER:￥1,000|CENTER:￥1,470(税込)|
+|サークル|CENTER:DEKOUSCOP|CENTER:No one hears|
+
+|&bold(){[[とらのあなで購入する>>http://www.toranoana.jp/mailorder/article/04/0010/24/53/040010245305.html]]}|
+|&bold(){[[アニメイトで購入する>>http://www.animate-onlineshop.jp/pn/%E3%80%90%E5%90%8C%E4%BA%BACD%E3%80%91+No+one+hears/Rainy+Story/pd/1046999/]]}|
+
+**CD紹介
+-すこっぷ氏 待望の 3rd Album。
+-自身最速の殿堂入り＆ぼからん初登場1位という悲願を達成した「[[トップシークレット]]」を筆頭に、単独リリースされた「[[どうぶつ占い]]」「[[Raindrops>Raindrops/すこっぷ]]」など、全10曲を収録。
+-初のGUMIオリジナル曲となる「変わるもの、変わらないもの」など、このアルバムでしか聴けない曲も多数。
+-ボーナストラックには何と、すこっぷ氏 自らが歌う「[[もしも話]]-scop ver-」を収録。
+-今作は、「Rainy Story」というタイトルの通り、「雨」をモチーフにした楽曲が多い。
+-アルバムのビジュアル関係は まつとり氏 が手掛ける。
+-ボーマス14 にて、 まつとり氏 の画集「toward」と共にリリース。
+
+**曲目
++station（inst.）
++eighteen (feat. 初音ミク)
++[[どうぶつ占い]] (feat. 初音ミク)
++[[リトルエミーと星の手紙]] (feat. GUMI)
++[[トップシークレット]] (feat. 初音ミク)
++[[Raindrops>Raindrops/すこっぷ]] (feat. 初音ミク)
++[[レイニーガール]] (feat. 初音ミク)
++変わるもの、変わらないもの (feat. GUMI)
++Rainy Story (feat. 初音ミク)
++[[もしも話]]-scop ver-（bonus track）
+
+**リンク
+-[[作者HP>>http://ginkgo.raindrop.jp/scop.html]]
+-[[とらのあな通販ページ>>http://www.toranoana.jp/mailorder/article/04/0010/24/53/040010245305.html]]
+
+**コメント
+- seventeen聴いたあとにeighteen聴くとすごく切ない…。すこっぷさんは本当に期待を裏切らないなぁ。  -- 名無しさん  (2010-11-22 16:35:20)
+- けっこう、stationが好きだったり・・。  -- 名無しさん  (2011-02-12 12:09:41)
+- 『変わるもの、変わらないもの』が案外好き  -- 良太  (2014-08-24 19:42:07)
+#comment

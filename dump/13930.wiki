@@ -1,0 +1,29 @@
+#right(){&furigana(MAC)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/22819680" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/22819680">【ニコニコ動画】</a></iframe>)
+
+**特徴
+作り手名：『&u(){MAC}』(&u(){まっく})
+-ボカロPとしてのデビュー作は「自分ノ世界」。
+-初音ミクを使用したオリジナル楽曲を発表している。
+-生放送やゲーム実況もしていて多趣味である。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/mac_d_nald]]
+-[[twitter>>http://twitter.com/nico2mac_m9_orz]]
+
+**曲
+#list_by_tag(MAC,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(MACCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm13146666)|
+
+**コメント
+- 下手っ  -- しね  (2013-12-05 20:16:47)
+#comment()

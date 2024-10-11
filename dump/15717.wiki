@@ -1,0 +1,42 @@
+#right(){&furigana(読み仮名)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+//&nicovideo_mylist()
+
+**特徴
+作り手名：『&u(){いなちゃん}』
+
+-ニコニコ技術部で活動している[[@きよし]]氏の&b(){娘}である。
+--2010年8月で小6と、[[リトルP]]に並ぶ年少のPである。
+-初音ミクを知らなかった頃から作詞作曲をしていた。&br()VOCALOID2 EditorおよびDominoでの打ち込みもいなちゃん本人が行っている。
+-父である@きよし氏もオリジナル曲を投稿しているが、[[第一次P名呼ばれたか戦争>>P　名　言　っ　て　み　ろ　！]]において、&br()父の名は呼ばれず、娘の名だけが呼ばれた。
+
+**リンク
+
+**曲
+#list_by_tagsearch(いなちゃん,sort=furigana2,errmsg=まだ曲が登録されていません。,and,100)
+
+**CD
+#list_by_tagsearch(いなちゃんCD,sort=furigana2,errmsg=まだCDが登録されていません。,and,100)
+
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm2901940)|&nicovideo(http://www.nicovideo.jp/watch/sm4839890)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5805458)|&nicovideo(http://www.nicovideo.jp/watch/sm8939765)|
+
+**関連タグ内の更新履歴
+#region(close,関連タグ内の更新履歴)
+関連タグ内の更新履歴
+※「いなちゃん」「いなちゃんCD」タグ内で最近編集やコメントのあった記事を新しい方から10件表示しています。
+#list_by_tagsearch(いなちゃん,いなちゃんCD,sort=timestamp,sort2=desc,errmsg=まだ曲が登録されていません。,or,10)
+#endregion
+
+
+**コメント
+- 私はいなちゃんの曲を聴いた時、とても心が洗われた様な気がしました。これからも頑張って下さい。応援しています。  -- 竜奇  (2012-02-16 13:09:48)
+#comment()
+
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)

@@ -1,0 +1,32 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/627_20110106213613_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[つぶやきの魔法]]|CENTER:&bold(){OYASUMI EP}|CENTER:[[春の一歩]]|
+
+|&bold(){[[ブンガP]]}|
+
+発売：2011年1月26日
+価格：￥600 / 1曲￥150
+流通：配信
+レーベル：KarenT
+ジャケットイラスト：ひで
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/oyasumi-ep/id415237120]]}|
+
+**CD紹介
+-「BUNGALANGIT」「VOCALOTUS」などの名義を持つブンガPの新たな企画「ONIKO」の作品。
+-おに子企画はガラージテイストを取り入れた実験の場として発表していくつもり、と語っている。
+
+**曲目
++[[おやすみ>おやすみ！]] （feat. 初音ミク）
++おやすみ リミックス （feat. 初音ミク）
++おやすみ アフロオルガンミックス （feat. 初音ミク）
++おやすみ 2ステップガラージミックス （feat. 初音ミク）
+
+**リンク
+-[[作者ブログ>>http://ameblo.jp/vocalotus/]]
+-[[KarenT>>http://karent.jp/album/627]]
+
+**コメント
+#comment()

@@ -1,0 +1,35 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[かいわれ大根>かいわれ大根/CD]]|CENTER:&bold(){aquamarine}|CENTER:-|
+
+|&bold(){[[初心P]]}|
+
+発売：2010年7月19日
+価格：￥500
+流通：即売
+サークル：aquastream
+
+**CD紹介
+-aquastream 5th CD
+-初心Pの2009年代後半から2010年代前半までの集大成
+-全曲ニコニコ動画に上げたものから再ミックス・再マスタリングしてある。
+
+**曲目
++アイシクルダンス
++自己空洞論
++[[いとしのあなた]]
++[[ユキゾラ]]
++電磁誘導
++ヒトリノヨゾラ
++アクアマリン/003 -destiny-
++変拍子挿話 &color(red){NEW!}
++Power to live
++アイシクルダンス（instrumental）
++アクアマリン/003 -destiny-（instrumental）
+
+**リンク
+-[[特設サイト>>http://aquastream.web.fc2.com/5thcd.html]]
+-[[作者サイト（aquastream）>>http://aquastream.web.fc2.com/]]
+
+**コメント
+#comment()

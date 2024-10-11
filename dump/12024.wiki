@@ -1,0 +1,39 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#image(http://blog-imgs-29-origin.fc2.com/p/r/q/prq/pqpc0001_bg.jpg,http://prq.blog44.fc2.com/blog-entry-176.html,title=P∴Rhythmatiq Rock!!,blank) 
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Harmonia>harmonia/P∴RhythmatiqCD]]|CENTER:&bold(){P∴Rhythmatiq Rock!!}|CENTER:[[P∴Rhythmatiq act:05]]|
+
+|&b(){[[Aether_Eru]]}|&b(){[[ノア(Noah)]]}|&b(){[[ゆうP]]}|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|>|CENTER:2009年9月6日|
+|価格|CENTER:￥1,000|CENTER:￥1,470(税込)|
+|サークル|>|CENTER:P∴Rhythmatiq|
+
+**CD紹介
+-P∴Rhythmatiqとペンギンチョッパーズのコラボアルバム。ジャケットイラストは、七尾奈留。
+-ガールズロックやパンクロックなどの“前向きで勇気の出る青春まっしぐらな楽曲”が収録されている。
+-サポートギターとして平松俊紀が参加しているのも要注目。
+
+**曲目
++SHINING DAYS　　作曲：Aether_Eru、作詞：Lians、サポートギター：平松俊紀
++Fly!　　作曲・作詞：ゆう
++夜店　　作曲・作詞：kya
++てるてるぼうず　　作曲・作詞：kya
++Fragile Rose　　作曲：setzer、作詞：綾菓
++RED FRUIT　　作曲・作詞：ゆう
++silver stars　　作曲・作詞・編曲：ゆう
++wish　　作曲・作詞：setzer
++色　　作曲・作詞：kya
++Slow & Steady　　作曲：setzer、作詞：setzer & 10g
++[[シアワセノシグナル]]　　作曲・作詞・編曲：Aether_Eru
++エレクトロガール　　作曲：Noah、作詞：AKI、編曲：Aether_Eru、サポートギター：平松俊紀
+
+**リンク
+-[[P∴Rhythmatiqのブログ>>http://prq.blog44.fc2.com/blog-entry-176.html]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/cit/pagekit/0000/02/44/0000024475/index.html]]
+-[[メロンブックス>>http://shop.melonbooks.co.jp/shop/list/?G=&MF=P%E2%88%B4Rhythmatiq]]
+
+**コメント
+#comment()

@@ -1,0 +1,31 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/3594585" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/3594585">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-投稿者名は&b(){ppppp}。
+--P名の由来は、「2コンマイクで歌ってもらいました」の動画中の表記〝PLAYER〟が〝&b(){PLAYRA}〟になっていたことから。
+-オルタナティブロック中心に楽曲を発表している。
+-初投稿作「onion ring」の投稿日が2007年10月2日という、初期の頃から活動しているP。
+-[[アングラカタログ>VOCALOID・アンダーグラウンド・カタログ]]に掲載されたことがある。
+-[[いりじゃこP]]、[[アンテナP]]と共に、「ピリピリチキンズ」を結成している。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/ppppp]]
+-[[作者ブログ>>http://ppppp.chillout.jp/no-can/]]
+
+**曲
+#list_by_tag(ぷれいらP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(ぷれいらPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+&b(){再生数の多い10曲}
+|&nicovideo(http://www.nicovideo.jp/watch/sm1187793)|&nicovideo(http://www.nicovideo.jp/watch/sm1672551)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm1915726)|&nicovideo(http://www.nicovideo.jp/watch/sm1978664)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2573047)|&nicovideo(http://www.nicovideo.jp/watch/sm3476853)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3849000)|&nicovideo(http://www.nicovideo.jp/watch/sm5409471)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm6639551)|&nicovideo(http://www.nicovideo.jp/watch/sm8683881)|
+
+**コメント
+#comment()

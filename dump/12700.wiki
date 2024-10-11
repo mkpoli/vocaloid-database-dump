@@ -1,0 +1,22 @@
+#right(){&furigana(めびうすP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/8185229" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/8185229">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-アーティスト名は&b(){mebius.m}で、現在のP名もそれに由来している。
+-本来はAquestoneを使ったハク曲を投稿していたが、「If I were...」からボカロ曲を投稿するようになった。
+
+**リンク
+-[[ピアプロ>>http://piapro.jp/mebius_m]]
+
+**曲
+#list_by_tag(メビウスP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(メビウスPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/nm6225295)|&nicovideo(http://www.nicovideo.jp/watch/sm7831238)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9379826)||
+
+**コメント
+#comment()

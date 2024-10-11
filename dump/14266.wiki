@@ -1,0 +1,31 @@
+#right(){&furigana(はくぎんのあえりあ)&furigana()【登録タグ:&tags() 】}
+
+&ref(https://livedoor.blogimg.jp/caz_music/imgs/5/b/5b5c61ec-s.jpg?8bd75fe3)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Vermillion>Vermillion/CD]]|CENTER:&bold(){白銀のアエリア}|CENTER:[[Corruption Garden]]|
+
+|&bold(){[[Caz]]}|
+
+発売：2010年11月14日
+価格：￥300
+流通：即売
+サークル：飴と鞭と犬
+
+**CD紹介
+-Caz氏のシングルCD。
+-THE VOC@LOiD M@STER 14（ボーマス14）にて50枚限定で頒布が行われた。
+-絵師のあちこあこ氏とのコラボシングル。
+
+**曲目
++[[白銀のアエリア]]
++Cold Blood
++白銀のアエリア -instrumental-
+
+**リンク
+//-[[作者サイト>>http://blog.livedoor.jp/caz_music/]]
+-[[作者ブログ>>http://blog.livedoor.jp/caz_music/archives/51527460.html]]
+-[[あちこあこ氏のブログ>>http://achikoaco.blog119.fc2.com/]]
+
+**コメント
+#comment()

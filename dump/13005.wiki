@@ -1,0 +1,40 @@
+#right(){&furigana(はっけんふゅーちゃーなう)&furigana()【登録タグ:&tags() 】}
+
+&ref(http://stat.ameba.jp/user_images/20101106/11/capmira/33/5d/j/o0200020010843097154.jpg)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm12679266)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[目隠しのステップ]]|CENTER:&b(){発見！フューチャーナウ！}|CENTER:[[エンドレス]]|
+
+|&b(){[[リン＆フューチャーナウ>キャプテンミライ]]}|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2010年11月14日||
+|価格|CENTER:￥1,000|￥1,050（税込）|
+|サークル|>|CENTER:バイバイレコード|
+
+**CD紹介
+-&b(){キャプミラP}と鏡音リンのバンド、&b(){リン＆フューチャーナウ}の1stアルバム。
+--キャプミラPとしては『[[幻想論>幻想論/CD]]』『[[目隠しのステップ]]』に次いで3枚目のCDとなる。
+-THE VOC@LOiD M@STER 14（ボーマス14）で初頒布。
+-新曲3曲を含む全8曲収録。音源は全てCD用にリミックスされている。
+
+**曲目
++フューチャーナウのテーマ　&color(red){New!}
++[[ハローノストラ]]
++[[積雪ロック]]
++fxxkfxxkfxxk　&color(red){New!}
++[[ハルマゲ音頭]]
++ガスタンクと鉄アレイ　&color(red){New!}
++うそつきアインシュタイン
++[[ライト兄弟のように]]
+
+**リンク
+//-[[バイバイレコード公式サイト>>http://www.byebyerecord.com/]]
+//-[[どことなくなんとなく（キャプテンミライのブログ）>>http://ameblo.jp/capmira/]]
+-[[作者ブログ>>https://ameblo.jp/capmira/entry-10698748980.html]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/24/47/040010244763.html]]
+
+**コメント
+#comment()

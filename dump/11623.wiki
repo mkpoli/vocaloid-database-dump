@@ -1,0 +1,53 @@
+#right(){&furigana(たーP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/16320152" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/16320152">【ニコニコ動画】</a></iframe>)
+
+**特徴
+作り手名：『&u(){たーP}』
+-2009年10月、「[[おはよ]]」にてボカロPデビュー。
+-使用合成音声は、GUMI・初音ミク・鏡音リン
+-代表曲は殿堂入りを果たした「[[jelLy]]」。
+-恋愛をテーマにした可愛らしい曲を主に作る。
+
+**リンク
+-[[どーも、たーPです（作者ブログ）>>http://ameblo.jp/t-chocoski/]]
+-[[ピアプロ>>http://piapro.jp/TAKTAKTAK]]
+
+**曲
+#list_by_tagsearch(たーP,sort=furigana2,errmsg=まだ曲が登録されていません。,and,100)
+
+**CD
+#list_by_tagsearch(たーPCD,sort=furigana2,errmsg=まだCDが登録されていません。,and,100)
+
+**動画
+|&nicovideo(sm8930283)|&nicovideo(sm8930872)|
+|&nicovideo(sm9179101)|&nicovideo(sm9689142)|
+|&nicovideo(sm10198859)|&nicovideo(sm10543566)|
+|&nicovideo(sm10884128)|&nicovideo(sm11111130)|
+|&nicovideo(sm11582183)|&nicovideo(sm11583284)|
+|&nicovideo(sm11899442)|&nicovideo(sm12012291)|
+|&nicovideo(sm12277333)|&nicovideo(sm12302136)|
+|&nicovideo(sm12442684)|&nicovideo(sm12606770)|
+|&nicovideo(sm12735683)||
+
+**関連タグ内の更新履歴
+#region(close,関連タグ内の更新履歴)
+関連タグ内の更新履歴
+※「たーP」「たーPCD」タグ内で最近編集やコメントのあった記事を新しい方から10件表示しています。
+#list_by_tagsearch(たーP,たーPCD,sort=timestamp,sort2=desc,errmsg=まだ曲、CDが登録されていません。,or,10)
+#endregion
+
+**コメント
+- ハロー、ミスターチョコレートは良曲!もっと伸びてほしい!!  -- 左脳  (2011-04-25 20:43:30)
+- 曲調の幅が広くて尊敬。もっともっと評価されるべきー！  -- 名無しさん  (2011-09-11 23:29:17)
+- jelLyで聴いたことある調教だと思ったけど、ＴＯＹの人か！　この方の歌はＧＵＭＩと合う！  -- 名無しさん  (2012-08-05 00:39:34)
+- たーPの曲大好き！特に「Rainy,rainy,rainy」は本当にいい曲だと思う！  -- 名無しさん  (2012-12-30 18:32:24)
+- 結婚おめでとうございます！  -- 名無しさん  (2013-01-08 00:15:04)
+- もっと有名になるべき(´･ω･`)　良い曲いっぱいあるのに  -- 水純斗  (2013-09-28 19:19:51)
+- 「激情マニアックス」大好き。格好いい。  -- 名無しさん  (2013-12-24 13:32:06)
+- Keep Rollin'聞かないと損だよ！！！！＞＜  -- 名無しさん  (2014-03-09 01:08:23)
+- 別名義でひっそり活動しててくれたりしないかな、、、んでひっそり｢あ、jelLy書いたのぼくです｣ってイベントか何かに出てきてほしい  -- 名無しさん  (2023-11-29 03:08:12)
+#comment()

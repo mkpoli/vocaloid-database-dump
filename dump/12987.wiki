@@ -1,0 +1,32 @@
+#right(){&furigana(clear)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/11397767" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/11397767">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-使用VOCALOIDは巡音ルカ、GUMI(Megpoid)、猫村いろは
+-ボカロオリジナル曲だけでなくインストゥルメンタル曲も投稿している
+-サウンドは打ち込みによるバンドサウンド楽曲が多い
+-8作目「冷めるが夢」以降はサムネイル画像も自作するようになる
+
+**リンク
+-[[HP「殉情樂堂」>>http://www.onde4u.jp/2008/takumi/]]
+-[[Twitter>>http://twitter.com/takumi011211]]
+-[[PIAPRO>>http://piapro.jp/t18782]]
+
+**曲
+#list_by_tag(takumi,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(takumiCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm6356585)|&nicovideo(http://www.nicovideo.jp/watch/sm6589499)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7358596)|&nicovideo(http://www.nicovideo.jp/watch/sm7938531)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9528676)|&nicovideo(http://www.nicovideo.jp/watch/sm9594794)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9937391)|&nicovideo(http://www.nicovideo.jp/watch/sm10542042)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm10885960)|&nicovideo(http://www.nicovideo.jp/watch/sm11181622)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm11475441)|&nicovideo(http://www.nicovideo.jp/watch/sm11669649)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12013774)|&nicovideo(http://www.nicovideo.jp/watch/sm12570790)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12742781)||
+
+**コメント
+#comment()

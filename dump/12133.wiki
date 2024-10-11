@@ -1,0 +1,23 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/8821678" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/8821678">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-ロック・メタル系の楽曲をメインに投稿している。
+-どことなく切ない曲が多い。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/greed7]]
+
+**曲
+#list_by_tag(nx5r,100,sort=furigana,errmsg=まだ曲が登録されていません)
+//**CD
+//#list_by_tag(nx5rCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/nm4833090)|&nicovideo(http://www.nicovideo.jp/watch/sm5235650)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5436194)|&nicovideo(http://www.nicovideo.jp/watch/sm5975937)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6631405)|&nicovideo(http://www.nicovideo.jp/watch/sm7175520)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7817916)|&nicovideo(http://www.nicovideo.jp/watch/sm9545780)|
+
+**コメント
+#comment()

@@ -1,0 +1,60 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+#image(http://k-shi-studio.com/debutante6/banner.jpg,http://k-shi-studio.com/debutante6/,title=DEBUTANTE VI,blank)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[DEBUTANTE V]]|CENTER:&bold(){DEBUTANTE VI}|CENTER:[[DEBUTANTE VII Preview]]|
+
+|&bold(){k-shi}|[[チーターガールP]]|[[OSTER project]]|[[ヤスオP]]|[[畳P>畳P（North-T）]]|[[卑屈P]]|[[samfree]]|[[ゆにめもP]]|[[アンメルツP]]|[[whoo]]|
+|[[情熱P]]|[[悪ノP]]|[[すけっちP]]|[[ちばけんいち>味噌汁P]]|[[EB]]|[[Alter]]|[[とくP]]|[[黒ねこP]]|[[生徒怪]]|[[PENGUINS PROJECT]]|
+
+||CENTER:即売|CENTER:同人|
+|発売|>|CENTER:2010年12月31日|
+|価格|CENTER:￥1,500|CENTER:-|
+|サークル|>|CENTER:けしスタジオ|
+
+**CD紹介
+-オムニバスアルバム『DEBUTANTE』シリーズ第6弾。
+-コンセプトは『楽しくなれるCD！』というわけでパレード、お祭りをモチーフに賑やかなアルバムに仕上がりました。
+-Disc1（昼パート）とDisc2（夜パート）のCD2枚組、完全書き下ろしで19曲を収録。フルカラーブックレット14P付き。
+-ジャケットイラストは [[憂]]氏 が手掛ける。
+-2010/12/31に開催されるC79にてリリース。
+-とらのあなで委託されている。
+
+**収録曲
+-DISC01
++[[New year festival]] / [[k-shi]]
++[[おひめさまになりたいのッ！]] / [[OSTER project]]
++アンバランス / [[畳P>畳P（North-T）]]
++[[サヨナラカーニヴァル]] / [[すけっちP]]
++笑顔になあれ / [[koushirou>卑屈P]]
++[[赤い靴のパレード]] / [[てとてと>情熱P]]・[[mothy>悪ノP]]
++Heartful　Melody / [[ちばけんいち>味噌汁P]]
++ピース / [[Alter]]
++ひとりぼっちパレード / [[EB]]
++ウタゴエ / [[samfree]]
+-DISC02
++星の王子様 / [[KTG>チーターガールP]]
++[[epilogue bridge]] / [[黒ねこP]]
++Stereo Noise / [[ヤスオ>ヤスオP]]
++パレード / [[生徒怪]]
++[[Baby Bear]] / [[アンメルツP]]
++夜 / [[ゆにめも>ゆにめもP]]
++BLUE / [[PENGUINS PROJECT]]
++[[Ameto]] / [[whoo]]
++Miracle Of Desktop / [[とくP]]
+
+//&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/20552295" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/20552295">【ニコニコ動画】</a></iframe>)
+
+**リンク
+-[[DEBUTANTE VI 特設サイト>>http://k-shi-studio.com/debutante6/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/25/36/040010253658.html]]
+
+**コメント
+- 赤い靴のパレードはパレード過ぎて怖いｗｗでも買うんだろうなぁ・・・。  -- 名無しさん  (2010-12-29 02:44:10)
+- 赤い靴〜は楽しくなれ…るか…?(-_-;)  -- 名無しさん  (2011-01-03 02:32:14)
+- ↑楽しくはなれないと思うｗｗｗｗ &br()おひめさまになりたいのッ！は楽しいっていうかかわいいｗｗｗ  -- 名無しさん  (2011-01-18 16:55:53)
+- なぜ赤い靴のパレードｗｗｗｗ  -- 名無しさん  (2011-01-18 17:06:18)
+- ヤスオさんのStereo Noiseがどうしようもなく好きだ  -- 名無しさん  (2011-01-21 00:42:46)
+- 星の王子様はヤバイ あれ凄く良い  -- 名無しさん  (2011-08-21 21:58:27)
+- 大変感動です（泣）  -- 良太  (2016-01-16 23:53:14)
+#comment

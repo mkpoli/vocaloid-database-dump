@@ -1,0 +1,51 @@
+#right(){&furigana(つたえたいことなんてねぇよ)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm14435735)|
+作詞：[[あなぶら]]
+作曲：[[あなぶら]]
+編曲：[[あなぶら]]
+唄：[[初音ミク]]
+
+**曲紹介
+曲名：『&u(){伝えたい事なんてねぇよ}』(&u(){つたえたいことなんてねぇよ})
+
+**歌詞
+（[[ピアプロ>>http://piapro.jp/t/5_io]]より転載）
+
+I think of you, So I love you Ah...
+
+この想い伝えたくて　毎日　悩んでる
+どうしても言えないよ　想いだけつのってく
+でも僕も歌だったら　言えるかもしれない
+でも歌詞なんて書けなくて　これだけさ　叫ぶよ
+
+I think of you, So I love you 想いを　気持ちを
+I think of you, So I love you それだけ　言えたら
+
+この気持言えたなら　どんなにか楽だろう
+夢にまで見ているよ　限界さこの気持ち
+でも僕も歌だったら　言えるかもしれない
+でも歌詞なんて書けなくて　これだけさ　叫ぶよ
+
+I think of you, So I love you 想いを　気持ちを
+I think of you, So I love you それだけ　言えたら
+
+I think of you, So I love you 想いを　気持ちを
+I think of you, So I love you それだけ　言えたら
+
+I think of you, So I love you 想いを　気持ちを
+I think of you, So I love you それだけ　言えたら・・・
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+**コメント
+#comment()
+
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)

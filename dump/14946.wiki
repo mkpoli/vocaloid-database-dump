@@ -1,0 +1,38 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#image(http://hellosound.main.jp/hope/image/banner2.jpg,http://hellosound.main.jp/hope/,title=Hope,blank)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm13951501)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&b(){Hope}|CENTER:-|
+
+|[[クワガタP]]|[[KEI]]|[[骨盤P]]|[[Nem]]|[[ピノキオピー]]|[[まあさ]]|[[ゆちゃP]]|[[ライブP]]|
+
+|流通|CENTER:即売|
+|発売|CENTER:2011年3月23日|
+|価格|CENTER:\500|
+|サークル|CENTER:Celo Project（委託）|
+
+**CD紹介
+>このCDによって発生した利益は全て、頒布終了後に会計を公開した後、
+>日本赤十字社（予定）を通じて東日本大震災で被災された方々への義援金として寄付させて頂きます。
+-7人のボカロPが参加したチャリティーコンピレーションアルバム。全7曲収録。
+-VOCALOID PARADISE 5（ボーパラ5）にて、300枚限定で頒布。
+
+**曲目
++[[ぼくとわたしと少年少女]]　/　GUMI　/　作詞・作曲：ピノキオピー
++[[INVITATION]]　/　初音ミク　/　作詞・作曲：KEI
++シニカルオレンジ　/　初音ミク　/　作詞・作曲：ゆちゃP
++[[グッバイトデー]]　/　鏡音リン　/　作詞・作曲：ライブP
++[[ヒステリ]]　/　初音ミク　/　作詞・作曲：クワガタP
++マーチ　/　初音ミク　/　作詞・作曲：骨盤P
++[[春のかけら]]　/　初音ミク　/　作詞：まあさ、作曲：Nem
+
+**リンク
+-[[特設サイト>>http://hellosound.main.jp/hope/]]
+
+**コメント
+- ボーパラで、無事入手しました！  -- 奈良の人  (2011-03-28 12:17:42)
+- 2.INVITATION 初音ミクx VY1o  -- starsky  (2017-11-25 17:34:32)
+- ぼくとわたしと少年少女のGUMIver.が気になりすぎる  -- 名無しさん  (2023-12-14 17:39:00)
+#comment()

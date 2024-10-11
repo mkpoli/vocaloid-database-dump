@@ -1,0 +1,48 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&ref(http://www.toranoana.jp/bl/cit/pagekit/0000/00/04/000000043656/040010259955-1.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){STRIKE PARTY - high speedy boon!!!!!}|CENTER:-|
+
+|[[とくP]]|[[ライブP]]|[[iroha>iroha/作り手]]|[[kuma（alfred）]]|[[otetsu]]|[[オワタP]]|[[←P]]|[[すこっぷ]]|
+|[[れるりり]]|[[orange>orange/作り手]]|[[シグナルP]]|[[150P]]|[[きゃんでぃP]]|[[yaichi]]|[[卑屈P]]|[[田村ヒロ]]|
+
+||CENTER:即売|CENTER:委託|
+|発売|CENTER:2011年1月16日||
+|価格|CENTER:￥1,000|CENTER:￥1,500（税込）|
+|サークル|>|CENTER:Logic Strike|
+
+**CD紹介
+>-&bold(){「　B　P　M　1　8　0　以　上　、　限　定　コ　ン　ピ　。　」}
+-BPM180以上の高速サウンドをコンセプトにしたコンピレーションCD。総勢12人、全12曲。
+-ジャケットイラストを [[田村ヒロ]]が、WEBデザインを [[ユミソラ]]が手掛ける。
+-2/27には原宿アストロホールにて、数々の歌い手がこのコンピの曲を歌う、連動型ライブを企画中。
+-THE VOC@LOiD M@STER 15（ボーマス15）にて 150P の 2nd album『[[Angelist]]』と同時リリース。
+-とらのあな、メロンブックス、ホワイトキャンバス、あきばお～こく、D-STAGEにて委託販売が行われている。
+
+**クロスフェード
+&nicovideo(http://www.nicovideo.jp/watch/sm13217079)
+
+**曲目
++Plus-tic Blue / [[とくP]]
++ガリガリゲーム / [[ライブP]]
++Devolution / [[iroha（sasaki）>iroha/作り手]]
++[[Speed>speed/otetsu]] / [[otetsu]]
++[[ゴチャゴチャうるせー！]] / [[オワタP]]
++[[Burial At the Sea]] / [[←P]]
++[[鬼子母神ザクロ]] / [[れるりり]]
++Farewell Forest / [[シグナルP]]
++細腕の魔法使い / [[すこっぷ]]
++[[究極不完全体]] / [[卑屈P]]
++せー☆てん！ - TS Carnival! / [[150P]]
++high speedy boon!!!!! / Logic Strike（[[yaichi]]＆[[150P]]）
+
+**リンク
+-[[特設サイト>>http://logicstrike.com/bomasu15/]]
+
+**コメント
+- おすすめの曲（初心者向け）どれですか？  -- レノ  (2011-01-16 22:30:12)
+- せー☆てん！が良かった  -- 名無しさん  (2011-02-10 18:59:41)
+- 「ごちゃごちゃ～」目当てで買いましたが、「farewell forest」  -- 名無しさん  (2011-03-17 15:24:40)
+- Plus-tic Blue  -- 名無しさん  (2011-05-01 22:25:10)
+#comment()

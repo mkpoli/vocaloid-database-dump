@@ -1,0 +1,19 @@
+#right(){【登録タグ:&tags()】}
+//↑タグ忘れ防止のための表示
+曖昧さ回避のためのページ
+----
+-[[wintermute]]の曲
+--[[Reality/wintermute]]
+-[[あルカP]]の曲
+--[[Reality/あルカP]]
+-[[Dog tails]]の曲
+--[[Reality/Dog tails]]
+-[[セピア]]の曲
+--[[Reality/セピア]]
+-[[マイナスP]]の曲
+--[[REALITY/マイナスP]]
+
+-[[ちょむP]]のCD
+--[[RealitY/CD]]
+
+#include(曖昧さ回避の追加の仕方/告知)

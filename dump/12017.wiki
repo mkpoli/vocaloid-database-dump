@@ -1,0 +1,35 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://a1.phobos.apple.com/us/r1000/048/Music/89/eb/6b/mzi.lbuiwnjc.170x170-75.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[possible to die for - ep]]|CENTER:&bold(){chorus lines - ep}|CENTER:[[to-kyo]]|
+
+|&bold(){[[EHAMIC]]}|
+
+||CENTER:即売|CENTER:同人|CENTER:配信|
+|発売|CENTER:2009年12月29日|CENTER:2009年12月30日|CENTER:2009年11月15日|
+|価格|CENTER:￥1,000|CENTER:￥1,260(税込)|CENTER:￥750 / 1曲￥150|
+|サークル|>|>|CENTER:ehamiku|
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/chorus-lines-ep/id349822118]]}|
+
+**CD紹介
+-違いのわかる初音ミク、ehamikuが放つ2ndはボカロ達による合唱コンクール。全曲生音のスタジオ録音作品。
+-とらのあなで委託販売されていたが、完売。
+-iTunes Storeでのダウンロード販売が行われている。
+
+**曲目
++[[chorus lines (邦題：合唱コンクール)>合唱コンクール]]
++[[kathy (邦題：キャシーの眼鏡が語る)>キャシーの眼鏡が語る]]
++stAtE Of EmErgEncy
++chorus lines (instrumental))
++kathy (instrumental)
+
+**リンク
+-[[EHAMIC twitter>>http://twitter.jp/EHAMIC/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/20/56/040010205655.html]]
+
+**コメント
+- CDだけに収録されている「stAtE Of EmErgEncy」が良すぎて俺得。  -- 名無しさん  (2011-01-06 07:25:38)
+- ↑そのとーり、まさにかくれた名曲なんだけど知ってるやつすくねーだろな・・・  -- 名無しさん  (2011-02-27 17:06:22)
+#comment()

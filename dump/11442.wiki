@@ -1,0 +1,18 @@
+#right(){&furigana()&furigana()【登録タグ:&tags()】}
+&nicovideo(http://www.nicovideo.jp/watch/nm11741359)
+作詞：[[SeikoP]]
+作曲：[[SeikoP]]
+編曲：[[SeikoP]]
+唄：巡音ルカ
+コーラス：SeikoP
+
+**曲紹介
+-プログレ+アンビエント+ラウンジ
+-曲調は過去曲の[[Crystalline>Crystalline/SeikoP]]と[[Caoin]]を混ぜた感じ&br()（以上は投稿者コメントより引用）
+-歌い方には[[Blue Amber]]以降の抑揚のつけ方も現れている
+-美しさの中に、力強さがバランスよくミックスされている
+
+
+
+**コメント
+#comment()

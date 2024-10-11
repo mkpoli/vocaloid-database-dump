@@ -1,0 +1,66 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+//&ref(http://img-origin.yaplog.jp/img/02/pc/k/i/d/kidsworks/0/5.jpg)
+&ref(http://cdn.karent.jp/thumb_a/590/590_20101122041042_0400_0400.jpg,height=300)
+
+&nicovideo(sm12074233)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[雨音と偽りのワルツ]]|CENTER:&bold(){White Flower ～all my Love～}|CENTER:[[やきいものうた>やきいものうた/CD]]|
+
+|&bold(){[[キッドP]]}|[[クリスタルP]]|[[残鏡P]]|[[れれれP]]|[[パプリカP]]|
+
+||CENTER:即売|CENTER:同人|CENTER:配信|
+|発売|CENTER:2010年9月19日|CENTER:2010年9月24日|CENTER:2010年12月27日|
+|価格|CENTER:￥1,000|CENTER:￥1,260（税込）|CENTER:￥1,500 / 1曲￥150|
+|サークル|>|>|CENTER:NnDS☆|
+|ジャケットイラスト|>|>|CENTER:[[碧茶]]|
+
+|&bold(){[[とらのあなで購入する>>http://www.toranoana.jp/mailorder/cit/pagekit/0000/00/04/000000040738/index.html]]}|
+
+**CD紹介
+-[[キッドP]]の2ndアルバム。
+-2010年9月19日開催の鏡音リン・レンオンリーイベント鏡音びより！で頒布された。
+-作詞に[[残鏡P]]が7曲、パプリカPが1曲提供している。
+-4曲目の「セピアに変わる日」は[[クリスタルP]]の2009年の冬コミアルバム『[[大樹の唄～inspired sounds and words～]]』に収録されている曲のセルフカヴァー。この曲のアレンジを[[れれれP]]が担当している。
+-1stアルバム『[[fate of･･･]]』に引き続き今作のミックス・マスタリングをクリスタルPが担当。
+-ジャケットイラストとデザインワークスを碧茶氏が担当。全ページ描き下ろしという豪華仕様になっている。
+-ボーナストラックとして、クリスタルPの楽曲「[[湖城]]」と自身の楽曲「[[ツキノウタ]]」（1stアルバム『[[fate of･･･]]』収録曲）の英語バージョンを収録。この2曲はキッドPが歌っている。
+-とらのあなでの委託販売、KarenTよりダウンロード販売が行われている。配信版は鏡音リン・レン3周年記念企画で配信された作品の1つ。
+
+**曲目
++White Flower
++-Lyrics:残鏡P／Music:キッド／Arrangement：クリスタルP
++ロンリーライブ
++-Lyrics:残鏡P／Music:キッド／Arrangement：クリスタルP
++青い自転車に乗って
++-Lyrics:残鏡P／Music:キッド／Arrangement：クリスタルP
++セピアに変わる日
++-Lyrics:クリスタルP／Music:キッド／Arrangement：れれれP
++[[運命の扉 ～reaL gate remix～>運命の扉]]
++-Lyrics&Music:キッド／Remixed：クリスタルP
++Interlude-Rain-
++-Music:キッド／Arrangement：クリスタルP
++[[雨音と偽りのワルツ]]
++-Lyrics:残鏡P／Music:キッド／Arrangement：クリスタルP
++[[紅蓮華]]
++-Lyrics:パプリカP／Music:キッド／Arrangement：クリスタルP
++[[“Panda” virus]]
++-Lyrics:残鏡P／Music:キッド／Arrangement：クリスタルP
++[[眠りについたおもちゃ箱]]
++-Lyrics:残鏡P／Music:キッド／Arrangement：クリスタルP
++黄色い天使
++-Lyrics:残鏡P／Music:キッド／Arrangement：クリスタルP
++[[湖城]] -KID SIDE-（Bonus Tracks）
++-Lyrics＆Music＆Arrangement：クリスタルP
++Moonlight Melody（原曲：[[ツキノウタ]]）（Bonus Tracks）
++-Lyrics:キッド＆クリスタルP／English translation Lyrics：あき／Music:キッド／Arrangement：れれれＰ
+
+**リンク
+-[[NnDS☆（作者サイト）>>http://nnds.soudesune.net/]]
+-[[kid's land（作者ブログ）>>http://yaplog.jp/kidsworks/]]
+-[[とらのあな特設ページ>>http://www.toranoana.jp/mailorder/cit/pagekit/0000/00/04/000000040738/index.html]]
+-[[KarenT：「White Flower～all my Love～」>>http://karent.jp/album/590]]
+-[[KarenT：「鏡音リン・レン祭'10」特集ページ>>http://karent.jp/special/rinlen10]]
+
+**コメント
+#comment()

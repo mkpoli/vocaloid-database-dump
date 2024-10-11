@@ -1,0 +1,56 @@
+#right(){&furigana(k_zero+A)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/16305980" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/16305980">【ニコニコ動画】</a></iframe>)
+
+**特徴
+作り手名：『&u(){k_zero+A}』
+-使用ボカロは[[初音ミク]]・[[巡音ルカ]]・[[GUMI>Megpoid]]。
+-作るジャンルはハウス・ジャズ・ポストロック等、多種多様なものを作る。
+-「k_zero+Aは数十人体制だ」「k_zero+Aはロボットだ」という冗談が定番となっているが実際は2[禁則事項]
+
+**リンク
+-[[k_zero+aが書くことだ、どうやら（作者ブログ）>>https://d.hatena.ne.jp/k_zero/]]
+-[[ピアプロ>>https://piapro.jp/ktkk39]]
+-[[YouTube>>https://www.youtube.com/user/KzeroPlusA]]
+-[[Twitter>>https://twitter.com/k_zero_]]
+
+**曲
+#list_by_tag(k_zero＋A,100,sort=furigana,errmsg=まだ曲が登録されていません)
+//タグですが、+が半角だと「タグキーワード「××」を含むページ一覧」がうまく機能しないので全角にしてます。+が半角空白になって「k_zero A」になります。
+
+**CD
+#list_by_tag(k_zero＋ACD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(nm8999724)|&nicovideo(nm9198666)|
+|&nicovideo(sm9698518)|&nicovideo(sm9844732)|
+|&nicovideo(sm9963696)|&nicovideo(sm10605526)|
+|&nicovideo(sm10973550)|&nicovideo(sm11051287)|
+|&nicovideo(sm11132594)|&nicovideo(sm11210498)|
+|&nicovideo(sm12034996)|&nicovideo(sm12394392)|
+|&nicovideo(sm12934828)|&nicovideo(sm14518246)|
+|&nicovideo(sm14708961)|&nicovideo(sm19641333)|
+|&nicovideo(sm20347389)|&nicovideo(sm20347466)|
+|&nicovideo(sm22220556)|&nicovideo(sm22792498)|
+|&nicovideo(sm23882050)|&nicovideo(sm27780111)|
+|&nicovideo(sm30271069)|&nicovideo(sm35036524)|
+|&nicovideo(sm36042902)|>|
+
+**コメント
+//- いちげと。
+- アンシクロペディストの見た夢が凄い好き！  -- 綾瀬  (2011-04-17 16:09:20)
+- 好きです  -- 名無しさん  (2011-07-24 01:48:32)
+- k_zero作品に外れなし  -- 名無しさん  (2011-09-19 04:38:41)
+- もっと伸びるべき  -- 名無しさん  (2011-10-23 21:47:28)
+- 聞き入る  -- 名無しさん  (2011-10-25 00:40:20)
+- この人の曲、もっと伸びてほしい  -- 綾崎  (2012-04-01 20:40:56)
+- どの曲もツボです  -- 名無しさん  (2012-05-05 18:09:15)
+- どの曲も独特で素敵です!　大好き‼  -- おしるこ  (2013-04-04 12:32:35)
+- とにかく気持ちのいいメロディを作るのがうまい　特にピアノがいい  -- 名無しさん  (2013-04-10 01:50:44)
+- どの曲も好きです。コンセプトにこだわりがあっていいなと思う  -- 名無しさん  (2013-11-23 15:21:16)
+- 新曲まだかなあ、どの曲もいいです  -- 名無しさん  (2015-08-23 12:06:49)
+- 歌詞も音もいいんだよな。なんというか、投稿頻度も心地よい  -- 名無しさん  (2015-08-29 16:30:25)
+#comment()

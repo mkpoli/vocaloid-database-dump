@@ -1,0 +1,45 @@
+#right(){&furigana(いえのはいすいこうかつまってあふれてみすたまりP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/16241608" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/16241608">【ニコニコ動画】</a></iframe>)
+
+**特徴
+作り手名：『&u(){家の排水溝が詰まって溢れて水たまりP}』（&u(){いえのはいすいこうがつまってあふれてみずたまりぴー}）
+-投稿者名は&b(){himawari}。
+--妙に長いP名は、2作目「[[水たまりグラフィティ]]」の説明文欄において、&br()「&i(){家の排水溝が詰まって溢れて水たまりなんか出来たら誰でも切ないです。}」と発言したことに由来する。
+-作風はロックやテクノポップやチップチューンが主である。爽やかな曲が多い。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/himawari_degirock]]
+-[[LIFE～行き止まり！！～（作者ブログ）>>http://himawari222.blog24.fc2.com/]]
+-[[Twitter>>http://twitter.com/himawari111]]
+-[[KarenT>>http://karent.jp/artist/pp000384]]
+
+**曲
+#list_by_tagsearch(家の排水溝が詰まって溢れて水たまりP,sort=furigana2,errmsg=まだ曲が登録されていません。,and,100)
+
+**CD
+#list_by_tagsearch(家の排水溝が詰まって溢れて水たまりPCD,sort=furigana2,errmsg=まだCDが登録されていません。,and,100)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm9565166)|&nicovideo(http://www.nicovideo.jp/watch/sm9772234)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm10061476)|&nicovideo(http://www.nicovideo.jp/watch/sm10284407)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm10525411)|&nicovideo(http://www.nicovideo.jp/watch/sm10764404)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm11295232)|&nicovideo(http://www.nicovideo.jp/watch/sm11365477)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm11796226)|&nicovideo(http://www.nicovideo.jp/watch/sm11796383)|
+|&nicovideo(sm12408586)||
+
+**関連タグ内の更新履歴
+#region(close,関連タグ内の更新履歴)
+関連タグ内の更新履歴
+※「家の排水溝が詰まって溢れて水たまりP」「家の排水溝が詰まって溢れて水たまりPCD」タグ内で最近編集やコメントのあった記事を新しい方から10件表示しています。
+#list_by_tagsearch(家の排水溝が詰まって溢れて水たまりP,家の排水溝が詰まって溢れて水たまりPCD,sort=timestamp,sort2=desc,errmsg=まだ曲、CDが登録されていません。,or,10)
+#endregion
+
+**コメント
+- 長いP名が気になって聴いてみたら一目惚れしました(*´｀*) 大好きです！  -- 名無しさん  (2011-03-30 20:56:26)
+- あーﾌｧﾝですわ　完全に中毒ですわ←  -- 名無しさん  (2011-08-28 21:24:26)
+- この人の曲好き  -- 名無しさん  (2012-05-27 09:53:33)
+#comment()

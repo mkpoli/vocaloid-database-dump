@@ -1,0 +1,45 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm12616593)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Three Out Change!]]|CENTER:&bold(){Quadrophenia}|CENTER:[[5 senses working overtime]]|
+
+|&b(){[[えっちP]]}|[[wintermute]]|[[えこ。]]|[[キャプテンミライ]]|[[saiB]]|[[●テラピコス]]|
+||[[梨本P]]|[[FuzzP]]|[[bothneco]]|[[liam>liam/作り手]]|[[ここ狭いP]]|
+
+||CENTER:即売|CENTER:同人|
+|発売|>|CENTER:2010年11月14日|
+|価格|CENTER:￥1,000|CENTER:￥1,050（税込）|
+|サークル|>|CENTER:Out Wave Cluster|
+
+>ジャケット：&b(){[[liam>liam/作り手]]}
+
+|&b(){[[とらのあなで購入する>>http://www.toranoana.jp/mailorder/article/04/0010/24/91/040010249111.html]]}|
+
+**CD紹介
+-サークル「Out Wave Cluster」の第4弾コンピレーション。
+-今作では新たなメンバーとして FuzzP と saiB が参加している。
+-THE VOC@LOID M@STER 14（ボーマス14）で頒布される。
+-とらのあなで委託販売が行われている。
+
+**曲目
++[[wake up>wake up/bothneco]] / [[bothneco]]
++さよならイエロウ・コットマン　/　[[saiB]]
++うそつきアインシュタイン　/　[[リン＆フューチャーナウ>キャプテンミライ]]　　
++生の目覚め　/　[[梨本うい>梨本P]]
++[[わかんないよ]]　/　hr@[[えっちP]]
++[[ロプノールの道化]] / ろくがつ（[[ここ狭いP]]）
++雨 / [[えこまる>えこ。]]
++[[あのこはいない]] / ふしだら劇場（[[FuzzP]]）
++Cosmic Blues　/　[[liam>liam/作り手]]
++[[Orchid Parade]] / [[wintermute]]
++[[心中>心中/●テラピコス]] / [[●テラピコス]]
+
+**リンク
+-[[アルバム詳細>>http://outwavecluster.tumblr.com/post/1656873574/quadrophenia]]
+-[[CD告知>>http://owc.blog20.fc2.com/blog-entry-44.html]]
+-[[Out Wave Cluster サイト>>http://outwavecluster.tumblr.com/]]
+-[[Out Wave Cluster 旧ブログ>>http://owc.blog20.fc2.com/]]
+
+**コメント
+#comment

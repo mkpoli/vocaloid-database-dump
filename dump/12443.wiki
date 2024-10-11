@@ -1,0 +1,38 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm10644809)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[すばらしき人生>すばらしき人生/CD]]|CENTER:&b(){Born in the NIPPON}|CENTER:-|
+
+|&b(){[[たかP]]}|[[TuKuRu]]|[[夕闇P]]|[[レオP]]|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|>|CENTER:2010年5月9日|
+|価格|CENTER:\1,000|CENTER:\1,200(税込)|
+|サークル|>|CENTER:Project Nostalgia|
+
+**CD紹介
+-おっさんホイホイの第一人者、たかPの2ndフルアルバム。
+-がくっぽいどコンテスト優秀作品に選ばれた『[[すばらしき人生]]』他、&br()オリジナル曲10曲とゲストによるアレンジ3曲を収録。
+
+**曲目
++cyaneus
++[[純白の君へ]]
++Born in the NIPPON
++[[勧酒 (quanjiu)]]
++[[すばらしき人生]]
++[[明け方の月]]
++[[Dear my Master]]
++[[Honest Love]]
++[[シリウス]]
++[[Winter Memories]]
++[[たんぽぽ>たんぽぽ/たかP]] Produced by.TuKuRu
++すばらしき人生-sweets pop mix- Produced by.夕闇P
++黄昏のノスタルジア Produced by.レオP
+
+**リンク
+-[[Project NostalgiaのCD情報ページ>>http://nostalgia.takap.tk/solo/nippon/]]
+-[[タップ オンラインショップの通販ページ>>https://v-nyappon.net/shop/tap/products/detail.php?product_id=48]]
+
+**コメント
+#comment()

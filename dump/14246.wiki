@@ -1,0 +1,29 @@
+#right(){&furigana(かわP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/15456338" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/15456338">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-ピアプロを主な活動場所としているP。ピアプロ発のコラボへの参加にも精力的である。
+-P名がそのままアーティスト名に由来しているPの1人。
+-本人は作曲の方が得意であり、作詞は苦手としている。そのため、作詞を依頼し作曲のみ担当することが多い。
+-naohironixとのコラボ曲「[[その先の向こうへ]]」は、&br()GOODSMILERACING with COX×ピアプロ MIKU GT 2010 テーマソングコンテストにおいて最優秀賞を受賞した。
+
+**リンク
+-[[ロジックの皮（作者ブログ）>>http://kawa.tk/blog/]]
+-[[ピアプロ>>http://piapro.jp/kawa]]
+-[[Twitter>>http://twitter.com/kawa]]
+
+**曲
+#list_by_tag(皮P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(皮PCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm8259245)|&nicovideo(http://www.nicovideo.jp/watch/sm8414665)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm8613338)|&nicovideo(http://www.nicovideo.jp/watch/sm8645282)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm8655458)|&nicovideo(http://www.nicovideo.jp/watch/sm10162441)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm11532941)|&nicovideo(http://www.nicovideo.jp/watch/sm12387018)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12476700)||
+
+**コメント
+#comment()

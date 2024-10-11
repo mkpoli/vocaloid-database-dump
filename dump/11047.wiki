@@ -1,0 +1,29 @@
+#right(){&furigana(あうとふつとP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/19576660" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/19576660">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-デビュー作は2010年6月14日に投稿された「[[Falling Star]]」。
+-作る曲はテクノポップ系が主となっている。
+-まだ作品数こそ少ないが、これからが期待される。
+
+**リンク
+-[[ピアプロ>>http://piapro.jp/output_p]]
+-[[Twitter>>http://twitter.com/output_p]]
+
+**曲
+#list_by_tag(アウトプットP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(アウトプットPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm11221292)|&nicovideo(http://www.nicovideo.jp/watch/sm11057805)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm11372346)|&nicovideo(http://www.nicovideo.jp/watch/sm12642796)|
+
+**コメント
+- 新曲の願い花は、本当にオススメ。泣けるバラード  -- 名無し  (2010-11-11 03:45:13)
+- ↑聴いてきます＾＾  -- きちる  (2011-01-10 16:19:57)
+- いい曲♪ -- 生島はるな  (2013-10-30 12:31:25)
+//- ちなみに初音ミクさんの大ファンです(*≧∀≦*) 初音ミクゲームソフトも、持ってます( ☆∀☆  -- 生島はるな  (2013-10-30 12:34:30)
+- 新曲待ってます  -- ホテルマン  (2013-12-03 06:14:24)
+#comment()

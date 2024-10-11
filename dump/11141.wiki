@@ -1,0 +1,34 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/3276909" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/3276909">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-主に電子音を用いた曲を投稿している。
+-他にもロック曲を投稿したりと、作る曲のジャンルは意外と幅広い。
+-使用ボカロはミク・リンレン。
+-hackberry氏の曲をボカロに歌わせたりすることも多い。
+
+**リンク
+-[[ピアプロ>>http://piapro.jp/baruto]]
+
+**曲
+#list_by_tag(cannabanoid,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(cannabanoidCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/nm4028965)|&nicovideo(http://www.nicovideo.jp/watch/nm4177662)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm5883543)|&nicovideo(http://www.nicovideo.jp/watch/nm6335969)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm6621048)|&nicovideo(http://www.nicovideo.jp/watch/nm7683171)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm7877148)|&nicovideo(http://www.nicovideo.jp/watch/nm7945398)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm8113115)|&nicovideo(http://www.nicovideo.jp/watch/sm8559136)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm8806766)|&nicovideo(http://www.nicovideo.jp/watch/nm8910364)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9024794)|&nicovideo(http://www.nicovideo.jp/watch/nm9065811)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9088238)|&nicovideo(http://www.nicovideo.jp/watch/sm9340464)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9658827)|&nicovideo(http://www.nicovideo.jp/watch/sm9768235)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9916523)|&nicovideo(http://www.nicovideo.jp/watch/sm10149558)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm10531636)|&nicovideo(http://www.nicovideo.jp/watch/sm10975060)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm11033063)|&nicovideo(http://www.nicovideo.jp/watch/sm11517973)|
+
+**コメント
+#comment()

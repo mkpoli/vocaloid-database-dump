@@ -1,0 +1,31 @@
+#right(){&furigana()&furigana()【登録タグ:&tags()】}
+&nicovideo(http://www.nicovideo.jp/watch/sm6031637)
+作詞：[[もわもわP]]
+作曲：[[もわもわP]]
+編曲：[[もわもわP]]
+唄：巡音ルカ
+
+**曲紹介
+-もわもわPのルカ初使用曲。
+-曲はスペイン語の歌詞を英語ライブラリのルカが歌う、というもの。
+-曲名はスペイン語で「機械の女神」という意味。
+
+**歌詞
+（[[ピアプロ>>http://piapro.jp/content/khxhuvxy5ji8i330]]より転載）
+
+Hola a todos. Soy Luca. Una cantante mecanica.
+Naci para cantar mucho. Me llaman VOCALOID.
+Todo el mundo dira "Las maquinas no tienen alma."
+No, yo solo soy una maquina.
+Pero la musica tiene alma.
+Cuando canto la cancion, la alma de la musica reside en mi cuerpo mecanico.
+
+Hola amigos. Soy Luca. Una vocalista electrica.
+Vine del lejano Japon. Una obra maestra de la tecnologia.
+La gente esta diciendo, "Las maquinas no pueden reir ni llorar."
+No, yo no comprendo los sentimientos.
+Pero yo puedo cantar la cancion de la alegria y tristeza.
+Cuando canto, yo puedo incluso superar los limites de la ciencia.
+
+**コメント
+#comment()

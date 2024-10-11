@@ -1,0 +1,35 @@
+#right(){&furigana(ちくわP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/17149273" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/17149273">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-元々のアーティスト名は&b(){チャド}。
+-現在のP名の由来はデビュー作である「おでんですよ」から。
+-最近は一時停止しても動画が動く、いわゆる「止めても動く」動画を投稿している模様。
+-6作目の「[[和歌子と瑠璃子の積木崩し]]」がヒットし、&br()さらに、10作目の「[[いたいあたしあしたあいたい]]」が自身初の殿堂入りを達成した。
+
+**リンク
+-[[作者ブログ>>http://highsay.seesaa.net/]]
+
+**曲
+#list_by_tag(竹輪P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+//**CD
+//#list_by_tag(竹輪PCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm9088497)|&nicovideo(http://www.nicovideo.jp/watch/sm9392457)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm10306354)|&nicovideo(http://www.nicovideo.jp/watch/sm10929079)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm11419645)|&nicovideo(http://www.nicovideo.jp/watch/nm11245592)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm11324991)|&nicovideo(http://www.nicovideo.jp/watch/nm11890404)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12655668)|&nicovideo(http://www.nicovideo.jp/watch/nm14068363)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm18669841)||
+
+**コメント
+- 竹輪Pきたぁあああああ！ 数え歌のPV・音のセンスに脱帽  -- 名無しさん  (2011-01-29 00:33:39)
+- やっと評価されてきたな～。わるつと数え歌が好きすぎる…  -- 名無しさん  (2011-04-09 20:14:53)
+- いたいあたしあしたあいたいはもっと評価されるべき　すごいよあれ・・  -- 名無しさん  (2012-02-05 12:46:42)
+- ↑プラスの「和歌子と瑠璃子の積木崩し」もな。あれもすごい。  -- 闇唄蓮音  (2012-10-07 22:58:36)
+- 私は、着信/発信に惚れました！  -- 名無しさん  (2012-10-09 20:06:25)
+- めりぃさん怖いけどめちゃくちゃ好き！歌詞ないよー(´Д｀)残念。  -- 名無しさん  (2012-11-21 19:55:02)
+- もっと評価されていい幻想狂気の常連。歌詞と動画のセンスぱないです。  -- 黒葉  (2013-03-27 10:22:02)
+#comment()

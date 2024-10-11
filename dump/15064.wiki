@@ -1,0 +1,25 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/20809154" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/20809154">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-ボカロデビュー作は「only your princess」。
+-作る曲は恋愛系が多い様子。
+
+**リンク
+-[[ぴのろぐ（作者ブログ）>>http://pinono0603.blog.fc2.com/]]
+-[[ピアプロ>>http://piapro.jp/tetsu0603]]
+-[[Twitter>>http://twitter.com/pino_0603]]
+
+**曲
+#list_by_tag(ぴの,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(ぴのCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm11920832)|&nicovideo(http://www.nicovideo.jp/watch/sm12835868)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm13169698)|&nicovideo(http://www.nicovideo.jp/watch/sm13554919)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm14019072)||
+
+**コメント
+#comment()

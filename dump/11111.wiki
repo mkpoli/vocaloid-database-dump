@@ -1,0 +1,32 @@
+#right(){&furigana(しようしようP)&furigana()【登録タグ:&tags() 】}
+|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/4847811" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/4847811">【ニコニコ動画】</a></iframe>)|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/18852532" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/18852532">【ニコニコ動画】</a></iframe>)|
+
+**特徴
+-一番古い動画は2009年10月9日に投稿された「歌わせて」。
+-以降、ロック、歌謡曲、和風曲、バラードと、様々なジャンルの曲を投稿していたが、初音ミクAppendを入手後に発表した「初雪草歌」にて注目を集める。初音ミクAppendの発売直後の中、民謡曲をこぶしを利かせながら生き生きとした声で歌うミクの歌声に多くのユーザが驚き聞きほれ、ユーザーに初音ミクAppendの実力を知らしめた。
+-かと思えば「おにい☆たん」でロリ路線に走ると言う全く別のベクトルに進み、『少々病気』というタグを貰うというお茶目な処を見せた。
+-普段は、PIAPROにて他の作家とコラボを行ったり、曲毎にジャンルを変えるなど、音楽製作を楽しみながら行っている。
+-MikuMikuDanceを使用した動画も投稿している。
+
+**リンク
+-[[ピアプロ>>http://piapro.jp/kasuga9119]]
+-[[Twitter>>http://twitter.com/shoshop]]
+
+**曲
+#list_by_tag(少々P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(少々PCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画（再生数が多い順に8つ）
+|&nicovideo(http://www.nicovideo.jp/watch/sm10557556)|&nicovideo(http://www.nicovideo.jp/watch/sm10677503)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9812224)|&nicovideo(http://www.nicovideo.jp/watch/sm10104759)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm10290446)|&nicovideo(http://www.nicovideo.jp/watch/sm10441707)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9955558)|&nicovideo(http://www.nicovideo.jp/watch/sm10143377)|
+
+**コメント
+//- 一コメゲット！！
+- 初音ミクの妄想シリーズ、吹きましたｗｗ  -- 名無し  (2013-05-04 13:56:20)
+- 初雪草歌大好きです。  -- 元禄  (2014-09-22 06:34:19)
+- RiSingすき  -- 名無しさん  (2021-05-28 14:39:30)
+#comment()

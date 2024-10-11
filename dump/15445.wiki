@@ -1,0 +1,40 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/692_20110331171944_0240_0240.jpg)&br()配信版ジャケット
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[TRAUMATIC>TRAUMATIC/CD]]|CENTER:&bold(){P}|CENTER:[[毒 e.p.]]|
+
+|&bold(){[[鬱P]]}|
+
+||CENTER:即売|CENTER:配信|
+|発売|CENTER:2011年3月27日|CENTER:2011年4月15日|
+|価格|CENTER:￥500|CENTER:￥300 / 1曲￥150|
+|サークル|>|CENTER:MY SONG IS SHIT|
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/p-single/id431052159]]}|
+
+**CD紹介
+-鬱Pのミニアルバム。初期の楽曲をリメイクして収録している。
+-2011年3月のVOCALOID PARADISE 5（ボーパラ5）で頒布された。
+-この作品の収益金はすべて、日本赤十字社を通じて東日本大震災の被災者へ寄付される。
+-KarenTレーベルよりダウンロード販売が行われている。CD版とは収録曲が異なる。
+
+**曲目
+***CD版
++[[再生>再生/鬱P]]
++[[ダイベン]]
++華
++[[恐怖！スピーカー人間]]
++[[#ffffff>>http://www24.atwiki.jp/utauuuta/pages/815.html]]   -VOCALOID ver.
+
+***配信版
++[[ダイベン]] （feat. 初音ミク）
++華 （feat. 初音ミク）
++[[恐怖！スピーカー人間]] （feat. 初音ミク）
+
+**リンク
+-[[CD版の詳細>>http://assholewii.tumblr.com/post/3805602546/5]]
+-[[KarenT：「P」>>http://karent.jp/album/692]]
+
+**コメント
+#comment()

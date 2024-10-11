@@ -1,0 +1,32 @@
+#right(){&furigana(おもうのこと)&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/688_20110326231028_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Boringman DANCE>Boring man]]|CENTER:&bold(){想うの事}|CENTER:-|
+
+|&bold(){[[フナコシP]]}|[[挫折P]]|
+
+発売：2011年4月6日
+価格：￥300 / 1曲￥150
+流通：配信
+レーベル：KarenT
+ジャケットイラスト：石田康成
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/id429349543]]}|
+
+**CD紹介
+-東日本大震災へのチャリティー作品として発表された配信EP。
+-作品は「iTunes Store」と「初音ミクモバイル（ミクモバ）」（着うたのみ）の2サイトにて2011年9月30日までの期間限定配信され、売り上げはクリエイターにより被災地義援金として寄付されるとのこと。
+
+**曲目
++[[ご相席]]（ピアノArr.挫折P） （feat. 初音ミク）
++[[恐らく多分きっとの事 （feat. 森川アキコ）>>http://www.nicovideo.jp/watch/sm13387111]]
++恐らく多分きっとの事 naked ver. （feat. 初音ミク）
+
+**リンク
+-[[KarenT：「想うの事」>>http://karent.jp/album/688]]
+-[[KarenT：「 PRAY FOR JAPAN 東日本大震災 クリエイターによるチャリティ配信」について>>http://karent.jp/special/charity]]
+-[[作者ブログ>>http://funakoship.blog108.fc2.com/]]
+
+**コメント
+#comment()

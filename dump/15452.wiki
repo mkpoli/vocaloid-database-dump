@@ -1,0 +1,32 @@
+#right(){&furigana(りくるーとP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/17833914" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/17833914">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-使用VOCALOIDは初音ミク、GUMI。
+-アーティスト名は「saku」。
+-P名の由来は荒川アンダー ザ ブリッジの登場人物から。
+-コミュニティでは生放送なんかもしている。
+-これからの活躍が期待される。
+
+**リンク
+-[[ブログ>>http://saku242.blog9.fc2.com/]]
+-[[Twitter>>http://twitter.com/saku_recruitP]]
+-[[コミュニティ>>http://com.nicovideo.jp/community/co370676]]
+
+**曲
+#list_by_tag(リクルートP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(リクルートPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/nm9093705)|&nicovideo(http://www.nicovideo.jp/watch/sm10365414)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm10851893)|&nicovideo(http://www.nicovideo.jp/watch/sm12665505)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm13667717)|&nicovideo(sm15970850)|
+|&nicovideo(sm16231559)|&nicovideo(sm22042139)|
+
+**コメント
+- P名見た時から荒川UBだと分かりましたｗｗリク大好きですっｗ(＞＜)ノ曲も大好きですっ  -- 名無しさん  (2011-06-13 23:34:35)
+- 最高です～毎回聴いてます(´∀｀*)  -- 夜空  (2011-07-23 13:27:03)
+- 黒ラビドロップアウトが一番好き！！  -- りょん  (2013-08-12 18:24:04)
+#comment()

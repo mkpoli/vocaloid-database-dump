@@ -1,0 +1,52 @@
+#right(){&furigana(clear)&furigana()【登録タグ:&tags() 】}
+|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/19860345" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/19860345">【ニコニコ動画】</a></iframe>)&br()（イママP名義）|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/34551456" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/34551456">【ニコニコ動画】</a></iframe>)&br()（yksb名義）|
+
+**特徴
+-&b(){Bit-z}という名義で作曲活動しているルカ使い。
+-&bold(){イママP}というP名を使用していたが、2013年から&b(){yksb}（ヤキソバ）に改名した。
+-J-POPのVOCALOIDカバーも投稿したりしている。
+-「[[アッパーチューン]]」で初の殿堂入りを達成。
+
+**リンク
+-[[ピアプロ>>http://piapro.jp/imama5111]]
+-[[MySpace>>http://www.myspace.com/bitz5111]]
+-[[Twitter>>http://twitter.com/imama5111]]（旧アカウント）
+-[[Twitter>>http://twitter.com/yksbdance]]
+-[[ブログ>>http://ameblo.jp/yksbdance/]]
+
+**曲
+#list_by_tag(yksb,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(yksbCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画（イママP名義）
+***オリジナル
+|&nicovideo(http://www.nicovideo.jp/watch/nm11048758)|&nicovideo(http://www.nicovideo.jp/watch/nm11088967)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm11352776)|&nicovideo(http://www.nicovideo.jp/watch/sm11951611)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12139447)|&nicovideo(sm12412790)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12835874)|&nicovideo(http://www.nicovideo.jp/watch/sm13035876)|
+|&nicovideo(sm13299747)||
+***カバー
+|&nicovideo(http://www.nicovideo.jp/watch/nm11736018)|&nicovideo(http://www.nicovideo.jp/watch/nm11749075)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm11789377)|&nicovideo(http://www.nicovideo.jp/watch/nm12042828)|
+
+**動画（yksb名義）
+***オリジナル
+|&nicovideo(http://www.nicovideo.jp/watch/sm20201982)|&nicovideo(http://www.nicovideo.jp/watch/sm20387277)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm20665248)|&nicovideo(http://www.nicovideo.jp/watch/sm21022894)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm21132131)||
+***リミックス
+|&nicovideo(http://www.nicovideo.jp/watch/sm20117094)|&nicovideo(http://www.nicovideo.jp/watch/sm21324840)|
+
+**コメント
+- yksbというのは別名義？改名？  -- 名無しさん  (2013-06-17 03:50:55)
+- ↑「午前4時のヒトリゴト」の投稿者コメントに「前名義」とあったので改名だと思います。  -- moto (2013-07-21 10:02:27)
+- ページ名を変更しました。  -- 名無しさん  (2014-02-10 15:50:40)
+- イママPとyksbさんって同一人物だったのか！  -- 名無しさん  (2014-05-07 21:37:40)
+- NAKEDから知ってアッパーチューンで見事にはまった・・・Show　By　Rockとコラボってるねー、びっくり。  -- 黒葉  (2014-08-03 18:13:55)
+//- 糞パクリ野郎  -- 名無しさん  (2015-06-16 10:15:43)
+//- 今更知ったけど、酷いなこりゃ。  -- 名無しさん  (2016-09-24 17:10:13)
+//- 盗作クソ野郎のくせに薄っぺらい曲しか作れないキモオタ。頭弱いファンに一生ちやほやされててね  -- 名無しさん  (2016-11-24 18:50:37)
+//- パクリｐまだ活動してんのな  -- なっちゃん  (2018-01-17 00:02:59)
+#comment()

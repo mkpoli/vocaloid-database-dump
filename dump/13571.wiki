@@ -1,0 +1,43 @@
+#right(){&furigana(たんけんとぼうけんしゃのふく)&furigana()【登録タグ:&tags() 】}
+#image(http://blog-imgs-44.fc2.com/u/n/i/unimemopro/tanken_jacket_small8.jpg,http://unimemopro.blog129.fc2.com/,title=短剣と冒険者の服,width=200,height=200,blank)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[ネジと歯車とプライド>ネジと歯車とプライド/CD]]|CENTER:&b(){短剣と冒険者の服}|CENTER:-|
+
+|&b(){[[ゆにめもP]]}|[[悪ノP]]|
+
+|流通|CENTER:即売|CENTER:同人|CENTER:配信|
+|発売|>|CENTER:2010年12月31日|CENTER:2011年12月21日|
+|価格|CENTER:￥1,000|CENTER:￥1,470(税込)|CENTER:￥1,200 / 1曲￥150|
+|サークル|>|CENTER:uniMemo Pro.||
+
+**CD紹介
+-&b(){ゆにめもP}の3rd VOCALOIDアルバム。
+-アートワークは「[[息吹]]」や「[[芽生]]」のイラストを描いた&b(){コージ（arto）}が手掛ける。
+-コミックマーケット79で初頒布。現在、とらのあなで委託中。
+-KARENTレーベルよりダウンロード販売が行われている。鏡音リンレン4周年&Append1周年記念企画で配信された作品の1つ。この企画では『[[uniStage]]』も同時リリースされている。
+
+**曲目
++迷いの壁
++[[海渡る風の唄]]　&color(red){New!}
++[[Room 256]]
++[[竜骨の笛の少女]]
++[[ネジと歯車とプライド]]
++憂い
++[[息吹]]
++進化
++化粧台のマリオネット
++夜
++[[光と影の竜]]
+
+**リンク
+-[[作者のブログ>>http://unimemopro.blog129.fc2.com/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/25/54/040010255494.html]]
+-[[KARENT：「短剣と冒険者の服」>>http://karent.jp/album/945]]
+-[[KARENT：「鏡音リン・レン祭'11」特集ページ>>http://karent.jp/special/rinlen11]]
+
+**コメント
+- 息吹のPowerリメイクが好きすぎるｗ  -- 名無しさん  (2011-03-06 01:17:23)
+- KAITO曲が！  -- 名無しさん  (2011-04-18 15:07:14)
+- 海渡る風の唄ってもう投稿されているよね？直っていない＿  -- 買った人  (2015-06-19 21:34:15)
+#comment()

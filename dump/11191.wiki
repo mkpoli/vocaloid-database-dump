@@ -1,0 +1,50 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+#image(http://k-shi-studio.com/debutante5/banner_db5.jpg,http://k-shi-studio.com/debutante5/,title=DEBUTANTE V,blank)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[DEBUTANTE IV]]|CENTER:&bold(){DEBUTANTE V}|CENTER:[[DEBUTANTE VI]]|
+
+|&bold(){k-shi}|[[baker]]|[[OSTER project]]|[[ちばけんいち>味噌汁P]]|[[すずきP]]|[[リョータイ]]|[[卑屈P]]||
+|[[samfree]]|[[ゆにめもP]]|[[アンメルツP]]|[[cosMo（暴走P）]]|[[ゆうゆ]]|[[sick]]|[[情熱P]]|[[悪ノP]]|
+
+||CENTER:即売|CENTER:同人|
+|発売|>|CENTER:2010年8月14日|
+|価格|CENTER:￥1,000|CENTER:￥1,365（税込）|
+|サークル|>|CENTER:けしスタジオ|
+
+**CD紹介
+-オムニバスアルバム『DEBUTANTE』シリーズ第5弾。
+-集大成とも言える4作目から1年。今回はこれまでとは違い、楽曲の一般公募を受け付けるという新しい試みに挑戦している。
+-完全書き下ろしで13曲を収録。フルカラーブックレット24P付き。
+-ジャケットイラストは [[憂]]氏 が手掛ける。
+-2010/8/14に開催されるC78にてリリース。
+-とらのあなにて委託販売が行われている。
+
+**収録曲
++caLL×Me / k-shi
++[[バスルームガーデン]] / [[OSTER project]]
++[[sample]] / [[baker]]
++ココロナナイロ / [[ちばけんいち>味噌汁P]]
++[[アイスエイジ]] / [[koushirou>卑屈P]]
++恋唄 / sick
++R-25 / [[cosMo>cosMo（暴走P）]]
++Lonely Bird / [[samfree]]
++[[Never Afraid]] / [[アンメルツP]]
++[[黄燐の炎]] / [[情熱P]]・[[mothy>悪ノP]]
++迷いの壁 / [[ゆにめも>ゆにめもP]]
++[[魔女]] / [[すずきP]]
++[[飛雷震]] / [[ゆうゆ]]
+
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/20552295" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/20552295">【ニコニコ動画】</a></iframe>)
+
+**リンク
+-[[DEBUTANTE V 特設サイト>>http://k-shi-studio.com/debutante5/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/23/26/040010232650.html]]
+
+**コメント
+- 作成乙！情熱Pと悪ノPのコラボとか、ゆうゆさんの新曲とかこれもう買うしかないだろ  -- 名無しさん  (2010-08-03 19:32:33)
+- ささくれさんがいない…だと？！  -- 名無しさん  (2010-08-16 03:44:19)
+- 6曲目のサビが天樂に似てる…  -- 名無しさん  (2010-08-25 09:39:44)
+- 今更ながらほしい・・・。  -- 名無しさん  (2011-07-03 12:01:32)
+- R-25が好きです  -- 名無しさん  (2012-12-01 14:11:15)
+#comment

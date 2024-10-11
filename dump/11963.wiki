@@ -1,0 +1,47 @@
+#right(){&furigana(らいふP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://ext.nicovideo.jp/thumb_mylist/8192057" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/8192057">【ニコニコ動画】%E5%80%89%E5%BA%AB%E3%81%9D%E3%81%AE%E4%B8%80</a></iframe>)
+
+**特徴
+作り手名：『&u(){らいふP}』
+-ミク1周年となる2008年8月31日に「[[a year]]」でボカロデビュー。
+-可愛いピコピコポップサウンドを得意とする。
+-萌え電波だだもれな「[[ゆらら放送局！]]」がスマッシュヒット。
+//-今後の活動が気になる製作者の一人である。
+
+**リンク
+-[[砂場（作者ブログ）>>http://kclife.blog58.fc2.com/]]
+-[[PIAPRO>>https://piapro.jp/life]]
+-[[Twitter>>https://twitter.com/kclife2007]]
+
+**曲
+#list_by_tag(らいふP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(らいふPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm4475339)|&nicovideo(sm4559971)|
+|&nicovideo(sm6582099)|&nicovideo(sm6636692)|
+|&nicovideo(sm7276396)|&nicovideo(sm7351781)|
+|&nicovideo(sm8883677)|&nicovideo(sm8894974)|
+|&nicovideo(sm10394398)|&nicovideo(sm10540554)|
+|&nicovideo(sm10544766)|&nicovideo(sm11013677)|
+|&nicovideo(sm11239224)|&nicovideo(sm11378592)|
+|&nicovideo(sm11870477)|&nicovideo(sm12199585)|
+|&nicovideo(sm12379242)|&nicovideo(sm12825940)|
+|&nicovideo(sm12987963)|&nicovideo(sm13292516)|
+|&nicovideo(sm13564450)|&nicovideo(sm13818361)|
+|&nicovideo(sm13861437)|&nicovideo(sm13887514)|
+
+**出家作
+|&nicovideo(sm12008831)|>|
+
+**コメント
+//- まさかの１げと。
+- この人の曲ほんと好きだからよかった。  -- 紳士さん  (2012-05-31 21:25:25)
+- 歌詞がどストライク。メロディーも好き。ほんとだいすき。  -- 好きですびゅうびゅう  (2012-08-05 15:49:15)
+#comment()

@@ -1,0 +1,43 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#image(http://blog-imgs-41-origin.fc2.com/p/r/q/prq/prqt0009_bn_450_100.jpg,http://prq.blog44.fc2.com/blog-entry-256.html,title=P∴Rhythmatiq Re:act,blank) 
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[P∴Rhythmatiq Trial mix]]|CENTER:&bold(){P∴Rhythmatiq Re:act}|CENTER:[[P∴Rhythmatiq act:06]]|
+
+|&b(){[[Aether_Eru]]}|&b(){[[ノア(Noah)]]}|&b(){[[ゆうP]]}|[[baker]]|[[チーターガールP]]|[[とくP]]|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|>|CENTER:2010年2月7日|
+|価格|CENTER:\1,000|CENTER:\1,470(税込)|
+|サークル|>|CENTER:P∴Rhythmatiq|
+
+**CD紹介
+-P∴Rhythmatiqのリミックスアルバム。ジャケットイラストは、しろ。
+-ゲストとして&b(){チーターガールP}と&b(){とくP}が参加しており、P∴Rhythmatiqの楽曲をリミックスしている。
+-『ミクうた、おかわり』にも収録された『[[celluloid]] -P∴Rhythmatiq remix-』を特別収録！
+
+**曲目
++楓 -Aether_Eru's cheerful skip:) Remix-
++sweet home -KTG's doce casa Remix-
++Happy Loop!! -Yu-'s Fortunate chiptune Remix-
++Dream Maker -KTG's extend vanguard Remix-
++スカイハイ -Yu-'s Fallin' #1966ff Remix-
++[[シアワセノシグナル]] -toku's Shiawase Hazzzzzard Remix-
++[[Snow Promenade]] -Aether_Eru's Frozen heart Remix
++Harmonia -Aether_Eru's Eternal melody Remix-
++jewel -Yu-'s Jeweling AcousTech Remix-
++[[CLOSE 2U]] -Noah's Step 2U Remix-
++[[celluloid]] -P∴Rhythmatiq remix-
++[[Melodia]] -KTG's extend electrochoc Remix-
++Orizzontia -Noah's Out of Place Remix-
+
+**リンク
+-[[P∴Rhythmatiqのブログ>>http://prq.blog44.fc2.com/blog-entry-256.html]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/21/18/040010211866.html]]
+-[[D-stage>>http://d-stage.com/shop/detail.php?seq=13200]]
+-[[あきばおーこく>>http://www.akibaoo.com/02/commodity_param/t/0/ctc/+/shc/0/cmc/2500020116258/backURL/+02+main]]
+-[[メロンブックス>>http://shop.melonbooks.co.jp/shop/list/?G=&MF=P%E2%88%B4Rhythmatiq]]
+-[[ホワイトキャンバス>>http://www.w-canvas.com/shopping/detail.php?item_id=36560]]
+
+**コメント
+#comment()

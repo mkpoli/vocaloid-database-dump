@@ -1,0 +1,36 @@
+#right(){&furigana(うどんたいまーP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/20661414" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/20661414">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-投稿者名は&b(){しゅん}。
+--P名の由来は、カップうどんの調理時間である約5分に近い尺の曲が続いたことから。&br()その後もP名を裏切らぬ、尺が約5分の楽曲を投稿している。
+-「演奏してみた」「歌ってみた」動画も投稿している。
+-近年は&b(){Soul Kitchen}というバンドで活動を行っている。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/shunband]]
+-[[mixi>>http://mixi.jp/show_profile.pl?id=26582383]]
+-[[KARENT>>https://karent.jp/artist/pp000845]]
+-[[Twitter>>http://twitter.com/shunband]]
+-[[YouTube>>https://www.youtube.com/user/shunband]]
+
+**曲
+#list_by_tag(うどんタイマーP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(うどんタイマーPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm11816923)|&nicovideo(sm11877646)|
+|&nicovideo(sm12105647)|&nicovideo(sm12213057)|
+|&nicovideo(sm13050534)|&nicovideo(sm13544403)|
+|&nicovideo(sm14120003)|&nicovideo(sm14816101)|
+|&nicovideo(sm16264517)|&nicovideo(sm26654609)|
+|&nicovideo(sm27004478)|&nicovideo(sm29297420)|
+|&nicovideo(sm29548623)|&nicovideo(sm31672013)|
+|&nicovideo(sm31841410)|&nicovideo(sm32995006)|
+|&nicovideo(sm33875788)|&nicovideo(sm33991180)|
+
+**コメント
+- 星空きれいすぎる―！ってP名の由来うどんなんだｗｗ  -- かのん  (2016-09-22 13:14:41)
+#comment()

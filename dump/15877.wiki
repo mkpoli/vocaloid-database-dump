@@ -1,0 +1,31 @@
+#right(){&furigana(ひえきってしまったべんとうP)&furigana()【登録タグ:&tags() 】}
+//&nicovideo_mylist()
+
+**特徴
+-アーティスト名は&b(){くらげUFO}。
+-ボカロ界隈で所謂アンダーグラウンドに分類される楽曲が多い。。
+-投稿頻度は早く、2010年10月21日の初投稿から2011年5月までで既に120曲程度の投稿をしている。
+-P名が長いため、&b(){冷弁P}などと略されることもある。
+-歌詞やコメントにプリンが登場する頻度が高い。
+-複数人で交代しながらやっている説がある。
+-高所恐怖症。
+-2012年1月29日、&b(){うひひひひP}への改名が打診された。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/ufo_county]]
+-[[Youtube>>http://www.youtube.com/user/UFOCounty]]
+-[[作者サイト>>http://www.geocities.jp/ufo_county/]]
+
+**曲
+#list_by_tag(冷えきってしまった弁当P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+//**CD
+//#list_by_tag(冷えきってしまった弁当PCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+&b(){再生数の多いものから順に4つ（2011年5月現在）}
+|&nicovideo(http://www.nicovideo.jp/watch/sm12770615)|&nicovideo(http://www.nicovideo.jp/watch/sm12788718)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm14027969)|&nicovideo(http://www.nicovideo.jp/watch/sm12779809)|
+
+**コメント
+- 何という名前・・・（驚）弁当冷えちゃったよ！？って思った。  -- fate  (2011-05-26 17:10:22)
+#comment()

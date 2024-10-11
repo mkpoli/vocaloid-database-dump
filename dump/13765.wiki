@@ -1,0 +1,28 @@
+#right(){&furigana(みみろぼP)&furigana()【登録タグ:&tags() 】}
+//&nicovideo_mylist()
+**特徴
+-P名の由来は、氏の代表作「[[耳のあるロボットの唄]]」より。
+-主にUTAUオリジナル曲を投稿している。
+-VOCALOIDオリジナル曲作者としては、「[[磁性海の少女]]」が初作品にして、現在唯一の作品である。
+-他には、カバーアルバム『[[初音ミクsingsハルメンズ]]』で、初音ミクを使用して参加している。
+-UTAUオリジナル曲は[[こちら>>http://www24.atwiki.jp/utauuuta/pages/16.html]]から。
+
+**リンク
+-[[Twitter>>https://twitter.com/nwp8861]]
+-[[作者ブログ>>http://nwp8861.blog92.fc2.com/]]
+-[[楽曲置き場>>http://freett.com/nwp8861/mp3/]]
+
+**曲
+#list_by_tag(耳ロボP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(耳ロボPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm9615200)||
+
+**コメント
+//- １ゲト・・・って
+- 耳ロボPなかったの！？記事乙！！  -- 名無しさん  (2011-04-22 19:46:47)
+- ………みたいだね← 乙〜  -- 摩桜  (2012-07-10 20:39:28)
+#comment()

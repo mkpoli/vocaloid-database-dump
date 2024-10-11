@@ -1,0 +1,42 @@
+#right(){&furigana(clear)&furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm12658398)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[amplitude]]|CENTER:&bold(){JAPON}|CENTER:[[DEFINITION]]|
+
+|[[ちぃ]]|[[ポン酢P]]|[[vanette]]|[[他P]]|[[TAKE3240]]|[[テラ小室P]]|[[SOLIDIO]]|
+
+||CENTER:即売|CENTER:同人|
+|発売|CENTER:2010年11月14日|CENTER:2010年12月|
+|価格|CENTER:￥1,000|CENTER:￥1,050（税込）|
+|サークル|>|CENTER:0108－音屋－|
+
+**CD紹介
+-音楽サークル「0108－音屋－」の2ndアルバム。
+-完全プレスCD仕様。
+-ジャケット及びブックレットのイラストは「0108－音屋－」統括の[[ちぃ]]氏の描き下ろし。また、アートディレクション全般を「0108－音屋－」の[[ep0d>他P]]氏が務めた。
+-ボーカル11曲とインスト2曲の全13曲（[[SOLIDIO]]氏の作品「How Many Holes Are They？」は、ボーカロイドに初音ミクを起用しているが、ブックレットに歌詞の記載はなくインスト曲扱い）。
+-とらのあなとホワイトキャンバスにて委託販売が行われている。
+
+**曲目
++[[How Many Holes Are They？]]　- [[SOLIDIO]]
++[[光響戦隊カナデンジャー]](ALBUMサイズ)　- TAKE3240 
++Give and Take　- 0108
++ラブ×2 パワ→　- vanette 
++Against Nature World　- [[テラ小室P]]
++[[キミとボクの道]]　- [[ちぃ]]
++[[Monochrome Daily Life]]　- テラ小室P
++△□　-The unstable world-　- [[Hal>ポン酢P]]
++[[Ducktest]]　- [[ep0d>他P]]
++JAPON　- ep0d
++[[キモノ・ドレス]]　- Hal
++[[キミノカケラ>キミノカケラ/SOLIDIO]]　- SOLIDIO
++[[Voyager -ボイジャー-]]　- TAKE3240
+
+**リンク
+-[[0108－音屋－>>http://www.die8.name/0108/index.html]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/24/84/040010248486.html]]
+-[[ホワイトキャンバス>>http://www.w-canvas.com/shopping/detail.php?item_id=45558]]
+
+**コメント
+#comment

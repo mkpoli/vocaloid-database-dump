@@ -1,0 +1,32 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm5857175)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[でてないホー！！]]|CENTER:&bold(){VOiCE・PV}|CENTER:-|
+
+|&bold(){[[ラヴリーP]]}|
+
+||CENTER:即売|CENTER:同人|CENTER:配信|
+|発売|CENTER:2009年11月10日|CENTER:2009年11月|CENTER:2010年7月16日|
+|価格|CENTER:￥500|CENTER:￥735（税込）|CENTER:￥400|
+|サークル|>|CENTER:With A Flower|CENTER:-|
+|レーベル|>|CENTER:-|CENTER:KarenT|
+
+**CD紹介
+-ニョホホ氏が作成した、ラヴリーPの「[[VOiCE>VOiCE/ラヴリーP]]」のPVを収録したDVD。
+-THE VOC@LOiD M@STER 10（ボーマス10）で頒布された。
+-とらのあなとD-STAGEにて委託販売が行われている。その後、KarenTレーベルよりダウンロード販売も開始された。
+
+**曲目
++[[VOiCE>VOiCE/ラヴリーP]]
+
+**リンク
+-[[With A Flower（ニョホホ氏ブログ）>>http://withaflower.blog93.fc2.com/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/cit/pagekit/0000/00/03/000000030184/index.html]]
+-[[D-STAGE>>http://d-stage.com/shop/detail.php?seq=11976]]
+-[[KarenT>>http://karent.jp/movie/475]]
+
+**コメント
+- いいよ～♪サイコ～だぜィ☆  -- 獄音  (2011-07-17 22:32:50)
+- イイ☆　(b'v`)b  -- める  (2011-07-18 00:14:18)
+#comment()

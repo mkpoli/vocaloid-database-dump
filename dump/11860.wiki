@@ -1,0 +1,32 @@
+#right(){&furigana(TNoP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://ext.nicovideo.jp/thumb_mylist/16922442" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/16922442">【ニコニコ動画】T-No.P</a></iframe>)
+
+**特徴
+作り手名：『&u(){T-No.P}』
+-特徴的なGUMI曲を作っているが、GUMIの調教とニコ動への投稿はもっぱら[[ヒャッハーP]]が行っている。
+-P名の由来は動画内のイラストが何作目かわかる仕様になっていることから。
+-前述のヒャッハーPに加えて[[テレ男>>https://www.nicovideo.jp/mylist/6045880]]氏・鳴かぬ蛍が身を焦がす氏とは「Mohicans, Inc.」なるユニット（？）を組んでいる。
+
+**リンク
+-[[Mohicans, Inc.のブログ（作者ブログ）>>https://ameblo.jp/mohicans/]]
+-[[ピアプロ>>https://piapro.jp/panyu]]
+
+**曲
+#list_by_tag(T-No.P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(T-No.PCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm9429530)|&nicovideo(sm9566979)|
+|&nicovideo(sm9874719)|&nicovideo(sm10233592)|
+|&nicovideo(sm10565318)|&nicovideo(sm10912249)|
+|&nicovideo(sm11238831)|&nicovideo(sm11588007)|
+|&nicovideo(sm11960644)|>|
+
+**コメント
+#comment()

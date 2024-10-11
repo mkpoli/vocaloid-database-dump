@@ -1,0 +1,31 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/19281999" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/19281999">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-P名は&b(){杯具P}。
+-中国人のボカロPである。初音ミクが日本語DBであるにもかかわらず、見事な中国語調教を施す。
+-2010年5月7日に投稿した「西江月」（後に「月西江」として再投稿）でその名を知られるようになったが、諸問題（詳しくは[[大百科>>http://dic.nicovideo.jp/a/%E6%9C%88%E8%A5%BF%E6%B1%9F]]を参照）により「月西江」を削除。&br()作者に対する根拠のない中傷・動画荒らし行為等の諸問題はニコニコ動画だけに留まらず、ニュースサイトにも記事が出るほどだった。
+--なお、「月西江」はこれらの問題にも負けない根強い人気があり、PVが投稿されるなど、高い評価を受けている事がわかる。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/solpie]]
+-[[KARENT>>http://karent.jp/artist/pp000567]]
+-[[YouTube>>https://www.youtube.com/user/solpieMJ]]
+
+**曲
+#list_by_tag(solpie,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(solpieCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm10526238)|&nicovideo(http://www.nicovideo.jp/watch/sm10649526)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm10907267)|&nicovideo(http://www.nicovideo.jp/watch/sm11903092)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12116163)|&nicovideo(http://www.nicovideo.jp/watch/sm12145746)|
+
+**コメント
+- このうP主様、大好きでした…。心無い日本人のせいで、大好きなうP主様が消えてしまいました。また、うP主様の曲が聴きたいです。  -- 名無しさん  (2011-07-23 13:49:30)
+- ↑いや、台湾人と大陸の中国人の言い争いから生じた誤解が直接の原因らしいですが。  -- 名無しさん  (2012-09-01 17:27:29)
+- 月西江好きです。  -- 元禄  (2014-10-21 06:29:45)
+- 月西江も好きですが、戦国図が一番好き。しせつかんや うpしてほしい…  -- 名無しさん  (2014-10-21 16:18:26)
+#comment()

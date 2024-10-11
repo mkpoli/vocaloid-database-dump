@@ -1,0 +1,40 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&ref(dafaf.jpg)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm12075361)
+
+|&bold(){[[西沢さんP]]}|&bold(){[[、いくP]]}|
+
+|>|>|CENTER:&bold(){西沢さんP}|
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[ぐみたん！]]|CENTER:&bold(){Two}|CENTER:[[泣き虫アンサンブル]]|
+|>|>|CENTER:&bold(){、いくP}|
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Two}|CENTER:-|
+
+
+|&bold(){[[とらのあなで購入する>>http://www.toranoana.jp/mailorder/article/04/0010/24/15/040010241557.html]]}|
+
+||CENTER:即売|CENTER:同人|
+|発売|CENTER:2010年9月13日|CENTER:2010年9月18日|
+|価格|CENTER:￥1,000|CENTER:￥1,050（税込）|
+|サークル|>|CENTER:量産型西沢さん。|
+
+**CD紹介
+-TOKOTOKO(西沢さんP)と、いくPのスプリットアルバム。
+-ILLUST / りんこ
+-MOVIE / チームオムそば
+
+**曲目
++キラーチューン
++[[フライトタイム]]
++トワイライトアリス
++[[泣き虫アンサンブル]]
++[[消失ニア]]
++[[グッドバイバイ]]
+
+**リンク
+-[[通販サイト（とらのあな）>>http://www.toranoana.jp/mailorder/article/04/0010/24/15/040010241557.html]]
+
+**コメント
+#comment

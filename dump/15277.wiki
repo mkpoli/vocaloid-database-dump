@@ -1,0 +1,19 @@
+#right(){&furigana()&furigana()【登録タグ:&tags()】}
+&nicovideo(http://www.nicovideo.jp/watch/sm14146804)
+作詞：[[外道さん]]
+作曲：[[外道さん]]
+編曲：[[外道さん]]
+唄：GUMI・初音ミク
+
+**歌詞
+my town disappears（私の街は　見えなくなります）
+by the concealed dark（隠された　暗闇）
+it is very painful.（それはとても辛いことです）
+if possible. please teach.（できれば　教えて下さい）
+why did you conceal?（貴方は　何故隠しましたか？）
+do you tell everyone to die to it?（貴方は　死ぬように皆に言いますか？）
+because all were lies（全てが　偽りだったので）
+I have not heard it any longer.（私は　もう　聞きません）
+
+**コメント
+#comment()

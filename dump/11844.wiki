@@ -1,0 +1,41 @@
+#right(){&furigana(たこすのすたるじあてんごくざとっぷてん)&furigana()【登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186121704.jpg,x=350,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm10466778)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){たこす！ノスタルジア天国 ～ザトップテン～}|CENTER:-|
+
+|[[IGASIO]]|[[うどんゲルゲ]]|[[オレジナルP]]|[[ジョイメカP]]|[[ぢょんP]]|
+|[[TuKuRu]]|[[にいとP]]|[[マリアP]]|[[みろんP]]||
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|>|CENTER:2010年5月9日|
+|価格|CENTER:\1,000|CENTER:\1,200(税込)|
+|サークル|>|CENTER:Project Nostalgia|
+
+**CD紹介
+-『[[Nostalgia>Nostalgia ～Compilation of 7 Colors～]]』シリーズからスピンアウトしたJASRAC登録曲カバーコンピ。（JASRAC許諾番号：R-1040452）
+-『[[初音ミク ベスト～memories～]]』にも収録された『そばかす』他、全12曲が収録されている。
+
+**曲目
++ビューティフル・サンデー　／　KAITO　／　IGASIO
++SUPER LOVE LOTION　／　MEIKO　／　IGASIO
++天使のゆびきり　／　MEIKO　／　IGASIO
++コンピューターおばあちゃん　／　鏡音リン　／　ジョイメカP
++恋とマシンガン　／　KAITO、MEIKO　／　オレジナルP
++そばかす　／　初音ミク　／　ぢょんP
++風に吹かれて　／　初音ミク　／　ぢょんP
++駅　／　Megpoid　／　マリアP
++まっくら森の歌　／　巡音ルカ　／　みろんP
++奇跡の海　／　初音ミク　／　TuKuRu
++月下の夜想曲　／　がくっぽいど　／　にいとP
++薔薇は美しく散る　／　初音ミク　／　うどんゲルゲ
+
+**リンク
+-[[サークルのCD紹介ページ>>http://nostalgia.takap.tk/discography/takoten1/]]
+-[[タップオンラインショップの通販ページ>>https://v-nyappon.net/shop/tap/products/detail.php?product_id=47]]
+
+**コメント
+#comment()

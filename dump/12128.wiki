@@ -1,0 +1,20 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+//&nicovideo_mylist()
+
+**特徴
+-テクノポップ・ロックの作品を発表している。
+-代表作は「星のお姫様☆」。キュートなテクノポップ。
+
+**リンク
+
+**曲
+#list_by_tag(まつげP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+//**CD
+//#list_by_tag(まつPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/nm9313991)|&nicovideo(http://www.nicovideo.jp/watch/sm9448186)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9574241)|&nicovideo(http://www.nicovideo.jp/watch/sm9802636)|
+
+**コメント
+#comment()

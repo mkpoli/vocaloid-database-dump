@@ -1,0 +1,28 @@
+#right(){&furigana(てんPあるPか)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+//&nicovideo_mylist(ここにマイリストブログパーツのiframe用をコピペ)
+//
+**特徴
+作り手名：『&u(){電PアルPカ}』（&u(){でんPあるPか}）
+-「深夜少女-Caffeine girl-」でニコ動デビューし、その特異なサムネと掴みどころのないような不思議な調声で話題となった。
+-複数の曲で『ベースラインの魔術師』や『ポストミック』のタグが付けられている。
+-2010年1月25日に「ライラック」を投稿したが、しばらく後で、全動画を削除。その7ヶ月後の8月26日に「リセット」で復活。曲名どおりということか。
+-P名の由来は初投稿作に使用した[[邑暠]]氏の[[みくパカのイラスト>>https://piapro.jp/t/sX8z]]と楽曲からきている。&br()Pが最後ではなく途中にある珍しいP名である。
+
+**リンク
+-[[ピアプロ>>https://piapro.jp/arpk]]
+
+**曲
+#list_by_tag(電PアルPカ,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(電PアルPカCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm11892296)|&nicovideo(sm12263387)|
+
+**コメント
+#comment()

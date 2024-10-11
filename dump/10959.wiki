@@ -1,0 +1,60 @@
+#right(){&furigana(おおそらいろDisk)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+//#image(,http://www.die8.name/celo-project/image/masa001/ba/masa001.gif,http://www.die8.name/celo-project/masa001.html)
+
+#amazon(B003VUW5H2)
+
+|&nicovideo(sm11368514)|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[BLUE DOOR]]|CENTER:&bold(){大空色D-i-s-k}|CENTER:[[Astronaut]]|
+
+|&bold(){[[あルカP]]}|
+
+||CENTER:即売|CENTER:同人|
+|発売|CENTER:2010年7月19日|CENTER:2010年7月| 
+|価格|CENTER:￥1,000|CENTER:￥1,260（税込）&br()￥1,500（税込・Amazon）| 
+|サークル|>|CENTER:Celo Project|
+
+マスタリング：Shibayan
+作詞（トラック5）：kaya
+作詞（トラック6）：瑠衣
+>ジャケットデザイン：ふる
+>表紙イラスト：りくかんな
+>挿絵：茶畑∴ 
+
+|&bold(){[[Amazon.co.jpで購入する>>https://www.amazon.co.jp/dp/B003VUW5H2/]]}|
+//|&bold(){[[D-STAGEで購入する>>http://d-stage.com/shop/detail.php?seq=15630]]}|
+
+**CD紹介
+CD名：『&u(){大空色D-i-s-k}』（&u(){おおぞらいろD-i-s-k}）
+-あルカP初のボーカロイドCD。
+-THE VOC@LOiD M@STER 13（ボーマス13）にて初頒布される。
+-代表曲の『[[Monk A Luka]]』や『[[大空色のHi-To-Mi]]』、ブレイクのきっかけとなった『[[AGE]]』他、アレンジを含めた全12曲を収録。&br()新曲も加わり爽やかな一枚になってます。
+-D-STAGE、とらのあな、メロンブックス、Amazonで委託販売が行われている。
+
+**曲目
++[[大空色のHi-To-Mi]]（ミィミVer.）
++[[Monk A Luka]]
++[[あめがあがるまで]]
++[[スタッカート♪]]（鏡音リン・レンVer.）
++Don't Turn Around
++[[届かない、雨]]
++[[code:elegy]]
++[[AGE]]
++[[BLUE DOOR]] ～BLUE Harmony version～
++BLUE DOOR ～BLUE Dance version～
++Believe yourself
++AGE　～instrumental～
+
+　※ ミィミ ＝ ミク、ミキ、グミのこと
+
+**リンク
+-[[M@SATOSHIが日記>>http://masatoshi60.blog11.fc2.com/]]（作者ブログ）
+//-[[大空色D-s-i-k>>http://www.die8.name/celo-project/masa001.html]]（特設サイト）
+
+**コメント
+#comment()

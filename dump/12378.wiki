@@ -1,0 +1,30 @@
+#right(){&furigana(かそうきょく)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&ref(https://karent.jp/npdca/474_20100708174007_0480_0320.jpg)
+&nicovideo(sm6074567)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Garakuta Tape.]]|CENTER:&bold(){火葬曲}|CENTER:[[Garakuta Life.]]|
+
+|&bold(){[[No.D]]}|
+
+発売：2010年7月16日
+価格：￥300
+流通：配信
+レーベル：KarenT
+
+**CD紹介
+-サークル「我楽多スタジオ」のNo.D氏の楽曲と上野悠仁氏のPVで発表された「[[火葬曲]]」を、KarenTレーベルより映像配信。
+
+**曲目
++[[火葬曲]]（feat. 初音ミク）
+
+**リンク
+-[[KarenT>>https://karent.jp/movie/474]]
+-[[我楽多スタジオ（作者ブログ）>>https://garakutastudio.blog.so-net.ne.jp/]]
+
+**コメント
+#comment()

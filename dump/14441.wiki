@@ -1,0 +1,12 @@
+#right(){【登録タグ:&tags()】}
+//↑タグ忘れ防止のための表示
+曖昧さ回避のためのページ
+----
+-[[新城P]]の曲
+--[[Farewell Song/新城P]]
+-[[オカメP]]の曲
+--[[farewell song/オカメP]]
+-[[aizome]]の曲
+--[[Farewell song/aizome]]
+
+#include(曖昧さ回避の追加の仕方/告知)

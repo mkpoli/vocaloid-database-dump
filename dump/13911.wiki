@@ -1,0 +1,40 @@
+#right(){&furigana(かんなつきP)&furigana()【登録タグ:&tags() 】}
+|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/4223651" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/4223651">【ニコニコ動画】</a></iframe>)|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/18343396" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/18343396">【ニコニコ動画】</a></iframe>)|
+
+**特徴
+-主に一般曲のカバーを発表しているPである。
+--VOCALOIDオリジナル曲でも、カバー曲やオリジナル曲コラボでボカロ調整を担当している。
+-[[【カバー】GUMIで「さよならメモリーズ」【supercell】>>http://www.nicovideo.jp/watch/sm10411033]]等の動画で見られるように、卓越したボカロ調整技術を持ち、&br()〝神調教〟〝伝説の○○マスター〟等のタグがほとんどの動画で付けられている。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/blueocean]]
+
+**曲
+#list_by_tag(神無月P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(神無月PCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+&b(){VOCALOIDオリジナル曲カバー}
+|&nicovideo(http://www.nicovideo.jp/watch/sm11382892)||
+&b(){VOCALOIDオリジナル曲コラボ}
+|&nicovideo(http://www.nicovideo.jp/watch/sm12901405)||
+&b(){VOCALOIDオリジナル曲カバーコラボ}
+|&nicovideo(http://www.nicovideo.jp/watch/sm10210938)||
+
+**コメント
+- 神無月P様の調教は本当に素晴らしいです…!!  -- 名無しさん  (2011-02-02 13:57:16)
+- 神無月Ｐ様のさよメモでＧＵＭＩのよさをしりました！！  -- 名無しさん  (2011-02-02 16:19:58)
+- GUMIのポテンシャルの高さを広く知らしめたPですね！  -- 名無しさん  (2011-02-24 16:26:26)
+- この人調声すげぇ。  -- 名無しさん  (2011-09-25 02:10:03)
+- [調教すげぇ]  -- 名無しさん  (2011-09-25 03:19:43)
+- 本物の人間と思える様な、素晴らしい調教に、感動しました。  -- 龍奇  (2011-10-27 17:21:40)
+- 調教がすごい……ここまで調教がうまい人はなかなか見ない。  -- 氷空  (2012-08-29 01:27:17)
+- celebrationのエピゼロ聞いたときは本当に父上が歌っているのかと思ってしまった…!すごいです  -- 名無しさん  (2013-06-08 19:57:18)
+- ＩＡさんの魅力が、ガンガン伝わってきました！  -- 名無しさん  (2013-10-04 18:38:29)
+- ヤバいです！聴き惚れました!!  -- ジト目  (2014-03-02 15:43:59)
+- Inner Artsの調声すげえな...さすが神無月P  -- fu-na  (2014-05-23 00:32:11)
+- レン君の「Find the blue」(カバー)がお気に入りです。  -- 仔羊  (2014-06-29 12:18:12)
+- dazeのSachikoカバーがやばい  -- 名無しさん  (2015-08-21 00:37:57)
+#comment()

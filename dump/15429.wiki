@@ -1,0 +1,29 @@
+#right(){&furigana(まんぞくP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/16531562" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/16531562">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-アーティスト名は&bold(){ぴける}。
+-使用VOCALOIDは初音ミク。
+-電波系ソング（というか音MADに近い）が中心。
+-[[ｼｬｧﾍﾞｯﾀｧｧｧｧｧｧｧ!!!]]で初の殿堂入りを果たす。
+-歌ってみた や アレンジ でも活躍中。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/ipushiron]]
+-[[Twitter>>https://twitter.com/pikeru_PKL?s=20&t=E5qjR4APTUvyVDPR0rUyig]]
+
+**曲
+#list_by_tag(満足P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(満足PCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm13308866)|&nicovideo(http://www.nicovideo.jp/watch/sm13443184)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm13834454)|&nicovideo(http://www.nicovideo.jp/watch/sm14177885)|
+|&nicovideo(sm14197093)|&nicovideo(https://www.nicovideo.jp/watch/sm15901560)|
+|&nicovideo(https://www.nicovideo.jp/watch/sm16772430)|&nicovideo(https://www.nicovideo.jp/watch/sm20671376)|
+|&nicovideo(https://www.nicovideo.jp/watch/sm20702150)||
+
+**コメント
+#comment()

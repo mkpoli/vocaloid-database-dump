@@ -1,0 +1,22 @@
+#right(){&furigana(しまむらひてゆき)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="https://ext.nicovideo.jp/thumb_mylist/56905159" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/56905159">【ニコニコ動画】%E8%87%AA%E5%88%86%E3%81%8C%E4%BD%9C%E3%81%A3%E3%81%9F%E6%9B%B2</a></iframe>)
+
+**特徴
+-老舗同人音楽サークル「[[大江戸宅急便>>http://ja.wikipedia.org/wiki/%E5%A4%A7%E6%B1%9F%E6%88%B8%E5%AE%85%E6%80%A5%E4%BE%BF]]」の代表。
+-P名は&b(){鼻炎P}。&br()P名の由来は、ボカロデビュー作「[[鼻炎狂騒歌]]」にちなむ。
+-初音ミク・鏡音リンを用いて、童謡風の曲を投稿している。
+
+**リンク
+-[[サークルサイト>>http://www.ooedo.jp/]]
+
+**曲
+#list_by_tag(島村秀行,100,sort=furigana,errmsg=まだ曲が登録されていません)
+**CD
+#list_by_tag(島村秀行CD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm3234229)|&nicovideo(http://www.nicovideo.jp/watch/sm3326127)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5896962)|&nicovideo(http://www.nicovideo.jp/watch/sm13147005)|
+
+**コメント
+#comment()

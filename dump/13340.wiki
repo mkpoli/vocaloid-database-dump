@@ -1,0 +1,42 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+|&nicovideo(sm12952203)|&youtube(http://www.youtube.com/watch?v=muacK_22kPM){336,189}|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Knife>Knife/れるりり]]|CENTER:&bold(){MUGIC}|CENTER:[[Mr.Music>Mr.Music/CD]]|
+
+|&bold(){[[れるりり]]}|[[iroha>iroha/作り手]]|[[kuma（alfred）]]|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|>|CENTER:2010年12月31日|
+|価格|CENTER:￥1,000(税込)|CENTER:￥1,500(税込)|
+|サークル|>|CENTER:至高の当社比|
+
+>&color(deeppink){音楽がつなぐキズナ。それはひとつの魔法。}
+>&color(deeppink){誰の心にも眠る素敵なチカラ。}
+
+**CD紹介
+-&b(){当社比P}ことれるりりの1stフルアルバム。&i(){MUSIC + MAGIC = MUGIC!!!}
+-コミックマーケット79で初頒布。
+-殿堂曲「[[いつもより泣き虫な空]]」「[[Knife>Knife/れるりり]]」他、新曲4曲とアレンジ1曲を含む全10曲が収録されている。
+-ジャケットイラストはエビナ、デザインはDiabolo。
+
+**曲目
++[[Knife>Knife/れるりり]]
++[[お掃除してあげる♪]]　&color(red){New!}
++[[なんで？]]
++[[スカイペインター]]　&color(red){New!}
++[[The sweet night with little straycats]]　&color(red){New!}
++[[いくつもの夜を越えて]]
++[[炉心融解]]　Junk Arrange
++[[そんな気がするんだ]]　&color(red){New!}
++[[JOYRIDE>JOYRIDE/れるりり]]
++[[いつもより泣き虫な空]]
+
+**リンク
+-[[至高の当社比（作者のブログ）>>http://ameblo.jp/rerulili/]]
+-[[とらのあな通販ページ>>http://www.toranoana.jp/mailorder/article/04/0010/26/22/040010262273.html]]
+
+**コメント
+- ｲｲ(゜∀゜)!！  -- おりざのーる  (2010-12-08 11:55:55)
+- かうし  -- るるか  (2011-06-27 22:04:12)
+#comment()

@@ -1,0 +1,24 @@
+#right(){&furigana()&furigana()【登録タグ:&tags()】}
+&nicovideo(http://www.nicovideo.jp/watch/sm11116634)
+作詞：[[Wonderlandica]]
+作曲：[[Wonderlandica]]
+編曲：[[Wonderlandica]]
+唄：初音ミク
+
+**曲紹介
+-Wonderlandica氏 の5作目。
+-タイトルの通り Append テストの為に作った、Append を題材にした短いアカペラオリジナル曲。
+-動画は視聴注意。決して暗い所で見ないで下さいｗ
+
+**歌詞
+とても SWEET で
+どこか DARK な世界の秘密を
+解き明かす SOFT な
+
+（LIGHT） VIVID な嘘と
+（LIGHT） SOLID な愛を
+
+胸に秘め歌うよ　君のため歌うよ
+
+**コメント
+#comment()

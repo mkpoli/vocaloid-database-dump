@@ -1,0 +1,46 @@
+#right(){&furigana(だんしんぐ☆さむらいあれんじあるばむ)&furigana()【登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186121394.jpg,x=300,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm11626530)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[SHOOTING STAR>SHOOTING STAR/CD]]|CENTER:&b(){ダンシング☆サムライアレンジアルバム『舞侍組』}|CENTER:[[KANIMISO A2K]]|
+
+|&b(){[[カニミソP]]}|[[かたほとりP]]|[[ぼーかりおどP]]|[[おとなラP]]|[[シメサバツイスターズ]]|
+|[[ミラーP]]|[[すずきP]]|[[弱音P]]|[[ぶっちぎりP]]||
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|>|CENTER:2010年8月14日|
+|価格|CENTER:￥1,000|CENTER:￥1,500（税込）|
+|サークル|>|CENTER:mathruねっと|
+
+**CD紹介
+-総勢9名のボカロPによる『ダンシング☆サムライ』のアレンジアルバム。
+-『一富士二鷹三茄子2010』『はたらきたくないでござる』も収録されている。
+
+**曲目
++[[ダンシング☆サムライ]] by mathru
++ダンシング☆サムライ R-I-N style by かたほとり
++ダンシング☆サムライ -neginata mix- by ぼーかりおどP
++ダンシング☆サムライ-“0”rchestra mix- by おとなラP
++ヘッドバンキング☆サムライ by シメサバツイスターズ
++[[一富士二鷹三茄子 2010>一富士二鷹三茄子]] by mathru
++ダンシング☆サムライ -Rin&Len Mirror Mix- by ミラーP
++ダンシング☆サムライ（Squeeze Mix） by すずきP
++侍の舞 by 弱音P
++[[はたらきたくないでござる]] by mathru
++[[DANCING☆SAMURAI ～ branch Ham Handed Traveler>DANCING☆SAMURAI ～ branch "Ham Handed Traveler"]] by ぶっちぎりP
++ダンシング☆サムライ ～戦国乱舞絵巻～ by mathru
+
+**リンク
+-[[作者のサイト>>http://mathru.net/]]
+-[[CD紹介ページ>>http://mathru.net/discography/888.html]]
+
+**コメント
+- これ欲しい！!  -- 菊一文字  (2010-10-30 18:50:42)
+- 素晴らしいＣＤですた!!!!  -- 名無しさん  (2011-01-31 18:09:30)
+- きたｗｗｗｗ  -- 名無しさん  (2011-01-31 18:11:46)
+- と、と、殿ぉぉお！  -- 一茶  (2011-05-04 20:57:37)
+- 素敵すぎたwww最高だ  -- 名無しさん  (2014-11-30 10:59:01)
+#comment()

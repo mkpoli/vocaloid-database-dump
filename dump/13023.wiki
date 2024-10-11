@@ -1,0 +1,58 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#image(http://innovate-sounds.com/img/banner_468x120.jpg,http://www.innovate-sounds.com/earth/,title=Innovator,blank)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Innovator-gaku]]|CENTER:&b(){Innovator-Earth}|CENTER:[[Innovator-HUMAN]]|
+
+|[[emon（Tes.）]]|[[keeno]]|[[KulfiQ]]|[[ジミーサムP]]|[[蝶々P]]|
+|[[nana]]|[[buzzG]]|[[花束P]]|[[般P]]|[[ヘブンズP]]|
+
+>&b(){企画：[[ke-sanβ]]}
+>&b(){ジャケットイラスト：[[かる]]}
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|>|CENTER:2011年1月16日|
+|価格|CENTER:￥1,000|CENTER:￥1,500(税込)|
+|サークル|>|CENTER:Innovate Sounds|
+
+**CD紹介
+-&b(){Innovate Sounds}発のコンピレーションアルバム第2弾。今回のテーマは&b(){地球}。
+-前作と同様に、収録曲は全て新作とのこと。
+-THE VOC@LOiD M@STER 15（ボーマス15）で初頒布。
+
+**クロスフェード動画
+&nicovideo(http://www.nicovideo.jp/watch/sm13130544)
+
+**曲目
++[[Esquire>ESQUIRE]] / [[emon（Tes.）]] feat. 鏡音リン
++[[Nature's swell]] / [[ヘブンズP]] feat. 初音ミクAppend（vivid）
++[[longing]] / [[keeno]] feat. 初音ミクAppend（dark）
++拝啓、Mr.EARTH / [[ショミ>般P]] feat. 初音ミク
++[[星の唄]] / [[buzzG]] feat. GUMI
++[[グレイシア]] / [[KulfiQ]] feat. 初音ミクAppend（dark・solid・vivid）
++Mydoctor / [[nana]] feat. 初音ミク
++星の君 / [[蝶々P]] feat. 初音ミク
++[[ジオラマ]] / [[花束P]] feat. 初音ミク
++a lie / [[ジミーサムP]] feat. 巡音ルカ
+
+**リンク
+-[[Innovate Sounds公式サイト>>http://www.innovate-sounds.com/]]
+-[[CD情報ページ>>http://www.innovate-sounds.com/earth/]]
+-[[D-STAGE>>http://store.shopping.yahoo.co.jp/d-stage/2900148900010.html]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/25/56/040010255634.html]]
+-[[めろんぶっくす>>http://shop.melonbooks.co.jp/shop/sp_213001008254_innovates_earth.php]]
+
+**コメント
+- メンバー最高ww早く買いたい!  -- 名無しさん  (2010-12-23 23:20:03)
+- 確かに素敵メンバー…。買いに行けないけれど、楽しみにしています。  -- 名無しさん  (2010-12-23 23:53:04)
+- メンバーが豪華っていうかガチ。人気もあって実力ある人だから楽しみ。  -- 名無しさん  (2010-12-30 22:52:06)
+- いろんなコンピにいるジミーもすごいが、発表曲全部がCDに入ってるkeenoさんもすごいよな。  -- 名無しさん  (2011-01-01 21:30:16)
+- とらのあなで予約始まってたよ～  -- 宣伝乙。  (2011-01-06 19:19:27)
+- 買ってきた。a lieがすごい良かった。  -- 名無しさん  (2011-01-16 15:11:34)
+- 下手な市販のコンピよりレベル高かったな。特にジミーの引き出しの多さにびっくり！  -- 名無しさん  (2011-01-17 16:56:26)
+- 良曲良Ｐ揃いだった。しかし音質が悪い。動画upされてるのに至っては、そっちから直接音源落とした方が音質いいってどういうこと・・・  -- 名無しさん  (2011-01-27 20:40:09)
+- ＣＤ買いたい、、、、  -- 名無しさん  (2011-05-21 23:46:52)
+- a lieって、ミクなの・・・？  -- 名無しさん  (2011-07-25 21:14:14)
+- ↑ルカなんじゃないの？  -- 名無しさん  (2011-10-01 12:22:16)
+- もう買えないのだろうか・・・  -- ダイモン  (2011-12-04 17:13:21)
+#comment()

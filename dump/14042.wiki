@@ -1,0 +1,29 @@
+#right(){&furigana(どういうことなの！？)&furigana()【登録タグ:&tags() 】}
+//#image(http://file.linearsystem.blog.shinobi.jp/picture.jpg,http://linearsystem.blog.shinobi.jp/,title=どういうことなの！？,height=200,width=200,blank)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Mushroom War]]|CENTER:&b(){どういうことなの！？}|CENTER:[[KUCHIBA CD]]|
+
+|&b(){[[くちばしP]]}|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|CENTER:2011年1月16日|CENTER:2011年1月22日|
+|価格|CENTER:￥200(税込)|CENTER:￥294(税込)|
+|サークル|>|CENTER:線形ネコ型システム|
+
+**CD紹介
+-くちばしPの通算6枚目となるCD。
+-THE VOC@LOiD M@STER 15（ボーマス15）で初頒布。
+
+**曲目
++[[どういうことなの！？]]
++[[黒い翼は好きですか？]]
++どういうことなの！？ (offvocal)
++黒い翼は好きですか？ (offvocal)
+
+**リンク
+-[[世は混沌へと帰す（くちばしPのブログ）>>http://linearsystem.blog.shinobi.jp/]]
+-[[とらのあな通販ページ>>http://www.toranoana.jp/mailorder/article/04/0010/26/06/040010260665.html]]
+
+**コメント
+#comment

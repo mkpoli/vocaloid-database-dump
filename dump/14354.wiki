@@ -1,0 +1,32 @@
+#right(){&furigana(にわとりP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/5074670" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/5074670">【ニコニコ動画】</a></iframe>)
+
+**特徴
+作り手名：『&u(){ニワトリP}』
+-KAITO使い。また、にわとりPVの人とは&b(){別人}である。
+-投稿曲の始めには必ず「よろしくおねがいします」と挨拶を入れる事から、礼儀正しいPとしての印象が強い。
+-P名の由来は「春が来た」の替え歌「KAITOが来た」にて自画像をニワトリ（＝自分をチキンと表現する意）にした為と思われる。
+
+**リンク
+-[[チキチキチキン（作者ブログ）>>http://chickenblog.cocolog-nifty.com/blog/]]
+-[[ピアプロ>>https://piapro.jp/reimo]]
+//-[[mp3・カラオケ置き場>>http://www.voiceblog.jp/niwatorip/]]
+-[[Twitter>>https://twitter.com/reimo_s]]
+
+**曲
+#list_by_tag(ニワトリP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+//**CD
+//#list_by_tag(ニワトリPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画（再生数が多い順に6つ）
+|&nicovideo(sm5155645)|&nicovideo(sm5886221)|
+|&nicovideo(sm5004348)|&nicovideo(sm6383595)|
+|&nicovideo(sm9732005)|&nicovideo(nm4813220)|
+
+**コメント
+#comment()

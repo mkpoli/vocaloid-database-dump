@@ -1,0 +1,35 @@
+#right(){&furigana(せみしぐれ) &furigana()【登録タグ:&tags() 】}
+
+&ref(http://sds.michikusa.jp/img/semishigure_jacket.jpg,x=300,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm11641273){410,163}
+
+|BGCOLOR(#DDD):CENTER:前作|BGCOLOR(#B66):COLOR(#FFF):CENTER:&b(){本作}|BGCOLOR(#DDD):CENTER:次作|
+|CENTER:-|BGCOLOR(#FFF):CENTER:&b(){蝉時雨}|CENTER:-|
+
+|&b(){[[長月秋霖]]}|
+
+|BGCOLOR(#DDD):流通|CENTER:即売|
+|BGCOLOR(#DDD):発行|CENTER:2010年08月14日|
+|BGCOLOR(#DDD):価格|CENTER:\500|
+|BGCOLOR(#DDD):サークル|CENTER:sds|
+
+**CD紹介
+-&b(){鏡音レン}をメインヴォーカルに使った、&b(){長月秋霖}の1stミニアルバム。
+-ジャケットイラストは&b(){[[いたる]]}氏。
+
+**曲目
++[[蝉時雨]]
++[[獣神と僕>ケモノガミトボク]]
++[[カタハネな僕ら]]
++[[冬花火]]
++蝉時雨 (off vocal)
++獣神と僕 (off vocal)
++カタハネな僕ら (off vocal)
++冬花火 (off vocal)
+
+**リンク
+-[[CD特設HP>>http://sds.michikusa.jp/semishigure.html]]
+
+**コメント
+#comment

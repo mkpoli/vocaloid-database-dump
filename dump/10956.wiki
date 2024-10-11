@@ -1,0 +1,57 @@
+#right(){&furigana(むりょくP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/14483709" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/14483709">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-P名の由来は、初投稿曲の「[[Powerless]]」を訳すとそのまま「無力」になることから。
+-初期にはアカウントの「sts」を名乗っていた。
+-代表作に殿堂入りを果たした「[[Flightless Bird]]」。
+-使用ボカロはルカで、抒情性溢れるロックサウンドに定評がある。
+-&bold(){Powerless}という名義で音楽ゲームやアーティストに楽曲提供も行っている。
+-次の曲が殿堂入りを達成している。&br()&list_by_tagsearch(無力P,殿堂入り,sort=furigana,option=nolist,nolistspace=／,100)
+
+**リンク
+-[[ピアプロ>>http://piapro.jp/dreams3]]
+-[[Twitter>>http://twitter.com/muryokup]]
+
+**曲
+#list_by_tag(無力P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(無力PCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm8066100)|&nicovideo(http://www.nicovideo.jp/watch/sm8113605)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm8352815)|&nicovideo(http://www.nicovideo.jp/watch/sm8891403)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm8915111)|&nicovideo(http://www.nicovideo.jp/watch/sm9046513)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9851594)|&nicovideo(http://www.nicovideo.jp/watch/nm10057527)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm10231921)|&nicovideo(http://www.nicovideo.jp/watch/sm10643703)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm10700738)|&nicovideo(http://www.nicovideo.jp/watch/sm11164488)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm11255201)|&nicovideo(http://www.nicovideo.jp/watch/sm11376732)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12095332)|&nicovideo(http://www.nicovideo.jp/watch/sm13087456)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm13833432)|&nicovideo(http://www.nicovideo.jp/watch/sm14021006)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm14481619)|&nicovideo(http://www.nicovideo.jp/watch/sm15279600)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm15631384)|&nicovideo(http://www.nicovideo.jp/watch/sm15866685)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm16141734)|&nicovideo(http://www.nicovideo.jp/watch/sm16661974)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm17172092)|&nicovideo(http://www.nicovideo.jp/watch/sm18562463)|
+|&nicovideo(sm19240668)|>|
+
+
+**コメント
+- Brella大好きすぎて生きるのが辛いですｗ  -- 名無しさん  (2011-03-21 00:31:05)
+- ようやくデビュー曲の『Powerless』追加しました！　歌詞は投コメでしたｗ  -- 名無しさん  (2011-07-26 13:46:05)
+- なぜ再生数伸びないのかまじでわかんねぇ……  -- 名無しさん  (2012-03-21 23:28:22)
+- 上手く言葉に表せないけどともかく好き  -- 名無しさん  (2012-03-31 13:20:14)
+- 無力pさんの曲大好きだぁぁ！  -- 名無しさん  (2012-04-04 13:26:31)
+- 無力さんの歌が心に刺さり過ぎて死にたい  -- ひろん  (2012-05-08 15:57:54)
+- ルカを使うPの中で一番好きです！調教も曲も素晴らしいです！  -- 名無しさん  (2012-06-09 06:59:26)
+- NEXT STAGEが凄く好きです  -- 名無しさん  (2012-07-01 16:46:40)
+- もっと評価されるべきPだと思う  -- 名無しさん  (2012-09-21 20:59:47)
+- クオリティが他とは一線を画してる　もっと評価されろ！  -- 名無しさん  (2012-10-23 18:28:55)
+- メジャーデビューしないのかなp(´⌒｀q)  -- 名無しさん  (2012-12-05 19:06:31)
+- ↑激しく同意。この人のアルバムは是非出してほしい  -- 名無しさん  (2012-12-18 14:22:55)
+- ↑ですよね！良い曲沢山あるのに…(^_^;)  -- 名無しさん  (2012-12-31 17:20:41)
+- なぜメジャーデビューしないんだろう…？ナノさんが歌ってる『just be friends』も『PONPONPON』も無力さんのアレンジで凄まじく良くなってるのに！(T_T)  -- 重いんだけど優しさがある曲が好きな一般people  (2013-02-16 22:22:25)
+- 無力感ゼロ いい意味でな!!  -- ウボァーを愛する名無しさん  (2014-08-30 20:18:35)
+- 動画何か投稿して欲しいなー  -- 名無しさん  (2014-11-04 19:57:16)
+- もうボカロ作らないのかな？  -- 名無しさん  (2017-08-05 22:21:00)
+#comment()

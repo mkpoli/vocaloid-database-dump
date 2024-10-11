@@ -1,0 +1,36 @@
+#right(){&furigana(いかそうめん)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/13396380" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/13396380">【ニコニコ動画】</a></iframe>)
+
+**特徴
+作り手名：『&u(){いかそうめん}』
+-気ままに曲を投稿しているリンレン使い。
+-曲はロック系が多い様子。
+
+**リンク
+-[[ピアプロ>>http://piapro.jp/un44ta]]
+
+**曲
+#list_by_tagsearch(いかそうめん,sort=furigana2,errmsg=まだ曲が登録されていません。,and,100)
+
+**CD
+#list_by_tagsearch(いかそうめんCD,sort=furigana2,errmsg=まだCDが登録されていません。,and,100)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm7556292)|&nicovideo(http://www.nicovideo.jp/watch/nm7623264)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm8974934)|&nicovideo(http://www.nicovideo.jp/watch/sm10110650)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm11363580)|&nicovideo(http://www.nicovideo.jp/watch/sm11479797)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm13583981)||
+
+**関連タグ内の更新履歴
+#region(close,関連タグ内の更新履歴)
+関連タグ内の更新履歴
+※「いかそうめん」「いかそうめんCD」タグ内で最近編集やコメントのあった記事を新しい方から10件表示しています。
+#list_by_tagsearch(いかそうめん,いかそうめんCD,sort=timestamp,sort2=desc,errmsg=まだ曲、CDが登録されていません。,or,10)
+#endregion
+
+**コメント
+#comment()

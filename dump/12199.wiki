@@ -1,0 +1,24 @@
+#right(){&furigana(りん)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/19900373" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/19900373">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-&b(){ゆりうさぎP}や&b(){鈴（りん）P}といったP名タグが付くが、決定はしていない様子。
+-『みんなのうた』のような可愛らしく、ほのぼのとした雰囲気の曲をつくる。また、イラストも自作である。
+-別名義で動画を作成していたりもする。[[マクガフィン]]の&b(){すもも}さんである。
+
+**リンク
+-[[作者ホームページ>>http://sugar.lolipop.jp/yuriusagi/]]
+-[[作者ブログ>>http://ameblo.jp/m0m0usa/]]
+-[[pixiv>>http://www.pixiv.net/member.php?id=2109734]]
+
+**曲
+#list_by_tag(鈴,100,sort=furigana,errmsg=まだ曲が登録されていません)
+//**CD
+//#list_by_tag(鈴CD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm11209925)|&nicovideo(http://www.nicovideo.jp/watch/sm11291610)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm11609316)|&nicovideo(http://www.nicovideo.jp/watch/sm12163602)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm13098032)||
+**コメント
+#comment()

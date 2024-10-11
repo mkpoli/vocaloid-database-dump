@@ -1,0 +1,26 @@
+#right(){&furigana(かんなくす)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/22679586" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/22679586">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-2010年11月、「[[唄]]」でボカロデビューした、ロック系の作り手。
+-投稿されている全曲、違うボカロを使用している。特に、男声ボカロを使用した曲の評価が高い。
+-代表作は「[[remember>remember/鉋屑]]」。数少ない歌手音ピコ曲において高評価を得ている曲の一つである。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/kanna_guitar]]
+-[[Twitter>>http://twitter.com/kanna_kuzu]]
+
+**曲
+#list_by_tag(鉋屑,100,sort=furigana,errmsg=まだ曲が登録されていません)
+//**CD
+//#list_by_tag(鉋屑CD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm12703548)|&nicovideo(http://www.nicovideo.jp/watch/sm12752870)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12758659)|&nicovideo(http://www.nicovideo.jp/watch/sm12872036)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm13007968)|&nicovideo(http://www.nicovideo.jp/watch/sm13508328)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm14970505)|&nicovideo(http://www.nicovideo.jp/watch/sm17336325)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm17473689)|&nicovideo(http://www.nicovideo.jp/watch/sm18271277)|
+
+**コメント
+#comment()

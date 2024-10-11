@@ -1,0 +1,79 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#amazon(B003ZZ33RY)
+
+#amazon(B007B8STM0)
+
+|&nicovideo(http://www.nicovideo.jp/watch/sm11833898)|&nicovideo(sm11767540)|
+&youtube(http://www.youtube.com/watch?v=X30oMWGUgCA){480,295}
+|&nicovideo(sm17710852)|&YouTube(http://www.youtube.com/watch?v=CozXtzfu4rE)|
+
+|>|>|CENTER:&bold(){AVTechNO}|
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[C>C/CD]]&br()[[Feminity ～素直なわたし～]]|CENTER:&bold(){DYE-Synthesis-&br()（DYE SYNTHESIS -extend-）}|CENTER:[[KVLR]]|
+|>|>|CENTER:&bold(){ELECTROCUTICA}|
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[REVERSUS>REVERSUS/CD]]|CENTER:&bold(){DYE -Synthesis-&br()（DYE SYNTHESIS -extend-）}|CENTER:[[Crystalloid]]|
+
+|&bold(){[[AVTechNO]]}|&bold(){[[Treow（逆衝動P）]]}|
+
+||CENTER:即売|CENTER:同人|
+|CENTER:発売|CENTER:2010年8月14日|CENTER:2010年8月|
+|CENTER:価格|CENTER:￥1,500|CENTER:￥1,890（税込）&br()￥1,980（税込・Amazon）|
+|サークル|>|CENTER:ELECTROCUTICA|
+
+**CD紹介
+-Treow（逆衝動P）× AVTechNO! = 阿部衝動
+-AVTechNO氏の初CD作品となる本作は、Treow氏率いるサークル「ELECTROCUTICA」とのコラボレーションとなる作品。
+-DYE関連作をELECTROCUTICAが完全プロデュース。Treow氏が楽曲を再構築・リマスター、リミックス、AVTechNO氏の新曲も収録されている。
+-コミックマーケット78で頒布。
+-委託販売はとらのあな、アニメイト、Amazonにて行われる。
+-本作から2曲ずつをピックアップした配信EP『[[DYE -Synthesis- 2/8>DYE -Synthesis- 2／8]]』と『[[DYE -Synthesis- R/F>DYE -Synthesis- R／F]]』がそれぞれ発表されている。
+-2012年4月28日には再編版となる『&bold(){DYE SYNTHESIS -extended-}』が発表された。こちらは収録曲追加、旧収録曲はアレンジ・音源・ミックス一新となっている。またジャケットも完全新装仕様。
+
+**曲目
+***DYE -Synthesis-
++IN
++0
++[[2>DYE2]] (DYE_2)
++[[S>DYE／SAKURA]] (DYE/SAKURA)
++Re:flection (DYE Treow Remix)
++For
++[[DYE>DYE/AVTechNO]]
++After
++DYE (Instrumental)
++2 (Instrumental)
++S (Instrumental)
+
+***DYE SYNTHESIS -extended-
++IN
++ZERO
++[[DYE>DYE/AVTechNO]]
++[[II>DYE2]]
++[[DYE/Sakura>DYE／SAKURA]]
++DYE/Re:flection+　　&color(red){※NEW}
++For+　　&color(red){※NEW}
++[[III]]　　&color(red){※NEW}
++II/After
++DYE (Instrumental)
++II (Instrumental)
++DYE/Sakura (Instrumental)
++DYE/Re:flection+ (Instrumental)　　&color(red){※NEW}
++III (Instrumental)　　&color(red){※NEW}
++III/Sakura (Instrumental)　　&color(red){※NEW}
+
+**リンク
+-[[特設サイト>>http://electrocutica.com/dye/]]
+-[[AVTechNO氏のサイト>>http://avtechno.ukime.org/]]
+-[[ELECTROCUTICAサイト>>http://electrocutica.com/]]
+-[[★変態微少女さん★（喜多嶋時透氏のブログ）>>http://ameblo.jp/shizukacircuit/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/23/41/040010234106.html]]
+-[[アニメイト>>http://www.animate-onlineshop.jp/products/detail.php?product_id=1036471]]
+-[[Amazon>>http://www.amazon.co.jp/dp/B003ZZ33RY]]
+-[[Amazon（再編版）>>http://www.amazon.co.jp/dp/B007B8STM0]]
+
+**コメント
+- 早速動画来てたが欲しすぐる…  -- A.A.  (2010-08-17 17:40:09)
+- このアルバムのおかげで阿部さんの音楽に出会えて本当に良かった。阿部さんや殿はもちろん、プロデュースのしずえもんにも大感謝！  -- 名無しさん  (2010-09-17 01:16:56)
+- 買った人感想をお聞かせ願います(*_ _)  -- 名無しさん  (2010-10-03 19:39:34)
+- 欲しいけどもう売ってない…再販しないかなぁ。  -- 名無しさん  (2013-02-06 18:55:54)
+#comment()

@@ -1,0 +1,28 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/15719480" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/15719480">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-アーティスト名は&b(){MaO}。
+-2009年11月、「[[Destroys Nightmare]]」でデビューしたKAITO使い。
+-製作ペースが遅いため作品数こそ少ないが、徐々に人気を集めている様子。
+
+**リンク
+-[[めんでぇブログ（作者ブログ）>>http://ameblo.jp/menday-real/]]
+-[[ピアプロ>>http://piapro.jp/maoazuki]]
+-[[にゃっぽん>>http://v-nyappon.net/?m=pc&a=page_f_home&target_c_member_id=10572]]
+
+**曲
+#list_by_tag(めんでぇP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(めんでぇPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm8737323)|&nicovideo(http://www.nicovideo.jp/watch/sm9737101)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm13981526)|
+
+**コメント
+- KAITOの良さが出てるオリジナル曲作れるPはホンマ希少で有難い  -- 名無しさん  (2011-02-03 22:58:19)
+- KAITOを使うのが本当に上手！リズムが耳に残るなぁ。新曲製作途中みたいですね。待ってます〜(^-^)  -- とりこ  (2011-02-15 13:24:10)
+- めんでぇPのKAITOだああぁぁい好きですぅ！  -- 鈴  (2013-03-02 17:16:43)
+#comment()

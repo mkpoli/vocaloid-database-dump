@@ -1,0 +1,33 @@
+#right(){&furigana(きむすめP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/17808062" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/17808062">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-アーティスト名は&b(){ニコニャー}。
+-初期は主にピアプロで、ニコニコエンジニア名義で歌ってみたのミキシングを行っていた。
+-しかし、人数が多すぎて手に負えなくなったのか一度中断、楽曲制作に力を入れ始める。
+-ニコニャーという名前はとある人物から名づけてもらったようだ。
+-ちなみに生娘Pは、処女作での自己紹介文「ニコニャーと申します。処女です(´･ω･｀)まちがえまつた処女作ですパンナコッタ＼(^o^)／」が由来。
+-なんとも破廉恥な自己紹介である。
+
+**リンク
+-[[ピアプロ>>http://piapro.jp/masa_yoshi]]
+-[[Twitter>>https://twitter.com/kimusumeP]]
+
+**曲
+#list_by_tag(生娘P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(生娘PCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/nm9835822)|&nicovideo(http://www.nicovideo.jp/watch/sm10480525)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm10920338)|&nicovideo(http://www.nicovideo.jp/watch/sm11085216)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm11180420)|&nicovideo(http://www.nicovideo.jp/watch/sm11832209)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12216907)|&nicovideo(http://www.nicovideo.jp/watch/sm12272906)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12930282)|&nicovideo(http://www.nicovideo.jp/watch/sm13021115)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm13236394)|&nicovideo(http://www.nicovideo.jp/watch/sm13328692)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm13460866)||
+
+**コメント
+- GUMIの調声がうまい・・・うますぎる。ロボっ気が少なくて聴きやすい。  -- 名無しさん  (2011-02-16 17:31:04)
+#comment()

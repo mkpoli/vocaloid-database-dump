@@ -1,0 +1,69 @@
+#right(){&furigana(MrPOM)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/20222931" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/20222931">【ニコニコ動画】</a></iframe>)
+
+**特徴
+作り手名：『&u(){Mr.POM}』(&u(){みすたー ぽむ})
+-明るく元気な曲を作ることが多い。
+-黒背景にニ頭身キャラ一人、という特徴的なサムネ画像のため、特定しやすい。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/pompom712]]
+
+**曲
+#list_by_tagsearch(Mr.POM,sort=furigana2,errmsg=まだ曲が登録されていません。,and,100)
+
+**CD
+#list_by_tagsearch(Mr.POMCD,sort=furigana2,errmsg=まだCDが登録されていません。,and,100)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm10222783)|&nicovideo(http://www.nicovideo.jp/watch/sm10351880)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm10486576)|&nicovideo(http://www.nicovideo.jp/watch/sm10955803)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm11166744)|&nicovideo(http://www.nicovideo.jp/watch/sm11189205)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm11274957)|&nicovideo(http://www.nicovideo.jp/watch/sm11347762)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm11423894)|&nicovideo(http://www.nicovideo.jp/watch/sm11505451)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm11602622)|&nicovideo(http://www.nicovideo.jp/watch/sm11684912)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm11837627)|&nicovideo(http://www.nicovideo.jp/watch/sm11873148)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm11917842)|&nicovideo(http://www.nicovideo.jp/watch/sm12000116)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12074636)|&nicovideo(http://www.nicovideo.jp/watch/sm12143612)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12230764)|&nicovideo(http://www.nicovideo.jp/watch/sm12307248)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12382450)|&nicovideo(http://www.nicovideo.jp/watch/sm12458089)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12536646)|&nicovideo(http://www.nicovideo.jp/watch/sm12598176)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12672970)|&nicovideo(http://www.nicovideo.jp/watch/sm12742246)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12798209)|&nicovideo(http://www.nicovideo.jp/watch/sm12870875)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12932601)|&nicovideo(http://www.nicovideo.jp/watch/sm13006878)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm13056931)|&nicovideo(http://www.nicovideo.jp/watch/sm13121387)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm13180183)|&nicovideo(http://www.nicovideo.jp/watch/sm13248288)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm13320696)|&nicovideo(http://www.nicovideo.jp/watch/sm13375750)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm13434620)|&nicovideo(http://www.nicovideo.jp/watch/sm13506325)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm13575112)|&nicovideo(http://www.nicovideo.jp/watch/sm13646036)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm13719190)|&nicovideo(http://www.nicovideo.jp/watch/sm13797267)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm13897793)|&nicovideo(http://www.nicovideo.jp/watch/sm13972201)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm14055192)|&nicovideo(http://www.nicovideo.jp/watch/sm14121290)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm14187828)|&nicovideo(http://www.nicovideo.jp/watch/sm14247055)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm14326352)|&nicovideo(http://www.nicovideo.jp/watch/sm14401463)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm14534647)|&nicovideo(http://www.nicovideo.jp/watch/sm14600554)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm14647561)|&nicovideo(http://www.nicovideo.jp/watch/sm14731484)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm14775416)|&nicovideo(http://www.nicovideo.jp/watch/sm14838114)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm14904957)|&nicovideo(http://www.nicovideo.jp/watch/sm14975234)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm15057876)|&nicovideo(http://www.nicovideo.jp/watch/sm15107751)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm15274993)|&nicovideo(http://www.nicovideo.jp/watch/sm15295710)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm15507933)|&nicovideo(http://www.nicovideo.jp/watch/sm15592377)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm15677158)|&nicovideo(http://www.nicovideo.jp/watch/sm15827627)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm15908851)|&nicovideo(http://www.nicovideo.jp/watch/sm15973309)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm16027879)|&nicovideo(http://www.nicovideo.jp/watch/sm16183447)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm27394281)|&nicovideo(http://www.nicovideo.jp/watch/sm27441685)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm27485717)|&nicovideo(http://www.nicovideo.jp/watch/sm27536512)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm27585885)|&nicovideo(http://www.nicovideo.jp/watch/sm27640665)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm27686649)|&nicovideo(http://www.nicovideo.jp/watch/sm27740142)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm27783187)|&nicovideo(http://www.nicovideo.jp/watch/sm27850855)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm27875949)||
+
+**コメント
+- 全体的にもっと伸びるべき  -- 名無しさん  (2011-01-14 14:44:54)
+- 毎回安定感がすごい  -- 名無しさん  (2011-04-04 22:57:48)
+- ピアプロでの自演がとにかく酷い  -- 名無しさん  (2011-05-01 00:39:51)
+#comment()

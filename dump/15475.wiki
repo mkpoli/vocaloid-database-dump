@@ -1,0 +1,34 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/697_20110412180123_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[III]]&br()[[DYE -Synthesis- 2/8>DYE -Synthesis- 2／8]]|CENTER:&bold(){できること}|CENTER:[[無実>無実/AVTechNO]]|
+
+|&bold(){[[AVTechNO]]}|
+
+発売：2011年4月27日
+価格：￥300 / 1曲￥150
+流通：配信
+レーベル：KarenT
+ジャケットイラスト：[[和音>>http://piapro.jp/dot37]]
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/id433842673]]}|
+
+**紹介
+>いま僕にできること
+
+-東日本大震災へのチャリティー作品として発表された配信EP。
+-作品は「iTunes Store」と「初音ミクモバイル（ミクモバ）」（着うたのみ）の2サイトにて2011年9月30日までの期間限定配信され、売り上げはクリエイターにより被災地義援金として寄付されるとのこと。
+
+**曲目
++できること （feat. 初音ミク）
++できること Acoustic version （feat. 巡音ルカ&鏡音レン）
+
+**リンク
+-[[作者サイト>>http://avtechno.ukime.org/]]
+-[[KarenT：「 PRAY FOR JAPAN 東日本大震災 クリエイターによるチャリティ配信」について>>http://karent.jp/special/charity]]
+-[[KarenT：「できること」>>http://karent.jp/album/697]]
+
+**コメント
+- 期間限定配信だったからレアトラック化してたけどベスト盤で聴けるようになったね。そのベスト盤も廃盤になってしまったわけだが。  -- 名無しさん  (2016-08-26 15:28:59)
+#comment()

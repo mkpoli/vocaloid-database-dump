@@ -1,0 +1,24 @@
+#right(){&furigana(たかすP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/17764526" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/17764526">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-アーティスト名は、&b(){アイビー}。
+-P名の由来は処女作「-inf」の投稿者欄の、&br()B「イエス、高須クリニック。」&br()から。
+--投稿者コメのカオスさに定評がある。&br()意外なところから曲の着想を得る〝賢者〟である。
+-作風は主にロック。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/I_BEE]]
+-[[Twitter>>http://twitter.com/IBEE_117]]
+
+**曲
+#list_by_tag(高須P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+//**CD
+//#list_by_tag(高須PCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm12748685)|&nicovideo(http://www.nicovideo.jp/watch/sm12906086)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm13055707)|&nicovideo(http://www.nicovideo.jp/watch/sm14358230)|
+
+**コメント
+#comment()

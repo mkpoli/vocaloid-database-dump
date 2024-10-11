@@ -1,0 +1,53 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+#image(http://www.innovate-sounds.com/innovator/img/banner_468x110.jpg,http://www.innovate-sounds.com/innovator/,title=Innovator,blank)
+
+|&nicovideo(http://www.nicovideo.jp/watch/sm12333525)|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Innovator-gaku}|CENTER:[[Innovator-Earth]]|
+
+|[[164]]|[[otetsu]]|[[骨盤P]]|[[すこっぷ]]|[[梨本P]]|[[八王子P]]|[[ピノキオピー]]|[[fatmanP]]|
+|[[ヘブンズP]]|[[水月やまと]]|[[ミュムP]]|[[ライブP]]|[[rlboro]]|[[uzP]]|[[ゆちゃP]]||
+
+>&b(){企画：[[ke-sanβ]]}
+>&b(){ジャケットイラスト：[[ぽんじり]]}
+
+||CENTER:即売|CENTER:同人|
+|発売|>|CENTER:2010年10月31日|
+|価格|CENTER:￥1,000(税込)|CENTER:￥1,500(税込)|
+|サークル|>|CENTER:Innovate-Sounds|
+
+**CD紹介
+-様々な「楽」をテーマにしたコンピレーション。
+-収録曲は全て書き下ろし新作で15曲を収録。
+-ボーパラ4（2010/10/31）・ボーマス14（2010/11/14）にて頒布。
+
+**収録曲
++[[TARARURA＊]]　/　[[rlboro]]
++[[くらげ>くらげ/ピノキオピー]]　/　[[ピノキオピー]]
++僕の世界　/　[[水月やまと]]
++Free　/　[[8#Prince>八王子P]]
++[[星天ドロップス]]　/　[[ゆちゃP]]
++[[butterfly paradox]]　/　[[ミュムP]]
++[[eve*2]]　/　[[すこっぷ]]
++マーチ　/　[[骨盤P]]
++[[グリーンストレート]]　/　[[ライブP]]
++「ぼく」自身のために　/　[[fatmanP]]
++[[極悪人]]　/　[[164]]
++しんじよう　/　[[梨本P]]
++Escape　/　[[otetsu]]
++[[Sound]]　/　[[uzP]]
++[[アルファ]]　/　[[ヘブンズP]]
+ 
+**リンク
+-[[Innovator 特設サイト>>http://www.innovate-sounds.com/]]
+-[[メロンブックスの通販ページ>>http://shop.melonbooks.co.jp/shop/sp_213001007868_innovates_gaku.php]]
+
+**コメント
+//- １コメゲット！
+- ボーパラで買ったけど、ホントに良曲ばかり！買って損はなかった(｀・ω・´)  -- つばさ  (2010-11-16 00:34:01)
+- これやばい、はじめの２曲だけで天国行ってきた。  -- 名無しさん  (2011-03-04 01:19:43)
+- 通販の分が品切れになってた…。再販しないかなあ。  -- 名無しさん  (2011-06-16 01:31:59)
+- 再販希望・・・っ。こんなCDあるなんて知らなかった。  -- 名無しさん  (2011-10-01 12:25:38)
+- くらげ、僕の世界、eve*2、Escape、「ぼく」自身のために、Sound、が良かった！  -- 名無しさん  (2015-09-22 09:44:29)
+#comment

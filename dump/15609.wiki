@@ -1,0 +1,37 @@
+#right(){&furigana(けっかん)&furigana()【登録タグ:&tags() 】}
+//&ref(http://www.w-canvas.com/image_item/45532-main.jpg)
+&ref(https://www.suruga-ya.jp/database/pics/game/186116402.jpg,x=300,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm12641155)
+
+|CENTER:本作|CENTER:次作|
+|CENTER:&bold(){血管}|CENTER:-|
+
+|&bold(){[[(仮)P]]}|
+
+発売：2011年01月16日
+価格：￥1200（税込）
+流通：同人
+
+|&bold(){[[ホワイトキャンバスで購入する>>http://www.w-canvas.com/shopping/detail.php?item_id=45532]]}|
+
+**CD紹介
+-[[(仮)P]]の1stアルバム。
+-THE VOC@LOiD M@STER15（ボーマス15）にて頒布。
+-ホワイトキャンバスにて委託販売が行われていたが、現在は販売停止。
+-ジャケットイラストは[[矛盾]]氏が手掛けている。
+
+**曲目
++イントロ
++冬の炎
++[[無い]]
++五五五六
++ウタゴイ
++シオン
++[[助走]]
++[[僕が見た夢]]
++セツナタイヨウ
++般若心経デジロック
+
+**コメント
+#comment()

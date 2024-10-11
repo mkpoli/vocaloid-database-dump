@@ -1,0 +1,36 @@
+#right(){&furigana(ju)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/10873960" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/10873960">【ニコニコ動画】</a></iframe>)
+
+**特徴
+作り手名：『&u(){ju:}』（&u(){ゆ～}）
+-基本的にサムネにこだわらず曲を作っている。
+-…といっても、サムネに関わらない良曲を作るので目にとまった方は是非ご覧あれ。
+
+**リンク
+-[[おーろらぼれありす（作者ブログ）>>http://borealis.blog55.fc2.com/]]
+-[[ピアプロ>>https://piapro.jp/yunokuniya]]
+-[[pixiv>> https://www.pixiv.net/users/1685661]]
+
+**曲
+#list_by_tag(ju:,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(ju:CD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm6372174)|&nicovideo(sm6725797)|
+|&nicovideo(sm7076748)|&nicovideo(sm7083877)|
+|&nicovideo(sm7636928)|&nicovideo(sm7687982)|
+|&nicovideo(sm7957028)|&nicovideo(sm8288480)|
+|&nicovideo(sm9188512)|&nicovideo(sm9489559)|
+|&nicovideo(sm10281578)|&nicovideo(sm11202246)|
+|&nicovideo(sm12011380)|>|
+
+**コメント
+- 記事作成ありがとうございます！  -- けじゅ  (2011-04-06 13:30:18)
+- ju:さんのバラードっぽいのが好きだなあ。  -- 名無しさん  (2013-05-20 19:57:23)
+#comment()

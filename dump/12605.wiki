@@ -1,0 +1,131 @@
+#right(){&furigana()&furigana()【登録タグ:&tags()】}
+|&nicovideo(sm12468433)|&youtube(http://www.youtube.com/watch?v=uoNiizcXjrk){330,247}|
+作詞：[[YukitchEN RugMap]]
+作曲：[[Sweet Revenge]]
+編曲：[[Sweet Revenge]]
+唄：巡音ルカ
+
+**曲紹介
+-Sweet Revenge氏の13作目。
+-イラストは [[riria009]]氏が手掛ける。
+
+**歌詞
+（[[PIAPRO>>http://piapro.jp/content/06zttth8id9798fm]]より転載）
+
+I medicate fretfulness like I'm operating my illness　
+Why did I come to fall? Have to lose it all?　
+The moment tore me away　
+　
+I was stuck in the moment　
+To get back identity I pulled the trigger　
+Confusing in my hand　
+
+And I,　
+　
+　
+I've got to say something more　
+But I've never found　
+The underground makes no sound　
+Come closer to me, come closer to me　
+I want you to speak with me, with me　
+　
+　
+I'm wondering why I survive　
+And what the hell I have done　
+Capacitate me to crawl into the warmth of your arms, of your bones　
+　
+I was stuck in the moment　
+To get back identity I pulled the trigger　
+I can't be anyone but me　
+　
+　
+So I've got to say something more　
+But I've never found　
+The underground makes no sound　
+Come closer to me, come closer to me　
+I want you to speak with me, with me　
+　
+　
+Perfectly the vengeance I justified　
+Love, hatred and sorrow I amplified　
+I'm afraid I'm the one dispensable　
+I'm afraid I'm the one dispensable　
+　
+　
+So I've got to say something more　
+I've never found　
+The underground makes no sound　
+Come closer to me, come closer to me　
+I want you to speak with me　
+　
+I've got to say something more　
+I've never found　
+The underground makes no sound　
+It's my destiny, it's your destiny　
+I wanted to speak with you　
+　
+With you.　
+
+
+
+【和訳】
+#region(close,表示する)
+「施し」をするかのように　苛立ちを鎮める　
+どうして落ちぶれてしまったのだろう　
+全てを失わなければならなかったのだろう　
+あの瞬間が私を引き裂いた　
+　
+抱え込んだトラウマ　
+「個性」を取り戻すために、私は引き金を引いた　
+迷いを握り締めながら　
+
+私は、
+　
+　
+何かもっと言わなくちゃ　
+けれど、全く出てこない　
+手がかりは闇の中　
+来て　近づいて　
+あなたに話しかけてもらいたいの　
+　
+　
+なぜ生きているのだろうか　
+いったい何をしてきただろうか　
+あなたの腕のぬくもりに逃げ込んでしまいたい　
+　
+あの光景に囚われて　
+「個性」を取り戻すために、私は引き金を引いた　
+自分以外の人間にはなれないんだ　
+　
+　
+だから、もっと言わなくちゃ　
+けれど、全く出てこない　
+手がかりは闇の中　
+来て　近づいて　
+あなたに話しかけてもらいたいの　
+　
+　
+それは正しく、正当化された復讐　
+それは正しく、拡張された感情　
+私は、必要のない人間なんじゃないか　
+私は、この世にはいらない人間なんじゃないか　
+　
+　
+だから、もっと言わなくちゃ　
+けれど、全く出てこない　
+手がかりは闇の中　
+来て　近づいて　
+あなたに話しかけてもらいたいの　
+　
+もっと言わなくちゃ　
+けれど、全く出てこない　
+手がかりは闇の中　
+それが私の運命で　あなたの運命なんだ　
+もっとあなたと話したかった　
+　
+あなたと。　
+#endregion
+
+
+**コメント
+#comment()

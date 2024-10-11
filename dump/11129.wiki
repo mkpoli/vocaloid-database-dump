@@ -1,0 +1,31 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/466_20100707022042_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[night drive e.p.]]|CENTER:&bold(){sss e.p.}|CENTER:[[from 4jyo-han to everywhere]]|
+
+|&bold(){[[effe]]}|
+
+発売：2010年7月28日
+価格：￥300 / 1曲￥150
+流通：配信
+レーベル：KarenT
+ジャケットイラスト：[[maru>>http://piapro.jp/aa0557]]
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/sss-e-p/id383268386]]}|
+
+**CD紹介
+-effe氏の2作目となる配信EP。
+-命の始まり・躍動・循環をイメージした3曲（歌1曲、インスト2曲）入り。
+
+**曲目
++[ [[s]] ] （feat. 初音ミク）
++awake   
++mobius-pink 
+
+**リンク
+-[[KarenT：「sss e.p.」>>http://karent.jp/album/466]]
+-[[ハコニワエフェクト（作者ブログ）>>http://effel.blog11.fc2.com/]]
+
+**コメント
+#comment()

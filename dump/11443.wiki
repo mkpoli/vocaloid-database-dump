@@ -1,0 +1,46 @@
+#right(){&furigana(はろー、しゅうまつしねかめら)&furigana()【登録タグ:&tags() 】}
+//&ref(http://kaleidoscope.chottu.net/images/sasakure.jpg)
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186021755.jpg)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm10542766)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[ボーカロイドは終末鳥の夢を見るか?]]|CENTER:&bold(){＊ハロー、終末シネカメラ。}|CENTER:[[プロトタイプ　ナナクジャク]]|
+
+|&bold(){[[ささくれP]]}|[[baker]]|
+
+||CENTER:即売|CENTER:同人|
+|発売|CENTER:2010年5月5日|CENTER:2010年5月13日|
+|価格|CENTER:￥1,000|CENTER:￥1,500（税込）|
+|サークル|CENTER:けしスタジオ|CENTER:ササクレイション|
+
+**CD紹介
+-ささくれPことsasakure.UK氏が、自身初となる映像作品集をDVDでリリース。
+-ジャケットイラストは[[茶ころ]]氏。ムービー制作として[[baker]]氏とsta氏が参加している。
+-2010年5月5日開催のM3と5月9日開催のTHE VOC@LOiD M@STER 12（ボーマス12）で頒布された。
+-氏のサイトとメロンブックスにて通信販売を行っている。
+
+**曲目
++[[ニジイロ＊アドベンチュア]]
++[[カムパネルラ]]
++マリィの世界 （movie by [[baker]]）
++[[ナキムシピッポ]]（movie by [[sta>>http://dic.nicovideo.jp/a/sta]]）
++[[しゅうまつがやってくる！]]
++[[ぼくらの16bit戦争]]
++[[ワンダーラスト]]
++[[＊ハロー、プラネット。]]
+
+
+**リンク
+-[[特設ページ>>http://sasakure.bms.ms/s_cc.htm]]
+-[[通販ページ>>http://sasakure.cart.fc2.com/]]
+-[[ボーマス12での商品告知ページ>>http://kaleidoscope.chottu.net/]]
+-[[メロンブックス>>http://shop.melonbooks.co.jp/shop/sp_sasakure_m3.php]]
+
+**コメント
+- どこにも売ってない。ほしい  -- 藍焔  (2010-12-05 19:25:33)
+- ほしいなぁ・・・どこにあるの（泣  -- 名無しさん  (2011-05-01 10:44:15)
+- ↑私はめろんぶっくすで購入しました(＾O＾)  -- よしゃ  (2012-03-07 03:18:29)
+- 待ってマリィちゃんのPVとか存在したの今更ながら欲しい  -- 名無しさん  (2014-04-22 22:23:33)
+#comment()

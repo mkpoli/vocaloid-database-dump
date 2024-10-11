@@ -1,0 +1,36 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/546_20101003200718_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[恋のまみむめも作文♪>恋のまみむめも作文♪/CD]]|CENTER:&bold(){Spirit and Love}|CENTER:[[Make up Love>Make up Love/CD]]|
+
+|&bold(){[[MineK]]}|
+
+発売：2010年11月5日
+価格：￥900 / 1曲￥150
+流通：配信
+レーベル：KarenT
+ジャケットイラスト：[[トユ>>http://piapro.jp/akisamu12]]
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/spirit-and-love/id400173767]]}|
+
+**CD紹介
+>恋に対するいろんな想いをMEIKOの力強い高音に載せて。
+-MEIKOの発売6周年を記念して発表された、MineK氏の配信アルバム。
+-KarenTのMEIKO6周年記念企画で配信された作品の1つ。
+
+**曲目
++I trust the Music. （feat. MEIKO）
++Carnivolous GiRL （feat. MEIKO）
++[[Cry for the Moon]] （feat. MEIKO）
++[[Blindness>Blindness/MineK]] （feat. MEIKO）
++My life, My love （feat. MEIKO）
++[[First and Last]] （feat. MEIKO）
++[[Spirit and Love]] （feat. MEIKO&がくっぽいど）
+
+**リンク
+-[[KarenT：「Spirit and Love」>>http://karent.jp/album/546]]
+-[[KarenT：「MEIKO記念祭'10」特集ページ>>http://karent.jp/special/meiko10]]
+
+**コメント
+#comment()

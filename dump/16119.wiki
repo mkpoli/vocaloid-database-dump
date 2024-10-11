@@ -1,0 +1,36 @@
+#right(){&furigana(たいきょうP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://ext.nicovideo.jp/thumb_mylist/5662950" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/5662950">【ニコニコ動画】Magicberry%20Fields（%E8%83%8E%E6%95%99P）</a></iframe>)
+
+**特徴
+作り手名：『&u(){胎教P}』（&u(){たいきょうP}）
+-アーティスト名は&b(){Kia}。
+-発売前のCV03（巡音ルカ）へのミクからのメッセージソング「[[桜音 ～まだ見ぬキミへ～]]」でデビュー。
+-楽曲提供プロジェクト＋個人サークル『Magicberry Fields』を主催している。
+-Kia一人で作曲・編曲（一部作詞）を担当し、ゲストとして作詞家などを迎え入れるスタイル。
+
+**リンク
+-[[Magicberry Fields>>https://magicberry.nobody.jp/]]
+-[[ピアプロ>>https://piapro.jp/kiablazer]]
+//-[[にゃっぽん>>http://v-nyappon.net/?m=pc&a=page_f_home&target_c_member_id=4267]]
+-[[YouTube>>https://www.youtube.com/user/kiablazer]]
+
+**曲
+#list_by_tag(胎教P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(胎教PCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm2667644)|&nicovideo(sm2970395)|
+|&nicovideo(sm3656161)|&nicovideo(sm3994216)|
+|&nicovideo(sm5872879)|&nicovideo(sm6833825)|
+|&nicovideo(sm7036583)|&nicovideo(sm9229279)|
+|&nicovideo(sm9548936)|&nicovideo(sm13592889)|
+|&nicovideo(sm13602267)|&nicovideo(sm13705830)|
+
+**コメント
+#comment()

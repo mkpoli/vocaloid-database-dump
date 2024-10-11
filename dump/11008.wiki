@@ -1,0 +1,30 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/478_20100710025524_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Contradiction]]|CENTER:[[Feminity ～素直なわたし～]]&br()&bold(){C}|CENTER:[[DYE -Synthesis-]]|
+
+|&bold(){[[AVTechNO]]}|
+
+発売：2010年7月21日
+価格：￥300 / 1曲￥150
+流通：配信
+レーベル：KarenT
+ジャケット：AVTechNO
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/id382230093]]}|
+
+**CD紹介
+-AVTechNO氏の配信EP。
+-シングル『[[Feminity ～素直なわたし～]]』、並びに氏が参加するサークルproject EATAのシングル『[[feminity]]』と同時に発表された。
+
+**曲目
++[[desire>desire/AVTechNO]] （feat. 初音ミク）
++slow S beta version remix （feat. 巡音ルカ）
++[[Feminity>Feminity Original]] TechZO! Remix （feat. 初音ミク）
+
+**リンク
+-[[KarenT：「C」>>http://karent.jp/album/478]]
+
+**コメント
+#comment()

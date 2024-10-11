@@ -1,0 +1,43 @@
+#right(){&furigana(よしやP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/8183281" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/8183281">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-P名はそのまま、アーティスト名である&b(){よし屋}からきている。
+-作詞作曲の他、動画内のイラストも基本的に自作である。
+-使用ボカロはリンレンと初音ミクとLilyであり、基本的にリンレンの特徴を活かした曲を作る。
+
+**リンク
+-[[ピアプロ>>http://piapro.jp/yoshiyoshi]]
+-[[mixi>>http://mixi.jp/show_profile.pl?id=19658973]]
+-[[にゃっぽん>>http://v-nyappon.net/?m=pc&a=page_f_home&target_c_member_id=5383]]
+
+**曲
+#list_by_tag(よし屋P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(よし屋PCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm4782553)|&nicovideo(http://www.nicovideo.jp/watch/sm4844238)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5072813)|&nicovideo(http://www.nicovideo.jp/watch/sm5199078)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm5735642)|&nicovideo(http://www.nicovideo.jp/watch/sm7430652)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7800992)|&nicovideo(http://www.nicovideo.jp/watch/sm9479654)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9718651)|&nicovideo(http://www.nicovideo.jp/watch/sm9949979)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm10966383)|&nicovideo(sm12504006)|
+|&nicovideo(sm12762354)|&nicovideo(sm16343439)|
+|&nicovideo(sm16478367)|&nicovideo(sm18177356)|
+|&nicovideo(sm18487123)|&nicovideo(sm18941377)|
+|&nicovideo(sm19700538)|&nicovideo(sm20407817)|
+|&nicovideo(sm20756727)|&nicovideo(sm21663007)|
+|&nicovideo(sm22077653)|&nicovideo(sm22612358)|
+|&nicovideo(sm23296718)|&nicovideo(sm24835873)|
+|&nicovideo(sm26560735)|&nicovideo(sm27536607)|
+
+**コメント
+- ページできた！　おめでとう  -- 名無しさん  (2010-07-30 22:39:05)
+- なぜポジポジないの？  -- 名無しさん  (2012-08-17 19:04:07)
+//- お母さんがエイズにかかったらしい...  -- 名無しさん  (2014-01-08 15:29:17)
+- ロマンワークスと東京ゾンビガールの歌詞もお願いします！  -- 名無し  (2014-02-02 08:16:29)
+//- ttp://local.milkcafe.net/hokkaido/  -- 名無しさん  (2014-02-13 21:10:18)
+- この人にブロックされてた＾＾  -- 名無しさん  (2020-12-11 16:54:16)
+#comment()

@@ -1,0 +1,40 @@
+#right(){&furigana(えにしだ)&furigana()【登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186119813.jpg,x=300,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm12493860)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[ささやき　さえずり]]|CENTER:&bold(){エニシダ}|CENTER:[[Ore-rugeiyu]]|
+
+|&bold(){[[さささP]]}|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|CENTER:2010年11月14日|CENTER:2010年11月21日|
+|価格|CENTER:￥800|CENTER:￥945（税込）|
+|サークル|>|CENTER:森林博物館|
+
+**CD紹介
+-THE VOC@LOiD M@STER 14（ボーマス14）で発表される、さささP2ndアルバム。新曲1曲を含む11曲入り。
+-日本語VOCALOID、VOICEROID、海外組、UTAU等幅広く使用されている。
+-デザインなどで[[のののP]]が参加している。
+-現在、とらのあなで委託販売が行われている。
+
+**曲目
++[[暮々の祈りの唄]]
++お姫様の誕生日
++おやすみティーカップ
++[[Little Toy Robot]]
++Anabel Lee
++春慕えど君遠く
++[[トリッチ・トラッチ・トリック・パレード]]
++タカチキエイヤー
++[[花祭り 宵祭り]]
++[[エニシダ]]　&color(red){&bold(){NEW!}}
++千の朝 千の夢
+
+**リンク
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/24/80/040010248003.html]]
+
+**コメント
+#comment()

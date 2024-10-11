@@ -1,0 +1,49 @@
+#right(){&furigana(AuroreetCrepuscule)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Aurore et Crepuscule}|CENTER:[[SnowLandscape]]|
+
+|&bold(){[[ta_ka]]}|[[けせらん]]|[[emon（Tes.）]]|[[イママP>yksb]]|[[ありえへんでP]]|[[ジラートP]]|[[リクルートP]]|
+|>|>|>|[[家の排水溝が詰まって溢れて水たまりP]]|[[クイナ]]|[[ミツバチP]]|[[ぐへへP]]|
+
+発売：2011年1月16日
+価格：￥1,000
+流通：即売
+サークル：Bit-z
+
+**CD紹介
+-二児の父（ta_ka）氏 のコミュから生まれた、全13曲からなるコンピCD。
+-Aurore et Crepuscule は フランス語で「暁と黄昏」という意味。これは、企画主宰者である 二児の父氏 のコミュ名と同じ。
+-収録曲のうちの2曲は、歌い手の シエル＊氏 と sirayuki_氏 が参加。
+-ジャケットイラストを [[こみね]]氏 が、アートディレクションを シエル＊氏 が、WEBデザインを あkm氏 が手掛ける。
+-先着お釣りなしご購入で限定ポスカを12枚セットで頒布。イラストを手掛ける絵師は総勢12名。
+-THE VOC@LOiD M@STER 15（ボーマス15）にてリリース。
+
+**クロスフェード
+&nicovideo(http://www.nicovideo.jp/watch/sm13164828)
+
+**曲目
++暁と三日月 / けせらん
++[[HOLIDAY>HOLIDAY/emon（Tes.）]] / emon（Tes.）
++[[オレンジデイズ]] / イママP
++僕は1番じゃないけど / ありえへんでP
++[[Heart Beats]] / emon（Tes.） feat. シエル＊
++ステレオ / ジラートP
++[[異星間交流]] / リクルートP
++[[空想机上論]] / 家の排水溝が詰まって溢れて水たまりP
++[[8760センチメンタル]] / emon（Tes.） feat. sirayuki_
++「さよなら」の言葉 / クイナ
++Auroral Sound / ミツバチP
++ただいま / ぐへへP
++黄昏と宵ノ風 / けせらん
+
+**リンク
+-[[特設サイト>>http://auroreetcrepuscule.web.fc2.com/]]
+
+**コメント
+- ジャケット可愛い  -- 名無しさん  (2014-02-11 22:09:14)
+#comment()

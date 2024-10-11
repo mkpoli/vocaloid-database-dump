@@ -1,0 +1,28 @@
+#right(){&furigana(かきのたねP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/19346921" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/19346921">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-使用VOCALOIDは主に初音ミク。
+-[[歌ってみた>>http://www.nicovideo.jp/mylist/19141177]]、[[演奏してみた>>http://www.nicovideo.jp/mylist/19141318]]、[[描いてみた>>http://www.nicovideo.jp/mylist/19141189]]などでも活動中。
+-「[[P　名　言　わ　れ　て　な　い　理　由]]」で悲願の大百科登録。
+
+**リンク
+-[[柿の種Project(個人HP)>>http://kakinotneproject.web.fc2.com/]]
+-[[柿の種Pのピーナッツ抜きで！(ブログ)>>http://kakinotaneproject.blog137.fc2.com/]]
+-[[Twitter>>http://twitter.com/kakinotanep0721]]
+-[[柿の種Pのピーナッツ抜き(コミュニティ)>>http://com.nicovideo.jp/community/co348579]]
+
+**曲
+#list_by_tag(柿の種P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(柿の種PCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm10920668)|&nicovideo(http://www.nicovideo.jp/watch/sm11129917)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm11142039)|&nicovideo(http://www.nicovideo.jp/watch/sm11388979)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12392961)|&nicovideo(http://www.nicovideo.jp/watch/sm13083326)|
+
+**コメント
+- この人の曲好きだけどなぁ・・・・なんかエ●い  -- 名無しさん  (2013-03-28 13:41:33)
+#comment()

@@ -1,0 +1,45 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#image(http://web.archive.org/web/20110901173549im_/http://vocaloidsp-cd.com/images/VY1_banner_m.png,title=feat.VY1,blank) 
+
+&youtube(http://www.youtube.com/watch?v=QWkHypp3kuQ){425,350}
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){feat.VY1}|CENTER:[[音色 feat.VY1]]|
+
+|[[Aether_Eru]]|[[baker]]|[[BananaMiLK]]|[[http]]|[[KazuP]]|[[otetsu]]|
+|[[wowaka]]|[[オワタP]]|[[キャプテンミライ]]|[[小林オニキス]]|[[レントンP]]||
+
+|流通|CENTER:全国|
+|発売|CENTER:2010年9月1日|
+|価格|CENTER:￥14,800(税込)|
+|販売|CENTER:ビープラッツ株式会社|
+
+**CD紹介
+>各楽曲ごとにイラストレーターやデザイナーによる、&br()それぞれ思い描き創作したVY1のキャラクター、デザイン、設定等が連動したコンセプトアルバム!!
+-『VY1 デラックスパッケージ』の封入特典であるコンピレーションCD。非常に残念なことに単品販売はされていない。
+-収録された10曲は全てVY1がボーカルを担当しており、有名ボカロ曲のVY1カバーCDとしての側面も持っている。
+-公式のキャラクターや設定が存在しないVY1。本CDでは楽曲ごとにイラストレーターやデザイナーが創作したVY1のイラストがブックレットに掲載されている。
+--VY1はあくまで、ボーカロイドという新しい楽器であり存在です。みなさまの元でどのような姿、形にもなり、歌い踊ります。（紹介文より引用）
+
+**曲目
+|曲名|CENTER:作詞・作曲|CENTER:イラスト・キャラ設定|
+|[[星屑ユートピア]]|CENTER:otetsu|CENTER:meola|
+|[[celluloid -P∴Rhythmatiq remix->celluloid]]|CENTER:kisk_baker&br()編曲:Aether_Eru|CENTER:しゅく|
+|[[パラジクロロベンゼン]]|CENTER:オワタP|CENTER:縣|
+|[[エンドレス -1983FMGROOVE->エンドレス]]|>|CENTER:キャプテンミライ|
+|Drive!!|CENTER:BanananaMiLK|CENTER:タカハシヒロユキ|
+|[[ローリンガール]]|>|CENTER:wowaka|
+|オリジナルシング|CENTER:http|CENTER:小川ハリ|
+|[[Awakening!]]|CENTER:KazuP|CENTER:BUZZ|
+|染色共同体|CENTER:レントンP（otonaclub）|CENTER:風乃|
+|[[サイハテ（ver. VY1）>サイハテ]]|>|CENTER:小林オニキス|
+
+**リンク
+-[[CD紹介ページ>>http://vocaloidsp-cd.com/]]
+-[[VOCALOID STORE>>http://www.vocaloidstore.com/reservation/]]
+
+**コメント
+- VY1だけのCD！これはすごい！  -- 名無しさん  (2012-06-24 14:06:27)
+- VYオンリー！？そんな神CDが存在するんですか！？  -- ✝+ハル+✝  (2012-09-26 20:57:14)
+- 星屑ユートピアとローリンガールだと!?しかもサイハテまで…！  -- 名無しさん  (2014-11-25 16:15:35)
+#comment()

@@ -1,0 +1,53 @@
+#right(){&furigana(ARuFa)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://ext.nicovideo.jp/thumb_mylist/12368431" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/12368431">【ニコニコ動画】%E8%87%AA%E4%BD%9C%E6%9B%B2</a></iframe>)
+
+**特徴
+作り手名：『&u(){ARuFa}』（&u(){あるふぁ}）
+//-投稿者名は&b(){あるふぁ}。
+//↑2023/2/17時点で「ARuFa」名義だったので非表示化。
+-株式会社バーグハンバーグバーグ所属のブログライター。
+-ボカロPとしては、テクノ・エレクトロニカを中心に作曲している。&br()なかなか癖のある、所謂〝電子ドラッグ〟系の曲が多い。
+-アクセス数が100万回を超える、人気ブロガーでもある。
+-[[ピノキオピー]]氏との親交が深い。[[こちら>>https://realsound.jp/2021/04/post-729961.html]]も参照のこと。
+--ARuFa氏歌唱の楽曲『こんにちは、ARuFaです。』と『さんさーら！』ではピノキオピー氏が制作に関わっている。
+--ピノキオピー氏の楽曲『[[ゴージャスビッグ対談]]』のPVにはARuFa氏が出演している。また、『[[匿名M]]』では歌唱に参加している。
+--その他、アルバム『[[しぼう]]』のオーディオコメンタリーに参加したり『[[PINOCCHIOP BEST ALBUM 2009-2020 寿]]』で『[[アップルドットコム]]』のリミックスをしていたりする。
+
+**リンク
+-[[PIAPRO>>https://piapro.jp/arufa421]]
+-[[作者ブログ>>https://d.hatena.ne.jp/Arufa/]]
+-[[Twitter>>https://twitter.com/ARuFa_FARu]]
+-[[ニコニコ>>https://www.nicovideo.jp/user/133226]]
+-[[YouTube(旧アカウント)>>https://www.youtube.com/@ARUFAFARU]]
+-[[YouTube(現行アカウント)>>https://www.youtube.com/channel/UC49IcjbsspFVpukiVYN05Hg]]
+-[[ARuFA - 株式会社バーグハンバーグバーグ>https://bhb.co.jp/member/arufa]]
+
+**曲
+#list_by_tag(ARuFa,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**その他
+-[[ゴージャスビッグ対談]]（実写PVに出演）
+-[[イッシュのポケモン　言えるのか！]]（同上）
+-[[匿名M]]（初音ミクとともに歌唱）
+
+**CD
+#list_by_tag(ARuFaCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm8359525)|&nicovideo(sm8568250)|
+|&nicovideo(sm8873634)|&nicovideo(sm9389347)|
+
+**コメント
+- テクノ系な曲調、何故だか知らないけど頭に残ります。すごく好きです  -- おりゃ  (2011-09-08 20:12:31)
+- ブログも曲も大好きだ！  -- 名無しさん  (2013-07-27 16:17:07)
+- ARuFaさんのw曲wwすごいよねwwwwwwブログは違う方向にすごいよねwwwwwwwwwwARuFaさん大好き結婚してwwwwwwwwwwww  -- どっかの女ww  (2013-09-12 14:51:43)
+- 曲もブログもすごい！ｗｗ  -- 名無しさん  (2013-09-12 17:25:08)
+- ゴージャスビッグ対談wwwwwwwwww  -- 名無しさん  (2014-02-09 01:06:13)
+- ARuFaさんって誰も傷つけてないからすごいんだよなぁー  -- 名無しさん  (2023-02-24 23:00:00)
+- もう  -- 名無しさん  (2024-03-30 16:11:40)
+- 暇人ブロガー  -- 名無しさん  (2024-03-30 16:12:13)
+#comment()

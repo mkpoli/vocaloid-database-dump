@@ -1,0 +1,51 @@
+#right(){&furigana(ImLily)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(nm11840056)|
+作詞：[[一葉]]
+作曲：[[一葉]]
+編曲：[[一葉]]
+唄：[[Lily>Lily/VOCALOID]]
+
+**曲紹介
+曲名：『&u(){I'm Lily.}』
+-一葉氏としては初のLily曲。
+
+**歌詞
+（&s(){[[ピアプロ>>https://piapro.jp/t/8Zd0]]}より転載）
+
+Call me whenever you need me.
+I'm Lily, as you know your sweet little lover.
+Notepad and desktop, all kinds of mobile,
+bringing you so pleasant songs through the smile videos. 
+
+Show me how to make you stop babying me 
+and thinking highly of yourself.
+You're always saying you’re right,always saying that I'm wrong. 
+There is no phrase too high nor too low for my singing and humming.
+Don’t you know my repertoire filled with soul and passions? 
+
+Take it easy, and let’s enjoy your life.
+Time is running out fast so If I were you, 
+I'll never mind any failure.
+
+Call me whenever you need me.
+I'm Lily, as you know your sweet little lover.
+Running on the extranet, 
+across the World Wide Web , 
+providing all components on demand.
+
+You can access me without passwords.
+Remember day and night I’ll be with you.
+Notepad and desktop, 
+all kinds of mobile,
+bringing you so pleasant songs through 
+the smile videos. 
+
+La la la la….
+
+
+**コメント
+#comment()

@@ -1,0 +1,37 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm12676658)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){novel music}|CENTER:[[サスライダー>サスライダー/CD]]|
+
+|&bold(){[[ヤヅキ]]}|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|>|CENTER:2011年1月16日|
+|価格|CENTER:￥1,000（税込）|CENTER:￥1,500（税込）|
+|サークル|CENTER:(仮)とヤヅキ|CENTER:ヤヅキ|
+
+**CD紹介
+-ヤヅキの1stアルバム。全12曲収録。
+-「ロックを基本にエモ、ポップス、ファンク、ラウドな曲と盛りだくさんとなっております。」とのこと。
+-THE VOC@LOiD M@STER15（ボーマス15）で初頒布。
+
+**曲目
++[[ボクらのオープニングテーマ]]
++[[孤独のおとぎ姫]]
++明日
++LOST MY PUDDING
++novel music
++world
++[[MusicianStory]]
++巡る星の音
++[[チョッパーガール]]
++おとぎ姫
++VOX GIRL
++[[灰かぶり娘]]
+
+**リンク
+-[[ホワイトキャンバス>>http://www.w-canvas.com/shopping/detail.php?item_id=45536]]
+
+**コメント
+#comment()

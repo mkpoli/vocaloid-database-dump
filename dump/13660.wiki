@@ -1,0 +1,47 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/587_20101119070259_0240_0240.jpg)
+
+&nicovideo(sm11404535)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[DATE tunes]]|CENTER:[[D.A. technology]]&br()&bold(){D.A. technology -remixes-}|CENTER:[[ワンルーム・オール・ザット・ジャズ]]|
+
+|&bold(){[[DATEKEN]]}|
+
+||CENTER:即売|CENTER:同人|CENTER:配信|
+|発売|>|CENTER:2010年7月19日|CENTER:2010年12月27日|
+|価格|CENTER:|CENTER:￥1,050（税込）|CENTER:￥900 / 1曲￥150|
+|サークル|>|>|CENTER:VITALIZE|
+|レーベル|>|CENTER:-|CENTER:KarenT|
+
+**CD紹介
+-DATEKEN氏のVOCALOIDリミックスアルバム。オリジナルアルバム『[[D.A. technology]]』と同時リリース。
+-今まで発表したVOCALOID楽曲のリミックストラックを収録した一枚。
+-THE VOC@LOiD M@STER 13（ボーマス13）で頒布された。
+-とらのあなで委託販売がおこなわれている。
+-KarenTレーベルよりダウンロード販売も行われている。鏡音リン・レン3周年記念企画で配信された作品の1つで、もちろんオリジナル盤も同時に配信開始となっている。
+
+**曲目
++intro -instrumental-
++[[imagination>イマジネイション]] -dream mix-
++[[Never>Never/DATEKEN]] -high speed revolution mix-
++[[*tear*]] -two step mix-
++TIPS-p.m. -instrumental-
++[[Ur-Style]] -arbitrary style-
++[[Cardioid]] -still edit.-
++[[my sweet HDD>愛しのHDD -mirror sound edit.-]] -chip tune edit.-
++outro -instrumental-
+
+**動画
+|&nicovideo(sm9013175)|&nicovideo(sm11333486)|
+|&nicovideo(sm12759095)|&nicovideo(sm12873561)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm13641760)||
+
+**リンク
+-[[作者サイト>>http://www14.plala.or.jp/dateken/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/cit/pagekit/0000/00/03/000000038271/index.html]]
+-[[KarenT：「D.A. technology -remixes-」>>http://karent.jp/album/587]]
+-[[KarenT：「鏡音リン・レン祭'10」特集ページ>>http://karent.jp/special/rinlen10]]
+
+**コメント
+#comment()

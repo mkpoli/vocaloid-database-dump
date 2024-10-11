@@ -1,0 +1,27 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/3737365" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/3737365">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-2007年末よりニコニコ動画、Zoome等に投稿活動中。
+-独特のセンスを持ち、コアな人間には、投稿の早い時期から、アングラカタログで紹介される等注目されており、固定ファン層を持つ。
+-メインで使用しているVOCALOIDは初音ミク。他には巡音ルカや鏡音リン・レン、及びコーラス参加としてypl氏本人。
+-特徴は多重コーラスワークと逆再生。ハーモニーの美しさは氏の唯一無二の世界。体調を崩すと作曲する癖がある。
+-サークル「捻れたアヒル」に所属している。
+
+**リンク
+-[[作者ホームページ>>http://yplmusic.bandcamp.com/]]
+-[[Twisted Ducks（サークル公式ブログ）>>http://twistedducks.blog87.fc2.com/]]
+
+**曲
+#list_by_tag(ypl,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(yplCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画（再生数が多い順に6つ）
+|&nicovideo(http://www.nicovideo.jp/watch/sm7593485)|&nicovideo(http://www.nicovideo.jp/watch/sm9707522)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2916660)|&nicovideo(http://www.nicovideo.jp/watch/sm5608946)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3722094)|&nicovideo(http://www.nicovideo.jp/watch/sm6641179)|
+
+**コメント
+#comment()

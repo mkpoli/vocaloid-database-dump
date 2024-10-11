@@ -1,0 +1,31 @@
+#right(){&furigana(ゆあはいねす☆まいぷりんせす)&furigana()【登録タグ:&tags() 】}
+#amazon(B003HE1FQE)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){ユアハイネス☆マイプリンセス}|CENTER:[[幻想バケーション]]|
+
+|&bold(){[[ぱんたんP]]}|
+
+||CENTER:即売|CENTER:同人|
+|発売|CENTER:2010年5月5日|CENTER:2010年5月|
+|価格|CENTER:|CENTER:￥525（税込）|
+|サークル|CENTER:リサレコ|CENTER:幻想エアリー|
+
+**CD紹介
+-ぱんたんずがプロデュースする男性VOCALOID4人からなるユニット「幻想エアリー」の1stシングル。
+-M3-2010春で頒布。Amazon、アニメイト、とらのあな、D-STAGEで委託販売が行われている。
+
+**曲目
++[[ユアハイネス☆マイプリンセス]]
++[[不屈力！！]]
++ユアハイネス☆マイプリンセス off vocal
++不屈力！！ off vocal
+
+**リンク
+-[[幻想エアリー公式サイト>>http://lisa-rec.net/genso/]]
+-[[Amazon>>http://www.amazon.co.jp/exec/obidos/ASIN/B003HE1FQE/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/cit/pagekit/0000/00/03/000000036217/index.html]]
+-[[D-STAGE>>http://d-stage.com/shop/detail.php?seq=14668]]
+
+**コメント
+#comment()

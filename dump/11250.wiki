@@ -1,0 +1,72 @@
+#right(){&furigana(ふししろかなえ)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://ext.nicovideo.jp/thumb_mylist/7022327" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/7022327">【ニコニコ動画】%E3%82%B3%E3%83%A9%E3%83%9C%E3%83%BB%E8%87%AA%E4%BD%9C%E3%83%AA%E3%82%B9%E3%83%88</a></iframe>)
+
+**特徴
+作り手名：『&u(){藤代叶}』（&u(){ふじしろかなえ}）
+-[[ROY]]氏や[[otetsu]]氏を始め、数多くのPに対して楽曲向けのイラストを提供している絵師である。 
+-がくぽを中心に、色々なボカロのイラストを描いている。絵のシチュエーションは耽美なものからギャグまで様々。 
+-コラボ作品では動画編集を担当することも多い。また、独自に既存楽曲に対するPV制作も行っている。 
+-自らもまたがくぽ使いであり、カバー曲をいくつか発表している。
+-「[[裏表ラバーズ]]」の替え歌、「[[池袋ラバーズ]]」は殿堂入りも果たしている。
+
+**リンク
+//-[[rebelizm（作者ブログ）>>http://rebelizm.com/]]
+-[[ピアプロ>>https://piapro.jp/kanae]]
+-[[pixiv>>https://www.pixiv.net/users/165536]]
+-[[Twitter>>https://twitter.com/rebelizm]]
+-[[ニコニコ>>https://www.nicovideo.jp/user/114340]]
+//-[[にゃっぽん>>http://v-nyappon.net/?m=pc&a=page_f_home&target_c_member_id=64]]
+
+**曲
+#list_by_tag(藤代叶,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(藤代叶CD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+-&b(){自作オリジナル・カバー曲}
+|&nicovideo(sm5717693)|&nicovideo(sm6909123)|
+|&nicovideo(sm7792633)|&nicovideo(sm7985855)|
+|&nicovideo(sm8522045)|&nicovideo(sm8844094)|
+|&nicovideo(sm9731460)|&nicovideo(sm10921141)|
+|&nicovideo(sm11377814)|&nicovideo(sm14854926)|
+
+-&b(){イラスト・PV・歌詞提供}
+|&nicovideo(sm3746406)|&nicovideo(sm4511937)|
+|&nicovideo(sm4642045)|&nicovideo(sm4666366)|
+|&nicovideo(sm5038116)|&nicovideo(sm5079990)|
+|&nicovideo(sm5228589)|&nicovideo(nm5302728)|
+|&nicovideo(nm5358831)|&nicovideo(sm5585248)|
+|&nicovideo(sm5926723)|&nicovideo(sm5994175)|
+|&nicovideo(sm6388428)|&nicovideo(sm6660750)|
+|&nicovideo(sm6818379)|&nicovideo(sm7031581)|
+|&nicovideo(sm7267433)|&nicovideo(sm7420165)|
+|&nicovideo(sm7447227)|&nicovideo(sm7482197)|
+|&nicovideo(sm7792237)|&nicovideo(sm7792416)|
+|&nicovideo(nm7819268)|&nicovideo(sm8240383)|
+|&nicovideo(sm8355407)|&nicovideo(sm8625522)|
+|&nicovideo(nm8826789)|&nicovideo(sm8840061)|
+|&nicovideo(nm8994152)|&nicovideo(sm9103972)|
+|&nicovideo(sm9138686)|&nicovideo(sm9237253)|
+|&nicovideo(sm9349005)|&nicovideo(sm9801845)|
+|&nicovideo(sm10481713)|&nicovideo(sm11573063)|
+|&nicovideo(sm11574592)|&nicovideo(sm11584103)|
+|&nicovideo(sm11923960)|&nicovideo(sm12597249)|
+|&nicovideo(sm12640086)|&nicovideo(sm13117757)|
+|&nicovideo(sm13147010)|&nicovideo(sm13519666)|
+|&nicovideo(sm13832654)|&nicovideo(sm13920721)|
+|&nicovideo(sm14280807)|&nicovideo(sm14518023)|
+|&nicovideo(sm14619871)|&nicovideo(sm15147135)|
+|&nicovideo(sm15166400)|&nicovideo(sm15721001)|
+
+**コメント
+- 藤代さんマジネ申  -- 名無しさん  (2011-10-02 15:47:44)
+- 藤代さんのがくぽが一番カッコいい！！  -- 名無しさん  (2013-05-25 22:25:35)
+- 藤代さんのがくぽさんマジマッチョ!  -- 名無しさん  (2013-11-03 11:48:25)
+- ↑ そう？  -- 櫟井  (2014-03-16 20:24:44)
+- 藤代さんのがっくん超かっこいいよー♪  -- 駒河 梢  (2014-03-16 20:26:02)
+#comment()

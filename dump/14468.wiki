@@ -1,0 +1,36 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/21966379" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/21966379">【ニコニコ動画】</a></iframe>)|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/26499794" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/26499794">【ニコニコ動画】</a></iframe>)|
+
+**特徴
+-2010年11月2日「ナイフ」が初の動画投稿となる。
+-自称詩人（ツイッタープロフィールより）と言うだけありどこか心に沁みる歌詞を書く。
+-現在は Cubase Essential 5 を購入、使用しており、無事フリーソフトから卒業を果たしている
+-2010年11月時点ではニコニコ動画デビューから日が浅く、作品数は少ないが今後の活動に期待できる。
+-最近では他のPの曲で作詞と絵を担当したりもしている様子。
+-2011年2月13日（twitterでの本人のつぶやきによる）に各投稿動画に「モモの丁P」タグが付き、念願のP名を得る。（読みは「もものちょうぴー」略称は「喪P」）
+
+**リンク
+-[[ピアプロ>>http://piapro.jp/sudachi44]]
+-[[Twitter>>http://twitter.com/cokecocoo]]
+
+**曲
+#list_by_tag(すだち,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(すだちCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+**オリジナル
+|&nicovideo(http://www.nicovideo.jp/watch/sm12627090)|&nicovideo(http://www.nicovideo.jp/watch/sm12762824)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12903229)|&nicovideo(http://www.nicovideo.jp/watch/sm13088084)|
+**参加作品
+|&nicovideo(http://www.nicovideo.jp/watch/sm13149413)|&nicovideo(http://www.nicovideo.jp/watch/sm13170691)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm13243518)|&nicovideo(http://www.nicovideo.jp/watch/sm13448576)|
+
+**コメント
+- すだちさん、ようやくページ出来たのか…!!  -- のいろーぜ  (2011-02-13 23:45:16)
+- さすがすだちさん！これからも頑張ってくださいヾ(´▽｀*)ゝ♪  -- Zoo(o｀･ω･)ゞ!!  (2011-02-14 00:13:34)
+- やっとできた...! 嬉しい(●´∀｀●)! ずっと応援してます  -- りょう  (2011-02-14 00:14:37)
+- すげーな！めちゃくちゃ成長しすぎだ！これからも頑張ってください！  -- つっきー  (2011-02-14 07:22:32)
+- すだちさん大好きｳﾌﾌ  -- 名無しさん  (2012-01-07 15:27:56)
+#comment()

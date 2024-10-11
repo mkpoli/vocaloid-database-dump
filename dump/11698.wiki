@@ -1,0 +1,42 @@
+#right(){&furigana(げんかいぐれいあうと)&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/490_20100805093726_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Bitter Amp.]]|CENTER:&bold(){眩壊グレイアウト}&br()[[ゼンカイブレイクアウト]]|CENTER:[[sweet straightflash]]|
+
+|&bold(){[[ちょむP]]}|[[orange>orange/作り手]]|
+
+||CENTER:即売|CENTER:同人|CENTER:配信|
+|発売|CENTER:2010年8月14日|CENTER:2010年9月|CENTER:2010年8月31日|
+|価格||CENTER:￥1,260（税込）|CENTER:￥600|
+|サークル|>|CENTER:ちょむ工房||
+|レーベル|>|CENTER:-|CENTER:KarenT|
+|ジャケットイラスト|>|>|CENTER:yamo|
+
+**CD紹介
+-ちょむPことTakeponG氏の8作目となるボーカロイドCD。9作目『[[ゼンカイブレイクアウト]]』と同時リリース。
+-こちらは『[[Bitter Amp.]]』の流れを汲む、ギターサウンドを中心としたロックなアルバム。
+-2010年夏コミ（C78）で頒布された。委託販売はメロンブックス、D-STAGE、COMIC ZINで行われている。
+-2010年8月31日、初音ミク3周年記念にKarenTレーベルよりダウンロード販売が行われた。
+--配信版は『&bold(){眩壊グレイアウト S}』のタイトルで、おまけトラックが未収録の全6曲。
+
+**曲目
++恋時間　/ 初音ミクAppend SOFT
++誰も知らないキミ　/ 初音ミクAppend LIGHT
++魔法はいらない　/ 初音ミクAppend SOLID
++ふたつの月　/ 初音ミクAppend DARK
++瑠璃色の雫　/ 初音ミクAppend VIVID
++夢が醒めたら　/ 初音ミクAppend SOLID
++～おまけトラック
+
+**リンク
+-[[ちょむ工房（作者サイト）>>http://chomstudio.com/]]
+-[[アルバムページ>>http://chomstudio.com/products/35_greyout.html]]
+-[[メロンブックス>>http://shop.melonbooks.co.jp/shop/detail/213001007472]]
+-[[D-STAGE>>http://shop.melonbooks.co.jp/shop/detail/213001007472]]
+-[[COMIC ZIN>>http://www.comiczin.jp/]]
+-[[KarenT：「眩壊グレイアウト S」>>http://karent.jp/album/490]]
+-[[KarenT：「初音ミク 3rd Anniversary」特集ページ>>http://karent.jp/special/miku10]]
+
+**コメント
+#comment()

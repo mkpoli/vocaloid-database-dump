@@ -1,0 +1,21 @@
+#right(){【登録タグ:&tags()】}
+//↑タグ忘れ防止のための表示
+曖昧さ回避のためのページ
+----
+-[[uzP]]の曲
+--[[Supernova/uzP]]
+-[[aquazure]]の曲
+--[[supernova/aquazure]]
+-[[Torero]]の曲
+--[[Supernova/Torero]]
+-[[けっしー>コンプP]]・[[じょびぃ]]の曲
+--[[SUPERNOVA/けっしー・じょびぃ]]
+-[[雄之助]]・[[春野]]の曲
+--[[Supernova/雄之助・春野]]
+
+-コンピレーションCD
+--[[EXIT TUNES PRESENTS Supernova]]
+-[[Torero]]のCD
+--[[Supernova/CD]]
+
+#include(曖昧さ回避の追加の仕方/告知)

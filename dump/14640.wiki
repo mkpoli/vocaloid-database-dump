@@ -1,0 +1,32 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/15349836" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/15349836">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-ドロップチューニングを駆使したラウド系サウンドを主に作っている。
+-本人いわく楽曲サウンドは、完全にメタルという一つのジャンルに固まらないよう心がけているとか。
+-一度うｐした作品で人気のあった曲は、基本的に再mix版として再うｐしている。
+-最近では自分の楽曲の動画を自ら作成していたり、歌ってみたデビューも果たしている。
+-ちなみに最初noa+ではなく、&b(){noa.}という名前で登録していたが、改名した。
+
+**リンク
+-[[ピアプロ>>http://piapro.jp/music_man]]
+-[[Twitter>>http://twitter.com/noaplus]]
+-[[mixi>>http://mixi.jp/show_friend.pl?id=16670704]]
+
+**曲
+#list_by_tag(noa＋,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(noa＋CD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/nm8897828)|&nicovideo(http://www.nicovideo.jp/watch/sm9005129)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9458061)|&nicovideo(http://www.nicovideo.jp/watch/sm9656029)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9772324)|&nicovideo(http://www.nicovideo.jp/watch/sm9857400)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm10778198)|&nicovideo(http://www.nicovideo.jp/watch/sm11099331)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm11813907)|&nicovideo(http://www.nicovideo.jp/watch/sm12187933)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12913699)|&nicovideo(http://www.nicovideo.jp/watch/sm13409413)|
+
+**コメント
+- 和メタルとか効果とか幅広いけどどれもかっこいい！  -- 名無しさん  (2011-10-12 07:22:36)
+#comment()

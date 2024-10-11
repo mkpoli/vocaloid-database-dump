@@ -1,0 +1,32 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/8242825" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/8242825">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-歌詞は他の作詞家のものを採用していくというスタイルで、その中で[[cocotuki]]氏や[[夕澄]]氏、[[風杜鈴音]]氏らとのコラボの実績がある。
+-使用ボカロは主にリンレン。その他にはミクやルカを使う。
+-最近のP名は自らのアーティスト名を逆から読んだ&b(){あいなまぐすP}。
+
+**リンク
+-[[ピアプロ>>http://piapro.jp/psgmania]]
+-[[にゃっぽん>>http://v-nyappon.net/?m=pc&a=page_f_home&target_c_member_id=2750]]
+
+**曲
+#list_by_tag(psgmania,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(psgmaniaCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm3821482)|&nicovideo(http://www.nicovideo.jp/watch/sm3821560)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4862702)|&nicovideo(http://www.nicovideo.jp/watch/sm5304874)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5318206)|&nicovideo(http://www.nicovideo.jp/watch/sm5709926)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6510523)|&nicovideo(http://www.nicovideo.jp/watch/sm7140146)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm7705474)|&nicovideo(http://www.nicovideo.jp/watch/nm8091202)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm8600262)|&nicovideo(http://www.nicovideo.jp/watch/nm8886021)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9238553)|&nicovideo(http://www.nicovideo.jp/watch/nm9427911)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9931198)|&nicovideo(http://www.nicovideo.jp/watch/nm10556866)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm11593054)||
+
+**コメント
+- 最近の曲あんまり伸びてないけどいいもの多いと思うんだ。  -- 名無しさん  (2011-08-22 01:23:03)
+#comment()

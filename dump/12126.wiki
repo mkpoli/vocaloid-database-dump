@@ -1,0 +1,32 @@
+#right(){&furigana(きみのそばに)&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/509_20100909082226_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[キミノ・・・ / SAKURA>キミノ・・・／SAKURA]]|CENTER:&bold(){キミノソバニ}|CENTER:[[Darkness Six]]|
+
+|&bold(){[[AVTechNO]]}|
+
+発売：2010年9月22日
+価格：￥300 / 1曲￥150
+流通：配信
+レーベル：KarenT
+ジャケットイラスト：[[和音>>http://piapro.jp/dot37]]
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/id392887167]]}|
+
+**CD紹介
+>いつでも君のそばにいたいと心から願う。
+
+-AVTechNO氏の2曲入り配信EP。
+-表題曲「キミノソバニ」は「[[・・・ソバニ]]」と「[[キミノ・・・ / SAKURA>キミノ・・・／SAKURA]]」の原曲となる楽曲。
+
+**曲目
++キミノソバニ （feat. 初音ミク）
++[[・・・ソバニ]] （feat. 初音ミク）
+
+**リンク
+-[[KarenT：「キミノソバニ」>>http://karent.jp/album/509]]
+-[[作者サイト>>http://avtechno.ukime.org/]]
+
+**コメント
+#comment()

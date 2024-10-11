@@ -1,0 +1,13 @@
+#right(){&furigana()&furigana()【登録タグ:&tags()】}
+&nicovideo(http://www.nicovideo.jp/watch/sm10985788)
+作詞：[[弱音P]]
+作曲：[[弱音P]]
+編曲：[[弱音P]]
+唄：GUMI
+
+**曲紹介
+-CD「[[籠の中の雛龍>籠の中の雛龍/CD]]」収録楽曲。
+-曲はGUMIが歌うオペラ曲。
+
+**コメント
+#comment()

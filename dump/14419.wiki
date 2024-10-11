@@ -1,0 +1,28 @@
+#right(){&furigana(ほしかなP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/18944912" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/18944912">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-デビュー作はP名の由来にもなった「星に奏でて」。
+-アーティスト名は&b(){カロン}。
+
+**リンク
+-[[ピアプロ>>http://piapro.jp/charon_275]]
+-[[Twitter>>http://twitter.com/charon_275]]
+
+**曲
+#list_by_tag(星奏P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+//**CD
+//#list_by_tag(星奏PCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm10661396)|&nicovideo(http://www.nicovideo.jp/watch/sm10807419)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm11668143)|&nicovideo(http://www.nicovideo.jp/watch/sm12192796)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12451786)|&nicovideo(http://www.nicovideo.jp/watch/sm13060747)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm13458772)||
+
+**コメント
+- それはまるでラストシーンのような、好きです  -- 名無しさん  (2011-04-26 22:26:35)
+- 星奏Ｐの曲、大好きです！！  -- 名無しさん  (2011-08-28 22:55:39)
+- ストラテジックテレキャストとクダラナイ大好きです  -- 名無しさん  (2012-03-07 00:53:00)
+#comment()

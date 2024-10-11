@@ -1,0 +1,36 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#amazon(B00451F6HW)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:[[KarenT Songs HATSUNE MIKU]]&br()[[KarenT Songs KAGAMINE RIN/LEN>KarenT Songs KAGAMINE RIN／LEN]]&br()&bold(){KarenT Songs MEGURINE LUKA}|CENTER:[[KarenT Songs 02 MIKU・RIN・LEN・LUKA]]|
+
+|&bold(){[[Chiquewa]]}|&bold(){[[AVTechNO]]}|&bold(){[[otetsu]]}|&bold(){[[X-Plorez]]}|&bold(){[[そそそP]]}|
+
+発売：2010年11月9日
+価格：無料
+流通：配信
+レーベル：KarenT
+
+**CD紹介
+-Amazon MP3ジャパンストアのオープンキャンペーンとして2週間限定で配信販売されたオムニバスアルバム。
+-フリーダウンロード、つまり無料。
+-収録曲は過去KarenTからリリースされた作品からのチョイス。
+-ミク版、リンレン版、ルカ版の3種がリリースされている。
+
+**曲目
++[[秘密>秘密/Chiquewa]] （feat. 巡音ルカ） / Chiquewa
++-『[[I Love Music]]』より。
++For example （feat. 巡音ルカ） / AVTechNO!
++-『[[For example]]』より。
++RED （feat. 巡音ルカ） / otetsu
++-『[[Child's Garden>Child's Garden/CD]]』より。
++[[F.G.A.M.]] （feat. 巡音ルカ） / X-Plorez
++-『[[エクスプロリズム]]』より。
++[[Mind Flower]] （feat. 巡音ルカ） / そそそP（津久井箇人）
++-『[[World Breakout feat. 巡音ルカ]]』より。
+
+**リンク
+-[[Amazon>>http://www.amazon.co.jp/dp/B00451F6HW]]
+
+**コメント
+#comment()

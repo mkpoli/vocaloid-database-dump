@@ -1,0 +1,63 @@
+#right(){&furigana(Astronaut)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm11654216)|
+作詞：[[あルカP]]
+作曲：[[あルカP]]
+編曲：[[あルカP]]
+唄：[[GUMI>Megpoid]]
+
+**曲紹介
+曲名：『&u(){Astronaut}』
+-死ぬ気で作曲シリーズ第六期の第5弾。
+-夢へ向かう宇宙船に乗ってるイメージ。
+-宇宙を思わせるような、キラキラしたタイプのポップスです。&br()そこも注目ということで。ぐみー。
+-ミクが歌ったバージョンが、KarenTレーベルよりダウンロード販売されている。[[初音ミク3周年記念企画>>https://karent.jp/special/miku10]]で配信された作品の1つ。
+
+**KarenT配信
+&ref(https://karent.jp/npdca/499_20100810150420_0240_0240.jpg)
+
+|CENTER:前作|CENTER:今作|CENTER:次作|
+|CENTER:[[大空色D-i-s-k]]|CENTER:&bold(){Astronaut}|CENTER:[[桜色D-i-s-k]]|
+
+流通：配信
+発売：2010年8月31日
+価格：￥150
+レーベル：[[KarenT>>https://karent.jp/album/499]]
+ジャケットイラスト：あルカP（M@SATOSHI）
+
+|&bold(){[[iTunes Storeで購入>>https://itunes.apple.com/jp/album/astronaut/id388927877]]}|
+
+***曲目
++Astronaut （feat. 初音ミク）
+
+**歌詞
+//（[[引用元のサイト>>引用元のURL]]より転載）
+握り締めていた　その手を開いて
+世界でひとつの　小さなチケット
+諦めかけてた　夢を乗せて
+当機はまもなく　離陸します
+
+I Believe　この道は長いけれど
+You will be　時を駆ける　Astronaut
+ハッチを開けたら　眩しい光が・・・
+
+何も恐れず　その目を開いて
+未来の星々　あなたを待ってる
+無くなりかけてた　小さな窓から
+無数に広がる　革新の道
+
+I Believe　この道は長いけれど
+You will be　時を駆ける　Astronaut
+零れた涙が　あなたを導く
+
+I Believe　この道は長いけれど
+You will be　時を駆ける　Astronaut
+I Believe　散らばった星を集めて
+You will be　大きな飛躍　Astronaut
+
+
+**コメント
+#comment()

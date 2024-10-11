@@ -1,0 +1,26 @@
+#right(){&furigana(こryP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/18197878" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/18197878">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-巡音ルカを使用している。作風は主にロックである。
+-P名の由来は、「ことば」にて『コンニチハコンバンハオハヨウゴザイマス、コｒｙPでございます(´・ω・`)』というコメントから。
+--"ry"の部分が全角文字だったり、半角文字だったりまちまち。タグ検索ではどちらでも引っかかる。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/rukaog3]]
+
+**曲
+#list_by_tag(コryP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+//**CD
+//#list_by_tag(コryPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm10410625)|&nicovideo(http://www.nicovideo.jp/watch/sm10495716)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm10718086)|&nicovideo(http://www.nicovideo.jp/watch/sm10975936)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm11906215)|&nicovideo(http://www.nicovideo.jp/watch/sm12594980)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12932725)|&nicovideo(http://www.nicovideo.jp/watch/sm12992407)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm13583596)|&nicovideo(http://www.nicovideo.jp/watch/sm13876505)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm14303582)||
+
+**コメント
+#comment()

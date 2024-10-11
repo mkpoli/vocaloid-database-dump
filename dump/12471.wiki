@@ -1,0 +1,30 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[ZANEEDS ＃02]]|CENTER:&b(){ZANEEDS ＃EP}|CENTER:[[ZANEEDS ＃SG]]|
+
+|&b(){[[パイパンP]]}|
+
+流通：即売
+発売：2010年8月14日
+価格：\2,000
+サークル：ZANEEDS
+
+**紹介
+-ボカロ初の12インチビニール盤。つまりは&b(){レコード}。
+-雨をテーマにした3曲が収録されている。
+-CHAN×COのジャケットイラストも可愛らしい。
+-アニメイトで僅かながら通販されている。
+
+**曲目
++[[Showered]]
++[[Sign>Sign/パイパンP]]
++Someday in the Rain
+
+**リンク
+-[[サークルのホームページ>>http://zaneeds.com/]]
+-[[作者のブログ>>http://blogs.dion.ne.jp/zani0/]]
+-[[アニメイトの通販ページ>>http://www.animate-onlineshop.jp/products/detail.php?product_id=1036205]]
+
+**コメント
+#comment()

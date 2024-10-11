@@ -1,0 +1,31 @@
+#right(){&furigana(ものとーんP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/19333687" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/19333687">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-P名の由来はサムネにモノトーンの絵をよく用いることから（勿論「ふろふら」等のような例外もあり）。
+-クレジットは&b(){クソ犬子}。
+
+**リンク
+-[[白黒エフェクト（作者ホームページ）>>http://monotoneco.web.fc2.com/]]
+-[[ピアプロ>>http://piapro.jp/lain03]]
+-[[Twitter>>http://twitter.com/Mono_co]]
+
+**曲
+#list_by_tag(モノトーンP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(モノトーンPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm10485269)|&nicovideo(http://www.nicovideo.jp/watch/nm10909440)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm11192705)|&nicovideo(http://www.nicovideo.jp/watch/nm11470741)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm11582650)|&nicovideo(http://www.nicovideo.jp/watch/nm11677830)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm11799610)|&nicovideo(http://www.nicovideo.jp/watch/nm12090744)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm12390528)|&nicovideo(http://www.nicovideo.jp/watch/sm12404628)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm12683019)||
+
+**コメント
+- 視聴できません・・・　(ノ△；｡)  -- 名無しさん  (2014-08-05 06:30:27)
+- あれ、動画消されてる？いつのまに…  -- 名無しさん  (2015-06-05 23:25:03)
+- お願いだ 帰ってきてくれ  -- 名無しさん  (2016-01-13 18:19:19)
+#comment()

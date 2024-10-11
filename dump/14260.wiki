@@ -1,0 +1,31 @@
+#right(){&furigana(えにくすP) &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/3837571" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/3837571">【ニコニコ動画】さくら＠えにくすP</a></iframe>)
+
+**特徴
+-初期投稿動画が某RPGのアレンジ中心だったことからP名がつけられた。元々の名前は「さくら」。
+-クリプトン社のボーカロイドは全て所持しているらしい。
+
+**リンク
+-[[PIAPRO「さくら＠えにくすPさんのページ」>>http://piapro.jp/sakuramio]]
+-[[作者サイト「気楽に自由に」>>http://cherry-blossom.blush.jp/vl/]]
+-[[Twitter>>http://twitter.com/sakuramio]]
+
+**曲
+#list_by_tag(えにくすP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(えにくすPCD,100,sort=furigana)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm2131881){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm2399602){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3526575){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm3995748){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4554935){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm5637391){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5990786){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm6049062){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7134952){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm7199458){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7199697){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm9186193){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9210285){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm9221158){340,185}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9537931){340,185}|&nicovideo(http://www.nicovideo.jp/watch/sm13020559){340,185}|
+
+**コメント
+- 祭の伝承歌大好きです。  -- 元禄  (2014-08-29 18:24:51)
+#comment()

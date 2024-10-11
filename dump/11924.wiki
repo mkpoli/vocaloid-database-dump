@@ -1,0 +1,27 @@
+#right(){&furigana(しほ)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/16561186" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/16561186">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-ポップス中心に投稿している。
+-軽快で爽やかな曲が多い。
+-ニコニコ動画のタグで使われている「シホ（WishMelodies）」の「Wish Melodies」とは、シホ氏のひとり音楽ユニットの名称である。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/wishmelodies]]
+-[[MySpace>>http://www.myspace.com/1004587017]]
+-[[作者サイト>>http://wishmelo.web.fc2.com/]]
+
+**曲
+#list_by_tag(シホ,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(シホCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm8974652)|&nicovideo(http://www.nicovideo.jp/watch/sm9017729)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9133398)|&nicovideo(http://www.nicovideo.jp/watch/sm9967591)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm10756841)|&nicovideo(http://www.nicovideo.jp/watch/sm10940394)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm11919301)|&nicovideo(http://www.nicovideo.jp/watch/sm12971752)|
+
+**コメント
+#comment()

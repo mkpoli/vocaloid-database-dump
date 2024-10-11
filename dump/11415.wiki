@@ -1,0 +1,32 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/18105219" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/18105219">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-2010年3月12日『[[sixth sense]]』にて、18歳でニコニコ動画デビューした新人P。
+-P名は&bold(){ブレイズP}。
+-アニソン系、ロック系、トランス系の曲を発表している。
+-全く楽器が弾けないらしく、ギターやピアノ類は全て打ち込み。
+-ヘヴィメタルバンドに所属しており、ボーカルを担当している。デスヴォイス（ガテラル）も使うらしい。
+-本人曰く「ミキシングやマスタリングに難がある」との事で、それらを改善するため、作者ブログにて2010年8月10日より活動休止を宣言。
+
+**作風
+-転調を多用する。4作目『[[幻想テレパス]]』では30回にも及ぶ転調を見せた。
+-歌詞は独特の言葉選びや難解な単語を多用する、幻想的な世界観を持つものが多い。
+
+**リンク
+-[[作者ブログ>>http://musicgazing.blog3.fc2.com/]]
+-[[PIAPRO>>http://piapro.jp/musicgaze]]
+
+**曲
+#list_by_tag(blazevox,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(blazevox,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm9994958)|&nicovideo(http://www.nicovideo.jp/watch/sm10055643)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm10223522)|&nicovideo(http://www.nicovideo.jp/watch/sm10413941)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm11659370)|
+
+**コメント
+#comment()

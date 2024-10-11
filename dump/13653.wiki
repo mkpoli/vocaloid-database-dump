@@ -1,0 +1,41 @@
+#right(){&furigana(こころをまどわすましょうの、)&furigana()【登録タグ:&tags() 】}
+//#image(http://sharp1.m--q.org/devilish/img/bana.jpg,http://sharp1.m--q.org/devilish/,title=心を惑わす魔性の、,blank)
+//&ref(http://sharp1.m--q.org/devilish/img/cd.jpg)
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186117314.jpg,x=300)
+
+&nicovideo(sm13167932)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Qliphoth]]|CENTER:&bold(){心を惑わす魔性の、}|CENTER:-|
+
+|&bold(){[[はごろもP]]}|
+
+発売：2010年12月31日
+価格：￥500（税込）
+流通：即売・同人
+サークル：#1
+
+**CD紹介
+-KAITOを使用した、はごろもPの根暗シングル
+-未発表4曲入り（+インスト4曲）
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/25/81/040010258192.html]]、[[D-STAGE>>http://d-stage.com/shop/detail.php?seq=18812]]でも委託販売が行われています
+
+**曲目
++of hate
++Poison Color
++Keloid
++Doodlebug
++of hate-Instrumental
++Poison Color-Instrumental
++Keloid-Instrumental
++Doodlebug-Instrumental
+
+**リンク
+-[[特設サイト>>http://sharp1.m--q.org/devilish/]]
+-[[#1(Sharp-1)（作者ホームページ）>>http://sharp1.m--q.org/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/25/81/040010258192.html]]
+-[[D-STAGE>>http://d-stage.com/shop/detail.php?seq=18812]]
+
+**コメント
+#comment()

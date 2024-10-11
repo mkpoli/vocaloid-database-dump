@@ -1,0 +1,34 @@
+#right(){&furigana(あきあかね)&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/535_20100928235641_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[semitranslucent]]|CENTER:&bold(){アキアカネ}|CENTER:-|
+
+|&bold(){[[andromeca]]}|
+
+発売：2010年10月20日
+価格：￥600 / 1曲￥150
+流通：配信
+レーベル：KarenT
+ジャケットイラスト：andromeca
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/id397951242]]}|
+
+**CD紹介
+-andromeca氏の秋の曲がつまったアルバム。
+-KarenTの「秋の唄'10」企画で配信された作品の1つ。
+-2007年より毎年発表してきた秋の曲3曲に新曲「キンモクセイ」が収録されている。
+
+**曲目
++[[アキアカネ]] refrain （feat. 初音ミク）
++[[イロハモミジ]] （feat. 初音ミク）
++[[アキボシ]] （feat. 初音ミク）
++キンモクセイ （feat. 初音ミク）
+
+**リンク
+-[[KarenT：「アキアカネ」>>http://karent.jp/album/535]]
+-[[KarenT：「秋の唄'10」特集ページ>>http://karent.jp/special/autumn10]]
+-[[作者サイト>>http://andromeca.s324.xrea.com/]]
+
+**コメント
+#comment()

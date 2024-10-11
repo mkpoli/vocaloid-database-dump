@@ -1,0 +1,44 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://www.toranoana.jp/mailorder/cit/pagekit/0000/00/03/000000038455/10231517-1.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Relations]]|CENTER:&bold(){DigiStyling}|CENTER:[[CYBER COMPLETE ～Nonstop SigMix～]]|
+
+|&bold(){[[シグナルP]]}|[[orange>orange/作り手]]|[[田村ヒロ]]|
+
+||CENTER:即売|CENTER:同人|CENTER:配信|
+|発売|CENTER:2010年8月14日|CENTER:|CENTER:2011年8月3日|
+|価格|CENTER:￥1,000|CENTER:￥1,365（税込）|CENTER:￥1,200 / 1曲￥150|
+|サークル|>|>|CENTER:twinkledisc|
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/digistyling/id453207970]]}|
+
+**CD紹介
+-Dios/シグナルP通算6枚目となるVOCALOID-CD。
+-ジャケットデザインは[[田村ヒロ]]。デジパック仕様。12Pフルカラーブックレット付き。
+-コミックマーケット78で頒布。委託販売はとらのあなで行っている。
+-KarenTレーベルよりダウンロード販売も行われている。
+-9、10曲目はカバー曲を収録。9曲目は[[40㍍P]]の楽曲。10曲目は[[Dixie Flatline]]氏の楽曲で、『[[JBF　RemixAlbum]]』に収録されていたもの。
+
+**曲目
++Rise / GUMI
++[[UNBALANCE>UNBALANCE/シグナルP]] / リン
++twinkle our days -Digi mix- / リン
++[[会いたい]] -GUMI Ver.- / GUMI
++カーニバル / ミク
++[[ラ・ピュセル]] / ルカ
++Transient Snow / リン
++PHANTOM / リン
++[[キミボシ]] -Birthday mix- / GUMI
++[[Just Be Friends]] -Punk Ballad mix- / ルカ
+
+**リンク
+-[[twinkledisc（作者サイト）>>http://twinkledisc.net/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/cit/pagekit/0000/00/03/000000038455/index.html]]
+-[[KarenT：「DigiStyling」>>http://karent.jp/album/780]]
+
+**コメント
+- 9曲目のキミボシのRemixはすごくいいと思う  -- ねぎ三号  (2010-11-20 16:10:41)
+- ＧＵＭＩの会いたい最高でっす☆  -- 奈菜  (2010-12-30 16:22:09)
+- GUMIやばい…ｗ会いたい神☆  -- GUMIッ子  (2011-09-04 12:33:11)
+#comment()

@@ -1,0 +1,39 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+#image(http://chromaofwall.com/wordpress/images/gallery/bn_plst400.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Plustellia}|CENTER:-|
+
+|[[八王子P]]|[[baker]]|[[Rin（ぎん）]]|[[鮭P]]|[[すけっちP]]|[[U-ji]]|
+|>|[[kiichi（なんとかP）]]|[[samfree]]|[[チーターガールP]]|>|[[Aether_Eru]]|
+
+||CENTER:即売|CENTER:同人|
+|発売|>|CENTER:2010年8月15日|
+|価格|CENTER:￥1,500|CENTER:CENTER:￥1,890|
+|サークル|>|CENTER:壁の彩度|
+
+**CD紹介
+-クラブで踊れる楽曲をコンセプトにしつつ、高木さんをイメージした楽曲も多数書き下ろして頂きました！（作者コメ転載）
+-↑高木さんというのは TNSK氏 が生みだしたオリジナルキャラ。
+-完全書き下ろしで10曲を収録。フルカラーブックレット24P付き。限定特殊パッケージ 210mm x 210mm。
+-ジャケットイラストは TNSK氏 が手掛ける。
+-2010/8/15に開催されるC78にてリリース。
+
+**収録曲
++CRAZY GiRL / [[八王子P]] ｜ VOCALOID : 初音ミク
++SiSTEMATiC EMOTiON / [[SiSTEMA>Rin（ぎん）]] ｜ VOCALOID : 初音ミクAppend（Dark）
++[[This love will not be successful]] / [[baker]] ｜ VOCALOID : 初音ミク
++Royal Straight Flesh / [[low>鮭P]] ｜ VOCALOID : 初音ミク
++ニクニク★タカギックスナイト / [[samfree]] ｜ VOCALOID : 巡音ルカ
++[[Heart Groove]] / [[すけっちP]] ｜ VOCALOID : 初音ミク
++Devil's whisper / [[U-ji]] ｜ VOCALOID : 初音ミクAppend（Dark&Soild）
++ピンク・エレファント / [[kiichi（なんとかP）]] ｜ VOCALOID : 巡音ルカ
++disco radio / [[チーターガールP]] ｜ VOCALOID : GUMI&神威がくぽ
++Don't stop beat!! / [[Aether_Eru]] ｜ VOCALOID : 初音ミクAppend（Vivid）
+ 
+**リンク
+-[[壁の彩度（作者ホームページ）>>http://chromaofwall.com/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/23/14/040010231412.html]]
+
+**コメント
+#comment

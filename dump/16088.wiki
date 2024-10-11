@@ -1,0 +1,48 @@
+#right(){&furigana(IMOgirl)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm13299883)|
+作詞：[[TomocaP]]
+作曲：[[TomocaP]]
+編曲：[[TomocaP]]
+唄：[[初音ミク]]
+
+**曲紹介
+>&bold(){この曲にニヤけた人は玄人。不思議な大正解！←　ヘヴィメタルきゃっほい！ｗｗ}
+曲名：『&u(){IMO-girl}』
+-ジャパニーズスピードメタルの練習をするために作った曲。
+
+**歌詞
+（[[ピアプロ>>http://piapro.jp/t/E49T]]より転載）
+
+let's go fire!
+we are the IMO-girl !
+no ReajYu!
+they are our enemy !
+
+men!do cool sign!
+on my game die or kill 'em,right?
+Monday night!bark at near war!!
+kick it to late night!!
+
+(日本語訳)
+魂に火をつけるのよ！あたしたちこそが、IMO-girl !
+宿敵である<リアジュ>を殲滅せよ！
+
+男たちよ！イカすサインを魅せてごらん。
+私の<お遊戯>(ゲーム)で、ヤるの？ヤラれるの？
+月曜の夜、戦場の近くで吠えるのよ！
+深夜に蹴り込め。
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+**コメント
+#comment()
+
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)

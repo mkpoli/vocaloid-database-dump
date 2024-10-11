@@ -1,0 +1,36 @@
+#right(){&furigana(どげざしていぬのげろをたべるいけめんP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/21981309" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/21981309">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-使用するVOCALOIDは初音ミク。曲調は主にロック。
+-[[家の裏でマンボウが死んでるP]]・[[字も絵も下手っP>家の裏でマンボウが死んでるP]]・[[コーヒーの利尿作用を甘く見たP]]&br()との4人で&b(){LIMyT}というサークルを結成している。
+-P名はアレだが、曲は至ってまともである。安心してお聴きいただきたい。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/ruin44]]
+-[[Twitter>>http://twitter.com/#!/shimoda44]]
+
+**曲
+#list_by_tag(土下座して犬のゲロを食べるイケメンP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(土下座して犬のゲロを食べるイケメンPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm12092171)|&nicovideo(http://www.nicovideo.jp/watch/sm12179275)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12636596)|&nicovideo(http://www.nicovideo.jp/watch/sm12952719)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm13009561)|&nicovideo(http://www.nicovideo.jp/watch/sm13736750)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm14437727)|&nicovideo(http://www.nicovideo.jp/watch/sm15695539)|
+
+**コメント
+- 特徴二つ目www  -- 名無しさん  (2011-05-14 18:19:40)
+- おおおおおお  -- 名無しさん  (2011-05-14 18:30:17)
+- 何という名前・・・（驚）  -- fate  (2011-05-26 17:04:55)
+- 君の掌と僕の掌の隙間、ページまだかなぁ…。好きです。  -- カロン  (2011-10-07 18:28:43)
+- 繰り返す毎日好きだから追加してほしいな～  -- のの  (2013-11-23 22:38:00)
+- 一応全部の曲のページ作成しました。  -- 名無しさん  (2013-11-24 00:07:03)
+- 自称イケメンとか言ってる奴ほどたいした顔じゃないやつが多い  -- 名無しさん  (2013-11-28 08:58:32)
+- 自称イケメンなんじゃなくて、家の裏でマンボウが死んでるＰに「付けられたらいやなＰ名」という趣旨で付けられた名前ですよ。  -- 名無しさん  (2014-08-02 16:54:05)
+- あ、「自分で名乗るのが恥ずかしいＰ名」だったかな  -- 名無しさん  (2014-08-02 16:55:50)
+- ラフミックスで元気をもらいました  -- 名無しさん  (2016-02-07 20:16:11)
+#comment()

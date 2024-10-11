@@ -1,0 +1,51 @@
+#right(){&furigana(いめそらP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/7382277" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/7382277">【ニコニコ動画】</a></iframe>)
+
+**特徴
+作り手名：『&u(){イメソラP}』
+
+-「[[渡り鳥の唄]]」でボカロデビュー。
+-ケルトなどの民族系音楽からテクノポップまで幅広い作風。
+-音楽のジャンルはあまり意識しないで、「メロディとハーモニーを大切に」をモットーに創作活動をしている。
+-P名の由来は、1・2作目の「空をイメージした～」という投コメから。略されて「イメソラ」になった。
+-使用ボカロは今のところミクのみ。
+-アーティスト名は&b(){スナフキン}
+-今後の活動が楽しみな製作者の一人である。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/matyouka]]
+-[[Twitter>>https://twitter.com/imesoraP]]
+
+**曲
+#list_by_tagsearch(イメソラP,sort=furigana2,errmsg=まだ曲が登録されていません。,and,100)
+
+**CD
+#list_by_tagsearch(イメソラPCD,sort=furigana2,errmsg=まだCDが登録されていません。,and,100)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm4667365)|&nicovideo(http://www.nicovideo.jp/watch/sm4743393)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5180205)|&nicovideo(http://www.nicovideo.jp/watch/sm5466794)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5980237)|&nicovideo(http://www.nicovideo.jp/watch/sm7197267)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7356787)|&nicovideo(http://www.nicovideo.jp/watch/sm7656281)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm8338161)|&nicovideo(http://www.nicovideo.jp/watch/sm9122118)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9581921)|&nicovideo(http://www.nicovideo.jp/watch/sm10566162)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm11459310)|&nicovideo(http://www.nicovideo.jp/watch/sm11585607)|
+
+**関連タグ内の更新履歴
+#region(close,関連タグ内の更新履歴)
+関連タグ内の更新履歴
+※「イメソラP」「イメソラPCD」タグ内で最近編集やコメントのあった記事を新しい方から10件表示しています。
+#list_by_tagsearch(イメソラP,イメソラPCD,sort=timestamp,sort2=desc,errmsg=まだ曲が登録されていません。,or,10)
+#endregion
+
+**コメント
+- もっと、伸びろｗｗｗ  -- 名無しさん  (2011-12-08 18:52:25)
+- 民族調のヨタカノホシが好きです。  -- 名無しさん  (2012-02-18 21:05:08)
+#comment()
+
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)

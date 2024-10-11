@@ -1,0 +1,33 @@
+#right(){&furigana(なまP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/8496024" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/8496024">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-デビュー作は「Always」。
+-デビュー当時から幅広くミク曲を投稿しているが、最近はMac音ナナが歌う曲も投稿するようになった。
+-本来のアーティスト名は&b(){sayu_t}。
+-にゃくろ・せるす・ayukaと共にサークル「Tonic Flow」に所属している。
+
+**リンク
+-[[サークル「Tonic Flow」>>http://tonicflow.com/]]
+-[[Hanada Ne　～縹音～（作者ホームページ）>>http://hanadane.blog86.fc2.com/]]
+-[[ピアプロ>>http://piapro.jp/sayu_t]]
+
+**曲
+#list_by_tag(生P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(生PCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm4487236)|&nicovideo(http://www.nicovideo.jp/watch/sm4525389)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4779883)|&nicovideo(http://www.nicovideo.jp/watch/sm4883119)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4947015)|&nicovideo(http://www.nicovideo.jp/watch/sm5630873)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5835543)|&nicovideo(http://www.nicovideo.jp/watch/sm5920623)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7011946)|&nicovideo(http://www.nicovideo.jp/watch/sm7135972)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7309909)|&nicovideo(http://www.nicovideo.jp/watch/sm7561906)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm8262637)|&nicovideo(http://www.nicovideo.jp/watch/sm9002622)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9562101)|&nicovideo(http://www.nicovideo.jp/watch/sm10138765)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm10699116)||
+
+**コメント
+#comment()

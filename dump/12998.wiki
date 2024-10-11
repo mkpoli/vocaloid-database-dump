@@ -1,0 +1,38 @@
+#right(){&furigana(とん)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://ext.nicovideo.jp/thumb_mylist/14229434" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/14229434">【ニコニコ動画】%E3%81%A9%E3%82%93%E3%81%AE%E4%BD%9C%E5%93%81%EF%BC%88%C2%B4-%CF%89-%EF%BC%89</a></iframe>)
+
+**特徴
+作り手名：『&u(){どん}』
+-主にエモ・スクリーモ系の曲を作る。
+-また、東方アレンジにも参加していたりする。
+
+**リンク
+-[[ニコニコ>>https://www.nicovideo.jp/user/4168481]]
+-[[ピアプロ>>https://piapro.jp/darren]]
+-[[Twitter>>https://twitter.com/doN0328]]
+
+**曲
+#list_by_tag(どん,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(どんCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm7979136)|&nicovideo(sm8847665)|
+|&nicovideo(sm10191855)|&nicovideo(sm11067421)|
+|&nicovideo(sm12567558)|&nicovideo(sm12667833)|
+|&nicovideo(sm13676589)|&nicovideo(sm13878576)|
+|&nicovideo(sm14075235)|&nicovideo(sm15465165)|
+|&nicovideo(sm15631384)|&nicovideo(sm15922203)|
+
+**コメント
+//- ドーーーーン！！！  -- 名無しさん  (2011-09-08 23:12:12)
+- 新曲！！  -- 名無しさん  (2011-10-19 00:53:59)
+- 新曲追加希望！  -- 名無しさん  (2011-10-19 06:36:51)
+- どんさんすき!  -- 名無しさん  (2012-05-23 12:52:36)
+- どんさんのことは最近になって知りました！どんさんの曲は好きです…しかし、残念ながら１stアルバムが出たのはずいぶん前…。時すでに遅しってこのことだな(T_T)  -- 重いんだけど優しさがある曲が好きな一般people  (2013-06-19 00:03:40)
+#comment()

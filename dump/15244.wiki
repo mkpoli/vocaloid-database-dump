@@ -1,0 +1,30 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/2997776" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/2997776">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-デビューはカバー曲「花かんむり」。ボカロPとしてはかなり古参の部類に入る（2007年10月から活動している）。
+-「あしたのミク」でGEN高めのミクの声とインパクトの高いPVをひっさげて「あしたのP」というP名がついた。
+-使用ボカロはミク・リンレン・がくぽ・GUMI・ユキ。
+-絵・CG制作・演奏・PV編集ができるといった多才ぶりを見せる。ニコ動では数少ないアコーディオン奏者でもある。
+-また、[[ワンカップP]]の大ファンでもあり、いくつものアレンジ作品を投稿している。
+
+//**リンク
+//-[[Saparak（作者のサイト）>>http://www.saparak.com/]]
+
+**曲
+#list_by_tag(あしたのP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(あしたのPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画（オリジナル曲のみ、再生数が多い順に6つ）
+|&nicovideo(http://www.nicovideo.jp/watch/sm1846992)|&nicovideo(http://www.nicovideo.jp/watch/sm9398403)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4153283)|&nicovideo(http://www.nicovideo.jp/watch/sm1358386)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3873574)|&nicovideo(http://www.nicovideo.jp/watch/sm1563517)|
+
+**コメント
+- 陰ながら応援してます  -- 名無しさん  (2011-09-11 02:09:38)
+- 運営していたサイトも消えてしまい、現在何をしているのか気になっています。ファンとして今でも応援しているので、いつかお時間つきましたら是非帰ってきてください！  -- 名無しさん  (2017-09-12 13:57:14)
+- 残魂エンド摂氏零度は作詞作曲は知人で、歌わせたのはあしたのPってこと？  -- 名無しさん  (2022-08-15 08:32:36)
+- あしたのP！！！  -- 名無しさん  (2022-08-20 17:32:46)
+#comment()

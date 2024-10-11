@@ -1,0 +1,43 @@
+#right(){&furigana(ゆめのおわり ～ remember me ～)&furigana()【登録タグ:&tags()】}
+|&nicovideo(http://www.nicovideo.jp/watch/nm5046449)|&nicovideo(http://www.nicovideo.jp/watch/sm13323343)|
+作詞：[[おっホイP]]
+作曲：[[おっホイP]]
+編曲：[[おっホイP]]
+唄：初音ミク（原曲）、初音ミクAppend（ミクAppend版）
+
+**曲紹介
+-おっホイPが勝手に作った、「Kanon」という作品の「月宮あゆ」というキャラクターのイメージソング。
+-実は歌詞にもちょっとした仕掛けあり。
+
+**歌詞
+（[[ピアプロ>>http://piapro.jp/t/XYlr]]より転載）
+
+あなたに会えたのが
+夢の中だったなんて
+
+涙も笑顔も
+雪の中に
+消えてゆく
+
+真っ赤な風景は
+いつの記憶だったかな
+
+信じていいの？
+想いは届くと
+remember me
+
+待ち続けて
+子供のままで
+時は過ぎる
+
+満ちてゆく光
+
+信じていいの？
+想いは届くと
+
+桜の舞う季節
+夢が終わる
+remember me
+
+**コメント
+#comment()

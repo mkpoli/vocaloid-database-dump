@@ -1,0 +1,43 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/577_20101113024140_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[H!!gh $pё￠ ℃Θmp∪ｔεЯ]]|CENTER:&bold(){SCENE OF ATTRACTION}|CENTER:[[Toy Box!!]]|
+
+|&bold(){[[家の排水溝が詰まって溢れて水たまりP]]}|
+
+||CENTER:即売|CENTER:配信|
+|発売|CENTER:2010年11月14日|CENTER:2010年12月3日|
+|価格|CENTER:￥500|CENTER:￥1,200 / 1曲￥150|
+|サークル|CENTER:家の排水溝蜜蜂あふれてぐへへ||
+
+|&bold(){[[iTunes Storeで購入>>http://itunes.apple.com/jp/album/scene-of-attraction/id405906880]]}|
+
+**CD紹介
+-家の排水溝が詰まって溢れて水たまりP こと himawari氏の1stアルバム。
+-遊園地やテーマパークをコンセプトとし、「聴いてて楽しい」ことを目指した一枚。
+-ジャケットイラストは[[うらら>>http://piapro.jp/sumairuclover]]氏が手がけている。
+-THE VOC@LOiD M@STER 14（ボーマス14）にて頒布。その後KarenTレーベルよりダウンロード販売を開始。&br()委託販売の予定は無し。
+
+**クロスフェード動画
+&nicovideo(http://www.nicovideo.jp/watch/sm12546818)
+
+**曲目
++welcome to the entrance!!     
++[[独裁ジェット]] (feat. 初音ミク)   
++[[シネマティック・ライフ]] (feat. 初音ミク)   
++[[ビードロの憂鬱]] (feat. 初音ミク)   
++[[H!!gh $pё￠ ℃Θmp∪ｔεЯ]] (feat. 初音ミク)   
++[[水たまりグラフィティ]] (feat. 初音ミク)   
++FREE WAY (feat. 初音ミク)   
++[[calling you]] (feat. 初音ミク)   
++[[color of the world]] (feat. 初音ミク)   
++[[星空のパレード]] (feat. 初音ミク)   
++ゲート (feat. 初音ミク) 
+
+**リンク
+-[[作者ブログ>>http://himawari222.blog24.fc2.com/]]
+-[[KarenT>>http://karent.jp/album/577]]
+
+**コメント
+#comment()

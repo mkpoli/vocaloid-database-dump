@@ -1,0 +1,46 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+//#image(http://headphone-tokyo.com/_src/sc631/banner_SPiCaReAct.png,http://headphone-tokyo.com/index.html,title=SPiCa ReACT,blank)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&b(){SPiCa ReACT}|CENTER:-|
+
+|&b(){[[とくP]]}|[[Aether_Eru]]|[[八王子P]]|[[samfree]]|[[テラ小室P]]|[[baker]]|
+|[[azuma]]|[[Re:nG]]|[[オワタP]]|[[kentax]]|[[wowaka]]|[[古川P]]|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|>|CENTER:2010年8月14日|
+|価格|CENTER:\1,000(税込)|CENTER:\1,300(税込)|
+|サークル|>|CENTER:へっどほんトーキョー|
+
+**CD紹介
+-12人のボカロPによる『[[SPiCa]]』のアレンジアルバム。
+-初音ミク歌唱の楽曲以外にボーカルアレンジやフロアリミックスも収録!!
+-イラストは&b(){refeia}が、ジャケットデザインは&b(){kentax}が担当している。
+
+**曲目
++[[SPiCa]] -CosmiQ remix-　/　Aether_Eru
++SPiCa -8#Prince Remix-　/　8#Prince
++SPiCa -SAM's Summer dreamer Remix-　/　SAM(samfree)
++SPiCa -TKp mix-　/　テラ小室P（0108-音屋-）
++SPiCa -NTMGmix-　/　kisk baker
++SPiCa -BKAMIX-　/　azuma
++SPiCa -moonlight mile mix-　/　Re:nG
++SPiCa -minor AP mix-　/　オワタP
++SPiCa -TcAER OCVUL-　/　kentax
++SPiCa -nopq remix-　/　wowaka
++SPiCa -paid vacation mix-　/　古川本舗
++SPiCa -HPT ReACT-　/　とく
+
+**リンク
+-[[へっどほんトーキョー・オフィシャルホームページ>>http://headphone-tokyo.com/index.html]]
+-[[へっどほんトーキョーのブログ>>http://blog.livedoor.jp/headphonetokyo/]]
+
+**コメント
+- ボーカルは1-10がボカロ、11はちびた、12はMARiA  -- 名無しさん  (2010-11-29 18:10:50)
+- Spica、大好きです。  -- 名無しさん  (2014-08-25 14:38:44)
+- 神秘的な曲です。  -- 名無しさん  (2015-01-16 22:06:16)
+- とても良い曲です。  -- 名無しさん  (2015-11-14 21:45:01)
+- off vocalが入ったCDほしい  -- 名無しさん  (2015-12-12 19:11:27)
+- 素晴らしいです。  -- 名無しさん  (2016-02-17 20:17:53)
+- すてきな曲です。  -- 名無しさん  (2016-02-29 14:35:27)
+#comment()

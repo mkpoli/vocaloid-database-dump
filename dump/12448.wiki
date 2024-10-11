@@ -1,0 +1,60 @@
+#right(){&furigana(はつねみくしんぐすはるめんず)&furigana()【登録タグ:&tags() 】}
+#amazon(B00405OIP4)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm12292536)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&b(){初音ミクsingsハルメンズ}|CENTER:[[初音ミクsingsニューウェイヴ]]|
+
+|&b(){ハルメンズ}|[[うどんゲルゲ]]|[[kihirohito]]|[[キャプテンミライ]]|
+|[[デッドボールP]]|[[ぶっちぎりP]]|[[耳ロボP]]|[[みろんP]]|
+
+発売:2010年10月20日
+価格:\2,000(税込)
+流通:全国
+レーベル:ビクターエンタテインメント
+
+**CD紹介
+-ハルメンズ★生誕30周年記念企画のひとつとしてリリースされる、VOCALOIDによるハルメンズの公式カバーアルバム。
+-楽曲制作には多方面で活躍するボカロP7人が集結した。それぞれが腕を振るったミクウェーブ全17曲は必聴！
+-17,18曲目にはスペシャルボーナストラックとして、野宮真貴『ピンクの心』収録曲のカバーが収録されている。
+-また、PIAPROとのコラボで、ジャケットイラストとデフォルメイラストが公募された。結果発表は[[こちら>>http://piapro.jp/static/?view=halmens_result]]。
+
+**曲目
++電車でGO　　by ぶっちぎりP　　歌：鏡音リン
++焼きソバ老人　　by うどんゲルゲ　　歌：初音ミク
++昆虫軍　　by ぶっちぎりP　　歌：初音ミク
++レーダー・マン　　by うどんゲルゲ　　歌：初音ミク
++Q-Pダンス　　by みろんP　　歌：巡音ルカ
++母子受精　　by kihirohito　　歌：初音ミク
++キネマの夜　　by 耳ロボP　　歌：初音ミク
++アンドロイドな女　　by うどんゲルゲ　　歌：初音ミク
++幸福の未来　　by リン＆フューチャーナウ　　歌：鏡音リン
++お散歩　　by うどんゲルゲ　　歌：Little-Girl_β
++ふにゃふにゃサイボーグ　　by キャプテンミライ　　歌：初音ミク
++暗いところへ　　by デッドボールP　　歌：初音ミク
++マスクト・パーティー　　by うどんゲルゲ　　歌：初音ミク
++アニメイション　　by 耳ロボP　　歌：初音ミク
++モーター・ハミング　　by キャプテンミライ　　歌：初音ミク
++私ヤヨ　　by デッドボールP　　歌：初音ミク
++ピンクの心　　by うどんゲルゲ　　歌：初音ミク
++ツイッギー・ツイッギー　　by 耳ロボP　　歌：初音ミク
+
+**動画（収録順）
+|&nicovideo(http://www.nicovideo.jp/watch/sm2753796)|&nicovideo(http://www.nicovideo.jp/watch/sm12187052)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12492590)|&nicovideo(http://www.nicovideo.jp/watch/sm12398748)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12307849)|&nicovideo(http://www.nicovideo.jp/watch/sm12386409)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm13116428)|&nicovideo(http://www.nicovideo.jp/watch/sm13079930)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12648229)|&nicovideo(http://www.nicovideo.jp/watch/sm13155628)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12413511)|&nicovideo(http://www.nicovideo.jp/watch/sm13803922)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12335926)|&nicovideo(http://www.nicovideo.jp/watch/sm12243097)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12125590)||
+
+**リンク
+-[[ハルメンズ★生誕30周年記念 公式サイト>>http://www.halmens.jp/blog/ ]]
+-[[ASCII.jpの記事（初音ミクでハルメンズ！ サエキけんぞうと7人のボカロP【前編】）>>http://ascii.jp/elem/000/000/565/565998/]]
+-[[ASCII.jpの記事（初音ミクでハルメンズ！ サエキけんぞうと7人のボカロP【後編】）>>http://ascii.jp/elem/000/000/568/568926/]]
+
+**コメント
+- 調教がすごい！音楽も個性的でした。ボーカロイドの可能性すごいなあ  -- 名無しさん  (2010-11-02 00:34:04)
+#comment()

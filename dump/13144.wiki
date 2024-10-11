@@ -1,0 +1,55 @@
+#right(){&furigana(muu)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/16806737" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/16806737">【ニコニコ動画】音</a></iframe>)
+
+**特徴
+作り手名：『&u(){muu}』(&u(){読み仮名})
+-[[新幹線P]]とは別人。
+
+**リンク
+-[[Twitter>>https://twitter.com/muuplus]]
+-[[PIAPRO>>http://piapro.jp/muuplus]]
+-[[Soundcloud>>http://soundcloud.com/user-525666896/mssuicide]]
+-[[Site>>https://muuplus.mystrikingly.com/]]
+-[[Pixiv>>https://www.pixiv.net/users/1090308]]
+
+**曲
+#list_by_tagsearch(muu,sort=furigana2,errmsg=まだ曲が登録されていません。,and,100)
+
+**CD
+#list_by_tagsearch(muuCD,sort=furigana2,errmsg=まだCDが登録されていません。,and,100)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/nm8756607)|&nicovideo(http://www.nicovideo.jp/watch/nm8988750)|
+|&nicovideo(sm9244429)|&nicovideo(http://www.nicovideo.jp/watch/nm10442529)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm11092110)|&nicovideo(http://www.nicovideo.jp/watch/nm11966775)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm12071405)|&nicovideo(http://www.nicovideo.jp/watch/nm12582910)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm13032838)|&nicovideo(http://www.nicovideo.jp/watch/nm13267939)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm14069579)|&nicovideo(http://www.nicovideo.jp/watch/nm14436190)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm19941509)|&nicovideo(http://www.nicovideo.jp/watch/nm20051924)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm20644078)|&nicovideo(sm23710119)|
+//|&nicovideo()|&nicovideo()|
+
+**コメント
+- muuさんのページができてて本当にうれしい!!  -- 名無しさん  (2011-02-03 09:56:13)
+- 歌詞が凄く好み。聞いてこよっと。  -- しう  (2011-02-15 18:50:35)
+- 独特で好きです！  -- 名無しさん  (2011-03-20 20:23:09)
+- 最近知ったけど良曲ばかりだ。もっと評価されるべき。  -- 名無しさん  (2011-05-01 10:54:59)
+- 一番好きな人。大好きです。  -- 名無しさん  (2011-11-03 16:36:48)
+- 曲もイラストも両方大好き  -- 名無しさん  (2012-03-08 20:28:22)
+- ブログで知ったが入院してたのか  -- 名無しさん  (2012-12-04 00:48:50)
+- 復帰されたようですね  -- 名無しさん  (2012-12-20 21:31:08)
+- ハロウィンだから久しぶりにマイリス見たら何曲か消してる…。ランタンと金魚姫大好きだったのにショック…  -- 名無しさん  (2015-10-31 12:50:03)
+- 自分もタマユラが消えてたのがショックだった・・・これからは脳内再生するしかないのか・・・  -- 名無しさん  (2015-11-01 05:50:13)
+- この人のアクアリウム・バーテンダーって曲すごい好き高い声の下に低い声が入ってる感じがぞくぞくする  -- 名無しさん  (2016-04-01 16:41:44)
+- ピアプロ削除されている。。。いつから？好きだっただけに惜しい。  -- 名無しさん  (2017-12-03 22:57:35)
+- ttps://soundcloud.com/user-525666896/tracks  -- 名無しさん  (2017-12-03 23:13:03)
+- ほとんど曲無くなってる(;Д;)(;Д;)腕をかいて海を泳ぐ死ぬほど好きだったのに……  -- 名無しさん  (2018-11-25 00:33:50)
+- 死神とロールシャッハとプラスチックパレード最高だよね 元気でいてくれてるといいんだけど、今どうしてるんだろう･･･もう一回聴きたいよ  -- スナコ  (2018-12-27 22:14:55)
+- 全部ではないけどまた曲聴けるようになってましたよ。とても嬉しい！  -- 名無しさん  (2019-04-20 14:37:25)
+- 聴けるようなってて本当に嬉しい。もう脳内再生するしかないんやと諦めてたから....  -- 名無しさん  (2019-05-21 03:49:24)
+- 新曲聞きたいーーーー  -- せやあ  (2020-05-27 01:51:15)
+#comment()

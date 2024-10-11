@@ -1,0 +1,30 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/633_20110110175523_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[夏の迷路]]|CENTER:&bold(){Rainbow Connection / obbligato -オブリガート-}|CENTER:[[sequence of love / もうそこにはない恋のうた>sequence of love／もうそこにはない恋のうた]]|
+
+|&bold(){[[オレジナルP]]}|
+
+発売：2011年1月30日
+価格：￥300 / 1曲￥150
+流通：配信
+レーベル：KarenT
+ジャケットイラスト：[[べて>>http://piapro.jp/betete]]
+
+|&bold(){[[iTunes Storeで購入>>http://itunes.apple.com/jp/album/rainbow-connection-obbligato/id415814050]]}|
+
+**CD紹介
+-巡音ルカ2周年記念にリリースされた、オレジナルPの両A面シングル。
+-先行でリリースされた「Rainbow Connection」と2年前にリリースされた「obbligato -オブリガート-」のリメイク版を収録。
+
+**曲目
++[[Rainbow Connection]] （feat. 巡音ルカ）
++[[obbligato -オブリガート-]] （feat. 巡音ルカ）
+
+**リンク
+-[[KarenT：「Rainbow Connection / obbligato -オブリガート-」>>http://karent.jp/album/633]]
+-[[KarenT：「巡音ルカ聖誕祭'11」特集ページ>>http://karent.jp/special/luka11]]
+
+**コメント
+#comment()

@@ -1,0 +1,32 @@
+#right(){&furigana(ゆずみ)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/6488124" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/6488124">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-作詞家の作り手。
+-[[のりP]]や[[喜兵衛]]氏の楽曲に歌詞提供した実績もあり、[[psgmania]]氏とは度々コラボしている。
+-代表作に「[[pradera]]」「[[全力失踪。]]」「[[卒業>卒業/のりP]]」などがある。
+-作風は幅広くみんなのうたから禁断系まで。
+
+**リンク
+-[[ピアプロ>>http://piapro.jp/cyuzumi]]
+-[[にゃっぽん>>http://v-nyappon.net/?m=pc&a=page_f_home&target_c_member_id=3824]]
+
+**曲
+#list_by_tag(夕澄,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(夕澄CD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm3112936)|&nicovideo(http://www.nicovideo.jp/watch/sm3578115)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm3625568)|&nicovideo(http://www.nicovideo.jp/watch/sm3728906)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5016906)|&nicovideo(http://www.nicovideo.jp/watch/sm6510523)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6882409)|&nicovideo(http://www.nicovideo.jp/watch/sm9238553)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm10051150)|&nicovideo(http://www.nicovideo.jp/watch/sm10198079)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm10319923)|&nicovideo(http://www.nicovideo.jp/watch/nm10485259)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm10882570)|&nicovideo(http://www.nicovideo.jp/watch/sm13147509)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm13906557)||
+
+**コメント
+- この人の歌詞好き  -- 名無しさん  (2011-05-04 13:43:37)
+#comment()

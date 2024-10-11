@@ -1,0 +1,17 @@
+#right(){【登録タグ:&tags()】}
+//↑タグ忘れ防止のための表示
+曖昧さ回避のためのページ
+----
+-[[AHR]]の曲
+--[[abyss/AHR]]
+-[[CHOCO BABY]]の曲
+--[[abyss/CHOCO BABY]]
+-[[アルデバラン]]の曲
+--[[aByss/アルデバラン]]
+-[[Raz]]の曲
+--[[Abyss/Raz]]
+
+-[[SHUN]]のCD
+--[[Abyss/CD]]
+
+#include(曖昧さ回避の追加の仕方/告知)

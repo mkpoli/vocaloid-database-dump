@@ -1,0 +1,38 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#image(http://www.xenon-maiden.com/event/c79_banner_b.png,http://www.xenon-maiden.com/event/c79.html,title=HAYABUSA -The Legacy-,blank)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&b(){HAYABUSA -The Legacy-}|CENTER:[[SPIKE -まるくなる設定資料集-]]|
+
+|&b(){[[キセノンP>SHO（キセノンP）]]}|&b(){[[乙女P]]}|
+
+発売:2010年12月31日
+価格:￥1,000(税込)
+流通:即売
+サークル:Sonic Hybrid Orchestra
+
+**CD紹介
+>「自分たちの曲を、自分たちが納得いく最高の形で世に送り出したい」
+-そんな想いが込められた、SHO（キセノンP）とUse+keY（乙女P）のサークル&b(){XM}の1stアルバム。
+-コミックマーケット79で初頒布。
+-キセノンPの代表作「[[はやぶさ>はやぶさ/SHO（キセノンP）]]」他、全10曲が収録される。
+
+**曲目
++[[はやぶさ>はやぶさ/SHO（キセノンP）]]　/　初音ミク　/　キセノンP
++[[かくれおに]]　/　巡音ルカ　/　乙女P
++ばいなう　/　鏡音リン　/　キセノンP
++SoldOUT!　/　初音ミク　/　乙女P
++Love Songのような恋ができなくて　/　巡音ルカ　/　キセノンP
++Your Sound Within　/　鏡音リン　/　乙女P
++かげろう　/　巡音ルカ　/　乙女P
++[[とき]]　/　初音ミク　/　キセノンP
++[[Swing-By>Swing-By/SHO（キセノンP）]]　/　巡音ルカ　/　キセノンP
++Another World　/　初音ミク　/　乙女P
+
+**リンク
+-[[CD特設ページ>>http://www.xenon-maiden.com/event/c79.html]]
+-[[キセノンPの独り言（キセノンPのブログ）>>http://xenonp.dou-jin.com/]]
+
+**コメント
+- 11番目のトラックに、ニコニコで投稿された“はやぶさ -Welcome Back Version-”のリメイク版が収録。  -- 名無しさん  (2011-01-10 23:22:17)
+#comment()

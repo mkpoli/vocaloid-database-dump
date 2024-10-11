@@ -1,0 +1,35 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#image(http://blog-imgs-31-origin.fc2.com/v/n/a/vnavss/vn_link.jpg,http://vnavss.blog47.fc2.com/blog-entry-47.html,title=V_N feat.AVSS compilation album Vol.00 「Link」,blank)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&b(){V_N feat.AVSS compilation album Vol.00 「Link」}|CENTER:-|
+
+|&b(){[[baker]]}|[[むぅ]]|[[KTG>チーターガールP]]|[[味噌汁P]]|[[Aether_Eru]]|
+|[[ちゃぁ]]|[[古川P]]|[[Clean Tears]]|[[八王子P]]|[[PENGUINS PROJECT]]|
+
+|流通|CENTER:即売|
+|発売|CENTER:2011年3月23日|
+|価格|CENTER:\1,000(税込)|
+|サークル|CENTER:|
+
+**CD紹介
+-ボカロPによるクラブイベント&b(){V_N}の出演者を中心としたコンピレーションアルバム。
+--全9曲収録のCD-R。
+-V_N feat.AVSS vol.17で初頒布。
+
+**曲目
++[[ARPK]] VNmix　/　作曲：baker、作詞：むぅ
++First things first　/　作曲:KTG
++[[だいじょうぶ！]]　/　作編曲：Kenichi Chiba（味噌汁P）
++[[カラフルパズルピース]] -nico nico edit-　/　作編曲：Aether_Eru（P∴Rhythmatiq）
++[[piano lesson>ピアノ・レッスン]] (補習)　/　作曲・作詞：古川本舗、編曲：baker
++liquid robot　/　作曲：ちゃぁ
++Japanese Emotion　/　作編曲：Clean Tears
++air　/　作曲：8#Prince
++[[蛍>蛍/PENGUINS PROJECT]]　/　作編曲：PENGUINS PROJECT
+
+**リンク
+-[[V_N feat.AVSS Official blog>>http://vnavss.blog47.fc2.com/blog-entry-47.html]]
+
+**コメント
+#comment()

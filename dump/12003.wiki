@@ -1,0 +1,41 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/18565625" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/18565625">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-「APG」の部分は「あぺじ」と読む。
+-名前の由来は、ギターの型番が「APG550S」だったのでそこから名付けた。
+-ボカロPとしてだけでなくギター奏者としても活動中。
+-ギター奏者としてのAPG550氏は[[ここ>>http://www.nicovideo.jp/mylist/4279740]]を参照。
+-ボカロPとしてのデビュー作は「[[between you and me]]」。
+
+**リンク
+-[[NEVERLAND（作者ブログ）>>http://apg550.blogspot.com/]]
+-[[ピアプロ>>http://piapro.jp/apg550]]
+-[[Twitter>>http://twitter.com/APG550]]
+-[[にゃっぽん>>http://v-nyappon.net/?m=pc&a=page_f_home&target_c_member_id=11276]]
+-[[mixi>>http://mixi.jp/view_community.pl?id=5147770]]
+
+**曲
+#list_by_tag(APG550,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(APG550CD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm9762868)|&nicovideo(http://www.nicovideo.jp/watch/sm10097013)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm10832971)|&nicovideo(http://www.nicovideo.jp/watch/sm11572385)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm11835226)|&nicovideo(http://www.nicovideo.jp/watch/sm12011962)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12092892)|&nicovideo(sm12253844)|
+|&nicovideo(sm12365760)|&nicovideo(sm12914869)|
+|&nicovideo(sm13209291)|&nicovideo(sm13688764)|
+|&nicovideo(sm14075000)|&nicovideo(sm14426922)|
+|&nicovideo(sm14476008)|&nicovideo(sm14891347)|
+|&nicovideo(sm15381169)|&nicovideo(sm15790849)|
+|&nicovideo(sm16069888)|&nicovideo(sm16971575)|
+|&nicovideo(sm18026131)|&nicovideo(sm19652227)|
+|&nicovideo(sm19908765)|&nicovideo(sm20591306)|
+|&nicovideo(sm20819250)|&nicovideo(sm21020602)|
+|&nicovideo(sm21166897)||
+
+**コメント
+#comment()

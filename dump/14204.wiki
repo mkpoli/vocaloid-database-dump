@@ -1,0 +1,37 @@
+#right(){&furigana(うらはなひ)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo_mylist(<iframe width="312" height="176" src="https://ext.nicovideo.jp/thumb_mylist/7072261" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/7072261">【ニコニコ動画】%E8%A3%8F%E8%8A%B1%E7%81%ABList</a></iframe>)|&nicovideo_mylist(<iframe width="312" height="176" src="https://ext.nicovideo.jp/thumb_mylist/6799516" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/6799516">【ニコニコ動画】%E8%A3%8F%E8%8A%B1%E7%81%AB%2F%E7%94%BB%E5%83%8F%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%97%E3%81%A6%E9%A0%82%E3%81%84%E3%81%9F%E6%A5%BD%E6%9B%B2%E4%B8%80%E8%A6%A7%E3%81%A7%E3%81%99</a></iframe>)|
+
+**特徴
+作り手名：『&u(){裏花火}』（&u(){うらはなび}）
+-見る者を魅了するVOCALOIDのイラストで多くのPと視聴者を虜にする。特に氏の描く鏡音レンは「イケレン」の名を欲しいままにしている。
+-絵を描くことの他にも、作詞やMikuMikuDanceを使用した動画づくりなどが出来る多才な人物。
+-コラボレーションに積極的で、多くのPと名作を作り上げているが、本人も鏡音リン・レンを所有しているとのこと。
+
+**リンク
+//-[[兎茶屋（作者ホームページ）>>http://usagi-hanabi.com/]]
+//-[[兎茶屋日誌（作者ブログ）>>http://total.usagi-hanabi.com/]]
+-[[piapro>>https://piapro.jp/hide_fire_work]]
+-[[pixiv>>https://www.pixiv.net/users/192235]]
+-[[Twitter>>https://twitter.com/urahanabi]]
+-[[BOOTH>>https://urahanabi.booth.pm/]]
+
+**曲
+#list_by_tag(裏花火,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(裏花火CD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画（再生数が多い順に6つ）
+|&nicovideo(sm8089993)|&nicovideo(sm5596160)|
+|&nicovideo(sm3811621)|&nicovideo(sm10304070)|
+|&nicovideo(sm5666070)|&nicovideo(sm8326494)|
+
+**コメント
+- イラストも歌も好き♪  -- 名無しさん  (2011-05-05 14:40:34)
+- イラスト・歌詞ともにかっこいいです！応援してます！  -- 名無しさん  (2011-08-17 17:57:23)
+- 新曲の3-Aが凄く良かった！  -- 名無しさん  (2011-10-13 20:32:23)
+#comment()

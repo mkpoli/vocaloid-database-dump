@@ -1,0 +1,29 @@
+#right(){&furigana(ひぃ)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/4265730" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/4265730">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-&b(){Hili}とも。
+-メルヘンチックな曲を作っている。
+
+**リンク
+-[[HP>>http://conte-de-fees.com/]]
+-[[YouTube>>https://www.youtube.com/c/HiLiConteDeFees]]
+-[[ブログ>>http://hili1021.blog11.fc2.com/]]
+-[[Twitter>>http://twitter.com/hili1021]]
+
+**曲
+#list_by_tag(ひぃ,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(ひぃCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm1838113)|&nicovideo(http://www.nicovideo.jp/watch/sm1900979)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm1943353)|&nicovideo(http://www.nicovideo.jp/watch/sm2479472)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2187292)|&nicovideo(http://www.nicovideo.jp/watch/sm9178353)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12412526)|&nicovideo(http://www.nicovideo.jp/watch/sm12455754)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm14602849)||
+
+
+**コメント
+#comment()

@@ -1,0 +1,77 @@
+#right(){&furigana(IllTakeOnTheWorldByMyself)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm13175397)|
+作詞：[[Circus-P]]
+作曲：[[Circus-P]]
+編曲：[[Circus-P]]
+唄：[[初音ミク]]
+
+**曲紹介
+>&bold(){これは私がランダムに作成した短い曲です。私は本当に気のめいる曲以外の何かを書くことができることを示すためにこれを作りました。この曲は短く、不自由ですが、私はあなたがそれを願っています （ご容赦を私は日本語、私は翻訳を使用してください OTL）}
+>&bold(){This is a short song I made randomly. I made this to show that I can write something other than really depressing songs. This song is short and lame, but I hope you like it! (Please pardon my Japanese, I used a translator OTL)}
+曲名：『&u(){I'll Take On The World By Myself}』(&u(){あいる　ていく　おん　ざ　わーるど　ばい　まいせるふ})
+
+**歌詞
+
+You can't stop me now
+The war still goes on
+Fight it alone
+I don't need you to hold my hand anymore
+Nothing can destroy me today
+I'm feeling good without you here
+I can take on the world by myself
+
+When the skies are gray
+You would always say
+"You can't change the world"
+Hey, Guess what? You're wrong!
+I can make skies bright
+I just gotta fight the world by myself
+And show it who's boss!
+
+Come on, now
+Try to slow me down
+I can win this race alone
+Hey, you know I don't need you here
+I will show how far I can go
+Because, baby, without you here
+I can take on the world by myself
+
+(I'll take on the world by myself...)
+
+You can't stop me now
+The war still goes on
+Fight it alone
+I don't need you to hold my hand anymore
+Nothing can destroy me today
+I'm feeling good without you here
+I can take on the world by myself
+
+Come on, now
+Try to slow me down
+I can win this race alone
+Hey, you know I don't need you here
+I will show how far I can go
+Because, baby, without you here
+I can take on the world by myself
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+**コメント
+- ニコ動から削除されてる(うｐ主削除)  -- 名無しさん  (2011-06-07 21:32:53)
+- 削除依頼タグは外しました。動画が削除されたからといって別にこのページを消す必要は無いと思う。  -- 名無しさん  (2011-06-08 04:19:31)
+- 本人が公開を終了したら、ネット上で公開されていない曲となるのでこのwikiに載せられるなるのでは?  -- 削除依頼　追加名無し  (2011-06-10 02:07:27)
+- 本人及び関係者がネット上で公開してない曲は登録出来ないんだし、このページは削除するべき  -- ↑の人  (2011-06-10 02:15:51)
+- ここは曲のデータベースなので、こういう曲（動画）があったという記録という意味で残せばいいと思うのですが。  -- 名無しさん  (2011-06-10 03:28:07)
+- 英語の曲は英語ライブラリ読み込めるヤツ使用してほしいW英語へたすぎ。初音ミク  -- そにかー  (2012-05-16 23:16:08)
+- ↑2010年ってまだ、英語音源発売されてなくないですか？  -- 名無しさん  (2014-02-17 16:08:19)
+#comment()
+
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)

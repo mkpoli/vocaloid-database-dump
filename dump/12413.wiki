@@ -1,0 +1,30 @@
+#right(){&furigana(すてねころしあんぶるー)&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/473_20100708173609_0480_0320.jpg)
+&nicovideo(sm10615299)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Past of Abyss]]|CENTER:&bold(){捨て猫ロシアンブルー}|CENTER:[[Abyss>Abyss/CD]]|
+
+|&bold(){[[SHUN]]}|
+
+||CENTER:即売|CENTER:配信|
+|発売|CENTER:2010年5月9日|CENTER:2010年7月16日|
+|価格|CENTER:￥200|CENTER:￥300|
+|サークル|CENTER:STYLE.S||
+|レーベル|CENTER:-|CENTER:KarenT|
+
+**CD紹介
+-llcheesell氏が作成した、SHUN氏の「[[捨猫Russian Blue]]」のPVを収録したDVD。
+-THE VOC@LOiD M@STER 12（ボーマス12）にて頒布された。
+-DVD版には「捨て猫ロシアンブルー」本編DVD版に加え、FRENZ告知映像DVD版、特典映像が収録されている。
+-KarenTレーベルよりダウンロード販売が行われている。
+
+**曲目
++[[捨て猫ロシアンブルー>捨猫Russian Blue]]
+
+**リンク
+-[[STYLE.S（SHUN氏のサイト）>>http://www.s-style.tv/wp/]]
+-[[KarenT>>http://karent.jp/movie/473]]
+
+**コメント
+#comment()

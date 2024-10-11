@@ -1,0 +1,32 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+
+&nicovideo(http://www.nicovideo.jp/watch/sm11290677)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Articulate]]|CENTER:&bold(){ReAwake}|CENTER:[[PeperonP Best 2007-2010]]|
+
+|&b(){[[ぺぺろんP]]}|
+
+|流通|CENTER:即売|
+|発売|CENTER:2010年7月19日|
+|価格|CENTER:￥1,000|
+|サークル|CENTER:陰謀派スライダー|
+
+**CD紹介
+-ぺぺろんPの通算7枚目となるセルフアレンジアルバム。
+-収録曲は歴代のアルバムから1曲ずつ選ばれている。
+-とらのあなやD-STAGEで委託予定。
+
+**曲目
++Colorless Town（原曲：[[色の無い街]]）
++Doubling our Hearts S3 ReMix（原曲：[[Doubling our Hearts]]）
++satellite Silent ReMix（原曲：[[サテライト>サテライト/ぺぺろんP]]）
++"flamberge"（原曲：[[フランベルジェ]]）
++Saw and Pendulum（原曲：[[ノコギリとペンデュラム]]）
++The amulet（原曲：[[アミュレット]]）
+
+**リンク
+-[[作者のブログ>>http://peperonp.blog59.fc2.com/]]
+
+**コメント
+#comment()

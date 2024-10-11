@@ -1,0 +1,35 @@
+#right(){&furigana(のののP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/2325248" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/2325248">【ニコニコ動画】</a></iframe>)|&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/7175791" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/7175791">【ニコニコ動画】</a></iframe>)|
+
+**特徴
+作り手名『&u(){のののP}』
+-自作イラストによるVOCALOID楽曲PVを数多く手がけている。 
+-また、数多くの楽曲にイラストや動画などを提供している。 
+-自らもVOCALOIDによるカバー曲やオリジナル曲を手がけている。 
+-使用しているVOCALOIDは、初音ミク、鏡音リン･レン、がくっぽいど。
+-P名の由来は、初のオリジナル曲である「○○のひと」で、○にのをあててミクに歌わせたことからだと思われる。
+-熱烈な[[デッドボールP]]ファンでもあり、派生作品をいくつか投稿している。
+-その中で「[[既成事実]]」のがくぽカバー版（ショート）はがくぽ初のボカラン除外作品となった。
+
+**リンク
+-[[モエ　エ　シャンドン（作者ブログ）>>http://moeechandon.blog111.fc2.com/]]
+-[[ピアプロ>>https://piapro.jp/moco00]]
+-[[pixiv>> https://www.pixiv.net/users/141058]]
+
+**曲
+#list_by_tag(のののP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(のののPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画（再生数が多い順に6つ）
+|&nicovideo(sm4148662)|&nicovideo(sm5780188)|
+|&nicovideo(sm4153642)|&nicovideo(sm4070844)|
+|&nicovideo(sm5599781)|&nicovideo(sm4827895)|
+
+**コメント
+#comment()

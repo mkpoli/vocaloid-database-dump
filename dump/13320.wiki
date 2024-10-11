@@ -1,0 +1,40 @@
+#right(){&furigana(しろいはな)&furigana()【登録タグ:&tags() 】}
+
+#image(http://images.plurk.com/6971481_3bed1a15b5ba1f952e97af5a543389e0.jpg,http://siroi.hanabie.com/,title=SiroiHana Project,blank)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){クエン酸P feat. SiroiHana Project「白い花」}|CENTER:-|
+
+|[[クエン酸P]]|foolen|[[チーターガールP]]|
+
+発売：2010年11月21日
+価格：NT.50 / ￥300
+流通：即売
+サークル：SiroiHana Project
+
+**CD紹介
+-Music : Rexboy＠クエン酸P
+-Lyrics : foolen
+-MASTERING : KTG（チーターガールP）
+-ILLUSTRATION :　NekoiF
+-Design :　chasel
+
+-台湾のクエン酸Pとカナダ在住の中国歌姫foolenと日本のチーターガールP、3人が共演したシングルCD。
+-二次創作ノベル「あなたの歌姫」のイメージテーマソング。
+-台湾のボーカロイドonly event『VOCALOID's Soul』にて初頒布。
+-ボーマス15にて委託頒布。
+
+**クロスフェード
+&nicovideo(http://www.nicovideo.jp/watch/sm12655341)
+
+**曲目
++[[白い花>白い花/クエン酸P]]
++白い花 -snowflake mix-
++白い花 -off vocal-
++白い花 -bonus ver-
+
+**リンク
+-[[SiroiHana Project 特設サイト>>http://siroi.hanabie.com/]]
+
+**コメント
+#comment()

@@ -1,0 +1,29 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/18687380" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/18687380">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-「夜」が作詞を担当し、「S」と「K」が作曲を担当しているというユニット。
+-使用ボカロはミク・リンレン・MEIKO・KAITO・がくぽ・ルカ。
+-主に「VOCALOID幻想狂気曲リンク」タグがつく曲を作る。
+
+**リンク
+-[[作者ブログ>>http://chocoxbaby.jugem.jp/]]
+-[[ピアプロ>>http://piapro.jp/mck2]]
+
+**曲
+#list_by_tag(CHOCO BABY,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(CHOCO BABYCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm7917064)|&nicovideo(http://www.nicovideo.jp/watch/sm8232626)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm8377136)|&nicovideo(http://www.nicovideo.jp/watch/sm10316572)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm10373452)|&nicovideo(http://www.nicovideo.jp/watch/sm10449347)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm11165826)|&nicovideo(http://www.nicovideo.jp/watch/sm11904929)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12370702)|&nicovideo(http://www.nicovideo.jp/watch/sm12406614)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm13157869)|&nicovideo(http://www.nicovideo.jp/watch/sm14215400)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm14294885)|&nicovideo(http://www.nicovideo.jp/watch/sm15542416)|
+
+**コメント
+#comment()

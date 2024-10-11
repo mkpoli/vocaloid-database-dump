@@ -1,0 +1,44 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#image(http://img.toranoana.jp/img/04/0020/00/48/040020004875-1.gif)
+
+&nicovideo(sm13850508)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[emergenc]]|CENTER:&bold(){colors of piano}|CENTER:[[フキゲンアンテナ]]|
+
+|&bold(){[[U-ske]]}|ツダタクマ|hie|[[wogura]]|
+
+||CENTER:即売|CENTER:同人|
+|発売|>|CENTER:2011年3月27日|
+|価格|CENTER:￥|CENTER:￥1,568（税込・とらのあな）&br()￥1,500（税込・D-STAGE）|
+|サークル|>|CENTER:HERE and THERE|
+
+**CD紹介
+-U-ske氏のVOCALOIDオリジナルアルバム第4弾。
+-ジャケットイラストは[[wogura]]氏。
+-VOCALOID PARADISE 5（ボーパラ5）で頒布。
+-とらのあなやD-STAGEにて委託販売が行われている。
+
+**曲目
++luv HOLiC
++GAME
++insincere
++[[change my world>change my world/U-ske]]
++Romanticist Realism
++ひとりごと
++phantom mask
++[[ハートビート>ハートビート/U-ske]]
++[[口舌エゴイズム]]
++re:early
++mediocre
++SAYONARA
+
+**リンク
+-[[作者サイト>>http://hat.lix.jp/]]
+-[[アルバム特設ページ>>http://hat.lix.jp/4cop/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0020/00/48/040020004875.html]]
+-[[D-STAGE>>http://d-stage.com/shop/detail.php?seq=19940]]
+
+**コメント
+- 欲しいです。  -- 龍騎士  (2011-04-06 10:32:11)
+#comment()

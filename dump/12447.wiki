@@ -1,0 +1,36 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#image(http://www.kinemagiks.com/products/img/knmk0001_ban2.jpg,http://www.kinemagiks.com/,title=subdecolation,blank) 
+
+&nicovideo(http://www.nicovideo.jp/watch/sm11601802)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){subdecolation}|CENTER:-|
+
+|>|>|CENTER:&bold(){[[KinemagiKs]]}|
+|kuma|Cwise|彩羽|
+
+||CENTER:即売|CENTER:同人|
+|発売|>|CENTER:2010年8月14日|
+|価格|CENTER:￥500|CENTER:￥735(税込)|
+|サークル|>|CENTER:KinemagiKs|
+
+**CD紹介
+-等身大の初音ミクを描いたオリジナルCD。
+-可愛い曲から切ない曲まで全6曲を収録。
+-おとなしめのロックや激しめのトランスなどの収録されており、ジャンルは幅広い。
+-既にニコニコ動画で公開済みの動画に関しては、全てCD用にミックスしなおしている。
+
+**曲目
++[[ねこぷらす。]]
++私がアイドル
++[[ラブ☆シチュー]]
++明日この地球が滅んでしまうとしたら
++朽ち果てた世界で神と悪魔が愚民を肴に永遠の宴を -Requiem-
++subdecolation
+
+**リンク
+-[[KinemagiKs Official Website>>http://www.kinemagiks.com/]]
+-[[とらのあなの通販ページ>>http://www.toranoana.jp/mailorder/article/04/0010/23/95/040010239533.html]]
+
+**コメント
+#comment()

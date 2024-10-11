@@ -1,0 +1,54 @@
+#right(){&furigana(かたくなP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/12552275" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/12552275">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-使用ボカロはミク・ルカ・MEIKO・BIG-AL・KAITO・IA。
+-主にR&Bやドラムンベースなど、打ち込み系の楽曲を作る。
+
+**リンク
+-[[ピアプロ>>http://piapro.jp/yokohamarinos]]
+-[[OKMusic>>http://okmusic.jp/#!/user/1459]]
+-[[muzie>>http://www.muzie.ne.jp/artist/r014294/]]
+-[[TmBOX>>http://tmbox.net/user/yokohamarinos]]
+-[[Twitter>>https://twitter.com/yokohamarinos]]
+
+**曲
+#list_by_tag(頑なP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(頑なPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm3174862)|&nicovideo(http://www.nicovideo.jp/watch/nm6957162)|
+|&nicovideo(sm11558822)|&nicovideo(sm11592202)|
+|&nicovideo(sm11660117)|&nicovideo(sm11741423)|
+|&nicovideo(sm11779383)|&nicovideo(sm11844609)|
+|&nicovideo(sm12069450)|&nicovideo(sm12282250)|
+|&nicovideo(sm12296598)|&nicovideo(sm12587544)|
+|&nicovideo(sm12766836)|&nicovideo(sm13358065)|
+|&nicovideo(sm13645571)|&nicovideo(sm13810051)|
+|&nicovideo(sm14326593)|&nicovideo(sm14462634)|
+|&nicovideo(sm14760181)|&nicovideo(sm15919840)|
+|&nicovideo(sm16382741)|&nicovideo(sm16759767)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm16913081)|&nicovideo(sm17082479)|
+|&nicovideo(sm17535521)|&nicovideo(sm17574361)|
+|&nicovideo(sm17785986)|&nicovideo(sm18093505)|
+|&nicovideo(sm18805482)|&nicovideo(sm19339295)|
+|&nicovideo(sm20094772)|&nicovideo(sm20125870)|
+|&nicovideo(sm20298205)|&nicovideo(sm20513635)|
+|&nicovideo(sm20959788)|&nicovideo(sm21557948)|
+|&nicovideo(sm21857263)|&nicovideo(sm21920166)|
+|&nicovideo(sm23236417)|>|
+
+**コメント
+- 頑なpの曲大好きです!＞＜新曲も最高!  -- 名無しさん  (2012-07-03 15:51:37)
+- 私も大好きです！！　昨日からファンになりました＾＾  -- 名無しさん  (2012-08-09 09:30:20)
+- 私はLoops and Loopsがいちばん好きです♪  -- 名無しさん  (2013-02-22 00:24:32)
+- 頑なｐが調声したkaitoの声が大好き　曲もとてもいい曲です  -- 鈴  (2013-03-02 16:31:06)
+- ルカに英語で歌わせたら、頑なPの右に出る人はいないと思う。  -- 竜奇  (2013-03-03 19:47:16)
+- 頑なＰの曲はどれもサレオツで好みです。部屋で流すのにもってこい。もちろんドライブにも。  -- あす香  (2013-06-03 21:28:36)
+- アルバム欲しいなぁ…是非買いたい  -- 名無しさん  (2013-08-12 11:50:29)
+- この方のKAITOとルカが好きすぎるルカイト曲も作って欲しい  -- 蚕  (2013-09-07 13:59:08)
+- Loops and Loops　KAITO版殿堂入りオメ！  -- 名無しさん  (2013-09-23 14:47:37)
+- 頑なpホント好き。アルバムにならないかな。欲しい。  -- 名無しさん  (2015-08-24 18:42:31)
+#comment()

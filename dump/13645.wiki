@@ -1,0 +1,26 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/27241734" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/27241734">【ニコニコ動画】</a></iframe>)|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/8065377" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/8065377">【ニコニコ動画】</a></iframe>)|
+
+**特徴
+-2度のダブルミリオン再生を記録したモンスターチューン「[[炉心融解]]」の作詞担当。
+-作詞専業ではなく、作曲も手がける。
+
+**リンク
+-[[作者ブログ「kuma(alfred) is thinking about ****」>>http://kumaalfred.blog69.fc2.com/]]
+-[[PIAPRO>>http://piapro.jp/kuma_alfred]]
+-[[Twitter>>http://twitter.com/kuma_alfred]]
+
+**曲
+#list_by_tag(kuma（alfred）,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(kuma（alfred）CD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm8089993)|&nicovideo(http://www.nicovideo.jp/watch/sm8934686)|
+
+**コメント
+- 炉心融解の歌詞サイコー!!  -- 名無しさん  (2011-01-11 16:18:59)
+- いい曲ですね。炉心融解は。今だから言えます。  -- あい  (2011-09-17 00:55:44)
+- ↑そういう非難はやめようぜ.....  -- 名無しさん  (2022-11-07 20:09:23)
+#comment()

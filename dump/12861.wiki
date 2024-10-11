@@ -1,0 +1,32 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/542_20100930031343_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[空切りシザーズ ～ Dear★Super☆Star]]|CENTER:&bold(){Snow by snow}|CENTER:[[美しき代謝]]|
+
+|&bold(){[[OPA]]}|&bold(){[[Asaki No'9]]}|
+
+発売：2010年1月5日
+価格：￥300 / 1曲￥150
+流通：配信
+レーベル：KarenT
+ジャケットイラスト：[[シバションP]]
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/snow-by-snow-single/id400174119]]}|
+
+**CD紹介
+-ユニット0-9（オーナイン）の配信作品3作目。
+-KarenTのMEIKO6周年記念企画で配信された作品の1つ。
+-2010年MEIKO生誕祭用楽曲の「Snow by snow」に&br()2010年1月1日公開の「Ace Killer '69」をカップリングしている。
+-シンセを多く使用した、新しい0-9スタイルがお楽しみいただける内容となってます！
+
+**曲目
++[[Snow by snow]] （feat. MEIKO）
++[[Ace Killer '69]] （feat. MEIKO）
+
+**リンク
+-[[KarenT：「Snow by snow」>>http://karent.jp/album/542]]
+-[[KarenT：「MEIKO記念祭'10」特集ページ>>http://karent.jp/special/meiko10]]
+
+**コメント
+#comment()

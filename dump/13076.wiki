@@ -1,0 +1,45 @@
+#right(){&furigana(いちまんひーす)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/13068873" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/13068873">【ニコニコ動画】</a></iframe>)
+
+**特徴
+作り手名：『&u(){いちまんピース}』
+-初音ミクとGUMIを使用したオリジナル楽曲を発表している。
+-ギター、ベース、ドラムの3ピースサウンド
+-イラストは一部を除き全ていちまんピース氏本人によるもの。素朴なかわいらしい絵柄が魅力。
+
+**リンク
+-[[BLOG「いちまんピースの日記」>>http://yaplog.jp/ichimanpiece]]
+-[[PIAPRO>>http://piapro.jp/ichimanpiece]]
+-[[Pixiv>>http://www.pixiv.net/member.php?id=1014390]]
+
+**曲
+#list_by_tagsearch(いちまんピース,sort=furigana2,errmsg=まだ曲が登録されていません。,and,100)
+
+**CD
+#list_by_tagsearch(いちまんピースCD,sort=furigana2,errmsg=まだCDが登録されていません。,and,100)
+
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/nm7358281)|&nicovideo(http://www.nicovideo.jp/watch/nm8249471)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm10401765)|&nicovideo(http://www.nicovideo.jp/watch/nm10552396)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm10865653)|&nicovideo(http://www.nicovideo.jp/watch/sm11070120)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm11105849)|&nicovideo(http://www.nicovideo.jp/watch/sm11144115)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm11185025)|&nicovideo(http://www.nicovideo.jp/watch/sm11193742)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm11291417)|&nicovideo(http://www.nicovideo.jp/watch/sm11587384)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12646126)|&nicovideo(http://www.nicovideo.jp/watch/sm12760511)|
+
+**関連タグ内の更新履歴
+#region(close,関連タグ内の更新履歴)
+関連タグ内の更新履歴
+※「いちまんピース」「いちまんピースCD」タグ内で最近編集やコメントのあった記事を新しい方から10件表示しています。
+#list_by_tagsearch(いちまんピース,いちまんピースCD,sort=timestamp,sort2=desc,errmsg=まだ曲が登録されていません。,or,10)
+#endregion
+
+**コメント
+- いちまんさん、素朴どころじゃなくて絵上手だと思う。  -- snw  (2010-11-19 15:01:14)
+- 雰囲気ある絵で素敵です。  -- wldrose  (2010-11-22 02:08:56)
+#comment()

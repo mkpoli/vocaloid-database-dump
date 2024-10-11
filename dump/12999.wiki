@@ -1,0 +1,69 @@
+#right(){&furigana(ゆうごうP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/18470464" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/18470464">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-使用ボカロ今のところは、ミク・リン・レン・ルカ・GUMI。
+-自他共に認める鏡音廃のひとり。
+-P名は、自身のマイリストのコメントに必ずある「～と融合しました」というくだりに由来している。
+-コンスタントにヒット曲を輩出していたが、遂に 『[[スペクタクルチューン]]』 にて自身初の殿堂入りを達成した。
+-アーティスト名は &bold(){Naoyan} 。
+
+**リンク
+-[[融合日誌（作者ブログ）>>http://yuugoup.seesaa.net/]]
+-[[Naoyan（融合P）の制作記録～楽譜、歌詞～（作者旧ブログ）>>http://ameblo.jp/naokinaoyan/]]
+-[[PIAPRO>>http://piapro.jp/naoyanyugoup]]
+-[[Twitter>>http://twitter.com/naoyan_yuugoup]]
+-[[融合Pのブロマガ（ブロマガ）>>http://ch.nicovideo.jp/yuugoup]]
+
+**曲
+#list_by_tag(融合P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(融合PCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm7030368)|&nicovideo(http://www.nicovideo.jp/watch/sm10072260)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm10290339)|&nicovideo(http://www.nicovideo.jp/watch/sm10427800)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm11064865)|&nicovideo(http://www.nicovideo.jp/watch/sm11076067)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm11238162)|&nicovideo(http://www.nicovideo.jp/watch/sm11269391)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm11409129)|&nicovideo(http://www.nicovideo.jp/watch/sm11491387)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm11623729)|&nicovideo(http://www.nicovideo.jp/watch/sm12335248)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12690576)|&nicovideo(sm13178959)|
+|&nicovideo(sm13320822)|&nicovideo(sm13364205)|
+|&nicovideo(sm13483012)|&nicovideo(sm13583339)|
+|&nicovideo(sm14486046)|&nicovideo(sm15093109)|
+|&nicovideo(sm15156968)|&nicovideo(sm15294048)|
+|&nicovideo(sm15361114)|&nicovideo(sm15451176)|
+|&nicovideo(sm15789837)|&nicovideo(sm16112468)|
+|&nicovideo(sm16166549)|&nicovideo(sm16464350)|
+|&nicovideo(sm16588541)|&nicovideo(sm16661604)|
+|&nicovideo(sm17015301)|&nicovideo(sm17433477)|
+|&nicovideo(sm17503844)|&nicovideo(sm17700161)|
+|&nicovideo(sm18374667)|&nicovideo(sm19179747)|
+|&nicovideo(sm20201534)|&nicovideo(sm20739173)|
+|&nicovideo(sm21146738)|&nicovideo(sm22441161)|
+|&nicovideo(sm22747150)|&nicovideo(sm23278676)|
+|&nicovideo(sm24708141)|&nicovideo(sm24844187)|
+|&nicovideo(sm25189549)|&nicovideo(sm29920728)|
+|&nicovideo(sm30141844)|>|
+
+**コメント
+- 融合Pさんのユナカイト凄く深くて好きですので、歌詞追加希望します´ω｀  -- Leaf  (2011-05-28 19:54:22)
+- この人もこの人の音楽もほんと素敵。ボカロをとおして出会って、聴くことができて、よかった。何も出来ないですが、これからもこっそり応援してます。ずっと大好きです。  -- 名無しさん  (2012-09-08 13:08:22)
+- 融合Pさんのリンレン（とくに、スペクタルチューン）が好き!!  -- 名無しさん  (2013-03-21 15:46:07)
+- メジャーアルバム出さないかな～!  -- 名無しさん  (2013-03-24 15:13:39)
+- 鏡音廃...ｗｗｗ  -- 名無しさん  (2013-03-28 13:39:34)
+- リンレンの曲増やしてほしいです！！  -- rin廃  (2013-03-30 20:29:41)
+- カラオケ配信おめでとうございます！  -- 名無しさん  (2013-04-13 21:14:05)
+- 融合Pさん大好きです！！！！  -- 名無しさん  (2013-04-25 15:12:07)
+- イベントで融合P本人もすごくいい人でもっと好きになりました  -- 名無しさん  (2013-05-25 12:11:35)
+- ↑マジか！名古屋（かがパラ）行こうかなー新作良かったし  -- 名無しさん  (2013-06-19 16:39:21)
+- 好きすぎて困ってます(笑)鏡音かわいい。  -- 名無しさん  (2013-07-09 17:58:47)
+- この人普段の発言とか見てても性格の良さが滲み出てるもんねｗ　鏡音好きには本当にたまらんボカロP  -- 名無しさん  (2013-07-18 02:51:43)
+- 早く新曲聴きたいです！！融合P大好き！！  -- 名無しさん  (2013-07-30 15:52:24)
+- スペクタクルチューン殿堂入りおめでとうございます!!!  -- 名無しさん  (2013-10-04 07:51:25)
+- 「永遠」が神曲すぎます。間違いなく隠れた名曲です。  -- 名無しさん  (2014-04-25 11:10:52)
+- 「Pandemic」もかなり秀逸ですよ☆「カナリアマリア」も良いです♪  -- 名無しさん  (2014-05-08 22:21:09)
+- もっと融合Ｐさんが有名になって欲しいです！ 融合Ｐさん知らないなんて損してます  -- 名無しさん  (2014-07-27 16:20:37)
+- 雨音花火の調教きれいですね  -- 名無しさん  (2015-04-29 18:30:23)
+#comment()

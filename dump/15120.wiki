@@ -1,0 +1,28 @@
+#right(){&furigana(ぬばたま)&furigana()【登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186113983.jpg,x=300,y=300)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){烏珠}|CENTER:[[古ノ森]]|
+
+|&bold(){[[ウタP]]}|
+
+発売：2009年2月23日
+価格：￥500
+流通：即売
+サークル：Style.S-TRIBE
+
+**CD紹介
+-THE VOC@LOiD M@STER7にて、イベント限定で頒布された。
+
+**曲目
++[[Imitator]]
++[[僕に罰を 君に光を]]
++[[祈りの歌]]
++[[regeneration]]
+
+//**リンク
+//-作者HP、特設サイト等ある場合は、ここに。当wiki以外のサイトへリンクを貼る場合は必ず「>>」で別ウインドウでリンクしてください。
+
+**コメント
+#comment()

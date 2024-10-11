@@ -1,0 +1,27 @@
+#right(){&furigana(itch)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm11206003)|
+作詞：[[ヒーリングP]]
+作曲：[[ヒーリングP]]
+編曲：[[ヒーリングP]]
+唄：[[巡音ルカ]]
+
+**曲紹介
+曲名：『&u(){itch}』
+-英語だとカッコよく見えるのだが、内容は「背中痒いから掻いて」という曲。
+
+**歌詞
+（[[作者ブログ>>http://rrrakr.blog50.fc2.com/blog-entry-269.html]]より転載）
+
+I feel itchy
+My back is
+
+Wow wow wow
+Scratch my itchy place
+
+
+**コメント
+#comment()

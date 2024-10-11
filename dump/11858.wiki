@@ -1,0 +1,36 @@
+#right(){&furigana(ひゃっはーP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://ext.nicovideo.jp/thumb_mylist/9911310" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/9911310">【ニコニコ動画】%E3%83%92%E3%83%A3%E3%83%83%E3%83%8F%E3%83%BCP(%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB%E6%9B%B2%2Ctenori-on%2CUTAU%EF%BC%89</a></iframe>)
+
+**特徴
+作り手名：『&u(){ヒャッハーP}』
+-ミク・リンレン・ルカ・KAITO・がくぽ・GUMIを使用して自由に曲を投稿している。
+-ボカロ以外にも、UTAUを使用してオリジナル曲やカバー曲も投稿している。
+-[[テレ男>>https://www.nicovideo.jp/mylist/9911310]]氏・[[T-No.P]]・鳴かぬ蛍が身を焦がす氏とは「Mohicans, Inc.」なるユニット（？）を組んでいる。
+
+**リンク
+-[[作者ブログ>>https://ameblo.jp/mohicans/]]
+-[[ピアプロ>>https://piapro.jp/panyu]]
+-[[Twitter>>https://twitter.com/hyahharP]]
+
+**曲
+#list_by_tag(ヒャッハーP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(ヒャッハーPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(nm6009463)|&nicovideo(nm6109436)|
+|&nicovideo(nm7674409)|&nicovideo(nm7705224)|
+|&nicovideo(nm8560907)|&nicovideo(nm8561212)|
+|&nicovideo(nm8561252)|&nicovideo(nm8693614)|
+|&nicovideo(sm8968176)|&nicovideo(sm9068313)|
+|&nicovideo(sm9260207)|&nicovideo(sm9373091)|
+|&nicovideo(sm10029675)|&nicovideo(sm11504641)|
+
+**コメント
+- 何故P名が世紀末なんだ  -- 名無しさん  (2010-10-06 22:54:55)
+#comment()

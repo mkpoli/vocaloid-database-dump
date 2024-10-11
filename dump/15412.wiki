@@ -1,0 +1,19 @@
+#right(){&furigana(みくみくきのこ)&furigana()【登録タグ:&tags() 】}
+**特徴
+
+
+**リンク
+-[[ピアプロ>>http://piapro.jp/mikumiku_kinoko]]
+
+
+**曲
+#list_by_tag(みくみくキノコ,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(みくみくキノコCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm19958446)|
+
+**コメント
+#comment()

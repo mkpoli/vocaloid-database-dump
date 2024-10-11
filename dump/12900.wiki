@@ -1,0 +1,60 @@
+#right(){&furigana(せぴあれこーど)&furigana()【登録タグ:&tags() 】}
+&ref(sepiarecoadaaa.jpg)
+
+|&nicovideo(http://www.nicovideo.jp/watch/nm12567117)|&nicovideo(http://www.nicovideo.jp/watch/nm16031672)|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&b(){セピアレコード}|CENTER:[[Strobe Last.EP]]|
+
+|&b(){[[ぽわぽわP]]}|[[市蔵]]|[[もちごめ>ンジャメナP]]|
+
+|流通|CENTER:即売|CENTER:配信|
+|発売|CENTER:2010年11月14日|CENTER:2011年1月21日|
+|価格|CENTER:￥1,000|CENTER:￥1,500 / 1曲￥150|
+|サークル|CENTER:糞みゅむ埋葬ぽわぽわ風味||
+
+|&bold(){[[iTune Storeで購入する>>http://itunes.apple.com/jp/album/id414414748]]}|
+
+**CD紹介
+-&b(){ぽわぽわP}の1stアルバム。THE VOC@LOiD M@STER 14（ボーマス14）で初頒布。
+-新曲やリテイクを含む全12曲収録。
+--M8とM9には&b(){もちごめ}と&b(){市蔵}によるアレンジを収録。
+-KarenTレーベルよりダウンロード販売も行われている。
+
+**セピアレコード曲目
++intro=セピアレコード　&color(red){New!}
++[[ジニアとミーム]]
++one dramatic etc...
++おやすみエクスプレス　&color(red){New!}
++[[ココロノコリと浮遊]] (Retake)
++[[ブラウン>ブラウン/ぽわぽわP]] (Retake)
++[[stoy.]]
++ブラウン b.z.m-mix ([[もちごめ>ンジャメナP]]Remix)
++one dramatic etc... itikuraRemix　([[市蔵]]Remix)
++[[そらのサカナ]]
++999　&color(red){New!}
++Bonus track
+
+**セピアレコード(Remodel)曲目
++intro=Re:セピアレコード
++[[ジニアとミーム]] (Remodel)
++one dramatic etc...
++おやすみエクスプレス
++[[ココロノコリと浮遊]] (Remodel)
++[[ブラウン>ブラウン/ぽわぽわP]] (Remodel)
++[[stoy.]]
++[[そらのサカナ]]
++999
++ココロノコリと浮遊 (Bonus Track)　/　Vocal:ぽわぽわP
+
+**リンク
+-[[サークルのブログ>>http://kusomyum.blog96.fc2.com/]]
+-[[KarenT>>http://karent.jp/album/623]]
+
+**コメント
+- りもでるが届いたのできいてるのですが、ぽわｐの歌ってるのは限定数十枚でしたよね...  -- 名無し  (2011-12-31 17:05:42)
+- 歌詞しりたいな・・・  -- 名無しさん  (2012-03-06 02:26:11)
+- おやすみエクスプレスの歌詞が知りたいです。  -- 名無しさん  (2012-09-09 18:56:53)
+- 999の歌詞が知りたいです  -- 名無しさん  (2016-11-19 01:38:06)
+- karentの作品ページに掲載されていますよ。  -- 名無しさん  (2016-11-19 01:54:38)
+#comment()

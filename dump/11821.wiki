@@ -1,0 +1,46 @@
+#right(){&furigana(ぼくはわるいろりこんじゃないよ)&furigana()【登録タグ:&tags() 】}
+//&ref(http://remiliahxahxa.iza-yoi.net/v13.JPG)
+
+&ref(https://img.dlsite.jp/modpub/images2/work/doujin/RJ067000/RJ066911_img_main.jpg,x=350,y=260)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){僕は悪いロリコンじゃないよ}|CENTER:[[少女達の唄]]|
+
+|&bold(){[[キモウトP]]}|
+
+|流通|CENTER:即売|CENTER:同人|CENTER:配信|
+|発売|>|CENTER:2010年7月19日|CENTER:2010年9月7日|
+|価格|>|CENTER:￥500（税込）|CENTER:￥330（税込）|
+|サークル|>|>|CENTER:ロリコンの地位向上|
+
+**CD紹介c
+-ユキの可愛い声を活かしたキュートなハードロックと暗いメロディックメタル。
+-歌詞がブッ飛んでいる。
+-THE VOC@LOID M@STER 13（ボーマス13）で発表。
+-ホワイトキャンバス、あきばおーなどで委託頒布されていた。
+-現在はDL siteにてダウンロード販売が行われている。
+
+**曲目
++[[Praise the ょぅι゛ょ]]
++[[Vampire kiss]]
++[[キモウト☆だいばくはつ]]
++桜の国
++クリスタルガール
++[[ご主人様と賢い犬]]
++ょぅι゛ょにひざまずけ！！！
++[[Pygmalion complex]]
++[[悪いロリコンを通報しました]]
++闇の檻
++少女愛の賢者
+
+**リンク
+-[[ロリコンの地位向上>>http://remiliahxahxa.iza-yoi.net/]]
+-[[作品紹介ページ>>http://remiliahxahxa.iza-yoi.net/works.html]]
+-[[歌詞ページ>>http://remiliahxahxa.iza-yoi.net/lyrics.html]]
+-[[ホワイトキャンバス>>http://store.shopping.yahoo.co.jp/wcanvas/220005903000.html]]
+-[[あきばおー>>http://www.akibaoo.com/02/commodity_param/ctc/82090500/cmc/2500020144985/shc/0/]]
+-[[DLsite>>http://home.dlsite.com/work/=/product_id/RJ066911.html]]
+
+**コメント
+- DLsiteでのＤＬ販売確認しました  -- 名無しさん  (2010-09-08 14:02:03)
+#comment()

@@ -1,0 +1,26 @@
+#right(){&furigana(びわこP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/17219671" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/17219671">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-アーティスト名は&b(){6v6}。
+-使用ボカロは主にGUMI・miki。
+
+**リンク
+-[[ピアプロ>>http://piapro.jp/alnico6v6]]
+-[[Twitter>>http://twitter.com/alnico6v6]]
+
+**曲
+#list_by_tag(琵琶湖P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(琵琶湖PCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/nm9496347)|&nicovideo(http://www.nicovideo.jp/watch/sm11788815)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12142649)|&nicovideo(http://www.nicovideo.jp/watch/sm13054215)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm13752978)|&nicovideo(http://www.nicovideo.jp/watch/sm14714160)|
+
+**コメント
+- 琵琶湖美化委員会はもっと評価されるべきだと思うんだ…  -- 名無しさん  (2011-09-06 19:16:37)
+- 琵琶湖Ｐももっと評価されるべきだと思うんだ  -- 名無しさん  (2011-11-20 21:33:55)
+#comment()

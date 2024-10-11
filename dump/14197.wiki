@@ -1,0 +1,37 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/636_20110112011141_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[in the rain>in the rain/テラ小室PCD]]|CENTER:&bold(){TKp product pure}|CENTER:[[夕焼けスクリーン]]|
+
+|&bold(){[[テラ小室P]]}|
+
+||CENTER:即売|CENTER:配信|
+|発売|CENTER:2011年1月16日|CENTER:2011年1月26日|
+|価格|CENTER:￥500|CENTER:￥600 / 1曲￥150|
+|サークル|>|CENTER:0108-音屋-|
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/tkp-product-pure/id415235182]]}|
+
+**CD紹介
+-[[0108-音屋->>http://www.die8.name/0108/]]のメンバーとしても活動するテラ小室Pのソロ第3弾となるCD作品。
+-ミク・リン・レン・ルカのソロ曲を集めたシングル。
+-ジャケットイラストはぎヴちょこ氏。ギター演奏、マスタリングに[[G@POPO]]氏が参加。コーラスは全曲P自身による。
+-THE VOC@LOiD M@STER 15（ボーマス15）で頒布。
+-KarenTレーベルよりダウンロード販売も行われている。
+
+**クロスフェード
+&nicovideo(sm13280851)
+
+**曲目
++clay snow （feat. 初音ミク）
++水玉グラデーション （feat. 鏡音リン）
++[[crystallize]] （feat. 鏡音レン）
++[[The last light]] （feat. 巡音ルカ）
+
+**リンク
+-[[作者ブログ>>http://terakomurop.blog20.fc2.com/]]
+-[[KarenT>>http://karent.jp/album/636]]
+
+**コメント
+#comment()

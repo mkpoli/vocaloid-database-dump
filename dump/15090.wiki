@@ -1,0 +1,32 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/677_20110309230732_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[捨て猫ロシアンブルー]]|CENTER:&bold(){Abyss}|CENTER:[[爺Temptation]]|
+
+|&bold(){[[SHUN]]}|
+
+発売：2011年3月23日
+価格：￥600 / 1曲￥150
+流通：配信
+レーベル：KarenT
+ジャケットイラスト：おにねこ
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/abyss/id426357299]]}|
+
+**CD紹介
+-1年前に発表したボーカロイドCD『[[Past of Abyss]]』より楽曲を追加して新たに発表された配信アルバム。
+-追加されたのは、歌い手の花たん氏のアルバム『Colorful*Flower』に提供した「楽園鞦韆」のミク版と、コンピレーションアルバム『[[VL-SCRAMBLE]]』に収録された「[[幻想LIMITED DOLL]]」の2曲。
+
+**曲目
++Enter the Gate （feat. 初音ミク）
++Past of Abyss （feat. 初音ミク）
++楽園鞦韆 （feat. 初音ミク）
++[[幻覚ラビット]] （feat. 初音ミク）
++[[幻想LIMITED DOLL]] （feat. 初音ミク）
+
+**リンク
+-[[KarenT：「Abyss」>>http://karent.jp/album/677]]
+
+**コメント
+#comment()

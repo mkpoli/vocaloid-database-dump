@@ -1,0 +1,33 @@
+#right(){&furigana(ふるーつP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/13270283" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/13270283">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-現在使用しているボーカロイドはKAITO・初音ミク・巡音ルカ・Lily。
+-アーティスト名は&b(){GOTS}。
+
+**リンク
+-[[作者ブログ>>http://ameblo.jp/gotteria-gots/]]
+-[[PIAPRO>>http://piapro.jp/alfredclarinet2]]
+
+**曲
+#list_by_tag(フルーツ（笑）P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(フルーツ（笑）PCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/nm7499113)|&nicovideo(http://www.nicovideo.jp/watch/nm7981224)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm8667677)|&nicovideo(http://www.nicovideo.jp/watch/nm8921487)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm9564114)|&nicovideo(http://www.nicovideo.jp/watch/nm11432361)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm12303164)|&nicovideo(http://www.nicovideo.jp/watch/nm12427570)|
+
+**コメント
+- てっきりスイーツ（笑）かとｗ  -- 名無しさん  (2010-10-18 21:36:42)
+- ↑そうですよね、P名似ててすみません！！  -- GOTS@フルーツ（笑）P  (2010-10-27 11:07:32)
+- ↑。Д。；；／／  -- 名無しさん  (2011-12-23 11:53:46)
+- Glistenって記事ある？なかったら誰か作成お願いしますー  -- 名無しさん  (2012-01-19 19:06:09)
+- 何故フルーツ(笑) なのかって何処に書いてあります？知りたい!  -- (ω)  (2012-01-22 05:54:59)
+- ↑ニコニコ大百科に載ってるようですよ  -- 名無しさん  (2012-01-25 23:53:41)
+- Glisten記事作成しました  -- 名無しさん  (2012-03-13 00:41:11)
+- 記事作成ありがとうです！！！感激です！！！  -- GOTS@フルーツ（笑）P  (2012-04-13 02:24:49)
+#comment()

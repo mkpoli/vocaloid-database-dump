@@ -1,0 +1,36 @@
+#right(){&furigana(しえいか)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/11421118" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/11421118">【ニコニコ動画】Vocaloid曲</a></iframe>)
+
+**特徴
+作り手名：『&u(){しえいか}』
+-主な使用ボカロはKAITO。他に初音ミク、鏡音リン・レン、巡音ルカを使用した楽曲も投稿している。
+-初投稿は「演奏してみた」であり、楽器のシェイカーを「振ってみた」作品である。
+-HNの由来も「シェイカー」のもじりと推測される。
+-生放送で作詞・作曲・編曲・録音・ボカロ調教などの実況を不定期に行っている。
+-普段はバンドでドラムを担当している。男性であるが何故かよく間違えられる。
+
+**リンク
+//-[[作者ホームページ>>http://monochromecheckmate.web.fc2.com/]]
+//-[[tumblr>>http://sieika.tumblr.com/]]
+-[[ピアプロ>>http://piapro.jp/erithtruth]]
+-[[ニコニコ>>https://www.nicovideo.jp/user/5074893]]
+
+**曲
+#list_by_tag(しえいか,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(しえいかCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm7674356)|&nicovideo(sm8016621)|
+|&nicovideo(sm9047266)|&nicovideo(sm9748277)|
+|&nicovideo(sm10418458)|&nicovideo(sm11487819)|
+|&nicovideo(sm12698066)|&nicovideo(sm13576284)|
+|&nicovideo(sm13576968)|&nicovideo(sm13723362)|
+
+**コメント
+#comment()

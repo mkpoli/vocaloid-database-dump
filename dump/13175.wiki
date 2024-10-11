@@ -1,0 +1,43 @@
+#right(){&furigana(しょっとかんらはーす)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&ref(https://static.wixstatic.com/media/f7b40d_45ea8ce7456a4aeb83419a90944a4fe8~mv2.jpg,x=300,y=300)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[白い雪のプリンセスは>白い雪のプリンセスは/CD]]|CENTER:&bold(){ショットガン・ラヴァーズ}|CENTER:[[グッナイ・トゥナイ]]&br()[[SUPER11]]|
+
+|&bold(){[[のぼる↑]]}|
+
+|CENTER:流通|CENTER:即売|CENTER:委託（とらのあな、D-STAGE）|CENTER:配信（BOOTH）|CENTER:委託（BOOTH）|
+|CENTER:発売|>|CENTER:2010年11月14日|CENTER:2017月11月13日|CENTER:2020月5月1日|
+|CENTER:価格|CENTER:￥500|CENTER:￥735（税込）|CENTER:￥500|CENTER:￥700|
+|CENTER:サークル|>|>|>|CENTER:REONAlD|
+
+**CD紹介
+>&bold(){ここに 君の 熱いショットガンで}
+CD名：『&u(){ショットガン・ラヴァーズ}』
+-のぼる↑の3rdシングル。
+-2曲＋カラオケ2曲の計4トラックを収録。&bold(){完全未発表曲「カナウタ」は、昔同人ゲームに提供した曲を作り直してGUMI ver.に仕上げたもの。}
+-THE VOC@LOiD M@STER 14（ボーマス14）で初頒布。
+-&bold(){BOOTHにて通販とダウンロード販売が行われている。}
+-&bold(){以前はとらのあなにて委託販売が行われたが、現在は終了している。}
+
+**曲目
++[[ショットガン・ラヴァーズ]] / 初音ミク
++カナウタ / GUMI &color(red){NEW!!}
++ショットガン・ラヴァーズ -instrument-
++カナウタ -instrument- &color(red){NEW!!}
+
+**リンク
+-[[作者サイト>>http://www.reonald.com/]]
+-[[特設ページ>>http://www.reonald.com/sl/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/24/78/040010247821.html]]
+
+**コメント
+- カラオケ配信しないかなぁ･･･  -- 名無しさん  (2010-12-05 17:46:45)
+- ↑賛成！この曲の雰囲気というか感じが大好きです！  -- かこ  (2011-07-04 21:34:18)
+- ショットガン・ラヴァーズ最高！！  -- 烏龍  (2013-02-14 18:04:15)
+- す的！！！  -- 名無しさん  (2014-12-06 16:30:02)
+#comment()

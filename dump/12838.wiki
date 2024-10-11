@@ -1,0 +1,36 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/576_20101112235952_0240_0240.jpg) 
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Constella]]|CENTER:&b(){P∴Rhythmatiq Dark Side}|CENTER:[[P∴Rhythmatiq act:08]]|
+
+|&b(){[[Aether_Eru]]}|&b(){[[ノア(Noah)]]}|&b(){[[ゆうP]]}|
+
+|流通|CENTER:即売|CENTER:同人|CENTER:配信|
+|発売|>|CENTER:2010年11月14日|CENTER:2010年12月3日|
+|価格|CENTER:￥500|CENTER:￥735（税込）|CENTER:￥600 / 1曲￥150|
+|サークル|>|>|CENTER:P∴Rhythmatiq|
+
+**CD紹介
+-&b(){「今までにないプリズマティックを」}をテーマに制作されたシングルCD。
+-従来のキラキラサウンドと一線を画す、クラシック的要素を取り込んだゴシック調の楽曲が収録されている。
+-THE VOC@LOiD M@STER 14（ボーマス14）にて頒布。委託販売はとらのあな、メロンブックス、D-STAGE、ホワイトキャンバス、あきばお～こく各店で行われている。&br()また、KarenTレーベルよりダウンロード販売も行われている。
+
+**曲目
++[[実験恋物語]]
++コントラクテッド
++velvet voice
++実験恋物語 -without miku ver.-
++コントラクテッド -without miku ver.-
+
+**リンク
+-[[P∴Rhythmatiqのブログ>>http://prq.blog44.fc2.com/blog-entry-321.html]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/24/80/040010248019.html]]
+-[[メロンブックス>>http://shop.melonbooks.co.jp/shop/sp_213001007869_prhythmatiq_dark.php]]
+-[[D-STAGE>>http://d-stage.com/shop/detail.php?seq=17666]]
+-[[ホワイトキャンバス>>http://www.w-canvas.com/shopping/detail.php?item_id=44009]]
+-[[あきばお～こく>>http://www.akibaoo.com/02/commodity_param/t/0/ctc/+/shc/0/cmc/2500020161692/backURL/+02+main]]
+-[[KarenT>>http://karent.jp/album/576]]
+
+**コメント
+#comment()

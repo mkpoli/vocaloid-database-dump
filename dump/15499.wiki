@@ -1,0 +1,33 @@
+#right(){&furigana(めてお)&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/699_20110418035859_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){メテオ}|CENTER:[[meteor>meteor/CD]]|
+
+|&bold(){[[じょん]]}|
+
+発売：2011年4月28日
+価格：￥600 / 1曲￥150
+流通：配信
+レーベル：KarenT
+ジャケットイラスト：SOE
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/id433843812]]}|
+
+**CD紹介
+-ボーカロイド・プロデューサーじょんの記念すべき初配信シングル！&br()ニコニコ動画でデイリー1位＆殿堂入りを記録した代表作「メテオ」。&br()c/wには、ボカロ処女作「異次元」の未公開リマスタリング版を収録。（KarenT作品概要より）
+-KarenTの初音ミクAppend1周年記念企画で配信された作品の1つ。
+
+**曲目
++[[メテオ]] （feat. 初音ミク）
++[[異次元]] （feat. 初音ミク）
++メテオ （off vocal）
++異次元 （off vocal）
+
+**リンク
+-[[KarenT：「メテオ」>>http://karent.jp/album/699]]
+-[[KarenT：「初音ミクAppend 新生祭」特集ページ>>http://karent.jp/special/miku_append11]]
+
+**コメント
+- CD出てたんだ、絶対買う……!!!とくにメテオはかなり好きだ。  -- ENi  (2011-05-06 00:24:45)
+#comment()

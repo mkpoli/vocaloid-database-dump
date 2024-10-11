@@ -1,0 +1,67 @@
+#right(){&furigana(やつき)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/13801110" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/13801110">【ニコニコ動画】</a></iframe>)
+
+**特徴
+作り手名：『&u(){ヤヅキ}』
+-2009年7月、「[[灰かぶり娘]]」にてボカロデビュー。
+-ロックを中心に作品を発表。ベース演奏に定評がある。
+-投稿当初は巡音ルカメインだったが、GUMI・初音ミクが増え、さらに、結月ゆかり・東北ずん子・Ranaも仲間になった。
+-ベース演奏はかなりの腕前。他の作者の作品に参加することもある。
+--あまり知られていないが、[[ピノキオピー]]氏の[[神っぽいな]]や[[ねえねえねえ。]]などにも参加している。
+-可愛いイラストは手描き。
+-ボカロ音楽サークル &bold(){ガスコンロ} のメンバーの一人。
+-47作目の「[[激おこぷんぷん丸]]」で遂に自身初の殿堂入りを達成。その曲から &bold(){激おこP} というP名も付いた。
+
+**リンク
+-[[ニコニコ>>https://www.nicovideo.jp/user/13437277]]
+-[[YouTube>>https://www.youtube.com/user/yadukishinya]]
+//-[[YouTube>>https://www.youtube.com/@yadukishinya]]
+-[[ホームページ>>https://yadukimaru.wixsite.com/yaduken]]
+//-[[ガスコンロ（サークルホームページ）>>http://gasconro.jimdo.com/]]
+-[[Twitter>>https://twitter.com/yadukishinya]]
+-[[PIAPRO>>https://piapro.jp/yadukishinnya]]
+
+**曲
+#list_by_tag(ヤヅキ,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(ヤヅキCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|>|BGCOLOR(#ba55d3):COLOR(#FFF):CENTER:&font(b,11pt){オリジナル曲}|
+|&nicovideo(sm7778065)|&nicovideo(sm7846942)|
+|&nicovideo(sm7913349)|&nicovideo(sm8197246)|
+|&nicovideo(sm8263921)|&nicovideo(sm8428186)|
+|&nicovideo(sm8635212)|&nicovideo(sm8798013)|
+|&nicovideo(sm8935767)|&nicovideo(sm9044541)|
+|&nicovideo(sm9244820)|&nicovideo(sm9344002)|
+|&nicovideo(sm9375116)|&nicovideo(sm9414051)|
+|&nicovideo(sm9537839)|&nicovideo(sm9610965)|
+|&nicovideo(sm9680665)|&nicovideo(sm10069323)|
+|&nicovideo(sm10548794)|&nicovideo(sm10562138)|
+|&nicovideo(sm11361934)|&nicovideo(sm11526135)|
+|&nicovideo(sm12461143)|&nicovideo(sm12727247)|
+|&nicovideo(sm13197306)|&nicovideo(sm14638319)|
+|&nicovideo(sm14857580)|&nicovideo(sm15165447)|
+|&nicovideo(sm15346881)|&nicovideo(sm15474637)|
+|&nicovideo(sm15944683)|&nicovideo(sm16016479)|
+|&nicovideo(sm16493659)|&nicovideo(sm16597679)|
+|&nicovideo(sm16694498)|&nicovideo(sm16835124)|
+|&nicovideo(sm16876096)|&nicovideo(sm17105392)|
+|&nicovideo(sm17250277)|&nicovideo(sm17397606)|
+|&nicovideo(sm17842675)|&nicovideo(sm17970519)|
+|&nicovideo(sm18607336)|&nicovideo(sm18880145)|
+
+**コメント
+//- 1げと！
+- ハチミツで知りました。前奏引き込まれますね。歌詞もメロディも絵も……だいすき！  -- 小百合  (2010-12-20 18:55:00)
+- ヤヅキさんのルカ曲好き  -- 名無しさん  (2011-01-24 10:11:57)
+- Musicianstory、大好きです。久しぶりに聴きましたー。  -- 名無しさん  (2011-07-21 07:53:54)
+- このひとすきだー  -- 名無しさん  (2012-04-12 03:37:07)
+- デビュー作、灰かぶり姫ではなく灰かぶり娘では？  -- 名無しさん  (2013-07-13 19:54:16)
+- 本人Vtuberデビューしてるぞ https://youtu.be/gA1qqO3q1U8  -- 名無しさん  (2022-03-17 15:46:35)
+#comment()

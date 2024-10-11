@@ -1,0 +1,43 @@
+#right(){&furigana(ろせったEP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&ref(https://karent.jp/npdca/532_20100925090043_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[9ronicle+]]|CENTER:&bold(){ロゼッタ E.P}|CENTER:[[火星にゆれる水声]]|
+
+|&bold(){[[10日P]]}|
+
+発売：2010年10月22日
+価格：￥300 / 1曲￥150
+流通：配信
+レーベル：KarenT
+ジャケットイラスト：[[hie>>https://piapro.jp/hie_lie4]]
+
+|&bold(){[[iTunes Storeで購入する>>https://itunes.apple.com/jp/album/id398565334]]}|
+
+**CD紹介
+CD名：『&u(){ロゼッタ E.P}』
+-10日Pの3曲入りミニアルバム。
+-代表曲の「ロゼッタ」に、「絶望ゲーム」のメグッポイドバージョン、アルバム『[[光と空想の3原色]]』収録の「Lie, Lie, Lie」を収録。
+-メグッポイドによるエレクトロなロックです。
+-代表曲のロゼッタや、web未公開曲のLie, Lie, Lieを収録。
+-絶望ゲーム はメグッポイドによるアレンジバージョンです。
+
+**曲目
++[[ロゼッタ]] （feat. GUMI）
++Lie, Lie, Lie （feat. GUMI）
++[[絶望ゲーム>絶望ゲーム/10日P]] （feat. GUMI）
+
+**リンク
+-[[KarenT：「ロゼッタ E.P」>>https://karent.jp/album/532]]
+-[[monaca:factoryの音楽（作者ブログ）>>http://monaca10.blog116.fc2.com/]]
+
+**コメント
+- これ欲しいなあ  -- あやみ  (2011-04-23 17:30:06)
+- ロゼッタがかっこよさ過ぎるｗｗ  -- ゆうべこ  (2011-05-06 11:30:48)
+- このイラスト可愛いですね(m'□'m)!!!さっそく画像検索を…（’ε’б  -- れいみん★  (2011-05-07 19:12:12)
+- これ欲しい!  -- 雪ミク  (2011-05-07 19:26:53)
+#comment()

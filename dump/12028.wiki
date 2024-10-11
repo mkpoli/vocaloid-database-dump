@@ -1,0 +1,36 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+//#image(http://blog-imgs-43-origin.fc2.com/p/r/q/prq/act06_ban_450_100.jpg,http://prq.blog44.fc2.com/blog-entry-279.html,title=P∴Rhythmatiq act:06,blank) 
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[P∴Rhythmatiq Re:act]]|CENTER:&bold(){P∴Rhythmatiq act:06}|CENTER:[[P∴Rhythmatiq act:07]]|
+
+|&b(){[[Aether_Eru]]}|&b(){[[ノア(Noah)]]}|&b(){[[ゆうP]]}|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|>|CENTER:2010年5月9日|
+|価格|CENTER:\500|CENTER:\735(税込)|
+|サークル|>|CENTER:P∴Rhythmatiq|
+
+**CD紹介
+-P∴Rhythmatiqの6thシングル。ジャケットイラストは、しろ。
+-冬から春へと移ろいゆく季節を彩る4曲が収録されている。
+-「[[fragile snow]]」はVOCALOIDがmikiから初音ミクに変更された新バージョン。
+
+**曲目
++End and Start
++春色輪廻
++[[fragile snow]]
++39
++End and Start (without miku ver.)
++春色輪廻 (without miku ver.)
+
+**リンク
+-[[P∴Rhythmatiqのブログ>>http://prq.blog44.fc2.com/blog-entry-279.html]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/22/26/040010222600.html]]
+-[[D-stage>>http://d-stage.com/shop/detail.php?seq=14498]]
+-[[あきばおーこく>>http://www.akibaoo.com/02/commodity_param/t/0/ctc/+/shc/0/cmc/2500020129449/backURL/+02+main]]
+-[[メロンブックス>>http://shop.melonbooks.co.jp/shop/list/?G=&MF=P%E2%88%B4Rhythmatiq]]
+-[[ホワイトキャンバス>>http://www.w-canvas.com/shopping/detail.php?item_id=38969]]
+
+**コメント
+#comment()

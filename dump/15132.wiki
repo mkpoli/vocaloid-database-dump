@@ -1,0 +1,16 @@
+#right(){&furigana()&furigana()【登録タグ:&tags()】}
+&nicovideo(http://www.nicovideo.jp/watch/nm14086771)
+作詞：[[SeikoP]]
+作曲：[[SeikoP]]
+編曲：[[SeikoP]]
+唄：巡音ルカ
+コーラス；SeikoP
+
+**曲紹介
+-「希望の星に祈りを込めて！」
+-[[作者ブログ>>http://sei-peri.seesaa.net/article/194617807.html]]によると、震災復興祈願の曲？
+-タイトルはギリシャ語で「星座」の意。
+
+
+**コメント
+#comment()

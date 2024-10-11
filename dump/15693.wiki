@@ -1,0 +1,26 @@
+#right(){&furigana(ふらぐP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/10843458" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/10843458">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-「学園ボーカロイドシリーズ」で知られているP。デビュー作もそれである。
+-最近は[[よしのん]]とのコラボも多い。
+-SONARの擬人化キャラ「ソナーさん」をテーマにした曲もあり。
+
+**リンク
+-[[ピアプロ>>http://piapro.jp/VOCALON]]
+
+**曲
+#list_by_tag(フラグP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(フラグPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm4127114)|&nicovideo(http://www.nicovideo.jp/watch/sm6041222)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7092725)|&nicovideo(http://www.nicovideo.jp/watch/sm7906538)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm8972269)|&nicovideo(http://www.nicovideo.jp/watch/sm10068124)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm10154317)|&nicovideo(http://www.nicovideo.jp/watch/sm11182211)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm13757891)|&nicovideo(http://www.nicovideo.jp/watch/sm14130863)|
+
+**コメント
+#comment()

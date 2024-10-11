@@ -1,0 +1,37 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm14441346)
+
+||CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:（音屋）&br()（ポン酢P）&br()（SOLIDIO）|CENTER:[[JAPON]]&br()[[Favor>Favor/CD]]&br()-|CENTER:&bold(){DEFINITION}|CENTER:-&br()-&br()-|
+
+|&bold(){[[ポン酢P]]}|&bold(){[[SOLIDIO]]}|[[ちぃ]]|[[chu-ji]]|[[Shouting]]|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2011年6月12日|CENTER:2011年6月|
+|価格|CENTER:￥|CENTER:￥1,050（税込）|
+|サークル|>|CENTER:0108 -音屋-|
+|ジャケットイラスト|>|CENTER:LIRAN|
+
+**CD紹介
+-音楽サークル「0108 -音屋-」のAnotherとして発表される、ポン酢PことHal氏とSOLIDIO氏のアルバム。
+-THE VOC@LOiD M@STER 16（ボーマス16）で頒布。
+-とらのあなで委託販売が行われている。
+
+**曲目
++download future
++ナンニモナイ
++[[歌葬 -Song of the last love-]]
++[[no life]]
++[[routine>Routine/ポン酢P]]
++[[DISCOTHEQUE]]
++[[philosophoid]]
++[[Trip!!!Trip!!!Trap!!!]]
++[[うさぎヨーグルト]]（BonusTracks）
+
+**リンク
+-[[0108 -音屋->>http://www.die8.name/0108/]]
+-[[アルバム特設ページ>>http://www.die8.name/0108/definition.html]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0020/01/34/040020013413.html]]
+
+**コメント
+#comment()

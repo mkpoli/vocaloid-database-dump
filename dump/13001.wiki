@@ -1,0 +1,25 @@
+#right(){&furigana(BBれもん)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/13607794" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/13607794">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-Mac音ナナのほか、最近はミクやレン、GUMI曲も手がける。
+-電波曲からクラシックまで多ジャンルにわたる曲を作る。
+-生歌曲製作時のアーチスト名はベイビー・レモネード。
+
+**リンク
+-[[サークル「おでんぱ☆スタジオ」>>http://www.odenpa.jp/]]
+-[[サークル「もえ＠みくる」>>http://bunrin.ddo.jp/~mmkr/index.html]]
+-[[ボーカロイドにゃっぽん>>http://v-nyappon.net/?m=pc&a=page_f_home&target_c_member_id=10183]]
+
+**曲
+#list_by_tag(BBれもん,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(BBれもんCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm9317540)|&nicovideo(http://www.nicovideo.jp/watch/sm12734028)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12734083)||
+
+**コメント
+#comment()

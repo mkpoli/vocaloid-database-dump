@@ -1,0 +1,21 @@
+#right(){&furigana(にゅうせんP)&furigana()【登録タグ:&tags() 】}
+//&nicovideo_mylist()
+
+**特徴
+-正体は&b(){木之本みけ}。フリーのシナリオライターである。
+--『先生何やってんすかシリーズ』タグが付くが、作曲家という意味ではない。
+---P名の由来は、氏の手掛けたエロゲのシナリオの特徴から。&br()主人公が乳腺にこだわる…らしい。
+
+**リンク
+
+**曲
+#list_by_tag(乳腺P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+//**CD
+//#list_by_tag(乳腺PCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm1446545)|&nicovideo(http://www.nicovideo.jp/watch/sm5369171)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6060373)||
+
+**コメント
+#comment()

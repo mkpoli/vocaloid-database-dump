@@ -1,0 +1,35 @@
+#right(){&furigana(ぜんかいぶれいくあうと)&furigana()【登録タグ:&tags() 】}
+
+&ref(https://chomstudio.com/products/36_breakout/jacket500.jpg,x=300,y=300)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Bitter Amp.]]|CENTER:[[眩壊グレイアウト]]&br()&bold(){ゼンカイブレイクアウト}|CENTER:[[sweet straightflash]]|
+
+|&bold(){[[ちょむP]]}|[[orange>orange/作り手]]|仙丸|csq|
+
+||CENTER:即売|CENTER:同人|
+|発売|CENTER:2010年8月14日||
+|価格|||
+|サークル|CENTER:ちょむ工房||
+|ジャケットイラスト|>|CENTER:ミチバタ|
+
+**CD紹介
+-ちょむPことTakeponG氏の9作目となるボーカロイドCD。8作目『[[眩壊グレイアウト]]』と同時リリース
+-こちらは過去にゲストやコラボで発表した曲を「初音ミクAppend」でカバー＆一部アレンジした、エレクトロダンスポップなアルバム。
+-2010年夏コミ（C78）で頒布された。委託販売については準備中。
+
+**曲目
++ワンダー(^o^)スペル (Append mix) / 初音ミクAppend SOFT
++ナントカゴーゴー (Append mix) / 初音ミク Append VIVID
++はじまる旅のストーリー (Restarted Dance Remix) / 初音ミク Append LIGHT
++[[パンツ脱げるもん！]] (Miku mo Nugeru-mon! Remix) / 初音ミク Append VIVID
++Touch me Darling! (Append mix) / 初音ミク Append SOLID
++ユメミガチコイウタ (Dreamin'Bass Remix) / 初音ミク Append LIGHT
++～おまけトラック
+
+**リンク
+-[[ちょむ工房（作者サイト）>>http://chomstudio.com/]]
+-[[アルバムページ>>http://chomstudio.com/products/36_breakout.html]]
+
+**コメント
+#comment()

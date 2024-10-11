@@ -1,0 +1,45 @@
+#right(){&furigana(かっこかりP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/10450928" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/10450928">【ニコニコ動画】作品集</a></iframe>)
+
+**特徴
+作り手名：『&u(){(仮)P}』（&u(){かっこかりP}）
+-2009年1月、「[[無い]]」にてボカロPデビュー。
+-使用合成音声は初音ミク、鏡音レン。
+-ギターによるカッティング演奏に定評あり。
+
+**リンク
+-[[PIAPRO>>https://piapro.jp/kakkokari_]]
+-[[Twitter>>https://twitter.com/kakkokari_]]
+-[[コミュニティ｢（仮）Pのコミュニティ（仮）｣>>https://com.nicovideo.jp/community/co207075]]
+-[[ニコニコ>>https://www.nicovideo.jp/user/1116878]]
+
+**曲
+#list_by_tagsearch(（仮）P,sort=furigana2,errmsg=まだ曲が登録されていません。,and,100)
+
+**CD
+#list_by_tagsearch(（仮）PCD,sort=furigana2,errmsg=まだCDが登録されていません。,and,100)
+
+**動画
+|&nicovideo(nm5939548)|&nicovideo(sm9126551)|
+|&nicovideo(sm11336155)|&nicovideo(sm12006210)|
+|&nicovideo(sm12291978)|&nicovideo(sm13292706)|
+|&nicovideo(sm14330500)|>|
+
+**関連タグ内の更新履歴
+#region(close,関連タグ内の更新履歴)
+関連タグ内の更新履歴
+※「（仮）P」「（仮）PCD」タグ内で最近編集やコメントのあった記事を新しい方から10件表示しています。
+#list_by_tagsearch(（仮）P,（仮）PCD,sort=timestamp,sort2=desc,errmsg=まだ曲、CDが登録されていません。,or,10)
+#endregion
+
+**コメント
+- (仮)P素敵  -- 名無しさん  (2011-12-12 18:58:34)
+- はじめて「僕が見た夢」聞きました。素晴らしいです。  -- カルシウム  (2013-04-02 10:36:29)
+- セツナタイヨウ滅茶苦茶好き  -- 名無しさん  (2013-07-12 17:00:54)
+- 『ヨルに帰る花』が、いろはさんのCDを買って聞いたときからずっと好き。  -- 名無しさん  (2014-06-27 18:41:38)
+- ドアトマドの歌詞を見たいと思っています。良かったらそれも載せてください。よろしくお願いします。  -- 名無しさん  (2024-08-27 21:46:59)
+#comment()

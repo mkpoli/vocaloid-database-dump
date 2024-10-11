@@ -1,0 +1,40 @@
+#right(){&furigana(ゆりかごからはかばまで)&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/481_20100713225727_0240_0240.jpg)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm19868288)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){ユリカゴカラハカバマデ}|CENTER:[[ナガレモノノ儀]]|
+
+|&bold(){[[nakanoise]]}|[[依存]]|
+
+|流通|CENTER:配信|CENTER:即売|CENTER:委託|
+|発売|CENTER:2010年8月4日|CENTER:2013年2月3日|CENTER:|
+|価格|CENTER:￥900 / 1曲￥150|CENTER:￥500|CENTER:￥735（メロンブックス・税込）&br()￥771（とらのあな・税込）|
+|レーベル|CENTER:KarenT|||
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/id384415162]]}|
+
+**CD紹介
+-nakanoise氏の配信ミニアルバム。
+-今まで発表した楽曲を全て収録している。
+-ジャケットイラストは[[依存]]氏が担当。
+-2013年にふと思い立ちCD化。収録曲はすべて新録（新曲も収録）、ミックス・マスタリングもやり直されている。
+-コミティア103で頒布された。
+
+**曲目
++[[ユリカゴ]] （feat. 初音ミク）
++[[ユビサキ]] （feat. 初音ミク）
++[[ユラメキ]] （feat. 初音ミク）
++ツキワケ （feat. 初音ミク）
++[[ヒダマリ]] （feat. 初音ミク）
++テンゴク （配信版のみ） / シラトリ （feat. 初音ミク） （CD版のみ）
+
+**リンク
+-[[KarenT>>http://karent.jp/album/481]]
+-[[作者サイト>>http://nakanoise.biz/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/10/29/040030102953.html]]
+-[[メロンブックス>>http://shop.melonbooks.co.jp/shop/sp_213001012987_nakanoise_yurikago.php]]
+
+**コメント
+#comment()

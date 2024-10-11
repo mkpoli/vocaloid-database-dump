@@ -1,0 +1,51 @@
+#right(){&furigana(わんおほvol04)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+
+&ref(http://karent.jp/npdca/673_20110305020759_0240_0240.jpg)
+&nicovideo(http://www.nicovideo.jp/watch/sm13209201)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[MIDI MASTER!!]]|CENTER:&bold(){ワン★オポ！vol.04}|CENTER:[[修羅ノ庭　ver.LEN -Garden of berserker-]]|
+
+||CENTER:即売|CENTER:同人|CENTER:配信|
+|発売|2011年1月16日|CENTER:2011年1月17日|CENTER:2011年3月18日|
+|価格|CENTER:￥|CENTER:￥1,365（税込）|CENTER:￥1,200 / 1曲￥150|
+|サークル|>|>|CENTER:Wonderful★opportunity!|
+|ジャケットイラスト|>|>|CENTER:[[SHARK]]（[[piapro>>http://piapro.jp/shark_a]]）|
+
+|&bold(){[[マイナスP]]}|&bold(){[[じーざすP]]}|
+
+**CD紹介
+CD名：『&u(){ワン★オポ！vol.04}』
+-[[マイナスP]]、[[じーざすP]]による同人サークル「Wonderful★Opportunity!（ワンダフル☆オポチュニティ！）」の4thCDアルバム。
+-「SOUL IN VOCALOID」がテーマの渾身作。
+-ほぼ新曲で占められた9曲に、リンレン生誕記念に発表された「[[修羅ノ庭]]」のレンバージョンがボーナストラックとして収録された全10曲構成。
+-2011年1月16日、THE VOC@LOiD M@STER 15（ボーマス15）にて頒布される。
+-D-STAGE・とらのあなにて委託販売が、KarenTレーベルよりダウンロード販売が行われている。
+-2017年にはリデザイン盤『ワン★オポ！vol.4.1』が頒布となる。主な変更点は、ボカロをV2からV4に、各楽器のフレーズはそのままに音色、MIXをアップデート。
+
+**曲目
++[[Molecular]] [underfloor-0] / マイナスP feat. 鏡音リン
++[[foa]] [underfloor-24] / マイナスP feat. 鏡音リン
++Matchless venus condition [underfloor-102] / マイナスP feat. 鏡音リン
++White structure [underfloor-289] / マイナスP feat. 鏡音リン
++[[リモコン]] / じーざすP feat. 鏡音リン&鏡音レン
++GAME / じーざすP feat. 鏡音レン
++[[カラバリガール]] / じーざすP feat. 鏡音リン
++[[E.C.H.O]] / じーざすP feat. 鏡音リン&鏡音レン
++INTO BLOOM / じーざすP feat. 鏡音リン&鏡音レン
++[[修羅ノ庭]] ver.レン -Garden of Berserker- / Wonderful★Opportunity! feat. 鏡音レン
+
+**リンク
+-[[official website>>http://www.wan-opo.com/]]
+-[[D-STAGE>>http://d-stage.com/shop/detail.php?seq=18885]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/25/90/040010259029.html]]
+-[[KarenT>>http://karent.jp/album/673]]
+
+**コメント
+- マイナスPとじーざすP好きです  -- 名無しさん  (2011-02-19 22:43:35)
+- ドッペル押し問答大～好き  -- あんちゃん  (2014-03-08 21:47:36)
+#comment()

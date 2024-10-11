@@ -1,0 +1,34 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/17494283" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/17494283">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-音楽・動画構成・代表のNo.6を筆頭に､イラスト・動画構成・広報員『No.841』､イラスト・動画構成/編集・デザイン『No.3』。&br()そして野球部員の『No.11081』、制作の『No.5』で構成されるチーム。
+-デビュー作は「[[ウタカタ>ウタカタ/studio balabushka]]」。
+-他にも幅広いジャンルで情緒深い曲を作る。
+
+**リンク
+-[[ホームページ>>http://b-st.info/]]
+-[[ブログ>>http://blog.livedoor.jp/b_st_info/]]
+-[[ピアプロ>>http://piapro.jp/Balabushka]]
+-[[KarenT>>http://karent.jp/artist/pp000315]]
+-[[Twitter（No.6）>>http://twitter.com/b_st_info]]
+-[[pixiv（No.3）>>http://www.pixiv.net/member.php?id=2097415]]
+-[[Twitter（No.3）>>http://twitter.com/wakahori]]
+
+**曲
+#list_by_tag(studio balabushka,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(studio balabushkaCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm9666576)|&nicovideo(http://www.nicovideo.jp/watch/sm10097434)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm10143838)|&nicovideo(http://www.nicovideo.jp/watch/sm10718646)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm11119842)|&nicovideo(http://www.nicovideo.jp/watch/sm11466547)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm11747866)|&nicovideo(http://www.nicovideo.jp/watch/sm13028998)|
+
+**コメント
+- 好きなんだけど伸びないな…曲も世界観もPVもHPとかサービスも凄い凝ってるのに  -- もちのみや  (2010-09-23 22:40:03)
+- 「ウタカタ」好きなんですよね…。某歌い手のお陰でもあるのですが。実際、1分弱しかないんですけど、凄く、耳に残るんですよ…。正に、心地良いソング。良曲にもかかわらず、知られないなんて勿体無い。そんでもって、知られずに死んでいくピカソのよう。  -- 零、面白いよ。  (2010-12-04 08:31:55)
+- や、野球部員？ってなに？ｗｗ  -- 名無しさん  (2011-05-04 09:31:33)
+#comment()

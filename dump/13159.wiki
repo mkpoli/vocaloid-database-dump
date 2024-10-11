@@ -1,0 +1,62 @@
+#right(){&furigana(たそがれほりっく)&furigana()【登録タグ:&tags() 】}
+&ref(黄昏ホリック.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&b(){黄昏ホリック}|CENTER:[[カガリビト]]|
+
+|&bold(){[[millstones]]}|
+
+||CENTER:即売|CENTER:同人|CENTER:配信|
+|CENTER:発売|CENTER:2010年11月14日|CENTER:2010年11月14日|CENTER:2011年7月27日|
+|CENTER:価格|CENTER:￥1,000|CENTER:￥1,365（税込）|CENTER:￥1,500 / 1曲￥150|
+|CENTER:サークル|>|>|CENTER:Scripted city Revised.|
+
+**CD紹介
+>&bold(){「お疲れさまでした。良い終末を！」}
+-millstones氏による初のソロアルバム。
+-ニコニコ動画にて公開中のVOCALOID曲6曲＋過去に製作したインストゥルメンタル曲6曲をリメイク。
+-さらに新曲としてVOCALOID曲とインストゥルメンタル曲を一曲ずつを加えた計14曲で構成。
+-ジャケット担当は2e（にえ）氏。
+-THE VOC@LOiD M@STER 14（ボーマス14）で初頒布。とらのあな、ホワイトキャンバスにて委託販売が行われていた。
+-KarenTレーベルよりダウンロード販売が行われている。
+
+**クロスフェードデモ
+&nicovideo(http://www.nicovideo.jp/watch/sm12523438)
+
+**曲目
++Soaring into the Sky
++[[五月少女]]
++[[Railroad Crossing]]
++Arbitrary Utopia
++[[旅鳥クロニクル]]
++無意識の回廊
++7
++[[計画都市]]
++noctiluca
++Theory of Nothing
++pseudoresurrection
++[[可能世界のロンド]]
++黄昏ホリック
++[[未来紀元歴元年]]
+
+
+**リンク
+-[[CD紹介ページ>>http://scriptedcity.aroundhalf.info/twilightholic.html]]
+-[[作者ホームページ>>http://scriptedcity.aroundhalf.info/main.shtml]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/cit/pagekit/0000/00/04/000000042405/index.html]]
+-[[ホワイトキャンバス>>http://www.w-canvas.com/shopping/detail.php?item_id=44010]]
+-[[KarenT：「黄昏ホリック」>>http://karent.jp/album/776]]
+
+**コメント
+- 記事作成乙です！表題曲がよすぎるよ…！  -- 名無しさん  (2010-12-08 10:45:16)
+- どこを聞いても耳が幸せすぎるCD。ほんとうに買ってよかった！  -- 名無しさん  (2010-12-23 16:39:20)
+- ボーナストラックは嬉しいのだけれど曲名を知りたい  -- 名無しさん  (2011-01-24 01:31:23)
+- ボーナストラックは『ワルツ第一番「」』。iTunesで曲名取得すると出るよ。  -- 名無しさん  (2011-02-11 12:08:59)
+- 再販たのしみです＼(^o^)／  -- ファルセット  (2011-02-11 21:57:35)
+- 再販…しないかなあ(･ω･｀)  -- 色彩  (2011-05-15 10:46:42)
+- まだとらのあなで売ってるし、ボーマス16でも頒布するってmillさんのホームページに書いてあるよ  -- 名無しさん  (2011-05-23 11:53:10)
+- 歌詞カードの五月少女さ、「天気予報」が「天気予防」になっちゃってるね(´･ω･`)  -- 名無しさん  (2011-07-19 17:33:41)
+- 個人的にボカロCDでは一番好き。ハズレ曲、捨て曲がない  -- 名無しさん  (2011-09-29 00:11:32)
+- 再販してほしいです  -- 名無しさん  (2011-10-02 10:10:40)
+- なんとか見つけ出した  -- 名無しさん  (2013-06-06 00:06:18)
+#comment()

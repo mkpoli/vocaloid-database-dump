@@ -1,0 +1,31 @@
+#right(){&furigana(てつのはな)&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/553_20101014230410_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[風待草]]|CENTER:&bold(){鉄の華}|CENTER:[[百代連理]]|
+
+|&bold(){[[まはろP]]}|
+
+発売：2010年11月5日
+価格：￥300 / 1曲￥150
+流通：配信
+レーベル：KarenT
+ジャケットイラスト：まはろ
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/id400173466]]}|
+
+**CD紹介
+-まはろPの配信シングル。
+-KarenTのMEIKO6周年記念企画で配信された作品の1つ。
+-丁半遊びな和風曲です。
+
+**曲目
++鉄の華 （feat. MEIKO）
++鉄の華 （off vocal）
+
+**リンク
+-[[KarenT：「鉄の華」>>http://karent.jp/album/553]]
+-[[KarenT：「MEIKO記念祭'10」特集ページ>>http://karent.jp/special/meiko10]]
+
+**コメント
+#comment()

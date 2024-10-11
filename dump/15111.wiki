@@ -1,0 +1,31 @@
+#right(){&furigana(miu)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/11450721" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/11450721">【ニコニコ動画】</a></iframe>)|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/22291740" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/22291740">【ニコニコ動画】</a></iframe>)|
+
+**特徴
+作り手名：『&u(){miu☆}』(&u(){みう})
+-主に作詞作曲をし、アレンジをコラボすることが多い。
+-最近では、プロのアーティストに楽曲を歌ってもらいそれを投稿したりもしている。
+
+**リンク
+-[[ピアプロ>>http://piapro.jp/miu_nikoniko]]
+-[[Twitter>>http://twitter.com/miu2525p]]
+
+**曲
+#list_by_tagsearch(miu☆,sort=furigana2,errmsg=まだ曲が登録されていません。,and,100)
+
+**CD
+#list_by_tagsearch(miu☆CD,sort=furigana2,errmsg=まだCDが登録されていません。,and,100)
+
+**動画（再生数が多い順に6曲）
+|&nicovideo(http://www.nicovideo.jp/watch/sm13995177)|&nicovideo(http://www.nicovideo.jp/watch/sm10964895)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm17457529)|&nicovideo(http://www.nicovideo.jp/watch/sm13097924)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7098172)|&nicovideo(http://www.nicovideo.jp/watch/sm10554800)|
+
+**コメント
+- 誰か、【死ヌ。】を追加してくれ　俺には無理だ  -- 蔚  (2012-01-18 21:28:37)
+- ↑ [[【死ヌ。】]]のページできました。  -- 名無しさん  (2012-01-21 23:59:12)
+#comment()

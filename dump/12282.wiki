@@ -1,0 +1,45 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+
+#image(http://distorted-princess.plug8.info/img/banner01.jpg,http://distorted-princess.plug8.info/,title=Distorted Princess,blank) 
+
+&nicovideo(http://www.nicovideo.jp/watch/sm11628396)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Distorted Princess}|CENTER:[[whiteout>whiteout/CD]]|
+
+|&b(){[[八王子P]]}|[[すけっちP]]|[[よしのP]]|
+
+>&b(){ジャケットイラスト：[[ハツ子]]}
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|>|CENTER:2010年8月14日|
+|価格|CENTER:￥1,000|CENTER:￥1,470(税込)|
+|サークル|>|CENTER:Plug::8|
+
+**CD紹介
+-&b(){八王子P}の1stソロアルバム。C78で頒布された後、同人ショップで委託されている。
+-ミックスからやり直したという既存曲に加えて、新曲3曲とリメイク1曲を収録。
+-さらに、ゲストの&b(){すけっちP}と&b(){よしのP}によるリミックスも！
+
+**曲目
++intro*
++[[Sweet Devil]] feat. 初音ミク
++Love Me Do feat. 巡音ルカ
++[[Keep Only One Love]] feat. 初音ミク
++タイムスリップ (Luka Ver.) feat. 巡音ルカ
++[[Distorted Princess]] feat. 初音ミク & 巡音ルカ
++[[エレクトリック・ラブ]] feat. 初音ミク
++[[サクラサク]] feat. 初音ミク
++Sweet Devil (SketchP rmx) Remixed by すけっちP
++エレクトリック・ラブ (Yoshino's Electro-Luminescence remix) Remixed by 芳川よしの
+
+
+**リンク
+-[[CD特設ページ>>http://distorted-princess.plug8.info/]]
+-[[八王子Pのブログ>>http://8prince.sblo.jp/]]
+-[[とらのあなの通販ページ>>http://www.toranoana.jp/mailorder/article/04/0010/23/77/040010237753.html]]
+-[[メロンブックスの通販ページ>>http://shop.melonbooks.co.jp/shop/list/?DA=chgitemtype&G=&F=Plug%3A%3A8]]
+
+**コメント
+- これ欲しい・・・  -- 名無しさん  (2014-11-28 19:06:57)
+#comment()

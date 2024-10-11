@@ -1,0 +1,31 @@
+#right(){&furigana(としょえんたいP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://ext.nicovideo.jp/thumb_mylist/10072461" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/10072461">【ニコニコ動画】vocaloid%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB%EF%BC%8F%E5%9B%B3%E6%9B%B8%E5%BB%B6%E6%BB%9EP</a></iframe>)
+
+**特徴
+作り手名：『&u(){図書延滞P}』（&u(){としょえんたいP}）
+-初音ミク、巡音ルカを使用した曲を投稿しているP。
+-濃密なオケや情念渦まく歌詞が特徴的。
+
+**リンク
+-[[PIAPRO>>https://piapro.jp/ni_matsubara]]
+-[[作者ブログ>>http://nininininin1nininini.blog100.fc2.com/]]
+//-[[MySpace>>https://www.myspace.com/nimatsubara]]
+-[[ニコニコ>>https://www.nicovideo.jp/user/9443376]]
+
+**曲
+#list_by_tag(図書延滞P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(図書延滞PCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(nm5583064)|&nicovideo(nm5920944)|
+|&nicovideo(nm6092855)|&nicovideo(nm6772719)|
+|&nicovideo(nm7027178)|&nicovideo(nm7979118)|
+
+**コメント
+#comment()

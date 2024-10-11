@@ -1,0 +1,32 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/16473338" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/16473338">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-作詞のMNWと作曲のHoso-Qからなるユニット。
+-2009年10月、「[[LINK>LINK/TRI-ReQ]]」のショート版を投稿してデビュー。2ヶ月後にFULL版も投稿された。
+-その他にも特徴的なミク曲をいくつか投稿している。
+-作曲のHoso-Qの正体は、フリーで活動する音楽家である&b(){細井聡司}（ほそい そうし）。正真正銘&b(){プロの犯行}である。
+
+**リンク
+-[[音源置き場>>http://www.hosplug.com/tri-req/]]
+-[[ピアプロ>>http://piapro.jp/TRI_ReQ]]
+-[[Twitter（Hoso-Q）>>http://twitter.com/hosplug_hosoi]]
+-[[Twitter（MNW）>>http://twitter.com/TRIReQ_MNW]]
+-[[myspace>>http://www.myspace.com/hosplug]]
+-[[facebook>>http://www.facebook.com/profile.php?id=10000134977267]]
+
+**曲
+#list_by_tag(TRI-ReQ,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(TRI-ReQCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm8523409)|&nicovideo(http://www.nicovideo.jp/watch/sm9024627)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9089123)|&nicovideo(http://www.nicovideo.jp/watch/sm9759474)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm11270299)|&nicovideo(http://www.nicovideo.jp/watch/sm11530625)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12003020)||
+
+**コメント
+- FTでLINK収録をただただ待つばかり…  -- 名無しさん  (2013-10-16 16:08:03)
+#comment()

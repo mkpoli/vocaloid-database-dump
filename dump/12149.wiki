@@ -1,0 +1,125 @@
+#right(){&furigana(CircusP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/22926572" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/22926572">【ニコニコ動画】</a></iframe>)|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/22932089" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/22932089">【ニコニコ動画】</a></iframe>)|
+
+**特徴
+曲名：『&u(){Circus-P}』(&u(){サーカス-P})
+-海外のボカロP。
+-HMは「&bold(){matt9five}」。
+-P名の由来は自身の曲「[[サーカス・モンスター]]」から。
+--当初は「Doofus-P」名義も使用していたが、現在は「Circus-P」に統一している。
+-2010年7月、「[[Creepy Toast]]」にてボカロPデビュー。
+-使用合成音声は[[巡音ルカ]]、[[SONIKA]]、[[SF-A2 開発コード miki]]、[[KAITO]]、Mac音ココ、[[LEON]]、[[GUMI>megpoid]]、[[IA]]、[[猫村いろは]]、[[ギャラ子]]、石雨アイド（フェイル音アイド）、[[LOLA]]、[[歌手音ピコ>開発コードpiko 歌手音ピコ]]、[[VY2]]、[[重音テト]]、[[AVANNA]]、多声ズイー、[[初音ミク]]、[[さとうささら]]、[[MAIKA]]、[[東北ずん子]]、[[鏡音リン・レン]]、[[結月ゆかり]]、[[気球音アイコ]]、[[DAINA]]、[[AZUKI]]、[[墨清弦]]、苍穹、[[CYBER DIVA]]、[[Ruby>ruby/合成音声]]、[[マクネナナ]]、[[MEIKO]]、[[RANA]]、[[CHRIS]]、[[Fukase]]、[[弦巻マキ]]、SOLARIA、[[エレノア・フォルテ]]、[[Lily>lily/vocaloid]]、海伊、[[可不]]、[[楽正綾]]、[[知声]]、[[Po-uta]]、[[音街ウナ]]、[[v flower]]。
+--中でも&bold(){石雨アイドは自身が声優のUTAU}である。
+-オリジナル曲よりも、カバー（ボカロオリジナル曲・一般曲）の投稿数の方が多い。
+-殿堂入りした曲は次の通り。&br()&list_by_tagsearch(Circus-P,殿堂入り,sort=furigana,option=nolist,nolistspace= ／ ,100)
+
+**リンク
+//-個人HP、PIAPRO、YouTube等ある場合は、ここに。当wiki以外のサイトへリンクを貼る場合は必ず「>>」で別ウインドウでリンクしてください。
+-[[ニコニコ動画>>https://www.nicovideo.jp/user/6446962]]
+-[[YouTube>>https://www.youtube.com/user/VocaCircus]]
+-[[piapro>>https://piapro.jp/matt9five]]
+-[[Twitter>>https://twitter.com/vocacircus]]
+
+**曲
+#list_by_tag(Circus-P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(Circus-PCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**オリジナル曲(最新9～10曲を優先表示）
+#region(close,これ以前の楽曲)
+|&nicovideo(sm11450817)|&nicovideo(sm11812284)|
+|&nicovideo(sm11876220)|&nicovideo(sm11953496)|
+|&nicovideo(sm12380125)|&nicovideo(sm12489478)|
+|&nicovideo(sm12755948)|&nicovideo(sm13175397)|
+|&nicovideo(sm14137534)|&nicovideo(sm14336222)|
+|&nicovideo(sm15309462)|&nicovideo(sm16036482)|
+|&nicovideo(sm16457030)|&youtube(https://youtu.be/zeN43yQzFUg?feature=shared){342,187}|
+|&youtube(https://youtu.be/gShqxIBXWC8?feature=shared){342,187}|&nicovideo(sm17236711)|
+|&nicovideo(sm17373707)|&nicovideo(sm18221038)|
+|&nicovideo(sm18315685)|&nicovideo(sm19237817)|
+|&nicovideo(sm19401987)|&nicovideo(sm19568770)|
+|&nicovideo(sm19587142)|&nicovideo(sm19882404)|
+|&nicovideo(sm20101643)|&nicovideo(sm20394531)|
+|&nicovideo(sm21258067)|&nicovideo(sm22081395)|
+|&nicovideo(sm22127613)|&nicovideo(sm22294373)|
+|&nicovideo(sm23641525)|&nicovideo(sm24523373)|
+|&nicovideo(sm24696485)|&nicovideo(sm25458477)|
+|&nicovideo(sm25723763)|&nicovideo(sm26958206)|
+|&youtube(https://youtu.be/N1-Z8uslIsI?feature=shared){342,187}|&nicovideo(sm28232577)|
+|&youtube(https://youtu.be/HV70kQnDur8?feature=shared){342,187}|&nicovideo(sm28868044)|
+|&nicovideo(sm29099916)|&nicovideo(1472031364)|
+|&youtube(https://youtu.be/L1RJ3gZXyvE?feature=shared){342,187}|&youtube(https://youtu.be/5u1CVs31OYM?feature=shared){342,187}|
+|&nicovideo(sm30474842)|&nicovideo(sm31455804)|
+|&nicovideo(sm32039019)|&nicovideo(sm32137467)|
+|&nicovideo(sm32449999)|&nicovideo(sm32665922)|
+|&nicovideo(sm32741099)|&nicovideo(sm32967446)|
+|&nicovideo(sm33089546)|&nicovideo(sm33270648)|
+|&youtube(https://youtu.be/OqIwB5eSLzY?feature=shared){342,187}|&nicovideo(sm33579038)|
+|&youtube(https://youtu.be/WN1JLSo3LLw?feature=shared){342,187}|&nicovideo(sm33990282)|
+|&youtube(https://youtu.be/B5I-wLUkgos?feature=shared){342,187}|&youtube(https://youtu.be/ypYxB3H2UQI?feature=shared){342,187}|
+|&youtube(https://youtu.be/Xnh0N2buKAA?feature=shared){342,187}|&nicovideo(sm34764617)|
+|&youtube(https://youtu.be/2yajYOzwyOY?feature=shared){342,187}|&youtube(https://youtu.be/bf9mI2yx538?feature=shared){342,187}|
+|&youtube(https://youtu.be/0CBV2gy1OMw?feature=shared){342,187}|&youtube(https://youtu.be/JHLcYU3MD-o?feature=shared){342,187}|
+|&youtube(https://youtu.be/-3TBbbGzOIU?feature=shared){342,187}|&nicovideo(sm35647764)|
+|&youtube(https://youtu.be/O4iwCw4_Vng?feature=shared){342,187}|&nicovideo(sm35995192)|
+|&nicovideo(sm36795707)|&nicovideo(sm36867340)|
+|&youtube(https://youtu.be/llR45_AkZNs?feature=shared){342,187}|&youtube(https://youtu.be/o0NOV8qMBqw?feature=shared){342,187}|
+|&nicovideo(sm36795707)|&nicovideo(sm36867340)|
+|&nicovideo(sm36901023)|&nicovideo(sm37054863)|
+|&nicovideo(sm37200264)|&nicovideo(sm37346420)|
+|&nicovideo(sm37573191)|&nicovideo(sm37708733)|
+|&nicovideo(sm37831091)|&nicovideo(sm37931496)|
+|&nicovideo(sm38212006)|&nicovideo(sm38699465)|
+|&nicovideo(sm38930783)|&nicovideo(sm39453314)|
+|&youtube(https://youtu.be/oXlyJJ1VxhM?feature=shared){342,187}|&youtube(https://youtu.be/LgDeeYNvvus?feature=shared){342,187}|
+|&nicovideo(sm39887376)|&nicovideo(sm39924679)|
+|&nicovideo(sm40058175)|&nicovideo(sm40186253)|
+|&nicovideo(sm40256760)|&nicovideo(sm40354212)|
+|&nicovideo(sm40492005)|&nicovideo(sm40580916)|
+|&nicovideo(sm40644168)|&nicovideo(sm40703565)|
+|&nicovideo(sm40802806)|&nicovideo(sm40945276)|
+#endregion
+|&nicovideo(sm41121527)|&nicovideo(sm41256139)|
+|&nicovideo(sm41388344)|&nicovideo(sm41511524)|
+|&nicovideo(sm41831833)|&nicovideo(sm42147661)|
+|&nicovideo(sm42183178)|&nicovideo(sm42209181)|
+|&nicovideo(sm42234956)||
+
+//|&nicovideo()|&nicovideo()|
+//|&youtube(){342,187}|&youtube(){342,187}|
+
+**関連タグ内の更新履歴
+#region(close,関連タグ内の更新履歴)
+関連タグ内の更新履歴
+※「Circus-P」「Circus-PCD」タグ内で最近編集やコメントのあった記事を新しい方から10件表示しています。
+#list_by_tagsearch(Circus-P,Circus-PCD,sort=timestamp,sort2=desc,errmsg=まだ曲、CDが登録されていません。,or,10)
+#endregion
+
+**コメント
+- 最近youtubeにアップしていたAddictedって曲は題名通り中毒になりそうな曲だったな  -- 名無しさん  (2010-10-14 21:29:17)
+- この人の曲大好き  -- 名無しさん  (2011-01-26 19:15:24)
+- ↑×2 Addicted　追加しました  -- 名無しさん  (2011-04-13 23:46:13)
+- ニコ動で多くの曲が本人削除されているがピアプロには残っている  -- 名無しさん  (2011-10-18 23:15:54)
+- our beliefもこの人じゃなかったけ？  -- 名無しさん  (2013-01-27 15:28:21)
+- なんで曲消えてんの  -- 名無しさん  (2013-02-17 22:25:11)
+- 戻ってる よかった…  -- 名無しさん  (2013-02-18 14:47:01)
+- この人の作品かっこいいのが多いっ&#8252;&#65038;  -- えなりる  (2013-12-23 18:07:58)
+- FATEってこの人の曲だったのか！CircusMonsterもこの曲も好き  -- 名無しさん  (2014-05-29 00:07:32)
+- やべぇ中毒度。しかもかっこいい。もっと評価されるべきだと思う。  -- サイコマス  (2014-10-12 00:56:42)
+//- 曲の追加者おつかれさまです！  -- 名無しさん  (2015-03-27 15:49:46)
+- もっと評価されるべき  -- 烏兎匆匆  (2015-05-30 23:59:41)
+- iNSaNiTYではまった…どの曲もかっこいい  -- 名無しさん  (2015-08-25 03:25:07)
+- Circus-P愛してる  -- 未来  (2016-12-12 19:28:11)
+- KAITO持ってらっしゃったのか！https://www.youtube.com/watch?v=7QXrh1Suvf4  -- 名無しさん  (2017-01-22 22:16:16)
+- 「Last of Me」「Goodbye」「Lie」「KARMA」など、YouTubeではのきなみ100万超え再生ですよね。個人的にはcrusherPと合作の「Deja Vu」が死ぬほどカッコイイと思います。  -- 名無しさん  (2017-03-15 01:03:00)
+- obey削除されてんだけど何で？  -- 名無しさん  (2017-08-27 23:24:07)
+- Different Seasはニコ動に投稿されてないのかな？　DEXの声が切なくて、おすすめです。  -- 名無しさん  (2018-01-22 19:21:04)
+- 超カッコイイKAITOの神曲「1/4th」が載ってないです。どなたかページ作成して頂けませんか？  -- 名無しさん  (2018-04-24 14:57:56)
+- 中毒性が凄い曲を作るよね！！  -- 名無しさん  (2021-04-28 18:48:14)
+- MIKUEXPO2016のTen Thousand StarsもcircusPさんだったと思うんですが入ってないです。あと雄之助さんとの合作でcyberneticという曲があったはずなのですがそちらも無いです。  -- 名無しさん  (2023-02-11 20:28:59)
+- 一応、現時点で投稿されている曲は投稿順に並べておきました。ページが作成されていない曲がたくさんありましたので、どなたか作成お願いします。私は力尽きました  -- kisaragi345  (2023-09-01 15:45:40)
+#comment()

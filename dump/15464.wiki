@@ -1,0 +1,46 @@
+#right(){&furigana(はいゆき)&furigana()【登録タグ:&tags() 】}
+|配信版ジャケット&br()&ref(http://karent.jp/npdca/603_20101129002612_0240_0240.jpg)|CD版ジャケット&br()&ref(https://www.suruga-ya.jp/database/pics/game/186143438.jpg,x=380,y=300)|
+//&ref(http://img.yaplog.jp/img/06/pc/k/i/d/kidsworks/0/6.jpg)&br()CD版ジャケット|
+
+|CENTER:前作|CENTER:今作|CENTER:次作|
+|CENTER:[[やきいものうた>やきいものうた/CD]]|CENTER:&bold(){灰雪}|CENTER:[[CK-album- Ver,0.9]]|
+
+|&bold(){[[キッドP]]}|[[クリスタルP]]|[[残鏡P]]|
+
+||CENTER:配信|CENTER:即売|
+|発売|CENTER:2010年12月17日|CENTER:2011年2月17日|
+|価格|CENTER:￥600 / 1曲￥150|CENTER:￥500|
+|サークル|CENTER:-|CENTER:クリキッド|
+|レーベル|CENTER:KarenT|CENTER:-|
+
+|&bold(){[[iTunes Storeで購入>>http://itunes.apple.com/jp/album/id409335937]]}|
+
+**CD紹介
+-キッドPの配信EP。
+-前作『[[やきいものうた>やきいものうた/CD]]』同様、配信後に動画が発表され、CD化となった。
+-配信版はKarenTの冬の唄特集で配信された作品の1つ。
+-CD版は2011年2月開催のVOCALOID FESTAで頒布。このイベントのみの限定頒布となる。
+-CD版には配信版に収録されたトラックのほか、クリスタルPによる別アレンジ「Pf&Strings mix」も収録されている。
+-ジャケットイラストは [[桜庭ちどり>>http://piapro.jp/graful]] 氏。
+
+**曲目
+***配信版
++[[灰雪]] （feat. 鏡音レン&KAITO）
++灰雪 -KAITOless- （feat. 鏡音レン&KAITO）
++灰雪 -LENless- （feat. 鏡音レン&KAITO）
++灰雪 -instrumental-
+
+***CD版
++original mix
++Pf&Strings mix
++LENoff mix
++KAITOoff mix
++Brotheroff mix
+
+**リンク
+-[[作者ブログ>>http://yaplog.jp/kidsworks/]]
+-[[KarenT：「灰雪」>>http://karent.jp/album/603]]
+-[[KarenT：「冬の唄'10」特集ページ>>http://karent.jp/special/winter10]]
+
+**コメント
+#comment()

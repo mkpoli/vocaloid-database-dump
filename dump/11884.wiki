@@ -1,0 +1,41 @@
+#right(){&furigana(ふーた)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/19198104" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/19198104">【ニコニコ動画】</a></iframe>)
+
+**特徴
+作り手名：『&u(){ぶーた}』
+-可愛らしさと儚さが入り混じる画風の絵師。
+-SAIを使用した、ポップでカラフルな色使いが特徴。色々なボーカロイドを描くが、特にGUMIが多い様だ。
+-また、高度なデザインセンスを持っており、キャラクターの衣装も魅力のひとつとなっている。
+
+**リンク
+-[[PIAPRO>>https://piapro.jp/warajimushi]]
+-[[Pixiv>>https://www.pixiv.net/member.php?id=652196]]
+-[[Twitter>>https://twitter.com/booota]]
+
+**曲
+#list_by_tag(ぶーた,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(ぶーたCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm9894498)|&nicovideo(sm10631819)|
+|&nicovideo(sm10820620)|&nicovideo(sm11187401)|
+|&nicovideo(sm11217242)|&nicovideo(sm12044860)|
+|&nicovideo(sm12263971)|&nicovideo(sm13638583)|
+|&nicovideo(sm14703731)|&nicovideo(sm15234093)|
+
+
+**コメント
+- イラストすごく可愛いですっ！！！ 大好き＊  -- 儚愛  (2012-05-20 12:34:55)
+- イラスト可愛い♪もっと、使われるといいな☆  -- GUMI  (2012-09-02 12:54:52)
+- イラストレーターぶーたという動画をみました。イラストすごくかわいかったです。  -- ブロッコリン  (2012-11-09 17:30:52)
+- ↑の動画見ましためっちゃかわいい。これ見てたまよりぶーたが好きになった。  -- ゆうたん  (2013-01-31 11:51:53)
+- eat meもそうかな？とにかくイラストがめっちゃかわい♥  -- Alice  (2013-04-04 07:16:34)
+- ↑３見ましたこの人の絵可愛いですね。もっと動画イラスト描いてほしいです  -- 名無しさん  (2013-04-04 16:08:25)
+- ポップでカラフルです。  -- 名無しさん  (2015-04-17 18:48:19)
+#comment()

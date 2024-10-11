@@ -1,0 +1,31 @@
+#right(){&furigana(くろのつばさ)&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/494_20100808151727_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[REBOOT feat. 初音ミク]]|CENTER:&bold(){黒のツバサ}|CENTER:[[Pray for you feat. 初音ミク>Pray for you]]|
+
+|&bold(){[[そそそP]]}|
+
+発売：2010年8月31日
+価格：￥300 / 1曲￥150
+流通：配信
+レーベル：KarenT
+ジャケットイラスト：[[ウミネコ>>http://piapro.jp/susineko18]]
+
+|&bold(){[[iTunes Storeで購入>>http://itunes.apple.com/jp/album/id388925783]]}|
+
+**CD紹介
+-初音ミク3rdアニバーサリーに送るそそそ（津久井箇人）の翼シリーズ。
+-c/wにはミクが歌うデジタルバージョン「[[白い翼の少年]] (Digital -M- Mix)」、ユーロビートリミックスの「黒のツバサ (Ride on the wind Mix)」を収録。
+
+**曲目
++[[黒のツバサ]] （feat. 初音ミク）
++[[白い翼の少年]] (Digital -M- Mix) （feat. 初音ミク）
++黒のツバサ (Ride on the wind Mix) （feat. 初音ミク）
+
+**リンク
+-[[KarenT：「黒のツバサ」>>http://karent.jp/album/494]]
+-[[KarenT：「初音ミク 3rd Anniversary」特集ページ>>http://karent.jp/special/miku10]]
+
+**コメント
+#comment()

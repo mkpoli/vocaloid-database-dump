@@ -1,0 +1,39 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/449_20100629191201_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:Stir up Club Edition V2|CENTER:&bold(){There e.p.}|CENTER:-|
+
+|&bold(){[[Taishi]]}|
+
+||CENTER:即売|CENTER:配信|
+|発売|CENTER:2010年6月20日|CENTER:2010年7月21日|
+|価格|CENTER:￥400|CENTER:￥900 / 1曲￥150|
+|サークル|CENTER:AlliumProject||
+|レーベル||CENTER:KarenT|
+|ジャケットイラスト|>|CENTER:[[Ei>>http://piapro.jp/eicom]]|
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/there-e-p/id382021433]]}|
+
+**CD紹介
+-サークル「Allium Priect」によるStir up Club Editionシリーズで好評を博した「[[There>There/Taishi]]」がEPとなって登場！
+-MAYA AKAI Remix, Nhato Remixはもちろんのこと、&br()新たにSloth Remix, Original Dub、Progressive Dubを加えた大ボリュームの内容！
+-2010年6月20日に開催された「とら祭り2010」で頒布した後、7月21日よりダウンロード販売を開始した。
+
+**曲目
++[[There>There/Taishi]] (Original mix) （feat. 巡音ルカ）
++There (MAYA AKAI Remix) （feat. 巡音ルカ）
++There (Sloth Remix) （feat. 巡音ルカ）
++There (Nhato Remix) （feat. 巡音ルカ）
++There (Progressive Rework) （feat. 巡音ルカ）
++There (Radio Edit) （feat. 巡音ルカ）
++There (Original Dub)
++There (Progressive Rework Dub)
+
+**リンク
+-[[C.O.A.D（作者サイト）>>http://www.compllege.com/coad/index.html]]
+-[[Allium Project（参加サークルサイト）>>http://www.compllege.com/allium/]]
+-[[KarenT：「There e.p.」>>http://karent.jp/album/449]]
+
+**コメント
+#comment()

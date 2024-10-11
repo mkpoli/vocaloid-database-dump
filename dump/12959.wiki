@@ -1,0 +1,50 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#image(http://www.polyphonicbranch.com/holygarden/banner500100.jpg,http://www.polyphonicbranch.com/holygarden.htm,title=Holy Garden,blank)
+
+#amazon(B005432NHG)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Heaven>Heaven/CD]]|CENTER:&bold(){Holy Garden}|CENTER:[[君に捧ぐファンタジア]]|
+
+|&bold(){[[PolyphonicBranch]]}|[[花うさぎ]]|
+
+||CENTER:即売|CENTER:同人|
+|発売|>|CENTER:2010年7月19日|
+|価格|CENTER:￥1,000|CENTER:￥1,470（税込）|
+|サークル|>|CENTER:PolyphonicBranch|
+
+**CD紹介
+-『PolyphonicBranch』がお届けするボーカロイドCD第5弾。
+-8曲入りアルバム。
+-ジャケット担当のBUZZ氏をはじめとした7人の絵師による、収録曲8曲それぞれのイメージイラストが収録された12Pのブックレット付き。
+-THE VOC@LOiD M@STER 13（ボーマス13）で初頒布された後、とらのあなやD-STAGEにて委託販売が行われている。
+
+**クロスフェード
+&nicovideo(sm11377999)
+
+**曲目
++[[嘘つきベティ]] / 鏡音リン / eruri
++[[夢喰いナイトメア]] / 初音ミク / YahaKo
++[[君に捧ぐファンタジア]] / 鏡音レン / shiki
++[[D.O.A]] / 初音ミク / オサム
++[[水箱]] / 初音ミク / [[2D>Nidy-2D-]]
++青い髪の少女 / 初音ミク / [[BUZZ]]
++[[君に、花束を。]] / 初音ミク / BUZZ
++君がいた風景 / 巡音ルカ / [[有坂あこ]]
+
+**リンク
+-[[作者HP>>http://www.polyphonicbranch.com/]]
+-[[CD特設サイト>>http://www.polyphonicbranch.com/holygarden.htm]]
+-[[あきばお～こく>>http://www.akibaoo.com/02/commodity_param/t/0/ctc/80000000/shc/0/cmc/2500020139547/backURL/+02+main]]
+-[[アニメイト>>http://www.animate-onlineshop.jp/pn/%E3%80%90%E5%90%8C%E4%BA%BACD%E3%80%91Polyphonic+Branch/Holy+Garden/pd/1031749/]]
+-[[D-STAGE>>http://d-stage.com/shop/detail.php?seq=15383]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/cit/pagekit/0000/00/03/000000037943/index.html]]
+-[[ホワイトキャンバス>>http://www.w-canvas.com/shopping/detail.php?item_id=40477]]
+-[[メロンブックス>>http://shop.melonbooks.co.jp/shop/detail/213001006981]]
+-[[Amazon>>http://www.amazon.co.jp/dp/B005432NHG/]]
+
+**コメント
+- ほすぃーー  -- るるか  (2011-04-07 17:37:02)
+- つたやでかりた  -- 名無しさん  (2012-05-10 04:41:24)
+- やたー！　嘘つきベティ と 君に捧ぐファンタジア が収録されてーら！!  -- 烏龍  (2013-02-14 17:59:24)
+#comment()

@@ -1,0 +1,42 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#image(http://vocaloidblackmusic.web.fc2.com/_src/sc331/Jacket.png,http://vocaloidblackmusic.web.fc2.com/,title=GOOD 2 GO!!,blank)
+
+|&nicovideo(http://www.nicovideo.jp/watch/sm13531765)|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/23359128" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/23359128">【ニコニコ動画】</a></iframe>)|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&b(){GOOD 2 GO!!}|CENTER:-|
+
+|&b(){[[takamatt]]}|&b(){[[kagomeP>かごめP]]}|[[Chiquewa]]|[[konkon]]|[[tys>tysP]]||
+|[[アンメルツP]]|[[カーリー]]|[[喜兵衛]]|[[ミュムP]]|[[ライブP]]|[[れるりり]]|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|>|CENTER:2011年2月12日|
+|価格|CENTER:\1,000(税込)|CENTER:\1,500(税込)|
+|サークル|>|CENTER:GOOD 2 GO!!|
+
+**CD紹介
+-11名のボカロPによるブラックミュージックコンピレーションアルバム。
+-ジャケットイラストは[[drahtpuppe]]、マスタリングはkagomePが担当している。
+-VOCALOID FESTAで初頒布。
+
+**曲目
++[[昭和専★ガール]]　/　kagomeP
++[[Stayin' Alive]]　/　tys
++[[オクターヴ]]　/　Chiquewa
++[[Assassin Baby Cat]]　/　konkon
++[[Secret Conversation]]　/　takamatt
++[[ウォーター・フェイク]]　/　カーリー
++[[marble>marble/喜兵衛]]　/　喜兵衛
++[[Tweet-A-Holic]]　/　kagomeP
++[[浸透]]　/　ミュムP
++[[Not A Wonderful World]]　/　アンメルツP
++[[A.I. (is LOVE FOR MYSELF)]]　/　konkon
++Dancing男子！(LatinhouseMix)　/　れるりり
++[[コールドハンド]]　/　ライブP
+
+**リンク
+-[[公式サイト>>http://vocaloidblackmusic.web.fc2.com/]]
+-[[ホワイトキャンバス>>http://www.w-canvas.com/shopping/detail.php?item_id=46034]]
+
+**コメント
+#comment()

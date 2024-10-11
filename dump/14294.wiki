@@ -1,0 +1,45 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/21061887" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/21061887">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-デビュー作は「[[SOUND OF FOOTSTEPS]]」。
+-使用合成音声ソフトは初音ミク、GUMI、鏡音レン。
+
+**リンク
+-[[sound port（作者ブログ）>>http://sansedge.blog57.fc2.com/]]
+-[[YouTube>>http://www.youtube.com/@wataru675]]
+-[[ピアプロ>>http://piapro.jp/sansedge]]
+-[[Twitter>>http://twitter.com/sansedge]]
+
+**曲
+#list_by_tag(wataru,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(wataruCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm10795508)|&nicovideo(http://www.nicovideo.jp/watch/sm11466462)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm11971612)|&nicovideo(http://www.nicovideo.jp/watch/sm12073203)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12493584)|&nicovideo(http://www.nicovideo.jp/watch/sm13555134)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm13626862)|&nicovideo(http://www.nicovideo.jp/watch/sm13953166)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm14397429)|&nicovideo(http://www.nicovideo.jp/watch/sm14768865)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm14773218)|&nicovideo(http://www.nicovideo.jp/watch/sm14917082)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm15451666)|&nicovideo(http://www.nicovideo.jp/watch/sm15936497)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm17190981)|&nicovideo(http://www.nicovideo.jp/watch/sm18301526)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm18510651)|&nicovideo(http://www.nicovideo.jp/watch/sm19489378)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm20105067)|&nicovideo(http://www.nicovideo.jp/watch/sm20942397)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm22027807)|&nicovideo(http://www.nicovideo.jp/watch/sm22109367)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm23244156)|&nicovideo(http://www.nicovideo.jp/watch/sm23916942)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm24282637)|&nicovideo(http://www.nicovideo.jp/watch/sm25515867)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm25611079)|&nicovideo(http://www.nicovideo.jp/watch/sm26261580)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm26569517)|&nicovideo(http://www.nicovideo.jp/watch/sm26879628)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm27223309)|&nicovideo(http://www.nicovideo.jp/watch/sm28474600)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm29556821)|&nicovideo(http://www.nicovideo.jp/watch/sm30059505)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm32743178)|&nicovideo(http://www.nicovideo.jp/watch/sm32854010)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm33740592)|&nicovideo(http://www.nicovideo.jp/watch/sm34890910)|
+|&youtube(http://www.youtube.com/watch?v=LZ_QttQVMjo){342,187}||&youtube(http://www.youtube.com/watch?v=722DM-k_d28){342,187}|
+|&youtube(http://www.youtube.com/watch?v=QNjHStxs9-g){342,187}|&nicovideo(http://www.nicovideo.jp/watch/sm38601477)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm42902007)||
+
+**コメント
+#comment()

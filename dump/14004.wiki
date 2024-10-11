@@ -1,0 +1,39 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo(sm13215348)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Vogue}|CENTER:[[&]]|
+
+|&bold(){[[イママP>yksb]]}|[[頑なP]]|[[emon（Tes.）]]|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|2011年1月16日||
+|価格|CENTER:￥1,000|CENTER:￥1,500（税抜）|
+|サークル|>|CENTER:Bit-z|
+
+**CD紹介
+-イママPの1stアルバム。全12曲。
+-オリジナル曲の他に、頑なPことsat氏とTes.のemon氏のリミックストラック、アマネ氏の歌ってみたも収録されている。
+-THE VOC@LOiD M@STER 15（ボーマス15）にて頒布。当日はemon氏のアルバム『[[emonloid]]』との同時購入で特典CDのおまけ付き。
+-とらのあなで委託販売が行われていた。
+
+**曲目
++#1
++[[Vogue]]
++[[planet]]
++[[テレパシー>テレパシー/yksb]]
++[[fanfan]]
++Cosmic Coaster
++Prism
++[[Beautiful Sniper]]
++HOME
++fanfan （sat Remix）
++[[Vogue （emon Remix）>>http://www.nicovideo.jp/watch/sm13228098]]
++[[fanfan featuring Amane>>http://www.nicovideo.jp/watch/sm12260390]]
+
+**リンク
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0020/00/03/040020000317.html]]
+
+**コメント
+- こんないい防具見たことない!!  -- 名無しさん  (2011-05-18 19:31:49)
+#comment()

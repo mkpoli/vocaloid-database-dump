@@ -1,0 +1,46 @@
+#right(){&furigana(やしまゆにて)&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/686_20110324112211_0240_0240.jpg)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm12619680)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[バフォメット]]|CENTER:&b(){やしまユニテ}|CENTER:[[Smile Knight EP]]|
+
+|&b(){[[kiichi（なんとかP）]]}|
+
+|流通|CENTER:即売|CENTER:同人|CENTER:配信|
+|発売|>|CENTER:2010年11月14日|CENTER:2011年4月6日|
+|価格|CENTER:￥1,000|CENTER:￥1,470（税込）|CENTER:￥1,500 / 1曲￥150|
+|サークル|>|>|CENTER:なんとかかんとか|
+
+**CD紹介
+-&b(){なんとかP}こと&b(){kiichi}の2ndアルバム。
+-THE VOC@LOiD M@STER 14（ボーマス14）で初頒布。
+-イラストは&b(){Leche}、デザインは&b(){[[なぎみそ]]}が担当。
+
+**曲目
++1号棟 (inst.)
++[[団地ガール]]
++[[ノスタルゴースト]]
++[[エンジェル・ヘイロウ]]
++2号棟 (inst.)
++青春の殺人者
++[[ネリーチカ]]
++[[Butterfly Knife]]
++銀色雲
++[[たなばたセブン]]
++二丁目の怪人（と私）
++[[まったきケモノ]]
++3号棟 (inst.)
+
+**リンク
+-[[特設サイト>>http://kiiiichi.sakura.ne.jp/yashimayunite.html]]
+-[[作者のブログ>>http://kiiichi.blog.shinobi.jp/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/24/67/040010246712.html]]
+-[[アニメイト>>http://www.animate-onlineshop.jp/pn/%E3%80%90%E5%90%8C%E4%BA%BACD%E3%80%91%E3%81%AA%E3%82%93%E3%81%A8%E3%81%8B%E3%81%8B%E3%82%93%E3%81%A8%E3%81%8B/%E3%82%84%E3%81%97%E3%81%BE%E3%83%A6%E3%83%8B%E3%83%86/pd/1049315/]]
+-[[KarenT>>http://karent.jp/album/686]]
+
+**コメント
+//- いちコメげーっつ！！　なんとかPさんのCDなんて、僕のいる場所じゃめ  -- 烏龍  (2013-02-14 17:52:23)
+- 僕のいる場所では、なんとかPさんのCDなんて滅多に拝めないようなものだったので・・・。　中古で発見し、思わず衝動買いを・・・  -- 烏龍  (2013-02-14 17:56:11)
+#comment()

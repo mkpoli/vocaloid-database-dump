@@ -1,0 +1,27 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/24281114" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/24281114">曲</a></iframe>)
+
+**特徴
+-ボカロPとしてのデビュー作は「Fragment」。
+-以前はUTAUを使用した曲を3曲投稿していたが、今ではボカロの方がメインになりつつある。
+-使用ボカロはミク・ルカ。
+-UTAU使いとしてのyuk氏およびUTAUオリジナルは[[こちら>>http://www24.atwiki.jp/utauuuta/pages/1084.html]]へどうぞ。
+
+**リンク
+-[[ピアプロ>>http://piapro.jp/yuk777]]
+-[[Twitter>>http://twitter.com/yukitaka11]]
+
+**曲
+#list_by_tag(yuk,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(yukCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm12500269)|&nicovideo(http://www.nicovideo.jp/watch/sm12635644)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm13043163)|&nicovideo(http://www.nicovideo.jp/watch/sm13618307)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm13929891)|&nicovideo(http://www.nicovideo.jp/watch/sm14132649)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm15416330)|&nicovideo(http://www.nicovideo.jp/watch/sm15464807)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm15475144)|
+**コメント
+#comment()

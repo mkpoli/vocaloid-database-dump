@@ -1,0 +1,56 @@
+#right(){&furigana(おーるないとれれれでぃお) &furigana()【登録タグ:&tags() 】}
+
+//&ref(http://l3project.dotera.net/001.jpg)
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186109509.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[レン愛いたしませんかぁ！]]|CENTER:&bold(){オールナイト れれれでぃお！}|CENTER:[[も～っと！レン愛いたしませんかぁ！]]|
+
+|&bold(){[[れれれP]]}|
+
+||CENTER:即売|CENTER:同人|
+|発売|CENTER:2010年9月19日|CENTER:2010年9月20日|
+|価格|CENTER:￥1,300|CENTER:￥1,575（税込）|
+|サークル|CENTER:L3 Project|CENTER:れれれP|
+
+**CD紹介
+-[[れれれP]]が2010年9月、鏡音びより！にて頒布したボーカロイドCD。イベント頒布の後、とらのあなでの委託販売も行われている。
+-れれれPによるすべての発表曲に加え、未動画化曲3曲を追加した全24曲収録の2枚組ベストアルバム。
+
+**曲目
+-DISC1 -LEN SIDE-
++[[ボクとアリスのワンダーランド]]
++[[バカっ！]]
++れれれぼりゅーしょん21
++[[サマーグラフィティ]]
++[[ディスコティック★ラヴ]]
++[[One Promise]]
++[[With...]]
++[[ヘタ恋歌]]
++[[イケ恋歌]]
++[[ツンデ恋歌]]
++[[マセ恋歌]]
++[[ヤンデ恋歌]]
+-DISC2 -OTHERS SIDE-
++[[Lonely Runner]]
++ねこかぶりなぼくら
++[[MISSION_K]]
++[[La Fiesta]]
++[[スパゲティのうた]]
++メイズ
++[[春風恋慕]]
++[[NOSTALGIA>NOSTALGIA/れれれP]]
++[[セツナノヒカリ]]
++[[クリスマスプレゼント]]
++[[プラネアリウム]]
++パラレルパラノイア
+
+**リンク
+-[[「オールナイト れれれでぃお！」特設サイト>>http://l3project.dotera.net/]]
+-[[作者ブログ>>http://yaplog.jp/lelele-p/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/23/96/040010239600.html]]
+
+**コメント
+- DVDパッケージで驚いた...  -- 名無しさん  (2015-12-15 23:21:52)
+#comment()

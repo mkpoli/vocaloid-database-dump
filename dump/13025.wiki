@@ -1,0 +1,40 @@
+#right(){&furigana(うそつきのとなりで)&furigana()【登録タグ:&tags() 】}
+//#ref(http://img.toranoana.jp/popup_img/04/0010/25/08/040010250856-1p.jpg)
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186110198.jpg,x=300,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm12639726)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[a faker in my room]]|CENTER:&bold(){嘘吐きの隣で}|CENTER:[[可能性と未来の狭間に沈む]]|
+
+|&bold(){[[uzP]]}|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|CENTER:2010年11月14日|CENTER:2010年11月14日|
+|価格|CENTER:￥1,000（税込）|CENTER:￥1,470（税込）|
+|サークル|CENTER:Melancholy 2 U|CENTER:faker in my room|
+
+**CD紹介
+-uzPの3rdアルバム。
+-全11曲収録。
+-THE VOC@LOiD M@STER 14（ボーマス14）にてリリース。
+
+**曲目
++[[嘘吐きの隣で]]
++[[心の音]]
++[[Empty for us.]]
++[[ユメとカゲロウ]]
++[[君の花と雨、僕の声]]
++[[その色彩を]]
++月明かり
++[[君と世界をつなぐもの]]
++終わる世界と繋がる僕ら
++[[青い花]]
++[[ウソ]]
+
+**リンク
+-[[作者ホームページ>>http://uzyuji.web.fc2.com/index.html]]
+
+**コメント
+#comment()

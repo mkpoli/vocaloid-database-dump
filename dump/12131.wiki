@@ -1,0 +1,28 @@
+#right(){&furigana(かすくんP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/18578268" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/18578268">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-投稿者名は&b(){Kazkun}で、P名もそこからきている。
+-ポップス・バラードを中心に作品を発表している。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/kazkun_music]]
+-[[Twitter>>http://twitter.com/KAZKUNP]]
+
+**曲
+#list_by_tag(かずくんP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(かずくんPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm16772925)|&nicovideo(http://www.nicovideo.jp/watch/sm15604175)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm14959694)|&nicovideo(http://www.nicovideo.jp/watch/sm10981294)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm14905968)|&nicovideo(http://www.nicovideo.jp/watch/sm16166502)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm14313709)|&nicovideo(http://www.nicovideo.jp/watch/nm14188771)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm11551377)|&nicovideo(http://www.nicovideo.jp/watch/sm12414961)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm11940891)|&nicovideo(http://www.nicovideo.jp/watch/sm12027000)|
+
+**コメント
+- 曲・CDの項目はwiki内にページがあるものを表示してますので、手入力しないでください  -- 名無しさん  (2012-06-19 20:11:06)
+#comment()

@@ -1,0 +1,28 @@
+#right(){&furigana(みつばちP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/17369259" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/17369259">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-使用ボカロはミク・GUMI・ルカ。
+-以前は「poyotaso」という名前で活動していた。
+
+**リンク
+-[[ピアプロ>>http://piapro.jp/poyotaso]]
+-[[Twitter>>http://twitter.com/honey_syrup0704]]
+
+**曲
+#list_by_tag(ミツバチP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(ミツバチPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画（再生数が多い順に6つ）
+|&nicovideo(http://www.nicovideo.jp/watch/sm12001688)|&nicovideo(http://www.nicovideo.jp/watch/sm11607189)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9973787)|&nicovideo(http://www.nicovideo.jp/watch/sm11064455)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9988070)|&nicovideo(http://www.nicovideo.jp/watch/sm10932730)|
+
+**コメント
+- Lie Say楽しみにしてるんだ・・・。  -- 名無しさん  (2011-10-02 20:22:04)
+- SnowLandscapeの[雨のヨ  -- 名無しさん  (2011-12-03 04:51:34)
+- が良かったのでとんできました  -- 名無しさん  (2011-12-03 04:51:49)
+- 天才だけども埋もれている人。  -- 名無しさん  (2013-11-24 03:15:31)
+#comment()

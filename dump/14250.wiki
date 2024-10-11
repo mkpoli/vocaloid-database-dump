@@ -1,0 +1,59 @@
+#right(){&furigana(BLUEHOLYGROUND)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm13372880)|
+作詞：[[あルカP]]
+作曲：[[あルカP]]
+編曲：[[あルカP]]
+唄：[[GUMI>Megpoid]]
+
+**曲紹介
+曲名：『&u(){BLUE HOLYGROUND}』
+-「[[BLUE DOOR]]」の続編的世界観を持つ曲。
+
+**歌詞
+さあ目を開いて　耳を澄ませて
+いつか感じた感覚
+また逢えた事を　喜びながら
+君は青く染まりゆく
+
+この地球（ほし）に生まれたその訳と　ここにいる理由を
+知ってゆくだろう
+青くて不思議な夢の　続きを始めよう
+follow me　believe me
+
+触れ合った視線から　思い出して　私の事
+心がリンクしてる　愛と希望に見送られ
+
+大きく尊い球体の　片隅で響く唄
+
+I want to save this planet and want to tell this song.
+その小さな優しさは
+私の青さを　もっと綺麗に
+輝かせてくれるから
+
+一人ひとりに伝えていこう　この色の美しさ
+君も出来る事
+青くて不思議な夢は　まだ始まったばかり
+follow me　believe me
+
+共に飛んでる私は　君に生まれ変わるずっと前から
+この色を旅してる　愛と希望に見送られ
+
+大きく尊い球体の　泣き声を癒す唄
+
+I want to save this planet and want to tell this song.
+その小さな優しさで
+私の青さを　もっと綺麗に
+輝かせてほしいよ
+
+一人ひとりが伝えていこう　この色の美しさ
+君も出来る事
+青くて不思議な夢で　またいつか会いましょう
+follow you　believe you
+
+
+**コメント
+#comment()

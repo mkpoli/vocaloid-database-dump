@@ -1,0 +1,137 @@
+#right(){&furigana(おかめP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/20592625" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/20592625">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-2010年8月、「[[絆]]」にてボカロデビュー。
+-投稿者名は&b(){かるび太郎}。
+-P名の由来は、自身が心から愛した、今は亡きオカメインコの「ボタン」について歌った曲が多いことから。
+-作風は主にラウドロックで、内容的に暗いものが多い。
+-使用ボカロは今のところ、ミク・GUMI・IA・ルカ。
+-楽曲の投稿ペースはかなり速い部類に入る。
+-NNI やインスト曲も時々投稿している。
+
+**リンク
+-[[il cremonese（作者ホームページ）>>http://il-cremonese.net]]
+-[[il cremoneseのだらだらブログ（作者ブログ）>>http://blog.livedoor.jp/calvi1919/]]
+-[[PIAPRO>>http://piapro.jp/jmiki]]
+-[[Twitter>>http://twitter.com/okameP]]
+-[[YouTube>>http://www.youtube.com/user/calvitaro]]
+
+**曲
+#list_by_tag(オカメP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(オカメPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|>|BGCOLOR(#55aa80):COLOR(#FFF):CENTER:&font(b,11pt){オリジナル曲}|
+#region(close,2010年の動画)
+-2010年の動画
+|&nicovideo(http://www.nicovideo.jp/watch/nm11815912)|&nicovideo(http://www.nicovideo.jp/watch/nm11853592)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm11932000)|&nicovideo(http://www.nicovideo.jp/watch/sm11963748)|
+|&nicovideo(sm11991637)|&nicovideo(sm12066510)|
+|&nicovideo(sm12110899)|&nicovideo(sm12168291)|
+|&nicovideo(sm12234498)|&nicovideo(sm12243262)|
+|&nicovideo(sm12359845)|&nicovideo(sm12473798)|
+|&nicovideo(sm12547881)|&nicovideo(sm12799677)|
+|&nicovideo(sm13047988)||
+#endregion
+#region(close,2011年の動画)
+-2011年の動画
+|&nicovideo(sm13492952)|&nicovideo(sm13553180)|
+|&nicovideo(sm13699084)|&nicovideo(sm13717068)|
+|&nicovideo(sm13932904)|&nicovideo(sm13995170)|
+|&nicovideo(sm14172972)|&nicovideo(sm14212685)|
+|&nicovideo(sm14231338)|&nicovideo(sm14555353)|
+|&nicovideo(sm14620724)|&nicovideo(sm14961645)|
+|&nicovideo(sm15233239)|&nicovideo(sm15355090)|
+|&nicovideo(sm15610501)|&nicovideo(sm15651763)|
+|&nicovideo(sm16139986)|&nicovideo(sm16331456)|
+|&nicovideo(sm16417265)||
+#endregion
+#region(close,2012年の動画)
+-2012年の動画
+|&nicovideo(sm16691290)|&nicovideo(sm17058190)|
+|&nicovideo(sm17977573)|&nicovideo(sm18085611)|
+|&nicovideo(sm19094719)|&nicovideo(sm19101370)|
+|&nicovideo(sm19383001)|&nicovideo(sm19662553)|
+#endregion
+#region(close,2013年の動画)
+-2013年の動画
+|&nicovideo(sm19890646)|&nicovideo(sm20242991)|
+|&nicovideo(sm20305551)|&nicovideo(sm20395131)|
+|&nicovideo(sm20587030)|&nicovideo(sm20596677)|
+|&nicovideo(sm20636823)|&nicovideo(sm20653375)|
+|&nicovideo(sm21194124)|&nicovideo(sm21194170)|
+|&nicovideo(sm21576408)|&nicovideo(sm21893513)|
+|&nicovideo(sm21962371)|&nicovideo(sm22075192)|
+|&nicovideo(sm22281429)|&nicovideo(sm22387679)|
+|&nicovideo(sm22511964)||
+#endregion
+#region(close,2014年の動画)
+-2014年の動画
+|&nicovideo(sm22600393)|&nicovideo(sm22857332)|
+|&nicovideo(sm22886708)|&nicovideo(sm23012355)|
+|&nicovideo(sm23077041)|&nicovideo(sm23136157)|
+|&nicovideo(sm23187623)|&nicovideo(sm23459382)|
+|&nicovideo(sm23506511)|&nicovideo(sm23559071)|
+|&nicovideo(sm23867022)|&nicovideo(sm24150307)|
+|&nicovideo(sm24491814)|&nicovideo(sm24855368)|
+#endregion
+#region(close,2015年の動画)
+-2015年の動画
+|&nicovideo(sm25353466)|&nicovideo(sm25353402)|
+|&nicovideo(sm25541570)|&nicovideo(sm25764366)|
+|&nicovideo(sm25918733)|&nicovideo(sm25975936)|
+|&nicovideo(sm26020699)|&nicovideo(sm26152380)|
+|&nicovideo(sm26299189)|&nicovideo(sm26486987)|
+|&nicovideo(sm26514503)|&nicovideo(sm26553735)|
+|&nicovideo(sm26705704)|&nicovideo(sm26842437)|
+|&nicovideo(sm26907210)|&nicovideo(sm26946779)|
+|&nicovideo(sm27181392)|&nicovideo(sm27254100)|
+|&nicovideo(sm27553705)|&nicovideo(sm27853023)|
+#endregion
+#region(close,2016年の動画)
+-2016年の動画
+|&nicovideo(sm28000413)|&nicovideo(sm28045635)|
+|&nicovideo(sm28111761)|&nicovideo(sm28295537)|
+|&nicovideo(sm28337761)|&nicovideo(sm28373020)|
+|&nicovideo(sm28413551)|&nicovideo(sm28518186)|
+|&nicovideo(sm28702537)|&nicovideo(sm28702603)|
+|&nicovideo(sm28729895)|&nicovideo(sm28957390)|
+|&nicovideo(sm29055383)|&nicovideo(sm29145988)|
+|&nicovideo(sm29220034)|&nicovideo(sm29297448)|
+|&nicovideo(sm29412031)|&nicovideo(sm29506658)|
+|&nicovideo(sm29609359)|&nicovideo(sm29905804)|
+|&nicovideo(sm30082148)||
+#endregion
+
+**コメント
+//- １げと。
+- もっと評価されるべき・ω・  -- 名無しさん  (2011-08-18 17:08:12)
+- 音夏の味付けがすごく好み。  -- 名無しさん  (2011-11-30 01:02:56)
+- ボカロPのなかでこの人が一番ツボ曲が多い、サイコーです！！  -- Crow  (2011-12-17 19:14:40)
+- エモい。この手の曲で綺麗に歌わせることができる唯一の方だと思う。  -- 覚  (2012-02-19 08:04:11)
+- オカメPさん大好きです!!もっと評価されるべき。  -- 愛  (2012-04-21 01:24:28)
+- もっと評価されてほしい。切実に。  -- 名無し  (2012-05-09 13:15:42)
+- 流れるような初音ミクAppendの声と、それに似合わない激しいロックのギャップが大好きです。オカメP様、応援しています！  -- 雲来三琴  (2012-08-04 20:03:50)
+- オカメｐ大好き！  -- おまめぴりか＠ついったｗｗｗｗｗ  (2012-12-14 15:54:14)
+//私はオカメインコ買ってます！ドヤ！ちなみに私は９さいです！  -- おまめぴりか＠ついったｗｗｗｗｗ  (2012-12-14 15:54:14)
+- CD出たら欲しいです(*´ω｀*)  -- 名無しさん  (2013-11-07 23:42:55)
+- 1stアルバム希望  -- 名無しさん  (2013-11-17 23:50:14)
+- オカメPさんの曲大好きです！！  -- 名無しさん  (2013-11-17 23:51:54)
+- Ericaがお気に入り曲です  -- 名無しさん  (2013-11-17 23:53:42)
+- Ericaと幻想のリナリアが入ったCD欲しいな  -- 奏音  (2013-11-23 12:03:41)
+- p名言ってみろでp名光ってた  -- 全裸で踊る人  (2013-12-19 19:16:39)
+- ↑www 彼岸花の枯れる頃にが一番好きだな。  -- 紅  (2014-08-06 20:53:08)
+- カルミアの慟哭いいね。ハマりますた。  -- 名無しさん  (2015-10-30 16:27:13)
+- 後一曲で100曲になるぞ〜頑張れ‼️  -- 名無しさん  (2016-03-29 13:56:33)
+- ひょんなことからMy Way聴いてオカメＰ知ったけど、それ以来リピート止まらんですわ…  -- 5/10 yuuki  (2016-05-07 01:22:15)
+//- 前々から色々似てるなとは思ってたけど、春色セピアで完全にやらかしたな  -- 名無しさん  (2016-05-25 10:14:07)
+//- 春色セピアと酷似し過ぎ→matryoshka Monotonous Purgatory ttp://www.youtube.com/watch?v=RaVu3IxxavA  -- 名無しさん  (2016-05-25 10:15:31)
+- もっと評価されるべきですね！  -- 名無しさん  (2016-10-08 02:13:44)
+- 最近初めて知って毎日聴いてます。透明感のある歌声とへヴィーなサウンドの組み合わせが心地よくてクセになります。ハマりそうです。  -- 名無しさん  (2017-03-11 12:58:55)
+- ここまでEdelWeiss無しとは、、、  -- 名無しさん  (2017-03-23 12:56:24)
+- 「stay away from me」「花葬歌」「何故、世界は私を選んだのか」「Des melodies entrecroisees」がすごく良いです。  -- 名無しさん  (2017-03-25 00:12:41)
+- 最近知ったけどもっと伸びてほしい……  -- 名無しさん  (2017-09-17 15:46:31)
+#comment()

@@ -1,0 +1,45 @@
+#right(){&furigana(ほかろってなぁに) &furigana()【登録タグ:&tags() 】}
+//&ref(http://www.studiosatuki.com/guunone/img/gncd6.jpg)
+
+&ref(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS21zhnvENMj5OTYOuS-rpjE3j8rjxD5DE86H0PxK5EVqnlrh8D&usqp=CAU,width=250,height=250)
+
+&nicovideo(sm12642918)
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[バブルガムミミック！！]]|CENTER:&bold(){ぼかろってなぁに？}|CENTER:[[男の娘メモラブル>男の娘メモラブル/CD]]|
+
+|[[さつき が てんこもり]]|[[かめりあ]]|[[きくお]]|
+|[[ラマーズP]]|[[LOLI.COM]]|[[Easy Pop]]|
+
+||CENTER:即売|CENTER:同人|
+|発売|2010年10月31日|-|
+|価格|CENTER:￥1,000|CENTER:￥-|
+|サークル|>|CENTER:ぐうのねサウンズ|
+
+>ジャケットイラスト・デザイン：&bold(){[[しょくにく>>http://shokuniku.blog40.fc2.com/]]}
+
+**CD紹介
+-2010年を締めくくる、ぐうのねボーカロイドコンピCD第三弾
+
+**曲目
++かめりあ - [[お砂糖mogmog]]
++きくお - [[ボクを忘れた空想紀行]]
++LOLI.COM - [[想像上のバイドゥベーダー]]
++ラマーズP - [[欠点スプリクト]]
++さつき が てんこもり - [[ネトゲ廃人シュプレヒコール]]
++Easy Pop - [[チープタイムディスコ]]
++かめりあ - 微分積分いい気分
++ラマーズP - [[あなたにだかれたい]]
+
+**リンク
+-[[CD紹介>>http://www.studiosatuki.com/guunone/]]
+-[[クロスフェードデモ>>http://www.studiosatuki.com/guunone/naani_CF.mp3]]
+
+**コメント
+- 豪華なので楽しみ  -- 名無しさん  (2010-10-20 16:57:38)
+- そのCDって何処で買えるんですか?  -- 雫  (2010-11-21 23:09:31)
+- ここらへんでは売ってないorz  -- 名無しさん  (2011-01-15 11:01:26)
+- どれも好きだけど、きくおさんの曲が一番好きです  -- 名無しさん  (2011-03-02 20:07:41)
+- さつきさんときくおさんは元々同じサークルだったから仲いいんだろうな  -- 名無しさん  (2011-03-03 10:46:28)
+- すげーーーー  -- アニヲタ  (2012-11-12 20:00:28)
+- なにこれ欲しい!!  -- ぱみゅ  (2013-01-22 17:12:50)
+#comment()

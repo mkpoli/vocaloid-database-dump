@@ -1,0 +1,133 @@
+#right(){&furigana()&furigana()【登録タグ:&tags()】}
+|&nicovideo(http://www.nicovideo.jp/watch/sm13142213)|&youtube(http://www.youtube.com/watch?v=W2abhMCOaRE){330,247}|
+作詞：[[フナコシP]]
+作曲：[[フナコシP]]
+編曲：[[フナコシP]]
+唄：初音ミク
+
+**曲紹介
+-"つまらない男"を客観的な目線で描いた作品。
+-そんな男で大丈夫か？ではなく優しい歌のつもりデス（作者コメントより）
+-動画に表示されている英文は、歌詞を英訳したもの。
+-動画はとりっちょ氏が手掛けている。何から何まで。
+-KarenTレーベルよりダウンロード販売が行われている。ただし、作品名、曲名ともに『&bold(){Boringman DANCE}』と改題されている。
+
+**KarenT配信
+&ref(http://karent.jp/npdca/632_20110112210330_0240_0240.jpg)
+
+|CENTER:前作|CENTER:今作|CENTER:次作|
+|CENTER:[[なんて小粋な常套句]]|CENTER:&bold(){Boringman DANCE}|CENTER:[[想うの事]]|
+
+流通：配信
+発売：2011年2月2日
+価格：￥150
+レーベル：[[KarenT>>http://karent.jp/album/632]]
+ジャケットイラスト：[[フナコシ>フナコシP]]
+
+|&bold(){[[iTunes Storeで購入>>http://itunes.apple.com/jp/album/boring-man-dance-single/id416307903]]}|
+
+***曲目
++Boringman DANCE （feat. 初音ミク）
+
+
+**歌詞
+//（[[引用元のサイト>>引用元のURL]]より転載）
+This is…
+何度言えば伝わりますか
+理由なんて何も無いのに
+何所がいい？とか何度も訊く
+プライドの高いつまんない男
+
+しないでよ気にしないでよ
+ほら勉強とかなら出来るでしょ
+褒められないと不安なのなら
+私じゃない誰か選んでよ
+
+誘導的尋問
+欲しい言葉見え見えあざといね
+自信の有るふり疲れるよね
+口先だらけの寂しい男
+
+解ったよもう解ったよ
+その夢物語が凄いって事
+五月蠅いよでも五月蠅いよ
+壁に向かってでも話してろよ
+
+そんな事どうでもいいよ
+二人の時他愛のない話で埋め尽くして
+笑えればね　いいのにね
+
+存在大きく見せてても周りは解ってる
+皆がそれを言わないのは打算が働いてるからね
+
+もう剥がれてる　ほらばれている
+必死になって塗り固めたイメージは綻びていく
+私の微熱も下がっていく
+
+このまんま死んでもいいと思える程
+抱きあって心満たし合えれば良かったのにね
+
+良かったのに
+
+だからもう無理しなくていいよ
+だからもう無理しなくていい
+最初から自分の事信じててよ
+
+
+#region(対訳)
+
+これ…
+How many times do I need to explain my feelings to you?
+I don't have any meaning.
+What is my good point?
+You asked me the stupid questions.
+You are a man who doesn't have charm.
+
+No! Do not worry!
+Well. You can get good mark in your study, can't you?
+If you feel anxiety, when you are not praised by others.
+That is not my business. Please, ask other one.
+
+Induced questions.
+You want to be comforted by nice words, don't you?
+It's very disagreeable!
+It is tough work to pretend that
+you have perfect confidence in your ability, isn't it?
+Glib & lonely a man. Yo, man!
+
+Understand!
+I understood that your fantastic dream story is wonderful.
+Shut up! Shut up!
+Speak to a wall! Yo, man!
+
+What you want is not useful for me.
+I want to enjoy time we are talking trivial story triflingly.
+
+I hope that.
+
+People know you, even though you pretend you are great parson.
+The reason why people don't say anything is
+because they know what you want to be said.
+
+Come off your inside. Come out your inside.
+Image of you which you have build up your self are coming apart.
+My slight fever is cooling down.
+
+I wished that we holding each other,
+love each other until we think we ca die together.
+
+I hoped...
+
+So, you don't need to pretend as good parson yourself.
+You don't need build good image of you.
+Believe yourself from the beginning.
+#endregion
+
+
+**関連動画
+&nicovideo(http://www.nicovideo.jp/watch/sm13321977)
+
+**コメント
+- センスが好きかも  -- 名無しさん  (2011-07-21 13:33:52)
+- いーよね！  -- RinRin  (2011-08-03 05:39:10)
+#comment()

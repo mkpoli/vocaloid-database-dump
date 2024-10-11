@@ -1,0 +1,51 @@
+#right(){&furigana(TheGrooviestGirlInTheWorld)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm12420364)|
+作詞：[[あつぞうくん]]
+作曲：[[あつぞうくん]]
+編曲：[[あつぞうくん]]
+イラスト：[[阿部]]
+唄：[[初音ミク]]
+
+**曲紹介
+曲名：『&u(){The Grooviest Girl In The World}』
+-世界一かっこいい女の子の物語。過去曲を発掘してきました。（動画説明文より転載）
+-過去の曲をミクでカバーした。
+//-イラストは 阿部氏 の描き下ろし。
+-「第2回 Project DIVA Arcade 楽曲募集キャンペーン」への応募曲。
+
+**歌詞
+世界のすべては今回ってる
+どんな時も私だけ見ててね
+
+このまま朝が来る前に
+連れ出して DJ!
+
+（1! 2!）
+
+grooviest girl yeah! grooviest girl
+grooviest girl yeah! grooviest girl
+星は瞬いて地球も回る
+いつでも世界はターンテーブル
+
+回り続けてるパーティ　真夜中に
+未来展望なんてまだ無いけど
+
+いますぐその手を伸ばして
+抱きしめて DJ!
+
+（1! 2!）
+
+grooviest girl yeah! grooviest girl
+grooviest girl yeah! grooviest girl
+星は瞬いて地球も回る
+いつでも世界はターンテーブル
+
+grooviest girl
+
+
+**コメント
+#comment()

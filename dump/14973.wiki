@@ -1,0 +1,35 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/752_20110606232642_0240_0240.jpg)
+&nicovideo(http://www.nicovideo.jp/watch/sm13867956)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[やしまユニテ]]|CENTER:&bold(){Smile Knight EP}|CENTER:[[審問少女 VS 青春の殺人者 EP]]|
+
+|&bold(){[[kiichi（なんとかP）]]}|
+
+|流通|CENTER:即売|CENTER:委託|CENTER:配信|
+|発売|CENTER:2011年3月27日|CENTER:2011年4月|CENTER:2011年6月22日|
+|価格|CENTER:￥500|CENTER:￥750|CENTER:￥600 / 1曲￥150|
+|サークル|>|CENTER:なんとかかんとか||
+
+**CD紹介
+-&b(){なんとかP}こと&b(){kiichi}の1stミニアルバム。
+-THE VOCALOID PARADISE 5（ボーパラ5）で頒布。
+-とらのあなで委託販売が、KarenTレーベルよりダウンロード販売が行われている。
+-売り上げの一部は東日本大震災の復興支援にあてられる。
+
+**曲目
++かげろう / 初音ミク vivid
++knight of the living dead / 鏡音レン Act.1
++[[キツネ目のあの子]] / 鏡音リン sweet
++現実主義者、及びわたしっぽい誰か / 初音ミク vivid
++笑顔までもう少し / 巡音ルカ
++knossos(inst)
+
+**リンク
+-[[作者のブログ>>http://kiiichi.blog.shinobi.jp/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0020/00/53/040020005318.html]]
+-[[KarenT：「Smile Knight EP」>>http://karent.jp/album/752]]
+
+**コメント
+#comment()

@@ -1,0 +1,75 @@
+#right(){&furigana(しんせいP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/12327749" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/12327749">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-投稿者名は&b(){御魚}。
+--P名の由来は、1作目「[[人生げぇむ]]」というタイトルから。
+---実はそれ以前に「アイ愛アニキ」という曲を投稿しているのだが、&br()これが1作目とされていないのは作者にとって黒歴史だったからかもしれない。それもまた人生。
+-使用VOCALOIDは巡音ルカ・GUMI・猫村いろは・flower。
+-テクノ系の楽曲が主である。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/giyo]]
+-[[twitter>>https://twitter.com/osakanajinsei]]
+
+**曲
+#list_by_tag(人生P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(人生PCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+#region(close,2010年)
+|&nicovideo(http://www.nicovideo.jp/watch/sm6916655)|&nicovideo(http://www.nicovideo.jp/watch/nm8460033)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm8403328)|&nicovideo(http://www.nicovideo.jp/watch/nm9027892)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm9177340)|&nicovideo(http://www.nicovideo.jp/watch/nm10187405)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm10522816)|&nicovideo(http://www.nicovideo.jp/watch/nm10624153)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm11044104)|&nicovideo(http://www.nicovideo.jp/watch/nm11236989)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm11237058)|&nicovideo(http://www.nicovideo.jp/watch/nm11953881)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm12443412)|&nicovideo(http://www.nicovideo.jp/watch/nm12591955)||
+#endregion
+#region(close,2011年)
+|&nicovideo(http://www.nicovideo.jp/watch/nm13603769)|&nicovideo(http://www.nicovideo.jp/watch/nm14585967)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm14739136)|&nicovideo(http://www.nicovideo.jp/watch/nm14891047)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm14992632)|&nicovideo(http://www.nicovideo.jp/watch/nm15177572)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm15525692)|&nicovideo(http://www.nicovideo.jp/watch/nm16327955)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm16336948)|&nicovideo(http://www.nicovideo.jp/watch/nm16337140)|
+#endregion
+#region(close,2012年～2013年)
+|&nicovideo(http://www.nicovideo.jp/watch/nm16984304)|&nicovideo(sm18245909)|
+|&nicovideo(sm18245979)|&nicovideo(sm18310592)|
+|&nicovideo(sm18891649)|&nicovideo(sm18942072)|
+|&nicovideo(sm18991019)||&nicovideo(sm20890741)|
+|&nicovideo(sm21047678)|&nicovideo(sm21418549)|
+|&nicovideo(sm21725323)|&nicovideo(sm21926874)|
+#endregion
+#region(close,2014年～2015年)
+|&nicovideo(sm23110963)|&nicovideo(sm23162921)|
+|&nicovideo(sm24170562)|&nicovideo(sm24383337)|
+|&nicovideo(sm25812863)|&nicovideo(sm25906196)|
+|&nicovideo(sm25906259)|&nicovideo(sm26607416)|
+|&nicovideo(sm27109452)||
+#endregion
+#region(close,2016年～2017年)
+|&nicovideo(sm28190852)|&nicovideo(sm28243299)|
+|&nicovideo(sm28572287)|&nicovideo(sm29534428)|
+|&nicovideo(sm30946595)|&nicovideo(sm31903929)|
+|&nicovideo(sm32115118)||
+#endregion
+
+|&nicovideo(sm32660357)|&nicovideo(sm33564508)|
+|&nicovideo(sm34604506)|&nicovideo(sm36338140)|
+|&nicovideo(sm38129539)||
+
+**コメント
+- 人生げぇむ、原曲もアレンジも好きだぁあ！！！人生Ｐ大好き！  -- 名無しさん  (2011-04-24 21:59:56)
+- タイム・ラグが一番好きなのにここにないなんて・・・！！  -- 名無しさん  (2011-06-05 10:47:33)
+- 人生Pやばいｗｗ好きすぎるｗｗｗ  -- 名無しさん  (2011-08-07 13:57:38)
+- コンセントガールも…  -- 名無しさん  (2011-09-23 15:45:46)
+- ↑×1　歌詞ありますよ。　　↑×3　追加しました。  -- 匿名★  (2011-10-11 13:22:14)
+- あっかいまっかな金魚にハマりました  テクノ系なのも良いしホラー系なのも良いし人生Pはすごいです  -- 名無しさん  (2014-02-04 00:56:40)
+- 新曲やばい  -- 名無しさん  (2014-04-02 15:44:35)
+- 比翼とセーラー服が～…めっちゃ良かった！人生Pのいろはほんとに好き  -- 名無しさん  (2015-08-11 02:57:08)
+- 比翼！！pilot blue 大好…好き  -- 名無しさん  (2016-02-23 03:14:09)
+- パイロットブルー追加しました  問題がありましたら削除依頼お願いします  -- 名無しさん  (2016-07-07 16:45:28)
+#comment()

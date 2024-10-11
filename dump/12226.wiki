@@ -1,0 +1,13 @@
+#right(){【登録タグ:&tags()】}
+//↑タグ忘れ防止のための表示
+曖昧さ回避のためのページ
+----
+-[[喜兵衛]]の曲
+--[[starlet/喜兵衛]]
+-[[hayashi]]の曲
+--[[starlet/hayashi]]
+
+
+-[[otetsu]]のCD
+--[[STARLET/CD]]
+#include(曖昧さ回避の追加の仕方/告知)

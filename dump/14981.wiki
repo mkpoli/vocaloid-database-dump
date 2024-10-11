@@ -1,0 +1,47 @@
+#right(){&furigana(じてんしゃとすけっちぶっく) &furigana()【登録タグ:&tags() 】}
+&ref(689_20110328005345_0709_0709.jpg,,height=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm13942367)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[畦道を行こう]]|CENTER:&bold(){自転車とスケッチブック}|CENTER:[[灰色の宝石>灰色の宝石/CD]]|
+
+|&bold(){[[BIRUGE>コモレビノーツ]]}|
+
+|流通|CENTER:即売|CENTER:同人|CENTER:配信|
+|発売|CENTER:2011年3月27日|>|CENTER:2011年4月13日|
+|価格|CENTER:￥1,000|CENTER:￥1,470（税込）|CENTER:￥1,200 / 1曲￥150|
+|サークル|>|>|CENTER:Cookie|
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/id431049572]]}|
+
+**CD紹介
+>「描いてきた想い出は、今何ページ？」
+>
+>スケッチブックに散りばめられた絵のように、色とりどりの曲を詰めてみました。
+>前作よりも少し成長したBIRUGEの集大成です。いつもどおりの垢抜けなさに、いつも以上の爽やかさを上乗せしました。
+
+-BIRUGE氏の3枚目となるCDアルバム。
+-ジャケットイラストはヤ子氏。
+-VOCALOID PARADISE 5（ボーパラ5）で頒布。
+-メロンブックスで委託販売中。また、KarenTレーベルよりダウンロード販売も行われている。
+
+**曲目
++Ivory Days
++[[最高少年]]
++残像アーチ
++彷徨う夜鷹は真夜中を叫ぶ
++[[ラウンドロビン]]
++[[Drowned Sunday]]
++春風と寄り道
++夢九鳥時計
++[[Carbuncle]]
++[[自転車とスケッチブック]]
+
+**リンク
+-[[Cookie（作者サイト）>>http://cookie.cosa-cosa.com/index.php]]
+-[[メロンブックス>>http://shop.melonbooks.co.jp/shop/list/MF/Cookie]]
+-[[KarenT>>http://karent.jp/album/689]]
+
+**コメント
+#comment()

@@ -1,0 +1,70 @@
+#right(){&furigana(させつP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/7578367" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/7578367">【ニコニコ動画】製作物一覧</a></iframe>)
+
+**特徴
+作り手名：『&u(){挫折P}』（&u(){ざせつP}）
+-アーティスト名は&b(){でか大}。
+-2010年6月、「[[冬の魔法]]」にてボカロPデビュー。
+-使用合成音声は初音ミク、鏡音レン、鏡音リン、GUMI、KAITO…。
+-ボカロ作品を投稿する以前から、一般流通しているCDの作曲やアレンジなども担当している。
+-P名の由来は、デビュー作である「[[冬の魔法>冬の魔法/挫折P]]」の途中で、「動画力尽きました」と言って静止画と音声だけになってしまったことから。
+-挫折したのは動画制作であって、作曲で挫折したわけではない。
+-ややアップテンポながらも落ち着きのある音使いのウィンターソングを思わせるような曲が多いが、投稿は季節によらず行っている。
+-そのP名に似合わず、視聴者からの指摘に応じて、再調整をやり遂げることもある。しかし、2作目以降の動画は基本的に紙芝居方式である。
+-遂に、「[[存在証明>存在証明/挫折P]]」にて初の殿堂入りを達成。
+
+**リンク
+//-[[でか大・ドット・ネット　～DekaDai.net～（作者ホームページ）>>http://dekadai.net/]]※閉鎖済み。
+//-[[でか大の戯言ブログ（作者ブログ）>>http://blog.dekadai.net/]]
+-[[ニコニコ>>https://www.nicovideo.jp/user/1855189]]
+-[[YouTube>>https://www.youtube.com/channel/UCBBmqKXOHvJ37zDVOSXWgcw]]
+-[[ピアプロ>>https://piapro.jp/dekadai]]
+-[[Twitter>>https://twitter.com/dekadai/]]
+
+**曲
+#list_by_tagsearch(挫折P,sort=furigana2,errmsg=まだ曲が登録されていません。,and,100)
+
+**CD
+#list_by_tagsearch(挫折PCD,sort=furigana2,errmsg=まだCDが登録されていません。,and,100)
+
+**動画
+|&nicovideo(sm3715513)|&nicovideo(sm4092160)|
+|&nicovideo(sm7036254)|&nicovideo(sm8554832)|
+|&nicovideo(sm8596855)|&nicovideo(sm8663563)|
+|&nicovideo(sm9104142)|&nicovideo(sm9874277)|
+|&nicovideo(sm10447978)|&nicovideo(sm11198905)|
+|&nicovideo(sm11624784)|&nicovideo(nm11727043)|
+|&nicovideo(sm12013349)|&nicovideo(sm12392829)|
+|&nicovideo(sm13100960)|&nicovideo(sm13523805)|
+|&nicovideo(sm13856342)|&nicovideo(sm14660268)|
+|&nicovideo(sm15251875)|&nicovideo(sm15450735)|
+|&nicovideo(sm15781310)|&nicovideo(sm18265121)|
+|&nicovideo(sm19201391)|&nicovideo(sm20798496)|
+|&nicovideo(so21228932)|&nicovideo(sm22205178)|
+|&nicovideo(sm25853414)|&nicovideo(sm35021517)|
+|&nicovideo(sm38628304)|&nicovideo(sm40347873)|
+|&nicovideo(sm40347904)|&nicovideo(sm42688148)|
+|&nicovideo(sm44040446)|>|
+//|&nicovideo()|&nicovideo()|
+
+**関連タグ内の更新履歴
+#region(close,関連タグ内の更新履歴)
+関連タグ内の更新履歴
+※「挫折P」「挫折PCD」タグ内で最近編集やコメントのあった記事を新しい方から10件表示しています。
+#list_by_tagsearch(挫折P,挫折PCD,sort=timestamp,sort2=desc,errmsg=まだ曲、CDが登録されていません。,or,10)
+#endregion
+
+**コメント
+- この人の曲は心にグッとくるものがある。  -- mizuki  (2010-11-23 23:40:49)
+- 俺もそう思う。特に存在証明が良い(^-^)/  -- kenta  (2011-02-20 09:15:18)
+- ↑同意。 存在証明で挫折Ｐを知ってからはずっとすきだ  -- 名無しさん  (2011-05-04 15:00:43)
+- 私も存在証明で知りました。大好きです  -- 名無しさん  (2012-12-01 19:32:36)
+- 金色オルカ大好きです  -- 名無しさん  (2012-12-31 01:47:04)
+- ↑同感、金色オルカは超名曲。泣かない人は居ないと思う。  -- バスタオル必要かも  (2013-01-30 13:32:25)
+- 頼むから帰ってきてくれ・・・  -- zzz  (2013-10-16 19:08:41)
+//- やっぱり百歌繚乱は追加されてないか…  -- 名無しさん  (2013-11-11 13:49:50)
+#comment()

@@ -1,0 +1,33 @@
+#right(){&furigana(ぬくもりP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+//&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/2455666" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/2455666">【ニコニコ動画】</a></iframe>)
+
+**特徴
+作り手名：『&u(){ぬくもりP}』
+-通称、SilverWolf。代表作「[[きみの体温（ぬくもり）]]」がP名の由来。
+-制作ペースが遅いため作品数は少ないが、主にミク曲を投稿している。
+-ピアノ1本のシンプルな曲調が特徴。
+-最近は&s(){[[歌ってみた>>https://www.nicovideo.jp/mylist/6548989]]}の歌手としても活動している模様。
+
+//**リンク
+//-[[piece of sound – オトノカケラ（作者ブログ）>>http://pieceofsound.ddo.jp/]]
+//-[[Twitter>>https://twitter.com/nyakumorip]]
+
+**曲
+#list_by_tag(ぬくもりP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(ぬくもりPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm1030224)|&nicovideo(sm1460957)|
+|&nicovideo(sm2743106)|&nicovideo(sm5733227)|
+
+**コメント
+- 沢山の人に ぬくもりPさんのこと知って欲しい...。  -- 名無しさん  (2012-05-19 21:05:22)
+- ボカロのPさんの中でぬくもりさんが1番好きです(*^_^*）  -- にゃ-＊＊  (2012-06-26 21:33:17)
+- 大好きなＰさんです。　もっと沢山の人に知ってもらいたい！  -- ぷぷぷ  (2012-09-09 21:30:35)
+#comment()

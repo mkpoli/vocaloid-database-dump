@@ -1,0 +1,31 @@
+#right(){&furigana(りんく)&furigana()【登録タグ:&tags() 】}
+|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/25190622" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/25190622">【ニコニコ動画】</a></iframe>)|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/17927460" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/17927460">【ニコニコ動画】</a></iframe>)|
+|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/15892284" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/15892284">【ニコニコ動画】</a></iframe>)|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/16113725" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/16113725">【ニコニコ動画】</a></iframe>)|
+|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/22640590" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/22640590">【ニコニコ動画】</a></iframe>)|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/21684701" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/21684701">【ニコニコ動画】</a></iframe>)|
+
+**特徴
+-HNの読み方は「リンク」。&b(){管理世界P}というP名もある。
+-2009年10月まで&bold(){[[水城時計]]}名義で活動していた。
+-作詞・作曲だけでなく絵も時々自前。この作者の曲は好みが分かれるところ。歌詞はホラー系が多い模様。
+-少し後になってから水城時計時代に投稿していた時計屋シリーズを全て再うpした。興味のある方はどうぞ。
+-時計屋シリーズの中には水城時計時代にはなかったものもある。
+-他にも&b(){白英⇒Shiro_azusa}（読み：しろあずさ）や&b(){JewelerPROJECT}という名義もある。
+
+**リンク
+-[[ピアプロ>>http://piapro.jp/clown_joker1229]]
+-[[YouTube>>http://www.youtube.com/user/poponeko0919]] (過去の作品がアップロードされています)
+
+**曲
+#list_by_tag(凛9,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm8745909)|&nicovideo(http://www.nicovideo.jp/watch/sm10649326)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm10649396)|&nicovideo(http://www.nicovideo.jp/watch/sm10649445)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm10649496)|&nicovideo(http://www.nicovideo.jp/watch/sm10905330)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm11288774)|&nicovideo(http://www.nicovideo.jp/watch/sm11537352)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm11702896)|&nicovideo(http://www.nicovideo.jp/watch/sm12057563)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12577955)|&nicovideo(http://www.nicovideo.jp/watch/sm12774790)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12899479)|&nicovideo(http://www.nicovideo.jp/watch/sm12957665)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm13235393)|&nicovideo(http://www.nicovideo.jp/watch/sm13445378)|
+
+&bold(){コメント欄は封鎖します。現時点で再開の予定はありません。}

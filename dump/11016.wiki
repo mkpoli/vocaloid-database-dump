@@ -1,0 +1,83 @@
+#right(){&furigana(feelingagain)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo(http://www.nicovideo.jp/watch/nm8146928)
+作詞：[[U-SUKE]]
+作曲：[[U-ji]]
+編曲：[[U-ji]]
+イラスト：[[ざわわ]]（[[PIAPRO>>https://piapro.jp/m0chi_m0chi]]）・[[こし餡]]（[[PIAPRO>>https://piapro.jp/kotao]]）・[[秋ぎつね]]（[[Pixiv>>https://www.pixiv.net/users/16545]]）・[[出雲こなた]]（[[Pixiv>>https://www.pixiv.net/users/285161]]）・[[サルミ次郎]]・[[NAKE]]（[[Pixiv>>https://www.pixiv.net/users/273257]]）
+//（[[Pixiv>>https://www.pixiv.net/users/571969]]）
+唄：[[神威がくぽ>がくっぽいど]]
+
+**曲紹介
+>久々にがくっぽいどで曲を作ってみました。
+>&bold(){そして、ものまね[[nm4301230>>https://sp.nicovideo.jp/watch/nm4301230]]のノウハウを駆使してラップに挑戦してみました。}
+曲名：『&u(){feeling again}』(&u(){フィーリング アゲイン})
+-PVイラストはpiaproより『[[plugfree>>https://piapro.jp/t/ZibH]]/ざわわ』、『[[【神威がくぽ】無>>https://piapro.jp/t/D6pP]]/こし餡』、pixivより『[[風景・南の海>>https://www.pixiv.net/artworks/116114]]/秋ぎつね』、『[[秋空-あきぞら->>https://www.pixiv.net/artworks/1608279]]/出雲こなた』、『荒野にたたずむ人/サルミ次郎』、『[[紅葉>>https://www.pixiv.net/artworks/2396687]]/NAKE』。
+
+**歌詞
+（[[ピアプロ>>http://piapro.jp/content/tk4q98ev8d6v3x6y]]より転載）
+
+※
+　絡めた指先の
+　感触が離れない
+　今でも君の声
+　遠く記憶をかすめる
+　どんなにも
+　強く抱きしめたくても
+　ここにはもういないMemory
+
+季節の移り変わりを
+君と共に過ごしたかった
+半袖のシャツだけじゃ
+肌寒くてせつなさ増す
+
+ラップ
+　誰もいない夕暮れの海岸
+　君を思い出し一人で歩く
+　ふと立ち止まって
+　その場にしゃがみこんで
+　ただ打ち寄せる波を見ながら
+　やり直したい
+　そんなセリフ頭よぎる
+　現実的には１００％無理
+　離れないよと誓ったあの時
+　戻せない過去に後悔
+
+☆
+　崩れる 時の砂
+　どんなに拾っても
+　いまさら君がすぐ
+　戻ってくるはずもなく
+　こんなにも
+　一人淋しい夜が
+　時の経つのが遅い For Tonight
+
+ゆっくりと太陽が昇り
+無機質な部屋照らし始める
+一人きりのこの部屋は
+広く見えてせつなさ増す
+
+ラップ
+　二人微笑む思い出の写真
+　目に入らぬようにカタンっと伏せて
+　すぐさま一人ベットに潜る
+　だけどしっくりこないんだ
+　なぜなら君が隣にいない
+　手を伸ばす1人分のスペース…
+　そんな広いベッドで
+　心を癒す温もり探し求める
+
+※繰り返し
+
+Uhhh...
+I feelin' again...
+
+☆繰り返し
+
+※繰り返し
+
+**コメント
+#comment()

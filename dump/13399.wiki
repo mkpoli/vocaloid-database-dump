@@ -1,0 +1,38 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/10355555" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/10355555">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-使用するボーカロイドは、初音ミク、猫村いろは、蒼姫ラピス。
+-ジャズやバラードを中心とした曲を手掛けている。
+-変拍子を多用し、技巧的で斬新、しかし心地の良い丁寧な音作りと繊細な調声に定評がある。
+-アレンジ曲やNNIオリジナル曲等も投稿しており、活動が幅広く、今後の活躍が期待される作り手の一人。
+-ちなみに、Wato氏のピアノは全て打ち込みである。
+-[[HoneyWorks]]のオリジナル曲「[[初恋の絵本]]」や「[[ヤキモチの答え]]」のピアノもWato氏が担当している。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/wato_d]]
+-[[KarenT>>http://karent.jp/artist/pp000268]]
+-[[Twitter>>http://twitter.com/wato_d]]
+
+**曲
+#list_by_tag(Wato,100,sort=furigana,errmsg=)
+
+**CD
+#list_by_tag(WatoCD,100,sort=furigana,errmsg=)
+
+**動画
+|>|BGCOLOR(lightblue):COLOR(#FFF):CENTER:&font(b,11pt){オリジナル曲}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6406885)|&nicovideo(http://www.nicovideo.jp/watch/sm8660210)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9028247)|&nicovideo(http://www.nicovideo.jp/watch/sm10326088)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm13272434)|&nicovideo(http://www.nicovideo.jp/watch/sm19604188)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm19921467)||
+
+**コメント
+- この人は天才  -- 名無しさん  (2011-07-10 01:27:38)
+- なぜ評価されない  -- 名無しさん  (2012-01-22 20:43:12)
+- いま高校二年生なんだね・・・すげえ  -- っっ  (2012-06-03 08:06:14)
+- ↑えっ!?? 高校2年生っ!!?  すっげぇ-!!!＊＊  -- よよよ  (2012-06-22 20:44:57)
+- 神です!!素敵な曲をありがとう!!聞くたびに涙が止まりません。  -- 名無しさん  (2012-08-04 22:52:38)
+- あなたの作る歌はとてもきれいで心が落ち着きます。これからも頑張って下さい。  -- 名無しさん  (2013-01-27 16:17:40)
+- 間奏のピアノなどは神の領域  -- 名無しさん  (2017-06-20 22:57:57)
+#comment()

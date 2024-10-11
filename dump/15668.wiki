@@ -1,0 +1,38 @@
+#right(){&furigana(MSR)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/14608521" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/14608521">【ニコニコ動画】</a></iframe>)
+
+**特徴
+作り手名：『&u(){MSR}』(&u(){えむえすあーる})
+-2009年9月、「[[CHAIN>CHAIN/MSR]]」でボカロデビューしたロック系の作り手。
+-使用ボカロはミク・GUMI・いろは。
+-「もっと評価されるべき」タグの付いた、隠れた名曲が多い。
+-デビュー当初は おさる と名乗っていたが MSR へと名義を変えた。
+-ベーシストなので、他のボカロP楽曲の演奏によく参加している。
+
+**リンク
+-[[MSRのあれこれ（作者ブログ）>>http://masarucha7.tumblr.com/]]
+-[[PIAPRO>>http://piapro.jp/masarucha7]]
+-[[Twitter>>http://twitter.com/masarucha7]]
+
+**曲
+#list_by_tagsearch(MSR,sort=furigana2,errmsg=まだ曲が登録されていません。,and,100)
+
+**CD
+#list_by_tagsearch(MSRCD,sort=furigana2,errmsg=まだCDが登録されていません。,and,100)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm8223653)|&nicovideo(http://www.nicovideo.jp/watch/sm8565086)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9088265)|&nicovideo(http://www.nicovideo.jp/watch/sm10199443)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm11824559)|&nicovideo(http://www.nicovideo.jp/watch/sm12466191)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12533181)|&nicovideo(http://www.nicovideo.jp/watch/sm12651060)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm13886321)|&nicovideo(http://www.nicovideo.jp/watch/sm16381255)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm16406184)|&nicovideo(http://www.nicovideo.jp/watch/sm17272485)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm17548282)|&nicovideo(http://www.nicovideo.jp/watch/sm18284649)|
+
+**コメント
+- なんか記事制作されてない曲多い?  -- 名無しさん  (2013-07-22 17:47:04)
+#comment()

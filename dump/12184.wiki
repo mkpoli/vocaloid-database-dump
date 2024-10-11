@@ -1,0 +1,44 @@
+#right(){【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm7975935)
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&b(){1st Album(エリマキトカゲ盤)}|CENTER:[[2nd Album(ウーパールーパー盤)]]|
+
+|&bold(){[[ヒーリングP]]}|
+
+||CENTER:即売|CENTER:同人|
+|発売|CENTER:2009年9月6日|CENTER:-|
+|価格|CENTER:￥-|CENTER:￥-|
+|サークル|>|CENTER:部屋とYシャツと俺とお前と大五郎とヒーリングとチキンカツ|
+
+>作詞・作曲：&b(){[[ヒーリングP]]}
+>ジャケットイラスト：&b(){[[097(オグナ)>>http://www.nicovideo.jp/mylist/10699852]]}
+
+**CD紹介
+-THE VOC@LOID M@STER 9（ボーマス9）で頒布される。
+-正式なタイトルは存在せず、「エリマキトカゲ盤」はあくまで本人により設定された通称。
+
+**曲目
++植物(新曲)
++[[eat me>eat me/ヒーリングP]]
++[[パーティ・パーティ]]
++[[キセイノウタ]]
++[[DentHealth]]
++GET READY・・・(ネット未公開曲)
++[[SENTIMENT]]
++[[足の裏]](新曲)
++今日は[inst.](新曲)
++[[昨日は…]]
++[[サティスファクション>サティスファクション/ヒーリングP]]
++[[友部駅]]
++[[死んだ蟷螂]]
++[[The vision of the pigeon]](新曲)
++[[月の光の音]]
++[[受精]]
+
+**リンク
+-[[特設ブログ>>http://blog.livedoor.jp/hirikatsu/]]
+-[[作者ブログ>>http://rrrakr.blog50.fc2.com/blog-entry-222.html]]
+-[[通販ページ>>http://rrrhealing.cart.fc2.com/]]
+
+**コメント
+#comment

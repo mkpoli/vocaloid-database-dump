@@ -1,0 +1,31 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){heartful wonderland}|CENTER:[[REMNANT EP]]|
+
+|&bold(){[[udonzky]]}|
+
+発売：2010年5月9日
+価格：￥1,050（税込）
+流通：即売or同人
+サークル：NANO WONDERLAND OF GIRLS
+
+**CD紹介
+-ピアプロ内コラボ【NANO WONDERLAND OF GIRLS】による1st Album
+
+**曲目
++[[Into Your Nano Wonderland]]
++[[Lose my brightness>Lose my brightness]]
++[[ΠΛΑΝΗΤΗΣ -The Stella Seaker->ΠΛΑΝΗΤΗΣ -The Stella Seaker-]]
++[[Gunpowder in the sky]]
++[[スターフライト>スターフライト]]
++[[心音＜nano mix＞>ココロネ-心音-]]
++[[イマフレルセカイ]]
++[[8color's rainbow]]
+
+**リンク
+-[[作者ホームページ>>http://udonzky.blog14.fc2.com/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/22/58/040010225851.html]]
+-[[D-STAGE>>http://d-stage.com/shop/detail.php?seq=17731]]
+
+**コメント
+#comment()

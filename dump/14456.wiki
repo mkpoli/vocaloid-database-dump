@@ -1,0 +1,27 @@
+#right(){&furigana(どうけしP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/15300550" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/15300550">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-2009年10月17日公開の『artificial sky』でニコニコ動画にデビューした。メグッポイド、初音ミクを使用。
+-5作目となる『[[道化師の唄]]』は民族調の旋律に乗せて、道化師の姿に隠された切ない愛の姿を表現した作品。この曲でP名が付いた。
+-ただ、道化師の唄につながるメロディーラインの萌芽は、2作目の『Dolore』で既に現れている。
+-一方ではピアノの伴奏が美しい『遺失MEMORIA』のような作品もあり、幅広い創作活動が楽しみなPの一人である。
+
+**リンク
+-[[ピアプロ>>http://piapro.jp/sgelo]]
+
+**曲
+#list_by_tag(道化師P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+//**CD
+//#list_by_tag(道化師PCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm8532573)|&nicovideo(http://www.nicovideo.jp/watch/sm8731547)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9439842)|&nicovideo(http://www.nicovideo.jp/watch/sm9621432)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9825021)|&nicovideo(http://www.nicovideo.jp/watch/sm10230356)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm11928642)|&nicovideo(http://www.nicovideo.jp/watch/sm12796937)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm13557482)||
+
+**コメント
+#comment()

@@ -1,0 +1,59 @@
+#right(){&furigana() &furigana()【登録タグ:&tags()】}
+|&nicovideo(http://www.nicovideo.jp/watch/nm12068438)|&youtube(http://www.youtube.com/watch?v=lJml0oTFaO8){330,247}|
+作詞：[[かなき]]
+作曲：[[saculy]]
+編曲：[[saculy]]
+唄：初音ミク・GUMI
+
+**曲紹介
+>&bold(){それでも、誰よりも信じてる。}
+-一旦保留P こと saculy氏 のボカロデビュー作。
+-GUMIKU物語「こころノック物語」の第1章。
+-ネットをやってる人、特にピアプロでこうしてメッセージをやりとりしている僕らみんなが共感できるような内容だと思います。（作者コメ転載）
+-ピアプロで歌詞を公募した結果、 かなき氏 の作品を採用。
+
+**歌詞
+Did you call me? Do you know me?
+―きこえる。 always with you
+
+暗い部屋　ひとりきり待ってる
+モニター越しに　感じる声
+深い闇の中でも　待ってて
+沈む世界を照らす　きみの言葉
+
+顔も名前も知らないぼくら
+だけど　だれよりも近いぼくら
+デジタルの海で　何度も巡り合う
+
+Did you call me? （I called you.）
+Do you know me? （I know real you.）
+こころが　つながる
+きこえる？ （きこえる。）　響いた、今
+想いが shift してく
+
+ほんと言えちゃうんだね “なんでも”
+ENTER、その先のきみ　怖いときも
+
+歳も居場所もバラバラぼくら
+だけど　だれよりも傍にぼくら
+鏡の小部屋で　いつでも重ね合う
+
+Did you call me? （I called you.）
+Do you know me? （I know real you.）
+こころが　つたわる
+言いたい　言わせて　「ありがとう」が、ねぇ
+言えない…　BACKSPACE
+
+文字の列に体温（おんど）
+冷たいモニター越し　信じ合う
+
+Did you call me? （I called you.）
+Do you know me? （I know real you.）
+こころが　ふれ合う
+きこえる？ （きこえる。）　link してく、今
+きみへと　そっと届いて
+
+**コメント
+- 良い曲なのになぁ……  -- 名無しさん  (2010-12-17 21:04:38)
+- 結構いい歌だよね～　ドットミクとGUMIもちょーかわいい  -- 名無しさん  (2014-12-18 11:58:44)
+#comment()

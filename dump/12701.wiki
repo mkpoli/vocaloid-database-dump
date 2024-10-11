@@ -1,0 +1,34 @@
+#right(){&furigana(きてきP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/16286521" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/16286521">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-アーティスト名は&b(){トトトトム}。
+-P名の由来は「夢列車」からきている。
+-2009年11月からミクを使ってきたが、2010年8月からGUMIを購入。これからGUMIメインになる様子？
+
+**リンク
+-[[ピアプロ>>http://piapro.jp/suzuha0427]]
+-[[Twitter>>https://twitter.com/totototom]]
+
+**曲
+#list_by_tag(汽笛P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(汽笛PCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm8872451)|&nicovideo(http://www.nicovideo.jp/watch/sm8872702)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm8993253)|&nicovideo(http://www.nicovideo.jp/watch/sm9069774)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9250261)|&nicovideo(http://www.nicovideo.jp/watch/sm9326077)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9607929)|&nicovideo(http://www.nicovideo.jp/watch/sm10038727)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm10180436)|&nicovideo(http://www.nicovideo.jp/watch/sm10332116)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm10332193)|&nicovideo(http://www.nicovideo.jp/watch/sm11648212)|
+|&nicovideo(sm12493243)|&nicovideo(http://www.nicovideo.jp/watch/nm12614291)|
+|&nicovideo(sm12807325)|&nicovideo(sm16229962)|
+|&nicovideo(sm17046814)|&nicovideo(sm17575254)|
+|&nicovideo(sm23421915)|&nicovideo(sm26342563)|
+|&nicovideo(sm29418318)|&nicovideo(sm31810271)|
+
+**コメント
+- 歌詞が好き!! これからも頑張って欲しいです(*´ω｀)o  -- れみ  (2012-04-21 21:57:55)
+#comment()

@@ -1,0 +1,44 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#image(http://seven-colors.info/infrared/banner-01.jpg,http://seven-colors.info/infrared/infraredhp.html,title=infrared,blank)
+
+&ref(http://karent.jp/npdca/1173_20121109131607_0280_0280.jpg)
+
+&nicovideo(sm11480801)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){infrared}|CENTER:[[apricot carol]]|
+
+|&bold(){[[nana]]}|
+
+||CENTER:即売|CENTER:同人|CENTER:配信|
+|発売|>|CENTER:2010年8月14日|CENTER:2012年12月5日|
+|価格|CENTER:￥1,000|CENTER:￥1,050（税込）|CENTER:￥900 / 1曲￥150|
+|サークル|>|CENTER:Sevencolors||
+
+**CD紹介
+>&b(){七色に輝くVOCALOIDはじめの色}
+-[[nana]]氏所属のサークル「Sevencolors」の1stミニアルバム。
+-『パラダイムシフト』『ラストスロープ』など、テクノ・ロック・ポップス・バラード…ジャンルの垣根をフィーチャーし、&br()まさに七色に輝く全7トラックを収録したデビューミニアルバム。
+-ボーナストラックに[[カラフル・サウンズ・ポート>>http://csport.web.fc2.com/]]による『パラダイムシフト』リアレンジトラックを収録。
+-イベントではサークル所属の[[有坂あこ]]氏他ゲストを迎えたイラスト集とセットで販売。
+-2010年夏コミ（C78）にて頒布。とらのあなで委託販売が行われていた。
+-2012年12月には『Sevencolors 1st mini album infrared』のタイトルでKARENTレーベルよりダウンロード販売が開始された。
+
+**曲目
++intro
++[[パラダイムシフト>パラダイムシフト/nana]]
++[[レッドパニッシュメント]]
++[[ラストスロープ]]
++サンドグラスアムール
++[[リフレクション>リフレクション/nana]]
++パラダイムシフト （Re-arranged by カラフル・サウンズ・ポート）
+
+**リンク
+-[[作者サークルサイト>>http://seven-colors.info/]]
+-[[特設ページ>>http://seven-colors.info/infrared/infraredhp.html]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/cit/pagekit/0000/00/03/000000038287/index.html]]
+-[[KARENT：「Sevencolors 1st mini album infrared」>>http://karent.jp/album/1173]]
+
+**コメント
+- おー  -- 名無しさん  (2014-06-22 14:21:19)
+#comment()

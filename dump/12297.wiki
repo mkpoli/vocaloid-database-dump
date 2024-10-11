@@ -1,0 +1,24 @@
+#right(){&furigana(おじーP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/4718375" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/4718375">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-リンレン発売初期の頃からいるP。
+-P名の由来はオジー・オズボーンの「月に吠える」をレンに歌わせたことに由来する。
+-崇拝するギタリストはランディー・ローズ。
+
+**リンク
+-[[ピアプロ>>http://piapro.jp/imaizumi]]
+
+**曲
+#list_by_tag(オジーP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(オジーPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm2095801)|&nicovideo(http://www.nicovideo.jp/watch/sm2150282)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4774317)|&nicovideo(http://www.nicovideo.jp/watch/sm6810661)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7834682)|&nicovideo(http://www.nicovideo.jp/watch/sm9891167)|
+
+**コメント
+#comment()

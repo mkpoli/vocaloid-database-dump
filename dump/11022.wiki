@@ -1,0 +1,32 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/444_20100626043057_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:Angelic!っていう|CENTER:&bold(){Hello, WORLD!}|CENTER:-|
+
+|&bold(){[[よだれP（島白）]]}|
+
+発売：2010年7月21日
+価格：￥600 / 1曲￥150
+流通：配信
+レーベル：KarenT
+ジャケットイラスト：[[島白>よだれP（島白）]]
+
+**CD紹介
+-よだれPこと島白氏の、オール新曲からなるアルバム。
+-作者サイトにて過去曲を収録した追加パッチが配布されている。パッチも合わせてこのアルバムの完成形となるとのこと。
+
+**曲目
++[[ゼログラビティ紀行]]
++[[Raining star]] (Album Edition)
++[[其れは独り辺に舞ふ]]
++[[神経都市]]
++[[ANGELDUST>Angel Dust]]
++[[Hello, WORLD!]]
+
+**リンク
+-[[KarenT：「Hello, WORLD!」>>http://karent.jp/album/444]]
+-[[White:Island（作者サイト）>>http://sound.jp/shima26/]]
+
+**コメント
+#comment()

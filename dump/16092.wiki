@@ -1,0 +1,29 @@
+#right(){&furigana(ぎん)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/23242577" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/23242577">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-使用ボカロは初音ミク・GUMI。
+-デビュー作は「[[Aspect]]」。
+-「同じ曲は作らない」をコンセプトに作品を作っている。
+-P名として「ガチホモP」という名で呼ばれていた時期があったが、2014年時点で「緑のたぬP」に改名した。
+
+**リンク
+-[[ピアプロ>>http://piapro.jp/clavinord]]
+-[[UTAU楽曲データベース「緑のたぬP（吟）」ページ>>http://www24.atwiki.jp/utauuuta/pages/3150.html]]
+
+**曲
+#list_by_tag(吟,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(吟CD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm13152511)|&nicovideo(http://www.nicovideo.jp/watch/sm13332373)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm13613713)|&nicovideo(http://www.nicovideo.jp/watch/sm13762994)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm13820635)|&nicovideo(http://www.nicovideo.jp/watch/sm13856109)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm14141700)|&nicovideo(http://www.nicovideo.jp/watch/sm14152885)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm14203044)|&nicovideo(http://www.nicovideo.jp/watch/sm14401281)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm14453581)|&nicovideo(http://www.nicovideo.jp/watch/sm14473938)|
+
+**コメント
+#comment()

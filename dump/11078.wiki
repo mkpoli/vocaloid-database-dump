@@ -1,0 +1,32 @@
+#right(){&furigana() &furigana(ささやき　さえずり)【登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186141907.jpg,x=300,y=300)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){ささやき　さえずり}|CENTER:[[エニシダ>エニシダ/CD]]|
+
+|&bold(){[[さささP]]}|[[CAT]]|
+
+発売：2009年5月17日
+価格：￥500
+流通：即売
+サークル：残像博物館とねふらも工房
+
+**CD紹介
+-さささP初のオリジナルアルバム。
+-THE VOC@LOiD M@STER 8（ボーマス8）で頒布された。
+-さささPが編曲で参加した「[[マヨイガ]]」も収録されている。
+
+**曲目
++[[Twitter>Twitter/さささP]]
++[[マヨイガ]]
++[[春告・初音]]
++[[秋風数え唄]]
++[[向日葵の村へ]]
++[[サカサマ姫]]
++[[風別れダアリヤ]]
++Nocturne
++[[極星に伸ばす指]]
+
+**コメント
+#comment()

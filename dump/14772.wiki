@@ -1,0 +1,39 @@
+#right(){&furigana(ふらちなshininfuturemix)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&ref(https://karent.jp/npdca/670_20110221122021_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[火星にゆれる水声]]|CENTER:&bold(){プラチナ -shinin' future mix-}|CENTER:[[マーメイド>マーメイド/10日P]]&br()[[彗星]]|
+
+|&bold(){[[10日P]]}|[[U-ske]]|
+
+発売：2011年3月9日
+価格：￥300 / 1曲￥150
+流通：配信
+レーベル：KarenT
+ジャケットイラスト：[[keepout>>https://piapro.jp/keepout]]
+
+|&bold(){[[iTunes Storeで購入する>>https://itunes.apple.com/jp/album/id422815444]]}|
+
+**CD紹介
+CD名：『&u(){プラチナ -shinin' future mix-}』
+-ミク（3/9）の日にリリースされた、10日Pの配信EP。
+-U-ske氏がリミックスした「プラチナ」と「ココロカラ」が収録されている。
+
+**曲目
++[[プラチナ]] -shinin' future mix- （feat. 初音ミク）
++[[ココロカラ]] -sweet mix- （feat. 初音ミク）
++プラチナ -shinin' future mix- off vocal
+
+**動画
+&nicovideo(sm10939724)
+
+**リンク
+-[[KarenT>>https://karent.jp/album/670]]
+-[[monaca:factoryの音楽（作者ブログ）>>http://monaca10.blog116.fc2.com/]]
+
+**コメント
+#comment()

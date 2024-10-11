@@ -1,0 +1,36 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){ROVE}|CENTER:[[恋はきっと急上昇☆>恋はきっと急上昇☆/CD]]|
+
+|&bold(){[[のぼる↑]]}|
+
+||CENTER:即売|CENTER:同人|
+|発売|CENTER:2009年5月17日|CENTER:2009年5月|
+|価格|CENTER:￥1,000|CENTER:￥1,365（税込）|
+|サークル|>|CENTER:REONAlD|
+
+**CD紹介
+-反戦ロックから、大失恋バラードまで。【愛】をテーマにした楽曲が目白押し。&br()ニコニコ動画で公開していた楽曲に新曲などを追加した【のぼる↑】渾身の1stアルバム。
+-ジャケットイラストはあいら氏。
+-THE VOC@LOiD M@STER 8（ボーマス8）で頒布。その後D-STAGE、とらのあな、あきばお～こくで委託販売が行われた。
+
+**曲目
++Rove is Dead…？
++[[バーニングハート>バーニング・ハート]]
++[[となり、君はいない]]
++[[ツバサ>ツバサ/のぼる↑]]
++[[適度なカンケイ]]
++[[君と一緒の空間感じたい]]
++ケシタイコトバ
++もし逢えたら伝えたいんだ
++[[初音ミクの憂鬱]]
++[[Namida>Namida～ナミダ～]]
+
+**リンク
+-[[作者サイト>>http://www.reonald.com/]]
+-[[特設ページ>>http://www.reonald.com/rove/]]
+-[[D-STAGE>>http://d-stage.com/shop/detail.php?seq=14624]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/18/48/040010184846.html]]
+
+**コメント
+#comment()

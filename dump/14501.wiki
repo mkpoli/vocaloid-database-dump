@@ -1,0 +1,39 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm11366650)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){ra*on}|CENTER:[[humming]]|
+
+|&bold(){[[oOらいかOo]]}|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|CENTER:2010年7月19日|CENTER:2010年9月|
+|価格|CENTER:￥1,000|CENTER:￥1,470(税込)|
+|サークル|>|CENTER:deraika|
+
+**CD紹介
+-新曲2曲を含む12曲入りCD。
+-タイトルは「らおん」と読む。
+-全曲リマスター済。
+-ボーマス13（THE VOC@LOiD M@STER 13）やボカファン（VOCALOID Fantasia）で頒布された。
+
+**曲目
++だって、アイシテル / 初音ミク
++[[ふうわり]] / 鏡音リン　（remix ver）
++[[ハジメマシテ]] / 鏡音レン　（remix ver）
++[[やさしい想い出]] / 鏡音リン（remix ver）
++[[just fly away!]] / 鏡音レン
++[[空が落ちた]] / 鏡音レン
++[[みずたまり]] / GUMI
++[[rain>rain/oOらいかOo]] / 鏡音レン
++[[I miss you>I miss you/oOらいかOo]] / 初音ミク
++[[Midnight Calling]] / 鏡音リン (submarine mix)
++[[Make A Wish>Make A Wish/oOらいかOo]] / 鏡音リン
++[[escapade]] / 鏡音レン・リン
+
+**リンク
+-[[作者blog>>http://ooraikaoo.info/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/24/03/040010240316.html]]
+
+**コメント
+#comment()

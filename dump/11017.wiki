@@ -1,0 +1,64 @@
+#right(){&furigana(earthlife)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo(http://www.nicovideo.jp/watch/nm5227864)
+作詞：[[U-SUKE]]
+作曲：[[U-ji]]
+編曲：[[U-ji]]
+イラスト：[[Hituzi123]]（[[piapro>>https://piapro.jp/hituzi123]]）・[[ぴぃなっつ]]・[[江麻]]（[[piapro>>]]）・[[nayu]]（[[piapro>>]]）
+写真：[[特級派遣販売員]]（[[piapro>>https://piapro.jp/grassesman]]）・[[longtom]]（[[piapro>>https://piapro.jp/longtom]]）・[[holon]]・[[未雨]]（[[piapro>>https://piapro.jp/byannry]]）
+唄：[[初音ミク]]
+
+**曲紹介
+>トランスっぽい音のダンスポップです。
+>&bold(){歌詞が「みんなのうた」っぽいけど気にしないっ！（アセ）}
+曲名：『&u(){earth life}』(&u(){アース ライフ})
+-PVイラストはpiaproより『[[宇宙【背景用】>>https://piapro.jp/t/NQAQ]]/Hituzi123』、『[[初音ミク>>https://piapro.jp/t/y3B9]]/江麻』、写真は『[[草原２>>https://piapro.jp/t/vtgE]]/特級派遣販売員(DEATHマギカ)』、『[[高度12182m>>https://piapro.jp/t/YSQy]]/longtom』、『[[夜の都会>>https://piapro.jp/t/-RbK]]/未雨』ほか不明。
+
+**歌詞
+（[[ピアプロ>>http://piapro.jp/content/zxjm43wxi0ocidmx]]より転載）
+
+この青い空の下で 僕達は生まれて来たんだ そうこの大地に
+
+大きく深呼吸して 背伸びでもしてみようよ 風を感じながら
+
+独りぼっちな夜でも
+空を見上げて 星の輝きに照らされてみよう
+
+GO GO 本日 晴天だ
+GO GO 青空 広がる
+僕らはこの大地に生きている
+
+Living With the earth
+僕たちは地球で暮らしてく
+大切な毎日を共に過ごして行こうよ
+
+こんなにも広い世界で 僕たちが出会えた奇跡を大切にしたい
+
+人ごみですれ違う 人々にもそれぞれの思いや悩みがある
+
+辛く大きい壁に　ぶち当たっても　仲間がいるよ　一人じゃない
+
+GO GO いつでも 僕たちは
+GO GO いつでも　一緒さ
+僕らはこの地球で生きてゆく
+
+walking with you
+ほらほら 手を取り合って
+大切な毎日を共に歩いてゆこうよ
+
+もう君は どんな時も 一人じゃない
+まわりを 見渡して みてよ そこに仲間がいる
+
+GO GO いつでも 僕たちは
+GO GO いつでも　一緒さ
+僕らはこの地球で生きてゆく
+
+walking with you
+ほらほら 手を取り合って
+大切な毎日を共に歩いてゆこうよ
+
+**コメント
+#comment()

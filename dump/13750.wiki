@@ -1,0 +1,27 @@
+#right(){&furigana(ていがくP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/16570237" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/16570237">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-ミクトランスの作り手。
+-定額給付金で初音ミクを購入した事により、このP名が付けられた。
+-処女作「[[Crystal tears]]」がいきなりヒット。
+-VOCALOID以外では「&bold(){Junk}」という名義を使っており、トランス形の音楽が多い。&br()音楽ゲーム『SOUND VOLTEX』において「Fire Strike」というオリジナル曲で見事採用された。
+
+**リンク
+-[[作者ブログ>>http://blog.livedoor.jp/junk_life5/]]
+-[[Twitter>>http://twitter.com/Junk_Channel]]
+-[[SoundCloud>>http://soundcloud.com/junktrance518]]
+
+**曲
+#list_by_tag(定額P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+**CD
+#list_by_tag(定額PCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/nm7683119)|&nicovideo(http://www.nicovideo.jp/watch/nm9136376)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm9147524)|&nicovideo(http://www.nicovideo.jp/watch/sm11735015)|
+&bold(){リミックス}
+|&nicovideo(http://www.nicovideo.jp/watch/sm13158811)&br()原曲：8#Prince（[[八王子P]]）||
+
+**コメント
+#comment()

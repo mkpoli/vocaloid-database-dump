@@ -1,0 +1,27 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/497_20100809063025_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[DYE -Synthesis-]]|CENTER:&bold(){KVLR}|CENTER:[[キミノ・・・ / SAKURA>キミノ・・・／SAKURA]]|
+
+|&bold(){[[AVTechNO]]}|
+
+発売：2010年8月31日
+価格：￥150
+流通：配信
+レーベル：KarenT
+
+**CD紹介
+-AVTechNO氏の配信シングル。
+-KarenTの初音ミク3周年記念企画で配信された作品の1つ。
+-動画投稿サイトへは、闇李氏の[[歌ってみた動画>>http://www.nicovideo.jp/watch/sm12206630]]を経て（ミックスにAVTechNO氏が関わっている）、2010年10月に「[[Project file KVLR]]」のタイトルで発表された。
+
+**曲目
++[[KVLR>Project file KVLR]] （feat. 初音ミク&巡音ルカ）
+
+**リンク
+-[[KarenT：「KVLR」>>http://karent.jp/album/497]]
+-[[KarenT：「初音ミク 3rd Anniversary」特集ページ>>http://karent.jp/special/miku10]]
+
+**コメント
+#comment()

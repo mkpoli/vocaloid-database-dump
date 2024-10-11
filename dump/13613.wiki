@@ -1,0 +1,31 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[ZANEEDS ＃EP]]|CENTER:&b(){ZANEEDS ＃SG}|CENTER:[[ZANEEDS ＃00]]|
+
+|&b(){[[パイパンP]]}|
+
+発売:2010年11月13日
+価格:不明
+流通:即売
+サークル:ZANEEDS
+
+**CD紹介
+-&b(){パイパンP}のアルバム。
+-シンガポールで開催された[[AFAX>>http://www.animefestival.asia/]]限定で販売された。
+
+**曲目
++Akitomo
++[[Overwrite]]
++[[Silent>コドクノオト]]
++[[This is the Ketchup>ケチャップですよ。]]
++[[Sign>Sign/パイパンP]]
++[[Distance>Distance/パイパンP]] feat. Luca
++[[Tokyo Beat>TOKYO BEAT]]
+
+**リンク
+-[[ZANNEDS（サークルのサイト）>>http://zaneeds.com/]]
+-[[ざにお大本営零式（パイパンPのブログ）>>http://blogs.dion.ne.jp/zani0/]]
+
+**コメント
+#comment()

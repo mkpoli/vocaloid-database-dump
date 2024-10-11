@@ -1,0 +1,29 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/604_20101129110710_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Tripster>Tripster/CD]]|CENTER:&bold(){いちごだいふく}|CENTER:-|
+
+|&bold(){[[yusuke]]}|
+
+発売：2010年12月17日
+価格：￥300 / 1曲￥150
+流通：配信
+レーベル：KarenT
+ジャケットイラスト：mametea
+
+**CD紹介
+-yusuke氏の配信シングル。
+-KarenTの冬の唄特集で配信された作品の1つ。
+-この街でたくさんの時間を過ごしてきた私たちは、初恋のように真っ白ではいられない。&br()それでもたくさんの憂いをこえてきた私とあなただからこそ、求められるカタチがある。&br()純白ではないけれど、今も甘い恋の歌。（KarenT作品概要より）
+
+**曲目
++いちごだいふく （feat. 巡音ルカ）
++いちごだいふく （カラオケ）
+
+**リンク
+-[[KarenT：「いちごだいふく」>>http://karent.jp/album/604]]
+-[[KarenT：「冬の唄'10」特集ページ>>http://karent.jp/special/winter10]]
+
+**コメント
+#comment()

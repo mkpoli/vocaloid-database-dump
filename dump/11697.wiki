@@ -1,0 +1,38 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/501_20100816022005_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Live my Life}|CENTER:[[SQUARE FALL]]|
+
+|&bold(){[[KulfiQ]]}|
+
+発売：2010年8月25日
+価格：￥900 / 1曲￥150
+流通：配信
+レーベル：KarenT
+ジャケットイラスト：[[Haq>>http://piapro.jp/xmetal]]
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/live-my-life/id388370646]]}|
+
+**CD紹介
+-KulfiQ氏の配信限定アルバム。
+-デビュー曲「Blurry Sky」から最新曲「sound,word,heart,world」までを収録した全7曲。
+
+**曲目
++Live my Life
++[[sound,word,heart,world]] （feat. 初音ミク）
++[[ヘイムダルの角笛]] （feat. 初音ミク）
++[[ヒトリゴトスイッチ]] （feat.初音ミク）
++[[アント]] （feat.初音ミク）
++[[Blurry Sky]] （feat. 初音ミク）
++モトヤマ・シグナル （feat.初音ミク）
+
+**リンク
+-[[作者ブログ>>http://kulfiq.seesaa.net/]]
+-[[KarenT>>http://karent.jp/album/501]]
+
+**コメント
+- アントがすき  -- 名無しさん  (2011-02-19 18:04:39)
+- ヘイムダルの角笛好き  -- 名無しさん  (2012-08-12 11:56:38)
+- 最初好き  -- 名無しさん  (2012-11-30 21:07:29)
+#comment()

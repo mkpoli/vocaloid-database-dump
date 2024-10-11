@@ -1,0 +1,41 @@
+#right(){&furigana(すぴにんぐ・ろーたす)&furigana()【登録タグ:&tags() 】}
+|&ref(http://karent.jp/npdca/600_20101127130626_0240_0240.jpg)&br()CD版ジャケット|&ref(http://karent.jp/npdca/617_20101211112555_0240_0240.jpg)&br()配信版ジャケット|
+
+&nicovideo(http://www.nicovideo.jp/watch/sm12628544)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[THE HEART SUTRA　（サンスクリットによる般若心経）]]|CENTER:&bold(){スピニング・ロータス}|CENTER:[[スピニング・ロータス（配信）>スピニング・ロータス]]|
+
+|&bold(){[[ブンガP]]}|
+
+||CENTER:即売|CENTER:同人|CENTER:配信|
+|発売|CENTER:2010年11月14日|CENTER:2010年11月|CENTER:2011年1月12日|
+|価格|CENTER:￥1,500|CENTER:￥1,575（税込）|CENTER:￥1,200 / 1曲￥150|
+|サークル|>|>|CENTER:BUNGALANGIT|
+|レーベル|>|CENTER:-|CENTER:KarenT|
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/id413227403]]}|
+
+**CD紹介
+-ブンガP5作目となるボーカロイドCD。
+-THE VOC@LOiD M@STER 14（ボーマス14）で頒布。その後とらのあなにて委託販売、KarenTレーベルよりダウンロード販売が行われている。
+-アフリカの神話のモチーフを、ポリリズムで彩った作品。作者曰く、「ポップスの文脈では出会えないような音作りを達成できたと思います。」とのこと。
+
+**曲目
++プロローグ
++[[スピニングロータス>スピニング・ロータス]]
++[[つぶやきの魔法]]
++[[神様の森]]
++蟻の舞踏会
++[[終わりなき蜻蛉の夢]]
++ゴメンね
++架け橋
++BLANE HOPPING
+
+**リンク
+-[[作者ブログ>>http://ameblo.jp/vocalotus/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/24/73/040010247336.html]]
+-[[KarenT：「スピニング・ロータス」>>http://karent.jp/album/617]]
+
+**コメント
+#comment()

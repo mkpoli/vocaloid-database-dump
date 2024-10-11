@@ -1,0 +1,33 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[STRINGS]]|CENTER:&bold(){Natural}|CENTER:[[Earth Song>Earth Song/CD]]|
+
+|&bold(){[[だいすけP]]}|
+
+発売：2010年7月19日
+価格：￥500
+流通：即売
+サークル：おんぷのーとくらぶ
+
+**CD紹介
+-聴いたあと、やさしくなれる音楽・・・・。
+-だいすけPの2作目となるCD作品。
+-新曲3曲、未発表バージョン1曲を含む全6曲ミニアルバム。
+-THE VOC@LOiD M@STER 13（ボーマス13）で頒布された。
+
+**クロスフェード
+&nicovideo(http://www.nicovideo.jp/watch/sm11265726)
+
+**曲目
++きららぁっ☆！ feat. 鏡音リン・鏡音レン
++あのね feat. 鏡音リン・鏡音レン
++ドキドキ、きゅんっ！ feat. 初音ミク
++[[やさしい森]] feat. 歌愛ユキ
++[[いつの間にか～2.14～>いつの間にか。～2.14～]] feat. 鏡音レン
++[[Earth Song]] （CD Edition） feat. 初音ミク
+
+**リンク
+-[[作者サイト>>http://www.infosnow.ne.jp/~koubou_6075/music/index.html]]
+
+**コメント
+#comment()

@@ -1,0 +1,33 @@
+#right(){&furigana(しちこさん)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/19853845" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/19853845">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-七五三といっても7歳・5歳・3歳の子供を祝う11月の行事ではなく、こちらでは主にミクノポップ（ミク+テクノポップ）の製作者の1人のことを指す。
+-処女作は2010年6月投稿の「[[Light Temperature]]」。
+-使用VOCALOIDは今のところ初音ミク、GUMI。
+-アーティスト名は &bold(){L75-3}。
+
+**リンク
+-[[ピアプロ>>http://piapro.jp/l753]]
+-[[Twitter>>http://twitter.com/l75_3]]
+-[[SoundCloud>>http://soundcloud.com/l75-3]]
+-[[YouTube>>http://www.youtube.com/channel/UCoYEFG0xSBUsMc5VSgnkRgA]]
+
+**曲
+#list_by_tag(七五三,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(七五三CD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm10954938)|&nicovideo(http://www.nicovideo.jp/watch/sm11235836)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm11835596)|&nicovideo(http://www.nicovideo.jp/watch/sm12769275)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm14465045)|&nicovideo(http://www.nicovideo.jp/watch/sm14824516)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm15486060)|&nicovideo(http://www.nicovideo.jp/watch/sm16369645)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm17447075)|&nicovideo(http://www.nicovideo.jp/watch/sm15371735)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm23567013)|&nicovideo(http://www.nicovideo.jp/watch/sm23589353)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm25465714)|&nicovideo(http://www.nicovideo.jp/watch/sm31033935)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm31040738)||
+
+**コメント
+#comment()

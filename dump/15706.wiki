@@ -1,0 +1,38 @@
+#right(){&furigana(clear) &furigana()【登録タグ:&tags() 】}
+&ref(http://img.toranoana.jp/img/04/0020/00/52/040020005225-1.gif)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[嫌い、キライ、…だいきらい。]]|CENTER:&bold(){crystaL～spring songs'11～}|CENTER:[[CKⅠ]]|
+
+|&bold(){[[クリスタルP]]}|
+
+||CENTER:即売|CENTER:同人|
+|発売|CENTER:2011年3月27日|CENTER:|
+|価格|CENTER:￥1,000|CENTER:￥1,155（税込）|
+|サークル|>|CENTER:zegHed Label|
+
+**CD紹介
+-クリスタルPのアルバム。
+-VOCALOID PARADISE 5（ボーパラ5）で頒布。
+-イラストやアートワーク全般をNERVEのみぎわ蓮氏が担当。
+-とらのあなで委託販売が行われている。
+
+**曲目
++コノ春、アノ春。
++[[farewell speaker]]-append-
++[[嫌い、キライ、…だいきらい。]]
++[[dandelion]]-'11 unplugged-
++[[春樹-harunoki-]]
++嫌い、キライ、…だいきらい。 -音楽室の弾き語り Ver.-
++farewell speaker-act.1-
++春樹 -harunoki- （インスト）
++嫌い、キライ、…だいきらい。 （インスト）
++farewell speaker （インスト）
++コノ春、アノ春。 （オフヴォーカル）
+ 
+**リンク
+-[[作者ホームページ>>http://k-kei.versus.jp/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0020/00/52/040020005225.html]]
+
+**コメント
+#comment

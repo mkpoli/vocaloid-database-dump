@@ -1,0 +1,48 @@
+#right(){&furigana(いやいやP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/20490936" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/20490936">【ニコニコ動画】</a></iframe>)
+
+**特徴
+作り手名：『&u(){イヤイヤP}』
+
+-アーティスト名は&b(){藤村哲弘}（ふじむら　あきひろ）。
+-「NHKみんなのうた」のような、ほのぼのとした感じの曲を作る、新手のロリルカ使い。
+-一曲の尺は短いが、弾幕にもってこいなインパクトあるサビが特徴。
+-現在のP名は代表曲『[[イヤイヤ星人]]』に由来している。
+-『[[氷のなかに]]』 にて遂に自身初の殿堂入りを達成した。
+
+**リンク
+-[[Twitter>>http://twitter.com/iyaiyap]]
+-[[PIAPRO>>http://piapro.jp/miniryu]]
+
+**曲
+#list_by_tagsearch(イヤイヤP,sort=furigana2,errmsg=まだ曲が登録されていません。,and,100)
+
+**CD
+#list_by_tagsearch(イヤイヤPCD,sort=furigana2,errmsg=まだCDが登録されていません。,and,100)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm11424538)|&nicovideo(http://www.nicovideo.jp/watch/sm12026261)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm13663419)|&nicovideo(http://www.nicovideo.jp/watch/sm13711888)|
+
+**関連タグ内の更新履歴
+#region(close,関連タグ内の更新履歴)
+関連タグ内の更新履歴
+※「イヤイヤP」「イヤイヤPCD」タグ内で最近編集やコメントのあった記事を新しい方から10件表示しています。
+#list_by_tagsearch(イヤイヤP,イヤイヤPCD,sort=timestamp,sort2=desc,errmsg=まだ曲が登録されていません。,or,10)
+#endregion
+
+**コメント
+- イヤイヤ星人DIVA-AC採用おめでとうございます！楽しみ～  -- 名無しさん  (2011-02-19 12:05:30)
+- この人からは何が出てくるかわからん！底が知れないです  -- 名無しさん  (2011-02-25 23:26:07)
+- ロリルカといえばイヤイヤPだな  -- 名無しさん  (2011-11-23 21:53:21)
+- うさぎうさぎのセンスにやられた ルカかわいすぎる  -- 名無しさん  (2012-01-25 20:53:26)
+- イヤイヤと氷が同じ人だと今更ながら気づいた  -- 名無しさん  (2013-07-14 13:27:16)
+- 唐傘さんが通るDIVAで知った、とても素敵でした。  -- 名無しさん  (2016-06-02 18:14:26)
+#comment()
+
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)

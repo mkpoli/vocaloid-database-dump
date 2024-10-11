@@ -1,0 +1,64 @@
+#right(){&furigana(きょとんP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/16692400" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/16692400">【ニコニコ動画】</a></iframe>)
+
+**特徴
+作り手名：『&u(){(∵)キョトンP}』
+-投稿者名は&b(){kyotn（ニシジマユーキ）}。
+--P名は、恐らく投稿者名が〝キョトン〟と読めるから付いたのだろう。顔文字付きという、珍しい名を持つP。
+-ニコニコインディーズ（NNI）として多くのインスト曲も投稿している。
+--NNIも含めて言えば、トランスやテクノが多い。また、NNIでは民族調音楽も投稿している。
+-遂に、HAMO氏との共作した「[[6900000000]]」が初の殿堂入りを達成。
+-精力的に多くの楽曲を作り出している、期待の若手P。
+
+**リンク
+-[[作者HP>>https://dosankolaboratory.jimdo.com/]]
+-[[Twitter>>https://twitter.com/_nishijima]]
+-[[PIAPRO>>https://piapro.jp/restricter43]]
+-[[SoundCloud>>https://soundcloud.com/kyotn]]
+
+**曲
+#list_by_tag(（∵）キョトンP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(（∵）キョトンPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm9011065)|&nicovideo(nm9728570)|
+|&nicovideo(sm10521583)|&nicovideo(sm11872910)|
+|&nicovideo(sm12538902)|&nicovideo(sm12730572)|
+|&nicovideo(sm12730573)|&nicovideo(sm12863504)|
+|&nicovideo(sm12917509)|&nicovideo(sm13269029)|
+|&nicovideo(sm13380008)|&nicovideo(sm13688134)|
+|&nicovideo(sm13957798)|&nicovideo(sm14125869)|
+|&nicovideo(sm14191199)|&nicovideo(sm14434223)|
+|&nicovideo(sm14443728)|&nicovideo(sm14484247)|
+|&nicovideo(sm14519667)|&nicovideo(sm14575363)|
+|&nicovideo(sm14624566)|&nicovideo(sm14867243)|
+|&nicovideo(sm15310688)|&nicovideo(sm15527086)|
+|&nicovideo(sm15993524)|&nicovideo(sm16119975)|
+|&nicovideo(sm16797454)|&nicovideo(sm16992255)|
+|&nicovideo(sm17345490)|&nicovideo(sm17773983)|
+|&nicovideo(sm17806241)|&nicovideo(sm18541122)|
+|&nicovideo(sm18631365)|&nicovideo(sm18730896)|
+|&nicovideo(sm19692777)|&nicovideo(sm20007112)|
+|&nicovideo(sm21270307)|&nicovideo(sm21536460)|
+|&nicovideo(sm23736689)|&nicovideo(sm26071549)|
+|&nicovideo(sm40080837)|&nicovideo(sm43450048)|
+
+&b(){アレンジ曲}
+|&nicovideo(sm11999979)|&nicovideo(sm19301255)|
+
+**コメント
+- 曲ページを追加される場合は、「（∵）キョトンP」タグを利用してください。顔文字の部分が全角括弧です。  -- ページ製作者  (2010-09-11 18:15:36)
+- 多才すぎ  -- 名無しさん  (2011-07-10 12:35:14)
+- 好きだわあ＊  -- はな  (2012-04-06 11:29:55)
+- 動画部分を整理。大量追加しました  -- 名無しさん  (2012-05-03 00:35:30)
+- Untouchedの記事がないのは何でだろう 一番好きな曲なのに  -- 名無しさん  (2013-04-13 17:55:57)
+- キョトンさん引退・・・？非公開になってる・・・  -- 黒葉  (2014-06-27 22:19:33)
+- 非公開とかショックすぎる  -- 名無しさん  (2014-07-03 19:43:04)
+- まじか、引退したのか・・・。唖然となった  -- 名無しさん  (2014-10-07 23:04:44)
+#comment()

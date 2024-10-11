@@ -1,0 +1,38 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm12670131)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&b(){PINCH HITTER}|CENTER:-|
+
+|&b(){[[ストリークP]]}|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|>|CENTER:2010年11月14日|
+|価格|CENTER:\500(税込)|CENTER:\750(税込)|
+|サークル|>|CENTER:初球ポップ|
+
+**CD紹介
+-&b(){ストリークP}の1stアルバム。ボーマス14で初頒布。
+-新曲1曲を含む全10曲が収録。既存曲は全曲リミックスされており、中にはレコーディングからやり直した曲も。
+-M9「[[今日も負けた！]]」では、[[ホロンP]]がアコギの演奏で参加。
+-ブックレットイラストは平原健時。
+
+**曲目
++[[スタートダッシュ>スタート・ダッシュ]]
++Ballpark　&color(red){New!}
++[[代打ミク]]
++[[今日のヒーロー]]
++[[スタンダード]]
++[[PLAN]]
++[[ズバッと三振毎度ありっ！]]
++[[Choking]]
++[[今日も負けた！]]
++[[Let's Dance Now!]]
+
+**リンク
+-[[CD紹介ページ>>http://ppp21.blog100.fc2.com/blog-entry-103.html]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/cit/pagekit/0000/00/04/000000041679/index.html]]
+-[[ホワイトキャンバス>>http://www.w-canvas.com/shopping/detail.php?item_id=44015]]
+
+**コメント
+#comment()

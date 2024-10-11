@@ -1,0 +1,48 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/14865214" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/14865214">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-ボカロPとしてのデビュー作は 『[[昔の話をしましょうか]]』 。
+-使用ボカロは今のところ、ミク・GUMI・がくぽ・ユキ・CUL・IA。
+-作曲ジャンルはニコ動に投稿する際の題名から分かる通り多岐に渡るが、その中でも民族調の造語を駆使した幻想的な楽曲を得意とする。
+-以前は投稿者コメントなどで「kaolingことDeltaです」と表記されていたが、現在はkaolingに統一されている。
+-これまでも一定の評価はあったが、 『[[神の名前に堕ちる者]]』 がヒットし殿堂入りを果たした。
+-「ファイナルファンタジータクティクス アドバンス」や「艦隊これくしょん」などのゲーム楽曲も手掛けている。
+
+**リンク
+-[[Rainy Garden（作者ブログ）>>http://ameblo.jp/ohkoshi-kaori/]]
+-[[PIAPRO>>http://piapro.jp/xxx7xxx]]
+-[[UTAU楽曲データベース「kaoling」ページ>>http://www24.atwiki.jp/utauuuta/pages/1385.html]]
+-[[Twitter>>http://twitter.com/OhkoshiKaori]]
+
+**曲
+#list_by_tag(kaoling,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(kaolingCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm9392530)|&nicovideo(http://www.nicovideo.jp/watch/sm9818671)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9876460)|&nicovideo(http://www.nicovideo.jp/watch/sm10404386)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm10476697)|&nicovideo(http://www.nicovideo.jp/watch/sm11244099)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm11541977)|&nicovideo(http://www.nicovideo.jp/watch/sm14019083)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm14019241)|&nicovideo(http://www.nicovideo.jp/watch/sm14205736)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm16010684)|&nicovideo(http://www.nicovideo.jp/watch/sm16492591)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm17376533)|&nicovideo(http://www.nicovideo.jp/watch/sm18520685)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm19789352)|&nicovideo(http://www.nicovideo.jp/watch/sm21078077)|
+
+**コメント
+- シンセサイザ  -- 名無しさん  (2010-11-29 12:59:29)
+- 勧められたが、しかしガチで俺向けの曲だった。音もカッコいいし神秘的だしお勧めです  -- 名無しさん  (2010-12-23 16:17:56)
+- 求めていた曲を作ってくだって是非お礼がしたいとおもいます！  -- 名無しさん  (2011-08-01 09:02:11)
+- 12月のコミケで新作出されるそうです！GUMIや歌愛ユキも使われるそうです！　ご本人ツイッターより  -- てん  (2011-09-18 17:11:22)
+- CULの曲ないのですが…  -- 名無しさん  (2012-01-06 13:17:03)
+- この人って何の機材使ってるんだろ・・・。cubaseかな？  -- 名無しさん  (2012-01-29 23:09:33)
+- 奇声をあげて泣きながらそのへんをゴロゴロしたいくらいにはこの人の曲が好き  -- りょーん  (2012-11-16 17:28:12)
+- 艦コレの曲作ってんだ…  -- 名無しさん  (2013-12-30 18:53:31)
+- CD買えんかった…再販してほしい…  -- 名無しさん  (2014-02-03 12:13:14)
+- 今ガチで一番好きなボカロP。 民族系の曲が好きな人にはたまらん。  -- 名無しさん  (2014-07-06 15:24:44)
+- ↑私もこのボカロpが一番好き  -- 名無し  (2014-08-19 15:37:27)
+- 乖離想生（アルバム）の曲ですがOliverも使われてますね　アルバムで一番好きな曲  -- 名無しさん  (2014-12-24 09:52:45)
+- 新曲でないのかなあ  -- 名無しさん  (2022-11-07 08:52:19)
+#comment()

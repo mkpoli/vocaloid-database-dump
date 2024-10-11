@@ -1,0 +1,81 @@
+#right(){&furigana(けんていてきせかい)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm12390158)|
+作詞：[[五字熟語P]]
+作曲：[[五字熟語P]]
+編曲：[[五字熟語P]]
+唄：[[初音ミク]]
+
+**曲紹介
+>&bold(){忘れるな、世界は輝いてる}
+曲名：『&u(){限定的世界}』(&u(){げんていてきせかい})
+-五字熟語P の26作目。
+-原点回帰のギターロックサウンド。五字熟語Pはサラリーマンの方々を応援しております。ともに頑張りましょう！（作者コメ転載）
+-所々に「Time is dead」などの遊び歌詞も入れられている。
+
+**歌詞
+
+起きろよ朝だぞ　目覚ましベルが鳴る
+もう…　まだ寝足りない
+
+鏡を見てみろ　お前は誰だよｗ
+もう…　ひどい顔して
+
+stay night, hold time,
+let's get new time.
+
+扉を開けろよ　電車に遅れる
+さぁ　オフィスに向かえ
+
+毎日戦いだ　スーツの鎧に
+さぁ　心を隠し
+
+all time, let's fight,
+time is dead now.
+
+10年前には思いもしなかった
+世界がこんなに限られたものなんて
+落ち込む暇さえ与えられないんだ
+毎日毎日戦いが始まる
+
+思い出が優しいならそれは
+世界はキミの味方だから
+
+日付が変わる頃に訪れる
+空しさ胸に抱え
+オヤスミを
+
+繰り返される日々の中で
+（still alive for what, ever.）
+（still alive for what, forever.）
+強さを身につけられるなら
+（Let's get now for what, ever.）
+（Let's get now for what, forever.）
+忘れないで世界はいつも
+（still alive for what, ever.）
+（still alive for what, forever.）
+光に満ち溢れているから
+（Let's get now for what, ever.）
+（Let's get now for what, forever.）
+
+still alive for what, ever.
+still alive for what, forever.
+
+Let's get now for what, ever.
+Let's get now for what, forever.
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+**コメント
+- もっと伸びていいと思うなあ…爽やかで好き  -- 名無しさん  (2011-07-19 07:52:52)
+- 大好き  -- 名無しさん  (2012-01-27 14:21:23)
+#comment()
+
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)

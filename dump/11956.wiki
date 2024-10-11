@@ -1,0 +1,32 @@
+#right(){&furigana(ああるP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/26032149" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/26032149">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-2010年5月に「[[君の目指すもの]]」でボカロデビュー。
+-アーティスト名は &bold(){rockマン} 。実はＴＶ出演や有名アーティストをサポートしたこともあるプロのギタリスト。
+-作風としては、切なく優しい雰囲気をもった楽曲や、ギターロックや、アコースティックロックな作品が多く、とても聴き入ってしまうサウンドが魅力的。
+-またギターがまるで鳴いているかのようなエモーショナルなソロやプレイスタイルもテクニックよりも個性を突き出しているのも唯一無二なのかもしれない
+-オリジナル曲「[[モノクロナイト]]」で自身初のランキング１位そして、殿堂入りを遂に果たす。
+-今後注目視されるボカロPである。
+
+**リンク
+-[[あーるPと申します（作者ブログ）>>http://ameblo.jp/vocaloid-rmp/]]
+-[[Twitter>>http://twitter.com/rock_man_]]
+-[[PIAPRO>>http://piapro.jp/rockman_rmp]]
+
+**曲
+#list_by_tag(あーるP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(あーるPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm10813375)|&nicovideo(http://www.nicovideo.jp/watch/sm11018388)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm11243663)|&nicovideo(http://www.nicovideo.jp/watch/sm13141891)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm13655185)|&nicovideo(http://www.nicovideo.jp/watch/sm14258485)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm14859207)|
+
+**コメント
+- 遠い温度好きです  -- 名無しさん  (2011-09-24 15:34:38)
+- モノクロナイト良すぎた…!!  -- あさり侍  (2012-01-21 23:34:47)
+#comment()

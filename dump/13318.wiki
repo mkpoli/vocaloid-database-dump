@@ -1,0 +1,108 @@
+#right(){&furigana(かがみ・はんきょう)&furigana()【登録タグ:&tags()】}
+&nicovideo(http://www.nicovideo.jp/watch/sm12794584)
+作詞：[[カガミP]]
+作曲：[[カガミP]]
+編曲：[[カガミP]]
+唄：KAITO
+
+**曲紹介
+>久々のカガミシリーズ、カガミ・トビラの続編っぽいようなそうでないような・・・
+-カガミシリーズ4作品目。
+
+**歌詞
+
+|CENTER:&color(deepskyblue){KAITO(高音)}|CENTER:&color(slateblue){KAITO}|
+|>|&color(White){}|
+|>|&color(White){}|
+|>|&color(White){}|
+|>|CENTER:&color(deepskyblue){そ} &color(slateblue){ち} &color(deepskyblue){ら} &color(slateblue){は} &color(deepskyblue){ど} &color(slateblue){う} &color(deepskyblue){で} &color(slateblue){す} &color(deepskyblue){か} &color(slateblue){か}|
+|>|CENTER:&color(slateblue){あ} &color(deepskyblue){あ} &color(slateblue){あ} &color(deepskyblue){あ} &color(slateblue){あ} &color(deepskyblue){あ} &color(slateblue){あ}|
+|>|&br()|
+|LEFT:裏側から見た世界&br()赤く青く濁っていた||
+||RIGHT:表側から見た世界&br()取り澄まして黙っていた|
+|LEFT:鳴らせば||
+||RIGHT:歌えば|
+|>|CENTER:&color(deepskyblue){響く裏側}&br()&color(slateblue){響く表側}|
+|LEFT:こちら側で鳴るのは&br()黒い音だけなのにね&color(White){　　}||
+||RIGHT:綺麗な音だけなんて&br()つまらないから|
+|>|CENTER:&color(deepskyblue){そちらが濁らないのはわかるけど…}&br()&color(slateblue){…濁らない高みから聞いていれる}|
+|>|&br()|
+|>|CENTER:&color(deepskyblue){ああ　そちらから見た世界はどうですか？}&br()&color(slateblue){ああ　そちらから見た世界はどうですか？}|
+|LEFT:こちらは変わらず||
+||RIGHT:こちらは変わらず&br()嘘ばかりで|
+|LEFT:濁って||
+|>|CENTER:&color(deepskyblue){います}&br()&color(slateblue){います}|
+|>|CENTER:&color(deepskyblue){だからこそ　綺麗なものが欲しいと}&br()&color(slateblue){綺麗なものは　もうたくさんだから}|
+|LEFT:わかってて||
+||RIGHT:泥水を|
+|>|CENTER:&color(deepskyblue){それを歌うのですか？}&br()&color(slateblue){掬い上げて歌おう}|
+|>|CENTER:&color(deepskyblue){ああ}&br()&color(slateblue){ああ}|
+|>|&color(White){}|
+|>|&color(White){}|
+|>|&color(White){}|
+|LEFT:裏側から見た世界&br()黒く黒く騒いでいた||
+||RIGHT:表側から見た世界&br()白く白く光っていた|
+|LEFT:叫べば||
+||RIGHT:喚けば|
+|>|CENTER:&color(deepskyblue){響く裏側}&br()&color(slateblue){響く表側}|
+|LEFT:只々々響いて&br()消えていくだけ||
+||RIGHT:何度も何度も&br()何かあるか試みてみる|
+|>|CENTER:&color(deepskyblue){そちらに聞こえる音は濁ってる…}&br()&color(slateblue){…聞こえる音は濁っているだけだ}|
+|>|&color(White){　}|
+|>|CENTER:&color(deepskyblue){ああ　そちらから見た世界はどうですか？}&br()&color(slateblue){ああ　そちらから見た世界はどうですか？}|
+|LEFT:画面はいまだに||
+||RIGHT:画面はいまだに|
+|LEFT:ただ光って||
+||RIGHT:塞いで|
+|>|CENTER:&color(deepskyblue){います}&br()&color(slateblue){います}|
+|>|CENTER:&color(deepskyblue){扉を開ければ　刺さる光が}&br()&color(slateblue){扉をくぐれば　闇に包まれて}|
+|LEFT:でもいまだに||
+||RIGHT:画面は|
+|>|CENTER:&color(deepskyblue){切り替わりそうにない}&br()&color(slateblue){点く様子を見せない}|
+|>|CENTER:&color(deepskyblue){嗚呼}&br()&color(slateblue){嗚呼}|
+|>|&color(White){}|
+|>|&color(White){}|
+|>|&color(White){}|
+|CENTER:そちら||
+||CENTER:こちら|
+|CENTER:こちら||
+||CENTER:そちら|
+|CENTER:そちらへ||
+||CENTER:そちらへ|
+|CENTER:こちらへ||
+||CENTER:こちらへ|
+|>|&br()&br()&br()|
+|>|CENTER:&color(deepskyblue){残ったのは}&br()&color(slateblue){残ったのは}|
+||LEFT:半端に|
+|RIGHT:混ざった||
+||LEFT:泥水|
+|RIGHT:と||
+|RIGHT:沈んで||
+||LEFT:溶ろけた|
+|RIGHT:歌声||
+||LEFT:と|
+||LEFT:砂|
+|RIGHT:嵐&br()の||
+||LEFT:が|
+|RIGHT:め||
+||LEFT:ん|
+|RIGHT:と||
+||LEFT:ひ|
+|RIGHT:び||
+||LEFT:い|
+|RIGHT:た||
+||LEFT:よ|
+|RIGHT:い||
+||LEFT:ん|
+|RIGHT:だ||
+||LEFT:け|
+|>|CENTER:が|
+
+
+
+
+**コメント
+//- どろみずも… そのうちいつかは、 土と 清んだ水。 今はただ‥ “混乱にいるだけ。 -- あらら  (2010-12-04 16:13:28)
+- うわあぁぁ!耳が迷子だよぉぉ、でも良い曲！  -- あるる  (2012-04-05 19:21:51)
+- 歌詞編集させていただきました。  -- ７しろ  (2013-02-05 11:05:19)
+#comment()

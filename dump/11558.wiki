@@ -1,0 +1,38 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/488_20100804024853_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Wonderland}|CENTER:-|
+
+|&bold(){[[めろんてぃーP]]}|
+
+発売：2010年8月18日
+価格：￥900 / 1曲￥150
+流通：配信
+レーベル：KarenT
+ジャケットイラスト：[[遊ゆう>>http://piapro.jp/yuko0407]]
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/wonderland/id386763491]]}|
+
+**CD紹介
+-ボカロを通じて出会えた人たちに今までの感謝の気持ちを伝えたくて&br()ありったけの思いを込めて作りました。
+-めろんてぃーPの配信アルバム。
+-デビュー作「Our Days」から最新作「モラトリアムドライブ」までこれまで発表した全曲を収録している。
+-ボーカルは全て鏡音リン。
+
+**曲目
++[[Our Days]] （feat. 鏡音リン）
++[[虹色パレット]] （feat. 鏡音リン）
++[[未来地図]] （feat. 鏡音リン）
++[[モラトリアムドライブ]] （feat. 鏡音リン）
++スプーンと角砂糖 （feat. 鏡音リン）
++[[Wanderland]] （feat. 鏡音リン）
++[[君待ちクリスマスイブ]] （feat. 鏡音リン）
++[[さよならダイアリー]] （feat. 鏡音リン）
++倦怠期ブレイカー （feat. 鏡音リン）
+
+**リンク
+-[[KarenT：「Wonderland」>>http://karent.jp/album/488]]
+
+**コメント
+#comment()

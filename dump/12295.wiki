@@ -1,0 +1,34 @@
+#right(){&furigana(きみのいろ・ぼくのおと)&furigana()【登録タグ:&tags() 】}
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[雷鳴アンプリファ / 雷光サステイン>雷鳴アンプリファ／雷光サステイン]]&br()[[Jericho 941]]|CENTER:&bold(){キミの色・ボクの音}|CENTER:[[Graffiti>Graffiti/雷鳴PCD]]|
+
+|&bold(){[[雷鳴P]]}|青野あじる|
+
+発売：2010年7月19日
+価格：￥300
+流通：即売
+サークル：Art Polyphony
+
+**CD紹介
+-雷鳴PのシングルCD。
+-THE VOC@LOiD M@STER 13（ボーマス13）で頒布された。
+-動画やピアプロで発表された楽曲、全5曲入り。
+-ジャケットイラストは青野あじる氏。
+-翌月開催の夏コミ（C78）にてこれまで発表したシングル全曲＋αを再調整・収録したアルバム（『[[Graffiti>Graffiti/雷鳴PCD]]』）を頒布するため、このシングルは1度きりの頒布となった。
+
+**クロスフェード
+&nicovideo(sm11138257)
+
+**曲目
++[[キミの色・ボクの音]] / 初音ミク
++[[E.O.F]] / 鏡音リン
++[[セーブポイント]] / 鏡音レン
++On-Line / 巡音ルカ
++[[ネオクラシカ>ネオ・クラシカ]] / 初音ミク
+
+**リンク
+-[[閑話休題（作者ブログ）>>http://papillon0mm.blog15.fc2.com/]]
+-[[Art Polyphony（サークルサイト）>>http://art-polyphony.sakura.ne.jp/]]
+
+**コメント
+#comment()

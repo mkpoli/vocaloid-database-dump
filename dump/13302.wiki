@@ -1,0 +1,39 @@
+#right(){&furigana(ことえり)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/10923502" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/10923502">【ニコニコ動画】ことえり（♂）</a></iframe>)
+
+**特徴
+作り手名：『&u(){ことえり（♂）}』
+-2009年2月、「[[Dreamin' Heart]]」にてボカロPデビュー。
+-使用合成音声は初音ミク。
+-ボーカロイドオリジナル曲作成以外の活動として、歌い手へのMIX支援なども行っている。
+-音楽サークル「[[P.B.R -Permanent Beat Rock->>http://pb6.blog9.fc2.com/]]（ぱびぃろっく）」主催。
+
+**リンク
+-[[ニコニコ動画>>https://www.nicovideo.jp/user/8221827]]
+-[[PIAPRO>>https://piapro.jp/kotoeri777]]
+-[[Twitter>>https://twitter.com/kotoeri777]]
+
+**曲
+#list_by_tagsearch(ことえり（♂）,sort=furigana2,errmsg=まだ曲が登録されていません。,and,100)
+
+**CD
+#list_by_tagsearch(ことえり（♂）CD,sort=furigana2,errmsg=まだCDが登録されていません。,and,100)
+
+**動画
+|&nicovideo(sm6085868)|&nicovideo(sm7051327)|
+|&nicovideo(sm7087934)|&nicovideo(sm9786261)|
+|&nicovideo(sm11646780)||
+
+**関連タグ内の更新履歴
+#region(close,関連タグ内の更新履歴)
+関連タグ内の更新履歴
+※「ことえり（♂）」「ことえり（♂）CD」タグ内で最近編集やコメントのあった記事を新しい方から10件表示しています。
+#list_by_tagsearch(ことえり（♂）,ことえり（♂）CD,sort=timestamp,sort2=desc,errmsg=まだ曲、CDが登録されていません。,or,10)
+#endregion
+
+**コメント
+#comment()

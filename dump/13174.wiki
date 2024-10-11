@@ -1,0 +1,45 @@
+#right(){&furigana(しろいゆきのふりんせすは)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+//&ref(http://noboru.ciao.jp/prin/images/jacket.jpg)
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186109463.jpg,x=300,y=300)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Ecstasy]]|CENTER:&bold(){白い雪のプリンセスは}|CENTER:[[ショットガン・ラヴァーズ>ショットガン・ラヴァーズ/CD]]|
+
+|&bold(){[[のぼる↑]]}|
+
+|CENTER:流通|CENTER:即売|CENTER:委託（とらのあな、D-STAGE）|CENTER:配信（BOOTH）|CENTER:委託（BOOTH）|
+|CENTER:発売|>|CENTER:2010年7月19日|CENTER:2017月11月13日|CENTER:2020月5月1日|
+|CENTER:価格|CENTER:￥500|CENTER:￥735（税込）|CENTER:￥500|CENTER:￥700|
+|CENTER:サークル|>|>|>|CENTER:REONAlD|
+
+**CD紹介
+>&bold(){『祈っても &ruby(きみ){王子様}は まだ来ない』}
+CD名：『&u(){白い雪のプリンセスは}』（&u(){しろいゆきのぷりんせすは}）
+-のぼる↑の2ndシングル。
+-&bold(){コンピレーションCD『[[EXIT TUNES PRESENTS Supernova 2]]』への書き下ろし曲「[[白い雪のプリンセスは]]」の動画版に加え、「[[グッナイ・トゥナイ]]」のGUMI歌唱版とカラオケ2曲の計4トラックを収録。}
+-THE VOC@LOiD M@STER 13（ボーマス13）で初頒布。
+-&bold(){BOOTHにて通販とダウンロード販売が行われている。}
+--&bold(){以前はとらのあなとD-STAGEで委託販売が行われたが、現在は終了している。}
+
+
+**曲目
++[[白い雪のプリンセスは]] / 初音ミク
++[[グッナイ・トゥナイ]] / GUMI &color(red){NEW!!}
++白い雪のプリンセスは -instrument-
++グッナイ・トゥナイ -instrument- &color(red){NEW!!}
+
+**リンク
+-[[作者サイト>>http://www.reonald.com/]]
+-[[特設ページ>>http://www.reonald.com/prin/]]
+-[[D-STAGE>>http://d-stage.com/shop/detail.php?seq=15689]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/22/96/040010229647.html]]
+
+**コメント
+- この曲私、好きです鏡よ鏡よ鏡さんの所が好き  -- 名無しさん  (2011-03-29 17:28:12)
+- 王子様をきみって読むとこが、大好き  -- 名無しさん  (2011-05-29 21:31:20)
+#comment()

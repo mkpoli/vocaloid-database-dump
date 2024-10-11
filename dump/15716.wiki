@@ -1,0 +1,24 @@
+#right(){&furigana(てんこうP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/7521261" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/7521261">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-主にMMD動画を投稿しているPである。
+--オリジナル曲でも、MMD職人としての技術が光るPVで魅せてくる。
+-P名の由来は「輝く世界」の動画のミクがまるで手品をしているように見え、&br()それがプリンセス天功になぞらえられたことから。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/ss12345678]]
+
+**曲
+#list_by_tag(テンコウP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+//**CD
+//#list_by_tag(テンコウPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm3654113)|&nicovideo(http://www.nicovideo.jp/watch/sm5183228)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6138950)|&nicovideo(http://www.nicovideo.jp/watch/sm6139113)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6139260)|&nicovideo(http://www.nicovideo.jp/watch/sm6907459)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7934561)|&nicovideo(http://www.nicovideo.jp/watch/sm9689045)|
+
+**コメント
+#comment()

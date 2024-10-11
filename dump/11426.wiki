@@ -1,0 +1,29 @@
+#right(){&furigana(obas)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://ext.nicovideo.jp/thumb_mylist/37869042" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/37869042">【ニコニコ動画】%E3%81%8A%E3%81%B0%E3%81%99%E3%81%AE%E6%9B%B2</a></iframe>)
+
+**特徴
+作り手名：『&u(){obas}』（&u(){おばす}）
+-デビュー作は2008年7月の「[[behind memories]]」。
+-それ以降1年単位で作品を投稿している。
+//-作品数こそまだ少ないが、今後が期待されているP。
+
+//**リンク
+//-[[Twitter>>https://twitter.com/o_b_a_s]]
+
+**曲
+#list_by_tag(obas,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(obasCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm3995235)|&nicovideo(sm8222731)|
+|&nicovideo(sm10991449)|&nicovideo(nm12105612)|
+|&nicovideo(sm15049582)|&nicovideo(sm21357439)|
+
+**コメント
+#comment()

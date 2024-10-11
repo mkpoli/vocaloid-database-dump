@@ -1,0 +1,28 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/15013299" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/15013299">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-代表作に「[[リリリリ！]]」や「ふひひwサーセンww」などがある。
+-つい最近までミクのみを使っていたが、前述の「リリリリ！」が初のLily曲投稿となる。
+
+**リンク
+-[[akiwoの独り言（個人ブログ）>>http://blog.livedoor.jp/akiwoakiwo/]]
+-[[Twitter>>https://twitter.com/akiwoakiwo]]
+-[[PIAPRO>>http://piapro.jp/kouichi185]]
+
+**曲
+#list_by_tag(akiwo,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(akiwoCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm9025557)|&nicovideo(http://www.nicovideo.jp/watch/sm8949653)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9069451)|&nicovideo(http://www.nicovideo.jp/watch/sm8582997)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9432509)|&nicovideo(http://www.nicovideo.jp/watch/sm11885715)|
+
+**コメント
+- この人の曲すっごくいい?  -- ニコ厨  (2011-11-12 22:45:28)
+- ぬかしおる  -- 名無しさん  (2012-08-24 06:32:10)
+- ボクの考えた最高のヒーロー早く配信してほしい  -- 名無しさん  (2013-02-20 22:50:32)
+#comment()

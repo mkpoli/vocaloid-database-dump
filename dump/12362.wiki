@@ -1,0 +1,35 @@
+#right(){&furigana(PICTURE)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm12262538)|
+作詞：[[あルカP]]
+作曲：[[あルカP]]
+編曲：[[あルカP]]
+唄：[[miki>SF-A2 開発コード miki]]
+
+**曲紹介
+曲名：『&u(){PICTURE}』
+-ゆったりした雰囲気の三拍子の曲となっております。いつか見た景色を回想しているような感じです。（動画説明文より転載）
+-「キラミキ★フェスティバル」企画の参加曲。
+
+**歌詞
+遠い記憶から　Recall　Recall
+あの時あの場所　Recall for the people
+刹那に瞬く　キラ　キラ
+君の手を握る　僕を信じて
+
+幼い思い出　Recall　Recall
+あの時あの場所　Recall for the future
+次元を超えてく　キラ　キラ
+君の手を握る　僕を信じて
+
+遠い記憶から　Recall　Recall
+あの時あの場所　Recall for the people
+刹那に瞬く　キラ　キラ
+君の手を握る　僕を信じて
+
+
+**コメント
+#comment()

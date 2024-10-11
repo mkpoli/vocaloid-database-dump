@@ -1,0 +1,49 @@
+#right(){&furigana(はびたぶるぞーん)&furigana()【登録タグ:&tags() 】}
+
+&ref(https://booth.pximg.net/c/620x620/db6f7b42-8162-4137-9a77-82e55a21b5a0/i/592984/72d7a446-6871-43a8-9eef-7dbf4a85fbc9_base_resized.jpg,x=300,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm13052839)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[神無月夜]]|CENTER:&b(){ハビタブルゾーン}|CENTER:[[E-emotions]]|
+
+|&b(){[[卑屈P]]}|
+
+|流通|CENTER:即売|CENTER:委託|CENTER:通販|
+|発売|CENTER:2010年12月31日||2017年8月11日|
+|価格|CENTER:￥1,000|CENTER:￥1,260（税込）|CENTER:￥500|
+|サークル|>|>|CENTER:音戯噺屋|
+
+**CD紹介
+-&b(){卑屈P}の4thアルバム。
+-新曲2曲と『[[DEBUTANTE V]]』収録の「アイスエイジ」を含む全11曲が収録されている。
+-ジャケットイラストは&b(){霧雨。}が手掛ける。
+-コミックマーケット79で初頒布。
+-とらのあなで委託販売が行われていた。
+--現在はBOOTHにて通販が行われている。
+
+**曲目
++[[イン マイ ワールド]]　/　巡音ルカ
++[[天罰]]　/　鏡音レン
++[[○○離れ ～最近の若者は～]]　/　初音ミク
++[[数多の舞 -Dance of many-]]　/　初音ミク
++[[神無月夜]]　/　巡音ルカ
++[[般若の面 -Mask of hannya-]]　/　鏡音リン・鏡音レン
++[[左右 -みぎひだり-]]　/　初音ミク
++[[非実在青少年健全育成法]]　/　初音ミク
++[[アイスエイジ]]　/　初音ミク
++[[ジョークルホープス]]　/　初音ミク　&color(red){New!}
++ハビタブルゾーン　/　鏡音リン　&color(red){New!}
+
+**リンク
+-[[C79特設ページ>>http://music.geocities.jp/jjjjjirai8/c79.html]]
+-[[音戯噺200X（卑屈Pのブログ）>>http://jirai8.blog101.fc2.com/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/26/13/040010261303.html]]
+-[[BOOTH>>https://otogibanashiya.booth.pm/items/592984]]
+
+**コメント
+- 発売待ち←早すぎ  -- だらっしゃあー  (2011-04-01 14:24:46)
+//- ２コメげっとおお＊＾＾＊
+- これもう発売してますよね？  -- みくみくぅー  (2011-04-01 14:29:15)
+- 非実在青少年健全育成法入ってる！これは買いだ！  -- 零奈  (2011-09-23 14:02:50)
+#comment()

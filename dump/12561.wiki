@@ -1,0 +1,64 @@
+#right(){&furigana(clear) &furigana()【登録タグ:&tags() 】}
+|&ref(http://k-kei.versus.jp/zeghed/shbd0014_jak.jpg)&br()CD版ジャケット|&ref(http://karent.jp/npdca/1122_20120818004759_0280_0280.jpg)&br()配信版ジャケット|
+
+//#image(http://k-kei.versus.jp/zeghed/c78_anibn.gif" border="0" )
+//
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[キラキラなコドモ / escaper>キラキラなコドモ／escaper]]|CENTER:&bold(){crystaL-next-&br()（crystaL-from,next-）}|CENTER:[[crystaL-before-]]|
+
+|&bold(){[[とらのあなで購入する>>http://www.toranoana.jp/mailorder/article/04/0010/23/45/040010234575.html]]}|
+
+|&bold(){[[クリスタルP]]}|[[キッドP]]|
+
+||CENTER:即売|CENTER:同人|CENTER:配信|
+|発売|CENTER:2010年8月14日|CENTER:2010年8月16日|CENTER:2012年9月7日|
+|価格|CENTER:￥1,000|CENTER:￥1,365（税込）|CENTER:￥900 / 1曲￥150|
+|サークル|>|CENTER:zegHed Label||
+
+作詞・作曲：&bold(){[[クリスタルP]],[[キッドP]]}
+イラスト：[[ラグゼモユ>>http://seventhzero.ame-zaiku.com/]]
+
+**CD紹介
+-クリスタルPの3枚目のフルアルバム。コミックマーケット78にて初頒布された。
+-クリスタルP初の鏡音リン調声曲『芒果布丁』、ACT2鏡音レンデュエット曲『託卵』がある。また調声といってよいかわからないがディレイラマも使用した『魔法のソラまで』もあるｗ
+-今作も作曲で[[キッドP]](M10)、調声協力としてbestgt氏が（M4：MEIKO,巡音ルカ,GUMI　M6：KAITO）にて参加している。
+-『[[EXIT TUNES PRESENTS Vocalogenesis feat. 初音ミク]]』にて収録された「[[erase or zero]]」のoff vocalバージョンがボーナストラックとして収録されている。
+-2012年にはCD版より8曲をチョイスした配信版『crystaL-from,next-』がリリースされた。
+
+**曲目
+***CD版
++Introduce -鏡音レンのデモテープ其ノ壱-
++[[campanula blue]]
++[[芒果布丁]] -duet with,鏡音リン-
++[[指輪>指輪/クリスタルP]]
++Interlude -鏡音レンのデモテープ其ノ弐-
++魔法のソラまで -duet with,KAITO and, Delay Rama-
++[[春樹-harunoki-]]
++託卵 -Act,2&Act,1-
++ボールフレンド
++earLy days（マスレンADV同人ゲーム『レンアイholic』主題歌）
++[[湖城]]
++campanula blue -off vocal-
++指輪 -off vocal-
++春樹-harunoki-～ -off vocal-
++earLy days -off vocal-
++[[erase or zero]] -Vocalogenesis mix's off vocal-
+
+***配信版
++Introduce -鏡音レンのデモテープ其ノ壱-
++[[campanula blue]] （feat. 鏡音レン）
++[[指輪>指輪/クリスタルP]] （feat. 鏡音レン）
++魔法のソラまで （feat. 鏡音レン&KAITO）
++託卵 （feat. 鏡音レン）
++Interlude -鏡音レンのデモテープ其ノ弐-
++ボールフレンド （feat. 鏡音レン）
++earLy days （feat. 鏡音レン）
+
+**リンク
+-[[作者ホームページ>>http://k-kei.versus.jp/]]
+-[[KARENT：「crystaL-from,next-」>>http://karent.jp/album/1122]]
+
+**コメント
+- アニメイトでうってるの？  -- るるか  (2011-04-07 17:31:30)
+- バナーがあると、なぜか携帯からの閲覧時にタグとジャケ写のみのページになっていたので、非表示にさせていただきました。  -- 名無しさん  (2011-04-08 02:36:51)
+#comment

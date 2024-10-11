@@ -1,0 +1,31 @@
+#right(){&furigana(ろっか)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/25745563" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/25745563">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-2010年11月、「[[葬送夜光]]」でデビューした作り手。
+-使用ボカロは初音ミク・巡音ルカ・鏡音リン。
+-次々と楽曲を発表しており、今度の動向が期待される。
+
+**リンク
+-[[灰色Logic（作者ホームページ）>>http://www.gray-zone.net/]]
+-[[Twitter>>http://twitter.com/Rocka_CMH]]
+
+**曲
+#list_by_tag(六歌,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(六歌CD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm12617613)|&nicovideo(sm12841691)|
+|&nicovideo(sm13110111)|&nicovideo(sm13152806)|
+|&nicovideo(sm13539238)|&nicovideo(sm14501892)|
+|&nicovideo(sm15089054)|&nicovideo(sm15371592)|
+|&nicovideo(sm15485051)|&nicovideo(sm16538347)|
+|&nicovideo(sm18352850)|&nicovideo(sm20749391)|
+|&nicovideo(sm21544339)|&nicovideo(sm24173350)|
+
+**コメント
+- もっと評価されるべき  -- 名無しさん  (2011-06-30 16:26:42)
+- 本当にもっと評価されるべき。全部好きだけど特にデビュー作の葬送夜光が好き。言葉の選び方がかっこいい。ずっと大好きな曲です。  -- 名無しさん  (2012-11-30 00:19:42)
+#comment()

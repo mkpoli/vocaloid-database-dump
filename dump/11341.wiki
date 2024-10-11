@@ -1,0 +1,28 @@
+#right(){&furigana(こかんまふらーP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/30929129" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/30929129">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-'09年に股間マフラーPと襲名される。 
+-真面目な歌詞の場合、本気マフラーＰに改名するらしい。
+-曲はシンプルで、欲望に忠実すぎる歌詞と真面目な歌詞の両極端。
+-万年進歩がないのは明らかな特徴だ。
+
+**リンク
+-[[Twitter>>http://twitter.com/honki_muffler_p]]
+-[[本気マフラーP公式サイト>>http://honki-muffler-p.boy.jp/]]
+-[[本気マフラーPブログ>>http://honki-muffler-p.hateblo.jp/]]
+-[[ピアプロ>>http://piapro.jp/nokoyan]]
+
+**曲
+#list_by_tag(股間マフラーP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(股間マフラーPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+マイリストが多い上位４曲
+|&nicovideo(http://www.nicovideo.jp/watch/sm12969694)|&nicovideo(http://www.nicovideo.jp/watch/sm16220695)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm17588075)|&nicovideo(http://www.nicovideo.jp/watch/sm17642133)|
+
+**コメント
+#comment()

@@ -1,0 +1,37 @@
+#right(){&furigana(あなたのいるばしょ)&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/493_20100806225845_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[AIMS>AIMS/CD]]|CENTER:&bold(){あなたのいる場所 -Important Place-}|CENTER:[[Fragments>Fragments/shu-tPCD]]|
+
+|&bold(){[[shu-tP]]}|
+
+発売：2010年8月31日
+価格：￥600 / 1曲￥150
+流通：配信
+レーベル：KarenT
+ジャケットイラスト：shu-t
+
+|&bold(){[[iTunes Storeで購入>>http://itunes.apple.com/jp/album/id388925360]]}|
+
+**CD紹介
+-shu-tPの配信EP。
+-ミクとMEIKOのデュエット曲として発表した「あなたのいる場所」の各ソロバージョンとインスト、某スマートフォン用アプリで演奏したバージョンを先行公開していた新曲の計5トラックを収録。
+-KarenTレーベルの初音ミク3周年記念企画で配信された作品の1つ。
+
+**曲目
++[[あなたのいる場所 -Important Place->あなたのいる場所]] （feat. 初音ミク）
++あなたのいる場所 -Important Place- （feat. MEIKO）
++[[SUNSHINE -Original mix->SUNSHINE]] （feat. 初音ミク）
++SUNSHINE -Nano live mix- （feat. 初音ミク）
++あなたのいる場所 -Important Place- （Vocal-less）
+
+**動画
+|&nicovideo(sm11923960)|&nicovideo(http://www.nicovideo.jp/watch/sm11526647)|
+
+**リンク
+-[[KarenT：「あなたのいる場所 -Important Place-」>>http://karent.jp/album/493]]
+-[[KarenT：「初音ミク 3rd Anniversary」特集ページ>>http://karent.jp/special/miku10]]
+
+**コメント
+#comment()

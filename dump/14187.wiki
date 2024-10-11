@@ -1,0 +1,59 @@
+#right(){&furigana()&furigana()【登録タグ:&tags()】}
+&nicovideo(http://www.nicovideo.jp/watch/sm11514622)
+作詞：[[hashibami]]
+作曲：[[hashibami]]
+編曲：[[hashibami]]
+唄：フェイル音アイド Solid Append VCV・初音ミク
+英語コーラス：沖編歌エビ
+
+**曲紹介
+-VOCALOIDとUTAUによるオリジナル曲の1つ。
+-英語パートはフェイル音アイドが、日本語パートは初音ミクが担当している。
+
+**歌詞
+Monday night, 
+I stayed up in front of my PC.
+Blinding site,
+What key words was I search for?
+
+Tuesday night,
+I shut down my clouding eyes. 
+Lacking words are still left behind in the search box.
+
+Now, its gonna break Wednesday!
+I'm dreaming vibration of a bedside cellphone. 
+And, its gonna be Thursday!
+Please call my name, my dear...
+
+
+Friday Morning,
+I woke up in front of my PC.
+D-D Things!
+I haven't done term reports yet! 
+
+
+君を待ってた　
+そうじゃなきゃ切ってた
+浴室で見上げても
+朝はどこにもなかった
+
+
+Now, Its gonna break Saturday!
+Still dreaming a plastic bag for yesterday?
+And, Its gonna be Sunday!
+A week on the mail server is ending ...
+
+Now, Its gonna break Sunday!
+Your name is Münchhausen, Please remenber me... 
+And, do you wanna be "ABEND"?
+Never mind! Me too!
+So, this's a jokey nightmare!
+
+
+君を待ってた
+寂しさを切ってた
+浴室でうずくまって
+朝が来るのを待ってた
+
+**コメント
+#comment()

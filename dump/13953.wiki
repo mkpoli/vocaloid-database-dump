@@ -1,0 +1,49 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#amazon(B004D8NOKI)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[parallel†unbalance>parallel†unbalance/CD]]|CENTER:&bold(){Hopeless Track / Innersoul}|CENTER:[[宙ノ未来>宙ノ未来/CD]]|
+
+|&bold(){[[IIG]]}|[[ziki_7]]|
+
+||CENTER:同人|CENTER:配信|CENTER:即売|
+|発売|CENTER:2010年12月31日|CENTER:2011年1月5日|CENTER:2011年1月16日|
+|価格|CENTER:￥1,500（税込）|CENTER:￥1,200 / 1曲￥150|CENTER:￥1,000|
+|サークル|>|>|CENTER:Studio IIG|
+
+|&bold(){[[iTunes Storeで購入>>http://itunes.apple.com/jp/album/hopeless-track-innersoul/id409337004]]}|
+
+**CD紹介
+-ポップな希望のHopeless Track/夢とバラードのInnersoul&br()全曲リマスター＋新曲も併せて詰め込んだStudio IIG初のVOCALOIDオリジナル・フルアルバム。
+-これまで発表したほぼすべての楽曲を網羅している。新曲「Innersoul」は、ziki_7 氏によるリミックス版も同時収録。
+-ジャケットイラストは ガガ 氏。
+-Webデザイン・ジャケットデザインは[[ripple]]氏。
+-Amazon、とらのあな、メロンブックスでの委託販売、KarenTレーベルよりのダウンロード販売が行われている。
+
+**クロスフェード動画
+&nicovideo(sm12918997)
+
+**曲目
++Hopeless Track
++[[サクサクラッキーガール]]
++[[Theory>Theory/IIG]]
++[[クルクルシーソーゲーム]]
++[[parallel†unbalance]]
++[[A Lover Runs Through It]]
++[[Innersoul]]
++[[夜の憧憬]]
++[[Fomalhaut]]
++[[冬の魔法>冬の魔法/IIG]]
++[[All Your Memories]]
++Innersoul （heart maze recollection mix）
+
+**リンク
+-[[作者サイト>>http://studioiig.com/]]
+-[[アルバム特設ページ>>http://studioiig.com/discography/htil/]]
+-[[Amazon>>http://www.amazon.co.jp/dp/B004D8NOKI/studioiig-22/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/25/01/040010250109.html]]
+-[[メロンブックス>>http://shop.melonbooks.co.jp/shop/list/?DA=ds&MF=Studio+IIG&SC=0&G=&E=ON&CR%5B%5D=18&CR%5B%5D=15&CR%5B%5D=0&O=publish_date_desc&P=10&DS=desc]]
+-[[KarenT>>http://karent.jp/album/616]]
+
+**コメント
+#comment()

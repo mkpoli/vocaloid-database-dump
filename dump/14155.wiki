@@ -1,0 +1,44 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#image(http://seven-colors.info/ac_banner-01.jpg,http://seven-colors.info/apricotcarol_hp/,title=apricot carol,blank)
+#amazon(B004FLW2DI)
+
+&nicovideo(sm12981790)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[infrared]]|CENTER:&bold(){apricot carol}|CENTER:[[One Night Disco]]&br()[[嘘つきイミテーション]]|
+
+|&bold(){[[nana]]}|
+
+||CENTER:即売|CENTER:同人|CENTER:配信|
+|発売|>|CENTER:2010年12月31日|CENTER:2012年12月5日|
+|価格|CENTER:￥1,000|CENTER:￥1,500（税込）|CENTER:￥900 / 1曲￥150|
+|サークル|>|CENTER:Sevencolors||
+
+**CD紹介
+>&b(){この夜空にVOCALOIDのキャロルが鳴り響く。}
+-[[nana]]氏所属のサークル「Sevencolors」の2ndミニアルバム。
+-Sevencolorsが再び贈る、ポップでキュートなVOCALOIDの世界。&br()アッパーなトラックから切ないバラードまで幅広く取り揃え、さらにボーナストラックも収録した全7曲はまさに七色に輝く！
+-2010年冬コミ（C79）、THE VOC@LOiD M@STER 15（ボーマス15）にて頒布。とらのあな、D-STAGE、メロンブックス、Amazon.co.jpで委託販売が行われている。
+-2012年12月には『Sevencolors 2nd mini album apricot carol』のタイトルでKARENTレーベルよりダウンロード販売が開始された。
+
+**曲目
++[[One Night Disco]] / 巡音ルカ
++[[スウィートビター]] / 初音ミク　　　※『[[Try!]]』収録曲
++[[流星サウンド]] / 初音ミク　　　※『[[Stellarium]]』収録曲
++Till Tears Overflow (Radio Edit) / 初音ミク　　　※『[[vocaloholic]]』収録曲
++[[コスモノート>コスモノート/nana]] / 初音ミク
++[[Re:>Re:/nana]] / 初音ミクDark
++Till Tears Overflow (Extended Mix Ver.GUMI) / Megpoid
+
+**リンク
+-[[作者サークルサイト>>http://seven-colors.info/]]
+-[[特設ページ>>http://seven-colors.info/apricotcarol_hp/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/cit/pagekit/0000/00/04/000000042028/index.html]]
+-[[D-STAGE>>http://d-stage.com/shop/detail.php?seq=18116]]
+-[[メロンブックス>>http://shop.melonbooks.co.jp/shop/sp_213001007994_sevenc_apricotc.php]]
+-[[Amazon.co.jp>>http://www.amazon.co.jp/dp/B004FLW2DI]]
+-[[KARENT：「Sevencolors 2nd mini album apricot carol」>>http://karent.jp/album/1174]]
+
+**コメント
+- amazonで買いました。帯の裏みて笑ったｗ  -- 名無しさん  (2011-04-27 18:58:31)
+#comment()

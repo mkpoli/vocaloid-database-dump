@@ -1,0 +1,43 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/471_20100707094335_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[World Breakout feat. 巡音ルカ ]]|CENTER:&bold(){REBOOT feat. 初音ミク}|CENTER:[[黒のツバサ>黒のツバサ/CD]]|
+
+|&bold(){[[そそそP]]}|
+
+発売：2010年7月28日
+価格：￥1,200 / 1曲￥150
+流通：配信
+レーベル：KarenT
+ジャケットイラスト：[[ウミネコ>>http://piapro.jp/susineko18]]
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/id383269705]]}|
+
+**CD紹介
+-初音ミクをフィーチャーしたアルバム第2弾。
+-本作のためにリファインされた「[[Try for Keeps-時代はいつでもLOOPする-]]」「[[Freeze]]」「[[Fall in love with you>Fall in love with you/そそそP]]」をはじめ書き下ろし楽曲も複数収録。
+-トランス、ヒップホップ、ハイエナジー、ラブバラード…さまざまなジャンルを取り入れ、世代を越えたサウンドながらも、楽曲の全てに必ず『J-POP』を感じることだろう。
+-クロスフェード動画は[[こちら>>http://www.youtube.com/watch?v=XilInm4OV0c]]。
+
+**曲目
++[[Generation Breaker]]
++[[Try for Keeps-時代はいつでもLOOPする-]] (Album Edition)
++[[Freeze]] (Album Edition)
++[[愛の翼-Eternal Song-]]
++[[Fly with me>Fly with me/そそそP]]
++[[Fall in love with you>Fall in love with you/そそそP]] (Album Edition)
++Experience Point
++[[I wanna keep your smile]]
++素直になれたら
++[[South Wind Memories]]
++[[僕達のセカイ]]
++[[White Railroad]]
+
+**リンク
+-[[KarenT：「REBOOT feat. 初音ミク」>>http://karent.jp/album/471]]
+-[[S-TRIBE.NET（作者サイト）>>http://www.s-tribe.net/]]
+-[[「REBOOT feat. 初音ミク」スペシャルページ>>http://www.s-tribe.net/reboot/index.html]]
+
+**コメント
+#comment()

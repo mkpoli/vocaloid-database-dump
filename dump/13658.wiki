@@ -1,0 +1,40 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/609_20101206032752_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[crystaL-next-]]|CENTER:&bold(){crystaL-before-}|CENTER:[[CK-album- Ver,0.9]]|
+
+|&bold(){[[クリスタルP]]}|[[キッドP]]|bestgt|
+
+発売：2010年12月27日
+価格：￥1,200 / 1曲￥150
+流通：配信
+レーベル：KarenT
+ジャケット：[[みぎわ蓮>>http://piapro.jp/migiwa]]
+
+**CD紹介
+>―“next”の、序章。―『crystaL-before-』
+
+-クリスタルPの配信アルバム。
+-KarenTの鏡音リン・レン3周年記念企画で配信された作品の1つ。
+-CDや動画で発表した楽曲の他、新曲も収録した全10曲。
+
+**曲目
++unveiled （feat. 鏡音レン&KAITO）
++circular （feat. 鏡音レン）
++八月三十一日 （feat. 鏡音レン）
++パラエイト （feat. KAITO）　（Produced by bestgt）
++[[beginning of Last]] （feat. 鏡音レン&KAITO）
++セピアに変わる日 （feat. 鏡音レン）　（compesed by キッドP）
++[[ノヴァトラベル]] （feat. 鏡音レン）
++re-birth me （feat. 鏡音レン&KAITO）　（Produced by bestgt）
++[[湖城]] （feat. 鏡音レン）
++[[farewell speaker]] （feat. 鏡音レン）　　&bold(){&font(red){NEW!!}}
+
+**リンク
+-[[作者サイト>>http://k-kei.versus.jp/zeghed/]]
+-[[KarenT：「crystaL-before-」>>http://karent.jp/album/609]]
+-[[KarenT：「鏡音リン・レン祭'10」特集ページ>>http://karent.jp/special/rinlen10]]
+
+**コメント
+#comment()

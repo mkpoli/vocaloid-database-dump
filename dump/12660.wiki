@@ -1,0 +1,31 @@
+#right(){&furigana(もみじ　2010ねん、あき)&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/537_20100929014213_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[てのひらの青]]|CENTER:&bold(){椛路 -2010年、秋-}|CENTER:[[まほらま]]|
+
+|&bold(){[[つるつるP]]}|
+
+発売：2010年10月20日
+価格：￥150
+流通：配信
+レーベル：KarenT
+ジャケットイラスト：[[裏花火]]
+
+|&bold(){[[iTunes Storeで購入>>http://itunes.apple.com/jp/album/id397955464]]}|
+
+**CD紹介
+-つるつるPの配信シングル。
+-KarenTの「秋の唄'10」企画で配信された作品の1つ。
+-「[[椛路]]」のレンバージョン。
+
+**曲目
++[[椛路]] -2010年、秋- （feat. 鏡音レン）
+
+**リンク
+-[[KarenT：「椛花 -2010年、秋-」>>http://karent.jp/album/537]]
+-[[KarenT：「秋の唄'10」特集ページ>>http://karent.jp/special/autumn10]]
+-[[作者ブログ>>http://sodamelon.blog21.fc2.com/]]
+
+**コメント
+#comment()

@@ -1,0 +1,30 @@
+#right(){&furigana(らぁらぁ〜P)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+//&nicovideo_mylist(ここにマイリストブログパーツのiframe用をコピペ)
+
+**特徴
+作り手名：『&u(){らぁらぁ〜P}』
+-アーティスト名は&b(){Masaki_NR}。
+-「[[Starlite★Lydian]]」は「Project DIVA AC」の製品版に採用された。
+//-作品こそまだ少ないものの、これからの活躍が期待されているPである。
+
+**リンク
+-[[ピアプロ>>https://piapro.jp/rvlyes]]
+
+**曲
+#list_by_tag(らぁらぁ〜P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(らぁらぁ〜PCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(nm8520667)|&nicovideo(nm10319053)|
+|&nicovideo(sm12457965)|>|
+
+**コメント
+- wsxtw  -- 名無しさん  (2014-07-15 09:09:11)
+- すきな人だから、曲少なで居なくなったのが惜しすぎる  -- 練習試合  (2023-10-30 19:42:00)
+#comment()

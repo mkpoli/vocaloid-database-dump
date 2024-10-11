@@ -1,0 +1,55 @@
+#right(){&furigana(Masayoshin)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/23934875" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/23934875">【ニコニコ動画】</a></iframe>)
+
+**特徴
+作り手名：『&u(){Masayoshi_n}』(&u(){まさよし えぬ})
+-ポップな曲調を主に作っていきます
+-思い通りと違った曲ばかりできます
+-ですので「こういう曲作って！」てのはだいたい無理ですｗ
+-最近DTM環境ができたので色々やっていきたいです
+-ボーカロイドもまだまだですが、よろしくお願いします
+
+**リンク
+-[[ブログ>>http://bgatanet.seesaa.net/]]
+-[[ツイッター>>http://twitter.com/masayoshi_n]]
+-[[ピアプロ>>http://piapro.jp/masayoshi_n]]
+-[[つづきレコード（個人レーベル）>>http://www.tsuzuki-rec.com/]]
+
+**曲
+#list_by_tag(Masayoshi_n,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(Masayoshi_nCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm23183727)|&nicovideo(http://www.nicovideo.jp/watch/sm23012464)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm21621381)|&nicovideo(http://www.nicovideo.jp/watch/sm21397457)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm21008133)|&nicovideo(http://www.nicovideo.jp/watch/sm20903041)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm20639882)|&nicovideo(http://www.nicovideo.jp/watch/sm20211606)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm19966797)|&nicovideo(http://www.nicovideo.jp/watch/sm19726533)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm19478794)|&nicovideo(http://www.nicovideo.jp/watch/sm19293634)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm19111228)|&nicovideo(http://www.nicovideo.jp/watch/sm18924669)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm18694219)|&nicovideo(http://www.nicovideo.jp/watch/sm18339961)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm17973353)|&nicovideo(http://www.nicovideo.jp/watch/sm17693957)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm17552732)|&nicovideo(http://www.nicovideo.jp/watch/sm17418502)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm17116569)|&nicovideo(http://www.nicovideo.jp/watch/sm16844153)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm16580386)|&nicovideo(http://www.nicovideo.jp/watch/sm16311877)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm16043391)|&nicovideo(http://www.nicovideo.jp/watch/sm15757776)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm15522590)|&nicovideo(http://www.nicovideo.jp/watch/sm15187562)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm14890330)|&nicovideo(http://www.nicovideo.jp/watch/sm14760573)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm14620239)|&nicovideo(http://www.nicovideo.jp/watch/sm14462586)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm14319498)|&nicovideo(http://www.nicovideo.jp/watch/sm14189634)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm14083523)|&nicovideo(http://www.nicovideo.jp/watch/sm14547198)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm13796907)|&nicovideo(http://www.nicovideo.jp/watch/sm13739625)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm13658460)|&nicovideo(http://www.nicovideo.jp/watch/sm13594525)|
+
+-コラボ作品です
+|&nicovideo(http://www.nicovideo.jp/watch/sm14687900)|
+
+**コメント
+- 季節感あふれる感じが良さげ。聞いてきます(^^ゞ  -- すがり  (2013-08-03 15:33:36)
+#comment()

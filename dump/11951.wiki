@@ -1,0 +1,28 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/19167563" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/19167563">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-テクノ・テクノポップを中心に楽曲を発表している。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/solareca]]
+-[[muzie>>http://www.muzie.co.jp/artist/a002527/]]
+-[[MySpace>>http://www.myspace.com/abstractzero]]
+
+**曲
+#list_by_tag(solareca,100,sort=furigana,errmsg=まだ曲が登録されていません)
+//**CD
+//#list_by_tag(solarecaCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/nm10798060)|&nicovideo(http://www.nicovideo.jp/watch/nm10839366)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm11221086)|&nicovideo(http://www.nicovideo.jp/watch/nm11315580)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm11460983)|&nicovideo(http://www.nicovideo.jp/watch/nm11481239)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm11917874)|&nicovideo(http://www.nicovideo.jp/watch/sm12188986)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12365161)|&nicovideo(http://www.nicovideo.jp/watch/sm13929156)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm14558372)|&nicovideo(http://www.nicovideo.jp/watch/sm14586099)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm15078591)|&nicovideo(http://www.nicovideo.jp/watch/sm15139977)|
+
+**コメント
+- とりあえず動画を嵩増ししてみました。大丈夫だろうか...  -- 名無しさん  (2011-07-29 13:26:18)
+#comment()

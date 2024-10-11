@@ -1,0 +1,23 @@
+#right(){&furigana(かむはら)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/5293007" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/5293007">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-使用ボカロはミク・KAITO。
+-Pとしての活動期間は2008年2月から。素朴な曲が多い。
+
+**リンク
+-[[ピアプロ>>http://piapro.jp/kambara]]
+
+**曲
+#list_by_tag(かむばら,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(かむばらCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm3571599)|&nicovideo(http://www.nicovideo.jp/watch/sm2454506)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2828276)|&nicovideo(http://www.nicovideo.jp/watch/sm12000771)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2523460)|&nicovideo(http://www.nicovideo.jp/watch/sm8284915)|
+
+**コメント
+#comment()

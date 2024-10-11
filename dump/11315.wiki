@@ -1,0 +1,45 @@
+#right(){&furigana(しんや、りゅうはゆめよりさめ)&furigana()【登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186109154.jpg,x=300,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm11526247)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[籠の中の雛龍>籠の中の雛龍/CD]]|CENTER:&bold(){真夜、龍ハ夢拠リ醒メ}|CENTER:-|
+
+|&bold(){[[弱音P]]}|[[つるつるP]]|[[No.D]]|[[みろんP]]|[[U-ske]]|
+
+発売：2010年08月14日
+価格：￥1000（税込）
+流通：即売
+サークル：Y-Project
+
+**CD紹介
+-弱音P4thアルバム。コミックマーケット78・2日目、東ク03aにて頒布されます。
+-新曲・リミックスに加え、4名のゲストによるアレンジを加えた16曲を収録。
+-ジャケットイラストは&b(){[[零花>>http://cloviastudio.net]]}が担当。
+
+**曲目
++Fantagia ～Sword＆Magic～（原曲：マクガフィン「[[剣と魔法のファンタジア]]」）
++[[双月ヘ到ル階]]
++[[Returnee]]
++Spring Fairy
++[[あなたがくれたオト]] ミクAppend歌唱版
++[[幻想舞姫]]
++[[龍ノ啼ク箱庭拠リ]] ミクAppend歌唱版
++[[籠の中の雛龍]] ミクAppend歌唱版
++[[真夜、龍ハ夢拠リ醒メ]]
++[[blood sea]] ミクAppend歌唱版
++[[cyber diver]]
++[[シャイン！]] 2010 Solid ver.
++籠の中の雛龍 つるP arrange ver.
++幻想舞姫 -chorus ver.- No.D
++双月ヘ到ル階 -the other version by MiRON-
++Returnee(u-ske's hope remix)
+
+**リンク
+-[[特設サイト>>http://yumeyori.web.fc2.com/]]
+-[[作者ブログ>>http://mejipa.blog16.fc2.com/]]
+
+**コメント
+#comment()

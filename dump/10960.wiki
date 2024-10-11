@@ -1,0 +1,30 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/083_20091225200330_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Tennessee Tunes]]|CENTER:&bold(){Tennessee Tunes 2}|CENTER:-|
+
+|&bold(){[[もちーべP]]}|
+
+発売：2009年9月30日
+価格：￥600 / 1曲￥150
+流通：配信
+レーベル：KarenT
+ジャケットイラスト：[[りょーの>>http://piapro.jp/syoring]]
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/tennessee-tunes-2-ep/id333665438]]}|
+
+**CD紹介
+-もちーべPの4曲入り配信限定ミニアルバム。
+
+**曲目
++[[トカレフと少女]] （feat. 初音ミク）
++[[Catcher For U>Catcher FOr U]] （feat. 初音ミク）
++ひとりかくれんぼ （feat. 初音ミク）
++[[心ノ扉]] （feat. 初音ミク）
+
+**リンク
+-[[KarenT：「Tennessee Tunes 2」>>http://karent.jp/album/83]]
+
+**コメント
+#comment()

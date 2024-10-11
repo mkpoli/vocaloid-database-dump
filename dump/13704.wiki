@@ -1,0 +1,30 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/12654512" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/12654512">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-投稿者名は&b(){相馬}。
+-「[[die dream:blue dream]]」の説明文にあるように、[[ナノルーP]]は友人。&br()「[[環状線上のアリア]]」ではナノルーPが作詞を手掛けている。
+-「[[終わり行く世界と、最後の僕ら。]]」で初の殿堂入りを果たす。
+
+**リンク
+-[[作者ブログ>>http://soumatounoyouni.seesaa.net/]]
+
+**曲
+#list_by_tagsearch(そうまP,or,100,sort=furigana,errmsg=まだ曲が登録されていません)
+**CD
+#list_by_tagsearch(そうまPCD,or,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm6832803)|&nicovideo(http://www.nicovideo.jp/watch/sm7112022)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm11653731)|&nicovideo(http://www.nicovideo.jp/watch/sm12465574)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm13943021)|&nicovideo(http://www.nicovideo.jp/watch/sm16989590)|
+
+**コメント
+- 一番好きなPです。曲数は少ないけど質は最高  -- 名無しさん  (2011-11-03 11:53:42)
+- あんまり有名じゃないけど...すごいいいです。特に終わり行く世界とryがいい！  -- mono  (2012-04-24 21:33:08)
+- 相馬Pさんは一番好きなPさん…とにかくカッコイイ！！！！！  -- ごっどん  (2012-08-21 18:29:23)
+- YouTubeでたまたま終わり行く世界と、最後の僕ら。を聴いてる惚れました〃  -- 名無しの名無しさん  (2012-10-09 00:21:52)
+- 終わりを行く世界と、最後の僕ら。に感動しました！！  -- 名無しん  (2012-11-23 17:38:15)
+- 心に響く！(*^O^*)  -- 銀魂☆りら  (2013-05-17 20:35:24)
+- 終わり行く～も環状線～も大好きだがHEROは本当に凄い  -- 名無しさん  (2015-02-24 21:51:17)
+#comment()

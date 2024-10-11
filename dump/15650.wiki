@@ -1,0 +1,66 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/10891146" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/10891146">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-ストレートなメッセージのこもった言葉を巧みに紡ぐ楽師。
+-楽曲は、ピアノメインのシンプルなオケ構成の曲が多く、&br()ストレートな歌詞で聴く人の心を惹きつける。
+-代表作は「[[完全性コンプレックス]]」。
+-使用ボカロは主にルカ。
+-どことなく〝祭り〟とは縁遠そうな作風であるが、[[第一次P名呼ばれたか戦争>P　名　言　っ　て　み　ろ　！]]にて、&br()まさかの祭り参戦。「P名なんていらねーし!!」と高らかと宣言した。
+--&b(){やみくろさんはやみくろさんでおｋ}。
+
+**リンク
+-[[作者ブログ>>http://ameblo.jp/yamichrome/]]
+-[[PIAPRO>>http://piapro.jp/sy8739]]
+-[[Twitter>>http://twitter.com/yamichrome]]
+-[[コミュニティ>>http://com.nicovideo.jp/community/co544467]]
+
+**曲
+#list_by_tag(やみくろ,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(やみくろCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/nm6496089)|&nicovideo(http://www.nicovideo.jp/watch/sm10460090)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm10576939)|&nicovideo(http://www.nicovideo.jp/watch/sm11208140)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm11831003)|&nicovideo(http://www.nicovideo.jp/watch/sm12098852)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12537866)|&nicovideo(http://www.nicovideo.jp/watch/sm12805870)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm13109413)|&nicovideo(http://www.nicovideo.jp/watch/sm13398923)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm13442181)|&nicovideo(http://www.nicovideo.jp/watch/sm13912667)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm13922528)|&nicovideo(http://www.nicovideo.jp/watch/sm14133009)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm14262261)|&nicovideo(http://www.nicovideo.jp/watch/sm14324757)|
+|&nicovideo(sm14523999)|&nicovideo(sm14572808)|
+|&nicovideo(sm14992852)|&nicovideo(sm15451176)|
+|&nicovideo(sm15814435)|&nicovideo(sm15946543)|
+|&nicovideo(sm16464350)|&nicovideo(sm16918481)|
+|&nicovideo(sm16997694)|&nicovideo(sm17298540)|
+|&nicovideo(sm18250243)|&nicovideo(sm18729431)|
+|&nicovideo(sm19130772)|&nicovideo(sm19497656)|
+|&nicovideo(sm20973103)|&nicovideo(sm21167830)|
+|&nicovideo(sm21631446)|&nicovideo(sm23151879)|
+|&nicovideo(sm23357182)|&nicovideo(sm23807088)|
+|&nicovideo(sm24249099)|&nicovideo(sm24394438)|
+|&nicovideo(sm25722808)|&nicovideo(sm27701630)|
+|&nicovideo(sm28694980)|&nicovideo(sm32660260)|
+|&nicovideo(sm33639610)|&nicovideo(sm34548884)|
+|&nicovideo(sm35605534)|&nicovideo(sm35774675)|
+|&nicovideo(sm35954709)|&nicovideo(sm36292731)|
+|&nicovideo(sm36536626)|&nicovideo(sm37207166)|
+|&nicovideo(sm37297520)|&nicovideo(sm37429016)|
+|&nicovideo(sm37939743)|&nicovideo(sm38492311)|
+|&nicovideo(sm39375284)|&nicovideo(sm39687422)|
+|&nicovideo(sm39964779)|>|
+
+**コメント
+- ついにきましたか…!!やみくろさん大好きです  -- 名無しさん  (2011-05-05 11:32:50)
+- やみくろさん大好きです！　P名ｗｗｗｗ  -- 聡汰  (2011-07-29 09:42:28)
+- やみくろさん大好きだー!　CDとか出してないのかなぁ絶対買うのに  -- 名無しさん  (2011-08-25 18:41:31)
+- 不幸自慢のらないのかなー？やみくろさんだいすき！  -- まお  (2011-09-15 10:40:53)
+- やみくろさん大好き。  -- しお  (2011-11-05 09:32:54)
+- 応援してます。  -- mizuki  (2012-03-20 01:56:25)
+- 今更ながら心音譜買いました！ &br()『サーカス団とヒコー翼』が『トロイ』と若干リンクしているのが良かったです♪  -- 唯  (2012-06-23 14:19:03)
+- 不幸自慢がない、だと……？  -- 名無しさん  (2012-09-21 21:54:49)
+- やみくろさん大好きです。  -- 名無しさん  (2014-11-04 20:31:04)
+- ルカさんの曲を作り続けてくれるところが好き！これからも頑張って！  -- 17才  (2021-12-03 21:01:58)
+#comment()

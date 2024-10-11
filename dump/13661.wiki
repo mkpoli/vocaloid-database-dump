@@ -1,0 +1,50 @@
+#right(){&furigana(うつりぎ)&furigana()【登録タグ:&tags() 】}
+//#image(http://tsubu.ath.cx/~komso/kmcd0005/kmcd0005_bn1.gif,http://tsubu.ath.cx/~komso/kmcd0005.html,title=移り季,blank)
+//&ref(http://tsubu.ath.cx/~komso/kmcd0005/kmcd0005.jpg,x=300,y=300)
+&ref(https://www.suruga-ya.jp/database/pics/game/186110315.jpg,x=300,y=300)
+
+&nicovideo(sm13044351)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[君の贈り物]]|CENTER:&bold(){移り季}|CENTER:[[次代のドアを開け放て]]|
+
+|&bold(){[[ムスカP]]}|[[IIG]]|陳炒飯|[[ミク詐欺P（右近）]]|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|>|CENTER:2010年12月30日|
+|価格|CENTER:1,000|CENTER:￥1,470（税込）|
+|サークル|>|CENTER:狐夢想屋|
+
+**CD紹介
+-ムスカP こと 狐夢想 氏の1年4ヶ月ぶりとなるCDアルバム。
+-「&bold(){初音ミクちゃんと巡音ルカさんに浮気しました}」とあるとおり、収録曲はミクルカ中心。
+-動画で発表した楽曲の他、コンピレーションCD『[[YoruMiku]]』収録の「おやすみなさい」、レン曲として発表した「[[星の雫>星の雫／虹]]」のルカバージョン、IIG氏による「嵐の予感！」のリミックスが収録されている。
+-マスタリングを [[ミク詐欺P>ミク詐欺P（右近）]] こと 右近 氏、ジャケットイラストを [[碧茶]] 氏が手がけている。
+-2010年冬コミ（C79）で頒布。委託販売はとらのあな、メロンブックスで行われている。
+
+**曲目
++[[はるかぜ、ふわり。]] / 初音ミク
++[[夏色列島]] / 初音ミク
++星の雫 -ルカ- / 巡音ルカ
++[[キミトメグルセカイ]] / 巡音ルカ　（Written by 陳炒飯）
++[[嵐の予感！ -Summer Drop Mix->嵐の予感！]] / 初音ミク　（Remixed by IIG）
++[[5. 4. 3. 2. 1. Fly High!!]] / 初音ミク
++[[Love Is Not Hidable]] / 巡音ルカ
++[[おやすみなさい>おやすみなさい/ムスカP]] / 初音ミク
++はるかぜ、ふわり。 （Off Vocaloid）
++夏色列島 （Off Vocaloid）
++星の雫 -ルカ- （Off Vocaloid）
++キミトメグルセカイ （Off Vocaloid）
++嵐の予感！ -Summer Drop Mix- （Off Vocaloid）
++5.4.3.2.1. Fly High!! （Off Vocaloid）
++Love Is Not Hidable （Off Vocaloid）
++おやすみなさい （Off Vocaloid）
+
+**リンク
+-[[作者サイト>>http://tsubu.ath.cx/~komso/]]
+-[[特設ページ>>http://tsubu.ath.cx/~komso/kmcd0005.html]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/25/18/040010251806.html]]
+-[[メロンブックス>>http://shop.melonbooks.co.jp/shop/sp_213001008022_komusou_uturi.php]]
+
+**コメント
+#comment()

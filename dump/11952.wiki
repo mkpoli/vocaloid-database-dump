@@ -1,0 +1,25 @@
+#right(){&furigana(ゆめぴー)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/4538066" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/4538066">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-投稿者名は&b(){Lukard}。
+--P名の由来は、タイトルに"Dream"が付く作品が多い事から。
+-作風は主にロック。元気な感じの曲が多い。
+
+**リンク
+-[[作者サイト>>http://www.lkd.topaz.ne.jp/lukardow/]]
+-[[作者ブログ>>http://lukardow.sblo.jp/]]
+-[[Twitter>>http://twitter.com/lukardow/]]
+
+**曲
+#list_by_tag(夢P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+//**CD
+//#list_by_tag(夢PCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm8931629)|&nicovideo(http://www.nicovideo.jp/watch/sm8940728)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9338025)|&nicovideo(http://www.nicovideo.jp/watch/sm13051207)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm13126867)|&nicovideo(http://www.nicovideo.jp/watch/sm15087001)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm15108040)|
+**コメント
+#comment()

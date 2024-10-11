@@ -1,0 +1,32 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/672_20110304194928_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Draw the Emotional × AVTechNO!]]|CENTER:[[III]]&br()&bold(){DYE -Synthesis- 2/8}|CENTER:[[できること]]|
+
+|&bold(){[[AVTechNO]]}|[[Treow（逆衝動P）]]|
+
+発売：2011年3月16日
+価格：￥300 / 1曲￥150
+流通：配信
+レーベル：KarenT
+ジャケットイラスト：喜多嶋時透×和音
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/dye-synthesis-2-8-single/id425633685]]}|
+|&bold(){[[Amazon MP3で購入する>>http://www.amazon.co.jp/DYE-Synthesis-2-8/dp/B004RGP4X6/]]}|
+
+**紹介
+-2010年8月にリリースしたCD『[[DYE -Synthesis-]]』から、「0」こと「DYE 0」と「After」こと「DYE 2 After Remix」を収録したEP。
+-『[[III]]』と同時リリース。
+-2011年5月にはTreow氏所属のELECTROCUTICA側から『[[DYE -Synthesis- R/F>DYE -Synthesis- R／F]]』がリリースされている。
+
+**曲目
++DYE 0 （feat. 巡音ルカ）
++[[DYE 2>DYE2]] After Remix （feat. 巡音ルカ）
+
+**リンク
+-[[作者サイト>>http://avtechno.ukime.org/]]
+-[[KarenT>>http://karent.jp/album/672]]
+
+**コメント
+#comment()

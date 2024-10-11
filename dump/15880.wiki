@@ -1,0 +1,25 @@
+#right(){&furigana(こーひーのりにょうさようをあまくみたP)&furigana()【登録タグ:&tags() 】}
+//&nicovideo_mylist()
+
+**特徴
+-アーティスト名は&b(){ビタミンC}。
+-使用するVOCALOIDは初音ミク、GUMI。
+-[[家の裏でマンボウが死んでるP]]・[[字も絵も下手っP>>家の裏でマンボウが死んでるP]]・[[土下座して犬のゲロを食べるイケメンP]]&br()との4人で&b(){LIMyT}というサークルを結成している。
+-P名はアレだが、曲は至ってまともである。安心してお聴きいただきたい。
+
+**リンク
+-[[PIAPRO>>]]
+-[[Twitter>>http://twitter.com/#!/saki_v_c]]
+
+**曲
+#list_by_tag(コーヒーの利尿作用を甘く見たP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+**CD
+#list_by_tag(コーヒーの利尿作用を甘く見たPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm11856484)|&nicovideo(http://www.nicovideo.jp/watch/sm13156701)|
+
+**コメント
+- Ｐ名wwwあとLIMyTって……  -- 名無しさん  (2011-10-12 19:23:04)
+- じえへたPと裏マンPって同一人物やん  -- すがり  (2013-09-10 21:42:50)
+#comment()

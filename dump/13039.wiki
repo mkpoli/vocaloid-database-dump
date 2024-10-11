@@ -1,0 +1,13 @@
+#right(){&furigana()&furigana()【登録タグ:&tags()】}
+&nicovideo(http://www.nicovideo.jp/watch/nm12866832)
+作詞：[[arp realizer]]
+作曲：[[arp realizer]]
+編曲：[[arp realizer]]
+唄：初音ミク
+
+**歌詞
+（サビ部分の「Don't give up」「Let me down」以外はインチキ英語）
+
+**コメント
+#comment()
+　

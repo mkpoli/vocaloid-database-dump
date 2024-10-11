@@ -1,0 +1,31 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/9512796" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/9512796">【ニコニコ動画】</a></iframe>)|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/15432708" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/15432708">【ニコニコ動画】</a></iframe>)|
+
+**特徴
+-ミクを使用したテクノ作品が主となっているP。
+-その他にもAquesToneのオリジナル曲やミクを使用した「雑音部」なるインスト曲を投稿する事もある。
+
+**リンク
+-[[gepp's work（作者ブログ）>>http://geppeitaro.blog26.fc2.com/]]
+-[[Twitter>>http://twitter.com/geppeitaro]]
+-[[muzie>>http://www.muzie.co.jp/artist/r004604/]]
+-[[ピアプロ>>http://piapro.jp/sayo3242]]
+-[[MySpace>>http://www.myspace.com/geppeitaro]]
+
+**曲
+#list_by_tag(geppei-taro,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(geppei-taroCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm5886555)|&nicovideo(http://www.nicovideo.jp/watch/sm5890471)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6070200)|&nicovideo(http://www.nicovideo.jp/watch/sm6722677)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7955827)|&nicovideo(http://www.nicovideo.jp/watch/sm8011836)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm8298615)|&nicovideo(http://www.nicovideo.jp/watch/sm8578872)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm8684342)|&nicovideo(http://www.nicovideo.jp/watch/nm9178800)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9295562)|&nicovideo(http://www.nicovideo.jp/watch/sm11253106)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm11331546)||
+
+**コメント
+#comment()

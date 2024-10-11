@@ -1,0 +1,32 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+#image(http://ahp.xii.jp/ahpway/vm12.png,http://ahp.xii.jp/ahpway/,title=Latter End Chronicle,blank) 
+
+|BGCOLOR(#DDD):CENTER:　前作　|BGCOLOR(#B66):COLOR(#FFF):CENTER:&b(){　本作　}|BGCOLOR(#DDD):CENTER:　次作　|
+|CENTER:[[Resonance>Resonance/しえろP・ちくPCD]]　|BGCOLOR(#FFF):CENTER:&b(){　Latter End Chronicle　}|CENTER:[[Yellow Beat]]|
+
+|&bold(){[[ちくP]]}|
+
+|BGCOLOR(#DDD):CENTER:流通|CENTER:即売|
+|BGCOLOR(#DDD):CENTER:発行|CENTER:　2010年08月15日　|
+|BGCOLOR(#DDD):CENTER:価格|CENTER:￥300|
+|BGCOLOR(#DDD):　サークル　|CENTER:ahp+way|
+
+**CD紹介
+-ちくPによるCDアルバム。
+-ジャケットイラストは[[いたる]]氏。
+-Tr.3にいたる氏によってアレンジされた表題曲のHouseMixを収録
+
+**曲目
++latter End Chronicle
++幻之天 -2010 mix-
++latter End ［iTaRu-house mix］
++幻之天 -2010 mix-　-instrumental-
++latter End Chronicle　-instrumental-
+
+**リンク
+#image(http://ahp.xii.jp/ahpway/banner.png,http://ahp.xii.jp/ahpway/,title=ahp+way,blank)
+[[合同サークル 「ahp+way」 特設ページ>>http://ahp.xii.jp/ahpway/]]
+
+
+**コメント
+#comment

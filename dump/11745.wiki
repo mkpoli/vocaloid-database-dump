@@ -1,0 +1,45 @@
+#right(){&furigana(あかいすいせいP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/15020167" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/15020167">【ニコニコ動画】</a></iframe>)
+
+**特徴
+曲名：『&u(){赤い彗星P}』（&u(){あかいすいせいP}）
+-アーティスト名は&b(){しゃぁ}。P名はアーティスト名がガンダムの「シャア・アズナブル」を連想させることからきている。
+-実は しゃぁ という名前の由来は、尊敬する女優 & よく飲むカクテルの名前「シャーリー・テンプル」から。&br()HNに使うには長すぎるので省略したらこうなった。
+-使用VOCALOIDは初音ミク、miki、結月ゆかり、GUMI、東北ずん子。
+-楽曲はテクノポップの女の子らしい可愛い曲、優しい曲を多く発表している。
+-東北ずん子、miki V4では、公式デモソングを担当している。
+
+**リンク
+-[[Shirley Studio*（作者ブログ）>>http://kyaai.blog20.fc2.com/]]
+-[[ピアプロ>>https://piapro.jp/shirley]]
+-[[Twitter>>https://twitter.com/Shir_ASP]]
+//-[[にゃっぽん>>http://v-nyappon.net/?m=pc&a=page_f_home&target_c_member_id=10086]]
+-[[YouTube>>https://www.youtube.com/user/AkaiSuiseiP]]
+
+**曲
+#list_by_tag(赤い彗星P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(赤い彗星PCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|>|BGCOLOR(#800000):COLOR(#FFF):CENTER:&font(b,11pt){オリジナル曲}|
+|&nicovideo(sm8403957)|&nicovideo(nm8488966)|
+|&nicovideo(nm8578842)|&nicovideo(nm8596742)|
+|&nicovideo(sm8791776)|&nicovideo(sm9009624)|
+|&nicovideo(sm9573063)|&nicovideo(sm10567820)|
+|&nicovideo(sm10757571)|&nicovideo(sm11311495)|
+|&nicovideo(sm11704611)|&nicovideo(sm12261814)|
+|&nicovideo(sm12930995)|&nicovideo(sm13837838)|
+|&nicovideo(sm14205966)|&nicovideo(sm16118007)|
+|&nicovideo(sm16337005)|&nicovideo(sm17398880)|
+|&nicovideo(sm18197446)|&nicovideo(sm18554669)|
+|&nicovideo(sm19591038)|&nicovideo(sm20283870)|
+|&nicovideo(sm21420309)|&nicovideo(sm22177150)|
+
+**コメント
+#comment()

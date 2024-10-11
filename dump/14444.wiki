@@ -1,0 +1,138 @@
+#right(){&furigana(Ltone)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/21105386" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/21105386">【ニコニコ動画】</a></iframe>)|
+
+
+**特徴
+作り手名：『&u(){L-tone}』
+-[[note]]と[[luna>luna/作り手]]の2人で構成されているユニット。
+-処女作は2010年8月17日投稿の「[[宛先のない人形]]」。
+--代表作は32作目の「[[フロールサイン]]」。
+//-レンの曲をluna氏が製作。リンの曲をnote氏が製作している。
+-使用合成音声は[[Lily>lily/vocaloid]]、[[鏡音リン・レン]]、[[GUMI>megpoid]]、[[初音ミク]]、[[IA]]。
+-12作目の「[[灰色ジョーカー]]」から毎月10・20・30日と上げていたが、2012年からは以前のペースに戻る模様。
+//-ほとんどの曲のPVに長文を紛れ込ませている。これを読むのも一つの楽しみである。長文には曲以外に、アルバムの話やたわいもない日常についての話だったりもする。
+-現在は99作目の「[[6-7-5-1]]」をもって投稿が停止している。
+
+**リンク
+//-個人HP、PIAPRO、YouTube等ある場合は、ここに。当wiki以外のサイトへリンクを貼る場合は必ず「>>」で別ウインドウでリンクしてください。
+//-[[ニコニコ動画>>https://www.nicovideo.jp/user/]]
+-[[YouTube（luna）>>https://www.youtube.com/user/yutakishimoto]]
+-[[piapro（note）>>https://piapro.jp/note00000]]
+-[[Twitter（luna）>>https://twitter.com/luna_yuta]]
+--[[Twitter（note）>>https://twitter.com/note0]]
+-&s(){[[L-toneホームページ>>http://k-yuta.com/ltone/index.html]]}
+-&s(){[[ホームページ（luna）「ガラクタ尽くめ」>>http://k-yuta.com/]]}
+-&s(){[[ブログ（luna）「タワゴト尽くめ」>>http://k-yuta.com/wordpress/]]}
+--[[ブログ（note）「by L-tone」>>http://ltone2525.blog89.fc2.com/]]
+---&s(){[[ブロマガ（note）>>http://ch.nicovideo.jp/l-tone/blomaga/ar186731]]}
+
+**曲
+#list_by_tag(L-tone,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(L-toneCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+#region(close,2010)
+|&nicovideo(sm11787409)|&nicovideo(sm12134717)|
+|&nicovideo(sm12526127)|&nicovideo(sm12765518)|
+|&nicovideo(sm12860984)|&nicovideo(sm12888483)|
+|&nicovideo(sm12934113)|&nicovideo(sm13060926)|
+|&nicovideo(sm13148922)|&nicovideo(sm13148916)|
+|&nicovideo(sm13160001)||
+#endregion
+#region(close,2011)
+|&nicovideo(sm13284283)|&nicovideo(sm13412715)|
+|&nicovideo(sm13555481)|&nicovideo(sm13659660)|
+|&nicovideo(sm13834395)|&nicovideo(sm13908828)|
+|&nicovideo(sm14009787)|&nicovideo(sm14122970)|
+|&nicovideo(sm14209679)|&nicovideo(sm14307296)|
+|&nicovideo(sm14411898)|&nicovideo(sm14503046)|
+|&nicovideo(sm14600100)|&nicovideo(sm14700149)|
+|&nicovideo(sm14796934)|&nicovideo(sm14883501)|
+|&nicovideo(sm14975265)|&nicovideo(sm15066408)|
+|&nicovideo(sm15159409)|&nicovideo(sm15277039)|
+|&nicovideo(sm15361536)|&nicovideo(sm15470518)|
+|&nicovideo(sm15562380)|&nicovideo(sm15679011)|
+|&nicovideo(sm15759941)|&nicovideo(sm15854497)|
+|&nicovideo(sm15940068)|&nicovideo(sm16026972)|
+|&nicovideo(sm16129204)|&nicovideo(sm16225673)|
+|&nicovideo(sm16305442)|&nicovideo(sm16396210)|
+|&nicovideo(sm16495151)|&nicovideo(sm16575471)|
+#endregion
+#region(close,2012)
+|&nicovideo(sm17198739)|&nicovideo(sm17982248)|
+|&nicovideo(sm18077827)|&nicovideo(sm18219713)|
+|&nicovideo(sm18248113)|&nicovideo(sm18266023)|
+|&nicovideo(sm18270369)|&nicovideo(sm18415509)|
+|&nicovideo(sm18930364)|&nicovideo(sm18969479)|
+|&nicovideo(sm19192792)|&nicovideo(sm19192792)|
+|&nicovideo(sm19326337)|&nicovideo(sm19496319)|
+|&nicovideo(sm19531514)|&nicovideo(sm19531557)|
+|&nicovideo(sm19531588)|&nicovideo(sm19556175)|
+|&nicovideo(sm19556253)|&nicovideo(sm19556269)|
+|&nicovideo(sm19575583)||
+#endregion
+#region(close,2013)
+|&nicovideo(sm20757716)|&nicovideo(sm20986142)|
+|&nicovideo(sm21543000)|&nicovideo(sm21808387)|
+|&nicovideo(sm22000298)|&nicovideo(sm22095401)|
+|&nicovideo(sm22239899)|&nicovideo(sm22257899)|
+|&nicovideo(sm22411399)||
+#endregion
+#region(close,2014)
+|&nicovideo(sm22742100)|&nicovideo(sm22806022)|
+|&nicovideo(sm24352079)|&nicovideo(sm24846461)|
+|&nicovideo(sm24932989)||
+#endregion
+#region(close,2015)
+|&nicovideo(sm25314382)|&nicovideo(sm25410342)|
+|&nicovideo(sm25569412)|&nicovideo(sm25832197)|
+|&nicovideo(sm25910553)|&nicovideo(sm26196898)|
+|&nicovideo(sm26366319)|&nicovideo(sm26510239)|
+|&nicovideo(sm27569707)||
+#endregion
+|&nicovideo(sm28188523)|&nicovideo(sm28357986)|
+|&nicovideo(sm28511885)|&nicovideo(sm28693210)|
+|&nicovideo(sm28953881)|&nicovideo(sm29055463)|
+|&nicovideo(sm29165617)|&nicovideo(sm29262937)|
+|&nicovideo(sm29356162)|&nicovideo(sm29380467)|
+|&nicovideo(sm29570511)|&nicovideo(sm29652589)|
+|&nicovideo(sm29746652)|&nicovideo(sm30135284)|
+
+**関連タグ内の更新履歴
+#region(close,関連タグ内の更新履歴)
+関連タグ内の更新履歴
+※「L-tone」「L-toneCD」タグ内で最近編集やコメントのあった記事を新しい方から10件表示しています。
+#list_by_tagsearch(L-tone,L-toneCD,sort=timestamp,sort2=desc,errmsg=まだ曲、CDが登録されていません。,or,10)
+#endregion
+
+**コメント
+- &co(){作成乙！}ソーシャルパラノイアと摩天楼好きだ  -- 名前無くてすいません  (2011-05-17 15:29:57)
+- これだけのペースで頑張るPってなかなかいないよね。自分はfragmentsとepilogueが好きだー  -- 名無しさん  (2011-06-17 14:09:43)
+- さっき知ったばっかでまだ全曲巡ってないですけど、すごい好みな曲ばっかり・・。これからも応援してます！  -- 名無しさん  (2011-09-11 23:52:14)
+- 誰か2ndアルバムの情報知りませんか？  -- 名無しさん  (2011-10-25 17:32:32)
+- ↑まだ少ししか公開されてませんからねぇ…。情報不足…。  -- 名無しさん  (2011-10-25 18:03:35)
+//- breach  -- 名無しさん  (2011-11-04 01:04:35)
+- 曲はもちろん動画もかっこいい。もっと評価されるべき。  -- 名無しさん  (2011-12-31 09:50:17)
+- ヘルアンティークめっちゃ好きです！  -- 名無しさん  (2012-07-04 09:23:59)
+- L-toneはもっと評価されるべき。  -- 名無しさん  (2012-09-22 13:42:19)
+- いい曲ばかりだし、評価されてほしいな  -- 名無しさん  (2012-10-16 18:08:04)
+- もっと評価されるべきＰ代表格だと思う  -- はなねこ  (2013-01-13 13:16:32)
+- L-toneさんの曲はどれもいいな  -- 名無しさん  (2013-01-13 13:19:58)
+- みんな好きだから何を聴くか迷うw  -- 名無しさん  (2013-02-12 16:03:52)
+- lunaさんが≪CONTINUE?≫のPV作成頑張ってるご様子・・・  -- 名無しさん  (2013-03-08 19:13:48)
+- 曲多すぎてマイリス巡りが大変だけど、その分良曲にたくさん出会える  -- 名無しさん  (2014-01-25 20:26:54)
+- 毎回アルバムが安すぎて、この値段で大丈夫なのかｗと思ってしまう  -- 名無しさん  (2014-01-25 20:43:47)
+- 大好きだ　もっと皆に聴いてほしい・・・！！！  -- 名無しさん  (2014-10-16 19:23:56)
+//- 気分はもはやエアーズロック♪  -- 名無しさん  (2015-02-15 21:31:08)
+- すごい良い曲多いのにあまり知られてないのはすごく残念　あと毎回CDの値段に不安になりすぎる・・・！  -- 名無しさん  (2015-08-25 13:03:32)
+- デュオとはいえかなり速筆だよなぁ...投稿してない曲だってあるしソロもやってるし  -- 名無しさん  (2016-06-12 22:32:11)
+- もう戻ってこないのかな…それぞれの個人作も好きだけどlunaさんの曲とnoteさんの歌詞でこそってとこあるしまた2人でやってほしい　あと再生数の桁が間違ってるよっていつも思う本当にもっと評価されるべき  -- 名無しさん  (2019-04-13 20:19:31)
+- HPがリンク切れしてしまいました…。とても好きな方たちだったので残念。  -- 名無しさん  (2020-08-20 14:35:09)
+- Bandcampに全アルバム置かれてる！0円から購入できるっぽいのでぜひ  -- 名無しさん  (2024-01-15 10:15:11)
+#comment()

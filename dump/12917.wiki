@@ -1,0 +1,36 @@
+#right(){&furigana(ねいろ)&furigana()【登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186145556.jpg,x=300,y=300)
+
+&youtube(http://www.youtube.com/watch?v=4CF5PS-s1so){425,350}
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[feat.VY1]]|CENTER:&b(){音色 feat.VY1}|CENTER:[[音色2.0]]|
+
+|[[黒鳥P]]|[[小林オニキス]]|[[SeikoP]]|[[10日P]]||[[Bumpyうるし]]|[[レントンP]]|
+
+|流通|CENTER:即売|
+|発売|CENTER:2010年11月14日|
+|価格|CENTER:￥500（税込）|
+|レーベル|CENTER:ボーカロイドストア|
+
+**CD紹介
+-ボーマス14で頒布されるVY1コンピレーションアルバム。
+-ジャケットイラストは&b(){hakus}。
+
+**曲目
++why why world　/　レントンP
++[[龍天に登る]]　/　Bumpyうるし
++[[タウリン1000mg High Go!!]]　/　10日P
++わたしとわたし　/　黒鳥P、ボーカル：紫咲ほたる、コーラス：VY1
++[[サイハテ]] -heavenly_mix-　/　アレンジ：黒鳥P（原曲：小林オニキス）、ボーカル：nayuta、コーラス：VY1
++[[月翅]]　/　SeikoP
+
+**リンク
+-[[VocaloidStoreブログ>>http://blog.vocaloidstore.com/ ]]
+
+**コメント
+- why why worldと月翅が入ってるだけで神ですね！ちょっと急いで買ってきます←  -- ✝+ハル+✝  (2012-09-26 20:56:12)
+- VY1  -- リウ  (2012-09-26 21:10:40)
+- why why worldって公式HPのデモソングでしたよね？    良い曲なのに何で評価されないんだろんだろ…  -- ぱるん。  (2014-10-05 11:36:19)
+#comment()

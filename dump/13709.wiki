@@ -1,0 +1,34 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/783_20110722042605_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[A+D SENSATION]]|CENTER:&bold(){DDDDDDDDDDDLP}|CENTER:[[ムニエル>ムニエル/CD]]&br()[[CHAOTIC UNIVERSE>CHAOTIC UNIVERSE/CD]]|
+
+|&bold(){[[daniwell]]}|
+
+|流通|CENTER:即売|CENTER:委託|CENTER:配信|
+|発売|>|CENTER:2011年1月16日|CENTER:2011年8月10日|
+|価格|CENTER:￥300|CENTER:￥315（税込）|CENTER:￥300 / 1曲￥150|
+|サークル|>|CENTER:AIDN||
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/dddddddddddlp/id453213169]]}|
+
+**CD紹介
+-daniwellPの2作目となるCD作品。
+-THE VOC@LOiD M@STER 15（ボーマス15）で初頒布。
+-とらのあなで委託販売が行われていた。
+-KarenTレーベルよりダウンロード販売が行われている。
+
+**曲目
++[[コトバトラボラト]]
++[[ガール☆ミーツ☆ボーイ]]
++あんなことこんなこと、できなくてもいいよ
+
+**リンク
+-「[[aidn - THE VOC@LOiD M@STER 15 × daniwellP>>http://aidn.papiness.com/event/vm15/]]」（特設サイト）
+-[[サークルサイト>>http://aidn.papiness.com/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0020/00/03/040020000302.html]]
+-[[KarenT：「DDDDDDDDDDDLP」>>http://karent.jp/album/783]]
+
+**コメント
+#comment()

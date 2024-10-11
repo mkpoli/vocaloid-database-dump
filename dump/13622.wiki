@@ -1,0 +1,32 @@
+#right(){&furigana(ひたわんP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/4432279" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/4432279">【ニコニコ動画】</a></iframe>)
+
+**特徴
+作り手名：『&u(){ビタワンP}』
+-主にカバー曲を投稿しているボカロ使い。
+-KAITOを使用した曲が多いが、MEIKOと鏡音リン・レン、巡音ルカも所有している。また、自らイラストも描く。
+-ICEprojectに参加しており、他のマスターとのコラボにも積極的である。
+-2009年10月21日に、コラボ以外では初となるオリジナル曲「あいことば」を投稿した。
+
+**リンク
+//-[[犬小屋（作者ブログ）>>http://www.voiceblog.jp/skyseablue/]]
+-[[ピアプロ>>https://piapro.jp/skyseablue]]
+//-[[にゃっぽん>>http://v-nyappon.net/?m=pc&a=page_f_home&target_c_member_id=1574]]
+
+**曲
+#list_by_tag(ビタワンP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(ビタワンPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画（再生数が多い順に6つ）
+|&nicovideo(sm2677477)|&nicovideo(sm4122400)|
+|&nicovideo(sm5199073)|&nicovideo(sm8572930)|
+|&nicovideo(sm9627008)|&nicovideo(sm2280137)|
+
+**コメント
+#comment()

@@ -1,0 +1,38 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo(sm12420001)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[a song for your melancholic sleep]]|CENTER:&bold(){Color}|CENTER:[[piano android]]|
+
+|&bold(){[[単色P]]}|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|CENTER:2010年10月31日|CENTER:2010年11月|
+|価格|CENTER:￥500|CENTER:￥751（税込）|
+|サークル|CENTER:日本塗り潰し興業|CENTER:Oz|
+
+**CD紹介
+-単色P こと おず 氏の1stアルバム。
+-インスト3曲を含む全10曲。
+-ジャケットイラストを mishiki 氏、デザインを 市井 氏が手がけている。
+-2010年10月31日開催のVOCALOID PARADISE 4（ボーパラ4）、11月14日開催のTHE VOC@LOiD M@STER 14（ボーマス14）で頒布された。
+-とらのあなにて委託販売が行われていた。
+
+**曲目
++土星の人
++[[Copy]]
++[[49]]
++skywalker
++壁を削る
++[[a song for your melancholic sleep>ケダルゲ]]
++[[Liam>Liam/単色P]]
++ジャバウォック
++[[白の回転]]
++[[浴槽>>http://www.nicovideo.jp/watch/sm11483771]]
+
+**リンク
+-[[作者ブログ>>http://telmes660.blog43.fc2.com/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/24/80/040010248045.html]]
+
+**コメント
+#comment()

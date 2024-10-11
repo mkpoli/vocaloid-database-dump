@@ -1,0 +1,34 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#amazon(B003IB5LX4)
+
+|&nicovideo(http://www.nicovideo.jp/watch/sm10542508)|&youtube(https://www.youtube.com/watch?v=yFAJDFPfMxw){342,187}|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[俺の脳内ミクが一番可愛い4]]|CENTER:&b(){YoruMiku}|CENTER:[[ASAMIKU]]|
+
+|&b(){[[IIG]]}|[[ミク詐欺P（右近）]]|[[oiko]]|[[ziki_7]]|[[どぶウサギ]]|[[みよ]]|[[ムスカP]]|[[ripple]]|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|>|CENTER:2010年5月9日|
+|価格|CENTER:￥1,000(税込)|CENTER:￥1,500（税込）|
+|サークル|>|CENTER:Studio IIG|
+
+**CD紹介
+-俺ミクメンバー＋αの8名による、夜をテーマにしたコンピレーションアルバム。
+-THE VOC@LOiD M@STER 12（ボーマス12）で初頒布後、Amazonや同人ショップで委託されている。
+
+**曲目
++ほしのものがたり　/　ripple
++[[静かな夜の街灯街のはずれ]]　/　ミク詐欺P（右近）
++アームストロング刑事　/　どぶウサギ
++ほしふるわーくす　/　みよ
++DADE　/　ziki_7
++12月のオリオン　/　oiko
++[[夜の憧憬]]　/　IIG
++[[おやすみなさい>おやすみなさい/ムスカP]]　/　ムスカP
+
+**リンク
+-[[CD特設サイト>>http://studioiig.com/discography/yorumiku/]]
+
+**コメント
+#comment()

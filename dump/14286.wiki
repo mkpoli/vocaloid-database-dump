@@ -1,0 +1,43 @@
+#right(){&furigana(はとろせんた)【検索用:&furigana()&space(2)登録タグ:&tags()】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/12383997" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/12383997">【ニコニコ動画】巡音ルカ　投稿動画</a></iframe>)
+
+**特徴
+作り手名：『&u(){バトロセンタ}』
+-ルカ&たこルカの漫才シリーズが代表作のトークロイドPだが、数は少ないもののオリジナル曲も発表している。
+-本人のPIAPROコメントによると「作曲・調整・動画はできるが作詞と編曲が苦手、絵は描けない」らしい。
+-使用楽器：デザエモン、デザエモン２
+
+**リンク
+-[[ニコニコ>>https://www.nicovideo.jp/user/1766354]]
+-[[YouTube>>https://www.youtube.com/@503batllocenter8]]
+-[[piapro>>https://piapro.jp/sprites]]
+-[[Twitter>>https://twitter.com/batllocenter]]
+
+**曲
+#list_by_tag(バトロセンタ,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(バトロセンタCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm6913847)|&nicovideo(sm7800721)|
+|&nicovideo(nm8264902)|&nicovideo(nm11025705)|
+|&nicovideo(nm13244640)|>|
+
+**関連タグ内の更新履歴
+#region(close,関連タグ内の更新履歴)
+関連タグ内の更新履歴
+※「バトロセンタ」「バトロセンタCD」タグ内で最近編集やコメントのあった記事を新しい方から10件表示しています。
+#list_by_tagsearch(バトロセンタ,バトロセンタCD,sort=timestamp,sort2=desc,errmsg=まだ曲、CDが登録されていません。,or,10)
+#endregion
+
+**コメント
+//- コメントが何も無いのが悲しい。昔マーチも追加してほしい  -- 名無しさん  (2011-05-26 07:57:41)
+- 毒蛸漫才面白いｗ  -- 名無しさん  (2011-05-26 13:58:33)
+- 来たああああ！バトロセンタＰの漫才見るとリアルなお笑い芸人がみられなくなる  -- 名無しさん  (2012-06-30 08:25:29)
+- バトセンきたー！  -- 名無しさん  (2012-10-19 21:21:41)
+#comment

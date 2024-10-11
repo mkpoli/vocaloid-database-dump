@@ -1,0 +1,42 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+//&ref(http://www.toranoana.jp/mailorder/cit/pagekit/0000/00/03/000000038288/040010231689-1p.jpg)
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186110727.jpg,x=300,y=300)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){さんもじ！！}|CENTER:-|
+
+|&bold(){[[さささP]]}|&bold(){[[そそそP]]}|&bold(){[[のののP]]}|
+|&bold(){[[ほほほP]]}|&bold(){[[れれれP]]}||
+
+
+||CENTER:即売|CENTER:同人|
+|発売|CENTER:2010年7月19日|CENTER:CENTER:2010年8月|
+|価格|CENTER:￥800|CENTER:￥840（税込）|
+|サークル|>|CENTER:さんもじ！|
+
+**CD紹介
+-ひらがな3文字のPによるコンピレーションCD！
+-『『○○○P』ってひらがな3文字のPは何人ぐらいいるんだろう？』&br()2009年、Twitterのふとしたつぶやきから始まった企画。
+-ジャケットのイラストワークと総合デザインはのののPが、ブックレットのイラストワークはさささPが、音源のマスタリングはそそそPがそれぞれ担当している。
+-THE VOC@LOiD M@STER 13（ボーマス13）、2010年夏コミ（C78）で頒布された。
+-とらのあなにて委託販売が行われている。
+-&bold(){合言葉は「さんもじ～！！」！！}&br()(3本指を立てつつ！) 
+
+**クロスフェード動画
+|&nicovideo(sm11241623)|&youtube(http://www.youtube.com/watch?v=i8_Xa7u0a64)|
+
+**曲目
++ラララ　/　さささP・そそそP
++れれれぼりゅーしょん21　/　れれれP
++ナイトウォーク　/　のののP
++[[宵闇通り一丁目]]　/　さささP
++Ho Ho Ho Hops！　/　ほほほP
++[[SOS]]　/　そそそP
+
+**リンク
+-[[特設サイト>>http://3moji.seesaa.net/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/cit/pagekit/0000/00/03/000000038288/index.html]]
+
+**コメント
+#comment()

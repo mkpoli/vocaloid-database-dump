@@ -1,0 +1,44 @@
+#right(){&furigana(いにしえのもり)&furigana()【登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186109145.jpg,x=300,y=300)
+
+&nicovideo(sm6866303)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[烏珠]]|CENTER:&bold(){古ノ森}|CENTER:[[crow's-nest]]|
+
+|&bold(){[[ウタP]]}|[[twinkle>twinkle/作り手]]|[[ビタワンP]]|[[おればななP]]|[[情熱P]]|[[フルみっくP]]|
+
+発売：2009年5月27日
+価格：￥1,000
+流通：即売
+サークル：crow's-nest
+
+**CD紹介
+-THE VOC@LOiD M@STER 8（ボーマス8）にて頒布された作品。
+-イラストは壱氏が担当。
+-既存作品のリミックスバージョンの他、他の制作者とのコラボ作品も収録されている。
+
+**曲目
++[[生きとし生けるもの]]
++[[re-birth]]
++[[空>空/ウタP]]（full remix ver.）
++[[ジプシィダンス]]（remix ver.）
++[[litania]]
++[[regeneration]]
++[[君恋ふる歌]]（remix ver.）
++[[僕に罰を 君に光を]]（remix ver.）
++[[luna e amata]]
++[[Imitator]]（PV ver.）
++[[赤光の女王]]
++[[風花舞]]
++[[花吹雪>花吹雪/ウタP]]（twinkle rock ver.）
++[[Imitator]]（Full-MikkuP techno ver.）
+
+**リンク
+-[[作者blog>>http://boredomnote.blog2.fc2.com/]]
+
+**コメント
+- 古の森めっちゃ好き  -- ミクの母親みたいな。  (2011-04-10 16:10:31)
+- もう10年前になるのか  -- 名無しさん  (2019-08-28 16:51:02)
+#comment()

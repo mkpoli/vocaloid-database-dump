@@ -1,0 +1,33 @@
+#right(){&furigana(あきのおもい、はるのこえ)&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/538_20100929044156_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[ナナイロ]]|CENTER:&bold(){秋の想い、春の声}|CENTER:-|
+
+|&bold(){[[情熱P]]}|カザグルマ|Smile|qurter|
+
+発売：2010年10月20日
+価格：￥300 / 1曲￥150
+流通：配信
+レーベル：KarenT
+ジャケットイラスト：[[カザグルマ>>http://piapro.jp/SMMS]]
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/id397958303]]}|
+
+**CD紹介
+-秋の唄2曲セットの配信アルバム。
+-KarenTの「秋の唄'10」企画で配信された作品の1つ。
+-「[[秋の想い、春の声]]」と、インスト曲をボーカルアレンジした「[[Scarlet Leaves]]」を収録。
+-「秋の想い、春の声」は動画版とミックスが異なる。
+
+**曲目
++[[秋の想い、春の声]] （feat. 鏡音レン&初音ミク&鏡音リン）
++[[Scarlet Leaves]] （feat. 巡音ルカ）
+
+**リンク
+-[[KarenT：「秋の想い、春の声」>>http://karent.jp/album/538]]
+-[[KarenT：「秋の唄'10」特集ページ>>http://karent.jp/special/autumn10]]
+-[[幻影音楽堂（作者サイト）>>http://sound.jp/neontetra_feel/]]
+
+**コメント
+#comment()

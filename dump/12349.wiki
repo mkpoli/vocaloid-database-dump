@@ -1,0 +1,23 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/15225699" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/15225699">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-ハードな曲を主に作っているルカ使い。
+-代表作に「[[覚醒罪]]」「[[嫉妬囚人]]」など。
+
+**リンク
+-[[カラオケ置き場>>http://www.nadeshiko.sakura.ne.jp/~style/orcheset-download.html]]
+
+**曲
+#list_by_tag(Guity,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(GuityCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画（再生数が多い順に6つ）
+|&nicovideo(http://www.nicovideo.jp/watch/sm8832395)|&nicovideo(http://www.nicovideo.jp/watch/sm8968602)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm8465395)|&nicovideo(http://www.nicovideo.jp/watch/sm10045123)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9382484)|&nicovideo(http://www.nicovideo.jp/watch/sm8716356)|
+
+**コメント
+#comment()

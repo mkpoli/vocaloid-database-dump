@@ -1,0 +1,49 @@
+#right(){&furigana(whiteout)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&ref(jacketxzx.jpg) 
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Distorted Princess>Distorted Princess/CD]]|CENTER:&b(){whiteout}|CENTER:[[×××× the ripper]]|
+
+|&b(){[[八王子P]]}|[[emon（Tes.）]]|[[KazuP]]|[[すけっちP]]|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2010年11月14日||
+|価格|CENTER:￥1,000|CENTER:￥1,470（税込）|
+|サークル|>|CENTER:Plug::8|
+
+**CD紹介
+CD名：『&u(){whiteout}』
+-&b(){八王子P}の2ndアルバム。ボーマス14で初頒布。
+-KazuP、すけっちP、emon(Tes.)の3名がゲスト参加している。
+-ジャケットイラストはTNSK（壁の彩度）。
+-アニメイト、とらのあな、メロンブックス、D-STAGEで委託販売が行われている。
+
+**クロスフェード
+&nicovideo(sm12705648)
+
+**曲目
++intro+　feat. 初音ミクAppend
++アオイロノユメ -GUMI ver.-　feat. メグッポイド
++[[Mad Lovers]]　feat. 巡音ルカ
++Cosmic Pulsation　feat. 初音ミク　/　Composed by KazuP
++[[エレクトリック・ラブ]] -Electric* Re：Edit-　feat. 初音ミク
++[[whiteout]]　feat. 初音ミクAppend
++rock　feat. 初音ミク & 巡音ルカ
++[[エレクトリック・スター]]　feat. メグッポイド
++[[Distorted Princess]] -SuketchP rmx-　/　Remixed by すけっちP
++[[KOOL>Keep Only One Love]] -emon(Tes.) Remix-　/　Remixed by emon(Tes.)
+
+//**リンク
+//-[[特設サイト>>http://whiteout.plug8.info/]]
+//-[[作者のブログ>>http://8prince.sblo.jp/]]
+//-[[アニメイト>>http://www.animate-onlineshop.jp/pn/%E3%80%90%E5%90%8C%E4%BA%BACD%E3%80%91Plug%3A%3A8/whiteout/pd/1047692/]]
+//-[[とらのあな>>http://www.toranoana.jp/mailorder/cit/pagekit/0000/00/04/000000042138/index.html]]
+//-[[メロンブックス>>http://shop.melonbooks.co.jp/shop/list/?DA=chgitemtype&G=&F=Plug%3A%3A8]]
+//-[[D-STAGE>>http://d-stage.com/shop/detail.php?seq=17734]]
+
+**コメント
+#comment()

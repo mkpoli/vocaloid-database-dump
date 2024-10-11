@@ -1,0 +1,28 @@
+#right(){&furigana()&furigana()【登録タグ:&tags()】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/19101689" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/19101689">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-作詞家の作り手。
+-曲、「ジュディマリ」で作詞家デビュー。
+-あの「[[ニルギリ>>http://www.nicovideo.jp/watch/sm11225397]]」の作詞担当者。
+-「折れてないマイクで～」の歌い手。
+-これからの活躍に期待が高まる。
+
+**リンク
+-[[おおおおおおおぐ（作者ブログ）>>http://tonighted.blog117.fc2.com/]]
+-[[Twitter>>http://twitter.com/tonighted]]
+
+**曲
+#list_by_tag(tonighted,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(tonightedCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/nm5583443)| &nicovideo(http://www.nicovideo.jp/watch/sm14484170)| 
+
+**コメント
+- 歌詞のセンスがすごい!!大好き!ｗ  -- 名無しさん  (2011-05-20 20:47:57)
+- またね、じゃあね  -- 名無しさん  (2012-07-23 22:08:21)
+- 抱きしめたトゥナイトさん、ちょまいよさんと、同一人物。  -- 名無しさん  (2012-11-20 07:54:00)
+#comment()

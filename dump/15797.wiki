@@ -1,0 +1,42 @@
+#right(){&furigana(ぢゅ めらぞーまP)&furigana()【登録タグ:&tags()】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/23062867" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/23062867">【ニコニコ動画】ぢゅのマイリスト</a></iframe>)
+
+**特徴
+-開発コードmikiの曲を多く発表している。（P自身がmiki廃を宣言している。）
+-処女作は2011年1月10日投稿の「[[生まれて初めて生えた翼 Short Ver.]]」。
+-P名は、2011年2月10日投稿の「[[魔縁ノ嫁御のメラゾーマ]]」にちなんで「メラゾーマP」とのコメントがつき、同年5月2日頃タグロックされた。
+-代表作となった「[[フランシスカ]]」は、初音ミク Project DIVA Arcade に見事採用。
+-現在は「&bold(){フランシスカ物語}」を展開中。
+
+**リンク
+-[[ブログ>>http://ameblo.jp/kandyu/]]
+-[[PIAPRO>>http://piapro.jp/kanjyu]]
+-[[Twitter>>http://twitter.com/kanjyu]]
+-[[コミュニティ>>http://com.nicovideo.jp/community/co1147084]]
+
+**曲
+#list_by_tag(ぢゅ（メラゾーマP）,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(ぢゅ（メラゾーマP）CD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+***オリジナル曲（再生数、マイリスト数などが高いものを）
+|&nicovideo(http://www.nicovideo.jp/watch/sm15793539)|&nicovideo(http://www.nicovideo.jp/watch/sm14205326)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm14800358)|&nicovideo(http://www.nicovideo.jp/watch/sm13555317)|
+
+**コメント
+- メラゾーマP大好き！！！  -- 名無しさん  (2011-05-27 20:47:29)
+- お願いチョコさまがいいよー  -- みきんこ  (2011-06-03 23:41:03)
+- 強奪少女を聞いて一発で好きになりました  -- jessy  (2011-06-06 07:00:26)
+- 新曲来てますね  -- dutios  (2011-06-23 18:03:34)
+- 百年使命はかなり良かった  -- 名無しさん  (2011-06-30 17:17:21)
+- 百年使命がいい！  -- 名無しさん  (2011-07-29 12:47:53)
+- とっとりアニカルのテーマ曲が最高でした。  -- 社  (2011-09-09 00:58:38)
+- 荒ぶるピアノ大好きです！！！！  -- 若葉  (2011-10-29 08:00:39)
+- フランシスカの人  -- 名無しさん  (2012-05-16 21:57:02)
+- 血ヲ血デシリーズ大好き  -- 名無しさん  (2013-01-18 16:34:06)
+- フランシスカ続編期待です！  -- mio  (2013-01-28 06:24:13)
+- ベストアルバム、通販してください  -- キボンヌ  (2013-03-28 06:43:30)
+- いい曲多いのに埋もれてるよな  -- 名無しさん  (2013-05-07 20:53:06)
+#comment()

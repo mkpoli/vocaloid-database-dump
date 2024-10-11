@@ -1,0 +1,12 @@
+#right(){&furigana()&furigana()【登録タグ:&tags()】}
+&nicovideo(http://www.nicovideo.jp/watch/nm11712298)
+作詞：[[セピアP]]
+作曲：[[セピアP]]
+編曲：[[セピアP]]
+唄：初音ミク
+
+**曲紹介
+-ボカロを使用したトランス曲だが、メインはインスト。
+
+**コメント
+#comment()

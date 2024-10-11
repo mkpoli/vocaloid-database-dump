@@ -1,0 +1,35 @@
+#right(){&furigana(ひがんばな)&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/547_20101015162701_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[月御伽]]|CENTER:&bold(){彼岸花}|CENTER:-|
+
+|&bold(){[[かぐらP]]}|
+
+発売：2010年10月20日
+価格：￥150
+流通：配信
+レーベル：KarenT
+ジャケットイラスト：[[流良>>http://piapro.jp/n_minakami]]
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/id397962460]]}|
+
+**CD紹介
+>眠りにつく横顔を　白く映す　月明かり
+>運命の糸　紡いで　最後に詠う、この歌を・・・。
+
+-かぐらPの配信シングル。
+-KarenTの「秋の唄'10」企画で配信された作品の1つ。
+-本作はアルバム『[[花鳥風月>花鳥風月/CD]]』（頒布終了）からのシングルカットとなる。それにあたり再ミックスされている。
+-別離と輪廻をテーマにした和風バラード。
+
+**曲目
++彼岸花 （feat. 巡音ルカ）
+
+**リンク
+-[[KarenT：「彼岸花」>>http://karent.jp/album/547]]
+-[[KarenT：「秋の唄'10」特集ページ>>http://karent.jp/special/autumn10]]
+-[[DeZI:R（作者サークルサイト）>>http://www.dezi-r.net/]]
+
+**コメント
+#comment()

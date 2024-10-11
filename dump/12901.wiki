@@ -1,0 +1,46 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/668_20110218021053_0240_0240.jpg)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm12627561)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&b(){The raingazer's song}|CENTER:-|
+
+|&b(){[[風呂埋葬P]]}|
+
+|流通|CENTER:即売|CENTER:同人|CENTER:配信|
+|発売|CENTER:2010年11月14日||CENTER:2011年3月2日|
+|価格|CENTER:￥1,000|￥1,050（税込）|￥1,200 / 1曲￥150|
+|サークル|CENTER:糞みゅむ埋葬ぽわぽわ風味|||
+
+|&bold(){[[とらのあなで購入する>>http://www.toranoana.jp/mailorder/article/04/0010/24/67/040010246766.html]]}|
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/the-raingazers-song/id422457863]]}|
+
+**CD紹介
+-&b(){風呂埋葬P}の1stアルバム。ボーマス14で初頒布。
+-発表済みの全楽曲＋新曲1曲の全12曲が収録されている。
+-とらのあなで委託販売行われている。また、KarenTレーベルよりダウンロード販売も行われている。
+
+**曲目
++水彩ラフ　&color(red){New!!}
++[[F.M.S.]]
++[[apricot sun]]
++[[雑念浮遊]]
++[[ルームボックス]]
++[[ギプスとセカイ]]
++[[MERRY-GO-LIFE!!]]
++[[AJISAISONG]]
++[[Re;lium>LILIUM]]
++[[シラミレミ]]
++[[夢花火>夢花火/風呂埋葬P]]
++[[The raingazer's song]]　&color(red){New!!}
+
+**リンク
+-[[サークルのブログ>>http://kusomyum.blog96.fc2.com/]]
+-[[作者のブログ>>http://36g.blog38.fc2.com/]]
+-[[KarenT>>http://karent.jp/album/668]]
+
+**コメント
+- 通販で買いました！水彩ラフすごい好きだー  -- 藍  (2011-01-21 22:50:18)
+- 水彩ラフすっき～！  -- ふゆ  (2011-08-22 14:46:57)
+#comment()

@@ -1,0 +1,51 @@
+#right(){&furigana()&furigana()【登録タグ:&tags()】}
+&nicovideo(http://www.nicovideo.jp/watch/sm11320000)
+作詞：[[Hal（ポン酢P）>ポン酢P]]
+作曲：[[Hal（ポン酢P）>ポン酢P]]
+編曲：[[Hal（ポン酢P）>ポン酢P]]
+パーソナリティ：初音ミクAppend
+
+**曲紹介
+-歌ってみたカテゴリでおなじみの「Nimo」へHal氏が書き下ろした曲のミクAppendカバー。
+-本家のNimo版はCD「Rutabo」に収録されているのでそちらもどうぞ。
+
+**歌詞
+この世界が抱くもの　そして漲る想いたちが
+追いつけないスピードで　私をすり抜けてくの
+繋ぎとめたその想いの　扉の先に見え隠れする
+小さいけれど確かな勇気　赤い光が想い照らす
+
+暗闇に堕ちて行く　困惑に満ちた白と黒
+要求される思考と　迫り来る&ruby(とき){時間}の記憶
+希望　自由　光眩しく　散りばめられた　Destiny
+
+☆I want to tell you　駆け巡るこの想い　解き放て今すぐに
+　My mind and your mind　体じゅう　絡み合い乱れあう鼓動
+　Please love all　果てしなく　世界中に晒された姿で
+　想い開くの　Door of Destinies
+
+そっと触れたその傷口に　誘惑が通り過ぎてゆく
+誰かが　耳元で囁くの　「He's hard to read.」聞こえる…
+
+何処まで走り抜ければ　未来に辿り着けるの
+「Tell me when」そっと囁く　&ruby(とき){時間}の悪戯が交差する
+孤独　絶望　限界が　襲い掛かる　Destiny
+
+I don't want to hear another word out of you.　塞がれそうな扉の向こうには
+My heart and your heart　離れてく　偽りの仮面を纏うの
+I loved all.　今も　残ってる　この気持ちの全てが交差して
+迷い続けるの　Door of Destinies
+
+守れるよ明日の勇気　風の導きが突き抜ける
+無限の想い決めた瞬間　止まってた&ruby(とき){時間}が動き出す
+分解　融合　未来を　切り開くの　Destiny
+
+Can we love?　また　いつまでも　疑いの無いあの時のように
+I want to believe　永遠に　繋がる想いを撃ち放て
+I still love you　確信の　眼差しが突き刺さるタイミング
+I believe in you again　待っていた　この扉が開く瞬間
+
+☆繰り返し
+
+**コメント
+#comment()

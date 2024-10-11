@@ -1,0 +1,46 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/573_20101108231519_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Last Scene e.p.]]|CENTER:&bold(){Vista}|CENTER:-|
+
+|&bold(){[[そらいろくらぶ]]}|
+
+||CENTER:即売|CENTER:同人|CENTER:配信|
+|CENTER:発売|CENTER:2010年11月14日|CENTER:2010年11月14日|CENTER:2010年11月24日|
+|CENTER:価格|CENTER:￥1,000|CENTER:￥1,470（税込）|CENTER:￥1,200 / 1曲￥150|
+|CENTER:サークル|>|>|CENTER:s10rw|
+|CENTER:レーベル|||CENTER:KarenT|
+
+|&bold(){[[とらのあなで購入する>>http://www.toranoana.jp/mailorder/article/04/0010/24/70/040010247024.html]]}|
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/vista/id404174391]]}|
+
+**CD紹介
+-そらいろくらぶ2枚目のオリジナルアルバム。
+-前作の『[[telescope>telescope/CD]]』の朝～昼のイメージに変わり、今作は夕方～夜のイメージで制作されている。
+-アルバムのテーマは『－ここに描いた、明日へと続く風景を。』
+-全体的にバンドサウンドで構成され、曲は打ち込みは極力減らし、ギター、ベース、シンセサイザーは手で演奏された音を収録。
+-THE VOC@LOiD M@STER 14（ボーマス14）で頒布後、とらのあなでの委託販売、KarenTレーベルよりダウンロード販売が行われている。
+
+**クロスフェード
+&nicovideo(http://www.nicovideo.jp/watch/sm12682000)
+
+**曲目
++[[Vista>Vista/そらいろくらぶ]]
++[[Oval]]
++[[Color>color/そらいろくらぶ]]
++Soda
++A Love Song
++White
++Calm
++[[Stellar Place>ステラプレイス]] (for Vista)
++[[Last Scene]] encore
+
+**リンク
+- [[CD案内>>http://sorairoclub.seesaa.net/article/168768058.html]]
+- [[Sorairo Log.（サークルホームページ）>>http://sorairoclub.seesaa.net/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/24/70/040010247024.html]]
+-[[KarenT>>http://karent.jp/album/573]]
+
+**コメント
+#comment()

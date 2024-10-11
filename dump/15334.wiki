@@ -1,0 +1,42 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/595_20101125180017_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[スノー・マン]]|CENTER:&bold(){nostalgia}&br()[[アーパスの独り言]]|CENTER:-|
+
+|&bold(){[[ムジカデリク]]}|
+
+発売：2011年4月13日
+価格：￥1,200 / 1曲￥150
+流通：配信
+レーベル：KarenT
+ジャケット：[[ガラパゴス>>http://piapro.jp/tk524]]
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/nostalgia/id431046381]]}|
+
+**CD紹介
+-ムジカデリク氏の集大成となる1stアルバム。
+-シングル『[[アーパスの独り言]]』と同時リリース。
+
+**クロスフェード動画
+&nicovideo(http://www.nicovideo.jp/watch/sm14233864)
+
+**曲目
++[[雨だれに酔い虹]] （feat. 初音ミク）
++[[momentum]] （feat. 初音ミク&鏡音リン&巡音ルカ）
++[[ナガレボシ～Shooting Star～]] （feat. 初音ミク）
++[[傾城妓唄]] （feat. 初音ミク）
++[[nostalgia>nostalgia/ムジカデリク]] （feat. 初音ミク）
++[[CLOVER>CLOVER/ムジカデリク]] （feat. 初音ミク&鏡音リン）
++[[アーパスの独り言]]（独唱版） （feat. 初音ミク）
++[[Black Sheep]] （feat. 巡音ルカ&初音ミク,パトリチェフ）
++[[二等星の願い]] （feat. 初音ミク）
++[[時色ノスタルジー]] （feat. 鏡音レン,月讀）
+
+
+**リンク
+-[[KarenT：「nostalgia」>>http://karent.jp/album/595]]
+-[[作者ブログ>>http://musikadelik.sakura.ne.jp/]]
+
+**コメント
+#comment()

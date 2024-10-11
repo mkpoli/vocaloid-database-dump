@@ -1,0 +1,71 @@
+#right(){&furigana(Letyoursong)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm11537408)|
+作詞：[[けーだっしゅ]]
+作曲：[[けーだっしゅ]]
+編曲：[[けーだっしゅ]]
+唄：[[巡音ルカ]]
+
+**曲紹介
+曲名：『&u(){Let your song}』(&u(){れっと　ゆあ　そんぐ})
+-けーだっしゅ氏のボカロデビュー作。
+
+**歌詞
+
+I want know how to fly it　沈んでく空に
+凍えそうな夜　一人呟く
+失いそうで　崩れてしまいそうで
+流れる雲を　ただ見送った
+
+Let you go
+Now, in this place.
+even over
+きっと　誰もが描く　夢のあとを
+ずっと　追いかけて追いかけて
+空蒼く染まるまで　色褪せないように
+
+i from in the sky　繰り返す日々に
+落としてった　あの色
+You will not stop.
+You will not like trivia?
+everything time is hap
+this is not forever
+空と雨　虹、雲　溶けていく
+
+let you go
+say me free
+you make a unlucky?
+きっと　誰もが望んだ
+優しい世界へと　続いてく気がしてた
+そっと　誰かの声が　通り過ぎて
+
+生きてくここにたって　生まれた意味さえも
+追い越して　届かないように
+
+これ以上　もう　いらないよ　なにも欲しくないから
+空　泣いている　静かに　風は夢見る今
+
+Let you go
+Now, in this place.
+even over
+きっと　誰もが描く　夢のあとを
+ずっと　追いかけて追いかけて
+空蒼く染まるまで　色褪せないように
+
+消えてく　let you go...　空に向かって
+幾年、億千の　月日が流れても
+変わらない　優しい夢
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+**コメント
+#comment()
+
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)

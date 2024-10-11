@@ -1,0 +1,28 @@
+#right(){&furigana(りょくちゃP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/1031356" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/1031356">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-「ユメノオト」でボカロPとしてデビュー。
+-使用ボカロはミク・リンレン。
+-サークル「樹の森」としても活動をしている。
+
+**リンク
+-[[樹の森（作者ホームページ）>>http://sound.jp/kino1/]]
+-[[ピアプロ>>http://piapro.jp/tabi77]]
+-[[Twitter>>https://twitter.com/ryoku_cha_tabiR]]
+
+**曲
+#list_by_tag(緑茶P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(緑茶PCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm11405275)|&nicovideo(http://www.nicovideo.jp/watch/sm11879184)|
+
+**コメント
+- クロック・ロジックの歌詞ほしいです……！  -- 名無しさん  (2010-11-23 14:55:31)
+- ↑「[[クロック・ロジック]]」追加しました  -- 名無しさん  (2011-02-18 22:01:58)
+- 緑茶Pさん好きです＾＾＊  -- 吹雪＠真緒  (2011-03-24 15:41:41)
+- 「さくらひらり」が入ってないよ  -- 名無しさん  (2012-03-22 10:22:26)
+#comment()

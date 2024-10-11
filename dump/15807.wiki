@@ -1,0 +1,85 @@
+#right(){&furigana(きょーへい)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/12211864" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/12211864">【ニコニコ動画】うｐリスト</a></iframe>)
+
+**特徴
+作り手名：『&u(){キョーヘイ}』
+-本業はピアノ奏者であり、普段は「演奏してみた」カテゴリの動画投稿が中心。
+-初のボカロオリジナル曲は「[[コトノハ>コトノハ/キョーヘイ]]」。
+-アーティスト名は &bold(){音坂キョーヘイ} 。
+-2022年3月、「[[Espiazione]]」にて自身初の殿堂入りを達成した。
+
+**リンク
+-[[ニコニコ>>https://www.nicovideo.jp/user/12020575]]
+-[[YouTube>>https://www.youtube.com/channel/UCcdDQ3ydqQv4u_FvUF9Fe5A]]
+-[[ピアプロ>>https://piapro.jp/kyohei1006]]
+-[[Twitter>>https://twitter.com/piano_kyohei]]
+
+**曲
+#list_by_tag(キョーヘイ,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(キョーヘイCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm8389885)|&nicovideo(sm8437390)|
+|&nicovideo(sm8902494)|&nicovideo(sm8969892)|
+|&nicovideo(sm9205117)|&nicovideo(sm9523097)|
+|&nicovideo(sm9566988)|&nicovideo(sm10695393)|
+|&nicovideo(sm11364828)|&nicovideo(sm11933945)|
+|&nicovideo(sm13917297)|&nicovideo(sm14203373)|
+|&nicovideo(sm14203433)|&nicovideo(sm14268106)|
+|&nicovideo(sm14268215)|&nicovideo(sm14341565)|
+|&nicovideo(sm14341675)|&nicovideo(sm14414570)|
+|&nicovideo(sm14414667)|&nicovideo(sm14514255)|
+|&nicovideo(sm14514313)|&nicovideo(sm14562782)|
+|&nicovideo(sm14562834)|&nicovideo(sm14610968)|
+|&nicovideo(sm14611040)|&nicovideo(sm14676367)|
+|&nicovideo(sm14676631)|&nicovideo(sm14742038)|
+|&nicovideo(sm14742092)|&nicovideo(sm14806782)|
+|&nicovideo(sm14806817)|&nicovideo(sm14831142)|
+|&nicovideo(sm14941024)|&nicovideo(sm15005742)|
+|&nicovideo(sm15069738)|&nicovideo(sm15182298)|
+|&nicovideo(sm15317427)|&nicovideo(sm15386487)|
+|&nicovideo(sm15492487)|&nicovideo(sm15546752)|
+|&nicovideo(sm15585505)|&nicovideo(sm15736019)|
+|&nicovideo(sm15807918)|&nicovideo(sm15924069)|
+|&nicovideo(sm15927418)|&nicovideo(sm15983976)|
+|&nicovideo(sm16074567)|&nicovideo(sm16123083)|
+|&nicovideo(sm16193646)|&nicovideo(sm16262725)|
+|&nicovideo(sm16315273)|&nicovideo(sm16350486)|
+|&nicovideo(sm16430976)|&nicovideo(sm16691511)|
+|&nicovideo(sm16787300)|&nicovideo(sm16940147)|
+|&nicovideo(sm17054156)|&nicovideo(sm17179019)|
+|&nicovideo(sm17219554)|&nicovideo(sm17519271)|
+|&nicovideo(sm17596622)|&nicovideo(sm17626014)|
+|&nicovideo(sm18145715)|&nicovideo(sm18381373)|
+|&nicovideo(sm18483984)|&nicovideo(sm18629958)|
+|&nicovideo(sm18753057)|&nicovideo(sm18762681)|
+|&nicovideo(sm18872176)|&nicovideo(sm19011373)|
+|&nicovideo(sm18872176)|&nicovideo(sm19011373)|
+|&nicovideo(sm19126405)|&nicovideo(sm19555595)|
+|&nicovideo(sm19750021)|&nicovideo(sm19897761)|
+|&nicovideo(sm19971139)|&nicovideo(sm20131219)|
+|&nicovideo(sm20340004)|&nicovideo(sm20737821)|
+|&nicovideo(sm20943901)|&nicovideo(sm21091236)|
+|&nicovideo(sm21375674)|&nicovideo(sm21660165)|
+|&nicovideo(sm21913355)|&nicovideo(sm21962638)|
+|&nicovideo(sm22491112)|&nicovideo(sm22784892)|
+|&nicovideo(sm22937497)|&nicovideo(sm23166961)|
+|&nicovideo(sm23698776)|&nicovideo(sm23819714)|
+|&nicovideo(sm23977818)|&nicovideo(sm24658541)|
+|&nicovideo(sm25087577)|&nicovideo(sm25114055)|
+|&nicovideo(sm31997161)|&nicovideo(sm32058574)|
+|&nicovideo(sm33629772)|&nicovideo(sm33684598)|
+|&nicovideo(sm35603219)||
+//|&nicovideo()|&nicovideo()|
+**コメント
+//- ピアを入れてぇぇぇぇ切実に!!  -- 名無しさん  (2011-08-13 11:18:08)
+//- 雨蛍を!!  -- 名無しさん  (2011-12-15 17:09:18)
+//- なぜ、なぜ…モノクロ紫陽花がないんだ…。　何で伸びないんだぁーーー!!!  -- 零羅  (2012-06-30 18:49:52)
+//- Espiazioneいれて欲しいです…！！！！！！  -- 星音  (2021-02-05 14:48:17)
+#comment()

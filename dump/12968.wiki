@@ -1,0 +1,39 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#amazon(B0046Y6PEQ)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){T-POCKET}|CENTER:[[SONG LINE]]|
+
+|&bold(){[[とみー]]}|[[オレジナルP]]|
+
+||CENTER:即売|CENTER:同人|CENTER:配信|
+|発売|>|CENTER:2010年11月14日|CENTER:2010年12月15日|
+|価格|CENTER:￥1,000|CENTER:￥1,500（税込）|CENTER:￥1,200 / 1曲￥150|
+|サークル|CENTER:逃走メランコリック1925|||
+
+**CD紹介
+-とみー（T-POCKET）氏の1stアルバム。
+-「1925」「Bad Sweets」「エゴロジスト」など動画で発表された楽曲の他、コンピレーションCD『[[Try!]]』収録の「甘ったれランナー」も収録された全8曲。
+-THE VOC@LOiD M@STER 14（ボーマス14）で頒布される。Amazonにて委託販売、KarenTよりダウンロード販売が行われている。
+
+**クロスフェード
+&nicovideo(http://www.nicovideo.jp/watch/sm12731653)
+
+**曲目
++AN1 (inst)
++[[will（遺言）]] ~new arrange~
++[[Bad Sweets]] 2nd line feat.初音ミク /[[中西>ピストンP]]/[[オレジナルP]]
++[[エゴロジスト]]
++[[ステア]]
++甘ったれランナー
++LOVE SONG　　&font(red){NEW!!}
++[[1925]] ~memorial track~
+
+**リンク
+-[[作者ブログ>>http://syokorapocket.blog53.fc2.com/]]
+-[[Amazon>>http://www.amazon.co.jp/dp/B0046Y6PEQ]]
+-[[KarenT>>http://karent.jp/album/596]]
+
+**コメント
+- これはほしい  -- 名無しさん  (2011-03-18 15:19:04)
+#comment()

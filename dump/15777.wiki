@@ -1,0 +1,50 @@
+#right(){&furigana(わがはいP) &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/17588213" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/17588213">【ニコニコ動画】投稿動画</a></iframe>)
+
+**特徴
+-幻想的だったり切ない曲が印象的なP。
+-ピアノが印象的な曲が多い。
+-P名は、投コメの最初に必ず入る「我輩はPである　名前はまだない」から。
+-PV製作も手がけている。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/HAIZARA99]]
+-[[作者ブログ>>http://gaagle.jp/blog]]
+-[[Twitter>>http://twitter.com/gaguyuki]]
+
+**曲
+#list_by_tag(我輩P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(我輩PCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm9702189)|&nicovideo(http://www.nicovideo.jp/watch/sm9972663)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm10121029)|&nicovideo(http://www.nicovideo.jp/watch/sm10509329)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm13136823)|&nicovideo(http://www.nicovideo.jp/watch/sm13408242)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm14045560)|&nicovideo(http://www.nicovideo.jp/watch/sm14142052)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm14253186)|&nicovideo(http://www.nicovideo.jp/watch/sm14367752)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm14597712)|&nicovideo(http://www.nicovideo.jp/watch/sm14681146)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm15055183)|&nicovideo(http://www.nicovideo.jp/watch/sm15437923)|
+|&nicovideo(sm30846553)|&nicovideo(sm30873455)|
+|&nicovideo(sm30990075)|&nicovideo(sm31149321)|
+|&nicovideo(sm32777525)|&nicovideo(sm32990831)|
+
+**コメント
+- このP埋もれ過ぎ...曲はどれも良いのに  -- 名無しさん  (2011-05-10 22:14:56)
+- 素晴らしい曲ばかりなのに何故伸びないんでしょうかね・・・;  -- 名無しさん  (2011-05-20 21:02:09)
+- 無理だよ…とかむっちゃ泣きました。ニコ動でもユーチューブでも再生回数上がってほしい…  -- 名無しさん  (2011-05-21 09:54:16)
+- そのうちブレイクする気がする  -- 名無しさん  (2011-05-24 18:52:42)
+- おお！やっとWiki出来た！偽生者から追っかけてるけど我輩P超好きだ！  -- 名無しさん  (2011-05-26 21:42:09)
+- ページ作成サンクス！！  -- 名無しさん  (2011-07-06 18:25:11)
+- 名曲揃い！聞いて損無し！  -- 田中慶太  (2011-07-29 12:47:22)
+- 凄いPを見つけた・・・圧巻だわ  -- 名無しさん  (2011-07-31 21:25:49)
+- ヤヴァイｗｗｗｗｗｗｗｗ  -- コノハ  (2011-08-18 20:02:25)
+- 無理だよ…で知ってからずっとファン!!　友達にも宣伝まくってるＶ  -- さな  (2011-09-23 12:00:16)
+- 好きすぎる！神！  -- 名無しさん  (2012-02-18 22:04:21)
+- 我輩Ｐの曲のピアノが一番大好きです!!!  -- ぬこ  (2012-04-23 15:29:43)
+- 偽生者が一番好き  -- 名無しさん  (2012-05-10 11:51:05)
+- 有名になってほしくないけどなってほしい！！！カラオケとかでも歌いたい！  -- 名無しさん  (2012-12-16 16:59:51)
+- (´；ω；`)  -- 名無しさん  (2013-06-21 12:57:12)
+- なぜいい曲作るのに伸びない？そのうち人気になりそうなP  -- いすもも  (2014-04-27 09:11:39)
+#comment()

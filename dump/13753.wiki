@@ -1,0 +1,25 @@
+#right(){&furigana(うしごころたいちょう)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/18444772" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/18444772">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-P名は&b(){キャプテン・ビーフハートP}。投稿者名を直訳したものである。
+-曲のジャンルは主にテクノ。
+-氏のヒット作「[[サイケな夢]]」はKarenT配信も行われている。
+-実は[[FuzzP]]と同一人物である。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/dogbite123]]
+-[[KarenT>>http://karent.jp/artist/pp000366]]
+
+**曲
+#list_by_tag(牛心隊長,100,sort=furigana,errmsg=まだ曲が登録されていません)
+**CD
+#list_by_tag(牛心隊長CD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/nm6868071)|&nicovideo(http://www.nicovideo.jp/watch/sm8541067)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm10288151)|&nicovideo(http://www.nicovideo.jp/watch/sm10983625)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm11469338)|&nicovideo(http://www.nicovideo.jp/watch/sm14177899)|
+
+**コメント
+#comment()

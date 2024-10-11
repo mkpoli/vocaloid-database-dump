@@ -1,0 +1,12 @@
+#right(){【登録タグ:&tags()】}
+//↑タグ忘れ防止のための表示
+曖昧さ回避のためのページ
+----
+-[[kal]]の曲
+--[[Neverland/kal]]
+-[[APG550]]の曲
+--[[NEVERLAND/APG550]]
+-[[KEI]]の曲
+--[[Neverland/KEI]]
+
+#include(曖昧さ回避の追加の仕方/告知)

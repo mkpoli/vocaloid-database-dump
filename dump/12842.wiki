@@ -1,0 +1,37 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm12503765)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&b(){SOMEONE}|CENTER:-|
+
+|&b(){[[どなたかP]]}|[[きゃんでぃP]]|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|>|CENTER:2010年11月14日|
+|価格|CENTER:￥700|CENTER:未定|
+|サークル|>|CENTER:Project Nostalgia|
+
+**CD紹介
+-どなたかPの1stアルバム。ボーマス14で初頒布。
+-[[がくっぽいどコンテスト>>http://info.nicovideo.jp/gackpoid/]]の優秀作品に選ばれた「[[Dream in Dream]]」と「[[sad]]」を含む6曲＋全曲のカラオケVer.が収録されている。
+-「Germination」の作詞は [[きゃんでぃP]] こと 和宮鈴奈 氏が手がけている。
+
+**曲目
++Germination
++[[Looking Down]]
++[[sad]]
++[[夜蝶]]
++[[Dream in Dream]]
++Orion
++Germination (カラオケVer.)
++Looking Down (カラオケVer.)
++sad (カラオケVer.)
++夜蝶 (カラオケVer.)
++Dream in Dream (カラオケVer.)
++Orion (カラオケVer.)
+
+**リンク
+-[[Project NostalgiaのCD紹介ページ>>http://nostalgia.takap.tk/solo/someone/]]
+
+**コメント
+#comment()

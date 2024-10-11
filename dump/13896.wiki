@@ -1,0 +1,26 @@
+#right(){&furigana(なんしゃくP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/19500062" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/19500062">【ニコニコ動画】</a></iframe>)
+
+**特徴
+作り手名：『&u(){軟弱P}』(&u(){なんじゃくP})
+-アーティスト名は&b(){yocco}。
+-ボカロPとしては元々ピアプロで活動していたが、現在はニコ動でも活動をしている（ニコ動アカウント取得自体はγ時代から）。
+-普段はニコ生放送主としての活動が本業である。
+
+**リンク
+-[[ピアプロ>>http://piapro.jp/yocco]]
+-[[Twitter>>https://twitter.com/yocco9216]]
+
+**曲
+#list_by_tag(軟弱P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(軟弱PCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm12953593)|&nicovideo(http://www.nicovideo.jp/watch/sm13203321)|
+
+**コメント
+- 作られてる！ありがとうございます。　個人的に輪廻は中毒。もっと評価されるべき！  -- 名無しさん  (2011-01-08 10:26:10)
+- 作られてた！びっくりｗ　もっと評価されるべきだと切に思います  -- 名無しさん  (2011-05-05 22:54:14)
+#comment()

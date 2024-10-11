@@ -1,0 +1,34 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/559_20101017192352_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[あなたのいる場所 -Important Place-]]|CENTER:&bold(){Fragments}|CENTER:[[E.O.S.]]|
+
+|&bold(){[[shu-tP]]}|
+
+発売：2010年11月5日
+価格：￥600 / 1曲150
+流通：配信
+レーベル：KarenT
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/fragments/id400172958]]}|
+
+**CD紹介
+-MEIKOの発売6周年を記念して発表された、MEIKO曲オンリーのミニアルバム。
+-2004年11月に制作した「In The Moment」のリメイクから始まる全5曲。
+-KarenTのMEIKO6周年記念企画で配信された作品の1つ。
+
+**曲目
++[[In The Moment 2010>In The Moment]] （feat. MEIKO）
++[[Flow@Time]] （feat. MEIKO）
++[[Another Change]] （feat. MEIKO）
++[[Other Side]] （feat. MEIKO）
++[[Fragment Of The Light]] （feat. MEIKO）
+
+**リンク
+-[[KarenT：「Fragments」>>http://karent.jp/album/559]]
+-[[KarenT：「MEIKO記念祭'10」特集ページ>>http://karent.jp/special/meiko10]]
+-[[Flow@Time（作者ブログ）>>http://shu-t.sonic-wave.net/]]
+
+**コメント
+#comment()

@@ -1,0 +1,29 @@
+#right(){&furigana(breakthroughthenight)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(nm13089107)|
+作曲：[[arp realizer]]
+編曲：[[arp realizer]]
+唄：[[初音ミク]]
+
+**曲紹介
+曲名：『&u(){break through the night}』（&u(){ブレイク スルー ザ ナイト}）
+-VOCALOIDを使用したインスト曲の1つ。
+-arp realizer氏が学生時代（10年前）に友人と共同制作した、purple eyeという同人ゲームの主題歌。
+-purple eyesはmovie付のゲームだったので、ニコ動版は差し替え可能なように曲の尺もmovie sizeとなっている。
+
+**歌詞
+（※インスト曲のため歌詞なし）
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+**コメント
+#comment()
+
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)

@@ -1,0 +1,39 @@
+#right(){&furigana(しのP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/19411096" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/19411096">【ニコニコ動画】</a></iframe>)
+
+**特徴
+作り手名：『&u(){しのP}』
+-テクノ系のポップな曲を発表している。
+-ボカロ処女作は「[[Magic！]]」。これがいきなりのスマッシュヒット。
+-インパクトのある「[[は　い　て　な　い　！]]」は秀逸の迷曲。
+-使用ボカロはミクだけだったが、ラピスも仲間入り。
+-美少女ゲーム音楽制作グループ『&bold(){Angel Note}』所属。商業では &bold(){篠原瑞希} の名義を用いている。
+-ボカロ以外にも、同人・商業の両方で数々の楽曲を手掛けるなど、音楽活動は多岐に渡る。
+
+**リンク
+-[[PIAPRO>>https://piapro.jp/shinomusic8820]]
+-[[Twitter>>https://twitter.com/shino8820]]
+//-[[muzie>>http://www.muzie.co.jp/artist/r005149/]]
+//-[[日の当たる場所（作者ホームページ）>>http://shinoatarubasho.com/]]
+
+**曲
+#list_by_tag(しのP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+**CD
+#list_by_tag(しのPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(nm11072856)|&nicovideo(nm11878963)|
+|&nicovideo(nm11897744)|&nicovideo(nm13012761)|
+|&nicovideo(nm13915240)|&nicovideo(nm15146211)|
+|&nicovideo(nm16539595)|&nicovideo(nm17851817)|
+
+**コラボ作品
+|&nicovideo(nm13012976)|&nicovideo(nm13012981)|
+|&b(){[[agrooveP]]}作曲、&b(){しのP}編曲|&b(){しのP}作曲、&b(){[[agrooveP]]}編曲|
+
+**コメント
+#comment()

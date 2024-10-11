@@ -1,0 +1,28 @@
+#right(){&furigana(うわきP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/3114691" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/3114691">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-伴奏に8bitゲーム機などの懐かしの音を多用しており、可愛らしくも切ない詞が印象的である。
+-「[[32bit lovers]]」は森の妖精というあり得ない方面へのゲートウェイになっているが、&br()原因となった動画について本人は「素敵なPV」と紹介している。
+-2009年10月28日より、iTunes Storeにて過去の作品のリマスター版および新曲「シアワセヘヴン」を収めたアルバム「うわのそら」が配信されている。
+-各曲とも30秒の試聴が可能で、「32bit lovers」は&b(){あの}部分を聴く事が出来る。
+
+**リンク
+-[[Thima Home（作者ホームページ）>>http://thimahome.web.fc2.com/]]
+-[[Thima Blog（作者ブログ）>>http://thimablog.blog25.fc2.com/]]
+-[[ピアプロ>>http://piapro.jp/thima]]
+
+**曲
+#list_by_tag(浮気P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(浮気PCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm1970156)|&nicovideo(http://www.nicovideo.jp/watch/sm2032002)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm2952854)|&nicovideo(http://www.nicovideo.jp/watch/nm4218398)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7019623)||
+
+**コメント
+- この曲めっちゃかわいい…  -- 名無しさん  (2017-03-14 00:04:07)
+#comment()

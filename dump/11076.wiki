@@ -1,0 +1,53 @@
+#right(){&furigana(ふーちんひーたい2ふみえないよるにきえないひとみ ) &furigana()【登録タグ:&tags() 】}
+//#image(http://blog-imgs-43-origin.fc2.com/a/g/a/agatek/jake_20100714020501s.jpg)
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186109661.jpg,x=300,y=300)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[プーチンP第1部　「ひとりにしないで。」]]|CENTER:&bold(){プーチンP第2部　「みえないよるに、きえないひとみ。」}|CENTER:-|
+
+|&bold(){[[プーチンP]]}|
+
+||CENTER:即売|CENTER:同人|
+|発売|>|CENTER:2010年7月19日|
+|価格|CENTER:￥1,000|CENTER:￥1,470（税込）| 
+|サークル|E07「KGP by Numtack」&br()／委託販売：B59「MOCHO」|CENTER:捻れたアヒル|
+
+**CD紹介
+-全11曲　本編8曲　番外編（第-1部2曲（ミク）　第2.5部1曲（リン））収録（未発表）
+-ブックレット：12ページ／しうかさん描きおろし
+-イベント予定：ボーカロイドマスター13　
+-&bold(){通販開始→D-STAGEにて[[コチラから>>http://d-stage.com/shop/detail.php?seq=15999]]}
+-既存曲は全曲リマスター
+-注意：ドナルド、阿部さんなどは不参加／ある意味カラオケ
+-注意：「もんどうむよう！」はサビが再現不可能な為未収録
+-&bold(){配信開始→[[BOOTH>>https://numtack05.booth.pm/]],[[その他サイト>>https://www.tunecore.co.jp/artists?id=365313]]}
+
+**曲目
++[[まほうはじゃどう]]
++[[けっせんとうじつ！]]
++[[いっしょじゃない]]
++[[またあえたら☆]]
++[[ぬすみはげどう？]]
++[[なやみむようっ!!]]
++[[みえないよるに。]]
++[[きえないひとみ。]]
++ひだまり！
++たべたいでしょ？
++みえないこころ。
+
+
+**クロスフェードデモ
+|&nicovideo(http://www.nicovideo.jp/watch/sm11392242){340,185}|
+
+**リンク
+-[[プーチンPブログ>>http://numtack05.blog10.fc2.com/]]
+-[[しうかブログ>>http://agatek.blog27.fc2.com/]]
+-[[D-STAGE>>http://d-stage.com/shop/detail.php?seq=15999]]
+
+**コメント
+- 作りました。間違っていたら、修正をお願いします。  -- 名無しさん  (2010-07-27 00:21:33)
+- 乙です！通販開始されましたので追加しておきました。  -- 名無しさん  (2010-08-06 22:48:17)
+#comment()
+
+合計：&counter()今日：&counter(today)昨日：&counter(yesterday)

@@ -1,0 +1,55 @@
+#right(){&furigana(ちほP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/8032562" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/8032562">【ニコニコ動画】</a></iframe>)
+
+**特徴
+作り手名：『&u(){ちほP}』
+-ハイセンスなPV作りに定評のある絵師・動画師。
+-イラストは水彩調の美麗なもの、くっきりとしたアニメ画の様なもの等、色々な画風が存在する。
+-動画の種類も様々で、紙芝居から動きの滑らかなPVまで、曲の雰囲気に合わせて作成している。
+-鏡音リン・初音ミクを描く事が多いが、その他に鏡音レン・KAITO・MEIKO・GUMI等あらゆるボーカロイドを描いている模様。
+
+**リンク
+//-[[melpot（作者ブログ）>>http://melpot.moo.jp/]]
+-[[PIAPRO>>https://piapro.jp/buchiko]]
+-[[Pixiv>>https://www.pixiv.net/users/102969]]
+-[[Twitter>>https://twitter.com/chihoy]]
+
+**曲
+#list_by_tag(ちほP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(ちほPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|>|BGCOLOR(pink):COLOR(white):CENTER:&font(b,11pt){コラボ作品}|
+|&nicovideo(sm3636268)|&nicovideo(sm3841526)|
+|&nicovideo(sm4408384)|&nicovideo(sm5531755)|
+|&nicovideo(sm7447634)|&nicovideo(nm7453714)|
+|&nicovideo(sm8645909)|&nicovideo(sm10444862)|
+|&nicovideo(sm10950987)|&nicovideo(sm12468990)|
+|&nicovideo(sm13292326)|&nicovideo(sm14735906)|
+|&nicovideo(sm15016420)|&nicovideo(sm15485087)|
+|&nicovideo(sm17094691)|&nicovideo(sm24399674)|
+|&nicovideo(sm24657407)|&nicovideo(sm26676702)|
+|&nicovideo(sm26983384)|>|
+|>|BGCOLOR(lightgreen):COLOR(white):CENTER:&font(b,11pt){手書きPV}|
+|&nicovideo(sm3386204)|&nicovideo(sm3740775)|
+|&nicovideo(sm3840990)|&nicovideo(sm4333362)|
+|&nicovideo(sm4964177)|&nicovideo(sm5678249)|
+|&nicovideo(sm5716818)|&nicovideo(sm6324046)|
+|&nicovideo(sm8708952)|>|
+
+**コメント
+- ちほさん！！  -- 名無しさん  (2012-01-22 13:47:07)
+- メランコリック最高です！  -- 名無しさん  (2012-01-22 14:29:10)
+- ちほさんの絵  -- ちほ  (2012-10-29 21:16:30)
+- 可愛いです！！！！  -- メラコリ大好き  (2013-01-10 21:20:36)
+- 鏡音MAD狂信道は本当に神です。可愛さもありかっこよさもあり・・・。ボカロの絵師で一番に好きになった絵師さんです！！  -- 名無し  (2013-01-21 16:53:21)
+- 1925が入ってない、！  -- 名無しさん  (2013-10-04 18:39:13)
+- ちほP愛してる！  -- 名無しさん  (2015-11-06 18:43:37)
+- 大好きです☆  -- 花  (2016-02-08 18:52:31)
+#comment()

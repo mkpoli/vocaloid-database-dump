@@ -1,0 +1,26 @@
+#right(){&furigana(でーたP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/6400068" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/6400068">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-宇宙に関連するボカロ曲を主に投稿している。
+-いくつかの曲はmixiにも投稿されている。
+
+**リンク
+-[[ピアプロ>>http://piapro.jp/Kok_Wish]](Elle_データP)
+-[[ニコニコ動画>>http://www.nicovideo.jp/user/2096279?user_nicorepo]](Elle)
+-[[YouTube>>http://www.youtube.com/user/ElleDataP]](ElleDataP)
+-[[mixi>>http://mixi.jp/show_friend.pl?id=36558]](Kok.Wish)
+
+**曲
+#list_by_tag(データP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(データPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm3589020)|&nicovideo(sm7068532)|
+|&nicovideo(sm6765992)|&nicovideo(sm8289619)|
+|&nicovideo(sm11818224)|&nicovideo(sm11570599)|
+
+**コメント
+#comment()

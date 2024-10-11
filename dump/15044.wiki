@@ -1,0 +1,31 @@
+#right(){&furigana(きみようんめいになきたもうて)&furigana()【登録タグ:&tags()】}
+&nicovideo(http://www.nicovideo.jp/watch/sm13959113)
+作詞：[[アキバヲタP]]
+作曲：[[アキバヲタP]]
+編曲：[[アキバヲタP]]
+唄：初音ミク
+
+**歌詞
+空に黄昏を　君に花束を
+夜に戸惑いを　声に情熱を
+
+☆Baby Destiny　Baby Destiny
+　月光に鳴いた　運命の&ruby(しらからす){白烏}
+　Baby Destiny　Baby Destiny
+
+眼に隠微を　傍に悪戯を
+余命に言葉を　誰に恋しさを
+
+★Baby Destiny　Baby Destiny
+　月光を背に　羽ばたいた夜蝶
+　Baby Destiny　Baby Destiny
+
+指に約束を　掌に名残を
+過去に言い訳を　&ruby(いま){現在}に愛でるものを
+
+☆繰り返し
+
+★繰り返し
+
+**コメント
+#comment()

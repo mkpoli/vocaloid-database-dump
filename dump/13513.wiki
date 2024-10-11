@@ -1,0 +1,32 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/5763059" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/5763059">【ニコニコ動画】</a></iframe>)
+
+**特徴
+作り手名：『&u(){liam}』
+-VOCALOID使用曲の他にも、インストゥルメンタルをいくつか発表している。
+-かつては&bold(){l.i.a.m}と表記していた。
+-サークル「Out Wave Cluster」所属。
+
+**リンク
+-[[No Money No Honey（作者ブログ）>>http://liaaaamm.blog.shinobi.jp/]]
+-[[PIAPRO>>https://piapro.jp/l_i_a_m]]
+-[[Out Wave Cluster>>https://outwavecluster.tumblr.com/]]
+-[[YouTube>>https://www.youtube.com/user/liaaaamm]]
+-[[SoundCloud>>https://soundcloud.com/liiiiaaam]]
+-[[Twitter>>https://twitter.com/_l_i_a_m]]
+
+**曲
+#list_by_tag(liam,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(liamCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm3726742)|&nicovideo(sm4079132)|
+|&nicovideo(sm5276143)|&nicovideo(sm7349681)|
+|&nicovideo(sm9693929)|&nicovideo(sm11682647)|
+
+**コメント
+- この人の曲、結構好き。  -- シャアの妹  (2011-10-28 16:25:48)
+- thornがどっちも好き  -- 名無しさん  (2018-01-14 16:49:56)
+#comment()

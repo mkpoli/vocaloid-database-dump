@@ -1,0 +1,50 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/10180194" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/10180194">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-『バンブラDX』を使用した動画を投稿していたが、「Treasure Hunter」でボカロも使用し始めた。
+-2021年10月、ついに「[[Singularity]]」(オリジナル版)が自身初の殿堂入りを達成した。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/keisei_1092]]
+-[[作者サイト>>http://miraitoarumachi.com/]]
+-[[作者ブログ>>http://keisei-mix.seesaa.net/]]
+-[[Twitter>>http://twitter.com/keisei_1092]]
+-[[YouTube>>http://www.youtube.com/user/keisei1092]]
+-[[KARENT>>http://karent.jp/artist/pp000729]]
+
+**曲
+#list_by_tag(keisei,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(keiseiCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/nm8554942)|&nicovideo(http://www.nicovideo.jp/watch/nm8609441)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm9265306)|&nicovideo(http://www.nicovideo.jp/watch/sm17616033)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm17899064)|&nicovideo(http://www.nicovideo.jp/watch/sm19234907)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm19562384)|&nicovideo(sm20028286)|
+|&nicovideo(sm20287628)|&nicovideo(sm20771599)|
+|&nicovideo(sm22055405)|&nicovideo(sm22409846)|
+|&nicovideo(sm22770350)|&nicovideo(sm22970711)|
+|&nicovideo(sm23184200)|&nicovideo(sm24193703)|
+|&nicovideo(sm24349887)|&nicovideo(sm25400454)|
+|&nicovideo(sm25759628)|&nicovideo(sm26673871)|
+|&nicovideo(sm27048129)|&nicovideo(sm27242325)|
+|&nicovideo(sm28557535)|&nicovideo(sm30353367)|
+|&nicovideo(sm30762694)|&nicovideo(sm31405153)|
+|&nicovideo(sm31839863)|&nicovideo(sm32148370)|
+|&nicovideo(sm32547140)|&nicovideo(sm32619624)|
+|&nicovideo(sm32926151)|&nicovideo(sm33145794)|
+|&nicovideo(sm33158527)|&nicovideo(sm33172495)|
+|&nicovideo(sm33203179)|&nicovideo(sm33346516)|
+|&nicovideo(sm33377227)|&nicovideo(sm33773666)|
+|&nicovideo(sm34040998)|&nicovideo(sm34414122)|
+|&nicovideo(sm34477061)|>|
+
+
+**コメント
+- keiseiさん好きです！もっと伸びて欲しい…  -- 名無しさん  (2012-11-10 23:21:39)
+- これぞ近未来の音楽！凄すぎ、  -- 名無しさん  (2016-03-13 00:53:18)
+- Singularity好きな人はぜひWALK AROUND STEREOのNewバージョン(2020年12月頃投稿)を聴いてみてほしい。めちゃくちゃエモいから。  -- 月亭邦正  (2021-04-19 17:17:36)
+#comment()

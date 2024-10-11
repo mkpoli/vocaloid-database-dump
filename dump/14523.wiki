@@ -1,0 +1,33 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&b(){VOCAFES 01}|CENTER:-|
+
+|[[鬼ヶ島]]|[[かごめP]]|[[yukki＃]]|[[Neru]]|[[レントンP]]|[[EHAMIC]]|[[ichiP]]|[[手タレP]]|
+
+|流通|CENTER:即売|
+|発売|CENTER:2011年2月12日|
+|価格|CENTER:￥500（税込）|
+|サークル|CENTER:VOCAFES事務局|
+
+**CD紹介
+-VOCALOID FESTA（ボカフェス）開催記念の公式コンピレーションCD。
+-イベントに参加したボカロPから5曲＋自由応募による21世紀枠2曲の7曲が収録されている。
+--選考の結果、「ディエス・イレ」と「つれてって」が採用された。
+-VOCALOID FESTA（ボカフェス）で初頒布。
+
+**曲目
++永遠の蕾　/　鬼ヶ島
++Vendetta　/　かごめP
++[[ディエス・イレ]]　/　yukki＃（ゆっくりメタルP）
++嘘と記憶のデフラグ　/　レントンP
++[[つれてって]]　/　ehamiku
++look!　/　一／ichi
++アカボウ　/　手タレP
+
+**リンク
+//-[[VOCALOID FESTA 公式サイト>>http://vocafes.com/]]
+-[[ボーカロイドストアブログ>>http://archive.vocaloidstore.com/]]
+
+**コメント
+#comment()

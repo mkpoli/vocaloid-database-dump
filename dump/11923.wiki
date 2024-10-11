@@ -1,0 +1,37 @@
+#right(){&furigana(しゅけんしっこうP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/18872569" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/18872569">【ニコニコ動画】</a></iframe>)
+
+**特徴
+作り手名：『&u(){酒言実行P}』（&u(){しゅげんじっこうP}）
+-投稿者名は&b(){Tom}。
+--P名の由来は、処女作「[[月明かりの招待]]」の説明文欄において、&br()「&i(){酒の席で突然言い出したことをついに実行してみました。}」&b()と書いたことから。
+-当初はユニット「Team Toys」のメンバーとして活動していたが、ユニットは解散。メンバーとは解散後もコラボを行っている。
+-TeamToysの3作目である「[[遥カ業ニ、過去カ未来ニ。]]」は狂気的なメロディの中毒性とキネティックタイポグラフィを用いたPVで好評を博し、酒言実行Pの代表作となっている。
+-8作目の「[[Marble Bright]]」で遂に自身初の殿堂入りを達成。
+
+**リンク
+-[[PIAPRO>>https://piapro.jp/tom106zany]]
+-[[Twitter>https://twitter.com/tom106zany]]
+
+**曲
+#list_by_tag(酒言実行P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(酒言実行PCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|>|BGCOLOR(#03F):COLOR(#FFF):CENTER:&font(b,11pt){オリジナル曲}|
+|&nicovideo(sm10139475)|&nicovideo(nm10565406)|
+|&nicovideo(sm10917536)|&nicovideo(sm11240351)|
+|&nicovideo(sm12570670)|&nicovideo(sm13123138)|
+|&nicovideo(sm14292409)|&nicovideo(sm16322083)|
+|&nicovideo(sm17341778)|&nicovideo(sm17581633)|
+|&nicovideo(sm18614559)|&nicovideo(sm19314566)|
+
+**コメント
+- 特にハイリスク×ロリータは最高！  -- みくみく  (2013-02-19 17:54:40)
+#comment()

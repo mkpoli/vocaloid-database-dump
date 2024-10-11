@@ -1,0 +1,28 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/14511239" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/14511239">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-2009年9月、[[【初音ミク】恋は戦争【カバー曲】洗脳祭>>http://www.nicovideo.jp/watch/nm8128978]]（『[[恋は戦争]]』野良REMIXコンピ企画：『恋は洗脳』参加作品）でデビューした作り手。
+-初のオリジナル作品は「[[異人と畑とモンブラン]]」。
+-作詞家の[[ユミソラ]]氏と組んで発表することが多い。
+
+**リンク
+-[[SoMaの楽屋裏話（ブログ）>>http://soma.side-story.net/]]
+
+**曲
+#list_by_tag(SoMa,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(SoMaCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+***オリジナル
+|&nicovideo(http://www.nicovideo.jp/watch/nm8246894)|&nicovideo(http://www.nicovideo.jp/watch/sm8649807)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9226701)||
+***アレンジ・カバー
+|&nicovideo(http://www.nicovideo.jp/watch/nm8128978)|&nicovideo(http://www.nicovideo.jp/watch/nm11118882)|
+***その他
+|&nicovideo(http://www.nicovideo.jp/watch/nm9534669)|
+
+**コメント
+#comment()

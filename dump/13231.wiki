@@ -1,0 +1,36 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#image(http://150p.web.fc2.com/_src/sc143/jacket_m.jpg,http://150p.web.fc2.com/,title=Debut!,blank)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&b(){Debut!}|CENTER:[[L⇔Rink]]|
+
+|&b(){[[150P]]}|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|>|CENTER:2010年5月9日|
+|価格|CENTER:\1,000(税込)|CENTER:\1,500(税込)|
+|サークル|>|CENTER:わんはーふ工房|
+
+**CD紹介
+-&b(){150P}の1stアルバム。
+-THE VOC@LOiD M@STER 12（ボーマス12）で初頒布後、とらのあなで委託販売中。
+-新曲4曲を含む全8曲収録。
+
+**曲目
++[[sweet vengeance]]　/　鏡音リン
++[[コイナ・ナイロ]]　/　鏡音リン
++わんはーふさんち　/　鏡音リン・レン　&color(red){New!}
++秘密のtrick time　/　鏡音リン・レン　&color(red){New!}
++青いシナプス　/　鏡音レン　&color(red){New!}
++[[ガジェットの夢]]　/　鏡音リン・レン
++[[次元カンパネラ]]　/　鏡音リン
++私にさようなら　/　鏡音リン　&color(red){New!}
+
+**リンク
+-[[CD特設ページ>>http://150p.web.fc2.com/]]
+-[[150Pのブログ>>http://150p.blog66.fc2.com/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/22/43/040010224354.html]]
+
+**コメント
+- かわいい！  -- 名無しさん  (2013-08-03 15:41:40)
+#comment()

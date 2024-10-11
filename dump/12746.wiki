@@ -1,0 +1,32 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/549_20101006022516_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Fomalhaut]]|CENTER:&bold(){parallel†unbalance}|CENTER:[[Hopeless Track / Innersoul>Hopeless Track／Innersoul]]|
+
+|&bold(){[[IIG]]}|[[ziki_7]]|
+
+発売：2010年10月29日
+価格：￥600 / 1曲￥150
+流通：配信
+レーベル：KarenT
+ジャケットイラスト：赤りんご&マクー
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/id398953578]]}|
+
+**CD紹介
+-コンピレーションアルバム『[[俺の脳内ミクが一番可愛い3]]』（2009年）に収録された『[[parallel†unbalance]]』を&br()ziki_7 氏によるRemix Ver.も加えてシングルカット。
+-全曲リマスターされている。
+
+**曲目
++[[parallel†unbalance]] （feat. 初音ミク）
++parallel†unbalance （heart beat recollection mix.） （feat. 初音ミク）
++parallel†unbalance （off vocaloid）
++parallel†unbalance （heart beat recollection mix. off vocaloid ）
+
+**リンク
+-[[KarenT：「parallel†unbalance」>>http://karent.jp/album/549]]
+-[[作者サイト>>http://studioiig.com/]]
+
+**コメント
+#comment()

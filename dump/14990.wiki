@@ -1,0 +1,59 @@
+#right(){&furigana(あねをみことにつかいこなすいもうとP)&furigana()【登録タグ:&tags() 】}
+|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/18822026" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/18822026">【ニコニコ動画】</a></iframe>)|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/26905171" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/26905171">【ニコニコ動画】</a></iframe>)|
+
+**特徴
+-代表的な鏡音廃絵師・PV師のひとり。
+-デビュー作は「恐ろしくない trick and treat」の手描きPV。代表作は「ナゾを解かない ナゾカケ」「ナゾが解けない ナゾトキ」の手描きPV。
+-描くイラストはポップで可愛く、それぞれに愛が感じられる。
+-過去には [[ひなた春花]]氏 や [[レタスP]] や [[ナナミP]] や [[QTbomber]]氏 などの楽曲PV・イラストを手掛けた。最近は [[融合P]] とのコラボが多い。
+-他の絵師達と「CMPV」「鏡音ショートPV」などの手描きPV企画へは積極的に参加している。
+-姉を見事に使いこなす妹P という名義は最近使われていないが、本人は気に入っているとのこと。
+-&b(){7:24} の名義と使い分けている。
+-ハロウィンが大好きで過去に携わった動画はそれ関係が多い。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/inukaiyou]]
+-[[pixiv>>http://www.pixiv.net/member.php?id=264650]]
+
+**曲
+#list_by_tag(姉を見事に使いこなす妹P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(姉を見事に使いこなす妹PCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|>|BGCOLOR(#ff952b):COLOR(#387255):CENTER:&font(b,11pt){手描きPV}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6647123)|&nicovideo(http://www.nicovideo.jp/watch/sm8406592)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm10565123)|&nicovideo(http://www.nicovideo.jp/watch/sm10797750)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm14388033)|&nicovideo(http://www.nicovideo.jp/watch/sm15026830)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm15156968)|&nicovideo(http://www.nicovideo.jp/watch/sm16539887)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm17700935)|&nicovideo(http://www.nicovideo.jp/watch/sm18540461)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm19689176)|&nicovideo(http://www.nicovideo.jp/watch/sm21211607)|
+|>|BGCOLOR(#387255):COLOR(#ff952b):CENTER:&font(b,11pt){コラボ楽曲・お手伝いした楽曲など}|
+|&nicovideo(http://www.nicovideo.jp/watch/nm8328458)|&nicovideo(http://www.nicovideo.jp/watch/sm12456587)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm16001141)|&nicovideo(http://www.nicovideo.jp/watch/sm16057272)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm16166549)|&nicovideo(http://www.nicovideo.jp/watch/sm16364267)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm16464350)|&nicovideo(http://www.nicovideo.jp/watch/sm16676002)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm17162144)|&nicovideo(http://www.nicovideo.jp/watch/sm17700161)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm19179747)|&nicovideo(http://www.nicovideo.jp/watch/sm19200239)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm19516929)|&nicovideo(http://www.nicovideo.jp/watch/sm19678871)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm20066647)|&nicovideo(http://www.nicovideo.jp/watch/sm20201534)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm20691612)|&nicovideo(http://www.nicovideo.jp/watch/sm20739173)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm20772734)|&nicovideo(http://www.nicovideo.jp/watch/sm21146738)|
+
+**コメント
+- ページ作成乙です＾＾　７：２４さん大好きです（*^_^*）  -- 名無しさん  (2011-03-28 23:49:01)
+- 大好きです！  -- 名無しさん  (2011-03-30 16:00:20)
+- てか今までに記事がなかったことに驚きｗでも大好きです。  -- 名無しさん  (2011-03-30 16:55:55)
+- ｐ名の隣に、「（7：24）」って書いといた方が良いと思うよ？妹ｐだと分からない人多いかもだし。　　  -- 名無しさん  (2011-03-31 08:40:03)
+- 絵柄が凄い好きです＾＾　　あとどうでも良いんだけど代表作は個人的に「ナゾが解けない　ナゾトキ」だと思った件ｗ  -- 名無しさん  (2011-03-31 08:41:42)
+- ↑×2 「姉を見事に使いこなす妹P」でもピンとこない人のために「7:24とも」って書いておきました。  -- 名無しさん  (2011-04-16 20:41:37)
+- 今まで見てきた絵師さんの中で１番好きです！ピアプロもチェックしてます  -- 下ジャージ  (2011-08-16 18:50:47)
+- リンクを作成しました。  -- ちょこ☆  (2011-08-18 01:07:19)
+- ぜひ、p名の由来をしりたいw  -- 名無しさん  (2012-03-05 23:45:22)
+- 今じゃ、7：24だね  -- 名無しさん  (2013-03-24 16:56:16)
+- この人の描く横顔がなんとなくすきｗｗｗ  -- 名無し  (2013-04-29 17:27:59)
+//- 私この人とリア友なんだけどwww  -- 名無しさん  (2013-06-22 20:35:20)
+- 7:24さん大好きです&#9825;＞＜  -- 鏡音依存性  (2013-11-09 08:34:10)
+- 7:24さんの描くイラストすごくかわいいです( ( (o(*ﾟ▽ﾟ*)o) ) ) 尊敬しちゃいます！  -- 名無しさん  (2014-07-27 16:27:37)
+#comment()

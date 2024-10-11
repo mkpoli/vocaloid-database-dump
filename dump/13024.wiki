@@ -1,0 +1,39 @@
+#right(){&furigana(おとのはあつめ)&furigana()【登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186110734.jpg,x=300,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm12627131)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&b(){音ノ葉集メ}|CENTER:-|
+
+|&b(){[[ふゆP]]}|
+
+|流通|CENTER:即売|
+|発売|CENTER:2010年11月14日|
+|価格|CENTER:\1,000(税込)|
+|サークル|CENTER:柚音色堂|
+
+**CD紹介
+-&b(){モルスァッー！！！P}の1stアルバム。
+-THE VOC@LOiD M@STER 14（ボーマス14）で初頒布。
+-新曲5曲を含む全11曲収録。
+
+**曲目
++重ねての片　&color(red){New!}
++[[六花の琴]]
++[[結遠桜抄]]
++[[始帰に託す文]]
++[[呼泣する夜]]
++[[月兎の社]]
++[[廻紐時計]]
++水底園から　&color(red){New!}
++懐想香炉　&color(red){New!}
++[[逢詩音]]　&color(red){New!}
++照らす鬼灯燈　&color(red){New!}
+
+**リンク
+-[[曲置部屋（作者のブログ）>>http://fuyutomolo.blog134.fc2.com/]]
+
+**コメント
+#comment()

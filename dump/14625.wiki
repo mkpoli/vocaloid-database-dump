@@ -1,0 +1,49 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+//#image(http://dte.dotera.net/ps15/ps15.jpg,http://dte.dotera.net/,title=Planetary suicide,blank)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm13229327)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[I'm]]|CENTER:&b(){Planetary suicide}|CENTER:-|
+
+|&b(){[[ゆよゆっぺ]]}|
+
+>&b(){ジャケットイラスト：[[meola]]}
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|>|CENTER:2011年1月16日|
+|価格|CENTER:\1,000(税込)|CENTER:\1,350(税込)|
+|サークル|>|CENTER:Draw the Emotional|
+
+**CD紹介
+-ゆよゆっぺ氏の3rdアルバム。
+-THE VOC@LOID M@STER 15（ボーマス15）で初頒布。
+
+**曲目
++864000sec
++Planetary suicide
++[[Cry>cry/ゆよゆっぺ]]
++[[Thunder Girl]]
++[[Leia]]
++贖罪
++[[悲しいという気持ち]]
++Prayer
++[[I am a super man.]]
++The last 8 bars
++Cry -Acoustic ver.
+
+**リンク
+-[[Draw the Emotional（サークルのサイト）>>http://dte.dotera.net/]]
+-[[ゆよゆっぺの独り言（ゆよゆっぺ氏のブログ）>>http://blog.goo.ne.jp/spmn2ek/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/25/65/040010256501.html]]
+
+**コメント
+- ジャケットこえぇぇぇぇぇ  -- 攻犀  (2011-03-13 23:52:44)
+- ページ作成乙！確かにジャケットこえええええぇえ　でもmeolaさんのイラスト相変わらずふつくしい…　どの曲も好きだ。ゆよっぺさん最高  -- 昆布  (2011-03-19 23:21:44)
+- ゆっぺ本人が歌った歌の最後まで聞くと・・・  -- 萌やし  (2011-03-26 21:50:26)
+- ラーメン…  -- は  (2011-05-24 18:25:41)
+- 再販して・・・orz  -- 名無しさん  (2011-07-04 22:56:32)
+- ｍｇｄ再販頼みます・・・  -- 流歌  (2011-11-07 10:26:22)
+- 再販感謝です。ボーナストラックのあの空白の時間はなんなのかな？  -- ともろび  (2012-02-29 20:12:03)
+- ほｍ欲しい  -- 名無しさん  (2014-07-10 14:33:04)
+#comment()

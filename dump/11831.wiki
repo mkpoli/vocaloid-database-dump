@@ -1,0 +1,32 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/487_20100801165228_0240_0240.jpg)
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Natural]]|CENTER:&bold(){Earth Song}|CENTER:[[夢見人>夢見人/CD]]|
+
+|&bold(){[[だいすけP]]}|
+
+流通：配信
+発売：2010年8月31日
+価格：￥300 / 1曲￥150
+レーベル：KarenT
+ジャケットイラスト：[[ぎんこ>>http://piapro.jp/ginko]]
+
+|&bold(){[[iTunes Storeで購入>>http://itunes.apple.com/jp/album/earth-song/id388924304]]}|
+
+**CD紹介
+-だいすけP初となるネット配信でのリリース作品。
+-KarenTの初音ミク3周年記念企画で配信された作品の1つ。
+-地球をテーマにした表題曲「[[Earth Song]]」と、アルバム『[[Natural]]』に収録されていた「やさしい森」のミクバージョンをカップリングした1枚。
+-動画とPIAPROで発表した「Earth Song」はショートバージョンだが、本作に収録されているのは6分超のフルバージョン。
+
+***曲目
++[[Earth Song]] （feat. 初音ミク）
++[[やさしい森]] （feat. 初音ミク）
+
+**リンク
+-[[だいすけPのつぶやき（作者ブログ）>>http://daisukep.blog47.fc2.com/]]
+-[[KarenT：「Earth Song」>>http://karent.jp/album/487]]
+-[[KarenT：「初音ミク3rd Anniversary」特集ページ>>http://karent.jp/special/miku10]]
+
+**コメント
+#comment()

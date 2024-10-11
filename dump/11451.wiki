@@ -1,0 +1,47 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#image(http://www.sf.airnet.ne.jp/tkst/takepod/img/dbp4_b.jpg,http://takepod.accela.jp/,title=5/4TAKEPOD,blank)
+
+&ref(http://karent.jp/npdca/970_20111227204536_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Dead Ball Project vol.3]]|CENTER:&bold(){Dead Ball Project vol.4}|CENTER:[[Dead Ball Project vol.5]]|
+
+|&bold(){[[デッドボールP]]}|
+
+||CENTER:即売|CENTER:同人|CENTER:配信|
+|発売|CENTER:2010年8月14日|CENTER:未定|CENTER:2012年1月18日|
+|価格|CENTER:￥1,000|CENTER:未定|CENTER:￥1,200 / 1曲￥150|
+|サークル|>|>|CENTER:5/4TAKEPOD|
+
+**CD紹介
+-前作から1年ぶりとなる「Dead Ball Project」第4弾。2010年夏コミにて初頒布。
+-ジャケットはおなじみ、[[空木あんぐ>>http://hellfra.exblog.jp/]]さんが描いたものである。
+-「脱げばいいってモンじゃない！」等に代表される、「vol.3」以降の楽曲（Happy fruit!のアレンジ含む）と&br()3名のゲストによるアレンジ曲を収録。
+-KARENTレーベルよりダウンロード販売が行われている。ボーナストラックが未収録の全9曲となっている。
+
+**曲目
++[[脱げばいいってモンじゃない！]]
++[[千夜一夜千日手]]
++[[壷カルビ]]
++[[chondroitin]]
++[[サクラチレ]]
++[[幸運のツボ]]
++[[たたかえ！ゴーストライター]]
++[[機械仕掛けのサンタクロース]]
++[[100%]]
++[[もーっと！Ｈappy fruit！>Happy fruit!]] 原曲：[[azuma]] 編曲：デッドボールP
++[[私は人間じゃないから。]] -fm-remix- arranged by: みらゐ
++chondroitin -頭の体操　ポリリズムREMIX- arranged by: 馬鹿の極み
++脱げばいいってモンじゃない！ -いてこましver.- arranged by: 柳英一郎
++デッドボールPの恋したいラジオ・第四回
+
+-#10～#14はBonus Track
+
+**リンク
+-[[5/4TAKEPOD Official Website>>http://takepod.accela.jp/]]
+-[[KARENT：「Dead Ball Project vol.4」>>http://karent.jp/album/970]]
+
+**コメント
+- 4年ぶり→1年ぶりの間違いじゃないですか?  -- 名無しさん  (2010-08-26 23:26:05)
+- ↑すみませんｗ修正しました。  -- 名無しさん  (2010-08-26 23:35:45)
+#comment()

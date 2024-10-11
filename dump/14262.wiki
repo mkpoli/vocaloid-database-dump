@@ -1,0 +1,43 @@
+#right(){&furigana(clear)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/10730384" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/10730384">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-心地よいギター演奏に定評のあるVOCAROCK系プロデューサー。
+-デビュー作は2009年2月17日に投稿された「しいたけ」……ではなく、9月14日にリマスタ版を上げている「また明日頑張ればいいや」のオリジナル版（今は視聴できなくなっている）。
+-自分でギター小僧だと名乗るほどギターをこよなく愛しており、エレキギターによる弾いてみた動画もいくつか投稿している。
+-しゃくりが強く、クセのある独特で感情的な調声が特徴。彼がよく使う、ベロシティを一度下げてから一気に上げる調声技術には、小流拳（[[164]]氏命名）という名前が存在する。
+-動画製作においては、[[翠葉]]という絵師とコラボレーションする機会が多い。
+-P名は高校生時代の軽音楽部での呼び名の「らいだー」をそのまま使用したもので、その名の由来は、入部時に彼が175R（イナゴライダー）の曲をギターで弾いてみせたところにある。
+-トークスキルが豊かで、生放送主としても活躍している。中でもゲーム実況には定評があり、登場人物にやたらと面白いあだ名をつけて呼ぶ。その発想のセンスは一般人とは一線を画する。
+-「所詮イケメン」などと言われることもある。イケメンである。
+-まだきっかけに巡り合えず知名度は高くないものの、今後が期待される人物である。
+
+**リンク
+-[[ミクと私と時々ギター>>http://rid-0x8x0x9.seesaa.net/]]
+-[[PIAPRO>>http://piapro.jp/M184524]]
+//-[[Twitter>>http://twitter.com/rider_p]]
+-[[Twitter>>https://twitter.com/rider_caster]]
+-[[サークルHP>>http://ridercaster0809.wixsite.com/tsumugi-syokudo]]
+
+**曲
+#list_by_tag(らいだーP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(らいだーPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/nm6183619)|&nicovideo(http://www.nicovideo.jp/watch/nm7441906)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm8224212)|&nicovideo(http://www.nicovideo.jp/watch/sm8369403)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9010025)|&nicovideo(http://www.nicovideo.jp/watch/sm9689270)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm10191039)|&nicovideo(http://www.nicovideo.jp/watch/sm10507341)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm10526029)|&nicovideo(http://www.nicovideo.jp/watch/sm10667858)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm11090698)|&nicovideo(http://www.nicovideo.jp/watch/sm11903850)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12184266)|&nicovideo(http://www.nicovideo.jp/watch/sm12421004)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12779286)|&nicovideo(http://www.nicovideo.jp/watch/sm13097938)|
+
+**コメント
+- キコの患者に惚れた。毎日聞いてる。  -- モロコシ  (2013-09-27 18:13:50)
+- 魔法のテレキャスター好き！  -- 綾乙  (2013-10-17 17:24:33)
+- ユースティティアうますぎじゃね・・・  -- びっきー  (2014-05-21 19:47:24)
+- 22世紀のハローから入りました、いいですね  -- 名無しさん  (2016-12-21 22:39:51)
+#comment()

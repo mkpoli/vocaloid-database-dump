@@ -1,0 +1,65 @@
+#right(){&furigana(YonoP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/18035103" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/18035103">【ニコニコ動画】</a></iframe>)
+
+**特徴
+作り手名：『&u(){YonoP}』
+-2009年5月18日に「[[空想の街]]」でボカロデビュー。
+-デビュー当初は [[やっP]] と2人でサークル「双仮想化」を主宰していたが、現在は解散して1人で活動中。
+-使用ボカロはミク一筋だったが、最近になってゆかりを導入。
+-作曲ジャンルは主にギターロックが中心。
+-代表作は「[[蛍火>蛍火/YonoP]]」。
+-次の曲が殿堂入りを達成している。&br()&list_by_tagsearch(YonoP,殿堂入り,sort=furigana,option=nolist,nolistspace=、,100)
+
+**リンク
+-&s(){[[作者サイト>>http://www.yonori.com/]]}（削除済）
+-[[PIAPRO>>http://piapro.jp/otokoto2]]
+-[[YouTube>>https://www.youtube.com/channel/UCdl_poWIWics-bwaprA_c7w]]
+-[[Twitter>>http://twitter.com/yono_P]]
+-[[作者ブログ（液体窒素と兎の歌）>>https://www.mirin2.com/]]
+-[[旧作者ブログ（双仮想化のそうなのか）>>http://sokasoka431.blog29.fc2.com/]]
+-&s(){[[旧作者ホームページ（yonoweb）>>http://yonop.jimdo.com/]]}（削除済）
+
+**曲
+#list_by_tagsearch(YonoP,sort=furigana2,errmsg=まだ曲が登録されていません。,and,100)
+
+**CD
+#list_by_tagsearch(YonoPCD,sort=furigana2,errmsg=まだCDが登録されていません。,and,100)
+
+**動画
+|&nicovideo(sm7084407)|&nicovideo(sm9992063)|
+|&nicovideo(sm10622636)|&nicovideo(sm12671192)|
+|&nicovideo(sm12720487)|&nicovideo(sm12951103)|
+|&nicovideo(sm13118443)|&nicovideo(sm13140473)|
+|&nicovideo(sm13276121)|&nicovideo(sm13461616)|
+|&nicovideo(sm13706474)|&nicovideo(sm13919863)|
+|&nicovideo(sm14574435)|&nicovideo(sm14985845)|
+|&nicovideo(sm15862583)|&nicovideo(sm16329589)|
+|&nicovideo(sm17298554)|&nicovideo(sm18040622)|
+|&nicovideo(sm18331161)|&nicovideo(sm19550431)|
+|&nicovideo(sm20441465)|&nicovideo(sm20680397)|
+|&nicovideo(sm21160883)|&nicovideo(sm21745943)|
+|&nicovideo(sm22533655)|&nicovideo(http://www.nicovideo.jp/watch/1394617843)|
+|&nicovideo(sm23158137)|&nicovideo(sm23707170)|
+|&nicovideo(sm24837003)|&nicovideo(sm26046472)|
+|&nicovideo(sm26500472)|&nicovideo(sm26592433)|
+|&nicovideo(sm26666705)|&nicovideo(sm27870564)|
+|&nicovideo(sm29285144)|&nicovideo(sm29397706)|
+|&nicovideo(sm29484131)|&nicovideo(sm29551556)|
+|&nicovideo(sm29856820)|&nicovideo(sm33536147)|
+|&nicovideo(sm34253637)|&nicovideo(sm34458175)|
+
+**関連タグ内の更新履歴
+#region(close,関連タグ内の更新履歴)
+関連タグ内の更新履歴
+※「YonoP」「YonoPCD」タグ内で最近編集やコメントのあった記事を新しい方から10件表示しています。
+#list_by_tagsearch(YonoP,YonoPCD,sort=timestamp,sort2=desc,errmsg=まだ曲、CDが登録されていません。,or,10)
+#endregion
+
+**コメント
+- yonoさん好きー  -- たかみ@ザク連中  (2013-11-28 21:55:31)
+- yonoさんの曲好きです！  -- 　　　  (2016-10-29 22:25:31)
+#comment()

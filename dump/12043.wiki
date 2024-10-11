@@ -1,0 +1,23 @@
+#right(){&furigana(はつとうこうP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(ここにマイリストブログパーツのiframe用をコピペ)
+
+**特徴
+-アーティスト名は&b(){芭堂琴}（ばどーきん）。
+-P名の由来は、デビュー作の「lost in my own world」のコメントにて&br()「初音ミクを使った動画は初登校です。」と誤植してしまったことに由来する。
+-コムコム氏、黒氏とサークル「RaNCs（Radical Net Communications）」に所属している。
+
+**リンク
+-[[サークル「RaNCs」サイト>>http://www.com-comcom.com/]]
+-[[ピアプロ>>http://piapro.jp/badohkin]]
+
+**曲
+#list_by_tag(初登校P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+//**CD
+//#list_by_tag(初登校PCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm11061304)|&nicovideo(http://www.nicovideo.jp/watch/sm11602390)|
+
+**コメント
+#comment()
