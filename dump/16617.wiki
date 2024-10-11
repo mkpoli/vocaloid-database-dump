@@ -1,0 +1,41 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+
+&nicovideo(http://www.nicovideo.jp/watch/sm13117711)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Your Pianist}|CENTER:[[Unfinished Eden]]|
+
+|&bold(){[[無力P]]}|[[ゐつ]]|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|>|CENTER:2011年1月16日|
+|価格|CENTER:￥1,000（税込）|CENTER:￥1,418円（税込）|
+|サークル|>|CENTER:DAM Loud College|
+
+**CD紹介
+-無力P の記念すべき 1st Album 。
+-殿堂入りを果たした「[[Flightless Bird]]」や「[[Brella]]」など、全12曲を収録。
+-イラスト・デザイン を AO氏 が手掛ける。
+-THE VOC@LOiD M@STER 15（ボーマス15）にてリリース。
+
+**曲目
++Overture　&color(red){NEW!}
++[[6th.]]
++[[Flightless Bird]]
++Latter Letter　&color(red){NEW!}
++[[Brella]]
++[[a balance]]
++[[Crescent Mark]]
++[[Aspirin]]&color(red){NEW!}
++Desire for the Sky　&color(red){NEW!}
++[[///unknown///>／／／unknown／／／]]
++Phosphorescence　&color(red){NEW!}
++AurOra　&color(red){NEW!}
+
+**リンク
+-[[公式HP>>http://yourpianist.xxxxxxxx.jp/]]
+-[[Twitter>>http://twitter.com/muryokup]]
+
+**コメント
+- 作成乙です。  -- 茶伊  (2011-12-18 03:07:46)
+#comment

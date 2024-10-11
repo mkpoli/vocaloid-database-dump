@@ -1,0 +1,22 @@
+#right(){&furigana(りくのら)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+
+**特徴
+作り手名：『&u(){りくのら}』
+-VOCALOIDのパワーを楽しく学ぶことに使えないかという、少し変わったことを考えている。
+-曲作りは全くの素人レベルで、修行中のようだ。
+
+**リンク
+-[[ピアプロ>>https://piapro.jp/rikunora]]
+
+**曲
+#list_by_tag(りくのら,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(りくのらCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**コメント
+#comment()

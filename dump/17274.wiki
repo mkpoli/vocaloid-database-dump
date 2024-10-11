@@ -1,0 +1,36 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm14684465)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[春の一歩]]|CENTER:&bold(){MOONS～真月のウタ}|CENTER:[[LIFE AS MUSIC]]|
+
+|&bold(){[[ブンガP]]}|
+
+||CENTER:即売|CENTER:同人|
+|発売|CENTER:2011年6月12日||
+|価格|CENTER:|CENTER:￥1,575（税込）|
+|サークル|>|CENTER:VOCALOTUS|
+
+**CD紹介
+-ブンガP6作目となるボーカロイドCD。
+-物語風の歌詞をエスニックな味付けのエレクトロニカのせた、ちょっと御伽噺のような世界観。&br()悲しい歌もありますが、根っこにあるのは暖かい、明るい世界観です。暗闇に隠された希望がテーマです。
+-THE VOC@LOiD M@STER 16（ボーマス16）で頒布。
+-とらのあなで委託販売が行われている他、自家直販型通販サイト「AYAHABIRA　MUSIC SHOP」でも販売がおこなわれている。
+
+**曲目
++[[月光燈]]
++あの日、影は泣いていた
++[[RADIOACTIVE]]
++休み時間
++魔法の辞典
++[[竜の卵]]
++[[ラプンツェルに迎えは来ない]]
++真月のウタ
+
+**リンク
+-[[作者ブログ>>http://ameblo.jp/vocalotus/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0020/01/50/040020015052.html]]
+-[[AYAHABIRA MUSIC SHOP>>http://unalapis.com/]]
+
+**コメント
+#comment()

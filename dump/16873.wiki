@@ -1,0 +1,33 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/741_20110531230307_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[PLANET DANCE]]|CENTER:[[ハイスクールDAYS]]&br()&bold(){DRIVE TO THE MOON E.P.}|CENTER:[[NEVERLAND -君はピーターパン->NEVERLAND ～君はピーターパン～]]&br()[[CHIP TEARS E.P.]]|
+
+|&bold(){[[U-ji]]}|[[U-SUKE]]|
+
+発売：2011年6月24日
+価格：￥300 / 1曲￥150
+流通：配信
+レーベル：KarenT
+ジャケットイラスト：[[オカヒジキ>>http://piapro.jp/toridaisuki]]、つみれ
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/drive-to-the-moon-e-p-single/id444668111]]}|
+
+**CD紹介
+-霊長類PことU-ji氏の配信シングル。
+-『[[ハイスクールDAYS]]』と同時リリース。
+-KarenTレーベルの、メグッポイド発売2周年記念企画で配信された作品の1つ。
+
+**曲目
++[[DRIVE TO THE MOON]] （feat. メグッポイド&初音ミク&巡音ルカ）
++DRIVE TO THE MOON （ENGLISH Version） （feat. メグッポイド）
++DRIVE TO THE MOON （KARAOKE）
+
+**リンク
+-[[作者ブログ>>http://ameblo.jp/housenrg/]]
+-[[KarenT：「DRIVE TO THE MOON E.P.」>>http://karent.jp/album/741]]
+-[[メグッポイド2周年記念祭>>http://karent.jp/special/megpoid11]]
+
+**コメント
+#comment()

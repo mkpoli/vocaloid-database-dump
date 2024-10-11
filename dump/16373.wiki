@@ -1,0 +1,41 @@
+#right(){&furigana(ごせんふのーと) &furigana()【登録タグ:&tags() 】}
+
+&ref(http://blog-imgs-46.fc2.com/p/i/c/picoao/bmp_small.jpg,x=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm14613822)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){五線譜ノート}|CENTER:[[交換日記]]|
+
+|&bold(){[[らいふP]]}|
+
+||CENTER:即売|
+|発売|CENTER:2011年6月12日|
+|価格|CENTER:￥1,000|
+|サークル|CENTER:ぴこあお文化会|
+
+**CD紹介
+>ほんの少しでも、君が元気になりますように。
+-曲･･･[[らいふP]]　作詞･･･桜氏　イラスト･･･まあこ氏　からなる同人音楽サークル ぴこあお文化会 の 1st Album 。
+-ヒット作「[[ゆらら放送局！]]」などの既存曲+新曲1曲の全11曲を収録。
+-全曲ミックス修正、一部のアレンジを変更している。
+-THE VOC@LOiD M@STER 16（ボーマス16）にてリリース。
+
+**曲目
++[[さよなら私]]
++[[夏祭り、君の色。]]
++[[ゆらら放送局！]]
++[[きみをさがして]]
++[[あめふり週間]]
++[[今日から君へ、私から明日も]]
++[[網繋ぎの二人]]
++[[レトロシティ]]
++[[春になるまで君の隣で]]
++[[ほとりぼし]]　&color(red){NEW!}
++夏祭り、君の色。-Colorful happiness remix-
+
+**リンク
+-[[ぴこあお文化会（サークルホームページ）>>http://picoao.blog79.fc2.com/]]
+
+**コメント
+#comment

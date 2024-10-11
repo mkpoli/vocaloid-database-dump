@@ -1,0 +1,26 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+
+**特徴
+- NHKエレうた！ver.0.1で放送されたMEIKO曲「北方の平原にて」の作曲者。
+- スーパーファミコン、NintendoDSなどの家庭用ゲーム機の内蔵音源（実機）を使った音楽作品を多数公開している。「Ievan Polkka」のスーパーファミコン版（インスト）や、スーパーファミコン内蔵音源のみを使用したエレうた（SFC式VOCALOID）作品[[「鍵の眠る森 スーパーファミコン音源 桃音モモバージョン」>>http://piapro.jp/t/pZNw]]もある。
+- Y.sato/178-G氏とは別人。
+
+**リンク
+- [[Niigata Repuru Channel（YouTube）>>http://www.youtube.com/user/repuru]]
+
+**曲
+#list_by_tag(Y.Sato,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(Y.SatoCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm8490052)|&nicovideo(http://www.nicovideo.jp/watch/sm13773409)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm23257284)|&nicovideo(http://www.nicovideo.jp/watch/sm23431784)|
+
+**関連動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm3314890)|&nicovideo(http://www.nicovideo.jp/watch/sm3829377)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm13085988)|&nicovideo(http://www.nicovideo.jp/watch/sm19124156)|
+
+**コメント
+#comment()

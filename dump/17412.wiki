@@ -1,0 +1,25 @@
+#right(){&furigana(ぶるぼんぬゆきむら)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/12020766" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/12020766">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-「[[メイドドドドドドドド]]」でデビュー。
+-「[[なんか動画作りたかっただけ]]」から自作のシュールな絵も動画に使うようになった。
+
+**リンク
+-[[ピアプロ>>http://piapro.jp/yukibonne]]
+
+**曲
+#list_by_tag(ブルボンヌ雪村,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(ブルボンヌ雪村CD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm7961595)|&nicovideo(http://www.nicovideo.jp/watch/sm6731766)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7067539)|&nicovideo(http://www.nicovideo.jp/watch/sm9493123)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7692396)|&nicovideo(http://www.nicovideo.jp/watch/sm8089853)|
+
+**コメント
+- 俺のじいちゃん元忍者タグ付けたの誰ですかwww  -- 名無しさん  (2011-07-28 18:06:52)
+- もっと伸びてもいいと思うんだけど・・。  -- 名無しさん  (2012-02-05 00:11:38)
+#comment()

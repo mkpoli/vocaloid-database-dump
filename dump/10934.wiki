@@ -1,0 +1,33 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[徒花]]|CENTER:&bold(){Princess Note}|CENTER:[[月御伽]]|
+
+|&bold(){[[かぐらP]]}|
+
+||CENTER:即売|CENTER:同人|
+|発売|CENTER:2010年7月19日|CENTER:2010年8月|
+|価格|CENTER:￥500|CENTER:￥735（税込）|
+|サークル|>|CENTER:DeZI:R|
+
+**CD紹介
+>異国の君に恋をして、結ばれることのない恋物語・・・。
+>砂に書いた絵のように、波に流されて消えてゆく。
+
+-姫・悲哀をテーマにしたかぐらPの6曲入りシングルCD。
+-THE VOC@LOiD M@STER 13（ボーマス13）で頒布された。
+-とらのあなにて委託販売されている。
+
+**曲目
++A VERSE -TRUE SONG-
++[[au revoir]]
++歌声の消えた海 -Den Lille Havfrue-
++[[La Neige]] -Piano Mix-
++au revoir -Instrumental-
++歌声の消えた海 -Instrumental-
+
+**リンク
+-[[作者サイト>>http://www.dezi-r.net]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/23/07/040010230726.html]]
+
+**コメント
+#comment

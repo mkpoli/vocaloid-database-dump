@@ -1,0 +1,52 @@
+#right(){&furigana(ぎぜんしゃP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/20900086" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/20900086">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-ロックを基調とした楽曲で活動している。
+-P名の由来は、所持しているTシャツのデザインから。
+-アーティスト名は &bold(){Maki}
+-「[[正義粉砕]]」で、自身初の殿堂入りを達成。
+
+**リンク
+-[[ブログ>>http://hypocritemaki.blog71.fc2.com/]]
+-[[Twitter>>https://twitter.com/Maki______Maki]]
+
+**曲
+#list_by_tag(偽善者P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(偽善者PCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm15635914)|&nicovideo(http://www.nicovideo.jp/watch/sm15700541)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm16210194)|&nicovideo(http://www.nicovideo.jp/watch/sm17209556)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm18139290)|&nicovideo(http://www.nicovideo.jp/watch/sm18347538)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm18897906)|&nicovideo(http://www.nicovideo.jp/watch/sm19102002)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm19828061)|&nicovideo(http://www.nicovideo.jp/watch/sm20529846)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm20811262)|&nicovideo(http://www.nicovideo.jp/watch/sm21160962)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm21660895)|&nicovideo(http://www.nicovideo.jp/watch/sm21920156)|
+
+**コメント
+- 正義粉砕はいい曲だと思う！！  -- メガネ  (2011-11-30 08:43:09)
+- もっと人気になるべき  -- りた  (2012-02-11 11:41:54)
+- 最近、正義粉砕できたんだ(○△○)  -- 名無しさん  (2012-02-17 22:06:05)
+- P2神すぐる  -- 名無しさん  (2012-06-24 22:31:16)
+- 正しく実力を認められるべき。  -- 流  (2012-08-04 10:51:32)
+- P2・偽善正義・正義粉砕が大好きです!!!マジ神!!  -- 日向  (2012-11-13 00:05:55)
+- 偽善者P好き（）  -- 直井君  (2013-01-04 04:12:52)
+- ＡＩ待ってる！  -- 名無しさん  (2013-01-19 15:54:36)
+- 偽善者p様の曲大大大好きです！！正義粉砕初めて聞いたときから惚れました～(´∀`*)  -- 名無しさん  (2013-02-06 17:44:15)
+- ｐ２最近知ったけど、鳥肌たった  -- 名無しさん  (2013-03-02 20:47:47)
+- AIはよ！  -- 名無しさん  (2013-03-02 21:54:43)
+- ＡＩまだー？  -- 名無しさん  (2013-03-24 00:25:29)
+- 偽善正義から好きです  -- 名無しさん  (2013-04-12 09:56:56)
+- Twitterが消えてる（´；ω；`）  -- 名無しさん  (2013-05-25 11:11:42)
+//- くぷらsにカバーしてもらいたいです！！  -- nano  (2014-02-27 08:21:23)
+- はかないで知ったけどすごいね！！！！！  -- 名無しさん  (2014-06-03 21:37:16)
+- ビリーヴは追加できない？？？？？  -- 名無しさん  (2014-08-18 11:58:55)
+- ビリーヴはよ  -- 名無しさん  (2014-08-23 20:21:28)
+- ↑ならお前がやれっつーの！  -- 名無しさん  (2014-11-07 20:03:47)
+- ↑3、2　「ビリーヴ」作成しました。  -- 御坂  (2014-11-27 14:21:03)
+- 偽善正義…聴いてみよっかな  -- 正義粉砕マジ好き  (2016-08-10 13:45:42)
+- 偽善者ｐさん大好きです！神？それ以上の存在だ～！  -- 華恋  (2017-04-21 22:15:03)
+#comment()

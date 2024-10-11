@@ -1,0 +1,101 @@
+#right(){&furigana(いっへいそつのひとりこと)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm12214558)|
+作詞：[[（бεб）P]]
+作曲：[[（бεб）P]]
+編曲：[[（бεб）P]]
+絵：himi
+唄：[[鏡音レン>鏡音リン・レン]]・[[SONIKA]]
+
+**曲紹介
+>今回は思うところあって、反戦のメッセージソングを作ってみました。
+>戦争の悲惨さを目の当たりにして感じた思いをぶつけました。
+>&bold(){世界平和を願って！！}
+曲名：『&u(){一兵卒の独り言}』(&u(){いっぺいそつのひとりごと})
+
+**歌詞
+My name is Soldier-A
+I holding black trigger
+I can destroy anything so easily
+So easily
+
+目の前は果てなく広がる荒野
+遥か彼方に見える奴らが
+「我々の狙う敵」らしい
+「我々を脅かす」らしい
+
+鉄風雷火降り注ぐ弾丸
+撃たれ倒れる友を背に
+黒き引き金を手に
+嗚呼、ひたすら前進あるのみ
+
+僕の名前は「兵士A」
+与えられた任務こなすだけ
+国のため、誰かのため
+右も左も大義を掲げ
+
+血と涙にまみれて
+一体どれだけ歩いただろう
+僕の引いた引き金は
+一体どれだけ殺しただろう
+
+My name is Soldier-A
+I holding black trigger
+I can destroy anything so easily
+So easily
+
+「神の名の下に」血を流し
+「祖国のために」人殺し
+「否、敵は人とは思うな」
+流れる血の色は同じなのに
+
+生きるか死ぬかの瀬戸際
+やらなきゃやられる地獄のような日々
+「神のご加護を」と別れた
+君の笑顔も記憶の片隅
+
+My name is Soldier-A
+I holding black trigger
+I can destroy anything so easily
+So easily
+
+もう何もわからない
+ただ敵を倒し続ける日々
+もう何もわからない
+戦うために戦う日々
+もう何もわからない
+果てしなく続く地獄の日々
+もう何もわからない
+何がわからないかわからない
+
+My name is Soldier-A
+I holding black trigger
+I can destroy anything so easily
+So easily
+
+Oh,My name is Soldier-A
+I holding black trigger
+I can destroy anything so easily
+So easily
+
+僕達が手にしたものに
+どれだけの意味があるのだろう
+
+僕達が無くしたものに
+どれだけの価値があっただろう
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+**コメント
+- 伸びてほしいというか、もっと知られてほしい名曲。  -- 名無しさん  (2011-05-30 21:50:57)
+- ↑のコメントに同意だわ。  -- 中里  (2012-03-08 21:38:52)
+#comment()
+
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)

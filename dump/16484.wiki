@@ -1,0 +1,46 @@
+#right(){&furigana(Eve)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/20905046" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/20905046">【ニコニコ動画】</a></iframe>)
+
+**特徴
+作り手名：『&u(){Eve}』
+-使用するVOCALOIDは初音ミク。曲調はロック。
+-処女作はポップ系の「[[メモリ。]]」、二作目はよりロック色の強い「[[Loud s"PEAK"er]]」と、作風は幅広そうである。
+-10作目の「[[月華❁乱れ牡丹]]」は自身初の殿堂入りを達成した。
+
+**リンク
+//-[[作者サイト>>http://infio.info/]]
+-[[作者ブログ>>https://ameblo.jp/lycaon5/]]
+-[[piapro>>https://piapro.jp/eve_even_evening]]
+-[[twitter>>https://twitter.com/Eve_ning_Infio]]
+-[[YouTube>>https://www.youtube.com/channel/UCT9EMxcvR-ax0wy0Fx3fJMw]]
+
+**曲
+#list_by_tag(Eve/2010～,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(Eve/2010～CD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm11982987)|&nicovideo(sm12485859)|
+|&nicovideo(sm16420331)|&nicovideo(sm16619774)|
+|&nicovideo(sm18159630)|&nicovideo(sm19740104)|
+|&nicovideo(sm20111747)|&nicovideo(sm20691611)|
+|&nicovideo(sm21442471)|&nicovideo(sm27924827)|
+|&nicovideo(sm27966096)|&nicovideo(sm29550154)|
+|&nicovideo(sm30535110)|&nicovideo(sm31837265)|
+|&nicovideo(sm36986838)|>|
+
+**コメント
+- だっ誰もコメントしてない…!!Loud s''PERK''er大好きw  -- 名無しさん  (2012-05-23 19:27:12)
+- メモリ。が超好き  -- リーフィ  (2014-02-04 12:13:55)
+- ページ名を変更しました。  -- 名無しさん  (2014-02-04 20:27:07)
+- CD時々リピートして聞いてる。良い  -- 名無しさん  (2014-03-14 02:48:25)
+- 月華～と侍ガール大好きです。めちゃくちゃ格好いい。  -- 名無しさん  (2017-01-10 10:22:58)
+- sisterはこの人じゃないよね？  -- 名無しさん  (2017-01-29 21:08:05)
+- sisterとナンセンス文学はまた別のEveさんです、、、  -- 名無しさん  (2017-05-23 07:29:55)
+- sisterとナンセンス文学は歌い手のEveさんが作った歌ですよ  -- 名無しさん  (2017-06-07 21:26:36)
+#comment()

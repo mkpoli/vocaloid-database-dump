@@ -1,0 +1,30 @@
+#right(){&furigana(めつきわるいP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/9114095" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/9114095">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-ミク・KAITOを使用したトークロイド作品（主にぼかぼか♪れでぃお）を投稿している。
+-京都よりの関西弁で話す。目つき悪いＰは勿論、ミクやKAITO、二人の会話の中に出てくる他のボカロ達も関西弁で話す。しかし、開発コードmikiのみ標準語で話している。
+-一行AAで「＜｜＞＜｜＞」と表せる、朝一番の機嫌悪い猫みたいな目が最大の特徴。
+-そしてそれは現在のP名の由来にもなっている。
+-ちなみに目つき悪いP本人はあまり目つきは悪くない。
+-しかし、視力がかなり悪いらしく眼鏡を好んで着用している。
+-[[おとなラP]]、[[梅干P]]と組んだサークル「トークロイド盛り上げ隊　特盛！」もやっている。
+-2011年8月13日の夏コミで初の同人誌「目つき悪いボカロの♪薄っぺらいのに高い本」を出している。
+
+**リンク
+-[[作者ブログ>>http://vocavocaradio.blog73.fc2.com/]]
+-[[トークロイド盛り上げ隊　特盛！>>http://sasakure.chips.jp/tokumori_index.html]]
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm5107799)|&nicovideo(http://www.nicovideo.jp/watch/sm13118296)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7157359)|&nicovideo(http://www.nicovideo.jp/watch/sm6182268)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6684093)|&nicovideo(http://www.nicovideo.jp/watch/sm5558260)|
+
+**コメント
+- 作成乙  -- 名無しさん  (2011-06-24 13:09:30)
+- ついにキター！ぼかぼか♪れでぃお大好きです！  -- 名無しさん  (2011-06-24 15:50:54)
+- この目つき好きだなｗ  -- 名無しさん  (2011-06-24 17:35:27)
+- 作成乙です！　目つき悪いＰ大好きだから嬉しい（´∀｀*）  -- Ｍｏｎｏ  (2011-09-21 09:39:59)
+- グッズ化希望www  -- 名無しさん  (2011-12-21 15:11:16)
+- 落語スキーｗｗ  -- 名無しさん  (2013-07-23 13:56:39)
+#comment()

@@ -1,0 +1,31 @@
+#right(){&furigana(いんかーねいしょん) &furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/041_20091225194159_0240_0240.jpg)
+|&bold(){[[iTunesStoreで購入する>>http://itunes.apple.com/jp/album/incarnation-feat-miku-hatsune/id323802681]]}|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){インカーネイション (feat. 初音ミク)}|CENTER:[[on-sawmen]]|
+
+|&bold(){[[鼻そうめんP]]}|
+
+発売：2009年7月22日
+価格：アルバム￥400、1曲￥150
+流通：配信
+レーベル：KarenT
+
+**CD紹介
+-鼻そうめんP初のシングルは、KarenTレーベルから配信中。
+-リマスタリングされた「[[インカーネイション]]」と新リミックス、およびそれぞれのカラオケ音源の計4曲を収録。
+
+**曲目
++[[インカーネイション]] (Original Mix)
++インカーネイション (Dub Mix)
++インカーネイション (Hiroyuki ODA Remix)
++インカーネイション (Hiroyuki ODA Dub)
+
+**リンク
+-[[作者ブログ>>http://nekomimi.tabgraphics.under.jp/?eid=1042021]]
+-[[KarenT>>http://karent.jp/album/41]]
+
+
+**コメント
+#comment

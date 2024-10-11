@@ -1,0 +1,39 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm11358103)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){s10rwberry Sunday}|CENTER:-|
+
+|&bold(){[[そらいろくらぶ]]}|&bold(){[[10日P]]}|&bold(){[[びにゅP]]}|&bold(){[[whoo]]}|
+
+||CENTER:即売|CENTER:同人|
+|CENTER:発売|CENTER:2010年7月19日|CENTER:2010年8月|
+|CENTER:価格|CENTER:￥1,000|CENTER:￥1,470（税込）|
+|CENTER:サークル|>|CENTER:s10rw(ストロウ)|
+
+**CD紹介
+-[[そらいろくらぶ]]（yuxukiら）・[[10日P]]（monaca:factory）・[[びにゅP]]（ryuryu）・[[whoo]]の合同サークル「s10rw(ストロウ)」によるコンピレーションアルバム。
+-それぞれ2曲ずつ持ち寄った計8曲のうち書き下ろしは6曲。
+-イラストがふんだんに盛り込まれた12Pのブックレット付き。
+
+**曲目
++[[Counterclockwise]]　（ryuryu）&color(red){NEW!}
++[[color>color/そらいろくらぶ]]　（そらいろくらぶ）&color(red){NEW!}
++[[火星のタルト]]　（10日P）&color(red){NEW!}
++[[Dear Prudence]]　（whoo）
++Lost　（ryuryu）&color(red){NEW!}
++soda　（そらいろくらぶ）&color(red){NEW!}
++[[原色のリフレイン]](Append version)　（10日P）
++[[Parades]]　（whoo）&color(red){NEW!}
+
+**リンク
+-[[Sorairo Log.（そらいろくらぶブログ）>>http://sorairoclub.seesaa.net/]]
+-[[monaca:factoryの音楽（10日Pブログ）>>http://monaca10.blog116.fc2.com/]]
+-[[Past Days Sparkle（びにゅPブログ）>>http://pastdayssparkle.blog99.fc2.com/]]
+-[[whoo's next（whooブログ）>>http://ameblo.jp/whoosrockq/]]
+-[[D-STAGE>>http://d-stage.com/shop/detail.php?seq=15855]]
+
+//-[[とらのあな>>]]
+
+**コメント
+#comment()

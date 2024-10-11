@@ -1,0 +1,72 @@
+#right(){&furigana(BLUEVISION)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm16137955)|
+作詞：[[あルカP]]
+作曲：[[あルカP]]
+編曲：[[あルカP]]
+唄：[[GUMI>Megpoid]]
+
+**曲紹介
+>同じ青でも、きっと一人ひとり見え方が違うのだろう…。
+曲名：『&u(){BLUE VISION}』
+-[[BLUE DOOR]]シリーズ3作目。
+-KarenTレーベルよりダウンロード販売が行われている。[[メグッポイド発売2周年記念企画>>https://karent.jp/special/megpoid11]]で配信された作品の1つ。
+-3rdアルバム『[[若葉色D-i-s-k]]』にも収録されている。
+
+**KarenT配信
+&ref(https://karent.jp/npdca/731_20110529224810_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[桜色D-i-s-k]]|CENTER:&bold(){BLUE VISION}|CENTER:[[Count Down]]|
+
+流通：配信
+発売：2011年6月24日
+価格：￥150
+レーベル：[[KarenT>>https://karent.jp/album/731]]
+ジャケットイラスト：[[あルカP（M@SATOSHI）>あルカP]]
+
+|&bold(){[[iTunes Storeで購入する>>https://itunes.apple.com/jp/album/blue-vision-single/id444691747]]}|
+
+***曲目
++BLUE VISION （feat. メグッポイド）
+
+**歌詞
+まだ幼い　一人の少年
+小さな手で拾った　クレヨン
+
+あなたの知ってる　空の色は
+どんな世界なの　見てみたいな
+心に広がる　あなたの青
+この世でただひとつ　かけがえのない
+
+Precious Color The Blue
+
+私しかこの光を知らない
+あなただけその光を知ってる
+
+あなたの知ってる　海の色で
+私を描いて　ありのままに
+心に広がる　あなたの青
+この世でただひとつ　かけがえのない
+
+Precious Color The Blue
+
+その少年は描き続ける
+空を自由に飛ぶイルカ
+
+あなたの知ってる　愛の色を
+私に教えて　目覚めの時
+心に広がる　あなたの青
+この世でただひとつ　かけがえのない
+
+Precious Color The Blue
+
+Precious Color The Blue
+
+
+**コメント
+- ニコ動で配信あるかなぁ。ｗｋｔｋ！  -- 名無しさん  (2011-06-26 09:49:08)
+#comment()

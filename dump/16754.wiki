@@ -1,0 +1,26 @@
+#right(){【登録タグ:&tags()】}
+//↑タグ忘れ防止のための表示
+曖昧さ回避のためのページ
+----
+-[[twinkle>twinkle/作り手]]の曲
+--[[rebirth/twinkle]]
+-[[みうみう]]の曲
+--[[Rebirth/みうみう]]
+-[[164]]の曲
+--[[Rebirth/164]]
+-[[Vanguard Sound]]の曲
+--[[Rebirth/Vanguard Sound]]
+-[[Akio Nanase]]の曲
+--[[Rebirth/Akio Nanase]]
+-[[rakurui]]の曲
+--[[Rebirth/rakurui]]
+-[[けーだっしゅ]]の曲
+--[[rebirth/けーだっしゅ]]
+
+-[[頑なP]]のCD
+--[[Rebirth/CD]]
+
+-類似タイトル
+--[[Re:Birth]]
+
+#include(曖昧さ回避の追加の仕方/告知)

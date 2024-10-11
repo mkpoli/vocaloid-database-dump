@@ -1,0 +1,27 @@
+#right(){&furigana(ねんそP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/3379964" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/3379964">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-アーティスト名は&b(){村井臣子}。
+--P名の由来は二作目「[[幻影フロギストン]]」の"フロギストン"の日本語訳が"燃素"であることから。
+-処女作「五角形の歌」の投稿日が2007年11月と、初期からの作者である。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/muraiomiko]]
+-[[作者ブログ>>http://phlogiston.mamagoto.com/]]
+-[[Twitter>>http://twitter.com/muraiomiko]]
+
+**曲
+#list_by_tag(燃素P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+//**CD
+//#list_by_tag(燃素PCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm1444050)|&nicovideo(http://www.nicovideo.jp/watch/sm1453764)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm1489545)|&nicovideo(http://www.nicovideo.jp/watch/sm1547496)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm1612729)|&nicovideo(http://www.nicovideo.jp/watch/sm4750340)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm10017363)|&nicovideo(http://www.nicovideo.jp/watch/sm13008285)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm14180714)|&nicovideo(http://www.nicovideo.jp/watch/sm14186749)|
+
+**コメント
+#comment()

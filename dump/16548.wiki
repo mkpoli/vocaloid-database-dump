@@ -1,0 +1,44 @@
+#right(){&furigana(osu)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/20505067" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/20505067">【ニコニコ動画】すのもの（ボカロオリジナル）</a></iframe>)
+
+**特徴
+作り手名：『&u(){osu}』
+-アコースティックギターの音と、何かを感じさせる切ない歌詞が特徴的な作り手。
+-処女作の「[[fourteen]]」には期待の新人タグが付いた。
+--その他の曲にも隠れたボカロ名曲タグや深刻なコメ不足タグが付くなど、もっと評価されるべきボカロPである。
+-2ndミニアルバム『[[ハローグッバイをくりかえして]]』のクロスフェード動画は、聞かせた者を魅了する新しい発想に全視聴者が驚ｋ…笑わされた。
+
+**リンク
+//-[[無知がDTMやってみた。（作者ブログ）>>http://osu413.blog62.fc2.com/]]
+-[[PIAPRO>>https://piapro.jp/osu0413]]
+-[[Twitter>>https://twitter.com/osu0413]]
+-[[YouTube>>https://www.youtube.com/user/osususususu]]
+
+**曲
+#list_by_tag(osu,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(osuCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm10847166)|&nicovideo(sm12320035)|
+|&nicovideo(sm12468720)|&nicovideo(sm12864306)|
+|&nicovideo(sm13620127)|&nicovideo(sm14005170)|
+|&nicovideo(sm14404600)|&nicovideo(sm14544784)|
+|&nicovideo(sm14638220)|&nicovideo(sm14805307)|
+|&nicovideo(sm14990733)|&nicovideo(sm15251529)|
+|&nicovideo(sm16896758)|&nicovideo(nm19057129)|
+|&nicovideo(sm33865782)|>|
+
+**コメント
+- センチメンタルと関ヶ原で、死すが大好きすぎる！曲調がかわいい！  -- しらふ  (2011-08-17 23:51:36)
+- いいですね＾＾  -- 名無しさん  (2011-08-23 15:44:53)
+- 関ヶ原とハローごみくずのうたが大好き!!もっと評価されてほしいです…  -- 名無しさん  (2012-08-24 23:16:18)
+- 関ヶ原好きすぎる…中毒気味ｗｗｗ皆聞いて！！  -- ななし  (2012-09-13 16:26:42)
+- osuさんの切ない曲調の歌大好きです!!  -- 名無しさん  (2013-03-27 13:23:35)
+- 関ヶ原とサルベージが好き！もっと評価されたらいいのにな～  -- 名無しさん  (2017-05-25 17:52:51)
+#comment()

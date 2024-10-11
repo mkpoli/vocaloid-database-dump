@@ -1,0 +1,48 @@
+#right(){&furigana(しょこらひっと)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/11489981" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/11489981">【ニコニコ動画】ショコラビット【ミクオリジナル曲】</a></iframe>)|
+
+**特徴
+作り手名：『&u(){ショコラビット}』
+-[[夜宵]]（作詞/イラスト）と[[とみー（T-POCKET）>とみー]]（作曲）の音楽サークル。
+//-曲調は主に爽やか、もしくは切なげ。いずれも、少し朧気な調教と非常にマッチしている。
+-使用合成音声は[[初音ミク]]。
+-現在、全ての楽曲が非公開となっている。
+
+**リンク
+//-個人HP、PIAPRO、YouTube等ある場合は、ここに。当wiki以外のサイトへリンクを貼る場合は必ず「>>」で別ウインドウでリンクしてください。
+//-[[ニコニコ動画>>https://www.nicovideo.jp/user/]]
+//-[[YouTube>>https://www.youtube.com/]]
+//-[[piapro>>https://piapro.jp/]]
+//-[[Twitter>>https://twitter.com/]]
+//
+//-[[ショコラビット>>http://egoisticrealism.web.fc2.com/chocolabbit/top.html]]（サークルHP）
+//-[[シンデレラの憂鬱>>http://cinderellatimexxx.blog79.fc2.com/]]（夜宵氏のブログ/サークル更新情報）
+//-[[兎月夜>>http://egoisticrealism.web.fc2.com/]]（夜宵氏のイラストサイト/縮小更新中）
+-[[T-POCKET>>http://syokorapocket.blog53.fc2.com/]]（とみー氏のブログ）
+
+**曲
+#list_by_tag(ショコラビット,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(ショコラビットCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm6403871)|&nicovideo(sm6987244)|
+|&nicovideo(sm7156673)|&nicovideo(sm7405940)|
+|&nicovideo(sm7756703)|&nicovideo(sm7959364)|
+
+**関連タグ内の更新履歴
+#region(close,関連タグ内の更新履歴)
+関連タグ内の更新履歴
+※「ショコラビット」「ショコラビットCD」タグ内で最近編集やコメントのあった記事を新しい方から10件表示しています。
+#list_by_tagsearch(ショコラビット,ショコラビットCD,sort=timestamp,sort2=desc,errmsg=まだ曲、CDが登録されていません。,or,10)
+#endregion
+
+**コメント
+- 1925はショコラビットじゃなくてT-POCKETさんの曲ですよね？  -- 名無しさん  (2009-10-26 16:45:31)
+- ↑そうですよ  -- 名無しさん  (2009-11-07 11:10:50)
+#comment()

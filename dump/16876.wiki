@@ -1,0 +1,39 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/730_20110529172135_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Tired of the World}|CENTER:[[HAPPY COLOR GUMMY]]|
+
+|&bold(){[[YS]]}|
+
+発売：2011年6月24日
+価格：￥900 / 1曲￥150
+流通：配信
+レーベル：KarenT
+ジャケットイラスト：YS
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/tired-of-the-world/id444694534]]}|
+
+**CD紹介
+-YSこと、ゲームミュージックの作曲者下田祐氏の配信アルバム。
+-VOCALOID「メグッポイド」の歌をメインに、UKインディーロックなギター、プログレのリズム、そして8ビットゲーム機のピコピコサウンドといった要素がポップに混ざったアルバムです。
+-色々なことで生きることに疲れてしまった人に、ちょっと休んで、息抜きとして聴いてもらえたら、音楽がほんの少しでも安らぎになれば、という気持ちをこめた歌詞、アルバム名になっています。
+-KarenTレーベルの、メグッポイド発売2周年記念企画で配信された作品の1つ。
+
+**曲目
++優しい世界 （feat. メグッポイド&初音ミク）
++西遊記 （feat. メグッポイド）
++オレンジティー （feat. メグッポイド&鏡音リン）
++怒りの鉄拳 （feat. メグッポイド&鏡音レン）
++ダイエット （feat. メグッポイド&巡音ルカ）
++何もかもが嫌になった -Tired of the World- （feat. メグッポイド）
++FXで人生が終わった （feat. メグッポイド）
++Slumber （feat. メグッポイド）
+
+**リンク
+-[[作者サイト>>http://www.shinsekai.co.uk/]]
+-[[KarenT：「Tired of the World」>>http://karent.jp/album/730]]
+-[[メグッポイド2周年記念祭>>http://karent.jp/special/megpoid11]]
+
+**コメント
+#comment()

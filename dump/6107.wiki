@@ -1,0 +1,30 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Stir up vol.2]]|CENTER:&bold(){Stir up club edition}|CENTER:-|
+
+|&bold(){[[Allium Project]]}|
+
+発売：2009年08月15日
+価格：￥500（即売）,￥700（委託）
+流通：即売,委託
+サークル：Allium Project
+
+**CD紹介
+-Allium Project 第３弾。C76にて頒布。
+-「今度はクラブとステアする。」をコンセプトに、本プロジェクトのcomposer / Directorの一人であるTaishiが所属し、良質な音源のリリースを続けるevola recordsよりkyu(a.k.a Nhato),JEt(a.k.a Kazusa)を、Delights musicよりTomohiko Togashiを、Dust_Box_49よりziki_7を、Sound sktより2tenを招き、vocaloidを使用したクラブユースなトラックを収録する。先着ではあるが、購入者特典にて同人誌がプレゼントされた。これまでと同様の同人誌＋ＣＤの体系に則った形になる。
+
+**曲目
++01:There(Progressive Rework) / Taishi
++02:Feel My Heart / JEt
++03:Landmine / ziki_7
++04:My Method / Tomohiko Togashi
++05:Yellow Knife / kyu
++06:Delusion / 2ten
++07:There(Original Mix) / Taishi
++08:There(Radio Edit) / Taishi
+
+**リンク
+-[[ホームページ>http://www.compllege.com/allium/]]
+
+**コメント
+#comment

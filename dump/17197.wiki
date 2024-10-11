@@ -1,0 +1,32 @@
+#right(){&furigana(まちびとぼろわー)&furigana()【登録タグ:&tags() 】}
+
+&ref(http://halyosy.com/wp-content/uploads/images/works_mbb.jpg,x=300,y=300)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[絆創ガンナー>絆創ガンナー/CD]]|CENTER:&bold(){待人ボロワー}|CENTER:-|
+
+|&b(){[[halyosy]]}|
+
+|流通|CENTER:即売|
+|発売|CENTER:2011年6月12日|
+|価格|CENTER:\500|
+|サークル|CENTER:voiceberg|
+
+**CD紹介
+-halyosyの2ndシングル。
+-THE VOC@LOiD M@STER 16（ボーマス16）限定頒布。増刷や通販は無し。
+-作者サイトに歌詞の記載あり。
+
+**曲目
++待人ボロワー
++霓虹ブリーダー
++待人ボロワー (Instrumental)
++霓虹ブリーダー (Instrumental)
+
+**リンク
+-[[作者サイト>>http://halyosy.com/]]
+-[[CD紹介ページ>>http://halyosy.com/wp-content/uploads/images/works_mbb.jpg]]
+
+**コメント
+- 涙が止まりません  -- Roohit  (2021-11-04 00:33:21)
+#comment()

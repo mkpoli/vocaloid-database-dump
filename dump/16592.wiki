@@ -1,0 +1,14 @@
+#right(){【登録タグ:&tags()】}
+//↑タグ忘れ防止のための表示
+曖昧さ回避のためのページ
+----
+-[[シンP]]の曲
+--[[Prototype/シンP]]
+-[[niki]]の曲
+--[[Prototype/niki]]
+-[[上村香月]]の曲
+--[[PROTOTYPE/上村香月]]
+-[[nwnw]]の曲
+--[[prototype/nwnw]]
+
+#include(曖昧さ回避の追加の仕方/告知)

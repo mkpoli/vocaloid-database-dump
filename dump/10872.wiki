@@ -1,0 +1,13 @@
+#right(){&furigana()&furigana()【登録タグ:&tags()】}
+&nicovideo(http://www.nicovideo.jp/watch/sm11009551)
+作詞：[[ぐへへP]]
+作曲：[[ぐへへP]]
+編曲：[[ぐへへP]]
+唄：初音ミク
+
+**曲紹介
+-架空言語を使ったミクトロニカ。
+-ミクのほかにルカとGUMIも参加している。
+
+**コメント
+#comment()

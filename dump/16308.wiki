@@ -1,0 +1,36 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm14567419)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Your world & My world]]|CENTER:&bold(){Lost day never again}|CENTER:[[Trust your way>Trust your way/CD]]|
+
+|&bold(){[[APG550]]}|
+
+|流通|CENTER:即売|
+|発売|CENTER:2011年06月12日|
+|価格|CENTER:￥1,000|
+|サークル|CENTER:APG48チームA|
+
+**CD紹介
+-APG550氏の2ndアルバム。
+-収録楽曲は全てGUMIが歌っており、重厚なラウド系サウンドのみで構成されている。
+-ジャケットイラストは 潮音氏 が手掛ける。
+-THE VOC@LOiD M@STER 16（ボーマス16）にてリリース。
+
+**曲目
++From here
++Lost day never again
++[[Nothing but]]
++[[ANSWER>>ANSWER/APG550]]
++even if...
++liberalist
++Chaotic Faith
++[[きみがゆめのなかで]]
++Arise
++[[between you and me]]
+
+**リンク
+-[[Twitter>>http://twitter.com/APG550]]
+
+**コメント
+#comment()

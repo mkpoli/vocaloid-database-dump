@@ -1,0 +1,39 @@
+#right(){&furigana(しんもんしょうじょVSせいしゅんのさつじんしゃEP)&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/753_20110607001704_0240_0240.jpg)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm14664311)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Smile Knight EP]]|CENTER:&bold(){審問少女 VS 青春の殺人者 EP}|CENTER:[[曇日]]|
+
+|&bold(){[[kiichi（なんとかP）]]}|
+
+|流通|CENTER:即売|CENTER:同人|CENTER:配信|
+|発売|>|CENTER:2011年6月12日|CENTER:2011年6月22日|
+|価格|CENTER:￥500|CENTER:￥751|CENTER:￥900 / 1曲￥150|
+|サークル|>|CENTER:なんとかかんとか||
+
+**CD紹介
+-&b(){なんとかP}こと&b(){kiichi}の2枚目となるミニアルバム。
+-ルカメインでアグレッシブなロック・エレクトロニカを収録した作品。
+-ジャケットイラストは[[なぎみそ]]氏が担当。
+-THE VOC@LOiD M@STER 16（ボーマス16）で頒布。
+-とらのあなで委託販売が、KarenTレーベルよりダウンロード販売が行われている。
+
+**曲目
++[[メグリンQ]]（EP Ver.） （feat. 巡音ルカ）
++[[思春期・オブ・ザ・デッド]] （feat. 初音ミク）
++[[フルチカゾン]] （feat. 巡音ルカ）
++[[ヴァルゴ]] （feat. 巡音ルカ）
++審問少女シスター☆かのん （feat. 巡音ルカ）
++[[バンシー・ストライクス]] （feat. 初音ミク）
++(development)
+
+**リンク
+-[[作者のブログ>>http://kiiichi.blog.shinobi.jp/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0020/01/35/040020013597.html]]
+-[[KarenT：「審問少女 VS 青春の殺人者 EP」>>http://karent.jp/album/753]]
+
+**コメント
+- 通販でかいましたぁ～～～  -- ほめ  (2011-11-30 22:06:39)
+#comment()

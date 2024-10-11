@@ -1,0 +1,43 @@
+#right(){&furigana(たくじょうあおぞら) &furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/037_20091225193957_0240_0240.jpg)
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){卓上青空}|CENTER:[[GonGoss Works]]|
+
+|&bold(){[[iTunesStoreで購入する>>http://itunes.apple.com/jp/album/desktop-blue-sky/id321210320]]}|
+
+|&bold(){[[GonGoss]]}|
+
+発売：2009年7月3日
+価格：￥900 / 1曲￥150
+流通：配信
+レーベル：KarenT
+ジャケットイラスト：[[かしょ>>http://piapro.jp/kasyou]]
+
+**CD紹介
+-GonGoss初のアルバム。
+-「[[嗚呼、麗しの男子校]]」以外の既存発表曲を収録して、KarenTレーベルより音楽配信サイトにて配信中。
+>「あるぇー」、「頑張ります！」、「元気出してNE！」、「うるせー！」な曲で構成されています。
+（KarenTの作者コメより引用）
+
+**曲目
++[[White Letter>White Letter/GonGoss]] (feat. 初音ミク)
++[[初音ミクさんの心境]] (feat. 初音ミク)
++[[夕闇の狭間]] (feat. 初音ミク)
++[[青空を見つけた日]] (feat. 初音ミク)
++大丈夫 (feat. 初音ミク)
++[[スマイリーxスマイリー]] (feat. 初音ミク)
++[[バーボンハウスへようこそ]] (feat. 初音ミク)
++[[フレンチプレスでコーヒータイム]] (feat. 初音ミク)
++[[コタツと木枯らし]] (feat. 初音ミク)
++そよ風のリズム (feat. 初音ミク)
++[[糸電話]] (feat. 初音ミク)
++[[苛イラDayS>苛★イラDAyS＃4Ne]] (feat. 初音ミク)
++夢のかけら (feat. 初音ミク)
+
+**リンク
+-[[作者ブログ>>http://gondtm.blog111.fc2.com/]]
+-[[KarenT>>http://karent.jp/album/37]]
+
+
+**コメント
+#comment

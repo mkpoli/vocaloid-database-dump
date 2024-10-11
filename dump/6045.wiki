@@ -1,0 +1,38 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+#image(http://kobe.cool.ne.jp/linker/redear_bana.jpg,title=Re:Dear Ver.0,http://shiki2.sakura.ne.jp/redear.html,blank)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[ACTRESS AGAIN Ver.2]]|CENTER:&bold(){Re:Dear Ver.0}|CENTER:-|
+
+|&bold(){[[SHIKI]]}|
+
+||CENTER:即売|CENTER:同人|
+|発売|CENTER:2009年8月15日|CENTER:未定|
+|価格|CENTER:&color(red){&bold(){￥100 !!}}|CENTER:未定|
+|サークル|>|CENTER:Link to you|
+
+**CD紹介
+-SHIKI氏がこの夏に贈る2nd VOCALOID CD。
+-発表されている「[[Melancholyをもう一度]]」「[[プリズムドア]]」を収録した全8曲。
+-「[[ACTRESS AGAIN]]」と同じく入門編ということでまたしても&color(red){&bold(){100円 !!}}という投げ売り…じゃなくてなんという太っ腹。
+-2009/8/15に開催される「C76」東コ-15aにて販売。
+-後日、C76へ来れない人向けにショップ委託版パッケージもリリースされる。
+
+**曲目
++[[Melancholyをもう一度]] [5:22]　作詞・作曲・編曲：SHIKI
++[[CHASER]] [2:48]　作詞・作曲・編曲：SHIKI
++[[プリズムドア]] [4:27]　作詞・作曲・編曲：SHIKI
++Angelic Layer -The 2nd Night- [5:04]　作詞：emi　作曲・編曲：SHIKI
++Shallow sleep [3:58]　作詞：emi　作曲・編曲：SHIKI
++Venus style [3:07]　作詞：emi　作曲・編曲：SHIKI
++SHINY BLUE [4:56]　作詞・作曲・編曲：SHIKI
++Reason Trigger [3:44]　作詞：jun maruyama　作曲・編曲：SHIKI
+
+**リンク
+-[[特設サイト SHIKI's 2nd VOCALOID CD -Re:Dear Ver.0->>http://shiki2.sakura.ne.jp/redear.html]]
+-[[作者ホームページ（Link to you）>>http://kobe.cool.ne.jp/linker/]]
+
+**コメント
+- また100円とか相変わらずすげえｗ  -- 名無しさん  (2009-07-31 00:48:25)
+- キター！！！！！！！！！！　￥100 今回も超豪華だしｗ  -- 名無しさん  (2009-07-31 10:51:59)
+#comment

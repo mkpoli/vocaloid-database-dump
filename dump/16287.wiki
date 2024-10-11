@@ -1,0 +1,70 @@
+#right(){&furigana(LENCOMPILATIONLC)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm14663824)|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/25609268" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/25609268">【ニコニコ動画】投稿動画一覧</a></iframe>)|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:　-　|CENTER:&b(){LEN COMPILATION 「LC」}|CENTER:[[LEN COMPILATION 「LC2」]]|
+
+//&ref(http://img.toranoana.jp/img/04/0020/01/45/040020014553-1.gif)&ref(http://img.toranoana.jp/img/04/0020/01/45/040020014553-2.gif)
+//
+|>|>|BGCOLOR(#999):COLOR(#FFF):CENTER:&b(){楽曲}|
+|CENTER:&bold(){[[葉の月（ちくP）>ちくP]]}|CENTER:[[キッドP]]|CENTER:[[toya]]|
+|CENTER:[[ぴょろP]]|CENTER:[[れれれP]]|CENTER:[[メガレンP]]|
+|CENTER:[[初心P]]|CENTER:[[長月秋霖]]|CENTER:[[狐夢想（ムスカP）>ムスカP]]|
+|CENTER:[[ギガ>ギガP]]|CENTER:[[akahori]]|CENTER:[[yukki#>yukki＃]]|
+|CENTER:[[ばすてぃP]]|CENTER:[[しえろP>しえろP（ショタエロイドP）]]|CENTER:[[相崎（ワールドワイドP）>ワールドワイドP]]|
+|CENTER:[[残鏡P]]|CENTER:[[クリスタルP]]|CENTER:[[Neru]]|
+
+|>|>|>|>|BGCOLOR(#999):COLOR(#FFF):CENTER:&b(){イラスト}|
+|CENTER:[[ワカコヒメモエ]]|CENTER:[[コソラ]]|CENTER:[[たま]]|CENTER:[[初]]|CENTER:[[いたる]]|
+|CENTER:[[銀河]]|CENTER:[[かどこあ]]|CENTER:[[碧茶]]|CENTER:[[おればなな>おればななP]]|CENTER:[[96まめ]]|
+|CENTER:[[マクロ]]|CENTER:[[よもりん]]|CENTER:[[あん子]]|CENTER:[[ぽたこ]]|>|
+
+|BGCOLOR(#DDD):CENTER:流通|CENTER:即売|CENTER:同人|
+|BGCOLOR(#DDD):CENTER:発売|CENTER:2011年06月12日|CENTER:2011年6月14日|
+|BGCOLOR(#DDD):CENTER:価格|CENTER:￥1,500|CENTER:￥2,100（税込）|
+|BGCOLOR(#DDD):　発行　|>|CENTER:LCC製作委員会|
+
+
+**CD紹介
+CD名：『&u(){LEN COMPILATION「LC」}』
+-コンセプトは&br()「&bold(){どこを開いても鏡音レンだらけのブックレット、どこを聞いても鏡音レンが歌っているCD、}&br()　　　&bold(){レンファンによるレンファンの為のアルバム}」。
+-主催はちくPこと葉の月、イラスト統括はいたる、CDジャケットイラストは碧茶、マスタリングはHzEdge（クリスタルP）が担当している。
+-2011年6月12日開催の「THE VOC@LOID M@STER 16」（ボーマス16）で初頒布が行われた。
+-D-STAGEととらのあなにて委託販売が行われているほか、いくつかのイベントで頒布が予定されている。
+
+**トラックリスト
++[[Filtering]]／キッドP・ワカコヒメモエ
++[[quintet ebony]]／toya・コソラ
++[[Waste Story]]／ぴょろP・たま
++ホンキのキモチ／れれれP・初
++[[Cinderella+Boy]]／メガレンP・いたる
++[[translucent]]／初心P・銀河
++[[BRAVE～翼神の願い～]]／長月秋霖・かどこあ
++グラマラス・バタフライ／狐夢想（ムスカP）・碧茶
++[[トゥルリラタリラトゥルラ]]／ギガ・おればなな
++[[霧の森の水鏡]]／akahori・96まめ
++[[少年トラジティ]]／yukki#・マクロ
++LEN -Lead to Endless Night-　／ばすてぃP・よもりん
++悠久幻想／葉の月（ちくP）・あん子
++[[永遠の彼方]]／しえろP・ぽたこ
++[[その道を進め]]／相崎（ワールドワイドP）・いたる
+
+**リンク
+//#image(http://www.len-compilation.com/images/banner.jpg,http://www.len-compilation.com/,title=LC,blank) 
+-[[LEN COMPILATION 「LC」 特設ページ>>http://www.len-compilation.com/]]
+-[[D-STAGE>>http://d-stage.com/shop/detail.php?seq=21353]] / [[D-STAGEヤフー店>>http://store.shopping.yahoo.co.jp/d-stage/2900164400013.html]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0020/01/45/040020014553.html]]
+
+**コメント
+- ページができてる～！！！楽しみすぎて氏ねる…！！！  -- 名無しさん  (2011-05-28 16:23:13)
+- なにこれ素敵……！！  -- 名無しさん  (2011-06-02 08:40:38)
+- ｗｋｔｋｗｋｔｋ！  -- 名無しさん  (2011-06-05 23:55:22)
+- これがあるってわかってたらボマスのカタログ買ったのにorz  -- 名無しさん  (2011-06-08 20:33:29)
+- 通販組です！  -- 名無しさん  (2011-06-13 02:38:26)
+- ニコ動に曲上がってるね！追加してくれると嬉しい。  -- 名無しさん  (2011-08-08 22:11:29)
+- 第2段も是非作っていただきたい！！  -- 名無しさん  (2011-08-08 22:28:31)
+#comment()

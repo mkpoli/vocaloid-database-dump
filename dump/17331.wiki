@@ -1,0 +1,10 @@
+#right(){【登録タグ:&tags()】}
+//↑タグ忘れ防止のための表示
+曖昧さ回避のためのページ
+----
+-[[toya]]の曲
+--[[Salty Dog/toya]]
+-[[the world／DIO様P]]の曲
+--[[Salty Dog/the world／DIO様P]]
+
+#include(曖昧さ回避の追加の仕方/告知)

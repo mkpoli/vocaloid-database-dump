@@ -1,0 +1,51 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/768_20110702114506_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[REM -レム-]]|CENTER:&bold(){Re-collect}|CENTER:[[TrioLine -トリオライン-]]|
+
+|&bold(){[[彩音P]]}|
+
+発売：2011年7月13日
+価格：￥3,600 / 1曲￥150
+流通：配信
+レーベル：KarenT
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/re-collect/id448849048]]}|
+
+**CD紹介
+-彩音Pの配信限定となるアルバム。
+-音楽サークル『彩音 ～xi-on～』が2008年～2011年に制作・発表したボーカロイド楽曲、24曲を1つの配信用アルバムとしてまとめました。&br()動画サイトに発表したものから、発表CDのみの収録曲が入っています。また、今回配信用に全楽曲のリマスタリングを行いました。
+
+**曲目
++[[サラリーマンのうた]] （feat. 初音ミク）
++[[ニコニコ・ラプソディー]] （feat. 初音ミク）
++ミカタ （feat. 初音ミク）
++[[雪峰 ～yukimine～]] （feat. 初音ミク）
++[[春風 ～harukaze～]] （feat. 初音ミク）
++[[シャム猫のうた]] （feat. 初音ミク）
++[[星空>星空/彩音P]] （feat. 初音ミク）
++[[alive>alive/彩音P]] （feat. 初音ミク）
++雪峰 ～yukimine～ -piano & strings Ver.- （feat. 初音ミク）
++[[ハツネリズム]] （feat. 初音ミク）
++[[ライカ>ライカ/彩音P]] （feat. 初音ミク）
++[[リトルサイン>リトルサイン/彩音P]] （feat. 初音ミク）
++[[ケセラセラ>ケセラセラ/彩音P]] （feat. 初音ミク）
++メールボックス （feat. 初音ミク）
++[[Message>Message/彩音P]] （feat. 初音ミク）
++[[青空の下で>青空の下で/彩音P]] （feat. 初音ミク）
++ありがとうのうた （feat. 初音ミク）
++[[Trajectory>Trajectory/彩音P]] （feat. 初音ミク）
++[[ハジマリノヒ]] （feat. 初音ミク）
++[[ささいなこと>ささいなこと/彩音P]] （feat. 初音ミク）
++[[My Darling]] （feat. 鏡音リン）
++サラリーマンのうた 2011 （feat. 初音ミク）
++とある軍師に捧ぐ詩 （feat. 初音ミク）
++REM （feat. 初音ミク）
+
+**リンク
+-[[作者サイト>>http://xion.art-studio.cc/]]
+-[[KarenT：「Re-collect」>>http://karent.jp/album/768」]]
+
+**コメント
+#comment()

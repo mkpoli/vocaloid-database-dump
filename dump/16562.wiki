@@ -1,0 +1,41 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+
+&nicovideo(http://www.nicovideo.jp/watch/sm14500882)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Your Pianist]]|CENTER:&bold(){Unfinished Eden}|CENTER:[[Resonance>Resonance/無力PCD]]|
+
+|&bold(){[[無力P]]}|[[ゐつ]]|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|>|CENTER:2011年6月12日|
+|価格|CENTER:￥1,000（税込）|CENTER:￥1,365（税込）|
+|サークル|>|CENTER:ファーストキッス|
+
+**CD紹介
+-無力P の 2nd Album 。
+-殿堂入りを果たした「[[If>If/無力P]]」や「[[Sacred Secret]]」など、全11曲収録。
+-イラスト・デザイン を AO氏 が手掛ける。
+-THE VOC@LOiD M@STER 16（ボーマス16）にてリリース。
+
+**曲目
++Maria　&color(red){NEW!}
++Live-Right　&color(red){NEW!}
++[[Re:bright]]
++[[Sacred Secret]]
++Face to Fake　&color(red){NEW!}
++[[My Savior]]
++CORE　&color(red){NEW!}
++[[Jihad?]]
++Ancient Heartbeat　&color(red){NEW!}
++[[If>If/無力P]]
++Lost Eden　&color(red){NEW!}
+
+**リンク
+-[[公式HP>>http://unfinishededen.web.fc2.com/index.html]]
+-[[Twitter>>http://twitter.com/muryokup]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0020/01/23/040020012369.html]]
+
+**コメント
+- 作成乙です！  -- 61.6kg  (2011-06-12 00:12:45)
+#comment

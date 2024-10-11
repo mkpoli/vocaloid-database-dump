@@ -1,0 +1,10 @@
+#right(){【登録タグ:&tags()】}
+//↑タグ忘れ防止のための表示
+曖昧さ回避のためのページ
+----
+-[[oOらいかOo]]の曲
+--[[Make A Wish/oOらいかOo]]
+-[[Man_boo]]の曲
+--[[Make A Wish/Man_boo]]
+
+#include(曖昧さ回避の追加の仕方/告知)

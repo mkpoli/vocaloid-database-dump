@@ -1,0 +1,37 @@
+#right(){&furigana(ねこむしずかん) &furigana()【登録タグ:&tags() 】}
+
+&ref(https://nekomushing.up.seesaa.net/image/nekomushizukan.png,x=300,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm11160533)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:CENTER:&bold(){[[nekomusic]]}|CENTER:&bold(){猫虫図鑑}|CENTER:[[ねこむしのあしあと]]|
+
+|&bold(){[[猫虫P]]}|[[まいなん]]|[[ソライロ]]|
+
+||CENTER:即売|CENTER:同人|
+|CENTER:発売|CENTER:2010年7月19日|CENTER:2010年7月23日|
+|CENTER:価格|CENTER:\1,000|CENTER:\1,426(税込)|
+|CENTER:サークル|>|CENTER:猫虫が猫無視して寝込むし。|
+
+**CD紹介
+-自身初の殿堂入りとなった「[[わんわんお にゃんにゃんお]]」他、8曲を収録。
+-まいなん氏（作詞：M1～4、作曲：M4、ベースアレンジ：M1～4）とソライロ氏（作詞・作曲：M7、デザイン）も参加している。
+-&b(){THE VOC@LOiD M@STER 13}での頒布では数量限定ながら会場特典としてポストカードが付いた。
+
+**曲目
++明星の唄
++[[水彩の唄]]
++君色の唄
++[[星海の唄－スバル－>星海の唄]]
++[[逃避遊戯]]
++[[特殊ケース一般論]]
++二人の時
++[[わんわんお にゃんにゃんお]]
+
+**リンク
+-[[作者のブログ>>http://nekomushing.seesaa.net/]]
+-[[とらのあなの通販ページ>>http://www.toranoana.jp/mailorder/cit/pagekit/0000/00/03/000000038426/]]
+
+**コメント
+#comment()

@@ -1,0 +1,37 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm14671130)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Justified by Faith}|CENTER:-|
+
+|&bold(){[[YUKKE]]}|
+
+||CENTER:即売|
+|発売|CENTER:2011年6月12日|
+|価格|CENTER:￥1,000|
+|サークル|CENTER:飴と鞭と犬とパンツと牛|
+
+**CD紹介
+-YUKKE氏 の 1st Album 。
+-これまでにリリースした曲を詰め込んだ、ベストアルバム的な構成。全10曲収録。
+-Design&Artwork を 潮音氏 が手掛ける。
+-THE VOC@LOiD M@STER 16（ボーマス16）にてリリース。
+
+**曲目
++DAYBREAK　&color(red){NEW!}
++[[Farewell>Farewell/YUKKE]]
++[[Pray Over]]
++[[蒼月]]
++[[虚空]]
++[[Naked Color]]
++[[Fly into the Sky]]
++[[Longing For You]]
++[[CROSSMIND]]
++[[Last Winter]]
+
+**リンク
+-[[音楽漬けのモラトリアム人生（作者ブログ）>>http://yukkelog.blog.shinobi.jp/]]
+-[[Twitter>>http://twitter.com/_YUKKE]]
+
+**コメント
+#comment

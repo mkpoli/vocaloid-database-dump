@@ -1,0 +1,38 @@
+#right(){&furigana(ばぶるがむみみっく！！) &furigana()【登録タグ:&tags() 】}
+//&ref(http://www.studiosatuki.com/guunone/img/gncd5.jpg)
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186121271.jpg,x=300,y=300)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[ミキューーーン！]]|CENTER:&bold(){バブルガムミミック！！}|CENTER:[[ぼかろってなぁに？]]|
+
+|&bold(){[[さつき が てんこもり]]}|&b(){[[かめりあ]]}|
+|&b(){[[ラマーズP]]}|&b(){[[LOLI.COM]]}|
+
+||CENTER:即売|CENTER:同人|
+|発売|2010年7月19日|-|
+|価格|CENTER:￥1,000|CENTER:￥-|
+|サークル|>|CENTER:ぐうのねサウンズ|
+
+>ジャケットイラスト・デザイン：&b(){[[しょくにく>>http://shokuniku.blog40.fc2.com/]]}
+
+**CD紹介
+-ぐうのねサウンズが誇るポップチューンメイカー達によるボーカロイドコンピ第二弾
+
+**曲目
+1:さつき が てんこもり - [[お断りします]]
+2:かめりあ - [[本体が4000円安くなるクーポン]]
+3:ラマーズP - [[もう５時か……]]
+4:LOLI.COM - [[AM 10:30]]
+5:かめりあ - [[ウンウンクアジウム]]
+6:ラマーズP - [[矢印の指す方へ]]solidcompver.
+
+**リンク
+-[[CD紹介>>http://www.studiosatuki.com/guunone/]]
+-[[クロスフェードデモ>>http://www.studiosatuki.com/guunone/bubblegum_CF.mp3]]
+
+**コメント
+- 楽しみ  -- 名無しさん  (2010-07-16 01:42:29)
+- ボーマス楽しみだー！  -- 名無しさん  (2010-07-16 10:44:00)
+- 完売したのか  -- 名無しさん  (2010-07-20 15:19:34)
+#comment()

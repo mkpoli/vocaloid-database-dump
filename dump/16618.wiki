@@ -1,0 +1,34 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm14629391)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Multiple Personality}|CENTER:-|
+
+|&bold(){[[なるしまたかし]]}|
+
+||CENTER:即売|
+|発売|CENTER:2011年5月29日|
+|価格|CENTER:￥700|
+|サークル|CENTER:Jelly Planet|
+
+**CD紹介
+-なるしまたかし氏 の 1st Album 。
+-「[[Gothic and Loneliness]]」「[[こはる]]」、 「[[Atheism]]」 の Full ver. など、全7曲収録。
+-ジャケットデザインは 海月流氏 が手掛ける。
+-VOCALOID FESTA 02（ボカフェス2）にてリリース。
+
+**曲目
++[[こはる]]
++[[Gothic and Loneliness]]
++[[あなたに最高な冬の日を]]
++[[Atheism]]　&color(red){NEW!}
++茂良鳥あむの時間軸　&color(red){NEW!}
++[[アナログ妖精]]
++ちゅーにんぐっ！　&color(red){NEW!}
+
+**リンク
+-[[Twitter>>http://twitter.com/Narcy35]]
+
+**コメント
+- どこに売っているんですか？  -- しゅんちー  (2014-03-22 13:23:13)
+#comment

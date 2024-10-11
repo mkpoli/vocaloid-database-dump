@@ -1,0 +1,45 @@
+#right(){&furigana(にーるのだんがん)&furigana()【登録タグ:&tags()】}
+&nicovideo(http://www.nicovideo.jp/watch/sm14801648)
+作詞：[[眼球P]]
+作曲：[[眼球P]]
+編曲：[[眼球P]]
+唄：神威がくぽ
+
+**曲紹介
+-オークションでNiel Barrettを落札したんですけど、商品が届いてタグを確認したらNiel's Bullet（ニールの弾丸？）になってました。
+
+**歌詞
+暴動　反乱　革命　病んだ家族
+&ruby(法廷){Court}の中では　平気であるはずもない
+
+曖昧で明瞭な　少年の日のけだるい孤独
+
+真っ白な陶磁器を眺め飽きた頃
+見知らぬ空の下で　最果てへと続く
+
+☆乾いた大地まで　終わりのない旅路
+　散乱する時の中で　走る夢
+
+あなたのその手の温もりと　彼方の空への道のりを
+新たな奇跡は描かれて　未だ見ぬ誰かを待っている
+
+Gets Gets Carte swing mock kick in
+月　月　火　水　目　金　金
+
+|予備動作もなく|You tell me　Trust me|
+|&color(white){a}|But I can't trust you|
+|&color(white){a}|Sure as a gun|
+|&color(white){a}|You're the son of a gun|
+|世界は深く眠り|Bear the cross just like Jesus, Crisis|
+|&color(white){a}|Bullet for my Re-birthday|
+もののあはれも無く　死に逝く者たちに捧げる
+
+☆繰り返し
+
+終わらない　まだ終わらない　踏み車の轍の跡
+研ぎ澄まされた　剣先の中　巻き込まれる　マルキ・ド・サド
+
+ローマは一日にして　ならず者の&ruby(すくつ){巣窟}
+
+**コメント
+#comment()

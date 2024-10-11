@@ -1,0 +1,46 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#image(http://scx-ct.net/pict/banner/ar_banner01.jpg,http://scx-ct.net/sp/artificial/index.html,title=Artificial Rainbow,blank)
+
+&ref(http://karent.jp/npdca/749_20110602203858_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Color Complex]]|CENTER:&bold(){Artificial Rainbow}|CENTER:[[To be style>To be style/CD]]|
+
+|&bold(){[[Clean Tears]]}|
+
+|流通|CENTER:即売|CENTER:委託|CENTER:配信|
+|発売|CENTER:2011年6月12日|CENTER:2011年6月|CENTER:2011年6月20日|
+|価格|CENTER:￥1,000|CENTER:￥1,260（税込）|CENTER:￥1,200 / 1曲￥150|
+|サークル|>|>|CENTER:S.C.X|
+
+**CD紹介
+-Clean Tears氏のVOCALOIDアルバム。
+-2011年うさぎ年、S.C.Xの新作はクラブ系オリジナル楽曲集！激しく可愛くカッコヨク歌います！！
+-ジャケットイラストはさなか氏。
+-THE VOC@LOiD M@STER 16（ボーマス16）にて頒布。同人ショップでの委託販売とKarenTレーベルからのダウンロード販売も行われている。
+
+**クロスフェード動画
+&nicovideo(sm14638932)
+
+**曲目
++On instinct （feat. 初音ミク）
++[[Tears of palm]] （feat. 初音ミク）
++[[S.E.K.N]] （feat. 初音ミク）
++Japanese Emotion （feat. 初音ミク）
++Artificial Rainbow （feat. 初音ミク）
++Humming （feat. 初音ミク）
++Tears of palm -Trance Remix- （feat. 初音ミク）
++Artificial Rainbow -Instrumental Version-
+
+**リンク
+-[[作者サイト>>http://scx-ct.net/]]
+-[[特設ページ>>http://scx-ct.net/sp/artificial/index.html]]
+-[[KarenT：「Artificial Rainbow」>>http://karent.jp/album/749]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0020/01/29/040020012922.html]]
+-[[メロンブックス>>http://shop.melonbooks.co.jp/shop/sp_213001009122_scx_artifi.php]]
+-[[ホワイトキャンバス>>http://w-canvas.com/shopping/detail.php?item_id=48127]]
+-[[アリスブックス>>http://alice-books.com/item/show/20-7]]
+-[[アニメイト>>http://www.animate-onlineshop.jp/pn/%E3%80%90%E5%90%8C%E4%BA%BACD%E3%80%91S.C.X/Artificial+Rainbow/pd/1072330/]]
+
+**コメント
+#comment()

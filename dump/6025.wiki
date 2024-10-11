@@ -1,0 +1,37 @@
+#right(){&furigana(clear)&furigana()【登録タグ:&tags()】}
+|&nicovideo(http://www.nicovideo.jp/watch/sm1938293)|&nicovideo(http://www.nicovideo.jp/watch/sm2660799)|
+作詞：[[bins]]
+作曲：[[bins]]
+編曲：[[bins]]
+唄：初音ミク（ミク版）、鏡音レン（レン版）
+
+**歌詞
+（[[ピアプロ>>http://piapro.jp/content/l489ish5jsrgacma]]より転載）
+
+枯れ果てた土の上
+続く足跡 
+
+吹きつける赤い砂
+消える希望 
+
+墜ちる空に何を求めてる
+生きる為にただ歩き続けた
+
+
+歪む地に響く音
+空を　見上げる 
+
+切り裂けた指先が
+赤く　滲む
+
+墜ちる空に何を期待する
+生きる為に地に足をつけた 
+
+
+墜ちる空に何を求めてる
+生きる為にまだ歩き続ける
+
+生きる為に
+
+**コメント
+#comment()

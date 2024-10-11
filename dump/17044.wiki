@@ -1,0 +1,38 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/764_20110624170733_0240_0240.jpg)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm14671956)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[CORRUPTION GARDEN featuring 巡音ルカ]]|CENTER:&bold(){HEROINES ep}|CENTER:[[終曲のファンタズム]]|
+
+|&bold(){[[Caz]]}|
+
+|流通|CENTER:即売|CENTER:配信|
+|発売|CENTER:2011年6月12日|CENTER:2011年7月6日|
+|価格|CENTER:￥500|CENTER:￥600 / 1曲￥150|
+|サークル|CENTER:飴と鞭とパンツと牛||
+|レーベル||CENTER:KarenT|
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/heroines-ep/id447526314]]}|
+
+**CD紹介
+-Caz氏の5曲入りVOCALOID-CD。
+-既発表曲2曲と新曲3曲構成。既発表曲も動画とはまた異なるテイクを使用、新曲では 初のメグッポイド曲を収録。
+-VOC@LOiD M@STER 16（ボーマス16）で初頒布。
+-KarenTレーベルよりダウンロード販売が行われている。
+-通販の予定はなし。
+
+**曲目
++Horizon View （feat. 初音ミク）
++[[Foolish"13"People]] （feat. 巡音ルカ）
++[[Angel Bullet]] （feat. 巡音ルカ）
++Cried Out （feat. メグッポイド）
++[[a tail of the wind]] （feat. 初音ミク）
+
+**リンク
+-[[作者ブログ>>http://blog.livedoor.jp/caz_music/]]
+-[[KarenT：「HEROINES ep」>>http://karent.jp/album/764]]
+
+**コメント
+#comment()

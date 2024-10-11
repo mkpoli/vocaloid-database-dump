@@ -1,0 +1,47 @@
+#right(){&furigana(10ptation)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+//#image(http://blog-imgs-19-origin.fc2.com/m/o/n/monaca10/10sample_omote.jpg,http://monaca10.blog116.fc2.com/blog-entry-40.html,title=10p-tation,blank)
+
+&ref(https://www.suruga-ya.jp/database/pics_light/game/186106094.jpg,x=300,y=300)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[モノクロセカイの積み木遊び。]]|CENTER:&bold(){10p-tation}|CENTER:[[光と空想の3原色]]|
+
+|&bold(){[[10日P]]}|
+
+||CENTER:即売|CENTER:同人|
+|CENTER:発売|CENTER:2009年8月15日|CENTER:|
+|CENTER:価格|CENTER:\1,000|CENTER:\1,260（税込）|
+|CENTER:サークル|>|monaca:factory|
+
+**CD紹介
+CD名：『&u(){10p-tation}』
+-10日Pがコミックマーケット76で頒布したアルバム。
+-収録曲の半分以上が新曲というところに、10日Pの気合を感じます。
+>今の自分の全力を出し切ったアルバムになったかなと思います!!
+>よろしくお願いします!!!!
+-とのこと。（ブログより引用）
+
+**曲目
++テンプテーション　&color(red){NEW!}
++カメレオン・キャンディー　&color(red){NEW!}
++[[夜色、ひとひら]]　&color(red){NEW!}
++[[タウリン1000mg High Go!!]] -Album version-
++[[ココロカラ]]　&color(red){NEW!}
++[[プラチナ]] -shinin' future MIX-
++reflection　&color(red){NEW!}
++[[JUNK>JUNK/10日P]]
++[[SPACE SHIP]]
++[[今度また会えたら]]　&color(red){NEW!}
+
+&nicovideo(nm7745707)
+
+//**リンク
+//-[[作者ブログ>>http://monaca10.blog116.fc2.com/blog-entry-40.html]]
+
+
+**コメント
+#comment

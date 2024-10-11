@@ -1,0 +1,39 @@
+#right(){&furigana(ほしのうた) &furigana()【登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186127987.jpg,x=300,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm11345864)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[ソラノシズク>ソラノシズク/CD]]|CENTER:&bold(){星のウタ}|CENTER:-|
+
+|&bold(){[[Pianissimo>Pianissimo/作り手]]}|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2010年7月19日|2010年8月10日|
+|価格|CENTER:￥1,000|CENTER:￥1,050（税込）|
+|サークル|CENTER:けろけろぴあっぴー|CENTER:Pianissimo.com|
+
+**CD紹介
+-音楽ユニット「Pianissimo」の2枚目となるアルバム。
+-THE VOC@LOiD M@STER 13（ボーマス13）で頒布。
+
+**曲目
++[[insanity girl]]
++曇りのち晴れ
++夕陽坂
++[[サクラクレパス]]
++コバルトブルー
++[[クドリャフカ>クドリャフカ/Pianissimo]]
++StringTelephone
++星空散歩
++Solea
++RainRainRain
++キセキ
+
+**リンク
+-[[Pianissimo.com（作者サイト）>>http://www3.pf-x.net/~blueelixir/index.html]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/22/99/040010229923.html]]
+
+**コメント
+#comment()

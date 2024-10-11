@@ -1,0 +1,41 @@
+#right(){&furigana(あしたでぃすく)&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/758_20110615221743_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){アシタディスク}|CENTER:[[まざる>まざる/CD]]|
+
+|&bold(){[[k_zero+A]]}|
+
+||CENTER:即売|CENTER:委託|CENTER:配信|
+|発売|CENTER:2010年11月14日||CENTER:2011年6月29日|
+|価格|CENTER:￥500|CENTER:￥735（税込）|CENTER:￥600 / 1曲￥150|
+|サークル|>|CENTER:k_zero+A||
+|レーベル|CENTER:-|CENTER:-|CENTER:KarenT|
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/id445801645]]}|
+
+**CD紹介
+-k_zero+A氏の5曲入りアルバム。
+-テーマは「円」。
+-THE VOC@LOiD M@STER 14（ボーマス14）にて頒布。
+-とらのあなで委託販売が行われ、KarenTレーベルよりダウンロード販売も行われている。
+
+**クロスフェード
+&nicovideo(http://www.nicovideo.jp/watch/sm12713321)
+
+**曲目
++アシタレック
++アイマイシンクδ （feat. 巡音ルカ）
++アステリズム　システムタイム
++[[アンシクロペディストの見た夢]] （feat. 初音ミク）
++[[アシタディスク]] （feat. 初音ミク）
+
+**リンク
+-[[作者ブログ>>http://d.hatena.ne.jp/k_zero/]]
+-[[収録曲解説>>http://d.hatena.ne.jp/k_zero/20101204]]
+-[[特設サイト>>http://disk.konjiki.jp/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/24/80/040010248000.html]]
+-[[KarenT：「アシタディスク」>>http://karent.jp/album/758]]
+
+**コメント
+#comment()

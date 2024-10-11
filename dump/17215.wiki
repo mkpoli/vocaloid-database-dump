@@ -1,0 +1,83 @@
+#right(){&furigana(むしP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/30365351" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/30365351">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-1996年9月26日、東京生まれ。ボーカロイドを使った楽曲制作をしている。使用ボーカロイドは、初音ミク・GUMI・MAYU・CYBER DIVA、またUTAUのテトを使用することもある。
+-最近ではボーカロイド楽曲以外の制作や作品提供も行うため「Layla」名義で活動することが多い。
+-様々な音楽ジャンル、また浮遊感のある音運びが特徴。「大枠ではジャズフレーバーを含むポップだが、ラテンやコンティネンタルも取り入れた多様なもの。（紹介ブログより）」
+-Ujico氏が中心となって結成された若手コンポーザー・レーベル「YCA」に所属。
+-2012年9月5～7日にかけて、旧作を削除した。「訣別のため」。それらの楽曲は、YouTubeなどで試聴が可能。（ムシPの[[大百科>>http://dic.nicovideo.jp/id/4758770]]より転載）
+//大百科はムシP自らによる編集
+//
+//-活動拠点をニコニコ外へ変更のため、15年11月4日時点で、ニコニコ動画にアップロードされた曲は非表示もしくは削除されていた。
+//ニコ動の動画が15/12/16時点で再公開されていたためコメントアウト
+//16/05/10 再非表示
+-2019年現在はVOCALOIDにこだわらない意思から、活動名を「ムシぴ」表記に変更。また、一時YouTubeのみに投稿していた時期もあるが、現在はニコ動にも復帰済み。
+-VOCALOIDではきくお氏から、他にAstor Piazzolla、Brad Mehldau等から影響を受け、独特なサウンドを構築している。
+-「[[色彩電気]]」にて自身初の殿堂入りを達成した。
+
+**リンク
+//-[[Official site>>http://muship.web.fc2.com/]] //最新曲やTwitterでのオフィシャルサイトへのリンク変更
+-[[新Officialサイト>>http://muship.wix.com/official]]
+--[[Official site（旧）>>http://muship.jimdo.com/]]
+-[[YouTube>>http://www.youtube.com/user/ibumushi]]
+-[[SoundCloud>>http://soundcloud.com/muship9052]]
+//-[[Twitter>>http://twitter.com/ibumushi]] //Youtubeの動画「変な子と呼ばないで」より、アカウントを新しくしたためリンク切れ
+-[[Twitter>>http://twitter.com/yaru_okasu]]
+-[[ブログ>>http://www.voiceblog.jp/ibumushi/]]
+-[[ピアプロ>>http://piapro.jp/ibumushi]]
+
+**曲
+#list_by_tag(ムシP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(ムシPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+#region(close,ニコニコ)
+|&nicovideo(sm14240074)|&nicovideo(sm14574668)|
+|&nicovideo(sm14735683)|&nicovideo(sm14943679)|
+|&nicovideo(sm15287373)|&nicovideo(sm15711781)|
+|&nicovideo(sm16273932)|&nicovideo(sm16732857)|
+|&nicovideo(sm16779314)|&nicovideo(sm16962105)|
+|&nicovideo(sm17152005)|&nicovideo(sm17457373)|
+|&nicovideo(sm17694150)|&nicovideo(sm18326012)|
+|&nicovideo(sm19166376)|&nicovideo(sm19925901)|
+|&nicovideo(sm20814826)|&nicovideo(sm22158563)|
+|&nicovideo(sm22615263)|&nicovideo(sm22786843)|
+|&nicovideo(sm23077957)|&nicovideo(sm24220352)|
+|&nicovideo(sm24389977)|&nicovideo(sm24817675)|
+|&nicovideo(sm25038200)|&nicovideo(sm25134008)|
+|&nicovideo(sm25291686)|&nicovideo(sm25430545)|
+|&nicovideo(sm25755987)|&nicovideo(sm26818525)|
+|&nicovideo(sm27181819)|&nicovideo(sm27270402)|
+|&nicovideo(sm27504308)|&nicovideo(sm27765999)|
+|&nicovideo(sm28493042)|&nicovideo(sm28800246)|
+#endregion
+//#region(close,YouTube)
+
+|&youtube(http://www.youtube.com/watch?v=xI9QNHPIHGI){342,187}|&youtube(http://www.youtube.com/watch?v=2Izc57_WHRk){342,187}|
+|&youtube(http://www.youtube.com/watch?v=Zg3U-vMANPY){342,187}|&youtube(http://www.youtube.com/watch?v=UKyS_hGKd90){342,187}|
+|&youtube(http://www.youtube.com/watch?v=P6X66IABtRM){342,187}|&youtube(http://www.youtube.com/watch?v=wg9GIJoLzwQ){342,187}|
+|&youtube(http://www.youtube.com/watch?v=5jgKJXEQi3k){342,187}|&youtube(http://www.youtube.com/watch?v=InyQu68x_ac){342,187}|
+|&youtube(http://www.youtube.com/watch?v=VlO0fPVszBA){342,187}|&youtube(http://www.youtube.com/watch?v=afQeciQu60U){342,187}|
+|&youtube(http://www.youtube.com/watch?v=0z76fTvf37E){342,187}|&youtube(http://www.youtube.com/watch?v=wZYCSOZ7_T0){342,187}|
+|&youtube(http://www.youtube.com/watch?v=VyJIlPkCjiM){342,187}|&youtube(http://www.youtube.com/watch?v=PeEy32l3uOA){342,187}|
+|&youtube(http://www.youtube.com/watch?v=ED8Nb7Ef2Uo){342,187}|&youtube(http://www.youtube.com/watch?v=YVtu7avFfhw){342,187}|
+|&youtube(http://www.youtube.com/watch?v=qqBU12iwxfg){342,187}|&youtube(http://www.youtube.com/watch?v=dI-NQEHgmcg){342,187}|
+|&youtube(http://www.youtube.com/watch?v=zYNFTBXflbw){342,187}|&youtube(http://www.youtube.com/watch?v=BVPvYLYCcUU){342,187}|
+|&youtube(http://www.youtube.com/watch?v=9DrxO8CpXxs){342,187}|&youtube(http://www.youtube.com/watch?v=yv7ZnCN1Gqw){342,187}|
+|&youtube(http://www.youtube.com/watch?v=O--MJLbesBE){342,187}|&youtube(http://www.youtube.com/watch?v=RivIeBsKKDE){342,187}|
+|&youtube(http://www.youtube.com/watch?v=MAeeZWK1vWw){342,187}|&youtube(http://www.youtube.com/watch?v=hm8UtAjCoe4){342,187}|
+|&youtube(http://www.youtube.com/watch?v=wI-bImzRI70){342,187}|&youtube(http://www.youtube.com/watch?v=MtjxOjWKkYA){342,187}|
+|&youtube(http://www.youtube.com/watch?v=3E8EtFWI4Nc){342,187}|&youtube(http://www.youtube.com/watch?v=bRKwKZc8OBk){342,187}|
+//#endregion
+
+**コメント
+- Sci fi　良い曲でしあ  -- ^m^  (2014-09-10 02:47:55)
+- ほんとに好きだったのに何も消さなくても…　もたさんといい、学生はいろいろ大変ですね。  -- 名無しさん  (2015-11-07 23:45:37)
+- ピコピコした世界観好きです！なんとなくきくおさんやささくれPの影響を感じるような…？  -- 名無しさん  (2017-09-09 14:16:50)
+- きくおさん感わかる  -- N  (2018-04-02 04:12:44)
+- 良き  -- koko  (2019-07-10 07:35:57)
+- すき  -- なりあさ  (2021-05-24 18:06:40)
+#comment()

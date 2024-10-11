@@ -1,0 +1,35 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/747_20110601225012_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[One Night Disco]]&br()[[嘘つきイミテーション]]|CENTER:[[Run Away]]&br()&bold(){Till Tears Overflow EP}|CENTER:[[Yellow Star Airlines]]|
+
+|&bold(){[[nana]]}|
+
+発売：2011年6月24日
+価格：￥600 / 1曲￥150
+流通：配信
+レーベル：KarenT
+ジャケットイラスト：[[有坂あこ]]（Sevencolors）
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/till-tears-overflow-ep/id444654733]]}|
+
+**CD紹介
+-nana氏のサークル「Sevencolors」の配信EP。
+-electro planetのコンピレーションCD『[[vocaloholic]]』収録曲であり、Sevencolorsのアルバム『[[apricot carol]]』にも収録されていた「Till Tears Overflow」各種をまとめて収録。
+-KarenTレーベルの、メグッポイド発売2周年記念企画で配信された作品の1つ。
+
+**曲目
++Till Tears Overflow （Extended Mix Ver.GUMI） （feat. メグッポイド）
++Till Tears Overflow （Extended Mix） （feat. 初音ミク）
++Till Tears Overflow （Radio Edit） （feat. 初音ミク）
++Till Tears Overflow （Extended Mix Instrumental）
++Till Tears Overflow （Radio Edit Instrumental）
+
+**リンク
+-[[作者サイト>>http://seven-colors.info/]]
+-[[KarenT：「Till Tears Overflow EP」>>http://karent.jp/album/747]]
+-[[メグッポイド2周年記念祭>>http://karent.jp/special/megpoid11]]
+
+**コメント
+#comment()

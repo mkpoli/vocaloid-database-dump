@@ -1,0 +1,34 @@
+#right(){&furigana(あなくろP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/21015069" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/21015069">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-アーティスト名は&b(){Orukana}。
+--「[[P　名　言　っ　て　み　ろ　！]]」に便乗して動画を投稿したところ、P名が付けられることとなった。
+---なお、P名のアナクロは、アーティスト名の"orukana"を逆から読んだ格好になっている。
+-ゆったりとした曲が多い。
+-&b(){0o（れお）}氏と共に、サークル&b(){Croswhen}を結成している。
+
+**リンク
+-[[サークルブログ>>http://0oandorukana.blog108.fc2.com/]]
+-[[作者ブログ>>http://0oandorukana.blog108.fc2.com/]]
+-[[Twitter>>http://twitter.com/0rukana]]
+-[[PIAPRO>>http://piapro.jp/orukana]]
+-[[YouTube>>https://www.youtube.com/user/anakuroP]]
+
+**曲
+#list_by_tag(アナクロP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(アナクロPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm9258580)|&nicovideo(http://www.nicovideo.jp/watch/sm10904627)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm11273364)|&nicovideo(http://www.nicovideo.jp/watch/sm12562343)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12562902)|&nicovideo(http://www.nicovideo.jp/watch/sm13064926)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm14121986)|&nicovideo(http://www.nicovideo.jp/watch/sm14153298)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm14197608)|&nicovideo(http://www.nicovideo.jp/watch/sm14489352)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm15260364)|&nicovideo(http://www.nicovideo.jp/watch/sm15268756)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm16120144)|&nicovideo(http://www.nicovideo.jp/watch/sm16176339)|
+
+**コメント
+#comment()

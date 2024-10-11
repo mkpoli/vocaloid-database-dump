@@ -1,0 +1,42 @@
+#right(){&furigana(ふゆうがーる)&furigana()【登録タグ:&tags() 】}
+//|&ref(http://img.toranoana.jp/img/04/0010/23/05/040010230560-1.gif)&br()初回盤|&ref(http://img.toranoana.jp/img/04/0010/24/78/040010247875-1.gif)&br()大判盤|
+
+|初回盤&br()&ref(https://www.suruga-ya.jp/database/pics/game/186126589.jpg,x=300,y=300)|大判盤&br()&ref(https://www.suruga-ya.jp/database/pics/game/186122201.jpg)|
+
+&nicovideo(http://www.nicovideo.jp/watch/sm12721791)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){フユウガール}|CENTER:[[フユウガール（誕生日盤）]]|
+
+|&bold(){[[acane_madder]]}|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|>|CENTER:2010年7月19日|
+|価格|CENTER:￥1,000|CENTER:￥1,470（税込）|
+|サークル|>|CENTER:|
+
+**CD紹介
+-acane_madder氏のアルバム。
+-初回盤と大判盤と2種類あり、ジャケットが違う他、中身も少し異なる。
+-ジャケットイラストはbebe氏（初回盤）と夏氏（大判盤）が担当。
+-THE VOC@LOiD M@STER 13（ボーマス13）で頒布。
+-とらのあなで委託販売が行われる。
+
+**曲目
++旅へ出る
++フユウガール
++[[月と風船]]
++[[ループ>LOOP!]]
++スロウモーション
++[[不機嫌レディ]]
++ダークブルー
++[[茜音色チャイム]]（放課後編）　　※初回盤にはacane版、大判盤にはGUMI版を収録。
++旅先より
+
+**リンク
+-[[作者サイト>>http://acanemadder.tumblr.com/]]
+-[[とらのあな（初回盤）>>http://www.toranoana.jp/mailorder/article/04/0010/23/05/040010230560.html]]
+-[[とらのあな（大判盤）>>http://www.toranoana.jp/mailorder/article/04/0010/24/78/040010247875.html]]
+
+**コメント
+#comment()

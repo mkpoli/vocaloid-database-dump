@@ -1,0 +1,45 @@
+#right(){&furigana(HELIOCENTRISM)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo(sm13234026)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Echo Echo Me]]|CENTER:&bold(){HELIOCENTRISM}|CENTER:[[Horror For Holiday Shoppers]]|
+
+|&bold(){[[KEI>KEI/ハヤシケイ]]}|
+
+||CENTER:即売|CENTER:同人|
+|CENTER:発売|CENTER:2011年1月16日||
+|CENTER:価格|CENTER:￥1,000|CENTER:￥1,500（税込）|
+|CENTER:サークル|>|CENTER:HOMING ECHO|
+
+**CD紹介
+CD名：『&u(){HELIOCENTRISM}』
+-「絵師じゃないKEI」こと KEI氏 の2ndアルバム。
+-新曲6曲に、コンピレーションCD『[[Try!]]』収録の「誰かの足跡」も加えた全10曲。
+-アートワークは前作に引き続き さぷり 氏が担当。
+-THE VOC@LOiD M@STER 15（ボーマス15）にて頒布。とらのあなにて委託販売が行われている。
+
+**曲目
++イナズマ　　&font(red){NEW!!}
++[[メーデー>メーデー/KEI]]
++スキマ　　&font(red){NEW!!}
++きみのそら　　&font(red){NEW!!}
++[[ジャック]]
++誰かの足跡
++[[ピエロ>ピエロ/KEI]]
++ヒーローごっこ　　&font(red){NEW!!}
++そのすべて　　&font(red){NEW!!}
++[[アイラビューアイニジュー]]　　&font(red){NEW!!}
+
+//**リンク
+//-[[作者ブログ>>http://homingecho.blog84.fc2.com/blog-entry-85.html]]
+//-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/26/17/040010261789.html]]
+
+**コメント
+//- ヒーローごっこの歌詞はやくお願いします  -- madara  (2011-08-20 09:31:54)
+- とらのあな売り切れてる・・・再販はよ  -- 名無しさん  (2012-05-13 19:24:32)
+- どうしても欲しくて欲しくて、書き下ろし曲がききたいんです・・・・・  -- 良太  (2015-01-04 20:18:45)
+#comment

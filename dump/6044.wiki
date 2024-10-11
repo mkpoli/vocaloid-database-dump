@@ -1,0 +1,35 @@
+#right(){&furigana(あまかさP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/8902598" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/8902598">【ニコニコ動画】夜と雨傘とレトロな音楽と</a></iframe>)
+
+**特徴
+-レトロな雰囲気をまとった曲が特徴。
+-代表作に「[[時のオルゴール]]」。
+-巡音ルカ購入以前はUTAUの重音テトを使用した曲を投稿していた。
+-DTM暦自体はさらに遡り、ニコニコ以前は別名義（九郎→decoybirdと変更）でゲームBGMみたいなものを作成していた。
+-アーティスト名は&b(){rainyday}→&bold(){Café Rainbird}。
+-P名の読みは「あまがさP」なのか「アンブレラP」なのかで意見が分かれているっぽい。
+--ここでは一応前者でページ作成してある。逆にUTAU楽曲データベースでは[[後者>>https://w.atwiki.jp/utauuuta/pages/73.html]]になっている。
+
+**リンク
+-[[Café Rainbird（作者サイト）>>http://caferainbird.nobody.jp/]]
+-[[雨の日の音楽室（作者ブログ）>>http://rainyday-decoy.blog.so-net.ne.jp/]]
+-[[PIAPRO>>http://piapro.jp/decoybird]]
+-[[YouTube>>http://www.youtube.com/user/decoybird]]
+
+**曲
+#list_by_tag(雨傘P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(雨傘PCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/nm6069275)|&nicovideo(http://www.nicovideo.jp/watch/nm6595919)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm6904348)|&nicovideo(http://www.nicovideo.jp/watch/nm7601609)|
+
+**コメント
+- 正直、この人ってハイレベルなルカ使いだと思うんだ。  -- 名無しさん  (2009-09-22 04:08:59)
+- 上に同意。ルカの声と、雨傘ｐの作風は実によくマッチすると思う。  -- 名無しさん  (2010-01-04 14:14:10)
+- すき。  -- 名無しさん  (2011-03-23 17:22:16)
+- いい曲いっぱいあるのになんで伸びないんだろう？  -- 名無しさん  (2012-03-18 17:27:26)
+- たまに無性にこの人の曲が聴きたくなるときがある。ずっとファンです  -- 名無しさん  (2014-03-16 16:53:56)
+#comment()

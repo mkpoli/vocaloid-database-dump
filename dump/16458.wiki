@@ -1,0 +1,31 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/7080375" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/7080375">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-P名は&b(){え～よP}。
+-使用するVOCALOIDは初音ミク。
+-主な曲調はロック。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/dropD]]
+-[[作者ブログ>>http://a4drop.blog89.fc2.com/]]
+
+**曲
+#list_by_tag(A4,100,sort=furigana,errmsg=まだ曲が登録されていません)
+//**CD
+//#list_by_tag(A4CD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/nm3622833)|&nicovideo(http://www.nicovideo.jp/watch/sm3779873)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3813775)|&nicovideo(http://www.nicovideo.jp/watch/sm4070484)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4190981)|&nicovideo(http://www.nicovideo.jp/watch/sm4431698)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm6063073)|&nicovideo(http://www.nicovideo.jp/watch/sm6549185)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm8096634)|&nicovideo(http://www.nicovideo.jp/watch/sm9083578)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9087766)|&nicovideo(http://www.nicovideo.jp/watch/sm10191372)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm10585192)|&nicovideo(http://www.nicovideo.jp/watch/sm10959094)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm11919617)|&nicovideo(http://www.nicovideo.jp/watch/sm12235172)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12626834)|&nicovideo(http://www.nicovideo.jp/watch/sm13227651)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm13590945)|&nicovideo(http://www.nicovideo.jp/watch/sm14648803)|
+
+**コメント
+#comment()

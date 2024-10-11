@@ -1,0 +1,45 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1370_20131001195735_0280_0280.jpg)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm14669586)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[パラドックスガール>パラドックスガール/CD]]|CENTER:&bold(){Umbrella}|CENTER:[[Winters]]|
+
+|&bold(){[[ゆにP]]}|
+
+||CENTER:即売|CENTER:同人|CENTER:配信|
+|発売|>|CENTER:2011年6月12日|CENTER:2013年10月18日|
+|価格|CENTER:￥1,000|CENTER:￥1,350（税込）|CENTER:￥1,500 / 1曲￥150|
+|サークル|>|CENTER:ゆにけむ||
+
+**CD紹介
+-ゆにP with VOCALOID Full Album.
+-「[[インヴィジヴルコクピット]]」「[[Paradise Song]]」「[[Lost in the Fog]]」など、全10曲を収録。
+-イラストを [[ARiKEM]]氏 が、ミックス・マスタリングを 友達募集P が手掛ける。
+-THE VOC@LOiD M@STER 16（ボーマス16）にてリリース。ARiKEM氏 が同じスペースで20Pの画集を頒布。
+-とらのあなで委託販売が行われる。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++[[Umbrella>Umbrella/ゆにP]] （feat. 初音ミク）
++[[Invisible Cockpit>インヴィジヴルコクピット]] （feat. 歌愛ユキ）
++My Friend's Goodbyes （feat. 初音ミク）　&color(red){NEW!}
++[[Zombiedog]] （feat. 初音ミク）　&color(red){NEW!}
++SEKAI（inst.）　&color(red){NEW!}
++[[a Wonder of Aisya]] （feat. 歌愛ユキ）　&color(red){NEW!}
++[[Odd Eyed Kingdom]] （feat. 初音ミク）　&color(red){NEW!}
++[[Paradise Song]] （feat. 歌愛ユキ）
++Queueue bloomed in the underground Aug1844. （feat. 初音ミク）　&color(red){NEW!}
++[[Lost in the Fog]] （feat. 歌愛ユキ）
+
+**リンク
+-[[yuniyuno（作者ブログ）>>http://yuniyuno.under.jp/]]
+-[[告知ページ>>http://yuniyuno.under.jp/?page_id=254]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0020/01/39/040020013956.html]]
+-[[KARENT「Umbrella」>>http://karent.jp/album/1370]]
+
+**コメント
+- ボマス行けない…orz委託はされるだろうか？  -- 名無しさん  (2011-06-07 00:31:14)
+- さて・・・個人的ウケそうな2曲の公開はあるのだろうか  -- 名無しさん  (2011-08-23 23:00:28)
+#comment

@@ -1,0 +1,37 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm14472483)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[トゥインクル×トゥインクル]]|CENTER:&b(){EasyPop VOCALOID Tracks}|CENTER:[[ハートフルシーケンス>ハートフルシーケンス/CD]]|
+
+|&b(){[[Easy Pop]]}|
+
+流通：即売
+発売：2011年6月12日
+価格：￥1,000（税込）
+サークル：Happy Sweet Sequence
+
+**CD紹介
+-Easy Popの1stアルバム。全12曲収録。
+-THE VOC@LOID MASTER 16（ボーマス16）で初頒布。
+-委託予定はなし。
+
+**曲目
++[[失恋ディスコ]]　/　巡音ルカ
++[[サンライズ>サンライズ/Easy Pop]]　/　初音ミク
++[[リトルロマンス]]　/　巡音ルカ
++[[カントリーガール]]　/　初音ミク
++[[ダンスミュージックテクノロジー]]　/　巡音ルカ
++[[夏模様>ナツモヨウ]]　/　巡音ルカ
++[[Party Night>Party Night/Easy Pop]]　/　巡音ルカ
++[[My Darlin]]　/　初音ミク
++[[サマーナイトディスコティック]]　/　巡音ルカ
++[[ハリきれ！恋の体育祭！]]　/　初音ミク
++[[ナツモヨウ]]　/　初音ミク
++[[Kiss&Smile>Kiss & Smile]]　/　巡音ルカ
+
+**リンク
+-[[EasyPop BLOG>>http://blog.goo.ne.jp/easy_pop_betti]]
+
+**コメント
+#comment()

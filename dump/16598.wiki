@@ -1,0 +1,59 @@
+#right(){&furigana(BlueHorizon)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm14375440)|
+作詞：[[trapsister]]
+作曲：[[trapsister]]
+編曲：[[trapsister]]
+唄：[[初音ミク]]
+
+**曲紹介
+>&b(){～ 痛みは波紋で和らげる ～}
+曲名：『&u(){Blue Horizon}』(&u(){ぶるー　ほらいぞん})
+
+**歌詞
+（[[ピアプロ>>http://piapro.jp/t/lDlv]]より転載）
+
+彩（いろは）　ah あの虹の向こう側
+ah　重なり合う掌（てのひら）
+ah　月を航海
+
+漆黒の宙（そら）　銀河流星
+肩並べ　隣眠る
+
+抱きしめたい　その全てを
+未知の彼方　瞬き共に
+ブルー・ホライズン　迷いのないline
+I wish you sweet dreams 　　I wish you sweet dreams
+また明日も頑張ろう
+逢えるといいeveryday nights
+ah…spend beautiful life
+
+彩　ah あの谷の向こう側
+ah　温もりある息吹と
+ah　今宵の生命（いのち）
+
+澄んだ湖水は　遥か星雲
+進み出す　蓮のボート
+
+抱きしめたい　その全てを
+緑の中　煌き共に
+ブルー・ホライズン　高鳴るhope line
+I wish you sweet dreams　　I wish you sweet dreams
+また明日も笑顔で…
+晴れるといいeveryday mind
+ah…spend wonderful nights
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+**コメント
+- 綺麗でやわらかい歌だな…  -- 暇な名無し  (2011-06-21 20:53:25)
+#comment()
+
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)

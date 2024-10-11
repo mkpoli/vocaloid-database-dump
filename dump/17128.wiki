@@ -1,0 +1,36 @@
+#right(){&furigana(おとめP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/6604694" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/6604694">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-作風は主にロック。使用するVOCALOIDは初音ミク、鏡音リン、巡音ルカ。
+-2008年3月から活動していたが、同年6月発表の「sine invidia」で投稿休止。
+-約2年の歳月を経て投稿した「[[かくれおに]]」で初の殿堂入りを果たした。
+-2010年12月28日に28歳の若さで亡くなった。
+//乙女Pの曲がいくらか登録されているので、作者ページを作りました。
+//ご存知の方もいらっしゃるかと思いますが、乙女Pは2010年12月28日に急逝されました。
+//そのことについて、キセノンPは『twitterやblogなど、web上などに文章として残すことをご遠慮頂けると有難い』と仰っているので、
+//コメントアウトにするという形をとって、お伝えいたします。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/use_key]]
+-[[サークルHP>>http://xenon-maiden.com/]]
+
+**曲
+#list_by_tag(乙女P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(乙女PCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/nm2719367)|&nicovideo(http://www.nicovideo.jp/watch/sm2833044)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3363890)|&nicovideo(http://www.nicovideo.jp/watch/sm3511905)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3576906)|&nicovideo(http://www.nicovideo.jp/watch/sm10756357)|
+
+**コメント
+- かくれおに 大好きです。  -- 名無しさん  (2012-11-21 22:05:16)
+//- 乙女Ｐは随分前に亡くなった希ガス…編集？  -- ｏｒｚ  (2013-08-01 13:16:09)
+//- あの、乙女Ｐさんは、キセノンＰの独り言に書いてありましたが、ずいぶん前に急逝したらしいですよ  -- 名無しさん  (2013-08-19 04:06:56)
+//- 乙女Pさん亡くなってたんだなぁ……。  -- モカ  (2014-07-31 11:09:37)
+- もう11年……  -- 名無しさん  (2022-01-12 01:04:46)
+- いっしょう忘れません  -- VM  (2022-12-05 23:41:15)
+#comment()

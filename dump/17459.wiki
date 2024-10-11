@@ -1,0 +1,38 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#amazon(B005C3ME5E)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[YORUMIKU]]|CENTER:&b(){ASAMIKU}|CENTER:-|
+
+|&b(){[[IIG]]}|[[畳P（North-T）]]|[[ゆうゆ]]|[[ミク詐欺P（右近）]]|[[みよ]]|[[どぶウサギ]]|[[ムスカP]]|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|CENTER:2011年8月13日|CENTER:2011年8月17日|
+|価格|CENTER:￥1,000(税込)|CENTER:￥1,500(税込)|
+|サークル|>|CENTER:Studio IIG|
+
+**CD紹介
+-前作『[[YORUMIKU]]』から1年3ヶ月……ようやく起きたみたいです。
+-俺ミクメンバーにNorth-Tとゆうゆを加えた7名による、朝をテーマにしたコンピレーションアルバム。
+-コミックマーケット80で初頒布後、Amazonや同人ショップに委託される。
+
+**曲目
++朝のパパパヤ　/　North-T
++[[さよならレトロニューワールド]]　/　ゆうゆ
++犯人は僕　/　右近
++はじまりほっすてっぷ　/　みよ
++[[Panorama morning]]　/　Studio IIG
++おーはにゃふにゃへーにゃー　/　どぶウサギ
++[[グモニングモニン]]　/　狐夢想
+
+**リンク
+-[[CD特設サイト>>http://studioiig.com/discography/asmk/]]
+-委託頒布先
+--[[Amazon>>http://www.amazon.co.jp/dp/B005C3ME5E]]
+--[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0020/01/95/040020019585.html]]
+--[[めろんぶっくす>>http://shop.melonbooks.co.jp/shop/list/?DA=chgitemtype&G=&F=213001009345]]
+--[[あきばお～こく>>http://www.akibaoo.com/02/commodity_param/ctc/82030300/cmc/2500020194508/shc/0/]]
+--[[アリスブックス>>http://alice-books.com/item/show/489-2]]
+
+**コメント
+#comment()

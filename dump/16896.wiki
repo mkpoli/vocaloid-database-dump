@@ -1,0 +1,41 @@
+#right(){&furigana(MCIError)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/11147145" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/11147145">【ニコニコ動画】</a></iframe>)|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/21033866" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/21033866">【ニコニコ動画】</a></iframe>)|
+|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/30678284" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/30678284">【ニコニコ動画】</a></iframe>)|
+
+
+**特徴
+作り手名：『&u(){MCI_Error}』(&u(){えむしーあい えらー})
+-使用するVOCALOIDは初音ミク、ミクAppend、巡音ルカ、VY1、鏡音レン、IA。
+-ゆったりとした癒し系の曲を主に発表している。
+-他の公開曲とは趣の異なるロック曲「[[SKY>SKY/MCI_Error]]」も発表しているが、&br()普段通りの心地よさはありありと残っている。
+-傾向的にクラシックやブリティッシュプログレッシブロックを好んでいるようで&br()コンセプチュアルな組曲作品も見受けられる。
+**リンク
+-[[PIAPRO>>http://piapro.jp/MCI_Error]]
+-[[作者ブログ>>http://mcierror.axisz.jp/home/]]
+-[[Twitter>>http://twitter.com/mcierror]]
+
+**曲
+#list_by_tag(MCI_Error,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(MCI_ErrorCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/nm6204296)|&nicovideo(http://www.nicovideo.jp/watch/sm6781590)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7817505)|&nicovideo(http://www.nicovideo.jp/watch/sm7916461)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7995024)|&nicovideo(http://www.nicovideo.jp/watch/sm8967462)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9355948)|&nicovideo(http://www.nicovideo.jp/watch/sm9692977)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm10126205)|&nicovideo(http://www.nicovideo.jp/watch/sm10538625)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm10571568)|&nicovideo(http://www.nicovideo.jp/watch/sm11284123)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm11333419)|&nicovideo(http://www.nicovideo.jp/watch/sm11939622)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12044936)|&nicovideo(http://www.nicovideo.jp/watch/sm12063493)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12279370)|&nicovideo(http://www.nicovideo.jp/watch/sm12966996)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm13037060)|&nicovideo(http://www.nicovideo.jp/watch/sm13065657)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm16283846)|&nicovideo(http://www.nicovideo.jp/watch/sm16870531)|
+
+**コメント
+#comment()

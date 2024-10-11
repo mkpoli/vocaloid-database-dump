@@ -1,0 +1,39 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/757_20110614220834_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Loose n' Rouge]]|CENTER:&bold(){freesiafarm D.R.G.}|CENTER:[[恋のベーカロイド]]|
+
+|&bold(){[[G@POPO]]}|百華|
+
+||CENTER:即売|CENTER:配信|
+|発売|CENTER:2011年6月12日|CENTER:2011年6月29日|
+|価格|CENTER:￥500|CENTER:￥600 / 1曲￥150|
+|サークル|>|CENTER:Freesia Farm|
+|レーベル|-|CENTER:KarenT|
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/freesiafarm-d-r-g/id445802813]]}|
+
+**CD紹介
+-G@POPO氏の2ndCD。
+-THE VOC@LOiD M@STER 16（ボーマス16）にて頒布。
+-KarenTレーベルよりダウンロード販売が行われている。
+-ジャケットイラストは[[哩華>>http://piapro.jp/cyam_ry]]氏が担当。
+
+**クロスフェード
+&nicovideo(http://www.nicovideo.jp/watch/sm14603795)
+
+**曲目
++d.r.g. （feat. 初音ミク&百華）
++[[COCONUT BOMBER]] （feat. 鏡音リン）
++[[スケープゴート]] （feat. 初音ミク）
++G.P.P. -Yusuke mix- （feat. 初音ミク&鏡音リン&巡音ルカ）
++[[OTOMETIC★BEAT>オトメチック☆Beat!]] -Ichigo Milk mix- （feat. 初音ミク&鏡音リン）
+
+**リンク
+-[[作者サークルサイト>>http://www.freesiafarm.com/]]
+-[[作者ブログ>>http://gapopo.blog43.fc2.com/]]
+-[[KarenT：「freesiafarm D.R.G.」>>http://karent.jp/album/757]]
+
+**コメント
+#comment()

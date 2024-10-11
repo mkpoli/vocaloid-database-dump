@@ -1,0 +1,12 @@
+#right(){【登録タグ:&tags()】}
+//↑タグ忘れ防止のための表示
+曖昧さ回避のためのページ
+----
+-[[骨盤P]]のCD
+--[[aster/CD]]
+-[[Lemm]]の曲
+--[[ASTER/Lemm]]
+-[[Outer Ring]]の曲
+--[[Aster/Outer Ring]]
+
+#include(曖昧さ回避の追加の仕方/告知)

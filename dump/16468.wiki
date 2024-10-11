@@ -1,0 +1,30 @@
+#right(){&furigana(かてら)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/13285786" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/13285786">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-アーティスト名は&b(){rocks}。
+--P名の由来は「～がてら」という言い回しを多用していたことから。
+-使用するVOCALOIDは初音ミク、GUMI。
+-主な曲調はロック。
+
+**リンク
+-[[PIAPRO>>http://www.piapro.jp/Rocks]]
+-[[作者ブログ>>http://ameblo.jp/chikezou/]]
+-[[Twitter>>https://twitter.com/chikezou_TwT]]
+
+**曲
+#list_by_tag(がてらP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+//**CD
+//#list_by_tag(がてらPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/nm7477927)|&nicovideo(http://www.nicovideo.jp/watch/nm7625504)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm8006608)|&nicovideo(http://www.nicovideo.jp/watch/nm9574023)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm10445298)|&nicovideo(http://www.nicovideo.jp/watch/sm11449531)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm13029537)|&nicovideo(http://www.nicovideo.jp/watch/sm13182395)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm13452356)|&nicovideo(http://www.nicovideo.jp/watch/sm13555181)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm13826987)|&nicovideo(http://www.nicovideo.jp/watch/sm14580800)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm14594961)||
+
+**コメント
+#comment()

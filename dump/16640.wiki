@@ -1,0 +1,50 @@
+#right(){&furigana(Re)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+#amazon(B0052XT96G)
+
+&nicovideo(sm14623623)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[涙色アルバム]]|CENTER:&bold(){Re:}|CENTER:[[ノスタルジア>ノスタルジア/CD]]|
+
+|&bold(){[[フェイP]]}|[[リョータイ]]|Gigio|
+
+|流通|CENTER:即売|CENTER:配信|CENTER:委託|
+|発売|CENTER:2011年6月12日|CENTER:2011年6月15日|CENTER:2011年6月26日|
+|価格|CENTER:￥|CENTER:￥1,500 / 1曲￥150|CENTER:￥1,575（税込）|
+|サークル|CENTER:とめ壱|CENTER:-|CENTER:|
+
+|&bold(){[[iTunes Storeで購入する>>https://itunes.apple.com/jp/album/re/id442354818]]}|
+
+**CD紹介
+曲名：『&u(){Re:}』
+-フェイPの5枚目となるアルバム。
+-「晴春エスカレーター」「Amusement Panic」などのニコニコ動画公開作に加え、数多くの未公開新曲に過去曲のリテイクを含めた10曲入りでお届けします。
+-タイトルの「Re:」に隠された意味とは。
+-デザインは[[水奈]]氏が担当。
+-THE VOC@LOiD M@STER 16（ボーマス16）にて頒布。
+-委託販売はAmazonで行われる。KarenTレーベルよりダウンロード販売も行われている。
+
+**曲目
++Celebration （feat. 初音ミク）
++[[晴春エスカレーター]] （feat. メグッポイド）
++[[Amusement Panic]] （feat. 鏡音リン）
++イヴ （feat. 初音ミク）
++[[te-yut-te]] （feat. 鏡音リン）
++Journey （feat. 初音ミク）
++[[青い紙飛行機]] （feat. 鏡音リン）
++Alice-metic Love （feat. 鏡音リン）
++[[ビードロ]](Retake) （feat. 初音ミク）
++[[Souvenir>Souvenir/フェイP]] （feat. 初音ミク）
+
+**リンク
+//-[[アルバム特設サイト>>http://faye-chiara.com/]]
+-[[Amazon>>https://www.amazon.co.jp/dp/B0052XT96G/]]
+-[[KarenT：「Re:」>>https://karent.jp/album/733]]
+
+**コメント
+- Souvenirめっちゃ好きや。ピアノすごい綺麗  -- ﾄﾘｯﾋﾟｰ  (2012-12-30 02:13:23)
+#comment()

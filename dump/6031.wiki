@@ -1,0 +1,61 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+#image(http://debutante.main.jp/debutante4/banner_db4.jpg,width=468,height=90,title=DEBUTANTE Ⅳ,http://debutante.main.jp/debutante4/,blank)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[DEBUTANTE III]]|CENTER:&bold(){DEBUTANTE IV}|CENTER:[[DEBUTANTE V]]|
+
+|&bold(){k-shi}|[[iroha>iroha/作り手]]|[[OSTER project]]|[[ささくれP]]|[[DECO*27]]|qurter|[[ゆにめもP]]|
+|[[シグナルP]]|[[orange>orange/作り手]]|[[GAiA]]|[[cosMo（暴走P）]]|[[ゆうゆ]]|[[チーターガールP]]|[[40㍍P]]|
+|Sick|[[yanagiP]]|[[情熱P]]|[[畳P>畳P（North-T）]]|黒ねこ|[[DARS]]|[[Dixie Flatline]]|
+
+||CENTER:即売|CENTER:同人|
+|発売|>|CENTER:2009年8月15日|
+|価格|CENTER:￥1,500|CENTER:￥1,890（税込）|
+|サークル|>|CENTER:けしスタジオ|
+
+**CD紹介
+-超豪華有名P陣によるオムニバスアルバム『DEBUTANTE』シリーズ第4弾。
+-今回は豪華CD2枚組、参加P総勢19名、収録楽曲は全部で約87分という聴きごたえ充分なボリュームでお贈りします。
+-ジャケットイラストは[[憂]]氏が手掛けている。
+-2009/8/15に開催されるC76にて頒布された。
+-とらのあなにて委託販売が行われている。
+
+**収録曲
++[[Shirley!!]] / iroha(sasaki)
++[[@]] / OSTER project
++[[ナキムシピッポ]] / sasakure.UK
++[[心壊サミット]] / DECO*27
++[[生命のサーキュレータ]] / qurter
++[[ラ・ピュセル]] / Dios（シグナルP）
++化粧台のマリオネット / ゆにめもP
++[[ANTI THE∞HOLiC]] / Storyteller（cosMo@暴走P）
++[[天樂]] / ゆうゆ
+
++chrono compass / KTG（チーターガールP）
++Overrun / 40㍍P
++LOVE'S FLOWER / Sick
++[[DEADHEAD]] / yanagi
++[[天の笹舟]] / てとてと（情熱P）
++フツーメーカー / 畳
++mirage of butterfly / k-shi
++デフラグ / 黒ねこ
++[[トロイメライ>トロイメライ “誰もいないいつかのどこか”]] / DARS
++[[夢の続き>夢の続き/Dixie Flatline]] / Dixie Flatline
+
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/13799925" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/13799925">【ニコニコ動画】DEBUTANTE4</a></iframe>)
+ 
+**リンク
+-[[DEBUTANTE IV 特設サイト>>http://debutante.main.jp/debutante4/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/19/11/040010191152.html]]
+
+**コメント
+- yanagiさん新作か！ 動画版あげてほしいな  -- 名無しさん  (2009-07-29 08:11:03)
+- 相変わらず豪華すぎるぜ・・・。  -- 名無しさん  (2009-07-29 09:15:48)
+- 天樂にはまってしまった。。  -- 名無しさん  (2009-08-11 09:49:26)
+- 今日とらのあなで買ってきた+ 私的に心壊ｻﾐｯﾄとﾗ・ﾋﾟｭｾﾙと化粧台のﾏﾘｵﾈｯﾄにｽﾄﾗｲｸ来ましたb  -- 名無しさん  (2009-08-16 18:37:35)
+- もうとらにあんのか？  -- 名無しさん  (2009-08-16 20:23:01)
+- iroha氏はこっちの歌詞や曲調のが合ってる気がするなー  -- 名無しさん  (2009-08-22 19:41:36)
+- Shirley!!誰か歌詞と動画あげてくれないかな。  -- あんみのぅ  (2010-10-14 16:43:16)
+- ↑本人がネットに出してない作品を上げるのはアウトです  -- 名無しさん  (2011-01-09 23:39:34)
+- 全七枚は眩しい…!  -- テブ探偵  (2012-05-05 07:23:52)
+#comment

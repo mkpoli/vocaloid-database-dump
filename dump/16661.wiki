@@ -1,0 +1,36 @@
+#right(){&furigana(ぷらねたるーむ　あかねさす)&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/756_20110610041135_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[ディスコ・ファンタジカ / CLOUDY>ディスコ・ファンタジカ／CLOUDY]]|CENTER:&bold(){プラネタルーム / 茜射す}|CENTER:[[さよならサリンジャー>さよならサリンジャー/CD]]|
+
+|&bold(){[[曲者P]]}|&bold(){[[en>en/作り手]]}|
+
+|流通|CENTER:即売|CENTER:配信|
+|発売|CENTER:2011年6月12日|CENTER:2011年6月22日|
+|価格|CENTER:￥500|CENTER:￥600 / 1曲￥150|
+|サークル|CENTER:SWANTONE|CENTER:-|
+
+**CD紹介
+-曲者Pとenによる音楽ユニット「SWANTONE」の3rdCD。
+-年内頒布のオリジナル小説×ボカロCD企画『[[さよならサリンジャー>さよならサリンジャー/CD]]』より先行リリースされたEP。
+-THE VOC@LOiD M@STER 16（ボーマス16）にて頒布。
+-KarenTレーベルよりダウンロード販売が行われる。
+
+**クロスフェード動画
+&nicovideo(http://www.nicovideo.jp/watch/sm14598842)
+
+**曲目
++[[プラネタルーム]] / 曲者P feat. 初音ミク
++[[茜射す -Farewell to my Salinger->茜射す]] / en feat. 初音ミク
++Starlight Disco / en feat. 初音ミク
++She wants one / 曲者P feat. 初音ミク
++プラネタルーム -DUB MIX　　　※配信版には未収録
++茜射す -DUB MIX　　　※配信版には未収録
+
+**リンク
+-[[作者サイト>>http://www.ninjaguy.jp/swantone/]]
+-[[KarenT：「プラネタルーム / 茜射す」>>http://karent.jp/album/756]]
+
+**コメント
+#comment()

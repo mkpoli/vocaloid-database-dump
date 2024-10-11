@@ -1,0 +1,43 @@
+#right(){&furigana(よあけのじぇりーふぃっしゅ)&furigana()【登録タグ:&tags() 】}
+
+&ref(https://booth.pximg.net/21d86193-ed2a-4d41-9424-f0650c4b092e/i/59058/f2fae006-4ad0-4636-aef2-bcafd656dc2c_base_resized.jpg,x=300,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm14660973)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&b(){夜明けのジェリーフィッシュ}|CENTER:[[かくれんぼの路地裏で]]|
+
+|&b(){[[くらげP]]}|
+
+|流通|CENTER:即売|CENTER:同人|CENTER:配信|
+|発売|>|CENTER:2011年6月12日||
+|価格|CENTER:￥1,000(税込)|CENTER:￥1,500(税込)|CENTER:￥1,000（税込）|
+|サークル|>|CENTER:JerryFishProject||
+
+**CD紹介
+-&b(){くらげP}の1stアルバム。
+-ニコニコ動画に投稿された7曲と新作1曲にボーナストラックを含む全9曲を収録。
+-THE VOC@LOiD M@STER 16（ボーマス16）で初頒布。
+--その後とらのあなやメロンブックスで委託販売がされ、現在はBOOTHにてダウンロード販売が行われている。
+
+
+**曲目
++[[さいごのよるのきりん]]
++[[おわりのはじまり>おわりのはじまり/くらげP]]
++[[よるがくればまた]]
++おどれ　&color(red){New!}
++[[くらげ>くらげ/くらげP]]
++[[きみをわすれたい]]
++[[ゆきのふるうみで]]
++[[さよならはだれのせい]]
++[[パペットガール]] ELEPOP edition　/　original by [[カラスヤサボウ]] (Bonus Track)
+
+**リンク
+-[[くらげPのブログ>>http://electripper.blog.fc2.com/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0020/01/33/040020013346.html]]
+-[[メロンブックス>>http://shop.melonbooks.co.jp/shop/list/?G=&MF=electripper]]
+-[[BOOTH>>https://booth.pm/ja/items/59058]]
+
+**コメント
+- わあーすごいｂ  -- 瑠沙  (2011-09-21 15:32:19)
+#comment()

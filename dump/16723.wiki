@@ -1,0 +1,40 @@
+#right(){&furigana(ひみつのかがいじゅぎょう)&furigana()【登録タグ:&tags() 】}
+//&ref(http://img.toranoana.jp/popup_img/04/0020/01/40/040020014075-1p.jpg)
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186114305.jpg,x=300,y=300)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[VanaN'Ice]]|CENTER:&bold(){秘密の課外授業！}&br()[[Blue Rose>Blue Rose/CD]]|CENTER:[[LAST COLOR]]|
+//|&b(){[[とらのあなで購入する>>http://www.toranoana.jp/mailorder/article/04/0020/01/40/040020014075.html]]}|
+
+|&bold(){[[natsuP]]}|
+
+||CENTER:即売|CENTER:同人|
+|発売|>|CENTER:2011年6月12日|
+|価格|CENTER:￥500|CENTER:￥735（税込）|
+|サークル|>|CENTER:SEVEN COLOR LIGHT|
+
+**CD紹介
+-THE VOC@LOiD M@STER(ボーマス)16で頒布された、[[natsuP]]を中心とするSCL Projectのミニアルバム。
+-全ての女性ボカロがあなたの心を華やかに彩ります。
+-VanaN'Iceミニアルバム「[[Blue Rose>Blue Rose/CD]]」、ボカロイラスト集「Fleur*」と同時頒布された。
+-ニコ動で公開された「秘密の放課後」に加え書き下ろし曲「青空の放課後」を収録。&br()3番から先はボーナストラックとなっており、「SPIRAL GAME」と3曲のインスト版を収録。
+-委託販売は[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0020/01/40/040020014075.html]]にて。
+
+**曲目
++[[秘密の放課後]]
++青空の放課後 &color(red){NEW!!}
++[[SPIRAL GAME]]
++秘密の放課後(Inst)
++青空の放課後(Inst) &color(red){NEW!!}
++SPIRAL GAME(Inst)
+
+**リンク
+-[[作者ブログによる詳細告知>>http://musicnatsuvocaloid.blog25.fc2.com/blog-entry-174.html]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0020/01/40/040020014075.html]]
+
+**コメント
+- ジャケの水色の髪の子誰?  -- 名無しさん  (2011-06-20 00:01:16)
+- ↑ VY1のイメージじゃない?  -- 名無しさん  (2011-06-20 01:06:44)
+- 欲しい！でもおこづかいピンチなんだよなあ・・・（´д｀）  -- シェイル  (2011-08-23 15:41:21)
+#comment()

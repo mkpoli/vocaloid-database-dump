@@ -1,0 +1,43 @@
+#right(){&furigana(こもれびのまち) &furigana()【登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186129062.jpg,x=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm11380023)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[skip;drop]]|CENTER:&bold(){木漏れ日の街}|CENTER:[[畦道を行こう]]|
+
+|&bold(){[[BIRUGE>コモレビノーツ]]}|
+
+発売：2010年7月19日
+価格：￥1,000
+流通：即売
+サークル：けろけろぴあっぴー
+
+**CD紹介
+>『騒めく街が苦手な僕らは、ありふれた場所で一休み。』
+>
+>誰もが持っている懐かしい思い出を揺り動かすような、そんなアルバムになりました。
+>新譜だけでなく、旧譜のリメイクやリミックスも含み、爽やか、のんびり、ノスタルジック、昭和臭、そんな感じの全12曲。
+-BIRUGE氏の2枚目となるCDアルバム。
+-THE VOC@LOiD M@STER 13（ボーマス13）で頒布。
+
+**曲目
++木漏れ日の街
++[[シアワセマイゴ]] -Album MIX-
++[[skip;drop]]
++[[Nostalgic Rain]] -Luka Original ver.-
++EXIT LINE
++[[Promise of Love]]
++[[夕暮れと明日の唄 ～Graduation～>夕暮れと明日の唄]]
++[[畦道を行こう]]
++[[ソラゾラ]]
++[[大都会ラプソディ]]
++[[春色レトロ]] -Album MIX-
++[[夏華]] -Miku Original ver.-
+
+**リンク
+-[[Cookie（作者サイト）>>http://cookie.cosa-cosa.com/index.php]]
+
+**コメント
+#comment()

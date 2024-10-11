@@ -1,0 +1,47 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&amazon(B005HOPLD0)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm15328565)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Bell tone noise collector}|CENTER:-|
+
+|&bold(){[[ベルP]]}|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2011年9月4日||
+|価格|CENTER:￥1,000|CENTER:￥1,000（税込）|
+|サークル|>|CENTER:合言葉はべるるるる|
+
+**CD紹介
+-ベルPの最初で最後の1stアルバム。全17曲収録。
+-THE VOC@LOiD M@STER 17（ボーマス17）で初頒布。
+-Amazon、とらのあな、ニコニコ直販などで委託販売が行われる。
+-初回限定版にはベルPのデビュー曲「相思相愛」とNNIで好評を期した「琥珀」の初音ミクVerの2曲のプレゼントURLが記載されている。
+
+**曲目
++Birth of the aria (inst.)
++[[aria>aria/ベルP]]
++[[Go for it]]
++ヒカリ
++[[アルペジオ>アルペジオ/ベルP]]
++虹色
++[[合言葉]]
++[[雨色花火]]
++[[この一瞬]]
++Fuckin' in the Bitch (inst.)
++[[Under the Sun]]
++[[flow>flow/ベルP]]
++[[Over>Over/ベルP]]
++夏雪
++暁、暮れる空に
++[[さようなら>さようなら/ベルP]]
++(Secret Track)
+
+**リンク
+-[[作者のブログ>>http://ameblo.jp/xxxxxeinxxxxx/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0020/03/20/040020032014.html]]
+-[[Amazon>>http://www.amazon.co.jp/gp/product/B005HOPLD0/]]
+
+**コメント
+#comment()

@@ -1,0 +1,49 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+#image(http://blog-imgs-27.fc2.com/d/r/i/driveon2009/banner03.jpg,http://driveon2009.blog68.fc2.com/,title=Drive On,blank)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[UP in the Higher Skies]]|CENTER:&bold(){Drive on}|CENTER:-|
+
+|&bold(){[[orange>orange/作り手]]}|[[Clean Tears]]|[[T-ism]]|>|[[Dixie Flatline]]|[[harunacute]]|
+|[[HMOとかの中の人]]|[[samfree]]|[[SHIKI]]|[[うたたP]]|[[wintermute]]|[[ニカ]]|
+
+||CENTER:即売|CENTER:委託|
+|発売|>|CENTER:2009年8月15日|
+|価格|CENTER:￥1,000|CENTER:￥1,470（税込）|
+|サークル|>|CENTER:TEAM UHS|
+
+ジャケットイラスト：&b(){[[なぎみそ]]}
+マスタリング：&b(){[[Shibayan]]}
+
+**CD紹介
+-ドライブミュージックをテーマにしたコンセプトアルバム。
+-総勢9名のPによるオリジナル曲とリミックスを収録している。
+-ジャケットは[[なぎみそ]]が、マスタリングは[[Shibayan]]が担当。
+-とらのあな、メロンブックス、D-STAGE、Bumpy Recordsで委託販売が行われている。
+
+**クロスフェード動画
+&nicovideo(http://www.nicovideo.jp/watch/sm7911828)
+
+**曲目
++[[Rainbow>Rainbow/samfree]]　　作詞作曲編曲:SAM　&color(red){New!}
++[[ソラノシルシ]]　　作詞:樹元オリエ/田中舞、作曲編曲:HMOとかの中の人
++and with you　　作詞:emi/tokatoto、作曲編曲:SHIKI　&color(red){New!}
++花火　　作詞作曲編曲:ニカ　&color(red){New!}
++[[LEO>LEO/harunacute]]　　作詞:orange、作曲編曲:harunacute
++/ the black -Extended mix-　　 編曲:t.Komine
++[[D'z-K]]　作詞:T-ism、　作曲編曲:Clean Tears
++LEO -S-MIL-E-K MIX-　　編曲:Clean Tears　&color(red){New!}
++[[/ the black>／ the black]] -Radio edit-　　作詞:orange、作曲編曲t.komine　&color(red){New!}
++[[RAVEN>RAVEN/wintermute]]　　作詞:orange、作曲編曲:wintermute
++[[Ignition>Ignition/Dixie Flatline]]　　作詞作曲編曲:Dixie Flatline
+
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/13798759" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/13798759">【ニコニコ動画】Drive On収録曲</a></iframe>)
+
+**リンク
+-[[公式ページ>>http://driveon2009.blog68.fc2.com/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/18/89/040010188979.html]]
+-[[D-STAGE>>http://d-stage.com/shop/detail.php?seq=10172]]
+
+**コメント
+- 予約してきたぜ！  -- 名無しさん  (2009-08-13 18:55:31)
+#comment

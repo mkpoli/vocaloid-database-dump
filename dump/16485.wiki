@@ -1,0 +1,26 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/17715155" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/17715155">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-アーティスト名は&b(){西園寺 タナカ}。
+--P名の由来は、投稿者コメントの文を“○”で区切ることから。
+-使用するVOCALOIDは初音ミク、鏡音リン。作風は主にロック。
+-ピアプロコラボ「闇夜のファミレス」に参加している。作曲担当。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/camus__]]
+
+**曲
+#list_by_tag(○P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+//**CD
+//#list_by_tag(○PCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm9674461)|&nicovideo(http://www.nicovideo.jp/watch/sm9773588)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9843968)|&nicovideo(http://www.nicovideo.jp/watch/sm10058362)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm10440653)|&nicovideo(http://www.nicovideo.jp/watch/sm11773041)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm11853147)|&nicovideo(http://www.nicovideo.jp/watch/sm12251881)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm13491837)|&nicovideo(http://www.nicovideo.jp/watch/sm13707624)|
+
+**コメント
+#comment()

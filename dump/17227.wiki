@@ -1,0 +1,43 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#amazon(B004YACCIK)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm15117488)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){WORLD MUSIC COVERS}|CENTER:-|
+
+|&bold(){[[ABC Project]]}|[[MiracleCider]]|[[IKEDA]]|
+
+発売：2011年7月20日
+価格：￥2,000（税込）
+流通：全国
+レベール：ワーナーミュージック・ジャパン
+
+**CD紹介
+-世界的な名曲の数々を巡音ルカがカヴァーしたアルバム。
+-ボサノヴァ調にアレンジした洋楽のカヴァー10曲に加え、&br()ボーナストラックとしてMiracleCiderのオリジナル曲を2曲収録。
+-ジャケットイラスト等の3DCGは『[[Corruption Garden]]』のPVを制作したIKEDAによるもの。
+
+**曲目
++Hard To Say I'm Sorry（素直になれなくて）　／　original by シカゴ
++Time After Time（タイム・アフター・タイム）　／　original by シンディ・ローパー
++I7m Not In Love（アイム・ノット・イン・ラヴ）　／　original by 10cc
++Every Breath You Take（見つめていたい）　／　original by ポリス
++Somewhere Over The Rainbow（オーバー・ザ・レインボウ）　／　original by ジュディ・ガーランド
++Killing Me Softly With His Song（やさしく歌って）　／　original by ロバート・フラック
++Your Song（僕の歌は君の歌）　／　original by エルトン・ジョン
++My Heart Will Go On（マイ・ハート・ウィル・ゴー・オン）　／　original by セリーヌ・ディオン
++Hero（ヒーロー）　／　original by マライア・キャリー
++We're All Alone（ウィ・アー・オール・アローン）　／　original by ボズ・スキャッグス
++[[行かないで>行かないで/MiracleCider]] feat.初音ミク (BONUS TRACK)
++Moonlight Flash (BONUS TRACK)
+
+**リンク
+-[[特設サイト>>http://www.wmg.jp/megurineluka/]]
+-[[ワーナーミュージック・ジャパンのCD情報ページ>>http://wmg.jp/artist/abcprojectmegurineluka/WPCL000010968.html]]
+-[[Amazon>>http://www.amazon.co.jp/dp/B004YACCIK]]
+
+**コメント
+- これボカロに歌わせちゃダメだろ・・・  -- 名無しさん  (2011-07-15 15:58:45)
+- でも、CG すごすぎ・・・  -- 夜美  (2011-09-14 12:38:14)
+#comment()

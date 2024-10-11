@@ -1,0 +1,28 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/19041746" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/19041746">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-読み方は&b(){ニル・ゲルダ}。
+-2011年6月時点でニコニコ動画に投稿されたのは「[[ラセンナワタシ]]」のみである。&br()ミクAppend発売後、それほど間を置くことなく発表された曲であるが、&br()Appendの可能性を大いに感じさせる質の高さを誇る。
+--動画としてはその1曲のみであるが、PIAPROではミニアルバム形式で新曲を発表している。&br()「ラセンナワタシ」でファンになった人は是非DLすることをお薦めする。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/NiR_Gerda]]
+
+**曲
+#list_by_tag(NiR-Gerda,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(NiR-GerdaCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/nm10718308)|&nicovideo(http://www.nicovideo.jp/watch/nm18839180)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm18839201)|&nicovideo(sm29114032)|
+
+
+**コメント
+- ラセンナワタシを初めて聴いた時は本当に衝撃でした、ありがとうございます。  -- mizuki  (2011-07-01 00:08:06)
+- 神曲、首を長くして待ってます!!  -- 名無しさん  (2011-10-10 21:55:46)
+- ミニアルバム、ピアプロでDLさせてもらった。最高だった。  -- 名無しさん  (2012-08-14 01:32:52)
+- ブキヨウオトコとW,Flavorもよかった。  -- 名無しさん  (2013-03-11 00:41:21)
+#comment()

@@ -1,0 +1,52 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+#ref(http://img.toranoana.jp/img/04/0020/01/23/040020012328-1.gif,width=250,height=250)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm14658728)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Qusic}|CENTER:[[Qusic2]]|
+
+|&bold(){[[どなたかP]]}|sixnetret|[[164]]|[[ジラートP]]|[[くらP]]|[[カニミソP]]|
+|[[卑屈P]]|[[古墳P]]|[[longan]]|[[ミツバチP]]|[[KeaP]]|[[立秋]]|
+|[[あるごりずむ]]|[[クラフトP]]|[[ぼーらこいどP]]|[[オレジナルP]]|[[悠然]]||
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|CENTER:2011年6月12日|CENTER:2011年6月12日|
+|価格|CENTER:￥1,000|CENTER:￥1,575(税込)|
+|サークル|>|CENTER:TRUE SAND RECORD|
+
+**CD紹介
+>&bold(){九州はいいとこですよ！！皆観光に来てね！！}
+-九州（周辺）のボカロP・絵師・動画師・web師、総勢21人が集い贈る、九州コンピレーションアルバム。
+-15曲の収録曲が織り成す、多種多様なサウンドは聴きごたえ十分。
+-イラストは 手鞠氏 と eruri氏 。動画を mio氏 が、webデザインを tsukasa氏 が手掛ける。
+-THE VOC@LOiD M@STER 16（ボーマス16）にてリリース。
+-とらのあなで委託販売が行われていた。
+
+**曲目
++[[shiningray]]（Qusic ver.）　/　164
++Q　/　かにみそP
++[[君と城南線で]]　/　クラフトP
++[[downtown]]　/　ジラートP
++GUMK　/　ミツバチP
++[[水色]]　/　どなたかP
++[[郷愁サンバ]]　/　オレジナルP
++[[Sweet Logic]]　/　古墳P
++帰っておいで　/　くらP
++郷信　/　卑屈P
++[[Mr.Espace]]　/　RigeL@あるごりずむ
++拝啓memoRy　/　KeaP
++日が昇るまで　/　ぼーらこいどP
++ボクラノ行進曲　/　コトノハルカナ
++[[Horizon Air]]　/　悠然
+
+**リンク
+-[[公式HP>>http://qusic.crap.jp/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0020/01/23/040020012328.html]]
+
+**コメント
+- 164さん山口県民や・・・ｗ  -- 名無しさん  (2011-06-12 14:53:10)
+- 九州最高！って　何人か違う人いるしw  -- 名無しさん  (2012-10-12 14:58:33)
+- 再販希望です・・・。  -- 名無しさん  (2013-04-10 21:29:04)
+- 手に入れたいけど、どうすれば・・  -- 名無しさん  (2017-01-04 02:25:46)
+#comment

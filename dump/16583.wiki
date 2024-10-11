@@ -1,0 +1,46 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/719_20110516003334_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Spirit and Love>Spirit and Love/CD]]|CENTER:&bold(){Make up Love}|CENTER:[[Summer Bright>Summer Bright/CD]]|
+
+|&bold(){[[MineK]]}|
+
+|流通|CENTER:配信|CENTER:即売|CENTER:委託|
+|発売|CENTER:2011年6月1日|CENTER:2011年6月12日||
+|価格|CENTER:￥1,200 / 1曲￥150|CENTER:￥1,000|CENTER:￥1,470（税込）|
+|レーベル|CENTER:KarenT|CENTER:-|CENTER:-|
+|サークル|CENTER:-||CENTER:sukimono|
+|ジャケットイラスト|>|>|CENTER:ぜろきち|
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/make-up-love/id440643065]]}|
+
+**CD紹介
+-MineK氏のVOCALOIDアルバム。CDとしては2作目となる。
+-先にKarenTレーベルよりダウンロード販売が開始、その後CD版がTHE VOC@LOiD M@STER 16（ボーマス16）にて頒布。
+-とらのあなにて委託販売が行われる。
+-『[[Lovely Diva]]』のリメイク版と同時リリースとなる。
+
+**クロスフェード動画
+|&nicovideo(http://www.nicovideo.jp/watch/nm14622056)|&nicovideo(http://www.nicovideo.jp/watch/nm14621736)|
+
+**曲目
++恋なんて （feat. がくっぽいど）
++Yeah! GiRL （feat. MEIKO）
++[[Plastic Loser]] （feat. がくっぽいど）
++Live （feat. MEIKO）
++[[Make up Love]] （feat. がくっぽいど&MEIKO）
++[[音魂ノ調ベ]] （feat. がくっぽいど）
++[[幸せのかけら]] （feat. MEIKO）
++[[Upside Down>UpsideDown]] （feat. がくっぽいど）
++Absolute Area （feat. MEIKO）
++I Just Want Only U （feat. がくっぽいど&MEIKO）
+
+CD版には他にボーナストラック2曲が収録される。
+
+**リンク
+-[[KarenT：「Make up Love」>>http://karent.jp/album/719]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0020/01/33/040020013355.html]]
+
+**コメント
+#comment()

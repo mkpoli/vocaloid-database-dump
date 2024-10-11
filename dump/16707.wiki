@@ -1,0 +1,41 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#image(http://ccp.amalet.com/banner/banner02.png,http://ccp.amalet.com/,title=Color Complex,blank)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[楓 -ver.2.0>楓 -ver.2.0/CD]]|CENTER:&bold(){Color Complex}|CENTER:[[Artificial Rainbow]]|
+
+|&bold(){[[Clean Tears]]}|[[T-ism]]|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2010年12月31日||
+|価格|CENTER:￥1,000|CENTER:￥1,260（税込）|
+|サークル|>|CENTER:S.C.X|
+
+**CD紹介
+>いつかのカラー、いつかのメモリー、そうして集めた一つぶのハーモニー――――。
+-Clean Tears氏のVOCALOID楽曲のアレンジアルバム。
+-様々なシーンで活躍するコンポーザーの楽曲を、サウンドディレクターのClean Tearsが自身の得意分野であるクラブ系サウンドにアレンジしました！
+-アレンジだけではなく、書き下ろし未発表曲も収録。
+-アートディレクションをSayu STUDIOのゆずる氏、イラストをkeypot氏が手掛けている。アルバムに合わせ「アレンジ」をコンセプトにしている。
+-コミックマーケット79（C79）で頒布。とらのあな、アニメイトオンライン等で書店委託が行われている。
+
+**曲目
++Intro -Borderless of Color Complex- / Clean Tears
++[[Solesta!!!!>Solesta!]] -Tune the Summer Remix- / Clean Tears
++[[エレクトリック・ラブ]] -Luv electro Remix- / [[8#Prince>八王子P]]
++[[LEO>LEO/harunacute]] -Smelk2 Remix- / [[harunacute]]
++[[サジタリアス]] -Star Spangled Remix- / [[Shake Sphere>鮭P]]
++[[貴方に花を 私に唄を]] -Feelin' Wave Remix- / [[Re:nG]]
++[[Dreamscape>Dreamscape/Clean Tears]] / Clean Tears
++[[Music kick]] -M/U/S/I/C Remix- / [[恋竹林]]
++[[SPiCa]] -ReACT Trance Remix- / [[とくP]]
++いつも一緒に / Clean Tears
++Solesta!!!! (Extended) / Clean Tears
+
+**リンク
+-[[作者サイト>>http://scx-ct.net/]]
+-[[特設サイト>>http://ccp.amalet.com/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/25/38/040010253855.html]]
+
+**コメント
+#comment()

@@ -1,0 +1,23 @@
+#right(){&furigana(なんは)&furigana()【登録タグ:&tags() 】}
+//
+**特徴
+-2011年からニコニコにレベルの高い楽曲を投稿している。
+-使用VOCALOIDはGUMI。
+
+**リンク
+-[[ニコニコユーザーページ>>http://www.nicovideo.jp/user/13849732]]
+-[[PIAPRO>>http://piapro.jp/namba]]
+
+**曲
+#list_by_tag(なんば,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(なんばCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm13202575)|&nicovideo(http://www.nicovideo.jp/watch/sm13399709)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm13964341)|&nicovideo(http://www.nicovideo.jp/watch/sm14900402)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm15395942)||
+
+**コメント
+#comment()

@@ -1,0 +1,43 @@
+#right(){&furigana(hazyP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/5456978" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/5456978">【ニコニコ動画】___</a></iframe>)
+
+**特徴
+作り手名：『&u(){hazyP}』
+-Pとしては2007年10月から活動している古参P。
+-メタル調の楽曲を主に投稿している。
+-使用ボカロはミク・リンレン・ルカ。
+
+**リンク
+-[[ニコニコ動画>>https://www.nicovideo.jp/user/2269159]]
+-[[ピアプロ>>https://piapro.jp/hazy]]
+-&s(){[[にゃっぽん>>http://v-nyappon.net/?m=pc&a=page_f_home&target_c_member_id=6276]]}
+
+**曲
+#list_by_tagsearch(hazyP,sort=furigana2,errmsg=まだ曲が登録されていません。,and,100)
+
+**CD
+#list_by_tagsearch(hazyPCD,sort=furigana2,errmsg=まだCDが登録されていません。,and,100)
+
+**動画
+|&nicovideo(sm1219279)|&nicovideo(sm1431355)|
+|&nicovideo(sm2531413)|&nicovideo(sm2951716)|
+|&nicovideo(sm3817637)|&nicovideo(sm4481481)|
+|&nicovideo(sm5671647)|&nicovideo(sm5671967)|
+|&nicovideo(sm6230352)|&nicovideo(sm7498231)|
+
+**関連タグ内の更新履歴
+#region(close,関連タグ内の更新履歴)
+関連タグ内の更新履歴
+※「hazyP」「hazyPCD」タグ内で最近編集やコメントのあった記事を新しい方から10件表示しています。
+#list_by_tagsearch(hazyP,hazyPCD,sort=timestamp,sort2=desc,errmsg=まだ曲、CDが登録されていません。,or,10)
+#endregion
+
+**コメント
+- 一番すごいのは、ミクでカデラルを再現させた事だろう。ゆえに、人間だと歌える人が限られてしまうわけでｗ  -- 名無しさん  (2010-04-19 07:48:32)
+- ↑はげど。死人さん凄いよ  -- 名無しさん  (2010-04-20 19:03:06)
+- 今では、ホリゾンさんやDEATH姫など実力派も歌うようになりました。  -- 名無しさん  (2010-12-31 17:51:01)
+#comment()

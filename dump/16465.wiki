@@ -1,0 +1,55 @@
+#right(){&furigana(BRBRP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(https://www.nicovideo.jp/mylist/18964219)
+
+**特徴
+作り手名：『&u(){BRBRP}』（&u(){ぶりぶりぴー}）
+-アーティスト名は&b(){nuts rock}。
+-投稿初期はテクノポップ系の曲が多かったが、最近はロックも増えてきた。
+
+**リンク
+-[[PIAPRO>>https://piapro.jp/minutethe]]
+-[[Twitter>>https://twitter.com/nuts_rock]]
+
+**曲
+#list_by_tagsearch(BRBRP,sort=furigana2,errmsg=まだ曲が登録されていません。,and,100)
+
+**CD
+#list_by_tagsearch(BRBRPCD,sort=furigana2,errmsg=まだCDが登録されていません。,and,100)
+
+**動画
+|&nicovideo(nm10626233)|&nicovideo(nm10730566)|
+|&nicovideo(nm10846243)|&nicovideo(nm11054209)|
+|&nicovideo(sm11674390)|&nicovideo(sm12375878)|
+|&nicovideo(sm12559061)|&nicovideo(sm12719307)|
+|&nicovideo(sm13950383)|&nicovideo(sm14475008)|
+|&nicovideo(sm14979079)|&nicovideo(sm15316212)|
+|&nicovideo(sm16161463)|&nicovideo(sm17569138)|
+|&nicovideo(sm17622546)|&nicovideo(sm25425573)|
+
+&b(){Remix}
+|&nicovideo(sm10901871)|&nicovideo(sm11314009)|
+|&nicovideo(sm11584260)|&nicovideo(sm12012554)|
+|&nicovideo(sm12423600)|&nicovideo(sm12937910)|
+
+**関連タグ内の更新履歴
+#region(close,関連タグ内の更新履歴)
+関連タグ内の更新履歴
+※「BRBRP」「BRBRPCD」タグ内で最近編集やコメントのあった記事を新しい方から10件表示しています。
+#list_by_tagsearch(BRBRP,BRBRPCD,sort=timestamp,sort2=desc,errmsg=まだ曲、CDが登録されていません。,or,10)
+#endregion
+
+**コメント
+- かっこいい曲ばかり激アツだわ！  -- メラ  (2011-08-28 14:44:36)
+- もっと伸びろ  -- 名無しさん  (2012-01-17 22:58:11)
+- BRBRPさんの曲はどれも素敵だなぁ。好きなPさんです  -- 昆布  (2012-03-19 00:51:28)
+- ドミノが好きです！  -- 雪乃  (2012-05-23 17:46:08)
+- サティスファクションとノスタルジーがものすごく好き  -- 名無しさん  (2013-09-16 00:43:01)
+- いつまで経っても、ドミノは大好き(*´ω｀*)  -- 名無しさん  (2013-10-20 23:34:40)
+- 無限ノスタルジーは最高だと思う  -- 名無しさん  (2014-08-07 23:01:42)
+- 新曲、何だかんだでずーっと待ってる!!  -- なな名無し  (2015-02-07 21:09:10)
+- Fizz?が上がってない…？  -- 名無しさん  (2017-11-22 03:14:36)
+#comment()

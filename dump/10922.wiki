@@ -1,0 +1,30 @@
+#right(){&furigana(ねぎさまBravo) &furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/439_20100623232613_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[We are POP☆CANDY!>We are POP☆CANDY!/CD]]|CENTER:&bold(){ネギさま！Bravo☆}|CENTER:[[恋のEXPRESS TRAIN]]|
+
+|&bold(){[[Runo]]}|
+
+発売：2010年7月7日
+価格：￥150
+流通：配信
+レーベル：KarenT
+ジャケットイラスト：[[eku>>http://piapro.jp/wakaeku]]
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/id379575293]]}|
+
+**CD紹介
+-リリースは『[[We are POP☆CANDY!>We are POP☆CANDY!/CD]]』以来となるRuno氏の配信シングル。
+-Runo氏が楽曲を提供しているご当地アイドルNegiccoの曲のミクバージョン。
+-KarenTの「夏の唄'10」企画で配信された作品の1つ。
+
+**曲目
++ネギさま！Bravo （feat. 初音ミク）
+
+**リンク
+-[[KarenT：「ネギさま！Bravo☆」>>http://karent.jp/album/439]]
+-[[KarenT：「夏の唄'10」特集ページ>>http://karent.jp/special/summer10]]
+
+**コメント
+#comment()

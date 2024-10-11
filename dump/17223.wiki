@@ -1,0 +1,39 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+//#image(http://xion.art-studio.cc/_src/sc1279/littlesign80_400banar.jpg,http://xion.art-studio.cc/,title=Little Sign,blank)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[ライカ>ライカ/彩音P]]|CENTER:&bold(){Little Sign}|CENTER:[[REM -レム-]]|
+
+|&bold(){[[彩音P]]}|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|CENTER:2009年12月31日|CENTER:|
+|価格|CENTER:￥1,000|CENTER:￥1,365（税込）|
+|サークル|>|CENTER:彩音 ～xi-on～|
+
+**CD紹介
+-彩音PのボーカロイドCD第3弾。通算では4作目（CDでの前作『[[ライカ>ライカ/CD]]』は2.5弾のため）。
+-「[[ライカ>ライカ/彩音P]]」以降に発表した楽曲と未発表曲2曲を含むオリジナルミニアルバム。
+-コミックマーケット77（C77）で初頒布。とらのあな、D-STAGE、ホワイトキャンバスなどで委託販売が行われている。
+
+**曲目
++[[ライカ>ライカ/彩音P]]
++[[リトルサイン>リトルサイン/彩音P]]
++[[ケセラセラ>ケセラセラ/彩音P]]　　&font(red){NEW!!}
++メールボックス　　&font(red){NEW!!}
++[[Message>Message/彩音P]]
++[[青空の下で>青空の下で/彩音P]]
++ありがとうのうた　　&font(red){NEW!!}
++ライカ（カラオケ）
++リトルサイン（カラオケ）
++ケセラセラ（カラオケ）
++メールボックス（カラオケ）
++Message（カラオケ）
++青空の下で（カラオケ）
++ありがとうのうた（カラオケ）
+
+**リンク
+-[[作者サイト>>http://xion.art-studio.cc/]]
+
+**コメント
+#comment()

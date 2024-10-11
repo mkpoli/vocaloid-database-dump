@@ -1,0 +1,30 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/717_20110508205511_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Snow Quartz>Snow Quartz/CD]]|CENTER:&bold(){Harmony Esmeralda}|CENTER:[[Aspida]]|
+
+|&bold(){[[SeikoP]]}|
+
+||CENTER:即売|CENTER:配信|
+|発売|CENTER:2011年5月1日|CENTER:2011年5月25日|
+|価格|CENTER:￥300|CENTER:￥300 / 1曲￥150|
+|サークル|>|CENTER:Peridot Foresta|
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/harmony-esmeralda-single/id438389362]]}|
+
+**紹介
+-SeikoPの3曲入りシングルCD。
+-M3-2011春にて頒布。その後KarenTレーベルよりダウンロード販売が開始された。
+
+**曲目
++Wonderous Ring     
++Jikan to Inori (waterflow mix)     
++[[Asteria]] （feat. 巡音ルカ） 
+
+**リンク
+-[[作者ブログ>>http://sei-peri.seesaa.net/]]
+-[[KarenT：「Harmony Esmeralda」>>http://karent.jp/album/717]]
+
+**コメント
+#comment()

@@ -1,0 +1,39 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/762_20110620120109_0240_0240.jpg)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm14808883)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Distance to the sky>Distance to the sky/CD]]|CENTER:&bold(){Four seasons}|CENTER:[[Doomsday]]|
+
+|&bold(){[[ROY]]}|[[神楽美咲]]|Ciel|Syo|
+
+||CENTER:同人|CENTER:配信|
+|発売|CENTER:2011年6月25日|CENTER:2011年7月6日|
+|価格|CENTER:￥630（税込）|CENTER:￥600 / 1曲￥150|
+|サークル|CENTER:ROY|CENTER:-|
+|レーベル|CENTER:-|CENTER:KarenT|
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/four-seasons/id447523230]]}|
+
+**CD紹介
+-ROYによる2ndミニアルバム。
+-各季節をイメージした楽曲をそれぞれ初音ミク、巡音ルカ、がくっぽいど、メグッポイドの4つのVOCALOIDの歌唱で収録している。
+-ジャケットイラストは[[都>>http://piapro.jp/miyakozl]]氏。
+-歌ってみたアルバム『Scream of the soul Ⅱ』と同時リリース。
+-とらのあな・アニメイトで委託販売が行われている。KarenTレーベルよりダウンロード販売も行われている。
+
+**曲目
++[[Ocean wind]] （feat. がくっぽいど）
++[[枯葉舞う季節]] （feat. 巡音ルカ）
++[[White missing]] （feat. 初音ミク）
++[[Cherry blossom]] （feat. メグッポイド&がくっぽいど）
+
+**リンク
+-[[作者ブログ>>http://roymetalnasu.blog23.fc2.com/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0020/01/38/040020013812.html]]
+-[[アニメイト>>http://www.animate-onlineshop.jp/pn/%E3%80%90%E5%90%8C%E4%BA%BACD%E3%80%91ROY/Four+seasons/pd/1071634/]]
+-[[KarenT：「Four seasons」>>http://karent.jp/album/762]]
+
+**コメント
+#comment

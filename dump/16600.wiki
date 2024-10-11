@@ -1,0 +1,32 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/8118266" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/8118266">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-デビュー作は「prismatic score」。
+-作曲面では他の作詞家の歌詞に曲をつけるか、作詞家に作詞を依頼するというのが主なスタイル。
+-使用ボカロはミク・リンレン・ユキ・いろは。
+-他にもノイズム氏と「mi-mu」というユニットで活動していたりもする。No-H氏は作曲・編曲を担当している。
+
+**リンク
+-[[ピアプロ>>http://piapro.jp/stay1974]]
+
+**曲
+#list_by_tag(No-H,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(No-HCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+***ソロ活動（再生数が多い順に6つ）
+|&nicovideo(http://www.nicovideo.jp/watch/sm11421618)|&nicovideo(http://www.nicovideo.jp/watch/sm12625512)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm11893974)|&nicovideo(http://www.nicovideo.jp/watch/sm10612587)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm15920104)|&nicovideo(http://www.nicovideo.jp/watch/sm13655940)|
+***mi-mu名義
+|&nicovideo(http://www.nicovideo.jp/watch/sm9290852)|&nicovideo(http://www.nicovideo.jp/watch/sm11275810)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12910250)|&nicovideo(http://www.nicovideo.jp/watch/sm13795670)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm15162064)|&nicovideo(http://www.nicovideo.jp/watch/sm16538430)|
+
+**コメント
+- どの曲も大好きです  -- にっかり青江  (2015-07-22 13:23:42)
+- この人の音を聴いていると安心します。ほっとするというか。懐かしい感じがします。  -- かりん  (2015-11-02 05:13:27)
+#comment()

@@ -1,0 +1,21 @@
+#right(){&furigana(えきせんとりっくP)&furigana()【登録タグ:&tags() 】}
+//&nicovideo_mylist()
+
+**特徴
+-P名の由来は「[[エキセントリック少年KAITO>>http://www.nicovideo.jp/watch/sm1618247]]」から。
+-使用するVOCALOIDはKAITO。
+-やさしく穏やかな曲を作る。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/koni]]
+
+**曲
+#list_by_tag(エキセントリックP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+//**CD
+//#list_by_tag(エキセントリックPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm2175318)|&nicovideo(http://www.nicovideo.jp/watch/sm3618835)|
+
+**コメント
+#comment()

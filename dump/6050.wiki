@@ -1,0 +1,30 @@
+#right(){&furigana(べーこんP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/7709226" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/7709226">【ニコニコ動画】ニコニコ動画じゃ「ベーコンP」と呼ばれたの。</a></iframe>)
+
+**特徴
+-P名の由来は「カリカリ☆ベーコン」から。
+-他にもリンレンやルカを使用したポップソングを投稿する。
+-アーティスト名は&b(){snowkuouks}
+
+**リンク
+-[[snowkuouks日報（作者ブログ）>>http://d.hatena.ne.jp/snowkuouks/]]
+-[[snowkuouks音日報（ボイスブログ）>>http://www.voiceblog.jp/snowkuouks/]]
+-[[ピアプロ>>http://piapro.jp/synonymous]]
+
+**曲
+#list_by_tag(ベーコンP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(ベーコンPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画（再生数・マイリスト数が多いものを6つ）
+|&nicovideo(http://www.nicovideo.jp/watch/sm10182182)|&nicovideo(http://www.nicovideo.jp/watch/sm10014984)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4891802)|&nicovideo(http://www.nicovideo.jp/watch/sm10072642)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6281743)|&nicovideo(http://www.nicovideo.jp/watch/sm7755682)|
+
+**コメント
+- 追加してくれた人ありがとう！待ってた！！  -- 名無しさん  (2009-08-01 19:49:48)
+- 良い曲 結構多いような・・・  -- 名無しさん  (2009-08-10 18:28:23)
+- 神  -- 名無しさん  (2009-09-09 21:15:22)
+- 最近ベーコンPさんの曲聴くようになったのですが、いい曲多いですね。もっと聴かれてもいい気が・・  -- 名無しさん  (2010-02-27 05:27:28)
+#comment()

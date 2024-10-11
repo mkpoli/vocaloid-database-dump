@@ -1,0 +1,34 @@
+#right(){&furigana(ふゆうがーる　たんじょうびばん)&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/746_20110601165708_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[フユウガール]]|CENTER:&bold(){フユウガール（誕生日盤）}|CENTER:-|
+
+|&bold(){[[acane_madder]]}|
+
+発売：2011年6月24日
+価格：￥300 / ￥150
+流通：配信
+レーベル：KarenT
+ジャケットイラスト：夏
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/id444655512]]}|
+
+**CD紹介
+-acane_maddar氏の配信EP。
+-アルバム『[[フユウガール]]』から3曲をチョイスした、誕生日記念盤。
+-KarenTレーベルの、メグッポイド発売2周年記念企画で配信された作品の1つ。
+
+**曲目
++フユウガール （feat. メグッポイド）
++[[月と風船]] （feat. メグッポイド）
++ダークブルー （feat. メグッポイド）
+
+**リンク
+-[[作者サイト>>http://acanemadder.tumblr.com/]]
+-[[KarenT：「フユウガール（誕生日盤）」>>http://karent.jp/album/746]]
+-[[メグッポイド2周年記念祭>>http://karent.jp/special/megpoid11]]
+-[[Amazon>>https://www.amazon.co.jp/フユウガール（誕生日盤）-acane_madder/dp/B0058153YE]]
+
+**コメント
+#comment()

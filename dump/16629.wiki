@@ -1,0 +1,49 @@
+#right(){&furigana(おまつりさわぎ)&furigana()【登録タグ:&tags() 】}
+#image(http://www.polyphonicbranch.com/omatsuri_logo/omatsuri500100.jpg,http://www.polyphonicbranch.com/omatsuri.htm,title=御祭騒ぎ,blank)
+
+#amazon(B0053AUAF2)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[太陽と月のロンド]]|CENTER:&bold(){御祭騒ぎ}|CENTER:[[裸の月光]]|
+
+|&bold(){[[PolyphonicBranch]]}|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2011年6月12日|CENTER:2011年6月22日|
+|価格|CENTER:￥1,000|CENTER:￥1,470（税込）|
+|サークル|>|CENTER:PolyphonicBranch|
+
+**CD紹介
+>狂気に満ち満ちて、さあさあ、宴のはじまり　はじまり。
+-『PolyphonicBranch』がお届けするボーカロイドCD第6弾は、「和」ロックアルバム。
+-『Identity+』収録の「とおりゃんせ」のミク版を含む、ミク・GUMIを使用した7曲に、ボーナストラックとしてamu氏とASK氏による「裸の月光」の歌ってみたを収録した計8曲構成。
+-ジャケットはBUZZ氏が手掛けている。
+-THE VOC@LOiD M@STER 16（ボーマス16）にて頒布。
+-委託販売が、amazon、アニメイト、とらのあな、メロンブックス、D-STAGE、あきばおーこく、ホワイトキャンバスで行われる。
+
+**クロスフェード動画
+&nicovideo(http://www.nicovideo.jp/watch/sm14687517)
+
+**曲目
++サーチライト行進曲 feat. 初音ミク
++五月雨マシンガン feat. GUMI
++[[百年夜行]] feat. 初音ミク
++祭囃子 feat. GUMI
++[[ガラクタ少女]] feat. 初音ミク
++籠女 feat. GUMI
++とおりゃんせ feat. 初音ミク
++[[裸の月光]] feat. amu・ASK
+
+**リンク
+-[[作者HP>>http://www.polyphonicbranch.com/]]
+-[[特設ページ>>http://www.polyphonicbranch.com/omatsuri.htm]]
+-[[Amazon>>http://www.amazon.co.jp/dp/B0053AUAF2/]]
+
+**コメント
+- 五月雨マシンガン！  -- 征真＠金爆ギャ  (2013-02-12 19:46:08)
+- 五月雨マシンガン〜！  -- 名無しさん  (2013-04-06 14:41:02)
+//- 何で歌詞がないんだ……(泣  -- 名無しさん  (2013-04-06 14:41:42)
+//- 五月雨マシンガン！！何故歌詞がないんだぁぁぁぁぁっっっ…  -- とにゃ  (2013-09-14 08:23:39)
+//- 五月雨マシンガンの歌詞がなぜ無いぃぃ…（泣）  -- みぁ  (2013-09-24 21:37:17)
+- 良作が多いので当たりでした。こりゃツボるわ。  -- 蜘蛛のファンです。  (2018-09-01 11:26:16)
+#comment()

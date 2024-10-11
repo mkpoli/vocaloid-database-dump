@@ -1,0 +1,40 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#image(http://xion.art-studio.cc/_src/sc1400/REM_400_80.jpg,http://xion.art-studio.cc/,title=REM -レム-,blank)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Little Sign]]|CENTER:&bold(){REM -レム-}|CENTER:[[Re-collect]]|
+
+|&bold(){[[彩音P]]}|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|>|CENTER:2011年6月12日|
+|価格|CENTER:￥1,000|CENTER:￥1,365（税込）|
+|サークル|>|CENTER:彩音 ～xi-on～|
+
+**CD紹介
+-彩音PのボーカロイドCD第4弾。
+-およそ1年半ぶりとなる、Vocaloid作品集です。ニコニコなどに発表した楽曲は全てMixを再調整いたしました。今回初めて鏡音リンも使ってみました！
+-ジャケットイラストは k2pudding 氏。
+-THE VOC@LOiD M@STER 16（ボーマス16）で初頒布。とらのあな、D-STAGE、アニメイトなどで委託販売が行われている。
+
+**曲目
++[[Trajectory>Trajectory/彩音P]]
++[[ハジマリノヒ]]
++[[ささいなこと>ささいなこと/彩音P]]
++[[My Darling]]
++[[サラリーマンのうた]] 2011
++とある軍師に捧ぐ詩
++REM
++Trajectory（カラオケ）
++ハジマリノヒ（カラオケ）
++ささいなこと（カラオケ）
++My Darling（カラオケ）
++サラリーマンのうた 2011（カラオケ）
++とある軍師に捧ぐ詩（カラオケ）
++REM（カラオケ）
+
+**リンク
+-[[作者サイト>>http://xion.art-studio.cc/]]
+
+**コメント
+#comment()

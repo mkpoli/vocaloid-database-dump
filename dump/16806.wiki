@@ -1,0 +1,45 @@
+#right(){&furigana(ぶれいく)&furigana()【登録タグ:&tags()】}
+&nicovideo(http://www.nicovideo.jp/watch/nm7847015)
+作詞：[[BA-7600N]]
+作曲：[[BA-7600N]]
+編曲：[[BA-7600N]]
+唄：神威がくぽ・巡音ルカ
+
+**曲紹介
+-今作は、かなり大人っぽい曲です。
+
+**歌詞
+（&color(purple){紫＝がくぽ}、&color(magenta){マゼンタ＝ルカ}、黒＝二人）
+
+&color(purple){ストレートな夜に翔け出す　嫌いなはずのバイクで}
+&color(purple){一瞬　止めたテールが　優しいライン　描くぜ}
+&color(magenta){ブルーなハートは乱れる　あいつの逝ったあの夜に}
+&color(magenta){涙受けてくれた　優しい腕　恋しい}
+
+&color(purple){いつでも探してた}　&color(magenta){楽しいスリル}　&color(purple){背中合わせのランナウェイ}
+二人の中のメモリースター　&ruby(じゅうく){19歳}の春　&color(purple){ブレイク}
+
+&color(purple){今夜ノイズで語ろう　星になったあいつと}
+悩める愛にサヨナラ　&color(purple){雨に踊る　あの日のように}
+
+&color(purple){誰かれ恋しくなる　静かに刻むワインディングロード}
+&color(purple){一人でブルース}　二人でバラード　&color(purple){あの頃のビート　聞こえない}
+
+&color(purple){今でも閉じた瞳に映る奴のイエスタディ}
+得られぬ夢にサヨナラ　&color(purple){雨に消えたあの日から}
+
+&color(magenta){一途と言えば嘘になるけど…　I near you　You stare me　そこから}
+
+&color(purple){ストレートな夜に}　&color(magenta){ストレートな夜に}　&color(purple){う～翔け出す}
+&color(purple){このまま}　&color(magenta){このまま}　&color(purple){ハンパな}　&color(magenta){ハンパな}　&color(purple){気持ちじゃ収まらないぜ}
+&color(magenta){ブルーなハートは}　&color(purple){ブルーなハートは}　&color(magenta){あ～乱れる}
+&color(magenta){このまま}　&color(purple){このまま}　&color(magenta){ハンパな}　&color(purple){ハンパな}　&color(magenta){気持ちじゃ愛さないで}
+
+&color(magenta){I near}　&color(purple){near you　そこから}　&color(magenta){You stare}　&color(purple){stare me}　&color(magenta){そこから}
+
+&color(purple){そこから始めよう　その前に過去へのピリオド}
+&color(purple){誰にも見えない寄り添う　影が3つ　ミステリー}
+サヨナラ　&color(purple){静かに眠る夜は…　ビューティフル}
+
+**コメント
+#comment()

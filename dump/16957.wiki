@@ -1,0 +1,17 @@
+#right(){&furigana(clear)&furigana()【登録タグ:&tags()】}
+|&nicovideo(http://www.nicovideo.jp/watch/sm12966996)|
+作詞：[[MCI_Error]]
+作曲：[[MCI_Error]]
+唄：初音ミク
+
+**歌詞
+（[[ピアプロ>>http://piapro.jp/t/Fhb7]]より転載）
+
+傷ついたその心　癒すために今はお休み
+街も海も草も月も星もみんな息を潜める
+その目を閉じたとききっと見えるよ
+君のすぐそばにボクはいつも居るから
+
+
+**コメント
+#comment()

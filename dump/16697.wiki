@@ -1,0 +1,80 @@
+#right(){&furigana(EndlessBattle)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo(http://www.nicovideo.jp/watch/sm11194540)
+作詞：[[habanero]]
+作曲：[[habanero]]
+編曲：[[habanero]]
+イラスト：[[豆柴]]（[[piapro>>https://piapro.jp/t/LeQG]]）
+唄：[[初音ミク]]
+
+**曲紹介
+>&bold(){糞曲ですみませんが、聴いていただけたら幸いです。}
+曲名：『&u(){Endless Battle}』(&u(){エンドレス バトル})
+-habanero氏のボカロデビュー曲。
+
+**歌詞
+いつもと変わらぬ街の中　張り詰める空気
+突然に襲い来る　苦痛
+人混みを駆け抜け　いざ決戦の舞台へ
+武器も持たず　ただひたすら目指す
+
+何処から湧いて出た　おぞましき悪魔
+私を体内から　蝕んでいく
+激痛が私を&ruby(さいな){苛}む　孤独な戦い
+あと何度繰り返せば　解き放たれるの
+（３・２・１　go fight!）
+
+Endless Battle
+今を生きる誰もが　孤独に繰り広げる&ruby(ドラマ){惨劇}
+Endless Battle
+死ぬまで繰り返す　終わりなき悪夢
+
+今戦いの&ruby(サウンド){轟音}が鳴り響く
+
+&ruby(は){這}いつくばることもできない　&ruby(とざ){遮蔽}された空間
+汗を滲ませ　痛みに耐える
+傷ついた私は　虚ろに手を伸ばして
+カミにさえ　祈りを捧げる
+
+&ruby(ひと){他人}は私の呻き声を見て見ぬ振りをする
+切なく悲しい　人の世の&ruby(マナー){不文律}
+長らく息を潜めて　力を溜めたそれは
+あまりに強大で　張り裂けそうになる
+（Round ２ go fight!）
+
+Endless Battle
+この戦いは&ruby(ひと){人間}に　与えられた根源的本能
+Endless Battle
+戦場まで至れず果てた　戦士もいたね…
+
+また戦いの&ruby(サウンド){轟音}が鳴り響く
+
+（もう…この苦しみには…耐えられない…）
+（誰か…誰か私を…助けて…）
+
+目には涙を浮かべて　折れそうな心を
+必死に繋ぎ止めて
+この危機を越えられるのは 私しかいないから
+だから拳を握り締めもう一度戦う！いざ勝負！
+
+（Round ３ go fight!）
+（Get ready for a fight!）
+
+Endless Battle
+やがてそれは姿を現し　朽ち果て土へと還る
+Endless Battle
+悲鳴を上げ闇へと　飲み込まれていく
+
+今決着の&ruby(サウンド){清音}が鳴り響く
+
+そして戦いは幕を閉じる
+究極の安らぎが訪れる
+Ah… feel like I’m in heaven…
+Fu… feel like I’m in heaven… heaven…heaven!
+
+
+**コメント
+#comment()

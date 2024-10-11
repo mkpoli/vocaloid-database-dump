@@ -1,0 +1,34 @@
+#right(){&furigana(clear)&furigana()【登録タグ:&tags()】}
+&nicovideo(http://www.nicovideo.jp/watch/sm13639878)
+作詞：[[夜鳴夜叉]]
+作曲：[[夜鳴夜叉]]
+編曲：[[夜鳴夜叉]]
+唄：GUMI
+
+**曲紹介
+&bold(){この手が抑えつけられてしまう}
+-VOCALOID作品としては約４ヶ月ぶりの作品。
+-後にアルバム『A World Of Impulse』収録された。
+
+**歌詞
+（[[PIAPRO>>http://piapro.jp/t/YvdF]]より転載）
+
+Die
+
+I want pain
+Find the truth
+I want pain
+
+この手がこの手が
+抑えつけられてしまう
+この腕がこの腕が
+苦しめる
+
+ああ
+
+I want pain
+Find the truth
+I want pain
+
+**コメント
+#comment()

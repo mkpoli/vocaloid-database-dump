@@ -1,0 +1,37 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm14621495)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[徒夢]]&br()[[アストロ]]|CENTER:&bold(){Verbleib}|CENTER:-|
+
+|&bold(){[[←P]]}|[[市蔵]]|highG|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2011年6月12日|CENTER:2011年6月|
+|価格|CENTER:￥1,000|CENTER:￥1,500（税込）|
+|サークル|CENTER:骨盤マークの矢印良品|CENTER:矢印良品|
+
+**CD紹介
+-←Pの2ndアルバム。
+-新曲に、コンピレーションCDの『[[Try!]]』収録の「花が散る頃に」、『[[EXIT TUNES PRESENTS Supernova 5]]』収録の「クドリャフカ」、『[[Sequence]]』収録の「S-mail」、市蔵氏による「宇宙ラジオ」のリミックスなどが収録された全8曲構成。
+-THE VOC@LOiD M@STER 16（ボーマス16）で頒布。
+-とらのあなで委託販売が行われている。
+
+**曲目
++Verbleib
++[[フロウフロウ]]
++[[クドリャフカ>クドリャフカ/←P]]
++花が散る頃に
++[[S-mail]]
++[[Christmas prayer]] lyrics by highG
++[[Burial At the Sea]]
++[[宇宙ラジオ]] Remix by [[市蔵]]
+
+…と、ふわふわずしん的な何か
+
+**リンク
+-[[作者ブログ>>http://amane69.blog23.fc2.com/]]
+-[[とらのあな>>http://www.toranoana.jp/bl/cit/pagekit/0000/00/04/000000045949/index.html]]
+
+**コメント
+#comment()

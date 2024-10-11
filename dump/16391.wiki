@@ -1,0 +1,38 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[どういうことなの！？>どういうことなの！？/CD]]|CENTER:&b(){KUCHIBA CD}|CENTER:[[私の世界>私の世界/くちばしP]]|
+
+|&b(){[[くちばしP]]}|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|>|CENTER:2011年6月12日|
+|価格|CENTER:￥1,000(税込)|CENTER:￥1,470(税込)|
+|サークル|CENTER:キャットルミューティレーション|CENTER:線形ネコ型システム|
+
+**CD紹介
+-くちばしPの歴史を総覧できそうなアルバム。全11曲収録。
+-ラストに収録されている「[[私の世界>私の世界/くちばしP]]」は、名曲「[[私の時間]]」の歌詞を変えた リメイクver.
+-THE VOC@LOiD M@STER 16（ボーマス16）で初頒布。とらのあな専売で委託もされている。
+
+**曲目
++[[ALYSS]]　&color(red){New!}
++[[すてねこっと]]
++[[ナイトメア☆パーティーナイト]]
++となりのカミサマ
++[[HEAVENS OF DARKNESS]]
++[[どういうことなの！？]]
++[[恋愛部活動記録]]
++雪晴れ
++[[Sr. Wonderland]]
++[[マッシュルーム戦争]]
++[[私の世界>私の世界/くちばしP]]　&color(red){New!}
+
+**リンク
+-[[CD特設ページ>>http://pokoneko.haru.gs/vm16/]]
+-[[世は混沌へと帰す（くちばしPのブログ）>>http://linearsystem.blog.shinobi.jp/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0020/01/31/040020013187.html]]
+
+**コメント
+- ＡＬＹＳＳいい曲ですよね！  -- るる  (2012-05-26 20:39:33)
+#comment()

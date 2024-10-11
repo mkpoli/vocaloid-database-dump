@@ -1,0 +1,33 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm13102316)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){White&Blue}|CENTER:-|
+
+|[[MineK]]|[[U-ji]]|[[パターサン]]|[[k.m.r]]|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2010年12月31日||
+|価格|CENTER:|CENTER:￥1,050（税込）|
+|サークル|>|CENTER:sukimono|
+
+**CD紹介
+-クラブイベントや創作活動、オフ会、アーティスト活動などを支援、主催し、人々に輪と表現の力を促す　カルチャー ディテクティブ サークル SUKIMONOのコンピレーションCD。
+-VOCALOIDのクラブサウンドをコンセプトにしている。
+-ジャケットイラストははるよ氏。
+-2010年冬のコミケ（C79）で頒布。とらのあなとD-STAGEにて委託販売が行われている。
+
+**曲目
++White&Blue / MineK feat. 初音ミク
++[[恋のリザーブシート]] / U-ji a.k.a 霊長類P feat. メグッポイド
++[[Christmas Night with Me]] / Minek feat. MEIKO
++WORDS & SONG (MADEViCE remix) / パターサン feat. 重音テト
++White&Blue k.m.r remix / k.m.r feat. 初音ミク
+
+**リンク
+-[[SUKIMONOブログ>>http://sukimono-info.jugem.jp/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/25/42/040010254253.html]]
+-[[D-STAGE>>http://d-stage.com/shop/detail.php?seq=19021]]
+
+**コメント
+#comment()

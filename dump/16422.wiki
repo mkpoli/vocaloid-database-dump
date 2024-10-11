@@ -1,0 +1,45 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/734_20110530174149_0240_0240.jpg)
+&nicovideo(http://www.nicovideo.jp/watch/sm14629801)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[COLORS>COLORS/ナタPCD]]|CENTER:&bold(){Forest}|CENTER:-|
+
+|&bold(){[[ナタP]]}|
+
+||CENTER:即売|CENTER:同人|CENTER:配信|
+|発売|>|CENTER:2011年6月12日|CENTER:2011年6月15日|
+|価格|CENTER:￥1,000|CENTER:￥1,500（税込）|CENTER:￥1,200 / ￥150|
+|サークル|>|>|CENTER:NATARIE IN THE DREAM|
+
+>作詞・作曲：&b(){[[ナタP]]}
+>ジャケットイラスト：&b(){[[kura>>http://www.pixiv.net/member.php?id=56712]]}
+>ジャケットデザイン：&b(){[[SHINN>>http://www.techno-sublime.com/]]}
+
+**CD紹介
+-鏡音リンレンAppend sweet/seriousを使用した、ナタP5枚目のアルバム。
+-[[スペシャルサイト>>http://natarieinthedream.com/forest/]]では、収録曲の歌詞を見ることができる。
+-THE VOC@LOiD M@STER 16（ボーマス16）にて頒布。
+-とらのあなでの委託の他、2011年6月15日よりKarenTでの配信も行われている。
+
+**曲目
++[[Forest]]
++[[Hatsukoi]]
++Echo
++Lakeside
++[[Fete>フエト]]
++Flowerstep
++[[Passage>Passage/ナタP]]
++Planetarium
++[[Sun]]
++Rest
+
+**リンク
+-[[作者blog>>http://natarieinthedream.com/]]
+-[[『Forest』スペシャルサイト>>http://natarieinthedream.com/forest/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0020/01/27/040020012712.html]]
+-[[KarenT>>http://karent.jp/album/734]]
+
+**コメント
+- 純粋に美しい。リン & レンがこんなにも伸びやかに歌ってるなんて！  -- 名無しさん  (2011-07-30 02:48:34)
+#comment()

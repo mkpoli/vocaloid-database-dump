@@ -1,0 +1,30 @@
+#right(){&furigana(あえりあ)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/20941564" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/20941564">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-メタル系楽曲やVOCALEAMOを製作している。
+-使用するVOCALOIDは初音ミクと巡音ルカ。
+-巡音ルカソロだと英語詞にすることが多い。
+-[[般若心経メタルコア>http://www.nicovideo.jp/watch/sm12012701]]でボカロPデビュー。何故それをカバーした。
+
+**リンク
+-[[ユーザーページ>>http://www.nicovideo.jp/user/1662207]]
+-[[Myspace>>http://www.myspace.com/aeriagloris]]
+-[[Facebook>>https://www.facebook.com/pages/AERIA-GLORIS/238208282883357]]
+-[[Twitter>>http://twitter.com/aeriaglorisjp]]
+-[[Pixiv>>http://www.pixiv.net/member.php?id=2678472]]
+-[[にゃっぽん！>>http://v-nyappon.net/?m=pc&a=page_f_home&target_c_member_id=12813]]
+
+**曲
+#list_by_tag(あえりあ,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(あえりあCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm12012701)|&nicovideo(http://www.nicovideo.jp/watch/sm12108994)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm13443192)|&nicovideo(http://www.nicovideo.jp/watch/sm14669786)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm14717794)||
+
+**コメント
+#comment()

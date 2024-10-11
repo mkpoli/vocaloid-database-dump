@@ -1,0 +1,46 @@
+#right(){&furigana(さくらいろD-i-s-k) &furigana()【登録タグ:&tags() 】}
+//#image(http://www.die8.name/celo-project/image/masa002/ba/masa002.gif,http://www.die8.name/celo-project/masa002.html,title=桜色D-i-s-k,blank)
+
+#amazon(B004QO97I2)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm13911400)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Astronaut]]|CENTER:&bold(){桜色D-i-s-k}|CENTER:[[BLUE VISION]]|
+
+|&bold(){[[あルカP]]}|
+
+||CENTER:即売|CENTER:同人|
+|発売|CENTER:2011年3月27日|| 
+|価格|CENTER:￥1,000|CENTER:￥1,260（税込）&br()￥1,500（税込・Amazon）| 
+|サークル|>|CENTER:Celo Project|
+
+**CD紹介
+-あルカP2作目となるボーカロイドCD。
+-「あなたの桜が咲く頃に」や「テレパシー」など清々しい曲、そしてブレイクしたあの曲の新アレンジなど色んな想いが詰まった一枚が春風と共に登場!!どうぞご堪能ください。
+-ジャケットイラストは『[[大空色D-i-s-k]]』に引き続き、りくかんな氏が担当している。
+-VOC@LOiD PARADISE 5（ボーパラ5）にて初頒布される。
+-D-STAGE、とらのあな、メロンブックス、ホワイトキャンバス、Amazonで委託販売が行われている。
+
+**曲目
++[[あなたの桜が咲く頃に]] / 巡音ルカ
++[[PLATON BELL]] / 巡音ルカ
++[[Tweet]] / miki・がくっぽいど
++[[Rule]] / 初音ミク
++[[Walking my way]] / 巡音ルカ・がくっぽいど・ミィミ
++[[HISTORY]] / 初音ミクDark・Solid
++[[大空色のHi-To-Mi]]-Spring MIX- / 巡音ルカ
++[[EVOLUTION]] / 鏡音リンレンPower
++おつきさま / メグッポイド
++[[BLUE HOLYGROUND]] / メグッポイド
++[[テレパシー>テレパシー/あルカP]] / メグッポイド・がくっぽいど
++あなたの桜が咲くころに（Piano solo）
+
+　※ ミィミ ＝ ミク、ミキ、グミのこと
+
+**リンク
+-[[作者ブログ>>http://masatoshi60.blog11.fc2.com/]]
+-[[特設サイト>>http://www.die8.name/celo-project/masa002.html]]
+
+**コメント
+#comment()

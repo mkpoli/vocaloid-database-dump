@@ -1,0 +1,27 @@
+#right(){&furigana(HaruPことりん)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/5871540" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/5871540">【ニコニコ動画】オリジナル曲</a></iframe>)
+
+**特徴
+-&bold(){HaruP@ごとりん}
+-SONAR8使い。
+-作曲歴は長く、自宅に大量の機材があったりする。
+-ミクを手に入れて中断していた作曲を再開した。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/gogo5010]]
+-[[ブログ>>http://gotorin.blog76.fc2.com/]]
+
+**曲
+#list_by_tag(HaruP,100,sort=furigana)
+
+**CD
+#list_by_tag(HaruPCD,100,sort=furigana)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm2818236)|&nicovideo(http://www.nicovideo.jp/watch/sm3152198)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3932943)|&nicovideo(http://www.nicovideo.jp/watch/sm5386477)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm8101550)|&nicovideo(http://www.nicovideo.jp/watch/sm14143732)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm15850138)|
+
+**コメント
+#comment()

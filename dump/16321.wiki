@@ -1,0 +1,42 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm14595554)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[アイノヨロコビ>アイノヨロコビ/CD]]|CENTER:&bold(){Miracle Child}|CENTER:[[TOKIO FUNKA E.P.]]|
+
+|&bold(){[[takamatt]]}|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2011年6月12日|CENTER:2011年6月|
+|価格|CENTER:￥1,000|CENTER:￥1,500|
+|サークル|>|CENTER:Irie Moments|
+
+**CD紹介
+-takamatt氏 待望の 1st album 。
+-自身最大のヒットとなった「[[Just a game]]」や、「[[アイノヨロコビ]]」「[[ひとつだけ>ひとつだけ/takamatt]]」「[[Mr.Wonder]]」など全11曲を収録。
+-ジャケットイラストを 富岡二郎氏 が、デザインを みけぽち氏 が、マスタリングを [[かごめP]] が手掛ける。
+-THE VOC@LOiD M@STER 16（ボーマス16）にてリリース。
+-メロンブックス、D-STAGE、とらのあなで委託販売が行われている。
+
+**曲目
++Introduction（Instrumental）
++[[Just a game]]
++[[ひとつだけ>ひとつだけ/takamatt]]
++[[Life is beautiful]]
++D.N.U interlude（Instrumental）
++[[アイノヨロコビ]]
++Miracle Child
++[[Mr.Wonder]]
++[[Secret Conversation]]
++[[Etude No.3]]
++[[Jewel Box]]
+
+**リンク
+-[[たかまっとさんって誰ですか？（作者ブログ）>>http://ameblo.jp/takamatt/]]
+-[[メロンブックス>>http://shop.melonbooks.co.jp/shop/sp_213001009177_iriem_mchild.php]]
+-[[D-STAGE>>http://d-stage.com/shop/detail.php?seq=21475]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0020/01/45/040020014532.html]]
+
+**コメント
+- 絶対買います！  -- kassy  (2011-06-05 22:18:45)
+#comment()

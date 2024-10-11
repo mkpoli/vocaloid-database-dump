@@ -1,0 +1,39 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm14630736)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[7days]]|CENTER:&bold(){emonloid2}|CENTER:[[LANA]]|
+
+|&bold(){[[emon（Tes.）]]}|[[八王子P]]|[[Easy Pop]]|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2011年6月12日||
+|価格|CENTER:￥1,000|CENTER:￥1,470（税込）|
+|サークル|>|CENTER:emonloid|
+
+**CD紹介
+-音楽グループ「Tes.」所属の emon氏 の 2ndアルバム。
+-「[[High End City>HighEndCity]]」「[[静電気。]]」など、全10曲を収録。
+-Easy Pop氏 と 八王子P による remix 、 向日葵氏 ・ びびあん氏 ・ てん氏 の歌ってみたも収録されている。
+-イラストは まーみむ氏 が手掛ける。
+-THE VOC@LOiD M@STER 16（ボーマス16）にてリリース。
+-当日、 八王子P の新譜 『[[×××× the ripper]]』 と同時購入した人には特典付き。
+
+**曲目
++[[Milky way>milky way/emon（Tes.）]]
++[[LANA]]
++Lie　&bold(){&color(red){NEW!!}}
++[[High End City>HighEndCity]]
++[[ESQUIRE]]
++[[静電気。]]
++[[ジュリエッタとロミヲ]]- 8#Prince（八王子P） ReMix
++[[High End City>HighEndCity]] - EasyPop Remix
++[[Heart Beats feat. 向日葵>>http://www.nicovideo.jp/watch/sm13680622]]
++[[静電気。 feat. びびてん>>http://www.nicovideo.jp/watch/sm14612641]]
+
+**リンク
+-[[特設ページ>>http://emonloid.web.fc2.com/]]
+-[[メロンブックス>>http://shop.melonbooks.co.jp/shop/sp_213001009095_emonloid_emo2.php]]
+
+**コメント
+#comment()

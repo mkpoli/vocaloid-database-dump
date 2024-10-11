@@ -1,0 +1,12 @@
+#right(){【登録タグ:&tags()】}
+//↑タグ忘れ防止のための表示
+曖昧さ回避のためのページ
+----
+-[[YUKISON]]の曲
+--[[Our Song/YUKISON]]
+-[[レフティーモンスターP]]の曲
+--[[Our Song/レフティーモンスターP]]
+-[[Wonder-K]]の曲
+--[[Our Song/Wonder-K]]
+
+#include(曖昧さ回避の追加の仕方/告知)

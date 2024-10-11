@@ -1,0 +1,32 @@
+#right(){&furigana(ひなにげ)&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/744_20110601094608_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){雛逃げ}|CENTER:-|
+
+|&bold(){[[はんにゃG]]}|
+
+発売：2011年6月24日
+価格：￥300 / 1曲￥150
+流通：配信
+レーベル：KarenT
+ジャケットイラスト：[[はんにゃG]]
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/id444657115]]}|
+
+**CD紹介
+-はんにゃGの配信EP。
+-和鬼畜百合曲"雛逃げ"と、ピコピコラブソング"Goodnight, my love bit."の二本立て。
+-KarenTレーベルの、メグッポイド発売2周年記念企画で配信された作品の1つ。
+
+**曲目
++[[雛逃げ]] （feat. 初音ミク VS メグッポイド）
++[[Goodnight, my love bit.]] （feat. GUMI）
+
+**リンク
+-[[作者ブログ>>http://2525hannya.blog44.fc2.com/]]
+-[[KarenT：「雛逃げ」>>http://karent.jp/album/744]]
+-[[KarenT：「メグッポイド2周年記念祭」特集ページ>>http://karent.jp/special/megpoid11]]
+
+**コメント
+#comment()

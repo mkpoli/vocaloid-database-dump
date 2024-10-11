@@ -1,0 +1,31 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/743_20110601005046_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Rainbow Connection / obbligato -オブリガート->Rainbow Connection／obbligato -オブリガート-]]|CENTER:&bold(){sequence of love / もうそこにはない恋のうた}|CENTER:[[紅茶と甘さと好きの分量]]|
+
+|&bold(){[[オレジナルP]]}|[[とみー]]|[[toya]]|
+
+発売：2011年6月24日
+価格：￥300 / 1曲￥150
+流通：配信
+レーベル：KarenT
+ジャケットイラスト：[[ほのか>>http://piapro.jp/pandatype]]
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/id444658393]]}|
+
+**CD紹介
+-雨の歌と晴れの歌を収録したオレジナルPの配信EP。
+-天候や感情を音で表現すること、GUMIの声に似合うメロディを作ること、この二つを念頭において曲作りをしました。
+-KarenTレーベルの、メグッポイド発売2周年記念企画で配信された作品の1つ。
+
+**曲目
++[[sequence of love]] （feat. メグッポイド）
++[[もうそこにはない恋のうた]] （feat. メグッポイド）
+
+**リンク
+-[[KarenT：「sequence of love / もうそこにはない恋のうた」>>http://karent.jp/album/743]]
+-[[メグッポイド2周年記念祭>>http://karent.jp/special/megpoid11]]
+
+**コメント
+#comment()

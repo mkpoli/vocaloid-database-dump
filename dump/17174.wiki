@@ -1,0 +1,46 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/20587087" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/20587087">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-「[[傷心ライダー]]」でデビューしたP。
+-「[[ルサンチマンの海に抱かれて]]」からいろは曲を主に投稿するようになった。
+-「[[幾望の月]]」で自身初のミリオンを達成した。
+
+**ミリオン達成状況
+|CENTER:&bold(){曲名}|CENTER:&bold(){100万再生}|CENTER:&bold(){備考}|
+|[[幾望の月]]|2020年1月25日||
+
+**リンク
+-[[nakyam Labo.（サイト）>>http://www.nakyamurya.com/]]
+-[[ピアプロ>>http://piapro.jp/AS200SJ]]
+-[[Twitter>>http://twitter.com/nakyamurya]]
+-[[Youtube>>http://www.youtube.com/user/nakyamuryanico]]
+
+**曲
+#list_by_tag(なきゃむりゃ,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(なきゃむりゃCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm10924152)|&nicovideo(http://www.nicovideo.jp/watch/sm12044805)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12044860)|&nicovideo(http://www.nicovideo.jp/watch/sm12465951)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm13262591)|&nicovideo(http://www.nicovideo.jp/watch/sm14074857)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm14639759)|&nicovideo(http://www.nicovideo.jp/watch/sm14935259)|
+|&nicovideo(sm15619142)|&nicovideo(sm17655083)|
+|&nicovideo(sm19354577)|&nicovideo(sm19992682)|
+|&nicovideo(sm20361943)|&nicovideo(sm23355582)|
+|&nicovideo(sm26414593)|&nicovideo(sm31288232)|
+|&nicovideo(sm31682647)|&nicovideo(sm32456971)|
+|&nicovideo(sm32944193)|&nicovideo(sm33897675)|
+|&nicovideo(sm36979948)|&nicovideo(sm36980113)|
+//|&nicovideo()|&nicovideo()|
+
+**コメント
+- この人の曲凄い好きだ…  -- 名無しさん  (2011-07-20 11:07:58)
+- 晴れ晴れノートのいろはかわいい  -- 名無しさん  (2011-12-21 10:11:09)
+- 久々のアルバムかと思ったらコラボ…MarBleとか傷心ライダーとかのギターがボカロで聞けると思ったのに。  -- 名無しさん  (2014-12-25 01:13:09)
+- 「傷心ライダー」「孤独のパラノイア」「ルサンチマンの海に抱かれて」etc.…。良い曲しか作れない。  -- 名無しさん  (2017-04-24 17:00:54)
+- トラワレ世界のページ誰か作ってけろ……  -- 名無しさん  (2019-02-04 00:13:50)
+- なきゃむりゃ様の曲ほんと好き  -- なりあさ  (2021-05-05 17:19:51)
+#comment()

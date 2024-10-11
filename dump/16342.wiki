@@ -1,0 +1,54 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm14599649)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){SOCIAL PARANOIA}|CENTER:[[FUZZY DECRESCENDO>FUZZY DECRESCENDO/CD]]|
+
+|&bold(){[[L-tone]]}|
+
+発売：2011年6月12日
+価格：￥500(税込)
+流通：即売
+サークル：L-tone
+
+**CD紹介
+-L-toneの1stアルバム。
+-二枚組CD、24曲入500円。うち、4曲はCDのための書き下ろし。
+-これまでにニコニコ動画に上げた曲20曲＋CDのみ4曲の合計24曲収録。
+-THE VOC@LOID M@STER 16(ボーマス16)で頒布された。
+-通販も開始。仮HPにて受付中。現在は委託。
+
+**曲目
+***DISC 1
++star tone　/　feat.鏡音リン･レン　&color(red){New!!}
++[[チェイン・トリガー]]　/　feat.鏡音レンAppend
++[[秒針シグナル]]　/　feat.鏡音リンAppend
++[[４５>45/L-tone]]　/　feat.鏡音リン
++[[ソーシャルパラノイア]]　/　feat.鏡音リンAppend
++[[Irrationality>厨二ing]]　/　feat.鏡音リン
++[[シンクロニシティ]]　/　feat.鏡音リン
++[[くたばれ悲劇の１４歳]]　/　feat.鏡音リン
++[[宛先のない人形]]　/　feat.Lily
++[[灰色ジョーカー]]　/　feat.鏡音レンAppend
++[[ドラッグラックショーケース]]　/　feat.鏡音リン
++[[神様に終止符を]]　/　feat.鏡音レンAppend
+***DISC 2
++[[epilogue>Epilogue/L-tone]]　/　feat.鏡音リンAppend
++[[摩天楼]]　/　feat.鏡音レンAppend
++[[空想レイテンシー]]　/　feat.鏡音リンAppend
++崩れ落ちる庭　/　feat.鏡音リンAppend　&color(red){New!!}
++閉じた世界　/　feat.鏡音レンAppend　&color(red){New!!}
++砕け散る先に　/　feat.鏡音リン･レンAppend　&color(red){New!!}
++Fragments　/　feat.鏡音レンAppend
++[[白く濁った夢とモノクロノイズ]]　/　feat.鏡音リンAppend
++[[texture]]　/　feat.鏡音リンAppend
++[[cry-cry>cry - cry]]　/　feat.鏡音リンAppend
++[[DRUG RACK SHOWCASE - Drug lack Ver.->ドラッグラックショーケース]]　/　feat.鏡音リンAppend
++[[色彩モノクローム]]　/　feat.鏡音リン
+
+**リンク
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/05/57/040030055749.html]]
+-デモの[[別ver.>>http://twaud.io/r15y]]
+
+**コメント
+#comment()

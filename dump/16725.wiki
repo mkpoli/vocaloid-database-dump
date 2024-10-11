@@ -1,0 +1,44 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQU7FX9WKecFX0A_XXy5Zhd76C3avfSpobIgw&usqp=CAU.jpg,height=300)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[VanaN'Ice]]|CENTER:[[秘密の課外授業！]]&br()&bold(){Blue Rose}|CENTER:[[LAST COLOR]]|
+
+|&bold(){[[natsuP]]}|
+
+||CENTER:即売|CENTER:同人|CENTER:配信|
+|CENTER:発売|>|CENTER:2011年6月12日|CENTER:2019年5月23日|
+|CENTER:価格|CENTER:￥500|CENTER:￥735（税込）|CENTER:￥735|
+|CENTER:サークル|>|>|CENTER:SEVEN COLOR LIGHT|
+
+**CD紹介
+-THE VOC@LOiD M@STER 16（ボーマス16）で頒布された、[[natsuP]]を中心とするSCL Projectのミニアルバム。
+-VanaN'Ice（バナナイス）はがくっぽいど・KAITO・鏡音レンの男声VOCALOID3人組によるヴィジュアル系ロックバンド、という設定。
+-VOCALOIDアイドルミニアルバム「[[秘密の課外授業！]]」、ボカロイラスト集「Fleur*」と同時頒布された。
+-ニコ動で公開された「[[LOVELESS×××]]」「[[Arrest Rose]]」に加え、書き下ろし曲「[[桜 舞イ散リヌ>桜舞イ散リヌ-麗-]]」の原曲を収録。
+-とらのあなでの委託販売が行われていたが、現在は終了している。
+-BOOTHでのダウンロード販売が行われている。
+
+**曲目
++[[LOVELESS×××]]
++[[桜 舞イ散リヌ>桜舞イ散リヌ-麗-]] &color(red){NEW!!}
++[[Arrest Rose]]
++LOVELESS×××(Inst)
++桜 舞イ散リヌ(Inst) &color(red){NEW!!}
++Arrest Rose(Inst)
+
+**リンク
+-[[作者ブログによる詳細告知>>http://musicnatsuvocaloid.blog25.fc2.com/blog-entry-174.html]]
+-[[BOOTH>>https://scl-project.booth.pm/items/1382976]]
+
+**コメント
+- instで聴くとhakuさんがどれだけすごいかがよくわかる！！  -- ただのボカロ好き  (2011-06-23 16:54:23)
+- 買いました！他の二曲ももちろんですが、桜 舞イ散リヌが素晴らしかったです！  -- 名無しさん  (2011-06-24 18:03:50)
+- 桜 舞イ散リヌが感動した。  -- 名無しさん  (2011-08-22 12:22:11)
+- 桜 舞イ散リヌすごいイイ曲です  -- 名無しさん  (2011-09-12 16:11:15)
+- まわりが桜 舞イ散リヌでもワタシはLOVELESS×××が大好きです！  -- 名無しさん  (2012-02-24 22:55:18)
+- 欲しいこれ！  -- 名無しさん  (2012-03-18 20:07:24)
+- 欲しい//////がっくんヤバイ♪  -- Rea♪  (2012-09-25 00:04:12)
+- この３人とてもかっこいい！一番レンが好きっ！  -- ボカロ初心者  (2012-12-05 22:32:19)
+- 今日、新潟の「とらのあな」行ったら売ってたんで即購入！あと、もう一枚・・・やっぱり「とらのあな」で買おう！  -- 鏡音廃Y  (2013-08-24 22:16:51)
+#comment()

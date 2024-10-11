@@ -1,0 +1,30 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/778_20110713162434_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Maybe,誰よりも]]|CENTER:&bold(){Electronic Circuits}|CENTER:[[花物語>花物語/CD]]|
+
+|&bold(){[[クヌースP]]}|正臣|
+
+発売：2011年7月27日
+価格：￥300 / 1曲￥150
+流通：配信
+レーベル：KarenT
+ジャケットイラスト：クヌースP
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/electronic-circuits-single/id451416964]]}|
+
+**紹介
+-クヌースPの2曲入りEP。
+-レトロでエスニカルなエレクトロポップ『加速する恋の電子回廊』とクヌースＰにして異色の変拍子ミクノ『empty sounds(C:)』をカップリング。
+
+**曲目
++[[加速する恋の電子回廊]] （feat. メグッポイド&初音ミク）
++[[empty sounds(C:)]] （feat. 初音ミク）
+
+**リンク
+-[[作者ブログ>>http://sh100000.blog64.fc2.com/]]
+-[[KarenT>>http://karent.jp/album/778]]
+
+**コメント
+#comment()

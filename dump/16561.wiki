@@ -1,0 +1,40 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://xxxx-the-ripper.plug8.info/img/banner01.jpg) 
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[whiteout>whiteout/CD]]|CENTER:&b(){×××× the ripper}|CENTER:[[electric love]]|
+
+|&b(){[[八王子P]]}|[[emon（Tes.）]]|[[q*Left]]|saitom|柊椋|
+
+|流通|CENTER:即売|
+|発売|CENTER:2011年06月12日|
+|価格|CENTER:￥1,000|
+|サークル|CENTER:Plug::8|
+
+**CD紹介
+-八王子P 待望の 3rd album 。
+-先行リリースされた「[[KiLLER LADY]]」や「CRAZY GiRL」の full ver. など、全10曲を収録。
+-作詞を [[q*Left]]氏 が、ジャケットイラストを saitom氏 が、デザインを 柊椋氏 が手掛ける。
+-THE VOC@LOiD M@STER 16（ボーマス16）にてリリース。
+
+**クロスフェード
+&nicovideo(http://www.nicovideo.jp/watch/sm14666505)
+
+**曲目
++intro feat. 巡音ルカ
++candii feat. 初音ミク
++Free feat. 巡音ルカ
++アイポート feat. GUMI
++CRAZY GiRL feat. 初音ミク
++[[KiLLER LADY]] feat. GUMI
++×××× the ripper feat. 巡音ルカ
++Dear feat. 初音ミクAppend
++[[Sweet Devil]] （8#Prince Raver Remix） Remixed by 8#Prince
++[[whiteout]] （emon Remix） Remixed by emon（Tes.）
+
+**リンク
+-[[特設サイト>>http://xxxx-the-ripper.plug8.info/]]
+
+**コメント
+- やっぱ完成度高ぇ candiiめっちゃいい  -- 名無しさん  (2013-02-07 02:43:41)
+#comment()

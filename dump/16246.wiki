@@ -1,0 +1,42 @@
+#right(){&furigana(はしやすめ)&furigana()【登録タグ:&tags() 】}
+|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/23449205" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/23449205">【ニコニコ動画】</a></iframe>)|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/39006423" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/39006423">【ニコニコ動画】</a></iframe>)|
+
+**特徴
+-デビュー作は「[[新世界へのプロローグ]]」。
+-代表作に、殿堂入りを果たした「[[無感覚的干渉性完全制御装置]]」。
+-アーティスト名の通りに聴き心地のいいミクノポップを主に作る。
+-2013年、8作目の「[[もう やめちゃってもいい かなァ 人生]]」の投稿を最後に引退を表明した。
+-2016年、約5年ぶりに活動を再開した。実は個人名では無く、ユニットだった。中の人は [[江戸川愛工]]氏 。今後この名義は個人で使用するとのこと。
+-2018年11月に動画およびアカウントを削除。
+
+**リンク
+-[[ピアプロ>>http://piapro.jp/hashiyasume]]
+-[[KarenT>>http://karent.jp/artist/pp000520]]
+//-[[Twitter>>http://twitter.com/Edgar_Lovecraft]]
+-[[Youtube>>http://www.youtube.com/channel/UCAMx-xsFp2nZXPBXwxIYghg]]
+
+**曲
+#list_by_tag(箸休／hashiyasume,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(箸休／hashiyasumeCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm13411290)|&nicovideo(http://www.nicovideo.jp/watch/sm13543975)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm14080269)|&nicovideo(http://www.nicovideo.jp/watch/sm14552371)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm15003266)|&nicovideo(http://www.nicovideo.jp/watch/sm17783960)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm20555305)|&nicovideo(http://www.nicovideo.jp/watch/sm20817131)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm29414779)|&nicovideo(http://www.nicovideo.jp/watch/sm29557749)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm29775743)|&nicovideo(http://www.nicovideo.jp/watch/sm29821069)|
+
+**コメント
+- 箸休さん大好きです！応援してます！  -- kassy  (2011-05-28 10:16:46)
+- 僕も大好きです(≧∇≦) これからもいい曲作るの頑張ってください！  -- むくる  (2011-06-05 08:20:18)
+- もっと評価されるべき！  -- 名無しさん  (2011-09-01 00:29:50)
+- もっと伸びるはず！！頑張っていただきたい。  -- はるきゅん  (2012-06-17 00:13:56)
+- この人はもっと評価されるべき。作曲も調整もかなりのレベルかと  -- aki  (2012-08-09 13:09:08)
+- 最近知ってすごい好きだと思ったのに…引退してたなんて……  -- EARTHKY  (2013-06-24 09:14:23)
+- 引退は残念です・・・　またいつかお会いできる日を楽しみにしています!!  -- 名無しさん  (2013-11-18 23:23:24)
+- 引退残念過ぎる。いつでも戻ってきていいんだからね！  -- QP  (2014-02-11 16:37:12)
+- そろそろ戻ってきてよ！ｗ  -- 名無しさん  (2014-07-23 22:27:49)
+#comment()

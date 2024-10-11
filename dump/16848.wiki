@@ -1,0 +1,29 @@
+#right(){&furigana(Myriad)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/15227914" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/15227914">【ニコニコ動画】</a></iframe>)
+
+**特徴
+作り手名：『&u(){Myriad}』(&u(){みりあど})
+-使用するVOCALOIDは初音ミク、GUMI、巡音ルカ。
+-1・2作目のラウドロックから一転、3作目「[[Jest of Six]]」はジャズ調など、作風は幅広いようだ。
+-およそ半年に1曲のペースで作品を発表している。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/myriad]]
+-[[作者ブログ>>http://myriad66.tumblr.com/]]
+
+**曲
+#list_by_tagsearch(Myriad,sort=furigana2,errmsg=まだ曲が登録されていません。,and,100)
+
+**CD
+#list_by_tagsearch(MyriadCD,sort=furigana2,errmsg=まだCDが登録されていません。,and,100)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm8321622)|&nicovideo(http://www.nicovideo.jp/watch/sm10631963)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12917577)|&nicovideo(http://www.nicovideo.jp/watch/sm14842722)|
+
+**コメント
+#comment()

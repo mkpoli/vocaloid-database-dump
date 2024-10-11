@@ -1,0 +1,20 @@
+#right(){&furigana(むらさきつゆくさ) &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/25323706" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/25323706">【ニコニコ動画】ムラサキツユクサの成長記録。</a></iframe>)
+
+**特徴
+- ギターがメインの爽やかなロック調の曲と、動画説明文で繰り広げられるVOCALOIDとの会話が特徴的。
+- 使用するVOCALOIDはGUMI。
+
+**曲
+#list_by_tag(ムラサキツユクサ,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(ムラサキツユクサCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm13732794)|&nicovideo(http://www.nicovideo.jp/watch/sm14437782)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm14844422)||
+
+**コメント
+- list_by_tagは消さないでください。今後この方の曲ページが作成された時に、曲ページへのリンクを表示させるようにするためのものですので。  -- 名無しさん  (2011-06-25 23:35:58)
+#comment()

@@ -1,0 +1,51 @@
+#right(){&furigana(danierukunP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/22506115" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/22506115">【ニコニコ動画】</a></iframe>)
+
+**特徴
+作り手名：『&u(){danierukunP}』(&u(){ダニエルクンP})
+-クラブサウンドやシューゲイザーを得意とするボカロP。
+-P名の由来は自身のヤフーの捨てIDから。どうやらサンリオのダニエル君が元ネタらしい。
+-ロリや頭突き等、ネタのイメージが強いが、DTM歴は十数年（やっていない時期を除くと7、8年）と長く、メロディーの美しさは評価が高い。
+-使用するボーカロイドは初音ミク、鏡音リン・レン、巡音ルカ、歌愛ユキ、SeeU、蒼姫ラピス、結月ゆかり。
+-使用する機材は、ギターはマツモク製1978年型Mustang、DAWはstudio one、インターフェースはRME Multiface。
+-そして2014年、「[[頭突き]]」で自身初の殿堂入り達成！
+
+**リンク
+-[[作者ブログ>>http://ameblo.jp/danierukunp/]]
+-[[ブロマガ>>http://ch.nicovideo.jp/danierukunp]]
+-[[ピアプロ>>http://piapro.jp/cosmicdust]]
+-[[YouTube>>http://www.youtube.com/user/danierukunP]]
+-[[Twitter>>http://twitter.com/danierukunkun]]
+
+**曲
+#list_by_tagsearch(danierukunP,sort=furigana2,errmsg=まだ曲が登録されていません。,and,100)
+
+**CD
+#list_by_tagsearch(danierukunPCD,sort=furigana2,errmsg=まだCDが登録されていません。,and,100)
+
+**動画
+|&nicovideo(nm9204476)|&nicovideo(sm9708587)|
+|&nicovideo(sm10033141)|&nicovideo(sm12204032)|
+|&nicovideo(sm13141231)|&nicovideo(sm13443219)|
+|&nicovideo(sm13828417)|&nicovideo(sm14412613)|
+|&nicovideo(sm14529783)|&nicovideo(sm14704133)|
+|&nicovideo(sm14947907)||
+
+**関連タグ内の更新履歴
+#region(close,関連タグ内の更新履歴)
+関連タグ内の更新履歴
+※「danierukunP」「danierukunPCD」タグ内で最近編集やコメントのあった記事を新しい方から10件表示しています。
+#list_by_tagsearch(danierukunP,danierukunPCD,sort=timestamp,sort2=desc,errmsg=まだ曲、CDが登録されていません。,or,10)
+#endregion
+
+**コメント
+- この人のおかげでおだんごが好きになります。  -- 名無しだんごですね  (2011-07-09 19:36:15)
+- ロリとふざけたPVさえなければいいのに  -- 名無しさん  (2013-03-18 18:08:19)
+- 頭突きのシリーズが好きすぎる  -- 名無しさん  (2013-08-20 20:28:57)
+- 頭突き好きすぎてCD欲しいけど売ってねぇ！！  -- 名無しさん  (2022-09-22 03:59:14)
+- !?の中毒性がやばい  -- 名無しさん  (2024-08-05 23:08:59)
+#comment()

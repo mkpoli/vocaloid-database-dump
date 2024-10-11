@@ -1,0 +1,42 @@
+#right(){&furigana(remodel)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+
+|&nicovideo(http://www.nicovideo.jp/watch/sm13863083)||
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[poncotsu]]|CENTER:&bold(){remodel}|CENTER:[[漫画]]|
+
+|&bold(){[[ピノキオピー]]}|
+
+||CENTER:即売|CENTER:同人|
+|CENTER:発売|>|CENTER:2011年3月27日|
+|CENTER:価格|CENTER:￥500（税込）|CENTER:￥784（税込）|
+|CENTER:サークル|>|CENTER:ピノキオピー|
+
+**CD紹介
+>イベントで出た分の収益（プレス経費含む）は東北地方太平洋沖地震の義援金とさせていただきました。
+>通販分の収益は経費分を補填させていただいた後、黒字がでましたらそちらも義援金として送らせていただきます。
+-ピノキオピー初のミニアルバム。
+-内容は主に、CD未収録をリモデルした作品集となっている。
+-VOCALOID PARADISE 5（ボーパラ5）で頒布された。
+-ピノキオピーのリメイクされていないCDで唯一配信されていない。
+
+**曲目
++[[ゆめばなな]](remodel ver)
++[[センセイニイッテヤロ]](remodel ver)
++[[あめのひ喫茶]](remodel ver)
++[[ベニチオデルトロ]](vocal solid ver)
++[[ことのら！>今年の終わりと始まりをノラ猫は見ていた]]
++[[どうしてちゃんのテーマ]] (doushitechan ver)
+
+**リンク
+-[[作者ブログでのCD紹介>>http://pinocchiop.blog.shinobi.jp/Entry/92/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0020/00/46/040020004686.html]]
+
+**コメント
+//- コメント無いの？嘘だろ？  -- なら  (2013-03-12 18:44:54)
+- 僕が買った最初のボカロアルバムでした。最高です！  -- 名無しさん  (2013-06-28 19:23:08)
+#comment()

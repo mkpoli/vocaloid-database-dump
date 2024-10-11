@@ -1,0 +1,52 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+|&nicovideo(http://www.nicovideo.jp/watch/sm14043952)|&nicovideo(http://www.nicovideo.jp/watch/sm14307730)|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[-ReppLes-／エバーグリーン]]|CENTER:&bold(){Love revolveR}|CENTER:-|
+
+|&bold(){[[ジュンP]]}|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2011年5月8日||
+|価格|CENTER:￥1,000|CENTER:￥1,420（税抜）|
+|サークル|>|ジュンP|
+
+**CD紹介
+>&b(){「鏡音愛よ、永久に響け！」}
+-『-ReppLes-／エバーグリーン』以来1年半ぶりとなるジュンPのアルバムCD。
+-今回は16ページのブックレットがついたCDとDVDのセットとなっている。
+-CDの方は元気になれる曲を中心としたリンレン曲12曲が収録されており、&br()DVDには過去のコラボ曲やPV師によるPVが収録されている。
+-イラストはじゅんじ氏が担当している。
+-RIN&LEN 鏡音なう！・ボーマス16で頒布。とらのあなで委託販売が行われている。
+
+**曲目
+-CD（（★）＝リンのソロ、（☆）＝レンのソロ、（★☆）＝リンとレン）
++アイ・オー！アイ・アイ・オー！（★☆）
++[[Love Revolver]]（★☆）
++[[つづく。]]（★☆）
++[[Mid Summer!!>MidSummer!]]（★）
++ふたご座流星群-（★）
++MIDDLE（★☆）
++[[不確定近未来 -Unconfidence-]]（☆）
++[[不協和音 -dis:cord-]]（☆）
++[[AGAIN>AGAIN/ジュンP]]（☆）
++[[リン＊クル]]（★）
++[[おめでとう、ありがとう。]]（★☆）
++風のゆくえ（★）
+
+-DVD
++[[LOST>-LOST-]]（movie：ねむり）
++AGAIN（movie：水穂沙羅）
++[[ココロ・キセキ]]（+new edition）（movie：[[グライダー絵師>グライダー]]）
++[[ディグダグ！]]（movie：zyun／illust：文月・蒼稀・朔也）
++[[さんぽ]]（movie：zyun／illust：コト実）
++リン＊クル（movie：zyun／illust：じゅんじ）
++おめでとう、ありがとう。（movie：zyun／illust：じゅんじ）
+
+**リンク
+-[[特設サイト>>http://loverevolver.uijin.com/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0020/00/81/040020008126.html]]
+
+**コメント
+- 追加ありがとうございます！  -- 名無しさん  (2011-06-01 19:12:44)
+#comment()

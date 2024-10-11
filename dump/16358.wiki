@@ -1,0 +1,34 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/703_20110418230654_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[さよなら、フィクション。]]|CENTER:&bold(){blue}|CENTER:[[飛ぶ教室]]|
+
+|&bold(){[[ハヤカワP]]}|
+
+発売：2011年5月30日
+価格：￥300 / 1曲￥150
+流通：配信
+レーベル：KarenT
+ジャケットイラスト：kamekichi27
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/blue-single/id440481326]]}|
+
+**紹介
+-ハヤカワPの配信EP。
+-表題曲「blue」はロボットアニメのオープニング風楽曲。セリフの有無の2バージョンを収録している。未発表曲の「Mr.Moonlight」はエンディング風となっている。
+-作品は「iTunes Store」と「初音ミクモバイル（ミクモバ）」（着うたのみ）の2サイトにて2011年9月30日までの期間限定配信され、売り上げはクリエイターにより被災地義援金として寄付されるとのこと。
+-KarenTレーベルでのAHS社のVOCALOID楽曲の配信第一弾。
+
+**曲目
++[[blue>blue/ハヤカワP]] feat. SF-A2 開発コード miki
++blue (with voice ver.) feat. SF-A2 開発コード miki   
++Mr. Moonlight feat. SF-A2 開発コード miki 
+
+**リンク
+-[[作者ブログ>>http://hayakawalabo.otaden.jp/]]
+-[[KarenT：「blue」>>http://karent.jp/album/703]]
+-[[KarenT：「 PRAY FOR JAPAN 東日本大震災 クリエイターによるチャリティ配信」について>>http://karent.jp/special/charity]]
+
+**コメント
+#comment()

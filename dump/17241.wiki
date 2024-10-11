@@ -1,0 +1,72 @@
+#right(){&furigana(KICK ME INSANE)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo(https://www.nicovideo.jp/watch/sm14624948)
+作詞：[[錯乱P]]
+作曲：[[錯乱P]]
+編曲：[[錯乱P]]
+イラスト・動画：[[天候H]]（[[X(Twitter)>>https://twitter.com/Weather_H]]）
+唄：[[初音ミク]]
+
+**曲紹介
+曲名：『&u(){KICK ME INSANE}』(&u(){キック ミー インセイン})
+-ボーマス16で頒布されたCD収録曲。
+-電子音がかっこいいVOCAROCK。
+
+**歌詞
+（動画内歌詞より転載）
+
+ライムエイドとドライアイ
+僕は嘘がヘタクソなんだ
+聞けよ　Kick me 奴ら覚えてないぜ
+お前が踊るような歌の名前
+
+So
+Kick me insane baby
+空が描き出した通り
+Kick me insane baby
+何も残すものはない
+ないからさ
+
+
+誰か死んだろう　ふざけてる
+君も嘘がヘタクソなんだ
+だから　Pick me どうか叶えてくれ
+泥でにじんだその腕で
+
+I say
+Kick me insane baby
+空が描いていた向こうに
+Kick me insane baby
+何もここにはない
+からっぽさ
+Kick me insane baby
+終わりが語られる頃に
+Kick me insane baby
+逃げ出した
+青い　青い　夢のなか
+
+
+Kick me insane baby
+空が描いていた向こうに
+Kick me insane baby
+何もここにはない
+からっぽさ
+Kick me insane baby
+終わりが語られる頃に
+Kick me insane baby
+逃げ出した
+青い　青い　夢のなか
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+**コメント
+#comment()
+
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)

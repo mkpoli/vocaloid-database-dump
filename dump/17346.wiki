@@ -1,0 +1,43 @@
+#right(){&furigana(ぶらっど)&furigana()【登録タグ:&tags()】}
+&nicovideo(http://www.nicovideo.jp/watch/sm14031000)
+作詞：[[塵]]
+作曲：[[夜鳴夜叉]]
+編曲：[[夜鳴夜叉]]
+唄：初音ミク
+
+**曲紹介
+&bold(){僕の血はもう冷めて}
+-noa+と夜鳴夜叉の合同サークルによるスプリットアルバム『Re:sist』収録曲
+-イラストを凸本、動画をKaYaが担当。
+
+**歌詞
+（[[PIAPRO>>http://piapro.jp/t/P8zo]]より転載）
+
+流れる涙で私のこと
+洗って忘れてしまうなんてできないよ
+
+僕の血はもう冷めて
+「さよなら」
+きっと優しく慣れない
+その答えを
+
+I wanna cry for you here
+You allowed me?
+It defies all logic
+I wanna cry for you here
+You allowed me?
+It defies all logic
+Blood...
+
+僕の血はもう冷めて
+「さよなら」
+きっと優しく慣れない
+
+また消えた
+ねえ否定はもういいよ
+「さよなら」
+ああ連れ出してほしい
+Still in the Blood
+
+**コメント
+#comment()

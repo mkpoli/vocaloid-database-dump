@@ -1,0 +1,38 @@
+#right(){&furigana(ひとでなしのこい)&furigana()【登録タグ:&tags() 】}
+//#image(http://kenzokuzoku.info/c79/images/hitodenasi_ban.jpg,http://kenzokuzoku.info/c79/c79_03.html,title=人でなしの恋,blank) 
+
+&ref(http://blog-imgs-55.fc2.com/m/n/d/mndrp/hitodenasi_omote.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&b(){人でなしの恋}|CENTER:-|
+
+|&b(){[[曼荼羅P]]}|[[ヒッキーP]]|
+
+|流通|CENTER:即売|
+|発売|CENTER:2010年11月14日|
+|価格|CENTER:￥1,000|
+|サークル|CENTER:眷属族|
+
+**CD紹介
+-&b(){曼荼羅P}こと木岡史明の1stアルバム。全10曲収録。
+-コンセプトは&b(){人でなしの少年と欠損家庭に生まれた少女の恋物語}。
+-コミックマーケット79（C79）で初頒布。現在、自家通販されている。詳細は[[こちら>>http://kenzokuzoku.info/wordpress/shop/]]。
+
+**曲目
++[[星の慟哭]]
++[[ノイズの海]]
++[[棘の咎]]
++[[午前四時の低周波]]
++[[革命家の散弾銃]]
++優しい嘘
++彼女の思い出
++人でなしの恋
++[[知らない街]]（FMAKVer）　/　Original by ヒッキーP
++[[シェル・シルヴァスタインと少年]]
+
+**リンク
+//-[[眷属族（所属サークルのサイト）>>http://kenzokuzoku.info/]]
+-[[作者ブログ>> http://mndrp.blog.fc2.com/?pc]]
+
+**コメント
+#comment()

@@ -1,0 +1,52 @@
+#right(){&furigana(Walkingmyway)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm13444535)|&nicovideo(nm6678703)|
+作詞：[[あルカP]]
+作曲：[[あルカP]]
+編曲：[[あルカP]]
+唄：[[巡音ルカ]]・[[初音ミク]]
+唄（リメイク版）：[[巡音ルカ]]（コーラス：[[神威がくぽ>がくっぽいど]]・ミィミ（[[初音ミク]]・[[GUMI>Megpoid]]・[[miki>SF-A2 開発コード miki]]））
+
+**曲紹介
+曲名：『&u(){Walking my way}』
+-死ぬ気で作曲シリーズ第一期の7作目として発表した、爽やかで開放感のある楽曲。
+-2011年のルカ2周年記念にリメイクバージョンを発表した。
+
+**歌詞
+//（[[引用元のサイト>>引用元のURL]]より転載）
+la la la...
+
+七色に輝く虹の筆で　空を染めながら
+自由に飛んでいたい　心まで空色に変えて
+
+笑顔泣き顔もあるけど　My only one story
+何があっても　次のページをめくらなきゃね
+
+la la la・・・　I'm walking my way
+Let's Fly！　明日のため
+la la la・・・　This is my life
+Let's Jump！　私のため
+
+私を動かしてる　だめにしてる　思い出たちが
+今までの流れに　従ってる　取り残されてる
+
+抜け殻を残し　自由に羽ばたく蝶は
+笑ってた　はしゃいでた　輝いてた
+
+la la la・・・　I'm walking my way
+Let's Fly！　明日のため
+la la la・・・　This is my life
+Let's Fly！　私のため
+
+
+la la la・・・　I'm walking my way
+Let's Fly！　明日のため
+la la la・・・　This is my life
+Let's Jump！　私のため
+
+
+**コメント
+#comment()
