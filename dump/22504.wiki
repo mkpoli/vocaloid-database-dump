@@ -1,0 +1,40 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#ref(http://img.toranoana.jp/img/04/0030/05/14/040030051434-1.gif)
+
+
+&nicovideo(http://www.nicovideo.jp/watch/sm18164144)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Akashic Records}|CENTER:-|
+
+|&bold(){[[utml]]}|[[hie]]|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|CENTER:2012年7月8日|CENTER:2012年7月10日|
+|価格|CENTER:￥1,000（税込）|CENTER:￥1,500（税抜）|
+|サークル|CENTER:人工芝|CENTER:utml|
+
+**CD紹介
+-utml氏の1stアルバム。
+-初の殿堂入りを達成した「[[彩愛クレパス]]」を筆頭に、既存曲に新曲を加えた全10曲を収録。
+-ジャケットイラスト・デザインを [[hie]]氏 が、マスタリングを cheap氏 が手掛ける。
+-THE VOC@LOiD M@STER 21（ボーマス21） にてリリース。
+
+**曲目
++Akashic Records
++[[ラミとレミ 鏡と嘘つき]]
++[[侠客学]]
++ambiguity to dogma
++[[吐息アンサンブル]]
++星空の散歩町
++午前6時の風物詩
++[[彩愛クレパス]]
++幸せの赤い林檎
++[[あい²>>あい×2]]
+
+**リンク
+-[[Twitter>>http://twitter.com/utml_25]]
+
+**コメント
+- 欲しい、「侠客学」「吐息アンサンブル」目当てで買いたい！  -- 名無しさん  (2015-11-19 11:17:27)
+#comment()

@@ -1,0 +1,47 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1242_20130317170253_0280_0280.jpg)
+
+&nicovideo(sm17657441)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[ドラマチックメモリー]]|CENTER:&bold(){DEAD or ALIVE}|CENTER:-|
+
+|&bold(){[[デスおはぎ]]}|sforza_t|ゆらほにゃP|
+
+|流通|CENTER:即売|CENTER:委託|CENTER:配信|
+|発売|CENTER:2012年4月28日||CENTER:2013年4月1日|
+|価格|CENTER:￥1,000|￥1,500（税込）|CENTER:￥1,200 / 1曲￥150|
+|サークル|>|CENTER:デスおはぎ||
+
+**CD紹介
+-VOCALOID・UTAUのP、デスおはぎ氏の2ndアルバム。
+-全編ラウドなメタルアルバム。
+-CD版のみ収録の「寿限無電脳音楽箱」は[[ぼーかりおどP]]の「[[ジュゲムシーケンサー]]」のアレンジカバー。
+-THE VOC@LOiD 超 M@STER 20（超ボーマス20）で頒布。
+-同人ショップなどで委託販売が行われている。
+-2013年のテトの誕生日（4/1）にKARENTレーベルよりダウンロード販売が開始された。配信版はTr.10が未収録の全9曲。
+
+**曲目
+★印はUTAU楽曲データベースへのリンク。
++Overture
++Versus （feat. 重音テト、波音リツ）
++Ultema （feat. メグッポイド、破壊音マイコ）
++[[Alive>Alive/デスおはぎ]] （feat. 重音テト&初音ミク）
++CRush （feat. 鏡音レン&鏡音リン）
++[[World's End Celebrate]] （feat. メグッポイド）
++残響 feat. 唄音ウタ（デフォ子）
++[[千紫万紅]] （feat. 重音テト）
++密室落下寓話 （feat. 初音ミク&重音テト）
++寿限無電脳音楽箱（cover） （feat. 重音テト）　　※CD版のみ
+
+**リンク
+-[[作者ブログ>>http://ameblo.jp/deathohagi/]]
+-[[UTAU楽曲データベース：「デスおはぎ」>>http://www24.atwiki.jp/utauuuta/574.html]]
+-[[UTAU楽曲データベース：「DEAD or ALIVE」>>http://www24.atwiki.jp/utauuuta/pages/1971.html]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/04/15/040030041543.html]]
+-[[ニコニコ直販>>http://chokuhan.nicovideo.jp/products/detail/1115]]
+-[[KARENT：「DEAD or ALIVE」>>http://karent.jp/album/1242]]
+
+**コメント
+- おおお格好良い  -- 名無しさん  (2014-05-29 08:16:13)
+#comment()

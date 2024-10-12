@@ -1,0 +1,44 @@
+#right(){&furigana(ゆみつきのあるなする)&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1158_20121024084708_0280_0280.jpg)
+
+&nicovideo(sm18520169)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[想ひ秘め咲く 緋之櫻]]|CENTER:[[閃撃グレイムーン（閃撃グレイムーン EP）>閃撃グレイムーン/CD]]&br()&bold(){弓月のアルナスル}|CENTER:[[窓辺で夢見る紅茶時間]]|
+
+|&bold(){[[As'257G]]}|LINEAR|水無月龍那|飛高|Azzy|真雪|
+
+|流通|CENTER:即売|CENTER:委託|CENTER:配信|
+|発売|CENTER:2012年8月11日|CENTER:2012年8月|CENTER:2012年11月9日|
+|価格|CENTER:￥1,000|CENTER:￥1,260（税込）|CENTER:￥600 / 1曲￥150|
+|サークル|>|CENTER:LAYER-0||
+
+**CD紹介
+>明日の希望。明日を憂い、明日を拓く―。
+-Sound Team Layer-0のCD作品。
+-As'257G feat. IA & 結月ゆかりによるアルバム。がくっぽいどのアルバム『[[閃撃グレイムーン>閃撃グレイムーン/CD]]』と同時リリース。
+-ジャケットイラストはHach氏。
+-2012年夏のコミックマーケット82（C82）で頒布。
+-とらのあな、アリスブックスで委託販売が行われている。
+-KARENTレーベルよりダウンロード販売も行われている。ただしカラオケトラックが未収録の全5曲となっている。
+
+**曲目
++[[月下の剣と黄昏の夢]]-Album mix- / 結月ゆかり
++[[弓月のアルナスル]] / 結月ゆかり
++[[アウロラの空]] / IA
++[[Sensitive circuit]] / 結月ゆかり
++[[明日の夜明け]] / IA
++月下の剣と黄昏の夢-Album mix- （Inst.）
++弓月のアルナスル （Inst.）
++アウロラの空 （Inst.）
++Sensitive circuit （Inst.）
++明日の夜明け （Inst.）
+
+**リンク
+-[[作者サイト>>http://layer-0.shillest.net/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/06/18/040030061862.html]]
+-[[アリスブックス>>http://alice-books.com/item/show/1173-1]]
+-[[KARENT：「弓月のアルナスル」>>http://karent.jp/album/1158]]
+
+**コメント
+#comment()

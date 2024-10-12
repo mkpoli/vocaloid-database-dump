@@ -1,0 +1,50 @@
+#right(){&furigana(のすたるしあ)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+#amazon(B00ACX96P0)
+
+&nicovideo(sm19480499)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Re:>Re:/CD]]|CENTER:&bold(){ノスタルジア}|CENTER:[[恋セヨ！Sweet Girls]]|
+
+|&bold(){[[フェイP]]}|Gigio|
+
+|流通|CENTER:即売|CENTER:通販|CENTER:配信|
+|発売|>|CENTER:2012年12月15日|CENTER:2014年4月4日|
+|価格|CENTER:￥1,000（税込）|CENTER:￥1,500（税込）|CENTER:￥1,200 / 1曲￥200|
+|サークル|CENTER:Crony Craft|CENTER:Chiara||
+
+**CD紹介
+CD名：『&u(){ノスタルジア}』
+-フェイP の 6th album .
+-『[[I>I/フェイP]]』『[[幻奏歌]]』などのヒット作に新曲を加えた全9曲を収録。
+-収録されている既存曲は全て、MIX・アレンジを見直したオリジナル音源となる。
+-アートワークは 飴村氏 が手掛ける。
+-会場先着特典として、2種類の特製ポストカードをプレゼント。
+-THE VOC@LOiD M@STER 23（ボーマス23）にてリリース。
+-Amazonで委託販売が、KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++[[ノスタルジア>ノスタルジア/フェイP]]
++[[ワンナイト・フェアリーテイル]]
++[[I>I/フェイP]]
++星のかけら
++[[flavor]]
++[[ヒャクニチソウ]]
++[[幻奏歌]]
++サルビア
++[[きみにごめんね]]
+
+**リンク
+-[[Twitter>>https://twitter.com/Faye_Chiara]]
+-[[Amazon>>https://www.amazon.co.jp/dp/B0052XT96G/]]
+-[[KARENT：「ノスタルジア」>>https://karent.jp/album/1479]]
+
+**コメント
+- 買いましたぁぁぁぁぁあ!!!　聴いてきまぁぁぁぁぁぁぁぁっす!!!  -- 烏龍  (2012-12-20 17:22:11)
+- 全部素敵！！特に２曲目！！  -- 良太  (2015-06-16 21:24:46)
+- 星のかけら超大好き‼️今は動画ないけどいつかうpされるのを信じてます！  -- 名無しさん  (2015-11-19 11:10:39)
+#comment()

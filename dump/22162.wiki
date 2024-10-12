@@ -1,0 +1,39 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm18222097)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Starry World>Starry World/CD]]|CENTER:&bold(){SuketchP rmx Collection Vol.1}|CENTER:[[Snow Story / Fly Away>Snow Story ／ Fly Away]]|
+
+|&bold(){[[すけっちP]]}|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|CENTER:2012年7月8日|CENTER:2012年7月8日|
+|価格|CENTER:￥1,000|CENTER:￥1,500(税込)|
+|サークル|>|CENTER:すけっちレコード|
+
+**CD紹介
+-すけっちP初のリミックス集アルバム。
+-これまですけっちPが他のアーティストに提供してきたRemix曲に、このアルバム用に書き下ろした新作Remix曲を加えた全11曲。
+-既存Remixも全曲リテイク・リマスタリング済。
+-THE VOC@LOiD M@STER 21（ボーマス21） にてリリース。
+
+**曲目
++[[「つけるよ。」]] (SuketchP rmx) / original by [[マルキン]]
++[[流星サウンド]] (SuketchP KiraKira-Chain rmx) / original by [[nana(sevencolors)>nana]]
++[[ハッピーシンセサイザ]] (SuketchP Upfeeling rmx) / original by [[Easy Pop]]　&bold(){&color(red){NEW!!}}
++[[サウンド]] (SuketchP Liquid Funk rmx) / original by [[baker]]　&bold(){&color(red){NEW!!}}
++[[Sweet Devil]] (SuketchP 2step rmx) / original by [[8#Prince（八王子P）>八王子P]]
++[[Heart Beats]] (SuketchP 2step rmx) / original by [[emon>emon（Tes.）]]
++Change (SuketchP rmx) / original by cleanero　&bold(){&color(red){NEW!!}} 
++[[Distorted Princess]] (SuketchP rmx) / original by 8#Prince（八王子P）
++K I S S the disco (SuketchP Piano House rmx) / original by [[Ryuuuu]]　&bold(){&color(red){NEW!!}}
++[[boku-boku>僕と僕/AVTechNO]] (SuketchP Ludwig van rmx) / original by [[AVTechNO!>AVTechNO]]
++[[＊ハロー、プラネット。]] (SuketchP 90's UK garage rmx) / original by [[sasakure.UK>ささくれP]]　&bold(){&color(red){NEW!!}}
+
+**リンク
+-[[作者ブログ>>http://suketchp.seesaa.net/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/05/52/040030055234.html]]
+
+**コメント
+- これにはいってる「サウンド」と「Heart Beats」が特によかった………………すけっちp大好きだよ  -- 名無しくん  (2013-11-23 16:48:00)
+#comment()

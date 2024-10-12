@@ -1,0 +1,46 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1065_20120613133428_0280_0280.jpg)
+
+&nicovideo(sm18169341)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Tired of the World]]|CENTER:&bold(){HAPPY COLOR GUMMY}|CENTER:[[妖精族のむすめ>妖精族のむすめ/CD]]|
+
+|&bold(){[[YS]]}|柏木るざりん|
+
+発売：2012年6月26日
+価格：￥1,500 / 1曲￥150
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：[[市ノ瀬雪乃]]
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/happy-color-gummy/id537541730]]}|
+
+**CD紹介
+-YSこと、ゲームミュージックの作曲者下田祐氏の配信アルバム。
+-YSプロデュースによる、VOCALOID「メグッポイド」の歌をメインに、UKインディーロックとプログレッシヴロック、8ビットゲーム機のピコピコサウンドといった要素がポップに混ざったアルバム、第二段です。
+-Tr.6は柏木るざりん氏との共作。
+-KARENTレーベルの、メグッポイド発売3周年記念企画で配信された作品の1つ。
+
+**曲目
++KEY （feat. メグッポイド）
++HAPPY COLOR GUMMY （feat. メグッポイド）
++[[さくらブロッサム]] （feat. メグッポイド&初音ミク&鏡音リン）
++何もかもが嫌になった2012 （feat. メグッポイド）
++優しい世界2012 （feat. メグッポイド）
++GMLのテーマ （feat. メグッポイド&初音ミク）
++[[千日前のインド人を右に]] （feat. メグッポイド）
++お母さんが好きな韓流 （feat. メグッポイド）
++愛の証明 （feat. メグッポイド）
++夢追い人 （feat. メグッポイド）
++雪国Snowblind （feat. メグッポイド&初音ミク）
++これは無理だ （feat. メグッポイド）
++明るい未来を！ハイホー！ （feat. メグッポイド）
+
+**リンク
+-[[作者サイト>>http://www.shinsekai.co.uk/]]
+-[[KARENT：「HAPPY COLOR GUMMY」>>http://karent.jp/album/1065]]
+-[[KARENT：「メグッポイド3周年記念祭」特集ページ>>http://karent.jp/special/megpoid12]]
+
+**コメント
+#comment()

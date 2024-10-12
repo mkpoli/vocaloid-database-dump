@@ -1,0 +1,28 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1190_20121204150943_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[The Rockafeller Skank feat.初音ミク]]|CENTER:&bold(){LAST CHRISTMAS feat.初音ミク}|CENTER:[[NEXT ON YOU]]|
+
+|&bold(){[[エレキP>BIGHEAD]]}|
+
+発売：2012年12月14日
+価格：￥150
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：AYAKO HISHINUMA
+
+**CD紹介
+-エレキPのカバーシングル。
+-ワム！の同名曲のカバー。
+-「KARENT」と「ROTH ENTERTAINMENT」による共同レーベル、「Lip Sync Records」からのリリース第4弾となる。
+
+**曲目
++LAST CHRISTMAS （feat. 初音ミク）
+
+**リンク
+-[[Lip Sync Records>>http://lipsync-records.jp]]
+-[[KARENT：「LAST CHRISTMAS feat.初音ミク」>>http://karent.jp/album/1190]]
+
+**コメント
+#comment()

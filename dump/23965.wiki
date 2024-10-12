@@ -1,0 +1,32 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+
+&nicovideo(http://www.nicovideo.jp/watch/sm19559914)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Dream of Pearl]]|CENTER:&bold(){First Motion}|CENTER:[[SpringSnowTown]]|
+
+|&bold(){[[銀河方面P]]}|
+
+|流通|CENTER:即売|
+|発売|CENTER:2012年10月28日|
+|価格|CENTER:￥500（税込）|
+|サークル|CENTER:すたじお☆ぺぱーみんと|
+
+**CD紹介
+-銀河方面P の 5th mini album 。
+-『[[Super Gumix Illusion]]』 同様に GUMI（Native）をフィーチャー。既存曲や新曲など全5曲を収録。
+-ジャケットイラストは ゆきめぐ氏 が手掛ける。
+-VOCALOID PARADISE 7（ボーパラ7）にて先行リリース。C83（コミックマーケット83）では、イントロや間奏、ミックス自体やり直した新版をリリースした。
+
+**曲目
++Next
++[[ココロ・モーション]] -Album Version-
++[[ハダカの女王様]] -Album Version-
++[[ハッピーバースでぇ～と]] -Album Version-
++あしたは快晴！！
+
+**リンク
+-[[銀河方面P@神野貴志（たかぴ）のブログ（作者ブログ）>>http://ameblo.jp/studiopeppermint/]]
+
+**コメント
+#comment

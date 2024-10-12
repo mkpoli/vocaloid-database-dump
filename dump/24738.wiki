@@ -1,0 +1,42 @@
+#right(){&furigana(ぼくらのこんとろーらー)&furigana()【登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186120424.jpg,x=300,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm20218396)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){ボクラノコントローラー}|CENTER:-|
+
+|&bold(){[[さたな]]}|
+
+|流通|CENTER:即売|
+|発売|CENTER:2013年3月24日|
+|価格|CENTER:￥1,000（税込）|
+|サークル|CENTER:108studio|
+
+**CD紹介
+-さたな氏 の 1stアルバム。
+-既存曲の選りすぐりと書き下ろしの新曲2曲を加えた、全12曲を収録。
+-アートワークは [[すこっち]]氏 が手掛ける。
+-VOCALOID PARADISE 関西2（ボーパラ関西2）にてリリース。
+
+**曲目
++ヨマイゴトレイン（inst.）
++[[さよなら8bit]]
++[[RGS]]
++[[ロクジョウセンキ]]
++[[溜息のダンス]]
++[[嘘と数式]]
++[[廃材とオレンジ]]
++[[退嬰サーフ]]
++[[アシアト]]
++[[痛がり少年と泣き虫雲]]
++[[深海ロケット]]
++[[ボクラノコントローラー]]
+
+**リンク
+-[[Twitter>>http://twitter.com/satana_108st]]
+
+**コメント
+- きたぁあぁあぁあぁ!!!!!欲しい！  -- 名無しさん  (2013-03-10 11:50:11)
+#comment()

@@ -1,0 +1,31 @@
+#right(){&furigana(かみその) &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/11636063" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/11636063">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-綺麗なサウンドと単調な曲が特徴。
+-一途な恋の内容の歌が多い。
+-使用ボーカロイドは初音ミク、初音ミクAppend、巡音ルカ。
+
+
+**リンク
+-[[Twitter>>https://twitter.com/kamizono_]]
+-[[pixiv>>http://www.pixiv.net/member.php?id=622559]]
+-[[piapro>>http://piapro.jp/kamizono]]
+
+**曲一覧
+#list_by_tag(紙園,100,sort=furigana)
+
+
+**動画一覧
+-&bold(){VOCALOIDオリジナル曲}
+|&nicovideo(sm5885214)|&nicovideo(sm6115520)|
+|&nicovideo(sm6489575)|&nicovideo(sm6717759)|
+|&nicovideo(sm10640613)|&nicovideo(sm10884605)|
+|&nicovideo(sm13243822)|&nicovideo(sm14170993)|
+|&nicovideo(sm15093122)|&nicovideo(sm15759624)|
+|&nicovideo(sm16454232)|
+
+
+**コメント
+
+#comment()

@@ -1,0 +1,40 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+
+&nicovideo(http://www.nicovideo.jp/watch/sm19566931)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[まざる>まざる/CD]]|CENTER:&bold(){is coloratura}|CENTER:-|
+
+|&bold(){[[k_zero+A]]}|
+
+||CENTER:即売|CENTER:委託|
+|発売|CENTER:2012年12月15日|CENTER:2012年12月|
+|価格|CENTER:￥500|CENTER:￥630（税込）|
+|サークル|>|CENTER:k_zero+A|
+
+**CD紹介
+>この物語は「色を失った世界」に色を取り戻すために、「現実世界(CMY)」と「電脳世界(RGB)」を旅する主人公を描いたものです。
+-動画配信の曲「[[まざる]]」を出発点とした、有料販売の『CMY』及びweb配信の『RGB』の二枚組コンセプト・アルバム。
+-「CMY」はミクが、「RGB」はGUMIが、「[[まざる]]」ではその両方がまざって歌っている。
+-ジャケット絵及び「[[まざる]]」の動画に使用されたイラストは、けーぜろ氏の憧れであったという、おどり氏が手がけている。
+-『CMY』のジャケットには「CDプレスの会社へ伺って担当の方と直に会議をしながら制作を進めたかなりの力作」とブログにあるように、「鍵を探す」ための前代未聞の大胆な仕掛けが施されている。
+-前述のジャケットや、けーぜろ氏お得意の言葉遊び（各曲のタイトル色名を歌詞に入れるなど）に加え、聴き手に旅の終着点の扉を開く「鍵」を探させるなど、曲のみならずHP、ジャケットなどにも様々な工夫が凝らされている。
+-前アルバム『[[まざる>まざる/CD]]』との関係も示唆している。（CMYがまざると黒、RGBがまざると白⇔前アルバムは黒盤・白盤……など）
+-[[とらのあなにて委託販売>>http://www.toranoana.jp/mailorder/article/04/0030/09/33/040030093304.html]]有り。
+
+**曲目
+|>|>|CENTER:BGCOLOR(#808080):[[まざる]]|
+|BGCOLOR(#000):CENTER:&big(){&bold(){&color(#00ffff){ C }}&bold(){&color(#ff00ff){ M }}&bold(){&color(#ffff00){ Y }}}|BGCOLOR(#808080):|BGCOLOR(#FFF):CENTER:&big(){&bold(){&color(#FF0000){ R }}&bold(){&color(#00FF00){ G }}&bold(){&color(#0000FF){ B }}}|
+|[[C>C/k_zero+A]]　&color(red){NEW!}|CENTER:BGCOLOR(#fff):&color(#808080){ 1 }|[[R>R/k_zero+A]]　&color(red){NEW!}|
+|M　&color(red){NEW!}|CENTER:BGCOLOR(#fff):&color(#808080){ 2 }|G　&color(red){NEW!}|
+|Y　&color(red){NEW!}|CENTER:BGCOLOR(#fff):&color(#808080){ 3 }|B　&color(red){NEW!}|
+
+**リンク
+-[[is coloratura(RGB)>>http://mazaru.net/]]（特設サイト）
+-[[k_zero+Aが書くことだ、どうやら>>http://d.hatena.ne.jp/k_zero/]]（作者ブログ）-「[["is coloratura"という作品について>>http://d.hatena.ne.jp/k_zero/20121227/1356628531]]」
+-[[おどり氏pixiv>>http://www.pixiv.net/member.php?id=812414]]-「[[is coloratura(CMY)>>http://www.pixiv.net/member_illust.php?mode=medium&illust_id=32149001]]」「[[is coloratura(RGB)>>http://www.pixiv.net/member_illust.php?mode=medium&illust_id=32149298]]」
+
+**コメント
+- 頒布開始後一年経ちましたが、まだ入手可能なので書いておきましょう。数多のボカロ同人系CDのなかでも屈指の仕上がりだと思います。これは音楽のみの評価ではなくて、CDという物理媒体、web配信という無形要素をクロスオーバーして作品世界を創り出した総合作品としての評価でもあります。  -- 名無しさん  (2013-12-23 15:04:33)
+- RGBも好きですが、CMYは輪をかけて大好きです。中でもMは最高のミクうただと思います。素敵作品に感謝。  -- 名無しさん  (2016-02-10 13:36:12)
+#comment()

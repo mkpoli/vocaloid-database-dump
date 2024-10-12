@@ -1,0 +1,63 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1362_20130826233353_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[all my Ballads～Forever Love～]]|CENTER:&bold(){picture of world~for U~}|CENTER:[[Fruits Mix]]|
+
+|&bold(){[[キッドP]]}|[[クリスタルP]]|[[残鏡P]]|[[れれれP]]|
+
+||CENTER:即売|CENTER:委託|CENTER:配信|
+|発売|CENTER:2012年8月11日|CENTER:2012年8月13日|CENTER:2013年9月6日|
+|価格|CENTER:￥1,000|CENTER:￥1,323（税込）|CENTER:￥1,500 / 1曲￥150|
+|サークル|>|CENTER:NnDS☆||
+|ジャケットイラスト|>|>|CENTER:[[碧茶]]|
+
+**CD紹介
+-キッドPの4thアルバム。
+-2012年夏コミ（C82）で頒布。
+-作詞は[[残鏡P]]が9曲、クリスタルPが1曲提供している。
+-「blue or tears」と「Time Paradox」は[[クリスタルP]]、[[れれれP]]とキッドPの音楽ユニット「3レン腐」の楽曲（シングル『[[一レン托生！]]』収録曲）で、今作ではリアレンジ、リミックスされている。
+-「君に愛が届かないと知っていても」は[[アンメルツP]]主催のコンピレーションCD『[[THE GREATEST 90'z]]』の1曲。コンピレーションでは鏡音レンを使用しているが、今作ではメインをKAITOに差し替えている。また、ギターを生に差し替えたりと多少違いがある。
+-「虹色の少年」は碧茶氏が4月に発行したイラスト集『Apple Ripple Triplet』に付属したCDに収録されている。今作ではミックスをやり直しされている。
+-今作のミックス・マスタリングもクリスタルPが担当。
+-ジャケットイラストとデザインワークスを前々作『[[White Flower～all my Love～]]』時に担当した[[碧茶]]氏。
+-ボーナストラックは1st、2ndと同様2曲。
+-とらのあなにて委託販売が行われている。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++慟哭のラビリズム &color(red){（新曲）}
++-Lyrics:残鏡P／Music:キッド／Arrangement：HzEdge(クリスタルP)
++[[バナナ☆キッス]]
++-Lyrics:残鏡P／Music:キッド／Arrangement：HzEdge(クリスタルP)
++blue or tears &color(blue){（アルバムバージョン）}
++-Lyrics:HzEdge(クリスタルP)／Music:キッド／Arrangement：HzEdge(クリスタルP)
++[[オオカミ少年の最後の嘘]]
++-Lyrics:残鏡P／Music:キッド／Arrangement：HzEdge(クリスタルP)
++[[君に愛は届かないと知っていても]] &color(blue){（アルバムバージョン）}
++-Lyrics：残鏡P／Music:キッド／Arrangement：HzEdge(クリスタルP)
++[[サボテンのきもち]] &color(red){（新曲）}
++-Lyrics：残鏡P／Music:キッド／Arrangement：HzEdge(クリスタルP)
++[[ストロベリー♡プリンセス]] &color(red){（新曲）}
++-Lyrics:残鏡P／Music:キッド／Arrangement：HzEdge(クリスタルP)
++Time Paradox &color(green){(New Mix)}
++-Lyrics:残鏡P／Music:キッド／Arrangement：れれれP
++Interlude-for U-
++-Music:キッド／Arrangement：クリスタルP
++[[ぷらうどきゃっと]] &color(green){(New Mix)}
++-Lyrics:残鏡P／Music:キッド／Arrangement：HzEdge(クリスタルP)
++[[虹色の少年]] &color(green){(New Mix)}
++-Lyrics：残鏡P／Music:キッド／Arrangement：HzEdge(クリスタルP)
++[[無名のフォルダ]]（Bonus Tracks）
++-Lyrics：残鏡P／Music:キッド／Arrangement：HzEdge(クリスタルP)
++[[Filtering]]（Bonus Tracks）
++-Lyrics:残鏡P／Music:キッド／Arrangement：HzEdge(クリスタルP)
+
+**リンク
+-[[NnDS☆（作者サイト）>>http://nnds.soudesune.net/]]
+-[[kid's land（作者ブログ）>>http://yaplog.jp/kidsworks/]]
+-[[とらのあな特設ページ>>http://www.toranoana.jp/mailorder/article/04/0030/05/96/040030059609.html]]
+-[[KARENT：「picture of world~for U~」>>http://karent.jp/album/1362]]
+
+**コメント
+#comment()

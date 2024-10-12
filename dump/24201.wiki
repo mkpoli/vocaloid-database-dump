@@ -1,0 +1,44 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#amazon(B00AYXQGDI)
+
+#image(http://blackout.plug8.info/images/banner_l.jpg,http://blackout.plug8.info/,title=B L A C K O U T,blank)
+
+&nicovideo(sm19687249)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Weekender Girl ／ fake doll]]|CENTER:&bold(){B L A C K O U T}|CENTER:[[ViViD WAVE]]|
+
+|&bold(){[[八王子P]]}|ヒゲドライバー|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|>|CENTER:2012年12月31日|
+|価格|CENTER:￥1,000|CENTER:￥1,470|
+|サークル|>|CENTER:Plug::8|
+
+**CD紹介
+-八王子Pによる同人音楽CD第5段！新曲はもちろんのこと、過去曲のリメイクやヒゲドライバーによるBaby Maniacsリミックスも収録！大ボリュームの全10曲！
+
+**曲目
++entrance
++エスケープ feat. 巡音ルカ
++runner feat. 初音ミク
++BITTER END feat. IA
++Don't Stop Lovin' (More*2 Cutie MIX) feat. GUMI
++[[エレクトリック・マジック]] feat. 鏡音リン・レン
++B L A C K O U T feat. IA
++ノイズキャンセル feat. 初音ミク
++リグレット feat. 初音ミク
++[[Baby Maniacs]] （ヒゲドライバー Remix）
+
+**リンク
+-[[特設サイト>>http://blackout.plug8.info/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/09/76/040030097603.html]]
+-[[メロンブックス>>http://shop.melonbooks.co.jp/shop/sp_213001012868_plug8_blackout.php]]
+-[[D-STAGE>>http://d-stage.com/shop/detail.php?seq=35006]]
+-[[Amazon>>http://www.amazon.co.jp/dp/B00AYXQGDI]]
+
+**コメント
+- このアルバムを買って聴いてみたところ‘八王子P雰囲気変わったよね。’と思わされたアルバムでした。ちなみに曲も勿論良い曲揃いですよ。特にBLACKOUTっていう曲はオススメ。浅倉サウンドを彷彿させるような曲で凄くかっこ良かった。これからの八王子Pの成長が期待させるアルバムです！  -- 名無しさん  (2013-01-23 23:21:38)
+- BLACK OUTのIAの声がカッコイイ… クールな曲調、ポップな曲調どちらも好きです！  -- 名無しさん  (2013-02-01 00:46:17)
+- エレクトリック･マジックが入ってる!!  -- 名無しさん  (2013-02-07 17:06:32)
+#comment()

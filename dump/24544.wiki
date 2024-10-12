@@ -1,0 +1,38 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+//&ref(http://img.toranoana.jp/img/04/0030/09/19/040030091937-1.gif)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Halloween in Prison]]|CENTER:[[カスル・エル・サファ>カスル・エル・サファ/CD]]&br()&bold(){Fruits Mix+}|CENTER:[[君に愛は届かないと知っていても>君に愛は届かないと知っていても/CD]]|
+
+|&bold(){[[キッドP]]}|[[クリスタルP]]|[[残鏡P]]|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2012年12月15日|CENTER:2012年12月31日|
+|価格|CENTER:￥500|CENTER:￥525（税込）|
+|サークル|CENTER:3レン腐|CENTER:NnDS☆|
+
+**CD紹介
+-キッドPのミニアルバム。
+-配信ミニアルバム『[[Fruits Mix]]』に曲を追加した拡張版。
+-新曲の「Apple Ripple Triplet」はイラストを手掛けた[[碧茶]]氏のイラスト集『Apple Ripple Triplet』をイメージした楽曲。
+-コミックマーケット83（C83）で初頒布だが、THE VOC@LOiD M@STER 23（ボーマス23）で先行頒布。
+-とらのあなで委託販売が行われている。
+
+**曲目
++[[ストロベリー♡プリンセス]]
++[[バナナ☆キッス]]
++Apple Ripple Triplet
++[[やきいものうた]]
++ストロベリー♡プリンセス -KID ver-
++バナナ☆キッス -KID ver-
++Apple Ripple Triplet -KID ver-
++ストロベリープリンセス -instrumental-
++バナナ☆キッス -instrumental-
++Apple Ripple Triplet -instrumental-
+
+**リンク
+-[[作者ブログ>>http://yaplog.jp/kidsworks/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/09/19/040030091937.html]]
+
+**コメント
+#comment()

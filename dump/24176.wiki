@@ -1,0 +1,33 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm18546911)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[レンジオブデスティニー>レンジオブデスティニー/CD]]|CENTER:&b(){ZANEEDS ＃03}|CENTER:[[ZANEEDS ＃QED]]|
+
+|&b(){[[パイパンP]]}|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2012年8月11日||
+|価格|CENTER:￥1,000|CENTER:￥1,568（税込）|
+|サークル|>|CENTER:ZANEEDS|
+
+**CD紹介
+-&b(){パイパンP}の国内4thアルバム。C82にて初頒布。
+-『[[Hello_World>Hello_World/パイパンP]]』『[[社会主義★だーりんっ]]』等の既発表曲に、[[鼻そうめんP]]の『[[Unfragment]]』のリミックスや新曲を加えた全8曲を収録。
+
+**曲目
++Hello Morning
++[[City]]
++[[Unfragment]](ZANEEDS Remix)
++Traveller(Dub Mix)
++[[社会主義★だーりんっ]]
++[[Sign>Sign/パイパンP]]
++[[Chikuwa]]
++[[Hello_World>Hello_World/パイパンP]]
+
+**リンク
+-[[ざにお大本営零式（パイパンPのブログ）>>http://blogs.dion.ne.jp/zani0/]]
+-[[とらのあな通販>>http://www.toranoana.jp/mailorder/article/04/0030/06/34/040030063447.html]]
+
+**コメント
+#comment()

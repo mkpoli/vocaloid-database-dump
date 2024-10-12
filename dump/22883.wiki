@@ -1,0 +1,31 @@
+#right(){&furigana(ねぎらうよっ)&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1111_20120815115451_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[あじさい]]|CENTER:&bold(){ね・ぎ・ら・う・よっ！}|CENTER:[[PARTY NIGHT>PARTY NIGHT/U-ji]]|
+
+|&bold(){[[U-ji]]}|[[U-SUKE]]|
+
+発売：2012年8月31日
+価格：￥300 / 1曲￥150
+流通：配信
+レーベル：KARENT
+イラスト：[[オカヒジキ>>http://piapro.jp/toridaisuki]]・[[つみれ>>http://piapro.jp/tsumire]]
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/ne.gi.ra.u.yo!-single/id556324694]]}|
+
+**CD紹介
+-初音ミク発売5周年を記念してリリースされた配信EP。
+
+**曲目
++[[ね・ぎ・ら・う・よっ！]] （feat. 初音ミク&巡音ルカ）
++ね・ぎ・ら・う・よっ！ (EXTENDED MIX) （feat. 初音ミク&巡音ルカ）
++ね・ぎ・ら・う・よっ！ （インストゥルメンタル）
+
+**リンク
+-[[作者ブログ>>http://ameblo.jp/housenrg/]]
+-[[KARENT：「ね・ぎ・ら・う・よっ！」>>http://karent.jp/album/1111]]
+-[[KARENT：「初音ミク 5th Anniversary」特集ページ>>http://karent.jp/special/miku12]]
+
+**コメント
+#comment()

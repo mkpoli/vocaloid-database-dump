@@ -1,0 +1,58 @@
+※ルール改変に伴い、作者名の後ろに「feat.キャラクター名」となっている曲もありますが、ここでは省略しています。
+
+#contents()
+----
+
+＊JOYSOUND
+＊＊配信中・配信決定済
+&font(b,120%){[[BACK（JOY歌手名順【さ】ページへ戻る）>カラオケ配信曲一覧/JOYSOUND歌手名順【さ】]]}
+
+&font(b,120%){[[BACK（カラオケ情報総合インデックスページへ戻る）>カラオケ配信曲一覧]]}
+//リクエスト決定分の曲の追加は月末集計直後に行うのではなく、正式発表後（毎月10日頃）にお願いします。
+
+|歌手名|曲名|曲番号|配信予定|
+|蒼炎P|[[Canvas>Canvas/蒼炎P]]|[[733726>>http://joysound.com/ex/search/karaoke/_selSongNo_733726_song.htm]]|配信中●|
+|[[想太]]|[[いかないで]]|[[313881>>http://joysound.com/ex/search/karaoke/_selSongNo_313881_song.htm]]|配信中●|
+|[[相馬>そうまP]]|[[終わり行く世界と、最後の僕ら。]]|[[103181>>http://joysound.com/ex/search/karaoke/_selSongNo_103181_song.htm]]|配信中●|
+|[[Soh Yoshioka]]|[[tractrix]]|[[669684>>http://joysound.com/ex/search/karaoke/_selSongNo_669684_song.htm]]|配信中●|
+|[[粗品]]|[[希う]]|[[485474>>https://www.joysound.com/web/search/song/843294]]|配信中●|
+|~|[[最高に頭が悪い曲]]|[[485636>>https://www.joysound.com/web/search/song/844443]]|配信中●|
+|~|[[ビームが撃てたらいいのに]]|[[485379>>https://www.joysound.com/web/search/song/841465]]|配信中●|
+|~|[[ぷっすんきゅう]]|[[485378>>https://www.joysound.com/web/search/song/841466]]|配信中●|
+|[[そそそ(津久井箇人)>そそそP]]|[[あなたがいるから-Monitor of Love-]]|[[197558>>http://joysound.com/ex/search/karaoke/_selSongNo_197558_song.htm]]|配信中●|
+|~|[[白い翼の少年]]|[[148067>>http://joysound.com/ex/search/karaoke/_selSongNo_148067_song.htm]]|配信中●|
+|~|[[千年一夜の夢]]|[[148066>>http://joysound.com/ex/search/karaoke/_selSongNo_148066_song.htm]]|配信中●|
+|~|[[Next Stage>Next Stage/そそそP]]|[[111319>>http://joysound.com/ex/search/karaoke/_selSongNo_111319_song.htm]]|配信中●|
+|~|[[Looking for]]|[[670445>>http://joysound.com/ex/search/karaoke/_selSongNo_670445_song.htm]]|配信中●|
+|[[そらいろくらぶ]]|[[ステラプレイス]]|[[106601>>http://joysound.com/ex/search/karaoke/_selSongNo_106601_song.htm]]|配信中●|
+|[[ZOLA>ZOLA PROJECT]]|[[トウキョウジェネレーション]]|[[313777>>http://joysound.com/ex/search/karaoke/_selSongNo_313777_song.htm]]|配信中●|
+|~|[[トウキョウジェネレーション《本人映像》>トウキョウジェネレーション]]|[[701923>>http://joysound.com/ex/search/karaoke/_selSongNo_701923_song.htm]]&br()f1・CROSSO限定|配信中●|
+|~|[[ハイブリッドGO GO]]|[[313528>>http://joysound.com/ex/search/karaoke/_selSongNo_313528_song.htm]]|配信中●|
+|~|[[BORDERLESS]]|[[313776>>http://joysound.com/ex/search/karaoke/_selSongNo_313776_song.htm]]|配信中●|
+|~|[[L∞P L∞P]]|[[668720>>http://joysound.com/ex/search/karaoke/_selSongNo_668720_song.htm]]|配信中●|
+|そらる|[[嘘つき魔女と灰色の虹]]|[[679175>>https://www.joysound.com/web/search/song/541472]]|配信中●|
+|そらる（作詞作曲：[[はるまきごはん]]）|[[アトモスフィア]]|[[688798>>https://www.joysound.com/web/search/song/583157]]|配信中●|
+|そらる（作詞作曲：[[みきとP>みきとP/作り手]]）|[[悋気な惑星]]|[[688796>>https://www.joysound.com/web/search/song/583160]]|配信中●|
+
+
+#co(){以下コピペ用
+|[[歌手名>P名]] (JOY>>joyアーティストページURL)|[[曲名]]|------|09年00月中旬以降|
+
+歌手名にはjoyに登録されているページを、P名はwikiのページ名をお願いします。
+(同一名称が使われている場合P名だけでOKです。)
+joyアーティストページは配信日決定されている曲が1曲以上必要になりますので、
+まだページがない場合()ごと省略して下さい。
+
+同一歌手名の曲に関しては五十音順です。(英語、記号もひらがな読みで)
+アーティストページの記載は任意でOK。(見づらいようでしたら消してください)
+}
+なお、配信予定日の表示が「○月中旬以降」の場合、それから２ヶ月以上遅れることもあります。 
+また、配信予定日が決まっている楽曲は、今のところ、配信予定日の前日か前々日にフライング配信されている模様。 
+
+詳しくは、こちらのマイリストの動画を参照。 
+http://www.nicovideo.jp/mylist/6897112
+
+
+&font(b,120%){[[BACK（JOY歌手名順【さ】ページへ戻る）>カラオケ配信曲一覧/JOYSOUND歌手名順【さ】]]}
+
+&font(b,120%){[[BACK（カラオケ情報総合インデックスページへ戻る）>カラオケ配信曲一覧]]}

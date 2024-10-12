@@ -1,0 +1,23 @@
+#right(){&furigana(ゆきねずみ)&furigana()【登録タグ:&tags()】}
+
+**特徴
+-現在進化中の若手ボカロP。
+-現在投稿されている楽曲はどちらもピアノを主にしている。
+-使用ボカロは現在鏡音リン。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/snownezumi]]
+
+**曲
+#list_by_tag(雪ネズミ,100,sort=furigana,errmsg=)
+
+**CD
+#list_by_tag(雪ネズミCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&youtube(http://www.youtube.com/watch?v=wXEuLiDmU-Y){330,247}|&nicovideo(http://www.nicovideo.jp/watch/sm13365379)|
+
+**コメント
+- ぎゅってファンが友人にいる  -- 名無しさん  (2012-10-30 15:55:19)
+- がんばってください(・∀・)  -- 名無しさん  (2012-12-23 14:15:28)
+#comment()

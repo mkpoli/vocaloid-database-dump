@@ -1,0 +1,31 @@
+#right(){&furigana(たましいのるふらん)&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1176_20121116155023_0280_0280.jpg)
+
+|&nicovideo(sm19503174)|&YouTube(http://www.youtube.com/watch?v=oROlqQsWTfI)|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){魂のルフラン feat.初音ミク}|CENTER:[[One More Time feat.初音ミク]]|
+
+|&bold(){[[守屋くんP]]}|
+
+発売：2012年12月3日
+価格：￥150
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：AYAKO HISHINUMA
+
+**CD紹介
+-守屋くんPのカバーシングル。
+-高橋洋子の同名曲のカバー。
+-「KARENT」と「ROTH ENTERTAINMENT」による共同レーベル、「Lip Sync Records」からのリリース第3弾となる。
+
+**曲目
++魂のルフラン （feat. 初音ミク）
+
+**リンク
+-[[Lip Sync Records>>http://lipsync-records.jp]]
+-[[KARENT：「魂のルフラン feat.初音ミク」>>http://karent.jp/album/1176]]
+
+**コメント
+- こ…これは……  -- ぐらすぷ  (2012-12-25 22:03:50)
+#comment()

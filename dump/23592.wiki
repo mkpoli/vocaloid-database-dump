@@ -1,0 +1,25 @@
+#right(){&furigana(ころいと)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/24986687" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/24986687">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-浮遊感のあるサウンドが特徴。
+-初音ミクの他に、UTAU音源の根音ネネ、鈴音アリカを使用した事がある。
+-投稿しているVOCALOID(UTAU)曲は、全て3分33秒におさまっている。
+
+**リンク
+-[[HP>>http://kagirareta224asu.web.fc2.com/]]
+-[[ピアプロ>>http://piapro.jp/colloid_oroide]]
+
+**曲
+#list_by_tag(コロイド,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(コロイドCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm16938809)|&nicovideo(http://www.nicovideo.jp/watch/nm19469448)|
+|&nicovideo(sm24163880)||
+
+**コメント
+- ああ、眠いなあ···  -- 名無しさん  (2018-10-15 22:28:40)
+#comment()

@@ -1,0 +1,37 @@
+#right(){&furigana(masahidesakuma)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/19082311" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/19082311">【ニコニコ動画】</a></iframe>)
+
+**特徴
+作り手名：『&u(){masahidesakuma}』(&u(){まさひでさくま})
+-ご自身もプロのミュージシャンであり、また多くのミュージシャンをプロデュースした佐久間正英先生です
+-2014年1月16日逝去。享年61。
+
+**リンク
+-[[Facebook>>http://www.facebook.com/masahidesakuma/]]
+-[[Twitter>>http://twitter.com/masahidesakuma/]]
+-[[ホームページ>>http://www.masahidesakuma.net/]]
+-[[SoundCloud>>http://soundcloud.com/masahidesakuma/]]
+-[[myspace>>http://www.myspace.com/masahidesakuma/]]
+-[[Wikipedia>>https://ja.wikipedia.org/wiki/%E4%BD%90%E4%B9%85%E9%96%93%E6%AD%A3%E8%8B%B1]]
+
+**曲
+#list_by_tagsearch(masahidesakuma,sort=furigana2,errmsg=まだ曲が登録されていません。,and,100)
+
+**CD
+#list_by_tagsearch(masahidesakumaCD,sort=furigana2,errmsg=まだCDが登録されていません。,and,100)
+
+
+**動画
+|&nicovideo(sm10706139)|&nicovideo(sm10714016)|
+|&nicovideo(sm10725311)|&nicovideo(sm10738803)|
+|&nicovideo(sm13437876)||
+
+**コメント
+- まだまだ足りないですがとりあえず作りました、おかしいところは直して下さい  -- 名無しさん  (2013-03-22 18:54:14)
+- 追加乙！  -- 名無しさん  (2013-03-23 12:57:05)
+- 追加乙です。ご冥福をお祈りします。。。  -- 名無しさん  (2014-01-21 00:17:14)
+#comment()

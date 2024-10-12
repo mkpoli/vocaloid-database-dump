@@ -1,0 +1,32 @@
+#right(){&furigana(のんふぃくしょん・いんふぃくしょん)&furigana()【登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186138404.jpg,x=300,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm19094613)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){ノンフィクション・インフィクション}|CENTER:-|
+
+|&bold(){[[マイマイ（岐阜の方P）]]}|
+
+|流通|CENTER:即売|
+|発売|CENTER:2012年10月28日|
+|価格|CENTER:￥500（税込）|
+|サークル|CENTER:マイマイラボ|
+
+**CD紹介
+-岐阜の方P こと マイマイ氏 の 1st mini album.
+-これまでにリリースした既存曲や書き下ろしの新曲にボーナストラックを加えた、全7曲を収録。
+-ジャケットイラストを マトリョーシカ氏 が、ジャケットデザインを[[Natika>うた]]氏が、エンコードを[[波摘]]氏が手掛ける。
+-VOCALOID PARADISE 7（ボーパラ7）にてリリース。
+
+**曲目
++彼方センチメント
++[[色彩の街]]
++[[雨音のストーリー]]
++Suicide Sunday
++[[スターシップ>スターシップ/マイマイ（岐阜の方P）]]
++[[きれいごと]]
+
+**コメント
+#comment()

@@ -1,0 +1,40 @@
+#right(){&furigana(そそそべすと) &furigana()【登録タグ:&tags() 】}
+
+|CENTER:前作|CENTER:今作|CENTER:次作|
+|CENTER:[[Sunspot Cycle feat. 鏡音リン & 鏡音レン]]|CENTER:&bold(){そそそベスト（仮）}|CENTER:[[運命の歯車を廻して feat. 初音ミク]]|
+
+|&bold(){[[そそそP]]}|
+
+流通：即売
+発売：2012年8月29日
+価格：￥500
+サークル：S-TRIBE
+
+**CD紹介
+-C82（コミックマーケット82）で頒布された、そそそPのVOCALOIDベストアルバム。
+-省エネということで、手焼きCD-Rを少数頒布。
+-完売。
+
+**曲目
++[[あなたがいるから-Monitor of Love-]] feat. 初音ミク
++[[サヨナラ>サヨナラ/そそそP]] feat. 初音ミク
++[[きっとこの場所で]] feat. 初音ミク
++[[Next Stage>Next Stage/そそそP]] feat. 初音ミク
++[[命の翼-Listen to my soul-]] feat. 初音ミク
++[[アリガトウを言えたなら]] feat. 初音ミク
++[[Looking for]] feat. 巡音ルカ
++[[Change the world]] feat. 巡音ルカ
++[[Try for Keeps-時代はいつでもLOOPする-]] feat. 初音ミク
++[[愛の翼-Eternal song-]] feat. 初音ミク
++[[千年一夜の夢]] feat. 巡音ルカ
++[[White Railroad]] feat. 初音ミク
++[[白い翼の少年]] feat. 鏡音レン
++[[AGAIN>AGAIN/そそそP]] feat. 鏡音リン
++[[ダークネスファイター]] feat. 鏡音リン
++BOUNUS TRACK（新曲先行収録）
+
+**リンク
+-[[作者サイト>>http://www.s-tribe.net/]]
+
+**コメント
+#comment()

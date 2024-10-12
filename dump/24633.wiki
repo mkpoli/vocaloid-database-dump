@@ -1,0 +1,52 @@
+#right(){&furigana(KeyWord)&furigana()【登録タグ:&tags()】}
+|&nicovideo(sm20199990)|&YouTube(https://www.youtube.com/watch?v=W671EvSfhpg){342,187}|
+作詞：[[AVTechNO]]
+作曲：[[AVTechNO]]
+編曲：[[AVTechNO]]
+唄：[[KAITO]] V3 (Straight・English)
+
+**曲紹介
+曲名：『&u(){Key/Word}』
+-KAITOを初使用した楽曲。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**音楽配信
+&ref(http://karent.jp/npdca/1237_20130225093346_0280_0280.jpg)
+
+|CENTER:前作|CENTER:今作|CENTER:次作|
+|CENTER:[[Your]]|CENTER:&bold(){Key / Word}|CENTER:[[ニカソピテキ]]|
+
+流通：配信
+発売：2013年3月6日
+価格：￥300 / 1曲￥150
+レーベル：[[KARENT>>http://karent.jp/album/1237]]
+ジャケットイラスト：AVTechNO!
+
+|&bold(){[[iTunes Storeで購入>>https://itunes.apple.com/jp/album/key-word-single/id610224246]]}|
+
+***曲目
++Key/Word （feat. 巡音ルカ&鏡音レン）
++Key/Word - K （feat. KAITO）
+
+**歌詞
+この世のすべては言葉に意味を宿し
+街中にバラまいて世界をまわしてる
+未来を動かせる1つのキーワードを
+必ず探し出して僕らの世界を変えてやる
+
+To finding out it' I never give up.
+
+宿された言葉は僕らを動かして
+カラフルな街へと色付けしていくように
+僕らは僕たちの世界を見出して
+この世の理想を超える理想を手にして生きてやる
+
+imagination
+
+Key/Word
+
+
+**コメント
+- 追加おつ！  -- 名無しさん  (2013-02-27 23:24:32)
+- ジャケ格好良い！  -- 名無しさん  (2013-03-10 13:54:10)
+#comment()

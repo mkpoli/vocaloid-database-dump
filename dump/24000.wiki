@@ -1,0 +1,38 @@
+#right(){&furigana(ろく)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/29316950" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/29316950">【ニコニコ動画】六</a></iframe>)
+
+**特徴
+作り手名：『&u(){六}』（&u(){ろく}）
+-2012年1月、『[[レノウ]]』でボカロデビューしたエレクトロニカの作り手。
+-使用ボカロは今のところ、ミクのみ。
+-サムネはシンプルな一枚絵と縦書きの歌詞、タイトルも3文字カタカナのタイトルで統一されている。
+-現在の名義は&bold(){852話（はこにわ）}。
+
+**リンク
+//-[[6 DAY（作者ホームページ）>>https://1o2o3o4o5o6.tumblr.com/]]
+//-[[Twitter>>https://twitter.com/1o2o3o4o5o6]]
+-[[Twitter>>https://twitter.com/8co28]]
+-[[PIAPRO>>https://piapro.jp/rokulocu]]
+-[[ニコニコ>>https://www.nicovideo.jp/user/24993196]]
+-[[YouTube>>https://www.youtube.com/channel/UC3RPXxiUNw-m7H7xAG8WMVQ]]
+
+**曲
+#list_by_tag(六,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(六CD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|>|BGCOLOR(#0cb0e0):COLOR(#FFF):CENTER:&font(b,11pt){オリジナル曲}|
+|&nicovideo(sm16583902)|&nicovideo(sm16793142)|
+|&nicovideo(sm17147810)|&nicovideo(sm19543934)|
+|&nicovideo(sm22599187)|&nicovideo(sm26789258)|
+
+**コメント
+- この人の作る曲にすごく惹きつけられる…！  -- 774  (2016-08-28 16:40:21)
+- CDでたら絶対買うのに…  -- 名無しさん  (2016-11-04 00:17:23)
+#comment()

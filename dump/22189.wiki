@@ -1,0 +1,25 @@
+#right(){&furigana(ちょこみんとP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/7124086" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/7124086">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-VOCALOIDのPとして、また歌い手としてニコニコ動画で活動している。
+-P名の由来は、「チョコミントが好きだから」というストレートな理由らしいが、歌い手としての名前「Asami」のあだ名である「アサミント」にかけているという説もある。
+
+//**リンク
+//-個人HP、PIAPRO、muzie等ある場合は、ここに。当wiki以外のサイトへリンクを貼る場合は必ず「>>」で別ウインドウでリンクしてください。
+
+**曲
+#list_by_tag(チョコミントP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(チョコミントPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm2505609)|&nicovideo(sm2982954)|
+|&nicovideo(sm3659661)|&nicovideo(sm12338001)|
+
+**コメント
+- 書式を整えました。作った方へ。ニコニコ大百科からのコピーはやめてください。  -- 名無しさん  (2012-07-09 20:09:14)
+- 必要のある一部引用ならともかく、他所からの文章丸コピーをして作ったページは白眼視されるだけですよ。せっかくページを作るなら少し手間をかけたらどうですか。  -- 名無しさん　(2012-07-09 20:51:53)
+- 各曲のページ名の☆はいらないと思う　それぞれのページでもコメされてるし  -- 名無しさん  (2016-12-20 10:54:00)
+#comment()

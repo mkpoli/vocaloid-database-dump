@@ -1,0 +1,32 @@
+#right(){&furigana(たまらんP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/11435668" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/11435668">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-2009年3月13日、「[[暗中模索ニ僕ハ往ク]]」でデビュー。
+-使用ボーカロイドは初音ミク、鏡音リン。
+
+**リンク
+-[[ブログ>>http://jackson501.blog112.fc2.com/]]
+-[[Twitter>>http://twitter.com/jackson_tamaran]]
+
+**曲
+#list_by_tag(たまらんP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(たまらんPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/nm6424011)|&nicovideo(sm8276687)|
+|&nicovideo(sm8434154)|&nicovideo(sm8572855)|
+|&nicovideo(sm8976939)|&nicovideo(sm9594666)|
+|&nicovideo(sm10507930)|&nicovideo(sm10584507)|
+|&nicovideo(sm11145944)|&nicovideo(sm12549149)|
+|&nicovideo(sm13246496)|&nicovideo(sm14617298)|
+|&nicovideo(sm16313354)|&nicovideo(sm17541226)|
+|&nicovideo(sm18127244)|&nicovideo(sm18485190)|
+|&nicovideo(sm18643131)|&nicovideo(sm19194512)|
+
+**コメント
+- この人埋もれ過ぎ  -- 名無しさん  (2013-01-14 14:03:31)
+- なぜこうも良い曲作る人が埋もれてしまうのか…  -- 名無しさん  (2013-02-03 20:32:25)
+#comment()

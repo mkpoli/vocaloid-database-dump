@@ -1,0 +1,39 @@
+#right(){&furigana(はろーくっはいをくりかえして)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+//&ref(https://shunsukekon.bandcamp.com/releases#https://f4.bcbits.com/img/a0246297764_10.jpg,x=300,y=300)
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186134750.jpg,x=300,y=300)
+
+&nicovideo(sm14670915)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[わたしとあなたときみとぼく]]|CENTER:&bold(){ハローグッバイをくりかえして}|CENTER:-|
+
+|&bold(){[[osu]]}|
+
+発売：2011年06月12日
+価格：￥500
+流通：即売
+
+**CD紹介
+-osu氏による2ndミニアルバム。
+CD名：『&u(){ハローグッバイをくりかえして}』
+-THE VOC@LOiD M@STER 16（ボーマス16）で頒布された。
+-見る者を皆驚かせたクロスフェードは必見である。
+
+**曲目
++[[サルベージ>サルベージ/osu]]
++[[nag]]
++[[夕暮れ、沈む赤]]
++[[センチメンタリズム]]
++[[グッドモーニング]]
+
+//**リンク
+//-[[作者ブログ>>http://osu413.blog62.fc2.com/]]
+//
+**コメント
+- クロスフェード面白かったｗｗこれほしい  -- 名無しさん  (2013-04-21 12:30:18)
+#comment()

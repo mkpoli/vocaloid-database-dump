@@ -1,0 +1,37 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#ref(http://beatlogic.jp/image/bewc02/bewc02.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){eLekSoNicRusHeRRRRRR!!!}|CENTER:-|
+
+|&bold(){[[cello]]}|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|CENTER:2012年08月11日|CENTER:2012年08月11日|
+|価格|CENTER:￥500（税込）|CENTER:￥840（税込）|
+|サークル|CENTER:beatlogic|>|
+
+**CD紹介
+>&bold(){MORE LOUDER！SHORTER！FASTER！そんなおふざけPOPCORE!}
+-cello(beatlogic)の1st黒歴CD！
+-ジャケットイラストはPixivにて活躍する櫻井エネルギー氏。
+
+**曲目
++巡回コースはゲマズから？
++フェイスライダー顔騎
++I am PIG
++ドグマグ
++ゲーセン嬢のエール
++擬音祭
++今夜のオカズのメニューが読めない!
++@cello39
++eLekSoNicRusHeRRRRRR!!!
++ツインテール a.k.a.
+
+**リンク
+-[[特設サイト>>http://beatlogic.jp/?p=45]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/06/27/040030062767.html]]
+-[[amazon>>http://www.amazon.co.jp/eLekSoNicRusHeRRRRRR-cello/dp/B008RK6ARW/ref=sr_1_1?ie=UTF8&qid=1345214717&sr=8-1]]
+
+**コメント
+#comment()

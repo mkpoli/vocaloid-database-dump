@@ -1,0 +1,45 @@
+#right(){&furigana(あかんやつこんぴ。)&furigana()【登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186123526.jpg,x=300,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm19169504)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[ごっつええコンピ。]]|CENTER:&bold(){あかんやつこんぴ。}|CENTER:-|
+
+|&bold(){[[sunny spot]]}|[[石風呂]]|[[リクルートP]]|[[ヘリP]]|[[CapsLack]]|[[つきな]]|[[BIRUGE>コモレビノーツ]]|
+|[[きむた]]|[[yu-go]]|[[やみくろ]]|[[はやくP]]|[[イママP>yksb]]|[[imosuke]]||
+
+|流通|CENTER:即売|
+|発売|CENTER:2012年10月28日|
+|価格|CENTER:￥1,000（税込）|
+|サークル|CENTER:ちょっと寄って行かへん？|
+
+**CD紹介
+>&bold(){これはあかんやつや！！}
+-前作「[[ごっつええコンピ。]]」から1年、関西の野郎共が帰ってきた！個性派揃いのあかんやつらがお送りする珠玉の13曲！
+-sunny spot こと 水那月詩音氏 が主催の、関西ボカロオフ派生コンピレーションCDの第2弾。
+-ジャケットイラスト・デザインは [[BIRUGE>コモレビノーツ]]氏 が手掛ける。
+-VOCALOID PARADISE 7（ボーパラ7） にてリリース。
+
+**曲目
++人類救済大作戦 feat. GUMI　/　[[リクルートP]]
++Resolve feat. 初音ミク　/　[[ヘリP]]
++天王寺ノスタルジック feat. 猫村いろは　/　[[きむた]]
++It's a WOndeRful LiFE feat. 鏡音リン・鏡音レン　/　[[sunny spot]]
++完成された世界と少女たち feat. 初音ミク　/　[[つきな]]
++遠い道 feat. miki　/　[[石風呂]]
++not A feat. 初音ミク　/　[[imosuke]]
++アウロラの夢 feat. 巡音ルカ　/　[[はやくP]]
++[[ASH DRIVE]] feat. IA　/　[[イママP>yksb]]
++こころかずのうた feat. 巡音ルカ　/　[[やみくろ]]
++夕暮れバーミリオン feat. 初音ミク　/　[[BIRUGE>コモレビノーツ]]
++[[真夜中と混線少年]]　feat. 初音ミク　/　[[CapsLack]]
++[[パラレループアンデッド]]　feat. 鏡音リン　/　[[yu-go]]
+
+**リンク
+-[[特設サイト>>http://sunnyspot-shion.com/akkaaaan/]]
+
+**コメント
+- 4番が不思議なリズム感で気に成ります。  -- 羽旨魔歩流(はむねまぼる)  (2012-10-21 21:15:30)
+#comment()

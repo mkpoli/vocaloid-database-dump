@@ -1,0 +1,65 @@
+#right(){&furigana(StepbyStep)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm19635970)|
+作詞：[[Giz]]
+作曲：[[Nia]]
+編曲：[[Nia]]
+PV：[[けいぢ]]
+唄：[[結月ゆかり]]
+
+**曲紹介
+>&bold(){ゆかりさんを家に招いてからまだ1曲しか歌ってもらってなくて、そろそろゆかりクラスタをクビになりそうなので！！&br()生誕祭を少しでも盛り上げれたらと！！どーんと1曲作りました！！&br()　　よろしくお願いします (・∀・)ｂ}
+曲名：『&u(){Step by Step}』（&u(){ステップ バイ ステップ}）
+-Nia氏 の16作目。
+
+**歌詞
+（動画より書き起こし）
+
+部屋に響く　音　「おはよう」の文字　始まる朝
+はねた髪　束ねて2つ結び
+青　今を　呟いたら　ドア　開く
+眩しい日が 射す　胸を　高鳴らせて　君と　歩く
+
+Step by step, day by day, with you
+Take my hand, look up the sky 
+Step by step, day by day, with you
+I've made my mind so don't look back
+Step by step, day by day, with you
+Sunny or Rainy
+
+キミと見る景色　変わってく
+五線譜に書き出す音符（おと）のように
+ひとつひとつ　大切に紡いでゆこう
+
+小さくてもいいよ　ささやかな
+幸せを積み重ねていけば
+カラフルなメロディきっと流れだす
+
+Step by step, day by day, with you
+Take my hand, look up the sky 
+Step by step, day by day, with you
+I've made my mind so don't look back
+Step by step, day by day, with you
+Sunny or Rainy
+
+今までもきっと　これからも
+顔あげて未来だけみつめて
+大好きだよ　後悔なんてしたくない
+
+目の前の道を歩いてく
+キミと手を繋いで少しずつ
+幸せの轍（わだち）二人で作ろう
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+**コメント
+#comment()
+
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)

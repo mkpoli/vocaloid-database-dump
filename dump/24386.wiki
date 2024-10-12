@@ -1,0 +1,108 @@
+#right(){&furigana(そんさいいましねーしょん)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm19970944)|
+作詞：[[ALT（蕾P）]]
+作曲：[[ALT（蕾P）]]
+編曲：[[ALT（蕾P）]]
+ベース：[[はるちん]]
+リードギター：[[お前のムスコ]]
+イラスト：[[grow]]
+動画：[[hazfirst]]
+唄：[[MEIKO]]・[[KAITO]]・[[初音ミク]]・[[鏡音リン・レン]]・[[巡音ルカ]]・[[GUMI>Megpoid]]・[[神威がくぽ>がくっぽいど]]・[[IA]]（調声：[[halP]]（MEIKO）、[[Lukida]]（KAITO）、[[ALT（蕾P）]]（ミク）、[[ニクロムP]] （リン・レン）、[[ヤオギ]]（ルカ）、[[ありぱぱP]]（GUMI）、[[根気P]]（がくぽ）、[[koaxial]]（IA））
+
+**曲紹介
+曲名：『&u(){存在イマジネーション}』（&u(){そんざいいまじねーしょん}）
+-ALT（蕾P） の6作目は大規模コラボ作。
+-今回ボカロを9人使い、8人の方に調声してもらいました。この曲で笑って、泣いて、ニコニコして貰えたら嬉しいです。それが「僕らの願い」。（作者コメ転載）
+//-MEIKOを [[halP]] が、KAITOを [[Lukida]]氏 が、ミクを ALT（蕾P） が、リン・レンを [[ニクロムP]] が、ルカを [[ヤオギ]]氏 が、GUMIを [[ありぱぱP]] が、がくぽを [[根気P]] が、IAを [[koaxial]]氏 がボカロの調声を担当している。
+//-イラストを grow氏 が、動画を [[hazfirst]]氏 が手掛ける。ベースを はるちん氏 が、リードギターを お前のムスコ氏 が演奏。
+
+**歌詞
+&color(deepskyblue){初音ミク} &color(red){ＭＥＩＫＯ} &color(blue){ＫＡＩＴＯ} &color(deeppink){巡音ルカ}
+&color(yellow){鏡音リン} &color(gold){鏡音レン}
+&color(purple){神威がくぽ} &color(green){ＧＵＭＩ} &color(lightpink){ＩＡ} &color(darkorange){鏡音リン・鏡音レン}
+&color(lightsteelblue){ＫＡＩＴＯ・ＭＥＩＫＯ}
+&color(violet){ＩＡ・ＧＵＭＩ}
+&color(hotpink){巡音ルカ・ＩＡ}
+&color(darklatebllue){ＫＡＩＴＯ　巡音ルカ}
+&color(firebrick){ＭＥＩＫＯ・初音ミク}
+&color(olive){神威がくぽ・ＧＵＭＩ}
+&color(blueviolet){神威がくぽ・ＩＡ}
+&color(greenyellow){ＧＵＭＩ・鏡音リン}
+&color(mediumslateblue){ＫＡＩＴＯ・ＩＡ}
+&color(mediumvioletred){ＭＥＩＫＯ・巡音ルカ}
+&color(black){全員}
+
+1.
+&color(deepskyblue){届けたい歌を君に想いを乗せて世界へと僕らの道は続いてる――}
+
+&color(deeppink){歩き出したこの道の先には　どんな世界が僕らを待っているのだろう}
+&color(darkorange){時にはきっと}&color(gold){つまづく事もある}
+&color(darkorange){だけどその度に}&color(gold){きみの声が背中押すんだ}
+
+&color(red){もう僕らは}&color(blue){（もうぼくらは）}
+&color(red){一人じゃないよ}&color(lightsteelblue){いつでも}
+&color(red){すぐそばにいて}&color(blue){（すぐそばにいて）}
+&color(lightsteelblue){支え合えるから乗り越えて行ける}
+
+&color(violet){届けたい歌を君に}
+&color(hotpink){想いを乗せて世界へと}
+&color(lightsteelblue){繋がるよ今そこに響け}
+&color(black){僕らの願い}
+&color(firebrick){今そこにある軌跡（奇跡）が}
+&color(red){明日への架け橋になる}
+&color(purple){振り返らずにさあ}
+&color(deepskyblue){歩き出そう}
+
+２．
+&color(olive){この時代に}&color(green){生まれてきたことで}
+&color(olive){僕らは同じ}&color(purple){苦しみ分かち合えるから}
+&color(blueviolet){きみが作る}&color(lightpink){歌を届けること}
+&color(blueviolet){そこにはきっと}&color(purple){意味があると思えるんだ}
+&color(green){ほらそっと}&color(yellow){（ほらそっと）}&color(green){僕らの境}&color(greenyellow){界線}&color(green){（きょうか}&color(greenyellow){いせん）が}
+&color(yellow){消えて行くよ}&color(green){（消えて行くよ）}&color(greenyellow){今始まるんだ}&color(green){新しい物語が――}
+
+&color(yellow){誰の為に}&color(gold){（誰の為に）}
+&color(blue){君は描く}&color(red){（君は描く）}
+&color(purple){孤独の向こう}&color(deeppink){（孤独の向こう）}
+&color(green){まだ見ぬ}&color(black){世界を}
+&color(deepskyblue){僕らいつかきっと忘れられるのかな？}
+&color(deeppink){続く道の中で――}
+
+&color(lightpink){届けたい}&color(mediumslateblue){歌を君に}
+&color(blue){想いを乗せ}&color(lightsteelblue){て世界へと}
+&color(mediumvioletred){愛の無い歪んだ言葉に}&color(deeppink){涙流しても}
+&color(darkorange){それでも歩き出せずに}
+&color(purple){立ち止まりそうなときは}
+&color(green){きみの代わりに}
+&color(deepskyblue){歌いたい}
+&color(black){歌いたい――}
+
+
+**コメント
+- 追加おつ！  -- 名無しさん  (2013-02-01 20:16:59)
+//- IAじゃなくてLilyがいい…。  -- 名無しさん  (2013-02-01 20:17:43)
+- 追加乙です！この曲最高！！  -- 名無しさん  (2013-02-09 19:06:31)
+- 最高！元気でる！  -- Finest  (2013-02-14 10:27:27)
+- この曲は神作!!   &br()…ただ動画の間奏中で吹いたww  -- 鴉  (2013-02-17 09:46:12)
+- いい曲！この歌詞がすばらしい!!!  -- りゃくし  (2013-02-28 23:33:13)
+- 笑って、泣いて、ニコニコしましたよｗ  -- 夢鳥  (2013-03-01 02:14:41)
+- 正しくネタとガチの波状攻撃だったなwそれでも技術は文句無しの一級!カッコ良かったw  -- sasagon  (2013-05-05 16:02:45)
+- 色分けの歌詞欲しいな。  -- 阪本  (2013-06-16 12:38:18)
+- もっと評価されるべき  -- 名無しさん  (2013-07-26 21:06:00)
+- この歌とても素晴らしい！！  -- 名無しさん  (2013-08-09 12:16:00)
+- ボカロの曖昧さとか危うさとかを全て肯定した感じで大好きです!!!CD欲しい。  -- クレヨンの民  (2013-11-17 19:16:31)
+- 色分けupしました。タグミスもあるんですが、パソコンが重いため、全てのチェックを含め、後日再upします  -- 名無しさん  (2014-03-08 20:54:42)
+- ↑お疲れ様。しかしもうちょい伸びてもいいと思うんだけどな、この曲  -- 名無しさん  (2014-03-08 22:02:36)
+- ↑ありがとうございます(*^^*)そうですよね～名曲だと思います  -- 名無しさん  (2014-03-09 14:15:36)
+- なんで早く聞かなかったんだろう(´；ω；｀)調声が凄く良いし、歌詞も曲も最高(´ω｀)ギターがwww大好きな曲になりましたっ!!  -- 更級  (2014-08-05 02:59:30)
+- 良曲  -- マサ子の友達  (2014-11-17 17:58:06)
+- とても元気が出る歌です！ニコニコする事も出来ました！ルカの『続く道の中で―――』のところが好きです！  -- 舞笛  (2014-12-18 11:43:07)
+- 色分けの歌詞で、「(孤独の向こう)」のところはルカではなくＩＡじゃないですか？  -- 舞笛  (2015-01-07 19:47:36)
+- この歌、とってもいい歌ですね。最近知りました！皆さんが言う通りもっとのびるはずなんですがねぇ( ´·  ω  · ` )  -- 來羅  (2015-05-06 21:07:22)
+- この歌好きだ！まじいいよな！最高だ！  -- 隼人  (2016-09-27 19:45:39)
+- もっと人気になってもいいくらい素敵な曲だから広まってほしい  -- ｈ  (2023-09-04 22:58:08)
+#comment()

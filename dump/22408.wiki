@@ -1,0 +1,52 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+|&ref(http://karent.jp/npdca/1080_20120701185447_0280_0280.jpg)&br()配信版ジャケット|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){semitranslucent}|CENTER:[[アキアカネ>アキアカネ/CD]]|
+
+|&bold(){[[andromeca]]}|
+
+|流通|CENTER:即売|CENTER:配信|
+|発売|CENTER:2009年2月2日|CENTER:2012年7月13日|
+|価格|CENTER:￥|CENTER:￥1,500 / 1曲￥150|
+|サークル|CENTER:andromeca||
+
+**CD紹介
+-andromeca氏の1stCD。
+-THE VOC@LOiD M@STER 7（ボーマス7）で頒布。
+-2012年には一部曲目を変更した配信版をリリースした。
+-配信版はKARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
+***CD版
++[[ナバスカイ]]
++[[pteron]]
++[[キレイナキモチ]]
++[[Lividus]]
++[[カラクリノコイ]]
++[[Very7]]
++ヒマワリシンキング
++[[Falsky]]
++[[イロハモミジ]]
++Paramoon
++[[アキアカネ]]
+
+***配信版
++[[ナバスカイ]] feat. 巡音ルカ
++[[pteron]] feat. 鏡音リン
++[[キレイナキモチ]] feat. 初音ミク
++[[Lividus]] refrain feat. 初音ミク
++[[カラクリノコイ]] feat. 初音ミク
++[[Very7]] feat. Sweet Ann
++ヒマワリシンキング feat. 初音ミク
++[[Falsky]] feat. Prima
++スリーロウズ feat. Sweet Ann
++[[Solowing]] feat. Tonio
++パラムーン feat. 巡音ルカ
+
+**リンク
+-[[作者サイト>>http://andromeca.s324.xrea.com/]]
+-[[KARENT：「semitranslucent」>>http://karent.jp/album/1080]]
+
+**コメント
+#comment()

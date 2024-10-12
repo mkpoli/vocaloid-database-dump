@@ -1,0 +1,74 @@
+#right(){&furigana(くっともーにんく)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm14005170)|&youtube(https://www.youtube.com/watch?v=k6tckyyOjmA){342,187}|
+作詞：[[osu]]
+作曲：[[osu]]
+編曲：[[osu]]
+イラスト・ロゴ：ゆうこ
+唄：[[初音ミク]]・[[巡音ルカ]]
+
+**曲紹介
+>&bold(){はじまりはここから}
+曲名：『&u(){グッドモーニング}』
+-これで7作目くらいだったと思います。（動画説明文より転載）
+//-イラスト・ロゴは ゆうこ氏 が手掛ける。
+-YouTube版はタイトルが英語になっている。
+
+**歌詞
+いつか君が僕にくれた愛の言葉
+僕はいつも君に助けられてばかりなの
+
+いつも僕は君を悲しませてばかりなの
+だけど君は僕を抱きしめる
+
+ほら出ておいで
+何も怖がらなくても良いよ
+
+ねぇそばにおいで
+君の嫌なことと一緒にお別れしようよ
+
+始まりはここから　そうさ　そうだ
+
+そんな日々が続いて、
+今も世の中嫌なことだらけ
+
+だけどまぁそれなりに、
+苦手なこともできるように少しずつ
+
+始まりはここから　そうさ　そうだ
+
+
+#region(close,英語詞)
+歌詞英訳：イヨリ
+
+There was a time when you were so kind to me
+Always lending a warm hand
+
+I broke your heart over and over again
+But you still held me tight.
+
+Here, don't worry, come to me
+There's nothing to be afraid of
+
+Please stay by my side
+and say good-bye to the things that make you cry
+
+This is where I begin
+I'm sure, I'm sure.
+
+I lived day after day full of hatred
+The coming days will remain full of hatred
+
+But, well, in my own way
+I'm trying my hardest to make peace with these struggles
+
+This is where I begin
+I'm sure, I'm sure.
+#endregion
+
+
+**コメント
+#comment()

@@ -1,0 +1,27 @@
+#right(){&furigana(MASA)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/31327709" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/31327709">【ニコニコ動画】</a></iframe>)
+
+**特徴
+作り手名：『&u(){MASA}』(&u(){まさ})
+-昭和系フォーク自作自演屋（シンガーソングライター）
+-自身の歌唱楽曲とは違った雰囲気の曲をボカロに歌っていただいてます。
+
+**リンク
+-[[ピアプロ>>http://piapro.jp/masa3914]]
+
+**曲
+#list_by_tagsearch(MASA,sort=furigana2,errmsg=まだ曲が登録されていません。,and,100)
+
+**CD
+#list_by_tagsearch(MASACD,sort=furigana2,errmsg=まだCDが登録されていません。,and,100)
+
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm16224719)|&nicovideo(http://www.nicovideo.jp/watch/sm19666979)|
+
+**コメント
+#comment()

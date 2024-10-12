@@ -1,0 +1,41 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+//#amazon()
+//
+&nicovideo(http://www.nicovideo.jp/watch/sm19534195)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[2PENTAGON]]|CENTER:&b(){8th}|CENTER:[[Re:fiction]]|
+
+|&b(){[[kous]]}|[[hie]]|
+
+|流通|CENTER:即売|
+|発売|CENTER:2012年12月15日|
+|価格|CENTER:￥1,000|
+|サークル|CENTER:kous to 初心者|
+
+**CD紹介
+>&bold(){悪魔を呼び出しちゃった魔女のお話と、悪魔の続きのお話。}
+-kous氏 の 11th album 。
+-先行リリースされた 『[[絵虚言事。]]』 に新曲を加えた全8曲を収録。
+-いろいろな思いを馳せて作りました！（作者コメ転載）
+-ジャケットデザインなどのアートワークは [[hie]]氏 が手掛ける。
+-THE VOC@LOiD M@STER 23（ボーマス23）にてリリース。
+
+**曲目
++硝子造りの箱庭
++[[明日の料理]]
++リプライ
++ans
++[[現実ループ。故の、]]
++[[ヤミ病み]]
++[[絵虚言事。]]
++悪魔ファンタジア -Acoustic ver.-
+
+**リンク
+-[[kous+音（作者ホームページ）>>http://kous1128.mods.jp/hp/]]
+-[[作者ブログ>>http://kous1128.blog22.fc2.com/]]
+
+**コメント
+- 7の続き？  -- 名無しさん  (2012-12-13 02:00:04)
+- どうしてヤミ病みの記事できないのだろう  -- 名無しさん  (2014-03-30 16:51:55)
+#comment()

@@ -1,0 +1,63 @@
+#right(){&furigana(あやは（さわP）)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/28444415" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/28444415">【ニコニコ動画】</a></iframe>)
+
+
+**特徴
+-P名の通り、メロディアスで爽やかな曲を多く手がけている。
+-使用VOCALOIDは初音ミク、GUMI、IA。
+-名前から女性だと勘違いされがちだが、男性である。&bold(){男性である。}
+-&bold(){綾咲コウキ}、&bold(){ハマダコウキ}という名義でも活動している。
+-Twitterでは曲からは想像できない荒ぶり方をかますこともしばしば。
+-歌い手のKEISUKEと「ポケットリズム」というユニットを組んでいる。
+-なんとなく投稿した「ミッフィー×進撃の巨人」がランキグ総合1位をとるなど、様々な意味で注目されているボカロPである。
+
+
+**リンク
+-[[あやとりごと(作者ブログ)>>http://ayaha315.blog136.fc2.com/]]
+-[[PIAPRO>>http://piapro.jp/ayaha_315]]
+//-[[Twitter>>https://twitter.com/Ayaha3]]
+-[[Twitter>>https://twitter.com/k_aysk3]]
+-[[Youtube>>https://www.youtube.com/channel/UCvSNt-43YuLCTyZNDAKtCeg/featured]]
+
+**曲
+#list_by_tag(綾葉（爽P）,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(綾葉（爽P）CD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm16018573)|&nicovideo(sm16621754)|
+|&nicovideo(sm16851513)|&nicovideo(sm17278898)|
+|&nicovideo(sm17279041)|&nicovideo(sm17367773)| 
+|&nicovideo(sm17536681)|&nicovideo(sm17557146)|
+|&nicovideo(sm18469409)|&nicovideo(sm18614245)|
+|&nicovideo(sm18830318)|&nicovideo(sm18841219)|
+|&nicovideo(sm18898646)|&nicovideo(sm19307827)|
+|&nicovideo(sm19633318)|&nicovideo(sm20226080)|
+|&nicovideo(sm20226903)|&nicovideo(sm20521144)|
+|&nicovideo(sm20744222)|&nicovideo(sm20775831)|
+|&nicovideo(sm21196011)|&nicovideo(sm21478126)|
+|&nicovideo(sm21650570)|&nicovideo(sm22272509)|
+|&nicovideo(sm22783101)|&nicovideo(sm23565481)|
+|&nicovideo(sm23789575)|&nicovideo(sm23947208)|
+|&nicovideo(sm24202722)|&nicovideo(sm24294712)|
+|&nicovideo(sm25697518)|&nicovideo(sm25795329)|
+|&nicovideo(sm26215412)|&nicovideo(sm26639693)|
+|&nicovideo(sm28252973)|&nicovideo(sm29185947)|
+|&nicovideo(sm29750769)|&nicovideo(sm30313696)|
+|&nicovideo(sm32667523)|&nicovideo(sm33653522)|
+|&nicovideo(sm40360574)|&nicovideo(sm40544213)|
+//|&nicovideo()|&nicovideo()|
+
+**コメント
+- 何かありましたらコメ又は修正お願いします_(._.)_  -- もじょもじょ  (2012-07-09 01:43:34)
+- 作者名タグに半角括弧があると不具合が起きるので、全角括弧にしました。ついでにこのページ名の括弧も全角にしました。ご了承ください。  -- 名無しさん  (2012-07-09 03:20:43)
+- このクオリティで、作者が高校生だというのが、未だに信じられん。本当に末恐ろしい才能だわ。  -- 竜奇  (2012-07-09 12:36:34)
+- 綾葉さん大好きです！うおおおおお  -- まのる  (2012-07-09 21:04:24)
+- 今後有名になるタイプだな  -- 名無しさん  (2012-07-09 23:40:32)
+- もうこの人の曲好きすぎてたまらんわ  -- 名無しさん  (2012-08-29 10:40:24)
+- もっと伸びろよおおおおお  -- 名無しさん  (2012-12-09 18:10:45)
+- めっちゃいいよね  -- 名無しさん  (2013-04-07 19:01:40)
+- この人は名曲だらけ。あとちなみにボカロPの中では最速ミリオン持ちじゃないかな  -- 名無しさん  (2014-06-16 18:50:45)
+- この人大好きだ！！！もっと伸びてほしい  -- 名無しさん  (2014-11-15 19:39:22)
+#comment()

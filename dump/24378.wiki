@@ -1,0 +1,37 @@
+#right(){&furigana(さくらのもりのまんかいのした)&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1214_20130110211447_0280_0280.jpg)
+
+&nicovideo(sm19957862)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Black Christmas]]|CENTER:&bold(){桜の森の満開の下}|CENTER:-|
+
+|&bold(){[[YS]]}|
+
+発売：2013年1月30日
+価格：￥600 / 1曲￥150
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：きつね
+
+|&bold(){[[iTunes Storeで購入する>>https://itunes.apple.com/jp/album/in-woods-beneath-cherry-blossoms/id596742925]]}|
+
+**CD紹介
+-YSこと、ゲームミュージックの作曲者下田祐氏の配信アルバム。
+-坂口安吾の小説などを題材にした文学ロックなミニアルバム。
+-KARENTレーベルの、巡音ルカ発売4周年記念企画で配信された作品の1つ。
+
+**曲目
++夜長姫と耳男 （feat. 巡音ルカ&メグッポイド）
++山椒大夫 （feat. 巡音ルカ）
++金閣寺 （feat. 巡音ルカ&初音ミク&鏡音リン）
++病床六尺 （feat. 巡音ルカ）
++桜の森の満開の下 （feat. 巡音ルカ）
+
+**リンク
+-[[作者サイト>>http://www.shinsekai.co.uk/]]
+-[[KARENT：「桜の森の満開の下」>>http://karent.jp/album/1214]]
+-[[KARENT：「巡音ルカ聖誕祭'13」特集ページ>>http://karent.jp/special/luka13]]
+
+**コメント
+#comment()

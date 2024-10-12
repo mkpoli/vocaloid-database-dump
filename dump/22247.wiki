@@ -1,0 +1,98 @@
+※ルール改変に伴い、作者名の後ろに「feat.キャラクター名」となっている曲もありますが、ここでは省略しています。
+
+#contents()
+----
+
+＊JOYSOUND
+＊＊配信中・配信決定済
+&font(b,120%){[[BACK（JOY歌手名順【さ】ページへ戻る）>カラオケ配信曲一覧/JOYSOUND歌手名順【さ】]]}
+
+&font(b,120%){[[BACK（カラオケ情報総合インデックスページへ戻る）>カラオケ配信曲一覧]]}
+//リクエスト決定分の曲の追加は月末集計直後に行うのではなく、正式発表後（毎月10日頃）にお願いします。
+
+|歌手名|曲名|曲番号|配信予定|
+|[[星威>ファミロックP]]|[[鬼彼女]]|[[145452>>http://joysound.com/ex/search/karaoke/_selSongNo_145452_song.htm]]|配信中●|
+|[[整列P]]|[[エデナガルタ]]|[[737868>>http://joysound.com/ex/search/karaoke/_selSongNo_737868_song.htm]]|配信中●|
+|[[刹那P]]|[[悪魔降臨]]|[[146317>>http://joysound.com/ex/search/karaoke/_selSongNo_146317_song.htm]]|配信中●|
+|~|[[仮面舞踏会]]|[[106283>>http://joysound.com/ex/search/karaoke/_selSongNo_106283_song.htm]]|配信中●|
+|~|[[Science(サイエンス)>Science]]|[[104241>>http://joysound.com/ex/search/karaoke/_selSongNo_104241_song.htm]]|配信中●|
+|~|[[True Education ～真の教育～]]|[[730258>>http://joysound.com/ex/search/karaoke/_selSongNo_730258_song.htm]]|配信中●|
+|~|[[Love Again]]|[[196316>>http://joysound.com/ex/search/karaoke/_selSongNo_196316_song.htm]]|配信中●|
+|[[seleP]]|[[Amaryllis>Amaryllis/seleP]]|[[196363>>http://joysound.com/ex/search/karaoke/_selSongNo_196363_song.htm]]|配信中●|
+|~|ALETHEA|[[671822>>http://joysound.com/ex/search/karaoke/_selSongNo_671822_song.htm]]|配信中●|
+|~|[[ALICE 2 ALICE>ALICE/seleP]]|[[146318>>http://joysound.com/ex/search/karaoke/_selSongNo_146318_song.htm]]|配信中●|
+|~|[[Under of Fragments]]|[[146320>>http://joysound.com/ex/search/karaoke/_selSongNo_146320_song.htm]]|配信中●|
+|~|[[Ever my...>Ever My Tears]]|[[670849>>http://joysound.com/ex/search/karaoke/_selSongNo_670849_song.htm]]|配信中●|
+|~|[[EMIRIA]]|[[671100>>http://joysound.com/ex/search/karaoke/_selSongNo_671100_song.htm]]|配信中●|
+|~|[[ELLIE]]|[[671275>>http://joysound.com/ex/search/karaoke/_selSongNo_671275_song.htm]]|配信中●|
+|~|[[Elsa-Maria]]|[[671531>>http://joysound.com/ex/search/karaoke/_selSongNo_671531_song.htm]]|配信中●|
+|~|[[Elfina -Last Mix->Elfina]]|[[111582>>http://joysound.com/ex/search/karaoke/_selSongNo_111582_song.htm]]|配信中●|
+|~|[[angel cry]]|[[105891>>http://joysound.com/ex/search/karaoke/_selSongNo_105891_song.htm]]|配信中●|
+|~|[[KANAE]]|[[670851>>http://joysound.com/ex/search/karaoke/_selSongNo_670851_song.htm]]|配信中●|
+|~|[[CARLA]]|[[671274>>http://joysound.com/ex/search/karaoke/_selSongNo_671274_song.htm]]|配信中●|
+|~|[[Kill me，Queen>Kill me,Queen]]|[[671528>>http://joysound.com/ex/search/karaoke/_selSongNo_671528_song.htm]]|配信中●|
+|~|[[Chloe]]|[[109113>>http://joysound.com/ex/search/karaoke/_selSongNo_109113_song.htm]]|配信中●|
+|~|[[Gothic Dance]]|[[670850>>http://joysound.com/ex/search/karaoke/_selSongNo_670850_song.htm]]|配信中●|
+|~|[[Secret Land]]|[[671529>>http://joysound.com/ex/search/karaoke/_selSongNo_671529_song.htm]]|配信中●|
+|~|[[SHE's]]|[[671099>>http://joysound.com/ex/search/karaoke/_selSongNo_671099_song.htm]]|配信中●|
+|~|[[Six Nights]]|[[670857>>http://joysound.com/ex/search/karaoke/_selSongNo_670857_song.htm]]|配信中●|
+|~|CHARLOTTE|[[670855>>http://joysound.com/ex/search/karaoke/_selSongNo_670855_song.htm]]|配信中●|
+|~|[[Scarlet Rose]]|[[146319>>http://joysound.com/ex/search/karaoke/_selSongNo_146319_song.htm]]|配信中●|
+|~|[[STORY TELLER>STORY TELLER/seleP]]|[[670858>>http://joysound.com/ex/search/karaoke/_selSongNo_670858_song.htm]]|配信中●|
+|~|[[Snow Marriage]]|[[671569>>http://joysound.com/ex/search/karaoke/_selSongNo_671569_song.htm]]|配信中●|
+|~|[[Segments Blue]]|[[670861>>http://joysound.com/ex/search/karaoke/_selSongNo_670861_song.htm]]|配信中●|
+|~|[[SERINE]]|[[671102>>http://joysound.com/ex/search/karaoke/_selSongNo_671102_song.htm]]|配信中●|
+|~|[[TIELLI]]|[[671547>>http://joysound.com/ex/search/karaoke/_selSongNo_671547_song.htm]]|配信中●|
+|~|[[CHELLIS]]|[[670848>>http://joysound.com/ex/search/karaoke/_selSongNo_670848_song.htm]]|配信中●|
+|~|[[Dear BJ]]|[[671098>>http://joysound.com/ex/search/karaoke/_selSongNo_671098_song.htm]]|配信中●|
+|~|[[December 9th]]|[[670852>>http://joysound.com/ex/search/karaoke/_selSongNo_670852_song.htm]]|配信中●|
+|~|THIRIA|[[670863>>http://joysound.com/ex/search/karaoke/_selSongNo_670863_song.htm]]|配信中●|
+|~|No，28|[[671095>>http://joysound.com/ex/search/karaoke/_selSongNo_671095_song.htm]]|配信中●|
+|~|N.O.I.A|[[670862>>http://joysound.com/ex/search/karaoke/_selSongNo_670862_song.htm]]|配信中●|
+|~|[[Beats of Silence]]|[[671568>>http://joysound.com/ex/search/karaoke/_selSongNo_671568_song.htm]]|配信中●|
+|~|[[HEROINE>HEROINE/seleP]]|[[671103>>http://joysound.com/ex/search/karaoke/_selSongNo_671103_song.htm]]|配信中●|
+|~|[[Forever Tears]]|[[671530>>http://joysound.com/ex/search/karaoke/_selSongNo_671530_song.htm]]|配信中●|
+|~|[[Bright Snow]]|[[671546>>http://joysound.com/ex/search/karaoke/_selSongNo_671546_song.htm]]|配信中●|
+|~|[[Blood Error]]|[[671527>>http://joysound.com/ex/search/karaoke/_selSongNo_671527_song.htm]]|配信中●|
+|~|[[White Melody]]|[[670856>>http://joysound.com/ex/search/karaoke/_selSongNo_670856_song.htm]]|配信中●|
+|~|[[Marie-Luise]]|[[111581>>http://joysound.com/ex/search/karaoke/_selSongNo_111581_song.htm]]|配信中●|
+|~|[[Ufena -Lilium Mix->Ufena]]|[[671101>>http://joysound.com/ex/search/karaoke/_selSongNo_671101_song.htm]]|配信中●|
+|~|[[Lience]]|[[111583>>http://joysound.com/ex/search/karaoke/_selSongNo_111583_song.htm]]|配信中●|
+|~|[[Re;BIRTH]]|[[671273>>http://joysound.com/ex/search/karaoke/_selSongNo_671273_song.htm]]|配信中●|
+|~|[[Ref-Rain]]|[[726108>>http://joysound.com/ex/search/karaoke/_selSongNo_726108_song.htm]]|配信中●|
+|~|[[Remember me]]|[[671548>>http://joysound.com/ex/search/karaoke/_selSongNo_671548_song.htm]]|配信中●|
+|~|LILIUM DOLL|[[670854>>http://joysound.com/ex/search/karaoke/_selSongNo_670854_song.htm]]|配信中●|
+|~|LILIUM DOLLS|[[670853>>http://joysound.com/ex/search/karaoke/_selSongNo_670853_song.htm]]|配信中●|
+|~|[[LUNARIA]]|[[670860>>http://joysound.com/ex/search/karaoke/_selSongNo_670860_song.htm]]|配信中●|
+|~|[[Luna :L.O.V.E side>Luna : L.O.V.E side]]|[[670859>>http://joysound.com/ex/search/karaoke/_selSongNo_670859_song.htm]]|配信中●|
+|1640mP([[164]]＆[[40mP>40㍍P]])|[[タイムマシン>タイムマシン/1640mP]]|[[106851>>https://www.joysound.com/web/search/song/164589]]|配信中●|
+|~|[[タイムマシン《本人映像》>タイムマシン/1640mP]]|[[713704>>https://www.joysound.com/web/search/song/164589]]|配信中●|
+|~|[[未来線]]|[[721779>>https://www.joysound.com/web/search/song/247936]]|配信中●|
+|[[前略P]]|[[白雪姫のための棺桶]]|[[731080>>http://joysound.com/ex/search/karaoke/_selSongNo_731080_song.htm]]|配信中●|
+|~|[[人魚姫のための靴箱]]|[[196906>>http://joysound.com/ex/search/karaoke/_selSongNo_196906_song.htm]]|配信中●|
+|~|[[灰被姫のための時計]]|[[196905>>http://joysound.com/ex/search/karaoke/_selSongNo_196905_song.htm]]|配信中●|
+|~|[[はじまりのうた]]|[[196903>>http://joysound.com/ex/search/karaoke/_selSongNo_196903_song.htm]]|配信中●|
+|~|[[はなうりのうた]]|[[196904>>http://joysound.com/ex/search/karaoke/_selSongNo_196904_song.htm]]|配信中●|
+
+
+#co(){以下コピペ用
+|[[歌手名>P名]] (JOY>>joyアーティストページURL)|[[曲名]]|------|09年00月中旬以降|
+
+歌手名にはjoyに登録されているページを、P名はwikiのページ名をお願いします。
+(同一名称が使われている場合P名だけでOKです。)
+joyアーティストページは配信日決定されている曲が1曲以上必要になりますので、
+まだページがない場合()ごと省略して下さい。
+
+同一歌手名の曲に関しては五十音順です。(英語、記号もひらがな読みで)
+アーティストページの記載は任意でOK。(見づらいようでしたら消してください)
+}
+なお、配信予定日の表示が「○月中旬以降」の場合、それから２ヶ月以上遅れることもあります。 
+また、配信予定日が決まっている楽曲は、今のところ、配信予定日の前日か前々日にフライング配信されている模様。 
+
+詳しくは、こちらのマイリストの動画を参照。 
+http://www.nicovideo.jp/mylist/6897112
+
+
+&font(b,120%){[[BACK（JOY歌手名順【さ】ページへ戻る）>カラオケ配信曲一覧/JOYSOUND歌手名順【さ】]]}
+
+&font(b,120%){[[BACK（カラオケ情報総合インデックスページへ戻る）>カラオケ配信曲一覧]]}

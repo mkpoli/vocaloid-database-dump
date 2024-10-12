@@ -1,0 +1,24 @@
+#right(){&furigana(せんしゃP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/34450112" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/34450112">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-2011年11月2日、「[[倦怠期なAttenuato]]」でデビュー。
+-使用ボーカロイドは初音ミク、GUMI。
+
+**リンク
+-[[Twitter>>http://twitter.com/kenjisystem]]
+-[[PIAPRO>>http://piapro.jp/zer0_bench_warmer]]
+
+**曲
+#list_by_tag(戦車P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(戦車PCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm16054481)|&nicovideo(sm17322051)|
+|&nicovideo(sm18825377)|&nicovideo(sm19123356)|
+|&nicovideo(sm19181514)|&nicovideo(sm19274224)|
+
+**コメント
+#comment()

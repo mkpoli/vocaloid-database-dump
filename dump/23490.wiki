@@ -1,0 +1,41 @@
+#right(){&furigana(はなほ)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/31873462" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/31873462">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-2012年3月、「[[hello, world>hello, world/はなぽ]]」にてボカロデビュー。
+-使用VOCALOIDは、IA・galaco・ZOLA PROJECT・初音ミク。
+-IAに関しては、ロリっぽくて可愛い調声が最大の特徴。サウンドはテクノポップがメイン。
+-&bold(){わんわんP} というP名は、デビュー作の歌詞がそう聴こえるのがきっかけで付いた。
+-作詞家の [[結季]]氏 とタッグを組んで活動している。
+
+**リンク
+-[[はなぽろはなぽ。（ブロマガ）>>http://ch.nicovideo.jp/hanapo]]
+-[[Twitter>>http://twitter.com/hanapo_music]]
+-[[PIAPRO>>http://piapro.jp/hanapo_music]]
+-[[YouTube>>https://www.youtube.com/user/hanapomusic]]
+
+**曲
+#list_by_tag(はなぽ,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(はなぽCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|>|BGCOLOR(#db7093):COLOR(#FFF):CENTER:&font(b,11pt){オリジナル曲}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm17349976)|&nicovideo(http://www.nicovideo.jp/watch/sm17714060)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm18134008)|&nicovideo(http://www.nicovideo.jp/watch/sm18479087)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm18693356)|&nicovideo(http://www.nicovideo.jp/watch/sm19226245)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm19243948)|&nicovideo(http://www.nicovideo.jp/watch/sm19696950)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm20237136)|&nicovideo(http://www.nicovideo.jp/watch/sm20524678)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm21198241)|&nicovideo(http://www.nicovideo.jp/watch/sm21400217)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm21601208)|&nicovideo(http://www.nicovideo.jp/watch/sm21829083)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm21866807)|&nicovideo(http://www.nicovideo.jp/watch/sm21955864)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm22324673)|&nicovideo(http://www.nicovideo.jp/watch/sm22732693)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm23393861)|>|
+
+**コメント
+- 可愛いIAの調声に定評のあるわんわんP！  -- 名無しさん  (2012-11-19 03:21:01)
+- はなぽさんのIAはかわいいなぁ。癒やしだ。  -- 名無しさん  (2013-03-13 23:40:30)
+- 良いコンビだと思うよ！  -- 名無しさん  (2013-04-07 03:34:40)
+- hello．worldあたり公式CDに入ってもいいと思うんだ  -- 名無し  (2013-04-30 00:40:12)
+#comment()

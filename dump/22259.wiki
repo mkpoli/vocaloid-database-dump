@@ -1,0 +1,216 @@
+#right(){&furigana(しゃーなるしゃすてぃふぁい)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm18258211)|
+作詞：[[それっぽいP]]
+作曲：[[それっぽいP]]
+編曲：[[それっぽいP]]
+イラスト：[[mdk]]（まどか）&s(){（[[Twitter>>https://twitter.com/mdk0118]]）}
+唄：[[初音ミクAppend>初音ミク]]（Solid）・[[鏡音リンAppend>鏡音リン・レン]]（Power）・[[鏡音レンAppend>鏡音リン・レン]]（Power）
+
+**曲紹介
+曲名：『&u(){ジャーナル・ジャスティファイ}』
+-それっぽいP の14作目。
+-今回はアニメの編集PVではなく、描き下ろしてもらったイラストを使用している。
+
+**歌詞
+真相を告ぐ　ジャーナル・ジャスティファイ　Yeah!
+
+ジャック！ Tune　ジャック！ Wave　ジャック！ Radio
+ジャック！ Pic　ジャック！ Sound　ジャック！ TV show
+ジャック！ Line　ジャック！ Net　ジャック！ Website
+真相を暴け　Just Justice
+
+ジャック！ Store　ジャック！ Shop　ジャック！ Magazine
+ジャック！ Doc　ジャック！ Press　ジャック！ Newspaper
+ジャック！ Town　ジャック！ City　ジャック！ People
+真相を告ぐ　ジャーナル・ジャスティファイ
+
+第一班
+Nite & Day, Go　取材取材に　駆け擦る番記者
+録音のデータで埋まる　32GB SD
+Show Up The Lie　事件究明　戦う報道屋
+そこでやっと　浮かび上がる不正の影
+
+闇の渦からぶち抜いた真相は・・・何て様
+ただ変化を拒んだ　呆れる怠慢だった！
+
+ジャック！ Tune　ジャック！ Wave　ジャック！ Radio
+ジャック！ Pic　ジャック！ Sound　ジャック！ TV show
+ジャック！ Line　ジャック！ Net　ジャック！ Website
+真相を暴け　Just Justice
+
+ジャック！ Store　ジャック！ Shop　ジャック！ Magazine
+ジャック！ Doc　ジャック！ Press　ジャック！ Newspaper
+ジャック！ Town　ジャック！ City　ジャック！ People
+真相を告ぐ　ジャーナル・ジャスティファイ
+
+第二班
+Nite & Day, Write　寄稿寄稿と　書き尽く番記者
+ドサっとデスクに散らばる　赤青黄の付箋
+Show Up The Case　因果連結　謎解く報道屋
+そこでやっと　浮かび上がる不正の訳
+
+闇の渦からぶち抜いた真相は・・・何て様
+ただ時代を無視した　くだらぬ慣習だった！
+
+ジャック！ Tune　ジャック！ Wave　ジャック！ Radio
+ジャック！ Pic　ジャック！ Sound　ジャック！ TV show
+ジャック！ Line　ジャック！ Net　ジャック！ Website
+真相を暴け　Just Justice
+
+ジャック！ Store　ジャック！ Shop　ジャック！ Magazine
+ジャック！ Doc　ジャック！ Press　ジャック！ Newspaper
+ジャック！ Town　ジャック！ City　ジャック！ People
+真相を告ぐ　ジャーナル・ジャスティファイ
+
+第三班
+Nite & Day, Attack　夜討ち朝駆け　眠らぬ番記者
+謁見の聴取と引き換えに　磨り減ってったヒール
+Show Up The Fake　疑惑直撃　怯まぬ報道屋
+そこでやっと　浮かび上がる不正の性
+
+闇の渦からぶち抜いた真相は・・・何て様
+ただ制御の効かない　熟した現代だった！
+
+ジャック！ Tune　ジャック！ Wave　ジャック！ Radio
+ジャック！ Pic　ジャック！ Sound　ジャック！ TV show
+ジャック！ Line　ジャック！ Net　ジャック！ Website
+真相を暴け　Just Justice
+
+ジャック！ Store　ジャック！ Shop　ジャック！ Magazine
+ジャック！ Doc　ジャック！ Press　ジャック！ Newspaper
+ジャック！ Town　ジャック！ City　ジャック！ People
+真相を告ぐ　ジャーナリストだ
+
+ジャック！ Tune　ジャック！ Wave　ジャック！ Radio
+ジャック！ Pic　ジャック！ Sound　ジャック！ TV show
+ジャック！ Line　ジャック！ Net　ジャック！ Website
+真相を暴け　Just Justice
+
+ジャック！ Store　ジャック！ Shop　ジャック！ Magazine
+ジャック！ Doc　ジャック！ Press　ジャック！ Newspaper
+ジャック！ Town　ジャック！ City　ジャック！ People
+真相を告ぐ　ジャーナル・ジャスティファイ
+
+Show Up The Lie!　Just Justice
+Show Up The Case!　Just Justice
+Show Up The Fake!　Just Justice
+Show Up The Truth!　Just Justice
+
+#region(close,色分け歌詞)
+パート分け：&color(#48D1CC){初音ミク}・&color(#FF8C00){鏡音リン}・&color(#FFD700){鏡音レン}
+
+&color(#48D1CC){真相を告ぐ　ジャーナル・ジャスティファイ}　Yeah!
+
+&color(#48D1CC){ジャック！ Tune}　&color(#FFD700){ジャック！ Wave}　&color(#FF8C00){ジャック！ Radio}
+&color(#48D1CC){ジャック！ Pic}　&color(#FFD700){ジャック！ Sound}　&color(#FF8C00){ジャック！ TV show}
+&color(#48D1CC){ジャック！ Line}　&color(#FFD700){ジャック！ Net}　&color(#FF8C00){ジャック！ Website}
+真相を暴け　Just Justice
+
+&color(#48D1CC){ジャック！ Store}　&color(#FFD700){ジャック！ Shop}　&color(#FF8C00){ジャック！ Magazine}
+&color(#48D1CC){ジャック！ Doc}　&color(#FFD700){ジャック！ Press}　&color(#FF8C00){ジャック！ Newspaper}
+&color(#48D1CC){ジャック！ Town}　&color(#FFD700){ジャック！ City}　&color(#FF8C00){ジャック！ People}
+真相を告ぐ　ジャーナル・ジャスティファイ
+
+&color(#48D1CC){第一班}
+&color(#48D1CC){Nite & Day, Go　取材取材に　駆け擦る番記者}
+&color(#48D1CC){録音のデータで埋まる　32GB SD}
+&color(#48D1CC){Show Up The Lie　事件究明　戦う報道屋}
+&color(#48D1CC){そこでやっと　浮かび上がる不正の影}
+
+&color(#48D1CC){闇の渦からぶち抜いた真相は・・・何て様}
+&color(#48D1CC){ただ変化を拒んだ　呆れる怠慢だった！}
+
+&color(#48D1CC){ジャック！ Tune}　&color(#FFD700){ジャック！ Wave}　&color(#FF8C00){ジャック！ Radio}
+&color(#48D1CC){ジャック！ Pic}　&color(#FFD700){ジャック！ Sound}　&color(#FF8C00){ジャック！ TV show}
+&color(#48D1CC){ジャック！ Line}　&color(#FFD700){ジャック！ Net}　&color(#FF8C00){ジャック！ Website}
+真相を暴け　Just Justice
+
+&color(#48D1CC){ジャック！ Store}　&color(#FFD700){ジャック！ Shop}　&color(#FF8C00){ジャック！ Magazine}
+&color(#48D1CC){ジャック！ Doc}　&color(#FFD700){ジャック！ Press}　&color(#FF8C00){ジャック！ Newspaper}
+&color(#48D1CC){ジャック！ Town}　&color(#FFD700){ジャック！ City}　&color(#FF8C00){ジャック！ People}
+真相を告ぐ　ジャーナル・ジャスティファイ
+
+&color(#FFD700){第二班}
+&color(#FFD700){Nite & Day, Write　寄稿寄稿と　書き尽く番記者}
+&color(#FFD700){ドサっとデスクに散らばる　赤青黄の付箋}
+&color(#FFD700){Show Up The Case　因果連結　謎解く報道屋}
+&color(#FFD700){そこでやっと　浮かび上がる不正の訳}
+
+&color(#FFD700){闇の渦からぶち抜いた真相は・・・何て様}
+&color(#FFD700){ただ時代を無視した　くだらぬ慣習だった！}
+
+&color(#48D1CC){ジャック！ Tune}　&color(#FFD700){ジャック！ Wave}　&color(#FF8C00){ジャック！ Radio}
+&color(#48D1CC){ジャック！ Pic}　&color(#FFD700){ジャック！ Sound}　&color(#FF8C00){ジャック！ TV show}
+&color(#48D1CC){ジャック！ Line}　&color(#FFD700){ジャック！ Net}　&color(#FF8C00){ジャック！ Website}
+真相を暴け　Just Justice
+
+&color(#48D1CC){ジャック！ Store}　&color(#FFD700){ジャック！ Shop}　&color(#FF8C00){ジャック！ Magazine}
+&color(#48D1CC){ジャック！ Doc}　&color(#FFD700){ジャック！ Press}　&color(#FF8C00){ジャック！ Newspaper}
+&color(#48D1CC){ジャック！ Town}　&color(#FFD700){ジャック！ City}　&color(#FF8C00){ジャック！ People}
+真相を告ぐ　ジャーナル・ジャスティファイ
+
+&color(#FF8C00){第三班}
+&color(#FF8C00){Nite & Day, Attack　夜討ち朝駆け　眠らぬ番記者}
+&color(#FF8C00){謁見の聴取と引き換えに　磨り減ってったヒール}
+&color(#FF8C00){Show Up The Fake　疑惑直撃　怯まぬ報道屋}
+&color(#FF8C00){そこでやっと　浮かび上がる不正の性}
+
+&color(#FF8C00){闇の渦からぶち抜いた真相は・・・何て様}
+&color(#FF8C00){ただ制御の効かない　熟した現代だった！}
+
+&color(#48D1CC){ジャック！ Tune}　&color(#FFD700){ジャック！ Wave}　&color(#FF8C00){ジャック！ Radio}
+&color(#48D1CC){ジャック！ Pic}　&color(#FFD700){ジャック！ Sound}　&color(#FF8C00){ジャック！ TV show}
+&color(#48D1CC){ジャック！ Line}　&color(#FFD700){ジャック！ Net}　&color(#FF8C00){ジャック！ Website}
+真相を暴け　Just Justice
+
+&color(#48D1CC){ジャック！ Store}　&color(#FFD700){ジャック！ Shop}　&color(#FF8C00){ジャック！ Magazine}
+&color(#48D1CC){ジャック！ Doc}　&color(#FFD700){ジャック！ Press}　&color(#FF8C00){ジャック！ Newspaper}
+&color(#48D1CC){ジャック！ Town}　&color(#FFD700){ジャック！ City}　&color(#FF8C00){ジャック！ People}
+真相を告ぐ　ジャーナリストだ
+
+&color(#48D1CC){ジャック！ Tune}　&color(#FFD700){ジャック！ Wave}　&color(#FF8C00){ジャック！ Radio}
+&color(#48D1CC){ジャック！ Pic}　&color(#FFD700){ジャック！ Sound}　&color(#FF8C00){ジャック！ TV show}
+&color(#48D1CC){ジャック！ Line}　&color(#FFD700){ジャック！ Net}　&color(#FF8C00){ジャック！ Website}
+真相を暴け　Just Justice
+
+&color(#48D1CC){ジャック！ Store}　&color(#FFD700){ジャック！ Shop}　&color(#FF8C00){ジャック！ Magazine}
+&color(#48D1CC){ジャック！ Doc}　&color(#FFD700){ジャック！ Press}　&color(#FF8C00){ジャック！ Newspaper}
+&color(#48D1CC){ジャック！ Town}　&color(#FFD700){ジャック！ City}　&color(#FF8C00){ジャック！ People}
+真相を告ぐ　ジャーナル・ジャスティファイ
+
+&color(#48D1CC){Show} &color(#FFD700){Up} &color(#FF8C00){The Lie!}　Just Justice
+&color(#48D1CC){Show} &color(#FFD700){Up} &color(#FF8C00){The Case!}　Just Justice
+&color(#48D1CC){Show} &color(#FFD700){Up} &color(#FF8C00){The Fake!}　Just Justice
+&color(#48D1CC){Show} &color(#FFD700){Up} &color(#FF8C00){The Truth!}　Just Justice
+#endregion
+
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+**コメント
+//- 作成ありがとうございます！  -- 名無しさん  (2012-07-17 19:33:03)
+- めっちゃ好き! もっと評価されるべきだ! 中毒になりましたｗ  -- 名無しさん  (2012-07-19 17:49:04)
+- はまりました！引き込まれます♪  -- sae  (2012-07-24 15:51:14)
+- このＰＶに出てるレンは、マジえろい(笑)  -- ＫＹＯ  (2012-07-27 00:23:52)
+- もっと評価されるべき  -- 名無しさん  (2012-08-13 12:15:25)
+- この人はほんとにテーマが面白い  -- 名無しさん  (2012-09-30 12:19:03)
+//- 色分けお願いします!!  -- ふわふわ  (2013-02-02 22:39:21)
+- この曲本当にかっこいい！！  -- 名無しさん  (2013-02-04 23:32:24)
+//- 英語の所のふりがな欲しい！！  -- ミカンチョコ  (2013-08-01 12:23:36)
+- めっちゃかっこいい！！  -- 名無しさん  (2013-08-12 21:59:01)
+- すごいかっこいいっ！惚れるわw  -- 名無しさん  (2013-12-26 21:49:04)
+//- ↑3　死ぬほど笑ったｗｗｗｗｗｗｗｗｗ  -- 名無しさん  (2014-02-23 15:45:51)
+- いい  -- 名無しさん  (2014-11-01 09:26:25)
+- 本当好き。もっと伸びるべき動画。  -- 名無しさん  (2015-08-24 22:44:11)
+- 初見で惚れた曲は久々だな  -- 名無しさん  (2017-02-20 21:23:23)
+#comment()
+
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)

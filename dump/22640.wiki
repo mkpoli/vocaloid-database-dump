@@ -1,0 +1,38 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo(sm18184197)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Summer Time Summer Girl 2]]|CENTER:&bold(){Summer Time Summer Girl 3}|CENTER:[[Summer Time Summer Girl 4]]|
+
+|&bold(){[[あつぞうくん]]}|[[ふわP]]|[[ソレナンテP]]|[[hmtk]]|
+|[[恋竹林]]|myomyo|[[クマー@Taken♪]]|香音。|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2012年7月8日||
+|価格|CENTER:￥1,000|CENTER:￥1,470（税込）|
+|サークル|>|CENTER:ATZ Records|
+
+**CD紹介
+-あつぞうくん主宰ATZ Recordsの夏コンピCD第3弾。
+-ATZ records夏のコンピも第3弾！今回はGUMIがメインボーカルの夏曲コンピレーションアルバムをお送りします。&br()あつぞうくん、恋竹林、ときわかねなり（ソレナンテP）、hmtk、ふわP（すとり）によるバリエーション豊かな楽曲と、手鞠による色鮮やかなイラストをお楽しみください！
+-THE VOC@LOiD M@STER 21（ボーマス21）にて頒布。委託販売も行われている。
+
+**曲目
++[[僕たちのせいじゃない！]] / ふわP（すとり）・myomyo
++[[ノースリーブ・ガール>ノースリーヴガール]] / あつぞうくん
++残輪-zanrin- / じーこば（恋竹林）
++二律背反の混沌理論（バタフライ・エフェクト） / ときわかねなり（ソレナンテP）
++Feeling^2 / hmtk・香音。
++恋竹林音頭 / じーこば（恋竹林）
++涙のゲリラ・スコール / ときわかねなり（ソレナンテP）
++[[波音のイントロ]] / ふわP（すとり）・myomyo
++[[パフスリーブ・ガール]]2012 / あつぞうくん
++FAR / htmk・クマー@Taken
+
+**リンク
+-[[特設ページ>>http://stsg3.atzrecords.com/]]
+-[[ATZ Records>>http://atzrecords.com/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/05/41/040030054127.html]]
+
+**コメント
+#comment()

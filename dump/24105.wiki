@@ -1,0 +1,31 @@
+#right(){&furigana(もけけ)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/18514835" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/18514835">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-ジャズやスカ、ボサノバ等、オシャレな曲調を特徴とするＰ。
+-歌詞は日常に起こったことを題材にした素朴なものが多い。
+-その中でも猫を題材にしたものが多いため、相当の猫好きと推測できる。
+-使用ボーカロイドは初音ミク、ミクAppend、鏡音リン・レン、リン・レンApeend、巡音ルカ、ＫＡＩＴＯ。
+-サムネイルの背景は使用するボーカロイドのイメージカラー。シルエットは作品の題材になったものである。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/mokeke84]]
+-[[twitter>>http://twitter.com/mokeke__]]
+
+**曲
+#list_by_tag(もけけ,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(もけけCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm9950306)|&nicovideo(sm10176498)|
+|&nicovideo(sm10327812)|&nicovideo(sm10344935)|
+|&nicovideo(sm10426874)|&nicovideo(sm10505490)|
+|&nicovideo(sm10548017)|&nicovideo(sm10581450)|
+|&nicovideo(sm10617880)|&nicovideo(sm10657767)|
+
+**コメント
+- オシャレな曲調と、生活感あふれる歌詞のギャップが、もけけさんの魅力だと思います。これからも頑張って下さい。  -- 竜奇  (2013-01-04 21:22:04)
+- ↑同感。隠れた名Pだと思います。CD出て欲しい！  -- すがり  (2013-04-13 21:53:39)
+#comment()

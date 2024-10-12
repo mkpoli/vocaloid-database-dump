@@ -1,0 +1,45 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/27078958" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/27078958">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-2011年8月、 『[[ディアスポラ]]』 にてボカロデビューしたバンド系の作り手。
+-使用ボカロは今のところ、ミク・GUMI 。
+-4作目の『[[9'ON]]』で、悲願の初殿堂入りを達成。
+-デビュー時からずっと絵師の 多英子氏 とタッグを組んで楽曲を発表している。
+-ボカロ参入以前は、東方二次創作楽曲を制作していた。
+-ある時は『[[「ロリPは面白くてカッコいい！」コンピ]]』等、一風変わった企画を立ち上げる企画屋、ある時は人気替え歌動画でボーカルを務める歌い手、またある時は[[退職願代筆サービス>>https://twitter.com/PIROPARU/status/470847507212169216]]を受け付ける書道家…というように、非常に多岐に渡って活動しているボカロPである。
+
+**リンク
+-[[グーシャンダグー（作者ホームページ）>>http://piroparu.com/]]
+-[[PIAPRO>>http://piapro.jp/piroparu]]
+-[[Twitter>>http://twitter.com/PIROPARU]]
+-[[vimeo>>http://vimeo.com/piroparu]]
+
+**曲
+#list_by_tag(PIROPARU,100,sort=furigana)
+
+**CD
+#list_by_tag(PIROPARUCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|>|BGCOLOR(#00ced1):COLOR(#FFF):CENTER:&font(b,11pt){オリジナル曲}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm15414616)|&nicovideo(http://www.nicovideo.jp/watch/sm16150222)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm17074365)|&nicovideo(http://www.nicovideo.jp/watch/sm18049396)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm18805926)|&nicovideo(http://www.nicovideo.jp/watch/sm20277885)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm21225201)|&nicovideo(http://www.nicovideo.jp/watch/sm21559653)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm21871459)|&nicovideo(http://www.nicovideo.jp/watch/sm22524862)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm23002214)|&nicovideo(http://www.nicovideo.jp/watch/sm23665844)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm24078082)||
+
+**コメント
+- おおおおおおおおおお！！PIROPARUさんのページできたのか！！  -- 名無しさん  (2012-10-08 11:10:17)
+- PIOPARUさんきた！ &br()この人大好きだ  -- 名無しさん  (2012-10-09 16:11:41)
+- PIROPARUさんのページブクマ！大好きだぁぁぁぁぁ！！！これからも期待＆応援する！  -- 名無しさん  (2012-10-16 00:48:42)
+- 待ってました!!この人大好き…。  -- スズナ  (2012-10-19 15:26:52)
+- 全曲すき  -- 名無しさん  (2012-11-05 12:58:17)
+- PIROPARUさんの曲で9'ONが一番好きです。  -- 名無しさん  (2012-11-24 10:26:26)
+- Rumored Girlが大好きです！！  -- 名無しさん  (2012-12-04 20:15:18)
+- 全部大好き！！  -- 名無しさん  (2013-01-24 17:31:06)
+- いいよね--もっと評価されてほしい  -- 名無しさん  (2013-03-30 09:22:45)
+- Rumored Girlで知って、だいすきになりました！！  -- 名無しさん  (2013-06-29 14:10:38)
+#comment()

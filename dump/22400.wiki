@@ -1,0 +1,84 @@
+#right(){&furigana(RideOutRADIOEDIT)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm4633012)|
+作詞：[[蕎麦P]]
+作曲：[[蕎麦P]]
+編曲：[[蕎麦P]]
+イラスト：[[心臓]]（[[HERO]]（絵師））。
+唄：初音ミク
+
+**曲紹介
+曲名：『&u(){Ride Out!! [RADIO EDIT]}』(&u(){らいど　あうと})
+-初投稿曲「[[Ride Out!!]]」をショートアレンジしてオケを作り直したバージョン。
+-元曲からかなり歌詞が圧縮されているためページを別作成としました。
+
+**歌詞
+（[[PIAPRO>>http://piapro.jp/t/8f-I]]より転載）
+
+期待はいつも裏切られるから so bad!
+今度のダメージかなりクリティカルだよねぇ
+ 
+ヘコんでみたって答えは出ない
+キモチ切り替えキミらしさ
+絶対!結果が後からついてくるハズ
+ 
+ほら、悩んでるくらいだったら動いてみなよ
+ここでアクション!!キメてみなよ、機も熟したから
+ 
+プラス方向にレバレッジきかせ
+ちょっと元気出できたー
+知ってた?ピンチ、本当はチャンスなんだよ
+
+てーゆーかー
+ 
+Everything's gonna be alright
+Everything's gonna be alright
+Everything will be alright
+だから Ride Out!! 悔いの無い様に
+ 
+Everything's gonna be alright
+Everything's gonna be alright
+Everything will be alright
+だから Ride Out!! キミの全力で
+ 
+Everything's gonna be alright
+Everything's gonna be alright
+Everything will be alright
+だから Ride Out!! これまでのターン
+ 
+Everything's gonna be alright
+Everything's gonna be alright
+Everything will be alright
+ずっと Ride Out!! うん、信じてたよ
+
+休日の昼下がり
+寝ぼけた頭にガツン!
+届いたメールは、祝福の福音
+ 
+眠気も吹き飛ぶよ
+力も漲るよ、グッと
+どんな困難も、乗り切ってみせてよ
+
+さぁ!!風向き変わって、期待通り
+みんなまとめて so happy!
+Everything's gonna be alright!!って
+胸張っていこう
+ 
+上昇気流、飛び込んでみよう
+失速したって、些細な問題
+Everything will be alright!!って
+いつかきっとニコニコする日までー
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+**コメント
+#comment()
+
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)

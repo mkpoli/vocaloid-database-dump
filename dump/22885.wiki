@@ -1,0 +1,32 @@
+#right(){&furigana(かなしみのぷろろーぐ　ねがい)&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1107_20120814134409_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[NOTES -Text to DIVINE-]]|CENTER:&bold(){悲しみのプロローグ / 願い}|CENTER:[[YELL -Bitter & Sweet-]]|
+
+|&bold(){[[SHO（キセノンP）]]}|
+
+発売：2012年8月31日
+価格：￥300 / 1曲￥150
+流通：配信
+レーベル：KARENT
+イラスト：[[神無>>http://piapro.jp/chaos966]]
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/prologue-sorrow-my-wish-single/id556322513]]}|
+
+**CD紹介
+-初音ミク発売5周年を記念してリリースされた配信シングル。
+-新曲2曲を収録している。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++[[悲しみのプロローグ]] （feat. 初音ミク）
++[[願い>願い/SHO（キセノンP）]] （feat. 初音ミク）
+
+**リンク
+-[[作者ブログ>>http://xenonp.dou-jin.com/]]
+-[[KARENT：「悲しみのプロローグ／願い」>>http://karent.jp/album/1107]]
+-[[KARENT：「初音ミク 5th Anniversary」特集ページ>>http://karent.jp/special/miku12]]
+
+**コメント
+#comment()

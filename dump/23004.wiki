@@ -1,0 +1,35 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1131_20120901193103_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Stardust>Stardust/テラ小室P]]|CENTER:&bold(){TKp product wing}|CENTER:[[TKp product voice]]|
+
+|&bold(){[[テラ小室P]]}|マロリーヌ小町|SugerGlider|
+
+発売：2012年9月19日
+価格：￥600 / 1曲￥150
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：[[mickeyworks>谷間P]]
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/tkp-product-wing-ep/id560031283]]}|
+
+**CD紹介
+-テラ小室Pの4曲入り配信ミニアルバム。
+-ハイスピードでハイテンションな曲を堪能出来る作品です。
+-Tr.4「[[WildCard>WildCard/テラ小室P]]」はフルバージョンで収録されている。
+-マスタリングを[[他P]]（Tr.1,2）と[[G@POPO]]（Tr.3）氏が担当。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++[[Imitation Wings]] （feat. 初音ミク）
++[[Spinning wheel]] （feat. 初音ミク）
++[[Shining feather]] （feat. 初音ミク）
++[[WildCard>WildCard/テラ小室P]] -Full Length- （feat. 初音ミク）
+
+**リンク
+-[[KARENT：「TKp product wing」>>http://karent.jp/album/1131]]
+-[[作者ブログ>>http://terakomurop.blog20.fc2.com/]]
+
+**コメント
+#comment()

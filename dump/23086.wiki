@@ -1,0 +1,89 @@
+#right(){&furigana()&furigana()【登録タグ:&tags()】}
+&nicovideo(sm15166400)
+作詞：[[神楽美咲]]
+作曲：[[ROY]]
+編曲：[[ROY]]
+唄：神威がくぽ
+
+**曲紹介
+-がくっぽいど誕生祭2011で発表された様式美へヴィメタル。
+-全英詞の歌詞は[[神楽美咲]]氏が、イラスト・PVは[[藤代叶]]氏が手掛けている。
+
+**歌詞
+I was born with the crime what was never inextinguishable
+I only wanna hold your love time after time
+Could you tell me how can I erase my crime if I wish for
+If it was a dream Please wake me up now
+
+Please tell me the truth.
+Please tell me the lie
+Why can't reach your heart?
+
+I am searching for my heart
+Because I want to close to you
+But my wishes never come true
+
+Please let me love you.
+Please let me swear you.
+Till the end of the world
+
+Pains of the sins
+When I was fallen to the ground I was burned by the doomsday
+I sacrifice to you till the end of my life.
+I swear you forever more
+
+Do I reach your sky?
+Do I reacy your dreams?
+by the broken wings
+
+Pains of the sins
+When I was fallen to the ground I was burned by the doomsday
+I sacrifice to you till the end of my life.
+I swear you forever more
+
+I crucify my love but I can't reach you.
+Even if I flap wings eternity
+Pains of the sins I can't see the clear blue sky forever more
+
+#region(日本語訳詞)
+訳詞：[[ROY]]
+
+消えない罪とともに生まれ
+ただ貴女の愛だけを求める
+罪の消し方を教えて
+夢ならばすぐに目覚めさせて
+
+真実を教えてくれ
+偽りを教えてくれ
+なぜ貴女に届かない？
+
+心を探し続けている
+貴女の傍にいたいから
+それでも願いは叶わない
+
+愛させてくれ
+誓わせてくれ
+世界が終るまで
+
+罪の痛み
+地に堕ち　最後の審判で焼かれた
+息絶えるその時まで　貴女の身代りになろう
+永遠に誓うから...
+
+貴女の世界に届くだろうか？
+貴方の夢に届くだろうか？
+この折れた翼で
+
+罪の痛み
+地に堕ち　最後の審判で焼かれた
+息絶えるその時まで　貴女の身代りになろう
+永遠に誓うから...
+
+愛を十字架に捧げても貴女には届かない
+たとえ羽ばたき続けても
+罪の痛み　透き通った空はもう見えない
+#endregion
+
+
+**コメント
+#comment()

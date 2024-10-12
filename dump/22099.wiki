@@ -1,0 +1,35 @@
+#right(){&furigana(からすううるP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/32355006" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/32355006">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-2012年4月、 『[[キミイロコード]]』 にてボカロデビュー。
+-使用ボカロは今のところ、ミク・リン・GUMI・ゆかり。
+-可愛らしい曲も作るが、得意なのはジャズ系らしい。
+-ボーカロイド曲の作り手としては2012年デビューの新人だが、muzieでは2010年から曲を発表している。
+
+**リンク
+-[[Twitter>>http://twitter.com/glaswool]]
+-[[PIAPRO>>http://piapro.jp/ryo_glasswool]]
+-[[muzie>>http://www.muzie.ne.jp/artist/r007592/]]
+-[[Stickam JAPAN!>>http://www.stickam.jp/profile/oogiri2]]
+
+**曲
+#list_by_tag(硝子ウールP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(硝子ウールPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|>|BGCOLOR(#80ff80):COLOR(#FFF):CENTER:&font(b,11pt){オリジナル曲}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm17670487)|&nicovideo(http://www.nicovideo.jp/watch/sm18041234)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm18461370)|&nicovideo(http://www.nicovideo.jp/watch/sm18640893)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm19520254)|&nicovideo(http://www.nicovideo.jp/watch/sm19521080)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm19843779)|&nicovideo(http://www.nicovideo.jp/watch/sm19876328)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm20167140)|&nicovideo(http://www.nicovideo.jp/watch/sm22213224)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm22254583)|&nicovideo(http://www.nicovideo.jp/watch/sm22988811)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm23206411)|>|
+
+**コメント
+- 応援してます！！  -- はにわ(*′∀`*）  (2012-07-06 16:36:47)
+- swingin icecream まだこのwikiに登録されてないけどすごい好きです  -- 名無しさん  (2014-07-22 17:52:04)
+#comment()

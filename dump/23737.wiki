@@ -1,0 +1,56 @@
+#right(){&furigana(わんおほvol06)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+
+#amazon(B00AHTWPRU)
+
+|&nicovideo(http://www.nicovideo.jp/watch/sm19489098)|&youtube(http://www.youtube.com/watch?v=Pi9_uYfBqAw){342,187}|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[先生と少女騒動～第一審公判～>先生と少女騒動-第一審公判-]]|CENTER:&bold(){ワン☆オポ！vol.06}|CENTER:[[WANOPO REMIXES01]]|
+
+|&bold(){[[マイナスP]]}|&bold(){[[じーざすP]]}|
+
+||CENTER:即売|CENTER:同人|CENTER:配信|
+|発売|2012年12月15日|CENTER:2012年12月|CENTER:2012年12月26日|
+|価格|CENTER:￥1,000|CENTER:￥1,470（税込・メロンブックス）&br()￥1,544（税込・とらのあな）|CENTER:￥1,500 / 1曲￥150|
+|サークル|>|>|CENTER:Wonderful★opportunity!|
+
+**CD紹介
+CD名：『&u(){ワン☆オポ！vol.06}』
+-[[マイナスP]]、[[じーざすP]]による同人サークル「Wonderful★Opportunity!（ワンダフル☆オポチュニティ！）」の7thCDアルバム。
+-「先生と少女騒動-第一審公判-」や、EXIT TUNESのRPGコンピに収録された「しんでしまうとはなさけない！」、「リモコン」のマイナスPによるリミックスなどが収録された全13曲。
+-特典として[[グライダー]]、domco.両氏による差し替えジャケットが付属する。（即売会→両方、とらのあな→グライダー氏、メロンブックス→domco.氏、Amazonでは付属しない）
+-2012年12月15日、THE VOC@LOiD M@STER 23（ボーマス23）、コミックマーケット83（C83）にて頒布される。
+-とらのあな、メロンブックス、Amazonにて委託販売が行われる。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++[[赤線モダニズム]] / マイナスP feat. 鏡音リン
++[[先生と少女騒動-第一審公判-]] / マイナスP feat. 鏡音レン
++Clear scene is always behind / マイナスP feat. 鏡音リン
++[[しんでしまうとはなさけない！]] / じーざすP feat. 鏡音リン&レン
++[[アイツワゲイマー]] / じーざすP feat. 鏡音リン
++DIVER CITY / じーざすP feat. 鏡音レン
++[[リモコン]] -CYBER PUNK MIX by Minus- / 鏡音リン&レン
++赤線モダニズム （off vocals）
++先生と少女衝動-第一審公判- （off vocals）
++Clear scene is always behind （off vocals）
++しんでしまうとはなさけない！ （off vocals）
++アイツワゲイマー （off vocals）
++DIVER CITY （off vocals）
+
+**リンク
+-[[official website>>http://www.wan-opo.com/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/08/76/040030087642.html]]
+-[[メロンブックス>>http://shop.melonbooks.co.jp/shop/sp_213001012497_wo_wanopo6.php]]
+-[[Amazon>>http://www.amazon.co.jp/gp/product/B00AHTWPRU]]
+-[[KANRET：「ワン☆オポ！vol.06」>>http://karent.jp/album/1202]]
+
+**コメント
+- いいね～買おうかな～　追加乙！  -- 名無しさん  (2013-03-21 16:31:48)
+- これの次のアルバムあるよね?鏡音&ルカ&ミク&MAYUの...  -- 名無しさん  (2013-03-21 16:36:27)
+- 今売っていますか？？  -- ルカルカ  (2013-06-13 21:44:17)
+#comment()

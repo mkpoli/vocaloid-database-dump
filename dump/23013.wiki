@@ -1,0 +1,33 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[パンツ脱げるもん！>パンツ脱げるもん！/CD]]|CENTER:&bold(){YUKARhythm}|CENTER:[[Delights!]]|
+
+|&bold(){[[ちょむP]]}|おがた|真雪|citrus|[[orange>orange/作り手]]|野良貴晴|
+
+発売：2012年4月28日
+価格：￥
+流通：即売
+サークル：ちょむ工房
+
+**CD紹介
+-ちょむPの12作目となるボーカロイドCD。
+-メインボーカルは結月ゆかり。
+-ジャケットイラストはyamo氏。
+-THE VOC@LOiD 超 M@STER 20（超ボーマス20）で頒布。
+
+**曲目
++Next One （作詞：おがた）
++アン・スウィート・マイ・ダーリン （作詞：真雪）
++×ラブ （作詞：citrus）
++[[恋時間]] (spring mix) （作詞：orange）
++Mr. DJ （作詞：野良貴晴）
++大江戸巡恋歌 （作詞：ちょむP）
++[[Swingin'Blue]] （作詞：ちょむP）
++京都恋々 （作詞：野良貴晴）
++～おまけ
+
+**リンク
+-[[作者サイト>>http://chomstudio.com/]]
+
+**コメント
+#comment()

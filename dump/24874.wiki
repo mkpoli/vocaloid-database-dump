@@ -1,0 +1,41 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#image(http://goope.jp/goope/5477/1303101431217qpg.jpeg,http://www.w-o-remix01.com/,title=WANOPO REMIXES 01,blank)
+
+#amazon(B00C1TM79A)
+
+|&nicovideo(sm20384592)|&YouTube(https://www.youtube.com/watch?v=OlBZq18js-U){336,189}|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[ワン☆オポ！vol.06]]|CENTER:&bold(){WANOPO REMIXES01}|CENTER:[[未来光路>未来光路/CD]]|
+
+|&bold(){[[マイナスP]]}|&bold(){[[じーざすP]]}|
+
+|流通|CENTER:即売|CENTER:委託|CENTER:配信|
+|発売|CENTER:2013年3月24日|CENTER:2013年4月|CENTER:2013年4月15日|
+|価格|CENTER:￥500|CENTER:￥850|CENTER:￥600 / 1曲￥150|
+|サークル|>|CENTER:Wonderful★Opportunity!||
+
+**CD紹介
+-マイナスP、じーざすPによる同人サークル「Wonderful★Opportunity!（ワンダフル☆オポチュニティ！）」の初となるリミックスアルバム。
+-リミキサーはマイナスP。
+-これまで一貫として鏡音リン・レンのみを使用していた同サークルだが、今回初めて他のVOCALOIDを起用している。
+-ジャケットイラストはSHARK氏。
+-VOCALOID PARADISE 関西2で頒布。
+-Amazonでの委託販売と、KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++DISCO MONSTER -HIGHFLAVOR MIX- / feat.MIKU、LUKA​
++[[foa]] -underfloor_32491 MIX- / feat.RIN
++inside - d.n.b MIX - / feat.LUKA
++[[HIGH SCRIPT>ハイスクリプト！]] - Euphoric Trance MIX - feat.MIKU
++[[E.C.H.O]] - Tech House MIX - / feat.RIN.LEN​
++GAME - ROCK MIX - / feat.MAYU​​
+
+**リンク
+-[[official website>>http://www.wan-opo.com/]]
+-[[Amazon>>http://www.amazon.co.jp/gp/product/B00C1TM79A]]
+-[[KARENT：「WANOPO REMIXES 01」>>http://karent.jp/album/1240]]
+
+**コメント
+- なんだこれすげー(°□°;)  -- 名無しさん  (2013-03-21 20:20:51)
+#comment()

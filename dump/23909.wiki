@@ -1,0 +1,43 @@
+#right(){&furigana(はふちやん) &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/31919367" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/31919367">【ニコニコ動画】ばぶちゃん</a></iframe>)
+
+**特徴
+-ピアノとノイズを多用した、ゴシック風味の強いエレクトロニカ系統の作風をメインとする。
+-特徴世界観は「頽廃的」や「幻想的」と評されることが多く、タグにはよく「感性の反乱β」や「VOCALOID幻想狂気曲リンク」等が付けられている。
+-さまざまな絵師・動画師とコラボして印象的な美しい動画を展開し、世界観の構築・補強に大きな役割を果たす。
+-使用VOCALOIDは初音ミク。ノイズと絡む、歪ませた細い声が特徴的。GUMIを用いた音源も公開されている。
+
+**リンク
+-[[Web site>>http://www.babuchandechu.com]]
+-[[SOUND CLOUD>>http://soundcloud.com/babuchan]]
+-[[PIAPRO>>http://piapro.jp/babuchan]]
+-[[KARENT>>http://karent.jp/artist/pp000585]]
+-[[YouTube>>http://www.youtube.com/user/Babu0w0chan]]
+-[[twitter>>http://twitter.com/babu_0w0_chan]]
+
+**曲
+#list_by_tag(ばぶちゃん,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(ばぶちゃんCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm17857735)|&nicovideo(http://www.nicovideo.jp/watch/sm18802511)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm19398938)|&nicovideo(http://www.nicovideo.jp/watch/sm19498001)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm19614272)|&nicovideo(http://www.nicovideo.jp/watch/sm21247184)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm24801404)|&nicovideo(http://www.nicovideo.jp/watch/sm24914051)|
+
+**コメント
+- うわあああページできてるううう追加お疲れ様です  -- りょーん  (2012-12-25 00:43:49)
+- だぁだ ばぶばぶう(音使いが好きです)  -- 名無しさん  (2012-12-25 16:59:08)
+- 都草待ってた！  -- 名無しさん  (2012-12-28 21:39:16)
+- 造花の雫/義眼の涙も追加お願いします(｀人´)  -- 名無しさん  (2013-01-03 20:11:50)
+- ばぶちゃんの歌ゎ聞いてると死にそうになるょうな、中毒性がある！大好き！  -- ぽぽ  (2013-01-14 12:39:44)
+- まっしろやみのくろ・・考えさせられるのに消しちゃったの残念・・・  -- 黒葉  (2013-01-25 11:29:45)
+- 好き  -- 名無しさん  (2013-06-20 16:16:30)
+- あの子な幸せが 追加お願いします(´；ω；｀)  -- 名無しさん  (2013-07-06 15:26:42)
+- ページktkr！待ってたでちゅだぁだ  -- 餃子  (2014-03-05 20:24:17)
+- この人Twitterがヤバイことになってるな…  -- 名無しさん  (2014-05-21 20:19:06)
+- やばい  -- 名無しさん  (2018-09-24 19:05:55)
+- 未完成の死体とばぶランドに死後日記、あと（漢字が分からない） 皆殺しの歌詞がないです。  -- @  (2018-12-08 12:55:38)
+#comment

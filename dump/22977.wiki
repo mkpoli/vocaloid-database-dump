@@ -1,0 +1,31 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1124_20120820202644_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[picture of world~for U~]]|CENTER:&bold(){Fruits Mix}|CENTER:[[Halloween in Prison>Halloween in Prison/CD]]|
+
+|&bold(){[[キッドP]]}|[[クリスタルP]]|[[残鏡P]]|
+
+発売：2012年9月7日
+価格：￥600 / 1曲￥150
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：[[碧茶]]
+
+**CD紹介
+-キッドPの配信ミニアルバム。
+-4thアルバム『picture of world~for U~』から果物をモチーフにした2曲をシングルカットしている。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++[[ストロベリープリンセス>ストロベリー♡プリンセス]]～Single version～ （feat. 鏡音レン）
++[[バナナ☆キッス]] （feat. 鏡音レン）
++ストロベリープリンセス （instrumental）
++バナナ☆キッス （instrumental）
+
+**リンク
+-[[作者ブログ>>http://yaplog.jp/kidsworks/]]
+-[[KARENT：「Fruits Mix」>>http://karent.jp/album/1124]]
+
+**コメント
+#comment()

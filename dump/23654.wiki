@@ -1,0 +1,42 @@
+#right(){&furigana(いちょういろD-i-s-k) &furigana()【登録タグ:&tags() 】}
+#Amazon(B00ACHTPZ2)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm19527451)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[向日葵色D-i-s-k]]|CENTER:&bold(){銀杏色D-i-s-k}|CENTER:[[NICE MATCHING!]]|
+
+|&bold(){[[あルカP]]}|[[りくかんな]]|森田せらぎ|ゆきはね|
+
+|>|CENTER:即売|CENTER:通販|
+|発売|>|CENTER:2012年12月15日|
+|価格|CENTER:￥1,000（税込）|CENTER:￥1,500（Amazon・税込）|
+|サークル|>|CENTER:Celo Project|
+
+**CD紹介
+-あルカPの6thアルバム。
+-前作に続いて、「銀杏色」にちなんでリン・レンをフィーチャーしている。「[[Have to Remember]]」「[[マインドスープ]]」「[[NICE MATCHING!]]」など全12曲を収録。
+-ジャケットイラストを [[りくかんな]]氏 が、マスタリングを [[Shibayan]]氏 が手掛ける。
+-THE VOC@LOiD M@STER 23（ボーマス23）にてリリース。
+-Amazonで委託販売がおこなわれている。
+
+**曲目
++[[タイムトラベラー>タイムトラベラー/あルカP]] / 鏡音リンAppend
++[[Arrow>Arrow/あルカP]] / 鏡音レンAppend
++[[ホライゾン]] / 鏡音リンAppend・がくっぽいど
++[[spirit]] / 鏡音レンAppend
++[[マインドスープ]] / 鏡音リンAppend・がくっぽいど
++[[Scar]] / 鏡音リンAppend
++[[インターフェイス]] / 初音ミク・巡音ルカ
++[[Have to Remember]] / メグッポイド・がくっぽいど
++[[NICE MATCHING!]] / miki
++[[宇宙船長しろくま]] / 鏡音リン・レン
++[[大空のデザイナー]] / 鏡音リンAppend
++Snow is calling me
+
+**リンク
+-[[作者ブログ（M@SATOSHIが日記）>>http://masatoshi60.blog11.fc2.com/]]
+-[[Amazon.co.jp>>http://www.amazon.co.jp/dp/B00ACHTPZ2]]
+
+**コメント
+#comment()

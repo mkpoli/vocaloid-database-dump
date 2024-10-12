@@ -1,0 +1,41 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#ref(http://img.toranoana.jp/img/04/0030/10/80/040030108043-1.gif)
+&nicovideo(http://www.nicovideo.jp/watch/sm19566155)
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[graffiti>graffiti/ねこぼーろCD]]|CENTER:&bold(){TEXT}|CENTER:[[Dot.]]|
+
+|&bold(){[[ねこぼーろ]]}|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|CENTER:2012年12月15日||
+|価格|CENTER:￥1,000（税込）|CENTER:￥1,429（税別）|
+|サークル|>|CENTER:INQUIry|
+
+**CD紹介
+-≡(˙˘˙)ﾄﾞﾓ−
+-ねこぼーろ氏の4thアルバム。
+-THE VOC@LOiD M@STER 23（ボーマス23）にて頒布。
+-とらのあなにて委託販売された。
+
+**曲目
++TEXT
++[[弾けないギターを片手に。]]
++窓のそと
++[[名称未設定.txt]]
++snow dream before
++[[クライスとリング]]
++cocktailDrop
++[[ひねくれネジと雨]]
++name
++[[哀傷歌コンテキスト]]
++ゆりかごのなかのそら
++[[クライスとリング]] (remix)
+
+**リンク
+-[[作者マイリスト>>http://www.nicovideo.jp/mylist/13459994]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/10/80/040030108043.html]]
+
+**コメント
+- 欲しいいいいいいいいいい！  -- 名無しさん  (2013-11-04 17:18:46)
+- 欲しい…再販お願いします！！  -- 名無しさん  (2013-11-18 22:29:45)
+#comment()

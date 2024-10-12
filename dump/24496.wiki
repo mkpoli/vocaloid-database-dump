@@ -1,0 +1,50 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1220_20130116040533_0280_0280.jpg)
+
+&nicovideo(sm19605875)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[悲しみのプロローグ / 願い>悲しみのプロローグ／願い]]|CENTER:&bold(){YELL -Bitter & Sweet-}|CENTER:[[カレーパラダイス]]|
+
+|&bold(){[[SHO（キセノンP）]]}|
+
+|流通|CENTER:即売|CENTER:委託|CENTER:配信|
+|発売|>|CENTER:2012年12月31日|CENTER:2013年2月4日|
+|価格|CENTER:￥1,000|CENTER:￥1,470（税込）|CENTER:￥1,500 / 1曲￥150|
+|サークル|>|CENTER:XM||
+
+**CD紹介
+>苦いのが好きですか？甘いのが好きですか？
+>素直な応援が好きですか？皮肉を言われた方が燃えますか？
+>貴方を奮い立たせる15曲の応援歌をプレゼント！
+-サークルXMの4thフルアルバム。
+-イラストはそれぞれ[[雪月佳]]氏（ジャケット）、はいばね氏（バックインレイ）、こころりP（盤面）が担当。
+-コミックマーケット83（C83）で初頒布。
+-各同人ショップにて委託販売が、KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++[[悲しみのプロローグ]] （feat. 初音ミク）
++[[NOISE>NOISE/SHO（キセノンP）]] （feat. CUL）
++逆立ちした犬 （feat. 巡音ルカ）
++僕がいる （feat. 鏡音レン）
++醜い青虫の子 （feat. CUL）
++一番欲しいもの （feat. 鏡音リン）
++バイリンガル・トリリンガル （feat. 初音ミク）
++BEAUTIFUL WORDS （feat. 鏡音リン）
++[[さんぽみち>さんぽみち/SHO（キセノンP）]] （feat. 初音ミク）
++MARIONETTE （feat. 鏡音レン）
++電車 （feat. 巡音ルカ）
++友達フォビア （feat. メグッポイド）
++TASUKI （feat. 鏡音リン&鏡音レン）
++[[片想い]] （feat. メグッポイド&初音ミク）
++[[願い>願い/SHO（キセノンP）]] （feat. 初音ミク）
+
+**リンク
+-[[サークルサイト>>http://sound.jp/xenonmaiden/html_j/entrance.html]]
+-[[作者ブログ>>http://xenonp.dou-jin.com/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/09/73/040030097355.html]]
+-[[D-STAGE>>http://d-stage.com/shop/detail.php?seq=34972]]
+-[[KARENT：「YELL -Bitter & Sweet-」>>http://karent.jp/album/1220]]
+
+**コメント
+#comment()

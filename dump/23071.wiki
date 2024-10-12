@@ -1,0 +1,56 @@
+#right(){&furigana(とらまちっくめもりー)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&ref(http://karent.jp/npdca/1138_20121001010759_0280_0280.jpg)
+
+&nicovideo(sm16172743)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){ドラマチックメモリー}|CENTER:[[DEAD or ALIVE]]|
+
+|&bold(){[[デスおはぎ]]}|[[小山乃舞世]]|
+
+|流通|CENTER:即売|CENTER:委託|CENTER:配信|
+|発売|CENTER:2011年11月19日||CENTER:2012年10月10日|
+|価格|CENTER:￥|￥1,500（税込）|CENTER:￥1,200 / 1曲￥150|
+|サークル|>|CENTER:デスおはぎ||
+
+**CD紹介
+CD名：『&u(){ドラマチックメモリー}』
+-VOCALOID・UTAUのP、デスおはぎ氏の1stアルバム。
+-全10曲+ボーナストラック。
+-THE VOC@LOiD M@STER 18（ボーマス18）で頒布。
+-同人ショップなどで委託販売が行われていた。
+-2012年のテトの日（10/10）にKARENTレーベルよりダウンロード販売が開始された。配信版はTr.9が波音リツVer.の「Relight My Fire」に変更されている。
+
+**曲目
+★印はUTAU楽曲データベースへのリンク。
++[[桃色しーくれっと.exe]] （feat. 重音テト&初音ミク）[[★>>http://www24.atwiki.jp/utauuuta/pages/705.html]]
++Sweets! （feat. 重音テト）[[★>>http://www24.atwiki.jp/utauuuta/pages/1417.html]]
++[[しゅーてぃん☆すたー]]2011 （feat. 重音テト）[[★>>http://www24.atwiki.jp/utauuuta/pages/431.html]]
++[[雪猫座行き、出航前夜。]] （feat. 鏡音レン&鏡音リン）
++[[マスターオブパペッツ]] （feat. 初音ミク&巡音ルカ）
++[[Retrouvailles. －ルトゥルヴェイユ－]] （feat. 初音ミク&鏡音リン&鏡音レン&揺歌サユ&羽音りり&[[mia子]]）[[★>>http://www24.atwiki.jp/utauuuta/pages/1573.html]]
++アンティーク ～午後四時、図書室より～ （feat. 重音テト）
++ヒメゴト （feat. 重音テト、桃音モモ、ただのレラさん）
++[[LIGHT MY FIRE]] （feat. 白滝イト） / Relight My Fire （feat. 波音リツ）[[★>>http://www24.atwiki.jp/utauuuta/pages/814.html]]
++Believer's High （feat. 重音テト）
++キミとのキョリ （feat. 小山乃舞世&雪歌ユフ）
+
+**リンク
+-[[作者ブログ>>http://ameblo.jp/deathohagi/]]
+-[[UTAU楽曲データベース：「デスおはぎ」>>http://www24.atwiki.jp/utauuuta/574.html]]
+-[[UTAU楽曲データベース：「ドラマチックメモリー」>>http://www24.atwiki.jp/utauuuta/pages/1651.html]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/00/76/040030007665.html]]
+-[[ニコニコ直販>>http://chokuhan.nicovideo.jp/products/detail/805]]
+-[[D-STAGE>>http://store.shopping.yahoo.co.jp/d-stage/2900179200011.html]]
+-[[メロンブックス>>http://shop.melonbooks.co.jp/shop/detail/213001010267/?RATED=18]]
+-[[アリスブックス>>http://alice-books.com/item/show/778-1]]
+-[[KARENT：「ドラマチックメモリー」>>http://karent.jp/album/1138]]
+
+**コメント
+- 一瞬メタリカの名曲が入ってるのかと思った(笑)  -- 名無しさん  (2013-03-24 22:37:28)
+- ↑同じくｗ  -- 零  (2016-10-05 21:42:29)
+#comment()

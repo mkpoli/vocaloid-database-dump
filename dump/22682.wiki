@@ -1,0 +1,30 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1120_20120816112953_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[〆 -Deadline]]|CENTER:&bold(){Sunrise}|CENTER:[[Reverberations]]|
+
+|&bold(){[[Clean Tears]]}|
+
+発売：2012年8月31日
+価格：￥150
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：[[Clean Tears]]
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/sunrise-single/id556327974]]}|
+
+**CD紹介
+-Clean Tears氏の配信シングル。
+-KARENTレーベルの初音ミク5周年記念企画で配信された作品の1つ。
+
+**曲目
++Sunrise （feat. 初音ミク）
+
+**リンク
+-[[作者サイト>>http://www.scx-ct.net/]]
+-[[KARENT：「Sunrise」>>http://karent.jp/album/1120]]
+-[[KARENT：「初音ミク 5th Anniversary」特集ページ>>http://karent.jp/special/miku12]]
+
+**コメント
+#comment()

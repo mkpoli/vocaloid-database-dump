@@ -1,0 +1,55 @@
+#right(){&furigana(2020)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&ref(http://karent.jp/npdca/1232_20130207185117_0280_0280.jpg)
+
+&nicovideo(sm12568110)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[freestyle]]|CENTER:&bold(){2020}|CENTER:[[オリエンタルマインド>オリエンタルマインド/CD]]|
+
+|&bold(){[[Rin（ぎん）]]}|
+
+|流通|CENTER:即売|CENTER:配信|
+|発売|CENTER:2010年10月31日|CENTER:2013年2月22日（DISC 1）&br()2013年4月17日（DISC 2）|
+|価格|CENTER:￥1,000|CENTER:各￥900 / 1曲￥150|
+|サークル|CENTER:クロネコラウンジ||
+
+**CD紹介
+-Rin（ぎん）氏の2ndアルバム。
+-2枚組全18曲を収録。
+-M3-2010秋やTHE VOC@LOiD M@STER 14（ボーマス14）で頒布。
+-KARENTレーベルよりダウンロード販売が行われている。配信版はDISC 1と2が別売りとなっている。
+
+**曲目
+***DISC 1
++[[SiSTEMATiC CONTROL]] - 2020 edit / 巡音ルカ
++2020 / 初音ミク
++Tokyo United
++[[The Future Radio>近未来ラジオ]] - 2020 edit / 初音ミク
++Sweet Thinking / 初音ミク
++[[自由の翼と囚われの姫]] / 初音ミク
++雨音、憂鬱、一雫 / 初音ミク
++Welcome to my House / 初音ミク
++[[Antena]] - Long version / 初音ミク
+
+***DISC 2
++[[SiSTEM-A]] / 巡音ルカ
++[[TSUBASA>TSUBASA/Rin（ぎん）]] / 初音ミク
++SiSTEMATiC EMOTiON / 初音ミク
++[[DiSTORTED LOVE]] / 巡音ルカ
++[[Optical Ares]] / 初音ミク
++AbyssTracer / 初音ミク
++SiSTEMATiC ViOLENCE / 巡音ルカ
++[[ふたりの距離]] / 初音ミク
++[[Danca de Amor]] / 初音ミク
+
+**リンク
+-[[作者ブログ>>http://blog.livedoor.jp/rinx2musixxx/]]
+-[[KARENT：「2020 - DISC1」>>http://karent.jp/album/1232]]
+-[[KARENT：「2020 - DISC2」>>http://karent.jp/album/1243]]
+
+**コメント
+#comment()

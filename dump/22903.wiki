@@ -1,0 +1,39 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo(sm17611229)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[My Song>My Song/CD]]|CENTER:&bold(){My Life}|CENTER:[[残滓 -ZANSAI-]]|
+
+|&bold(){[[Ebot]]}|
+
+発売：2012年4月29日
+価格：￥1,500
+流通：即売
+サークル：ウタカタ社中
+
+**CD紹介
+-Ebot氏のCD作品。
+-6曲+オフボーカルトラックの全12曲。
+-「マイソング」以外はボーカルを録り直ししている。
+-デュエット曲だった「tomorrow's voices」は、移調・リアレンジ・KAITOソロ曲となり、タイトルも「ユアソング」となっている。
+-THE VOC@LOiD 超 M@STER 20（超ボーマス20）で頒布。
+
+**曲目
++[[One and Only]]
++[[マイソング]]-Let's snap out of it!-
++[[マイペース>マイペース/Ebot]]-Go one's own way-
++[[マイライフ]]-Live in the present-
++ユアソング-[[tomorrow's voices]]-
++凪
++One and Only (off vocal)
++マイソング-Let's snap out of it!- (off vocal)
++マイペース-Go one's own way- (off vocal)
++マイライフ-Live in the present- (off vocal)
++ユアソング-tomorrow's voices- (off vocal)
++凪 (off vocal)
+
+**リンク
+-[[サークルサイト>>http://utakatasyachu.blog.fc2.com/]]
+
+**コメント
+#comment()

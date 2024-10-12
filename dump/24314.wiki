@@ -1,0 +1,31 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1209_20121225135238_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Daybreak Rockers]]|CENTER:&bold(){Tartan Check Club Band}|CENTER:[[僕こそ君の1st Place!]]|
+
+|&bold(){[[KITOTAN]]}|
+
+発売：2013年1月18日
+価格：￥300 / 1曲￥150
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：ruhito
+
+|&bold(){[[iTunes Storeで購入する>>https://itunes.apple.com/jp/album/tartan-check-club-band-single/id593920268]]}|
+
+**CD紹介
+-3人組ユニット「KITOTAN」の配信シングル。
+-表題曲とインストの2曲入り。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++[[Tartan Check Club Band>タータン・チェック・クラブ・バンド]] （feat. 初音ミク＆巡音ルカ）
++Tartan Check Club Band inst
+
+**リンク
+-[[作者サイト>>http://www.kitotan.com/]]
+-[[KARENT：「Tartan Check Club Band」>>http://karent.jp/album/1209]]
+
+**コメント
+#comment()

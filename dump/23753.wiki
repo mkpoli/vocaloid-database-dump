@@ -1,0 +1,42 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#amazon(B008K6T7MI)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Sevencolors Works 2010-2011 Best]]|CENTER:&bold(){Signal Green}|CENTER:[[エレクトロトレイン]]|
+
+|&bold(){[[nana]]}|[[有坂あこ]]|[[海兎]]|cittan*|ゆーな|[[M.I.O>みつあくま]]|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2012年8月11日||
+|価格|CENTER:￥1,500|CENTER:￥1,667（税込）|
+|サークル|>|CENTER:Sevencolors|
+
+**CD紹介
+>VOCALOIDの素敵な旅へ、全車発進!
+-Sevencolorsが贈る、VOCALOIDミニアルバム第四弾!
+-今作は全七曲の新曲を収録したCDに加え、壁紙データや線がデータなどのイラストコンテンツを収録したCD-ROMの二枚組仕様!
+-パッケージは特注二枚組デジトレイ+透明スリーブケースの豪華仕様!
+-コミックマーケット82（C82）で頒布。同人ショップ各店にて委託販売が行われている。
+
+**クロスフェード
+&nicovideo(sm18487109)
+
+**曲目
++[[エレクトロトレイン]] / 初音ミクvivid
++[[algorhythm]] / 初音ミクvivid
++[[Lost.]] / 巡音ルカ
++Original Remind / 初音ミクsoft
++Stay in the Blue / Megpoid Power & Whisper
++Sweet Pain / 初音ミク
++[[パラダイムシフト>パラダイムシフト/nana]] (Tracy Remix) / 初音ミク / Remixed by Tracy (Amateras Records)
+
+**リンク
+-[[作者サイト>>http://seven-colors.info/]]
+-[[特設サイト>>http://seven-colors.info/signal-green/]]
+-[[amazon>>http://www.amazon.co.jp/gp/product/B008K6T7MI]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/05/78/040030057837.html]]
+-[[メロンブックス>>http://shop.melonbooks.co.jp/shop/sp_213001011686_sevenc_signalg.php]]
+-[[D-STAGE>>http://d-stage.com/shop/detail.php?seq=30206]]
+
+**コメント
+#comment()

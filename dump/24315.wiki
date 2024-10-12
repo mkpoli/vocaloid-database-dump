@@ -1,0 +1,33 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1208_20121223124432_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[今では]]|CENTER:&bold(){VANQUISH}|CENTER:-|
+
+|&bold(){[[y0c1e]]}|
+
+発売：2013年1月18日
+価格：￥600 / 1曲￥150
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：ざいん
+
+|&bold(){[[iTunes Storeで購入する>>https://itunes.apple.com/jp/album/vanquish-ep/id593919083]]}|
+
+**CD紹介
+-y0c1e氏の配信ミニアルバム。
+-メンズファッションブランド VANQUISH の展開するコラボレーションプロジェクト「VANQUISH VENUS」。その第4弾となる初音ミクとのコラボにあたり書き下ろされた楽曲2曲を収録している。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++[[VANQUISH]] （feat. 初音ミク）
++VENUS （feat. 初音ミク）
++VANQUISH （Instrumental）
++VENUS （Instrumental）
+
+**リンク
+-[[KARENT：「VANQUISH」>>http://karent.jp/album/1208]]
+-[[VANQUISH VENUS>>http://vanquish.jp/venus/]]
+
+**コメント
+#comment()

@@ -1,0 +1,46 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1112_20120815041051_0280_0280.jpg)
+
+|&nicovideo(sm16459691)|&nicovideo(sm16470146)|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[SPIKE -まるくなる設定資料集-]]|CENTER:&bold(){DIVINE -神曲-}|CENTER:[[NOTES -Text to DIVINE-]]|
+
+|&bold(){[[SHO（キセノンP）]]}|
+
+|流通|CENTER:即売|CENTER:委託|CENTER:配信|
+|発売|>|CENTER:2011年12月31日|CENTER:2012年9月5日|
+|価格|CENTER:￥1,000|CENTER:￥1,470（税込）|CENTER:￥1,500 / 1曲￥150|
+|サークル|>|CENTER:XM||
+
+**CD紹介
+-サークルXMの3rdアルバム。
+-キセノンPの2年間の集大成、「生・死・転生」をテーマにしたコンセプトアルバム。
+-イラストはhuma氏、ぎヴちょこ氏が手掛ける。 
+-コミックマーケット81（C81）で初頒布。
+-各同人ショップにて委託販売が、KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++Introduzione -Un Seme Di Vita-
++[[ひまわり>ひまわり/SHO（キセノンP）]] （feat. 初音ミク）
++ばいぜもーる （feat. 鏡音リン）
++刺青～タトゥ （feat. 巡音ルカ）
++Eat Them All On The Table （feat. 巡音ルカ）
++[[Hand to Hand]] （feat. 初音ミク）
++Incubus （feat. 鏡音リン&鏡音レン）
++[[Immortal Soul]] （feat. 鏡音レン）
++[[涙雨～なみだあめ]] （feat. 巡音ルカ&初音ミク）
++[[Survive>Survive/SHO（キセノンP）]] （feat. 鏡音リン&初音ミク）
++Come La Divina Commedia -神曲- （feat. 初音ミク&鏡音リン&鏡音レン&巡音ルカ）
++Birthday （feat. 初音ミク）
+
+**リンク
+-[[サークルサイト>>http://sound.jp/xenonmaiden/html_j/entrance.html]]
+-[[作者ブログ>>http://xenonp.dou-jin.com/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/01/85/040030018542.html]]
+-[[あきばお～こく>>http://www.akibaoo.com/02/commodity_param/t/0/ctc/82030400/shc/0/cmc/2500020216729/backURL/+02+main]]
+-[[D-STAGE>>http://d-stage.com/shop/detail.php?seq=25423]]
+-[[KARENT：「DIVINE -神曲-」>>http://karent.jp/album/1112]]
+
+**コメント
+#comment()

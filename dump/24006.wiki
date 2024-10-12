@@ -1,0 +1,65 @@
+#right(){&furigana(PromiseToYou)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm19568770)|
+作詞：[[Circus-P]]
+作曲：[[Circus-P]]
+編曲：[[Circus-P]]
+唄：[[巡音ルカ]]
+
+**曲紹介
+>&bold(){A song about getting over the loss of a loved one (´；ω；`)}
+曲名：『&u(){Promise To You}』(&u(){ぷろみす　とぅ　ゆー})
+
+**歌詞
+
+It might be a little late for me to say "goodbye"
+and I know you'll never hear me no matter how hard I try
+Didn't plan on leaving me so soon,did you now?
+Well,I can't say I planned it either
+I guess that's it was meant to be
+
+But I promise to you
+I'll see you soon,and we'll make it through
+And I wont forget you
+You say you'll come back and you mean it too
+
+Y'know as time went on,I went a little crazy
+You said that you'd be back,but I kept thinking maybe...
+And I guess that maybewas right,'cause look at me now
+Well,I know that's just how it goes,but
+I don't know how to go on alone
+
+But I promise to you
+I'll see you soon,and we'll make it through
+And I wont forget you
+You say you'll come back and you mean it too
+
+I promise to you
+I wont forget you
+All that we've been through
+I promise to you...
+
+But I promise to you
+I'll see you soon,and we'll make it through
+And I wont forget you
+You say you'll come back and you mean it too
+
+But I promise to you
+If you don't return,I'll try to move on
+And I wont forget you
+You said you'd come back,but now you are gone
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+**コメント
+//- 巡音ミクになってるよ　だれか修正して  -- 名無しさん  (2012-12-30 21:00:34)
+#comment()
+
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)

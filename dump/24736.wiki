@@ -1,0 +1,51 @@
+#right(){&furigana(しょうねんじゃんぷこんぴそうかんごう)&furigana()【登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186131582.jpg,x=300,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm20285858)
+
+|BGCOLOR(#dcdcdc):COLOR(#FFF):CENTER:&font(b,11pt){　前作　}|BGCOLOR(#dcdcdc):COLOR(#FFF):CENTER:&font(b,11pt){　本作　}|BGCOLOR(#dcdcdc):COLOR(#FFF):CENTER:&font(b,11pt){　次作　}|
+|CENTER:-|CENTER:&bold(){少年ジャンプコンピ創刊号}|CENTER:[[少年ジャンプコンピ第2号]]|
+
+|&bold(){[[挫折P]]}|[[なぎP]]|[[imosuke]]|[[ぼーかりおどP]]|[[恋竹林]]|[[やみくろ]]|
+
+|BGCOLOR(#dcdcdc):COLOR(#FFF):CENTER:&font(b,11pt){　流通　}|BGCOLOR(#dcdcdc):COLOR(#FFF):CENTER:&font(b,11pt){　即売　}|
+|BGCOLOR(#dcdcdc):COLOR(#FFF):CENTER:&font(b,11pt){　発売　}|CENTER:　2013年3月24日　|
+|BGCOLOR(#dcdcdc):COLOR(#FFF):CENTER:&font(b,11pt){　価格　}|CENTER:　\1000　|
+|BGCOLOR(#dcdcdc):COLOR(#FFF):CENTER:&font(b,11pt){　サークル　}|CENTER:　少年ジャンプコンピ　|
+
+**CD紹介
+>&bold(){集●社非公認！！}
+>&bold(){俺たちの戦いはこれからだ！！}
+-「編集長」 挫折P による、週刊少年ジャンプに現在連載中、もしくは過去に連載された漫画をモチーフにしたコンピCD。
+-「命知らず（？）」の6人のボカロPがお送りする、書き下ろしの新曲を全6曲収録。
+-参加Pの次回作にご期待ください！（作者コメ転載）
+-ジャケットイラストは 藤岡八房氏 が手掛ける。
+-VOCALOID PARADISE 関西2（ボーパラ関西2）にてリリース。
+
+**曲目
+|BGCOLOR(#dcdcdc):COLOR(#FFF):CENTER:&font(b,11pt){　Track　}|BGCOLOR(#dcdcdc):COLOR(#FFF):CENTER:&font(b,11pt){　曲名　}|BGCOLOR(#dcdcdc):COLOR(#FFF):CENTER:&font(b,11pt){　楽曲制作者　}|BGCOLOR(#dcdcdc):COLOR(#FFF):CENTER:&font(b,11pt){　モチーフにした漫画　}|
+|BGCOLOR(#dcdcdc):COLOR(#FFF):CENTER:&font(b,11pt){ 01 }|CENTER:[[Country of the "KAMEARI"]]|CENTER:挫折P|CENTER:こちら葛飾区亀有公園前派出所|
+|BGCOLOR(#dcdcdc):COLOR(#FFF):CENTER:&font(b,11pt){ 02 }|CENTER:ねがいこと葉|CENTER:なぎP|CENTER:まじかる☆タルるートくん|
+|BGCOLOR(#dcdcdc):COLOR(#FFF):CENTER:&font(b,11pt){ 03 }|CENTER:[[肩のところの輪っかみたいなアレ]]|CENTER:imosuke|CENTER:セクシーコマンドー外伝 すごいよ！！マサルさん|
+|BGCOLOR(#dcdcdc):COLOR(#FFF):CENTER:&font(b,11pt){ 04 }|CENTER:songgaar|CENTER:ぼーかりおどP|CENTER:SKET DANCE|
+|BGCOLOR(#dcdcdc):COLOR(#FFF):CENTER:&font(b,11pt){ 05 }|CENTER:[[超魔爆炎覇]]|CENTER:じーこば（恋竹林）|CENTER:DRAGON QUEST -ダイの大冒険-|
+|BGCOLOR(#dcdcdc):COLOR(#FFF):CENTER:&font(b,11pt){ 06 }|CENTER:[[シスターエルレインの日記]]|CENTER:やみくろ|CENTER:ダブルアーツ|
+
+**リンク
+-[[Twitter（挫折P）>>http://twitter.com/dekadai]]
+-[[Twitter（なぎP）>>http://twitter.com/nagip1003]]
+-[[Twitter（imosuke）>>http://twitter.com/imosukeee]]
+-[[Twitter（ぼーかりおどP）>>http://twitter.com/vocaliod_P]]
+-[[Twitter（じーこば）>>http://twitter.com/G_KOBA]]
+-[[Twitter（やみくろ）>>http://twitter.com/yamichrome]]
+-[[Twitter（藤岡八房）>>http://twitter.com/8husa]]
+
+**コメント
+- すげぇ欲しい  -- 名無しさん  (2013-03-10 12:13:37)
+- ダブルアーツ好きだったから嬉しい!  -- 名無しさん  (2013-03-10 18:18:40)
+- あっ、ダブルアーツがある！ダブルアーツ大好きだった！今でもだけど！  -- 名無しさん  (2013-03-10 18:35:59)
+- ダブルアーツがある！ダブルアーツがある！やべえ、超聴きてえ！どうして連載終わったんだ……  -- 名無しさん  (2013-03-10 18:39:09)
+- ＳＫＥＴ　ＤＡＮＣＥがある！　嬉しい！！！  -- 名無しさん  (2013-03-10 18:49:11)
+- べるぜば…。アニメ結構好きだったんだけどなー。  -- 名無しさん  (2013-03-10 19:48:32)
+#comment()

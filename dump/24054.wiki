@@ -1,0 +1,28 @@
+#right(){&furigana(ちょこれーしょん)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/35094710" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/35094710">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-2012年12月「[[未来への系譜]]」にてデビュー。
+-使用ボカロは今のところ鏡音リンのみ。
+
+**リンク
+-[[作者ブログ>>http://chocolation2525.blog.fc2.com/]]
+-[[PIAPRO>>http://piapro.jp/chocolation2525]]
+-[[twitter>>http://twitter.com/@chocolation2525]]
+
+**曲
+#list_by_tag(ちょこれーしょん,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm19638396)|
+
+**コメント
+//- こいつに継続ふぁぼ()しないと喧嘩売られるってマジ～？ｗｗ  -- 名無しさん  (2014-06-20 08:43:20)
+//- こいつめっちゃ性格悪いよ  -- 名無しさん  (2014-06-20 12:36:35)
+//- キッモ  -- 名無しさん  (2014-06-21 06:29:00)
+//- 垢消せ  -- 名無しさん  (2014-06-21 15:24:45)
+//- 良かったね！超有名人ｗｗ！  -- 名無しさん  (2014-06-22 08:40:45)
+//- キモい  -- 名無しさん  (2014-06-28 01:42:25)
+//- つよそう  -- 名無しさん  (2014-11-06 14:01:09)
+//- 女をレイプするキチガイ  -- 名無しさん  (2014-11-09 13:59:07)
+#comment()

@@ -1,0 +1,80 @@
+#right(){&furigana(DaybreakRockers)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm18761338)|&YouTube(https://www.youtube.com/watch?v=DRaXwgFFP5k){342,187}|
+作詞：[[KITOTAN]]
+作曲：[[KITOTAN]]
+編曲：[[KITOTAN]]
+唄：[[初音ミク]]
+
+**曲紹介
+曲名：『&u(){Daybreak Rockers}』
+-初音ミク5周年記念に発表された作品の1つ。
+-3人組ユニット「KITOTAN」初のボーカロイド楽曲。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**音楽配信
+&ref(https://karent.jp/npdca/1146_20121015164351_0280_0280.jpg)
+
+|CENTER:前作|CENTER:今作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Daybreak Rockers}|CENTER:[[Tartan Check Club Band]]|
+
+流通：配信
+発売：2012年10月29日
+価格：￥150
+レーベル：[[KARENT>>https://karent.jp/album/1146]]
+ジャケットイラスト：ruhito
+
+|&bold(){[[iTunes Storeで購入>>https://itunes.apple.com/jp/album/daybreak-rockers-feat.-hatsune/id570911288]]}|
+
+***曲目
++Daybreak Rockers （feat. 初音ミク）
+
+**歌詞
+寄せては返す波際で
+重ねたあなたの手の
+温もりが少しさみしくて
+夜が明ける
+
+ふわり　ふわり
+夢みたいな夜が
+
+ふわり　ふわり
+空が白んでく
+
+別に君なんて
+ただの友達で
+不意のキスの意味なんて
+うらら
+特別な人に
+なりたいわけでは
+ただこのままで良かったの
+
+寄せては返す波際で
+重ねたあなたの手の
+温もりが少しさみしくて
+夜が明ける
+
+ふたり　ふたり
+伝わらない言葉
+
+ふたり　ふたり
+いつも通りだね
+
+君への気持ちを
+言の葉にのせて
+風に吹かれてしまえばいいのに
+募った思いは
+行く当てもなくて
+ただ溢れ土に還るの
+
+朝を告げるの鳥たちが
+少しウザくて不意に
+温もりなんて忘れたのに
+夜が明ける
+
+
+**コメント
+#comment()

@@ -1,0 +1,41 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1205_20121212020335_0280_0280.jpg)
+
+|&nicovideo(sm19608981)|&YouTube(http://www.youtube.com/watch?v=6il0v1MA3u0){342,187}|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[IVVVI]]|CENTER:&bold(){Your}|CENTER:[[Key / Word>Key／Word]]|
+
+|&bold(){[[AVTechNO]]}|[[Dog tails]]|/SAKURA|
+
+|発売|CENTER:2012年12月31日|CENTER:2013年1月9日|
+|価格|CENTER:￥1,000|CENTER:￥600 / 1曲￥150|
+|流通|CENTER:即売|CENTER:配信|
+|ジャケットイラスト|>|CENTER:和音|
+
+|&bold(){[[iTunes Storeで購入>>https://itunes.apple.com/jp/album/your-ep/id588643905]]}|
+
+**CD紹介
+-AVTechNO!氏の5作目となるCD作品。
+-新曲、バージョン違い、リミックスなどを収録した全8曲。
+-C83（コミックマーケット83）にて頒布。このイベントのみの頒布で、通販予定もない。
+-KARENTレーベルよりダウンロード販売が行われている。ただし、Tr1-4とTr.6の全5曲構成となっている。
+
+**曲目
++[[Closed>Closed/AVTechNO]] （feat. 鏡音リン）
++[[Lost eight seconds]] （feat. 初音ミク&巡音ルカ）
++[[Lastear]] （feat. 初音ミク）
++[[Liecia]] （feat. 巡音ルカ&鏡音レン）
++IAIA （feat. IA）
++[[Advance tech no>アDVAnCEテCHノ]] -Dog tails Disadvanced Remix- （feat. 初音ミク）
++Myslee （piano フルバージョン）
++LT （sound test）
+
+**リンク
+-[[作者サイト>>http://avtechno.ukime.org/]]
+-[[作者ブログ>>http://onhcetva.seesaa.net/]]
+-[[KARENT：「Your」>>http://karent.jp/album/1205]]
+
+**コメント
+- C83行けなかったから悔しい・・・委託販売してほしいなぁ・・・  -- 名無しさん  (2013-03-10 13:53:36)
+#comment()

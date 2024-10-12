@@ -1,0 +1,29 @@
+#right(){&furigana(Mrかうはーそん)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/32503600" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/32503600">ニコニコ動画</a></iframe>)
+
+**特徴
+作り手名：『&u(){Mr.カウパーソン}』(&u(){みすたー かうぱーそん})
+-「[[てれびぞんび]]」でデビューした期待の新人…もとい、擬態の新人。その正体は[[あの人>梨本P]]。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/nashimoto_ui]]
+-[[仮名・梨本うい（作者ブログ）>>http://nashimotowe.blog16.fc2.com/]]
+
+**曲
+#list_by_tagsearch(Mr.カウパーソン,sort=furigana2,errmsg=まだ曲が登録されていません。,and,100)
+
+**CD
+#list_by_tagsearch(Mr.カウパーソンCD,sort=furigana2,errmsg=まだCDが登録されていません。,and,100)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm18153702)|
+
+**コメント
+- いくらご本人だからといって、某Pのページを全コピーしてほったらかしはちょっとひどいと思います…。某Pページへ転送するように編集しようかと思いましたが、管理権のないユーザーでは転送設定ができなかったので「擬態の新人」としての内容で作り直しました。  -- 名無しさん (2012-09-13 21:17:56) 
+- ↑ありがとうございます! &br()擬態の新人、続くのかな〜  -- 名無しさん  (2012-09-14 17:17:01)
+- 梨本か。曲調がひっくり返されたように違うな。  -- 名無しさん  (2013-01-24 20:47:44)
+#comment()

@@ -1,0 +1,39 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+#ref(http://img01.otaden.jp/usr/hayakawalabo/Another-Girl%2CAnother-Planet.jpg)
+
+
+&nicovideo(http://www.nicovideo.jp/watch/sm19541606)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[漠たる夢、確たる恋。]]|CENTER:&bold(){Another Girl,Another Planet}|CENTER:[[anti human league]]|
+
+|&bold(){[[ハヤカワP]]}|
+
+|流通|CENTER:即売|CENTER:通販|
+|発売|CENTER:2012年12月15日||
+|価格|CENTER:￥800（税込）|CENTER:￥800|
+|サークル|>|CENTER:ハヤカワ・ラボ|
+
+**CD紹介
+-ほぼmiki主体の楽曲だけで構成されたミニアルバム。
+-「[[Star Maker]]」「[[鉄腕レイディ]]」「[[blue>blue/ハヤカワP]]」などの既存曲に新曲を加えた全8曲を収録。
+-このCDタイトルになっている「Another Girl,Another Planet」は、UKバンド「the only ones」の曲名から拝借した。
+-THE VOC@LOiD M@STER 23（ボーマス23）にてリリース。
+-自家通販が行われている。
+
+**曲目
++[[Star Maker]] -Rebuild- feat. miki
++[[赤色同盟]] feat. miki・重音テト
++[[ハートレス・レッド]]
++[[つかまえて☆My Darlin']]
++[[鉄腕レイディ]]
++[[ハレーション/ゴースト/ロマンス>ハレーション／ゴースト／ロマンス]]
++[[blue>blue/ハヤカワP]]
++Mr.Moonlight
+
+**リンク
+-[[ハヤカワ・ラボ（作者ブログ）>>http://hayakawalabo.otaden.jp/]]
+-[[通販ページ>>http://hayakawaplutonius.wix.com/cd-sell]]
+
+**コメント
+#comment

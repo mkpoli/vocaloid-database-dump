@@ -1,0 +1,17 @@
+#right(){&furigana(ぴっして)&furigana()【登録タグ:&tags()】}
+&nicovideo(http://www.nicovideo.jp/watch/nm4906653)
+作詞：[[クヌースP]]
+作曲：[[クヌースP]]
+編曲：[[クヌースP]]
+唄：初音ミク
+
+**曲紹介
+-クヌースPの2作目。
+
+**歌詞
+ピッシテ　ピッシテ　SCAN ME
+ピッシテ　ピッシテ
+
+
+**コメント
+#comment()

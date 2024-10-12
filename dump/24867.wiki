@@ -1,0 +1,32 @@
+#right(){&furigana(わたしとあなたときみとぼく)&furigana()【登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186147603.jpg,x=300,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm12619872)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){わたしとあなたときみとぼく}|CENTER:[[ハローグッバイをくりかえして]]|
+
+|&bold(){[[osu]]}|
+
+発売：2010年10月31日
+価格：￥100
+流通：即売
+
+
+**CD紹介
+-osu氏の1stCD。
+-VOCALOID PARADISE 3（ボーパラ3）やTHE VOC@LOiD M@STER 14（ボーマス14）で頒布された。
+
+**曲目
++[[Hello my friend]]
++ガールフレンド
++[[fourteen]] (remix)
++[[ハローごみくずのうた]]
++[[さよならさんかく>さよならさんかく/osu]]
+
+**リンク
+-[[作者ブログ>>http://osu413.blog62.fc2.com/]]
+
+**コメント
+#comment()

@@ -1,0 +1,90 @@
+#right(){&furigana(Lie)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm16457030)|&youtube(http://www.youtube.com/watch?v=nQoVFdgTSrc){336,189}|
+|&nicovideo(sm20161748)|&youtube(http://www.youtube.com/watch?v=D1xicOvYd3Q){336,189}|
+|&nicovideo(sm20230613)||
+作詞：[[Circus-P]]
+作曲：[[Circus-P]]
+編曲：[[Circus-P]]
+唄：[[巡音ルカ]]
+
+**曲紹介
+-&bold(){Love was dead from the start}
+曲名：『&u(){Lie}』（&u(){ライ}）
+
+**歌詞
+（動画より書き起こし）
+
+Why can't it be perfect?
+This love's not even real
+Why don't I cry for you?
+Love was dead from the start
+
+I don't want you | I don't need you | I'll forget you
+It doesn't matter
+I'll play along | Writing our song | We are perfect
+I love you
+
+No,this is all wrong
+Why aren't you gone?
+I know you're not that strong
+Don't listen to me
+We'll always be
+So perfectly happy
+
+
+The lies you succumb to
+Blissfully unaware
+I don't know how you can't
+See through my facade
+
+I don't want you | I don't need you | I'll forget you
+It doesn't matter
+I'll play along | Writing our song | We are perfect
+I love you
+
+No,this is all wrong
+Why aren't you gone?
+I know you're not that strong
+Don't listen to me
+We'll always be
+So perfectly happy
+
+And maybe one day I'll
+Get to see your smile
+In the arms of someone
+who loves you like I do
+
+No,this is all wrong
+Why aren't you gone?
+I know you're not that strong
+Don't listen to me
+We'll always be
+So perfectly happy
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+**コメント
+- 『｜』で区切った部分は動画を参考に書きました。要らなければお手数かけますが修正お願いします  --    (2013-01-03 14:46:05)
+- もっと評価されるべき  -- d=(^o^)=b  (2013-01-09 23:10:58)
+- すごく歌声綺麗！！英語の発音が良いし歌詞深い  -- あっぽん  (2013-02-27 18:25:05)
+- すごく大好きな曲です(`・ω・´)  -- のた  (2013-03-01 03:32:17)
+- 和訳してほしいです(´･ω･`)  -- ｚ  (2013-03-12 20:26:56)
+- 歌詞もPVも良かったです！　歌声も綺麗だし発音がすごい！  -- 律弥  (2013-08-05 14:36:55)
+- 和訳は検索すれば出てくる  -- 狼好きＰ  (2014-01-19 23:37:14)
+- カッコいいな。  -- 名無しさん  (2014-02-17 16:05:04)
+- ようつべだと50万いってんだけどなぁ…  -- 名無しさん  (2014-02-20 20:31:14)
+- 一発で惚れました！体に染み込んでくるような曲です！  -- 一 二三  (2016-05-02 20:20:33)
+- 色んな曲を聴いたけどやっぱりこの曲に戻ってきてしまいますね。  -- 針鼠  (2017-01-09 00:32:15)
+- これもめっちゃ良曲。心が荒ぶった時に聴くと落ち着く。静かだけど熱い曲。  -- gon  (2017-09-29 00:12:31)
+- YouTubeだと200万…すごいな  -- 名無しさん  (2017-10-09 19:02:03)
+#comment()
+
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)

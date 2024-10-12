@@ -1,0 +1,42 @@
+#right(){&furigana(はてなきおもいをときはなて)&furigana()【登録タグ:&tags() 】}
+#image(http://tsubu.ath.cx/~komso/kmcd0008/kmcd0008_bn1.gif,http://tsubu.ath.cx/~komso/kmcd0008.html,title=果てなき想いを解き放て,blank)
+
+&ref(http://karent.jp/npdca/1177_20121127214820_0280_0280.jpg)
+
+&nicovideo(sm19381501)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[a Northern Song]]|CENTER:&bold(){果てなき想いを解き放て}|CENTER:[[ふたりのタイムライン（Two of Us）]]|
+
+|&bold(){[[ムスカP]]}|[[碧茶]]|[[おればななP]]|
+
+|流通|CENTER:即売|CENTER:委託|CENTER:配信|
+|発売|>|CENTER:2012年11月25日|CENTER:2012年12月20日|
+|価格|CENTER:￥500|CENTER:￥630（税込）|CENTER:￥600 / 1曲￥150|
+|サークル|CENTER:レン廃留置所|CENTER:狐夢想屋||
+
+|&bold(){[[iTunes Storeで購入する>>https://itunes.apple.com/jp/album/here-comes-the-sun-g-c-8-ep/id587738173]]}|
+
+**CD紹介
+-ムスカPの4曲入りシングル。
+-デジタルポップの「果てなき想いを解き放て」と、エレクトロポップの「ゴミ箱8畳」の2曲+インストを収録。
+-Tr.1のメイン調声としておればななP、ジャケットイラストとTr.2の作詞で碧茶氏が参加している。
+-鏡音ねいろ！で頒布。委託販売はとらのあなで行われている。
+-KARENTレーベルよりダウンロード販売も行われている。鏡音リン・レン5周年企画で配信された作品の1つ。
+
+**曲目
++[[果てなき想いを解き放て (Here Comes the Sun)]]
++ゴミ箱8畳
++果てなき想いを解き放て (Here Comes the Sun) （Off Vocaloid）
++ゴミ箱8畳 （Off Vocaloid）
+
+**リンク
+-[[作者サイト>>http://tsubu.ath.cx/~komso/]]
+-[[特設ページ>>http://tsubu.ath.cx/~komso/kmcd0008.html]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/09/22/040030092222.html]]
+-[[KARENT：「果てなき想いを解き放て／ゴミ箱8畳」>>http://karent.jp/album/1177]]
+-[[KARENT：「鏡音リン・レン祭'12」>>http://karent.jp/special/rinlen12]]
+
+**コメント
+- ジャケット可愛い  -- 名無しさん  (2014-11-30 10:54:42)
+#comment()

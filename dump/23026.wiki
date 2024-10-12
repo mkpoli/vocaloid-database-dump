@@ -1,0 +1,29 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1136_20120916160934_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[レッド・シグナル101]]|CENTER:&bold(){Bottle Music}|CENTER:[[KNUTH / REMIXNUTH>KNUTH／REMIXNUTH]]|
+
+|&bold(){[[クヌースP]]}|[[山本ニュー]]|
+
+発売：2012年10月3日
+価格：￥300 / 1曲￥150
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：[[dolly>>http://piapro.jp/ondai]]
+
+**CD紹介
+-クヌースPの2曲入り配信ミニアルバム。
+-過去曲のリメイクの「COCORO-WIRED」と、フィロソフィカルな数え歌「カウンタ88」の2曲を収録している。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++[[COCORO-WIRED]] （feat. 鏡音リン）
++[[カウンタ88]] （feat. 鏡音リン）
+
+**リンク
+-[[作者ブログ>>http://sh100000.blog64.fc2.com/]]
+-[[KARENT：「Bottle Music」>>http://karent.jp/album/1136]]
+
+**コメント
+#comment()

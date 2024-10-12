@@ -1,0 +1,49 @@
+#right(){&furigana(かする・える・さふぁ)&furigana()【登録タグ:&tags() 】}
+&ref(https://www.suruga-ya.jp/database/pics/game/186122801.jpg)
+
+|>|>|CENTER:&bold(){クリキッド}|
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[CKⅠ]]|CENTER:&bold(){カスル・エル・サファ}|CENTER:[[テンカラット / Nature>テンカラット／Nature]]|
+
+|>|>|CENTER:&bold(){キッドP}|
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Halloween in Prison]]|CENTER:&bold(){カスル・エル・サファ}&br()[[Fruits Mix+]]|CENTER:[[君に愛は届かないと知っていても>君に愛は届かないと知っていても/CD]]|
+
+|>|>|CENTER:&bold(){クリスタルP}|
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[everyday、オチューシャ>everyday、オチューシャ/CD]]|CENTER:&bold(){カスル・エル・サファ}|CENTER:[[きえないで。]]|
+
+|&bold(){[[キッドP]]}|[[クリスタルP]]|[[残鏡P]]|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2012年12月15日|CENTER:2012年12月31日|
+|価格|CENTER:￥500|CENTER:￥630（税込）|
+|サークル|CENTER:3レン腐|CENTER:クリキッド|
+
+**CD紹介
+-クリスタルPとキッドPのユニット・クリキッドのCDシングル。
+-イラストをシロツグ氏、アートディレクションを猫凪みさお氏が担当。
+-コミックマーケット83（C83）で初頒布だが、THE VOC@LOiD M@STER 23（ボーマス23）で先行頒布。
+-とらのあなで委託販売が行われている。
+
+**曲目
++[[カスル・エル・サファ]]
++distance
++[[…忘れそう]]
++Interlude
++カスル・エル・サファ -KID ver-
++distance -KID ver-
++…忘れそう -KID ver-
++Interlude
++カスル・エル・サファ -instrumental-
++distance -instrumental-
++…忘れそう -instrumental-
+
+**リンク
+-[[クリキッドサイト>>http://k-kei.versus.jp/ck/]]
+-[[キッドPブログ>>http://yaplog.jp/kidsworks/]]
+-[[クリスタルPブログ>>http://blog.k-kei.versus.jp/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/08/98/040030089861.html]]
+
+**コメント
+#comment()

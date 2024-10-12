@@ -1,0 +1,57 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/25575006" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/25575006">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-2011年6月、「モノグラフフォトグラフィー」にてボカロデビュー。
+//※ デビュー作は現在非公開。
+-楽曲の曲調は、ポストロック・シューゲイザー・エレクトロ・チップチューンなど多岐に渡る。
+-使用ボカロは初音ミクのみ。なお、UTAUの滲音かこいも使用している。
+-ボカロだけではなくNNIでも活動している。
+-8作目の「[[フェネストラ]]」で自身初の殿堂入りを達成。
+-これまでに殿堂入りを達成した曲は次の通り。「フェネストラ」「[[囮と致死毒]]」「[[月が降ってくる]]」
+
+**リンク
+-[[I SHOUT AT THE WORLD QUIETLY.（作者Tumblr）>>http://capslack.tumblr.com/]]
+-[[Twitter>>http://twitter.com/CapsLack]]
+//-[[YouTube>>https://www.youtube.com/channel/UC8SrqeDS49stXjNkGJH5mLg/videos]]
+-[[YouTube>>https://www.youtube.com/channel/UC960aefQeU2ZeB_-tuc_frg]]
+-[[PIAPRO>>http://piapro.jp/CapsLack]]
+
+**曲
+#list_by_tag(CapsLack,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(CapsLackCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|>|BGCOLOR(#6a5acd):COLOR(#FFF):CENTER:&font(b,11pt){オリジナル曲}|
+|&nicovideo(sm14632984)|&nicovideo(sm15506390)|
+|&nicovideo(sm15988093)|&nicovideo(sm16431992)|
+|&nicovideo(sm16903614)|&nicovideo(sm17087734)|
+|&nicovideo(sm17327735)|&nicovideo(sm17425477)|
+|&nicovideo(sm17609648)|&nicovideo(sm17931042)|
+|&nicovideo(sm18252855)|&nicovideo(sm18577099)|
+|&nicovideo(sm19172145)|&nicovideo(sm19504319)|
+|&nicovideo(sm19504868)|&nicovideo(sm20406779)|
+|&nicovideo(sm22522354)|&nicovideo(sm23152942)|
+|&nicovideo(sm24492480)|&nicovideo(sm25777684)|
+|&nicovideo(sm30469353)|&nicovideo(sm31288417)|
+|&nicovideo(sm32240815)|&nicovideo(sm34193020)|
+|&youtube(https://www.youtube.com/watch?v=K-P4ihKAitA){342,187}||
+
+**コメント
+- やっとできた！特に真夜中と混線少年と夜に溺死が好き。夜に溺死のエレクトロ調のところと、最後の辺りで伴奏と声がずれるところが良い。混線少年は、逃げることにさえ逃げていたっていう歌詞に衝撃を受けた。&co(){連投スマソ。}  -- 名無しさん  (2013-03-08 20:49:06)
+- 大好き  -- あ  (2013-03-20 15:39:18)
+- この人はもっと評価されるべき  -- 名無しさん  (2013-03-23 20:43:14)
+- 全曲ドツボで大好きです  -- 名無しさん  (2013-04-14 22:42:27)
+- この人が一番大好きです！  -- シャープ  (2013-04-18 15:51:41)
+- 本当に良い  -- 名無しさん  (2013-04-27 17:45:36)
+- 超ボマス行きました！大好きです！  -- 名無しさん  (2013-04-29 21:41:13)
+- 歌詞も素敵だし、曲調も大好き。この人大好き。  -- 名無しさん  (2013-06-19 21:35:27)
+- フェネストラでハマりました・・・！大好きです！！  -- 名無しさん  (2013-08-31 15:17:24)
+- 夜に溺死、好きだけど、せかいのふちがせかいのふしに  -- 名無し  (2014-03-08 15:21:08)
+- ゼロサムゲームにはまってしまった…投稿されてから毎日聴いてる  -- 名無しさん  (2014-06-06 07:10:13)
+- mementomoriの「囮と致死毒」がめっちゃ好きです！  -- 名無しさん  (2015-11-22 17:35:41)
+- すごいめいたんていはまだかなー？  -- 鈴  (2017-05-30 07:27:12)
+- この人の曲なんで伸びないかわからん  -- 名無しさん  (2017-06-18 09:15:17)
+#comment()

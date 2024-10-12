@@ -1,0 +1,39 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1157_20121023230144_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[恋しくて - Brazilian Jazz-cafe Mix]]|CENTER:&bold(){la la la la}|CENTER:[[Odyssey>Odyssey/CD]]|
+
+|&bold(){[[Chiquewa]]}|[[ぱんだっち]]|
+
+発売：2012年11月9日
+価格：￥900 / 1曲￥150
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：Sasakama Studio
+
+|&bold(){[[iTunes Storeで購入する>>https://itunes.apple.com/jp/album/la-la-la-la/id576599743]]}|
+
+**CD紹介
+-Chiquewa氏の3年ぶりとなる、3作目の配信アルバム。
+-2009年の春頃から今年の春までの3年間に公開した曲の中から、質感の柔らかい曲を厳選してみました。
+-ほぼ全曲に修正が入り、全曲再ミックス・マスタリングが行われている。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++[[ぽっプ]] （feat. 初音ミク）
++[[Too Late For The Sky]] （feat. 巡音ルカ）
++[[カレイドスコープ>カレイドスコープ/Chiquewa]] （feat. 初音ミク&巡音ルカ）
++[[オクターヴ]] （feat. 巡音ルカ）
++[[虹色トワイライト]] （feat. 巡音ルカ）
++[[デートしようよ]] （feat. 初音ミク）
++[[マロン]] （feat. 初音ミク）
++Everlasting （feat. 巡音ルカ）
++[[Bluebird>Blue Bird/Chiquewa]] （feat. 巡音ルカ）
+
+**リンク
+-[[作者ブログ>>http://chiquewa.blog.eonet.jp/voice_organique/]]
+-[[KARENT：「la la la la」>>http://karent.jp/album/1157]]
+
+**コメント
+#comment()

@@ -1,0 +1,34 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+|&ref(http://blog-imgs-52.fc2.com/d/a/i/daisukep/rera-jakes.jpg)&br()CD版ジャケット|&ref(http://karent.jp/npdca/1230_20130206093502_0280_0280.jpg)&br()配信版ジャケット|
+
+&nicovideo(sm19555832)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:|CENTER:[[Virgin]]&br()&bold(){Rera Remaster beta（Rera Remaster）}|CENTER:[[星宙の五線譜]]|
+
+|&bold(){[[だいすけP]]}|
+
+|流通|CENTER:即売|CENTER:配信|
+|発売|CENTER:2012年12月15日|CENTER:2013年2月27日|
+|価格|CENTER:￥300|CENTER:￥600 / 1曲￥150|
+|サークル|CENTER:Ocean Music Recording Studio||
+
+**CD紹介
+-だいすけPの3曲入りCD。
+-「ぼかりす」による入力、さらに手動調教による良さのいいとこ取りをしたらどうなるのか？という実験的CD。
+-ジャケットイラストはSIN*SKI氏。
+-THE VOC@LOiD M@STER 23（ボーマス23）で、40枚限定で頒布。
+-KARENTレーベルよりダウンロード販売が行われている。『&bold(){Rera Remaster}』のタイトルで「Earth Song」のいろは版を加えた全4曲となっている。
+
+**曲目
++[[Rera]] （feat. 初音ミク）
++Rera （feat. 猫村いろは）
++[[Earth Song]] （feat. 初音ミク）
++Earth Song （feat. 猫村いろは）　　※配信版のみ収録。
+
+**リンク
+-[[作者ブログ>>http://daisukep.blog47.fc2.com/]]
+-[[KARENT：「Rera Remaster」>>http://karent.jp/album/1230]]
+
+**コメント
+#comment()

@@ -1,0 +1,31 @@
+#right(){&furigana(あぐれまてぃっく)&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1104_20120813200543_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Turn Back Time>Turn Back Time/CD]]|CENTER:&bold(){アグレマティック}|CENTER:[[Stay with me>Stay with me/shu-tP]]|
+
+|&bold(){[[shu-tP]]}|
+
+発売：2012年8月31日
+価格：￥300 / 1曲￥150
+流通：配信
+レーベル：KARENT
+イラスト：shu-t
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/aggre-matic-single/id556321959]]}|
+
+**CD紹介
+-初音ミク発売5周年を記念してリリースされた配信EP。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++[[アグレマティック]] （feat. 初音ミク）
++Aqua 2 （feat. 初音ミク）
+
+**リンク
+-[[作者ブログ>>http://shu-t.sonic-wave.net/]]
+-[[KARENT：「アグレマティック」>>http://karent.jp/album/1104]]
+-[[KARENT：「初音ミク 5th Anniversary」特集ページ>>http://karent.jp/special/miku12]]
+
+**コメント
+#comment()

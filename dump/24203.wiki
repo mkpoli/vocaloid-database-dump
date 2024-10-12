@@ -1,0 +1,57 @@
+#right(){&furigana(あやりす)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/34349636" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/34349636">【ニコニコ動画】</a></iframe>)|
+
+**特徴
+作り手名：『&u(){あやりす}』
+-2012年10月26日、「[[伝承戦争]]」でボカロデビューした作り手。
+-使用合成音声はGUMI・初音ミク・flower・鏡音リン・鳥音・杏音。
+//-作品数はまだ少ないが、光るものを感じる作り手。
+-4作目の「[[メーデー！]]」がスマッシュヒット。自身初の殿堂入りを果たしている。
+-12作目の「[[恋はフルスロットル！！]]」は、「杏音鳥音クリエーターコンテスト」で優秀賞を受賞した。
+//-PVなどのビジュアル関係は 七種ひのる氏 が担当している。
+
+**リンク
+-[[Twitter>>http://twitter.com/ayalis_p]]
+-[[PIAPRO>>http://piapro.jp/ayalis_p]]
+-[[Youtube>>http://www.youtube.com/channel/UCUhKOS_tzWxcBrABepSKw8A]]
+
+**曲
+#list_by_tagsearch(あやりす,sort=furigana2,errmsg=まだCDが登録されていません。,and,100)
+
+**CD
+#list_by_tagsearch(あやりすCD,sort=furigana2,errmsg=まだCDが登録されていません。,and,100)
+
+**動画
+|>|BGCOLOR(#3cb371):COLOR(#FFF):CENTER:&font(b,11pt){オリジナル曲}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm19207153)|&nicovideo(http://www.nicovideo.jp/watch/sm19794802)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm20421763)|&nicovideo(http://www.nicovideo.jp/watch/sm20746133)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm21210800)|&nicovideo(http://www.nicovideo.jp/watch/sm21560201)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm22120626)|&nicovideo(http://www.nicovideo.jp/watch/sm22545469)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm24453305)|&nicovideo(http://www.nicovideo.jp/watch/sm24717346)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm25408781)|&nicovideo(http://www.nicovideo.jp/watch/sm25551064)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm25773758)||
+
+**関連タグ内の更新履歴
+#region(close,関連タグ内の更新履歴)
+関連タグ内の更新履歴
+※「あやりす」「あやりすCD」タグ内で最近編集やコメントのあった記事を新しい方から10件表示しています。
+#list_by_tagsearch(あやりす,あやりすCD,sort=timestamp,sort2=desc,errmsg=まだ曲、CDが登録されていません。,or,10)
+#endregion
+
+**コメント
+- 二曲共いい歌詞。今から聴きます。  -- たった  (2013-01-14 09:35:23)
+- あやりすさんの曲好きです  -- 名無しさん  (2013-01-16 20:55:41)
+- 仕様ボカロのところ、新曲がミク使ってるので、変更した方がいいと思います  -- 廉仝  (2013-04-13 23:28:18)
+- メーデー！すきすぐる  -- みょン  (2013-05-12 06:12:49)
+- 近い将来、あやりすさんはボカロ界のスーパースターになると思う！！！！  -- moge  (2013-06-10 02:54:33)
+- やばすぎる！かなり、いい歌詞  -- 岩  (2013-08-05 16:15:42)
+- メーデーが本当に大好き！  -- 名無しさん  (2013-08-05 17:15:18)
+- 新曲のページまだかなあ…  -- 名無しさん  (2014-01-01 13:49:03)
+- おぉでてた  -- 名無しさん  (2014-01-26 22:34:26)
+- 新曲でv_flower使ってるよね。使用ボカロと新曲の更新、誰かお願いします。  -- 名無しさん  (2014-10-18 13:41:36)
+- あやりすさん復活なさってたのでいろいろ更新。  -- 名無しさん  (2018-06-21 00:19:56)
+#comment()

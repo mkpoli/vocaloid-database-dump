@@ -1,0 +1,31 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+
+&ref(http://img.yaplog.jp/img/17/pc/k/i/d/kidsworks/0/35.jpg)&ref(http://img.yaplog.jp/img/17/pc/k/i/d/kidsworks/0/37.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Fruits Mix]]|CENTER:&bold(){Halloween in Prison}|CENTER:[[Halloween in Prison（配信）>Halloween in Prison]]|
+
+|&bold(){[[キッドP]]}|[[クリスタルP]]|[[残鏡P]]|[[れれれP]]|
+
+発売：2012年10月28日
+価格：￥500
+流通：即売
+ジャケットイラスト：[[たまら>>http://piapro.jp/tamara]]
+
+**CD紹介
+-キッドPの両A面シングルCD。
+-ハロウィン曲「Halloween in Prison」と、商業カラオケ化が決まった「かげろう」の2曲を収録している。
+-VOCALOID PARADISE 7（ボーパラ7）で頒布。委託販売予定は無し。
+
+**曲目
++[[Halloween in Prison]]
++[[かげろう]]
++かげろう ～キッドVer～
++Halloween in Prison -instrumental-
++かげろう -instrumental-
+
+**リンク
+-[[作者ブログ>>http://yaplog.jp/kidsworks/]]
+
+**コメント
+#comment()

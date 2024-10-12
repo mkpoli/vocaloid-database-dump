@@ -1,0 +1,49 @@
+#right(){&furigana(あおのけんきゅう)&furigana()【登録タグ:&tags() 】}
+#amazon(B00ATL92KO)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[バイバイ、ブラックワールド]]|CENTER:&bold(){青の研究}|CENTER:[[セカイカタログ>セカイカタログ/CD]]|
+
+|&bold(){[[millstones]]}|
+
+||CENTER:即売|CENTER:委託|CENTER:配信|
+|CENTER:発売|CENTER:2012年12月31日|CENTER:2013年1月14日|CENTER:2013年12月25日|
+|CENTER:価格|CENTER:￥1,000|CENTER:￥1,575（税込）|CENTER:￥1,200 / 1曲￥150|
+|CENTER:サークル|>|CENTER:Scripted city Revised.||
+
+**CD紹介
+>&bold(){「見知らぬ誰かは嘗てそれを『空』と呼んだ」}
+-約1年振りとなるmillstones氏の3rdアルバム。
+-全10トラック、ポスタータイプの見開き6面紙ジャケット仕様。
+-表題曲「青の研究」は10分55秒に及ぶインスト大作。
+-コミックマーケット83（2012冬コミ）にてリリース。
+-とらのあな、Amazonで委託販売が行われている。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**クロスフェードデモ
+|&nicovideo(http://www.nicovideo.jp/watch/sm19587959)|&youtube(http://www.youtube.com/watch?v=6U9dG3Fbyh4){338,190}|
+
+**曲目
++青の序論
++Altered Sky / IA
++Partial Planets
++[[The Embedded Blue]] / IA
++The Embedded Blue (Infected D&B Remix)
++[[ツギハギシティ・プロトコル]] / GUMI
++雨が降る前に / 初音ミクAppend
++短絡回路 / 初音ミクAppend
++空の果てに咲く花 / 初音ミクAppend
++青の研究
+
+**リンク
+-[[CD紹介ページ>>http://astudyinblue.aroundhalf.info]]
+-[[作者ホームページ>>http://scriptedcity.aroundhalf.info/]]
+-[[amazon>>http://www.amazon.co.jp/gp/product/B00ATL92KO/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/09/70/040030097080.html]]
+-[[KARENT：「青の研究」>>http://karent.jp/album/1403]]
+
+**コメント
+- お～、欲しいなあ  -- 名無しさん  (2013-01-04 10:09:59)
+- アマゾンで売ってくれるのすごく有難い  -- 名無しさん  (2013-01-17 15:14:24)
+- 相変わらずの神曲集です  -- 名無しさん  (2013-03-27 20:10:45)
+#comment()

@@ -1,0 +1,28 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/33467247" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/33467247">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-繊細な歌詞と耳障りの良い曲調に定評のあるP。
+-サムネイルイラストには自作の簡素且つ特徴的なデザインを使うというスタイルを一貫している。
+-使用VOCALOIDは初音ミク・GUMI。初期にはUTAUの重音テトを用いていた。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/foolaiboo02]]
+-[[twitter>>https://twitter.com/foolaiboo]]
+-[[UTAU楽曲データベース>>https://w.atwiki.jp/utauuuta/pages/3077.html]]
+
+**曲
+#list_by_tag(ふうらいぼ,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(ふうらいぼCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm19144601)|&nicovideo(sm19209597)|
+|&nicovideo(sm19333897)|&nicovideo(sm19465467)|
+|&nicovideo(sm19655427)||
+
+**コメント
+- ワープロモードで作られたページを作り直しました。次からはアットウィキモードでお願いします。  -- 名無しさん  (2013-01-18 01:20:07)
+- 作られてる!嬉しい!  -- 名無しさん  (2013-01-21 22:06:56)
+#comment()

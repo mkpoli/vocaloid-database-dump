@@ -1,0 +1,40 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#amazon(B00APSTH2O)
+
+&nicovideo(sm19550193)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Sign ep]]|CENTER:&bold(){Evergreen}|CENTER:[[Cielo>Cielo/CD]]|
+
+|&bold(){[[yuxuki]]}|
+
+|流通|CENTER:即売|CENTER:委託|CENTER:配信|
+|発売|CENTER:2012年12月15日|CENTER:2012年12月|CENTER:2012年12月26日|
+|価格|CENTER:￥|CENTER:￥1,568（税込・とらのあな）&br()￥1,575（税込・Amazon）|CENTER:￥1,200 / 1曲￥150|
+|サークル|>|>|CENTER:s10rw|
+
+**CD紹介
+>その瞬間が、いつまでも色褪せないように
+-[[そらいろくらぶ]]のyuxuki氏が、yuxuki waga名義で発表したソロ作品。
+-towana氏、[[whoo]]氏、新井優人氏、Kevin氏がゲスト参加。
+-THE VOC@LOiD M@STER 23（ボーマス23）で頒布。
+-Amazon、とらのあなで委託販売が、KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++Evergreen feat. 初音ミク
++Sigh -Evergreen Mix- feat. 初音ミク
++[[Tender]] -Evergreen Mix- feat. 初音ミク
++明日へ feat. towana
++[[日々の波間に feat. towana>>http://www.nicovideo.jp/watch/sm18957789]]
++A Longing
++[[Light Falls]] -Evergreen Mix- feat. 初音ミク
++Neverland feat. 初音ミク
+
+**リンク
+-[[作者サイト>>http://s10rw.net/yuxukiwaga/]]
+-[[Amazon>>http://www.amazon.co.jp/gp/product/B00APSTH2O]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/09/10/040030091037.html]]
+-[[KARENT:「Evergreen」>>http://karent.jp/album/1203]]
+
+**コメント
+#comment()

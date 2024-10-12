@@ -1,0 +1,38 @@
+#right(){&furigana(ようせいぞくのむすめ)&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1103_20120813023901_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[HAPPY COLOR GUMMY]]|CENTER:&bold(){妖精族のむすめ}|CENTER:[[Black Christmas]]|
+
+|&bold(){[[YS]]}|
+
+発売：2012年8月31日
+価格：￥900 / 1曲￥150
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：きつね
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/the-kith-of-the-elf-folk-ep/id556321014]]}|
+
+**CD紹介
+-YSこと、ゲームミュージックの作曲者下田祐氏の配信アルバム。
+-イギリスの作家ロード・ダンセイニ（Lord Dunsany1878-1957）のファンタジー・推理小説を題材にしたロックオペラ、プログレッシブでファンタジックなミニアルバムです。
+-KARENTレーベルの、初音ミク発売5周年記念企画で配信された作品の1つ。
+
+**曲目
++[[妖精族のむすめ]] （feat. 初音ミク&メグッポイド&鏡音リン）
++サクノスを除いては破るあたわざる堅砦 （feat. 初音ミク&メグッポイド&鏡音レン）
++女王の涙をもとめて （feat. 初音ミク）
++名探偵リンリー　〜二壜の調味料〜 （feat. 初音ミク）
++ウサギとカメの競争に関する驚くべき真相 （feat. 初音ミク）
++花の祈り （feat. 初音ミク）
+
+**リンク
+-[[作者サイト>>http://www.shinsekai.co.uk/]]
+-[[KARENT：「妖精族のむすめ」>>http://karent.jp/album/1103]]
+-[[KARENT：「初音ミク 5th Anniversary」特集ページ>>http://karent.jp/special/miku12]]
+
+**コメント
+//- 1コメGET
+- イイ曲ばっかd(^_^o)  -- 白桃  (2012-10-20 22:17:59)
+#comment()

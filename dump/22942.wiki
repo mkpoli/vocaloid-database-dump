@@ -1,0 +1,12 @@
+#right(){【登録タグ:&tags()】}
+//↑タグ忘れ防止のための表示
+曖昧さ回避のためのページ
+----
+-[[HIDAKA]]の曲
+--[[stay with me/HIDAKA]]
+-[[shu-tP]]の曲
+--[[Stay with me/shu-tP]]
+-[[Mendum]]の曲
+--[[Stay With Me/Mendum]]
+
+#include(曖昧さ回避の追加の仕方/告知)

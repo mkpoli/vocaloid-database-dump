@@ -1,0 +1,44 @@
+#right(){&furigana(せとうちこんひ)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+//#ref(http://cookie.cosa-cosa.com/setouchi/img/banner2.png)
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186126090.jpg,x=300,y=300)
+
+&nicovideo(sm20335223)
+
+|BGCOLOR(#00bfff):COLOR(#FFF):CENTER:&font(b,11pt){　前作　}|BGCOLOR(#00bfff):COLOR(#FFF):CENTER:&font(b,11pt){　本作　}|BGCOLOR(#00bfff):COLOR(#FFF):CENTER:&font(b,11pt){　次作　}|
+|CENTER:-|CENTER:&bold(){瀬戸内コンピ}|CENTER:[[瀬戸内コンピ2]]|
+
+|[[BIRUGE>コモレビノーツ]]|[[van=jin（遅刻オトメンP）]]|[[育児放棄P]]|[[ぐらしゃ]]|[[星探P]]|[[虚空>虚空/2012～]]|[[はやくP]]|[[佳奈]]|
+
+|BGCOLOR(#00bfff):COLOR(#FFF):CENTER:&font(b,11pt){　流通　}|BGCOLOR(#00bfff):COLOR(#FFF):CENTER:&font(b,11pt){　即売　}|
+|BGCOLOR(#00bfff):COLOR(#FFF):CENTER:&font(b,11pt){　発売　}|CENTER:　2013年3月24日　|
+|BGCOLOR(#00bfff):COLOR(#FFF):CENTER:&font(b,11pt){　価格　}|CENTER:　￥500（税込）　|
+|BGCOLOR(#00bfff):COLOR(#FFF):CENTER:&font(b,11pt){　サークル　}|CENTER:　瀬戸内コンピ　|
+
+**CD紹介
+>&bold(){瀬戸内海にゆかりあるボカロP達が贈る、ローカルコンピアルバム。}
+CD名：『&u(){瀬戸内コンピ}』（&u(){せとうちこんぴ}）
+-瀬戸内出身のボカロP7人の書き下ろしを全7曲収録。
+-ジャケットイラストは 佳奈氏 が手掛ける。
+-VOCALOID PARADISE 関西2（ボーパラ関西2）にてリリース。
+
+**曲目
+|BGCOLOR(#00bfff):COLOR(#FFF):CENTER:&font(b,11pt){　Track　}|BGCOLOR(#00bfff):COLOR(#FFF):CENTER:&font(b,11pt){　曲名　}|BGCOLOR(#00bfff):COLOR(#FFF):CENTER:&font(b,11pt){　楽曲制作者　}|
+|BGCOLOR(#00bfff):COLOR(#FFF):CENTER:&font(b,11pt){ 01 }|CENTER:[[大都会ラプソディ]] -伝説の岡山市 ver.-|CENTER:BIRUGE feat. IA|
+|BGCOLOR(#00bfff):COLOR(#FFF):CENTER:&font(b,11pt){ 02 }|CENTER:だいとかい☆がーる|CENTER:van=jin（遅刻オトメンP） feat. MAYU|
+|BGCOLOR(#00bfff):COLOR(#FFF):CENTER:&font(b,11pt){ 03 }|CENTER:フォーディア|CENTER:育児放棄P feat. Lily|
+|BGCOLOR(#00bfff):COLOR(#FFF):CENTER:&font(b,11pt){ 04 }|CENTER:[[紅葉吹雪]]|CENTER:ぐらしゃ feat. 初音ミク・GUMI|
+|BGCOLOR(#00bfff):COLOR(#FFF):CENTER:&font(b,11pt){ 05 }|CENTER:てふてふ結び|CENTER:星探P feat. MEIKO|
+|BGCOLOR(#00bfff):COLOR(#FFF):CENTER:&font(b,11pt){ 06 }|CENTER:ふわり遠い月夜で|CENTER:虚空 feat. 雪歌ユフ|
+|BGCOLOR(#00bfff):COLOR(#FFF):CENTER:&font(b,11pt){ 07 }|CENTER:橙色の町|CENTER:inary（はやくP） feat. IA|
+
+//**リンク
+//-[[特設ページ>>http://cookie.cosa-cosa.com/setouchi/]]
+
+**コメント
+- めっちゃ可愛い！  -- 名無しさん  (2013-12-08 23:03:15)
+#comment()

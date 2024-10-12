@@ -1,0 +1,30 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1093_20120718234351_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Plankton]]|CENTER:&bold(){STARLiT－心の居場所－}|CENTER:[[Mile；Smile]]|
+
+|&bold(){[[ルナ]]}|'t|セー|
+
+発売：2012年8月6日
+価格：￥300 / 1曲￥150
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：[[PAO>>http://piapro.jp/paopaopaon]]
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/starlit-single/id549460077]]}|
+
+**CD紹介
+-海外ボカロP・ルナ氏の2曲入り配信シングル。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++[[STARLiT－心の居場所－]] （feat. 初音ミク）
++白河夜船 co.少年Sei （feat. 初音ミク）
+
+**リンク
+-[[KARENT：「STARLiT－心の居場所－」>>http://karent.jp/album/1093]]
+-[[ピアプロ>>http://piapro.jp/hanayoh]]
+
+**コメント
+#comment()

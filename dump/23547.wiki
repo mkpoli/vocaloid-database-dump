@@ -1,0 +1,17 @@
+#right(){【登録タグ:&tags()】}
+//↑タグ忘れ防止のための表示
+曖昧さ回避のためのページ
+----
+-[[シグナルP]]の曲
+--[[UNBALANCE/シグナルP]]
+-[[テトラProject]]の曲
+--[[UNBALANCE...]]
+-[[Ebot]]の曲
+--[[Unbalance/Ebot]]
+
+-[[Ebot]]のCD
+--[[Unbalance/EbotCD]]
+-[[otetsu]]のCD
+--[[Unbalance/otetsuCD]]
+
+#include(曖昧さ回避の追加の仕方/告知)

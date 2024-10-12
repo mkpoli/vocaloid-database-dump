@@ -1,0 +1,39 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+#ref(http://u.jimdo.com/www58/o/s7525aefa50933dc9/img/i0acbd310785fc3ea/1354603536/std/image.jpg)
+
+
+&nicovideo(http://www.nicovideo.jp/watch/sm19510903)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[むかしばなし]]|CENTER:&bold(){BAKABAKA e.p.}|CENTER:-|
+
+|&bold(){[[MARUDARUMA]]}|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|>|CENTER:2012年12月15日|
+|価格|CENTER:￥1,000（税込）|CENTER:￥1,575（税込）|
+|サークル|CENTER:みなみよのレコーズ|CENTER:MARUDARUMA|
+
+**CD紹介
+-MARUDARUMA氏 の 1st e.p.
+-『[[生命文]]』『[[ダイアトニック]]』『[[旅立ちの火に]]』の既存曲に新曲などを加えた全8曲収録。
+-THE VOC@LOiD M@STER 23（ボーマス23）にてリリース。
+
+**曲目
++[[生命文]]
++白黒ロックスター
++[[ソラナミマクラ]]
++こっちむいてほい
++[[ダイアトニック]]
++[[旅立ちの火に]]
++終わりのテラス
++[[貝になって死んじゃいたい]]（2012年もやっぱり死んじゃいたいVer.）
+
+**リンク
+-[[作者ブログ（だるま日記）>>http://marudarumadayo.blog.fc2.com/]]
+-[[Twitter>>http://twitter.com/marudarumadayo]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/08/87/040030088769.html]]
+
+**コメント
+- 貝になって死んじゃいたいのリメイク版入るのか！楽しみ。  -- 竜奇  (2012-12-09 08:33:45)
+#comment

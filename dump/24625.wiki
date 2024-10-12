@@ -1,0 +1,40 @@
+#right(){&furigana(やらかしがーる)&furigana()【登録タグ:&tags() 】}
+
+&ref(http://arialtiax.xxxxxxxx.jp/product/yarakashi/y01.png,x=300,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm17454779)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[しぱぽ！]]|CENTER:&bold(){やらかしガール！}|CENTER:-|
+
+|&bold(){[[きゃんでぃP]]}|[[アキバヲタP]]|
+
+|流通|CENTER:即売|CENTER:通販|
+|発売|CENTER:2012年4月29日||
+|価格|CENTER:￥500|CENTER:￥1,000|
+|サークル|CENTER:夢見少女|CENTER:アリアルティア-Arialtia-|
+
+**CD紹介
+>あたし、やらかしガール！
+-きゃんでぃPの2ndアルバム。
+-前作同様ジャケットデザインは空枷砂羽氏、マスタリングは抹茶氏が手掛けている。
+-THE VOC@LOiD 超 M@STER 20（超ボーマス20）で頒布。
+-作者のサイトにて通販が行われている。
+
+**曲目
++やらかしガール！ / 鏡音リン
++stend me / 巡音ルカ
++少年狐神隠レ / 鏡音レン＆神威がくぽ
++HELLO!SPRING / 鏡音リン
++かざぐるま / 巡音ルカ
++甘納豆の月曜日 / 鏡音リン
++眠れるミイラ姫	/ mili
++[[き・り・ん]] / 鏡音リン
++[[メルティプレゼント]] / miki
++花の狼、雪の翼	/ 鏡音リン＆鏡音レン
+
+**リンク
+-[[サークルサイト>>http://arialtiax.xxxxxxxx.jp/]]
+
+**コメント
+#comment()

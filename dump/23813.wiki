@@ -1,0 +1,47 @@
+#right(){&furigana(ふぁすとじえんど)&furigana()【登録タグ:&tags() 】}
+
+&ref(https://booth.pximg.net/6b54044f-8f6a-49b1-8a8c-47ee53c77137/i/1082221/65661047-b81d-47a4-8103-b66c7ee9b9bc_base_resized.jpg,x=300,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm19546483)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[MINDZ]]|CENTER:&bold(){ファスト・ジ・エンド}|CENTER:[[φ]]|
+
+|&bold(){[[ぼーかりおどP]]}|
+
+|流通|CENTER:即売|CENTER:委託|CENTER:配信|
+|発売|CENTER:2012年12月15日|||
+|価格|CENTER:￥1,000（税込）|CENTER:￥1,000（税別）|￥1,000（税込）|
+|サークル|>|CENTER:Studio Ark Attack||
+
+**CD紹介
+-ぼーかりおどPの3rdアルバム。
+-「[[doppelganger>doppelganger/ぼーかりおどP]]」「[[Randomize]]」などの既存曲に新曲を加えた全10曲を収録。
+-ジャケットイラストを [[キョー介]]氏 が、MIX・マスタリングを [[shindy]]氏 が手掛ける。
+-THE VOC@LOiD M@STER 23（ボーマス23） にてリリース。
+-とらのあなで委託販売が行われていた。
+-現在はBOOTHにてダウンロード販売が行われている。
+--2020年4月3日〜30日までの期間限定で、通常価格の半額である￥500で頒布している。
+
+**曲目
++人と事象が巡り逢う確率についての朝の考察
++[[doppelganger>doppelganger/ぼーかりおどP]]
++[[コトノハジマリ]]
++the end of boyhood：Rebirth
++[[ファストジエンド]]
++[[Randomize]]
++[[because the sky is]]
++[[apricot>apricot/ぼーかりおどP]]
++[[％>％/ぼーかりおどP]]
++[[ナノヘヴン]] -noa side mix-
+
+**リンク
+-[[誤字脱字を出来る限りしないブログ（作者ブログ）>>http://vocaliod.blog54.fc2.com/]]
+-[[Twitter>>http://twitter.com/vocaliod_P]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/09/27/040030092713.html]]
+-[[BOOTH>>https://booth.pm/ja/items/1082221]]
+
+**コメント
+- おお！  -- 名無しさん  (2012-12-19 13:58:28)
+- 4がよかった。一番好き。他も良かったけど  -- 名無しさん  (2014-01-09 06:33:37)
+#comment()

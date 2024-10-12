@@ -1,0 +1,40 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#ref(http://www.geocities.jp/officemuhmue/images/magic_logic_300.jpg)
+
+
+&nicovideo(http://www.nicovideo.jp/watch/sm20261494)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Pure Rhythm>Pure Rhythm/CD]]|CENTER:&bold(){Magic Logic}|CENTER:[[Open Cafe]]|
+
+|&bold(){[[muhmue]]}|[[eb]]|
+
+|流通|CENTER:即売|
+|発売|CENTER:2013年3月24日|
+|価格|CENTER:￥1,000（税込）|
+|サークル|CENTER:office muhmue|
+
+**CD紹介
+-muhmue氏 の 4th album.
+-全曲「ぐみりん」な11曲を収録。
+-ジャケットイラストは [[eb]]氏 が手掛ける。
+-VOCALOID PARADISE 関西2（ボーパラ関西2）にてリリース。
+
+**曲目
++entrance -Magic Logic-
++[[深界ダイバー]] feat. GUMI・鏡音リン
++[[ユナイト×ディライト]] feat. 鏡音リン
++[[キミイロラベンダー]] feat. GUMI
++恋のミサイル feat. GUMI・鏡音リン
++[[午前4時の輪廻]] feat. GUMI
++[[ねこ日和>ねこ日和/muhmue]] feat. 鏡音リン
++[[Voice of Soul]] feat. GUMI・鏡音リン
++[[冬空プラネタリウム]] feat. GUMI
++栞 feat. 鏡音リン
++[[ユーアーマイン！]] feat. GUMI・鏡音リン
+
+**リンク
+-[[作者ホームページ>>http://www.geocities.jp/officemuhmue/]]
+
+**コメント
+#comment()

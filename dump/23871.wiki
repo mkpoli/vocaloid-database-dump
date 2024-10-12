@@ -1,0 +1,30 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1153_20121020222622_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Dive into U]]|CENTER:&bold(){Real Love Part2}|CENTER:[[End of Love>End of Love/CD]]|
+
+|&bold(){[[MineK]]}|
+
+発売：2012年11月5日
+価格：￥150
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：[[みおざき>>http://piapro.jp/tohnom]]
+
+|&bold(){[[iTunes Storeで購入する>>https://itunes.apple.com/jp/album/real-love-part2-feat.-meiko/id572837345]]}|
+
+**CD紹介
+-MineK氏の配信シングル。
+-1度目の”失敗”を経た女性の2度目への不安を歌にしてみました。（KARENT作品概要より）
+-KARENTレーベルのMEIKO8周年記念企画で配信された作品の1つ。
+
+**曲目
++Real Love Part2 （feat. MEIKO）
+
+**リンク
+-[[KARENT：「Real Love Part2」>>http://karent.jp/album/1153]]
+-[[KARENT：「MEIKO記念祭'12」>>http://karent.jp/special/meiko12]]
+
+**コメント
+#comment()

@@ -1,0 +1,72 @@
+#right(){&furigana(いちのせるほ)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/24764971" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/24764971">【ニコニコ動画】</a></iframe>)
+
+**特徴
+作り手名：『&u(){市瀬るぽ}』（&u(){いちのせるぽ}）
+-2011年4月、「[[Paranoia>Paranoia/市瀬るぽ]]」でボカロデビュー。
+-主な使用ボカロは初音ミク、鏡音リン・レン、MEIKO、KAITO、巡音ルカ、v flower、心華。UTAUの滲音かこいも使用している。
+-エレクトーン演奏者であり、ボカロ界隈参入以前は「演奏してみた」動画を投稿していた。
+-現在も、「演奏してみた」動画はNNIなどで投稿を続けている。
+-デビュー当初の名義は"LUPO"。後に、今の名義となる"市瀬るぽ"へと改名した。
+-2018年、楽曲「[[ボクラノート]]」が「初音ミク「マジカルミライ2018」楽曲コンテスト」にて準グランプリを受賞し、ライブ会場での待機曲BGMとして使用された。なお、同曲は同氏がボーカルに鏡音リンを使用した最初の楽曲でもある。
+-2020年、楽曲「[[alive>alive/市瀬るぽ]]」が、アプリゲーム「プロジェクトセカイ カラフルステージ！ feat.初音ミク」での楽曲応募企画「みんなで作ろうプロセカ楽曲コンテスト」にてグランプリを受賞し、リズムゲームで遊べる楽曲の1つとしてゲーム内に収録された。なお、同曲は氏初の殿堂入りも果たしている。
+-テレビ朝日系列で放送されている音楽番組『musicる TV』内企画「[[musicるクリエーターバトル>>https://www.music-ru.com/event/creatorbattle/index.html]]」にて、氏の楽曲「DiVE」が選ばれた。
+-次の曲が殿堂入りを達成している。&br()&list_by_tagsearch(市瀬るぽ,殿堂入り,sort=furigana,option=nolist,nolistspace=、,100)
+
+**リンク
+-[[Twitter>>https://twitter.com/LUPO_Reportage]]
+-[[PIAPRO>>https://piapro.jp/lupo_reportage]]
+-[[YouTube>>https://www.youtube.com/user/ichinoselupo]]
+
+**曲
+#list_by_tag(市瀬るぽ,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(市瀬るぽCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|>|BGCOLOR(#c71585):COLOR(#FFF):CENTER:&font(b,11pt){オリジナル曲}|
+|&nicovideo(sm14168561)|&nicovideo(nm14425966)|
+|&nicovideo(sm14622792)|&nicovideo(sm16142300)|
+|&nicovideo(sm16894101)|&nicovideo(sm17047338)|
+|&nicovideo(sm18459148)|&nicovideo(sm19049427)|
+|&nicovideo(sm19187542)|&nicovideo(sm19287322)|
+|&nicovideo(sm19990540)|&nicovideo(sm20306830)|
+|&nicovideo(sm21390564)|&nicovideo(sm21480826)|
+|&nicovideo(sm22025997)|&nicovideo(sm22160913)|
+|&nicovideo(sm22407771)|&nicovideo(sm22914395)|
+|&nicovideo(sm22938033)|&nicovideo(sm23924214)|
+|&nicovideo(sm24461549)|&nicovideo(sm25154826)|
+|&nicovideo(sm26621242)|&nicovideo(sm26783823)|
+|&nicovideo(sm28483691)|&nicovideo(sm29908346)|
+|&nicovideo(sm32168083)|&nicovideo(sm32470263)|
+|&nicovideo(sm32870800)|&nicovideo(sm33295466)|
+|&nicovideo(sm34322360)|&nicovideo(sm34489497)|
+|&nicovideo(sm35193649)|&nicovideo(sm36131040)|
+|&nicovideo(sm36620694)|&nicovideo(sm37597218)|
+|&nicovideo(sm37800088)|&nicovideo(sm38604616)|
+|&nicovideo(sm38854562)|&nicovideo(sm39296707)|
+|&nicovideo(sm39407387)|&nicovideo(sm39473902)|
+|&nicovideo(sm39546692)|&nicovideo(sm40016645)|
+|&nicovideo(sm40344350)|&nicovideo(sm40839655)|
+|&nicovideo(sm40901375)|&nicovideo(sm41290283)|
+|&nicovideo(sm41354813)|&nicovideo(sm41565221)|
+|&nicovideo(sm41942792)|&nicovideo(sm42162520)|
+|&nicovideo(sm42479069)|&nicovideo(sm42549111)|
+|&nicovideo(sm42822665)|&nicovideo(sm43107278)|
+|&nicovideo(sm43332482)|&nicovideo(sm43438927)|
+|&nicovideo(sm43954955)|>|
+|>|BGCOLOR(#c71585):COLOR(#FFF):CENTER:&font(b,11pt){リミックス}|
+|&nicovideo(sm16600706)|&nicovideo(sm37942794)|
+|&nicovideo(sm38449496)|&nicovideo(sm38611119)|
+|&nicovideo(sm39477037)||
+
+**コメント
+//- 1get?!  -- 名無しさん  (2013-05-28 22:22:26)
+- メランコリア めっさ大好き！  -- 名無しさん  (2013-05-28 22:22:55)
+- この人本当に凄く息長いなあ。初の殿堂入りは最近なのにそれまでの間もずっと投稿し続けているのは素直に尊敬できる。  -- 名無しさん  (2021-05-16 10:12:36)
+#comment()

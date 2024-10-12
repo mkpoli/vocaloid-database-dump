@@ -1,0 +1,39 @@
+#right(){&furigana(みらいわかしゅう) &furigana()【登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186128805.jpg,x=300,y=300)
+
+|&nicovideo(http://www.nicovideo.jp/watch/sm19510923)|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[ボクノウタ]]|CENTER:&bold(){未来和歌集}|CENTER:-|
+
+|&bold(){[[かぴたろう]]}|
+
+|流通|CENTER:即売|
+|発売|CENTER:2012年12月15日|
+|価格|CENTER:￥1,000（税込）|
+|サークル|CENTER:みなみよのレコーズ|
+
+**CD紹介
+>&bold(){古今の伝統を受け継ぐ、未来の歌―― }
+-かぴたろう氏 の 2nd album .
+-和風シリーズ5曲に新曲を加えた全8曲を収録。
+-ジャケットイラストは 緑川葉氏 が手掛ける。
+-THE VOC@LOiD M@STER 23（ボーマス23）にてリリース。
+
+**曲目
++[[宵月舞唄]]
++[[唄旅鴉]]
++[[参上！月光仮面]]
++夢見草
++恋ヶ原之合戦
++[[天真爛漫高襟姫]]
++[[桜花爛漫恋語]]
++未来
+
+**リンク
+-[[かぴばらの森（作者ホームページ）>>http://capitaro.web.fc2.com/]]
+-[[Twitter>>http://twitter.com/capitaro]]
+
+**コメント
+#comment

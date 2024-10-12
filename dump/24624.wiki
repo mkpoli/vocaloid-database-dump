@@ -1,0 +1,38 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186148233.jpg,x=300,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm14507172)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){しぱぽ！}|CENTER:[[やらかしガール！]]|
+
+|&bold(){[[きゃんでぃP]]}|
+
+発売：2011年6月12日
+価格：￥500（税込）
+流通：即売
+サークル：Fancy Candy
+
+**CD紹介
+-きゃんでぃPの1stアルバム。
+-ジャケットデザインは空枷砂羽氏、マスタリングは抹茶氏が手掛けている。
+-THE VOC@LOiD M@STER 16（ボーマス16）にてリリース。
+
+**曲目
++[[CANDAY]] -remix version- / 鏡音リン
++しぱぽ！ / 鏡音リン
++[[ぺがさす☆ぷりんす]] / 鏡音レン
++[[すきときす]] / 開発コードmiki
++Bitween / 鏡音レン＆神威がくぽ
++きみのたいよう / 鏡音レン
++[[しゅしゅらぱん]] -albam version- / 鏡音リン＆神威がくぽ
++[[one wan]] / 鏡音レン
++ばいばい、またね。 / 鏡音リン＆巡音ルカ
++[[not Alone]] / 鏡音リン
+
+**リンク
+-[[サークルサイト>>http://fancycandy.web.fc2.com/]]
+
+**コメント
+#comment()

@@ -1,0 +1,41 @@
+#right(){&furigana(あかかみ)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/30008149" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/30008149">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-2011年に「[[Loto]]」でボカロデビューした作り手。
+-使用ボカロは今のところ初音ミク・GUMI・IA・COCOROBO。
+-2013年3月20日、Yamaha公式ボカロ専門レーベルの「VOCALOID RECORDS」より、メジャー・デビュー。 
+-殿堂入りしている曲は以下の通り。&br()「&list_by_tagsearch(赤髪,殿堂入り,sort=furigana,option=nolist,nolistspace=」「,100)」
+
+**リンク
+-[[Twitter>>http://twitter.com/Akagami__]]
+-[[PIAPRO>>http://piapro.jp/akagami__]]
+
+**曲
+#list_by_tag(赤髪,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(赤髪CD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|>|BGCOLOR(#ff645f):COLOR(#FFF):CENTER:&font(b,11pt){オリジナル曲}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm15592201)|&nicovideo(http://www.nicovideo.jp/watch/sm16905158)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm18866056)|&nicovideo(http://www.nicovideo.jp/watch/sm20332640)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm21210233)|&nicovideo(http://www.nicovideo.jp/watch/sm21713580)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm22786092)|&nicovideo(http://www.nicovideo.jp/watch/sm23183127)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm24494683)|&nicovideo(http://www.nicovideo.jp/watch/sm29764821)|
+
+**コメント
+- まだ３曲しか投稿してないのに、メジャーデビュー出来るなんて、赤髪さんって一体、何者なんだろう？  -- 竜奇  (2013-02-25 00:03:09)
+- ↑　プロだと思う  -- おどりゃクソ森　ギギギ  (2013-02-25 21:30:30)
+- この人の曲どれも殿堂入りしてないじゃん。ミリオンならまだしもひとつも殿堂入り無しでCD発売って珍しいな  -- 名無しさん  (2013-03-01 22:56:35)
+- シャンクス？  -- 名無しさん  (2013-03-16 05:49:06)
+- 元々プロの人だったのかな？確かに良い曲は作ってるけど幾らなんでも早すぎる気がする。  -- 名無しさん  (2013-03-18 13:19:40)
+- 確かに。コネか？権力もありえる。あっ赤髪さん嫌いじゃないよ  -- 名無しさん  (2013-03-19 19:26:30)
+- まぁこんだけメジャーデビュー早いとそりゃファンからも疑われても仕方ないわな。  -- 名無しさん  (2013-04-01 17:08:28)
+- いやまあ、実力が認められたのが早かっただけやろ。  -- はだしのゲンワロタ  (2013-06-18 23:03:26)
+- 三曲だけじゃない気が・・・  -- さく  (2014-04-20 19:33:48)
+- シャンクスｗ  -- 零  (2016-10-03 19:55:38)
+- 盗作  -- 名無しさん  (2017-05-19 15:44:23)
+- ↑本当？？？？？？？？  -- 無心  (2019-05-01 14:06:36)
+#comment()

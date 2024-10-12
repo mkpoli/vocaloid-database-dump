@@ -1,0 +1,42 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+#ref(http://img.toranoana.jp/img/04/0030/08/99/040030089982-1.gif)
+
+
+&nicovideo(http://www.nicovideo.jp/watch/sm19465881)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[イノセンス e.p]]|CENTER:&bold(){Goodbye}|CENTER:[[ミナソコと春]]|
+
+|&bold(){[[樹人]]}|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|>|CENTER:2012年12月15日|
+|価格|CENTER:￥1,000（税込）|CENTER:￥1,500（税込）|
+|サークル|CENTER:おふとんだいすき|CENTER:GHOSTONE|
+
+**CD紹介
+-樹人氏 の 1st album 。
+-『[[goodbye,innocence]]』などの既存曲に新曲を加えた全11曲を収録。
+-アートワークは [[壁Neko]]氏 が手掛ける。
+-THE VOC@LOiD M@STER 23（ボーマス23）にてリリース。
+
+**曲目
++Prologue
++[[飛べない鳥と蜃気楼]]
++[[反復する世界]]
++盲目とプラスチック
++信号が変わって
++[[春紫苑]]
++[[嘘吐きと未来]]
++雨音
++[[蓮]]
++[[goodbye,innocence]]
++エンドロール
+
+**リンク
+-[[GHOSTONE（作者ホームページ）>>http://kihitop.blog.fc2.com/]]
+-[[Twitter>>http://twitter.com/kihito_]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/08/99/040030089982.html]]
+
+**コメント
+#comment

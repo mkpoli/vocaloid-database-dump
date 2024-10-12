@@ -1,0 +1,42 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo(sm18173004)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Rhythmism]]|CENTER:&bold(){HALO}|CENTER:[[脳漿炸裂ガール>脳漿炸裂ガール/CD]]|
+
+|&bold(){[[れるりり]]}|Aiji Hayama|[[まなみん]]|荒浪和沙|[[ゆーまお]]|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|CENTER:2012年7月8日|CENTER:2011年11月19日|
+|価格|CENTER:￥1,000（税込）|CENTER:￥1,500（税込）|
+|サークル|CENTER:しゃがみ中キック|CENTER:至高の当社比|
+
+**CD紹介
+-れるりり氏の4thアルバム。
+-歌い手のGero氏をゲストに迎えた、ボカロPれるりりの集大成となるアルバム。
+-[[keeno]]氏の名曲「[[glow>glow/keeno]]」のカヴァーや、至高のバラード「[[君が好き>君が好き/れるりり]]」のリアレンジバージョンも収録。
+-ゲストミュージシャンとして[[ゆーまお]]氏、[[［TEST］]]氏も参加。
+-THE VOC@LOiD M@STER 21（ボーマス21）で初頒布。
+-とらのあなで委託販売が行われている。
+
+**曲目
++[[HALO>HALO/れるりり]] / 初音ミク
++-Drum：ゆーまお　Guitar solo：[[［TEST］]]
++[[またね、じゃあね]] / 初音ミク
++-Lyric：Aiji Hayama
++restriction / GUMI Whisper & MC：れるりり
++-Lyric：まなみん　
++ツンデレラ☆ラヴ / GUMI Sweet
++-Lyric：荒浪和沙
++[[glow>glow/keeno]] / GUMI Whisper　　※[[keeno]]氏のカバー
++-Lyric＆Music：keeno
++[[Tender Moon]]（ver. GUMI） / GUMI Whisper
++[[君が好き>君が好き/れるりり]]（ver. GUMI） / GUMI Whisper
++HALO（ver. gero）
+
+**リンク
+-[[作者サイト>>http://rerulili.web.fc2.com/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/05/23/040030052337.html]]
+
+**コメント
+#comment()

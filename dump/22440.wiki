@@ -1,0 +1,42 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1081_20120709224445_0280_0280.jpg)
+
+&nicovideo(sm18184786)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Script Imager]]|CENTER:&bold(){Dive into U}|CENTER:[[Real Love Part2]]|
+
+|&bold(){[[MineK]]}|
+
+|流通|CENTER:即売|CENTER:委託|CENTER:配信|
+|発売|CENTER:2012年7月8日|CENTER:2012年7月|CENTER:2012年7月25日|
+|価格|CENTER:￥1,000|CENTER:￥1,500（税込）|CENTER:￥900 / 1曲￥150|
+|サークル|>|CENTER:SUKIMONO||
+
+**CD紹介
+-MineK氏のVOCALOIDアルバム。CDとしては5作目。
+-全8曲＋ボーナストラックとしてトークロイドを収録（CD版のみ）。
+-ジャケットイラストはトユ氏。
+-THE VOC@LOiD M@STER 21（ボーマス21）、夏コミで頒布。
+-とらのあなにて委託販売が行われている。
+-KARENTレーベルよりダウンロード販売が行われている。前述のとおり、ボーナストラックは無し。
+
+**曲目
++Jump into the Sky （feat.がくっぽいど&MEIKO）
++[[Chu♪Chu♪Chu♪]] - more ♪♪♪ mix - （feat.MEIKO）
++稲妻 （feat.がくっぽいど）
++Dive into U （feat.がくっぽいど&MEIKO）
++Night Cruisin' （feat.MEIKO）
++[[Summer Bright]] - Tropical mix - （feat.がくっぽいど）
++Sunset Blue （feat.がくっぽいど&MEIKO）
++[[U-Suzumi]] （feat.ガチャッポイド&MEIKO）
+
+Bonus Track
+-海にて（トークロイド）
+
+**リンク
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/05/38/040030053875.html]]
+-[[KARENT：「Dive into U」>>http://karent.jp/album/1081]]
+
+**コメント
+#comment()

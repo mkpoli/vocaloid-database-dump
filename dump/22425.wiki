@@ -1,0 +1,42 @@
+#right(){&furigana(あおにさいしんどろーむ)&furigana()【登録タグ:&tags() 】}
+//&ref(http://piroparu.com/gazou/works/prpr0001/jacket.jpg)
+&ref(https://www.suruga-ya.jp/pics/boxart_m/186116687m.jpg)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm18436093)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){アオニサイシンドローム}|CENTER:[[僕らのキャラバン]]|
+
+|&bold(){[[PIROPARU]]}|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|>|CENTER:2012年8月11日|
+|価格|CENTER:￥500|CENTER:￥750|
+|サークル|>|CENTER:グーシャンダグー|
+
+**CD紹介
+>&bold(){―― まだ幼い僕は、青色の歌を書こうと思った。 ―― }
+-PIROPARU氏 の1stアルバム。
+-デビュー作の「[[こっちくんな月曜日]]」、大ヒット中の「[[9'ON]]」などの既存曲に新曲を加えた全7曲を収録。
+-ジャケットイラスト＆デザインは [[多英子]]氏 が手掛ける。
+-C82（コミックマーケット82） にてリリース。
+-メロンブックス、とらのあな、D-STAGEで委託販売が行われている。
+
+**曲目
++[[Rumored Girl]]
++[[9'ON]]
++[[ラッパ吹きの少年]]
++むかしむかしの大行進 -Instrumental-
++[[ディアスポラ]] -Retake-
++[[こっちくんな月曜日]]
++メメンとモリとぼく
+
+**リンク
+-[[サークルサイト>>http://piroparu.com/index.html]]
+-[[特設サイト>>http://piroparu.com/prpr0001.html]]
+
+**コメント
+- 欲しい！けどコミケ行けない。  -- mizuki  (2012-08-05 01:38:20)
+- 全部好きだけど… CD買えない…  -- 名無しさん  (2012-08-12 09:59:20)
+- 通販来たよ！！最高でした！！！  -- 名無しさん  (2012-08-14 10:35:05)
+#comment()

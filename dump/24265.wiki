@@ -1,0 +1,31 @@
+#right(){&furigana(きせつもの)&furigana()【登録タグ:&tags() 】}
+//#image(http://www.tsuzuki-rec.com/Images/jacket_trec.jpg,http://www.tsuzuki-rec.com/,title=つづきレコード,blank) 
+
+#amazon(B00AZEULAU)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){季節もの}|CENTER:-|
+
+|&bold(){[[Masayoshi_n]]}|
+
+発売：2013年01月19日
+価格：￥600（税込）
+流通：配信
+
+**CD紹介
+-季節の曲を５曲そろえた、Masayoshi_n氏の初アルバム
+-iTunes StoreやAmazonMP3などで配信販売が行われている。
+
+**曲目
++[[心・春模様]]
++[[夏の歌]]
++[[秋風のメロディ]]
++[[小雪の帰り道]]
++[[春はまだかな？>春はまだかな]]
+
+**リンク
+-[[つづきレコード（個人レーベルサイト）>>http://www.tsuzuki-rec.com/]]
+-[[Amazon>>http://www.amazon.co.jp/%E5%AD%A3%E7%AF%80%E3%82%82%E3%81%AE/dp/B00AZEULAU]]
+
+**コメント
+#comment()

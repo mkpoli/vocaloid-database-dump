@@ -1,0 +1,29 @@
+#right(){&furigana(とるる)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://ext.nicovideo.jp/thumb_mylist/29081379" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/29081379">【ニコニコ動画】%E3%83%9F%E3%82%AF%E3%81%95%E3%82%93%E3%81%A8%E6%88%AF%E3%82%8C%E3%83%88%E3%83%AB%E3%83%AB</a></iframe>)
+
+**特徴
+作り手名：『&u(){トルル}』
+-VOCALOIDは初音ミクを所持。
+-疾走感あふれるバンドサウンドとほのぼのとしたエレクトロニカサウンドが魅力。
+
+**リンク
+-[[ブログ>>https://ameblo.jp/nico-toruru]]
+-[[piapro>>https://piapro.jp/torurururu]]
+-[[Twitter>>https://twitter.com/twittoruru]]
+
+**曲
+#list_by_tag(トルル,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**動画
+|&nicovideo(sm11350156)|&nicovideo(sm11881198)|
+|&nicovideo(sm13900925)|&nicovideo(sm14792433)|
+|&nicovideo(sm14947648)|&nicovideo(sm14988838)|
+|&nicovideo(sm18760029)|>|
+
+**コメント
+- furiganaはひらがなで。あと、作者名のタグは曲ページに付けるものですよ  -- 名無しさん  (2012-09-05 02:46:53)
+#comment()

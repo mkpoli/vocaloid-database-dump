@@ -1,0 +1,63 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/36434606" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/36434606">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-2013年1月、「[[エレクトロサチュレイタ]]」でボカロデビューした作り手。
+-''tilt-six''名義も使用している。
+-ロックとエレクトロ、ダブステップを融合させた、聴きごたえがあるサウンドが特徴。
+-使用しているボカロは今のところ、初音ミク・v flower・杏音鳥音。
+-「エレクトロサチュレイタ」は投稿後から反響が大きく、デビュー作にして初の殿堂入りを達成。
+-アーティスト名の tilt は「傾き」という意味。この単語を Google で検索すると…。
+-これまでに殿堂入りを達成した曲は、以下の通り。「[[overwriter]]」「[[エレクトロサチュレイタ]]」「[[キマジメ少女のアカルイ未来計画]]」「[[ヒカレルサテライト]]」「[[プラスチックボイス]]」「[[ホシゾラレイン]]」「[[マジカルシンメトリ]]」「[[夜明け前のレゾナンス]]」
+
+**リンク
+-[[tiltのブロマガ（作者ブロマガ）>>http://ch.nicovideo.jp/tilt_six]]
+-[[Twitter>>http://twitter.com/tilt_six]]
+-[[PIAPRO>>http://piapro.jp/tilt_six]]
+-[[YouTube>>http://www.youtube.com/user/tilt5ix4yt]]
+-[[ニコニコ大百科（単語記事）>>https://dic.nicovideo.jp/a/tilt]]
+
+**曲
+#list_by_tag(tilt,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(tiltCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|>|BGCOLOR(#008080):COLOR(#FFF):CENTER:&font(b,11pt){オリジナル曲}|
+|&nicovideo(sm19807355)|&nicovideo(sm20433562)|
+|&nicovideo(sm20793358)|&nicovideo(sm21412318)|
+|&nicovideo(sm21724524)|&nicovideo(sm22162921)|
+|&nicovideo(sm22648333)|&nicovideo(sm23616519)|
+|&nicovideo(sm24452865)|&nicovideo(sm24711849)|
+|&nicovideo(sm24806327)|&nicovideo(sm27059386)|
+|&nicovideo(sm28668727)|&nicovideo(sm29257127)|
+|&nicovideo(sm30282655)|>|
+
+|>|BGCOLOR(#008080):COLOR(#FFF):CENTER:&font(b,11pt){リミックス曲}|
+|&nicovideo(sm23043752)|&nicovideo(sm23874271)|
+|&nicovideo(sm27238164)||
+
+|>|BGCOLOR(#008080):COLOR(#FFF):CENTER:&font(b,11pt){コラボ曲}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm22170039)|&nicovideo(http://www.nicovideo.jp/watch/sm25159615)|
+|&nicovideo(http://www.nicovideo.jp/watch/1441008864)||
+
+**コメント
+- tiltさん好きです！  -- 名無しさん  (2013-03-26 22:36:40)
+- 作曲初心者？　絶対ウソだろ！！！！  -- 名無しさん  (2013-03-27 12:14:34)
+- tiltってググったらちょっと傾いた！！！！  -- 名無しさん  (2013-03-27 18:35:49)
+- PCは傾かないのでご注意を。↑  -- 名無しさん  (2013-05-06 18:42:45)
+- tiltさんｍｊ好き＞＜　キマジメｒｙで一目惚れしましたｗ　新曲楽しみです♪  -- ななし  (2013-05-28 21:08:21)
+- overwriterってtiltさんだったのか！通りで聞いたことあると・・これからの活躍にも期待(｀・ω・´)  -- 黒葉  (2013-09-26 14:13:47)
+- ↑３　なんだ気のせいか・・・・・  -- 名無しさん  (2013-12-08 15:22:03)
+- 神曲きたあああああ  -- 名無しさん  (2014-01-15 18:47:03)
+- tiltさんはもっと知られるべき人だと思う  -- 名無しさん  (2014-02-17 19:47:43)
+- tiltさんどんどん名曲作って下さい(*^_^*)  -- 疾風  (2014-05-11 11:18:41)
+- 夜中 冷たいトレモロを聴くのが好きだ  -- のぎ  (2014-08-14 12:29:25)
+- 2ndアルバム発売本当におめでとうございます。  -- 名無しさん  (2015-11-18 00:43:38)
+- 曖昧なリバーシ最高でした！  -- 名無しさん  (2016-01-11 00:12:35)
+- 新曲のキラユキ 凄杉、脳内リピート不可避てした。  -- 名無しさん  (2016-02-23 22:39:30)
+- 公式コラボでよく見かける人  -- 名無しさん  (2016-09-19 19:57:00)
+- 恋天使ﾐｶｴﾙからｴﾚｸﾄﾛｻﾁｭﾚｲﾀに飛んだら､良い曲過ぎてﾋﾞｯｸﾘした！  -- 名無しさん  (2018-04-17 14:17:23)
+- またライブやったら絶対行きます！  -- きつね  (2018-09-29 13:42:38)
+#comment()

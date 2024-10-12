@@ -1,0 +1,38 @@
+#right(){&furigana(う゛ぉけどり)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/20302030" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/20302030">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-読みは &bold(){ヴォケドリ}。
+-2010年08月08日、「[[ロケットアッパー]]」でデビュー。
+-現在までに「[[ンチロギ]]」「[[エランダール]]」が殿堂入りを達成している。
+-13作目にあたる「[[ホロg]]」をもって、菩化鳥としての活動を停止。（詳細は[[ブロマガ>>http://www.ch.nicovideo.jp/vokedori/blomaga/ar1138064]]）
+
+**リンク
+- [[PIAPRO>>http://piapro.jp/vokedori]]
+- [[Twitter>>http://twitter.com/vokedori]]
+-[[YouTube>>http://www.youtube.com/user/vokedori/]]
+
+**曲
+#list_by_tag(菩化鳥,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(菩化鳥CD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm11671787)|&nicovideo(sm12171461)|
+|&nicovideo(sm14776443)|&nicovideo(sm15536207)|
+|&nicovideo(sm15900369)|&nicovideo(sm16227438)|
+|&nicovideo(sm18168178)|&nicovideo(sm19106178)|
+|&nicovideo(sm20066382)|&nicovideo(sm23139966)|
+|&nicovideo(sm26018094)|&nicovideo(sm28057811)|
+|&nicovideo(sm30037664)|>|
+
+**コメント
+- ンチロギ、神曲!  -- 巌  (2012-10-21 16:32:09)
+- ンチロギ中毒なったゎ♪  -- 雛翳  (2013-05-17 21:22:36)
+- この人の曲結構好きだな  -- 名無しさん  (2013-10-30 17:23:38)
+- ンチロギ好きです！  -- 良太  (2014-08-23 00:29:15)
+- イヂメカニズムとンチロギが好き。中でもイヂメカニズムはもっと評価されるべき。  -- 名無しさん  (2014-08-23 08:44:04)
+- ＆LOIDはヤバイでしょ  -- あいりん  (2014-09-09 17:07:35)
+- コメ少ねぇぞオイィィィィもっと評価されるべきだろ  -- 名無し  (2015-01-18 13:25:09)
+#comment()

@@ -1,0 +1,70 @@
+#right(){&furigana(あかつき)&furigana()【登録タグ:&tags() 】}
+//#image(http://img.toranoana.jp/img/04/0030/05/61/040030056187-1.gif)
+&ref(https://ecdnimg.toranoana.jp/ec/img/04/0030/05/61/040030056187-1p.jpg,x=250,y=300)
+
+|&nicovideo(http://www.nicovideo.jp/watch/sm17745622)|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/32646297" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/32646297">【ニコニコ動画】</a></iframe>)|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){暁 -AKA-TSUKI-}|CENTER:[[東雲 -SHINONO-ME-]]|
+
+|[[shu-tP]]|[[ふなむしP]]|[[MineK]]|[[パレットP]]|[[みじぴんP]]|[[CALFO]]|
+|[[tatsuro]]|[[BingoBongoP]]|[[No.D]]|[[涼介P]]|[[シンP]]|[[オレジナルP]]|
+|[[function]]|[[さはら]]|[[斜め上P]]|[[さといも]]|[[薪原あすみ]]|[[ゴゼンP]]|
+|[[halP]]|[[ワンカップP]]|[[あわけんP]]|[[涼風P]]|[[OPA]]|[[Asaki No'9]]|
+|[[endy]]|[[稲敷常州]]|[[奈都魅P]]|[[まはろP]]|[[yanagiP]]||
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2012年7月8日||
+|価格|CENTER:￥1,500|CENTER:￥2,100（税込）|
+|サークル|>|CENTER:MEIKO Compilation Project|
+
+**CD紹介
+>MEIKOの歌声の魅力を存分にお届けできるよう、
+>音楽のジャンルを超えてCD２枚組での楽師26名と絵師23名のコラボが実現！
+-VOCALOID1・MEIKOをフィーチャーしたコンピレーション企画CD。
+-プレスCD2枚組全26曲に56Pのブックレット付き。
+-THE VOC@LOiD M@STER 21（ボーマス21）で初頒布。
+-自家通販ととらのあなでの委託販売が行われている。
+
+**曲目
+曲名 / 楽師名 / 絵師名
+***DISC 1
++[[Green]] / [[shu-t>shu-tP]] / わっしー
++Transparent Heart / [[ふなむしP]] / 五反田
++[[Chu♪Chu♪Chu♪]] / [[MineK]] / トユ
++[[Color>Color/パレットP]] / [[パレットP]] / るめこ
++Run through the darkness / [[みじぴんP]] / Nez@紅緒
++[[終の風]] / [[CALFO]] / 五反田
++[[CRUSH DOWN]] / [[L.A.M.B>tatsuro]] / [[アサミ>99P]]
++[[-Last Terrorism.-]] / [[BingoBongoP]] / ワタナベ
++こがれあこがれ / [[No.D]] / あちこあこ
++一度だけのキス、一夜限りの関係 / [[涼介P]] / カラコロ
++ディレクト / [[シンP]] / みゆきしょうこ
++[[夜猫>夜 猫]] / [[function]] / コジマカコ
++[[ヴァーティカル・ホライズン]] / [[オレジナルP]] / カラコロ
+
+***DISC 2
++[[きとんて～る☆ -コネコノキモチ-]] / [[斜め上P]] / daigoman
++[[約束の魔法]] / [[さといも@天宝石P>さといも]] / 富夫
++[[the room of your fantasy]] / [[ゴゼン>ゴゼンP]] / うえP
++[[ライン>ライン/halP]] / [[hal>halP]] / 春野 空
++ここで終わる世界 / [[ワンカップP]] / ワンカップP
++Alone in a season / [[あわけんP]] / 陽之介
++茜の日 / [[涼風涼雨>涼風P]] / 九和
++[[生命の讃歌]] / [[0-9>OPA]] / あんこ
++[[逆月]] / [[endy]] / 和人
++[[春のみやこ]] / [[稲敷常州]] / みゆきしょうこ
++[[君の花を咲かそう]] / [[奈都魅P]] / ササキ
++FRAGMENT OF NEBULA / [[Maharo>まはろP]] / りちか
++[[雲の遺跡(alternative)>雲の遺跡]] / [[yanagi>yanagiP]] / うむ
+
+**リンク
+-[[特設ページ>>http://vocalo1.com/meiko_compilation/]]
+-[[twitter>>http://twitter.com/meiko_compi]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/05/61/040030056187.html]]
+
+**コメント
+- おおお！！！  -- 名無しさん  (2012-07-30 17:21:19)
+- きとんて～る☆-コネコノキモチ-と春のみやこが、かわいくてしかたない！  -- 名無しさん  (2012-08-12 19:25:27)
+- 最後2曲が壮大ですげぇ好きだ。いや、全部好きだけど。  -- 名無しさん  (2013-09-12 20:07:06)
+#comment()

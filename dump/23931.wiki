@@ -1,0 +1,50 @@
+#right(){&furigana(syuri22)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/17538453" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a target="_blank" href="https://www.nicovideo.jp/mylist/17538453">【ニコニコ動画】syuri22のマイリスト</a></iframe>)
+
+**特徴
+作り手名：『&u(){syuri22}』（&u(){シュリニィニ}）
+-現在、[[cosMo（暴走P）]]がサークルを務める、CHEMICAL SYSTEM LEのメンバーの一人である。
+--cosMoがいろいろ困った時に現れる助手。二次元ポケットから役に立つ道具や役に立たない道具が出てくる。&br()主に楽曲のデザインに協力。アイデアを提案したりオハナシを纏めたりもする。あと雑用。&br()「[[星ノ少女ト幻奏楽土]]」等の、ストーリー構成、キャラクターデザイン、イラストを分担。&br()将来は立派なかものはしになりたい。（サークルHP プロフィールより転載）
+//-syuri22の読みは（しゅりにーにー）である。
+-2014年にcosMo（暴走P）と入籍を報告。
+
+**リンク
+-[[CHEMICAL SYSTEM LE>>https://chemsys.cc/]]（サークルHP）
+-[[pixiv>>https://www.pixiv.net/users/132450]]
+-[[Twitter>>https://twitter.com/syuri22]]
+-[[ニコニコ>>https://www.nicovideo.jp/user/498982]]
+-[[YouTube>>https://www.youtube.com/@syuri22]]
+
+**曲
+#list_by_tag(syuri22,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(syuri22CD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm13553584)|&nicovideo(sm17628353)|
+|&nicovideo(sm17771227)|&nicovideo(sm18163371)|
+|&nicovideo(sm18603564)|&nicovideo(sm19835180)|
+|&nicovideo(sm20738577)|&nicovideo(sm20755687)|
+|&nicovideo(sm21826053)|&nicovideo(sm22777981)|
+|&nicovideo(sm23769208)|&nicovideo(sm26813372)|
+
+**コメント
+- 仮作成しました。曲の部分とかは後程やります。  -- 名無しさん  (2012-12-26 02:31:47)
+- とりあえず作成完了(?)しました。指摘などがあれば修正します。  -- 名無しさん  (2012-12-26 10:14:48)
+- 作成乙です！  -- 名無しさん  (2012-12-27 13:08:00)
+- 乙です！  -- 名無しさん  (2012-12-28 15:01:52)
+- 作成乙です！  -- 名無しさん  (2012-12-29 21:44:27)
+- だいすきだあぁぁ  -- 名無しさん  (2013-06-19 22:47:27)
+- 「転生少女と転生少年」にはリアル鳥肌が立ちました！！  -- 名無しさん  (2013-10-03 15:09:18)
+- こすもんのコメ欄停止してるからこっちで…こすもん！しゅりさん！結婚おめでとう！二人で家庭と作品築きあげてください！お幸せに！  -- 名無しさん  (2014-02-08 01:22:08)
+- こすもさんしゅりさん、おめでとうございます(*´▽`*)がいあさんとのケミシス、これからも応援してます！  -- 名無しさん  (2014-02-08 19:47:05)
+- ご結婚おめでとうございます！！！！！  -- 名無し  (2014-02-09 16:06:01)
+- 私はこの方の絵がとても好きです☆ (*´艸｀*)  -- 名無しさん  (2014-06-21 18:20:11)
+- アボガト  -- 名無しさん  (2014-09-03 15:57:30)
+- らた  -- 名無しさん  (2021-11-14 12:34:46)
+#comment()

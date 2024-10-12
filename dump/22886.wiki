@@ -1,0 +1,31 @@
+#right(){&furigana(さいしゅうきちくしょうじょ)&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1110_20120815100717_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[さよならを聞かせてよ>さよならを聞かせてよ/CD]]|CENTER:&bold(){最終鬼畜少女}|CENTER:[[どえす]]|
+
+|&bold(){[[ぶりるP]]}|[[すだち]]|
+
+発売：2012年8月31日
+価格：￥300 / 1曲￥150
+流通：配信
+レーベル：KARENT
+イラスト：るみあ
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/the-lethal-weapon-girl-single/id556323820]]}|
+
+**CD紹介
+-初音ミク発売5周年を記念してリリースされた配信EP。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++[[最終鬼畜少女]] （feat. 初音ミク）
++[[ジレンマ>ジレンマ/ぶりるP]] （feat. 初音ミク）
+
+**リンク
+-[[作者ブログ>>http://artical-riddim.net/]]
+-[[KARENT：「最終鬼畜少女」>>http://karent.jp/album/1110]]
+-[[KARENT：「初音ミク 5th Anniversary」特集ページ>>http://karent.jp/special/miku12]]
+
+**コメント
+#comment()

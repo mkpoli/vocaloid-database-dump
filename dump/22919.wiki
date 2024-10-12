@@ -1,0 +1,69 @@
+#right(){&furigana(りっしゅう)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://ext.nicovideo.jp/thumb_mylist/9261026" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/9261026">【ニコニコ動画】%E9%9B%BB%E6%92%83%E3%83%AD%E3%82%A4%E3%83%A4%E3%83%AB%E8%A1%97%E9%81%93</a></iframe>)
+
+**特徴
+>大分で曲とか作ったり何か色々やってる人なんじゃない（作者HPより）
+作り手名：『&u(){立秋}』（&u(){りっしゅう}）
+-2008年11月3日投稿の「[[ただ好きってそれだけ]]」でデビュー。でも&bold(){人生の処女作}は「[[song with you, song for you]]」らしい（マイリスコメより）。
+-ピコピコサウンドを用いた中毒性の高い曲を多く作る。
+-使用VOCALOIDは初音ミク・鏡音リン・鏡音レン・巡音ルカ・miki・歌愛ユキ・IA。
+-「[[ぷに]]」にて初の殿堂入りを達成した。
+-代表作は「[[うに]]」。非VOCALOID曲では「竹」。
+
+**リンク
+-[[作者HP>>http://halkana.com/]]
+-[[piapro>>https://piapro.jp/rissyuu]]
+-[[Twitter>>https://twitter.com/rissyuu]]
+-[[ニコニコ>>https://www.nicovideo.jp/user/3211395]]
+-[[YouTube>>https://www.youtube.com/channel/UC1Mko3w7WRY37fTcDb9Xk2w]]
+
+**曲
+#list_by_tag(立秋,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(立秋CD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(nm5136846)|&nicovideo(nm5387318)|
+|&nicovideo(nm5713198)|&nicovideo(nm5774451)|
+|&nicovideo(nm5912218)|&nicovideo(nm5929098)|
+|&nicovideo(nm5943738)|&nicovideo(nm6012573)|
+|&nicovideo(nm6079635)|&nicovideo(nm7021083)|
+|&nicovideo(nm8093491)|&nicovideo(nm8672751)|
+|&nicovideo(sm8685031)|&nicovideo(sm8685991)|
+|&nicovideo(sm8702717)|&nicovideo(sm8989684)|
+|&nicovideo(nm9067394)|&nicovideo(sm9221040)|
+|&nicovideo(sm9230935)|&nicovideo(sm9241239)|
+|&nicovideo(sm9504178)|&nicovideo(sm9971817)|
+|&nicovideo(sm10281692)|&nicovideo(sm10291122)|
+|&nicovideo(sm10449457)|&nicovideo(sm10523727)|
+|&nicovideo(sm10842968)|&nicovideo(nm12443108)|
+|&nicovideo(sm12473674)|&nicovideo(sm13180353)|
+|&nicovideo(nm13263513)|&nicovideo(sm13435193)|
+|&nicovideo(nm15471828)|&nicovideo(sm16392282)|
+|&nicovideo(sm16855333)|&nicovideo(sm16981625)|
+|&nicovideo(sm18195710)|&nicovideo(nm18765458)|
+|&nicovideo(sm19750583)|&nicovideo(nm20285311)|
+|&nicovideo(sm20795461)|&nicovideo(nm22225518)|
+|&nicovideo(sm22572953)|&nicovideo(sm22973592)|
+|&nicovideo(sm23035235)|&nicovideo(sm24430205)|
+|&nicovideo(sm24754640)|&nicovideo(sm25232045)|
+|&nicovideo(sm27010794)|&nicovideo(sm27051651)|
+|&nicovideo(sm27191258)|&nicovideo(sm27916246)|
+|&nicovideo(sm29201217)|&nicovideo(sm29561467)|
+|&nicovideo(sm30341083)|&nicovideo(sm32507361)|
+|&nicovideo(sm34398783)|&nicovideo(sm36160499)|
+|&nicovideo(sm39833117)|&nicovideo(sm40851297)|
+|&nicovideo(sm41153753)|&nicovideo(sm41528250)|
+
+**コメント
+- 立秋さんの曲は着飾ってない感じがすごくイイ。「てる」のサビは聞いた瞬間からずっと頭に残ってます(笑)  -- ななな  (2013-06-10 18:29:10)
+- 君、空、紙飛行機がない…  -- 名無しさん  (2014-01-23 14:42:30)
+- 「うに」と「むに」は名曲。聞いてない人は是非聞いてほしい  -- いかヤング  (2014-03-07 12:44:31)
+- 「はんぶんこ」から知ってこういう曲作る人なのかとおもってたら「うに」でやられた・・・「ぷに」のPVでさらにやられた・・かわいいいい！  -- 黒葉  (2014-04-11 17:04:05)
+- miraiでらっくすの公式サイトで、新収録のルームＢＧＭ作曲者陣に立秋さんの名前があって、「え！？立秋さんってあの&quot;ぷに&quot;の立秋さん！？」って思いました。もしそうなら、でらっくすＢＧＭも楽しみですね。  -- ぷんぷんぷんすこすこぷんぷん  (2015-02-11 18:25:20)
+#comment()

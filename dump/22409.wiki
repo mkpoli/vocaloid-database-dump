@@ -1,0 +1,163 @@
+#right(){&furigana(Very7)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm4389210)|&youtube(https://www.youtube.com/watch?v=ybdeng_X468){352,198}|
+作詞：[[andromeca]]
+作曲：[[andromeca]]
+編曲：[[andromeca]]
+唄：[[Sweet Ann]]
+
+**曲紹介
+>被害者6人を出した連続XX事件、手がかりが掴めないScotland yardはついに稀代の迷探偵ノウナイ・アンに協力を要請した。
+>彼女の任務は『彼』を捕え7人目の被害者を阻止すること。そして犯人は彼女の真の姿を、まだ知らない…。
+曲名：『&u(){Very7}』
+-Sweet Ann単独使用の1曲目。
+-グランジロック的なボーカル曲。
+
+**歌詞
+英語歌詞班募集中！
+//（[[引用元のサイト>>引用元のURL]]より転載）
+//
+//英語歌詞が登録されてないのに歌詞未登録タグを外すのはやめて下さい。
+
+（和訳をDeepl翻訳で英訳）
+
+The number of known victims is six.
+All of them young, all of them with a particular hairstyle, all of them with one thing in common.
+
+Your lofty taste always gives me the chills.
+It's as if the whole situation is an art form.
+
+But I know you're only human.
+I know you're just a man.
+
+
+The expected number of assailants is one, a young man.
+All have one thing in common: they were all committed in the quiet of the city.
+
+I'm always amazed at your deftness.
+All done in a very short time.
+
+But I know you're just a coward.
+I know you're just a coward.
+
+You don't realize it, do you?
+
+You don't know that I'm creeping up on you
+You don't know that you're slowly being encircled
+
+You don't realize it, do you?
+At the sound of my creeping footsteps
+
+I'll soon show you that you are the hunted
+I'll let you know soon enough.
+
+
+The next possible date and time is tomorrow.
+All dates and times have been found to be predetermined.
+
+Your tastes never cease to amaze me.
+Every move you make shows a high level of intelligence.
+
+But I know you're just a madman.
+I know you're just a madman.
+
+You're aware of that, aren't you?
+
+My shadow is creeping up on you
+Already surrounded by your own
+
+You are aware, aren't you?
+At the sound of my creeping footsteps
+
+You hate yourself for not being able to stop
+Tonight you sleep with a shiver
+
+
+You will not understand it all
+You cannot perceive the end of your own destiny
+
+You cannot perceive
+What happened to you.
+
+I mean, you.
+The seventh.
+
+Translated with DeepL.com (free version)
+
+***和訳
+判明している被害者の数は6
+全て若く特定の髪型の女性という共通点がある
+
+お前の高尚な趣味にはいつも寒気がする
+まるで事件の状況全ては芸術のようだ
+
+だがお前がただの人間だということを
+私は知っている
+
+
+予想される加害者の数は1、若い男性
+全ては都会の静寂の中での犯行という共通点がある
+
+お前の手際の良さにはいつも驚かされる
+全ては非常に短時間で行われている
+
+だがお前がただの臆病者だということを
+私は知っている
+
+お前は気づいていないだろう？
+
+忍び寄る私の気配に
+少しずつ包囲されている自分自身に
+
+お前は気づいていないだろう？
+忍び寄る私の足音に
+
+お前が狩られる側の人間だということを
+すぐ教えてやる
+
+
+想定される次の犯行日時は明日
+全ての日時には法則性が見付かっている
+
+お前の嗜好にはいつも驚かされる
+全ての行動には高い知力が感じられる
+
+だがお前がただの狂人だということを
+私は知っている
+
+お前は気づいているんだろう？
+
+忍び寄る私の影に
+既に包囲された自分自身に
+
+お前は気づいているんだろう？
+忍び寄る私の足音に
+
+止まれない自分を恨み
+今夜は震えて眠れ
+
+
+お前は全てを理解できない
+おまえ自身の命運が尽きる今このときを
+
+お前は知覚できない
+自身に何が起こったのか
+
+つまりお前が
+7人目だ
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+**コメント
+- 歌詞が書いてないのに「歌詞未登録」タグを剥がすのはやめてください。  -- 名無しさん  (2013-07-06 21:45:19)
+- victims number proved to the six and world weaning　かな  -- 名無しさん  (2016-07-15 14:47:52)
+#comment()
+
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)

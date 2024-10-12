@@ -1,0 +1,31 @@
+#right(){&furigana(にーてぃんぐP)&furigana()【登録タグ:&tags() 】}
+
+**特徴
+-2012年11月5日、「[[せおちゃんおにぎり買ってこい！]]」でデビュー。
+-使用ボーカロイドはMAYUで、他の人とコラボをしている場合は調声されたUTAU等でも発表している。
+-熱狂的なせおちゃん儲で（※Another Infinityメンバー、Starving Trancer、Xceon氏のこと）リアルニートらしい。
+-日課はコンビニと本屋での立ち読み。
+-自身でもイラスト、粘土、折り紙、手芸等で動画を作成する。
+-2014年10月、念願のせおちゃん本人とコラボをしたCDアルバム[[せおちゃん脳内エクセステージクリア]]をリリースする。
+
+**リンク
+-[[ブログ>>http://ameblo.jp/neetingp]]
+-[[ピアプロ>>http://piapro.jp/neetingp]]
+-[[Twitter>>https://twitter.com/neetingp]]
+
+**曲
+#list_by_tag(ニーティングP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(ニーティングPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm19257611)|&nicovideo(sm19560916)|
+|&nicovideo(sm19621347)|&nicovideo(sm19754391)|
+|&nicovideo(sm19931828)|&nicovideo(sm20668704)|
+|&nicovideo(sm20389600)|&nicovideo(sm21489456)|
+|&nicovideo(sm21053287)|&nicovideo(sm22406384)|
+|&nicovideo(sm22829813)|&nicovideo(sm23308522)|
+
+**コメント
+#comment

@@ -1,0 +1,17 @@
+#right(){【登録タグ:&tags()】}
+//↑タグ忘れ防止のための表示
+曖昧さ回避のためのページ
+----
+-コンピレーションCD
+--[[universe/CD]]
+
+-[[ジワタネホ]]の曲
+--[[Universe/ジワタネホ]]
+-[[Rin（ぎん）]]の曲
+--[[Universe/Rin（ぎん）]]
+-[[Wonder-K]]の曲
+--[[UNIVERSE/Wonder-K]]
+-[[K*C*HACK]]の曲
+--[[ÜNiVERSE/K*C*HACK]]
+
+#include(曖昧さ回避の追加の仕方/告知)

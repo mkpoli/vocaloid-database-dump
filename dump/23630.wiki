@@ -1,0 +1,40 @@
+#right(){&furigana(あるまちのこうそうとしゅうまつ) &furigana()【登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/pics/boxart_m/186121767m.jpg)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm19480052)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){在る街の構想と終末}|CENTER:-|
+
+|&bold(){[[とんびP]]}|
+
+|流通|CENTER:即売|
+|発売|CENTER:2012年12月15日|
+|価格|CENTER:￥1,000（税込）|
+|サークル|CENTER:すたぢおとんび|
+
+**CD紹介
+-とんびP 待望の 1st album 。
+-殿堂入りした『[[単色少女]]』などの既存曲に新曲を加えた全11曲を収録。
+-アートワークは cimothky氏 が手掛ける。
+-THE VOC@LOiD M@STER 23（ボーマス23）にてリリース。
+
+**曲目
++在る街の構想論
++[[ムスカリ]]
++[[ハイカラ・エスケープ]]
++[[単色少女]]
++[[サヨナラヒーロー]]
++[[空想思想歌]]
++[[さよならの世界]]
++[[旧市街と雨上がりの空]]
++金魚の箱
++摩天楼
++在る街の終末論
+
+**リンク
+-[[Twitter>>http://twitter.com/tomb_18]]
+
+**コメント
+#comment

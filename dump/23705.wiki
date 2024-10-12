@@ -1,0 +1,39 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+
+&nicovideo(http://www.nicovideo.jp/watch/sm19437210)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[with you]]|CENTER:&bold(){WILD CHAOTIC MUSIC}|CENTER:[[トーキョー宇宙少年>トーキョー宇宙少年/CD]]|
+
+|&bold(){[[ヤヅキ]]}|
+
+|流通|CENTER:即売|
+|発売|CENTER:2012年12月15日|
+|価格|CENTER:￥1,000（税込）|
+|サークル|CENTER:ガスコンロ|
+
+**CD紹介
+-ヤヅキ氏 の 3rdアルバム。
+-「[[Dalayed-action bomb]]」「[[THE END OF THE WORLD]]」などの既存曲に新曲を加えた、ゆかり一色で構成された全11曲を収録。
+-ラストを飾る「[[ハチミツ]]」では、歌い手の [[鹿乃]]氏 をゲストボーカルとして迎えている。
+-THE VOC@LOiD M@STER 23（ボーマス23）にてリリース。
+
+**曲目
++[[Dalayed-action bomb]]
++[[夢色セカイ]]
++テレキャスター狂騒曲
++[[航海日誌]]
++私雨
++ツーバスガール
++[[無色透明の世界]]
++[[THE END OF THE WORLD]]
++[[小雪姫]]
++ボクらのエンディングテーマ
++[[ハチミツ]] feat. 鹿乃
+
+**リンク
+-[[ガスコンロ（サークルホームページ）>>http://gasconro.jimdo.com/]]
+-[[Twitter>>http://twitter.com/yadukishinya]]
+
+**コメント
+#comment()

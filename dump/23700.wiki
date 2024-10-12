@@ -1,0 +1,39 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+
+&nicovideo(http://www.nicovideo.jp/watch/sm19531169)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Wishes to the Moon, Emotions of Yggdrasil]]|CENTER:&bold(){Around the Sun}|CENTER:-|
+
+|&bold(){[[どん]]}|[[AO>AO/作り手]]|
+
+|流通|CENTER:即売|
+|発売|CENTER:2012年12月15日|
+|価格|CENTER:￥1,000（税込）|
+|サークル|CENTER:(株）ぱわれす月の支社|
+
+**CD紹介
+>&bold(){ ────太陽の周りを巡る星のように。 }
+-どん氏 の 2nd Album。
+-『[[Joker Smiles.]]』『[[Russian "Rule"ttE]]』などの既存曲に新曲を追加した、全11曲を収録。
+-アートワークは [[AO>AO/作り手]]氏 が手掛ける。
+-THE VOC@LOiD M@STER 23（ボーマス23）にてリリース。通販も予定している。
+
+**曲目
++Revolution
++[[Joker Smiles.]]
++The Servant Of The Sun
++[[Russian "Rule"ttE]]
++[[リコリスとナルコレプシイ]]
++Orbit
++[[*flowery fairy*>flowery fairy]]
++[[Asymmetry]]
++Asthma
++[[モノクロパステル]]
++トジタセカイ
+
+**リンク
+-[[Twitter>>http://twitter.com/doN0328]]
+
+**コメント
+#comment()

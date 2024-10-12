@@ -1,0 +1,16 @@
+#right(){&furigana()&furigana()【登録タグ:&tags()】}
+&nicovideo(http://www.nicovideo.jp/watch/nm6388464)
+作詞：[[クヌースP]]
+作曲：[[クヌースP]]
+編曲：[[クヌースP]]
+唄：初音ミク
+
+**曲紹介
+-P名由来のKnuth氏に敬意を表して作りました。
+
+**歌詞
+The Art of Computer
+
+
+**コメント
+#comment()

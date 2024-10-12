@@ -1,0 +1,43 @@
+#right(){&furigana(おかゆ)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo_mylist(<iframe width="312" height="176" src="https://ext.nicovideo.jp/thumb_mylist/45494578" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/45494578">【ニコニコ動画】%E3%83%9C%E3%82%AB%E3%83%AD%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB%EF%BC%88%EF%BD%9E2012%EF%BC%89</a></iframe>)|&nicovideo_mylist(<iframe width="312" height="176" src="https://ext.nicovideo.jp/thumb_mylist/25791482" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/25791482">【ニコニコ動画】%E3%83%9C%E3%82%AB%E3%83%AD%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB%EF%BC%882013%EF%BD%9E%EF%BC%89</a></iframe>)|
+
+**特徴
+作り手名：『&u(){おかゆ}』
+-2011年5月1日、「[[ソーシャルネットワークファクトリー]]」でデビュー。
+-使用ボーカロイドは初音ミクとGUMI。
+-作る曲は中毒性のあるバンドサウンド。
+
+**リンク
+-[[ホームページ>>https://yusukeeeokayu.wix.com/okayumusicbackalley]]
+-[[ブログ>>https://ameblo.jp/yu1gtv0e0v/]]
+-[[Twitter>>https://twitter.com/okayu_okayu]]
+-[[PIAPRO>>https://piapro.jp/okayu_okayu]]
+-[[ニコニコ>>https://www.nicovideo.jp/user/2818704]]
+
+**曲
+#list_by_tag(おかゆ,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(おかゆCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm14315826)|&nicovideo(sm14753183)|
+|&nicovideo(sm14759256)|&nicovideo(sm15252886)|
+|&nicovideo(sm16205488)|&nicovideo(sm16428088)|
+|&nicovideo(sm18801708)|&nicovideo(sm19314564)|
+|&nicovideo(sm19366732)|&nicovideo(sm19421761)|
+|&nicovideo(sm19484210)|&nicovideo(sm20106709)|
+|&nicovideo(sm20349655)|&nicovideo(sm22364562)|
+|&nicovideo(sm22548535)|&nicovideo(sm22630254)|
+|&nicovideo(sm22707810)|&nicovideo(sm23562691)|
+|&nicovideo(sm23830021)|&nicovideo(sm24337761)|
+|&nicovideo(sm24701917)|>|
+
+**コメント
+- おかゆさんの曲ではじめて聞いた曲が落下する亡霊は笑ったなんです。あれは私の好みにぴったりでした。  -- 名無し  (2013-04-04 19:29:44)
+- おかゆさんの曲どれも好きだ  -- 名無しさん  (2015-02-09 18:06:34)
+#comment()

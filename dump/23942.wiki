@@ -1,0 +1,36 @@
+#right(){&furigana(ぼくらのハートビート)&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1185_20121203172655_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Lento Memento]]|CENTER:&bold(){ぼくらのハートビート}|CENTER:[[キングとジョーカー]]|
+
+|&bold(){[[れれれP]]}|
+
+|流通|CENTER:即売|CENTER:配信|
+|発売|CENTER:2012年11月25日|CENTER:2012年12月20日|
+|価格|CENTER:￥300|CENTER:CENTER:￥300 / 1曲￥150|
+|サークル|CENTER:3レン腐||
+
+**CD紹介
+-鏡音リン・レン5周年に先駆けて発表された記念シングル。
+-新曲「ぼくらのハートビート」に、れれれPがこれまでに制作してきたボカロ曲全47曲を発表順にノンストップメドレー形式でつないだトラックを収録。
+-イラスト・デザインは[[ 初（ブリオッシュ画伯）>初]]氏が手掛ける。
+-鏡音ねいろ！で初頒布。手焼きCDのため通信販売は無し。
+-その代わり、表題曲のみではあるがKARENTレーベルよりダウンロード販売が行われている。鏡音リン・レン5周年企画で配信された作品の1つ。
+
+**曲目
++[[ぼくらのハートビート]]
++ぼくらのハートビート (instrumental)
++LELELE COLLECTION 2008
++LELELE COLLECTION 2009
++LELELE COLLECTION 2010
++LELELE COLLECTION 2011
++LELELE COLLECTION 2012
+
+**リンク
+-[[作者サイト>>http://lelele.jp/]]
+-[[KARENT：「ぼくらのハートビート」>>http://karent.jp/album/1185]]
+-[[KARENT：「鏡音リン・レン祭'12」特集ページ>>http://karent.jp/special/rinlen12]]
+
+**コメント
+#comment()

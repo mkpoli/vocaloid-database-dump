@@ -1,0 +1,34 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+
+&nicovideo(http://www.nicovideo.jp/watch/sm19497399)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){twillight e.p.}|CENTER:-|
+
+|[[やみくろ]]|[[YonoP]]|[[融合P]]|[[7:24>姉を見事に使いこなす妹P]]|
+
+|流通|CENTER:即売|
+|発売|CENTER:2012年12月15日|
+|価格|CENTER:￥500|
+|サークル|CENTER:イニシャルY|
+
+**CD紹介
+-やみくろ氏・YonoP・融合P 3人によるイベント限定CD。書き下ろしの新曲が各2曲ずつの全6曲を収録。
+-ジャケットイラストなどのアートワークは [[7:24>姉を見事に使いこなす妹P]]氏 が手掛ける。マスタリングは 輝氏 。
+-THE VOC@LOiD M@STER 23（ボーマス23）にてリリース。
+
+**曲目
++[[なにものにも]]　/　やみくろ feat. 巡音ルカ・Mew
++エンドロールの先に　/　やみくろ feat. 巡音ルカ
++フィルムフェードアウト　/　YonoP feat. 初音ミク
++社会の歯車　/　YonoP feat. 結月ゆかり
++Fake World　/　融合P feat. GUMI
++影彩-カゲイロ-　/　融合P feat. GUMI
+
+**リンク
+-[[Twitter（やみくろ）>>http://twitter.com/yamichrome]]
+-[[Twitter（YonoP）>>http://twitter.com/Yono_P]]
+-[[Twitter（融合P）>>http://twitter.com/naoyan_yuugoup]]
+
+**コメント
+#comment

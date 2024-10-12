@@ -1,0 +1,49 @@
+#right(){&furigana(CALFO)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/9394487" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/9394487">【ニコニコ動画】</a></iframe>)|
+
+**特徴
+>&bold(){(　´・ω・｀)＜気の向くままに音遊びをしているよ。}
+>きっといつかはロイヤルスイート。
+作り手名：『&u(){CALFO}』(&u(){かるふぉ})
+//-MEIKOや巡音ルカやLily、さらにMIRIAMやSONIKAといった海外VOCALOIDを使用したオリジナル曲やカバー曲を作成しているのが特徴。
+-2008年9月、「[[samsara]]」にてボカロPデビュー。
+-使用合成音声は[[MIRIAM]]、[[MEIKO]]、[[巡音ルカ]]、[[鏡音リン>鏡音リン・レン]]、[[SONIKA]]、[[Lily>lily/vocaloid]]、[[ギャラ子]]。
+--[[初音ミク]]と[[鏡音レン>鏡音リン・レン]]は所持しているが使用しておらず、自らもそれをネタにしていた。(([[SONIKA版「samsara」動画説明欄>>https://sp.nicovideo.jp/watch/sm8312390?ref=user_video]]など))
+
+**リンク
+//-個人HP、PIAPRO、YouTube等ある場合は、ここに。当wiki以外のサイトへリンクを貼る場合は必ず「>>」で別ウインドウでリンクしてください。
+-[[ニコニコ動画>>https://www.nicovideo.jp/user/1735775]]
+//-[[YouTube>>https://www.youtube.com/]]
+-[[piapro>>https://piapro.jp/CALFO]]
+-[[Twitter>>https://twitter.com/CALFO_greentea]]
+-&s(){[[作者ブログ「Cosmic Forge」>>http://cosmicforge.at.webry.info/]]}
+
+**曲
+#list_by_tag(CALFO,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(CALFOCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm4486603)|&nicovideo(sm5158597)|
+|&nicovideo(sm5996190)|&nicovideo(sm6008605)|
+|&nicovideo(sm6337443)|&nicovideo(sm6365260)|
+|&nicovideo(sm7500379)|&nicovideo(sm8312390)|
+|&nicovideo(sm9805964)|&nicovideo(sm10867008)|
+|&nicovideo(sm11247290)|&nicovideo(sm13709618)|
+|&nicovideo(sm16079863)|&nicovideo(sm18224802)|
+|&nicovideo(sm19499569)|&nicovideo(sm22629120)|
+
+**関連タグ内の更新履歴
+#region(close,関連タグ内の更新履歴)
+関連タグ内の更新履歴
+※「CALFO」「CALFOCD」タグ内で最近編集やコメントのあった記事を新しい方から10件表示しています。
+#list_by_tagsearch(CALFO,CALFOCD,sort=timestamp,sort2=desc,errmsg=まだ曲、CDが登録されていません。,or,10)
+#endregion
+
+**コメント
+#comment()

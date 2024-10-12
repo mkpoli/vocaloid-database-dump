@@ -1,0 +1,30 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1150_20121016185819_0280_0280.jpg)
+
+|&nicovideo(sm19192736)|&YouTube(http://www.youtube.com/watch?v=SDv-D6LTxbU){348,186}|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Robot Rock feat.初音ミク}|CENTER:[[The Rockafeller Skank feat.初音ミク]]|
+
+|&bold(){[[エレキP>BIGHEAD]]}|
+
+発売：2012年10月24日
+価格：￥150
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：AYAKO HISHINUMA
+
+**CD紹介
+-エレキPのカバーシングル。
+-ダフトパンクの同名曲のカバー。
+-「KARENT」と「ROTH ENTERTAINMENT」による共同レーベル、「Lip Sync Records」からのリリース第1弾となる。
+
+**曲目
++Robot Rock （feat. 初音ミク）
+
+**リンク
+-[[Lip Sync Records>>http://lipsync-records.jp]]
+-[[KARENT：「Robot Rock feat.初音ミク」>>http://karent.jp/album/1150]]
+
+**コメント
+#comment()

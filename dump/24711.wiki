@@ -1,0 +1,33 @@
+#right(){&furigana(clear) &furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm20226080)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Jukebox e.p.}|CENTER:[[ノンフィクションメモリーズ]]|
+
+|&bold(){[[綾葉（爽P）]]}|
+
+|流通|CENTER:即売|
+|発売|CENTER:2012年03月24日|
+|価格|CENTER:￥500|
+|サークル|CENTER:あやとり|
+
+
+**CD紹介
+>&bold(){もう、戻れない}
+-綾葉（爽P）待望の1stEP
+-自身最大のヒット作である「林檎の唄」を始め、新曲「NOTICE」など全5曲を収録。既存曲はすべてリファインされている。
+-アートワークやデザインは自身が担当している。奏者としてリプTONE氏やぐっじょぶ氏、でじでじ氏などを迎え、マスタリングをd_i_duke氏が担当している。
+-VOCALOIDオンリーイベント VOCALOID PARADISE 関西2にて配布。
+
+**曲目
++[[NOTICE]]
++[[マジックミラーシンドローム]]
++[[Squall>Squall/綾葉（爽P）]]
++[[ゴーストラプソディ]]
++[[林檎の唄]]
+
+**リンク
+-[[Twitter>>http://twitter.com/Ayaha3]]
+
+**コメント
+#comment()

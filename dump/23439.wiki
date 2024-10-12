@@ -1,0 +1,37 @@
+#right(){&furigana(Bらんち！)&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1482_20140313141746_0280_0280.jpg)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm19347479)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[あくとわんっ！]]|CENTER:&bold(){Bランチ！}|CENTER:[[CHAIR FOR TWO]]|
+
+|&bold(){[[パトリチェフ]]}|
+
+|流通|CENTER:即売|CENTER:同人|CENTER:配信|
+|発売|CENTER:2012年11月25日|CENTER:|CENTER:2014年4月9日|
+|価格|CENTER:￥500|CENTER:￥525（税込）|CENTER:￥600|
+|サークル|>|CENTER:パトリチェフ音楽工房||
+
+**CD紹介
+-未発表の新曲5曲で構成された鏡音ミニアルバム。
+-お手頃で聴きやすいミニアルバムを目指して作りました。（作者コメ転載）
+-ジャケットイラストを なた氏 が、デザインを 凰架氏 が、マスタリングを 吉田省吾氏 が手掛ける。
+-鏡音オンリーイベント「鏡音ねいろ！」や、THE VOC@LOiD M@STER 23（ボーマス23）で頒布。
+-とらのあなで委託販売が行われている。
+-2014年にはKARENTレーベルよりダウンロード販売が開始。配信版は「ツイステッド」を除いた全4曲構成となっている。
+
+**曲目
++サマーデイ
++トラフィックジャム
++暗号解読
++[[ツイステッド]]
++LOVAFUL
+
+**リンク
+-[[作者サイト>>http://patirchev.web.fc2.com/]]
+-[[とらのあな>>http://www.toranoana.jp/bl/article/04/0030/09/07/040030090736.html]]
+-[[KARENT：「Bランチ！」>>http://karent.jp/album/1482]]
+
+**コメント
+#comment()

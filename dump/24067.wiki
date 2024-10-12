@@ -1,0 +1,37 @@
+#right(){&furigana(まきゃう゛ぇり)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/30667175" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/30667175">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-2012年デビュー。使用ボーカロイドはCUL、GUMI。2013年からは鏡音リン・レンを使い始めた。
+-&bold(){青りんごカルP} と呼ばれることがある。
+-作詞、作曲、イラスト、動画制作と、すべてをこなす総合P
+
+**リンク
+-[[Twitter>>https://twitter.com/mmmmmacky]]
+-[[piapro>>http://piapro.jp/mmmmmacky]]
+
+**曲
+#list_by_tag(まきゃヴぇり,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(まきゃヴぇりCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm17075457)|&nicovideo(http://www.nicovideo.jp/watch/sm17221619)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm17647015)|&nicovideo(http://www.nicovideo.jp/watch/sm17868825)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm18299160)|&nicovideo(http://www.nicovideo.jp/watch/sm18740980)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm19150298)|&nicovideo(http://www.nicovideo.jp/watch/sm19589424)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm19636393)|&nicovideo(http://www.nicovideo.jp/watch/sm19966789)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm20434866)|&nicovideo(http://www.nicovideo.jp/watch/sm20757506)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm21452910)|&nicovideo(sm22938547)|
+|&nicovideo(sm23387242)|&nicovideo(sm24072004)|
+|&nicovideo(sm24691286)|&nicovideo(sm24818922)|
+|&nicovideo(sm25171927)|&nicovideo(sm26458685)|
+|&nicovideo(sm28065607)|&nicovideo(sm29200109)|
+|&nicovideo(sm30380596)|&nicovideo(sm31534303)|
+|&nicovideo(sm32486195)|&nicovideo(sm32927889)|
+|&nicovideo(sm33497626)|>|
+
+**コメント
+- いたいのいたいのとんでいけからループに入ってる。  -- マイル  (2017-10-17 22:42:33)
+#comment()

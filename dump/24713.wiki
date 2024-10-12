@@ -1,0 +1,32 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://24.media.tumblr.com/tumblr_lqu4ptS5HV1qf1xazo1_1314866246_cover.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){moji moji}|CENTER:[[刹那プラス+]]|
+
+|&bold(){[[みきとP>みきとP/作り手]]}|[[灯下はこ、]]|
+
+|流通|CENTER:即売|
+|発売|CENTER:2011年9月4日|
+|価格|CENTER:￥500（税込）|
+|サークル|CENTER:二人目の彼女|
+
+**CD紹介
+-みきとP の 1st EP 。
+-&bold(){——濃密なセンチメンタルギターに塗られた、ROCK全四曲です。}
+-ジャケットイラストを、本EP収録の楽曲 [[小夜子]] の動画イラストを担当した たえ氏 が手掛ける。
+-4曲目の作詞は 灯下はこ、氏。エンジニアは 友達募集P 。
+-THE VOC@LOiD M@STER 17にてリリースされた。
+
+
+**曲目
++[[小夜子]]
++東京○×△
++[[SECRET DVD]]
++若草物語
+
+**リンク
+-[[愛島工房（作者ホームページ）>>http://aijima-koubou.tumblr.com/]]
+
+**コメント
+#comment()

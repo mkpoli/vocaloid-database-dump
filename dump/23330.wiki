@@ -1,0 +1,16 @@
+#right(){&furigana()&furigana()【登録タグ:&tags()】}
+&nicovideo(http://www.nicovideo.jp/watch/sm17347136)
+作詞：[[WENTY]]
+作曲：[[WENTY]]
+編曲：[[WENTY]]
+唄：GUMI
+
+**曲紹介
+-WENTY氏の五作目。
+-テーマは『事象の始まり』
+-ほぼインストのような構成で、タイトルにもなっているように45秒の曲となっている。
+
+
+
+**コメント
+#comment()

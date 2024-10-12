@@ -1,0 +1,31 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1234_20130211144619_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[OYASUMI]]|CENTER:&bold(){ORBIS -remix-}|CENTER:[[OYASUMI too early to sleep mix]]|
+
+|&bold(){[[ブンガP]]}|
+
+発売：2013年3月13日
+価格：￥150
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：まんぎす
+
+|&bold(){[[iTunes Storeで購入する>>https://itunes.apple.com/jp/album/orbis-remix-single/id610221910]]}|
+
+**CD紹介
+-ブンガPこと、ラジオ・タイダルテール氏の配信シングル。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++[[ORBIS -remix->ORBIS]] （feat. 初音ミク）
+
+**動画
+&nicovideo(sm20032387)
+
+**リンク
+-[[KARENT：「ORBIS -remix-」>>http://karent.jp/album/1234]]
+
+**コメント
+#comment()

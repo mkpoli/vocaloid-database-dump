@@ -1,0 +1,38 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1233_20130209032804_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Delights!]]|CENTER:&bold(){RealitY}|CENTER:[[YUKARisky]]|
+
+|&bold(){[[ちょむP]]}|真雪|[[海兎]]|おがた|
+
+|流通|CENTER:即売|CENTER:配信|
+|発売|CENTER:2012年12月31日|CENTER:2013年2月27日|
+|価格|CENTER:￥1,000|CENTER:￥600 / 1曲￥150|
+|サークル|>|CENTER:ちょむ工房|
+
+|&bold(){[[iTunes Storeで購入>>]]}|
+
+**CD紹介
+-ちょむPの14作目となるボーカロイドCD。
+-ちょむ工房の冬コミ新譜は、RINとYUKARIの「RealitY」、 結月ゆかりと鏡音リンのふたりのボカロをフィーチャーした、ちょむＰのボカロオリジナル・アルバム14枚め。 しっとり系のゆかりさん、元気系のリンちゃんのコラボレーション。デュエットもあります！。
+-ジャケットイラストは零花氏。
+-コミックマーケット83（C83）で頒布。
+-KARENTレーベルよりダウンロード販売が行われている。配信版はTr.1からTr.6までの全6曲で『&bold(){RealitY S}』として販売されている。
+
+**曲目
++星屑ラグナロク / 結月ゆかり&鏡音リン （作詞：真雪）
++[[雷光のバレット]] / 結月ゆかり （作詞：ちょむP）
++Dead Time / 結月ゆかり&鏡音リン （作詞：海兎）
++限界Breaker (retake) / 結月ゆかり&鏡音リン （作詞：ちょむP）
++わかれみち / 結月ゆかり （作詞：おがた）
++ただいま / 鏡音リン （作詞：ちょむP）
++おまけ：おしゃべり
++～off vocal tracks
+
+**リンク
+-[[作者サイト>>http://chomstudio.com/]]
+-[[KARENT：「RealitY S」>>http://karent.jp/album/1233]]
+
+**コメント
+#comment()

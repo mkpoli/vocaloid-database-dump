@@ -1,0 +1,41 @@
+#right(){&furigana(いちれんたくしょう)&furigana()【登録タグ:&tags() 】}
+//&ref(http://img.toranoana.jp/img/04/0030/03/58/040030035801-1.gif)
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186120978.jpg,x=300,y=300)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){一レン托生！}|CENTER:[[レン戦レン勝！]]|
+
+|&bold(){[[キッドP]]}|&bold(){[[クリスタルP]]}|&bold(){[[れれれP]]}|[[残鏡P]]|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|>|CENTER:2012年4月28日|
+|価格|CENTER:￥500|CENTER:￥735（税込）|
+|サークル|>|CENTER:3レン腐|
+
+**CD紹介
+-キッドP、クリスタルP、れれれPによるユニット「3レン腐」の1stシングル。
+-ジャケットイラストはワカコヒメモエ氏。
+-THE VOC@LOiD 超 M@STER 20（超ボーマス20）にて初頒布。
+-とらのあなにて委託販売が行われている。
+
+**曲目
++Time Paradox / 鏡音レン
++-作詞：残鏡P　作曲：キッド　編曲：れれれP
++雨上がりのプリンス / 鏡音レン
++-作詞：残鏡P・キッド　作曲：れれれP　編曲：HzEdge(クリスタルP)
++ワン!ツー!!スリー!!! / 鏡音レン
++-作詞・作曲：れれれP　編曲：HzEdge(クリスタルP)
++blue or tears / 鏡音レン
++-作詞：HzEdge(クリスタルP)　作曲：キッド　編曲：れれれP
++Time Paradox (instrumental)
++雨上がりのプリンス (instrumental)
++ワン!ツー!!スリー!!! (instrumental)
++blue or tears (instrumental)
+
+**リンク
+-[[れれれPのブログ>>http://yaplog.jp/lelele-p/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/03/58/040030035801.html]]
+
+**コメント
+#comment()

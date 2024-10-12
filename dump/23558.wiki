@@ -1,0 +1,43 @@
+#right(){&furigana(ふじもとまき)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/25438368" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/25438368">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-2011年5月5日投稿の「[[サンゲツキ]]」でボカロPデビュー。
+-16作目の「[[女子高生チェーンソウデイズ]]」で初の殿堂入りを果たした。
+-現在殿堂入りしている曲は「女子高生チェーンソウデイズ」「[[ムテキノヒーロー]]」。
+-「カナブンP」というP名があるらしい。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/fujiphone]]
+-[[Twitter>>https://twitter.com/fujiphone]]
+-[[ブログ>>http://fujiphone38.blog41.fc2.com/]]
+-[[YouTube>>http://www.youtube.com/channel/UCoq5232l62L4SokEZqSOQEQ]]
+
+**曲
+#list_by_tag(藤本薪,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(藤本薪CD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm14363827)|&nicovideo(sm14516384)|
+|&nicovideo(sm14847215)|&nicovideo(sm15383821)|
+|&nicovideo(sm15633931)|&nicovideo(sm15697949)|
+|&nicovideo(sm16098164)|&nicovideo(sm16211016)|
+|&nicovideo(sm16322626)|&nicovideo(sm17009745)|
+|&nicovideo(sm17046382)|&nicovideo(sm17335849)|
+|&nicovideo(sm17482443)|&nicovideo(sm17988989)|
+|&nicovideo(sm18229981)|&nicovideo(sm18530690)|
+|&nicovideo(sm19109528)|&nicovideo(sm19217163)|
+|&nicovideo(sm19409645)|&nicovideo(sm19574641)|
+|&nicovideo(sm19736425)|&nicovideo(sm20235978)|
+|&nicovideo(sm20413016)|&nicovideo(sm20653878)|
+|&nicovideo(sm21084617)|&nicovideo(sm21665716)|
+
+**コメント
+- リストにないものを表示させたいのならば、そのページを作ってください  -- 名無しさん  (2013-01-12 18:53:52)
+- ネクラダンサーとかムテキノヒーローとか満身創痍とか好きなのになぁ・・・一発屋になっちゃったなぁ・・・残念  -- 名無しさん  (2013-08-07 14:14:05)
+- 大好き～～！  -- 名無しさん  (2013-08-25 17:36:28)
+- 芥川猫氏との作品はもう作んないのかねー　残念  -- 名無しさん  (2013-09-12 02:33:28)
+- ttp://instagram.com/p/h75CVwqv7i/# 大嫌いになったわ  -- 名無しさん  (2013-12-15 17:50:18)
+#comment

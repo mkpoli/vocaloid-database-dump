@@ -1,0 +1,119 @@
+#right(){&furigana(なはすかい)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm6301733)|
+作詞：[[andromeca]]
+作曲：[[andromeca]]
+編曲：[[andromeca]]
+唄：[[巡音ルカ]]・[[Sweet Ann]]・[[Prima]]
+
+**曲紹介
+曲名：『&u(){ナバスカイ}』
+-ルカ&Annの1曲目。
+--実はPrimaも混ざっている。
+-「ナバスカイ」＝「Nothing but sky」。
+
+**歌詞
+//（[[引用元のサイト>>引用元のURL]]より転載）
+//
+//英語歌詞が登録されていないのに歌詞未登録タグを外すのはやめて下さい。
+英語歌詞班募集中！
+
+（和訳をDeepl翻訳で英訳）
+
+I pull the elevator and raise the nose. I can't feel it anymore.
+You push up on the throttle and follow the shadow of the plane. There's nothing to fear.
+You don't want to miss a thing, not even the slightest change. Keep your eyes moving.
+Safety off, right hand on the trigger.
+
+I want to fly forever.
+Crashing. I don't want to crash on the ground like this.
+Humans are so inept, they'll never see it coming.
+They're bound by the shackles of gravity
+
+There's nothing but sky
+But it's free and there's nothing to get in the way
+There is nothing but sky.
+That's why this place makes me pure, there's no deception
+It's always the same, nothing is there, so I can't help but smile.
+
+I'll aileron down, rudder down, and I'll be one with all the currents.
+Increase the speed, avert all danger, don't panic.
+Never stop, never let up, not even for a second.
+A dancing maneuver. Left hand on the throttle.
+
+Stall. I just want to be free.
+Stall, the plane is flowing with reason.
+The world is simpler than we thought, and we knew it.
+The world through the canopy was sadly beautiful
+
+There's nothing but sky
+But there's no baggage to live with, no reason for it
+There is only the sky.
+It makes the purpose of life simple, and there's no deception.
+I always want to come back here because there's nothing there.
+
+There is nothing but sky.
+But it's where I get my sustenance, and nothing can take that away from me.
+There is only the sky.
+That's why this place makes me pure, and there's no deception.
+It's always the same, there's nothing there, so you can cram anything into it.
+
+Translated with DeepL.com (free version)
+
+***和訳（公開歌詞）
+エレベーターを引き機首を上げる　感覚は既にない
+スロットルを押し上げ機影を追う　恐れるものは何もない
+些細な変化も見逃すな　眼を常に動かせ
+安全装置を外し　右手がトリガーを引く
+
+撃墜　このまま永遠に飛んでいたい
+墜落　このまま地上に墜ちたくない
+人間はとても不出来だ　彼らは決して気づかないだろう
+重力という名の足かせに縛られているのだから
+
+そこには空しかない
+だけどそこは自由で　邪魔をするものもない
+そこには空だけがある
+だからここは私を純粋にさせ　ごまかしもきかない
+いつもそうだ　何もないから　思わず笑みがこぼれた
+
+エルロンを倒しラダーを踏む　全ての流れに同化する
+速度を上げて　総ての危機を回避しろ　慌てる必要はない
+常に操作を止めず　ひとときも気を抜くな
+ダンスのようなマニューバ　左手のスロットルを引き下げた
+
+ストール　このまま解放されたい
+ストール　機上は理由に流れている
+人間はもっとシンプルだ　それを知っていたというのに
+キャノピーから見える世界は悲しいほどに綺麗だった
+
+そこには空しかない
+だけどそこは生きるための荷物もなく　その理由もない
+そこには空だけがある
+ここは生きる目的をシンプルにさせ　ごまかしもきかない
+いつもそうだ　何もないからまたここに戻ってきたいと思う
+
+そこには空しかない
+だけどそこで生きる糧をもらい　それを奪うものはない
+そこには空だけがある
+だからここは私を純粋にさせ　ごまかしもきかない
+いつもそうだ　何もないから　何でも詰め込めるんだ
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+**コメント
+//- 追加おつ！  -- 名無しさん  (2012-10-22 23:01:25)
+- 歌詞が書いてないのに「歌詞未登録」タグを剥がすのはやめてください。  -- 名無しさん  (2013-05-10 19:33:54)
+- 今載っているものは和訳です。英語歌詞が登録されていないのに歌詞未登録タグを外すのはやめて下さい  -- 名無しさん  (2018-12-05 22:28:47)
+- タグを「歌詞未登録」から「内容未登録」へ変更しました。  -- 名無しさん  (2022-01-05 13:08:31)
+- 和訳しかないのはなぜ...  -- 名無しさん  (2023-06-14 13:22:50)
+#comment()
+
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)

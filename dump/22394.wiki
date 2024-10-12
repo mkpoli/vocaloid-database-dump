@@ -1,0 +1,32 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1086_20120713200357_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Passing Season>Passing Season/CD]]|CENTER:&bold(){Turn Back Time}|CENTER:[[アグレマティック>アグレマティック/CD]]|
+
+|&bold(){[[shu-tP]]}|
+
+発売：2012年8月1日
+価格：￥600 / 1曲￥150
+流通：配信
+レーベル：KARENT
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/turn-back-time-ep/id547157673]]}|
+
+**CD紹介
+-shu-tPの配信EP。
+-新曲「[[Turn Back Time]]」とそのインスト、「[[Gentle Wind]]」のSweetAnnバージョン、インスト曲を収録した4曲入り。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++[[Turn Back Time]] （feat. MEIKO&Lily）
++[[Gentle Wind]] （feat. SweetAnn）
++Meet Again
++Turn Back Time -Instrumental mix-
+
+**リンク
+-[[KARENT：「Turn Back Time」>>http://karent.jp/album/1086]]
+-[[Flow@Time（作者ブログ）>>http://shu-t.sonic-wave.net/]]
+
+**コメント
+#comment()

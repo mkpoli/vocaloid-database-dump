@@ -1,0 +1,29 @@
+#right(){&furigana(らくとばちるすかぜいしろたP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/23241050" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/23241050">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-投稿者名はシロ。
+-音楽制作サークル「墨染めサウンド」のメンバーである。
+-Ｐ名の由来はヤクルトの中に含まれている菌の名前から。
+-ＰＶは作者の友人である[[ちょっとやる気を出した友人P]]が手掛けている。
+-乳製品にちなんだネタ曲の印象が強いが、真面目な曲も手掛ける。
+
+**リンク
+-[[墨染めサウンドホームページ>>http://sumi-zome.com/]]
+-[[作者ブログ>>http://ameblo.jp/sumi-zome]]
+
+**曲
+#list_by_tag(ラクトバチルスカゼイシロタP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(ラクトバチルスカゼイシロタPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm13332881)|&nicovideo(sm13356192)|
+|&nicovideo(sm13412164)|&nicovideo(sm13476557)|
+|&nicovideo(sm13812537)|&nicovideo(sm13928128)|
+
+**コメント
+//- １こめげと！
+- 何故乳製品多しｗｗｗ  -- 名無しさん  (2013-04-22 19:38:08)
+#comment()

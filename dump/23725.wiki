@@ -1,0 +1,95 @@
+#right(){&furigana(WalkingonSunshine)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm19542290)|
+作詞：[[あきてる]]
+作曲：[[むつきれびん]]
+編曲：[[むつきれびん]]
+イラスト：[[まりる]]
+動画：[[piro]]
+唄：[[IA]]
+
+**曲紹介
+曲名：『&u(){Walking on Sunshine}』(&u(){うぉーきんぐ　おん　さんしゃいん})
+-むつきれびん氏 の3作目。
+-今日も目が覚めたら12時過ぎでした (´‐ω‐）=з 寒いですが天気の良い日はお散歩したいですね☆（作者コメい転載）
+
+**歌詞
+
+change my life　うまくいかなくて
+make my song　不協和音だらけで
+これじゃ　ダメだな
+
+夢は黄昏　追われる日々で
+ただ白いばかりのdiary
+
+馬鹿な落書き　重ねてばかり
+押し入れの sweet memories
+
+目が覚めたら　12時過ぎ
+今日は日曜日　特に予定もないんだし
+
+walking on sunshine　たまにはさ
+look up in the sky　真っ青な
+walking in my wolrd　気の向くまま
+searching for good news　あるかな？
+
+change my life　うまくいかなくて
+sing sing song　歌って気晴らしして
+lalalala　lalalalala...
+
+角の花屋と　ボーリング場
+知らぬ間に無くなり melancholy
+
+変わらぬようで　変わり続けて
+ためらいの non stop road
+
+終わることの　やるせなさを
+何度感じても　変わりたいのは変われない
+
+walking on sunshine　たまにはさ
+go to unknown road　まっさらな
+walking in my wolrd　風吹くまま
+goodbye gloomy days　できたら
+
+change my life　うまくいかなくて
+make my song　不協和音だらけで
+
+3、2、1 で　ハイジャンプ
+ネガティブ思考　飛び越えてく
+3、2、1 で　猛ダッシュ
+イメージくらい　大袈裟に
+
+step by step　step by step
+day by day　day by day
+go to meet　go to meet
+special one　special one
+
+walking on sunshine　たまにはさ
+look up in the sky　真っ青な
+walking in my wolrd　気の向くまま
+searching for good news　あるはず
+
+walking on sunshine　この足で
+go to my road　はじめて抱いて
+walking in my wolrd　心のまま
+goodbye gloomy days　きっと
+
+change my life　うまくいくように
+sing sing song　歌うよ願うように
+lalalala　lalalalala　lalala
+lu　lulululu　tululululu...
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+**コメント
+- 聞けない...  -- 名無しさん  (2018-05-19 16:37:42)
+#comment()
+
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)

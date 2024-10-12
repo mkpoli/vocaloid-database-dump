@@ -1,0 +1,51 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+#ref(http://img.toranoana.jp/popup_img/04/0030/05/25/040030052573-1p.jpg,width=250,height=250)
+
+
+&nicovideo(http://www.nicovideo.jp/watch/sm18173118)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Qusic]]|CENTER:&bold(){Qusic2}|CENTER:-|
+
+|[[悠然]]|[[あるごりずむ]]|[[オレジナルP]]|[[toya]]|[[整列P]]|[[カニミソP]]|
+|[[古墳P]]|[[longan]]|[[ジラートP]]|[[ベーコンP]]|[[山本ニュー]]|[[あーすP]]|
+|[[びーびったP]]|[[立秋]]|[[ぼーらこいどP]]|[[どなたかP]]|[[Renon]]|[[keeno]]|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|CENTER:2012年7月8日|CENTER:2012年7月8日|
+|価格|CENTER:￥1,000|CENTER:￥1,575(税込)|
+|サークル|>|CENTER:TRUE SAND RECORD|
+
+**CD紹介
+>&bold(){Qusic再び…}
+-九州（周辺）のボカロP・絵師・動画師・web師が集い贈る、九州コンピレーションアルバム。その第2弾。
+-前回とは参加メンバーががらりと入れ変わって･･･ないかもしれない（ry が、更に Power Up している。
+-ジャケットイラストは eruri氏 が手掛ける。
+-THE VOC@LOiD M@STER 21（ボーマス21）にてリリース。
+-とらのあなで委託販売が行われていた。
+
+**曲目
++Thank you　/　悠然
++マイアの憂鬱　/　RigeL@あるごりずむ
++[[優刻の街]]　/　オレジナルP（作詞：[[toya]]）
++[[NORTH MARINE EXPRESS]]　/　整列P
++A　/　かにみそP
++[[少女夜行]]　/　古墳P（作詞：[[longan]]）
++鈍色の風　/　ジラートP
++[[絶望的ポップ]]　/　ベーコンP（作詞：[[山本ニュー]]）
++愛・I・ランラン　/　あーす
++デスクトップファンタジカ　/　びーびったP
++[[あの夏の日の唄]]　/　コトノハルカナ
++それは涙に似た　/　ぼーらこいどP
++[[rockan]]　/　どなたかP
++[[君と僕を繋ぐ空]]　/　Renon
++[[drop>drop/keeno]]　/　keeno
+
+**リンク
+-[[公式HP>>http://truesandrecord.web.fc2.com/qusic2/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/05/25/040030052573.html]]
+
+**コメント
+- ほしい！  -- 名無しさん  (2012-07-08 10:16:21)
+- 買った！絶望的ポップが良かった！  -- 名無しさん  (2015-09-09 00:32:07)
+#comment

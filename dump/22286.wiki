@@ -1,0 +1,36 @@
+#right(){&furigana(ごぼうめん) &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/28171631" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/28171631">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-1987年11月18日生まれ、新潟県村上市出身。
+-元々はギタリスト、ベーシストとしてバンド活動していたが、2011年9月からボカロPとしての活動を始めた。
+-処女作は2011年10月投稿の「[[迷路]]」。
+-使用VOCALOIDはIA・初音ミク。CeVIOのOИEも使用している。
+-「[[現実的論理主義者]]」で自身初の殿堂入りを達成した。
+-名前のゴボウメンは、そのまま「牛蒡男」らしい。
+-好きな色は黄色。
+
+**リンク
+-[[日記（作者ブログ）>>http://goboumen.blog.fc2.com/]]
+-[[Twitter>>https://twitter.com/yellow_goboumen]]
+-[[YouTube>>https://www.youtube.com/@goboumen9267/]]
+
+**曲
+#list_by_tag(ゴボウメン,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(ゴボウメンCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm15781052)|&nicovideo(http://www.nicovideo.jp/watch/sm15864872)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm16091333)|&nicovideo(http://www.nicovideo.jp/watch/sm16197502)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm16317866)|&nicovideo(http://www.nicovideo.jp/watch/sm16447290)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm17191781)|&nicovideo(http://www.nicovideo.jp/watch/sm17440003)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm17810444)||
+
+**コメント
+- 追加乙です「現実的論理主義者」大好きです！  -- 名無しさん  (2012-07-21 03:26:25)
+- ゴボウメンさんの曲大好きです！！これからも頑張ってください！！  -- こけし少女☆  (2013-02-05 15:02:10)
+- センスと切り返しが良くて凄く好きです。  -- 阿保面  (2013-03-27 18:31:44)
+- 新曲でないかなぁ・・？  -- こけし少女☆  (2013-04-08 11:10:36)
+#comment()

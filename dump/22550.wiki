@@ -1,0 +1,27 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){GROLY DAYS}|CENTER:-|
+
+|&bold(){[[POKOTONE]]}|
+
+発売：2012年8月11日
+価格：￥300（税込）
+流通：即売
+サークル：POKOTONE
+
+**CD紹介
+-POKOTONE夏コミ初参加での1stCD。
+-ボーナストラックにはMusic Maker 作曲コンテスト2010の受賞曲を収録。
+
+**曲目
++GLORY DAYS
++HELLO
++サクラミライ
++羽[bonus track]
+
+**リンク
+-[[作者ブログ>>http://profile.ameba.jp/wan-wan-paradise/]]
+
+**コメント
+#comment()

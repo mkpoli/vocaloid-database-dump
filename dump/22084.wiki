@@ -1,0 +1,32 @@
+#right(){&furigana(さよならをきかせてよ)&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1061_20120610133025_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[ぶりる帝國の逆襲]]|CENTER:&bold(){さよならを聞かせてよ}|CENTER:[[最終鬼畜少女>最終鬼畜少女/CD]]|
+
+|&bold(){[[ぶりるP]]}|korumi|[[すだち]]|
+
+発売：2012年6月26日
+価格：￥300 / 1曲￥150
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：[[るみあ>>http://piapro.jp/runa1125]]
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/say-me-sayonara-single/id537539017]]}|
+
+**CD紹介
+-ぶりるPの配信シングル。
+-アルバム『[[ぶりる帝國の逆襲]]』から、「さよならを聞かせてよ」と「ANTI WHITE STORY」のGUMI曲2曲を収録している。
+-KARENTレーベルの、メグッポイド発売3周年記念企画で配信された作品の1つ。
+
+**曲目
++[[さよならを聞かせてよ]] （feat. メグッポイド）
++[[ANTI WHITE STORY]] （feat. メグッポイド）
+
+**リンク
+-[[作者サイト>>http://artical-riddim.net/]]
+-[[KARENT：「さよならを聞かせてよ」>>http://karent.jp/album/1061]]
+-[[メグッポイド3周年記念祭>>http://karent.jp/special/megpoid12]]
+
+**コメント
+#comment()

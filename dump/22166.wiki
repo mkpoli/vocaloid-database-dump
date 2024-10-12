@@ -1,0 +1,36 @@
+#right(){&furigana(ほしめぐりのワルツ)&furigana()【登録タグ:&tags() 】}
+//&ref(http://img.toranoana.jp/popup_img/04/0030/04/20/040030042053-1p.jpg,,height=300)
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186119379.jpg,x=300,y=300)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){星巡りのワルツ}|CENTER:-|
+
+|&bold(){[[ココアシガレットP]]}|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2012年4月28日・29日|CENTER:2012年5月1日|
+|価格|CENTER:￥500|CENTER:￥751（税込）|
+|サークル|>|CENTER:imagesDawn|
+
+**CD紹介
+>&bold(){キラキラの君に会いに　行きたいなあ}
+-[[VOCAJAZZコンピ01>the VOCAJAZZ vol.1]]・[[02>the VOCAJAZZ vol.2]]収録曲「[[星巡りのワルツ]]」・「ニジイロ」は、再度ミックスをやり直したリマスタリング盤。
+-また、ボーナストラックとしてこの2曲のピアノバージョンを収録。
+-このピアノバージョンは、このCD限定収録曲。
+
+**曲目
++[[星巡りのワルツ]]
++ニジイロ
++星巡りのワルツ off vocal
++ニジイロ off vocal
++星巡りのワルツ piano ver
++ニジイロ piano ver
+
+**リンク
+-[[特設サイト>>http://www.imagesdawn.com/contents/hoshimeguri/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/04/20/040030042053.html]]
+
+**コメント
+- これは良い曲・・・泣いた  -- 名無しさん  (2015-01-15 19:29:07)
+#comment()

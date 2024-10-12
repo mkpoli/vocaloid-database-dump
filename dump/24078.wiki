@@ -1,0 +1,33 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/23618447" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/23618447">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-ボカロPとしてのデビューは2011年02月04日投稿の[[モチベーション]]
+-バンドとしては10年以上前から活動しており、ゲームへの楽曲提供も行っていた(当然ながらTEPPAN氏本人が歌っている)
+--2002年発売の「ファントムクラッシュ」に「[[ターボ最高]]」「[[革命君]]」等を提供　[[参考>>http://www.nicovideo.jp/watch/sm3287178]]
+--2005年発売の上記作品の続編「S.L.A.I -STEEL LANCER ARENA INTERNATIONAL-」に「[[ターボ最高]]」等を提供　[[参考>>http://www.nicovideo.jp/watch/sm2127699]]
+--「[[ターボ最高]]」「[[宵闇に月想]]」はTEPPAN氏本人がライブで歌っている動画をYouTubeで視聴できる　参考:[[ターボ最高>>http://www.youtube.com/watch?v=3MvSNd_9NIM]]、[[宵闇に月想(※音割れがひどいので音量に注意)>>http://www.youtube.com/watch?v=Zzuh9OST9sg]]
+
+**リンク
+-[[TEPPAN OFFICIAL SITE>>http://www7b.biglobe.ne.jp/~teppandesu/]]
+-[[TEPPAN二の腕クラブ(ブログ)>>http://ameblo.jp/teppan7/]]
+-[[TEPPAN Official(YouTubeチャンネル)>>http://www.youtube.com/user/teppanofficial]]
+-[[PIAPRO>>http://piapro.jp/teppan_ninoude]]
+
+**曲
+#list_by_tag(TEPPAN,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(TEPPANCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm13497413)|&nicovideo(sm13914043)|
+|&nicovideo(sm14700702)|&nicovideo(sm14893776)|
+|&nicovideo(sm15490634)|&nicovideo(sm16279748)|
+|&nicovideo(sm16445962)|&nicovideo(sm18361932)|
+|&nicovideo(sm18938921)|&nicovideo(sm19465651)|
+
+**コメント
+- コメント0とは解せぬ  -- 名無しさん  (2014-10-18 20:06:05)
+- いいよね  -- 名無しさん  (2014-10-20 00:18:45)
+#comment()

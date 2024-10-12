@@ -1,0 +1,49 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://img.toranoana.jp/img/04/0020/03/13/040020031367-1.gif)
+
+&nicovideo(sm15236339)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[HAYABUSA -The Legacy-]]|CENTER:&bold(){SPIKE -まるくなる設定資料集-}|CENTER:[[DIVINE -神曲-]]|
+
+|&bold(){[[SHO（キセノンP）]]}|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|>|CENTER:2011年8月13日|
+|価格|CENTER:￥1,000|CENTER:￥1,470（税込）|
+|サークル|CENTER:XM|CENTER:タコ壺&XM|
+
+**CD紹介
+-サークルXMの2ndアルバムは、[[ねこむら>ねこむら/絵師]]氏とのコラボ作品。
+-キセノンPの代表曲「[[まるくなる]]」の世界観を、楽曲とイラストで解説する、ファン必携の資料集。
+-コミックマーケット80（C80）で初頒布。
+-各同人ショップにてで委託販売が行われている。
+
+**曲目
++[[SPIKE]] / Vocal:Miku
++NECO NECO ROCK'N ROLL / Vocal:Len
++JUNK / Vocal:Rin
++[[たまごかけごはん]] / Vocal:Miku
++[[可哀想・シンドローム]] / Vocal:Luka
++[[コイはフィッシング]] / Vocal:Miku
++DESTROYING ANGELS / Vocal:Rin,Luka
++THE LAST CHAPTER OF WAR ACCOUNTS / Vocal:Miku,Rin,Len,Luka,Gakupo,Gumi
++[[まるくなる]] / Vocal:Miku
++まるくなる(Piano Arrange)
++NECO NECO ROCK'N ROLL / Vocal:Miku
++NECO NECO ROCK'N ROLL / Vocal:Rin
++NECO NECO ROCK'N ROLL / Vocal:Luka
++NECO NECO ROCK'N ROLL / Vocal:Gumi
++可哀想・シンドローム (Another Mix) / Vocal:Gumi,Gakupo
++SPIKE(Another Mix) / Vocal:Gakupo
+
+**リンク
+-[[サークルサイト>>http://sound.jp/xenonmaiden/html_j/entrance.html]]
+-[[作者ブログ>>http://xenonp.dou-jin.com/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0020/03/13/040020031367.html]]
+-[[D-STAGE>>http://d-stage.com/shop/detail.php?seq=23187]]
+-[[あきばお～こく>>http://www.akibaoo.com/02/commodity_param/t/0/ctc/+/shc/0/cmc/2500020202630/backURL/+02+main]]
+
+**コメント
+- the last chapter of war accountsのpvがみてみたい。　ほしいな～  -- 雪女  (2013-03-30 11:59:35)
+#comment()

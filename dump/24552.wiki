@@ -1,0 +1,60 @@
+#right(){&furigana(へんたいおうしP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/32915352" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/32915352">【ニコニコ動画】見世物小屋</a></iframe>)|
+
+**特徴
+作り手名：『&u(){変態王子P}』（&u(){へんたいおうじP}）
+-&bold(){久遠ゆん}、&bold(){Ryo}によるVOCALOID楽曲製作ユニット。
+--両者共に同人音楽界隈で活動しており、そのコネを作品に反映することも。
+#region(close,メンバー詳細)
+***メンバー詳細
+&bold(){久遠ゆん}：作詞・動画製作・ボーカル・トータルディレクターを担当。&br()自身のユニットは鬱系ダークロックユニットを自称している。以前は&bold(){Alieson}という同人サークルに所属していたが2012年をもってAliesonとしては活動を休止している。
+
+&bold(){Ryo}：作曲・編曲・ボカロ調声・ギター・ベース・ボーカルを担当。&br()&bold(){Ether}という同人サークルの主催。以前は女性ボーカルと組んでいたが、現在はソロユニットとして活動。「&bold(){深眠症-insomnia-}」名義でヒーリングミュージックも製作をしている。
+
+#endregion
+-2012年7月、「[[Prince Of Necrophilia]]」にてデビュー。
+-使用合成音声は[[がくっぽいど]]、[[IA]]。
+-P名の由来は「[[Prince Of Necrophilia]]」の主人公が屍姦趣味の変態王子だったため。
+--少なくとも久遠ゆんは変態であること自体は否定しなかった。
+-VOCALOID曲を作るうえでのテーマは&bold(){「ボカロは人に近づけたい。人は機械に近づけたい」}。
+
+**リンク
+//-個人HP、PIAPRO、YouTube等ある場合は、ここに。当wiki以外のサイトへリンクを貼る場合は必ず「>>」で別ウインドウでリンクしてください。
+-[[ニコニコ動画>>https://www.nicovideo.jp/user/201802]]
+//-[[YouTube>>https://www.youtube.com/]]
+//-[[piapro>>https://piapro.jp/]]
+//-[[Twitter>>https://twitter.com/]]
+-&s(){[[ブログ（久遠ゆん）>>https://ameblo.jp/yunkudo/]]}
+-[[ブログ（EtherRyo）>>https://ameblo.jp/etherryo]]
+
+**曲
+#list_by_tag(変態王子P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(変態王子PCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm18371537)|&nicovideo(sm19854108)|
+
+**関連タグ内の更新履歴
+#region(close,関連タグ内の更新履歴)
+関連タグ内の更新履歴
+※「変態王子P」「変態王子PCD」タグ内で最近編集やコメントのあった記事を新しい方から10件表示しています。
+#list_by_tagsearch(変態王子P,変態王子PCD,sort=timestamp,sort2=desc,errmsg=まだ曲、CDが登録されていません。,or,10)
+#endregion
+
+**コメント
+//- おお！作成乙です１  -- 名無しさん  (2013-02-16 21:13:20)
+- &co(){作成乙ですー！}この人達の曲好き♪  -- 名無しさん  (2013-02-16 21:41:47)
+- &co(){作成乙です!}Prince(ryがすごく好きです!  -- 名無しさん  (2013-02-20 06:06:50)
+- P名これで決まったんですねｗｗ  -- 名無しさん  (2013-02-22 18:24:09)
+- V3がっくんで聞いて惚れました。これからの曲も楽しみです!  -- 名無しさん  (2013-03-17 11:54:02)
+- ↑2可愛らしいP名ですよね!  -- 名無しさん  (2013-03-31 13:11:05)
+- 屍姦趣味の変態が何故あんなにかっこいいのか疑問  -- 名無しさん  (2013-06-22 11:37:24)
+//- 変態。  -- 名無しさん  (2014-01-15 13:27:34)
+//- 変態、スケベ。  -- 名無しさん  (2014-10-02 19:34:40)
+#comment()

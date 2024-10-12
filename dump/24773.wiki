@@ -1,0 +1,50 @@
+#right(){&furigana(さといも)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/17563642" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/17563642">【ニコニコ動画】</a></iframe>)|&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/13011623" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/13011623">【ニコニコ動画】</a></iframe>)|
+
+**特徴
+作り手名：『&u(){さといも}』
+-P名は「天宝石P」。
+-昭和の香り漂う懐かしい曲調を得意とする。
+-ＤＴＭ歴は十数年と長く、カバー曲でもオケは自作している。
+-使用するボーカロイドはMEIKO、初音ミク、鏡音リン、KAITO、神威がくぽ、猫村いろは、氷山キヨテル、キヨテルV4、開発コードmiki、歌愛ユキ、巡音ルカ、Lily V3、結月ゆかり、GUMI、CUL、ZOLA PROJECT、東北ずん子、kokone、メルリ、音街ウナ、継星あかり。
+-作詞の[[薪原あすみ]]氏と絵師の[[富夫]]氏のユニット「めーぷる・ぷりん」と共に、「チームハルモニア」を結成した。
+-「ハルモニア」は女子高生「里宮めいこ」を主人公とした物語であり、薪原あすみ氏がストーリー、さといも氏が楽曲、富夫氏がイラストを担当している。
+-ちなみに里宮めいこの誕生日は11月17日。これは作者最初のオリジナル曲「[[れもん・ショコラ]]」の投稿日に由来する。
+-2012年6月に作詞を担当する薪原あすみ氏と結婚。めでたく夫婦となった。
+
+**リンク
+-[[チームハルモニアのページ>>https://satoimo.vocalo.me/]]
+//-[[さといも@天宝石Pのブロマガ（ブロマガ）>>http://ch.nicovideo.jp/msatoimo]]
+-[[PIAPRO>>https://piapro.jp/miy10341]]
+//-[[OKMusic>>http://okmusic.jp/#!/user/1387]]
+-[[YouTube>>https://www.youtube.com/user/msatoimo]]
+-[[twitter>>https://twitter.com/m_satoimo]]
+
+**曲
+#list_by_tag(さといも,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(さといもCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**オリジナル曲
+|&nicovideo(sm8837528)|&nicovideo(sm9157141)|
+|&nicovideo(sm9581086)|&nicovideo(sm9655351)|
+|&nicovideo(sm10393283)|&nicovideo(sm11964394)|
+|&nicovideo(sm12617997)|&nicovideo(sm12647782)|
+|&nicovideo(sm13559293)|&nicovideo(sm14160546)|
+
+**カバー曲
+|&nicovideo(sm7172504)|&nicovideo(sm7323553)|
+|&nicovideo(sm7595442)|&nicovideo(sm7899598)|
+|&nicovideo(sm8694096)|&nicovideo(sm9258826)|
+|&nicovideo(sm10610430)|&nicovideo(sm11209675)|
+|&nicovideo(sm11391806)|&nicovideo(sm11788948)|
+
+**コメント
+- いい曲多いのになんで伸びないのかな  -- ゆみこ  (2013-03-21 20:15:04)
+- さといもさんの曲は、昭和風のアレンジが最高です。時代が時代なら、プロとして活躍しててもおかしくない人だと思います。  -- 竜奇  (2013-07-04 09:50:16)
+#comment()

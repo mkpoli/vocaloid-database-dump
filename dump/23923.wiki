@@ -1,0 +1,33 @@
+#right(){&furigana(しききょういん)&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1186_20121203195150_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[しせつかんや]]|CENTER:&bold(){四季郷音}|CENTER:[[漓江煙雨]]|
+
+|&bold(){[[solpie]]}|
+
+発売：2012年12月18日
+価格：￥600 / 1曲￥150
+流通：配信
+イラスト：紅abit
+
+|&bold(){[[iTunes Storeで購入する>>https://itunes.apple.com/jp/album/ancient-seasons-ep/id587745480]]}|
+
+**CD紹介
+-solpie氏の配信ミニアルバム。
+-故郷の四季を描いた4曲を収録。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++無題春風 （feat. 初音ミク）
++[[茉莉紗雨]] （feat. 初音ミク）
++[[曉秋月明]] （feat. 初音ミク）
++[[祀雪關夜>しせつかんや]] （feat. 初音ミク&鏡音レン）
+
+**リンク
+-[[KARENT：「四季郷音」>>http://karent.jp/album/1186]]
+-[[PIAPRO>>http://piapro.jp/solpie]]
+
+**コメント
+- いいね！！  -- aima  (2014-01-07 20:34:47)
+#comment()

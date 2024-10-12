@@ -1,0 +1,29 @@
+#right(){&furigana(clear)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/27794878" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/27794878">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-2011年7月、ボカロインスト曲の「[[脳裏を過るElysium]]」にてデビュー。
+-使用ボカロは今のところ、初音ミク・猫村いろは・GUMI・IA。
+-[[Neru]]氏 や [[アキバヲタP]] や [[りゅうせー]]氏 などと親交があり、コラボ作などもこれまでに多数リリースしている。
+
+**リンク
+-[[Twitter>>http://twitter.com/posaunee]]
+
+**曲
+#list_by_tag(ざうに,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(ざうにCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/nm15043910)|&nicovideo(http://www.nicovideo.jp/watch/nm15355420)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm15742901)|&nicovideo(http://www.nicovideo.jp/watch/sm16265317)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm16451145)|&nicovideo(http://www.nicovideo.jp/watch/sm17153408)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm18639935)|&nicovideo(http://www.nicovideo.jp/watch/sm18783507)|
+
+**コメント
+- 記事できてる！ざうにさんの曲綺麗で壮大で大好きですお誕生日おめでとうございます！  -- 名無しさん  (2012-11-11 09:16:03)
+- この人の曲のタイトルかっけえ  -- 名無しのごんべえ  (2012-11-12 18:51:14)
+- 久しぶりにニコ動に戻ったんだけど、ざうにさんの曲が更新されてなくて残念。もう投稿しないのかな…？  -- 名無しさん  (2015-07-16 08:13:45)
+- 谺、碧海、那由多を見定むアグラフォノスの詩篇にときめいた私ですが、ざうにさんファンの素人ですぅ！もっと頑張るので、宜しくお願いしますぅ！  -- ボカロ愛し隊1号  (2016-11-02 22:18:23)
+#comment()

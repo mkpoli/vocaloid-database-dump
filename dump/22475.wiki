@@ -1,0 +1,63 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#amazon(B008EHHN56)
+CD版ジャケット
+|&ref(http://karent.jp/npdca/1089_20120717172248_0280_0280.jpg)&br()配信版ジャケット|
+
+&nicovideo(sm18247319)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[8秒]]|CENTER:&bold(){IVVVI}|CENTER:[[Your]]|
+
+|&bold(){[[AVTechNO]]}|[[Dog tails]]|祭屋|/SAKURA|
+
+||CENTER:即売|CENTER:通販|CENTER:配信|
+|発売|>|CENTER:2012年7月19日|CENTER:2012年8月2日|
+|価格|CENTER:|CENTER:￥1,980（税込）|CENTER:￥1,200 / 1曲￥150|
+|サークル|>|CENTER:AVTechNO!||
+
+**CD紹介
+-AVTechNO!氏の4作目となるCD作品。
+-読み方は「ヨンゴウロク」。
+-ジャケットは[[吉田ドンドリアン]]氏（CD版）と和音氏（配信版）。
+-THE VOC@LOiD M@STER 21（ボーマス21）で頒布。Amazonで委託販売が行われている。
+-KARENTレーベルよりダウンロード販売も行われているが、ジャケット・曲順・曲数が異なっている。
+-また、上記の配信版に未収録のインスト3曲と「COMPRESSOR」と「CRYONICS」のOff Vocalを収録した『&bold(){IVVVI INST}』のダウンロード販売も別に行われている。
+
+**曲目
+***CD版
++[[Tear>(っ*'ω'*c)]]（Dog tails tearless Remix） （feat. 初音ミク）
++DISSONANCE （feat. 初音ミク）
++[[ENCRYPTION/D>Encryption - D]] （feat. 巡音ルカ）
++[[LIMITER]] （feat. 巡音ルカ・鏡音レン）
++COMPRESSOR （feat. 巡音ルカ）
++[[CRYONICS]] （feat. 鏡音リン）
++[[アDVAnCEテCHノ]] （feat. 巡音ルカ・初音ミク）
++1N5T×ENCRYPTION/D （feat. 巡音ルカ）
++[[LUST DOLL]] （feat. 鏡音リン）
++[[NEXT>NEXT/AVTechNO]] （feat. 巡音ルカ）
++1N5T
++1N5T2
++時 （feat. 初音ミク）
++GRANDIOSO
+
+***配信版
++[[アDVAnCEテCHノ]] （feat. 巡音ルカ・初音ミク）
++[[LIMITER]] （feat. 巡音ルカ・鏡音レン）
++DISSONANCE （feat. 初音ミク）
++COMPRESSOR （feat. 巡音ルカ）
++[[NEXT>NEXT/AVTechNO]] （feat. 巡音ルカ）
++時 （feat. 初音ミク）
++[[CRYONICS]] （feat. 鏡音リン）
++[[LUST DOLL]] （feat. 鏡音リン）
++[[ENCRYPTION/D>Encryption - D]] （feat. 巡音ルカ）
++1N5T×ENCRYPTION/D （feat. 巡音ルカ）
++[[Tear>(っ*'ω'*c)]]（Dog tails tearless Remix） （feat. 初音ミク）
+
+**リンク
+-[[作者サイト>>http://avtechno.ukime.org/]]
+-[[特設ページ>>http://avtechno.ukime.org/456.html]]
+-[[Amazon.co.jp>>http://www.amazon.co.jp/dp/B008EHHN56/]]
+-[[KARENT：「IVVVI」>>http://karent.jp/album/1089]]
+
+**コメント
+#comment()

@@ -1,0 +1,34 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://img.toranoana.jp/img/04/0030/09/29/040030092978-1.gif)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm19518366)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Flow>Flow/CD]]|CENTER:&bold(){UNTIDY BOX}|CENTER:[[薔薇とリボルバー]]|
+
+|&bold(){[[oOらいかOo]]}|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|>|CENTER:2012年12月15日|
+|価格|CENTER:￥500|CENTER:￥750（税込）|
+|サークル|>|CENTER:deraika|
+
+**CD紹介
+-oOらいかOo氏の3作目となるCDアルバム。
+-曲調バラバラなのでuntidyな出来になっております。（作者ブログより）
+-THE VOC@LOiD M@STER 23（ボーマス23）にて頒布。
+-とらのあなで委託販売が行われている。
+
+**曲目
++[[story>story/oOらいかOo]]　　&color(red){NEW!!}
++[[untidy]]
++[[スクリームサーカス]]
++[[shake it boom]]
++[[DingDongDing]]　　&color(red){NEW!!}
+
+**リンク
+-[[作者blog>>http://ooraikaoo.info/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/09/29/040030092978.html]]
+
+**コメント
+#comment()

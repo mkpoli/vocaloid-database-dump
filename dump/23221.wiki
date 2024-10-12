@@ -1,0 +1,34 @@
+#right(){&furigana(れとろふゅーちゃーおっさんでぃすこ) &furigana()【登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186112489.jpg,x=330,y=300)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[The Endless Love]]|CENTER:&bold(){レトロフューチャーオッサンディスコ}|CENTER:[[WORKS11-14]]|
+
+|&bold(){[[鼻そうめんP]]}|[[yuiko>ゆいこんぬ]]|
+
+||CENTER:即売|CENTER:同人|
+|CENTER:発売|>|CENTER:2011年8月14日|
+|CENTER:価格|CENTER:￥1,500|CENTER:￥2,100（税込）|
+|CENTER:サークル|>|CENTER:tabgraphics|
+
+**CD紹介
+-鼻そうめんPのミニアルバム。
+-新曲、新リミックス入りの全5曲。
+-イラスト本『tabgraphicsworks110814』とのセット販売。
+-コミックマーケット80（C80）で頒布された。
+-メロンブックスにて委託販売が行われたものの、現在は完売となっている。
+
+**曲目
++[[Wander Girl]]
++Happy Twinkling Night
++[[Maybe☆Lucky>Maybe★Lucky]]
++Wander Girl (Power Mix)
++Wander Girl (Hiroyuki Oda Remix)
+
+**リンク
+-[[作者ブログ>>http://nekomimi.tabgraphics.under.jp/]]
+-[[メロンブックス>>http://shop.melonbooks.co.jp/shop/sp_212001043889_tabg_tabgw110814.php]]
+
+**コメント
+#comment

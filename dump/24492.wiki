@@ -1,0 +1,29 @@
+#right(){&furigana(げっこうとう)&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1215_20130112083748_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[FANTASY]]|CENTER:&bold(){月光燈　dazzling drops}|CENTER:[[OYASUMI]]|
+
+|&bold(){[[ブンガP]]}|
+
+発売：2013年2月4日
+価格：￥150
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：まんぎす
+
+|&bold(){[[iTunes Storeで購入する>>https://itunes.apple.com/jp/album/dazzling-drops-single/id598558803]]}|
+
+**CD紹介
+-ブンガPこと、ラジオ・タイダルテール氏の配信シングル。
+-2011年発表のミク曲「月光燈」の、結月ゆかりバージョンを収録している。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++[[月光燈　dazzling drops>月光燈]] （feat. 結月ゆかり）
+
+**リンク
+-[[KARENT：「月光燈　dazzling drops」>>http://karent.jp/album/1215]]
+
+**コメント
+#comment()

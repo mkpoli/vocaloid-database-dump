@@ -1,0 +1,44 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://img.toranoana.jp/img/04/0030/08/58/040030085879-1.gif)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm19183966)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Bottle Music]]|CENTER:&bold(){KNUTH / REMIXNUTH}|CENTER:[[あたしの魔法]]|
+
+|&bold(){[[クヌースP]]}|[[ありぱぱ]]|[[律儀P]]|[[山月記]]|[[Dubb parade]]|
+|[[ベーコンP]]|[[DS_8]]|[[909state]]|[[geppei-taro]]|[[山本ニュー]]|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2012年10月28日|CENTER:2012年11月|
+|価格|CENTER:￥1,000|CENTER:￥1,050（税込）|
+|サークル|>|CENTER:関東テクノ保安協会|
+
+**CD紹介
+-クヌースPのリミックスコンピレーションアルバム。
+-クヌースPの楽曲を本人含む8組のアーティストがリミックス。
+-ジャケットデザインは[[うー>>http://piapro.jp/ulon]]氏。
+-M3 2012秋で初頒布。
+-とらのあなで委託販売が行われている。
+
+**曲目
++[[ワタシアナライザー]] （remixed by ありぱぱ） 
++[[SHE IS SYNTHESIZER]] （remixed by 律儀P） 
++[[WAVE MAN]] （remixed by 律儀P） 
++[[COCORO-WIRED]] （remixed by 山月記） 
++[[ピッシテ～SCAN ME～]] （remixed by Dubb Parade） 
++[[The Art of Computer]] （remixed by Dubb Parade） 
++[[Maybe,誰よりも]] （remixed by bacon8（ベーコンP&DS_8）） 
++[[恋のアルゴリズム]] （remixed by bacon8） 
++[[加速する恋の電子回廊]] （remixed by 909state） 
++[[レッド・シグナル101]] （remixed by geppei-taro） 
++The Art of Computer （remixed by クヌースP） 
++[[ワタシ何処]] （Original Mix by クヌースP） 
++（シークレットトラック）
+
+**リンク
+-[[作者ブログ>>http://sh100000.blog64.fc2.com/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/08/58/040030085879.html]]
+
+**コメント
+#comment()

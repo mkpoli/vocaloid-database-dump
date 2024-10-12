@@ -1,0 +1,43 @@
+#right(){&furigana(かぜまちおりゅんぽす)&furigana()【登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186118962.jpg,x=300,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm19533834)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[emonloid4]]|CENTER:&bold(){風町オリュンポス}|CENTER:[[どりーみんチュチュ]]|
+
+|&bold(){[[emon（Tes.）]]}|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2012年12月15日||
+|価格|CENTER:￥1,000（税込）|CENTER:￥1,050（税込）|
+|サークル|CENTER:キラピコスキー|CENTER:emonloid|
+
+**CD紹介
+-音楽グループ「Tes.」所属の emon氏 の 5thアルバム。
+-先行リリースされた 『[[エレクト（ロ）ボックス]]』 に新曲を加えた全9曲を収録。
+-アートワークは あkm氏 が手掛ける。
+-THE VOC@LOiD M@STER 23（ボーマス23）にてリリース。
+-とらのあなで委託販売が行われている。
+
+**曲目
++[[エレクト（ロ）ボックス]]
++パレット
++狂乱華
++宇宙飛行
++管制塔でキャッチした
++テン子ちゃんは今日も行く！
++くうきけい
++風町オリュンポス
++[[星空のライオン]]
++風町オリュンポス feat. うーちゃん
+
+**リンク
+-[[特設ページ>>http://emonloid.web.fc2.com/]]
+-[[Twitter（emon）>>http://twitter.com/emon316]]
+-[[Twitter（つぢけん）>>http://twitter.com/tudiken]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/09/23/040030092384.html]]
+
+**コメント
+#comment()

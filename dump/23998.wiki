@@ -1,0 +1,35 @@
+#right(){&furigana(ゆうと)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/21855524" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/21855524">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-2010年11月、「[[朝の灯り]]」でボカロデビュー。
+-使用ボカロは、初音ミク・巡音ルカ・神威がくぽ・鏡音リン・鏡音レン・GUMI・IA・蒼姫ラピスと幅広い。
+-4作目の「[[トイカケ]]」で初の殿堂入りを達成。
+-本職は人気歌い手のひとり。聴き手を共感させる歌詞に定評がある。
+-これまでに殿堂入りを達成した曲は、以下の通り。&br()「[[Sweets & Bitters]]」「[[ココロキズ]]」「[[冷たい手]]」「[[トイカケ]]」
+
+**リンク
+-[[ゆう十のゆるゆる日記（作者ブログ）>>http://ameblo.jp/yuuto1010]]
+-[[Twitter>>http://twitter.com/yuuto10]]
+
+**曲
+#list_by_tag(ゆう十,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(ゆう十CD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm12615914)|&nicovideo(http://www.nicovideo.jp/watch/sm13676254)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm16659931)|&nicovideo(http://www.nicovideo.jp/watch/sm18030194)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm19677923)|&nicovideo(http://www.nicovideo.jp/watch/sm22682588)|
+|&nicovideo(sm23018882)|&nicovideo(sm23460070)|
+|&nicovideo(sm23692542)|&nicovideo(sm27340327)|
+
+**コメント
+- ブログのリンクがまふまふくんですよ  --   (2013-01-02 12:04:34)
+- 直しました  -- 名無しさん  (2013-01-02 14:20:19)
+- Circle of Friendsすごくいい曲でしたー！（｀・∀・）ﾉ　ちょっと才能わけてほしいｗ  -- 名無しさん  (2013-05-09 14:34:07)
+- Circle of Friendsすごくはまってます！！  -- 佐野くみ  (2013-06-29 16:46:19)
+- ゆう十さん、好きです。  -- 名無しさん  (2014-10-02 15:38:51)
+- ファイトー★  -- 名無しさん  (2014-10-02 15:39:28)
+#comment()

@@ -1,0 +1,30 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1172_20121109051215_0280_0280.jpg)
+
+|&nicovideo(sm19396366)|&YouTube(http://www.youtube.com/watch?v=n6dNS9SF7fY)|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Robot Rock feat.初音ミク]]|CENTER:&bold(){The Rockafeller Skank feat.初音ミク}|CENTER:[[LAST CHRISTMAS feat.初音ミク]]|
+
+|&bold(){[[エレキP>BIGHEAD]]}|
+
+発売：2012年11月21日
+価格：￥150
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：AYAKO HISHINUMA
+
+**CD紹介
+-エレキPのカバーシングル。
+-ファットボーイスリムの同名曲のカバー。
+-「KARENT」と「ROTH ENTERTAINMENT」による共同レーベル、「Lip Sync Records」からのリリース第2弾となる。
+
+**曲目
++The Rockafeller Skank （feat. 初音ミク）
+
+**リンク
+-[[Lip Sync Records>>http://lipsync-records.jp]]
+-[[KARENT：「The Rockafeller Skank feat.初音ミク」>>http://karent.jp/album/1172]]
+
+**コメント
+#comment()

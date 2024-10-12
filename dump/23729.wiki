@@ -1,0 +1,44 @@
+#right(){&furigana(めとろほりす)【検索用:&furigana()&space(2)登録タグ:&tags()】}
+//#ref(http://u.jimdo.com/www57/o/sf143e847d428aea3/img/i5d3018b6f0f44682/1354539841/std/image.jpg)
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186136930.jpg,x=300,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm19528294)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Various styles]]|CENTER:&bold(){メトロポリス}|CENTER:-|
+
+|&bold(){[[ミュムP]]}|
+
+|流通|CENTER:即売|
+|発売|CENTER:2012年12月15日|
+|価格|CENTER:￥1,000（税込）|
+|サークル|CENTER:ガスコンロ|
+
+**CD紹介
+-ミュムPの2ndアルバム。
+-「[[butterfly paradox]]」「[[ERiKA]]」などの既存曲に新曲を加えた、全12曲を収録。
+-ジャケットデザインなどのアートワークは [[hocno]]氏 が手掛ける。
+-THE VOC@LOiD M@STER 23（ボーマス23） にてリリース。
+-会場限定で hocno氏 による画集『seventeen -Boy meets girl-』を ￥400 で同時頒布。
+
+**曲目
++introduction-β-
++メトロポリス
++[[butterfly paradox]] -album mix-
++[[ERiKA]] -album mix-
++ディオラマ
++タイムマシーン
++浸食
++[[浸透]] -album mix-
++[[世界の果てで、あの星が消えるまでに、願いを]]
++管制塔
++[[方舟の部屋]] -album mix-
++[[アンドロメダ惑星日誌]]
+
+**リンク
+-[[アンドロメダ惑星基地（作者ホームページ）>>http://www.andromedapb.com/]]
+-[[Twitter>>http://twitter.com/miyum32]]
+
+**コメント
+#comment

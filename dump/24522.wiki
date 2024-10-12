@@ -1,0 +1,36 @@
+#right(){&furigana(いちくらりみっくすしゅう「ゆめのまにまに」)&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1224_20130129072242_0280_0280.jpg)
+
+|&nicovideo(sm20023541)|&youtube(https://youtu.be/Zxo5A858Mwk){330,247}|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[イエハトブのヨル]]|CENTER:&bold(){イチクラリミックス集「夢のまにまに」}|CENTER:-|
+
+|&bold(){[[市蔵]]}|[[ぽわぽわP]]|
+
+発売：2013年2月13日
+価格：￥900 / 1曲￥150
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：[[市蔵]]
+
+|&bold(){[[iTunes Storeで購入する>>https://itunes.apple.com/jp/album/itikuras-remix-albumyume-no/id599817159]]}|
+
+**CD紹介
+-市蔵氏による、椎名もた（ぽわぽわP）氏の楽曲のリミックス集。
+-収録曲の原曲は全てメジャー1stアルバム『[[夢のまにまに>夢のまにまに/CD]]』に収録されている楽曲。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++[[夢のまにまに]] itikuraRemix （feat. 雪歌ユフ）
++[[怪盗・窪園チヨコは絶対ミスらない]] itikuraRemix （feat. 鏡音リン）
++[[ガラクタのエレジー]] itikuraRemix （feat. 雪歌ユフ）
++[[Human>Human/ぽわぽわP]] itikuraRemix （feat. 000）
++[[アストロノーツ]] itikuraRemix （feat. [[ちょまいよ>tonighted]]）
++[[それは、真昼の彗星]] itikuraRemix （feat. 雪歌ユフ）
+
+**リンク
+-[[KARENT：「イチクラリミックス集「夢のまにまに」」>>http://karent.jp/album/1224]]
+
+**コメント
+#comment()

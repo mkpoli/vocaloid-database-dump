@@ -1,0 +1,30 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm19130101)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){OkiyaVa}|CENTER:-|
+
+|&bold(){[[ろひ]]}|[[ナツメ神楽]]|わちょ|sack|
+
+|流通|CENTER:即売|
+|発売|CENTER:2012年10月28日|
+|価格|CENTER:￥300（税込）|
+|サークル|CENTER:One of the Stars|
+
+**CD紹介
+-ろひ氏の1stミニアルバム。
+-鏡音民族調の楽曲のみで構成された全6曲を収録。
+-ジャケットイラストはぽかぽん氏が手掛ける。
+-VOCALOID PARADISE 7（ボーパラ7）にてリリース。
+
+**曲目
++[[一縷の望みよ、あの月へ響け]]
++[[Venessia-透明の袋小路-]]
++[[彼方に舞うは、桜の旋律>彼方に舞うは桜の旋律]]
++[[一つの誓いよ、永遠の歌となれ]]
++ひとときの幸せよ、今この手に甦れ
++一つの物語
+
+**コメント
+- 欲しい！けど、通販がない…。辛いっす…  -- 名無しさん  (2012-11-02 21:51:52)
+#comment()

@@ -1,0 +1,37 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1139_20121001165732_0280_0280.jpg)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm19114661)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Four seasons]]|CENTER:&bold(){Doomsday}|CENTER:[[The end of begin all>The end of begin all/CD]]|
+
+|&bold(){[[ROY]]}|[[神楽美咲]]|Syo|
+
+||CENTER:委託|CENTER:配信|
+|発売|>|CENTER:2012年10月19日|
+|価格|CENTER:￥630（税込）|CENTER:￥600 / 1曲￥150|
+|サークル|CENTER:ROY|CENTER:-|
+|レーベル|CENTER:-|CENTER:KARENT|
+
+|&bold(){[[iTunes Storeで購入する>>https://itunes.apple.com/jp/album/doomsday-ep/id567926361]]}|
+
+**CD紹介
+-ROYによる3rdミニアルバム。
+-クラシカルなフレーズで彩られた様式美へヴィメタルの世界が広がる全4曲。
+-ジャケットイラストは[[藤代叶]]氏。
+-とらのあなで委託販売が、KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++[[Final Judgement]] （feat. がくっぽいど）
++[[Tears in the night]] （feat. がくっぽいど）
++Stardust （feat. がくっぽいど）
++[[Pain of the sins]] (English Ver.) （feat. がくっぽいど）
+
+**リンク
+-[[作者ブログ>>http://roymetalnasu.blog23.fc2.com/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/07/94/040030079496.html]]
+-[[KARENT：「Doomsday」>>http://karent.jp/album/1139]]
+
+**コメント
+#comment

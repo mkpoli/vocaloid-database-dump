@@ -1,0 +1,40 @@
+#right(){&furigana(QTbomber)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+//&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/23905459" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/23905459">【ニコニコ動画】</a></iframe>)
+
+**特徴
+作り手名：『&u(){QTbomber}』
+-2011年2月、『[[STARDUST>STARDUST/QTbomber]]』でボカロデビュー。
+-使用ボカロは今のところリン・レン・GUMI。
+-最近は [[7:24>姉を見事に使いこなす妹P]]氏 とコラボすることが多い。
+-「べいべえええ」が口癖。
+
+**リンク
+-[[QTbomber（作者ブログ）>>https://profile.ameba.jp/qtbomber/]]
+-[[Twitter>>https://twitter.com/QTbomber]]
+-[[PIAPRO>>https://piapro.jp/QTbomber]]
+-[[YouTube>>https://www.youtube.com/user/QTbomber]]
+
+**曲
+#list_by_tag(QTbomber,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(QTbomberCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm13638990)|&nicovideo(nm13972560)|
+|&nicovideo(nm14737703)|&nicovideo(nm14741208)|
+|&nicovideo(sm16057272)|&nicovideo(sm16364267)|
+|&nicovideo(sm17705897)|&nicovideo(sm19200239)|
+
+**コメント
+- 追加乙！！！  -- 名無しさん  (2013-01-06 22:46:31)
+- 自分勝手で嫌な人じゃなければ好きかな  -- 名無しさん  (2013-06-19 16:34:54)
+- ハロウィンサーカスショウ最高ぉぉぉぉ!!!!  -- 鏡音依存性  (2013-11-09 08:28:25)
+- 岡村靖幸のパクリ  -- 名無しさん  (2017-02-13 18:56:52)
+- 自分の投稿に自分でコメント書き込む痛いやつ  -- 名無しさん  (2017-04-16 23:36:02)
+- 40超えたオッサンの口癖べいべーとかキモすぎ  -- 名無しさん  (2017-04-16 23:39:14)
+#comment()

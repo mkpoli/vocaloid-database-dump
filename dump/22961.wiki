@@ -1,0 +1,28 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/33300278" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/33300278">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-ガーリーかつポップをコンセプトにVOCALOID楽曲、動画の製作を行っている。
+-使用ボーカロイドは初音ミク。
+-製作メンバーはソーキ（Voice）、エーコ（Sound）、朱種（Illustration）、▽（Illustration）、Parabellum9（Movie）、moore（Lyric）。
+
+**リンク
+-[[ウェブサイト>>http://anemone.zouri.jp/index.html]]
+-[[ブログ>>http://ameblo.jp/anemonep/]]
+-[[Twitter>>https://twitter.com/#!/Anemone_Miku]]
+-[[PIAPRO>>http://piapro.jp/anemonep]]
+
+**曲
+#list_by_tag(Anemone,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(AnemoneCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm17913952)|&nicovideo(http://www.nicovideo.jp/watch/sm18733981)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm18927460)|&nicovideo(http://www.nicovideo.jp/watch/sm19104661)|
+|&nicovideo(sm19123841)|&nicovideo(http://www.nicovideo.jp/watch/sm19960292)|
+
+**コメント
+- この作者さんのページを集中的に追加している編集者の方へ。ほぼ全てのページでタグが間違っていたほか、同名曲がある場合のページ名のつけ方やページ自体のテンプレートが間違っているページが見られました。&br()せっかく追加してくださっているのに文句をつけるようで申し訳ないのですが、ページ作成時には他のページを参照してくださいますようお願いします。  -- moto  (2012-10-28 22:35:22)
+#comment()

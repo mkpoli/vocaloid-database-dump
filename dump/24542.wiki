@@ -1,0 +1,33 @@
+#right(){&furigana(やさしいうそ)&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1226_20130129230253_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Mebius Hole]]|CENTER:&bold(){やさしい嘘}|CENTER:[[Doppelganger>Doppelganger/CD]]|
+
+|&bold(){[[ゆうP]]}|
+
+||CENTER:通販|CENTER:配信|
+|発売|CENTER:2013年1月31日|CENTER:2013年2月13日|
+|価格|CENTER:￥500（税込）|CENTER:￥300 / 1曲￥150|
+|サークル|>|CENTER:PHOENIX Project|
+
+|&bold(){[[iTunes Storeで購入する>>https://itunes.apple.com/jp/album/the-easy-lie-single/id599818207]]}|
+
+**CD紹介
+-音楽サークル「P∴Rhythmatiq」でも活動するゆうPのEP。
+-新曲「やさしい嘘」とP∴Rhythmatiqで発表したafter the scarのラウドロックVerの2曲を収録。
+-ジャケットイラストはまぬるねこ氏。
+-自サイトにて通販が行われている。
+-2曲入りEPとしてKARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++やさしい嘘 （feat. GUMI）
++after the scar - rock （feat. GUMI）
++やさしい嘘 （GUMIless ver）　※配信版には未収録
+
+**リンク
+-[[作者サイト>>http://www.p-pr.info/]]
+-[[KARENT：「やさしい嘘」>>http://karent.jp/album/1226]]
+
+**コメント
+#comment()

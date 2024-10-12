@@ -1,0 +1,31 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1241_20130315120412_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[ORBIS -remix-]]|CENTER:&bold(){OYASUMI too early to sleep mix}|CENTER:[[歌鏡>歌鏡-UTAKAGAMI-]]|
+
+|&bold(){[[ブンガP]]}|
+
+発売：2013年3月29日
+価格：￥150
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：まんぎす
+
+|&bold(){[[iTunes Storeで購入する>>https://itunes.apple.com/jp/album/oyasumi-too-early-to-sleep/id623190074]]}|
+
+**CD紹介
+-ブンガPこと、ラジオ・タイダルテール氏の配信シングル。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++[[OYASUMI too early to sleep mix>おやすみ！]] （feat. 初音ミク）
+
+**動画
+&nicovideo(sm19995820)
+
+**リンク
+-[[KARENT：「OYASUMI too early to sleep mix」>>http://karent.jp/album/1241]]
+
+**コメント
+#comment()

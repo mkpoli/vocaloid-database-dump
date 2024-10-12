@@ -1,0 +1,71 @@
+#right(){&furigana()&furigana()【登録タグ:&tags()】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm19278161)|&YouTube(http://youtu.be/uZbKVYsKq4A){342,187}|
+作詞：[[kaya>kaya/作り手]]
+作曲：[[shu-tP]]
+編曲：[[shu-tP]]
+唄：[[MEIKO]]
+
+**曲紹介
+-MEIKO生誕祭2012で発表された作品の1つ。
+-KARENTレーベルよりダウンロード販売が行われている。[[MEIKO8周年記念企画>>http://karent.jp/special/meiko12]]で配信された作品の1つ。
+
+**音楽配信
+&ref(http://karent.jp/npdca/1155_20121021192745_0280_0280.jpg)
+
+|CENTER:前作|CENTER:今作|CENTER:次作|
+|CENTER:[[Stay with me>Stay with me/shu-tP]]|CENTER:&bold(){WISH}|CENTER:[[パズルライフ]]|
+
+流通：配信
+発売：2012年11月5日
+価格：￥150
+レーベル：[[KARENT>>http://karent.jp/album/1155]]
+ジャケットイラスト：shu-t
+
+|&bold(){[[iTunes Storeで購入>>https://itunes.apple.com/jp/album/wish-single/id572839039]]}|
+
+***曲目
++WISH （feat. MEIKO）
+
+**歌詞
+一番新しい明日へと
+ときめく光たち　追いかけて
+
+あきらめたグレーの夢を
+にぎりしめ　たちつくす
+今　キミは　何をしてるの？
+暗闇に　ただヒトリ…
+
+不確定なこころ　揺さぶって
+こぼれた　願い事　拾い上げ
+
+見えないんじゃなくて
+見ていないだけさ
+たのしむ魔法をかけてあげる
+
+ながめてたブルーの夜に
+瞬いた　星　見上げ
+今　キミは　何を望むの？
+胸の中　打ち明けて…
+
+不確定な想い　脱ぎ捨てて
+あたためた希望を　解き放て
+
+弱さも心強さも必要
+だから　燃える鼓動を見放さないで
+
+一番新しい明日へと
+ときめく光たち　追いかけて
+
+弱さも心強さも必要
+だから
+たのしむ魔法をかけてあげる
+
+
+**コメント
+- ついかおつ  -- りゅぅ  (2012-11-04 21:58:16)
+- 記事作成乙です！この曲は素晴らしいです！初見で惚れました、めーちゃんもshu-tPも大好きです！  -- 名無しさん  (2012-12-01 04:09:39)
+#comment()

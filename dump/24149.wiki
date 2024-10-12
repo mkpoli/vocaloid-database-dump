@@ -1,0 +1,47 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1210_20130101204602_0280_0280.jpg)
+
+&nicovideo(sm19489517)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Real Love Part2]]|CENTER:&bold(){End of Love}|CENTER:[[Let's play the Music!]]|
+
+|&bold(){[[MineK]]}|
+
+|流通|CENTER:即売|CENTER:委託|CENTER:配信|
+|発売|CENTER:2012年12月15日|CENTER:2012年12月|CENTER:2013年1月23日|
+|価格|CENTER:￥1,000|CENTER:￥1,500（税込）|CENTER:￥1,200 / 1曲￥150|
+|サークル|>|CENTER:SUKIMONO||
+
+**CD紹介
+-MineK氏のVOCALOIDアルバム。CDとしては6作目。
+-テーマは「別れ」。
+-全10曲＋ボーナストラックを収録。
+-ジャケットイラストはトユ氏が担当。
+-THE VOC@LOiD M@STER 23（ボーマス23）、C83（コミックマーケット83）で頒布。
+-とらのあなにて委託販売が行われている。
+-KARENTレーベルよりダウンロード販売も行われているが、Tr.11以降のボーナストラックが未収録の全10曲となっている。
+
+**曲目
++Change Over （feat. がくっぽいど&MEIKO）
++[[Wild the Day]] （feat. Lily）
++[[Too Late>Too Late/MineK]] （feat. がくっぽいど&MEIKO）
++Forget （feat. がくっぽいど&Lily）
++[[End of Love]] （feat. がくっぽいど&MEIKO）
++[[Break Up]] （feat. がくっぽいどPower）
++愛に溺れて （feat. MEIKO）
++素直のRefrain （feat. 巡音ルカ&MEIKO）
++[[Dancing Love]] -V3 Remix- （feat. がくっぽいどPower&Lily）
++いつまでも （feat. MEIKO&ガチャッポイド）
++スタジオにて（トークロイド）　　※以下ボーナストラック
++Wild the Day （Inst.）
++Too Late （Inst.）
++End of Love （Inst.）
++Dancing Love -V3 Remix- （Inst.）
+
+**リンク
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/08/97/040030089714.html]]
+-[[KARENT：「End of Love」>>http://karent.jp/album/1210]]
+
+**コメント
+#comment()

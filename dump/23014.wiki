@@ -1,0 +1,41 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1129_20120830194354_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[YUKARhythm]]|CENTER:&bold(){Delights!}|CENTER:[[RealitY>RealitY/CD]]|
+
+|&bold(){[[ちょむP]]}|真雪|[[海兎]]|蒼桐大紀|深月たると|
+
+|流通|CENTER:即売|CENTER:委託|CENTER:配信|
+|発売|CENTER:2012年8月11日||CENTER:2012年9月19日|
+|価格|CENTER:|CENTER:￥1,350（税込）&br()￥1,500（税込・とらのあな）|CENTER:￥900 / 1曲￥150|
+|サークル|>|>|CENTER:ちょむ工房|
+
+**CD紹介
+-ちょむPの13作目となるボーカロイドCD。
+-VOCALOID3 結月ゆかりが全曲を歌う、4ツ打ち中心でエレクトロハウス風の、ダンス・ポップアルバム。しっとりセクシーなだけじゃない、可愛くて元気なゆかりさんの歌声をのせて、倍音たっぷりなシンセサウンドとヘビィなキックに酔いしれたい一枚。
+-ジャケットイラストは零花氏。
+-2012年夏コミ（C82）で頒布された。委託販売はとらのあな、メロンブックス、D-STAGEで行われている。
+-またKARENTレーベルより『&bold(){Delights! S}』のタイトルでダウンロード販売も行われている。こちらはおまけ、オフボーカルトラックが未収録の全7曲構成。
+
+**曲目
++Intro: Delights for You
++:D love　（作詞：真雪）
++恋するピーチパイ　（作詞：海兎）
++[[鏡写しのSympathy]]　（作詞：蒼桐大紀）
++ココロビーツ　（作詞：海兎）
++[[プラネタガール]]　（作詞：深月たると）
++アトモライツ (starlight mix)　（作詞：ちょむP）
++おまけ：おしゃべり
++～ off vocal tracks
+
+**リンク
+-[[作者サイト>>http://chomstudio.com/]]
+-[[作品ページ>>http://chomstudio.com/products/41_delights.html]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/06/69/040030066928.html]]
+-[[メロンブックス>>http://shop.melonbooks.co.jp/shop/detail/213001012030]]
+-[[D-STAGE>>http://d-stage.com/shop/detail.php?seq=31105]]
+-[[KARENT：「Delights! S」>>http://karent.jp/album/1129]]
+
+**コメント
+#comment()

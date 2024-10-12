@@ -1,0 +1,126 @@
+#right(){&furigana(Luna)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+//&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/30108248" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/30108248">【ニコニコ動画】</a></iframe>)
+
+**特徴
+作り手名：『&u(){*Luna}』(&u(){るな})
+
+-2012年1月、「[[チェイス]]」でボカロデビューした作り手。
+-自身が持つボカロはGUMI。
+-しかし制作楽曲に使用するボカロは初音ミク、鏡音リン・レンなど多種に及ぶ。
+-1年以上にわたって&bold(){「能力者シリーズ」}という物語音楽を展開していた。
+-楽曲の制作ペースは割と早い。また2015年から半年に一回のペースでアルバムを出している。
+-殿堂入りしている曲は以下の通り。&br()「&list_by_tagsearch(*Luna,殿堂入り,sort=furigana,option=nolist,nolistspace=」「,100)」
+//-実はYouTubeだと22曲ぐらい殿堂入りしている。（2018年12月現在）
+-ついに、「8.32」で自身初のミリオンを達成。
+
+**ミリオン達成状況
+|CENTER:&bold(){曲名}|CENTER:&bold(){100万再生}|CENTER:&bold(){備考}|
+|[[8.32]]|2021年7月30日||
+
+**リンク
+-[[ホームページ>>https://2525luna.wixsite.com/ast-luna]]
+-[[作者ブログ>>https://luna-catbird.blogspot.jp/]]
+--[[ここだけの話。（旧作者ブログ）>>https://ameblo.jp/luna-niconico/]]
+-[[Twitter>>https://twitter.com/Luna_miko00]]
+-[[PIAPRO>>https://piapro.jp/Luna_]]
+-[[YouTube>>https://www.youtube.com/user/catbird00]]
+-[[Bilibili>>https://space.bilibili.com/252199770]]
+-[[Booth>>https://luna-catbird.booth.pm]]
+
+**曲
+#list_by_tag(*Luna,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(*LunaCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|>|BGCOLOR(#98fb98):COLOR(#FFF):CENTER:&font(b,11pt){オリジナル曲}|
+|&nicovideo(sm16764741)|&nicovideo(sm16887328)|
+|&nicovideo(sm16999180)|&nicovideo(sm17147346)|
+|&nicovideo(sm17390919)|&nicovideo(sm17854185)|
+|&nicovideo(sm18173927)|&nicovideo(sm18849904)|
+|&nicovideo(sm18879585)|&nicovideo(sm19058176)|
+|&nicovideo(sm19165486)|&nicovideo(sm19268137)|
+|&nicovideo(sm19268178)|&nicovideo(sm19328693)|
+|&nicovideo(sm19374852)|&nicovideo(sm19477274)|
+|&nicovideo(sm19752670)|&nicovideo(sm20124968)|
+|&nicovideo(sm21677454)|&nicovideo(sm22282512)|
+|&nicovideo(sm22594356)|&nicovideo(sm23356163)|
+|&nicovideo(sm23821597)|&nicovideo(sm23934497)|
+|&nicovideo(sm23988135)|&nicovideo(sm24028381)|
+|&nicovideo(sm24081712)|&nicovideo(sm24137326)|
+|&nicovideo(sm25399498)|&nicovideo(sm25470270)|
+|&nicovideo(sm25510334)|&nicovideo(sm25574448)|
+|&nicovideo(sm25825756)|&nicovideo(sm25900250)|
+|&nicovideo(sm26252172)|&nicovideo(sm26305642)|
+|&nicovideo(sm26427406)|&nicovideo(sm26792334)|
+|&nicovideo(sm26893570)|&nicovideo(sm27025296)|
+|&nicovideo(sm27067221)|&nicovideo(sm27465443)|
+|&nicovideo(sm27492086)|&nicovideo(sm27872993)|
+|&nicovideo(sm28696493)|&nicovideo(sm29632566)|
+|&nicovideo(sm29682120)|&nicovideo(sm29741205)|
+|&nicovideo(sm29774639)|&nicovideo(sm30071167)|
+|&nicovideo(sm30325790)|&nicovideo(sm30934951)|
+|&nicovideo(sm30979734)|&nicovideo(sm31033750)|
+|&nicovideo(sm31068327)|&nicovideo(sm31242011)|
+|&nicovideo(sm31322378)|&nicovideo(sm31601165)|
+|&nicovideo(sm31757894)|&nicovideo(sm31839634)|
+|&nicovideo(sm32213593)|&nicovideo(sm32424496)|
+|&nicovideo(sm32495667)|&nicovideo(sm32676175)|
+|&nicovideo(sm32819914)|&nicovideo(sm32861826)|
+|&nicovideo(sm33009897)|&nicovideo(sm33045389)|
+|&nicovideo(sm33298765)|&nicovideo(sm33447778)|
+|&nicovideo(sm33485782)|&nicovideo(sm33596424)|
+|&nicovideo(sm33898910)|&nicovideo(sm33976096)|
+|&nicovideo(sm34074975)|&nicovideo(sm34322529)|
+|&nicovideo(sm34718680)|&nicovideo(sm34877912)|
+|&nicovideo(sm34963216)|&nicovideo(sm35321067)|
+|&nicovideo(sm35548406)|&nicovideo(sm36054608)|
+|&nicovideo(sm36580701)|&nicovideo(sm36992222)|
+|&nicovideo(sm37846234)|&nicovideo(sm38035722)|
+|&nicovideo(sm38735101)|&nicovideo(sm39362280)|
+|&youtube(https://youtu.be/YDz3LBpMOZk){342,187}|&nicovideo(sm39780658)|
+|&youtube(https://www.youtube.com/watch?v=i1BiimU-DE4){342,187}|&youtube(https://www.youtube.com/watch?v=IeCazxzc844){342,187}|
+|&nicovideo(sm40897880)|&youtube(https://www.youtube.com/watch?v=liE8NNw_WY0){342,187}|
+|&youtube(https://www.youtube.com/watch?v=68LdYly6904){342,187}||
+
+|>|BGCOLOR(#CC2220):COLOR(#FFF):CENTER:&font(b,11pt){アレンジ曲}|
+|&nicovideo(sm23874503)|&nicovideo(sm25119889)|
+|&nicovideo(sm26182396)|&nicovideo(sm27622242)|
+|&nicovideo(sm29454092)|&nicovideo(sm30289464)|
+|&nicovideo(sm30699086)|&nicovideo(sm31527652)|
+//|&nicovideo()|&nicovideo()|
+
+**関連タグ内の更新履歴
+#region(close,関連タグ内の更新履歴)
+関連タグ内の更新履歴
+※「*Luna」「*LunaCD」タグ内で最近編集やコメントのあった記事を新しい方から10件表示しています。
+#list_by_tagsearch(*Luna,*LunaCD,sort=timestamp,sort2=desc,errmsg=まだ曲、CDが登録されていません。,or,10)
+#endregion
+
+**コメント
+- Luna*さんきたー！言の葉だいすきです！  -- 名無しさん  (2012-12-02 11:12:59)
+- *Lunaさんのページ…!!ありがとう御座います！*Lunaさん大好きですっ  -- 名無しさん  (2012-12-23 07:32:16)
+- *Lunaさん本当大好きです！廃棄(ryが好き過ぎて辛い(ﾟωﾟ)  -- 名無しさん  (2013-03-03 02:05:09)
+- *Lunaさんページできてたんだ……「ここだけの話」大好きです！  -- 名無しさん  (2013-09-14 09:25:00)
+- つい最近知ったんだが、一目惚れってヤツだなコレ・・・  -- 杏光  (2014-03-02 17:34:59)
+- 夏シリーズ大好き！  -- 名無しさん  (2015-11-07 21:37:49)
+- *Lunaさん。メロディーも歌詞もキャッチー。かつ技術が凄くしっかりしている。  -- takoruka2  (2016-05-15 22:30:35)
+- こりゃいつか一発来るだろね。  -- circu  (2017-04-08 12:16:50)
+- *Lunaさん大好きです！心にぐっとくるメロディと歌詞で、曲ループしてます！  -- minahoru  (2017-06-01 23:08:42)
+- Heal Meから聴きましたが自分の心を鷲掴みしてくれた、ありがとうございます‼  -- 抹茶の亡霊  (2017-06-15 02:41:48)
+- 「マニック」も良曲!ページの作成をお願いします!  -- けん  (2017-08-23 01:56:17)
+- マニックのページ作成お願いしますm(*_ _)m  -- 名無しさん  (2017-09-09 20:43:11)
+- マニックのページ作成お願いします  -- 名無し  (2017-09-14 18:27:46)
+- アナザードリーマーのページ作成お願いします…！  -- 名無しさん  (2017-12-08 07:05:44)
+- 春の魔法のページ作成お願いします…！  -- 名無しさん  (2017-12-20 23:15:25)
+- 「Reunion」のページ作成をお願いします!  -- けん  (2018-06-20 03:09:16)
+- 夢追い語り、マニック、ギミックがすごく好きです  -- ページ追加依頼は「追加編集削除の依頼」にしてください  さん  (2018-07-18 23:28:49)
+- この人の曲、IA、鏡音レンの声の相性が一番いいと個人的に思う  -- 名無しさん  (2018-08-07 14:22:25)
+- 好き  -- 名無しさん  (2021-08-24 11:55:30)
+- もしかしてGUMI以外体験版だったりして…(真偽は知りません)  -- 名無しさん  (2023-10-09 11:48:16)
+#comment()

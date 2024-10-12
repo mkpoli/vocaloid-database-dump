@@ -1,0 +1,36 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1245_20130331134250_0280_0280.jpg)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm19491525)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Sweet Logic]]|CENTER:&bold(){Love & Secret}|CENTER:[[Shy Heart,Shy Word]]|
+
+|&bold(){[[古墳P]]}|[[longan]]|
+
+|流通|CENTER:即売|CENTER:委託|CENTER:配信|
+|発売|CENTER:2012年12月15日|CENTER:|CENTER:2013年4月17日|
+|価格|CENTER:￥700|CENTER:￥1,050（税込）|CENTER:￥600 / 1曲￥150|
+|サークル|CENTER:そうだ、ここに古墳をつくろう|CENTER:Trireact||
+
+**CD紹介
+-古墳P の 2nd album 。
+-収録曲は全て書き下ろしの新曲。全5曲を収録。
+-イラストを しろ氏 が、デザインを AKiru氏 が手掛ける。
+-THE VOC@LOiD M@STER 23（ボーマス23） にてリリース。
+-とらのあなで委託販売が、KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++[[Love & Secret]]
++Heart up!   
++恋するフレーバー  
++Nightscape  
++[[Starrylights]]
+
+**リンク
+-[[特設ページ>>http://trireact.net/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/08/93/040030089321.html]]
+-[[KAERNT：「Love & Secret」>>http://karent.jp/album/1245]]
+
+**コメント
+#comment()

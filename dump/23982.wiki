@@ -1,0 +1,40 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm19586739)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){3.14 compilation album 「π」}|CENTER:-|
+
+|[[winddrums]]|[[mikumikufire]]|[[パンデP]]|[[desk pop]]|[[keu]]|
+|[[西島尊大>西島ソーンダイク]]|[[Fu11Hous3]]|[[Ramenset]]|[[Lemm]]|>|
+
+|流通|CENTER:即売|
+|発売|CENTER:2012年12月31日|
+|価格|CENTER:￥500（税込）|
+|サークル|CENTER:Jack the Denpers|
+
+**CD紹介
+>&bold(){円周率･･･誰もが算数の授業で触れたであろう3.14･･･}
+-この終わりなき数字「円周率-π-」を拍子に見立てて曲を作ってしまおうという、にわかには信じがたい企画でございます。（作者コメ転載）
+-総勢9名のクリエイター陣による、ボカロ曲やインスト曲など全11曲を収録。
+-C83（コミックマーケット83）にてリリース。
+
+**曲目
++Introduction-π　/　winddrums feat. 初音ミクAppend
++くるくるレシオ！　/　winddrums feat. 歌愛ユキ
++輪廻　/　mikumikufire feat. 初音ミク
++妖精の輪　/　パンデP feat. 初音ミクAppend
++短篇集 -箱庭-　/　desk pop feat. GUMI
++巡る世界　/　keu feat. 初音ミク
++Pianoroll　/　西島尊大
++Chaos Matrix　/　Fu11Hous3
++おもちゃ箱のワルツ　/　Ramenset
++白雨 ～PeripheRythme～　/　Lemm feat. 初音ミクAppend
++Outroduction-π　/　winddrums・Lemm feat. 初音ミクAppend
+
+**リンク
+-[[特設ページ>>http://www.weizsacker.com/bclk/]]
+
+**コメント
+- 委託はしないのか？  -- 名無しさん  (2013-02-20 16:41:21)
+- 最高に変態なコンピ  -- 名無しさん  (2016-08-30 22:25:06)
+#comment()

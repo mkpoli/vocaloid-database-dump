@@ -1,0 +1,45 @@
+#right(){&furigana(ぷにえこうぼう)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/7929192" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/7929192">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-&bold(){"「音」で変態するチーム"}を自称する音楽・音源製作グループである。
+-メンバーはきりがぷにえ（音楽・音色製作）とMar(まー)（雑用・音源）の2名。
+-2008年8月11日、初めてVOCALOID作品を投稿。
+--そのちょっと前まで[[キーボードクラッシャーを原型がわからないほどに加工しまくった動画>>http://www.nicovideo.jp/watch/nm4236946]]を投稿していた。
+-その方向性を間違えた手腕を発揮したのが[[初音ミクの声だけで作り上げたインストゥルメンタル>>http://www.nicovideo.jp/watch/nm4285955]]であった。
+--あまりの加工ぶりに視聴者が混乱したのは言うまでもない。
+--ついには[[キーボードクラッシャー音源まで作り上げる始末>>http://www.nicovideo.jp/watch/nm4320414]]。
+-初音ミクを叫ばせる手腕にも長けており、その技術は多くのメタル・ハードコア系VOCALOIDプロデューサーが参考にするほど。
+--その為、伝説のSHOUTLOIDマスターという称号を得ている。
+--これからメタルやハードコア系VOCALOIDプロデューサーとしてデビューしたいなら[[この動画と説明文>>http://www.nicovideo.jp/watch/nm6045616]]を読むと勉強になる。
+-製作する楽曲の幅も広い。でも、使う音源は全部初音ミク。
+-これまでは知る人ぞ知る存在であったが、「ドロップ☆スター」が『エレうた！』で取り上げられたことでようやくランキングに顔を出すことに成功。
+-実は過去にYoutubeに投稿した、スラッシュメタルバンド・SLAYERの耳コピー動画（当然、これも全部ミク）がRICO Managementによって削除されたので、[[腹いせ動画>>http://www.nicovideo.jp/watch/sm12016618]]を投稿。
+
+**リンク
+-[[ピアプロ>>http://piapro.jp/moramora]]
+
+**曲
+#list_by_tag(ぷにえ工房,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(ぷにえ工房CD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+
+|&nicovideo(http://www.nicovideo.jp/watch/nm4253449)|&nicovideo(http://www.nicovideo.jp/watch/nm4242273)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3572398)|&nicovideo(http://www.nicovideo.jp/watch/nm4285955)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm4286511)|&nicovideo(http://www.nicovideo.jp/watch/nm4289755)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm4331713)|&nicovideo(http://www.nicovideo.jp/watch/nm4998494)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm6045616)|&nicovideo(http://www.nicovideo.jp/watch/nm6566271)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm7018507)|&nicovideo(http://www.nicovideo.jp/watch/nm9536823)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm10346811)|&nicovideo(http://www.nicovideo.jp/watch/nm11042636)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm11065693)|&nicovideo(http://www.nicovideo.jp/watch/sm12016618)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm11930809)|&nicovideo(http://www.nicovideo.jp/watch/sm13657065)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm13851699)|&nicovideo(http://www.nicovideo.jp/watch/sm14122824)|
+
+**コメント
+- ぷにえ氏の記事やっと出来たのか…  -- 名無しさん  (2013-02-07 21:20:39)
+- へぇ、ボカロにシャウトをはじめてさせたのってこの人なんだな。てかスレイヤーのカバーをしただけに曲も凶暴なのばっかだなー。  -- 名無しさん  (2013-03-16 20:51:49)
+- ほうほう、記事作成ありがとうございます～。こうして投稿作品をズラーっと見るとハチャメチャですね( ・ ω ・ゞ  -- ぷにえ工房  (2014-03-09 20:59:20)
+#comment()

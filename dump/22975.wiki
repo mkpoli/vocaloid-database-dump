@@ -1,0 +1,65 @@
+#right(){&furigana(ないとしかれっと)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(https://www.nicovideo.jp/watch/sm19043030)|
+作詞：[[それっぽいP]]
+作曲：[[それっぽいP]]
+編曲：[[それっぽいP]]
+イラスト：[[さかなしはるか]]（[[pixiv>>https://www.pixiv.net/users/888977]]）
+唄：[[鏡音リンAppend>鏡音リン・レン]]（Power）・[[鏡音レンAppend>鏡音リン・レン]]（Power）
+
+**曲紹介
+曲名：『&u(){ナイト＆シガレット}』（&u(){ないと アンド しがれっと}）
+-それっぽいP の16作目。
+
+**歌詞
+それは禁断の恋のストーリー　&ruby(い){謂}わば行方に暗闇隠す通り
+試された愛に&ruby(おじけ){怖気}づく
+Catch a fire. Catch a fire. Lighten night & ciger
+火遊ぶ&ruby(ゆうよ){猶予}は Day by Day　とうに過ぎたのに Day to Day
+また今宵も鉄橋で待つ
+灰が落下　灰が落下　&ruby(はっか){薄荷}の&ruby(か){香} ciger
+
+焼き付くフィルム　リールは&ruby(とき){時間}を回して
+終幕へ向かう　Catch a fire. Catch a fire. Lighten night & ciger
+キスのその&ruby(まぎわ){間際}　Lights,Camera,Action
+影が揺らぐ　灰が落下　灰が落下　薄荷の香 ciger
+頬はすれ違った　Lights,Camera,Action
+
+
+それは禁断の恋のストーリー　謂わば理性が情動殺す道理
+許されぬ愛に立ち尽くす
+Catch a fire. Catch a fire. Lighten night & ciger
+戯れだったなら Day by Day　救いもあったのに Day to Day
+また今宵も街頭に立つ
+灰が落下　灰が落下　薄荷の香 ciger
+
+仕上がる&ruby(ぎきょく){戯曲}　ページは&ruby(とき){時間}を&ruby(さら){攫}ってゆく
+
+
+終幕へ向かう　Catch a fire. Catch a fire. Lighten night & ciger
+キスのその間際　Lights,Camera,Action
+影が揺らぐ　灰が落下　灰が落下　薄荷の香 ciger
+頬はすれ違った　Lights,Camera,Action
+
+涙が零れそうになって　隠すように抱き寄せた
+この恋は初めから芝居だよね
+だからラストシーン　Lights,Camera,Action
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+**コメント
+//- 歌詞追加してみました。正式なものが出次第、差し替えてください。  -- 玲華。  (2012-10-05 12:54:06)
+- これ好き  -- ユエ  (2012-10-28 11:47:02)
+- この曲かっこいい！めっちゃ好みだわ！久々にグッときた曲に出合えた^^  -- 碧  (2013-02-11 12:55:35)
+- 大好きです。  -- 摩耶猫  (2013-04-13 19:09:51)
+- すごく良い！  -- 零  (2013-07-05 17:29:22)
+#comment()
+
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)

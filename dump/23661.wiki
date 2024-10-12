@@ -1,0 +1,33 @@
+#right(){&furigana(かいちゅうどけいとれざーはんず)&furigana()【登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186132736.jpg,x=300,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm19504246)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[と或る雨の日の事]]|CENTER:&bold(){懐中時計とレザーハンズ}|CENTER:-|
+
+|&bold(){[[らいだーP]]}|
+
+|流通|CENTER:即売|
+|発売|CENTER:2012年12月15日|
+|価格|CENTER:￥500（税込）|
+|サークル|CENTER:ボカロ職人は眠らない|
+
+**CD紹介
+-らいだーP の 2nd mini album.
+-収録曲は全て書き下ろしの新曲。全4曲を収録。
+-THE VOC@LOiD M@STER 23（ボーマス23） にてリリース。
+
+**曲目
++[[懐中時計とレザーハンズ]]
++四畳半の犯行声明
++「1214」 -Acoustic ver.-
++[[魔法のテレキャスター]]
+
+**リンク
+-[[ミクと私と時々ギター（作者ブログ）>>http://rid-0x8x0x9.seesaa.net/]]
+-[[Twitter>>http://twitter.com/rider_caster]]
+
+**コメント
+#comment()

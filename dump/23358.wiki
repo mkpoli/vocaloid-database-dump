@@ -1,0 +1,33 @@
+#right(){&furigana(こんぺてぃしょん)&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1156_20121022072154_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[遠い花火>遠い花火/CD]]|CENTER:&bold(){比賽}|CENTER:[[音の迷路]]|
+
+|&bold(){[[稲敷常州]]}|
+
+発売：2012年11月5日
+価格：￥300 / 1曲￥150
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：[[konpasu>>http://piapro.jp/konpasu]]
+
+|&bold(){[[iTunes Storeで購入する>>https://itunes.apple.com/jp/album/competition-feat.-meiko-single/id572839870]]}|
+
+**CD紹介
+-稲敷常州氏の配信EP。
+-MEIKO生誕祭2012用の新曲2曲と、MEIKOコンピレーションCD『[[暁 -AKA-TSUKI-]]』収録曲の「春のみやこ」を収録している。
+-MEIKOの伴奏のために始めた古筝がようやく曲に盛り込めるようになりました。美しい音色の古筝とMEIKO力強い歌唱のの掛け合わせをお楽しみください。
+-KARENTレーベルのMEIKO8周年記念企画で配信された作品の1つ。
+
+**曲目
++[[比賽 ～琴弾きの執念～>比賽]] （feat. MEIKO）
++[[秋彩]] （feat. MEIKO）
++[[春のみやこ]] （feat. MEIKO）
+
+**リンク
+-[[KARENT：「比賽」>>http://karent.jp/album/1156]]
+-[[KARENT：「MEIKO記念祭'12」特集ページ>>http://karent.jp/special/meiko12]]
+
+**コメント
+#comment()

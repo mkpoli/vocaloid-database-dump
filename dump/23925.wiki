@@ -1,0 +1,28 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1191_20121204153014_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[魂のルフラン feat.初音ミク]]|CENTER:&bold(){One More Time feat.初音ミク}|CENTER:[[残酷な天使のテーゼ feat. 初音ミク]]|
+
+|&bold(){[[守屋くんP]]}|
+
+発売：2012年12月14日
+価格：￥150
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：AYAKO HISHINUMA
+
+**CD紹介
+-守屋くんPのカバーシングル。
+-ダフトパンクの同名曲のカバー。
+-「KARENT」と「ROTH ENTERTAINMENT」による共同レーベル、「Lip Sync Records」からのリリース第5弾となる。
+
+**曲目
++One More Time （feat. 初音ミク）
+
+**リンク
+-[[Lip Sync Records>>http://lipsync-records.jp]]
+-[[KARENT：「One More Time feat.初音ミク」>>http://karent.jp/album/1191]]
+
+**コメント
+#comment()

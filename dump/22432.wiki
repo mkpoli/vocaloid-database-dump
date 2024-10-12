@@ -1,0 +1,40 @@
+#right(){&furigana(あめとおおかみ)&furigana()【登録タグ:&tags() 】}
+&ref(https://www.suruga-ya.jp/database/pics/game/186120534.jpg,x=300,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm18519764)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){雨と狼}|CENTER:-|
+
+|&bold(){[[3396]]}|
+
+|流通|CENTER:即売|
+|発売|CENTER:2012年8月11日|
+|価格|CENTER:￥1,000|
+|サークル|CENTER:Star Sky Breath Label|
+
+**CD紹介
+>&bold(){誰の心の中にもある街と森のお話。}
+-3396氏 の 1st album 。
+-「[[永遠機関]]」「[[アリス・イン・シザーハンド]]」は、歌詞を変えるなどのリテイクした上に、タイトル変更もされている全くの別物。
+-既存曲に新曲を加えた全10曲を収録。ゲストに colate氏 と miche氏 が参加。
+-ジャケットイラストは めろ子氏 が手掛ける。
+-C82（コミックマーケット82） にてリリース。
+
+**曲目
++森の鯨
++がらんどうの夜と星雲
++黒山羊商店
++[[Alice in blurred world>アリス・イン・シザーハンド]]
++[[The -Automata- Carol>永遠機関]]
++沈木
++[[雨と狼]]
++lupus
++森の鯨 -Miche Leafe.. Remix-
++アリス・イン・シザーハンド -colate's sparkling wonderland remix-
+
+**リンク
+-[[Twitter>>http://twitter.com/_3396]]
+
+**コメント
+#comment()

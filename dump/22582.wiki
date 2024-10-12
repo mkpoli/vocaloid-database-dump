@@ -1,0 +1,72 @@
+#right(){&furigana(ほかろさいゆうき)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(http://www.nicovideo.jp/watch/sm18677539)|
+作詞：[[それっぽいP]]
+作曲：[[それっぽいP]]
+編曲：[[それっぽいP]]
+イラスト：[[mdk]]（まどか）&s(){（[[Twitter>>https://twitter.com/mdk0118]]）}
+唄：[[初音ミクAppend>初音ミク]]（Solid）・[[巡音ルカ]]・[[鏡音リンAppend>鏡音リン・レン]]（Power）・[[鏡音レンAppend>鏡音リン・レン]]（Power）
+
+**曲紹介
+>&bold(){曲の最後にどこかで聴いたことのあるようなフレーズが繰り返し出てきますが、まったくの偶然です。}
+曲名：『&u(){ボカロ西遊記}』(&u(){ぼかろさいゆうき})
+-それっぽいPの15作目。
+-キャストは、孫悟空･･･ミク　猪八戒･･･ルカ　沙悟浄･･･リン　三蔵法師･･･レン
+-「西遊記」をモチーフにした楽曲。最後の方のコーラスは、ドラマ「西遊記」の歴代テーマソングのパロディになっている。
+
+**歌詞
+&italic(){遥か昔のこと}
+&italic(){天竺にある　有難い経典を求めて}
+&italic(){四人のボーカロイド達が　西へ西へと旅をした}
+&italic(){この物語は　その長く険しい旅路を描いた}
+&italic(){冒険活劇である}
+
+「大都往き、楼上越え、関門経て、いざ天竺へ」
+
+M.I.K.　乱舞必殺　U.U.　奇術妖術　戦闘は任せな
+“I am going to take you there”
+
+「断崖往き、砂丘越え、連山経て、さあ天竺へ」
+
+L.U.K.　撃破一発　K.A.I.　武術体術　豪腕は任せな
+“I am going to save your life”
+
+遥か道標　終わらない旅はない
+
+JOURNEY TO THE WEST　果ては千里か万里か　横断
+JOURNEY TO THE WEST　明日は戦死か挽死か　旅団
+JOURNEY TO THE WEST　星は　千の夜　万の夜　横断
+JOURNEY TO THE WEST　いつか戦記となるまで　旅団
+
+「長城往き、橋梁越え、戦跡経て、いざ天竺へ」
+
+R.I.N.　鋭利切先　G.O.J.O.　馬術兵術　戦略は任せな
+“I am going to give you ways”
+
+「渓流往き、火口越え、岩窟経て、さあ天竺へ」
+
+鬼の待つ　蛇の道でも
+“We are going to western land”
+
+遥か夢の途中　涙はまだ見せない
+
+JOURNEY TO THE WEST　民が災禍に窮する京で
+JOURNEY TO THE WEST　民を災から救する経典
+JOURNEY TO THE WEST　だから身を切り裂いても　横断
+JOURNEY TO THE WEST　歩みは決してやめない　旅団
+
+JOURNEY TO THE WEST　果ては　千里か　万里か　横断
+JOURNEY TO THE WEST　明日は　戦死か　挽死か　旅団
+JOURNEY TO THE WEST　星は　千の夜　万の夜　横断
+JOURNEY TO THE WEST　いつか戦記となるまで　旅団
+
+MONKEY MAGIC×3　（AROUND THE WORLD×3）
+消えないで
+
+
+**コメント
+- モ●キーマージック！ｗｗ  -- 名無しさん  (2012-08-22 21:30:37)
+#comment()

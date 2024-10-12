@@ -1,0 +1,38 @@
+#right(){&furigana(とあるあめのひのこと)&furigana()【登録タグ:&tags() 】}
+
+#ref(https://www.suruga-ya.jp/database/pics/game/186120444.jpg,x=300,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm18163338)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[レンアイジジョウ]]|CENTER:&bold(){と或る雨の日の事}|CENTER:[[キコの愛した理想論]]|
+
+|&bold(){[[らいだーP]]}|
+
+|流通|CENTER:即売|
+|発売|CENTER:2012年7月8日|
+|価格|CENTER:￥1,000（税込）|
+|サークル|CENTER:ボカロ職人は眠らない|
+
+**CD紹介
+-らいだーP の 1st full album.
+-ヒット作「[[サティスファクション]]」など、全7曲を収録。
+-歌い手の 大根氏 が7曲目で参加。ジャケットイラストは 阿古本氏 が手掛ける。
+-THE VOC@LOiD M@STER 21（ボーマス21） にてリリース。
+
+**曲目
++[[からっきしの傘～と或る雨の日の事～>からっきしの傘]]
++ひとりぼっちラプソディ
++哀歌
++[[サティスファクション]]
++[[黒の世界]]
++[[白昼夢とマリア]]～僕が見た夢の続き～
++[[22世紀からのハロー]] feat. 大根
+
+**リンク
+-[[ミクと私と時々ギター（作者ブログ）>>http://rid-0x8x0x9.seesaa.net/]]
+-[[Twitter>>http://twitter.com/rider_caster]]
+
+**コメント
+- ブックレットが最高でした！！  -- 名無しさん  (2012-08-06 00:55:54)
+#comment()
