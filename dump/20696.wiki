@@ -1,0 +1,38 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#amazon(B004E7B1RG)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[ア・ラ・カルト]]|CENTER:&bold(){Ivory}|CENTER:[[Crying on a rainy day]]|
+
+|&bold(){[[ichiP]]}|
+
+||CENTER:即売|CENTER:委託|
+|発売|CENTER:2010年11月14日|CENTER:2010年11月14日|
+|価格|CENTER:￥1,000|CENTER:￥1,500(税込)(Amazon)&br()￥1,050(税込)(JOYSOUND SHOPPING MALL)|
+|サークル|>|CENTER:SOUNDstudio -ONE-|
+
+**CD紹介
+-ボーカロイドオリジナル8曲、インストゥルメンタル1曲、また[[ichiP]]のセルフカバー2曲を収録したボカロCD第4弾。
+-2010年11月14日に行われたTHE VOC@LOiD M@STER 14で初頒布。また、Amazon、JOYSOUND SHOPPING MALLで委託販売されている。
+-ボーカロイドオリジナルの8曲では全てVY1が使用されている。
+
+**曲目
++[[jump!]]
++[[school is over]]
++[[box world]]
++月とピアノ(inst)
++ジングル！ジンクス！
++morning coffee
++マーガレット
++[[夕焼けリフレイン]]
++ivory
++box world ver.ichi
++マーガレット　ver.ichi
+
+**リンク
+-[[Amazon>>http://www.amazon.co.jp/exec/obidos/ASIN/B004E7B1RG/1ichi-22/ref=nosim/]]
+-[[JOYSOUND SHOPPING MALL>>http://mstore.utasuki.jp/utasuki/1/1/4/566309/goods/goods_detail.html]]
+-[[作者ブログ>>http://soundstudioone.blog49.fc2.com/]]
+
+**コメント
+#comment()

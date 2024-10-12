@@ -1,0 +1,33 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://img.toranoana.jp/img/04/0030/01/29/040030012963-1.gif)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm16117956)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[SPIRAL TRILOGY]]|CENTER:[[螺旋-RASEN-]]&br()&bold(){SPIRAL TRILOGY The Art Works}|CENTER:[[My Song>My Song/CD]]|
+
+|&bold(){[[Ebot]]}|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2011年11月19日||
+|価格||CENTER:￥1,890（税込）|
+|サークル|CENTER:ウタカタ社中|CENTER:Ebot|
+
+**作品紹介
+-Ebot氏の映像作品。CD作品の『[[螺旋-RASEN-]]』と同時リリース。
+-4:3の画角比率で発表していた螺旋三部作の動画を16:9で再編集し収録している。また、CDに収録の新曲「残滓-ZANSAI-」のオフボーカルをBGMに螺旋三部作のアートワーク集も収録している。
+-THE VOC@LOiD M@STER 18（ボーマス18）で頒布。
+-とらのあなで委託販売が行われている。
+
+**曲目
++[[月雪花]]
++[[パラドキシカル・パラダイム]]
++[[信號燈-SIGNAL-]]
++残滓-ZANSAI-
+
+**リンク
+-[[サークルサイト>>http://utakatasyachu.blog.fc2.com/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/01/29/040030012963.html]]
+
+**コメント
+#comment()

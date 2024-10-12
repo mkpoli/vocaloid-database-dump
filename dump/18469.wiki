@@ -1,0 +1,23 @@
+#right(){&furigana(しやと)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/2773434" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/2773434">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-使用ボカロはミク・MEIKO・リン・ルカ。
+-主に昭和時代の歌謡曲・アニソンのカバーを投稿しているが、オリジナル曲も何曲か投稿している。
+
+**リンク
+-[[ピアプロ>>http://piapro.jp/shadow001]]
+
+**曲
+#list_by_tag(しゃど,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(しゃどCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm1474477)|&nicovideo(http://www.nicovideo.jp/watch/sm6483402)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6661897)|&nicovideo(http://www.nicovideo.jp/watch/sm9756405)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6836454)|&nicovideo(http://www.nicovideo.jp/watch/sm9859592)|
+
+**コメント
+#comment()

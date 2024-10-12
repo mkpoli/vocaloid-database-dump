@@ -1,0 +1,31 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/890_20111017215553_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Too much Love>Too much Love/CD]]|CENTER:&bold(){Script Imager}|CENTER:[[Dive into U]]|
+
+|&bold(){[[MineK]]}|
+
+発売：2011年11月4日
+価格：￥300 / 1曲￥150
+流通：配信
+レーベル：KarenT
+ジャケットイラスト：Nacht
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/script-imager/id476561866]]}|
+
+**CD紹介
+-MineK氏の2曲入り配信EP。
+-辛い事も信じて前向きにイメージすれば乗り越えられるという思いを歌に。（KarenT作品概要より）
+-KarenTレーベルのMEIKO7周年記念企画で配信された作品の1つ。
+
+**曲目
++Script Imager （feat. MEIKO）
++[[Let's have a Party!]] （feat. MEIKO）
+
+**リンク
+-[[KarenT：「Script Imager」>>http://karent.jp/album/890]]
+-[[KarenT：「MEIKO記念祭'11」>>http://karent.jp/special/meiko11]]
+
+**コメント
+#comment()

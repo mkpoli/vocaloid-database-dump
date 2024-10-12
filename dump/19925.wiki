@@ -1,0 +1,28 @@
+#right(){&furigana()&furigana()【登録タグ:&tags()】}
+&nicovideo(http://www.nicovideo.jp/watch/sm16558693)
+作詞：[[Wonderlandica]]
+作曲：[[Wonderlandica]]
+編曲：[[Wonderlandica]]
+唄：初音ミクAppend・鏡音リンAppend
+
+**曲紹介
+-Wonderlandica氏 の14作目。
+-5分という長さを全く感じさせない、聴き入る楽曲。
+-イラストは 白熱灯氏 の描き下ろし。
+-夜音コンピCD 「[[songs of moonlight]]」 の収録曲を冬仕様にリアレンジしている。
+
+**歌詞
+生まれて初めて　歌を歌った
+夜に降ってきた　雪の色
+
+生まれて初めて　嘘をついた日に
+音もなくそっと　消えたもの
+
+かけがえのない　幾つもの
+思いを秘めた　その小さな胸で
+
+生まれて初めて　恋に落ちた日
+世界は鼓動で　揺れていた
+
+**コメント
+#comment()

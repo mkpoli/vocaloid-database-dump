@@ -1,0 +1,44 @@
+#right(){&furigana(ながれもののぎ)&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/856_20110912212606_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[ユリカゴカラハカバマデ]]|CENTER:&bold(){ナガレモノノ儀}|CENTER:-|
+
+|&bold(){[[nakanoise]]}|[[依存]]|
+
+||CENTER:即売|CENTER:委託|CENTER:配信|
+|発売|CENTER:2011年9月4日|CENTER:2011年9月5日|CENTER:2011年9月28日|
+|価格|CENTER:￥1,000|CENTER:￥1,260（税込）|CENTER:￥1,200 / 1曲￥150|
+|サークル|>|CENTER:nakanoise||
+
+|&bold(){[[iTunes Storeで購入する>>https://itunes.apple.com/jp/album/id465897422]]}|
+
+**CD紹介
+-nakanoise氏の1stフルアルバム。
+-THE VOC@LOiD M@STER 17（ボーマス17）で頒布。
+-ジャケットイラストは前作に引き続き[[依存]]氏。
+-委託はメロンブックスの通販のみ。
+-今後はKarenTレーベルよりダウンロード販売が行われる。
+
+**クロスフェード
+&nicovideo(http://www.nicovideo.jp/watch/nm15329140)
+
+**曲目
++[[カクメイ]] （feat. 初音ミク）
++[[ホタルビ>ホタルビ/nakanoise]] （feat. 初音ミク）
++クチナワ
++[[トコヤミ]] （feat. 初音ミク）
++[[シンカイ>>http://www.nicovideo.jp/watch/sm12798641]]
++コガレル （feat. 初音ミク）
++[[アカガネ]] （feat. 初音ミク）
++カリカミ （feat. 初音ミク）
++[[ヒイラ儀]] （feat. 初音ミク）
++コウミャク
+
+**リンク
+-[[KarenT>>http://karent.jp/album/856]]
+-[[作者サイト>>http://nakanoise.biz/]]
+-[[メロンブックス>>http://shop.melonbooks.co.jp/shop/list/?DA=chgitemtype&G=&F=213001009743]]
+
+**コメント
+#comment()

@@ -1,0 +1,34 @@
+#right(){&furigana(にしざわだいにしゅう) &furigana()【登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186117257.jpg,x=300,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm15391884)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[泣き虫アンサンブル]]|CENTER:&bold(){西沢第二集 (Prescription drugs for a stray.)}|CENTER:[[西沢第二・五集 (How to sleepwalk.)]]|
+
+|&bold(){[[西沢さんP]]}|
+
+|流通|CENTER:即売|
+|発売|CENTER:2011年09月04日|
+|価格|CENTER:￥1,000|
+|サークル|CENTER:量産型西沢さん。|
+
+**CD紹介
+-西沢さんP 待望の 2nd mini album.
+-初の殿堂入りを果たした「[[泣き虫アンサンブル]]」や、歌い手の りぶ氏 が歌う「[[迷子ライフ]]」「[[フライトタイム]]」など、全6曲を収録。
+-ジャケットデザインは 猫太氏 が手掛ける。マスタリングは [[かごめP]] 。
+-THE VOC@LOiD M@STER 17（ボーマス17） にてリリース。
+
+**曲目
++[[迷子ライフ]] -りぶ ver.-
++[[格子の心臓]] feat. GUMI
++[[アップステアズ]] feat. 鏡音リン
++[[ウソナキスト]] feat. GUMI
++[[泣き虫アンサンブル]] feat. GUMI
++[[フライトタイム]] -りぶ ver.-
+
+**コメント
+- 西沢さん×りぶさんだと…!?なにこれ欲しい  -- 昆布  (2011-11-22 12:08:22)
+- ニコ動の「ウソナキスト」からきました。  -- 名無しさん  (2013-09-05 23:41:14)
+#comment

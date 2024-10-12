@@ -1,0 +1,32 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/797_20110807220525_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[星に願いを / サヨナラ>星に願いを／サヨナラ]]|CENTER:&bold(){ESP}|CENTER:[[恋しくて - Brazilian Jazz-cafe Mix]]|
+
+|&bold(){[[Chiquewa]]}|
+
+発売：2011年8月31日
+価格：￥300 / 1曲￥150
+流通：配信
+レーベル：KarenT
+ジャケットイラスト：[[ぱんだっち]]
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/esp/id460014663]]}|
+
+**CD紹介
+-Chiquewa氏の配信EP。
+-気が付けばもう秋もすぐそこ。夏の疲れを吹っ飛ばす2曲を収録。
+-KarenTレーベルの初音ミク4周年記念特集で配信された作品の1つ。
+
+**曲目
++[[ESP]] （feat. 初音ミク）
++[[デートしようよ]] （feat. 初音ミク）
+
+**リンク
+-[[作者ブログ>>http://chiquewa.blog.eonet.jp/voice_organique/]]
+-[[KarenT：「ESP」>>http://karent.jp/album/797]]
+-[[KarenT：「初音ミク 4th Anniversary」特集ページ>>http://karent.jp/special/miku11]]
+
+**コメント
+#comment()

@@ -1,0 +1,41 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://26.media.tumblr.com/tumblr_luggz7ctrw1r1pgvko1_500.jpg,,height=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm16138483)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){CATALOG/}|CENTER:[[CATALOG//>CATALOG／／]]|
+
+|&bold(){[[ELEGUMI TOKYO]]}|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2011年11月19日|CENTER:|
+|価格|CENTER:￥1,000|CENTER:￥1,500（税込）|
+|サークル|CENTER:ELEGUMI TOKYO|>|
+
+**CD紹介
+-ELEGUMI TOKYO氏の1stアルバム。
+-デビュー作の「[[KIRA KIRA]]」から9作目の「[[KISS ME BABY!!!]]」までの全10曲を収録。
+-全曲再MIX＆マスタリング。「[[カラココロ]]」の GUMI ver. は Full ver. 収録。
+-初回限定はデジパック仕様（紙ジャケット）でプレスしている。
+-ジャケットイラストは neji氏 が手掛ける。
+-THE VOC@LOiD M@STER 18（ボーマス18） にてリリース。
+-とらのあな、D-STAGE、メロンブックス、ホワイトキャンバス、ニコニコ本社にて委託販売が行われている。
+
+**曲目
++[[KISS ME BABY!!!]]
++[[Dreamy Girl>Dreamy Girl/ELEGUMI TOKYO]]
++[[KIRA KIRA]]
++[[HELLO! HELLO! HELLO!]]
++[[二人、恋して - Girl's side -]]
++[[カラココロ]]
++[[パンピンポップアワー]]
++[[ぴたぱた]]
++[[STEP BY STEP>STEP BY STEP/ELEGUMI TOKYO]]
++[[カラココロ]] -GUMI Version-
+
+**リンク
+-[[作者ホームページ>>http://elegumi.tumblr.com/]]
+
+**コメント
+#comment()

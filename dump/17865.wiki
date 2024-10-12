@@ -1,0 +1,40 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#ref(http://www.s-mamomo.com/wp/wp-content/uploads/colors-150x150.jpg)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm15364871)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Mirage>Mirage/まももPCD]]|CENTER:&bold(){Colors/Forest}|CENTER:-|
+
+|&bold(){[[まももP]]}|
+
+発売：2011年9月4日
+価格：￥
+流通：即売
+サークル：まもも家
+
+**CD紹介
+-まももPの2ndアルバム。
+-未発表曲6曲含む11曲による色の彩り。
+-アートワーク他デザインは前作に引き続きloundraw氏が担当。
+
+**曲目
++[色] Colors
++[黒] Black Sheep Fantasia
++[紫] Shady violet
++[藍] [[Lazward]]
++[青] [[群青の猫と始まりの夏]]
++[緑] [[Green lights]]
++[黄] Y
++[橙] [[Afterglow>Afterglow/まももP]]
++[赤] [[紅空]]
++[白] [[白の秩序]]
++[虹] そして虹の終着点へ
+
+**リンク
+-[[特設サイト>>http://www.s-mamomo.com/2nd/]]
+-[[まもも家（作者ホームページ）>>http://www.s-mamomo.com/]]
+
+**コメント
+- このCDお店で探しているんですけど、見つかりませんでした。これは、通販だけでしか売っていないんですか。  -- summer Dream  (2013-01-13 18:37:26)
+#comment()

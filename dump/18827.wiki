@@ -1,0 +1,35 @@
+#right(){&furigana(こいしくて)&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/874_20111008214802_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[ESP>ESP/CD]]|CENTER:&bold(){恋しくて - Brazillian jazz-cafe Mix}|CENTER:[[la la la la]]|
+
+|&bold(){[[Chiquewa]]}|
+
+発売：2011年10月24日
+価格：￥300 / 1曲￥150
+流通：配信
+レーベル：KarenT
+ジャケットイラスト：[[ちぃ]]
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/id473611742]]}|
+
+**CD紹介
+-Chiquewa氏の配信シングル。
+-アルバム『[[Voice Electronique]]』収録の同曲のボサノヴァ・アレンジで、『[[I Love Music]]』収録同曲の再ミックスバージョンです。大人な雰囲気を是非お楽しみください。
+-KarenTの「Cafeでのひととき」特集で配信された作品の1つ。
+-リリース後に動画が投稿された。
+
+**曲目
++[[恋しくて]] - Brazilian Jazz-cafe Mix （feat. 巡音ルカ）
++恋しくて - Brazilian Jazz-cafe Mix - Off Vocal
+
+**動画
+&nicovideo(http://www.nicovideo.jp/watch/sm16000094)
+
+**リンク
+-[[KarenT：「恋しくて - Brazilian Jazz-cafe Mix」>>http://karent.jp/album/874]]
+-[[KarenT：「Cafeでのひととき」特集ページ>>http://karent.jp/special/cafe11]]
+
+**コメント
+#comment()

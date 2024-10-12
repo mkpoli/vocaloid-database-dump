@@ -1,0 +1,43 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/9196887" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/9196887">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-時に和風、時にエスニック。幅広い作風を持つ実力派P。
+-本人作詞・作曲の場合もあるが、歌詞は奥様のisshy（いっしー）が担当する事も。
+-元々はそのisshy氏が歌った『[[インドインダスインデスト]]』を初音ミクに差し替えてデビュー、その後沌X氏の作成した[[同曲のFLASH動画>>http://www.nicovideo.jp/watch/sm13305439]]が話題を呼ぶ。
+-『太陽とセラミック』では[[山本ニュー]]氏とコラボ。ニュー氏の歌詞先行で製作され、その過程もUPされた。
+-実験的で楽しい楽曲が多く、コーラスの美しさも特筆もの。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/tamachang]]
+-[[Twitter>>https://oauth.twitter.com/#!/tamachangchan]]
+
+**曲
+#list_by_tag(tamachang,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(tamachangCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**オリジナル作品
+|&nicovideo(http://www.nicovideo.jp/watch/sm12644746)|&nicovideo(http://www.nicovideo.jp/watch/sm12653594)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm14716357)|&nicovideo(http://www.nicovideo.jp/watch/sm15339341)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm15354621)|&nicovideo(http://www.nicovideo.jp/watch/nm15599191)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm15882763)|&nicovideo(http://www.nicovideo.jp/watch/sm15882993)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm16073776)|&nicovideo(http://www.nicovideo.jp/watch/sm16185719)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm16248847)|&nicovideo(http://www.nicovideo.jp/watch/sm16347377)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm16639275)|&nicovideo(http://www.nicovideo.jp/watch/sm16762901)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm17071852)|
+
+**日本の文学シリーズ（作・編曲はオリジナル）
+|&nicovideo(http://www.nicovideo.jp/watch/sm12653445)|&nicovideo(http://www.nicovideo.jp/watch/sm12653501)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12653542)|&nicovideo(http://www.nicovideo.jp/watch/sm12653622)|
+
+**カバー曲
+|&nicovideo(http://www.nicovideo.jp/watch/sm12644838)|&nicovideo(http://www.nicovideo.jp/watch/sm16714258)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm16916043)|
+
+**コメント
+- 曲ページを追加されている方へ。タグを入力するとき、「曲」のタグを「>>曲」としてしまうと、トップページの「最近追加された曲」に表示されませんので、お気をつけください。  -- 名無しさん  (2011-11-10 01:03:11)
+- 助言ありがとうございます。  -- 名無しさん  (2011-11-10 21:07:22)
+- tamachangさんの曲大好き！isshyさんの歌詞も好き〜  -- 名無しさん  (2017-04-11 17:07:00)
+#comment()

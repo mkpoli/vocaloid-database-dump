@@ -1,0 +1,37 @@
+#right(){&furigana(ふらちな)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+//#image(http://img.toranoana.jp/img/04/0010/16/82/040010168289-1.gif)
+ 
+&ref(https://www.suruga-ya.jp/database/pics/game/186106091.jpg,x=300,y=300)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[朝の虹、夜の星。]]|CENTER:&bold(){プラチナ}|CENTER:[[モノクロセカイの積み木遊び。]]|
+
+|&bold(){[[10日P]]}|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|>|CENTER:2008年11月30日|
+|価格|CENTER:￥300|CENTER:￥441（税込）|
+|サークル|>|CENTER:monaca:factory|
+
+**CD紹介
+CD名：『&u(){プラチナ}』
+-10日Pの3曲入りシングル。
+-THE VOC@LOiD M@STER 6（ボーマス6）で頒布が行われた。
+-とらのあなにて委託販売が行われていた。
+
+**曲目
++[[プラチナ]]
++[[タウリン1000mg High Go!!]]
++[[ティアラ]] -Platinum MIX-
+
+**リンク
+-[[作者ブログ>>http://monaca10.blog116.fc2.com/]]
+//-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/16/82/040010168289.html]]
+
+**コメント
+- プラチナのCD欲しいです!!  -- れーな  (2012-07-31 12:52:55)
+#comment()

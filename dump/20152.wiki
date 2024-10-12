@@ -1,0 +1,33 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo(sm14649562)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[2nd Album(ウーパールーパー盤)]]|CENTER:&bold(){gobbledegook}|CENTER:[[soap opera]]|
+
+|&bold(){[[ヒーリングP]]}|
+
+|流通|CENTER:即売|CENTER:通販|
+|発売|CENTER:2011年6月12日|CENTER:2011年9月|
+|価格|CENTER:￥|CENTER:￥500|
+|サークル|CENTER:おまいらいやされろ！||
+
+**CD紹介
+-ヒーリングPの1stミニアルバム。
+-ユキデビュー曲となる「星が丘」、NNI曲のボカロバージョン「夢想せよ」などを含む全6曲。
+-イラストは帽子屋氏。
+-THE VOC@LOiD M@STER 16（ボーマス16）で頒布。
+-作者ブログにて自家通販が行われている。
+
+**曲目
++[[太陽のキス]] / 鏡音リン Power
++[[gobbledegook]] / 鏡音レン Power
++君のミニ四駆のグリスを舐めたい / 猫村いろは
++[[星が丘]] / 歌愛ユキ
++[[夢想せよ]] / 鏡音レン Power
++明奈に捧げるラブソング / 鏡音レン Power
+
+**リンク
+-[[作者ブログ>>http://rrrakr.blog50.fc2.com/]]
+
+**コメント
+#comment()

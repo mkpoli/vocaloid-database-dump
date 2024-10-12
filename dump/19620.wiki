@@ -1,0 +1,49 @@
+#right(){&furigana(riria009)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+//&nicovideo_mylist()
+
+**特徴
+作り手名：『&u(){riria009}』
+-2008年4月『[[Dies Irae－蜥蜴の唄－]]』よりニコニコ動画でのコラボ活動を開始した絵師。
+-線が細かく、妖艶で優美な画風。使用画材は PhotoshopとSAI。
+-[[otetsu]]氏、[[蝶々P]]、[[磯P]]を始めとする数多くのPにイラストを提供している。
+
+**リンク
+//-[[砂漠の子守唄（作者ブログ）>>http://ssskomoriuta.boo.jp/]]
+-[[PIAPRO>>https://piapro.jp/riria009]]
+-[[Twitter>>https://twitter.com/riria009]]
+-[[Pixiv>>https://www.pixiv.net/users/153399]]
+
+**曲
+#list_by_tag(riria009,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(riria009CD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画（殿堂入りしているもののみ）
+|&nicovideo(sm5805302)|&nicovideo(sm6115924)|
+|&nicovideo(sm6977183)|&nicovideo(sm7255470)|
+|&nicovideo(sm7904669)|&nicovideo(sm9092949)|
+|&nicovideo(sm9540128)|&nicovideo(sm9676974)|
+|&nicovideo(sm10122021)|&nicovideo(sm10438239)|
+|&nicovideo(sm10656432)|&nicovideo(sm11454957)|
+|&nicovideo(sm12399734)|&nicovideo(sm13291996)|
+|&nicovideo(sm13479021)|&nicovideo(sm13677600)|
+|&nicovideo(sm13805781)|&nicovideo(sm14407686)|
+|&nicovideo(sm15153937)|&nicovideo(sm16334416)|
+
+**コメント
+- この人の絵めっちゃ好き！！  -- 名無しさん  (2011-12-14 16:39:01)
+- riria009さんのイラストが凄く好きです。  -- 名無しさん  (2011-12-15 16:08:42)
+- otetsu様の曲とイラストが合ってて、好きです!!!愛してます!!!  -- GUMIは俺の嫁。  (2012-01-03 22:11:27)
+- otetsuさんのルービックキューブに引かれてやってきたら、なんといろは唄、え？ああ、そう。まで…！SUGEEEEEEEEEE！！  -- 名無しさん  (2012-02-05 21:21:08)
+- riria009さん好きだーっ!!  -- 陸  (2012-02-13 22:36:13)
+- え？あぁ、そう。の絵、大っ好き!!riria009さん最高!!  -- えんどう  (2012-07-29 05:06:05)
+- riria009さんマジ好きすぎるw  -- 鏡  (2012-10-06 20:49:01)
+- イラストカッコよすぎる！！  -- 名無しさん  (2012-11-23 10:10:29)
+- いろは唄この人だったのか！  -- 夏  (2013-02-15 11:43:56)
+- ririaさんの絵はすごく丁寧で、大スキ！！蝶々Pさんの小説の挿絵もririaさんのハズ、、、　嬉しい＾＾  -- ゆいのん  (2014-08-18 17:17:32)
+#comment()

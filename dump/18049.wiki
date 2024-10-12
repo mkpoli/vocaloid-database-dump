@@ -1,0 +1,36 @@
+#right(){&furigana(はしやすめ)&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/784_20110723205440_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){箸休め}|CENTER:[[黄昏の空]]|
+
+|&bold(){[[箸休/hashiyasume>箸休／hashiyasume]]}|
+
+発売：2011年8月31日
+価格：￥600 / 1曲￥150
+流通：配信
+レーベル：KarenT
+ジャケットイラスト：本藤昇汰
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/id459997674]]}|
+
+**CD紹介
+-箸休/hashiyasume氏の配信EP。
+-これまで発表してきた楽曲をすべて収録した「箸休的楽曲集」。
+-KarenTレーベルの初音ミク4周年記念特集で配信された作品の1つ。
+
+**曲目
++[[直感的フェノメラーゼ]]
++[[pre-mRNA]]
++[[原罪地点]]
++[[無感覚的干渉性完全制御装置]]
++[[新世界へのプロローグ]]
+
+**リンク
+-[[KarenT：「箸休め」>>http://karent.jp/album/784]]
+-[[KarenT：「初音ミク 4th Anniversary」特集ページ>>http://karent.jp/special/miku11]]
+
+**コメント
+- 5. 新世界へのプロローグ  -- 名無しさん  (2020-11-06 02:28:38)
+- irodori 同人版 ケムリクサ ED楽曲  -- 名無しさん  (2020-11-06 02:29:26)
+#comment()

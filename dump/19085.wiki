@@ -1,0 +1,37 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm16116133)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[透明水彩 retake>透明水彩]]|CENTER:&bold(){drawing}|CENTER:-|
+
+|&bold(){[[ヤスオP]]}|
+
+発売：2011年11月19日
+価格：￥1,000（税込）
+流通：即売
+サークル：ケミカルサラダ
+
+**CD紹介
+-「もんやりぼんやりしたものをそれっぽく形にした」ヤスオPの2ndアルバム。
+-骨盤P（T1,3,7,8,10）とis(hiroshi)（T5,11）がギターで参加している。ジャケットは縣が手掛けている。
+-THE VOC@LOiD M@STER 18（ボーマス18） にてリリース。今後、委託も予定している。
+
+**曲目
++[[Flowing]]
++[[Through the looking glass]]
++[[蕾桜>蕾桜 -ツボミザクラ-]]
++イノセンス
++[[揮発性言霊]]
++STEREO NOISE
++[[月隠>月隠　－ツキゴモリ－]]
++Hyperion
++[[雨宿りの二人]] retake
++[[透明水彩]]
++[[終わってしまった夏の物語]]
++車窓 feat. 深美チエ
+
+**リンク
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/00/80/040030008006.html]]
+
+**コメント
+#comment()

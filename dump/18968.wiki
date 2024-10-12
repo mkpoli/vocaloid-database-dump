@@ -1,0 +1,62 @@
+#right(){&furigana(こころすいっち)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm16069888)|&youtube(https://www.youtube.com/watch?v=xP8XVO3zsxI){342,187}|
+作詞：[[ぽんや]]
+作曲：[[APG550]]
+編曲：[[APG550]]
+イラスト：[[ゴロー]]（[[ニコニコ動画>>https://www.nicovideo.jp/user/1035517]]）
+動画：[[とりっちょ]]（[[ニコニコ動画>>https://www.nicovideo.jp/user/2074003]]）
+唄：[[初音ミク]]
+
+**曲紹介
+>&b(){「笑うはずが笑顔上手く作れないし　悲しくても泣けてもこないし　こんな自分、やっていられないよ」&br()そんな君に今送る歌}
+曲名：『&u(){ココロスイッチ}』
+//-イラストを ゴロー氏が、動画を とりっちょ氏が手がける
+
+**歌詞
+Everyone,sing a song,sing along,it's a happy festal day!
+Let's send our dream for the sky...
+
+頬杖ついた気だるい顔　ココロセンサーに不具合の気配
+メンテナンスもさぼりがちに過ごす今日このごろ
+
+夢語りにも飽きていたので　冷めたふりして生きてました
+
+ずっと胸の奥に仕舞い込んだメロディ　忘れることなんてできなくて
+いつのまにか口ずさんでいた　心がほら動きだす
+
+晴れた空に大きく広げた　ココロアンテナの調子は上々
+楽することにだけ長けてた日々にはさよなら
+
+嘘を付くのも馬鹿らしいので　冷めたふりはやめにしました
+
+「笑うはずが笑顔上手く作れないし
+　悲しくても泣けてもこないし
+　こんな自分、やっていられないよ」
+そんな君に今送る歌
+
+"Everyone,smile away,laugh away,it's just the same to me and you."
+きっかけはどこにでもあるから
+sunny days,rainy days,everyday can be smily day.
+素敵な日々綴ろう
+
+Everyone,sing a song,sing with all,it's a happy special day!
+尽きることないメモリー抱えて
+lonely days,lovery days,everyday can be precious day.
+君が笑うなら　All dreams be come true.
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+**コメント
+- 気持ちいい音(* ﾟωﾟ* )  -- 名無しさん  (2011-11-10 22:33:27)
+- 聴いてて落ち着きます(*´∇｀*) こういう曲好きです(*^^*)  -- 名無しさん  (2012-03-28 17:35:00)
+#comment()
+
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)

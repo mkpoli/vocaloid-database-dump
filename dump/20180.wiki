@@ -1,0 +1,63 @@
+#right(){&furigana()&furigana()【登録タグ:&tags()】}
+&nicovideo(http://www.nicovideo.jp/watch/sm16684550)
+作詞：[[IIG]]
+作曲：[[IIG]]
+編曲：[[IIG]]
+唄：初音ミク
+
+**曲紹介
+-はるかスカイリムの地で思いついたハートフルソングです。（作者コメントより）
+-KARENTレーベルよりダウンロード販売が行われている。[[「SNOW FESTIVAL」企画>>http://karent.jp/special/snow12]]で配信された作品の1つ。
+
+**KarenT配信
+&ref(http://karent.jp/npdca/979_20120105094747_0280_0280.jpg)
+
+|CENTER:前作|CENTER:今作|CENTER:次作|
+|CENTER:[[Solar stream>Solar stream/CD]]|CENTER:&bold(){Snowbound}|CENTER:-|
+
+流通：配信
+発売：2012年1月19日
+価格：￥300 / 1曲￥150
+レーベル：[[KARENT>>http://karent.jp/album/979]]
+
+|&bold(){[[iTunes Storeで購入>>http://itunes.apple.com/jp/album/snowbound/id494822670]]}|
+
+***曲目
++Snowbound （feat. 初音ミク）
++Snowbound -instrumental-
+
+**歌詞
+世界のキャンバスに
+白い粉雪を振るいかけて
+
+そっと指でなぞる
+凍る世界さえ彩れたら
+
+見えない星空は歌う
+錆び付いてた
+扉を開けていこう
+
+思い描いて響いて
+今を叫んでる
+それだけで全てを変えるよ
+きっとこの空を埋め尽くして
+
+
+ずっと塞ぎ込んだ
+気持ちは周りに降り積もって
+
+行き場を無くしてる
+想いを遠くに打ち上げたら
+
+ひび割れていく雪の城
+空が覗く
+不安を拭い去って
+
+星に願いを聴かせて
+心確かめる
+変わらない想いを伝えて
+いつかこの空に届くように
+
+
+**コメント
+#comment()

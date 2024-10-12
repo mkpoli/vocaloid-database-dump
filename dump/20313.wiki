@@ -1,0 +1,31 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/984_20120110074903_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[紅茶と甘さと好きの分量]]|CENTER:&bold(){ordinary day's music}&br()[[Lunalight Serenade>Lunalight Serenade/CD]]|CENTER:[[優刻の街]]|
+
+|&bold(){[[オレジナルP]]}|[[涼風P]]|
+
+発売：2012年1月30日
+価格：￥300 / 1曲￥150
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：[[雪駄>>http://piapro.jp/settyaro]]
+
+**CD紹介
+>自分の事も誇って良いんだよ、愛して良いんだよ
+-オレジナルPの配信EP。
+-巡音ルカ3周年を記念して『[[Lunalight Serenade>Lunalight Serenade/CD]]』と同時にリリースされた。
+-作詞に[[涼風P]]こと涼風涼雨氏を迎えた表題曲「ordinary day's music」と、九州コンピレーションCD『[[Qusic]]』収録の「郷愁サンバ」の2曲を収録している。
+
+**曲目
++[[ordinary day's music]] （feat. 巡音ルカ）
++[[郷愁サンバ]] （feat. 巡音ルカ）
+
+**リンク
+-[[KARENT：「ordinary day's music」>>http://karent.jp/album/984]]
+-[[KARENT：「巡音ルカ聖誕祭'12」特集ページ>>http://karent.jp/special/luka12]]
+-[[KARENT：アーティスト・インタビュー「オレジナルP」>>http://karent.jp/special/luka12interview_oreginalp]]
+
+**コメント
+#comment()

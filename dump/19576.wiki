@@ -1,0 +1,35 @@
+#right(){&furigana(どく e.p.)&furigana()【登録タグ:&tags() 】}
+//&ref(http://u.jimdo.com/www35/o/s8b62f1a0bbba2b9c/img/iaf044d73b14bb1e8/1323524374/std/image.jpg)
+
+&ref(https://image.jimcdn.com/app/cms/image/transf/dimension=180x1024:format=jpg/path/s8b62f1a0bbba2b9c/image/ibe1670c3a366dc73/version/1383399190/image.jpg)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm16403945)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[P>P/CD]]|CENTER:&bold(){毒 e.p.}|CENTER:[[MOKSHA]]|
+
+|&bold(){[[鬱P]]}|
+
+||CENTER:即売|
+|発売|CENTER:2011年12月31日|
+|価格|CENTER:￥500|
+|サークル|CENTER:MY SONG IS SHIT|
+
+**CD紹介
+-鬱P の3曲入り e.p. 。
+-3曲の収録曲は全て新作。
+-コミックマーケット81（C81） にて頒布。
+
+**曲目
++[[ディス・イズ・ラブソング]]
++[[惑星無修正]]
++まっしろな毒  
+
+**リンク
+-[[作者ホームページ>>http://msis.jimdo.com/]]
+
+**コメント
+- うわ表紙かっこいいッ！  -- 冷夜  (2011-12-17 22:05:29)
+- これ見てSOAD思い出した人1/20  -- (ι'ω')  (2011-12-18 11:25:45)
+- まさかのデスボ抜き  -- 名無しさん  (2012-01-29 14:25:17)
+#comment()

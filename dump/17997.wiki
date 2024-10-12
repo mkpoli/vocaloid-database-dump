@@ -1,0 +1,15 @@
+#right(){【登録タグ:&tags()】}
+//↑タグ忘れ防止のための表示
+曖昧さ回避のためのページ
+----
+-[[だあくP]]の曲
+--[[Rebellion/だあくP]]
+-[[享年16]]の曲
+--[[rebellion/享年16]]
+-[[misa]]の曲
+--[[Rebellion/misa]]
+
+-[[yu-go]]のCD
+--[[Rebellion/CD]]
+
+#include(曖昧さ回避の追加の仕方/告知)

@@ -1,0 +1,38 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm16117569)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[LANA]]|CENTER:&bold(){emonloid3}|CENTER:[[emonloid4]]|
+
+|&bold(){[[emon（Tes.）]]}|[[八王子P]]|[[こみね]]|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|CENTER:2011年11月19日|CENTER:2011年11月19日|
+|価格|CENTER:￥1,000|CENTER:￥1,512（税込）|
+|サークル|CENTER:SUKEMON8|CENTER:emonloid|
+
+**CD紹介
+-音楽グループ「Tes.」所属の emon氏 の 3rdアルバム。
+-「[[ハローハロー>ハローハロー/emon（Tes.）]]」「[[夜空色シンパシズム]]」「[[ACE]]」など、全10曲を収録。
+-八王子P による remix や 向日葵氏 ・ 栗プリン氏 の歌ってみたも収録されている。
+-アートデザインは 大沼もん氏 が手掛ける。PVは [[こみね]]氏 。
+-THE VOC@LOiD M@STER 18（ボーマス18） にてリリース。
+
+**曲目
++instrument　&bold(){&color(red){NEW!!}}
++[[too Cute>too Cute!]]　&bold(){&color(red){NEW!!}}
++[[ハローハロー>ハローハロー/emon（Tes.）]]
++[[パラステラル]]　&bold(){&color(red){NEW!!}}
++OVER　&bold(){&color(red){NEW!!}}
++[[夜空色シンパシズム]]
++[[ACE]]
++[[Heart Beats]] -8#Prince（八王子P） ReMix-
++LANA feat. 栗プリン
++[[夜空色シンパシズム feat. 向日葵>>http://www.nicovideo.jp/watch/sm16010252]]
+
+**リンク
+-[[D-STAGE>>http://d-stage.com/shop/detail.php?seq=24502]]
+
+**コメント
+- 追加乙！  -- 名無しさん  (2011-11-13 00:41:27)
+#comment()

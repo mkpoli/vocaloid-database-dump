@@ -1,0 +1,35 @@
+#right(){&furigana()&furigana()【登録タグ:&tags()】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/18091961" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/18091961">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-「Flying Sky」でボカロPデビュー。
+-主に鏡音レン曲を投稿。代表作は「[[777カジノ]]」
+-所持ボカロは初音ミク、鏡音リン・レン、KAITO、GUMI。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/hirakun]]
+-[[Twitter>>http://twitter.com/Hi_kun2525]]
+
+**曲
+#list_by_tag(Hi-kun,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(Hi-kunCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm10034465)|&nicovideo(http://www.nicovideo.jp/watch/sm10230141)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm10800437)|&nicovideo(http://www.nicovideo.jp/watch/sm11169920)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm11626332)|&nicovideo(http://www.nicovideo.jp/watch/sm11922789)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12853184)|&nicovideo(http://www.nicovideo.jp/watch/sm13146355)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm13153643)|&nicovideo(http://www.nicovideo.jp/watch/sm13213462)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm13289406)|&nicovideo(http://www.nicovideo.jp/watch/sm14506227)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm14637044)|&nicovideo(http://www.nicovideo.jp/watch/sm14832908)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm15021129)|&nicovideo(http://www.nicovideo.jp/watch/sm15815944)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm15943023)|&nicovideo(http://www.nicovideo.jp/watch/sm15946249)|
+**コラボ
+|&nicovideo(http://www.nicovideo.jp/watch/sm14573069)|
+
+**コメント
+- やっと追加された！この人のレンが好きだ。  -- 名無しさん  (2011-10-24 20:05:20)
+- Flying Skyからずっとファン!  -- 名無しさん  (2012-07-04 23:32:38)
+#comment()

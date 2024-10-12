@@ -1,0 +1,69 @@
+#right(){&furigana(MARUDARUMA)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/25771536" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/25771536">つくったもの</a></iframe>)
+
+**特徴
+作り手名：『&u(){MARUDARUMA}』(&u(){まるだるま})
+-2011年6月、GUMI誕生祭2011の最中『[[貝になって死んじゃいたい]]』を投稿し、デビューを果たす。
+-作成する楽曲はロック系。ボーカルは今のところ、GUMIのみを起用している。
+-味のある手描きPVが特徴。
+-初期に発表された曲は再生回数は少ないものの、いずれも高い評価を得ていたが、6作目の『[[あいからかいあ]]』で遂にブレイク。
+-続く、7作目の『[[ニビョウカン]]』で自身初の殿堂入りを達成。
+-2013年には、[[石敢當>後藤紘明]]氏、OK氏、グシミヤギヒデユキ氏、3110氏らと共に、バンド「むかしばなし」を結成。精力的に活動している。
+
+**リンク
+-[[MARUDARUMA（作者ホーム―ページ）>>http://marudaruma.jimdo.com/]]
+-[[だるま日記（作者ブログ）>>http://marudarumadayo.blog.fc2.com/]]
+-[[PIAPRO>>http://piapro.jp/marudaruma]]
+-[[Twitter>>http://twitter.com/marudarumadayo]]
+
+**曲
+#list_by_tagsearch(MARUDARUMA,sort=furigana2,errmsg=まだ曲が登録されていません。,and,100)
+
+**CD
+#list_by_tagsearch(MARUDARUMACD,sort=furigana2,errmsg=まだCDが登録されていません。,and,100)
+
+**動画
+|>|BGCOLOR(#7fff00):COLOR(#FFF):CENTER:&font(b,11pt){オリジナル曲}|
+|&nicovideo(http://www.nicovideo.jp/watch/nm14753744)|&nicovideo(http://www.nicovideo.jp/watch/nm14925911)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm15189350)|&nicovideo(http://www.nicovideo.jp/watch/sm15800552)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm15857714)|&nicovideo(http://www.nicovideo.jp/watch/sm15938820)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm16693218)|&nicovideo(http://www.nicovideo.jp/watch/sm17855521)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm18279939)|&nicovideo(http://www.nicovideo.jp/watch/sm18442093)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm18822726)|&nicovideo(http://www.nicovideo.jp/watch/sm19180528)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm19518241)|&nicovideo(http://www.nicovideo.jp/watch/sm20855202)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm22982245)|&nicovideo(http://www.nicovideo.jp/watch/sm23898562)|
+
+**コメント
+- ページができただけで嬉しい  -- 名無しさん  (2011-09-11 10:51:42)
+- MARUDARUMAさんの曲毎回ツボに入るｗＰＶも好き！  -- 名無しさん  (2011-10-24 01:06:44)
+- 金柑畑公開のあたりから知ってひそかに応援してたらようやくページ出来た！嬉しい！  -- 名無しさん  (2011-10-26 11:48:04)
+- おぉ、MARUDARUMAさんのページできてる！この人が作る曲はどれも秀麗すぐる自作PVも凄いし…ニビョウカンよかったです！後半ウルッときた  -- 昆布  (2012-01-21 11:36:25)
+- YMさんに続き好きなGUMI使いです。曲調も調教も好きだ  -- 名無しさん  (2012-03-04 18:20:23)
+- ニビョウカンからハマって全部好きになりました！ＰＶも前衛的ですごくいいです！  -- 名無しさん  (2012-04-04 18:18:45)
+- 調教が独特で好きなぁ  -- 名無しさん  (2012-04-08 15:57:09)
+- 大好きすぎる><伸びて欲しいなぁ  -- ありあ  (2012-04-24 21:56:14)
+- なんでこんなに再生回数少ないの？もっと伸びるべき！  -- ゆきの  (2012-06-03 14:27:18)
+- ニビョウカンでら好きです  -- 1887  (2012-06-24 16:32:03)
+- ニビョウカンほれた。うさぎかっこよくてほれた。てかもっと伸びるべき。  -- おその  (2012-06-24 17:27:11)
+- ニビョウカンで惚れた  -- 名無しさん  (2012-11-01 21:06:28)
+- おれもニビョウカンで。。。　毎日聞いてるＺＥ☆ｗ  -- にょぐ。  (2012-11-24 15:33:40)
+- 青い奇跡で惚れました。一回聞いただけで惚れた。もっと伸びてほしい！  -- 名無しさん  (2012-12-03 19:44:30)
+- ニビョウカンから。あと、あいからかいあが可愛いすぎる件((  -- 名無しさん  (2012-12-23 17:15:12)
+- 世界のゴミ捨て場から好きになりました。あいからかいあもかわいらしくってすきです！  -- 名無しさん  (2013-01-16 17:50:05)
+- ずっと光る砂はマジでもっと評価されるべき MARUDARUMAさんの曲の中で一番好きだ  -- 名無しさん  (2013-01-18 23:45:54)
+- 音、調教、世界観。どれを取っても、ちゃんと自分だけのものを持っている、凄い人だと思う。  -- 竜奇  (2013-01-21 18:26:02)
+- 曲が、全部良い！(　´∀｀)  -- soara  (2013-01-31 19:23:00)
+- ハズレがないんだよなあ〜  -- 名無しさん  (2013-02-28 22:33:34)
+- 一発であいからかいあに持ってかれたんだよなぁ。何回リピートし続けた事か…  -- 名無しさん  (2013-04-19 07:36:27)
+- MARUDARUMA  さんの曲はすごくぐっとくる‼(気がする) すごく好き‼  -- 名無しさん  (2013-05-28 18:34:13)
+- ニビョウカンは、ただのネ申曲でしかない。  -- ふーちゃん  (2014-06-26 22:15:18)
+- あいからかいあから。今はウレラサロドを毎日かかさずバカみたいに聞いてる  -- 名無しさん  (2014-12-04 23:12:35)
+- 音に無駄がなく最高です。ロックを感じました痺れます！！  -- ginyu  (2015-06-22 22:07:16)
+- 金柑畑で会いましょう、あいからかいあ、ニビョウカン、ウレラサロド、ソラナミマクラ、世界に嫌われたラブソングが好きです。新曲来ないかな～  -- 名無しさん  (2017-01-17 10:27:28)
+- ロックめちゃ好き…！  -- 名無しさん  (2022-05-25 10:10:19)
+- すべてのボカロ曲の中でずっと光る砂が今でも一番好き  -- 名無しさん  (2023-02-04 21:14:43)
+#comment()

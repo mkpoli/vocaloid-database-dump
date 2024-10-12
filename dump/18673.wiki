@@ -1,0 +1,34 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/3810221" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/3810221">vilPの音楽</a></iframe>)
+
+**特徴
+-可愛らしいさわやかな音楽を作るP。
+-使用ボカロは今のところ、ミク・GUMI・リン。
+-第4回「初音ミク Project DIVA Arcade」楽曲募集企画に応募した「[[月向うまでのトラベル]]」は選考の結果、見事に採用。
+
+**リンク
+-[[いいものは、いい。vil*Blog（作者ブログ）>>http://ameblo.jp/vilbrog/]]
+-[[ピアプロ「vilPさん」のページ>>http://piapro.jp/vilP]]
+-[[Twitter>>http://twitter.com/vilvilvilp]]
+-[[イロウサギレコード（作者サイト）>>http://irousagirecord.web.fc2.com/]]
+
+**曲
+#list_by_tag(vilP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(vilPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm1663942)|&nicovideo(http://www.nicovideo.jp/watch/sm1853483)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2425613)|&nicovideo(http://www.nicovideo.jp/watch/sm2575563)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm11333388)|&nicovideo(http://www.nicovideo.jp/watch/sm14178212)|
+|&nicovideo(sm14848298)|&nicovideo(sm15355996)|
+|&nicovideo(sm16013860)|&nicovideo(sm16197257)|
+|&nicovideo(sm18540817)|&nicovideo(sm18641997)|
+|&nicovideo(sm18942243)|&nicovideo(sm19498137)|
+|&nicovideo(sm20175160)|&nicovideo(sm20753030)|
+|&nicovideo(sm23272051)|&nicovideo(sm26536234)|
+
+**コメント
+-簡単に特徴を記載しました。なお、「紹介文未登録」というタグは一般的ではない（修正依頼ページでも拾いません）ため、紹介文を追加したい場合は直接修正依頼ページへご依頼ください。  --  moto (2011-10-16 12:12:16)
+#comment()

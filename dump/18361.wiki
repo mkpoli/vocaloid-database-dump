@@ -1,0 +1,42 @@
+#right(){&furigana(しょうじょたちのうた)&furigana()【登録タグ:&tags() 】}
+//&ref(http://remiliahxahxa.iza-yoi.net/v17x.PNG,width=300,height=300)
+
+&ref(http://remiliahxahxa.iza-yoi.net/v17x.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[僕は悪いロリコンじゃないよ]]|CENTER:&bold(){少女達の唄}|CENTER:-|
+
+|&bold(){[[キモウトP]]}|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|>|CENTER:2011年9月4日|
+|価格|>|CENTER:￥500（税込）|
+|サークル|>|CENTER:ロリコンの地位向上|
+
+**CD紹介
+-全体的に暗めのメタル。
+-THE VOC@LOID M@STER 17（ボーマス17）で発表。
+
+**曲目
++[[退廃的幻想童話]]
++[[幸福論]]
++[[Religion Love]]
++[[百合の寝台]]
++ユガンダオモイ
++闇の底
++[[ワルプルギスの夜]]
++Skeptics
++破滅を唄う少女
++[[淫夢]]
++[[血の契約>血の契約/キモウトP]]
++[[ウタワセテ]]
++少女達の唄
+
+**リンク
+-[[ロリコンの地位向上>>http://remiliahxahxa.iza-yoi.net/]]
+-[[作品紹介ページ>>http://remiliahxahxa.iza-yoi.net/works.html]]
+-[[歌詞ページ>>http://remiliahxahxa.iza-yoi.net/lyrics2.html]]
+-[[DLsite>>http://home.dlsite.com/work/=/product_id/RJ083204.html]]
+
+**コメント
+#comment()

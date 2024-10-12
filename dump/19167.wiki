@@ -1,0 +1,42 @@
+#right(){&furigana(はつねみくTEAR)&furigana()【登録タグ:&tags() 】}
+
+#amazon(B006477GAA)
+//&ref(HatsuneMikuTEAR_Image.jpg,,height=200,widht=200)
+&nicovideo(sm16287703)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[(っ´ω｀c)]]&br()[[(っ*'ω'*c)]]|CENTER:&bold(){初音ミク TEAR}|CENTER:[[8秒]]|
+
+|&bold(){[[AVTechNO]]}|
+
+||CENTER:即売|CENTER:通販|CENTER:配信|
+|発売|CENTER:2011年11月19日|CENTER:2011年11月23日|CENTER:2011年12月14日|
+|価格|CENTER:￥1,000|CENTER:￥1,575（税込）|CENTER:￥600 / 1曲￥150|
+|サークル|>|CENTER:AVTechNO!||
+
+**CD紹介
+>涙はココロの優しさのカタチ 流せば流すほど心が綺麗になるのさ
+>悲しみの涙はしあわせの為にある 流せば流すほど いつまでも笑顔でいられる涙を・・・
+-AVTechNO!氏の3作目となるCD作品。
+-ジャケットデザインは[[吉田ドンドリアン]]こと吉田ヨシツギ氏。ブックイラストは心亜（Cocoa）氏。
+-THE VOC@LOiD M@STER 18（ボーマス18）で先行頒布。Amazonで委託販売が行われる。
+-KarenTレーベルダウンロード販売も行われているが、「tear （Off Vocal）」が未収録の全5曲となっている。
+
+**曲目
++[[tear>(っ*'ω'*c)]] （feat. 初音ミク）
++[[---]] （feat. 初音ミク）
++ブラックインザ （feat. 初音ミク）
++[[Blue / Green>Blue／Green]] IIXII （feat. 初音ミク）
++Black in the ... （inst ver.）
++tear （Off Vocal）
+
+**リンク
+-[[作者サイト>>http://avtechno.ukime.org/]]
+-[[特設ページ>>http://avtechno.ukime.org/avt0003.html]]
+-[[Amazon.co.jp>>http://www.amazon.co.jp/dp/B006477GAA/]]
+-[[KarenT：「初音ミク TEAR」>>http://karent.jp/album/898]]
+
+**コメント
+- 今日届きました。すごくよかった！音が進化してます！！！  -- 名無しさん  (2011-12-05 19:23:51)
+- またメイトで店頭販売して欲しい。。。  -- 名無しさん  (2011-12-08 03:21:45)
+#comment()

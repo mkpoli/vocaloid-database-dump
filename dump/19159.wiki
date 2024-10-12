@@ -1,0 +1,27 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+//&nicovideo_mylist(<iframe width="312" height="176" src=""http://www.nicovideo.jp/thumb_mylist/0" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href=""http://www.nicovideo.jp/mylist/0"">-</a></iframe>)
+公開マイリストがありません。[[snzさんの投稿動画>>http://www.nicovideo.jp/user/1124541/video]]をご利用ください。
+
+**特徴
+-2008年10月に「[[melody>melody/snz]]」にてデビュー。
+-使用ボーカロイドは、初音ミク。
+-落ち着いた可愛らしい曲を作る。
+
+**リンク
+-[[ピアプロ 「snz123さん」のページ>>http://piapro.jp/snz123]]
+
+**曲
+#list_by_tag(snz,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(snzCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm4971907)|&nicovideo(http://www.nicovideo.jp/watch/nm7947979)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm10104460)|&nicovideo(http://www.nicovideo.jp/watch/nm11507785)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm14182597)|&nicovideo(http://www.nicovideo.jp/watch/sm14853941)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm16093761)|&nicovideo(http://www.nicovideo.jp/watch/sm16943972)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm17734660)||
+
+**コメント
+#comment()

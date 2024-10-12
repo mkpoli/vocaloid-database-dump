@@ -1,0 +1,13 @@
+#right(){【登録タグ:&tags()】}
+//↑タグ忘れ防止のための表示
+曖昧さ回避のためのページ
+----
+-[[takumi]]の曲
+--[[Ivory/takumi]]
+-[[muhmue]]の曲
+--[[ivory/muhmue]]
+
+-[[ichiP]]のCD
+--[[Ivory/CD]]
+
+#include(曖昧さ回避の追加の仕方/告知)

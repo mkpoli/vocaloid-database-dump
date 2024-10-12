@@ -1,0 +1,33 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/875_20111008222230_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Sweet Love}|CENTER:[[Odyssey>Odyssey/CD]]|
+
+|&bold(){[[ぱんだっち]]}|
+
+発売：2011年10月24日
+価格：￥300 / 1曲￥150
+流通：配信
+レーベル：KarenT
+ジャケットイラスト：[[さち缶>>http://piapro.jp/sachikan]]
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/sweet-love/id473613391]]}|
+
+**CD紹介
+-ぱんだっち氏の配信作品。
+-甘い恋の歌3曲を集めた初のミニアルバム。
+-「叶わぬ恋の物語」は、作曲当初のソウルアレンジで収録。
+-KarenTの「Cafeでのひととき」特集で配信された作品の1つ。
+
+**曲目
++[[Sweet Love]] （feat. 巡音ルカ）
++[[Catch Me]] （feat. 巡音ルカ）
++[[叶わぬ恋の物語]] -Sweetlove Soul Mix- （feat. 初音ミク）
+
+**リンク
+-[[KarenT：「Sweet Love」>>http://karent.jp/album/875]]
+-[[KarenT：「Cafeでのひととき」特集ページ>>http://karent.jp/special/cafe11]]
+
+**コメント
+#comment()

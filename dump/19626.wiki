@@ -1,0 +1,63 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://blog-imgs-38.fc2.com/k/o/m/komonodfkdfk/leon101.png,height=250)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm15940775)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Strikes back E.P.]]|CENTER:&bold(){Code:Adam}|CENTER:-|
+
+|&bold(){[[大福P]]}|
+
+|流通|CENTER:即売|CENTER:同人|CENTER:配信|
+|発売|CENTER:2011年10月30日||CENTER:2012年3月5日|
+|価格|CENTER:|CENTER:￥1,260|CENTER:￥900 / 1曲￥150|
+|サークル|>|CENTER:Harvest||
+
+**CD紹介
+>&bold(){(´・ω・｀)れおーん}
+-大福P7作目の同人CD 。
+-CD2枚組、収録時間計100分超、そして全てのトラックがVOCALOID01:LEONを使用した楽曲となっている。
+-ニコニコ動画に投稿済みの既存曲も全てリニューアルバージョン収録。
+-VOCALOID PARADISE 6にて初頒布。
+-とらのあなで委託販売が行われている。
+-2012年にはKARENTレーベルよりダウンロード販売が開始。タイトルは『Code:Adam -KarenT Edition-』。収録内容が変更されており、全9曲となっている。
+
+**曲目
+***CD版
+Disc1 [Original side]
++Code:Adam
++[[流星>流星/大福P]](Shooting star)(Album mix)
++[[Sweet Insanity]](long ver.)
++[[Slashing(2011 hard mix)>Slashing]](Album mix)
++[[Beep Beep]]
++New World 2011
++[[完全侵蝕(A.I. -Absolute Infection-)]]
++[[Let's Dance(As Being In Your Dream)]](Album mix) 
++Everything is in the happiness and peace
++[[Life game]](Album mix) 
+
+Disc2 [Another side]
++Let's Dance(S.D.N. style) remixed by Jun Shimokawa + Kiyoto Hashimoto
++完全侵蝕 -Absolute Infection- (minimaltronik mix) remixed by Daisuke Ohnuma
++New World
++Slashing
++Nonstop (Slashing 2011 + Beep Beep + 流星 + 完全侵蝕 + Sweet Insanity)
+
+***配信版
++Code:Adam
++[[Sweet Insanity]] (Album ver.)
++[[流星>流星/大福P]](Ryu-sei)
++[[Slashing]] 2011 (Extended mix)
++[[完全侵蝕 -Absolute Infection->完全侵蝕(A.I. -Absolute Infection-)]]
++[[Beep Beep]]
++[[Let's Dance>Let's Dance(As Being In Your Dream)]](Album ver.) 
++全ては幸せと平和の中に
++完全侵蝕 -Absolute Infection- (minimaltronik rmix)
+
+**リンク
+-[[作者ブログ>>http://komonodfkdfk.blog19.fc2.com/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/00/97/040030009719.html]]
+-[[KARENT：「Code:Adam -KarenT Edition-」>>http://karent.jp/album/1012]]
+
+**コメント
+#comment()

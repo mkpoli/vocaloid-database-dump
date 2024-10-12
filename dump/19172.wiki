@@ -1,0 +1,39 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://blog-imgs-37.fc2.com/0/o/a/0oandorukana/AA_000.jpg,height=250,width=250)
+
+|&nicovideo(http://www.nicovideo.jp/watch/sm16140726)|&youtube(https://www.youtube.com/watch?v=zckEAXe2mCY){336,189}|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Archaic Alchemy}|CENTER:-|
+
+|&bold(){[[アナクロP]]}|
+
+|流通|CENTER:即売|
+|発売|CENTER:2011年11月19日|
+|価格|CENTER:￥500|
+|サークル|CENTER:Crosswhen|
+
+**CD紹介
+>&bold(){アナクロP が贈る、時代錯誤で古風な33分33秒をあなたに。}
+-アナクロP の 1st album 。
+-これまでにリリースした曲からの寄り選り＋新曲の全9曲を収録。
+-過去曲は、ミクさんにV3で歌い直してもらい、オケも諸々手直し、作り直ししております。（作者コメ転載）
+-ジャケットイラストは イヨリ氏 が手掛ける。ゲストとして osu氏 と TONO氏 が演奏で参加。
+-THE VOC@LOiD M@STER 18（ボーマス18） にてリリース。
+
+**曲目
++Unforgettable
++[[ワールズエンドガーデン]]
++Amber
++[[Epokhê]]
++[[オールドワルツ]]
++[[沈める空想]]
++[[神の子供達はみな歌う]]
++[[エンドポイントノエル]]
++明日に、灯す
+
+**リンク
+-[[作者ブログ>>http://0oandorukana.blog108.fc2.com/]]
+
+**コメント
+#comment()

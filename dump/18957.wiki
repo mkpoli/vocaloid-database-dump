@@ -1,0 +1,42 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+
+#image(http://sugirlmusic.himegimi.jp/banner1.jpg,http://sugirlmusic.himegimi.jp/,title=sugirl*music,blank) 
+
+|&nicovideo(sm16087820)|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){sugirl*music}|CENTER:[[petit*partrre]]|
+
+|[[赤い彗星P]]|[[chuson]]|[[白王子P]]|[[きゃんでぃP]]|[[ファミマP]]|[[ヤミカ]]|
+|[[オレジナルP]]|[[飴玉P]]|[[おればななP]]|[[たまごポーロP]]|[[桜♪椛]]||
+
+>発売：2011年11月19日
+>価格：￥1,000（税込）
+>流通：即売
+>サークル：sugirl*music
+
+**CD紹介
+-お砂糖みたいな女子ボカロP10名による、お菓子コンピレーションアルバム。
+-曲から裏方まで、参加者は全て女性のみ。
+-ジャケットは 独楽子氏 が、マスタリングは 抹茶氏 が手掛けている。
+-THE VOC@LOiD M@STER 18（ボーマス18） にてリリース。
+-通販が行われていたが、すでに終了。
+
+**曲目
++[[ストロベリーショートケーキ]]　/　赤い彗星P
++Addictive Chocolate　/　chuson
++[[いかれた子猫と嘘吐きサンディ]]　/　白王子P
++甘納豆の月曜日　/　きゃんでぃP
++ラズベリーキャラメル　/　Ruco（ファミマP）
++ハツコイ林檎飴　/　ヤミカ
++[[BITTERSWEET SOUL]]　/　オレジナルP
++sugarplum　/　飴玉P
++シュガーリィ*ドリームライン　/　飴玉P＆きゃんでぃP＆おればななP
++まったりお茶会してみたよっ！　/　たまごポーロP
+
+**リンク
+-[[公式サイト>>http://sugirlmusic.himegimi.jp/]]
+
+**コメント
+- ほしい！！！  -- 名無しさん  (2013-04-14 14:02:21)
+#comment()

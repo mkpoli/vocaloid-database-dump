@@ -1,0 +1,41 @@
+#right(){&furigana(ふる)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/8991743" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/8991743">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-2011年10月、「[[反芻の印象]]」でボカロデビューした作り手。
+-ゲームミュージックのアレンジや二次創作動画を発表していたが、初音ミクでオリジナル曲を発表した。
+-ミュージカルのような、オーケストラサウンドを得意とする。
+-使用ボカロは今のところ初音ミクのみ。
+-2作目の「[[ひよこと天秤]]」がヒットし、初の殿堂入りを達成した。
+
+**リンク
+-[[Twitter>>https://twitter.com/furu_old]]
+
+**曲
+#list_by_tag(ふる,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(ふるCD,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm15965134)|&nicovideo(http://www.nicovideo.jp/watch/sm17095104)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm18667860)|&nicovideo(http://www.nicovideo.jp/watch/sm21036774)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm21683999)|&nicovideo(http://www.nicovideo.jp/watch/sm21878443)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm22894139)|&nicovideo(http://www.nicovideo.jp/watch/sm25895025)|
+|&nicovideo(sm28454783)|&nicovideo(sm31353872)|
+
+**コメント
+- 反芻の印象 だいすき です ！ 次作 も たのしみにしてます ！  -- とむ  (2011-11-09 07:54:56)
+- もう……好きです すいません  -- 名無しさん  (2011-12-04 10:29:17)
+- ハンパじゃないっすね  -- 名無しさん  (2012-03-24 00:17:32)
+- センスありすぎ…新曲wktkしながら待ってます  -- 出目金  (2012-05-09 07:55:38)
+- ミクの高音と対照的なうp主の低音コーラスがたまらない  -- 名無しさん  (2012-08-13 22:10:16)
+- ただのボカロPにしておくには勿体ないセンス…！  -- みやこ  (2013-08-25 21:54:10)
+- ひよこと天秤はオペラを聞いているようで好き!!期待のボカロPです(｀・ω・´)！  -- 黒葉  (2013-10-26 20:20:51)
+- 「モスクワを擁して」で惚れたので今から巡回してきます(笑)  -- 名無しさん  (2014-03-04 14:04:20)
+- どの曲も大好きです！本当に素敵な楽曲いつも有り難うございます！！  -- 名無しさん  (2014-11-17 21:56:03)
+- 綺麗な歌詞と頭に残るメロディが好きです。CD出たら絶対買うんで。  -- いもよおかん  (2015-08-03 16:14:04)
+- 歌詞の言葉選びが本当に素敵。これからも応援してます。  -- 名無しさん  (2016-05-04 13:09:42)
+- ちゃんと音楽をやっている人なんだなぁ、巡回してきます  -- 名無しさん  (2017-05-15 19:14:56)
+- 土葬ヶ丘のアルバムの完成度の高さって部分のインパクトは凄かったってのは今でも良く覚えてる。セカンドアルバムもぜひ欲しい！  -- 名無しさん  (2020-04-07 06:34:13)
+#comment()

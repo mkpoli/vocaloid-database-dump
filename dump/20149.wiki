@@ -1,0 +1,48 @@
+#right(){&furigana(clear) &furigana()【登録タグ:&tags() 】}
+&ref(http://img.toranoana.jp/bl_img/04/0030/01/47/040030014722-1.gif)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm16542070)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[芒果布丁>芒果布丁/CD]]|CENTER:&bold(){crystaL-xxx-}|CENTER:[[Reach for the Bluesky>Reach for the Bluesky/CD]]|
+
+|&bold(){[[クリスタルP]]}|
+
+||CENTER:即売|CENTER:委託|
+|発売|CENTER:2011年12月31日|CENTER:|
+|価格|CENTER:￥1,000|CENTER:￥1,323（税込）|
+|サークル|>|CENTER:zegHed Label|
+
+**CD紹介
+>最初の『[[crystaL>crystaL（クリスタエル）]]』から4年、
+>だいたいAppend化された
+>究極の
+>“ある程度”ベストアルバム！
+-クリスタルPのCDアルバム。
+-本人も「まぁある程度ベストっぽい」と語る究極の“だいたいBEST”。新曲の兄弟デュオ曲も収録されている。
+-コミックマーケット81（C81）で頒布。
+-イラストやアートワーク全般をNERVEのみぎわ蓮氏が担当。
+-とらのあなで委託販売が行われている。
+
+**曲目
++Gabriel- I　　&color(red){NEW!!}
++without U (App.)
++コノ春、アノ春。
++[[指輪>指輪/クリスタルP]]-on Stage remix- (App.)
++[[陰陽]] (App.)
++[[campanula blue]] (App.)
++[[farewell speaker]]-reApp.-
++b-Mermaid (App.)
++[[ノヴァトラベル]] (App.)
++white code-original- (App.)
++[[湖城]] (App.)
++[[crystal mic]]-original-
+
+
+**リンク
+-[[作者ホームページ>>http://k-kei.versus.jp/]]
+-[[とらのあな>>http://www.toranoana.jp/bl/article/04/0030/01/47/040030014722.html]]
+
+**コメント
+- 『crystaL』の頒布は2008年の冬コミ。……4年？  -- ページ作った人  (2012-01-16 05:52:24)
+#comment

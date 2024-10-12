@@ -1,0 +1,39 @@
+#right(){&furigana(meola)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/11529220" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/11529220">【ニコニコ動画】</a></iframe>)|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/11528237" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/11528237">【ニコニコ動画】</a></iframe>)|
+
+**特徴
+作り手名：『&u(){meola}』(&u(){めおら})
+-水彩調の美麗で可愛らしい画風が特徴の絵師・PV師。
+-自身でイラストを描く他にも、MMDを使用して高度な動画を作ることもある。
+-主に [[ゆよゆっぺ]]氏とコラボしている。また、PIAPROに投稿したイラストが動画に採用されることもしばしば。
+
+**リンク
+-[[Carbon（作者ブログ）>>http://meola.ame-zaiku.com/]]
+-[[PIAPRO>>http://piapro.jp/meola]]
+-[[Pixiv>>http://www.pixiv.net/member.php?id=31990]]
+-[[Twitter>>http://twitter.com/sy0ujiki]]
+
+**曲
+#list_by_tag(meola,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(meolaCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画（殿堂入り作品のみ提示）
+|&nicovideo(sm5990990)|&nicovideo(sm6730909)|
+|&nicovideo(sm6828492)|&nicovideo(sm7115526)|
+|&nicovideo(sm7326739)|&nicovideo(sm8132511)|
+|&nicovideo(sm8269133)|&nicovideo(sm8830999)|
+|&nicovideo(sm8855325)|&nicovideo(sm9100256)|
+|&nicovideo(sm9294724)|&nicovideo(sm9485673)|
+|&nicovideo(sm13080943)|&nicovideo(sm13185918)|
+
+**コメント
+- 大好きです。応援してるよ★  -- りせ  (2011-12-19 16:00:06)
+- ZOUは？  -- 名無しさん  (2013-10-22 16:18:44)
+- ゆよゆっぺ様とのコラボがお気に入りです!  -- 片霧  (2013-11-09 17:25:57)
+#comment()

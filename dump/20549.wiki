@@ -1,0 +1,31 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/998_20120127031556_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[螺旋-RASEN-]]&br()[[SPIRAL TRILOGY The Art Works]]|CENTER:&bold(){My Song}|CENTER:[[My Life>My Life/CD]]|
+
+|&bold(){[[Ebot]]}|
+
+発売：2012年2月17日
+価格：￥300 / 1曲￥150
+流通：配信
+レーベル：KarenT
+ジャケットイラスト：Unin
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/my-song/id501613264]]}|
+
+**CD紹介
+-Ebot氏の2曲入りEP。
+-KAITO発売6周年記念に、KarenTレーベルよりダウンロード販売が開始された。
+-VOCALOID『KAITO（カイト）』を使用した、ポップで楽しいマーチングバンド風の2曲。&br()“再出発”と“ひとやすみ”をテーマに、飾らない等身大の言葉をやさしく歌います。&br()頑張ってる大人に贈るメッセージソングです。&br()（KarenT作品概要より）
+
+**曲目
++[[マイ ソング - Let's snap out of it!->マイソング]] （feat. KAITO）
++[[マイ ペース - go one's own way ->マイペース/Ebot]] （feat. KAITO）
+
+**リンク
+-[[KarenT：「My Song」>>http://karent.jp/album/998]]
+-[[KarenT：「KAITO誕生祭'12」特集ページ>>http://karent.jp/special/kaito12]]
+
+**コメント
+#comment()

@@ -1,0 +1,39 @@
+#right(){&furigana(りんのせいしん)&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/937_20111206163141_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[ミクの夏休み]]|CENTER:&bold(){リンのせいしん！！}|CENTER:[[She looks prettier without makeup]]|
+
+|&bold(){[[ジェバンニP]]}|
+
+発売：2011年12月21日
+価格：￥900 / 1曲￥150
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：キタカライ
+
+|&bold(){[[iTunes Storeで購入する>>https://itunes.apple.com/jp/album/id489109180]]}|
+
+**CD紹介
+>リンを好きな全ての人へ、ちょっとクールでSFチックなリンの歌をどうぞ。
+-ジェバンニPの5作目となる配信アルバム。
+-ジェバンニPのリン曲を集めたアルバムとなっている。
+-KARENTレーベルの鏡音リン・レン4周年&Append1周年記念特集で配信された作品の1つ。
+
+**曲目
++[[ヒカリ・ヒカリ]]
++[[OTO]]
++[[線香花火>線香花火/ジェバンニP]]
++[[ハ・シ・レ]] 2011
++[[大好き土曜日、ちょっと好き水曜日、あとは闇>大好き土曜日、ちょっと好き水曜日、あとは闇の歌]]
++[[ふたりん]]
++[[恋のHARD MODE ～リンとデュエットしてみた～>恋のHARD MODE]]
++[[ジェバンニPの車窓から]]
+
+**リンク
+-[[作者ブログ>>http://jvnp.blog60.fc2.com/]]
+-[[KARENT：「リンのせいしん！！」>>http://karent.jp/album/937]]
+-[[KARENT：「鏡音リン・レン祭'11」特集ページ>>http://karent.jp/special/rinlen11]]
+
+**コメント
+#comment()

@@ -1,0 +1,44 @@
+#right(){&furigana(さはら)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://ext.nicovideo.jp/thumb_mylist/9713208" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/9713208">【ニコニコ動画】%E3%81%95%E3%81%AF%E3%82%89%E6%B2%99%E6%BC%A0%E3%80%82</a></iframe>)
+
+**特徴
+作り手名：『&u(){さはら}』
+-作詞家の作り手。
+-[[頑なP]]、[[psgmania]]氏、[[とめP]]とのコラボが多い。
+-[[のりP]]と組んだ「[[ひとひらの]]」、[[頑なP]]と組んだ「[[Femme Fatale]]」は殿堂入りを果たしている。
+
+**リンク
+-[[作者ブログ>>http://shra25.blog81.fc2.com/]]
+-[[ニコニコ>>https://www.nicovideo.jp/user/6607248]]
+-[[PIAPRO>>https://piapro.jp/sunahara]]
+//-[[Twitter>>https://twitter.com/d_sahara]]
+
+**曲
+#list_by_tag(さはら,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(さはらCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm5383558)|&nicovideo(sm5651357)|
+|&nicovideo(sm6424969)|&nicovideo(sm7721154)|
+|&nicovideo(nm8118568)|&nicovideo(nm8600262)|
+|&nicovideo(sm8804415)|&nicovideo(sm9254448)|
+|&nicovideo(sm9289756)|&nicovideo(sm9723414)|
+|&nicovideo(sm9902277)|&nicovideo(sm11779383)|
+|&nicovideo(sm11781195)|&nicovideo(sm11961146)|
+|&nicovideo(sm12124291)|&nicovideo(sm12361061)|
+|&nicovideo(sm13156162)|&nicovideo(sm13156649)|
+|&nicovideo(sm13358065)|&nicovideo(sm13645571)|
+|&nicovideo(sm13810051)|&nicovideo(nm14505875)|
+|&nicovideo(sm14536817)|&nicovideo(sm14760181)|
+|&nicovideo(nm15328624)|&nicovideo(sm15850309)|
+|&nicovideo(sm15919840)|&nicovideo(sm15943388)|
+|&nicovideo(sm16157272)|&nicovideo(sm16205617)|
+
+**コメント
+#comment()

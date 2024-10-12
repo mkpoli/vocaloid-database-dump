@@ -1,0 +1,46 @@
+#right(){&furigana(まりわい)&furigana()【登録タグ:&tags() 】}
+|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/24630105" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/24630105">【ニコニコ動画】</a></iframe>)|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/26907547" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/26907547">【ニコニコ動画】</a></iframe>)|
+
+**特徴
+-絵師・動画師。
+-澄み渡る青さを主体にしたPVに定評がある。コラボした楽曲も月・星・空をモチーフにしたものが多い。
+-同じく絵師・動画師の [[真理恵]]氏 は妹。双子の姉妹関係。
+-姉妹揃ってとにかく制作ペースが異常なほど早い。それでいて、クオリティは折り紙つき。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/marireroy]]
+-[[twitter>>http://twitter.com/marireroy]]
+
+**曲
+#list_by_tag(真理歪,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(真理歪CD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm11940649)|&nicovideo(http://www.nicovideo.jp/watch/nm12662367)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm12994963)|&nicovideo(sm13055293)|
+|&nicovideo(sm13206079)|&nicovideo(http://www.nicovideo.jp/watch/nm13514756)|
+|&nicovideo(sm13518867)|&nicovideo(sm13642025)|
+|&nicovideo(sm13694612)|&nicovideo(sm13782945)|
+|&nicovideo(sm13866294)|&nicovideo(sm14013124)|
+|&nicovideo(sm14105002)|&nicovideo(sm14109522)|
+|&nicovideo(sm14110931)|&nicovideo(sm14201318)|
+|&nicovideo(sm14217045)|&nicovideo(sm14407430)|
+|&nicovideo(sm14647926)|&nicovideo(sm14669127)|
+|&nicovideo(sm14775421)|&nicovideo(sm14896835)|
+|&nicovideo(sm14934564)|&nicovideo(sm15116606)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm15241004)|&nicovideo(sm15315421)|
+|&nicovideo(sm15331989)|&nicovideo(sm15425191)|
+|&nicovideo(sm15425320)|&nicovideo(sm15508609)|
+|&nicovideo(sm15619149)|&nicovideo(sm15627233)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm15653569)|&nicovideo(sm15696369)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm15712233)|
+
+**コメント
+- 姉妹どちらも好き！  -- be  (2012-04-10 14:51:13)
+- 四季刻歌と空奏旅行のＰＶが良いですね！！  -- ライン  (2013-02-03 00:11:22)
+- paranoiaの絵が超好きです！  -- 名無しさん  (2013-11-27 20:56:54)
+- 真理歪さんも真理恵さんも好きだ！  -- 名無しさん  (2013-11-27 22:21:25)
+- かわいい！  -- 名無しさん  (2013-12-27 11:51:08)
+#comment()

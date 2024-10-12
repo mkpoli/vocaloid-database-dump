@@ -1,0 +1,46 @@
+#right(){&furigana(あつきい) &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/18358722" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/18358722">★あっ!Key☆楽曲集</a></iframe>)
+
+**特徴
+-コロムビアミュージックに楽曲提供中の朋哉明希（ともかな あき）氏が中の人。
+-ボカロ曲は2010年の「大好きな気持ちを」でデビューした。
+-ロック・ポップ・テクノ・和風など様々なジャンルを手がける。
+-使用ボーカロイドは、主に初音ミク。2011年からはGUMIが加わった。
+
+**リンク
+-[[ピアプロ 「あっ！keyさん」のページ>>http://piapro.jp/tomokana]]
+-[[ミクproduce「凛」Rin (作者サイト）>>http://miku-produce.seesaa.net/]]
+-[[Twitter>>http://twitter.com/A___Key]]
+-[[YouTube>>https://www.youtube.com/user/rin2008tv]]（朋哉明希 名義）
+-[[YouTube>>https://www.youtube.com/user/siginstudioweb2014]]（詩吟studio web）
+
+**曲
+#list_by_tag(あっ!Key,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(あっ!KeyCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+#region(close,2010年の動画)
+-2010年の動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm9396545)|&nicovideo(http://www.nicovideo.jp/watch/sm9636703)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm10316722)|&nicovideo(http://www.nicovideo.jp/watch/sm10387843)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm10620661)|&nicovideo(http://www.nicovideo.jp/watch/sm10900524)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm11174265)|&nicovideo(http://www.nicovideo.jp/watch/sm11227516)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm11283651)|&nicovideo(http://www.nicovideo.jp/watch/sm11346601)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12070095)|&nicovideo(http://www.nicovideo.jp/watch/sm12072088)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12099462)|&nicovideo(http://www.nicovideo.jp/watch/sm12140157)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12163139)|&nicovideo(http://www.nicovideo.jp/watch/sm12184614)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12262258)|&nicovideo(http://www.nicovideo.jp/watch/sm12690144)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12703173)|&nicovideo(http://www.nicovideo.jp/watch/sm12769779)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12794785)||
+#endregion
+#region(open,2011年の動画)
+-2011年の動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm13300148)|&nicovideo(http://www.nicovideo.jp/watch/sm13977956)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm13997573)|&nicovideo(http://www.nicovideo.jp/watch/sm14289024)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm15335953)|&nicovideo(http://www.nicovideo.jp/watch/sm15515787)|
+#endregion
+
+**コメント
+#comment()

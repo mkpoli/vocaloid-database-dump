@@ -1,0 +1,33 @@
+#right(){&furigana(めいきゅうすぷれましすと) &furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/997_20120126112126_0280_0280.jpg)
+
+|CENTER:前作|CENTER:今作|CENTER:次作|
+|CENTER:[[紅の刃、蒼き祈り]]|CENTER:&bold(){迷宮スプレマシスト}|CENTER:[[想ひ秘め咲く 緋之櫻]]|
+
+|&bold(){[[As'257G]]}|[[水無月龍那]]|[[楢崎このみ]]|[[Azzy]]|
+
+流通：配信
+発売：2012年2月17日
+価格：￥300 / 1曲￥150
+レーベル：KARENT
+ジャケットイラスト：[[Hach>>http://piapro.jp/Hach]]
+
+|&bold(){[[iTunes Storeで購入>>http://itunes.apple.com/jp/album/mi-gongsupuremashisuto/id501607341]]}|
+
+**CD紹介
+-Sound Team Layer-0のAs'257G氏の配信EP。
+-KARENTレーベルのKAITO6周年記念企画で配信された作品の1つ。
+-新曲「[[After Lost]]」と、アルバム『[[Bloody Nightmare With...]]』収録のKAITO曲2曲を収録している。
+
+**曲目
++[[After Lost]] （feat. KAITO）
++[[アネモネ>アネモネ/As'257G]] （feat. KAITO）
++[[Carmine]] （feat. KAITO）
+
+**リンク
+-[[サークルサイト>>http://layer-0.shillest.net/]]
+-[[KARENT：「迷宮スプレマシスト」>>http://karent.jp/album/997]]
+-[[KARENT：「KAITO誕生祭'12」特集ページ>>http://karent.jp/special/kaito12]]
+
+**コメント
+#comment()

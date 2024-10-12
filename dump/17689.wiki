@@ -1,0 +1,38 @@
+#right(){&furigana(じだいのどあをあけはなて)&furigana()【登録タグ:&tags() 】}
+//#image(http://tsubu.ath.cx/~komso/kmcd0006/kmcd0006_bn1.gif,http://tsubu.ath.cx/~komso/kmcd0006.html,title=次代のドアを開け放て,blank)
+
+&ref(https://shop.comiczin.jp/upload/save_image/_7000/_m/7924_l.jpg,x=300,y=300)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[移り季]]|CENTER:&bold(){次代のドアを開け放て}|CENTER:[[次代のドアを開け放て（Come Together）]]|
+
+|&bold(){[[ムスカP]]}|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|>|CENTER:2011年2月12日|
+|価格|CENTER:￥500|CENTER:￥630（税込）|
+|サークル|>|CENTER:狐夢想屋|
+
+**CD紹介
+-ムスカP こと 狐夢想 氏のシングルCD。
+-2009年と2010年の鏡音誕生祭にそれぞれ発表された「君の贈り物」と「次代のドアを開け放て（Come Together）」の2作品を収録。
+-ジャケットイラストは[[碧茶]]氏。
+-VOCALOID FESTA 01で頒布。委託販売はとらのあな、メロンブックス、あきばお～こく、COMIC ZINで行われている。
+
+**曲目
++[[次代のドアを開け放て（Come Together）]]
++[[君の贈り物]]
++次代のドアを開け放て（Come Together）（Off Vocaloid）
++君の贈り物（Off Vocaloid）
+
+**リンク
+-[[作者サイト>>http://tsubu.ath.cx/~komso/]]
+-[[特設ページ>>http://tsubu.ath.cx/~komso/kmcd0006.html]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/26/39/040010263919.html]]
+-[[メロンブックス>>http://shop.melonbooks.co.jp/shop/list/?DA=chgitemtype&G=&F=%E6%AC%A1%E4%BB%A3%E3%81%AE%E3%83%89%E3%82%A2%E3%82%92%E9%96%8B%E3%81%91%E6%94%BE%E3%81%A6]]
+-[[あきばお～こく>>http://www.akibaoo.com/02/commodity_param/t/0/ctc/82000000/shc/0/cmc/2500020175835/backURL/+02+main]]
+-[[COMIC ZIN>>http://shop.comiczin.jp/products/detail.php?product_id=7924]]
+
+**コメント
+- この曲のレン君がめっちゃかっこよくて好きｗｗ＃▽  -- 萌香  (2012-02-08 11:05:57)
+#comment()

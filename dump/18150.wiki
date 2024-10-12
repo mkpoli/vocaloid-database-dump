@@ -1,0 +1,35 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/787_20110728164514_0480_0320.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[ELECTROCUTICA S/S 2011>ELECTROCUTICA S／S 2011]]|CENTER:[[Chaining Intention Re:verse mix]]&br()&bold(){Chaining Intention}|CENTER:[[ARCA（配信）>ARCA]]|
+
+|&bold(){[[Treow（逆衝動P）]]}|&bold(){@まさたかP}|
+
+発売：2011年8月31日
+価格：￥300
+流通：配信
+レーベル：KarenT
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/music-video/chaining-intention-feat.-hatsune/id458024177]]}|
+
+**作品紹介
+-Treow（逆衝動P）氏の楽曲「[[Chaining Intention]]」のPV作品。
+-PV制作は@まさたかP。氏が第4回MMD杯に出品し、総合優勝を取ったもの。
+-KarenTレーベルよりダウンロード販売が行われている。KarenTレーベルの初音ミク4周年記念特集で配信された作品の1つ。&br()この特集では「Chaining Intention」のリミックスシングルも配信されている。また、@まさたかPへのインタビューも行われている。
+
+**曲目
+-Chaining Intention （feat. Hatsune Miku）
+
+**動画
+|&nicovideo(sm9692478)|&nicovideo(sm9697894)|
+&youtube(http://www.youtube.com/watch?v=J8SYrzDHD74){480,295}
+
+**リンク
+-[[Treow氏のサイト>>http://electrocutica.com/]]
+-[[KarenT：「Chaining Intention」>>http://karent.jp/movie/787]]
+-[[KarenT：「初音ミク 4th Anniversary」特集ページ>>http://karent.jp/special/miku11]]
+-[[KarenT：「INTERVIEW　@まさたか」>>http://karent.jp/special/miku11interview_masataka]]
+
+**コメント
+#comment()

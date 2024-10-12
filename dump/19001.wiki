@@ -1,0 +1,49 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/891_20111018125459_0240_0240.jpg)
+
+&nicovideo(sm14516559)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[STARDUST>STARDUST/CD]]|CENTER:&bold(){ARTEMIS}|CENTER:[[Winter notes]]|
+
+|&bold(){[[みじぴんP]]}|
+
+||CENTER:即売|CENTER:委託|CENTER:配信|
+|発売|CENTER:2011年6月12日||CENTER:2011年11月4日|
+|価格|CENTER:￥1,000|CENTER:￥1,470（税込）|CENTER:￥1,200 / 1曲￥150|
+|サークル|>|>|CENTER:Project ARTEMIS|
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/artemis/id476562795]]}|
+
+**CD紹介
+-みじぴんPの3rdアルバム。
+-既発表曲、新たにリメイクした楽曲等、MEIKO楽曲を制作し始めてからこれまでの集大成的な構成となっている。
+-既発曲についても、全曲再ミックス/デジタルリマスタリングが行われている。
+-ジャケットイラストは桜並木ナミ氏。
+-THE VOC@LOiD M@STER 16（ボーマス16）で初頒布。
+-とらのあな、アニメイト、D-STAGEなどで委託販売が行われている。
+-KarenTレーベルよりダウンロード販売も行われている。MEIKO7周年記念企画で配信された作品の1つ。
+
+**曲目
++[[NOISE>NOISE/みじぴんP]] （feat. MEIKO）
++[[BEAUTY]] （feat. MEIKO）
++[[Silent Snow]] （feat. MEIKO）
++[[RESOLUTION]] （feat. MEIKO）
++[[ホワイトアウト>ホワイトアウト/みじぴんP]] （feat. MEIKO）
++[[星空を越えた場所]] （feat. MEIKO）
++[[Awake>Awake/みじぴんP]] （feat. MEIKO）
++[[STARDUST>STARDUST/みじぴんP]] （feat. MEIKO）
++[[スタンドアロン>スタンドアロン/みじぴんP]] （feat. MEIKO）
++[[君の隣で>君の隣で/みじぴんP]] （feat. MEIKO）
++[[ソラノカナタ>ソラノカナタ/みじぴんP]] （feat. MEIKO）
+
+**リンク
+-[[作者ブログ>>http://mijipin.blog34.fc2.com/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0020/01/19/040020011988.html]]
+-[[アニメイト>>http://www.animate-onlineshop.jp/pn/%E3%80%90%E5%90%8C%E4%BA%BACD%E3%80%91%E3%81%BF%E3%81%98%E3%81%B4%E3%82%93P/ARTEMIS/pd/1070263/]]
+-[[D-STAGE>>http://d-stage.com/shop/detail.php?seq=23357]]
+-[[KarenT：「ARTEMIS」>>http://karent.jp/album/891]]
+-[[KarenT：「MEIKO記念祭'11」特集ページ>>http://karent.jp/special/meiko11]]
+
+**コメント
+#comment()

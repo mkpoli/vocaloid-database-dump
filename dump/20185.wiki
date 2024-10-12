@@ -1,0 +1,37 @@
+#right(){&furigana(ふわりゆきのひ)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&ref(https://karent.jp/npdca/974_20120104142939_0280_0280.jpg,x=300)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Extended POWER! Version3]]|CENTER:&bold(){ふわりユキの日}|CENTER:-|
+
+|&bold(){[[だいすけP]]}|
+
+発売：2012年1月19日
+価格：￥300 / 1曲￥150
+流通：配信
+レーベル：KARENT
+ジャケット：[[ゆきはね>>https://piapro.jp/yukidori]]
+
+|&bold(){[[iTunes Storeで購入する>>https://itunes.apple.com/jp/album//id494819219]]}|
+
+**CD紹介
+CD名：『&u(){ふわりユキの日}』（&u(){ふわりゆきのひ}）
+-だいすけPの配信シングル。
+-歌愛ユキの可愛い雪のうた
+-KARENTの「SNOW FESTIVAL」特集で配信された作品の1つ。
+
+**曲目
++ふわりユキの日 （feat. 歌愛ユキ）
+
+**リンク
+-[[作者ブログ>>http://daisukep.blog47.fc2.com/]]
+-[[KARENT：「ふわりユキの日」>>https://karent.jp/album/974]]
+-[[KARENT：「SNOW FESTIVAL」特集ページ>>https://karent.jp/special/snow12]]
+
+**コメント
+- 歌詞が欲しいです！  -- 名無しさん  (2013-12-15 19:35:26)
+#comment()

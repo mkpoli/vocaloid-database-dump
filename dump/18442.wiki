@@ -1,0 +1,28 @@
+#right(){&furigana(かんはねつて)&furigana()【登録タグ:&tags() 】}
+|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/22027855" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/22027855">【ニコニコ動画】</a></iframe>)|
+
+**特徴
+-2010年11月6日に「[[瓶詰め]]」でデビューした作り手。
+-透明感溢れる、美しく幻想的で綺麗なテクノ・エレクトロニカ・アンビエントなサウンドに定評がある。
+-使用ボカロは初音ミク、GUMI（Megpoid）。
+-絵師・動画師の [[真理歪]]氏 とよくコラボする。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/campanette]]
+-[[twitter>>http://twitter.com/campanette]]
+
+**曲
+#list_by_tag(かんぱねって,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(かんぱねってCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm12662956)|&nicovideo(sm12988567)|
+|&nicovideo(sm13422372)|&nicovideo(sm14201318)|
+|&nicovideo(sm15425191)|&nicovideo(sm16734827)|
+|&nicovideo(sm18218112)||
+
+**コメント
+- もっと評価されるべき！  -- 名無しさん  (2011-11-03 18:25:19)
+#comment()

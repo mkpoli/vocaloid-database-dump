@@ -1,0 +1,40 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo(sm15414260)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[エニシダ>エニシダ/CD]]|CENTER:&bold(){Ore-rugeiyu}|CENTER:-|
+
+|&bold(){[[さささP]]}|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2011年9月4日|CENTER:2011年9月5日|
+|価格|CENTER:￥800|CENTER:￥945（税込）|
+|サークル|>|CENTER:森林博物館|
+
+
+**CD紹介
+-VOCALOIDの他、UTAU、Mac音ナナを使用した楽曲が収録される、さささP3rdアルバム。
+-THE VOC@LOiD M@STER 17にて初頒布が行われた。
+-デザインはみけぽち氏が担当している。
+-とらのあなとアリスブックスで委託販売が行われている。
+
+**曲目
++チクタク時計
++夜とプロムナード
++[[Atlus]]
++[[宵闇通り一丁目]]
++[[ノラネコアベニュー]]
++Ore-rugeiyu　&color(red){New!}
++補陀落渡海
++Jack and Jill
++[[野の白鳥]]
++コンクリートパイレーツの素晴らしき航海
++猫みたいな君といた
++[[おはようティーカップ]]
+
+**リンク
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0020/03/02/040020030232.html]]
+-[[アリスブックス>>http://alice-books.com/item/show/509-1]]
+
+**コメント
+#comment()

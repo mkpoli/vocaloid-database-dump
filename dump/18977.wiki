@@ -1,0 +1,36 @@
+#right(){&furigana(とおいはなび)&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/894_20111020044543_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[言の葉の姫]]|CENTER:&bold(){遠い花火}|CENTER:[[比賽>比賽/CD]]|
+
+|&bold(){[[稲敷常州]]}|
+
+発売：2011年11月4日
+価格：￥600 / 1曲￥150
+流通：配信
+レーベル：KarenT
+ジャケットイラスト：[[konpasu>>http://piapro.jp/konpasu]]
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/id476564905]]}|
+
+**CD紹介
+-稲敷常州氏の配信アルバム。
+-民族楽器とVOCALOIDのコラボレーションアルバム第3弾。
+-MEIKO生誕祭2011用の新曲「遠い花火」と「南」、MEIKO生誕祭2010用の楽曲「かえりみち」などを収録した全5曲。
+-KarenTレーベルのMEIKO7周年記念企画で配信された作品の1つ。
+
+**曲目
++[[かえりみち>かえりみち　～秋の夕暮れ～]] （feat. MEIKO）
++[[冬月]] （feat. MEIKO）
++[[白梅と雪>しろうめ　と　ゆき]] （feat. MEIKO）
++[[南]] （feat. MEIKO）
++[[遠い花火]] （feat. MEIKO）
+
+**リンク
+-[[KarenT：「遠い花火」>>http://karent.jp/album/894]]
+-[[KarenT：「MEIKO記念祭'11」特集ページ>>http://karent.jp/special/meiko11]]
+
+**コメント
+- gd  -- gd  (2013-01-31 14:25:17)
+#comment()

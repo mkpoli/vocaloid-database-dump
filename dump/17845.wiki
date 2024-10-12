@@ -1,0 +1,52 @@
+#right(){&furigana(わかはいろDisk)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+#amazon(B005HN8LJW)
+
+|&nicovideo(sm15380583)|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Let's go！]]|CENTER:&bold(){若葉色D-i-s-k}|CENTER:[[椿色D-i-s-k]]|
+
+|&bold(){[[あルカP]]}|
+
+||CENTER:即売|CENTER:同人|
+|発売|>|CENTER:2011年9月4日| 
+|価格|CENTER:￥|CENTER:￥1,500（税込）| 
+|サークル|>|CENTER:Celo Project|
+
+**CD紹介
+CD名：『&u(){若葉色D-i-s-k}』（&u(){わかばいろD-i-s-k}）
+-あルカP3作目となるボーカロイドCD。
+-今回はこのCDでしか聴けない音源が盛りだくさん!大自然を意識した、ゆったりとしたサウンドをご堪能ください。
+-KarenTレーベルより配信シングルとしてリリースした「[[BLUE VISION]]」と「[[Count Down]]」（ただしメグッポイドバージョン）と「[[Let's go！]]」（同左）を含む全12曲。
+-ジャケットイラストは[[1作目>大空色D-i-s-k]]、[[2作目>桜色D-i-s-k]]に引き続き、りくかんな氏が担当している。
+-THE VOC@LOiD M@STER 17（ボーマス17）にて初頒布される。
+-Amazonで委託販売が行われている。
+
+**曲目
++[[Excuse me]] / メグッポイド
++[[In The Rain>In The Rain/あルカP]] / メグッポイド、がくっぽいど
++Count Down / メグッポイド、がくっぽいど
++penguin / 鏡音リンレンPower
++[[Buried Song]] / メグッポイド、がくっぽいど
++TYPiNG / miki
++Time Machine / 初音ミク
++[[A Flower]] / 巡音ルカ、がくっぽいど
++[[Go SIGN]] / メグッポイド、がくっぽいど
++[[BLUE VISION]] / メグッポイド
++[[Let's go！>Let's go!]] / メグッポイド
++green dream
+
+**リンク
+-[[作者ブログ>>http://masatoshi60.blog11.fc2.com/]]
+-[[Amazon>>https://www.amazon.co.jp/dp/B005HN8LJW/]]
+
+**コメント
+- き、きたーッ！GUMIちゃんかわゆす…絶対買います！GUMIちゃんのため…買います！  -- GUMIッ子  (2011-08-22 18:38:33)
+//…あと1コメげとッ!!!  -- GUMIッ子  (2011-08-22 18:38:33)
+//- ↑やっぱ買わないかも…←金の問題で。  -- GUMIッ子  (2011-09-02 18:35:05)
+- ボーマスで買いました～！サインありがとうございます・・・ッ！！  -- 名無しさん  (2011-09-08 00:02:21)
+#comment()

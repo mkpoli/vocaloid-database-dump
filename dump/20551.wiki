@@ -1,0 +1,41 @@
+#right(){&furigana(らせん)&furigana()【登録タグ:&tags() 】}
+//&ref(http://img.toranoana.jp/img/04/0030/01/29/040030012962-1.gif)
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186118361.jpg)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm16117956)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[SPIRAL TRILOGY]]|CENTER:&bold(){螺旋-RASEN-}&br()[[SPIRAL TRILOGY The Art Works]]|CENTER:[[My Song>My Song/CD]]|
+
+|&bold(){[[Ebot]]}|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2011年11月19日||
+|価格||CENTER:￥1,890（税込）|
+|サークル|CENTER:ウタカタ社中|CENTER:Ebot|
+
+**CD紹介
+-Ebot氏のCD作品。映像作品の『[[SPIRAL TRILOGY The Art Works]]』と同時リリース。
+-螺旋三部作に、「月雪花」を踏襲した新曲「残滓-ZANSAI-」（ボーカル：Mew）と「月雪花」の元となったインスト曲「雪月花」を収録している。
+-THE VOC@LOiD M@STER 18（ボーマス18）で頒布。
+-とらのあなで委託販売が行われている。
+
+**曲目
++[[月雪花]] （feat. KAITO）
++[[パラドキシカル・パラダイム]] （feat. KAITO）
++[[信號燈-SIGNAL-]] （feat. KAITO）
++雪月花 （instrumental）
++[[残滓-ZANSAI->残滓 -ZANSAI-]] （feat. Mew）
++月雪花 （off vocal）
++パラドキシカル・パラダイム （off vocal）
++信號燈-SIGNAL- （off vocal）
++残滓-ZANSAI-（off vocal）
+
+**リンク
+-[[サークルサイト>>http://utakatasyachu.blog.fc2.com/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/01/29/040030012962.html]]
+
+**コメント
+- おおお！！！  -- 名無しさん  (2012-02-17 21:47:32)
+#comment()

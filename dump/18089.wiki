@@ -1,0 +1,33 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/806_20110809012309_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[ハイスクールDAYS]]&br()[[DRIVE TO THE MOON E.P.]]|CENTER:[[NEVERLAND -君はピーターパン->NEVERLAND ～君はピーターパン～]]&br()&bold(){CHIP TEARS E.P.}|CENTER:[[ブラックコーヒー>ブラックコーヒー/U-ji]]|
+
+|&bold(){[[U-ji]]}|[[U-SUKE]]|
+
+発売：2011年8月31日
+価格：￥300 / 1曲￥150
+流通：配信
+レーベル：KarenT
+ジャケットイラスト：[[オカヒジキ>>http://piapro.jp/toridaisuki]]・[[つみれ>>http://piapro.jp/tsumire]]
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/chip-tears-single/id460027980]]}|
+
+**CD紹介
+-U-ji aka 霊長類Pの配信EP。『[[NEVERLAND -君はピーターパン->NEVERLAND ～君はピーターパン～]]』と同時リリース。
+-「CHIP TEARS」の動画バージョン音源など、3種類の「CHIP TEARS」を収録している。
+-KarenTレーベルの初音ミク4周年記念特集で配信された作品の1つ。
+
+**曲目
++[[CHIP TEARS]]（N-DOH VERSION） （feat. 初音ミク）
++CHIP TEARS（Tears mix SHORT VERSION） （feat. 初音ミク）
++CHIP TEARS（Chip mix） （feat. 初音ミク）
+
+**リンク
+-[[作者ブログ>>http://ameblo.jp/housenrg/]]
+-[[KarenT：「CHIP TEARS E.P.」>>http://karent.jp/album/806]]
+-[[KarenT：「初音ミク 4th Anniversary」特集ページ>>http://karent.jp/special/miku11]]
+
+**コメント
+#comment()

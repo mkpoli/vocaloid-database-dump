@@ -1,0 +1,39 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+|CD版ジャケット&br()&ref(http://img.yaplog.jp/img/12/pc/k/i/d/kidsworks/0/18.png)|配信版ジャケット&br()&ref(http://karent.jp/npdca/900_20111107044556_0240_0240.jpg)|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Season's]]|CENTER:&bold(){Season's+}|CENTER:[[無名のフォルダ / Filtering>無名のフォルダ／Filtering]]|
+
+|&bold(){[[キッドP]]}|[[クリスタルP]]|[[残鏡P]]|
+
+||CENTER:即売|CENTER:配信|
+|発売|CENTER:2011年11月19日|CENTER:2011年11月21日|
+|価格|CENTER:￥500|CENTER:￥600 / 1曲￥150|
+|サークル|>|CENTER:NnDS☆|
+|ジャケットイラスト|>|CENTER:shin|
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/seasons/id481179634]]}|
+
+**CD紹介
+-キッドPの6曲入りCD。
+-全曲、レンとKAITOのデュエット曲となっている。また、通して聴くと夏から冬にかけてのストーリー仕立てとなっている。
+-「Summer Cicade-"ナツノセミ"Single edit-」は前作『[[Season's]]』にも「ナツノセミ」のタイトルで収録されていた楽曲。
+-THE VOC@LOiD M@STER 18（ボーマス18）で頒布。KarenTレーベルよりダウンロード販売も行われている。
+-委託販売の予定はなし。
+
+**曲目
++Summer Cicada-"ナツノセミ"Single edit-
++AutumnLeaves
++[[SnowDust]]
++Summer Cicada-"ナツノセミ"Single edit-instrumental-
++AutumnLeaves-instrumental-
++SnowDust-instrumental-
+
+
+**リンク
+-[[NnDS☆（作者サイト）>>http://nnds.soudesune.net/]]
+-[[kid's land（作者ブログ）>>http://yaplog.jp/kidsworks/]]
+-[[KarenT>>http://karent.jp/album/900]]
+
+**コメント
+#comment()

@@ -1,0 +1,126 @@
+#right(){&furigana(ぜんりゃくP) &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/27225718" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/27225718">【ニコニコ動画】前略のGUMIと手紙</a></iframe>)
+
+**特徴
+-GUMIを使って曲を発表している作り手。
+-P名がつくまでは「電線」と名乗っていた。
+-「お手紙シリーズ」「暗幕と一人芝居シリーズ」「Good Night Twilight E.P.」など、シリーズとして曲を発表することが多い。
+-GUMIのもみあげになりたいらしい。
+-商業では「&bold(){棚橋テルアキ}」、「&bold(){棚橋EDDYテルアキ}」、「&bold(){棚橋"EDDY"テルアキ}」名義で活動を行っている。
+-グループ『[[Evergreen Leland Studio]]』のメンバー。
+
+**シリーズ一覧
+&bold(){「お手紙シリーズ」(Hello Letter Girl E.P.)}
+&italic(){手紙から飛び出る、浮遊する言葉。}
+#region(close,前略、お元気ですか。)
+[[シリーズリンク>>https://www.nicovideo.jp/series/75246]]
+
++[[ねがいをかなえるてんしのねがいはかなわない]]→[[てんしとあいのうた]]
++[[そらがうみになったせかいのひるさがり]]
++[[ばっはにあこがれたぎたーひき]]
++[[まわるでんしゃとおくびょうもの]]
+#endregion
+
+&bold(){「暗幕と一人芝居シリーズ」(Blackout Curtain Record E.P.)}
+&italic(){本日の演目は、とある少女の人生を描いた物語。}
+&italic(){悲劇か喜劇か、それは聴衆の皆様の判断でございます。}
+#region(close,さあさあ皆様お手を拝借。たった21分の物語【暗幕と一人芝居】開演でございます。)
+[[シリーズリンク>>https://www.nicovideo.jp/series/75247]]
+
+>大学2年の頃、戦争の真っ只中を生きた方にお話を聞く機会があって、その方のお話に衝撃を受け作ったのが暗幕と一人芝居シリーズ。
+
++[[おわりのうた]]
++[[あさやけのうた]]
++[[かがくしゃのうた]]
++[[はなうりのうた]]
++[[はじまりのうた]]
++[[たびびとのうた]]
+
+関連曲：[[エゲリア]]
+#endregion
+
+&bold(){「姫シリーズ」(Good Night Twilight E.P.)}
+&italic(){今回のお話はとある少女の見た、}
+&italic(){たった一夜の夢のお話でございます。}
+#region(close,そう、「たった一夜」の夢でございます。)
+[[シリーズリンク>>https://www.nicovideo.jp/series/75248]]
+
+>大学3年の頃になにかの文献で読んだ「薬を飲むと私はまるで御伽噺のヒロインになっているようだった」と言う文節に衝撃を受け作ったのが一夜姫シリーズ。
+
++[[親指姫のための造花]]
++[[灰被姫のための時計]]
++[[人魚姫のための靴箱]]
++[[白雪姫のための棺桶]]
++[[一夜姫のための黒鍵]]
+
+&color(gainsboro){元凶の一柱：[[エゲリア]]}
+
+>&color(gainsboro){彼女の命は潰えた。一夜の快楽の為に飲んだ薬は、壮絶な快楽と永劫続く苦痛を与えた。&br() 彼女は夢の中、まるで御伽噺のヒロインになった様な感覚を覚え続けそして天に昇った。&br()&br() 一夜姫は、禍々しい人の業が織りなした淫らで哀れな少女の事。 それが一夜姫シリーズ。}
+#endregion
+&color(gainsboro){&italic(){経過報告：少女は幸せな夢を見ている。経過については都度報告する様に。}}
+&color(gainsboro){ &italic(){ ■■■■による■■症状が現れた場合は担当医へ必ず報告する事。}}
+
+&bold(){「児童文学シリーズ」(Rabbit's Birthday E.P.)}
+&italic(){今回のお話は作家の描いた夢の中のお話。}
+&italic(){一夜の夢さえ見る事の出来ない少女達のお話。}
+#region(close,さあさあ皆様、愛読書のご用意を。待ちわびた朝日はきっと淀んでいるから)
+[[シリーズリンク>>https://www.nicovideo.jp/series/75250]]
+
++[[レミナの絵本]]
++[[マチルダと雨]]
++[[ロップイヤーの怪物]]&br()・&br()・&br()・
+#endregion
+
+&bold(){Liquid Souls E.P}
+&italic(){ああ神よ、教理に刃向かった私をお赦し下さい。}
+&italic(){もしも赦さぬのであれば私はそれでもいい。}
+#region(close,あなたの身勝手で薄っぺらい経典を捨て　私は身体を捨てあの人の元へと征きます。)
+[[シリーズリンク>>https://www.nicovideo.jp/series/75249]]
+
++[[Reamlilt]]
++[[三等星の在処]]
+#endregion
+
+**リンク
+//-[[作者サイト「Letter Produces」>>http://dearletter.web.fc2.com/]]
+-[[作者ブログ「手紙ブログ」>>http://letterproduce.blog.fc2.com/]]
+-[[作者ブロマガ>>http://ch.nicovideo.jp/NoktakRoktak]]
+-[[作者Tumblr>>http://blackoutcurtainrecords.tumblr.com]]
+-[[PIAPRO>>http://piapro.jp/zenryakup]]
+-[[twitter>>https://twitter.com/ZenryakuP]]
+-[[SoundCloud>>https://soundcloud.com/012837362514132]]
+-[[ニコニコ大百科（単語記事）>>https://dic.nicovideo.jp/t/a/%E5%89%8D%E7%95%A5p]]
+
+**曲
+#list_by_tag(前略P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(前略PCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/nm15449562)|&nicovideo(http://www.nicovideo.jp/watch/nm15459509)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm15475030)|&nicovideo(http://www.nicovideo.jp/watch/nm15485774)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm15561786)|&nicovideo(http://www.nicovideo.jp/watch/nm16093433)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm16093917)|&nicovideo(http://www.nicovideo.jp/watch/nm16196417)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm16338426)|&nicovideo(http://www.nicovideo.jp/watch/sm16443736)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm16544153)|&nicovideo(http://www.nicovideo.jp/watch/sm16627617)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm16842903)|&nicovideo(http://www.nicovideo.jp/watch/sm17038490)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm17105319)|&nicovideo(http://www.nicovideo.jp/watch/sm17240464)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm17947141)|&nicovideo(http://www.nicovideo.jp/watch/sm18139071)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm18627980)|&nicovideo(http://www.nicovideo.jp/watch/sm19498762)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm19530927)|&nicovideo(http://www.nicovideo.jp/watch/sm20008063)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm20639284)|&nicovideo(http://www.nicovideo.jp/watch/sm21930405)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm21936220)|&nicovideo(http://www.nicovideo.jp/watch/sm24082892)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm24748213)|&nicovideo(http://www.nicovideo.jp/watch/sm27133966)|
+
+**コメント
+- 前略Pさんの曲が大好きです！！  -- 肉厚  (2012-02-05 14:00:54)
+- さわやかな雰囲気の中にえぐい表現がちらほら混ざってて割と刺激的。  -- 名無しさん  (2012-02-13 22:58:08)
+- 新曲よかった！  -- 名無しさん  (2012-02-22 04:48:43)
+- めまいせかいまだー？  -- 名無しさん  (2012-05-31 11:15:39)
+- 暗幕と一人芝居シリーズ大好きだ！  -- 名無しさん  (2012-06-15 22:07:14)
+- 前略Pさんにはまってしまいました!魅力的な曲ばかりあって言葉で表すと長くなる…。綺麗なメロディーなのに変拍子で童話で…好きな要素ばかりで大好きです!!  -- 茶慧  (2012-09-05 23:07:10)
+- 前略さん、休止・・・(´；ω；｀)  -- 名無しさん  (2013-01-09 00:08:23)
+- 前略さん難聴なのか…治療がんばってくださいね。  -- 名無しさん  (2013-02-07 18:45:25)
+- 新シリーズきた！  -- 名無しさん  (2013-09-29 00:32:20)
+#comment()

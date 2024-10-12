@@ -1,0 +1,42 @@
+#right(){&furigana(かくれんほのろしうらて)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&ref(https://ecdnimg.toranoana.jp/ec/img/04/0030/00/76/040030007686-1p.jpg,x=300,y=300)
+
+|&nicovideo(sm16151723)|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[夜明けのジェリーフィッシュ]]|CENTER:&b(){かくれんぼの路地裏で}|CENTER:[[AQUARIUM]]|
+
+|&b(){[[くらげP]]}|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2011年11月19日||
+|価格|CENTER:￥1,000|CENTER:￥1,500（税込）|
+|サークル|CENTER:海月屋茶房|CENTER:electripper|
+
+**CD紹介
+CD名：『&u(){かくれんぼの路地裏で}』（&u(){かくれんぼのろじうらで}）
+-&b(){くらげP}の2ndアルバム。
+-「初音ミクへの楽曲提供」をコンセプトに制作された新作6曲が収録されている。
+-THE VOC@LOiD M@STER 18（ボーマス18） にてリリース。
+-とらのあなで委託販売が行われていた。
+
+**曲目
++[[ハイド＆シーカー]]　&color(red){New!}
++[[あらしのまんなか]]　&color(red){New!}
++嘘みたいな言葉で　&color(red){New!}
++香る煙と僕らの夢　&color(red){New!}
++傘の下かくれんぼ　&color(red){New!}
++春風のつくりかた　&color(red){New!}
++[[おわりのはじまり>おわりのはじまり/くらげP]] ACOMIKI edition (bonus track)
+
+**リンク
+-[[くらげPのブログ>>http://electripper.blog.fc2.com/]]
+-[[とらのあな>>https://ec.toranoana.jp/tora_r/ec/item/040030007686/]]
+
+**コメント
+//- 作成乙〜はやく聞きたい！  -- 名無しさん  (2011-11-20 19:45:50)
+#comment()

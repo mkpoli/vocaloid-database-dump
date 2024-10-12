@@ -1,0 +1,67 @@
+#right(){&furigana(clear)&furigana()【登録タグ:&tags() 】}
+|&ref(http://img.yaplog.jp/img/07/pc/k/i/d/kidsworks/0/8.jpg)&br()CD版ジャケット|&ref(http://karent.jp/npdca/1197_20121207174250_0280_0280.jpg)&br()配信版ジャケット|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[CK-album- Ver,0.9]]（クリキッド）&br()[[crystaL～spring songs'11～]]（クリスタルP）&br()[[CK-album- Ver,0.9]]（キッドP）|CENTER:&bold(){CKⅠ}|CENTER:[[カスル・エル・サファ>カスル・エル・サファ/CD]]（クリキッド）&br()[[芒果布丁>芒果布丁/CD]]（クリスタルP）&br()[[かげろう]]（キッドP）|
+
+|&bold(){[[クリスタルP]]}|&bold(){[[キッドP]]}|[[残鏡P]]|[[シグナルP]]|[[orange>orange/作り手]]|[[マルチプレイヤーP]]|[[れれれP]]|[[ダラリ]]|
+
+||CENTER:即売|CENTER:委託|CENTER:配信|
+|発売|CENTER:2011年5月1日||CENTER:2012年12月20日|
+|価格|CENTER:￥1,000|CENTER:￥1,231（税込）|CENTER:￥900 / 1曲￥150|
+|サークル|>|CENTER:クリキッド||
+
+**CD紹介
+-クリスタルPとキッドPのユニット「クリキッド」の1stフルアルバム。
+-約1年半前に発表した「[[星の飛行船]]」から最新作「[[そのひ、まで]]」を収録した全15曲。
+-[[シグナルP]]の「[[アドレサンス（Adolescence）]]や[[れれれP]]の「[[イケ恋歌]]」のカバーも収録されている。「アドレサンス」のカバーには[[マルチプレイヤーP]]ことぱるぴる氏もゲストボーカルとして参加している。
+-ジャケットイラストはシロツグ氏。
+-M3-2011春で初頒布。とらのあな、ホワイトキャンバスで委託販売が行われている。
+-2012年にはKARENTレーベルより『CK 1～クリキッド1st～』のタイトルでダウンロード販売が開始された。鏡音リン・レン5周年記念企画で配信された作品の1つ。曲目に変更あり。
+
+**CD曲目
++Introduce～CK1～
++[[エンジェル・ハート]]～KID&Len mixture～
++-Lyrics：[[残鏡P]]／Music：[[キッド>キッドP]]／Arrangement：[[HzEdge(クリスタルP)>クリスタルP]]
++消えない、雪-KID-
++-Lyrics：HzEdge(クリスタルP)／Music：キッド／Arrangement：HzEdge(クリスタルP)
++[[風の旅人2010>風の旅人～A traveler of wind～]]～KID&Len mixture～
++-Lyrics＆Music：キッド／Arrangement：HzEdge(クリスタルP)
++[[アドレサンス>アドレサンス（Adolescence） ]]～ck mix～ feat.[[ぱるぴる>マルチプレイヤーP]]
++-Lyrics：[[orange>orange/作り手]]／Music：[[シグナルP]]／Arrangement：HzEdge(クリスタルP)
++escaper～2&3Dimension remix～
++-Lyrics：HzEdge(クリスタルP)／Music：キッド／Arrangement：HzEdge(クリスタルP)
++[[そのひ、まで]]-KID-
++-Lyrics＆Music＆Arrangement：HzEdge(クリスタルP)
++[[星の飛行船]]-Len-
++-Lyrics：残鏡P／Music：キッド／Arrangement：HzEdge(クリスタルP)
++[[キラキラなコドモ]]-KID-
++-Lyrics：キッド／Music＆Arrangement：HzEdge(クリスタルP)
++[[イケ恋歌]]～ck mix～
++-Lyrics：[[ダラリ]]／Music：[[れれれP]]／Arrangement：HzEdge(クリスタルP)
++消えない、雪-ApLen-
++escaper～KID&Len mixture～
++そのひ、まで-ApLen-
++星の飛行船-KID-
++キラキラなコドモ-Len-
+
+**配信版曲目
++[[エンジェル・ハート]] （feat. 鏡音レン）
++消えない、雪 （feat. 鏡音レン）
++[[風の旅人2010>風の旅人～A traveler of wind～]] （feat. 鏡音レン）
++escaper-2012- （feat. 鏡音レン）
++[[そのひ、まで]] （feat. 鏡音レン）
++[[星の飛行船]] （feat. 鏡音レン）
++[[キラキラなコドモ]] （feat. 鏡音レン）
++escaper～2&3Dimension remix～ （feat. 鏡音レン&キッド）
+
+**リンク
+-[[クリキッドサイト>>http://k-kei.versus.jp/ck/]]
+-[[キッドPブログ>>http://yaplog.jp/kidsworks/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0020/00/63/040020006358.html]]
+-[[ホワイトキャンバス>>http://w-canvas.com/shopping/detail.php?item_id=48362]]
+-[[KARENT：「CK 1～クリキッド1st～」>>]]
+-[[KARENT：「鏡音リン・レン祭'12」特集ページ>>http://karent.jp/special/rinlen12]]
+
+**コメント
+#comment()

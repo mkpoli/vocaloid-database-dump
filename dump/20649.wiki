@@ -1,0 +1,21 @@
+#right(){&furigana(あおらんこ)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="https://ext.nicovideo.jp/thumb_mylist/30365013" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/30365013">【ニコニコ動画】%E3%81%99%E3%81%9F%E3%81%98%E3%81%8A%EF%BC%93%EF%BC%91%EF%BC%93</a></iframe>)
+
+**特徴
+-P名の由来は、「剣道やってた道場の名前から」(P自身のコメントより)
+
+**リンク
+-[[Twitter>>https://twitter.com/#!/rankoao]]
+-[[「Vocaloiders.com」でのインタビュー記事>>http://vocaloiders.com/237/]]
+
+**曲
+#list_by_tag(青藍子,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(青藍子CD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm16920429)|&nicovideo(sm17076738)|
+
+**コメント
+#comment()

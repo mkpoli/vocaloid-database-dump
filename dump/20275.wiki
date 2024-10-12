@@ -1,0 +1,10 @@
+#right(){&furigana()&furigana()【登録タグ:&tags()】}
+|&nicovideo(http://www.nicovideo.jp/watch/sm14812466)|&youtube(http://www.youtube.com/watch?v=Pvr0_AkYW2U){330,247}|
+作曲：[[liam>liam/作り手]]
+唄：初音ミク
+
+**曲紹介
+-鍋に水を溜めながら白菜を刻み牛肉をいためる音、あるいは待ちきれなくなった友人が箸でコップを叩く音。(作者コメより)
+
+**コメント
+#comment()

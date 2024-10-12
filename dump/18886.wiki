@@ -1,0 +1,42 @@
+#right(){&furigana(にじいろ)&furigana()【登録タグ:&tags() 】}
+//&ref(http://nemiu.com/pics/rainbow2.jpg)
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186117184.jpg,x=300,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm15465128)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:[[Gliese]]&br()&bold(){虹色}|CENTER:[[スターマイン]]|
+
+|&bold(){[[Nem]]}|まあさ|
+
+発売：2011年9月4日
+価格：￥1,000
+流通：即売
+サークル：二人目の彼女
+
+**CD紹介
+>&bold(){「恋が皆バラ色となぜそう信じてたんだろう」}
+-Nem氏 の 1st album 。
+-四季をテーマにした5つの楽曲を、 VOCALOID ver. と 歌い手の ヲタみんver. で収録したコンセプトアルバム。全10曲。
+-ジャケットイラストは 萩原はとば氏 が手掛ける。デザインは 市井氏 。
+-THE VOC@LOID MASTER 17（ボーマス17） にて 『[[Gliese]]』 と同時リリース。
+
+**曲目
++[[春のかけら]] feat. 初音ミク
++夏、夢、蜃気楼 feat. GUMI
++[[the fall]] feat. 初音ミク
++[[winter gift]] feat. 初音ミク
++虹色 feat. GUMI
++春のかけら（ヲタみんver.）
++夏、夢、蜃気楼（ヲタみんver.）
++the fall（ヲタみんver.）
++winter gift（ヲタみんver.）
++虹色（ヲタみんver.）
+
+**リンク
+-[[nem web（作者サイト）>>http://nemiu.com/]]
+
+**コメント
+- すてき。  -- 名無しさん  (2014-01-07 23:21:40)
+#comment()

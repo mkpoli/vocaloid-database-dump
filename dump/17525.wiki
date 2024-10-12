@@ -1,0 +1,26 @@
+#right(){&furigana(はもんとてこはんP)&furigana()【登録タグ:&tags() 】}
+|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/25664640" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/25664640">【ニコニコ動画】</a></iframe>)|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/22541100" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/22541100">【ニコニコ動画】</a></iframe>)|
+
+**特徴
+-P名の由来は「[[ChaiN De/structioN>Chain De／struction]]」（原曲：[[(∵)キョトンP]]）の「ハモンドでご飯Remix」から。
+
+**リンク
+-[[Twitter>>http://twitter.com/#!/hamonotou]]
+
+**曲
+#list_by_tag(ハモンドでご飯P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(ハモンドでご飯PCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/nm14536783)|&nicovideo(http://www.nicovideo.jp/watch/nm12861837)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm12935736)|&nicovideo(http://www.nicovideo.jp/watch/nm14995902)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm13024986)|&nicovideo(http://www.nicovideo.jp/watch/sm13665673)|
+***リミックス
+|&nicovideo(http://www.nicovideo.jp/watch/nm15095771)|&nicovideo(http://www.nicovideo.jp/watch/nm15183030)|
+
+**コメント
+- この人のデスボイス原型とどめてないのが人間っぽくて良いと思うんだ  -- 名無しさん  (2013-06-11 04:21:11)
+- この人好きだ笑    誰か曲追加してください！  -- 七  (2014-01-19 22:04:37)
+#comment()

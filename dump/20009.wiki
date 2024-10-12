@@ -1,0 +1,40 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#amazon(B006IX9JSW)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[宙ノ未来>宙ノ未来/CD]]|CENTER:&bold(){Solar stream}|CENTER:[[Snowbound]]|
+
+|&bold(){[[IIG]]}|[[ziki_7]]|oiko|
+
+||CENTER:即売|CENTER:委託|CENTER:配信|
+|発売|>|CENTER:2011年12月30日|CENTER:2012年1月11日|
+|価格|CENTER:￥700|CENTER:￥1,050（税込）|CENTER:￥600 / 1曲￥150|
+|サークル|>|>|CENTER:Studio IIG|
+
+|&bold(){[[iTunes Storeで購入>>http://itunes.apple.com/jp/album/solar-stream/id493487176]]}|
+
+**CD紹介
+>光を撃つ、小さな祈りを。──学園ジュブナイルサウンド
+-Studio IIGの1年ぶりとなるアルバム。
+-ジャケットイラストは usi 氏。
+-Amazon、とらのあな、メロンブックス、あきがお～こくでの委託販売、KARENTレーベルからダウンロード販売が行われる。
+
+**クロスフェード動画
+|&nicovideo(sm16376126)|&youtube(https://youtu.be/U61YpaQ1OG8){342,187}|
+
+**曲目
++[[Solar stream]]
++ホライゾンタルエゴ
++空想都市
++Solar stream -little pray mix-
++Horizon
++Solar stream -Instrumental-
+
+**リンク
+-[[作者サイト>>http://studioiig.com/]]
+-[[アルバム特設ページ>>http://studioiig.com/discography/slst/]]
+-[[Amazon>>http://www.amazon.co.jp/gp/product/B006IX9JSW/]]
+-[[KARENT：「Solar stream」>>http://karent.jp/album/953]]
+
+**コメント
+#comment()

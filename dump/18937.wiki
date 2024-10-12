@@ -1,0 +1,40 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#amazon(B005QIFQPK)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){VVV ＃1}&br()[[VVV ＃2]]|CENTER:[[VVV ＃3]]|
+
+|[[kani]]|[[ゆうくんラングレー]]|[[Tajy]]|[[つよぽそ]]|[[f.i.s]]|[[OSAMU HATA]]|
+|[[あずまや]]|[[miu☆]]|[[だだ]]|[[無政策P]]|[[ぽむぽむ]]|[[てっつん]]|
+
+>発売：2011年11月30日
+>価格：￥2,000（税込）
+>流通：全国
+>レーベル：MA MUSIC ENTERTAINMENT
+
+**CD紹介
+-MA MUSIC ENTERTAINMENTのVOCALOIDコンピレーションアルバム第1弾。『[[VVV ＃2]]』と同時リリース。
+-タイトルはVirtual, Voicing, Victorsの頭文字を繋げており「トリプルブイ」と読む。
+-ジャケットはオリジナルアニメの世界観をコンセプトに描かれている。
+
+**曲目
++[[壊れたカケラ]]　/　kani
++[[黄色いスカート]]　/　ゆうくんラングレー
++[[荒野の星]]　/　Tajy
++[[Crystal Tweaker]]　/　つよぽそ
++[[犬符！ペティグリーチャm(ry]]　/　f.i.s
++[[CHAIN>CHAIN/OSAMU HATA]]　/　OSAMU HATA
++夕凪　/　あずまや
++[[星降る夜>星降る夜/miu☆]]　/　miu☆
++[[相対性理論]]　/　だだ
++[[鏡音総理大臣]]　/　無政策P
++音にならないLove Song～言霊～　/　ぽむぽむ
++ハイラ・アイラ　/　あずまや
++[[雪月花 ダンスバージョン>雪月花/てっつん]]　/　てっつん
+
+**リンク
+-[[MA MUSIC ENTERTAINMENT公式サイト>>http://ma-music.syncl.jp/]]
+-[[Amazon>>http://www.amazon.co.jp/dp/B005QIFQPK]]
+
+**コメント
+#comment()

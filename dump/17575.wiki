@@ -1,0 +1,43 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://www.njpeperon.sakura.ne.jp/imaginary_jacsmall.jpg)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm15205911)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[clocks>clocks/CD]]|CENTER:&b(){Imaginary}|CENTER:[[ReAwake2]]|
+
+|&b(){[[ぺぺろんP]]}|[[北乃友利＠ゆーりん]]|[[田村ヒロ]]|[[NEGI]]|[[御厨わた]]|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2011年8月13日|CENTER:2011年8月|
+|価格|CENTER:￥1,500|CENTER:￥1,575|
+|サークル|>|CENTER:陰謀派スライダー|
+
+**CD紹介
+>&bold(){イラスト→曲 の新感覚アルバム。}
+-本作は、7名の絵師が描いたイラスト・世界観を基にして曲を作るというコンセプト。
+-7曲の収録曲は全て書き下ろしの新作。
+-従来のアルバムとは一味違った、新しい衝撃をぜひ体感してください！（作者コメ転載）
+-イラストは、DVDトールケース用ブックレットで見開き2Pの掲載。全部で20Pというボリューム。
+-C80 土曜日 東地区キ-32a 「陰謀派スライダー」 にてリリース。
+-委託販売はD-STAGE、とらのあなで行われる。
+
+**曲目
+|>|CENTER:曲名|CENTER:唄|CENTER:イラスト|
+|01|月影の渡り巫女|初音ミク|まさち|
+|02|Artificial Heroine -Snow white-|miki・歌愛ユキ|[[ゆーりん>北乃友利＠ゆーりん]]|
+|03|[[涙双月]]|鏡音リン・Lily|[[田村ヒロ]]|
+|04|[[おわりのかぎ]]|miki・鏡音リン・GUMI|しーな|
+|05|ぷらいまり・ばんぱいあ|歌愛ユキ|するめ|
+|06|学園忍者探偵 鏡音リン|鏡音リン・初音ミク・miki・GUMI|[[NEGI]]|
+|07|アマランサス|GUMI・猫村いろは・miki|[[御厨わた]]|
+
+**リンク
+-[[作者ホームページ>>http://www.njpeperon.sakura.ne.jp/]]
+-[[特設ページ>>http://www.njpeperon.sakura.ne.jp/imaginary_info.html]]
+-[[D-STAGE>>http://d-stage.com/shop/detail.php?seq=22896]]
+
+**コメント
+- 仕事早いww　新作アルバム期待！！  -- 名無しさん  (2011-08-07 16:15:30)
+- リンリリ気になる！  -- 名無しさん  (2011-08-07 17:03:29)
+#comment()

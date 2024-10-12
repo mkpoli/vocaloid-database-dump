@@ -1,0 +1,29 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[crystaL-xxx-]]|CENTER:&bold(){Reach for the Bluesky}|CENTER:[[Reach for the Bluesky（配信）>Reach for the Bluesky]]|
+
+|&bold(){[[クリスタルP]]}|
+
+発売：2012年2月5日
+価格：￥500
+流通：即売
+サークル：クリキッド
+ジャケットイラスト：壱村皐月
+
+**CD紹介
+-クリスタルPの5曲入りCDシングル。
+-表題曲はKAITOの新曲だが、Tr.2と3はKAITO曲をクリスタルPが歌ってみたもの。
+-THE VOC@LOiD M@STER 19（ボーマス19）で頒布。
+
+**曲目
++[[Reach for the Bluesky]]（KAITO）
++[[嫌い、キライ、…だいきらい。]]（クリスタルP）
++パラエイト（クリスタルP）
++Reach for the Bluesky（off vocal）
++パラエイト（off vocal）
+
+**リンク
+-[[作者ホームページ>>http://k-kei.versus.jp/]]
+
+**コメント
+#comment

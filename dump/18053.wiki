@@ -1,0 +1,35 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/815_20110809114916_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Silent Dloc]]|CENTER:&bold(){Ready to Fight for yourself...}|CENTER:[[それでも、光は。]]|
+
+|&bold(){[[パンドリストP]]}|[[Trass_K]]|
+
+発売：2011年8月31日
+価格：￥150
+流通：配信
+レーベル：KarenT
+ジャケットイラスト：[[-まこと->>http://piapro.jp/maternalism]]
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/ready-to-fight-for-yourself.../id460038848]]}|
+
+**CD紹介
+-パンドリストPの配信シングル。
+-ミクのシャウト、ルカのラップ。ミクスチャーラウドサウンド！
+-コンピレーションCD『[[V.L.P.]]』収録曲。
+-KarenTレーベルの初音ミク4周年記念特集で配信された作品の1つ。
+
+**曲目
++Ready to Fight for yourself... （feat. 初音ミク&巡音ルカ）
+
+**動画
+&nicovideo(sm7119891)
+
+**リンク
+-[[作者ブログ>>http://corvorex.seesaa.net/]]
+-[[KarenT：「Ready to Fight for yourself...」>>http://karent.jp/album/815]]
+-[[KarenT：「初音ミク 4th Anniversary」特集ページ>>http://karent.jp/special/miku11]]
+
+**コメント
+#comment()

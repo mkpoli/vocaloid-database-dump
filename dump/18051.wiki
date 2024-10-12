@@ -1,0 +1,35 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/818_20110809184450_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[ELECTROCUTICA S/S 2011>ELECTROCUTICA S／S 2011]]|CENTER:&bold(){Chaining Intention Re:verse mix}&br()[[Chaining Intention（PV）>Chaining Intention/CD]]|CENTER:[[ARCA（配信）>ARCA]]|
+
+|&bold(){[[Treow（逆衝動P）]]}|
+
+発売：2011年8月31日
+価格：￥300 / 1曲￥150
+流通：配信
+レーベル：KarenT
+ジャケットイラスト：喜多嶋時透
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/chaining-intention-re-verse/id460044834]]}|
+
+**CD紹介
+-「[[Chaining Intention]]」の2つ目のリミックス作品となる、「Chaining Intention Re:verse mix」を収録したシングルEP。
+-KarenTレーベルの初音ミク4周年記念特集で配信された作品の1つ。この特集では原曲のMMDPVも配信されている。
+
+**曲目
++Chaining Intention Re:verse mix （feat. 初音ミク）
++Chaining Intention Re:verse mix （Instrumental）
+
+**動画
+|&YouTube(http://www.youtube.com/watch?v=rTmZKGEL1l4)|&nicovideo(sm17269083)|
+
+**リンク
+-[[作者サイト>>http://electrocutica.com/]]
+-[[KarenT：「Chaining Intention Re:verse mix」>>http://karent.jp/album/818]]
+-[[KarenT：「初音ミク 4th Anniversary」特集ページ>>http://karent.jp/special/miku11]]
+
+**コメント
+- 乙です！  -- 名無しさん  (2011-10-19 02:08:23)
+#comment()

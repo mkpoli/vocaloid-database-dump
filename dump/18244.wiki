@@ -1,0 +1,29 @@
+#right(){&furigana(きつづえ)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/19984760" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/19984760">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-作風はロックやエレクトロニカ。落ち着いた曲を作る。
+-使用するVOCALOIDは初音ミクAppend。
+-ぽわぽわPの「[[Equation+**]]」のPVも投稿しており、音楽のみならず、幅広い活動範囲を持つ。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/mazidepainapo]]
+-[[pixiv>>http://www.pixiv.net/member.php?id=2470215]]
+-[[Twitter>>http://twitter.com/#!/KITUDUE]]
+
+**曲
+#list_by_tag(キツヅエ,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(キツヅエCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm14073341)|&nicovideo(http://www.nicovideo.jp/watch/sm14677643)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm14734947)|&nicovideo(http://www.nicovideo.jp/watch/sm15446002)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm15568310)|&nicovideo(http://www.nicovideo.jp/watch/sm16686117)|
+
+**コメント
+- キツヅエさん大好きです！これからどんな良曲が作られるのかwktkすぎるww  -- 雪見  (2012-01-14 21:19:16)
+- カミサマの宇宙アメも追加お願いします！  -- 真降  (2012-03-28 00:43:02)
+- 新曲グッジョブっ！  -- 名無しさん  (2012-08-16 16:05:34)
+#comment()

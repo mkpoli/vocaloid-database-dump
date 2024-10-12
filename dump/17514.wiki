@@ -1,0 +1,31 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/769_20110703215136_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Make up Love>Make up Love/CD]]|CENTER:&bold(){Summer Bright}|CENTER:[[Too much Love>Too much Love/CD]]|
+
+|&bold(){[[MineK]]}|
+
+発売：2011年7月29日
+価格：￥300 / 1曲￥150
+流通：配信
+レーベル：KarenT
+ジャケットイラスト：[[セツジ>>http://piapro.jp/sutare]]
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/summer-bright/id450099217]]}|
+
+**CD紹介
+-MineK氏の2曲入り配信EP。
+-がくぽのひと夏の恋の思い出をイメージしてみました。（KarenT作品概要より）
+-KarenTレーベルの、がくっぽいど発売3周年記念企画で配信された作品の1つ。
+
+**曲目
++[[Summer Bright]] （feat. がくっぽいど）
++Get back Feeling （feat. がくっぽいど）
+
+**リンク
+-[[KarenT：「Summer Bright」>>http://karent.jp/album/769]]
+-[[KarenT：「がくっぽいど3周年記念祭」>>http://karent.jp/special/gackpoid11]]
+
+**コメント
+#comment()

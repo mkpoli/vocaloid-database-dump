@@ -1,0 +1,32 @@
+#right(){&furigana(むにえる)&furigana()【登録タグ:&tags() 】}
+//&ref(http://img.toranoana.jp/img/04/0020/01/45/040020014560-1.gif)
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186111992.jpg,x=300,y=300)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[DDDDDDDDDDDLP]]|CENTER:&bold(){ムニエル}&br()[[CHAOTIC UNIVERSE>CHAOTIC UNIVERSE/CD]]|CENTER:[[Nyanyanyanyanyanyanya!]]|
+
+|&bold(){[[daniwell]]}|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|>|CENTER:2011年6月12日|
+|価格|CENTER:￥300|CENTER:￥315（税込）|
+|サークル|>|CENTER:AIDN|
+
+**CD紹介
+-daniwellPの3作目となるCD作品。
+-『CHAOTIC UNIVERSE』と共にTHE VOC@LOiD M@STER 16（ボーマス16）で初頒布。
+-とらのあなで委託販売が行われている。
+
+**曲目
++[[ムニエル]]
++[[さよならワンウェイハート]]
++[[てすてすブロードキャスト.proj]]
+
+**リンク
+-「[[aidn - THE VOC@LOiD M@STER 16 × daniwellP>>http://aidn.papiness.com/event/vm16/]]」（特設サイト）
+-[[サークルサイト>>http://aidn.papiness.com/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0020/01/45/040020014560.html]]
+
+**コメント
+#comment()

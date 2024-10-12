@@ -1,0 +1,45 @@
+#right(){&furigana(みくのなつやすみ)&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/792_20110804133922_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[ミクのヒミツノート]]|CENTER:&bold(){ミクの夏休み}|CENTER:[[リンのせいしん！！]]|
+
+|&bold(){[[ジェバンニP]]}|
+
+発売：2011年8月31日
+価格：￥600 / 1曲￥150
+流通：配信
+レーベル：KarenT
+ジャケットイラスト：キタカライ
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/id460008205]]}|
+
+**CD紹介
+-ジェバンニPの4作目となる配信アルバム。
+-KarenTレーベルの初音ミク4周年記念特集で配信された作品の1つ。
+-ジェバンニPのミク曲を集めたアルバムとなっている。
+-可愛くてちょっと切ない夏のミクうたをどうぞ。
+
+**曲目
++[[私の大好きな夏]]
++[[キラキラの熱帯魚]]
++[[反唯物論]]
++[[ちゅうのうた]]
++[[unsleeping beauty]]
++[[ジェバンニPのうわき（インストゥルメンタルメドレー）>>http://www.nicovideo.jp/watch/sm15176735]]
+++[[恋ノート////]]
+++[[忍術ヒトメボレの術>忍法ヒトメボレノ術]]
+++[[どろんでござる、ミク丸くん>どろんでござる ミク丸くん]]
+++[[むあああああ]]
+++[[わたしの極秘項目]]
+++キラキラの熱帯魚
+++反唯物論
+++unsleeping beauty
+
+**リンク
+-[[作者ブログ>>http://jvnp.blog60.fc2.com/]]
+-[[KarenT：「ミクの夏休み」>>http://karent.jp/album/792]]
+-[[KarenT：「初音ミク 4th Anniversary」特集ページ>>http://karent.jp/special/miku11]]
+
+**コメント
+#comment()

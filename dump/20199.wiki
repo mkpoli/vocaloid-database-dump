@@ -1,0 +1,45 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/973_20120103012657_0280_0280.jpg)
+
+&nicovideo(sm14678419)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[スターライトトラベラー>スターライトトラベラー/CD]]|CENTER:&bold(){BRaNE WoRLD}|CENTER:[[clarte]]|
+
+|&bold(){[[スターライトP]]}|
+
+||CENTER:即売|CENTER:同人|CENTER:配信|
+|発売|CENTER:2011年6月12日|CENTER:2011年6月|CENTER:2012年1月20日|
+|価格|CENTER:￥1,000|CENTER:￥1,433（税込）|CENTER:￥900 / 1曲￥150|
+|サークル|>|CENTER:スターライトトラベラー||
+|レーベル|>|CENTER:-|CENTER:KarenT|
+
+|&bold(){[[iTunes Storeで購入する>>https://itunes.apple.com/jp/album/brane-world/id494818912]]}|
+
+**CD紹介
+-スターライトPの2ndアルバム。
+-新曲、コンピCD収録曲、リミックス曲など、全9曲を収録。
+-ジャケットイラストはネコノミミコ氏、ジャケット・レーベルデザインは蓬太郎氏。
+-THE VOC@LOiD M@STER 16（ボーマス16）で頒布された。
+-とらのあなで委託販売をおこなっている。
+-2012年1月にはKarenTレーベルよりダウンロード販売が開始された。Tr.8が未収録の全8曲となっている。
+
+**曲目
++caelum
++[[11次元ガールフレンド]]
++[[イマジナリー・ライン]]
++[[BRaNE WoRLD]]
++[[space infrastructure>宇宙インフラストラクチャー]]
++[[コントラストチケット]]
++[[Honey>ハニー]]
++[[七つ色バルール]]（いろどりの音楽室Remix）　　※CD版のみ
++[[私が神様になったわけ]]
+
+**リンク
+-[[「BRaNE WoRLD」特設サイト>>http://braneworld.web.fc2.com/]]
+-[[作者ブログ>>http://starlighttraveler.blog78.fc2.com/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0020/01/45/040020014518.html]]
+-[[KarenT：「BRaNE WoRLD」>>http://karent.jp/album/973]]
+
+**コメント
+#comment

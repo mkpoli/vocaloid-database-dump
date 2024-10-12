@@ -1,0 +1,35 @@
+#right(){&furigana(いえはとぶのよる)&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/992_20120123011515_0280_0280.jpg)
+
+&nicovideo(sm16842564)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[イチクラリミックス集「スプートニク少年少女」]]|CENTER:&bold(){イエハトブのヨル}|CENTER:[[イチクラリミックス集「夢のまにまに」]]|
+
+|&bold(){[[市蔵]]}|
+
+発売：2012年2月1日
+価格：￥600 / 1曲￥150
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：[[りぼな。>>http://piapro.jp/rina654321]]
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album//id498199116]]}|
+
+**CD紹介
+-市蔵氏の配信アルバム。
+-宮沢賢治の物語を下敷きに、一つのアルバムを作りました。（作品概要より）
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++雲の食卓 （feat. 巡音ルカ&SF-A2 開発コードmiki）
++古代魚の夢 （feat. SF-A2 開発コードmiki）
++やまなし （feat. 巡音ルカ）
++銀河鉄道 （feat. 巡音ルカ&SF-A2 開発コードmiki）
++オールライト （feat. 巡音ルカ&SF-A2 開発コードmiki）
+
+**リンク
+-[[KARENT：「イエハトブのヨル」>>http://karent.jp/album/992]]
+
+**コメント
+#comment()

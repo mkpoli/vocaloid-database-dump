@@ -1,0 +1,33 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+#image(http://k-shi-studio.com/debutante7/img/banner.jpg,http://k-shi-studio.com/,title=DEBUTANTE VII Preview,blank)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[DEBUTANTE VI]]|CENTER:&bold(){DEBUTANTE VII Preview}|CENTER:[[DEBUTANTE VII]]|
+
+|&bold(){k-shi}|[[OSTER project]]|[[10日P]]|[[Wonderlandica]]|
+
+||CENTER:即売|
+|発売|CENTER:2011年8月13日|
+|価格|CENTER:￥200|
+|サークル|CENTER:けしスタジオ|
+
+**CD紹介
+>「今度のDEBUTANTEは学園モノ!?」
+-オムニバスアルバム『DEBUTANTE』シリーズ第7弾のプレビュー盤。全3曲。
+-ジャケットイラストは[[憂]]が手掛ける。
+-コミックマーケット80（C80）で初頒布。
+
+**収録曲
++[[マスマティガール]]　/　OSTER project
++Pedal　/　monaca:factory(10日P)
++Eight　/　Wonderlandica
+
+**リンク
+-[[DEBUTANTE VII 特設サイト>>http://k-shi-studio.com/]]
+
+**コメント
+//- 一コメゲトォ
+- 全三曲だとぉ！？  -- ラン  (2012-04-23 20:35:50)
+- ３曲ｗｗｗｗｗｗ  -- 六年亡。  (2012-09-10 19:15:20)
+- 続きないのかなぁ  -- 名無しさん  (2016-01-17 01:08:38)
+#comment

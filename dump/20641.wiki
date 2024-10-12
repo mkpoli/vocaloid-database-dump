@@ -1,0 +1,31 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1010_20120205064202_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Light Falls>Light Falls/CD]]|CENTER:&bold(){Sign ep}|CENTER:[[Evergreen]]|
+
+|&bold(){[[yuxuki]]}|
+
+|流通|CENTER:即売|CENTER:配信|
+|発売|CENTER:2012年2月5日|CENTER:2012年2月22日|
+|価格|CENTER:￥500|CENTER:￥600 / 1曲￥150|
+|サークル|>|CENTER:s10rw|
+
+**CD紹介
+-[[そらいろくらぶ]]のyuxuki氏が、yuxuki waga名義で発表したソロ作品第2弾。
+-新曲の「Sign」と「Tender」に、そらいろくらぶで発表した「Soda」のリメイクを収録している。
+-THE VOC@LOiD M@STER 19（ボーマス19）で頒布。
+-CD版はイベント会場限定だが、KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++Sign
++[[Tender]]
++Soda (in between days)
++Sign (instrumental)
+
+**リンク
+-[[作者サイト>>http://s10rw.net/yuxukiwaga/]]
+-[[KARENT:「Sign ep」>>http://karent.jp/album/1010]]
+
+**コメント
+#comment()

@@ -1,0 +1,160 @@
+#right(){&furigana(aiSeNMa)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(http://www.nicovideo.jp/watch/sm15309462)|&youtube(https://www.youtube.com/watch?v=c-khYUCQj1M){342,187}|
+作詞：[[Circus-P]]
+作曲：[[Circus-P]]
+編曲：[[Circus-P]]
+唄：[[SONIKA]]
+
+**曲紹介
+>&bold(){I got aiSeNMa!!}
+
+**歌詞
+Don't know where I am
+Forgot what happend
+My head wont stop banging
+And everything's blurring
+
+CLoSe YouR eYeS
+Can't let it get to me
+DoN'T LeT Go
+Hold on to reality
+See THe LieS
+Don't succumb to it
+KeeP YouR HeaD
+I'm not going to quit
+
+The beat drops and it's GAME OVER
+Feeling numb everything's a blur
+I can't hold on any longer
+I'm losing it's getting stronger
+
+The beat drops and it's GAME OVER
+Feeling numb everything's a blur
+I can't hold on any longer
+I'm losing it's getting stronger
+
+aiSeNMa…
+
+I gotta get my head right
+Can't let it get in
+I have to make it through the night
+But I can't win
+
+CLoSe YouR eYeS
+Can't let it get to me
+DoN'T LeT Go
+Hold on to reality
+See THe LieS
+Don't succumb to it
+KeeP YouR HeaD
+I'm not going to quit
+
+The beat drops and it's GAME OVER
+Feeling numb everything's a blur
+I can't hold on any longer
+I'm losing it's getting stronger
+
+The beat drops and it's GAME OVER
+Feeling numb everything's a blur
+I can't hold on any longer
+I'm losing it's getting stronger
+
+&color(red){!!ERROR!!}
+
+The beat drops and it's GAME OVER
+Feeling numb everything's a blur
+I can't hold on any longer
+I'm losing it's getting stronger
+
+The beat drops and it's GAME OVER
+Feeling numb everything's a blur
+I can't hold on any longer
+I'm losing it's getting stronger
+
+aiSeNMa…
+
+
+#region(日本語訳（動画コメントより）)
+
+私は何処にいるんだろう
+何が起こったのかさえ忘れた
+頭はまだクラクラするようだ
+何も見えない……
+
+メヲトジテ
+まだ着かない
+イカナイデ
+何があったのか
+アザムイテ
+負けるものか
+あなたの命が大切なの
+止めるものか
+
+ブザーが鳴れば、全てが終わる
+感覚が無くなって全てが霞んでくる
+手がかりがつかめない
+ここはみしらぬ世界
+
+ブザーが鳴れば、全てが終わる
+感覚が無くなって全てが霞んでくる
+手がかりがつかめない
+ここはみしらぬ世界
+
+少し落ち着いてきた
+しかし、まだたどりつかない
+今夜までにたどり着かなくては
+でも……
+
+メヲトジテ
+まだ着かない
+イカナイデ
+何があったのか
+アザムイテ
+負けるものか
+あなたの命が大切なの
+止めるものか
+
+ブザーが鳴れば、全てが終わる
+感覚が無くなって全てが霞んでくる
+手がかりがつかめない
+ここはみしらぬ世界
+
+ブザーが鳴れば、全てが終わる
+感覚が無くなって全てが霞んでくる
+手がかりがつかめない
+ここはみしらぬ世界
+
+ブザーが鳴れば、全てが終わる
+感覚が無くなって全てが霞んでくる
+手がかりがつかめない
+ここはみしらぬ世界
+
+ブザーが鳴れば、全てが終わる
+感覚が無くなって全てが霞んでくる
+手がかりがつかめない
+ここはみしらぬ世界
+#endregion
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+**コメント
+- この歌はいい！もっと評価されるべき。  -- まりん  (2012-03-20 16:24:46)
+- この曲かっこいいのにコメント少ない…(´・ω・｀)  -- 名無しさん  (2012-08-29 11:56:06)
+- SONIKAで一番好きだ  -- d=(^o^)=b  (2013-01-09 03:14:19)
+- もっと評価されるべき。  -- 海外ボカロ好き  (2013-11-29 14:19:11)
+- ソニカの曲で一番好き！！  -- 名無しさん  (2014-08-13 22:30:32)
+- ハマる人はハマる名曲  -- gon  (2017-09-29 00:13:44)
+- これは好きだわ…読みとかあれば歌えそう  -- 名無しさん  (2018-01-07 16:54:14)
+//- よく見たら歌詞が間違ってる件。GEME OVERじゃなくてGAME OVERですよ  -- IRiS  (2018-07-14 01:10:53)
+- いい曲  -- さつき  (2023-04-22 14:15:31)
+#comment()
+
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)

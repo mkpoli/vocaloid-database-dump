@@ -1,0 +1,36 @@
+#right(){&furigana(よいやみのゆめにはしるげっこう)&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/772_20110705074038_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Colorful Days>Colorful Days/CD]]|CENTER:&bold(){宵闇の夢に疾る月光}|CENTER:[[Bloody Nightmare with...]]|
+
+|&bold(){[[As'257G]]}|[[Azzy]]|[[ma-yuki]]|
+
+発売：2011年7月29日
+価格：￥900 / 1曲￥150
+流通：配信
+レーベル：KarenT
+ジャケットイラスト：[[Hach>>http://piapro.jp/Hach]]
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/id450102881]]}|
+
+**CD紹介
+-Sound Team Layer-0のAs'257G氏の配信アルバム。
+-新たにミックスしなおされた過去曲や、レン曲として発表されていた楽曲のがくぽバージョンなどを収録。
+-KarenTレーベルの、がくっぽいど発売3周年記念企画で配信された作品の1つ。
+
+**曲目
++[[螺旋夢想]] （feat. がくっぽいど）
++[[Monochrome Dream]] （feat. がくっぽいど）
++[[月夜姫 -KaGuYa->月夜姫 - KaGuYa -]] （feat. がくっぽいど）
++[[月と砂漠]] （feat. がくっぽいど）
++ネガイノカケラ （feat. がくっぽいど）
++Bullet Runner. （feat. がくっぽいど）
+
+**リンク
+-[[サークルサイト>>http://layer-0.shillest.net/]]
+-[[KarenT：「宵闇の夢に疾る月光」>>http://karent.jp/album/772]]
+-[[KarenT：「がくっぽいど3周年記念祭」>>http://karent.jp/special/gackpoid11]]
+
+**コメント
+#comment()

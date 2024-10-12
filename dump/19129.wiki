@@ -1,0 +1,41 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+|&ref(http://img.toranoana.jp/img/04/0030/00/86/040030008605-1.gif)&br()CD版ジャケット|&ref(http://karent.jp/npdca/1005_20120202143830_0280_0280.jpg)&br()配信版ジャケット|
+
+&nicovideo(http://www.nicovideo.jp/watch/sm16132530)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[ANNIVERSARY PLACE E.P.]]|CENTER:&bold(){CLOSE*2}|CENTER:[[Tiny PaRadisE>Tiny PaRadisE/CD]]|
+
+|&bold(){[[かごめP]]}|[[杉の人]]|[[ゐつ]]|
+
+|流通|CENTER:即売|CENTER:委託|CENTER:配信|
+|発売|CENTER:2011年11月19日|CENTER:2011年11月|CENTER:2012年2月15日|
+|価格|CENTER:￥1,000|CENTER:￥1,523（税込）|CENTER:￥600 / 1曲￥150|
+|サークル|>|>|CENTER:PLANARIYA Recordings|
+
+**CD紹介
+-かごめP×なおとえぬ氏のCD×コミックのコラボ作品。
+-本の方はなおとえぬ氏による「[[CLOSE*2]]」のコミカライズ作品。
+-CDの方は「CLOSE*2」の世界を広げる新曲3曲を収録している。
+-THE VOC@LOiD M@STER 18（ボーマス18） にてリリース。
+-とらのあなで委託販売が、KARENTレーベルよりダウンロード販売が行われる。
+
+**曲目
+（）内は配信版での表記。
++Chilly Boy　&bold(){&color(red){NEW!!}}
++[[CLOSE*2]]
++[[Hi-Fi Girl HD（ハイファイガールHD）>ハイファイガールHD]]
++Peaceful Strange（ピースフルストレンジ）　&bold(){&color(red){NEW!!}}
++EXIT GATE（ィクジットゲート）　&bold(){&color(red){NEW!!}}
+
+**リンク
+-[[かごめPブログ>>http://planariya.blogspot.com/]]
+-[[なおとえぬブログ>>http://blog.min-uta.hacca.jp/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/00/86/040030008605.html]]
+-[[KARENT：「CLOSE*2」>>http://karent.jp/album/1005]]
+
+**コメント
+- 欲しい！  -- 名無しさん  (2011-11-19 13:25:53)
+- はわわ欲しい！！  -- 名無しさん  (2012-03-03 03:21:17)
+- 欲しい・・やばい欲しい！！！  -- 名無しさん  (2012-03-03 04:23:38)
+#comment()

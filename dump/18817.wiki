@@ -1,0 +1,31 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/885_20111012031526_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Ice Cafe Latte (Just a Cream)}|CENTER:-|
+
+|&bold(){[[ぱん]]}|
+
+発売：2011年10月24日
+価格：￥300 / 1曲￥150
+流通：配信
+レーベル：KarenT
+ジャケットイラスト：[[ゆ>>http://piapro.jp/yusiki_u]]
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/ice-cafe-latte-just-a-cream/id473627943]]}|
+
+**CD紹介
+-ぱん氏の配信シングル。
+-2曲入りカフェ曲集。
+-KarenTの「Cafeでのひととき」特集で配信された作品の1つ。
+
+**曲目
++[[Ice Cafe Latte (Just a Cream)]] （feat. 初音ミク）
++[[waltz>waltz/ぱん]] （feat. 初音ミク）
+
+**リンク
+-[[KarenT：「Ice Cafe Latte (Just a Cream)」>>http://karent.jp/album/885]]
+-[[KarenT：「Cafeでのひととき」特集ページ>>http://karent.jp/special/cafe11]]
+
+**コメント
+#comment()

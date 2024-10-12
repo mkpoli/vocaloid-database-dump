@@ -1,0 +1,30 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm15404061)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Imaginary]]|CENTER:&bold(){ReAwake2}|CENTER:[[Two Dimensional]]|
+
+|&bold(){[[ぺぺろんP]]}|
+
+発売：2011年9月4日
+価格：￥500
+流通：即売
+サークル：陰謀派スライダー
+
+**CD紹介
+-2010年7月に頒布された『[[ReAwake]]』の続編にあたる、ぺぺろんPのアレンジミニアルバム第2弾。
+-THE VOC@LOiD M@STER 17（ボーマス17）で初頒布。
+
+**曲目
++[[Kagehumi -Shade Steps->カゲフミ]] by 鏡音リン
++[[Glass Eyes>硝子の瞳]]　by 初音ミク
++[[Forgotten Girl -Ac Remix->Forgotten Girl]] by 歌愛ユキ
++[[Guilty Verse -9th Verse Remix->Guilty Verse]] by 氷山キヨテル
++[[Always and Forever 2days Remix>Always and Forever]] by GUMI & 鏡音リン
+
+**リンク
+-[[作者ホームページ（M-tone）>>http://www.njpeperon.sakura.ne.jp/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/00/82/040030008258.html]]
+
+**コメント
+#comment()

@@ -1,0 +1,31 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/923_20111127233013_0280_0280.jpg)
+
+|CENTER:前作|CENTER:今作|CENTER:次作|
+|CENTER:[[一度きりの物語]]|CENTER:[[交差する想像共感 SIDE-R]]&br()&bold(){POINT OF THE GLANCE - Another Ver}|CENTER:[[狂騒世界のファンタジア>狂騒世界のファンタジア/CD]]|
+
+|&bold(){[[いーえるP]]}|
+
+流通：配信
+発売：2011年12月21日
+価格：￥150
+レーベル：KARENT
+ジャケットイラスト：[[ももぱん>>http://piapro.jp/momopann]]
+
+|&bold(){[[iTunes Storeで購入>>http://itunes.apple.com/jp/album/point-of-the-glance-another/id489062513]]}|
+
+**CD紹介
+-いーえるPの配信シングル。
+-KARENTレーベルの鏡音リンレン4周年&Append1周年記念企画で配信された作品の1つ。『[[交差する想像共感 SIDE-R]]』と同時リリース。
+-動画で発表した「[[POINT OF THE GLANCE]]」の別バージョンで、歌詞も一部異なっている。
+
+**曲目
++[[POINT OF THE GLANCE]] - Another Ver （feat. 鏡音リン）
+
+**リンク
+-[[作者サイト>>http://www.tinysymphony.com/]]
+-[[KARENT：「POINT OF THE GLANCE - Another Ver」>>http://karent.jp/album/923]]
+-[[KARENT：「鏡音リン・レン祭'11」特集ページ>>http://karent.jp/special/rinlen11]]
+
+**コメント
+#comment()

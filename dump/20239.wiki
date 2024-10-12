@@ -1,0 +1,42 @@
+#right(){&furigana(つばきいろD-i-s-k) &furigana()【登録タグ:&tags() 】}
+#amazon(B006X7B7RE)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm16775512)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[若葉色D-i-s-k]]|CENTER:&bold(){椿色D-i-s-k}|CENTER:[[向日葵色D-i-s-k]]|
+
+|&bold(){[[あルカP]]}|
+
+||CENTER:即売|CENTER:同人|
+|発売|>|CENTER:2012年2月5日| 
+|価格|CENTER:￥1,000（税込）|CENTER:￥1,500（税込）| 
+|サークル|>|CENTER:Celo Project|
+
+**CD紹介
+-あルカP の 4th album 。
+-今作では、mikiをフィーチャーしている。「ViCTiM」「FUTURE」など全12曲を収録。
+-ジャケットイラストは りくかんな氏 が手掛ける。
+-THE VOC@LOiD M@STER 19（ボーマス19）にてリリース。
+-Amazon でも委託販売が行われている。
+
+**曲目
++[[椿色トワイライト]] feat. miki
++[[FUTURE>FUTURE/あルカP]] feat. GUMI（Power）・神威がくぽ
++[[S.K-y]] feat. 鏡音リンAppend（Power）・鏡音レンAppend（Power）
++[[Doll>Doll/あルカP]] feat. 巡音ルカ・神威がくぽ
++[[Little HERO!!>Little HERO！！]] feat. ミィミ（miki・GUMI・初音ミク）・神威がくぽ
++[[粉雪メロディー2011>粉雪メロディー]] feat. ミィミ（miki・GUMI・初音ミク）
++[[ViCTiM]] feat. miki
++[[STAR☆]] -アルバムバージョン- feat. miki
++[[黒い矢の先に]] feat. 初音ミクAppend（Solid）・神威がくぽ
++BLUE SKY feat. GUMI
++[[Kin Kon Kan Kon♪]] feat. 初音ミク
++Liberty（inst.）
+
+**リンク
+-[[作者ブログ（M@SATOSHIが日記）>>http://masatoshi60.blog11.fc2.com/]]
+-[[Amazon.co.jp>>http://www.amazon.co.jp/dp/B006X7B7RE]]
+
+**コメント
+#comment()

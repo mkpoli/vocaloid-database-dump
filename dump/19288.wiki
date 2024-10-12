@@ -1,0 +1,80 @@
+#right(){&furigana(かかみねりんれんみんそくちょうこんひれーしょんあるはむCaleidoscopio)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+
+//&ref(http://habcy.bitter.jp/kagaminefolk/bn_400.jpg)
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186114512.jpg,x=300,y=430)
+
+|&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/29658068" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/29658068">【ニコニコ動画】鏡音民族調コンピ「Caleidoscopio」収録曲</a></iframe>)|&nicovideo(sm16533708)|
+
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){鏡音リンレン民族調コンピレーションアルバム「Caleidoscopio」}|CENTER:-|
+
+|>|>|>|>|BGCOLOR(#cccc00):COLOR(#000000):CENTER:&b(){楽曲制作・調声}|
+|&bold(){[[みっち>かいわれP]]}|CENTER:[[akahori]]|CENTER:[[innisfree]]|[[U-ta/ウタP>ウタP]]|[[おればなな>おればななP]]|
+|[[キッドP]]|CENTER:[[さくら（えにくすP）>えにくすP]]|CENTER:[[さささ>さささP]]|CENTER:[[SHiruO]]|[[すみませんP]]|
+|CENTER:[[ちえ>ちえP]]|CENTER:[[つきのP]]|[[てとてと＠情熱P>情熱P]]|CENTER:[[ナナミP]]|[[葉の月（ちくP）>ちくP]]|
+|CENTER:[[春巻P]]|CENTER:[[待逢由宇介]]|CENTER:[[Maharo>まはろP]]|CENTER:[[れれれP]]||
+
+|>|>|>|>|BGCOLOR(#cccc00):COLOR(#000000):CENTER:&b(){イラスト制作}|
+|あまみね|CENTER:[[いたる]]|CENTER:うたおり|Carl|CENTER:君澤考|
+|CENTER:銀狼|洸夜ナナセ|CENTER:56|朔也|CENTER:さんみ|
+|CENTER:[[soriku]]|月白よつば|CENTER:と－る|なじょ|何故これをP|
+|CENTER:[[7:24>姉を見事に使いこなす妹P]]|CENTER:nico|葉粉蜜柑|雛姫|CENTER:ひるる|
+|[[△○□×]]|CENTER:ゆうみ|CENTER:ゆきち|りちか|CENTER:怜鈴|
+
+|CENTER:流通|CENTER:即売|CENTER:同人|
+|CENTER:発売|CENTER:2012年1月8日|CENTER:2012年1月14日|
+|CENTER:価格|CENTER:￥1,000|CENTER:￥1,050(税込)|
+|サークル|>|CENTER:Caleidoscopio|
+
+**CD紹介
+CD名：『&u(){鏡音リンレン民族調コンピレーションアルバム「Caleidoscopio」}』（&u(){かがみねりんれんみんぞくちょうこんぴれーしょんあるばむ「Caleidoscopio」}）
+-かいわれPことみっち氏の何気ないつぶやきから始まったはずが、多くの人が参加する企画となった鏡音リン・レン民族調コンピレーションアルバムCD。
+-2012年1月8日開催の「コミックシティ大阪87」内プチオンリーイベント「かがぺろ！」及び2月5日開催の「THE VOC@LOiD M@STER19」にて頒布。
+-現在、とらのあなで委託販売が行われている。
+-主催は[[みっち>かいわれP]]、DTP総括はみさお、マスタリングは[[クリスタルP]]、WebデザインはCarl、クロスフェード編集は[[アンメルツP]]が担当している。
+-タイトルは公募され、[[凪唱P]]の「Caleidoscopio」が採用された。
+
+**曲目
+|>|BGCOLOR(#cccc00):COLOR(#000000):CENTER:&b(){曲名}|BGCOLOR(#cccc00):COLOR(#000000):CENTER:&b(){作詞・作曲・編曲}|BGCOLOR(#cccc00):COLOR(#000000):CENTER:&b(){イラスト}|
+|01|[[生きた花の詩]]|[[Maharo>まはろP]]|nico|
+|02|[[祭の伝承歌]]|［作詞］あおんあき ［作編曲］[[さくら（えにくすP）>えにくすP]]|葉粉蜜柑|
+|03|トコニレの森から|［作詞］[[さささ>さささP]] ［作編曲］[[ちえ>ちえP]]|洸夜ナナセ|
+|04|[[流れ星になって]]|［作詞］せんてふ ［作編曲］[[つきのP]]|銀狼|
+|05|想色小瓶|[[すみませんP]]|君澤考|
+|06|[[煉獄]]|[[しるお]]|うたおり|
+|07|[[ひかり>ひかり/akahori]]|[[akahori]]|56|
+|08|[[オフェリア]]|[[れれれP]] ［調声］[[おればななP]]|[[△○□×]]|
+|09|[[螭吻～Chiwen]]|［作詞］[[待逢由宇介]] ［作編曲］a_denial|Carl|
+|10|[[鳥]]|[[さささ>さささP]]|りちか|
+|11|[[Dideh o Shasta -十五の宴-]]|[[ナナミP]]|[[7:24>姉を見事に使いこなす妹P]]|
+|12|[[.florist]]|［作詞］カステラ ［作編曲］[[みっち>かいわれP]]|怜鈴|
+|13|[[少年の旅立ち]]|[[春巻P]]|何故これをP|
+|14|[[情熱のカンテ]]|[[葉の月（ちくP）>ちくP]]|月白よつば|
+|15|そして夜毎に君を待つ|[[innisfree]]|ひるる|
+|16|[[オオカミ少年の最後の嘘]]|［作詞］[[残鏡P]] ［作曲］[[キッドP]] ［編曲］[[クリスタルP]]|[[いたる]]|
+|17|[[Sol Dios]]|［作詞］[[U-ta/ウタP>ウタP]] ［作編曲］[[てとてと＠情熱P>情熱P]]|さんみ|
+|18|[[Fractus]]|[[U-ta/ウタP>ウタP]]|朔也|
+
+**リンク
+-[[特設ページ>>https://habcy.bitter.jp/kagaminefolk/]]
+-[[公式Twitter>>https://twitter.com/kagaminefolk]]
+//-[[とらのあな>>https://www.toranoana.jp/mailorder/article/04/0030/02/22/040030022298.html]]
+
+**コメント
+- お、ページ出来てる！今から楽しみ！  -- 名無しさん  (2011-11-22 06:46:32)
+- おお！ｋｔｋｒ＞＜楽しみだ♪  -- トモァ  (2011-11-22 19:05:05)
+- 楽しみ♪  -- 奏  (2011-11-22 23:33:12)
+- 楽しみ！絶対買います！  -- 名無しさん  (2011-11-23 23:42:33)
+- ちえP久しぶりじゃないか  -- 名無しさん  (2011-11-25 20:23:26)
+- これ絶対買うわ  -- りょーん  (2011-11-26 02:00:13)
+- リンレンの誕生日　ＣＤでないのかな?  -- 名無しさん  (2011-11-26 20:23:28)
+- ウタPのFractusが楽しみすぎて。ってか豪華だよね、全体的に！  -- 名無しさん  (2011-12-17 01:52:09)
+- 楽しみ！  -- 名無しさん  (2011-12-20 18:23:05)
+- リンレン誕生日おめでとうございます！  -- 名無しさん  (2011-12-27 11:07:04)
+#comment()

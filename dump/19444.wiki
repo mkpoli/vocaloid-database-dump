@@ -1,0 +1,45 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#image(http://img.toranoana.jp/popup_img/04/0030/00/79/040030007989-1p.jpg,height=200,width=200)
+&nicovideo(http://www.nicovideo.jp/watch/sm16058308)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Unfinished Eden]]|CENTER:&bold(){Resonance}|CENTER:[[Eschatology]]|
+
+|&bold(){[[無力P]]}|AO|
+
+||CENTER:即売|CENTER:同人|
+|発売|CENTER:2011年11月19日|CENTER:2011年11月19日|
+|価格|CENTER:￥1,000|CENTER:￥1,470(税込)|
+|サークル|CENTER:三度目の夏|CENTER:Powerless Decision|
+
+>音楽：&b(){[[無力P]]}
+>画集・作詞：AO
+
+|&bold(){[[とらのあなで購入する>>http://www.toranoana.jp/mailorder/article/04/0030/00/79/040030007989.html]]}|
+|&bold(){[[D-STAGEで購入する>>http://d-stage.com/shop/detail.php?seq=24380]]}|
+
+**CD紹介
+-無力Pの3rd Album。
+-絵師の AO氏 の画集と一体になった、CD付画集。
+-先行公開された"NEXT STAGE"やインスト曲を含めた8曲を収録。
+-THE VOC@LOiD M@STER 18（&b(){ボーマス18}） にてリリース。現在、とらのあな・D-STAGEでの委託販売が行われている。
+
+**曲目
++[[NEXT STAGE>NEXT STAGE/無力P]]
++Kaleidoscopic
++[[Pelagic fish]]
++Frozen World
++A tree without a branch
++Lazward
++Still,
++Kyrie
+
+**リンク
+-[[作者HP>>http://resonancesound.blogspot.com/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/00/79/040030007989.html]]
+-[[D-STAGE>>http://d-stage.com/shop/detail.php?seq=24380]]
+
+**コメント
+- 絵も歌もインストもアツい！無力Pファンなら絶対買うべき！  -- 名無しさん  (2011-12-11 20:54:07)
+- Sweet Sweet Cendrillon Drugアレンジが好きな自分にはKyrieがツボった。しかしどれもいい。  -- 名無しさん  (2012-03-31 19:01:23)
+#comment()

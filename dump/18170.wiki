@@ -1,0 +1,64 @@
+#right(){&furigana(とあるちゅうにのだいがくせい)&furigana()【登録タグ:&tags() 】}
+|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/25261800" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/25261800">【ニコニコ動画】</a></iframe>)|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/23904312" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/23904312">【ニコニコ動画】</a></iframe>)|
+|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/32155477" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/32155477">【ニコニコ動画】</a></iframe>)||
+
+**特徴
+-&bold(){とある厨二の大学院生}。
+-主に初音ミクを使用した曲を作っているP。
+-白黒のみで構成されたサムネイルは[[某P>梨本P]]リスペクトらしい。
+-ういすきーPというP名が検討されている模様。
+
+**リンク
+-[[PIAPRO「とある厨二の大学生さん」のページ>>http://piapro.jp/toaru_tyuni]]
+-[[Twitter>>http://twitter.com/toaru_tyuni]]
+
+**曲
+#list_by_tag(とある厨二の大学生,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(とある厨二の大学生CD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm13639220)|&nicovideo(http://www.nicovideo.jp/watch/sm13639688)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm13732185)|&nicovideo(http://www.nicovideo.jp/watch/sm13796257)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm13993589)|&nicovideo(http://www.nicovideo.jp/watch/sm14124626)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm14740041)|&nicovideo(http://www.nicovideo.jp/watch/sm14740052)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm14740057)|&nicovideo(http://www.nicovideo.jp/watch/sm15166823)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm15167605)|&nicovideo(http://www.nicovideo.jp/watch/sm15254976)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm15312375)|&nicovideo(http://www.nicovideo.jp/watch/sm15770405)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm15770421)|&nicovideo(http://www.nicovideo.jp/watch/sm15770434)|
+
+**コメント
+- 記事できてるｗサビ大好き・・  -- 名無しさん  (2011-09-07 23:32:21)
+- ういすきーってwwwwいや、いい名前だと思うwwww  -- 名無しさん  (2011-09-08 22:34:35)
+- ものすごぉぉくすばらしいP名じゃないですかw　ういすきーP　  -- 道化師の品評会もすきー  (2011-09-25 17:27:17)
+- ページ出来てるwこの人の曲すきだ  -- 名無しさん  (2011-09-26 17:28:29)
+- この人超好きです  -- 名無しさん  (2011-09-29 22:21:36)
+- 梨本ういが僕を殺す超好き！！もちろんアイポッドいきｗｗ  -- 名無しさん  (2011-09-29 23:39:29)
+- なんで伸びないんだろw  -- 名無しさん  (2011-09-30 23:40:11)
+- もっと評価されるべき  -- 名無しさん  (2011-10-01 12:05:36)
+- どなたか新曲のページを…！お願いします！  -- 名無しさん  (2011-10-02 23:11:40)
+- あれ、新曲ページがないｗｗｗｗｗ  -- 名無しさん  (2011-10-03 17:40:19)
+- ういすきーｗｗｗなるほど理解。  -- 名無しさん  (2011-10-30 14:11:28)
+- ういすきーＰかw、すごく良いと思うけどww  -- 名無しさん  (2011-11-05 08:44:15)
+- 孤立無援…ないのか…  -- 名無しさん  (2012-02-28 02:58:20)
+- ういすきーっはッ?成る程！  -- くるっぽー  (2012-03-30 19:21:37)
+- 孤立無援見に来たけどないのか…  -- 名無しさん  (2012-04-17 17:53:27)
+- 孤立無援って、まどマギのほむらちゃんの曲って聞いたけど、そーなん？  -- 珠妃華07  (2012-06-23 22:06:02)
+- この人の作品の良さは、聴いてみないと分からない。荒削りだけど、凄く光るものがある。  -- 竜奇  (2012-06-26 07:45:14)
+- この人の曲よく梨本Pと間違われてるからくやしい…もっと知られて評価されるべき！  -- ワフワフ  (2012-08-02 14:33:00)
+- まぁ、リスペクトだからしかたない。 &br()でも、この人かなりいいアジ出してんだけどなぁ  -- 愛されたいあ  (2012-08-06 03:50:39)
+- この人大好き  -- クチサケ  (2012-10-13 19:03:19)
+- ういすきーwwwww  -- 名無しさん  (2012-11-30 17:25:42)
+- ういすきーP決定で！  -- しの  (2012-12-21 14:58:28)
+- どの曲も徹底的にバンドサウンド！素敵！ &br()もっと早く知りたかった  -- 名無しさん  (2013-03-29 22:39:48)
+- ういすきーいいよねwww公開告白も好きだけどwww  -- リナ  (2013-04-13 16:22:04)
+- ↑おまいは俺かw  -- 名無しさん  (2013-04-17 18:53:11)
+- ういすきーって本人がタグ固定してない以上、とあるさんでいいだろ。ういすきーってのは梨本さん側も嫌がるかもしれないわけで（こればっかりはわからないけど）  -- 名無しさん  (2013-04-22 13:08:31)
+- マジでこの人好きｗ  -- 名無しさん  (2014-05-03 10:16:52)
+- 「こわれもの」かっこよすぎた・・・！！  -- 名無しさん  (2014-10-20 21:42:59)
+- 生存が確認できないけど元気でやってるといいなあ  -- 名無しさん  (2019-10-30 00:50:40)
+- 名前が更新されて見に来ちまった　ほんとにな　元気にしてて欲しい　願わくばまたこの人の絵エモいサビの楽曲が聞きたい  -- 名無しさん  (2019-10-30 14:36:08)
+- 帰ってこないかな。  -- 名無しさん  (2022-09-14 11:31:52)
+- 復活してくれよ……  -- 名無しさん  (2023-01-16 20:50:09)
+#comment()

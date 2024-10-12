@@ -1,0 +1,32 @@
+#right(){&furigana(ゆめみと)&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/781_20110720101710_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Earth Song>Earth Song/CD]]|CENTER:&bold(){夢見人}|CENTER:[[SEXY GIRLS]]|
+
+|&bold(){[[だいすけP]]}|
+
+発売：2011年8月31日
+価格：￥300 / 1曲￥150
+流通：配信
+レーベル：KarenT
+ジャケットイラスト：[[ぎんこ>>http://piapro.jp/ginko]]
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/id459996837]]}|
+
+**CD紹介
+-だいすけPの配信EP。
+-夢と希望がつまった、爽やかで力強い未来（ミク）の歌。
+-KarenTレーベルの初音ミク4周年記念特集で配信された作品の1つ。
+
+**曲目
++[[夢見人]] （feat. 初音ミク）
++[[Rera]] （feat. 初音ミク）
+
+**リンク
+-[[作者ブログ>>http://daisukep.blog47.fc2.com/]]
+-[[KarenT：「夢見人」>>http://karent.jp/album/781]]
+-[[KarenT：「初音ミク 4th Anniversary」特集ページ>>http://karent.jp/special/miku11]]
+
+**コメント
+#comment()

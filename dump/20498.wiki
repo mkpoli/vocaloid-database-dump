@@ -1,0 +1,44 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#ref(http://karent.jp/npdca/1570_20140729173138_0280_0280.jpg)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm16108291)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Evaporated milk]]|CENTER:&bold(){Honey Rabbits}|CENTER:[[Chocolat bear>>Chocolat bear/CD]]|
+
+|&bold(){[[苺ミルクをぶっかけたら殺す。]]}|
+
+|流通|CENTER:即売|CENTER:同人|CENTER:配信|
+|発売|>|CENTER:2011年11月19日|CENTER:2014年8月27日|
+|価格|CENTER:￥1,000（税込）|CENTER:￥1,500（税込）|CENTER:￥1,500|
+|サークル|>|CENTER:アストロノーツ||
+
+**CD紹介
+-苺ミルクをぶっかけたら殺す。 こと わか氏 の 2ndアルバム。
+-ボーカロックあり、ミクノポップありの、ちょっとオシャンティーぶったCD。全11曲を収録。
+-絵師10人（[[真理歪]]氏・[[柾見ちえ]]氏・ぷリんと氏・Haq氏・[[ひなのすけ]]氏・[[有識]]氏・[[べて]]氏・黒峰氏・霜月六花氏・千助氏）による、豪華イラスト集風12Pブックレット付き。
+-ジャケットイラストは [[iXima]]氏 が手掛ける。
+-THE VOC@LOiD M@STER 18（ボーマス18） にてリリース。
+-同人ショップにて委託販売、KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++aube
++[[ほしくず、ないとめあ]]
++[[マカロン>マカロン/苺ミルクをぶっかけたら殺す。]]
++[[君色マキアート]]
++[[あの日、描いたDIARY]]
++[[last dance]]
++[[Guimauve]]
++[[diamrem]]
++[[しらたま☆メリーゴーラウンド]]
++[[switch>switch/苺ミルクをぶっかけたら殺す。]]
++[[こぐま座一番星]]
+
+**リンク
+-[[特設ページ>>http://astronaut39.web.fc2.com/hrb.htm]]
+-[[作者ブログ>>http://ameblo.jp/lunagyokuto/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/00/82/040030008217.html]]
+-[[KARENT：「Honey Rabbits」>>http://karent.jp/album/1570]]
+
+**コメント
+#comment()

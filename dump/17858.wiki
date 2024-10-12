@@ -1,0 +1,45 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/958_20111223171542_0280_0280.jpg)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm15386824)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Toy Box!!]]|CENTER:&bold(){World of Musical}|CENTER:-|
+
+|&bold(){[[家の排水溝が詰まって溢れて水たまりP]]}|
+
+|流通|CENTER:即売|CENTER:同人|CENTER:配信|
+|発売|CENTER:2011年9月4日|CENTER:2011年9月|CENTER:2012年1月11日|
+|価格|CENTER:￥1,000|CENTER:￥1,365（税込）|CENTER:￥1,200 / 1曲￥150|
+|サークル|>|CENTER:家の排水溝が詰まって溢れて水たまりPと楽しいゆかいな仲間によるサークルだと思いますよ？||
+
+**CD紹介
+-家の排水溝が詰まって溢れて水たまりP こと himawari氏 の 2nd album 。
+-先行リリースされた「[[リトルストーリー]]」「[[香辛料とキッチンスケール]]」など、全12曲を収録。
+-ジャケットイラストは うらら氏 が手掛ける。
+-イベント当日は、CD＋ うらら氏 による四コマ本＋α の豪華特典付き！！
+-THE VOC@LOiD M@STER 17（ボーマス17） にてリリース。
+-ボーマスでの頒布に先駆けて、収録曲の「Toy Box!!」が単体でKarenTレーベルよりダウンロード販売が開始された。→[[詳細>>Toy Box!!]]
+-とらのあなで委託販売が行われている。ただし、本などのおまけは無し。KARENTレーベルよりダウンロード販売も行われている。
+
+**曲目
++SE     
++描くセカイ   
++[[リトルストーリー]]  
++サイケデリック公園  
++[[満月の夜に雨は降る]]   
++Toy Box!!  
++[[香辛料とキッチンスケール]]  
++[[時計の針は進む]]   
++[[旅立ちの前に]]   
++[[サードパーティ]]   
++ある日の夢の中
++[[夜明け前のシンフォニー]]
+
+**リンク
+-[[作者ブログ>>http://himawari222.blog24.fc2.com/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0020/03/20/040020032088.html]]
+-[[KARENT：「World of Musical」>>http://karent.jp/album/958]]
+
+**コメント
+#comment()

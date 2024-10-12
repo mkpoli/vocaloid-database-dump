@@ -1,0 +1,48 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#ref(http://karent.jp/npdca/1265_20130428122732_0280_0280.jpg)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm15288781)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Evaporated milk}|CENTER:[[Honey Rabbits]]|
+
+|&bold(){[[苺ミルクをぶっかけたら殺す。]]}|
+
+|流通|CENTER:即売|CENTER:同人|CENTER:配信|
+|発売|>|CENTER:2011年9月4日|CENTER:2013年5月15日|
+|価格|CENTER:￥1,000|CENTER:￥1,050（税込）|CENTER:￥1,200 / 1曲￥150|
+|サークル|>|CENTER:アストロノーツ||
+
+**CD紹介
+>&bold(){白くて、甘くて、苦くて、べたべたして・・・。}
+-苺ミルクをぶっかけたら殺す。こと、わか氏の1stアルバム。
+-タイトルになっている「Evaporated milk」は、「無糖練乳（エバミルク）」のこと。
+-ロックありの、インストありの、テクノポップありの全11曲を収録。
+-千助氏・ハコ氏・ミヤ氏・有識氏・ぷりんと氏・ななめ氏・空倉シキジ氏・黒峰氏・[[真理歪]]氏・[[iXima]]氏 絵師10人による、豪華イラスト集風12Pブックレット付き。
+-ジャケットイラストは [[iXima]]氏 が手掛ける。
+-THE VOC@LOiD M@STER 17（ボーマス17） にてリリース。
+-同人ショップにて委託販売、KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++Wasanbon
++[[シュガーシュガーシュガー]]
++[[カラフルポップビート]]
++ヴァンパイアナース
++[[chiboust]]
++[[春雪サナトリウム]]
++[[プラネッター ～planeter～>プラネッター~planeter~]]
++[[捨て猫マーチ]]
++[[春色ドリップ]]
++[[上京メトロ]]
++[[生粋Baby]]
+
+**リンク
+-[[特設ページ>>http://astronaut39.web.fc2.com/evapo.htm]]
+-[[作者ブログ>>http://ameblo.jp/lunagyokuto/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0020/03/13/040020031363.html]]
+-[[KARENT：「Evaporated milk」>>http://karent.jp/album/1265]]
+
+**コメント
+- 春色ドリップは隠れた名曲(｀・ω・´)  -- みやび  (2012-05-11 22:58:13)
+- シュガーシュガーシュガーすきー&#9825;  -- あぽあぽ  (2012-09-25 22:21:58)
+#comment()

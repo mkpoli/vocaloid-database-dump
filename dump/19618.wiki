@@ -1,0 +1,34 @@
+#right(){&furigana(あっふるP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/21036531" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/21036531">【ニコニコ動画】VOCALOIDオリジナル曲（アップルP）</a></iframe>)
+
+**特徴
+作り手名：『&u(){アップルP}』（&u(){あっぷるぱい}）
+-2010年12月『[[願い>願い/アップルP]]』でデビュー。以後、ロック楽曲をメインに発表している。
+-アップルPの「P」はパイと読む。しかし、アップルパイはあまり好きじゃないらしい。
+-使用ボーカロイドは 初音ミク、鏡音リン、巡音ルカ。
+
+**リンク
+-[[あまり好きじゃないアップルパイ（作者ブログ）>>http://applep0913.blog.fc2.com/]]
+-[[ニコニコ>>https://www.nicovideo.jp/user/13287318]]
+-[[Twitter>>https://twitter.com/appoid/]]
+
+**曲
+#list_by_tag(アップルP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(アップルPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm12920672)|&nicovideo(1294238438)|
+|&nicovideo(sm14168610)|&nicovideo(sm14374314)|
+|&nicovideo(sm15311395)|&nicovideo(sm16256877)|
+|&nicovideo(sm16913902)|&nicovideo(sm17582959)|
+|&nicovideo(sm18669073)|>|
+
+**コメント
+- 作成乙！！  -- 名無しさん  (2011-12-17 14:28:22)
+#comment()

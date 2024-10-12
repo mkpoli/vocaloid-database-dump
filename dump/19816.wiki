@@ -1,0 +1,45 @@
+#right(){&furigana(わんぺろ！) &furigana()【登録タグ:&tags()】}
+&ref(http://karent.jp/npdca/993_20120123210808_0280_0280.jpg)
+
+|&nicovideo(http://www.nicovideo.jp/watch/sm16602322)|&YouTube(https://www.youtube.com/watch?v=z8vLuN-wReM){336,189}|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[8HIT>8HIT/CD]]|CENTER:&bold(){わん☆ぺろ！}|CENTER:[[KING&KNIGHT-ワン☆オポ！BEST vol.01-]]|
+
+|流通|CENTER:即売|CENTER:配信|CENTER:委託|
+|発売|CENTER:2012年1月8日|CENTER:2012年2月1日|CENTER:2012年2月6日|
+|価格|CENTER:￥700|CENTER:￥1,200 / 1曲￥150|CENTER:￥1,050（税込）|
+|サークル|>|>|CENTER:Wonderful★opportunity!|
+
+|&bold(){[[じーざすP]]}|&bold(){[[マイナスP]]}|
+
+**CD紹介
+-マイナスP、じーざすPによる同人サークル「Wonderful★Opportunity!（ワンダフル☆オポチュニティ！）」の6thCDアルバム。
+-ジャケットイラストは[[グライダー絵師>グライダー]]。
+-2011年1月8日、COMIC CITY 大阪87内で開催する鏡音リン・鏡音レンプチオンリー「かがぺろ！」にて頒布される。
+-KARENTレーベルよりダウンロード販売が、とらのあな、メロンブックス、ニコニコ本社で委託販売が行われる。
+
+**曲目
++[[BUNKA開放区]] / じーざすP feat. 鏡音リン&レン
++A/D/S/L / じーざすP feat. 鏡音リン&レン
++DISCO MONSTER / じーざすP feat. 鏡音リン&レン
++Deepening colors / マイナスP feat. 鏡音リン
++[[支配分子スケルツォ]] / マイナスP feat. 鏡音レン
++BUNKA開放区 （off vocal）
++A/D/S/L （off vocal）
++DISCO MONSTER （off vocal）
++Deepening colors （off vocal）
++支配分子スケルツォ （off vocal）
+
+**リンク
+-[[official website>>http://www.wan-opo.com/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/02/40/040030024014.html]]
+-[[メロンブックス>>http://shop.melonbooks.co.jp/shop/list/?DA=chgitemtype&G=&F=213001010696]]
+-[[KARENT：「わん☆ぺろ！」>>http://karent.jp/album/993]]
+
+**コメント
+- ワンオポとグライダーさんのコラボ！  -- 名無しさん  (2011-12-27 03:41:50)
+- グライダーさんのジャケだったら・・・ごくっ  -- 名無しさん  (2011-12-27 15:04:40)
+- ぐ・・・グライダー絵師だと・・・  -- 名無しさん  (2011-12-27 20:55:16)
+- 買った！  -- 名無しさん  (2012-01-09 09:59:20)
+#comment()

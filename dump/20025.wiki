@@ -1,0 +1,27 @@
+#right(){&furigana(よんぶんのさん)&furigana()【登録タグ:&tags()】}
+&nicovideo(http://www.nicovideo.jp/watch/sm16636165)
+作詞：[[浄瑠璃]]
+作曲：[[tatmos]]
+編曲：[[tatmos]]
+唄：GUMI
+
+**曲紹介
+-GUMI_Whisperを使用。
+
+**歌詞
+（[[PIAPRO>>http://piapro.jp/t/8vQY]]より転載）
+
+越しの夜空
+独り夢心地
+閃光の星　私見つめ　微笑み往く　静かに
+ 
+満天の夜空
+独り夢うつつ
+一輪の花　私のよこ　何かを待つ　孤独に
+ 
+グラスの中の月が笑う
+明日があるよ　明日があるよ
+
+
+**コメント
+#comment()

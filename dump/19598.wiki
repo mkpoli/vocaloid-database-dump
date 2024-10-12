@@ -1,0 +1,26 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/13215428" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/13215428">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-2009年6月『[[Veilside]]』でデビュー。VOCAROCKを中心に製作しているプロデューサーである。
+-使用ボーカロイドは今のところ、ミク・GUMI・がくぽ。
+-『[[赤ずきん]]』にて、自身初の殿堂入りを達成。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/kyoki62]]
+-[[Twitter>>http://twitter.com/kyoki_]]
+
+**曲
+#list_by_tag(kyoki,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(kyokiCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm7487160)|&nicovideo(sm9769721)|
+|&nicovideo(sm12906470)|&nicovideo(sm14469344)|
+|&nicovideo(sm15963018)|&nicovideo(sm18463637)|
+|&nicovideo(sm19474331)|&nicovideo(sm20016059)|
+
+**コメント
+#comment()

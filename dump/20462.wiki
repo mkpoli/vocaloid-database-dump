@@ -1,0 +1,41 @@
+#right(){&furigana(はいいろのほうせき) &furigana()【登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186120159.jpg,x=300,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm15454820)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[自転車とスケッチブック>自転車とスケッチブック/CD]]|CENTER:&bold(){灰色の宝石}|CENTER:[[Cookie>Cookie/CD]]|
+
+|&bold(){[[BIRUGE>コモレビノーツ]]}|
+
+発売：2011年9月4日
+価格：￥600、￥1,000（漫画とのセット価格）
+流通：即売
+サークル：Cookie
+ジャケットイラスト：BIRUGE
+
+**CD紹介
+>『モノクロに見える世界も、この声で鮮やかなを塗ろう。』
+>
+>「いつもどおり」の幸せを描いた、アコースティックなアルバムです。
+>BIRUGE曲の中でも特にアコースティックな、フォークソングとも言えるような垢抜けない曲達を収録しました。
+>漫画とのコラボ作品です。表題曲は、同名の漫画冊子「灰色の宝石」の作中作です。
+
+-BIRUGE氏の4枚目となるCDアルバム。
+-『漫画×音楽』がテーマとなっており、CDと一緒にBIRUGE氏、ヤ子氏による漫画作品も頒布が行われる。
+-THE VOC@LOiD M@STER 17（ボーマス17）で頒布。
+
+**曲目
++[[灰色の宝石]]
++[[果てなき空の向こうまで]]
++[[夏少女]]
++[[春色レトロ]] -more夢物語 ver.-
++[[Drowned Sunday]] -the holiday's sound-
++灰色の宝石 -Acoustic ver.-
+
+**リンク
+-[[Cookie（作者サイト）>>http://cookie.cosa-cosa.com/index.php]]
+
+**コメント
+#comment()

@@ -1,0 +1,65 @@
+#right(){&furigana(816)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/15720221" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/15720221">【ニコニコ動画】</a></iframe>)
+
+**特徴
+作り手名：『&u(){816}』
+-どこか気怠げな曲調や歌詞が多い。
+-&bold(){しゃれた名前P} というP名がある。
+
+**リンク
+-[[PIAPRO>>https://piapro.jp/milesrock816]]
+-[[Twitter>>https://twitter.com/816yairo]]
+
+**曲
+#list_by_tagsearch(８１６,sort=furigana2,errmsg=まだ曲が登録されていません。,and,100)
+
+**CD
+#list_by_tagsearch(816CD,sort=furigana2,errmsg=まだCDが登録されていません。,and,100)
+
+**動画
+|&nicovideo(nm8677195)|&nicovideo(nm8737990)|
+|&nicovideo(nm8804896)|&nicovideo(nm8893581)|
+|&nicovideo(nm9224922)|&nicovideo(nm9234367)|
+|&nicovideo(nm9402896)|&nicovideo(nm9631277)|
+|&nicovideo(nm9887513)|&nicovideo(sm10947948)|
+|&nicovideo(nm11037359)|&nicovideo(sm11264347)|
+|&nicovideo(nm11289786)|&nicovideo(nm11353357)|
+|&nicovideo(nm11676791)|&nicovideo(nm11992134)|
+|&nicovideo(nm12027721)|&nicovideo(nm12071132)|
+|&nicovideo(nm12238267)|&nicovideo(nm12448178)|
+|&nicovideo(nm12935928)|&nicovideo(nm13115177)|
+|&nicovideo(nm13260350)|&nicovideo(nm13516919)|
+|&nicovideo(nm13645136)|&nicovideo(nm13714590)|
+|&nicovideo(nm13763580)|&nicovideo(nm13782829)|
+|&nicovideo(nm14515820)|&nicovideo(nm14603324)|
+|&nicovideo(nm15268623)|&nicovideo(nm15423741)|
+|&nicovideo(nm15530175)|&nicovideo(nm15555820)|
+|&nicovideo(nm15719545)|&nicovideo(nm15920435)|
+|&nicovideo(nm16074957)|&nicovideo(nm16474121)|
+|&nicovideo(nm16632577)|&nicovideo(nm16719109)|
+|&nicovideo(nm16733807)|&nicovideo(nm17054804)|
+|&nicovideo(nm17084787)|&nicovideo(nm17238891)|
+|&nicovideo(sm17392722)|&nicovideo(sm17794444)|
+|&nicovideo(sm17804242)|&nicovideo(sm17877347)|
+|&nicovideo(sm18322551)|&nicovideo(sm18391008)|
+|&nicovideo(sm18459550)|&nicovideo(sm18641429)|
+
+**関連タグ内の更新履歴
+#region(close,関連タグ内の更新履歴)
+関連タグ内の更新履歴
+※「816」「816CD」タグ内で最近編集やコメントのあった記事を新しい方から10件表示しています。
+#list_by_tagsearch(８１６,816CD,sort=timestamp,sort2=desc,errmsg=まだ曲、CDが登録されていません。,or,10)
+#endregion
+
+**コメント
+- 気だるげな感じが好き  -- 名無しさん  (2012-06-27 21:04:25)
+- 何故伸びない・・・全体的に・・・  -- ひゃっひゃ  (2012-08-09 20:00:47)
+- こんなにいい曲ばっかりなのに…！もっと言いひろめて人気にしてやりたい！！けど俺友達そこまでいないしなぁ…  -- しんどー  (2012-09-17 14:35:31)
+- CD出たら言い値で買う  -- 名無しさん  (2012-09-29 12:36:21)
+- いつか絶対人気曲が出そう  -- 名無しさん  (2014-12-02 18:41:34)
+- 定期的に恋しちゃうんだよな...  -- 名無しさん  (2019-12-23 12:44:53)
+#comment()

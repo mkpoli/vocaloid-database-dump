@@ -1,0 +1,31 @@
+#right(){&furigana(しょうねんしょうじょEP)&furigana()【登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186117391.jpg,x=300,y=300)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[エンドレス]]|CENTER:&b(){少年少女EP}|CENTER:-|
+
+|&b(){[[キャプテンミライ]]}|
+
+|流通|CENTER:即売|
+|発売|CENTER:2011年9月4日|
+|価格|CENTER:￥500|
+|サークル|CENTER:バイバイレコード|
+
+**CD紹介
+-&b(){キャプミラP}のマキシシングル。
+-少年と少女によるデュエット4曲を収録。
+-THE VOC@LOiD M@STER 17（ボーマス17）で初頒布。
+
+**曲目
++[[スプートニク少年少女]]
++[[最後のワルツ]]
++垂直に交わる世界　&color(red){New!}
++夜の散歩であいましょう　&color(red){New!}
+
+**リンク
+-[[バイバイレコード公式サイト>>http://www.byebyerecord.com/]]
+-[[どことなくなんとなく（作者ブログ）>>http://byebyerecord.com/captainmirai/]]
+
+**コメント
+#comment()

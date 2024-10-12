@@ -1,0 +1,38 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/807_20110809031846_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[misty]]|CENTER:&bold(){NEXT DOOR / Promised wind}|CENTER:[[call me>call me/CD]]|
+
+|&bold(){[[テラ小室P]]}|[[ポン酢P]]|
+
+発売：2011年8月31日
+価格：￥300 / 1曲￥150
+流通：配信
+レーベル：KarenT
+ジャケットイラスト：[[テラ小室P]]
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/next-door-promised-wind-single/id460028703]]}|
+
+**CD紹介
+-「NEXT DOOR」と「Promised wind」の両A面シングル。
+-「Promised wind」はCelo ProjectのCD『[[Rubato>>http://www.die8.name/celo-project/rubato.html]]』収録曲（唄：転少女）のミクバージョン。
+-KarenTレーベルの初音ミク4周年記念特集で配信された作品の1つ。
+
+**曲目
++[[NEXT DOOR>NEXT DOOR/テラ小室P]] （feat. 初音ミク）
++-lyric & music：テラ小室P
++-Vocalod manipulate：[[Hal>ポン酢P]]
++Promised wind （feat. 初音ミク）
++-lyric & music：テラ小室P
++-laughing voice：転少女
++-guitar：[[G@POPO]]
+
+
+**リンク
+-[[作者ブログ>>http://terakomurop.blog20.fc2.com/]]
+-[[KarenT：「NEXT DOOR / Promised wind」>>http://karent.jp/album/807]]
+-[[KarenT：「初音ミク 4th Anniversary」特集ページ>>http://karent.jp/special/miku11]]
+
+**コメント
+#comment()

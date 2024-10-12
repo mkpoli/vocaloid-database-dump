@@ -1,0 +1,34 @@
+#right(){&furigana(こいのEXPRESS TRAIN)&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/977_20120105022702_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[ネギさま！Bravo☆]]|CENTER:&bold(){恋のEXPRESS TRAIN}|CENTER:-|
+
+|&bold(){[[Runo]]}|
+
+発売：2012年1月19日
+価格：￥300 / 1曲￥150
+流通：配信
+レーベル：KARENT
+ジャケット：だんち
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album//id494821060]]}|
+
+**CD紹介
+-Runo氏の配信EP。
+-前作『[[ネギさま！Bravo☆]]』に引き続き、ご当地アイドルに提供した楽曲のVOCALOIDカバー2曲を収録している。
+--「恋のEXPRESS TRAIN」は新潟出身のダンスポップユニット「Negicco」の、「Lovin' You」は北海道出身のダンス&ボーカルユニット「R☆M」の楽曲。
+-KARENTの「SNOW FESTIVAL」特集で配信された作品の1つ。
+
+**曲目
++恋のEXPRESS TRAIN （feat. 初音ミク）
++Lovin' You （feat. 初音ミク）
+
+**リンク
+-[[作者ブログ>>http://idconnie.blog43.fc2.com/]]
+-[[KARENT：「Winter notes」>>http://karent.jp/album/977]]
+-[[KARENT：「SNOW FESTIVAL」特集ページ>>http://karent.jp/special/snow12]]
+
+**コメント
+- 応援してますよ！  -- 名無しさん  (2013-05-09 23:50:27)
+#comment()

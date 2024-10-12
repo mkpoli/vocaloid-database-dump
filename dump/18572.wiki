@@ -1,0 +1,34 @@
+#right(){&furigana(ちぃ)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+//&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/12484940" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/12484940">【ニコニコ動画】</a></iframe>)
+
+**特徴
+作り手名：『&u(){ちぃ}』
+-音楽活動集団「0108-音屋-」の統括。
+-ニコニコ動画での活動は「歌ってみた」歌い手としてが多いが、ボーカロイド作品にも絵や作詞で参加している。
+
+**リンク
+-[[作者ブログ「no music no life」>>http://chiichoco00.blog6.fc2.com/]]
+//-[[「0108-音屋-」サイト>>http://www.die8.name/0108/]]
+
+**曲
+#list_by_tag(ちぃ,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(ちぃCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm6483623)|&nicovideo(sm7779041)|
+|&nicovideo(sm7944113)|&nicovideo(sm8004918)|
+|&nicovideo(sm9176123)|&nicovideo(sm9284257)|
+|&nicovideo(sm9718269)|&nicovideo(sm10266311)|
+|&nicovideo(sm10517286)|&nicovideo(sm10647491)|
+|&nicovideo(sm10985956)|&nicovideo(sm11244737)|
+|&nicovideo(sm12363183)|&nicovideo(sm12584218)|
+|&nicovideo(sm14287984)|&nicovideo(sm15363311)|
+
+**コメント
+#comment()

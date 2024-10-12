@@ -1,0 +1,41 @@
+#right(){&furigana(ぴろりずむ)&furigana()【登録タグ:&tags() 】}
+
+#amazon(B00CCMEA4Q)
+
+&nicovideo(http://www.nicovideo.jp/watch/nm15206217)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){ピロリズム}|CENTER:-|
+
+|&bold(){[[ピロリロP]]}|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|>|CENTER:2011年8月13日|
+|価格|CENTER:￥1,000|CENTER:￥1,500|
+|サークル|>|CENTER:ピロっ亭|
+
+**CD紹介
+-ピロリロPの1stアルバム。全11+1曲が収録。
+-ジャケットデザインは三月八日、マスタリングは[[Shibayan]]が担当しており、&br()2曲目には[[えっちP]]がギターで参加している。
+-コミックマーケット80（C80）で初頒布。現在、とらのあなで委託中。
+
+**曲目
++[[スランプのうた]] feat. 初音ミク
++[[いいから曲作れ]] feat. 鏡音リン
++[[きみに☆スプラッシュ>きみに☆スプラッシュ/ピロリロP]] feat. 初音ミク
++[[おつきさま]] feat. 初音ミク
++[[きっず・りたーん]] feat. 初音ミク
++[[ピロリ菌のうた]] feat. 初音ミク
++お仕事ください feat. 初音ミク　&color(red){New!!}
++[[La La La ラヴレター]] feat. 鏡音レン
++[[自爆>自爆/ピロリロP]] feat. がくっぽいど
++[[君に伝えるこの言葉]] feat. 初音ミク
++あしたがあるさっ！ feat. 初音ミク　&color(red){New!!}
++[[ピロリン菌のうた>ピロリ菌のうた]] feat. 鏡音リン・レン
+
+**リンク
+-[[作者ブログ>>http://pirorirop.blog116.fc2.com/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0020/02/48/040020024893.html]]
+
+**コメント
+#comment()

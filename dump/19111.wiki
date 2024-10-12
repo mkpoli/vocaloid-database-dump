@@ -1,0 +1,34 @@
+#right(){&furigana(たびのとちゅうe.p.)&furigana()【登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186132516.jpg,x=300,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm16156359)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[● ハローワールド ○>>● ハローワールド ○/CD]]|CENTER:&bold(){旅の途中e.p.}|CENTER:[[世界のはじまりと星のおわり]]|
+
+|&bold(){[[オセロP]]}|[[村人P]]|[[依存]]|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2011年11月19日|CENTER:-|
+|価格|CENTER:￥500|CENTER:-|
+|サークル|CENTER:ラムネ片手にオセロ|>|
+
+**CD紹介
+>&bold(){「ここはまだ旅の途中なんだ」}
+-オセロP の 2nd CD は3曲入り e.p. 。
+-先行リリースした2曲に加えて、 [[村人P]] の「[[夜を超えろ]]」のカバーを収録。
+-ジャケットイラストは [[依存]]氏 が手掛ける。動画： 翠葉氏 。MIX&MASTERING： D-i-duke氏 。
+-CDは紙ジャケット仕様。
+-THE VOC@LOiD M@STER 18（ボーマス18） にてリリース。
+
+**曲目
++[[ハッピーエンドロール]]
++[[夜を超えろ]]（オセロP ver.）
++[[さよなら、バイバイ]]
+
+**リンク
+-[[作者ブログ>>http://knit-othello.jugem.jp/]]
+
+**コメント
+#comment()

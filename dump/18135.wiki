@@ -1,0 +1,41 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/819_20110816200905_0240_0240.jpg)
+
+&nicovideo(sm15158838)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[sweet straightflash]]|CENTER:&bold(){unhopeless utopia}|CENTER:[[パンツ脱げるもん！>パンツ脱げるもん！/CD]]|
+
+|&bold(){[[ちょむP]]}|真雪|野良貴晴|[[orange>orange/作り手]]|たると|
+
+|流通|CENTER:即売|CENTER:同人|CENTER:配信|
+|発売|CENTER:2011年8月13日||CENTER:2011年9月2日|
+|価格|CENTER:|CENTER:￥1,260（税込）&br()￥1,323（税込・とらのあな）|CENTER:￥600 / 1曲￥150|
+|サークル|>|>|CENTER:ちょむ工房|
+
+**CD紹介
+-ちょむPことTakeponG氏の11作目となるボーカロイドCD。
+-『[[Bitter Amp.]]』『[[眩壊グレイアウト]]』に続くロック色を前面に押し出したボカロックアルバムです。 全体的にブリティッシュロック的なマイナー感を狙った部分もあったり。
+-使用VOCALOIDは鏡音リンAppend。3種の歌声を使い分けている。
+-ジャケットイラストは朧月氏。
+-2011年夏コミで頒布された。委託販売はとらのあな、メロンブックス、D-STAGEで行われている。またKarenTレーベルより『&bold(){unhopeless utopia EP}』のタイトルでダウンロード販売も行われている。
+
+**曲目
++ハイウェイ☆スター　（作詞：真雪）
++ギアとギア　（作詞：野良貴良）
++[[雨降りマッチ売り少女]]　（作詞：orange）
++三日月ユートピア　（作詞：野良貴良）
++君の幻　（作詞：たると）
++雨のち晴れ　（作詞：たると）
++～ off vocal tracks
+
+**リンク
+-[[作者サイト>>http://chomstudio.com/]]
+-[[作品ページ>>http://chomstudio.com/products/39_utopia.html]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0020/02/46/040020024695.html]]
+-[[メロンブックス>>http://shop.melonbooks.co.jp/shop/detail/213001009633?LIVRET=off]]
+-[[D-STAGE>>http://d-stage.com/shop/detail.php?seq=22581]]
+-[[KarenT：「unhopeless utopia EP」>>http://karent.jp/album/819]]
+
+**コメント
+#comment()

@@ -1,0 +1,29 @@
+#right(){&furigana(ただいまはきみがすき) &furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/927_20111201142336_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[すべてが終わってしまう前に]]|CENTER:&bold(){ただ、今は君が好き / Request!}|CENTER:-|
+
+|&bold(){[[arata]]}|
+
+発売：2011年12月14日
+価格：￥300 / 1曲￥150
+流通：配信
+レーベル：KarenT
+ジャケットイラスト：MayoRiyo、八色
+
+|&bold(){[[iTunes Storeで購入>>http://itunes.apple.com/jp/album//id488100032]]}|
+
+**CD紹介
+-arata氏の両A面シングルEP。
+-爽やかでアップテンポなラブソングな「ただ、今は君が好き」と、 初音ミクをイメージしたメッセージソングの「Request!」を収録している。
+
+**曲目
++[[ただ、今は君が好き]] （feat. 初音ミク）
++[[Request!>Request！]] （feat. 初音ミク）
+
+**リンク
+-[[KarenT：「ただ、今は君が好き / Request!」>>http://karent.jp/album/927]]
+
+**コメント
+#comment

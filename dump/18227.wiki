@@ -1,0 +1,27 @@
+#right(){&furigana()&furigana()【登録タグ:&tags()】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/22764527/" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/22764527/">YasaiList</a></iframe>)
+
+**特徴
+-&b(){"Toma+o"}と書いて&b(){"とまと"}と読む。
+-使用ボーカロイドは初音ミク(Append)とGUMI。
+-主にロック調の楽曲を作成しているが、作風は様々。また、動画イラストのほとんどを mihuni氏が手掛けている。
+
+**リンク
+-[[作者ホームページ（菜音）>>http://plus-o.main.jp/]]
+-[[サークルホームページ（Trick & Treat 公式ブログ）>>http://blog.tritre.net/]]
+-[[Twitter>>http://twitter.com/plus_o]]
+
+**曲
+#list_by_tag(Toma＋o ,100,sort=furigana,errmsg=まだ曲が登録されていません)
+//+が半角だと「タグキーワード「××」を含むページ一覧」がうまく機能しないので（+が半角空白になります）全角にしています。
+
+**CD
+#list_by_tag(Toma＋o CD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm13110719)|&nicovideo(sm13163839)|
+|&nicovideo(sm13366814)|&nicovideo(sm15425701)|
+|&nicovideo(sm15492477)|&nicovideo(sm16735237)|
+
+**コメント
+#comment()

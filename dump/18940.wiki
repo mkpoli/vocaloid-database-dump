@@ -1,0 +1,42 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+//#image() 
+
+|&nicovideo(http://www.nicovideo.jp/watch/sm16049502)|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[entrance>>entrance/CD]]|CENTER:&b(){escape from t.w.}|CENTER:-|
+
+|&b(){[[糞田舎P]]}|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|CENTER:2011年11月19日|CENTER:未定|
+|価格|CENTER:￥1,000|CENTER:未定|
+|サークル|>|CENTER:ティロ・フィナーレ新百合ヶ丘|
+
+**CD紹介
+-&b(){糞田舎P} の 2nd album 。
+-新曲4曲を含む、全12曲。1st では未収録だった数々の過去曲もリテイクで収録。
+-イラスト・アートディレクションは katano氏 が手掛ける。
+-THE VOC@LOiD M@STER 18（ボーマス18） にてリリース。
+
+**曲目
++Trash World
++[[GREEN SHIP]]
++[[アフターナイト ワンダーランド]]
++[[ピースフルデイズ]]
++[[LOVE PLANET]]
++[[half asleep]]
++[[ケーキコレクション]]
++[[mono scarlet]]
++水域
++[[ニセモノトレジャー]]
++[[アヤメ>アヤメ/糞田舎P]]
++seven up diary
+
+**リンク
+-[[作者ブログ>>http://ameblo.jp/r-nashi/]]
+-[[サークルHP>>http://tirofinale.xxxxxxxx.jp/index.html]]
+
+**コメント
+- 買ったけど本当に感動できる一枚だった  -- 名無しさん  (2011-11-23 23:41:16)
+#comment()

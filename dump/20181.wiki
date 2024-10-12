@@ -1,0 +1,32 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/976_20120104221834_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[ARTEMIS>ARTEMIS/CD]]|CENTER:&bold(){Winter notes}|CENTER:[[月下の廻廊]]|
+
+|&bold(){[[みじぴんP]]}|
+
+発売：2012年1月19日
+価格：￥300 / 1曲￥150
+流通：配信
+レーベル：KARENT
+ジャケット：[[雪原金柑>>http://piapro.jp/tenki29]]
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/winter-notes/id494820277]]}|
+
+**CD紹介
+-みじぴんPの配信EP。
+-みじぴんPの心象風景的な雪景色をテーマにしている2曲が収録されている。
+-KARENTの「SNOW FESTIVAL」特集で配信された作品の1つ。
+
+**曲目
++[[Silent Snow]] （feat. MEIKO）
++[[ホワイトアウト>ホワイトアウト/みじぴんP]] （feat. MEIKO）
+
+**リンク
+-[[作者ブログ>>http://mijipin.blog34.fc2.com/]]
+-[[KARENT：「Winter notes」>>http://karent.jp/album/976]]
+-[[KARENT：「SNOW FESTIVAL」特集ページ>>http://karent.jp/special/snow12]]
+
+**コメント
+#comment()

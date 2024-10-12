@@ -1,0 +1,28 @@
+#right(){&furigana(かりP) &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/4330126" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/4330126">calypso frelimode</a></iframe>)
+
+**特徴
+-音楽サークル「Ergonomics Tempo」所属。
+-コンポーザーを担当。
+
+**リンク
+-[[作者ホームページ（かりらぼ）>>http://calypsofrelimode.blog39.fc2.com/]]
+-[[Myspace (Ergonomics Tempo)>>http://www.myspace.com/alneko]]
+
+**曲
+#list_by_tag(かりP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(かりPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm1752169)|&nicovideo(http://www.nicovideo.jp/watch/sm1923892)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2047973)|&nicovideo(http://www.nicovideo.jp/watch/sm2342775)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2494931)|&nicovideo(http://www.nicovideo.jp/watch/sm3197541)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3665660)|&nicovideo(http://www.nicovideo.jp/watch/sm4658043)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5942031)|&nicovideo(http://www.nicovideo.jp/watch/sm5991279)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6517310)|&nicovideo(http://www.nicovideo.jp/watch/sm7335117)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm9618134)||
+
+**コメント
+#comment()

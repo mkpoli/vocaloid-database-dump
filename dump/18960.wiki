@@ -1,0 +1,32 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/892_20111018165118_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[E.O.S.]]|CENTER:&bold(){Passing Season}|CENTER:[[Turn Back Time>Turn Back Time/CD]]|
+
+|&bold(){[[shu-tP]]}|
+
+発売：2011年11月4日
+価格：￥300 / 1曲￥150
+流通：配信
+レーベル：KarenT
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/passing-season/id476562897]]}|
+
+**CD紹介
+-shu-tPの配信EP。
+-MEIKO生誕祭2011用新曲「Passing Season」を含む全3曲。
+-KarenTレーベルのMEIKO7周年記念企画で配信された作品の1つ。
+
+**曲目
++[[Passing Season]] （feat. MEIKO）
++[[Umi-Kaze]] （feat. MEIKO）
++[[Life of the world]] （feat. MEIKO）
+
+**リンク
+-[[KarenT：「Passing Season」>>http://karent.jp/album/892]]
+-[[KarenT：「MEIKO記念祭'11」特集ページ>>http://karent.jp/special/meiko11]]
+-[[Flow@Time（作者ブログ）>>http://shu-t.sonic-wave.net/]]
+
+**コメント
+#comment()

@@ -1,0 +1,33 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm14689252)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[GUILTY? or NOT GUILTY?]]|CENTER:&bold(){ANNIVERSARY PLACE E.P.}|CENTER:[[CLOSE*2>CLOSE*2/CD]]|
+
+|&bold(){[[かごめP]]}|[[KITさん]]|[[Dong]]|[[市蔵]]|
+
+発売：2011年6月12日
+価格：￥800
+流通：即売
+サークル：PLANARIYA Records
+
+**CD紹介
+>会話もなく、味気もなく、目に見える愛情もなく。
+>それでも、そこに確かに"ふたり"はあって。
+-かごめPの楽曲「[[アニヴァーサリィプレイス]]」のリミックス集。
+-KITさん氏、Dong氏、市蔵氏の3名をゲストに迎えている。
+-THE VOC@LOiD M@STER 16（ボーマス16）で頒布。
+
+**曲目
++[[Original>アニヴァーサリィプレイス]]
++[[STUDIO KIT>KITさん]] Remix
++[[Dong]] Remix
++[[itikura>市蔵]] Remix
++Rev. 1.44
++Instrumental
+
+**リンク
+-[[作者ブログ>>http://planariya.blogspot.com/]]
+
+**コメント
+#comment()

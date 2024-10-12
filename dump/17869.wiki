@@ -1,0 +1,42 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+#image(http://img.toranoana.jp/img/04/0020/02/09/040020020916-1.gif)
+
+|&nicovideo(http://www.nicovideo.jp/watch/sm15396477)|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){TOXICOSIS}|CENTER:-|
+
+|&bold(){[[150P]]}|[[otetsu]]|[[ゆずひこ]]|[[SHO（キセノンP）]]|[[灯下はこ、]]|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2011年8月13日||
+|価格|CENTER:￥1,000|CENTER:￥1,470（税込）|
+|サークル|>|CENTER:Logic Strike|
+
+**CD紹介
+>&bold(){「TOXICOSIS」、それは中毒へと誘う魅惑の音色。。。}
+-「ついついハマっちゃう中毒性」をコンセプトにしたコンピレーションCD。全8曲を収録。
+-ジャケットイラストは k2pudding氏 が手掛ける。
+-コミックマーケット80（C80）で初頒布。THE VOC@LOiD M@STER 17（ボーマス17） でも頒布される。
+-とらのあな、D-STAGEなどで委託販売が行われる。
+
+**曲目
+|>|CENTER:曲名|CENTER:唄|CENTER:作者|
+|01|[[アモーレ]]|巡音ルカ|[[ゆずひこ]]| 
+|02|[[Lost Destination]]|鏡音レン|[[150P]]|
+|03|[[王様の耳はロバの耳]]|鏡音リン|[[キセノンP>SHO（キセノンP）]]|
+|04|[[宙吊りダンシング]]|巡音ルカ|[[otetsu]]|
+|05|37ミリメートル|鏡音リン・鏡音レン|150P|
+|06|恋愛ストラテジー|初音ミク|150P|
+|07|[[Tales of cartoon]]|初音ミク|150P|
+|08|[[銀の少女]]-awaking mix- (Miku Ver.) |初音ミク|150P|
+
+**リンク
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0020/02/09/040020020916.html]]
+-[[D-STAGE>>http://d-stage.com/shop/detail.php?seq=22160]]
+
+**コメント
+- 初出はコミケ(C80) 2011年8月13日です。  -- 通りすがり  (2011-08-28 03:11:25)
+- 直しました～  -- 指摘Thanks！  (2011-08-28 04:29:29)
+- ちょいまてｗｗワンハーフＰ多いよｗｗ  -- 名無しさん  (2013-07-25 10:27:12)
+#comment()

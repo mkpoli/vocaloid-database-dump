@@ -1,0 +1,33 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+
+&nicovideo(http://www.nicovideo.jp/watch/sm16833743)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[WhiteMoon BlackMoon]]|CENTER:&bold(){PureTime}|CENTER:[[Super Gumix Illusion]]|
+
+|&bold(){[[銀河方面P]]}|[[KaoKao]]|
+
+|流通|CENTER:即売|
+|発売|CENTER:2012年2月5日|
+|価格|CENTER:￥500（税込）|
+|サークル|CENTER:すたじお☆ぺぱーみんと|
+
+**CD紹介
+-銀河方面P の 2nd mini album 。
+-自身がプロデュースした「アニ楽コレクション」の曲を新アレンジ＆新録音にしてパッケージ。全5曲を収録。
+-ピアニストの KaoKao氏 がボカロに挑戦した楽曲も収録されている。
+-ジャケットイラストは ゆきめぐ氏 が手掛ける。
+-THE VOC@LOiD M@STER 19（ボーマス19） にてリリース。
+
+**曲目
++[[硝子細工のオルゴール]]
++ミラクル★パワー
++DOLL HEART ～アンドロイド・ラブ～
++[[Snow Line]]
++集められたこころのかけら
+
+**リンク
+-[[銀河方面P@神野貴志（たかぴ）のブログ（作者ブログ）>>http://ameblo.jp/studiopeppermint/]]
+
+**コメント
+#comment

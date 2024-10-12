@@ -1,0 +1,38 @@
+#right(){&furigana(geru)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://ext.nicovideo.jp/thumb_mylist/15188483" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/15188483">【ニコニコ動画】%E4%BD%9C%E6%9B%B2%E7%B7%B4%E7%BF%92%E5%B8%B3</a></iframe>)
+
+**特徴
+作り手名：『&u(){geru}』
+-2009年8月「[[ラムネ]]」でデビュー。
+-鏡音リンを起用した、ギターが印象的なVOCAROCKを主に投稿する。
+
+**リンク
+-[[PIAPRO>>https://piapro.jp/geruman]]
+-[[Twitter>>https://twitter.com/geruman_musics]]
+-[[ニコニコ>>https://www.nicovideo.jp/user/2205462]]
+
+**曲
+#list_by_tag(geru,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(geruCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm7963852)|&nicovideo(sm8193391)|
+|&nicovideo(sm10148215)|&nicovideo(sm10897446)|
+|&nicovideo(sm11801919)|&nicovideo(sm11994359)|
+|&nicovideo(sm13000934)|&nicovideo(sm13155086)|
+|&nicovideo(sm13266031)|&nicovideo(sm14659921)|
+|&nicovideo(sm15104776)|&nicovideo(sm15902511)|
+|&nicovideo(sm19068910)|&nicovideo(sm21723600)|
+
+**コメント
+- ページ来た！　「約束と嘘」と「Epilogue for Prologue」が好きです！  -- 鏡音咲夜★  (2011-10-27 12:43:46)
+- 追加乙！どれも良い曲だけどラムネが特に好きです！  -- 名無しさん  (2011-10-28 20:02:34)
+- エンドロールが終わるまで　が一番好きです  -- 名無しさん  (2011-11-01 19:28:14)
+- geruさんのCD凄く欲しい。  -- 名無しさん  (2014-03-28 23:09:48)
+#comment()

@@ -1,0 +1,32 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/15310904" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/15310904">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-三重県出身
+-好物は鶏のからあげ
+-PSHome×ピアプロ企画投稿曲「Programing wolrd」がボカロ処女作
+
+**リンク
+-[[emroots（本人サイト）>>http://www.emroots.com/]]
+-[[PIAPRO>>http://piapro.jp/emroots]]
+-[[twitter>>http://twitter.com/#!/tio_emroots]]
+
+
+**曲
+#list_by_tag(tio,100,sort=furigana,)
+
+**CD
+#list_by_tag(tioCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/nm7669515)|&nicovideo(http://www.nicovideo.jp/watch/sm8537949)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm8554451)|&nicovideo(http://www.nicovideo.jp/watch/sm10651095)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm15353235)|&nicovideo(http://www.nicovideo.jp/watch/nm15378514)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm15461753)|&nicovideo(http://www.nicovideo.jp/watch/nm15506859)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm15554335)|&nicovideo(http://www.nicovideo.jp/watch/nm15954208)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm16210030)|
+
+**コメント
+- 特徴ｗｗｗ  -- 名無しさん  (2011-09-03 22:33:52)
+- この人の曲は歌いたくなるのが多いから頑張って欲しい  -- 名無しさん  (2011-09-04 22:42:30)
+#comment()

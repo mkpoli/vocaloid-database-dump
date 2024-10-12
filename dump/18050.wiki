@@ -1,0 +1,31 @@
+#right(){&furigana(みえないくろにおちてゆけ)&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/790_20110801012228_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){見えない黒に堕ちてゆけ}|CENTER:[[堕ちた私の手を引いて]]|
+
+|&bold(){[[kaoling]]}|
+
+発売：2011年8月31日
+価格：￥300 / 1曲￥150
+流通：配信
+レーベル：KarenT
+ジャケットイラスト：[[渡 太一>>http://piapro.jp/taichi17]]
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/id460005027]]}|
+
+**CD紹介
+-kaoling氏の配信EP。
+-世の中のどうにもならない悲しみ等を表現した詞を、打楽器中心の攻撃的な民族調曲に乗せています。&br()それぞれミックスを見直し、音質面での向上をはかった物を配信させて頂いています。（KarenT作品概要より）
+-KarenTレーベルの初音ミク4周年記念特集で配信された作品の1つ。
+
+**曲目
++[[神の名前に堕ちる者]] （feat. 初音ミク）
++[[見えない黒に堕ちてゆけ]] （feat. 初音ミク / 空音ラナ）
+
+**リンク
+-[[KarenT：「見えない黒に堕ちてゆけ」>>http://karent.jp/album/790]]
+-[[KarenT：「初音ミク 4th Anniversary」特集ページ>>http://karent.jp/special/miku11]]
+
+**コメント
+#comment()

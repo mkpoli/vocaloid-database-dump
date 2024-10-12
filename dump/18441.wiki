@@ -1,0 +1,53 @@
+#right(){&furigana(まりえ)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/23296209" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/23296209">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-絵師・動画師。
+-アニメのようなラブリーな絵柄が特徴。動画は一枚絵よりも、よく動く作品が多め。
+-同じく絵師・動画師の [[真理歪]]氏 は姉。双子の姉妹関係。
+-姉妹揃ってとにかく制作ペースが異常なほど早い。それでいて、クオリティは折り紙つき。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/marireroa]]
+-[[twitter>>http://twitter.com/marireroAA]]
+-[[pixiv>>http://www.pixiv.net/member.php?id=334770]]
+
+**曲
+#list_by_tag(真理恵,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(真理恵CD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm13207406)|&nicovideo(sm13252013)|
+|&nicovideo(sm13009323)|&nicovideo(sm13055293)|
+|&nicovideo(sm13556481)|&nicovideo(sm13782945)|
+|&nicovideo(sm14000398)|&nicovideo(sm14098378)|
+|&nicovideo(sm14166661)|&nicovideo(sm14327958)|
+|&nicovideo(sm14378670)|&nicovideo(sm14457540)|
+|&nicovideo(sm14640247)|&nicovideo(sm14647926)|
+|&nicovideo(sm14669127)|&nicovideo(sm14830774)|
+|&nicovideo(sm14834418)|&nicovideo(sm14934564)|
+|&nicovideo(sm14949929)|&nicovideo(sm15052878)|
+|&nicovideo(sm15116606)|&nicovideo(sm15282272)|
+|&nicovideo(sm15313569)|&nicovideo(sm15357070)|
+|&nicovideo(sm15372213)|&nicovideo(sm15572522)|
+|&nicovideo(sm15635914)|&nicovideo(sm15696369)|
+|&nicovideo(sm15699480)||
+
+**コメント
+- 大好きです  -- 名無しさん  (2011-12-18 11:09:47)
+- 神ってる  -- 名無しさん  (2012-06-24 21:52:47)
+- この曲全部スキー★  -- あきちゃん  (2012-07-07 11:11:00)
+- 星屑ノ桃源郷のＰＶが神すぎる！！  -- 終焉Ｐ  (2013-02-03 00:13:33)
+- いぇーい  -- 不明  (2013-02-03 11:34:10)
+- 東京レトロめちゃくちゃかわいくて何度も見てますっ!!!  -- 名無しさん  (2013-07-13 00:27:01)
+- たしかにアニメ絵だけど、PVのクオリティの高さはもっと評価されるべき。…私はアニメ絵であることも含めて真理恵さんが大好きですけどねo(`･ω･´ )o  -- ☻  (2013-10-05 21:28:19)
+- 大好きです  -- 名無しさん  (2013-11-27 20:54:11)
+- 絵柄がめちゃくちゃ好きです！  -- 名無しさん  (2013-11-27 20:55:32)
+- すごいかわいいー  -- 名無しさん  (2013-11-27 20:58:23)
+- 星屑ノ桃源郷のPVが大好き！１  -- 名無しさん  (2013-11-27 21:12:36)
+- 真理恵さんも真理歪さんも絵が似てる。そんな二人の絵が好き  -- 名無しさん  (2013-11-27 22:21:43)
+- ひとりんぼエンヴィーの解釈も良かった  -- 名無しさん  (2014-01-21 15:58:20)
+- 大好き！  -- ユイリィ  (2015-03-17 19:18:03)
+#comment()

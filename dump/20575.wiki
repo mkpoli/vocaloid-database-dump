@@ -1,0 +1,44 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://img.toranoana.jp/img/04/0030/01/95/040030019518-1.gif)
+
+&nicovideo(sm16120590)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Darling☆}|CENTER:-|
+
+|&bold(){[[Fate>Fate/作り手]]}|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2011年11月19日||
+|価格|CENTER:￥500|CENTER:￥750（税込）|
+|サークル|>|CENTER:UNcLocK!!|
+
+**CD紹介
+-Fate@姉御Pの1stミニアルバム。
+-「[[Darling☆]]」シリーズの3曲に加え、新曲「[[- LOVE DREAMER -]]」を収録。
+-「[[Darling☆]]」のレンとリントはAppendに進化している。
+-ジャケットイラスト・新曲のイメージイラスト・特典のポスターは[[an]]氏が描き下ろしている。
+-THE VOC@LOiD M@STER 18（ボーマス18）で初頒布。
+-とらのあなで委託販売が行われていた。現在は完売。
+-2012年1月の「かがぺろ！」では、新曲「- LOVE DREAMER -」をピックアップした小説が頒布された。
+-完売後の2012年12月7日に「- LOVE DREAMER -」がニコニコ動画上でも公開となった。
+
+**曲目
++[[Darling☆]]
++[[キミガスキ]]
++[[約束の花]]
++[[- LOVE DREAMER -]]
++Darling☆ (instrumental)
++キミガスキ
++約束の花
++&nowiki(){-} LOVE DREAMER -
+
+**リンク
+-[[作者サイト>>http://unclock.web.fc2.com/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/01/95/040030019518.html]]
+
+**コメント
+- カワイイ　良かったー  -- 名無しさん  (2014-09-13 20:03:09)
+- このシリーズ曲大好きで,やっぱり『鏡音一家』は4人で歌うと破壊力に胸キュンしちゃったよ♪ レンリトが最強にカッコいいしリンレカ最強に可愛い4人のＷカップル大好きです♪  -- リンレン&リトレカ大好き  (2015-02-02 19:02:39)
+- 小説化を願うぐらいに、最高な4曲です！  -- 鏡音一家  (2018-05-16 18:10:49)
+#comment()

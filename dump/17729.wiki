@@ -1,0 +1,41 @@
+#right(){&furigana(ひとひとP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/24757101" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/24757101">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-「[[盲目少女暗闇生存中]]」でボカロデビューした作り手。本作にて初の殿堂入りも果たした。
+-P名は「盲目少女暗闇生存中」の「灯と 日と 火と 人 何もわからずに 非と 否と 人で埋め尽くされていく」という歌詞から名付けられた。
+-使用ボカロは初音ミクがメイン。
+-これまでにリリースした楽曲には必ず「何か」を失っている少女が登場する。タイトルにも「少女」が全て付いており世界観が共有されている。
+-他にもMIX師・エンコード師・「歌ってみた」での歌い手等、幅広い範囲で活動中。
+-アーティスト名は &bold(){aki} 。
+
+**リンク
+-[[秒音シンセサイザ（作者ホームページ）>>http://aki1385.web.wox.cc/]]
+-[[PIAPRO>>http://piapro.jp/isseioota0317]]
+-[[Twitter>>http://twitter.com/aki1385]]
+
+**曲
+#list_by_tag(ひとひとP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(ひとひとPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm14050176)|&nicovideo(http://www.nicovideo.jp/watch/sm14669977)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm15592847)|&nicovideo(http://www.nicovideo.jp/watch/sm15797028)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm16795992)|&nicovideo(http://www.nicovideo.jp/watch/sm17528784)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm18673566)|&nicovideo(http://www.nicovideo.jp/watch/sm19442950)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm19898946)|&nicovideo(http://www.nicovideo.jp/watch/sm22815054)|
+
+**コメント
+- ひとひとPは知る人ぞ知るみたいな方になって欲しい  -- くら  (2011-10-09 13:57:31)
+- ひとひとＰの曲は、中毒性が高いと思う。  -- 香月  (2011-10-21 17:51:47)
+- 独特の世界観と中毒性の高い曲調が大好き。切なくなるようなミクの調声が良い。  -- ハルセ  (2011-12-23 07:01:04)
+- この人の曲を聴いていると、半音階が多いのかな、って感じがする。確かめてないから違うかもしれないけど……。耳に残るメロディが心地よくて好き  -- 名無しさん  (2012-02-23 08:45:38)
+- ひとひとPさんの曲って、タイトルもですが、全部ある少女の物語になってるんですよねぇ…。それと、私もこの独特の世界観とで、一気に引き込まれます。聴いた瞬間ハマりましたｗｗ  -- 沙姫  (2012-04-01 08:59:51)
+- 聴いた瞬間に引き込まれました。不思議な雰囲気で大好きです。ついつい夢中になってしまいますw  -- さぅま  (2012-09-21 20:27:57)
+- 聞いた瞬間に引き込まれました。独特の世界観が好きです  -- さぇま  (2012-11-28 06:18:53)
+- ひとひとPさんの曲全部好き  -- 匿名希望  (2013-08-17 14:52:11)
+- 好きです。  -- 名無しさん  (2013-11-24 01:59:49)
+- そっと評価されてほしい。人気になってほしいけど、あまり皆に見てほしくないというか…自分の心は矛盾しかない。  -- 名無しさん  (2014-04-27 13:40:01)
+#comment()

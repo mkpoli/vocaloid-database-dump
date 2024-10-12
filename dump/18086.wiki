@@ -1,0 +1,38 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/798_20110807235806_0240_0240.jpg)
+
+&youtube(http://www.youtube.com/watch?v=Fjpl6bOxiU8)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Pray for you feat. 初音ミク>Pray for you]]|CENTER:&bold(){GROW feat. 初音ミク}|CENTER:[[Sunspot Cycle feat. 鏡音リン & 鏡音レン]]|
+
+|&bold(){[[そそそP]]}|
+
+発売：2011年8月31日
+価格：￥600 / 1曲￥150
+流通：配信
+レーベル：KarenT
+ジャケットイラスト：[[ウミネコ>>http://piapro.jp/susineko18]]
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/id460014843]]}|
+
+**CD紹介
+-初音ミクをフィーチャーしたアルバム第3弾。
+-そそそらしいサウンド「No Change」や「翼シリーズ」最終章「君がくれた翼」などの書き下ろし楽曲をはじめ、バラエティに富んだ内容の6曲を収録をしている。
+-KarenTレーベルの初音ミク4周年記念特集で配信された作品の1つ。
+
+**曲目
++Grow Up My Sense （feat. 初音ミク）
++No Change （feat. 初音ミク）
++[[黒のツバサ]]（Grow Mix） （feat. 初音ミク）
++[[Pray for you]] （feat. 初音ミク）
++君がくれた翼 （feat. 初音ミク）
++[[SUNRISE -My love is for you->SUNRISE-My love is for you-]] （feat. 初音ミク）
+
+**リンク
+-[[作者サイト>>http://www.s-tribe.net/]]
+-[[KarenT：「GROW feat. 初音ミク」>>http://karent.jp/album/798]]
+-[[KarenT：「初音ミク 4th Anniversary」特集ページ>>http://karent.jp/special/miku11]]
+
+**コメント
+#comment()

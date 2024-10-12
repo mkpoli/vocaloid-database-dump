@@ -1,0 +1,32 @@
+#right(){&furigana(おせろP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/22334339" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/22334339">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-2010/11/25、「[[● ハローワールド ○]]」でデビュー。
+-P名の由来は、デビュー作の「[[● ハローワールド ○]]」の両側についている「●」と「○」がオセロに見えることから。
+-使用ボカロは今のところ、ミク のみ。
+-作る音楽は、疾走感のある曲調よりも、優しくて温もりを感じるゆったりとした曲調が多め。
+-アーティスト名は &bold(){ニット} 。ニット名義で歌い手としても活動している。
+
+**リンク
+-[[オセロPのまるでだめな日常（作者ブログ）>>http://knit-othello.jugem.jp/]]
+-[[PIAPRO>>http://piapro.jp/othello_p]]
+-[[Twitter>>http://twitter.com/knit_othello]]
+-[[オセロPのオセロPによるオセロPのためのブログ（ブロマガ）>>http://ch.nicovideo.jp/othello-miku]]
+
+**曲
+#list_by_tag(オセロP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(オセロPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm12855250)|&nicovideo(sm13817276)|
+|&nicovideo(sm14021639)|&nicovideo(sm14621201)|
+|&nicovideo(sm15469671)|&nicovideo(sm16085344)|
+|&nicovideo(sm16858812)|&nicovideo(sm19076795)|
+|&nicovideo(sm19875826)|&nicovideo(sm20494920)|
+|&nicovideo(sm21794526)|&nicovideo(sm22247400)|
+
+**コメント
+#comment()

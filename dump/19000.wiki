@@ -1,0 +1,32 @@
+#right(){&furigana(ふぁみまP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/12278902" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/12278902">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-VOCALOIDだけでなく、UTAUでも活動しているP。
+-ニコニコ動画外ではブラスバンドでバスクラリネットを演奏したり。
+-P名の由来は『[[ファミられた（略称）]]』を歌ってみたことから。
+-ハンドルネームは&b(){Ruco / 時雨屋るこ}。
+-[[花鳴屋こまち]]の中の人。
+
+**リンク
+-[[rucoplus（作者ブログ）>>http://rucoplus.blog99.fc2.com/]]
+-[[PIAPRO>>https://piapro.jp/rucoplus82]]
+
+**曲
+#list_by_tag(ファミマP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(ファミマPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm6901182)|&nicovideo(sm10561593)|
+|&nicovideo(sm10601377)|&nicovideo(sm11808289)|
+|&nicovideo(sm13046924)|&nicovideo(sm14303059)|
+|&nicovideo(sm14509602)|&nicovideo(sm15859572)|
+|&nicovideo(sm16844717)|&nicovideo(sm20375982)|
+
+**コメント
+- 作成乙です！応援してますよ！  -- はにわ  (2012-07-07 10:20:30)
+- ミクかわいいですよね。大好きです★  -- 名無しさん  (2014-11-09 21:50:04)
+- ボーカロイド愛します。  -- 名無しさん  (2014-11-09 21:51:30)
+#comment()

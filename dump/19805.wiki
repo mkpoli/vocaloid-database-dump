@@ -1,0 +1,13 @@
+#right(){【登録タグ:&tags()】}
+//↑タグ忘れ防止のための表示
+曖昧さ回避のためのページ
+----
+-[[KAZU-k]]の曲
+--[[Song for You/KAZU-k]]
+-[[こゆP]]の曲
+--[[Song FOR You/こゆP]]
+
+-[[As'257G]]のCD
+--[[Song for you/CD]]
+
+#include(曖昧さ回避の追加の仕方/告知)

@@ -1,0 +1,32 @@
+#right(){&furigana(ふかくていせいしんぱしー)&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/821_20110818023125_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[シンカーソングライター]]|CENTER:&bold(){不確定性シンパシー}|CENTER:[[h.u.m.a.n.i.t.y.]]|
+
+|&bold(){[[AETA(イータ)]]}|
+
+発売：2011年8月31日
+価格：￥300 / 1曲￥150
+流通：配信
+レーベル：KarenT
+ジャケットイラスト：fj
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/id460046311]]}|
+
+**CD紹介
+-AETA(イータ)氏の配信EP。
+-KarenTレーベルの初音ミク4周年記念特集で配信された作品の1つ。
+-ジャケットイラストはfj氏が担当。（[[不確定性シンパシー]]のPVも手がけている）
+
+**曲目
++[[不確定性シンパシー]] （feat. 初音ミク）
++[[路傍ノウタ]] （feat. 初音ミク&鏡音リン&鏡音レン）
+
+**リンク
+-[[作者ブログ>>http://aeta.jugem.jp/]]
+-[[KarenT：「不確定性シンパシー」>>http://karent.jp/album/821]]
+-[[KarenT：「初音ミク 4th Anniversary」特集ページ>>http://karent.jp/special/miku11]]
+
+**コメント
+#comment()

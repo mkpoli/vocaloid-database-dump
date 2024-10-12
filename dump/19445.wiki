@@ -1,0 +1,45 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#image(http://img.toranoana.jp/popup_img/04/0030/00/74/040030007453-1p.jpg,height=200,width=200)
+&nicovideo(http://www.nicovideo.jp/watch/sm16187075)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[惑星]]|CENTER:&bold(){fines EP}|CENTER:[[hymenoptera]]|
+
+|&bold(){[[whoo]]}|
+
+||CENTER:即売|CENTER:委託|CENTER:配信|
+|発売|CENTER:2011年11月19日|CENTER:2011年11月19日|CENTER:2012年4月20日|
+|価格|CENTER:￥1,000|CENTER:￥1,425(税込)|CENTER:￥900 / 1曲￥150|
+|サークル|>|CENTER:s10rw||
+
+>音楽：&b(){[[whoo]]}
+>ジャケットデザイン：eau.
+>　＃8　歌・KK
+
+|&bold(){[[とらのあなで購入する>>http://www.toranoana.jp/mailorder/article/04/0030/00/74/040030007453.html]]}|
+
+**CD紹介
+-whoo氏の5th Album。ただし、VOCALOIDを使用した作品としては3作目。
+-ジャケットデザインはeau.氏。
+-8曲目の"The Forgotten Song [acorstic ver.]"は歌い手のKK氏が歌唱を担当している。
+-THE VOC@LOiD M@STER 18（&b(){ボーマス18}） にてリリース。現在、とらのあなでの委託販売が行われている。
+-2012年にはKARENTレーベルよりダウンロード販売が開始。こちらは8曲目が未収録の全7曲となっている。
+
+**曲目
++fines
++[[ice>ice/whoo]]
++カラ、カラ、カラ
++[[虹>虹/whoo]]
++[[gimme]]
++晩夏、曇
++[[Ameto]]
++[[The Forgotten Song]] [acorstic ver.] whoo feat.KK
+
+**リンク
+-[[作者HP>>http://s10rw.net/whoo/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/00/74/040030007453.html]]
+-[[KARENT：「fines EP」>>http://karent.jp/album/1038]]
+
+**コメント
+- 購入できて満足してる。歌詞カード付いてたらもっと嬉しかったかな  -- 名無しさん  (2011-12-17 12:25:07)
+#comment()

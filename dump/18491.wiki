@@ -1,0 +1,36 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Four Seasons>Four Seasons/おかのうえCD]]|CENTER:&bold(){Fallin' Candy Drops～あめがふったらでかけよう～}|CENTER:-|
+
+|&bold(){[[おかのうえ]]}|[[ボッチ]]|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|>|CENTER:2011年8月13日|
+|価格|CENTER:￥1,000|CENTER:￥1,260（税込）|
+|サークル|>|CENTER:おかのうえ|
+
+**CD紹介
+>「夢見る少女の愉快でちょっぴり切ないひと夏の冒険」
+>－歌うことしか知らない少女にひと夏の冒険を－
+-おかのうえの1stアルバム。新曲8曲+リミックス2曲の全10曲。
+-コミックマーケット80にて頒布された。
+-とらのあなで委託販売が行われている。
+
+**曲目
++p.01
++あめがふったらでかけよう
++[[なつやすみ]]
++さよならロケット
++アルバイトのうた～時給850円のワンダーランド～
++明日の音
++[[リコレクション]]
++p.s.
++最後まで想定外 Remixed by [[ボッチ]]（原曲：最初から想定外）
++I'll sing my vision_nanosleep(59)alia Remixed by Go-qualia（原曲：[[I'll sing my vision]]）
+
+**リンク
+-[[作者HP>>http://www.oknuw.net/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0020/02/26/040020022634.html]]
+
+**コメント
+#comment()

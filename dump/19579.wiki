@@ -1,0 +1,46 @@
+#right(){&furigana(はつねみくplaysむーんらいたーす)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+
+#amazon(B005Q27FEQ)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){初音ミク plays 月光下騎士団}|CENTER:-|
+
+|&bold(){plusico}|[[ピノキオピー]]|
+
+>発売：2011年12月14日
+>価格：￥2,500（税込）
+>流通：全国
+>レーベル：KNZ x LR2
+
+**CD紹介
+-ムーンライダーズ公認のカヴァーアルバム。全14曲収録。
+-PIAPROでジャケットイラスト募集企画が行われ、[[優哉氏のイラスト>>http://piapro.jp/static/?view=ssnw01_result]]がジャケットに採用された。
+
+**曲目
++ヴィデオ・ボーイ
++いとこ同士
++Sweet Bitter Candy
++G.o.a.P.(急いでピクニックへ行こう)
++Don't Trust Anyone Over30
++青空のマリー
++A FROZEN GIRL, A BOY IN LOVE
++Frou Frou
++砂丘
++紅いの翼
++トンピクレンッ子
++くれない埠頭
++EIGHT MELODIES（ボーナストラック）
++涙は悲しさだけで、出来てるんじゃない　Performed by ピノキオピー（ボーナストラック）
+
+**リンク
+-[[moonriders.net（ムーンライダーズ公式サイト）>>http://www.moonriders.net/]]
+-[[PIAPROコラボ企画（ジャケットイラスト募集）>>http://piapro.jp/static/?view=ssnw01]]
+-[[Amazon>>http://www.amazon.co.jp/dp/B005Q27FEQ]]
+
+**コメント
+- ついに買ってしまった。ムーンライダーズに入るきっかけになる一枚になればいいなあと  -- 名無し  (2013-12-01 04:17:35)
+#comment()

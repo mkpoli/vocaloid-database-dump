@@ -1,0 +1,31 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/791_20110803110142_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[SCENE OF ATTRACTION]]|CENTER:&bold(){Toy Box!!}|CENTER:[[World of Musical]]|
+
+|&bold(){[[家の排水溝が詰まって溢れて水たまりP]]}|
+
+発売：2011年8月31日
+価格：￥150
+流通：配信
+レーベル：KarenT
+ジャケットイラスト：[[うらら>>http://piapro.jp/sumairuclover]]
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/toy-box!!-single/id460007159]]}|
+
+**CD紹介
+-家の排水溝が詰まって溢れて水たまりP こと himawari氏の配信シングル。
+-2ndアルバム『[[World of Musical]]』から一足早くリリースされた1曲。
+-KarenTレーベルの初音ミク4周年記念特集で配信された作品の1つ。
+
+**曲目
++Toy Box!! （feat. 初音ミク）
+
+**リンク
+-[[作者ブログ>>http://himawari222.blog24.fc2.com/]]
+-[[KarenT：「Toy Box!!」>>http://karent.jp/album/791]]
+-[[KarenT：「初音ミク 4th Anniversary」特集ページ>>http://karent.jp/special/miku11]]
+
+**コメント
+#comment()

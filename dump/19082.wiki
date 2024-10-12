@@ -1,0 +1,44 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+
+&ref(https://s2.booth.pm/6b54044f-8f6a-49b1-8a8c-47ee53c77137/i/1379555/96d60e58-01aa-4e1f-9ab8-0b690f4190dd_base_resized.jpg,x=300,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm16134940)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Alternation No.3]]|CENTER:&bold(){MINDZ}|CENTER:[[ファスト・ジ・エンド]]|
+
+|&bold(){[[ぼーかりおどP]]}|[[キョー介]]|[[shindy]]|
+
+|流通|CENTER:即売|CENTER:同人|CENTER:配信|
+|発売|>|CENTER:2011年11月19日||
+|価格|>|>|CENTER:￥1,000|
+|サークル|>|>|CENTER:Studio Ark Attack|
+
+**CD紹介
+-ぼーかりおどPのセカンドアルバム。
+-なんでＺなのかはそのうちわかります(作者のツイート転載）。
+-10曲目は「[[メテオブリンガー]]」のロングバージョン。
+-THE VOC@LOiD M@STER 18（ボーマス18） にてリリース。
+-現在はBOOTHにてダウンロード販売が行われている。
+--2020年4月3日〜30日までの期間限定で、通常価格の半額である￥500で頒布している。
+
+**曲目
++BIND MIND
++[[attack on XXX]]
++[[黄色いシャツの少年]]
++その先へ
++MIND(instrumental)
++[[my small life]]
++[[RUN>RUN/ぼーかりおどP]]
++嘘がホントになるように
++[[498 -dive into the gravity- >498]]
++[[meteorbringer:Re-entry >メテオブリンガー]]
+
+**リンク
+-[[作者ブログ>>http://vocaliod.blog54.fc2.com/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/00/90/040030009098.html]]
+-[[ニコニコ直販>>http://chokuhan.nicovideo.jp/products/detail/804]]
+-[[BOOTH>>https://vocaliod-p.booth.pm/items/1379555]]
+
+**コメント
+#comment()

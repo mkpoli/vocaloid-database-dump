@@ -1,0 +1,37 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/921_20111126205907_0240_0240.jpg)
+
+&nicovideo(sm17210487)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Color>Color/CD]]|CENTER:&bold(){piano android}|CENTER:-|
+
+|&bold(){[[単色P]]}|
+
+|流通|CENTER:配信|CENTER:即売|
+|発売|CENTER:2011年12月9日|CENTER:2012年3月25日|
+|価格|CENTER:￥300 / 1曲￥150|CENTER:￥300|
+|レーベル|CENTER:KarenT||
+|サークル||CENTER:MoNoCoLo|
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/piano-android/id485256099]]}|
+
+**CD紹介
+-単色P2作目となる配信作品。
+-ピアノ主体のシンプルな曲を集めている。
+-ジャケットイラストはまんださら氏。
+-2012年にはCD化し、VOCALOID PARADISEで頒布。タイトルは『piano android+』となり、曲目も増えている。
+
+**曲目
++[[piano>piano/単色P]] （feat. 初音ミク）
++[[mirai>未来/単色P]] （feat. 初音ミク）
++[[liam>liam/単色P]] （feat. 初音ミク）
++stella　　※CD版のみ
++android　　※CD版のみ
+
+**リンク
+-[[KarenT：「piano android」>>http://karent.jp/album/921]]
+-[[作者サイト>>http://mncl.web.fc2.com/MoNoCoLo/top.html]]
+
+**コメント
+#comment()

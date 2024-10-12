@@ -1,0 +1,70 @@
+#right(){&furigana(たつりょくけいおんかく)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm16270617)|
+作詞：[[五字熟語P]]
+作曲：[[五字熟語P]]
+編曲：[[五字熟語P]]
+唄：[[初音ミクAppend>初音ミク]]
+
+**曲紹介
+曲名：『&u(){脱力系音楽}』(&u(){だつりょくけいおんがく})
+-五字熟語P の41作目。
+-音楽好きかい？うん大好きさ！そんなことを歌にしました (ﾟ ρ ﾟ)（作者コメ転載）
+
+**歌詞
+
+5, 4... new sound yeah!!
+3, 2... old sound yeah!!
+
+recently, good things are not happening.
+listen to music.
+
+let's walk with my ipod.
+let's walk with my favorite artists.
+
+5, 4... new sound yeah!!
+3, 2... old sound yeah!!
+
+a record borrowed from my sister
+was very exciting ever.
+my sister, thank you.
+beginning of my life's music.
+
+my first guitar was cheap junk.
+but somehow it hot.
+i shook when first sounded
+on the guitar amp.
+i was scolded by sister.
+"don't be noisy!"
+no! no! no! yeah.
+
+i love music.
+she is smiling like a flower.
+i play guitar.
+an unskilled play and full hearted play.
+i love music
+as much as her cute smile.
+i play guitar.
+i try to play the tunes for her love.
+
+think simply.
+take it easy.
+with live music.
+
+think simply.
+take it easy.
+with live music.
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+**コメント
+#comment()
+
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)

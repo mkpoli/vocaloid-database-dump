@@ -1,0 +1,49 @@
+#right(){&furigana(すきのひと)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/3250770" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/3250770">【ニコニコ動画】sezu（杉の人）のVOCALOIDとかの動画</a></iframe>)|&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/21138661" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/21138661">【ニコニコ動画】りる動</a></iframe>)|
+
+**特徴
+作り手名：『&u(){杉の人}』（&u(){すぎのひと}）
+-PV師としては&b(){rlldi}、それ以外は&b(){sezu}名義で活動している。替え歌『[[杉は戦争]]』より&b(){杉の人}と名付けられた。
+-自身初の殿堂入り作品『[[悪ノハッピーエンド]]』に代表されるような、ネタ曲を主に製作している。
+-使用ボーカロイドは鏡音リン・レンと歌愛ユキ。調声師として活躍することもあり、これまでに [[フェイP]]や [[かごめP]]などとコラボしている。
+
+**リンク
+-[[Twitter（sezu）>>https://twitter.com/sezu]]
+-[[Twitter（rlldi）>>https://twitter.com/rlldi]]
+-[[ニコニコ>>https://www.nicovideo.jp/user/438072]]
+
+**曲
+#list_by_tag(杉の人,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(杉の人CD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|>|BGCOLOR(yellow):COLOR(black):CENTER:&font(b,11pt){調声・作詞}|
+|&nicovideo(sm1909947)|&nicovideo(sm2990452)|
+|&nicovideo(sm3317366)|&nicovideo(sm6324778)|
+|&nicovideo(sm6460759)|&nicovideo(sm6751029)|
+|&nicovideo(sm9213450)|&nicovideo(nm9440051)|
+|&nicovideo(sm10324396)|&nicovideo(sm11630712)|
+|&nicovideo(sm13148814)|&nicovideo(sm15078196)|
+|&nicovideo(sm15687814)|&nicovideo(sm16539814)|
+|>|BGCOLOR(skyblue):COLOR(white):CENTER:&font(b,11pt){イラスト・動画編集}|
+|&nicovideo(sm5669134)|&nicovideo(sm6928531)|
+|&nicovideo(sm8782935)|&nicovideo(sm9240646)|
+|&nicovideo(sm9704299)|&nicovideo(sm12956107)|
+|&nicovideo(sm14092707)|>|
+
+**コメント
+- この人の調声すごいよね　くしゃみとかどうやってんだろう  -- 名無しさん  (2012-02-12 15:39:02)
+- レン廃には、辛い動画ばかり。  -- 名無しさん  (2013-06-05 21:15:28)
+- この人には二度とレン使って欲しくない。大人しくリン曲だけ作ってればいい  -- 名無しさん  (2014-06-28 20:42:28)
+- タイトルに釣られて聞いたら泣いた。（悪い意味で）ファンを傷つける作り手ってどうなんでしょう？  -- 名無しさん  (2014-06-29 14:36:09)
+- この人レン廃人の気持ちを考えたことがあんのか？  -- 名無しさん  (2014-08-09 05:07:13)
+- こういうPのせいでリンが嫌いになる。他ボカロも好きな人がいるという事も考えて欲しい  -- 名無しさん  (2014-08-22 01:59:40)
+- 調声あんましてないと思う。  -- 名無しさん  (2014-09-25 01:56:37)
+- 大好きだわぁ。  -- うぇぇぇいぃぃ！！  (2016-03-19 20:32:43)
+#comment()

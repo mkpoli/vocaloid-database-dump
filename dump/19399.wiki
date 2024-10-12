@@ -1,0 +1,33 @@
+#right(){&furigana(みくりやわた)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/5819491" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/5819491">【ニコニコ動画】</a></iframe>)
+
+**特徴
+作り手名：『&u(){御厨わた}』（&u(){みくりやわた}）
+-2008年よりニコニコ動画上での活動を開始した絵師・動画師。
+-Photoshop、SAI、AfterEffects を駆使し、ポップで可愛らしいものから美しいゴシック系のものまで幅広いジャンルのイラストを描いている。 
+-[[ぺぺろんP]]とのコラボを主流とする。他、[[TACHE]]氏や [[maya]]氏などと組んだ実績がある。
+
+**リンク
+//-[[わためめた（作者ブログ）>>http://wata2434.pod15.com/]]
+-[[PIAPRO>>https://piapro.jp/wata2434]]
+-[[Pixiv>>https://www.pixiv.net/users/221210]]
+-[[Twitter>>https://twitter.com/wata2434]]
+
+**曲
+#list_by_tag(御厨わた,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(御厨わたCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画（殿堂入り作品のみ提示）
+|&nicovideo(sm6448569)|&nicovideo(sm7755997)|
+|&nicovideo(sm9085950)|&nicovideo(sm10037227)|
+|&nicovideo(sm10981076)|&nicovideo(sm14769855)|
+
+**コメント
+- エンクロージャーの動画素敵です!!  -- 寧音  (2013-03-20 07:15:51)
+#comment()

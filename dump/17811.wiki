@@ -1,0 +1,61 @@
+#right(){&furigana(にししまそーんたいく)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+//&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/24515252" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/24515252">【ニコニコ動画】</a></iframe>)
+&nicovideo_mylist(<iframe width="312" height="176" src="https://ext.nicovideo.jp/thumb_mylist/55387013" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/55387013">【ニコニコ動画】作品一覧</a></iframe>)
+
+**特徴
+作り手名：『&u(){西島ソーンダイク}』（&u(){にしじまそーんだいく}）
+-現在は&bold(){西島尊大}（にしじまそんだい）と名乗っている。
+-初音ミクを使って、色々実験的な曲を投稿している。
+-次の曲が殿堂入りを達成している。&br()&list_by_tagsearch(西島ソーンダイク,殿堂入り,sort=furigana,option=nolist,nolistspace=、,100)
+
+**リンク
+-[[Twitter>>https://twitter.com/thorndique]]
+-&s(){[[作者サイト>>https://www.ravenworks.info/]]}
+-&s(){[[ピアプロ>>https://piapro.jp/aurons]]}
+-[[ニコニコ>>https://www.nicovideo.jp/user/20827059]]
+-[[YouTube>>https://www.youtube.com/channel/UCiDldLYBid4AMmREnL2pdjA]]
+-[[ニコニコ大百科（単語記事）>>https://dic.nicovideo.jp/a/%E8%A5%BF%E5%B3%B6%E5%B0%8A%E5%A4%A7]]
+
+**曲
+#list_by_tag(西島ソーンダイク,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(西島ソーンダイクCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm13913340)|&nicovideo(sm14094254)|
+|&nicovideo(sm14168376)|&nicovideo(sm14208885)|
+|&nicovideo(sm14708620)|&nicovideo(sm14718782)|
+|&nicovideo(sm14851103)|&nicovideo(sm15340414)|
+|&nicovideo(sm15722475)|&nicovideo(sm15800427)|
+|&nicovideo(sm15907166)|&nicovideo(sm16129032)|
+|&nicovideo(sm16338181)|&nicovideo(sm17230059)|
+|&nicovideo(sm18034593)|&nicovideo(sm18643836)|
+|&nicovideo(sm25732145)|&nicovideo(sm25846949)|
+|&nicovideo(sm33295924)|&nicovideo(sm33943588)|
+
+**コメント
+//- うおおおお作成乙！西島さん大好きですちゅっちゅ  -- 名無しさん  (2011-08-21 00:53:33)
+- センスの塊  -- 名無しさん  (2011-08-27 11:21:30)
+- 西島さん・・・まじでプロの方なんじゃないだろうか・・・？あんな曲一般人に作れるんだろうか・・・凄すぎですｗｗｗ  -- 名無しさん  (2011-08-28 19:20:24)
+- 初めてきいたとき感動した！！大好きだｗｗ  -- 名無しさん  (2011-08-30 19:49:11)
+//- 作成乙です  -- 名無しさん  (2011-08-30 23:09:36)
+- 純然完全独奏曲が良かったんだが・・・！  -- 名無しさん  (2011-10-17 23:29:42)
+- 音大生みたいな感じするね。39転調聞いた時の衝撃はすごかったよ  -- 名無しさん  (2012-02-15 22:44:39)
+- 本当に端正な音楽を創る方です。  -- ジャズ  (2012-07-07 19:57:11)
+- ツイッターや生放送聴いてると、音大生ではないようだけれども、ものすごくディープに音楽とかかわれる環境で育ってきたのは間違いなさそう。しばしばプロの作曲家に楽譜を見てもらったとか、楽典を勉強するんだと意気込んでいる発言をしているしね。  -- 名無しさん  (2012-08-05 07:16:28)
+- ツイッタは見ないほうがいいですな  -- ｗ  (2012-08-07 00:15:32)
+- 尊大 の読み方 そんだい で良かったんだだね  -- 名無しさん  (2012-10-07 09:57:33)
+//- 誰か86,401の歌詞置いてくれ！頼む!!  -- 名無しさん  (2012-10-27 16:05:19)
+- 西島さんの楽曲は突飛に溢れたものばかりだけど、どれも名曲ですばらしい！こういう感性をもつ人がこれからの前衛音楽を引っ張ってゆくべきだと思う。  -- hiro  (2013-02-17 01:54:51)
+- うーむ、在り得ない次元で素晴らしい。アルバム発売しないかなぁ・・・。  -- 名無しさん  (2013-03-08 00:25:14)
+- ほんとに尊大さんの曲大好きだ!!!  -- レイ  (2013-06-23 21:37:13)
+- ホントに良作しか作れない人だな 何故に評価されない…真っ黒だからか？  -- 名無しさん  (2014-03-31 22:00:49)
+- この人の楽曲は程よい心地よさを齎してくれる。  -- 名無しさん  (2014-08-07 19:25:45)
+- ここまで音楽で勝負してる人は珍しいなぁ。  -- 名無しさん  (2015-12-29 19:58:44)
+- この人は別格。天才。  -- 名無しさん  (2020-05-22 08:16:25)
+#comment()

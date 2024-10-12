@@ -1,0 +1,34 @@
+#right(){&furigana(SummerVacation)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(nm7974073)|&youtube(https://www.youtube.com/watch?v=LJ2pSxzXVQQ){342,187}|
+作詞：[[MineK]]
+作曲：[[MineK]]
+編曲：[[MineK]]
+イラスト：セツジ
+唄：[[MEIKO]]・[[GUMI>Megpoid]]
+
+**曲紹介
+曲名：『&u(){Summer Vacation}』
+-夏のドライブのお供にというコンセプトで作ったというほぼインスト曲。
+-アルバム『[[Lovely Diva]]』の宣伝付き。
+
+**歌詞
+//（[[引用元のサイト>>引用元のURL]]より転載）
+ギラギラ光る太陽を背に
+焼け付く素肌刺激的だね
+ビーチではしゃぐ眩しいキミは
+天使のようさ
+Just like a Venus!
+
+stormy night
+heavy rain
+thundercloud
+lightning flash
+
+
+**コメント
+- これは確かにドライブのお伴に良さそう。車の中で流したいね。  -- 竜奇  (2012-02-01 07:12:48)
+#comment()

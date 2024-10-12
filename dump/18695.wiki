@@ -1,0 +1,43 @@
+#right(){&furigana(とりごえたくみ)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/12918400" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/12918400">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-PIAPRO・Pixivを拠点に活動している絵師。
+-爽やかでくっきりとした画風。完成度の高い背景にも注目。
+-主に[[164]]氏にイラストを提供しており、彼のCDのジャケットイラストを手掛けたことも何度かある。
+-他に[[ネクストP]]や[[ライブP]]などともコラボしている。
+
+**リンク
+-[[Pixiv>>http://www.pixiv.net/member.php?id=235399]]
+-[[twitter>>http://twitter.com/toritaku]]
+-[[PIAPRO>>http://piapro.jp/chrysopa]]
+
+**曲
+#list_by_tag(鳥越タクミ,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(鳥越タクミCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm5165441)|&nicovideo(sm5449467)|
+|&nicovideo(sm6680116)|&nicovideo(sm7037889)|
+|&nicovideo(sm8307629)|&nicovideo(sm8974129)|
+|&nicovideo(sm9173097)|&nicovideo(sm11079714)|
+|&nicovideo(sm11361768)|&nicovideo(sm12524231)|
+|&nicovideo(sm13096518)|&nicovideo(sm13397912)|
+|&nicovideo(sm13899614)|&nicovideo(sm14583646)|
+|&nicovideo(http://www.nicovideo.jp/watch/1319889620)||
+
+**コメント
+- おおおっ！追加乙！この人の絵好きー。  -- 名無しさん  (2011-10-17 20:59:41)
+- ↑おなじく^^ 絵が素敵  -- 名無しさん  (2011-10-23 21:15:17)
+- ↑私も〜！ 天ノ弱と青の絵が好きです！  -- 名無しさん  (2013-01-18 20:14:03)
+- 俺はリセットだな～(^.^)モノクロなのにすごく綺麗な絵だし…あ、すぃません、何も解りゃしない癖に生意気な12歳ですw  -- 名無しさん  (2013-05-18 16:08:57)
+- 青のイラストが素敵過ぎる。ＭＡＹＵ可愛い！！  -- 名無しさん  (2013-06-21 17:26:40)
+- heavenly blueとリセットのイラストに心臓射抜かれた。　164さんの曲と世界観が合ってていいなあ。  -- elie  (2013-07-12 22:17:18)
+- この人みたいな絵をかけるようになりたい(｀・ω・´) いや烏滸がましいのは分かってんだけども、十年後にはもしかしたらっていうねヽ(´Д`；)ﾉ  -- アキト  (2013-08-13 18:28:58)
+- 天ノ弱の絵 好きや！  -- 名無しさん  (2014-02-19 16:09:43)
+- 天ノ弱は神だな！！  -- 匿名希望者  (2014-05-27 20:28:55)
+- 天ノ弱最高  -- 名無しさん  (2014-05-31 19:49:31)
+- イラスト最高です!(^^)  -- 名無しさん  (2015-06-05 21:30:45)
+#comment()

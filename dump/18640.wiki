@@ -1,0 +1,2 @@
+最近追加または更新された曲から100曲まで表示
+#list_by_tag(曲,100,sort=timestamp)

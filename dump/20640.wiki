@@ -1,0 +1,30 @@
+#right(){&furigana(ふしまつ)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/24769597" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/24769597">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-エレクトロニカを得意とする個性派P。
+-その優しいメロディに乗せて歌われる寓話的な歌詞で一聴してそれと判る世界観を持つ。
+-同様に独特の個性を持つ作り手の楽曲をリリースするGINGAレーベルに名を連ねている。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/fushimatsu]]
+-[[twitter>>http://twitter.com/fushimatsu]]
+-[[不始末（仮）（個人ブログ）>>http://fushimatsu.blog63.fc2.com/]]
+
+**曲
+#list_by_tag(不始末,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(不始末CD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**オリジナル曲
+|&nicovideo(http://www.nicovideo.jp/watch/sm13082388)|&nicovideo(http://www.nicovideo.jp/watch/sm13924860)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm14035810)|&nicovideo(http://www.nicovideo.jp/watch/sm15682177)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm17020992)|
+
+**リミックス作品・他
+|&nicovideo(http://www.nicovideo.jp/watch/sm15303929)|
+
+**コメント
+- もっとたくさんの人に聴いてほしい、とても素敵な曲ばかりです。  -- ひつじ  (2013-03-09 02:34:28)
+#comment()

@@ -1,0 +1,50 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://seven-colors.info/astrometry_bana01.jpg)
+
+#amazon(B005YH8E48)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm16008262)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Stellarium]]|CENTER:&b(){astrometry}|CENTER:-|
+
+|&b(){[[nana]]}|[[いなごろ]]|[[MSR]]|[[ジミーサムP]]|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2011年11月19日|CENTER:未定|
+|価格|CENTER:￥1,000|CENTER:未定|
+|サークル|>|CENTER:astrometry|
+
+**CD紹介
+>&bold(){明かりを消せば、満天の星空。}
+-前作 『[[Stellarium]]』 から約1年、4人のアーティスト達が奏でる星の歌。星空の下で聴きたい、待望のコンピレーションアルバム第2弾！
+-4人が3曲ずつ、全12曲収録。 12P の歌詞カード付＋豪華スリーブケース仕様。
+-ジャケットイラストを [[有坂あこ]]氏 が、デザインを 柊椋氏 が、マスタリングを vario氏 が手掛ける。
+-THE VOC@LOiD M@STER 18（ボーマス18） にてリリース。
+
+**曲目
++[[今夜ふたり、この丘で。]] / nana（Sevencolors）　vocal：初音ミク
++ソノカラ / MSR　vocal：初音ミクAppend（Dark）
++未来への宇宙船 / ジミーサムP　vocal:初音ミク
++暁星の空に / いなごろ　vocal：初音ミクAppend（Dark）
++うずのなか / MSR　vocal：初音ミク
++αCMaB / ジミーサムP　vocal：初音ミク
++Firmament / いなごろ　vocal：初音ミク・初音ミクAppend（Sweet）・miki
++Remember the sky -Radio Edit- / nana（Sevencolors）　vocal：初音ミクAppend（Vivid）
++夕と待つ君 / MSR　vocal：初音ミク
++星と月のダンス / nana（Sevencolors）　vocal：巡音ルカ・鏡音レン
++liberate from U / いなごろ　vocal：初音ミク
++神を愛した少年 / ジミーサムP　vocal：初音ミク 
+
+**リンク
+-[[特設ページ>>http://seven-colors.info/astrometry_hp/index.html]]
+
+**コメント
+- おおお！！何これｗｋｔｋ！！  -- 名無しさん  (2011-10-29 00:10:19)
+- amazonでも、予約してたよー予約完了ｗ  -- 名無しさん  (2011-10-29 04:05:58)
+- これどうなるんだろ・・・一応発売されるのは決まってるみたいだけど・・・  -- 名無しさん  (2011-11-10 00:39:14)
+- 自分のところには届きました。予想以上のクオリティの高さに脱帽しましたわ・・・  -- 名無しさん  (2011-11-24 23:33:13)
+- ジミーループから抜け出せない  -- 名無しさん  (2011-11-30 13:10:08)
+- 未来への宇宙船が大のお気に入りに。こういう明るい曲は珍しいのかな？  -- ダイモン  (2012-01-22 23:10:05)
+- 神を愛した少年が好き。音が気持ち良い  -- 名無しさん  (2013-12-28 17:34:46)
+#comment()

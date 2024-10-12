@@ -1,0 +1,85 @@
+#right(){&furigana(はくぎんのちへい)&furigana()【登録タグ:&tags()】}
+&nicovideo(http://www.nicovideo.jp/watch/sm16654235)
+作詞：[[このり]]
+作曲：[[このり]]
+編曲：[[このり]]
+唄：初音ミク・巡音ルカ
+
+**曲紹介
+>&bold(){雪を見ていると、雪に包まれて眠りに落ちて消えたくなります。･･･よね？}
+-僕が今までに公開したボカロ曲は45曲ほどあるようです。かわいそうな子が多かったので、安らかに眠ってほしいと思い、
+　　そんな気持ちで作りました。（作者コメ転載）
+-絵は ハルセ氏 の描き下ろし。
+
+**歌詞
+☆&color(LightSeaGreen){初音ミク}　☆&color(HotPink){巡音ルカ}
+
+&color(LightSeaGreen){終わりのない白銀の地平に}
+&color(HotPink){最期の日を望んだ命よ}
+
+&color(LightSeaGreen){雪の絹が}
+&color(HotPink){全て忘れさせるでしょう}
+&color(LightSeaGreen){覚めること（の）ない夢で}
+&color(HotPink){逢いましょう}
+
+&italic(){''-独り凍える心を抱きしめて-''}
+Caress your forlorn winterheart.
+
+&color(LightSeaGreen){彷徨い}
+　　　　　&color(HotPink){もう疲れたでしょう？}
+&color(LightSeaGreen){おやすみ}
+
+　　　&italic(){''-暁までにお眠りなさい-''}
+Before the morn, lie beneath the snow.
+
+&color(LightSeaGreen){何度も}
+　　　　　&color(HotPink){愛を求め}
+&color(LightSeaGreen){愛されること知らぬまま}
+　　　　　&color(HotPink){涙を抱いて眠った}
+&color(LightSeaGreen){夜は　もう終わりましょう}
+　　　　　&color(HotPink){もう終わりましょう}
+
+&color(LightSeaGreen){朝の鐘が}
+&color(HotPink){終わりを告げるのでしょう}
+&color(LightSeaGreen){もう聞こえませんか私の}　
+&color(HotPink){声は}
+
+&italic(){''-独り凍える心を抱きしめて-''}
+Caress your forlorn winterheart.
+
+&color(LightSeaGreen){彷徨い}　
+　　　　　&color(HotPink){もう疲れたでしょう？}
+&color(LightSeaGreen){おやすみ}
+
+　　　&italic(){''-暁までにお眠りなさい-''}
+Before the morn, lie beneath the snow.
+
+&color(LightSeaGreen){何度も}
+　　　　　&color(HotPink){傷を抉（えぐ）り}
+&color(LightSeaGreen){自分に刃を立てて}
+　　　　　&color(HotPink){独りで凍え眠った}
+&color(LightSeaGreen){夜は　もう終わりましょう}
+　　　　　&color(HotPink){もう終わりましょう}
+
+&italic(){''-独り凍える心を抱きしめて-''}
+Caress your forlorn winterheart.
+
+&color(LightSeaGreen){傷つき}
+　　　　　&color(HotPink){答えを求めて}
+&color(LightSeaGreen){泣いても}
+
+　　　&italic(){''-暁までにお眠りなさい-''}
+Before the morn, lie beneath the snow.
+
+&color(LightSeaGreen){あなたは}
+　　　　　&color(HotPink){愛することを}
+&color(LightSeaGreen){忘れなかった優しい人}
+　　　　　&color(HotPink){その生を愛してほしい}
+&color(LightSeaGreen){せめて最期の日は}
+　　　　　&color(HotPink){最期の日は}
+
+**コメント
+- いいなあ！  -- 名無しさん  (2012-01-21 13:05:50)
+- このこのりのりのり  -- 名無しさん  (2012-01-24 13:32:19)
+- このりさんだいすき  -- 名無しさん  (2012-06-09 13:28:42)
+#comment()

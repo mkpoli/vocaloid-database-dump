@@ -1,0 +1,55 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#image(http://seven-colors.info/ysa-banner-01.jpg,http://seven-colors.info/YSA/svcl_ex.html,title=Yellow Star Airlines,blank)
+
+&amazon(B005D78M46)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Run Away]]&br()[[Till Tears Overflow EP]]|CENTER:&bold(){Yellow Star Airlines}|CENTER:[[パラダイムシフト>パラダイムシフト/nana]]&br()[[スウィートビター]]&br()[[ラストスロープ]]&br()[[chameleon]]&br()[[レッドパニッシュメント]]&br()[[流星サウンド]]|
+
+|&bold(){[[nana]]}|[[emon（Tes.）]]|[[cittan*]]|[[レンジャクP]]|[[PolyphonicBranch]]|[[八王子P]]|[[すけっちP]]|[[U-ske]]|
+
+||CENTER:即売|CENTER:委託|CENTER:配信|
+|発売|CENTER:2011年8月13日|CENTER:|CENTER:2012年12月5日|
+|価格|CENTER:￥1,500（※1）|CENTER:￥1,500（税込）（※2）|CENTER:￥1,500 / 1曲￥150|
+|サークル|>|CENTER:Sevencolors||
+|備考|※1 CD＋本の価格。|※2 CD単体での価格。||
+
+**CD紹介
+-nana氏のサークル「Sevencolors」の3rdミニアルバム。
+-本作は初の2枚組となっており、Disc2はゲストリミキサーによるリミックスアルバムとなっている。
+-更に、豪華イラストレーターを多数迎えたSevencolorsの新たなマスコットキャラクター「七瀬かのん」とボーカロイド達のヴィジュアルブック付き。
+--ただし委託販売時は、CDと本は別売りとなっている。
+--ゲストイラストレーター（敬称略）：BUZZ、MACCO、ぽんじりつ、草、[[かる]]、はぎこ、一葉モカ、マニャ子、[[ヨリ]]、和音、[[ぶーた]]、ちゃこ太、玖条イチソ、YahaKo、朧月、mille、[[こみね]]、pun2、ぺろり、依存、ミヤ、[[有坂あこ]]
+-コミックマーケット80（C80）で初頒布。各同人ショップにて委託販売が行われている。
+-2012年12月には『Sevencolors 3rd mini album Yellow Star Airlines』のタイトルでKARENTレーベルよりダウンロード販売が開始された。
+
+**クロスフェード
+&nicovideo(sm15273151)
+
+**曲目
+***Original Side
++[[Happy Summer Music]] / 初音ミクVivid, 巡音ルカ, Megpoid
++透明なテレパシー / Megpoid
++Close to you / 初音ミクVivid, 巡音ルカ, Megpoid　　　※『[[Sequence]]』収録曲
++My Doctor / 初音ミク　　　※『[[Innovator-Earth]]』収録曲
++メグリボシ / 巡音ルカ
++Good night Stella / 初音ミク　　　※『[[EXIT TUNES Presents Supernova 5]]』収録曲
++[[chameleon]] / 初音ミクSweet
+
+***Remix Side
++[[One Night Disco]]（emon MIX） / emon
++[[スウィートビター]]（cittan*Euphoric Remix） / cittan*（LC:AZE/Sprite Recordings）
++Till Tears Overflow（void's Alternation） / void
++[[レッドパニッシュメント]]（Heavy Strings Remix） / Polyphonic Branch
++[[パラダイムシフト>パラダイムシフト/nana]]（8#Prince Remix） / 8#Prince（八王子P）
++[[流星サウンド]]（SuketchP KiraKira-Chain rmx） / すけっちP
++[[Re:>Re:/nana]]（RnBallad Remix） / U-ske
+
+**リンク
+-[[作者サイト>>http://seven-colors.info/]]
+-[[特設ページ>>http://seven-colors.info/YSA/svcl_ex.html]]
+-[[KARENT：「Sevencolors 3rd mini album Yellow Star Airlines」>>http://karent.jp/album/1175]]
+
+**コメント
+//- 1げと(￣∀￣)  -- 檸檬  (2011-10-23 18:59:06)
+#comment()

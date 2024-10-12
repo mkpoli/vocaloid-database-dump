@@ -1,0 +1,103 @@
+#right(){&furigana(むいみたわこと)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm15961838)|
+作詞：[[五字熟語P]]
+作曲：[[五字熟語P]]
+編曲：[[五字熟語P]]
+唄：[[初音ミクAppend>初音ミク]]
+
+**曲紹介
+>&bold(){世界に花束を。}
+曲名：『&u(){無意味戯言}』(&u(){むいみたわごと})
+-五字熟語P の39作目。
+-安スタジオで録音したような空気感を出したかったのです。全編通して作業中の物音を録ってあったり、ギターやベースのノイズもカットせずにわざと
+　　残してみたり。なんかこういう音、作っていてすごく楽しかったです。こういう手作り感のある作品、どんどん作っていきたいです。（作者コメ転載）
+
+**歌詞
+
+Gazed over time,
+all alone.
+Cried over a long time,
+maybe a dream.
+Na, Let's talk story.
+It may lie.
+Yeah, thought over time,
+the answer was not.
+
+Yeah.
+
+Would not a really great way?
+I have suffered so.
+La...I want to be free.
+Um...and what with its skillful way.
+Yeah, give me my freedom from melancholy.
+
+I'm afraid of losing you.
+But you would not care about anything.
+
+I'm here.
+You're here.
+The World is calm.
+
+At that time,
+at this time,
+time of the world.
+
+I'm here.
+You're here.
+The World is calm.
+
+At that time,
+at this time,
+time of the world.
+
+I'm here.
+You're here.
+The World is calm.
+
+At that time,
+at this time,
+time of the world.
+
+I'm here.
+You're here.
+The World is calm.
+
+At that time,
+at this time,
+time of the world.
+
+My rise and fall.
+
+I'm here.
+You're here.
+The World is calm.
+
+At that time,
+at this time,
+time of the world.
+
+I'll send flowers for the world.
+（Sing a song, sing a song, together.）
+I'll send all praise for the world.
+（Sing a song, sing a song, fly.）
+
+I'll send flowers for the world.
+（Sing a song, sing a song, together.）
+I'll send all praise for the world.
+（Sing a song, sing a song, fly.）
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+**コメント
+- 追加乙っ  -- 名無しさん  (2011-10-23 21:11:45)
+#comment()
+
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)

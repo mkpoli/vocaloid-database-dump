@@ -1,0 +1,42 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://blog-imgs-32.fc2.com/p/e/p/peperonp/450.jpg)
+
+|&nicovideo(http://www.nicovideo.jp/watch/sm16114398)|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[ReAwake2]]|CENTER:&bold(){Two Dimensional}|CENTER:[[Girls and Games]]|
+
+|&bold(){[[ぺぺろんP]]}|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|CENTER:2011年11月19日|CENTER:-|
+|価格|CENTER:￥1,000（税込）|CENTER:-|
+|サークル|CENTER:陰謀派スライダー|>|
+
+**CD紹介
+-ぺぺろんP の 10th album は「[[clocks>>clocks/CD]]」以来となるフルアルバム。
+-「[[Your Velocity]]」「[[ここに君がいないなら]]」「[[レクイヱム]]」などに新曲を加えた全10曲を収録。
+-今回は、初の試みとなるBGMを収録。テンポの速い曲と遅い曲が交互に来るように編集されている。
+-ジャケットイラストは ぺぺろんP のお手製。
+-THE VOC@LOiD M@STER 18（ボーマス18） にてリリース。
+
+**曲目
++the beginning
++[[Your Velocity]]
++恋をした少女のように
++ディゾナント
++All alone
++[[ここに君がいないなら]]
++なごり橋
++アステロイド
++[[レクイヱム]]
++Two Dimensional
+
+**リンク
+-[[作者ホームページ（M-tone）>>http://www.njpeperon.sakura.ne.jp/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/00/91/040030009161.html]]
+
+**コメント
+- 今すぐ欲しいです！  -- こんにちは  (2012-06-01 20:14:47)
+- 書き下ろし曲が大好きです！特に「恋をした少女のように」「ディゾナント」「All alone」「アステロイド」「なごり橋」など、ってかぺぺろんPの曲はとても歌い方が上手です！！  -- 良太  (2015-01-20 09:02:51)
+#comment()

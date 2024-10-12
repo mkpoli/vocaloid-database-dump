@@ -1,0 +1,51 @@
+#right(){&furigana(とふきょうしつ)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&ref(https://karent.jp/npdca/1051_20120505195623_0280_0280.jpg)
+
+&nicovideo(sm15522315)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[blue>blue/ハヤカワPCD]]|CENTER:&bold(){飛ぶ教室}|CENTER:[[漠たる夢、確たる恋。]]|
+
+|&bold(){[[ハヤカワP]]}|
+
+|流通|CENTER:即売|CENTER:自家通販|CENTER:配信|
+|発売|CENTER:2011年9月11日||CENTER:2012年5月18日|
+|価格|CENTER:￥1,000|CENTER:￥1,350（送料込）|CENTER:￥1,500 / 1曲￥150|
+|サークル|>|>|CENTER:ハヤカワ・ラボ|
+
+**CD紹介
+CD名：『&u(){飛ぶ教室}』（&u(){とぶきょうしつ}）
+-ハヤカワPの2ndアルバム。&b(){少女シリーズ}を中心に全15+1曲を収録。
+-ジャケットイラストは咲里キリコ氏。
+-VOCALOID FESTA 03（ボカフェス3）で初頒布。VOCALOID Fantasia 2（ボカファン2）でも頒布される。
+//-現在、自家通販されている。詳細は[[こちら>>http://hayakawalabo.otaden.jp/e211021.html]]。
+-KARENTレーベルよりダウンロード販売が行われている。シークレットトラックのTr.16が未収録の全15曲。
+
+**曲目
++[[Good morning,Muse]]　/　SF-A2 miki
++完全カンストオーバーキル　/　鏡音リン　&color(red){New!}
++[[霊能少女の繁栄と衰退]]　/　鏡音レン
++[[科学少女への憧憬と現実]]　/　鏡音レン
++[[文学少女と窓際の関係]]　/　鏡音レン
++[[もうひとつの夏へ]]　/　初音ミク
++[[少女カナリアと煉獄]]　/　鏡音レン
++[[少女探偵 奇矯にして酔狂]]　/　鏡音レン
++[[少女ノワールあるいは悪徳の栄え]]　/　鏡音レン
++[[恋の秘法はネクロノミコン]]　/　鏡音リン
++[[Pseudouhigella schlueteri>シュドゥリゲラー・シュルエテリ]]　/　初音ミク
++憂鬱なクロノス　/　初音ミク　&color(red){New!}
++[[Science Fiction Night]]　/　初音ミク、鏡音リン、鏡音レン、SF-A2 miki
++[[the/day/after>the／day／after]]　/　鏡音リン
++[[メメント・モリ>メメント・モリ/ハヤカワP]]　/　鏡音レン　&color(red){New!}
++[[影を踏む]]　/　鏡音レン　(Secret Track)　&color(red){New!}
+
+**リンク
+//-[[ハヤカワ・ラボ（作者のブログ）>>http://hayakawalabo.otaden.jp/]]
+-[[KARENT：「飛ぶ教室」>>https://karent.jp/album/1051]]
+
+**コメント
+#comment()

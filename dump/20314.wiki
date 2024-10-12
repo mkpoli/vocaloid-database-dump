@@ -1,0 +1,31 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/985_20120110084544_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[紅茶と甘さと好きの分量]]|CENTER:[[ordinary day's music>ordinary day's music/CD]]&br()&bold(){Lunalight Serenade}|CENTER:[[優刻の街]]|
+
+|&bold(){[[オレジナルP]]}|[[toya]]|[[桜♪椛]]|
+
+発売：2012年1月30日
+価格：￥300 / 1曲￥150
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：[[AO>>http://piapro.jp/aonoe]]
+
+**CD紹介
+>鋭利な感情でこの瞳の自由を奪って
+-オレジナルPの配信EP。
+-巡音ルカ3周年を記念して『[[ordinary day's music>ordinary day's music/CD]]』と同時にリリースされた。
+-作詞に[[toya]]氏を迎えた表題曲「Lunalight Serenade」と、お菓子コンピレーションCD『[[sugirl*music]]』収録の「BITTERSWEET SOUL」の2曲を収録している。
+
+**曲目
++[[Lunalight Serenade]] （feat. 巡音ルカ）
++[[BITTERSWEET SOUL]] （feat. 巡音ルカ）
+
+**リンク
+-[[KARENT：「Lunalight Serenade」>>http://karent.jp/album/985]]
+-[[KARENT：「巡音ルカ聖誕祭'12」特集ページ>>http://karent.jp/special/luka12]]
+-[[KARENT：アーティスト・インタビュー「オレジナルP」>>http://karent.jp/special/luka12interview_oreginalp]]
+
+**コメント
+#comment()

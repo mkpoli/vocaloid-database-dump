@@ -1,0 +1,35 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/786_20110728161316_0480_0320.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[at dusk]]|CENTER:&bold(){【MMD】glow【PV】}|CENTER:[[in the rain>in the rain/keenoCD]]|
+
+|&bold(){[[keeno]]}|&bold(){ねるどら}|
+
+発売：2011年8月31日
+価格：￥300
+流通：配信
+レーベル：KarenT
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/music-video/id458023708]]}|
+
+**作品紹介
+-keeno氏の楽曲「[[glow>glow/keeno]]」のPV作品。
+-PV制作はねるどら氏。
+-KarenTレーベルよりダウンロード販売が行われている。KarenTレーベルの初音ミク4周年記念特集で配信された作品の1つ。&br()この特集内ではねるどら氏へのインタビューが行われている。
+
+**曲目
+-glow （feat. 初音ミク）
+
+**動画
+|&nicovideo(sm14108892)|&nicovideo(sm14239796)|
+
+**リンク
+-[[KarenT：「【MMD】glow【PV】」>>http://karent.jp/movie/786]]
+-[[KarenT：「INTERVIEW　ねるどら（ネルドラP）」>>http://karent.jp/special/miku11interview]]
+-[[KarenT：「初音ミク 4th Anniversary」特集ページ>>http://karent.jp/special/miku11]]
+-[[ねるどら氏のブログ>>http://blog.livedoor.jp/nerudorasan/]]
+
+**コメント
+- ページ名はKarenT作品ページでの商品名どおり。タグはCDMかCDGにするか少し考えてCDGにしました。  -- 名無しさん  (2011-09-05 04:31:40)
+#comment()

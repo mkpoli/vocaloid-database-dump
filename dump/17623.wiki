@@ -1,0 +1,27 @@
+#right(){&furigana(はちのすP)&furigana()【登録タグ:&tags() 】}
+|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/13207471" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/13207471">【ニコニコ動画】</a></iframe>)|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/7233352" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/7233352">【ニコニコ動画】</a></iframe>)|
+
+**特徴
+-オリジナル曲の他にも小室（TM Network・小室ファミリー等）関連の曲などをカバーしていたり、幅広い範囲で活動を行っている。
+-制作ペースはかなり速い方。
+-クリエイターネームは&bold(){ハニカム}。P名はこの名前の和訳。
+
+**リンク
+-[[ハニ☆ログ（作者ブログ）>>http://smallhoneydoll.blog11.fc2.com/]]
+-[[ピアプロ>>http://piapro.jp/fm_doll]]
+-[[にゃっぽん>>http://v-nyappon.net/?m=pc&a=page_f_home&target_c_member_id=4507]]
+-[[MUSIC TRACK>>http://musictrack.jp/index.php?pid=index]]
+
+**曲
+#list_by_tag(蜂の巣P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(蜂の巣PCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm12722798)|&nicovideo(http://www.nicovideo.jp/watch/sm6424003)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3942075)|&nicovideo(http://www.nicovideo.jp/watch/sm8779428)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm10117104)|&nicovideo(http://www.nicovideo.jp/watch/sm7977350)|
+
+**コメント
+#comment()

@@ -1,0 +1,42 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+#image(http://img.toranoana.jp/img/04/0030/01/47/040030014714-1.gif)
+
+|&nicovideo(http://www.nicovideo.jp/watch/sm16490695)|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){SHUFFLE!!!!!}|CENTER:-|
+
+|&bold(){[[150P]]}|[[otetsu]]|[[iroha>iroha/作り手]]|[[鬱P]]||
+|[[ゆちゃP]]|[[ちょむP]]|[[kaya>kaya/作り手]]|[[shu-tP]]|[[こみね]]|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|>|CENTER:2011年12月31日|
+|価格|CENTER:￥1,000（税込）|CENTER:￥1,470（税込）|
+|サークル|>|CENTER:Logic Strike|
+
+**CD紹介
+>&bold(){「このアルバム・・・異色につき注意！」}
+-今回は、様々なジャンルのPさんが参加、異色のコラボコンピレーションが出来上がりました！様々な曲調の意外な組み合わせ、&br()飽きること無く楽しめますよ～（作者コメ転載）
+-書き下ろしの新作7曲＋「sweet vengeance」の Appendレンver. の全8曲を収録。
+-ジャケットイラストは [[こみね]]氏 が手掛ける。
+-コミックマーケット81（C81）にてリリース。同日、委託も開始。
+
+**曲目
+|>|CENTER:曲名|CENTER:唄|CENTER:作者|
+|01|メス|巡音ルカ|otetsu| 
+|02|[[だって、ひとりでできるもん！]]|鏡音リン|TakeponG（ちょむP）|
+|03|影見|初音ミクAppend|iroha（sasaki）|
+|04|[[ディスイズラブソング>ディス・イズ・ラブソング]]|GUMI|鬱P|
+|05|モテット|初音ミクAppend・鏡音リンAppend|150P|
+|06|[[M>M/Glint Of Sound]]|MEIKO|Glint Of Sound|
+|07|(ex.|初音ミク|ゆちゃP|
+|08|[[sweet vengeance]] -鏡音レンAppend Ver.- |鏡音レンAppend|150P|
+
+**リンク
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/01/47/040030014714.html]]
+-[[D-STAGE>>http://d-stage.com/shop/detail.php?seq=25061]]
+
+**コメント
+- うわ、メンツ豪華すぎｗ  -- 名無しさん  (2012-01-01 23:25:23)
+- これ知らなかった；；  -- 名無しさん  (2013-01-13 00:47:49)
+#comment()

@@ -1,0 +1,29 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/28465926" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/28465926">【ニコニコ動画】</a></iframe>)|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/28912548" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/28912548">【ニコニコ動画】</a></iframe>)|
+
+**特徴
+-ニコニコ動画への初投稿作は「a sweet song」。
+--それ以前から『Eternal Wind』という音楽制作交流サイトで自作曲を発表していた。
+--(※2013年4月末に[[E-Windが閉鎖された>>http://ewind.seesaa.net/article/356251434.html]]ため、ニコニコ動画に未アップの一部の曲は視聴不可)
+
+**リンク
+-[[E-Wind>>http://ewind.homeip.net/profile/2007/yourai.html]](現在閉鎖中)
+-[[PIAPRO>>http://piapro.jp/yourai_sakuyo]]
+-[[Twitter>>https://twitter.com/_ryuichiro_]]
+
+**曲
+#list_by_tag(Ryuuuu,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(RyuuuuCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/nm15812963)|&nicovideo(http://www.nicovideo.jp/watch/nm15815260)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm15829615)|&nicovideo(http://www.nicovideo.jp/watch/nm16012790)|
+
+**コメント
+- いい曲・・・  -- 名無しさん  (2012-01-13 15:25:26)
+- 本当に評価されるべき人が、ようやく姿を現してくれた。Rｙｕｕｕｕさん、ニコニコ動画へ来てくれてありがとう。これからも応援しています。  -- 竜奇  (2012-02-02 22:56:22)
+#comment()
+//&color(red){&b(){現在進行中の諸問題に関しての説明は避けました。知りたい方は自分で調べてください。}}
+//&color(red){&b(){事態に何らかの進展があるまで、コメント欄は閉鎖させてください。}}

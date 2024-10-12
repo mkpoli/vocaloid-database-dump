@@ -1,0 +1,29 @@
+#right(){&furigana(ふきょうわおんP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/27023383" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/27023383">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-アーティスト名は&b(){嘉虎kaco}。
+-2011年8月下旬に『[[パンプキンと31日の魔法]]』でデビューして以来、超ハイスピードでオリジナル曲を上げている。
+-投稿作品には、幻想的なホラー楽曲が多い。
+-使用ボーカロイドはミク、リン・レン、ルカ、がくぽ、GUMI。
+//**リンク
+
+**曲
+#list_by_tag(不狂和音P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(不狂和音PCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm15376205)|&nicovideo(sm15397320)|
+|&nicovideo(sm15410339)|&nicovideo(sm15411646)|
+|&nicovideo(sm15425524)|&nicovideo(sm15441759)|
+|&nicovideo(sm15453514)|&nicovideo(sm15482233)|
+|&nicovideo(sm15547497)|&nicovideo(sm15554125)|
+|&nicovideo(sm15583898)|&nicovideo(sm15667348)|
+|&nicovideo(sm15667364)|&nicovideo(sm15667374)|
+|&nicovideo(sm15789095)|&nicovideo(sm15789130)|
+|&nicovideo(sm15789139)|&nicovideo(sm15897723)|
+
+**コメント
+#comment()

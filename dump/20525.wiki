@@ -1,0 +1,30 @@
+#right(){&furigana(げっこうとう)&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1000_20120127210324_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[LIFE AS MUSIC]]|CENTER:&bold(){月光燈}&br()[[ラプンツェルに迎えは来ない／龍の卵]]|CENTER:[[FANTASY]]|
+
+|&bold(){[[ブンガP]]}|
+
+発売：2012年2月15日
+価格：￥300 / 1曲￥150
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：[[ブンガP]]
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/yue-guang-deng/id501614367]]}|
+
+**CD紹介
+-ブンガPの配信EP。『[[ラプンツェルに迎えは来ない／龍の卵]]』と同時リリース。
+-収録の2曲は共に2011年頒布のアルバム『[[MOONS～真月のウタ]]』からのシングルカットとなる。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++[[月光燈]] （feat. 初音ミク）
++真月のウタ （feat. 初音ミク）
+
+**リンク
+-[[KARENT：「月光燈」>>http://karent.jp/album/1000]]
+
+**コメント
+#comment()

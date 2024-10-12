@@ -1,0 +1,34 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/897_20111103002021_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Aspida]]|CENTER:&bold(){Lune}|CENTER:[[Repose]]|
+
+|&bold(){[[SeikoP]]}|
+
+|流通|CENTER:即売|CENTER:配信|CENTER:委託|
+|発売|CENTER:2011年10月30日|CENTER:2011年11月16日|CENTER:2011年12月|
+|価格|CENTER:￥500|CENTER:￥600 / 1曲￥150|CENTER:￥525（税込）|
+|サークル|>|>|CENTER:Peridot Foresta|
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/lune/id479725406]]}|
+
+**紹介
+-SeikoPの4曲入りCD。
+-10月30日開催のM3-2011秋で初頒布。
+-KarenTレーベルよりダウンロード販売が行われている。
+-その後D-STAGEにて委託販売開始。
+
+**曲目
++Mirror
++[[Purification]]
++[[Lunes]]
++Firefly Evanesces
+
+**リンク
+-[[作者ブログ>>http://sei-peri.seesaa.net/]]
+-[[KarenT：「Lune」>>http://karent.jp/album/897]]
+-[[D-STAGE>>http://d-stage.com/shop/detail.php?seq=24588]]
+
+**コメント
+#comment()

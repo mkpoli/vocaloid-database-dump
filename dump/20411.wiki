@@ -1,0 +1,37 @@
+#right(){&furigana(variousstyles)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm16862084)|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[change of seasons（change of seasons-）>change of seasons/CD]]|CENTER:&bold(){various styles}|CENTER:[[メトロポリス>メトロポリス/CD]]|
+
+|&bold(){[[ミュムP]]}|
+
+|流通|CENTER:即売|
+|発売|CENTER:2012年2月5日|
+|価格|CENTER:￥500（税込）|
+|サークル|CENTER:ガスコンロ|
+
+**CD紹介
+CD名：『&u(){various styles}』
+-約1年3ヶ月ぶりのリリースとなる、ミュムP の mini album 。
+-初のりおんオリジナル曲など、書き下ろしの新曲5曲を収録。
+-ジャケットデザインは [[hocno]]氏（atsuki氏） が手掛ける。
+-THE VOC@LOiD M@STER 19（ボーマス19） にてリリース。
+-通販は無し。
+
+**曲目
++[[花咲く路地で]] feat. 初音ミク
++fruit défendu feat. GUMI
++純情カレンダー feat. 初音ミク
++[[Do you know the pom☆pon ?]] feat. 兎眠りおん
++[[あの夏に、消えたUFO（宇宙船）]] feat. GUMI 
+
+//**リンク
+//-[[作者ホームページ>>http://www.andromedapb.com/]]
+//
+**コメント
+#comment

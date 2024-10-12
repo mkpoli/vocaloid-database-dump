@@ -1,0 +1,47 @@
+#right(){&furigana(しんめんきよP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/26771507" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/26771507">【ニコニコ動画】</a></iframe>)
+
+**特徴
+作り手名：『&u(){人面魚P}』(&u(){じんめんぎょP})
+-デビュー作は『うまいよチリソース』。
+--なお、P名については[[同動画の説明文>>http://www.nicochart.jp/watch/nm15289422]]によると「チリソースP」という案もあったらしい。
+-P名以外に「ほったー」という名義を使用していた。
+-2011年当時は中学生であった。
+-現在は全ての曲を削除している。
+//-現在何をしているかは謎。
+
+**リンク
+-[[ブログ>>http://ameblo.jp/sakana10/]]（閉鎖済）
+-[[ホームページ（堀田事業所としての）>>http://id9.fm-p.jp/313/toudenbakuha/]]
+
+**曲
+#list_by_tag(人面魚P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+//
+
+以下、現在判明している曲名の一覧。
+//記事になる見込みがなさそうなのでTwitterで見つけた曲名をいくつか書きます。問題があるようなら差し戻してください。
+-[[P名すら呼ばれなかった>>https://www.nicovideo.jp/watch/nm16566063]]
+//ソース→https://twitter.com/vo_s_bot/status/152938534150475778
+-[[朝起きたらスーダンにいた>>https://www.nicovideo.jp/watch/nm15316574]]
+//ソース→https://twitter.com/tb2g_vocaloid/status/103063806032359424
+-[[うまいよチリソース>>https://www.nicovideo.jp/watch/nm15289422]]
+//ソース→https://www.nicovideo.jp/watch/sm15297117（6：10～）
+-[[現実逃避>>https://www.nicovideo.jp/watch/nm17018091]]
+//ソース→https://twitter.com/vo_s_bot/status/173924572205289472
+-[[ヒダリヒラメニミギカレイ>>https://www.nicovideo.jp/watch/nm15305550]]
+//ソース→https://twitter.com/tb2g_vocaloid/status/102659873535299585
+-[[約束。>>https://www.nicovideo.jp/watch/nm15690545]]
+//ソース→https://twitter.com/kaznicorepo/status/117194310792904704
+
+**CD
+#list_by_tag(人面魚PCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/nm15289422)|&nicovideo(http://www.nicovideo.jp/watch/nm15290105)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm15305550)|&nicovideo(http://www.nicovideo.jp/watch/nm15316574)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm15690545)|&nicovideo(http://www.nicovideo.jp/watch/nm16566063)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm17018091)|
+
+**コメント
+- とりあえず少し修正しておきました。  -- 名無しさん  (2023-03-15 21:28:07)
+#comment()

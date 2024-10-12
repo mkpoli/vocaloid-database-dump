@@ -1,0 +1,39 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://img.toranoana.jp/img/04/0030/01/82/040030018202-1.gif)
+
+&nicovideo(sm16490000)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[CLOSE*2>CLOSE*2/CD]]|CENTER:&bold(){Tiny PaRadisE}|CENTER:[[TwilightZone:246]]|
+
+|&bold(){[[かごめP]]}|[[ゐつ]]|[[森田せらぎ]]|[[Phasma]]|[[Lemm]]|[[geppei-taro]]|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2011年12月31日|CENTER:|
+|価格|CENTER:￥1,000|CENTER:￥1,502（税込）|
+|サークル|>|CENTER:PLANARIYA Recordings|
+
+**CD紹介
+-AHSの新ボカロ結月ゆかりを大々的にフィーチャーしたアルバム。
+-未発表曲含むゆかり5曲の他、豪華リミキサー陣によるユキ曲のリミックス3曲を収録した全8曲！！
+-ジャケットイラストは独楽子氏。
+-コミックマーケット81（C81） にてリリース。
+-とらのあな、ジョイサウンドで委託販売が行なわれている。
+
+**曲目
++Snow Flake
++Une étrangere (Phasma remix)
++[[Behind My Daisy]] (beatless ver.)
++[[PNDR]] ([[Lemm]] remix)
++[[Anniversary Place>アニヴァーサリィプレイス]]
++[[Geo-Metric>ジヲ・メトリック]]
++[[Disco Chocolatheque>でぃすこ☆しょこらてっく]] (geppei-taro remix)
++[[Tiny Paradise]]
+
+**リンク
+-[[かごめPブログ>>http://planariya.blogspot.com/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/01/82/040030018202.html]]
+
+**コメント
+- 買ったぜ!!  -- 名無しさん  (2013-05-22 01:30:31)
+#comment()

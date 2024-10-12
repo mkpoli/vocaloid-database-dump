@@ -1,0 +1,39 @@
+#right(){&furigana(まこねこ)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/20676608" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/20676608">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-謎の世界観とユルいイラストに定評のあるプロデューサー。
+-使用ボーカロイドは巡音ルカ（体験版）とGUMI。
+-オリジナル曲10作目「[[わたしライス定食たべにきた]]」が自身初の殿堂入り作品となる。
+-「[[アァバンタイトル]]」から6年ぶりとなる2019年に「[[春なので20019]]」を発表。
+-2020年3月31日に &ruby(まこいぬ){&bold(){まこ井又}} に改名後「[[きつよめ]]」を投稿。
+-「[[チョッピリゲンガー]]」や「[[ミモジ]]」などの手作りアナログMVに加え、「[[口T×]]」では画面を傾けて縦画面で見る仕掛けや「[[】MIREN【]]」では自身が作ったゲームを曲に合わせてプレイして完成するMVなど多彩なアプローチをする。
+
+**リンク
+-[[まこ猫の 意味なし帳。（作者ブログ）>>http://makonekoya.blog45.fc2.com/]]
+-[[YouTube>>https://www.youtube.com/channel/UCixhw_3d0fbOK75KMPf4VnA]]
+-[[PIAPRO>>http://piapro.jp/makonekoph90]]
+-[[Twitter>>http://twitter.com/makoinufu]]
+-[[TikTok>>https://www.tiktok.com/@makoinuko]]
+
+**曲
+#list_by_tag(まこ猫,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(まこ猫CD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm11824530)|&nicovideo(sm11834834)|
+|&nicovideo(sm11854494)|&nicovideo(sm11941183)|
+|&nicovideo(sm11975749)|&nicovideo(sm12045257)|
+|&nicovideo(sm12047839)|&nicovideo(sm15504902)|
+|&nicovideo(sm15980251)|&nicovideo(sm16405963)|
+|&nicovideo(sm18591596)|&nicovideo(sm18757911)|
+|&nicovideo(sm18835060)|&nicovideo(sm22056744)|
+|&nicovideo(sm35273210)|&nicovideo(sm35869275)|
+
+**コメント
+- やっと出来たか。このページ作ってくれた人ありがとう  -- 名無しさん  (2012-02-01 15:11:30)
+- ライスPがいいな〜(^∀^*)  -- K-DASH-  (2012-02-08 02:54:10)
+- 最近知りました。大好きっ(･ω･)  -- 名無しさん  (2012-03-24 23:39:08)
+#comment()

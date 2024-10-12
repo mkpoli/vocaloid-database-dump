@@ -1,0 +1,70 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://img.yaplog.jp/img/09/pc/k/i/d/kidsworks/0/15.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[かげろう]]|CENTER:&bold(){Season's}|CENTER:[[Season's+]]|
+
+|&bold(){[[キッドP]]}|[[クリスタルP]]|[[残鏡P]]|[[れれれP]]|[[ぷち]]|
+
+||CENTER:即売|CENTER:同人|CENTER:配信|
+|発売|CENTER:2011年8月13日|CENTER:2011年8月13日|CENTER:2011年12月21日|
+|価格|CENTER:￥1,000|CENTER:￥1,323（税込）|￥1,500 / 1曲￥150|
+|サークル|>|CENTER:NnDS☆||
+|ジャケットイラスト|>|>|CENTER:ヒロバカー|
+
+|&bold(){[[とらのあなで購入する>>http://www.toranoana.jp/mailorder/article/04/0020/02/24/040020022457.html]]}|
+
+**CD紹介
+-[[キッドP]]の3rdアルバム。
+-2011年夏コミ（C80）で頒布。
+-作詞は[[残鏡P]]が8曲、クリスタルPが2曲提供している。
+-今作ではsawamurah氏がアレンジで一曲提供している。また前作でコラボしたれれれPも「[[かげろう]]」にてコラボしている。
+-8曲目の「earLy days」は[[クリスタルP]]の2010年の夏コミアルバム『[[crystaL-next-]]』に収録されている曲のセルフカヴァー。この曲のアレンジをぷち氏が担当している。
+-今作のミックス・マスタリングもクリスタルPが担当。
+-ジャケットイラストを初のヒロバカー氏が担当。
+-ボーナストラックは1st、2ndに比べ4曲と前作より2曲増えている。
+-とらのあなにて委託販売が行われている。
+-KARENTレーベルよりダウンロード販売が行われている。鏡音リンレン4周年&Append1周年記念企画で配信された作品の1つ。
+
+**曲目
++[[Filtering]]~Season's Mix~
++-Lyrics:残鏡P／Music:キッド／Arrangement：HzEdge(クリスタルP)
++[[かげろう]]
++-Lyrics:残鏡P／Music:キッド／Arrangement：れれれP
++始まりの草原
++-Lyrics:残鏡P／Music:キッド／Arrangement：HzEdge(クリスタルP)
++ナツノセミ
++-Lyrics:残鏡P／Music:キッド／Arrangement：HzEdge(クリスタルP)
++[[無名のフォルダ]]
++-Lyrics：残鏡P／Music:キッド／Arrangement：HzEdge(クリスタルP)
++旅路の途中で
++-Lyrics：残鏡P／Music:キッド／Arrangement：HzEdge(クリスタルP)
++[[やきいものうた]]
++-Lyrics:残鏡P／Music:キッド／Arrangement：HzEdge(クリスタルP)
++earLy days-a capella-
++-Lyrics:HzEdge(クリスタルP)／Music:キッド／Arrangement：ぷち
++Interlude-Snow-
++-Music:キッド／Arrangement：クリスタルP
++[[灰雪]]
++-Lyrics:残鏡P／Music:キッド／Arrangement：クリスタルP
++しんセカイ
++-Lyrics:HzEdge(クリスタルP)／Music:キッド／Arrangement：sawamurah
++[[campanula blue]]（Bonus Tracks）
++-Lyrics＆Music＆Arrangement：HzEdge(クリスタルP)
++[[雨音と偽りのワルツ]]-DIVA edit-（Bonus Tracks）
++-Lyrics:残鏡P／Music:キッド／Arrangement：HzEdge(クリスタルP)
++灰雪~Pf&strings mix~（Bonus Tracks）
++-Lyrics:残鏡P／Music:キッド／Arrangement：HzEdge(クリスタルP)
++earLy days（Bonus Tracks）
++-Lyrics:HzEdge(クリスタルP)／Music:キッド／Arrangement：HzEdge(クリスタルP)
+
+
+**リンク
+-[[NnDS☆（作者サイト）>>http://nnds.soudesune.net/]]
+-[[kid's land（作者ブログ）>>http://yaplog.jp/kidsworks/]]
+-[[とらのあな特設ページ>>http://www.toranoana.jp/mailorder/article/04/0020/02/24/040020022457.html]]
+-[[KARENT：「Season's」>>http://karent.jp/album/907]]
+-[[KARENT：「鏡音リン・レン祭'11」特集ページ>>http://karent.jp/special/rinlen11]]
+
+**コメント
+#comment()

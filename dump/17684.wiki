@@ -1,0 +1,39 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo(sm15219442)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[月紅>月紅/CD]]|CENTER:&bold(){reason of birth}&br()[[fake or fate?>fake or fate?/CD]]|CENTER:[[Destiny Colors>Destiny Colors/CD]]&br()[[Eclipse Garden>Eclipse Garden/CD]]|
+
+|&bold(){[[maya]]}|[[山下慎一狼]]|
+
+||CENTER:即売|CENTER:委託|
+|発売|CENTER:2011年8月13日||
+|価格|CENTER:￥1,000|CENTER:￥1,470（税込）|
+|サークル|>|CENTER:asanagi|
+
+**CD紹介
+-maya氏の1stCDアルバム。2ndCDアルバム『[[fake or fate?>fake or fate?/CD]]』と同時リリース。
+-全12曲を完全リマスタリングで収録。
+-ジャケットイラストはしーな氏。8Pのフルカラーブックレット付。
+-2011年夏のコミックマーケット（C80）で頒布。
+-委託販売はとらのあな、メロンブックス、あきばお～こく、アリスブックス、ホワイトキャンバスで行われる。
+
+**曲目
++[[reason of birth>reason of birth/maya]] / 巡音ルカ
++[[銀聖のアルテミス]] / GUMI （初音ミク・鏡音リン・巡音ルカ・miki）
++[[Luxurious times]] / miki
++[[mist-missing love-]] / 巡音ルカ・神威がくぽ
++[[raid of glass]] / GUMI
++[[Lilyzm Gold]] / Lily・神威がくぽ
++[[stainless moon]] / 神威がくぽ
++[[水際の碧色]] / GUMI
++[[virgin butterfly]] / 神威がくぽ
++[[and taboo…]] / 巡音ルカ・神威がくぽ
++[[薄紅]] / 巡音ルカ
++[[chu－っとそばにいてね☆]] / 巡音ルカ
+
+**リンク
+-[[作者サイト>>http://maya.xii.jp/]]
+
+**コメント
+#comment()

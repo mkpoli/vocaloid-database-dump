@@ -1,0 +1,43 @@
+#right(){&furigana(しゅみっくとりが！ -New wave of A-POP-)&furigana()【登録タグ:&tags() 】}
+//#ref(http://img.toranoana.jp/popup_img/04/0020/02/71/040020027116-1p.jpg,width=300,height=300)
+//&ref(http://beatlogic.jp/image/jacket01.jpg)
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186115496.jpg,x=300,y=300)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){シュミックトリガ！ -New wave of A-POP-}|CENTER:[[シュミックトリガ2 -PsychoCrush A-POP!!-]]|
+
+|&nicovideo(http://www.nicovideo.jp/watch/sm15252111)|
+
+|[[MAX VEGETABLE]]|[[ボークP>>azuma]]|[[さつき が てんこもり]]|[[デッドボールP]]|[[ぶっちぎりP]]|
+|[[かめりあ]]|[[cello]]|[[盛るP]]|[[ふなむし]]|[[Phasma]]|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|CENTER:2011年08月13日|CENTER:2011年08月13日|
+|価格|CENTER:￥1,000（税込）|CENTER:￥1,500（税込）|
+|サークル|CENTER:beatlogic|>|
+
+**CD紹介
+>&bold(){VOCALOID × 電波ソング・A-POP!!}
+-10人の電波主義者（デンパイスト）による痛快コンピレーション！！全10曲収録。
+-ジャケットイラストは 狂乱家族日記 などのイラストを手掛ける x6suke氏 。
+-C80 にてリリース。その後 THE VOC@LOiD M@STER 17（ボーマス17） でも頒布された。
+
+**曲目
++[[寝ル娘は育つ]]　/　[[MAX VEGETABLE]]
++続々☆熱中症っ！　/　[[ボークP>>azuma]]
++[[夏休みYummy]]　/　[[さつき が てんこもり]]
++48　/　[[デッドボールP]]
++[[ソーサラー98 ～ The end of the known story]]　/　[[ぶっちぎりP]]
++MoFmOf Days!　/　[[かめりあ]]
++[[通称！デンパリ娘]]　/　[[cello]]
++恋人サンディは明後日笑う　/　[[盛るP]]
++[[マスシス]]　/　[[ふなむし]]
++HOME MADE HERO　/　[[Phasma]]
+
+**リンク
+-[[特設サイト>>http://beatlogic.jp/bewc01.html]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0020/02/71/040020027116.html]]
+
+**コメント
+#comment()

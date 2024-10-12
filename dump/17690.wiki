@@ -1,0 +1,47 @@
+#right(){&furigana(きいろのまほう2じだいのどあをあけはなて)&furigana()【登録タグ:&tags() 】}
+#image(http://tsubu.ath.cx/~komso/kmcd0007/kmcd0007_bn1.gif,http://tsubu.ath.cx/~komso/kmcd0007.html,title=黄色の魔法II -次代のドアを開け放て-,blank)
+
+#amazon(B005HB8PLS)
+
+&nicovideo(sm15261782)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[次代のドアを開け放て（Come Together）]]|CENTER:&bold(){黄色の魔法II -次代のドアを開け放て-}|CENTER:[[a Northern Song]]|
+
+|&bold(){[[ムスカP]]}|龍波しゅういち|ろーぜんくろいつ|LV.4|
+
+|流通|CENTER:即売|CENTER:委託|CENTER:配信|
+|発売|>|CENTER:2011年8月13日|CENTER:2011年8月24日|
+|価格|CENTER:￥1,000|CENTER:￥1,260（税込）&br()￥1,500（Amazon・税込）|CENTER:￥1,200 / 1曲￥150|
+|サークル|>|CENTER:狐夢想屋||
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/id456822990]]}|
+
+**CD紹介
+-ムスカP こと 狐夢想 氏のCDアルバム。
+-『[[黄色の魔法]]』以来となる、レンのソロアルバム。
+-リード・ヴォーカルはもちろん、コーラスまで全て鏡音レン君の歌声にてお届けいたします（一部ムスカPが混入）。
+-マスタリングを [[ミク詐欺P>ミク詐欺P（右近）]] こと 右近 氏、ジャケットイラストを [[碧茶]] 氏が手がけている。
+-2011年夏コミ（C80）で頒布。委託販売はとらのあな、メロンブックス、Amazonで行われる。KarenTレーベルよりダウンロード販売も行われている。
+
+**曲目
++[[ボクノサケビ]]
++[[次代のドアを開け放て（Come Together）]]
++エクリプセ・ソラール
++グラマラス・バタフライ
++[[空想飛行（Len in the Sky with Diamonds）]]
++[[嵐の予感！]] Append
++[[ずっとそばに]]
++Gradated Blue（碧色の段階）
++Come Together（LV.4 Remix）
+
+**リンク
+-[[作者サイト>>http://tsubu.ath.cx/~komso/]]
+-[[特設ページ>>http://tsubu.ath.cx/~komso/kmcd0007.html]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0020/02/47/040020024741.html]]
+-[[メロンブックス>>http://shop.melonbooks.co.jp/shop/list/?DA=chgitemtype&G=&F=%E9%BB%84%E8%89%B2%E3%81%AE%E9%AD%94%E6%B3%95II]]
+-[[Amazon.co.jp>>http://www.amazon.co.jp/dp/B005HB8PLS/]]
+-[[KarenT：「黄色の魔法II -次代のドアを開け放て-」>>http://karent.jp/album/803]]
+
+**コメント
+#comment()

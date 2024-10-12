@@ -1,0 +1,201 @@
+※ルール改変に伴い、作者名の後ろに「feat.キャラクター名」となっている曲もありますが、ここでは省略しています。
+
+#contents()
+----
+
+＊JOYSOUND
+＊＊配信中・配信決定済
+&font(b,120%){[[BACK（JOY曲名順【は】ページへ戻る）>カラオケ配信曲一覧/JOYSOUND曲名順【は】]]}
+
+&font(b,120%){[[BACK（カラオケ情報総合インデックスページへ戻る）>カラオケ配信曲一覧]]}
+//リクエスト決定分の曲の追加は月末集計直後に行うのではなく、正式発表後（毎月10日頃）にお願いします。
+
+|曲名|歌手名|曲番号|配信予定|
+|BOY MEETS GIRL|[[じん>自然の敵P]]|[[726852>>https://www.joysound.com/web/search/song/256161]]|配信中●|
+|[[ポーカーフェイス]]|[[ゆちゃP]]|[[106917>>https://www.joysound.com/web/search/song/164725]]|配信中●|
+|[[ポーカーフェイス《本人映像》>ポーカーフェイス]]|[[ゆちゃP]]|[[701109>>https://www.joysound.com/web/search/song/164725]]|配信中●|
+|[[VOCALAWSON desu.]]|[[うたたP]]|[[725889>>http://joysound.com/ex/search/karaoke/_selSongNo_725889_song.htm]]|配信中●|
+|[[ボーカロイドのうた]]|[[ピノキオP]]|[[101076>>http://joysound.com/ex/search/karaoke/_selSongNo_101076_song.htm]]|配信中●|
+|[[Border>Border/仲邑将太郎]]|仲邑将太郎|[[730657>>http://joysound.com/ex/search/karaoke/_selSongNo_730657_song.htm]]|配信中●|
+|[[BORDERLESS]]|[[ZOLA>ZOLA PROJECT]]|[[313776>>http://joysound.com/ex/search/karaoke/_selSongNo_313776_song.htm]]|配信中●|
+|[[ボーナスステージ]]|[[オワタP]]|[[108671>>https://www.joysound.com/web/search/song/167916]]|配信中●|
+|[[ボーナスステージ《レコおと》>ボーナスステージ]]|[[オワタP]]|[[665081>>https://www.joysound.com/web/search/song/167916]]|配信中●|
+|[[Hope>Hope/ゆよゆっぺ]]|[[ゆよゆっぺ]]|[[736774>>https://www.joysound.com/web/search/song/403179]]|配信中●|
+|Hope in the shroud|[[蝶々P]]|[[721912>>https://www.joysound.com/web/search/song/248011]]|配信中●|
+|ホープサウンド|[[tilt-six>tilt]]|[[681077>>https://www.joysound.com/web/search/song/550912]]|配信中●|
+|[[HOME>HOME/DECO*27・40㍍P]]|[[DECO*27]]×[[40mP>40㍍P]]|[[729946>>https://www.joysound.com/web/search/song/299679]]|配信中●|
+|[[HOME>HOME/れるりり]]|[[れるりり]]|[[685718>>https://www.joysound.com/web/search/song/555544]]|配信中●|
+|[[Home Sweet Homicide]]|[[kihirohito]]|[[128693>>http://joysound.com/ex/search/karaoke/_selSongNo_128693_song.htm]]|配信中●|
+|[[Holy Star]]|[[おっさんP>Kouhei（K's Sound Project）]]|[[135042>>http://joysound.com/ex/search/karaoke/_selSongNo_135042_song.htm]]|配信中●|
+|[[ホーリーフラッグ]]|CHiCO with [[HoneyWorks]]|[[679604>>https://www.joysound.com/web/search/song/546651]]|配信中●|
+|[[Voice>Voice/19's Sound Factory]]|[[19's Sound Factory]]|[[175271>>https://www.joysound.com/web/search/song/121820]]|配信中●|
+|[[VOiCE>VOiCE/ラヴリーP]]|[[ラヴリーP]]|[[179555>>https://www.joysound.com/web/search/song/129858]]|配信中●|
+|[[VOiCE《本人映像》>VOiCE/ラヴリーP]]|[[ラヴリーP]]|[[713446>>https://www.joysound.com/web/search/song/129858]]|配信中●|
+|[[崩壊歌姫-disruptive diva-]]|[[マチゲリータ>マチゲリータP]]|[[736960>>http://joysound.com/ex/search/karaoke/_selSongNo_736960_song.htm]]|配信中●|
+|[[放課後革命]]|放課後楽園部 (一宮エルナ(CV:木村珠莉)&br()　・御神楽星鎖(CV:大西沙織)・藤白おとね(CV:小澤亜李)）&br()　（作詞作曲：[[Last Note.]]）|[[673452>>http://joysound.com/ex/search/karaoke/_selSongNo_673452_song.htm]]|配信中●|
+|[[放課後革命(TVサイズ)>放課後革命]]|放課後楽園部 (一宮エルナ(CV:木村珠莉)&br()　・御神楽星鎖(CV:大西沙織)・藤白おとね(CV:小澤亜李)）&br()　（作詞作曲：[[Last Note.]]）|[[673227>>http://joysound.com/ex/search/karaoke/_selSongNo_673227_song.htm]]|配信中●|
+|[[放課後革命(TVサイズ)《アニメカラオケ》>放課後革命]]|放課後楽園部 (一宮エルナ(CV:木村珠莉)&br()　・御神楽星鎖(CV:大西沙織)・藤白おとね(CV:小澤亜李)）&br()　（作詞作曲：[[Last Note.]]）|713414&br()f1限定|配信終了&br()&bold(){期間限定配信}|
+|[[放課後ストライド]]|[[Last Note.]]|[[721439>>https://www.joysound.com/web/search/song/247369]]|配信中●|
+|[[放課後ストライド《本人映像》>放課後ストライド]]|[[Last Note.]]|[[701450>>https://www.joysound.com/web/search/song/247369]]|配信中●|
+|[[放課後ストライド《レコおと》>放課後ストライド]]|[[Last Note.]]|[[665205>>https://www.joysound.com/web/search/song/421370]]|配信中●|
+|[[放課後ストライド]]|一宮エルナ(CV:木村珠莉)（作詞作曲：[[Last Note.]]）|[[674091>>http://joysound.com/ex/search/karaoke/_selSongNo_674091_song.htm]]|配信中●|
+|[[鳳華雷閃]]|[[Re:nG]]|[[738708>>https://www.joysound.com/web/search/song/405542]]|配信中●|
+|[[忘却アリス]]|[[PolyphonicBranch]]|[[105803>>https://www.joysound.com/web/search/song/162443]]|配信中●|
+|[[忘却心中]]|0-9（[[OPA]]&[[Asaki No'9]]）|[[177468>>http://joysound.com/ex/search/karaoke/_selSongNo_177468_song.htm]]|配信中●|
+|[[忘却日記]]|[[Diarays]]|[[687420>>https://www.joysound.com/web/search/song/575004]]|配信中●|
+|[[忘却模様>>http://www24.atwiki.jp/utauuuta/pages/774.html]]|[[きの(嘆きのP)>>http://www24.atwiki.jp/utauuuta/pages/1134.html]]|[[145328>>http://joysound.com/ex/search/karaoke/_selSongNo_145328_song.htm]]|配信中●|
+|[[忘却リテラシー]]|[[あんP]]|[[312766>>https://www.joysound.com/web/search/song/406669]]|配信中●|
+|[[冒険少女と箱庭遊戯]]|[[cosMo@暴走P>cosMo（暴走P）]]|[[735753>>https://www.joysound.com/web/search/song/401826]]|配信中●|
+|[[ぼうけんのしょがきえました!>ぼうけんのしょがきえました！]]|[[じーざす>じーざすP]](ワンダフル☆オポチュニティ!)|[[678724>>https://www.joysound.com/web/search/song/487144]]|配信中●|
+|[[方向音痴]]|[[アゴアニキ>アゴアニキP]]|[[177165>>https://www.joysound.com/web/search/song/125465]]|配信中●|
+|[[方向音痴少女]]|[[谷屋楽>谷屋]]|[[146347>>http://joysound.com/ex/search/karaoke/_selSongNo_146347_song.htm]]|配信中●|
+|[[亡国のネメシス]]|[[ひとしずくP]]×[[やま△]]|[[738350>>https://www.joysound.com/web/search/song/405034]]|配信中●|
+|[[亡國浪漫]]|[[kihirohito]]|[[127322>>http://joysound.com/ex/search/karaoke/_selSongNo_127322_song.htm]]|配信中●|
+|[[方士ははいてない]]|やまと中尉|[[105845>>http://joysound.com/ex/search/karaoke/_selSongNo_105845_song.htm]]|配信中●|
+|[[宝石と謎とプリンセス]]|[[融合P]]|[[724742>>http://joysound.com/ex/search/karaoke/_selSongNo_724742_song.htm]]|配信中●|
+|[[鳳仙花>鳳仙花/黒澤まどか]]|[[黒澤まどか]]|[[686607>>https://www.joysound.com/web/search/song/574975]]|配信中●|
+|[[暴走ロリィタホリック]]|[[かいりきベア]]|[[724277>>https://www.joysound.com/web/search/song/252119]]|配信中●|
+|報復リヴァイバル|[[150P]]|[[685530>>https://www.joysound.com/web/search/song/491109]]|配信中●|
+|[[某〇×△□より]]|[[saiB]]|[[106417>>http://joysound.com/ex/search/karaoke/_selSongNo_106417_song.htm]]|配信中●|
+|[[poetaster_and_singing_dolls_]]|[[maya]]/[[hazyP]]|[[103320>>http://joysound.com/ex/search/karaoke/_selSongNo_103320_song.htm]]|配信中●|
+|ボカカラヒットソングメドレー2013&br()（[[脳漿炸裂ガール]] / [[ロストワンの号哭]] / [[ヤキモチの答え]] / [[ピエロ>ピエロ/KEI]] / [[サリシノハラ]]&br()  / [[独りんぼエンヴィー]] / [[妄想税]] / [[ロスタイムメモリー]] / [[夜咄ディセイブ]]）|ボカカラヒットソングメドレー|[[734720>>http://joysound.com/ex/search/karaoke/_selSongNo_734720_song.htm]]|配信中●|
+|ボカカラヒットソングメドレー2012&br()（[[magnet]] / [[え?あぁ、そう。>え？あぁ、そう。]] / [[東京テディベア]] / [[裏表ラバーズ]] / [[メルト]]&br() / [[天ノ弱]] / [[カゲロウデイズ]] / [[パンダヒーロー]] / [[マトリョシカ]] / [[千本桜]]）|ボカカラヒットソングメドレー|[[721741>>http://joysound.com/ex/search/karaoke/_selSongNo_721741_song.htm]]|配信中●|
+|ボカカラヒットソングメドレー2014&br()（[[天樂]] / [[聖槍爆裂ボーイ]] / [[アスノヨゾラ哨戒班]] / [[ウミユリ海底譚]] &br() / [[神のまにまに]] / [[恋愛裁判]] / [[Calc.]] / [[病名恋ワズライ]]）|ボカカラヒットソングメドレー|[[677547>>https://www.joysound.com/web/search/song/537287]]|配信中●|
+|[[僕が生主をやめる理由]]|[[卓球少年]]|[[675840>>https://www.joysound.com/web/search/song/492555]]|配信中●|
+|[[僕が見た夢]]|[[(仮)P]]|[[116294>>http://joysound.com/ex/search/karaoke/_selSongNo_116294_song.htm]]|配信中●|
+|[[僕がモンスターになった日]]|[[れるりり]]|[[684066>>https://www.joysound.com/web/search/song/563236]]|配信中●|
+|[[僕、新生活が不安です。いや全然大丈夫っしょ!余裕っしょ!ディスコ>僕、新生活が不安です。いや全然大丈夫っしょ！余裕っしょ！ディスコ]]|[[ラヴリーP]]|[[148986>>https://www.joysound.com/web/search/song/225556]]|配信中●|
+|[[僕だけのロックスター]]|[[伊東歌詞太郎]]|[[691536>>https://www.joysound.com/web/search/song/484787]]|2017年1月19日|
+|[[ぼくたちのはじまり]]|[[ふわりP]]|[[312325>>https://www.joysound.com/web/search/song/406644]]|配信中●|
+|[[ボクとアリスのワンダーランド]]|[[れれれP]]|[[111371>>http://joysound.com/ex/search/karaoke/_selSongNo_111371_song.htm]]|配信中●|
+|ボクとキミとの時間旅行|[[Nem]]|[[687176>>https://www.joysound.com/web/search/song/482132]]|配信中●|
+|[[僕に愛をください]]|[[乙女P]]|[[736311>>http://joysound.com/ex/search/karaoke/_selSongNo_736311_song.htm]]|配信中●|
+|[[僕に罰を 君に光を]]|[[ウタP]]|[[136616>>http://joysound.com/ex/search/karaoke/_selSongNo_136616_song.htm]]|配信中●|
+|[[ぼくのうしろの怪物(モンスター)]]|mt.pt|[[732304>>http://joysound.com/ex/search/karaoke/_selSongNo_732304_song.htm]]|配信中●|
+|[[僕の歌をこの世で一番最後に聴いてくれる人は誰ですか]]|[[SLAVE.V-V-R]]|[[691130>>https://www.joysound.com/web/search/song/599119]]|配信中●|
+|[[僕のコメで笑って]]|[[卓球少年]]|[[669390>>https://www.joysound.com/web/search/song/414539]]|配信中●|
+|[[僕のサイノウ]]|[[wowaka]]|[[103265>>http://joysound.com/ex/search/karaoke/_selSongNo_103265_song.htm]]|配信中●|
+|[[ボクノショウメイ]]|[[もっふーP]]|[[724370>>http://joysound.com/ex/search/karaoke/_selSongNo_724370_song.htm]]|配信中●|
+|[[僕のすべて]]|[[佐香智久>少年T]]|[[680174>>https://www.joysound.com/web/search/song/535206]]|配信中●|
+|[[僕のすべて君へのすべて]]|[[レタスP]]|[[738063>>https://www.joysound.com/web/search/song/405000]]|配信中●|
+|[[ぼくの、そしてキミの。]]|[[fatmanP]]|[[108387>>http://joysound.com/ex/search/karaoke/_selSongNo_108387_song.htm]]|配信中●|
+|[[僕のタニシが準優勝]]|[[kihirohito]]|[[128697>>http://joysound.com/ex/search/karaoke/_selSongNo_128697_song.htm]]|配信中●|
+|僕の中のミリア|[[YM]]|[[722216>>http://joysound.com/ex/search/karaoke/_selSongNo_722216_song.htm]]|配信中●|
+|[[ぼくのほそ道]]|[[伊東歌詞太郎]]|[[691537>>https://www.joysound.com/web/search/song/484784]]|2017年1月19日|
+|[[僕の恋愛法則]]|[[ちゃむ>こなたP]]|[[147452>>http://joysound.com/ex/search/karaoke/_selSongNo_147452_song.htm]]|配信中●|
+|[[僕は空気が嫁ない]]|[[cosMo@暴走P>cosMo（暴走P）]]|[[733301>>https://www.joysound.com/web/search/song/300257]]|配信中●|
+|[[僕は灰猫]]|[[におP]]|[[137229>>https://www.joysound.com/web/search/song/141795]]|配信中●|
+|[[僕は初音ミクとキスをした]]|[[みきとP>みきとP/作り手]]|[[726911>>https://www.joysound.com/web/search/song/256447]]|配信中●|
+|[[ボクはボクを諦めない!!!>ボクはボクを諦めない！！！]]|[[ウゴP]]|[[737944>>http://joysound.com/ex/search/karaoke/_selSongNo_737944_song.htm]]|配信中●|
+|[[僕はまだ本気出してないだけ]]|[[梨本うい>梨本P]]|[[738113>>https://www.joysound.com/web/search/song/405020]]|配信中●|
+|[[僕はまぶたになりたい]]|[[ほのぼのP]]|[[102821>>http://joysound.com/ex/search/karaoke/_selSongNo_102821_song.htm]]|配信中●|
+|[[僕みたいな君、君みたいな僕。>僕みたいな君　君みたいな僕]]|[[DECO*27]]|[[103062>>https://www.joysound.com/web/search/song/158161]]|配信中●|
+|[[ボクモテ]]|[[えへへP]]|[[108865>>http://joysound.com/ex/search/karaoke/_selSongNo_108865_song.htm]]|配信中●|
+|[[ぼくらのいつか]]|[[add9(ヘリP)>ヘリP]]|[[315007>>http://joysound.com/ex/search/karaoke/_selSongNo_315007_song.htm]]|配信中●|
+|[[僕らの航海フォトグラフィー]]|[[n-buna>ナブナ]]|[[673197>>https://www.joysound.com/web/search/song/419602]]|配信中●|
+|[[ボクラノコントローラー]]|[[さたな]]|[[313042>>http://joysound.com/ex/search/karaoke/_selSongNo_313042_song.htm]]|配信中●|
+|[[ボクらの最終定理]]|[[じーざす>じーざすP]](ワンダフル☆オポチュニティ!)|[[673331>>https://www.joysound.com/web/search/song/419808]]|配信中●|
+|[[ぼくらの16bit戦争]]|[[sasakure.UK>ささくれP]]|[[103384>>https://www.joysound.com/web/search/song/158763]]|配信中●|
+|[[僕ラノセカイ]]|[[AETA(イータ)]]|[[723197>>http://joysound.com/ex/search/karaoke/_selSongNo_723197_song.htm]]|配信中●|
+|[[僕らの世界にダンスを]]|[[サカモト教授]]|[[315903>>http://joysound.com/ex/search/karaoke/_selSongNo_315903_song.htm]]|配信中●|
+|[[ぼくらのタイムカプセル]]|[[村人P]]|[[671127>>http://joysound.com/ex/search/karaoke/_selSongNo_671127_song.htm]]|配信中●|
+|ぼくらの報復政策|[[kemu]]|[[198245>>https://www.joysound.com/web/search/song/230150]]|配信中●|
+|ぼくらの報復政策《レコおと》|[[kemu]]|[[665112>>https://www.joysound.com/web/search/song/230150]]|配信中●|
+|[[ぼくらのマーチ]]|[[くらげP]]|[[313537>>https://www.joysound.com/web/search/song/408065]]|配信中●|
+|[[ぼくらのレットイットビー]]|[[はりーP>はりー]]|[[197870>>https://www.joysound.com/web/search/song/228989]]|配信中●|
+|[[僕をそんな目で見ないで]]|[[きくお]]|[[106893>>https://www.joysound.com/web/search/song/164687]]|配信中●|
+|[[ボクを忘れた空想紀行]]|[[きくお]]|[[107083>>https://www.joysound.com/web/search/song/164963]]|配信中●|
+|[[ポケットが砂でいっぱい]]|mt.pt|[[732307>>http://joysound.com/ex/search/karaoke/_selSongNo_732307_song.htm]]|配信中●|
+|[[ほころび]]|[[40mP>40㍍P]]|[[726808>>https://www.joysound.com/web/search/song/256020]]|配信中●|
+|[[ホシアイ]]|[[レフティーモンスターP]]|[[732091>>http://joysound.com/ex/search/karaoke/_selSongNo_732091_song.htm]]|配信中●|
+|[[星落ちる]]|[[MARUDARUMA]]|[[732836>>https://www.joysound.com/web/search/song/245569]]|配信中●|
+|[[星織り唄]]|[[ひとしずくP]]×[[やま△]]|[[679289>>https://www.joysound.com/web/search/song/540881]]|配信中●|
+|[[星が消えた夏...]]|[[ANDRIVEBOiz]]|[[675969>>https://www.joysound.com/web/search/song/492568]]|配信中●|
+|[[星が弧を描くように]]|[[もそもそP]]|[[105320>>https://www.joysound.com/web/search/song/161671]]|配信中●|
+|[[星屑アステリズム]]|[[わか>苺ミルクをぶっかけたら殺す。]]|[[314972>>https://www.joysound.com/web/search/song/409830]]|配信中●|
+|[[星屑オーケストラ]]|[[ハヤブサ]]|[[686228>>https://www.joysound.com/web/search/song/574037]]|配信中●|
+|[[星くずの掃除婦]]|[[きくお]]|[[107086>>https://www.joysound.com/web/search/song/164966]]|配信中●|
+|[[星屑ノ桃源郷]]|[[綿飴]]|[[723425>>http://joysound.com/ex/search/karaoke/_selSongNo_723425_song.htm]]|配信中●|
+|[[星屑メソッド]]|[[蝶々P]]|[[145490>>https://www.joysound.com/web/search/song/185882]]|配信中●|
+|[[星屑ユートピア]]|[[otetsu]]|[[138184>>https://www.joysound.com/web/search/song/143790]]|配信中●|
+|[[星宙カレイドスコープ]]|[[mint*]]|[[679064>>https://www.joysound.com/web/search/song/542583]]|配信中●|
+|[[星空と雪の舞踏会]]|[[Iristellia>このり]]|[[101067>>http://joysound.com/ex/search/karaoke/_selSongNo_101067_song.htm]]|配信中●|
+|[[星空に願いを込めて -Good Night->星空に願いを込めて ～Good Night]]|[[tomoP]]|[[136408>>http://joysound.com/ex/search/karaoke/_selSongNo_136408_song.htm]]|配信中●|
+|[[星空リフレイン]]|[[石原慎之介>the world／DIO様P]]|[[104884>>http://joysound.com/ex/search/karaoke/_selSongNo_104884_song.htm]]|配信中●|
+|[[ホシゾラレイン]]|[[tilt-six>tilt]]|[[728426>>https://www.joysound.com/web/search/song/297445]]|配信中●|
+|[[ホシゾラレイン《本人映像》>ホシゾラレイン]]|[[tilt-six>tilt]]|[[701729>>https://www.joysound.com/web/search/song/297445]]|配信中●|
+|[[ポジティブシンキング]]|[[のぼる↑>のぼる↑P]]|[[684336>>https://www.joysound.com/web/search/song/560226]]|配信中●|
+|[[ポジティブマスター]]|[[ma10a]]|[[127245>>http://joysound.com/ex/search/karaoke/_selSongNo_127245_song.htm]]|配信中●|
+|[[星の唄]]|[[buzzG]]|[[108928>>https://www.joysound.com/web/search/song/168254]]|配信中●|
+|[[星の化石]]|[[Man_boo]]|[[675417>>https://www.joysound.com/web/search/song/491013]]|配信中●|
+|星の記憶|[[Man_boo]]|[[675454>>https://www.joysound.com/web/search/song/491015]]|配信中●|
+|星の君|[[蝶々P]]|[[147100>>https://www.joysound.com/web/search/song/221881]]|配信中●|
+|星の君《レコおと》|[[蝶々P]]|[[665051>>https://www.joysound.com/web/search/song/221881]]|配信中●|
+|[[星の大地]]|[[Man_boo]]|[[675423>>https://www.joysound.com/web/search/song/491010]]|配信中●|
+|[[星のとなりの空け者～織姫～>星のとなりの空け者 ～織姫～]]|[[家の裏でマンボウが死んでるP]]|[[721058>>http://joysound.com/ex/search/karaoke/_selSongNo_721058_song.htm]]|配信中●|
+|[[星のとなりの空け者～織姫～《レコおと》>星のとなりの空け者 ～織姫～]]|[[家の裏でマンボウが死んでるP]]|[[665162>>http://joysound.com/ex/search/karaoke/_selSongNo_665162_song.htm]]&br()f1・CROSSO限定|配信中●|
+|[[星のとなりの空け者～カッパ～>星のとなりの空け者 ～カッパ～]]|[[家の裏でマンボウが死んでるP]]|[[721059>>http://joysound.com/ex/search/karaoke/_selSongNo_721059_song.htm]]|配信中●|
+|[[星のとなりの空け者～カッパ～《レコおと》>星のとなりの空け者 ～カッパ～]]|[[家の裏でマンボウが死んでるP]]|[[665164>>http://joysound.com/ex/search/karaoke/_selSongNo_665164_song.htm]]&br()f1・CROSSO限定|配信中●|
+|[[星のとなりの空け者～彦星～>星のとなりの空け者 ～彦星～]]|[[家の裏でマンボウが死んでるP]]|[[721060>>http://joysound.com/ex/search/karaoke/_selSongNo_721060_song.htm]]|配信中●|
+|[[星のとなりの空け者～彦星～《レコおと》>星のとなりの空け者 ～彦星～]]|[[家の裏でマンボウが死んでるP]]|[[665163>>http://joysound.com/ex/search/karaoke/_selSongNo_665163_song.htm]]&br()f1・CROSSO限定|配信中●|
+|[[星降る夜>星降る夜/miu☆]]|[[miu☆]]|[[108872>>http://joysound.com/ex/search/karaoke/_selSongNo_108872_song.htm]]|配信中●|
+|[[ポジポジ]]|[[よし屋P]]|[[732152>>http://joysound.com/ex/search/karaoke/_selSongNo_732152_song.htm]]|配信中●|
+|[[＜星祀＞リャンマの歌]]|[[ちきんクリスP]]|[[199846>>http://joysound.com/ex/search/karaoke/_selSongNo_199846_song.htm]]|配信中●|
+|[[星巡りのワルツ]]|[[GYARI(ココアシガレットP)>ココアシガレットP]]|[[685537>>https://www.joysound.com/web/search/song/568980]]|配信中●|
+|[[星詠みエンドラヴァー>>http://www24.atwiki.jp/utauuuta/pages/1731.html]]|[[亜沙]]|[[670842>>https://www.joysound.com/web/search/song/416457]]|配信中●|
+|[[星を渡る鳥]]|[[Nem]]|[[738897>>https://www.joysound.com/web/search/song/405668]]|配信中●|
+|[[BossDeath]]|[[磯P]]|[[107453>>http://joysound.com/ex/search/karaoke/_selSongNo_107453_song.htm]]|配信中●|
+|[[蛍>蛍/PENGUINS PROJECT]]|[[PENGUINS PROJECT]]|[[197947>>http://joysound.com/ex/search/karaoke/_selSongNo_197947_song.htm]]|配信中●|
+|[[蛍火>蛍火/YonoP]]|[[YonoP]]|[[728142>>https://www.joysound.com/web/search/song/259326]]|配信中●|
+|[[ホットココア ～徹夜のうた～>ホットココア～徹夜のうた～]]|[[白黒P]]|[[116187>>http://joysound.com/ex/search/karaoke/_selSongNo_116187_song.htm]]|配信中●|
+|[[ぽっぴっぽー]]|[[ラマーズP]]|[[139531>>https://www.joysound.com/web/search/song/146431]]|配信中●|
+|[[ポップンガール@コミュニケーション]]|[[ダルビッシュP]]×[[Junky]]|[[735337>>http://joysound.com/ex/search/karaoke/_selSongNo_735337_song.htm]]|配信中●|
+|[[ポップンロール*サウンド>ポップンロール＊サウンド]]|[[アモン]]|[[312228>>http://joysound.com/ex/search/karaoke/_selSongNo_312228_song.htm]]|配信中●|
+|[[北方の平原にて]]|[[Y.Sato]] & xkogx|[[111922>>https://www.joysound.com/web/search/song/173364]]|配信中●|
+|[[ホノカ]]|[[アリエP]]|[[146339>>http://joysound.com/ex/search/karaoke/_selSongNo_146339_song.htm]]|配信中●|
+|[[微笑の衝動]]|[[銀河方面P]]|[[147582>>http://joysound.com/ex/search/karaoke/_selSongNo_147582_song.htm]]|配信中●|
+|[[焔の棟]]|[[utml]]|[[732202>>http://joysound.com/ex/search/karaoke/_selSongNo_732202_song.htm]]|配信中●|
+|[[HORIZON>HORIZON/八王子P]]|[[八王子P]]|[[727007>>https://www.joysound.com/web/search/song/256461]]|配信中●|
+|[[ポラリス]]|[[Shake Sphere>鮭P]]|[[104092>>http://joysound.com/ex/search/karaoke/_selSongNo_104092_song.htm]]|配信中●|
+|ヴォルカニックレイリズム|べあっぷす|[[672423>>http://joysound.com/ex/search/karaoke/_selSongNo_672423_song.htm]]|配信中●|
+|[[Holography]]|[[ダルビッシュP]]|[[109057>>http://joysound.com/ex/search/karaoke/_selSongNo_109057_song.htm]]|配信中●|
+|[[ホワイトスニーカー・ラブ]]|[[黒田亜津]]|[[682415>>https://www.joysound.com/web/search/song/558606]]|配信中●|
+|[[White Prism]]|[[蝶々P]]|[[728956>>https://www.joysound.com/web/search/song/298186]]|配信中●|
+|WhiteFlameメドレー&br()（[[紅一葉]] / [[ACUTE]] / [[リスキーゲーム]]&br() / [[カンタレラ]] / [[恋愛フィロソフィア]] / [[千本桜]]）|[[WhiteFlame>黒うさP]]|[[730841>>https://www.joysound.com/web/search/song/242265]]|配信中●|
+|[[White Melody]]|[[seleP]]|[[670856>>http://joysound.com/ex/search/karaoke/_selSongNo_670856_song.htm]]|配信中●|
+|[[White Letter>White Letter/GonGoss]]|[[GonGoss]]|------|2014年4月中旬以降|
+|ポンコツザワールド|[[sasakure.UK>ささくれP]]|[[671201>>https://www.joysound.com/web/search/song/416945]]|配信中●|
+|[[ポンコツディストーカー]]|[[sasakure.UK>ささくれP]]|[[685609>>https://www.joysound.com/web/search/song/553494]]|配信中●|
+|[[ポンコツ天使]]|[[ピノキオP]]|[[103180>>http://joysound.com/ex/search/karaoke/_selSongNo_103180_song.htm]]|配信中●|
+|[[本日営業中]]|[[tetsuo>くちばしP]]|[[179841>>http://joysound.com/ex/search/karaoke/_selSongNo_179841_song.htm]]|配信中●|
+|[[bonds]]|HIRAKU|[[737502>>http://joysound.com/ex/search/karaoke/_selSongNo_737502_song.htm]]|配信中●|
+|[[ポン酢降る>>http://www24.atwiki.jp/utauuuta/pages/126.html]]|サイコパズル|[[110081>>https://www.joysound.com/web/search/song/170645]]|配信中●|
+|[[本当に大事なのはひとつだけ]]|[[Lollipop★Computer>LOLI.COM]]|[[177628>>http://joysound.com/ex/search/karaoke/_selSongNo_177628_song.htm]]|配信中●|
+|本当にへし折れろ、君の心|[[家の裏でマンボウが死んでるP]]|[[721988>>http://joysound.com/ex/search/karaoke/_selSongNo_721988_song.htm]]|配信中●|
+|[[本当の自分]]|[[アカサコフ>にいとP]]|[[177542>>http://joysound.com/ex/search/karaoke/_selSongNo_177542_song.htm]]|配信中●|
+|[[煩悩HEROES]]|[[傘音]]|[[675391>>https://www.joysound.com/web/search/song/491023]]|配信中●|
+|[[ほんの少しのさよなら]]|[[電ポルP]]|[[129969>>https://www.joysound.com/web/search/song/152856]]|配信中●|
+|[[凡百の蟻、一握の砂。]]|[[コワレミクP]]|[[737905>>http://joysound.com/ex/search/karaoke/_selSongNo_737905_song.htm]]|配信中●|
+
+
+#co(){以下コピペ用
+|[[歌手名>P名]] (JOY>>joyアーティストページURL)|[[曲名]]|------|09年00月中旬以降|
+
+歌手名にはjoyに登録されているページを、P名はwikiのページ名をお願いします。
+(同一名称が使われている場合P名だけでOKです。)
+joyアーティストページは配信日決定されている曲が1曲以上必要になりますので、
+まだページがない場合()ごと省略して下さい。
+
+同一歌手名の曲に関しては五十音順です。(英語、記号もひらがな読みで)
+アーティストページの記載は任意でOK。(見づらいようでしたら消してください)
+}
+なお、配信予定日の表示が「○月中旬以降」の場合、それから２ヶ月以上遅れることもあります。 
+また、配信予定日が決まっている楽曲は、今のところ、配信予定日の前日か前々日にフライング配信されている模様。 
+
+詳しくは、こちらのマイリストの動画を参照。 
+http://www.nicovideo.jp/mylist/6897112
+
+
+&font(b,120%){[[BACK（JOY曲名順【は】ページへ戻る）>カラオケ配信曲一覧/JOYSOUND曲名順【は】]]}
+
+&font(b,120%){[[BACK（カラオケ情報総合インデックスページへ戻る）>カラオケ配信曲一覧]]}

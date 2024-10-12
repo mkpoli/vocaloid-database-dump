@@ -1,0 +1,32 @@
+#right(){&furigana(はなものがたり)&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/788_20110730215745_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Electronic Circuits]]|CENTER:&bold(){花物語}|CENTER:[[アンラッキー・ガール]]|
+
+|&bold(){[[クヌースP]]}|[[山本ニュー]]|
+
+発売：2011年8月31日
+価格：￥300 / 1曲￥150
+流通：配信
+レーベル：KarenT
+ジャケットイラスト：[[みやの>>http://piapro.jp/m_miyano]]
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/id460001028]]}|
+
+**CD紹介
+-クヌースPの配信EP。
+-作詞に山本ニュー氏を迎えた問題作、少女たちの禁断の恋を描く「花物語」と、白昼夢とも幻想ともいえる空気感で少女の心のつぶやきを歌う「yurete」の２曲を収録。
+-KarenTレーベルの初音ミク4周年記念特集で配信された作品の1つ。
+
+**曲目
++[[花物語]] （feat. 初音ミク）
++[[yurete]] （feat. 初音ミク）
+
+**リンク
+-[[作者ブログ>>http://sh100000.blog64.fc2.com/]]
+-[[KarenT：「花物語」>>http://karent.jp/album/788]]
+-[[KarenT：「初音ミク 4th Anniversary」特集ページ>>http://karent.jp/special/miku11]]
+
+**コメント
+#comment()

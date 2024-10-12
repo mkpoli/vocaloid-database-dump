@@ -1,0 +1,39 @@
+#right(){&furigana(しよん)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/21339709" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/21339709">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-2010年9月『[[異次元]]』でプロデューサーデビュー。歌い手として活動することもある。
+-使用ボーカロイドは初音ミクとIA 。
+-2作目『[[メテオ]]』が大ヒットを果たしミリオンを達成した。以後の曲も着々と評価され続けている。
+
+**ミリオン達成状況
+|CENTER:&bold(){曲名}|CENTER:&bold(){100万再生}|CENTER:&bold(){備考}|
+|[[メテオ]]|2019年3月24日||
+
+**リンク
+-[[meteor（作者HP）>>http://nappymant.com]]
+-[[PIAPRO>>http://piapro.jp/zeroness]]
+-[[Twitter>>http://twitter.com/jonsann]]
+
+**曲
+#list_by_tag(じょん,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(じょんCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm12240052)|&nicovideo(sm13911449)|
+|&nicovideo(sm14462775)|&nicovideo(sm15198308)|
+|&nicovideo(sm16151555)|&nicovideo(sm16522799)|
+|&nicovideo(sm19666254)||
+
+**コメント
+- やっと『じょん』さんのページが出来た！  -- sangoku31013  (2012-02-18 02:17:08)
+- 記事作成乙です　じょんさんの曲は聞いてて心地いい  -- だのっち  (2012-02-19 21:07:55)
+- じょんさんキターー!!  -- 396  (2012-02-21 17:10:07)
+- じょんさんの作品はーなんていうか、もうね、詩も曲も素晴らしいですね。  -- 名無しさん  (2012-11-03 09:08:34)
+- じょんさんの曲は緻密で透明。素晴らしい。でも歌詞に登場する人が… ; ;  -- テトラグラマトン  (2013-02-23 01:44:16)
+- 「メテオ」聴いて感動しました。こんなドラマチックで壮大な曲はなかなか無いと思う。  -- 名無しさん  (2013-03-11 14:26:39)
+- じょんさんの曲に出合わずにはいられない  -- 名無しさん  (2015-08-12 03:55:25)
+- メテオの曲の内容に心を引かれましたぁ!ファンになりましたぁ!  -- ボカロ愛し隊1号  (2016-10-29 18:03:15)
+#comment()

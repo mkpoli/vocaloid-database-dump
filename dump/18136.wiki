@@ -1,0 +1,41 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/825_20110828231816_0240_0240.jpg)
+
+&nicovideo(sm14558141)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Puzzle>Puzzle/CD]]|CENTER:&bold(){R}|CENTER:[[My fair lady>My fair lady/CD]]|
+
+|&bold(){[[恋竹林]]}|
+
+||CENTER:即売|CENTER:配信|
+|発売|CENTER:2011年6月12日|CENTER:2011年9月2日|
+|価格|CENTER:￥1,000|CENTER:￥1,200 / 1曲￥150|
+|サークル|>|CENTER:恋竹林|
+|レーベル||CENTER:KarenT|
+|ジャケットイラスト|>|CENTER:e-megu|
+
+**CD紹介
+-サークル恋竹林の3rdアルバム。
+-10ヶ月の封印を破り、恋竹林が深化の片鱗を見せる。&br()前作、前々作である「[[あなたはどのミクに恋をしますか]]」「[[Puzzle>Puzzle/CD]]」から大胆なイメージチェンジをはかり、R&Bが大きくフューチャーされた非常にコンセプティブな今作。&br()玄人を唸らせる上質のアレンジ・サウンドでありながらもキャッチさを備えた、ブラックミュージックジャンキーことじーこばならでは手腕が冴える一作である。
+-THE VOC@LOiD M@STER 16（ボーマス16）で頒布。
+-KarenTレーベルよりダウンロード販売が行われている。
+
+**曲目
++intro
++[[Marbling city (Tong poo)]] （feat. 初音ミク）
++[[Green phenomena]] （feat. 初音ミク）
++[[When You Touch Me -R->When you touch me?]] （feat. 初音ミク）
++[[Style nk]] （feat. 初音ミク）
++[[GamennMien because of tears>涙腺突破ガメンミエン]] （feat. 初音ミク）
++love you, i love you （feat. 初音ミク）
++[[Kirari!! INFINITY]] （feat. 初音ミク）
+
+**リンク
+-[[特設ページ>>http://koichikurinofficial.web.fc2.com/koichikurin_3rd/koichikurin_cd3rd.html]]
+-[[作者サイト>>http://koichikurinofficial.web.fc2.com/index.html]]
+-[[作者ブログ>>http://koichikurin.blog89.fc2.com/]]
+-[[KarenT>>http://karent.jp/album/825]]
+
+**コメント
+#comment()

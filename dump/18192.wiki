@@ -1,0 +1,33 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/826_20110830232026_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Harmony Esmeralda]]|CENTER:&bold(){Aspida}|CENTER:[[Lune]]|
+
+|&bold(){[[SeikoP]]}|
+
+||CENTER:配信|CENTER:委託|
+|発売|CENTER:2011年9月14日|CENTER:2011年9月|
+|価格|CENTER:￥300 / 1曲￥150|CENTER:￥315（税込）|
+|サークル|>|CENTER:Peridot Foresta|
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/aspida/id463960855]]}|
+
+**紹介
+-SeikoPの3曲入りシングルCD。
+-本来は9月4日開催のこみっくトレジャー18で頒布予定だったが台風の影響で欠席したため、KarenTでの配信の方が先になった。
+-その後、CD版も委託販売が開始された。
+
+**曲目
++[[アスピダ]] feat. VY1
++Paidir
++Creatura
+
+**リンク
+-[[作者ブログ>>http://sei-peri.seesaa.net/]]
+-[[KarenT：「Aspida」>>http://karent.jp/album/826]]
+-[[D-STAGE>>http://d-stage.com/shop/detail.php?seq=23454]]
+
+**コメント
+- かわゆす  -- s  (2012-09-15 13:34:27)
+#comment()

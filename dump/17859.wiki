@@ -1,0 +1,42 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1095_20120721133750_0280_0280.jpg)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm15358770)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[So much loving you★]]|CENTER:&bold(){flowertone}|CENTER:[[Sweet Logic]]|
+
+|&bold(){[[古墳P]]}|[[longan]]|
+
+|流通|CENTER:即売|CENTER:委託|CENTER:配信|
+|発売|CENTER:2011年9月4日||CENTER:2012年8月8日|
+|価格|CENTER:￥1,000|CENTER:￥1,575（税込）|CENTER:￥1,200 / 1曲￥150|
+|サークル|CENTER:そうだ、ここに古墳をつくろう|CENTER:Trireact||
+
+**CD紹介
+-古墳P 待望の 1st album 。
+-デビュー作の「[[flowertone]]」を筆頭に、これまでにリリースされた曲から選曲＋新曲の全9曲を収録。
+-ジャケットイラストは AKiru氏 が手掛ける。
+-THE VOC@LOiD M@STER 17（ボーマス17） にてリリース。
+-とらのあなにて委託販売が、KARENTレーベルよりダウンロード販売が行われている。
+-※曲名、歌詞、音源などにミスがあり、そのうち音源については修正版をアップしている。詳細は[[特設ページ>>http://trireact.net/]]にて。
+
+**曲目
++Introduction
++[[flowertone]]     
++[[Triscope]]   
++[[So much loving you★]]  
++[[お願いShootin' Star]]  
++[[少女未遂]]   
++[[Sweet Logic]]  
++Strawberry*Effect 
++Trireact   
+
+**リンク
+-[[特設ページ>>http://trireact.net/]]
+-[[作者ブログ>>http://monmono.blog122.fc2.com/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0020/03/21/040020032124.html]]
+-[[KARENT：「flowertone」>>http://karent.jp/album/1095]]
+
+**コメント
+#comment()

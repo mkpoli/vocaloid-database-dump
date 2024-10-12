@@ -1,0 +1,38 @@
+#right(){&furigana(いちくらりみっくすしゅう「すぷーとにくしょうねんしょうじょ」)&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/931_20111202224835_0240_0240.jpg)
+
+|&nicovideo(sm16416916)|&youtube(https://youtu.be/tytc7VvIsPI){330,247}|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[イチクラリミックス集「マッシュルームマザー」]]|CENTER:&bold(){イチクラリミックス集「スプートニク少年少女」}|CENTER:[[イエハトブのヨル]]|
+
+|&bold(){[[市蔵]]}|[[キャプテンミライ]]|
+
+発売：2011年12月19日
+価格：￥900 / 1曲￥150
+流通：配信
+レーベル：KarenT
+ジャケットイラスト：[[キャプテンミライ]]
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album//id488103949]]}|
+
+**CD紹介
+-市蔵氏による、キャプテンミライ氏の楽曲のリミックス集。
+-VOCALOID楽曲の他、NNIの「涸れ井戸スイミング」のリミックスも収録されている。
+-KarenTレーベルよりダウンロード販売が行われている。
+
+**曲目
++[[スプートニク少年少女]]itikuraRemix （feat. 鏡音リン・キャプミロイド）
++[[エンドレス]]itikuraRemix （feat. メグッポイド）
++[[積雪ロック]]itikuraRemix （feat. 鏡音リン）
++[[スリーディーロック]]itikuraRemix （feat. 鏡音リン）
++涸れ井戸スイミングitikuraRemix （feat. キャプテンミライ）
++[[グッドナイト>グッドナイト/キャプテンミライ]]itikuraRemix （feat. SF-A2 開発コードmiki）
++[[オラトリオ]]itikuraRemix （feat. 巡音ルカ・SF-A2 開発コードmiki）
++[[幻想論]]itikuraRemix （feat. 鏡音リン）
+
+**リンク
+-[[KarenT：「イチクラリミックス集「スプートニク少年少女」」>>http://karent.jp/album/931]]
+
+**コメント
+#comment()

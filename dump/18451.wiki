@@ -1,0 +1,58 @@
+#right(){&furigana(ちょうや)&furigana()【登録タグ:&tags() 】}
+|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/14505980" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/14505980">【ニコニコ動画】</a></iframe>)|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/17165074" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/17165074">【ニコニコ動画】</a></iframe>)|
+
+**特徴
+-2009年8月に『[[空を抱く者たち]]』で絵師としてデビュー。その後2009年12月『[[永久の翼]]』より動画も手掛けるようになった。
+-色彩感覚の見事な、綺麗で艶やかな画風。
+-主に [[くろずみP]]や [[yukki＃]]氏とコラボしている。
+
+**リンク
+-[[Luce_Farfalla（作者ブログ）>>http://lucefarfalla.web.fc2.com/]]
+-[[Pixiv>>http://www.pixiv.net/member.php?id=1197574]]
+-[[twitter>>http://twitter.com/tyouya]]
+
+**曲
+#list_by_tag(蝶夜,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(蝶夜CD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm8100385)|&nicovideo(http://www.nicovideo.jp/watch/nm8516418)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm8643927)|&nicovideo(sm9131041)|
+|&nicovideo(sm9177071)|&nicovideo(sm9207557)|
+|&nicovideo(sm9214637)|&nicovideo(sm9295771)|
+|&nicovideo(sm9681604)|&nicovideo(sm9869683)|
+|&nicovideo(sm10510415)|&nicovideo(sm10836754)|
+|&nicovideo(sm11252803)|&nicovideo(sm11392455)|
+|&nicovideo(sm11681837)|&nicovideo(sm11849124)|
+|&nicovideo(sm12474584)|&nicovideo(http://www.nicovideo.jp/watch/nm12914299)|
+|&nicovideo(sm13451521)|&nicovideo(sm13649069)|
+|&nicovideo(sm13943825)|&nicovideo(http://www.nicovideo.jp/watch/nm14161559)|
+|&nicovideo(sm14207234)|&nicovideo(http://www.nicovideo.jp/watch/nm14222611)|
+|&nicovideo(sm14310042)|&nicovideo(sm14351665)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm14427053)|&nicovideo(sm14567458)|
+|&nicovideo(sm14607620)|&nicovideo(sm14671867)|
+|&nicovideo(sm14672127)|&nicovideo(sm14803488)|
+|&nicovideo(sm14807514)|&nicovideo(sm14846358)|
+|&nicovideo(sm14871172)|&nicovideo(sm15135238)|
+|&nicovideo(sm15157283)|&nicovideo(sm15278729)|
+|&nicovideo(sm15408845)|&nicovideo(sm15467749)|
+|&nicovideo(sm15477453)|&nicovideo(sm15745278)|
+|&nicovideo(sm15873544)|
+
+**コメント
+- 追加有り難う！この人好きだー！  -- 名無しさん  (2011-09-28 19:48:35)
+- ついに蝶夜さんのページができた!!おめでとうございます!  -- 冬日和  (2011-09-28 19:58:03)
+- おおぉお!!蝶夜さんのﾍﾟｰｼﾞ!!　おめでとうございます!!  -- ｼﾝ  (2011-09-28 20:07:25)
+- 蝶夜さん凄い！//おめでとうございます～～～ﾂ！///  -- 蒼恋  (2011-09-28 20:45:05)
+- 蝶夜さん、ついった消えてるのか…。  -- 名無しさん  (2013-05-10 06:39:31)
+- 蝶夜さん・・・。  -- 名無しさん  (2013-06-08 11:14:39)
+//- ギャルで頭が沸いているから迷惑行為を脳筋のくろずみとしつづける二股かけられたの人のせいにしてきた迷惑な人  -- 名無しさん  (2014-11-03 07:04:38)
+//- ずっと迷惑行為をし続ける事が出来る無神経さが、AOもそうだけど頭が沸いていると思う。キチガイ。  -- 名無しさん  (2014-11-03 07:05:44)
+//- ただコラボしているだけで道具としてしか接して無いのに嘘信じれるってキチガイだよね。  -- 名無しさん  (2014-11-03 07:08:47)
+//- 晒し板にいれて煽ったサリシノハラとか歌ったキチガイキモヲもそうだけど初めから嫌われているのわからないんだ笑  -- 名無しさん  (2014-11-03 07:10:21)
+//- キチガイギャルで嫌いで煽っているのに嫌われている自覚が無い馬鹿。脳筋くろずみと一緒で頭が沸いているから迷惑行為なのをわかって無い。  -- 名無しさん  (2014-11-03 21:02:24)
+//- キチガイ気持ち悪いから、活動し無いで。  -- 名無しさん  (2014-11-03 22:37:05)
+//- あんたと違って忙しいから。ギャルに関わりたく無いからシツコイ真似し無いで。  -- 名無しさん  (2014-11-03 22:38:11)
+#comment()

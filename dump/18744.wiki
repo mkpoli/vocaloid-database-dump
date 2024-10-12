@@ -1,0 +1,38 @@
+#right(){&furigana(いちくらりみっくすしゅう)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&ref(http://karent.jp/npdca/869_20110929222005_0240_0240.jpg)
+
+&nicovideo(sm15885979)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){イチクラリミックス集「マッシュルームマザー」}|CENTER:[[イチクラリミックス集「スプートニク少年少女」]]|
+
+|&bold(){[[市蔵]]}|[[ピノキオピー]]|
+
+発売：2011年10月21日
+価格：￥600 / 1曲￥150
+流通：配信
+レーベル：KarenT
+ジャケットイラスト：[[ピノキオピー]]
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/id473591715]]}|
+
+**CD紹介
+-市蔵氏による、ピノキオピーの楽曲のリミックス集。
+-猫村いろはバージョンが発表されていた「ポンコツ天使」のリミックス以外は、初公開のリミックスとなる。
+-KarenTでの雪歌ユフ（UTAU）の楽曲配信は初となる。
+
+**曲目
++[[マッシュルームマザー]] itikuraRemix （feat. 雪歌ユフ）
++[[ポンコツ天使]] itikuraRemix （feat. 巡音ルカ）
++[[からっぽのまにまに]] itikuraRemix （feat. SF-A2 開発コード miki）
++[[どうしてちゃんのテーマ]] itikuraRemix （feat. 巡音ルカ、SF-S2 開発コード miki、雪歌ユフ）
+
+**リンク
+-[[KarenT：「イチクラリミックス集「マッシュルームマザー」」>>http://karent.jp/album/869]]
+
+**コメント
+#comment()

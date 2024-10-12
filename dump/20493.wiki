@@ -1,0 +1,34 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/999_20120127180524_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Plankton}|CENTER:[[STARLiT－心の居場所－>STARLiT－心の居場所－/CD]]|
+
+|&bold(){[[ルナ]]}|逸夏|'t|ソラ|
+
+発売：2012年2月8日
+価格：￥600 / 1曲￥150
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：[[akkie>>http://piapro.jp/akkie]]
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/plankton/id500035570]]}|
+
+**CD紹介
+-海外ボカロP・ルナ氏の5曲入り配信ミニアルバム。
+-この世界は「まるで空気が全部水のような、でも息のできる物質でできた透明な空間」です。治癒曲とあったので、傷ついたり、やっぱり大切な人を失ったりして優しい曲を聞きたい人に共感してもらえるような内容にしました。（作品概要より）
+-KARENTレーベルよりダウンロード販売が行われている。KARENTでの日本国外のアーティストの楽曲配信は初の試み。
+
+**曲目
++[[Plankton>Plankton～浮遊生物]] （feat. 初音ミク）
++Plankton -instrument-
++[[螢夢]] （feat. 初音ミク）
++螢夢 （二胡メロVer.）
++[[mon,mon,Honey>mon,mon Honey]] （feat. 初音ミク）
+
+**リンク
+-[[KARENT：「Plankton」>>http://karent.jp/album/999]]
+-[[ピアプロ>>http://piapro.jp/hanayoh]]
+
+**コメント
+#comment()

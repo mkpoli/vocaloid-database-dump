@@ -1,0 +1,44 @@
+#right(){&furigana(Rhythmism)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm16048972)|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Mr.Music>Mr.Music/CD]]|CENTER:&bold(){Rhythmism}|CENTER:[[HALO>HALO/CD]]|
+
+|&bold(){[[れるりり]]}|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|CENTER:2011年10月30日|CENTER:2011年11月19日|
+|価格|CENTER:￥1,000（税込）|CENTER:￥1,500（税込）|
+|サークル|CENTER:三重谷 Visual Works|CENTER:至高の当社比|
+
+**CD紹介
+CD名：『&u(){Rhythmism}』
+-&b(){当社比P} こと れるりり氏 の 3rd album。
+-タイトルは Rhythm（リズム）＋ism（～主義）＝リズム主義 という意味。
+-その名の通り、ソウル、ファンク、ジャズ、ラテン、ハウス、ロックなどの様々なリズムを取り入れた、色鮮やかな踊れるポップチューンに仕上がっている。
+-本作では、ミク・リン・レン・ルカに加えて、新たに GUMI（VOCALOID3）迎えた7種を使用。
+-先行リリースされた「[[雨が降って。]]」「[[ずっとこのまま]]」、リミックス・リアレンジされた既存曲など、全10曲を収録。
+-ジャケットイラストは ちま氏 が手掛ける。
+-VOCALOID PARADISE 6（ボーパラ6） にて先行リリース。その後、 THE VOC@LOiD M@STER 18（ボーマス18） にて正式リリース。
+
+**曲目
++Rhythmism　&color(red){New!}
++Dancing男子！～Latin House Remix～
++[[JOYRIDE>JOYRIDE/れるりり]] ～Rhythmism Ver.～
++PassionFruit
++[[雨が降って。]]
++[[お金がない]]　&color(red){New!}
++[[ずっとこのまま]]
++DICE　&color(red){New!}
++翼 ～Rhythmism Ver.～
++あの日のままで　&color(red){New!}
+
+//**リンク
+//-[[至高の当社比（作者のブログ）>>https://ameblo.jp/rerulili/]]
+
+**コメント
+#comment()

@@ -1,0 +1,246 @@
+※ルール改変に伴い、作者名の後ろに「feat.キャラクター名」となっている曲もありますが、ここでは省略しています。
+
+※2012年6月1日よりUGAの曲データは機種指定必須となりました。当Wikiでは「uga next」のデータをリンク先にしています。他機種についてはお手数ですが各自検索願います。
+
+#contents()
+----
+|[[UGA歌手名順【あ】>カラオケ配信曲一覧/UGA歌手名順【あ】]]|[[UGA歌手名順【か】>カラオケ配信曲一覧/UGA歌手名順【か】]]|[[UGA歌手名順【さ】>カラオケ配信曲一覧/UGA歌手名順【さ】]]|[[UGA歌手名順【た】>カラオケ配信曲一覧/UGA歌手名順【た】]]|[[UGA歌手名順【な】>カラオケ配信曲一覧/UGA歌手名順【な】]]|[[UGA歌手名順【は】>カラオケ配信曲一覧/UGA歌手名順【は】]]|-|[[UGA歌手名順【や】>カラオケ配信曲一覧/UGA歌手名順【や】]]|[[UGA歌手名順【ら】>カラオケ配信曲一覧/UGA歌手名順【ら】]]|[[UGA歌手名順【わ】>カラオケ配信曲一覧/UGA歌手名順【わ】]]|
+
+曲名で調べたい場合はこちら：
+|[[UGA曲名順【あ】>カラオケ配信曲一覧/UGA曲名順【あ】]]|[[UGA曲名順【か】>カラオケ配信曲一覧/UGA曲名順【か】]]|[[UGA曲名順【さ】>カラオケ配信曲一覧/UGA曲名順【さ】]]|[[UGA曲名順【た】>カラオケ配信曲一覧/UGA曲名順【た】]]|[[UGA曲名順【な】>カラオケ配信曲一覧/UGA曲名順【な】]]|[[UGA曲名順【は】>カラオケ配信曲一覧/UGA曲名順【は】]]|[[UGA曲名順【ま】>カラオケ配信曲一覧/UGA曲名順【ま】]]|[[UGA曲名順【や】>カラオケ配信曲一覧/UGA曲名順【や】]]|[[UGA曲名順【ら】>カラオケ配信曲一覧/UGA曲名順【ら】]]|[[UGA曲名順【わ】>カラオケ配信曲一覧/UGA曲名順【わ】]]|
+
+JOYSOUND曲名順はこちら：
+|[[JOY曲名順【あ】>カラオケ配信曲一覧/JOYSOUND曲名順【あ】]]|[[JOY曲名順【か】>カラオケ配信曲一覧/JOYSOUND曲名順【か】]]|[[JOY曲名順【さ】>カラオケ配信曲一覧/JOYSOUND曲名順【さ】]]|[[JOY曲名順【た】>カラオケ配信曲一覧/JOYSOUND曲名順【た】]]|[[JOY曲名順【な】>カラオケ配信曲一覧/JOYSOUND曲名順【な】]]|[[JOY曲名順【は】>カラオケ配信曲一覧/JOYSOUND曲名順【は】]]|[[JOY曲名順【ま】>カラオケ配信曲一覧/JOYSOUND曲名順【ま】]]|[[JOY曲名順【や】>カラオケ配信曲一覧/JOYSOUND曲名順【や】]]|[[JOY曲名順【ら】>カラオケ配信曲一覧/JOYSOUND曲名順【ら】]]|[[JOY曲名順【わ】>カラオケ配信曲一覧/JOYSOUND曲名順【わ】]]|
+
+DAM曲名順はこちら：
+|[[DAM曲名順【あ】>カラオケ配信曲一覧/DAM曲名順【あ】]]|[[DAM曲名順【か】>カラオケ配信曲一覧/DAM曲名順【か】]]|[[DAM曲名順【さ】>カラオケ配信曲一覧/DAM曲名順【さ】]]|[[DAM曲名順【た】>カラオケ配信曲一覧/DAM曲名順【た】]]|[[DAM曲名順【な】>カラオケ配信曲一覧/DAM曲名順【な】]]|[[DAM曲名順【は】>カラオケ配信曲一覧/DAM曲名順【は】]]|[[DAM曲名順【ま】>カラオケ配信曲一覧/DAM曲名順【ま】]]|[[DAM曲名順【や】>カラオケ配信曲一覧/DAM曲名順【や】]]|[[DAM曲名順【ら】>カラオケ配信曲一覧/DAM曲名順【ら】]]|[[DAM曲名順【わ】>カラオケ配信曲一覧/DAM曲名順【わ】]]|
+
+&font(b,120%){[[BACK（カラオケ情報総合インデックスページへ戻る）>カラオケ配信曲一覧]]}
+
+*UGA配信中・配信決定済
+|歌手名|曲名|曲番号|配信予定|
+|>|>|>|【ま】|
+|[[マーメイドP]]|[[鬼姫と花嵐]]|[[6216-36>>http://joysound.biz/search/songs/detail/id/801125/machine/14]]|配信中●|
+|[[Maki>偽善者P]]|[[偽善正義]]|[[6205-04>>http://joysound.biz/search/songs/detail/id/720693/machine/14]]|配信中●|
+|~|[[言葉欠乏]]|[[6212-50>>http://joysound.biz/search/songs/detail/id/753593/machine/14]]|配信中●|
+|~|[[正義粉砕]]|[[6205-05>>http://joysound.biz/search/songs/detail/id/720695/machine/14]]|配信中●|
+|真屑/[[あっ!key]]|[[桃色日和]]|[[6210-54>>http://joysound.biz/search/songs/detail/id/243585/machine/14]]|配信中●|
+|[[まこ猫]]|[[チョッピリゲンガー]]|[[6207-82>>http://joysound.biz/search/songs/detail/id/727857/machine/14]]|配信中●|
+|~|[[わたしライス定食たべにきた]]|[[6207-81>>http://joysound.biz/search/songs/detail/id/727858/machine/14]]|配信中●|
+|[[まこ猫]]/けんたろうP|[[ピー★ス★ピーカー]]|[[6208-44>>http://joysound.biz/search/songs/detail/id/729235/machine/14]]|配信中●|
+|[[mstk]]|[[HIATUS]]|[[6219-18>>http://joysound.biz/search/songs/detail/id/813010/machine/14]]|配信中●|
+|[[まだ仔]]|[[思春期・センセーション>思春期♥センセーション]]|[[6204-53>>http://joysound.biz/search/songs/detail/id/686873/machine/14]]|配信中●|
+|~|[[フラッパーレディ]]|[[6210-75>>http://joysound.biz/search/songs/detail/id/744967/machine/14]]|配信中●|
+|~|[[恋愛疾患]]|[[6201-37>>http://joysound.biz/search/songs/detail/id/647868/machine/14]]|配信中●|
+|[[まちす]]|[[アクアラボ循環少年]]|[[6220-70>>http://joysound.biz/search/songs/detail/id/815061/machine/14]]|配信中●|
+|~|[[ゾンビ・ファミーユ]]|[[6216-10>>http://joysound.biz/search/songs/detail/id/301353/machine/14]]|配信中●|
+|[[マチゲリータ>マチゲリータP]]|[[襟首]]|[[6218-23>>http://joysound.biz/search/songs/detail/id/809744/machine/14]]|配信中●|
+|~|[[硝子ノ華]]|[[6231-72>>http://joysound.biz/search/songs/detail/id/833267/machine/14]]|配信中●|
+|~|[[逆罪行進曲]]|[[6218-17>>http://joysound.biz/search/songs/detail/id/807024/machine/14]]|配信中●|
+|~|[[キャンディアディクトフルコォス]]|[[6218-18>>http://joysound.biz/search/songs/detail/id/807023/machine/14]]|配信中●|
+|~|[[サンセットラブスーサイド]]|[[6218-25>>http://joysound.biz/search/songs/detail/id/809742/machine/14]]|配信中●|
+|~|[[淑女ベリィの作り方。]]|[[6218-22>>http://joysound.biz/search/songs/detail/id/809745/machine/14]]|配信中●|
+|~|[[崩壊歌姫-disruptive diva-]]|[[6218-21>>http://joysound.biz/search/songs/detail/id/809746/machine/14]]|配信中●|
+|~|[[ドリィムメルティックハロウィン]]|[[6231-90>>http://joysound.biz/search/songs/detail/id/810352/machine/14]]|配信中●|
+|~|[[ロッテンガールグロテスクロマンス]]|[[6218-24>>http://joysound.biz/search/songs/detail/id/809743/machine/14]]|配信中●|
+|[[Matica]]|[[少女は夜と鮮やかに]]|[[6236-12>>http://joysound.biz/search/songs/detail/id/848617/machine/14]]|配信中●|
+|[[まふまふ]]|[[仇返しシンドローム]]|[[6211-85>>http://joysound.biz/search/songs/detail/id/748972/machine/14]]|配信中●|
+|~|[[仇返しシンドローム《本人映像》>仇返しシンドローム]]|[[6830-39>>http://joysound.biz/search/songs/detail/id/749527/machine/14]]|配信中●|
+|~|[[かくしごと]]|[[6220-11>>http://joysound.biz/search/songs/detail/id/815770/machine/14]]|配信中●|
+|~|カラクリ遺伝子脳|[[6213-26>>http://joysound.biz/search/songs/detail/id/755362/machine/14]]|配信中●|
+|~|[[戯曲とデフォルメ都市]]|[[6235-83>>http://joysound.biz/search/songs/detail/id/842982/machine/14]]|配信中●|
+|~|[[空想世界とオモチャの心臓]]|[[6235-84>>http://joysound.biz/search/songs/detail/id/842981/machine/14]]|配信中●|
+|~|[[ショパンと氷の白鍵]]|[[6237-80>>http://joysound.biz/search/songs/detail/id/861420/machine/14]]|配信中●|
+|~|[[すーぱーぬこわーるど]]|[[6224-33>>http://joysound.biz/search/songs/detail/id/822778/machine/14]]|配信中●|
+|~|[[ハートの後味]]|[[6238-45>>http://joysound.biz/search/songs/detail/id/906941/machine/14]]|配信中●|
+|~|[[ヤクビョウガミ]]|[[6220-31>>http://joysound.biz/search/songs/detail/id/815768/machine/14]]|配信中●|
+|~|[[夕暮れ蝉日記]]|[[6210-68>>http://joysound.biz/search/songs/detail/id/744594/machine/14]]|配信中●|
+|~|[[夕暮れ蝉日記《本人映像》>夕暮れ蝉日記]]|[[6829-81>>http://joysound.biz/search/songs/detail/id/745603/machine/14]]|配信中●|
+|~|[[夢花火>夢花火/まふまふ]]|[[6220-30>>http://joysound.biz/search/songs/detail/id/815771/machine/14]]|配信中●|
+|~|[[林檎花火とソーダの海]]|[[6235-82>>http://joysound.biz/search/songs/detail/id/842984/machine/14]]|配信中●|
+|~|[[緑青色の憂鬱]]|[[6213-39>>http://joysound.biz/search/songs/detail/id/755647/machine/14]]|配信中●|
+|~|[[緑青色の憂鬱《本人映像》>緑青色の憂鬱]]|[[6831-26>>http://joysound.biz/search/songs/detail/id/755848/machine/14]]|配信中●|
+|[[maya]]|[[月紅]]|[[6203-50>>http://joysound.biz/search/songs/detail/id/684784/machine/14]]|配信中●|
+|~|[[Synapse doll]]|[[6200-40>>http://joysound.biz/search/songs/detail/id/671514/machine/14]]|配信中●|
+|~|[[stainless moon]]|[[6202-41>>http://joysound.biz/search/songs/detail/id/670111/machine/14]]|配信中●|
+|~|[[snowdust memory]]|[[6203-56>>http://joysound.biz/search/songs/detail/id/673896/machine/14]]|配信中●|
+|~|[[snowdust memory《レコおと》>snowdust memory]]|[[7901-45>>http://joysound.biz/search/songs/detail/id/684895/machine/14]]|配信中●|
+|~|[[夏の風と、キミと私と麦わら帽子。]]|[[6202-42>>http://joysound.biz/search/songs/detail/id/670112/machine/14]]|配信中●|
+|~|[[fake or fate?]]|[[6202-43>>http://joysound.biz/search/songs/detail/id/670109/machine/14]]|配信中●|
+|~|[[messiah or desire]]|[[6200-40>>http://joysound.biz/search/songs/detail/id/671515/machine/14]]|配信中●|
+|~|[[Lilyzm Gold]]|[[6202-44>>http://joysound.biz/search/songs/detail/id/670110/machine/14]]|配信中●|
+|~|[[Lilyzm Gold《本人映像》>Lilyzm Gold]]|[[6825-17>>http://joysound.biz/search/songs/detail/id/671214/machine/14]]|配信中●|
+|~|[[Reminiscence of Garnet《レコおと》>Reminiscence of Garnet]]|[[7902-23>>http://joysound.biz/search/songs/detail/id/728726/machine/14]]|配信中●|
+|[[maya]]/[[hazyP]]|[[poetaster_and_singing_dolls_]]|[[6205-93>>http://joysound.biz/search/songs/detail/id/658572/machine/14]]|配信中●|
+|[[mayuko]]|[[前夜祭の行進]]|[[6204-01>>http://joysound.biz/search/songs/detail/id/673717/machine/14]]|配信中●|
+|[[marasy>まらしぃ]]|[[アマツキツネ]]|[[6218-96>>http://joysound.biz/search/songs/detail/id/813035/machine/14]]|配信中●|
+|~|踊ル猫曰ク|[[6241-07>>http://joysound.biz/search/songs/detail/id/906340/machine/14]]|配信中●|
+|~|[[cat's dance]]|[[6237-84>>http://joysound.biz/search/songs/detail/id/906341/machine/14]]|配信中●|
+|~|[[空想少女への恋手紙]]|[[6221-04>>http://joysound.biz/search/songs/detail/id/816651/machine/14]]|配信中●|
+|~|[[弧ギツネの乱]]|[[6218-94>>http://joysound.biz/search/songs/detail/id/813060/machine/14]]|配信中●|
+|~|[[月景色]]|[[6203-38>>http://joysound.biz/search/songs/detail/id/672536/machine/14]]|配信中●|
+|~|[[Pianissimo>pianissimo/まらしぃ]]|[[6219-22>>http://joysound.biz/search/songs/detail/id/813052/machine/14]]|配信中●|
+|~|[[夢、時々…]]|[[6220-09>>http://joysound.biz/search/songs/detail/id/813051/machine/14]]|配信中●|
+|[[まらしぃ]] & ビートまりお|[[カラフル88]]|[[6216-28>>http://joysound.biz/search/songs/detail/id/800894/machine/14]]|配信中●|
+|[[MARUDARUMA]]|[[青い奇跡]]|[[6210-89>>http://joysound.biz/search/songs/detail/id/745570/machine/14]]|配信中●|
+|~|[[金柑畑で会いましょう]]|[[6210-90>>http://joysound.biz/search/songs/detail/id/745567/machine/14]]|配信中●|
+|~|[[世界のゴミ捨て場]]|[[6210-91>>http://joysound.biz/search/songs/detail/id/745568/machine/14]]|配信中●|
+|~|[[ダイアトニック]]|[[6210-92>>http://joysound.biz/search/songs/detail/id/745565/machine/14]]|配信中●|
+|~|[[ニビョウカン]]|[[6210-93>>http://joysound.biz/search/songs/detail/id/745566/machine/14]]|配信中●|
+|~|[[星落ちる]]|[[6210-94>>http://joysound.biz/search/songs/detail/id/745569/machine/14]]|配信中●|
+|[[MARETU]]|[[うみたがり]]|[[6244-26>>http://joysound.biz/search/songs/detail/id/906936/machine/14]]|配信中●|
+|~|[[少女ケシゴム]]|[[6224-50>>http://joysound.biz/search/songs/detail/id/822795/machine/14]]|配信中●|
+|~|[[スヂ]]|[[6243-86>>http://joysound.biz/search/songs/detail/id/942726/machine/14]]|配信中●|
+|~|[[脳内革命ガール]]|[[6220-81>>http://joysound.biz/search/songs/detail/id/815048/machine/14]]|配信中●|
+|~|[[パケットヒーロー]]|[[6240-38>>http://joysound.biz/search/songs/detail/id/906935/machine/14]]|配信中●|
+|~|[[マインドブランド]]|[[6240-92>>http://joysound.biz/search/songs/detail/id/906937/machine/14]]|配信中●|
+|[[malo]]|[[未来の歌]]|[[6232-29>>http://joysound.biz/search/songs/detail/id/836179/machine/14]]|配信中●|
+|満身創痍|[[Demolition]]|[[6223-16>>http://joysound.biz/search/songs/detail/id/819813/machine/14]]|配信中●|
+|~|[[ヴァリエート#0>ヴァリエート＃0]]|[[6219-16>>http://joysound.biz/search/songs/detail/id/478588/machine/14]]|配信中●|
+|[[Man_boo]]|[[ウソとパレード]]|[[6206-02>>http://joysound.biz/search/songs/detail/id/723214/machine/14]]|配信中●|
+|>|>|>|【み】|
+|[[三重の人]]|追イシ想イシ刻|[[6215-77>>http://joysound.biz/search/songs/detail/id/800254/machine/14]]|配信中●|
+|~|[[狂愛散華]]|[[6215-78>>http://joysound.biz/search/songs/detail/id/800255/machine/14]]|配信中●|
+|~|[[愛毒ノ奴隷]]|[[6214-80>>http://joysound.biz/search/songs/detail/id/758754/machine/14]]|配信中●|
+|~|[[愛毒ノ奴隷《本人映像》>愛毒ノ奴隷]]|[[6831-66>>http://joysound.biz/search/songs/detail/id/297994/machine/14]]|配信中●|
+|みきーの([[みきとP>みきとP/作り手]]×[[keeno]])|[[kiss>kiss/みきーの]]|[[6222-18>>http://joysound.biz/search/songs/detail/id/816987/machine/14]]|配信中●|
+|[[ミキト(みきとP)>みきとP/作り手]]|[[いーあるふぁんくらぶ]]|[[6210-45>>http://joysound.biz/search/songs/detail/id/744157/machine/14]]|配信中●|
+|~|[[クノイチでも恋がしたい]]|[[6213-75>>http://joysound.biz/search/songs/detail/id/756448/machine/14]]|配信中●|
+|~|寒い夜だから・・・|[[6213-45>>http://joysound.biz/search/songs/detail/id/756036/machine/14]]|配信中●|
+|~|[[小夜子]]|[[6204-95>>http://joysound.biz/search/songs/detail/id/719886/machine/14]]|配信中●|
+|~|[[心臓デモクラシー]]|[[6210-47>>http://joysound.biz/search/songs/detail/id/744158/machine/14]]|配信中●|
+|~|[[チルダマチルダ]]|[[6206-61>>http://joysound.biz/search/songs/detail/id/726542/machine/14]]|配信中●|
+|~|[[僕は初音ミクとキスをした]]|[[6213-71>>http://joysound.biz/search/songs/detail/id/756447/machine/14]]|配信中●|
+|[[みきとP>みきとP/作り手]]|[[京都ダ菓子屋センソー]]|[[6227-98>>http://joysound.biz/search/songs/detail/id/829558/machine/14]]|配信中●|
+|~|[[39みゅーじっく!>39みゅーじっく！]]|[[6246-54>>http://joysound.biz/search/songs/detail/id/950343/machine/14]]|配信中●|
+|~|[[朱色の砂浜]]|[[6222-81>>http://joysound.biz/search/songs/detail/id/816995/machine/14]]|配信中●|
+|~|[[世田谷ナイトサファリ]]|[[6218-98>>http://joysound.biz/search/songs/detail/id/813008/machine/14]]|配信中●|
+|~|[[月陽-ツキアカリ-]]|[[6225-22>>http://joysound.biz/search/songs/detail/id/822866/machine/14]]|配信中●|
+|~|[[絆創膏]]|[[6222-88>>http://joysound.biz/search/songs/detail/id/816984/machine/14]]|配信中●|
+|~|[[まとい]]|[[6232-49>>http://joysound.biz/search/songs/detail/id/835312/machine/14]]|配信中●|
+|mikumix|[[LOL -lots of laugh-]]|[[6216-41>>http://joysound.biz/search/songs/detail/id/801573/machine/14]]|配信中●|
+|[[Mr.カウパーソン]]|[[てれびぞんび]]|[[6219-24>>http://joysound.biz/search/songs/detail/id/813030/machine/14]]|配信中●|
+|[[Mitchie M]]|[[愛Dee]]|[[6215-12>>http://joysound.biz/search/songs/detail/id/798325/machine/14]]|配信中●|
+|~|[[アイドルを咲かせ]]|[[6211-84>>http://joysound.biz/search/songs/detail/id/748850/machine/14]]|配信中●|
+|~|[[アゲアゲアゲイン]]|[[6215-72>>http://joysound.biz/search/songs/detail/id/800236/machine/14]]|配信中●|
+|~|[[イージーデンス]]|[[6208-27>>http://joysound.biz/search/songs/detail/id/730205/machine/14]]|配信中●|
+|~|シティー・ボーイ|[[6217-09>>http://joysound.biz/search/songs/detail/id/803301/machine/14]]|配信中●|
+|~|[[好き!雪!本気マジック>好き！雪！本気マジック]]|[[6218-70>>http://joysound.biz/search/songs/detail/id/811290/machine/14]]|配信中●|
+|~|[[Birthday Song for ミク]]|[[6209-50>>http://joysound.biz/search/songs/detail/id/734095/machine/14]]|配信中●|
+|~|[[ビバハピ]]|[[6214-85>>http://joysound.biz/search/songs/detail/id/797498/machine/14]]|配信中●|
+|~|[[FREELY TOMORROW]]|[[6203-46>>http://joysound.biz/search/songs/detail/id/673001/machine/14]]|配信中●|
+|[[minato（流星P）>流星P]]|朧月|[[6229-01>>http://joysound.biz/search/songs/detail/id/831267/machine/14]]|配信中●|
+|~|[[magnet]]|[[6205-06>>http://joysound.biz/search/songs/detail/id/643103/machine/14]]|配信中●|
+|[[MI8k>ナポリP]]|[[不完全な処遇]]|[[6236-15>>http://joysound.biz/search/songs/detail/id/844448/machine/14]]|配信中●|
+|[[宮沢もよよ]]|[[植物園>植物園/宮沢もよよ]]|[[6209-47>>http://joysound.biz/search/songs/detail/id/733274/machine/14]]|配信中●|
+|[[millstones]]|[[可能世界のロンド]]|[[6215-50>>http://joysound.biz/search/songs/detail/id/799503/machine/14]]|配信中●|
+|~|[[キップル・インダストリー]]|[[6215-51>>http://joysound.biz/search/songs/detail/id/799504/machine/14]]|配信中●|
+|~|[[五月少女]]|[[6215-52>>http://joysound.biz/search/songs/detail/id/799505/machine/14]]|配信中●|
+|~|[[セカイカタログ]]|[[6215-53>>http://joysound.biz/search/songs/detail/id/799506/machine/14]]|配信中●|
+|~|黄昏ホリック|[[6215-48>>http://joysound.biz/search/songs/detail/id/799510/machine/14]]|配信中●|
+|~|バイバイ、ブラックワールド|[[6215-54>>http://joysound.biz/search/songs/detail/id/799507/machine/14]]|配信中●|
+|~|[[未来紀元歴元年]]|[[6215-49>>http://joysound.biz/search/songs/detail/id/799509/machine/14]]|配信中●|
+|[[miro]]|[[トロイメライン]]|[[6228-27>>http://joysound.biz/search/songs/detail/id/829530/machine/14]]|配信中●|
+|>|>|>|【む】|
+|[[muhmue]]|[[愛脳サイノウ]]|[[6228-06>>http://joysound.biz/search/songs/detail/id/829551/machine/14]]|配信中●|
+|~|[[ケミカルエモーション]]|[[6203-36>>http://joysound.biz/search/songs/detail/id/673051/machine/14]]|配信中●|
+|~|[[天使のクレヨン]]|[[6203-35>>http://joysound.biz/search/songs/detail/id/673052/machine/14]]|配信中●|
+|~|[[鳥篭の中のマリア]]|[[6203-37>>http://joysound.biz/search/songs/detail/id/672407/machine/14]]|配信中●|
+|[[ムシP]]|[[感傷癖の神様]]|[[6220-95>>http://joysound.biz/search/songs/detail/id/813332/machine/14]]|配信中●|
+|~|[[変な子ね]]|[[6220-96>>http://joysound.biz/search/songs/detail/id/813331/machine/14]]|配信中●|
+|[[ムスカP(狐夢想)>ムスカP]]|[[嵐の予感!>嵐の予感！]]|[[6203-34>>http://joysound.biz/search/songs/detail/id/672510/machine/14]]|配信中●|
+|~|[[最初のクリスマス]]|[[6203-31>>http://joysound.biz/search/songs/detail/id/672511/machine/14]]|配信中●|
+|~|[[次代のドアを開け放て(Come Together)>次代のドアを開け放て（Come Together）]]|[[6203-33>>http://joysound.biz/search/songs/detail/id/672512/machine/14]]|配信中●|
+|~|[[虹(And My Bird Can Sing)>虹/ムスカP]]|[[6203-32>>http://joysound.biz/search/songs/detail/id/672513/machine/14]]|配信中●|
+|[[村人P]]|[[疑心暗鬼クエスト]]|[[6213-11>>http://joysound.biz/search/songs/detail/id/754765/machine/14]]|配信中●|
+|~|[[北18条]]|[[6227-78>>http://joysound.biz/search/songs/detail/id/829578/machine/14]]|配信中●|
+|~|[[くじらの街]]|[[6213-32>>http://joysound.biz/search/songs/detail/id/754409/machine/14]]|配信中●|
+|~|[[くじらの街《本人映像》>くじらの街]]|[[6831-07>>http://joysound.biz/search/songs/detail/id/754410/machine/14]]|配信中●|
+|~|[[K.L.M]]|[[6230-51>>http://joysound.biz/search/songs/detail/id/831423/machine/14]]|配信中●|
+|~|サンテンイチヨン|[[6208-62>>http://joysound.biz/search/songs/detail/id/730796/machine/14]]|配信中●|
+|~|[[しろくまダンス]]|[[6213-10>>http://joysound.biz/search/songs/detail/id/754766/machine/14]]|配信中●|
+|~|[[スイヘイリーベと僕の舟]]|[[6213-09>>http://joysound.biz/search/songs/detail/id/754767/machine/14]]|配信中●|
+|~|[[スイヘイリーベと僕の舟《本人映像》>スイヘイリーベと僕の舟]]|[[6831-30>>http://joysound.biz/search/songs/detail/id/756527/machine/14]]|配信中●|
+|~|[[だいじなともだち]]|[[6230-52>>http://joysound.biz/search/songs/detail/id/831429/machine/14]]|配信中●|
+|~|[[黄昏切符]]|[[6230-13>>http://joysound.biz/search/songs/detail/id/831427/machine/14]]|配信中●|
+|~|[[電波中毒]]|[[6205-49>>http://joysound.biz/search/songs/detail/id/720478/machine/14]]|配信中●|
+|~|[[電波中毒《本人映像》>電波中毒]]|[[6826-49>>http://joysound.biz/search/songs/detail/id/720512/machine/14]]|配信中●|
+|~|[[ナイトウォーカー]]|[[6228-26>>http://joysound.biz/search/songs/detail/id/829531/machine/14]]|配信中●|
+|~|[[ナキムシロボ]]|[[6221-59>>http://joysound.biz/search/songs/detail/id/816422/machine/14]]|配信中●|
+|~|[[人間方程式]]|[[6230-50>>http://joysound.biz/search/songs/detail/id/831425/machine/14]]|配信中●|
+|~|[[フラッシュバック・フィードバック]]|[[6228-22>>http://joysound.biz/search/songs/detail/id/829535/machine/14]]|配信中●|
+|~|[[真夜中のステップエンド]]|[[6213-07>>http://joysound.biz/search/songs/detail/id/754768/machine/14]]|配信中●|
+|~|野菜警備|[[6218-35>>http://joysound.biz/search/songs/detail/id/807035/machine/14]]|配信中●|
+|~|[[ラリホー]]|[[6213-08>>http://joysound.biz/search/songs/detail/id/754764/machine/14]]|配信中●|
+|[[無力P]]|[[Aspirin]]|[[6204-40>>http://joysound.biz/search/songs/detail/id/686605/machine/14]]|配信中●|
+|~|[[a balance]]|[[6201-84>>http://joysound.biz/search/songs/detail/id/668526/machine/14]]|配信中●|
+|~|[[If>If/無力P]]|[[6201-50>>http://joysound.biz/search/songs/detail/id/667864/machine/14]]|配信中●|
+|~|[[6th.]]|[[6201-85>>http://joysound.biz/search/songs/detail/id/668527/machine/14]]|配信中●|
+|~|[[Sacred Secret]]|[[6204-42>>http://joysound.biz/search/songs/detail/id/686607/machine/14]]|配信中●|
+|~|[[NEXT STAGE>NEXT STAGE/無力P]]|[[6204-43>>http://joysound.biz/search/songs/detail/id/686608/machine/14]]|配信中●|
+|~|[[Flightless Bird]]|[[6201-49>>http://joysound.biz/search/songs/detail/id/667865/machine/14]]|配信中●|
+|~|[[Brella]]|[[6201-86>>http://joysound.biz/search/songs/detail/id/668525/machine/14]]|配信中●|
+|>|>|>|【め】|
+|メーウ（作詞作曲：[[小林オニキス]]）|[[お別れ囃子]]|[[6205-32>>http://joysound.biz/search/songs/detail/id/221649/machine/14]]|配信中●|
+|MARiA（作詞作曲：[[Easy Pop]]）|[[Girls]]|[[6197-93>>http://joysound.biz/search/songs/detail/id/443715/machine/14]]|配信中●|
+|MARiA（作詞作曲：[[とくP]]）|[[COLOR>COLOR/とくP]]|[[6168-40>>http://joysound.biz/search/songs/detail/id/162658/machine/14]]|配信中●|
+|Megpoid the Music#|[[Maybe Maybe]]|[[6212-04>>http://joysound.biz/search/songs/detail/id/750002/machine/14]]|配信中●|
+|~|[[Maybe Maybe＜Megpoid the Music#＞《本人映像》>Maybe Maybe]]|[[6830-52>>http://joysound.biz/search/songs/detail/id/750005/machine/14]]|配信中●|
+|>|>|>|【も】|
+|[[もじゃ]]|[[妄想疾患■ガール]]|[[6235-08>>http://joysound.biz/search/songs/detail/id/846907/machine/14]]|配信中●|
+|[[mothy>悪ノP]]|[[［レコおと］悪ノ娘>悪ノ娘]]|[[7900-94>>http://joysound.biz/search/songs/detail/id/283063/machine/14]]|配信中●|
+|~|[[［レコおと］悪ノ召使>悪ノ召使]]|[[7900-95>>http://joysound.biz/search/songs/detail/id/283064/machine/14]]|配信中●|
+|~|[[七つの罪と罰]]|[[6234-77>>http://joysound.biz/search/songs/detail/id/847411/machine/14]]|配信中●|
+|~|[[ネメシスの銃口]]|[[6235-78>>http://joysound.biz/search/songs/detail/id/847420/machine/14]]|配信中●|
+|~|[[魔女ザルムホーファーの逃亡]]|[[6221-34>>http://joysound.biz/search/songs/detail/id/816471/machine/14]]|配信中●|
+|~|[[［レコおと］リグレットメッセージ>リグレットメッセージ]]|[[7900-96>>http://joysound.biz/search/songs/detail/id/283065/machine/14]]|配信中●|
+|[[もっふーP]]|[[吸血少女、夜を行く。]]|[[6208-64>>http://joysound.biz/search/songs/detail/id/729340/machine/14]]|配信中●|
+|~|[[センチメンタルラボラトリー>センチメンタル・ラボラトリー]]|[[6220-35>>http://joysound.biz/search/songs/detail/id/815054/machine/14]]|配信中●|
+|~|[[それでも僕は歌を唄う]]|[[6212-26>>http://joysound.biz/search/songs/detail/id/752198/machine/14]]|配信中●|
+|~|[[白昼夢とマリア]]|[[6208-76>>http://joysound.biz/search/songs/detail/id/729341/machine/14]]|配信中●|
+|~|[[獏と憂鬱]]|[[6227-73>>http://joysound.biz/search/songs/detail/id/829583/machine/14]]|配信中●|
+|~|[[非実在少年は眠らない]]|[[6208-40>>http://joysound.biz/search/songs/detail/id/729243/machine/14]]|配信中●|
+|~|[[ボクノショウメイ]]|[[6212-25>>http://joysound.biz/search/songs/detail/id/752199/machine/14]]|配信中●|
+|[[monaca:factory>10日P]]|[[AQUA>AQUA/10日P]]|[[6206-91>>http://joysound.biz/search/songs/detail/id/726816/machine/14]]|配信中●|
+|~|[[火星のタルト]]|[[6206-92>>http://joysound.biz/search/songs/detail/id/726818/machine/14]]|配信中●|
+|~|[[ココロカラ]]|[[6206-93>>http://joysound.biz/search/songs/detail/id/726817/machine/14]]|配信中●|
+|~|[[シーラカンス]]|[[6206-94>>http://joysound.biz/search/songs/detail/id/726819/machine/14]]|配信中●|
+|~|[[彗星]]|[[6203-97>>http://joysound.biz/search/songs/detail/id/685861/machine/14]]|配信中●|
+|~|[[彗星《レコおと》>彗星]]|[[7901-50>>http://joysound.biz/search/songs/detail/id/685734/machine/14]]|配信中●|
+|~|[[SPACE SHIP]]|[[6202-48>>http://joysound.biz/search/songs/detail/id/670862/machine/14]]|配信中●|
+|~|[[タウリン1000mg High Go!!]]|[[6202-28>>http://joysound.biz/search/songs/detail/id/669921/machine/14]]|配信中●|
+|~|[[プラチナ]]|[[6202-26>>http://joysound.biz/search/songs/detail/id/669920/machine/14]]|配信中●|
+|~|[[マーメイド>マーメイド/10日P]]|[[6202-27>>http://joysound.biz/search/songs/detail/id/669919/machine/14]]|配信中●|
+|~|[[マーメイド《本人映像》>マーメイド/10日P]]|[[6825-62>>http://joysound.biz/search/songs/detail/id/672802/machine/14]]|配信中●|
+|~|[[Leviathan《レコおと》>Leviathan]]|[[7902-24>>http://joysound.biz/search/songs/detail/id/728730/machine/14]]|配信中●|
+|~|[[ロゼッタ]]|[[6200-87>>http://joysound.biz/search/songs/detail/id/658895/machine/14]]|配信中●|
+|~|[[ロゼッタ《本人映像》>ロゼッタ]]|[[6863-12>>http://joysound.biz/search/songs/detail/id/668814/machine/14]]|配信中●|
+|~|[[ロゼッタ＜Megpoid the Music#＞《本人映像》>ロゼッタ]]|[[6830-56>>http://joysound.biz/search/songs/detail/id/750014/machine/14]]|配信中●|
+|[[monaca:factory>10日P]]（アレンジ：[[U-ske]]）|[[プラチナ -shinin'future mix->プラチナ]]|[[6202-49>>http://joysound.biz/search/songs/detail/id/670861/machine/14]]|配信中●|
+
+
+|[[UGA歌手名順【あ】>カラオケ配信曲一覧/UGA歌手名順【あ】]]|[[UGA歌手名順【か】>カラオケ配信曲一覧/UGA歌手名順【か】]]|[[UGA歌手名順【さ】>カラオケ配信曲一覧/UGA歌手名順【さ】]]|[[UGA歌手名順【た】>カラオケ配信曲一覧/UGA歌手名順【た】]]|[[UGA歌手名順【な】>カラオケ配信曲一覧/UGA歌手名順【な】]]|[[UGA歌手名順【は】>カラオケ配信曲一覧/UGA歌手名順【は】]]|-|[[UGA歌手名順【や】>カラオケ配信曲一覧/UGA歌手名順【や】]]|[[UGA歌手名順【ら】>カラオケ配信曲一覧/UGA歌手名順【ら】]]|[[UGA歌手名順【わ】>カラオケ配信曲一覧/UGA歌手名順【わ】]]|
+
+#co(){以下コピペ用
+|[[歌手名>P名]] (***>>アーティストページURL)|[[曲名]]|------|09年00月中旬以降|
+
+歌手名には各カラオケで登録されているページを、P名はwikiのページ名をお願いします。
+(同一名称が使われている場合P名だけでOKです。)
+***はUGAまたはDAMを入れてください。アーティストページは配信日決定されている曲が1曲以上必要になりますので、
+まだページがない場合()ごと省略して下さい。
+
+同一歌手名の曲に関しては五十音順です。(英語、記号もひらがな読みで)
+アーティストページの記載は任意でOK。(見づらいようでしたら消してください)
+}
+
+*DAM
+DAM歌手名順はこちら：
+|[[DAM歌手名順【あ】>カラオケ配信曲一覧/DAM歌手名順【あ】]]|[[DAM歌手名順【か】>カラオケ配信曲一覧/DAM歌手名順【か】]]|[[DAM歌手名順【さ】>カラオケ配信曲一覧/DAM歌手名順【さ】]]|[[DAM歌手名順【た】>カラオケ配信曲一覧/DAM歌手名順【た】]]|[[DAM歌手名順【な】>カラオケ配信曲一覧/DAM歌手名順【な】]]|[[DAM歌手名順【は】>カラオケ配信曲一覧/DAM歌手名順【は】]]|[[DAM歌手名順【ま】>カラオケ配信曲一覧/DAM歌手名順【ま】]]|[[DAM歌手名順【や】>カラオケ配信曲一覧/DAM歌手名順【や】]]|[[DAM歌手名順【ら】>カラオケ配信曲一覧/DAM歌手名順【ら】]]|[[DAM歌手名順【わ】>カラオケ配信曲一覧/DAM歌手名順【わ】]]|
+
+
+*JOYSOUND
+JOYSOUND歌手名順はこちら：
+|[[JOY歌手名順【あ】>カラオケ配信曲一覧/JOYSOUND歌手名順【あ】]]|[[JOY歌手名順【か】>カラオケ配信曲一覧/JOYSOUND歌手名順【か】]]|[[JOY歌手名順【さ】>カラオケ配信曲一覧/JOYSOUND歌手名順【さ】]]|[[JOY歌手名順【た】>カラオケ配信曲一覧/JOYSOUND歌手名順【た】]]|[[JOY歌手名順【な】>カラオケ配信曲一覧/JOYSOUND歌手名順【な】]]|[[JOY歌手名順【は】>カラオケ配信曲一覧/JOYSOUND歌手名順【は】]]|[[JOY歌手名順【ま】>カラオケ配信曲一覧/JOYSOUND歌手名順【ま】]]|[[JOY歌手名順【や】>カラオケ配信曲一覧/JOYSOUND歌手名順【や】]]|[[JOY歌手名順【ら】>カラオケ配信曲一覧/JOYSOUND歌手名順【ら】]]|[[JOY歌手名順【わ】>カラオケ配信曲一覧/JOYSOUND歌手名順【わ】]]|
+
+
+&font(b,120%){[[BACK（カラオケ情報総合インデックスページへ戻る）>カラオケ配信曲一覧]]}

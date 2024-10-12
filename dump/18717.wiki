@@ -1,0 +1,37 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#image(http://joshiken.xxxxxxxx.jp/image/jacket.jpg,http://joshiken.xxxxxxxx.jp/,title=JSL,blank)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm15912647)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){JSL}|CENTER:-|
+
+|[[みさくらP]]|[[ナイーヴP]]|[[灯下はこ、]]|[[破P]]|[[ねこぼーろ]]|
+|[[B-line]]|[[翁]]|[[BRBRP]]|[[ぬこ]]|[[osu]]|
+
+発売：2011年10月30日
+価格：￥1,000（税込）
+流通：即売
+サークル：フォーッ！男だらけの女子力宇宙開発研究所
+
+**CD紹介
+-新進気鋭のボカロP8名によるコンピレーションアルバム。
+-VOCALOID PARADICE 6（ボーパラ6）で初頒布後、THE VOC@LOiD M@STER 18（ボーマス18）で委託頒布。
+
+**曲目
++風花　/　作詞・作曲：みさくらP
++[[ルシッドドリーミング]]　/　作曲：くぇ（ナイーヴP）、作詞：灯下はこ、
++lp-csi.cngr　/　作詞・作曲：take（破P）
++[[ghoti salad>Ghoti Salad]]　/　作詞・作曲：ねこぼーろ
++Scale　/　作詞・作曲：B-line
++[[縫合]]　/　作詞・作曲：翁
++アンダンテ・カンタービレ　/　作曲：nuts_rock（BRBRP）、作詞：ぬこ
++[[Yes, the alpaca of seven animals has breakage later.]]　/　作詞・作曲：翁、nuts_rock（BRBRP）
++ひとりぼっち　/　作詞・作曲：osu
+
+**リンク
+-[[特設ページ>>http://joshiken.xxxxxxxx.jp/]]
+
+**コメント
+- すげぇ楽しみ！  -- 名無しさん  (2011-10-19 15:16:38)
+#comment()

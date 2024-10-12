@@ -1,0 +1,28 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="936" height="176" src="http://www.nicovideo.jp/thumb_mylist/29225062" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/29225062">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-作者名別表記：K.リンP、鏡音リン P
+-元々Vocaloidリスナーだったが、楽曲制作に走る。自称、超初心者・超最底辺らしい。
+-制作楽曲は、ショボいらしい。
+-使用Vocaloid：初音ミク、鏡音リン・レン、巡音ルカ、蒼姫ラピス、GUMI、IA、CUL　他
+
+**リンク
+-[[Muzie 「K.Rin P」のページ　>>http://www.muzie.ne.jp/artist/r018521/]]
+-[[ピアプロ 「K_RinPさん」のページ　>>http://piapro.jp/K_RinP]]
+
+**曲
+#list_by_tag(K.Rin P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(K.Rin PCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm16324652)|&nicovideo(http://www.nicovideo.jp/watch/sm16461809)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm17456002)|&nicovideo(http://www.nicovideo.jp/watch/sm19640636)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm19891187)|&nicovideo(http://www.nicovideo.jp/watch/sm20581023)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm21765548)|&nicovideo(http://www.nicovideo.jp/watch/sm19295478)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm23400125)|&nicovideo(http://www.nicovideo.jp/watch/sm23419930)|
+
+**コメント
+#comment()

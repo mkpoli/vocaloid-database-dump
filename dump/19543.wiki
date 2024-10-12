@@ -1,0 +1,39 @@
+#right(){&furigana(またおまえか)&furigana()【登録タグ:&tags() 】}
+//#image(http://www.tsurishi.info/img/mataoma.jpg,title=またお前か,blank) 
+
+&ref(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ5dLlWvnjMcnt_Y44W0fSixINs1kKe3cnvUcOTdrW5A8hMPleB&usqp=CAU,x=300,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm16200451)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[「イキたいの。」>「イキたいの。」/CD]]|CENTER:&bold(){またお前か}|CENTER:-|
+
+|&bold(){[[ぼいじゃあ]]}|
+
+|流通|CENTER:即売|CENTER:同人|CENTER:配信|
+|発売|CENTER:2011年11月19日|||
+|価格|CENTER:￥500|CENTER:￥700（税込）|CENTER:￥500（税込）|
+|サークル|>|CENTER:釣師||
+
+**CD紹介
+-ボーマス18にて頒布された、ぼいじゃあの2ndミニアルバム。
+-ボカロ殿堂入りした「拘束プレイ」の他、全6曲を収録。
+-BOOTHにてダウンロード販売が行われている。
+
+**曲目
++「もっと、してよ。」
++[[拘束プレイ]]
++踊れや踊れ！
++[[Re：爆砕プリン]]
++[[おれらのうた]]
++「イキたいの。」 Piano Instrumental Ver.
+
+**リンク
+-[[サークル『釣師』ウェブサイト >>http://www.tsurishi.info/]]
+-[[Twitter>>http://twitter.com/voyager2fat]]
+-[[BOOTH>>https://booth.pm/ja/items/875976]]
+
+**コメント
+- wwwwwwwwwww  -- 名無しさん  (2011-12-11 01:17:39)
+- カオスｗ  -- 名無しさん  (2011-12-11 07:50:27)
+#comment()

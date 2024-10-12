@@ -1,0 +1,31 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/975_20120104204729_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[止まった時を旅する少女>止まった時を旅する少女/CD]]|CENTER:&bold(){luminosity}|CENTER:[[NADIA]]|
+
+|&bold(){[[fatP]]}|timeflies|
+
+発売：2012年1月19日
+価格：￥150
+流通：配信
+レーベル：KARENT
+ジャケット：amyu
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/luminosity/id494819728]]}|
+
+**CD紹介
+-fatPのサークル「D.S.L (Digital Sound Laboratory)」の配信シングル。
+-”雪”をテーマに新規制作したキラキラ系シンセポップで参加してます。聴きやすさを重視してBGM的に軽く聴ける感じに仕上げました。
+-KARENTの「SNOW FESTIVAL」特集で配信された作品の1つ。
+
+**曲目
++luminosity （feat. 初音ミク&鏡音リン）
+
+**リンク
+-[[作者ブログ>>http://dslab.blog19.fc2.com/]]
+-[[KARENT：「luminosity」>>http://karent.jp/album/975]]
+-[[KARENT：「SNOW FESTIVAL」特集ページ>>http://karent.jp/special/snow12]]
+
+**コメント
+#comment()

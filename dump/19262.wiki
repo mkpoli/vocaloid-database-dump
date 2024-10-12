@@ -1,0 +1,12 @@
+#right(){【登録タグ:&tags()】}
+//↑タグ忘れ防止のための表示
+曖昧さ回避のためのページ
+----
+-[[meganee]]の曲
+--[[Eternity/meganee]]
+-[[六月P]]の曲
+--[[Eternity/六月P]]
+-[[picco]]の曲
+--[[ETERNITY/picco]]
+
+#include(曖昧さ回避の追加の仕方/告知)

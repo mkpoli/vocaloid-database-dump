@@ -1,0 +1,24 @@
+#right(){&furigana(はいかるP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/12090316" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/12090316">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-ボーカロイドのPであると同時に、「演奏してみた」の演じ手でもある。元はV系バンド「ねこ☆みみ」のベーシストだった。
+-また、メイドだったりコスプレイヤーだったりするが、本職は歯科医師。
+-ハンドルネームは「綺羅（キラ）」。P名であるバイカルPは、自作曲「[[母なるバイカル]]」からつけたもの。まだ普及していない模様。
+
+**リンク
+-[[PIAPRO 「綺羅（自称バイカルP）さん」のページ >>http://piapro.jp/killa]]
+-[[綺羅のキラ☆キラ生活 Princess-killa Project（作者ブログ）>>http://ameblo.jp/princess-killa/]]
+
+**曲
+#list_by_tag(バイカルP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+//**CD
+//#list_by_tag(バイカルPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm6588888)|&nicovideo(http://www.nicovideo.jp/watch/sm2353799)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm13253764)|
+
+**コメント
+#comment()

@@ -1,0 +1,39 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#amazon(B005OQG2SE)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm15459227)
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){VOCALOID tribute to THE BLUE HEARTS}|CENTER:-|
+
+|[[キャプテンミライ]]|[[ピノキオピー]]|[[くらげP]]|[[レントンP]]|[[baker]]|[[とみー]]|
+|[[鬱P]]|[[古川P]]|[[おにゅうP]]|[[とくP]]|[[すこっぷ]]||
+
+発売：2011年9月4日
+価格：￥2,000(税込)
+流通：即売
+レーベル：(株)トラフィック・エンタテインメント
+
+**CD紹介
+-11名のボカロPがTHE BLUE HEARTSの楽曲をカヴァーしたトリビュートアルバム。
+-THE VOC@LOiD M@STER 17（ボーマス17）で先行販売された。
+
+**曲目
++ダンスナンバー　/　キャプテンミライ
++歩く花　/　ピノキオピー
++リンダリンダ　/　くらげP
++皆殺しのメロディ　/　renton ujigawa feat.DODON
++1000のバイオリン　/　baker
++メリーゴーランド　/　T-POCKET
++夢　/　鬱P
++月の爆撃機　/　古川本舗
++ハンマー　/　おにゅう
++星をください　/　とく
++僕の右手　/　すこっぷ
+
+**リンク
+-[[公式サイト>>http://www.traff.co.jp/vocaloblue.html]]
+-[[Amazon>>http://www.amazon.co.jp/dp/B005OQG2SE]]
+
+**コメント
+- 豪華過ぎて吐いた  -- 名無しさん  (2011-11-27 10:17:25)
+#comment()

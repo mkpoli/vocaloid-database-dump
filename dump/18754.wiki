@@ -1,0 +1,17 @@
+#right(){【登録タグ:&tags()】}
+//↑タグ忘れ防止のための表示
+曖昧さ回避のためのページ
+----
+-[[Tripshots]]のCD
+--[[future/TripshotsCD]]
+-[[buzzG]]のCD
+--[[Future/buzzGCD]]
+
+-[[あルカP]]の曲
+--[[FUTURE/あルカP]]
+-[[ヤヅキ]]の曲
+--[[future/ヤヅキ]]
+-[[ジミーサムP]]の曲
+--[[Future/ジミーサムP]]
+
+#include(曖昧さ回避の追加の仕方/告知)

@@ -1,0 +1,31 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/884_20111011114120_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Ding-Dong}|CENTER:-|
+
+|&bold(){[[miksolodyne-ts]]}|[[effe]]|[[オサレP]]|
+
+発売：2011年10月24日
+価格：￥300 / 1曲￥150
+流通：配信
+レーベル：KarenT
+ジャケットイラスト：[[オサレP]]
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/ding-dong/id473627103]]}|
+
+**CD紹介
+-miksolodyne-ts氏の配信シングル。
+-「Ding-Dong」と、[[effe]]氏によるリミックスを収録している。
+-KarenTの「Cafeでのひととき」特集で配信された作品の1つ。
+
+**曲目
++[[Ding-Dong>Ding-Dong/miksolodyne-ts]] （feat. 巡音ルカ）
++Ding-Dong (Urban Highway Deep-Tech) Remix by [[effe]] （feat. 巡音ルカ）
+
+**リンク
+-[[KarenT：「Ding-Dong」>>http://karent.jp/album/884]]
+-[[KarenT：「Cafeでのひととき」特集ページ>>http://karent.jp/special/cafe11]]
+
+**コメント
+#comment()

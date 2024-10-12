@@ -1,0 +1,52 @@
+#right(){&furigana(わんおほvol05)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+
+&ref(http://karent.jp/npdca/827_20110901011026_0240_0240.jpg)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm15468763)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[孵化する冷笑]]|CENTER:&bold(){ワン★オポ！vol.05}|CENTER:[[8HIT>8HIT/CD]]|
+
+||CENTER:即売|CENTER:同人|CENTER:配信|
+|発売|2011年9月4日|CENTER:2011年9月|CENTER:2011年9月14日|
+|価格|CENTER:￥1,000|CENTER:￥1,470（税込）|CENTER:￥1,200 / 1曲￥150|
+|サークル|>|>|CENTER:Wonderful★opportunity!|
+
+|&bold(){[[マイナスP]]}|&bold(){[[じーざすP]]}|
+
+**CD紹介
+CD名：『&u(){ワン★オポ！vol.05}』
+-[[マイナスP]]、[[じーざすP]]による同人サークル「Wonderful★Opportunity!（ワンダフル☆オポチュニティ！）」の5thCDアルバム。
+-コンピレーションCD『[[kagamination]]』に収録された「Petabyte」、マイナスP初のレン曲「孵化する冷笑」などが収録された全11曲。
+-ジャケットイラストは[[SHARK]]（[[piapro>>http://piapro.jp/shark_a]]）氏。
+-2011年9月4日、THE VOC@LOiD M@STER 17（ボーマス17）にて頒布される。
+-とらのあなにて委託販売が、KarenTレーベルよりダウンロード販売が行われている。
+
+**曲目
++[[8HIT]] / じーざすP feat. 鏡音リン&レン
++[[マスタリング！]] / じーざすP feat. 鏡音リン&レン
++Petabyte ～1st mix～ / じーざすP feat. 鏡音リン&レン
++[[シークレットチャンネル]] / じーざすP feat. 鏡音レン
++[[センチメンタル>センチメンタル/じーざすP]] / じーざすP feat. 鏡音リン
++[[孵化する冷笑]] / マイナスP feat. 鏡音レン
++[[Ma'atの秤]] / マイナスP feat. 鏡音リン
++Z・D・S / マイナスP feat. 鏡音リン&レン
++[[Vale]] / マイナスP feat. 鏡音リン
++[[KALASU]] / マイナスP feat. 鏡音リン
++Petabyte ～2nd mix～ / じーざすP feat. 鏡音リン&レン
+
+**リンク
+-[[official website>>http://www.wan-opo.com/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0020/03/12/040020031231.html]]
+-[[KarenT：「ワン★オポ！vol.05」>>http://karent.jp/album/827]]
+
+**コメント
+- 欲しいっ！(*^o^*)  -- 名無しさん  (2011-08-31 11:09:33)
+- ボーマスで買ったッ！　こいつはすごかった　  -- 名無しさん  (2011-09-09 19:41:52)
+- ほしいですぅぅぅ！！！！！（＞＜）!  -- 名無しさん  (2011-12-31 17:54:58)
+- このアルバム買いてー（＞＜）金がねえー（＞＜）！！w  -- でんぷん  (2013-08-22 10:43:13)
+#comment()

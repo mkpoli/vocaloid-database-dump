@@ -1,0 +1,37 @@
+#right(){&furigana(ふるこんふP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+//|&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/25807488" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/25807488">【ニコニコ動画】</a></iframe>)|&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/11623422" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/11623422">【ニコニコ動画】</a></iframe>)|
+&nicovideo_mylist(<iframe width="312" height="176" src="https://ext.nicovideo.jp/thumb_mylist/35905634" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/35905634">【ニコニコ動画】製作物</a></iframe>)
+
+**特徴
+作り手名：『&u(){フルコンプP}』
+-アーティスト名は&b(){SoundArtRhythmix}。由来は昔やっていた一人バンドに由来している。
+--&bold(){PressureRain}の名義でも活動している。
+//-大きく分けてネタ曲が多く含まれているマイリストとボカロの声質の比較用のマイリストの2つがある。
+-日本版のみならず海外版のボカロまですべて所持しており、P名もこれに由来する。
+--実は、過去に発表した曲に由来する数多くのP名を持っている。
+
+**リンク
+//-[[ピアプロ>>https://piapro.jp/tamanacyuge]]
+//-[[muzie>>http://www.muzie.co.jp/artist/r005607]]
+//-[[zoome>>http://zoome.jp/PressureRain/]]
+//-[[Twitter>>https://twitter.com/pressurerain]]
+-[[ニコニコ>>https://www.nicovideo.jp/user/31980221]]
+-[[YouTube>>https://www.youtube.com/user/SoundArtRhythmix]]
+
+**曲
+#list_by_tag(フルコンプP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(フルコンプPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm12361587)|&nicovideo(sm12363579)|
+|&nicovideo(sm9711103)|&nicovideo(sm9862122)|
+|&nicovideo(sm14127477)|&nicovideo(sm11833809)|
+
+**コメント
+#comment()

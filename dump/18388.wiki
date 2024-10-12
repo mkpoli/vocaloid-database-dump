@@ -1,0 +1,14 @@
+#right(){【登録タグ:&tags()】}
+//↑タグ忘れ防止のための表示
+曖昧さ回避のためのページ
+----
+-[[うたたP]]の曲
+--[[Beautiful World/うたたP]]
+-[[一億円P]]の曲
+--[[beautiful world/一億円P]]
+-[[MJQ]]の曲
+--[[Beautiful World/MJQ]]
+-[[Muhsa>Muufe]]の曲
+--[[Beautiful World/Muufe]]
+
+#include(曖昧さ回避の追加の仕方/告知)

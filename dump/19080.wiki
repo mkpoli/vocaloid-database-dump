@@ -1,0 +1,32 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://img.toranoana.jp/img/04/0030/00/93/040030009320-1.gif)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[ra*on]]|CENTER:&bold(){humming}|CENTER:[[Flow>Flow/CD]]|
+
+|&bold(){[[oOらいかOo]]}|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2011年9月18日||
+|価格|CENTER:￥500|CENTER:￥750（税込）|
+|サークル|>|CENTER:deraika|
+
+**CD紹介
+-未発表曲1曲、及び既存曲のアレンジを含む6曲入り。
+-ボーカロイドファンタジア2にて初頒布が行われた。
+-とらのあなで委託販売が行われていた。
+
+**曲目
++[[愛しのSummerDays]]
++[[ハミングバード>ハミングバード/oOらいかOo]]
++interlude みずたまりんれん
++[[colored>colored/oOらいかOo]]
++こっち向いてよ
++[[ハミングバード>ハミングバード/oOらいかOo]] -humming mix-
+
+**リンク
+-[[作者blog>>http://ooraikaoo.info/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/00/93/040030009320.html]]
+
+**コメント
+#comment()

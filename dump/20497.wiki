@@ -1,0 +1,49 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1571_20140729202605_0280_0280.jpg)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm16792771)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Honey Rabbits]]|CENTER:&bold(){Chocolat bear}|CENTER:[[Alice knockin'on Hell's Door]]|
+
+|&bold(){[[苺ミルクをぶっかけたら殺す。]]}|[[夜宵]]|[[iXima]]|
+
+|流通|CENTER:即売|CENTER:同人|CENTER:配信|
+|発売|>|CENTER:2012年2月5日|CENTER:2014年8月27日|
+|価格|CENTER:￥1,000|CENTER:￥1,500（税込）|CENTER:￥1,500|
+|サークル|>|CENTER:アストロノーツ||
+
+**CD紹介
+-苺ミルクをぶっかけたら殺す。 こと わか氏 の 3rd album。
+-ついに本性を現したわかのV系節！謎の呪文を奏でるエレクトロニカ。アップテンポかつメロディアスな楽曲のオンパレード！！全11曲を収録。
+-悪天りん氏・[[柾見ちえ]]氏・[[夜宵]]氏・旋花梨音氏・[[市ノ瀬雪乃]]氏・有識氏 総勢6人の絵師による、豪華イラスト集風12Pブックレット付き。
+-ジャケットイラストは [[iXima]]氏 が手掛ける。
+-THE VOC@LOiD M@STER 19（ボーマス19） にてリリース。
+-同人ショップにて委託販売、KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++カレーが食べたい（SE）
++[[未来への翼]]
++[[Eat me out!]]
++[[うぃんたー☆うぃんたー]]
++桜散リケル、君恋シ
++[[MidnightPumpkin]]
++[[赤い靴]]
++[[Chocolat bear]]
++[[ホワイトルーム>>ホワイトルーム/苺ミルクをぶっかけたら殺す。]]
++[[No more St.Valentine’s Day]]
++[[Anti X'mas Superstar]]
+#region(close,･･･and more.)
+12.Chocolat bear （feat. 初音ミク）
+13.Anti X'mas Superstar （feat. CUL）
+14.[[阿修羅修羅修羅]] （feat. 初音ミク）
+#endregion
+
+**リンク
+-[[特設ページ>>http://astronaut39.web.fc2.com/cb.htm]]
+-[[作者ブログ>>http://ameblo.jp/lunagyokuto/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/02/39/040030023946.html]]
+-[[KARENT：「Chocolat bear」>>http://karent.jp/album/1571]]
+
+**コメント
+#comment()

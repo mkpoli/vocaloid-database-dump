@@ -1,0 +1,84 @@
+#right(){&furigana(TrueinRubbish)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm14623804)|
+作詞：[[uota]]
+作曲：[[もふてゐ]]
+編曲：[[もふてゐ]]
+唄：[[GUMI>Megpoid]]
+
+**曲紹介
+>&bold(){全身全霊の恋の歌。}
+曲名：『&u(){True in Rubbish}』(&u(){とぅるー　いん　らびっしゅ})
+-もふてゐ氏 の8作目。
+-目指したものはきらきらテクノ。出来上がりは･･･？（作者コメ転載）
+-歌詞を PIAPRO で公募した結果、 uota氏 の作品を採用。イラストは あぎりんぱ氏 が手掛ける。
+-「[[ぼからん#213>>http://www.nicovideo.jp/watch/sm16044017]]」のEDに採用。
+
+**歌詞
+
+たそがれ色に全部染まる
+twilight 公園へ向かう
+大好きなきみと手つなげば
+はっきりと鼓動が高鳴る
+
+ため息つくのを　ずっときみのせいにしてたんだ
+今なら言えるよきっと　私は恋してるから！
+
+掃きだめに True, Yes!　Keep on Callin' You
+恨み・心中　猫に『今晩は』
+I wanna be "No Cry, No 片想い"
+嘘も for benefit, "You're A Liar"
+
+涙目の Blue, No!　I wanna believe in you
+不意に Cute, So 寝込む？ こんなんじゃ！
+I'm gonna Sing 黒い世界透過して
+For Later 晴れた夜から･･･
+
+大切なことを全部話す
+turn light 覚悟はできた
+大好きなきみと目合わせば
+ゆっくりと時間が転がる
+
+駆け引きするのも　ずっときみのせいにしてたんだ
+今なら訊けるよだって　私は本気なんだから！
+
+掃きだめに True, Yes!　Keep on Callin' You
+恨み・心中　猫に『今晩は』
+I wanna be "No Cry, No 片想い"
+嘘も for benefit, "You're A Liar"
+
+涙目の Blue, No!　I wanna believe in you
+不意に Cute, So 寝込む？ こんなんじゃ！
+I'm gonna Sing 黒い世界透過して
+For Later 晴れた夜から･･･
+
+今夜流れ星を　ひとつずつきみと数え
+こぼれ落ちた月のかけら　手のひらで掬いあげた
+熱い身体　熱い涙　その両手で受けとめて！
+
+閉じた眸（ひとみ）に Kiss　ずっと Fall in Love
+きみを信じる　ねぇ Hold me 今晩は
+I'm gonna Hear そう　もっと近づいて 
+Forever and more take me higher
+
+掃きだめに True, Yes!　Keep on Callin' You
+恨み・心中　猫に『今晩は』
+I wanna be "No Cry, No 片想い"
+命懸けの恋　だから･･･
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+**コメント
+- いいな、これ！  -- 名無しさん  (2011-11-01 21:16:43)
+- 曲も歌詞もイラストも全部大好きや～  -- 名無しさん  (2011-12-16 01:09:07)
+- 歌詞おもしろいです！  -- mizuki  (2012-02-04 04:03:18)
+#comment()
+
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)

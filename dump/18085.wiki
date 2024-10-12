@@ -1,0 +1,32 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/801_20110810200007_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Count Down]]|CENTER:&bold(){Let's go！}|CENTER:[[若葉色D-i-s-k]]|
+
+|&bold(){[[あルカP]]}|
+
+発売：2011年8月31日
+価格：￥150
+流通：配信
+レーベル：KarenT
+ジャケットイラスト：[[あルカP（M@SATOSHI）>あルカP]]
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/lets-go!-single/id460019876]]}|
+
+**CD紹介
+-あルカPの1曲入り配信シングル。
+-誰にでも元気になれる曲を目指しました！
+-本作に収録されているのはミクバージョン。アルバム『[[若葉色D-i-s-k]]』にはメグッポイドバージョン、コンピレーションCD『[[開発コード★mikiり発車]]』にはmikiバージョンが収録されている。のちに動画でVOCALOID3 Megpoid Powerバージョンが公開された。
+-KarenTレーベルの初音ミク4周年記念特集で配信された作品の1つ。
+
+**曲目
++[[Let's go！>Let's go!]] （feat. 初音ミク）
+
+**リンク
+-[[作者ブログ>>http://masatoshi60.blog11.fc2.com/]]
+-[[KarenT：「Let's go！」>>http://karent.jp/album/801]]
+-[[KarenT：「初音ミク 4th Anniversary」特集ページ>>http://karent.jp/special/miku11]]
+
+**コメント
+#comment()

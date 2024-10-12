@@ -1,0 +1,43 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+
+&nicovideo(http://www.nicovideo.jp/watch/sm15389220)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Milky Way Fantasy}|CENTER:[[WhiteMoon BlackMoon]]|
+
+|&bold(){[[銀河方面P]]}|
+
+|流通|CENTER:即売|
+|発売|CENTER:2011年9月4日|
+|価格|CENTER:￥1,000|
+|サークル|CENTER:すたじお☆ぺぱーみんと|
+
+**CD紹介
+-銀河方面P の 1st album.
+-何年経っても聴いてみたい普遍的なポップスとは何か？と僕なりに試行錯誤して出た一つの形です！（作者コメ転載）
+-デビュー作の「[[好きだよっ]]」から、これまでにリリースされた曲＋新曲を加えた、全13曲を収録。
+-ジャケットイラストは 紅月あきら氏 が手掛ける。
+-会場特典として、50枚限定で KaoKao氏 による「ここにいてよ･･･」と「銀河の片隅で」の生グランドピアノインストCDをプレゼント。
+-THE VOC@LOiD M@STER 17（ボーマス17） にてリリース。
+
+**曲目
++Introduction　&color(red){NEW!!}
++[[SweetKiss♡BitterKiss]]
++[[太陽のカケラ]]
++[[微笑の衝動]]
++[[遠まわり]]
++[[Secret Silence]]　&color(red){NEW!!}
++[[好きだよっ☆>好きだよっ]]
++[[ここにいてよ・・・]]
++[[Just call your heart]]　&color(red){NEW!!}
++[[銀河の片隅で]]
++[[思い。胸に抱いて]]　&color(red){NEW!!}
++（Bonus Track）太陽のカケラ -Original Band Version-
++（Bonus Track）遠まわり -Original Band Version-
+
+**リンク
+-[[銀河方面P@神野貴志（たかぴ）のブログ（作者ブログ）>>http://ameblo.jp/studiopeppermint/]]
+
+**コメント
+- キラキラハイクオリティポップスの宝石箱でした  -- 名無しさん  (2012-01-26 20:55:23)
+#comment

@@ -1,0 +1,47 @@
+#right(){&furigana(BehindMyDaisy)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm15878226)|
+作詞：[[ゐつ]]
+作曲：[[かごめP]]
+編曲：[[かごめP]]
+ギター：[[T@TSUYA]]
+PV：[[シエル＊]]
+イラスト：[[Drahtpuppe]]
+唄：[[歌愛ユキ]]
+
+**曲紹介
+>&bold(){それは「幼さ」に背を向けること。}
+曲名：『&u(){Behind My Daisy}』(&u(){ビハインド マイ デイジー})
+-シングル『[[innocent girl E.P.]]』、アルバム『[[GUILTY? or NOT GUILTY?]]』収録曲。
+
+**歌詞
+（[[PIAPRO>>http://piapro.jp/t/M3uN]]より転載）
+
+It's time to say good-bye my dawn
+From here to where? you don't have to know
+As time goes by I leaving sun
+"Hello, hello" she said
+
+Upon sleepless night, here after morning star
+"Dawn" brings me quiet slow motion
+Rising high up sky, she blinks once and twice 
+Bright shine on my cheek, I close my eyes
+How far to catch those clouds?
+The place that some call "heaven"
+Maybe, should be...
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+**コメント
+- ユキの中で1番好きです///　  -- m  (2011-11-07 23:30:25)
+- かっこよすぎる！  -- ＿  (2016-11-11 21:51:01)
+#comment()
+
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)

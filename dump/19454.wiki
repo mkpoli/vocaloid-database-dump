@@ -1,0 +1,41 @@
+#right(){&furigana(けんはんむそうP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://ext.nicovideo.jp/thumb_mylist/46665862" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/46665862">【ニコニコ動画】%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB%E6%9B%B2</a></iframe>)
+
+**特徴
+作り手名：『&u(){鍵盤無双P}』（&u(){けんばんむそうP}）
+-テクニカルなピアノの旋律を奏でるボカロP。しかし実はマルチプレイヤーでもある。
+-作風はジャズロック、エレクトロニカ等、落ち着いた渋めの曲調が多いが演奏はあくまで攻め。
+-他の作家とのコラボレーションも多いのも特徴。
+
+**リンク
+-[[PIAPRO>>https://piapro.jp/takepiano7]]
+-[[Twitter>>https://twitter.com/takepiano7]]
+
+**曲
+#list_by_tag(鍵盤無双P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(鍵盤無双PCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**オリジナル曲
+|&nicovideo(sm11756727)|&nicovideo(sm11906602)|
+|&nicovideo(sm13868108)|&nicovideo(sm13217485)|
+|&nicovideo(sm13662100)|&nicovideo(sm13975932)|
+|&nicovideo(sm14330281)|&nicovideo(sm15226257)|
+|&nicovideo(sm16339539)|&nicovideo(sm16445308)|
+|&nicovideo(sm16923433)|>|
+
+**カバー・その他コラボ参加作品など
+|&nicovideo(sm14420566)|&nicovideo(sm14574435)|
+|&nicovideo(sm14646653)|&nicovideo(sm15027355)|
+|&nicovideo(sm15226220)|&nicovideo(sm16092611)|
+
+**コメント
+//- １げと！
+- ページ作成乙！  -- 名無しさん  (2011-12-13 00:14:20)
+- 乙！Ｎだいすきだあああぁ  -- 剥離  (2012-09-28 18:07:48)
+#comment()

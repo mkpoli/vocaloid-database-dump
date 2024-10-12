@@ -1,0 +1,49 @@
+#right(){&furigana(めかねてぃすこ)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186122009.jpg,x=300,y=300)
+
+&nicovideo(sm15108628)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[snow flakes]]|CENTER:&bold(){メガネディスコ}|CENTER:[[「honey」って呼んで？]]|
+
+|&bold(){[[あつぞうくん]]}|
+
+||CENTER:即売|CENTER:同人|
+|発売|CENTER:2011年8月13日|CENTER:-|
+|価格|CENTER:￥1,000（税込）|CENTER:-|
+|サークル|>|CENTER:atz records|
+
+**CD紹介
+>&bold(){合い言葉は「メガネ大好き！」}
+CD名：『&u(){メガネディスコ}』
+-あつぞうくん 待望の 2nd album.
+-新たに書き下ろした新作3曲を含む、全11曲を収録。
+-今回はサウンド／アレンジのテーマをディスコに絞り、ポップで愉快でかわいくてグルーヴィな1枚となっております。（動画説明文より転載）
+-CDを最後の最後まで聴くと、お別れの挨拶が聞けるという仕組み。
+-ジャケットイラストは あさひ氏 が手掛ける。
+-C80 ＆ THE VOC@LOiD M@STER 17（ボーマス17） にてリリース。
+
+**曲目
++[[眼鏡少女の涙]]　&color(red){NEW!}
++[[ザ・グルーヴィストガール・イン・ザ・ワールド>The Grooviest Girl In The World]]
++毎日が夏休み
++タイニーディスコ　&color(red){NEW!}
++メガネステッパー　&color(red){NEW!}
++[[進路変更]]
++[[サンプリング・ポップミュージック>SAMPLING POP MUSIC]]
++[[エキセントリック・ガールフレンド>エキセントリックガールフレンド]]
++[[メガネキューティ2.0>メガネ・キューティ]]
++[[渚にて]]
++さよならメガネキューティ
+
+//**リンク
+//-[[特設ページ>>http://meganedisco.atzrecords.com/]]
+//-[[作者ブログ>>http://blog.livedoor.jp/atsu3kun/]]
+
+**コメント
+#comment

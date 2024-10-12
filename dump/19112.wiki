@@ -1,0 +1,36 @@
+#right(){&furigana(はろーわーるど)&furigana()【登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186118384.jpg,x=300,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm14606041)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){● ハローワールド ○}|CENTER:[[旅の途中e.p.]]|
+
+|&bold(){[[オセロP]]}|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2011年6月12日|CENTER:2011年6月12日|
+|価格|CENTER:￥500|CENTER:￥750（税込）|
+|サークル|>|CENTER:リバーシブル's|
+
+**CD紹介
+-オセロP の 1st mini album 。
+-デビュー作の「[[● ハローワールド ○]]」など、全5曲＋αを収録。
+-ジャケットイラストは ミヤ氏 が手掛ける。
+-THE VOC@LOiD M@STER 16（ボーマス16） にてリリース。
+
+**曲目
++[[● ハローワールド ○]]
++[[くらくらバスルーム]]
++little little story
++[[星繋ぎロード]]
++[[クチナシ]]
++Ending
+
+**リンク
+-[[作者ブログ>>http://knit-othello.jugem.jp/]]
+-[[ホワイトキャンバス>>http://www.w-canvas.com/shopping/detail.php?item_id=48360]]
+
+**コメント
+#comment()

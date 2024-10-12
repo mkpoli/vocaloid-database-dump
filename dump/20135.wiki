@@ -1,0 +1,85 @@
+※ルール改変に伴い、作者名の後ろに「feat.キャラクター名」となっている曲もありますが、ここでは省略しています。
+
+#contents()
+----
+
+＊JOYSOUND
+＊＊配信中・配信決定済
+&font(b,120%){[[BACK（JOY曲名順【は】ページへ戻る）>カラオケ配信曲一覧/JOYSOUND曲名順【は】]]}
+
+&font(b,120%){[[BACK（カラオケ情報総合インデックスページへ戻る）>カラオケ配信曲一覧]]}
+//リクエスト決定分の曲の追加は月末集計直後に行うのではなく、正式発表後（毎月10日頃）にお願いします。
+
+|曲名|歌手名|曲番号|配信予定|
+|[[PAPER]]|[[tetsuo>くちばしP]]|[[102888>>http://joysound.com/ex/search/karaoke/_selSongNo_102888_song.htm]]|配信中●|
+|[[閉花宣言]]|[[40mP>40㍍P]]|[[686226>>https://www.joysound.com/web/search/song/574020]]|配信中●|
+|[[ヘイコウセン>ヘイコウセン/Diarays]]|[[Diarays]]|[[312537>>https://www.joysound.com/web/search/song/406957]]|配信中●|
+|[[ヘイセイカタクリズム]]|[[じっぷす]]|[[723431>>https://www.joysound.com/web/search/song/250595]]|配信中●|
+|[[平成時代の妖怪事情]]|[[606]]|[[733295>>http://joysound.com/ex/search/karaoke/_selSongNo_733295_song.htm]]|配信中●|
+|ヘイセイドミナンテーション|[[じっぷす]]|[[672320>>https://www.joysound.com/web/search/song/418358]]|配信中●|
+|HATE AND SEEK|[[FAULHEIT>ORYO]]|[[681776>>https://www.joysound.com/web/search/song/553884]]|配信中●|
+|[[Baby Maniacs]]|[[八王子P]]|[[727130>>https://www.joysound.com/web/search/song/256595]]|配信中●|
+|平凡な日常|[[150P]]|[[725272>>https://www.joysound.com/web/search/song/253846]]|配信中●|
+|[[ヘイムダルの角笛]]|[[KulfiQ]]|[[107297>>https://www.joysound.com/web/search/song/165312]]|配信中●|
+|[[平面説]]|[[niki]]|[[312876>>https://www.joysound.com/web/search/song/407260]]|配信中●|
+|[[ペイン・コントロール]]|[[綿飴]]|[[734011>>http://joysound.com/ex/search/karaoke/_selSongNo_734011_song.htm]]|配信中●|
+|[[Painter>Paintër]]|[[halyosy]]|[[685387>>https://www.joysound.com/web/search/song/569852]]|配信中●|
+|へし折れろ、君の心|[[家の裏でマンボウが死んでるP]]|[[31063>>http://joysound.com/ex/search/karaoke/_selSongNo_31063_song.htm]]|配信中●|
+|[[ベジタブル・ビューティフル]]|Dong|[[196041>>http://joysound.com/ex/search/karaoke/_selSongNo_196041_song.htm]]|配信中●|
+|[[へたくそユートピア政策]]|[[スズム]]|[[734093>>https://www.joysound.com/web/search/song/301526]]|配信中●|
+|[[ペダルハート]]|[[DECO*27]]|[[94966>>https://www.joysound.com/web/search/song/169724]]|配信中●|
+|[[ペダルをこぐこぐ]]|[[ツマー>ﾂﾏｰ]]|[[724606>>http://joysound.com/ex/search/karaoke/_selSongNo_724606_song.htm]]|配信中●|
+|[[ヘタ恋歌]]|[[れれれP]]|[[138604>>http://joysound.com/ex/search/karaoke/_selSongNo_138604_song.htm]]|配信中●|
+|ペットショップガール ～ハニワstyle～|[[HoneyWorks]]|[[736378>>https://www.joysound.com/web/search/song/402725]]|配信中●|
+|[[ヘッドフォンアクター]]|[[じん>自然の敵P]]|[[198671>>https://www.joysound.com/web/search/song/230741]]|配信中●|
+|[[ヘッドフォンアクター《レコおと》>ヘッドフォンアクター]]|[[じん>自然の敵P]]|[[665122>>https://www.joysound.com/web/search/song/230741]]|配信中●|
+|[[ヘッドフォンアクター]]|[[じん>自然の敵P]] ft. LiSA|[[681794>>https://www.joysound.com/web/search/song/484852]]|配信中●|
+|[[ベツニ君とキライちゃん]]|[[石風呂]]|[[147438>>http://joysound.com/ex/search/karaoke/_selSongNo_147438_song.htm]]|配信中●|
+|[[ペテン師が笑う頃に]]|[[梨本うい>梨本P]]|[[138996>>https://www.joysound.com/web/search/song/145367]]|配信中●|
+|[[へなちょこナイト]]|[[エキセントリックP]]|[[179325>>http://joysound.com/ex/search/karaoke/_selSongNo_179325_song.htm]]|配信中●|
+|[[『紅桜』少女幻奏]]|[[mint*]]|[[688123>>https://www.joysound.com/web/search/song/581374]]|配信中●|
+|[[ヴェノマニア公の狂気]]|[[mothy>悪ノP]]|[[198157>>https://www.joysound.com/web/search/song/229489]]|配信中●|
+|[[HEAVEN>HEAVEN/はりー]]|[[はりーP>はりー]]|[[738300>>https://www.joysound.com/web/search/song/404864]]|配信中●|
+|[[HeavenZ-ArmZ]]|[[sasakure.UK>ささくれP]]|[[726600>>https://www.joysound.com/web/search/song/255725]]|配信中●|
+|ヘヴンダイバー|[[FAULHEIT>ORYO]]|[[681685>>https://www.joysound.com/web/search/song/553881]]|配信中●|
+|[[heavenly blue]]|[[164]]|[[139677>>https://www.joysound.com/web/search/song/146659]]|配信中●|
+|[[ベベル]]|[[shr]]|[[315011>>https://www.joysound.com/web/search/song/410299]]|配信中●|
+|[[ベリースウィート]]|[[EasyPop>Easy Pop]]|[[677531>>https://www.joysound.com/web/search/song/536806]]|配信中●|
+|[[ヘリオライト]]|[[れるりり]]|[[678510>>https://www.joysound.com/web/search/song/540396]]|配信中●|
+|[[ペリコ・スペースシッパー]]|[[ワンカップP]]|[[199920>>http://joysound.com/ex/search/karaoke/_selSongNo_199920_song.htm]]|配信中●|
+|[[ヘルシーな生活]]|[[TOKOTOKO(西沢さんP)>西沢さんP]]|[[725185>>https://www.joysound.com/web/search/song/253567]]|配信中●|
+|[[Persona Alice]]|[[ハチ]]|[[108155>>http://joysound.com/ex/search/karaoke/_selSongNo_108155_song.htm]]|配信中●|
+|[[Personacode]]|刑の字|[[725840>>http://joysound.com/ex/search/karaoke/_selSongNo_725840_song.htm]]|配信中●|
+|[[Persona Robot]]|[[yukkedoluce>黒髪ストロングP]]|[[313379>>https://www.joysound.com/web/search/song/407804]]|配信中●|
+|[[Held Head]]|Shig(かなしい係P)|[[725679>>http://joysound.com/ex/search/karaoke/_selSongNo_725679_song.htm]]|配信中●|
+|[[Velonica]]|[[Re:nG]]|[[681958>>https://www.joysound.com/web/search/song/551187]]|配信中●|
+|[[ぺろぺろ]]|[[えへへP]]|[[146249>>http://joysound.com/ex/search/karaoke/_selSongNo_146249_song.htm]]|配信中●|
+|[[ぺんぎんさーふらいだぁ]]|[[いたちまP]]|[[197811>>http://joysound.com/ex/search/karaoke/_selSongNo_197811_song.htm]]|配信中●|
+|[[ペンシル・デイズ]]|[[黒田亜津]]|[[726236>>https://www.joysound.com/web/search/song/255095]]|配信中●|
+|[[変人王子クロニクル]]|[[今日犬>今日犬（ジャムおじさんP）]]|[[199983>>https://www.joysound.com/web/search/song/568976]]|配信中●|
+|[[ペンタブと鍵盤]]|[[ワールドワイドP]]|[[730803>>http://joysound.com/ex/search/karaoke/_selSongNo_730803_song.htm]]|配信中●|
+|[[変な子ね]]|[[ムシP]]|[[737869>>http://joysound.com/ex/search/karaoke/_selSongNo_737869_song.htm]]|配信中●|
+|[[ヘンリー・キャット]]|[[YASUHIRO(康寛)>YASUHIRO（康寛）]]|[[313036>>https://www.joysound.com/web/search/song/407283]]|配信中●|
+
+
+#co(){以下コピペ用
+|[[歌手名>P名]] (JOY>>joyアーティストページURL)|[[曲名]]|------|09年00月中旬以降|
+
+歌手名にはjoyに登録されているページを、P名はwikiのページ名をお願いします。
+(同一名称が使われている場合P名だけでOKです。)
+joyアーティストページは配信日決定されている曲が1曲以上必要になりますので、
+まだページがない場合()ごと省略して下さい。
+
+同一歌手名の曲に関しては五十音順です。(英語、記号もひらがな読みで)
+アーティストページの記載は任意でOK。(見づらいようでしたら消してください)
+}
+なお、配信予定日の表示が「○月中旬以降」の場合、それから２ヶ月以上遅れることもあります。 
+また、配信予定日が決まっている楽曲は、今のところ、配信予定日の前日か前々日にフライング配信されている模様。 
+
+詳しくは、こちらのマイリストの動画を参照。 
+http://www.nicovideo.jp/mylist/6897112
+
+
+&font(b,120%){[[BACK（JOY曲名順【は】ページへ戻る）>カラオケ配信曲一覧/JOYSOUND曲名順【は】]]}
+
+&font(b,120%){[[BACK（カラオケ情報総合インデックスページへ戻る）>カラオケ配信曲一覧]]}

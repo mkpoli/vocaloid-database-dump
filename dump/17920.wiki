@@ -1,0 +1,25 @@
+#right(){&furigana(とだりん) &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/4334106" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/4334106">自作リスト</a></iframe>)
+
+**特徴
+-デビュー作は2007年12月に投稿された「WHITE ALBUM」主題歌のカバー。
+-オリジナル曲を投稿するようになったのは2007年末に投稿された「一月一日」から。
+-他にもミクの声質を上手く利用した優しめの曲を作る。
+
+**リンク
+-[[作者ホームページ（:: Zweite Satz ::）>>http://zweitesatz.exblog.jp/]]
+-[[ピアプロ>>http://piapro.jp/tdrn]]
+
+**曲
+#list_by_tag(とだりん,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(とだりんCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm1960993)|&nicovideo(http://www.nicovideo.jp/watch/sm2226698)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm4020205)|&nicovideo(http://www.nicovideo.jp/watch/sm5142681)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7792849)||
+
+**コメント
+#comment()

@@ -1,0 +1,16 @@
+#right(){【登録タグ:&tags()】}
+//↑タグ忘れ防止のための表示
+曖昧さ回避のためのページ
+----
+-[[骨盤P]]の曲
+--[[Stargazer/骨盤P]]
+-[[kermit]]の曲
+--[[STARGAZER/kermit]]
+-[[teha]]の曲
+--[[stargazer/teha]]
+-[[Nia]]の曲
+--[[Stargazer/Nia]]
+-[[Yuika Sato]]の曲
+--[[STARGAZER/Yuika Sato]]
+
+#include(曖昧さ回避の追加の仕方/告知)

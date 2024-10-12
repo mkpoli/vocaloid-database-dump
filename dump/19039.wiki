@@ -1,0 +1,47 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1017_20120314200112_0280_0280.jpg)
+
+&nicovideo(http://www.nicovideo.jp/watch/nm15947429)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Summer Bright>Summer Bright/CD]]|CENTER:&bold(){Too much Love}|CENTER:[[Script Imager]]|
+
+|&bold(){[[MineK]]}|
+
+|流通|CENTER:即売|CENTER:委託|CENTER:配信|
+|発売|CENTER:2011年10月30日|CENTER:2011年11月|CENTER:2012年3月28日|
+|価格|CENTER:￥1,000|CENTER:￥1,260（税込）|CENTER:￥1,200 / 1曲￥150|
+|サークル|>|CENTER:sukimono||
+
+**CD紹介
+-MineK氏のVOCALOIDアルバム。CDとしては4作目。
+-全曲2人以上で歌わせるということで作成されたアルバム。
+-全11曲＋ボーナストラック3曲構成。
+-M3-2011秋、THE VOC@LOiD M@STER 18（ボーマス18）で頒布。
+-ホワイトキャンバスにて委託販売が行われている。
+-2012年3月、KARENTレーベルよりダウンロード販売が開始される。ボーナストラック無しの全11曲構成。
+
+**曲目
++To be Free / がくっぽいど&MEIKO
++浮動小数点パラダイス / ガチャッポイド&MEIKO
++Jealousy / がくっぽいど&MEIKO&KAITO
++In the Adulty mood / がくっぽいど&MEIKO
++[[Too much Love]] / がくっぽいど&MEIKO
++[[Speed Up]] / がくっぽいど&KAITO
++[[Set Me Free!]] / ガチャッポイド&MEIKO
++I need U'r Love / MEIKO
++[[Luv & Venus]] / がくっぽいど
++[[Dream Chaser]] - remix - / がくっぽいど&MEIKO
++Together / がくっぽいど&MEIKO
+
+Bonus Track
++[[Make up Love]] - カイメイ Ver. -
++がくメイRadio
+
+**リンク
+-[[ホワイトキャンバス>>http://www.w-canvas.com/shopping/detail.php?item_id=51256]]
+-[[KARENT：「Too much Love」>>http://karent.jp/album/1017]]
+
+**コメント
+- 「To be Free」気に入ってます。がくぽとMEIKOのハモりが綺麗！  -- 名無しさん  (2012-11-10 11:28:32)
+#comment()

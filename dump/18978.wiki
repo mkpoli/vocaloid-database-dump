@@ -1,0 +1,36 @@
+#right(){&furigana(はくたいれんり)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&ref(https://karent.jp/npdca/888_20111017132946_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[鉄の華]]|CENTER:&bold(){百代連理}|CENTER:[[凛の花]]|
+
+|&bold(){[[まはろP]]}|
+
+発売：2011年11月4日
+価格：￥150
+流通：配信
+レーベル：KarenT
+ジャケットイラスト：まはろ
+
+|&bold(){[[iTunes Storeで購入する>>https://itunes.apple.com/jp/album/id476561135]]}|
+
+**CD紹介
+CD名：『&u(){百代連理}』（&u(){はくたいれんり}）
+-まはろPの配信シングル。
+-悲しめ素朴民族風楽曲。
+-KarenTレーベルのMEIKO7周年記念企画で配信された作品の1つ。
+
+**曲目
++百代連理 （feat. MEIKO）
+
+**リンク
+-[[KarenT：「百代連理」>>https://karent.jp/album/888]]
+-[[KarenT：「MEIKO記念祭'11」特集ページ>>https://karent.jp/special/meiko11]]
+//-[[作者ブログ>>http://maharo658.blog.shinobi.jp/]]
+
+**コメント
+#comment()

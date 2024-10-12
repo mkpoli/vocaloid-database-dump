@@ -1,0 +1,60 @@
+#right(){&furigana(はつねみくGTProjectThemeSongCollection)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+#amazon(B0052PN7K8)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){初音ミクGT Project Theme Song Collection}|CENTER:[[初音ミクGT Project Theme Song Collection 2012]]|
+
+|[[広崎良孝]]|[[鈴木啓]]|[[あーるP]]|[[D'elf]]|[[NAV]]|
+|[[ニナゴ]]|[[Caz]]|[[naohironix]]|[[皮P]]|[[はつか]]|
+|[[jamesvond]]|[[杉春圭>杉春]]|[[maroki]]|[[piemix]]|[[ヨメニヤランP]]|
+|[[タダヒー]]|[[銀百合]]|[[是空武耳]]|[[mak.kanz@wa]]|[[エンドロールに拘りのあるP]]|
+|[[Beat Charger]]|[[よしん]]|[[tms]]|[[ばらっち]]|>|
+
+発売：2011年8月3日
+価格：￥2,520（税込）
+流通：全国
+レーベル：ソニー・ミュージックダイレクト
+
+**CD紹介
+CD名：『&u(){初音ミクGT Project Theme Song Collection}』（&u(){はつねみくGT Project Theme Song Collection}）
+-2008年・鈴鹿1000kmレースから、SUPER GT選手権シリーズに参戦を開始した『初音ミクGT Project』。&br()その参戦開始から2011年シーズンまでに、ピアプロやニコニコ動画での公募で採用されたテーマソング全曲を網羅した&br()公式コンピレーションアルバム。
+-曲収録順は、2011年シーズンから遡る形になっている。
+--19曲目に収録の、2008年テーマソング「Stop and Go」は、作者のばらっち氏が一度ピアプロを退会したため、&br()今のところこのCDでしか聴くことができない希少音源。&br()（ばらっち氏はその後ピアプロに再登録しているが、楽曲の再アップはされていない）
+-ジャケットには、[[redjuice]]氏による2010年バージョンのRACINGミクと、&br()村上よいち氏による2011年バージョンのRACINGミクが描かれている。
+-初回出荷版に限り、スリーブケース仕様・初音ミクGT Projectオリジナルステッカー封入。
+
+**曲目
++[[Winning Road]] ver2.0&br()作詞・作曲：広崎良孝、編曲：鈴木啓
++[[glory]]&br()作詞・作曲・編曲：あーるP（rockマン）
++[[Motor Drive]]&br()制作：RUNDOLL （作詞：[[KENJI]]・D'elf、作曲・編曲：D'elf）
++[[DRIVE ME]]&br()作詞・作曲・編曲：NAV
++[[喧騒を抜け静寂]]&br()作詞・作曲・編曲：ニナゴ
++Winning Road （Original Version）&br()作詞・作曲・編曲：広崎良孝
++[[Little Wings]] ～MIKU GT Edition～&br()作詞・作曲・編曲：Caz
++[[その先の向こうへ]]&br()制作：naohironix.kawa （作詞・作曲：naohironix、編曲：皮P）
++[[Fall Down]]&br()制作：[project Co'La-Vo] （作詞：はつか、作曲・編曲：J.M.V([[jamesvond]])）
++[[PASSIONATE HEART ver.G.S.R]]&br()作詞：杉春圭、作曲・編曲：maroki
++[[HATSUNE 911]]&br()作詞・作曲・編曲：piemix
++[[Vivid Sky]]&br()作詞・作曲・編曲：ヨメニヤランP（真琴 微）
++[[流線型のノスタルジィ]]&br()作詞・作曲・編曲：タダヒー
++[[Blue Max Warrior ～撃墜王～]]&br()制作：[project Co'La-Vo] （作詞：銀百合、作曲・編曲：是空武耳）
++[[Set and Go!! －with Advanced Rhythm－]] [Enhanced Mix]&br()制作：旋律のおもちゃ箱 ～Let's enjoy the sound～ （作詞：mak.kanz@wa、作曲・編曲：[[Rino Mika>エンドロールに拘りのあるP]]）
++[[EXHAUST BEAT]]&br()作詞・作曲・編曲：Beat Charger（三角波P）
++♪[[わたしのエメラルド]]&br()作詞・作曲・編曲：よしん
++[[大空ドライブ]]&br()作詞・作曲・編曲：tms
++[[Stop and Go]]&br()作曲・編曲：ばらっち
+
+**リンク
+-[[Sony Music Shop>>https://www.sonymusicshop.jp/m/item/itemShw.php?site=S&ima=0926&cd=MHCL000001932]]
+-[[Amazon>>https://www.amazon.co.jp/dp/B0052PN7K8]]
+
+**コメント
+- 始めて聞く曲が多いので楽しみです  -- GIGA-M478S型-  (2011-09-08 20:26:37)
+- スーパーGT調子よさそうだね  -- 名無しさん  (2011-09-08 22:04:42)
+- 痛車増えたよなｗｗ  -- 名無しさん  (2011-09-08 23:11:41)
+//- やばいｗこのCDの曲今の所全部知らないｗｗニコ動見なきゃ  -- 名無しさん  (2011-09-12 19:55:18)
+#comment()

@@ -1,0 +1,36 @@
+#right(){&furigana(CountDown)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&ref(https://karent.jp/npdca/773_20110706151639_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[BLUE VISION]]|CENTER:&bold(){Count Down}|CENTER:[[Let's go！]]|
+
+|&bold(){[[あルカP]]}|
+
+発売：2011年7月29日
+価格：￥150
+流通：配信
+レーベル：KarenT
+ジャケットイラスト：[[あルカP（M@SATOSHI）>あルカP]]
+
+|&bold(){[[iTunes Storeで購入する>>https://itunes.apple.com/jp/album/count-down/id450106723]]}|
+
+**CD紹介
+CD名：『&u(){Count Down}』
+-あルカPの1曲入り配信シングル。
+-がくっぽいどの声がサイバーに広がる、生と死をテーマにした曲。
+-KarenTレーベルの、がくっぽいど発売3周年記念企画で配信された作品の1つ。
+
+**曲目
++Count Down （feat. がくっぽいど）
+
+**リンク
+-[[作者ブログ>>http://masatoshi60.blog11.fc2.com/]]
+-[[KarenT：「Count Down」>>https://karent.jp/album/773]]
+-[[KarenT：「がくっぽいど3周年記念祭」>>https://karent.jp/special/gackpoid11]]
+
+**コメント
+#comment()

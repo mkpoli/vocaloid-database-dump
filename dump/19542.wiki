@@ -1,0 +1,37 @@
+#right(){&furigana(いきたいの)&furigana()【登録タグ:&tags() 】}
+//#image(http://www.tsurishi.info/img/ikitaino.jpg,title=「イキたいの。」,blank) 
+
+&ref(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSRIpkxS4YUk8s7FnHZJMi9zvPsUF9FXe-CVdWRL7v7O6k00sm9&usqp=CAU,x=300,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm15497498)
+
+|&bold(){[[ぼいじゃあ]]}|
+
+|CENTER:本作|CENTER:次作|
+|CENTER:&bold(){「イキたいの。」}|CENTER:[[またお前か>またお前か/CD]]|
+
+|流通|CENTER:即売|CENTER:同人|CENTER:配信|
+|発売|CENTER:2011年9月4日|||
+|価格|CENTER:￥500|CENTER:￥700（税込）|CENTER:￥500（税込）|
+|サークル|>|CENTER:釣師||
+
+**CD紹介
+-ボーマス17にて頒布された、ぼいじゃあ初のミニアルバム。
+-ボカロ殿堂入りした「イキたいの。」「ヤリたいの。」の他、全5曲を収録。
+-BOOTHにてダウンロード販売が行われている。
+
+**曲目
++[[「ヤリたいの。」]]
++[[くぱぁ♡　〜ヒラケゴマ〜]]
++アイム・ア・ボカロP！
++[[言葉は、いらない。]]
++[[「イキたいの。」]]
+
+**リンク
+-[[サークル『釣師』ウェブサイト >>http://www.tsurishi.info/]]
+-[[Twitter>>http://twitter.com/voyager2fat]]
+-[[BOOTH>>https://voyager2fat.booth.pm/items/875466]]
+
+**コメント
+- ミクちゃん、かわいい。  -- 名無しさん  (2014-09-15 22:16:16)
+#comment()

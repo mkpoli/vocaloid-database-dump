@@ -1,0 +1,36 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&ref(http://livedoor.blogimg.jp/multipath/imgs/f/6/f6f5cc47.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Extra>Extra/CD]]|CENTER:&bold(){BlackStone}|CENTER:-|
+
+|&bold(){[[NanahoshiP]]}|
+
+発売：2010年7月19日
+価格：￥500
+流通：即売
+サークル：ななほしProject
+
+**CD紹介
+-NanahoshiPの2枚目となるVOCALOIDアルバム。
+-THE VOC@LOiD M@STER 13（ボーマス13）で発表された。
+-全8曲を収録。
+
+**クロスフェード
+&nicovideo(http://www.nicovideo.jp/watch/nm11302098)
+
+**曲目
++[[ALONE,ALONE]]
++[[空の色は藍]]（2010.ver）
++百万回スキといって！
++[[恋の微分係数]]（Another）
++[[No Music Kingdom]]
++[[人生は投げ捨てるもの]]
++可愛い女でなくていい
++山田某の憂鬱な一日。
+
+**リンク
+-[[作者ブログのCD情報>>http://blog.livedoor.jp/multipath/archives/1411750.html]]
+
+**コメント
+#comment

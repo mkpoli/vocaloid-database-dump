@@ -1,0 +1,26 @@
+#right(){&furigana(ぺたんこP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/12391383" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/12391383">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-HNは&b(){nakajima}。デビュー作の『[[ペタンコサンダル]]』よりP名が付けられた。
+-初音ミクを起用した、緩く爽やかで温かくなれる曲を投稿している。
+-東日本大震災を受けて制作した「[[会いたいよ]]」が2022年2月に自身初の殿堂入りを達成している。
+
+**リンク
+-[[YouTube>>https://www.youtube.com/channel/UCXz0N0b007Gt7-BUZr_IT_w]]
+-[[PIAPRO>>http://piapro.jp/nakajima3015]]
+-[[Twitter>>https://twitter.com/PetancoP]]
+
+**曲
+#list_by_tag(ペタンコP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(ペタンコPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm6553836)|&nicovideo(sm6961643)|
+|&nicovideo(sm8500096)|&nicovideo(sm11798760)|
+|&nicovideo(sm13852974)|&nicovideo(sm14189207)|
+
+**コメント
+#comment()

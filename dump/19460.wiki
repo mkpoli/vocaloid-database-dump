@@ -1,0 +1,30 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/25497827" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/25497827">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-テクノポップや4つ打ちクラブ系サウンドを得意とする。
+
+**リンク
+//-[[ELEGUMI TOKYO official（作者サイト）>>http://elegumi.tumblr.com/]]
+-[[作者サイト>>http://www.elegumi.com/]]
+-[[PIAPRO>>http://piapro.jp/elegumi]]
+-[[twitter>>https://twitter.com/elegumi]]
+-[[YouTube>>https://www.youtube.com/user/elegumiTokyo]]
+
+**曲
+#list_by_tag(ELEGUMI TOKYO,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(ELEGUMI TOKYOCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm14557334)|&nicovideo(http://www.nicovideo.jp/watch/sm14639277)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm14780286)|&nicovideo(http://www.nicovideo.jp/watch/sm14894299)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm15815086)|&nicovideo(http://www.nicovideo.jp/watch/sm15882583)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm15945286)|&nicovideo(http://www.nicovideo.jp/watch/sm16012011)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm16075583)|&nicovideo(http://www.nicovideo.jp/watch/sm16143431)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm16204837)||
+
+**コメント
+- おおおページできてたー！応援してます！！カラココロ大好き！  -- 名無しさん  (2011-12-05 22:45:28)
+#comment()

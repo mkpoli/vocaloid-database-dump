@@ -1,0 +1,44 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm16148516)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Starry World}|CENTER:[[SuketchP rmx Collection Vol.1]]|
+
+|&bold(){[[すけっちP]]}|[[八王子P]]|[[マルキン]]|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|CENTER:2011年11月19日|CENTER:2011年11月19日|
+|価格|CENTER:￥1,000|CENTER:￥1,500(税込)|
+|サークル|CENTER:SUKEMON8|CENTER:すけっちレコード|
+
+**CD紹介
+-すけっちP 、待望の 1st album 。
+-リマスタリング既存曲にアルバム書きおろし新曲+ 八王子P による Remix を加えた、全12曲を収録。
+-これまでの2年間の活動の集大成的なアルバムとなりました。（作者コメ転載）
+-ジャケットイラストなどのアートデザインは iXima氏 が手掛ける。
+-THE VOC@LOiD M@STER 18（ボーマス18） にてリリース。
+
+**曲目
++intro　&bold(){&color(red){NEW!!}}
++[[イツデモフワリ。]] -re:edit-
++Aether Dance
++Warped Sky　&bold(){&color(red){NEW!!}}
++Starry World　&bold(){&color(red){NEW!!}}
++interrupt　&bold(){&color(red){NEW!!}}
++[[Love Your Life]] -re:edit-
++[[サヨナラカーニヴァル]]
++[[「つけるよ。」]]
++[[Heart Groove]]
++white song　&bold(){&color(red){NEW!!}}
++[[Heart Groove]] -8#Prince Remix-　&bold(){&color(red){NEW!!}}
+
+**リンク
+-[[特設ページ>>http://plug8.info/sukemon8/]]
+-[[作者ブログ>>http://suketchp.seesaa.net/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/01/05/040030010505.html]]
+-[[D-STAGE>>http://d-stage.com/shop/detail.php?seq=24501]]
+
+**コメント
+- タグ修正しました。「作者名CD」とつけないと作者ページの曲リストに載ってしまいますので  -- 名無しさん  (2011-11-13 00:47:15)
+- 今更ながら買いました。超会議2最高でした!  -- ふうど  (2013-04-29 10:58:35)
+#comment()

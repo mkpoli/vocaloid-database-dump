@@ -1,0 +1,12 @@
+#right(){【登録タグ:&tags()】}
+//↑タグ忘れ防止のための表示
+曖昧さ回避のためのページ
+----
+-[[ROY]]の曲
+--[[Endless Nightmare/ROY]]
+-[[WEB-MIX]]の曲
+--[[Endless Nightmare/WEB-MIX]]
+-[[アンメルツP]]の曲
+--[[Endless Nightmare/アンメルツP]]
+
+#include(曖昧さ回避の追加の仕方/告知)

@@ -1,0 +1,33 @@
+#right(){&furigana(らぶ・りすとらんて)&furigana()【登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186135799.jpg,x=300,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm15433935)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){ラブ・リストランテ}|CENTER:-|
+
+|&bold(){[[DJ GENMAI]]}|
+
+|流通|CENTER:即売|
+|発売|CENTER:2011年09月04日|
+|価格|CENTER:￥500（税込）|
+|サークル|CENTER:ボカロ作家。|
+
+**CD紹介
+-DJGENMAI氏 の 1st 初音ミク集。
+-代表作の「[[ラブ・リストランテ]]」や「[[カミサマ]]」など、全5曲収録。
+-THE VOC@LOiD M@STER 17（ボーマス17） にてリリース。
+
+**曲目
++[[ラブ・リストランテ]]
++[[フレイム*★*ナイト]]
++[[ヒロイン]]
++ウイルス・フォール　&color(red){NEW!!}
++[[カミサマ]]
+
+**リンク
+-[[Twitter>>http://twitter.com/DJ_GENMAI]]
+
+**コメント
+#comment()

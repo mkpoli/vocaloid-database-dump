@@ -1,0 +1,41 @@
+#right(){&furigana(Songforyou)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&ref(https://karent.jp/npdca/934_20111203152411_0280_0280.jpg)
+
+|CENTER:前作|CENTER:今作|CENTER:次作|
+|CENTER:[[Bloody Nightmare With... 或いは馨しき夢]]|CENTER:&bold(){Song for you}|CENTER:[[紅の刃、蒼き祈り]]|
+
+|&bold(){[[As'257G]]}|[[水無月龍那]]|[[真雪]]|[[楢崎このみ]]|
+
+流通：配信
+発売：2011年12月21日
+価格：￥600 / 1曲￥150
+レーベル：KARENT
+ジャケットイラスト：[[水無月龍那>>https://piapro.jp/ryu_na]]
+
+|&bold(){[[iTunes Storeで購入>>https://itunes.apple.com/jp/album/song-for-you/id489102400]]}|
+
+**CD紹介
+CD名：『&u(){Song for you}』
+-Sound Team Layer-0のAs'257G氏の配信アルバム。
+-KARENTレーベルの鏡音リンレン4周年&Append1周年記念企画で配信された作品の1つ。
+-勇気と元気がいっぱいのリンレンソングが詰まったアルバムとなっている。
+-ジャケットイラストは収録曲3曲の作詞を手掛けた水無月龍那氏。
+
+**曲目
++[[Colorful Days]] （feat. 鏡音リン）
++この手を繋ぐ君の名は （feat. 鏡音リン&メグッポイド）
++Song for you （feat. 鏡音リン）
++Step Staff （feat. 鏡音リン&鏡音レン）
++[[輪廻永劫-輝夜->輪廻永劫 -輝夜-]] （feat. 鏡音レン）
+
+**リンク
+-[[サークルサイト>>https://layer-0.shillest.net/]]
+-[[KARENT：「Song for you」>>https://karent.jp/album/934]]
+-[[KARENT：「鏡音リン・レン祭'11」特集ページ>>https://karent.jp/special/rinlen11]]
+
+**コメント
+#comment()

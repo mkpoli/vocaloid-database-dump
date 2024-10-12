@@ -1,0 +1,40 @@
+#right(){&furigana(ゆめものろーぐ)&furigana()【登録タグ:&tags() 】}
+#amazon(B005YWUWI4)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm16099730)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[機械の花ラボラトリ]]|CENTER:&b(){夢モノローグ}|CENTER:[[7th]]|
+
+|&b(){[[kous]]}|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|CENTER:2011年11月19日|CENTER:2011年11月26日|
+|価格|CENTER:￥1,000（税込）|CENTER:￥1,575(税込)|
+|サークル|CENTER:sasakureU.Kous|CENTER:+音|
+
+**CD紹介
+-kous氏 の 8th album 。
+-先行リリースされた「[[夢カラス影]]」「[[さざめくワルツ]]」など、収録されている8曲は全て書き下ろしの新作。
+-アートデザインは hie氏 。ジャケットは紙ジャケデジパック＋歌詞カード付き仕様。
+-ゲストボーカルとして、歌い手の 初心者F（ef）氏 が参加。
+-THE VOC@LOiD M@STER 18（ボーマス18） にてリリース。 Amazon でも委託中。
+
+**曲目
++7なナーバス
++月読
++[[さざめくワルツ]]
++まやかしピエロ
++[[円の幾何学]]
++[[夢カラス影]]
++12△
++冴えないモノローグ
+
+**リンク
+-[[特設サイト>>http://kous1128.mods.jp/dream/]]
+-[[kous+音（kousのサイト）>>http://kous1128.mods.jp/hp/]]
+-[[Amazon>>http://www.amazon.co.jp/%E5%A4%A2%E3%83%A2%E3%83%8E%E3%83%AD%E3%83%BC%E3%82%B0-kous/dp/B005YWUWI4/ref=sr_1_1?s=music&ie=UTF8&qid=1321416125&sr=1-1]]
+
+**コメント
+- ぜったい買う。  -- 名無しさん  (2011-11-23 08:53:44)
+#comment()

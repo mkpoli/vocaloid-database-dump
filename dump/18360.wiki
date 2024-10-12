@@ -1,0 +1,30 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/842_20110907072933_0240_0240.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[LUST DOLL>LUST DOLL/CD]]|CENTER:&bold(){CRYONICS}|CENTER:[[(っ´ω｀c)]]&br()[[(っ*'ω'*c)]]|
+
+|&bold(){[[AVTechNO]]}|[[祭屋]]|
+
+発売：2011年9月21日
+価格：￥300 / 1曲￥150
+流通：配信
+レーベル：KarenT
+ジャケットイラスト：[[meola]]
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/cryonics/id464729156]]}|
+
+**CD紹介
+-AVTechNO!氏の配信シングル。
+-歌い手の祭屋氏との共作アルバム『AS』に収録されていた楽曲を、ボーカロイド版としてアレンジしている。
+
+**曲目
++[[CRYONICS]] （feat. 鏡音リン）
++[[ROOM>ROOM/AVTechNO]] （feat. 初音ミク）
+
+**リンク
+-[[作者サイト>>http://avtechno.ukime.org/]]
+-[[KarenT：「CRYONICS」>>http://karent.jp/album/842]]
+
+**コメント
+#comment()

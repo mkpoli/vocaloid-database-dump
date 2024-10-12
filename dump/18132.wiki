@@ -1,0 +1,31 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Turbotrax]]|CENTER:&bold(){Rinspire}|CENTER:[[CHOM-P BEST TRAX!]]|
+
+|&bold(){[[ちょむP]]}|華♂|留桜良姫|[[orange>orange/作り手]]|おがた|野宮あゆみ|真雪|
+
+発売：2008年12月29日
+価格：￥
+流通：即売
+サークル：ちょむ工房
+
+**CD紹介
+-ちょむ工房のVOCALOIDオリジナルCD第6弾。08冬コミ（C75）にて頒布された。
+-ボーカルはすべて鏡音リン。
+-作曲・編曲は全てTakeponG（ちょむP）。ジャケットイラストは『[[MIRACLE TRAX]]』『[[Trax Mint]]』『[[Turbotrax]]』と同じく、PalePink!の桜部のとす。
+-新曲7曲＋おまけ＋カラオケ7曲の全15曲収録。
+
+**曲目
++Rinspire　(作詞：TakeponG + 華♂)
++NOW YOU　(作詞：留桜良姫)
++[[Rejoyce]]　(作詞：[[orange>orange/作り手]])
++アンブレラ　(作詞：おがた)
++キミのTシャツ -disco house mix-　(作詞：TakeponG + おがた)
++Third mind　(作詞：野宮あゆみ)
++さよなら、ありがとう。　(作詞：真雪)
+
+**リンク
+-[[作者サイト>>http://chomstudio.com/]]
+
+**コメント
+#comment()

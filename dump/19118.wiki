@@ -1,0 +1,41 @@
+#right(){&furigana(ろまんくらぶ)&furigana()【登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186148239.jpg,x=300,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm16077253)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Azurite]]|CENTER:&bold(){浪漫倶楽部}|CENTER:-|
+
+|&bold(){[[柊P]]}|
+
+|流通|CENTER:即売|
+|発売|CENTER:2011年11月19日|
+|価格|CENTER:￥1,000|
+|サークル|CENTER:柊さんのおうち|
+
+**CD紹介
+>&bold(){「僕が探しているのは不思議で素敵なモノ」}
+-柊P の 2nd album 。
+-タイトルやアルバムのコンセプトは 天野こずえ氏 の作品 「浪漫倶楽部」 から。
+-「[[パンプキンズパレード]]」や「[[独裁者スイッチ]]」など、全9曲を収録。
+-ジャケットイラストは かひもち氏 が手掛ける。
+-初回限定特典として先着15名には豪華BOX仕様でお渡し。
+-THE VOC@LOiD M@STER 18（ボーマス18） にてリリース。
+
+**曲目
++コロボックル
++[[パンプキンズパレード]]
++ラクガキノート
++蛍
++その素敵な放課後に（inst.）
++浪漫倶楽部
++[[共鳴]]
++凍え続けた10年目の春
++[[独裁者スイッチ]]
+
+**リンク
+-[[作者ブログ>>http://y01nstrument.seesaa.net/]]
+
+**コメント
+#comment()

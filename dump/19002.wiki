@@ -1,0 +1,42 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo(sm10536469)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Planetary Blue]]|CENTER:&bold(){STARDUST}|CENTER:[[ARTEMIS>ARTEMIS/CD]]|
+
+|&bold(){[[みじぴんP]]}|
+
+||CENTER:即売|CENTER:委託|
+|発売|CENTER:2010年5月9日||
+|価格|CENTER:￥1,000|CENTER:￥1,470（税込）|
+|サークル|>|CENTER:Project ARTEMIS|
+
+**CD紹介
+-みじぴんPの2ndアルバム。
+-ほぼ全ての楽曲を新たにミックスし直し、リマスタリングを行っている。また、再調声を行っている楽曲も多い。
+-ジャケットイラストはしーな氏。
+-THE VOC@LOiD M@STER 12（ボーマス12）で初頒布。
+-とらのあなで委託販売が行われている。
+
+**曲目
++[[STARDUST>STARDUST/みじぴんP]] （feat. MEIKO）
++[[NOISE>NOISE/みじぴんP]] （feat. MEIKO）
++[[Awake>Awake/みじぴんP]] （feat. 巡音ルカ）
++[[イノセント スマイル]] （feat. 初音ミク）
++[[AKATSUKI>AKATSUKI -暁-]] （feat. MEIKO）
++[[永遠のメロディー]] （feat. 初音ミク）
++[[ソラノカナタ>ソラノカナタ/みじぴんP]] （feat. MEIKO）
++[[星空を越えた場所]] （feat. MEIKO）
++[[Silent Snow]] （feat. MEIKO）
++[[Spiral Blue]] （feat. 初音ミク）
++[[Infinite Blue]] （feat. 初音ミク）
++[[Eternal Green]] （feat. 初音ミク）
++[[Step into the night]] （feat. MEIKO・初音ミク・巡音ルカ）
++[[きらきら！]] （feat. MEIKO・初音ミク・巡音ルカ）
+
+**リンク
+-[[作者ブログ>>http://mijipin.blog34.fc2.com/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/22/34/040010223434.html]]
+
+**コメント
+#comment()

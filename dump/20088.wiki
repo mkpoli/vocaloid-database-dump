@@ -1,0 +1,32 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://blog-imgs-34.fc2.com/a/2/2/a22dhu20dhu10/Thanx_sample.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[SOUND PARFAIT TENDENCY]]|CENTER:CENTER:[[Forum]]&br()&bold(){Thanx！}|CENTER:-|
+
+|&bold(){[[すけP]]}|
+
+>&b(){ジャケットイラスト：[[うむ>>http://lilium.web6.jp/]]}
+>&b(){ジャケットデザイン：宝条}
+
+|流通|CENTER:即売|
+|発売|CENTER:2011年3月27日|
+|価格|CENTER:-|
+|サークル|CENTER:すけ’s サウンドパフェ厨房|
+
+**CD紹介
+-5曲収録の[[すけP]]のミニアルバム。
+-『[[Forum]]』と同時リリースで、VOCALOID PARADISE 5(ボーパラ5)にて初頒布。
+
+**曲目
++壊れかけたギターと歌えなかった歌と
++[[ノーワン]]
++[[ヒーローはサンタクロース]]
++CAFE L.H.
++アリガトウ
+
+**リンク
+-[[作者ブログ>>http://a22dhu20dhu10.blog9.fc2.com/]]
+
+**コメント
+#comment()

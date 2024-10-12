@@ -1,0 +1,32 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo(sm13253035)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[ATZ(A to Z)]]|CENTER:&bold(){snow flakes}|CENTER:[[メガネディスコ]]|
+
+|&bold(){[[あつぞうくん]]}|
+
+発売：2011年1月16日
+価格：￥500
+流通：即売
+サークル：ATZ Records
+
+**CD紹介
+-あつぞうくんの冬曲を集めたミニアルバム。
+-ジャケットイラストは手鞠氏。
+-THE VOC@LOiD M@STER 15（ボーマス15）で少量頒布。
+-頒布終了している。
+
+**曲目
++イントロダクション
++冬の空　（「フユソラ＊ペイン」より改題 / new mix）
++スターコレクター （new vocal mix）
++[[うさぎのウシャンカ]]
++[[デルフィ]] （new mix）
++さよなら
+
+**リンク
+-[[作者ブログ>>http://blog.livedoor.jp/atsu3kun/]]
+
+**コメント
+#comment()

@@ -1,0 +1,30 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/982_20120108201326_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Imaging Cross Sympathy ～交差する想像共感 SIDE-M～]]|CENTER:&bold(){BurNing HeaRt OTHER MIXES}|CENTER:[[あじさい]]|
+
+|&bold(){[[U-ji]]}|[[U-SUKE]]|
+
+発売：2012年1月30日
+価格：￥300 / 1曲￥150
+流通：配信
+レーベル：KARENT
+イラスト：[[オカヒジキ>>http://piapro.jp/toridaisuki]]
+
+**CD紹介
+-巡音ルカ発売3周年を記念してリリースされた配信EP。
+-「[[BurNing HeaRT]]」とリミックスを収録している。DUB MIX以外はアルバムバージョンであるとのこと。
+
+**曲目
++[[BurNing HeaRt]] DUB MIX （feat. 巡音ルカ）
++BurNing HeaRt （feat. 巡音ルカ）
++check it! feel it! （feat. 巡音ルカ）
+
+**リンク
+-[[作者ブログ>>http://ameblo.jp/housenrg/]]
+-[[KARENT：「BurNing HeaRt OTHER MIXES」>>http://karent.jp/album/982]]
+-[[KARENT：「巡音ルカ聖誕祭'12」特集ページ>>http://karent.jp/special/luka12]]
+
+**コメント
+#comment()

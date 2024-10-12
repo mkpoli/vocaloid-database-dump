@@ -1,0 +1,34 @@
+#right(){&furigana(かきたろう)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/9224498" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/9224498">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-主にMEIKOを使ったカバー曲を手掛けている。
+-MEIKOコンピCD『[[暁 -AKA-TSUKI-]]』のプロジェクト発起人・企画統括者でもある。
+
+**リンク
+-[[Twitter>>https://twitter.com/m_kakitaro]]
+
+**曲
+#list_by_tag(柿太郎,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(柿太郎CD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm5118391)|&nicovideo(http://www.nicovideo.jp/watch/sm5123371)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5469883)|&nicovideo(http://www.nicovideo.jp/watch/sm5639557)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5771772)|&nicovideo(http://www.nicovideo.jp/watch/sm5994488)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6008375)|&nicovideo(http://www.nicovideo.jp/watch/sm6084152)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm6483781)|&nicovideo(http://www.nicovideo.jp/watch/nm6495322)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6886990)|&nicovideo(http://www.nicovideo.jp/watch/sm7258919)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm7918782)|&nicovideo(http://www.nicovideo.jp/watch/sm8423964)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm8684068)|&nicovideo(http://www.nicovideo.jp/watch/sm8714874)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm11239078)|&nicovideo(http://www.nicovideo.jp/watch/sm11763241)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12053967)|&nicovideo(http://www.nicovideo.jp/watch/sm12564156)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12631259)|&nicovideo(http://www.nicovideo.jp/watch/sm14973021)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm15477393)|&nicovideo(http://www.nicovideo.jp/watch/sm16063083)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm16063345)|&nicovideo(http://www.nicovideo.jp/watch/sm16130263)|
+
+
+**コメント
+#comment()

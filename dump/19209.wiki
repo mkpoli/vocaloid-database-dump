@@ -1,0 +1,49 @@
+#right(){&furigana(ありさかあこ)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+//&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/16375067" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/16375067">【ニコニコ動画】</a></iframe>)
+
+**特徴
+作り手名：『&u(){有坂あこ}』（&u(){ありさかあこ}）
+-[[nana]]氏主宰の音楽サークル、&b(){"[[Sevencolors>>http://seven-colors.info/]]"}のメンバー。絵師。
+-クールでスタイリッシュ、かつ美麗なイラストが特徴。
+-ミク・ルカ・GUMIを中心に描いており、ロックからポップスまで多様なジャンルの曲を担当する。
+-使用画材ソフトはSAI、PhotoshopCS4、ComicStudio EX 4.0。
+-nana氏を始め、[[八王子P]]や [[ダルビッシュP]]等あらゆるプロデューサーとコラボしている。
+
+**リンク
+-[[Stem.04（作者ブログ）>>https://gips.velvet.jp/]]
+-[[Pixiv>>https://www.pixiv.net/member.php?id=64561]]
+-[[Twitter>>https://twitter.com/stem04]]
+
+**曲
+#list_by_tag(有坂あこ,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(有坂あこCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm7878515)|&nicovideo(sm9097377)|
+|&nicovideo(sm9354208)|&nicovideo(sm9659561)|
+|&nicovideo(sm10526601)|&nicovideo(sm11059721)|
+|&nicovideo(sm11063128)|&nicovideo(sm11249922)|
+|&nicovideo(sm11284840)|&nicovideo(sm11695492)|
+|&nicovideo(sm11739633)|&nicovideo(sm11925406)|
+|&nicovideo(sm12387335)|&nicovideo(sm12687219)|
+|&nicovideo(sm12888933)|&nicovideo(sm12957824)|
+|&nicovideo(sm13078593)|&nicovideo(sm14636970)|
+|&nicovideo(sm14862927)|&nicovideo(sm15144121)|
+|&nicovideo(sm15479882)|&nicovideo(sm15785925)|
+|&nicovideo(sm16034025)|&nicovideo(sm16174260)|
+|&nicovideo(sm16848863)||
+
+**コメント
+- 記事出来てたんですか！あこさん大好きですー！  -- 名無しさん  (2011-11-19 17:41:55)
+- あこ大好きWWWWW  -- 名無しさん  (2012-09-21 00:58:02)
+- 七瀬かのん可愛いです～♡  -- ゆうたん  (2013-04-19 18:24:20)
+- まじカワイイ☆  -- 名無しさん  (2013-08-13 17:02:57)
+- すてき。  -- 名無しさん  (2013-12-31 15:21:03)
+- あこさん、ヴァニスタありがとうございます...!  -- 無命  (2016-10-05 00:09:10)
+#comment()

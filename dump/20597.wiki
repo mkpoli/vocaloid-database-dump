@@ -1,0 +1,33 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+//&ref(http://img.toranoana.jp/img/04/0030/02/50/040030025083-1.gif)
+
+&ref(https://booth.pximg.net/e49554cd-82ef-4863-8342-0bef4921d856/i/613396/460c2afc-fd91-47e6-8f29-e02bf33d5e5c_base_resized.jpg,x=300,y=300)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Nyan Cat]]|CENTER:&bold(){めたもる}|CENTER:[[Nyan Cat EX]]|
+
+|&bold(){[[daniwell]]}|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2012年2月5日||
+|価格|CENTER:￥200|CENTER:￥315（税込）|
+|サークル|>|CENTER:AIDN|
+
+**CD紹介
+-daniwellPの4作目（メジャー流通も含めれば5作目）となるCD作品。
+-THE VOC@LOiD M@STER 19（ボーマス19）で頒布。
+-とらのあなの委託販売の他、BOOTHでの通販が行われていた。
+-買わない人は右頬にストレートパンチだ！
+
+**曲目
++めたもる
++[[わたしのいる毎日へコンニチハ]]　※歌詞修正版
++[[君の右頬にストレートパンチしたい>君の右頬にストレートパンチしたいミクさん]]
+
+**リンク
+-[[作者サイト>>http://aidn.jp/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/02/50/040030025083.html]]
+-[[BOOTH>>https://booth.pm/ja/items/613396]]
+
+**コメント
+#comment()

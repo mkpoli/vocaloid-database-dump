@@ -1,0 +1,35 @@
+#right(){&furigana(まつりの)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/18646569" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/18646569">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-以前は&b(){atre（あとり）}という名義を主に利用していた。
+-P名は&b(){ぐぐっと！ぐぐっと→P}。&br()P名の由来は「[[NERVOUS AREA]]」の説明文から。
+-使用ボカロは今のところ、ミク・リン・レン・KAITO・ルカ。PiaproではMEIKOも使用している。
+-ロックや和風な曲を主に作る。
+
+**リンク
+-[[花影坂四丁目（作者ホームページ）>>http://atre.7narabe.net/]]
+-[[PIAPRO>>http://piapro.jp/atre]]
+-[[Twitter>>http://twitter.com/atre_]]
+
+**曲
+#list_by_tag(祭野,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(祭野CD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm10582002)|&nicovideo(http://www.nicovideo.jp/watch/sm11691000)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12453905)|&nicovideo(http://www.nicovideo.jp/watch/sm12645925)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm13109968)|&nicovideo(http://www.nicovideo.jp/watch/sm13448576)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm13591696)|&nicovideo(http://www.nicovideo.jp/watch/sm13729426)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm14188307)|&nicovideo(http://www.nicovideo.jp/watch/sm14188383)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm14233834)|&nicovideo(http://www.nicovideo.jp/watch/sm14456824)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm15100785)|&nicovideo(http://www.nicovideo.jp/watch/sm15271812)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm15501962)|&nicovideo(http://www.nicovideo.jp/watch/sm15574491)|
+
+**コメント
+- 雪花カゲロウの追加は難しいのかなぁ。  -- 名無しさん  (2013-12-02 01:17:38)
+- 最近知ったけど、もっと評価されないかなぁ  -- 名無しさん  (2014-04-29 10:27:32)
+- 祭野さんはもっと評価されるべき！！！  -- 名無しさん  (2015-12-12 00:31:54)
+#comment()

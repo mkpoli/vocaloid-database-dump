@@ -1,0 +1,47 @@
+#right(){&furigana(くれないのやいはあおきいのり)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&ref(https://karent.jp/npdca/1159_20121024094431_0280_0280.jpg)
+
+|&nicovideo(sm16547697)|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Song for you>Song for you/CD]]|CENTER:&bold(){紅の刃、蒼き祈り}|CENTER:[[迷宮スプレマシスト]]|
+
+|&bold(){[[As'257G]]}|水無月龍那|Mash|Azzy|
+
+|流通|CENTER:即売|CENTER:委託|CENTER:配信|
+|発売|CENTER:2011年12月31日|CENTER:2012年1月|CENTER:2012年11月9日|
+|価格|CENTER:￥500|CENTER:￥630（税込）|CENTER:￥600 / 1曲￥150|
+|サークル|>|CENTER:LAYER-0||
+
+**CD紹介
+>&bold(){紅と蒼が織り成す、動と静の世界―。}
+CD名：『&u(){紅の刃、蒼き祈り}』（&u(){くれないのやいば、あおきいのり}）
+-Sound Team Layer-0のCD作品。
+-As'257G feat. がくっぽいどによる和洋ロック！赤と青が疾走するサウンドを是非。
+-ジャケットイラストはHach氏。
+-2011年冬のコミックマーケット（C81）で頒布。
+//-とらのあな、D-STAGEで委託販売が行われている。
+-KARENTレーベルよりダウンロード販売も行われている。こちらはインストが未収録の全4曲となっている。
+
+**曲目
++[[誘イ朱月]]
++朱色の意思
++Celestial blue
++[[龍の巫女と蒼き騎士]]
++誘イ朱月 （Inst）
++朱色の意思 （Inst）
++Celestial blue （Inst）
++龍の巫女と蒼き騎士 （Inst）
+
+**リンク
+-[[作者サイト>>https://layer-0.shillest.net/]]
+//-[[とらのあな>>https://www.toranoana.jp/mailorder/article/04/0030/01/93/040030019311.html]]
+//-[[D-STAGE>>http://d-stage.com/shop/detail.php?seq=25420]]
+-[[KARENT：「紅の刃、蒼き祈り」>>https://karent.jp/album/1159]]
+
+**コメント
+#comment()

@@ -1,0 +1,27 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/28843850" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/28843850">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-GUMIと結月ゆかりを使用して自作曲を歌わせている。
+-自作と思われるイラストが良さげ。
+
+**リンク
+-[[Twitter>>http://twitter.com/ukiwakiwa01]]
+-[[Piapro>>http://piapro.jp/ootani_01]]
+
+**曲
+#list_by_tag(おおたに,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(おおたにCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm16107075)|&nicovideo(http://www.nicovideo.jp/watch/sm16366092)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm16760614)|&nicovideo(http://www.nicovideo.jp/watch/sm18269232)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm18854478)|&nicovideo(http://www.nicovideo.jp/watch/sm19380046)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm22261862)|&nicovideo(http://www.nicovideo.jp/watch/sm23104718)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm24621440)|&nicovideo(http://www.nicovideo.jp/watch/sm24823336)|
+
+**コメント
+//- あーーーーーーーーーーーーーーーん  -- 朝を殴るそして食べる  (2012-03-27 23:02:45)
+#comment()

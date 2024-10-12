@@ -1,0 +1,40 @@
+#right(){&furigana(あさのにしよるのほし)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+//#image(http://blog-imgs-19-origin.fc2.com/m/o/n/monaca10/20081006215337.png,http://monaca10.blog116.fc2.com/blog-entry-10.html,title=朝の虹、夜の星。,blank)
+ 
+&ref(https://www.suruga-ya.jp/database/pics/game/186106093.jpg,x=300,y=300)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){朝の虹、夜の星。}|CENTER:[[プラチナ>プラチナ/CD]]|
+
+|&bold(){[[10日P]]}|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|CENTER:2008年9月23日|CENTER:-|
+|価格|CENTER:￥400|CENTER:￥578（税込）|
+|サークル|>|CENTER:monaca:factory|
+
+**CD紹介
+CD名：『&u(){朝の虹、夜の星。}』（&u(){あさのにじ、よるのほし。}）
+-monaca(10日P)の1stミニアルバム。
+-朝と夜をテーマにした作品。
+-全5曲入り。
+-THE VOC@LOiD M@STER 5（ボーマス5）で頒布が行われた。
+-とらのあなで委託販売が行われていた。
+
+**曲目
++夜明けの旋律
++[[にじいろ。]]-First Live MIX-
++[[ティアラ]]
++[[Cosmos>Cosmos/10日P]] -against Chaos MIX-
++にじいろ。-Piano Solo-
+
+**リンク
+-[[monaca:factory (10日Pブログ)>>http://monaca10.blog116.fc2.com/]]
+//[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/16/42/040010164240.html]]
+
+**コメント
+#comment()

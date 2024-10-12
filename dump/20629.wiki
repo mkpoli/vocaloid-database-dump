@@ -1,0 +1,39 @@
+#right(){&furigana(たんじゅんめいかいP)&furigana()【登録タグ:&tags() 】}
+//&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/14649589" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"></iframe><a target="_blank" href="http://www.nicovideo.jp/mylist/14649589">【ニコニコ動画】</a>)
+&nicovideo_mylist(<iframe width="312" height="176" src="https://ext.nicovideo.jp/thumb_mylist/58876796" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/58876796">【ニコニコ動画】</a></iframe><a target="_blank" href="https://www.nicovideo.jp/mylist/58876796">【ニコニコ動画】</a>)
+
+**特徴
+-主にシンセサイザーを主体とした楽曲を制作している。
+-使用するVOCALOIDは主に「初音ミク」「鏡音リン・レン」。
+-VOCALOID楽曲以外にゲーム曲のアレンジなども行っている。
+-P名通り、単純明快なテーマ＋キャッチーな曲に定評がある。
+-が、その一方で高速テンポ+変拍子のような複雑怪奇な曲もある。
+-2016年に一度活動終了したが、2017年に復帰している。
+-復帰以降は&bold(){Naka-Dai}名義で活動を行っている。
+
+**リンク
+-[[ホームページ Rainbow Palette Synthesizer >>http://www.rainbow-palette-synth.com/]]
+-[[YouTube >>http://www.youtube.com/channel/UC2nL6u0y8vFI6NMHZVMCPzg]]
+-[[PIAPRO「naka_daiさんのページ」>>http://piapro.jp/naka_dai]]
+-[[VocaDB>>http://vocadb.net/Ar/6006]]
+//-[[Music Studio Yat（個人サイト）>>http://yattora.web.fc2.com/]]
+//-[[PIAPRO「ヤットさんのページ」>>http://piapro.jp/yat_tanjyun]]
+
+**曲
+#list_by_tag(単純明快P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(単純明快PCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm31418059)|&nicovideo(http://www.nicovideo.jp/watch/sm31487268)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm31660799)|&nicovideo(http://www.nicovideo.jp/watch/sm31834649)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm32472513)|&nicovideo(http://www.nicovideo.jp/watch/sm32577321)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm33089739)|&nicovideo(http://www.nicovideo.jp/watch/sm33134332)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm33563087)|&nicovideo(http://www.nicovideo.jp/watch/sm34369611)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm34566545)||
+
+**コメント
+- 内容が全く記載されていなかったため追加編集しました。ページ作成するなら最後まで自力で完成させてください。  -- 名無しさん (2012-02-24 20:19:05)
+- 情報を更新しました。曲、CDは編集中です。  -- 名無しさん  (2019-01-04 17:44:28)
+#comment()

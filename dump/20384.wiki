@@ -1,0 +1,38 @@
+#right(){&furigana(むめいのふぉるだ　Filtering)&furigana()【登録タグ:&tags() 】}
+//&ref(http://img.yaplog.jp/img/14/pc/k/i/d/kidsworks/0/23.jpg)
+//&ref(http://nnds.soudesune.net/5thsingle.jpg,x=300,y=300)
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186136644.jpg,x=300,y=300)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Season's+]]|CENTER:&bold(){無名のフォルダ / Filtering}|CENTER:[[all my Ballads～Forever Love～]]|
+
+|&bold(){[[キッドP]]}|[[クリスタルP]]|[[残鏡P]]|
+
+発売：2012年2月5日
+価格：￥500
+流通：即売
+サークル：クリキッド
+ジャケットイラスト：[[碧茶]]
+
+**CD紹介
+-キッドPの6曲入りCD。
+-アルバム『[[Season's]]』収録曲の「[[無名のフォルダ]]」と、[[鏡音レンコンピレーションアルバム『LC』>LEN COMPILATION「LC」]]収録曲の「[[Filtering]]」を収録した両A面シングル。
+-別名「&color(red){春のパンキッシュレン祭}」。
+-THE VOC@LOiD M@STER 19（ボーマス19）で頒布。
+-委託販売の予定はなし。
+
+**曲目
++[[無名のフォルダ]]～single version～
++[[Filtering]]～LC Version～
++無名のフォルダ～キッドVersion～
++Filtering～キッドVersion～
++無名のフォルダ～instrumental～
++Filtering～instrumental～
+
+**リンク
+-[[NnDS☆（作者サイト）>>http://nnds.soudesune.net/]]
+-[[kid's land（作者ブログ）>>http://yaplog.jp/kidsworks/]]
+
+**コメント
+#comment()

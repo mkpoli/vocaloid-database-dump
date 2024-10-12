@@ -1,0 +1,55 @@
+#right(){&furigana(れたすP) &furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/25007873" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/25007873">レタスの作物</a></iframe>)
+
+**特徴
+-当初は &bold(){83P} を名乗っていた。
+-6作目の「[[君へ>君へ/レタスP]]」を投稿後、同作のイラストおよび動画を担当した [[△○□×]]氏 とのやり取りの中でP名の改名が決まる。
+-使用ボカロは今のところGUMI、リン、レン、ミク、IA。
+-聴いているだけで切なすぎて涙腺崩壊するバラードの名手。
+-「[[ありがとう>ありがとう/レタスP]]」で遂に、念願の初殿堂入りを達成。
+-2023年現在は &bold(){日向空} 名義で活動している（[[本人ツイート>>https://twitter.com/Hinata_Sora_uh/status/1580871681471832066]]）。
+
+**リンク
+-[[Lettuce' Music Farm（作者HP）>>http://lettuce.the-ninja.jp/]]
+-[[緑の畑でひとり農業（作者ブログ）>>http://ameblo.jp/retasup/]]
+-[[Twitter>>http://twitter.com/re_ta_pi]]（旧アカウント）
+-[[Twitter>>http://twitter.com/Hinata_Sora_uh]]（日向空 名義）
+-[[PIAPRO>>http://piapro.jp/p83p]]
+-[[YouTube>>https://www.youtube.com/user/retasuP]]（リンク切れ）
+
+**曲
+#list_by_tag(レタスP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(レタスPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm13950585)|&nicovideo(http://www.nicovideo.jp/watch/sm14293214)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm14523660)|&nicovideo(http://www.nicovideo.jp/watch/sm14849397)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm14975927)|&nicovideo(http://www.nicovideo.jp/watch/sm15250382)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm15430979)|&nicovideo(http://www.nicovideo.jp/watch/sm15648128)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm15845387)|&nicovideo(http://www.nicovideo.jp/watch/sm16063479)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm16351629)|&nicovideo(http://www.nicovideo.jp/watch/sm16490258)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm17162144)|&nicovideo(http://www.nicovideo.jp/watch/sm17297505)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm17455490)|&nicovideo(http://www.nicovideo.jp/watch/sm17962214)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm18206346)|&nicovideo(http://www.nicovideo.jp/watch/sm18563696)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm18972745)|&nicovideo(http://www.nicovideo.jp/watch/sm19022577)|
+|&nicovideo(sm19340418)|&nicovideo(sm20008247)|
+|&nicovideo(sm20360500)|&nicovideo(sm20444649)|
+|&nicovideo(sm20558235)|&nicovideo(sm20615753)|
+|&nicovideo(sm20678952)|&nicovideo(sm20792078)|
+|&nicovideo(sm20855021)|&nicovideo(sm21036696)|
+|&nicovideo(sm21439210)|&nicovideo(sm21805254)|
+|&nicovideo(sm22138930)|&nicovideo(sm22286718)|
+|&nicovideo(sm22381388)|&nicovideo(sm22734009)|
+|&nicovideo(sm23361417)|&nicovideo(sm23516055)|
+|&nicovideo(sm24247300)|&nicovideo(sm25217036)|
+|&nicovideo(sm26161166)|&nicovideo(sm26899470)|
+|&nicovideo(sm31852380)|&nicovideo(sm34379338)|
+
+**コメント
+- 追加感謝！君へがすごく好き。  -- 名無しさん  (2011-10-18 19:26:18)
+- gumiの君へが一番好き  -- ブロッコリン  (2012-11-10 08:34:52)
+- ↑同じくグミのがすき。あそこからはまった  -- 名無しさん  (2012-11-20 09:54:35)
+- 「堕ちた烏、今飛び立つ」が大好きです！  -- ひろ  (2014-08-09 20:12:43)
+#comment()

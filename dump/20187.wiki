@@ -1,0 +1,32 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/978_20120105091546_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[BOTCH SUN]]|CENTER:&bold(){Arbitrary Road}|CENTER:-|
+
+|&bold(){[[ボッチ]]}|
+
+発売：2012年1月19日
+価格：￥300 / 1曲￥150
+流通：配信
+レーベル：KARENT
+ジャケット：野乃子
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/arbitrary-road/id494821576]]}|
+
+**CD紹介
+-ボッチ氏の配信シングル。
+-静かな雪道をとぼとぼ歩いているようなイメージの楽曲。
+-KARENTの「SNOW FESTIVAL」特集で配信された作品の1つ。
+
+**曲目
++Arbitrary Road （feat. 鏡音リン）
++Arbitrary Road （off vocal） （feat. 鏡音リン）
+
+**リンク
+-[[作者ブログ>>http://blog.livedoor.jp/maturi2643/]]
+-[[KARENT：「Arbitrary Road」>>http://karent.jp/album/978]]
+-[[KARENT：「SNOW FESTIVAL」特集ページ>>http://karent.jp/special/snow12]]
+
+**コメント
+#comment()

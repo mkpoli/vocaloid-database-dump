@@ -1,0 +1,36 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[眩壊グレイアウト]]&br()[[ゼンカイブレイクアウト]]|CENTER:&bold(){sweet straightflash}|CENTER:[[unhopeless utopia]]|
+
+|&bold(){[[ちょむP]]}|たると|真雪|水無月龍那|野良貴晴|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|CENTER:2010年12月31日||
+|価格|CENTER:|CENTER:￥1,260（税込）|
+|サークル|>|CENTER:ちょむ工房|
+
+**CD紹介
+-ちょむPことTakeponG氏の10作目となるボーカロイドCD。
+-使用VOCALOIDは鏡音リンAppend、猫村いろは、Lily。ちょむ工房的には珍しくクリプトン製以外のボカロを比較的大々的にフィーチャーした内容。
+-ジャケットイラストはyamo氏。
+-Tr.3とTr.6は印刷後に歌詞が変更されている。
+-2010年冬コミで頒布された。委託販売はとらのあな、メロンブックスで行われている。
+
+**曲目
++チェンジ！ / 猫村いろは　（作詞：たると）
++[[スカイ・ウォーカー]] / 猫村いろは　（作詞：真雪）
++心ゆかしき千代の町 / 鏡音リンAppend power　（作詞：水無月龍那）
++虹のホリディ / Lily　（作詞：野良貴良）
++ハミ出しちゃってもイイんじゃない / 鏡音リンAppend power　（作詞：TakeponG）
++おしかけ！魔女っ娘リリィ / Lily　（作詞：TakeponG）
++[[とんでけハードディスク]] / 鏡音リンAppend power　（作詞：TakeponG）
++～おまけ
+
+**リンク
+-[[作者サイト>>http://chomstudio.com/]]
+-[[作品ページ>>http://chomstudio.com/products/37_sweet.html]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/25/87/040010258728.html]]
+-[[メロンブックス>>http://shop.melonbooks.co.jp/shop/detail/213001008323?LIVRET=off]]
+
+**コメント
+#comment()

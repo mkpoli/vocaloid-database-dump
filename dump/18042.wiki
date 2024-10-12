@@ -1,0 +1,45 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&amazon(B005HN8LNI)
+
+|&nicovideo(sm15409147)|&nicovideo(sm15422140)|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Another shape}|CENTER:[[Another shape 2nd]]|
+
+|[[あルカP]]|[[is(hiroshi)]]|[[れるりり]]|[[ヤスオP]]|
+
+||CENTER:即売|CENTER:委託|
+|発売|>|CENTER:2011年9月4日|
+|価格|CENTER:￥|CENTER:￥1,365（税込）&br()￥1,500（税込・Amazon）|
+|サークル|>|CENTER:Celo Project|
+
+**CD紹介
+-Celo Project 新企画CD 第一弾。
+-楽曲提供にM@SATOSHI(あルカP)、元absorbのis(hiroshi)、れるりり、ヤスオが参加。
+-楽曲はこのCDの為に書下ろし(1~11)、アレンジ(12~13) 。殆どがCDでしか聞けない音源となってます!!また、殆どの楽曲でis(hiroshi)がギター演奏で参加。
+-Miku、Len が歌う、is(hiroshi)が歌う。Another shape (もう一つの形)
+-THE VOC@LOiD M@STER 17（ボーマス17）で頒布。
+-とらのあな、D-STAGE、Amazon.co.jpなどで委託販売が行われる。
+
+**曲目
++[[Doll>Doll/あルカP]] / [[M@SATOSHI>あルカP]] feat.初音ミク
++[[修羅場ダイバー]] / [[is(hiroshi)]] feat.鏡音レン
++急行列車 / [[れるりり]] feat.鏡音レン
++Ever Never / is(hiroshi) feat.初音ミク
++車窓 / [[ヤスオ>ヤスオP]] feat.初音ミク
++Doll instrumental / M@SATOSHI
++Doll / M@SATOSHI feat.is(hiroshi)
++修羅場ダイバー / is(hiroshi)
++急行列車 / れるりり feat.is(hiroshi)
++Ever Never / is(hiroshi)
++車窓 / ヤスオ feat.is(hiroshi)
++[[雨宿りの二人]] acoustic ver. / ヤスオ feat.is (hiroshi)
++雨宿りの二人 acoustic ver. instrumental / ヤスオ
+
+**リンク
+-[[Amazon>>http://www.amazon.co.jp/dp/B005HN8LNI]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0020/02/89/040020028967.html]]
+-[[D-STAGE>>http://d-stage.com/shop/detail.php?seq=23159]]
+
+**コメント
+#comment()

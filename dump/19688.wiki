@@ -1,0 +1,40 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+//&ref(http://img.toranoana.jp/popup_img/04/0020/03/01/040020030187-1p.jpg)
+#amazon(B005JS44SM)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm15465187)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[祭囃子>祭囃子/CD]]|CENTER:&bold(){Time machine films}|CENTER:[[AMPLOID]]|
+
+|&bold(){[[buzzG]]}|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|>|CENTER:2011年9月4日|
+|価格|CENTER:￥1,000|CENTER:￥1,575（税込）|
+|サークル|>|CENTER:buzzG|
+
+**CD紹介
+-書き下ろしの新曲7曲含む全8曲を収録したアルバム。
+-ジャケットイラストを&b(){[[ヨリ]]}、ミックス・マスタリングを&b(){友達募集P}、デザインをFLEETこと&b(){佐藤純一}が手掛けている。
+
+**曲目
++Take off &color(red){New!!}
++[[アイセンサー]] &color(red){New!!}
++[[DANCE FLOOR]] &color(red){New!!}
++Mutant "Stella" &color(red){New!!}
++[[タイム・カプセル]] 
++時間飛行型伝書黒猫 &color(red){New!!}
++[[She>She/buzzG]]&color(red){New!!}
++[[Notebook]] &color(red){New!!}
+
+**リンク
+-[[amazon>>http://www.amazon.co.jp/dp/B005JS44SM]]
+-[[とらのあな通販>>http://www.toranoana.jp/mailorder/article/04/0020/03/01/040020030187.html]]
+-[[作者ブログ>>http://buzzg.blog84.fc2.com/blog-entry-77.html]]
+
+**コメント
+- 捨て曲なし！おすすめ！！  -- 名無しさん  (2011-12-20 12:38:40)
+- タイムカプセルとsheが素敵  -- 名無しさん  (2011-12-31 14:41:58)
+- ストーリー性もあって聴いてて全く飽きない！タイム・カプセルとNotebookがお勧め。  -- 名無しさん  (2012-02-03 03:00:56)
+#comment()

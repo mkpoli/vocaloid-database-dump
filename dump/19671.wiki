@@ -1,0 +1,47 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+//#image(http://takepod.accela.jp/img/dbp5_b.jpg,http://takepod.accela.jp/,blank)
+
+&ref(http://karent.jp/npdca/971_20111228010520_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Dead Ball Project vol.4]]|CENTER:&bold(){Dead Ball Project vol.5}|CENTER:[[Dead Ball Project vol.6]]|
+
+|&bold(){[[デッドボールP]]}|
+
+||CENTER:即売|CENTER:同人|CENTER:配信|
+|発売|>|CENTER:2011年12月31日|CENTER:2012年1月18日|
+|価格|CENTER:￥1,000（税込）|CENTER:￥1,575（税込）|CENTER:￥1,200 / 1曲￥150|
+|サークル|>|>|CENTER:5/4TAKEPOD|
+
+**CD紹介
+>&bold(){もう我慢できないのぉー！}
+-CD「Dead Ball Project」の第5弾。
+-大ヒットした「クリスマスツリーを切り倒せ！」など、純愛ありのバカありのデッドボールありの全13曲を収録。
+-ジャケットイラストは 空木あんぐ氏 が手掛ける。
+-コミックマーケット81（C81） にてリリース。
+-KARENTレーベルよりダウンロード販売が行われている。Tr.13が未収録の全12曲となっている。
+
+**曲目
++[[秋の夜長にワガママを]]
++[[クリスマスツリーを切り倒せ！]]
++[[暇は人を殺せるか]]
++[[リバースゲーム]]
++[[霊験あらたか珍宝寺]]
++[[Electrical Zombies]]
++[[人形と左目]]
++[[恋をしたい、もう一度]]
++[[ゲゼルシャフト]]
++48
++（Bonus Track）タイフーンガール -Miku ver.- 
++（Bonus Track）月の裏側のお姫様 -Len ver.-
++デッドボールPの恋したいラジオ・第五回
+
+**リンク
+-[[5/4TAKEPOD Official Website>>http://takepod.accela.jp/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/01/22/040030012240.html]]
+-[[KARENT：「Dead Ball Project vol.5」>>http://karent.jp/album/971]]
+
+**コメント
+- そういえば8と9って同じ人の曲だっけ(遠い目 仕様ボカロが多くて楽しいね  -- 名無しさん  (2011-12-18 17:04:54)
+- そういえば5と8って同じ人の曲だっけ  -- 冬将軍  (2011-12-18 18:04:40)
+#comment()

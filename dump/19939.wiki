@@ -1,0 +1,42 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#image(http://scx-ct.net/pict/banner/sn_banner01.jpg,http://scx-ct.net/sp/sonorous/index.html,title=Sonorous,blank)
+
+&ref(http://karent.jp/npdca/949_20111219165705_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[To be style>To be style/CD]]|CENTER:&bold(){Sonorous}|CENTER:[[〆 -Deadline]]|
+
+|&bold(){[[Clean Tears]]}|[[海兎]]|あおまふ|
+
+|流通|CENTER:即売|CENTER:委託|CENTER:配信|
+|発売|>|CENTER:2011年12月31日|CENTER:2012年1月6日|
+|価格|CENTER:￥1,000|CENTER:￥1,260（税込）|CENTER:￥1,200 / 1曲￥150|
+|サークル|>|>|CENTER:S.C.X|
+
+**CD紹介
+-Clean Tears氏のVOCALOIDアルバム。
+-2011年うさぎ年最終日S.C.Xの新作は、ポップにキュートにクールに初音ミクが歌います！！
+-ジャケットイラストは唯夏氏。
+-コミックマーケット81（C81）にて頒布。同人ショップでの委託販売とKARENTレーベルからのダウンロード販売も行われる。
+
+**クロスフェード動画
+&nicovideo(sm16490171)
+
+**曲目
++Intro （feat. 初音ミク）
++[[Sonorous]] （feat. 初音ミク）
++[[Loop>Loop/Clean Tears]] （feat. 初音ミク）
++Beyond the waves （feat. 初音ミク）
++Spy （feat. 初音ミク）
++Higher （feat. 初音ミク）
++LED : Again （feat. 初音ミク）
++[[Koiuta>コイウタ/Clean Tears]] （feat. 初音ミク）
++Snowflake （feat. 初音ミク）
+
+**リンク
+-[[作者サイト>>http://scx-ct.net/]]
+-[[特設ページ>>http://scx-ct.net/sp/sonorous/index.html]]
+-[[KARENT：「Sonorous」>>http://karent.jp/album/949]]
+
+**コメント
+#comment()

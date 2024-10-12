@@ -1,0 +1,54 @@
+#right(){&furigana(しちようP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="https://ext.nicovideo.jp/thumb_mylist/55010709" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/55010709">【ニコニコ動画】</a></iframe>)
+//&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/27644950" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/27644950">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-2011年9月13日、「[[僕にはまだ早過ぎました]]」でデビュー。
+-使用ボカロは鏡音リン・レン、VY1。
+-いくつかカバーも手掛けている。203号室の人。ネタ曲には自虐ネタも多い。
+-動画のイラストも自分で描いている。
+-アーティスト名は&bold(){因幡プカリ} 。以前は &bold(){きゐな} 名義を使っていた。
+-「[[ジカンノエンブレム]]」で自身初の殿堂入りを果たした。
+-2017年12月、Twitterにて[[稲葉曇]]氏が『視長P＝稲葉曇』ということを間接的にカミングアウトした。ツイートは[[こちら>>http://twitter.com/inabakumori/status/945827824954310656]]。
+--紹介されている楽曲が視長Pの「[[1m.]]」だったため。
+
+**リンク
+-[[ぷかりシティ（作者ホームページ）>>http://float178.web.fc2.com/]]
+-[[Twitter>>http://twitter.com/FLOAT178]]
+-[[PIAPRO>>http://piapro.jp/float178]]
+-[[pixiv>>http://www.pixiv.net/member.php?id=3442053]]
+
+**曲
+#list_by_tag(視長P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(視長PCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/nm15594977)|&nicovideo(http://www.nicovideo.jp/watch/nm15613938)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm15623872)|&nicovideo(https://www.nicovideo.jp/watch/nm15707559)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm15841409)|&nicovideo(http://www.nicovideo.jp/watch/nm15880968)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm15902693)|&nicovideo(http://www.nicovideo.jp/watch/nm15946839)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm16024647)|&nicovideo(http://www.nicovideo.jp/watch/nm16239730)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm16271871)|&nicovideo(http://www.nicovideo.jp/watch/sm16376016)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm16533508)|&nicovideo(http://www.nicovideo.jp/watch/sm16567449)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm16789428)|&nicovideo(http://www.nicovideo.jp/watch/sm16999679)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm17327277)|&nicovideo(http://www.nicovideo.jp/watch/sm17474401)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm18398443)|&nicovideo(http://www.nicovideo.jp/watch/sm18631777)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm19127271)|&nicovideo(http://www.nicovideo.jp/watch/sm19323611)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm19932291)|&nicovideo(http://www.nicovideo.jp/watch/sm20915061)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm22354170)|&nicovideo(sm22540837)|
+|&nicovideo(sm23386628)|&nicovideo(sm24593350)|
+|&nicovideo(sm24699150)||
+
+**カバー
+|&nicovideo(sm16394942)|&nicovideo(sm17001528)|
+
+**コメント
+- きた！  -- お  (2011-12-02 23:44:31)
+- いつのまに！  -- ゆゃにんあ  (2011-12-18 17:39:48)
+- ジカンノエンブレムが好き  -- 名無しさん  (2017-04-12 22:24:10)
+- 因幡プカリが稲葉曇か…  -- 名無しさん  (2019-04-20 16:16:34)
+- 稲葉曇さんとは別にこの方も結構すきだったんだけどまさか同一人物とは...!  -- 透明色  (2020-01-13 16:50:12)
+- Twitter（X）のリンクよう知らん人になってますね……乗っ取られたか  -- ああ  (2024-03-29 10:42:36)
+#comment()

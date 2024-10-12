@@ -1,0 +1,38 @@
+#right(){&furigana()&furigana()【登録タグ:&tags()】}
+|CENTER:&font(b,14){Short ver.}|CENTER:&font(b,14){Long ver.}|
+|&nicovideo(sm13687825)|&nicovideo(sm13730181)|
+||&nicovideo(sm14691465)|
+作詞：[[大福P]]
+作曲：[[大福P]]
+編曲：[[大福P]]
+唄：MIRIAM
+
+**曲紹介
+-たまにはひたすらアッパーなトラックで踊りたいときもあるのさ。（作者コメ転載）
+-Single mix投稿から約3ヶ月後、PV付きのClub Editが発表された。
+
+**歌詞
+The time has come.
+Please open your eyes,
+And take farewell to this dirty world, the new world is waiting for us.
+Hey,look up to the sky. While blessing everything, four angels fly away
+Hey, look up to the sky
+Hey, look up to the sky
+Hey, look up to the sky
+Hey, look up to the sky
+The time has come
+
+Please open your eyes,
+And take farewell to this dirty world,the new world is waiting for us.
+Hey,look up to the sky. While blessing everything, four angels fly away
+Hey, look up to the sky
+Hey, look up to the sky
+Hey, look up to the sky
+Hey, look up to the sky
+
+Please open your eyes,
+And take farewell to this dirty world,the new world is waiting for us.
+Hey, look up to the sky. While blessing everything, four angels fly away
+
+**コメント
+#comment()
