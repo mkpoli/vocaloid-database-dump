@@ -1,0 +1,29 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+
+**特徴
+-絵師。
+-[[Fate>Fate/作り手]]氏の「Darling☆」シリーズや、[[レタスP]]の「[[ユキドケ>雪解け/レタスP]]」に絵を提供。
+
+**リンク
+-[[pixiv>>http://www.pixiv.net/member.php?id=1170947]]
+
+**曲
+#list_by_tag(an,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(anCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm12958219)|&nicovideo(http://www.nicovideo.jp/watch/sm13379595)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm13985869)|&nicovideo(http://www.nicovideo.jp/watch/sm15647767)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm16351629)||
+
+**コメント
+- 作成ありがとうございます！anさんのイラスト可愛くて大好きです  -- 名無しさん  (2012-04-18 02:09:43)
+- anさんの絵可愛すぎ！  -- れむれむ  (2012-10-09 16:02:11)
+- もっとかいて欲しい( ;:&#9819;&#3642;;益;&#9819;&#3642;;)  -- 名無しさん  (2012-10-09 16:03:42)
+- 可愛いいいいいいいいい  -- 名無しさん  (2012-10-11 12:27:07)
+- ハマる絵です  -- 名無しさん  (2012-10-11 12:42:58)
+- anさんの絵が…可愛すぎて…萌死…(*´ω｀*)  -- 名無しさん  (2013-05-22 00:12:36)
+- ホントノキモチがのってないですね…。  -- 御嶽山  (2014-09-28 08:24:00)
+#comment()

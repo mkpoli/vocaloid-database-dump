@@ -1,0 +1,40 @@
+#right(){&furigana(あるきだすということ)&furigana()【登録タグ:&tags() 】}
+//#ref(http://img.toranoana.jp/popup_img/04/0030/04/03/040030040354-1p.jpg)
+
+&ref(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQO03PiCNaWPlzUqo3eLUNAV0dyCF4j6zpgOkf0gujQZvqpcjEV&usqp=CAU,x=350,y=350)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm17574791)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[可能性と未来の狭間に沈む]]|CENTER:&bold(){歩き出すということ}|CENTER:-|
+
+|&bold(){[[uzP]]}|[[meola]]|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|CENTER:2012年4月28日・29日|CENTER:2012年4月28日|
+|価格|CENTER:￥1,000（税込）|CENTER:￥1,568（税込）|
+|サークル|>|CENTER:faker in my room|
+
+**CD紹介
+-[[uzP]] の 5th album.
+-初IA曲となる『[[エル>エル/uzP]]』、コンピCD収録の『[[何時何分何秒地球が何回回ったころ？]]』に新曲を加えた全10曲を収録。
+-ジャケットデザインなどのアートワークは [[meola]]氏 が手掛ける。
+-THE VOC@LOiD 超 M@STER 20（超ボーマス） にてリリース。
+
+**曲目
++歩き出すということ
++[[アネモネ>アネモネ/uzP]]
++四度目の春
++破滅のあとで
++[[何時何分何秒地球が何回回ったころ？]]
++[[箱庭より]]
++進む針の行く先に
++[[エル>エル/uzP]]
++[[ウソ]]
++[[君と世界におくる唄]]
+
+**リンク
+-[[作者ホームページ>>http://uzyuji.web.fc2.com/index.html]]
+
+**コメント
+#comment()

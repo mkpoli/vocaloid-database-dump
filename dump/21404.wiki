@@ -1,0 +1,23 @@
+#right(){&furigana(たいなそう)&furigana()【登録タグ:&tags() 】}
+
+**特徴
+現在の投稿者名は「！」
+
+
+**リンク
+-[[作者ブログ>>http://d.hatena.ne.jp/dinosaur-sr/]]
+-[[YouTube>>http://www.youtube.com/user/UrenainekoyaD42a]]
+
+**曲
+#list_by_tag(大納僧,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+
+
+**動画
+&nicovideo(http://www.nicovideo.jp/watch/sm5547287)
+
+**コメント
+- だいなそーさんのページ、復活したんですね！  -- 名無しさん  (2012-04-22 22:42:19)
+- 申し訳ないんだができればこういうの作って欲しく無いんだ・・・作るにしてもせめて名前は今使ってる「！」にしてはくれないか  -- !  (2012-05-08 03:19:30)
+#comment()

@@ -1,0 +1,64 @@
+#right(){&furigana(AssassinBabyCat)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm13142442)|&youtube(http://www.youtube.com/watch?v=P1azKudADLw){342,187}|
+作詞：[[konkon]]
+作曲：[[konkon]]
+編曲：[[konkon]]
+唄：[[Big-AL]]
+コーラス：[[Lily]]
+
+**曲紹介
+曲名：『&u(){Assassin Baby Cat}』(&u(){あさしん　べいびー　きゃっと})
+-konkon氏の12作目。
+-初のALメイン曲。
+-歌詞は理想を求めるってムズカシーネ的な感じ。（作者コメントより）
+-ブラックミュージックコンピレーションCD『[[GOOD 2 GO!!]]』、全国リリースのコンピレーションCD『[[DJ Lily Presents SUPER VOCALOID ]]』収録曲。
+
+**歌詞
+
+Assassin Baby Cat
+
+Dear Friend, Shie is called
+"Assassin Baby Cat"
+Maybe, Never be mine
+"Assassin Baby Cat"
+Dear The End, We are you
+"Assassin Baby Cat"
+Kyokuto Hinode-Line
+"Assassin Baby Cat"
+Dear Friend, She is called
+"Assassin Baby Cat"
+Killing for justice of fight
+"Assassin Baby Cat"
+Dear The End, Love and Peace
+"Assassin Baby Cat"
+Dreaming in the Isle of Wight
+"Assassin Baby Cat"
+
+Until I find you
+in the rain
+I'll Walk through DOORS
+again and again
+Until I find you
+in the rain
+I'll Walk through DOORS
+again and again
+
+Dear Friend...
+
+Dear The End...
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+**コメント
+- なんてオシャレでカッコいい曲なんだ！ALの低音が良く生かされていると思う。PVのセンスも良い。  -- 竜奇  (2012-06-13 07:33:41)
+#comment()
+
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)

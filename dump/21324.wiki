@@ -1,0 +1,61 @@
+#right(){&furigana(へきちゃ)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/17984154" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/17984154">【ニコニコ動画】碧茶コラボマイリスト</a></iframe>)
+
+**特徴
+作り手名：『&u(){碧茶}』（&u(){へきちゃ}）
+-名だたるレン廃絵師の一人。
+-これまでに [[tysP]]・[[ムスカP]]・[[ギガP]]・[[150P]]・[[キッドP]] などとコラボしている。
+
+**リンク
+-[[ニコニコ>>https://www.nicovideo.jp/user/146169]]
+-[[ピアプロ 「碧茶さん」のページ>>https://piapro.jp/hekicha]]
+-[[pixiv>>https://www.pixiv.net/users/25311]]
+-[[Twitter>>https://x.com/hekicha]]
+
+**曲
+#list_by_tag(碧茶,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(碧茶CD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm3051638)|&nicovideo(sm3151139)|
+|&nicovideo(sm3728427)|&nicovideo(sm4886301)|
+|&nicovideo(sm5540957)|&nicovideo(sm5620578)|
+|&nicovideo(sm5635053)|&nicovideo(sm5672410)|
+|&nicovideo(sm5674812)|&nicovideo(sm6142926)|
+|&nicovideo(sm6665786)|&nicovideo(sm6776821)|
+|&nicovideo(sm7247766)|&nicovideo(sm7414426)|
+|&nicovideo(nm7524606)|&nicovideo(sm7962486)|
+|&nicovideo(sm8002597)|&nicovideo(nm8466590)|
+|&nicovideo(sm8649807)|&nicovideo(sm9217082)|
+|&nicovideo(sm9218135)|&nicovideo(sm9422753)|
+|&nicovideo(nm9497702)|&nicovideo(nm9520169)|
+|&nicovideo(sm9834633)|&nicovideo(sm10133290)|
+|&nicovideo(sm10410821)|&nicovideo(sm10564442)|
+|&nicovideo(sm10584206)|&nicovideo(sm10763771)|
+|&nicovideo(sm11305015)|&nicovideo(sm11421907)|
+|&nicovideo(sm11422421)|&nicovideo(sm11681609)|
+|&nicovideo(sm12437306)|&nicovideo(sm12730927)|
+|&nicovideo(sm13089428)|&nicovideo(sm13167146)|
+|&nicovideo(sm13245859)|&nicovideo(sm14639165)|
+|&nicovideo(sm14669481)|&nicovideo(sm14692004)|
+|&nicovideo(sm15158807)|&nicovideo(sm15271378)|
+|&nicovideo(sm15572398)|&nicovideo(sm16483227)|
+|&nicovideo(sm16530536)|&nicovideo(sm16766099)|
+|&nicovideo(sm17436670)|&nicovideo(sm17561555)|
+
+**コメント
+- ページ出来たんだ！乙！！  -- 名無しさん  (2012-04-18 17:22:15)
+- ページ作成乙です!!　碧茶さん大好き!!!  -- 名無しさん  (2012-04-18 20:12:10)
+- やっとページ出来たのか！碧茶さんの可愛くてかっこいいイラストが大好きです！  -- 名無しさん  (2012-04-22 10:03:23)
+- ページ作成乙! 碧茶さんのレンが一番好きです｡  -- 名無しさん  (2012-05-02 10:28:04)
+- 碧茶さんが絵師さんの中で一番好きです！！本当にかわいすぎ！！  -- 名無し  (2013-03-06 18:36:16)
+- 碧茶さんのレン君、めちゃめちゃかっこいい！  -- 名無しさん  (2013-03-29 13:18:55)
+- 碧茶さんのレンきゅんはカッコいいのもかわえぇのも好きだ!!  -- 名無しさん  (2014-08-09 05:13:43)
+- 歌詞可愛くてよかった！曲との相性良かったからもっと歌詞書いて欲しい。  -- なか  (2015-03-14 18:24:35)
+#comment()

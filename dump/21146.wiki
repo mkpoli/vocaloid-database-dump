@@ -1,0 +1,29 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1022_20120317011904_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[椛路 -2010年、秋-]]|CENTER:&bold(){まほらま}|CENTER:-|
+
+|&bold(){[[つるつるP]]}|
+
+発売：2012年3月29日
+価格：￥150
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：[[だんご>>http://piapro.jp/mandango]]
+
+**CD紹介
+>「二人で歩いた大切な日々、忘れないように」
+-初音ミクが歌う正統派バラードです。胸いっぱいの優しさを貴方へ。
+-つるつるPの配信シングル。
+-KARENTレーベルのバラード特集で配信された作品の1つ。
+
+**曲目
++まほらま （feat. 初音ミク）
+
+**リンク
+-[[KARENT：「まほらま」>>http://karent.jp/album/1022]]
+-[[KARENT：「The Ballad Music」特集ページ>>http://karent.jp/special/ballad12]]
+
+**コメント
+#comment()

@@ -1,0 +1,38 @@
+#right(){&furigana(べいかーべいかーぱらどくす)&furigana()【登録タグ:&tags() 】}
+
+&ref(https://vocadb.net/Album/CoverPicture/9324,x=300,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm17627191)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[少女サブリミナル]]&br()[[迷走アクセラレータ]]|CENTER:&bold(){ベイカーベイカーパラドクス}|CENTER:[[気になるあいつは怪獣少年]]|
+
+|&bold(){[[触媒ファントムガール]]}|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|CENTER:2012年4月28日・29日||
+|価格|CENTER:￥500（税込）|CENTER:￥750（税別）|
+|サークル|>|CENTER:SODAMANIA|
+
+**CD紹介
+-触媒ファントムガール氏 の3rdアルバム。
+-書き下ろしのオール新作。全6曲収録。
+-ジャケットイラストは こさK氏 が手掛ける。
+-THE VOC@LOiD 超 M@STER 20（超ボーマス）にてリリース。
+
+**曲目
++INTRO（inst.）
++[[少女の走光性]]
++プールサイドガール
++放課後グラウンド
++[[殺風景にノスタルジー]]
++OUTRO（inst.）
+
+**リンク
+-[[Twitter>>http://twitter.com/Phant0m_Girl]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/04/30/040030043088.html]]
+
+**コメント
+- 欲しいです。。。。。  -- 名無しさん  (2015-07-30 19:51:26)
+- 殺風景ノスタルジー欲しい  -- 海  (2015-07-30 19:58:52)
+#comment()

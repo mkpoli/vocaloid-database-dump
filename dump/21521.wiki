@@ -1,0 +1,67 @@
+※ルール改変に伴い、作者名の後ろに「feat.キャラクター名」となっている曲もありますが、ここでは省略しています。
+
+#contents()
+----
+
+＊JOYSOUND
+＊＊配信中・配信決定済
+&font(b,120%){[[BACK（JOY歌手名順【た】ページへ戻る）>カラオケ配信曲一覧/JOYSOUND歌手名順【た】]]}
+
+&font(b,120%){[[BACK（カラオケ情報総合インデックスページへ戻る）>カラオケ配信曲一覧]]}
+//リクエスト決定分の曲の追加は月末集計直後に行うのではなく、正式発表後（毎月10日頃）にお願いします。
+
+|歌手名|曲名|曲番号|配信予定|
+|[[ツアーP]]|[[The Mad Hatter]]|[[108661>>http://joysound.com/ex/search/karaoke/_selSongNo_108661_song.htm]]|配信中●|
+|~|[[蛇の目トリッカァ]]|[[108662>>http://joysound.com/ex/search/karaoke/_selSongNo_108662_song.htm]]|配信中●|
+|~|[[雅唄 -FULL BlOOM Edition- ver.神威がくぽ>雅唄～みやびうた～]]|[[110408>>http://joysound.com/ex/search/karaoke/_selSongNo_110408_song.htm]]|配信中●|
+|[[ツカダタカシゲ]]|[[Kiss you baby]]|[[312510>>http://joysound.com/ex/search/karaoke/_selSongNo_312510_song.htm]]|配信中●|
+|[[ツキト]]|[[月下散華]]|[[314661>>http://joysound.com/ex/search/karaoke/_selSongNo_314661_song.htm]]|配信中●|
+|月のうさぎ千年P/なつ(やすみ)|[[パラダイス!SKY>パラダイス！SKY]]|[[670560>>http://joysound.com/ex/search/karaoke/_selSongNo_670560_song.htm]]|配信中●|
+|[[つきのP]]|[[金の双月 赤い糸>金の双月　赤い糸]]|[[724386>>http://joysound.com/ex/search/karaoke/_selSongNo_724386_song.htm]]|配信中●|
+|~|[[地に降りた神と遥かな歌と]]|[[672866>>http://joysound.com/ex/search/karaoke/_selSongNo_672866_song.htm]]|配信中●|
+|[[つなまる>めざめP]]|[[うそつき>うそつき/めざめP]]|[[197180>>http://joysound.com/ex/search/karaoke/_selSongNo_197180_song.htm]]|配信中●|
+|~|[[銀のフルーフ]]|[[314967>>http://joysound.com/ex/search/karaoke/_selSongNo_314967_song.htm]]|配信中●|
+|~|[[言の葉クリニック]]|[[735457>>http://joysound.com/ex/search/karaoke/_selSongNo_735457_song.htm]]|配信中●|
+|~|[[橙ゲノム]]|[[721657>>http://joysound.com/ex/search/karaoke/_selSongNo_721657_song.htm]]|配信中●|
+|~|[[月乃]]|[[197179>>http://joysound.com/ex/search/karaoke/_selSongNo_197179_song.htm]]|配信中●|
+|~|[[paranoia>paranoia/めざめP]]|[[197178>>http://joysound.com/ex/search/karaoke/_selSongNo_197178_song.htm]]|配信中●|
+|~|[[モカ>モカ/めざめP]]|[[197175>>http://joysound.com/ex/search/karaoke/_selSongNo_197175_song.htm]]|配信中●|
+|椿/透|[[回らないトゥシューズ]]|[[668867>>http://joysound.com/ex/search/karaoke/_selSongNo_668867_song.htm]]|配信中●|
+|[[ツマー>ﾂﾏｰ]]|[[君が死んでも歌は死なない]]|[[724274>>http://joysound.com/ex/search/karaoke/_selSongNo_724274_song.htm]]|配信中●|
+|~|[[(Can't wait for)After School]]|[[737942>>http://joysound.com/ex/search/karaoke/_selSongNo_737942_song.htm]]|配信中●|
+|~|[[空葬による変革の胎動]]|[[313412>>http://joysound.com/ex/search/karaoke/_selSongNo_313412_song.htm]]|配信中●|
+|~|[[少女のための行進曲]]|[[724608>>http://joysound.com/ex/search/karaoke/_selSongNo_724608_song.htm]]|配信中●|
+|~|[[夏の足音]]|[[724609>>http://joysound.com/ex/search/karaoke/_selSongNo_724609_song.htm]]|配信中●|
+|~|[[ペダルをこぐこぐ]]|[[724606>>http://joysound.com/ex/search/karaoke/_selSongNo_724606_song.htm]]|配信中●|
+|~|[[笑いにおいでよ]]|[[724607>>http://joysound.com/ex/search/karaoke/_selSongNo_724607_song.htm]]|配信中●|
+|[[つよぽそ]]|[[クリア]]|[[738009>>http://joysound.com/ex/search/karaoke/_selSongNo_738009_song.htm]]|配信中●|
+|~|[[ゼロ>ゼロ/つよぽそ]]|[[315068>>http://joysound.com/ex/search/karaoke/_selSongNo_315068_song.htm]]|配信中●|
+|~|[[レイヴン]]|[[315106>>http://joysound.com/ex/search/karaoke/_selSongNo_315106_song.htm]]|配信中●|
+|[[鶴田加茂>ika]] & MOSAIC.TUNE|[[みんなみくみくにしてあげる♪]]|[[720587>>http://joysound.com/ex/search/karaoke/_selSongNo_720587_song.htm]]|配信中●|
+|[[つるつる>つるつるP]]|[[シェイプアップ!>シェイプアップ！]]|[[116192>>http://joysound.com/ex/search/karaoke/_selSongNo_116192_song.htm]]|配信中●|
+|~|[[青春コンプレックス]]|[[177413>>http://joysound.com/ex/search/karaoke/_selSongNo_177413_song.htm]]|配信中●|
+|~|[[空飛ぶウサギの歌]]|[[178488>>http://joysound.com/ex/search/karaoke/_selSongNo_178488_song.htm]]|配信中●|
+|~|[[ただいま。]]|[[178063>>http://joysound.com/ex/search/karaoke/_selSongNo_178063_song.htm]]|配信中●|
+
+
+#co(){以下コピペ用
+|[[歌手名>P名]] (JOY>>joyアーティストページURL)|[[曲名]]|------|09年00月中旬以降|
+
+歌手名にはjoyに登録されているページを、P名はwikiのページ名をお願いします。
+(同一名称が使われている場合P名だけでOKです。)
+joyアーティストページは配信日決定されている曲が1曲以上必要になりますので、
+まだページがない場合()ごと省略して下さい。
+
+同一歌手名の曲に関しては五十音順です。(英語、記号もひらがな読みで)
+アーティストページの記載は任意でOK。(見づらいようでしたら消してください)
+}
+なお、配信予定日の表示が「○月中旬以降」の場合、それから２ヶ月以上遅れることもあります。 
+また、配信予定日が決まっている楽曲は、今のところ、配信予定日の前日か前々日にフライング配信されている模様。 
+
+詳しくは、こちらのマイリストの動画を参照。 
+http://www.nicovideo.jp/mylist/6897112
+
+
+&font(b,120%){[[BACK（JOY歌手名順【た】ページへ戻る）>カラオケ配信曲一覧/JOYSOUND歌手名順【た】]]}
+
+&font(b,120%){[[BACK（カラオケ情報総合インデックスページへ戻る）>カラオケ配信曲一覧]]}

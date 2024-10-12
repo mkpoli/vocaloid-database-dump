@@ -1,0 +1,40 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://img.toranoana.jp/img/04/0030/03/86/040030038639-1.gif)
+
+&nicovideo(sm17588665)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Tiny PaRadisE>Tiny PaRadisE/CD]]|CENTER:&bold(){TwilightZone:246}|CENTER:-|
+
+|&bold(){[[かごめP]]}|[[冷えピタP]]|[[takamatt]]|[[konkon]]|[[杉の人]]|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|>|CENTER:2012年4月29日|
+|価格|CENTER:￥1,000|CENTER:￥1,502（税込）|
+|サークル|CENTER:はにかご!|CENTER:Hany+Kago|
+
+**CD紹介
+-かごめPと歌い手のはにちゃむ★氏のユニット「Hany+Kago」の1stアルバム。
+-ボーナストラックとして鏡音リンが歌う収録曲3曲が収録されている。
+-ジャケットイラストはあーす氏、フォトグラフはtakasuii氏。
+-THE VOCALOID 超M@STER 20（超ボーマス20）やM3-2012春にてリリース。
+-とらのあなで委託販売が行なわれている。
+
+**曲目
++0:00
++[[Geo-Metric>ジヲ・メトリック]] (Arranged by [[takamatt]])
++Money? or Dream?
++[[Ira-Ira★BEE]] (Arranged by [[konkon]])
++Phone Booth Blues (Guitars plays [[mikito P>みきとP/作り手]])
++TwilightZone:246
++AKATSUKI (Instrumental, Guitars plays T@TSUYA)
++[[0:00>0:00/かごめP]] (Rin ver.)
++[[Money? or Dream?]] (Rin ver.)
++TwilightZone:246 (Rin ver.)
+
+**リンク
+-[[かごめPブログ>>http://planariya.blogspot.com/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/03/86/040030038639.html]]
+
+**コメント
+#comment()

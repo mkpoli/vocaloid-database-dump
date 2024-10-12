@@ -1,0 +1,35 @@
+#right(){&furigana(れんあいじじょう) &furigana()【登録タグ:&tags() 】}
+
+#ref(https://www.suruga-ya.jp/database/pics/game/186136565.jpg,x=300,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm17645908)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){レンアイジジョウ}|CENTER:[[と或る雨の日の事]]|
+
+|&bold(){[[らいだーP]]}|[[翠葉]]|
+
+|流通|CENTER:即売|
+|発売|CENTER:2012年4月28日・29日|
+|価格|CENTER:￥1,000（税込）|
+|サークル|CENTER:VOCAJAM|
+
+**CD紹介
+-らいだーP の 1st mini album 。全5曲収録。
+-ジャケットイラストは 翠葉氏 が手掛ける。ゲストとして歌い手の けろぴ氏 が5曲目で参加している。
+-初回特典には、「グッバイベイビーサヨナラバイバイ」の実写PVが同梱される。
+-THE VOC@LOiD 超 M@STER 20（超ボーマス）にてリリース。
+
+**曲目
++[[君色ブランケット]]
++哀歌
++[[グッバイベイビーサヨナラバイバイ]]
++[[22世紀からのハロー]]
++ぐっない☆ないとめあ feat. けろぴ
+
+**リンク
+-[[ミクと私と時々ギター（作者ブログ）>>http://rid-0x8x0x9.seesaa.net/]]
+-[[Twitter>>http://twitter.com/rider_caster]]
+
+**コメント
+#comment

@@ -1,0 +1,14 @@
+#right(){【登録タグ:&tags()】}
+//↑タグ忘れ防止のための表示
+曖昧さ回避のためのページ
+----
+-[[Comp.T]]の曲
+--[[BLUE MOON/Comp.T]]
+-[[G@POPO]]の曲
+--[[Bluemoon]]
+-[[Nia]]の曲
+--[[Blue Moon/Nia]]
+-[[カステラの人P]]の曲
+--[[Blue Moon/カステラの人P]]
+
+#include(曖昧さ回避の追加の仕方/告知)

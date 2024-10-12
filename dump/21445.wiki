@@ -1,0 +1,45 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+#amazon(B007SPZM2Q)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm17555643)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Another shape]]|CENTER:&bold(){Another shape 2nd}|CENTER:-|
+
+|[[骨盤P]]|[[is（hiroshi）]]|[[あルカP]]|[[かぐらP]]|[[フェイP]]|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|CENTER:2012年4月28日・29日|CENTER:2012年4月29日|
+|価格|CENTER:￥1,000（税込）|CENTER:￥1,500（税込）|
+|サークル|>|CENTER:Celo Project|
+
+**CD紹介
+-Celo Project が贈る、「Another shape」企画の第2弾。
+-書き下ろしの新曲など全15曲を収録。ボーカロイドの原曲と、歌い手の Φ串Φ氏 による 歌ってみたver. が収録されている。
+-ジャケットイラストは 山猫氏 が手掛ける。
+-THE VOC@LOiD 超 M@STER 20（超ボーマス）にてリリース。
+
+**曲目
++[[Wasteland]]　/　骨盤P feat. GUMI
++ほんとはね。　/　is（hiroshi） feat. 初音ミク
++そのままの君がいてよかった　/　M@SATOSHI feat. 鏡音リン
++桜吹雪　/　かぐら feat. 初音ミク
++[[幻奏歌]]　/　フェイP feat. GUMI
++[[StargazeR>Stargazer/骨盤P]]　/ 骨盤P feat. 初音ミク
++[[BLUE DOOR]] -Secret Blue Bird version-　/　M@SATOSHI feat. 初音ミク
++PERIOD（inst.）　/　M@SATOSHI 
++Wasteland　/　骨盤P feat. Φ串Φ
++ほんとはね。　/　is（hiroshi） feat. Φ串Φ
++そのままの君がいてよかった　/　M@SATOSHI feat. Φ串Φ
++桜吹雪　/　かぐら feat. Φ串Φ
++幻奏歌　/　フェイP feat. Φ串Φ
++StargazeR　/ 骨盤P feat. Φ串Φ
++BLUE DOOR -Secret Blue Bird version-　/　M@SATOSHI feat. Φ串Φ
+
+**リンク
+-[[Celo Project（サークルホームページ）>>http://www.k3.dion.ne.jp/~kirisame/dolcherryrecords/dolce/]]
+-[[amazon>>http://www.amazon.co.jp/dp/B007SPZM2Q/ref=as_li_ss_til?tag=celopro-22&camp=1027&creative=7407&linkCode=as4&creativeASIN=B007SPZM2Q&adid=115X88YPWWEMW7ZJ07PF]]
+
+**コメント
+- 歌唱ボーカロイド名記載してくれると本当助かります。  -- 名無しさん  (2012-06-12 13:39:09)
+#comment

@@ -1,0 +1,39 @@
+#right(){&furigana(IneedyouImissyouIloveyou)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(nm15172503)|
+作詞：[[KKK_KKK]]
+作曲：[[KKK_KKK]]
+編曲：[[KKK_KKK]]
+唄：[[巡音ルカ]]
+
+**曲紹介
+曲名：『&u(){I need you, I miss you, I love you.}』
+
+**歌詞
+（&s(){[[ピアプロ>>https://piapro.jp/t/MXqN]]}より転載）
+
+Love is there. You catch up idea finally.
+Have you already known you are loved a lot?
+
+Believe you. Conserve it. Your love is surely.
+I need you, I miss you, I love you.
+
+An easy kiss is a bitter on weekend.
+Very easy point is your weakness.
+I feel of that is happiness.
+I just keep on tired.
+Reluctance is piercing on weekday
+In daily life just like always. 
+What do you do? Where are you?
+
+It turns around right now.
+I am ready to be a kiss.
+Because I keep waiting for misstake.
+I love you!
+
+
+**コメント
+#comment()

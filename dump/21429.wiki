@@ -1,0 +1,39 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+#ref(http://www.k3.dion.ne.jp/~kirisame/dolcherryrecords/dolce/images/jacket-front.jpg,height=300,width=300)
+
+
+&nicovideo(http://www.nicovideo.jp/watch/sm17607958)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Dolce}|CENTER:-|
+
+|&bold(){[[卑屈P]]}|[[マェロP]]|[[コンソメ]]|[[iroha>iroha/作り手]]|[[ぽむ]]|
+
+|流通|CENTER:即売|
+|発売|CENTER:2012年4月28日・29日|
+|価格|CENTER:￥1,000（税込）|
+|サークル|CENTER:Dolcherry Records|
+
+**CD紹介
+>&bold(){ボーカロイドが奏でる恋物語、どうぞ召し上がれ。}
+-ラブ（笑）＆スイーツ（笑）をテーマに謎のクリエイター達が集結。おっさん共の甘い恋の歌をお届けします。
+-全9曲を収録。ゲストとして iroha氏 を迎えている。
+-ジャケットイラストを 霧雨。氏 が、マスタリングを [[Shibayan]]氏 が手掛ける。12Pフルカラーブックレット仕様。
+-THE VOC@LOiD 超 M@STER 20（超ボーマス）にてリリース。
+
+**曲目
++[[スパイシードロップ]]　/　卑屈P
++[[ドーナツ・デイズ]]　/　マェロP
++[[シューハート]]　/　コンソメ
++sweetcuteshortcake　/　卑屈P
++照れ隠しシャルロット　/　ぽむ
++オイシイニソウ　/　iroha
++手作りマカロン　/　ぽむ
++[[はんぶんこビスケット]]　/　卑屈P
++思い出モンブラン　/　コンソメ
+
+**リンク
+-[[特設ページ>>http://www.k3.dion.ne.jp/~kirisame/dolcherryrecords/dolce/]]
+
+**コメント
+#comment

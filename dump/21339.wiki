@@ -1,0 +1,88 @@
+※ルール改変に伴い、作者名の後ろに「feat.キャラクター名」となっている曲もありますが、ここでは省略しています。
+
+#contents()
+----
+|[[DAM曲名順【あ】>カラオケ配信曲一覧/DAM曲名順【あ】]]|[[DAM曲名順【か】>カラオケ配信曲一覧/DAM曲名順【か】]]|[[DAM曲名順【さ】>カラオケ配信曲一覧/DAM曲名順【さ】]]|[[DAM曲名順【た】>カラオケ配信曲一覧/DAM曲名順【た】]]|[[DAM曲名順【な】>カラオケ配信曲一覧/DAM曲名順【な】]]|[[DAM曲名順【は】>カラオケ配信曲一覧/DAM曲名順【は】]]|[[DAM曲名順【ま】>カラオケ配信曲一覧/DAM曲名順【ま】]]|[[DAM曲名順【や】>カラオケ配信曲一覧/DAM曲名順【や】]]|[[DAM曲名順【ら】>カラオケ配信曲一覧/DAM曲名順【ら】]]|-|
+
+歌手名で調べたい場合はこちら：
+|[[DAM歌手名順【あ】>カラオケ配信曲一覧/DAM歌手名順【あ】]]|[[DAM歌手名順【か】>カラオケ配信曲一覧/DAM歌手名順【か】]]|[[DAM歌手名順【さ】>カラオケ配信曲一覧/DAM歌手名順【さ】]]|[[DAM歌手名順【た】>カラオケ配信曲一覧/DAM歌手名順【た】]]|[[DAM歌手名順【な】>カラオケ配信曲一覧/DAM歌手名順【な】]]|[[DAM歌手名順【は】>カラオケ配信曲一覧/DAM歌手名順【は】]]|[[DAM歌手名順【ま】>カラオケ配信曲一覧/DAM歌手名順【ま】]]|[[DAM歌手名順【や】>カラオケ配信曲一覧/DAM歌手名順【や】]]|[[DAM歌手名順【ら】>カラオケ配信曲一覧/DAM歌手名順【ら】]]|[[DAM歌手名順【わ】>カラオケ配信曲一覧/DAM歌手名順【わ】]]|
+
+JOYSOUND歌手名はこちら：
+|[[JOY歌手名順【あ】>カラオケ配信曲一覧/JOYSOUND歌手名順【あ】]]|[[JOY歌手名順【か】>カラオケ配信曲一覧/JOYSOUND歌手名順【か】]]|[[JOY歌手名順【さ】>カラオケ配信曲一覧/JOYSOUND歌手名順【さ】]]|[[JOY歌手名順【た】>カラオケ配信曲一覧/JOYSOUND歌手名順【た】]]|[[JOY歌手名順【な】>カラオケ配信曲一覧/JOYSOUND歌手名順【な】]]|[[JOY歌手名順【は】>カラオケ配信曲一覧/JOYSOUND歌手名順【は】]]|[[JOY歌手名順【ま】>カラオケ配信曲一覧/JOYSOUND歌手名順【ま】]]|[[JOY歌手名順【や】>カラオケ配信曲一覧/JOYSOUND歌手名順【や】]]|[[JOY歌手名順【ら】>カラオケ配信曲一覧/JOYSOUND歌手名順【ら】]]|[[JOY歌手名順【わ】>カラオケ配信曲一覧/JOYSOUND歌手名順【わ】]]|
+
+UGA歌手名順はこちら：
+|[[UGA歌手名順【あ】>カラオケ配信曲一覧/UGA歌手名順【あ】]]|[[UGA歌手名順【か】>カラオケ配信曲一覧/UGA歌手名順【か】]]|[[UGA歌手名順【さ】>カラオケ配信曲一覧/UGA歌手名順【さ】]]|[[UGA歌手名順【た】>カラオケ配信曲一覧/UGA歌手名順【た】]]|[[UGA歌手名順【な】>カラオケ配信曲一覧/UGA歌手名順【な】]]|[[UGA歌手名順【は】>カラオケ配信曲一覧/UGA歌手名順【は】]]|[[UGA歌手名順【ま】>カラオケ配信曲一覧/UGA歌手名順【ま】]]|[[UGA歌手名順【や】>カラオケ配信曲一覧/UGA歌手名順【や】]]|[[UGA歌手名順【ら】>カラオケ配信曲一覧/UGA歌手名順【ら】]]|[[UGA歌手名順【わ】>カラオケ配信曲一覧/UGA歌手名順【わ】]]|
+
+&font(b,120%){[[BACK（カラオケ情報総合インデックスページ）へ戻る。>カラオケ配信曲一覧]]}
+
+*DAM配信中・配信決定済
+&bold(){特に記載のないものはPremier DAM・LIVEDAM配信。機種限定または他機種にも対応の場合は曲番号欄にその旨を記載。}
+|曲名|歌手名|曲番号|配信予定|
+|>|>|>|【わ】|
+|[[Warning!]]|[[40mP>40㍍P]]|[[7635-94>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7635-94]]|配信中●|
+|[[ワープアンドワープ]]|[[日向電工]]|[[7636-50>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7636-50]]|配信中●|
+|[[WORLD'S END UMBRELLA]]|[[ハチ]]|[[7610-34>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.do?requestNo=7610-34]]&br()cyber DAM HD対応|配信中●|
+|[[ワールズエンド・ダンスホール]]|[[wowaka]]|[[7604-02>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.do?requestNo=7604-02]]|配信中●|
+|[[ワールズエンド・ダンスホール(HATSUNE MIKU EXPO 2016 Japan Tour)>ワールズエンド・ダンスホール]]&br()[[(まま音 ver.)(生音)>ワールズエンド・ダンスホール]]|[[wowaka]]|[[7638-68>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7638-68]]&br()LIVE DAM STADIUM限定|配信中●|
+|[[ワールドアウトサイド]]|[[arata]]|[[7607-80>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.do?requestNo=7607-80]]|配信中●|
+|[[ワールドイズマイン>ワールドイズマイン/ryo]]|[[supercell>ryo]]|[[7600-65>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.do?requestNo=7600-65]]&br()cyber DAM HD対応|配信中●|
+|[[ワールドイズマイン（本人出演映像）>ワールドイズマイン/ryo]]|[[supercell>ryo]]|[[7600-65>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.do?requestNo=7600-65]]&br()cyber DAM HD対応|配信中●|
+|[[ワールドイズマイン(最後のミクの日感謝祭)(生音)>ワールドイズマイン/ryo]]|[[supercell>ryo]]|[[7615-16>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.do?requestNo=7615-16]]&br()LIVEDAM限定|配信中●|
+|[[ワールドイズマイン(最後のミクの日感謝祭)(生音)（LIVEカラオケ）>ワールドイズマイン/ryo]]|[[supercell>ryo]]|[[7615-16>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.do?requestNo=7615-16]]&br()LIVEDAM限定|配信中●|
+|[[ワールドイズマイン(生音)>ワールドイズマイン/ryo]]|[[supercell>ryo]]|[[7600-01>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.do?requestNo=7600-01]]|配信中●|
+|[[ワールドイズマイン>ワールドイズマイン/ryo]]&br()[[(HATSUNE MIKU EXPO 2014 in New York～Live～)>ワールドイズマイン/ryo]]&br()[[(まま音 ver.)（生音）>ワールドイズマイン/ryo]]|[[supercell>ryo]]|[[7633-20>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7633-20]]&br()LIVEDAM STADIUM限定|配信中●|
+|[[ワールドイズマイン>ワールドイズマイン/ryo]]&br()[[(HATSUNE MIKU EXPO 2014 in New York～Live～)>ワールドイズマイン/ryo]]&br()[[(まま音 ver.)（生音）（本人出演映像）>ワールドイズマイン/ryo]]|[[supercell>ryo]]|[[7633-20>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7633-20]]&br()LIVEDAM STADIUM限定|配信中●|
+|[[ワールドイズマイン(プロオケ)(生音)>ワールドイズマイン/ryo]]|[[supercell>ryo]]|[[7600-02>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.do?requestNo=7600-02]]&br()LIVEDAM限定|配信中●|
+|[[World on Color]]|[[koyori(電ポルP)>電ポルP]]|[[7625-61>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.do?requestNo=7625-61]]|配信中●|
+|[[ワールド・コーリング]]|[[IA]]×[[じん>自然の敵P]]|[[7621-18>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.do?requestNo=7621-18]]|配信中●|
+|[[ワールド・ランプシェード]]|[[buzzG]]|[[7629-14>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7629-14]]&br()LIVEDAM限定|配信中●|
+|[[ワールドReトリップ]]|[[わか/IMBK>苺ミルクをぶっかけたら殺す。]]|[[7635-31>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7635-31]]&br()LIVEDAM限定|配信中●|
+|ワガハイは|[[椎名もた>ぽわぽわP]]|[[7635-63>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7635-63]]&br()LIVEDAM限定|配信中●|
+|[[わがまま]]|[[40mP>40㍍P]]|[[7625-17>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.do?requestNo=7625-17]]|配信中●|
+|[[ワカレノオト。]]|[[かいりきベア]]|[[7635-07>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7635-07]]|配信中●|
+|[[惑星間コミュニケーション]]|[[monaca:factory>10日P]]|[[7637-02>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7637-02]]&br()LIVE DAM STADIUM限定|配信中●|
+|[[忘れるわけないでしょ(vocal test)>忘れるわけないでしょ]]|[[yuukiss]]|[[7634-76>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7634-76]]|配信中●|
+|[[わすれんぼう>わすれんぼう/アゴアニキP]]|[[アゴアニキ>アゴアニキP]]|[[7608-13>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.do?requestNo=7608-13]]|配信中●|
+|[[私が髪を切った理由]]|[[40mP>40㍍P]]|[[7630-04>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7630-04]]|配信中●|
+|[[私が恋を知る日]]|[[HoneyWorks]]|4826-48|2017年1月31日|
+|[[私、仕事なんか行きたくない]]|グチP|[[7638-73>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7638-73]]|配信中●|
+|[[私とジュリエット]]|[[doriko]]|[[7638-32>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7638-32]]|配信中●|
+|[[わたしのアール]]|[[くらげP]]|[[7636-23>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7636-23]]|配信中●|
+|[[私の彼は戦国武将]]|[[ぶりる>ぶりるP]]|[[7612-96>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.do?requestNo=7612-96]]|配信中●|
+|[[私の時間]]|[[くちばしP]]|[[7603-69>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.do?requestNo=7603-69]]&br()cyber DAM HD対応|配信中●|
+|[[私はあの子の2Pカラー]]|[[KNOTS>若干P]]|[[7637-25>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7637-25]]&br()LIVE DAM STADIUM限定|配信中●|
+|[[わたしライス定食たべにきた]]|[[まこ猫]]|[[7612-46>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.do?requestNo=7612-46]]&br()cyber DAM HD対応|配信中●|
+|[[わりばしおんな。]]|[[ラヴリーP]]|[[7621-06>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.do?requestNo=7621-06]]&br()LIVEDAM限定|配信中●|
+|[[わるつ]]|[[梨本うい>梨本P]]|[[7619-45>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.do?requestNo=7619-45]]|配信中●|
+|[[Waltz Of Anomalies]]|[[ナノウ>ほえほえP]]|[[7620-57>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.do?requestNo=7620-57]]&br()LIVEDAM限定|配信中●|
+|[[ONE OFF MIND]]|Van de shop|[[7638-12>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7638-12]]&br()LIVE DAM STADIUM限定|配信中●|
+|[[ワンステップ・レイヤード]]|[[Last Note.]]|[[7613-08>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.do?requestNo=7613-08]]|配信中●|
+|[[Wander Girl]]|[[鼻そうめんP]]|[[7613-27>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.do?requestNo=7613-27]]|配信中●|
+|[[ワンダーラスト]]|[[sasakure.UK>ささくれP]]|[[7600-20>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.do?requestNo=7600-20]]&br()cyber DAM HD対応|配信中●|
+|[[ワンダーランドと羊の歌]]|[[ハチ]]|[[7610-35>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.do?requestNo=7610-35]]&br()cyber DAM HD対応|配信中●|
+|[[One Night Disco]]|[[nana]]|[[7618-75>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.do?requestNo=7618-75]]|配信中●|
+|[[one more kiss]]|[[OSTER project]]|[[7608-65>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.do?requestNo=7608-65]]|配信中●|
+|[[ワンルーム・オール・ザット・ジャズ]]|[[DATEKEN]]|[[7615-25>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.do?requestNo=7615-25]]|配信中●|
+|[[わんわんお!>わんわんお！]]|[[Bumpyうるし]]|[[7620-70>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.do?requestNo=7620-70]]&br()LIVEDAM限定|配信中●|
+|[[わんわんお にゃんにゃんお]]|[[猫虫>猫虫P]]|[[7603-55>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.do?requestNo=7603-55]]&br()cyber DAM HD対応|配信中●|
+
+|[[DAM曲名順【あ】>カラオケ配信曲一覧/DAM曲名順【あ】]]|[[DAM曲名順【か】>カラオケ配信曲一覧/DAM曲名順【か】]]|[[DAM曲名順【さ】>カラオケ配信曲一覧/DAM曲名順【さ】]]|[[DAM曲名順【た】>カラオケ配信曲一覧/DAM曲名順【た】]]|[[DAM曲名順【な】>カラオケ配信曲一覧/DAM曲名順【な】]]|[[DAM曲名順【は】>カラオケ配信曲一覧/DAM曲名順【は】]]|[[DAM曲名順【ま】>カラオケ配信曲一覧/DAM曲名順【ま】]]|[[DAM曲名順【や】>カラオケ配信曲一覧/DAM曲名順【や】]]|[[DAM曲名順【ら】>カラオケ配信曲一覧/DAM曲名順【ら】]]|-|
+
+
+//リクエスト中の曲はエントリー一覧で取扱い中
+**リクエストエントリー中の曲
+&font(b,120%){エントリー楽曲【あ】～【た】は}&font(b,150%){[[こちら>DAMエントリー楽曲一覧【あ】～【た】]]}
+&font(b,120%){エントリー楽曲【な】～【わ】は}&font(b,150%){[[こちら>DAMエントリー楽曲一覧【な】～【わ】]]}
+
+
+*UGA
+UGA曲名順はこちら：
+|[[UGA曲名順【あ】>カラオケ配信曲一覧/UGA曲名順【あ】]]|[[UGA曲名順【か】>カラオケ配信曲一覧/UGA曲名順【か】]]|[[UGA曲名順【さ】>カラオケ配信曲一覧/UGA曲名順【さ】]]|[[UGA曲名順【た】>カラオケ配信曲一覧/UGA曲名順【た】]]|[[UGA曲名順【な】>カラオケ配信曲一覧/UGA曲名順【な】]]|[[UGA曲名順【は】>カラオケ配信曲一覧/UGA曲名順【は】]]|[[UGA曲名順【ま】>カラオケ配信曲一覧/UGA曲名順【ま】]]|[[UGA曲名順【や】>カラオケ配信曲一覧/UGA曲名順【や】]]|[[UGA曲名順【ら】>カラオケ配信曲一覧/UGA曲名順【ら】]]|[[UGA曲名順【わ】>カラオケ配信曲一覧/UGA曲名順【わ】]]|
+
+
+*JOYSOUND
+JOYSOUND曲名順はこちら：
+|[[JOY曲名順【あ】>カラオケ配信曲一覧/JOYSOUND曲名順【あ】]]|[[JOY曲名順【か】>カラオケ配信曲一覧/JOYSOUND曲名順【か】]]|[[JOY曲名順【さ】>カラオケ配信曲一覧/JOYSOUND曲名順【さ】]]|[[JOY曲名順【た】>カラオケ配信曲一覧/JOYSOUND曲名順【た】]]|[[JOY曲名順【な】>カラオケ配信曲一覧/JOYSOUND曲名順【な】]]|[[JOY曲名順【は】>カラオケ配信曲一覧/JOYSOUND曲名順【は】]]|[[JOY曲名順【ま】>カラオケ配信曲一覧/JOYSOUND曲名順【ま】]]|[[JOY曲名順【や】>カラオケ配信曲一覧/JOYSOUND曲名順【や】]]|[[JOY曲名順【ら】>カラオケ配信曲一覧/JOYSOUND曲名順【ら】]]|[[JOY曲名順【わ】>カラオケ配信曲一覧/JOYSOUND曲名順【わ】]]|
+
+
+&font(b,120%){[[BACK（カラオケ情報総合インデックスページ）へ戻る。>カラオケ配信曲一覧]]}

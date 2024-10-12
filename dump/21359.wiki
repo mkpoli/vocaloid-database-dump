@@ -1,0 +1,43 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+#ref(http://twinkledisc.net/blog/wp-content/uploads/2012/04/Detector_jacket_mid.jpg,width=300,height=300)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[EXIT TUNES PRESENTS THE BEST OF Dios／シグナルP]]|CENTER:&bold(){Detector}|CENTER:[[RAMBLE！JUMBLE！]]|
+
+|&bold(){[[シグナルP]]}|[[花束P]]|shino|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|CENTER:2012年4月28日・29日||
+|価格|CENTER:￥1,000（税込）|CENTER:￥1,200（税別）|
+|サークル|>|CENTER:twinkledisc|
+
+**CD紹介
+-『[[DigiStyling]]』から約2年ぶりとなるオリジナルアルバム。
+-「[[カウントダウン]]」「[[エンクロージャー>エンクロージャー（enclosure）]]」「[[トロピカル・サマー]]」などの既存曲に新曲を加えた、全9曲を収録。
+-本作には、ゆかりとIAのオリジナル曲も初収録。
+-12Pのフルカラーブックレット仕様。ジャケットイラストを haru氏 が、デザインを BUZZ氏 が手掛ける。
+-THE VOC@LOiD 超 M@STER 20（超ボーマス）にて頒布。
+-とらのあなやメロンブックスで委託販売が行われていた。
+
+**曲目
++Detector feat. 鏡音レン
++[[カウントダウン]] feat. GUMI
++アンダンテ feat. 結月ゆかり
++[[エンクロージャー>エンクロージャー（enclosure）]] feat. 鏡音リン・鏡音レン
++タイニープライド feat. 初音ミク
++[[トロピカル・サマー]] feat. GUMI
++Farewell Forest feat. 鏡音リン
++ケンカ サヨナラ feat. IA
++[[ココロ]] -more digi mix- feat. 鏡音リン
+
+**リンク
+-[[twinkledisc（作者ホームページ）>>http://twinkledisc.net/blog.htm]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/03/94/040030039468.html]]
+
+**コメント
+- シグＰ久しぶりだなぁ♪  -- とある名無し  (2012-04-19 21:54:12)
+- アンダンテの歌詞が出てこない…(ρ＿；)  -- cocoa  (2013-01-07 21:21:28)
+- タイニープライドの歌詞が欲しい…  -- 結月すみれ  (2013-01-21 20:17:51)
+- 「ケンカ　サヨナラ」結構好き。「カウントダウン」がシビレた。「エンクロージャー」は神だった鳥肌ヤバいリンレン最高!!  -- 名無しさん  (2013-04-22 23:27:23)
+- エンクロージャー、ケンカ  サヨナラ、が大好き&#8252;&#65039;&#8252;&#65039;&#8252;&#65039;  -- 良太  (2014-12-03 11:36:36)
+#comment

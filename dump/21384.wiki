@@ -1,0 +1,42 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm17575350)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[独我論 code:altered]]|CENTER:&bold(){DISPLAY}|CENTER:[[ARLEQUIN]]|
+
+|&bold(){[[ORYO]]}|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2012年4月28日・29日|CENTER:2012年4月28日|
+|価格|CENTER:￥1,000（税込）|CENTER:￥1,568（税込）|
+|サークル|>|CENTER:FAULHEIT|
+
+**CD紹介
+>&bold(){どうぞ、次はあなたもご一緒に。}
+-FAULHEIT 名義での 1st album 。事実上の 2nd album となる。
+-「[[独我論 code:altered]]」「[[マレフィカ]]」などの既存曲に新曲を加えた、全11曲を収録。
+-ジャケットイラストは [[おはぎ]]氏 が手掛ける。
+-THE VOC@LOiD 超 M@STER 20（超ボーマス）にてリリース。
+-とらのあなで委託販売が行われている。
+
+**曲目
++CLEAN ROOM
++Shuffle.
++[[独我論 code:altered]]
++DINNER
++[[winter glitter]]
++[[空色の傲慢]]
++191
++[[マレフィカ]]
++躁鬱ロマンチック
++[[終末論 code:heretic]]
++サイレン
+
+**リンク
+-[[作者ブログ>>http://oryo-faulheit.jugem.jp/]]
+
+**コメント
+//- いちげっと！
+- ORYOさんの曲、ネ申だわ・・・。　おはぎさんの絵、好きだな・・・。　個人的にDINNERとマレフィカがいいっすね  -- 烏龍  (2012-12-19 18:56:00)
+- 独我論、終末論、空色の傲慢、書き下ろし曲の中ならShuffle.と191が好き。どれもカッコいい！  -- 名無しさん  (2014-08-17 14:19:20)
+#comment()

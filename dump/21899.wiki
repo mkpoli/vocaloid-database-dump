@@ -1,0 +1,39 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#ref(http://img.toranoana.jp/popup_img/04/0030/04/58/040030045832-1p.jpg)
+
+
+|&nicovideo(http://www.nicovideo.jp/watch/sm17583774)|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Advance}|CENTER:[[Good Melody Good Smile]]|
+
+|&bold(){[[いのっぴ]]}|[[テレ太]]|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|CENTER:2012年4月28日・29日|CENTER:2012年4月28日|
+|価格|CENTER:\800（税込）|CENTER:\1,260（税込）|
+|サークル|CENTER:テレっぴ4年生|CENTER:いのっぴ|
+
+**CD紹介
+-ボラP こと いのっぴ氏 の 1st album.
+-これまでにリリースした既存曲に新曲2曲＋ [[テレ太]]氏 の「[[さよなら白昼夢]]」のカバーを加えた全9曲を収録。
+-ジャケットイラストなどは ろーと氏 が手掛ける。
+-THE VOC@LOiD 超 M@STER 20（超ボーマス） にてリリース。
+
+**曲目
++[[Emotion Station]]
++[[Parachute>Parachute/いのっぴ]]
++[[Sky dancer]]
++[[Your Border]]
++[[オレンジ・ソング]]
++[[ホットミルク]]
++[[ストロベリーレース]]
++空色ドライブ
++[[さよなら白昼夢]] song by テレ太
+
+**リンク
+-[[Twitter>>http://twitter.com/inoppippi]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/04/58/040030045832.html]]
+
+**コメント
+#comment()

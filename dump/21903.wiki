@@ -1,0 +1,41 @@
+#right(){&furigana(いのっひ)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://ext.nicovideo.jp/thumb_mylist/28038666" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/28038666">【ニコニコ動画】%E8%87%AA%E5%88%86%E3%81%AE%E6%9B%B2</a></iframe>)
+
+**特徴
+作り手名：『&u(){いのっぴ}』
+-2011年10月、「[[Parachute>Parachute/いのっぴ]]」でボカロデビュー。
+-シンプルなポップ＆ロック好きな作り手。ロックバンド the pillows のファン。
+-使用ボカロは今のところ、初音ミク・蒼姫ラピス・GUMI。
+
+**リンク
+-[[PIAPRO>>https://piapro.jp/liamgentleman]]
+-[[Twitter>>https://twitter.com/inoppippi]]
+-[[ニコニコ>>https://www.nicovideo.jp/user/6279575]]
+-[[YouTube>>https://www.youtube.com/channel/UCXrqAZLiQWxiP_9E5cgzhRQ]]
+-[[SoundCloud>>https://soundcloud.com/inoppippi]]
+-[[BOOTH>>https://inoppippi.booth.pm/]]
+
+**曲
+#list_by_tag(いのっぴ,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(いのっぴCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm15846820)|&nicovideo(sm15979653)|
+|&nicovideo(sm16252347)|&nicovideo(sm16719329)|
+|&nicovideo(sm17105914)|&nicovideo(sm17527441)|
+|&nicovideo(sm17902360)|&nicovideo(sm18050243)|
+|&nicovideo(sm18908463)|&nicovideo(sm19405225)|
+|&nicovideo(sm19507518)|&nicovideo(sm20172102)|
+|&nicovideo(sm20285735)|&nicovideo(sm20403730)|
+|&nicovideo(sm21027383)|>|
+
+**コメント
+//- いのっぴさんってビールクズらしいよ  -- 名無しさん  (2013-04-03 02:33:14)
+- いのっぴさんの曲好きですよ！  -- ブル川  (2016-03-06 09:11:22)
+#comment()

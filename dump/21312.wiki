@@ -1,0 +1,36 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+#ref(http://karent.jp/npdca/1047_20120423213121_0280_0280.jpg)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm17446685)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Jailbreak from the Sunday Morning!!}|CENTER:[[ハイカラレコード]]|
+
+|&bold(){[[もっふーP]]}|
+
+|流通|CENTER:即売|CENTER:配信|
+|発売|CENTER:2012年4月28日・29日|CENTER:2012年5月9日|
+|価格|CENTER:￥500|CENTER:￥600 / 1曲￥150|
+|サークル|CENTER:VOCAJAM||
+
+**CD紹介
+>&bold(){― 今世紀最大の脱獄ショーへようこそ!! ―}
+-もっふーP の 1st mini album 。全5曲収録。
+-曲の内容は、元気が出るようなインディーポップを意識しました。いつもと違う感じを楽しんでいただければ嬉しいです。（作者コメ転載）
+-THE VOC@LOiD 超 M@STER 20（超ボーマス）にてリリース。
+-KARENTレーベルよりダウンロード販売が行われている。配信版はTr.1のインストが未収録の全4曲となっている。
+
+**曲目
++AM8:27（inst.）
++[[Halo>Halo/もっふーP]]
++Welcome to jailbreak show!!
++slow world （Escape retake.）
++Good bye!! Melancholy Sunday Morning!!
+
+**リンク
+-[[ああ、憂鬱だ。（作者ブログ）>>http://moffmoffmoffmoff.blog.fc2.com/]]
+-[[Twitter>>http://twitter.com/moff_P]]
+-[[KARENT：「Jailbreak from the Sunday Morning!!」>>http://karent.jp/album/1047]]
+
+**コメント
+#comment

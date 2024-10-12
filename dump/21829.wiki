@@ -1,0 +1,39 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo(sm17624265)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Life Is A Minestrone]]|CENTER:&bold(){Bedroom Pop N' Roll}|CENTER:-|
+
+|&bold(){[[liam>liam/作り手]]}|
+
+|流通|CENTER:即売|CENTER:委託|CENTER:配信|
+|発売|CENTER:2012年4月28・29日|CENTER:2012年5月||
+|価格|CENTER:￥1,000|CENTER:￥1,200（税込）|CENTER:￥500|
+|サークル|>|CENTER:No Money No Honey||
+
+**CD紹介
+>それは、ヘッドフォンが支配するたった一人の王国
+-liam氏の2ndアルバム。
+-アートワークは荒川氏が手掛けている。
+-THE VOC@LOiD 超 M@STER 20（超ボーマス20）で頒布。
+-とらのあなで委託販売、自家通販が行われている。
+-bandcampとBOOTHでダウンロード販売が行われている。
+
+**曲目
++chipped (instrumental)　&color(red){NEW!!}
++[[ベッドルーム・ポップンロール]]　&color(red){NEW!!}
++[[slowly]]
++Cosmic Blues
++(Don't) Stop The World　&color(red){NEW!!}
++[[晴れた日にはギターポップを]]
++[[あかいゆめ]]
++[[thorn]] (alternate mix)
+
+**リンク
+-[[作者ブログ>>http://liaaaamm.blog.shinobi.jp/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/04/07/040030040728.html]]
+-[[bandcamp>>https://liam-kasahara.bandcamp.com/]]
+-[[BOOTH>>https://liam.booth.pm/]]
+
+**コメント
+#comment()

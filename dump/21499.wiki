@@ -1,0 +1,69 @@
+※ルール改変に伴い、作者名の後ろに「feat.キャラクター名」となっている曲もありますが、ここでは省略しています。
+
+※2012年6月1日よりUGAの曲データは機種指定必須となりました。当Wikiでは「uga next」のデータをリンク先にしています。他機種についてはお手数ですが各自検索願います。
+
+#contents()
+----
+|[[UGA曲名順【あ】>カラオケ配信曲一覧/UGA曲名順【あ】]]|[[UGA曲名順【か】>カラオケ配信曲一覧/UGA曲名順【か】]]|[[UGA曲名順【さ】>カラオケ配信曲一覧/UGA曲名順【さ】]]|[[UGA曲名順【た】>カラオケ配信曲一覧/UGA曲名順【た】]]|[[UGA曲名順【な】>カラオケ配信曲一覧/UGA曲名順【な】]]|[[UGA曲名順【は】>カラオケ配信曲一覧/UGA曲名順【は】]]|[[UGA曲名順【ま】>カラオケ配信曲一覧/UGA曲名順【ま】]]|[[UGA曲名順【や】>カラオケ配信曲一覧/UGA曲名順【や】]]|[[UGA曲名順【ら】>カラオケ配信曲一覧/UGA曲名順【ら】]]|-|
+
+歌手名で調べたい場合はこちら：
+|[[UGA歌手名順【あ】>カラオケ配信曲一覧/UGA歌手名順【あ】]]|[[UGA歌手名順【か】>カラオケ配信曲一覧/UGA歌手名順【か】]]|[[UGA歌手名順【さ】>カラオケ配信曲一覧/UGA歌手名順【さ】]]|[[UGA歌手名順【た】>カラオケ配信曲一覧/UGA歌手名順【た】]]|[[UGA歌手名順【な】>カラオケ配信曲一覧/UGA歌手名順【な】]]|[[UGA歌手名順【は】>カラオケ配信曲一覧/UGA歌手名順【は】]]|[[UGA歌手名順【ま】>カラオケ配信曲一覧/UGA歌手名順【ま】]]|[[UGA歌手名順【や】>カラオケ配信曲一覧/UGA歌手名順【や】]]|[[UGA歌手名順【ら】>カラオケ配信曲一覧/UGA歌手名順【ら】]]|[[UGA歌手名順【わ】>カラオケ配信曲一覧/UGA歌手名順【わ】]]|
+
+JOYSOUND歌手名はこちら：
+|[[JOY歌手名順【あ】>カラオケ配信曲一覧/JOYSOUND歌手名順【あ】]]|[[JOY歌手名順【か】>カラオケ配信曲一覧/JOYSOUND歌手名順【か】]]|[[JOY歌手名順【さ】>カラオケ配信曲一覧/JOYSOUND歌手名順【さ】]]|[[JOY歌手名順【た】>カラオケ配信曲一覧/JOYSOUND歌手名順【た】]]|[[JOY歌手名順【な】>カラオケ配信曲一覧/JOYSOUND歌手名順【な】]]|[[JOY歌手名順【は】>カラオケ配信曲一覧/JOYSOUND歌手名順【は】]]|[[JOY歌手名順【ま】>カラオケ配信曲一覧/JOYSOUND歌手名順【ま】]]|[[JOY歌手名順【や】>カラオケ配信曲一覧/JOYSOUND歌手名順【や】]]|[[JOY歌手名順【ら】>カラオケ配信曲一覧/JOYSOUND歌手名順【ら】]]|[[JOY歌手名順【わ】>カラオケ配信曲一覧/JOYSOUND歌手名順【わ】]]|
+
+DAM歌手名順はこちら：
+|[[DAM歌手名順【あ】>カラオケ配信曲一覧/DAM歌手名順【あ】]]|[[DAM歌手名順【か】>カラオケ配信曲一覧/DAM歌手名順【か】]]|[[DAM歌手名順【さ】>カラオケ配信曲一覧/DAM歌手名順【さ】]]|[[DAM歌手名順【た】>カラオケ配信曲一覧/DAM歌手名順【た】]]|[[DAM歌手名順【な】>カラオケ配信曲一覧/DAM歌手名順【な】]]|[[DAM歌手名順【は】>カラオケ配信曲一覧/DAM歌手名順【は】]]|[[DAM歌手名順【ま】>カラオケ配信曲一覧/DAM歌手名順【ま】]]|[[DAM歌手名順【や】>カラオケ配信曲一覧/DAM歌手名順【や】]]|[[DAM歌手名順【ら】>カラオケ配信曲一覧/DAM歌手名順【ら】]]|[[DAM歌手名順【わ】>カラオケ配信曲一覧/DAM歌手名順【わ】]]|
+
+&font(b,120%){[[BACK（カラオケ情報総合インデックスページ）へ戻る。>カラオケ配信曲一覧]]}
+
+*UGA配信中・配信決定済
+|曲名|歌手名|曲番号|配信予定|
+|>|>|>|【わ】|
+|[[warm word world]]|[[add9(ヘリP)>ヘリP]]|[[6218-19>>http://joysound.biz/search/songs/detail/id/807026/machine/14]]|配信中●|
+|[[ワールズエンド・ダンスホール]]|[[wowaka]]|[[6204-72>>http://joysound.biz/search/songs/detail/id/654594/machine/14]]|配信中●|
+|[[［レコおと］ワールズエンド・ダンスホール>ワールズエンド・ダンスホール]]|[[wowaka]]|7901-21|&bold(){配信終了}|
+|[[World on Color]]|[[電ポルP]]|[[6214-58>>http://joysound.biz/search/songs/detail/id/758865/machine/14]]|配信中●|
+|[[ワールド・コーリング]]|[[じん>自然の敵P]]|[[6211-02>>http://joysound.biz/search/songs/detail/id/746393/machine/14]]|配信中●|
+|[[ワールド・ランプシェード]]|[[buzzG]]|[[6216-94>>http://joysound.biz/search/songs/detail/id/803298/machine/14]]|配信中●|
+|[[WINE BERRY]]|[[蘭]]|[[6203-55>>http://joysound.biz/search/songs/detail/id/684816/machine/14]]|配信中●|
+|[[WINE BERRY《本人映像》>WINE BERRY]]|[[蘭]]|[[6825-94>>http://joysound.biz/search/songs/detail/id/184995/machine/14]]|配信中●|
+|[[和傘咲く、祇園花灯路]]|[[kyoki]]|[[6231-66>>http://joysound.biz/search/songs/detail/id/833279/machine/14]]|配信中●|
+|[[惑星ループ]]|Eve feat.[[ナユタン星人]]|[[2857-39>>http://joysound.biz/search/songs/detail/id/993312/machine/14]]|配信中●|
+|ワスレルサテライト|[[PolyphonicBranch]]|[[6231-78>>http://joysound.biz/search/songs/detail/id/834120/machine/14]]|配信中●|
+|[[私の痕跡]]|[[SHO（キセノンP）]]|[[6217-62>>http://joysound.biz/search/songs/detail/id/804968/machine/14]]|配信中●|
+|[[わすれる>わすれる/tilt]]|[[tilt-six>tilt]]|[[6217-08>>http://joysound.biz/search/songs/detail/id/803812/machine/14]]|配信中●|
+|[[わすれる《本人映像》>わすれる/tilt]]|[[tilt-six>tilt]]|[[6833-39>>http://joysound.biz/search/songs/detail/id/807759/machine/14]]|配信中●|
+|[[わたしのアール]]|[[くらげP]]|[[6240-91>>http://joysound.biz/search/songs/detail/id/923861/machine/14]]|配信中●|
+|[[わたしライス定食たべにきた]]|[[まこ猫]]|[[6207-81>>http://joysound.biz/search/songs/detail/id/727858/machine/14]]|配信中●|
+|[[わりばしおんな。]]|[[ラヴリーP]]|[[6206-97>>http://joysound.biz/search/songs/detail/id/725555/machine/14]]|配信中●|
+|[[悪いことはしちゃいけないよ]]|[[きくお]]|[[6201-12>>http://joysound.biz/search/songs/detail/id/664964/machine/14]]|配信中●|
+|[[わるつ]]|[[梨本うい>梨本P]]|[[6201-02>>http://joysound.biz/search/songs/detail/id/658156/machine/14]]|配信中●|
+|[[Waltz Of Anomalies]]|[[ナノウ>ほえほえP]]|[[6204-55>>http://joysound.biz/search/songs/detail/id/685933/machine/14]]|配信中●|
+|[[ワヲンメソッド]]|[[konkon]]|[[6208-19>>http://joysound.biz/search/songs/detail/id/727346/machine/14]]|配信中●|
+|[[ONE OFF MIND]]|VAN DE SHOP|[[6245-71>>http://joysound.biz/search/songs/detail/id/948855/machine/14]]|配信中●|
+|[[ワンダーラスト]]|[[sasakure.UK>ささくれP]]|[[6207-34>>http://joysound.biz/search/songs/detail/id/641976/machine/14]]|配信中●|
+|[[ワンダーランドと羊の歌]]|[[ハチ]]|[[6204-61>>http://joysound.biz/search/songs/detail/id/685970/machine/14]]|配信中●|
+|[[ワンダホー・ニッポン!>ワンダホー・ニッポン！]]|[[かごめP]]×[[takamatt]]|[[6213-01>>http://joysound.biz/search/songs/detail/id/753708/machine/14]]|配信中●|
+|[[ワンルーム・オール・ザット・ジャズ]]|[[DATEKEN]]|[[6208-23>>http://joysound.biz/search/songs/detail/id/728606/machine/14]]|配信中●|
+|[[わんわんお!>わんわんお！]]|[[Bumpyうるし]]|[[6200-52>>http://joysound.biz/search/songs/detail/id/663194/machine/14]]|配信中●|
+|[[［本人］わんわんお!>わんわんお！]]|[[Bumpyうるし]]|6862-43|&bold(){配信終了}|
+|[[わんわんお!《レコおと》>わんわんお！]]|[[Bumpyうるし]]|[[7901-33>>http://joysound.biz/search/songs/detail/id/671263/machine/14]]|配信中●|
+|>|>|>|【ゐ】|
+|[[@ヰタ・セクスアリス>❀ヰタ・セクスアリス]]|[[orange>orange/作り手]]|[[6205-23>>http://joysound.biz/search/songs/detail/id/721025/machine/14]]|配信中●|
+
+
+|[[UGA曲名順【あ】>カラオケ配信曲一覧/UGA曲名順【あ】]]|[[UGA曲名順【か】>カラオケ配信曲一覧/UGA曲名順【か】]]|[[UGA曲名順【さ】>カラオケ配信曲一覧/UGA曲名順【さ】]]|[[UGA曲名順【た】>カラオケ配信曲一覧/UGA曲名順【た】]]|[[UGA曲名順【な】>カラオケ配信曲一覧/UGA曲名順【な】]]|[[UGA曲名順【は】>カラオケ配信曲一覧/UGA曲名順【は】]]|[[UGA曲名順【ま】>カラオケ配信曲一覧/UGA曲名順【ま】]]|[[UGA曲名順【や】>カラオケ配信曲一覧/UGA曲名順【や】]]|[[UGA曲名順【ら】>カラオケ配信曲一覧/UGA曲名順【ら】]]|-|
+
+
+*DAM
+DAM曲名順はこちら：
+|[[DAM曲名順【あ】>カラオケ配信曲一覧/DAM曲名順【あ】]]|[[DAM曲名順【か】>カラオケ配信曲一覧/DAM曲名順【か】]]|[[DAM曲名順【さ】>カラオケ配信曲一覧/DAM曲名順【さ】]]|[[DAM曲名順【た】>カラオケ配信曲一覧/DAM曲名順【た】]]|[[DAM曲名順【な】>カラオケ配信曲一覧/DAM曲名順【な】]]|[[DAM曲名順【は】>カラオケ配信曲一覧/DAM曲名順【は】]]|[[DAM曲名順【ま】>カラオケ配信曲一覧/DAM曲名順【ま】]]|[[DAM曲名順【や】>カラオケ配信曲一覧/DAM曲名順【や】]]|[[DAM曲名順【ら】>カラオケ配信曲一覧/DAM曲名順【ら】]]|[[DAM曲名順【わ】>カラオケ配信曲一覧/DAM曲名順【わ】]]|
+
+
+*JOYSOUND
+JOYSOUND曲名順はこちら：
+|[[JOY曲名順【あ】>カラオケ配信曲一覧/JOYSOUND曲名順【あ】]]|[[JOY曲名順【か】>カラオケ配信曲一覧/JOYSOUND曲名順【か】]]|[[JOY曲名順【さ】>カラオケ配信曲一覧/JOYSOUND曲名順【さ】]]|[[JOY曲名順【た】>カラオケ配信曲一覧/JOYSOUND曲名順【た】]]|[[JOY曲名順【な】>カラオケ配信曲一覧/JOYSOUND曲名順【な】]]|[[JOY曲名順【は】>カラオケ配信曲一覧/JOYSOUND曲名順【は】]]|[[JOY曲名順【ま】>カラオケ配信曲一覧/JOYSOUND曲名順【ま】]]|[[JOY曲名順【や】>カラオケ配信曲一覧/JOYSOUND曲名順【や】]]|[[JOY曲名順【ら】>カラオケ配信曲一覧/JOYSOUND曲名順【ら】]]|[[JOY曲名順【わ】>カラオケ配信曲一覧/JOYSOUND曲名順【わ】]]|
+
+
+&font(b,120%){[[BACK（カラオケ情報総合インデックスページ）へ戻る。>カラオケ配信曲一覧]]}

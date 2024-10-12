@@ -1,0 +1,81 @@
+※ルール改変に伴い、作者名の後ろに「feat.キャラクター名」となっている曲もありますが、ここでは省略しています。
+
+#contents()
+----
+
+＊JOYSOUND
+＊＊配信中・配信決定済
+&font(b,120%){[[BACK（JOY歌手名順【は】ページへ戻る）>カラオケ配信曲一覧/JOYSOUND歌手名順【は】]]}
+
+&font(b,120%){[[BACK（カラオケ情報総合インデックスページへ戻る）>カラオケ配信曲一覧]]}
+//リクエスト決定分の曲の追加は月末集計直後に行うのではなく、正式発表後（毎月10日頃）にお願いします。
+
+|歌手名|曲名|曲番号|配信予定|
+|[[ベース缶]]|[[夏の終わりと君の左手]]|[[145491>>http://joysound.com/ex/search/karaoke/_selSongNo_145491_song.htm]]|配信中●|
+|[[baker]]|[[明日になればまた続く]]|[[725884>>http://joysound.com/ex/search/karaoke/_selSongNo_725884_song.htm]]|配信中●|
+|~|[[ARPK]]|[[736754>>http://joysound.com/ex/search/karaoke/_selSongNo_736754_song.htm]]|配信中●|
+|~|[[君が君が]]|[[736756>>http://joysound.com/ex/search/karaoke/_selSongNo_736756_song.htm]]|配信中●|
+|~|[[サウンド]]|[[312620>>http://joysound.com/ex/search/karaoke/_selSongNo_312620_song.htm]]|配信中●|
+|~|[[celluloid]]|[[736292>>http://joysound.com/ex/search/karaoke/_selSongNo_736292_song.htm]]|配信中●|
+|~|[[夏に去りし君を想フ]]|[[734489>>http://joysound.com/ex/search/karaoke/_selSongNo_734489_song.htm]]|配信中●|
+|べあっぷす|ヴォルカニックレイリズム|[[672423>>http://joysound.com/ex/search/karaoke/_selSongNo_672423_song.htm]]|配信中●|
+|[[hazyP]]|[[sweet_So_sweet]]|[[107207>>http://joysound.com/ex/search/karaoke/_selSongNo_107207_song.htm]]|配信中●|
+|BECCA|SHIBUYA|[[138496>>http://joysound.com/ex/search/karaoke/_selSongNo_138496_song.htm]]|配信中●|
+|Becky Pop Sound Research.|[[純情ハービヴォー]]|[[312470>>http://joysound.com/ex/search/karaoke/_selSongNo_312470_song.htm]]|配信中●|
+|~|[[優しい声で言わないで]]|[[312179>>http://joysound.com/ex/search/karaoke/_selSongNo_312179_song.htm]]|配信中●|
+|[[へっどふぉん>>http://www24.atwiki.jp/utauuuta/pages/869.html]]|[[Low's Pain-Infinity->>http://www24.atwiki.jp/utauuuta/pages/2652.html]]|[[312733>>https://www.joysound.com/web/search/song/407122]]|配信中●|
+|[[ベビタス>>http://www24.atwiki.jp/utauuuta/pages/770.html]]|[[キ・セ・キ>>http://www24.atwiki.jp/utauuuta/pages/456.html]]|[[101233>>https://www.joysound.com/web/search/song/155042]]|配信中●|
+|[[ヘブンズP]]|[[Atoms]]|[[670385>>http://joysound.com/ex/search/karaoke/_selSongNo_670385_song.htm]]|配信中●|
+|~|[[Imitation]]|[[105808>>http://joysound.com/ex/search/karaoke/_selSongNo_105808_song.htm]]|配信中●|
+|~|[[キミノオト]]|[[738512>>http://joysound.com/ex/search/karaoke/_selSongNo_738512_song.htm]]|配信中●|
+|~|[[サイレント・マジョリティ]]|[[738511>>http://joysound.com/ex/search/karaoke/_selSongNo_738511_song.htm]]|配信中●|
+|~|[[Just call my name]]|[[101918>>http://joysound.com/ex/search/karaoke/_selSongNo_101918_song.htm]]|配信中●|
+|~|[[Strangers]]|[[733236>>http://joysound.com/ex/search/karaoke/_selSongNo_733236_song.htm]]|配信中●|
+|~|[[それがあなたの幸せとしても]]|[[738509>>http://joysound.com/ex/search/karaoke/_selSongNo_738509_song.htm]]|配信中●|
+|~|[[テロメアの産声]]|[[738510>>http://joysound.com/ex/search/karaoke/_selSongNo_738510_song.htm]]|配信中●|
+|~|[[プラネタリウム>プラネタリウム/ヘブンズP]]|[[145302>>http://joysound.com/ex/search/karaoke/_selSongNo_145302_song.htm]]|配信中●|
+|~|[[妄想デイトリッパー]]|[[145301>>http://joysound.com/ex/search/karaoke/_selSongNo_145301_song.htm]]|配信中●|
+|~|[[ユラメク]]|[[102611>>http://joysound.com/ex/search/karaoke/_selSongNo_102611_song.htm]]|配信中●|
+|[[ベルP]]|[[愛音]]|[[723272>>http://joysound.com/ex/search/karaoke/_selSongNo_723272_song.htm]]|配信中●|
+|~|[[合言葉]]|[[730998>>http://joysound.com/ex/search/karaoke/_selSongNo_730998_song.htm]]|配信中●|
+|~|暁、暮れる空に|[[722664>>http://joysound.com/ex/search/karaoke/_selSongNo_722664_song.htm]]|配信中●|
+|~|[[雨色花火]]|[[196883>>http://joysound.com/ex/search/karaoke/_selSongNo_196883_song.htm]]|配信中●|
+|~|[[aria>aria/ベルP]]|[[722662>>http://joysound.com/ex/search/karaoke/_selSongNo_722662_song.htm]]|配信中●|
+|~|[[アルペジオ>アルペジオ/ベルP]]|[[148952>>http://joysound.com/ex/search/karaoke/_selSongNo_148952_song.htm]]|配信中●|
+|~|[[Under the Sun]]|[[723273>>http://joysound.com/ex/search/karaoke/_selSongNo_723273_song.htm]]|配信中●|
+|~|[[Over>Over/ベルP]]|[[723274>>http://joysound.com/ex/search/karaoke/_selSongNo_723274_song.htm]]|配信中●|
+|~|[[Go for it]]|[[723275>>http://joysound.com/ex/search/karaoke/_selSongNo_723275_song.htm]]|配信中●|
+|~|[[この一瞬]]|[[724388>>http://joysound.com/ex/search/karaoke/_selSongNo_724388_song.htm]]|配信中●|
+|~|[[さようなら>さようなら/ベルP]]|[[147461>>http://joysound.com/ex/search/karaoke/_selSongNo_147461_song.htm]]|配信中●|
+|~|夏雪|[[731038>>http://joysound.com/ex/search/karaoke/_selSongNo_731038_song.htm]]|配信中●|
+|~|[[虹色>虹色/ベルP]]|[[148254>>http://joysound.com/ex/search/karaoke/_selSongNo_148254_song.htm]]|配信中●|
+|~|[[ヒカリ>ヒカリ/ベルP]]|[[722626>>http://joysound.com/ex/search/karaoke/_selSongNo_722626_song.htm]]|配信中●|
+|~|[[flow>flow/ベルP]]|[[723192>>http://joysound.com/ex/search/karaoke/_selSongNo_723192_song.htm]]|配信中●|
+|[[PENGUINS PROJECT]]|[[うしろまえワルツ]]|[[107526>>http://joysound.com/ex/search/karaoke/_selSongNo_107526_song.htm]]|配信中●|
+|~|[[チョコレート・トレイン]]|[[178273>>http://joysound.com/ex/search/karaoke/_selSongNo_178273_song.htm]]|配信中●|
+|~|[[眠り姫>眠り姫/PENGUINS PROJECT]]|[[101339>>http://joysound.com/ex/search/karaoke/_selSongNo_101339_song.htm]]|配信中●|
+|~|[[蛍>蛍/PENGUINS PROJECT]]|[[197947>>http://joysound.com/ex/search/karaoke/_selSongNo_197947_song.htm]]|配信中●|
+|~|[[揺れるトケイめぐるセカイ - 2nd Edition ->揺れるトケイめぐるセカイ]]|[[109993>>http://joysound.com/ex/search/karaoke/_selSongNo_109993_song.htm]]|配信中●|
+
+
+#co(){以下コピペ用
+|[[歌手名>P名]] (JOY>>joyアーティストページURL)|[[曲名]]|------|09年00月中旬以降|
+
+歌手名にはjoyに登録されているページを、P名はwikiのページ名をお願いします。
+(同一名称が使われている場合P名だけでOKです。)
+joyアーティストページは配信日決定されている曲が1曲以上必要になりますので、
+まだページがない場合()ごと省略して下さい。
+
+同一歌手名の曲に関しては五十音順です。(英語、記号もひらがな読みで)
+アーティストページの記載は任意でOK。(見づらいようでしたら消してください)
+}
+なお、配信予定日の表示が「○月中旬以降」の場合、それから２ヶ月以上遅れることもあります。 
+また、配信予定日が決まっている楽曲は、今のところ、配信予定日の前日か前々日にフライング配信されている模様。 
+
+詳しくは、こちらのマイリストの動画を参照。 
+http://www.nicovideo.jp/mylist/6897112
+
+
+&font(b,120%){[[BACK（JOY歌手名順【は】ページへ戻る）>カラオケ配信曲一覧/JOYSOUND歌手名順【は】]]}
+
+&font(b,120%){[[BACK（カラオケ情報総合インデックスページへ戻る）>カラオケ配信曲一覧]]}

@@ -1,0 +1,41 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+//#ref()
+
+|&nicovideo(http://www.nicovideo.jp/watch/sm18198600)|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Addict of Egocentric Music}|CENTER:-|
+
+|&bold(){[[バタパンP]]}|
+
+|流通|CENTER:即売|
+|発売|CENTER:2012年7月8日|
+|価格|CENTER:\1,000（税込）|
+|サークル|CENTER:人工芝|
+
+**CD紹介
+-バタパンP の 1st album.
+-これまでにリリースした既存曲に新曲を加えた全12曲を収録。
+-ジャケットイラストを Chaco氏 が、マスタリングを Aiken氏 が手掛ける。
+-THE VOC@LOiD M@STER 21（ボーマス21） にてリリース。
+
+**曲目
++addict of egocentric music
++Luck!
++[[Caseaman]]
++[[99minutes theater]]
++[[ghost scope>Ghost scope ～ある男のお話～]]
++キミゾラ
++[[彼葉唄]]
++byebye,world
++[[Case2ndman]]
++white book story
++[[サクラ唄]]
++アノヒノ唄
+
+**リンク
+-[[Twitter>>http://twitter.com/vataco_25]]
+
+**コメント
+- これは本当に名盤。戻ってきてくれないかなぁ…。  -- 名無しさん  (2019-01-13 23:39:02)
+#comment()

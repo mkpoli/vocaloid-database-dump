@@ -1,0 +1,44 @@
+#right(){&furigana(せつなぷらす+)&furigana()【登録タグ:&tags() 】}
+&ref(http://media.tumblr.com/tumblr_m2gfynQqOo1qeppkp.jpg,height=250,width=250)
+
+
+|&nicovideo(http://www.nicovideo.jp/watch/sm17608056)|&youtube(https://www.youtube.com/watch?v=MnhCmVIKxJw){336,189}|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[moji moji]]|CENTER:&bold(){刹那プラス+}|CENTER:[[ぼかろ男子 ぼかろ女子]]|
+
+|&bold(){[[みきとP>みきとP/作り手]]}|[[べて]]|[[DATEKEN]]|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2012年4月28日・29日||
+|価格|CENTER:￥1,000（税込）|CENTER:￥1,500（税別）|
+|サークル|CENTER:ゴーゴー！ボカレンジャイ！|CENTER:愛島工房|
+
+**CD紹介
+-みきとP の2ndアルバム。
+-自分にとっても、歴史ある一枚にしたいと思っています。（作者コメ転載）
+-大ヒット作の「[[心臓デモクラシー]]」「[[小夜子]]」などの既存曲に新曲を加えた、全9曲を収録。
+-ジャケットイラストを 川野氏 が、デザインを[[べて]]氏が手掛ける。エンジニアには[[友達募集P]]。
+-THE VOC@LOiD 超 M@STER 20（超ボーマス）にてリリース。
+-Amazon、とらのあなで委託販売が行われていた。
+
+**曲目
++ねぐら
++[[心臓デモクラシー]]
++[[小夜子]]
++[[コカコーラタイム]]
++[[絆創膏]]
++若草物語
++[[刹那プラス]]
++[[夕暮れツイッター]] feat. GUMI
++sayoko -jazz arrange- feat. DATEKEN
+
+**リンク
+-[[愛島工房（作者ホームページ）>>http://aijima-koubou.tumblr.com/]]
+-[[とらのあな>>https://www.toranoana.jp/mailorder/article/04/0030/04/26/040030042657.html]]
+
+**コメント
+- 夕暮れツイッターがなんでGUMIなんだ…orz  -- 名無しさん  (2012-06-16 11:13:36)
+- 個人的にはGUMIの夕暮れツイッターが最高に良かった。このCDで初めて聴いたっていうのもあるけど。  -- 名無しさん  (2012-08-04 06:05:24)
+- 若草物語の歌詞がしりたい。  -- 名無しさん  (2013-10-02 21:56:15)
+#comment()

@@ -1,0 +1,42 @@
+#right(){&furigana(exmachina)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm12429040)|&nicovideo(sm15883178)|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){ex machina}|CENTER:[[エレクトキタニカ。]]|
+
+|&bold(){[[やひろ]]}|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|>|CENTER:2011年11月14日|
+|価格|CENTER:￥1,000|CENTER:￥1,050（税込）|
+|サークル|>|CENTER:kvold|
+
+**CD紹介
+CD名：『&u(){ex machina}』
+-kvold（やひろ）氏のボカロ初アルバム。
+-使用ボーカロイドは全て巡音ルカ。
+-アルバムデザインは[[水鹿しくめ（現・独楽子）>独楽子]]氏。
+
+**曲目
++deus ex machina Ⅰ　&color(red){New!}
++[[marshmallow]]
++spade　&color(red){New!}
++retina　&color(red){New!}
++[[umbrella>umbrella/やひろ]]
++[[セレニウム]]
++deus ex machina Ⅱ　&color(red){New!}
++[[shoestrings]]
++[[おやすみのじかん]]
++[[dolysia]]
++deus ex machina Ⅲ　&color(red){New!}
+
+**リンク
+-[[やひログ！（作者ブログ）>>http://blog.livedoor.jp/yahiro2000/]]
+-[[kvold official website（作者HP）>>https://kvold.ikaduchi.com/]]
+
+**コメント
+#comment()

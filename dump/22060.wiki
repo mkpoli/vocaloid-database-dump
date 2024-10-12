@@ -1,0 +1,45 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm18205643)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Blue Princess Memories}|CENTER:-|
+
+|&bold(){[[Celo Project]]}|[[ゆうP]]|[[あルカP]]|[[融合P]]|[[muhmue]]|
+|[[ちょむP]]|[[風筒P]]|[[DATEKEN]]|[[ヘリP]]|[[やみくろ]]|
+
+|流通|CENTER:即売|
+|発売|CENTER:2012年7月8日|
+|価格|CENTER:￥1,000（税込）|
+|サークル|CENTER:Celo Project|
+
+**CD紹介
+>&bold(){10人のボカロPが紡ぐ蒼い姫君の物語。}
+-ラピスファンが待ち望んだ、「初の」蒼姫ラピスコンピレーションアルバムがここに誕生！！
+-純粋な書き下ろし楽曲や、「[[trick art!>trick art！]]」「[[大空色のHi-To-Mi]]」「[[ハッピー・マニュアル]]」などの既存曲のラピスver.まで、全15曲を収録。
+-さらに、中の人である ひななた氏 によるメッセージ＆歌ってみた2曲が収録されている。
+-ジャケットイラストを 流良氏 が、デザインを 山猫氏 が、マスタリングを [[Shibayan]]氏 が手掛ける。
+-THE VOC@LOiD M@STER 21（ボーマス21） にてリリース。
+
+**曲目
++ワタシノミライ　/　ゆうP
++[[Ko Ko Da Yo]]　/　あルカP
++[[apricot>apricot/Celo Project]]　/　Celo Project
++流星詩　/　融合P
++[[ノア>ノア/muhmue]]　/　muhmue
++[[プリンセスは夢の中]]　/　ちょむP
++[[ヨテイはミテイ！]]　/　風筒P
++natsumado　/　ヘリP
++[[trick art!>trick art！]]　/　DATEKEN
++星くずレター　/　ゆうP
++[[大空色のHi-To-Mi]]　/　あルカP
++[[ハッピー・マニュアル]]　/　融合P
++[[モカ>モカ/やみくろ]]　/　やみくろ
++message（声：ひななた）
++apricot　/　Celo Project feat. ひななた
++モカ　/　やみくろ feat. ひななた
+
+**リンク
+-[[Celo Project（サークルホームページ）>>http://www.celoproject.jp/]]
+
+**コメント
+#comment()

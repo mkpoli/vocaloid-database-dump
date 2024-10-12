@@ -1,0 +1,40 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm17553387)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Sweetopia}&br()[[ハンペン甲子園 ～春のセンバツ～]]|CENTER:[[Sweet Splash!!!]]&br()[[劇場版「ハンペン甲子園 ～鮭とポニテの歌合戦～」劇中歌CD]]|
+
+|&bold(){[[ほのづき]]}|[[はやくP]]|
+
+|流通|CENTER:即売|
+|発売|CENTER:2012年4月28日・29日|
+|価格|CENTER:￥1,000（税込）|
+|サークル|CENTER:ハンペン甲子園|
+
+**CD紹介
+-ほのづき氏 の 1st album。
+-Sweet廃のSweet廃によるSweet廃のためのCD、それが「Sweetopia」。（作者コメ転載）
+-これまでにリリースした曲に新曲を加えた、全10曲を「初音ミクAppend Sweet Trio」にして収録。
+-アルバムの全体のテーマは「幸せ」で、歌詞の世界観は全曲つながっている。
+-7曲目には、 はやくP の「Parade Song」のリミックスを収録。
+-ジャケットイラストは ふゆ氏 が手掛ける。
+-THE VOC@LOiD 超 M@STER 20（超ボーマス）にてリリース。
+
+**曲目
++[[消失セレモニー]]
++Gutenbergの森
++[[斜めの塔]]
++Buffon
++[[こうして僕、幸せが生まれた]]
++[[theoful]]
++[[Parade Song]]（sweet remix）
++幸せの定休日
++世界の8日目
++遍在のSweetopia
+
+**リンク
+-[[ほのづきの「ほ」（作者ブログ）>>http://honoduki.blog138.fc2.com/]]
+-[[Twitter>>http://twitter.com/Honoduki]]
+
+**コメント
+#comment

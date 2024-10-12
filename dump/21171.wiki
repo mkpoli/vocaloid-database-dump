@@ -1,0 +1,32 @@
+#right(){&furigana(ALTAIR)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[ひとりごと>ひとりごと/CD]]|CENTER:&bold(){ALTAIR}|CENTER:[[Re:present (Remaster Version)]]|
+
+|&bold(){[[CielP]]}|たる|
+
+発売：2011年12月31日
+価格：￥200
+流通：即売
+サークル：Team iM@C
+ジャケットイラスト：ジルシー
+
+**CD紹介
+-CielPの4曲入りシングルCD。
+-表題曲の「Altair -アルタイル-」と「ハイエンドロール」とそれぞれのカラオケを収録している。
+-コミックマーケット80（C80）で初頒布された。
+
+**曲目
++[[Altair -アルタイル-]]
++[[ハイエンドロール]]
++Altair -アルタイル- -Off Vocal-
++ハイエンドロール -Off Vocal-
+
+**リンク
+-[[作者サイト>>http://home.catv.ne.jp/dd/rip/]]
+
+**コメント
+#comment()

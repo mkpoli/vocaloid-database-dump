@@ -1,0 +1,29 @@
+#right(){&furigana(あいはあいよりいでてあいよりかなし)&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1026_20120319082243_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[事故ベスト>事故ベスト/CD]]|CENTER:&bold(){哀は愛より出でて愛より哀し}|CENTER:[[逢魔が人世と化猫草紙]]|
+
+|&bold(){[[卑屈P]]}|
+
+発売：2012年3月29日
+価格：￥300 / 1曲￥150
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：[[霧雨。>>http://piapro.jp/kirisame]]
+
+**CD紹介
+-卑屈Pの配信EP。
+-ミニアルバム『[[E-emotions]]』収録曲をシングルカットしている。
+-KARENTレーベルのバラード特集で配信された作品の1つ。
+
+**曲目
++[[哀は愛より出でて愛より哀し]] （feat. 巡音ルカ）
++哀は愛より出でて愛より哀し （off vocal）
+
+**リンク
+-[[KARENT：「哀は愛より出でて愛より哀し」>>http://karent.jp/album/1026]]
+-[[KARENT：「The Ballad Music」特集ページ>>http://karent.jp/special/ballad12]]
+
+**コメント
+#comment()

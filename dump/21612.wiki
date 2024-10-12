@@ -1,0 +1,41 @@
+#right(){&furigana()&furigana(みちしるべ)【登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186114500.jpg,x=300,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm17520810)
+
+発売：2012年4月28日
+価格：￥1,000（税込）
+流通：即売
+サークル：幼女のくるぶしがスケベで身が持たない
+
+>参加者：&bold(){[[アップルP]]}/ちゃぼっと/chawan.chan/Syka/Nekoko.Y/Liberty project
+>イラスト：アスキ(Discjacket,Postcard)
+>　　　　　muc(Track9～14,Postcard)
+>　　　　　みに。(Track2～7)　　　　　
+
+**CD紹介
+-[[Repetition Guitar]]で知られる[[アップルP]]氏が声をかけ集まったボカロＰにより企画、制作された。
+-THE VOC@LOiD 超 M@STER 20（ボーマス20）にて頒布。全14曲を収録。
+-6人のボカロＰが参加しているコンピレーションアルバム。
+-CD購入特典として絵師アスキ、mucが描くポストカード付き。
+&ref(http://blog-imgs-44.fc2.com/a/p/p/applep0913/20120412182926d44_20120511003005.jpg)     &ref(http://blog-imgs-44.fc2.com/a/p/p/applep0913/20120412182927f0a_20120511003005.jpg)　
+
+**曲目
++Prologue
++ココロのケシキ　アップルＰ(パイ) feat.初音ミク
++愛之音　ちゃぼっと feat.初音ミク
++知らない世界　chawan.chan feat.初音ミク
++Twilight blossom Syka feat.初音ミク
++声鳴き Nekoko.Y feat.初音ミク
++罪と罰　Liberty Project feat.初音ミク
++Epilogue
++Summer And You　アップルＰ(パイ) feat.初音ミク
++始まりの唄　ちゃぼっと feat.初音ミク
++よるのうし　chawan.chan feat.初音ミク
++初音日和　Syka feat.初音ミク
++こころゆうびん　Nekoko.Y feat.初音ミク
++やっぱね！Remix　 Liberty Project feat.初音ミク
+
+**コメント
+#comment()

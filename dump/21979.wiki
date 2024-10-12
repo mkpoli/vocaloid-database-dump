@@ -1,0 +1,34 @@
+#right(){&furigana(Ariだい)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/23095361" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/23095361">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-2010年12月、 『[[イナズマ-ブランチライン]]』 でボカロデビューした作り手。
+-使用ボカロは今のところミク・GUMI。
+-17作目の 『[[愛猫サディズム]]』 がスマッシュヒット。
+-「演奏してみた」動画も発表している。
+-P名は &bold(){ありんこP} 。
+
+**リンク
+-[[作者ホームページ>>http://ariweb.jimdo.com/]]
+-[[Twitter>>http://twitter.com/dai_vocaloid]]
+
+**曲
+#list_by_tag(Ariだい,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(AriだいCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm12925596)|&nicovideo(sm13240669)|
+|&nicovideo(sm14005410)|&nicovideo(sm14512733)|
+|&nicovideo(sm14886588)|&nicovideo(sm15331989)|
+|&nicovideo(sm15508609)|&nicovideo(sm15627233)|
+|&nicovideo(sm16689183)|&nicovideo(sm18030356)|
+|&nicovideo(sm18270889)|&nicovideo(sm18457981)|
+|&nicovideo(sm18944696)|&nicovideo(sm19525098)|
+|&nicovideo(sm20296660)|&nicovideo(sm20678348)|
+|&nicovideo(sm21344377)|&nicovideo(sm22155178)|
+|&nicovideo(sm22193264)|>|
+
+**コメント
+#comment()

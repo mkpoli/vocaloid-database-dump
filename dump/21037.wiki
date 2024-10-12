@@ -1,0 +1,27 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+|&nicovideo(http://www.nicovideo.jp/watch/sm17250138)|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){KYT5}|CENTER:[[NGY5]]|
+
+|[[挫折P]]|[[石風呂]]|[[ヘリP]]|[[ぼーかりおどP]]|[[やみくろ]]|
+
+|流通|CENTER:即売|
+|発売|CENTER:2012年3月25日|
+|価格|CENTER:￥500（税込）|
+|サークル|CENTER:KYT5|
+
+**CD紹介
+-5人のクリエイターがお贈りする、「京都」をテーマにしたコンピCD。収録曲は全てこの為に書き下ろされた新曲。
+-ジャケットイラストは 赤夏氏 が手掛ける。
+-VOCALOID PARADISE 関西 にてリリース。
+
+**曲目
++百歌繚乱 feat. 初音ミク　/　[[挫折P]]
++[[浮かれた大学生は死ね]] feat. miki　/　[[石風呂]]
++[[Lighthome Call]] feat. 初音ミク　/　[[ヘリP]]
++[[ナイアガラシュート]] feat. 初音ミク　/　[[ぼーかりおどP]]
++キョウ feat. 巡音ルカ　/　[[やみくろ]]
+
+**コメント
+#comment()

@@ -1,0 +1,38 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo(sm11294455)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Summer Time Summer Girl}|CENTER:[[Summer Time Summer Girl 2]]|
+
+|&bold(){[[あつぞうくん]]}|[[ユメトコスメ]]|[[ふわP]]|[[ソレナンテP]]|[[クマー@Taken♪]]|[[夜宵]]|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2010年7月19日||
+|価格|CENTER:￥1,000|CENTER:￥1,470（税込）|
+|サークル|>|CENTER:ATZ Records|
+
+**CD紹介
+-あつぞうくん主宰ATZ Recordsの夏コンピCD。
+-ボカロ・シティ・ポップの伝道師、あつぞうくんの元に、すとり（ふわP）、ユメトコスメ、ときわかねなり（ソレナンテP）が集結。&br()90年代渋谷系ポップスの洗礼を浴びて青春を過ごした4人が織りなす、夏にぴったりな極上のボカロ・シティ・ポップコンピレーションアルバムが誕生しました！
+-イラストは手鞠氏が手掛ける。
+-THE VOC@LOiD M@STER 13（ボーマス13）にて頒布。委託販売も行われていたが、すでに終了している。
+
+**曲目
++サマーガールからの招待状 / あつぞうくん
++[[カルマンギア]] / あつぞうくん
++[[楽園の扉]] / ユメトコスメ
++[[あのコとワタシと南の島]] / すとり（ふわP）・クマー@Taken
++シーサイド・サマーガール / ときわかねなり（ソレナンテP）
++ココロノネ（Miku ver.） / すとり（ふわP）・夜宵
++[[太陽の所為]] / ユメトコスメ
++毎日が夏休み / あつぞうくん
++[[ミルキーウェイ・レクイエム]] / ときわかねなり（ソレナンテP）
++karmannghia reprise / あつぞうくん
+
+**リンク
+-[[特設ページ>>http://stsg.atzrecords.com/]]
+-[[ATZ Records>>http://atzrecords.com/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/23/77/040010237782.html]]
+
+**コメント
+#comment()

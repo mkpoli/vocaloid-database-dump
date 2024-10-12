@@ -1,0 +1,23 @@
+#right(){&furigana(ゆうききら)&furigana()【登録タグ:&tags() 】}
+**特徴
+-「きらばがに」の名義も併せ持つ絵師。
+-[[seleP]]とのコラボが多い。
+
+**リンク
+-[[作者ブログ>>http://uklite.seesaa.net/]]
+-[[PIAPRO>>http://piapro.jp/kirabara29]]
+-[[Pixiv>>http://www.pixiv.net/member.php?id=1107124]]
+
+**曲
+#list_by_tag(優木きら,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(優木きらCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm11762237)|&nicovideo(http://www.nicovideo.jp/watch/sm15557068)|
+
+**コメント
+- ページ作成乙。きらさんの絵好き  -- 名無しさん  (2012-05-12 15:25:56)
+- きらさんのLily好きだなー！！綺麗…。  -- えむ  (2012-11-26 19:06:58)
+#comment()

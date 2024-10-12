@@ -1,0 +1,39 @@
+#right(){&furigana(bokuranosaigoEP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo(sm17543798)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){bokurano saigo E.P.}|CENTER:-|
+
+|&bold(){[[osu]]}|[[B-line]]|[[nuts rock]]|[[テレ太]]|[[蜻蛉]]|[[ヤオギ]]|[[アナクロP]]|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2012年4月28日||
+|価格|CENTER:￥500|CENTER:￥751（税込）|
+|サークル|>|CENTER:osuと愉快な仲間たち|
+
+**CD紹介
+CD名：『&u(){bokurano saigo E.P.}』
+-osu ＋ 6名のボカロPたちがアルバムのために書き下ろした「最後」の物語。
+-THE VOC@LOiD 超 M@STER 20にて頒布。
+-ジャケットデザインを[[りゅうせー]]、マスタリングを[[かごめP]]が担当
+
+**曲目
++[[Reunion>Reunion/B-line]] - [[B-line]]
++[[薬王寺アシッドガール]] - [[nuts rock]]
++毎日がエブリデイ - [[テレ太]]
++[[ha/ir>ha／ir]] - [[蜻蛉]]
++in peace - [[ヤオギ]]
++[[ノアには乗れない]] - [[Orukana>アナクロP]]
++[[はじまりとおわり>はじまりとおわり/osu]] - [[osu]]
+
+**リンク
+-[[特設サイト>>http://osutonakama.web.fc2.com/]]
+//-[[とらのあな>>https://www.toranoana.jp/mailorder/article/04/0030/04/36/040030043695.html]]
+
+**コメント
+- ス望希ヲ販再  -- 名無しさん  (2013-08-05 18:36:43)
+#comment()

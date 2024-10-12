@@ -1,0 +1,32 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+
+&nicovideo(http://www.nicovideo.jp/watch/sm17352389)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[PureTime]]|CENTER:&bold(){Super Gumix Illusion}|CENTER:[[Idle Declaration!!]]|
+
+|&bold(){[[銀河方面P]]}|
+
+|流通|CENTER:即売|
+|発売|CENTER:2012年3月25日|
+|価格|CENTER:￥500（税込）|
+|サークル|CENTER:すたじお☆ぺぱーみんと|
+
+**CD紹介
+-銀河方面P の 3rd mini album 。
+-GUMI（Native）をフィーチャーした、魅力溢れる全5曲を収録。
+-ジャケットイラストは [[柾見ちえ]]氏 が手掛ける。
+-VOCALOID PARADISE 関西 ＆ THE VOC@LOiD 超 M@STER 20（超ボーマス） にてリリース。
+
+**曲目
++[[恋は気まぐれイリュージョン！！]]
++[[光速☆Drive]] -Gumiねいてぃぶ Version-
++SCRAP RING
++Beautiful Days
++[[好きだよっ☆]]　-Gumiねいてぃぶ Version-
+
+**リンク
+-[[銀河方面P@神野貴志（たかぴ）のブログ（作者ブログ）>>http://ameblo.jp/studiopeppermint/]]
+
+**コメント
+#comment

@@ -1,0 +1,34 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo(sm14686505)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){gallely electron}|CENTER:-|
+
+|>|[[liam>liam/作り手]]|>|[[whoo]]|>|[[やひろ]]|
+|まつとり|ぴぃ|仙田|remaco|じょぜ|りょーの|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2011年6月12日||
+|価格|CENTER:￥1,500|CENTER:￥1,785（税込）|
+|サークル|>|CENTER:gallely electron|
+
+**CD紹介
+>どこをさがしてもみつからない、【gallely electron】へようこそ。
+-liam remaco yahiro whoo じょぜ　まつとり　りょーの　仙田　ぴぃがおくる、「架空の展示会」をテーマにしたCDと画集の企画。&br()文字、展示場所、すべてが自由。&br()６人の絵師と３人の音楽家での展示企画。&br()一人の楽師が、２枚の絵のイメージを音にしました。
+-フルカラー36P画集＋６曲入りミニアルバムのセットとなっている。
+-THE VOC@LOiD M@STER 16（ボーマス16）にて頒布。とらのあなにて委託販売が行われている。
+
+**曲目
++ミス・ヴァーティゴ　liam×まつとり×初音ミク  
++メロディ　whoo×仙田×初音ミク  
++Cosmodrop　yahiro×じょぜ×巡音ルカ  
++[[slowly]]　liam×ぴぃ×初音ミク  
++Equalwater　yahiro×りょーの×巡音ルカ  
++[[虹>虹/whoo]]　whoo×remaco×初音ミク 
+
+**リンク
+-[[特設ページ>>http://nukarumi.tyonmage.com/]]
+-[[とらのあな>>http://www.toranoana.jp/bl/article/04/0020/01/44/040020014456.html]]
+
+**コメント
+#comment()

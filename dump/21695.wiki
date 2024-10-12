@@ -1,0 +1,28 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[灰色の宝石>灰色の宝石/CD]]|CENTER:&bold(){Cookie}|CENTER:[[アコゥスティカ]]&br()[[ハンペン甲子園 ～春のセンバツ～]]|
+
+|&bold(){[[BIRUGE>コモレビノーツ]]}|
+
+発売：2012年3月25日
+価格：￥200
+流通：即売
+サークル：Cookie
+
+**CD紹介
+>「I baked the "Cookie" for you!」
+>手作りのクッキーのようにほろ甘い、一握りの愛を。
+>
+>いつもよりも楽しく明るく、甘々なポップスを作ってみました。
+-BIRUGE氏の5作目となるCD作品。今回は初のシングル。
+-VOCALOID PARADISE 関西（ボーパラ関西）で頒布。
+
+**曲目
++[[Cookie>Cookie/コモレビノーツ]] feat. 初音ミクAppend Light
++Cookie (Off Vocal)
+
+**リンク
+-[[作者サイト>>http://cookie.cosa-cosa.com/]]
+
+**コメント
+#comment()

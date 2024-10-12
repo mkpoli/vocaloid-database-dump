@@ -1,0 +1,34 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#ref(http://img.toranoana.jp/popup_img/04/0030/04/29/040030042965-1p.jpg)
+
+
+|&nicovideo(http://www.nicovideo.jp/watch/sm17536682)|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Dearest}|CENTER:-|
+
+|&bold(){[[ゆーきー]]}|[[潮音]]|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|CENTER:2012年4月28日・29日|CENTER:2012年4月28日|
+|価格|CENTER:\500（税込）|CENTER:\695（税込）|
+|サークル|>|CENTER:faker in my room|
+
+**CD紹介
+-ゆーきー氏 の 1st mini album.
+-スマッシュヒットした『[[Fleeting Reality]]』に新曲3曲を加えた全4曲を収録。
+-ジャケットイラストなどのアートワークは [[潮音]]氏 が手掛ける。
+-THE VOC@LOiD 超 M@STER 20（超ボーマス） にてリリース。
+
+**曲目
++Dearest
++[[回想リグレット]]
++Message
++[[Fleeting Reality]]
+
+**リンク
+-[[サークルホームページ>>http://uzyuji.web.fc2.com/index.html]]
+
+**コメント
+- 絵が綺麗っすね!!!  -- You  (2012-05-26 01:56:15)
+#comment()

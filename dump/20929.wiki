@@ -1,0 +1,45 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#ref(http://www.geocities.jp/officemuhmue/images/pure_rhythm.jpg)
+
+
+&nicovideo(http://www.nicovideo.jp/watch/sm17171520)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Pop in Labyrinth]]|CENTER:&bold(){Pure Rhythm}|CENTER:[[Magic Logic]]|
+
+|&bold(){[[muhmue]]}|[[eb]]|
+
+|流通|CENTER:即売|
+|発売|CENTER:2012年3月25日|
+|価格|CENTER:￥1,000|
+|サークル|CENTER:office muhmue|
+
+**CD紹介
+-muhmue氏 の 3rdアルバム。
+-ぐみりんで可愛らしく、明るく、ってことで「Pure Rhythm」になりました！（作者コメ転載）
+-スマッシュヒットした「[[ケミカルエモーション]]」を筆頭に、2ndアルバム後にリリースした楽曲や新曲を加えた、全11曲を収録。
+-収録曲は未発表曲を含め、全曲リマスタリング。
+-ジャケットイラストは [[eb]]氏 が手掛ける。ゲストアーティストに [[maya]]氏 を迎えている。
+-ボーカロイドパラダイス関西・ボーカロイド超マスター20にてリリース。
+
+**曲目
++[[indigo flower]]
++[[パラレルトランジスタ]]
++[[天使のクレヨン]]
++[[アマデウスの憂鬱]]
++[[ケミカルエモーション]]
++[[キレイ事]]
++[[1000の記憶]]
++2 smiles
++[[走る少女の1秒]]
++[[キミナミダ]]
++[[Pure Rhythm]]
+
+**リンク
+-[[作者ホームページ>>http://www.geocities.jp/officemuhmue/]]
+
+**コメント
+//- 1ゲト！！
+- ジャケ絵がかわいい！！  -- 名無しさん  (2012-03-16 22:46:45)
+- 欲しかったぁ…ちくせう●rz  -- 烏龍  (2014-05-17 05:15:46)
+#comment()

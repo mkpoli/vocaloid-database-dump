@@ -1,0 +1,34 @@
+#right(){&furigana(ぼくらのがっき)&furigana()【登録タグ:&tags() 】}
+//&ref(http://sbfr.info/discography/img/cover_full/sseb0020.jpg,x=300,y=300)
+
+&ref(https://lh3.googleusercontent.com/proxy/LPRbX_PiJKNiVX1h2xzwxyuHyKqJ2mkXg5_t2uvLz-IALZKZPDn3oyxn9OKNkfQUhmaFNsemJD7SOCTjH2_BLD0orXLlJXIeASfSBauCu-8,x=300,y=300)
+
+|[[味噌おでんP]]|[[大福P]]|[[そよもぎ]]|[[3396]]|[[ルゼ]]|[[じたばたP]]|[[hapi⇒]]|[[Gun-SEKI]]|
+
+発売：2012年4月28日
+価格：￥500（税込）
+流通：即売
+サークル：salvation by faith records
+
+**CD紹介
+-ゲーム曲アレンジを中心に活動する同人音楽サークルsalvation by faith recordsによる、初のボカロコンピCD。
+-「ボカロは楽器」をテーマに 、VOCALOIDという音声をボーカルではなく敢えて楽器を目的として製作した、SBFRといえばSBFRらしいコンピレーションアルバム！（特設サイトより転載）
+-ジャケットは石王マサト氏、マスタリングはHyuji氏が手掛ける。
+-THE VOC@LOiD 超 M@STER 20（超ボーマス）にてリリース。頒布は1日目のみ。
+
+**曲目
++明日への架け橋 / 味噌おでんP
++What a wonderful / Daisuke Ohnuma
++心象メリーゴーランド / そよもぎ
++山羊の眼 / 3396
++唄を忘れた歌 / 巡音ルゼ
++さよならという歌 / 黒魔
++[[SUper.TEmplate.MArketing>ス／テ／マ]] / hapinano
++エスケープ with ホワイト☆ラビット / silcostones
+
+**リンク
+-[[特設サイト>>http://sbfr.info/discography/sseb-0020/]]
+-[[サークル公式サイト>>http://sbfr.info/]]
+
+**コメント
+#comment()

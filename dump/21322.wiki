@@ -1,0 +1,38 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://blog-imgs-44.fc2.com/p/e/p/peperonp/8-1.jpg)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm17573409)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Two Dimensional]]|CENTER:&bold(){Girls and Games}|CENTER:[[ReFraction -BEST OF Peperon P-]]|
+
+|&bold(){[[ぺぺろんP]]}|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|CENTER:2012年4月28日・29日|CENTER:未定|
+|価格|CENTER:￥1,000（税込）|CENTER:未定|
+|サークル|CENTER:陰謀派スライダー|>|
+
+**CD紹介
+-ぺぺろんP の 11th album は、V3ボカロを中心とした楽曲で構成された一枚。
+-自身最大のヒット作「[[シルバーバレット]]」などの既存曲に新曲を加えた全9曲を収録。
+-ジャケットイラストは前作に続いて ぺぺろんP のお手製。
+-THE VOC@LOiD 超 M@STER 20（超ボーマス）にてリリース。
+
+**曲目
++[[シルバーバレット]] feat. GUMI
++ラスト・セレネイド feat. 結月ゆかり
++[[Thousand Regrets]] feat. 兎眠りおん
++[[blessed child]] feat. IA
++[[ヒイフウミイヨ]] feat. 鏡音リン
++Your crimes feat. 初音ミク
++[[ロスト・メモリー]] feat. CUL
++[[瑠璃色銀河]] feat. 蒼姫ラピス
++冬の牢獄 feat. 猫村いろは・miki
+
+**リンク
+-[[作者ホームページ（M-tone）>>http://www.njpeperon.sakura.ne.jp/]]
+
+**コメント
+- 歌唱ボーカロイドの記入ありがとうｗ　他のページも見習ってほしい。  -- 名無しさん  (2012-06-12 13:19:39)
+#comment()

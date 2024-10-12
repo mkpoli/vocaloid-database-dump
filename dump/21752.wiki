@@ -1,0 +1,34 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Ivory>Ivory/CD]]|CENTER:&bold(){Crying on a rainy day}|CENTER:-|
+
+|&bold(){[[ichiP]]}|
+
+||CENTER:即売|CENTER:委託|
+|発売|CENTER:2012年04月28日|CENTER:2012年5月|
+|価格|CENTER:￥1,000|CENTER:￥1,500(税込)(ニコニコ直販)&br()￥1,260(税込)(とらのあな)|
+|サークル|>|CENTER:SOUNDstudio -ONE-|
+
+**CD紹介
+-ボーカロイドオリジナル5曲、ニコニコインディーズのボーカロイドカヴァー1曲、インストゥルメンタル2曲を収録した[[ichiP]]のボカロCD第5弾。
+-2002年4月28日・29日に行われたニコニコ超会議内THE VOC@LOiD M@STER 20で初頒布。また、ニコニコ直販、とらのあなで委託販売されている。
+-ボーカロイドオリジナルの6曲では全て結月ゆかりが使用されている。
+-[[こちら>>http://ichi.no-ip.net/sample.html]]から全曲の視聴ができる。
+
+**曲目
++a rainy day
++[[Set up]]
++[[Hello hEllo hellO>Hello hEllo hello/ichiP]]
++俄雨は少女に降り注ぎ
++Look!
++蛇の目
++祈り
++crying
+
+**リンク
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/04/23/040030042317.html]]
+-[[ニコニコ直販>>http://chokuhan.nicovideo.jp/products/detail/1050]]
+-[[作者ブログ>>http://soundstudioone.blog49.fc2.com/]]
+
+**コメント
+#comment()

@@ -1,0 +1,42 @@
+#right(){&furigana(かのうせいとみらいのはざまにしずむ)&furigana()【登録タグ:&tags() 】}
+//#ref(http://img.toranoana.jp/popup_img/04/0020/01/50/040020015022-1p.jpg)
+//&ref(http://uzyuji.web.fc2.com/kanousei.jpg)
+
+&ref(https://booth.pximg.net/e5348b66-b4d5-4d7a-be8c-6dfca6d3023a/i/563271/927d4b25-8547-4d6c-b74e-c92a5ec0b2de_base_resized.jpg,x=400,y=400)
+
+|&nicovideo(http://www.nicovideo.jp/watch/sm14581703)|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[嘘吐きの隣で>嘘吐きの隣で/CD]]|CENTER:&bold(){可能性と未来の狭間に沈む}|CENTER:[[歩き出すということ]]|
+
+|&bold(){[[uzP]]}|[[meola]]|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|CENTER:2011年6月12日|CENTER:2011年6月12日|
+|価格|CENTER:￥1,000（税込）|CENTER:￥1,575（税込）|
+|サークル|>|CENTER:faker in my room|
+
+**CD紹介
+-[[uzP]] の 4th album.
+-代表作の『[[Sweet Sweet Cendrillon Drug]]』の GUMI ver. を筆頭に、新曲などを加えた全10曲を収録。
+-ジャケットデザインなどのアートワークは [[meola]]氏 が手掛ける。
+-THE VOC@LOiD M@STER 16（ボーマス16）にてリリース。
+
+**曲目
++[[可能性と未来の狭間に浮かぶ]]
++[[Sweet Sweet Cendrillon Drug]]
++[[その青の意味を僕は知らない]]
++ifの世界
++[[奈落と唄]]
++Songs
++faker in my room
++ここにある左手と
++[[透明な右手を]]
++青い花を
+
+**リンク
+-[[作者ホームページ>>http://uzyuji.web.fc2.com/index.html]]
+-[[BOOTH>>https://booth.pm/ja/items/563271]]
+
+**コメント
+#comment()

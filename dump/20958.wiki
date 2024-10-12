@@ -1,0 +1,50 @@
+#right(){&furigana(きむた)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/19006366" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/19006366">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-P名は&bold(){文句たれP}。
+-初投稿は2010年5月12日の「しあわせさがし」。
+-使用VOCALOIDはミク、ルカ、GUMI、いろは。
+-様々なジャンルを手がけている万能P。[[吹奏楽アレンジでVOCALOIDメドレーも作っている。>>http://www.nicovideo.jp/watch/sm12778061]]
+-ちなみに万能すぎて一番再生されている動画が[[MAD>>http://www.nicovideo.jp/watch/sm17565730]]だったりする。
+-&color(red){[[ラブゲノミクス]]がJOYSOUND配信中！！}
+
+**リンク
+-[[ピアプロ>>http://piapro.jp/kimuta]]
+-[[Twitter>>http://twitter.com/kimuta_0408]]
+
+**曲
+#list_by_tag(きむた,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(きむたCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm10694506)|&nicovideo(http://www.nicovideo.jp/watch/sm10812017)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm10812047)|&nicovideo(http://www.nicovideo.jp/watch/sm11114257)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm11432784)|&nicovideo(http://www.nicovideo.jp/watch/sm12778268)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm13050083)|&nicovideo(http://www.nicovideo.jp/watch/sm13129695)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm13640543)|&nicovideo(http://www.nicovideo.jp/watch/1298985306)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm13806635)|&nicovideo(http://www.nicovideo.jp/watch/sm13875401)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm14144097)|&nicovideo(http://www.nicovideo.jp/watch/sm14271011)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm14532093)|&nicovideo(http://www.nicovideo.jp/watch/sm14741962)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm15145373)|&nicovideo(http://www.nicovideo.jp/watch/sm15289990)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm15346620)|&nicovideo(http://www.nicovideo.jp/watch/sm15407240)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm15596667)|&nicovideo(http://www.nicovideo.jp/watch/sm15929259)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm16162626)|&nicovideo(http://www.nicovideo.jp/watch/sm16980312)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm17224441)|&nicovideo(http://www.nicovideo.jp/watch/sm17269472)|
+
+**コメント
+- ラブマスマティカ最高ー&#8252;♪いろはかわいー。  -- ゆっちゃん  (2012-08-26 02:39:09)
+//つか、私が１かｗｗ皆コメしろよー。  -- ゆっちゃん  (2012-08-26 02:39:09)
+- 大好きです>< ラブゲノミクスでファンに^^テレフォンライダーでいろはちゃんが好きになりました。ありがとうございます。  -- be  (2012-09-16 20:46:36)
+- ラブゲノミクス好きです〜  -- 名無しさん  (2012-10-27 21:22:56)
+- ラブゲノミクス中毒になったｗｗ  -- 624  (2012-11-17 13:07:45)
+- テレフォンライダー大ｯ好きやわﾓｳｳｳｳｳ  -- 名無しさん  (2013-05-18 19:11:47)
+- カプチーノめっちゃ好き  -- 名無しさん  (2013-06-09 13:58:55)
+- いろははもっと評価されるべき，そう思ったきっかけはきむたさんでした．  -- joe  (2013-12-21 15:01:13)
+- テレフォンライダーが好きすぎる！！  -- 名無しさん  (2013-12-30 09:45:56)
+- きむたさんはもっと伸びていいんやけどな-  -- 名無しさん  (2014-11-09 19:21:37)
+- きむたさんのボーカロイド漫才「207」シリーズがめちゃめちゃ面白いです♪その上、いろはちゃんの表情がホントにかわいいです♪  -- 名無しさん  (2017-03-31 18:25:39)
+//- 「今回ゲロブタをとおしてわかったことは、名を売りたいならとりあえず人気キャラに肖って二次創作を作れ、ということかな。食いつきが違う　そして今回ハマったのは、昔の作品で今は大した供給もない、という状態。つまり腹を減らした鯉だらけの池にエサを投げ込んだからバシャバシャ食いつかれた感ある」  -- 本人のXの投稿より  (2024-05-15 20:40:24)
+#comment()

@@ -1,0 +1,50 @@
+#right(){&furigana(くろし)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/28696955" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/28696955">【ニコニコ動画】オリジナル曲</a>)
+
+**特徴
+作り手名：『&u(){クロジ}』
+-2009年7月8日、ボーカロイド処女作「[[クソゲーRPG]]」を投稿。
+-3作目からはbossからクロジに改名。
+-作詞、作曲、動画を自作している。
+-初音ミク・GUMIを使用。
+-2015年からは、自身歌唱の曲を投稿しており、動画での名義を&bold(){中島宏士}とするようになった。
+-中島宏名義で米津玄師（ボカロPとしても活動する[[ハチ]]氏）のアルバムにギタリストとして参加。
+
+**リンク
+-[[ABCsong（ブログ）>>http://25boss28.blog9.fc2.com/]]
+-[[Twitter>>https://twitter.com/krj_9]]
+-[[PIAPRO>>https://piapro.jp/kurojikyuu]]
+-[[ニコニコ>>https://www.nicovideo.jp/user/999859]]
+
+**曲
+#list_by_tag(クロジ,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+//**CD
+//#list_by_tag(クロジCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm7559743)|&nicovideo(sm8280334)|
+|&nicovideo(sm16151601)|&nicovideo(sm16500013)|
+|&nicovideo(sm16832615)|&nicovideo(sm17742927)|
+|&nicovideo(sm18122461)|&nicovideo(sm18357858)|
+|&nicovideo(sm19120162)|&nicovideo(sm20078880)|
+|&nicovideo(sm20663667)|&nicovideo(sm24276088)|
+
+**コラボ作品
+|&nicovideo(sm3353841)|&nicovideo(sm3837980)|
+
+**コメント
+- おお！記事出来てた！クロジさんの曲好きです！  -- 名無しさん  (2012-03-19 16:46:14)
+- どれもこれも、クセになる曲ばかりだし歌詞のごちゃ感が好き  -- 名無しさん  (2012-08-20 21:13:31)
+- 記事ようやくきた！この個性的な世界観と言葉遊び…つい口ずさんでしまいますｗ  -- 黒葉  (2012-10-16 14:11:01)
+- ハチさんのバンド仲間だったよね。似てて当たり前だなぁ  -- 名無しさん  (2012-10-16 22:10:10)
+- ↑そうだったんですね　どうりで  -- 名無しさん  (2012-11-23 17:12:26)
+- ハチさんとそっくり・・・・・・、性格と言動が  -- 名無しさん  (2012-12-13 18:47:43)
+- WASABINICOFU好きです。  -- 元禄  (2014-10-02 18:31:16)
+- すきなんですよやっぱり  -- ありす  (2022-03-22 21:31:31)
+- bossさんの曲っていい曲ですよね。ハチさんだけではなくbossさんの曲も聴いて欲しい…  -- bossさんは神  (2023-03-30 19:57:32)
+#comment()

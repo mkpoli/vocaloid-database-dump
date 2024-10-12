@@ -1,0 +1,40 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo(sm17506619)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){cute'n cute'n pop}|CENTER:[[cute'n cute'n pop 2]]|
+
+|&bold(){[[あつぞうくん]]}|[[OSTER project]]|[[ふわP]]|[[まうあき]]|[[ユメトコスメ]]|
+|[[れいな]]|[[ソレナンテP]]|[[ちえP]]|[[U-ji]]|[[曲者P]]|
+|硫酸|[[リョータイ]]|ゆきはね|[[U-SUKE]]||
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2012年4月28・29日||
+|価格|CENTER:￥1,000|CENTER:￥1,470（税込）|
+|サークル|>|CENTER:ATZ Records|
+
+**CD紹介
+-あつぞうくん主宰ATZ Recordsの10作目はきゅんきゅんポップコンピレーションCD。
+-ATZ records記念すべき10作目は、豪華メンバーを迎えての”きゅんきゅんポップ”コンピレーションアルバムです！&br()OSTER project、あつぞうくんをはじめとした10名の手による、とってもキュートでポップな音楽たち。ぜひATZ recordsのきゅんきゅんワールドをお楽しみください！
+-ジャケットイラストはあさひ氏。
+-THE VOC@LOiD 超 M@STER 20（超ボーマス20）にて頒布。委託販売も行われている。
+
+**曲目
++[[POMPADOUR]] / OSTER project / 巡音ルカ
++[[sweet weekend sweets]] / まうあき・硫酸 / 鏡音リン
++[[キスとかキライとか]] / ユメトコスメ / 初音ミク
++思ったままにね！ / れいな / 初音ミク
++[[ステマ☆ディスコティック]] / ときわかねなり（ソレナンテP） / 鏡音リン
++[[デタラメハート]] / ちえP・リョータイ / 雨歌エル（UTAU）
++[[花咲くいみは]] / ふわP（すとり）・ゆきはね / 初音ミク
++[[Natural Style]] / U-ji aka 霊長類P・U-SUKE / 初音ミク
++[[サボテンと熱気球]] / Kusemono / 初音ミク
++[[星巡りの歌]] / あつぞうくん / 初音ミク
+
+**リンク
+-[[特設ページ>>http://ccp.atzrecords.com/]]
+-[[ATZ Records>>http://atzrecords.com/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/04/30/040030043031.html]]
+
+**コメント
+#comment()

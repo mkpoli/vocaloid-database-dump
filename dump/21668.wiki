@@ -1,0 +1,38 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#image(http://xion.art-studio.cc/_src/sc1439/trioline_ouenbanner_400_80.jpg,http://xion.art-studio.cc/,title=REM -レム-,blank)
+
+&ref(http://karent.jp/npdca/1037_20120409132536_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Re-collect]]|CENTER:&bold(){TrioLine -トリオライン-}|CENTER:[[夏の絵日記]]|
+
+|&bold(){[[彩音P]]}|
+
+|流通|CENTER:即売|CENTER:同人|CENTER:配信|
+|発売|CENTER:2012年4月28日|CENTER:2012年5月|CENTER:2012年5月14日|
+|価格|CENTER:￥500|CENTER:￥735（税込）|CENTER:￥600 / 1曲￥150|
+|サークル|>|CENTER:彩音 ～xi-on～||
+
+**CD紹介
+-彩音PのボーカロイドCD第5弾はアレンジCD。
+-サークルでは初の『巡音ルカ』をメインボーカルに使用し、大人な雰囲気のジャズアレンジに挑戦しました。&br()『初音ミク』『鏡音リン』もコーラスにて使用。楽器編成はピアノ・ウッドベース・ドラムのみを使用したトリオ編成です。&br()アップテンポ、ミドルテンポ、しっとりしたバラードの３種類のアレンジにしました。それぞれ楽しんでいただけたら幸いです。
+-THE VOC@LOiD 超 M@STER 20（超ボーマス20）で初頒布。とらのあな、D-STAGE、メロンブックスなどで委託販売が行われている。
+-KARENTレーベルよりダウンロード販売も行われている。
+
+**曲目
++[[ライカ>ライカ/彩音P]] -Trio Jazz Style-
++[[サラリーマンのうた]] 2011 -Trio Jazz Style-
++[[青空の下で>青空の下で/彩音P]] -Trio Jazz Style-
++ライカ -Trio Jazz Style-（カラオケトラック）
++サラリーマンのうた 2011 -Trio Jazz Style-（カラオケトラック）
++青空の下で -Trio Jazz Style-（カラオケトラック）
++ライカ -Trio Jazz Style-（カラオケ+コーラストラック）CD版のみ
++サラリーマンのうた 2011 -Trio Jazz Style-（カラオケ+コーラストラック）CD版のみ
++青空の下で -Trio Jazz Style-（カラオケ+コーラストラック）CD版のみ
+
+**リンク
+-[[作者サイト>>http://xion.art-studio.cc/]]
+-[[KARENT：「TrioLine -トリオライン-」>>http://karent.jp/album/1037]]
+
+**コメント
+#comment()

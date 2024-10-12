@@ -1,0 +1,37 @@
+#right(){&furigana(みなそこのぺーじ)&furigana()【登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186123086.jpg,x=300,y=300)
+
+&nicovideo(sm16844468)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){水底の頁-欠片-}|CENTER:[[水鏡の声]]|
+
+|&bold(){[[銀鱗P]]}|
+
+発売：2012年2月5日
+価格：￥
+流通：即売
+サークル：鶏ガラ塩アイス
+
+**CD紹介
+-銀鱗Pのアルバム。
+-THE VOC@LOiD M@STER 19（ボーマス19）にて頒布。通販予定はなし。
+
+**曲目
++水底の頁
++[[水尾]]
++[[雨音>雨音/銀鱗P]]-水底arrange-
++[[深海月]]
++[[銀鱗]]-水底arrange-
++[[水面うつし]]
++涙箱
++[[青空色の足音]]
+
+**リンク
+-[[ピアプロ>>http://piapro.jp/irodori_963]]
+-[[Twitter>>http://twitter.com/croqui9]]
+
+**コメント
+- すごく欲しい！  -- 名無しさん  (2014-07-02 21:49:21)
+#comment()

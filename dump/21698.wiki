@@ -1,0 +1,45 @@
+#right(){&furigana(はんぺんこうしえん はるのせんばつ)&furigana()【登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186133666.jpg,x=300,y=300)
+
+&nicovideo(sm17644173)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-&br()[[Cookie>Cookie/CD]]（BIRUGE）&br()-|CENTER:&bold(){ハンペン甲子園 ～春のセンバツ～}&br()[[アコゥスティカ]]（BIRUGE）&br()[[Sweetopia]]（ほのづき）|CENTER:[[劇場版「ハンペン甲子園 ～鮭とポニテの歌合戦～」劇中歌CD]]&br()[[明日も良い日になるでしょう]]（BIRUGE）&br()[[Sweet Splash!!!]]（ほのづき）|
+
+|&bold(){[[BIRUGE>コモレビノーツ]]}|&bold(){[[ほのづき]]}|
+
+|流通|CENTER:即売|CENTER:委託|CENTER:配信|
+|発売|CENTER:2012年4月28・29日|CENTER:2012年5月|CENTER:2013年5月|
+|価格|CENTER:￥100|CENTER:￥158（税込）|CENTER:￥105|
+|サークル|>|>|CENTER:ハンペン甲子園|
+
+**CD紹介
+>あの伝説の元・アニメ「ハンペン甲子園」の主題歌が、CDとなって帰ってきた!
+>果たしてノボールとは何なのか、新巻鮭師匠は何の力で少し浮いてるのか、そもそも作者達はどこまで本気なのか…!?
+>ネタバレが書かれた「あらすじ」付き!OP曲とED曲とカラオケ版、計4曲を収録!
+-BIRUGE氏とほのづき氏の共作シングル。
+-TVアニメ「ハンペン甲子園 ～春のセンバツ～」の主題歌CD。TVアニメは制作中止となったが主題歌はできていたためリリースとなった。
+-THE VOC@LOiD 超 M@STER 20（超ボーマス20）で頒布。
+-とらのあなにて委託販売が行われていた。その後とらのあなのダウンロード販売も始まった。
+
+**曲目
++ハンペン甲子園
++-唄：初音ミクAppend (Solid)　作詞：ほのづき　作曲：BIRUGE
++明日もおなじ、景色のなかで
++-唄：IA -ARIA ON THE PLANETES-　作詞：BIRUGE　作曲：ほのづき
++ハンペン甲子園 (Off Vocal)
++明日もおなじ、景色のなかで (Off Vocal)
+
+**関連動画
+|&nicovideo(sm17429794)|&nicovideo(sm17429793)|
+
+**リンク
+-[[特設ページ>>http://cookie.cosa-cosa.com/HanpenKoshien/]]
+-[[Twitter>>http://twitter.com/#!/HanpenKoshien]]
+-[[とらのあな（CD）>>http://www.toranoana.jp/mailorder/article/04/0030/04/58/040030045804.html]]
+-[[とらのあな（ダウンロード）>>http://dl.toranoana.jp/cgi-bin/coterie_item_detail.cgi?cf_id=260001993100]]
+
+**コメント
+- 追加おつ！  -- 名無しさん  (2013-06-04 17:22:43)
+#comment()

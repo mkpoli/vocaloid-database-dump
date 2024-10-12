@@ -1,0 +1,29 @@
+#right(){&furigana(おにがしま)&furigana()【登録タグ:&tags() 】}
+#nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/34403252" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/34403252">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-2010年11月8日投稿の「[[HAKUMEI]]」にてボカロPデビューを果たす。
+-2014年11月9日、Twitter上にて 鬼ヶ島氏＝[[azuma]]氏 だという事をカミングアウトした。
+-一気に引き込まれるイントロと、サビの盛り上がりに定評がある。
+-「HAKUMEI」は、その完成度の高さから処女作にして初の殿堂入りを果たす。&br()また、VY1オリジナル曲でも初の殿堂入りを果たした。
+-使用するVOCALOIDはVY1のみ。UTAUはUTAU日本鬼子を使用している。
+
+**リンク
+-[[twitter>>http://twitter.com/oniga_island]]
+
+**曲
+#list_by_tag(鬼ヶ島,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(鬼ヶ島CD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm12688908)|
+
+**コメント
+- 新曲こないかな・・・  -- 名無しさん  (2012-06-24 10:06:36)
+- HAKUMEIのCD願ってますw  -- ✝+ハル+✝  (2012-09-26 21:29:35)
+- つ ttp://www.nicovideo.jp/watch/sm16542255  -- 名無しさん  (2013-01-17 07:52:00)
+- 正体はazumaさんらしいですね。  -- 名無しさん  (2015-01-25 14:57:09)
+- ボカロはヤイバ（ｖｙ１）でＵＴＡＵはカタナコ（日本鬼子）・・・。この人、相当の女性サムライ（女性和風歌い手）使いだね。  -- うにゅほ  (2015-10-31 17:03:43)
+#comment()

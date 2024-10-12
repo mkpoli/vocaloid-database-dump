@@ -1,0 +1,28 @@
+#right(){&furigana(みうみう)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/25454559" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/25454559">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-聞き入る曲を作るボカロP。
+-使用VOCALOIDは初音ミク、蒼姫ラピス。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/atelier924]]
+-[[Twitter>>https://twitter.com/atelier924]]
+-[[blog（Amebaブログ）>>http://ameblo.jp/atelier924/ ]]
+
+**曲
+#list_by_tag(みうみう,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(みうみうCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm14508778)|&nicovideo(sm15234164)|
+|&nicovideo(sm15436772)|&nicovideo(sm15775780)|
+|&nicovideo(sm15884501)|&nicovideo(http://www.nicovideo.jp/watch/1321064356)|
+|&nicovideo(sm16151219)|&nicovideo(http://www.nicovideo.jp/watch/1324007134)|
+|&nicovideo(sm17369006)|&nicovideo(sm17401028)|
+
+**コメント
+- 初めて作り手のページ作成しました。ミス等ご指摘お願い致します。  -- 三角関数  (2012-03-11 00:50:25)
+#comment()

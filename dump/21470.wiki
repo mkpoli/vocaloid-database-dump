@@ -1,0 +1,41 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo(sm14628611)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){CLOSET}|CENTER:[[redress]]|
+
+|&bold(){[[ORYO]]}|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|>|CENTER:2011年6月12日|
+|価格|CENTER:￥1,000|CENTER:￥1,575（税込）|
+|サークル|>|CENTER:FAULHEIT|
+
+**CD紹介
+-ORYO氏の1stアルバム。
+-ORYO名義となっているが、実質FAULHEITの1stアルバムとも言える。
+-イラスト&ジャケットデザインは[[おはぎ]]氏。
+-THE VOC@LOiD M@STER 16（ボーマス16）で初頒布。
+-とらのあなで委託販売が行われている。
+
+**曲目
++[[モノトーンコレクター]] [Recollection]
++トレモロセンチメンタル
++loverberry drop
++[[behind me]] （ストリングスアレンジ：psycho）
++沈む月
++[[ANEMONE OVERDOSE]]
++[[進化論 code:variant]]
++[[sweet,sweet]]
++endroll
++[[声>声/ORYO]]
++L suicide,alter R
++brilliant
+
+**リンク
+-[[作者ブログ>>http://oryo-faulheit.jugem.jp/]]
+-[[アルバム特設ページ>>http://stirise.com/ORYO/CLOSET/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0020/01/29/040020012954.html]]
+
+**コメント
+#comment()

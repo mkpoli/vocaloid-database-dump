@@ -1,0 +1,31 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/21260908" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/21260908">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-別名は「姉御P」「Fate@姉御P」。
+-作詞、作曲、編曲、動画を手がける。
+-代表作はVOCALOID亜種「鏡音リント・レンカ」を起用した「[[Darling☆]]」シリーズ。
+
+**リンク
+-[[ピアプロ>>http://piapro.jp/Fate2525]]
+
+**曲
+#list_by_tag(Fate,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(FateCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm12257257)|&nicovideo(http://www.nicovideo.jp/watch/sm12958219)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm13379595)|&nicovideo(http://www.nicovideo.jp/watch/sm13462735)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm13985869)|&nicovideo(http://www.nicovideo.jp/watch/sm15388600)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm15647767)|&nicovideo(http://www.nicovideo.jp/watch/sm16007574)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm16120590)|&nicovideo(http://www.nicovideo.jp/watch/sm18201799)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm18540154)|&nicovideo(http://www.nicovideo.jp/watch/sm19520818)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm20098101)|
+
+**コメント
+- 追加乙です！約束の花好きだからうれしい  -- 名無しさん  (2012-04-08 21:57:22)
+- 追加乙です！Fateさんの曲全部大好きです!!  -- 名無しさん  (2012-04-09 01:18:39)
+- 約束の花好きすぎてヤバいです！  -- 名無しさん  (2012-05-27 00:35:00)
+#comment()

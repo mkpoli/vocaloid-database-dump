@@ -1,0 +1,40 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1050_20120505230359_0280_0280.jpg)
+
+&nicovideo(sm17574128)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[R>R/CD]]|CENTER:&bold(){My fair lady}|CENTER:[[恋竹林5]]|
+
+|&bold(){[[恋竹林]]}|
+
+||CENTER:即売|CENTER:配信|
+|発売|CENTER:2012年4月28・29日|CENTER:2012年5月18日|
+|価格|CENTER:￥1,000|CENTER:￥1,200 / 1曲￥150|
+|サークル|>|CENTER:恋竹林|
+|レーベル||CENTER:KARENT|
+|ジャケットイラスト|>|CENTER:e-megu|
+
+**CD紹介
+-サークル恋竹林の4thアルバム。
+-THE VOC@LOiD 超 M@STER 20（超ボーマス20）で頒布。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++intro
++shin （feat. 初音ミク）
++[[music kick -acoustic->music kick]] （feat. 初音ミク）
++[[四季彩々]] （feat. 初音ミク）
++after nk （feat. 初音ミク）
++[[sweet capsule -acoustic->sweet capsule]] （feat. 初音ミク）
++wish （feat. 初音ミク）
++1234 （feat. 初音ミク）
++[[My fair lady]] （feat. 初音ミク）
+
+**リンク
+-[[作者サイト>>http://koichikurinofficial.web.fc2.com/index.html]]
+-[[作者ブログ>>http://koichikurin.blog89.fc2.com/]]
+-[[KARENT：「My fair lady」>>http://karent.jp/album/1050]]
+
+**コメント
+#comment()

@@ -1,0 +1,27 @@
+#right(){&furigana(せまいへやのあくありうむ)&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1027_20120319094959_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[仮想世界より愛をこめて]]|CENTER:&bold(){狭い部屋のアクアリウム}|CENTER:-|
+
+|&bold(){[[2進P]]}|
+
+発売：2012年3月29日
+価格：￥150
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：まにお
+
+**CD紹介
+-2進Pことサイト氏の配信シングル。
+-KARENTレーベルのバラード特集で配信された作品の1つ。
+
+**曲目
++狭い部屋のアクアリウム （feat. GUMI）
+
+**リンク
+-[[KARENT：「狭い部屋のアクアリウム」>>http://karent.jp/album/1027]]
+-[[KARENT：「The Ballad Music」特集ページ>>http://karent.jp/special/ballad12]]
+
+**コメント
+#comment()

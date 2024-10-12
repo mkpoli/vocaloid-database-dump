@@ -1,0 +1,44 @@
+#right(){&furigana(alpa)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&ref(https://29.media.tumblr.com/tumblr_ly69z1QM8P1r2cjuto1_500.jpg,width=300,height=300)
+
+|&nicovideo(sm16762483)|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[AWARD STROBE HELLO]]|CENTER:&bold(){alpa}|CENTER:[[夢のまにまに>夢のまにまに/CD]]|
+
+|&bold(){[[ぽわぽわP]]}|[[じたばたP]]|[[きゅんきゅんP]]|[[削除]]|
+
+|発売|CENTER:2012年2月5日|
+|価格|CENTER:￥1,000|
+|流通|CENTER:即売|
+|サークル|CENTER:岐阜県|
+
+**CD紹介
+CD名：『&u(){alpa}』
+-ぽわぽわPの3rdアルバム。新曲2曲とRemix3曲を含む全8曲が収録。 
+-イラストはmeisa、デザインは古川本舗。
+-THE VOC@LOiD M@STER 19（ボーマス19）で初頒布。委託予定。
+
+**曲目
++[[ササメク]](remodel for alpa)
++窪園チヨコVSメカ窪園チヨコ &color(red){New!}
++[[Human>Human/ぽわぽわP]] feat.000
++[[怪盗・窪園チヨコは絶対ミスらない]](barabara mix) by 黒魔
++ササメク(sasameku can’t be the word found in reayfla’s inner world mix) by 削除
++Human(TONKATZ Remix) by とんかつ 
++alpa &color(red){New!}
++[[アストロノーツ]] feat.抱きしめたトゥナイト
+
+**リンク
+-[[窪園チヨコの入閣（作者サイト）>>http://strobehello.tumblr.com/]]
+
+**コメント
+- ページ出来てた！後二週間位で届くはず！  -- 名無しさん  (2012-04-05 20:58:42)
+- これってもう手に入らないのかな...ショック　通販復活しないかな...  -- 名無しさん  (2012-11-04 00:08:03)
+- 各種サブスクで配信中です  -- 名無しさん  (2020-03-14 10:18:31)
+- サブスクで聴いてる　大好き  -- 名無しさん  (2023-12-08 12:55:10)
+#comment()

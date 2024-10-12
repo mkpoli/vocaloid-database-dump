@@ -1,0 +1,47 @@
+#right(){&furigana(かぜのようにふりそそぎたいうた) &furigana()【登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186149115.jpg,x=300,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm17575979)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){風のように降りそそぎたいうた}|CENTER:-|
+
+|&bold(){[[honana]]}|
+
+|流通|CENTER:即売|
+|発売|CENTER:2012年4月28日|
+|価格|CENTER:￥1,000（税込）|
+|サークル|CENTER:ひなた通り和菓子店|
+
+**CD紹介
+>&bold(){－僕らが歩く道では、さざめくようにうたが吹く。}
+-honana氏 の1stアルバム。
+-これまでにリリースした楽曲に新曲などを加えた、全15曲収録。既存曲はすべてリミキシングまたはリマスタリング音源となる。
+-これを聴けば honana の音楽がだいたい分かる、ベスト的な内容です！（作者コメ転載）
+-ジャケットイラストは はな尾氏 が手掛ける。
+-THE VOC@LOiD 超 M@STER 20（超ボーマス20）にてリリース。
+
+**曲目
++[[桜>桜/honana]]
++[[水色シンフォニー]]
++[[ハリキリセッション！]]
++[[悲恋]]
++[[蒼い窓辺]]
++[[光のストライド]]
++[[歩こう]]
++[[青春の魔法たち]]
++[[あの夏の向日葵>あの夏の向日葵/honana]]
++[[この星空の下で]]
++[[冬の天使]]
++[[さよならクローバー]]
++飛べない翼と私の手 feat. 鮮血ちゃん starring Luna*
++夕陽色ビーム
++風ぼうし
+
+**リンク
+-[[ほなな日和(σω-)｡оﾟ（作者ブログ）>>http://honana514.blog137.fc2.com/]]
+-[[Twitter>>http://twitter.com/honana_p]]
+
+**コメント
+#comment

@@ -1,0 +1,40 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm17521593)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Stand alone}|CENTER:-|
+
+|&bold(){[[なきゃむりゃ]]}|ちょうや|[[オレジナルP]]|[[れるりり]]|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2012年4月28日・29日||
+|価格|CENTER:￥1,000（税込）|CENTER:￥1,429（税別）|
+|サークル|CENTER:中村屋喜兵衛|CENTER:なきゃむりゃスタジオ|
+
+**CD紹介
+-なきゃむりゃ氏、待望の1stアルバム。
+-既存曲は全てリテイク・リマスタリング。さらに新曲などを加えた、全11曲を収録。
+-JAZZ・POPS・ROCK・フュージョン などを詰め込んだ、お洒落な一枚に仕上がっている。
+-7曲目の「蒼き淑女のバラード」は、歌い手の となり氏 が参加。
+-THE VOC@LOiD 超 M@STER 20（超ボーマス）にてリリース。
+-とらのあなで委託販売が行われていた。
+
+**曲目
++[[傷心ライダー]] -retake-
++[[MarBle>MarBle/なきゃむりゃ]] -retake-
++[[晴れ晴れノート]]
++[[孤独のパラノイア]]
++[[The catcher in the lie]]
++[[マトリックスシンドローム]]
++蒼き淑女のバラード -Real Vo ver.-
++[[Tokyo Midnight Cat Thief Garden>TokyoMidnightCatThiefGarden]]
++[[ツァラトゥストラの見た夢]]
++[[ルサンチマンの海に抱かれて]]
++[[Stand alone]]
+
+**リンク
+-[[Twitter>>http://twitter.com/nakyamurya]]
+-[[とらのあな>>https://www.toranoana.jp/mailorder/article/04/0030/03/88/040030038861.html]]
+
+**コメント
+#comment

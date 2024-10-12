@@ -1,0 +1,31 @@
+#right(){&furigana(とんびP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/21554158" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/21554158">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-2010/10/10、「[[彩]]」でボカロデビュー。
+-使用ボカロは今のところ、ミク一筋。
+-節目となる10作目の「[[単色少女]]」にて自身初の殿堂入りを達成。
+-バンド活動もしており、演奏する曲はボカロ曲がメイン。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/tomb_18]]
+-[[Twitter>>http://twitter.com/tomb_18]]
+
+**曲
+#list_by_tag(とんびP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(とんびPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm12385339)|&nicovideo(http://www.nicovideo.jp/watch/sm13003692)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm13929568)|&nicovideo(http://www.nicovideo.jp/watch/sm14137063)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm14809577)|&nicovideo(http://www.nicovideo.jp/watch/sm15169193)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm15454234)|&nicovideo(http://www.nicovideo.jp/watch/sm15481330)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm15762517)|&nicovideo(http://www.nicovideo.jp/watch/sm16371707)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm17086688)|&nicovideo(http://www.nicovideo.jp/watch/sm17188960)|
+
+**コメント
+- やっと出来た！  -- 名無しさん  (2012-03-22 03:09:58)
+- ↑制作乙です！ありがとうございます！  -- 椿  (2012-03-22 09:20:53)
+#comment()

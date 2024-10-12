@@ -1,0 +1,40 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1013_20120223181614_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[CLOSET]]|CENTER:&bold(){redress}|CENTER:[[独我論 code:altered]]|
+
+|&bold(){[[ORYO]]}|
+
+|流通|CENTER:即売|CENTER:配信|
+|発売|CENTER:2011年12月31日|CENTER:2012年3月5日|
+|価格|CENTER:￥500|CENTER:￥900 / 1曲￥150|
+|サークル|>|CENTER:FAULHEIT|
+
+**CD紹介
+-ORYO氏のCD作品。
+-既存曲5曲+オケ4曲の全9曲。
+-ボーカルをV3で入れ直し、オケも新録となっている。
+-コミックマーケット81（C81）で初頒布。会場限定頒布だったが、既に完売となっている。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++[[モノトーンコレクター]] （feat. GUMI V3）
++[[進化論 code:variant]] （feat. GUMI V3）
++[[behind me]] （feat. GUMI V3 & psycho）
++[[ANEMONE OVERDOSE]] （feat. GUMI V3）
++[[独我論 code:altered]] （feat. GUMI V3）
++モノトーンコレクター [GUMIless ver.]
++進化論 code:variant [GUMIless ver.]
++behind me [GUMIless ver.] feat. psycho
++ANEMONE OVERDOSE [GUMIless ver.]
+
+**リンク
+-[[作者ブログ>>http://oryo-faulheit.jugem.jp/]]
+-[[クロスフェード>>http://tmbox.net/pl/26298]]
+-[[KARENT：「redress」>>http://karent.jp/album/1013]]
+
+**コメント
+- これ欲しかったなぁ・・・  -- 名無しさん  (2014-10-05 17:02:19)
+- V3なんだ・・・！！！すごい欲しい・・・  -- 名無しさん  (2014-11-07 17:36:31)
+#comment()

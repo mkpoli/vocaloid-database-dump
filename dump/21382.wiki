@@ -1,0 +1,41 @@
+#right(){&furigana(とほのわんりょくりはくのわんりょく) &furigana()【登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186123535.jpg,x=300,y=300)
+
+|&nicovideo(http://www.nicovideo.jp/watch/sm17592497)|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){杜甫の腕力、李白の腕力。}|CENTER:-|
+
+|&bold(){[[hanzo]]}|[[シュラ種種種]]|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|CENTER:2012年4月28日・29日|CENTER:2012年5月21日|
+|価格|CENTER:￥1,000|CENTER:￥1,050（税込）|
+|サークル|CENTER:杜甫の腕力、李白の腕力。|>|
+
+**CD紹介
+-hanzo氏の 1st album 。
+-大ヒット作の「[[合鍵ガンマンと合鍵忍者]]」などの既存曲に、新曲を加えた全9曲を収録。
+-ジャケットイラストは 白兎うな氏 が手掛ける。
+-THE VOC@LOiD 超 M@STER 20（超ボーマス）にてリリースされた。
+-現在とらのあなで委託販売が行われている。
+
+**曲目
++[[ノコノコ踏んで恋をして]] feat. 初音ミク
++[[嗚呼、本日も回転斬り。>嗚呼、本日も回転斬り]] feat. 神威がくぽ
++[[ねぇ聞いてよレモネード]] feat. IA
++[[合鍵ガンマンと合鍵忍者]] feat. 鏡音リン・鏡音レン
++[[六感娘と諸藩再建策]] feat. 初音ミク
++[[木彫り鯰と右肩ゾンビ]] feat. 鏡音レン
++[[あまねく自転車操業とまるめ込み餡団子]] feat. 鏡音リン・鏡音レン
++（Bonus Track）わかれのぬくもり feat. 初音ミク
++（Bonus Track）追想巡りの商船 feat. 鏡音リン・鏡音レン
+
+**リンク
+-[[Twitter>>http://twitter.com/hanzo39]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/04/30/040030043084.html]]
+
+**コメント
+- ww  -- 名無しさん  (2013-02-16 16:19:17)
+#comment

@@ -1,0 +1,30 @@
+#right(){&furigana(からこころEP)&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1044_20120423130319_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[CATALOG//>CATALOG／／]]|CENTER:[[KISS ME BABY!!! EP]]&br()&bold(){カラココロ EP}|CENTER:-|
+
+|&bold(){[[ELEGUMI TOKYO]]}|
+
+発売：2012年5月7日
+価格：￥300 / 1曲￥150
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：大沼もん
+
+**CD紹介
+-ELEGUMI TOKYO氏の配信シングル。『[[KISS ME BABY!!! EP]]』と同時リリース。
+-5作目の「カラココロ」のミク版・GUMI版が収録されている。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++[[カラココロ]] （feat. 初音ミク）
++カラココロ （GUMI Version） （feat. メグッポイド&初音ミク）
++カラココロ （Instrumental）
+
+**リンク
+-[[作者サイト>>http://elegumi.tumblr.com/]]
+-[[KARENT：「KISS ME BABY!!! EP」>>http://karent.jp/album/1044]]
+
+**コメント
+#comment()

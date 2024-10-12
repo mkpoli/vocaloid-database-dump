@@ -1,0 +1,47 @@
+#right(){&furigana(あこぅすてぃか) &furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1049_20120504051719_0280_0280.jpg)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm17623854)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Cookie>Cookie/CD]]|CENTER:&bold(){アコゥスティカ}&br()[[ハンペン甲子園 ～春のセンバツ～]]|CENTER:[[明日も良い日になるでしょう]]&br()[[劇場版「ハンペン甲子園 ～鮭とポニテの歌合戦～」劇中歌CD]]|
+
+|&bold(){[[BIRUGE>コモレビノーツ]]}|苺じゃむP|とけい|
+
+|流通|CENTER:即売|CENTER:同人|CENTER:配信|
+|発売|>|CENTER:2012年4月28・29日|CENTER:2012年5月16日|
+|価格|CENTER:￥1,000|CENTER:￥1,050（税込）|CENTER:￥1,500 / 1曲￥150|
+|サークル|CENTER:ハンペン甲子園|CENTER:BIRUGE||
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/ako-usutika/id526667310]]}|
+
+**CD紹介
+>『過去から未来まで、冴え渡れ、唄よ。』
+>誰もが聴いたことがあり、誰もが聴いたことのない、そんな音を探し求めたアルバムです。
+-BIRUGE氏の6作目となるCDアルバム。
+-全12曲中未発表曲が10曲という構成。Tr.7は苺じゃむPに詞を提供したUTAU曲のアレンジカバー。
+-THE VOC@LOiD 超 M@STER 20（超ボーマス20）で頒布。[[ほのづき]]氏との共作シングル『[[ハンペン甲子園 ～春のセンバツ～]]』との同時リリース。
+-とらのあなにて委託販売が行われた。また、KARENTレーベルよりダウンロード販売も行われている。ボーナストラックが未収録の全11曲。
+
+**曲目
++Acoustica
++[[さよならセプテンバー]]
++[[夢色の空]]
++朧月夜と春乙女
++あさごはんのうた
++かっぷら -カタ麺-
++青空ラブレター -Overdrive ver.-
++[[そよよ]]
++形を変えた明日のために
++[[ただいまの場所]]
++[[Cookie>Cookie/BIRUGE]]
++[[夕暮れと明日の唄]] -Nakemiin-　<bonus track>　※CD版のみ
+
+**リンク
+-[[Cookie（作者サイト）>>http://cookie.cosa-cosa.com/index.php]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/04/29/040030042994.html]]
+-[[KARENT：「アコゥスティカ」>>http://karent.jp/album/1049]]
+
+**コメント
+- 追加おつ！  -- 名無しさん  (2013-06-04 17:40:24)
+#comment()

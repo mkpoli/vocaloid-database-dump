@@ -1,0 +1,36 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm17446233)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[A Starred Wish<A Starred Wish/CD]]|CENTER:&bold(){Hearts*Capsule}|CENTER:[[Have a sweet dream*]]|
+
+|&bold(){[[colate]]}|[[3396]]|
+
+|流通|CENTER:即売|
+|発売|CENTER:2012年4月28日・29日|
+|価格|CENTER:￥1,000（税込）|
+|サークル|CENTER:ELEGUMI x colate x HOPE|
+
+**CD紹介
+-colate氏の1stアルバム。
+-前回のEPに収録した内容をブラッシュアップ＋新曲3曲＋リメイクの全10曲を収録。
+-ジャケットイラストは めりの氏 が手掛ける。マスタリングは km氏 。歌い手の 美砂氏 が8曲目に、3396氏がリミックスで10曲目に参加。
+-THE VOC@LOiD 超 M@STER 20（超ボーマス20）にてリリース。
+
+**曲目
++[[Party@Candyfloor]]
++[[Airy Girl]]
++[[Lovely Bell]]
++[[Lovin' Street]] -niconico mix-
++[[Opposite Side]]
++[[Snow Parade]]
++[[Chocolat Week]]
++[[A Starred Wish]] -re:edit- feat. 美砂
++Bubbly Sweet Night
++Lovely Bell -croaky clock remix- Remix by 3396
+
+**リンク
+-[[Twitter>>http://twitter.com/colate_ll]]
+
+**コメント
+#comment

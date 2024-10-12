@@ -1,0 +1,32 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1031_20120321042538_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[ALTAIR>ALTAIR/CD]]|CENTER:&bold(){Re:present (Remaster Version)}|CENTER:[[泡沫セレシェイラ>泡沫セレシェイラ/CD]]|
+
+|&bold(){[[CielP]]}|たる|
+
+|流通|CENTER:配信|CENTER:即売|
+|発売|CENTER:2012年3月29日|CENTER:2012年4月28・29日|
+|価格|CENTER:￥300 / 1曲￥150|CENTER:￥300|
+|レーベル|CENTER:KARENT||
+|ジャケットイラスト|>|CENTER:[[←>>http://piapro.jp/yajirusi]]|
+
+**CD紹介
+-CielPの配信EP。
+-「[[Re:present]]」「[[通り雨>通り雨/CielP]]」「[[My Picture]]」の3曲をリマスターバージョンで収録している。
+-KARENTレーベルのバラード特集で配信された作品の1つ。
+-後にCD化され、THE VOC@LOiD 超 M@STER 20（超ボーマス20）やコミックマーケット82（C82）で頒布された。
+
+**曲目
++[[Re:present]] (Remaster Version) （feat. 巡音ルカ）
++[[通り雨>通り雨/CielP]] (Remaster Version) （feat. 巡音ルカ）
++[[My Picture]] (Remaster Version) （feat. 巡音ルカ）
+
+**リンク
+-[[KARENT：「Re:present (Remaster Version)」>>http://karent.jp/album/1031]]
+-[[KARENT：「The Ballad Music」特集ページ>>http://karent.jp/special/ballad12]]
+-[[作者サイト>>http://sound.jp/ciel/frame_set.html]]
+
+**コメント
+#comment()

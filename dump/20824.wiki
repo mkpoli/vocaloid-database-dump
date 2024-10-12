@@ -1,0 +1,27 @@
+#right(){&furigana(そいそいP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/5297299" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/5297299">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-替え歌形のカバー曲を制作することが多いP。
+-「夜・逃・げでリセット！」は、VOCALOID殿堂入りと週間VOCALOIDランキング＃40での1位入賞を果たしている。
+-ご当地ミクでは伊予弁担当。
+-P名の由来は、実に前衛的な処女作「初音ミクでソイソイ」から。
+-VOCALOID・アンダーグラウンド・カタログ PART2では、1曲目に掲載される。
+
+//**リンク
+//-
+
+**曲
+#list_by_tag(ソイソイP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(ソイソイPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm1912109)|&nicovideo(http://www.nicovideo.jp/watch/sm2456098)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2902918)|&nicovideo(http://www.nicovideo.jp/watch/sm2923869)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3817051)|&nicovideo(http://www.nicovideo.jp/watch/sm3887538)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5612897)|&nicovideo(http://www.nicovideo.jp/watch/sm5747034)|
+
+**コメント
+#comment()

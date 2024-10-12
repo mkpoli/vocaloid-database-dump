@@ -1,0 +1,540 @@
+※ルール改変に伴い、作者名の後ろに「feat.キャラクター名」となっている曲もありますが、ここでは省略しています。
+
+#contents()
+----
+|[[DAM歌手名順【あ】>カラオケ配信曲一覧/DAM歌手名順【あ】]]|[[DAM歌手名順【か】>カラオケ配信曲一覧/DAM歌手名順【か】]]|[[DAM歌手名順【さ】>カラオケ配信曲一覧/DAM歌手名順【さ】]]|[[DAM歌手名順【た】>カラオケ配信曲一覧/DAM歌手名順【た】]]|[[DAM歌手名順【な】>カラオケ配信曲一覧/DAM歌手名順【な】]]|-|[[DAM歌手名順【ま】>カラオケ配信曲一覧/DAM歌手名順【ま】]]|[[DAM歌手名順【や】>カラオケ配信曲一覧/DAM歌手名順【や】]]|[[DAM歌手名順【ら】>カラオケ配信曲一覧/DAM歌手名順【ら】]]|[[DAM歌手名順【わ】>カラオケ配信曲一覧/DAM歌手名順【わ】]]|
+
+曲名で調べたい場合はこちら：
+|[[DAM曲名順【あ】>カラオケ配信曲一覧/DAM曲名順【あ】]]|[[DAM曲名順【か】>カラオケ配信曲一覧/DAM曲名順【か】]]|[[DAM曲名順【さ】>カラオケ配信曲一覧/DAM曲名順【さ】]]|[[DAM曲名順【た】>カラオケ配信曲一覧/DAM曲名順【た】]]|[[DAM曲名順【な】>カラオケ配信曲一覧/DAM曲名順【な】]]|[[DAM曲名順【は】>カラオケ配信曲一覧/DAM曲名順【は】]]|[[DAM曲名順【ま】>カラオケ配信曲一覧/DAM曲名順【ま】]]|[[DAM曲名順【や】>カラオケ配信曲一覧/DAM曲名順【や】]]|[[DAM曲名順【ら】>カラオケ配信曲一覧/DAM曲名順【ら】]]|[[DAM曲名順【わ】>カラオケ配信曲一覧/DAM曲名順【わ】]]|
+
+JOYSOUND曲名順はこちら：
+|[[JOY曲名順【あ】>カラオケ配信曲一覧/JOYSOUND曲名順【あ】]]|[[JOY曲名順【か】>カラオケ配信曲一覧/JOYSOUND曲名順【か】]]|[[JOY曲名順【さ】>カラオケ配信曲一覧/JOYSOUND曲名順【さ】]]|[[JOY曲名順【た】>カラオケ配信曲一覧/JOYSOUND曲名順【た】]]|[[JOY曲名順【な】>カラオケ配信曲一覧/JOYSOUND曲名順【な】]]|[[JOY曲名順【は】>カラオケ配信曲一覧/JOYSOUND曲名順【は】]]|[[JOY曲名順【ま】>カラオケ配信曲一覧/JOYSOUND曲名順【ま】]]|[[JOY曲名順【や】>カラオケ配信曲一覧/JOYSOUND曲名順【や】]]|[[JOY曲名順【ら】>カラオケ配信曲一覧/JOYSOUND曲名順【ら】]]|[[JOY曲名順【わ】>カラオケ配信曲一覧/JOYSOUND曲名順【わ】]]|
+
+UGA曲名順はこちら：
+|[[UGA曲名順【あ】>カラオケ配信曲一覧/UGA曲名順【あ】]]|[[UGA曲名順【か】>カラオケ配信曲一覧/UGA曲名順【か】]]|[[UGA曲名順【さ】>カラオケ配信曲一覧/UGA曲名順【さ】]]|[[UGA曲名順【た】>カラオケ配信曲一覧/UGA曲名順【た】]]|[[UGA曲名順【な】>カラオケ配信曲一覧/UGA曲名順【な】]]|[[UGA曲名順【は】>カラオケ配信曲一覧/UGA曲名順【は】]]|[[UGA曲名順【ま】>カラオケ配信曲一覧/UGA曲名順【ま】]]|[[UGA曲名順【や】>カラオケ配信曲一覧/UGA曲名順【や】]]|[[UGA曲名順【ら】>カラオケ配信曲一覧/UGA曲名順【ら】]]|[[UGA曲名順【わ】>カラオケ配信曲一覧/UGA曲名順【わ】]]|
+
+&font(b,120%){[[BACK（カラオケ情報総合インデックスページへ戻る）>カラオケ配信曲一覧]]}
+
+*DAM配信中・配信決定済
+&bold(){特に記載のないものはPremier DAM・LIVEDAM配信。機種限定または他機種にも対応の場合は曲番号欄にその旨を記載。}
+|歌手名|曲名|曲番号|配信予定|
+|>|>|>|【は】|
+|[[バイカP]]|[[恋灯]]|[[7631-02>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7631-02]]&br()LIVEDAM限定|配信中●|
+|~|[[さよならをたどって]]|[[7631-03>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7631-03]]|配信中●|
+|~|[[past day]]|[[7625-49>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7625-49]]|配信中●|
+|[[pinelotus>向日葵紅蓮]]|[[solitude>solitude/向日葵紅蓮]]|[[7615-69>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7615-69]]|配信中●|
+|[[buzzG]]|[[アイセンサー]]|[[7620-64>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7620-64]]&br()LIVEDAM限定|配信中●|
+|~|[[赤い雨>赤い雨/buzzG]]|[[7629-90>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7629-90]]&br()LIVEDAM限定|配信中●|
+|~|[[AGAINST]]|[[7618-65>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7618-65]]|配信中●|
+|~|[[アルビノ>アルビノ/buzzG]]|[[7604-55>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7604-55]]&br()cyber DAM HD対応|配信中●|
+|~|[[イントロダクション]]|[[7625-62>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7625-62]]|配信中●|
+|~|[[A.I.210]]|[[7625-18>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7625-18]]|配信中●|
+|~|[[御名前]]|[[7618-67>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7618-67]]|配信中●|
+|~|[[かくれんぼ>かくれんぼ/buzzG]]|[[7604-50>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7604-50]]&br()cyber DAM HD対応|配信中●|
+|~|[[GALLOWS BELL]]|[[7604-56>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7604-56]]&br()cyber DAM HD対応|配信中●|
+|~|[[幻日]]|[[7627-04>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7627-04]]|配信中●|
+|~|[[COIN]]|[[7618-66>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7618-66]]|配信中●|
+|~|Sasquatch|[[7627-02>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7627-02]]|配信中●|
+|~|[[She>She/buzzG]]|[[7621-32>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7621-32]]|配信中●|
+|~|ジグソーガールの運命論|[[7623-22>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7623-22]]&br()LIVEDAM限定|配信中●|
+|~|Sirius|[[7629-91>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7629-91]]&br()LIVEDAM限定|配信中●|
+|~|[[しわ]]|[[7621-33>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7621-33]]|配信中●|
+|~|[[Symphony>Symphony/buzzG]]|[[7604-57>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7604-57]]|配信中●|
+|~|SNOW NOISE MONSTER|[[7629-92>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7629-92]]&br()LIVEDAM限定|配信中●|
+|~|それじゃあね|[[7629-92>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7629-92]]&br()LIVEDAM限定|配信中●|
+|~|[[タイム・カプセル]]|[[7621-34>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7621-34]]|配信中●|
+|~|太陽の唄|[[7627-05>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7627-05]]|配信中●|
+|~|[[DANCE FLOOR]]|[[7612-93>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7612-93]]&br()cyber DAM HD対応|配信中●|
+|~|[[月の羅針盤]]|[[7629-93>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7629-93]]&br()LIVEDAM限定|配信中●|
+|~|Tru La La|[[7629-94>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7629-94]]&br()LIVEDAM限定|配信中●|
+|~|[[西へ行く]]|[[7606-74>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7606-74]]|配信中●|
+|~|[[name of memory]]|[[7606-75>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7606-75]]|配信中●|
+|~|[[Notebook]]|[[7613-60>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7613-60]]&br()cyber DAM HD対応|配信中●|
+|~|[[ヒカリノユクエ]]|[[7622-02>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7622-02]]|配信中●|
+|~|Fantastic Cyborg|[[7629-95>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7629-95]]&br()LIVEDAM限定|配信中●|
+|~|[[Fairytale,]]|[[7619-09>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7619-09]]|配信中●|
+|~|[[Flashback>Flashback/buzzG]]|[[7604-60>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7604-60]]|配信中●|
+|~|[[星の唄]]|[[7606-76>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7606-76]]&br()cyber DAM HD対応|配信中●|
+|~|[[マーシャルの嬌声]]|[[7620-65>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7620-65]]&br()LIVEDAM限定|配信中●|
+|~|[[祭囃子>祭囃子/buzzG]]|[[7606-78>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7606-78]]|配信中●|
+|~|[[Marygold]]|[[7616-96>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7616-96]]&br()LIVEDAM限定|配信中●|
+|~|[[メリーとニコラウス]]|[[7620-66>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7620-66]]&br()LIVEDAM限定|配信中●|
+|~|[[LAST YEAR]]|[[7630-06>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7630-06]]&br()LIVEDAM限定|配信中●|
+|~|[[ラムダ]]|[[7623-93>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7623-93]]&br()LIVEDAM限定|配信中●|
+|~|[[ランジェリーシーフ]]|[[7630-07>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7630-07]]&br()LIVEDAM限定|配信中●|
+|~|[[レプリカント>レプリカント/buzzG]]|[[7627-03>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7627-03]]|配信中●|
+|~|[[ワールド・ランプシェード]]|[[7629-14>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7629-14]]&br()LIVEDAM限定|配信中●|
+|[[vataco(バタパンP)>バタパンP]]|[[Caseaman]]|[[7623-94>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7623-94]]&br()LIVEDAM限定|配信中●|
+|~|[[CaseTRESman]]|[[7629-06>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7629-06]]|配信中●|
+|~|[[99minutes theater]]|[[7620-67>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7620-67]]&br()LIVEDAM限定|配信中●|
+|[[ハチ]]|[[演劇テレプシコーラ]]|[[7611-58>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7611-58]]&br()cyber DAM HD対応|配信中●|
+|~|[[お姫様は電子音で眠る]]|[[7614-85>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7614-85]]|配信中●|
+|~|[[Qualia]]|[[7613-79>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7613-79]]|配信中●|
+|~|[[Christmas Morgue]]|[[7610-92>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7610-92]]|配信中●|
+|~|[[clock lock works]]|[[7610-20>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7610-20]]&br()cyber DAM HD対応|配信中●|
+|~|[[恋人のランジェ]]|[[7610-94>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7610-94]]&br()cyber DAM HD対応|配信中●|
+|~|[[沙上の夢喰い少女]]|[[7610-99>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7610-99]]&br()cyber DAM HD対応|配信中●|
+|~|バウムクーヘン|[[7629-12>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7629-12]]&br()cyber DAM HD対応|配信中●|
+|~|白痴|[[7632-46>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7632-46]]&br()LIVEDAM限定|配信中●|
+|~|[[パンダヒーロー]]|[[7610-23>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7610-23]]&br()cyber DAM HD対応|配信中●|
+|~|[[Persona Alice]]|[[7610-90>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7610-90]]|配信中●|
+|~|[[マトリョシカ]]|[[7610-38>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7610-38]]&br()cyber DAM系機種対応|配信中●|
+|~|[[Mrs.Pumpkinの滑稽な夢]]|[[7610-25>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7610-25]]&br()cyber DAM HD対応|配信中●|
+|~|[[結ンデ開イテ羅刹ト骸]]|[[7610-26>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7610-26]]&br()cyber DAM HD対応|配信中●|
+|~|[[結ンデ開イテ羅刹ト骸(ミクパ♪2012)(生音)>結ンデ開イテ羅刹ト骸]]|[[7615-11>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7615-11]]&br()LIVEDAM限定|配信中●|
+|~|[[結ンデ開イテ羅刹ト骸(ミクパ♪2012)(生音)（LIVEカラオケ）>結ンデ開イテ羅刹ト骸]]|[[7615-11>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7615-11]]&br()LIVEDAM限定|配信中●|
+|~|[[リンネ]]|[[7610-27>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7610-27]]&br()cyber DAM HD対応|配信中●|
+|~|[[WORLD'S END UMBRELLA]]|[[7610-34>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7610-34]]&br()cyber DAM HD対応|配信中●|
+|~|[[ワンダーランドと羊の歌]]|[[7610-35>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7610-35]]&br()cyber DAM HD対応|配信中●|
+|[[八王子P]]|[[エレクトリック・ラブ]]|[[7610-73>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7610-73]]|配信中●|
+|~|[[エレクトリック・ラブ（本人出演映像）>エレクトリック・ラブ]]|[[7610-73>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7610-73]]|配信中●|
+|~|[[Keep Only One Love]]|[[7610-74>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7610-74]]|配信中●|
+|~|[[気まぐれメルシィ feat.初音ミク>気まぐれメルシィ]]|[[7637-91>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7637-91]]|配信中●|
+|~|[[Carry Me Off]]|[[7631-65>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7631-65]]|配信中●|
+|~|[[KiLLER LADY]]|[[7610-72>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7610-72]]|配信中●|
+|~|[[GAME OVER feat.初音ミク>GAME OVER/八王子P]]|[[7625-23>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7625-23]]|配信中●|
+|~|ショコラティック*ラブ feat.初音ミク|[[7632-14>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7632-14]]|配信中●|
+|~|Super Sonic Love feat.初音ミク|[[7632-95>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7632-95]]|配信中●|
+|~|[[Sweet Devil]]|[[7610-60>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7610-60]]|配信中●|
+|~|[[Sweet Devil（本人出演映像）>Sweet Devil]]|[[7610-60>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7610-60]]|配信中●|
+|~|Step To Tomorrow&br()　 feat.初音ミク・鏡音リン・鏡音レン・巡音ルカ・GUMI|[[7637-92>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7637-92]]|配信中●|
+|~|ストックホルム feat.巡音ルカ|[[7632-96>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7632-96]]|配信中●|
+|~|[[デスクトップ・シンデレラ feat.初音ミク>デスクトップ・シンデレラ]]|[[7635-73>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7635-73]]|配信中●|
+|~|[[Twinkle World]]|[[7631-66>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7631-66]]|配信中●|
+|~|Tomorrow|[[7631-67>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7631-67]]|配信中●|
+|~|[[Dream Creator feat.GUMI>Dream Creator]]|[[7625-24>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7625-24]]|配信中●|
+|~|[[Heart Chrome feat.杏音鳥音>Heart Chrome]]|[[7632-94>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7632-94]]|配信中●|
+|~|Find Me feat.初音ミク|[[7632-12>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7632-12]]|配信中●|
+|~|[[fake doll]]|[[7618-47>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7618-47]]|配信中●|
+|~|FUTURE DRIVER feat. 初音ミク|[[7634-73>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7634-73]]|配信中●|
+|~|[[Blue Star feat.初音ミク>Blue Star]]|[[7637-93>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7637-93]]|配信中●|
+|~|[[Baby Maniacs]]|[[7618-48>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7618-48]]|配信中●|
+|~|[[Mad Lovers]]|[[7610-75>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7610-75]]|配信中●|
+|~|[[Little Scarlet Bad Girl feat.初音ミク>Little Scarlet Bad Girl]]|[[7635-74>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7635-74]]|配信中●|
+|~|REWRITER feat.GUMI|[[7632-13>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7632-13]]|配信中●|
+|[[ハチ/米津玄師>ハチ]]|[[ドーナツホール]]|[[7628-33>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7628-33]]&br()cyber DAM系機種（G50・NEW以外）対応|配信中●|
+|~|[[ドーナツホール(生音)>ドーナツホール]]|[[7631-47>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7631-47]]&br()cyber DAM HD対応|配信中●|
+|~|[[ドーナツホール(プロオケ)(生音)>ドーナツホール]]|[[7631-51>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7631-51]]&br()LIVEDAM限定|配信中●|
+|初音ミクvs海賊王×[[［TEST］]]|[[brand-new stardust]]|[[7614-40>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7614-40]]|配信中●|
+|初音ミクvs海賊王×[[［TEST］]]（作詞作曲：[[黒うさP]]）|[[千本桜-アコースティックVer.->千本桜]]|[[7613-43>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7613-43]]&br()cyber DAM HD対応|配信中●|
+|初音ミクvs海賊王×[[［TEST］]]（作詞作曲：[[wowaka]]）|[[ローリンガール]]|[[7613-42>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7613-42]]&br()cyber DAM HD対応|配信中●|
+|[[鼻そうめんP]]|[[Unfragment]]|[[7610-40>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7610-40]]|配信中●|
+|~|[[Set Me Free]]|[[7637-31>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7637-31]]&br()LIVE DAM STADIUM限定|配信中●|
+|~|[[プラグアウト]]|[[7615-09>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7615-09]]|配信中●|
+|~|[[YOUTHFUL DAYS' GRAFFITI]]|[[7611-07>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7611-07]]|配信中●|
+|~|[[Wander Girl]]|[[7613-27>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7613-27]]|配信中●|
+|[[鼻毛P]]|[[この想い伝えたくて>この想い伝えたくて～ココロノ花ビラ～]]|[[7601-32>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7601-32]]|配信中●|
+|[[花束P]]|[[GIFT>GIFT/花束P]]|[[7620-68>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7620-68]]&br()LIVEDAM限定|配信中●|
+|~|[[さよならのかわりに、花束を]]|[[7614-95>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7614-95]]&br()cyber DAM HD対応|配信中●|
+|~|[[ジオラマ]]|[[7632-91>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7632-91]]&br()LIVEDAM限定|配信中●|
+|~|[[ネリの星空]]|[[7620-69>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7620-69]]&br()LIVEDAM限定|配信中●|
+|~|[[ばいばいスカイブルー]]|[[7631-86>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7631-86]]&br()LIVEDAM限定|配信中●|
+|[[HoneyWorks]]|[[暁月夜-アカツキヅクヨ-]]|[[5985-57>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=5985-57]]|配信中●|
+|~|[[イジワルな出会い]]|[[4826-14>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=4826-14]]|配信中●|
+|~|[[イノコリ先生]]|[[7632-27>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7632-27]]|配信中●|
+|~|[[今好きになる。 feat.瀬戸口雛(CV:麻倉もも)>今好きになる。]]|[[7633-08>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7633-08]]|配信中●|
+|~|[[今ちょっとだけ話題の神様]]|[[7625-21>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7625-21]]|配信中●|
+|~|終わらない英雄の記憶 feat.GUMI・鏡音レン|[[7633-78>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7633-78]]|配信中●|
+|~|[[君ガ空コソカナシケレ]]|[[7625-76>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7625-76]]|配信中●|
+|~|[[キミがまた歌いたくなる頃に。 feat.GUMI>キミがまた歌いたくなる頃に。]]|[[4826-38>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=4826-38]]&br()LIVE DAM STADIUM限定|配信中●|
+|~|[[金曜日のおはよう-another story-]]|[[4826-40>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=4826-40]]|配信中●|
+|~|[[金曜日のおはよう-another story- feat.成海聖奈(CV:雨宮天)>金曜日のおはよう-another story-]]|[[7633-15>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7633-15]]|配信中●|
+|~|[[Good-morning!]]|[[7618-49>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7618-49]]|配信中●|
+|~|[[告白予行練習]]|[[7621-90>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7621-90]]|配信中●|
+|~|[[告白予行練習-another story-]]|[[7621-89>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7621-89]]|配信中●|
+|~|[[さよなら両片想 feat.芹沢春輝(CV:鈴村健一)>さよなら両片想]]|[[7633-11>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7633-11]]|配信中●|
+|~|[[スキキライ>スキキライ/HoneyWorks]]|[[7611-60>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7611-60]]|配信中●|
+|~|[[スキキライ（本人出演映像）>スキキライ/HoneyWorks]]|[[7611-60>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7611-60]]|配信中●|
+|~|[[第一次ジブン戦争]]|[[7611-52>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7611-52]]|配信中●|
+|~|[[第一次ジブン戦争（本人出演映像）>第一次ジブン戦争]]|[[7611-52>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7611-52]]|配信中●|
+|~|[[第三次プリン戦争 feat.初音ミク・GUMI>第三次プリン戦争]]|[[7633-79>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7633-79]]|配信中●|
+|~|タナタロ|[[4826-15>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=4826-15]]|配信中●|
+|~|[[テレカクシ思春期 feat.鏡音レン>テレカクシ思春期]]|[[7633-74>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7633-74]]|配信中●|
+|~|[[テレカクシ思春期 feat.瀬戸口優(CV:神谷浩史)>テレカクシ思春期]]|[[7633-09>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7633-09]]|配信中●|
+|~|[[東京サマーセッション feat.CHiCO>東京サマーセッション]]|[[4826-16>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=4826-16]]|配信中●|
+|~|[[泣キ虫カレシ]]|[[7618-51>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7618-51]]|配信中●|
+|~|[[ハジマリノサヨナラ feat.初音ミク>ハジマリノサヨナラ]]|[[7633-75>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7633-75]]|配信中●|
+|~|[[初恋の絵本]]|[[7618-50>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7618-50]]|配信中●|
+|~|[[病名恋ワズライ feat.榎本夏樹(CV:戸松遥)>病名恋ワズライ]]|[[7633-12>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7633-12]]|配信中●|
+|~|[[病名恋ワズライ feat.GUMI>病名恋ワズライ]]|[[7633-80>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7633-80]]|配信中●|
+|~|[[プロポーズ]]|[[4826-17>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=4826-17]]|配信中●|
+|~|ペットショップガール～ハニワstyle～&br() feat.初音ミク・鏡音リン・鏡音レン・GUMI・IA・兎眠りおん|[[7633-76>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7633-76]]|配信中●|
+|~|[[僕が名前を呼ぶ日]]|4826-47|2017年1月31日|
+|~|[[ママ>ママ/HoneyWorks]]|[[4826-29>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=4826-29]]|配信中●|
+|~|[[ヤキモチの答え]]|[[7624-48>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7624-48]]|配信中●|
+|~|[[ヤキモチの答え-another story-]]|[[7624-82>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7624-82]]|配信中●|
+|~|[[ヤキモチの答え feat.望月蒼太(CV:梶裕貴)>ヤキモチの答え]]|[[7633-16>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7633-16]]|配信中●|
+|~|[[吉田、家出するってよ]]|[[7624-85>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7624-85]]|配信中●|
+|~|[[ラズベリー*モンスター>ラズベリー＊モンスター]]|[[7625-22>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7625-22]]|配信中●|
+|~|[[ラズベリー*モンスター(Game Version)>ラズベリー＊モンスター]]|[[7636-09>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7636-09]]|配信中●|
+|~|[[ラブ@ライアー feat.GUMI>ラブ@ライアー]]|[[7633-77>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7633-77]]|配信中●|
+|~|リトルリグレット|[[4826-39>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=4826-39]]|配信中●|
+|~|[[ロクベル]]|[[7624-47>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7624-47]]|配信中●|
+|~|[[私が恋を知る日]]|4826-48|2017年1月31日|
+|[[HoneyWorks]] feat.赤飯,[[ゴム]]|[[SpaceDEV]]|[[4826-30>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=4826-30]]|配信中●|
+|[[HoneyWorks]] feat.そらる、ろん|[[竹取オーバーナイトセンセーション]]|[[3495-23>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=3495-23]]|配信中●|
+|[[HoneyWorks]] meets さゆりんご軍団&br()＋真夏さんリスペクト軍団&br() from 乃木坂46|[[大嫌いなはずだった。]]|[[4826-45>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=4826-45]]|配信中●|
+|hano|[[Be Myself.]]|[[7636-97>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7636-97]]|配信中●|
+|[[パピ子りん]]|[[Cosmic tune]]|[[7629-37>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7629-37]]&br()LIVEDAM限定|配信中●|
+|[[ハヤブサ]]|[[がらくたの僕に]]|[[7637-77>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7637-77]]&br()LIVE DAM STADIUM限定|配信中●|
+|~|[[キミスペクトル]]|[[7637-78>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7637-78]]&br()LIVE DAM STADIUM限定|配信中●|
+|~|[[サヨナラザクラ]]|[[7637-79>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7637-79]]&br()LIVE DAM STADIUM限定|配信中●|
+|~|[[ナキムシヒーロー]]|[[7637-80>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7637-80]]&br()LIVE DAM STADIUM限定|配信中●|
+|~|[[星屑オーケストラ]]|[[7637-69>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7637-69]]|配信中●|
+|~|[[ムゲンノツバサ]]|[[7637-81>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7637-81]]&br()LIVE DAM STADIUM限定|配信中●|
+|[[はやや>はややP]]|[[夢みることり]]|[[7604-40>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7604-40]]&br()cyber DAM HD対応|配信中●|
+|[[はややP]]|[[春!桜!ニンジャ!>春！桜！ニンジャ！]]|[[7608-39>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7608-39]]|配信中●|
+|~|[[ぴんぽんだっしゅ!>ぴんぽんだっしゅ！]]|[[7608-35>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7608-35]]|配信中●|
+|~|[[みくみく菌にご注意♪]]|[[7608-37>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7608-37]]|配信中●|
+|[[Harry(はりーP)>はりー]]|[[EARTH DAY]]|[[7625-96>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7625-96]]|配信中●|
+|~|[[スレイプニル-sleipnir->スレイプニル -sleipnir-]]|[[7621-35>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7621-35]]|配信中●|
+|~|[[地球の空き地]]|[[7629-53>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7629-53]]&br()LIVEDAM限定|配信中●|
+|~|[[HEAVEN>HEAVEN/はりー]]|[[7625-97>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7625-97]]|配信中●|
+|[[はりーP>はりー]]|[[ぼくらのレットイットビー]]|[[7614-41>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7614-41]]&br()cyber DAM HD対応|配信中●|
+|[[hario>>http://www24.atwiki.jp/utauuuta/pages/2177.html]]|[[S.A.S>>http://www24.atwiki.jp/utauuuta/pages/2175.html]]|[[7628-61>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7628-61]]|配信中●|
+|~|[[ピーチミートパイ>>http://www24.atwiki.jp/utauuuta/pages/1967.html]]|[[7625-50>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7625-50]]|配信中●|
+|[[パル♪]]|[[キョンシー・キョンシー]]|[[7627-06>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7627-06]]|配信中●|
+|~|[[激おこリンリン丸]]|[[7632-07>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7632-07]]&br()LIVEDAM限定|配信中●|
+|[[バルーン>バルーン/作り手]]|[[朝を呑む]]|[[7637-86>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7637-86]]&br()LIVE DAM STADIUM限定|配信中●|
+|~|[[アルコーブ]]|[[7637-82>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7637-82]]&br()LIVE DAM STADIUM限定|配信中●|
+|~|[[シャルル]]|7638-86|2017年1月31日|
+|~|[[トピアリー>トピアリー/バルーン]]|[[7637-83>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7637-83]]&br()LIVE DAM STADIUM限定|配信中●|
+|~|[[ポートレート>ポートレート/バルーン]]|[[7637-84>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7637-84]]&br()LIVE DAM STADIUM限定|配信中●|
+|~|[[モーダル]]|[[7637-85>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7637-85]]&br()LIVE DAM STADIUM限定|配信中●|
+|~|[[夕染]]|7638-87|2017年1月31日|
+|[[バルP]]|[[きらめきドリーマー]]|[[7619-94>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7619-94]]|配信中●|
+|~|[[グレア>グレア/バルP]]|[[7608-40>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7608-40]]&br()cyber DAM HD対応|配信中●|
+|[[はるふり]]|[[浮遊感>>http://www24.atwiki.jp/utauuuta/pages/3444.html]]|[[7635-80>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7635-80]]|配信中●|
+|[[はるまきごはん]]|[[カルデネ]]|[[7638-52>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7638-52]]|配信中●|
+|~|[[銀河録]]|[[7637-70>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7637-70]]|配信中●|
+|[[halyosy]]|[[Fire◎Flower 2011>Fire◎Flower]]|[[7621-91>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7621-91]]|配信中●|
+|~|[[Blessing]]|[[7631-38>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7631-38]]|配信中●|
+|~|[[Painter>Paintër]]|[[7636-98>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7636-98]]|配信中●|
+|[[パワーコードP]]|[[ナイフ>ナイフ/パワーコードP]]|[[7629-62>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7629-62]]|配信中●|
+|[[hanzo]]|[[合鍵ガンマンと合鍵忍者]]|[[7607-89>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7607-89]]&br()cyber DAM HD対応|配信中●|
+|Van de shop|[[ONE OFF MIND]]|[[7638-12>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7638-12]]&br()LIVE DAM STADIUM限定|配信中●|
+|[[はんにゃG]]|[[心電サイコジェニック]]|[[7630-85>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7630-85]]&br()LIVEDAM限定|配信中●|
+|~|[[雛逃げ]]|[[7618-12>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7618-12]]|配信中●|
+|[[Bumpyうるし]]|[[紲月歌]]|[[7620-71>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7620-71]]&br()LIVEDAM限定|配信中●|
+|~|[[わんわんお!>わんわんお！]]|[[7620-70>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7620-70]]&br()LIVEDAM限定|配信中●|
+|BUMP OF CHICKEN（ミク調声：[[livetune>kz]]）|[[ray>ray/BUMP OF CHICKEN]]|[[6873-57>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=6873-57]]&br()cyber DAM系機種（G50・NEW以外）対応|配信中●|
+|>|>|>|【ひ】|
+|[[P.I.N.A.]]|[[レッド・パージ!!!>レッド・パージ！！！]]|[[7631-87>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7631-87]]|配信中●|
+|[[ピコ>開発コードPIKO 歌手音ピコ]]（作詞作曲：[[samfree]]）|[[ピコピコ☆レジェンドオブザナイト]]|[[5808-62>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=5808-62]]|配信中●|
+|BIGHEAD|[[Sharing The World]]|[[7633-05>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7633-05]]|配信中●|
+|[[ひとしずくP]]|[[雨夢楼]]|[[7606-59>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7606-59]]|配信中●|
+|~|[[soundless voice]]|[[7605-58>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7605-58]]|配信中●|
+|~|[[Synchronicity～第一章 君を捜す空～>君を捜す空]]|[[7621-37>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7621-37]]|配信中●|
+|~|[[秘蜜～黒の誓い～]]|[[7605-33>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7605-33]]|配信中●|
+|~|[[proof of life]]|[[7614-90>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7614-90]]|配信中●|
+|~|[[魔法の手]]|[[7620-72>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7620-72]]|配信中●|
+|~|[[夢桜>夢桜/ひとしずくP]]|[[7623-24>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7623-24]]|配信中●|
+|[[ひとしずく>ひとしずくP]]×[[やま△]]|暁のモノローグ|[[7634-37>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7634-37]]|配信中●|
+|~|[[赤と白と黒の系譜]]|[[7635-09>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7635-09]]|配信中●|
+|~|[[イカサマ⇔カジノ]]|[[7614-43>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7614-43]]|配信中●|
+|~|[[いつか、シンデレラが]]|[[7635-11>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7635-11]]|配信中●|
+|~|因果律の花|[[7634-36>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7634-36]]|配信中●|
+|~|[[EveR∞LastinG∞NighT>EveR ∞ LastinG ∞ NighT]]|[[7631-68>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7631-68]]|配信中●|
+|~|[[endless wedge]]|[[7633-69>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7633-69]]|配信中●|
+|~|[[おおかみは赤ずきんに恋をした]]|[[7621-36>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7621-36]]|配信中●|
+|~|鬼ヶ島ノ死闘|[[7635-10>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7635-10]]|配信中●|
+|~|[[海賊Fの肖像]]|[[7637-58>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7637-58]]&br()LIVE DAM STADIUM限定|配信中●|
+|~|[[怪盗Fの台本～消えたダイヤの謎～]]|[[7626-66>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7626-66]]|配信中●|
+|~|[[からくり卍ばーすと]]|[[7607-50>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7607-50]]|配信中●|
+|~|[[「Crazy ∞ nighT」>Crazy ∞ nighT]]|[[7618-52>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7618-52]]|配信中●|
+|~|[[十三番目の黙示録]]|[[7633-87>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7633-87]]|配信中●|
+|~|[[祝福のメシアとアイの塔]]|[[7638-64>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7638-64]]|配信中●|
+|~|[[Synchronicity～第三章 巡る世界のレクイエム～>巡る世界のレクイエム]]|[[7621-61>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7621-61]]|配信中●|
+|~|[[Synchronicity～第二章 光と影の楽園～>光と影の楽園]]|[[7621-52>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7621-52]]|配信中●|
+|~|絶頂パティシエール|[[7637-20>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7637-20]]&br()LIVE DAM STADIUM限定|配信中●|
+|~|[[1000年タイムカプセル]]|[[7623-23>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7623-23]]|配信中●|
+|~|[[Twilight∞nighT>Twilight ∞ nighT]]|[[7623-80>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7623-80]]|配信中●|
+|~|[[Party×Party]]|[[7629-63>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7629-63]]|配信中●|
+|~|[[背徳の花]]|[[7623-54>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7623-54]]|配信中●|
+|~|[[Bad∞End∞Night>Bad ∞ End ∞ Night]]|[[7611-93>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7611-93]]|配信中●|
+|~|[[魔法の鏡]]|[[7623-79>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7623-79]]|配信中●|
+|~|未完成ヒーロー譚|[[7635-12>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7635-12]]|配信中●|
+|~|[[迷走ラプソディ]]|[[7622-47>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7622-47]]|配信中●|
+|~|[[優等生シンドローム]]|[[7634-35>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7634-35]]|配信中●|
+|~|[[last song～涙の海へ～>last song ～涙の海へ～]]|[[7635-13>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7635-13]]|配信中●|
+|[[ひとしずくP]]×[[やま△]]|[[愛欲のプリズナー]]|[[7634-65>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7634-65]]|配信中●|
+|~|[[いたちごっこ∞らう゛ぁーず>いたちごっこ ∞ らゔぁーず]]|[[7625-12>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7625-12]]|配信中●|
+|~|鏡の魔法|[[7628-62>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7628-62]]|配信中●|
+|~|[[四季折の羽]]|[[7628-64>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7628-64]]|配信中●|
+|~|[[蝶と花と蜘蛛]]|[[7631-88>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7631-88]]|配信中●|
+|~|[[てんごくとじごく]]|[[7625-46>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7625-46]]|配信中●|
+|~|[[箱庭の夢]]|[[7632-08>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7632-08]]|配信中●|
+|~|[[亡国のネメシス]]|[[7628-63>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7628-63]]|配信中●|
+|[[ひとひとP]]|[[盲目少女暗闇生存中]]|[[7620-73>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7620-73]]&br()LIVEDAM限定|配信中●|
+|[[日向電工]]|[[アンダワ]]|[[7636-47>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7636-47]]|配信中●|
+|~|[[ジベタトラベル]]|[[7636-17>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7636-17]]|配信中●|
+|~|[[スパークガールシンドローム]]|[[7636-18>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7636-18]]|配信中●|
+|~|[[プラスチックケージ]]|[[7636-48>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7636-48]]|配信中●|
+|~|[[ブリキノダンス]]|[[7636-19>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7636-19]]|配信中●|
+|~|[[ルスバンドライブ]]|[[7636-49>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7636-49]]|配信中●|
+|~|[[ワープアンドワープ]]|[[7636-50>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7636-50]]|配信中●|
+|[[ひなた春花]]|[[さあ、どっち?>さあ、どっち？]]|[[7620-74>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7620-74]]&br()LIVEDAM限定|配信中●|
+|~|[[ナゾカケ]]|[[7619-10>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7619-10]]|配信中●|
+|~|[[ナゾトキ]]|[[7619-11>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7619-11]]|配信中●|
+|[[hinayukki@仕事してP>仕事してP]]|[[時忘人]]|[[7611-05>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7611-05]]&br()cyber DAM HD対応|配信中●|
+|~|[[LETTER>LETTER/仕事してP]]|[[7633-40>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7633-40]]|配信中●|
+|[[ピノキオP]]|[[アイマイナ]]|[[7617-37>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7617-37]]&br()LIVEDAM限定|配信中●|
+|~|[[アッカンベーダ]]|[[7623-25>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7623-25]]&br()LIVEDAM限定|配信中●|
+|~|[[ありふれたせかいせいふく]]|[[7615-97>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7615-97]]|配信中●|
+|~|[[eight hundred]]|[[7614-91>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7614-91]]|配信中●|
+|~|[[OZ]]|[[7622-48>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7622-48]]|配信中●|
+|~|[[おもひでしゃばだば]]|[[7620-75>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7620-75]]&br()LIVEDAM限定|配信中●|
+|~|[[からっぽのまにまに]]|[[7608-88>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7608-88]]&br()cyber DAM HD対応|配信中●|
+|~|[[腐れ外道とチョコレゐト]]|[[7606-60>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7606-60]]&br()cyber DAM HD対応|配信中●|
+|~|[[腐れ外道とチョコレゐト（本人出演映像）>腐れ外道とチョコレゐト]]|[[7606-60>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7606-60]]&br()LIVEDAM限定|配信中●|
+|~|[[ゲームスぺクター2]]|[[7627-56>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7627-56]]|配信中●|
+|~|[[恋するミュータント]]|[[7618-92>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7618-92]]|配信中●|
+|~|[[こどものしくみ]]|[[7626-35>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7626-35]]|配信中●|
+|~|[[サイケデリックスマイル]]|[[7620-76>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7620-76]]&br()LIVEDAM限定|配信中●|
+|~|[[週刊少年バイバイ]]|[[7628-65>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7628-65]]|配信中●|
+|~|[[好き好き好き好き好き好き好き好き好き]]|[[7618-15>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7618-15]]|配信中●|
+|~|[[ストレンジアニマル]]|[[7627-22>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7627-22]]|配信中●|
+|~|[[素晴らしい世界>素晴らしい世界/ピノキオP]]|[[7622-50>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7622-50]]|配信中●|
+|~|[[それぞれに人生がある]]|[[7631-69>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7631-69]]|配信中●|
+|~|[[たりないかぼちゃ]]|[[7631-70>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7631-70]]|配信中●|
+|~|[[どうしてちゃんのテーマ]]|[[7624-05>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7624-05]]&br()LIVEDAM限定|配信中●|
+|~|[[ニナ]]|[[7627-54>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7627-54]]|配信中●|
+|~|[[人間なんか大嫌い]]|[[7617-40>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7617-40]]&br()LIVEDAM限定|配信中●|
+|~|[[化物宇宙]]|[[7611-62>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7611-62]]&br()cyber DAM HD対応|配信中●|
+|~|[[はっぴーべりーはっぴー]]|[[7617-39>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7617-39]]&br()LIVEDAM限定|配信中●|
+|~|[[ひとりぼっちのユーエフオー]]|[[7626-03>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7626-03]]|配信中●|
+|~|[[Fireworks>Fireworks/ピノキオP]]|[[7632-09>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7632-09]]&br()LIVEDAM限定|配信中●|
+|~|[[不思議のコハナサイチ]]|[[7617-72>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7617-72]]|配信中●|
+|~|[[Floating Shelter]]|[[7618-13>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7618-13]]|配信中●|
+|~|[[ボーカロイドのうた]]|[[7618-14>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7618-14]]|配信中●|
+|~|[[ポンコツ天使]]|[[7622-49>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7622-49]]|配信中●|
+|~|[[マッシュルームマザー]]|[[7610-41>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7610-41]]&br()cyber DAM HD対応|配信中●|
+|~|[[マッシュルームマザー（本人出演映像）>マッシュルームマザー]]|[[7610-41>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7610-41]]&br()LIVEDAM限定|配信中●|
+|~|[[胸いっぱいのダメを]]|[[7627-53>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7627-53]]|配信中●|
+|~|[[m/es>m／es]]|[[7627-55>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7627-55]]|配信中●|
+|~|[[ユメネコ]]|[[7618-93>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7618-93]]|配信中●|
+|~|[[ラブソングを殺さないで]]|[[7615-23>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7615-23]]|配信中●|
+|~|[[レアノ]]|[[7618-53>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7618-53]]|配信中●|
+|[[ピノキオピー>ピノキオP]]|[[絵の上手かった友達]]|[[7632-57>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7632-57]]|配信中●|
+|~|しぼう|[[7633-89>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7633-89]]|配信中●|
+|~|[[すろぉもぉしょん]]|[[7632-48>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7632-48]]|配信中●|
+|~|[[すろぉもぉしょん(マジカルミライ2016)(まま音 ver.)(生音)>すろぉもぉしょん]]|7638-82|2017年2月5日|
+|~|[[はじめまして地球人さん]]|[[7632-58>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7632-58]]|配信中●|
+|~|[[はじめまして地球人さん(Opening Version)>はじめまして地球人さん]]|[[7636-07>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7636-07]]|配信中●|
+|~|ヒーローが来ない|[[7633-90>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7633-90]]|配信中●|
+|~|100年前の僕、100年後の君|[[7633-88>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7633-88]]|配信中●|
+|~|[[よいこのくすり]]|[[7633-91>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7633-91]]|配信中●|
+|[[bibuko]]|[[クレヨン]]|[[7614-47>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7614-47]]&br()cyber DAM HD対応|配信中●|
+|~|[[呪いのススメ]]|[[7616-64>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7616-64]]&br()LIVEDAM限定|配信中●|
+|ヒャダイン|[[Choose me feat.佐咲紗花>Choose Me]]|[[5874-62>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=5874-62]]&br()cyber DAM HD対応|配信中●|
+|[[広末慧>>https://www24.atwiki.jp/utauuuta/pages/3780.html]]|[[タイムリープヒーロー>>https://www24.atwiki.jp/utauuuta/pages/3135.html]]|[[7638-11>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7638-11]]&br()LIVE DAM STADIUM限定|配信中●|
+|[[PIROPARU]]|[[おふとんダイバー]]|[[7625-36>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7625-36]]|配信中●|
+|[[PIROPARU]]/多英子|[[9'ON]]|[[7622-20>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7622-20]]|配信中●|
+|[[ピロリロP]]|[[いいから曲作れ]]|[[7603-78>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7603-78]]|配信中●|
+|~|[[きっず・りたーん]]|[[7603-79>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7603-79]]|配信中●|
+|~|[[ピロリ菌のうた]]|[[7603-59>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7603-59]]|配信中●|
+|>|>|>|【ふ】|
+|[[whoo]]|[[虹>虹/whoo]]|[[7631-89>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7631-89]]|配信中●|
+|FICUSEL|[[思慮するゾンビ]]|[[7607-88>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7607-88]]|配信中●|
+|[[風雅なおと>KAITO]]（作詞作曲：[[yanagiP]]）|[[千年の独奏歌]]|[[7169-76>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7169-76]]&br()BB cyber DAM対応|配信中●|
+|[[フェイ>フェイP]]|[[I>I/フェイP]]|[[7617-45>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7617-45]]&br()LIVEDAM限定|配信中●|
+|~|[[きみにごめんね]]|[[7618-16>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7618-16]]|配信中●|
+|~|[[幻奏歌]]|[[7615-70>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7615-70]]|配信中●|
+|[[フェイP]]|[[恋スル猫ハクジケナイ!>恋スル猫ハクジケナイ！]]|[[7631-94>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7631-94]]&br()LIVEDAM限定|配信中●|
+|~|[[te-yut-te]]|[[7610-78>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7610-78]]&br()cyber DAM HD対応|配信中●|
+|~|[[逃走ロマンティック]]|[[7606-63>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7606-63]]|配信中●|
+|~|[[檸檬]]|[[7634-38>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7634-38]]&br()LIVEDAM限定|配信中●|
+|[[FAULHEIT>ORYO]]|[[進化論 code:variant]]|[[7617-94>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7617-94]]|配信中●|
+|~|[[独我論 code:altered]]|[[7617-95>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7617-95]]|配信中●|
+|~|[[モノトーンコレクター]]|[[7616-73>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7616-73]]&br()LIVEDAM限定|配信中●|
+|[[藤本薪]]|[[女子高生チェーンソウデイズ]]|[[7623-26>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7623-26]]&br()LIVEDAM限定|配信中●|
+|~|[[ムテキノヒーロー]]|[[7625-13>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7625-13]]|配信中●|
+|[[ぶっちぎりP]]|[[しゃぼんのサラマンドラ]]|[[7623-55>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7623-55]]|配信中●|
+|~|[[探偵むしめか゛ね～さらば怪人256面相>探偵むしめか゛ね ～ さらば怪人256面相]]|[[7623-56>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7623-56]]|配信中●|
+|~|[[のろいのめか゛ね～stray girl in her lenses>のろいのめか゛ね ～ stray girl in her lenses]]|[[7627-57>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7627-57]]|配信中●|
+|[[ぶりる>ぶりるP]]|[[どうでもいい！]]|[[7607-53>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7607-53]]&br()cyber DAM HD対応|配信中●|
+|~|[[どえむ]]|[[7609-81>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7609-81]]&br()cyber DAM HD対応|配信中●|
+|~|[[秘密警察]]|[[7604-42>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7604-42]]&br()cyber DAM HD対応|配信中●|
+|~|[[秘密警察]]&br()[[(HATSUNE MIKU EXPO 2014 in New York～Live～)>秘密警察]]&br()[[まま音 ver.)（生音）>秘密警察]]|[[7633-23>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7633-23]]&br()LIVEDAM STADIUM限定|配信中●|
+|~|[[秘密警察]]&br()[[(HATSUNE MIKU EXPO 2014 in New York～Live～)>秘密警察]]&br()[[(まま音 ver.)（生音）（本人出演映像）>秘密警察]]|[[7633-23>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7633-23]]&br()LIVEDAM STADIUM限定|配信中●|
+|~|[[私の彼は戦国武将]]|[[7612-96>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7612-96]]|配信中●|
+|[[ふる]]|[[反芻の印象]]|[[7629-54>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7629-54]]&br()LIVEDAM限定|配信中●|
+|~|[[ひよこと天秤]]|[[7620-77>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7620-77]]&br()LIVEDAM限定|配信中●|
+|[[古川本舗>古川P]]|[[Alice feat.拝郷メイコ>Alice/古川P]]|[[7606-19>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7606-19]]&br()cyber DAM HD対応|配信中●|
+|~|[[girlfriend feat.山崎ゆかり(空気公団)>girlfriend/古川P]]|[[3811-76>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=3811-76]]&br()LIVEDAM限定|配信中●|
+|~|[[グリグリメガネと月光蟲 feat.クワガタP>グリグリメガネと月光蟲]]|[[7606-82>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7606-82]]&br()cyber DAM HD対応|配信中●|
+|~|[[月光食堂 feat.acane_madder>月光食堂]]|[[3805-94>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=3805-94]]&br()LIVEDAM限定|配信中●|
+|~|三月は夜の底 feat.花近|[[7606-83>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7606-83]]|配信中●|
+|~|春の|[[3632-45>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=3632-45]]&br()LIVEDAM限定|配信中●|
+|~|[[ピアノ・レッスン feat.カヒミ・カリィ>ピアノ・レッスン]]|[[7606-22>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7606-22]]|配信中●|
+|~|[[ピアノ・レッスン feat.野宮真貴 with BaguettesEnsemble>ピアノ・レッスン]]|[[7606-84>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7606-84]]|配信中●|
+|[[フルカワミキ>SF-A2 開発コード miki]]（作詞作曲：[[小林オニキス]]）|[[サイハテ]]|[[6514-37>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=6514-37]]&br()cyber DAM HD対応|配信中●|
+|[[Project DIVA Original Song>初音ミク -Project DIVA- Original Song Collection]]|[[The secret garden]]|[[7602-70>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7602-70]]|配信中●|
+|~|[[Dear cocoa girls]]|[[7600-53>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7600-53]]|配信中●|
+|~|天鵞絨アラベスク|[[7600-55>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7600-55]]|配信中●|
+|~|ラブリスト更新中？|[[7600-54>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7600-54]]|配信中●|
+|[[プロペリン(万玄斎)>プロペリン]]|[[明日世界が滅ぶなら]]|[[7635-81>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7635-81]]|配信中●|
+|[[ふわりP]]|[[あめがふれば]]|[[7630-43>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7630-43]]&br()LIVEDAM限定|配信中●|
+|~|[[あらたなつづき]]|[[7629-40>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7629-40]]&br()LIVEDAM限定|配信中●|
+|~|[[うちゅーの☆ふぁんたじー]]|[[7631-71>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7631-71]]&br()LIVEDAM限定|配信中●|
+|~|[[かえりみち>かえりみち/ふわりP]]|[[7629-38>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7629-38]]&br()LIVEDAM限定|配信中●|
+|~|[[きょうもハレバレ]]|[[7625-39>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7625-39]]|配信中●|
+|~|[[ここにあること]]|[[7610-87>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7610-87]]&br()cyber DAM HD対応|配信中●|
+|~|[[このしあわせを]]|[[7632-28>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7632-28]]&br()LIVEDAM限定|配信中●|
+|~|[[しゃばでぃーば]]|[[7626-21>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7626-21]]&br()LIVEDAM限定|配信中●|
+|~|にじいろのはる|[[7629-78>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7629-78]]&br()LIVEDAM限定|配信中●|
+|~|[[ねがいごと]]|[[7615-75>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7615-75]]|配信中●|
+|~|[[プレゼント>プレゼント/ふわりP]]|[[7629-39>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7629-39]]&br()LIVEDAM限定|配信中●|
+|~|[[ふわりクレヨン]]|[[7611-94>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7611-94]]|配信中●|
+|~|[[ぼくたちのはじまり]]|[[7623-27>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7623-27]]&br()LIVEDAM限定|配信中●|
+|~|[[またあした>またあした/ふわりP]]|[[7605-09>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7605-09]]&br()cyber DAM HD対応|配信中●|
+|~|みらいをつなぐ|[[7626-67>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7626-67]]|配信中●|
+|~|[[ゆめのかたち]]|[[7620-78>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7620-78]]&br()LIVEDAM限定|配信中●|
+|>|>|>|【へ】|
+|べあっぷす([[じっぷす]]×[[かいりきベア]])|ヴォルカニックレイリズム|[[7635-14>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7635-14]]&br()LIVEDAM限定|配信中●|
+|[[baker]]|[[明日になればまた続く]]|[[7610-43>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7610-43]]|配信中●|
+|~|[[明日になればまた続く（本人出演映像）>明日になればまた続く]]|[[7610-43>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7610-43]]&br()LIVEDAM限定|配信中●|
+|~|[[ARPK]]|[[7616-56>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7616-56]]&br()LIVEDAM限定|配信中●|
+|~|[[カナリア-sweetmix->カナリア/baker]]|[[7618-64>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7618-64]]|配信中●|
+|~|[[サウンド]]|[[7615-33>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7615-33]]|配信中●|
+|~|sympa|[[7627-58>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7627-58]]&br()LIVEDAM限定|配信中●|
+|~|[[celluloid]]|[[7615-35>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7615-35]]|配信中●|
+|~|[[夏に去りし君を想フ]]|[[7616-62>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7616-62]]&br()LIVEDAM限定|配信中●|
+|Becky Pop Sound Research.|[[純情ハービヴォー]]|[[7625-74>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7625-74]]&br()LIVEDAM限定|配信中●|
+|[[Heavenz>ヘブンズP]]|[[キミノオト]]|[[7623-58>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7623-58]]|配信中●|
+|~|[[サイレント・マジョリティ]]|[[7623-59>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7623-59]]|配信中●|
+|~|[[それがあなたの幸せとしても]]|[[7624-98>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7624-98]]|配信中●|
+|~|[[テロメアの産声]]|[[7621-92>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7621-92]]|配信中●|
+|~|[[Let-ters]]|[[7632-66>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7632-66]]&br()LIVEDAM限定|配信中●|
+|[[ヘヴンズP>ヘブンズP]]|[[Atoms]]|[[7623-57>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7623-57]]|配信中●|
+|~|[[Imitation]]|[[7622-69>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7622-69]]|配信中●|
+|~|[[Strangers]]|[[7622-51>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7622-51]]|配信中●|
+|~|[[プラネタリウム>プラネタリウム/ヘブンズP]]|[[7622-70>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7622-70]]|配信中●|
+|~|[[ユラメク]]|[[7612-82>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7612-82]]|配信中●|
+|[[ぺぺろんP]]|Thousand Regrets|[[7621-93>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7621-93]]|配信中●|
+|~|[[シルバーバレット]]|[[7617-73>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7617-73]]|配信中●|
+|~|[[涙は宇宙に降る/ギャラ子>涙は宇宙に降る]]|[[7631-13>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7631-13]]&br()cyber DAM HD対応|配信中●|
+|~|[[Lying and Lying]]|[[7620-79>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7620-79]]&br()LIVEDAM限定|配信中●|
+|[[ヘリP]]|[[風待ちハローワールド]]|[[7614-48>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7614-48]]&br()cyber DAM HD対応|配信中●|
+|[[HzEdge(クリスタルP)>クリスタルP]]|[[erase or zero(Vocalogenesis only NewMix)>erase or zero]]|[[7605-10>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7605-10]]&br()cyber DAM HD対応|配信中●|
+|~|[[campanula blue]]|[[7631-93>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7631-93]]&br()LIVEDAM限定|配信中●|
+|>|>|>|【ほ】|
+|[[ぼーかりおどP(noa)>ぼーかりおどP]]|[[ジュゲムシーケンサー]]|[[7622-71>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7622-71]]|配信中●|
+|~|[[ラストラスト]]|[[7617-49>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7617-49]]&br()LIVEDAM限定|配信中●|
+|~|[[1/6-genesis mix->1／6]]|[[7604-45>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7604-45]]&br()cyber DAM HD対応|配信中●|
+|[[ぼいじゃあ]]|[[「イキたいの。」]]|[[7617-46>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7617-46]]&br()LIVEDAM限定|配信中●|
+|~|[[拘束プレイ]]|[[7611-63>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7611-63]]|配信中●|
+|~|[[「ヤリたいの。」]]|[[7617-48>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7617-48]]&br()LIVEDAM限定|配信中●|
+|放課後楽園部（作詞作曲：[[Last Note.]]）|[[放課後革命]]|[[3730-71>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=3730-71]]&br()cyber DAM HD対応|配信中●|
+|[[ほえほえP]]|[[サクラノ前夜]]|------|2013年8月以降|
+|[[菩化鳥]]|[[エランダール]]|[[7636-27>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7636-27]]|配信中●|
+|ぽこた|[[タカラモノ>タカラモノ/ぽこた]]|[[3618-29>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=3618-29]]&br()cyber DAM HD対応|配信中●|
+|[[ぽこたんP]]|[[伝えたいけど飽きた寝る]]|[[7622-72>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7622-72]]|配信中●|
+|[[ぽてんしゃる0]]|[[おやすみなさい>おやすみなさい/ぽてんしゃる0]]|[[7629-79>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7629-79]]&br()LIVEDAM限定|配信中●|
+|~|[[不知火]]|[[7627-07>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7627-07]]|配信中●|
+|~|[[スカイクロウラー]]|[[7625-43>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7625-43]]|配信中●|
+|~|[[月に戯言]]|[[7629-41>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7629-41]]|配信中●|
+|~|[[不毛!>不毛！]]|[[7629-42>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7629-42]]|配信中●|
+|~|[[夕暮れジェットソン]]|[[7627-08>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7627-08]]|配信中●|
+|~|[[ロダン!>ロダン！]]|[[7629-80>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7629-80]]&br()LIVEDAM限定|配信中●|
+|[[焔夏冬雪]]&[[アイ$コン>アイ＄コン]]|[[Addiction Of YoU]]|[[7626-46>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7626-46]]&br()LIVEDAM限定|配信中●|
+|[[ぼのりす]]|[[月夜ノ森]]|[[7623-28>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7623-28]]&br()LIVEDAM限定|配信中●|
+|[[ほぼ日P]]|[[家に帰ると妻が必ず死んだふりをしています。]]|[[7604-70>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7604-70]]&br()cyber DAM HD対応|配信中●|
+|~|[[行きます!カラオケ一曲目>行きます！カラオケ一曲目]]|[[7613-89>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7613-89]]&br()cyber DAM HD対応|配信中●|
+|~|[[インターネットカラオケマン]]|[[7624-49>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7624-49]]|配信中●|
+|~|[[彼氏の財布がマジックテープ式だった]]|[[7605-13>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7605-13]]|配信中●|
+|~|[[キセキの年]]|[[7634-39>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7634-39]]&br()LIVEDAM限定|配信中●|
+|~|[[ご本人が嫌がってるのに申し訳ありません]]|[[7616-95>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7616-95]]&br()LIVEDAM限定|配信中●|
+|~|[[【至急!】アダルトサイトが閉じられない【助けて!】>アダルトサイトが閉じられない]]|[[7620-80>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7620-80]]&br()LIVEDAM限定|配信中●|
+|[[ポリスピカデリー>>https://www24.atwiki.jp/utauuuta/pages/3713.html]]|[[曖昧さ回避>>https://www24.atwiki.jp/utauuuta/pages/3543.html]]|[[7638-20>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7638-20]]|配信中●|
+|~|[[Cynic>>https://www24.atwiki.jp/utauuuta/pages/3653.html]]|[[7638-21>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7638-21]]|配信中●|
+|[[PolyphonicBranch]]|[[藍空同盟]]|[[7631-72>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7631-72]]|配信中●|
+|~|[[嘘つきベティ]]|[[7623-95>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7623-95]]|配信中●|
+|~|[[神様なんていらない僕らの]]|[[7626-68>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7626-68]]|配信中●|
+|~|[[カメレオン・ラブ]]|[[7628-09>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7628-09]]|配信中●|
+|~|[[ガラクタ少女]]|[[7611-97>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7611-97]]&br()cyber DAM HD対応|配信中●|
+|~|[[キネティック偏愛倶楽部]]|[[7622-21>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7622-21]]|配信中●|
+|~|[[君に捧ぐファンタジア]]|[[7618-04>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7618-04]]|配信中●|
+|~|[[君に、花束を。]]|[[7633-56>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7633-56]]&br()LIVEDAM限定|配信中●|
+|~|[[恋椿姫]]|[[7619-12>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7619-12]]|配信中●|
+|~|[[式日とマンホール]]|[[7625-06>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7625-06]]|配信中●|
+|~|[[少女自傷癖]]|[[7624-70>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7624-70]]|配信中●|
+|~|[[衝動×パンデモニクス]]|[[7624-21>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7624-21]]|配信中●|
+|~|Sleeping My Dear|[[7627-09>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7627-09]]|配信中●|
+|~|[[太陽と月のロンド]]|[[7608-89>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7608-89]]&br()cyber DAM HD対応|配信中●|
+|~|[[東京電脳探偵団]]|[[7630-12>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7630-12]]&br()LIVEDAM限定|配信中●|
+|~|[[慟哭トリガー]]|[[7629-44>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7629-44]]&br()LIVEDAM限定|配信中●|
+|~|[[二次元ドリームフィーバー]]|[[7613-54>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7613-54]]&br()cyber DAM HD対応|配信中●|
+|~|[[パンプキン・シンドローム]]|[[7620-81>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7620-81]]&br()LIVEDAM限定|配信中●|
+|~|[[百年夜行]]|[[7612-03>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7612-03]]&br()cyber DAM HD対応|配信中●|
+|~|不完全ノーマリスト|[[7629-43>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7629-43]]&br()LIVEDAM限定|配信中●|
+|~|[[忘却アリス]]|[[7608-90>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7608-90]]&br()cyber DAM HD対応|配信中●|
+|~|[[マインドスピーカー]]|[[7620-82>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7620-82]]&br()LIVEDAM限定|配信中●|
+|~|[[水鏡ディストーション]]|[[7632-02>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7632-02]]&br()LIVEDAM限定|配信中●|
+|~|[[music>music/PolyphoniｃBranch]]|[[7619-85>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7619-85]]|配信中●|
+|~|[[妄想ジェネレータ]]|[[7619-13>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7619-13]]|配信中●|
+|~|[[夢で逢いましょう]]|[[7630-11>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7630-11]]&br()LIVEDAM限定|配信中●|
+|~|[[Like A Rolling Star☆>Like A Rolling Star ☆]]|[[7619-84>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7619-84]]|配信中●|
+|~|[[Last Time to Say]]|[[7630-10>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7630-10]]&br()LIVEDAM限定|配信中●|
+|~|[[愛×愛ホイッスル]]|[[7634-66>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7634-66]]&br()LIVEDAM限定|配信中●|
+|~|[[黎明ワンダーレジスト]]|[[7631-50>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7631-50]]|配信中●|
+|[[WhiteFlame>黒うさP]]|[[紅一葉]]|[[7605-93>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7605-93]]&br()cyber DAM HD対応|配信中●|
+|~|[[ACUTE]]|[[7605-80>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7605-80]]&br()cyber DAM HD対応|配信中●|
+|~|[[カンタレラ]]|[[7605-90>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7605-90]]&br()cyber DAM HD対応|配信中●|
+|~|[[Cyclone]]|[[7619-91>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7619-91]]|配信中●|
+|~|[[最後の女王]]|[[7605-95>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7605-95]]&br()cyber DAM HD対応|配信中●|
+|~|[[サンキューロック]]|[[7629-07>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7629-07]]|配信中●|
+|~|[[シャララ]]|[[7624-17>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7624-17]]|配信中●|
+|~|[[上弦の月]]|[[7624-50>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7624-50]]|配信中●|
+|~|[[白雪～sirayuki～]]|[[7618-81>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7618-81]]|配信中●|
+|~|[[ずっと、ずっと……>ずっと、ずっと・・・]]|[[7605-97>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7605-97]]|配信中●|
+|~|[[千本桜]]|[[7609-91>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7609-91]]&br()ほぼ全機種対応|配信中●|
+|~|[[千本桜(Game Version)>千本桜]]|[[7621-94>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7621-94]]|配信中●|
+|~|[[千本桜(Game Version)（本人出演映像）>千本桜]]|[[7621-94>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7621-94]]|配信中●|
+|~|[[千本桜]]&br()[[(HATSUNE MIKU EXPO 2014 in New York～Live～)>千本桜]]&br()[[(まま音 ver.)（生音）>千本桜]]|[[7633-24>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7633-24]]&br()LIVEDAM STADIUM限定|配信中●|
+|~|[[千本桜]]&br()[[(HATSUNE MIKU EXPO 2014 in New York～Live～)>千本桜]]&br()[[(まま音 ver.)（生音）（本人出演映像）>千本桜]]|[[7633-24>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7633-24]]&br()LIVEDAM STADIUM限定|配信中●|
+|~|[[2525遊園地]]|[[7620-84>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7620-84]]&br()LIVEDAM限定|配信中●|
+|~|[[虹色蝶々]]|[[7618-80>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7618-80]]|配信中●|
+|~|[[螺旋迷宮>螺旋迷宮～Spiral labyrinth～]]|[[7605-92>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7605-92]]&br()cyber DAM HD対応|配信中●|
+|~|[[Love*3]]|[[7620-83>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7620-83]]&br()LIVEDAM限定|配信中●|
+|~|[[ReAct]]|[[7605-82>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7605-82]]&br()cyber DAM HD対応|配信中●|
+|~|[[リスキーゲーム]]|[[7605-84>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7605-84]]&br()cyber DAM HD対応|配信中●|
+|~|[[恋愛フィロソフィア]]|[[7615-98>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7615-98]]|配信中●|
+|[[WhiteFlame>黒うさP]]×斎藤ネコ|[[カンタレラ]]|[[3567-82>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=3567-82]]|配信中●|
+|[[ぽわぽわP]]|[[ストロボラスト]]|[[7608-91>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7608-91]]|配信中●|
+|~|[[そらのサカナ]]|[[7619-72>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7619-72]]&br()LIVEDAM限定|配信中●|
+|~|[[ハローストロボ]]|[[7619-73>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7619-73]]&br()LIVEDAM限定|配信中●|
+|~|[[lifeworks]]|[[7620-85>>http://www.clubdam.com/app/leaf/songKaraokeLeaf.html?requestNo=7620-85]]&br()LIVEDAM限定|配信中●|
+
+|[[DAM歌手名順【あ】>カラオケ配信曲一覧/DAM歌手名順【あ】]]|[[DAM歌手名順【か】>カラオケ配信曲一覧/DAM歌手名順【か】]]|[[DAM歌手名順【さ】>カラオケ配信曲一覧/DAM歌手名順【さ】]]|[[DAM歌手名順【た】>カラオケ配信曲一覧/DAM歌手名順【た】]]|[[DAM歌手名順【な】>カラオケ配信曲一覧/DAM歌手名順【な】]]|-|[[DAM歌手名順【ま】>カラオケ配信曲一覧/DAM歌手名順【ま】]]|[[DAM歌手名順【や】>カラオケ配信曲一覧/DAM歌手名順【や】]]|[[DAM歌手名順【ら】>カラオケ配信曲一覧/DAM歌手名順【ら】]]|[[DAM歌手名順【わ】>カラオケ配信曲一覧/DAM歌手名順【わ】]]|
+
+
+#co(){以下コピペ用
+|[[歌手名>P名]] (***>>アーティストページURL)|[[曲名]]|------|09年00月中旬以降|
+
+歌手名には各カラオケで登録されているページを、P名はwikiのページ名をお願いします。
+(同一名称が使われている場合P名だけでOKです。)
+***はUGAまたはDAMを入れてください。アーティストページは配信日決定されている曲が1曲以上必要になりますので、
+まだページがない場合()ごと省略して下さい。
+
+同一歌手名の曲に関しては五十音順です。(英語、記号もひらがな読みで)
+アーティストページの記載は任意でOK。(見づらいようでしたら消してください)
+}
+
+//リクエスト中の曲はエントリー一覧で取扱い中
+**リクエストエントリー中の曲
+&font(b,120%){エントリー楽曲【あ】～【た】は}&font(b,150%){[[こちら>DAMエントリー楽曲一覧【あ】～【た】]]}
+&font(b,120%){エントリー楽曲【な】～【わ】は}&font(b,150%){[[こちら>DAMエントリー楽曲一覧【な】～【わ】]]}
+
+
+*UGA
+UGA歌手名順はこちら：
+|[[UGA歌手名順【あ】>カラオケ配信曲一覧/UGA歌手名順【あ】]]|[[UGA歌手名順【か】>カラオケ配信曲一覧/UGA歌手名順【か】]]|[[UGA歌手名順【さ】>カラオケ配信曲一覧/UGA歌手名順【さ】]]|[[UGA歌手名順【た】>カラオケ配信曲一覧/UGA歌手名順【た】]]|[[UGA歌手名順【な】>カラオケ配信曲一覧/UGA歌手名順【な】]]|[[UGA歌手名順【は】>カラオケ配信曲一覧/UGA歌手名順【は】]]|[[UGA歌手名順【ま】>カラオケ配信曲一覧/UGA歌手名順【ま】]]|[[UGA歌手名順【や】>カラオケ配信曲一覧/UGA歌手名順【や】]]|[[UGA歌手名順【ら】>カラオケ配信曲一覧/UGA歌手名順【ら】]]|[[UGA歌手名順【わ】>カラオケ配信曲一覧/UGA歌手名順【わ】]]|
+
+
+*JOYSOUND
+JOYSOUND歌手名順はこちら：
+|[[JOY歌手名順【あ】>カラオケ配信曲一覧/JOYSOUND歌手名順【あ】]]|[[JOY歌手名順【か】>カラオケ配信曲一覧/JOYSOUND歌手名順【か】]]|[[JOY歌手名順【さ】>カラオケ配信曲一覧/JOYSOUND歌手名順【さ】]]|[[JOY歌手名順【た】>カラオケ配信曲一覧/JOYSOUND歌手名順【た】]]|[[JOY歌手名順【な】>カラオケ配信曲一覧/JOYSOUND歌手名順【な】]]|[[JOY歌手名順【は】>カラオケ配信曲一覧/JOYSOUND歌手名順【は】]]|[[JOY歌手名順【ま】>カラオケ配信曲一覧/JOYSOUND歌手名順【ま】]]|[[JOY歌手名順【や】>カラオケ配信曲一覧/JOYSOUND歌手名順【や】]]|[[JOY歌手名順【ら】>カラオケ配信曲一覧/JOYSOUND歌手名順【ら】]]|[[JOY歌手名順【わ】>カラオケ配信曲一覧/JOYSOUND歌手名順【わ】]]|
+
+
+&font(b,120%){[[BACK（カラオケ情報総合インデックスページへ戻る）>カラオケ配信曲一覧]]}

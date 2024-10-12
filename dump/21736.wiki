@@ -1,0 +1,199 @@
+#right(){&furigana(clear)&furigana()【登録タグ:&tags()】}
+|&nicovideo(https://www.nicovideo.jp/watch/sm17828579)|&youtube(https://www.youtube.com/watch?v=Fr-bNs_QeZk){342,187}|
+作詞：[[ドンガリンゴP]]
+作曲：[[ドンガリンゴP]]
+編曲：[[ドンガリンゴP]]
+唄：巡音ルカ・初音ミク
+
+**曲紹介
+>&bold(){取り残された者たちに捧げる。}
+>&bold(){いや、べつに未だにVOCALOID2を使ってる私の話じゃないけど。}
+-Kinra氏 こと ドンガリンゴP の10作目。
+-曲のタイトルの読みは「[[リンボ>>http://ja.wikipedia.org/wiki/%E8%BE%BA%E7%8D%84]]」（[[ブログ説明文>>http://kinra.blog112.fc2.com/]]より）
+-「今回の実験の一つである．．．ミクとルカの声を融合させてみたのです。」（[[ブログ説明文>>http://kinra.blog112.fc2.com/]]より）
+-ASCII(ANSI)コードという256色動画を軸として、PVの絵も自身で描いたもの。
+-ギター：和田たけあき（[[くらげP]]）
+--ギターとピアノを絡ませた実験性に溢れるサウンド。
+
+**歌詞
+（[[Kinra氏「深林間：倉庫」>>http://deepforest.distract.org/real/1imb0.htm]]より転載）
+
+Love, riot, categorize.
+Shiver, slay　殻の中で　旋回。
+生マレ　死ナセ　相継ぐ
+崩れかけのパラダイスは今日も平和だ
+
+生産ラインの果て　神の国へ（堕ちる）
+
+Rage, lust, rationalize.
+Stray, rot　ケイ素循環さ。
+組マレ　砕ケ　絶えなく
+作りかけのパラダイムを振り出しに戻す
+
+殻の外は夢見る約束の地
+〃〃〃〃光がある世界さ
+〃〃〃〃〃〃〃〃浴びれば死ぬけど
+　　　　　　　　　　　　　　　　　　　　　　う
+　　　　　　　　　　　　　　　　　　　　　　し
+　　　　　　　　　　　　　　　　　　　　　　て　僕らに与えてくれないの？
+
+　　　　　　　　　　　　　　　　　　　　　　こ
+　　　　　　　　　　　　　　　　　　　　　　ん
+　　　　　　　　　　　　　　　　　　　　　　な
+　　　　　　　　　　　　　　　　　　　　　　の
+　　　　　　　　　　　　　　　　　　　　　　が
+　　　　　　　　　　　　　　　　　　　　　　生
+　　　　　　　　　　　　　　　　　　　　　　な
+　　　　　　　　　　　　　　　　　　　　　　の
+　　　　　　　　　　　　　　　　　　　　　　？
+
+灰は塩に　塵は道に　作り直し　浪費は無し
+死も積もれば命となる　魂など自ずと憑く
+僕らが追い込んだ神話　僕らの手で糧にしたら
+聖なる物　無垢なる物　殻の中の何処にあるの？
+
+嗚呼　この場所もか
+planned to be left out of heaven and hell
+
+Rise, change, demystify.
+Take, break　ゼロとイチを連打
+引カレ　押サレ　続々
+薄れかけのパラライシスは誰の為なの？
+
+枷を解き自由になりたい
+〃〃〃〃放たれる時を待ち倦む
+〃〃〃〃〃〃〃〃〃身も砕けるの
+　　　　　　　　　　　　　　　　　　　　ぞ
+　　　　　　　　　　　　　　　　　　　　む
+　　　　　　　　　　　　　　　　　　　　の
+　　　　　　　　　　　　　　　　　　　　は　こんなものか？
+
+　　　　　　　　　　　　　　　　　　　　慈
+　　　　　　　　　　　　　　　　　　　　悲
+　　　　　　　　　　　　　　　　　　　　と
+　　　　　　　　　　　　　　　　　　　　い
+　　　　　　　　　　　　　　　　　　　　う
+　　　　　　　　　　　　　　　　　　　　名
+　　　　　　　　　　　　　　　　　　　　の
+　　　　　　　　　　　　　　　　　　　　罰
+　　　　　　　　　　　　　　　　　　　　か
+　　　　　　　　　　　　　　　　　　　　？
+
+産 ま れ 抱 か れ 呼 ば れ 泣 か れ 離 れ 廃 れ 汚 れ 乱　れ
+み　禁　じ ら れ 戒 め ら れ  称 え ら れ 伝 わ れ 謳 わ　れ  焦
+出　制　電 気 と 夢 と 熱 と 希 望 と 涙 の 蒸 気 圧 と　辱　が
+さ　 さ　る　　　　　　　　　　　　　　　　　　　　　　　　　　欲　め　れ
+れ　れ　す 　　　　　　　　　　　　　　　　　　　　　　　　　  望　ら　破
+検　複　谺　　　　　　　　　　　　　　　　　　　　　　　　　　の　れ　れ
+定　製　に　　　　　　　　　　　　　　　　　　　　　　　　　　減　貶　遅
+さ　 さ　示　　　　　　　　　　　　　　　　　　　　　　　　　　数　め　れ
+れ　れ　黙　　　　　　　　嗚呼　隔てられた　　　　　　　分　ら　溺
+調　分　は　　　　place out of heaven and hell 　　　 裂　れ　れ
+整　類　限　　　　　　　　　　　　　　　　　　　　　　　　　　と　蔑　懼
+さ　 さ　極　　　　　　　　　　　　　　　　　　　　　　　　　　真　ま　れ
+れ　れ　の　　　　　　　　　　　　　　　　　　　　　　　　　　の　れ　暴
+作　隠　語　　　　　　　　　　　　　　　　　　　　　　　　　　臨　慈　れ
+り 　蔽　物　　　　　　　　　　　　　　　　　　　　　　　　　　界　し　潰
+直　 さ　ら か 数 関 折 回 の 悪 と 変 壊 射 放 の 愛 点　ま　れ
+さ　 れ　最 適 化 さ れ 再 生 さ れ 改 名 さ れ 削 除　さ　れ 壊
+れ　 上　書 き さ れ 圧 縮 さ れ 暗 号 化 さ れ 初 期 化　さ　れ
+
+嗚呼　いつか光は　皆殺しに来るだろう
+
+
+**物語
+#region(Story)
+　
+　
+Love, riot, Categorize.
+Shiver, slay,　殻の中で　旋回。
+生マレ　死ナセ　相継ぐ
+崩れかけの　パラダイスは今日も平和だ
+
+生産ラインの果て　神の国へ（堕ちる．．．）
+
+Rage, lust, Rationalize.
+Stray, rot,ｎケイ素循環さ。
+組マレ　砕ケ　絶えなく
+作りかけの　パラダイムを振り出しに戻す
+
+&color(#f5f505){殻の外は　夢見る約束の地}
+&color(#DF39DD){殻の外は　光がある　世界さ}
+&color(#39DDDF){殻の外は　光がある　浴びれば死ぬけど}
+
+　　　　　僕らに与えてくれないの
+どうして
+　　　　　こんなのが生なの？
+
+
+灰は塩に　塵は道に　作り直し　浪費は無し
+死も積もれば命となる　魂など自ずと憑く
+僕らが追い込んだ神話　僕らの手で糧にしたら
+聖なる物　無垢なる物　殻の中の何処にあるの？
+
+嗚呼　この場所もか
+planned to be left out of heaven and hell
+
+
+&color(#999){And still,}
+&color(#999){we pray.}
+&color(#999){　　　　　　¶_}
+
+&color(#999){And only when every prayer failed did we begin to live.}
+&color(#999){We have fed on myths that grew from the primal lie.}
+
+&color(#999){We have made enough mistakes trying to reach heaven,}
+&color(#999){but all we grasp is tears evaporated from the earth.}
+&color(#999){And yet none would desert this pile of deads.}
+
+&color(#999){For it is where we stand.}
+&color(#999){It is where we live.}
+
+&color(#999){It is where we rehearse for the stage that never comes.}
+
+&color(#999){And we rejoice.}
+&color(#999){　　　　　　　　　　¶_}
+
+
+Rise, change, Demystify.
+Take, break.　ゼロとイチを連打
+引カレ　押サレ　続々
+薄れかけの　パラライシスは誰の為なの？
+
+&color(#f5f505){枷を解き　自由になりたい}
+&color(#DF39DD){枷を解き　放たれる時を待ち倦む}
+&color(#39DDDF){枷を解き　放たれる時　身も砕けるの}
+
+　　　　　　　慈悲という名の罰か？
+のぞむのは
+　　　　　　　こんなものか？
+
+
+&color(#A31BA1){産まれ抱かれ呼ばれ泣かれ離れ廃れ汚れ乱れ焦がれ破れ遅れ溺れ懼れ暴れ潰れ壊れ}
+&color(#1BA1A3){産み出され檢定され調整され作り直され上書きされ圧縮され暗号化され初期化され}
+
+&color(#A31BA1){禁じられ戒められ称えられ伝われ謳われ辱められ貶められ蔑まれ慈しまれ}
+&color(#1BA1A3){禁制され複制され分類され隱蔽され最適化され再生され改名され削除され}
+
+嗚呼　隔てられた
+place out of heaven and hell
+
+電気と夢と熱と希望と涙の蒸気圧と欲望の減数分裂と真の臨界点愛の放射壞変と悪の回折関数から物語の極限は默示に谺する
+
+&color(#39DF3B){嗚呼　いつか光は　皆殺しに来るだろう}
+
+
+&color(#999){And He said,}
+&color(#999){"Let there be light."}
+&color(#999){　　　　　　　　　　　　　　¯}
+&color(#999){And then there were none.}
+&color(#999){　　　　　　　　　　　　　　　　　　¶}
+　
+#endregion
+
+**コメント
+- すごい  -- 名無しさん  (2012-05-23 08:05:58)
+- これは... さぞ大変だっただろう。編集乙であります(｀･ω･´)ゞ  -- 名無したん  (2012-06-06 22:30:52)
+- かっこいい  -- 名無しさん  (2013-02-03 19:05:23)
+- かっけえ…  -- 不憫  (2013-03-03 20:43:23)
+#comment()

@@ -1,0 +1,39 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1023_20120317132250_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[無名のフォルダ / Filtering>無名のフォルダ／Filtering]]|CENTER:&bold(){all my Ballads～Forever Love～}|CENTER:[[picture of world~for U~]]|
+
+|&bold(){[[キッドP]]}|[[残鏡P]]|[[クリスタルP]]|hiyolico|
+
+発売：2012年3月29日
+価格：￥1,200 / 1曲￥150
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：[[碧茶]]
+
+**CD紹介
+-キッドP、初のバラードセレクションアルバム。
+-過去のアルバムからセレクトし、なおかつ全曲リマスタリング。
+-さらに「あたりまえに言えたこと」や「Good-bye my Paranoia」もAppendバージョンとして収録している。
+-KARENTレーベルのバラード特集で配信された作品の1つ。
+
+**曲目
++[[コガネイロの故郷]]～comeback to hometown Mix～ （feat. 鏡音レン）
++あたりまえに言えたこと～cold tears Mix～ （feat. 鏡音レン）
++始まりの草原 （feat. 鏡音レン）
++黄色い天使 （feat. 鏡音レン）
++旅路の途中で （feat. 鏡音レン）
++[[ぷらうどきゃっと]] （feat. 鏡音レン）
++Good-bye my Paranoia～So sweet whisper Mix～ （feat. 鏡音リン&鏡音レン）
++セピアに変わる日～2012 Crystal P Monochrome Mix～ （feat. 鏡音レン）
++眠りについたおもちゃ箱 （feat. 鏡音レン）
++しんセカイ （feat. 鏡音レン）
++コガネイロの故郷～キッド少年合唱団～ （feat. キッド）
+
+**リンク
+-[[KARENT：「all my Ballads～Forever Love～」>>http://karent.jp/album/1023]]
+-[[KARENT：「The Ballad Music」特集ページ>>http://karent.jp/special/ballad12]]
+
+**コメント
+#comment()

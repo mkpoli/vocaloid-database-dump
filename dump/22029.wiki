@@ -1,0 +1,35 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/24440026" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/24440026">【ニコニコ動画】</a></iframe>)|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/35198286" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/35198286">【ニコニコ動画】</a></iframe>)|
+
+**特徴
+-P名はタロスP。投稿者名は「yu-go（タロスP）」だが、マイリストは「Yu-go」になっている。
+-前向きな曲を多く作る。
+-使用VOCALOIDはルカ、ミク、リン、レン。
+
+
+**リンク
+-[[ピアプロ>>http://piapro.jp/yu_go]]
+-[[ツイッター>>http://twitter.com/#!/oxgbeast/]]
+
+**曲
+#list_by_tag(yu-go,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(yu-goCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm12775604)|&nicovideo(http://www.nicovideo.jp/watch/sm13875660)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm15018001)|&nicovideo(http://www.nicovideo.jp/watch/sm15274907)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm15624836)|&nicovideo(http://www.nicovideo.jp/watch/sm15752234)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm16405643)|&nicovideo(http://www.nicovideo.jp/watch/sm16768902)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm16846049)|&nicovideo(http://www.nicovideo.jp/watch/sm17535767)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm17632327)|&nicovideo(http://www.nicovideo.jp/watch/sm18071750)|
+
+**コメント
+- ウルトラミラクルロンリータフガール面白くて好き  -- 名無しさん  (2012-06-29 18:44:25)
+- ↑同感　これからも頑張ってください！  -- 名無しさん  (2012-07-01 15:14:11)
+- この人の曲綺麗で爽やかで好き。  -- 名無しさん  (2012-08-29 21:26:54)
+- 個人的にもっと注目されてもいいと思います。頑張って下さい。  -- 名無したん  (2013-02-09 17:38:16)
+- 是非CDを出していただきたい  -- 名無しさん  (2013-06-28 20:52:10)
+- 頑張れ！  -- 鈴音　リンネ  (2013-08-07 02:29:20)
+#comment()

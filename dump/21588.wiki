@@ -1,0 +1,30 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1042_20120421175732_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[CATALOG//>CATALOG／／]]|CENTER:&bold(){KISS ME BABY!!! EP}&br()[[カラココロ EP]]|CENTER:-|
+
+|&bold(){[[ELEGUMI TOKYO]]}|
+
+発売：2012年5月7日
+価格：￥300 / 1曲￥150
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：[[うみこ>>http://piapro.jp/morimori15]]
+
+**CD紹介
+-ELEGUMI TOKYO氏の配信シングル。『[[カラココロ EP]]』と同時リリース。
+-9作目の「KISS ME BABY!!!」が収録されている。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++[[KISS ME BABY!!!]] （feat. 初音ミク）
++KISS ME BABY!!! （Instrumental）
+
+
+**リンク
+-[[作者サイト>>http://elegumi.tumblr.com/]]
+-[[KARENT：「KISS ME BABY!!! EP」>>http://karent.jp/album/1042]]
+
+**コメント
+#comment()

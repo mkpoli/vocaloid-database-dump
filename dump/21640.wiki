@@ -1,0 +1,66 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/18782179" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/18782179">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-電子音が特徴的な曲を投稿している。
+-使用ボーカロイドは初音ミク・VY2。
+-以前は「ぬこかぜ」「Nukogenome」名義で活動していた。
+-18作目の「[[逃避ケア]]」にて自身初の殿堂入りを達成。
+-これまでに殿堂入りを達成した曲は、以下の通り。&br()&list_by_tagsearch(lumo,殿堂入り,sort=furigana,option=nolist,nolistspace=、,100)
+
+**リンク
+-[[lumo（作者HP）>>http://lumommmbon.flavors.me/]]
+-[[ピアプロ>>http://piapro.jp/nuko_genome]]
+-[[Twitter>>http://twitter.com/lumommmbon]]
+-[[SoundCloud>>http://soundcloud.com/lumommmbon]]
+-[[YouTube>>http://www.youtube.com/channel/UC3lf_txBkZ5Jk7P_Wwm225Q]]
+
+**曲
+#list_by_tag(lumo,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(lumoCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/nm9539807)|&nicovideo(http://www.nicovideo.jp/watch/sm9901903)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm10645857)|&nicovideo(http://www.nicovideo.jp/watch/sm11346730)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm11815166)|&nicovideo(http://www.nicovideo.jp/watch/sm11954216)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12216965)|&nicovideo(http://www.nicovideo.jp/watch/sm12390031)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12594359)|&nicovideo(http://www.nicovideo.jp/watch/sm12949487)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm13175490)|&nicovideo(http://www.nicovideo.jp/watch/sm13328576)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm13826615)|&nicovideo(http://www.nicovideo.jp/watch/sm13960693)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm14844186)|&nicovideo(http://www.nicovideo.jp/watch/sm15597036)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm16275729)|&nicovideo(http://www.nicovideo.jp/watch/sm16685902)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm17702115)|&nicovideo(http://www.nicovideo.jp/watch/sm17779764)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm20688147)|&nicovideo(http://www.nicovideo.jp/watch/sm21957588)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm22816346)|&nicovideo(http://www.nicovideo.jp/watch/sm23469172)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm24226913)|&nicovideo(http://www.nicovideo.jp/watch/sm25131336)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm25392677)|&nicovideo(http://www.nicovideo.jp/watch/sm26169031)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm26992982)|&nicovideo(http://www.nicovideo.jp/watch/sm28197811)|
+|&nicovideo(https://www.nicovideo.jp/watch/sm29514924)|&nicovideo(https://www.nicovideo.jp/watch/sm36783926)|
+|&nicovideo(https://www.nicovideo.jp/watch/sm37728658)||
+
+**コメント
+- 作成お疲れ様です＆ありがとうございます。vocandroidでハマりました。それ以降のカラフルなサムネも可愛いです。lumoさん応援しています！もっと評価されるといいな…  -- 名無しさん  (2012-05-14 17:19:12)
+- ハロウィンゴーストを勧められ、それでハマりました。逃避ケアやvocandroid、なくしものが好きです。lumoさん、これからも頑張ってください！  -- 名無しさん  (2012-05-22 23:38:00)
+- 独特な曲調といい、耳がリフレッシュされる感じが素敵！これからも応援します！  -- 黒葉  (2012-06-03 19:23:46)
+- もっと評価されるべきだと思う。  -- 名無しさん  (2012-06-27 16:23:08)
+- 逃避ケアすごい好きです  -- 名無しさん  (2012-09-14 18:39:51)
+- 特にネコンダクターが好き　もっと評価されてほしい  -- 劣化  (2012-10-29 18:35:50)
+- あれ埋もれてるorz vocandroidとか脳に響く感じが好き!!  -- 黒葉  (2013-01-24 10:38:21)
+- デンパラダイム最高！今日みた！  -- あいす  (2013-05-12 23:09:22)
+- 逃避ケアサイコー!!!!!!!  -- ギル次郎  (2013-09-01 20:28:51)
+- なんで評価されないのだろう・・・  -- 名無しさん  (2013-09-08 06:50:17)
+- デンバラダイム大好きです!!!!!  -- 名無しさん  (2013-09-23 18:42:51)
+- もっとのびろーっ！  -- 名無しさん  (2014-05-04 09:03:49)
+- 頑張ってください！！！  -- 名無しさん  (2014-05-15 13:28:34)
+- 大好き！リバーサイドツリーハウス()  -- 名無しさん  (2014-11-26 20:59:17)
+- 大好きです!!  -- 名無しさん  (2015-08-30 20:51:26)
+- lumoさんが大好きです！( ´∀｀)  -- なむなむ  (2015-08-31 01:56:02)
+- リトルビットオトナヒットが伸びないのはおかしい  -- 名無しさん  (2016-12-08 15:03:14)
+- 新曲…  -- 名無しさん  (2017-11-16 00:44:30)
+- （「・ω・）「  -- 名無しさん  (2022-11-13 19:11:08)
+- 大好きです！！！！！  -- 名無しさん  (2022-11-15 01:48:24)
+- 楽曲一覧に「nih_wot」が入っていません。https://www.youtube.com/watch?v=5oxvd4-nFFw    -- 名無しさん  (2023-05-02 20:20:57)
+- https://www.youtube.com/channel/UCIyhik4KueLpDtT03S6j92A/ youtubeにこのようなチャンネルがありました。  -- 2023-05-02 20:20:57  (2023-05-02 20:22:53)
+#comment()

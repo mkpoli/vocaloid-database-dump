@@ -1,0 +1,26 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/31194668" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/31194668">【ニコニコ動画】作ってしまった子達 　by95割P</a>)
+
+**特徴
+-悲しげな曲調と今にも泣き出しそうなミクの調教を得意とする
+-未だ投稿作品は2曲だが、どちらも「もっと評価されるべき」のタグがつく、これからが期待されるP
+-2作目の「[[obstacle]]」の説明文から95割Pのタグをつけられ、2012年4月7日それを本人がタグロックしてP名が確定した
+-ブログやツイッターでP名の決定を公表したことによって正式なP名となった
+-現在高校３年生で現在ピアノ歴は11年（間に2年のブランク含む）
+
+**リンク
+-[[95割引（作者ブログ）>>http://ameblo.jp/fu-min39/]]
+-[[twitter>>https://twitter.com/96umineko]]
+-[[PIAPRO>>http://piapro.jp/turtle0209]]
+
+**曲
+#list_by_tag(95割P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(95割PCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm17376806)|&nicovideo(sm17467620)|
+
+**コメント
+#comment()

@@ -1,0 +1,32 @@
+#right(){&furigana(きみがそばにいるように　ぼくらのつづき)&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1025_20120319013759_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[meteor>meteor/CD]]|CENTER:&bold(){君がそばにいるように / 僕らのつづき}|CENTER:-|
+
+|&bold(){[[じょん]]}|
+
+発売：2012年3月29日
+価格：￥600 / 1曲￥150
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：SOE
+
+**CD紹介
+-『[[メテオ>メテオ/CD]]』に続く、配信作品第2弾。
+-「[[君がそばにいるように]]」と「[[僕らのつづき]]」の両A面シングル。
+-じょん氏&柊優花氏による歌ってみたカバーも収録。
+-KARENTレーベルのバラード特集で配信された作品の1つ。
+
+**曲目
++[[君がそばにいるように]] （feat. 初音ミク）
++[[僕らのつづき]] （feat. 初音ミク）
++君がそばにいるように （feat. じょん）
++僕らのつづき （feat. 柊優花）
+
+**リンク
+-[[KARENT：「君がそばにいるように / 僕らのつづき」>>http://karent.jp/album/1025]]
+-[[KARENT：「The Ballad Music」特集ページ>>http://karent.jp/special/ballad12]]
+
+**コメント
+#comment()

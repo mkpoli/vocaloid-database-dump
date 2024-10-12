@@ -1,0 +1,40 @@
+#right(){&furigana(けっかんしょうじょしゅうかい) &furigana()【登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186120439.jpg)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm17557343)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){欠陥少女集会}|CENTER:-|
+
+|&bold(){[[ひとひとP]]}|
+
+|流通|CENTER:即売|
+|発売|CENTER:2012年4月28日・29日|
+|価格|CENTER:￥1,000（税込）|
+|サークル|CENTER:[story's] |
+
+**CD紹介
+-ひとひとPの1stフルアルバム。
+-デビュー作にして殿堂入り作となった「[[盲目少女暗闇生存中]]」を筆頭に、これまでにリリースした楽曲・新曲を加えた全11曲を収録。
+-ジャケットイラストは まりる氏 が手掛ける。
+-THE VOC@LOiD 超 M@STER 20（超ボーマス）にてリリース。
+
+**曲目
++パラレルワールド
++[[盲目少女暗闇生存中]]
++[[知らない少女は思考する]]
++座る少女と立つ少女
++忘却少女と記憶の欠片
++[[幽体少女天国へ昇る]]
++[[口無少女とおもちゃ箱]]
++幻覚少女と神様の言葉
++[[失聴少女と孤独な音]]
++[[欠陥少女集会]]
++盲目少女暗闇生存中（リンver.）
+
+**リンク
+-[[Twitter>>http://twitter.com/aki1385]]
+
+**コメント
+#comment

@@ -1,0 +1,56 @@
+#right(){&furigana(つきのうた1)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+#ref(http://www.vocalomakets.com/yukari_CD/001/image/jacket.png,width=300,height=300)
+
+
+|&nicovideo(http://www.nicovideo.jp/watch/sm17573882)|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){月の詩 Ⅰ -ツキノウタ-}|CENTER:[[月の詩 Ⅱ -ツキノウタ-]]|
+
+|&bold(){[[Bumpyうるし]]}|[[かごめP]]|[[azuma]]|[[Kouhei（K's Sound Project）]]|[[ちょむP]]|[[osu]]|[[喜兵衛]]|[[くらげP]]|
+|[[アキバヲタP]]|[[デッドボールP]]|[[ぺぺろんP]]|[[ぱやP]]|[[Dixie Flatline]]|[[キャプテンミライ]]|[[にいとP]]|>|
+
+|流通|CENTER:即売|
+|発売|CENTER:2012年4月28日・29日|
+|価格|CENTER:￥1,000（税込）|
+|サークル|CENTER:VOCALOMAKETS|
+
+**CD紹介
+-VOCALOMAKETSメンバー企画による結月ゆかりの公式コンピレーションアルバム第1弾！！
+-15名のボカロPによるバラエティー豊かな結月ゆかり曲を収録！！
+-ジャケットイラストは [[文倉十]]氏 が手掛ける。書き下ろしのフルカラージャケット＆ピクチャーレーベル仕様。
+-15名のイラストレーターによる結月ゆかりイラスト集、「[[月の夢 I - ツキノユメ ->>http://www.vocalomakets.com/yukari_illust/001/]]」と同時リリース。
+-THE VOC@LOiD 超 M@STER 20（超ボーマス）にてリリース。
+
+**曲目
++[[夢魅鳥]]　/　azuma
++[[Tiny PaRadisE]]　/　かごめP
++[[vis]]　/　Kouhei
++レヴァルシー　/　ちょむP
++[[屈服と怠惰]]　/　osu
++[[ゲダツセンセイション]]　/　デッドボールP
++[[論殺]]　/　アキバヲタP
++言葉の雫　/　ぱやP
++[[紲月歌]]　/　Bumpyうるし
++鈍色のアポカリプス　/　Dixie Flatline
++[[絶対BINKAN地帯]]　/　キャプテンミライ
++[[つよがり>つよがり/喜兵衛]]　/　喜兵衛
++cold prayer　/　ぺぺろんP
++[[恥ずかしいほどのラブソングを君に]]　/　にいとP
++[[ぼくらのマーチ]]　/　くらげP
+
+**リンク
+-[[特設ページ>>http://www.vocalomakets.com/yukari_CD/001/]]
+
+**コメント
+- めっちゃ豪華！！  -- 名無しさん  (2013-04-14 14:31:40)
+- 再販希望です！  -- 色  (2013-10-12 14:59:13)
+- 普通のCDでも販売して欲しいです！  -- 名無しさん  (2014-01-17 16:50:22)
+- 私も再販希望です！  -- ルピア  (2014-01-17 22:38:43)
+- スッゴいかっこいい( ´艸｀)  -- 花日  (2014-10-01 11:03:57)
+- 完成度は非常に高い。  -- takoruka2  (2015-02-27 01:00:07)
+#comment

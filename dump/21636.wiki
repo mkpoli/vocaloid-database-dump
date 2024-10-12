@@ -1,0 +1,45 @@
+#right(){&furigana(たっしゅつかたついかんはんへるにあP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/22941120" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/22941120">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-2010/10/09、「[[blue planet]]」にてボカロデビュー。
+-作る曲は主に疾走感溢れるVOCAROCK系サウンド。使用ボカロは今のところ、ミク・GUMI・リン・レン。
+-10作目の「[[文明開化の音がする]]」がスマッシュヒット。
+-親交のある、絵師の [[真理恵]]氏 が楽曲PVを手掛けている。
+-アーティスト名は &bold(){ヘルニア} 。
+
+**リンク
+-[[脱出型椎間板ヘルニアP（作者ホームページ）>>http://helnia.jimdo.com/]]
+-[[PIAPRO>>http://piapro.jp/tonfuu]]
+-[[Twitter>>http://twitter.com/helnia3]]
+-[[YouTube>>http://www.youtube.com/user/tom8995]]
+
+**曲
+#list_by_tag(脱出型椎間板ヘルニアP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(脱出型椎間板ヘルニアPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|>|BGCOLOR(#633):COLOR(#FFF):CENTER:&font(b,11pt){オリジナル曲}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm12371818)|&nicovideo(http://www.nicovideo.jp/watch/sm13207406)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm14166661)|&nicovideo(http://www.nicovideo.jp/watch/sm14457540)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm15372213)|&nicovideo(http://www.nicovideo.jp/watch/sm15962897)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm17375051)|&nicovideo(http://www.nicovideo.jp/watch/sm17375392)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm19029091)|&nicovideo(http://www.nicovideo.jp/watch/sm19891199)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm20623644)|&nicovideo(http://www.nicovideo.jp/watch/sm22193871)|
+
+**コメント
+//- 1げっと。
+- こんなにネ申曲多いのに俺が1コメ?www  -- かいざー  (2012-06-16 20:08:08)
+- オレも神曲ばかりだと思うぜ  -- 名無しさん  (2012-06-28 21:01:18)
+- ↑全力で同意  -- 名無しさん  (2012-07-12 22:33:48)
+- 大好きです!!　応援してます!!  -- 名無しさん  (2013-02-06 14:53:28)
+- 少年モラトリアムが1番好き！かっこいい  -- 名無しさん  (2013-02-16 15:18:22)
+- 久しぶりにきいてのめりこんでしまった・・・。大好きだ・・・！もっとのびてほしいｗｗ  -- s  (2013-03-03 15:59:23)
+- どれも隠れた神曲ばっかり！　どうして有名にならないんだろ？  -- ファン  (2014-04-03 12:03:06)
+- 大好きです！  -- 名無しさん  (2014-10-13 14:42:54)
+- 全曲もっと評価されるべきです！  -- 名無しさん  (2014-11-23 22:19:39)
+- なぜこんなにコメ少ない？神曲多いのに＼(゜ロ＼)(／ロ゜)／  -- 長音ユキ  (2014-12-26 15:33:02)
+- 本当に好き  -- アヴァロン  (2017-06-01 21:30:24)
+#comment()

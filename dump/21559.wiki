@@ -1,0 +1,42 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm17649003)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Super Gumix Illusion]]|CENTER:&bold(){Idle Declaration!!}|CENTER:[[Dream of Pearl]]|
+
+|&bold(){[[銀河方面P]]}|あきらめるP|
+
+|流通|CENTER:即売|
+|発売|CENTER:2012年4月28日・29日|
+|価格|CENTER:￥1,000（税込）|
+|サークル|CENTER:すたじお☆ぺぱーみんと|
+
+**CD紹介
+-銀河方面P の 2nd full album 。
+-初の殿堂入りを達成した「[[月・影・舞・華]]」を筆頭に、リアレンジ・リマスタリングされた既存曲＋新曲＋ボーナストラック3曲＋シークレットトラック（初回版）を加えた全14曲を収録。
+-タイトルの Idle Declaration!! は、気楽にゆったり聴けますよという意味といわゆる「アイドル」の両方をかけた意味でつけましたｗ(^q^)ｗ
+-収録曲の詳しい解説は[[作者ブログ>>http://ameblo.jp/studiopeppermint/archive1-201204.html]]にて。
+-ジャケットイラストは ゆきめぐ氏 が手掛ける。
+-THE VOC@LOiD 超 M@STER 20（超ボーマス） にてリリース。
+
+**曲目
++MIND NAVIGATOR
++[[光速☆Drive]] -ぱやぱやVersion-
++サ・ヨ・ナ・ラ
++[[恋は気まぐれイリュージョン！！]] -みくみくMix-
++[[月・影・舞・華]] -Album Version-
++[[I want ちゅっ！]] -Album Version-
++[[黄昏ゆく想い]]
++[[トゥインクル・スマイル]] -ぐみぐみMix-
++[[Pastel]] -Album Version-
++Stardust Fantasy
++（Bonus Track）月・影・舞・華 feat. 香咲
++（Bonus Track）銀河の片隅で feat. yuko
++（Bonus Track）Hi!Cast!（朝日放送で放送されたボカロジングル）
++（Secret Track）
+
+**リンク
+-[[銀河方面P@神野貴志（たかぴ）のブログ（作者ブログ）>>http://ameblo.jp/studiopeppermint/]]
+
+**コメント
+#comment

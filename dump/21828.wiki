@@ -1,0 +1,39 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo(sm11360884)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Life Is A Minestrone}|CENTER:[[Bedroom Pop N' Roll]]|
+
+|&bold(){[[liam>liam/作り手]]}|
+
+|流通|CENTER:即売|CENTER:委託|CENTER:配信|
+|発売|CENTER:2010年7月19日|CENTER:2010年8月||
+|価格|CENTER:￥1,000|CENTER:￥1,050（税込）|CENTER:￥500|
+|サークル|>|CENTER:No Money No Honey||
+
+**CD紹介
+-liam氏の1stアルバム。
+-歌モノにインスト3曲を織り交ぜた全9曲。
+-THE VOC@LOiD M@STER 13（ボーマス13）で頒布。
+-とらのあなで委託販売が行われていた。
+-bandcampとBOOTHでダウンロード販売が行われている。
+
+**曲目
++[[ファルセット942]]
++[[デイジー>デイジー/liam]]
++steps (instrumental)
++noon (instrumental)
++[[小指]]
++boxes (instrumental)
++[[フラクタル]]
++アイラブニューヨーク
++[[カリフォルニアのリア王]]
+
+**リンク
+-[[作者ブログ>>http://liaaaamm.blog.shinobi.jp/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0010/23/15/040010231544.html]]
+-[[bandcamp>>https://liam-kasahara.bandcamp.com/]]
+-[[BOOTH>>https://liam.booth.pm/]]
+
+**コメント
+#comment()

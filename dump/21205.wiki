@@ -1,0 +1,55 @@
+#right(){&furigana(VanFunFan)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm17474804)|
+//#ref(http://img.toranoana.jp/popup_img/04/0030/03/60/040030036052-1p.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[SnowLandscape]]|CENTER:&bold(){Van!Fun!Fan!}|CENTER:-|
+
+|&bold(){[[ta_ka]]}|[[dezzy>一億円P]]|[[イママP>yksb]]|[[アイ＄コン]]|[[ありえへんでP]]|[[ミツバチP]]|[[てぃあら]]|[[emon（Tes.）]]|
+|[[レアホースP]]|[[走（そう）P]]|[[えっちP]]|[[レヲン>フカクボリョウ]]|[[ジャムン]]|[[ジラートP]]|[[utml]]|>|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|CENTER:2012年4月28日・29日|CENTER:2012年4月30日|
+|価格|CENTER:￥1,000（税込）|CENTER:￥1,575（税込）|
+|サークル|>|CENTER:Aurore et Crepuscure|
+
+**CD紹介
+-フリーダムにしてカラフルな奴等でお送りする「作る人も聴く人も見る人も全ての人が楽しむ！」をコンセプトにしたコンピレーションアルバム。
+-書き下ろしの楽曲を全14曲収録。15曲目には てぃあら氏 の歌ってみたを収録。
+-ジャケットイラストは 夢双ゆち氏 が手掛ける。
+-マスタリングには、「やなぎなぎ」「supercell」を過去に手掛けたことのある 森崎雅人氏 を迎えている。
+-THE VOC@LOiD 超 M@STER 20（超ボーマス）にてリリース。
+
+**曲目
++[[リンレン宇宙盗賊団]] / dezzy feat. 鏡音リン・鏡音レン
++[[Kiss×Kiss]] / イママ feat. IA
++[[デッド・ゴッド・ワールド]] / アイ＄コン feat. 初音ミク
++ちゅ→とはんぱはイヤなのだっ！ / ami（ありえへんでP） feat. 初音ミク
++[[Vocaloider]] / ミツバチP feat. 巡音ルカ
++[[ゆめものがたり>ゆめものがたり/てぃあら]] / てぃあら with たしふん feat. GUMI
++Over -Van!Fun!Fan! ver.- / emon feat. 鏡音リン
++3ピース！ / レアホースP feat. 初音ミク
++[[go for walk]] / 走 feat. 巡音ルカ
++growing up / hr feat. GUMI
++bridge / レヲン feat. GUMI
++[[スケイプゴート]] / ジャムン feat. GUMI
++[[The pitiful egoist]] / ジラートP feat. Lily
++[[彩愛クレパス]] / utml feat. GUMI
++ゆめものがたり / てぃあら
+
+**リンク
+-[[特設サイト>>http://aurore-et-crepuscule.com/vanfunfan/]]
+//-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/03/60/040030036052.html]]
+
+**コメント
+- ありえへんでＰて  -- とある名無し  (2012-04-11 22:17:42)
+- ゆめものがたり違いますね…  -- 名無しさん  (2012-04-26 00:17:32)
+- リンレン宇宙海賊団...否、リンレン宇宙盗賊団　  -- 烏龍  (2012-11-11 18:29:01)
+- 特設サイトが間違っているようですね。直しました。  -- 名無しさん  (2013-08-05 21:27:28)
+- ジャケットが可愛い  -- 名無しさん  (2014-01-19 18:13:01)
+- 今更欲しい  -- 名無しさん  (2014-01-19 20:48:07)
+#comment()

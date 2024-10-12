@@ -1,0 +1,37 @@
+#right(){&furigana(きたのともとし)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion 
+&nicovideo_mylist(<iframe width="312" height="176" src="https://ext.nicovideo.jp/thumb_mylist/7553432" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/7553432">【ニコニコ動画】%E7%B5%B5%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E9%A0%82%E3%81%84%E3%81%9F%E5%8B%95%E7%94%BB%E6%A7%98%E3%82%BA</a></iframe>)
+
+**特徴
+作り手名：『&u(){北野友利}』（&u(){きたのともとし}）
+-&bold(){ゆーりん} こと &bold(){北乃友利}氏。
+--ニコニコ動画のタグでは「&u(){北乃友利＠ゆーりん}」「&u(){ゆーりん}」「&u(){ゆーりん（絵師）}」だったりとバラバラ。
+-名だたる鏡音廃絵師のひとり。
+-これまでに、[[悪ノP]]・[[オワタP]]・[[ゆにめもP]]等とコラボ。
+-特に、ゆにめもPとコラボした「悪マリン」シリーズは、強烈なインパクトを脳裏に焼き付ける。
+
+**リンク
+-[[作者サイト「HAPPY TOGETHER」>>https://www.ne.jp/asahi/happy/you-ring/]]
+-[[Pixiv>>https://www.pixiv.net/users/66962]]
+-[[PIAPRO>>https://piapro.jp/you_ring]]
+-[[Twitter>>https://twitter.com/you_ring]]
+
+**曲
+#list_by_tag(北乃友利＠ゆーりん,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(北乃友利＠ゆーりんCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm14731092)|&nicovideo(sm15255879)|
+
+**コメント
+- ゆーりんさん！  -- 名無しさん  (2012-05-13 13:50:41)
+- ゆーりんさんだああ！待ってました！＾＾  -- 名無し  (2012-05-21 13:07:21)
+- 大好きです!!  -- るて  (2012-05-24 22:13:05)
+- ゆーりんさんの絵は好きだなー  -- 翠雪  (2013-02-16 13:03:29)
+- ゆーりんさん愛してます！  -- 名無しさん  (2013-09-16 21:01:21)
+#comment()

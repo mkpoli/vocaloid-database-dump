@@ -1,0 +1,34 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1039_20120415151414_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[めたもる]]|CENTER:&bold(){Nyan Cat EX}|CENTER:[[CATS RULE THE WORLD>CATS RULE THE WORLD/CD]]|
+
+|&bold(){[[daniwell]]}|
+
+発売：2012年4月27日
+価格：￥600 / 1曲￥150
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：[[daniwell]]
+
+**CD紹介
+-daniwell氏の配信作品。
+-「Nyanyanyanyanyanyanya!」の桃音モモ（UTAU）版である「Nyan Cat」のリミックスなどを収録した作品。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++Nyan Cat EX （feat. 桃音モモ）
++[[Nyanyanyanyanyanyanya!]] EX （feat. 初音ミク）
++[[Error Propagation Plus]] （feat. 初音ミク）
++Linear Slope Plus （feat. 初音ミク）
+
+**動画
+|&nicovideo(sm17546264)|&nicovideo(sm17592564)|
+
+**リンク
+-[[作者サイト>>http://aidn.jp/]]
+-[[KARENT：「Nyan Cat EX」>>http://karent.jp/album/1039]]
+
+**コメント
+#comment()

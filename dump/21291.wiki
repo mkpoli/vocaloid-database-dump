@@ -1,0 +1,36 @@
+#right(){&furigana(あいあいDori-Ma) &furigana()【登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186119395.jpg,x=300,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm17548453)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){愛逢Dori-Ma}|CENTER:-|
+
+|&bold(){[[らいおお]]}|
+
+|流通|CENTER:即売|
+|発売|CENTER:2012年4月28日|
+|価格|CENTER:￥1,000（税込）|
+|サークル|CENTER:RaionSounds|
+
+**CD紹介
+-らいおお氏の1stアルバム。
+-デビュー作からこれまでにリリースした曲を全て再MIXし収録。全6曲。
+-ジャケットイラストは 手鞠氏 が手掛ける。書き下ろしのフルカラージャケット＆ピクチャーレーベル仕様。
+-THE VOC@LOiD 超 M@STER 20（超ボーマス）にてリリース。
+
+**曲目
++[[桜色シルエット]]
++[[猫舌クレイジー]]
++[[またあしたね…]]
++[[fake of love]]
++[[らびゅ＊らびゅ]]
++[[桃色バニラ]]
+
+**リンク
+-[[RaionSounds（作者ブログ）>>http://raioo.seesaa.net/]]
+-[[Twitter>>http://twitter.com/Raioo123]]
+
+**コメント
+#comment

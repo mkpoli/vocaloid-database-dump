@@ -1,0 +1,36 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/5183733" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/5183733">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-VOCALOID関連を中心に投稿している絵師・PV師。投稿者名は「ばたこ」。
+-実写的で柔らかいタッチで、表情豊かな絵に定評がある。
+-他のPとのコラボレーションをするなど精力的に活動している。
+
+**リンク
+-[[作者ブログ>>http://kyomo.blog.shinobi.jp/]]
+-[[Pixiv>>http://www.pixiv.net/member.php?id=205381]]
+-[[Twitter>>https://twitter.com/batako1_8]]
+
+**曲
+#list_by_tag(ひよこまんじゅうP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(ひよこまんじゅうPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm3212138)|&nicovideo(http://www.nicovideo.jp/watch/sm5986490)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm6388329)|&nicovideo(http://www.nicovideo.jp/watch/sm6606048)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm8636285)|&nicovideo(http://www.nicovideo.jp/watch/sm10200907)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm11040022)|&nicovideo(http://www.nicovideo.jp/watch/sm14700170)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm14835645)|&nicovideo(http://www.nicovideo.jp/watch/sm17574925)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm17989116)||
+
+
+
+**コメント
+- 色んなイラストを描けてうらやましいです。 &br()私もイラストを書くのが好きですが。 &br()魔女で一目惚れしました！ルカ可愛いなぁと、がっくんかっけえなぁと。 &br()私も貴方や他の色んなイラストレーターの方々のような素敵なイラストを描けるようにがんばります。 &br()長文、失礼しました。  -- らいらい  (2012-09-08 23:12:37)
+- ばたこさんだいすき！siGrE最高！！  -- 名無しさん  (2013-05-12 14:27:07)
+- ばたこさんの絵の表情好き。というか全部好き  -- 名無しさん  (2013-05-12 17:03:23)
+- ばたこさんの描くリンレンが一番すき。  -- 名無しさん  (2013-05-22 16:32:38)
+- ばたこさんの絵目当てで子供の絵本買ってしまった！！！ばたこさんらしい可愛らしくて優しい絵でした。  -- 名無しさん  (2013-08-15 16:03:38)
+#comment()

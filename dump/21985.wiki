@@ -1,0 +1,41 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://img.toranoana.jp/popup_img/04/0030/03/91/040030039130-1p.jpg)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm17567396)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[CATALOG/>CATALOG／]]|CENTER:&bold(){CATALOG//}|CENTER:[[KISS ME BABY!!! EP]]&br()[[カラココロ EP]]|
+
+|&bold(){[[ELEGUMI TOKYO]]}|[[ユミソラ]]|[[柾見ちえ]]|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2012年4月28日・29日|CENTER:2012年4月30日|
+|価格|CENTER:￥1,000（税込）|CENTER:￥1,500（税込）|
+|サークル|CENTER:ELEGUMI x colate x HOPE|CENTER:ELEGUMI TOKYO|
+
+**CD紹介
+>&bold(){この中一緒に入ってみる？}
+-ELEGUMI TOKYO氏 の 2nd album 。
+-[[ユミソラ]]氏 が作詞した「[[曖昧セルフィッシュ]]」を筆頭に、新曲などを加えた全10曲を収録。
+-ジャケットイラストは [[柾見ちえ]]氏 が手掛ける。
+-THE VOC@LOiD 超 M@STER 20（超ボーマス）にてリリース。
+
+**曲目
++Dimension3
++Sugary Fighter
++[[曖昧セルフィッシュ]]
++[[春色キャンディ]]
++姫様と魔法使い
++[[DICE]]
++[[ガラクタラジオ]]
++イノセント・マーチ
++[[39>39/ELEGUMI TOKYO]]
++39 -The ROCK!-
+
+**リンク
+-[[特設ページ>>http://catalog2.elegumi.com/]]
+
+**コメント
+//- 1コメゲット!!!
+- 期待してます!!!  -- 名無しさん  (2012-06-23 03:27:58)
+#comment()

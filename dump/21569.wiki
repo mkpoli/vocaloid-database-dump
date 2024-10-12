@@ -1,0 +1,49 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#ref(http://www.gcmstyle.com/90z/image/jyaketto_small.jpg)
+
+
+&nicovideo(http://www.nicovideo.jp/watch/sm17576606)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){THE GREATEST 90'z}|CENTER:-|
+
+|&bold(){[[アンメルツP]]}|[[ムスカP]]|[[れれれP]]|[[テラ小室P]]|[[muhmue]]|[[G@POPO]]|
+|[[takamatt]]|[[EHAMIC]]|[[あまみ]]|[[SHO（キセノンP）]]|[[yukki＃]]|[[あルカP]]|
+|[[キッドP]]|[[クリスタルP]]|[[残鏡P]]|[[シグナルP]]|||
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|CENTER:2012年4月28日・29日|CENTER:2012年4月28日|
+|価格|CENTER:￥1,000（税込）|CENTER:￥1,470（税込）|
+|サークル|CENTER:G.C.M Records・3レン腐|CENTER:G.C.M Records| 
+
+**CD紹介
+>&bold(){「あの日聴いたオンガクで、僕らはここにいる」 ───それは、自分のルーツへの挑戦。}
+-トレンディーでチョベリグな、90年代J-POP風ボカロ曲オムニバスCD。全13曲収録。
+-ジャケットイラストを アギ氏 が、アートワークを 猫凪みさお氏 が、マスタリングを [[シグナルP]] が手掛ける。
+-THE VOC@LOiD 超 M@STER 20（超ボーマス）にてリリース。
+
+**曲目
++platinum d∀nce -early 90'z RAVE MIX-　/　狐夢想 feat. 鏡音リン
++ラブソングは歌えない　/　れれれP feat. 鏡音レン
++[[leave for me]]　/　テラ小室P feat. 初音ミク
++[[Good day sunshine]]　/　muhmue feat. 鏡音リン
++Throw the DICE　/　G@POPO feat. 初音ミク
++ヨコハマガールズノンフィクション　/　takamatt feat. GUMI・鏡音レン
++1990s　/　EHAMIC feat. 結月ゆかり
++Primulight　/　あまみ feat. 鏡音リン
++[[片想い]]　/　キセノンP feat. GUMI
++ルナージュ　/　yukki＃ feat. 鏡音レン
++[[君に愛は届かないと知っていても]]　/　キッドP feat. 鏡音レン
++[[プリズム>プリズム/あルカP]]　/　M@SATOSHI feat. GUMI
++[[あの歌の続きを描くように]]　/　アンメルツP feat. 鏡音レン
+//
+//&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/31550926" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/31550926">【ニコニコ動画】</a></iframe>)
+
+**リンク
+-[[特設サイト>>http://www.gcmstyle.com/90z/]]
+
+**コメント
+- エハミックのゆかり曲がきわだってた  -- 名無しさん  (2012-05-08 18:38:08)
+- 今更だが俺の中ではハズレなしの神CD。でもゆかりさんが参加してたことに今気づいた  -- 名無しさん  (2012-08-17 15:34:57)
+- HPも懐かしい雰囲気でGood。まだBOOTHで買えるんだね  -- 名無しさん  (2016-09-01 23:42:44)
+#comment()

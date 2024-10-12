@@ -1,0 +1,41 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+
+|&nicovideo(http://www.nicovideo.jp/watch/sm17583834)|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[emonloid3]]|CENTER:&bold(){emonloid4}|CENTER:[[風町オリュンポス]]|
+
+|&bold(){[[emon（Tes.）]]}|[[Easy Pop]]|[[こみね]]|
+
+|流通|CENTER:即売|
+|発売|CENTER:2012年4月28日・29日|
+|価格|CENTER:￥1,000（税込）|
+|サークル|CENTER:イマエモン|
+
+**CD紹介
+-音楽グループ「Tes.」所属の emon氏 の 4thアルバム。
+-全て完全新作となる全9曲を収録。
+-8曲目は Easy Pop氏 による Remix 。9曲目は emon氏 自らが歌っている。
+-アートワークは [[こみね]]氏 が手掛ける。PVは 矛盾氏 。
+-THE VOC@LOiD 超 M@STER 20（超ボーマス）にてリリース。
+
+**曲目
++instruments
++[[shake it>shake it！]] feat. 初音ミク
++Leave me alone feat. 鏡音リン
++ぐるぐる回る feat. SeeU
++Dolls feat. 巡音ルカ
++[[さよならグライダー]] feat. IA
++友達 feat. 鏡音リン
++shake it -Easy Pop Remix- feat. 初音ミク
++さよならグライダー feat. emon
+
+//**リンク
+//-[[特設ページ>>]]
+
+**コメント
+- めっちゃよかった。ギターサウンドが多め  -- 名無しさん  (2012-04-30 22:24:32)
+- SeeUとかIAとか、初めて歌声聴いた。知らない間にえらい増えてるんだな、ボカロって  -- 名無しさん  (2012-05-18 17:03:50)
+- 個人的にさよならグライダーが好きです。  -- 晴れのち虹  (2013-05-13 18:41:48)
+- Shake  it! 　の楽譜が欲しい  -- 名無しさん  (2021-06-14 06:49:18)
+#comment()

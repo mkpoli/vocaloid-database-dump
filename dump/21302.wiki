@@ -1,0 +1,42 @@
+#right(){&furigana(あめだまとPerturbation) &furigana()【登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186127828.jpg,x=300,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm17560257)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){あめだまとPerturbation}|CENTER:-|
+
+|&bold(){[[クラムチャウダーP]]}|
+
+|流通|CENTER:即売|
+|発売|CENTER:2012年4月28日・29日|
+|価格|CENTER:￥1,000（税込）|
+|サークル|CENTER:クラムチャウダーInstitute|
+
+**CD紹介
+-クラムチャウダーPことsho_soar氏の1stアルバム。
+-デビュー作の「[[みらい平]]」から、これまでにリリースした楽曲に新曲を加えた、全11曲を収録。
+-タイトルの Perturbation とは、「心の動揺・狼狽・混乱」、天文学では「摂動」という意味。
+-ジャケットイラストは otohanon氏 が手掛ける。
+-THE VOC@LOiD 超 M@STER 20（超ボーマス）にてリリース。
+
+**曲目
++[[りんごアメ]]
++[[みらい平]]
++sweetened words, threatened world
++[[カンデラ]]
++ばんそーこの代わりに
++sweetСνλ
++[[クラウドチャンバー]]
++解毒のくすりとPerturbation
++Spiel
++みらい平（self cover）
++Candied our words
+
+**リンク
+-[[Twitter>>http://twitter.com/sho_soar]]
+
+**コメント
+- このCDとってもよかったです。一番好きなボカロＰさんです。クラムチャウダー中毒の解毒のくすりをください。  -- クラムチャウダー中毒  (2012-10-15 00:21:03)
+#comment
