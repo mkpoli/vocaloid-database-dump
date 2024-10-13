@@ -1,0 +1,38 @@
+#right(){&furigana(なみつみ)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/28140925" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/28140925">【ニコニコ動画】</a></iframe>)&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/31887584" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/31887584">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-2011年11月、 『[[Alter]]』 にてボカロデビュー。
+-使用ボカロは今のところ、miki・ミク・IA。
+-『[[ドリームリーカー]]』から &bold(){リーカーシリーズ} という物語音楽を展開中。
+
+**リンク
+-[[Twitter>>https://twitter.com/nami_tumi]]
+-[[PIAPRO>>http://piapro.jp/nami_tumi]]
+-[[pixiv>>http://www.pixiv.net/member.php?id=3828339]]
+
+**曲
+#list_by_tag(波摘,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(波摘CD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|>|BGCOLOR(#aa5580):COLOR(#FFF):CENTER:&font(b,11pt){リーカーシリーズ}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm17751587)|&nicovideo(http://www.nicovideo.jp/watch/sm18288792)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm19809755)|&nicovideo(http://www.nicovideo.jp/watch/sm21458735)|
+|>|BGCOLOR(#8d476a):COLOR(#FFF):CENTER:&font(b,11pt){その他のオリジナル曲}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm15795548)|&nicovideo(http://www.nicovideo.jp/watch/sm15850235)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm15987777)|&nicovideo(http://www.nicovideo.jp/watch/sm16030493)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm16417093)|&nicovideo(http://www.nicovideo.jp/watch/sm16483932)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm16593801)|&nicovideo(http://www.nicovideo.jp/watch/sm16773585)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm17247428)|&nicovideo(http://www.nicovideo.jp/watch/sm17311475)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm21011489)|>|
+
+**コメント
+- リーカーシリーズ楽しみにしてます!!早く続きが出ないかなぁ…♪  -- 九十九  (2013-11-20 16:46:37)
+- 迫力あっていい曲！可哀想な物語が心を引くね♪  -- ルナ  (2013-11-27 21:56:40)
+- リーカーシリーズ最高(≧▼≦)  -- 名無しさん  (2013-12-21 13:08:39)
+- クローンアルケー楽しみです。  -- 名無しさん  (2013-12-28 22:50:44)
+- 最近になってリーカーシリーズ知りました！どれもいい曲ですねー！  -- 若竹色  (2014-04-10 21:38:28)
+#comment()

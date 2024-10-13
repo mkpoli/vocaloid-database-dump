@@ -1,0 +1,41 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1404_20131209071237_0280_0280.jpg)
+
+&nicovideo(sm17564955)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Rebellion}|CENTER:[[Shooting starting over]]|
+
+|&bold(){[[yu-go]]}|式子|
+
+|流通|CENTER:即売|CENTER:配信|
+|発売|CENTER:2012年4月29日|CENTER:2014年1月30日|
+|価格|CENTER:￥1,000|CENTER:￥1,200 / 1曲￥150|
+|サークル|CENTER:walking barefoot||
+
+**CD紹介
+-yu-go氏の1stアルバム。
+-ルカオンリーのロックなアルバム。
+-Tr.10は[[やみくろ]]氏の楽曲のカバーで、この曲のみボーカルはリン。
+-イラストはあちこあこ氏とMIA氏が担当。
+-THE VOC@LOiD 超 M@STER 20（超ボーマス20）にて頒布。
+-2014年にはKARENTレーベルよりダウンロード販売が開始。巡音ルカ5周年記念企画で配信された作品の1つ。
+
+**曲目
++&nowiki(){-}prologue-(Instrumental) （feat. 巡音ルカ）
++BLACK RAIN （feat. 巡音ルカ）
++[[幻影パラノイド]] （feat. 巡音ルカ）
++After the rain （feat. 巡音ルカ）
++[[内気なジェイソンと優しい嘘]] （feat. 巡音ルカ）
++[[アイキズナ]] （feat. 巡音ルカ）
++[[ユメミトレイン]] （feat. 巡音ルカ）
++EMOTIONAL BATTLE DOME [feat. 破壊音マイコ] （feat. 巡音ルカ）
++[[CROSS LINE-epilogue-]] （feat. 巡音ルカ）
++[[トロイ]]（やみくろcover） （feat. 鏡音リン）
+
+**リンク
+-[[KARENT：「Rebellion」>>http://karent.jp/album/1404]]
+-[[KARENT：「巡音ルカ聖誕祭'14」特集ページ>>http://karent.jp/special/luka14]]
+
+**コメント
+#comment()

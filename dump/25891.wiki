@@ -1,0 +1,57 @@
+#right(){&furigana(のすたるしっくはれっと)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+//#ref(http://img.toranoana.jp/img/04/0030/13/60/040030136043-1.gif) 
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186122311.jpg,x=300,y=300)
+//&ref(http://nostalgicpallet.web.fc2.com/img/nostalgic.jpg,x=300,y=300)
+
+|BGCOLOR(#006ad5):COLOR(#FFF):CENTER:&font(b,11pt){　クロスフェード　}|
+|&nicovideo(sm21202733)|
+
+|BGCOLOR(#006ad5):COLOR(#FFF):CENTER:&font(b,11pt){　前作　}|BGCOLOR(#006ad5):COLOR(#FFF):CENTER:&font(b,11pt){　本作　}|BGCOLOR(#006ad5):COLOR(#FFF):CENTER:&font(b,11pt){　次作　}|
+|CENTER:-|CENTER:&bold(){ノスタルジックパレット}|CENTER:-|
+
+|[[MARUDARUMA]]|[[ぬゆり]]|[[きむた]]|[[いのっぴ]]|[[翁]]|[[こがねむし]]|
+|[[とんびP]]|[[波摘]]|[[さたな]]|[[KulfiQ]]|[[藤本薪]]|[[オセロP]]|
+
+|BGCOLOR(#006ad5):COLOR(#FFF):CENTER:&font(b,11pt){　流通　}|BGCOLOR(#006ad5):COLOR(#FFF):CENTER:&font(b,11pt){　即売　}|BGCOLOR(#006ad5):COLOR(#FFF):CENTER:&font(b,11pt){　委託　}|
+|BGCOLOR(#006ad5):COLOR(#FFF):CENTER:&font(b,11pt){　発売　}|CENTER:　2013年7月7日　||
+|BGCOLOR(#006ad5):COLOR(#FFF):CENTER:&font(b,11pt){　価格　}|CENTER:　￥1,000（税込）　|CENTER:　￥1,365（税込）　|
+|BGCOLOR(#006ad5):COLOR(#FFF):CENTER:&font(b,11pt){　サークル　}|>|CENTER:　108studio　|
+
+**CD紹介
+>&bold(){あの頃に置いてきた青春を、今ここに。}
+CD名：『&u(){ノスタルジックパレット}』
+-このCDの為に書き下ろされた、12人のクリエイター達の新曲を収録。
+-アートワークを 赤渕めがね氏 が、マスタリングを 友達募集P が、クロスフェード動画を [[すこっち]]氏 が手掛ける。
+-THE VOC@LOiD M@STER 25（ボーマス25）にてリリース。
+-とらのあなで委託販売が行われている。
+
+**曲目
+|BGCOLOR(#006ad5):COLOR(#FFF):CENTER:&font(b,11pt){　Track　}|BGCOLOR(#006ad5):COLOR(#FFF):CENTER:&font(b,11pt){　曲名　}|BGCOLOR(#006ad5):COLOR(#FFF):CENTER:&font(b,11pt){　楽曲制作者　}|
+|BGCOLOR(#006ad5):COLOR(#FFF):CENTER:&font(b,11pt){ 01 }|CENTER:だるまさんがころんだ|CENTER:MARUDARUMA|
+|BGCOLOR(#006ad5):COLOR(#FFF):CENTER:&font(b,11pt){ 02 }|CENTER:[[古臭い子供達]]|CENTER:ぬゆり|
+|BGCOLOR(#006ad5):COLOR(#FFF):CENTER:&font(b,11pt){ 03 }|CENTER:夕焼けラプソディー|CENTER:きむた|
+|BGCOLOR(#006ad5):COLOR(#FFF):CENTER:&font(b,11pt){ 04 }|CENTER:[[哀しみパレード]]|CENTER:いのっぴ|
+|BGCOLOR(#006ad5):COLOR(#FFF):CENTER:&font(b,11pt){ 05 }|CENTER:[[少年イデオロギー]]|CENTER:こがねむし|
+|BGCOLOR(#006ad5):COLOR(#FFF):CENTER:&font(b,11pt){ 06 }|CENTER:[[街燈とメリーゴーランド]]|CENTER:とんびP|
+|BGCOLOR(#006ad5):COLOR(#FFF):CENTER:&font(b,11pt){ 07 }|CENTER:そのアルバムを閉じて|CENTER:波摘|
+|BGCOLOR(#006ad5):COLOR(#FFF):CENTER:&font(b,11pt){ 08 }|CENTER:アナログ|CENTER:さたな|
+|BGCOLOR(#006ad5):COLOR(#FFF):CENTER:&font(b,11pt){ 09 }|CENTER:思い出前夜|CENTER:藤本薪|
+|BGCOLOR(#006ad5):COLOR(#FFF):CENTER:&font(b,11pt){ 10 }|CENTER:かすみ草|CENTER:オセロP|
+|BGCOLOR(#006ad5):COLOR(#FFF):CENTER:&font(b,11pt){ 11 }|CENTER:[[味の記憶]]|CENTER:翁|
+|BGCOLOR(#006ad5):COLOR(#FFF):CENTER:&font(b,11pt){ 12 }|CENTER:akane|CENTER:KulfiQ|
+
+**リンク
+-[[特設サイト>>http://nostalgicpallet.web.fc2.com/index.html]]
+//-[[とらのあな>>https://www.toranoana.jp/mailorder/article/04/0030/13/60/040030136043.html]]
+
+**コメント
+- 通販頼む  -- 名無しさん  (2013-06-21 00:57:33)
+- 同じく通販希望　amazon希望  -- 名無しさん  (2013-06-23 09:20:01)
+- 通販こないかな  -- 名無しさん  (2013-07-06 23:22:47)
+- ttp://p.tl/uMRi  -- 名無しさん  (2013-09-07 09:26:36)
+#comment()

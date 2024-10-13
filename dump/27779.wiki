@@ -1,0 +1,46 @@
+#right(){&furigana(いちおしどくりつせんそう)&furigana()【登録タグ:&tags() 】}
+//#ref(http://img.toranoana.jp/popup_img/04/0030/17/01/040030170140-1p.jpg,width=300,height=300)
+
+&ref(https://static.tumblr.com/546dac36bb65a18d7d68ccee7d719f69/z7zhr7s/rySmxztzn/tumblr_static_jacket_50.png,x=300,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm22478953)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[世迷言ユニバース>世迷言ユニバース/CD]]|CENTER:&bold(){イチオシ独立戦争}|CENTER:-|
+
+|&bold(){[[ゆうゆ]]}|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|CENTER:2013年12月31日|CENTER:CENTER:2014年1月上旬|
+|価格|CENTER:￥1,000（税込）|CENTER:￥1,457（税込）|
+|サークル|>|CENTER:ゆや。|
+
+**CD紹介
+>&bold(){攻撃的平和主義の僕たちへ。}
+>&bold(){無法音楽地帯の「今」を生き抜け―――。}
+-ゆうゆ氏 待望の、同人 5th album 。
+-「[[早退系ネガティブ天国]]」「[[アイマイ独立宣言]]」「[[夜行線上のフライト]]」「[[踊ル怪談ズ]]」に、新曲とインストを加えた全10曲を収録。
+-今回はジャケットイラストも ゆうゆ氏 お手製。
+-コミックマーケット85（C85）にてリリース。通販・書店委託も行われている。
+
+**曲目
++イチオシ独立戦争 feat. CUL
++[[踊ル怪談ズ]] feat. 鏡音リン
++[[早退系ネガティブ天国]] feat. 初音ミク
++擬態と醜態 feat. GUMI・初音ミク・CUL・IA
++[[アイマイ独立宣言]] feat. GUMI
++メテオライト・オーロラデイズ feat. 巡音ルカ
++竜と少女 feat. IA
++[[夜行線上のフライト]] feat. GUMI
++Sol-2413 feat. 初音ミク
++ifの終点（instrumental）
+
+**リンク
+-[[特設ページ>>http://ichioshi-wars.tumblr.com/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/17/01/040030170140.html]]
+
+**コメント
+- おおお！  -- 名無しさん  (2013-12-18 19:37:29)
+- ゆうゆさんのルカだと？！  -- 名無しさん  (2016-05-04 12:51:43)
+- 投稿されてない曲では「擬態と醜態」「竜と少女」が好き　動画で見たい  -- 名無しさん  (2020-04-18 14:31:35)
+#comment()

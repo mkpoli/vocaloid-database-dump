@@ -1,0 +1,30 @@
+#right(){&furigana(えんれん)&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1344_20130731205739_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Mile；Smile]]|CENTER:&bold(){遠恋}|CENTER:[[秋月賦]]|
+
+|&bold(){[[ルナ]]}|うにうに|
+
+発売：2013年8月23日
+価格：￥300 / 1曲￥150
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：flexin
+
+|&bold(){[[iTunes Storeで購入する>>https://itunes.apple.com/jp/album/distant-love-single/id689964484]]}|
+
+**CD紹介
+-海外ボカロP・ルナ氏の2曲入り配信シングル。
+-KARENTの初音ミク6周年記念企画で配信された作品の1つ。
+
+**曲目
++[[遠恋>遠恋（ミクへの恋文）]] （feat. 初音ミク）
++[[ラブ・ワンダー]] （feat. 初音ミク）
+
+**リンク
+-[[KARENT：「遠恋」>>http://karent.jp/album/1344]]
+-[[KARENT：「初音ミク 6th Anniversary」特集ページ>>http://karent.jp/special/miku13]]
+
+**コメント
+#comment()

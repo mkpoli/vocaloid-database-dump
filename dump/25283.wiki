@@ -1,0 +1,51 @@
+#right(){&furigana(ぼくとみんなとVOCALOID)&furigana()【登録タグ:&tags() 】}
+#ref(http://taskmusic.uijin.com/bmv.jpg)
+
+
+&nicovideo(http://www.nicovideo.jp/watch/sm20641035)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[ESPseries e.p.]]|CENTER:&bold(){僕とみんなとVOCALOID}|CENTER:-|
+
+|&bold(){[[Task>Task/作り手]]}|
+
+|流通|CENTER:即売|CENTER:委託|CENTER:配信|
+|発売|CENTER:2013年4月27日||CENTER:2013年12月11日|
+|価格|CENTER:￥1,000|CENTER:￥1,500（税込）|CENTER:￥1,200 / 1曲￥150|
+|サークル|CENTER:Speaker＆Pencil|||
+
+**CD紹介
+-Task氏 の 2nd album 。
+-みんなのおかげです。デラックスなCDになってくれました。（作者コメ転載）
+-ボカロ曲が7曲、歌い手とのコラボ曲が5曲の全12曲を収録。
+-アートワークは 繊川氏 が手掛ける。歌い手は クロダアミ氏・真氏・あらた氏・紗矢氏・ハヤシタケシ氏 の5人が参加。
+-THE VOC@LOiD 超 M@STER 24（超ボーマス2）にて頒布。
+-THREE!で委託販売が行われている。
+-KARENTレーベルよりダウンロード販売が行われている。LOVE特集で配信された作品の1つ。
+
+**曲目
++スイッチGO! ヒーロー feat. GUMI
++S.o.S feat. クロダアミ　
++[[ケイドロ]] feat. GUMI
++ホーネット feat. 真
++それ、すれ違い feat. 鏡音リン
++Coward Demon feat. あらた
++[[明けない夜を壊せ]] feat. GUMI
++[[ワールドダウン]] feat. VY1
++will be feat. 巡音ルカ
++いちにのさん feat. 紗矢
++緑のピックでかき鳴らせ feat. ハヤシタケシ
++Speaker＆Pencil feat. 初音ミク
+
+**リンク
+-[[特設ページ>>http://taskmusic.uijin.com/bmv.htm]]
+-[[THREE!>>http://www.lagoa.jp/shopdetail/006002000081/]]
+-[[KARENT：「僕とみんなとVOCALOID」>>http://karent.jp/album/1397]]
+-[[KARENT：「LOVE」特集ページ>>http://karent.jp/special/love13]]
+
+**コメント
+- taskさんほどもっと評価されるべきって思った人いない、CD通販したら絶対購入させて頂きます〜  -- 名無しさん  (2013-04-29 11:54:13)
+- とらのあな来ないかな  -- 名無しさん  (2013-04-30 21:58:52)
+- 欲しい！毎日特設サイトととらのあなをチェックしています…通販待ってます！！  -- 名無しさん  (2013-05-02 01:21:17)
+- 通販届いたー  -- 名無しさん  (2013-05-26 10:54:28)
+#comment()

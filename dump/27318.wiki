@@ -1,0 +1,94 @@
+#right(){&furigana(ろりPはおもしろくてかっこいいこんぴ)&furigana()【登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186131774.jpg,x=300,y=300)
+
+|BGCOLOR(#d52b80):COLOR(#FFF):CENTER:&font(b,11pt){　クロスフェード　}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm22228320)|
+
+|BGCOLOR(#d52b80):COLOR(#FFF):CENTER:&font(b,11pt){　前作　}|BGCOLOR(#d52b80):COLOR(#FFF):CENTER:&font(b,11pt){　本作　}|BGCOLOR(#d52b80):COLOR(#FFF):CENTER:&font(b,11pt){　次作　}|
+|CENTER:-|CENTER:&bold(){「ロリPは面白くてカッコいい！」コンピ}|CENTER:-|
+
+|[[redo>redo/作り手]]|[[前略P]]|[[アンビリカル244P]]|[[ジラートP]]|[[KulfiQ]]|[[村人P]]|[[sango]]|[[残響P]]|
+|[[きっきょん]]|[[mokemoke]]|[[yu-go]]|[[アナバ]]|[[夜鳴夜叉]]|[[しけもく>夜はこれから]]|[[ぴすたP]]|[[女帝P]]|
+|[[アキバヲタP]]|[[翁]]|[[noo]]|[[ヤヅキ]]|[[MARUDARUMA]]|[[Task>Task/作り手]]|[[樹人]]|[[YonoP]]|
+|[[融合P]]|[[成宮翔大]]|[[Neru]]|[[綾葉（爽P）]]|[[こがねむし]]|[[Eight]]|[[PIROPARU]]|[[ロリP]]|
+
+|BGCOLOR(#d52b80):COLOR(#FFF):CENTER:&font(b,11pt){　流通　}|BGCOLOR(#d52b80):COLOR(#FFF):CENTER:&font(b,11pt){　即売　}|
+|BGCOLOR(#d52b80):COLOR(#FFF):CENTER:&font(b,11pt){　発売　}|CENTER:　2013年11月17日　|
+|BGCOLOR(#d52b80):COLOR(#FFF):CENTER:&font(b,11pt){　価格　}|CENTER:　￥1,000（税込）　|
+|BGCOLOR(#d52b80):COLOR(#FFF):CENTER:&font(b,11pt){　サークル　}|CENTER:　ロリPは面白くてカッコ委員会　|
+
+**CD紹介
+>&bold(){世界初！ボカロPイメージソングアルバム！！}
+-[[PIROPARU氏の発言>>http://twitter.com/PIROPARU/status/355703372457836545]]を発端に作られた、前代未聞のボカロPイメージソングコンピ。
+-題名の通り、「[[ロリP]]は面白くてカッコいい」をコンセプトとした曲を全32曲収録。&bold(){なぜベストを尽くした。}
+-ジャケットイラストを[[多英子]]氏が、ロゴ・特設サイトデザインを荒木悟氏が、ジャケットデザインをNo.734氏が、動画をしけもく氏が手掛ける。
+-THE VOC@LOiD M@STER 27（ボーマス27）にてリリース。
+
+**曲目
+|BGCOLOR(#f1b8d5):COLOR(#FFF):CENTER:&font(b,11pt){　Track　}|BGCOLOR(#f1b8d5):COLOR(#FFF):CENTER:&font(b,11pt){　曲名　}|BGCOLOR(#f1b8d5):COLOR(#FFF):CENTER:&font(b,11pt){　楽曲制作者　}|
+|BGCOLOR(#f1b8d5):COLOR(#FFF):CENTER:&font(b,11pt){ 01 }|CENTER:LOL1-P|CENTER:redo|
+|BGCOLOR(#f1b8d5):COLOR(#FFF):CENTER:&font(b,11pt){ 02 }|CENTER:岸和田の母、よし江|CENTER:前略P feat. GUMI|
+|BGCOLOR(#f1b8d5):COLOR(#FFF):CENTER:&font(b,11pt){ 03 }|CENTER:ぴんくろーりぴー|CENTER:アンビリカル244P feat. GUMI|
+|BGCOLOR(#f1b8d5):COLOR(#FFF):CENTER:&font(b,11pt){ 04 }|CENTER:夢想世界のthely|CENTER:ジラートP feat. 初音ミク|
+|BGCOLOR(#f1b8d5):COLOR(#FFF):CENTER:&font(b,11pt){ 05 }|CENTER:はじめてのロリP|CENTER:KulfiQ feat. VY1|
+|BGCOLOR(#f1b8d5):COLOR(#FFF):CENTER:&font(b,11pt){ 06 }|CENTER:べ、別にロリPの為にやってあげるんじゃないんだからね！|CENTER:ラムネ feat. miki|
+|BGCOLOR(#f1b8d5):COLOR(#FFF):CENTER:&font(b,11pt){ 07 }|CENTER:[[皆に愛される「ロリP」とは]]|CENTER:sango feat. GUMI|
+|BGCOLOR(#f1b8d5):COLOR(#FFF):CENTER:&font(b,11pt){ 08 }|CENTER:ロリPのゲシュタルト崩壊|CENTER:残響P feat. GUMI|
+|BGCOLOR(#ea95bf):COLOR(#FFF):CENTER:&font(b,11pt){ 09 }|CENTER:[[Loneliness Piece]]|CENTER:きっきょん feat. 初音ミク|
+|BGCOLOR(#ea95bf):COLOR(#FFF):CENTER:&font(b,11pt){ 10 }|CENTER:ロリポリ運命線|CENTER:mokemoke feat. GUMI|
+|BGCOLOR(#ea95bf):COLOR(#FFF):CENTER:&font(b,11pt){ 11 }|CENTER:thely, Yes thely!!!|CENTER:yu-go feat. 初音ミク・巡音ルカ・鏡音リン・鏡音レン|
+|BGCOLOR(#ea95bf):COLOR(#FFF):CENTER:&font(b,11pt){ 12 }|CENTER:[[Lovely Thely]]|CENTER:アナバ feat. 初音ミク|
+|BGCOLOR(#ea95bf):COLOR(#FFF):CENTER:&font(b,11pt){ 13 }|CENTER:LoliP is...|CENTER:夜鳴夜叉 feat. 破壊音マイコ・GUMI|
+|BGCOLOR(#ea95bf):COLOR(#FFF):CENTER:&font(b,11pt){ 14 }|CENTER:[[究極幼聖ロリポップガール]]|CENTER:しけもく feat. 波音リツ・破壊音マイコ・初音ミク|
+|BGCOLOR(#ea95bf):COLOR(#FFF):CENTER:&font(b,11pt){ 15 }|CENTER:IT'S CAUSE I'M THELY SICK|CENTER:ぴすた feat. 鏡音リン|
+|BGCOLOR(#ea95bf):COLOR(#FFF):CENTER:&font(b,11pt){ 16 }|CENTER:楼璃妃～loli is mine～|CENTER:女帝P feat. 歌愛ユキ|
+|BGCOLOR(#e272aa):COLOR(#FFF):CENTER:&font(b,11pt){ 17 }|CENTER:Oh! More she roll cool take car kong eat|CENTER:アキバヲタP feat. 猫村いろは|
+|BGCOLOR(#e272aa):COLOR(#FFF):CENTER:&font(b,11pt){ 18 }|CENTER:怒りのロリPと静寂のロリP|CENTER:翁 feat. 結月ゆかり|
+|BGCOLOR(#e272aa):COLOR(#FFF):CENTER:&font(b,11pt){ 19 }|CENTER:きてるろりぴときてないぼくら|CENTER:noo|
+|BGCOLOR(#e272aa):COLOR(#FFF):CENTER:&font(b,11pt){ 20 }|CENTER:[[LoliP complex fake show]]|CENTER:ヤヅキ feat. 結月ゆかり|
+|BGCOLOR(#e272aa):COLOR(#FFF):CENTER:&font(b,11pt){ 21 }|CENTER:うなぎ|CENTER:MARUDARUMA feat. GUMI|
+|BGCOLOR(#e272aa):COLOR(#FFF):CENTER:&font(b,11pt){ 22 }|CENTER:リラリニセ|CENTER:Task feat. GUMI|
+|BGCOLOR(#e272aa):COLOR(#FFF):CENTER:&font(b,11pt){ 23 }|CENTER:芥|CENTER:樹人 feat. 初音ミク|
+|BGCOLOR(#e272aa):COLOR(#FFF):CENTER:&font(b,11pt){ 24 }|CENTER:霞んだ慟哭|CENTER:YonoP feat. 結月ゆかり|
+|BGCOLOR(#dc4e95):COLOR(#FFF):CENTER:&font(b,11pt){ 25 }|CENTER:おはよう、ロリP|CENTER:融合P feat. 鏡音リン|
+|BGCOLOR(#dc4e95):COLOR(#FFF):CENTER:&font(b,11pt){ 26 }|CENTER:Alone Repeat|CENTER:成宮翔大 feat. 鏡音レン|
+|BGCOLOR(#dc4e95):COLOR(#FFF):CENTER:&font(b,11pt){ 27 }|CENTER:2週間近く遅刻してすみません|CENTER:Neru feat. 鏡音リン|
+|BGCOLOR(#dc4e95):COLOR(#FFF):CENTER:&font(b,11pt){ 28 }|CENTER:[[1211]]|CENTER:綾葉 feat. GUMI|
+|BGCOLOR(#dc4e95):COLOR(#FFF):CENTER:&font(b,11pt){ 29 }|CENTER:惑星ロリータ|CENTER:こがねむし feat. 初音ミク|
+|BGCOLOR(#dc4e95):COLOR(#FFF):CENTER:&font(b,11pt){ 30 }|CENTER:僕らの全知全能概念|CENTER:Eight feat. 初音ミク|
+|BGCOLOR(#dc4e95):COLOR(#FFF):CENTER:&font(b,11pt){ 31 }|CENTER:ファニー・アンド・クール・ガイ|CENTER:PIROPARU feat. 結月ゆかり|
+|BGCOLOR(#dc4e95):COLOR(#FFF):CENTER:&font(b,11pt){ 32 }|CENTER:毎日誕生日がきてるから|CENTER:ロリP feat. GUMI|
+
+**リンク
+-[[特設サイト>>http://lolip.net/]]
+-[[CD企画書>>http://piroparu.com/lolipcomp.pdf]]
+
+**コメント
+- とりあえず完成…。間違い等あったら修正お願いします。  -- ページ製作者  (2013-11-10 23:31:45)
+- 細部の修正と色をロリPカラーっぽく変更してみた。  -- 四葉  (2013-11-10 23:33:12)
+- ロリP愛されすぎだろｗｗｗｗ大好きですｗｗ  -- 名無しさん  (2013-11-11 00:13:02)
+- 本当に豪華だなwwwそしてやっすwwやすすぎwww  -- ちーかま  (2013-11-11 00:25:46)
+- えええええwwwなにこれすげぇwwwww  -- 名無しさん  (2013-11-11 01:51:48)
+- クッソワロタwwwwwwww  -- 名無しさん  (2013-11-11 07:53:24)
+- これすぐ売り切れそうで怖い  -- 名無しさん  (2013-11-11 12:32:49)
+- 企画がカオスなのに曲がガチすぎてやばいｗｗｗｗ　これは当日購入するよｗｗｗｗｗｗｗ  -- 名無しさん  (2013-11-11 13:12:02)
+- これ、通販ないのかな？めっちゃ欲しいんだけど  -- 名無しさん  (2013-11-11 19:06:44)
+- ↑会場のみの販売らしいから通販希望してもないかなと…  -- 名無しさん  (2013-11-11 20:50:45)
+- ↑ほんとだ、サイトにあいてあったね・・・。  -- 名無しさん  (2013-11-11 20:55:46)
+- 欲しい欲しい欲しい欲しい欲しい欲しい欲しい欲しい欲しい欲しい欲しい欲しい欲しい  -- 名無しさん  (2013-11-12 07:28:04)
+- こんなに沢山の人に曲を作ってもらって、ロリＰは本当に幸せ者だな。  -- 竜奇  (2013-11-12 09:24:33)
+- ダウンロード販売でいいから売ってくれ～  -- 名無しさん  (2013-11-12 10:09:28)
+- すごいCDだｗ欲しいｗでも会場行けない・・・  -- 名無しさん  (2013-11-12 16:45:12)
+- 通販すごく欲しい・・・  -- 名無しさん  (2013-11-12 18:47:06)
+- 曲数と値段の差がヤバイ。普通だったら二千円超えるのにｗ  -- 名無しさん  (2013-11-14 16:00:43)
+- いや、32曲って下手すりゃ三千円超えるでしょ( (；ﾟДﾟ) ) )   使用ボカロ(UTAU)もめちゃくちゃだな  -- 名無しさん  (2013-11-17 15:00:16)
+- こんだけいてLilyとIA、MAYUがいないのか・・・。  -- 名無しさん  (2013-11-17 16:33:58)
+- ロリP愛されてるｗｗｗｗ一曲一曲が短いから安いのかな？究極幼聖ロリポップガールとか短いし…。  -- 名無しさん  (2013-11-17 17:54:10)
+- Neruさんタイトルｗｗｗｗ吹いたｗｗｗ  -- 名無しさん  (2013-11-18 11:31:48)
+- 全曲大体2分以内くらいだけど全部良曲だったわ  -- 名無しさん  (2013-12-13 19:22:17)
+- Neruさん何があったんだろう…？  -- 頭家  (2014-08-17 14:16:21)
+- ↑×3  同じくww Neruさんさすがww  -- ひなたん  (2014-10-12 15:27:14)
+- ↑×30思ったwwwNeruさん遅刻て・・・www  -- >おかゆ  (2014-12-14 14:07:44)
+- 謎の豪華メンバー  -- 名無しさん  (2016-08-12 01:08:00)
+#comment()

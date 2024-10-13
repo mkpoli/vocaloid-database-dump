@@ -1,0 +1,54 @@
+#right(){&furigana(わんおほvol07)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+
+#amazon(B00DU9XO1K)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[未来光路>未来光路/CD]]|CENTER:&bold(){ワン☆オポ！vol.07}|CENTER:[[妄想性詰問症]]&br()[[すげえアプリ開発中]]|
+
+|&bold(){[[マイナスP]]}|&bold(){[[じーざすP]]}|
+
+||CENTER:即売|CENTER:委託|CENTER:配信|
+|発売|CENTER:2013年7月7日|CENTER:2013年7月|CENTER:2013年7月13日|
+|価格|CENTER:￥1,000|CENTER:￥1,350（税込・Amazon）&br()￥1,410（税込・とらのあな）|CENTER:￥1,500 / 1曲￥150|
+|サークル|>|>|CENTER:Wonderful★opportunity!|
+
+**CD紹介
+CD名：『&u(){ワン☆オポ！vol.07}』
+-[[マイナスP]]、[[じーざすP]]による同人サークル「Wonderful★Opportunity!（ワンダフル☆オポチュニティ！）」の8thCDアルバム。
+-「[[しんでしまうとはなさけない！]]」の続編となる楽曲や、[[VOCALENDAR>>http://vocalendar.jp/]]テーマ曲「未来光路」のリンレンバージョン等7曲+オフボーカルトラックを収録。
+-ジャケットイラストは[[SHARK]]（[[piapro>>https://piapro.jp/shark_a]]）氏が担当。
+-THE VOC@LOiD M@STER 25（ボーマス25）にて頒布される。
+-とらのあな、Amazonにて委託販売が、KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++[[ぼうけんのしょがきえました！]] / じーざすP feat. 鏡音リン&レン
++[[シューティングシューター]] / じーざすP feat. 鏡音リン&レン
++論理エラー / じーざすP feat. 鏡音リン&レン
++[[ドッペル押し問答]] / マイナスP feat. 鏡音リン
++蛾 -変身の理由- / マイナスP feat. 鏡音リン
++Sudden death / マイナスP feat. 鏡音リン
++[[未来光路]] -LR ver.- / マイナスP feat. 鏡音リン&レン
++ぼうけんのしょがきえました！（off vocal）
++シューティングシューター （off vocal）
++論理エラー （off vocal）
++ドッペル押し問答 （off vocal）
++蛾 -変身の理由- （off vocal）
++Sudden death （off vocal）
++未来光路 -LR ver.- （off vocal）
+
+**リンク
+-[[official website>>http://www.wan-opo.com/]]
+-[[Amazon>>http://www.amazon.co.jp/dp/B00DU9XO1K]]
+-[[KARENT：「ワン☆オポ!VOL.07」>>http://karent.jp/album/1322]]
+
+**コメント
+- おおお欲しい！  -- 名無しさん  (2013-07-02 18:24:22)
+- 最初の曲のタイトルがトラウマｗ  -- 名無しさん  (2013-07-03 00:30:38)
+- やべぇ…遅れた  -- 名無しさん  (2013-08-03 10:18:45)
+- めっちゃ欲しいわ  -- 名無しさん  (2013-10-01 18:36:03)
+- 超欲しい！！好きな曲ばっかり！！  -- リンリン廃ちゃん  (2014-11-23 18:55:53)
+#comment()

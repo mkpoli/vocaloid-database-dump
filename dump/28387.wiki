@@ -1,0 +1,45 @@
+#right(){&furigana(そうてんふぁんたじあ)&furigana()【登録タグ:&tags() 】}
+
+&ref(https://booth.pximg.net/f1951d94-6fa4-493b-bb9f-708e4719ebeb/i/155188/e4499eec-e499-4d35-8f0e-d0c9b5d8e9ea_base_resized.jpg,x=300,y=300)
+
+|&nicovideo(sm22818737)|&youtube(https://youtu.be/QYGhT0bFV3U){330,247}|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[13ROCK]]|CENTER:&bold(){蒼天ファンタジア}|CENTER:[[創造アルティメット]]|
+
+|&bold(){[[傘音]]}|
+
+発売：2014年3月2日
+価格：￥1,500（税込） 頒布価格 :　￥ 1,000（税込）
+流通：即売　同人　配信
+
+**CD紹介
+-傘音2nd Album『蒼天ファンタジア』(初音ミク　GUMI ZOLA PROJECT)
+-連載漫画のイメージソングコラボ「脳内インセプション」「ロールプレイング勇者」「ほしのかけら」、純愛シリーズ三部作「最終列車」「粉雪」に続く最終章「終わりから始まる物語」など収録。
+-二人の愛や絆などにスポットをあてたテーマが多く、サウンドも前回のアルバム「13ROCK」のROCK色から、アコースティックやPOPさの際立った爽快な作品に仕上がりました。 Tr12では自身でコーラスにも挑戦。
+-JOYSOUND SHOPPING MALLにて委託販売中
+-CDジャケットは桜木蓮が手がける
+
+**曲目
++[[脳内インセプション]]
++[[はっぴーえんどれす♪]]
++[[最終列車>最終列車/傘音]]
++[[Feel wind]]
++[[愛ファンタジー]]
++[[光の射す場所へ]]
++[[ロールプレイング勇者]]
++[[ほしのかけら]]
++[[棘と僕]]
++[[世界へ送るレクイエム]]
++[[粉雪>粉雪/傘音]]
++[[終わりから始まる物語]]
+
+
+**リンク
+-[[CD『蒼天ファンタジア』通販>>http://mstore.utasuki.jp/utasuki/html/kasane.html]]
+-[[着うた(ドワンゴ)>>http://pc.dwango.jp/searches/artist/%E5%82%98%E9%9F%B3]]
+-[[BOOTH>>https://booth.pm/ja/items/155188]]
+-[[iTunes>>https://music.apple.com/jp/album/%E8%92%BC%E5%A4%A9%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%82%A2-feat-gumi-zora-project-ep/975800442]]
+
+**コメント
+#comment()

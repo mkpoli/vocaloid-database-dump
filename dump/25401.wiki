@@ -1,0 +1,40 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm19565241)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Color Play}|CENTER:[[Shadow Play]]|
+
+|&bold(){[[Diarays]]}|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2012年12月12日||
+|価格|CENTER:￥1,000（税込）||
+|サークル|CENTER:Diarays||
+
+**CD紹介
+>&bold(){what color do you want to be dyed?}
+-3人組音楽ユニット Diarays の 1stアルバム。
+-処女作から今までリリースした既存曲に書き下ろしの新曲を加えた全8曲を収録。
+-アートワークは [[ひなのすけ]]氏 が手掛けている。
+-現在、とらのあなとAmazonで通販が行われている。
+
+**曲目
++[[「Adam」]]―Color Play－
++[[リミテル感覚少年]] feat.IA 
++[[スイート・カタストロフィ]] feat.初音ミク
++[[紅音色]] feat.巡音ルカ
++リフライン feat.GUMI
++[[摘み色ギルティ]] feat.IA
++[[Miss&Kiss]] feat.IA・Lily
++[[「Ib」]] feat.IA
+
+**リンク
+-[[Twitter（コウ）>>http://twitter.com/kou_diarays]]
+-[[Twitter（rins）>>http://twitter.com/rins_diarays]]
+-[[Twitter（ショウタロス）>>http://twitter.com/sho_diarays]]
+
+**コメント
+- 追加乙！  -- 名無しさん  (2013-05-06 11:12:29)
+- コウさんすごいです!!いい曲ばかり…  -- 桃夏  (2013-05-21 08:45:28)
+- アクセリードはー？  -- 名無しさん  (2013-11-16 00:34:03)
+#comment()

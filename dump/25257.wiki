@@ -1,0 +1,46 @@
+#right(){&furigana(えんどけいぷ)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/28345594" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/28345594">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-歌詞・携帯小説・イラスト・脚本など書いたり描いたりしています。（作者ブログのプロフィールより転載）
+//14/08/08にてプロフ更新確認
+-VOCALOID曲については作詞提供を行っており、作曲に関しては他のボカロPとのコラボとなる。
+-[[mikumix>四次元P]]のメンバーの一人でもあり、代表曲は『[[LOL -lots of laugh-]]』の作詞。現在mikumixが活動停止をしており、mikumix関係に限らず作詞提供を行っている。
+-2013年4月28日に、『[[LOL -lots of laugh-]]』が[[ミリオン>曲一覧/ミリオン曲一覧]]を達成した。
+-VOCALOID以外の活動に関してはリンクにある、氏自身のブログやWikipedia等が詳しい。
+--現在は『プレバト!!』の影響によりバナナアートの方が有名かもしれない。
+
+**ミリオン達成状況
+|CENTER:&bold(){曲名}|CENTER:&bold(){100万再生}|CENTER:&bold(){備考}|
+|[[LOL -lots of laugh-]]|2013年4月28日|[[KeN>KeN/作り手]]氏との共作|
+
+**リンク
+//-[[サークルHP（mikumix）>>http://www.mikumix.com/]]
+//リンク切れのちに関係ないサイトとなっており、またサークルとしての活動が長期的に行われていないためコメントアウト
+-[[Twitter>>https://twitter.com/endcape]]
+-[[エンドケイプ・ほぼオンライン（氏自身のブログ/ameblo）>>http://ameblo.jp/endcape01/]]
+-[[Wikipedia：エンドケイプ>>http://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%B3%E3%83%89%E3%82%B1%E3%82%A4%E3%83%97]]
+
+**曲
+#list_by_tag(エンドケイプ,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(エンドケイプCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm8033594)|&nicovideo(sm15963259)|
+|&nicovideo(sm17428085)|&nicovideo(sm17650254)|
+|&nicovideo(sm17650473)|&nicovideo(sm20488354)|
+|&nicovideo(sm21282246)|&nicovideo(sm22208657)|
+|&nicovideo(sm23481884)|&nicovideo(sm25750215)|
+|&nicovideo(sm26314712)|&nicovideo(sm26721320)|
+
+
+//初音ミク曲「ロク・サン・ヨン」は現在動画削除(理由は不明で)(sm15167233)されているが、Amazon等で購入可能(http://www.amazon.co.jp/dp/B008RMHHTA)
+//
+**コメント
+- えるおーえる好き！  -- 名無しさん  (2014-03-15 18:33:07)
+- 作詞家のタグを追加しました  -- 名無しさん  (2015-02-08 21:22:18)
+- まさかのマ●コの知らない世界に出演してましたねｗ  -- 名無しさん  (2018-12-06 08:35:10)
+- 最近ではバナナアートの人として出てるよね  -- 名無しさん  (2024-05-01 21:39:20)
+#comment()

@@ -1,0 +1,252 @@
+#right(){&furigana(MusicWizardofOZ)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm22857280)|&youtube(https://www.youtube.com/watch?v=IEMDJfIjge8){342,187}|
+作詞：[[OSTER project]]・Yip Harburg（エンディングテーマ「Somewhere over the rainbow」部分）
+作曲：[[OSTER project]]・Harold Arlen（エンディングテーマ「Somewhere over the rainbow」部分）
+編曲：[[OSTER project]]
+ギター：[[［TEST］]]
+ミックス：黒田かおり
+ミュージカルPV：Yおじさん
+照明プラン：うさぎ
+唄：[[初音ミクAppend>初音ミク]]・[[KAITO V3>KAITO]]・[[巡音ルカ]]・[[鏡音リンAppend>鏡音リン・レン]]・[[鏡音レンAppend>鏡音リン・レン]]・[[GUMI V3>Megpoid]]・[[MEIKO]]
+
+**曲紹介
+>&bold(){＼心配ナイサァァァァ／}
+曲名：『&u(){Music Wizard of OZ}』
+-Alice in Musiclandから2年半…、オズの魔法使いを題材にした新作VOCALOIDミュージカルいよいよ開演です！家族揃ってお楽しみください。
+-「[[Alice in Musicland]]」に続くVOCALOIDミュージカル第2弾。題材は「オズの魔法使い」。
+//-ミュージカルPVをYおじさん氏 が、ギターを[[［TEST］]]氏 が、照明プランをうさぎ氏 が、ミックスを黒田かおり氏 が手掛ける。
+
+**配役
+-&color(deepskyblue){ミク　「Dorothy」}
+-&color(darkblue){KAITO　「Searecrow」}
+-&color(HotPink){ルカ　「Tin Robot」}
+-&color(Gold){リン}&color(orangered){＆}&color(darkorange){レン}　&color(orangered){「}&color(Gold){Lion }&color(darkorange){Twins}&color(orangered){」}
+-&color(limegreen){GUMI　「Music Wizard」}
+-&color(Crimson){MEIKO　「Witch of the West」}
+
+**歌詞
+（導入部及び（）内以外、[[作者サイト>>https://fuwafuwacinnamon.sakura.ne.jp/music/oz.html]]より転載）
+
+　&italic(){あるところにドロシーという少女がおりました。}
+　&italic(){幼いころに両親を亡くしたドロシーは、}
+　&italic(){叔父と叔母との退屈な生活に飽き飽きしていました。}
+　&italic(){いつしか彼女は夢見ていたのです。}
+　&italic(){不思議の国で冒険する自分の姿を…}
+
+&bold(){「Prelude」}（All）
+果てしなく広がるこの空の下
+僕らを導くのはあのメロディー
+遥かなる時間を越えて繋がる
+どんなときも心は覚えているから
+
+&bold(){「One Ordinary Day」}（&color(deepskyblue){Dorothy}）
+&color(deepskyblue){いつものように目が覚めると　いつものように鶏にエサをあげるの}
+&color(deepskyblue){いつものように焦げたトーストと　}
+&color(deepskyblue){いつものように叔母さんガミガミ叔父さんブツブツ　もうたくさんよ}
+&color(deepskyblue){ああ私だっていつか　絵本みたいな冒険がしてみたいの}
+&color(deepskyblue){悪い魔女とか魔法使いとか　考えるだけでゾクゾクしちゃう}
+&color(deepskyblue){ああこのままどこかへ飛んで行きたいわ}
+&color(deepskyblue){竜巻とかで…… }
+
+&color(deepskyblue){（！？……キャー！！）}
+
+&bold(){「The Witch of the East is Dead!!」}（&color(deepskyblue){Dorothy}＆&color(dimgray){Munchikins}）
+&color(deepskyblue){気付けばそこは小人の国}
+&color(deepskyblue){何やらおしゃべりが聞こえるよ}
+
+&color(#ffe866){信じられない！　}&color(#ff99cc){今日はお祭りだ}
+&color(dimgray){東の魔女が死んだ！}
+
+&color(#7acc7a){意地悪で怖い魔女　}&color(#ff99cc){誰も逆らえやしない}
+&color(#db5872){隣の国の勇者様も　}&color(#ffa333){カエルに変えられ食べられた}
+&color(#ffe866){だけど突然}&color(#7acc7a){飛んできた　}&color(#ff99cc){家に潰され}&color(#db5872){ぺしゃんこ！}
+&color(dimgray){これじゃ魔法も使えやしないさ　東の魔女が死んだ！}
+
+&color(deepskyblue){竜巻に乗って飛んできただけよ}
+&color(#ffe866){風の魔法使いに祝福を！}
+&color(deepskyblue){一体ここはどこなの？}
+&color(#ffe866){我らの救世主に}&color(#ff99cc){願いを叶える旅を}&color(dimgray){プレゼント}
+&color(deepskyblue){あの道を辿って }&color(dimgray){エメラルドの街へ}
+さあMusic Wizardの元へ！
+
+&color(deepskyblue){何やら迷い込んだ世界で始まる冒険}
+&color(deepskyblue){鍵盤の道を辿ってエメラルドの街へ行こう}
+
+&bold(){「Stupid Clown」}（&color(deepskyblue){Dorothy}&color(#1c9993){＆}&color(darkblue){Searecrow}）
+&color(deepskyblue){突然現れたカカシが歌い出す}
+&color(darkblue){みんながおいらをバカにするのさ}
+&color(deepskyblue){悩みがあるのなら聞いてあげるわ}
+&color(darkblue){何が？今日は良いお天気ですね}
+&color(deepskyblue){え？}
+&color(darkblue){三歩歩けば忘れちまう　知恵を持たないカカシなのさ}
+&color(darkblue){おかげでおいらはお笑い種の　いかれた道化さ}
+&color(darkblue){間抜けなピエロのサーカスだ　誰もが指差して笑う}
+&color(deepskyblue){それなら一緒に知恵を探しに行こう}
+&color(darkblue){どこへ？　}&color(deepskyblue){あの道を}&color(darkblue){辿って}
+&color(#1c9993){さあMusic Wizardの元へ！}
+
+&color(deepskyblue){お願いごとはなあに？}
+&color(darkblue){もちろん賢い頭脳さ}
+&color(#1c9993){さあ足取り軽やかにエメラルドの街へ行こう}
+
+&bold(){「Metallic Heart」}（&color(deepskyblue){Dorothy}&color(#1c9993){＆}&color(darkblue){Searecrow}＆&color(HotPink){Tin Robot}）
+&color(deepskyblue){突然現れたブリキのロボット}
+&color(darkblue){油を差したらゆっくりと踊りだして}
+&color(#1c9993){目からレーザービーム}
+&color(HotPink){プログラムされたダンスなら完璧に踊っているのに}
+&color(HotPink){あなたのダンスにはハートが無いって言われるの}
+
+&color(HotPink){デジタルの檻の中　与えられた言葉だけじゃ　分からない事ばかり}
+&color(HotPink){「ウレシイ」「カナシイ」「タノシイ」}
+
+&color(deepskyblue){それなら一緒に探しに行こう}&color(darkblue){君の心}
+&color(deepskyblue){なんだって願いを叶えてくれる}
+&color(HotPink){不思議なMusic Wizard！}
+
+&color(HotPink){デジタルの檻の外　鮮やかに彩る世界　この胸で感じたい}
+&color(HotPink){待ち遠しい私のMetallic Heart}
+&color(deepskyblue){あの道を辿って　}&color(HotPink){さあMusic Wizardの元へ！}
+
+&color(deepskyblue){お願いごとはなあに？}
+&color(darkblue){賢い頭脳と}&color(HotPink){心さ}
+&color(darkorchid){さあ歌声高らかに　エメラルドの街へ行こう}
+
+&bold(){「Vegetarian Twins」}（&color(deepskyblue){Dorothy}&color(darkorchid){＆}&color(darkblue){Searecrow}&color(darkorchid){＆}&color(HotPink){Tin Robot}＆&color(Gold){Lion }&color(darkorange){Twins}）
+&color(deepskyblue){ライオンだ！}&color(HotPink){（ひぃい…）}
+&color(darkblue){こっちを見てる…}
+&color(orangered){（うがぁう！）}
+&color(darkorchid){（キャー！！）}
+
+&color(Gold){聞いてくれオレたちの}&color(darkorange){悲しい物語}
+&color(Gold){ライオンなのに…}&color(darkorange){ライオンなのに…}
+&color(orangered){お肉が怖くて食べられない}
+&color(darkorchid){（えーっ！？）}
+
+&color(Gold){今日も狩りへ行くのさ}
+&color(darkorange){キャベツ にんじん ブロッコリー レタスにトマト}
+&color(Gold){立派な牙はあるのに　}&color(orangered){生まれてこのかたベジタリアン}
+
+&color(deepskyblue){朝ごはん }&color(darkorange){ごぼうサラダ　}&color(darkblue){昼ごはん }&color(Gold){ポテトサラダ}
+&color(HotPink){晩ごはん }&color(darkorange){ハンバーグ　}&color(orangered){中身はもちろん豆腐}
+
+&color(Gold){だけど友達には}&color(darkorange){バカにされているんだ}
+&color(Gold){勇気出してお肉も}&color(orangered){食べてみたい}
+
+&color(deepskyblue){それなら}&color(darkblue){勇気を}&color(darkorchid){探しに行こう}
+&color(deepskyblue){そしたらきっと食べられる}
+&color(darkorange){牛肉も}&color(darkblue){豚肉も}鶏肉も！
+
+&color(Gold){そして狩りへ行くのさ}
+&color(darkorange){焼肉 しゃぶしゃぶ 親子丼にビーフステーキ}
+&color(Gold){新たなメニュー求めて　旅に出るのさ}
+&color(#800080){あの道を辿って　}さあMusic Wizardの元へ！
+
+&color(deepskyblue){お願いごとはなあに？}
+&color(darkblue){頭脳と}&color(HotPink){心と}&color(orangered){勇気さ}
+さあみんな手を取り合って　エメラルドの街へ行こう
+
+&bold(){「Emerald Girl」}（&color(deepskyblue){Dorothy}＆&color(darkblue){Searecrow}＆&color(HotPink){Tin Robot}＆&color(orangered){Lion Twins}＆&color(limegreen){Music Wizard}）
+&color(limegreen){Emerald Girl　ようこそエメラルドの眩い光の街へ}
+&color(limegreen){すべてが輝き放つエメラルドさ}
+&color(limegreen){そしてこの私がエメラルドのMusicで奇跡を巻き起こす　Emerald Girl}
+&color(limegreen){エメラルドのPiano　エメラルドのSaxophone}
+&color(limegreen){エメラルドのGuitar　エメラルドのDrums}
+&color(limegreen){Ah 何ひとつ欠けてちゃ奇跡は起こせないの}
+&color(limegreen){何ひとつ欠けてちゃWizardになれない}
+
+&color(limegreen){盗まれたギターの旋律が叫んでいる　不完全な奇跡のMagic}
+&color(limegreen){お願いよ誰か取り戻して西の魔女から　魔法のギターを}
+
+それならば私たちが
+&color(darkblue){知恵を絞って}&color(orangered){勇気を出して}&color(HotPink){力の限り}
+魔法のギターを取り戻すため　西の魔女の元へ行こう
+
+
+&bold(){「Lonely Witch」}（&color(#d5ff00){Dorothy}＆&color(darkblue){Searecrow}＆&color(HotPink){Tin Robot}＆&color(#d5ff00){Lion Twins}＆&color(Crimson){Witch of the West}）
+西の砦に鳴り響くMusic
+憂いを写した孤独なギター
+
+&color(Crimson){I'm alone without you　一人きりのコンサートホール}
+さあPut your hands up　&color(Crimson){誰も聞いちゃいないのさ}
+Listen to my sounds　&color(Crimson){美しい音色が泣いている}
+Listen to my wish　&color(Crimson){分かち合えないものに意味などあるものか}
+Give me some friendship　&color(Crimson){Someone please listen to my sounds}
+
+それなら&color(darkblue){僕たちと一緒に}&color(HotPink){友達を探しに}&color(#d5ff00){行こうよMusic Wizardの元へ}
+&color(Crimson){一人では奇跡は起こせないから　}みんなで行こうエメラルドの街へ
+
+&bold(){「Our Music」}（&color(deepskyblue){Dorothy}＆&color(HotPink){Tin Robot}＆&color(maroon){Lion }&color(orangered){Twins}&color(#800080){＆}&color(darkblue){Searecrow}＆&color(Crimson){Witch of }&color(maroon){the West}＆&color(limegreen){Music Wizard}）
+さあ魔法のギターで&color(HotPink){僕らの}&color(purple){願いを}叶えて今
+
+&color(limegreen){ほら耳をすませば聞こえるでしょう}
+&color(limegreen){誰の中にも隠れてる魔法}
+&color(limegreen){誰もが生まれ持った喜びを}
+&color(limegreen){さあ呼び覚まして答えはそこにあるの}
+
+&color(darkblue){想いを唄に出来るのは　僕らが知恵を持っているから}
+&color(HotPink){好きな唄を口ずさむとワクワクするのは　僕らが心を持っているから}
+&color(orangered){大きな声をあげて唄を歌えるのは　僕らが勇気を持っているから}
+&color(Crimson){そして声を合わせて}喜びを分かち合える それが友達
+
+&color(deepskyblue){ありのままの自分の中に}&color(limegreen){息づいてる}
+&color(limegreen){大切なものを}&color(maroon){拾い上げて}&color(HotPink){気付かせてくれる}
+
+&color(#800080){それが奇跡 }それがMusic
+
+&color(limegreen){最後はあなたの願いを聞かせて}
+&color(limegreen){想いのままに夢を描いて}
+
+&bold(){「Dear my Family」}（&color(deepskyblue){Dorothy}＆&color(darkblue){Searecrow}＆&color(HotPink){Tin Robot}＆&color(Gold){Lion }&color(darkorange){Twins}＆&color(Crimson){Witch of the West}＆&color(limegreen){Music Wizard}）
+&color(deepskyblue){ねえ私気付いたの}
+&color(deepskyblue){ワクワクする冒険よりも　どんな素晴らしい夢よりも}
+&color(deepskyblue){かけがえのないものがあるの}
+&color(deepskyblue){憎たらしくなるときもあるけど　私の願いはただ一つ}
+&color(deepskyblue){家族に会いたい}
+
+&color(limegreen){あなたの愛したあの唄を}&color(HotPink){あなたの愛するあの人も}
+&color(Crimson){きっとどこかで口ずさんでいるから}&color(Gold){耳をすまして}
+私の愛するこの唄が私の愛するあの人と
+私をいつでも繋ぎ合わせている　魔法の絆
+
+&bold(){「Finale」}（All）
+果てしなく広がるこの空の下
+僕らを導くのはあのメロディー
+遥かなる時間を越えて繋がる
+どんなときも心は覚えているよ
+奇跡のMusic
+
+**コメント
+- おお！  -- 名無しさん  (2014-02-10 20:01:53)
+- 追加乙です！流石やなあ  -- 名無しさん  (2014-02-10 21:02:26)
+- 素晴らしい！！  -- 名無しさん  (2014-02-10 21:50:15)
+- 早い！！  -- 名無し  (2014-02-10 22:37:48)
+- 追加乙です！って、20分！？すげぇな・・・  -- かっ平  (2014-02-10 23:52:36)
+- 20分間分の歌詞……お疲れさまです！長いなって思ったけど聞いてみたらあっという間だったなぁ……曲もPVも素敵!!  -- 名無しさん  (2014-02-11 00:21:26)
+- 追加乙です 皆かわいいし面白くてあっという間だった  -- 名無しさん  (2014-02-11 01:02:41)
+- 素敵。ふわしなさん多才。  -- 名無しさん  (2014-02-11 23:31:09)
+- 素晴らしい！あっという間の20分間だった。そしてとうふの存在感ｗｗ  -- 名無しさん  (2014-02-12 01:11:58)
+- 追加乙です！！いい曲・・・  -- いあ  (2014-02-12 12:52:57)
+- 最高でした！！  -- 名無しさん  (2014-02-12 17:16:55)
+//- JOY SOUNDいけるかなぁ・・・ｗ  -- 名無しさん  (2014-02-12 19:40:55)
+- 前回以上のクオリティでまじぱない…何度も見ちゃう  -- 名無しさん  (2014-02-12 22:59:54)
+- ふわしなさん本当に引き出し多いよね。ミュージカルシリーズ大好きだわ  -- 名無しさん  (2014-02-13 15:43:22)
+- これも前回みたいにDVD化されてほしい!  -- 名無しさん  (2014-02-14 12:49:59)
+- 最後の英語もほしい・・・  -- 名無しさん  (2014-02-14 18:47:45)
+- ↑最後の曲は権利的な理由で載せられないと思う。有名な曲なのでgoogle検索で見つかるはず。  -- 名無しさん  (2014-02-15 00:25:24)
+- ものすごく感動しました！  -- 名無しさん  (2014-02-15 16:27:02)
+- 素晴らしい!!次が気になる!!  -- 名無しさん  (2014-02-16 18:24:25)
+- GUMIちゃんのドレスが急に変わるけど意味はないのかな？まあいいか(´・ω・｀)　いつ聴いてもいいねヽ(・∀・)ノ  -- 名無しさん  (2014-02-19 13:44:20)
+- だいすき！！ちょうすてき♥  -- 名無しさん  (2014-02-19 19:44:00)
+- 神すぎる！！！！！！  -- 名無しさん  (2014-02-27 00:26:08)
+- やべえ！ボカロではじめて泣いた！なにこれOSTERさんスゴすぎる心わしづかみ！！こんな素敵な音楽をありがとう！！幸せにしてくれてありがとう！！  -- 名無しさん  (2014-02-28 01:06:09)
+- 感動…っ！素晴らしい…(ノД`)  -- シープ  (2014-03-01 11:47:29)
+- 東の魔女が死んだ！ジャズ調でこんなこと歌われると笑ってしまう  -- 名無しさん  (2014-03-08 20:49:12)
+- かわいいっ！(*^^*)  この歌好きだわー  -- あひる  (2014-06-08 11:18:00)
+- 鶏は肉食わないと切実に思った  -- 名無しさん  (2014-09-30 13:42:19)
+- すごい！とても気に入りました！  -- カフェ俺  (2014-11-09 14:27:43)
+- ライオンのパートとエンディングソング　めっちゃいい  -- 鏡音七彩  (2016-01-30 11:26:12)
+#comment()

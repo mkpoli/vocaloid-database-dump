@@ -1,0 +1,56 @@
+#right(){&furigana(いたんSchool BAND)&furigana()【登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186122312.jpg,x=300,y=300)
+
+|BGCOLOR(#5f9ea0):COLOR(#FFF):CENTER:&font(b,11pt){　クロスフェード　}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm20623462)|
+
+|BGCOLOR(#ffb6c1):COLOR(#FFF):CENTER:&font(b,11pt){　前作　}|BGCOLOR(#5f9ea0):COLOR(#FFF):CENTER:&font(b,11pt){　本作　}|BGCOLOR(#ffb6c1):COLOR(#FFF):CENTER:&font(b,11pt){　次作　}|
+|CENTER:-|CENTER:&bold(){異端School BAND}|CENTER:-|
+
+|[[miro]]|[[きっきょん]]|[[脱出型椎間板ヘルニアP]]|[[YonoP]]|[[アンビリカル244P]]|[[ロリP]]|[[3396]]|
+|[[Task>Task/作り手]]|[[PIROPARU]]|[[多英子]]|[[MARUDARUMA]]|[[yu-go]]|[[コロイド]]|[[やまじ>LITCHI]]|
+
+|BGCOLOR(#5f9ea0):COLOR(#FFF):CENTER:&font(b,11pt){　流通　}|BGCOLOR(#ffb6c1):COLOR(#FFF):CENTER:&font(b,11pt){　即売　}|CENTER:委託|
+|BGCOLOR(#ffb6c1):COLOR(#FFF):CENTER:&font(b,11pt){　発売　}|CENTER:　2013年4月27日　||
+|BGCOLOR(#5f9ea0):COLOR(#FFF):CENTER:&font(b,11pt){　価格　}|CENTER:　1,000（税込）　|CENTER:￥1,500（税別）|
+|BGCOLOR(#ffb6c1):COLOR(#FFF):CENTER:&font(b,11pt){　サークル　}|>|CENTER:　異端コンピ　|
+
+**CD紹介
+>&bold(){13名のボカロPによる異端音楽}
+-バンドサウンドを軸にした、バラエティーに富んだ全13曲を収録。
+-ジャケットを 456氏 が、マスタリングを 友達募集P が、クロスフェード動画を 熊-kuma-氏 が、ナレーションを [[灯下はこ、]]氏 が手掛ける。
+-THE VOC@LOiD 超 M@STER 24（超ボーマス2）にてリリース。
+-とらのあなで委託販売が行われていた。
+
+**曲目
+|BGCOLOR(#5f9ea0):COLOR(#FFF):CENTER:&font(b,11pt){　Track　}|BGCOLOR(#ffb6c1):COLOR(#FFF):CENTER:&font(b,11pt){　曲名　}|BGCOLOR(#5f9ea0):COLOR(#FFF):CENTER:&font(b,11pt){　楽曲制作者　}|
+|BGCOLOR(#ffb6c1):COLOR(#FFF):CENTER:&font(b,11pt){ 01 }|CENTER:浮遊教室|CENTER:miro feat. GUMI|
+|BGCOLOR(#5f9ea0):COLOR(#FFF):CENTER:&font(b,11pt){ 02 }|CENTER:Re:verb|CENTER:きっきょん feat. 初音ミク|
+|BGCOLOR(#ffb6c1):COLOR(#FFF):CENTER:&font(b,11pt){ 03 }|CENTER:[[リアリティー]]|CENTER:脱出型椎間板ヘルニアP feat. GUMI|
+|BGCOLOR(#5f9ea0):COLOR(#FFF):CENTER:&font(b,11pt){ 04 }|CENTER:[[この椅子、だれの？]]|CENTER:YonoP feat. GUMI|
+|BGCOLOR(#ffb6c1):COLOR(#FFF):CENTER:&font(b,11pt){ 05 }|CENTER:放課後no理科室|CENTER:アンビリカル244P feat. GUMI|
+|BGCOLOR(#5f9ea0):COLOR(#FFF):CENTER:&font(b,11pt){ 06 }|CENTER:凡人の希望的観測|CENTER:ロリP feat. GUMI|
+|BGCOLOR(#ffb6c1):COLOR(#FFF):CENTER:&font(b,11pt){ 07 }|CENTER:砂漠のサカナと逆さバク|CENTER:3396 feat. 初音ミク|
+|BGCOLOR(#5f9ea0):COLOR(#FFF):CENTER:&font(b,11pt){ 08 }|CENTER:[[ケイドロ]]|CENTER:Task feat. GUMI|
+|BGCOLOR(#ffb6c1):COLOR(#FFF):CENTER:&font(b,11pt){ 09 }|CENTER:[[ライフモンタージャー]]|CENTER:PIROPARU feat. 初音ミク|
+|BGCOLOR(#5f9ea0):COLOR(#FFF):CENTER:&font(b,11pt){ 10 }|CENTER:近眼i子と生活|CENTER:コロイド feat. 初音ミク|　
+|BGCOLOR(#ffb6c1):COLOR(#FFF):CENTER:&font(b,11pt){ 11 }|CENTER:Sunflower|CENTER:yu-go feat. 巡音ルカ|　
+|BGCOLOR(#5f9ea0):COLOR(#FFF):CENTER:&font(b,11pt){ 12 }|CENTER:[[デッドレッドガールズ]]|CENTER:MARUDARUMA feat. GUMI|
+|BGCOLOR(#ffb6c1):COLOR(#FFF):CENTER:&font(b,11pt){ 13 }|CENTER:宣誓を君に|CENTER:やまじ feat. 鏡音リン|
+
+**リンク
+-[[特設サイト>>http://itancompi.xxxxxxxx.jp/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/11/96/040030119634.html]]
+
+**コメント
+- うわぁあ！！！  -- 名無しさん  (2013-04-16 23:35:42)
+- 好きな人ばっかなんだけどwwwロリPとか買うしかwww  -- 名無しさん  (2013-04-17 07:34:03)
+- こ、これはおれ特  -- 名無しさん  (2013-04-17 18:09:10)
+- 好きな人しかいない・・・！アンビリカルさん入ってるから買うしかない  -- 名無しさん  (2013-04-17 18:41:32)
+- 通販ないのかな。頼めばよかった・・・。  -- 名無しさん  (2013-04-28 12:29:47)
+- 好きな人ばっかだ　これ欲しいな  -- 名無しさん  (2013-05-10 20:13:20)
+- めちゃくちゃ良かった！！！  -- 名無しさん  (2013-06-27 10:58:20)
+- このCD良い・・・！！！凄い良い人ばっかりじゃないか  -- 名無しさん  (2014-11-10 18:15:30)
+- 浮遊教室の歌詞ないのか…いい曲なのに残念だドン(´・ω・｀)  -- にゃん  (2015-02-20 09:17:04)
+#comment()

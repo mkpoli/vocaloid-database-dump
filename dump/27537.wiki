@@ -1,0 +1,37 @@
+#right(){&furigana(ともだちにもどろう)&furigana()【登録タグ:&tags() 】}
+//|&ref(http://img.toranoana.jp/img/04/0030/16/20/040030162062-1.gif)&br()CD版ジャケット KAITOver.|&ref(http://img.toranoana.jp/img/04/0030/16/20/040030162062-2.gif)&br()CD版ジャケット レンver.|
+|&ref(https://www.suruga-ya.jp/database/pics/game/186131317.jpg,x=300,y=250)&br()CD版ジャケット KAITOver.|&ref(http://img.toranoana.jp/img/04/0030/16/20/040030162062-2.gif)&br()CD版ジャケット レンver.|
+|&ref(http://karent.jp/npdca/1381_20131021163143_0280_0280.jpg)&br()配信版ジャケット||
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[メニューは厳選された青いヤツにクリピィを添えて]]|CENTER:&bold(){トモダチに、戻ろう…？}|CENTER:[[彼方>彼方/クリスタルP]]|
+
+|&bold(){[[クリスタルP]]}|
+
+|流通|CENTER:即売|CENTER:委託|CENTER:配信|
+|発売|CENTER:2013年10月20日||CENTER:2013年11月8日|
+|価格|CENTER:￥500|CENTER:￥735（税込）|CENTER:￥600 / 1曲￥150|
+|サークル|CENTER:3レン腐|CENTER:zeghed Label (S-hybrid)||
+
+**CD紹介
+-クリスタルPのシングルCD。
+-KAITOとレンの兄弟デュオ2曲とKAITO（english）とOliverによる全英詩曲を収録。
+-ジャケットイラストはりり氏。
+-VOCALOID PARADISE 8（ボーパラ8）で初頒布。
+-とらのあなで委託販売が、KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++トモダチに、戻ろう…？ （feat. KAITO&鏡音レン）
++宇宙地図 （feat. KAITO&鏡音レン）
++Sea behind the Wall （feat. KAITO,Oliver）
++トモダチに、戻ろう…？ ～inst～
++宇宙地図 ～inst～
++Sea behind the Wall ～inst～
+
+**リンク
+-[[blog>>http://blog.k-kei.versus.jp/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/16/20/040030162062.html]]
+-[[KARENT：「トモダチに、戻ろう…？」>>http://karent.jp/album/1381]]
+
+**コメント
+#comment()

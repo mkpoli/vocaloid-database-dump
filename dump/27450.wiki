@@ -1,0 +1,59 @@
+#right(){&furigana()&furigana()【登録タグ:&tags()】}
+&nicovideo(http://www.nicovideo.jp/watch/sm22209834)
+作詞：[[たべっこ]]
+作曲：[[たべっこ]]
+編曲：rayn
+唄：初音ミク
+
+**曲紹介
+>&bold(){「これ以上、僕を壊さないで。」}
+>毎日を生きていて感じたことを歌にしました。
+-たべっこ氏のVOCALOID処女作。
+-Music & Lyric & Drums & Mix / たべっこ
+-Miku & Arrangement & Guitar & Bass / rayn
+-Movie / はなけん
+-Illust / せつか
+-Photograph / A.K.I
+
+**歌詞
+（動画より転載）
+
+誰だっていいさ　僕以外なら
+ただ　それだけ
+たとえば君が　消えたとしても
+ただ　それだけ
+
+No More the lie
+代わりなら　いくらでもいるさ
+No More the light
+僕に期待なんて　しないで
+No More the life
+全て背負ったって　潰れちゃう
+引き摺って　這いずって
+逃げる
+
+誰かのために　僕が傷つく
+それは　幸せ？
+誰かのために　僕を殺して
+ソレガ　シアワセ？
+
+（間奏）
+
+&italic(){誰も　僕の歌なんて　聞いちゃいないさ}
+&italic(){大きな大きな　僕の独り言}
+
+歪んだ空想に曲げられ　濁った眼で僕を見てる
+それすら君の言い訳だろう　本当は
+僕等が　そう望むから
+
+No More the lie
+硝子みたいに　すぐ壊れて
+No More the light
+触れちゃえば　消えそうで
+No More the life
+残るのは　空っぽの器だけ
+後悔など　崩壊してる
+叫べ
+
+**コメント
+#comment()

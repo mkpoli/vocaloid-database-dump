@@ -1,0 +1,42 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1336_20130729162957_0280_0280.jpg)
+
+&nicovideo(sm21521064)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Sunrise>Sunrise/CD]]|CENTER:&bold(){Reverberations}|CENTER:[[Tonality]]|
+
+|&bold(){[[Clean Tears]]}|[[海兎]]|
+
+|流通|CENTER:即売|CENTER:委託|CENTER:配信|
+|発売|CENTER:2013年8月12日|CENTER:2013年8月|CENTER:2013年8月21日|
+|価格|CENTER:￥1,000|CENTER:￥1,260（税込）|CENTER:￥1,200 / 1曲￥150|
+|サークル|>|>|CENTER:S.C.X|
+
+**CD紹介
+>君というReverberations
+>このWaveで動き出す世界
+-Clean Tears氏のVOCALOIDアルバム。
+-イラストを[[BEEK>>http://piapro.jp/waylon1211]]氏が担当。
+-コミックマーケット84（C84）で頒布。
+-各同人ショップで委託販売が、KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++Intro -Reverberations / 初音ミク
++[[Inverse Relation]] / 初音ミク
++Sunrise - IA Version Remix / IA
++Uncountable - Reverberations Remix / 初音ミク
++Last Recollection / 初音ミク
++Electric Adventure - Reverberations Remix / 初音ミク
++Reverberations / 初音ミク
++Inverse Relation - Radio Edit / 初音ミク
++Reverberations - Radio Edit / 初音ミク
+
+**リンク
+-[[サークルサイト>>http://scx-ct.net/]]
+-[[特設ページ>>http://scx-ct.net/sp/reverberations/]]
+-[[KARENT：「Reverberations」>>http://karent.jp/album/1336]]
+
+**コメント
+- Last Recollectionで鳥肌立った  -- 名無しさん  (2014-01-26 01:16:45)
+#comment()

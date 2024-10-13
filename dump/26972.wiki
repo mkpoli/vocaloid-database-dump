@@ -1,0 +1,18 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/5020169" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/5020169">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-戦前から戦後間もない頃までの昭和の名曲をカバーするP。
+-P名の由来は作曲家の古賀政男から。新しいボーカロイドを買った時は、必ず古賀政男の作品をカバーするのが恒例になっている。
+-使用するボーカロイドは、鏡音リン・レン、リン・レンAppend、初音ミク、ミクAppend、神威がくぽ、巡音ルカ、GUMI、miki、歌愛ユキ、氷山キヨテル、猫村いろは、&br()Mew、歌手音ピコ。
+-巡音ルカを使用した古賀政男のカバー曲「月の浜辺」で自身初の殿堂入りを達成した。
+
+**動画(再生数の多い順)
+|&nicovideo(http://www.nicovideo.jp/watch/sm6044481)|&nicovideo(http://www.nicovideo.jp/watch/sm6309767)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm2812844)|&nicovideo(http://www.nicovideo.jp/watch/sm4368355)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm5719578)|&nicovideo(http://www.nicovideo.jp/watch/sm6966819)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm9032727)|&nicovideo(http://www.nicovideo.jp/watch/sm6750547)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm3788761)|&nicovideo(http://www.nicovideo.jp/watch/sm2383250)|
+
+**コメント
+#comment()

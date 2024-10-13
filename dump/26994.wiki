@@ -1,0 +1,22 @@
+#right(){&furigana(はまむらP)&furigana()【登録タグ:&tags() 】}
+
+**特徴
+-惜しみないピアノ技術が詰め込まれた伴奏が特徴。
+-YouTubeで作曲・編曲活動しているhosnm4536氏と同一人物。
+-本人曰く、C.V.アルカンとF.リストを意識しているらしい。
+
+**リンク
+-[[作者ブログ>>http://gumiscore.blogspot.jp/]]
+-[[YouTube-hosnm4536>>http://www.youtube.com/user/hosnm4536]]
+
+**曲
+#list_by_tag(浜村P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(浜村PCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm21993061)|
+
+**コメント
+#comment()

@@ -1,0 +1,32 @@
+#right(){&furigana(おやかたP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/25445100" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/25445100">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-2011年5月、 『[[DreamGateを開くなら]]』 にてボカロデビュー。
+-使用ボカロは今のところ、いろは・ゆかり・ミク・galaco・ZOLA PROJECT。
+-弾いてみたからこの界隈に入り、カバー曲を経てボカロオリジナル曲を投稿するようになった。
+-アーティスト名は &bold(){nami} 。
+
+**リンク
+-[[Twitter>>http://twitter.com/nami13th]]
+-[[PIAPRO>>http://piapro.jp/nami13th]]
+
+**曲
+#list_by_tag(親方P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(親方PCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|>|BGCOLOR(#bf80ff):COLOR(#FFF):CENTER:&font(b,11pt){オリジナル曲}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm14622618)|&nicovideo(http://www.nicovideo.jp/watch/sm14575954)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm17948658)|&nicovideo(http://www.nicovideo.jp/watch/sm14963216)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm15952289)|&nicovideo(http://www.nicovideo.jp/watch/sm16753907)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm20937906)|&nicovideo(http://www.nicovideo.jp/watch/sm16496149)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm19782012)|&nicovideo(http://www.nicovideo.jp/watch/sm18641406)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm20503896)|&nicovideo(http://www.nicovideo.jp/watch/sm18554370)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm21084893)|&nicovideo(http://www.nicovideo.jp/watch/sm21251694)|
+
+**コメント
+- ｢シュヴァルツシルトの引力の檻｣が特に好きです。かっこいい……  -- 名無しさん  (2013-07-14 18:07:19)
+#comment()

@@ -1,0 +1,177 @@
+#right(){&furigana(はつねみく -Project DIVA- F Complete Collection)&furigana()【登録タグ:&tags() 】}
+#amazon(B00AQ3EP9I)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[初音ミク -Project DIVA- extend Complete Collection]]|CENTER:&bold(){初音ミク -Project DIVA- F Complete Collection}|CENTER:[[初音ミク -Project DIVA Arcade- Original Song Collection Vol.3]]|
+
+|[[doriko]]|[[ぶりるP]]|[[Junky]]|[[kz]]|[[八王子P]]|[[164]]|[[40㍍P]]|[[AVTechNO]]|
+|[[halyosy]]|[[OSTER project]]|[[黒うさP]]|[[くちばしP]]|[[shu-tP]]|[[蝶々P]]|[[じーざすP]]|[[テンネン]]|
+|[[ハチ]]|[[Mitchie M]]|[[ЯIRE]]|[[のぼる↑]]|[[Ultra-Noob]]|[[モジャP]]|[[wowaka]]|[[さつき が てんこもり]]|
+|[[yuukiss]]|[[daniwell]]|[[ryo]]|[[ゆうゆ]]|[[おにゅうP]]|[[ピノキオピー]]|[[ささくれP]]|[[cosMo（暴走P）]]|
+|[[Dixie Flatline]]|[[Neru]]|[[Nem]]|[[オワタP]]|[[杉の人]]|[[ika]]|[[Otomania]]||
+
+発売：2013年3月6日
+価格：￥3,150（通常盤・税込） / ￥3,780（初回盤・税込）
+流通：全国
+レーベル：ソニー・ミュージックダイレクト
+
+**CD紹介
+-PS Vita用ソフト『初音ミク-Project DIVA- f』及びPS3用ソフト『初音ミク-Project DIVA- F』の収録曲を収録したコンピレーション・アルバム。
+-通常盤は2CD+DVD。初回生産限定盤は2CD+特典CD+Blu-rayとなっている。さらに収録曲のイラストを掲載したスペシャルイラストブック、抽選で特典が当たるシリアル番号が付いたオフィシャルスペシャルカードを同梱、スペシャルBOX仕様。
+
+**曲目
+-Disc1
++[[キャットフード]] -Game Version- / [[doriko]]
++[[秘密警察]] -Game Version- / [[ぶりる>ぶりるP]]
++[[メランコリック]] / [[Junky]]
++[[Weekender Girl]] / [[kz（livetune）>kz]]×[[八王子P]]
++[[タイムマシン>タイムマシン/1640mP]] -Game Version- / 1640m（[[164]]×[[40mP>40㍍P]]）
++[[DYE>DYE/AVTechNO]] -Game Version- / [[AVTechNO!>AVTechNO]]
++[[Fire◎Flower]] -Game Version- / [[halyosy]]
++[[サマーアイドル]] -Game Version- / [[OSTER project]]
++[[ACUTE]] -Game Version- / [[黒うさP]]
++[[トリノコシティ]] / 40㍍P
++[[どういうことなの！？]] -Game Version- / [[くちばしP]]
++[[Stay with me>Stay with me/shu-tP]] -Game Version- / [[shu-t>shu-tP]]
++[[え？あぁ、そう。]] -Game Version- / [[蝶々P]]
++[[リモコン]] -Game Version- / [[じーざす（ワンダフル☆オポチュニティ！）>じーざすP]]
++[[ハイハハイニ]] -Game Version- / [[テンネン]]
++[[WORLD'S END UMBRELLA]] -Game Version- / [[ハチ]]
++[[FREELY TOMORROW]] / [[Mitchie M]]
++[[モノクロ∞ブルースカイ]] -Game Version- / [[のぼる↑]]
++[[MEGANE]] -Game Version- / Ultra-Noob
++[[鏡音八八花合戦]] / [[モジャP]]
++[[ワールズエンド・ダンスホール]] / [[wowaka>wowaka]]
+
+-Disc2
++[[ネトゲ廃人シュプレヒコール]] -Game Version- / [[さつき が てんこもり]]
++[[Nostalogic>Nostalogic (single edit)]] -Game Version- / [[yuukiss]]
++[[Nyanyanyanyanyanyanya!]] -Game Version- / [[daniwellP>daniwell]]
++[[アンハッピーリフレイン]] / wowaka
++[[ODDS&ENDS]] / [[ryo（supercell）>ryo]]
++[[天樂]] -Game Version- / [[ゆうゆ]]
++[[神曲>神曲/おにゅうP]] / [[おにゅうP]]
++[[ブラック★ロックシューター]] -Game Version- / ryo（supercell）
++[[ネガポジ*コンティニューズ]] -ShortCut Edit- / [[sasakure.UK>ささくれP]]
++[[Sadistic.Music∞Factory]] / [[cosMo@暴走P>cosMo（暴走P）]]
++[[夢の続き>夢の続き/Dixie Flatline]] -Game Version- / [[Dixie Flatline]]
++[[Tell Your World]] -Game Version- / kz（livetune）
++[[東京テディベア]] / [[Neru]]
++[[夢喰い白黒バク]] / [[Nem]]
++[[Sweet Devil]] / 八王子P
++[[リンちゃんなう！]] / [[オワタP]]・[[sezu>杉の人]]
++[[千本桜]] -Game Version- / 黒うさP
++[[ワールドイズマイン>ワールドイズマイン/ryo]] -Game Version- / ryo（supercell）
++[[みくみくにしてあげる♪【してやんよ】>みくみくにしてあげる♪]] / [[ika]]
++[[ミラクルペイント]] -Game Version- / OSTER project
++Ievan Polkka / フィンランド民謡（調声：[[Otomania]]）
+
+-Disc3（特典CD）
+#region(close,曲目)
++システム：決定
++システム：カーソル移動
++システム：キャンセル
++システム：ウィンドウオープン
++システム：メニューオープン
++システム：メニュークローズ
++システム：タブ切り替え
++システム：プレビュー
++システム：並び替え
++システム：削除
++システム：ポーズ
++システム：ポーズ解除
++システム：カウント
++システム：クリアランク更新（通常）
++システム：クリアランク更新（パーフェクト）
++システム：楽曲解放
++システム：キャラ変更
++システム：モジュール変更
++システム：購入
++システム：ポートレートタイマー
++ルーム：吹き出し
++ルーム：漫符1
++ルーム：漫符2
++ルーム：漫符3
++ルーム：漫符4
++ルーム：漫符5
++ルーム：タッチ
++ルーム：タッチリアクション
++ルーム：プレゼント
++ルーム：親密度UP
++ルーム：親密度DOWN
++ルーム：アイテム配置
++ルーム：アイテム持ち上げ
++ルーム：目覚まし時計1
++ルーム：目覚まし時計2
++ルーム：目覚まし時計3
++ルーム：タイマー
++ルーム：ドアオープン
++ルーム：ドアクローズ
++ルーム：イベント（披露）
++ルーム：イベント（カメラ）
++ルーム：イベント（びっくり箱）
++ルーム：イベント（おみくじ）
++ルーム：イベント（ハリセン）
++ルーム：イベント（誕生日）
++ミニゲーム：スタート
++ミニゲーム：SE1
++ミニゲーム：SE2
++ミニゲーム：SE3
++ミニゲーム：じゃんけん勝ち
++ミニゲーム：じゃんけん負け
++ミニゲーム：自分のポイント獲得
++ミニゲーム：相手のポイント獲得
++ミニゲーム：勝利
++ミニゲーム：敗北
++リズムゲーム：ボタン音1
++リズムゲーム：ボタン音2
++リズムゲーム：ボタン音3
++リズムゲーム：ボタン音4
++リズムゲーム：ボタン音5
++リズムゲーム：ボタン音6
++リズムゲーム：ボタン音7
++リズムゲーム：ボタン音8
++リズムゲーム：ボタン音9
++リズムゲーム：スクラッチ音1
++リズムゲーム：スクラッチ音2
++リズムゲーム：スクラッチ音3
++リズムゲーム：スクラッチ音4
++リズムゲーム：スクラッチ音5
++リズムゲーム：スクラッチ音6
++リズムゲーム：スクラッチ音7
++リズムゲーム：スクラッチ音8
++リズムゲーム：スクラッチ音9
++リズムゲーム：チャンスターゲット音
+#endregion
+
+-DVD / Blu-ray
++[[Sadistic.Music∞Factory]] (Game Movie)
++[[ODDS&ENDS]] &nowiki(){(Game Movie)}
++[[Weekender Girl]] (Game Movie)
++[[サマーアイドル]] (Game Movie)
++[[Stay with me]] (Game Movie)
++[[ワールズエンド・ダンスホール]] (Game Movie)
++[[ODDS&ENDS]] &nowiki(){(Game Opening Movie)}
+
+**リンク
+-[[SONY Music Shop（初回生産限定盤）>>http://www.sonymusicshop.jp/m/item/itemShw.php?site=S&ima=0238&cd=MHCL000002242]]
+-[[SONY Music Shop（通常盤） >>http://www.sonymusicshop.jp/m/item/itemShw.php?site=S&cd=MHCL000002246]]
+-[[Amazon（初回生産限定盤）>>http://www.amazon.co.jp/dp/B00AQ3EP9I]]
+-[[Amazon（通常盤）>>http://www.amazon.co.jp/dp/B00AQ3EPH0/]]
+
+**コメント
+- ！?  -- 名無しさん  (2013-05-03 22:21:23)
+- 前作と違って大部分がゲーム用のカットされたバージョンなのが残念だった…それまでメジャーCD化されていない上に同人CDも入手困難なものも多いだけに…  -- 名無しさん  (2013-05-03 22:56:54)
+- ネガポジなんでショートカットしたし…  -- 名無しさん  (2013-05-07 19:06:26)
+- ネガポジ、ゲーム内では2番もあったが、まさかあれがフルだったのか？  -- 名無しさん  (2013-05-14 00:20:10)
+- せっかく大容量のBlu-rayなんだから、たった7曲なんてケチケチしないで全タイトルのビデオ入れて欲しかったかな。これ用にソースを新しく作らなきゃいけないわけでもないし。Vitaで見れるけどロード遅いんだよね。もちろん買ったよ。  -- 名無しさん  (2013-05-15 22:20:28)
+- いらない  -- 名無しさん  (2013-06-03 16:19:52)
+- 収録曲がかぶってるのはしゃーなしとしてこの値段は異常 やすすぎる  -- 名無しさん  (2013-06-11 21:36:12)
+- この値段は親切だと思っていた  -- 名無しさん  (2013-07-29 19:54:27)
+- 騙されるところだった・・・  -- =  (2013-08-10 14:17:59)
+- ネガポジの歌詞、初音ミクwikiで欲しい！！！  -- (´・ω・`)  (2013-08-29 10:22:37)
+- ↑投稿されてない曲のページは作れませんよ。  -- 名無しさん  (2013-09-07 01:17:28)
+- これ、ほとんどがフルじゃないのか(-Σ-;)!!借りようかなと思ってたとこだった。あぶねぇ  -- Zeu*ﾟ  (2014-01-24 00:35:39)
+- ネガポジがショート版な事だけ残念。あとは満足  -- 名無しさん  (2014-02-22 01:29:09)
+- B★RSのカットの仕方にビビった  -- 名無しさん  (2014-12-20 18:40:14)
+#comment()

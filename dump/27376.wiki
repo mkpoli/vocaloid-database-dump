@@ -1,0 +1,39 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+
+|&nicovideo(http://www.nicovideo.jp/watch/sm22255863)|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Akashic nine}|CENTER:-|
+
+|&bold(){[[mokemoke]]}|[[アルパカマン]]|
+
+|流通|CENTER:即売|
+|発売|CENTER:2013年11月17日|
+|価格|CENTER:￥1,000（税込）|
+|サークル|CENTER:situation report|
+
+**CD紹介
+>&bold(){THE WORLD BEYOND US}
+-mokemoke氏 × アルパカマン氏 が織り成す忍者アルバム。JKひろ子（Eカップ）が夢の世界で繰り広げる熱き闘い！
+-『[[アカシック・レコード]]』などの既存曲に新曲やインストを加えた全10曲を収録。
+-ジャケットイラストなどのアートワークは ヤミ氏 が手掛ける。
+-THE VOC@LOiD M@STER27（ボーマス27）にてリリース。委託も予定している。
+
+**曲目
++Manage the Diversity
++インターカレーション feat. GUMI
++Ineffable name
++[[アカシック・レコード]] feat. IA
++THUMB RISE feat. 初音ミク
++[[スキマガール]] feat. IA
++[[Nightmare>Nightmare/mokemoke]] feat. 鏡音リン
++[[インソムニア>インソムニア/mokemoke]] feat. GUMI
++クオリアハーツ feat. IA
++NEVER ENDING AXUXAXAXAX
+
+**リンク
+-[[特設ページ>>http://akashicnine.tumblr.com/]]
+
+**コメント
+- おおお！  -- 名無しさん  (2013-11-15 20:03:48)
+#comment()

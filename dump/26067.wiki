@@ -1,0 +1,32 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+
+&nicovideo(http://www.nicovideo.jp/watch/sm20691388)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[First Motion]]|CENTER:&bold(){SpringSnowTown}|CENTER:[[Happy!!MyGraffiti]]|
+
+|&bold(){[[銀河方面P]]}|
+
+|流通|CENTER:即売|
+|発売|CENTER:2013年3月24日|
+|価格|CENTER:￥500（税込）|
+|サークル|CENTER:すたじお☆ぺぱーみんと|
+
+**CD紹介
+-銀河方面P の 6th mini album 。
+-『[[とっぴんぐフルーツ♪]]』 『[[片想いの街路樹]]』 に新曲を加えた全5曲を収録。
+-ジャケットイラストは 神無氏 が手掛ける。
+-VOCALOID PARADISE 関西2（ボーパラ関西2）にてリリース。
+
+**曲目
++[[とっぴんぐフルーツ♪]] -Album Version-
++SilentDrive
++ときめきセピア
++CityJungle
++[[片想いの街路樹]] -Album Version-
+
+**リンク
+-[[銀河方面P@神野貴志（たかぴ）のブログ（作者ブログ）>>http://ameblo.jp/studiopeppermint/]]
+
+**コメント
+#comment

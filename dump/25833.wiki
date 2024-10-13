@@ -1,0 +1,30 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#image(http://thumbnail.image.shashinkan.rakuten.co.jp/shashinkan-core/showPhoto/?pkey=ef7d0623fca99b3ef54a280f1d1151f70d079cfa.79.2.2.2j1.jpg,title=AOINO,width=150,blank)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm18951688)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[ラディスティア]]|CENTER:&bold(){AOINO}|CENTER:[[葵野-AOINO2-]]|
+
+|&bold(){[[アル†カナ]]}|
+
+発売：2012年9月30日
+価格：￥1,000（イベント価格）
+流通：即売
+サークル：アル†カナ
+
+**CD紹介
+-アル†カナが送る青い歌のお兄さんオンリーCD第一弾。
+-テンポの良いロックナンバーを集めました。
+-現在イベント以外での販売は行っておりません。
+
+**曲目
++Angel Fall
++Lost Butterfly
++Chrono Chain
+
+**リンク
+-[[アル†カナのブログ>>http://ameblo.jp/arcana00/]]
+
+**コメント
+#comment()

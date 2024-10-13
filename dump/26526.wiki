@@ -1,0 +1,40 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1342_20130731144236_0280_0280.jpg)
+
+&nicovideo(sm21645713)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[SECONDHANDED -Used & Junks-]]|CENTER:&bold(){まるくなる / たまごかけごはん / はやぶさバラード}|CENTER:[[FRONTIER -Into Eternal Space-]]|
+
+|&bold(){[[SHO（キセノンP）]]}|
+
+発売：2013年8月23日
+価格：￥600 / 1曲￥150
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：[[ねこむらおたこ>ねこむら/絵師]]
+
+|&bold(){[[iTunes Storeで購入する>>https://itunes.apple.com/jp/album/marukunaru-tamago-kake-gohan/id689963783]]}|
+
+**CD紹介
+-初音ミク6周年記念で発表された作品。
+-SHO（キセノンP）のヒット作3曲を全曲リミックス、Mr.anti-noise氏によるリマスタリングにて発表。さらにもう3曲をカップリングした全6曲を収録している。
+-KARENTの初音ミク6周年記念企画で配信された作品の1つ。
+
+**曲目
++[[まるくなる]]2013 （feat. 初音ミク&鏡音リン&鏡音レン&巡音ルカ）
++[[たまごかけごはん]]2013 （feat. 初音ミク）
++[[はやぶさ>はやぶさ/SHO（キセノンP）]] (3rd Anniversary Version) （feat. 初音ミク&鏡音リン&鏡音レン&巡音ルカ）
++[[片想い]] （初音ミク Version） （feat. 初音ミク&メグッポイド）
++[[アノマロカリスのクリーム煮定食]] 2013 （feat. 初音ミク）
++[[おやすみ>おやすみ/SHO（キセノンP）]] (Normal Version 2013) （feat. 初音ミク）
+
+**リンク
+-[[サークルサイト>>http://sound.jp/xenonmaiden/html_j/entrance.html]]
+-[[作者ブログ>>http://xenonp.dou-jin.com/]]
+-[[KARENT：「まるくなる／たまごかけごはん／はやぶさバラード」>>http://karent.jp/album/1342]]
+-[[KARENT：「初音ミク 6th Anniversary」特集ページ>>http://karent.jp/special/miku13]]
+
+**コメント
+- お！  -- 名無しさん  (2013-08-27 08:25:58)
+#comment()

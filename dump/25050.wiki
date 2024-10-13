@@ -1,0 +1,39 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo(sm18505506)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[reason of birth>reason of birth/CD]]&br()[[fake or fate?>fake or fate?/CD]]|CENTER:&bold(){Destiny Colors}&br()[[Eclipse Garden>Eclipse Garden/CD]]|CENTER:[[Mystic rites]]|
+
+|&bold(){[[maya]]}|[[山下慎一狼]]|
+
+||CENTER:即売|CENTER:委託|
+|発売|CENTER:2012年8月11日||
+|価格|CENTER:￥1,000|CENTER:￥1,470（税込）|
+|サークル|>|CENTER:asanagi|
+
+**CD紹介
+-maya氏の3rdCDアルバム。メグッポイドオンリーアルバム『[[Eclipse Garden>Eclipse Garden/CD]]』と同時リリース。
+-全12曲を完全リマスタリングで収録。
+-ジャケットイラストはしーな氏。8Pのフルカラーブックレット付。
+-2012年夏のコミックマーケット（C82）で頒布。
+-委託販売はとらのあな、アニメイト、アリスブックス、D-STAGEで行われる。
+
+**曲目
++[[Eternal feel]] / 神威がくぽ POWER, WHISPER
++[[アカツキノハナ]] / IA
++[[Reminiscence of Garnet]] / Lily V3
++[[夢見るデクのDOLL]] / CUL
++[[meltdown-神威-]] (album ver.) / 神威がくぽ NORMAL
++さくらことのは / 巡音ルカ
++[[大江戸フラワー]] / 巡音ルカ
++[[soul without destination]] / 神威がくぽ NORMAL
++[[mist-attachment in dark-]] / 神威がくぽ POWER
++[[Destiny Colors]] / 巡音ルカ・神威がくぽ POWER
++[[last frontier]] / 神威がくぽ NORMAL
++[[gacha☆パワー！]] / ガチャッポイド
+
+**リンク
+-[[作者サイト>>http://maya.xii.jp/]]
+
+**コメント
+#comment()

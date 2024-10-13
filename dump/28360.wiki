@@ -1,0 +1,10 @@
+#right(){【登録タグ:&tags()】}
+//↑タグ忘れ防止のための表示
+曖昧さ回避のためのページ
+----
+-[[rkrP]]の曲
+--[[depth/rkrP]]
+-[[AVTechNO]]の曲
+--[[Depth/AVTechNO]]
+
+#include(曖昧さ回避の追加の仕方/告知)

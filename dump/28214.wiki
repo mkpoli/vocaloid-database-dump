@@ -1,0 +1,53 @@
+#right(){&furigana(きましたわー)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo(sm22534426)
+作詞：[[ブンガP]]
+作曲：[[ブンガP]]
+編曲：[[ブンガP]]
+唄：[[結月ゆかり]]
+
+**曲紹介
+曲名：『&u(){キマシタワー}』
+-ブンガPのRadio tidaltail名義第10弾。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**音楽配信
+&ref(https://karent.jp/npdca/1442_20140129160429_0280_0280.jpg)
+
+|CENTER:前作|CENTER:今作|CENTER:次作|
+|CENTER:[[Spinning lotus]]|CENTER:&bold(){キマシタワー}|CENTER:-|
+
+流通：配信
+発売：2014年2月12日
+価格：￥150
+レーベル：[[KARENT>>https://karent.jp/album/1442]]
+ジャケットイラスト：まんぎす
+
+|&bold(){[[iTunes Storeで購入>>https://itunes.apple.com/jp/album/shes-comming-feat.-yuzuki/id816121694]]}|
+
+***曲目
++キマシタワー （feat. 結月ゆかり）
+
+**歌詞
+もう少しだけ
+ここに座っていたいの
+満ちながら落ちた月が溶けて
+海を染めるまで
+ねぇ少し泣いて見せて
+揺れる波に零れ落ちた鼓動が
+蛍みたいに光ながら
+あなたを象ってるわ
+
+穿たれた苦い感覚は
+消えないまま
+落ちながら月は満ちてく
+波の階（きざはし）輝かせて
+
+ねえ、あと少しだけ
+ここにいさせてよ
+
+**コメント
+#comment()

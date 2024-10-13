@@ -1,0 +1,48 @@
+#right(){&furigana(ねいろ2.0) &furigana()【登録タグ:&tags() 】}
+&ref(https://ecdnimg.toranoana.jp/ec/img/04/0030/04/69/040030046957-1p.jpg,x=300,y=300)
+
+&youtube(https://www.youtube.com/watch?v=1c_oswNs7AM){425,350}
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[音色 feat.VY1]]|CENTER:&bold(){音色2.0}|CENTER:-|
+
+|[[無力P]]|[[ゆずひこ]]|[[Dixie Flatline]]|[[tamachang]]|isshy|[[(∵)キョトンP]]|[[HAMO]]|
+
+>ジャケットイラスト：hakus
+
+|流通|CENTER:同人|CENTER:商業|
+|発売|CENTER:2012年3月21日|CENTER:2012年3月14日|
+|価格|CENTER:￥1,500（税込）|CENTER:￥1,500（税込）|
+|レーベル|CENTER:VR+|CENTER:VR+|
+
+**CD紹介
+>&b(){「音色 feat.VY1」に続く、音色シリーズ第2弾。}
+-VOCALOID™3ライブラリ「VY1V3」「Mew」を使用した楽曲を集めた2枚組コンピレーション。
+-DISC.1には主に公式デモソング中心の楽曲。DISC.2には『V+』として中国人クリエイターによる「VY1V3」を使用した楽曲を収録。
+-とらのあなとボーカロイドストアで委託販売されていた。
+
+**曲目
+***DISC.1
++[[Hope for azure sky]] / [[無力P]]	
++はらはらり / [[青田新名 a.k.a ゆずひこ>ゆずひこ]]
++[[ステラ>ステラ/Dixie Flatline]] / [[Dixie Flatline]]
++[[effanineffable -語るに語れぬ->effanineffable]] / [[tamachang]] / 作詞：[[isshy]]
++[[icoro]] / [[ニシジマユーキ>(∵)キョトンP]] / 作詞：[[HAMO]]
++[[みゅぅみゅぅみゅう！]] / [[tamachang]] / 作詞：[[isshy]]
+
+***DISC.2
++LIMPID GREEN / CNSOUKA
++MECH / G.K 
++IRREGULARITY / ZX
++VIOLET PLUSE / YYCHAN
++DEFRAGMENT / RAINNIE_C
++ROBOTIQUE / HALOWEAK
++VIOLET PLUSE（G.K REMIX） / YYCHAN
+
+**リンク
+-[[ボーカロイドストア>>http://shop.vocaloidstore.com/index.php?gOo=goods_details.dwt&goodsid=5757]]
+-[[とらのあな>>http://www.toranoana.jp/bl/article/04/0030/04/69/040030046957.html]]
+
+**コメント
+- VY1縛りはなくなったのね  -- 名無しさん  (2013-11-04 08:29:38)
+#comment

@@ -1,0 +1,34 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1425_20140107121752_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[MIFT#1>MIFT＃1]]|CENTER:&bold(){THANKS}|CENTER:[[Z]]|
+
+|&bold(){[[AVTechNO]]}|
+
+発売：2014年1月22日
+価格：￥600 / 1曲￥150
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：kior
+
+|&bold(){[[iTunes Storeで購入する>>https://itunes.apple.com/jp/album/thanks-ep/id803030310]]}|
+
+**CD紹介
+-CDでリリースされたベスト盤『[[AVTechNO! Collection Thank you pack!]]』のmini版。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++[[NEL]] [Thanks] （feat. 初音ミク）
++[[teaR>(っ*'ω'*c)]] [Thanks] （feat. 鏡音リン）
++[[Arpeggio]] -Rebuild- [Thanks] （feat. 初音ミク）
++[[DYE>DYE/AVTechNO]] [Thanks] （feat. 巡音ルカ）
++Dekirukoto [Thanks] （feat. 初音ミク）
++[[君の笑顔を]] [Thanks] （feat. 初音ミク）
+
+**リンク
+-[[KARENT：「THANKS」>>http://karent.jp/album/1425]]
+-[[作者サイト>>http://avtechno.ukime.org/]]
+
+**コメント
+#comment()

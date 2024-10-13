@@ -1,0 +1,42 @@
+#right(){&furigana(まきはらあすみ)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/10763716" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/10763716">【ニコニコ動画】</a></iframe>)|&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/10260633" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/10260633">【ニコニコ動画】</a></iframe>)|
+|&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/14718947" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/14718947">【ニコニコ動画】</a></iframe>)||
+
+**特徴
+作り手名：『&u(){薪原あすみ}』（&u(){まきはらあすみ}）
+-P名はasmP・主旋P。
+-元コピーライターで、作詞活動はニコニコ動画投稿以前からしていた。
+-2008年11月02日に投稿された[[RT factory]]とのコラボ作品「[[永久のクワイア]]」でデビュー。
+-2009年01月01日に投稿した「[[シンガポール・スリング]]」からは自ら作曲もするようになった。
+-その後、絵師の富夫氏と共に「めーぷる・ぷりん」を結成。更にボカロPの[[さといも]]氏を迎え、「チーム・ハルモニア」を結成した。
+-「ハルモニア」は女子高生「里宮めいこ」を主人公とした物語であり、薪原あすみ氏がストーリー、さといも氏が楽曲、富夫氏がイラストを担当している。
+-その後、「ハルモニア」シリーズ以外の曲でもさといも氏とコラボすることが多くなり、二人は親交を深めていった。
+-そして、2012年6月、二人は結婚。めでたく夫婦となったのである。
+
+**リンク
+-[[作者HP>>https://asmproducer.vocalo.me/]]
+-[[作者ブログ>>https://ameblo.jp/asumi-m/]]
+-[[PIAPRO>>https://piapro.jp/asumi_makihara]]
+//-[[OKMusic>>http://okmusic.jp/#!/user/1421]]
+-[[twitter>>https://twitter.com/asmproducer]]
+-[[Facebook>>https://www.facebook.com/kaiseishobou]]
+
+**曲
+#list_by_tag(薪原あすみ,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(薪原あすみCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**歌詞提供
+|&nicovideo(sm5129203)|&nicovideo(sm4122074)|
+
+**作詞・作曲
+|&nicovideo(sm5720658)|&nicovideo(sm5845702)|
+
+**コメント
+- あすみさんの歌詞は昭和の香りがして大好きです。これからも夫婦仲良く、素晴らしい作品を作っていって下さいね。  -- 竜奇  (2013-08-23 09:27:42)
+#comment()

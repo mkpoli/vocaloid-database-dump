@@ -1,0 +1,39 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://satoimo.vocalo.me/image/jb2_jacket.png)
+
+&nicovideo(sm21107533)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[JewelBox]]|CENTER:&bold(){JewelBox Vol2}|CENTER:[[JewelBox Vol3]]|
+
+|[[さといも]]|[[薪原あすみ]]|
+
+発売：2013年7月7日
+価格：￥1,000（税込）
+流通：即売
+サークル：JewelBox 
+
+**CD紹介
+-さといも(天宝石P)の4thアルバム。
+-「心中遊戯」以降の新曲全てを始め、未公開の結月ゆかり新曲、薪原あすみ氏作曲の「雲の船」を収録。
+-THE VOC@LOiD M@STER 25（ボーマス25）にて販売。
+
+**曲目
++[[そよかぜ通信]]/結月ゆかり
++[[心中遊戯]]/Lily
++[[シャーベットブルーの風]]/氷山キヨテル
++[[追跡者のラプソディ]]/猫村いろは
++[[ひかりフォニック]]/結月ゆかり
++[[月影DanceNight]]/Lily
++笑顔のアルバム/結月ゆかり
++[[Re:そよかぜ通信]]/GUMI
++[[Angelic Jewel]]～2012Version～/GUMI,がくぽ,Lily,CUL
++[[雲の船]]/Lily
++[[Realize>Realize/さといも]]-GUMI Version/GUMI
++そよかぜ通信(OffVocal)
+
+**リンク
+-[[チームハルモニアのページ>>http://satoimo.vocalo.me/jewelbox2/index.html]]
+
+**コメント
+#comment()

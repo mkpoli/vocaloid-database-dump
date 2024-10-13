@@ -1,0 +1,49 @@
+#right(){&furigana(とおやとおえん)&furigana()【登録タグ:&tags() 】}
+//&ref(http://toyanomi.web.fc2.com/img/banner.jpg)
+//&ref(http://toyanomi.web.fc2.com/img/jacket.jpg,x=300,y=300)
+
+&ref(https://static.vocadb.net/img/album/mainThumb/6521.png?v=7)
+
+&nicovideo(sm22130144)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){十夜十宴}|CENTER:-|
+
+|&bold(){[[LLF]]}|[[ぼのP]]|[[snowy*]]|[[innisfree]]|[[toya]]|[[HAL]]|[[ここ狭いP]]|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2013年11月4日|CENTER:|
+|価格|CENTER:￥1,000|CENTER:￥1,365（税込）|
+|サークル|>|CENTER:いにすな透夜はほのぼの修羅場でここ狭い|
+
+**CD紹介
+>君と生き急ぐコンピレーションアルバム。
+-飲み会の席でうっかり構成してしまった謎のサークル「いにすな透夜はほのぼの修羅場でここ狭い」が送る、鏡音コンピレーションアルバム。
+-全曲ボーカルは鏡音リン・レン。
+-CD（全て書き下ろし新曲で10曲入り）＋16pブックレット（全曲に書き下ろしイメージイラスト付き）。
+-総括は[[LLF]]。
+-曲は[[SATA.（ぼのP）>ぼのP]]、[[snowy*]]&[[innisfree]]、[[toya]]、[[HAL@shurabaP>HAL]]、[[rokugatsu（ここ狭いP）>ここ狭いP]]。
+-絵は[[いたる]]、[[soriku]]（クロスフェードPVも作成）、[[ぱらいそ]]、[[碧茶]]、[[ふじんこ]]。
+-2013年11月4日の「鏡音ようび！」にて頒布開始。
+-とらのあなで委託販売が行われている。
+
+**曲目
++breath of air　snowy*＆innisfree 　illust/碧茶
++雨上がり　HAL@shurabaP 　illust/soriku
++Heartwarming Melodies　SATA. 　illust/いたる
++[[あなたとなら]]　snowy*＆innisfree 　illust/ぱらいそ
++イエスタデイに口づけを　rokugatsu 　illust/ぱらいそ
++[[砂鳥の祀]]　toya 　illust/いたる
++[[空色の街]]　SATA. 　illust/碧茶
++深海魚　toya illust/soriku
++Reflection　HAL@shurabaP 　illust/ふじんこ
++[[淵より明く]]　rokugatsu 　illust/ふじんこ
+
+**リンク
+-[[公式サイト>>http://toyanomi.web.fc2.com/]]
+-[[とらのあな通販>>http://www.toranoana.jp/mailorder/article/04/0030/16/93/040030169393.html]]
+
+**コメント
+- おお！  -- 名無しさん  (2013-10-29 00:18:10)
+- 通販はアニメイトがいいな。  -- 名無しさん  (2013-11-06 15:34:13)
+#comment()

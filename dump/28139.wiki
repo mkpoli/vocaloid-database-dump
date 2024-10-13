@@ -1,0 +1,45 @@
+#right(){&furigana(ほのかふゆき)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/59387429" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/59387429">【ニコニコ動画】</a></iframe>)
+
+**特徴
+作り手名：『&u(){焔夏 冬雪}』（&u(){ほのか ふゆき}）
+-読みは「ほのか ふゆき」。間は半角スペース。
+-多彩なジャンルを書きこなす、謎に包まれたミステリアスな作詞者。
+-[[HIDAKA]]氏の楽曲「[[HIVER～parting song～]]」でニコ動デビュー。その後は、さまざまな作曲者に詞を提供している。更には、ボイスドラマの脚本やASMRのシチュエーションボイスのシナリオまで書き下ろしを行ったり、歌い手の要望に合わせた歌詞の提供など、活動の幅を拡げている。
+-[[水平線P]]の楽曲「[[いつまでもこの胸に]]」からコラボ進行をはじめ、イラストの構図・服装のデザイン・動画の構成・ロゴのデザインや色彩イメージ・ときには動画説明文や編曲案までと、作詞だけでなく、サポートという形でさまざまな方向に手を伸ばしている。
+-同人サークルに向けて、企画・原案・脚本・作詞を担当したことがある。
+-また、イベントに向けての企画にて小説執筆も展開した経験あり。
+
+//**リンク
+//-[[世界の片隅でVOCALOIDカラオケを応援：配信曲一覧>>http://vocaloidkaraoke.khaospedia.org/detail/honoka_fuyuki/]]
+
+**曲
+#list_by_tag(焔夏冬雪,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(焔夏冬雪CD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm14757233)|&nicovideo(sm15333757)|
+|&nicovideo(nm15378136)|&nicovideo(sm16011958)|
+|&nicovideo(sm16827256)|&nicovideo(sm16842438)|
+|&nicovideo(sm17512179)|&nicovideo(sm17709718)|
+|&nicovideo(sm17740605)|&nicovideo(sm18703977)|
+|&nicovideo(sm19062960)|&nicovideo(sm20034406)|
+|&nicovideo(sm20495358)|&nicovideo(sm20601611)|
+|&nicovideo(sm21844178)|&nicovideo(sm21879095)|
+|&nicovideo(sm22785248)|&nicovideo(sm24327048)|
+|&nicovideo(sm24581638)|&nicovideo(sm24986108)|
+|&nicovideo(sm25166264)|&nicovideo(sm25758554)|
+|&nicovideo(sm25933523)|&nicovideo(sm26807066)|
+|&nicovideo(sm28658030)|&nicovideo(sm29418063)|
+|&nicovideo(sm31763556)|&nicovideo(sm32321415)|
+|&nicovideo(sm32489359)|&nicovideo(sm32734040)|
+
+**コメント
+- そもそも名前がかわいいｗｗ  -- TKY  (2016-09-26 10:04:50)
+#comment()

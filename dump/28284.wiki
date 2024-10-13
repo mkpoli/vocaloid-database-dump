@@ -1,0 +1,34 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1431_20140115015057_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Forbidden Happiness>Forbidden Happiness/CD]]|CENTER:&bold(){Miracle is Dead : Infection}|CENTER:-|
+
+|&bold(){[[Sweet Revenge]]}|YukitchEN RugMap|
+
+発売：2014年1月30日
+価格：￥600 / 1曲￥150
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：jinbei
+
+|&bold(){[[iTunes Storeで購入する>>https://itunes.apple.com/jp/album/miracle-is-dead-infection-ep/id807054885]]}|
+
+**CD紹介
+-巡音ルカ発売5周年を記念してリリースされた配信EP。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++[[Miracle is Dead]] （feat. 巡音ルカ）
++Miracle is Dead : Remastered （feat. 巡音ルカ）
++Miracle is Dead : Reloaded （feat. 巡音ルカ）
++Miracle is Dead [instrumental ver.] （feat. 巡音ルカ）
++Miracle is Dead : Remastered [instrumental ver.] （feat. 巡音ルカ）
++Miracle is Dead : Reloaded [instrumental ver.] （feat. 巡音ルカ）
+
+**リンク
+-[[KARENT：「Miracle is Dead : Infection」>>http://karent.jp/album/1431]]
+-[[KARENT：「巡音ルカ聖誕祭'14」特集ページ>>http://karent.jp/special/luka14]]
+
+**コメント
+#comment()

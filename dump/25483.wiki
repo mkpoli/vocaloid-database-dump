@@ -1,0 +1,30 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1261_20130417222125_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[My enhancer]]|CENTER:&bold(){Sugar Sign}|CENTER:[[ツタワル、オンガク]]|
+
+|&bold(){[[チャリけんP]]}|
+
+発売：2013年5月1日
+価格：￥150
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：チャリけんP（安田チャリけん）
+
+|&bold(){[[iTunes Storeで購入する>>https://itunes.apple.com/jp/album/sugar-sign-feat.-hatsune-miku/id641102162]]}|
+
+**CD紹介
+-チャリけんPの配信シングル。
+-Mew曲「[[シュガーサイン]]」のミクバージョンを収録。
+-KARENTレーベルよりダウンロード販売が行われている。「Cafeでのひととき 2」企画で配信された作品の1つ。
+
+**曲目
++[[Sugar Sign>シュガーサイン]] （feat. 初音ミク）
+
+**リンク
+-[[KARENT：「Sugar Sign」>>http://karent.jp/album/1261]]
+-[[KARENT：「Cafeでのひととき 2」特集ページ>>http://karent.jp/special/cafe13]]
+
+**コメント
+#comment()

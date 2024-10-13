@@ -1,0 +1,33 @@
+#right(){&furigana(こくうとしょかんのりぴか)&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1450_20140125111040_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[タイムトラベラー>タイムトラベラー/As'257G]]|CENTER:&bold(){虚空図書館のリピカ}|CENTER:[[Pumpkin Candy　- カボチャの照らす世界から -]]|
+
+|&bold(){[[As'257G]]}|水無月龍那|楢崎このみ|
+
+発売：2014年2月17日
+価格：￥300 / 1曲￥150
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：As'257G
+
+|&bold(){[[iTunes Storeで購入する>>https://itunes.apple.com/jp/album/ripika-of-void-library-single/id818376318]]}|
+
+**CD紹介
+-Sound Team Layer-0のAs'257G氏の配信EP。
+-KARENTレーベルよりダウンロード販売が行われている。KAITO8周年記念企画で配信された作品の1つ。
+
+**曲目
++[[虚空図書館のリピカ]] （feat. KAITO）
++[[蒼穹のアズライト]] （feat. KAITO&初音ミク）
++[[霧のお茶会と僕の誕生日]] （feat. KAITO）
+
+**リンク
+-[[サークルサイト>>http://layer-0.shillest.net/]]
+-[[KARENT：「虚空図書館のリピカ」>>http://karent.jp/album/1450]]
+-[[KARENT：「KAITO誕生祭'14」特集ページ>>http://karent.jp/special/kaito14]]
+
+**コメント
+- おお。  -- 名無しさん  (2014-02-18 21:35:29)
+#comment()

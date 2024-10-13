@@ -1,0 +1,36 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1408_20131210220346_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[cosmic tones>cosmic tones/CD]]|CENTER:&bold(){add 9 songs}|CENTER:-|
+
+|&bold(){[[yusukeP]]}|
+
+発売：2014年1月8日
+価格：￥1,200
+流通：配信
+レーベル：KarenT
+//ジャケットイラスト：[[]]
+
+|&bold(){[[iTunes Storeで購入する>>https://itunes.apple.com/jp/album/add-9-songs/id786068497]]}|
+
+**CD紹介
+-ポップなチューンが詰まった初音ミク歌唱の全9曲収録のアルバム。
+
+**曲目
++[[La, La, Love You]](album version) （feat. 初音ミク）
++[[Precious Days]](album version) （feat. 初音ミク）
++[[Take Me Out]] （feat. 初音ミク）
++[[Melting Glacier]] （feat. 初音ミク）
++[[Morning Mist]](album mix) （feat. 初音ミク）
++[[Fallout]] （feat. 初音ミク）
++[[プラスティック・スタイル]](album version) （feat. 初音ミク）
++[[Naked Diver]](album version) （feat. 初音ミク）
++Grapefruit Kiss(album version) （feat. 初音ミク）
+
+**リンク
+-[[KarenT：「add 9 songs」>>http://karent.jp/album/1408]]
+-[[euphony（作者ブログ）>>http://euphony335.blog22.fc2.com/]]
+
+**コメント
+#comment()

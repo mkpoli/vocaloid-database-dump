@@ -1,0 +1,33 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+
+//&ref(http://img-cdn.jg.jugem.jp/94f/2522661/20130308_1025164.jpg)
+&ref(https://www.suruga-ya.jp/database/pics/game/186124743.jpg,x=300,y=300)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[きえないで。（配信）>きえないで。]]|CENTER:&bold(){きえないで。}|CENTER:[[Mocchi de Pon de]]|
+
+|&bold(){[[クリスタルP]]}|
+
+発売：2013年3月17日
+価格：￥500
+流通：即売
+サークル：クリキッド
+
+**CD紹介
+-クリスタルPのシングルCD。
+-KAITO7周年とV3発売を記念して発表された「[[きえないで。]]」と『[[crystaL-next-]]』収録の「魔法のソラまで」のニューバージョンを収録したシングル。
+-HARUコミックシティ18やVOCALOID PARADISE関西2（ボーパラ京都）で頒布。
+
+**曲目
++[[きえないで。]] (KAITO V1&V3 Duet)
++魔法のソラまで2013 (KAITO V3&Len Apeend)
++きえないで。 (KAITO V1×V1 Ver.)
++きえないで。 (Off Vo.)
++きえないで。 (Inst only)
++魔法のソラまで2013 (Inst only)
+
+**リンク
+-[[作者ブログ>>http://blog.k-kei.versus.jp/]]
+
+**コメント
+#comment()

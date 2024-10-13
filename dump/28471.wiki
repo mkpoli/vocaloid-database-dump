@@ -1,0 +1,31 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1451_20140125210653_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Reason of Blue}|CENTER:[[Rebirth>Rebirth/CD]]|
+
+|&bold(){[[頑なP]]}|
+
+発売：2014年2月17日
+価格：￥300 / 1曲￥150
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：sat
+
+|&bold(){[[iTunes Storeで購入する>>https://itunes.apple.com/jp/album/reason-of-blue-single/id818394947]]}|
+
+**CD紹介
+-頑なPことsat氏の3曲入り配信EP。
+-KARENTレーベルよりダウンロード販売が行われている。KAITO8周年記念企画で配信された作品の1つ。
+
+**曲目
++[[swing-by>swing-by/頑なP]] （feat. KAITO）
++[[Loops and Loops]] （feat. KAITO）
++[[Reload Words]] （feat. KAITO）
+
+**リンク
+-[[KARENT：「Reason of Blue」>>http://karent.jp/album/1451]]
+-[[KARENT：「KAITO誕生祭'14」特集ページ>>http://karent.jp/special/kaito14]]
+
+**コメント
+#comment()

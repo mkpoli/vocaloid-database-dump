@@ -1,0 +1,50 @@
+#right(){&furigana(meltaway)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+#amazon(B00H70SLK2)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[NEXUS UTILITY]]|CENTER:&bold(){melt away}|CENTER:-|
+
+|&bold(){[[赤髪]]}|[[畑亜貴]]|[[KAZZNORI]]|[[LOLI.COM]]|[[一億円P]]|
+
+発売：2014年2月12日
+価格：￥2,079（税込）
+流通：全国
+サークル：VOCALOID RECORDS
+
+**CD紹介
+>ほんの少しだけ近未来。
+>些細なきっかけでタイムリープしてしまった少年Loto… その影響で大切な人を失ってしまう。。
+>彼女を救うため103回のタイムリープを繰り返しついに救うことが出来たのだが…。
+>赤髪のメジャー2作目は、デビュー作「NEXUS UTILITY」に収録の「Loto」の世界観を主軸に様々な角度で描かれた楽曲達を集めたコンセプトアルバム!
+>作詞に畑亜貴、KAZZNORI from 少年カミカゼ、LOLI.COM、dezzy(一億円P)が、演奏家としてストリングスには「弾いてみた」でお馴染み
+>てっぺい先生や大先生室屋(クラスタシア)が、ベースには山口寛雄(100s)が参加!!
+>そして、ボーナストラックには「歌ってみた」からなゆごろうが参加という豪華な顔ぶれで、前作から格段のパワーアップを果たした期待のセカンドアルバム!
+>GUMIを巧みに操り「ぼかりす」で見事な仕上りとなった歌声も必聴です!!
+>ジャケットイラストは前作に引き続きAOが担当! （amazonより転載）
+曲名：『&u(){melt away}』
+
+**曲目
++intro (Instrumental)
++[[Carry On>Carry On/赤髪]]
++[[Time Distortion]]
++ASTRO CANDY
++[[Leave]]
++時の雨
++Inner Galaxy
++Refrain
++Local Symmetry
++[[可能世界論]]
++Outro (Instrumental)
++Inner Galaxy feat. なゆごろう（ボーナストラック）
++可能世界論 feat. なゆごろう（ボーナストラック）
+
+**リンク
+-[[amazon>>https://www.amazon.co.jp/dp/B00H70SLK2]]
+
+**コメント
+- 追加乙！  -- 名無しさん  (2014-01-10 22:32:39)
+#comment()

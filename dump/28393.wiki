@@ -1,0 +1,39 @@
+#right(){&furigana(La)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/38549916" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/38549916">【ニコニコ動画】</a></iframe>)|&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/38351271" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/38351271">【ニコニコ動画】</a></iframe>)|
+
+**特徴
+作り手名：『&u(){La+}』（&u(){らぷらす}）
+-かつて&bold(){Acerola}と名乗っていたが、改名した。
+
+**リンク
+-[[twitter>>https://twitter.com/acerolalala]]
+
+**曲
+#list_by_tag(La＋,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(La＋CD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm14728879)|&nicovideo(sm14926455)|
+|&nicovideo(sm16451817)|&nicovideo(sm16503275)|
+|&nicovideo(sm16542592)|&nicovideo(sm16666051)|
+|&nicovideo(sm16708367)|&nicovideo(sm17298718)|
+|&nicovideo(sm17441824)|&nicovideo(sm17454812)|
+|&nicovideo(sm17592350)|&nicovideo(sm19655597)|
+|&nicovideo(sm15438218)|&nicovideo(sm20906360)|
+|&nicovideo(sm21693351)|&nicovideo(sm21696307)|
+|&nicovideo(sm21696332)|&nicovideo(sm21696386)|
+|&nicovideo(sm21906410)|&nicovideo(sm22028364)|
+|&nicovideo(sm22036074)|&nicovideo(sm22044296)|
+|&nicovideo(sm22421645)|>|
+
+**コメント
+- La＋さんもっと伸びるべきだと思う!  -- 名無しさん  (2014-08-24 14:04:43)
+- あれ？たぶんyoutubeあるよ？  -- 名無しさん  (2019-10-31 14:38:10)
+- Acerola→La+→ナツメチタ→IPSA 2年近く曲を出していないが今はどうしているのやら  -- 名無しさん  (2023-07-29 01:33:54)
+#comment()

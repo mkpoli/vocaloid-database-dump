@@ -1,0 +1,50 @@
+#right(){&furigana(ふきげんあんてな)&furigana()【登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186124008.jpg,x=300,y=300)
+
+&nicovideo(sm19511316)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[colors of piano]]|CENTER:&bold(){フキゲンアンテナ}|CENTER:-|
+
+|&bold(){[[U-ske]]}|[[鹿乃]]|
+
+||CENTER:即売|CENTER:同人|CENTER:配信|
+|発売|>|CENTER:2012年12月15日||
+|価格|CENTER:￥|CENTER:￥1,568（税込・とらのあな）&br()￥1,500（税込・D-STAGE）||
+|サークル|>|CENTER:HERE and THERE||
+
+**CD紹介
+>フキゲンになったって、ホントのキモチは別なんだ。
+-U-ske氏のVOCALOIDオリジナルアルバム第5弾。
+-別名義で発表した楽曲を含む全14曲。
+-Art Works & Illustrationを水玉子氏、Art Direction & Designをhie氏がそれぞれ担当。
+-THE VOC@LOiD M@STER 23（ボーマス23）で頒布。とらのあな、D-STAGE、アニメイトにて委託販売が行われている。
+-dwango（モバイル専用）にてダウンロード配信中。
+
+**曲目
++[[inverse]]
++十二畳ダイニング
++[[キミのマボロシ]]
++dreamin'
++[[too late to tell]]
++heartbreakin'
++come back to me
++Way I am
++モノクロシネマ
++[[dive into Marchen]]
++Dear
++ユメ見るウサギ
++[[intention>intention/U-ske]]
++DRAMATiQ
+
+**リンク
+-[[作者サイト>>http://hat.lix.jp/]]
+-[[特設ページ>>http://hat.lix.jp/f-antenna/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/09/27/040030092786.html]]
+-[[D-STAGE>>http://d-stage.com/shop/detail.php?seq=34627]]
+-[[dwango>>https://music.dwango.jp/i/artist/61051?cp_webto=niconicoartist_uske]]
+
+**コメント
+- いい！  -- 名無しさん  (2013-10-02 19:01:24)
+#comment()

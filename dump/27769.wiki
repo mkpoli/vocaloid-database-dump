@@ -1,0 +1,41 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo(sm20672034)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){PANCHIQUERIN}|CENTER:-|
+
+|&bold(){[[ぱんだっち]]}|&bold(){[[Chiquewa]]}|&bold(){じーこば（[[恋竹林]]）}|マサコイ（恋竹林）|
+
+発売：2013年4月27日
+価格：￥1,000
+流通：即売
+サークル：Panchiquerin
+
+**CD紹介
+-ぱんだっち氏、恋竹林のじーこば氏、Chiquewa氏によるユニット・ぱんちくりんのCDアルバム。
+-ぱんちくりんとして発表した5曲に、メンバーそれぞれの既存曲のアレンジ3曲、全8曲を収録。
+-THE VOC@LOiD 超 M@STER 24（超ボーマス24）で頒布。
+
+**曲目
++[[Coda]]
++-作曲：G_Koba　作詞：ぱんだっち　編曲：Chiquewa
++[[恋は焦らして]]
++-作曲：ぱんだっち　作詞：G_Koba / Chiquewa　編曲：Chiquewa
++[[Dance Da Night Away]]
++-作曲：G_Koba　作詞：Masakoi　編曲：Chiquewa
++[[Seven Seas]]
++-作曲：G_Koba　作詞：G_Koba / Masakoi　編曲：Chiquewa
++[[Shooting Star>Shooting Star/ぱんちくりん]]
++-作曲：G_Koba　作詞：ぱんだっち　編曲：Chiquewa
++[[Magic>Magic/Chiquewa]] - G_Koba mix -
++-作曲：Chiquewa　作詞：Chiquewa　編曲：G_Koba
++[[Sweetlove>sweet love]] - G_Koba mix -
++-作曲：ぱんだっち　作詞：ぱんだっち　編曲：G_Koba
++[[Style nk]] - Sasakama Soul-Jam mix -
++-作曲：G_Koba　作詞：G_Koba　編曲：ぱんだっち / Chiquewa
+
+**リンク
+-[[特設ページ>>http://panchiquerin.blogspot.jp/]]
+
+**コメント
+#comment()

@@ -1,0 +1,36 @@
+#right(){&furigana(あまのがわ)&furigana()【登録タグ:&tags() 】}
+//&ref(https://blog-imgs-59-origin.fc2.com/j/v/n/jvnp/rin_amano.jpg)
+
+&ref(https://vocadb.net/Album/CoverPicture/3704?v=5)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[TOKYO]]|CENTER:&bold(){アマノガワ}|CENTER:[[リンのねがい！！]]|
+
+|&bold(){[[ジェバンニP]]}|[[ヒッキーP]]|鳥類|優介|
+
+発売：2013年7月7日
+価格：￥1,000
+流通：即売
+サークル：サークル名を記入
+
+**CD紹介
+-ジェバンニPの8曲入りCD。
+-連続投稿企画「ジェバンニPと[[曼荼羅P]]の天ノ川」で発表した楽曲を収録。
+-ジャケットイラストはキタカライ氏。
+-THE VOC@LOiD M@STER 25（ボーマス25）で頒布。
+
+**曲目
++[[【緊急】うちのリンが激おこ！ 今すぐ誰か助言頼む！]]
++[[レールウェイ>レールウェイ/ジェバンニP]]
++[[にゃつよ]]
++[[ドミリのエメラルド ～マレーの我が友よ～]]
++[[衝撃のねこぽん]]
++[[メタリン]]
++[[アマノガワ]]
++JM in VM25
+
+**リンク
+-[[作者ブログ>>http://jvnp.blog60.fc2.com/]]
+
+**コメント
+#comment()

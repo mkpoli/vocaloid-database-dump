@@ -1,0 +1,50 @@
+#right(){&furigana(きゅんきゅんたいむ)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186125210.jpg,x=300,y=300)
+
+&nicovideo(sm21231950)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[fluffy fluffy ～fuwaP cover arrange album～]]|CENTER:&bold(){きゅんきゅん☆たいむ}|CENTER:-|
+
+|&bold(){[[ふわP]]}|[[子猫P]]|[[OSTER project]]|[[あつぞうくん]]|ゆきはね|
+|[[リョータイ]]|[[クマー@Taken♪]]|myomyo|Noël|Milia|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2013年7月7日|CENTER:2013年7月|
+|価格|CENTER:￥1,000|CENTER:￥1,470（税込）|
+|サークル|>|CENTER:ATZ Records|
+
+**CD紹介
+>またきゅんきゅんの季節がやってきました！！（年中言ってる
+CD名：『&u(){きゅんきゅん☆たいむ}』
+-ふわPの2ndアルバム。
+-アレンジャーとしてOSTER project、あつぞうくん、子猫Pが参加。
+-ジャケットイラストは愛野おさる氏が担当。
+-THE VOC@LOiD M@STER 25（ボーマス25）にて頒布。委託販売も行われている。
+
+**曲目
++Little Alice
++[[カメラガール]]
++[[僕たちのせいじゃない！]]
++コトリのパン屋さん
++[[brand-new dress]]（full ver.）
++[[さむぞらマフラー]]（album ver.）
++雪につつまれて（inst.）
++[[ブルーソーダ]]
++[[夜ふけ]]
++[[花咲くいみは]]
++[[Super Love Feeling!!>すぅぱぁLOVEふぃぃぃぃぃりんぐ!!!]]
+
+//**リンク
+//-[[特設ページ>>http://cct.atzrecords.com/]]
+//-[[ATZ Records>>http://atzrecords.com/]]
+//-[[とらのあな>>https://www.toranoana.jp/mailorder/article/04/0030/13/32/040030133222.html]]
+
+**コメント
+- かわゆ！  -- 名無しさん  (2013-09-30 22:08:54)
+#comment()

@@ -1,0 +1,59 @@
+#right(){&furigana(しょうじょじはんき)&furigana()【登録タグ:&tags() 】}
+
+&ref(http://shoujojihanki.xxxxxxxx.jp/img/jacket.png)
+
+|BGCOLOR(#b0e0e6):COLOR(#FFF):CENTER:&font(b,11pt){　クロスフェード　}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm20610796)|
+
+|BGCOLOR(#ffb6c1):COLOR(#FFF):CENTER:&font(b,11pt){　前作　}|BGCOLOR(#90ee90):COLOR(#FFF):CENTER:&font(b,11pt){　本作　}|BGCOLOR(#f0e68c):COLOR(#FFF):CENTER:&font(b,11pt){　次作　}|
+|CENTER:-|CENTER:&bold(){少女自販機}|CENTER:-|
+
+|&bold(){[[あす缶]]}|[[石風呂]]|[[村人P]]|[[センターマン]]|[[CapsLack]]|[[虚空>虚空/2012～]]|[[いつものP]]|[[オギノジュン]]|
+|[[樹人]]|[[Eight]]|[[走（そう）P]]|[[つきな]]|[[テレ太]]|[[YonoP]]|[[藤本薪]]|[[オセロP]]|
+
+|BGCOLOR(#b0e0e6):COLOR(#FFF):CENTER:&font(b,11pt){　流通　}|BGCOLOR(#ffb6c1):COLOR(#FFF):CENTER:&font(b,11pt){　即売　}|CENTER:同人|
+|BGCOLOR(#ffb6c1):COLOR(#FFF):CENTER:&font(b,11pt){　発売　}|CENTER:　2013年4月27日　||
+|BGCOLOR(#90ee90):COLOR(#FFF):CENTER:&font(b,11pt){　価格　}|CENTER:　1,000（税込）　|CENTER:￥1,500（税別）|
+|BGCOLOR(#f0e68c):COLOR(#FFF):CENTER:&font(b,11pt){　サークル　}|>|CENTER:　あす缶蹴りしようぜ！　|
+
+**CD紹介
+>&bold(){15人の少女が奏でる物語。}
+-絵師の あす缶氏 主宰の「〇〇少女」をテーマに、このCDの為に書き下ろされた新曲が15曲収録されたコンピレーションアルバム。
+-アートワークを [[あす缶]]氏 が、マスタリングを がっちゃん氏 が、動画関係を [[すこっち]]氏 と えむめろ氏 が、webページ作成を 棗蜜柑氏 が手掛ける。
+-THE VOC@LOiD 超 M@STER 24（超ボーマス24）にてリリース。
+-とらのあなで委託販売が行われていた。
+
+**曲目
+|BGCOLOR(#b0e0e6):COLOR(#FFF):CENTER:&font(b,11pt){　Track　}|BGCOLOR(#ffb6c1):COLOR(#FFF):CENTER:&font(b,11pt){　曲名　}|BGCOLOR(#90ee90):COLOR(#FFF):CENTER:&font(b,11pt){　楽曲制作者　}|BGCOLOR(#f0e68c):COLOR(#FFF):CENTER:&font(b,11pt){　〇〇少女　}|
+|BGCOLOR(#ffb6c1):COLOR(#FFF):CENTER:&font(b,11pt){ 01 }|CENTER:女子大生怪盗キキの災難|CENTER:石風呂|CENTER:怪盗少女|
+|BGCOLOR(#90ee90):COLOR(#FFF):CENTER:&font(b,11pt){ 02 }|CENTER:ソーダポップファンクラブ|CENTER:ラムネ|CENTER:炭酸少女|
+|BGCOLOR(#f0e68c):COLOR(#FFF):CENTER:&font(b,11pt){ 03 }|CENTER:電脳少女|CENTER:センターマン|CENTER:電脳少女|
+|BGCOLOR(#90ee90):COLOR(#FFF):CENTER:&font(b,11pt){ 04 }|CENTER:カタメツムリガール|CENTER:CapsLack|CENTER:片目瞑りカタツムリ少女|
+|BGCOLOR(#ffb6c1):COLOR(#FFF):CENTER:&font(b,11pt){ 05 }|CENTER:ユメのうみ|CENTER:虚空|CENTER:夢想少女|
+|BGCOLOR(#f0e68c):COLOR(#FFF):CENTER:&font(b,11pt){ 06 }|CENTER:[[さよならのまばたき]]|CENTER:いつもの|CENTER:お芝居少女|
+|BGCOLOR(#ffb6c1):COLOR(#FFF):CENTER:&font(b,11pt){ 07 }|CENTER:tomato|CENTER:オギノジュン|CENTER:革命少女|
+|BGCOLOR(#90ee90):COLOR(#FFF):CENTER:&font(b,11pt){ 08 }|CENTER:唸る刃と群青正義|CENTER:Eight|CENTER:ノコギリ少女|
+|BGCOLOR(#f0e68c):COLOR(#FFF):CENTER:&font(b,11pt){ 09 }|CENTER:狼少女とレゾンデートル|CENTER:樹人|CENTER:狼少女|
+|BGCOLOR(#90ee90):COLOR(#FFF):CENTER:&font(b,11pt){ 10 }|CENTER:薄暗い場所に戻ろう|CENTER:よの|CENTER:根暗少女|
+|BGCOLOR(#ffb6c1):COLOR(#FFF):CENTER:&font(b,11pt){ 11 }|CENTER:夕凪|CENTER:つきな|CENTER:夕凪少女|
+|BGCOLOR(#f0e68c):COLOR(#FFF):CENTER:&font(b,11pt){ 12 }|CENTER:高解像度記録少女（2400dpi）|CENTER:走|CENTER:高解像度記録少女|
+|BGCOLOR(#ffb6c1):COLOR(#FFF):CENTER:&font(b,11pt){ 13 }|CENTER:iff|CENTER:テレ太|CENTER:飛行少女|
+|BGCOLOR(#90ee90):COLOR(#FFF):CENTER:&font(b,11pt){ 14 }|CENTER:[[真っ平らガール]]|CENTER:藤本薪|CENTER:貧乳少女|
+|BGCOLOR(#f0e68c):COLOR(#FFF):CENTER:&font(b,11pt){ 15 }|CENTER:[[色付いて]]|CENTER:オセロP|CENTER:白黒少女|
+
+**リンク
+-[[特設サイト>>http://shoujojihanki.xxxxxxxx.jp/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/12/75/040030127574.html]]
+
+**コメント
+- 貧乳少女ってｗｗ好きなPばっかり！欲しい！  -- 名無しさん  (2013-04-14 22:10:44)
+- 少女戦争の続きかと思った・・・欲しい！！  -- 名無しさん  (2013-04-14 22:33:33)
+- なんか凄い!  -- 名無しさん  (2013-04-15 16:36:40)
+- ノコギリ気になる…。  -- 名無しさん  (2013-04-15 23:30:19)
+- ボマス近いからか  -- 名無しさん  (2013-04-20 15:04:37)
+- 通販ないのかな…  -- 名無しさん  (2013-05-08 12:27:42)
+- とらのあなで通販始まったよ！  -- 名無しさん  (2013-06-05 16:39:37)
+- ボマス２５で再販するかもよ  -- 名無しさん  (2013-07-04 12:30:37)
+- うああ欲しい欲しい!  -- 名無しさん  (2015-02-05 22:58:22)
+- 買ったー、薄暗い場所に戻ろうが大好き！  -- 名無しさん  (2015-12-04 11:16:24)
+#comment()

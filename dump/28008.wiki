@@ -1,0 +1,41 @@
+#right(){&furigana(まさみちえ)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/24587311" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/24587311">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-そこらへんにいるお絵かき中毒者。
+-とても絵が綺麗。アブナイ方向の絵も描ける。
+-ニコ動では、 [[ぴおーね]]氏の [[桜と告白]]より活動開始。
+-その後は、 [[銀河方面P]]や [[梅とら]]氏を中心に様々のPとコラボしている。
+-- [[すこっち]]氏の 『PVつけてみた』企画では、じん([[自然の敵P]])の [[人造エネミー]]にPVをつけた。
+-好きな食べ物はすき焼き。ただし、肉が100g 2000円以下だと満足できないらしい。
+
+**リンク
+-[[pixiv>>http://www.pixiv.net/member.php?id=529858]]
+-[[piapro>>http://piapro.jp/himiko97]]
+-[[twitter>>http://twitter.com/masamichie]]
+
+**曲
+#list_by_tag(柾見ちえ,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(柾見ちえCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm13976072)|&nicovideo(sm14243049)|
+|&nicovideo(sm14418356)|&nicovideo(sm14864523)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm14907741)|&nicovideo(sm15338012)|
+|&nicovideo(sm15697640)|&nicovideo(sm16422178)|
+|&nicovideo(sm16493013)|&nicovideo(sm17092280)|
+|&nicovideo(sm17373315)|&nicovideo(sm17563677)|
+|&nicovideo(sm17567396)|&nicovideo(sm17634910)|
+|&nicovideo(sm17956353)|&nicovideo(sm18193314)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm18530183)|&nicovideo(http://www.nicovideo.jp/watch/nm18530221)|
+|&nicovideo(sm18615759)|&nicovideo(sm18962893)|
+|&nicovideo(sm19207905)|&nicovideo(sm19233263)|
+|&nicovideo(sm19570903)|&nicovideo(sm19788399)|
+|&nicovideo(sm19980362)|&nicovideo(sm21021649)|
+|&nicovideo(sm22186286)|&nicovideo(sm22316118)|
+
+**コメント
+- 作成乙です♪ 威風堂々しか見たことないから、他にも見てみようかなぁ！  -- りんご味  (2014-01-03 08:38:32)
+#comment()

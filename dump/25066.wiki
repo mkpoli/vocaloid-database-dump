@@ -1,0 +1,31 @@
+#right(){&furigana(かいこP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/5716353" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/5716353">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-ハンドルネームはwiwaxia。
+-使用するボーカロイドは、初音ミク、巡音ルカ、氷山キヨテル、猫村いろは、ZOLA PROJECT。
+-作詞・作曲のみならず、ＰＶも自分で手掛ける多才な作り手。
+
+**リンク
+-[[作者ホームページ>>http://www.linkclub.or.jp/~mickey/ ]]
+-[[作者ブログ>>http://wiwa.blog60.fc2.com/]]
+-[[YouTube>>https://www.youtube.com/channel/UCnC_YqbRqr_PoRD9IaBTXkw]]
+-[[twitter>>http://twitter.com/wiwaxia_m]]
+
+**曲
+#list_by_tag(懐古P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(懐古PCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm2363920)|&nicovideo(sm2727265)|
+|&nicovideo(sm2934797)|&nicovideo(sm3247111)|
+|&nicovideo(sm3914867)|&nicovideo(sm4682907)|
+|&nicovideo(sm5592610)|&nicovideo(sm6212104)|
+|&nicovideo(sm6696898)|&nicovideo(sm7130620)|
+
+**コメント
+- 懐古Pさんの作品は懐かしい曲調は勿論、毎回、趣向を凝らしたPVが大好きです。これからも再生数にこだわらず、良い作品を作り続けて下さい。  -- 竜奇  (2013-12-19 21:50:13)
+- 懐古Pの歌詞センスは素敵。応援してます！  -- すがり  (2013-12-21 00:07:27)
+#comment()

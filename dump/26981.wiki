@@ -1,0 +1,26 @@
+#right(){&furigana(りせっと)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/35343403" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/35343403">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-2013年1月、 『[[声は]]』 にてボカロデビュー。
+-Lilyを使用したエモーショナルなロック作品を投稿しているボカロP。
+-HNの由来は、河野裕著作の小説「サクラダリセット」のタイトルから。
+-2作目の 『[[零れ]]』 は、「Lily誕生祭 2013 VOCALOTRACKS×Lily 楽曲コンテスト」で優秀作品に選ばれた。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/re_set]]
+-[[Twitter>>http://twitter.com/reset_s728]]
+
+**曲
+#list_by_tag(リセット,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(リセットCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm19760318)|&nicovideo(http://www.nicovideo.jp/watch/sm20227430)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm21552601)|&nicovideo(http://www.nicovideo.jp/watch/sm23548932)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm23553089)|>|
+
+**コメント
+#comment()

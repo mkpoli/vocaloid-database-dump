@@ -1,0 +1,52 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/32385967" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/32385967">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-2012年6月、「[[fluorite]]」でボカロデビューした作り手。
+-力強さの中に、儚さや優しさや切なさを感じさせる、美しいメロディーのロックバラードを得意とする。
+-4作目の「[[ametrin]]」がスマッシュヒット。
+-使用ボカロは 初音ミクAppend（Dark） 一筋。
+-これまでにリリースした楽曲タイトルは全て、宝石などの石の名前で統一されている。
+-サムネなどのアートワークは 飴村氏 が手掛けることが多い。
+-2021年6月、ついに「[[angelite]]」で初の殿堂入りを達成。
+
+**リンク
+-[[Twitter>>https://twitter.com/narry_y]]
+-[[PIAPRO>>http://piapro.jp/narry]]
+-[[Youtube>>https://www.youtube.com/@narry_y/featured]]
+-[[Booth>>https://narry.booth.pm/]]
+-[[Bandcamp>>https://garnet-narry.bandcamp.com/]]
+
+**曲
+#list_by_tag(narry,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(narryCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|>|BGCOLOR(#0080ff):COLOR(#FFF):CENTER:&font(b,11pt){オリジナル曲}|
+|&nicovideo(sm18221065)|&nicovideo(sm19187792)|
+|&nicovideo(sm19993301)|&nicovideo(sm19993478)|
+|&nicovideo(sm21344468)|&nicovideo(sm21344540)|
+|&nicovideo(sm22895807)|&nicovideo(sm23978454)|
+|&nicovideo(sm25615041)|&nicovideo(sm27766197)|
+|&nicovideo(sm28667367)|&nicovideo(sm28667498)|
+|&nicovideo(sm29304298)|&nicovideo(sm30587066)|
+|&nicovideo(sm31497479)|&nicovideo(sm32110386)|
+|&nicovideo(sm33036364)|&nicovideo(sm33070462)|
+|&nicovideo(sm33097622)|&nicovideo(sm33111956)|
+|&nicovideo(sm33734011)|&nicovideo(sm34391095)|
+
+**コメント
+- narryさんの曲ほんとに大好きだ・・・！  -- 名無しさん  (2013-07-18 20:24:18)
+- この人の曲、全て好きです。  -- 名無しさん  (2013-07-21 16:31:12)
+- 処女作のころからずっと好き！応援してます！  -- 名無しさん  (2013-07-21 16:34:34)
+- うーん…ametrin3万しか伸びてなかったのか…　今後もっと有名になってほしいな  -- 名無しさん  (2013-08-06 19:37:38)
+- もっと評価されてもいいのになぁ  -- 名無しさん  (2013-08-27 02:25:43)
+- 今まで知らなかったけど、とても綺麗な曲ばかりなんですね。陰ながら応援しています。  -- 名無しさん  (2013-11-03 03:41:18)
+- この人の曲はもっと評価されてほしいな。歌詞もメロディもすごく綺麗。  -- 名無しさん  (2014-05-01 18:55:13)
+- この方の曲は曲名の宝石みたいにキラキラきれいで癒されるんだよなぁ・・・  -- 名無しさん  (2014-07-19 13:40:58)
+- この人の曲綺麗・・・・  -- 名無しさん  (2015-07-10 19:57:24)
+- narryさんにハマると石の名前にちょっと詳しくなれる  -- 名無しさん  (2016-04-20 09:27:47)
+- 最近知ったけど、もっと評価されてほしい。  -- 名無しさん  (2017-01-07 14:52:50)
+#comment()

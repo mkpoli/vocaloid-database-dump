@@ -1,0 +1,37 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm20597919)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){I shout at the world quietly.}|CENTER:-|
+
+|&bold(){[[CapsLack]]}|
+
+|流通|CENTER:即売|
+|発売|CENTER:2013年4月27日|
+|価格|CENTER:￥1,000（税込）|
+|サークル|CENTER:コントレックスシアタールーム|
+
+**CD紹介
+-CapsLack氏 の 1st album.
+-「[[フェネストラ]]」などの既存曲に新曲を加えた全10曲を収録。
+-アートワークを あをこ氏 が、マスタリングを [[もっふーP]] が、動画を えむめろ氏 が手掛ける。
+-THE VOC@LOiD 超 M@STER 24（超ボーマス2）にてリリース。
+
+**曲目
++線香花火と夜虫の灯
++[[僕を必要としない君が造る電脳世界で]]
++[[フェネストラ]]
++嘘塗ビート
++[[虚に伏すゾウ、夕立の空中曲芸]]
++[[フネートルの大事な絵]]
++[[近未来脳内科学者]]
++[[三拍子で縷説する彗星と僕の違い]]
++[[八日目、サイレンは止む]]
++[[真夜中と混線少年]]
+
+**リンク
+-[[Twitter>>http://twitter.com/CapsLack]]
+
+**コメント
+//- 追加乙！！！  -- 良太  (2014-09-10 16:33:19)
+#comment()

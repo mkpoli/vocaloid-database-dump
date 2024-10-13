@@ -1,0 +1,35 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo(sm20658340)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Evergreen]]（yuxuki waga）&br()[[Amber]]（Leggysalad）|CENTER:&bold(){Cielo}|CENTER:[[AND AWAKE]]&br()-|
+
+|&bold(){[[yuxuki]]}|&bold(){[[Leggysalad]]}|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2013年4月27日||
+|価格|CENTER:￥1,000|CENTER:￥1,500（税込）|
+|サークル|>|CENTER:s10rw|
+
+**CD紹介
+-yuxuki waga氏とkevin mitsunaga（Leggysalad）氏のスプリットアルバム。
+-タイトル『Cielo』は、イタリア語で「空」の意。それぞれが大切にしている「浮遊感・多幸感」を各3曲、合計6曲のアルバムにパッケージングしている。
+-VOCALOID曲の他、本人歌唱の曲やインストゥルメンタルも収録。
+-特設ページにてブックレットがダウンロードができる。
+-THE VOC@LOiD 超 M@STER 24（超ボーマス24）で頒布。
+-とらのあなで委託販売が行われている。
+
+**曲目
++Float / yuxuki waga / 初音ミクAppend sweet
++[[Quiet]] / yuxuki waga / 初音ミクAppend sweet
++Ordinary films / yuxuki waga / yuxuki waga
++Aquamarine / kevin mitsunaga
++[[飴色の暮らし]] / kevin mitsunaga / 初音ミク
++おはよう / kevin mitsunaga / 初音ミク
+
+**リンク
+-[[特設ページ>>http://s10rw.net/cielo/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/11/91/040030119182.html]]
+
+**コメント
+#comment()

@@ -1,0 +1,75 @@
+#right(){&furigana(えろるやこうせんP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/39808904" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/39808904">【ニコニコ動画】作品集：エロルヤ光線Ｐ</a></iframe>)
+
+**特徴
+作り手名：『&u(){エロルヤ光線P}』（&u(){えろるやこうせんP}）
+-「[[ナショナルキッド]]」でボカロPデビューした作り手。
+-P名の由来はナショナルキッドの武器である「エロルヤ光線銃」から。
+-ニコニコインディーズでは「門松円化（かどまつまどか）」という名義も使用する。れっきとした女性である。
+-曲調は打ち込みを多用し、アングラ色を感じさせながらも、何だかクセになるようなものが多い。
+-PVにも力を入れており、コラージュとMMDを駆使した、どこかレトロで、狂気を感じさせるPVが特徴。
+-現在は渋谷でライブを行うなど、精力的に活動している。
+-2015年には「東京デザインウィーク」のヤングクリエイター展・ミュージック部門に自分の作品を出展した。
+-2015年11月11日に投稿された「[[日の出シンフォニー]]」を以て、少なくとも、1年間はボカロPとしての活動を中止するとTwitterで宣言している。
+
+**リンク
+//-[[女鬼女鬼(ニョキニョキッポウ) - 作者HP>>https://00kmmmk00.wix.com/nyoki]]
+//-&s(){[[作者HP>>http://wooperlooper.jimdo.com/]]}
+//-[[PIAPRO>>https://piapro.jp/aaaaatama]]
+-[[ニコニコ>>https://www.nicovideo.jp/user/36130410]]
+-[[YouTube>>https://www.youtube.com/user/87ge67ge]]
+//-[[Frekul>>http://frekul.com/artists/profile/atama67ge]]
+//-&s(){[[Vocaroiders>>http://vocaloiders.com/4250/]]}
+-[[Twitter>>https://twitter.com/o2222222222]]
+
+**曲
+#list_by_tagsearch(エロルヤ光線P,sort=furigana2,errmsg=まだ曲が登録されていません。,and,100)
+
+**CD
+#list_by_tagsearch(エロルヤ光線PCD,sort=furigana2,errmsg=まだCDが登録されていません。,and,100)
+
+**オリジナル曲
+|&nicovideo(sm22161348)|&nicovideo(sm22232412)|
+|&nicovideo(sm22279560)|&nicovideo(sm22419423)|
+|&nicovideo(sm22564273)|&nicovideo(sm22734011)|
+|&nicovideo(sm23194534)|&nicovideo(sm23405439)|
+|&nicovideo(sm23896010)|&nicovideo(sm24225544)|
+|&nicovideo(sm24274272)|&nicovideo(sm24378791)|
+|&nicovideo(sm24590883)|&nicovideo(sm24814327)|
+|&nicovideo(sm25338601)|&nicovideo(sm25406964)|
+|&nicovideo(sm25830527)|&nicovideo(sm26063440)|
+|&nicovideo(sm26156670)|&nicovideo(sm26623121)|
+|&nicovideo(sm26830751)|&nicovideo(sm27061084)|
+|&nicovideo(sm27265103)|&nicovideo(sm27355497)|
+|&nicovideo(sm27563731)|&nicovideo(sm31514479)|
+|&nicovideo(sm33740794)|&nicovideo(sm33930030)|
+|&nicovideo(sm34103556)|>|
+
+**カバー曲
+|&nicovideo(sm23029831)|
+
+**関連タグ内の更新履歴
+#region(close,関連タグ内の更新履歴)
+関連タグ内の更新履歴
+※「エロルヤ光線P」「エロルヤ光線PCD」タグ内で最近編集やコメントのあった記事を新しい方から10件表示しています。
+#list_by_tagsearch(エロルヤ光線P,エロルヤ光線PCD,sort=timestamp,sort2=desc,errmsg=まだ曲、CDが登録されていません。,or,10)
+#endregion
+
+**コメント
+- エロルヤ光線Pの性別が女性だったのにはビックリしました！これからもレトロでカオスな作品を作り続けて下さい。  -- 竜奇  (2014-07-02 00:20:45)
+- 大好きです  -- 梅  (2016-02-22 22:10:03)
+- 最近知りました  -- 山田  (2016-05-15 22:25:55)
+- 癖になる  -- 名無しさん  (2018-10-22 21:15:33)
+- ああ……すべて非公開になってしまった。でも近いうちに何か動きがあると言っていたから希望はある  -- 名無しさん  (2022-01-22 11:22:02)
+- 動きがある？  -- 名無しさん  (2022-05-30 12:24:06)
+- 今も曲出してますよ  -- 名無しさん  (2022-05-30 12:25:00)
+//- 市松人形になって活動してるけど？  -- 名無しさん  (2022-06-28 01:35:19)
+//- アイデンティティ　それは志向のデスティニー  -- 名無しさん  (2022-09-19 08:27:45)
+//- 市松寿ゞ謡の前世だろうな   -- 名無しさん  (2022-12-08 10:43:53)
+- 門松円化さん名義のMVで、名前は忘れたのですが「後ろでもいいから進もうよ」という歌詞がある曲が大好きでした。また聞きたいなあ。誰かこの曲名と、どこで彼女の曲が聞けるか教えてください。  -- 福永  (2024-04-15 14:00:29)
+- ↑ハートビートです  -- 名無しさん  (2024-09-04 16:01:01)
+#comment()

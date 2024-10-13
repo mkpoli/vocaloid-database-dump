@@ -1,0 +1,31 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1470_20140226124946_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[虚空図書館のリピカ>虚空図書館のリピカ/CD]]|CENTER:&bold(){Pumpkin Candy　- カボチャの照らす世界から -}|CENTER:[[Unlimited possibilities>Unlimited possibilities/CD]]|
+
+|&bold(){[[As'257G]]}|水無月龍那|楢崎このみ|
+
+発売：2014年3月12日
+価格：￥300 / 1曲￥200
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：Hach
+
+|&bold(){[[iTunes Storeで購入する>>https://itunes.apple.com/jp/album/pumpkin-candy-single/id836417959]]}|
+
+**CD紹介
+-Sound Team Layer-0のAs'257G氏の配信EP。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++[[Pumpkin Candy]]　- カボチャの照らす世界から - （feat. がくっぽいど）
++[[僕はすぐに嘘をつく]] （feat. がくっぽいど）
++[[ハッピー・コーディネイター]] （feat. がくっぽいど）
+
+**リンク
+-[[サークルサイト>>http://layer-0.shillest.net/]]
+-[[KARENT：「Pumpkin Candy　- カボチャの照らす世界から -」>>http://karent.jp/album/1470]]
+
+**コメント
+#comment()

@@ -1,0 +1,12 @@
+#right(){【登録タグ:&tags()】}
+//↑タグ忘れ防止のための表示
+曖昧さ回避のためのページ
+----
+-[[iroha>iroha/作り手]]の曲
+--[[sigh/iroha]]
+-[[yaka]]の曲
+--[[sigh/yaka]]
+-[[DATEKEN]]の曲
+--[[sigh/DATEKEN]]
+
+#include(曖昧さ回避の追加の仕方/告知)

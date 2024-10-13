@@ -1,0 +1,28 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/34089083" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/34089083">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-2012年4月、 『[[モノクロ博愛主義者]]』 でボカロデビュー。
+-2作目の『[[誘発ステロイド]]』、3作目の『[[ステップフォワード]]』と立て続けにスマッシュヒット。
+-使用ボカロは今のところ、ルカ・ミク。
+-東方系同人音楽サークル &bold(){PhantomMist} のメンバーのひとり。
+-第4回「初音ミク Project DIVA Arcade」楽曲募集企画に応募した『ステップフォワード』は選考の結果、見事に採用。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/ch_e_sa]]
+-[[Twitter>>http://twitter.com/ch_e_sa]]
+-[[PhantomMistのごにょごにょ（サークルページ）>>http://phantommist.blog.fc2.com/]]
+
+**曲
+#list_by_tag(Chesa,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(ChesaCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|>|BGCOLOR(#00d5d5):COLOR(#FFF):CENTER:&font(b,11pt){オリジナル曲}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm17538364)|&nicovideo(http://www.nicovideo.jp/watch/sm19141520)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm20765954)|>|
+
+**コメント
+#comment()

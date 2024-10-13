@@ -1,0 +1,79 @@
+#right(){&furigana(ぽわぽわーくす)&furigana()【登録タグ:&tags() 】}
+//#ref(http://img.toranoana.jp/img/21/0006/53/68/210006536826-1.jpg)
+
+&ref(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSxcDUp9naHXWYJ5NeFX0Y2S41Mv9LmTbstftARwQ0xhb8hUoZQ&usqp=CAU,x=300,y=300)
+
+|BGCOLOR(#0cb0e0):COLOR(#FFF):CENTER:&font(b,11pt){　クロスフェード　}|
+|&nicovideo(sm20615766)|
+
+|BGCOLOR(#db7093):COLOR(#FFF):CENTER:&font(b,11pt){　前作　}|BGCOLOR(#db7093):COLOR(#FFF):CENTER:&font(b,11pt){　本作　}|BGCOLOR(#db7093):COLOR(#FFF):CENTER:&font(b,11pt){　次作　}|
+|CENTER:[[コケガネのうた]]|CENTER:&bold(){ぽわぽわーくす}|CENTER:[[アルターワー・セツナポップ]]|
+
+|&bold(){[[ぽわぽわP]]}|[[Wonderlandica]]|
+
+|BGCOLOR(#0cb0e0):COLOR(#FFF):CENTER:&font(b,11pt){　流通　}|BGCOLOR(#0cb0e0):COLOR(#FFF):CENTER:&font(b,11pt){　即売　}|BGCOLOR(#0cb0e0):COLOR(#FFF):CENTER:&font(b,11pt){　通販　}|
+|BGCOLOR(#0cb0e0):COLOR(#FFF):CENTER:&font(b,11pt){　発売　}|>|CENTER:　2013年4月27日　|
+|BGCOLOR(#0cb0e0):COLOR(#FFF):CENTER:&font(b,11pt){　価格　}|CENTER:　￥2,000（税込）　|CENTER:　￥2,000（税抜）　|
+|BGCOLOR(#0cb0e0):COLOR(#FFF):CENTER:&font(b,11pt){　サークル　}|CENTER:　岐阜県　||
+
+**CD紹介
+>&bold(){明日のための昨日のまとめ。}
+-ぽわぽわP 初のベストアルバム。 書きおろし含む全25曲、益子樹氏による全リマスタリング、2枚組の超ボリュームでお届け。
+-活動4年間の集大成。ずっと聴いてくださってきた方に、僕の失態を見てきた人に、たくさんのごめんなさいと、たくさんのありがとう。（作者コメ転載）
+-アートワークは漫画家の西島大介先生が手掛ける。
+-ゲスト枠で「√Equation」に千澄氏（piano）「[[アストロノーツ]]」に [[Wonderlandica]]氏（弾き語り）を招いた布陣でお送りします。
+-The VOC@LOID超M@STER24（超ボーマス24）で初頒布。とらのあな にて通販が行われている。
+
+**Disc1曲目
+|BGCOLOR(#db7093):COLOR(#FFF):CENTER:&font(b,11pt){　Track　}|BGCOLOR(#db7093):COLOR(#FFF):CENTER:&font(b,11pt){　曲名　}|
+|BGCOLOR(#db7093):COLOR(#FFF):CENTER:&font(b,11pt){ 01 }|CENTER:[[ストロボハロー]]（remake）|
+|BGCOLOR(#db7093):COLOR(#FFF):CENTER:&font(b,11pt){ 02 }|CENTER:[[ガラクタのエレジー]]（step on step mix）|
+|BGCOLOR(#db7093):COLOR(#FFF):CENTER:&font(b,11pt){ 03 }|CENTER:METAMORPHOSE|
+|BGCOLOR(#db7093):COLOR(#FFF):CENTER:&font(b,11pt){ 04 }|CENTER:[[lifeworks]]|
+|BGCOLOR(#db7093):COLOR(#FFF):CENTER:&font(b,11pt){ 05 }|CENTER:[[Equation×**]]|
+|BGCOLOR(#db7093):COLOR(#FFF):CENTER:&font(b,11pt){ 06 }|CENTER:コンテモニア|
+|BGCOLOR(#db7093):COLOR(#FFF):CENTER:&font(b,11pt){ 07 }|CENTER:[[ストロボライト]]|
+|BGCOLOR(#db7093):COLOR(#FFF):CENTER:&font(b,11pt){ 08 }|CENTER:メモリーバイステイ|
+|BGCOLOR(#db7093):COLOR(#FFF):CENTER:&font(b,11pt){ 09 }|CENTER:[[ジニアとミーム]]|
+|BGCOLOR(#db7093):COLOR(#FFF):CENTER:&font(b,11pt){ 10 }|CENTER:[[ソラのさかな]]|
+|BGCOLOR(#db7093):COLOR(#FFF):CENTER:&font(b,11pt){ 11 }|CENTER:おはようエクスプレス|
+|BGCOLOR(#db7093):COLOR(#FFF):CENTER:&font(b,11pt){ 12 }|CENTER:[[さよならリメンバーさん]]|
+
+**Disc2曲目
+|BGCOLOR(#0cb0e0):COLOR(#FFF):CENTER:&font(b,11pt){　Track　}|BGCOLOR(#0cb0e0):COLOR(#FFF):CENTER:&font(b,11pt){　曲名　}|
+|BGCOLOR(#0cb0e0):COLOR(#FFF):CENTER:&font(b,11pt){ 01 }|CENTER:[[ハローストロボ]]|
+|BGCOLOR(#0cb0e0):COLOR(#FFF):CENTER:&font(b,11pt){ 02 }|CENTER:[[ササメク]]|
+|BGCOLOR(#0cb0e0):COLOR(#FFF):CENTER:&font(b,11pt){ 03 }|CENTER:[[Human>Human/ぽわぽわP]]（ASH ver）|
+|BGCOLOR(#0cb0e0):COLOR(#FFF):CENTER:&font(b,11pt){ 04 }|CENTER:[[怪盗・窪園チヨコは絶対ミスらない]]（ASH ver）|
+|BGCOLOR(#0cb0e0):COLOR(#FFF):CENTER:&font(b,11pt){ 05 }|CENTER:フラジール|
+|BGCOLOR(#0cb0e0):COLOR(#FFF):CENTER:&font(b,11pt){ 06 }|CENTER:[[Halo>Halo/ぽわぽわP]]|
+|BGCOLOR(#0cb0e0):COLOR(#FFF):CENTER:&font(b,11pt){ 07 }|CENTER:[[ブラウン>ブラウン/ぽわぽわP]]|
+|BGCOLOR(#0cb0e0):COLOR(#FFF):CENTER:&font(b,11pt){ 08 }|CENTER:[[ココロノコリと浮遊]]|
+|BGCOLOR(#0cb0e0):COLOR(#FFF):CENTER:&font(b,11pt){ 09 }|CENTER:√Equation|
+|BGCOLOR(#0cb0e0):COLOR(#FFF):CENTER:&font(b,11pt){ 10 }|CENTER:アストロノーツ|
+|BGCOLOR(#0cb0e0):COLOR(#FFF):CENTER:&font(b,11pt){ 11 }|CENTER:[[かげふみさんは言う]]|
+|BGCOLOR(#0cb0e0):COLOR(#FFF):CENTER:&font(b,11pt){ 12 }|CENTER:[[ストロボラスト]]|
+|BGCOLOR(#0cb0e0):COLOR(#FFF):CENTER:&font(b,11pt){ 13 }|CENTER:Goodmorning＊GoodbyeGoodbye|
+
+**リンク
+-[[公式HP>>http://www.siinamota.com]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/21/0006/53/68/210006536826.html]]
+-[[BASE>>https://gingashouten.official.ec/items/20827755]]
+
+**コメント
+- うわぁあ！  -- 名無しさん  (2013-04-15 23:18:31)
+- ぽわぽわさんべすとだああああ！！！  -- 名無しさん  (2013-04-16 07:23:22)
+- 作成おつ  -- 名無しさん  (2013-04-16 19:07:11)
+- パレットとかうたをうたうひとは最近のは入らないのか…  -- 名無しさん  (2013-04-20 00:36:04)
+- 通販いつからだろう？ぽわぽわＰ好きだから楽しみ!  -- 名無しさん  (2013-04-26 18:08:56)
+- とらのあなに通販来てたよ。  -- 名無しさん  (2013-04-30 20:14:29)
+- 今日届いたーーー！！！自分にとっての初ぽわぽわCD、聞くのが楽しみ過ぎて辛いｗｗ  -- 名無しさん  (2013-05-10 19:31:43)
+- おはようエクスプレスやばい  -- 名無しさん  (2013-05-21 16:19:33)
+- こんなの絶対買うじゃん！  -- 名無しさん  (2013-05-22 21:08:01)
+- 今Disc１通して聞いてる途中だけどマジでいい、好きすぎる  -- 名無しさん  (2013-10-03 08:40:40)
+- ひぃぃぃぃぃ欲しいいいいいい!`▼´*  -- 名無しさん  (2016-07-28 12:59:25)
+//- もたさんの曲のせいで、他の曲がだめになってしまいます。  -- 名無しさん  (2016-10-27 23:12:44)
+//- 蘇って責任とってね!                                                  なんて言わないから、  -- 名無しさん  (2016-10-27 23:14:00)
+- 前に(2014年くらい)らしんばんに中古置いてあって、ササメクとストロボに惹かれて買ったけど、これ良すぎる。かげふみさんの雰囲気、暖かくて静かで大好きだ！！  -- 名無しさん  (2018-07-22 01:46:25)
+- 誰か教えてください。ぽわぽワークスのおはようエクスプレスとセピアレコードのおやすみエクスプレスは同じものですか？  -- レイ  (2018-12-12 21:39:55)
+#comment()

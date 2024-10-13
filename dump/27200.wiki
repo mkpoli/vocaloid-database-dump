@@ -1,0 +1,12 @@
+#right(){【登録タグ:&tags()】}
+//↑タグ忘れ防止のための表示
+曖昧さ回避のためのページ
+----
+-[[ToDoP]]の曲
+--[[EXIT/ToDoP]]
+-[[Wonder-K]]の曲
+--[[Exit/Wonder-K]]
+-[[caco-2]]の曲
+--[[EXiT/caco-2]]
+
+#include(曖昧さ回避の追加の仕方/告知)

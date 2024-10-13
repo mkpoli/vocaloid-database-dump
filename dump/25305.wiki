@@ -1,0 +1,65 @@
+#right(){&furigana(てぃあら)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/17568024" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/17568024">【ニコニコ動画】</a></iframe>)
+
+**特徴
+作り手名：『&u(){てぃあら}』
+-2010年8月、 『[[Providence-End of Story-]]』 でボカロデビュー。
+-使用する合成音声は、初音ミク、GUMI、ZOLA PROJECT。
+-「第3回 Project DIVA Arcade 楽曲募集キャンペーン」企画で応募した『[[悠久-Song of Eternity-]]』&br()が見事に採用されるという快挙を達成。
+-その後、徐々に才能の頭角を表し、7作目の 『[[Undefined-End of Sorrow-]]』 にて、念願の殿堂入りも果たした。
+-まるで人間が歌っているかのような調声っぷりは圧巻。
+-ボカロ以外にも、ゲーム音楽のアレンジや歌ってみたなど、活動はマルチ。
+-とにかく、リラックマが大好きである。
+
+**リンク
+-[[StudioTiara（作者ホームページ）>>http://lovetrue-emotion.net/studiotiara/]]
+-[[Twitter>>https://twitter.com/tiara0207]]
+-[[YouTube>>https://www.youtube.com/user/StudioTiara0207]]
+
+**曲
+#list_by_tagsearch(てぃあら,sort=furigana2,errmsg=まだ曲が登録されていません。,and,100)
+
+**CD
+#list_by_tagsearch(てぃあらCD,sort=furigana2,errmsg=まだCDが登録されていません。,and,100)
+
+**動画
+|>|BGCOLOR(#dda0dd):COLOR(#FFF):CENTER:&font(b,11pt){オリジナル曲}|
+|&nicovideo(sm11911405)|&nicovideo(sm14233622)|
+|&nicovideo(sm14478721)|&nicovideo(sm15690319)|
+|&nicovideo(sm17635364)|&nicovideo(sm18271457)|
+|&nicovideo(sm19702804)|&nicovideo(sm20315560)|
+|&nicovideo(sm20727206)|&nicovideo(sm20818997)|
+|&nicovideo(sm21361055)|&nicovideo(sm21970025)|
+|&nicovideo(sm22163956)|&nicovideo(sm23427805)|
+|&nicovideo(sm24601111)|&nicovideo(sm25193602)|
+|&nicovideo(sm27024045)|&nicovideo(sm27724618)|
+|&nicovideo(sm30318762)|&nicovideo(sm30368652)|
+|&nicovideo(sm32462177)|&nicovideo(sm32497535)|
+|&nicovideo(sm36123597)|&nicovideo(sm36329465)|
+|&nicovideo(sm36543223)|&nicovideo(sm39679082)|
+|&nicovideo(sm39926168)|&nicovideo(sm40028762)|
+|&nicovideo(sm41682597)|&nicovideo(sm43195472)|
+//|&nicovideo()|&nicovideo()|
+
+**関連タグ内の更新履歴
+#region(close,関連タグ内の更新履歴)
+関連タグ内の更新履歴
+※「てぃあら」「てぃあらCD」タグ内で最近編集やコメントのあった記事を新しい方から10件表示しています。
+#list_by_tagsearch(てぃあら,てぃあらCD,sort=timestamp,sort2=desc,errmsg=まだ曲、CDが登録されていません。,or,10)
+#endregion
+
+**コメント
+- ミクの声が素晴らしいと思う！ジワジワ来る感じ！  -- nsnow  (2013-07-29 21:06:22)
+- てぃあらさんの調教は、胸を鷲掴みにされる。  -- ねね  (2013-10-06 16:30:40)
+- 調整がやばいし、曲の音もやばい。  -- 名無しさん  (2013-10-18 18:19:04)
+- なんで殿堂入り曲こんな少ないんだよ…こういう曲達ほど伸びるべきだろ  -- 名無しさん  (2013-11-05 23:08:33)
+- Undefinedとか最高ですね！  -- 名無しさん  (2014-05-13 01:29:00)
+- 初音ミクに出会って、ボカロを知って早数年が経ちますがてぃあらさんの曲がダントツで好きです！大好きです！もっと評価されるべきっ…！  -- 名無しさん  (2014-05-14 18:45:35)
+- 神調教だし歌ってみたもめっちゃ上手くてすごい！  -- 名無しさん  (2014-07-12 13:06:59)
+- Soleilが一番好きです。  -- 御坂  (2014-10-20 19:13:08)
+- ↑私も  -- 名無しさん  (2024-09-02 21:03:45)
+#comment()

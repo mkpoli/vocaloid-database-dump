@@ -1,0 +1,29 @@
+#right(){&furigana(とらいあど)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/36237786" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/36237786">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-2013年3月、 『[[リバイバルヒーロー]]』 にてボカロデビュー。
+-使用ボカロは今のところ、GUMI・ゆかり・ZOLA PROJECT。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/TriadD_Grid]]
+-[[Twitter>>http://twitter.com/TriadD_Grid]]
+-[[TriadD_Grid!（ブロマガ）>>http://ch.nicovideo.jp/triadd_grid]]
+
+**曲
+#list_by_tag(トライアド,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(トライアドCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|>|BGCOLOR(#381d2b):COLOR(#FFF):CENTER:&font(b,11pt){オリジナル曲}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm20315536)|&nicovideo(http://www.nicovideo.jp/watch/sm20565628)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm20676476)|&nicovideo(http://www.nicovideo.jp/watch/sm21000337)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm21531505)|&nicovideo(http://www.nicovideo.jp/watch/sm21634631)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm21842534)|&nicovideo(http://www.nicovideo.jp/watch/sm21995716)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm22065353)|&nicovideo(http://www.nicovideo.jp/watch/sm22153162)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm22377494)|&nicovideo(http://www.nicovideo.jp/watch/sm22488440)|
+
+**コメント
+#comment()

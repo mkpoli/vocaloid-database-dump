@@ -1,0 +1,46 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://img.toranoana.jp/img/04/0030/13/79/040030137959-1.gif)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Diamond Love Song]]|CENTER:&bold(){TALES}|CENTER:[[桜花繚乱>桜花繚乱/キッドP]]|
+
+|&bold(){[[キッドP]]}|[[クリスタルP]]|[[残鏡P]]|
+
+|流通|CENTER:即売|CENTER:委託|CENTER:配信|
+|発売|CENTER:2013年8月12日||CENTER:2014年12月17日|
+|価格|CENTER:￥1,000|CENTER:￥1,355（税込）|CENTER:￥1,500|
+|サークル|CENTER:クリキッド&Rump|CENTER:NnDS☆||
+
+**CD紹介
+-キッドPの5thアルバム。
+-アルバムのテーマは「物語」。
+-ジャケットイラストは[[碧茶]]氏。
+-コミックマーケット84（C84）で頒布。
+-とらのあなで委託販売が行われていた。
+-Bonus Trackを除き、KARENTレーベルよりダウンロード販売が行われている。KARENTの鏡音リン・レン7周年記念企画で配信された作品の1つ。
+
+**曲目
++Overtune
++Summer Cicada / 鏡音レン＆KAITO
++Autumn Leaves -TALES Mix- (New Mix) / 鏡音レン＆KAITO
++[[Snow Dust>SnowDust]] / 鏡音レン＆KAITO
++Apple Ripple Triplet -TALES Mix- (New Mix) / 鏡音レン / 鏡音レン
++TALES（新曲） / 鏡音レン
++[[桜花繚乱>桜花繚乱/キッドP]] (New Mix) / 鏡音レン
++[[Halloween in Prison]] / 鏡音レン＆鏡音リン
++モノクローム・ジェンガ (New Mix) / 鏡音レン
++Interlude -Diamond-
++ダイアモンド ラブソング / 鏡音レン＆KAITO
++誰かがいる街 / KAITO
++言葉の宝石箱 / 鏡音レン
++Bonus Track
+
+**リンク
+-[[作者ブログ>>http://yaplog.jp/kidsworks/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/13/79/040030137959.html]]
+-[[KARENT：「TALES」>>http://karent.jp/album/1649]]
+-[[KARENT：「鏡音リン・レン祭'14」特集ページ>>http://karent.jp/special/rinlen14]]
+-[[iTunes Store>>https://itunes.apple.com/jp/album/tales/id948654545]]
+
+**コメント
+#comment()

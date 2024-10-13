@@ -1,0 +1,41 @@
+#right(){&furigana(それでもよはあける)&furigana()【登録タグ:&tags() 】}
+#ref(http://static.tumblr.com/d07f5ded114e5dc509c219bb2249b297/z8rcjqd/bjLmoum8v/tumblr_static_cdss1.jpg,width=300,height=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm21202317)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){それでも夜は明ける}|CENTER:[[凍眠]]|
+
+|&bold(){[[銀銀]]}|
+
+|流通|CENTER:即売|CENTER:配信|
+|発売|CENTER:2013年7月7日|CENTER:2014年5月14日|
+|価格|CENTER:￥500（税込）|CENTER:￥900 / 1曲￥150|
+|サークル|CENTER:いける||
+
+**CD紹介
+-銀銀氏 の1stアルバム。
+-これまでにリリースした曲の中から選りすぐった既存曲に新曲を加えた全9曲を収録。
+-ジャケットイラストを [[koyubi]]氏 が、クロスフェードを [[しけもく>夜はこれから]]氏 が手掛ける。
+-THE VOC@LOiD M@STER 25（ボーマス25）にてリリース。
+-KARENTレーベルよりダウンロード販売が行われている。こちらはTr.1を除いた全8曲となっている。
+
+**曲目
++リフレイン
++[[ノットフェイド]]
++[[サイバーケイジ]]
++[[凍眠]]
++[[リインカーネーション]]
++夜が明けるまで
++[[無機質な窓辺から]]
++未明にて
++[[あの日見た灯火は]]
+
+**リンク
+-[[特設サイト>>http://soredemonight.tumblr.com/]]
+-[[KARENT：「それでも夜は明ける」>>http://karent.jp/album/1505]]
+
+**コメント
+- 通販して欲しい！  -- 名無しさん  (2013-07-01 18:31:46)
+- 作成乙です！！　通販期待してます・・・！  -- 名無しさん  (2013-07-03 16:44:42)
+#comment()

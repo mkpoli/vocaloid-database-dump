@@ -1,0 +1,39 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1385_20131122203741_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[la la la la]]（Chiquewa）&br()[[Sweet Love>Sweet Love/CD]]（ぱんだっち）|CENTER:&bold(){Odyssey}|CENTER:[[パンダ大作戦]]&br()[[わさび]]（Chiquewa）|
+
+|&bold(){[[Chiquewa]]}|&bold(){[[ぱんだっち]]}|
+
+|流通|CENTER:即売|CENTER:配信|
+|発売|CENTER:2013年11月17日|CENTER:2013年12月9日|
+|価格|CENTER:￥|CENTER:￥900 / 1曲￥150|
+|サークル|CENTER:Sasakama Studio||
+
+|&bold(){[[iTunes Storeで購入する>>https://itunes.apple.com/jp/album/odyssey/id771605617]]}|
+
+**CD紹介
+-Chiquewa氏とぱんだっち氏のサークル・ササカマスタジオのアルバム。
+-ファンク、ソウル、R&B、そしてラテンソウル、ジャズファンクといったブラックミュージックが詰まった1枚。
+-イラストを花菜.kan-na氏が担当。
+-THE VOC@LOiD M@STER 27（ボーマス27）で初頒布。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++[[Odyssey]] （feat. 巡音ルカ） / Chiquewa
++[[Monster>Monster/Chiquewa]] （feat. 巡音ルカ） / Chiquewa
++[[Hysteria]] （feat. 巡音ルカ） / ぱんだっち
++音速Groover （feat. 巡音ルカ） / Chiquewa
++[[Rowdy Girl]] （feat. 巡音ルカ） / ぱんだっち・Chiquewa
++[[SuperDrive]] （feat. 巡音ルカ） / Chiquewa
++GINGA （instrumentl） / Chiquewa
++[[Anything For You]] （feat. 巡音ルカ） / Chiquewa
+
+**リンク
+-[[作者ブログ>>http://chiquewa.blog.eonet.jp/voice_organique/]]
+-[[特設サイト>>http://odyssey-sasakama.blogspot.jp/]]
+-[[KARENT：「Odyssey」>>http://karent.jp/album/1385]]
+
+**コメント
+#comment()

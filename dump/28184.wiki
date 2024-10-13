@@ -1,0 +1,28 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1401_20131206163242_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[EMAIL feat.初音ミク]]|CENTER:&bold(){Digital Love feat. Hatsune Miku}|CENTER:[[STAR GUITAR feat.初音ミク]]|
+
+|&bold(){[[エレキP>BIGHEAD]]}|
+
+発売：2014年1月8日
+価格：￥150
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：砂糖飴子
+
+**CD紹介
+-エレキPのカバーシングル。
+-ダフトパンクの同名曲のカバー。
+-「KARENT」と「ROTH ENTERTAINMENT」による共同レーベル、「Lip Sync Records」からのリリース第11弾となる。
+
+**曲目
++Digital Love （feat. 初音ミク）
+
+**リンク
+-[[Lip Sync Records>>http://lipsync-records.jp]]
+-[[KARENT：「Digital Love feat. Hatsune Miku」>>http://karent.jp/album/1401]]
+
+**コメント
+#comment()

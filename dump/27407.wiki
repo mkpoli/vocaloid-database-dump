@@ -1,0 +1,36 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+
+|&nicovideo(http://www.nicovideo.jp/watch/sm22207918)|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Weeek!!}|CENTER:-|
+
+|[[親方P]]|[[よぴー]]|[[フルーツ（笑）P]]|[[MATOPE]]|[[あきらめるP]]|
+
+|流通|CENTER:即売|
+|発売|CENTER:2013年11月17日|
+|価格|CENTER:￥1,000（税込）|
+|サークル|CENTER:週末ボマー|
+
+**CD紹介
+-「曜日」をテーマにしたコンピCD。全8曲の収録曲は全て書き下ろし。
+-ジャケットイラストは [[あきらめるP]] が手掛ける。
+-THE VOC@LOiD M@STER27（ボーマス27）にてリリース。
+
+**曲目
++サエズリ双月譚　/　親方P feat. 結月ゆかり
++最後の花火　/　GOTS feat. CUL
++[[水の色]]　/　よぴー feat. 初音ミク
++始まりの木　/　MATOPE feat. GUMI
++[[GOLD]]　/　GOTS feat. Lily
++[[土埃五十七番街]]　/　親方P feat. 蒼姫ラピス・GUMI
++明日朝日昇れば　/　MATOPE feat. 神威がくぽ
++Weeek!!　/　よぴー feat. 初音ミク・GUMI・結月ゆかり・Lily
+
+**リンク
+-[[nami（親方P）のブロマガ（ブロマガ）>>http://ch.nicovideo.jp/nami13th/blomaga/ar361355]]
+
+**コメント
+- lilyだ！  -- 名無しさん  (2013-11-17 10:51:35)
+- ラピスだ！  -- なりあさ  (2021-10-30 16:40:35)
+#comment()

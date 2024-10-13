@@ -1,0 +1,60 @@
+#right(){&furigana(100かいおうと)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/33783023" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/33783023">【ニコニコ動画】</a></iframe>)
+
+**特徴
+作り手名：『&u(){100回嘔吐}』（&u(){100かいおうと}）
+-2012年7月、『俺の妹がこんなに可愛いわけがない。』 ED曲募集応募作品の「[[声に出して爆発してしまわないわけがない。]]」にてボカロデビュー。
+-使用合成音声は現在のところ[[GUMI>Megpoid]]、[[初音ミク]]、[[v flower]]、[[音街ウナ]]、[[IA]]、[[可不]]
+-このアーティスト名には「100回吐いても世界は続く、そんな物語を。」という意味が込められている。
+-次の曲が殿堂入りを達成している。&br()&list_by_tagsearch(100回嘔吐,殿堂入り,sort=furigana,option=nolist,nolistspace=、,100)
+
+**リンク
+-[[Twitter>>https://twitter.com/100outo]]
+-[[PIAPRO>>https://piapro.jp/hyakkaiouto]]
+-[[Youtube>>https://www.youtube.com/channel/UCZAgssIVgZSOv8UxjRd2knQ]]
+-[[BOOTH>>https://100kaiouto.booth.pm]]
+
+**曲
+#list_by_tag(100回嘔吐,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(100回嘔吐CD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|>|BGCOLOR(#2e8b57):COLOR(#FFF):CENTER:&font(b,11pt){オリジナル曲}|
+|&nicovideo(sm18494369)|&nicovideo(sm18904304)|
+|&nicovideo(sm19287171)|&nicovideo(sm19439632)|
+|&nicovideo(sm20310371)|&nicovideo(sm20473699)|
+|&nicovideo(sm20910673)|&nicovideo(sm21106061)|
+|&nicovideo(sm24470593)|&nicovideo(sm26158913)|
+|&nicovideo(sm27201802)|&nicovideo(sm28543270)|
+|&nicovideo(sm29979500)|&nicovideo(sm30283005)|
+|&nicovideo(sm30983759)|&nicovideo(sm31771021)|
+|&nicovideo(sm32242015)|&nicovideo(sm32274274)|
+|&nicovideo(sm32529440)|&nicovideo(sm32855011)|
+|&nicovideo(sm33112693)|&nicovideo(sm33784066)|
+|&nicovideo(sm33784092)|&nicovideo(sm34307024)|
+|&nicovideo(sm35916073)|&nicovideo(sm36170888)|
+|&nicovideo(sm36364736)|&nicovideo(sm36528960)|
+|&nicovideo(sm36783660)|&nicovideo(sm37452186)|
+|&nicovideo(sm37937629)|&nicovideo(sm38401690)|
+|&nicovideo(sm38814699)|&nicovideo(sm38926591)|
+|&nicovideo(sm39821379)|&youtube(https://www.youtube.com/watch?v=1abv0QtUUhE){342,187}|
+|&youtube(https://www.youtube.com/watch?v=cuU2MpQ1lvs){342,187}|&nicovideo(sm42535327)|
+//|&nicovideo()|&nicovideo()|
+//|&youtube(){342,187}|&youtube(){342,187}|
+
+**コメント
+- 100回嘔吐さんすごく好き！これからも頑張ってほしい。  -- 真降  (2013-07-06 00:13:21)
+- 「ひらきなおって宙返り」が好きすぎる！  -- 名無しさん  (2013-07-13 14:37:29)
+- どれ聞いてもハズレがない気がする。  -- ぱんミミ  (2013-10-25 23:52:04)
+- この人はあと2年早ければ確実に売れる実力があった  -- 名無しさん  (2015-11-24 15:00:10)
+- Flowerの良さに気づかせてくれたP。  -- 名無しさん  (2019-06-11 16:54:42)
+- flowerとGUMIの組み合わせ好き。神。ありがとう。大好き。どれも神曲で、  -- 名無しだよ  (2019-06-13 00:40:08)
+- 「 続く青 」の歌詞ページ作成、お願いします  -- Su-Kun  (2020-12-21 04:37:32)
+//- 100回嘔吐さん、  -- ABURADEBURA  (2021-05-03 19:49:10)
+#comment()

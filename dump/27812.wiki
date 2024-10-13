@@ -1,0 +1,69 @@
+#right(){&furigana(くろさわまとか)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/35717316" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/35717316">【ニコニコ動画】黒澤マドカのマイリスト</a></iframe>)
+
+**特徴
+作り手名：『&u(){黒澤まどか}』（&u(){くろさわまどか}）
+-「[[黒髪少女]]」でデビューしたボカロP。
+-現在の名義は『&bold(){黒澤マドカ}』。
+-使用ボカロは、ミク、IA、レン、MEIKO、リン、ルカ、ゆかり、GUMI。
+-氏の正体はなんと、「[[初音ミクの消失-DEAD END-を歌ってみた>>https://www.nicovideo.jp/watch/sm8236224]]」で人間卒業してしまった&bold(){弟の姉}である。
+-なお、黒澤まどかを名乗る前に弟の姉名義でUTAUオリジナル曲を発表している。また、UTAU「姉音モネ」の中の人でもある。
+-これまでに殿堂入りを達成した曲は、以下の通り。「[[giga戯画witch]]」「[[Chilledren]]」「[[鳳仙花>鳳仙花/黒澤まどか]]」「[[盗人シンデレラ]]」
+
+**リンク
+//-[[●黒澤まどかのブログ●（作者ブログ）>>http://yaplog.jp/kurosawamadoka/]]
+-[[Twitter>>https://twitter.com/kurosawamadoka]]
+-[[UTAU楽曲データベース「弟の姉」ページ>>https://www24.atwiki.jp/utauuuta/pages/1454.html]]
+-[[ニコニコ>>https://www.nicovideo.jp/user/31695079]]
+-[[YouTube>>https://www.youtube.com/user/kurosawamadoka]]
+
+**曲
+#list_by_tag(黒澤まどか,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(黒澤まどかCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm14147342)|&nicovideo(sm16510674)|
+|&nicovideo(sm20086197)|&nicovideo(sm20649669)|
+|&nicovideo(sm20698845)|&nicovideo(sm20735889)|
+|&nicovideo(sm20869754)|&nicovideo(sm21333904)|
+|&nicovideo(sm21479692)|&nicovideo(sm21683240)|
+|&nicovideo(sm21981492)|&nicovideo(sm22372767)|
+|&nicovideo(sm24210212)|&nicovideo(sm24449632)|
+|&nicovideo(sm27688379)|&nicovideo(sm27737471)|
+|&nicovideo(sm29347637)|&nicovideo(sm29607731)|
+|&nicovideo(sm30243654)|&nicovideo(sm31103265)|
+|&nicovideo(sm31841406)|&nicovideo(sm31926976)|
+|&nicovideo(sm32576656)|&nicovideo(sm33874381)|
+|&nicovideo(sm36632969)|&nicovideo(sm37477729)|
+|&nicovideo(sm40520414)|&nicovideo(sm40600516)|
+|&nicovideo(sm40705187)|&nicovideo(sm40818223)|
+|&nicovideo(sm40985166)|&nicovideo(sm41085024)|
+|&nicovideo(sm41158144)|&nicovideo(sm41205973)|
+|&nicovideo(sm41448389)|&nicovideo(sm41681190)|
+|&nicovideo(sm41753929)|&nicovideo(sm41907293)|
+|&nicovideo(sm41948062)|&nicovideo(sm42031512)|
+|&nicovideo(sm42122606)|&nicovideo(sm42290633)|
+|&nicovideo(sm42400917)|&nicovideo(sm42554495)|
+
+**コメント
+- かわいい  -- はらり  (2014-02-22 15:07:15)
+- どの曲も最高！  -- ュナ*  (2014-06-24 20:28:50)
+- うっそ、弟の姉さんだったの！？知らんかった⋯！！  -- 名無しさん  (2014-09-12 21:29:19)
+- (・∀・)b  -- 美桜  (2014-11-27 15:51:21)
+- 弟の姉さんだったの！？ちょっとまって人間卒業どころじゃない宇宙卒業や(誉め言葉)  -- モモ  (2014-12-04 19:12:34)
+- サクラのカオリの歌詞誰かお願いします  -- girotin  (2014-12-06 14:08:46)
+- 黄金の鍵の歌詞誰かお願いします --  -- 名無しさん  (2015-03-05 13:29:25)
+- 祭りと七つ子の歌詞誰かお願いします  --  名無しさん  (2015-03-09 10:34:23)
+//- 氏曰く、ごみくずなので早く死にたい。  -- 名無しさん  (2016-03-13 02:46:07)
+- giga戯画witch超ハマった☆彡  -- 縺?＜縺｣縺｡縺｣縺｡検  (2017-03-12 17:25:38)
+- どの曲も独特のリズムっていうか、中毒性？ が高くて気づけば黒澤さんの曲聴いてる。  -- 名無しさん  (2017-03-26 15:26:40)
+- 黒澤さんの曲、どれもいいですね～！  -- 初  (2017-09-14 18:56:17)
+- 整形マーメイドまじ共感できてはまる！！  -- まか  (2017-12-17 22:02:22)
+- 月夜の５拍子の歌詞誰か頼みます！！  -- 泡沫  (2020-08-14 20:28:11)
+#comment()

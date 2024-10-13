@@ -1,0 +1,48 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+|&nicovideo(sm17610610)|&nicovideo(sm17645601)|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[gobbledegook>gobbledegook/CD]]|CENTER:&bold(){soap opera}|CENTER:[[憂イテストヒッツ 08～13]]|
+
+|&bold(){[[ヒーリングP]]}|
+
+|流通|CENTER:即売|CENTER:通販|
+|発売|CENTER:2012年4月28日|CENTER:2012年5月|
+|価格|CENTER:￥1,000|CENTER:￥1,000→￥500|
+|サークル|CENTER:おまいらいやされろ！||
+
+**CD紹介
+-ヒーリングPの3rdアルバム。
+-初のプレスCD。全20曲入り。
+-イラストはNo.734氏、デザインは愛レオンP。
+-THE VOC@LOiD 超 M@STER 20（超ボーマス20）で頒布。
+-作者ブログにて自家通販が行われている。
+
+**曲目
++[[no fear]] / 鏡音レンAppend power　chorus:猫村いろは
++[[シノーマン]] / 鏡音リンAppend power
++FRISBEE / MIZKI（VY1V3）　　&color(red){&bold(){※新曲}}
++[[Quiet noise]] / 巡音ルカ
++[[ピンクのコップ]] / SF-A2 開発コード miki　chorus:鏡音リンAppend power
++[[大阪から遠く離れて]] / 鏡音リンAppend sweet
++[[I'm home]] / 巡音ルカ
++グッドラック・マイディア / 鏡音レンAppend power　chorus:SF-A2 開発コード miki　　&color(red){&bold(){※新曲}}
++ロンドンだったら / 猫村いろは
++[[sofa]] / 歌愛ユキ
++夢虫 / 奏音トモ（UTAU）　　&color(red){&bold(){※新曲}}
++汚い手のベイビー / 鏡音リンAppend power　　&color(red){&bold(){※新曲}}
++[[テイスト・オブ・ハニー]] / SF-A2 開発コード miki
++川 / 歌愛ユキ　　&color(red){&bold(){※新曲}}
++[[SuperStar Stupid]] / 鏡音レンAppend power　chorus:鏡音リンAppend power
++[[有名Pの唄]] / 鏡音リンAppend power
++[[defective]] / 鏡音レンAppend power
++[[sherbet]] / SF-A2 開発コード miki
++[[PERFECT HAPPINESS]] / 鏡音リンAppend power・鏡音レンAppend power
++おやすみ また明日 / voice:月詠アイ　　&color(red){&bold(){※新曲}}
+
+**リンク
+-[[作者ブログ>>http://rrrakr.blog50.fc2.com/]]
+
+**コメント
+- 最後のクレジット？にあったしの仔って誰？  -- 名無しさん  (2013-05-06 02:13:34)
+#comment()

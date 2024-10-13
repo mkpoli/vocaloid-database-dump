@@ -1,0 +1,45 @@
+#right(){&furigana(でんぱがいえくすぷれす)&furigana()【登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186131060.jpg,x=300,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm20623041)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){電波街エクスプレス}|CENTER:[[午前六時の始発列車]]|
+
+|&bold(){[[nexus]]}|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2013年4月27日||
+|価格|CENTER:￥1,000（税込）|CENTER:￥1,433（税込）|
+|サークル|CENTER:N.S.L Works||
+
+**CD紹介
+-nexus氏 の 1st album.
+-これまでにリリースした既存曲に書き下ろしの新曲を加えた全13曲を収録。
+-アートワークは ゆ氏 が手掛ける。
+-THE VOC@LOiD 超 M@STER 24（超ボーマス2）にてリリース。
+-とらのあなで委託販売が行われている。
+
+**曲目
++[[午前六時の始発列車]]
++[[水色と宇宙船]]
++グラヴィティ グラヴィティ
++[[ナキムシコムシ]]
++[[sepia:monologue]]
++[[ワールドワイドシンフォニックシンパシー]]
++すいそう
++誰のせい
++[[0.1dB]]
++[[fake it, destination]]
++[[君の背中]]
++[[さよならtraveler]]
++[[A BEAUTIFUL LIFE>ア・ビューティフル・ライフ]]
+
+**リンク
+//-[[Tumblr>>http://nexus-js-114.tumblr.com/]]
+-[[Twitter>>http://twitter.com/nexus_js_114]]
+//-[[とらのあな>>http://p.tl/LrWe]]
+
+**コメント
+#comment()

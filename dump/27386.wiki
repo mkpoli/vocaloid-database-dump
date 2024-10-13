@@ -1,0 +1,61 @@
+#right(){&furigana(MirrorPlay)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+#amazon(B00GTJPG1O)
+
+&nicovideo(sm22262334)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Shadow Play]]|CENTER:&bold(){Mirror Play}|CENTER:[[忘却日記>忘却日記/CD]]|
+
+|&bold(){[[Diarays]]}|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2013年11月17日|CENTER:2013年11月|
+|価格|CENTER:￥1,000|CENTER:￥1,470（税込）|
+|サークル|>|CENTER:Diarays|
+
+**CD紹介
+>&bold(){What do you want to mirror in your heart?}
+CD名：『&u(){Mirror Play}』
+-3人組音楽ユニット Diarays の 3rdアルバム。
+-2ndアルバム後にリリースした既存曲に書き下ろしの新曲を加えた全10曲を収録。
+-アートワークは ぺい氏 が手掛ける。
+-THE VOC@LOiD M@STER27（ボーマス27）にてリリース。
+-Amazon、とらのあなで委託販売が行われている。
+
+**曲目
++[[メアの教育]] feat.初音ミク
++[[ナイトの正夢]] feat.初音ミク・IA
++REAL feat.Lily
++[[バベルサーカス]] feat.初音ミク
++[[follow>follow/Diarays]] feat.初音ミク
++ソラオト感覚少年 feat.IA
++[[8月32日>8月32日/Diarays]] feat.鏡音リン・鏡音レン
++[[EGOLOID]] feat.GUMI・IA・MAYU
++[[「Ib」 -forever-]] feat.初音ミク・MAYU・神威がくぽ
++[[独白ヒーロー]] feat.IA
++[[マジェンタ]]―Mirror Play― feat.MAYU・Lily　（Bonus Track）
++（Secret Track）
+
+**リンク
+-[[Twitter（コウ）>>https://twitter.com/kou_shimizu_]]
+-[[Twitter（rins）>>https://twitter.com/rins6696]]
+-[[Twitter（ショウタロス）>>https://twitter.com/sho_diarays]]
+-[[Amazon>>https://www.amazon.co.jp/dp/B00GTJPG1O]]
+//-[[とらのあな>>https://www.toranoana.jp/mailorder/article/04/0030/16/95/040030169537.html]]
+
+**コメント
+- うおおお！！  -- 名無しさん  (2013-11-16 00:17:53)
+- 追加乙です　クロスフェードのおまけがカオスだけど書下ろしはどれもよさげｗ  -- 名無しさん  (2013-11-16 01:38:55)
+- メアにIbもあって最高のアルバムでした！！あとシークレットトラックの１２曲目がとても素敵で感動しました。。。  -- 名無しさん  (2013-11-21 03:57:49)
+- 追加乙です!早く欲しいですｗSecret Trackにwktkですｗ  -- 青林檎  (2013-12-14 09:14:17)
+- ナイトの正夢の歌詞が知りたい…  -- 名無しさん  (2014-02-04 22:22:44)
+- ソラオト？リミテルの他にもあるんですか？  -- カタストロヒィー  (2014-02-16 14:56:27)
+- ユマの失明は入ってないんだね？  -- 名無しさん  (2014-04-26 07:14:06)
+- 素敵だった！！！  -- 名無しさん  (2014-06-21 19:46:53)
+- バベルサーカスってマジェンタと関わりとかありますか？  -- ヨカナーン  (2015-05-25 23:38:14)
+- ↑絶対ありますよね！マジェンタ大好きなのであって嬉しかったです。  -- ノエル  (2015-07-16 20:35:19)
+#comment()

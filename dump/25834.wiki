@@ -1,0 +1,34 @@
+#right(){&furigana(あおいの)&furigana()【登録タグ:&tags() 】}
+#image(http://thumbnail.image.shashinkan.rakuten.co.jp/shashinkan-core/showPhoto/?pkey=8464b2bdbe3d79a1e94d213621f7d223f7fd313a.79.2.2.2j1.jpg,title=葵野-AOINO2-,width=150,blank)
+&nicovideo(http://www.nicovideo.jp/watch/sm21059778)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[AOINO]]|CENTER:&bold(){葵野－AOINO2－}|CENTER:[[葵野 狐-AOINO2の弐-]]|
+
+|&bold(){[[アル†カナ]]}|
+
+発売：2013年6月23日
+価格：￥1,500（イベント価格）
+流通：即売＆同人
+サークル：アル†カナ
+
+**CD紹介
+-アル†カナが送るKAITOオンリーミニアルバム第二弾。
+-今回は和ロックに的を絞っています。
+-ブックレットが6P×2冊という&s(){変態}風変わりな仕様
+-とらのあなにて販売中。
+
+**曲目
++月華ノ空ト夜宵ノ桜
++鬼ノ哭ク頃ニ
++夜狐九尾ト紅鬼姫
++神宿歌留多丹
++葵野
++？？？
+
+**リンク
+-[[アル†カナのブログ>>http://ameblo.jp/arcana00/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/12/72/040030127223.html]]
+
+**コメント
+#comment()

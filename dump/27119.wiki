@@ -1,0 +1,38 @@
+#right(){&furigana(clear)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/29596800" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/29596800">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-As'257G（あず）。
+-音楽サークル・Sound Team Layer-0の一員。
+-VOCALOID曲だけでなく、ゲーム音楽・CM音楽等も手掛けている。
+
+**リンク
+-[[サークルサイト>>http://layer-0.shillest.net/]]
+-[[ブログ>>http://blog.livedoor.jp/layer0/]]
+-[[PIAPRO>>http://piapro.jp/as257g]]
+-[[KARENT>>http://karent.jp/artist/pp000510]]
+
+**曲
+#list_by_tag(As'257G,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(As'257GCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm11480019)|&nicovideo(sm11660224)|
+|&nicovideo(sm14226715)|&nicovideo(sm14438151)|
+|&nicovideo(sm14766464)|&nicovideo(sm16383866)|
+|&nicovideo(sm16501374)|&nicovideo(sm16832502)|
+|&nicovideo(sm16967047)|&nicovideo(sm16995150)|
+|&nicovideo(sm17066734)|&nicovideo(sm17220969)|
+|&nicovideo(sm17367539)|&nicovideo(sm18280577)|
+|&nicovideo(sm18371995)|&nicovideo(sm18439953)|
+|&nicovideo(sm19158287)|&nicovideo(sm19775328)|
+|&nicovideo(sm19927692)|&nicovideo(sm20112192)|
+|&nicovideo(sm20166868)|&nicovideo(sm20322725)|
+|&nicovideo(sm20456259)|&nicovideo(sm20582154)|
+|&nicovideo(sm20703922)|&nicovideo(sm20782509)|
+|&nicovideo(sm21709043)||
+
+**コメント
+#comment()

@@ -1,0 +1,64 @@
+#right(){&furigana(あんP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/13054128" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/13054128">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-2011年3月、 『[[SupliGirl -さぷりぃがーる-]]』 でボカロデビュー。
+-使用ボカロは今のところ、ミク・GUMI・リン・レン・ルカ・IA。
+
+**リンク
+-[[Twitter>>http://twitter.com/an_an1]]
+-[[PIAPRO>>http://piapro.jp/anan1]]
+-[[SOUND×TRIBUTE（サークルホームページ）>>http://soundtribute.web.fc2.com]]
+-[[YouTube>>http://www.youtube.com/user/anP2525]]
+
+**曲
+#list_by_tag(あんP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(あんPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|>|BGCOLOR(#33ff99):COLOR(#FFF):CENTER:&font(b,11pt){オリジナル曲}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm13909417)|&nicovideo(http://www.nicovideo.jp/watch/sm16450134)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm18957404)|&nicovideo(http://www.nicovideo.jp/watch/sm19003631)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm19162845)|&nicovideo(http://www.nicovideo.jp/watch/sm19533173)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm20350106)|&nicovideo(http://www.nicovideo.jp/watch/sm20888928)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm21761823)|&nicovideo(http://www.nicovideo.jp/watch/sm21877212)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm22019702)|&nicovideo(http://www.nicovideo.jp/watch/sm22306590)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm23045360)|&nicovideo(http://www.nicovideo.jp/watch/sm23259272)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm23349072)|&nicovideo(sm24230191)|
+|&nicovideo(sm24499877)|&nicovideo(sm24802285)|
+|&nicovideo(sm25269350)|&nicovideo(sm25560812)|
+|&nicovideo(sm27807456)|&nicovideo(sm28022071)|
+|&nicovideo(sm28572555)|&nicovideo(sm29363487)|
+|&nicovideo(sm29671434)|>|
+
+**コメント
+- サクラ舞ガール、恋のイリュージョンが好きだな！！これからの活躍に期待！！！  -- 終焉Ｐ  (2013-07-01 18:04:44)
+- 旅人の奏のMMDがすごい  -- 名無しさん  (2013-07-27 09:03:53)
+//- あんPさん早くEXITあたりの糞企業に拾われると良いですね！応援してます！  -- 名無しさん  (2013-10-17 17:35:46)
+//- 次もまた工作ですか？それで有名P気取りですか？カッコ悪いですよ。  -- 名無しさん  (2013-10-17 18:26:45)
+//- コラボしたい人リストはワロタwwwww  -- 名無しさん  (2013-10-17 21:50:53)
+//- 性格云々抜きにしても音楽センスは確実に無いな。  -- 名無しさん  (2013-10-25 17:48:33)
+//- やっぱり工作なのかな・・？あんPさんのマイリストをお気に入り登録してるのがたった３人なのが気になるｗ人気Pなはずなのに  -- 名無しさん  (2013-10-27 21:31:59)
+//- みんなコメントひどすぎじゃない？  -- 名無しさん  (2013-11-01 17:48:56)
+- 応援してます(^-^)サクラ舞ガールめっさ好きです(*/▽＼*)  -- 名無しさん  (2013-11-01 17:49:38)
+//- ↑2 全て事実だから酷くもなんともないね。  -- 名無しさん  (2013-11-01 18:01:07)
+//- 「サビもう少し盛り上げても良かった」っていうコメすら消されてる・・・何なのこいつ　糞曲ばかり作るくせに  -- 名無しさん  (2013-11-16 21:00:38)
+//- 新曲が来ました。今回も工作する予定かな？ん？ｗｗｗｗ  -- 名無しさん  (2013-11-22 19:03:04)
+//- やっぱり工作かー。だろうな。  -- 名無しさん  (2013-11-22 19:45:22)
+//- この人の悪い話が消えるときは実力相応の評価でみんなが納得したらだろうね・・・それまでは悪い噂は絶えない気がする  -- 名無しさん  (2013-11-22 20:24:07)
+//- あぁそうだ、これ貼っとくよ消えない証拠としてね。　ttp://www.nicozon.net/msg/sm22019702　空白になってるのが消したコメントの部分  -- 名無しさん  (2013-11-22 20:37:32)
+//- 工作と聞いてちょっと納得した  -- 名無しさん  (2013-11-23 01:34:14)
+//- 投稿して再生数でお金もらってるのに、工作ならやばいんじゃないかな・・・？  -- 名無しさん  (2013-11-23 01:37:25)
+- 「SupliGirl -さぷりぃがーる-」聞きたいな・・・  -- ハイサラ  (2016-03-03 20:05:31)
+//- 工作関連のコメント全部消されてて草　そうですよね、再生数1で自演工作してたあんかけだって知られるとまずいですもんね^^  -- 名無しさん  (2016-03-07 14:54:32)
+//- 早速コメ消し乙  -- 名無しさん  (2016-03-07 15:36:50)
+//- 工作ニキオッスオッス！  -- 名無しさん  (2016-03-21 14:16:00)
+//- ttp://www.tudou.com/programs/view/MgLU_K7EEuY/  -- 名無しさん  (2016-04-11 15:05:50)
+//- 工作ニキオッスオッス  -- 名無しさん  (2016-04-22 14:38:00)
+- 恋愛カフェテリア好き！  -- なる  (2016-07-31 19:52:28)
+- 2018年くらいからすべての投稿がなくなってるけど、どうしちゃったんだろう。恋愛シリーズ好きだったのに･･･。せめて無事でいて欲しい。  -- ゆかりん狂信者  (2020-06-14 03:02:45)
+- ロマンティックティックディスタンス今でも好きだよー  -- 名無しさん  (2020-12-05 15:13:20)
+- 今まで前評判から敬遠してたけどニコボで恋愛カフェテリア流れてきたの聴いたらかなり好みに刺さる曲で驚いた。やっぱり実際聴いてみないと分からないものだなぁ  -- 名無しさん  (2022-05-14 17:51:00)
+#comment()

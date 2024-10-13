@@ -1,0 +1,43 @@
+#right(){&furigana(Manboo)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/20618673" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/20618673">【ニコニコ動画】</a></iframe>)
+
+**特徴
+作り手名：『&u(){Man_boo}』(&u(){まんぼう})
+-[[死んではいません。>家の裏でマンボウが死んでるP]]生きている方のマンボウです。
+-「HeadFish Lab.」という個人ユニットで活動している。
+-トランペット奏者としても活動中。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/man_boo]]
+-[[YouTube>>http://www.youtube.com/user/pepmanbou]]
+-[[ニコニコミュニティ「トランペット吹きMan_boo（マンボウ）の「まあええか」。」>>http://com.nicovideo.jp/community/co225093]]
+-[[twitter>>http://twitter.com/man_boo]]
+-[[UTAU楽曲データベース「Man_boo」ページ>>http://www24.atwiki.jp/utauuuta/pages/3140.html]]
+
+**曲
+#list_by_tagsearch(Man_boo,sort=furigana2,errmsg=まだ曲が登録されていません。,and,100)
+
+**CD
+#list_by_tagsearch(Man_booCD,sort=furigana2,errmsg=まだCDが登録されていません。,and,100)
+
+
+**動画
+-オリジナル曲
+|&nicovideo(sm14280799)|&nicovideo(sm14441521)|
+|&nicovideo(sm15354560)|&nicovideo(sm15946120)|
+|&nicovideo(sm15952808)|&nicovideo(sm17818612)|
+|&nicovideo(sm17997630)|&nicovideo(sm19182418)|
+|&nicovideo(sm22634383)|&nicovideo(sm27231962)|
+|&nicovideo(sm27436487)||
+-アレンジカバー等
+|&nicovideo(sm13754836)|&nicovideo(sm14615674)|
+|&nicovideo(sm15095663)|&nicovideo(sm16077707)|
+|&nicovideo(sm16687639)|&nicovideo(sm18581549)|
+
+**コメント
+- 生きてるマンボウｗｗ  -- 名無しさん  (2013-11-12 12:38:08)
+#comment()

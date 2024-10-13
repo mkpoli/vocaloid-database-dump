@@ -1,0 +1,91 @@
+#right(){&furigana(MagicalSoundShower)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(nm3043842)|&nicovideo(sm7569338)|
+作詞：[[曲者P]]
+作曲：[[川口博史]]
+編曲：[[曲者P]]
+唄：[[初音ミク]]・[[SweetAnn]]
+
+**曲紹介
+曲名：『&u(){Magical Sound Shower}』
+- 原曲は、SEGAのアーケードゲーム『アウトラン』に収録されたBGM。『アウトラン』シリーズにとどまらず、SEGAの各種ゲームBGMとして使われている不朽の名曲。
+- アレンジはG.S.M. SEGA1バージョンをベースにしつつ、所々他バージョンの要素を取り入れているとのこと。ビーチサイドでのんびりのイメージなのでテンポは遅め。
+- その後、「DIVAにはセガ成分が足らない」と曲者PがさらにアレンジしてDIVAエディット動画を自作自演してみたところ、見事DIVA-ACに公式採用された。曲者Pも含め皆素晴らしきSEGA愛である。
+
+**歌詞
+the shiny world there is.
+passing blue breeze.
+splashing waves singing.
+the sound is a MAGIC.
+
+肩をすべる風が　波の歌を運ぶ
+街並みが途切れて　青の世界広がる
+
+Magic　時間がこぼれだす
+Magic　駆け抜けた波間に
+Magic　世界を包み込む
+Magic　きらめく音のシャワー
+
+
+the shiny world there is.
+passing blue breeze.
+splashing waves singing.
+the sound is a MAGIC.
+
+砂浜の足跡　脱ぎ捨てたサンダル
+振り上げたかかとで　青のしずく目覚める
+
+Magic　ココロがこぼれだす
+Magic　打ち寄せる波間に
+Magic　カラダを抱きしめる
+Magic　はじける音のシャワー
+
+
+傾く　視界に
+プリズム　虹を引く
+
+&italic(){サビ(歌詞なし)}
+
+預けた　背中を
+くすぐる　引き潮
+
+傾く　視界に
+指先　雲を引く
+
+
+the shiny world there is.
+passing blue breeze.
+splashing waves singing.
+the sound is a MAGIC.
+
+肩をすべる風が　波の歌を運ぶ
+耳澄ませばそこに　青の世界広がる
+
+Magic　時間がこぼれだす
+Magic　駆け抜けた波間に
+Magic　世界を包み込む
+Magic　きらめく音のシャワー
+
+Magic　ココロがこぼれだす
+Magic　打ち寄せる波間に
+Magic　カラダを抱きしめる
+Magic　はじける音のシャワー
+
+（Magic　時間がこぼれだす
+　Magic　駆け抜けた波間に
+　Magic　世界を包み込む
+　Magic　きらめく音のシャワー
+
+　Magic　ココロがこぼれだす…）
+
+（動画内より転載、最後の（　）内は歌詞表示されないが歌唱している部分）
+
+**コメント
+- 曲者Pページ下部に格納されていた歌詞を使用させていただきました。書き起こし作業をしてくださった方、ありがとうございます。  -- moto (2013-06-24 02:15:25)
+- このページ今出来たんだ！可愛い曲ですね。  -- リスナーの一人、ただそれだけ。  (2013-06-24 20:03:34)
+- ページ作成乙です。好きな曲なので嬉しい限りです!  -- 名無しさん  (2013-07-15 21:11:23)
+- 昭和風なメロディーも最高です！  -- 名無しさん  (2022-08-10 20:27:27)
+#comment()

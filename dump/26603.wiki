@@ -1,0 +1,65 @@
+#right(){&furigana(あさ)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/33374409" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/33374409">【ニコニコ動画】亜沙マイリスト</a></iframe>)
+
+**特徴
+作り手名：『&u(){亜沙}』（&u(){あさ}）
+-サークル「Lamp Sound Studio」で活動するベーシストであり、作詞・作曲も手がける。
+-使用する合成音声は初音ミク・MAYU・IA。
+-UTAUの楽曲も制作し、重音テトオリジナル曲「[[吉原ラメント]]」は投稿して１週間で殿堂入りするなど、高い評価を得ている。
+-絵師で重音テトの中の人である小山乃舞世氏とコラボする事が多い。
+
+**ミリオン達成状況
+-以下の楽曲が[[ミリオン>曲一覧/ミリオン曲一覧]]を達成している。
+|CENTER:&bold(){曲名}|CENTER:&bold(){100万再生}|CENTER:&bold(){200万再生}|CENTER:&bold(){備考}|
+|[[吉原ラメント]]|2014年5月4日|2019年4月26日||
+
+**リンク
+-[[作者ブログ>>https://ameblo.jp/asabassguitar/]]
+-[[UTAUデータベース「亜沙」ページ>>https://www24.atwiki.jp/utauuuta/pages/1642.html]]
+-[[Twitter>>https://twitter.com/bass_asa]]
+-[[ニコニコ>>https://www.nicovideo.jp/user/718457]]
+-[[YouTube>>https://www.youtube.com/user/asaofficialghannel]]
+
+**曲
+#list_by_tagsearch(亜沙,sort=furigana2,errmsg=まだ曲が登録されていません。,and,100)
+
+**CD
+#list_by_tagsearch(亜沙CD,sort=furigana2,errmsg=まだCDが登録されていません。,and,100)
+
+**動画
+|&nicovideo(nm9228194)|&nicovideo(nm9643864)|
+|&nicovideo(nm10699449)|&nicovideo(sm13159332)|
+|&nicovideo(nm15255150)|&nicovideo(sm18395392)|
+|&nicovideo(sm19471223)|&nicovideo(sm19913053)|
+|&nicovideo(sm20456936)|&nicovideo(sm20692427)|
+|&nicovideo(sm21050027)|&nicovideo(sm21226317)|
+|&nicovideo(sm21483617)|&nicovideo(sm22544742)|
+|&nicovideo(sm22688318)|&nicovideo(sm22834321)|
+|&nicovideo(sm22978064)|&nicovideo(sm23874809)|
+|&nicovideo(sm24555014)|&nicovideo(sm24703098)|
+|&nicovideo(sm32358067)|&nicovideo(sm37641487)|
+|&nicovideo(sm40483330)|&nicovideo(sm41447557)|
+|&nicovideo(sm41896961)|&nicovideo(sm42636474)|
+//|&nicovideo()|&nicovideo()|
+
+**関連タグ内の更新履歴
+#region(close,関連タグ内の更新履歴)
+関連タグ内の更新履歴
+※「亜沙」「亜沙CD」タグ内で最近編集やコメントのあった記事を新しい方から10件表示しています。
+#list_by_tagsearch(亜沙,亜沙CD,sort=timestamp,sort2=desc,errmsg=まだ曲、CDが登録されていません。,or,10)
+#endregion
+
+**コメント
+- 亜沙さんの曲はほんと大好きです！  -- ゴル  (2013-09-04 13:01:42)
+//- おお記事まってました！  -- 名無しさん  (2013-09-06 17:00:33)
+- 亜沙さんの歌、吉原ラメントや星詠み  -- 神崎鏡夜  (2013-09-15 15:03:04)
+- 亜沙さんの曲は吉原ラメントだけでなく、明正ロマンも最高です。  -- 玲  (2014-01-05 15:12:29)
+- 新宿、池袋…次は秋葉原曲をぜひ！  -- 名無しさん  (2014-02-20 21:25:57)
+- 新宿ソリチュード最高すぎます！これからもその様な感動できる曲期待してます！  -- 名無しさん  (2014-02-24 19:19:39)
+- 吉原ラメント本当に大好きです！感動しますし、リズムも最高です！  -- 覇桜  (2014-08-12 23:08:00)
+- 明正ロマン大好きです。  -- 元禄  (2014-09-06 10:54:12)
+#comment()

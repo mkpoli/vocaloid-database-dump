@@ -1,0 +1,42 @@
+#right(){&furigana(がらくたがいろん)&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1672_20141225221512_0280_0280.jpg)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm21217139)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){ガラクタ概論}|CENTER:[[lost and found]]|
+
+|&bold(){[[ashcolor]]}|
+
+|流通|CENTER:即売|CENTER:委託|CENTER:配信|
+|発売|CENTER:2013年7月7日||CENTER:2015年1月19日|
+|価格|CENTER:￥500（税込）|CENTER:￥630（税込）|CENTER:￥900 / 1曲￥150|
+|サークル|>|CENTER:between the colors||
+
+**CD紹介
+-ashcolor氏 の 1stアルバム。
+-これまでにリリースした曲の中から選りすぐった既存曲に新曲を加えた全9曲を収録。
+-THE VOC@LOiD M@STER 25（ボーマス25）にてリリース。
+-とらのあなで委託販売が、KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++ガラクタ概論
++[[アルクガラクタ]]
++[[little dreamer>little dreamer/ashcolor]]
++[[between the lines]]
++[[live on]]
++[[voice by voice]]
++[[Re:Re:>Re:Re:/ashcolor]]
++僕が僕であるために
++[[セツナダクト]]
+
+**リンク
+-[[between the colors（作者ホームページ）>>http://ashcolor27.web.fc2.com/index.html]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/15/58/040030155814.html]]
+-[[KARENT：「ガラクタ概論」>>http://karent.jp/album/1672]]
+-[[iTune Store>>http://itunes.apple.com/jp/album/introduction-to-odds-ends/id956723913]]
+
+**コメント
+- 委託通販本当にありがたい。今から楽しみだ。  -- 名無しさん  (2013-10-01 18:21:57)
+- 買った！  -- 名無しさん  (2014-08-30 14:26:37)
+#comment()

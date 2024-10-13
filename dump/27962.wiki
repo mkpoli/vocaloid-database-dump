@@ -1,0 +1,37 @@
+#right(){&furigana(たかひぃ)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/33655189" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/33655189">【ニコニコ動画】たかぴぃ 全作品一覧</a></iframe>)
+
+**特徴
+作り手名：『&u(){たかぴぃ}』
+-2012年11月、『[[マヤカシ]]』にてボカロデビュー。
+-使用ボカロは今のところ、ミク、IA、ゆかり、リン、レン。
+-〆切に追われる創作者達の苦悩を描き、視聴者達の心を抉った2作目の『[[Creator's Real]]』は反響が大きく、自身初の殿堂入りを達成。
+-サムネやPVなどのビジュアル関係は、絵師の chamo氏 と bob氏 が担当することが多い。
+-普段は別名義で作曲やアレンジもしている。
+
+**リンク
+-[[PIAPRO>>https://piapro.jp/takaP_GTR]]
+-[[Twitter>>https://twitter.com/niconico_takaP]]
+-[[ニコニコ>>https://www.nicovideo.jp/user/29424726]]
+-[[YouTube>>https://www.youtube.com/channel/UCD0MPDlX3HKB_mfunBqbZpw]]
+
+**曲
+#list_by_tag(たかぴぃ,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(たかぴぃCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|>|BGCOLOR(#2bd5d5):COLOR(#FFF):CENTER:&font(b,11pt){オリジナル曲}|
+|&nicovideo(sm19377445)|&nicovideo(sm19963326)|
+|&nicovideo(sm20064420)|&nicovideo(sm20798619)|
+|&nicovideo(sm21725851)|&nicovideo(sm22793112)|
+|&nicovideo(sm24759037)|&nicovideo(sm24905398)|
+|&nicovideo(sm25787636)|>|
+
+**コメント
+#comment()

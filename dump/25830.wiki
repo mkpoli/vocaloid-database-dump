@@ -1,0 +1,80 @@
+#right(){&furigana(Eight)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/25538287" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/25538287">【ニコニコ動画】</a></iframe>)
+
+**特徴
+作り手名：『&u(){Eight}』
+-2011年5月、「[[愛想レーション]]」にてボカロデビューしたロック系の作り手。
+-主に暗い内容の変拍子ロックを得意とする。青に関連する曲が多い。
+-使用ボカロは今のところ初音ミクのみ。
+-9作目の「[[フラッシュバックアンビエンス]]」がスマッシュヒット。
+-18作目の「[[四ツ谷さんによろしく]]」で、遂に悲願の初殿堂入りを達成した。
+-2021年12月4日、「[[とても素敵な六月でした]]」が自身初のミリオンを達成した。
+-昔は わさP というP名が付いていた。
+-次の曲が殿堂入りを達成している。&br()&list_by_tagsearch(Eight,殿堂入り,sort=furigana,option=nolist,nolistspace=／,100)
+
+**ミリオン達成状況
+|CENTER:&bold(){曲名}|CENTER:&bold(){100万再生}|CENTER:&bold(){備考}|
+|[[とても素敵な六月でした]]|2021年12月4日||
+
+**リンク
+-[[Twitter>>https://twitter.com/Eight0710]]
+-[[PIAPRO>>https://piapro.jp/hal86]]
+-[[YouTube>>https://www.youtube.com/channel/UCggPdSAJWdN1GlChpl6E3fQ]]
+
+**曲
+#list_by_tagsearch(Eight,100,sort=furigana2,errmsg=まだ曲が登録されていません。,and,100)
+
+**CD
+#list_by_tagsearch(EightCD,100,sort=furigana2,errmsg=まだCDが登録されていません。,and,100)
+
+**動画
+|>|BGCOLOR(#385572):COLOR(#FFF):CENTER:&font(b,11pt){オリジナル曲}|
+|&nicovideo(nm14585424)|&nicovideo(nm15300298)|
+|&nicovideo(sm15367477)|&nicovideo(sm15436357)|
+|&nicovideo(sm16520555)|&nicovideo(sm16711999)|
+|&nicovideo(sm16876567)|&nicovideo(sm17124967)|
+|&nicovideo(sm17540215)|&nicovideo(sm18153561)|
+|&nicovideo(sm18252246)|&nicovideo(sm18575223)|
+|&nicovideo(sm19028050)|&nicovideo(sm19525308)|
+|&nicovideo(sm20404319)|&nicovideo(sm20664876)|
+|&nicovideo(sm21030119)|&nicovideo(sm21113325)|
+|&nicovideo(sm21963219)|&nicovideo(sm23091627)|
+|&nicovideo(sm23278066)|&nicovideo(sm23770496)|
+|&nicovideo(sm24085901)|&nicovideo(sm26137681)|
+|&nicovideo(sm26998165)|&nicovideo(sm27056853)|
+|&nicovideo(sm30783924)|&nicovideo(sm39901728)|
+|&nicovideo(sm42395132)|>|
+//|&nicovideo()|&nicovideo()|
+
+**関連タグ内の更新履歴
+#region(close,関連タグ内の更新履歴)
+関連タグ内の更新履歴
+※「Eight」「EightCD」タグ内で最近編集やコメントのあった記事を新しい方から10件表示しています。
+#list_by_tagsearch(Eight,EightCD,sort=timestamp,sort2=desc,errmsg=まだ曲、CDが登録されていません。,or,10)
+#endregion
+
+**コメント
+- 記事製作お疲れ様です！ eightさん大好きです ずっと応援してます  -- 名無しさん  (2013-06-15 13:38:35)
+- Eightさんの曲は全部大好き！  -- 名無しさん  (2013-06-15 15:04:04)
+- いい曲多いですね  -- 名無しさん  (2013-06-25 12:50:37)
+- 新曲きたああああ！Eightさん×6274さんは最高だ  -- 名無しさん  (2013-10-03 20:46:32)
+- 曲調も勿論だが歌詞がすごく好き  -- 名無しさん  (2014-02-16 14:04:00)
+- もっと評価されるべき  -- 名無しさん  (2014-03-01 13:14:10)
+- えもい？って何？  -- 太郎丸  (2014-08-06 17:02:32)
+- DD とか 幸せ色ラウンドスケープとかもっと記事増やしてほしいです。  -- 名無しさん  (2014-11-11 15:56:31)
+- この人の曲大好きだ・・・！！！  -- 名無しさん  (2014-11-16 11:38:45)
+- もっと評価されるべきです  -- 名無しさん  (2014-12-06 15:45:24)
+- 前に出たスプリットに収録されてた鳥って曲がとても良かった  -- 名無しさん  (2015-02-15 01:36:22)
+- なんだかんだ言って一番好きなボカロPはEightさんです。  -- アルバムが欲しい  (2015-12-30 16:50:31)
+- バッドアンブレラはよ  -- 名無しさん  (2017-03-10 00:39:31)
+- ゆめをちの情報は未だにないのね……  -- 名無しさん  (2017-10-19 09:10:18)
+- この人の作る曲ホントサイコー。ヤバい（誉め言葉）  -- 六価クロム  (2018-08-02 13:07:18)
+- 各配信サイトで最憂間で君はとコバルトブルーの白昼夢が配信されたのめちゃくちゃ嬉しい  -- 名無しさん  (2021-06-05 12:59:09)
+- なんか青系のボカロが多い〜みたいな説明文なかったっけ…あれ？  -- 名無しさん  (2021-10-18 18:10:36)
+- とても素敵な六月でしたのミリオンおめでとうございます。これを機にEightさんの作る曲がより広く認知されたらいいなあと思います。ボカロではないですが、「影鳴り」という曲も好きです  -- 名無しさん  (2021-12-04 21:41:58)
+- 鳥とか少女リジェクトなど動画未投稿の曲が入ってるアルバムが配信されてとてもありがたい…  -- 名無しさん  (2023-12-12 16:10:41)
+#comment()

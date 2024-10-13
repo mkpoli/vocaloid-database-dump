@@ -1,0 +1,24 @@
+#right(){&furigana(おやすみ)&furigana()【登録タグ:&tags()】}
+|&nicovideo(http://www.nicovideo.jp/watch/sm19934331)|&youtube(http://www.youtube.com/watch?v=zMgG9gmcDig)|
+作詞：[[松下克仁]]
+作曲：[[松下克仁]]
+編曲：[[松下克仁]]
+唄：IA
+
+**曲紹介
+-ボーカロイド処女作。コンサートのアンコール曲のイメージで作ったとのこと。
+-静かなピアノ弾き語りの短い曲。
+
+**歌詞
+おやすみ
+
+おやすみ
+
+ゆめであえたら　うれしい
+
+ゆめであえたら　うれしい
+
+（動画内歌詞より転載）
+
+**コメント
+#comment()

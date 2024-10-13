@@ -1,0 +1,129 @@
+#right(){&furigana(1ふんかんこんひ)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|BGCOLOR(#353535):COLOR(#FFF):CENTER:&font(b,11pt){クロスフェード}|
+|&nicovideo(sm21216777)|
+
+|BGCOLOR(#00bfff):COLOR(#FFF):CENTER:&font(b,11pt){前作}|BGCOLOR(#00bfff):COLOR(#FFF):CENTER:&font(b,11pt){本作}|BGCOLOR(#00bfff):COLOR(#FFF):CENTER:&font(b,11pt){次作}|
+|CENTER:-|CENTER:&bold(){1分間コンピ}|CENTER:-|
+
+|[[前略P]]|[[きっきょん]]|[[Task>Task/作り手]]|[[おにゅうP]]|[[akiwo]]|[[ミックスモダン]]|[[まえのめり@48kHz]]|[[涼雅]]|
+|[[こおろぎ]]|[[ヘリP]]|[[麻痺郎]]|[[bibuko]]|[[藍乃]]|[[鍵盤無双P]]|[[大丈夫P]]|[[鬱P]]|
+|[[アキバヲタP]]|[[ORYO]]|[[(∵)キョトンP]]|[[かごめP]]|[[市蔵]]|[[えらぁ]]|[[ふぃぎゅ＠たっち]]|[[やまじ>LITCHI]]|
+|[[ぼーかりおどP]]|[[やみくろ]]|[[REO]]|[[ふる]]|[[アンビリカル244P]]|[[かずくんP]]|[[赤い彗星P]]|[[かめりあ]]|
+|[[融合P]]|[[カーリー]]|[[Man_boo]]|[[奏音69]]|[[KulfiQ]]|[[yu-go]]|[[noo]]|[[黒江]]|
+|[[kachu]]|[[きゃんでぃP]]|[[らいふP]]|[[石風呂]]|[[つこ]]|[[しけもく>夜はこれから]]|[[(仮)P]]|[[CapsLack]]|
+|[[翁]]|[[破P]]|[[AETA(イータ)]]|[[こがねむし]]|[[YonoP]]|[[まぐ]]|[[otetsu]]|[[ロリP]]|
+|[[いつものP]]|[[とんびP]]|[[ヒッキーP]]|[[もっふーP]]|[[龍の巣P]]|[[アナバ]]|[[女帝P]]|[[らいだーP]]|
+|[[バスドラ連打P]]|[[Neru]]|[[とーい]]|[[シメサバツイスターズ]]|>|>|>|>|
+
+|BGCOLOR(#ff2b95):COLOR(#FFF):CENTER:&font(b,11pt){流通}|BGCOLOR(#ff2b95):COLOR(#FFF):CENTER:&font(b,11pt){即売}|
+|BGCOLOR(#ff2b95):COLOR(#FFF):CENTER:&font(b,11pt){発売　}|CENTER:2013年7月7日|
+|BGCOLOR(#ff2b95):COLOR(#FFF):CENTER:&font(b,11pt){価格}|CENTER:￥1,000（税込）|
+|BGCOLOR(#ff2b95):COLOR(#FFF):CENTER:&font(b,11pt){サークル}|CENTER:1分間コンピ|
+
+**CD紹介
+>&bold(){音圧謝謝}
+CD名：『&u(){1分間コンピ}』（&u(){1ぷんかんこんぴ}）
+-1分間以内の曲をCD収録の限界までドッサリ詰め込みまくった前代未聞のコンピCD。
+-ボカロ曲ありの生歌ありのインストありのネタありの、参加者が思い思いに1分間で表現した曲を全68曲収録。
+//-アキバヲタP による全曲レビューは[[こちら>>https://ch.nicovideo.jp/akiwo_mega_mix/blomaga/ar272861]]から。
+-アートワークは つばきこいし氏 が手掛ける。マスタリングは かごめP 。
+-THE VOC@LOiD M@STER 25（ボーマス25）にてリリース。
+
+**曲目
+|BGCOLOR(#d5eaff):COLOR(#FFF):CENTER:&font(b,11pt){Track}|BGCOLOR(#d5eaff):COLOR(#FFF):CENTER:&font(b,11pt){曲名}|BGCOLOR(#d5eaff):COLOR(#FFF):CENTER:&font(b,11pt){楽曲制作者}|
+|BGCOLOR(#d5eaff):COLOR(#FFF):CENTER:&font(b,11pt){01}|CENTER:1 Minutes "Late" show|CENTER:前略P|
+|BGCOLOR(#d5eaff):COLOR(#FFF):CENTER:&font(b,11pt){02}|CENTER:[[addict girl>>http://www.nicovideo.jp/watch/sm21270392]]|CENTER:きっきょん（vo. ぱなまん）|
+|BGCOLOR(#d5eaff):COLOR(#FFF):CENTER:&font(b,11pt){03}|CENTER:サバイバー|CENTER:Task|
+|BGCOLOR(#d5eaff):COLOR(#FFF):CENTER:&font(b,11pt){04}|CENTER:祇園精舎の鐘の声|CENTER:おにゅうP|
+|BGCOLOR(#d5eaff):COLOR(#FFF):CENTER:&font(b,11pt){05}|CENTER:全裸待機|CENTER:akiwo|
+|BGCOLOR(#d5eaff):COLOR(#FFF):CENTER:&font(b,11pt){06}|CENTER:ブルガリアの農民たち|CENTER:ミックスモダン|
+|BGCOLOR(#d5eaff):COLOR(#FFF):CENTER:&font(b,11pt){07}|CENTER:[[オノマトペ・ラブ]]|CENTER:まえのめり@48kHz|
+|BGCOLOR(#d5eaff):COLOR(#FFF):CENTER:&font(b,11pt){08}|CENTER:勝利の名の下に|CENTER:涼雅|
+|BGCOLOR(#d5eaff):COLOR(#FFF):CENTER:&font(b,11pt){09}|CENTER:犍陀多|CENTER:こおろぎ|
+|BGCOLOR(#d5eaff):COLOR(#FFF):CENTER:&font(b,11pt){10}|CENTER:migrant memory|CENTER:ヘリP|
+|BGCOLOR(#aad5ff):COLOR(#FFF):CENTER:&font(b,11pt){11}|CENTER:[[minute puzzle]]|CENTER:mahiro|
+|BGCOLOR(#aad5ff):COLOR(#FFF):CENTER:&font(b,11pt){12}|CENTER:[[魚類みたいな顔した女に年収訊かれた]]|CENTER:bibuko|
+|BGCOLOR(#aad5ff):COLOR(#FFF):CENTER:&font(b,11pt){13}|CENTER:Mary's toy box|CENTER:藍乃（vo. *染）|
+|BGCOLOR(#aad5ff):COLOR(#FFF):CENTER:&font(b,11pt){14}|CENTER:ｵｳﾌ㌧ｿﾝｸﾞ|CENTER:鍵盤無双P|
+|BGCOLOR(#aad5ff):COLOR(#FFF):CENTER:&font(b,11pt){15}|CENTER:[[あーん！大丈夫様が死んだ！>あ～ん！大丈夫様が死んだ！]]|CENTER:大丈夫P|
+|BGCOLOR(#aad5ff):COLOR(#FFF):CENTER:&font(b,11pt){16}|CENTER:[[ベイビー・デスマッチ]]|CENTER:鬱P|
+|BGCOLOR(#aad5ff):COLOR(#FFF):CENTER:&font(b,11pt){17}|CENTER:wide click|CENTER:アキヲ MEGA MIX|
+|BGCOLOR(#aad5ff):COLOR(#FFF):CENTER:&font(b,11pt){18}|CENTER:[[ねこかわいい]]|CENTER:ORYO|
+|BGCOLOR(#aad5ff):COLOR(#FFF):CENTER:&font(b,11pt){19}|CENTER:EnJOY 女医|CENTER:ニシジマユーキ|
+|BGCOLOR(#aad5ff):COLOR(#FFF):CENTER:&font(b,11pt){20}|CENTER:[[Re:Boost]]|CENTER:かごめP|
+|BGCOLOR(#80bfff):COLOR(#FFF):CENTER:&font(b,11pt){21}|CENTER:23：59 p.m.|CENTER:市蔵|
+|BGCOLOR(#80bfff):COLOR(#FFF):CENTER:&font(b,11pt){22}|CENTER:[[1967.4.27>>https://www.nicovideo.jp/watch/sm21259155]]|CENTER:えらぁ with Poet Reading & 148cm|
+|BGCOLOR(#80bfff):COLOR(#FFF):CENTER:&font(b,11pt){23}|CENTER:[[パンジー]]|CENTER:ふぃぎゅ@たっち|
+|BGCOLOR(#80bfff):COLOR(#FFF):CENTER:&font(b,11pt){24}|CENTER:ピラルク|CENTER:やまじ|
+|BGCOLOR(#80bfff):COLOR(#FFF):CENTER:&font(b,11pt){25}|CENTER:S・O・N・A・R|CENTER:ぼーかりおどP|
+|BGCOLOR(#80bfff):COLOR(#FFF):CENTER:&font(b,11pt){26}|CENTER:垢消しヌーディストビーチ|CENTER:やみくろ|
+|BGCOLOR(#80bfff):COLOR(#FFF):CENTER:&font(b,11pt){27}|CENTER:第20回私立DT高校卒業式|CENTER:REO|
+|BGCOLOR(#80bfff):COLOR(#FFF):CENTER:&font(b,11pt){28}|CENTER:[[利根川旅情]]|CENTER:ふる|
+|BGCOLOR(#80bfff):COLOR(#FFF):CENTER:&font(b,11pt){29}|CENTER:透明白昼夢|CENTER:アンビリカル244P|
+|BGCOLOR(#80bfff):COLOR(#FFF):CENTER:&font(b,11pt){30}|CENTER:おなかすいた|CENTER:かずくんP|
+|BGCOLOR(#55aaff):COLOR(#FFF):CENTER:&font(b,11pt){31}|CENTER:[[My dear one]]|CENTER:赤い彗星P|
+|BGCOLOR(#55aaff):COLOR(#FFF):CENTER:&font(b,11pt){32}|CENTER:堕落 My Life|CENTER:かめりあ|
+|BGCOLOR(#55aaff):COLOR(#FFF):CENTER:&font(b,11pt){33}|CENTER:かなしくないよ。|CENTER:融合P|
+|BGCOLOR(#55aaff):COLOR(#FFF):CENTER:&font(b,11pt){34}|CENTER:モノローグ|CENTER:カーリー|
+|BGCOLOR(#55aaff):COLOR(#FFF):CENTER:&font(b,11pt){35}|CENTER:さよならのリズム|CENTER:Man_boo（vo. なき）|
+|BGCOLOR(#55aaff):COLOR(#FFF):CENTER:&font(b,11pt){36}|CENTER:roadster|CENTER:奏音69|
+|BGCOLOR(#55aaff):COLOR(#FFF):CENTER:&font(b,11pt){37}|CENTER:[[30歳になりたくない]]|CENTER:KulfiQ|
+|BGCOLOR(#55aaff):COLOR(#FFF):CENTER:&font(b,11pt){38}|CENTER:スカイブライト|CENTER:yu-go|
+|BGCOLOR(#55aaff):COLOR(#FFF):CENTER:&font(b,11pt){39}|CENTER:The falling strawberry|CENTER:noo|
+|BGCOLOR(#55aaff):COLOR(#FFF):CENTER:&font(b,11pt){40}|CENTER:アダルトチルドレン|CENTER:黒江|
+|BGCOLOR(#2b95ff):COLOR(#FFF):CENTER:&font(b,11pt){41}|CENTER:[[今日の晩ごはん]]|CENTER:kachu|
+|BGCOLOR(#2b95ff):COLOR(#FFF):CENTER:&font(b,11pt){42}|CENTER:Splash Star!|CENTER:きゃんでぃP|
+|BGCOLOR(#2b95ff):COLOR(#FFF):CENTER:&font(b,11pt){43}|CENTER:tsuyuake|CENTER:らいふP|
+|BGCOLOR(#2b95ff):COLOR(#FFF):CENTER:&font(b,11pt){44}|CENTER:一般ピープル|CENTER:石風呂|
+|BGCOLOR(#2b95ff):COLOR(#FFF):CENTER:&font(b,11pt){45}|CENTER:No anchor|CENTER:つこ|
+|BGCOLOR(#2b95ff):COLOR(#FFF):CENTER:&font(b,11pt){46}|CENTER:ESCAPE|CENTER:しけもく|
+|BGCOLOR(#2b95ff):COLOR(#FFF):CENTER:&font(b,11pt){47}|CENTER:Smith|CENTER:(仮)P|
+|BGCOLOR(#2b95ff):COLOR(#FFF):CENTER:&font(b,11pt){48}|CENTER:消滅|CENTER:CapsLack|
+|BGCOLOR(#2b95ff):COLOR(#FFF):CENTER:&font(b,11pt){49}|CENTER:プライオリティコンプ|CENTER:翁|
+|BGCOLOR(#2b95ff):COLOR(#FFF):CENTER:&font(b,11pt){50}|CENTER:breakcore|CENTER:破P|
+|BGCOLOR(#0080ff):COLOR(#FFF):CENTER:&font(b,11pt){51}|CENTER:[[DIE4ReBIRTH]]|CENTER:AETA|
+|BGCOLOR(#0080ff):COLOR(#FFF):CENTER:&font(b,11pt){52}|CENTER:不眠症|CENTER:こがねむし|
+|BGCOLOR(#0080ff):COLOR(#FFF):CENTER:&font(b,11pt){53}|CENTER:真っ赤な舌と林檎飴|CENTER:YonoP|
+|BGCOLOR(#0080ff):COLOR(#FFF):CENTER:&font(b,11pt){54}|CENTER:夢想者は寝台の上に|CENTER:まぐ|
+|BGCOLOR(#0080ff):COLOR(#FFF):CENTER:&font(b,11pt){55}|CENTER:[[ピーマン]]|CENTER:otetsu|
+|BGCOLOR(#0080ff):COLOR(#FFF):CENTER:&font(b,11pt){56}|CENTER:フィルムの裏側|CENTER:ロリP|
+|BGCOLOR(#0080ff):COLOR(#FFF):CENTER:&font(b,11pt){57}|CENTER:ima|CENTER:いつものP|
+|BGCOLOR(#0080ff):COLOR(#FFF):CENTER:&font(b,11pt){58}|CENTER:無為|CENTER:ヒッキーP|
+|BGCOLOR(#0080ff):COLOR(#FFF):CENTER:&font(b,11pt){59}|CENTER:それは夢の続き|CENTER:もっふーP|
+|BGCOLOR(#0080ff):COLOR(#FFF):CENTER:&font(b,11pt){60}|CENTER:浮遊トラベラー|CENTER:とんびP|
+|BGCOLOR(#006ad5):COLOR(#FFF):CENTER:&font(b,11pt){61}|CENTER:キモい花|CENTER:龍の巣P|
+|BGCOLOR(#006ad5):COLOR(#FFF):CENTER:&font(b,11pt){62}|CENTER:What's Love|CENTER:アナバ|
+|BGCOLOR(#006ad5):COLOR(#FFF):CENTER:&font(b,11pt){63}|CENTER:つばめのゆうげ|CENTER:女帝P（vo. アトロファネウラ）|
+|BGCOLOR(#006ad5):COLOR(#FFF):CENTER:&font(b,11pt){64}|CENTER:No future|CENTER:らいだーP|
+|BGCOLOR(#006ad5):COLOR(#FFF):CENTER:&font(b,11pt){65}|CENTER:[[鬱鬱鬱]]|CENTER:バスドラ連打P with 女帝P・めにきち|
+|BGCOLOR(#006ad5):COLOR(#FFF):CENTER:&font(b,11pt){66}|CENTER:トレモロアームの孤独|CENTER:Neru（MIX 友達募集P）|
+|BGCOLOR(#006ad5):COLOR(#FFF):CENTER:&font(b,11pt){67}|CENTER:恋しい夏の日|CENTER:とーい|
+|BGCOLOR(#006ad5):COLOR(#FFF):CENTER:&font(b,11pt){68}|CENTER:ありがとう|CENTER:シメサバツイスターズ|
+
+**リンク
+-[[Twitter（アキバヲタP）>>https://twitter.com/akiba_ota_p]]
+-[[Twitter（ふぃぎゅ@たっち）>>https://twitter.com/anna_mirrors]]
+-[[Twitter（とーい）>>https://twitter.com/toy_haru]]
+
+**コメント
+- 通販希望  -- 名無しさん  (2013-06-28 00:11:48)
+- これはまた凄いな・・・色々な意味で  -- 名無しさん  (2013-06-28 00:36:57)
+- な、なんだこれ……  -- 名無しさん  (2013-06-28 09:52:18)
+- 通販欲しい！好きな人ばっかだから絶対欲しい！  -- 名無しさん  (2013-06-28 17:48:48)
+- リンクにヲタPのツイッタがあるということはヲタPが犯人だと理解した  -- 名無しさん  (2013-06-28 20:38:45)
+- これは新しい…。委託があるなら買いたい。  -- 名無しさん  (2013-06-29 01:52:25)
+- むしろこの人数でこの値段って一枚あたりPに何円入るのかも気になるんだが  -- 名無しさん  (2013-06-29 11:57:10)
+- ロリPきたこれ  -- 名無しさん  (2013-06-30 17:16:01)
+- クロスフェード良かったw買うっかなw  -- 名無しさん  (2013-06-30 18:09:05)
+- capslackさん超嬉しい。  -- 名無しさん  (2013-06-30 18:39:15)
+- 通販希望します！  -- 名無しさん  (2013-07-28 20:10:10)
+- 頼むから通販を・・・  -- 名無しさん  (2013-08-14 21:08:50)
+- 私も通販希望します。すごく欲しい  -- 名無しさん  (2013-08-14 22:43:42)
+- これは新しい・・・！ &br()通販希望!!  -- 名無しさん  (2013-08-20 12:55:02)
+- 豪華すぎるだロ…！欲しすぎる  -- 名無しさん  (2014-08-30 14:34:23)
+- 通販待ってます  -- 柚音  (2015-07-25 12:26:14)
+#comment()

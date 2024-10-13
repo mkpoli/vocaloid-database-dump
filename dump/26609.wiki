@@ -1,0 +1,44 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://img.toranoana.jp/img/04/0030/06/36/040030063662-1.gif)
+
+&nicovideo(sm18518703)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[OSTERさんのベスト]]|CENTER:&b(){Story Teller}|CENTER:[[Attractive Museum]]|
+
+|&bold(){[[OSTER project]]}|[[ささくれP]]|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2012年8月11日||
+|価格|CENTER:￥1,000|CENTER:￥1,500（税込）|
+|サークル|CENTER:OSTERさんのサークル|CENTER:OSTER project|
+
+**CD紹介
+>悲劇は導かれる。
+>そして人々を絶望へと誘う。
+-自身初のコンセプトアルバム。
+-イラスト：gaga氏、ストーリー:Roletta氏、アートワーク：うさぎ氏がそれぞれ担当している。
+-またゲストコンポーザーとして[[ささくれP]]ことsasakure.UK氏が参加している。
+-コミックマーケット82（C82）で頒布。
+-とらのあなで委託販売が行われていた。
+
+**曲目
++序曲 -overture- / Instrumental
++暴喰のカッツェ / 巡音ルカ
++チシャの古塔 / 初音ミク
++終焉の円舞曲 / 巡音ルカ＆初音ミク
++[[ドロッセルの剣]] / 鏡音リン＆鏡音レン
++[[レツェルの騎士]] / 鏡音レン
++筆の少女 / GUMI
++ドロッセルの剣 (sasakure.UK Remix) / 鏡音リン＆鏡音レン
+
+**リンク
+-[[特設ページ>>http://fuwafuwacinnamon.sakura.ne.jp/storyteller/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/06/36/040030063662.html]]
+-[[まとめサイト>>http://fuwafuwacinnamon.sakura.ne.jp/]]
+
+**コメント
+- ささくれさん！！  -- 名無しさん  (2013-09-04 19:54:25)
+- 再販してくれないかなー  -- 名無しさん  (2013-09-08 20:42:07)
+- ス滝！！！  -- 名無しさん  (2014-06-22 17:17:45)
+#comment()

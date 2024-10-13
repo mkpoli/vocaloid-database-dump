@@ -1,0 +1,34 @@
+#right(){&furigana(ざんこくなてんしのてーぜ)&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1247_20130405154808_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[One More Time feat.初音ミク]]|CENTER:&bold(){残酷な天使のテーゼ feat. 初音ミク}|CENTER:-|
+
+|&bold(){[[守屋くんP]]}|
+
+発売：2013年4月22日
+価格：￥300 / 1曲￥150
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：AYAKO HISHINUMA
+
+**CD紹介
+-守屋くんPのカバーシングル。
+-高橋洋子の同名曲のカバー。
+-「KARENT」と「ROTH ENTERTAINMENT」による共同レーベル、「Lip Sync Records」からのリリース第6弾となる。
+
+**曲目
++残酷な天使のテーゼ （feat. 初音ミク）
++残酷な天使のテーゼ (Acoustic Version) （feat. 初音ミク）
++残酷な天使のテーゼ (Inst) （feat. 初音ミク）
+
+**リンク
+-[[Lip Sync Records>>http://lipsync-records.jp]]
+-[[KARENT：「残酷な天使のテーゼ feat. 初音ミク」>>http://karent.jp/album/1247]]
+
+**コメント
+//- ざーんーこーくーな  -- 名無しさん  (2013-04-24 21:10:59)
+//- てーんーしーのーようーに  -- 名無しさん  (2013-04-24 22:00:28)
+//- 可愛い  -- とき  (2018-11-30 21:04:32)
+//- かわいい  -- とき  (2018-11-30 21:05:12)
+#comment()

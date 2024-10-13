@@ -1,0 +1,37 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#amazon(B00HS9GC9E)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[KOLLECTION+OI]]|CENTER:&bold(){A/W 2013 - CRYOHYDRATE}|CENTER:-|
+
+|&bold(){[[Treow（逆衝動P）]]}|
+
+|流通|CENTER:即売|CENTER:委託|CENTER:配信|
+|発売|CENTER:2013年12月31日|CENTER:2014年1月|CENTER:2014年2月5日|
+|価格|CENTER:￥1,500|CENTER:￥1,568（とらのあな・税込）&br()￥1,700（Amazon・税込）|CENTER:￥900 / 1曲￥150|
+|サークル|>|>|CENTER:ELECTROCUTICA|
+
+**CD紹介
+-ELECTROCUTICA、2013年秋冬の新作発表盤「CRYOHYDRATE/クライオハイドレート」。
+-インストCDで、一部の曲に初音ミクがコーラス、ハミングで使用されている。
+-コミックマーケット85（C85）で頒布。
+-とらのあな、Amazonで委託販売が行われている。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++Intersection
++Khronotris
++Contamination
++Decayed Garden
++Promenade
++(for you!)
++氷晶
+
+**リンク
+-[[作者サイト>>http://electrocutica.com/]]
+-[[amazon>>http://www.amazon.co.jp/gp/product/B00HS9GC9E]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/18/20/040030182096.html]]
+-[[KARENT：「A/W 2013 - CRYOHYDRATE」>>http://karent.jp/album/1437]]
+
+**コメント
+#comment()

@@ -1,0 +1,52 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/25882253" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/25882253">【ニコニコ動画】</a></iframe>>)
+
+**特徴
+-2011年4月、「[[三次元クライシス]]」にてボカロデビューした作り手。
+-使用ボカロは今のところ、初音ミク・巡音ルカ・GUMI・VY1。
+-曲調は、チップチューンを取り入れたロックサウンド中心。
+-NNIでは歌い手達とコラボした楽曲も投稿している。
+-次の曲が殿堂入りを達成している。&br()&list_by_tagsearch(Task,殿堂入り,sort=furigana,option=nolist,nolistspace=、,100)
+
+**リンク
+-[[taskmusic（作者ホームページ）>>http://taskmusic.uijin.com/]]
+-[[Twitter>>http://twitter.com/taskmusics]]
+-[[PIAPRO>>http://piapro.jp/taskmusic]]
+-[[SoundCloud>>http://soundcloud.com/taskmusic]]
+-[[YouTube>>http://www.youtube.com/channel/UCzmeY3OwwH8Oex_5ZXRO9MA]]
+-[[UTAU楽曲データベース「Task」ページ>>http://www24.atwiki.jp/utauuuta/pages/3465.html]]
+
+**曲
+#list_by_tag(Task,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(TaskCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|>|BGCOLOR(#4682b4):COLOR(#FFF):CENTER:&font(b,11pt){オリジナル曲}|
+|&nicovideo(sm14050786)|&nicovideo(sm14831395)|
+|&nicovideo(sm14953160)|&nicovideo(sm14953463)|
+|&nicovideo(sm14953864)|&nicovideo(sm16026489)|
+|&nicovideo(sm17039623)|&nicovideo(sm17426397)|
+|&nicovideo(sm17435409)|&nicovideo(sm18511879)|
+|&nicovideo(sm18709156)|&nicovideo(sm18709211)|
+|&nicovideo(sm19806841)|&nicovideo(sm20469472)|
+|&nicovideo(sm20617960)|&nicovideo(sm21715545)|
+|&nicovideo(sm20469472)|&nicovideo(sm22225658)|
+|&nicovideo(sm23566939)|&nicovideo(sm24083822)|
+|&nicovideo(sm24207662)|&nicovideo(sm24935499)|
+|&nicovideo(sm25673528)|&nicovideo(sm27421714)|
+|&nicovideo(sm27943541)|&nicovideo(sm28204154)|
+|&nicovideo(sm30115269)|&nicovideo(sm32032996)|
+|&nicovideo(sm32310210)|&nicovideo(sm33250713)|
+|&nicovideo(sm35017161)|&nicovideo(sm35109053)|
+|&nicovideo(sm36703037)|&nicovideo(sm37562718)|
+|&nicovideo(sm42563244)||
+//|&nicovideo()|&nicovideo()|
+
+**コメント
+- Taskさんの作る曲はどれもはずれがなくてすごい！  -- ままま  (2013-06-06 21:02:02)
+- 聞いていて爽快だ！  -- ﾒﾁﾚﾝﾌﾞﾙｰ  (2013-11-22 02:45:46)
+- 秘密遊戯すごいね  -- 名無しさん  (2014-02-17 19:05:44)
+- キドアイラク最高！  -- 名無しさん  (2016-01-11 00:08:42)
+#comment()

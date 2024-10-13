@@ -1,0 +1,46 @@
+#right(){&furigana(せかいのはじまりとほしのおわり)&furigana()【登録タグ:&tags() 】}
+
+&ref(https://s2.booth.pm/50d93d02-ce7c-4b6d-83d9-4517787e4a6a/i/169990/b82f29c1-fa2a-4b87-9e0c-b2eb49b6dc19_base_resized.jpg,x=300,y=300)
+
+|&nicovideo(http://www.nicovideo.jp/watch/sm22193752)|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[旅の途中e.p.]]|CENTER:&bold(){世界のはじまりと星のおわり}|CENTER:-|
+
+|&bold(){[[オセロP]]}|
+
+|流通|CENTER:即売|
+|発売|CENTER:2013年11月17日|
+|価格|CENTER:￥1,000（税込）|
+|サークル|CENTER:オセロイカ屋さん|
+
+**CD紹介
+>&bold(){一番最後の、ラブソングを。}
+-オセロP の 1st フルアルバム。
+-デビュー作『[[● ハローワールド ○]]』などの既存曲に新曲を加えた、全11曲を収録。
+-ジャケットイラストなどのアートワークを たかの氏 が、MIX・マスタリングを がっちゃん氏 が手掛ける。
+-CDは紙ジャケット仕様。会場限定先着特典として「世界のはじまりと星のおわり」缶バッジ付き。
+-THE VOC@LOiD M@STER 27（ボーマス27） にてリリース。
+-BOOTHにて通信販売されている。
+
+**曲目
++[[● ハローワールド ○]]（リプライズ）
++[[ドッペルゲンガー>ドッペルゲンガー/オセロP]]
++[[すれ違い少年]]
++[[falling>falling/オセロP]]
++かすみ草
++その物語の中で
++[[それは青春の日々]]
++[[月灯りショートムービー]]
++まわる
++[[色付いて]]
++[[さいごのほし]]
+
+**リンク
+-[[特設サイト>>http://othello-ika.tumblr.com/]]
+-[[Twitter>>http://twitter.com/othello_twin]]
+-[[BOOTH>>https://othello-miku.booth.pm/items/169990]]
+
+**コメント
+- 楽しみ  -- 名無しさん  (2013-11-06 18:37:19)
+#comment()

@@ -1,0 +1,33 @@
+#right(){&furigana(ざんげつ)&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1454_20140127112500_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Another Colors]]|CENTER:&bold(){残月}|CENTER:[[言葉>言葉/CD]]|
+
+|&bold(){[[キッドP]]}|[[クリスタルP]]|[[残鏡P]]|
+
+発売：2014年2月17日
+価格：￥600 / 1曲￥150
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：[[たまら>>http://piapro.jp/tamara]]
+
+|&bold(){[[iTunes Storeで購入する>>https://itunes.apple.com/jp/album/the-moon-which-remains-ep/id818404814]]}|
+
+**CD紹介
+-キッドPの配信EP。
+-KARENTレーベルよりダウンロード販売が行われている。KAITO8周年記念企画で配信された作品の1つ。
+
+**曲目
++[[残月]] （feat. 鏡音レン&KAITO）
++[[灰雪]] -V3&Append Mix- （feat. 鏡音レン&KAITO）
++残月 -instrumental-
++灰雪 -V3&Append Mix- （instrumental）
+
+**リンク
+-[[作者ブログ>>http://yaplog.jp/kidsworks/]]
+-[[KARENT：「残月」>>http://karent.jp/album/1454]]
+-[[KARENT：「KAITO誕生祭'14」特集ページ>>http://karent.jp/special/kaito14]]
+
+**コメント
+#comment()

@@ -1,0 +1,34 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://satoimo.vocalo.me/image/jewelbox_jacket.jpg)
+
+&nicovideo(sm17459587)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[ハルモニア 2ndSeason]]|CENTER:&bold(){JewelBox}|CENTER:[[JewelBox Vol2]]|
+
+|&bold(){[[さといも]]}|[[薪原あすみ]]|
+
+発売：2012年4月28日
+価格：￥1,000（税込）
+流通：即売
+サークル：海青書房
+
+**CD紹介
+-さといも(天宝石P)の3rdアルバム。
+-今回は、今までCDに収録されなかったオリジナル曲を始め、V2楽曲をV3で再調声、再MIXしたバージョンを収録。
+-THE VOC@LOiD 超 M@STER20にて販売。
+
+**曲目
++[[Realize>Realize/さといも]]/MEIKO
++[[愛執遊戯]]/MEIKO(伊豆子)
++[[孤独のポートレート]]/猫村いろは(V3)
++[[Angelic Jewel]]～2011Version～/miki,氷山キヨテル,歌愛ユキ,猫村いろは(V3)
++[[je vous aime>je vous aime～ジュヴゼーム～]]/神威がくぽ(V3)
++[[Tiny Memories]]/巡音ルカ(V3)
++[[ぬこめしの丘]]～猫Version～/結月ゆかり
+
+**リンク
+-[[チームハルモニアのページ>>http://satoimo.vocalo.me/jewelbox/index.html]]
+
+**コメント
+#comment()

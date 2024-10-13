@@ -1,0 +1,148 @@
+#right(){&furigana(ねししき)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/38453105" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/38453105">【ニコニコ動画】</a></iframe>)|
+
+**特徴
+作り手名：『&u(){ねじ式}』(&u(){ねじしき})
+-2013年8月、「[[六等星の夜]]」にてボカロデビューした作り手。
+-使用合成音声はIA・GUMI・初音ミク・結月ゆかり（CeVIO AI版含む）・Rana・鏡音リン・flower（CeVIO AI版含む）・知声・可不・狐子・ついなちゃん・さとうささら・すずきつづみ・MEIKO・KAITO・鏡音レン。
+-デビューしてからぴったり一週間ペースで火曜日に投稿し続けている。制作速度はかなり早い部類に入る。
+--このことから &bold(){火曜日P} というP名がついた。
+---火曜日に投稿するようになったのは、一週間の中で何と無く退屈でうんざりする火曜日に対してまず自分がワクワクしたかったことから。
+-37作目の「[[ブラッディ グラビティ>ブラッディ　グラビティ]]」にて、自身初の殿堂入りを達成。
+-2014年10月31日、歌い手の アズール氏 とバンド「&bold(){NejixAzu}」を結成し、音楽活動していく事を表明した。
+-これまでに殿堂入りを達成した曲は、「&list_by_tagsearch(ねじ式,殿堂入り,sort=furigana,option=nolist,nolistspace=」「,100)」。
+-2019年5月9日に66作目「[[フリィダム ロリィタ]]」が自身初のミリオンを達成。
+
+**ミリオン達成状況
+|CENTER:&bold(){曲名}|CENTER:&bold(){100万再生}|CENTER:&bold(){200万再生}|CENTER:&bold(){備考}|
+|[[フリィダム ロリィタ]]|2019年5月9日|2022年8月21日||
+
+**リンク
+-[[ねじ式 Official Web Site>>http://www.nejishiki.com/]]
+-[[ねじ式のブログ（作者ブログ）>>http://ameblo.jp/nejishiki0221/]]
+-[[PIAPRO>>http://piapro.jp/nejishiki]]
+-[[Twitter>>http://twitter.com/nejishiki0221]]
+-[[YouTube>>http://www.youtube.com/channel/UCeQ69f1ETJ-rR7BR5RtK_vA]]
+-[[Bilibili>>https://space.bilibili.com/319075500]]
+**曲
+登録が100曲を超え、全曲の完全なリストアップが出来なくなりました。そのため、先頭文字を元にした12種類のタグ「曲あ」～「曲わ」、「曲英」、「曲他」をつけて、P名とともにselectするリストにしています。「曲他」は記号等です。ここに表示されていない曲については、[[タグキーワード「ねじ式」を含むページ一覧>https://w.atwiki.jp/hmiku/tag/ねじ式]]を参照するか、wiki内検索をお願いします
+|&link_aname(A){あ行}|&link_aname(K){か行}|&link_aname(S){さ行}|&link_aname(T){た行}|&link_aname(N){な行}|&link_aname(H){は行}|&link_aname(M){ま行}|&link_aname(Y){や行}|&link_aname(R){ら行}|&link_aname(W){わ行}|&link_aname(AZ){英語}|&link_aname(1){記号・数字}|
+&search3(title=,size=100,and,ignore=own)
+&small(){&aname(,option=nolink){(}[[あ行>https://w.atwiki.jp/hmiku/?cmd=tagsearch&keyword=ねじ式+曲あ&andor=and&opt1=2]])}
+#list_by_tagsearch(ねじ式,曲あ,sort=furigana2,errmsg=「あ行」で始まる曲はまだ登録されていません。,and,100)
+&small(){&aname(K,option=nolink){(}[[か行>https://w.atwiki.jp/hmiku/?cmd=tagsearch&keyword=ねじ式+曲か&andor=and&opt1=2]])}
+#list_by_tagsearch(ねじ式,曲か,sort=furigana2,errmsg=「か行」で始まる曲はまだ登録されていません。,and,100)
+&small(){&aname(S,option=nolink){(}[[さ行>https://w.atwiki.jp/hmiku/?cmd=tagsearch&keyword=ねじ式+曲さ&andor=and&opt1=2]])}
+#list_by_tagsearch(ねじ式,曲さ,sort=furigana2,errmsg=「さ行」で始まる曲はまだ登録されていません。,and,100)
+&small(){&aname(T,option=nolink){(}[[た行>https://w.atwiki.jp/hmiku/?cmd=tagsearch&keyword=ねじ式+曲た&andor=and&opt1=2]])}
+#list_by_tagsearch(ねじ式,曲た,sort=furigana2,errmsg=「た行」で始まる曲はまだ登録されていません。,and,100)
+&small(){&aname(N,option=nolink){(}[[な行>https://w.atwiki.jp/hmiku/?cmd=tagsearch&keyword=ねじ式+曲な&andor=and&opt1=2]])}
+#list_by_tagsearch(ねじ式,曲な,sort=furigana2,errmsg=「な行」で始まる曲はまだ登録されていません。,and,100)
+&small(){&aname(H,option=nolink){(}[[は行>https://w.atwiki.jp/hmiku/?cmd=tagsearch&keyword=ねじ式+曲は&andor=and&opt1=2]])}
+#list_by_tagsearch(ねじ式,曲は,sort=furigana2,errmsg=「は行」で始まる曲はまだ登録されていません。,and,100)
+&small(){&aname(M,option=nolink){(}[[ま行>https://w.atwiki.jp/hmiku/?cmd=tagsearch&keyword=ねじ式+曲ま&andor=and&opt1=2]])}
+#list_by_tagsearch(ねじ式,曲ま,sort=furigana2,errmsg=「ま行」で始まる曲はまだ登録されていません。,and,100)
+&small(){&aname(Y,option=nolink){(}[[や行>https://w.atwiki.jp/hmiku/?cmd=tagsearch&keyword=ねじ式+曲や&andor=and&opt1=2]])}
+#list_by_tagsearch(ねじ式,曲や,sort=furigana2,errmsg=「や行」で始まる曲はまだ登録されていません。,and,100)
+&small(){&aname(R,option=nolink){(}[[ら行>https://w.atwiki.jp/hmiku/?cmd=tagsearch&keyword=ねじ式+曲ら&andor=and&opt1=2]])}
+#list_by_tagsearch(ねじ式,曲ら,sort=furigana2,errmsg=「ら行」で始まる曲はまだ登録されていません。,and,100)
+&small(){&aname(W,option=nolink){(}[[わ行>https://w.atwiki.jp/hmiku/?cmd=tagsearch&keyword=ねじ式+曲わ&andor=and&opt1=2]])}
+#list_by_tagsearch(ねじ式,曲わ,sort=furigana2,errmsg=「わ行」で始まる曲はまだ登録されていません。,and,100)
+&small(){&aname(AZ,option=nolink){(}[[英語>https://w.atwiki.jp/hmiku/?cmd=tagsearch&keyword=ねじ式+曲英&andor=and&opt1=2]])}
+#list_by_tagsearch(ねじ式,曲英,sort=furigana2,errmsg=「英語」で始まる曲はまだ登録されていません。,and,100)
+&small(){&aname(1,option=nolink){(}[[記号・数字>https://w.atwiki.jp/hmiku/?cmd=tagsearch&keyword=ねじ式+曲他&andor=and&opt1=2]])}
+#list_by_tagsearch(ねじ式,曲他,sort=furigana2,errmsg=「記号・数字」で始まる曲はまだ登録されていません。,and,100)
+
+
+**CD
+#list_by_tagsearch(ねじ式CD,sort=furigana2,errmsg=まだCDが登録されていません。,and,100)
+
+**動画
+（最新曲数曲を優先表示）
+#region(close,これ以前の楽曲)
+|&nicovideo(http://www.nicovideo.jp/watch/sm21527325)|&nicovideo(http://www.nicovideo.jp/watch/sm21582379)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm21635938)|&nicovideo(http://www.nicovideo.jp/watch/sm21689680)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm21742991)|&nicovideo(http://www.nicovideo.jp/watch/sm21796370)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm21849322)|&nicovideo(http://www.nicovideo.jp/watch/sm21898765)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm21946918)|&nicovideo(http://www.nicovideo.jp/watch/sm21997960)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm22048129)|&nicovideo(http://www.nicovideo.jp/watch/sm22095719)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm22143105)|&nicovideo(http://www.nicovideo.jp/watch/sm22192177)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm22239690)|&nicovideo(http://www.nicovideo.jp/watch/sm22286710)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm22333188)|&nicovideo(http://www.nicovideo.jp/watch/sm22379996)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm22426716)|&nicovideo(http://www.nicovideo.jp/watch/sm22471767)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm22668039)|&nicovideo(http://www.nicovideo.jp/watch/sm22716141)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm22764278)|&nicovideo(http://www.nicovideo.jp/watch/sm22863255)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm22916225)|&nicovideo(http://www.nicovideo.jp/watch/sm22965789)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm23068493)|&nicovideo(http://www.nicovideo.jp/watch/sm23120218)|
+|&nicovideo(sm23173075)|&nicovideo(sm23284183)|
+|&nicovideo(sm23340629)|&nicovideo(sm23437283)|
+|&nicovideo(sm23544580)|&nicovideo(sm23595665)|
+|&nicovideo(sm23647624)|&nicovideo(sm23798081)|
+|&nicovideo(sm23904035)|&nicovideo(sm24111639)|
+|&nicovideo(sm24325183)|&nicovideo(sm24379055)|
+|&nicovideo(sm24482819)|&nicovideo(sm24636355)|
+|&nicovideo(sm24840269)|&nicovideo(sm25038268)|
+|&nicovideo(sm25133456)|&nicovideo(sm25338496)|
+|&nicovideo(sm25540426)|&nicovideo(sm25861838)|
+|&nicovideo(sm26025319)|&nicovideo(sm26448629)|
+|&nicovideo(sm26597997)|&nicovideo(sm26703983)|
+|&nicovideo(sm26755518)|&nicovideo(sm26905439)|
+|&nicovideo(sm27258521)|&nicovideo(sm27558074)|
+|&nicovideo(sm27751037)|&nicovideo(sm27896507)|
+|&nicovideo(sm28179826)|&nicovideo(sm28425745)|
+|&nicovideo(sm29047768)|&nicovideo(sm29366124)|
+|&nicovideo(sm29815017)|&nicovideo(sm30048160)|
+|&nicovideo(sm30218993)|&nicovideo(sm30681505)|
+|&nicovideo(sm31225221)|&nicovideo(sm31727960)|
+|&nicovideo(sm31996010)|&nicovideo(sm32337145)|
+|&nicovideo(sm32625103)|&nicovideo(sm33065691)|
+|&nicovideo(sm33463366)|&nicovideo(sm33834512)|
+|&nicovideo(sm34064358)|&nicovideo(sm34546554)|
+|&nicovideo(sm34694541)|&nicovideo(sm35012889)|
+|&nicovideo(sm35344830)|&nicovideo(sm35725951)|
+|&nicovideo(sm35818316)|&nicovideo(sm36637532)|
+|&nicovideo(sm36676603)|&nicovideo(sm36718076)|
+|&nicovideo(sm37150035)|&nicovideo(sm37297428)|
+|&nicovideo(sm38212827)|&nicovideo(sm38272000)|
+|&nicovideo(sm38539214)|&nicovideo(sm39476892)|
+|&nicovideo(sm39633934)|&youtube(https://www.youtube.com/watch?v=yP00UBZTYQY){342,187}|
+|&nicovideo(sm40183364)|&nicovideo(sm40621503)|
+|&nicovideo(sm40666976)|&nicovideo(sm41048682)|
+|&nicovideo(sm41219060)|&nicovideo(sm41336850)|
+|&nicovideo(sm41419596)|&nicovideo(sm41675756)|
+|&nicovideo(sm41807725)|&nicovideo(sm41866634)|
+#endregion
+|&nicovideo(sm41946278)|&nicovideo(sm42009438)|
+|&nicovideo(sm42185263)|&nicovideo(sm42450996)|
+|&nicovideo(sm42571626)|&nicovideo(sm42974291)|
+|&nicovideo(sm43167780)|&nicovideo(sm43176080)|
+|&nicovideo(sm43236912)||
+//|&nicovideo()|&nicovideo()|
+
+**関連タグ内の更新履歴
+#region(close,関連タグ内の更新履歴)
+関連タグ内の更新履歴
+※「ねじ式」「ねじ式CD」タグ内で最近編集やコメントのあった記事を新しい方から10件表示しています。
+#list_by_tagsearch(ねじ式,ねじ式CD,sort=timestamp,sort2=desc,errmsg=まだ曲、CDが登録されていません。,or,10)
+#endregion
+
+**コメント
+- 昨日Ｐ名を火曜日Ｐに決めたそうなのでそれについて誰か編集お願いします　これからも毎週火曜日の投稿を無理のない程度に続けてほしいですね  -- 名無しさん  (2013-11-15 01:19:55)
+- 評価されるべき  -- 名無しさん  (2014-03-13 21:06:37)
+- CD出してほしいな  -- 進撃の名無しさん  (2014-03-29 06:43:01)
+- ボーマスでCD出すから絶対買うわ　どの曲もすごく好き  -- 名無しさん  (2014-04-10 12:00:12)
+- ねじ式さんのおかげで火曜日が好きになりました…!!  -- 名無しさん  (2014-09-09 09:17:11)
+- 動画の再生数だとか他人の評価だとか、そんなの関係なく良いもの良い！と改めて実感した。  -- 名無しさん  (2015-03-12 17:39:41)
+- もっと評価されるべきだと思う。  -- 名無しさん  (2015-04-15 16:55:35)
+- 名前の由来って、あの有名漫画のタイトルを?  -- 名無しさん  (2016-01-16 11:28:14)
+- すごいいい曲ばっかりで、ファンになりました！これからも応援してます！  -- あき  (2017-06-20 19:54:30)
+- ねじ式さんのおかげで火曜日学校頑張れます!!!!  -- ユメクラ  (2018-12-09 07:46:45)
+- 「フリィダムロリィタ」ミリオンおめでとう！  -- 名無しさん  (2019-05-13 18:31:07)
+- やっぱねじ式さんなんだよなぁ  -- 名無しさん  (2020-10-22 20:33:18)
+- らじみくでも好き  -- 名無しさん  (2022-06-01 07:52:35)
+- JASRACの2024年度総会にて、JASRAC理事に就任されたとのこと。任期は2026年度総会まで。  -- 名無しさん  (2024-06-28 05:53:57)
+#comment()

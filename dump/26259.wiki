@@ -1,0 +1,38 @@
+#right(){&furigana(げんそうれぼりゅーしょん)&furigana()【登録タグ:&tags() 】}
+#amazon(B00CTPZ3JC)
+
+|&nicovideo(sm20690698)|&YouTube(http://www.youtube.com/watch?v=IBtzzJNToNQ)|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[幻想エモーション]]|CENTER:&bold(){幻想レヴォリューション}|CENTER:[[幻想セレクション ～幻想エアリーベストアルバム～]]|
+
+|&bold(){[[ぱんたんP]]}|マエカワ|綾菓|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|CENTER:2013年4月27日|CENTER:2013年5月|
+|価格|CENTER:￥1,000|CENTER:￥1,260（税込）|
+|レーベル|CENTER:ぱんたんず|>|
+
+**CD紹介
+-男声ボカロ4つからなるユニット「幻想エアリー」の4thアルバムとなるCD。
+-ジャケットイラストはちゆ氏。
+-THE VOC@LOiD 超 M@STER 24（超ボーマス24）で頒布。 
+-Amazonや同人ショップで委託販売が行われている。
+
+**曲目
++[[LIAR>LIAR/ぱんたんP]]
++[[夜空に華咲くお願いサマー！]]
++夏の終わりが聴こえない
++ひだまり
++[[運命だから…again and again]]
+
+上記5曲+off vocal 5曲入り
+
+**リンク
+-[[リサレコ（作者ホームページ）>>http://lisa-rec.net/]]
+-[["幻想エアリー"オフィシャルサイト>>http://lisa-rec.net/genso/]]
+-[[amazon>>http://www.amazon.co.jp/dp/B00CTPZ3JC/]]
+-[[トランジスタストア>>https://transistar.stores.jp/#!/?category=%E5%B9%BB%E6%83%B3%E3%82%A8%E3%82%A2%E3%83%AA%E3%83%BC]]
+
+**コメント
+#comment()

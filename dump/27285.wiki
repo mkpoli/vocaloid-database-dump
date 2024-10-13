@@ -1,0 +1,42 @@
+#right(){&furigana(OrdinaryLife)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+
+|&nicovideo(sm22192033)|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Good Melody Good Smile]]|CENTER:&bold(){Ordinary Life}|CENTER:-|
+
+|&bold(){[[いのっぴ]]}|
+
+|流通|CENTER:即売|
+|発売|CENTER:2013年11月17日|
+|価格|CENTER:\500（税込）|
+|サークル|CENTER:てれっぴ7年後の自分は考えない|
+
+**CD紹介
+>&bold(){嬉しい事とか、悲しい事とか、変な事とかが自分だけに起きているような気がするけど}
+>&bold(){結局そんな毎日の積み重ねが、普通の日常だ。}
+CD名：『&u(){Ordinary Life}』
+-蒼姫ラピスを全曲に渡ってフィーチャーしたオンリーアルバム。
+-既存曲（4曲）に新曲（4曲）を加えた全8曲を収録。
+-ジャケットイラストなどのアートワークを [[あす缶]]氏 が、マスタリングを D-i-duke氏 が手掛ける。
+-THE VOC@LOiD M@STER 27（ボーマス27） にてリリース。
+
+**曲目
++オーディナリーライフ
++[[Five]]
++[[BLUE>BLUE/いのっぴ]]
++[[哀しみパレード]]
++シューティングスター
++[[オトナシ]]
++[[白く、青く。]]
++[[Spring Girl]]-retake-
+
+**リンク
+-[[Twitter>>https://twitter.com/inoppippi]]
+
+**コメント
+#comment()

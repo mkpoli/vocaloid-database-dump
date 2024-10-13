@@ -1,0 +1,38 @@
+#right(){&furigana(おりえんたるまいんど)&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1356_20130814214045_0280_0280.jpg)
+
+|&YouTube(http://www.youtube.com/watch?v=xOWpciLzErk)|&YouTube(http://www.youtube.com/watch?v=89eiDEGLG_s)|
+|&nicovideo(sm21600983)||
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[2020]]|CENTER:&bold(){オリエンタルマインド}|CENTER:[[Melancholia>Melancholia/CD]]|
+
+|&bold(){[[Rin（ぎん）]]}|
+
+発売：2013年9月4日
+価格：￥600 / 1曲￥150
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：Akihiyo
+
+|&bold(){[[iTunes Storeで購入する>>https://itunes.apple.com/jp/album/oriental-mind-ep/id695478232]]}|
+
+**CD紹介
+-古今東西、ちょっぴりふしぎでおかしなオリエンタル・テクノポップEP！
+-Rin（ぎん）氏の配信限定EP。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++[[古今東西ふしぎの国]] （feat. 初音ミク）
++キョンシーパニック （feat. 初音ミク）
++火星さんの歌 （feat. 初音ミク）
++[[グリーンアップル>Green Apple]] （feat. 初音ミク）
++[[オリエンタルマインド]] （feat. 初音ミク）
++孤高の企業戦士 - 社畜反乱軍EDテーマ （feat. 初音ミク）
+
+**リンク
+-[[KARENT：「オリエンタルマインド」>>http://karent.jp/album/1356]]
+-[[作者サイト>>http://kuronekolounge.sakura.ne.jp/neko/KuronekoLounge.html]]
+
+**コメント
+#comment()

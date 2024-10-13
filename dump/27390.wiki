@@ -1,0 +1,71 @@
+#right(){&furigana(Truth and Lie)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm22172307)|
+作詞：[[MineK]]
+作曲：[[MineK]]
+編曲：[[MineK]]
+唄：[[MEIKO]]
+
+**曲紹介
+-MEIKO生誕祭2013で発表された作品。
+-好きになるほど疑ってしまう…そんな気持ちを書いた曲です。
+-イラストはかの氏が担当。
+-KARENTレーベルよりダウンロード販売が行われている。[[MEIKO9周年記念企画>>http://karent.jp/special/meiko13]]で配信された作品の1つ。
+
+**音楽配信
+&ref(http://karent.jp/npdca/1374_20131010213745_0280_0280.jpg)
+
+|CENTER:前作|CENTER:今作|CENTER:次作|
+|CENTER:[[Let's play the Music!]]|CENTER:&bold(){Truth and Lie}|CENTER:[[Power of the Beat>Power of the Beat/CD]]|
+
+流通：配信
+発売：2013年11月5日
+価格：￥150
+レーベル：[[KARENT>>http://karent.jp/album/1374]]
+ジャケットイラスト：かの
+
+|&bold(){[[iTunes Storeで購入>>https://itunes.apple.com/jp/album/truth-and-lie-single/id735057580]]}|
+
+***曲目
++Truth and Lie （feat. MEIKO）
+
+**歌詞
+（Truth and Lie）キミの本当の心はどこにあるの？
+（Truth and Lie）その無邪気な笑顔はボクだけのものなの？
+（Truth and Lie）キミを見ているだけでふと　笑顔になれるから
+（Truth and Lie）疑うなんてできない　それはTruth and Lie？
+
+恋愛なんていつでも気分次第
+大切なのはその場の雰囲気と少しばかりのトキメキ
+
+「I love you.」言葉にしなきゃ何にも解らない
+プライドよりももっと大切な感情があるんじゃないの？
+
+（Truth and Lie）キミの本当の心はどこにあるの？
+（Truth and Lie）その無邪気な笑顔はボクだけのものなの？
+（Truth and Lie）キミを見ているだけでふと　笑顔になれるから
+（Truth and Lie）疑うなんてできない　それはTruth and Lie？
+
+
+恋愛はチャンスだと思ってるの？
+大切なのは自分自身の意思で選んで決める事
+
+「I think of you.」いつでも愛されたいと思う気持ちと
+嫉妬心をコントロールする事が必要かもね
+
+（Truth and Lie）ボクの本当の心はどこにあるの？
+（Truth and Lie）その真っ直ぐな瞳を信用してもいいの？
+（Truth and Lie）キミと話してるだけでふと　笑顔になれるから
+（Truth and Lie）疑うなんてできない　それはTruth and Lie？
+
+（Truth and Lie）キミの本当の心はどこにあるの？
+（Truth and Lie）その無邪気な笑顔はボクだけのものなの？
+（Truth and Lie）キミを見ているだけでふと　笑顔になれるから
+（Truth and Lie）疑うなんてできない　それはTruth and Lie？
+
+
+**コメント
+#comment()

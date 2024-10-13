@@ -1,0 +1,43 @@
+#right(){&furigana(せつなさいくる)&furigana()【登録タグ:&tags() 】}
+#ref(http://baseec2.s3.amazonaws.com/images/item/origin/1aada069e38460a19db7e35c2fd01efc.jpg,width=300,height=300)
+
+
+&nicovideo(http://www.nicovideo.jp/watch/sm20657396)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){セツナサイクル}|CENTER:[[メイ>メイ/CD]]|
+
+|&bold(){[[yui]]}|
+
+|流通|CENTER:即売|CENTER:通販|
+|発売|>|CENTER:2013年4月27日|
+|価格|CENTER:￥500（税込）|CENTER:￥750（税込）|
+|サークル|>|CENTER:GuitarRockStudio@yui|
+
+**CD紹介
+-yui氏の1stアルバム。
+-殿堂入りした「[[セツナサイクル]]」を筆頭に、これまでにリリースした既存曲に書き下ろしの新曲を加えた全8曲を収録。
+-アートワークは しめのソラ氏 が手掛ける。
+-THE VOC@LOiD 超 M@STER 24（超ボーマス2）にて頒布。通販も行われていた。
+
+**曲目
++[[セツナサイクル]]
++[[カタムスビ]] -Remix ver.-
++ミズイロノソラ
++[[ナイトライト>ナイトライト/yui]]
++[[モノクロスペクトロ]] -Remix ver.-
++ハッピーメリーバースデー
++[[And I Remember]]
++[[バイバイスマイル]]
+
+**リンク
+-[[特設サイト>>http://yuirock.thebase.in/items/59464]]
+-[[Twitter>>http://twitter.com/yui_wani]]
+
+**コメント
+- 楽しみです！  -- 晴れのち虹  (2013-04-25 23:24:49)
+- 楽しみ（≧∇≦）  -- 名無しさん  (2013-11-24 12:06:13)
+- 買わねばっ！  -- りぃん  (2014-05-24 20:11:56)
+- これは買うー！  -- (*´∨｀*)  (2014-10-17 18:23:37)
+- バイバイスマイル大好き♪  -- aya'mべるYeS  (2015-01-11 22:55:26)
+#comment()

@@ -1,0 +1,33 @@
+#right(){&furigana(にかそぴてき)&furigana()【登録タグ:&tags() 】}
+#amazon(B00DQ6CDS2)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[ニカソピテキ（配信）>ニカソピテキ]]|CENTER:&bold(){ニカソピテキ}|CENTER:[[僕たちは]]|
+
+|&bold(){[[AVTechNO]]}|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2013年7月7日|CENTER:2013年7月17日|
+|価格|CENTER:￥|CENTER:￥1,500（税込）|
+|サークル|>|CENTER:SUKIMONO|
+
+**CD紹介
+-AVTechNO!氏の5曲入りシングルCD。
+-歌詞は自然、緑、地球とかがテーマで楽曲はあべさん的ポップに作りました。
+-ジャケットデザイン・イラストは和音氏が担当。
+-THE VOC@LOiD M@STER 25（ボーマス25）で頒布。
+-Amazonにて委託販売が行われている。
+
+**曲目
++[[ショッピング>Shopping]] （feat. 初音ミク）
++[[ニカソピテキ]] （feat. 初音ミク）
++[[僕たちは]] （feat. 初音ミク）
++Sera/f （Instrumental）
++ニカソピテキ （off vocal）
+
+**リンク
+-[[作者サイト>>http://avtechno.ukime.org/]]
+-[[Amazon>>http://www.amazon.co.jp/dp/B00DQ6CDS2/]]
+
+**コメント
+#comment()

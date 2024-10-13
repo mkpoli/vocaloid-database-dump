@@ -1,0 +1,43 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo(sm16050062)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[ふわふわなかたおもい]]|CENTER:&bold(){fluffy fluffy ～fuwaP cover arrange album～}|CENTER:[[きゅんきゅん☆たいむ]]|
+
+|&bold(){[[ふわP]]}|[[銀河方面P]]|[[頑なP]]|[[Clean Tears]]|[[ムジカデリク]]|
+|[[チャリけんP]]|[[クマロボ]]|[[Chiquewa]]|[[夜宵]]||
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2011年11月19日|CENTER:2011年11月|
+|価格|CENTER:￥1,000|CENTER:￥1,470（税込）|
+|サークル|>|CENTER:ATZ Records|
+
+**CD紹介
+-ふわPの楽曲のカバーアレンジ集。
+-ボーマス18はふわPの誕生日前日でそれを記念して発表される。
+-本人含む8名のボカロPと2名の歌い手が参加している。
+-ジャケットイラストをけろ氏が担当している。
+-THE VOC@LOiD M@STER 18（ボーマス18）にて頒布。委託販売も行われていた。
+
+**曲目
++[[光をあつめて]] feat. Milia
++[[ひとつぶかたおもい]] -SuperGalaxy mix- / 銀河方面P
++[[すぅぱぁLOVEふぃぃぃぃぃりんぐ!!!]] -ノリノリミクミックス- / 頑なP
++[[スーパージェット]] -Hyper jet Mix- / Clean Tears
++[[ふわふわな魔法]] -誕おめ X-over Mix- / ムジカデリク
++[[ふわうさ]] -きゅんきゅん☆ラビット Mix- / チャリけんP
++[[ナイショの○○]] -クマロボンバイエ2011Mix- / クマロボP
++[[シュガー・ティータイム]] -Tambourine Sasakama Mix- / Chiquewa
++[[ココロノネ>>http://www24.atwiki.jp/utauuuta/pages/1608.html]] feat. [[夜宵]]
++[[光をあつめて]] -すとりing Mix- / ふわP（すとり）
+
+**動画
+|&nicovideo(sm15977048)|&nicovideo(sm16180389)|
+
+**リンク
+-[[特設ページ>>http://fluffy.atzrecords.com/]]
+-[[ATZ Records>>http://atzrecords.com/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/00/66/040030006689.html]]
+
+**コメント
+#comment()

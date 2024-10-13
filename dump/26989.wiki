@@ -1,0 +1,41 @@
+#right(){&furigana(ふなむし)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/22106188" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/22106188">【ニコニコ動画】</a></iframe>)
+
+**特徴
+作り手名：『&u(){ふなむし}』
+- 使用ボーカロイドは、初音ミク、鏡音リン。
+- 曲中、朗読が入ることがある。動画説明文に、小説、漫画などのセリフを引用することも多い。
+- [[ふなむしP]]とは関係ない。
+
+**リンク
+-[[twitter>>https://twitter.com/funamushi13]]
+
+**曲
+#list_by_tagsearch(ふなむし,sort=furigana2,errmsg=まだ曲が登録されていません。,and,100)
+
+**CD
+#list_by_tagsearch(ふなむしCD,sort=furigana2,errmsg=まだCDが登録されていません。,and,100)
+
+**動画
+|&nicovideo(sm21966811)|&nicovideo(sm20829791)|
+|&nicovideo(sm20400260)|&nicovideo(sm19799004)|
+|&nicovideo(sm19664586)|&nicovideo(sm18940816)|
+
+**関連タグ内の更新履歴
+#region(close,関連タグ内の更新履歴)
+関連タグ内の更新履歴
+※「ふなむし」「ふなむしCD」タグ内で最近編集やコメントのあった記事を新しい方から10件表示しています。
+#list_by_tagsearch(ふなむし,ふなむしCD,sort=timestamp,sort2=desc,errmsg=まだ曲、CDが登録されていません。,or,10)
+#endregion
+
+**コメント
+- 本当に好きです！！！頑張ってください！！！  -- 名無しさん  (2013-10-22 02:04:01)
+- ちいさなお葬式、きらきら。　聴きました。　  -- takoruka2  (2015-03-19 00:00:22)
+- 孤高の天才ボカロＰ。音作りの素晴らしさもさることながら、詩やエロ漫画に宗教など多岐にわたるカルチャーから受信して集積された圧倒的なセンスと持ち合わせる感性が織りなす世界観がとても魅力的  -- 名無しさん  (2018-09-19 21:04:57)
+- 今も聴いてます。  -- 名無しさん  (2023-11-23 13:46:18)
+- わすらるるをふと思い出してまた最近聞いている  -- 私  (2024-10-12 14:54:06)
+#comment()

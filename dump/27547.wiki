@@ -1,0 +1,36 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#amazon(B00ABV0B98)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[VRUSH UP! ＃03 -kous Tribute-]]|CENTER:&bold(){VRUSH UP! ＃04 -millstones Tribute-}|CENTER:[[VRUSH UP! ＃05 -whoo Tribute-]]|
+
+|&bold(){[[millstones]]}|[[Ev（イーブル）P]]|[[kiichi（なんとかP）]]|Remo-con|[[Wonderlandica]]|Yamajet|[[ささくれP]]|[[パイパンP]]|村上くるる|
+
+発売：2012年12月23日
+価格：￥1,575（税込）
+流通：全国
+レーベル：U/M/M/A
+
+**CD紹介
+-“VRUSH UP!”シリーズは、今までに発表されたVOCALOID楽曲を違う角度から楽しむことを目的として制作されたリミックスコンピレーションアルバム。
+-異なるクリエイターのセンスによって新たな解釈を加えることによって、楽曲を“VRUSH UP”しようという試み。
+-第四弾となる本作では、&bold(){millstones}に焦点を当てている。
+-公式サイトにてCDの試聴可能。
+
+**曲目
++[[カガリビト]] (Yamajet Midwinter Remix)  
++[[キップル・インダストリー]] (Wonderlandica Winter Ascension Dub Remix)  
++[[五月少女]] (QururuMurakami Hypochondria Remix)  
++[[計画都市]] (sasakure.UK A.D.2112 TOKYO Remix)  
++[[バイバイ、ブラックワールド]] (kiichi Other World Remix)  
++[[未来紀元歴元年]] (zanio iikanjino Remix)  
++黄昏ホリック (Calla Soiled Sci-Fi Taste Remix)  
++[[可能世界のロンド]] (Remo-con Napoleon Remix)
+
+**リンク
+-[[amazon>>http://www.amazon.co.jp/dp/B00ABV0B98]]
+-[[公式サイト>>http://vrushup.com/information/vrush-up-04-millstones-tribute/]]
+
+**コメント
+- おお！  -- 名無しさん  (2013-11-26 22:16:44)
+#comment()

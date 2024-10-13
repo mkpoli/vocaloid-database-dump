@@ -1,0 +1,33 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#ref(http://www.geocities.jp/officemuhmue/images/open_cafe.jpg)
+
+
+&nicovideo(http://www.nicovideo.jp/watch/sm21280946)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Magic Logic]]|CENTER:&bold(){Open Cafe}|CENTER:[[Pavilion>Pavilion/CD]]|
+
+|&bold(){[[muhmue]]}|
+
+|流通|CENTER:即売|
+|発売|CENTER:2013年7月7日|
+|価格|CENTER:￥500（税込）|
+|サークル|CENTER:office muhmue|
+
+**CD紹介
+-muhmue氏 の 1st mini album.
+-CD未収録曲・未発表曲に、書き下ろしの新曲を加えた全5曲を収録。
+-THE VOC@LOiD M@STER 25（ボーマス25） にてリリース。
+
+**曲目
++カテドラルベル feat. GUMI
++[[その手の中で]] feat. 鏡音リン
++interlude -お茶会-
++[[クリスマスツリーの下で]] feat. 鏡音リン
++[[カプチーノ・エデン]] feat. 初音ミク 
+
+**リンク
+-[[作者ホームページ>>http://www.geocities.jp/officemuhmue/]]
+
+**コメント
+#comment()

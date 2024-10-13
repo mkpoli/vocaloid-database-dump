@@ -1,0 +1,39 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+#ref(http://twinkledisc.net/blog/wp-content/uploads/2013/12/RAMBLR_JUMBLR_Jack_600.jpg,width=300,height=300)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Detector]]|CENTER:&bold(){RAMBLE! JUMBLE!}|CENTER:[[ReRections]]|
+
+|&bold(){[[シグナルP]]}|[[花束P]]|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2013年12月31日||
+|価格|CENTER:￥1,000（税込）|CENTER:￥1,300（税別）|
+|サークル|>|CENTER:twinkledisc|
+
+**CD紹介
+-Dios/シグナルPのVOCALOIDオリジナルアルバム。じっくり時間をかけて仕上げた自信作。
+-アルバムタイトルのJUMBLE（ごちゃまぜ）という名のとおり、11人の歌声と幅広い様々なジャンルの曲が収録されている。
+-基本的に1ボカロ1曲収録（ZOLAは3人セットで1曲）。
+-ジャケットイラストを 遥氏 が、デザインを [[NEGI]]氏 が手掛ける。
+-コミックマーケット85（C85）にてリリース。委託販売はAmazon、とらのあなにて行われる。
+
+**曲目
++[[ハッピージャーニー]] RAMBLE mix feat.Rin
++侵蝕 RAMBLE mix feat.GUMI
++future’s end feat.MAYU
++プロジェクトF JUMBLE mix feat.ZOLA
++喜怒安楽 feat.Gackpo
++シーソークィーン feat.IA
++ブルー・サンクチュアリ JUMBLE mix feat. Rion
++Shine on U feat.Lily
++少年とクルトの勇敢な物語 feat.Len
+
+**リンク
+-[[twinkledisc（作者ホームページ）>>http://twinkledisc.net/index.htm]]
+-[[Amazon>>http://www.amazon.co.jp/gp/product/ASIN/B00HH990I0]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/18/06/040030180622.html]]
+
+**コメント
+- シグナルPのLily!  -- 名無しさん  (2013-12-29 00:15:40)
+#comment

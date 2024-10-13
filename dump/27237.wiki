@@ -1,0 +1,50 @@
+#right(){&furigana(Projectほうしん)&furigana()【登録タグ:&tags() 】}
+&amazon(B00FBKAGKS)
+
+|&nicovideo(http://www.nicovideo.jp/watch/sm22170438)|&youtube(https://www.youtube.com/watch?v=3s6i4rnEDBs){336,189}|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Project封神}|CENTER:-|
+
+|&bold(){[[チームカミウタ]]}|[[cillia]]|[[hazfirst]]|
+
+|流通|CENTER:全国|
+|発売|CENTER:2013年11月6日|
+|価格|CENTER:￥2,300（税込）|
+|レーベル|CENTER:徳間ジャパンコミュニケーションズ|
+
+**CD紹介
+>&bold(){―― これは数奇な運命で結ばれたある研究者と被験体の物語 ――}
+-新進気鋭のクリエーター集団 チームカミウタ の major 1st album.
+-SF浪漫談、「Project封神」シリーズの集大成。ボカロ歌唱版（5曲）＋生唄版（8曲）＋インスト（1曲）という構成で全14曲を収録。
+-ジャケットイラストは [[hazfirst]]氏 が手掛ける。
+-付属のDVDには、「Project封神」シリーズ5作のPVを収録。
+
+**曲目
++[[花は桜木、人は君]]　　 　　
++[[例え、君の瞳に映らないとしても]]
++[[C.W.R（コントロール・ワールド・ルーム）>C.W.R]]
++[[mirror>mirror/チームカミウタ]]
++[[unknown unknowns]]
++花は桜木、人は君（生唄版）
++例え、君の瞳に映らないとしても（生唄版）
++C.W.R（コントロール・ワールド・ルーム）（生唄版）
++憧憬の世界（inst.）
++mirror（生唄版）
++unknown unknowns（生唄版）
++されど、神のみぞ知る
++mask of world
++The God's Sealed Eden
+
+**リンク
+-[[公式ページ>>http://www.teamkamiuta.com/]]
+-[[CD情報ページ>>http://www.tkma.co.jp/jpop_release_detail/teamkamiuta.html?rid=3799]]
+-[[amazon>>http://www.amazon.co.jp/dp/B00FBKAGKS]]
+
+**コメント
+- 追加ありがとうございます！すごく楽しみ  -- 名無しさん  (2013-11-04 01:57:18)
+- 超大好きです！！  -- なっち  (2013-11-29 22:19:58)
+- 大好きです！´ω`*  -- 餅  (2013-12-31 13:34:32)
+- 良いんだけどなんかなあ。ページリンクついてる曲｢だけ｣VOCALOID歌唱なんだよな…  -- 今更かもだけど。  (2014-01-10 15:10:17)
+- いいじゃん。  -- 名無しさん  (2014-07-16 21:29:42)
+#comment()

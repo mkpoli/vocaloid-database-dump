@@ -1,0 +1,41 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm16794585)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[the VOCAJAZZ vol.1]]|CENTER:&bold(){the VOCAJAZZ vol.2}|CENTER:[[the VOCAJAZZ vol.3]]|
+
+|&bold(){[[喜兵衛]]}|[[DATEKEN]]|[[なきゃむりゃ]]|[[南のP]]|[[さはら]]|[[鍵盤無双P]]|
+|[[れるりり]]|[[黒田亜津]]|[[西島ソーンダイク]]|[[夏空P]]|こゆき|[[ココアシガレットP]]|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2012年2月5日||
+|価格|CENTER:￥|CENTER:￥1,500（税込）|
+|サークル||CENTER:VOCAJAZZコンピ|
+
+**CD紹介
+-VOCAJAZZコンピレーションアルバム第2弾。
+-今作では8組のPによる12曲を収録。
+-THE VOC@LOiD M@STER 19（ボーマス19）で頒布。
+-とらのあなで委託販売が行われている。
+
+**曲目
++[[ワンルーム・オール・ザット・ジャズ]] / [[DATEKEN]]
++[[孤独のパラノイア]] / [[なきゃむりゃ]]
++One Night Stand / [[oz_hiro>南のP]]（作詞：[[さはら]]）
++[[たび]] / [[たけ>鍵盤無双P]]
++The sweet night with little straycats / [[れるりり]]（ピアノ演奏：本間太郎）
++[[予定調和に沈む]] / [[黒田亜津]]（ギター演奏：福田正人）
++[[タ・トゥ・ラ]] / [[喜兵衛]]
++[[8>8/西島ソーンダイク]] / [[西島尊大>西島ソーンダイク]]
++[[ソファー]] / たけ
++[[ONE NIGHT PIECE]] / [[ベッコー>夏空P]]（作詞：こゆき）
++あの日のままで / れるりり
++ニジイロ / [[GYARI>ココアシガレットP]]
+
+**リンク
+-[[特設サイト>>http://vocajazz.com/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/02/57/040030025785.html]]
+
+**コメント
+- これはすごい良かった　VOCAJAZZ最高だわ  -- 名無しさん  (2015-01-26 14:23:33)
+#comment()

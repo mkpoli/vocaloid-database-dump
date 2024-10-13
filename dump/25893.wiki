@@ -1,0 +1,30 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1263_20130421231445_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[NEXT ON YOU]]|CENTER:&bold(){Story Rider feat.初音ミク}|CENTER:[[SNOW LIGHT feat.初音ミク]]|
+
+|&bold(){[[エレキP>BIGHEAD]]}|
+
+発売：2013年5月8日
+価格：￥300 / 1曲￥150
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：さたーん
+
+**CD紹介
+-エレキPのシングル。
+-前作に引き続きオリジナル曲。
+-「KARENT」と「ROTH ENTERTAINMENT」による共同レーベル、「Lip Sync Records」からのリリース第8弾となる。
+
+**曲目
++[[Story Rider]] （feat. 初音ミク）
++Story Rider （instrumental）
++Story Rider (acappella) （feat. 初音ミク）
+
+**リンク
+-[[Lip Sync Records>>http://lipsync-records.jp]]
+-[[KARENT：「Story Rider feat.初音ミク」>>http://karent.jp/album/1263]]
+
+**コメント
+#comment()

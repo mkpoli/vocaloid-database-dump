@@ -1,0 +1,34 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/38409359" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/38409359">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-投稿者名は現在は&b(){まにぃ}、過去には&b(){こーすけ＠}と名乗っていた時期もある。
+-処女作は『[[雪>>http://www.youtube.com/watch?v=iNCH09KVrEE]]』。その動画説明文で、「Nice 積雪.と共にお楽しみ下さい。」と書いたところ、「Nice snow.じゃだめなのかよ」というコメがあり、『[[雪（Nice 積雪.Ver）>>http://www.youtube.com/watch?v=mX3eCNRGI-o]]』を「ついかっとなって作ってしまった」ことにより、P名が決まった。（現在ニコニコ動画では削除済みの為、ニコニコ大百科記事より引用。曲のリンクをYouTubeとしている）
+-ちびミクシリーズの人として有名で、代表作はその中の『[[おきあがれないよー]]』であり、殿堂入り達成曲である。また多くの派生動画が作られている。
+-トモエ杯で4位を獲得し、トラ"&b(){ポ}"ルタを名乗る権利を獲得している。（トモエ杯については[[大百科記事>>http://dic.nicovideo.jp/id/2999604]]参照）
+-上記の曲を含む過去の作品はニコニコ動画において全て削除済みであり、2013年8月21日から新作のみに限りニコニコに投稿・復帰している。
+--[[Nice 積雪.Pの大百科>>http://dic.nicovideo.jp/id/4222450]]掲示板において、動画を削除した理由について以下のように述べている。
+>動画に使用される絵の絵師さんにほとんど光が当たっていないのを
+>憂いて、本拠地をYoutubeとzoomeに移しました。できるだけ動画をうpし、
+>絵師さんをワールドワイドにアピールしていきたいと思います。
+-下記リンクのYouTubeには、新作だけでなく過去作も含む100以上の作品が投稿されている。（zoomeに関しては事業自体が閉鎖されたためリンクは無い）
+
+**リンク
+-[[YouTube>>http://www.youtube.com/user/NiceSekisetuP1]]
+-[[PIAPRO>>http://piapro.jp/manny]]
+//-[[Twitter>>https://twitter.com/manny_291]]
+//Twitterに関しては、ニコニコニュースなどに対して辛口な意見が多いので、念のためコメントアウトを行っている。
+
+**曲
+#list_by_tag(Nice 積雪.P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(Nice 積雪.PCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm21644174)|&nicovideo(sm22061424)|
+|&nicovideo(sm22179904)|&nicovideo(sm22346015)|
+|&nicovideo(sm22407239)||
+
+**コメント
+#comment()

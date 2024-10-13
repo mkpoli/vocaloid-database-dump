@@ -1,0 +1,43 @@
+#right(){&furigana(なき)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/34156820" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/34156820">【ニコニコ動画】投稿動画</a></iframe>)
+
+**特徴
+作り手名：『&u(){なぎ}』
+-2012年10月、『[[over*again]]』にてボカロデビュー。
+-使用ボカロは今のところ、ミクのみ。
+
+**リンク
+-[[なぎのとしょしつ（作者ブログ）>>http://nekonagineko.blog.fc2.com/]]
+-[[PIAPRO>>https://piapro.jp/aoinagi3987]]
+-[[Twitter>>https://twitter.com/Nagi_aoi]]
+-[[ニコニコ>>https://www.nicovideo.jp/user/20354746]]
+
+**曲
+#list_by_tag(なぎ,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(なぎCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|>|BGCOLOR(#0055aa):COLOR(#FFF):CENTER:&font(b,11pt){オリジナル曲}|
+|&nicovideo(sm19049263)|&nicovideo(sm19906277)|
+|&nicovideo(sm20105887)|&nicovideo(sm20457699)|
+|&nicovideo(sm20827200)|&nicovideo(sm21630990)|
+|&nicovideo(sm21963365)|&nicovideo(sm22438420)|
+|&nicovideo(sm22687257)|&nicovideo(sm23165073)|
+|&nicovideo(sm23346749)|&nicovideo(sm24341422)|
+|&nicovideo(sm24422747)|&nicovideo(sm25991198)|
+|&nicovideo(sm26045586)|>|
+
+**コメント
+- もっと評価されるべき！どの曲も素敵です(´∀｀)  -- 名無しさん  (2014-02-17 19:18:04)
+- clock　workはもっと評価されるべきだ！  -- 名無しさん  (2014-04-04 10:19:03)
+- 幻想的で好きなんだけど、マイナーかなぁ…評価しよ(´・ω・`)  -- さかな  (2015-08-04 12:37:29)
+- どの曲もかなり好きだけど感傷リフレクトと独りぼっちユートピアはかなり好み。マイナーとか関係なく、なぎさん好きだー！！  -- 名無しさん  (2015-12-24 11:09:12)
+- どの曲もミクの声綺麗で好き。  -- ロシェ  (2016-03-11 23:39:10)
+- めっちゃ好きです。もっとのびろー( ´ ▽ ` )  -- 花  (2016-05-28 21:42:00)
+#comment()

@@ -1,0 +1,36 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#ref(http://img.toranoana.jp/bl_img/04/0030/19/15/040030191564-1.gif)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[彼方>彼方/クリスタルP]]|CENTER:&bold(){erase or zero／彼方}|CENTER:[[PARTED]]|
+
+|&bold(){[[クリスタルP]]}|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2014年3月2日||
+|価格|CENTER:￥1,000|CENTER:￥1,313（税込）|
+|サークル|>|zeghed Label (S-hybrid)|
+
+**CD紹介
+-「[[初音ミク -Project DIVA- F 2nd>>http://miku.sega.jp/f2/]]」への「erase or zero」の収録を記念したアルバム。
+-VOCALOID PARADISE 関西3（ボーパラ関西3）にて頒布開始。
+-とらのあなにて委託販売が行われている。
+
+**曲目
++[[erase or zero]]
++[[彼方>彼方/クリスタルP]]
++片仮名カンジ
++erase or zero～Live～(eraser&originator’s 0th concert tour)
++erase or zero～orientalmoon remix～(from,Album“[[crystaL>crystaL（クリスタエル）]]”)
++erase or zero～It seems like atrance remix～(from,Album“[[花>zegHed～花～]]”)
++彼方[inst]
++片仮名カンジ[inst]
++erase or zero[inst]
+
+**リンク
+-[[特設ページ>>http://k-kei.versus.jp/zeghed/shbd0009_tokusetsu.html]]
+-[[とらのあな>>http://www.toranoana.jp/bl/article/04/0030/19/15/040030191564.html]]
+
+**コメント
+- おお！  -- 名無しさん  (2014-02-28 21:14:34)
+#comment()

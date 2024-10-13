@@ -1,0 +1,40 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo(sm21161634)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Poker Face>Poker Face/CD]]|CENTER:&bold(){Sandplay}|CENTER:[[忘愁のエトランゼ>忘愁のエトランゼ/CD]]|
+
+|&bold(){[[Ebot]]}|
+
+発売：2013年6月23日
+価格：￥1,000
+流通：即売
+サークル：ウタカタ社中
+
+**CD紹介
+-Ebot氏のCD作品。
+-6曲+オフボーカルトラックの全12曲。
+-KAITOによる三味線×ロックサウンドコンセプトアルバム。
+-Tr.6は「[[The Improvisatore]]」の歌詞違いバージョン。
+-既存曲は再調声、再マスタリングを施している。
+-VOCALOID PARADISE 番外編「KAITO PARADISE」で頒布。
+
+**曲目
++The Order
++Transient Tears
++[[Poker Face]]
++[[Unbalance>Unbalance/Ebot]]
++風だけが星だけが
++The Troubadour
++The Order (off vocal)
++Transient Tears (off vocal)
++Poker Face (off vocal)
++Unbalance (off vocal)
++風だけが星だけが (off vocal)
++The Troubadour (off vocal)
+
+**リンク
+-[[サークルサイト>>http://utakatasyachu.blog.fc2.com/]]
+
+**コメント
+#comment()

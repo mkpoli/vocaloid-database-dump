@@ -1,0 +1,35 @@
+#right(){&furigana(projectdivadesu)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|オリジナル||
+|&nicovideo(sm8665949)||
+|REMIX||
+|&nicovideo(sm16648456)|&YouTube(http://www.youtube.com/watch?v=VQAsDtiOPtY){342,187}|
+作曲：[[うたたP]]
+編曲：[[うたたP]]
+唄：[[初音ミク]]（オリジナル） / [[初音ミク]]・[[巡音ルカ]]（REMIX）
+
+**曲紹介
+曲名：『&u(){Project Diva desu.}』（&u(){プロジェクトディーヴァです。}）
+-ProjectDIVA-AC楽曲募集応募曲。
+-のちにミク&ルカによるリミックス版「Project Diva desu. DX」が発表された。
+
+**歌詞
+Project DIVA desu.
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+**コメント
+- 追加おつ！  -- 名無しさん  (2014-02-14 19:32:34)
+- 中毒性があって好きです！  -- 烏龍  (2014-02-25 13:46:39)
+- ミクの日感謝祭で、聴いた曲　desu. 思わず踊りたくなります。　39 39 ダンパで是非やって下さい。コメント少なくて残念desu.(つд⊂)  -- ლ(╹◡╹ლ)　39 39 大好き  (2014-11-20 00:29:33)
+//- 遊戯王ZEXALとは何だったのか。 &br()http://www.tv-tokyo.co.jp/anime/yugioh-zexal/index2.html &br()http://w.atwiki.jp/kizuna1999/ &br()http://www.nicovideo.jp/watch/so36847474 &br()http://yugioh-wiki.net/ &br()https://mao.5ch.net/test/read.cgi/ranimeh/1693819948  -- 名無しさん  (2023-10-07 17:30:00)
+#comment()
+
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)

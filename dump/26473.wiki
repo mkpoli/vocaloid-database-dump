@@ -1,0 +1,77 @@
+#right(){&furigana(ぎょうさんしんびょう)&furigana()【登録タグ:&tags()】}
+&nicovideo(sm10907267)
+作詞：[[solpie]]
+作曲：[[solpie]]
+編曲：[[solpie]]
+唄：初音ミク
+
+**曲紹介
+-KARENTレーベルよりダウンロード販売が行われている。[[初音ミク6周年記念企画>>http://karent.jp/special/miku13]]で配信された作品の1つ。
+
+**音楽配信
+&ref(http://karent.jp/npdca/1332_20130722011959_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[漓江煙雨]]|CENTER:&bold(){尭山神廟}|CENTER:[[水瓶星]]|
+
+発売：2013年8月23日
+価格：￥150
+流通：配信
+レーベル：[[KARENT>>http://karent.jp/album/1332]]
+ジャケットイラスト：lmdxsgz
+
+|&bold(){[[iTunes Storeで購入する>>https://itunes.apple.com/jp/album/yausan-jinja-single/id688753341]]}|
+
+***曲目
++尭山神廟 （feat. 初音ミク）
+
+**歌詞
+[[作者ホームページ（中国語）>>http://www.solpie.net/archives/22.html]]より
+#region(open,歌詞原文)
+-歌詞原文
+
+尧山风 湮灭尧山重
+花江岸东 不安跳动
+
+尧山风 神庙方向钟
+虹桥吟诵 风神眼红
+
+天净沙 山~腰~下
+一~碗~茶 风在哪
+
+尧山绯红 三花酒盅
+打烂花江东
+岁月易容 不变旧梦
+尧山神庙中
+
+神庙清风 破晓刹那
+天地间朦胧
+黄沙撩弄 门前北风
+遥望桥边红
+#endregion
+
+#region(close,日本の漢字表記)
+-日本の漢字表記
+
+尭山風 湮滅尭山重
+花江岸東 不安跳動
+
+尭山風 神廟方向鐘
+虹橋吟誦 風神眼紅
+
+天浄沙 山~腰~下
+一~碗~茶 風在那
+
+尭山緋紅 三花酒蠱
+打爛花江東
+歳月易容 不変旧夢
+尭山神廟中
+
+神廟清風邪 破曉刹那
+天地間朦朧
+黄沙撩弄 門前北風
+遥望橋辺紅
+#endregion
+
+**コメント
+#comment()

@@ -1,0 +1,36 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+|BGCOLOR(#c71585):COLOR(#FFF):CENTER:&font(b,11pt){　クロスフェード　}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm20679646)|
+
+|BGCOLOR(#c71585):COLOR(#FFF):CENTER:&font(b,11pt){　前作　}|BGCOLOR(#191970):COLOR(#FFF):CENTER:&font(b,11pt){　本作　}|BGCOLOR(#c71585):COLOR(#FFF):CENTER:&font(b,11pt){　次作　}|
+|CENTER:-|CENTER:&bold(){Devastation anti Virus}|CENTER:-|
+
+|[[redo>redo/作り手]]|[[やまじ>LITCHI]]|[[銀銀]]|[[藍乃]]|[[アンビリカル244P]]|[[noo]]|
+
+|BGCOLOR(#191970):COLOR(#FFF):CENTER:&font(b,11pt){　流通　}|BGCOLOR(#c71585):COLOR(#FFF):CENTER:&font(b,11pt){　即売　}|
+|BGCOLOR(#c71585):COLOR(#FFF):CENTER:&font(b,11pt){　発売　}|CENTER:　2013年4月27日　|
+|BGCOLOR(#191970):COLOR(#FFF):CENTER:&font(b,11pt){　価格　}|CENTER:　500（税込）　|
+|BGCOLOR(#c71585):COLOR(#FFF):CENTER:&font(b,11pt){　サークル　}|CENTER:　コントレックスシアタールーム　|
+
+**CD紹介
+>&bold(){“きっと幸せは死んだんだ”}
+-新進気鋭のクリエイター6人がこのCDの為に書き下ろした新曲を6曲収録。
+-ジャケットを No.734氏 が、クロスフェード動画を えむめろ氏 が手掛ける。
+-THE VOC@LOiD 超 M@STER 24（超ボーマス24）にてリリース。
+
+**曲目
+|BGCOLOR(#191970):COLOR(#FFF):CENTER:&font(b,11pt){　Track　}|BGCOLOR(#c71585):COLOR(#FFF):CENTER:&font(b,11pt){　曲名　}|BGCOLOR(#191970):COLOR(#FFF):CENTER:&font(b,11pt){　楽曲制作者　}|
+|BGCOLOR(#c71585):COLOR(#FFF):CENTER:&font(b,11pt){ 01 }|CENTER:[[Sense0083.]]|CENTER:redo feat. GUMI|
+|BGCOLOR(#191970):COLOR(#FFF):CENTER:&font(b,11pt){ 02 }|CENTER:[[coralZ]]|CENTER:やまじ feat. 鏡音リン|
+|BGCOLOR(#c71585):COLOR(#FFF):CENTER:&font(b,11pt){ 03 }|CENTER:[[忘れんぼ症]]|CENTER:藍乃 feat. 初音ミク・雪歌ユフ|
+|BGCOLOR(#191970):COLOR(#FFF):CENTER:&font(b,11pt){ 04 }|CENTER:[[凍眠]]|CENTER:銀銀 feat. 鏡音リン|
+|BGCOLOR(#c71585):COLOR(#FFF):CENTER:&font(b,11pt){ 05 }|CENTER:先天性B型オーバードラッグ|CENTER:アンビリカル244P feat. GUMI|
+|BGCOLOR(#191970):COLOR(#FFF):CENTER:&font(b,11pt){ 06 }|CENTER:悪魔|CENTER:noo feat. 初音ミク|
+
+**リンク
+-[[特設サイト>>http://dantivirus.tumblr.com/]]
+
+**コメント
+- 追加おつ！  -- 名無しさん  (2013-04-24 00:42:15)
+- これ欲しかった  -- 名無しさん  (2014-12-10 17:42:26)
+#comment()

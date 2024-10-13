@@ -1,0 +1,27 @@
+#right(){&furigana(しけはん)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/30237527" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/30237527">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-カバー曲「わたしの恋はホッチキス」でボカロPデビュー。
+-元々バンド活動をやっていたが、引退。初音ミクと出会い、10年ぶりに音楽制作を始める。
+-同人サークル「SKYCOLOR_Project」に所属していたが脱退、1年間共に活動したbsf氏と新サークル「Original Aim」にて活動予定。
+-ちなみにP名は「しげしげとぱんつを見つめてクンカクンカするP」の略。(ニコニコ大百科の本人コメントより)
+
+**リンク
+-[[作者ブログ>>http://lushlife1973.blog136.fc2.com/]]
+-[[PIAPRO>>http://piapro.jp/milestone_1973]]
+-[[twitter>>https://twitter.com/lushlife_1973]]
+
+**曲
+#list_by_tag(しげぱんP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(しげぱんPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/nm16838817)|&nicovideo(http://www.nicovideo.jp/watch/nm16837590)|
+|&nicovideo(sm17289760)|&nicovideo(sm18759479)|
+|&nicovideo(sm21355161)||
+
+**コメント
+#comment()

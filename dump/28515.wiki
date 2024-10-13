@@ -1,0 +1,33 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1465_20140216193312_0280_0280.jpg)
+
+&nicovideo(sm22938236)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Feb.14]]|CENTER:&bold(){ゆりかご}|CENTER:[[Rest]]|
+
+|&bold(){[[otetsu]]}|
+
+|流通|CENTER:即売|CENTER:配信|
+|発売|CENTER:2014年3月2日|CENTER:2014年3月5日|
+|価格|CENTER:￥|CENTER:￥300 / 1曲￥150|
+|サークル|CENTER:ビラビラ百貨店||
+
+**CD紹介
+-otetsu氏のシングル。
+-2曲入り。
+-VOCALOID PARADISE 関西3（ボーパラ関西3）で頒布。通販の予定はない。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++[[ゆりかご]] / 巡音ルカ
++friction / メグッポイド
+
+**リンク
+-[[作者ブログ>>http://otetsu721.blog60.fc2.com/]]
+-[[KARENT：「ゆりかご」>>http://karent.jp/album/1465]]
+
+**コメント
+- 地方民にとっては「大嫌い」とこのCDだけ入手できないから辛い；  -- 名無しさん  (2014-04-01 16:58:22)
+- ↑分かる、ぼくも一緒  -- 良太  (2014-04-29 07:11:00)
+#comment()

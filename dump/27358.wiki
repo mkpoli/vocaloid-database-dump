@@ -1,0 +1,41 @@
+#right(){&furigana(IROHA)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(https://www.nicovideo.jp/watch/sm21068419)|&YouTube(https://www.youtube.com/watch?v=WQodvB3BkOg){342,187}|
+|&nicovideo(https://www.nicovideo.jp/watch/sm22863871)|&YouTube(https://www.youtube.com/watch?v=n6X-nCrd9p0){342,187}|
+作詞：[[Rin（ぎん）]]
+作曲：[[Rin（ぎん）]]
+編曲：[[Rin（ぎん）]]
+イラスト（オリジナル）：[[真理歪]]
+唄（オリジナル）：[[初音ミクAppend>初音ミク]]（Solid）
+唄（セルフカバー）：[[マクネナナ]]
+
+**曲紹介
+曲名：『&u(){IROHA}』(&u(){イロハ})
+-初音ミクを使用したDrumstep/Dubstep楽曲。
+-コンピレーションCD『[[KARENT presents 夏空シンガソン feat. 初音ミク]]』に収録された。
+-2014年2月11日、マクネナナ歌唱のセルフカバー版を公開。
+
+**歌詞
+（動画説明文より転載）
+
+ひかりはじけて広がる
+香り、薫る色は仄か
+芽生えた、淡いこころは恋心
+美しく、花咲くいろは
+
+とどかぬ想い秘めたる想いは
+積み重ね重ね、いくとせ
+薄紅と藍、逢えずはあはれ
+徒然と降りしきる宵の雨
+
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+
+**コメント
+- 凄く好きな曲 ワブルベースがかっけぇ  -- 名無しさん  (2014-06-17 02:02:33)
+- ↑わかる  -- 名無しさん  (2018-10-21 05:40:50)
+#comment()

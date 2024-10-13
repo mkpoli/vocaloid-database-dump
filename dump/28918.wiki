@@ -1,0 +1,28 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1494_20140403195601_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Stance on Wave]]|CENTER:&bold(){Drag the ground}|CENTER:[[Fly to night, tonight]]|
+
+|&bold(){[[かめりあ]]}|
+
+発売：2014年4月5日
+価格：￥150
+流通：配信
+レーベル：KARENT
+
+**CD紹介
+-かめりあ氏の配信シングル。
+-初音ミクGTプロジェクト2014公式テーマソング。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++Drag the ground （feat. 初音ミク）
+
+**リンク
+-[[KARENT：「Drag the ground」>>http://karent.jp/album/1494]]
+-[[作者ブログ>>http://camtek.seesaa.net/]]
+
+**コメント
+- エンジン音、タイヤの音・・・ 車好きのための曲ですね！！  -- ミクGT２０１７チャンピオンおめでとう！  (2017-11-23 13:11:12)
+#comment()

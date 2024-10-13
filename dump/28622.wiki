@@ -1,0 +1,32 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1458_20140204180905_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Digital Love feat. Hatsune Miku]]|CENTER:&bold(){STAR GUITAR feat.初音ミク}|CENTER:-|
+
+|&bold(){[[エレキP>BIGHEAD]]}|
+
+発売：2014年2月19日
+価格：￥600 / 1曲￥150
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：Nicolas_Goulet
+
+**CD紹介
+-エレキPのカバーシングル。
+-ケミカルブラザーズの同名曲のカバー。
+-「KARENT」と「ROTH ENTERTAINMENT」による共同レーベル、「Lip Sync Records」からのリリース第12弾となる。
+
+**曲目
++STAR GUITAR （feat. 初音ミク）
++STAR GUITAR (Hi Speed ver) （feat. 初音ミク）
++STAR GUITAR (instrumental) （feat. 初音ミク）
++STAR GUITAR (acapella) （feat. 初音ミク）
+
+**リンク
+-[[Lip Sync Records>>http://lipsync-records.jp]]
+-[[KARENT：「STAR GUITAR feat.初音ミク」>>http://karent.jp/album/1458]]
+
+**コメント
+- good★  -- 名無しさん  (2014-09-05 20:48:40)
+#comment()

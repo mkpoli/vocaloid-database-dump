@@ -1,0 +1,43 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/35948007" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/35948007">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-2012年12月、「[[Computer Music Love]]」にてボカロデビュー。
+-サウンドは、渋谷系サウンドやピコピコテクノポップがメイン。
+-使用ボカロは今のところ、初音ミク一筋。
+-ボカロ曲制作以外では、シンガーソングライター、アーティストへの楽曲提供やアレンジのお手伝いなど、活動は多岐に渡る。
+-過去に島村楽器主催の「録れコン2012」にて、総合グランプリを受賞したこともある実力派。
+-10作目の「[[エレキキュレーター]]」にて悲願の殿堂入りを達成。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/ruby_89451]]
+-[[Twitter>>http://twitter.com/rubycatman]]
+-[[muzie>>http://www.muzie.ne.jp/artist/r009804/]]
+-[[myspace>>http://myspace.com/ruby128]]
+
+**曲
+#list_by_tag(RUBY-CATMAN,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(RUBY-CATMANCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|>|BGCOLOR(#aa0055):COLOR(#FFF):CENTER:&font(b,11pt){オリジナル曲}|
+|&nicovideo(sm19673122)|&nicovideo(sm20466320)|
+|&nicovideo(sm20938967)|&nicovideo(sm21002697)|
+|&nicovideo(sm21819970)|&nicovideo(sm22497979)|
+|&nicovideo(sm22834848)|&nicovideo(sm24296361)|
+|&nicovideo(sm24349299)|&nicovideo(sm24402300)|
+|&nicovideo(sm24453841)|&nicovideo(sm25698308)|
+|&nicovideo(sm27840030)|&nicovideo(sm29405890)|
+|&nicovideo(sm29592171)|&nicovideo(sm30083908)|
+|&nicovideo(sm32863245)|&nicovideo(sm34274290)|
+|&nicovideo(sm34716465)|&nicovideo(sm36875458)|
+
+**コメント
+- リンク貼ってくれてありがとう。RUBY-CATMANさんの曲はポップな感じで大好き！  -- 名無しさん  (2014-03-17 15:18:07)
+- 最近のテクノポップのなかでも一段とキラキラな女子力があって好き  -- 黒葉  (2014-09-03 13:22:20)
+- いつかアルバム出して欲しいな～  -- 名無しさん  (2014-12-14 20:11:53)
+- 今更ながら未来テレポーテーションにハマる俺氏  -- 名無しさん  (2016-12-15 13:17:01)
+- テンポいいなぁ、特にアジアンメランコリー  -- 名無しさん  (2017-10-07 07:53:29)
+#comment()

@@ -1,0 +1,30 @@
+#right(){&furigana(なのりーたP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://ext.nicovideo.jp/thumb_mylist/20887998" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/20887998">【ニコニコ動画】%E3%83%8A%E3%83%8E%E3%83%AA%E3%83%BC%E3%82%BF%E3%81%AAUTAU%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB%E6%9B%B2</a></iframe>)
+
+**特徴
+作り手名：『&u(){ナノリータP}』
+-主にUTAUを用いた作品を制作していたが、「[[こじらせた憎悪は兵器よりタチが悪い]]」でボカロデビュー。
+-P名の由来は自身の動画内での「P名欲しいです。 名乗りたい です」の発言から。
+
+**リンク
+-[[ナノリータ置場（作者歌詞ページ）>>http://nanoritap.web.fc2.com/index.html]]
+-[[ピアプロ>>https://piapro.jp/rrrosss]]
+-[[UTAU楽曲データベース「ナノリータP」ページ>>https://www24.atwiki.jp/utauuuta/pages/1264.html]]
+
+**曲
+#list_by_tag(ナノリータP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(ナノリータPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm11737358)|&nicovideo(sm11818067)|
+|&nicovideo(sm11974656)|&nicovideo(sm11974853)|
+|&nicovideo(sm12294064)|&nicovideo(sm21275112)|
+
+**コメント
+#comment()

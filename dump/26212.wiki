@@ -1,0 +1,34 @@
+#right(){&furigana()&furigana()【登録タグ:&tags()】}
+|&nicovideo(sm21424851)|&youtube(https://www.youtube.com/watch?v=S9hUNFDjsCg){336,189}|
+作詞：[[daniwell]]
+作曲：[[daniwell]]
+編曲：[[daniwell]]
+唄：初音ミク、巡音ルカ
+
+**曲紹介
+-シンプルなタイピングゲーム用に作った曲です。(動画説明文より転載)
+--この曲のスピードでタイピングを打ち込むのは約20秒間で98文字を打つ必要がある。
+--最初のアルファベット順になると更に早く約5秒間で26文字の計算になる。
+--また終わりの6文字の連続部分では、約1秒間で表示される。
+-daniwellPが巡音ルカを使用するのは今回が初である。
+
+**歌詞
+（[[作者HPのSOUND>>http://aidn.jp/main/#/sound]]より転載）
+ABCDEF GHIJKLMN 
+OPQRST UVWXYZ
+
+ABCDEF GHIJKLMN 
+OPQRST UVWXYZ U
+
+B AB CD ABFFTK
+P OP QR R ABXYZ
+E CD IG UVKLMN
+P AP FR R ABCXYZ
+
+(※以降繰り返し)
+
+**コメント
+- 追加乙！  -- 名無しさん  (2013-07-24 19:34:19)
+- 好き  -- KZKZ  (2013-12-03 16:54:15)
+- 好き  -- 名無しさん  (2021-11-17 22:14:19)
+#comment()

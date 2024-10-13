@@ -1,0 +1,40 @@
+#right(){&furigana(きこのあいしたりそうろん)&furigana()【登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186136564.jpg,x=300,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm22164590)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[と或る雨の日の事]]|CENTER:&bold(){キコの愛した理想論}|CENTER:-|
+
+|&bold(){[[らいだーP]]}|[[やまじ>LITCHI]]|[[金子開発]]|
+
+|流通|CENTER:即売|
+|発売|CENTER:2013年11月17日|
+|価格|CENTER:￥1,000（税込）|
+|サークル|CENTER:ボカロ職人は眠らない|
+
+**CD紹介
+>&bold(){―― これは叶う事のない、彼女の理想論 ――}
+-らいだーPの2ndフルアルバム。
+-既存曲の「[[知らない世界]]」「[[メリーゴーランド]]」「[[キコの患者]]」に新曲やアレンジなどを加えた全8曲を収録。
+-ジャケットイラストなどのアートワークは [[金子開発]]氏 が手掛ける。
+-THE VOC@LOiD M@STER 27（ボーマス27） にてリリース。
+
+**曲目
++[[知らない世界]]
++[[Diary>Diary/フルーツ（笑）P]]-rider mix- written by [[GOTS>フルーツ（笑）P]] 
++[[メリーゴーランド>メリーゴーランド/らいだーP]]
++No future
++[[キコの患者]]
++Sunday magic princess
++キコの理想論
++キコの患者-絶望の淵で見た未だ見ぬ君との日々への憧憬 Remix- arranged [[Daichi Yamasoe>LITCHI]]
+
+**リンク
+-[[ミクと私と時々ギター（作者ブログ）>>http://rid-0x8x0x9.seesaa.net/]]
+-[[Twitter>>http://twitter.com/rider_caster]]
+
+**コメント
+- 楽しみ  -- 名無しさん  (2013-11-05 02:05:36)
+#comment()

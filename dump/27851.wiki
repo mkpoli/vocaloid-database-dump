@@ -1,0 +1,38 @@
+#right(){&furigana(つきのしらべ1) &furigana()【登録タグ:&tags() 】}
+#ref(http://www.vocalomakets.com/yukari_CD/004/image/jacket.png,width=300,height=300)
+
+
+|&nicovideo(http://www.nicovideo.jp/watch/sm22501588)|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){月の調 Ⅰ -ツキノシラベ-}|CENTER:[[月の調 Ⅱ -ツキノシラベ-]]|
+
+|&bold(){[[Bumpyうるし]]}|[[ちょむP]]|[[喜兵衛]]|[[ヤヅキ]]|[[YonoP]]|[[風呂埋葬P]]|[[さといも]]|[[薪原あすみ]]|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|CENTER:2013年12月31日|CENTER:2014年1月上旬|
+|価格|CENTER:￥500（税込）|CENTER:￥750（税込）|
+|サークル|>|CENTER:マケッツ団|
+
+**CD紹介
+-「[[月の詩>月の詩 Ⅰ -ツキノウタ-]]」シリーズとは違う、新たなコンセプトのミニコンピレーションアルバム。その第1弾。
+-結月ゆかり曲の新たなるシリーズが7名のボカロPより始動。
+-ジャケットイラストは トロメラ氏 が手掛ける。
+-C85（コミックマーケット85）にてリリース。書店委託も決定している。
+
+**曲目
++[[激おこぷんぷん丸]]　/　ヤヅキ	
++[[クロウガール]]　/　YonoP
++[[I.B.S.]]　/　ちょむP	
++あなたと二人で　/　Bumpyうるし	
++[[そよかぜ通信]]　/　さといも@天宝石P＆薪原あすみ	
++[[お腹いっぱいの幸せを]]　/　喜兵衛	
++[[誰かの歌で僕が死ぬ]]　/　風呂埋葬P
+
+**リンク
+-[[特設ページ>>http://www.vocalomakets.com/yukari_CD/004/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/17/61/040030176147.html]]
+
+**コメント
+- いいね！  -- 名無しさん  (2013-12-23 12:07:06)
+#comment

@@ -1,0 +1,36 @@
+#right(){&furigana(きんきん)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/28341776" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/28341776">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-2011年10月、 『[[ピッチブラックナイト]]』 にてボカロデビュー。
+-数多くいるロック系楽曲の作り手のひとり。ファジーでエモいロックを得意とする。
+-使用ボカロは今のところ、ミク・GUMI・リン。
+
+**リンク
+-[[Twitter>>http://twitter.com/fuzzgngn]]
+-[[PIAPRO>>http://piapro.jp/fuzzgngn]]
+
+**曲
+#list_by_tag(銀銀,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(銀銀CD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|>|BGCOLOR(#d5d52b):COLOR(#FFF):CENTER:&font(b,11pt){オリジナル曲}|
+|&nicovideo(http://www.nicovideo.jp/watch/nm15812311)|&nicovideo(http://www.nicovideo.jp/watch/sm16284647)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm16704067)|&nicovideo(http://www.nicovideo.jp/watch/sm17142160)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm17367314)|&nicovideo(http://www.nicovideo.jp/watch/sm17803255)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm18807181)|&nicovideo(http://www.nicovideo.jp/watch/sm19605187)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm19689306)|&nicovideo(http://www.nicovideo.jp/watch/sm20043016)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm20447408)|&nicovideo(http://www.nicovideo.jp/watch/sm20679099)|
+|&nicovideo(sm21224603)|&nicovideo(sm21652719)|
+|&nicovideo(sm22236070)|&nicovideo(sm23026134)|
+|&nicovideo(sm23338748)|&nicovideo(sm24386965)|
+|&nicovideo(sm24639403)|&nicovideo(sm25554631)|
+|&nicovideo(sm26908195)|&nicovideo(sm27430108)|
+
+**コメント
+- 「ノットフェイド」と「リインカーネーション」と「無機質な窓辺から」が大好きだー！  -- 名無しさん  (2013-06-18 18:44:01)
+- 銀銀さんの楽曲大好きです！！！ページ作って下さった方本当にありがとうございます！！  -- 名無しさん  (2013-08-05 20:43:18)
+#comment()

@@ -1,0 +1,37 @@
+#right(){&furigana(あめあかりP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/34982588" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/34982588">【ニコニコ動画】</a></iframe>)
+
+**特徴
+作り手名：『&u(){雨上がりP}』(&u(){あめあがり ぴー})
+-2012年12月、 『[[after the rain>after the rain/mickeY（雨上がりP）]]』 でボカロデビュー。
+-7作目の 『[[常夏ロンリー]]』 がスマッシュヒット。
+-使用ボカロは今のところ、ミク・GUMI 。
+-アーティスト名は &bold(){mickeY} 。 雨上がりP というP名の由来はデビュー作から。
+
+**リンク
+-[[☂→雨ノチ晴レ→☼（作者ブログ）>>http://mickeyameagari.blog.fc2.com/]]
+-[[Twitter>>https://twitter.com/mickeY_ameagari]]
+-[[PIAPRO>>http://piapro.jp/mickeY_vocaloid]]
+
+**曲
+#list_by_tagsearch(雨上がりP,sort=furigana2,errmsg=まだ曲が登録されていません。,and,100)
+
+**CD
+#list_by_tagsearch(雨上がりPCD,sort=furigana2,errmsg=まだCDが登録されていません。,and,100)
+
+**動画
+|>|BGCOLOR(#2b95ff):COLOR(#FFF):CENTER:&font(b,11pt){オリジナル曲}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm19567799)|&nicovideo(http://www.nicovideo.jp/watch/sm19611366)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm20373775)|&nicovideo(http://www.nicovideo.jp/watch/sm20461919)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm20748266)|&nicovideo(http://www.nicovideo.jp/watch/sm20800449)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm21448587)|&nicovideo(http://www.nicovideo.jp/watch/sm21572052)|
+
+**コメント
+- 常夏ロンリー大好きです!!これからも素敵な曲を作って下さい!!応援してます  -- 名無しさん  (2013-08-17 09:15:12)
+- micke Yさんの曲とってもいいですね。ＣＤ出たら絶対かいます。  -- なっさん  (2013-11-02 22:13:04)
+- CDほしいなぁ  -- 名無しさん  (2015-10-11 11:01:57)
+#comment()

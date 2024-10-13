@@ -1,0 +1,37 @@
+#right(){&furigana(あおのじゅんれき)&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1449_20140125000511_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[からくり時計と恋の話]]|CENTER:&bold(){青の巡歴}|CENTER:[[キカイナセカイ]]|
+
+|&bold(){[[わんだらP]]}|
+
+発売：2014年2月17日
+価格：￥600 / 1曲￥150
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：まったくモー助
+
+|&bold(){[[iTunes Storeで購入する>>https://itunes.apple.com/jp/album/ao-no-junreki-ep/id818370884]]}|
+
+**CD紹介
+-わんだらPの配信EP。
+-過去発表したKAITO曲のリメイク集。
+-KARENTレーベルよりダウンロード販売が行われている。KAITO8周年記念企画で配信された作品の1つ。
+
+**曲目
++[[wanderer>wanderer/わんだらP]] （feat. KAITO）
++[[万感吟遊]] （feat. KAITO）
++[[Vermilion>Vermilion/わんだらP]] （feat. KAITO&初音ミク）
++[[満つる夜半の歌]] （feat. KAITO）
++[[そよぐ真昼の歌]] （feat. KAITO）
++[[紅の花]] （feat. KAITO）
+
+**リンク
+-[[作者サイト>>http://sound.jp/f_koshiba/]]
+-[[KARENT：「青の巡歴」>>http://karent.jp/album/1449]]
+-[[KARENT：「KAITO誕生祭'14」特集ページ>>http://karent.jp/special/kaito14]]
+
+**コメント
+- おお！  -- 名無しさん  (2014-02-18 21:34:44)
+#comment()

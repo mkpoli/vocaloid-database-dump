@@ -1,0 +1,62 @@
+#right(){&furigana(なほりP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/36109891" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/36109891">【ニコニコ動画】</a></iframe>)
+
+**特徴
+作り手名：『&u(){ナポリP}』
+-アーティスト名は &bold(){miyake} 。「みやけ」「MI8k」とも表記される。
+-2012年12月28日、「[[天獄生まれの悪魔]]」にてボカロデビュー。
+-使用ボカロは今のところ、GUMI・IA・VY1。他にUTAUの闇音レンリも使用している。
+-6作目の「[[サイレント・アテンダンス]]」がスマッシュヒット。
+-12作目の「[[不完全な処遇]]」にて、自身初の殿堂入りを達成した。
+-現在殿堂入りしている曲は以下の通り。&br()「&list_by_tagsearch(ナポリP,殿堂入り,sort=furigana,option=nolist,nolistspace=」「,100)」
+-「[[もぬけのからだ]]」は、[[週刊VOCALOIDランキング #471>>http://www.nicovideo.jp/watch/sm29835865]]にて自身初の1位を獲得。
+-2019年4月26日、&bold(){YUUKI MIYAKE}（本名）名義でのメジャーデビューが決まったことを発表。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/mi8kjomi]]
+-[[Twitter>>http://twitter.com/napoliemon]]
+-[[HP>>http://bouncemp.wix.com/wwwmi8k]]
+-[[YouTubeチャンネル>>http://www.youtube.com/channel/UCIgeuAj12ksgeVhp5vgHlyQ]]
+
+**曲
+#list_by_tag(ナポリP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(ナポリPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|>|BGCOLOR(#1d382b):COLOR(#FFF):CENTER:&font(b,11pt){オリジナル曲}|
+|&nicovideo(http://www.nicovideo.jp/watch/nm19692953)|&nicovideo(http://www.nicovideo.jp/watch/sm21130318)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm21464889)|&nicovideo(http://www.nicovideo.jp/watch/sm21598771)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm21673452)|&nicovideo(http://www.nicovideo.jp/watch/sm22257706)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm22549943)|&nicovideo(http://www.nicovideo.jp/watch/sm22967760)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm23362753)|&nicovideo(http://www.nicovideo.jp/watch/sm23978865)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm24439223)|&nicovideo(http://www.nicovideo.jp/watch/sm25107796)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm25937015)|&nicovideo(http://www.nicovideo.jp/watch/sm26093944)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm26631980)|&nicovideo(http://www.nicovideo.jp/watch/sm28493065)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm29081467)|&nicovideo(http://www.nicovideo.jp/watch/sm29127450)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm29303196)|&nicovideo(http://www.nicovideo.jp/watch/sm29788563)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm31364079)|&nicovideo(http://www.nicovideo.jp/watch/sm32207634)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm32472103)|&nicovideo(http://www.nicovideo.jp/watch/sm32862761)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm33274770)||
+
+**コメント
+- ナポリさんの曲聞いてすぐにファンになった。言葉選びとかすごいかっこいい  -- うれいち  (2014-02-08 20:46:24)
+- はっとするような曲を作られる方だと思います。  -- 名無しさん  (2014-03-11 22:35:20)
+- サイレントアテンダンス大好きだ...  -- さへる  (2014-05-23 20:58:51)
+- 21世紀の忘却キュリオシティが好きすぎる！イエイ！  -- 名無しさん  (2014-10-05 23:44:22)
+- まて、ピアプロで14歳てかいてあるけど嘘だよな・・・。不完全な処遇大好きです！  -- 名無しさん  (2015-02-13 21:49:10)
+- まて、オカマてかいてあるけど嘘だよな…。ネバーシャークと汽笛吹き男大好きです！  -- 名無しさん  (2016-08-13 23:45:25)
+- まて、Twitterのアカウント消えてないか大丈夫か？  -- 名無しさん  (2016-11-05 01:02:03)
+- Twitterアカウント消えてます…。続報求む。  -- かめのうら  (2016-12-11 13:13:38)
+- Twitterは飽きたからやめたと生放送で言ってました引退ではない  -- 名無しさん  (2017-01-16 23:49:30)
+- これからも曲が来ればこれ以上のことはない  -- 名無しさん  (2017-01-21 22:21:57)
+- Twitter復活してるよ  -- 名無しさん  (2017-02-04 08:05:39)
+- 曲全てが最高すぎて… 大好きです！  -- 名無しさん  (2017-03-06 00:47:54)
+- シルバーワープの歌詞マダー？  -- 名無しさん  (2017-11-10 00:08:56)
+- CD出してたの知らなかった  -- 名無しさん  (2018-05-31 02:08:24)
+- ここのコメント少なすぎんか？もっと有名になるべき  -- 名無しさん  (2018-11-22 23:15:00)
+- 実力派なのに再生数が伴ってない。  -- 名無しさん  (2018-11-28 12:58:32)
+//どこかの宇宙人や人気高音歌い手の曲よりもこっちのほうが断然いいのに。  -- 名無しさん  (2018-11-28 12:58:32)
+- 21世紀のキュリオシティ、アクシデントコーディネイター、ラブ＆デストロイ、不完全な処遇、嗤うマネキン　全部それぞれ好きだったけどまさか全部同じ方が作ってるとは思わなかった　好きです...  -- 名無しさん  (2021-01-21 13:41:51)
+#comment()

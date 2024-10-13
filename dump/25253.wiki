@@ -1,0 +1,38 @@
+#right(){&furigana(よつかどにたいかくせん。) &furigana()【登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186151872.jpg,x=300,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm20698846)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[ほっこりんれん>ほっこりんれん/CD]]|CENTER:&bold(){ヨツカドニタイカクセン。}|CENTER:-|
+
+|&bold(){[[ヒダリガワすらっしゅ]]}|
+
+||CENTER:即売|
+|発売|CENTER:2013年4月28日|
+|価格|CENTER:￥500（税込）|
+|サークル|CENTER:I♥CMN|
+
+**CD紹介
+-ヒダリガワすらっしゅ氏 の 2ndミニアルバム。
+-「[[きす×はぐコネクション！]]」などの既存曲に新曲を加えた全9曲を収録。
+-アートワークは 眼帯ウサギ氏 が手掛ける。
+-THE VOC@LOiD 超 M@STER 24（超ボーマス2）にてリリース。
+
+**曲目
++First Voice
++[[きす×はぐコネクション！]]
++[[close>close/ヒダリガワすらっしゅ]] -微妙にアルバムバージョン-
++Empty
++かなた
++蒼惚奏思
++夜楽鈴に消える
++コタエがないままでしょうがないこと
++ヨツカドニタイカクセン
+
+**リンク
+-[[Twitter>>http://twitter.com/eruside]]
+
+**コメント
+#comment

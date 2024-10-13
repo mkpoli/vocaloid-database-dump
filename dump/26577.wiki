@@ -1,0 +1,35 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){White Canvas}|CENTER:[[Catch our world>Catch our world/CD]]|
+
+|&bold(){[[しげぱんP]]}|&b(){[[そらP]]}|&B(){[[DACCHI]]}|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|2012年10月28日||
+|価格|CENTER:￥1,000|CENTER:￥1,365（税込）|
+|サークル|>|CENTER:SKYCOLOR project|
+
+**CD紹介
+-真っ白いキャンバスに、メンバーそれぞれの色でそれぞれの音を思い思いに。
+-サークル「SKYCOLOR project」の1st Album。
+-とらのあなで委託販売が行われている。
+
+**曲目
++[[スカイカラー]]（そらP）
++Happy Birthday（DACCHI）
++[[咲き薫る未来、褪せぬ翠]]（しげぱんP）
++666666（DACCHI）
++A-Symmetry（そらP）
++White Canvas（SKYCOLOR project）
++[[天文単位の好奇心]]（しげぱんP)
++red blue（SKYCOLOR project）
++666666 R+L MIX（SKYCOLOR project）
++[[ありがとう、またね。]]（DACCHI）
++ホワイトプレゼント（そらP）
++[[ただいま>ただいま/しげぱんP]]（しげぱんP）
+
+**リンク
+-[[とらのあな委託販売サイト>>http://www.toranoana.jp/mailorder/article/04/0030/08/11/040030081103.html]]
+
+**コメント
+#comment()

@@ -1,0 +1,24 @@
+#right(){&furigana(さくらもみじ)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/59387423" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/59387423">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-活動は、[[HIDAKA]]氏の「[[Dear you...-忘れないこの想い-]]」でニコニコデビュー。
+-デビュー作から堂々イラスト選びからエフェクトなどの動画イメージを手掛ける。更には次作にて、イラストの構図を手掛けた。5・6作目ではコラボの進行、イラストの構図、動画の構成、ロゴの決定など多数手掛けている。8作目ではコラボの進行、イラストの構図、動画の大まかな構成に加え、一部文字の配置やエフェクトの指定、衣装の細かなところまでも手掛けた。
+-ブログに掲載するショートストーリーを執筆した経験も。
+
+**リンク
+
+**曲
+#list_by_tag(桜♪椛,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(桜♪椛CD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm12450486)|&nicovideo(http://www.nicovideo.jp/watch/sm13127231)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm15377269)|&nicovideo(http://www.nicovideo.jp/watch/sm16955994)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm17182786)|&nicovideo(http://www.nicovideo.jp/watch/sm17182906)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm17643707)|&nicovideo(http://www.nicovideo.jp/watch/sm25940833)|
+
+**コメント
+#comment()

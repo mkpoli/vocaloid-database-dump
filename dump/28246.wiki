@@ -1,0 +1,42 @@
+#right(){&furigana(clear)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/20266274" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/20266274">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-テクノ系やロック系など、いろんなジャンルの曲を作るボカロP。
+-使用ボカロはミク、GUMI、IA。
+-彼の作る曲は中毒性が高いのが多い。
+-以前は、ルカを使ったオリジナル曲を投稿していたが、すべて削除している。
+-「[[stray]]」にて、遂に自身初の殿堂入りを達成。
+
+**リンク
+-[[作者サイト>>http://kdash.strikingly.com/]]
+-[[twitter>>http://twitter.com/k_da5h]]
+-[[facebook>>http://www.facebook.com/ky0w0w]]
+-[[ニコニコミュ>>http://com.nicovideo.jp/community/co2603948]]
+-[[YouTube>>http://www.youtube.com/channel/UCjVlugL3wyf5BFm43KKqOeg]]
+
+**曲
+#list_by_tag(けーだっしゅ,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(けーだっしゅCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm14461823)|&nicovideo(sm16207456)|
+|&nicovideo(sm16326139)|&nicovideo(sm16833651)|
+|&nicovideo(sm19517727)|&nicovideo(sm21099383)|
+|&nicovideo(sm22393246)|&nicovideo(sm22482568)|
+|&nicovideo(sm22548644)|&nicovideo(sm22674325)|
+|&nicovideo(sm22968222)|&nicovideo(sm23180018)|
+|&nicovideo(sm23405731)|&nicovideo(sm23949660)|
+|&nicovideo(sm24120116)||
+
+**コメント
+- 作成してみました。PAPI JUMP好きです！  -- 名無しさん  (2014-01-27 17:39:42)
+- カミカクシ好きです！(*^o^*)  -- 重いんだけど優しさがある曲が好きな一般people  (2014-01-31 07:27:06)
+- 60000再生越えねー…　近いうちに殿堂入りするだろうし細かく書く必要はないかも  -- 名無しさん  (2014-02-07 18:58:12)
+- 『stary』60000再生おめでとうございます！『stary』は凄く私好みの曲なので何回も聴いてます！次の曲も楽しみにしてます^^100000再生いけー！殿堂入りしろー！  -- 蕾涙。  (2014-02-18 14:27:37)
+- ↑stray殿堂入りしましたよ！これは嬉しい。  -- 名無しさん  (2014-08-30 19:26:13)
+- サンセットマーチで引き込まれました。丁寧な音が好きです。  -- 名無しさん  (2017-05-13 18:29:58)
+- 「rebirth」は、けーだっしゅさんの曲ではないのですか？  -- 名無し  (2018-07-25 18:27:24)
+#comment()

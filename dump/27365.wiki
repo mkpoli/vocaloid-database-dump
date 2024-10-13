@@ -1,0 +1,39 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1373_20131005001753_0280_0280.jpg)
+
+|&nicovideo(sm21821593)|&YouTube(http://www.youtube.com/watch?v=Xj8xBCRcojY)|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[オリエンタルマインド>オリエンタルマインド/CD]]|CENTER:&bold(){Melancholia}|CENTER:[[Freestyle2]]|
+
+|&bold(){[[Rin（ぎん）]]}|
+
+発売：2013年10月18日
+価格：￥900 / 1曲￥150
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：mirimo
+
+|&bold(){[[iTunes Storeで購入する>>https://itunes.apple.com/jp/album/melancholia/id724679604]]}|
+
+**CD紹介
+-Rin（ぎん）氏の配信限定EP。
+-Ocelot名義で発表したダブステップを収録している。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++[[Negative Thinking]] （feat. 初音ミク）
++[[IROHA>IROHA/Rin（ぎん）]] （feat. 初音ミク）
++[[Dystopia]] （feat. 初音ミク）
++[[YADA!!]] （feat. 初音ミク）
++[[KAEDE - Vocaloid ver>KAEDE - Vocaloid ver.]] （feat. 初音ミク）
++YADA!!（motto） （feat. 初音ミク）
++[[ENISHI]] （feat. 初音ミク）
+
+**リンク
+-[[KARENT：「Melancholia」>>http://karent.jp/album/1373]]
+-[[作者サイト>>http://kuronekolounge.sakura.ne.jp/neko/KuronekoLounge.html]]
+
+**コメント
+- いい  -- 名無しさん  (2017-04-16 11:01:20)
+#comment()

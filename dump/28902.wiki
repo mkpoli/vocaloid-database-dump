@@ -1,0 +1,42 @@
+#right(){&furigana(とーきょーうちゅうしょうねん)&furigana()【登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186148914.jpg,x=300,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm23204978)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[WILD CHAOTIC MUSIC]]|CENTER:&bold(){トーキョー宇宙少年}|CENTER:-|
+
+|&bold(){[[ヤヅキ]]}|
+
+|流通|CENTER:即売|
+|発売|CENTER:2014年4月26日・27日|
+|価格|CENTER:￥1,000（税込）|
+|サークル|CENTER:ガスコンロ7|
+
+**CD紹介
+-ヤヅキ氏 の 4th album 。
+-自らの代表曲となった『[[激おこぷんぷん丸]]』を筆頭に、3rd album 発表後の既存曲からの選りすぐり＋新曲を加えた全12曲を収録。
+-THE VOC@LOiD 超M@STER 28（超ボーマス3）にてリリース。
+
+**曲目
++ユーフォー
++[[トーキョー宇宙少年]]
++with you
++[[仮面奏者]]
++[[航空日誌]]
++[[中二病ロジック]]
++伝記ケトル
++VOCALOID MACHINE
++E minor チョッパーセンス
++[[記憶喪失ごっこ]]
++[[秘密基地>秘密基地/ヤヅキ]]
++[[激おこぷんぷん丸]]
+
+**リンク
+-[[ガスコンロ（サークルホームページ）>>http://gasconro.jimdo.com/]]
+-[[Twitter>>http://twitter.com/yadukishinya]]
+
+**コメント
+- 航　&quot;海&quot;　日誌　ではなくて　航　&quot;空&quot;　日誌　ですよ　航海日誌はサードアルバムに入ってますし  -- 名無しさん  (2014-04-06 21:18:03)
+#comment()

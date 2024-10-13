@@ -1,0 +1,41 @@
+#right(){&furigana(こいぶみ)&furigana()【登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186131117.jpg,x=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm22028070)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){恋文}|CENTER:-|
+
+|&bold(){[[バイカP]]}|
+
+|流通|CENTER:即売|
+|発売|CENTER:2013年10月20日|
+|価格|CENTER:￥1,000（税込）|
+|サークル|CENTER:残響decode|
+
+**CD紹介
+-バイカPの1stアルバム。
+-ボカロPとして活動し始めて1年が経ちました。集大成です。（作者コメ転載）
+-選りすぐった既存曲に新曲を加えた全10曲を収録。
+-ジャケットイラストなどのアートワークは ヨナミ氏 が手掛ける。
+-VOCALOID PARADISE 8（ボーパラ8）にてリリース。
+
+**曲目
++[[恋文>恋文/バイカP]]
++[[past day]]
++通り雨
++[[猫の水曜日]]
++東京
++[[Dm]]
++[[フライト>フライト/バイカP]]
++[[ゆうやけこやけ]]
++memoria
++[[北極星]]
+
+**リンク
+-[[Twitter>>http://twitter.com/baika3969]]
+
+**コメント
+- これは良いな。楽しみが増えたぞ^^  -- 名無しさん  (2013-10-13 20:56:19)
+#comment()

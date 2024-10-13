@@ -1,0 +1,179 @@
+#right(){&furigana(SILENCE)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(http://www.nicovideo.jp/watch/sm21604460)|&youtube(https://youtu.be/wgHbvHpT5ww){342,187}|
+作詞：[[niki]]・[[cillia]]
+作曲：[[niki]]
+編曲：[[niki]]
+唄：[[AVANNA]]
+
+**曲紹介
+曲名：『&u(){SILENCE}』（&u(){サイレンス}）
+-niki氏の16作目。
+-cillia氏とのコラボ作。全編英詞。
+-本作が、自身初の AVANNA オリジナル曲となる。
+-「[[パラノイド]]」と同時リリース。
+-2014年6月30日、AVANNA使用楽曲としては史上初となるVOCALOID殿堂入りを達成した。
+
+**歌詞
+"I'm here" Hearing this, I awake
+In a quiet world
+
+The me of yesterday swayed by the wind
+is like a fleeting flower I once saw
+Again I will be born and vanish here
+Silent, so no one will notice me
+
+"Can you forget everything that you know?"
+When you make memories so easily
+why do we refuse to forget it all?
+Why do we end up in tears? Why are you crying now?
+
+Again, I ask, quietly,
+"Will you believe the me that's here?"
+Again, I try, quietly, to connect with someone―
+"So please don't release this hand."
+―before my heart vanishes I always felt it.
+The world must be cruel.
+When the scenery I see has become broken
+
+Again the solitary world lives.
+"Can you remake everything that once was?"
+Such things are so easy to destroy,
+searching for an answer in my heart?
+
+If this moment lasted forever
+If you could choose your future this time
+What voice will you be willing to give up?
+then and there I close my eyes. I'm just breathing now.
+
+and I remember the words
+"Smiling is all you can do"
+Dissolve into all the colors you see
+Freedom that lies in this hand.
+The world shouldn't be like this, that's what I thought
+I realize the truth now
+but There is no one. I know no one.
+
+What is freedom? What is love? Let us just forget now.
+Don't make any sound, Don't think about it
+Someday if I can be reborn
+Come on, let us do everything over.
+
+"Will you believe the me that's here?"
+Eternity, please disappear.
+Goodbye me of tomorrow.
+The source of the tears that silently fell down.
+
+Again, I ask, quietly,
+"Will you believe the me that's here?"
+Again, I try, quietly, to connect with someone―
+Again... Again...
+
+
+
+#region(close,和訳)
+（有志による和訳）
+
+「ここにいるよ」 
+聞こえて、目が覚める 
+静寂の世界で
+
+風に揺られ 昨日の僕は
+昔 見た 儚い花のよう 
+もう一度、僕は生まれ 此処から消える 
+静かに、そう 誰も僕に気付かない
+
+「すべて忘れられる？」 
+思い出など 容易くつくれるものを
+忘れたくないと拒むのはなぜ？
+涙で終わるのはなぜ？ 
+…君が泣くのはなぜ？
+
+もう一度、そっと尋ねてみる
+「僕を信じてくれるの？」
+もう一度、尋ねてみる
+だれかと繋がるために—
+「お願い、どうかこの手を離さないで」 
+—僕の心が消えてしまう前に、いつも感じていた
+世界は残酷だ 
+見えるこの景色も壊れていく
+
+再び、孤独な世界を生きる
+「すべてをやり直せるだろうか？」 
+そんなものは簡単に壊れる 
+答えは僕の中にあるはずだろう？
+
+この瞬間が永遠に続いたのなら
+この瞬間に未来が選べたのなら
+諦めるためにどんな言葉を望もう？ 
+僕は瞳を閉じた
+ただ 息をするだけ
+
+そして、僕は思い出す
+「笑うことしかできないよ」 
+君が見る色 溶ける 手の内の自由
+世界は僕が思ってたようなものじゃなかった
+真実を実感する
+でも いない
+誰もいないんだ わかってる
+
+自由とは？ 愛とは？ 今はただ忘れて
+音も立てず、考えもせずに
+いつか 生まれ変われたら 
+さぁ、すべてを遂げよう
+
+「すべてを忘れられる？」 
+永遠に、消えてしまえ 
+さようなら、明日の僕
+静かに零れ落ちる 涙の理由は
+
+もう一度、そっと尋ねてみる
+「僕を信じてくれるの？」
+もう一度、尋ねてみる
+だれかと繋がるために—
+もう一度…もう一度…
+
+#endregion
+
+
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+**コメント
+- このコラボが実現する日をずっと待っていた！nikiさんの美しいメロディーに、cilliaさんの見事な調声。お互いの才能を認めあう二人だからこそ出来た、素晴らしい作品だと思う。  -- 竜奇  (2013-08-16 19:35:44)
+- 追加乙です。とうとうniki×cilliaが現実のものに…！感無量です。歌も流石でした!  -- 咲良  (2013-08-17 09:28:25)
+- 全編英詩！cilliaさんとのコラボだからこそできるんですね。まさにお二人のいいとこ取りって感じです。  -- 名無しさん  (2013-08-17 11:49:09)
+- cillia×nikiで「シリアニキ」…尻兄貴！！  -- 夢幻キリコ  (2013-08-17 13:47:32)
+- ↑それは俺も考えたが、レスリングシリーズやケツドラム思い出すから、やめたほうがいいと思う。  -- 竜奇  (2013-08-17 14:24:01)
+- 素敵な曲の歌詞見に来たら↑のやり取りにワロタ  -- 名無しさん  (2013-08-18 22:31:52)
+//- 尻兄貴wwwとりあえず追加乙です！歌える気がしないwww  -- 真城  (2013-08-19 09:02:06)
+- 尻兄貴wwwとりあえず追加乙です！  -- 真城  (2013-08-19 09:02:06)
+- これ聞いてると魂洗われる感じがする。なんという浄化ソング…!!  -- よ  (2013-08-20 10:04:57)
+- こういう曲を待ってたんだよ俺は　もう最高だわ  -- 名無しさん  (2013-08-22 21:51:17)
+- 英訳も載せてもらえたらいいな、とか  -- 名無しさん  (2013-08-29 15:36:48)
+//- カラオケでうたえたらかっこいいな、とか  -- 名無しさん  (2013-08-30 12:27:41)
+- 和訳、追加させてもらいました。が、自信はないので修正等御自由にどうぞ。  -- 名無しさん  (2013-09-14 23:46:43)
+- 和訳感謝です  -- 名無しさん  (2013-10-27 06:00:49)
+- 和訳感謝！…改めて、素敵な曲だな。歌詞の内容が、今までのnikiさん作品のまとめというか、切ない想いが詰まっているような感じがする。　やっぱりnikiさんの曲が好きだ！  -- ame  (2013-12-20 22:59:06)
+- うわあああ何書いてるんだ俺↑コラボ作品だろ！？変なこと書いてしまった…　とりあえず俺が言いたいことは、この曲は素敵だということで…！  -- ame  (2013-12-20 23:03:37)
+- 和訳の最後から9行目って「此処にいるわたしを信じるの？」ではないでしょうか？  -- 名無しさん  (2013-12-31 23:39:07)
+- この曲でAVANNA知った。もっと海外ボカロが注目されるといいな。  -- 良い不治  (2014-01-06 22:05:26)
+- 俺得コラボで涙！！  niki＋cilliaで ニキリア と俺は呼ぶ！！  -- 名無しさん  (2014-01-07 15:43:04)
+- AVANNAとか初めて聞いたけど･･･すごい･･･  -- 名無しさん  (2014-02-21 20:21:33)
+- 洋楽かと思った  -- 名無しさん  (2014-02-21 20:21:53)
+- ほんと素敵な曲だと思う。心が洗われる…  -- 名無しさん  (2014-04-29 17:50:55)
+- 「此処にいるわたしを信じるの?」は「信じてくれるの？」みたいな意味じゃないかと  -- 名無しさん  (2014-05-23 15:51:51)
+- piaproからここに誘導されてて吹いたｗ　素敵な曲だ-  -- 名無しさん  (2014-12-18 22:31:49)
+- 透き通るようなAVANNAの美しい声に心を奪われました。和訳を手直ししたいのですが、どうすれば編集できるでしょう。  -- サワー  (2015-02-04 11:14:55)
+- ↑の「編集」からできない？  -- 名無しさん  (2016-02-21 05:49:27)
+- 僭越ながら和訳手直しさせていただきました。日本語に直すと解釈が難しい…ご自由に加筆手直しお願いします。  -- 名無しさん  (2018-04-11 07:14:56)
+#comment()
+
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)

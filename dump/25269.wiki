@@ -1,0 +1,34 @@
+#right(){&furigana(ぶんげいてきおんがく)&furigana()【登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186131021.jpg,x=300,y=300)
+
+&nicovideo(sm20644367)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[あたしの魔法]]|CENTER:&bold(){文芸的音楽}|CENTER:[[プラネット・ダンス>プラネット・ダンス/CD]]|
+
+|&bold(){[[クヌースP]]}|[[山本ニュー]]|
+
+発売：2013年4月27日
+価格：￥500
+流通：即売
+サークル：関東テクノ保安協会
+
+**CD紹介
+-クヌースPが山本ニュー氏と組んで作成した曲を集めたアルバム。
+-THE VOC@LOiD 超 M@STER 24（超ボーマス24）で頒布。
+
+**曲目
++[[アンラッキー・ガール]]
++[[暗闇のスキャナー]]
++[[COCORO-WIRED]]
++[[花物語]]
++[[カウンタ88]]
++[[レッド・シグナル101]]
++[[いざゆけラッダイト]]　　&bold(){&color(red){NEW!!}}
+
+**リンク
+-[[作者ブログ>>http://sh100000.blog64.fc2.com/]]
+
+**コメント
+#comment()

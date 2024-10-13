@@ -1,0 +1,50 @@
+#right(){&furigana(れんせんれんしょう)&furigana()【登録タグ:&tags() 】}
+//&ref(http://img.toranoana.jp/img/04/0030/12/02/040030120245-1.gif)
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186133783.jpg,x=300,y=300)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[一レン托生！]]|CENTER:&bold(){レン戦レン勝！}|CENTER:[[3×3=きゅー！]]|
+
+|&bold(){[[キッドP]]}|&bold(){[[クリスタルP]]}|&bold(){[[れれれP]]}|[[残鏡P]]|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|>|CENTER:2013年4月27日|
+|価格|CENTER:￥1,000|CENTER:￥1,050（税込）|
+|サークル|>|CENTER:3レン腐|
+
+**CD紹介
+-キッドP、クリスタルP、れれれPによるユニット「3レン腐」の1stアルバム。
+-ジャケットイラストはワカコヒメモエ氏。
+-THE VOC@LOiD 超 M@STER 24（超ボーマス24）にて初頒布。
+-とらのあなにて委託販売が行われている。
+
+**曲目
++モノクローム・ジェンガ　　&color(red){NEW!!}
++-作詞：れれれP　作曲：キッド　編曲：クリスタルP
++blue or tears / 鏡音レン
++-作詞：クリスタルP　作曲：キッド　編曲：れれれP
++doubt?　　&color(red){NEW!!}
++-作詞：キッド　作曲：れれれP・クリスタルP　編曲：れれれP
++before the sunrise （instrumental）
++-作・編曲：クリスタルP
++ヒトリゴト　　&color(red){NEW!!}
++-作詞：残鏡P　作曲：クリスタルP　編曲：れれれP
++Time Paradox （Large&tech remix）
++-作詞：残鏡P　作曲：キッド　編曲：れれれP　Remix：クリスタルP
++after the rain （instrumental）
++-作・編曲：れれれP
++雨上がりのプリンス （Append Live mix）
++-作詞：残鏡P・キッド　作曲：れれれP　編曲：クリスタルP・れれれP
++ワン!ツー!!スリー!!! （Extended mix）
++-作詞・作曲：れれれP　編曲：クリスタルP
++いつでもヒーロー　　&color(red){NEW!!}
++-作詞・作曲：れれれP　編曲：クリスタルP
+
+**リンク
+-[[れれれPのブログ>>http://yaplog.jp/lelele-p/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/12/02/040030120245.html]]
+
+**コメント
+- 追加乙！  -- 名無しさん  (2013-09-18 21:03:37)
+#comment()

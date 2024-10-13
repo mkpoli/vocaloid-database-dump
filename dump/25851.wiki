@@ -1,0 +1,28 @@
+#right(){&furigana(ぼらぎのーるさわやま)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/30879451" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/30879451">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-2012年3月、 『[[ステルス・マーケティング・シティ]]』 でボカロデビュー。
+-使用ボカロは今のところ、GUMIのみ。
+-当初は ののめ と名乗っていたが、他の人と名前が被っていたため今のアーティスト名へと改名した。
+
+**リンク
+-[[Twitter>>http://twitter.com/musiclovelovers]]
+-[[PIAPRO>>http://piapro.jp/shinonomenano]]
+-[[ボラギノール佐和山のこぬか雨の空模様（ブロマガ）>>http://ch.nicovideo.jp/borrasawa]]
+
+**曲
+#list_by_tag(ボラギノール佐和山,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(ボラギノール佐和山CD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|>|BGCOLOR(#00ff80):COLOR(#FFF):CENTER:&font(b,11pt){オリジナル曲}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm17223032)|&nicovideo(http://www.nicovideo.jp/watch/sm18102551)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm18576988)|&nicovideo(http://www.nicovideo.jp/watch/sm19334671)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm19854570)|&nicovideo(http://www.nicovideo.jp/watch/sm20467027)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm21062679)|&nicovideo(http://www.nicovideo.jp/watch/sm21233769)|
+
+**コメント
+#comment()

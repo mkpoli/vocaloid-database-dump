@@ -1,0 +1,36 @@
+#right(){&furigana(WormholeEP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Chocola EP]]|CENTER:&b(){Wormhole EP}|CENTER:[[Psȳchē -プシケ-]]|
+
+|&b(){[[10日P]]}|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|>|CENTER:2013年7月7日|
+|価格|CENTER:￥500|CENTER:￥630（税込）|
+|サークル|>|CENTER:monaca:factory|
+
+**CD紹介
+CD名：『&u(){Wormhole EP}』
+-ダウンロードカードという形態で発表された10日Pの作品集。
+--ダウンロードカードとは、A5サイズのイラストカードの裏面にURLが記載されており、アクセスすることでmp3がダウンロード可能となるという代物。
+-THE VOC@LOiD M@STER 25（ボーマス25）で初頒布。
+-とらのあなで委託販売が行われている。ただし店頭販売は無く、通信販売のみ。
+
+**曲目
++[[ワンダーワームホール]] / GUMI
++Circular Logic (inst)
++Life form the Loam (inst)
++P.u.p.a / MIKU
++Sinkhole (inst)
+
+**リンク
+-[[作者サイト>>https://monacafactory.com/]]
+//-[[とらのあな>>https://www.toranoana.jp/mailorder/article/04/0030/13/43/040030134348.html]]
+
+**コメント
+- 追加おつ！  -- 名無しさん  (2013-09-16 11:58:48)
+#comment()

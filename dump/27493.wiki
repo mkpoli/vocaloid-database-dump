@@ -1,0 +1,36 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1382_20131021212240_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Repose]]|CENTER:&bold(){Aletheia}|CENTER:[[Affectio]]|
+
+|&bold(){[[SeikoP]]}|
+
+|流通|CENTER:即売|CENTER:委託|CENTER:配信|
+|発売|CENTER:2013年10月27日||CENTER:2013年11月8日|
+|価格|CENTER:￥700|CENTER:￥735（税込）|CENTER:￥900 / 1曲￥150|
+|サークル|>|CENTER:Peridot Foresta||
+
+|&bold(){[[iTunes Storeで購入する>>https://itunes.apple.com/jp/album/aletheia/id735075275]]}|
+
+**紹介
+-SeikoPことムツキセイ氏の7曲入りCD。
+-M3-2013秋で初頒布。
+-D-STAGEで委託販売が、KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++[[Aletheia]] （feat. 巡音ルカ）
++OvalWorld
++[[霞む森]] （feat. 初音ミク）
++Chalice
++[[双つの記憶]] （feat. VY1）
++[[Ennoia]] （feat. 巡音ルカ&メグッポイド）
++蛍が消える時
+
+**リンク
+-[[作者ブログ>>http://sei-peri.seesaa.net/]]
+-[[D-STAGE>>http://d-stage.com/shop/detail.php?seq=49028]]
+-[[KARENT：「Aletheia」>>http://karent.jp/album/1382]]
+
+**コメント
+#comment()

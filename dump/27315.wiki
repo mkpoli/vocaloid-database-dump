@@ -1,0 +1,45 @@
+#right(){&furigana(DQNSTYLE)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+#ref(http://img.toranoana.jp/popup_img/04/0030/16/73/040030167349-1p.jpg,width=300,height=300)
+
+|&nicovideo(http://www.nicovideo.jp/watch/sm22228021)|&youtube(https://www.youtube.com/watch?v=2uXn3mAR5Qc){336,189}|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){DQN STYLE}|CENTER:[[DQN STYLE2]]|
+
+|&bold(){[[かごめP]]}|[[Dixie Flatline]]|[[takamatt]]|[[鬱P]]|[[いたちまP]]|[[tysP]]|[[konkon]]|[[DATEKEN]]|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|>|2013年11月17日|
+|価格|CENTER:￥1,000|CENTER:￥1,429（税抜）|
+|サークル|>|CENTER:PLANARIYA Recordings|
+
+**CD紹介
+>&bold(){こんなリンちゃん見たことない？！}
+-EDM, Mixture, R&B等、「DQNな音楽」が大好きなボカロPが集結！！&br()2013年、最も"ワル"な同人ボカロコンピが始動！！
+-THE VOC@LOID M@STER 27（ボーマス27）にて頒布。
+-ジャケットイラストを [[Drahtpuppe]]氏 が、デザインを G.R.D.Garage. が手掛ける。
+
+**曲目
++[[Baby, I miss you]] / [[kagomeP>かごめP]]
++Cursed / [[Dixie Flatline]]
++[[ウィリウィリ]] / [[takamatt]]
++natural born B / [[鬱P]]
++絶望アナフィラキシー / [[いたちま>いたちまP]]
++good night, and Fxxkin' Anthems / kagomeP
++Strawberry Flavored Sizzurp(Explicit) / [[tys>tysP]]
++Revolver / いたちま
++Breaking the Radio / [[konkon]]
++明日へ届け / [[DATEKEN]]
+
+**リンク
+-[[特設サイト>>http://planariya.tumblr.com/DQNstyle]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/16/73/040030167349.html]]
+
+**コメント
+- うおお！  -- 名無しさん  (2013-11-10 22:18:24)
+- 買った！！個人的にハズレなかった。リンちゃん最高！！  -- 名無しさん  (2013-11-18 22:22:29)
+#comment()

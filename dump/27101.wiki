@@ -1,0 +1,35 @@
+#right(){&furigana(ももかしゅー)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/28183671" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/28183671">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-英表記は「momocashew」。カナダ在住の女性P。
+-2011年に既存曲の鏡音レンカバーでデビュー。その後は主にVY2カバー曲を発表していた。
+-2012年7月23日にOliverの「[[Starlight Keeper]]」でオリジナル曲デビュー。
+-使用するVOCALOIDはOliver、VY2、鏡音レン。
+-UTAUのPとしては園音レムを使用する。
+-ボカロPの他、歌手（音楽ユニット「Mili」のボーカル）、歌い手、絵描きでもあるなど幅広い分野で活躍している。
+
+**リンク
+-[[YouTube>>http://www.youtube.com/user/momocashew]]
+-[[PIAPRO>>http://piapro.jp/momocashew]]
+-[[ニコニコ大百科>>http://dic.nicovideo.jp/a/%E3%83%A2%E3%83%A2%E3%82%AB%E3%82%B7%E3%83%A5%E3%83%BC]]
+
+**曲
+#list_by_tag(モモカシュー,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(モモカシューCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm18424206)|&nicovideo(http://www.nicovideo.jp/watch/sm18979339)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm19221229)|&nicovideo(http://www.nicovideo.jp/watch/sm20691257)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm20984624)|&nicovideo(http://www.nicovideo.jp/watch/sm22061049)|
+
+**コメント
+- モモカシューさんホント好き  -- 名無しさん  (2014-05-03 17:00:36)
+- ＤｕｍｍｙＭａｒｃｈがめっちゃ良いです。これからも期待してます！  -- 名無しさん  (2014-09-10 23:37:21)
+- モモカシューさん 大好き！！！  -- 兄さん  (2016-10-15 13:12:44)
+- モモカシューさん大好きです！応援してます！！  -- カイ  (2016-11-03 03:48:46)
+- 僕の場所 僕の海がすごく好きです♡  -- ばななあいす  (2016-12-23 13:14:44)
+- Tarantulaを見てタランチュラそのものを好きになってしまった...　モモカシューさん応援してます!大好きです！  -- OASIS  (2017-01-01 19:12:45)
+#comment()

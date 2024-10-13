@@ -1,0 +1,32 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1428_20140113174246_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[sleep>sleep/CD]]|CENTER:&bold(){Feb.14}|CENTER:[[ゆりかご>ゆりかご/CD]]|
+
+|&bold(){[[otetsu]]}|
+
+発売：2014年1月30日
+価格：￥150
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：vient
+
+|&bold(){[[iTunes Storeで購入する>>https://itunes.apple.com/jp/album/feb.14-single/id807050894]]}|
+
+**CD紹介
+-巡音ルカ発売5周年を記念してリリースされた配信シングル。
+-雑誌「[[MIKU-Pack music&artworks feat.初音ミク>>http://miku-pack.jp/]]」05号付録CDにて先行収録された書き下ろし楽曲。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++Feb.14 （feat. 巡音ルカ）
+
+**リンク
+-[[作者ブログ>>http://otetsu721.blog60.fc2.com/]]
+-[[KARENT：「Feb.14」>>http://karent.jp/album/1428]]
+-[[KARENT：「巡音ルカ聖誕祭'14」特集ページ>>http://karent.jp/special/luka14]]
+
+**コメント
+- おぉーこの曲か。ジャケは珍しくvientさんか  -- 名無しさん  (2014-02-01 20:37:29)
+#comment()

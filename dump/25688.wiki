@@ -1,0 +1,33 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo(sm18271794)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[かくれんぼの路地裏で]]|CENTER:&bold(){AQUARIUM}|CENTER:[[ごめんねep]]|
+
+|&bold(){[[くらげP]]}|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2012年7月8日||
+|価格|CENTER:￥1,000|CENTER:￥1,500（税込）|
+|サークル|>|CENTER:electripper|
+
+**CD紹介
+-electripper（くらげP）の1stミニアルバム。
+-[[Yuma Saito]]氏による、くらげP楽曲のPVを収録した1stDVD『AQUAREEL』と同時リリース。
+-イラストはチェリ子氏が担当。
+-THE VOC@LOiD M@STER 21（ボーマス21）で頒布。
+-とらのあなで委託販売が行われている。
+
+**曲目
++[[AQUARIUM_GHOSTSONG>アクアリウム・ゴーストソング]]
++DOLPHIN_KICK
++WAVE_FILES
++PENGUIN_STEP
++LUMINOUS_JELLYFISH
+
+**リンク
+-[[作者サイト>>http://electripper.com/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/05/30/040030053091.html]]
+
+**コメント
+#comment()

@@ -1,0 +1,36 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm21238935)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:[[RINGO FISH EP]]&br()&bold(){EBONY COATED}|CENTER:[[Clione Box]]|
+
+|&bold(){[[ナノルーP]]}|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2013年7月7日|CENTER:2013年7月18日|
+|価格|CENTER:￥1,000|CENTER:￥1,333（税抜）|
+|サークル|>|CENTER:shabongazer|
+
+**CD紹介
+-ナノルーPの1stアルバム。
+-ジャケットは木製の特殊仕様。
+-THE VOC@LOiD M@STER 25（ボーマス25）にて『[[RINGO FISH EP]]』と同時リリース。
+-2017年に配信開始された[[bandcamp>>https://nogirroute.bandcamp.com/album/ebony-coated]]にて音源のフル視聴が可能。
+
+**曲目
++ADE DO MUSKET / Vo:名前のないこ
++[[BIRTH RAY]] / Vo:初音ミク
++CRYANODRIVE / Vo:名前のないこ
++MORNING HAZE / Vo:名前のないこ
++[[SONIC STROKE]] / Vo:初音ミク
++[[NAME LESS KISARA]] / Vo:初音ミク、名前のないこ
++F.I.N. / inst
+
+**リンク
+-[[サークルサイト>>http://shabongazer.tumblr.com/]]
+-[[作者ブログ>>http://stergstage.seesaa.net/]]
+-[[アリスブックス>>http://alice-books.com/item/show/2023-2]]
+-[[bandcamp>>https://nogirroute.bandcamp.com/album/ebony-coated]]
+
+**コメント
+#comment()

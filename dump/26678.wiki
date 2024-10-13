@@ -1,0 +1,31 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo(sm20619647)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[TOKIO FUNKA E.P.]]|CENTER:&bold(){Welcome to the world E.P.}|CENTER:[[イーストエンド・パンデモニウム]]|
+
+|&bold(){[[takamatt]]}|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|>|CENTER:2013年4月27日|
+|価格|CENTER:￥600|CENTER:￥900（税込）|
+|サークル|>|CENTER:Irie Moments|
+
+**CD紹介
+-takamatt氏の3作目となるCD。4曲入りミニアルバム。
+-デザインをみけぽち氏、マスタリングを[[かごめP]]が手掛けている。
+-THE VOC@LOiD 超 M@STER 24（超ボーマス24）で頒布された。
+-とらのあな、メロンブックスにて委託販売が行われている。
+
+**曲目
++Primavera（インスト）
++ズンガ！ズンガ！ズンガ！
++[[うららうららか]]（リメイク）
++[[Welcome to the world]]
+
+**リンク
+-[[作者ブログ（たかまっとさんって誰ですか？）>>http://ameblo.jp/takamatt/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/12/07/040030120743.html]]
+-[[メロンブックス>>http://shop.melonbooks.co.jp/shop/detail/213001013337]]
+**コメント
+#comment()

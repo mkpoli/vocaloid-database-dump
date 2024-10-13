@@ -1,0 +1,51 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1360_20130823205512_0280_0280.jpg)
+
+&nicovideo(sm21399334)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[End of Love>End of Love/CD]]|CENTER:&bold(){Let's play the Music!}|CENTER:[[Truth and Lie]]|
+
+|&bold(){[[MineK]]}|
+
+|流通|CENTER:即売|CENTER:委託|CENTER:配信|
+|発売|CENTER:2013年8月12日|CENTER:2013年8月|CENTER:2013年9月11日|
+|価格|CENTER:￥1,000|CENTER:￥1,500（税込）|CENTER:￥1,200 / 1曲￥150|
+|サークル|>|CENTER:SUKIMONO||
+
+**CD紹介
+-MineK氏のVOCALOIDアルバム。CDとしては7作目。
+-全10曲＋ボーナストラックを収録。
+-ジャケットイラストはトユ氏が担当。
+-C84（コミックマーケット84）で頒布。
+-とらのあなで委託販売が行われている。
+-KARENTレーベルよりダウンロード販売が行われている。ただし、ボーナストラックを除いた全10曲となっている。
+
+**曲目
++Say "Love in U" （feat. がくっぽいど&Lily）
++June Brideに憧れて （feat. MEIKO）
++[[Secret Dance]] （feat. がくっぽいど）
++[[Side Out]] （feat. がくっぽいど&MEIKO）
++Let's play the Music! （feat. がくっぽいど&MEIKO&KAITO&Lily）
++[[ボクの大好きなキミへ]] （feat. KAITO）
++渋滞テンプテーション （feat. Lily）
++Remove Your Love （feat. Lily&MEIKO）
++[[Hug and Dance]] （feat. がくっぽいど&KAITO）
++メリーゴーラウンド （feat. ガチャッポイド&MEIKO）
++がくめいRadio2（トークロイド）　　※以下ボーナストラック
+++味噌ピーナッツ （feat. 初音ミク）
+++[[Still Love You>Still Love You/MineK]] （feat. Lily）
++[[Chu♪Chu♪Chu♪]] -らぶりーがくぽんMix- （feat. がくっぽいど）
++Side Out （Inst.）
++Let's play the Music! （Inst.）
++Remove Your Love （Inst.）
++Hug and Dance （Inst.）
+
+**リンク
+-[[サークルサイト>>http://sukimono.org/]]
+-[[twitter>>https://twitter.com/MineK1025]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/13/45/040030134537.html]]
+-[[KARENT：「Let's play the Music!」>>http://karent.jp/album/1360]]
+
+**コメント
+#comment()

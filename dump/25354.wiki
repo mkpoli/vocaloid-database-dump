@@ -1,0 +1,44 @@
+#right(){&furigana(kaleido)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&ref(https://img.toranoana.jp/img/04/0030/05/35/040030053590-1.gif)
+
+&nicovideo(sm18230699)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[キミナシビジョン]]|CENTER:&bold(){kaleido.}|CENTER:[[てのひらセカンドワールド]]|
+
+|&bold(){[[KulfiQ]]}|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2012年7月8日|CENTER:|
+|価格|CENTER:￥500|CENTER:￥735（税込）|
+|サークル|CENTER:ガスコンロ|CENTER:INDICE|
+
+**CD紹介
+CD名：『&u(){kaleido.}』（&u(){カレイド}）
+-KulfiQ氏のミニアルバム。
+-オール新曲4曲+αを収録。
+-アートディレクション・デザインは[[ゴロー]]（[[ニコニコ動画>>https://www.nicovideo.jp/user/1035517]]）氏が担当。
+-THE VOC@LOiD M@STER 21（ボーマス21）で頒布。
+-とらのあなで委託販売が行われていた。
+
+**曲目
++カレイド
++[[Q.No.3]]
++[[『無題』]]
++銀河鉄道77
+
+**リンク
+-[[作者ブログ>>https://kulfiq.seesaa.net/]]
+-[[とらのあな>>https://www.toranoana.jp/mailorder/article/04/0030/05/35/040030053590.html]]
+
+**コメント
+- 2曲目は凄くいいと思う。ほかのもよかったけど  -- 名無しさん  (2013-05-04 20:32:19)
+- 欲しいのに…！  -- 名無しさん  (2013-06-07 22:48:51)
+- うわああん欲しい！！！動画こないかなー？  -- 名無しさん  (2013-07-02 21:01:44)
+- 欲しい…  -- 名無しさん  (2013-07-07 21:42:29)
+- ツタヤで借りれた・・・！どの曲もサイコー！  -- 名無しさん  (2013-07-07 23:08:12)
+#comment()

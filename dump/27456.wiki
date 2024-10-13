@@ -1,0 +1,32 @@
+#right(){&furigana(こみやちゃんP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/31155470" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/31155470">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-クリエーター集団「天使レーベル」に所属するボカロP。
+-作詞・作曲の他、「演奏してみた」や料理動画で活動するマルチな才能の持ち主。
+-使用するボーカロイドは初音ミク、ミクAppend、鏡音リン・レン、巡音ルカ、神威がくぽ、GUMI、IA、氷山キヨテル、結月ゆかり、kokone、&br()MEIKO V3、KAITO V3、ギャラ子。
+-使用する機材はギターはEPIPHONE　RivieraとYAMAHA　Pacifica、DAWはSONAR、インターフェースはUA２５EX。
+
+**リンク
+-[[YouTube>>https://www.youtube.com/channel/UCoziYzoa9_AOPEAMQqZ_HWA]]
+-[[PIAPRO>>http://piapro.jp/sikyuutyan]]
+-[[Vocaloiders>>http://vocaloiders.com/4087/]]
+-[[twitter>>https://twitter.com/ayumioosaka]]
+
+**曲
+#list_by_tag(小宮ちゃんP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(小宮ちゃんPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm19501621)|&nicovideo(http://www.nicovideo.jp/watch/sm20431973)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm20485239)|&nicovideo(http://www.nicovideo.jp/watch/sm20953961)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm21539229)|&nicovideo(http://www.nicovideo.jp/watch/sm21551671)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm22052511)|&nicovideo(http://www.nicovideo.jp/watch/sm22157640)|
+
+**コメント
+- 無名な割にはボカロ多いな  -- ぐーみん  (2014-07-20 21:41:04)
+- 体験版とかで曲作ってるて言ってた  -- 名無しさん  (2014-07-23 11:51:15)
+- 自殺予防うさぎとか神曲  -- りー  (2017-10-19 15:16:16)
+#comment()

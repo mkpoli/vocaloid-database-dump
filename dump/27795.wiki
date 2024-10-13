@@ -1,0 +1,29 @@
+#right(){&furigana(めりーめりー)&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1398_20131205154351_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Princess in The Galaxy]]|CENTER:&bold(){メリーメリー(2years memorial ver.)}|CENTER:[[朝焼けターミナル]]|
+
+|&bold(){[[一億円P]]}|
+
+発売：2013年12月11日
+価格：￥150
+流通：配信
+レーベル：KARENT
+
+|&bold(){[[iTunes Storeで購入する>>https://itunes.apple.com/jp/album/mary-mary-2-years-memorial/id775517315]]}|
+
+**CD紹介
+-dezzy（一億円P）氏の配信シングル。
+-KARENTレーベルのLOVE特集で配信された作品の1つ。
+
+**曲目
++[[メリーメリー]](2years memorial ver.) （feat. 初音ミク）
+
+**リンク
+-[[作者ブログ>>http://ameblo.jp/s9dezzy/]]
+-[[KARENT：「メリーメリー(2years memorial ver.)」>>http://karent.jp/album/1398]]
+-[[KARENT：「LOVE」特集ページ>>http://karent.jp/special/love13]]
+
+**コメント
+#comment()

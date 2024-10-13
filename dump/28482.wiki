@@ -1,0 +1,49 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/35048518" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/35048518">【ニコニコ動画】</a></iframe>)|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/47459155" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/47459155">【ニコニコ動画】</a></iframe>)|
+
+**特徴
+-2014年2月、 『[[Blue-wool]]』 にてボカロデビュー。
+-代表作に、『[[OneMoreTime!]]』『[[ONLY1]]』など。
+-使用ボカロは今のところ、ミクとIA。
+-主にドラムンベース・テクノなど、ダンスミュージック系統の曲を作る。
+-最近は&bold(){23.exe（ニサンドットエグゼ）}と名乗っている。
+-次の曲が殿堂入りを達成している。&br()&list_by_tagsearch(２３,殿堂入り,sort=furigana,option=nolist,nolistspace=、,100)
+-2021年12月、『[[YY]]』にて自身初の殿堂入りを達成した。
+
+**リンク
+-[[Twitter>>http://twitter.com/23_twt]]
+-[[SoundCloud>>https://soundcloud.com/23-sc]]
+-[[YouTube>>http://www.youtube.com/user/23dtmJP]]
+-[[ニコニコ大百科（単語記事）>>https://dic.nicovideo.jp/a/23.exe]]
+
+**曲
+#list_by_tag(２３,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(23CD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm22918814)|&nicovideo(sm23024507)|
+|&nicovideo(sm23167956)|&nicovideo(sm23279356)|
+|&nicovideo(sm23387225)|&nicovideo(sm23461260)|
+|&nicovideo(sm23583117)|&nicovideo(sm23757034)|
+|&nicovideo(sm24039826)|&nicovideo(sm24093152)|
+|&nicovideo(sm24296340)|&nicovideo(sm24348518)|
+|&nicovideo(sm24570814)|&nicovideo(sm24667305)|
+|&nicovideo(sm24710443)|&nicovideo(sm24935631)|
+|&nicovideo(sm25183871)|&nicovideo(sm25377139)|
+|&nicovideo(sm25433703)|&nicovideo(sm25710533)|
+|&nicovideo(sm25873037)|&nicovideo(sm26014084)|
+|&nicovideo(sm26071526)|&nicovideo(sm26234590)|
+|&nicovideo(sm26375390)|&nicovideo(sm26576253)|
+|&nicovideo(sm26855396)|&nicovideo(sm27365238)|
+|&nicovideo(sm27554107)||
+
+**コメント
+- 半角数字のみのタグは使用できないので、この方の曲ページでは全角で入力してください。  -- 名無しさん  (2015-01-02 00:27:15)
+- ↑了解しました。  -- 曲の作成主  (2015-01-02 00:29:39)
+- 無料DLアルバムの「remember」は追加してもいいのですか？  -- 名無しさん  (2015-01-02 00:30:54)
+- VOCALOIDが使用されたアルバムであれば問題ないと思います。  -- 名無しさん  (2015-01-02 00:32:39)
+- だれかTYFW追加してくれ  -- 名無しさん  (2018-08-09 22:36:21)
+- 中毒性高い  -- 名無しさん  (2022-11-23 16:18:57)
+#comment()

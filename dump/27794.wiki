@@ -1,0 +1,43 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo(sm20615855)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Princess in The Galaxy}|CENTER:[[メリーメリー(2years memorial ver.)]]|
+
+|&bold(){[[一億円P]]}|[[yksb]]|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2013年4月27日||
+|価格|CENTER:￥1,000|CENTER:￥1,591（税込・とらのあな）&br()￥1,491（税込・メロンブックス）|
+|サークル|CENTER:すたあないんですわよ|CENTER:STAR NiNE|
+
+**CD紹介
+-dezzy（一億円P）氏の1stアルバム。
+-既存曲、未発表曲、歌ってみた、リミックスが詰まった全12曲。
+-Illustrationを巳柚レク斗氏、Artworkをハラダミユキ氏が担当。
+-THE VOC@LOiD 超 M@STER 24（超ボーマス24）で頒布。
+-とらのあな、メロンブックスで委託販売が行われている。
+
+**曲目
++Princess in The Galaxy(prologue)
++[[彗星ストーリーテラー]] / 開発コードmiki
++[[リンレン宇宙盗賊団]] / 鏡音リン、鏡音レン
++[[Dr.アイロニーの幾何学]]（未発表曲） / 初音ミク
++a letter（未発表曲） / 開発コードmiki
++[[銀河鉄道365]] / IA
++[[Mr.wonderboy]] / 初音ミク
++[[ハッピーライフカーニバル]] / 鏡音リン、鏡音レン
++[[メリーメリー]] / 初音ミク
++銀河鉄道365 / misha
++Mr.wonderboy / ひななた
++リンレン宇宙盗賊団 / yksb(REMIX)
+
+**リンク
+-[[作者ブログ>>http://ameblo.jp/s9dezzy/]]
+-[[サークルサイト>>http://starnine.jp/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/11/42/040030114295.html]]
+-[[メロンブックス>>http://shop.melonbooks.co.jp/shop/detail/213001013350]]
+
+**コメント
+- お  -- 名無しさん  (2014-02-14 11:43:16)
+#comment()

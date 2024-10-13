@@ -1,0 +1,55 @@
+#right(){&furigana(ちんまりP)&furigana()【登録タグ:&tags() 】}
+|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/35879236" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/35879236">【ニコニコ動画】</a></iframe>)|&nicovideo_mylist(<iframe width="312" height="176" src="http://ext.nicovideo.jp/thumb_mylist/53764926" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/53764926">【ニコニコ動画】</a></iframe>)|
+
+**特徴
+-2012年9月、「[[Cozy nook]]」にてボカロデビュー。
+-使用ボカロは今のところ、ミク・GUMI・VY1・flower。ボカロ以外に さとうささら も持っている。
+-バラードやポストロックを主体とした曲調が多め。
+-ちなみに大の野球好き。
+-P名はデビュー作の宣伝した、聴き専の へもきち氏 によって命名された。
+-「[[転校前夜]]」にて自身初の殿堂入りを達成。
+-アーティスト名は &bold(){risou} 。&bold(){Sori Sawada}、&bold(){澤田 空海理}という名義も併用している。
+&br()&list_by_tagsearch(ちんまりP,殿堂入り,sort=furigana,option=nolist,nolistspace=／,100)
+
+**リンク
+-[[Twitter>>https://twitter.com/sorisawada]]
+-[[PIAPRO>>http://piapro.jp/risou]]
+
+**曲
+#list_by_tag(ちんまりP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(ちんまりPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|>|BGCOLOR(#aaffff):COLOR(#FFF):CENTER:&font(b,11pt){オリジナル曲}|
+|&nicovideo(http://www.nicovideo.jp/watch/nm18857980)|&nicovideo(http://www.nicovideo.jp/watch/nm19001147)|
+|&nicovideo(sm19227142)|&nicovideo(sm19324800)|
+|&nicovideo(sm20168490)|&nicovideo(sm20474867)|
+|&nicovideo(sm20531586)|&nicovideo(sm21078431)|
+|&nicovideo(sm21324173)|&nicovideo(sm21714657)|
+|&nicovideo(sm21927631)|&nicovideo(sm22137924)|
+|&nicovideo(sm22355282)|&nicovideo(sm22434195)|
+|&nicovideo(sm22628352)|&nicovideo(sm22676621)|
+|&nicovideo(sm22925496)|&nicovideo(sm23190681)|
+|&nicovideo(sm23373180)|&nicovideo(sm23574624)|
+|&nicovideo(sm24040306)|&nicovideo(sm24594191)|
+|&nicovideo(sm25194050)|&nicovideo(sm25367584)|
+|&nicovideo(sm25543439)|&nicovideo(sm25947479)|
+|&nicovideo(sm26032955)|&nicovideo(sm26209559)|
+|&nicovideo(sm26632874)|&nicovideo(sm27042095)|
+|&nicovideo(sm27056203)|&nicovideo(sm27155507)|
+|&nicovideo(sm27439051)|&nicovideo(sm27693321)|
+|&nicovideo(sm28013176)|&nicovideo(sm28318246)|
+|&nicovideo(sm28800786)|&nicovideo(sm28996475)|
+|&nicovideo(sm29943045)|&nicovideo(sm30519579)|
+|&nicovideo(sm30914537)|&nicovideo(sm31516272)|
+|&nicovideo(sm32167288)|&nicovideo(sm32454798)|
+|&nicovideo(sm32625018)|&nicovideo(sm33095419)|
+|&nicovideo(sm33169003)|&nicovideo(sm33373736)|
+
+**コメント
+- ほんとこのひとの曲すき。もっと評価されるべきだと思うなぁ。  -- 名無しさん  (2015-09-09 20:18:02)
+- ↑同意見ですわ  -- 咲  (2016-04-01 10:26:15)
+- どうして伸びないのか…ほんと大好きです  -- 景  (2018-06-04 04:31:30)
+#comment()

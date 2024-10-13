@@ -1,0 +1,46 @@
+#right(){&furigana(さや)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/29797632" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/29797632">【ニコニコ動画】</a></iframe>)
+
+**特徴
+作り手名：『&u(){清-saya-}』(&u(){さや})
+-2011年から活動している。最初は歌手音ピコのみだったが、2012年から他のボカロも使用するようになった。
+-使用合成音声は、歌手音ピコ・巡音ルカ・鏡音リン・鏡音レン・GUMI・結月ゆかり・歌愛ユキ・さとうささら。
+
+**リンク
+-[[Twitter>>http://twitter.com/daku_38]]
+
+**曲
+#list_by_tagsearch(清-saya-,sort=furigana2,errmsg=まだ曲が登録されていません。,and,100)
+
+**CD
+#list_by_tagsearch(清-saya-CD,sort=furigana2,errmsg=まだCDが登録されていません。,and,100)
+
+**動画
+|&nicovideo(sm15261876)|&nicovideo(sm15335844)|
+|&nicovideo(sm15576237)|&nicovideo(sm15664632)|
+|&nicovideo(sm15703518)|&nicovideo(sm15779144)|
+|&nicovideo(sm15895029)|&nicovideo(sm16030691)|
+|&nicovideo(sm16135330)|&nicovideo(sm16286921)|
+|&nicovideo(sm16314642)|&nicovideo(sm16474070)|
+|&nicovideo(sm16594192)|&nicovideo(sm16791944)|
+|&nicovideo(sm16991605)|&nicovideo(sm17255451)|
+|&nicovideo(sm17784719)|&nicovideo(sm20575518)|
+|&nicovideo(sm20759668)|&nicovideo(sm20977014)|
+|&nicovideo(sm20977079)|&nicovideo(sm21652545)|
+|&nicovideo(sm23229561)|&nicovideo(sm23723617)|
+|&nicovideo(sm23937729)|&nicovideo(sm25312712)|
+
+**関連タグ内の更新履歴
+#region(close,関連タグ内の更新履歴)
+関連タグ内の更新履歴
+※「清-saya-」「清-saya-CD」タグ内で最近編集やコメントのあった記事を新しい方から10件表示しています。
+#list_by_tagsearch(清-saya-,清-saya-CD,sort=timestamp,sort2=desc,errmsg=まだ曲、CDが登録されていません。,or,10)
+#endregion
+
+**コメント
+- Twitterの動画見たら美人だったw  -- 名無しさん  (2014-04-03 13:15:40)
+#comment()

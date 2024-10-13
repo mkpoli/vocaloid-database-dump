@@ -1,0 +1,36 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1415_20131218232613_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Melancholia>Melancholia/CD]]|CENTER:&bold(){Freestyle2}|CENTER:[[ManiC]]|
+
+|&bold(){[[Rin（ぎん）]]}|
+
+発売：2014年1月10日
+価格：￥900 / 1曲￥150
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：TAKRIDER
+
+|&bold(){[[iTunes Storeで購入する>>https://itunes.apple.com/jp/album/freestyle2/id793831017]]}|
+
+**CD紹介
+-Rin（ぎん）氏の配信限定EP。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++[[Freestyle]] Pt.2
++[[Distorted Love]] - Distorted Love mix （feat. 巡音ルカ）
++[[The Dubstep Soldiers at the Front]] （feat. 初音ミク）
++[[Gentle Despair]] （feat. 初音ミク）
++届かない愛の歌 （feat. 初音ミク）
++[[The Future Radio>近未来ラジオ]] - ClubEdit （feat. 初音ミク）
++スピカ （feat. 初音ミク）
++[[マケナイココロ]] （feat. 初音ミク）
+
+**リンク
+-[[KARENT：「Freestyle2」>>http://karent.jp/album/1415]]
+-[[作者サイト>>http://kuronekolounge.sakura.ne.jp/neko/KuronekoLounge.html]]
+
+**コメント
+#comment()

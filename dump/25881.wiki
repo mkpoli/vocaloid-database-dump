@@ -1,0 +1,42 @@
+#right(){&furigana(みなかたけんきゅうしょ)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/13600309" scrolling="no" style="border:solid 1px #CCC;"frameborder="0"><a href="https://www.nicovideo.jp/mylist/13600309">【ニコニコ動画】</a></iframe>)|
+
+**概要
+サークル名：『&u(){南方研究所}』（&u(){みなかたけんきゅうじょ}）
+-&bold(){タスク}、&bold(){うつした}両氏が結成した研究所、もといユニット・サークル。
+-イラストCG、壁画、ライブペイント、アニメーション、プロモーションビデオ等を制作している。
+-メンバー（研究員）は&bold(){タスク}・&bold(){うつした}・&bold(){チョボ六}・&bold(){[[ハチ]]}。
+--結成前から、タスク・うつした両氏は2人で動画を制作・投稿していた。&br()最初の投稿動画『[[部屋の壁にサイハテミクを描いてみた>>https://www.nicovideo.jp/watch/sm2924410]]』は、「壁に絵を描く」斬新なスタイルで話題を呼んだ。
+--2009年ごろからアニメーションを制作するようになった。ハチ氏の『[[clock lock works]]』などが有名。
+--2010年1月、この二人によって南方研究所が結成された。これと前後してチョボ六氏が加入。&br()さらに『[[沙上の夢喰い少女]]』からはハチ氏も加わることになった。
+
+**リンク
+//-個人HP、PIAPRO、YouTube等ある場合は、ここに。当wiki以外のサイトへリンクを貼る場合は必ず「>>」で別ウインドウでリンクしてください。
+-[[ニコニコ動画（タスク）>>https://www.nicovideo.jp/user/226543]]
+//-[[YouTube>>https://www.youtube.com/]]
+//-[[piapro>>https://piapro.jp/]]
+-[[Twitter>>https://twitter.com/minakata_lab]]
+--[[Twitter（タスク）>>https://twitter.com/task_plus9]]
+--[[Twitter（ハチ）>>https://twitter.com/hachi_08]]
+//-[[南方研究所HP>>http://minaken.net/top.html]]
+-[[Website>>http://minaken.net/]]
+
+**曲
+#list_by_tag(南方研究所,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(南方研究所CD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm2924410)|&nicovideo(sm7676209)|
+|&nicovideo(sm8933166)|&nicovideo(sm9639869)|
+|&nicovideo(sm10598020)|&nicovideo(sm11264170)|
+
+**コメント
+- 南方研究所のPV、新曲の度に絵柄が全然違うから凄いと思う。  -- 元禄  (2014-09-06 10:38:18)
+- 進化し続けてる感じがあるよな  -- 名無しさん  (2015-03-23 13:13:27)
+#comment()

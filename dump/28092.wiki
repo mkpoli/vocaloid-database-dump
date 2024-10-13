@@ -1,0 +1,40 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/33425615" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/33425615">【ニコニコ動画】</a></iframe>)|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/35311129" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/35311129">【ニコニコ動画】</a></iframe>)|
+
+**特徴
+-デビュー作は「[[恋ノコリツキ]]」。
+-他の作り手の作品にも調声、ミックス、マスタリング、録音、エンコードなどで参加することが多い。
+
+**リンク
+-[[twitter>>https://twitter.com/barreltaltor]]
+
+**曲
+#list_by_tag(たるとP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(たるとPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+***オリジナル曲
+|&nicovideo(sm18665387)|&nicovideo(sm19686335)|
+|&nicovideo(sm20650726)|&nicovideo(sm22160856)|
+|&nicovideo(sm22563644)|&nicovideo(sm27906552)|
+|&nicovideo(sm28551170)||
+
+**調声参加
+|&nicovideo(sm18164676)|&nicovideo(sm18773674)|
+|&nicovideo(sm19125328)|&nicovideo(sm19258897)|
+|&nicovideo(sm19582055)|&nicovideo(sm20701124)|
+|&nicovideo(sm21581891)|&nicovideo(sm22027961)|
+
+**コメント
+- もうね、最高なんですよ！！応援してます☆  -- aima  (2014-01-09 19:06:21)
+- この人の曲は全て素晴らしい！！  -- 葵奏  (2014-01-09 19:07:41)
+- 夢の空き地が特に好きです これからも応援してますっ!!!  -- ぺーる  (2014-01-09 21:04:36)
+- 恋想ルーモアは？  -- 名無しさん  (2014-02-09 10:27:51)
+- 最高！頑張って下さい！  -- 名無しさん  (2014-03-02 01:54:05)
+- 夢の空き地を聞いてたるとＰさんにはまりました★ハロラインと夢の空き地が特に好きです！応援してます♪  -- バニラ  (2014-03-27 12:27:33)
+- 恋ノコリツキいいですよね～  -- 名無しさん  (2014-04-10 22:58:03)
+- 聴いた瞬間はまっちゃいましたwこれからも応援しています！  -- 名無し？さん  (2014-08-07 23:18:22)
+- たるとPさん本当に大好きです(><)!!!!  -- りほ  (2015-01-15 19:50:56)
+#comment()

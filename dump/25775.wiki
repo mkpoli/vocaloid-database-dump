@@ -1,0 +1,62 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+#amazon(B00CGSHOIU)
+
+//|&nicovideo()|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[B L A C K O U T]]|CENTER:&bold(){ViViD WAVE}|CENTER:[[Twinkle World>Twinkle World/CD]]|
+
+|&bold(){[[八王子P]]}|[[わかむらP]]|
+
+|流通|CENTER:全国|
+|発売|CENTER:2013年7月17日|
+|価格|CENTER:￥3,000（税込）（初回限定盤）・￥2,300（税込）（通常盤）|
+|レーベル|CENTER:TOY'S FACTORY|
+
+**CD紹介
+-レーベル移籍後第1弾となる、八王子P の major 2nd album.
+-NOTTV「ボカステ」のテーマソング「HORIZON」や、NHK「週刊ニュース深読み」とのコラボレーションで制作した「[[フカヨミ]]」などの既存曲に、新曲を加えた全14曲を収録。
+-ジャケットイラストは TNSK氏 が手掛ける。
+-初回限定盤に付属するDVDには、 [[わかむらP]] が手掛けた楽曲PVが4曲収録されている。
+
+**曲目
+|>|BGCOLOR(#48d1cc):COLOR(#bfefdf):CENTER:&font(b,11pt){ DISC 1 }|
+|01|CENTER:　Monochrome　|
+|02|CENTER:　[[GAME OVER>GAME OVER/八王子P]] feat. 初音ミク　|
+|03|CENTER:　[[fake doll]] feat. 初音ミク　|
+|04|CENTER:　[[take it easy]] feat. 初音ミク　|
+|05|CENTER:　[[エレクトリック・マジック]] feat. 鏡音リン・鏡音レン　|
+|06|CENTER:　[[Dream Creator]] feat. GUMI　|
+|07|CENTER:　PARTY KiLLER feat. 巡音ルカ　|
+|08|CENTER:　[[TRAP×TRAP]] feat. 初音ミク　|
+|09|CENTER:　Little Summer of Love feat. GUMI　|
+|10|CENTER:　IZAYOI feat. IA　|
+|11|CENTER:　SECRET GiRL feat. 巡音ルカ　|
+|12|CENTER:　[[フカヨミ]] feat. 初音ミク　|
+|13|CENTER:　[[HORIZON>HORIZON/八王子P]] feat. 初音ミク　|
+|14|CENTER:　ViViD WAVE feat. 初音ミク　|
+
+|>|BGCOLOR(#48d1cc):COLOR(#bfefdf):CENTER:&font(b,11pt){ DISC 2 初回限定版付属DVD }|
+|01|CENTER:　GAME OVER feat. 初音ミク　|
+|02|CENTER:　Dream Creator feat. GUMI　|
+|03|CENTER:　fake doll feat. 初音ミク　|
+|04|CENTER:　HORIZON feat. 初音ミク　|
+
+**リンク
+-[[作者ホームページ>>http://www.hachiojip.jp/]]
+-[[amazon（通常盤）>>http://www.amazon.co.jp/dp/B00CGSIL4G]]
+-[[amazon（初回限定盤）>>http://www.amazon.co.jp/dp/B00CGSHOIU]]
+
+**コメント
+- 追加おつ！  -- 名無しさん  (2013-06-10 22:53:59)
+- DVDに入ってるPVってfake doll以外未公開…？よし買おう初回限定で買おう！ヾ(ﾟ∀ﾟ)ﾉﾝ  -- Latte  (2013-06-13 09:11:02)
+- Voca Nico Night1で後悔されたmisteriousがそろそろCDに収録されないかな  -- 名無しさん  (2013-06-13 21:01:05)
+- ↑公開だった  -- 名無しさん  (2013-06-13 21:01:34)
+- フカヨミ入るんだｗ  -- 名無しさん  (2013-06-14 14:30:23)
+- 八王子さんのＩＡだとー！  -- 名無しさん  (2013-06-21 17:24:56)
+- take it easyはfull？  -- 名無しさん  (2013-07-06 09:37:48)
+- ↑買って聴いてみましたが、フルでしたよ！  -- 名無しさん  (2013-07-16 22:59:48)
+- 買いました！とっても良かったです！IAのIZAYOIが和風な感じでステキでした！  -- 名無しさん  (2013-07-18 23:10:02)
+- えっ？↑のコメントフルじゃなかったんだが？  -- 名無しさん  (2013-08-01 20:24:00)
+- ↑5 確か前のblackoutもIAだったよね  -- 名無しさん  (2013-08-10 09:45:54)
+#comment()

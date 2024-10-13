@@ -1,0 +1,78 @@
+#right(){&furigana(いちのせゆきの)&furigana()【登録タグ:&tags() 】}
+//|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/21686908" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/21686908">【ニコニコ動画】</a></iframe>)|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/18719011" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/18719011">【ニコニコ動画】</a></iframe>)|
+
+**特徴
+-丸みのある可愛らしい絵が特徴の若手人気絵師。
+-[[かたほとりP]]の「[[隠れオタクでごめんなさい]]」のイラストからニコ動での活動を開始。
+-当初は &bold(){雪乃～setsu～}  名義で活動していた。
+-[[れるりり]]氏の「[[脳漿炸裂ガール]]」のセルフカバーver. のイラストを手がけたところ、それが切っ掛けとなり一躍有名に。
+-[[じっぷす]]氏の人気シリーズ『&bold(){ヘイセイプロジェクト}』へ参加し、「[[ムシクイサイケデリズム]]」 のイラストを担当。
+-その後、れるりり氏の「[[一触即発☆禅ガール]]」で人気を確固たるものにした。
+-今では、親交のある れるりり氏 を中心に、色々なPに絵を提供。さらには、ソーシャルゲームのキャラクターデザインなどニコ動以外での活動も多岐に渡る。
+-れるりり氏のメジャーCD『[[地獄型人間動物園]]』では、全キャラクターのデザイン・アートワークまでこなしている。
+-お馴染み「週刊VOCALOIDとUTAUランキング」のナビゲーションキャラクターである、 &bold(){奈帆} と &bold(){唄宇奈美} のキャラクターデザインも手掛けている。
+-2014年「&bold(){&ruby(さくら){咲良}ゆき}」へと改名した。今後はこちらの名義で活動していくとのこと。
+
+**リンク
+-[[Clochette（作者HP）>>http://sakulayuki.wix.com/sakurayuki]]
+//-[[innocent!（作者ブログ）>>http://ameblo.jp/ichinose-yukino/]]（削除確認）
+-[[pixiv>>http://www.pixiv.net/member.php?id=1661253]]
+-[[PIAPRO>>http://piapro.jp/akihisadao]]
+-[[Twitter（咲良ゆき名義）>>https://twitter.com/sakula_yuki]]
+-[[Twitter（市ノ瀬雪乃名義）>>http://twitter.com/itinose_yukino]]
+
+**曲
+#list_by_tag(市ノ瀬雪乃,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(市ノ瀬雪乃CD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm10007941)|&nicovideo(sm10065856)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm10201930)|&nicovideo(sm10417842)|
+|&nicovideo(sm10447624)|&nicovideo(http://www.nicovideo.jp/watch/nm10454815)|
+|&nicovideo(sm10471387)|&nicovideo(sm10480546)|
+|&nicovideo(sm11747761)|&nicovideo(sm11773437)|
+|&nicovideo(sm11960011)|&nicovideo(sm12157536)|
+|&nicovideo(sm12225999)|&nicovideo(sm12269670)|
+|&nicovideo(sm12457965)|&nicovideo(http://www.nicovideo.jp/watch/nm12648620)|
+|&nicovideo(sm12652976)|&nicovideo(sm12981342)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm13063895)|&nicovideo(sm13198417)|
+|&nicovideo(sm14822155)|&nicovideo(sm15236724)|
+|&nicovideo(sm15322577)|&nicovideo(sm15367429)|
+|&nicovideo(sm15390749)|&nicovideo(sm15663793)|
+|&nicovideo(sm15985690)|&nicovideo(sm16086419)|
+|&nicovideo(sm16240467)|&nicovideo(sm16559383)|
+|&nicovideo(sm17663810)|&nicovideo(sm17982271)|
+|&nicovideo(sm18541939)|&nicovideo(sm19797249)|
+|&nicovideo(sm20509005)|&nicovideo(sm21283394)|
+|&nicovideo(sm21702752)|&nicovideo(sm21755565)|
+|&nicovideo(sm21758871)|&nicovideo(sm21912617)|
+|&nicovideo(sm21961223)|&nicovideo(sm21969236)|
+|&nicovideo(sm22069337)|&nicovideo(sm22138616)|
+|&nicovideo(sm22210937)|&nicovideo(sm22353658)|
+
+**コメント
+- 作成しました!  -- 東八朴  (2014-01-02 06:24:51)
+- 作成乙です！市ノ瀬さんの絵柄かわいい  -- 名無しさん  (2014-01-03 12:44:21)
+- 市ノ瀬さん、脳漿炸裂ガールの動画制作には携わっていないはずでは・・・？ですので初音ミク&GUMIの動画は掲載しない方がよろしいのではないでしょうか。  -- 名無しさん  (2014-01-04 12:19:05)
+- 作成乙です☆↑あれ？携わっていないんでしたっけ？  -- もなかん  (2014-01-26 16:54:23)
+- ↑２のものです。そうです。市ノ瀬さんは一触即発☆禅ガールから携わっていらっしゃいます。  -- 名無しさん  (2014-01-26 17:00:58)
+- 脳漿炸裂のカバーは携わってます。  -- 名無しさん  (2014-02-19 19:52:27)
+- そうでした、すみません&直してくれた方、ありがとうございます!!  -- 4ヶ月後に間違いに気づいた作成人  (2014-04-23 23:29:58)
+- 私もこの人の絵は好きだなぁ♪可愛いです♪  -- 玖冥  (2014-05-17 23:06:24)
+//- れるりりさんと付き合ってるもんなぁ・・・そりゃ大人気  -- 名無しさん  (2014-09-08 23:25:50)
+- 改名されたようですが、記載しないのですか？？  -- 携帯なので編集できない名無しさん  (2014-12-07 15:49:44)
+//- この人、今ネットいじめで話題になってますね！  -- 名無しさん  (2016-01-06 00:59:40)
+//- ネットいじめって具体的に何したの？  -- チノちゃんぎゅーっ  (2016-01-08 03:39:32)
+//- 何人かと共謀して某アンソロジー中止に追い込んだって噂じゃない？  -- 名無しさん  (2016-01-08 14:43:40)
+//- れるりりとオフパコしたのなんで書いてないの？  -- 名無しさん  (2016-01-24 17:14:50)
+//- ネットいじめして他の人活動出来なくさせたくせに謝罪もなしで活動出来るなんてさすがプロは神経の図太さが違うね〜！  -- 名無しさん  (2016-02-08 00:45:05)
+//- この人いじめした人？  -- 名無しさん  (2016-03-28 19:29:16)
+- 神のまにまにが大好きです！絵がかわいいｗ  -- 零  (2016-10-16 12:04:39)
+//- 最低のいじめばばあ  -- 名無しさん  (2017-01-16 09:13:46)
+//- 謝罪はよ  -- 名無しさん  (2017-02-08 01:04:57)
+//- 謝罪まだですかね？  -- 名無しさん  (2017-02-18 14:23:16)
+- 市ノ瀬さんって若いん!?  -- 白雪  (2017-04-04 21:18:43)
+//- 今後の活動の為にもアンソロいじめの件はしっかり説明、謝罪して清算した方がいい気がする  -- 名無しさん  (2019-01-22 14:39:14)
+#comment()

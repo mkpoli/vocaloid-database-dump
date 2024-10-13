@@ -1,0 +1,45 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#ref(http://cametek.jp/stance/jacket.jpg,width=300,height=300)
+
+
+&nicovideo(http://www.nicovideo.jp/watch/sm21514719)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Michno-sequence]]|CENTER:&bold(){Stance on Wave}|CENTER:[[Drag the ground]]|
+
+|&bold(){[[かめりあ]]}|[[さつき が てんこもり]]|やんわり|れいたん|
+
+|流通|CENTER:即売|
+|発売|CENTER:2013年8月12日|
+|価格|CENTER:￥1,000（税込）|
+|サークル|CENTER:かめるかめりあ|
+
+**CD紹介
+-Electro House・Dubstep・Glitch Hop・Drum'n'Bass などを中心に、ベースミュージックで構成された大容量のアルバム。
+-重厚かつ攻撃的な低音を存分に楽しむことのできる、聴きごたえのある楽曲を15曲収録。
+-アートワークは 芋井もい氏 が手掛ける。
+-C84（コミックマーケット84）にてリリース。
+
+**曲目
++/*encryption*/	-instrumental-
++the beginning of the war	
++電子的生死表現	
++鈍色トリガー	
++[[Splatter Party]]
++夕焼けの缶詰	
++[[Quantum Entanglement]]
++Merry Go Round Round Round　	
++Z.A.P.	
++[[システマティック・ラヴ]]
++extraterrestrial	
++flow arrow	
++Underground Avalanche	
++dilapidated world	
++/*decryption*/ -instrumental-
+
+**リンク
+-[[特設サイト>>http://cametek.jp/stance/]]
+
+**コメント
+- 追加乙！  -- 名無しさん  (2013-08-05 22:21:15)
+#comment()

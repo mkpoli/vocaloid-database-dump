@@ -1,0 +1,64 @@
+#right(){&furigana(うみろ)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/32636515" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/32636515">【ニコニコ動画】</a></iframe>)
+
+**特徴
+作り手名：『&u(){うみろ}』
+-2012年9月、「[[明日の私]]」でボカロデビューした作り手。
+-4作目の「[[ユクエシレズ]]」は投稿後から反響が大きく、同作で自身初の殿堂入りを達成した。
+--その後、氏初のミリオンを達成した。
+-使用ボカロはGUMI、flower。
+-2017年11月、アーティスト名を&bold(){こじろー}から&bold(){うみろ}へと改名。
+--後に再び&bold(){こじろー}に戻している。
+---その後再度&bold(){うみろ}に戻している。今後は変えない模様。（氏の[[ツイート>>http://twitter.com/koziro_kojiro/status/1178271426974846977]]より）
+-現在殿堂入りしている楽曲は「[[ユクエシレズ]]」「[[臨界ダイバー]]」「[[篝火と霹靂]]」。
+
+**ミリオン達成状況
+|CENTER:&bold(){曲名}|CENTER:&bold(){100万再生}|CENTER:&bold(){備考}|
+|[[ユクエシレズ]]|2019年8月18日||
+
+**リンク
+-[[Twitter>>http://twitter.com/koziro_kojiro]]
+-[[PIAPRO>>http://piapro.jp/koziro_kojiro]]
+-[[Youtube>>http://www.youtube.com/user/kozirokojiro/videos]]
+-[[Bilibili>>https://space.bilibili.com/1107472247]]
+**曲
+#list_by_tagsearch(うみろ,sort=furigana2,errmsg=まだ曲が登録されていません。,and,100)
+
+**CD
+#list_by_tagsearch(うみろCD,sort=furigana2,errmsg=まだCDが登録されていません。,and,100)
+
+**動画
+|>|BGCOLOR(#aad5bf):COLOR(#FFF):CENTER:&font(b,11pt){オリジナル曲}|
+|&nicovideo(sm18902604)|&nicovideo(sm19171601)|
+|&nicovideo(sm19791226)|&nicovideo(sm21027040)|
+|&nicovideo(sm24309418)|&nicovideo(sm26197656)|
+|&nicovideo(sm28250616)|&nicovideo(sm29555744)|
+|&nicovideo(sm29932001)|&nicovideo(sm30765628)|
+|&nicovideo(sm31184450)|&nicovideo(sm31362833)|
+|&nicovideo(sm31568470)|&nicovideo(sm32220951)|
+|&nicovideo(sm32481520)|&nicovideo(sm32711417)|
+|&nicovideo(sm33616995)|&nicovideo(sm34150536)|
+|&nicovideo(sm35086929)|&nicovideo(sm35422507)|
+|&nicovideo(sm35894227)|&nicovideo(sm37008720)|
+|&nicovideo(sm38189440)|&nicovideo(sm42248050)|
+|&nicovideo(sm42579776)||
+//|&nicovideo()|&nicovideo()|
+
+**関連タグ内の更新履歴
+#region(close,関連タグ内の更新履歴)
+関連タグ内の更新履歴
+※「うみろ」「うみろCD」タグ内で最近編集やコメントのあった記事を新しい方から10件表示しています。
+#list_by_tagsearch(うみろ,うみろCD,sort=timestamp,sort2=desc,errmsg=まだ曲、CDが登録されていません。,or,10)
+#endregion
+
+**コメント
+- 追加乙！！ユクエシレズ大好きだ～♪ これからの活躍に期待だね☆  -- 終焉Ｐ  (2013-06-18 20:19:49)
+- ユクエシレズ大好きです！これからも神曲作ってください！  -- ひかる  (2013-07-01 00:51:40)
+- ユクエシレズ最高です!!次の曲はどんなメロディーかな♪  -- 虹色メガネ  (2014-01-06 20:21:11)
+- 臨海ダイバー好きなので、ギターのコード表見てみたいです。  -- あっとゃん  (2017-11-29 09:50:24)
+- 誰か東京四面楚歌追加してくれ  -- 名無しさん  (2021-12-18 16:19:54)
+#comment()

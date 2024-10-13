@@ -1,0 +1,40 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm21224359)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[僕が今ココで野垂れ死んだら]]|CENTER:&bold(){Unknown Artist}|CENTER:-|
+
+|&bold(){[[imosuke]]}|
+
+|流通|CENTER:即売|
+|発売|CENTER:2013年7月7日|
+|価格|CENTER:￥1,000（税込）|
+|サークル|CENTER:やみいもーん|
+
+**CD紹介
+>&bold(){「全ての勘違いヤローに捧ぐ。」}
+-imosuke氏 の 2nd album.
+-もっと知ってもらえるように。頑張ります。是非とも。（作者コメ転載）
+-ヒット作の『[[スピンオフ・ヒーロー]]』を筆頭に、1st album 後の既存曲や新曲など全11曲を収録。
+-アートワークを つばきこいし氏 が、マスタリングを [[yksb]]氏 が手掛ける。
+-THE VOC@LOiD M@STER 25（ボーマス25）にてリリース。
+
+**曲目
++愛鈍脳
++[[バイブルミュージック]]
++[[スピンオフ・ヒーロー]]
++not A
++[[孤高のマイム]]
++[[ヒトトナリ]]
++飛んでるカラスを撃ち殺した
++親賂相談
++逃げ出す君と、追う僕と
++乗り越しキップ
++Unknown Artist
+
+**リンク
+-[[imosukeがアップをはじめました（作者ブログ）>>http://ameblo.jp/imosuke-red]]
+
+**コメント
+- クロスフェードおもしろいなｗｗ欲しい！  -- 名無しさん  (2013-06-30 15:45:30)
+#comment()

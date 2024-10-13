@@ -1,0 +1,30 @@
+#right(){&furigana(らぶまじっくでぃすこ)&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1473_20140303221120_0280_0280.jpg)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm23145198)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[ハートフルシーケンス>ハートフルシーケンス/CD]]|CENTER:&bold(){ラブマジックディスコ}|CENTER:[[EasyPop VOCALOID Tracks2]]|
+
+|&bold(){[[Easy Pop]]}|
+
+発売：2014年4月2日
+価格：￥150
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：kise
+
+**CD紹介
+-EasyPop・BETTI氏の配信シングル。
+-雑誌「[[MIKU-Pack music&artworks feat.初音ミク>>http://miku-pack.jp/]]」06号付録CDにて先行収録された書き下ろし楽曲。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++ラブマジックディスコ （feat. 初音ミク）
+
+**リンク
+-[[作者サイト>>http://www5a.biglobe.ne.jp/~betiix/]]
+-[[KARENT：「ラブマジックディスコ」>>http://karent.jp/album/1473]]
+
+**コメント
+#comment()

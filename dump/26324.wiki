@@ -1,0 +1,53 @@
+#right(){&furigana(つきのうた3)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+#ref(http://www.vocalomakets.com/yukari_CD/003/image/jacket.png,width=300,height=300)
+
+
+&nicovideo(http://www.nicovideo.jp/watch/sm21520543)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[月の詩 Ⅱ -ツキノウタ-]]|CENTER:&bold(){月の詩 Ⅲ -ツキノウタ-}|CENTER:[[月の詩 Ⅳ -ツキノウタ-]]|
+
+|&bold(){[[Bumpyうるし]]}|[[かごめP]]|[[azuma]]|[[かずくんP]]|[[ちょむP]]|[[Nia]]|[[喜兵衛]]|[[デッドボールP]]|
+|[[Clean Tears]]|[[さたな]]|[[綿飴]]|[[takamatt]]|[[YonoP]]|[[フライングジラフ]]|[[ichiP]]|>|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|>|CENTER:2013年8月12日|
+|価格|CENTER:￥1,000（税込）|CENTER:￥1,500（税込）|
+|サークル|>|CENTER:マケッツ団|
+
+**CD紹介
+-VOCALOMAKETS メンバー企画による結月ゆかりの公式コンピレーションアルバムの第3弾！！
+-前回以上にメンバーを大幅に入れ替えているが、参加者数は変わらず15名のボカロPが参加している。
+-ジャケットイラストは 119（ひけし）氏 が手掛ける。ロゴデザインは 渡辺浩彰氏 。
+-C84（コミックマーケット84）にてリリース。
+
+**曲目
++[[Luna Virus+]]　/　Nia
++[[たかし君の割り切れない気持ち]]　/　デッドボールP
++HAYATE　/　ちょむP
++[[仮想遊泳]]　/　さたな
++午前0時の黒魔術系女子　/　Bumpyうるし
++星になあれ♪～結月先生の次回作にご期待ください～　/　azuma
++[[幾夜、兎は愛を求めたのだ]]　/　かごめP
++嘘とオキシドール　/　ichiP
++夕焼け飛行機　/　綿飴
++イマジナリーラヴァー　/　takamatt
++I wanna change　/　Clean Tears
++浮月　/　喜兵衛
++月夜視　/　かずくんP
++[[観測者]]　/　フライングジラフ
++[[瞼のうらのグラフィティ]]　/　YonoP
+
+**リンク
+-[[特設ページ>>http://www.vocalomakets.com/yukari_CD/003/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/14/02/040030140258.html]]
+
+**コメント
+- 豪華だなぁ。  -- 名無しさん  (2013-08-06 21:20:35)
+- ひけしさんじゃないか！  -- 名無しさん  (2013-08-14 23:33:43)
+- 仮想遊泳の歌詞追加してほしいです  -- 名無しさん   (2015-04-24 11:06:26)
+#comment

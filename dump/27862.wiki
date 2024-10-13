@@ -1,0 +1,36 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm22516063)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Circle Jerk Galactic}|CENTER:-|
+
+|[[さつき が てんこもり]]|[[かめりあ]]|[[きくお]]|[[小川大輝>向日葵紅蓮]]|[[y0c1e]]|[[tomohiko togashi]]|
+
+|流通|CENTER:即売|
+|発売|CENTER:2013年12月31日|
+|価格|CENTER:￥1,000（税込）|
+|サークル|CENTER:ぐうのねサウンズ|
+
+**CD紹介
+>&bold(){“5秒でいいから聞いてくれ”}
+-6人のアーティストによるエレクトロコンピCD。全8曲を収録。
+-ジャケットイラストは 参阡はつか氏 が手掛ける。
+-C85（コミックマーケット85）にてリリース。
+
+**曲目
++[[Fly to night, tonight]]　/　かめりあ
++[[ラディカルラディカル]]　/　さつき が てんこもり
++piece out　/　tomohiko togashi
++Circle Jerk Galactic　/　y0c1e
++Anywhere　/　小川大輝
++Infinite Dreamer　/　きくお
++鈍色トリガー　/　かめりあ
++One more　/　y0c1e
+
+**リンク
+-[[ぐうのねサウンズ（サークルホームページ）>>http://www.studiosatuki.com/guunone/]]
+
+**コメント
+- おお！  -- 名無しさん  (2013-12-24 01:24:05)
+- 制作陣豪華だなぁ  -- 名無しさん  (2014-01-16 23:46:40)
+#comment()

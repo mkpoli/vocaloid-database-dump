@@ -1,0 +1,36 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm20609910)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Blue Chameleon}|CENTER:[[Continue_Play]]|
+
+|&bold(){[[ぴすたP]]}|
+
+|流通|CENTER:即売|
+|発売|CENTER:2013年4月27日|
+|価格|CENTER:￥1,000（税込）|
+|サークル|CENTER:ハイパーメディアクリエイティ部|
+
+**CD紹介
+-ぴすた氏 の1stアルバム。
+-これまでにリリースした既存曲に書き下ろしの新曲を加えた全9曲を収録。
+-アートワークは[[たいそす]]氏が手掛ける。
+-THE VOC@LOiD 超 M@STER 24（超ボーマス24）にてリリース。
+
+**曲目
++時計仕掛けのロマンチカ
++[[オシャレ泥棒と色眼鏡]]
++[[月光少年と有限世界]]
++[[都落マリアージュ]]
++[[惑星シソーラス]]
++[[ガラクタ言語論]]
++[[午前二時に宇宙人と遭遇した場合]]
++[[宇宙の車窓から]]
++[[雨傘リリシズム]]
+
+**リンク
+-[[Twitter>>http://twitter.com/pista_choo]]
+
+**コメント
+- 欲しかった。  -- 名無しさん  (2018-07-06 22:48:55)
+#comment()

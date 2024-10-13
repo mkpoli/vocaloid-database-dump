@@ -1,0 +1,36 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+
+&nicovideo(http://www.nicovideo.jp/watch/sm20625338)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Heart motion}|CENTER:-|
+
+|&bold(){[[Nodoka]]}|
+
+|流通|CENTER:即売|
+|発売|CENTER:2013年4月27日|
+|価格|CENTER:￥300（税込）|
+|サークル|CENTER:Nodoka Sound Works|
+
+**CD紹介
+-Nodoka氏 の 1st EP 。
+-既存曲に書き下ろしの新曲を加えた全7曲を収録。
+-アートワークは あわしま氏 が手掛ける。
+-THE VOC@LOiD 超 M@STER 24（超ボーマス2）にてリリース。
+
+**曲目
++Heart motion
++[[夢の守り人]]
++[[淡雪の夜に]]
++[[残る夏に花束を]]
++Today, All is End.
++ピクチャーワールド
++Stop motion
+
+**リンク
+-[[Twitter>>http://twitter.com/tani_nodoka]]
+
+**コメント
+- IA/02のnodokaさんか  -- 名無しさん  (2013-04-17 23:05:58)
+- めっちゃほしい!!残る夏に花束をって曲大好きです  -- 名無しさん  (2013-10-29 21:52:31)
+#comment()

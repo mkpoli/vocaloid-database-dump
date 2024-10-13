@@ -1,0 +1,57 @@
+#right(){&furigana(ししゅんきこんぷれっくす)&furigana()【登録タグ:&tags() 】}
+//#ref(http://makina7.com/puberty_complex/img/456min.jpg) 
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186133651.jpg,x=300,y=300)
+
+|BGCOLOR(#b22222):COLOR(#ffe4b5):CENTER:&font(b,11pt){　クロスフェード　}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm20637904)|
+
+|BGCOLOR(#b22222):COLOR(#ffe4b5):CENTER:&font(b,11pt){　前作　}|BGCOLOR(#b22222):COLOR(#ffe4b5):CENTER:&font(b,11pt){　本作　}|BGCOLOR(#b22222):COLOR(#ffe4b5):CENTER:&font(b,11pt){　次作　}|
+|CENTER:-|CENTER:&bold(){思春期コンプレックス}|CENTER:-|
+
+|[[やまじ>LITCHI]]|[[村人P]]|[[ざうに]]|[[Neru]]|[[翁]]|[[takamatt]]|
+
+|BGCOLOR(#b22222):COLOR(#ffe4b5):CENTER:&font(b,11pt){　流通　}|BGCOLOR(#b22222):COLOR(#ffe4b5):CENTER:&font(b,11pt){　即売　}|
+|BGCOLOR(#b22222):COLOR(#ffe4b5):CENTER:&font(b,11pt){　発売　}|CENTER:　2013年4月27日　|
+|BGCOLOR(#b22222):COLOR(#ffe4b5):CENTER:&font(b,11pt){　価格　}|CENTER:　￥500（税込）　|
+|BGCOLOR(#b22222):COLOR(#ffe4b5):CENTER:&font(b,11pt){　サークル　}|CENTER:　優しい人になりたい。　|
+
+**CD紹介
+>&bold(){&color(#b22222){「絵から音へ、少女に触れる―――。」}}
+-456氏 がイメージする「思春期」を描き、各ボカロPが曲を書く、絵先コンピレーションアルバム。全6曲収録。
+-アートワークを [[456]]氏 が、マスタリングを 友達募集P が、クロスフェード動画を potako氏 が手掛ける。
+-THE VOC@LOiD 超 M@STER 24（超ボーマス24）にてリリース。
+
+**曲目
+|BGCOLOR(#b22222):COLOR(#ffe4b5):CENTER:&font(b,11pt){　Track　}|BGCOLOR(#b22222):COLOR(#ffe4b5):CENTER:&font(b,11pt){　曲名　}|BGCOLOR(#b22222):COLOR(#ffe4b5):CENTER:&font(b,11pt){　楽曲制作者　}|
+|BGCOLOR(#b22222):COLOR(#ffe4b5):CENTER:&font(b,11pt){ 01 }|CENTER:[[美しき果実]]|CENTER:やまじ|
+|BGCOLOR(#b22222):COLOR(#ffe4b5):CENTER:&font(b,11pt){ 02 }|CENTER:[[ナイトウォーカー]]|CENTER:ラムネ|
+|BGCOLOR(#b22222):COLOR(#ffe4b5):CENTER:&font(b,11pt){ 03 }|CENTER:[[ときをとめて]]|CENTER:ざうに|
+|BGCOLOR(#b22222):COLOR(#ffe4b5):CENTER:&font(b,11pt){ 04 }|CENTER:[[イドラのサーカス]]|CENTER:Neru|
+|BGCOLOR(#b22222):COLOR(#ffe4b5):CENTER:&font(b,11pt){ 05 }|CENTER:[[トビトカゲ]]|CENTER:翁|
+|BGCOLOR(#b22222):COLOR(#ffe4b5):CENTER:&font(b,11pt){ 06 }|CENTER:[[ソナチネ]]|CENTER:takamatt|
+
+**リンク
+-[[特設サイト>>http://makina7.com/puberty_complex/]]
+
+**コメント
+- 通販あるかな  -- 名無しさん  (2013-04-24 00:41:29)
+- 作成乙です  -- 名無しさん  (2013-04-28 16:44:06)
+- 通販希望  -- 名無しさん  (2013-04-28 16:44:24)
+- 再販無いらしいです(泣)  -- 名無しさん  (2013-05-03 21:39:50)
+- 再販してくれないのかー　残念  -- 名無しさん  (2013-05-03 22:06:07)
+- 販売期待できたのになーないのなー  -- 名無しさん  (2013-05-15 17:48:16)
+- 再販してくれたら5秒で買うのにいいいいいいいい  -- 作成乙  (2013-05-27 22:43:21)
+- え？欲しい  -- 弥蘭  (2013-06-15 20:47:34)
+- えっ！めちゃ欲しい…！しかもイドラ入ってるし！  -- れんきゅんlove  (2013-06-27 14:41:32)
+- わぁっ 心をくすぐる曲名がいっぱいですね♪聴いてみますッ！イドラのサーカス大好き☆  -- 未桜  (2013-06-30 21:29:40)
+- 欲しいわ  -- 名無しさん  (2013-08-04 18:21:10)
+- めっさ欲しい・・・  -- 名無しさん  (2013-08-26 19:09:03)
+- イドラのサーカスが入ってる！！！  -- 名無しさん  (2013-09-23 15:35:04)
+- 欲しい・・・  -- 名無しさん  (2013-10-04 19:38:32)
+- 再販してほしい…通販ないし（泣）  -- 都羽☆  (2014-01-14 00:28:18)
+- 再販を全裸待機…泣  -- みや  (2014-06-09 22:48:09)
+- イドラのサーカス聞きたい！  -- レイ  (2014-08-20 12:18:32)
+- イドラちゃあああああああああああああああん イドラのサーカス入ってる！！  -- もるみんももも  (2014-10-16 23:03:15)
+- イドラのサーカスウゥゥ!!!しかもジャケット456さんじゃないですかぁ!!!欲しいいい!!!  -- >おかゆ  (2015-01-05 12:31:59)
+#comment()

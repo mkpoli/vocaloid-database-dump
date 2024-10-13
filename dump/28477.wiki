@@ -1,0 +1,52 @@
+#right(){&furigana(わんおほvol08)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+
+#ref(http://karent.jp/npdca/1492_20140401172252_0280_0280.jpg)
+
+|&nicovideo(http://www.nicovideo.jp/watch/sm22904953)|&YouTube(http://www.youtube.com/watch?v=XZdAaB_--U8){336,189}|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[先生と少女騒動-第二審-「被害者の日記」>先生と少女騒動-第二審-「被害者の日記」/CD]]|CENTER:&bold(){ワン☆オポ！vol.08}|CENTER:[[C++++]]|
+
+|&bold(){[[マイナスP]]}|&bold(){[[じーざすP]]}|
+
+||CENTER:即売|CENTER:配信|CENTER:委託|
+|発売|CENTER:2014年3月2日|CENTER:2014年4月16日|CENTER:2014年5月|
+|価格|CENTER:￥1,000|CENTER:￥1,200|CENTER:￥1,328（税抜）|
+|サークル|>|>|CENTER:Wonderful★opportunity!|
+
+**CD紹介
+CD名：『&u(){ワン☆オポ！vol.08}』
+-[[マイナスP]]、[[じーざすP]]による同人サークル「Wonderful★Opportunity!（ワンダフル☆オポチュニティ！）」の9thCDアルバム。
+-小説化された「先生と少女騒動-第二審-「被害者の日記」」、コンピCD収録の「六波羅神楽絵巻」他、書き下ろし曲含む全10曲を収録。
+-ジャケットイラストは[[SHARK]]（[[piapro>>https://piapro.jp/shark_a]]）氏が担当。
+-VOCALOID PARADISE 関西3（ボーパラ関西3）にて頒布される。
+-KARENTレーベルよりダウンロード販売が行われている。
+-amazon、とらのあなで委託販売が行われている。
+
+**曲目
++[[POLYGON]] / マイナスP feat. 鏡音リン
++[[六波羅神楽絵巻]] / マイナスP feat. 鏡音レン
++[[SI・RI・TO・RI]] / じーざすP feat. 鏡音リン&レン
++サークル、はじめました。（仮） / じーざすP feat. 鏡音レン&リン
++[[先生と少女騒動-第二審-「被害者の日記」]] -album ver.- / マイナスP feat. 鏡音リン&レン
++メンタルヘルス / マイナスP feat. 鏡音リン
++男子学生 / じーざすP feat. 鏡音レン
++A→B→C / じーざすP feat. 鏡音リン&レン
++TVスターは眠らない / マイナスP feat. 鏡音レン
++RES:CUE / マイナスP feat. 鏡音リン
+
+**リンク
+-[[official website>>http://www.wan-opo.com/]]
+-[[CD特設サイト>>http://wanopotw.wixsite.com/wanopo-newcd]]
+-[[KARENT：「ワン☆オポ!VOL.08」>>http://karent.jp/album/1492]]
+-[[amazon>>http://www.amazon.co.jp/dp/B00JVFNAMU/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/20/59/040030205927.html]]
+
+**コメント
+- おお！少女騒動のアルバム版！  -- 名無しさん  (2014-02-18 21:33:28)
+- サークルはじめました大好きです！  -- 名無しさん  (2014-08-29 11:19:36)
+#comment()

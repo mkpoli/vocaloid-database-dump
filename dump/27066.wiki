@@ -1,0 +1,36 @@
+#right(){&furigana(ふらんしすかとくれないのへや)&furigana()【登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186145647.jpg,x=300,y=380)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm22035473)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[OMAKE]]|CENTER:&bold(){フランシスカと紅の部屋}|CENTER:-|
+
+|&bold(){[[ぢゅ（メラゾーマP）]]}|
+
+|流通|CENTER:即売|
+|発売|CENTER:2013年10月20日|
+|価格|CENTER:￥200（税込）|
+|サークル|CENTER:|
+
+**CD紹介
+-ジャケットイラストは 春野ほたる氏 が手掛ける。
+-VOCALOID PARADISE8（ボーパラ8）にてリリース。
+
+**曲目
++[[フランシスカと紅の部屋]]
++[[僕が人間だった時の話をしよう]]
++[[どうか私に名前をください]]
++[[ファイナルラブレター>最終愛歌]]
++[[本棚]]
++[[有識さんちのとんかつ]]
++[[仮想的有能感]]
++[[お菓子を買うお金を根こそぎ赤十字募金]]
+
+**リンク
+-[[作者ブログ>>http://ameblo.jp/kandyu/]]
+
+**コメント
+- おお！  -- 名無しさん  (2013-10-14 19:51:43)
+#comment()

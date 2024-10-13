@@ -1,0 +1,38 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm20600419)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){mechanical orange}|CENTER:-|
+
+|&bold(){[[redo>redo/作り手]]}|
+
+|流通|CENTER:即売|
+|発売|CENTER:2013年4月27日|
+|価格|CENTER:￥1,000（税込）|
+|サークル|CENTER:ハイパーメディアクリエイティ部|
+
+**CD紹介
+-redo氏 の1stアルバム。
+-これまでにリリースした既存曲に書き下ろしの新曲を加えた全11曲を収録。
+-アートワークは 猿吉氏 が手掛ける。
+-THE VOC@LOiD 超 M@STER 24（超ボーマス2）にてリリース。
+
+**曲目
++胎動（inst.）
++[[OF]]
++[[曲解ブレイン]]
++[[ultramarine]]
++[[stand alone syndrome]]
++[[崩落]]
++[[夢中遊行]]
++[[ON>ON/redo]]
++[[コールアンコール]]
++独立症候群（inst.）
++或ル
+
+**リンク
+-[[Twitter>>http://twitter.com/redo_192]]
+
+**コメント
+- 通販どうなったんですか…？  -- 名無しさん  (2013-05-24 23:45:59)
+#comment()

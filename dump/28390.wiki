@@ -1,0 +1,46 @@
+#right(){&furigana(EXtend)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm9190641)|
+作詞：[[FB777]]
+作曲：[[FB777]]
+編曲：[[FB777]]
+唄：[[初音ミク]]
+
+**曲紹介
+曲名：『&u(){EXtend}』
+-FB777氏による4作目の初音ミクオリジナル曲。
+-初音ミク -Project DIVA- 2nd エディットモード専用曲に採用された。
+
+**関連動画
+|&nicovideo(sm11613303)|&nicovideo(sm11638877)|
+
+**歌詞
+（[[piapro>>https://piapro.jp/t/kjP6]]より転載）
+
+Extending consideration
+Time starts stopping
+
+Light and the dark
+Chain of the fate
+
+Fire in the future
+Past remains
+
+Memory to twinkle
+Miracle disappearing
+
+果てしなく広がる意識を感じて繰り返す時間を遡って
+記憶が映像のように流れるもう二度と見えない君の姿
+
+亜空間乗り越え断裂探していつかまた会えると信じている
+無数の未来が存在している運命を見つめて EXtend
+
+
+**コメント
+- いい！  -- 名無しさん  (2014-02-08 16:13:09)
+- あれ？ないの？って書いたら追加されてたー！  書いてくれた人乙です！  -- 名無しさん  (2014-02-08 20:24:06)
+- この曲本当に好き  -- sui  (2017-06-09 17:30:47)
+#comment()

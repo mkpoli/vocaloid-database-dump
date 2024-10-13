@@ -1,0 +1,132 @@
+#right(){&furigana(PinkorBlack)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&youtube(https://www.youtube.com/watch?v=aoTP5Aig-wU){342,187}|&youtube(https://www.youtube.com/watch?v=15FcK343I8o){342,187}|
+作詞：[[kz]]
+作曲：[[kz]]
+編曲：[[kz]]
+唄：[[初音ミク]]
+
+**曲紹介
+曲名：『&u(){Pink or Black}』
+-村上隆×シュウウエムラのアニメーション「6HP Pink or Black」のテーマ曲。
+
+**音楽配信
+//&ref(http://a5.mzstatic.com/us/r30/Features6/v4/77/81/aa/7781aa0a-f4b1-1f63-1b50-2726edf9bc9b/dj.cujaallf.170x170-75.jpg)
+&ref(https://is1-ssl.mzstatic.com/image/thumb/Features6/v4/77/81/aa/7781aa0a-f4b1-1f63-1b50-2726edf9bc9b/dj.cujaallf.jpg/632x632bb.webp,x=300)
+
+|CENTER:前作|CENTER:今作|CENTER:次作|
+|CENTER:[[Re:Dial]]|CENTER:&bold(){Pink or Black}|CENTER:[[DECORATOR EP]]|
+
+流通：配信
+発売：2013年11月6日
+価格：￥250
+レーベル：TOY'S FACTORY
+
+|&bold(){[[iTunes Storeで購入>>https://itunes.apple.com/jp/album/pink-or-black-feat.-hatsune/id730855247]]}|
+
+***曲目
++Pink or Black （feat. 初音ミク）
+
+**歌詞
+There are two of me inside myself
+One's an angel while the other is a devil
+But that's how I am, who I am
+Would you bless me for who I am?
+
+Pink or Black? Which do you like?
+The Magic reveals your another self.
+Pink or Black? &italic(){Henshin} my style.
+You can become anything.
+It's Magic
+Fantastic &italic(){na} Magic
+It's Magic
+
+There are two of me inside myself
+Me in heaven and another down in hell
+But that's how I am, who I am
+Would you not forsake me for who I am?
+
+Pink or Black? Which do you like?
+The Magic reveals your another self.
+Pink or Black? &italic(){Henshin} my style.
+You can become anything.
+It's Magic
+Fantastic &italic(){na} Magic
+It's Magic
+
+Just like the birth of a universe,
+with pink I am reborn
+I'll trap you inside a black hole with my black
+I know myself, yeah
+
+Pink or Black? Which do you like?
+Pink or Black? &italic(){Henshin} my style.
+
+Pink or Black? Which do you like?
+The Magic reveals your another self.
+Pink or Black? &italic(){Henshin} my style.
+You can become anything.
+It's Magic
+Fantastic &italic(){na} Magic
+It's Magic
+It's Magic
+
+#region(日本語訳)
+私の中に2人の私
+天使の私、悪魔の私
+でも、それが私自身なの
+そんな私を祝福してくれる？
+
+ピンクとブラック、どっちが好き？
+魔法がもう一人のあなたを露にする
+ピンクとブラック、変身。私のスタイル
+何にだってなれるの
+マジックだから
+ファンタスティックなマジック
+魔法だもの
+
+私の中に2人の私
+天国の私、地獄の私
+でも、それが私自身なの
+そんな私を見捨てないでくれる？
+
+ピンクとブラック、どっちが好き？
+魔法がもう一人のあなたを露にする
+ピンクとブラック、変身。私のスタイル
+何にだってなれるの
+マジックだから
+ファンタスティックなマジック
+魔法だもの
+
+宇宙の誕生みたいに、
+ピンクで私は生まれ変わる
+ブラックであなたをブラックホールの中に閉じ込めちゃう
+私は私を知っている
+
+ピンクとブラック、どっちが好き？
+ピンクとブラック、変身。私のスタイル
+
+ピンクとブラック、どっちが好き？
+魔法がもう一人のあなたを露にする
+ピンクとブラック、変身。私のスタイル
+何にだってなれるの
+マジックだから
+ファンタスティックなマジック
+魔法だもの
+マジックなの
+#endregion
+
+
+**コメント
+- 追加乙！  -- 名無しさん  (2013-12-15 19:51:53)
+- これはもっと評価されるべき  -- 名無しさん  (2014-02-27 00:22:29)
+- 完全にスルメ曲　pink or black? ~ の所が頭から離れなくなる  -- 名無しさん  (2014-03-09 01:34:48)
+- この曲は二番目に好き。曲ももちろんいいけど、ＰＶもサイコー。歌詞が英語だから、速く覚えたい。  -- 1925  (2015-09-19 09:44:56)
+- 味わい深い  -- 名無しさん  (2016-07-25 07:01:53)
+- アニメ化するみたいだね。見てみたいなぁ。  -- humeip  (2016-12-24 14:03:28)
+- すっごく好きなんだよね。特にサビのキラキラして跳ねる感じが最高。  -- 名無しさん  (2018-03-29 00:30:46)
+- この曲kzさんの曲で一番好きかもしれない  -- 名無しさん  (2018-05-02 03:07:23)
+#comment()

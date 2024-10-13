@@ -1,0 +1,48 @@
+#right(){&furigana(こみね)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://ext.nicovideo.jp/thumb_mylist/15972579" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/15972579">【ニコニコ動画】%E7%B3%96%E5%88%86%E3%81%8C%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%E3%82%93%E3%81%A0%E3%81%91%E3%81%A9</a></iframe>)
+
+**特徴
+作り手名：『&u(){こみね}』
+-可愛くふんわりとしたイラストが特徴の絵師。
+-当初は &bold(){めっころ} 名義で活動していた。
+-ニコ動では、[[samfree]]氏の楽曲『[[Gravity=Reality]]』より活動開始。
+-[[れるりり]]氏統括の大規模コラボ『[[Mr.Music]]』ではイラストを担当し、喝采を浴びた。
+-[[150P]]主宰の『&bold(){終焉ノ栞プロジェクト}』では絵及び動画担当として参加した。
+-自らが犯したある過ちがきっかけとなり、現在は活動自粛中。
+
+**リンク
+-[[pixiv>>https://www.pixiv.net/users/338884]]
+//-[[Twitter>>https://twitter.com/k_omine]]
+-[[piapro>>https://piapro.jp/AKI12288]]
+
+**曲
+#list_by_tag(こみね,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(こみねCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm8824425)|&nicovideo(sm12029867)|
+|&nicovideo(sm12060739)|&nicovideo(sm12105763)|
+|&nicovideo(sm12665505)|&nicovideo(sm12836057)|
+|&nicovideo(sm12941049)|&nicovideo(sm13758594)|
+|&nicovideo(sm13774194)|&nicovideo(sm14490969)|
+|&nicovideo(sm15032299)|&nicovideo(sm15207451)|
+|&nicovideo(sm15676851)|&nicovideo(sm15744975)|
+|&nicovideo(sm16187973)|&nicovideo(sm16322083)|
+|&nicovideo(sm16770185)|&nicovideo(sm17317376)|
+|&nicovideo(sm17341778)|&nicovideo(sm17403742)|
+|&nicovideo(sm17710284)|&nicovideo(sm17720979)|
+|&nicovideo(sm17804161)|&nicovideo(sm17917367)|
+|&nicovideo(sm18060733)|&nicovideo(sm18172311)|
+|&nicovideo(sm18570859)|>|
+
+**コメント
+- この人の絵好きなので勢いで作っちゃいました  -- 名無しさん  (2014-01-01 02:35:41)
+- 追加乙です！  -- 名無しさん  (2014-01-01 10:15:28)
+- セツナトリップもこみねさんだったのか・・  -- 名無しさん  (2016-04-02 04:26:39)
+#comment()

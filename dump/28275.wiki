@@ -1,0 +1,30 @@
+#right(){&furigana(げっそうか)&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1430_20140115002858_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[TKp product voice]]|CENTER:&bold(){月想歌/DAHLIA}|CENTER:[[select／start]]|
+
+|&bold(){[[テラ小室P]]}|ヒトリヅカタナコ|
+
+発売：2014年1月30日
+価格：￥300 / 1曲￥150
+流通：配信
+レーベル：KARENT
+
+|&bold(){[[iTunes Storeで購入する>>https://itunes.apple.com/jp/album/gessoka-dahlia-single/id807049096]]}|
+
+**CD紹介
+-巡音ルカ発売5周年を記念してリリースされた配信EP。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++[[月想歌]] （feat. 巡音ルカ）
++[[DAHLIA>DAHLIA/テラ小室P]] （feat. 巡音ルカ）
+
+**リンク
+-[[作者ブログ>>http://terakomurop.blog20.fc2.com/]]
+-[[KARENT：「月想歌/DAHLIA」>>http://karent.jp/album/1430]]
+-[[KARENT：「巡音ルカ聖誕祭'14」特集ページ>>http://karent.jp/special/luka14]]
+
+**コメント
+#comment()

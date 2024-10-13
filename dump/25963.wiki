@@ -1,0 +1,84 @@
+#right(){&furigana(toBLUEtoSEA)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm20062622)|
+作詞：[[NIYMORIY]]、sae
+作曲：[[NIYMORIY]]
+編曲：[[NIYMORIY]]
+唄：[[SONIKA]]、[[巡音ルカ]]
+
+**曲紹介
+>&bold(){"to BLUE"} Lyrics : sae
+曲名：『&u(){to BLUE / to SEA}』
+
+**歌詞
+（動画内歌詞より転載）
+
+MY LIFE IS BLUE AND LUNAR
+BUT BLUE, YOU MAKE ME ALIVE
+ONLY YOU AND MOON CAN
+YOUR HOPE IS MY HOPE
+YOUR PEACE IS MY PEACE
+YOUR HAPPINESS IS MY HAPPINESS
+DON T YOU KNOW?
+I HAVE NO WORDS TO CONVEY HOW I LOVE YOU
+SO I WON T SAY ANY WORDS OF LOVE
+
+I NEED YOU
+I BELIEVE YOU
+I LOVE YOU
+I WISH YOU HAPPY, BLUE
+
+My life is blue and lunar
+But BLUE, 
+you make me alive
+Only you and moon can
+My life is blue and lunar
+
+I HAVE NO WORDS TO CONVEY HOW I LOVE YOU
+SO I WON T SAY ANY WORDS OF LOVE
+
+I NEED YOU
+I BELIEVE YOU
+I LOVE YOU
+I WISH YOU HAPPY, BLUE
+
+My life is blue and lunar
+But BLUE, 
+you make me alive
+Only you and moon can
+My life is blue and lunar
+
+My life is blue and lunar
+But BLUE, 
+you make me alive
+
+とどいてほしいの
+この音　きこえる？
+君が　くれたもの
+この音に込めるよ
+
+とどいてほしいの
+この音　きこえる？
+君が　くれたもの
+この音に込めるよ
+
+とどいてほしいの
+この音　きこえる？
+君が　くれたもの
+この音に込めるよ
+
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+**コメント
+- wikiの仕様上の問題で、ページ名の半角スラッシュを全角にしました。ご了承ください。  -- 名無しさん  (2013-06-27 23:27:46)
+#comment()
+
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)

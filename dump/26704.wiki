@@ -1,0 +1,77 @@
+#right(){&furigana(Anonymous)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm20093688)|
+作詞：Aki（[[EmpathP]]) 
+作曲：Aki（[[EmpathP]]) 
+編曲：Aki ([[EmpathP]]) 
+PV：[[Porifra]]
+唄：[[KAITO V3(ENGLISH)>>KAITO]]
+
+**曲紹介
+曲名：『&u(){Anonymous}』
+-KAITO V3公式デモソング。
+
+**歌詞
+（[[作者ホームページ>>http://empathp.bandcamp.com/track/anonymous-feat-kenji-b]]より転載）
+
+It’s been running through my mind
+I wanna say it one more time
+But when I try to speak the words just fly away from me
+
+So I’m taking the chance to write it down
+And send it out into this lonely town
+And hope that you’ll see it somehow
+
+If you find
+This message that I left behind
+You’ll know that time has pulled me away from you
+And though I don’t know who you are
+And I am far away
+I love you all the same
+Even though you will never know my name
+
+I know that I could never hide
+The little things I felt inside
+And like the days grew long it just kept growing stronger
+
+So if one day it finally reaches
+And you can feel what I was feeling too
+Remember what I said to you
+
+If you find
+This message that I left behind
+You’ll know that time has pulled me away from you
+And though I don’t know who you are
+And I am far away
+I love you all the same
+Even though you will never know my name
+
+If you find
+This world is leaving you behind
+And feel like time is pulling away from you
+Just believe in who you are
+And know that far away
+I love you all the same
+Even though you will never know my name
+
+No, you’ll never know my name
+
+You will never know my name
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+**コメント
+- 追加おつ！  -- 名無しさん  (2013-09-13 02:08:36)
+- そっと評価されてほしい。素晴らしい曲だ。  -- とま斗  (2013-12-20 18:54:10)
+- この曲すっごく素敵なのに…。もっとたくさんの人に聞いてほしい。  -- 名無しさん  (2014-02-04 02:12:59)
+- 声がとても爽やかで、聴いているとすっきりした気分になれる。動画も、兄さんがキリッと可愛くて好き。  -- 名無しさん  (2014-03-06 15:46:13)
+#comment()
+
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)

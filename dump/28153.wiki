@@ -1,0 +1,55 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#ref(http://img.toranoana.jp/popup_img/04/0030/18/46/040030184601-1p.jpg,width=300,height=300)
+
+
+&nicovideo(http://www.nicovideo.jp/watch/sm22671169)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[LILIUM DOLL]]|CENTER:&bold(){YANDELOID CONCEPTION}|CENTER:[[Sanctuary>Sanctuary/selePCD]]|
+
+|&bold(){[[seleP]]}|[[優木きら]]|
+
+|流通|CENTER:同人|CENTER:配信|
+|発売|CENTER:2014年3月1日|2017年7月9日|
+|価格|CENTER:￥1,575（税込）||
+|サークル|>|CENTER:UFERIUM|
+
+**CD紹介
+-seleP 待望の 3rd album は、ヤンデロイドに特化した、コンセプトアルバム。
+-未発表新曲に加え、既存曲もリミックス・エクステンドミックス・ボーカル変更などされており、このCDでしか聴けない音源も多数収録。全16曲。
+-ジャケットイラストなどのアートワークを [[優木きら]]氏 が、マスタリングを [[Dios/シグナルP>シグナルP]] が手掛ける。
+-優木きら氏 による収録楽曲をイメージした描き下ろしフルカラーブックレット（全28P）が付属。
+-とらのあな限定で委託販売される。
+-現在iTunes等でも配信中。
+
+**曲目
++[[Blood Error]] feat. Lily
++[[ELLIE]] feat. MAYU
++[[Elsa-Maria]] feat. MAYU
++[[Chloe]] feat. Lily
++[[Marie-Luise]] feat. Lily
++[[CARLA]] feat. 結月ゆかり
++CHARLOTTE feat. 結月ゆかり
++[[Kill me,Queen]] feat. IA
++LILIUM DOLLS feat. Lily & IA
++ALETHEA feat. Lily
++[[Under of Fragments]] feat. Lily
++No,28 feat. MAYU
++[[Lience]] feat. 結月ゆかり
++[[Scarlet Rose]] feat. Lily
++[[Re;BIRTH]] feat. Lily
++[[Ref-Rain]] feat. Lily
+
+**リンク
+-[[UFERIUM（作者ブログ）>>http://ufena39.blog61.fc2.com/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/18/46/040030184601.html]]
+-[[iTunes Store>>https://itunes.apple.com/jp/album/yandeloid-conception/1253464663]]
+
+**コメント
+- めっちゃ欲しいぃいい!!!  -- 名無しさん  (2014-01-15 16:08:44)
+- とらのあなは３月１日からか、、はよ買いたい！  -- 名無しさん  (2014-01-15 17:41:44)
+- 買っちゃった♪No.28悲しいけど綺麗！  -- 名無しさん  (2014-03-06 10:51:03)
+- アルバムがリリースされる度に思うが歌詞カード厚いなｗｗイラスト多いし嬉しい  -- 名無しさん  (2014-03-17 18:52:09)
+- すごい良かった。ヤンデレ最高だぜ  -- 名無しさん  (2014-07-06 16:34:44)
+- ELLIEとElsa-Mariaが入ってたら絶対に買わなきゃな  -- 悠里  (2016-02-11 23:17:53)
+#comment()

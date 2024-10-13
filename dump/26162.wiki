@@ -1,0 +1,12 @@
+#right(){【登録タグ:&tags()】}
+//↑タグ忘れ防止のための表示
+曖昧さ回避のためのページ
+----
+-[[YUKKE]]の曲
+--[[Farewell/YUKKE]]
+-[[Wonder-K]]の曲
+--[[Farewell/Wonder-K]]
+-[[seleP]]の曲
+--[[Farewell/seleP]]
+
+#include(曖昧さ回避の追加の仕方/告知)

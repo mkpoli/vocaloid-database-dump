@@ -1,0 +1,51 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#amazon(B00CAKU0GW)
+
+|&nicovideo(http://www.nicovideo.jp/watch/sm20687388)|&YouTube(https://www.youtube.com/watch?v=O-3a6J8EjTg){336,189}|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[電脳旅団-サイバーブリゲイド-]]|CENTER:&bold(){Noah's Ark}|CENTER:[[チョコレイト日和]]|
+
+|&bold(){[[PolyphonicBranch]]}|
+
+|流通|CENTER:即売|CENTER:委託|CENTER:配信|
+|発売|CENTER:2013年4月27日|CENTER:2013年5月|CENTER:2015年9月30日|
+|価格|CENTER:￥1,000|CENTER:￥1,470（税込）&br()￥1,500（税込・Amazon）|CENTER:￥1,500|
+|サークル|>|>|CENTER:PolyphonicBranch|
+
+**CD紹介
+>&bold(){ぼくたちは箱舟に乗って、歌を紡ぐ旅に出たんだ}
+-PolyphonicBranch の同人第8弾となるVOCALOID-CD。
+-先行リリースされた『[[夢で逢いましょう]]』『[[Devil's Way]]』の2曲に新曲を加えた全14曲を収録。
+-収録曲全てが過去発表曲のVOCALOIDバージョンとなっている。
+--原曲収録CD名と対応トラック：『PARADISO』（M-7、12）、『Identity+』（M-13）、『The Blue Album』（M-1）、『The Red Album』（M-4～6、14）、『Brilliant White Noise』（M-3）、『&Gothika』（M-8～11）、『夏花蒼葬』（M-2）
+-アートワークを [[BUZZ]]氏 が、クロスフェード動画を [[ひなのすけ]]氏 が手掛ける。
+-THE VOC@LOiD 超 M@STER 24（超ボーマス24）にて頒布。
+-委託販売、ダウンロード販売も行われている。
+
+**曲目
++スタートライン feat. 鏡音リン
++蕾が死んだ日 feat. 初音ミク
++cureLESS feat. GUMI
++DeepForest feat. GUMI
++透明に feat. 初音ミク
++Daisy feat. 巡音ルカ
++[[夢で逢いましょう]] feat. 初音ミク
++[[Blindness>Blindness/PolyphoniｃBranch]] feat. 初音ミク
++アンジェリカ feat. 鏡音レン
++[[Devil's Way]] feat. 鏡音リン・レン
++お人形マーチ feat. 初音ミク
++砂の城 feat. 初音ミク
++夜に花 feat. IA
++喝采 feat. GUMI
+
+**リンク
+-[[作者サイト>>http://www.polyphonicbranch.com/]]
+-[[特設ページ>>http://polyphonicbranch.com/tokusetsu/noahsark.html]]
+-[[KARENT：「Noah's Ark」>>http://karent.jp/album/1801]]
+-[[iTunes Store>>http://itunes.apple.com/jp/album/noahs-ark/id1039742487]]
+
+**コメント
+- 追加おつ！  -- 名無しさん  (2013-04-24 00:42:56)
+- ヤバイ…ジャケ買いするところだった…内容も良かった…これで１０００は安い?  -- 名無しさん  (2013-04-25 16:21:24)
+#comment()

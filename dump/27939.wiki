@@ -1,0 +1,103 @@
+#right(){&furigana(△○□×)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/25806743" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/25806743">【ニコニコ動画】</a></iframe>)|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/60956069" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/60956069">【ニコニコ動画】</a></iframe>)|
+
+**特徴
+作り手名：『&u(){△○□×}』(&u(){みわ しいば})
+-絵師。名前の読みは決して○レイステーションではない。
+-ニコ動への初投稿は[[wowaka]]氏の『[[アンハッピーリフレイン]]』手書きPV。
+--その後は、[[ギガP]]や[[まふまふ]]氏などにイラストを提供している。
+-[[ツイ廃戦隊>>http://dic.nicovideo.jp/a/%E3%83%84%E3%82%A4%E5%BB%83%E6%88%A6%E9%9A%8A]]のメンバーである。カラーはピンク。
+--ツイ廃戦隊には他に[[しづ]]氏（レッド）、[[りゅうせー]]氏（ブラック）、ハイスピード藤森氏（パープル）などがいる。
+-また、「[[//θ>／／θ]]」等オリジナル曲も発表している。
+--2015年4月、「[[幽柩久音]]」にてボカロPデビュー。
+-使用合成音声は[[鏡音リン・レン]]・[[v flower]]・[[鳴花ヒメ・ミコト]]。
+--特にv flower・鳴花ヒメ・ミコトについては、VOCALOID4（flower）・VOCALOID5（ヒメ・ミコト）・ガイノイドTalk版のキャラクターデザインを担当している。
+**リンク
+-[[Star Vlasta（作者ホームページ）>>http://miwasiba.iinaa.net/]]
+-[[Twitter>>http://twitter.com/miwasiba]]
+-[[piapro>>http://piapro.jp/nekokanmaru]]
+-[[YouTube>>http://www.youtube.com/channel/UCml5apQ8VqqKPKUCvDzl3VQ]]
+-[[pixiv>>http://www.pixiv.net/member.php?id=2550807]]
+
+**曲
+#list_by_tag(△○□×,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(△○□×CD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm14778183)|&nicovideo(sm15250382)|
+|&nicovideo(sm15514904)|&nicovideo(sm15539062)|
+|&nicovideo(sm16063479)|&nicovideo(sm16533455)|
+|&nicovideo(sm17824282)|&nicovideo(sm17839205)|
+|&nicovideo(sm18138987)|&nicovideo(sm18328560)|
+|&nicovideo(sm18897678)|&nicovideo(sm18972745)|
+|&nicovideo(sm19340418)|&nicovideo(sm19509983)|
+|&nicovideo(sm19532707)|&nicovideo(sm20060328)|
+|&nicovideo(sm20212767)|&nicovideo(sm20441465)|
+|&nicovideo(sm20491271)|&nicovideo(sm20494920)|
+|&nicovideo(sm20694465)|&nicovideo(sm20792078)|
+|&nicovideo(sm20937824)|&nicovideo(sm21092041)|
+|&nicovideo(sm21121747)|&nicovideo(sm21224111)|
+|&nicovideo(sm21497637)|&nicovideo(sm21528069)|
+|&nicovideo(sm21683199)|&nicovideo(sm22097485)|
+|&nicovideo(sm22137548)|&nicovideo(sm22349544)|
+|&nicovideo(sm22488685)|&nicovideo(sm22834321)|
+|&nicovideo(sm22925995)|&nicovideo(sm23134050)|
+
+**アルバムクロスフェード
+|&nicovideo(sm16533708)|&nicovideo(sm17568571)|
+|&nicovideo(sm19292640)|&nicovideo(sm19437394)|
+|&nicovideo(sm20653453)|&nicovideo(sm20654227)|
+|&nicovideo(sm21337204)|&nicovideo(sm22178638)|
+|&nicovideo(sm22314348)||
+
+|>|BGCOLOR(blue):COLOR(#FFF):CENTER:&font(b,11pt){オリジナル曲}|
+|&youtube(https://www.youtube.com/watch?v=KJ6WbyFHeT8){342,185}|&youtube(https://www.youtube.com/watch?v=7dRVKwewfnI){342,185}|
+|&nicovideo(sm32557402)|&youtube(https://www.youtube.com/watch?v=X8TpJt55pg4){342,185}|
+|&nicovideo(sm32632204)|&nicovideo(sm32701039)|
+|&nicovideo(sm32726595)|&nicovideo(sm33430892)|
+|&nicovideo(sm33779210)|&nicovideo(sm34349979)|
+|&nicovideo(sm34850093)|&youtube(https://www.youtube.com/watch?v=F2gAbocH-5c){342,185}|
+|&nicovideo(sm37019336)||
+
+**関連タグ内の更新履歴
+#region(close,関連タグ内の更新履歴)
+関連タグ内の更新履歴
+※「△○□×」「△○□×CD」タグ内で最近編集やコメントのあった記事を新しい方から10件表示しています。
+#list_by_tagsearch(△○□×,△○□×CD,sort=timestamp,sort2=desc,errmsg=まだ曲、CDが登録されていません。,or,10)
+#endregion
+
+**コメント
+- とりあえず作成しました。  -- 東八朴  (2013-12-30 03:48:50)
+- やっとページの作成終わりました!  -- 東八朴  (2013-12-30 06:29:20)
+- おお！作成乙！  -- ｍ  (2013-12-30 13:27:16)
+- 作成乙です！　みわしいばさんのイラスト好き！！  -- 実花  (2013-12-30 16:25:39)
+- おお！！  -- 名無しさん  (2013-12-30 16:57:11)
+- みわしいばと読むんだ。初めて知った！  -- 名無しさん  (2013-12-30 18:00:53)
+- この人ってゲームも作ってたよね？  -- 名無しさん  (2013-12-30 20:46:09)
+- 夕暮れ蝉日記の絵が大好き！  -- 終焉P  (2013-12-30 20:58:00)
+- 作成乙です　マウサー説は本当なんだろうか…？  -- 名無しさん  (2013-12-30 22:05:48)
+- 遂にページできたんだ´д`   ↑マウサーは初期の頃。今は普通にペンタブ使ってる。  -- 名無しさん  (2014-01-12 21:26:57)
+- 作成乙ですー！！絵が可愛くて好みの絵柄で好きです(*´▽｀*)  -- 日本語苦手な日本人  (2014-01-28 19:15:39)
+- 男だとは思わなかった…  -- 名無しさん  (2014-04-04 05:00:39)
+- 今は液タブつかってるんだよな？色使いとか特に好きだなぁ  -- 名無しさん  (2014-06-17 01:04:40)
+- 何度でも聞きたい  -- ００1  (2014-06-22 19:13:44)
+- ＋♂で知りました！レン可愛かったです  -- 支離滅裂  (2014-08-17 21:01:06)
+- 私も△○□×←が、「みわいしば」って読むと知らなかったです!でもみわいしばさんの絵好きです!！  -- 名無しさん  (2014-09-01 16:17:54)
+- 不思議なお方ですね。まるで魔法使いです。  -- 名無しさん  (2014-09-05 21:41:15)
+- みわしいばさんってアリスメアやLiEatっていうゲームも作ってるらしいよ(*´∇｀*)  -- mikan  (2014-10-10 18:33:34)
+- ↑すごく面白いゲームだから僕的にオススメです  -- 蛍  (2014-11-21 23:20:53)
+- ↑LiEatってみわしいばさんだったんだ!!LiEatめっちゃ好きです!!絵柄もすごく可愛いし!!  -- >おかゆ  (2014-12-31 10:33:08)
+- とてもおもしろいです。  -- 名無しさん  (2015-05-16 13:29:18)
+- 色遣いや動画の雰囲気がすきです  -- 名無しさん  (2015-05-16 17:42:01)
+- みわしいばさんすっごく好きです!!可愛い!憧れですー!  -- 眞架  (2015-06-21 20:19:05)
+- 最初三角丸四角ばつさんだと思った。  -- D音  (2016-01-30 09:53:31)
+- ↑同じく三角丸四角ばつさんだと思ってた。ギガンティックO.T.Nで読み方「みわしいば」って知った。これみわしいばって読むの！？ってビックリしたの覚えてるわ・・・。  -- 藍鉄  (2017-01-04 17:03:02)
+//- 妹が嬢とか可哀想だよなぁ…アッ○ルティーて店にいるぞwwww  -- 名無しさん  (2017-01-09 19:33:35)
+- みわしいばさんの絵は可愛いよね。有名曲のイラストも描いてるしもっと知ってもらいたい  -- 名無しさん  (2017-03-29 19:32:02)
+#comment()

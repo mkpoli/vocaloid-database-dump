@@ -1,0 +1,12 @@
+#right(){【登録タグ:&tags()】}
+//↑タグ忘れ防止のための表示
+曖昧さ回避のためのページ
+----
+-[[Anemone>Anemone/作り手]]の曲
+--[[image/Anemone]]
+-[[SmileR]]の曲
+--[[image/SmileR]]
+-[[pocco]]の曲
+--[[image/picco]]
+
+#include(曖昧さ回避の追加の仕方/告知)

@@ -1,0 +1,39 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#ref(http://img.toranoana.jp/img/04/0030/16/88/040030168807-1.gif)
+&nicovideo(http://www.nicovideo.jp/watch/sm22220587)
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[TEXT]]|CENTER:&bold(){Dot.}|CENTER:[[Clock]]|
+
+|&bold(){[[ねこぼーろ]]}|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|CENTER:2013年11月17日||
+|価格|CENTER:￥500（税込）|CENTER:￥714（税別）|
+|サークル|>|CENTER:Polymatope|
+
+**CD紹介
+>&bold(){\おひさしぶりです/}
+-7曲入りミニアルバム。
+-ジャケットイラストは すち氏 が手掛ける。
+-THE VOC@LOiD M@STER 27（ボーマス27）にて頒布。
+-とらのあなにて委託販売が行われていた。
+
+**曲目
++Quantum-dot
++[[自傷無色]]
++ライフゲーム
++rain
++朝焼けと窓
++[[エイプリループ]]
++さよなら伝言ラブゲーム
+
+**リンク
+-[[作者マイリスト>>http://www.nicovideo.jp/mylist/13459994]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/16/88/040030168807.html]]
+
+**コメント
+- おお！  -- 名無しさん  (2013-11-10 22:18:41)
+- 大好き  -- 名無しさん  (2014-02-28 20:49:44)
+- 好き  -- 名無しさん  (2015-07-29 19:04:24)
+- 自傷無色目当てで買ったあと「エイプリループ」目当てで  -- 良太  (2015-07-29 20:34:48)
+#comment()

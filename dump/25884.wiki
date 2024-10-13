@@ -1,0 +1,31 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1252_20130410230029_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[LAST CHRISTMAS feat.初音ミク]]|CENTER:&bold(){NEXT ON YOU}|CENTER:[[Story Rider feat.初音ミク]]|
+
+|&bold(){[[エレキP>BIGHEAD]]}|
+
+発売：2013年4月24日
+価格：￥600 / 1曲￥150
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：AYAKO HISHINUMA
+
+**CD紹介
+-エレキPのシングル。
+-初のオリジナル曲。
+-「KARENT」と「ROTH ENTERTAINMENT」による共同レーベル、「Lip Sync Records」からのリリース第7弾となる。
+
+**曲目
++NEXT ON YOU (ENGLISH ver.) （feat. 初音ミク）
++NEXT ON YOU (JAPANESE ver.) （feat. 初音ミク）
++NEXT ON YOU （instrumental）
++NEXT ON YOU (acappella) （feat. 初音ミク）
+
+**リンク
+-[[Lip Sync Records>>http://lipsync-records.jp]]
+-[[KARENT：「NEXT ON YOU」>>http://karent.jp/album/1252]]
+
+**コメント
+#comment()

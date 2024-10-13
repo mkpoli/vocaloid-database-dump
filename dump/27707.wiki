@@ -1,0 +1,105 @@
+#right(){&furigana(きむらわいP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/34084050" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/34084050">【ニコニコ動画】</a></iframe>)
+
+**特徴
+作り手名：『&u(){木村わいP}』（&u(){きむらわいP}）
+-木村兄弟の弟の方。兄は替え歌師で絵師でギタリストのshelfall氏。
+-兄が作った「理系のうた」のカバーでボカロPデビューした。
+-ピアノをメインとした曲が多いが、歌詞とタイトルはだいぶアレである。特に「テストシリーズ」は有名。
+-中には真面目な曲もある。
+-本人のYouTubeアカウントが2回誤BANされている。
+-P名の由来は、上記の歌に出て来る「キムワイプ」から。
+-ちなみにtwitterを見れば分かるが、shelfall氏と木村わいPは同一人物である。
+-「[[高音厨音域テスト]]」で自身初の殿堂入りを達成し、その後ミリオンも達成した。
+
+**ミリオン達成状況
+|CENTER:&bold(){曲名}|CENTER:&bold(){100万再生}|CENTER:&bold(){備考}|
+|[[高音厨音域テスト]]|2018年6月22日||
+
+**リンク
+-[[PIAPRO>>https://piapro.jp/shelfall_kimura]]
+-[[twitter>>https://twitter.com/kimura_yp]]
+//-[[YouTube>>http://www.youtube.com/user/shelfall]]
+-[[YouTube>>https://www.youtube.com/channel/UCmSl4E0Jy6cxV4b1CH8HGvQ]]
+-[[公式HP（わいぴー工房）>>https://kimura-yp.medy.jp/]]
+
+**曲
+#list_by_tag(木村わいP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(木村わいPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm19066111)|&nicovideo(sm19408638)|
+|&nicovideo(sm19582806)|&nicovideo(sm19767816)|
+|&nicovideo(sm20497062)|&nicovideo(sm20933089)|
+|&nicovideo(sm20953223)|&nicovideo(sm21511585)|
+|&nicovideo(sm21623813)|&nicovideo(sm21647485)|
+|&nicovideo(sm21666380)|&nicovideo(sm21807425)|
+|&nicovideo(sm21892939)|&nicovideo(sm22020583)|
+|&nicovideo(sm22242180)|&nicovideo(sm22371791)|
+|&nicovideo(sm22486478)|&nicovideo(sm22605493)|
+|&nicovideo(sm22705725)|&nicovideo(sm22940714)|
+|&nicovideo(sm23027261)|&nicovideo(sm23212603)|
+|&nicovideo(sm23288542)|&nicovideo(sm23323144)|
+|&nicovideo(sm23484732)|&nicovideo(sm23574635)|
+|&nicovideo(sm23746749)|&nicovideo(sm23892100)|
+|&nicovideo(sm23966634)|&nicovideo(sm24048365)|
+|&nicovideo(sm24099085)|&nicovideo(sm24197782)|
+|&nicovideo(sm24288673)|&nicovideo(sm24476574)|
+|&nicovideo(sm24678250)|&nicovideo(sm24840638)|
+|&nicovideo(sm25049638)|&nicovideo(sm25306059)|
+|&nicovideo(sm25405673)|&nicovideo(sm25506929)|
+|&nicovideo(sm25553999)|&nicovideo(sm25583275)|
+|&nicovideo(sm25676791)|&nicovideo(sm25760514)|
+|&nicovideo(sm26050968)|&nicovideo(sm26141345)|
+|&nicovideo(sm26257437)|&nicovideo(sm26816856)|
+|&nicovideo(sm26873950)|&nicovideo(sm27089590)|
+|&nicovideo(sm28145605)|&nicovideo(sm28292474)|
+|&nicovideo(sm28443862)|&nicovideo(sm29426570)|
+|&nicovideo(sm30258713)|&nicovideo(sm30422042)|
+|&nicovideo(sm30602722)|&nicovideo(sm37117160)|
+|&nicovideo(sm37317686)|&nicovideo(sm37421261)|
+|&nicovideo(sm37466912)|&nicovideo(sm37607770)|
+|&nicovideo(sm37786416)|&nicovideo(sm37949222)|
+|&nicovideo(sm38015268)|&nicovideo(sm38058266)|
+|&nicovideo(sm38141342)|&nicovideo(sm38191491)|
+|&nicovideo(sm38295753)|&nicovideo(sm38350073)|
+|&nicovideo(sm38453247)|&nicovideo(sm38510453)|
+|&nicovideo(sm38550829)|&nicovideo(sm38711910)|
+|&nicovideo(sm38626615)|&nicovideo(sm38732641)|
+|&nicovideo(sm38902705)|&nicovideo(sm39055068)|
+|&nicovideo(sm39671601)|&nicovideo(sm39686102)|
+|&nicovideo(sm39707836)|&nicovideo(sm39737988)|
+|&nicovideo(sm39786999)|&nicovideo(sm39870051)|
+|&nicovideo(sm40041386)|&nicovideo(sm40065088)|
+|&nicovideo(sm40169852)|&nicovideo(sm40196704)|
+|&nicovideo(sm40283334)|&nicovideo(sm40348239)|
+|&nicovideo(sm40362857)|&nicovideo(sm40469993)|
+|&nicovideo(sm40531666)|&nicovideo(sm40612149)|
+|&nicovideo(sm40629763)|&nicovideo(sm40708772)|
+|&nicovideo(sm40774458)|&nicovideo(sm41496142)|
+|&nicovideo(sm41571550)|&nicovideo(sm41782879)|
+|&nicovideo(sm41832489)|&nicovideo(sm41944723)|
+|&nicovideo(sm42019263)|&nicovideo(sm42065040)|
+|&nicovideo(sm42372692)|&nicovideo(sm42624762)|
+|&nicovideo(sm42818883)|&nicovideo(sm42987721)|
+|&nicovideo(sm43099901)|&nicovideo(sm43119044)|
+|&nicovideo(sm43144311)|&nicovideo(sm43167999)|
+|&nicovideo(sm43254495)|>|
+//|&nicovideo()|&nicovideo()|
+
+**コメント
+- 作成ありがとうございます！おつです！  -- すがり  (2013-12-12 23:01:41)
+//- 高1男子lowfすら出ないwwww  -- すずめ  (2014-02-21 14:39:06)
+//- ↑低音域テストｗｗ自分も同じ。と、いうか
+- この人はもっと評価されるべき。  -- 名無しさん  (2014-02-28 20:51:06)
+- そうですよね、この人はもっと評価されるべきですｗ  -- 名無しさん  (2014-04-01 20:18:58)
+- ｢木村兄弟の弟の方。兄は替え歌師で絵師でギタリストのshelfall氏。｣…と書いていてなおかつ、｢ちなみにtwitterを見れば分かるが、shelfall氏と木村わいPは同一人物である。｣って…  -- つまり一人なの？  (2014-09-25 22:58:07)
+- テストシリーズ面白いから好きだけど、合格させる気ないよね？(笑) がんばって下さい！  -- ミク廃  (2014-10-29 19:29:55)
+//- マジで、lowlowとか誰が出るんだよｗ  -- 名無しさん  (2015-06-15 13:17:48)
+#comment()

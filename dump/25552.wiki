@@ -1,0 +1,42 @@
+#right(){&furigana(clear)&furigana()【登録タグ:&tags() 】}
+&nicovideo(sm20203847)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){13ROCK}|CENTER:[[蒼天ファンタジア]]|
+
+|&bold(){[[傘音]]}|
+
+発売：2013年3月24日
+価格：￥1,500（税込） 頒布価格 :　￥ 1,000(税込)
+流通：即売　同人　配信
+
+**CD紹介
+-傘音1st Album『13ROCK』(初音ミク　GUMI CUL galaco)
+-ボカロP活動一年を経てリリース、「恋哀DEATHゲーム」「限界ギリギリ妄想boy」「怪物デンジャーGIRL」「ロンリースター」などの人気曲からなる13の熱いROCKサウンドが繰り広げる、ギターサウンドの生える刺激的な内容に仕上がっている。
+-初回生産限定トラックとして「コンピューターおばあちゃん」が収録されている
+-JOYSOUND SHOPPING MALLにて委託販売中
+-dwango.jpにてアルバム全曲配信中
+-CDジャケットは桜木蓮が手がける
+
+**曲目
++Dive to ROCK
++[[恋哀DEATHゲーム]]
++[[ALIVE - world end -]]
++[[DEVIL FLAME>デビルフレイム]]
++[[DARK SIDE]]
++[[ROCK - ミエナイチカラ -]]
++[[RISE]]
++[[天誅]]
++[[怪物デンジャーGIRL]]
++[[ロンリースター]]
++[[限界ギリギリ妄想boy]]
++[[DEAD or LOVE]]
++End of sorrow
++コンピューターおばあちゃん (初回生産限定ボーナストラック)
+
+**リンク
+-[[CD『13ROCK』通販>>http://mstore.utasuki.jp/utasuki/html/kasane.html]]
+-[[着うた(ドワンゴ)『13ROCK』全曲配信>>http://pc.dwango.jp/searches/artist/%E5%82%98%E9%9F%B3]]
+
+**コメント
+#comment()

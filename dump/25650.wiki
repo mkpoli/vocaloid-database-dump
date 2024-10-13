@@ -1,0 +1,42 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#amazon(B00D2OEPSE)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm20652688)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[the VOCAJAZZ vol.2]]|CENTER:&bold(){the VOCAJAZZ vol.3}|CENTER:[[THE VOCAJAZZ LIVE SESSIONS]]|
+
+|&bold(){[[喜兵衛]]}|[[Chiquewa]]|[[ぱんだっち]]|[[Man_boo]]|なき|[[∀ku2]]||
+|[[南のP]]|[[さはら]]|[[tarezo]]|[[鍵盤無双P]]|[[ココアシガレットP]]|rina|[[なきゃむりゃ]]|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2013年4月27日|CENTER:2013年6月|
+|価格|CENTER:￥1,000|CENTER:￥1,700（税込）|
+|サークル|>|CENTER:the VOCAJAZZ|
+
+**CD紹介
+-VOCAJAZZコンピレーションアルバム第3弾。
+-今作では10組のPによるVOCAJAZZ曲を収録。
+-THE VOC@LOiD 超 M@STER 24（超ボーマス24）で頒布。
+-Amazonで委託販売が行われている。
+
+**曲目
++[[深紅の薔薇にくちづけを]] / [[Chiquewa]]（VOCALOID programing：[[ぱんだっち]]）
++[[ワンルーム・オール・ザット・ジャズ]] / BaguettesEnsemble（オリジナル：[[DATEKEN]]）
++コンセント / [[喜兵衛]]
++きみへのうた / [[Man_boo]]（作詞：なき）
++[[落陽]] / [[∀ku2]]
++[[Biggity Buddy Be Down]] / [[oz_hiro（南のP）>南のP]]（作詞：[[さはら]]）
++Vertigo / [[tarezo]]
++帰っておいで / [[たけ（鍵盤無双P）>鍵盤無双P]]
++My Sword / [[GYARI（ココアシガレットP）>ココアシガレットP]]（作詞：rina）
++永劫回帰 / [[なきゃむりゃ]]
+
+**リンク
+-[[VOCAJAZZサイト>>http://vocajazz.com/]]
+-[[特設サイト>>http://vol3.vocajazz.com/]]
+-[[Amazon>>http://www.amazon.co.jp/dp/B00D2OEPSE/]]
+
+**コメント
+- これは素晴らしい  -- 作成乙  (2013-11-01 21:39:20)
+#comment()

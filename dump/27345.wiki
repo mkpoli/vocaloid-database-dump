@@ -1,0 +1,44 @@
+#right(){&furigana(でこれふぁんたじー)&furigana()【登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186125584.jpg,x=300,y=300)
+
+|&nicovideo(http://www.nicovideo.jp/watch/sm22230726)|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){デコレファンタジー}|CENTER:-|
+
+|&bold(){[[赤い彗星P]]}|[[森田せらぎ]]|
+
+|流通|CENTER:即売|
+|発売|CENTER:2013年11月17日|
+|価格|CENTER:￥1,000（税込）|
+|サークル|CENTER:アウトロ*メルヘン|
+
+**CD紹介
+-赤い彗星P の 1st full album.
+-『[[誰も知らない]]』『[[Tell me]]』『[[居酒屋センセーション]]』 などの既存曲に新曲を加えた全14曲を収録。
+-ジャケットイラストなどのアートワークを [[森田せらぎ]]氏 が、マスタリングを 抹茶氏 が手掛ける。3曲目の調声には 月白よつば氏 が参加。
+-森田せらぎ氏 初の個人イラスト集「Level4」も同ブースにてリリースされる。
+-THE VOC@LOiD M@STER27（ボーマス27）にてリリース。
+
+**曲目
++奇跡を起こすLipstick
++[[カラフルフライト]]
++Parallel line feat. 鏡音リン
++[[Sparkling blue]]
++[[My dear one]]
++[[ずっとまってるね]]
++[[harukaze]]
++[[Twinkle light]]
++[[スターラインドリーマー]]
++[[居酒屋センセーション]]
++なんだかそんなつもりきぶん
++[[白の世界]]
++[[Tell me]]
++[[誰も知らない]]-Extend mix-
+
+**リンク
+-[[Twitter>>http://twitter.com/Shir_ASP]]
+
+**コメント
+#comment()

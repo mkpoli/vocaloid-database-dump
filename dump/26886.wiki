@@ -1,0 +1,38 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo(sm21224562)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Summer Time Summer Girl 3]]|CENTER:&bold(){Summer Time Summer Girl 4}|CENTER:[[Summer Time Summer Girl 5]]|
+
+|&bold(){[[あつぞうくん]]}|[[ふわP]]|[[ちえP]]|[[クマロボ]]|[[れいな]]|
+|korumi|myomyo|[[リョータイ]]|mayupin|昔のバンド仲間|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2013年7月7日||
+|価格|CENTER:￥1,000|CENTER:￥1,470（税込）|
+|サークル|>|CENTER:ATZ Records|
+
+**CD紹介
+-あつぞうくん主宰ATZ Recordsの夏コンピCD第4弾。
+-ATZ records4度目の夏！今回は蒼姫ラピスをメインボーカルにお送りする、恒例の夏曲コンピレーションアルバムです！&br()あつぞうくん、クマロボ、ちえＰ、ふわP(すとり)、れいなによる、夏にぴったりなナンバーをご用意。イラストはおなじみの手鞠が担当します。今年の夏もスク水をお楽しみください（！？
+-THE VOC@LOiD M@STER 25（ボーマス25）にて頒布。委託販売も行われている。
+
+**曲目
++ナツコレ！ / クマロボ・マユピン
++Whisper Starlight / ちえ
++しろかべのカッフェ / ふわP（すとり）・myomyo
++ひなぎく / あつぞうくん・korumi
++れっつえんじょいさまー☆ / れいな
++夏恋時雨 / ちえ・リョータイ
++[[RE:SUMMER]] / ふわP（すとり）・リョータイ
++うみのなかま / れいな
++朝の糸車 / クマロボ・昔のバンド仲間
++花とストロベリー / あつぞうくん
+
+**リンク
+-[[特設ページ>>http://stsg4.atzrecords.com/]]
+-[[ATZ Records>>http://atzrecords.com/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/13/32/040030133221.html]]
+
+**コメント
+#comment()

@@ -1,0 +1,25 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Unbalance>Unbalance/EbotCD]]|CENTER:&bold(){Poker Face}|CENTER:[[Sandplay]]|
+
+|&bold(){[[Ebot]]}|
+
+発売：2012年12月31日
+価格：￥200
+流通：即売
+サークル：ウタカタ社中
+
+**CD紹介
+-Ebot氏のCD作品。
+-手焼きシングルCDで少数頒布。
+-コミックマーケット83（C83）で初頒布。
+
+**曲目
+-[[Poker Face]]
+-[[Unbalance>Unbalance/Ebot]]
+
+**リンク
+-[[サークルサイト>>http://utakatasyachu.blog.fc2.com/]]
+
+**コメント
+#comment()

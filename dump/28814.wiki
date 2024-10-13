@@ -1,0 +1,89 @@
+#right(){&furigana(BABYImissyou)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm23182521)|&YouTube(https://www.youtube.com/watch?v=AjVbGle0VY8){342,187}|
+作詞：[[かごめP]]
+作曲：[[かごめP]]
+編曲：[[かごめP]]
+イラスト：[[Drahtpuppe]]
+唄：[[鏡音リン>鏡音リン・レン]]・[[ZOLA PROJECT]]
+
+**曲紹介
+>&bold(){彼女と一緒にクラブへ行くことに憧れた青春でした。}&br()&br()なので、クラブでDJしてて若いカップル見かけると殺意が芽生えますね
+曲名：『BABY, I miss you』（&u(){べいびー,あい　みす　ゆう}）
+-コンピレーションCD『[[DQN STYLE]]』収録曲。
+
+**歌詞
+Hey BABY!! I like you!
+I like you! Hey BABY!!
+I miss you...
+
+I wanna BOY! You gotta TRY!
+I'm waiting for you (to) make a move, tonight.
+I wanna BOY! You gotta TRY!
+I'm waiting for you (to) make a move, tonight.
+I wanna BOY! You gotta TRY!
+I'm waiting for you (to) make a move, tonight.
+I wanna BOY! You gotta TRY!
+I'm waiting for you (to) make a move, tonight.
+for you (to) make a move, tonight.
+for you...
+Fuckin' gonna BABY!!
+
+Fuckin' gonna BABY!!
+You gotta Suckin' My Face
+Hey YO!!
+
+かなり熱暴走　つまり大恋情
+ショットグラスの隙間で
+光りだす夜のSparkle Noise
+
+I miss you!
+BABY!!BABY!! I like you!! I like you!!
+I'm waiting for you (to) make a move, tonight.
+BABY!!BABY!! I like you!! I like you!!
+I'm waiting for you (to) make a move, tonight.
+
+I wanna BOY! You gotta TRY!
+I'm waiting for you (to) make a move, tonight.
+I wanna BOY! You gotta TRY!
+I'm waiting for you (to) make a move, tonight.
+I wanna BOY! You gotta TRY!
+I'm waiting for you (to) make a move, tonight.
+I wanna BOY! You gotta TRY!
+I'm waiting for you (to) make a move, tonight.
+for you (to) make a move, tonight.
+for you...
+
+Hey BABY!! I like you!
+I like you! Hey BABY!!
+I miss you...
+
+ねぇ　見つめ返してよTonight
+ねぇ　わたし
+喧騒の中君の声　聞きたいよ
+暖かいね
+暗闇の中キミと
+耳を寄せて語り合って
+笑顔交わしたら
+手を取り合い
+騒がしい夜は更けてゆく
+
+I wanna You!
+You gotta TRY!
+
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+**コメント
+//- 追加おつ！  -- 名無しさん  (2014-03-29 03:31:06)
+- 歌詞ありがとうございます！  -- 名無しさん  (2015-01-15 21:43:14)
+#comment()
+
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)

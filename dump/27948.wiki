@@ -1,0 +1,62 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1422_20131229114108_0280_0280.jpg)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm22479316)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[まるくなる / たまごかけごはん / はやぶさバラード>まるくなる／たまごかけごはん／はやぶさバラード]]|CENTER:&bold(){FRONTIER -Into Eternal Space-}|CENTER:[[SECONDHANDED -Used&Junks- SECONDCOMMING]]|
+
+|&bold(){[[SHO（キセノンP）]]}|[[雪月佳]]|[[あきらめるP]]|
+
+|流通|CENTER:即売|CENTER:委託|CENTER:配信|
+|発売|CENTER:2013年12月31日||CENTER:2014年1月22日|
+|価格|CENTER:￥1,000|CENTER:￥1,470（税込）|CENTER:￥1,500 / 1曲￥150|
+|サークル|CENTER:XM|||
+
+**CD紹介
+>&bold(){あなたを74分間の宇宙の旅のご招待}
+-キセノンP 率いる音楽サークル XM の 5th album.
+-今作の楽曲コンセプトは「宇宙」。
+-既存曲の「[[あかつき]]」「[[IKAROS]]」「[[かぐや]]」に新曲などを加えた、全10曲を収録。
+-イラストなどのアートワークを [[雪月佳]]氏・ヤミ氏・[[あきらめるP]] の3人が、マスタリングを Mr.anti-noise氏 が手掛ける。
+-C85（コミックマーケット85）にてリリース。
+-メロンブックスととらのあなで委託販売が行われている。
+-KARENTレーベルよりダウンロード販売も行われている。配信版は曲目が増え全13曲となっている。
+
+**曲目
+***CD版
++LAUNCH -Mission into the Eternal Space-（inst.）
++[[あかつき]] feat. 初音ミク
++IES～新天地探して～ feat. 初音ミク
++さきがけ・すいせい feat. 鏡音リン・鏡音レン
++SUPERNOVA feat. 初音ミク
++だいち feat. 巡音ルカ
++[[IKAROS]] feat. 初音ミク
++TACHYON feat. 初音ミク
++[[かぐや]] feat. 初音ミク
++ETERNAL JOURNEY -FINAL FRONTIER- feat. 初音ミク
+
+***配信版
++LAUNCH -Mission into the Eternal Space-（inst.）
++[[あかつき]] （feat. 初音ミク&鏡音リン&鏡音レン&巡音ルカ&メグッポイド&CUL）
++IES～新天地探して～ （feat. 初音ミク&鏡音リン&鏡音レン&巡音ルカ）
++さきがけ・すいせい （feat. 鏡音リン&鏡音レン&結月ゆかり）
++SUPERNOVA （feat. 初音ミク&鏡音リン&鏡音レン&巡音ルカ&結月ゆかり）
++だいち （feat. 巡音ルカ&結月ゆかり）
++[[IKAROS]] （feat. 初音ミク&鏡音リン&鏡音レン&巡音ルカ）
++[[Swing-By>Swing-By/SHO（キセノンP）]] (MIKU VERSION:BONUS TRACK) （feat. 初音ミク&鏡音リン&鏡音レン&巡音ルカ）
++TACHYON （feat. 初音ミク&鏡音リン&鏡音レン&巡音ルカ）
++[[かぐや]] （feat. 初音ミク&鏡音リン&鏡音レン&巡音ルカ）
++ETERNAL JOURNEY -FINAL FRONTIER- （feat. 初音ミク&鏡音リン&鏡音レン&巡音ルカ&結月ゆかり）
++かぐや（Radio Edit） （feat. 初音ミク&鏡音リン&鏡音レン&巡音ルカ）
++ETERNAL JOURNEY -FINAL FRONTIER-（Radio Edit） （feat. 初音ミク&鏡音リン&鏡音レン&巡音ルカ&結月ゆかり）
+
+**リンク
+-[[サークルホームページ>>http://sound.jp/xenonmaiden/html_j/entrance.html]]
+-[[作者ブログ>>http://xenonp.dou-jin.com/]]
+-[[メロンブックス>>http://shop.melonbooks.co.jp/shop/list/MF/XM%2B-Xenon%2BMaiden-]]
+-[[とらのあな>>https://www.toranoana.jp/mailorder/article/04/0030/18/15/040030181519.html]]
+-[[KARENT：「FRONTIER -Into Eternal Space-」>>http://karent.jp/album/1422]]
+
+**コメント
+#comment()

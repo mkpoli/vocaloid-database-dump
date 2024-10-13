@@ -1,0 +1,40 @@
+#right(){&furigana(miro)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/32228581" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/32228581">【ニコニコ動画】</a></iframe>)
+
+**特徴
+作り手名：『&u(){miro}』(&u(){みろ})
+-2012年5月、 『[[バニラの夢]]』 にてボカロデビューしたロック系の作り手。
+-使用ボカロは今のところGUMI一筋。
+-3作目の 『[[トロイメライン]]』 がスマッシュヒット。
+-動画に使われているイラストは全て自作。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/miro36]]
+-[[Twitter>>http://twitter.com/oyasumiro]]
+
+**曲
+#list_by_tag(miro,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(miroCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|>|BGCOLOR(#557238):COLOR(#FFF):CENTER:&font(b,11pt){オリジナル曲}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm17970065)|&nicovideo(http://www.nicovideo.jp/watch/sm18467188)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm18953114)|&nicovideo(http://www.nicovideo.jp/watch/sm19850494)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm20973500)|>|
+
+**コメント
+- miroさんの曲全部大好き！トロイメラインはGUMI曲の中で1番好き！バニラの夢も中毒性高すぎでしょ！  -- 名無しさん  (2013-06-25 18:58:36)
+- 記事できとる！  -- 名無しさん  (2013-07-01 17:03:13)
+- おお！やっと記事できたか！  -- ネガ  (2013-07-01 21:01:22)
+- この人はホントにいい曲ばっかだからもっと評価されるべき…!!  -- 名無しさん  (2013-08-12 20:03:23)
+- miroさんの曲はマジで全部大好き。ハズレ曲が1つもない。どの曲も中毒性ありすぎ！  -- 名無しさん  (2013-08-12 20:05:48)
+- RPLでmiroさん知った！他の曲も聞いてみたらすぐ好きに…&#8252;&#65038;早くカラオケこないかな。  -- 名無しさん  (2013-12-11 23:37:01)
+- ウザイです。  -- 名無しさん  (2014-08-01 22:07:20)
+- ｍｉｒｏさんの曲好きです。  -- 名無しさん  (2014-08-14 08:11:38)
+#comment()

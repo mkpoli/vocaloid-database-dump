@@ -1,0 +1,34 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1321_20130630205558_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[TKp product wing]]|CENTER:&bold(){TKp product voice}|CENTER:[[月想歌/DAHLIA>月想歌／DAHLIA]]|
+
+|&bold(){[[テラ小室P]]}|
+
+発売：2013年7月10日
+価格：￥600 / 1曲￥150
+流通：配信
+レーベル：KARENT
+
+|&bold(){[[iTunes Storeで購入する>>https://itunes.apple.com/jp/album/tkp-product-voice-ep/id670964068]]}|
+
+**CD紹介
+-テラ小室Pの5曲入り配信ミニアルバム。
+-5曲ともTK風。
+-Tr.4「starlight winter love」はフルバージョンでの収録となっている。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++[[leave for me]] （feat. 初音ミク）
++[[STAY>STAY/テラ小室P]] （feat. 初音ミク）
++[[Cross Heart in Iris]] （feat. 初音ミク）
++[[starlight winter love]] （feat. 初音ミク）
++[[Believe>Believe/テラ小室P]] （feat. 初音ミク）
+
+**リンク
+-[[KARENT：「TKp product voice」>>http://karent.jp/album/1321]]
+-[[作者ブログ>>http://terakomurop.blog20.fc2.com/]]
+
+**コメント
+#comment()

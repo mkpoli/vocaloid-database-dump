@@ -1,0 +1,52 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+//#ref(http://i2.pixiv.net/img42/img/puzz/39662794_m.jpg,width=300,height=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm22228223)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[MONSTER BEERGARDEN]]|CENTER:&bold(){YOUTH WITHOUT YOUTH}|CENTER:[[ABnormal LEGACY]]|
+
+|&bold(){[[ナナホシ管弦楽団]]}|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2013年11月17日||
+|価格|CENTER:￥1,500（税込）|CENTER:|
+|サークル|>|CENTER:マキネシアDブロック|
+
+**CD紹介
+>&bold(){ロックは、二度死ぬ。}
+-ナナホシ管弦楽団の2ndアルバム。
+-収録曲は全曲書き下ろし。全14曲を収録。
+-ジャケットイラストなどのアートワークは No.734氏 が手掛ける。
+-No.734氏 の画集、『How the rock never die.』も同時リリース。
+-THE VOC@LOiD M@STER27（ボーマス27）にてリリース。
+-とらのあなで委託販売が行われていた。
+
+**曲目
++COOL AS FIRE -Shteed's Theme-
++[[Too young to beer.]]
++闇と花束のブルース
++ニトロクラクション
++LUCKY RIDE -Naon's Theme-
++YOUTH WITHOUT YOUTH
++R.E.D -Blare's Theme-
++[[RACER'S HIGH]]
++XX -Izac's Theme-
++俺たちに明日はない
++REGENERA
++[[DEAD SET]]
++野良猫の侵略
++My journey
+
+**リンク
+-[[Twitter>>http://twitter.com/sosite_iwamikun]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/18/72/040030187270.html]]
+
+**コメント
+- 野良猫の侵略やべぇ！他の曲もやべぇ！かっこよすぎる！  -- 名無しさん  (2013-11-21 03:00:34)
+- とらのあな通販再開した！現時点ではまだ残ってるから、買いたい人たち！急いでくれ  -- カーリ  (2014-02-11 14:07:28)
+- ↑ありがとう！！！即買った！！！  -- 名無しさん  (2014-02-25 20:14:14)
+- 全部良曲すぎてやばい・・・！！！買って良かったというか買わなきゃ損だと思う  -- 名無しさん  (2014-10-26 06:48:31)
+- もっと早くナナホシを知っていれば……  -- 名無しさん  (2016-03-13 02:17:39)
+- ちょくちょく再販されてるからtwitterをチェック  -- 名無しさん  (2016-11-01 18:52:45)
+#comment()

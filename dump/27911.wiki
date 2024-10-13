@@ -1,0 +1,51 @@
+#right(){&furigana(ぼうきゃくのもり)&furigana()【登録タグ:&tags()】}
+&nicovideo(http://www.nicovideo.jp/watch/sm15070937)
+作詞：[[ぱちょりん]]
+作曲：[[ぱちょりん]]
+唄：初音ミク
+
+**曲紹介
+>&bold(){ミクで英語を歌わせよう！というチャレンジです。}
+>&bold(){本当に日本語しか発音しないミクに悪戦苦闘。}
+>&bold(){曲はケルト調にして優しさと切ない雰囲気が出ていればと思います。}
+
+**歌詞
+（動画より転載）
+
+How many nights have I slept
+with the lullabay of the leaves.
+
+While watching the moon and sun setting
+I've living in this earth.
+
+The trees are playing the song of life.
+The time passes like the water in the valleys.
+
+Even if I would be left behind
+I'll wait till a wake.
+
+How many nights have we slept
+in the arms of the moon and the star.
+
+#region(close,訳詞（動画より転載）)
+-訳詞（動画より転載）
+
+幾千もの夜を眠り続けていた
+木の葉の唄を子守唄にして
+
+沈み行く太陽と昇り来る月を見つめながら
+この地に在り続けた
+
+木々は命の唄を歌い
+時は谷間に流れる水のごとく過ぎ去り
+
+皆が忘れ去ろうとも
+目覚めの時を待っている
+
+
+幾千もの夜を眠り続けていた
+月と星の光に抱かれながら
+#endregion
+
+**コメント
+#comment()

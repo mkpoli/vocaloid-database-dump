@@ -1,0 +1,34 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm21228668)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){RINGO FISH EP}&br()[[EBONY COATED]]|CENTER:[[Clione Box]]|
+
+|&bold(){[[ナノルーP]]}|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2013年7月7日|CENTER:2013年7月18日|
+|価格|CENTER:￥500|CENTER:￥666（税抜）|
+|サークル|>|CENTER:shabongazer|
+
+**CD紹介
+-ナノルーPの1stミニアルバム。
+-THE VOC@LOiD M@STER 25（ボーマス25）にて『[[EBONY COATED]]』と同時リリース。
+-ミク以外の音源はUTAU。
+-2017年に配信開始された[[bandcamp>>https://nogirroute.bandcamp.com/album/ringo-fish-ep]]にて音源のフル視聴が可能。
+
+**曲目
++RINGO FISH / Vo:初音ミク、名前のないこ
++CLOCKWORKERS / Vo:くあいあ
++[[INVISIBLAKE]] / Vo:初音ミク、名前のないこ
++1000 0 1000 KICK / Vo:名前のないこ、初音ミク
+
+**リンク
+-[[サークルサイト>>http://shabongazer.tumblr.com/]]
+-[[作者ブログ>>http://stergstage.seesaa.net/]]
+-[[アリスブックス>>http://alice-books.com/item/show/2023-1]]
+-[[bandcamp>>https://nogirroute.bandcamp.com/album/ringo-fish-ep]]
+
+**コメント
+- Ringo Fish格好良過ぎる...  -- 名無しさん  (2016-10-24 23:22:57)
+#comment()

@@ -1,0 +1,44 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#amazon(B00GI8RJLQ)
+
+
+&nicovideo(http://www.nicovideo.jp/watch/sm22391688)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){ROCKIN★ON}|CENTER:-|
+
+|[[篠倉]]|[[dust]]|[[なぎ]]|[[なぎさ]]|[[NOIN]]|[[yaka]]|[[yui]]|
+
+|流通|CENTER:即売|CENTER:通販|
+|発売|>|CENTER:2013年12月31日|
+|価格|CENTER:￥1,000（税込）|CENTER:￥1,470（税込）|
+|サークル|CENTER:篠倉荘の割とロックな仲間たち|CENTER:ZEO-DRIVE|
+
+**CD紹介
+-VOCAROCK で活動中のボカロP7名によるギターロック系コンピCD。
+-使用ボカロはミクオンリー。7人×2曲の全14曲を収録。
+-ジャケットイラストは 黒埼狗氏 が手掛ける。
+-C85（コミックマーケット85）にてリリース。通販・書店委託も予定している。
+
+**曲目
++[[ショコラ>ショコラ/yui]]　/　yui
++[[h-紫色]]　/　dust
++[[Re;fract]]　/　なぎ
++愁いに溺れて　/　なぎさ
++[[その笑顔に触れれば]]　/　yaka
++1374　/　篠倉 & NOIN
++[[ハルシオン]]　/　なぎさ
++[[バイバイスマイル]]　/　yui
++[[ホワイトナイト]]　/　篠倉
++[[造反ピエロの叫声]]　/　NOIN
++[[d-黄色]]　/　dust
++[[コトノハレイン]]　/　なぎ
++[[breath>breath/yaka]]　/　yaka
++[[アオイソラ]]　/　篠倉
+
+**リンク
+-[[特設ページ>>http://rockin-on.tumblr.com/]]
+-[[amazon>>http://www.amazon.co.jp/ROCKIN%E2%98%85ON-V-A/dp/B00GI8RJLQ/]]
+
+**コメント
+#comment()

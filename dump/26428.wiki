@@ -1,0 +1,35 @@
+#right(){&furigana(なつめちあき)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/38086083" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/38086083">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-2013年7月、「[[飛花落葉>飛花落葉/なつめ千秋]]」でボカロデビューした作り手。同作は反響が大きく、いきなりのヒットを記録し、そのまま初の殿堂入りも達成。
+-使用ボカロは今のところ、GUMI、初音ミク、鏡音リン・レン。
+-これまでに殿堂入りを達成した曲は以下の通り。&br()&list_by_tagsearch(なつめ千秋,殿堂入り,sort=furigana,option=nolist,nolistspace=、,100)
+-[[別名義に「L.Petty」「中野ゆう」がある。>https://www.youtube.com/channel/UC6IHbvg-rSVupb7WgCe_ayw/about]]
+
+**リンク
+-[[Twitter>>http://twitter.com/cak_ntm]]
+-[[youtube>>http://www.youtube.com/channel/UC6IHbvg-rSVupb7WgCe_ayw]]
+-[[pixivFANBOX>>http://www.pixiv.net/fanbox/creator/18863989]]
+
+**曲
+#list_by_tag(なつめ千秋,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(なつめ千秋CD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|>|BGCOLOR(#2bffff):COLOR(#FFF):CENTER:&font(b,11pt){オリジナル曲}|
+|&nicovideo(sm21429847)|&nicovideo(sm21827205)|
+|&nicovideo(sm23278457)|&nicovideo(sm23499767)|
+|&nicovideo(sm24282400)|&nicovideo(sm25094299)|
+|&nicovideo(sm28630702)|&nicovideo(sm33041434)|
+|&nicovideo(sm33450646)|&nicovideo(sm34149279)|
+|&nicovideo(sm34907754)|&nicovideo(sm35288017)|
+|&nicovideo(sm35834908)|&nicovideo(sm36619621)|
+|&nicovideo(sm39483903)||
+
+**コメント
+- 新曲来ないかな？  -- 名無しさん  (2017-02-15 23:55:52)
+- テレキャスターと白昼夢、名も無き囚人が好きです  -- 名無しさん  (2018-08-07 14:40:34)
+#comment()

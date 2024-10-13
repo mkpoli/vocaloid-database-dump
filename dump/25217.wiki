@@ -1,0 +1,37 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+|&nicovideo(http://www.nicovideo.jp/watch/sm20646647)|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){FLIGHT STYLE}|CENTER:-|
+
+|&bold(){[[確定P]]}|
+
+|流通|CENTER:即売|
+|発売|CENTER:2013年4月28日|
+|価格|CENTER:￥1,000（税込）|
+|サークル|CENTER:東京ヒヨコ国税局|
+
+**CD紹介
+-確定P こと piichica氏 の 1st album.
+-これまでリリースした既存曲からの選りすぐりに、書き下ろしの新曲を加えた全10曲を収録。
+-既存曲は全てリアレンジ・再ミックス。ロック、フォルクローレ、テクノポップ、ファンク、ラテンなど様々なジャンルに挑戦してみました。（作者コメ転載）
+-アートワークを No.734氏 が、MIX・マスタリングを 吉田省吾氏 が手掛ける。
+-THE VOC@LOiD 超 M@STER 24（超ボーマス2）にてリリース。
+
+**曲目
++Escape city
++[[泣き虫ガール]]
++[[ロストファンタジア]]
++[[無限ライフシステム]]
++カタオモイロボット
++[[全力ヒーローズ！]]
++[[グッバイ・ラストブルー]]
++いじわるメーカー
++[[かみさまの街]]
++ピピピワールド
+
+**リンク
+-[[Twitter>>http://twitter.com/piichicup]]
+
+**コメント
+#comment()

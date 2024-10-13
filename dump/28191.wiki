@@ -1,0 +1,36 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1416_20131221182642_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[FRONTIER -Into Eternal Space-]]|CENTER:&bold(){SECONDHANDED -Used&Junks- SECONDCOMMING}|CENTER:[[THIRDHANDED -Recycled Trash-]]|
+
+|&bold(){[[SHO（キセノンP）]]}|
+
+発売：2014年1月17日
+価格：￥600 / 1曲￥150
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：[[をかだ>>http://piapro.jp/wokada156]]
+
+|&bold(){[[iTunes Storeで購入する>>https://itunes.apple.com/jp/album/secondhanded-used-junks-secondcomming/id796414597]]}|
+
+**CD紹介
+-SHO（キセノンP）の配信アルバム。
+-『[[SECONDHANDED -Used & Junks- for DL>SECONDHANDED -Used & Junks-]]』収録曲の歌唱ボカロを変更するというコンセプトとなっている。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++AWAKENING （feat. 鏡音レン&巡音ルカ&メグッポイド）
++東京ブリザード （feat. 鏡音リン）
++[[私の痕跡]] （feat. 結月ゆかり）
++[[永久と刹那]] （feat. CUL）
++[[雪桜>雪桜/SHO（キセノンP）]] （feat. 巡音ルカ）
++[[おやすみ>おやすみ/SHO（キセノンP）]] （feat. メグッポイド）
+
+**リンク
+-[[サークルサイト>>http://sound.jp/xenonmaiden/html_j/entrance.html]]
+-[[作者ブログ>>http://xenonp.dou-jin.com/]]
+-[[KARENT：「SECONDHANDED -Used&Junks- SECONDCOMMING」>>http://karent.jp/album/1416]]
+
+**コメント
+#comment()

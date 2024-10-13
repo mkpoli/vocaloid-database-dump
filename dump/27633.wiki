@@ -1,0 +1,31 @@
+#right(){&furigana(みらいこうろ)&furigana()【登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186126062.jpg,x=300,y=300)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[WANOPO REMIXES01]]|CENTER:&bold(){未来光路}|CENTER:[[ワン☆オポ！vol.07]]|
+
+|&bold(){[[マイナスP]]}|
+
+発売：2013年4月27日
+価格：￥200
+流通：即売
+サークル：VOCALENDER
+
+**CD紹介
+-ボーカロイド関連のイベント情報をまとめたカレンダーサイト・VOCALENDERとワンダフル☆オポチュニティ！のコラボCD。
+-「カレンダー」をテーマとしたオリジナル曲を収録。
+-イラストをみった氏、各種デザインをBlack Knee High Soc氏が担当。
+-表題曲は作曲のマイナスPにとって初のミクオリジナル曲となる。
+-THE VOC@LOiD 超 M@STER 24（超ボーマス24）で初頒布。
+
+**曲目
++[[未来光路]]～ver.Miku～
++未来光路～ver.Miku～（Instrumental）
+
+**リンク
+-[[VOCALENDER>>http://vocalendar.jp/]]
+-[[ワンダフル☆オポチュニティ！公式サイト>>http://www.wan-opo.com/]]
+
+**コメント
+#comment()

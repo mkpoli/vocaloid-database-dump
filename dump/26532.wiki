@@ -1,0 +1,34 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#amazon(B00EU82STY)
+
+|&nicovideo(http://www.nicovideo.jp/watch/1379599644)|&youtube(http://www.youtube.com/watch?v=Qd0Uqqg5A-Y){336,189}|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){PASSING DAYS}&br()[[COMING DAYS]]|CENTER:-|
+
+|[[DECO*27]]|[[40㍍P]]|[[パイパンP]]|[[うたたP]]|
+
+発売：2013年09月03日
+価格：￥1,500（税込）
+流通：全国
+販売：ファミリーマート、ファミマ.com、Amazon.co.jp、U/M/A/Aストア
+
+**CD紹介
+-私たちのこれまでと、これからのこと 初音ミクが6年間で辿ったこれまでの「過去」と「未来」をテーマとしたCD。
+-このCDおよび、『[[COMING DAYS]]』の2タイトルが同時展開される。
+-ジャケットイラストは、漫画家真島ヒロの描き下ろし。
+
+**曲目
++[[HOME>HOME/DECO*27・40㍍P]] ／ [[DECO*27]]×[[40mP>40㍍P]]
++一緒に行こうよ、幸せな未来へ ／ [[ざにお>パイパンP]]×[[うたたP]]
++HOME(instrumental) ／ DECO*27×40mP
++一緒に行こうよ、幸せな未来へ(instrumental) ／ ざにお×うたたP
+
+**リンク
+-[[ファミリーマート>>http://www.family.co.jp/goods/recommend/miku_cd201308/index.html]]
+-[[amazon>>http://www.amazon.co.jp/dp/B00EU82STY]]
+-[[U/M/M/Aストア>>http://umaa.theshop.jp/items/183772]]
+
+**コメント
+- おおおお！  -- 名無しさん  (2013-08-28 18:46:33)
+#comment()

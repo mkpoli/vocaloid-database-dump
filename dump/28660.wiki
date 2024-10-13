@@ -1,0 +1,29 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/11312215" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/11312215">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-アニメソングなどのヒット曲を多数ボカロカバーしているボカロP。
+--ページ作成時までボカロオリジナル曲の投稿が無いため、曲ページが存在しない。（当Wikiではボカロオリジナルの曲のみ掲載可の為）
+-使用ボカロは、初音ミク、鏡音リン・レン、Megpoid、Lily、がくっぽいど。
+-鏡音リンの調声に定評があり、アニソンカバーである「[[sister's noise>>http://www.nicovideo.jp/watch/sm20766496]]」で一躍有名になる。
+-先述の動画「sister's noise」が、2014年3月10日に100万再生を達成する。
+
+**リンク
+-[[ニコニコユーザーページ>>http://www.nicovideo.jp/user/2406525]]
+
+**曲
+#list_by_tag(non,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(nonCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+-ボカロカバー曲（VOCALOID別の再生数が多い動画のみピックアップ）
+|&nicovideo(sm20766496)|&nicovideo(sm7948579)|
+|&nicovideo(sm5701613)|&nicovideo(sm11765341)|
+|&nicovideo(sm20088021)|&nicovideo(sm10615068)|
+|&nicovideo(sm8763100)||
+
+**コメント
+- 作成乙です！sister's noiseがミリオン行ったって！？おめでとう！！！  -- かっ平  (2014-03-11 19:46:11)
+#comment()

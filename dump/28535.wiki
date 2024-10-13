@@ -1,0 +1,40 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#ref(http://www.geocities.jp/officemuhmue/images/pavillion_300.jpg)
+
+
+&nicovideo(http://www.nicovideo.jp/watch/sm22905121)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Open Cafe]]|CENTER:&bold(){Pavilion}|CENTER:[[Parallel Vox]]|
+
+|&bold(){[[muhmue]]}|[[eb]]|
+
+|流通|CENTER:即売|
+|発売|CENTER:2014年3月2日|
+|価格|CENTER:￥1,000（税込）|
+|サークル|CENTER:office muhmue|
+
+**CD紹介
+-muhmue氏 の 5th album.
+-前作同様、全曲「ぐみりん」なテクノポップをメインにした11曲を収録。
+-ジャケットイラストは [[eb]]氏 が手掛ける。
+-VOCALOID PARADISE 関西3（ボーパラ関西3）にてリリース。
+
+**曲目
++[[Dance to Reborn]] feat. GUMI・鏡音リン
++[[Edge of Life]] feat. GUMI
++マカロンパーティナイト feat. 鏡音リン
++[[アイコンガール]] feat. GUMI・鏡音リン
++未来からサイケデリック少女 feat. GUMI
++ハニカミウサギ feat. GUMI・鏡音リン
++[[ラプソディア]] feat. 鏡音リン
++[[Password]] feat. GUMI
++[[愛脳サイノウ]] feat. GUMI・鏡音リン
++[[霞の中のサヨナラ]] feat. 鏡音リン
++Ready Go! feat. GUMI・鏡音リン
+
+**リンク
+-[[作者ホームページ>>http://www.geocities.jp/officemuhmue/]]
+
+**コメント
+#comment()

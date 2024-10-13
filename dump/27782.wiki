@@ -1,0 +1,69 @@
+#right(){&furigana(ゆしー)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/38439669" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/38439669">【ニコニコ動画】</a></iframe>)
+
+**特徴
+作り手名：『&u(){ユジー}』
+-2013年7月、「[[ピンキー・ピンキー・ガーリッシュ]]」にてボカロデビュー。
+-使用合成音声は初音ミク、結月ゆかり、可不。
+-4作目の「[[ミルククラウン・オン・ソーネチカ]]」がブレイクし、自身初の殿堂入りを達成した。
+--その後、自身初のミリオンも達成した。
+-殿堂入りを達成している曲は次の通り。&br()&list_by_tagsearch(ユジー,殿堂入り,sort=furigana,option=nolist,nolistspace=、,100)
+
+**ミリオン達成状況
+|CENTER:&bold(){曲名}|CENTER:&bold(){100万再生}|CENTER:&bold(){200万再生}|CENTER:&bold(){備考}|
+|[[ミルククラウン・オン・ソーネチカ]]|2020年2月7日|2023年7月5日||
+
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/hsuranus]]
+-[[Twitter>>http://twitter.com/hsURanus_yuzy]]
+-[[YouTube>>https://www.youtube.com/channel/UCZcREkbIN9Yhpfhuetkq1xw]]
+-[[Bilibili>>https://space.bilibili.com/31240744]]
+
+**曲
+#list_by_tagsearch(ユジー,sort=furigana2,errmsg=まだ曲が登録されていません。,and,100)
+
+**CD
+#list_by_tagsearch(ユジーCD,100,sort=furigana2,errmsg=まだCDが登録されていません。,and,100)
+
+**動画
+|>|BGCOLOR(#72e2e2):COLOR(#FFF):CENTER:&font(b,11pt){オリジナル曲}|
+|&nicovideo(sm21256925)|&nicovideo(sm21662149)|
+|&nicovideo(sm22407540)|&nicovideo(sm23404002)|
+|&nicovideo(sm25338523)|&nicovideo(sm26207224)|
+|&nicovideo(sm28012003)|&nicovideo(sm28921646)|
+|&nicovideo(sm31098306)|&nicovideo(sm31676170)|
+|&nicovideo(sm31921328)|&nicovideo(sm40808683)|
+|&nicovideo(sm41070286)|&nicovideo(sm42273192)|
+|&nicovideo(sm42603293)|&nicovideo(sm43034699)|
+|&nicovideo(so43175512)|&nicovideo(sm43429027)|
+//|&nicovideo()|&nicovideo()|
+
+**関連タグ内の更新履歴
+#region(close,関連タグ内の更新履歴)
+関連タグ内の更新履歴
+※「ユジー」「ユジーCD」タグ内で最近編集やコメントのあった記事を新しい方から10件表示しています。
+#list_by_tagsearch(ユジー,ユジーCD,sort=timestamp,sort2=desc,errmsg=まだ曲、CDが登録されていません。,or,10)
+#endregion
+
+**コメント
+- ページ作成有り難うゴザイマス！  -- naruto.  (2014-01-20 22:00:15)
+- この人の曲は絶対伸びる、と思う  -- 名無しさん  (2014-05-10 14:20:04)
+- ↑に同じです！お気に入りの曲はすべてです！ｗｗ  -- ミルククランチ  (2014-07-05 00:16:21)
+- リズムがすごく癖になる!!ミルククラウンはずっとリピートしてます  -- selen  (2014-08-24 13:29:55)
+- 今後に期待する一人です！才能が溢れてる！  -- 名無しさん  (2015-05-21 18:02:55)
+- もっと注目浴びてもいいんじゃないですか。  -- こと  (2015-07-07 07:10:14)
+- 久しぶりに聞いたらまた、進化されていました。はーテッド・ドールの独特な旋律が好きです。ユジーさんのスタイルが確立されていますね。。。  -- naruto.  (2015-07-29 22:11:32)
+- ユジーさんの曲はステンドグラスみたいな綺麗で透明、色とりどりな感じがして大好きです  -- 名無しさん  (2016-06-02 21:15:12)
+- ミルククラウンはもちろんのこと、ハーテッドドールとシンセリティパルスもすごくすき♡  -- 名無しさん  (2019-01-10 18:03:52)
+- ミルククラウンはもちろんだけど、ハーテッドドールとかシンセリティパルスもとてもすき♡  -- 名無しさん  (2019-01-10 18:04:59)
+- コメント失敗って言われたからもう1回コメントしたのに、連投みたいになっちゃいました…ごめんなさい  -- 名無しさん  (2019-01-10 18:08:22)
+- 流れるようなメロディが好き。いい意味で非王道の音使いをするよね。  -- 名無しさん  (2019-06-01 10:26:04)
+- また曲作ってほしいなぁ。待ってます  -- 名無しさん  (2020-07-21 11:15:44)
+- 同上  -- 名無しさん  (2020-12-28 15:25:56)
+- 透明人間のすゝめ大好き  -- 名無しさん  (2021-12-07 13:47:39)
+#comment()

@@ -1,0 +1,70 @@
+#right(){&furigana()&furigana()【登録タグ:&tags()】}
+（Short ver.）
+|&nicovideo(http://www.nicovideo.jp/watch/1376043085)|&youtube(http://www.youtube.com/watch?v=CWtHv3Lih_0){336,189}|
+（Long ver.）
+|&nicovideo(http://www.nicovideo.jp/watch/1377243676)|&youtube(http://www.youtube.com/watch?v=3ejUVQGSKq0){336,189}|
+
+作詞：[[きくお]]
+作曲：[[きくお]]
+編曲：[[きくお]]
+唄：初音ミク V3(ORIGINAL、SWEET、DARK、SOFT、SOLID、ENGLISH)
+
+**曲紹介
+-「初音ミク V3」の公式デモ曲。
+-「初音ミク V3」の5つの音声ライブラリーと「初音ミク V3 ENGLISH」の音声ライブラリーを使用。
+-前半が「Short ver.」、後半が「Long ver.」として公開された。
+
+**歌詞
+（&color(lightseagreen){ORIGINAL}　&color(hotpink){SWEET}　&color(slateblue){DARK}　&color(deepskyblue){SOFT}　&color(gray){SOLID}　&color(yellowgreen){ENGLISH}　合唱 ）
+
+（Short ver.）
+
+&color(LightSeaGreen){準備OK}　&color(HotPink){君を待ってたよ}
+&color(gray){君の曲を歌いたくて}
+&color(yellowgreen){What's up brother?}　&color(slateblue){聴かせてくれる?}
+今日は　&color(deepskyblue){どんなメロディ}
+
+&color(LightSeaGreen){まるで　僕らの住んだこの街が}
+&color(LightSeaGreen){無重力で覆われたような}
+&color(LightSeaGreen){そんな気分になるくらい}
+&color(LightSeaGreen){ただ　静かな時の流れが}
+&color(LightSeaGreen){二人を閉じ込める}
+
+&color(deepskyblue){風が吹く}
+&color(deepskyblue){優しく顔を拭う風}
+&color(deepskyblue){涙が　次々に溢れ}
+&color(deepskyblue){雨になってしまいそう}
+&color(deepskyblue){ふー}
+
+（Long ver.）
+
+&color(HotPink){さよなら　その一言が}
+&color(HotPink){胸を　貫いたままで　ざわめく}
+
+&color(slateblue){お返しよ　復讐よ}
+&color(slateblue){今宵は一番の悪だくみ}
+&color(slateblue){怨みつらみ　全て召し上がれ}
+
+&color(yellowgreen){sunrise sunset moonrise moonset}
+&color(yellowgreen){endless daydream}
+&color(yellowgreen){Lets Just Fall Into The Night}
+&color(yellowgreen){Dive into the sky}
+&color(yellowgreen){Dive into yourself}
+&color(yellowgreen){Endless Endless Daydream}
+&color(yellowgreen){sunrise sunset}
+&color(yellowgreen){moonrise moonset}
+&color(yellowgreen){day after day yay yay}
+
+&color(gray){もう一度　追いかけるよ}
+&color(gray){次は水平線の彼方　果てまでも}
+&color(gray){私の声　君の歌}
+&color(gray){合わせて}
+&color(gray){世界に響け}
+
+**コメント
+- 追加おつ！  -- 名無しさん  (2013-08-09 22:57:07)
+- わかりやすいです！ありがとうございます！  -- 名無しさん  (2013-08-09 23:52:11)
+- 歌詞乙！わかりやすいです  -- かのん  (2016-09-18 21:56:28)
+- 高校の教科書に載ったそうですね  -- 名無しさん  (2018-04-08 19:31:35)
+- 高校の音楽の教科書に載ってたやつだ！！！  -- 名無しさん  (2021-11-27 22:57:27)
+#comment()

@@ -1,0 +1,48 @@
+#right(){&furigana(せとうちこんぴ2)&furigana()【登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186152702.jpg,x=300,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm22898754)
+
+|BGCOLOR(#00bfff):COLOR(#FFF):CENTER:&font(b,11pt){　前作　}|BGCOLOR(#00bfff):COLOR(#FFF):CENTER:&font(b,11pt){　本作　}|BGCOLOR(#00bfff):COLOR(#FFF):CENTER:&font(b,11pt){　次作　}|
+|CENTER:[[瀬戸内コンピ]]|CENTER:&bold(){瀬戸内コンピ2}|CENTER:-|
+
+|[[BIRUGE>コモレビノーツ]]|[[van=jin（遅刻オトメンP）]]|[[育児放棄P]]|[[ぐらしゃ]]|[[星探P]]|[[ムツキセイ>SeikoP]]|[[はやくP]]|
+|[[ひとひとP]]|[[DJ SHIKA ‛no' HITO a.k.a 奈央]]|[[ひかげ]]|[[曼荼羅P]]|[[ジェバンニP]]|[[佳奈]]|>|
+
+|BGCOLOR(#00bfff):COLOR(#FFF):CENTER:&font(b,11pt){　流通　}|BGCOLOR(#00bfff):COLOR(#FFF):CENTER:&font(b,11pt){　即売　}|
+|BGCOLOR(#00bfff):COLOR(#FFF):CENTER:&font(b,11pt){　発売　}|CENTER:　2014年3月2日　|
+|BGCOLOR(#00bfff):COLOR(#FFF):CENTER:&font(b,11pt){　価格　}|CENTER:　￥1,000（税込）　|
+|BGCOLOR(#00bfff):COLOR(#FFF):CENTER:&font(b,11pt){　サークル　}|CENTER:　studio桃紅葉　|
+
+**CD紹介
+>&bold(){ローカルコンピ、ふたたび。}
+-瀬戸内にゆかりのあるボカロP達で構成されたコンピの第2弾。
+-今回の参加者は前回から増え、計13人。バラエティに富んだ全13曲を収録。
+-瀬戸内出身の方も、そうでない方も、故郷を想い出しながら聴いてみてください。（作者コメ転載）
+-ジャケットイラストは [[佳奈]]氏 が手掛ける。
+-VOCALOID PARADISE 関西3（ボーパラ関西3）にてリリース。
+
+**曲目
+|BGCOLOR(#00bfff):COLOR(#FFF):CENTER:&font(b,11pt){　Track　}|BGCOLOR(#00bfff):COLOR(#FFF):CENTER:&font(b,11pt){　曲名　}|BGCOLOR(#00bfff):COLOR(#FFF):CENTER:&font(b,11pt){　楽曲制作者　}|
+|BGCOLOR(#00bfff):COLOR(#FFF):CENTER:&font(b,11pt){ 01 }|CENTER:今日も、明日も、あさっても。 -Fragrance River Mix-|CENTER:ひかげ feat. IA|
+|BGCOLOR(#00bfff):COLOR(#FFF):CENTER:&font(b,11pt){ 02 }|CENTER:大都会フォーエバー|CENTER:BIRUGE feat. IA|
+|BGCOLOR(#00bfff):COLOR(#FFF):CENTER:&font(b,11pt){ 03 }|CENTER:sakashima city|CENTER:曼荼羅P feat. 鏡音リン|
+|BGCOLOR(#00bfff):COLOR(#FFF):CENTER:&font(b,11pt){ 04 }|CENTER:かけDIE|CENTER:育児放棄P feat. Lily|
+|BGCOLOR(#00bfff):COLOR(#FFF):CENTER:&font(b,11pt){ 05 }|CENTER:BEAT|CENTER:DJ SHIKA ‛no' HITO a.k.a 奈央 feat. 巡音ルカ|
+|BGCOLOR(#00bfff):COLOR(#FFF):CENTER:&font(b,11pt){ 06 }|CENTER:無人駅|CENTER:ひとひとP feat. 初音ミク|
+|BGCOLOR(#00bfff):COLOR(#FFF):CENTER:&font(b,11pt){ 07 }|CENTER:かくれんぼ|CENTER:van=jin（遅刻オトメンP） feat. MAYU|
+|BGCOLOR(#00bfff):COLOR(#FFF):CENTER:&font(b,11pt){ 08 }|CENTER:Conspectu Stellarum 101|CENTER:星探P feat. KAITO・MEIKO|
+|BGCOLOR(#00bfff):COLOR(#FFF):CENTER:&font(b,11pt){ 09 }|CENTER:廻る路|CENTER:ムツキセイ feat. 巡音ルカ|
+|BGCOLOR(#00bfff):COLOR(#FFF):CENTER:&font(b,11pt){ 10 }|CENTER:[[讃岐女子、じょんならんで♪恋心>じょんならんで♪恋心]]|CENTER:ジェバンニP feat. 鏡音リン|
+|BGCOLOR(#00bfff):COLOR(#FFF):CENTER:&font(b,11pt){ 11 }|CENTER:ハートレモン|CENTER:ぐらしゃ feat. GUMI|
+|BGCOLOR(#00bfff):COLOR(#FFF):CENTER:&font(b,11pt){ 12 }|CENTER:Aster|CENTER:inary（はやくP） feat. 初音ミク|
+|BGCOLOR(#00bfff):COLOR(#FFF):CENTER:&font(b,11pt){ 13 }|CENTER:橙色の町|CENTER:inary（はやくP） feat. 黒兎ウル|
+
+**リンク
+-[[特設ページ>>http://momomomiji.com/setouchi2/]]
+
+**コメント
+- 欲しい！！！  -- 名無しさん  (2014-02-02 20:24:09)
+- 曼荼羅Pさん…だと…！？  -- 名無しさん  (2014-02-02 20:37:30)
+#comment()

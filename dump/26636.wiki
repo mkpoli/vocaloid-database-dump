@@ -1,0 +1,41 @@
+#right(){&furigana(ばくたるゆめかくたるこい)&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1359_20130818104426_0280_0280.jpg)
+
+&nicovideo(sm17538131)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[飛ぶ教室]]|CENTER:&bold(){漠たる夢、確たる恋。}|CENTER:[[Another Girl,Another Planet]]|
+
+|&bold(){[[ハヤカワP]]}|
+
+|流通|CENTER:即売|CENTER:自家通販|CENTER:配信|
+|発売|CENTER:2012年4月28日||CENTER:2013年9月4日|
+|価格|CENTER:￥1,000|CENTER:￥1,350（送料込）|CENTER:￥1,200 / 1曲￥150|
+|サークル|>|>|CENTER:ハヤカワ・ラボ|
+
+**CD紹介
+-ハヤカワPの3rdアルバム。
+-「[[ゆらぎの宇宙、恋と未来]]」を中心とした同一の世界観で描かれるコンセプトアルバム。
+-ジャケットイラストはラケル氏。
+-THE VOC@LOiD 超 M@STER 20（超ボーマス20）で頒布。
+-現在、自家通販されている。詳細は[[こちら>>http://hayakawalabo.otaden.jp/e241106.html]]。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++[[アトラク=ナクアの夢]]　/　IA
++[[ゆらぎの宇宙、恋と未来]] (the second round)　/　鏡音レン
++Day of the beginning　/　鏡音レン
++星屑ランデブー　/　鏡音リン・レン
++[[Night Walker]]　/　鏡音レン
++[[星から来たるもの]]　/　鏡音レン
++|<<(REW)　/　鏡音レン
++Living on the Web　/　IA、鏡音リン・レン
++ラグトーリン・コンプレックス　/　鏡音リン
++[[ロケットライド]]　/　鏡音レン
+
+**リンク
+-[[ハヤカワ・ラボ（作者のブログ）>>http://hayakawalabo.otaden.jp/]]
+-[[KARENT：「漠たる夢、確たる恋。」>>http://karent.jp/album/1359]]
+
+**コメント
+#comment()

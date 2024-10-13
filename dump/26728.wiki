@@ -1,0 +1,64 @@
+#right(){&furigana(せかいかたろぐ)&furigana()【登録タグ:&tags() 】}
+#amazon(B00D1B8RW8)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[青の研究]]|CENTER:&bold(){セカイカタログ}|CENTER:-|
+
+|&bold(){[[millstones]]}|[[tilt]]|
+
+発売：2013年9月18日
+価格：￥2,800（税込）
+流通：全国
+レーベル：[[U/M/A/A Inc.>>http://www.umaa.net]]
+
+**CD紹介
+>&bold(){ようこそ！此処は16篇のセカイを収める私の「図書館」。カタログはこちらです―}
+-ドラムンベース、２ステップなどを基調とした、シャープな音像が持ち味のVOCALOIDプロデューサー、&bold(){millstones}のメジャーデビューアルバム。
+-新曲過去の代表曲の他、『[[Xperia™ feat. HATSUNE MIKU>>http://dx39.net]]』のCMソングにも抜擢されたクリエイター&bold(){tilt}によるリミックストラックを収録。
+-CD＋DVDの2枚組、32Pブックレット、三方背スリーブケース
+-総勢7名のイラストレータによる32Pブックレットが付属。ジャケットイラストはじんつき氏、ブックレットイラストに2e氏、ALYSSA氏、virus氏、あさぎり氏、[[ナクアミ>Nak-AmiP]]氏、仮眠氏が参加。
+-DVDには@まさたかPによる『[[可能世界のロンド]]』PVをはじめ、4曲のミュージックビデオを収録。
+
+**クロスフェードデモ
+|&nicovideo(http://www.nicovideo.jp/watch/1378453045)|&youtube(http://www.youtube.com/watch?v=5teho5FVoUM){338,190}|
+
+**曲目
+Disc1 | CD
++entrance
++[[セカイカタログ]] feat. 初音ミク
++[[五月少女]] feat. 初音ミク [ver1.3] 
++[[キップル・インダストリー ]]feat. 初音ミク [ver1.4] 
++[[計画都市]] feat. 初音ミク [ver3.1] 
++[[可能世界のロンド ]]feat. 初音ミク [ver1.3] 
++黄昏ホリック feat. GUMI [ver1.2] 
++[[未来紀元歴元年]] feat. GUMI [ver2.1] 
++Altered Sky feat. IA [ver1.2] 
++[[The Embedded Blue]] feat. IA [ver1.2] 
++Lounge in Blue
++[[クロライドに没む]] feat. 初音ミク
++[[カガリビト]] feat. 初音ミク [ver2.4]　 
++バイバイ、ブラックワールド feat. 初音ミク [ver1.1] 
++exit
++セカイカタログ feat. 初音ミク (tilt-six Good choice!! Remix)
+
+Disc2 | DVD
++可能世界のロンド feat. 初音ミク [Music Video] 
++セカイカタログ feat. 初音ミク [Music Video] 
++クロライドに没む feat. 初音ミク [Music Video]
++キップル・インダストリー feat. 初音ミク [Animation Video]
+
+**リンク
+-[[CD紹介ページ>>http://www.umaa.net/what/sekaicatalog.html]]
+-[[作者ホームページ>>http://scriptedcity.aroundhalf.info]]
+-[[amazon>>http://www.amazon.co.jp/gp/product/B00D1B8RW8]]
+
+**コメント
+- 追加乙です！  -- 名無しさん  (2013-09-14 14:02:24)
+- イントロ詐欺の人だｗｗ  -- 名無しさん  (2013-09-18 14:19:54)
+- 既存曲も描き下ろしも凄く良かった。millstonesさんの世界観に圧倒。  -- 名無しさん  (2013-09-22 21:08:13)
+- 新曲のセカイカタログもクロライドに沈むもすごく素敵です！既存曲も雰囲気が変わっていて楽しめます！  -- 将門  (2013-10-13 11:59:06)
+- 既存曲のパワーアップのしかたが、言葉で言い表せない凄さがあって驚いた。 &br()新曲も素敵。１つ１つが細かく丁寧。 &br()どの世界観にも味があって楽しめます。ありがとう。  -- 棕櫚  (2014-04-01 01:37:42)
+- 最近気づいたのだけどCD音源と歌詞カードの歌詞が違うのって仕様なのかしら  -- 名無しさん  (2014-05-14 22:57:16)
+- Altered Skyがトランス調？のすごく格好いい曲だった。計画都市とカガリビトのアレンジがすごく良いカンジ。  -- 名無しさん  (2014-05-18 16:26:49)
+- ↑↑ そういえば五月少女のサビとか…仕様なのかな  -- 名無しさん  (2014-06-08 18:54:06)
+#comment()

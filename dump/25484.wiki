@@ -1,0 +1,31 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1262_20130418031445_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[不快指数クライシス]]|CENTER:&bold(){RosemaryHolic}|CENTER:[[DIE4ReBIRTH]]|
+
+|&bold(){[[AETA(イータ)]]}|
+
+発売：2013年5月1日
+価格：￥150
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：むーが
+
+|&bold(){[[iTunes Storeで購入する>>https://itunes.apple.com/jp/album/rosemaryholic-single/id641106622]]}|
+
+**CD紹介
+>ローズマリーの香りを楽しみながら・・・ちょっと物思いに耽ってみませんか？
+-AETA氏の配信シングル。
+-KARENTレーベルよりダウンロード販売が行われている。「Cafeでのひととき 2」企画で配信された作品の1つ。
+
+**曲目
++RosemaryHolic （feat. 初音ミク）
+
+**リンク
+-[[KARENT：「RosemaryHolic」>>http://karent.jp/album/1262]]
+-[[KARENT：「Cafeでのひととき 2」特集ページ>>http://karent.jp/special/cafe13]]
+-[[作者ブログ>>http://aeta.jugem.jp/]]
+
+**コメント
+#comment()

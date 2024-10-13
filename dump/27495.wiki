@@ -1,0 +1,27 @@
+#right(){&furigana(たかむらさとる)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/17093845" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/17093845">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-主な使用ボカロはKAITO。他に鏡音リン・レン、巡音ルカ、Mew、VY1、VY2を所持している模様。
+-初投稿は「[[時計塔のうた]]」のショート版であるが、現在は存在していない。
+
+**リンク
+-[[Twitter>>http://twitter.com/3106_com]]
+-[[ピアプロ>>http://piapro.jp/shinonome15]]
+-[[KARENT>>http://karent.jp/artist/pp000467]]
+-[[YouTube>>https://www.youtube.com/channel/UCAA4ikpRBI-f-lM9gxtb5YA]]
+
+**曲
+#list_by_tag(篁惺,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(篁惺CD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/nm12913340)|&nicovideo(http://www.nicovideo.jp/watch/sm25640879)|
+
+**コメント
+- CD買ったよ！！！  -- 名無しさん  (2013-11-23 15:30:45)
+- ようやく追加か・・・お疲れ様です。来週になったらとらのあなに行ってCD買う予定です  -- 名無しさん  (2013-11-23 19:00:59)
+- CD買えた。幸せだなー  -- 名無しさん  (2013-11-26 23:07:17)
+#comment()

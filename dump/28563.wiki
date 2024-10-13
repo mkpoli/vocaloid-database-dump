@@ -1,0 +1,40 @@
+#right(){&furigana(うしみつどきにかきならすほうき)&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1456_20140202203533_0280_0280.jpg)
+
+&nicovideo(sm22969487)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[脱走して来たケダモノでございます]]|CENTER:&bold(){丑三つ時にかき鳴らす箒}|CENTER:[[破れた提灯から覗く世界]]|
+
+|&bold(){[[カオスP]]}|
+
+発売：2014年2月19日
+価格：￥1,200 / 1曲￥150
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：[[飯時>>http://piapro.jp/hansi3]]
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/ushimitsudokinikakinarasuhouki/id827718608]]}|
+
+**CD紹介
+-カオスPの2ndアルバム。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++マジハンパねえ奴がliveってる俺のhometown （feat. 初音ミク）
++脱走して来たケダモノでございます （feat. 初音ミク）
++[[第汝試験]] （feat. 初音ミク）
++[[ほんわかぷるるんうるおいダメージケア]] （feat. 初音ミク）
++[[SISIGOI腑抜支社]] （feat. 初音ミク）
++[[Saketeの交錯]] （feat. 初音ミク）
++奇超奈尾花氏いいいい！！！ （feat. 初音ミク）
++[[Annotation Load Second～The Period of Love～]] （feat. 初音ミク）
++[[枯れた舟漕ぐSPARKING]] （feat. 初音ミク）
++[[そして私は土になる]] （feat. 初音ミク）
+
+**リンク
+-[[作者blog>>http://genjutsuuekibachi.blog22.fc2.com/]]
+-[[KARENT：「丑三つ時にかき鳴らす箒」>>http://karent.jp/album/1456]]
+
+**コメント
+#comment()

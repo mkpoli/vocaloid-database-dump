@@ -1,0 +1,39 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#amazon(B00GSWCFMK)
+
+|&nicovideo(http://www.nicovideo.jp/watch/sm22967924)|&youtube(http://www.youtube.com/watch?v=G1zR8KOTSRk){336,189}|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Worlds EP]]|CENTER:&bold(){TWO WORLDS}|CENTER:[[ZUNKO]]|
+
+|&bold(){[[パイパンP]]}|
+
+|流通|CENTER:全国|CENTER:配信|
+|発売|CENTER:2014年2月26日|CENTER:2014年3月12日|
+|価格|CENTER:￥2,000（税込）|CENTER:￥1,200 / 1曲￥200|
+|レーベル|CENTER:キングレコード|CENTER:KARENT|
+
+**CD紹介
+-パイパンPことZANIO（ざにお）氏の初メジャーアルバム。
+-アートワークは、[[鼻そうめんP]]こと かんざきひろ氏 が手掛ける。
+-「ジェミニ」（原曲：[[Dixie Flatline]]）を除く9曲が、KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++Transit
++[[Showered]]
++[[Happy Flight Dystopia>ハッピーフライトディスコ]]
++[[ペヤングだばあ]]
++Worlds
++[[夕暮れ落ち葉とイクステンディド>夕暮れ落ち葉とイノセンス]]
++[[Distance>Distance/パイパンP]] 
++MONO
++[[ジェミニ]]　※CD版のみ
++TWO WORLDS
+
+**リンク
+-[[特設サイト>>http://www.zani0.com/]]
+-[[amazon>>http://www.amazon.co.jp/dp/B00GSWCFMK]]
+-[[KARENT>>http://karent.jp/album/1469]]
+
+**コメント
+#comment()

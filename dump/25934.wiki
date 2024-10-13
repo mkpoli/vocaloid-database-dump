@@ -1,0 +1,26 @@
+#right(){&furigana(たんさP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/31906351" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/31906351">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-2012年5月、「[[ぼくらの宇宙探査]]」にてボカロデビュー。
+-使用ボカロは今のところ、ミクのみ。
+-P名の由来はデビュー作のタイトルから。
+-アーティスト名は &bold(){a39tr} 。
+
+**リンク
+-[[Twitter>>http://twitter.com/a39tr]]
+-[[PIAPRO>>http://piapro.jp/a39tr]]
+
+**曲
+#list_by_tag(探査P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(探査PCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|>|BGCOLOR(#353535):COLOR(#2b95ff):CENTER:&font(b,11pt){オリジナル曲}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm17753044)|&nicovideo(http://www.nicovideo.jp/watch/sm19757892)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm19980595)|&nicovideo(http://www.nicovideo.jp/watch/sm21176777)|
+
+**コメント
+#comment()

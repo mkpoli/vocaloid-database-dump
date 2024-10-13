@@ -1,0 +1,37 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://vocadb.net/Album/CoverPicture/1069)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){ようじょのうた}|CENTER:-|
+
+|&bold(){[[鈴木ろりー太]]}|
+
+発売：2009年9月6日
+価格：￥1000（税込）
+流通：即売
+サークル：TOKYO COM
+
+**CD紹介
+-鈴木ろりー太氏の1stアルバム。
+-ニコニコ動画で公開された６曲と、そのinst ver.を収録。
+-THE VOC@LOiD M@STER 9にて販売。
+
+**曲目
++[[ようじょぱんつのうた]]   
++[[ようじょすくみずのうた]]
++[[ようじょらんどせるのうた]]   
++[[ようじょくつしたのうた]]   
++[[ようじょけんにょうのうた]]   
++[[ようじょおふろのうた]]  
++ようじょぱんつのうた  (Inst)  
++ようじょすくみずのうた  (Inst)  
++ようじょらんどせるのうた  (Inst)  
++ようじょくつしたのうた (Inst)  
++ようじょけんにょうのうた (Inst)   
++ようじょおふろのうた (Inst)
+
+**リンク
+[[VocaDB>>http://vocadb.net/Album/Details/1069]]
+
+**コメント
+#comment()

@@ -1,0 +1,45 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+//&ref(http://atz.nurufuwa.com/wp-content/uploads/2012/03/jacket1-e1331107657143.jpg,x=300,y=300)
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186118373.jpg,x=300,y=300)
+
+&nicovideo(sm14578927)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){ふわふわなかたおもい}|CENTER:[[fluffy fluffy ～fuwaP cover arrange album～]]|
+
+|&bold(){[[ふわP]]}|ゆきはね|[[マルキン]]|[[あつぞうくん]]|[[クマー@Taken♪]]|Noël|チャーリー|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2011年6月12日|CENTER:2011年6月|
+|価格|CENTER:￥1,000|CENTER:￥1,323（税込）|
+|サークル|>|CENTER:ATZ Records|
+
+**CD紹介
+>きゅんきゅんでふわふわなアルバム、できました！
+-ふわPの1stアルバム。
+-ジャケットイラストをゆきはね氏、マスタリングを[[あつぞうくん]]が担当している。
+-THE VOC@LOiD M@STER 16（ボーマス16）にて頒布。委託販売も行われていた。
+
+**曲目
++[[ひとつぶかたおもい]]（album ver.）
++[[光をあつめて]]　　&color(red){NEW!!}
++雨の日は　　&color(red){NEW!!}
++[[すぅぱぁLOVEふぃぃぃぃぃりんぐ!!!]]
++[[冬のぬくもり]]
++[[スーパージェット]]（流星閃光mix）
++[[ナイショの○○]]（full ver.）
++[[ふわふわな魔法]]　　&color(red){NEW!!}
++[[あのコとワタシと南の島]]（atz-mix）
++[[シュガー・ティータイム]]
++[[ふわうさ]]
++しあわせのかけら（inst.）
+
+**リンク
+-[[特設ページ>>http://ffk.atzrecords.com/]]
+//-[[ATZ Records>>http://atzrecords.com/]]
+-[[ATZ Records>>http://atz.nurufuwa.com/?portfolio=ふわふわなかたおもい]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0020/01/43/040020014311.html]]
+
+**コメント
+#comment()

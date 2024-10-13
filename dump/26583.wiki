@@ -1,0 +1,105 @@
+#right(){&furigana(まよなかのへっとるーむ)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm21717220)|
+作詞：[[あつぞうくん]]
+作曲：[[あつぞうくん]]
+編曲：[[あつぞうくん]]
+イラスト：[[あさひ]]
+唄：[[初音ミク]]
+
+**曲紹介
+>部屋で膝を抱え続けているはずだった僕たちに、&br()はじまりの日をくれてサンキュー。
+曲名：『&u(){真夜中のベッドルーム}』（&u(){まよなかのべっどるーむ}）
+-初音ミク誕生祭2013で発表された楽曲。
+//-イラストはあさひ氏が担当。
+-KARENTレーベルよりダウンロード販売が行われている。[[初音ミク6周年記念企画>>https://karent.jp/special/miku13]]で配信された作品の1つ。
+
+**音楽配信
+&ref(https://karent.jp/npdca/1333_20130724101821_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[「honey」って呼んで？]]|CENTER:&bold(){真夜中のベッドルーム}|CENTER:[[十年後の私　十年後の未来]]|
+
+流通：配信
+発売：2013年8月23日
+価格：￥150
+レーベル：[[KARENT>>https://karent.jp/album/1333]]
+
+|&bold(){[[iTunes Storeで購入する>>https://itunes.apple.com/jp/album/thank-you-for-coming-into/id688754477]]}|
+
+***曲目
++真夜中のベッドルーム （feat. 初音ミク）
+
+**歌詞
+真夜中のベッドルーム
+紡ぎ出されるよmusic
+リスナーはぼくひとり
+なのに誰のため？
+
+気がついたらずっと
+音楽はそばにあった
+鳴り響いているのは
+誰かのメロディ
+
+今日もどこかで
+輝くダンスフロアに
+ぼくもうつむいてる
+ほら世界がきみを待ってるよ
+
+thank you for coming in to this world
+何も出来ないぼくに
+はじまりの日をくれてthank you
+thank you for coming in to this world
+うたもうたえないぼくは
+センスもないけど
+おかねもないけど
+努力しないけど
+
+thank you
+
+つみあがるCD
+封も切らないままで
+いいわけばかりのstory
+今日もすぎてゆく
+
+いつかぼくにも
+何かが舞いおりて
+きみがほほえんだら
+ほら世界はきみに恋してるよ
+
+thank you for coming in to this world
+何も出来ないぼくに
+はじまりの日をくれてthank you
+thank you for coming in to this world
+うたもうたえないぼくは
+センスもないけど
+おかねもないけど
+努力しないけど
+
+thank you
+
+thank you for coming in to this world
+何も出来ないぼくに
+はじまりの日をくれてthank you
+thank you for coming in to this world
+うたもうたえないぼくは
+センスもないけど
+おかねもないけど
+努力しないけど
+
+thank you
+
+真夜中のベッドルーム
+紡ぎ出されるよmusic
+リスナーはぼくひとり
+今はきみのため
+
+
+**コメント
+//- 追加おつ！  -- 名無しさん  (2013-09-02 18:15:51)
+//- 歌詞をどうも  -- 名無しさん  (2013-10-03 22:22:33)
+//- 歌詞ありがたいです!!  -- 名無しさん  (2014-01-31 17:52:52)
+#comment()

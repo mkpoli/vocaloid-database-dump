@@ -1,0 +1,40 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#amazon(B009YC4UP6)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm19121248)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[7th]]|CENTER:&b(){2PENTAGON}|CENTER:[[8th]]|
+
+|&b(){[[kous]]}|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2012年10月28日|CENTER:2012年11月|
+|価格|CENTER:￥1,000|CENTER:￥1,500（税抜）|
+|サークル|CENTER:kous|CENTER:+音|
+
+**CD紹介
+-インスト成分多めなアルバム。VOCALOIDも使用されている。
+-新曲の他、既存曲を「破壊」「再構築」した楽曲などを収録。
+-デザイン＆ジャケットはhie氏が担当。
+-VOCALOID PARADISE 7（ボーパラ7）やM3-2012秋にて頒布。
+-Amazonで委託販売が行われている。
+
+**曲目
++[[sek@i]]
++Re:Re
++N.M.N
++Ar.k
++doUk
++A.me
++whitE out
++fæn'teiʒə
++cirCle
++cRow
+
+**リンク
+-[[作者ブログ>>http://kous1128.blog22.fc2.com/]]
+-[[Amazon>>http://www.amazon.co.jp/dp/B009YC4UP6]]
+
+**コメント
+#comment()

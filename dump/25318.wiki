@@ -1,0 +1,47 @@
+#right(){&furigana(かでんまつり)&furigana()【登録タグ:&tags() 】}
+
+&ref(https://vocadb.net/Album/CoverPicture/3365?v=13,x=300,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm20674501)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[鍋祭り]]|CENTER:&b(){家電祭り}|CENTER:[[Future～ふるさとの味～]]|
+
+|[[ミュムP]]|[[シメサバツイスターズ]]|[[kouki]]|[[矛盾]]|[[ピノキオピー]]|
+|[[(仮)P]]|[[風呂埋葬P]]|[[ヤヅキ]]|[[KulfiQ]]|[[セメホセ]]|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2013年4月27日||
+|価格|CENTER:￥1,000|CENTER:￥1,000（税別）|
+|サークル|CENTER:ガスコンロ（か）（で）（ん）|CENTER:ガスコンロ|
+
+**CD紹介
+>&bold(){家電が熱くなるな・・・}
+-「ガスコンロ」のコンピレーションアルバム第3弾は「家電」がテーマ。全11曲収録。
+-会場での購入特典は、誰得ガスコンロトレーディングカード×3枚付（全10種）。
+-THE VOC@LOiD 超 M@STER 24（超ボーマス2）にてリリース。
+-とらのあなで委託販売が行われていた。
+
+**曲目
+|BGCOLOR(#d2691e):COLOR(#FFF):CENTER:&font(b,11pt){　Track　}|BGCOLOR(#d2691e):COLOR(#FFF):CENTER:&font(b,11pt){　曲名　}|BGCOLOR(#d2691e):COLOR(#FFF):CENTER:&font(b,11pt){　楽曲制作者　}|BGCOLOR(#d2691e):COLOR(#FFF):CENTER:&font(b,11pt){　担当した家電　}|
+|BGCOLOR(#d2691e):COLOR(#FFF):CENTER:&font(b,11pt){ 01 }|CENTER:ガスコンロ家電のテーマ|CENTER:――|CENTER:――|
+|BGCOLOR(#d2691e):COLOR(#FFF):CENTER:&font(b,11pt){ 02 }|CENTER:電熱線ヒーターのテーマ|CENTER:シメサバツイスターズ|CENTER:電熱線ヒーター|
+|BGCOLOR(#d2691e):COLOR(#FFF):CENTER:&font(b,11pt){ 03 }|CENTER:伝記ケトル|CENTER:ヤヅキ|CENTER:電気ケトル|
+|BGCOLOR(#d2691e):COLOR(#FFF):CENTER:&font(b,11pt){ 04 }|CENTER:Teardrop|CENTER:kouki|CENTER:加湿器|
+|BGCOLOR(#d2691e):COLOR(#FFF):CENTER:&font(b,11pt){ 05 }|CENTER:[[high and dry]]|CENTER:(仮)P|CENTER:エアコン|
+|BGCOLOR(#d2691e):COLOR(#FFF):CENTER:&font(b,11pt){ 06 }|CENTER:[[KiLLER No.06]]|CENTER:ミュムP|CENTER:冷蔵庫|
+|BGCOLOR(#d2691e):COLOR(#FFF):CENTER:&font(b,11pt){ 07 }|CENTER:乙女 THE 心拍数|CENTER:矛盾|CENTER:体温計|
+|BGCOLOR(#d2691e):COLOR(#FFF):CENTER:&font(b,11pt){ 08 }|CENTER:[[エマージェンシー清水さん]]|CENTER:KulfiQ|CENTER:電話機|
+|BGCOLOR(#d2691e):COLOR(#FFF):CENTER:&font(b,11pt){ 09 }|CENTER:[[ゲームスぺクター2]]|CENTER:ピノキオピー|CENTER:家庭用ゲーム機|
+|BGCOLOR(#d2691e):COLOR(#FFF):CENTER:&font(b,11pt){ 10 }|CENTER:[[洗濯]]|CENTER:風呂埋葬P|CENTER:洗濯機|
+|BGCOLOR(#d2691e):COLOR(#FFF):CENTER:&font(b,11pt){ 11 }|CENTER:想像マタニティ|CENTER:セメホセ|CENTER:テレビ|
+
+**リンク
+-[[サークルホームページ>>http://gasconro.jimdo.com/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/12/19/040030121986.html]]
+
+**コメント
+- 何気にテーマが一番好きｗ  -- 名無しさん  (2013-05-02 13:14:55)
+- 欲しいけどお金が…ヽ(；▽；)ノ  -- 名無しさん  (2013-05-24 20:31:27)
+- 個人的に伝記ケトルとエマージェンシー清水さんがとても好き。  -- 名無しさん  (2013-06-19 15:55:39)
+#comment()

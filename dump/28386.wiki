@@ -1,0 +1,44 @@
+#right(){&furigana(sunnyspot)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://ext.nicovideo.jp/thumb_mylist/10046071" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/10046071">【ニコニコ動画】Vocaloid</a></iframe>)
+
+**特徴
+作り手名：『&u(){sunny spot}』
+-2010年2月 『[[﻿The Longlong Distance]]』 でボカロPデビュー。
+-「sunny spot」は、 &bold(){水那月詩音}氏 による個人サークル。
+-使用ボカロは今のところ、ミク・リン・レン・ルカ 。
+-楽曲が徐々に評価され、将来を期待されていたが、2013年12月26日、早すぎる突然の訃報により、VOCALOID界隈に衝撃が走った。
+-CD 『[[「ジムリーダーズ」に呼ばれなかったコンピ]]』 が遺作になってしまった。
+
+**リンク
+//-[[作者ホームページ（sunny spot）>>http://sunnyspot-shion.com/]]
+-[[PIAPRO>>https://piapro.jp/alicewitch]]
+-[[Twitter>>https://twitter.com/shion3ss]]
+
+**曲
+#list_by_tag(sunny spot,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(sunny spotCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(nm9709581)|&nicovideo(nm11435817)|
+|&nicovideo(nm11451844)|&nicovideo(nm11576328)|
+|&nicovideo(nm11678548)|&nicovideo(nm12373126)|
+|&nicovideo(nm12449397)|&nicovideo(nm12449540)|
+|&nicovideo(nm12927053)|&nicovideo(nm12998181)|
+|&nicovideo(nm13125772)|&nicovideo(nm13367018)|
+|&nicovideo(nm14116923)|&nicovideo(sm14517214)|
+|&nicovideo(nm15358868)|&nicovideo(nm16078189)|
+|&nicovideo(sm16565001)|&nicovideo(sm17496422)|
+|&nicovideo(sm17782350)|&nicovideo(sm18279771)|
+|&nicovideo(sm19674789)|&nicovideo(sm21110664)|
+|&nicovideo(sm21224052)|>|
+
+**コメント
+- めっちゃカッコいい！  -- IA  (2014-02-14 21:57:15)
+- えっ、そうなのか・・・！  -- 名無しさん  (2014-02-14 21:59:26)
+#comment()

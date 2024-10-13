@@ -1,0 +1,51 @@
+#right(){&furigana(みらいそうぞうしょうねん)&furigana()【登録タグ:&tags() 】}
+//#ref(http://img.toranoana.jp/popup_img/04/0030/17/31/040030173108-1p.jpg,width=300,height=300)
+
+&ref(https://cdn.karent.jp/thumb_a/654/1654_20141127220858_0400_0400.jpg,x=300,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm22551440)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[桜歌爛漫綺譚蒐]]|CENTER:&bold(){未来想造少年}|CENTER:[[ここだけのエトセトラ]]|
+
+|&bold(){[[卑屈P]]}|[[時富まいむ]]|
+
+|流通|CENTER:即売|CENTER:同人|CENTER:配信|
+|発売|>|CENTER:2013年12月31日|CENTER:2014年12月17日|
+|価格|CENTER:￥1,000（税込）|CENTER:￥1,470（税込）|CENTER:￥1,200 / 1曲￥150|
+|サークル|>|CENTER:音戯噺屋||
+
+**CD紹介
+>&bold(){懐かしい未来へ、ようこそ。}
+-卑屈Pの9thアルバム。 
+-極一部の熱い要望にお応えして実現しました。（作者コメ転載）
+-収録曲は全部、鏡音レンオンリーで全10曲を収録。
+-ジャケットイラストは 霧雨。氏 が手掛ける。
+-C85（コミックマーケット85）にてリリース。書店委託もしている。
+-KARENTレーベルよりダウンロード販売が行われている。KARENTの[[鏡音リン・レン7周年記念企画>>http://karent.jp/special/rinlen14]]で配信された作品の1つ。
+
+**曲目
++ゆめのなか
++[[恋人のオノマトペ]]
++[[極東ロマネスク]]
++[[単色パニッシュメント]]
++メアリー・スーは傷つきたい
++黄昏の彼方
++[[バイバイゲーム]]
++[[からくり夜行]]
++流星スイングバイ
++[[未来想造少年>未来想造少年/卑屈P]]
+
+**リンク
+-[[特設ページ>>http://jirai8.web.fc2.com/sp_c85.html]]
+-[[作者サイト>>http://jirai8.web.fc2.com/index.html]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/17/31/040030173108.html]]
+-[[KARENT：「未来想造少年」>>http://karent.jp/album/1654]]
+-[[KARENT：「鏡音リン・レン祭'14」特集ページ>>http://karent.jp/special/rinlen14]]
+-[[iTunes Store>>https://itunes.apple.com/jp/album/mirai-sozo-shonen/id948662013]]
+
+**コメント
+- いいね！  -- 名無しさん  (2014-01-01 22:46:58)
+- 全部レンか！良いな  -- 名無しさん  (2015-01-15 19:28:03)
+- これは本当にすごい良曲ばかりだった　買って良かった！！！  -- 名無しさん  (2015-01-21 19:09:42)
+#comment()

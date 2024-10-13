@@ -1,0 +1,57 @@
+#right(){&furigana()&furigana()【登録タグ:&tags()】}
+&nicovideo(http://www.nicovideo.jp/watch/sm23036636)
+作詞：[[DEBUG_MODE]]
+作曲：[[DEBUG_MODE]]
+編曲：[[DEBUG_MODE]]
+唄：鏡音リン・初音ミク
+
+**曲紹介
+-DEBUG_MODE氏 の3作目。
+-今作は「FIRE!!」なエッセンスを散りばめてみました（適当）（作者コメ転載）
+-イラストは [[をかだ]]氏 が手掛ける。
+-歌詞→&color(orange){黄色：リン}　&color(green){緑：ミク}　&color(red){赤：デュオ}
+
+**歌詞
+(動画より書き起こし)
+
+&color(red){(声をキカセテ)}
+
+&color(orange){微かな熱がカラダを 振り回す SATURDAY NIGHT}
+&color(green){夜空に響くメロディ 輝く WALPURGIS NIGHT}
+&color(orange){誘い込む澄ました眼差し}
+&color(orange){そう立ち眩むほどにフシダラ}
+
+&color(green){ねぇ妖艶しく激しく酔わせて}
+&color(red){魅せてよ　Ah 溢れだして}
+
+&color(red){MERA MERA　恋の魔力がほら　突き上げるの}
+&color(red){YURA YURA　声をキカセテ　Ah 張り裂けそう}
+&color(red){MERA MERA　恋の<炎/本能>がほら　身を焦がせば}
+&color(red){BARA BARA　夜はこれから　Ah 燃え上がるの}
+
+&color(orange){夜明けを避けるように 群がる影 MESMERIZE}
+&color(green){ディープに染まる JEWELRY EYES}
+&color(green){彩る WALPURGIS NIGHT}
+
+&color(orange){揺さぶるKISS　媚薬のような}
+&color(orange){立ち込める香りにクラクラ}
+&color(green){そうこの想い醒したくない}
+&color(red){DANCE OR DIE 突きささる MAKE IT LOVE!!}
+
+&color(red){MERA MERA　恋のリズムがほら　鳴り響けば}
+&color(red){GURA GURA　声を漏らして　Ah 崩れ落ちる}
+&color(red){MERA MERA　恋の<炎/本能>でほら　抱き締めれば}
+&color(red){BARA BARA　夜は明けずに　Ah 燃え尽きるの}
+
+&color(red){(声をキカセテ)}
+
+&color(red){MERA MERA　恋の魔力がほら　突き上げるの}
+&color(red){YURA YURA　声をキカセテ}
+
+&color(red){(MERA MERA)}
+
+&color(red){MERA MERA　恋の<炎/本能>がほら　身を焦がせば}
+&color(red){BARA BARA　夜はこれから　Ah 燃え上がるの}
+
+**コメント
+#comment()

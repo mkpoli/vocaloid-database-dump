@@ -1,0 +1,49 @@
+#right(){&furigana(さいね)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/18701448" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/18701448">【ニコニコ動画】</a></iframe>)|&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/34344540" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/34344540">【ニコニコ動画】</a></iframe>)|
+
+**特徴
+作り手名：『&u(){さいね}』
+-enbos氏の楽曲『 [[夢見てた日々]]』より活動を開始。
+-初期は [[フカクボリョウ]]氏 の楽曲に携わっていた。その後、[[スズム]]氏や [[みきとP>みきとP/作り手]]などの楽曲のイラストや動画を担当している。
+-また、[[あすかそろまにゃーず>>https://dic.nicovideo.jp/a/%E3%81%82%E3%81%99%E3%81%8B%E3%81%9D%E3%82%8D%E3%81%BE%E3%81%AB%E3%82%83%E3%83%BC%E3%81%9A]]のメンバーである。
+--あすかそろまにゃーずの構成メンバーは、そらる氏、ろん氏、[[スズム]]氏、MACCO氏、そしてさいね氏の5人。
+-[[150P]]主宰の『&bold(){終焉ノ栞プロジェクト}』ではキャラクターデザインをした。
+
+**曲
+#list_by_tag(さいね,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(さいねCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm8771199)|&nicovideo(sm9171105)|
+|&nicovideo(sm9319593)|&nicovideo(sm9842476)|
+|&nicovideo(sm10105287)|&nicovideo(sm11250868)|
+|&nicovideo(sm12114782)|&nicovideo(sm13117037)|
+|&nicovideo(sm13916772)|&nicovideo(sm14801642)|
+|&nicovideo(sm15911392)|&nicovideo(sm16075884)|
+|&nicovideo(sm16201802)|&nicovideo(sm17804161)|
+|&nicovideo(sm17892739)|&nicovideo(sm18060733)|
+|&nicovideo(sm18172311)|&nicovideo(sm19216490)|
+|&nicovideo(sm19811204)|&nicovideo(sm19905283)|
+|&nicovideo(sm20350758)|&nicovideo(1364032535)|
+|&nicovideo(sm20944785)|&nicovideo(sm21462040)|
+|&nicovideo(sm21552346)|&nicovideo(sm22068452)|
+
+**コメント
+- 作成しました!  -- 東八朴  (2014-01-01 05:49:28)
+- 追加乙です！  -- 名無しさん  (2014-01-03 09:25:08)
+- 赤心性:カマトト荒療治好き  -- ゆりてる  (2014-02-02 20:24:19)
+- インタビュアってさいねさんじゃなかったですか？  -- 名無しさん  (2014-03-27 09:27:51)
+- さいねさんの絵って見たらなんか分かる。ふんわりしてて、目がなんかなんだよね。（説明しにくい）でも、なんか分かりません？あっ、嫌いってことじゃありませんよ？「クノイチでも恋がしたい」とか、「過食性:アイドル症候群」とか、大好きです！  -- 木戸貴音  (2014-04-22 15:42:10)
+- さいねさんの絵は私にとって魅力的です！！色使いがすごい上手だと思います！さいねさんの描くB子可愛いです。  -- フラウあわわ  (2014-06-24 23:03:44)
+- 終焉ノ栞で知ってから好きになりました！！特に「赤心性:カマトト荒療治」に出てくるレンくんとリンちゃんが大好きです！絵の色もすごく綺麗ではまってしまいました！  -- 「過食性:アイドル症候群」のGUMIちゃんが可愛すぎる  (2015-01-15 15:37:37)
+- 色はきれいだけど絵柄は好きになれない  -- 名無しさん  (2015-03-10 15:55:14)
+- さいねさんのマウスパッド持ってます( ´∀｀ )  -- あせび  (2015-08-12 17:04:01)
+- 昔読んでた、絶体絶命ゲームのイラスト描いたのがまさか終焉の栞とかバグの人だとは！  -- 名無しさん  (2022-06-19 11:51:45)
+- 今はVtuberのイラスト書いたりしてる。  -- Nekotuki  (2023-10-30 10:49:45)
+#comment()

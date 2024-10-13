@@ -1,0 +1,30 @@
+#right(){&furigana(あのこなしあわせが)&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1324_20130709101337_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[螺鈿の骨]]|CENTER:&bold(){あの子な幸せが}|CENTER:[[おわりのはじまり>おわりのはじまり/CD]]|
+
+|&bold(){[[ばぶちゃん]]}|
+
+発売：2013年7月22日
+価格：￥300 / 1曲￥150
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：ぼうし屋
+
+|&bold(){[[iTunes Storeで購入する>>https://itunes.apple.com/jp/album/happy-child-single/id675918760]]}|
+
+**CD紹介
+-ばぶちゃん氏の配信EP。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++[[あの子な幸せが]] （feat. 初音ミク）
++不幸があの子な （feat. 初音ミク）
+
+**リンク
+-[[KARENT：「あの子な幸せが」>>http://karent.jp/album/1324]]
+-[[作者サイト>>http://babu0w0chan.xxxxxxxx.jp/]]
+
+**コメント
+#comment()

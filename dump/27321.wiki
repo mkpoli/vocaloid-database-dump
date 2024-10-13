@@ -1,0 +1,43 @@
+#right(){&furigana(みらいかけはし)&furigana()【登録タグ:&tags() 】}
+//#ref(http://u.jimdo.com/www56/o/s7ae2a74610cecb92/img/i727cb740eae77156/1384049166/std/image.jpg)
+
+&ref(https://image.jimcdn.com/app/cms/image/transf/dimension=336x10000:format=png/path/s7ae2a74610cecb92/image/i5592e829e8a617df/version/1505719503/image.png,x=300,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm22218482)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){ミライカケハシ}|CENTER:-|
+
+|&bold(){[[Ariだい]]}|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2013年11月17日||
+|価格|CENTER:￥1,200（税込）|CENTER:￥1,200（税別）|
+|サークル|CENTER:Ariだい（ありんこP）|CENTER:蟻さんのあしあと|
+
+**CD紹介
+-Ariだい氏 の1stフルアルバム。
+-「[[愛猫サディズム]]」などの既存曲に新曲を加えた全10曲を収録。
+-ジャケットイラストを 恵原恵氏 が、ジャケットデザインを 茅-KaYa-氏 が手掛ける。
+-THE VOC@LOiD M@STER27（ボーマス27）にて頒布。
+-とらのあなで委託販売が行われていた。
+
+**曲目
++[[愛猫サディズム]]
++だいたいオマエ気にいらねぇ
++[[NO HOPE OF THE DEAD]]
++[[エンドレス∞エピソード]] -2013ver-
++ロストラスト
++[[イナズマブランチライン>イナズマ-ブランチライン]] -2013ver-
++ボクはボク 君は君
++[[夕空フェアウェル]] -2013ver-
++[[Remain>Remain/Ariだい]]
++盲目少女と少年の歌
+
+**リンク
+-[[Ari Dai Web（作者ホームページ）>>http://ariweb.jimdo.com/]]
+-[[Twitter>>http://twitter.com/dai_vocaloid]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/16/92/040030169225.html]]
+
+**コメント
+#comment()

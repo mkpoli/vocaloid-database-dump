@@ -1,0 +1,33 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/25481041" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/25481041">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-2011年5月、 『[[アカウントロック]]』 にてボカロデビューした、ロック系楽曲の作り手。
+-使用ボカロは今のところ、ミクのみ。
+-10作目の 『[[スピンオフ・ヒーロー]]』 がスマッシュヒット。
+-アーティスト名の由来は[[大百科>>http://dic.nicovideo.jp/a/imosuke]]で説明されている。
+
+**リンク
+-[[imosukeがアップをはじめました（作者ブログ）>>http://ameblo.jp/imosuke-red]]
+-[[Twitter>>http://twitter.com/imosukeee]]
+-[[PIAPRO>>http://piapro.jp/imosukeee]]
+
+**曲
+#list_by_tag(imosuke,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(imosukeCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|>|BGCOLOR(#aa5555):COLOR(#FFF):CENTER:&font(b,11pt){オリジナル曲}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm14546808)|&nicovideo(http://www.nicovideo.jp/watch/sm15152671)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm15679268)|&nicovideo(http://www.nicovideo.jp/watch/sm16287004)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm16496406)|&nicovideo(http://www.nicovideo.jp/watch/sm16866509)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm17475883)|&nicovideo(http://www.nicovideo.jp/watch/sm17909208)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm18070745)|&nicovideo(http://www.nicovideo.jp/watch/sm19041961)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm19603074)|&nicovideo(http://www.nicovideo.jp/watch/sm20323850)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm20368735)|&nicovideo(http://www.nicovideo.jp/watch/sm21168585)|
+
+**コメント
+- やっと追加された！　スピンオフ・ヒーロー大好きです！  -- 名無しさん  (2013-07-14 18:25:05)
+#comment()

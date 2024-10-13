@@ -1,0 +1,30 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1446_20140123131858_0280_0280.jpg)
+
+|CENTER:前作|CENTER:今作|CENTER:次作|
+|CENTER:[[Z]]|CENTER:[[Depth>Depth/AVTechNO]]&br()&bold(){Cochapii}|CENTER:[[Charm]]|
+
+|&bold(){[[AVTechNO]]}|
+
+発売：2014年2月6日
+価格：￥150
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：G
+
+|&bold(){[[iTunes Storeで購入する>>https://itunes.apple.com/jp/album/cochapii-single/id811105322]]}|
+
+**CD紹介
+-AVTechNO!氏の配信シングル。
+-冬コミで限定頒布されたCD『[[MIFT#1>MIFT＃1]]』に収録されていた楽曲。
+-KARENTレーベルよりダウンロード販売が行われている。『[[Depth>Depth/AVTechNO]]』と同時リリース。
+
+**曲目
++Cochapii （feat. 鏡音リン）
+
+**リンク
+-[[KARENT：「Cochapii」>>http://karent.jp/album/1446]]
+-[[作者サイト>>http://avtechno.ukime.org/]]
+
+**コメント
+#comment()

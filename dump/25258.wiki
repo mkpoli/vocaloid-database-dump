@@ -1,0 +1,27 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+//&nicovideo_mylist(ここにマイリストブログパーツのiframe用をコピペ)
+
+**特徴
+-[[mikumix>四次元P]]のメンバーの一人。代表曲は「[[LOL -lots of laugh-]]」。
+-現在は諸事情により音楽活動を自粛している。
+-2013年4月28日に、「LOL -lots of laugh-」が[[ミリオン>曲一覧/ミリオン曲一覧]]を達成した。
+
+**ミリオン達成状況
+|CENTER:&bold(){曲名}|CENTER:&bold(){100万再生}|CENTER:&bold(){備考}|
+|[[LOL -lots of laugh-]]|2013年4月28日|[[エンドケイプ]]氏との共作|
+
+**リンク
+-[[サークルHP（mikumix）>>http://www.mikumix.com/]]
+
+**曲
+#list_by_tag(KeN（作り手）,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(KeNCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm8033594)|&nicovideo(sm15963259)|
+
+**コメント
+#comment()
+#include(曲の追加の仕方/告知)

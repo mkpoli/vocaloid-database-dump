@@ -1,0 +1,50 @@
+#right(){&furigana(こあくまこうせんしゅう)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+
+&ref(https://s2.booth.pm/1b43d050-14ee-4891-902d-5b984e56c268/i/56617/f4a19811-0812-4533-bde5-85a0cf0bf684_base_resized.jpg,x=300,y=300)
+
+|&nicovideo(nm16810281)|&nicovideo(sm19478957)|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){小悪魔光線銃}|CENTER:-|
+
+|&bold(){[[おっホイP]]}|
+
+発売：2012年01月
+価格：￥1050（税込）
+流通：即売
+サークル：ohhoi production
+
+**CD紹介
+CD名：『&u(){小悪魔光線銃}』（&u(){こあくまこうせんじゅう}）
+-mash01（おっホイP）のファーストアルバム。
+-優しさと可愛さ満載のポップソング・アルバム！！
+-ボーマス23にて頒布された。
+
+**曲目
++爆音アリス
++さん・きゅー
++小悪魔ビーム
++sweet rain
++innocent smile
++ほしぞら
++Acid Rainbow
++接続中毒 -connectaholic-
++退化願望 -monolith-
++ライトアップ・プロムナード
++JAZZY CAT
++台風39号
++やわらかリップこうげき
++Flower Power
++いちばん好きな人だけ
+
+
+**リンク
+//-[[通販サイト>>http://www.vocareco.com/cd/ohhoiproduction/1.html]]
+-[[BOOTH>>https://mash01.booth.pm/items/56617]]
+
+**コメント
+#comment()

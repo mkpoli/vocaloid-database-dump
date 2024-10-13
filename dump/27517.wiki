@@ -1,0 +1,27 @@
+#right(){&furigana(なちゅらるP) &furigana()【登録タグ:&tags() 】}
+|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/30543812" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/30543812">投稿動画</a></iframe>)|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/34444116" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/34444116">お手伝い動画</a></iframe>)|
+
+**特徴
+-ゆかりさんが好きすぎてとうとうボカロPになってしまった人
+-当初はカバー曲を投稿していたが、「[[すいーとほーむ]]」にてオリジナル曲デビューした。
+-使用するボーカロイドは主に結月ゆかり。その他、miki、ギャラ子のオリジナル曲の投稿もある。
+
+**リンク
+-[[ナチュラルPの備忘録 (作者ブログ)>>http://mai.moe-nifty.com/blog/]]
+-[[Twitter>>http://twitter.com/mai_fumizuki]]
+
+**曲
+#list_by_tag(ナチュラルP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(ナチュラルPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm17747877)|&nicovideo(http://www.nicovideo.jp/watch/sm17932516)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm18437850)|&nicovideo(http://www.nicovideo.jp/watch/sm18558892)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm18780590)|&nicovideo(http://www.nicovideo.jp/watch/sm19424200)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm19632444)|&nicovideo(http://www.nicovideo.jp/watch/sm19642192)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm20205175)|&nicovideo(http://www.nicovideo.jp/watch/sm20735522)|
+
+**コメント
+#comment()

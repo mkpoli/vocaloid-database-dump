@@ -1,0 +1,92 @@
+#right(){&furigana(ちーむかみうた)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/27943338" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/27943338">【ニコニコ動画】</a></iframe>)|
+
+**特徴
+作り手名：『&u(){チームカミウタ}』
+-マスコットキャラクターの &bold(){カミウタ} を中心にしたクリエイター集団。
+//-メンバーは作詞メロ担当のカミウタ、ヴォーカル担当のozu、LIQU@。、びっと、二ノ湯かなえ、サウンド制作担当のSUEZO、マテューラ、平田純一、ドラム担当のWANI、映像担当の[[hazfirst]]、なすの、inukoro、ボカロ担当の[[cillia]]、[[タカオカミズキ]]、管理担当の植田、のんぷろ、CKの計17人。
+-メンバーは計17人。後述。
+-使用合成音声は[[初音ミク]]、[[GUMI>megpoid]]、[[鏡音リン・レン]]、[[猫村いろは]]、[[VY2]]、[[KAITO]]、[[結月ゆかり]]、[[IA]]、[[MEIKO]]。
+-4作目の「[[爾今の洋洋この蛍光にあり]]」が大ヒットし、初の殿堂入りも果たした。
+-『六本木ヒルズ・森美術館10周年記念展LOVE展:アートにみる愛のかたち-シャガールから草間彌生、初音ミクまで』に映像楽曲として出展し放映されるなど熱い支持を受けている。
+//-現在、&bold(){Project 封神 -此処は新約、封神エデン-}」というシリーズを展開中。
+//-現在はグループ名を「&bold(){アマガサ}」に変更し、活動中。
+
+**メンバー
+&bold(){作詞メロ担当}
+-カミウタ
+//（[[Twitter>>https://twitter.com/kaichi66031356]]）
+&bold(){ヴォーカル担当}
+-[[ozu]]
+-[[LIQU@。]]（[[Twitter>>https://twitter.com/Liqua10o]]）
+-[[びっと]]（[[Twitter>>https://twitter.com/binarydigit8]]）
+-[[二ノ湯かなえ]]
+&bold(){サウンド制作担当}
+-[[SUEZO]]（[[Twitter>>https://twitter.com/TRAZT_suezo]]）
+-[[マテューラ]]（[[Twitter新>>https://twitter.com/2n51332]][[、旧>>https://twitter.com/omats_tk]]）
+-[[平田純一]]（[[Twitter>>https://twitter.com/tarahi07292000]]）
+&bold(){ドラム担当}
+-[[WANI]]（[[Twitter>>https://twitter.com/drums_wani]]）
+&bold(){映像担当}
+-[[hazfirst]]
+-[[なすの]]
+-[[inukoro]]（[[Twitter>>https://twitter.com/inukoro_wanwan]]）
+&bold(){ボカロ担当}
+-[[cillia]]
+-[[タカオカミズキ]]
+&bold(){管理担当}
+-[[植田]]
+-[[のんぷろ]]
+-[[CK]]
+
+**リンク
+//-個人HP、PIAPRO、YouTube等ある場合は、ここに。当wiki以外のサイトへリンクを貼る場合は必ず「>>」で別ウインドウでリンクしてください。
+-[[ニコニコ動画>>https://www.nicovideo.jp/user/22197835]]
+-[[YouTube>>http://www.youtube.com/user/toarusan]]
+-[[PIAPRO>>http://piapro.jp/zunichi1002]]
+//-[[Twitter>>https://twitter.com/kamiutautako]]
+-[[Twitter>>http://twitter.com/team_kamiuta]]
+-&s(){[[公式サイト「TEAM KAMIUTA Official Website」>>http://www.teamkamiuta.com/]]}
+-[[公式ブログ「チームカミウタ日誌」>>http://ameblo.jp/kamiuta03020107/]]
+
+**曲
+#list_by_tag(チームカミウタ,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(チームカミウタCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm16897085)|&nicovideo(sm18610187)|
+|&nicovideo(sm18888195)|&nicovideo(sm19159315)|
+|&nicovideo(sm19582438)|&nicovideo(sm20592957)|
+|&nicovideo(sm21010033)|&nicovideo(sm21458762)|
+|&nicovideo(sm21875957)|&nicovideo(sm22122475)|
+|&nicovideo(sm23512374)|&nicovideo(sm24537202)|
+|&nicovideo(sm25055533)|&nicovideo(sm25966754)|
+|&nicovideo(sm26571314)|&nicovideo(sm31559661)|
+
+**関連タグ内の更新履歴
+#region(close,関連タグ内の更新履歴)
+関連タグ内の更新履歴
+※「チームカミウタ」「チームカミウタCD」タグ内で最近編集やコメントのあった記事を新しい方から10件表示しています。
+#list_by_tagsearch(チームカミウタ,チームカミウタCD,sort=timestamp,sort2=desc,errmsg=まだ曲、CDが登録されていません。,or,10)
+#endregion
+
+**コメント
+//- ふりがな、抜けていたので入れました。  -- 名無しさん  (2013-08-04 23:00:06)
+//- やっと入った！　追加乙です！  -- 名無しさん  (2013-08-06 20:18:12)
+//- おお！ついにできたんですね。乙です！  -- 海  (2013-08-06 20:33:40)
+//- やっとページできた！作成乙です(*^o^*)  -- 名無しさん  (2013-08-12 23:16:39)
+- メジャーアルバム発売おめでとう！！  -- 名無しさん  (2013-11-08 17:06:16)
+- CD発売おめでとうございます!!!最近聞き始めたばかりで不勉強ですが、楽しいにしています( ( (o(*ﾟ▽ﾟ*)o) ) )  -- 醤油  (2013-12-08 12:21:33)
+- 神曲ばっかりで最高です！  -- セシア  (2014-02-08 00:29:48)
+//- uu  -- 名無しさん  (2014-10-23 18:36:25)
+- ちょっと右寄りだよね  -- 名無しさん  (2015-10-03 23:37:31)
+- どこに消えてしまったのか... 戻ってこ〜い！  -- 名無しさん  (2018-04-26 17:18:30)
+- 公式サイトに跳ぶとドメインが売られてました…  -- 名無しさん  (2018-05-28 23:05:36)
+- ツイッターも一年以上音沙汰なしだもんなあ、戻ってきて…また曲作って…  -- 名無しさん  (2018-07-21 15:05:31)
+#comment()

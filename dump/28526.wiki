@@ -1,0 +1,230 @@
+#right(){&furigana()&furigana()【登録タグ:&tags()】}
+|&nicovideo(http://www.nicovideo.jp/watch/sm22931255)|&youtube(http://www.youtube.com/watch?v=0vN8fDKe6bk){342,187}|
+作詞：[[一億円P]]
+作曲：[[一億円P]]
+編曲：[[一億円P]]
+唄：初音ミク・IA
+
+**曲紹介
+-一億円P の9作目。
+-PVは [[依存]]氏 が手掛ける。
+-『[[EXIT TUNES PRESENTS Entrance Dream Music]]』収録曲。
+
+**歌詞
+section1
+超新星から始まる　くしゅんと弾む音が鳴る
+輝度が不変の形を為す　「とりあえず、まぁ、これでいっか。」
+楽観主義のプログラム　孤独に線は弧を描く
+不調和な点が宙を舞う　「ここ」までわずか1分12秒
+
+（からの）　超相対的サイクル
+（からの）　理想空間の産物
+（ポトリ）　エデンに座礁したアップル
+気付いちゃっても　それはご愛嬌
+（からの）　一瞬だけの火が宿る
+（からの）　一寸先の光まで
+（うーむ）　一分前が何だっけ
+空っぽのまま　せーのっ
+スタートです！
+
+（そして）
+ファーザー, Mother, シスター, Brother,
+グランパ, Grandma にあとえっと
+フレンズに My love, ゴッドも Devil も
+Hey Clap! Clap!　Let's Cha! Cha!
+walker A, walker B, walker C, walker D,　ほら君も
+On your mark で準備いい？　さぁ、行こう
+
+Let's go fly　虹の架橋駆けて
+水色のあの空の向こうまで
+Make a wish.　go for it.
+ガラスの靴とあの舞台は　いつでも待ってるよ
+Let's go fly　青と白の翼で
+曖昧な黒さえ越えてみせて
+be a star.　It's easy.　迷いそうでも
+不確かなくらいが丁度いいじゃん？
+
+section2
+コウノトリからの invitation
+何も知らず目指す destination
+置かれたまんまの指令書
+破り捨てても問題ないっしょ？（的な）
+共に手を取り行こうかホーミーズ
+眩しすぎるくらいのほうに
+焦燥感には pay attention
+心がけたら just アーアアッアー
+
+ファーザー, Mother, シスター, Brother, 
+グランパ, Granma にあとその他！
+フレンズに My love, ワンちもニャンちも
+Hey woof woof　Let's meow meow
+フリーキーでワンダーでも
+ちょっとくすぐったい世界の果てへ
+ワンツースリー！　be all right, yes!
+さぁ、行こう
+
+Let's go fly　虹の架橋駆けて
+水色のあの空の向こうまで
+Make a wish.　go for it.　扉を開けて
+一筋の軌跡に色をつけよう
+Let's go fly　青と白の翼で
+曖昧な黒さえ越えてみせて
+be a star.　It's easy.　つまずいてもさ
+支え合ったら　ね？超余裕でしょ？
+so, Fly!!
+
+Ah…
+
+僕だけの物語なんだ　僕から見える景色なんだ
+僕らがいるのは今なんだ　カコもミライもどうだっていい
+どうしようもない世界だね　代わり映えのない毎日さ
+ちょっと住みにくい「ここ」だけど　嫌いになれない僕がいるんだ
+
+僕だけの物語なんだ　僕から見える景色なんだ
+僕らがいるのは今なんだ　カコもミライもどうだっていい
+なんか頼りない灯火で　暗がりの道を照らすんだ
+ほら怖くはないさ
+
+Let's go fly　虹の架橋駆けて
+水色のあの空の向こうまで
+Make a wish.　go for it.
+ガラスの靴とあの舞台は　いつでも待ってるよ
+Let's go fly　青と白の翼で
+曖昧な黒さえ越えてみせて
+be a star.　It's easy.　飛んでは踊る
+あのラビットみたいに輝いて
+so, Fly!!
+
+section3
+また今日から始まるストーリー
+つまずいては傷つきもういい
+なんて言いながらも just goin'
+so Let's clap! clap!　Let's cha! cha!
+「一人じゃない」誰かの声を
+頼りにどんな困難も越えよう
+怯えてる暇なんてまじないさ
+未知なる可能性に　いざ Diving!!
+
+
+#region(close,色分け歌詞)
+( &color(#5AB9C1){初音ミク} ・ &color(#F19cBB){IA} )
+
+&color(#5AB9C1){section1}
+&color(#5AB9C1){超新星から始まる　くしゅんと弾む音が鳴る}
+&color(#5AB9C1){輝度が不変の形を為す　「とりあえず、まぁ、これでいっか。」}
+&color(#5AB9C1){楽観主義のプログラム　孤独に線は弧を描く}
+&color(#5AB9C1){不調和な点が宙を舞う　「ここ」までわずか1分12秒}
+
+&color(#F19cBB){からの　}&color(#5AB9C1){超相対的サイクル}
+&color(#F19cBB){からの　}&color(#5AB9C1){理想空間の産物}
+&color(#F19cBB){ポトリ　}&color(#5AB9C1){エデンに座礁したアップル}
+&color(#5AB9C1){気付いちゃっても　それはご愛嬌}
+&color(#F19cBB){からの　}&color(#5AB9C1){一瞬だけの火が宿る}
+&color(#F19cBB){からの　}&color(#5AB9C1){一寸先の光まで}
+&color(#F19cBB){うーむ　}&color(#5AB9C1){一分前が何だっけ}
+&color(#5AB9C1){空っぽのまま　せーのっ}
+&color(#5AB9C1){スタートです！}
+
+&color(#F19cBB){そして　}
+&color(#5AB9C1){ファーザー, Mother, シスター, Brother,}
+&color(#5AB9C1){グランパ, Grandma にあとえっと}
+&color(#5AB9C1){フレンズに My love, ゴッドも Devil も}
+&color(#5AB9C1){Hey Clap! Clap!　Let's Cha! Cha!}
+&color(#5AB9C1){walker A, walker B, walker C, walker D,　ほら君も}
+&color(#5AB9C1){On your mark で準備いい？　さぁ、行こう}
+
+&color(#5AB9C1){Let's go fly　虹の架橋駆けて}
+&color(#5AB9C1){水色のあの空の向こうまで}
+&color(#5AB9C1){Make a wish.　go for it.}
+&color(#5AB9C1){ガラスの靴とあの舞台は　いつでも待ってるよ}
+&color(#5AB9C1){Let's go fly　青と白の翼で}
+&color(#5AB9C1){曖昧な黒さえ越えてみせて}
+&color(#5AB9C1){be a star.　It's easy.　迷いそうでも}
+&color(#5AB9C1){不確かなくらいが丁度いいじゃん？}
+
+&color(#F19cBB){section2}
+&color(#F19cBB){コウノトリからの invitation}
+&color(#F19cBB){何も知らず目指す destination}
+&color(#F19cBB){置かれたまんまの指令書}
+&color(#F19cBB){破り捨てても問題ないっしょ？&color(#5AB9C1){ 的な}}
+&color(#F19cBB){共に手を取り行こうかホーミーズ}
+&color(#F19cBB){眩しすぎるくらいのほうに}
+&color(#F19cBB){焦燥感には pay attention}
+&color(#F19cBB){心がけたら just アーアアッアー}
+
+&color(#5AB9C1){ファーザー, Mother, シスター, Brother, }
+&color(#5AB9C1){グランパ, Granma にあとその他！}
+&color(#5AB9C1){フレンズに My love, ワンちもニャンちも}
+&color(#5AB9C1){Hey woof woof　Let's meow meow}
+&color(#5AB9C1){フリーキーでワンダーでも}
+&color(#5AB9C1){ちょっとくすぐったい世界の果てへ}
+&color(#5AB9C1){ワンツースリー！　be all right, yes!}
+&color(#5AB9C1){さぁ、行こう}
+
+&color(#5AB9C1){Let's go fly　虹の架橋駆けて}
+&color(#5AB9C1){水色のあの空の向こうまで}
+&color(#5AB9C1){Make a wish.　go for it.　扉を開けて}
+&color(#5AB9C1){一筋の軌跡に色をつけよう}
+&color(#5AB9C1){Let's go fly　青と白の翼で}
+&color(#5AB9C1){曖昧な黒さえ越えてみせて}
+&color(#5AB9C1){be a star.　It's easy.　つまずいてもさ}
+&color(#5AB9C1){支え合ったら　ね？超余裕でしょ？}
+&color(#5AB9C1){so, Fly!!}
+
+&color(#5AB9C1){Ah…}
+
+&color(#5AB9C1){僕だけの物語なんだ　僕から見える景色なんだ}
+&color(#5AB9C1){僕らがいるのは今なんだ　カコもミライもどうだっていい}
+&color(#5AB9C1){どうしようもない世界だね　代わり映えのない毎日さ}
+&color(#5AB9C1){ちょっと住みにくい「ここ」だけど　嫌いになれない僕がいるんだ}
+
+&color(#5AB9C1){僕だけの物語なんだ　僕から見える景色なんだ}
+&color(#5AB9C1){僕らがいるのは今なんだ　カコもミライもどうだっていい}
+&color(#5AB9C1){なんか頼りない灯火で　暗がりの道を照らすんだ}
+&color(#5AB9C1){ほら怖くはないさ}
+
+&color(#5AB9C1){Let's go fly　虹の架橋駆けて}
+&color(#5AB9C1){水色のあの空の向こうまで}
+&color(#5AB9C1){Make a wish.　go for it.}
+&color(#5AB9C1){ガラスの靴とあの舞台は　いつでも待ってるよ}
+&color(#5AB9C1){Let's go fly　青と白の翼で}
+&color(#5AB9C1){曖昧な黒さえ越えてみせて}
+&color(#5AB9C1){be a star.　It's easy.　飛んでは踊る}
+&color(#5AB9C1){あのラビットみたいに輝いて}
+&color(#5AB9C1){so, Fly!!}
+
+&color(#F19cBB){section3}
+&color(#F19cBB){また今日から始まるストーリー}
+&color(#F19cBB){つまずいては傷つきもういい}
+&color(#F19cBB){なんて言いながらも just goin'}
+&color(#F19cBB){so Let's clap! clap!　Let's cha! cha!}
+&color(#F19cBB){「一人じゃない」誰かの声を}
+&color(#F19cBB){頼りにどんな困難も越えよう}
+&color(#F19cBB){怯えてる暇なんてまじないさ}
+&color(#F19cBB){未知なる可能性に　いざ Diving!!}
+#endregion
+
+
+**コメント
+- 追加おつ！  -- 名無しさん  (2014-02-23 02:08:19)
+- 追加されてる!!!!!追加おつです!!!!!!!     この曲大好きっす（≧∇≦）  -- 名無しさん  (2014-02-23 18:55:25)
+- 乙です！！  -- 名無しさん  (2014-02-26 22:56:06)
+- 乙です！！好きだこれ  -- 名無しさん  (2014-03-01 20:05:19)
+- もう全部がどストライク！*\(^o^)/*  -- キノコ  (2014-03-11 19:59:02)
+- ボカロの中で一番好きd(^_^o)  -- めろてぃあ  (2014-03-13 17:04:42)
+- さいこーーーーーーーー！！！  -- ろろ  (2014-07-14 00:56:00)
+- 可愛い！！  -- ぐりぴ  (2014-08-22 10:33:04)
+- これ大好き‼何度聞いても飽きないんだよね〜（＾Ｏ＾☆♪  -- ネコカラス  (2014-08-27 05:57:10)
+- 大好き  -- かえで  (2014-11-11 17:27:15)
+- わたしも好きです‼  -- かえで(メイプル)  (2015-01-31 21:55:15)
+- good  -- 名無しさん  (2016-05-26 18:00:21)
+- やっぱこれ好きだわー  -- くれそんぬ  (2016-05-26 18:06:30)
+- 可愛いなあ  -- 芋  (2016-08-31 19:33:28)
+- これは・・・・  -- 卯月  (2016-09-06 00:04:29)
+- 最高  -- 名無しさん  (2016-11-13 08:24:31)
+//- riririちゃんSLH様から  -- 名無しさん  (2017-08-13 21:38:47)
+- かわいいいいいいいいいい  -- きぃにゃん  (2017-11-14 19:48:27)
+- まじこの曲すこ  -- 名無しさん  (2018-10-14 10:29:06)
+- ありがと  -- 豆腐  (2019-06-10 23:50:26)
+- かわいいだいすき  -- 名無しさん  (2019-08-13 09:28:58)
+#comment()

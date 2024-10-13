@@ -1,0 +1,51 @@
+#right(){&furigana(れっとうかんじょうかいころく)&furigana()【登録タグ:&tags() 】}
+
+&ref(https://cdn.karent.jp/thumb_a/002/2002_20170103020537_0400_0400.jpg,x=300,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm21218370)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[心音譜]]|CENTER:&bold(){劣等感情回顧録}|CENTER:[[添う、愛を。>添う、愛を。/CD]]|
+
+|&bold(){[[やみくろ]]}|
+
+|流通|CENTER:即売|CENTER:委託|CENTER:同人|CENTER:配信|
+|発売|CENTER:2013年7月7日|CENTER:|CENTER:|CENTER:2017年1月30日|
+|価格|CENTER:￥1,000|CENTER:￥1,500（税込）|CENTER:￥1,000（税込）|CENTER:￥1,528（税込）|
+|サークル|CENTER:やみいもーん|CENTER:やみなべ屋|||
+
+**CD紹介
+>違う〈誰か〉になりたかった。
+-やみくろ氏の2ndアルバム。
+-ボーカルはルカ。コーラスでMewも使われている。
+-ジャケットイラストは今朝春氏が担当。
+-THE VOC@LOiD M@STER 25（ボーマス25）にて頒布。
+-とらのあなで委託販売が行われていた。
+-現在はBOOTHによる通信販売の他、KARENTレーベルよりダウンロード販売が行われている。
+--「巡音ルカ 8th Anniversary」企画で配信された楽曲の一つ。
+
+**曲目
++『流星群をあなたに。』
++[[new wor(L)d]]
++片道紙飛行機
++[[霊感0]]
++[[駄目人間]]
++[[かんじかたかな]]
++いたいのいたいのとんでけ！
++リストバンドと応援歌
++[[応援歌は人を殺した。]]
++[[Tic-tick]]
++[[かいぎ]]
++[[バイバイプレイヤー]]
++劣等感情回顧録
++104冊目の音楽
+
+**リンク
+-[[作者ブログ>>http://ameblo.jp/yamichrome/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/13/41/040030134124.html]]
+-[[KARENT>>https://karent.jp/album/2002]]
+-[[KARENT：「巡音ルカ 8th Anniversary」>>https://karent.jp/special/luka17]]
+-[[BOOTH>>https://yamichrome.booth.pm/items/1687748]]
+
+**コメント
+#comment()

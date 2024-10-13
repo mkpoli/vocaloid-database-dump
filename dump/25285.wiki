@@ -1,0 +1,36 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm20585836)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[DUALBOOT]]|CENTER:&bold(){estrela EP}|CENTER:[[雨粒ファインダー>雨粒ファインダー/CD]]|
+
+|&bold(){[[はなぽ]]}|[[結季]]|
+
+|流通|CENTER:即売|
+|発売|CENTER:2013年4月29日|
+|価格|CENTER:￥500（税込）|
+|サークル|CENTER:サークルみけぽ▼･ｗ･▽|
+
+**CD紹介
+-わんわんP こと はなぽ氏 の 1st EP 。
+-一部アレンジ・ミックス・マスタリングをやり直した既存曲5曲にカラオケ5曲を加えた全10曲を収録。
+-アートワークは みかりり氏 が手掛ける。 はなぽ氏 が昔撮影した天体写真が使われている。
+-M3-2013春 にてリリース。
+
+**曲目
++[[estrela]] -EP Mix-
++[[Blue sky smiling]] -EP Mix-
++[[Vision City]] -EP Mix-
++[[Feel your love]] -EP Mix-
++[[Cross Blink]] -EP Mix-
++estrela -EP Mix-（Inst.）
++Blue sky smiling -EP Mix-（Inst.）
++Vision City -EP Mix-（Inst.）
++Feel your love -EP Mix-（Inst.）
++Cross Blink -EP Mix-（Inst.）
+
+**リンク
+-[[はなぽろはなぽ。（ブロマガ）>>http://ch.nicovideo.jp/hanapo]]
+
+**コメント
+#comment()

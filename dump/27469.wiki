@@ -1,0 +1,31 @@
+#right(){&furigana(おきな)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/18042679" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/18042679">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-迫力あるロックサウンドを得意とする。
+-使用ボカロは初音ミクと結月ゆかり。
+-老人Pという呼び名もあるようだ。
+-7作目「[[歯車さん]]」で自身初の殿堂入りを果たす。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/okina_pinkbass]]
+-[[Twitter>>http://twitter.com/okina_minicoil]]
+
+**曲
+#list_by_tag(翁,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(翁CD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm9998457)|&nicovideo(sm10027115)|
+|&nicovideo(sm10144195)|&nicovideo(sm12658455)|
+|&nicovideo(sm14762256)|&nicovideo(sm15289622)|
+|&nicovideo(sm16161463)|&nicovideo(sm16601745)|
+|&nicovideo(sm18340016)|&nicovideo(sm18837838)|
+|&nicovideo(sm20634273)|&nicovideo(sm21190765)|
+
+**コメント
+- 翁さんホント大好き＼＼\\٩( 'ω' )ﻭ//／／  -- 名無しさん  (2014-01-13 18:57:22)
+- あれ？少女戦争の「果てへ」が無い？  -- ネミ  (2014-06-14 20:45:58)
+#comment()

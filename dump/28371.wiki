@@ -1,0 +1,48 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#ref(http://www.toranoana.jp/mailorder/cit/pagekit/0000/00/05/000000057537/main-1.jpg)
+
+
+|&nicovideo(http://www.nicovideo.jp/watch/sm22826346)|&youtube(https://www.youtube.com/watch?v=Rf6SdsaOF5U){336,189}|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[M.S.S.Planet>M.S.S.Planet/CD]]|CENTER:&bold(){M.S.S.Phantom}|CENTER:-|
+
+|&bold(){[[M.S.S Project]]}|
+
+|流通|CENTER:同人|
+|発売|CENTER:2014年2月22日|
+|価格|CENTER:￥1,890（税込）|
+|サークル|CENTER:M.S.S Project|
+
+**CD紹介
+-人気ゲーム実況者集団[[M.S.S Project]]による待望の2ndアルバム。
+-前回と同じくボーカロイド楽曲、インスト曲、無駄トークに加え、メンバー歌唱曲もありと充実した内容。
+-実況プレイ動画内で使用されたBGM、MMORPG「ラグナロクオンライン」11周年記念曲、アーケードゲーム「グルーヴコースター」への提供曲など11曲を収録。
+
+**曲目
++[[THE BLUE>THE BLUE/FB777]] feat.初音ミク
++DEGI EARTH(inst.)
++RAGNAROCK　～ラグナロクオンライン11th記念ソング～ feat.初音ミク,GUMI
++2DIMENSION(inst.)
++CELESTIAL feat.初音ミク
++[[雷凛永彩]] feat.初音ミク
++BLACK and FIRE feat.GUMI
++KIKKUNのテーマ(inst.)
++[[Super High Speed Jupiter>S・H・S Jupiter]] feat.初音ミク
++[[M.S.S.Phantom]] feat.初音ミク
++We are MSSP! feat.M.S.S Project
++無駄トーク2
+
+**リンク
+-[[animate特集ページ>>http://www.animate-onlineshop.jp/special/mssproject/pc/]]
+-[[animate>>http://www.animate-onlineshop.jp/products/detail.php?product_id=1249531%EF%BC%89]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/cit/pagekit/0000/00/05/000000057537/index.html]]
+-[[山野楽器>>http://www.yamano-music.co.jp/userProdDetailCD.do?itemCode=Y140131996&itemClass=YC]]
+
+**コメント
+- 追加お疲れ様でした！そしてはやいｗｗｗｗ  -- 時雨  (2014-02-06 21:04:57)
+- 発売のところ2013年になってますよー  -- ヤマダ  (2014-02-09 13:47:07)
+- ↑修正しました。  -- 名無しさん  (2014-02-09 14:10:34)
+- アマゾンはやく届かないかなあーwktk  -- いろはす  (2014-04-09 22:33:57)
+- MSSP大好きもう好き  -- シー君★MSSP少年  (2014-05-26 15:53:17)
+#comment()

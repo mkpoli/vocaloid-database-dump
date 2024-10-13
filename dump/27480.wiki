@@ -1,0 +1,42 @@
+#right(){&furigana(よひー)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/25421336" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/25421336">よぴー作</a></iframe>)|&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/30246958" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/30246958">参加 & お手伝い させていただきました</a></iframe>)|
+
+**特徴
+作り手名：『&u(){よぴー}』
+-他のPの調声やMixを手がけることが多いが、自らもオリジナル曲を投稿している。
+-使用するボーカロイドは初音ミク。
+-グループ『[[Evergreen Leland Studio]]』のメンバー。
+
+**リンク
+-[[ニコニコ>>https://www.nicovideo.jp/user/15760814]]
+-[[ピアプロ>>https://piapro.jp/yopp]]
+-[[Twitter>>https://twitter.com/yopyloid]]
+
+**曲
+#list_by_tag(よぴー,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(よぴーCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+#region(open,オリジナル曲)
+-オリジナル曲
+|&nicovideo(sm14430252)|&nicovideo(sm14503832)|
+|&nicovideo(sm14611346)|&nicovideo(sm14742719)|
+|&nicovideo(sm14843027)|&nicovideo(sm15089293)|
+|&nicovideo(sm15415783)|&nicovideo(sm16334536)|
+|&nicovideo(sm23288906)|>|
+#endregion
+#region(open,調声やMixに関わった作品（再生数の多いもの６つ）)
+-調声やMixに関わった作品（再生数の多いもの６つ）
+|&nicovideo(sm16844849)|&nicovideo(sm18687659)|
+|&nicovideo(sm18034406)|&nicovideo(sm27468592)|
+|&nicovideo(sm17957823)|&nicovideo(sm19228965)|
+#endregion
+**コメント
+- 最近mixの方しかしてないけど、よぴー自身の曲はとても素晴らしいからオリジナルupして欲しい  -- 名無しさん  (2017-02-17 16:11:07)
+#comment()

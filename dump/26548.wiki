@@ -1,0 +1,11 @@
+#right(){【登録タグ:&tags()】}
+//↑タグ忘れ防止のための表示
+曖昧さ回避のためのページ
+----
+-[[seleP]]の曲
+--[[STORY TELLER/seleP]]
+
+-[[OSTER project]]のCD
+--[[Story Teller/CD]]
+
+#include(曖昧さ回避の追加の仕方/告知)

@@ -1,0 +1,55 @@
+#right(){&furigana(まんけきょう)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm22567978)|
+作詞：[[銀鱗P]]
+作曲：[[銀鱗P]]
+編曲：[[銀鱗P]]
+唄：[[MEIKO]]
+
+**曲紹介
+曲名：『&u(){万華響}』（&u(){まんげきょう}）
+-銀鱗Pの14作目。
+-『[[水鏡の声]]』収録曲。
+
+**歌詞
+（動画より書き起こし）
+
+&color(deeppink){凍りついた道のそばで　儚げに笑う君}
+&color(deeppink){僕は何も言えないまま「綺麗だ」と　息を吐いた}
+
+&color(blue){寒い朝に意識が浮上　震える足　つま先まで}
+&color(blue){目まぐるしく移り変わる　桟の向こう　目眩がした}
+
+&color(blue){最後に見た、色は何？}
+
+&color(blue){助けてと　叫んでも}
+&color(deeppink){手を伸ばしても}
+&color(blue){届カナイ}　&color(deeppink){届カナイ}
+&color(deeppink){ここにあるよ　見つけてよ}
+&color(blue){どこにあるの　見つからない}
+
+&color(blue){忘れたくない}
+&color(blue){僕の場所}　&color(deeppink){僕の場所}
+
+&color(blue){同じ色の海にさ　ひとつの}
+&color(blue){鮮やかな色を　落として}
+&color(blue){響くよ}　&color(deeppink){響くよ}
+
+&color(deeppink){見つけたの}　&color(blue){会いたかった}
+&color(deeppink){彩 -イロ-　の海で}
+&color(deeppink){もう失くさないわ・・・}　&color(blue){もう失くさない}
+&color(blue){思い出すよ　あの日のこと}
+&color(deeppink){思い出すよ　あの日のこと}
+
+&color(blue){虹が掛かる}
+&color(deeppink){始まりの日}　&color(blue){始まりの日}
+
+&color(blue){最初に見た色は君}　&color(deeppink){最初に見た色は君}
+
+
+**コメント
+- 追加乙！  -- 名無しさん  (2014-01-04 21:10:01)
+#comment()

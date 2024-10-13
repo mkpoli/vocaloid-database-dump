@@ -1,0 +1,45 @@
+#right(){&furigana(にこばにほへと ぼかろver)&furigana()【登録タグ:&tags() 】}
+//&ref(http://www.nico-bar.net/nicobarning/image/hoheto_cd1.jpg)
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186144867.jpg,x=300,y=300)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){ニコバニほへと ボカロver}|CENTER:-|
+
+|[[オワタP]]|[[西沢さんP]]|[[ひとしずくP]]|[[やま△]]|[[みきとP>みきとP/作り手]]|
+|[[PolyphonicBranch]]|[[ナナホシ管弦楽団]]|[[natsuP]]|[[halyosy]]|[[Nem]]|
+|[[花束P]]|[[シグナルP]]|[[ゆちゃP]]|[[たま]]|>|
+
+|流通|CENTER:通販|
+|発売|CENTER:2013年9月15日|
+|価格|CENTER:￥2,100（税込）|
+|サークル|CENTER:サークルニコバーニング|
+
+**CD紹介
+-ライブ「NICOBARNING」の為に書き下ろされた曲を1つにまとめたコンピCD。全11曲収録。
+-ライブで買えなかった人の為に数量限定、通販のみでリリースされる。
+-ジャケットイラストは [[たま]]氏 が手掛ける。
+
+**曲目
++[[つよく、もっと力を]]　/　オワタP feat. 鏡音リン
++[[ハートトゥハート]]　/　西沢さんP feat. MAYU
++[[いたちごっこ ∞ らゔぁーず]]　/　ひとしずくP×やま△ feat. 鏡音レン
++[[戦慄!! ムカデ競争]]　/　みきとP feat. miki
++[[水鏡ディストーション]]　/　PolyphonicBranch feat. GUMI
++[[FREEDMAN]]　/　ナナホシ管弦楽団 feat. GUMI
++[[Place！！！！！！！！！！]]　/　natsuP（SCL Project） feat. 鏡音レン・VY2
++[[ピュバティ]]　/　halyosy feat. 鏡音レン
++[[メルヘン彼氏とメルヘン彼女]]　/　Nem feat. 鏡音リン・鏡音レン
++プロジェクトF　/　花束P・Dios/シグナルP feat. 鏡音レン
++[[突然ですが、アイドル始めました]]　/　ゆちゃP feat. GUMI・MAYU
+
+**リンク
+-[[特設ページ>>http://www.nico-bar.net/nicobarning/goods.html]]
+-[[ニコバーショップ>>http://nicobar.shop-pro.jp/?pid=63070300]]
+
+**コメント
+- おおお！！！  -- 名無しさん  (2013-09-12 20:32:45)
+- 最新曲ばっかじゃん  -- 名無しさん  (2013-09-18 14:28:03)
+- 良いなーこれ欲しい・・・！！！ナナホシさんいるし・・・！  -- 名無しさん  (2014-10-25 08:28:55)
+- 突然ですが、アイドル始めましたを踊るので欲しいです!!今でも売ってるかな...&gt;&lt;  -- 名無し  (2015-06-23 22:33:04)
+#comment()

@@ -1,0 +1,48 @@
+#right(){&furigana(しゅみっくとりが2 -PsychoCrush A-POP!!-)&furigana()【登録タグ:&tags() 】}
+//#ref(http://img.toranoana.jp/popup_img/04/0030/13/73/040030137329-1p.jpg,width=300,height=300)
+//&ref(http://beatlogic.jp/image/bewc03/bewc03.png)
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186136180.jpg,x=300,y=300)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[シュミックトリガ！ -New wave of A-POP-]]|CENTER:&bold(){シュミックトリガ2 -PsychoCrush A-POP!!-}|CENTER:-|
+
+|&nicovideo(http://www.nicovideo.jp/watch/sm21522395)|
+
+|[[ピノキオピー]]|[[azuma]]|[[らいふP]]|[[おでんぱ☆スタジオ]]|[[ぶっちぎりP]]|
+|[[かめりあ]]|[[cello]]|[[盛るP]]|[[ふなむし]]|[[Phasma]]|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|>|CENTER:2013年8月12日|
+|価格|CENTER:￥1,000（税込）|CENTER:￥1,500（税込）|
+|サークル|CENTER:beatlogic / ManiaX55 |CENTER:beatlogic|
+
+**CD紹介
+>&bold(){「世界征服はじめました」}
+>&bold(){電波主義組織による第二次洗脳計画、ここに始動────}
+-10人の電波主義者（デンパイスト）による痛快コンピレーションの第2弾！！全10曲収録。
+-ジャケットイラストは 狂乱家族日記 などのイラストを手掛ける x6suke氏 。
+-C84（コミックマーケット84）にてリリース。
+
+**曲目
++電波、受信チュウ...　/　[[かめりあ]]
++ちょまって！　/　おでんぱ☆スタジオ
++クリーム少女の末路　/　[[盛るP]]
++それともおやつ？（結月ゆかり・蒼姫ラピスver.）　/　[[azuma]]
++總毛立ちCHU♡身まかりCHU♡　/　[[ふなむし]]
++ウーパーとルーパー　/　[[Phasma]]
++アキバ☆二次元→ゲットだぜ！　/　[[cello]]
++[[ぽちっと☆ランダム]]　/　メルセンヌ・シスターズ with [[ぶっちぎりP]]
++[[こどものしくみ]]　/ピノキオピー
++せかいのいろをぬりかえて　/　らいふP
+
+**リンク
+-[[特設サイト>>http://beatlogic.jp/bewc03.html]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/13/73/040030137329.html]]
+
+**コメント
+- ピノキオさんの曲がほかより重い気がするのは気のせいだろうか  -- kana  (2013-08-19 22:54:48)
+- ↑突っ込んじゃだめだ！ｗｗｗ  -- 名無しさん  (2013-08-23 16:17:12)
+- ピノキオP参加←これだけで買う意味が出る  -- 名無しさん  (2013-09-13 10:04:55)
+- ↑激しく同意www  -- kana  (2013-09-29 19:40:06)
+#comment()

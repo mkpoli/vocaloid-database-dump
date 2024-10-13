@@ -1,0 +1,33 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo(sm20344532)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[White Canvas]]|CENTER:&bold(){Catch our world}|CENTER:-|
+
+|&bold(){[[しげぱんP]]}|&b(){[[そらP]]}|&B(){[[DACCHI]]}|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|2013年3月24日||
+|価格|CENTER:￥1,000|CENTER:￥1,260（税込）|
+|サークル|>|CENTER:SKYCOLOR project|
+
+**CD紹介
+-サークル「SKYCOLOR project」の2nd Album。
+-[[kz]]氏の「[[Tell your world]]」のアンサーソング、というしげぱんPの元コンセプトを軸に作られたコンセプトアルバム。
+-歌もの以外にもインスト曲も収録。
+-ボーパラ関西で頒布。
+-とらのあなで委託販売が行われている。
+
+**曲目
++Introduction-Instrumental-（そらP）
++Little Universe（DACCHI）
++Blood and flesh（そらP)
++[[Catch our world]]（しげぱんP）
++Future（DACCHI）
++Conclusion-Instrumental-（そらP）
+
+**リンク
+-[[とらのあな委託販売サイト>>http://www.toranoana.jp/mailorder/article/04/0030/13/44/040030134431.html]]
+
+**コメント
+#comment()

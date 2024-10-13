@@ -1,0 +1,40 @@
+#right(){&furigana(れんあいしょうせつ)&furigana()【登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186134509.jpg,x=300,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm21814855)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[レイニー>レイニー/CD]]|CENTER:&bold(){恋愛小説}|CENTER:[[ガレージ革命/ナイト＆ナイト>ガレージ革命／ナイト＆ナイト]]|
+
+|&bold(){[[ふえると]]}|
+
+|流通|CENTER:即売|
+|発売|CENTER:2013年9月15日|
+|価格|CENTER:￥1,000（税込）|
+|サークル|CENTER:SKYCOLOR Project|
+
+**CD紹介
+-ふえると氏の1stアルバム。
+-デビュー作である「[[レイニー>レイニー/ふえると]]」などの既存曲に新曲を加えた全10曲を収録。
+-ジャケットイラストを こしあんこ氏 が、マスタリングを でまぞー氏 が、その他もろもろのデザインを [[そらP]] が手掛ける。
+-VOCALOID Fantasia 4（ボカファン4）にてリリース。
+
+**曲目
++はじまりの話
++[[レイニー>レイニー/ふえると]]
++[[幸福地球儀]]
++My Story.
++[[After the day]]
++ホタライズ
++[[迷い殺しのパレード]]
++[[うさぎハート]]
++[[雨色ノベル]]
++Raining（inst.）
+
+**リンク
+-[[Twitter>>http://twitter.com/fueruto886]]
+
+**コメント
+- 欲しいな・・・・・・うさぎハート・・・・・販売して  -- 良太  (2014-12-24 21:59:13)
+#comment()

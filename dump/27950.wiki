@@ -1,0 +1,46 @@
+#right(){&furigana(いーすとえんど・ぱんでもにうむ)&furigana()【登録タグ:&tags() 】}
+//#ref(http://img.toranoana.jp/popup_img/04/0030/17/96/040030179692-1p.jpg,width=300,height=300)
+
+&ref(https://cdn.karent.jp/thumb_a/026/2026_20170305002055_0400_0400.jpg,x=300,y=300)
+
+|&nicovideo(http://www.nicovideo.jp/watch/sm22498789)|&youtube(http://youtu.be/ITt3PMq3OAQ){336,189}|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Welcome to the world E.P.]]|CENTER:&bold(){イーストエンド・パンデモニウム}|CENTER:[[Our true feelings]]|
+
+|&bold(){[[takamatt]]}|[[富岡二郎]]|
+
+|流通|CENTER:即売|CENTER:同人|CENTER:配信|
+|発売|CENTER:2013年12月31日|CENTER:2014年1月上旬|CENTER:2017年3月22日|
+|価格|CENTER:￥1,000（税込）|CENTER:￥1,499（税込）|CENTER:|
+|サークル|>|>|CENTER:Irie Moments|
+
+**CD紹介
+-takamatt氏 の 2nd album.
+-殿堂入り作の『[[ドラゴンライジング]]』『[[トキヲ・ファンカ]]』を筆頭にした既存曲と新曲やインストを加えた、全11曲を収録。
+-ジャケットイラストは [[富岡二郎]]氏 が手掛ける。
+-C85（コミックマーケット85）にてリリース。
+-とらのあなで委託販売が行われている。
+-2017年3月にKARENTレーベルで配信が開始された。
+
+**曲目
++ネヴァーランドオンライン feat. GUMI
++[[ドラゴンライジング]] feat. GUMI・鏡音レン
++[[ウィリウィリ]] feat. 鏡音リン
++[[ライオン☆ボーイ]] feat. 鏡音レン
++[[ザイオン・ザ・ガイオン]] feat. 鏡音リン・GUMI
++[[トキヲ・ファンカ]] feat. GUMI
++イーストエンド・パンデモニウム （inst.）
++ドラスティックドグマ feat. GUMI
++ズンガ！ズンガ！ズンガ！ feat. GUMI
++[[キジムナー]] feat. GUMI
++キミノウタ feat. 初音ミク
+
+**リンク
+-[[特設ページ>>http://eastend-pandemonium.tumblr.com/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/17/96/040030179692.html]]
+-[[KARENT>> https://karent.jp/album/2026]]
+
+**コメント
+- 出ると知って即買いました。どれも大当たりでしたが中でもウィリウィリがドつぼ。最高です。  -- YYY  (2014-01-11 19:30:07)
+#comment()

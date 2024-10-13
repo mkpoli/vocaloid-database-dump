@@ -1,0 +1,38 @@
+#right(){&furigana(ちょこらてP)&furigana()【登録タグ:&tags() 】}
+|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/25114615" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/25114615">【ニコニコ動画】</a></iframe>)|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/34288159" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/34288159">【ニコニコ動画】</a></iframe>)|
+
+**特徴
+-ハンドルネームはakane。
+-ボカロ曲のカバーを投稿するボカロP。
+-他のボカロPとコラボして、オリジナル曲の調声を担当したり、トークロイド作品を投稿したりもしている。
+-使用するボーカロイドは巡音ルカ、初音ミク、ミクAppend、鏡音リン・レン、リン・レンAppend、結月ゆかり、猫村いろは、GUMI V3、Lily V3、&br()VY1V3、蒼姫ラピス、VY2V3、歌愛ユキ、miki、IA、兎眠りおん、MAYU、CUL、ギャラ子、KAITO V3、Mew、氷山キヨテル、SeeU、&br()ZOLA PROJECT、歌手音ピコ、kokone、メルリ。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/akane431]]
+-[[TM BOX>>http://tmbox.net/user/akane431]]
+-[[twitter>>https://twitter.com/akane431]]
+
+**曲
+#list_by_tag(チョコラテP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(チョコラテPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**カバー曲
+|&nicovideo(http://www.nicovideo.jp/watch/sm16518929)|&nicovideo(http://www.nicovideo.jp/watch/sm17678357)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm17749039)|&nicovideo(http://www.nicovideo.jp/watch/sm17830548)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm18191337)|&nicovideo(http://www.nicovideo.jp/watch/sm18479915)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm18704971)|&nicovideo(http://www.nicovideo.jp/watch/sm18758123)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm18766968)|&nicovideo(http://www.nicovideo.jp/watch/sm18879257)|
+
+**調声担当作品
+|&nicovideo(http://www.nicovideo.jp/watch/sm19568596)|&nicovideo(http://www.nicovideo.jp/watch/sm19708207)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm20018305)|&nicovideo(http://www.nicovideo.jp/watch/sm20215748)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm20334767)|&nicovideo(http://www.nicovideo.jp/watch/sm20448607)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm20545085)|&nicovideo(http://www.nicovideo.jp/watch/sm20580353)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm20583208)|&nicovideo(http://www.nicovideo.jp/watch/nm20702352)|
+
+**コメント
+- もっと評価されてほしいなぁ。そしてミクさんのオツキミと如月も追加してほしい。チョコラテさん好きだー  -- 名無しさん  (2014-04-07 18:01:37)
+- チョコラテさんカヴァー素晴らしすぎる(;＞_＜;)もっと出して～(*^_^*)  -- 名も無き終末人間  (2014-05-27 15:52:16)
+#comment()

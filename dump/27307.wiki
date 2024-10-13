@@ -1,0 +1,70 @@
+#right(){&furigana(ShoegazerCommunity)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm10033141)|
+作詞：[[danierukunP]]
+作曲：[[danierukunP]]
+編曲：[[danierukunP]]
+イラスト：[[みっこみこ]]
+唄：[[巡音ルカ]]
+
+**曲紹介
+曲名：『&u(){Shoegazer Community}』(&u(){しゅーげいざー　こみゅにてぃ})
+-danierukunPの3曲目。
+
+**歌詞
+（動画より書き起こし）
+
+I will be a communitiy
+Bottom of your shoes has nusic
+youtube is not interesting
+Because there is not live broadcasting
+You hear this music,
+and what kind of feeling is it?
+Did you come to like this music?
+
+Shoegazer communication
+With me...
+With you...
+
+Shoegazer communication
+With me...
+With you...
+
+The master does not know recent music
+Please teach the song which is good for me
+I'm not a little good at the post rock
+I want to listen genuine shoegazer
+Japan is in the world
+and there is populalarity
+of shoegazer most is it ture
+
+Shoegazer communication
+With me...
+With you...
+
+Shoegazer communication
+With me...
+With you...
+
+Shoegazer communication
+With me...
+With you...
+
+Shoegazer communication
+With me...
+With you...
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+**コメント
+- 凄い好きになりました。  -- 名無しさん  (2016-09-11 22:25:07)
+#comment()
+
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)

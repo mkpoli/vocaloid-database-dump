@@ -1,0 +1,35 @@
+#right(){&furigana(いろしろ)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/5979821" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/5979821">【ニコニコ動画】マイリスト</a></iframe>)
+
+**特徴
+曲名：『&u(){色白}』（&u(){いろじろ}）
+-もともと演奏してみたのベースギター動画投稿からニコニコ動画に参加する。
+-2013年8月に初めてのオリジナル楽曲を発表。
+
+**リンク
+-[[niconico>>https://www.nicovideo.jp/user/5062979]]
+-[[YouTube>>https://www.youtube.com/user/irojiro0318]]
+-[[Twitter>>https://twitter.com/irojiro0318]]
+-&s(){[[ブロマガ>>https://ch.nicovideo.jp/irojiro]]}
+-&s(){[[mixi>>https://p.mixi.jp/irojiro]]}
+-[[facebookページ>>https://www.facebook.com/irojiro0318]]（英語でも情報を流してます）
+-[[PIAPRO>>https://piapro.jp/irojiro]]（マスタリング前音源、歌詞があります）
+
+**曲
+#list_by_tag(色白,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(色白CD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**オリジナル曲動画
+|&nicovideo(sm21660494)|&nicovideo(sm23467829)|
+
+**コメント
+- 本日追加！  -- 名無しさん  (2013-10-27 23:32:34)
+- 追加乙！……みずいろあのクオで二作目…だと…  -- 名無しさん  (2014-06-21 10:49:00)
+- すごくすき  -- 名無しさん  (2015-07-20 19:43:01)
+#comment()

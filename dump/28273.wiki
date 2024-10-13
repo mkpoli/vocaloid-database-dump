@@ -1,0 +1,14 @@
+#right(){【登録タグ:&tags()】}
+//↑タグ忘れ防止のための表示
+曖昧さ回避のためのページ
+----
+-[[テラ小室P]]の曲
+--[[DAHLIA/テラ小室P]]
+-[[redo>redo/作り手]]の曲
+--[[Dahlia/redo]]
+-[[Seeds Of Wish]]の曲
+--[[DAHLIA/Seeds Of Wish]]
+-[[hari]]の曲
+--[[Dahlia/hari]]
+
+#include(曖昧さ回避の追加の仕方/告知)

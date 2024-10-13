@@ -1,0 +1,29 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1444_20140122234712_0280_0280.jpg)
+
+|CENTER:前作|CENTER:今作|CENTER:次作|
+|CENTER:[[imaginative journey]]|CENTER:&bold(){QFT}|CENTER:[[ネットチルナノグ>ネットチルナノグ/CD]]|
+
+|&bold(){[[lumo]]}|
+
+発売：2014年2月5日
+価格：￥300 / 1曲￥150
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：[[chamooi>>http://piapro.jp/chamochamo]]
+
+|&bold(){[[iTunes Storeで購入する>>https://itunes.apple.com/jp/album/qft-single/id811123903]]}|
+
+**CD紹介
+-lumo氏の配信EP。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++[[QFT]] （feat. 初音ミク）
++[[TFQ]] （feat. 初音ミク）
+
+**リンク
+-[[KARENT：「QFT」>>http://karent.jp/album/1444]]
+
+**コメント
+#comment()

@@ -1,0 +1,40 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+
+
+|&nicovideo(http://www.nicovideo.jp/watch/sm19519265)|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){DUALBOOT}|CENTER:[[estrela EP]]|
+
+|&bold(){[[はなぽ]]}|[[結季]]|[[みけくろ]]|
+
+|流通|CENTER:即売|
+|発売|CENTER:2012年12月31日|
+|価格|CENTER:￥1,000（税込）|
+|サークル|CENTER:サークルみけぽ▼･ｗ･▽|
+
+**CD紹介
+-わんわんP こと はなぽ氏 と みけくろ氏 による 1st split album 。
+-デビュー作からのそれぞれがリリースした既存曲に、新曲を加えた全9曲を収録。
+-アートワークは うたおり氏 が手掛ける。
+-C83（コミックマーケット83）にてリリース。
+
+**曲目
++[[color of happiness]]
++[[星の最果て]]
++[[hello, world>hello, world/はなぽ]]
++[[君だけのミカタ]]
++[[Cross Blink]]
++[[Ring]]
++[[パステル>パステル/はなぽ]]
++Treasure
++Deleted
++もし君が･･･
+
+**リンク
+-[[Twitter（はなぽ）>>http://twitter.com/hanapo_music]]
+-[[Twitter（結季）>>http://twitter.com/yuuki_731]]
+-[[Twitter（みけくろ）>>http://twitter.com/mikekuro_3]]
+
+**コメント
+#comment()

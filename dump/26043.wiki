@@ -1,0 +1,50 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1319_20130624004640_0280_0280.jpg)
+
+|CD版クロスフェードデモ&br()&nicovideo(sm20635351)|配信版クロスフェードデモ&br()&nicovideo(sm21201918)|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[カレーパラダイス]]|CENTER:&bold(){SECONDHANDED -Used & Junks-}|CENTER:[[まるくなる / たまごかけごはん / はやぶさバラード>まるくなる／たまごかけごはん／はやぶさバラード]]|
+
+|&bold(){[[SHO（キセノンP）]]}|
+
+|流通|CENTER:即売|CENTER:配信|
+|発売|CENTER:2013年4月27日|CENTER:2013年7月3日|
+|価格|CENTER:￥1,000|CENTER:￥900 / 1曲￥150|
+|サークル|CENTER:XM||
+
+**CD紹介
+-サークルXMのミニアルバム。
+-マスタリングをMr.anti-noise氏、イラスト・デザインを[[をかだ]]氏が担当。
+-THE VOC@LOiD 超 M@STER 24（超ボーマス24）とM3-2013春で頒布。
+-KARENTレーベルよりダウンロード販売が行われている。ただし一部曲目に変更がある『for DL』バージョンとなっている。
+
+**曲目
+***CD版
++AWAKENING
++[[永久と刹那]]
++[[私の痕跡]]
++東京ブリザード
++[[台風だ！コロッケ買ってこよう！]]
++[[カレーパラダイス]]
++[[FAKE☆STAR]] (Miku Version)
++[[おやすみ>おやすみ/SHO（キセノンP）]] (Remix Version)
+
+***配信版
++AWAKENING （feat. 初音ミク&巡音ルカ&メグッポイド）
++東京ブリザード （feat. 初音ミク）
++[[私の痕跡]] （feat. 初音ミク）
++[[永久と刹那]] （feat. 初音ミク）
++[[台風だ！コロッケ買ってこよう！]] （feat. 初音ミク）
++[[雪桜>雪桜/SHO（キセノンP）]] （feat. 初音ミク）
++[[カレーパラダイス]] （feat. 初音ミク&鏡音リン&鏡音レン&巡音ルカ&メグッポイド&CUL）
++[[おやすみ>おやすみ/SHO（キセノンP）]] （feat. 初音ミク）
++雪桜 （Original Karaoke）
+
+**リンク
+-[[サークルサイト>>http://sound.jp/xenonmaiden/html_j/entrance.html]]
+-[[作者ブログ>>http://xenonp.dou-jin.com/]]
+-[[KARENT：「SECONDHANDED -Used & Junks- for DL」>>http://karent.jp/album/1319]]
+
+**コメント
+#comment()

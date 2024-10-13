@@ -1,0 +1,43 @@
+#right(){&furigana(ばきこんぴ -ちじょうさいきょうのこんぴれーしょん-)&furigana()【登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186143886.jpg,x=300,y=300)
+
+|BGCOLOR(#ff6347):COLOR(#FFF):CENTER:&font(b,11pt){　クロスフェード　}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm20609735)|
+
+|BGCOLOR(#ff6347):COLOR(#FFF):CENTER:&font(b,11pt){　前作　}|BGCOLOR(#ff6347):COLOR(#FFF):CENTER:&font(b,11pt){　本作　}|BGCOLOR(#ff6347):COLOR(#FFF):CENTER:&font(b,11pt){　次作　}|
+|CENTER:-|CENTER:&bold(){バキコンピ -地上最強のコンピレーション-}|CENTER:-|
+
+|&bold(){[[ぼーかりおどP]]}|[[軟弱P]]|[[かずくんP]]|[[キセノンP>SHO（キセノンP）]]|[[イカロスP]]|
+|[[デスおはぎ]]|[[ASK]]|[[じーこば>恋竹林]]|[[Yamamaya]]|>|
+
+|BGCOLOR(#ff6347):COLOR(#FFF):CENTER:&font(b,11pt){　流通　}|BGCOLOR(#ff6347):COLOR(#FFF):CENTER:&font(b,11pt){　即売　}|
+|BGCOLOR(#ff6347):COLOR(#FFF):CENTER:&font(b,11pt){　発売　}|CENTER:　2013年4月27日　|
+|BGCOLOR(#ff6347):COLOR(#FFF):CENTER:&font(b,11pt){　価格　}|CENTER:　1,000（税込）　|
+|BGCOLOR(#ff6347):COLOR(#FFF):CENTER:&font(b,11pt){　サークル　}|CENTER:　神心会ボーマス支部　|
+
+**CD紹介だッッッ!!!
+>&bold(){秋●書店非公認！！}
+-ぼーかりおどP 主宰の、「範馬刃牙」をこよなく愛する 9人のクリエイター達によるコンピレーションCD。
+-このコンピレーションアルバムは、「身銭を切ってもいいから作りたい」という逆クールジャパンの心意気で作りました。（作者コメ転載）
+-生歌ありの、ボカロありの、8曲の収録曲は全て書きおろし。参加者それぞれがバキワールドのキャラクターのイメージソング書いている。
+-ジャケットは、バキがわかる人が見ると笑ってしまう仕様になっているとのこと。
+-THE VOC@LOiD 超 M@STER 24（超ボーマス2）にてリリース。
+
+**曲目だッッッ!!!
+|BGCOLOR(#ff6347):COLOR(#FFF):CENTER:&font(b,11pt){　Track　}|BGCOLOR(#ff6347):COLOR(#FFF):CENTER:&font(b,11pt){　曲名　}|BGCOLOR(#ff6347):COLOR(#FFF):CENTER:&font(b,11pt){　楽曲制作者　}|BGCOLOR(#ff6347):COLOR(#FFF):CENTER:&font(b,11pt){　担当キャラクター　}|
+|BGCOLOR(#ff6347):COLOR(#FFF):CENTER:&font(b,11pt){ 01 }|CENTER:タイガーキラー|CENTER:yocco@軟弱P|CENTER:愚地独歩|
+|BGCOLOR(#ff6347):COLOR(#FFF):CENTER:&font(b,11pt){ 02 }|CENTER:ヤイサホー|CENTER:かずくんP|CENTER:J・ゲバル|
+|BGCOLOR(#ff6347):COLOR(#FFF):CENTER:&font(b,11pt){ 03 }|CENTER:1225|CENTER:ぼーかりおどP|CENTER:愚地克巳|
+|BGCOLOR(#ff6347):COLOR(#FFF):CENTER:&font(b,11pt){ 04 }|CENTER:Chance to Lose|CENTER:キセノンP|CENTER:ヘクター・ドイル|
+|BGCOLOR(#ff6347):COLOR(#FFF):CENTER:&font(b,11pt){ 05 }|CENTER:T&I～骨を断たせて肉を切る～|CENTER:Yamamaya|CENTER:斗羽正平 & 猪狩完至|
+|BGCOLOR(#ff6347):COLOR(#FFF):CENTER:&font(b,11pt){ 06 }|CENTER:齢百まで|CENTER:イカロスP|CENTER:渋川剛気|
+|BGCOLOR(#ff6347):COLOR(#FFF):CENTER:&font(b,11pt){ 07 }|CENTER:最愛にくらべたら最強なんて～SAGA～|CENTER:じーこば（恋竹林）|CENTER:松本梢江|
+|BGCOLOR(#ff6347):COLOR(#FFF):CENTER:&font(b,11pt){ 08 }|CENTER:SCAR FACE|CENTER:デスおはぎ & ASK|CENTER:花山薫|
+
+**リンクだッッッ!!!
+-[[Twitter（ぼーかりおどP）>>http://twitter.com/vocaliod_P]]
+
+**コメントだッッッ!!!
+- ほしい！！  -- 名無しさん  (2013-04-11 20:37:58)
+#comment()

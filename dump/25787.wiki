@@ -1,0 +1,39 @@
+#right(){&furigana(とうふや)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/37106596" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/37106596">【ニコニコ動画】</a></iframe>)|&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/32297828" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/32297828">【ニコニコ動画】</a></iframe>)|
+
+**特徴
+作り手名：『&u(){豆腐屋}』（&u(){とうふや}）
+-2012年6月、『[[Lost>Lost/豆腐屋]]』にてボカロデビューしたロック系の作り手。
+-使用ボカロは今のところ、ミク・ゆかり。
+-デビュー作は「Lost」だが、4作目に投稿した「[[package]]」が最初に作った曲。6作目と9作目は作者の意向により欠番になっている。
+-15作目の 『[[君のサイノウ]]』 がスマッシュヒット。
+-[[なぎさ]]という別名義を使用していたことが後に判明した。
+
+**リンク
+//-[[Twitter>>https://twitter.com/Touhuya08]]
+-[[PIAPRO>>https://piapro.jp/touhuya08]]
+
+**曲
+#list_by_tag(豆腐屋,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(豆腐屋CD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|>|BGCOLOR(#478d8d):COLOR(#FFF):CENTER:&font(b,11pt){オリジナル曲}|
+|&nicovideo(sm18017966)|&nicovideo(sm18148108)|
+|&nicovideo(sm18339187)|&nicovideo(sm18350705)|
+|&nicovideo(sm18807898)|&nicovideo(sm19149227)|
+|&nicovideo(sm19157906)|&nicovideo(sm19745031)|
+|&nicovideo(sm19994469)|&nicovideo(sm20042434)|
+|&nicovideo(sm20279374)|&nicovideo(sm20323269)|
+|&nicovideo(sm20575634)|&nicovideo(sm20611153)|
+|&nicovideo(sm20731927)|&nicovideo(sm20805281)|
+|&nicovideo(sm21020085)|&nicovideo(sm21077526)|
+
+**コメント
+#comment()

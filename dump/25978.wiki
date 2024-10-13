@@ -1,0 +1,35 @@
+#right(){&furigana(さのかもめ)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/20877838" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/20877838">【ニコニコ動画】</a></iframe>)|
+
+**特徴
+作り手名：『&u(){沙野カモメ}』（&u(){さのかもめ}）
+-エレクトロニカや、テクノ・エレクトロ系のハウスミュージックを主に作っているP。「kamome sano」名義も使用。
+-VOCALOIDではVY1、VY2、UTAUでは重音テトを使用している。また、絵も描く。
+-ボカロ、UTAUだけではなくニコニコインディーズやリミックス曲なども作っている
+-KONAMIの音ゲー公募企画「SOUND VOLTEX FLOOR」にて、作曲・リミックスした作品が多数採用され、ゲーム収録されている。
+-自身のレーベル「tatuta recordings」は「[[チキンタツタ>>https://nlab.itmedia.co.jp/nl/articles/1301/10/news099.html]][[おいしい！>>https://twitter.com/tatsuta_oishii]]」のネタから？
+
+**リンク
+-[[YouTube>>https://www.youtube.com/channel/UCUo7NNK1jml8dEehrBhskMw]]
+-[[kamome sano（作者HP）>>https://kamomesano.info/]]
+-[[Twitter>>https://twitter.com/kamomesano]]
+//-[[Twitter>>http://twitter.com/kmsn_0v0]] / [[(告知情報)>>http://twitter.com/kamome_sano]]
+
+**曲
+#list_by_tag(沙野カモメ,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(沙野カモメCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm16642664)|&nicovideo(sm16716199)|
+|&nicovideo(sm16957740)|&nicovideo(sm17104148)|
+
+**コメント
+- とりあえず程度に作りました　色々追加して下さい  -- 名無しさん  (2013-06-28 21:32:29)
+- 編集ありがとうございます！  -- 名無しさん  (2013-10-26 01:10:04)
+#comment()

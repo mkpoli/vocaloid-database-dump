@@ -1,0 +1,30 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1363_20130903131830_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[SNOW LIGHT feat.初音ミク]]|CENTER:&bold(){EMAIL feat.初音ミク}|CENTER:[[Digital Love feat. Hatsune Miku]]|
+
+|&bold(){[[エレキP>BIGHEAD]]}|
+
+発売：2013年9月18日
+価格：￥300 / 1曲￥150
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：とまち
+
+**CD紹介
+-エレキPのシングル。
+-日本語オリジナル曲。
+-「KARENT」と「ROTH ENTERTAINMENT」による共同レーベル、「Lip Sync Records」からのリリース第10弾となる。
+
+**曲目
++[[EMAIL]] （feat. 初音ミク）
++EMAIL （instrumental）
++EMAIL (accapella) （feat. 初音ミク）
+
+**リンク
+-[[Lip Sync Records>>http://lipsync-records.jp]]
+-[[KARENT：「EMAIL feat.初音ミク」>>http://karent.jp/album/1363]]
+
+**コメント
+#comment()

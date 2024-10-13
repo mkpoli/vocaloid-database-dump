@@ -1,0 +1,40 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo(sm18505699)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[reason of birth>reason of birth/CD]]&br()[[fake or fate?>fake or fate?/CD]]|CENTER:[[Destiny Colors>Destiny Colors/CD]]&br()&bold(){Eclipse Garden}|CENTER:[[Mystic rites]]|
+
+|&bold(){[[maya]]}|[[山下慎一狼]]|nao|彩|
+
+||CENTER:即売|CENTER:委託|
+|発売|CENTER:2012年8月11日||
+|価格|CENTER:￥1,000|CENTER:￥1,470（税込）|
+|サークル|>|CENTER:asanagi|
+
+**CD紹介
+-maya氏のメグッポイドオンリーアルバム。3rdCDアルバム『[[Destiny Colors>Destiny Colors/CD]]』と同時リリース。
+-全13曲を完全リマスタリングで収録。
+-ジャケットイラストはしーな氏。8Pのフルカラーブックレット付。
+-2012年夏のコミックマーケット（C82）で頒布。
+-委託販売はとらのあな、アニメイト、アリスブックス、D-STAGEで行われる。
+
+**曲目
++[[Sweet Shackles]] / Sweet
++[[snowdust memory]] / Sweet
++[[radiant place]] / Power
++[[友情愛情キックガール！]] / Power
++Astraea ～the last judgment.～ / Native
++キミノカケラ / Sweet
++[[Bitter×Sweet×fancygirl]] / Whisper, Sweet, Power
++[[slow>slow/maya]] / Whisper, Power
++[[彼方の陽炎]] （album ver.） / Normal
++[[Eclipse Garden]] / Power, Normal, Whisper
++Scene of aquarea / Whisper, Adult
++[[Endless LoveR.]] / Whisper, Power
++エニシノキラメキ / Whisper
+
+**リンク
+-[[作者サイト>>http://maya.xii.jp/]]
+
+**コメント
+#comment()

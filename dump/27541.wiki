@@ -1,0 +1,35 @@
+#right(){&furigana()&furigana()【登録タグ:&tags()】}
+#amazon(B008EGUUUC)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[VRUSH UP! ＃01 -sasakure.UK Tribute-]]|CENTER:&bold(){VRUSH UP! ＃02 -DECO*27 Tribute-}|CENTER:[[VRUSH UP! ＃03 -kous Tribute-]]|
+
+|&bold(){[[DECO*27]]}|[[よしのP]]|[[ATOLS]]|The LASTTRAK|[[Nak-AmiP]]|[[kous]]|[[ささくれP]]|[[Ev（イーブル）P]]|DJ Shimamura|
+ 
+発売：2012年7月13日
+価格：￥1,575（税込）
+流通：全国
+レーベル：U/M/M/A
+
+**CD紹介
+-“VRUSH UP!”シリーズは、今までに発表されたVOCALOID楽曲を違う角度から楽しむことを目的として制作されたリミックスコンピレーションアルバム。
+-異なるクリエイターのセンスによって新たな解釈を加えることによって、楽曲を“VRUSH UP”しようという試み。
+-第二弾となる本作では、&bold(){DECO*27}に焦点を当てている。
+-公式サイトにてCDの試聴可能。
+
+**曲目
++[[モザイクロール]] (Yoshino Yoshikawa Pollarstars Remix)
++[[心壊サミット]] (ATOLS DUB STEP Remix)
++[[二息歩行]] (The LASTTRAK D’n’B Remix)
++[[愛 think so,]] (nak-ami so far away Remix)
++[[トリノアイウタ]] (kous Digi-City Remix)
++[[弱虫モンブラン]] (sasakure.UK brokensweets Remix)
++恋様シート (Calla Soiled 2222 Remix)
++[[相愛性理論]] (DJ Shimamura Hardcore Remix)
+
+**リンク
+-[[Amazon>>http://www.amazon.co.jp/dp/B008EGUUUC]]
+-[[公式サイト>>http://vrushup.com/information/vrush-up-02-deco27-tribute/]]
+**コメント
+- なんだこれ！？すごっ！  -- 名無しさん  (2013-11-26 21:49:29)
+#comment()

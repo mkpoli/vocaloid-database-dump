@@ -1,0 +1,45 @@
+#right(){&furigana(きょうそうせかいのふぁんたじあ) &furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1405_20131209185933_0280_0280.jpg)
+
+&nicovideo(sm20633946)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[交差する想像共感 SIDE-R]]&br()[[POINT OF THE GLANCE - Another Ver]]|CENTER:&bold(){狂騒世界のファンタジア}|CENTER:-|
+
+|&bold(){[[いーえるP]]}|[[U-SUKE]]|
+
+||CENTER:即売|CENTER:委託|CENTER:配信|
+|発売|>|CENTER:2013年4月27日|CENTER:2014年1月10日|
+|価格|CENTER:￥1,000|CENTER:￥1,386（税込）|CENTER:￥1,200 / 1曲￥150|
+|サークル|>|>|CENTER:Tiny Symphony|
+
+**CD紹介
+-いーえるPの3rdアルバム。
+-ジャケットイラストは飯時氏が担当。
+-2ndアルバムより3年ぶりとなった本作には、過去同人・商業流通のコンピレーションCDに収録となった楽曲が網羅されている。
+-全曲リマスタリング、一部はアレンジ、トラックダウンからやり直している物もある。
+-THE VOC@LOiD 超 M@STER 24（超ボーマス24）で頒布。
+-とらのあなで委託販売が、KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
+●印は「UTAU楽曲データベース」へのリンク。
++[[狂騒世界のファンタジア]] （feat. 初音ミク）
++運命へ至る為のプロトコル （feat. 重音テト）
++[[ナイト・オブ・ライト]] （feat. KAITO&初音ミク）
++[[一度きりの物語]] （feat. 初音ミク&MEIKO）
++[[POINT OF THE GLANCE]] - Another Ver （feat. 鏡音リン）
++禁断の理は絶望の吐息の中に （feat. 重音テト）　[[●>>http://www24.atwiki.jp/utauuuta/pages/834.html]]
++[[交差する想像共感 SIDE-R]] （feat. 鏡音リン）
++[[音像サナトリウム]] （feat. 初音ミク）
++[[Sleep Sheep Sheep Shit!]] （feat. 初音ミク&鏡音リン&巡音ルカ）
++邂逅点のユーフォリア （feat. 重音テト）　[[●>>http://www24.atwiki.jp/utauuuta/pages/2654.html]]
++[[スリークイーンズ ～吸血女王伝～>スリークイーンズ]] （feat. 初音ミク&鏡音リン&巡音ルカ&KAITO）
+
+**リンク
+-[[作者ホームページ>>http://www.tinysymphony.com/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/11/53/040030115301.html]]
+-[[KARENT>>http://karent.jp/album/1405]]
+
+**コメント
+- いいな！  -- 名無しさん  (2014-01-16 20:00:24)
+#comment

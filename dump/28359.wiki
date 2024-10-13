@@ -1,0 +1,89 @@
+#right(){&furigana(Depth)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm22798661)|
+作詞：[[AVTechNO]]
+英訳詞：[[／SAKURA]]
+作曲：[[AVTechNO]]
+編曲：[[AVTechNO]]
+唄：[[IA]]
+
+**曲紹介
+>時間を超えて今、僕の手に..
+曲名：『&u(){Depth}』
+-コンピレーションアルバム『[[IA THE WORLD ～夢～]]』収録曲。
+-KARENTレーベルよりダウンロード販売が行われている。ただしこちらはミク版。『[[Cochapii]]』と同時リリース。
+
+**音楽配信
+&ref(http://karent.jp/npdca/1445_20140123131737_0280_0280.jpg)
+
+|CENTER:前作|CENTER:今作|CENTER:次作|
+|CENTER:[[Z]]|CENTER:&bold(){Depth}&br()[[Cochapii]]|CENTER:[[Charm]]|
+
+流通：配信
+発売：2014年2月6日
+価格：￥150
+レーベル：[[KARENT>>http://karent.jp/album/1445]]
+ジャケットイラスト：G
+
+|&bold(){[[iTunes Storeで購入>>https://itunes.apple.com/jp/album/depth-single/id811105143]]}|
+
+***曲目
++Depth （feat. 初音ミク）
+
+
+**歌詞
+
+Walking on the road of the town which doesn't have definition
+with no time and no meaning abstractedly.
+Not feeling gravity and so many pressures from society,
+I vacatly look up to sky.
+Listening to turn around on the right,
+the voices of my post-behaviors are heard one after another.
+Looking back on the left,I can see my indicated future.
+Not thinking in my mind the time along ruled line,
+but 'the emontion' insights and structures all the existence.
+Delusion in  my dream reflects ideas in my reality. resound///
+
+Hope and desire are hanged out without realizing.
+Conceptions are created by intentions.
+Masterpiences of consciousness can also be said recklessness and thought no values.
+Creative delusions shake the objective imaginatuon.
+Unconsciously hope and desire change.
+Cineraria which doesn't eat away by stress makes everything known to me.
+Patterns of thinking link how I use to me.
+
+時間（とき）を超えて今、僕の手に
+理想と生きる記憶の投影
+平行線から生み出すイマジネーションとクオリア
+写し映され虚無のストーリー
+意味を持たない視覚の構築
+ほどこされた視野角は思念の時間（とき）を歪み動かしていく..
+
+曖昧な分だけ再生Re:再生
+ひときわ煌めくリアルな事象
+細胞は眠り無意識に育つ
+永遠に続くローカダートゥ
+制御不能なディープな迷路
+マリーの手を手繰り握りしめては
+夢の瞑想・情景を描き
+時間（とき）を超えて今..
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+**コメント
+- 追加おつ！  -- 名無しさん  (2014-02-05 22:31:23)
+- スルメ曲。一回ハマると中毒性が半端ない。雰囲気お経っぽい感じしたけどそこがまた良くてカッコよすぎる・・・!!  -- 名無しさん  (2014-04-22 08:48:01)
+- 最近こればかり聴いてる。曲もさることながらIAの声がまたかっこいい  -- 名無しさん  (2014-05-01 16:40:05)
+- ハンパない格好良さ！  -- 名無しさん  (2014-06-06 22:22:00)
+- なんでこんなカッコいい曲を聴かせてくれるんだ…  -- 名無しさん  (2015-08-23 13:36:16)
+- 今でも聞いてる。大好きなスルメ曲  -- 名無しさん  (2024-08-06 22:47:22)
+#comment()
+
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)

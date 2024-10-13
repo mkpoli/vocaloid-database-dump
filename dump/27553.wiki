@@ -1,0 +1,36 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#amazon(B00C59PWWK)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[VRUSH UP! ＃05 -whoo Tribute-]]|CENTER:&bold(){VRUSH UP! ＃06 -Kikuo Tribute-}|CENTER:[[VRUSH UP! ＃07 -siinamota Tribute-]]|
+
+|&bold(){[[きくお]]}|[[ATOLS]]|DUB-Russell|FICUSEL|Fragment|Hercelot|Kette|SEKITOVA|[[whoo]]|
+
+発売：2013年5月3日
+価格：￥1,575（税込）
+流通：全国
+レーベル：U/M/M/A
+
+**CD紹介
+-“VRUSH UP!”シリーズは、今までに発表されたVOCALOID楽曲を違う角度から楽しむことを目的として制作されたリミックスコンピレーションアルバム。
+-異なるクリエイターのセンスによって新たな解釈を加えることによって、楽曲を“VRUSH UP”しようという試み。
+-第六弾となる本作では、&bold(){きくお}に焦点を当てている。
+-公式サイトにてCDの試聴可能。
+
+**曲目
++[[天国へ行こう]] (Hercelot 98.01 Remix)  
++[[幸福な死を]] (Fragment not fawns Remix)  
++世界で一番優しい死神 (SEKITOVA Sunrise Remix)  
++[[そして君は月になった]] (FICUSEL Dizzy Remix)  
++[[物をぱらぱら壊す]] (DUB-Russell mi(*L_*)x Remix)  
++[[僕をそんな目で見ないで]] (ATOLS sweet dream Remix)  
++[[月の妖怪]] (Kettel Tsfreh Remix)  
++[[星くずの掃除婦]] (whoo post Remix)  
+
+**リンク
+-[[amazon>>http://www.amazon.co.jp/dp/B00C59PWWK]]
+-[[公式サイト>>http://vrushup.com/information/vrush-up-06-kikuo-tribute/]]
+
+**コメント
+- こんなの出てたのか。  -- 名無しさん  (2013-11-26 22:17:51)
+#comment()

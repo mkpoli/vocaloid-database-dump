@@ -1,0 +1,48 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#amazon(B00H6TA922)
+
+&nicovideo(sm22023089)
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Color palette}|CENTER:-|
+
+|[[Re:nG]]|[[yuki]]|[[さといも]]|[[薪原あすみ]]|[[メディックP]]|[[ぺぺろんP]]|
+|[[きゃしゃんP]]|[[もうり]]|[[イメソラP]]|[[Bumpyうるし]]|[[マーメイドP]]|[[鉋屑]]|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2013年11月27日||
+|価格|CENTER:￥1,000|CENTER:￥1,500（税別）|
+|サークル|>|CENTER:キヨテルコンピ制作委員会|
+
+**CD紹介
+>&B(){「歌は、お好きですか？」}
+-楽師と絵師が表現する彩を、音楽と氷山キヨテルで是非、体感してください。（投稿者コメントより転載）
+-10人のボカロPと9人の絵師による「VOCALOID　氷山キヨテル」コンピレーションアルバム。
+-2013/11/17（日）「THE VOC@LOiD M@STER 27」にて、頒布。
+-とらのあな、アリスブック、amazonでの委託販売の他、自家通販も行われている。
+
+**曲目
++[[真夏の銃声]]　／　Re:nG　×　都
++[[ナミダの道化師]]　／　さといも@天宝石P　×　Akei
++[[Cuban Screw]]　／　Ayano（メディックP）　×　天龍洸
++Vectimizer　／　虹原ぺぺろん（ぺぺろんP）　×　もうり
++ラピスラズリに捧げる堕天詩　／　きゃしゃんP　×　七海かずさ
++[[I hugged…]]　／　元就P　×　卯匡（うきょう）
++[[undo]]　／　スナフキン＠イメソラ　×　もうり
++仏説聖不動経　／　Bumpyうるし　×　しじゅうはち
++[[籠の鳥>籠の鳥/マーメイドP]]　／　マーメイドP　×　春日せたろう
++Noe one　／　鉋屑　×　ルコ
+
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/38443913" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/38443913">【ニコニコ動画】</a></iframe>)
+
+**リンク
+-[[公式サイト>>http://kiyoterucompilation.web.fc2.com/index.html]]
+-[[twitter>>https://twitter.com/kiyoteru_com]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/15/59/040030155960.html]]
+-[[アリスブック>>http://alice-books.com/item/show/2218-1]]
+-[[amazon>>http://www.amazon.co.jp/dp/B00H6TA922]]
+
+**コメント
+- めっちゃほしい。  -- 名無しさん  (2013-10-12 18:41:09)
+- キヨテルに興味あるなら買って間違いはない。  -- 名無しさん  (2013-12-29 22:09:50)
+- [仏説聖不動経]初めて聞いた時は衝撃でしたわww  -- 名無しさん  (2014-04-16 19:09:52)
+#comment()

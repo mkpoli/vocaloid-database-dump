@@ -1,0 +1,35 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm22039461)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[RINGO FISH EP]]&br()[[EBONY COATED]]|CENTER:&bold(){Clione Box}|CENTER:[[mover>>http://www24.atwiki.jp/utauuuta/pages/3508.html]]|
+
+|&bold(){[[ナノルーP]]}|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2013年10月20日|CENTER:2013年11月2日|
+|価格|CENTER:￥300|CENTER:￥400（税抜）|
+|サークル|>|CENTER:shabongazer|
+
+**CD紹介
+-カセットテープ仕様のEP（ダウンロードコード付き）
+-VOCALOID PARADISE 8（ボーパラ8）にて頒布された
+-メインで歌唱している音源はどちらかというとUTAUで、ミクはコーラスが多め
+-1曲目のSeaside Specter（UTAU曲）はニコニコ動画にて公開されている→[[シーサイド・スペクター>>http://www.nicovideo.jp/watch/sm22306828]]
+-2017年に配信開始された[[bandcamp>>https://nogirroute.bandcamp.com/album/clione-box]]にて音源のフル視聴が可能。
+
+**曲目
++[[Seaside Specter>>http://www24.atwiki.jp/utauuuta/pages/2473.html]] / Vo:名前のないこ、くあいあ、Nogirroute
++Driftingrey / Vo:名前のないこ、初音ミク
++Mods Diver / Vo: 名前のないこ、初音ミク
+
+**リンク
+-[[サークルサイト>>http://shabongazer.tumblr.com/]]
+-[[作者ブログ>>http://stergstage.seesaa.net/]]
+-[[アリスブックス>>http://alice-books.com/item/show/2023-3]]
+-[[bandcamp>>https://nogirroute.bandcamp.com/album/clione-box]]
+
+**コメント
+- 去年の新譜のmoverの追加オナシャス  -- 名無しさん  (2015-04-22 22:20:15)
+- 新譜ALLないこ曲ということでUTAUwikiに追加しました→[[URL>>http://www24.atwiki.jp/utauuuta/pages/3508.html]]  -- 名無しさん  (2015-11-24 00:54:59)
+#comment()

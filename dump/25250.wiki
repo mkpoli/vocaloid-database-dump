@@ -1,0 +1,35 @@
+#right(){&furigana(たのしいとうひこう EP) &furigana()【登録タグ:&tags() 】}
+
+#ref(http://blog-imgs-51.fc2.com/p/i/c/picoao/JPG.jpg,x=300,y=300)
+
+|&nicovideo(http://www.nicovideo.jp/watch/sm20625996)|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[交換日記]]|CENTER:&bold(){たのしい逃避行 EP}|CENTER:-|
+
+|&bold(){[[らいふP]]}|[[まあこ]]|
+
+||CENTER:即売|
+|発売|CENTER:2013年4月27日|
+|価格|CENTER:￥500（税込）|
+|サークル|CENTER:ぴこあお文化会|
+
+**CD紹介
+>&bold(){後ろ向きに前向きに}
+-曲･･･[[らいふP]]　作詞･･･桜氏　イラスト･･･まあこ氏　からなる同人音楽サークル ぴこあお文化会 の 1st EP 。
+-書き下ろしの新曲を5曲収録。
+-アートワークは [[まあこ]]氏 が手掛ける。
+-THE VOC@LOiD 超 M@STER 24（超ボーマス2）にてリリース。
+
+**曲目
++[[たのしい逃避行]]
++[[春の音のなる方へ]]
++コラージュ
++次元転送
++ほんとの気持ちをおしえてよ
+
+**リンク
+-[[ぴこあお文化会（サークルホームページ）>>http://picoao.blog79.fc2.com/]]
+
+**コメント
+#comment

@@ -1,0 +1,53 @@
+#right(){&furigana(おうきゅうきしだん)&furigana()【登録タグ:&tags() 】}
+#ref(http://u.jimdo.com/www59/o/s362da5eb153066e4/img/i561735ca70699eb2/1365918485/std/image.jpg) 
+
+
+|BGCOLOR(#a0522d):COLOR(#FFF):CENTER:&font(b,11pt){　クロスフェード　}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm20603697)|
+
+|BGCOLOR(#a0522d):COLOR(#FFF):CENTER:&font(b,11pt){　前作　}|BGCOLOR(#a0522d):COLOR(#FFF):CENTER:&font(b,11pt){　本作　}|BGCOLOR(#a0522d):COLOR(#FFF):CENTER:&font(b,11pt){　次作　}|
+|CENTER:-|CENTER:&bold(){王宮騎士団}|CENTER:-|
+
+|&bold(){[[アキバヲタP]]}|[[きっきょん]]|[[imosuke]]|[[アナバ]]|[[涼雅]]|[[noo]]|
+|[[いつものP]]|[[やみくろ]]|[[Man_boo]]|[[ロリP]]|[[しけもく>夜はこれから]]|>|
+
+|BGCOLOR(#a0522d):COLOR(#FFF):CENTER:&font(b,11pt){　流通　}|BGCOLOR(#a0522d):COLOR(#FFF):CENTER:&font(b,11pt){　即売　}|BGCOLOR(#a0522d):COLOR(#FFF):CENTER:&font(b,11pt){　委託　}|
+|BGCOLOR(#a0522d):COLOR(#FFF):CENTER:&font(b,11pt){　発売　}|>|CENTER:　2013年4月27日　|
+|BGCOLOR(#a0522d):COLOR(#FFF):CENTER:&font(b,11pt){　価格　}|CENTER:　￥1,000（税込）　|CENTER:　￥1,575（税込）　|
+|BGCOLOR(#a0522d):COLOR(#FFF):CENTER:&font(b,11pt){　サークル　}|>|CENTER:　王宮騎士団　|
+
+**CD紹介
+>&bold(){魔王を倒すのは誰だ！？}
+>&bold(){運命に導かれる11人の男女。その内のだれかが･･･魔王を倒す！}
+-アキバヲタP 主宰の本格的ファンタジーコンピレーションアルバム。
+-それぞれのキャラクターをイメージした書き下ろし曲を12曲収録。
+-[[特設ページ>http://o-q-kishidan.jimdo.com/]]では アキバヲタP の小説も公開されている。
+-キャラクターデザインを 新島秋一氏 が、ジャケットデザインを ゆめぐP が、マスタリングを きっきょん氏 が、クロスフェード動画を しけもく氏 が手掛ける。
+-THE VOC@LOiD 超 M@STER 24（超ボーマス24）にてリリース。
+-委託販売が行われている。
+
+**曲目
+|BGCOLOR(#a0522d):COLOR(#FFF):CENTER:&font(b,11pt){　Track　}|BGCOLOR(#a0522d):COLOR(#FFF):CENTER:&font(b,11pt){　曲名　}|BGCOLOR(#a0522d):COLOR(#FFF):CENTER:&font(b,11pt){　楽曲制作者　}|BGCOLOR(#a0522d):COLOR(#FFF):CENTER:&font(b,11pt){　担当キャラクター　}|
+|BGCOLOR(#a0522d):COLOR(#FFF):CENTER:&font(b,11pt){ 01 }|CENTER:ようこそ王宮へ！（inst.）|CENTER:涼雅|CENTER:――|
+|BGCOLOR(#a0522d):COLOR(#FFF):CENTER:&font(b,11pt){ 02 }|CENTER:The world for you|CENTER:アキバヲタP|CENTER:パラディン騎士団 バード・ウイリアム・ストーリア|
+|BGCOLOR(#a0522d):COLOR(#FFF):CENTER:&font(b,11pt){ 03 }|CENTER:＊その光＊|CENTER:アナバ|CENTER:ジアーナ王国王女 アルバ・ジアーナ|
+|BGCOLOR(#a0522d):COLOR(#FFF):CENTER:&font(b,11pt){ 04 }|CENTER:成らず者の唄|CENTER:imosuke|CENTER:盗賊 ポト・オコーエル|
+|BGCOLOR(#a0522d):COLOR(#FFF):CENTER:&font(b,11pt){ 05 }|CENTER:spell|CENTER:noo|CENTER:魔法使い マテーウス・ラルフ・メッゲンドルファー|
+|BGCOLOR(#a0522d):COLOR(#FFF):CENTER:&font(b,11pt){ 06 }|CENTER:少年の嘘と君の名前|CENTER:やみくろ|CENTER:飛空挺技師 クロード・ダバン|
+|BGCOLOR(#a0522d):COLOR(#FFF):CENTER:&font(b,11pt){ 07 }|CENTER:アネモネ|CENTER:いつものP|CENTER:エルフ ユージュ・アネモネ|
+|BGCOLOR(#a0522d):COLOR(#FFF):CENTER:&font(b,11pt){ 08 }|CENTER:platanos|CENTER:涼雅|CENTER:神官 プラタノ・エンヴィディアル|
+|BGCOLOR(#a0522d):COLOR(#FFF):CENTER:&font(b,11pt){ 09 }|CENTER:闘志一路|CENTER:ロリP|CENTER:侍 ヨウ・コノミ|
+|BGCOLOR(#a0522d):COLOR(#FFF):CENTER:&font(b,11pt){ 10 }|CENTER:[[風の導く方へ]]|CENTER:Man_boo|CENTER:天馬騎士団長&竜騎士団長 セオラ&ジョシュア・ボーマン|
+|BGCOLOR(#a0522d):COLOR(#FFF):CENTER:&font(b,11pt){ 11 }|CENTER:[[わたしと君とを繋ぐもの]]|CENTER:きっきょん|CENTER:宿屋の娘 アイナ・スタントニア|
+|BGCOLOR(#a0522d):COLOR(#FFF):CENTER:&font(b,11pt){ 12 }|CENTER:[[La malice]]|CENTER:しけもく|CENTER:魔王 ラ・ゴリアステス|
+
+**リンク
+-[[特設サイト>>http://o-q-kishidan.jimdo.com/]]
+-[[D-STAGE>>http://d-stage.com/shop/detail.php?seq=40114]]
+
+**コメント
+- おお  -- 名無しさん  (2013-04-15 03:13:39)
+- ロリPとか買うしかないやん…  -- 名無しさん  (2013-04-15 06:45:24)
+- ヲタｐあいしてるうわあああああああ  -- 名無しさん  (2013-04-15 21:52:36)
+- 前略さんは？  -- 名無しさん  (2013-04-29 09:47:01)
+#comment()

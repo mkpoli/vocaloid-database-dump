@@ -1,0 +1,39 @@
+#right(){&furigana(はいかP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/33918366" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/33918366">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-中の人は、歌い手としても活動している &bold(){バイチ}氏 。 
+-2012年9月、「[[イカの歌]]」でボカロデビューを果たす。P名の由来もこの曲から。
+-3作目の「[[フライト>フライト/バイカP]]」がスマッシュヒット。
+-使用ボカロは今のところ、初音ミクのみ。
+-曲調は、切な系ロック・爽やか系ロックが主体。
+-創作サークル 「&bold(){残響decode}」 に所属している。
+-2016年、千里春生という名義に改名をした。
+
+**リンク
+-[[Rainbow Rain（作者ホームページ）>>http://elfinstudio.web.fc2.com/]]
+//-[[Twitter>>http://twitter.com/baika3969]]
+-[[Twitter>>http://twitter.com/senriharuo]]
+-[[PIAPRO>>http://piapro.jp/floodfloodelfin]]
+-[[残響decode（サークルホームページ）>>http://znkdecode.web.fc2.com/]]
+
+**曲
+#list_by_tag(バイカP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(バイカPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|>|BGCOLOR(#0099cc):COLOR(#FFF):CENTER:&font(b,11pt){オリジナル曲}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm18954989)|&nicovideo(http://www.nicovideo.jp/watch/sm19121179)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm19261314)|&nicovideo(http://www.nicovideo.jp/watch/sm19490819)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm20090869)|&nicovideo(http://www.nicovideo.jp/watch/sm20356495)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm20767515)|&nicovideo(http://www.nicovideo.jp/watch/sm20964917)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm21582947)|&nicovideo(http://www.nicovideo.jp/watch/sm22000227)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm21582947)|&nicovideo(http://www.nicovideo.jp/watch/sm22000227)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm22346867)|&nicovideo(http://www.nicovideo.jp/watch/sm22682093)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm23393151)||
+
+**コメント
+- バイカさんもっと評価されてもいいと思うんだけどなぁ…Dmめっちゃ好きです(&amp;#9825;&amp;#714;艸&amp;#715;)  -- 燕  (2014-08-20 22:55:23)
+#comment()

@@ -1,0 +1,31 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo(sm20685416)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[リンのきおく！！]]|CENTER:&bold(){TOKYO}|CENTER:[[アマノガワ>アマノガワ/CD]]|
+
+|&bold(){[[ジェバンニP]]}|
+
+発売：2013年4月27日
+価格：￥1,000
+流通：即売
+サークル：サークル名を記入
+
+**CD紹介
+-ジェバンニPの6曲入りCD。
+-ジャケットイラストは[[NEGI]]氏。
+-THE VOC@LOiD 超 M@STER 24（超ボーマス24）で頒布。
+
+**曲目
++[[猫の彼女のESP]]
++池袋 saves golden fish store
++西新井 saves my life
++[[月交信]]
++[[壮絶のねこにゃん]]
++JM in VM24
+
+**リンク
+-[[作者ブログ>>http://jvnp.blog60.fc2.com/]]
+
+**コメント
+#comment()

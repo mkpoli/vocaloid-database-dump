@@ -1,0 +1,35 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm20664557)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Sweetopia]]&br()[[ハンペン甲子園 ～春のセンバツ～]]|CENTER:&bold(){Sweet Splash!!!}&br()[[劇場版「ハンペン甲子園 ～鮭とポニテの歌合戦～」劇中歌CD]]|CENTER:[[走れ！チャリンコ焼肉奉行所]]|
+
+|&bold(){[[ほのづき]]}|[[いつものP]]|
+
+|流通|CENTER:即売|
+|発売|CENTER:2013年4月28日|
+|価格|CENTER:￥700（税込）|
+|サークル|CENTER:ハンペン甲子園|
+
+**CD紹介
+-ほのづき氏の2ndアルバム。
+-初音ミクAppend Sweet 楽曲のみに特化された一枚。全7曲収録。
+-6曲目には、 いつものP の「君に捧ぐ」のリミックスを収録。
+-ジャケットイラストは ふゆ氏 が手掛ける。
+-THE VOC@LOiD 超 M@STER 24（超ボーマス2）にてリリース。
+
+**曲目
++Sweet Splash!!!
++カンテラ
++さよならArith.Ⅱβ
++謎²パーティーワールド！
++KAZENOHI
++[[君に捧ぐ>君に捧ぐ/いつものP]]（Sweet Splash ver.）
++ミルクスタンド
+
+**リンク
+-[[ほのづきの「ほ」（作者ブログ）>>http://honoduki.blog138.fc2.com/]]
+-[[Twitter>>http://twitter.com/Honoduki]]
+
+**コメント
+#comment

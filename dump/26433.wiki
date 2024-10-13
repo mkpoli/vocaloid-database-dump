@@ -1,0 +1,62 @@
+#right(){&furigana(こかねむし)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/22376615" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/22376615">【ニコニコ動画】</a></iframe>)|
+
+**特徴
+作り手名：『&u(){こがねむし}』
+-2010年6月、「[[哀色ブルースカイ]]」にてボカロPデビュー。
+-使用合成音声は、[[初音ミク]]、[[可不]]。
+-曲だけでなく動画も制作しており、マルチな才能を窺わせる。
+-2017年3月、[[ねこから]]氏、[[kore]]氏とともに、音楽サークル「[[This is a cat.]]」を&s(){勢いで}結成。
+-14作目、「[[精神崩壊シンドローム]]」で自身初の殿堂入りを達成。
+
+**リンク
+-[[Youtube>>http://www.youtube.com/channel/UCOfb6ts_APhgLC00KWrYzvg]]
+-[[Twitter>>http://twitter.com/blackteabisco]]
+-[[PIAPRO>>http://piapro.jp/kurocha9]]
+
+-[[Twitter（This is a cat.）>>https://twitter.com/korehaneko]]
+
+**曲
+#list_by_tag(こがねむし,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(こがねむしCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+//|>|BGCOLOR(#8d8d47):COLOR(#FFF):CENTER:&font(b,11pt){オリジナル曲}|
+#region(close,~2015)
+|&nicovideo(sm11227218)|&nicovideo(sm16753863)|
+|&nicovideo(sm17095848)|&nicovideo(sm17771699)|
+|&nicovideo(sm18066799)|&nicovideo(sm18606421)|
+|&nicovideo(sm19308088)|&nicovideo(sm19361925)|
+|&nicovideo(sm19670189)|&nicovideo(sm21167579)|
+|&nicovideo(sm21819023)|&nicovideo(sm21869840)|
+|&nicovideo(sm21968928)|&nicovideo(sm22394049)|
+|&nicovideo(sm23189701)|&nicovideo(sm23393553)|
+|&nicovideo(sm24213337)||
+#endregion
+|&nicovideo(sm30789380)|&nicovideo(sm30880759)|
+|&nicovideo(sm30977448)|&nicovideo(sm33111555)|
+|&nicovideo(sm33513127)|&nicovideo(sm36693297)|
+|&nicovideo(sm40393276)|&nicovideo(sm41474545)|
+|&nicovideo(sm41769835)||
+
+**関連タグ内の更新履歴
+#region(close,関連タグ内の更新履歴)
+関連タグ内の更新履歴
+※「こがねむし」「こがねむしCD」タグ内で最近編集やコメントのあった記事を新しい方から10件表示しています。
+#list_by_tagsearch(こがねむし,こがねむしCD,sort=timestamp,sort2=desc,errmsg=まだ曲、CDが登録されていません。,or,10)
+#endregion
+
+**コメント
+- 精神崩壊シンドロームが大好きです！でも他にもいい曲がいっぱいあるので、もっと評価されてほしい！応援してます！  -- Juno  (2014-05-06 22:00:54)
+- こがねｻﾝの曲はどれも最高！特に｢パンドラとエルピス｣がお気に入り  -- NY  (2014-08-24 14:14:14)
+- こがねむしP様、愛してます・・・  -- 名無しさん  (2014-09-19 12:59:13)
+- この人の曲大好きだ　もっと皆に聴いてほしい  -- 名無しさん  (2014-10-25 08:26:05)
+- この人最近ペース早く投稿してて曲も動画もクオリティが高いから凄い  -- 名無しさん  (2017-04-08 08:49:24)
+- 徒然のSADAMEの人？  -- 名無しさん  (2022-05-21 16:57:48)
+#comment()

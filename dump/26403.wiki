@@ -1,0 +1,12 @@
+#right(){【登録タグ:&tags()】}
+//↑タグ忘れ防止のための表示
+曖昧さ回避のためのページ
+----
+-[[雨上がりP]]の曲
+--[[after the rain/雨上がりP]]
+-[[kermit]]の曲
+--[[AFTER THE RAIN/kermit]]
+-[[NaNaP]]の曲
+--[[After the Rain/NaNaP]]
+
+#include(曖昧さ回避の追加の仕方/告知)

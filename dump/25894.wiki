@@ -1,0 +1,29 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1303_20130604112423_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Story Rider feat.初音ミク]]|CENTER:&bold(){SNOW LIGHT feat.初音ミク}|CENTER:[[EMAIL feat.初音ミク]]|
+
+|&bold(){[[エレキP>BIGHEAD]]}|
+
+発売：2013年6月19日
+価格：￥300 / 1曲￥150
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：AYAKO HISHINUMA
+
+**CD紹介
+-エレキPのシングル。
+-英語オリジナル曲。
+-「KARENT」と「ROTH ENTERTAINMENT」による共同レーベル、「Lip Sync Records」からのリリース第9弾となる。
+
+**曲目
++SNOW LIGHT (English.ver) feat. 初音ミク
++SNOW LIGHT (Japanese.ver) feat. 初音ミク
+
+**リンク
+-[[Lip Sync Records>>http://lipsync-records.jp]]
+-[[KARENT：「SNOW LIGHT feat.初音ミク」>>http://karent.jp/album/1303]]
+
+**コメント
+#comment()

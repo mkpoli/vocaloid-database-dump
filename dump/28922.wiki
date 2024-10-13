@@ -1,0 +1,67 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1546_20140617192636_0280_0280.jpg)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm23261884)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Truth and Lie]]|CENTER:&bold(){Power of the Beat}|CENTER:[[恋のまにまに>恋のまにまに/CD]]|
+
+|&bold(){[[MineK]]}|
+
+|流通|CENTER:即売|CENTER:委託|CENTER:配信|
+|発売|CENTER:2014年4月26日||CENTER:2014年7月7日|
+|価格|CENTER:￥1,000|CENTER:￥1,493（税別）|CENTER:￥1,200|
+|サークル|>|CENTER:SUKIMONO||
+
+**CD紹介
+-MineK氏のVOCALOIDアルバム。CDとしては8作目。
+-全11曲＋ボーナストラックを収録。
+-ジャケットイラストはかの氏が担当。
+-THE VOC@LOiD 超 M@STER 28（超ボーマス28）やM3-2014春で頒布。
+-とらのあなで委託販売が行われている。
+-KARENTレーベルよりダウンロード販売が行われている。配信版はボーナストラックが未収録の全11曲。曲順、内容にも一部変更がある。
+
+**曲目
+***CD版
++Mystic Dawn （feat. がくっぽいど&MEIKO）
++Snow Fairy （feat. Lily）
++[[ガンバラナックチャ]] （feat. MEIKO Power）
++[[J.D.D.S.]] （feat. がくっぽいど）
++[[Power of the Beat]] （feat. がくっぽいど&MEIKO&Lily&KAITO）
++House? or Fusion? （feat. がくっぽいど&MEIKO）
++Forbidden Ground （feat. がくっぽいどLily）
++[[Stay or Leave]] （feat. Zola Project）
++金色Overheat （feat. KAITO）
++[[Truth and Lie]] - Extend mix - （feat. MEIKO）
++晴れのちカエル （feat. ガチャッポイド）
++がくめいRadio3（トークロイド）　　※以下ボーナストラック
+++TYHYディスコ （feat. メグッポイド）
++Stay or Leave （feat. がくっぽいど&KAITO&ガチャッポイド）
++J.D.D.S. （inst.）
++Power of the Beat （inst.）
++House? or Fusion? （inst.）
++Stay or Leave （inst.）
++Truth and Lie - Extend mix - （inst.）
+
+***配信版
++Mystic Dawn （feat. がくっぽいど&MEIKO）
++Snow Fairy （feat. Lily）
++[[ガンバラナックチャ]] （feat. MEIKO Power）
++[[J.D.D.S.]] （feat. がくっぽいど）
++[[Power of the Beat]] （feat. がくっぽいど&MEIKO&Lily&KAITO）
++House? or Fusion? （feat. がくっぽいど&MEIKO）
++Forbidden Ground （feat. がくっぽいどLily）
++金色Overheat （feat. KAITO）
++[[Stay or Leave]] （feat. がくっぽいど&KAITO&ガチャッポイド）
++[[Truth and Lie]] - Extend mix - （feat. MEIKO）
++晴れのちカエル （feat. ガチャッポイド）
+
+
+**リンク
+-[[サークルサイト>>http://sukimono.org/]]
+-[[twitter>>https://twitter.com/MineK1025]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/20/24/040030202426.html]]
+-[[KARENT：「Power of the Beat」>>http://karent.jp/album/1546]]
+
+**コメント
+#comment()

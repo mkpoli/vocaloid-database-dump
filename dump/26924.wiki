@@ -1,0 +1,51 @@
+#right(){&furigana()&furigana()【登録タグ:&tags()】}
+&nicovideo(http://www.nicovideo.jp/watch/sm21938850)
+作詞：[[Tripshots]]
+作曲：[[Tripshots]]
+編曲：[[Tripshots]]
+唄：初音ミクV3
+
+**曲紹介
+-初音ミクV3を使って曲を作ってみたよ。動画の方は手抜きです。ごめんね！（作者コメ転載）
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**音楽配信
+&ref(http://karent.jp/npdca/1380_20131016191123_0280_0280.jpg)
+
+|CENTER:前作|CENTER:今作|CENTER:次作|
+|CENTER:[[Another Dimensions]]|CENTER:&bold(){Genesis}|CENTER:-|
+
+流通：配信
+発売：2013年10月25日
+価格：￥150
+レーベル：[[KARENT>>http://karent.jp/album/]]
+ジャケットイラスト：[[Tripshots]]
+
+|&bold(){[[iTunes Storeで購入>>https://itunes.apple.com/jp/album/genesis-single/id730957484]]}|
+
+***曲目
++Genesis （feat. 初音ミク）
+
+**歌詞
+永遠に廻る歯車の
+軋む音色から
+生まれる自我
+
+Being here　目覚めて
+意味など知らず
+只、在ると
+感じたとしても
+
+消えてゆく　静寂
+耳元でささやく声
+
+新しい　感触と
+目の前に広がる　色
+
+朽ち果てる　その時まで
+美しくいて　Being there
+
+**コメント
+- 追加おつ！  -- 名無しさん  (2013-09-30 01:15:38)
+- 格好良く、そして美しいです。新たなミクの誕生にふさわしい曲な気がします。  -- 名無しさん  (2013-10-04 16:47:12)
+#comment()

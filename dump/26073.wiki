@@ -1,0 +1,14 @@
+#right(){【登録タグ:&tags()】}
+//↑タグ忘れ防止のための表示
+曖昧さ回避のためのページ
+----
+-[[19's Sound Factory]]の曲
+--[[Birth/19's Sound Factory]]
+-[[otetsu]]の曲
+--[[birth/otetsu]]
+-[[NEONEO]]の曲
+--[[Birth/NEONEO]]
+-[[名縫躁]]の曲
+--[[birth/名縫躁]]
+
+#include(曖昧さ回避の追加の仕方/告知)

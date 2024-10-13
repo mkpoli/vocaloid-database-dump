@@ -1,0 +1,45 @@
+#right(){&furigana(つこ)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/11281343" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/11281343">【ニコニコ動画】猫入りダンボール</a></iframe>)
+
+**特徴
+作り手名：『&u(){つこ}』
+-2009年4月、『[[Smile*Skip*Spring]]』でボカロデビュー。
+-使用ボカロは今のところ、ミク、いろは、IA。
+-&bold(){ウオアP} というP名も付いている。由来はTwitterで「＼( 'ω')／ ウウウウウウウオオオオオオオアアアアアアア－－－－－－－！！！！！！！」とよく叫んでいたため。
+-7人組インストゥメンタルポストロックバンド『&bold(){Melanche[n]try}（メランセトリー）』のメンバー。バンドではベース・エンジニアリングを担当。
+-創作ユニット「DTM互助会 PULSE」に所属。作詞家の かなき氏 ・絵師の Haq氏 の3人でユニット「tuneout」も展開中。
+-NNIへの投稿や他の人の楽曲のMIX・マスタリングを手掛けるなど活動は精力的。
+-東方projectのキャラクター 橙 が大のお気に入り。
+
+**リンク
+-[[ニコニコ>>https://www.nicovideo.jp/user/7505187]]
+-[[YouTube>>https://www.youtube.com/channel/UCYGaKVC3d4AdKEBg6C5wlQw]]
+-[[Twitter>>https://twitter.com/tuko1573]]
+-[[PIAPRO>>https://piapro.jp/tuko1573]]
+//-[[Melanche［n］try 公式ページ>>http://melanchetry.digi2.jp/]]
+
+**曲
+#list_by_tag(つこ,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(つこCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|>|BGCOLOR(#b22222):COLOR(#ffd700):CENTER:&font(b,11pt){オリジナル曲}|
+|&nicovideo(nm6609079)|&nicovideo(nm6874833)|
+|&nicovideo(sm8275313)|&nicovideo(sm9417616)|
+|&nicovideo(sm9569081)|&nicovideo(sm10621306)|
+|&nicovideo(sm12537884)|&nicovideo(sm13106710)|
+|&nicovideo(sm14143703)|&nicovideo(sm14663476)|
+|&nicovideo(sm15493709)|&nicovideo(sm15947675)|
+|&nicovideo(sm17049509)|&nicovideo(sm17622164)|
+|&nicovideo(sm17823790)|&nicovideo(sm19174006)|
+|&nicovideo(sm19696930)|&nicovideo(sm20087300)|
+
+**コメント
+- ツイッターでよくしんでる人だー（棒）  -- 名無しさん  (2013-05-05 13:29:38)
+#comment()

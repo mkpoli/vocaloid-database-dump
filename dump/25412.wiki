@@ -1,0 +1,58 @@
+#right(){&furigana(すのーのいずP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/45802961" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/45802961">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-2012年9月、 『[[名画]]』 でボカロデビュー。
+-使用ボカロは、Appendレン一筋だったが、 『[[飴玉]]』 から不定期でリンを使うようになった。
+-楽曲の制作ペースはかなり速い部類。再生数に関係無く、隠れた傑作が多い。
+-投稿する動画は全てモノクロの写真にノイズエフェクトを少々付けたもので統一されている。
+-P名が欲しいと募集した結果、 &bold(){スノーノイズP} というP名になった。
+-アーティスト名は &bold(){lulu} 。
+-かつて、 [[水平線P]] 名義で活動していた。
+
+**リンク
+-[[MONOCHLOSIK（作者ホームページ）>>http://em-lulu.github.io/monochlosik/]]
+-[[Twitter>>http://twitter.com/ell2_lulu]]
+-[[PIAPRO>>http://piapro.jp/ell2]]
+-[[YouTube>>http://www.youtube.com/user/lulusnoise/]]
+
+**曲
+#list_by_tag(スノーノイズP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(スノーノイズPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|>|BGCOLOR(#778899):COLOR(#FFF):CENTER:&font(b,11pt){オリジナル曲}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm18837341)|&nicovideo(http://www.nicovideo.jp/watch/sm18918205)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm19271850)|&nicovideo(http://www.nicovideo.jp/watch/sm19280733)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm19381774)|&nicovideo(http://www.nicovideo.jp/watch/sm19437074)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm19487825)|&nicovideo(http://www.nicovideo.jp/watch/sm19595435)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm19735534)|&nicovideo(http://www.nicovideo.jp/watch/sm19817333)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm19993803)|&nicovideo(http://www.nicovideo.jp/watch/sm20135031)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm20298397)|&nicovideo(http://www.nicovideo.jp/watch/sm20420876)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm20597991)|&nicovideo(http://www.nicovideo.jp/watch/sm20662921)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm20723968)|&nicovideo(http://www.nicovideo.jp/watch/sm20768860)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm20794759)|&nicovideo(http://www.nicovideo.jp/watch/sm20850503)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm20898719)|&nicovideo(http://www.nicovideo.jp/watch/sm20955180)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm21011824)|&nicovideo(http://www.nicovideo.jp/watch/sm21124221)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm21180009)|&nicovideo(http://www.nicovideo.jp/watch/sm21242211)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm21244555)|&nicovideo(http://www.nicovideo.jp/watch/sm21400503)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm21457753)|&nicovideo(http://www.nicovideo.jp/watch/sm21567833)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm21623403)|&nicovideo(http://www.nicovideo.jp/watch/sm21667351)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm21669361)|&nicovideo(http://www.nicovideo.jp/watch/sm21675155)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm21739798)|&nicovideo(http://www.nicovideo.jp/watch/sm21791686)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm21832586)|&nicovideo(http://www.nicovideo.jp/watch/sm21870604)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm21896843)|&nicovideo(http://www.nicovideo.jp/watch/sm21984776)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm22045228)|&nicovideo(http://www.nicovideo.jp/watch/sm22073910)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm22139916)|&nicovideo(http://www.nicovideo.jp/watch/sm22184510)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm22325264)|&nicovideo(http://www.nicovideo.jp/watch/sm22354149)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm22564981)|&nicovideo(http://www.nicovideo.jp/watch/sm22718389)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm22896391)|&nicovideo(http://www.nicovideo.jp/watch/sm23057035)|
+
+**コメント
+- 綺麗な調教、世界観、メロディー、歌詞。どれをとっても素敵です！とっても大好きです！！  -- 名無しさん  (2013-09-06 15:18:09)
+- 13番地のハロウィンを聞いてファンになりました！「泣き虫」が一番好きです、調教がとても素敵で素晴らしいです!!  -- 名無しさん  (2013-10-20 07:37:39)
+- あなたの曲が一番一番好きでした…いつか戻って来てください…ほんとにほんとに、お願いします  -- 名無しさん  (2018-10-26 13:47:12)
+- 今年知って心を掴まれました。曲も歌もずっと聞きます。あなたが健康でしあわせでいますように。  -- 15  (2022-07-22 23:41:10)
+#comment()

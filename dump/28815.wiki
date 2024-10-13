@@ -1,0 +1,39 @@
+#right(){&furigana(ぐらいだー)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/5536211" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/5536211">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-台湾出身の絵師・PV師。
+-ニコニコ動画のタグは「グライダー絵師」が使用されている。
+-[[じーざすP]]とのコラボ作「[[リモコン]]」はミリオン再生を達成した。
+
+**リンク
+-[[ブログ>>http://eader.blog31.fc2.com/]]
+-[[twitter>>https://twitter.com/eader]]
+-[[PIAPRO>>http://piapro.jp/guraida_e]]
+-[[Pixiv>>http://www.pixiv.net/member.php?id=742801]]
+
+**曲
+#list_by_tag(グライダー,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(グライダーCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+***コラボ作
+|&nicovideo(sm13612500)|&nicovideo(sm15104776)|
+|&nicovideo(sm16532577)|&nicovideo(sm20331479)|
+|&nicovideo(sm24909819)|&nicovideo(sm27098156)|
+***PVつけてみた
+|&nicovideo(sm2509360)|&nicovideo(sm2671676)|
+|&nicovideo(sm2828416)|&nicovideo(sm3006660)|
+|&nicovideo(sm4072202)|&nicovideo(sm5260975)|
+|&nicovideo(sm5671160)|&nicovideo(sm8952031)|
+|&nicovideo(sm10386124)||
+
+**コメント
+//- 縺励ｓ縺ｧ縺励∪縺?→縺ｯ縺ｪ縺輔￠縺ｪ縺?ｼ√?蟆剰ｪｬ繧ｫ繝舌?縺九ｏ縺?＞縺ｧ縺吮墳( ?･繞ゑｽ･)ﾙ  -- ゆみ  (2014-09-29 21:04:00)
+- 迷子ライフ 自由気ままなB級人生 HAKOBAKO PLAYER 枕木 下克上 ミツバチ とかありますよ  -- グライダーさんLOVE  (2014-11-21 17:51:15)
+- リモコン、しんでしまうとはなさけない、ぼうけんのしょがきえました！が、すきです！グライダーさん、これからも頑張ってください！！  -- クロ  (2016-02-20 17:34:52)
+- グライダーさんの絵はかわいいです(*≧∀≦*)特にリモコンが気に入っています❤  -- 名無しさん  (2016-04-03 11:48:04)
+- リモコン　の絵がめっちゃ好き。  -- 名無し  (2020-11-20 19:06:13)
+#comment()

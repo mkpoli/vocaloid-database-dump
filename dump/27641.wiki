@@ -1,0 +1,32 @@
+#right(){&furigana(MYRT)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/36376953" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/36376953">【ニコニコ動画】</a></iframe>)
+
+**特徴
+作り手名：『&u(){MYRT}』(&u(){みると})
+-鏡音リン・レン、初音ミク、メグッポイド、Lilyを使用している、主にゴシックテクノやロックを発表している
+-鏡音リンレンが大好きで、将来リンちゃんは嫁 レン君はペットと変態発言を多々している。
+-暗くてメロディアスな音楽を好み、それ故ゴシックテクノは得意であるようだ。
+-バンド経験があるらしく、ギター、ベース、ピアノを一通り弾けるらしい。
+-「みると」と読む。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/myrt]]
+-[[Twitter>>https://twitter.com/MYRT_c6n]]
+
+**曲
+#list_by_tagsearch(MYRT,sort=furigana2,errmsg=まだ曲が登録されていません。,and,100)
+
+**CD
+#list_by_tagsearch(MYRTCD,sort=furigana2,errmsg=まだCDが登録されていません。,and,100)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm21382592)|&nicovideo(http://www.nicovideo.jp/watch/sm21692916)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm21693239)|&nicovideo(http://www.nicovideo.jp/watch/sm21693534)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm22150352)|&nicovideo(http://www.nicovideo.jp/watch/sm22323119)|
+
+**コメント
+#comment()

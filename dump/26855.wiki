@@ -1,0 +1,25 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[残滓 -ZANSAI-]]|CENTER:&bold(){Unbalance}|CENTER:[[Poker Face>Poker Face/CD]]|
+
+|&bold(){[[Ebot]]}|
+
+発売：2012年10月28日
+価格：￥200
+流通：即売
+サークル：ウタカタ社中
+
+**CD紹介
+-Ebot氏のCD作品。
+-手焼きシングルCDで少数頒布。
+-VOCALOID PARADISE 7 in 名古屋（ボーパラ7）でのみの頒布。
+
+**曲目
+-[[Unbalance>Unbalance/Ebot]] / KAITO
+-Unbalance / Ebot
+
+**リンク
+-[[サークルサイト>>http://utakatasyachu.blog.fc2.com/]]
+
+**コメント
+#comment()

@@ -1,0 +1,22 @@
+#right(){&furigana(たかしあ)&furigana()【登録タグ:&tags() 】}
+
+
+**特徴
+-一作目「病みホイップパウダ」
+
+**リンク
+-個人HP、PIAPRO、muzie等ある場合は、ここに。当wiki以外のサイトへリンクを貼る場合は必ず「>>」で別ウインドウでリンクしてください。
+
+**曲
+#list_by_tag(タカシア,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(タカシアCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm22440664)|&nicovideo(http://www.nicovideo.jp/watch/nm22507498)|
+
+**コメント
+- まだ一曲なのにまとめられるって、まさか本人がやったのか？  -- 名無しさん  (2013-12-15 23:59:53)
+- 追加乙  -- 名無し  (2013-12-22 22:12:33)
+#comment()

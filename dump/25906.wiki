@@ -1,0 +1,43 @@
+#right(){&furigana(かっちゃん)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://ext.nicovideo.jp/thumb_mylist/28034941" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/28034941">【ニコニコ動画】Mix/Mastering</a></iframe>)
+
+**特徴
+作り手名：『&u(){がっちゃん}』
+-楽曲のMIXやマスタリングを主にやっている。
+-「さかな」名義でボカロPとしても活動している。
+-じん（[[自然の敵P]]）氏の「カゲロウプロジェクト」に参加している。
+-天使である。
+
+**リンク
+-[[ニコニコ>>https://www.nicovideo.jp/user/4261044]]
+-[[YouTube>>https://www.youtube.com/channel/UC0ZdHTQ6TUspshm3UTtRgNA]]
+//-[[Twitter>>https://twitter.com/Gass10mg]]
+-[[Twitter>>https://twitter.com/sakana_tohno]]
+-[[piapro>>https://piapro.jp/syrup10mg]]
+
+**曲
+#list_by_tag(がっちゃん,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(がっちゃんCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm13628080)|&nicovideo(sm15751190)|
+|&nicovideo(sm15976554)|&nicovideo(sm16548455)|
+|&nicovideo(sm16846374)|&nicovideo(sm16858812)|
+|&nicovideo(sm16866238)|&nicovideo(sm17205633)|
+|&nicovideo(sm17794405)|&nicovideo(sm18008175)|
+|&nicovideo(sm18078285)|&nicovideo(sm18391074)|
+|&nicovideo(sm18639935)|&nicovideo(sm18821036)|
+|&nicovideo(sm19286279)|&nicovideo(sm19625630)|
+|&nicovideo(sm20252366)|&nicovideo(sm20503130)|
+
+**コメント
+- 追加しました。皆さんよければ編集をしてください。  -- 名無しさん  (2013-06-22 17:10:46)
+- 天使超同意www歌声可愛すぎるしMIXも上手いし。  -- 名無しさん  (2013-06-27 19:33:40)
+- まじ天使  -- 名無しさん  (2013-09-26 00:28:38)
+#comment()

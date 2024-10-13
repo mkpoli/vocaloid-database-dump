@@ -1,0 +1,32 @@
+#right(){&furigana(げっしょくけそう)&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1378_20131014211955_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){月色懸想}|CENTER:-|
+
+|&bold(){[[モテたいP]]}|ライファイ|
+
+発売：2013年11月5日
+価格：￥300 / 1曲￥150（税込）
+流通：配信
+レーベル：KARENT
+ジャケット：[[N人>>http://piapro.jp/nto_bc]]
+
+|&bold(){[[iTunes Storeで購入する>>https://itunes.apple.com/jp/album/gesshoku-kesou-single/id735066912]]}|
+
+**CD紹介
+-モテたいPの3曲入りアルバム。
+-MEIKO生誕祭2013の新曲2曲に、「Lost Red Flower」の再ミックス版を収録。
+-KARENTレーベルのMEIKO9周年記念企画で配信された作品の1つ。
+
+**曲目
++[[Mi/nd Я|R:eflection>Mi／nd Я|R:eflection]] （feat. MEIKO）
++[[Lost Red Flower]] （feat. MEIKO）
++[[月色懸想]] （feat. MEIKO）
+
+**リンク
+-[[KARENT：「月色懸想」>>http://karent.jp/album/1378]]
+-[[KARENT：「MEIKO記念祭'13」特集ページ>>http://karent.jp/special/meiko13]]
+
+**コメント
+#comment()

@@ -1,0 +1,43 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#amazon(B00GEWFCOM)
+
+
+&nicovideo(http://www.nicovideo.jp/watch/sm22231069)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[GALAPAGOS>GALAPAGOS/PENGUINS PROJECTCD]]|CENTER:&bold(){CLASSIC}|CENTER:-|
+
+|&bold(){[[PENGUINS PROJECT]]}|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|>|CENTER:2013年11月17日|
+|価格|CENTER:￥1,000（税込）|CENTER:￥1,500（税込）|
+|サークル|>|CENTER:PENGUINS PROJECT|
+
+**CD紹介
+>&bold(){これは百年続く僕の手紙……}
+-PENGUINS PROJECT 、2年ぶりのニューアルバム。ボーカルは全てGUMI。
+-本CDのコンセプトは「2030年に再発されたCD」。
+-先行リリースされた「[[未来映画パラソル]]」「[[river>river/PENGUINS PROJECT]]」「[[ガラパゴス・ガール]]」に新曲を加えた全11曲を収録。
+-ジャケットイラストなどのアートワークは [[吉田ドンドリアン]]氏 が手掛ける。
+-THE VOC@LOiD M@STER27（ボーマス27）にてリリース。Amazonで通販も行われる。
+
+**曲目
++As Is
++[[未来映画パラソル]]
++暗闇ジンジャーエール
++[[river>river/PENGUINS PROJECT]]
++幽霊
++Fit & Gap
++邯鄲の夢
++ニューギニアへ行こう
++REINCARNATION
++To Be （A Classic）
++（Bonus Track）[[ガラパゴス・ガール]]
+
+**リンク
+-[[ペンギン村役場（作者ブログ）>>http://d.hatena.ne.jp/PENGUINS_PROJECT/]]
+-[[amazon>>http://www.amazon.co.jp/dp/B00GEWFCOM/]]
+
+**コメント
+#comment()

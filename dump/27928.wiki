@@ -1,0 +1,35 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+//#ref()
+
+|&nicovideo(http://www.nicovideo.jp/watch/sm22558933)|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Seven's Drive]]|CENTER:&bold(){Colorful Palette}|CENTER:-|
+
+|&bold(){[[7D]]}|
+
+|流通|CENTER:即売|
+|発売|CENTER:2013年12月31日|
+|価格|CENTER:￥500（税込）|
+|サークル|CENTER:だらプラス|
+
+**CD紹介
+>&bold(){その手に掴んだのは願いの残滓･･･}
+-7D氏 の 2nd album.
+-既存曲の『深愛-Sin I-』『[[GO!]]』『[[灰-Ash-]]』に新曲を加えた6曲を収録。
+-ジャケットイラストは しゐな（結月ぷち）氏 が手掛ける。
+-C85（コミックマーケット85）にてリリース。
+
+**曲目
++Gate
++僕とパレットついでに世界
++[[灰-Ash-]]
++[[深愛-Sin I-]]
++[[GO!]]
++夢も希望もありゃしない
+
+**リンク
+-[[Twitter>>http://twitter.com/shiki_crows]]
+
+**コメント
+#comment()

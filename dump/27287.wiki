@@ -1,0 +1,11 @@
+#right(){【登録タグ:&tags()】}
+//↑タグ忘れ防止のための表示
+曖昧さ回避のためのページ
+----
+-[[HAMO]]の曲
+--[[Ordinary Life/HAMO]]
+
+-[[いのっぴ]]のCD
+--[[Ordinary Life/CD]]
+
+#include(曖昧さ回避の追加の仕方/告知)

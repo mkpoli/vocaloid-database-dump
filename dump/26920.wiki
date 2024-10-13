@@ -1,0 +1,46 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#ref(http://tangent-space.com/linkloid/img/jacket_s.png,width=300,height=300)
+
+
+&nicovideo(http://www.nicovideo.jp/watch/sm21986207)
+
+|BGCOLOR(#db7093):COLOR(#FFF):CENTER:&font(b,11pt){　前作　}|BGCOLOR(#0cb0e0):COLOR(#FFF):CENTER:&font(b,11pt){　本作　}|BGCOLOR(#db7093):COLOR(#FFF):CENTER:&font(b,11pt){　次作　}|
+|CENTER:-|CENTER:&bold(){Linkloid}|CENTER:-|
+
+|[[BIRUGE>コモレビノーツ]]|[[やみくろ]]|[[ヤミカ]]|[[ぐらしゃ]]|[[樹人]]|
+|[[sunny spot]]|[[融合P]]|[[ひかげ]]|[[こがねむし]]|[[ことこ]]|
+|[[らいふP]]|[[つきのP]]|[[うらら]]|[[佳奈]]|[[もふ]]|
+
+|BGCOLOR(#0cb0e0):COLOR(#FFF):CENTER:&font(b,11pt){　流通　}|BGCOLOR(#db7093):COLOR(#FFF):CENTER:&font(b,11pt){　即売　}|
+|BGCOLOR(#db7093):COLOR(#FFF):CENTER:&font(b,11pt){　発売　}|CENTER:　2013年10月20日　|
+|BGCOLOR(#0cb0e0):COLOR(#FFF):CENTER:&font(b,11pt){　価格　}|CENTER:　￥1,000（税込）　|
+|BGCOLOR(#db7093):COLOR(#FFF):CENTER:&font(b,11pt){　サークル　}|CENTER:　Linkloid　|
+
+**CD紹介
+>&bold(){「創ってしまったわ…円環の理に導かれて…」}
+-参加メンバー同志でコラボの連鎖反応を起こし、巡り巡って一周する、「繋がりを」コンセプトにしたいわゆる「円環コンピ」。全12曲収録。
+-ジャケットイラストなどのアートワークは 佳奈氏 ・ うらら氏 ・ もふ氏 の3人が手掛ける。
+-VOCALOID PARADISE 8（ボーパラ8）にてリリース。委託販売も行われていた。
+
+**曲目
+|BGCOLOR(#0cb0e0):COLOR(#FFF):CENTER:&font(b,11pt){　Track　}|BGCOLOR(#db7093):COLOR(#FFF):CENTER:&font(b,11pt){　曲名　}|BGCOLOR(#0cb0e0):COLOR(#FFF):CENTER:&font(b,11pt){　楽曲制作者　}|
+|BGCOLOR(#db7093):COLOR(#FFF):CENTER:&font(b,11pt){ 01 }|CENTER:現在信仰ソシオメトリー feat. IA|CENTER:樹人＆ひかげ|
+|BGCOLOR(#0cb0e0):COLOR(#FFF):CENTER:&font(b,11pt){ 02 }|CENTER:高架下ドリーマー feat. 初音ミク・巡音ルカ|CENTER:BIRUGE＆やみくろ|
+|BGCOLOR(#db7093):COLOR(#FFF):CENTER:&font(b,11pt){ 03 }|CENTER:[[Pandemic]] feat. GUMI|CENTER:融合P＆こがねむし|
+|BGCOLOR(#0cb0e0):COLOR(#FFF):CENTER:&font(b,11pt){ 04 }|CENTER:Loving Loser feat. IA・鏡音リン|CENTER:ひかげ＆融合P|
+|BGCOLOR(#db7093):COLOR(#FFF):CENTER:&font(b,11pt){ 05 }|CENTER:長雨の隙間から feat. 初音ミク|CENTER:らいふP＆ぐらしゃ|
+|BGCOLOR(#0cb0e0):COLOR(#FFF):CENTER:&font(b,11pt){ 06 }|CENTER:星たちの住むところ feat. 鏡音リン|CENTER:ヤミカ＆らいふP|
+|BGCOLOR(#db7093):COLOR(#FFF):CENTER:&font(b,11pt){ 07 }|CENTER:[[ネジ巻き小人と君の鼓動]] feat. 初音ミク|CENTER:水那月詩音＆ことこ|
+|BGCOLOR(#0cb0e0):COLOR(#FFF):CENTER:&font(b,11pt){ 08 }|CENTER:[[懐古録]] feat. KAITO|CENTER:つきのP＆水那月詩音|
+|BGCOLOR(#db7093):COLOR(#FFF):CENTER:&font(b,11pt){ 09 }|CENTER:心食カニバリズム feat. 初音ミク|CENTER:ことこ＆こがねむし|
+|BGCOLOR(#0cb0e0):COLOR(#FFF):CENTER:&font(b,11pt){ 10 }|CENTER:[[狩人と猫]] feat. KAITO・鏡音レン|CENTER:つきのP＆ヤミカ|
+|BGCOLOR(#db7093):COLOR(#FFF):CENTER:&font(b,11pt){ 11 }|CENTER:[[木陰一時]] feat. GUMI|CENTER:ぐらしゃ＆BIRUGE|
+|BGCOLOR(#0cb0e0):COLOR(#FFF):CENTER:&font(b,11pt){ 12 }|CENTER:相愛ディスタンス feat. 巡音ルカ|CENTER:やみくろ＆樹人|
+
+**リンク
+-[[特設ページ>>http://tangent-space.com/linkloid/]]
+-[[委託>>http://ec.akgb.jp/category/select/cid/1044/pid/14836]]
+
+**コメント
+- 欲しかったなぁー  -- 名無しさん  (2014-10-23 19:43:39)
+#comment()

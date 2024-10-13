@@ -1,0 +1,92 @@
+#right(){&furigana(Omoi)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/37582888" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/37582888">【ニコニコ動画】</a></iframe>)|
+
+**特徴
+作り手名：『&u(){Omoi}』(&u(){オモイ})
+-&bold(){Sakurai}氏 と &bold(){Kimura}氏 による男女2人組ユニット。
+--発音のイントネーションは「オ↑モイ」。
+-シンセサイザーロックを主体としたサウンドを得意とする。
+-2013年6月25日、「[[スノウドライヴ]]」でボカロデビュー。
+-使用合成音声は[[初音ミク]]、[[IA]]、[[鏡音リン>鏡音リン・レン]]、[[GUMI>Megpoid]]。
+-デビュー作はいきなりスマッシュヒットを記録。その後もコンスタントにヒット曲をリリースしている。
+-ついに、6作目の「[[全速力協奏曲]]」が自身初の殿堂入りを達成。
+-2018年2月15日、14作目の「[[テオ]]」にて自身初の[[ミリオン>曲一覧/ミリオン曲一覧]]を達成した。
+-これまでに殿堂入りを達成した曲は、以下の通り。&br()「&list_by_tagsearch(Omoi,殿堂入り,sort=furigana,option=nolist,nolistspace=」「,100)」
+
+**ミリオン達成状況
+|CENTER:&bold(){曲名}|CENTER:&bold(){100万再生}|CENTER:&bold(){200万再生}|CENTER:&bold(){300万再生}|CENTER:&bold(){備考}|
+|[[テオ]]|2018年2月15日|2018年11月5日|2019年6月10日|15人目となる&b(){トリプルミリオン複数持ちP}|
+|[[グリーンライツ・セレナーデ]]|2018年8月4日|2018年9月26日|2019年3月1日||
+|[[ミスリード・ミスリード]]|2019年7月9日||||
+|[[君が飛び降りるのなら]]|2019年12月7日|2023年1月27日|||
+|[[ファイヴ]]|2022年2月11日|||45人目となる5曲ミリオン持ちP|
+
+**リンク
+//-個人HP、PIAPRO、YouTube等ある場合は、ここに。当wiki以外のサイトへリンクを貼る場合は必ず「>>」で別ウインドウでリンクしてください。
+//-[[ニコニコ動画>>https://www.nicovideo.jp/user/]]
+-[[YouTube>>https://www.youtube.com/user/Omoi3965]]
+-[[piapro>>https://piapro.jp/omoi3965]]
+-[[Twitter>>https://twitter.com/Omoi3965]]
+-[[Bilibili>>https://space.bilibili.com/396817746]]
+-[[pixiv>>https://www.pixiv.net/users/21144433]]
+--[[pixivFANBOX>>https://www.pixiv.net/fanbox/creator/21144433]]
+-[[KARENT>>https://karent.jp/artist/pp000832]]
+-[[BOOTH>>https://omoi.booth.pm]]
+//-[[Omoi official web site>>http://www.omoi3965.com]]
+-[[作者ブログ「Omoi Blog」>>http://omoi3965.blog.fc2.com/]]
+
+-[[ニコニコ大百科>>https://dic.nicovideo.jp/a/omoi]]（単語記事）
+
+**曲
+#list_by_tag(Omoi,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(OmoiCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+//|>|BGCOLOR(#2b80d5):COLOR(#FFF):CENTER:&font(b,11pt){オリジナル曲}|
+|&nicovideo(sm21203138)|&nicovideo(sm21645200)|
+|&nicovideo(sm22287708)|&nicovideo(sm22730034)|
+|&nicovideo(sm23189073)|&nicovideo(sm23978758)|
+|&nicovideo(sm25154371)|&nicovideo(sm25831981)|
+|&nicovideo(sm29525474)|&nicovideo(sm29966363)|
+|&nicovideo(sm30476309)|&nicovideo(sm31389917)|
+|&nicovideo(sm31533883)|&nicovideo(sm31883007)|
+|&nicovideo(sm32358510)|&nicovideo(sm32548052)|
+|&nicovideo(sm33304576)|&nicovideo(sm33480697)|
+|&nicovideo(sm34111863)|&nicovideo(sm34873394)|
+|&nicovideo(sm35258454)|&nicovideo(sm35799274)|
+|&nicovideo(sm36143661)|&nicovideo(sm36933372)|
+|&nicovideo(sm37779386)|&nicovideo(sm40065313)|
+|&nicovideo(sm42448221)||
+//|&nicovideo()|&nicovideo()|
+
+**関連タグ内の更新履歴
+#region(close,関連タグ内の更新履歴)
+関連タグ内の更新履歴
+※「Omoi」「OmoiCD」タグ内で最近編集やコメントのあった記事を新しい方から10件表示しています。
+#list_by_tagsearch(Omoi,OmoiCD,sort=timestamp,sort2=desc,errmsg=まだ曲、CDが登録されていません。,or,10)
+#endregion
+
+**コメント
+//- 作成乙です！  -- かっ平  (2014-03-30 19:46:53)
+- この人は本当に音作りが凄い。もっと伸びないものか  -- 名無しさん  (2014-03-31 18:13:52)
+- 大好きです！！  -- 名無しさん  (2014-07-15 00:29:30)
+- 一緒に曲つくりたい！  -- 碧朱音  (2014-11-14 14:35:24)
+- ついにOmoiさんもミリオン持ちPに… 全速力協奏曲をリフレクでやった時から追ってるから感慨深いものがある 今飛び抜けて勢いがあるPだしこれからも応援します！  -- ゆーな  (2018-02-15 22:20:46)
+- 前々から本人たちがツイッターで示唆してましたがマジミラテーマ曲担当かあ、すごいなあ  -- 名無しさん  (2018-03-16 13:34:00)
+- 実は、二人組だったとは・・・。し、知らなかったよ。Omoiさん、これからも、頑張ってください！応援しています。  -- 暁  (2018-04-13 19:49:58)
+- 曲の疾走感、ミクさんの魂の叫び、最高です。ありがとう。  -- 名無しさん  (2018-07-11 21:20:10)
+- ミクとIAだけになってるけどリンも結構使ってるよね。  -- 名無しさん  (2018-08-02 23:20:34)
+- 本当に好きすぎる。ずっと応援してます  -- 名無しさん  (2018-08-12 09:30:19)
+- おもいさん好きすぎ  -- 名無しさん  (2018-11-13 20:50:48)
+- Omoiさん愛してます！  -- 名無しさん  (2019-11-11 20:57:01)
+- ここのミクちゃんの声ガチ版好き  -- 名無しさん  (2021-11-20 11:56:54)
+- お⤴︎もいなんやな  -- プログラミング  (2022-02-20 07:59:43)
+- ブルハ好きを公言してたけど歌詞に時々ブルハ織り込まれてるの好き  -- 名無しさん  (2023-02-24 15:25:45)
+- ふぉあぐらのteto  -- 名無しさん  (2024-07-21 03:46:22)
+#comment()

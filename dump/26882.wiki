@@ -1,0 +1,35 @@
+#right(){&furigana()&furigana()【登録タグ:&tags()】}
+|&nicovideo(http://www.nicovideo.jp/watch/1380099912)|&youtube(http://www.youtube.com/watch?v=-2sr92aRG_E){330,247}|
+作詞：[[八王子P]]
+作曲：[[八王子P]]
+編曲：[[八王子P]]
+唄：初音ミク V3(SOFT、SOLID)
+
+**曲紹介
+-「初音ミク V3」の公式デモ曲。
+-SOFTとSOLIDの音声ライブラリーを「ベタ打ち」にて使用。
+
+**歌詞
+（&color(deepskyblue){SOFT}　&color(gray){SOLID}　SOFT/SOLID ）
+
+&color(gray){予報はずれの雨}　&color(deepskyblue){ぽつりぽつり}
+&color(gray){カバン抱えて走る}　キミを見たんだ
+
+&color(deepskyblue){幸いここには誰もいない}　&color(gray){これはチャンスだ}
+傘握りしめて　勇気を出して　声かけたの
+
+Happy Rainy Day
+&color(deepskyblue){憂鬱だった雨模様も}　&color(gray){キミとの距離縮める}
+魔法になる
+
+Lovely Rainy Day
+&color(deepskyblue){たまに触れる肩が妙に}　&color(gray){よそよそしくて}
+なんか笑えるね
+
+Happy Rainy Day
+Lovely Rainy Day
+
+**コメント
+- 追加乙！  -- 名無しさん  (2013-09-26 20:00:54)
+- 良い曲だな  -- やつこ  (2013-10-19 18:54:27)
+#comment()

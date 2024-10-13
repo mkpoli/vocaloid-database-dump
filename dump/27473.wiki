@@ -1,0 +1,33 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1376_20131014192642_0280_0280.jpg)
+
+|CENTER:前作|CENTER:今作|CENTER:次作|
+|CENTER:[[パズルライフ]]|CENTER:&bold(){Sharing Voice}|CENTER:[[GODDESS>GODDESS/CD]]|
+
+|&bold(){[[shu-tP]]}|
+
+流通：配信
+発売：2013年11月5日
+価格：￥600 / 1曲￥150
+レーベル：[[KARENT>>http://karent.jp/album/1376]]
+ジャケットイラスト：shu-t 
+
+|&bold(){[[iTunes Storeで購入>>https://itunes.apple.com/jp/album/sharing-voice-ep/id735059464]]}|
+
+**CD紹介
+-shu-tPの4曲入りEP。
+-MEIKO生誕祭2013の新曲「Sharing Voice」にそのリミックストラックとオフボーカルトラック、「Spend With You」のMEIKOバージョン「Spend With You -Anogher Style-」が収録。。
+-KARENTレーベルのMEIKO9周年記念企画で配信された作品の1つ。
+
+***曲目
++[[Sharing Voice]] （feat. MEIKO）
++Sharing Voice -OT RMX- （feat. MEIKO）
++[[Spend With You -Another Style-]] （feat. MEIKO）
++Sharing Voice -Off Vocal-
+
+**リンク
+-[[KARENT：「Sharing Voice」>>http://karent.jp/album/1376]]
+-[[KARENT：「MEIKO記念祭'13」特集ページ>>http://karent.jp/special/meiko13]]
+
+**コメント
+#comment()
