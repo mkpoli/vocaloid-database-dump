@@ -1,0 +1,42 @@
+#right(){&furigana(まきせゆうな)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/36268859" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/36268859">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-使用ボカロは、GUMI、東北ずん子、夢眠ネム、MAYU、v flower。以前は初音ミクと巡音ルカも使用していた。
+-2010年にデビュー（初投稿作品は削除されているため現存していない）。
+-2018年1月から、「&bold(){ましろ}」名義に変更した。
+-活動歴8年目にして「[[ロリータファッション]]」がヒット。かなりの苦労人ボカロPである。
+//-ある有名ボカロPと同じ中学校でクラスが同じだったこともある（本人談）。
+
+**リンク
+-[[twitter>>http://twitter.com/ma4r0_]]
+-[[piapro>>http://piapro.jp/nakarin2411]]
+
+**曲
+#list_by_tag(牧瀬夕那,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(牧瀬夕那CD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm26554594)|&nicovideo(sm26718110)|
+|&nicovideo(sm26833075)|&nicovideo(sm27045448)|
+|&nicovideo(sm27218259)|&nicovideo(sm27496650)|
+|&nicovideo(sm27876169)|&nicovideo(sm28397003)|
+|&nicovideo(sm28461013)|&nicovideo(sm28781355)|
+|&nicovideo(sm29361932)|&nicovideo(sm31034412)|
+|&nicovideo(sm31230102)|&nicovideo(sm31652236)|
+|&nicovideo(sm31710056)|&nicovideo(sm31933391)|
+|&nicovideo(sm31977443)|&nicovideo(sm32032353)|
+|&nicovideo(sm32208171)|&nicovideo(sm32433113)|
+|&nicovideo(sm32464202)|&nicovideo(sm32585358)|
+|&nicovideo(sm32603521)|&nicovideo(sm32617399)|
+|&nicovideo(sm32641556)|&nicovideo(sm32651262)|
+|&nicovideo(sm32666276)|&nicovideo(sm32705077)|
+|&nicovideo(sm32808001)|&nicovideo(sm33035239)|
+|&nicovideo(sm33209144)|&nicovideo(sm33429369)|
+|&nicovideo(sm33459083)|&nicovideo(sm33660439)|
+
+
+**コメント
+#comment()

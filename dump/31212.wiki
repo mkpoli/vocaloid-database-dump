@@ -1,0 +1,70 @@
+#right(){&furigana()&furigana()【登録タグ:&tags()】}
+&nicovideo(http://www.nicovideo.jp/watch/sm23683265)
+作詞：[[AMANE]]
+作曲：[[mstk]]
+編曲：[[mstk]]
+唄：巡音ルカ
+
+**曲紹介
+-mstk氏の2作目。
+-自身が参加するSUGAR BRAVEの2ndアルバム『[[no means]]』に収録されていた楽曲。
+-作詞はAMANE氏。ドラムは隈氏、ベースは竜太郎氏。イラスト＆動画は[[モゲラッタ]]氏、ミックス＆マスタリングは[[蘭]]氏。
+-KARENTレーベルよりダウンロード販売が行われている。[[巡音ルカ6周年記念企画>>http://karent.jp/special/luka15]]で配信された作品の1つ。
+
+**音楽配信
+&ref(http://karent.jp/npdca/1673_20141230200121_0280_0280.jpg)
+
+|CENTER:前作|CENTER:今作|CENTER:次作|
+|CENTER:[[Sugar Brave]]|CENTER:&bold(){M7}|CENTER:-|
+
+流通：配信
+発売：2015年1月23日
+価格：￥150
+レーベル：[[KARENT>>http://karent.jp/album/1673]]
+ジャケットイラスト：みず希
+
+|&bold(){[[iTunes Storeで購入>>http://itunes.apple.com/jp/album/m7-single/id957996511]]}|
+
+***曲目
++M7 （feat. 巡音ルカ）
+
+**歌詞
+（[[ピアプロ>>http://piapro.jp/t/dVbG]]より転載）
+
+儚き命と引き換えにして　今日も快楽与えてる
+何も感じないSelfishな僕は　君に懲りずにくちづけて
+
+love you need you hate you catch you sick you
+灰になって
+love you need you hate you catch you sick you
+消えてく
+
+君が欲しくて　君が惑わせて
+君を求めて　君が愛しくて
+嫌われ者でも疫病神でも
+世界の敵の君と
+
+火を灯し意識を集中
+カラダ蝕む君招集
+いつまでも禁断症状
+and I'm going down
+
+love you need you hate you catch you sick you
+か弱き
+love you need you hate you catch you sick you
+小悪魔
+
+君が欲しくて　君が惑わせて
+君を見つめて　君に恋焦がれて
+邪魔者でも消されそうになってもきっと見つけるさ
+addicted to you
+
+
+君が欲しくて　君が惑わせて
+君を求めて　君が愛しくて
+この身黒く犯されてしまっても
+きっといつまでも addicted to you
+
+
+**コメント
+#comment()

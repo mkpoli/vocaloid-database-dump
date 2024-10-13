@@ -1,0 +1,39 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+
+
+&nicovideo(http://www.nicovideo.jp/watch/sm27865726)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[WORKS11-14]]|CENTER:&bold(){Works15}|CENTER:[[Rennfahrer]]|
+
+|&bold(){[[鼻そうめんP]]}|[[chu-ji]]|yuiko|
+
+||CENTER:即売|
+|発売|CENTER:2015年12月31日|
+|価格|CENTER:￥1,500（税込）|
+|サークル|CENTER:tabgraphics|
+
+**CD紹介
+-鼻そうめんPのCDアルバム。
+-既存曲の「[[Shiro]]」「[[isotext]]」を筆頭に、新曲やリミックスやインストで構成された全9曲。
+-[[Clean Tears]]氏 の「[[Inverse Relation]]」の Remix ver. も収録される。
+-同時にイラスト集の『TABGRAPHICS WORKS』（￥500）と、イラストを手掛ける「エロマンガ先生」のひざかけブランケット（￥4,000）が頒布される。
+-コミックマーケット89（C89）にて頒布。
+
+**曲目
++Sequent
++[[isotext]]
++Sune○ 2015
++[[incarnation>インカーネイション]]（2015 Remix）
++Reunite
++[[Shiro]]
++[[Inverse Relation]]（HSP Remix）
++[[Miku-San-Noise]]
++Acrossgust（2015 Re-Edit）
+
+**リンク
+-[[tabgraphics_blog（作者ブログ）>>http://nekomimi.tabgraphics.under.jp/]]
+
+**コメント
+- 「前作からは約4年ぶりとなる」とあるけど、前作works11-14は去年頒布された  -- 名無しさん  (2016-01-07 19:36:09)
+#comment

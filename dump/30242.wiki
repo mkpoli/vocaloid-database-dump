@@ -1,0 +1,256 @@
+#right(){&furigana()&furigana()【登録タグ:&tags()】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm26284496)|&youtube(https://www.youtube.com/watch?v=GRc_Vz6kEjc){342,187}|
+|&nicovideo(sm26899153)|&youtube(https://www.youtube.com/watch?v=GsMqQqb4AvI){342,187}|
+作詞：[[BIGHEAD]]
+作曲：[[BIGHEAD]]
+編曲：[[BIGHEAD]]
+唄：[[初音ミク]]
+
+**曲紹介
+-『[[Story Rider]]』の作曲者の新プロジェクト「BIGHEAD」による、「[[HATSUNE MIKU EXPO 2014 in LA & NY>>http://mikuexpo.com/]]」のメインテーマソング。
+-KARENTレーベルよりダウンロード販売が行われている。
+-英語verの発表から約1年後、日本語歌詞ver(JAPANESE.ver)が公開された。
+
+**音楽配信
+&ref(http://karent.jp/npdca/1599_20140821143747_0280_0280.jpg)
+
+|CENTER:前作|CENTER:今作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Sharing The World}|CENTER:[[Gallop Through the World>Gallop Through the World/CD]]|
+
+流通：配信
+発売：2014年8月31日
+価格：￥300
+レーベル：[[KARENT>>http://karent.jp/album/1599]]
+ジャケットイラスト：apapico
+
+|&bold(){[[iTunes Storeで購入>>https://itunes.apple.com/jp/album/sharing-the-world-single/id911688468]]}|
+
+***曲目
++Sharing The World (feat. 初音ミク)
++Sharing The World (instrumental)
+
+**歌詞
+Sharing our world
+Sharing our world
+I can see this future is right now
+Cause my voice is always going around
+
+Tell me how you feel like these days
+Tell me why you don't wanna say it
+Tell me now what is on your mind 
+I'm still gonna listen to you
+
+If there is something
+on your mind that makes you stay
+I will free your soul
+I will free your soul
+
+Sharing your sound
+We're sharing an endless love
+Can't you see this future is right now
+Cause my voice is always going around
+
+Sharing your sound
+Connecting our feelings
+Everyone has found that we've owned this hymn 
+Now we have found that's all
+So we join in
+
+Tell me how you felt when you saw it
+Tell me why it made you so happy
+Tell me now what is on your mind 
+I'm still gonna listen to you
+
+If there is something
+on your mind you want to say 
+Just now free your soul
+Just now free your soul
+
+Sharing your sound
+We're sharing an endless love
+Can't you see this future is right now
+Cause my voice is always going around
+
+Sharing your sound
+Connecting our feelings
+Everyone has found that we've owned this hymn
+Now we have found that's all
+So we join in
+
+You'll get it step by step
+When we keep up to our sound
+Anyway dance in my steps
+
+Everyday
+I will be everywhere
+Anytime...
+
+Sharing our world
+Sharing our world
+I can see this future is right now
+Cause my voice is always going around
+
+Sharing our world
+Can't you see this future is right now
+Cause my voice is always going around
+
+#region(close, 日本語訳)
+（[[作者ブログ>>http://bighead.hatenablog.com/entry/2015/05/18/231808]]より転載）
+
+僕らが世界を共有する
+そんな未来はすぐそこだって僕にはわかる
+僕の声がいつも世界を回っているのだから
+
+君は最近どんな気分なのかな
+なんで言えないのか僕に教えて
+今君が何を考えているのか知りたいんだ
+どんどん聞かせて
+
+もし心の中に
+君を縛る何かがあるなら
+僕が解放させてあげる
+
+君の音を共有して
+終わることのない愛を共有していく
+そんな未来はすぐそこ
+僕の歌声がいつも世界を回っているのだから
+
+君の音を共有し
+僕たちの気持ちにつながる
+僕らにはこの讃美歌があるとわかっている
+僕らはそれが全てだと
+さあ、いこうよ！
+
+君がそれに出会ってどんなことを感じたのか教えて
+それがどうして君をそんなにうれしくさせるのかも
+今君の心が知りたいんだ
+君の言葉にずっと耳を傾けてるよ
+
+君の心の中に
+言いたいことがあるなら
+ただ魂を解放すればいい
+
+君の音を共有して
+終わることのない愛を共有していく
+そんな未来はすぐそこ
+僕の歌声がいつも世界を回っているのだから
+
+君の音を共有し
+僕たちの気持ちにつながる
+僕らにはこの讃美歌があるとわかっている
+僕らはそれが全てだと
+さあ、いこうよ！
+
+僕らがサウンドを奏で続ければ
+だんだんわかってくるよ
+とにかく僕みたく踊ればいい
+
+毎日
+僕はどこにでも
+いつだって・・・
+
+僕らが世界を共有する
+
+そんな未来はすぐそこ
+
+僕らが世界を共有する
+
+僕の声が世界を回っているのだから
+
+#endregion
+
+**歌詞 (JAPANESE.ver)
+（[[作者ブログ>>http://bighead.hatenablog.com/entry/2015/08/10/182046]]より転載）
+
+Sharing The World
+過去から現在・未来へ we all
+かけがえのない全ての灯と
+
+&nowiki(){-A-}
+tell me now
+飲み込んだwords
+君が言いかけた
+アーギュメント
+
+自我が消えないように
+らららら歌えたら
+
+&nowiki(){-B-}
+we 少し耳を澄ましたら
+同じよう　な　声が
+鼓動が共鳴だしだした
+
+&nowiki(){-C-}
+Sharing The Sound
+Sharing The Endless Love
+過去から現在・未来へ we all
+かけがえのない全ての灯と
+
+Sharing your Sound
+Connecting our feelings
+いつまでも孤独じゃない
+we find
+何処にいてもアクセス
+ほらwe ハブ
+
+&nowiki(){-2A-}
+everytime
+今　浮かんだイメージ
+いつも　聞かして
+your story
+僕が　僕らになって
+未来が続くように
+
+&nowiki(){-2B-}
+we 　関係無い　孤独が気楽で
+気がつけば solo
+ここからは no wall
+
+&nowiki(){-2C-}
+Sharing The Sound
+Sharing The Endless Love
+消えかけた未来
+照らす火を
+燃やさずに
+かざせ胸の希望
+
+Sharing your Sound
+Connecting our feelings
+輝くさ
+緑
+雨の日も
+枯れ無い種撒け
+肥立つ
+フューチャー
+
+&nowiki(){-RAP-}
+今はstep by step
+ただ　視　聴いて
+いわばレア体験
+チャージして
+
+いつか
+
+きっといつか
+
+そう
+
+ここで
+
+会える
+
+**コメント
+- 電王戦FINALのPVでこの曲が使われたことで、将棋ファンの間でも知名度が上がった模様  -- 名無しさん  (2015-04-13 20:15:16)
+- 電王戦FINALのPV見てこの曲知った  -- 名無しさん  (2015-06-06 23:17:44)
+- 調教とかあれだけど、すごくいい曲なのに伸びなくて悲しい  -- 名無しさん  (2015-08-13 20:13:05)
+- この曲とstory riderはMJQのretuneが調教よく出来てるね  -- 名無しさん  (2015-10-29 12:04:02)
+- すごい…  -- 名無しさん  (2016-01-01 20:17:44)
+- A GOOD SONG!  -- HATSUNE  (2016-02-17 18:00:53)
+- DIVAXから知りました。もっと評価されるべき  -- 名無しさん  (2017-03-28 01:10:01)
+- 好き  -- 名無しさん  (2018-12-27 21:37:36)
+- すごく好き。もっと伸びて欲しい  -- 名無しさん  (2021-08-24 21:11:17)
+#comment()

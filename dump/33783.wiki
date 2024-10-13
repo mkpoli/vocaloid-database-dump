@@ -1,0 +1,33 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1863_20160104223024_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[redress Ⅲ]]|CENTER:&bold(){sweet,sweet -luka version-}|CENTER:[[ENCHANT]]|
+
+|&bold(){[[ORYO]]}|
+
+発売：2016年1月29日
+価格：￥300
+流通：配信
+レーベル：KARENT
+
+**CD紹介
+-FAULHEITの配信シングル。
+-GUMI曲として発表した「sweet,sweet」のルカV4Xバージョンを収録。
+-ジャケットイラスト：[[おはぎ]]（FAULHEIT）
+-KARENTレーベルよりダウンロード販売が行われている。巡音ルカ7周年記念特集で配信された作品の1つ。
+
+**曲目
++[[sweet,sweet]] -luka version- feat. 巡音ルカ
++sweet,sweet -luka version- (off vocal)
+
+**リンク
+-[[twitter>>http://twitter.com/ORYO_FAULHEIT]]
+-[[サークルサイト>>http://faulheit.jp/]]
+-[[作者ブログ>>http://oryo-faulheit.jugem.jp/]]
+-[[KARENT：「sweet,sweet -luka version-」>>http://karent.jp/album/1863]]
+-[[KARENT：「巡音ルカ聖誕祭'16」特集ページ>>http://karent.jp/special/luka16]]
+-[[iTune Store>>http://itunes.apple.com/jp/album/sweet-sweet-luka-version-single/id1074538533]]
+
+**コメント
+#comment()

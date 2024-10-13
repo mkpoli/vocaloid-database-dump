@@ -1,0 +1,66 @@
+#right(){&furigana(せなわたる)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/33818974" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/33818974">【ニコニコ動画】せなのうたもの</a></iframe>)
+
+**特徴
+作り手名：『&u(){瀬名航}』（&u(){せなわたる}）
+-主にキラキラしたポップな楽曲を発表している。
+-聞いているこちら側もノリノリになってしまう曲が多い。
+-「みんなで青春しませんか？」がコンセプトのアイドルグループ、「tip Toe.」の作詞作曲も担当している。
+-次の曲が殿堂入りを達成している。&br()&list_by_tagsearch(瀬名航,殿堂入り,sort=furigana,option=nolist,nolistspace=／,100)
+
+**リンク
+-[[個人サイト>>https://www.senawataru.com/]]
+-[[Twitter>>https://twitter.com/wataru_sena]]
+-[[ピアプロ>>https://piapro.jp/wataru_sena]]
+-[[SoundCloud>>https://soundcloud.com/wataru_sena]]
+-[[ニコニコ>>https://www.nicovideo.jp/user/26688082]]
+-[[YouTube>>https://www.youtube.com/channel/UCG6ZjHSETmlhT4lQG6B4CEw]]
+
+**曲
+#list_by_tag(瀬名航,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(瀬名航CD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+***オリジナル
+|&nicovideo(sm18899787)|&nicovideo(sm19035403)|
+|&nicovideo(sm19063905)|&nicovideo(sm19277375)|
+|&nicovideo(sm19638857)|&nicovideo(sm19670081)|
+|&nicovideo(sm19862867)|&nicovideo(sm19978113)|
+|&nicovideo(sm20229278)|&nicovideo(sm20353969)|
+|&nicovideo(sm20421949)|&nicovideo(sm20557580)|
+|&nicovideo(sm20646556)|&nicovideo(sm21211496)|
+|&nicovideo(sm21644793)|&nicovideo(sm21690070)|
+|&nicovideo(sm21747700)|&nicovideo(sm21979980)|
+|&nicovideo(sm22247244)|&nicovideo(sm22557231)|
+|&nicovideo(sm23058140)|&nicovideo(sm23415874)|
+|&nicovideo(sm24537567)|&nicovideo(sm25423942)|
+|&nicovideo(sm25664138)|&nicovideo(sm25989446)|
+|&nicovideo(sm26573347)|&nicovideo(sm26921903)|
+|&nicovideo(sm27999568)|&nicovideo(sm28583629)|
+|&nicovideo(sm29286541)|&nicovideo(sm29755239)|
+|&nicovideo(sm30084954)|&nicovideo(sm31347473)|
+|&nicovideo(sm31873037)|&nicovideo(sm32026986)|
+|&nicovideo(sm32626095)|&nicovideo(sm33048922)|
+|&nicovideo(sm34077596)|>|
+//|&nicovideo()|&nicovideo()|
+//|&nicovideo()||
+
+***カバー・コラボなど
+|&nicovideo(sm21131618)|&nicovideo(sm25769168)|
+
+**コメント
+- めんどくさいや良いね！  -- 名無しさん  (2016-05-22 09:09:23)
+- 瀬名さんはもっと有名になるべき!！  -- 名無しさん  (2017-02-15 16:08:35)
+- 受験期はすごく瀬名さんの曲に励まされた！！瀬名さんの曲には人を元気にする力があるよ！！！！  -- わらびもち  (2017-05-01 00:15:54)
+- 7150日がとても共感できます！  -- 名無しさん  (2017-06-13 20:11:42)
+- 曲調はかわいいのに歌詞は切ない…  -- 名無しさん  (2018-05-04 14:09:02)
+- ↑の続き  -- 名無しさん  (2018-05-04 14:09:23)
+- ほんとに好き…  -- 名無しさん  (2018-05-04 14:09:43)
+- 瀬名さんの曲を聴いていると生きてるって感じがします。  -- 名無しさん  (2020-01-13 19:24:12)
+#comment()

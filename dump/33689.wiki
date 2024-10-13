@@ -1,0 +1,34 @@
+#right(){&furigana(jestar)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+//&nicovideo_mylist(<iframe width="312" height="176" src="https://ext.nicovideo.jp/thumb_mylist/27842217" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/27842217">【ニコニコ動画】</a></iframe>)
+
+**特徴
+作り手名：『&u(){jestar}』
+-JAZZからROCKまで幅広い楽曲を制作。
+-魂を揺さぶるようなエモーショナルコアを得意とする作り手。
+-動画もjestar氏自身が制作。
+
+**リンク
+//-[[pixiv>>http://www.pixiv.net/member.php?id=4759220]]
+//-[[Twitter>>http://twitter.com/jestars_ink]]
+-[[Twitter>>https://twitter.com/ymdyoshiko]]
+-[[YouTube>>https://www.youtube.com/channel/UCqz3alayS4OUWZhHtsPk89g]]
+
+**曲
+#list_by_tag(jestar,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(jestarCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm15689736)|&nicovideo(sm16284101)|
+|&nicovideo(sm17950090)|&nicovideo(sm18081409)|
+|&nicovideo(sm18951148)|&nicovideo(sm19688793)|
+|&nicovideo(sm20091102)||
+
+**コメント
+- 大好きな作り手さんです。また戻ってきて欲しい  -- 名無しさん  (2016-01-22 12:00:46)
+#comment()

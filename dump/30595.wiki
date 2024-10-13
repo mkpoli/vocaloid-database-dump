@@ -1,0 +1,39 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1666_20141206151905_0280_0280.jpg)
+
+&nicovideo(sm24645423)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[memento>memento/CD]]|CENTER:&bold(){Auto Heart E.P}|CENTER:[[Homeopathy]]|
+
+|&bold(){[[ちんまりP]]}|
+
+|流通|CENTER:即売|CENTER:通販|CENTER:配信|
+|発売|CENTER:2014年10月19日||CENTER:2015年1月7日|
+|価格|CENTER:￥500|CENTER:￥700|CENTER:￥600 / 1曲￥150|
+|サークル|CENTER:みゅw|||
+
+**CD紹介
+>&bold(){『さよならじゃない。別れにもならない。』}
+-ちんまりPこと risou氏 の2ndコンセプトミニアルバム。
+-アートワークを たねつき氏、マスタリングを enji氏 が担当。
+-VOCALOID PARADISE 9（ボーパラ9）にて頒布。
+-自家通販とKARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++[[遠い記憶、花束の赤]] / *染
++[[Locketus]] / Lily
++[[オートハート]] / Miku
++[[I see you]] / GUMI
++[[us>us/ちんまりP]](balloon story) / Miku
+
+**リンク
+-[[tumblr>>http://risoumusic.tumblr.com/]]
+-[[通販サイト>>http://risou.thebase.in/]]
+-[[twitter>>http://twitter.com/RisouMusic]]
+-[[KARENT：「Auto Heart E.P」>>http://karent.jp/album/1666]]
+-[[iTunes Store>>http://itunes.apple.com/jp/album/auto-heart-e.p/id951001817]]
+
+**コメント
+- 追加有難う！！  -- 名無しさん  (2014-10-21 22:06:52)
+#comment()

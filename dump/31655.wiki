@@ -1,0 +1,64 @@
+#right(){&furigana(XX9)&furigana()【登録タグ:&tags()】}
+|&nicovideo(sm25831534)|&youtube(https://www.youtube.com/watch?v=UiOrNnuB054){342,187}|
+作詞：[[AVTechNO]]
+作曲：[[AVTechNO]]
+編曲：[[AVTechNO]]
+絵：[[meola]]
+唄：[[初音ミク]]
+
+**曲紹介
+>&bold(){なぜ、私たちは争うのか？}
+曲名：『&u(){XX9}』
+-CD版『[[17K -Disorder]]』収録曲のミクバージョン。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**音楽配信
+&ref(http://karent.jp/npdca/1703_20150316233803_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[ReA]]|CENTER:&bold(){XX9}|CENTER:[[on shore]]|
+
+発売：2015年4月1日
+価格：￥300
+流通：配信
+レーベル：[[KARENT>>http://karent.jp/album/1703]]
+ジャケット：[[meola]]
+
+|&bold(){[[iTunes Storeで購入する>>https://itunes.apple.com/jp/album/xx9-single/id977897230]]}|
+
+***曲目
++XX9 （feat. 初音ミク）
++XX9 Instrumental
+
+**歌詞
+***字幕
+争い続ける人間
+これは私の描いた世界？
+細胞は戦い続ける
+私たちも同じに
+
+争いはわたし達の意志じゃない
+決して望んでいるわけじゃない
+細胞がそうさせるのか
+生きるために争いを求めるのか
+シェラよ＿＿答えてくれ
+なぜ、私たちは争うのか？
+
+オレンジ色に燃え上がる街じゃなく
+陽が沈む夕焼けをわたし達は見たい
+
+武器を投げ出し多くの友と手を繋ぎ
+世界を廻していきたいんだ
+
+なぜ、争わねばならないのか
+真実を知らず戦い続ける
+決して望んでいるわけじゃない
+私たち人間。
+エゴが繁殖し、こころを食われ
+ぬくもりを忘れ獣となる
+答えてくれシェラよ
+争わない街を…
+
+
+**コメント
+#comment()

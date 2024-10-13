@@ -1,0 +1,54 @@
+#right(){&furigana(しょうねんじゃんぷこんぴ3ごう)&furigana()【登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186130825.jpg,x=300,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm24876075)
+
+|BGCOLOR(#dcdcdc):COLOR(#FFF):CENTER:&font(b,11pt){　前作　}|BGCOLOR(#dcdcdc):COLOR(#FFF):CENTER:&font(b,11pt){　本作　}|BGCOLOR(#dcdcdc):COLOR(#FFF):CENTER:&font(b,11pt){　次作　}|
+|CENTER:[[少年ジャンプコンピ第2号]]|CENTER:&bold(){少年ジャンプコンピ第3号}|CENTER:-|
+
+|&bold(){[[挫折P]]}|[[yu-go]]|[[アキバヲタP]]|[[軟弱P]]|[[ぼーかりおどP]]|[[やみくろ]]|[[shindy]]|[[イカロスP]]|[[デスおはぎ]]|
+|[[imosuke]]|[[恋竹林]]|[[しゅわしゅわP]]|[[yksb]]|[[テラ小室P]]|[[らいだーP]]|[[とものかつみ]]|[[家の裏でマンボウが死んでるP]]||
+
+|BGCOLOR(#dcdcdc):COLOR(#FFF):CENTER:&font(b,11pt){　流通　}|BGCOLOR(#dcdcdc):COLOR(#FFF):CENTER:&font(b,11pt){　即売　}|
+|BGCOLOR(#dcdcdc):COLOR(#FFF):CENTER:&font(b,11pt){　発売　}|CENTER:　2013年11月15日　|
+|BGCOLOR(#dcdcdc):COLOR(#FFF):CENTER:&font(b,11pt){　価格　}|CENTER:　￥1,000　|
+|BGCOLOR(#dcdcdc):COLOR(#FFF):CENTER:&font(b,11pt){　サークル　}|CENTER:　少年ジャンプコンピA・B　|
+
+**CD紹介
+>&bold(){集●社非公認！！}
+>&bold(){俺たちの戦いはこれからだ！！}
+-「編集長」 挫折P による、週刊少年ジャンプに現在連載中、もしくは過去に連載された漫画をモチーフにしたコンピCD。その第3弾。
+-前号より執筆者（参加者）はさらに増え18人。「命知らず（？）」のボカロP達がお送りする、書き下ろしの新曲を全19曲収録。
+-ジャケットイラストは kyo-suke氏 が手掛ける。
+-THE VOC@LOiD M@STER 30（ボーマス30）にてリリース。
+
+**曲目
+|BGCOLOR(#dcdcdc):COLOR(#FFF):CENTER:&font(b,11pt){　Track　}|BGCOLOR(#dcdcdc):COLOR(#FFF):CENTER:&font(b,11pt){　曲名　}|BGCOLOR(#dcdcdc):COLOR(#FFF):CENTER:&font(b,11pt){　楽曲制作者　}|BGCOLOR(#dcdcdc):COLOR(#FFF):CENTER:&font(b,11pt){　モチーフにした漫画　}|
+|BGCOLOR(#dcdcdc):COLOR(#FFF):CENTER:&font(b,11pt){ 01 }|CENTER:[[Great Diamond]]|CENTER:yu-go|CENTER:ジョジョの奇妙な冒険 Part4 ダイヤモンドは砕けない|
+|BGCOLOR(#dcdcdc):COLOR(#FFF):CENTER:&font(b,11pt){ 02 }|CENTER:ロマンティックあげない～王子とわがままお嬢様～|CENTER:アキバヲタP|CENTER:ドラゴンボール|
+|BGCOLOR(#dcdcdc):COLOR(#FFF):CENTER:&font(b,11pt){ 03 }|CENTER:φ|CENTER:yocco@軟弱P|CENTER:BφY|
+|BGCOLOR(#dcdcdc):COLOR(#FFF):CENTER:&font(b,11pt){ 04 }|CENTER:紅き春の始まり|CENTER:ぼーかりおどP|CENTER:NARUTO|
+|BGCOLOR(#dcdcdc):COLOR(#FFF):CENTER:&font(b,11pt){ 05 }|CENTER:ワン・フォー・オール|CENTER:やみくろ|CENTER:僕のヒーローアカデミア|
+|BGCOLOR(#dcdcdc):COLOR(#FFF):CENTER:&font(b,11pt){ 06 }|CENTER:魁！！|CENTER:shindy|CENTER:魁！！男塾|
+|BGCOLOR(#dcdcdc):COLOR(#FFF):CENTER:&font(b,11pt){ 07 }|CENTER:千歳の時を越えて|CENTER:イカロスP|CENTER:ヒカルの碁|
+|BGCOLOR(#dcdcdc):COLOR(#FFF):CENTER:&font(b,11pt){ 08 }|CENTER:kaguzuchi|CENTER:デスおはぎ|CENTER:るろうに剣心-明治剣客浪漫譚-|
+|BGCOLOR(#dcdcdc):COLOR(#FFF):CENTER:&font(b,11pt){ 09 }|CENTER:浮世離れ|CENTER:imosuke|CENTER:磯部磯兵衛物語～浮世はつらいよ～|
+|BGCOLOR(#dcdcdc):COLOR(#FFF):CENTER:&font(b,11pt){ 10 }|CENTER:キミはキン肉マン|CENTER:マサコイ（恋竹林）|CENTER:キン肉マン|
+|BGCOLOR(#dcdcdc):COLOR(#FFF):CENTER:&font(b,11pt){ 11 }|CENTER:[[BONBONBON]]|CENTER:鮎川ぱて@しゅわしゅわP|CENTER:ボンボン坂高校演劇部|
+|BGCOLOR(#dcdcdc):COLOR(#FFF):CENTER:&font(b,11pt){ 12 }|CENTER:Jokgem|CENTER:yksb|CENTER:DEATH NOTE|
+|BGCOLOR(#dcdcdc):COLOR(#FFF):CENTER:&font(b,11pt){ 13 }|CENTER:[[BREAK THROUGH THE NIGHT>BREAK THROUGH THE NIGHT/テラ小室P]]|CENTER:テラ小室P|CENTER:ジャングルの王者ターちゃん♡|
+|BGCOLOR(#dcdcdc):COLOR(#FFF):CENTER:&font(b,11pt){ 14 }|CENTER:[[Detune]]|CENTER:らいだーP|CENTER:I''s|
+|BGCOLOR(#dcdcdc):COLOR(#FFF):CENTER:&font(b,11pt){ 15 }|CENTER:ギガブレイク|CENTER:じーこば（恋竹林）|CENTER:DRAGON QUEST-ダイの大冒険-|
+|BGCOLOR(#dcdcdc):COLOR(#FFF):CENTER:&font(b,11pt){ 16 }|CENTER:雪ふれ！！|CENTER:とものかつみ|CENTER:すもも|
+|BGCOLOR(#dcdcdc):COLOR(#FFF):CENTER:&font(b,11pt){ 17 }|CENTER:[[Bravissimo!!]]|CENTER:挫折P|CENTER:SOUL CATCHER(s)|
+|BGCOLOR(#dcdcdc):COLOR(#FFF):CENTER:&font(b,11pt){ 18 }|CENTER:ねえ、赤司|CENTER:家の裏でマンボウが死んでるP|CENTER:黒子のバスケ|
+|BGCOLOR(#dcdcdc):COLOR(#FFF):CENTER:&font(b,11pt){ 19 }|CENTER:嗚呼、母上様|CENTER:imosuke|CENTER:磯部磯兵衛物語～浮世はつらいよ～|
+
+**リンク
+-[[Twitter（挫折P）>>http://twitter.com/dekadai]]
+
+**コメント
+- マジか！！！ほしい  -- 名無しさん  (2014-11-09 20:30:30)
+- 今回めちゃくちゃ豪華ですね…どれかうpされるかな？  -- 御坂  (2014-11-10 00:32:33)
+#comment()

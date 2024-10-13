@@ -1,0 +1,45 @@
+#right(){&furigana(はとしょうたうふんけいさーくる)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo_mylist(<iframe width="312" height="176" src="https://ext.nicovideo.jp/thumb_mylist/44851616" scrolling="no" style="border:solid 1px #CCC;" frameborder="0">【ニコニコ動画】mylist</a></iframe>)|
+
+**特徴
+作り手名：『&u(){鳩女 うたう文芸サークル}』（&u(){はとじょ うたうぶんげいさーくる}）
+-略して「はとぶん」。
+-「project575」の主人公である正岡小豆と小林抹茶の活動に感銘を受け、楽曲を提供した学園のOG達という設定である。
+-その正体は&bold(){幡谷尚史}氏を中心とした、セガのサウンドクリエイター集団。
+-2014年5月、「[[365月病]]」にてデビュー。
+-使用合成音声は[[AZUKI]]、[[MATCHA]]。
+
+**リンク
+//-個人HP、PIAPRO、YouTube等ある場合は、ここに。当wiki以外のサイトへリンクを貼る場合は必ず「>>」で別ウインドウでリンクしてください。
+-[[ニコニコ動画>>https://www.nicovideo.jp/user/40360336]]
+--[[ニコニコチャンネル（Project575）>>https://sp.ch.nicovideo.jp/575?cp_in=ch_watchInformation]]
+-[[YouTube（Project575）>>https://www.youtube.com/@project575]]
+//-[[piapro>>https://piapro.jp/]]
+-[[twitter>>https://twitter.com/hatojo_utabun]]
+
+**曲
+#list_by_tag(鳩女 うたう文芸サークル,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(鳩女 うたう文芸サークルCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm23513000)|&nicovideo(1400466969)|
+|&nicovideo(sm23718406)|&nicovideo(sm23755550)|
+|&nicovideo(sm23791616)|&nicovideo(sm23818283)|
+|&nicovideo(sm24128632)|&nicovideo(sm24287975)|
+|&nicovideo(so31566969)||
+
+**関連タグ内の更新履歴
+#region(close,関連タグ内の更新履歴)
+関連タグ内の更新履歴
+※「鳩女 うたう文芸サークル」「鳩女 うたう文芸サークルCD」タグ内で最近編集やコメントのあった記事を新しい方から10件表示しています。
+#list_by_tagsearch(鳩女 うたう文芸サークル,鳩女 うたう文芸サークルCD,sort=timestamp,sort2=desc,errmsg=まだ曲、CDが登録されていません。,or,10)
+#endregion
+
+**コメント
+#comment()

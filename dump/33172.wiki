@@ -1,0 +1,34 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm27223363)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Harmonia>Harmonia/ナナミPCD]]|CENTER:[[Memoria>Memoria/CD]]&br()&bold(){Dear RiL～氷の樹海を渡る方舟～}|CENTER:[[Storia>Storia/ナナミPCD]]|
+
+|&bold(){[[ナナミP]]}|
+
+|流通|CENTER:即売|CENTER:通販|CENTER:配信|
+|発売|CENTER:2015年10月11日|CENTER:|CENTER:|
+|価格|CENTER:￥600|CENTER:￥600|CENTER:￥400|
+|サークル|>|>|CENTER:蝶々結び|
+
+**CD紹介
+>「あの世界樹に、何を祈る？」
+-巡音ルカV4Xの歌声と民族調楽曲で綴る、凍りゆく世界と心を持った人形の物語風ミニアルバム。
+-イラストは 千氏 が手掛ける。
+-VOCALOID PARADISE 10（ボーパラ10）にて頒布。
+-BOOTHにて通販及びダウンロード販売が行われている。
+
+**曲目
++RiL-硝子の瞳の少女-
++[[ラトポリカの時計塔]]
++凍てる街（Instrumental）
++[[ユグドラシル]]-refrain-
++[[氷の樹海を渡る方舟]]
++Dear...
+
+**リンク
+-[[特設サイト>>http://sound.jp/nanase615/x/ril.html]]
+-[[BOOTH>>https://nanamip.booth.pm/items/154325]]
+
+**コメント
+#comment()

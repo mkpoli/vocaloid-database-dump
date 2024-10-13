@@ -1,0 +1,48 @@
+#right(){&furigana(らんしょう)&furigana()【登録タグ:&tags() 】}
+#amazon(B00VV2NO0Y)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm26034129)
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Rest]]|CENTER:&bold(){濫觴}|CENTER:[[memento mori]]|
+
+|&bold(){[[otetsu]]}|
+
+|流通|CENTER:即売|CENTER:同人|CENTER:配信|
+|発売|>|CENTER:2015年4月26日|CENTER:2015年5月8日|
+|価格|CENTER:￥1,000|￥1,400（税別）|CENTER:￥1,500|
+|サークル|CENTER:なまらやわ|CENTER:otetsu||
+
+**CD紹介
+-otetsu氏のCDアルバム。
+-THE VOC@LOiD 超 M@STER 31（超ボーマス31）で初頒布。
+-Amazon、とらのあな、アニメイトで委託販売が行われる。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++産声
++優しさの棘
++犠牲
++紺碧の底、深く
++[[彷徨えば夢現]]
++羽音無く
++[[倦厭の鐘]]
++不実の木
++[[ゆりかご]]
++檻の兎、蟻の行進
++移り変わる刹那
++[[濫觴]]
++逆世界
+
+**リンク
+-[[作者ブログ>>http://otetsu721.blog60.fc2.com/]]
+-[[twitter>>http://twitter.com/otetsu0721]]
+-[[Amazon>>http://www.amazon.co.jp/dp/B00VV2NO0Y/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/29/73/040030297381.html]]
+-[[アニメイト>>http://www.animate-onlineshop.jp/pn/%E3%80%90%E5%90%8C%E4%BA%BACD%E3%80%91otetsu/%E6%BF%AB%E8%A7%B4/pd/1330670/]]
+-[[KARENT：「濫觴」>>http://karent.jp/album/1709]]
+-[[iTunes Store>>http://itunes.apple.com/jp/album/ransyou/id988272932]]
+
+**コメント
+- otetsuさん来たーーーーーーーーーー！！！！  -- 良太  (2015-04-15 20:30:58)
+- どうして他の歌詞も無いのか…  -- Nemu  (2016-11-18 05:40:44)
+#comment()

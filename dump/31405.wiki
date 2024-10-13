@@ -1,0 +1,13 @@
+#right(){【登録タグ:&tags()】}
+//↑タグ忘れ防止のための表示
+曖昧さ回避のためのページ
+----
+-[[シロ飯]]の曲
+--[[Revolver/シロ飯]]
+-Royal Scandal（luz、[[奏音69]]、[[RAHWIA]]）の曲
+--[[REVOLVER/奏音69]]
+
+-Royal Scandal（luz、[[奏音69]]、[[RAHWIA]]）のCD
+--[[REVOLVER/CD]]
+
+#include(曖昧さ回避の追加の仕方/告知)

@@ -1,0 +1,30 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1802_20150907224002_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[TSUBASA EP]]|CENTER:&bold(){KLEP001 BeFurious}|CENTER:[[KLEP002 WageSlave]]|
+
+|&bold(){[[Rin（ぎん）]]}|
+
+発売：2015年9月30日
+価格：￥300
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：TAKRIDER
+
+**CD紹介
+-Rin（ぎん）氏の配信EP。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++[[Be Furious]] （feat. 初音ミク）
++[[Tritely]] （feat. 初音ミク）
++[[Alone(Flex)>Alone/Rin（ぎん）]] （feat. 初音ミク）
+
+**リンク
+-[[KARENT：「KLEP001 BeFurious」>>http://karent.jp/album/1802]]
+-[[iTunes Store>>http://itunes.apple.com/jp/album/klep001-befurious-single/id1039742488]]
+-[[作者サイト>>http://kuronekolounge.sakura.ne.jp/neko/KuronekoLounge.html]]
+
+**コメント
+#comment()

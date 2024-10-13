@@ -1,0 +1,34 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/29881401" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/29881401">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-2012年に「[[シャガールの空色]]」で動画投稿デビュー。
+-使用VOCALOIDは初音ミク、MEIKO、巡音ルカ。
+
+**リンク
+-[[ブログ>>http://ameblo.jp/pyongyang0928/]]
+-[[twitter>>https://twitter.com/marshahall69]]
+-[[PIAPRO>>http://piapro.jp/marshahall]]
+-[[KARENT>>http://karent.jp/artist/pp000659]]
+
+**曲
+#list_by_tag(ましゃはる,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(ましゃはるCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm16621729)|&nicovideo(http://www.nicovideo.jp/watch/sm16630906)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm16653652)|&nicovideo(http://www.nicovideo.jp/watch/sm16746707)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm16775314)|&nicovideo(http://www.nicovideo.jp/watch/sm16801734)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm16815548)|&nicovideo(http://www.nicovideo.jp/watch/sm16883501)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm16930881)|&nicovideo(http://www.nicovideo.jp/watch/sm17032419)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm17160761)|&nicovideo(http://www.nicovideo.jp/watch/sm17307201)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm17698129)|&nicovideo(http://www.nicovideo.jp/watch/sm18137079)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm18463781)|&nicovideo(http://www.nicovideo.jp/watch/sm19143595)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm20377026)|&nicovideo(http://www.nicovideo.jp/watch/sm20431873)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm20874573)|&nicovideo(http://www.nicovideo.jp/watch/sm21047073)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm21754870)|&nicovideo(http://www.nicovideo.jp/watch/sm27379613)|
+
+**コメント
+#comment()

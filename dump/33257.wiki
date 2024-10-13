@@ -1,0 +1,48 @@
+#right(){&furigana(こいのまにまに)&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1837_20151121105458_0280_0280.jpg)
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Power of the Beat>Power of the Beat/CD]]|CENTER:&bold(){恋のまにまに}|CENTER:[[多分#彼氏いません>多分＃彼氏いません]]|
+
+|&bold(){[[MineK]]}|MISAKI|
+
+|流通|CENTER:即売|CENTER:配信|
+|発売|CENTER:2015年10月25日|CENTER:2015年12月16日|
+|価格|CENTER:￥1,000|CENTER:￥1,200|
+|サークル|CENTER:SUKIMONO||
+
+**CD紹介
+-MineK氏のVOCALOIDアルバム。CDとしては9作目。
+-全11曲＋ボーナストラックを収録。
+-ジャケットイラストはトユ氏が担当。
+-M3-2015秋やTHE VOC@LOiD M@STER 33（ボーマス33）で頒布。
+-KARENTレーベルよりダウンロード販売が行われている。配信版はTr.6とボーナストラックが未収録の全10曲となっている。
+
+**曲目
++In your Eyes （feat.がくっぽいど&MEIKO）
++[[High Tension Beat]] （feat.がくっぽいど）
++[[カワイイノガステキ！]] （feat.MEIKO）
++Shout! （feat.Lily）
++[[恋のまにまに]] （feat.がくっぽいど&MEIKO）
++Kiss me! （feat.Lily）
++Dance in the Scorpion sky （feat.がくっぽいど）
++[[Give me your love tonight]] （feat.MEIKO）
++Alone in Love （feat.Lily）
++[[Trap of Love]] （feat.がくっぽいど）
++Birthday Night （feat.がくっぽいど&Lily）
++がくめいradio最終回 （以下ボーナストラック） 
++[[Break Up]] （feat.Lily）
++[[Stay or Leave]] （feat.MEIKO&Lily）
++High Tension Beat （inst.）
++カワイイノガステキ! （inst.）
++恋のまにまに （inst.）
++Birthday Night （inst.）
+
+**リンク
+-[[クロスフェード>>http://soundcloud.com/yasu-sukimono/minek-12th-vocaloid-album]]
+-[[KARENT：「恋のまにまに」>>http://karent.jp/album/1837]]
+-[[iTunes Store>>http://itunes.apple.com/jp/album/manimani-of-love/id1063673635]]
+-[[サークルサイト>>http://sukimono.org/]]
+-[[twitter>>https://twitter.com/MineK1025]]
+
+**コメント
+#comment()

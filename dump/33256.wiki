@@ -1,0 +1,44 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#amazon(B0182003JM)
+
+|&nicovideo(http://www.nicovideo.jp/watch/sm27474876)|&youtube(https://www.youtube.com/watch?v=oHijAhyjUQg){342,187}|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[スプリンクル]]|CENTER:&bold(){THE YELLOW DISC}|CENTER:-|
+
+|&bold(){[[ライブP]]}|
+
+|流通|CENTER:即売|CENTER:通販|
+|発売|CENTER:2015年11月14日|CENTER:2015年11月30日|
+|価格|CENTER:￥1,000|CENTER:￥2,160（税込）|
+|サークル|>|CENTER:におにおデンジャラス|
+
+**CD紹介
+-ライブP の3年ぶりとなる2ndアルバム。
+-ALL鏡音・計13曲収録。
+-デザインは 藤堂夜宵氏 が手掛ける。
+-THE VOC@LOiD M@STER 33（ボーマス33）で頒布。
+-Amazonにて委託販売が行われている。
+
+**曲目
++[[ELEPHANT]]
++[[Misunderstand]]
++パラレルライン
++[[m9]]
++ワンサイドマッチ
++[[グリーンストレート]]
++[[コールドハンド]]
++[[ムラビトソノニ]]
++[[瞞しの時計]]
++エイトアタック
++[[メリークリスマス、マイヒーロー。]]
++[[スプリンクル]]
++[[ハナタバラード]]
+
+**リンク
+-[[twitter>>https://twitter.com/mrlive2]]
+-[[amazon>>http://www.amazon.co.jp/dp/B0182003JM]]
+
+**コメント
+- 瞞しの時計目当てで買う！本当うれしい！！  -- 名無しさん  (2015-10-30 20:40:54)
+#comment()

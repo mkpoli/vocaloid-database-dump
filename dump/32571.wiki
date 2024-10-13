@@ -1,0 +1,44 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://ext.nicovideo.jp/thumb_mylist/32282552" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/32282552">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-読みは&bold(){ざこーん}。
+-2012年5月、「[[純愛モノクローム]]」でデビュー。
+-使用しているボーカロイドは初音ミク、GUMI。
+-15作目の「[[電波中毒ガール]]」が自身初の殿堂入りを達成。
+-現在殿堂入りしている曲は「電波中毒ガール」「[[純粋異性交遊(笑)]]」。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/zakooon]]
+-[[twitter>>http://twitter.com/zakooon98]]
+-[[Youtube>>http://www.youtube.com/channel/UCe3vGwlKtFMQDvf1MlM_BLw]]
+
+**曲
+#list_by_tag(zakooon,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(zakooonCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm17957506)|&nicovideo(sm19130909)|
+|&nicovideo(sm19494060)|&nicovideo(sm19845942)|
+|&nicovideo(sm20153588)|&nicovideo(sm20249823)|
+|&nicovideo(sm20374438)|&nicovideo(sm20843340)|
+|&nicovideo(sm21143656)|&nicovideo(sm21248597)|
+|&nicovideo(sm21998424)|&nicovideo(sm22149002)|
+|&nicovideo(sm22662493)|&nicovideo(sm23075849)|
+|&nicovideo(sm23552412)|&nicovideo(sm23552680)|
+|&nicovideo(sm23873957)|&nicovideo(sm24135234)|
+|&nicovideo(sm24394480)|&nicovideo(sm24702863)|
+|&nicovideo(sm25267421)|&nicovideo(sm25682875)|
+|&nicovideo(sm26630534)|&nicovideo(sm27529669)|
+|&nicovideo(sm29720981)|&nicovideo(sm33202462)|
+|&nicovideo(sm38559162)||
+
+**コメント
+- zakooonさんのページ出来たんですね！いつも探しても無かったので助かります^∀^  -- SAYAKA  (2015-07-27 21:52:39)
+- 作成ありがとうございます！zakooonさんの曲気になってたんです！  -- おとみか  (2015-08-12 17:11:40)
+- リップサービスのページも作ってほしいです…！(｡>﹏<｡)  -- ずこーん  (2015-11-14 17:34:00)
+- zakooonさんの曲が好きでリピートしてるー  -- 名無し  (2016-04-03 08:43:46)
+- ゆるふわ菩薩ガールのページも作っていただきたいです、  -- 名無しさん  (2016-08-26 13:26:34)
+#comment()

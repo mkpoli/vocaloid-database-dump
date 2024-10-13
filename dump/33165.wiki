@@ -1,0 +1,34 @@
+#right(){&furigana(しゆんはくP)&furigana()【登録タグ:&tags() 】}
+//&nicovideo_mylist(ここにマイリストブログパーツのiframe用をコピペ)
+
+**特徴
+-中国在住のボカロP。
+-使用するVOCALOIDは蒼姫ラピス、鏡音リン・レン、洛天依、初音ミク、IA、心華、楽正綾。
+-どこか力強くも美しい音作りが特徴。
+
+**リンク
+-[[YouTube>>https://www.youtube.com/user/Sodayukin]]
+-[[Twitter>>https://twitter.com/yukinsnow]]
+
+**曲
+#list_by_tag(純白P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(純白PCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm18435087)|&nicovideo(sm20027205)|
+|&nicovideo(sm20085208)|&nicovideo(sm21233099)|
+|&nicovideo(sm21411172)|&nicovideo(sm21629108)|
+|&nicovideo(sm24606061)|&youtube(http://www.youtube.com/watch?v=Ony7oystUzY){342,186}|
+|&nicovideo(sm25200768)|&nicovideo(sm25628927)|
+|&nicovideo(sm26944428)|&nicovideo(sm28910902)|
+|&youtube(http://www.youtube.com/watch?v=szfoYR0PLXg){342,186}|&youtube(http://www.youtube.com/watch?v=7LHDe0zNIv4){342,186}|
+|&nicovideo(sm30094187)|&youtube(http://www.youtube.com/watch?v=G7TGntCMcJA){342,186}|
+|&youtube(http://www.youtube.com/watch?v=8km5dBBgsmQ){342,186}|&nicovideo(sm31123342)|
+|&youtube(http://www.youtube.com/watch?v=Xa8ex82JdNU){342,186}|&youtube(http://www.youtube.com/watch?v=4Y5zL62Y-Yc){342,186}|
+|&youtube(http://www.youtube.com/watch?v=t1o_eCyv2yI){342,186}|&youtube(http://www.youtube.com/watch?v=uqyDRx6_nb8){342,186}|
+
+**コメント
+- 追加乙です！ちっぽけなプロデューサーと光が大好きです！！中国語最高！！  -- 悪斗  (2015-10-15 11:51:03)
+#comment()

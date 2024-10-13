@@ -1,0 +1,50 @@
+#right(){&furigana(はつこい)&furigana()【登録タグ:&tags()】}
+&nicovideo(sm27984586)
+作詞：[[星峰沙樹]]
+作曲：[[星峰沙樹]]
+編曲：[[星峰沙樹]]
+唄：&color(blue){Lily}・&color(red){IA}
+
+**曲紹介
+
+**歌詞
+
+&color(blue){毎夜のように　夢で見るあなた}
+&color(blue){気怠い夜明け　掴めない手のひら}
+&color(red){想えば想うほど　あなたに近づける}
+&color(red){そう願いながら　あなたのそばにいる}
+
+&color(blue){ふと振り返れば　自分の影}
+&color(red){伸びてゆくその先に}
+&color(purple){ねぇ　あなたはいるの？}
+
+&color(blue){愛してる　止めどなくあふれる想い}
+&color(blue){抑えようと　胸を掴むけど}
+&color(red){愛してる　追いかけて掴まえたい}
+&color(purple){どこまでも飽きることなく追いかけて}
+
+&color(red){虹を渡る　鳥を追うまなざし}
+&color(red){過ぎてく時を　戻せない切なさ}
+&color(blue){逢えば逢うほど　あなたに惹かれてく}
+&color(blue){そう感じながら　壊れることに臆病で}
+
+&color(red){ふと見上げれば　あなたの笑顔}
+&color(blue){聴こえないように}
+&color(purple){胸の鼓動を気にしている}
+
+&color(red){愛してる　初めて抱いた想い}
+&color(red){暗闇の中　歩くような不安}
+&color(blue){愛してる　追いかけて掴まえたい}
+&color(purple){自分の気持ちを　確かめるために}
+
+&color(blue){壊れないよう}
+&color(red){確かめるように}
+&color(purple){そっと呟いた　「好き」という言葉も　儚くて}
+
+&color(blue){愛してる　切ない寄り添う想い}
+&color(blue){泣きたいほど　感じているのに}
+&color(red){愛してる　愛してる確かに}
+&color(purple){胸の奥伝えられずに零れた涙}
+
+**コメント
+#comment()

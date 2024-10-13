@@ -1,0 +1,34 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1692_20150204092752_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[ポスト・ディストピア]]|CENTER:&bold(){White Memories}|CENTER:[[Yukarecovery]]&br()[[Lock on YUKARIN]]|
+
+|&bold(){[[ちょむP]]}|おがた|[[海兎]]|真雪|
+
+|流通|CENTER:即売|CENTER:配信|
+|発売|CENTER:2014年12月30日|CENTER:2015年2月25日|
+|価格|CENTER:￥500|CENTER:￥600|
+|サークル|CENTER:ちょむ工房||
+
+**CD紹介
+-ちょむPの17作目となるボーカロイドCD。
+-「冬の夜に聴きたいエレクトロポップ」をテーマに、まったりしっとりとお贈りする４曲入りミニアルバム。今回も結月ゆかりが全曲歌唱。寒い夜のお供に是非。
+-ジャケットイラストはno10氏。
+-コミックマーケット87（C87）で頒布。
+-KARENTレーベルよりダウンロード販売が行われている。配信版はTr.1からTr.4までの全4曲で『&bold(){White Memories S}』として販売されている。
+
+**曲目
++小犬座のメソッド
++[[恋するテクノロジー]]
++MIRAGE
++ひろくてひろい僕らの世界（Winter mix）
++～Bonus track
+
+**リンク
+-[[作者サイト>>http://chomstudio.com/]]
+-[[KARENT：「White Memories S」>>http://karent.jp/album/1692]]
+-[[iTunes Store>>https://itunes.apple.com/jp/album/white-memories-s-ep/id967893421]]
+
+**コメント
+#comment()

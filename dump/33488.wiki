@@ -1,0 +1,42 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+|&nicovideo(http://www.nicovideo.jp/watch/sm24896876)|&youtube(http://www.youtube.com/watch?v=usU29Ucw28w)|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[憂いの雨]]|CENTER:&bold(){History to U}|CENTER:[[Doppelganger>Doppelganger/ゆうP]]&br()[[反射湖]]&br()[[gray snow]]|
+
+|&bold(){[[ゆうP]]}|
+
+||CENTER:即売|CENTER:通販|
+|発売|CENTER:2014年11月15日|CENTER:|
+|価格|CENTER:￥1,000|CENTER:￥1,000|
+|サークル|CENTER:P∴Rhythmatiq|CENTER:|
+
+**CD紹介
+>憂鬱は希望へ。この記録をアナタ（私）に。
+-音楽サークル「P∴Rhythmatiq」でも活動するゆうPのソロアルバム。
+-ジャケットイラストは岩沢嶺人氏。
+-THE VOC@LOiD M@STER 30（ボーマス30）で頒布。
+-自サイトでの通販が行われている。
+
+**曲目
++Umbra
++逆光
++[[Codona]]
++[[憂いの雨]]
++やさしい嘘 - MH
++RED FRUIT
++Blue Moon
++ICE AGE
++音無ノ部屋
++Mind's door
++[[2重のキセキ>二重のキセキ]]
++空へ
+
+**リンク
+-[[クロスフェード音源>>http://soundcloud.com/u_prq/crossfade-history-to-uup-3rd-album]]
+-[[作者サイト>>http://www.p-pr.info/]]
+-[[作品ページ>>http://u.p-pr.info/]]
+-[[通販サイト>>http://p-pr.info/mo/]]
+
+**コメント
+#comment()

@@ -1,0 +1,35 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+
+|&nicovideo(http://www.nicovideo.jp/watch/sm26806115)|&youtube(http://www.youtube.com/watch?v=GhVtNxRk3hc){342,187}|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Resonance↔line>Resonance↔line/CD]]|CENTER:&bold(){IN}|CENTER:[[Call My Name]]|
+
+|&bold(){[[23]]}|
+
+発売：2015年08月09日
+価格：無料
+流通：配信
+
+**CD紹介
+-23氏の2ndミニアルバム。
+-今回のアルバムはクラブ系以外の曲を集めたもの。&br()いつものと違った一面を堪能することができる。
+-Bandcampにて全曲無料で配信。
+--Bandcampの仕様により、一定ダウンロード数を超えると無料DLできなくなり、翌月まで￥100掛かるようになる。
+
+**曲目
++[[Forgotten sounds]]
++Still
++[[Lie'n'Regret]]
++[[白い陰影]]
++[[花束を君へ。]]
++[[彼岸花>彼岸花/23]]
++[[∞nótt]]
++※Bonus Track
+
+**リンク
+-[[Bandcamp>>http://23exe.bandcamp.com/album/in]]
+-[[作者twitter>>http://twitter.com/23_twt]]
+
+**コメント
+#comment()

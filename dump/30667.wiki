@@ -1,0 +1,42 @@
+#right(){&furigana(ぱんだだいさくせん)&furigana()【登録タグ:&tags() 】}
+#ref(http://karent.jp/npdca/1637_20141109163048_0280_0280.jpg)
+
+|&nicovideo(http://www.nicovideo.jp/watch/sm24640535)|&youtube(http://www.youtube.com/watch?v=J1-Zs3CK9CE)|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Odyssey>Odyssey/CD]]|CENTER:&bold(){パンダ大作戦}&br()[[わさび]]（Chiquewa）|CENTER:-|
+
+|&bold(){[[ぱんだっち]]}|&bold(){[[Chiquewa]]}|
+
+|流通|CENTER:即売|CENTER:配信|
+|発売|CENTER:2014年10月19日|CENTER:2014年11月26日|
+|価格|CENTER:￥1,000|CENTER:￥900 / 1曲￥150|
+|サークル|CENTER:Sasakama Studio||
+
+|&bold(){[[iTunes Storeで購入する>>https://itunes.apple.com/jp/album/panda-daisakusen/id941522456]]}|
+
+**CD紹介
+>貴方はこんなに刺激的なパンダに出会ったことがあるか。
+-ぱんだっち氏とChiquewa氏のコラボ作品。
+-イラストを[[ちぃ]]（0108-音屋-）氏、ロゴデザインを[[Kusemono>曲者P]]（Swantone）氏、マスタリングをじーこば（[[恋竹林]]）氏が担当。
+-VOCALOID PARADISE 9（ボーパラ9）で初頒布。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++[[Theme Of Spy Panda　〜すーぱんだのテーマ〜>すーぱんだのテーマ]]
++[[Rendez-Vous Dans Un Reve　〜パンダガールのテーマ〜>Rendez-vous Dans Un Reve]]
++Polarbear Blues　〜シロクマのブルース〜
++Panda, We Love You!　〜好き好き！パンダちゃん〜
++The Panda　〜ザ・パンダ〜
++[[Hide And Seek　〜追え！パンダちゃん〜>Hide And Seek/Chiquewa]]
++El Mundo, Negro Y Blanco　〜シロクロノセカイ〜
++Pandism　〜すーぱんだ愛のテーマ〜
+
+**リンク
+-[[特設サイト>>http://panda-daisakusen.blogspot.jp/]]
+-[[ぱんだっちブログ>>http://diario-panda.blogspot.jp/]]
+-[[Chiquewaブログ>>http://chiquewa.blogspot.jp/]]
+-[[KARENT：「パンダ大作戦」>>http://karent.jp/album/1637]]
+
+**コメント
+#comment()

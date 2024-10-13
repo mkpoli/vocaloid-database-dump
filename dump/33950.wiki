@@ -1,0 +1,32 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1878_20160127010905_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[["PANDA"VIRUS]]|CENTER:&bold(){Nature}|CENTER:[[テンカラット / Nature>テンカラット／Nature]]|
+
+|&bold(){[[キッドP]]}|[[パプリカP]]|[[クリスタルP]]|
+
+発売：2016年2月17日
+価格：￥300
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：あきよしき（秋吉・[[由杞>>http://piapro.jp/yosiki59]]）
+
+**CD紹介
+-キッドPの配信シングル。
+-2015年に発表したアルバム『[[INFINITY-∞-]]』の収録曲。
+-KARENTレーベルよりダウンロード販売が行われている。KARENTレーベルのKAITO10周年記念特集で配信された作品の1つ。
+
+**曲目
++Nature （feat. KAITO）
++Nature-instrumental-
+
+**リンク
+-[[twitter>>http://twitter.com/kid_NnDS]]
+-[[作者ブログ>>http://yaplog.jp/kidsworks/]]
+-[[KARENT：「Nature」>>http://karent.jp/album/1878]]
+-[[KARENT：「KAITO 10th Anniversary」特集ページ>>http://karent.jp/special/kaito16]]
+-[[iTunes Store>>http://itunes.apple.com/jp/album/nature-single/id1082271012]]
+
+**コメント
+#comment()

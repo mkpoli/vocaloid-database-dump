@@ -1,0 +1,39 @@
+#right(){&furigana(clear)&furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm26157621)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:|CENTER:&bold(){on Earth}|CENTER:[[Remain>Remain/みなるP]]|
+
+|&bold(){[[みなるP]]}|[[雪花]]|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|CENTER:2014年4月27日|CENTER:|
+|価格|CENTER:￥1,000（税込）|CENTER:|
+|サークル|>|CENTER:みなる色の音紡ぎ|
+
+**CD紹介
+-[[みなるP]] 初のアルバム。
+-「[[輪]]」や「[[音]]」等の既存曲と、多数の新曲を含む全11曲（＋ボーナストラック2曲）を収録。
+-ジャケットデザインなどのアートワークは [[雪花]]氏 が手掛ける。
+-THE VOC@LOiD 超 M@STER 28（超ボーマス28）にてリリース。
+
+**曲目
++地球が回るそのせいで
++Will
++[[輪]]
++[[音]]
++[[手向け花向け]]
++ただ泣いて
++[[Tearing]]
++スリーピィ・スリーピィ
++[[トイ・トイ・トイ]]
++[[Blur>>http://www24.atwiki.jp/utauuuta/pages/3212.html]]
++[[On Earth>>http://www24.atwiki.jp/utauuuta/pages/3044.html]]
++べーこんのうた（ボーナストラック）
++あすぱらのうた（ボーナストラック）
+
+**リンク
+-[[Twitter（みなるP）>>http://twitter.com/minarup]]
+
+**コメント
+#comment()

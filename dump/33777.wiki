@@ -1,0 +1,42 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1862_20160104011047_0280_0280.jpg)
+|&nicovideo(http://www.nicovideo.jp/watch/sm27875068)|&YouTube(http://www.youtube.com/watch?v=rnpCWqhcZDg){342,187}|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[それでも、光は。]]|CENTER:&bold(){Faust}|CENTER:[[ライラックの魔女]]|
+
+|&bold(){[[パンドリストP]]}|Raz|[[cillia]]|兎灯|みのがしさらん|
+
+|流通|CENTER:即売|CENTER:同人|CENTER:配信|
+|発売|CENTER:2015年12月31日|CENTER:2016年1月11日|CENTER:2016年1月29日|
+|価格|CENTER:￥|CENTER:￥1,333（税別）|CENTER:￥150|
+|サークル|>|CENTER:REXIA||
+
+**CD紹介
+-パンドリストPこと、ミナツキトーカ氏の1stアルバム。
+-リメイク、リマスター、そしてルカのグロウルも入った未公開楽曲も収録。
+-コミックマーケット89（C89）で頒布。
+-アリスブックスで委託販売が行われている。
+-タイトルトラックの「Faust」が1曲入り配信シングルとしてKARENTレーベルよりダウンロード販売が行われている。巡音ルカ7周年記念企画で配信された作品の1つ。
+
+**曲目
++Faust　（vo.巡音ルカ）
++sacrifice　（vo.波音リツ）
++[[E.F.B～恒久の氷結～]]　（vo.波音リツ）
++[[B.R.D～叛逆の劫焔～]] (Remake)　（vo.波音リツ）
++Choir - Dedicated to BRAVEs -　（vo.波音リツ）
++Baptism ～贖罪のロザリィ～　（vo.波音リツ）
++Prisoner's Gloria　（vo.重音テト,重音テッド,欲音ルコ,波音リツ,健音テイ,櫻歌ミコ,ルーク）
++Creuzer - Das Schwarzes Requiem -　（vo.波音リツ）
++&nowiki(){- }moonlight waltz - 月夜の舞踏譜　（vo.波音リツ,重音テト,巡音ルカ）
++Bonus Track
+
+**リンク
+-[[アリスブックス>>http://alice-books.com/item/show/4977-1]]
+-[[KARENT：「Faust」>>http://karent.jp/album/1862]]
+-[[KARENT：「巡音ルカ聖誕祭'16」特集ページ>>http://karent.jp/special/luka16]]
+-[[iTunes Store>>http://itunes.apple.com/jp/album/faust-single/id1074537792]]
+-[[twitter>>http://twitter.com/toka_minatsuki]]
+
+**コメント
+#comment()

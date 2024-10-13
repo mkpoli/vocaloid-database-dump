@@ -1,0 +1,62 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+
+#amazon(B013WC1M9U)
+
+|&nicovideo(http://www.nicovideo.jp/watch/sm26844731)|&youtube(http://www.youtube.com/watch?v=q7F2YtsadXI){342,187}|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[REBIRTH -Return of Phoenix-]]|CENTER:&bold(){FAIRYTALES -Geschichte von Inferno- (Lite Edition)}|CENTER:[[FAIRYTALES -Geschichte von Inferno-]]|
+
+|&bold(){[[SHO（キセノンP）]]}|
+
+|流通|CENTER:即売|CENTER:委託|CENTER:配信|
+|発売|CENTER:2015年8月16日||CENTER:2016年1月13日|
+|価格|CENTER:￥1,000|CENTER:￥1,512（税込）|CENTER:￥1,200 / 1曲￥150|
+|サークル|>|CENTER:XM -Xenon Maiden-||
+
+**CD紹介
+>&bold(){これが本当のグリム童話なのか！？}
+-キセノンP率いるXM -Xenon Maiden-の7枚目のフルアルバムは、残酷で悲惨で卑猥なグリム童話の世界。人間の奥底に潜む悪魔の表現に挑む。
+-[[Complete Edition>FAIRYTALES -Geschichte von Inferno-]]に先駆けた先行盤。音源は全てComplete Editionとは異なる。
+-マスタリング：[[Tom>酒言実行P]]、イラスト・デザイン：[[をかだ]]、風の子、ｐっぽ、クロノ、神無、[[柾見ちえ]]、[[ねこむらおたこ>ねこむら/絵師]]、ヤミ、猫飴、[[雪月佳]]、うらら
+-コミックマーケット88（C88）にて頒布。
+-アニメイト、虎の穴、メロンブックス、Amazon、Boothで委託販売が行われている。
+-KARENTレーベルよりダウンロード販売が行われている。こちらは12曲収録となっている。
+
+**曲目
+***CD版
++Willkommen in Märchen (Vocaloid Version) / Miku Hatsune, GUMI
++Geschichte 1: Hänsel und Gretel / Len and Rin Kagamine
++Geschichte 2: Frau Trude / Yukari Yuzuki
++Geschichte 3: Schneeweißchen / GUMI
++[[Geschichte 4: Rotkäppchen>Rotkäppchen]] / Miku Hatsune
++Geschichte 5: Blaubart / KAITO and MEIKO
++Geschichte 6: Die Gänsemagd / Iroha Nekomura
++Geschichte 7: Der gestiefelte Kater / CUL, Miku Hatsune
++Geschichte 8: Das eigensinnige Kind / Flower
++Geschichte 9: Aschenputtel / Luka Magurine
++Erwacht aus dem Alptraum (Vocaloid Version) / Miku Hatsune
+
+***配信版
++Willkommen in Märchen (Vocaloid Version) （feat. 初音ミク＆メグッポイド）
++Geschichte 1: Hänsel und Gretel (Lite Version) （feat. 鏡音リン＆鏡音レン）
++Geschichte 2: Frau Trude (Lite Version) （feat. 結月ゆかり）
++Geschichte 3: Schneeweißchen (Lite Version) （feat. メグッポイド）
++[[Geschichte 4: Rotkäppchen (Lite Version)>Rotkäppchen]] （feat. 初音ミク）
++Geschichte 5: Blaubart (Lite Version) （feat. MEIKO＆KAITO）
++Geschichte 6: Die Gänsemagd (Lite Version) （feat. 猫村いろは）
++Geschichte 7: Der gestiefelte Kater (Lite Version) （feat. CUL＆初音ミク）
++Geschichte 8: Das eigensinnige Kind (Lite Version) （feat. v Flower）
++Geschichte 9: Aschenputtel (Lite Version) （feat. 巡音ルカ）
++Erwacht aus dem Alptraum (Vocaloid Version) （feat. 初音ミク）
++Ouvertüre (Director's Cut Version)
+
+**リンク
+-[[特設サイト>>http://fairytalesxm.tumblr.com/]]
+-[[amazon>>http://www.amazon.co.jp/dp/B013WC1M9U]]
+-[[KARENT：「FAIRYTALES -Geschichte von Inferno- (Lite Edition)」>>http://karent.jp/album/1857]]
+-[[iTunes Store>>https://itunes.apple.com/jp/album/fairytales-geschichte-von/id1070844682]]
+
+**コメント
+- おおおお！！！  -- 名無しさん  (2017-02-08 20:48:22)
+#comment()

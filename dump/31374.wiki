@@ -1,0 +1,60 @@
+#right(){&furigana(Jumpin)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm25572112)|
+作詞：[[ロボ]]
+作曲：[[ロボ]]
+編曲：[[ロボ]]
+唄：[[初音ミクV3(English)>初音ミク]]
+
+**曲紹介
+>&bold(){デートに向かうときに聴いてほしいです！}
+>&bold(){この音楽が全ての人に愛を届けますように}
+曲名：『&u(){Jumpin'}』(&u(){じゃんぴん})
+-ロボ氏の5曲目。
+
+**歌詞
+（[[PIAPRO>>http://piapro.jp/t/Gmmr]]より転載）
+
+I wanna jump together with you
+To see the world just like a free bird
+Because sometimes the world is too wide
+Too big to stay just closer and smilin' to you
+
+Too big to stay together, forever and ever
+Until the time is going to the end
+'Cause every time i see you, i just can't achieve you
+I wanna touch you forever, again
+
+Too big to see each other, to just say 'I love you'
+Just to see your smile once again
+'Cause every time i feel you, i just can't believe
+I'm going to jump the world till the end
+
+I can love you, i can kiss you, i can Jumpin' again
+To see if the world will still be there
+When i will land, when i will land again
+So i can give you all my heart, so wait for me and then
+
+This time i will bring you to the stars 
+and i'll show you my soul
+Just keep my hand and jump with me
+Because this time i will bring you to the stars
+and i'll show you so...
+
+Jumpin' Jumpin' Jumpin'
+
+(Let's Jump with me, My love is you)
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+**コメント
+#comment()
+
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)

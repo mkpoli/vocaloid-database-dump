@@ -1,0 +1,37 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+|&nicovideo(http://www.nicovideo.jp/watch/sm26877701)|&youtube(http://www.youtube.com/watch?v=NNUQ4iSJUz0)|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[redress Ⅱ]]|CENTER:&bold(){QUINT}|CENTER:[[redress Ⅲ]]|
+
+|&bold(){[[ORYO]]}|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2015年8月16日||
+|価格|CENTER:￥1,000|CENTER:￥1,563（税別）|
+|サークル|>|CENTER:FAULHEIT|
+
+**CD紹介
+>&bold(){きっとみんな知っていて　ひとり神様だけがそれを知らずにいるんだ}
+-FAULHEIT名義での4thアルバム。事実上の5thアルバムとなる。
+-全7曲を収録。
+-ジャケットイラストは[[おはぎ]]氏が手掛ける。氏の16Pのフルカラーイラスト集とセットになっている。
+-コミックマーケット88（C88）で頒布。
+-とらのあなで委託販売が行われる。
+
+**曲目
++UNCONTROL / GUMI
++HATE AND SEEK / 鏡音リン
++[[郷愁は赤色]] / GUMI
++rained / 結月ゆかり
++青空 / GUMI
++[[想像以上理想未満]] / 鏡音レン
++[[shine on you]] / GUMI
+
+**リンク
+-[[サークルサイト>>http://faulheit.jp/]]
+-[[作者ブログ>>http://oryo-faulheit.jugem.jp/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/33/70/040030337054.html]]
+
+**コメント
+#comment()

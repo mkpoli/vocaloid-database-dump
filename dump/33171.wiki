@@ -1,0 +1,36 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm27277985)
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Harmonia>Harmonia/ナナミPCD]]|CENTER:&bold(){Memoria}&br()[[Dear RiL～氷の樹海を渡る方舟～]]|CENTER:[[Storia>Storia/ナナミPCD]]|
+
+|&bold(){[[ナナミP]]}|
+
+|流通|CENTER:即売|CENTER:通販|CENTER:配信|
+|発売|CENTER:2015年10月11日|CENTER:|CENTER:|
+|価格|CENTER:￥500|CENTER:￥500|CENTER:￥400|
+|サークル|>|>|CENTER:蝶々結び|
+
+**CD紹介
+>&bold(){"追憶"の森へ 君の手をとった}
+-リン＆レンデュオ・民族調＆物語楽曲シリーズ「Lycieratia（リシェラティア）」の第3弾CD。
+-イラストは [[7:24>姉を見事に使いこなす妹P]]氏 が手掛ける。
+-VOCALOID PARADISE 10（ボーパラ10）にて頒布。
+-BASEとBOOTHにて通販及びダウンロード販売が行われている。
+
+**曲目
++継承者
++[[果ての森のメモリア>果ての森のMemoria]]
++[[Lycieratia]]
++ファ・テラ-女神の竪琴-
++継承者(Instrumental)
++果ての森のメモリア(Instrumental)
++Lycieratia(Instrumental)
++ファ・テラ-女神の竪琴-(Instrumental)
+
+**リンク
+-[[特設サイト>>http://lycieratia.web.fc2.com/]]
+-[[BASE>>http://nanamip.thebase.in/]]
+-[[BOOTH>>https://nanamip.booth.pm/items/154310]]
+
+**コメント
+#comment()

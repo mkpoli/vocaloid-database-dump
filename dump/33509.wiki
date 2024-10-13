@@ -1,0 +1,104 @@
+#right(){&furigana()&furigana()【登録タグ:&tags()】}
+&nicovideo(sm27673497)
+作詞：[[アイロニー]]
+作曲：[[rakurui]]
+編曲：[[rakurui]]
+唄：初音ミク
+
+**曲紹介
+-全英詞のミクノポップ。
+-『[[MIKU EXPO楽曲コンテスト>>http://mikuexpo.com/contest/jp]]』への応募曲であり、クリプトン公式によりピックアップ曲のひとつに選ばれている。
+
+**歌詞
+（[[piapro>>http://piapro.jp/t/1mXf]]より転載）
+
+The blue takes me faraway from the memories 
+That never fade away
+With the helpless but flawless melodies
+I am the one to take starlight alive
+You think you have to survive
+Look into my eyes and you know
+Meaningless Dawning Blue
+
+Breathing let me ignorant
+Shine___Like tears
+All lies are discrepant
+
+The gleam of dawn lasts forever without mercy
+’Til the end of the night
+With the sleepless but timeless fantasy
+I am the one to pray for all you pray
+Don't think 'bout what someone say
+Just love anything and you see
+Limitless Dawning Blue
+Motionless Dawning Blue
+
+Breathing let me ignorant
+Shine___Like tears
+All lies are discrepant
+
+Heaven knows I've felt lonely
+But you’re my one and only
+So I just want you to know
+How Dawning Blue’s gonna glow
+No way to deny nothing
+Wish I would be just laughing
+Even though that will not come true
+I sing to find something new
+Turning on a crystal set
+I can’t help but feel regrets
+In my sight are satellites
+That keep me awake tonight
+Give me, Give me Dawning Blue
+Show me, Show me Dawning Blue
+The star colored Dawning Blue
+The sky colored Dawning Blue
+
+#region(和訳)
+
+碧はわたしを記憶から悠くへ
+決して色褪せない記憶から悠くへ
+救いのない、けれども美しいメロディと共に
+星の光を掴まえる
+あなたは生き延びなきゃいけないと思ってる
+わたしの睛を見て…そうすれば判る
+無意味な夜明け前の瑠璃色
+
+呼吸がわたしを無知にしてくれる
+輝いて、涙のように
+嘘はすべてが矛盾する
+
+夜明けの幽かな光は容赦なく続く
+この夜が終わるまで
+睡らない、それでも色褪せぬ幻想と共に
+あなたの祈りをわたしも祈る
+だれかの謂うことなんてどうでもいい
+何もかも愛して…そうすれば解る
+限りない瑠璃色
+動かない瑠璃色
+
+呼吸がわたしを無知にしてくれる
+輝いて、涙のように
+嘘はすべてが矛盾する
+
+わたしの孤独を識るひとはいない
+でもあなたを愛してる
+だからあなたに知ってほしい
+瑠璃色がどう輝くのかを
+何も否定することはできない
+ただ笑っていられたらと望む
+それが叶わないとしても
+新しい何かを見つけるため歌う
+鉱石ラジオをつけて
+後悔せずにはいられない
+視界には衛星たち
+今夜わたしを睡れなくしてしまう
+瑠璃色がほしい
+瑠璃色をみせて
+瑠璃色に染められた星
+瑠璃色に染められた天
+
+#endregion
+
+**コメント
+#comment()

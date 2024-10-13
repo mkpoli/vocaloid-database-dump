@@ -1,0 +1,29 @@
+#right(){&furigana(あらわと)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/38835676" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/38835676">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-&b(){露吐}（あらわと）っていいます。嘔吐でも吐露でもありません。（ユーザページより）
+-使用ボカロは結月ゆかり。
+-代表作に「全く身にならないラジオ」のEDテーマ、『[[全く身にならないソング]]』の作編曲を担当。[[100万再生>曲一覧/ミリオン曲一覧]]を達成した。
+
+**ミリオン達成状況
+|CENTER:&bold(){曲名}|CENTER:&bold(){100万再生}|CENTER:&bold(){200万再生}|CENTER:&bold(){備考}|
+|[[全く身にならないソング]]|2015年10月13日|2019年2月9日||
+
+**リンク
+-[[Twitter>>http://twitter.com/arawa_10]]
+-[[PIAPRO>>http://piapro.jp/omochianco]]
+
+**曲
+#list_by_tag(露吐,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(露吐CD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm21929914)|&nicovideo(sm22286870)|
+|&nicovideo(sm22340287)|&nicovideo(sm22500675)|
+|&nicovideo(sm22589428)|&nicovideo(sm25771502)|
+
+**コメント
+#comment()

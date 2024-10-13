@@ -1,0 +1,45 @@
+#right(){&furigana(しののめ)&furigana()【登録タグ:&tags() 】}
+//#image(http://img.toranoana.jp/img/04/0030/21/81/040030218120-1.gif)
+//&ref(http://vocalo1.com/meiko_compilation2/images/jacket.png)
+
+&ref(https://ecdnimg.toranoana.jp/ec/img/04/0030/21/81/040030218120-1p.jpg,x=300,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm23806962)
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[暁 -AKA-TSUKI-]]|CENTER:&bold(){東雲 -SHINONO-ME-}|CENTER:-|
+
+|[[ぺぺろんP]]|[[仕事してP]]|[[紅あやめ]]|[[MARSH]]|[[モテたいP]]|
+|[[稲敷常州]]|[[和泉蛍]]|[[E.L.V.N]]|[[愛鍵 祥]]|[[ナモナキP]]|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2014年6月29日||
+|価格|CENTER:￥1,000|CENTER:|
+|サークル|>|CENTER:MEIKO Compilation Project|
+
+**CD紹介
+>&bold(){「ハイパークールなお姉さんは好きですか？」}
+-MEIKOをフィーチャーしたコンピレーションアルバム第2弾。
+-楽曲のジャンルは問わず、各参加者でのかっこいいと思うMEIKOを表現。
+-MEIKO PARADISEより頒布開始。
+-とらのあな、D-STAGEにて委託販売が行われている。
+
+**曲目
++サイレント・エモーション / 虹原ぺぺろん
++[[ユメトリアル]] / hinayukki@仕事してP
++炎の鳥、群青を征く。 / 紅あやめ
++reliance / MARSH
++恋式χcm / モテたいP（五条城）
++[[西域を往く>西域行]] / 稲敷常州
++[[儚月想]] / 和泉蛍
++[[壊セ壊セ]] / E.L.V.N
++Crescent Moon / 愛鍵 祥
++[[アクセサリ]] / 名も無きMEIKO使い
+
+**リンク
+-[[特設ページ>>http://vocalo1.com/meiko_compilation2/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/21/81/040030218120.html]]
+
+**コメント
+- いい！！  -- 名無しさん  (2014-09-13 10:15:59)
+- 仕事してPと稲敷常州さん好きだから欲しい。  -- 元禄  (2014-10-22 06:37:11)
+#comment()

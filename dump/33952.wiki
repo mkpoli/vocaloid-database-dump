@@ -1,0 +1,30 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1873_20160123225935_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[wing of mind]]|CENTER:&bold(){Run Ahead}|CENTER:-|
+
+|&bold(){[[As'257G]]}|水無月龍那|
+
+発売：2016年2月17日
+価格：￥150
+流通：配信
+レーベル：KARENT
+ジャケット：As'257G
+
+**CD紹介
+-Sound Team Layer-0のAs'257G氏の配信シングル。
+-KARENTレーベルよりダウンロード販売が行われている。KARENTレーベルのKAITO10周年記念特集で配信された作品の1つ。
+
+**曲目
++Run Ahead （feat. KAITO）
+
+**リンク
+-[[twitter>>http://twitter.com/as257g]]
+-[[サークルサイト>>http://layer-0.shillest.net/]]
+-[[KARENT：「Run Ahead」>>http://karent.jp/album/1873]]
+-[[KARENT：「KAITO 10th Anniversary」特集ページ>>http://karent.jp/special/kaito16]]
+-[[iTunes Store>>http://itunes.apple.com/jp/album/run-ahead-single/id1082270449]]
+
+**コメント
+#comment()

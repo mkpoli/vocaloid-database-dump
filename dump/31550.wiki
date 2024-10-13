@@ -1,0 +1,36 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm23364249)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[the VOCAJAZZ vol.3]]|CENTER:&bold(){THE VOCAJAZZ LIVE SESSIONS}|CENTER:-|
+
+|[[なきゃむりゃ]]|[[ココアシガレットP]]|となりちゃん|[[南のP]]|[[さはら]]|
+|[[ichi]]|[[Man_boo]]|なき|[[西島ソーンダイク]]||
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2014年4月26日|CENTER:2013年6月|
+|価格|CENTER:￥1,000|CENTER:￥1,493（税別）|
+|サークル|>|CENTER:the VOCAJAZZ|
+
+**CD紹介
+-全曲・全パート・演奏。楽曲を書き下ろした本人達が演奏してみたボーカロイドジャズコンピレーションアルバム。
+-Gt：なきゃむりゃ、Pf：GYARI、Sax：oz_hiro、Tp,Flh：man_boo、Bs：ichi（BaguettesEnsemble）、Dr：デブマスク。
+-THE VOC@LOiD 超 M@STER 28（超ボーマス28）で頒布。
+-とらのあなで委託販売が行われている。
+
+**曲目
++[[おとなのじかん]] / [[なきゃむりゃ]] / 猫村いろは
++missloss / [[GYARI>ココアシガレットP]]（作詞：となりちゃん） / 鏡音レンACT2
++me+usic / [[oz_hiro>南のP]]（作詞：[[さはら]]） / 巡音ルカ
++Tokyo Walker / ichi（BaguettesEnsemble） / 初音ミク
++さよならのリズム / [[Man_boo]]（作詞：Man_boo、なき） / 結月ゆかり
++損なわれてく君の前で僕は / なきゃむりゃ / 初音ミクAppend Sweet
++9 / 西島尊大 / 初音ミク
+
+**リンク
+-[[VOCAJAZZサイト>>http://vocajazz.com/]]
+-[[特設サイト>>http://ls.vocajazz.com/]]
+-[[とらのあな>>https://www.toranoana.jp/mailorder/article/04/0030/20/17/040030201778.html]]
+
+**コメント
+#comment()

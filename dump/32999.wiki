@@ -1,0 +1,45 @@
+#right(){&furigana(そこにいたこと)&furigana()【登録タグ:&tags() 】}
+//&ref(http://img.toranoana.jp/img/04/0030/31/08/040030310881-1.gif)
+
+&ref(https://ecdnimg.toranoana.jp/ec/img/04/0030/31/08/040030310881-1p.jpg,x=300,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm26042491)
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[恋哀>恋哀/CD]]|CENTER:&bold(){そこにいたこと}|CENTER:-|
+
+|&bold(){[[regulus]]}|&bold(){ですとろい}|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2015年4月26日||
+|価格|CENTER:￥1,000（※）|CENTER:￥1,000（税抜）|
+※1stアルバムとのセット価格。
+
+**CD紹介
+-regulus氏の2作目となるCD
+-ヴァイスショコラーデ名義の曲も含む、全16作が収録。
+-THE VOC@LOiD 超 M@STER 31（超ボーマス31）で、1stアルバムとのセットとして頒布。
+-とらのあなにて委託販売されている
+
+**曲目
++[[Anfang>>http://www.nicovideo.jp/watch/sm23788725]]
++[[鳳仙花>鳳仙花/ヴァイスショコラーデ]]
++[[Awaken]]
++[[そこにいたこと]]
++[[スノーホワイト]]
++[[CRISIS>>http://www.nicovideo.jp/watch/sm23216540]]
++[[Euthanasia>Euthanasia/regulus]]
++[[Not Anymore]]
++[[紋白蝶>紋白蝶/ヴァイスショコラーデ]]
++[[Schwarzer Regen]]
++[[燦然と咲く月夜の花>>http://www.nicovideo.jp/watch/sm24808649]]
++[[夏の終わり、君と最後の夜]]
++[[泣かないと約束するから>>http://www.nicovideo.jp/watch/sm23722973]]
++[[Tear me down]]
++Schwarzer Regen -Destroy Remix-
++Never ending story
+
+**リンク
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/31/08/040030310881.html]]
+
+**コメント
+#comment()

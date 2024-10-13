@@ -1,0 +1,30 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#ref(http://karent.jp/npdca/1784_20150717233856_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Bluemoon]]|CENTER:&bold(){Throw the DICE 2015}|CENTER:-|
+
+|&bold(){[[G@POPO]]}|百華|
+
+発売：2015年8月21日
+価格：￥150
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：日夜
+
+**CD紹介
+>さあ何を賭ける？イチかバチかエブリデイ！
+-G@POPO氏 の配信CD。
+-KARENTレーベルよりダウンロード販売が行われている。初音ミク8周年記念企画で配信された作品の1つ。
+
+**曲目
++Throw the DICE 2015 （feat. 初音ミク）
+
+**リンク
+-[[作者ブログ>>http://gapopo.blog43.fc2.com/]]
+-[[KARENT：「Throw the DICE 2015」>>http://karent.jp/album/1784]]
+-[[KARENT：「初音ミク 8th Anniversary」特集ページ>>http://karent.jp/special/miku15]]
+-[[iTunes Store>>https://itunes.apple.com/jp/album/throw-the-dice-2015-single/id1024493285]]
+
+**コメント
+#comment()

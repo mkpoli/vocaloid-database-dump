@@ -1,0 +1,30 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm26662389)
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[18回目の春]]|CENTER:&bold(){No Title Summer}|CENTER:[[Best of My Story]]|
+
+|&bold(){[[ふえると]]}|
+
+発売：2015年7月12日
+価格：￥500
+流通：即売
+サークル：RabiTia
+
+**CD紹介
+>「君を捜していたんだ　夏の欠片のどこかで」
+-ふえると氏のミニアルバムCD。
+-Illustration&LabelDesign：るる、JacketDesign：[[そらP]]
+-THE VOC@LOiD M@STER 32（ボーマス32）で頒布。
+
+**曲目
++ハートライト
++ORANGERAY
++ホタライズ-2015 Summer Edition-
++汐風の坂道
++[[No Title Summer]]
+
+**リンク
+-[[サークルサイト>>http://scproj.com/]]
+
+**コメント
+#comment()

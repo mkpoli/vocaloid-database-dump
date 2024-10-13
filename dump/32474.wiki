@@ -1,0 +1,64 @@
+#right(){&furigana(みらいとあるまちかいとう)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+
+&ref(https://m.media-amazon.com/images/I/711B2M1fBpL._SS500_.jpg,x=350)
+
+|>|CENTER:~アルバムクロスフェード|
+|&nicovideo(sm22252643)|&youtube(https://youtu.be/nT8N5wJUrWI){342,187}|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){ミライトアルマチ街道}|CENTER:[[ミライトアルマチ情緒]]|
+
+|&bold(){[[keisei]]}|
+
+発売：2013年11月17日(即売) / 2014年7月23日(配信)
+流通：即売・委託・配信
+価格：￥700(即売) / ￥1,000（税別）(委託) / ￥1,050(配信)
+サークル：ミライトアルマチ構想
+
+**CD紹介
+CD名：『&u(){ミライトアルマチ街道}』（&u(){ミライトアルマチかいどう}）
+-keisei氏の1stアルバム。
+--ジャケットイラスト担当は&bold(){箔鳥居}氏。（[[Twitter>>https://x.com/hakutory]]）
+-THE VOC@LOiD M@STER27（ボーマス27）にて頒布。
+-AKIBA HOBBYで委託販売が行われていたが、完売している。
+-iTune StoreやAmazon musicなどでダウンロード販売が行われている。
+
+#region(close,keisei氏 ソロアルバム一覧)
+keisei氏 ソロアルバム一覧
+
+|アルバム名|発売日|作目|h
+|CENTER:&bold(){ミライトアルマチ街道}|CENTER:2013年11月17日|CENTER:1st|
+|CENTER:[[ミライトアルマチ情緒]]|CENTER:2014年11月15日|CENTER:2nd|
+|CENTER:[[ミライトアルマチ衛星]]|CENTER:2015年11月14日|CENTER:3rd|
+|CENTER:[[ミライトアルマチ詩恩]]|CENTER:2017年4月29日|CENTER:4th|
+|CENTER:[[ミライトアルマチ延寿]]|CENTER:2018年8月23日|CENTER:5th|
+|CENTER:[[ミライトアルマチ都々里]]|CENTER:2019年8月10日|CENTER:6th|
+|CENTER:[[ミライトアルマチ空絵]]|CENTER:2020年11月27日|CENTER:7th|
+|CENTER:[[ミライトアルマチ雨読]]|CENTER:2024年8月17日|CENTER:8th|
+#endregion
+
+
+**曲目
++[[地図にない街]]
++[[Polka dot]]
++[[はるかGlider]]
++[[Breath of Urban]]
++[[Electrail]]
++PIKTOGRAM
++Hearting Linking
++[[a neo world]] (2013 Extended Mix)
++[[trans-Create]]
+
+**リンク
+-[[作者サイト>>http://miraitoarumachi.com/]]
+-[[特設ページ>>http://miraitoarumachi.com/teaser01.html]]
+-[[AKIBA HOBBY>>http://ec.akbh.jp/category/select/pid/14745]]
+-[[iTunes Store>>https://itunes.apple.com/jp/album/mirai-to-aru-machi-avenue/id897092522]]
+-[[Amazon>>https://www.amazon.co.jp/ミライトアルマチ街道-keisei/dp/B00LMX93NO]]
+
+**コメント
+#comment()

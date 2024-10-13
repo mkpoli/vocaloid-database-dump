@@ -1,0 +1,42 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+|&nicovideo(http://www.nicovideo.jp/watch/sm27535078)|&youtube(http://www.youtube.com/watch?v=sPcWm1Fpg8E){342,187}|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[ここだけの話>ここだけの話/CD]]|CENTER:&bold(){H**rtful Pieces}|CENTER:[[メインキャラクター>メインキャラクター/CD]]|
+
+|&bold(){[[*Luna]]}|[[びび]]|
+
+|流通|CENTER:即売|CENTER:配信|
+|発売|CENTER:2015年11月14日|CENTER:2015年11月29日|
+|価格|>|CENTER:￥1,200|
+|サークル|>|CENTER:ギョーザプリン|
+
+**CD紹介
+-THE VOC@LOiD M@STER 33で頒布された*Luna氏の2ndアルバム。
+-&s(){BOOTHでダウンロード販売が行われている。}現在購入不可。
+
+**曲目
++[[夢追い語り]] (feat. GUMI)
++イリュージョン・アロー （feat. 鏡音リン・レン）
++[[アフェクテッド・ガール]] (feat. GUMI)
++君だって (feat. GUMI)
++ギョーザプリン (feat. GUMI)
++高い塔 (feat. GUMI)
++[[コンシーテッド・ボーイ]] (feat. IA)
++かたおもい (feat. GUMI)
++[[嫉妬心]] (feat. Rana)
++被害妄想 (feat. GUMI)
++ものわすれ (feat. GUMI)
++[[シュガーアディクション>シュガー・アディクション]] (feat. GUMI)
++変になるよ (feat. GUMI)
++[[パーフェクト・ピース]] (feat. GUMI)
++* (feat. GUMI) 
+
+**リンク
+-[[作者ブログ>>http://luna-catbird.blogspot.jp/2015/12/hrtful-pieces.html]]
+-[[BOOTH>>http://luna-catbird.booth.pm/]]
+//-[[iTunes Store>>http://http://itunes.apple.com/jp/album/h**rtful-pieces/id1061463527]]
+//-[[Google Play>>http://play.google.com/store/music/album/Luna_H_rtful_Pieces?id=Bljrj6jiouzbhw5yrz3puboxfpi]]
+
+**コメント
+#comment()

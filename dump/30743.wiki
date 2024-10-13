@@ -1,0 +1,44 @@
+#right(){&furigana(ものくろあんだーぐらうんど)&furigana()【登録タグ:&tags() 】}
+#amazon(B00PLD8QVQ)
+&nicovideo(sm24878448)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[ごめんねep]]|CENTER:&bold(){モノクロアンダーグラウンド}|CENTER:[[TOP SECRET!!]]|
+
+|&bold(){[[くらげP]]}|lasah|愛してP|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|CENTER:2014年11月15日||
+|価格|CENTER:￥1,000||
+|サークル|>|CENTER:海月屋茶房|
+
+**CD紹介
+-electripper（くらげP）の3rdフルアルバム。
+-M06 の作詞を lasah氏 が、M09 のストリングスアレンジを 四条紅羽（愛してP）氏 が担当。M2,10,13 のベースを 二村学氏 が演奏。
+-THE VOC@LOiD M@STER30（ボーマス30）にて頒布。
+-ジャケットイラストを ゆの氏 が手掛ける。
+-Amazonにて通販が行われている。
+
+**曲目
++なげきの唄
++[[モノクロアンダーグラウンド]] （Take 1 ver.）
++[[リトルガールアニマージュ>リトルガール・アニマージュ]]
++[[タタルタ]]
++[[タメイキと嘘の隙間]] （monochrome ver.）
++shatterprooof
++そして、始まった奇跡
++[[それは、いいことだよ]]
++[[わすれんぼう>わすれんぼう/くらげP]]
++[[千年の雨の終わりに]]
++ごめんね （monochrome ver.）
++[[ポンコツテレビの大逆襲！>ポンコツテレビの大逆襲]]
++[[アクアリウムゴーストソング>アクアリウム・ゴーストソング]] （monochrome ver.）
++[[それから、]]
++Bonus Track.春風のつくりかた（和田さんの場合）
+
+**リンク
+-[[作者サイト>>http://electripper.com/]]
+-[[Amazon>>http://www.amazon.co.jp/dp/B00PLD8QVQ]]
+
+**コメント
+#comment()

@@ -1,0 +1,32 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1860_20160101115532_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[INFINITY-∞-]]|CENTER:&bold(){"PANDA"VIRUS}|CENTER:[[Nature]]|
+
+|&bold(){[[キッドP]]}|[[残鏡P]]|[[クリスタルP]]|
+
+発売：2016年1月20日
+価格：￥300
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：[[碧茶]]
+
+**CD紹介
+-キッドPの配信シングル。
+-2010年に発表した「[[“Panda” virus]]」のV4Xバージョンを収録。また、英語詞バージョンも収録されている。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++"Panda"virus-V4X New style- （feat. 鏡音レン）
++"Panda"virus-E.style （feat. 鏡音レン&KAITO）
++"Panda"virus-instrumental-
+
+**リンク
+-[[twitter>>http://twitter.com/kid_NnDS]]
+-[[作者ブログ>>http://yaplog.jp/kidsworks/]]
+-[[KARENT：「"PANDA"VIRUS」>>http://karent.jp/album/1860]]
+-[[iTunes Store>>http://itunes.apple.com/jp/album/panda-virus-single/id1072274923]]
+
+**コメント
+#comment()

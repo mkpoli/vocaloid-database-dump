@@ -1,0 +1,41 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm27567692)
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Dot.]]|CENTER:&bold(){Clock}|CENTER:-|
+
+|&bold(){[[ねこぼーろ]]}|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|CENTER:2015年11月14日||
+|価格|CENTER:￥1,000|CENTER:￥1,480（税別）|
+|サークル|>|CENTER:Polymatope|
+
+**CD紹介
+-6thアルバム。
+-ジャケットデザイン：みなもすち
+-THE VOC@LOiD M@STER 33（ボーマス33）にて頒布。
+-とらのあなで委託販売が行われている。
+
+**曲目
++clock
++[[共感覚おばけ]]
++[[あいのうた>あいのうた/ねこぼーろ]]
++春花
++[[きかせたいのは]]
++徒然ポップネス
++Floating Candle
++[[てのひらワンダーランド]]
++[[オノマトペメガネ]]
++心臓とクロック
++[[さよなら4月のドッペルさん]]
++いつかのDJ MIX
+
+**リンク
+-[[twitter>>http://twitter.com/nekobolo]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/36/47/040030364794.html]]
+
+**コメント
+- ついかおっつ！！  -- 名無しさん  (2015-11-13 00:20:57)
+- 歌詞の言い回しがとても好きです  -- 名無しさん  (2016-08-25 23:24:39)
+- ほしーです  -- マツイチ  (2016-11-27 23:11:23)
+#comment()

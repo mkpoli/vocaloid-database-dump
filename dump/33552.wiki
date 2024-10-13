@@ -1,0 +1,40 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm27855506)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){VOICE}|CENTER:-|
+
+|&bold(){[[さつき]]}|[[隼兎]]|[[ふーめ]]|[[けんぴ]]|[[りゅうぴー]]|[[河野]]|[[NGC222]]|
+|[[もっちもち王国]]|[[アイロニー]]|[[Re:Alice]]|[[黒河スオウ]]|[[yura]]|[[千代ハム]]|[[大地]]|
+
+|流通|CENTER:即売|CENTER:通販|
+|発売|CENTER:2015年12月31日||
+|価格|CENTER:￥1,000|CENTER:￥1,000|
+|サークル|>|CENTER:#39 Records|
+
+**CD紹介
+-声をテーマにしたオールジャンルなボカロコンピCD。
+-複数の作り手が参加し、ミクノポップやボカロック全10曲を収録。
+-12Pフルカラージャケットに全曲のイメージイラスト＋歌詞を掲載。
+-コミックマーケット89（C89）で頒布。
+-自家通販が行われている。
+
+**曲目
++夢見るくじら feat. ONE / 隼兎
++ディスクール feat. IA / ふーめ
++[[流星のロストクライ]] feat. 初音ミク・IA / けんぴ
++仮装Processing feat. IA・GUMI / りゅうぴー
++Enemy feat. SeeU / 河野
++[[Voiceless]] feat. Lily / もっちもち王国・アイロニー（作詞）
++ECHO ～君想うゆえに我あり～ feat. 神威がくぽ / Re:Alice・黒河スオウ（調声）
++言の葉 feat. IA / NGC222
++春とソラミミ feat. 結月ゆかり / yura・千代ハム（作詞）
++白雨 feat. 初音ミク / 大地
+
+**リンク
+-[[#39 Records>>http://sharp039.web.fc2.com]]
+-[[Webカタログ>>http://webcatalog-free.circle.ms/Circle/11915040]]
+-[[#39 Records ONLINE SHOP>>http://sharp039.buyshop.jp/]]
+
+**コメント
+#comment()

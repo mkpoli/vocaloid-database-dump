@@ -1,0 +1,77 @@
+#right(){&furigana()&furigana()【登録タグ:&tags()】}
+|&nicovideo(http://www.nicovideo.jp/watch/sm15588551)|&youtube(https://www.youtube.com/watch?v=URn6U29MKEk){342,187}|
+作詞：[[mak.kanz@wa]]
+作曲：[[テラ小室P]]
+編曲：[[テラ小室P]]
+唄：初音ミクAppend Solid
+
+**曲紹介
+-久々の浅倉サウンド全開の曲を作りました。&br()ノーマルのミクでも良かったんですが、気まぐれでappendを使ってみました。普段とあんまり変わらないかもしれません。
+-lyric：mak.kanz@wa、music:テラ小室P、movie：文月ユラノ
+
+**音楽配信
+&ref(https://cdn.karent.jp/thumb_a/036/2036_20170418002246_0280_0280.jpg)
+
+|CENTER:前作|CENTER:今作|CENTER:次作|
+|CENTER:[[WHY DO YOU WANT TO]]|CENTER:&bold(){Gonna Be Wannabe}|CENTER:[[PUSHOVER]]|
+
+流通：配信
+発売：2017年5月17日
+価格：￥204（各バージョン）
+レーベル：[[KARENT>>http://karent.jp/album/2036]]
+アートワーク：テラ小室P
+
+|&bold(){[[Apple Musicで購入>>https://music.apple.com/jp/album/gonna-be-wannabe-single/1234133243]]}|
+
+***曲目
++Gonna Be Wannabe(STRAIGHT RUN) (feat. 初音ミク)
++Gonna Be Wannabe(EXTENDED MIX) (feat. 初音ミク)
++Gonna Be Wannabe(TV MIX) (feat. 初音ミク)
+
+**歌詞
+（[[PIAPRO>>http://piapro.jp/t/ZUjY]]より転載）
+
+　Today, somebody's gonna be Wannabe
+　ただ夢を見るだけの
+　I don't wanna be only Wannabe
+　日々はもういらない
+
+自分とは違うひとを眺めては「ああなりたい」と
+今日もまた　羨んでいるだけ
+誰からも尊敬される　理想的人物になる
+そのための　必要経費（コスト）も払わずに
+
+求めるばかりで　何ひとつしなけりゃ
+どこにもイケないのに　まだ座ってるの
+
+　So, you wanna be special somebody
+　変われない苛立ちを
+　But day by day, you're just Wannabe
+　他人（だれか）のせいにして
+
+幼い日　描いていた未来図は　いつの間にか
+満員の電車の中で消えた
+
+逃げてるばかりの　僕の現在地は
+スマートフォンで開く地図じゃ探せない
+
+　So, I wanna be superb somebody
+　妥協という名のドアに
+　But night and day, I'm just Wannabe
+　もたれかかってるだけ
+
+
+　So, everybody wanna be somebody
+　たとえ変われなくても
+　But anybody can be nobody
+　僕は僕のままで
+
+　Tonight, somebody's gonna be Wannabe
+　ただ生きていくだけの
+　I don't wanna be only Wannabe
+　未来（あす）なんていらない
+
+
+**コメント
+- これほんとすき  -- ﾋﾛ  (2019-08-31 12:34:05)
+#comment()

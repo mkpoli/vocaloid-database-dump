@@ -1,0 +1,29 @@
+#right(){&furigana(ついおくのひこうせん)&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1644_20141120233447_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[深海シティアンダーグラウンド]]|CENTER:&bold(){追憶の飛行船}|CENTER:[[月がない街]]|
+
+|&bold(){[[田中B]]}|
+
+発売：2014年12月17日
+価格：￥300
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：olgash_i
+
+**CD紹介
+-田中B氏 の配信CD。
+-KARENTレーベルよりダウンロード販売が行われている。KARENTの鏡音リン・レン7周年記念企画で配信された作品の1つ。
+
+**曲目
++[[追憶の飛行船]] （feat. 鏡音リン）
++フェイクリブート （feat. 鏡音リン）
+
+**リンク
+-[[KARENT：「追憶の飛行船」>>http://karent.jp/album/1644]]
+-[[KARENT：「鏡音リン・レン祭'14」特集ページ>>http://karent.jp/special/rinlen14]]
+-[[iTunes Store>>https://itunes.apple.com/jp/album/tsuiokunohikousen-single/id948656763]]
+
+**コメント
+#comment()

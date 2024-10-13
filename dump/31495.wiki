@@ -1,0 +1,58 @@
+#right(){&furigana()&furigana()【登録タグ:&tags()】}
+&nicovideo(http://www.nicovideo.jp/watch/sm19986609)
+作詞：[[eta3372]]
+作曲：[[eta3372]]
+編曲：[[eta3372]]
+唄：猫村いろは
+
+**曲紹介
+-eta3372氏の14作目。
+
+**歌詞
+（動画より書き起こし）
+
+"If you can" sugu tonari de
+"If you can" tsutaetai
+"If you can" kono jikan ga
+zutto tsudukimasuyo-ni
+
+nodo tsumaruyouna
+koi sakura iro
+kokoro fuwafuwa Crazy for you
+do～sureba i-no? oshiete!
+
+"If you can" sugu tonari de
+"If you can" tsutaetai
+"If you can" kono jikan ga
+zutto tsudukimasuyo-ni
+
+nodo tsumaruyouna
+koi sakura iro
+kokoro fuwafuwa Crazy for you
+do～sureba i-no? oshiete!
+
+"If you can" sugu tonari de
+"If you can" tsutaetai
+"If you can" kono jikan ga
+zutto tsudukimasuyo-ni
+
+"If you can" sugu tonari de
+"If you can" tsutaetai
+"If you can" kono jikan ga
+zutto tsudukimasuyo-ni
+
+#region()
+"If you can"　すぐとなりで
+"If you can"　伝えたい
+"If you can"　この時間が
+ずっと続きますよーに
+
+のどつまるような
+恋さくら色
+こころふわふわ　Crazy for you
+ど～すればいーの？　おしえて！
+#endregion
+
+
+**コメント
+#comment()

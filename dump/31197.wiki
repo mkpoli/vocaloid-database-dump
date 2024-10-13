@@ -1,0 +1,34 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#ref(http://f1.bcbits.com/img/a2657060505_10.jpg,height=200,width=200)
+
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:PLAY|CENTER:&bold(){NEAR}|CENTER:[[植物園>植物園/宮沢もよよ]]|
+
+|&bold(){[[宮沢もよよ]]}|&bold(){[[村上くるる]]}|
+
+|流通|CENTER:即売|CENTER:配信|
+|発売|CENTER:2014年8月17日|CENTER:2014年8月30日|
+|価格|CENTER:￥1,000|CENTER:￥600|
+|サークル|>|CENTER:QUADROPHENIA|
+
+**CD紹介
+-4人組クリエイティブユニット 「QUADROPHENIA」 の6thアルバム。
+-ジャケットイラストを あさぎり氏 が、デザインを tatsuhico SAKAI氏 が手掛ける。
+-2014年8月17日開催の コミックマーケット86（C86） にて頒布。
+-BandCamp にてデータ配信が行われている。
+
+**曲目
++Earlier / 村上くるる
++Anywhere / 村上くるる
++Souvenir / 村上くるる
++Market / 宮沢もよよ
++[[Moon>moon/宮沢もよよ]] / 宮沢もよよ
++Marumaru / 宮沢もよよ
+
+**リンク
+-[[特設サイト>>http://quadrophenia.cc/works/near/]]
+-[[BandCamp>>http://quadrophenia.bandcamp.com/album/near]]
+
+**コメント
+#comment()

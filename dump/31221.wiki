@@ -1,0 +1,31 @@
+#right(){&furigana(しんえん)&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1674_20150103214709_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[わさび]]&br()[[パンダ大作戦]]|CENTER:&bold(){深淵}|CENTER:[[草原郷 EP]]|
+
+|&bold(){[[Chiquewa]]}|[[ぱんだっち]]|
+
+発売：2015年1月23日
+価格：￥300 / 1曲￥150
+流通：配信
+レーベル：KARENT
+
+**CD紹介
+-Chiquewa氏 の配信シングル。
+-エレクトロニカでR＆Bな3曲を収録。
+-KARENTレーベルよりダウンロード販売が行われている。巡音ルカ6周年記念特集で配信された作品の1つ。
+
+**曲目
++[[深淵>深淵/Chiquewa]] （feat. 巡音ルカ）
++[[結界]] （feat. 巡音ルカ）
++陶酔 （feat. 巡音ルカ）
+
+**リンク
+-[[作者ブログ>>http://chiquewa.blogspot.jp/]]
+-[[KARENT：「深淵」>>http://karent.jp/album/1674]]
+-[[KARENT：「巡音ルカ聖誕祭'15」特集ページ>>http://karent.jp/special/luka15]]
+-[[iTune Store>>https://itunes.apple.com/jp/album/shin-en-single/id957995944]]
+
+**コメント
+#comment()

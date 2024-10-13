@@ -1,0 +1,57 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+|&youtube(https://www.youtube.com/watch?v=Ngl6rmJe1AI){342,187}|
+作詞：[[solpie]]
+作曲：[[solpie]]
+編曲：[[solpie]]
+唄：鏡音リン・初音ミク
+
+**曲紹介
+-PIAPROにて2015年6月16日投稿。
+-Youtubeにて2015年11月13日投稿。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**音楽配信
+&ref(http://karent.jp/npdca/1735_20150616101705_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[赫娜斯（ホーナス）少女]]|CENTER:&bold(){風竹門}|CENTER:[[白郁琅]]|
+
+|&bold(){[[solpie]]}|
+
+発売：2015年7月10日
+価格：￥150
+流通：配信
+レーベル：[[KARENT>>http://karent.jp/album/1735]]
+ジャケットイラスト：SolPie
+
+|&bold(){[[iTunes Storeで購入する>>https://itunes.apple.com/jp/album/feng-zhu-men-single/id1014433388]]}|
+
+***曲目
++風竹門 （feat. 鏡音リン）
+
+**歌詞
+（[[PIAPRO>>http://piapro.jp/t/WTLt]]より転載）
+
+A1
+门后失陪酒 无归期
+城南街旧雨 冷落青衣
+A2
+伞下人影烛火蝉鸣
+路上的断魂 扰乱了清静
+B1
+哎~~
+甜甜蜜 吟诗走马得意
+寻寻觅 阑珊灯无计
+渐行渐远渐离
+回首相思入细
+啊~
+C1
+夜深风竹门 轻敲晚秋灯
+落叶千声万声 皆伤痕
+路人不再等多少闷
+折伞红粉已冷
+水阔鱼沉无书何处问
+
+
+**コメント
+#comment()

@@ -1,0 +1,40 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1828_20151106221656_0280_0280.jpg)
+|&nicovideo(http://www.nicovideo.jp/watch/sm27462522)|&youtube(http://www.youtube.com/watch?v=pAIMxNcS9WM){342,187}|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[草原郷 EP]]|CENTER:&bold(){かんきり}|CENTER:[[すだれ]]|
+
+|&bold(){[[Chiquewa]]}|[[ぱんだっち]]|
+
+|流通|CENTER:即売|CENTER:配信|
+|発売|CENTER:2015年11月14日|CENTER:2015年11月25日|
+|価格|CENTER:￥1,000|CENTER:￥900|
+|サークル|CENTER:Sasakama Studio||
+
+**CD紹介
+-Chiquewa氏 の5thアルバム。
+-テーマは「ギター女子」そして「ブルース」。
+-ジャケットイラストを0108-音屋-の [[ちぃ]]氏 が、マスタリングを[[恋竹林]]の じーこば氏 が手掛ける。
+-THE VOC@LOiD M@STER 33（ボーマス33）で頒布。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++アイノコトバ feat.巡音ルカV4x
++[[泣き顔]] feat.巡音ルカV4x
++環状線 feat.巡音ルカV4x
++[[たそがれの色は恋の色]] feat.巡音ルカV4x
++笑いたかった feat.巡音ルカV4x
++ひらけごま feat.巡音ルカV4x
++[[草原郷]] feat.巡音ルカV4x
++微熱 feat.巡音ルカV4x
++君と僕のブルース feat.巡音ルカV4x
+
+**リンク
+-[[特設サイト>>http://chiquewa-cankiri.blogspot.com/]]
+-[[作者ブログ>>http://chiquewa.blogspot.jp/]]
+-[[KARENT：「かんきり」>>http://karent.jp/album/1828]]
+-[[iTunes Store>>http://itunes.apple.com/jp/album/cankiri/id1058245999]]
+
+**コメント
+#comment()

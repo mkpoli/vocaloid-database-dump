@@ -1,0 +1,28 @@
+#right(){&furigana(おーとまちっく・おーけすとら)&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1787_20150721141705_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[ツタワル、オンガク]]|CENTER:&bold(){オートマチック・オーケストラ}|CENTER:-|
+
+|&bold(){[[チャリけんP]]}|
+
+発売：2015年8月21日
+価格：￥150
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：チャリけんP
+
+**CD紹介
+-チャリけんPの配信シングル。
+-KARENTレーベルよりダウンロード販売が行われている。KARENTの初音ミク8周年記念企画で配信された作品の1つ。
+
+**曲目
++オートマチック・オーケストラ （feat. 初音ミク）
+
+**リンク
+-[[KARENT：「オートマチック・オーケストラ」>>http://karent.jp/album/1787]]
+-[[KARENT：「初音ミク 8th Anniversary」特集ページ>>http://karent.jp/special/miku15]]
+-[[iTunes Store>>https://itunes.apple.com/jp/album/automatic-orchestra-single/id1024493519]]
+
+**コメント
+#comment()

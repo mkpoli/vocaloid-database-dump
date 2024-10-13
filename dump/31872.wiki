@@ -1,0 +1,34 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+
+&nicovideo(http://www.nicovideo.jp/watch/sm26046325)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[T=H=R=E=E_EP]]|CENTER:&bold(){sineshaper}|CENTER:-|
+
+|&bold(){[[lightspop]]}|
+
+|流通|CENTER:即売|
+|発売|CENTER:2015年4月26日|
+|価格|CENTER:￥1,000（税込）|
+|サークル|CENTER:ラミツオップ|
+
+**CD紹介
+-lightspop氏の2ndアルバム。
+-インストから、ベース主体のミクオリジナル、歌ものポップスまで、完全フロア仕様のミックスで全7曲収録。
+-四つ打ちで困ったら割と重宝されるようなポジション目指しました。DJやってる方にもぜひお手に取ってほしい！（作者コメ転載）
+-THE VOC@LOiD 超 M@STER 31（超ボーマス4）にてリリース。
+
+**曲目
++one chance
++[[taletuber]]
++[[manuever>>http://www.nicovideo.jp/watch/sm25848423]]
++[[owned love]]
++sineshaper
++the and the
++[[dryout]]
+
+**リンク
+-[[ラミツオップ（サークルブログ）>>http://ameblo.jp/lamitsuop/]]
+
+**コメント
+#comment

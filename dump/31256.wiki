@@ -1,0 +1,40 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#amazon(B00H9GIPQE)
+
+&youtube(https://www.youtube.com/watch?v=hVWzWR7uau8){336,189}
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[KARENT presents ゆきのねいろ feat. 初音ミク]]|CENTER:&bold(){KARENT presents 夏色シンガソン feat. 初音ミク}|CENTER:[[KARENT presents スカイライトシアター feat. 初音ミク]]|
+
+|[[whoo]]|[[Clean Tears]]|[[はりー]]|[[ぱん]]|[[小林オニキス]]|
+|[[tarezo]]|[[味噌汁P]]|[[narry]]|[[Rin（ぎん）]]|[[ハチ]]|
+
+発売：2013年8月30日
+価格：￥1,500（税込）
+流通：限定販売
+レーベル：KARENT
+
+**CD紹介
+>&bold(){「夏を旅しよう、歌でも歌ってさ」}
+>&bold(){積乱雲の浮かぶ青空の下、太陽にきらめく世界。}
+>&bold(){聴こえてくるのは南風をまとわせながら流れる彼女のメロディー。}
+-KARENTレーベルのコンセプトコンピレーションCD第5弾。
+-「夏」がテーマのマジカルミライイベント開催記念限定生産アルバム。
+
+**曲目
++[[Parades]] / whoo feat. 初音ミク 
++[[アラビアン・レスポンス]] / Clean Tears feat. 初音ミク
++[[EARTH DAY]] / はりー feat. 初音ミク 
++[[Ice Cafe Latte (Just a Cream)]] / ぱん feat. 初音ミク 
++[[サイハテ]] Ukulele ver. / The Original : 小林オニキス　Ukulele＆Arrangement : tarezo 
++[[水色サマーデイズ]] / ちばけんいち feat. 初音ミク 
++[[carnelian]] / narry feat. 初音ミク
++[[IROHA>IROHA/Rin（ぎん）]] / ぎんすけ feat. 初音ミク
++[[ワンダーランドと羊の歌]] / ハチ feat. 初音ミク
+
+**リンク
+-[[KARENTレーベル CD紹介ページ>>http://karent.jp/cd/5]]
+-[[amazon>>http://www.amazon.co.jp/dp/B00H9GIPQE]]
+
+**コメント
+#comment()

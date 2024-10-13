@@ -1,0 +1,70 @@
+#right(){&furigana(きせつうた)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm21333904)|&youtube(https://www.youtube.com/watch?v=6huvFW4k0xY){342,187}|
+作詞：[[黒澤まどか]]
+作曲：[[黒澤まどか]]
+編曲：[[黒澤まどか]]
+唄：&color(HotPink){巡音ルカ}・&color(Gold){鏡音リン Sweet}・&color(Crimson){MEIKO}・&color(LightSeaGreen){初音ミク Soft}
+
+**曲紹介
+>&bold(){" めぐりめぐるかな　きせつうた "}
+-黒澤まどか氏 によるVOCALOID和風曲。
+-イラストを 椿みどり氏 が手掛ける。
+
+**歌詞
+//（[[引用元のサイト>>引用元のURL]]より転載）
+&color(HotPink){まるいつぼみ　ふくらんで}
+&color(HotPink){なたねづゆが　やんだなら}
+&color(HotPink){あそぶとりの　さえずりと}
+&color(HotPink){にわでまわる　もんきちょう}
+&color(HotPink){めぐりめぐるかな　きせつうた}
+&color(HotPink){ゆらりゆらり　やまざくら}
+&color(HotPink){あわいはるの　おとずれに}
+&color(HotPink){そっとおがわ　ながめたら}
+&color(HotPink){ちいさなさかなが　およぎます}
+
+&color(Gold){おひさまかて　あせばんで}
+&color(Gold){いなほみのり　そだってく}
+&color(Gold){こよいまちに　あつまれば}
+&color(Gold){はなびのおと　なつまつり}
+&color(Gold){めぐりめぐるかな　きせつうた}
+&color(Gold){きらりきらり　あまのがわ}
+&color(Gold){やみにぬれる　よるがおと}
+&color(Gold){かぜのにおい　かんじたら}
+&color(Gold){ゆたかなこだちが　ざわめくよ}
+
+&color(Crimson){おちたこのは　じゅうたんに}
+&color(Crimson){うえをむけば　あきのそら}
+&color(Crimson){とんでならべ　あかとんぼ}
+&color(Crimson){わらべのうた　とおからず}
+&color(Crimson){めぐりめぐるかな　きせつうた}
+&color(Crimson){ひゅるりひゅるり　こがらしよ}
+&color(Crimson){あのひさいた　まんじゅしゃげ}
+&color(Crimson){まるでせなか　おすように}
+&color(Crimson){からすがなくから　かえろうか}
+
+&color(LightSeaGreen){はだにしみる　からっかぜ}
+&color(LightSeaGreen){しもよつづく　としのくれ}
+&color(LightSeaGreen){ふゆはかぞく　よりそって}
+&color(LightSeaGreen){ねむるとこの　あたたかさ}
+&color(LightSeaGreen){めぐりめぐるかな　きせつうた}
+&color(LightSeaGreen){ちらりちらり　ささめゆき}
+&color(LightSeaGreen){がらんさすを　めでながら}
+&color(LightSeaGreen){やがてはるを　むかえよう}
+&color(LightSeaGreen){あなたにとどけと　うたいます}
+
+めぐれめぐれ　いつまでも
+めぐりめぐる　きせつうた
+
+めぐれめぐれ　いつまでも
+このよにいのちが　あるかぎり
+
+
+**コメント
+- いい  -- 名無しさん  (2015-02-12 00:21:23)
+- ヤバい皆最高！  -- 名無しさん  (2015-10-10 18:26:56)
+- いい曲  -- 名無しさん  (2018-03-14 12:00:23)
+#comment()

@@ -1,0 +1,69 @@
+#right(){&furigana(おうどんたべたい)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo(sm26150930)
+作詞：[[みーぼ]]
+作曲：[[みーぼ]]
+編曲：[[みーぼ]]
+唄：[[結月ゆかり]]・[[初音ミク]]
+
+**曲紹介
+>正直おうどんよりラーメンが好きです&nowiki(){ヽ('ω' )ゝ}
+曲名：『&u(){おうどんたべたい}』
+-ゆかりさんとミクさんがずっとニートしていたので短いですが歌っていただきました。&br()ボカロを使うのははじめてになります。（動画説明文より転載）
+--そんなことよりおうどんたべたい&nowiki(){_(:3｣∠)_}
+--某チルノフの動画と関連性はない。&size(8){（タイトルの元ネタは恐らくその動画であるとは思われるが）}
+-イラストも みーぼ 氏自身が描いたものである。
+
+**歌詞
+（動画より書き起こし）
+#expand(236){{{
+#center(){&color(purple){( ・ω・ )}&color(aqua){( ・ω・ )}}
+
+#left(){&space(1)&color(purple){おーうーどーん}}
+#right(){&color(aqua){おーうーどーん&space(1)}}
+#center(){&color(purple){( ˘ω˘ )}&color(aqua){( ˘ω˘ )}}
+
+#center(){&color(purple){( ・ω・ )}&color(aqua){( ・ω・ )}}
+#left(){&color(purple){おうどんたべたい}}
+#right(){&color(aqua){おうどんたべたい}}
+#left(){&color(purple){おうどんたべたい}}
+#right(){&color(aqua){おうどんたべたい}}
+#left(){&color(purple){おうどんたべたい}}
+#right(){&color(aqua){おうどんたべたい}}
+#left(){&color(purple){おうどんたべたい}}
+#right(){&color(aqua){おうどんたべたい}}
+#left(){&color(purple){おうどんたべたい}}
+#right(){&color(aqua){おうどんたべたい}}
+#left(){&color(purple){おうどんたべたい}}
+#right(){&color(aqua){おうどんたべたい}}
+#left(){&color(purple){おうどんたべたい}}
+#right(){&color(aqua){おうどんたべたい}}
+
+#center(){&color(purple){おーうー}&space(9)&color(aqua){きつねうどん　わかめうどん}}
+#center(){&color(purple){どーん}&space(16)&color(aqua){にくうどん　つきみうどん}}
+#center(){&color(purple){おーうー}&space(7)&color(aqua){ごもくうどん　かまたまうどん}}
+#center(){&color(purple){どーん}&space(8)&color(aqua){かれーうどん　ぶっかけうどん}}
+
+#left(){&color(purple){おうどんたべたい}}
+#right(){&color(aqua){おうどんたべたい}}
+#left(){&color(purple){おうどんたべたい}}
+#right(){&color(aqua){おうどんたべたい}}
+#left(){&color(purple){おうどんたべたい}}
+#right(){&color(aqua){おうどんたべたい}}
+#left(){&color(purple){おうどんたべたい}}
+
+#center(){&color(purple){おうどん}&color(aqua){たべたい}}
+
+#center(){&italic(){&color(lightgreen){ごはんたけたよー}}}
+#center(){&color(purple){(´・ω・｀)}&color(aqua){(´・ω・｀)}}
+
+}}}
+
+**コメント
+- ！？　まさかの記事作成ありがとうございますすす( ( ('ω') ) ) )  -- みーぼ  (2015-05-19 03:17:15)
+- 本当におうどん食べたくなってくる……  -- おっうどんおっうどん♪  (2015-11-24 21:35:40)
+- おうどん食べたいです。でもお腹いっぱい(現在)  -- トマト狂信者  (2024-02-17 23:08:33)
+#comment()

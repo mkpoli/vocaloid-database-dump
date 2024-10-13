@@ -1,0 +1,41 @@
+#right(){&furigana(よこはまばとるらいん)&furigana()【登録タグ:&tags() 】}
+
+&ref(https://vocadb.net/Album/CoverPicture/9825?v=,x=300,y=300)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[SECRET8]]&br()[[東京リアルワールド>東京リアルワールド/CD]]|CENTER:[[PLANET8]]&br()&bold(){横浜バトルライン}|CENTER:[[大阪アンダーグラウンド>大阪アンダーグラウンド/CD]]|
+
+|&bold(){[[out of survice]]}|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|>|CENTER:2013年11月17日|
+|価格|CENTER:|CENTER:￥500（税別）|
+|サークル|>|CENTER:out of survice|
+
+**CD紹介
+-out of survice氏の2ndシングル。
+-前作同様、2ndアルバム『[[PLANET8]]』と同時頒布。
+-THE VOC@LOiD M@STER 27（ボーマス27）にて頒布。
+-とらのあなで委託販売が行われている。
+
+**曲目
++[[横浜バトルライン]]
++[[おかえり>おかえり/out of survice]]
++横浜バトルライン（Instrumental）
++[[7th room]]（Instrumental）
++METABOLICキューブ（Instrumental）
++[[錻のツバメ]]（Instrumental）
++[[メテオライト・サテライト]]（Instrumental）
++トワイライトヒイロウ（Instrumental）
++嘘吐ストラーデ（Instrumental）
++泥彩art（Instrumental）
++the prismatic humanizer（Instrumental）
++revii（Instrumental）
+
+**リンク
+-[[OUT OF SURVICE Official WebSite（作者ホームページ）>>http://outofsurvice.com/]]
+-[[Twitter>>http://twitter.com/outofsurvice]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/22/54/040030225470.html]]
+
+**コメント
+#comment()

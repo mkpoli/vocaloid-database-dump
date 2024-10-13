@@ -1,0 +1,61 @@
+#right(){&furigana(ほうきゃくにっき)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+#amazon(B00WS0QICE)
+&nicovideo(sm26063303)
+
+|BGCOLOR(white):COLOR(black):CENTER:前作|BGCOLOR(white):COLOR(black):CENTER:本作|BGCOLOR(white):COLOR(black):CENTER:次作|
+|BGCOLOR(white):COLOR(black):CENTER:[[Mirror Play]]|BGCOLOR(white):COLOR(black):CENTER:&bold(){忘却日記}|BGCOLOR(white):COLOR(black):CENTER:[[4月44日]]|
+
+&bold(){鳴る小説シリーズ}
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){忘却日記}|CENTER:[[絶望接種>絶望接種/CD]]|
+
+|BGCOLOR(white):COLOR(black):&bold(){[[Diarays]]}|
+
+|BGCOLOR(white):COLOR(black):CENTER:流通|BGCOLOR(black):COLOR(white):CENTER:即売|CENTER:同人|
+|BGCOLOR(white):COLOR(black):CENTER:発売|BGCOLOR(black):COLOR(white):CENTER:2015年4月25日||
+|BGCOLOR(white):COLOR(black):CENTER:価格|BGCOLOR(black):COLOR(white):CENTER:￥1,000||
+|BGCOLOR(white):COLOR(black):CENTER:サークル|BGCOLOR(black):COLOR(white):CENTER:Diarays||
+
+**CD紹介
+>&bold(){”教育” ”失明” ”正夢” ”忘却”&br()&br()「メア、もう一度お母さんに会いたいかい？」&br()「まーたこんなとこで本読んでたのか、ナツキ」&br()「ソラ、どこにいるの？」&br()「お兄ちゃん、お母さん、星が綺麗だね。」}
+-&bold(){物語音楽シリーズ「鳴る小説」第一幕。}
+-3人組音楽ユニット「Diarays」としてのラストアルバムとなる。
+-ピアノアレンジ・オーケストラアレンジ等を含む全9曲を収録。
+-日記型トールケースで、物語のヒントとなる見開き小説の付録付き。
+-アルバムイラストはうに氏、日記デザイン・シリーズイラストは[[房野聖]]氏が手掛ける。
+-THE VOC@LOiD 超 M@STER 31（超ボーマス4）にてリリース。
+-&s(){Amazon、とらのあなでの販売も行っている。}
+-&bold(){2024年絶版。}
+>&bold(){&u(){Character&Cast}}
+>&bold(){メア}　[[初音ミク]]
+>&bold(){ユマ}　[[MAYU]]
+>&bold(){ナイト}　[[IA]]
+>&bold(){ソラ}　[[鏡音レン>鏡音リン・レン]]
+>&bold(){ナツキ}　[[鏡音リン>鏡音リン・レン]]
+
+**曲目
+|BGCOLOR(black):COLOR(white):CENTER:&font(b,11pt){　一}|BGCOLOR(white):COLOR(black):CENTER:&font(11pt){ダリーナの後悔}|BGCOLOR(black):COLOR(white):CENTER:&font(10pt){　　}|
+|BGCOLOR(black):COLOR(white):CENTER:&font(b,11pt){　二}|BGCOLOR(white):COLOR(black):CENTER:&font(11pt){[[メアの教育]] feat.初音ミク}|BGCOLOR(black):COLOR(white):CENTER:&font(10pt){”何故教えるの？”}|
+|BGCOLOR(black):COLOR(white):CENTER:&font(b,11pt){　三}|BGCOLOR(white):COLOR(black):CENTER:&font(11pt){[[8月32日>8月32日/Diarays]] feat.鏡音リン・鏡音レン}|BGCOLOR(black):COLOR(white):CENTER:&font(10pt){”何故求めるの？”}|
+|BGCOLOR(black):COLOR(white):CENTER:&font(b,11pt){　四}|BGCOLOR(white):COLOR(black):CENTER:&font(11pt){4月18日}|BGCOLOR(black):COLOR(white):CENTER:&font(10pt){　　}|
+|BGCOLOR(black):COLOR(white):CENTER:&font(b,11pt){　五}|BGCOLOR(white):COLOR(black):CENTER:&font(11pt){[[ユマの失明]] feat.MAYU}|BGCOLOR(black):COLOR(white):CENTER:&font(10pt){”何故失うの？”}|
+|BGCOLOR(black):COLOR(white):CENTER:&font(b,11pt){　六}|BGCOLOR(white):COLOR(black):CENTER:&font(11pt){[[ナイトの正夢]]　feat.IA}|BGCOLOR(black):COLOR(white):CENTER:&font(10pt){”何故夢見るの？”}|
+|BGCOLOR(black):COLOR(white):CENTER:&font(b,11pt){　七}|BGCOLOR(white):COLOR(black):CENTER:&font(11pt){ユマの失命}|BGCOLOR(black):COLOR(white):CENTER:&font(10pt){　　}|
+|BGCOLOR(black):COLOR(white):CENTER:&font(b,11pt){　八}|BGCOLOR(white):COLOR(black):CENTER:&font(11pt){[[4月44日]] feat.鏡音リン・鏡音レン}|BGCOLOR(black):COLOR(white):CENTER:&font(10pt){”何故愛するの？”}|
+|BGCOLOR(black):COLOR(white):CENTER:&font(b,11pt){　九}|BGCOLOR(white):COLOR(black):CENTER:&font(11pt){　[[忘却日記]] feat.初音ミク・鏡音リン・鏡音レン・IA・MAYU}　|BGCOLOR(black):COLOR(white):CENTER:&font(10pt){”何故忘れるの？”}|
+
+**リンク
+-[[Twitter（コウ）>>http://twitter.com/kou_diarays]]
+-[[Twitter（rins）>>http://twitter.com/rins_diarays]]
+-[[Twitter（ショウタロス）>>http://twitter.com/sho_diarays]]
+-[[Amazon>>http://www.amazon.co.jp/dp/B00WS0QICE]]
+-[[とらのあな>>http://ec.toranoana.jp/tora_r/ec/item/040030305063]]
+
+**コメント
+- 追加乙！！今度こそこの人のアルバムを買う！！  -- 良太  (2015-04-21 22:38:26)
+- 追加乙です！  -- Dream  (2016-09-08 22:00:18)
+#comment()

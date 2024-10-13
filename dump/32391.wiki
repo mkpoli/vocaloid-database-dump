@@ -1,0 +1,43 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+|&nicovideo(sm25919376)|&youtube(https://www.youtube.com/watch?v=68-JXowrNcU){342,187}|
+|&youtube(https://www.youtube.com/watch?v=cK2HON8u5OU){342,187}||
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[HeatHazeSUMMER]]|CENTER:&bold(){Resonance↔line}|CENTER:[[IN]]|
+
+|&bold(){[[23]]}|
+
+|流通|CENTER:即売|CENTER:配信|
+|発売|CENTER:2015年4月25日|CENTER:2015年4月27日|
+|価格|CENTER:￥1,000（税込）|CENTER:￥1,000（税込）|
+|サークル|CENTER:23.exe & FOS+||
+
+**CD紹介
+-23氏の記念すべき初フルアルバム。
+-主に、クラブミュージック系の曲が収録されている。
+-THE VOC@LOiD 超 M@STER31にてリリースされた。&br()（ちなみに、同じブースにいたのは同じくボカロPのFOS+氏。）
+-のちに、Bandcampでダウンロード販売。
+
+**曲目
++共鳴
++[[Colorful paint]]
++[[感情交差点]]
++[[The R]]
++[[OneMoreTime!]]
++[[ひとり言Morning]]
++[[Surely↲Someday]]
++New experience
++[[D.n.R]]
++[[群青世界の空]]
++How have you been?
++[[Resonance↔line]]
++[[beyond the edɘn b-side story]]
++[[素晴らしい世界>素晴らしい世界/23]]
++[[It doesn't matter anyway]]
+
+**リンク
+-[[ダウンロード先>>https://23exe.bandcamp.com/album/resonance-line]]
+
+
+**コメント
+#comment()

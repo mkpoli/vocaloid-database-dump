@@ -1,0 +1,35 @@
+#right(){&furigana(ぼんじんてきひにちじょうあーかいぶ)&furigana()【登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186147974.jpg,x=300,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm19542154)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){凡人的非日常アーカイブ}|CENTER:-|
+
+|&bold(){[[藤本薪]]}|&bold(){[[ぴすたP]]}|
+
+発売：2012年12月15日
+価格：￥500
+流通：即売
+サークル：藤ピスマーケット
+
+**CD紹介
+-クリエイター藤本薪とぴすた、そして絵師あをこがアートワークを手掛けるスプリットアルバム。
+-全6曲。
+-THE VOC@LOiD M@STER 23（ボーマス23）で頒布。
+
+**曲目
++[[ネクラダンサー]]　　　　作詞曲/藤本薪
++[[都落マリアージュ]]　　　作詞曲/ぴすた
++キャトルミーベイビー　作詞曲/藤本薪
++[[オシャレ泥棒と色眼鏡]]　作詞曲/ぴすた
++[[17才>17歳]]　　　　　　　　作詞曲/藤本薪
++[[午前二時に宇宙人と遭遇した場合]]（リンver.）　　 作詞曲/ぴすた
+
+**リンク
+-[[藤本薪twitter>>http://twitter.com/fujiphone]]
+-[[ぴすたtwitter>>http://twitter.com/pista_choo]]
+
+**コメント
+#comment()

@@ -1,0 +1,36 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#ref(http://karent.jp/npdca/1805_20150920175412_0280_0280.jpg)
+&nicovideo(http://www.nicovideo.jp/watch/sm27492903)
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Electric Intoxication>Electric Intoxication/CD]]|CENTER:&bold(){Presage of Collapse～崩壊の前兆～}|CENTER:-|
+
+|&bold(){[[BingoBongoP]]}|
+
+発売：2015年11月5日
+価格：￥900
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：[[konpasu>>http://piapro.jp/konpasu]]
+
+**CD紹介
+-BingoBongoPの9曲入り配信アルバム。
+-KARENTレーベルよりダウンロード販売が行われている。KARENTのMEIKO11周年記念企画で配信された作品の1つ。
+
+**曲目
++[[Last Terrorism.>-Last Terrorism.-]] （feat. MEIKO V1）
++[[此岸の空>－此岸の空－]] （feat. MEIKO V1）
++[[贄の方舟 -Ark of Sacrifice->－贄の箱舟－]] （feat. MEIKO V1）
++[[PLANET OF SILENCE]] （feat. MEIKO V1）
++[[強ク為レ]] Ver.V3 （feat. MEIKO V3）
++Transient Flowers - Idol Starの悲劇 - （feat. 巡音ルカ V2）
++[[Blood'n Cherry]] （feat. MEIKO V1 & 巡音ルカ V2）
++[[リサイクル]]（2015） （feat. MEIKO V1）
++Last Terrorism. Ver.V3 （feat. MEIKO V3）
+
+**リンク
+-[[KARENT：「Presage of Collapse～崩壊の前兆～」>>http://karent.jp/album/1805]]
+-[[KARENT：「MEIKO記念祭'15」特集ページ>>http://karent.jp/special/meiko15]]
+-[[iTunes Store>>http://itunes.apple.com/jp/album/presage-of-collapse/id1054837688]]
+
+**コメント
+#comment()

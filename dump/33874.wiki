@@ -1,0 +1,51 @@
+#right(){&furigana(げんそうずかん)&furigana()【登録タグ:&tags() 】}
+
+&ref(https://static.wixstatic.com/media/a3dc88_b4de605846be4fc691d90c84beed652c.png,x=300,y=300)
+
+|&nicovideo(sm26040630)|&YouTube(http://www.youtube.com/watch?v=Mmz1tQR_g0M)|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){弦想図鑑}|CENTER:[[弦想図鑑Ⅱ]]|
+
+|&bold(){[[上村香月]]}|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|CENTER:2015年4月26日||
+|価格|CENTER:￥1,500（税込）|CENTER:￥1,700（税込み）|
+|サークル|CENTER:Croier||
+
+**CD紹介
+-上村香月氏のファーストアルバム。
+-SOUND VOLTEX収録曲3曲を含む全17曲+ボーナストラック。
+-イラストはみずは氏。
+-ゲストボーカルにぁゅ氏を迎えている。
+-M3-2015春で頒布。
+-THREE!で委託販売が行われている。
+
+**曲目
++[[神となり彼がみた境界線>神となり彼が見た境界線]]
++Alcor
++銃創のフロンティア
++[[白い世界のメロディ]]
++[[プルメリア>プルメリア/上村香月]]
++[[ネモフィラ]]
++[[PROTOTYPE>PROTOTYPE/上村香月]]
++[[dress]]
++[[further the future]]
++[[やはりリアルはラスボスでした。]]
++ヘタレなワタシの恋心
++[[Cicatrix]]
++MY TAIL
++[[reach for the sky]]
++[[桜花乱舞>桜花乱舞/上村香月]]
++[[二人だけの地図>ふたりだけの地図]]
++MR.G
++（BONUS TRACK）[[自由のための不自由]] feat. ぁゅ
+
+**リンク
+-[[作者サイト>>http://guitaremission.wix.com/katsukihp]]
+-[[twitter>>http://twitter.com/GuitarEmission]]
+-[[THREE!>>http://www.lagoa.jp/shopdetail/000000001764/]]
+
+**コメント
+#comment()

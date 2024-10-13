@@ -1,0 +1,40 @@
+#right(){&furigana(ちゃころ)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/13496978" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/13496978">【ニコニコ動画】ちゃころBOX</a></iframe><a target="_blank" href="http://www.nicovideo.jp/mylist/13496978">【ニコニコ動画】ちゃころBOX</a>)
+
+**特徴
+-柔らかく美しい色使いと多彩な表現が魅力の絵描きさん。
+-主にニコニコ動画などのネット上やコミティアなどのイベントで活動している。
+-ニコニコ動画では[[sasakure.UK（ささくれP）>ささくれP]] や [[acane_madder]]氏 とのコラボが多く見られる。
+-2009年7月12日投稿のささくれPの楽曲 「[[ぼくらの16bit戦争]]」 が初出。
+-acane_madder氏 の楽曲ではイラストだけでなく映像制作も手掛けている。
+-2014年10月14日投稿の 「[[tig-hug]]」 より、ネット上での名義を &bold(){リサナカムラ} に統一した。
+
+**リンク
+-[[Chacorl（個人HP）>>http://puna.bona.jp/]]
+-[[tumblr>>http://chakoro.tumblr.com/]]
+-[[Twitter>>https://twitter.com/rechakoro]]
+
+**曲
+#list_by_tag(茶ころ,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(茶ころCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm7610111)|&nicovideo(http://www.nicovideo.jp/watch/sm8639738)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm10948305)|&nicovideo(http://www.nicovideo.jp/watch/sm11323864)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm16452153)|&nicovideo(http://www.nicovideo.jp/watch/sm17068863)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm17704557)|&nicovideo(http://www.nicovideo.jp/watch/sm18813167)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm20136093)|&nicovideo(http://www.nicovideo.jp/watch/1366014863)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm24691229)||
+
+#region(VOCALOID以外の動画)
+|&nicovideo(http://www.nicovideo.jp/watch/sm10948263)|&nicovideo(http://www.nicovideo.jp/watch/1314353835)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm15862578)|&nicovideo(http://www.nicovideo.jp/watch/sm16391467)|
+|&nicovideo(http://www.nicovideo.jp/watch/1331821159)|&nicovideo(http://www.nicovideo.jp/watch/1344428782)|
+|&nicovideo(http://www.nicovideo.jp/watch/1349307588)|&nicovideo(http://www.nicovideo.jp/watch/sm20147123)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm22859936)||
+#endregion
+
+**コメント
+#comment()

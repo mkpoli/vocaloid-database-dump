@@ -1,0 +1,35 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186146926.jpg,x=300,y=300)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Seventh Heavens]]|CENTER:&bold(){くるくるふわふわ／アニバーサリー}|CENTER:[[アニバーサリー]]|
+
+|&bold(){[[キッドP]]}|[[残鏡P]]|[[クリスタルP]]|[[おればななP]]|[[パプリカP]]|
+
+|発売|CENTER:2014年11月3日|CENTER:2014年11月5日|
+|価格|CENTER:￥500|CENTER:￥500+α|
+|流通|CENTER:即売|CENTER:通販|
+|サークル|CENTER:3レン腐|CENTER:クリキッド|
+
+**CD紹介
+-新曲「くるくるふわふわ」とアルバムからのカット曲「アニバーサリー」を収録したシングル。
+-「アニバーサリー」はレンバージョンと、パプリカPによるMEIKOバージョンを収録。
+-Jacket Illustrations：[[碧茶]]、みおざきもずく、Design：猫凪みさお
+-「鏡音さんぽ」で頒布。
+-期間限定で自家通販が行われる。
+
+**曲目
++[[くるくるふわふわ]]
++-Lyrics:残鏡P／Music:キッド／Arrangement:HzEdge（クリスタルP）／調声：おればななP
++[[アニバーサリー]] (MEIKO ver.)
++-Lyrics:パプリカP／Music:キッド／Arrangement:HzEdge（クリスタルP）／調声：パプリカP
++アニバーサリー (LEN ver.)
++くるくるふわふわ (instrumental)
++アニバーサリー (instrumental)
+
+**リンク
+-[[作者ブログ>>http://yaplog.jp/kidsworks/]]
+
+**コメント
+#comment()

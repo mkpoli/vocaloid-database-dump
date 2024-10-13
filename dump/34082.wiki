@@ -1,0 +1,44 @@
+#right(){&furigana(seano)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://ext.nicovideo.jp/thumb_mylist/31363947" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/31363947">【ニコニコ動画】シーノイズ</a></iframe>)
+
+**特徴
+作り手名：『&u(){sea-no}』（&u(){シーノ}）
+-エレクトロニカな曲調の楽曲を投稿している作り手。
+-音楽ユニットelectro seadropでも活動している。
+
+**リンク
+-[[HP>>https://www.sea-no.net/]]
+--[[旧HP>>https://sea-no-music.tumblr.com/]]
+-[[ニコニコ>>https://www.nicovideo.jp/user/26090726]]
+-[[YouTube>>https://www.youtube.com/watch?v=@seahiyori]]
+-[[Twitter>>https://twitter.com/sealoid]]
+-[[Piapro>>https://piapro.jp/sealoid]]
+
+**曲
+#list_by_tag(sea-no,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(sea-noCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm21603949)|&nicovideo(sm23598623)|
+|&nicovideo(sm24087755)|&nicovideo(sm24137790)|
+|&nicovideo(sm24593007)|&nicovideo(sm24660197)|
+|&nicovideo(sm25359561)|&nicovideo(sm25496661)|
+|&nicovideo(sm25836822)|&nicovideo(sm26040077)|
+|&nicovideo(sm26299359)|&nicovideo(sm26392135)|
+|&nicovideo(sm26579891)|&nicovideo(sm26709843)|
+|&nicovideo(sm26990392)|&nicovideo(sm27608730)|
+|&nicovideo(sm28790810)|&nicovideo(sm29418885)|
+|&nicovideo(sm30236216)|&nicovideo(sm31069883)|
+|&nicovideo(sm31317863)|&nicovideo(sm31391185)|
+|&nicovideo(sm33329560)|&nicovideo(sm34006687)|
+
+**コメント
+//- このまえまでこのページ無かったのに出来てて感動 sea-noさんほんといい  -- 名無しさん  (2016-09-22 00:30:41)
+- 名前の読み方分からなかったから助かった。この人の曲に救われた、ありがとう  -- 名無しさん  (2024-07-24 14:41:24)
+#comment()

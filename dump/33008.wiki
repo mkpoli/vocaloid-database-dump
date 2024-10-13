@@ -1,0 +1,30 @@
+#right(){&furigana(げふかふP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://ext.nicovideo.jp/thumb_mylist/45499893" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/45499893">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-2014年7月11日投稿の「[[紫陽花マエストロ]]」にて、ボカロPデビューを果たす。
+-使用するVOCALOIDは初音ミク、GUMI。
+-しっとりとしたバラード、落ち着いたジャズなどを手掛ける。
+
+**リンク
+-[[Twitter>>https://twitter.com/gef_cough]]
+
+**曲
+#list_by_tag(ゲフカフP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(ゲフカフPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm23978391)|&nicovideo(sm24188875)|
+|&nicovideo(sm24343963)|&nicovideo(sm24534607)|
+|&nicovideo(sm24666482)|&nicovideo(sm25060804)|
+|&nicovideo(sm25205421)|&nicovideo(sm25781572)|
+|&nicovideo(sm25921883)|&nicovideo(sm25953220)|
+|&nicovideo(sm26017179)|&nicovideo(sm26102386)|
+|&nicovideo(sm26312447)|&nicovideo(sm26426637)|
+|&nicovideo(sm26957687)|&nicovideo(sm27140218)|
+|&nicovideo(sm27207594)||
+
+**コメント
+#comment()

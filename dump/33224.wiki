@@ -1,0 +1,33 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+
+&nicovideo(sm26029161)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){monochrome e.p.}|CENTER:[[null>null/CD]]|
+
+|&bold(){[[FOS+]]}|
+
+|流通|CENTER:即売|CENTER:配信|
+|発売|CENTER:2015年4月25日||
+|価格|>|CENTER:￥100|
+|サークル|CENTER:23.exe & FOS+||
+
+**CD紹介
+-FOS+氏の1stミニアルバム。
+-処女作『[[monochrome]]』を含む4曲入り。
+-なお、同じブースにいたのはボカロPの[[23]]氏である。
+-THE VOC@LOiD 超 M@STER 31（超ボーマス31）で頒布。
+-のちにBOOTHにて配信される。
+
+**曲目
++RGB (intro)
++[[monochrome]]
++[[crepscule rays>crepuscule rays]]
++the END ing
+
+**リンク
+-[[twitter>>http://twitter.com/fosplus]]
+-[[BOOTH>>https://booth.pm/ja/items/155069]]
+
+**コメント
+#comment()

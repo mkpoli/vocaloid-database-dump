@@ -1,0 +1,23 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/30025640" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/30025640">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-アニメやゲームの曲のカバーを投稿しているボカロP。
+-2012年1月14日にTVアニメ『日常』のOP曲「ヒャダインのじょーじょーゆーじょー」でボカロPデビュー。
+-使用するボーカロイドは鏡音リン・レン、リン・レンAppend、初音ミク、GUMI、GUMI V3、神威がくぽ V3、結月ゆかり、氷山キヨテル、Rana。
+-知名度は低いが、調声技術は折り紙つきで、扱いが難しいとされる鏡音リン・レンなどのボーカロイドを巧みに操る。
+
+**リンク
+-[[twitter>>https://twitter.com/suibuso]]
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm16689317)|&nicovideo(http://www.nicovideo.jp/watch/sm16785672)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm16891204)|&nicovideo(http://www.nicovideo.jp/watch/sm17000843)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm17274036)|&nicovideo(http://www.nicovideo.jp/watch/sm17342182)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm17480050)|&nicovideo(http://www.nicovideo.jp/watch/sm17665285)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm17726424)|&nicovideo(http://www.nicovideo.jp/watch/sm18029584)|
+
+**コメント
+- 先日ついに銀紙付PというP名を授かった模様。P名の由来は初音ミクがギンギンに歯を剥き出しにしてネギに齧り付こうとしているアイコンからギン噛み付き→銀神付になったという。  -- 名無しさん  (2016-01-04 23:13:04)
+- 脇好きトイレ我慢P。  -- 名無しさん  (2016-01-11 00:25:46)
+#comment()

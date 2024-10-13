@@ -1,0 +1,34 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1718_20150521205128_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Gallop Through the World>Gallop Through the World/CD]]|CENTER:&bold(){Distance}|CENTER:[[your voice>your voice/CD]]|
+
+|&bold(){[[BIGHEAD]]}|[[EmpathP]]|
+
+発売：2015年6月10日
+価格：￥600
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：Charmy
+
+**CD紹介
+-BIGHEAD氏の配信作品。
+-表題曲はEmpathPとのコラボ楽曲。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++[[Distance>/DISTANCE/EmpathP・BIGHEAD]] （feat. 初音ミク×巡音ルカ）
++Distance （feat. 初音ミク）
++Distance (Instrumental) （feat. 初音ミク）
++Distance (acappella) （feat. 初音ミク×巡音ルカ）
+
+**リンク
+-[[KARENT：「Distance」>>http://karent.jp/album/1718]]
+-[[iTunes Store>>http://itunes.apple.com/jp/album/distance-ep/id999708787]]
+-[[作者サイト>>http://bighead-official.tumblr.com/]]
+
+**コメント
+- アカペラはいらなかったな....  -- 名無しさん  (2015-06-10 20:39:07)
+- 毎回思うけどアカペラVerが売り物にするレベルではないんだよなぁ。どういう意図で配信してるのかは知らないが。  -- 名無しさん  (2015-08-13 21:29:31)
+#comment()

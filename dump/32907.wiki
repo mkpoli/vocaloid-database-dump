@@ -1,0 +1,37 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){BEMANI SUMMER DIARY 2015 ORIGINAL SOUNDTRACK}|CENTER:-|
+
+#image(http://www.konamistyle.jp/upload/save_image/productimage/productimage_73172_1_1.jpg,http://www.konamistyle.jp/item/73172,title=BEMANI SUMMER DIARY 2015 ORIGINAL SOUNDTRACK,blank)
+|&youtube(http://www.youtube.com/watch?v=5YUD2zo5D6M){336,189}|
+
+|[[keeno]]|
+
+発売：2015年10月21日
+価格：￥2,700（税込）
+流通：コナミスタイル限定発売
+レーベル名：KONAMI
+
+**CD紹介
+-KONAMIの音楽ゲーム「BEMANI」夏の大イベント『[[BEMANI SUMMER DIARY 2015>>http://p.eagate.573.jp/game/bemani/summer_diary2015/]]』のサウンドトラック。
+-『SOUND VOLTEX』から『GITADORA』へ移植された keeno氏 の「wound」（唄：初音ミクAppend DARK）がゲームサイズのままCD初収録となる。
+-その他、非VOCALOIDのボーカル曲・インスト曲なども含めたイベント登場曲全35曲を収録。
+-BEMANIキャラが夏休みの思い出を残したイラスト満載40ページのブックレット付属。
+
+**曲目
+-16. wound / KEENO
+　･･･その他、非VOCALOID楽曲34曲の計35曲収録。
+
+//「[[太鼓の達人 オリジナルサウンドトラック「ドンダフル!」]]」等に倣い、非VOCALOID曲のみを記載しました。
+//当サントラに収録されているVOCALOID曲は1曲だけですが「wound」は初CD化となります。
+//あまりにもボカロ曲の比率が少なすぎるとの事であればページ削除をお願いします。
+
+**リンク
+-[[KONAMISTYLE>>http://www.konamistyle.jp/item/73172]]
+
+**コメント
+- VOCALOID曲率の低いCDですが、woundがCD初収録とのことなのでページを作成しました。問題があれば削除お願いします。  -- 名無しさん  (2015-09-06 01:54:52)
+- 何これ  -- 名無しさん  (2015-09-06 09:10:43)
+- wound良い曲なんだけどKONAMIに権利譲渡してるからソロアルバムに入る見込みがないのがねぇ...  -- 名無しさん  (2016-08-06 18:49:12)
+- keeno様〜  -- 名無しさん  (2016-08-06 19:03:08)
+#comment()

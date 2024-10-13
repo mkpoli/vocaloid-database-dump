@@ -1,0 +1,39 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+
+|&nicovideo(sm27455083)|&youtube(http://www.youtube.com/watch?v=Xi2-ybDEqPE)|
+|&nicovideo(sm27579745)||
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Pass The Meteor}|CENTER:-|
+
+|[[H12]]|[[FOS+]]|[[23]]|
+
+発売：2015年11月20日
+価格：￥800（税込）
+流通：配信（即売）
+サークル：h12-fosplus-23
+
+**CD紹介
+-fos+主催のコンピレーションアルバム。
+-3人がそれぞれ書き下ろした曲と、それをリミックスした曲が収録される予定。
+-11月20日から4日間限定で行われるネット同人即売会「APOLLO」にて発売。
+-なお1日・5日・9日に曲が、13日にクロスフェード動画がそれぞれ投稿される。
+
+**曲目
++[[Signal>Signal/H12]] / H12
++[[step on the comet]] / fos+
++[[Self-awareness]] / 23.exe
++Signal (23.exe Remix)
++step on the comet (H12 Remix)
++Self-awareness (fos+ Remix)
++Signal (fos+ Remix)
++step on the comet (23.exe Remix)
++Self-awareness (H12 Remix)
+
+**リンク
+-[[H12-fosplus-23のブース>>https://h12-fosplus-23.booth.pm/]]
+
+**コメント
+- いつかのAPOLLOで購入。クオリティ高いですね。  -- takoruka2  (2015-12-26 19:07:00)
+- bandcamp販売始まりました https://23exe.bandcamp.com/album/pass-the-meteor  -- 名無しさん  (2016-05-31 05:15:29)
+#comment()

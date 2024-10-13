@@ -1,0 +1,38 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://img.toranoana.jp/img/04/0030/08/39/040030083936-1.gif)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[We are friends,aren't We?]]|CENTER:&bold(){Slow}|CENTER:[[epitaph]]|
+
+|&bold(){[[宮沢もよよ]]}|&bold(){[[村上くるる]]}|[[ふんわりちゃん]]|[[KSK]]|[[Leggysalad]]|
+
+|流通|CENTER:即売|CENTER:委託|CENTER:配信|
+|発売|2012年10月28日|2012年11月13日|2013年5月5日|
+|価格|CENTER:￥1,000|CENTER:￥1,200（税抜）|CENTER:￥700|
+|サークル|>|>|CENTER:QUADROPHENIA|
+
+**CD紹介
+-4人組クリエイティブユニット 「QUADROPHENIA」 の3rdアルバム。
+-ゲストで LeggysaladのKevin氏 、ふんわりちゃん氏、KSK氏 が参加。
+-ジャケットイラストは あさぎり氏 が手掛ける。
+-2012年10月28日開催の M3 にて頒布。
+-とらのあな にて委託販売、BandCamp にてデータ配信が行われている。
+
+**曲目
++Ray / 宮沢もよよ
++Blanco / 宮沢もよよ
++Green Song / 宮沢もよよ
++Green Song (Leggysalad Remix) / Leggysalad
++[[トゥルリラ>トゥルリラ/宮沢もよよ]] / 宮沢もよよ
++少し秘密の午後 / ふんわりちゃん
++Sleep on a rainy day / KSK
++OPAQUE (Old Tape Process) / 村上くるる
++UMBRA (Old Tape Process) / 村上くるる
+
+**リンク
+-[[特設サイト>>http://quadrophenia.cc/works/slow/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/08/39/040030083936.html]]
+-[[BandCamp>>http://quadrophenia.bandcamp.com/album/slow]]
+
+**コメント
+#comment()

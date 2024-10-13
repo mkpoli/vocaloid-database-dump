@@ -1,0 +1,66 @@
+#right(){&furigana(Givemeyourlovetonight)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|[[PIAPRO(MEIKO版)>https://piapro.jp/t/aT-t]]|
+|[[PIAPRO(sachiko版)>https://piapro.jp/t/j2o2]]|
+作詞：[[MineK]]
+作曲：[[MineK]]
+編曲：[[MineK]]
+唄：[[MEIKO]]（オリジナル）・[[SACHIKO]]（sachiko版）
+
+**曲紹介
+曲名：『&u(){Give me your love tonight}』(&u(){ぎぶ　みー　ゆあ　らぶ　とぅないと})
+-2015年7月27日、PIAPROに投稿。
+-2015年7月29日、PIAPROにSACHIKO版を投稿。
+
+**歌詞
+（[[PIAPRO>>http://piapro.jp/t/aT-t]]より転載）
+
+1.
+アナタの事　ずっとずっと見てる
+この胸の痛み解るでしょ？
+そう簡単には逃げられない　ダメね...
+
+後戻りはしたくない
+キミしか見えない
+
+※
+Give me your love tonight!
+そっと強く抱いて欲しい　ah...
+I wanna hold you tight!
+全部受け止めて欲しい
+
+I wanna follow you...
+You are the destiny...
+だからGive me your love tonight!
+
+2.
+ワタシの事　ずっとずっと見てる
+その鋭い瞳解ってる
+もうどうにも逃げられない　ダメね...
+
+前に進むしかない
+もっと早く高く気持ち揺らして
+キミだけ見てたい
+
+※繰り返し
+
+Give me your love tonight!
+何もかもを投げ出して　ah...
+I want you hold me tight!
+全部包みこんで欲しい　ah...
+
+※繰り返し
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+**コメント
+#comment()
+
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)

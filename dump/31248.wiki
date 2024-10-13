@@ -1,0 +1,40 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&youtube(https://www.youtube.com/watch?v=YkGBsuiyzW8){336,189}
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[KARENT presents 銀雪のアリア feat. 初音ミク]]|CENTER:&bold(){KARENT presents Hopeful Snow feat. 初音ミク}|CENTER:[[KARENT presents キラユキ＊リフレクション feat. 初音ミク]]|
+
+|[[40㍍P]]|[[mato]]|[[Lemm]]|[[てぃあら]]|[[yuxuki]]|
+
+|流通|CENTER:限定販売|CENTER:配信|
+|発売|CENTER:2015年2月5日|CENTER:2018年6月1日|
+|価格|CENTER:￥1,500（税込）||
+|レーベル|>|CENTER:KARENT|
+
+**CD紹介
+>&bold(){歌声は舞う、雪と遊びながら。}
+-KARENTレーベルのコンセプトコンピレーションCD第8弾。
+-[[SNOW MIKU 2015>>http://snowmiku.com/2015/]]イベントテーマソング「Snow Fairy Story」を収録した限定生産アルバム。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++[[Snow Fairy Story]] / [[40mP>40㍍P]] feat. 初音ミク ＜SNOW MIKU 2015 テーマソング＞
++[[ゆらゆら>ゆらゆら/mato]] / [[mato]] feat. 初音ミク
++[[The Au Lait]] / [[Lemm]] feat. 初音ミク
++[[ねがい>ねがい/てぃあら]] / [[てぃあら]] feat. 初音ミク
++Journey / [[yuxuki waga>yuxuki]] feat. 初音ミク
++Snow Fairy Story Acoustic guitar ver. / Arranged by おさむらいさん ＜Bonus Track＞
+
+**リンク
+-[[SNOW MIKU 2015公式サイト>>http://snowmiku.com/2015/]]
+-[[KARENTレーベル CD紹介ページ>>http://karent.jp/cd/8]]
+-[[KARENT：「Hopeful Snow」>>http://karent.jp/album/2228]]
+-[[iTunes Store>>http://itunes.apple.com/jp/album/hopeful-snow-ep/1391015000]]
+
+**コメント
+//- なにこれ？  -- 名無しさん  (2015-01-28 23:28:56)
+//- ↑字が読めないんですか？  -- 名無しさん  (2015-01-29 00:34:22)
+- おっ一気に過去のアルバムも追加されてる。追加乙です。  -- 名無しさん  (2015-01-30 11:16:06)
+- KARENTのCDは是非一般流通してほしい。そう思えるくらい選曲が良い。  -- 名無しさん  (2015-01-30 14:31:35)
+- 欲しい、特に理由は欲しいだけ！！！  -- 名無しさん  (2015-01-30 14:37:12)
+#comment()

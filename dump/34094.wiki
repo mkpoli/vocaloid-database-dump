@@ -1,0 +1,37 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm24676426)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[blues power]]|CENTER:&bold(){in the city}|CENTER:[[LAID BACK>LAID BACK/CD]]|
+
+|&bold(){[[空海月]]}|
+
+発売：2014年10月19日
+価格：￥1,000
+流通：即売
+サークル：dDSC MUSiC
+
+**CD紹介
+-空海月氏の3rdアルバム。
+-イラストは四ノ原氏。
+-VOCALOID PARADISE 9（ボーパラ9）で初頒布。
+
+**曲目
++[[Let's easy music]]
++[[Loop Music]]
++My Sound
++[[a lover of music]]
++チョコレートサンデー
++[[季節の音]]
++[[Ocean Rain]]
++[[sweet feelin']]
++[[夏空>夏空/空海月]]
++[[Reflection>Reflection/空海月]]
++[[midnight music]]
++[[Imagination]]
+
+**リンク
+-[[twitter>>http://twitter.com/solakurage]]
+
+**コメント
+#comment()

@@ -1,0 +1,41 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/45062978" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/45062978">【ニコニコ動画】</a></iframe>)|&nicovideo_mylist(<iframe width="312" height="176" src="http://ext.nicovideo.jp/thumb_mylist/54830182" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/54830182">【ニコニコ動画】</a></iframe>)|
+
+**特徴
+-2014年7月に「[[おねがいディスカバリー]]」、「[[バイナリマーチ]]」2作同時投稿でデビューしたボカロP。
+-使用するボカロは初音ミク。
+-かわいらしいミク曲を作曲し、PVはMMDerとコラボしLat式ミクを用いた動画が多い。
+-同級生であるMMDerのテの字との間で1年間で10曲遊ぶ約束をし、無事に果たした。それ以後もコラボしている。
+-2015年12月に投稿作品のまとめとして「[[ANOMIMI EP]]」をフリーダウンロード形式でリリース。同作品には円盤P、タンポポPが参加している。
+//1年間10曲 ttps://twitter.com/anomimiz/status/605002235227996163 ttp://twitter.com/anomimiz/status/620610313046528001
+//同級生 ttps://twitter.com/anomimiz/status/643095812143091716
+
+**リンク
+-[[Twitter>>http://twitter.com/anomimiz]]
+-[[PIAPRO>>http://piapro.jp/anomimi]]
+//アイドル手帖にYouTubeの動画が貼ってありましたが本人確認が不明瞭のため後ほど削除します。
+
+**曲
+#list_by_tag(anomimi,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(anomimiCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+&b(){オリジナル曲}
+|&nicovideo(sm24065365)|&nicovideo(sm24065467)|
+|&nicovideo(sm24858544)|&nicovideo(sm24976057)|
+|&nicovideo(sm25535417)|&nicovideo(sm25765077)|
+|&nicovideo(sm25803710)|&nicovideo(sm25872266)|
+|&nicovideo(sm26383799)|&nicovideo(sm26750856)|
+|&nicovideo(sm26918701)|&nicovideo(sm27560459)|
+|&nicovideo(sm27714362)|&nicovideo(sm27893632)|
+|&nicovideo(sm28189153)|&nicovideo(sm28483752)|
+
+&b(){カバー曲}
+|&nicovideo(sm27855430)|&nicovideo(sm28382331)|
+
+**コメント
+- ページ作成しました。注意書き程度の話ですが、Macユーザでたまにある文字コードの問題でアイドル手帖など濁点のある動画が「ト」＋「゛」のような形で文字が作られているので、通常のWindowsなどの検索だと現状出しにくくなってます（仕様）ご了承ください。  -- 名無しさん  (2016-01-01 02:05:14)
+- あさってのはなし凄くいい曲で大好きです  -- 名無しさん  (2016-01-17 15:51:21)
+#comment()

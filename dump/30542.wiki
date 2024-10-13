@@ -1,0 +1,33 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Vanilla Age/Bitter Edge>Vanilla Age／Bitter Edge]]|CENTER:&bold(){Beat!Beat!Beat!}|CENTER:[[黎明Accent/夕立のラストダンス>黎明Accent／夕立のラストダンス]]|
+
+|&bold(){[[雷鳴P]]}|
+
+||CENTER:即売|CENTER:同人|
+|発売|CENTER:2011年8月7日|CENTER:2011年9月|
+|価格|CENTER:￥1,000|CENTER:￥1,050（税込）|
+|サークル|>|CENTER:Art Polyphony|
+
+**CD紹介
+-雷鳴Pの2ndフルアルバム。全9曲入り。
+-ほぼレンオンリーアルバム。
+-2011年夏のコミックマーケット（C80）にて頒布。その後とらのあなにて委託販売も開始された。
+
+**曲目
++[[恋愛感情喪失論]] / 鏡音レン
++[[カードゲーム]] / 鏡音レン
++[[Bitter-Edge]] / 鏡音レン
++[[Vanilla-Age]] / 鏡音リン
++Beat Down!!! / 鏡音レン
++[[詭弁/青春シンパシヰ>詭弁／青春シンパシヰ]] / 鏡音レン
++[[Blue>Blue/雷鳴P]] / 鏡音レン
++[[EXERION]] / 鏡音レン
++[[白い重力]] / 鏡音レン
+
+**リンク
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0020/03/17/040020031760.html]]
+-[[Art Polyphony（サークルサイト）>>http://art-polyphony.sakura.ne.jp/]]
+
+**コメント
+#comment()

@@ -1,0 +1,32 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://ext.nicovideo.jp/thumb_mylist/37456539" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/37456539">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-2014年「[[君の声が届かない場所]]」でデビュー。
+-もうイベントでCDを出すこともないし(参加ももうないと思う)ニコニコ動画とかYouTubeに曲を投稿することも無いです～( ˇωˇ )（氏の[[ツイート>>https://twitter.com/liz4kcl/status/1168871739700346880]]より引用）
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/liz_niconico]]
+-[[twitter>>http://twitter.com/liz4kcl]]
+
+**曲
+#list_by_tag(Liz.,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(Liz.CD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm23042614)|&nicovideo(http://www.nicovideo.jp/watch/sm24326514)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm24650835)|&nicovideo(http://www.nicovideo.jp/watch/sm25106452)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm25356232)|&nicovideo(http://www.nicovideo.jp/watch/sm25375633)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm25820386)|&nicovideo(http://www.nicovideo.jp/watch/sm26373835)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm26402545)|&nicovideo(http://www.nicovideo.jp/watch/sm27177907)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm27378402)|&nicovideo(http://www.nicovideo.jp/watch/sm27733964)|
+|&nicovideo(sm27841147)|&nicovideo(sm29090711)|
+|&nicovideo(sm29352039)|&nicovideo(sm29779800)|
+|&nicovideo(sm31299235)|&nicovideo(sm31638625)|
+|&nicovideo(sm32213593)|&nicovideo(sm33115591)|
+|&nicovideo(sm33604391)||
+
+**コメント
+#comment()

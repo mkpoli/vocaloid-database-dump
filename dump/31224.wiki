@@ -1,0 +1,44 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+|&ref(http://img.toranoana.jp/img/04/0030/27/44/040030274404-1.gif)&br()CD版ジャケット|&ref(http://karent.jp/npdca/1682_20150108075448_0280_0280.jpg)&br()配信版ジャケット|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[瞳にうつる景色は変わるもの]]|CENTER:&bold(){17K -Disorder}|CENTER:[[ReA]]|
+
+|&bold(){[[AVTechNO]]}|
+
+|流通|CENTER:即売|CENTER:同人|CENTER:配信|
+|発売|CENTER:2014年12月30日|CENTER:2015年1月17日|CENTER:2015年1月23日|
+|価格|CENTER:￥|CENTER:￥1,500（税別）|CENTER:￥300|
+|レーベル|||CENTER:KARENT|
+
+**CD紹介
+-AVTechNO!氏のCD作品。
+-コミックマーケット87（C87）で頒布。
+-とらのあなで委託販売が行われている。
+-KARENTレーベルよりダウンロード販売が行われている。巡音ルカ6周年記念特集で配信された作品の1つ。CD版とは収録曲数が異なる。
+-配信版のジャケットイラストは和音氏。
+
+**曲目
+***CD版
++[[17K]] （ft.巡音ルカ）
++[[06E]] （ft.巡音ルカ）
++[[XX9]] （ft.巡音ルカ）
++17K virtual sound （ft.巡音ルカ）
++7S （ft.巡音ルカ）
++06E (Instrumental)
+
+***配信版
++[[17K]] （ft. Luka Megurine） 
++[[06E]] （ft. Luka Megurine）
+
+**リンク
+-[[作者サイト>>http://x9-avtechno.wix.com/avtechno]]
+-[[作者ブログ>>http://dis.blog.wox.cc/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/27/44/040030274404.html]]
+-[[KARENT：「17K -Disorder」>>http://karent.jp/album/1682]]
+-[[KARENT：「巡音ルカ聖誕祭'15」特集ページ>>http://karent.jp/special/luka15]]
+-[[iTune Store>>https://itunes.apple.com/jp/album/17k-disorder-single/id957992870]]
+
+**コメント
+- Yourみたいにイベント頒布限定になってしまうかと思ったけど通販あってよかったぁ。あべさんありがとう。  -- 名無しさん  (2015-01-28 20:52:40)
+#comment()

@@ -1,0 +1,33 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm23364604)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[NO MEANS]]|CENTER:&b(){Sugar Brave}|CENTER:-|
+
+|&b(){[[井の頭P]]}|&b(){[[アリエP]]}|&bold(){[[mstk]]}|&bold(){[[蘭]]}|
+
+発売：2014年4月26日
+価格：￥1,000
+流通：即売
+サークル：Sugar Brave
+
+**CD紹介
+-音楽サークル「&bold(){Sugar Brave}」の3rdアルバム。
+-このアルバムのための全曲描き下ろし！
+-イラストはモゲラッタ氏。
+-THE VOC@LOiD 超 M@STER 28（超ボーマス28）で初頒布。
+
+**曲目
++Introduction
++ココロメアテ / mstk
++ボーカロイドは電気少女の夢をみるのか？ / アリエP
++どく【媚薬】入りハニー / 蘭
++恋するタンバリン / ジギル
++[[キミがいる]] / Sugar Brave
++
+
+//**リンク
+//
+**コメント
+- キミがいるとういう曲の入ったCDがほしいのですが、探せません。手に入れる方法を教えていただけませんか？  -- 名無しさん  (2016-07-20 08:44:20)
+#comment()

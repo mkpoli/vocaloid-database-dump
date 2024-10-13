@@ -1,0 +1,30 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/11719630" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/11719630">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-VOCALOIDを用いたインスト曲を多く手掛けている。
+-使用するボーカロイドは、初音ミクのみ。
+-エレクトロニカ、ポップス、シューゲイザー等、様々なジャンルの楽曲を製作している。
+-心地よい音作りに定評があり、そのセンスはアレンジやRemixでも発揮されている。
+
+**リンク
+//-個人HP、PIAPRO、muzie等ある場合は、ここに。当wiki以外のサイトへリンクを貼る場合は必ず「>>」で別ウインドウでリンクしてください。
+
+**曲
+#list_by_tag(Phasma,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(PhasmaCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|>|BGCOLOR(lightblue):COLOR(#FFF):CENTER:&font(b,11pt){オリジナル曲}|
+|&nicovideo(sm6527030)|&nicovideo(sm8707042)|
+|&nicovideo(sm11306623)|&nicovideo(sm12856692)|
+|&nicovideo(sm12960505)|&nicovideo(sm13291815)|
+|&nicovideo(sm14023769)|&nicovideo(sm16854166)|
+|&nicovideo(sm17654032)|&nicovideo(sm18403309)|
+|&nicovideo(sm21552175)||
+
+**コメント
+- EQUIVOCATIONの記事が無い(泣)  -- 名無しさん  (2016-12-10 10:28:52)
+#comment()

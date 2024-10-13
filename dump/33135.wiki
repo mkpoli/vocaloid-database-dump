@@ -1,0 +1,47 @@
+#right(){&furigana(へんすてP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://ext.nicovideo.jp/thumb_mylist/55187362" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/55187362">【ニコニコ動画】%E4%BD%9C%E3%81%A3%E3%81%9F%E3%82%82%E3%81%AE%E3%80%82</a></iframe>)
+
+**特徴
+作り手名：『&u(){ぺんすてP}』
+-初のボカロオリジナル曲は「[[はじまりのうた。]]」。
+-使用VOCALOIDは、初音ミク、巡音ルカ、蒼姫ラピス。
+-投稿しようとして作ってる曲があるのに　ネタ曲を作り始めて終わらないという事が多々あるらしい…。
+-本人曰く、「作曲できても歌詞浮かばない（泣）」ので、歌詞のフレーズをリスナーに求めるという曲作りスタイルである。
+-自身の作品の中で１番のみの曲はぺんすて節と呼んでいる（よく炸裂しているらしい…）。
+-「[[trick or love to me]]」では、自身初となる2525再生を達成した。
+-一度うｐしてた動画を全て削除したため再度新しく投稿された。
+
+**リンク
+-[[ピアプロ>>https://piapro.jp/ranebune]]
+//-[[ニコニコミュニティ>>https://com.nicovideo.jp/community/co2918224]]
+-[[Twitter>>https://twitter.com/pensute]]
+-[[ニコニコ>>https://www.nicovideo.jp/user/56012457]]
+-[[YouTube>>https://www.youtube.com/@user-hr6hn3ht4l]]
+
+**曲
+#list_by_tag(ぺんすてP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(ぺんすてPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm28425879)|&nicovideo(sm28425900)|
+|&nicovideo(sm28425907)|&nicovideo(sm28425915)|
+|&nicovideo(sm28425921)|&nicovideo(sm28425931)|
+|&nicovideo(sm28425939)|&nicovideo(sm28425947)|
+|&nicovideo(sm28425959)|&nicovideo(sm28425984)|
+|&nicovideo(sm28425990)|&nicovideo(sm28426009)|
+|&nicovideo(sm28426019)|&nicovideo(sm28426030)|
+|&nicovideo(sm28426041)|&nicovideo(sm28426049)|
+|&nicovideo(sm28496533)|&nicovideo(sm28679277)|
+|&nicovideo(sm28994106)|&nicovideo(sm29032713)|
+|&nicovideo(sm29077497)|&nicovideo(sm29098751)|
+|&nicovideo(sm29443524)|&nicovideo(sm29630463)|
+|&nicovideo(sm29869595)|&nicovideo(sm30157240)|
+
+**コメント
+#comment()

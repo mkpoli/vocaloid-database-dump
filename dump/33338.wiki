@@ -1,0 +1,63 @@
+#right(){&furigana(HighTensionBeat)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|[[High Tension Beat>>http://piapro.jp/t/i5IY]]|
+作詞：[[MineK]]
+作曲：[[MineK]]
+編曲：[[MineK]]
+唄：[[神威がくぽ>がくっぽいど]]
+
+**曲紹介
+曲名：『&u(){High Tension Beat}』(&u(){はい　てんしょん　びーと})
+-2015年7月31日、PIAPROに投稿。
+
+**歌詞
+（[[PIAPRO>>http://piapro.jp/t/i5IY]]より転載）
+
+1.
+　酒を飲むなら地獄まで　とことん付き合ってくれよ
+　飲んでみなけりゃ解らないだろ？
+　記憶をなくしてからが天国だから
+
+　ウィスキーのロックがぶ飲みすれば
+　フラれた事なんかすぐに忘れられるぜ
+　そしてそのまままだ見ぬ異次元の世界へTRIP
+
+　行くぜ！High Tension Beat(Beat...Beat...)
+　とにかくHigh Tension Beat(Beat...Beat...)
+　めちゃくちゃHigh Tension Beat(Beat...Beat...)
+　Hah...たまらずBi Bi Bi Bi Bi
+
+2.
+　ナンパするならお持ち帰りするつもりでやらなきゃ
+　多少の出費は惜しまない
+　最終的に求められるのは金なんだから
+
+　イイ女はイイ男に寄ってくる？そんなの関係ないさ
+　強引さと諦めない無駄な自身さえあればいい
+
+　起動！High Tension Beat(Beat...Beat...)
+　ひたすらHigh Tension Beat(Beat...Beat...)
+　どんだけHigh Tension Beat(Beat...Beat...)
+　Hah...思わずPi Pi Pi Pi Pi
+
+　Ah...純情なんてこの世には存在しない　あるのはただの性欲と
+　支配欲にまみれただけのただの偽善者達の群れ
+
+　攻めろ！High Tension Beat(Beat...Beat...)
+　いつでもHigh Tension Beat(Beat...Beat...)
+　死ぬまでHigh Tension Beat(Beat...Beat...)
+　Hah...欲望Da Da Dinamite!
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+**コメント
+#comment()
+
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)

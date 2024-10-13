@@ -1,0 +1,34 @@
+#right(){&furigana(だだまる)&furigana()【登録タグ:&tags() 】}
+//&nicovideo_mylist()
+
+**特徴
+-投稿作品は全て一人で制作している。
+-同じアカウントで新食感もちふわという人物も活動している。…が全ての責任はだだ丸に押し付けられている。
+-以前は新食感もちふわとだだ丸が同一人物として一色淡にされていた。
+-主にYouTube,ニコニコ動画,pixiv,Twitter,ピアプロで活動している。
+-時々オンラインゲームに出没する。…が全ての責任はだだ丸に押し付けられている。
+-名前は「じだんだふみ丸」の略。
+
+**リンク
+-[[個人サイト　X015年>>http://x015keikaku.wixsite.com/sinsyokan-x015]]
+-[[裏サイト　裏帝都極秘資料集>>http://x015keikaku.wixsite.com/dadamaru-ura]]
+-[[ニコニコ動画>>http://www.nicovideo.jp/user/41128132]]
+-[[YouTubeマイチャンネル>>http://www.youtube.com/channel/UCTqGRoGDvIU3HThlx01gNxQ]]
+-[[ピアプロ>>http://piapro.jp/s6s9k3mf]]
+-[[pixiv>>http://www.pixiv.net/member.php?id=14520634]]
+-[[Twitter>>http://twitter.com/dadamaru_sin]]
+-[[Twitter　新食感もちふわ>>http://twitter.com/sinsyoku_dadama]]
+
+**曲
+#list_by_tag(だだ丸,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(だだ丸CD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm23779276)|&nicovideo(http://www.nicovideo.jp/watch/sm24638362)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm29658892)|&nicovideo(http://www.nicovideo.jp/watch/sm26218256)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm30188971)|
+
+**コメント
+#comment()

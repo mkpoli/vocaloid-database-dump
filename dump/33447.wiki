@@ -1,0 +1,46 @@
+#right(){&furigana(どろのかわ) &furigana()【登録タグ:&tags() 】}
+//#ref(http://www.hikarisyuyo.net/doro_jacket.jpg)
+
+&ref(https://cdn.karent.jp/thumb_a/865/1865_20160110204429_0400_0400.jpg,x=300,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm27779502)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[鉄は唄う]]|CENTER:&bold(){泥の河}|CENTER:[[夜を裂く]]|
+
+|&bold(){[[光収容]]}|[[NEGI]]|
+
+|流通|CENTER:即売|CENTER:同人|CENTER:配信|
+|発売|CENTER:2015年12月31日|CENTER:2016年1月|CENTER:2016年2月3日|
+|価格|CENTER:￥1,000（税込）|CENTER:￥1,389|CENTER:￥900|
+|サークル|>|CENTER:光収容の倉庫||
+
+**CD紹介
+-ロック系リンマスター、光収容氏 の9thアルバム。
+-書き下ろしの新曲＋インスト曲の全8曲を収録。
+-ジャケットイラストは [[NEGI]]氏 が手掛ける。
+-C89（コミックマーケット89）にて頒布。
+-メロンブックスで委託販売が行われている。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++ブラックチェーンソウ
++アール
++渇きの海
++量子力学
++エリクシール
++プロミネンス
++おかしなギフト（inst.）
++泥の河
+
+**リンク
+-[[特設サイト>>http://www.hikarisyuyo.net/doro.html]]
+-[[作者ホームページ>>http://www.hikarisyuyo.net/]]
+-[[メロンブックス>>http://www.melonbooks.co.jp/detail/detail.php?product_id=147541&utm_source=twitter_160111&utm_medium=]]
+-[[KARENT：「泥の河」>>http://karent.jp/album/1865]]
+-[[iTunes Store>>http://itunes.apple.com/jp/album/muddy-river/id1077597658]]
+
+**コメント
+- 仕事早い乙です  -- c  (2015-12-12 20:28:41)
+- 早すぎ乙でした  -- 名無しさん  (2015-12-12 20:32:14)
+#comment

@@ -1,0 +1,34 @@
+#right(){&furigana(ゆうえいとりびゅーと)&furigana()【登録タグ:&tags() 】}
+#ref(http://karent.jp/npdca/1777_20150715224513_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){遊泳トリビュート}|CENTER:[[Loose Town]]|
+
+|&bold(){[[フタリ]]}|
+
+発売：2015年8月21日
+価格：￥600 / 1曲￥150
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：ミハル
+
+**CD紹介
+-フタリ氏の配信CD。
+-KARENTレーベルよりダウンロード販売が行われている。初音ミク8周年記念企画で配信された作品の1つ。
+
+**曲目
++[[ペリトロペーの軌跡]] （feat. 初音ミク）
++[[消える幸福影法師]] （feat. 初音ミク）
++[[遊泳トリビュート]] （feat. 初音ミク）
++[[パンドラと重ねて]] （feat. 初音ミク）
++[[海辺の呼吸]] （feat. 初音ミク）
+
+**リンク
+-[[作者twitter>>https://twitter.com/HutariMagic]]
+-[[KARENT：「遊泳トリビュート」>>http://karent.jp/album/1777]]
+-[[KARENT：「初音ミク 8th Anniversary」特集ページ>>http://karent.jp/special/miku15]]
+-[[iTunes Store>>https://itunes.apple.com/jp/album/swimming-tribute-ep/id1025737323]]
+
+**コメント
+- 遊泳トリビュート大好きです。スマホからミクモバで一曲毎に購入すると一曲３００円しますね。。  -- 名無し  (2015-09-04 22:28:33)
+#comment()

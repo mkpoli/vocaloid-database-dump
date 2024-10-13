@@ -1,0 +1,31 @@
+#right(){&furigana(WONDERLAND)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo(nm25311873)
+作詞：[[tana]]
+作曲：[[tana]]
+編曲：[[tana]]
+唄：[[初音ミク]]
+
+**曲紹介
+曲名：『&u(){WONDERLAND}』
+-可愛いミクテクノ。長い曲です。
+-ヘッドホンで聴くことをお勧めします。
+-この曲の「WONDER」は、ルイス・キャロルの『不思議の国のアリス』の「WONDER」というよりは、レイチェル・カーソンの『センス・オブ・ワンダー』の「WONDER」に近いです。
+
+**歌詞
+This is the world...
+Wonderland...
+
+You and I are now here...
+
+コレガセカイ・・・
+フシギナセカイ・・・
+
+キミトボク、イマココニ・・・
+
+
+**コメント
+#comment()

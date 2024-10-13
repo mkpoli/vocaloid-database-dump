@@ -1,0 +1,35 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+#ref(http://40.media.tumblr.com/2202bbf4c33101d0691fdcb0b7e5d379/tumblr_nw9pptRzUU1uj90rho1_1280.png,width=300,height=300)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[clover>clover/CD]]|CENTER:&bold(){cup of stars}|CENTER:[[Starry Song]]|
+
+|&bold(){[[colate]]}|
+
+|流通|CENTER:即売|
+|発売|CENTER:2015年10月25日|
+|価格|CENTER:￥1000（税込）|
+|サークル|CENTER:ショコラスムージー|
+
+**CD紹介
+-colate氏 の新譜。
+-イラストレーション&デザインは りつう氏 が手掛ける。
+-M3-2015秋にてリリース。
+
+**曲目
++Frill Magic
++Baby doll
++Don’t Look Back
++Dot to Dot
++恋の願い星
++真夜中と糸
++Mira
++夢の涙
++Rainbow Candy
++Strobe♡Girl (Extended)
+
+**リンク
+-[[特設ページ>>http://cup-of-stars-xxx.tumblr.com/]]
+
+**コメント
+#comment

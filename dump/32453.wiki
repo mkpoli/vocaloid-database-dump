@@ -1,0 +1,58 @@
+#right(){&furigana(わんおほTHE BEST OF BEST)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+#amazon(B0118JTOLW)
+
+|&nicovideo(http://www.nicovideo.jp/watch/sm26676294)|&youtube(http://www.youtube.com/watch?v=s1Zt-9JtmAA){342,187}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm27247595)|&youtube(http://www.youtube.com/watch?v=hgIuustcoD8){342,187}|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[ワン☆オポ！vol.09]]|CENTER:&bold(){ワン☆オポ！THE BEST OF BEST}|CENTER:[[ワン☆オポ！vol.10]]|
+
+|&bold(){[[マイナスP]]}|&bold(){[[じーざすP]]}|
+
+発売：2015年10月7日
+価格：￥2,484（税込）
+流通：全国
+レーベル：EXIT TUNES
+
+**CD紹介
+CD名：『&u(){ワン☆オポ！THE BEST OF BEST}』
+-マイナスP、じーざすPによる同人サークル「Wonderful★Opportunity!（ワンダフル☆オポチュニティ！）」のメジャー1stアルバムとなる、ベストアルバム。
+-ジャケットイラストは [[グライダー]]氏 が手掛ける。
+-Tr.18は、初となる共作曲。
+
+**曲目
++[[しんでしまうとはなさけない！]]
++[[ぼうけんのしょがきえました！]]
++[[鬼KYOKAN]]
++[[勝算◎最前線]]
++[[東京ゾンビランド]]　&color(red){NEW!!}
++[[8HIT]]
++[[すげえアプリ開発中>すげぇアプリ開発中]]
++[[リモコン]]
++[[ボクらの最終定理]]
++[[ドッペル押し問答]]
++[[性悪オンナ・オンライン]]
++[[NARAZUMONO]]　&color(red){NEW!!}
++[[妄想性詰問症]]
++[[赤線モダニズム]]
++[[六波羅神楽絵巻]]
++[[先生と少女騒動-第一審公判-]]
++[[先生と少女騒動-第二審-「被害者の日記」]]
++andLoid is (not) peRfect　&color(red){NEW!!}
+
+**リンク
+-[[特設サイト>>http://wonopo.extsm.com/]]
+-[[EXIT TUNES>>http://exittunes.com/detail/qwce-00504.html]]
+-[[作者サイト>>http://www.wan-opo.com/]]
+-[[amazon>>http://www.amazon.co.jp/dp/B0118JTOLW]]
+
+**コメント
+- メジャー楽しみ！  -- 名無しさん  (2015-07-11 01:40:44)
+- 楽しみ。どれもアレンジされてるみたいでうれしい。無頼ック自己ライザー入らなかったのが残念・・。  -- 名無しさん  (2015-09-28 12:39:48)
+- 楽しみ過ぎる～♥\ ( >∀< ) /  -- AKUTO  (2015-10-03 22:05:22)
+- だっしゅつげぇむと教えて！ウィキペディアン欲しかった  -- 名無しさん  (2015-10-04 13:50:31)
+#comment()

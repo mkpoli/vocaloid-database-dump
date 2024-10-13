@@ -1,0 +1,147 @@
+#right(){&furigana()&furigana()【登録タグ:&tags()】}
+|&nicovideo(sm24957428)|&youtube(http://www.youtube.com/watch?v=T_EvgO7Nt_E){342,187}|
+作詞：[[natsuP]]
+作曲：[[natsuP]]
+編曲：[[natsuP]]、haku 
+唄：&color(blue){KAITO}・&color(gold){鏡音レン}・&color(DarkOrchid){神威がくぽ}・&color(green){氷山キヨテル}・&color(red){VY2}・&color(DodgerBlue){歌手音ピコ}
+
+**曲紹介
+>&bold(){男ボカロでアイドルグループを組んだようです。}
+>&bold(){あいつらこそがVOCALOIDの王子様たちッ}
+>（作者コメより転載）
+-Illust＆Movie：[[春アキ]]
+-Guitar＆Arrange：haku
+-終盤にて、Gackpoが山手線ラップを披露する。
+-『[[GOTTANI!]]』の書き下ろし楽曲。
+
+**歌詞
+#region(close,色分け)
+&color(blue){KAITO}・&color(gold){鏡音レン}・&color(DarkOrchid){神威がくぽ}・&color(red){VY2}・&color(DodgerBlue){歌手音ピコ}・&color(green){氷山キヨテル}
+※黒…KAITO・鏡音レン・神威がくぽ・VY2・歌手音ピコ・氷山キヨテル
+#endregion
+
+&color(red){No No 届かないよ}
+&color(red){眠らぬ街}
+&color(red){そう僕らはもう止められない}
+
+&color(DarkOrchid){Victory}
+&color(blue){Originality}
+&color(green){Cutie}
+&color(gold){Ability}
+&color(DodgerBlue){Princenss}
+&color(red){Romance}
+Identity
+My honey?
+
+
+&italic(){(&color(gold){Get it!})}
+&italic(){(&color(blue){Let it go!})}
+
+&color(gold){渋谷駅の地下５階で待ち合わせ}
+&color(gold){張り裂けそうに}
+&color(DarkOrchid){混み合うtrain}
+&color(DarkOrchid){君との距離が近過ぎて 危険信号}
+
+&color(green){AH} &color(red){濡}&color(DodgerBlue){れて}
+
+&color(gold){もっともっとCuteに}
+&color(green){もっともっとSexyに}
+
+&color(gold){AH} &color(DarkOrchid){壊}&color(blue){れて}
+
+&color(blue){もっともっと激しく}
+
+&color(gold){Shoot} &color(DarkOrchid){on Sho}&color(DodgerBlue){ot on}
+&color(gold){東京の街}&color(DarkOrchid){は 変わ}&color(DodgerBlue){り続ける}
+&color(blue){Shoot} &color(green){on Sho}&color(red){ot on}
+&color(blue){早足}&color(green){歩行}&color(red){で}
+&color(blue){Moving} &color(green){on Mov}&color(red){ing on}
+立ち尽くす僕をおいてけぼりにしないで
+君と強く繋がっていたいから
+見失ってしまわぬように
+自分の壁を壊せ
+
+
+&color(DarkOrchid){AH} &color(red){はだ}&color(DodgerBlue){けて}
+
+&color(DarkOrchid){もっともっとDirtyに}
+&color(DodgerBlue){もっともっとSweetに}
+
+&color(gold){AH} &color(blue){溺れ}&color(green){て}
+
+&color(blue){もっともっと感じる}
+
+&color(gold){Shoot} &color(DarkOrchid){on Sho}&color(blue){ot on}
+&color(gold){セツナサに}&color(DarkOrchid){揺れて 孤}&color(blue){独を感じ}
+&color(green){Short ti}&color(red){me Sho}&color(DodgerBlue){rt time}
+&color(green){時間に}&color(red){追わ}&color(DodgerBlue){れて}
+&color(green){Carryings}&color(red){-on Carry}&color(DodgerBlue){ings-on}
+はじけたら 何も怖くなんてないでしょ？
+君を強く抱きしめていたいから
+ずっと守り続けるよ
+不安は吹き飛ばせ
+
+
+&color(red){Shoot on Shoot on}
+&color(blue){東京の空に} &color(gold){星を見つけて}
+&color(red){Shooting Shooting}
+&color(DarkOrchid){君も見てるかな？}&color(green){願いを込めて}
+&color(DodgerBlue){永遠の愛を}&color(red){誓うよ 愛してる}
+どんな場所でも 君がいるから
+
+Shoot on Shoot on
+東京の街は 変わり続ける
+Shoot on Shoot on
+早足歩行で
+Moving on Moving on
+立ち尽くす僕をおいてけぼりにしないで
+君と強く繋がっていたいから
+見失ってしまわぬように
+自分の壁を壊せ
+
+
+#region(&color(DarkOrchid){山手線ラップ by Gackpo})
+&italic(){&color(DarkOrchid){新橋 品川 大崎 五反田}}
+&italic(){&color(DarkOrchid){目黒 恵比寿 渋谷 原宿}}
+&italic(){&color(DarkOrchid){新宿 高田馬場 目白}}
+&italic(){&color(DarkOrchid){池袋 巣鴨 田端}}
+&italic(){&color(DarkOrchid){西日暮里 日暮里 上野}}
+&italic(){&color(DarkOrchid){御徒町 秋葉原 東京★}}
+#endregion
+
+**コメント
+- おおお！！！！久々！！  -- 名無しさん  (2014-11-21 21:31:16)
+- ボカプリはまりそうです！  -- ひ  (2014-11-23 00:17:46)
+- がくぽ愛してる  -- がくぽの嫁  (2014-11-25 19:20:06)
+- がくぽルート攻略したい  -- 主人公  (2014-11-25 19:22:34)
+- みんな素敵すぎて選べない…  -- 名無しさん  (2014-11-26 15:32:09)
+- かっけぇ(゜ロ゜)  -- SOLA  (2014-11-29 06:34:27)
+- 勇馬くん格好いい////  -- 烏龍  (2014-12-07 00:01:44)
+- カッコいい…  -- 名無しさん  (2014-12-12 19:16:27)
+- 椿くん格好いい///でも一番は兄さん//  -- ヒライースゥ  (2014-12-27 13:14:37)
+- がっくん素敵でした・・・が、弾幕で見えなかった(泣)  -- 楓  (2015-03-04 16:07:13)
+- がくぽ兄様しか見てない♡がくぽぉー俺だ、結婚してくれぇぇええ！！  -- 神威　いろは  (2015-03-06 11:50:30)
+- ６人とも可愛いし格好いいしでいいですね！て言うか、ピコの低音かっこよすぎます！  -- 名無しさん  (2015-03-22 19:21:45)
+- かっこいいよお〜!  -- 名無しさん  (2015-05-13 16:27:42)
+- ピコさん大好き！！！何もかもいい！  -- ARUMA  (2015-07-06 19:03:22)
+- 私、東京の事は全く存じないのですが・・・これだけは分かりました。６人全員カッコイイ！  -- 舞笛  (2015-07-11 20:05:32)
+- 王子様たちみんなかっこいい（≧∇≦）結婚して下さい‼︎  -- まいまい  (2015-07-25 13:13:55)
+- 勇馬くんめちゃめちゃカッコいい  -- ドラゴンA  (2015-08-09 12:30:21)
+- 絶対勇馬くんですね！みんなかっこいいけど！w  -- 衣桜  (2015-08-16 19:13:07)
+- あああぁぁぁぁぁっっっ///皆格好いいけど  -- ボカオタ少女  (2015-08-23 01:25:40)
+- みんなカッコいい！！兄さんマジ天使♡  -- KAITOは俺の嫁  (2015-08-23 11:39:08)
+- 僕はレンとKAITOです。  -- 名無しさん  (2015-08-23 16:33:02)
+- 春アキさんのイラストカッコよすぎです！  -- 名無しさん  (2015-10-22 19:01:59)
+- 勇馬くんかっこいい！！低音も高音も幅広く  -- 柚月  (2016-01-07 09:45:58)
+- 誰か一人くらいキヨテル先生のファンがいてもいいんじゃないかｗちなみに俺はレン君とピコが好き。かわいいよ二人とも  -- 悪斗  (2016-01-07 10:07:06)
+- 兄さんは俺の嫁だああああああああああああ！！！  -- みー  (2016-03-22 09:02:00)
+- CDだけだったときからずっと大好きです!VOCAPPI全員大好き!  -- 光ーVaNI  (2016-09-21 18:54:31)
+- 男ボカロ組初めて聴いた！  -- いじめられて私立を退学したドS  (2016-09-21 19:04:49)
+- VY2とか歌手音ピコとか最初知らなかったけどこの曲聞いて好きになりました！この曲（この6人）大好きです!!  -- 瀦髀｡髻ｳ繝ｬ繝ｳ瀦  (2017-03-13 01:15:28)
+- がっくんがっくんがっくんかっこいい～！先生可愛いです、精神年齢一番若いですねw  -- 海  (2018-04-08 17:19:19)
+- キヨテル先生が好きすぎる〜♡間奏のところとか、かわいいww  -- ghd  (2018-08-10 18:44:29)
+- めっちゃカッコイイ！がっくん好き〜「もっともっとdirtyに」がカッコイイ！がっくんの低音ボイス最高！！  -- pye）  (2018-08-10 18:52:41)
+- 兄さーーーーーーーーーーーーーーーーーーーーーーーーーーーん!!!!!!!!!!!かっこいいぃぃぃぃ！好き！  -- 一般人  (2019-05-09 14:53:33)
+- 超豪華っっっ！うれしーーーー💗イラスト可愛い💗KAITO～レンきゅん～キヨテル先生～がっくん～ピコ～勇馬～　全員大好きだよ！  -- 名無しさん  (2019-05-09 15:01:02)
+- 個人的にピコ君きゃわいい！(❤ ω ❤)  -- 名無しさん  (2022-03-18 23:09:10)
+#comment()

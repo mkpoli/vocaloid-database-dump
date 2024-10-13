@@ -1,0 +1,30 @@
+#right(){&furigana(わんわんてーる EP)&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1658_20141130232910_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[メイ>メイ/CD]]|CENTER:&bold(){わんわんテール EP}|CENTER:[[ファンタジースクールライフ]]|
+
+|&bold(){[[yui]]}|
+
+発売：2014年12月17日
+価格：￥300
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：しめのソラ
+
+**CD紹介
+-yui氏 の配信シングル。
+-表題曲の「わんわんテール」と、書き下ろし曲の「リバイバル」の2曲を収録。
+-KARENTレーベルよりダウンロード販売が行われている。KARENTの鏡音リン・レン7周年記念企画で配信された作品の1つ。
+
+**曲目
++[[わんわんテール]] （feat. 鏡音リン）
++[[リバイバル>リバイバル/yui]] （feat. 鏡音リン）
+
+**リンク
+-[[KARENT：「わんわんテール EP」>>http://karent.jp/album/1658]]
+-[[KARENT：「鏡音リン・レン祭'14」特集ページ>>http://karent.jp/special/rinlen14]]
+-[[iTunes Store>>https://itunes.apple.com/jp/album/wanwantail-ep/id948659441]]
+
+**コメント
+#comment()

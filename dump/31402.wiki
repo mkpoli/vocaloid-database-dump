@@ -1,0 +1,31 @@
+#right(){&furigana(すたーとらべらー)&furigana()【登録タグ:&tags() 】}
+//&ref(http://kanon69.com/img/release/startraveler.jpg)
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186130220.jpg,x=300,y=300)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){スタートラベラー}|CENTER:[[JACKPOT]]|
+
+|&bold(){[[奏音69]]}|
+
+発売：2009年8月16日
+価格：￥500
+流通：即売
+サークル：Citruscat
+
+**CD紹介
+-奏音69×巡音ルカによる柑橘系ユニット「Citruscat」1stシングル。
+-2009年コミックマーケット76（C76）にて発売。
+-ジャケットイラスト：奏音69
+
+**曲目
++[[スタートラベラー]]
++[[リップサービス>リップサービス/奏音69]]（Remake）
++スタートラベラー -Instrumental-
++リップサービス -Instrumental-
+
+**リンク
+-[[作者サイト>>http://kanon69.com/]]
+
+**コメント
+#comment()

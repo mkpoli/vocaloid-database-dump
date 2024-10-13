@@ -1,0 +1,46 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#amazon(B008J45IJC)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){mousou new world}|CENTER:-|
+
+|&bold(){[[じたばたP]]}|[[石風呂]]|[[ぽわぽわP]]|[[Saiph]]|
+
+|流通|CENTER:即売|CENTER:委託|CENTER:配信|
+|発売|2012年7月8日|||
+|価格|CENTER:￥1,000|CENTER:￥|CENTER:￥1,000|
+|サークル|CENTER:岐阜県|CENTER:GINGAbootleg|CENTER:きゅうりキャンディ取引所|
+
+**CD紹介
+>さぁ、あらたなぼうけんのはじまりだ。
+>パスワードは「mousou new world」!!!
+-じたばたPこと 黒魔氏 の初のソロ同人作品。
+-ゲストリミキサーに石風呂氏、椎名もた氏、ゲストコンポーザーに　Saiph氏 を迎えている。
+-ジャケットイラストは 椎名もた氏 が手掛ける。
+-THE VOC@LOiD M@STER21（ボーマス21）にて頒布。
+-Amazonにて通販が行われていたが現在は品切れとなっている。
+-boothにてダウンロード販売が行われている。
+
+**曲目
++ようこそ / 黒魔
++ふとん / 黒魔
++Shining / Saiph
++[[神様と人生論]] / 黒魔
++[[mousou new life]] / 黒魔
++Interlude / 黒魔
++あめをゆかにしいて(ashita mo tabun mix) / 椎名もた
++Shining(barabara mix) / 黒魔
++[[星くずガール]](ishifuro mix) / 石風呂
++ かみさまのはなばたけ / 黒魔
++バイバイのもくぜん / 黒魔
++穴ぼこロケットくん / 黒魔
++わたしとあなた(okaeri mix) / 黒魔
++さよなら / 黒魔
+
+**リンク
+-[[Amazon>>http://www.amazon.co.jp/dp/B008J45IJC/]]
+-[[booth>>http://booth.pm/ja/items/39662]]
+
+**コメント
+- 通販あったの！！  -- 名無しさん  (2014-11-29 15:16:16)
+#comment()

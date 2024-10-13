@@ -1,0 +1,31 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1614_20140923194731_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[face the truth]]|CENTER:&bold(){Looking up at the stars}|CENTER:[[ペイパー・ムーン]]|
+
+|&bold(){[[As'257G]]}|水無月龍那|楢崎このみ|
+
+発売：2014年10月15日
+価格：￥300
+流通：配信
+レーベル：KARENT
+ジャケット：As'257G
+
+**CD紹介
+>辛いときも、寂しいときも、悲しいときも、楽しいときも。
+>さあ一緒に夜を明かそう。グラスを片手に。
+-Sound Team Layer-0のAs'257G氏の配信シングル。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++[[beats takes spoon]] （feat. KAITO）
++[[夜の領地 -テリトリー-]] （feat. MEIKO）
+
+**リンク
+-[[サークルサイト>>http://layer-0.shillest.net/]]
+-[[KARENT：「face the truth」>>http://karent.jp/album/1614]]
+-[[iTunes Store>>https://itunes.apple.com/jp/album/looking-up-at-the-stars-single/id928364899]]
+
+**コメント
+#comment()

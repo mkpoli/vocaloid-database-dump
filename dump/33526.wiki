@@ -1,0 +1,31 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm26074347)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[リンのまぼろし！！]]|CENTER:&bold(){Spring rain}|CENTER:[[APOCALYPSE>APOCALYPSE/CD]]|
+
+|&bold(){[[ジェバンニP]]}|[[ラジオ体操P]]|安価さん|長雨ルウナ|むしずちゃん|ポーン|THEKI|蒲田|
+
+発売：2015年4月25日
+価格：￥1,000
+流通：即売
+サークル：ジェバンニピー
+
+**CD紹介
+-ジェバンニPのCDアルバム。
+-THE VOC@LOiD 超 M@STER 31（超ボーマス31）で頒布。
+
+**曲目
++[[solitary]]
++[[星　　旅]]
++[[any word]]
++[[たこ焼き]]
++[[だだだいじ、あしたもあさっても！]]
++[[やさしいうた]]
++瞬間
+
+**リンク
+-[[作者ブログ>>http://jvnp.blog60.fc2.com/]]
+
+**コメント
+#comment()

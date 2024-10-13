@@ -1,0 +1,70 @@
+#right(){&furigana(みらいとあるまちしょうちょ)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+
+&ref(https://img.akbh.jp/upload/save_image/pics/2100000039630.jpg,x=350)
+
+|CENTER:~アルバムクロスフェード|
+|&nicovideo(sm24792433)|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[ミライトアルマチ街道]]|CENTER:&bold(){ミライトアルマチ情緒}|CENTER:[[ブライトシティ]]|
+
+|&bold(){[[keisei]]}|[[ばらっげ]]|haru2036|
+
+発売：2014年11月15日(即売) / 2014年11月18日(配信)
+流通：即売・委託・配信
+価格：￥1,000(即売) / ￥1,500（税別）(委託) / &s(){＄10}(配信)
+サークル：ミライトアルマチ構想
+
+**CD紹介
+CD名：『&u(){ミライトアルマチ情緒}』（&u(){ミライトアルマチじょうちょ}）
+-keisei氏の2ndアルバム。
+--ジャケットイラスト担当は&bold(){箔鳥居}氏。（[[Twitter>>https://x.com/hakutory]]）
+-THE VOC@LOiD M@STER 30（ボーマス30）にて頒布。
+-AKIBA HOBBYで委託販売が行われていた。現在は終了済み。
+-アメリカの音楽レーベル「ATTACK THE MUSIC」でダウンロード販売が行われていた。現在は終了済み。
+-2020年にBOOTHでの販売価格が￥0（フリーダウンロード）に改訂された。
+
+#region(close,keisei氏 ソロアルバム一覧)
+keisei氏 ソロアルバム一覧
+
+|アルバム名|発売日|作目|h
+|CENTER:[[ミライトアルマチ街道]]|CENTER:2013年11月17日|CENTER:1st|
+|CENTER:&bold(){ミライトアルマチ情緒}|CENTER:2014年11月15日|CENTER:2nd|
+|CENTER:[[ミライトアルマチ衛星]]|CENTER:2015年11月14日|CENTER:3rd|
+|CENTER:[[ミライトアルマチ詩恩]]|CENTER:2017年4月29日|CENTER:4th|
+|CENTER:[[ミライトアルマチ延寿]]|CENTER:2018年8月23日|CENTER:5th|
+|CENTER:[[ミライトアルマチ都々里]]|CENTER:2019年8月10日|CENTER:6th|
+|CENTER:[[ミライトアルマチ空絵]]|CENTER:2020年11月27日|CENTER:7th|
+|CENTER:[[ミライトアルマチ雨読]]|CENTER:2024年8月17日|CENTER:8th|
+#endregion
+
+
+**曲目
++[[明日見る街]]（feat. 初音ミク）
++[[桜色エレクトロ]] （feat. 初音ミク）
++yanesen
++[[cloudway]] （feat. 初音ミク）
++[[Urban Stroke]] （feat. 初音ミク）
++[[IRIS SCREEN]] （feat. 初音ミク）
++[[ココロターミナル]] （feat. 初音ミク）
++Turbo Orbit
++[[WALK AROUND STEREO]] （feat. 初音ミク）
++[[はるかGlider]] (Higher than the stars Remix) （by ばらっげ feat. 初音ミク）
++[[ココロターミナル]] (Sky Lounge Remix) （by ばらっげ feat. 初音ミク）
++[[地図にない街]] (haru2036 remix) （by haru2036 feat. 初音ミク）
+
+**リンク
+-[[作者サイト>>http://miraitoarumachi.com/]]
+-[[特設ページ>>http://miraitoarumachi.com/2nd/]]
+-[[BOOTH>>https://miraitoarumachi.booth.pm/]]
+-[[AKIBA HOBBY>>http://ec.akbh.jp/category/select/pid/19408]]
+-[[ATTACK THE MUSIC>>http://shop.attackthemusic.com/album/mirai-to-aru-machi-emotions]]
+
+-[[haru2036氏のTwitter>>https://x.com/haru2036]]
+
+**コメント
+#comment()

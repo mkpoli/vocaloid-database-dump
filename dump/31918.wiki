@@ -1,0 +1,48 @@
+#right(){&furigana(いろとりどりのおとのせかい)&furigana()【登録タグ:&tags() 】}
+
+&ref(https://static.tumblr.com/fce5e5f49d7baa3a54a1fc2de4d150e7/tzkanrl/4XGnmn00c/tumblr_static_exhmt41615sgco0wksck0gscs.jpg,x=300,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm26005092)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[走れ！チャリンコ焼肉奉行所]]|CENTER:&bold(){イロトリドリノオトノセカイ}&br()[[ハンペン甲子園 ～月と太陽の双奏詩～]]|CENTER:-|
+
+|&bold(){[[コモレビノーツ]]}|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2015年4月25日||
+|価格|CENTER:￥1,000|￥1,000（税別）|
+|サークル|>|CENTER:コモレビノーツ|
+
+**CD紹介
+>&color(#afd25d){僕は、何色にでも成れる。}
+-「BIRUGE」から「コモレビノーツ」となった氏の7作目のアルバム。
+-過去作も録りおろし音源でリメイクされ収録されている。
+-イラスト・デザインはチボリお姉さん氏。
+-THE VOC@LOiD 超 M@STER 31（超ボーマス31）で頒布。
+-とらのあな、メロンブックス、東京未来音楽で委託販売が行われている。
+
+**曲目
++[[comorebi]] feat. IA
++晴れた日の出来事 feat. 初音ミクSolid
++[[自転車とスケッチブック]] feat. 初音ミクSolid
++明日も良い日になるでしょう feat. IA&初音ミクSolid
++やさしさ日和 feat. IA
++イロトリドリ feat. 初音ミクDark
++バーミリア feat. IA
++彷徨う夜鷹は真夜中を叫ぶ feat. 初音ミクSolid
++旅人は夢追い人 feat. 初音ミクSolid&IA
++[[さよならセプテンバー]] feat. 初音ミクSolid
++[[Drowned Sunday]] feat. 初音ミクSweet
++畦道を行こう feat. 初音ミクDark
++[[夢色の空]] feat. IA
+
+**リンク
+-[[作者サイト>>http://biruge.com/]]
+-[[アルバムページ>>http://irotoridori.tumblr.com/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/30/58/040030305853.html]]
+-[[メロンブックス>>https://www.melonbooks.co.jp/detail/detail.php?product_id=126974]]
+-[[東京未来音楽>>http://www.future-music.co.jp/LIST_for_WEB.html]]
+
+**コメント
+#comment()

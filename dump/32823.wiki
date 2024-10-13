@@ -1,0 +1,28 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1770_20150630090131_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Lift Force]]|CENTER:&bold(){stella}|CENTER:-|
+
+|&bold(){[[fatP]]}|G-zass|
+
+発売：2015年8月21日
+価格：￥150
+流通：配信
+レーベル：KARENT
+
+**CD紹介
+-fatPことamyu氏のサークル「D.S.L (Digital Sound Laboratory)」の配信シングル。
+-KARENTレーベルよりダウンロード販売が行われている。初音ミク8周年記念特集で配信された作品の1つ。
+
+**曲目
++stella （feat. 初音ミク）
+
+**リンク
+-[[作者サイト>>http://dslaboratory.com/]]
+-[[KARENT：「stella」>>http://karent.jp/album/1770]]
+-[[KARENT：「初音ミク 8th Anniversary」特集ページ>>http://karent.jp/special/miku15]]
+-[[iTune Store>>http://itunes.apple.com/jp/album/stella-single/id1024491511]]
+
+**コメント
+#comment()

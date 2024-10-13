@@ -1,0 +1,28 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1675_20150104123709_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[星降る夜を旅する少女>星降る夜を旅する少女/CD]]|CENTER:&bold(){Lift Force}|CENTER:[[stella>stella/CD]]|
+
+|&bold(){[[fatP]]}|久遠真雪|
+
+発売：2015年1月23日
+価格：￥150
+流通：配信
+レーベル：KARENT
+
+**CD紹介
+-fatPことamyu氏のサークル「D.S.L (Digital Sound Laboratory)」の配信シングル。
+-KARENTレーベルよりダウンロード販売が行われている。巡音ルカ6周年記念特集で配信された作品の1つ。
+
+**曲目
++Lift Force （feat. 巡音ルカ）
+
+**リンク
+-[[作者サイト>>http://dslaboratory.com/]]
+-[[KARENT：「Lift Force」>>http://karent.jp/album/1675]]
+-[[KARENT：「巡音ルカ聖誕祭'15」特集ページ>>http://karent.jp/special/luka15]]
+-[[iTune Store>>https://itunes.apple.com/jp/album/lift-force-single/id957996305]]
+
+**コメント
+#comment()

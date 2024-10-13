@@ -1,0 +1,37 @@
+#right(){&furigana(caco2)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/53915274" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/53915274">【ニコニコ動画】caco-2 works</a></iframe>)
+
+**特徴
+作り手名：『&u(){caco-2}』（&u(){かこつ}）
+-2015年11月、「[[セカイセイフク]]」にてボカロデビューした作り手。この曲は自身初の殿堂入りも達成している。
+-使用ボカロは今のところ、初音ミクとGUMI。
+
+**リンク
+-[[ニコニコ>>https://www.nicovideo.jp/user/53493379]]
+-[[Twitter>>https://twitter.com/Caco2music]]
+
+**曲
+#list_by_tag(caco-2,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(caco-2CD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|>|BGCOLOR(#23b1b1):COLOR(#FFF):CENTER:&font(b,11pt){オリジナル曲}|
+|&nicovideo(sm27648736)|&nicovideo(sm27732198)|
+|&nicovideo(sm29424753)|>|
+
+**コメント
+- 久しぶりにいい新人が出てきたね  -- 名無しさん  (2015-11-26 00:33:05)
+- セカイセイフク とてもよい  -- 名無しさん  (2015-11-26 02:55:59)
+//- 工作くさいな　音もフリー音源っぽいし  -- 名無しさん  (2015-12-02 00:22:57)
+//- 正直伸び方として今年出てきたhano,ナユタンと比べると異常だし工作疑われても仕方ないね  -- 名無しさん  (2015-12-10 23:46:18)
+//- 工作工作言われてますが自分は純粋に曲が好きです。これから頑張って欲しいです  -- 名無しさん  (2015-12-31 08:37:27)
+//- 工作新人だしな  -- 名無しさん  (2016-04-05 14:11:52)
+//- 工作かはともかく、曲が良いから別に大丈夫さ(個人的に)  -- 名無しさん  (2016-08-17 15:05:11)
+- EXiTが好きすぎる！  -- ぽぴ  (2018-03-13 23:24:56)
+#comment()

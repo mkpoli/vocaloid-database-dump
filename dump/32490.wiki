@@ -1,0 +1,61 @@
+#right(){&furigana(すいさいのまんじゅりか)&furigana()【登録タグ:&tags()】}
+|&nicovideo(http://www.nicovideo.jp/watch/sm20531794)|&youtube(http://www.youtube.com/watch?v=kB2KwdKlZAo){342,187}|
+作詞：[[KITOTAN]]
+作曲：[[KITOTAN]]
+編曲：[[KITOTAN]]
+唄：初音ミクDark
+
+**曲紹介
+-3人組ユニット「KITOTAN」の5作目。
+-2013年4月にニコニコ動画内で催された「春ニカ祭り2013」に出展された。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**音楽配信
+&ref(http://karent.jp/npdca/1772_20150701131146_0280_0280.jpg)
+
+|CENTER:前作|CENTER:今作|CENTER:次作|
+|CENTER:[[初音ミクの発熱]]|CENTER:&bold(){水彩のマンジュリカ}|CENTER:[[バラバラバーズ]]|
+
+流通：配信
+発売：2015年7月17日
+価格：￥300
+レーベル：[[KARENT>>http://karent.jp/album/1772]]
+ジャケットイラスト：麻野マノ
+
+|&bold(){[[iTunes Storeで購入>>http://itunes.apple.com/jp/album/mandshurica-watercolor-single/id1017644898]]}|
+
+***曲目
++水彩のマンジュリカ （feat. 初音ミク）
++水彩のマンジュリカ （Instrumental） （feat. 初音ミク）
+
+**歌詞
+有機交流電燈の青い光
+
+点滅を繰り返す
+
+心の中の景色が映し出されて光る
+
+春の匂い、君の笑顔、全て混ざり合う
+
+宇宙の果てに思いを馳せてたら私は点になっていた
+
+世界は大きな砂嵐みたいに美しく揺れていた
+
+とても小さな私はとても大きなものに包まれていた
+
+あがく事をやめて全てに身を任せることにしたのさ
+
+悲しみさえも 贈り物の様だね
+
+雨が草木を 濡らすように
+
+もたらす何かを 待っている
+
+揺れる世界は夢の続きを作る
+
+花のつぼみが開く季節の
+
+夜の様に
+
+**コメント
+#comment()

@@ -1,0 +1,41 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#amazon(B00YHV6T30)
+|&nicovideo(http://www.nicovideo.jp/watch/1438840088)|&YouTube(http://www.youtube.com/watch?t=102&v=yGJ8Jq4gFSQ)|
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Guitar magazine presents SUPER GUITARISTS meets IA}|CENTER:-|
+
+|[[ほえほえP]]|BACK-ON|[[out of survice]]|hiroki（Dragon Ash）|滝善充（9mm Parabellum Bullet）|尾形回帰|PABLO|
+|瑠威|you（Janne Da Arc）|kiyo（Janne Da Arc）|Kuboty（TOTALFAT）|安野勇太（HAWAIIAN6）|SUGIZO||
+
+発売：2015年7月29日
+価格：￥2,800（税別）
+流通：全国
+レーベル：IA PROJECT
+発売元：IA PROJECT / 1st PLACE
+販売元：株式会社ウルトラシープ
+
+**CD紹介
+-J-ROCK界のスーパーギタリスト達とIAの豪華コラボレーションが、1980年に創刊されギターを愛する人たちのために幅広い情報を提供し続けている由緒ある音楽専門誌「ギターマガジン」の完全サポートにより実現！
+-参加ギタリストの顔ぶれは錚々たるメンツが集結！&br()コヤマヒデカズ（Lyu:Lyu）、滝善充(9mm Parabellum Bullet)、安野勇太（HAWAIIAN6）、BACK-ON、HIROKI（Dragon Ash）、Kuboty（TOTALFAT）、PABLO、SUGIZO、you・kiyo（Janne Da Arc）、9組のギタリスト、アーティストが参加。（表記：あいうえおABC順）&br()更に、この豪華メンツの中にIA×Guitar magazine新人オーディション応募者の中から1組のクリエイターが新人枠として参加！
+-ギターマガジン読者はもちろんボーカロイドユーザーにもマストアイテムです！さらに初回生産限定盤には同梱特典アリ！
+-DVD-Rには収録曲のメインギターの譜面データ（PDF）とギターマイナスワン音源（WAV）を収録。
+-初回限定同梱特典はIA×Guitar magazine特製ピックケース。
+
+**曲目
++僕ラノ戦場／コヤマヒデカズ（Lyu:Lyu）
++[[憧憬～DOUKEI～]]／BACK-ON
++Headphone Missile／hiroki（Dragon Ash）
++[[セツナドライブ]]／滝 善充（9mm Parabellum Bullet）
++地球／PABLO
++[[雨桜>雨桜/瑠威]]／白石瑠威（※新人楽曲コンペティション最優秀賞受賞作品）
++キライ／you・kiyo（Janne Da Arc）
++真夜中デストロイヤー／Kuboty（TOTALFAT）
++消失／安野勇太（HAWAIIAN6）
++RISE feat. IA／SUGIZO
+
+**リンク
+-[[特設サイト>>http://1stplace.co.jp/works/specialized/ia_gm/]]
+-[[Amazon>>http://www.amazon.co.jp/dp/B00YHV6T30]]
+
+**コメント
+#comment()

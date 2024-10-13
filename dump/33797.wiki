@@ -1,0 +1,39 @@
+#right(){&furigana(takasannoid)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/41047806" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/41047806">【ニコニコ動画】</a></iframe>)|
+
+**特徴
+作り手名：『&u(){takasannoid}』(&u(){たかさのいど})
+-VOCALOID・CeVIOを使用する作り手。
+-2013年5月3日「[[Blue solace]]」にてボカロPデビュー。
+-使用合成音声は[[さとうささら]]・[[IA]]・[[Lily>lily/vocaloid]]・[[初音ミク]]・[[ONE>ONE/合成音声]]。
+
+**リンク
+-[[Twitter>>http://twitter.com/takasannoid]]
+-[[piapro>>http://piapro.jp/takasannoid]]
+-[[YouTube>>https://www.youtube.com/channel/UCd-u2x6PcCjxIY0VhfY4-Mg]]
+
+**曲
+#list_by_tag(takasannoid,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(takasannoidCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm21486381)|&nicovideo(sm20767526)|
+|&nicovideo(sm22812520)|&nicovideo(sm25778346)|
+|&nicovideo(sm26736696)|&nicovideo(sm27775349)|
+
+**関連タグ内の更新履歴
+#region(close,関連タグ内の更新履歴)
+関連タグ内の更新履歴
+※「takasannoid」「takasannoidCD」タグ内で最近編集やコメントのあった記事を新しい方から10件表示しています。
+#list_by_tagsearch(takasannoid,takasannoidCD,sort=timestamp,sort2=desc,errmsg=まだ曲、CDが登録されていません。,or,10)
+#endregion
+
+**コメント
+//- ここはVOCALOIDだけ扱いますので、CeVIOのささらやONEのみを使用した楽曲のページは作れません。  -- 名無しさん  (2016-02-01 20:41:16)
+#comment()

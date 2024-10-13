@@ -1,0 +1,42 @@
+#right(){&furigana(canvas)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&ref(http://karent.jp/npdca/1714_20150429014816_0280_0280.jpg)
+|&nicovideo(sm26096110)|
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[もし、君との夏が最後ならば]]|CENTER:&bold(){canvas}|CENTER:[[ネクストレイン]]|
+
+|&bold(){[[アオトケイ]]}|
+
+|流通|CENTER:即売|CENTER:配信|
+|発売|CENTER:2015年4月26日|CENTER:2015年5月20日|
+|価格|CENTER:￥500|CENTER:￥900|
+|サークル|>|CENTER:141hour Record|
+
+**CD紹介
+>～白い紙の向こうに、どんな光景が待っているのだろう。～
+-Fuji（141hP）氏の5thミニアルバム。
+-Music:Fuji(141hP)、Bass:はるちん[track06,08]、Artwork:EL
+-ニコニコ超会議で開催するTHE VOC@LOiD 超 M@STER 31（超ボーマス31）で頒布。ニコニコ超会議に因んで25枚限定。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++canvas / 初音ミク
++[[海中電灯]] / 初音ミク
++[[輪廻の瑠璃世界]] / 初音ミク
++[[Under the sky (AOTO.ver)>Under the sky/アオトケイ]] / MEIKO
++白紙 (inst)
++[[さよなら、君との最後の春に]] / 巡音ルカ
++[[一人ぼっちの最終列車]] / 初音ミク
++[[土瀝青に零した。の路]] / IA
+
+**リンク
+-[[twitter>>http://twitter.com/aoto_kei]]
+-[[ブロマガ>>http://ch.nicovideo.jp/fujiringo]]
+-[[KARENT：「canvas」>>http://karent.jp/album/1714]]
+-[[iTunes Store>>http://itunes.apple.com/jp/album/canvas/id993120580]]
+
+**コメント
+#comment()

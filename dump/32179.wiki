@@ -1,0 +1,47 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#amazon(B00JM6JW9I)
+
+|&nicovideo(http://www.nicovideo.jp/watch/sm23237674)|&youtube(http://www.youtube.com/watch?v=rmY7Cy8J-dM){342,187}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm23369631)|&youtube(http://www.youtube.com/watch?v=PudnUD-18ns){342,187}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm23521372)|&youtube(http://www.youtube.com/watch?v=FlPCWkpSwzk){342,187}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm23891402)|&youtube(http://www.youtube.com/watch?v=HFAnWtzJ3BE){342,187}|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[ATOLS/MIKU>ATOLS／MIKU]]|CENTER:&bold(){ATOLS/MIKU 0}|CENTER:[[ATOLS/MIKU DET EP>ATOLS／MIKU DET EP]]|
+
+|&bold(){[[ATOLS]]}|
+
+|流通|CENTER:即売|CENTER:委託|CENTER:配信|
+|発売|CENTER:2014年4月27日|CENTER:2014年5月14日|CENTER:2015年9月2日|
+|価格||CENTER:￥1,800（税込）|CENTER:￥1,500 / 1曲￥150|
+|サークル|>|CENTER:ATOLS||
+
+**CD紹介
+-ATOLS氏 のアルバム。
+-ATOLS/MIKUシリーズの第2弾。
+-THE VOC@LOiD 超 M@STER 28（超ボーマス28）で頒布。
+-Amazon、とらのあなにて委託販売が、KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++[[アイ>アイ/ATOLS]]
++[[ミラージュドラグーン]]
++[[アワオドリ]]
++[[プリセット]]
++プリセット [DUBSTEP REMIX] 
++[[ハジマリノコトバ]] [Append Version] 
++[[アダム]]
++2013 [2014 REMIX] 
++[[NEW YEARS]] [Long Version] 
++[[ユラグ]]
++リバース
+
+**リンク
+-[[作者Twitter>>http://twitter.com/ATOLSX]]
+-[[Amazon>>http://www.amazon.co.jp/dp/B00JM6JW9I]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/20/50/040030205015.html]]
+-[[KARENT：「ATOLS/MIKU 0」>>http://karent.jp/album/1794]]
+-[[iTunes Store>>http://itunes.apple.com/jp/album/atols-miku-0/id1034672425]]
+
+**コメント
+- ありがとう！！！  -- 良太  (2015-06-05 00:57:04)
+#comment()

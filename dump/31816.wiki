@@ -1,0 +1,37 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://satoimo.vocalo.me/image/jb3_jacket.png)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm23198712)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[JewelBox Vol2]]|CENTER:&bold(){JewelBox Vol3}|CENTER:[[JewelBox Vol4]]|
+
+|&bold(){[[さといも]]}|[[薪原あすみ]]|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2014年4月27日||
+|価格|CENTER:￥1,200|CENTER:￥（税込）|
+|サークル|CENTER:JewelBox||
+
+**CD紹介
+-さといも（天宝石P）の5thアルバム。
+-2014年4月27日開催のM3で頒布した。
+-「ふたつの翼」以降の新曲と、おまけとして「闇の彼方」のLily版を収録。
+-有限会社タップにて、委託販売もしている。
+
+**曲目
++[[La･Breeze]]/結月ゆかり&種村めぐみ(GUMI)
++[[ふたつの翼]]/種村めぐみ(GUMI)
++[[秋色の窓辺に]]/結月ゆかり
++[[破滅のMOSAIC]]/氷山キヨテル
++[[闇の彼方]]/メルリ
++[[Angelic Jewel]]～2013Version～/結月ゆかり
++[[食いしん坊のラプソディ]]/メルリ
++闇の彼方（Lily版）/Lily
+
+**リンク
+-[[作者HP>>http://satoimo.vocalo.me/jewelbox3/index.html]]
+-[[委託販売>>http://sign-tap.ocnk.net/product/142]]
+
+**コメント
+#comment()

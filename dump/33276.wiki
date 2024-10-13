@@ -1,0 +1,44 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#amazon(B017GUMFPY)
+
+|&nicovideo(http://www.nicovideo.jp/watch/sm27535874)|&youtube(http://www.youtube.com/watch?v=Ot7T5BRLBz0)|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[dialogue>dialogue/CD]]|CENTER:&bold(){TOY}|CENTER:[[LIFETIME]]|
+
+|&bold(){[[KEI]]}|
+
+発売：2015年11月14日
+価格：￥1,000（税込）
+流通：即売
+サークル：HOMING ECHO
+
+**CD紹介
+-KEI氏 自主制作5枚目のVOCALOIDアルバム。
+-コンピレーションCDなどに収録された楽曲を中心に 全曲リミックス&リマスタリングを行った全13曲を収録。
+-THE VOC@LOiD M@STER 33（ボーマス33）にてリリース。
+-amazonで委託販売が行われていた。
+
+**曲目
++[[キズ]]
++Named
++[[Dead Stock Alien]]
++[[そばにいて]]
++ヘッドフォン・アディクション
++ともしび
++いつもの朝
++[[A Leaf Letter]]
++[[モラトリアン]]
++[[そらもよう]]
++ローグ
++[[君の音が]]
++隣
+
+**リンク
+-[[HOMING ECHO（作者ホームページ）>>http://homingecho.com/disco.html]]
+-[[amazon.co.jp>>http://www.amazon.co.jp/gp/product/B017GUMFPY/]]
+
+**コメント
+- いつもの朝大好きなんだよね  -- 名無しさん  (2015-11-02 20:25:29)
+- ローグが好きすぎて世界がヤバイ  -- 名無しさん  (2016-02-17 15:14:25)
+#comment()

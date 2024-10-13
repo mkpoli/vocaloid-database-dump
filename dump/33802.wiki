@@ -1,0 +1,31 @@
+#right(){&furigana(みくろこすもす)&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1855_20151205023401_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[White Room]]|CENTER:&bold(){ミクロコスモス}|CENTER:[[Save the Children ~ Hope Macaron 2016]]|
+
+|&bold(){[[Gumin]]}|mebiuse444|
+
+発売：2016年1月29日
+価格：￥300
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：[[siyu>>http://piapro.jp/si55yu88]]
+
+**CD紹介
+-Gumin氏の配信シングル。
+-KARENTレーベルよりダウンロード販売が行われている。巡音ルカ7周年記念特集で配信された作品の1つ。
+
+**曲目
++[[広いコスモとちっぽけな私]] （feat. 巡音ルカ）
++U2 （feat. 巡音ルカ＆KAITO）
+
+**リンク
+-[[twitter>>http://twitter.com/kirikirin3939]]
+-[[作者ブログ>>http://ameblo.jp/kirikirin3939/]]
+-[[KARENT：「ミクロコスモス」>>http://karent.jp/album/1855]]
+-[[KARENT：「巡音ルカ聖誕祭'16」特集ページ>>http://karent.jp/special/luka16]]
+-[[iTune Store>>http://itunes.apple.com/jp/album/microcosmos-single/id1074536499]]
+
+**コメント
+#comment()

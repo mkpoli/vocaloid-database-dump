@@ -1,0 +1,57 @@
+#right(){&furigana(しんちぇん)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+**製品
+-VOCALOID
+&image(http://gd1.alicdn.com/bao/uploaded/i1/678151706/TB2yxt4kXXXXXa0XpXXXXXXXXXX_!!678151706.png_600x600.jpg,width=150)
+-Synthesizer V
+&image(https://dreamtonics.com/wp-content/uploads/assets/img/vdb/infinity.png,width=400)
+
+***製品概要
+|製品名|MIDDLE:CENTER:星塵 (Stardust)|MIDDLE:CENTER:星塵Infinity|
+|発売|MIDDLE:CENTER:2016年2月20日|MIDDLE:CENTER:2022年2月20日|
+|価格|MIDDLE:CENTER:680元||
+|開発|MIDDLE:CENTER:上海禾念|MIDDLE:CENTER:平行四界|
+|エンジン|MIDDLE:CENTER:VOCALOID4|MIDDLE:CENTER:Synthesizer V|
+|言語|>|MIDDLE:CENTER:中国語ライブラリ|
+|性別|>|MIDDLE:CENTER:女声|
+|サンプリング元|>|MIDDLE:CENTER:茶理理|
+|得意な曲のテンポ|||
+|得意な音域|||
+
+**製品紹介
+合成音声名：『&u(){星塵}』（&u(){しんちぇん}）
+-同人音楽プロジェクト「平行四界Quadimension」のマスコットキャラクター「平行四界子 Quadimensionko」をideoloによりリファインした製品。
+-中国語表記では『星尘』。
+-2017年にはアズールレーンとのコラボレーションも行われている。
+-後に平行四界のボーカルシリーズ「五維介質（MEDIUM5）」のメンバーの一人で、五姉妹の3番目であることが明かされ、2022年2月20日にはSynthesizer V AIに対応した「星塵Infinity」も発売された。またこれに先立つ2020年9月13日には「[[星塵Minus]]」が発売されたが、MEDIUM5が生まれた際にプラスの属性と均衡を取るために生まれた存在であり星塵本人とは別人（事実、キャラクターデザインも音声提供者も別人）である。
+
+**デモソング
+|『[[StarLaLaLa]]』／[[ZOMiG]]&br()&youtube(https://www.youtube.com/watch?v=HgfUiF2_U44){342,187}|『[[Star Wish 星愿]]』／[[Kide]]&br()&youtube(https://www.youtube.com/watch?v=eXMsfKLbXvE){342,187}|
+|『[[星之伊始]]』／[[天钦]]&br()&youtube(https://www.youtube.com/watch?v=qTohnrAlfT4){342,187}|『[[时一现耳三千岁]]』／[[MeLo]]&br()&youtube(https://www.youtube.com/watch?v=hyE9i-UZIOE){342,187}|
+
+**リンク
+-[[公式ページ>>https://weibo.com/stardustofficial]]
+//[[（見られない人はこちらから）>>http://tw.weibo.com/stardustofficial]]
+-[[ビリビリ動画公式チャンネル>>https://space.bilibili.com/15817819/]]
+-[[YouTubeチャンネル>>https://www.youtube.com/channel/UCQJzNUVrMgQDg8IslOQak_A]]
+-[[Twitterアカウント>>https://twitter.com/quad_stardust]]
+
+**関連タグ内の更新履歴
+※「星塵」タグ内で最近編集やコメントのあった記事を新しい方から10件表示しています。
+#list_by_tagsearch(星塵,sort=timestamp,sort2=desc,errmsg=まだ曲が登録されていません。,or,10)
+
+
+**コメント
+//- わお！追加乙！  -- 良太  (2016-02-20 17:34:41)
+- 中国のボカロはどれも可愛い  -- 悪斗  (2016-02-21 08:46:09)
+- クセが強いけどIAのようなクリアな歌声。  -- 名無しさん  (2016-02-22 00:14:56)
+- ↑星塵の声色は、敢て言えば、らなに近いかな？  -- 名無しさん  (2016-02-22 20:54:54)
+- 星尘かわいいですね★Amazonに来てほしいです！Amazonで発売を待ってます！ 星尘是可爱★我要你来亚马逊！等待在亚马逊发售！  -- 名無しさん  (2016-10-01 08:32:14)
+- 中国大陸や台湾の話し言葉の公用語が北京語だからなのか、北京語データベースにしてあるけれども、広東語データベースは出ないのかな。  -- tomohiro  (2016-10-25 07:58:46)
+- 中国の子はだいたいかわいい  -- ばななあいす  (2017-01-03 18:06:53)
+- 日本語出ないかな？出てほしいな(*´▽｀*)  -- 名無しさん  (2017-08-13 20:09:21)
+- 最近アズールレーンでコラボしたから星塵ちゃんはもーちょっとアズレン提督に知って欲しいナ  -- 名無しさん  (2017-12-16 16:39:20)
+#comment()

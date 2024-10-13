@@ -1,0 +1,29 @@
+#right(){&furigana(にえのふうさい)&furigana()【登録タグ:&tags() 】}
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[贄の風采]]|CENTER:&bold(){贄の風采/PARTED-remixes-}|CENTER:[[Crystal Melodies]]|
+
+|&bold(){[[クリスタルP]]}|
+
+発売：2015年3月8日
+価格：￥1,000
+流通：即売
+サークル：3レン腐
+ジャケットイラスト：壱村
+
+**CD紹介
+-クリスタルPのシングルCD。
+-VOCALOID PARADISE 関西 4（ボーパラ関西4）で頒布。
+
+**曲目
++[[贄の風采]]
++PARTED～Appassionato～
++PARTED～Sophisticated～
++水の往き者～b-MermaidⅡ～
++贄の風采（KAITOless）
++水の往き者（KAITOless）
+
+**リンク
+-[[作者ブログ>>http://blog.k-kei.versus.jp/]]
+
+**コメント
+#comment()

@@ -1,0 +1,30 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1825_20151029215127_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[The Sheltered World]]|CENTER:&bold(){Velonica}|CENTER:[[夢見るマカロンガール]]|
+
+|&bold(){[[Re:nG]]}|yuki|
+
+発売：2015年11月18日
+価格：￥300
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：[[都>>http://piapro.jp/miyakozl]]
+
+**CD紹介
+-Re:nG氏の配信シングル。
+-最新曲「Velonica」と、AniNite 2015のために歌唱の全直し、ミックス、音源アサインなどもすべてやり直した「jewelfish」を収録している。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++[[Velonica]] （feat. 氷山キヨテル）
++[[jewelfish]] - AniNite 2015 ver. - （feat. 氷山キヨテル）
+
+**リンク
+-[[作者サイト>>http://reng.jp/]]
+-[[KARENT：「Velonica」>>http://karent.jp/album/1825]]
+-[[iTunes Store>>http://itunes.apple.com/jp/album/velonica-single/id1058245754]]
+
+**コメント
+#comment()

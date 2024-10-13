@@ -1,0 +1,34 @@
+#right(){&furigana(あめのちはれ)&furigana()【登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186133774.jpg,x=300,y=300)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Crystal Melodies]]|CENTER:&bold(){雨のち→晴れ}|CENTER:[[テンカラット]]|
+
+|&bold(){[[クリスタルP]]}|
+
+
+発売：2015年8月16日
+価格：￥500
+流通：即売
+サークル：クリキッド
+ジャケットイラスト：アギ
+
+**CD紹介
+-クリスタルPのシングルCD。
+-KAITOとレンのデュエット曲と、『[[sync-loid:06>sync-loid:06 -Yellow Magic-]]』収録曲のKAITO版を収録。
+-コミックマーケット88（C88）で頒布。
+
+**曲目
++雨のち→晴れ
++ガラム de マサラ～KAITO ver.～
++雨のち→晴れ-KAITO less-
++雨のち→晴れ-Len less-
++雨のち→晴れ-inst-
++ガラム de マサラ～KAITO ver.～-inst-
+
+**リンク
+-[[作者ブログ>>http://blog.k-kei.versus.jp/]]
+
+**コメント
+#comment()

@@ -1,0 +1,37 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" class="nicovideo" src="http://www.nicovideo.jp/thumb_mylist/15037766" frameborder="0" scrolling="no"></iframe>)
+
+**特徴
+-絵師・PV師。読みは「くりす」。
+-ニコ動への初投稿は、2009年12月7日[[TRI-ReQ]]氏の楽曲「[[LINK>LINK/TRI-ReQ]]」。
+-その後は、[[19's Sound Factory]]、[[みきとP>みきとP/作り手]]氏など、沢山のボカロPにイラストと動画を提供している。
+-「初音ミクマジカルミライ2013」「雪ミク2013」メインビジュアルイラストを担当する。
+
+**リンク
+-[[公式HP>>http://illustchris.com]]
+-[[pixiv>>http://www.pixiv.net/member.php?id=414148]]
+-[[PIAPRO>>http://piapro.jp/chris4708]]
+-[[twitter>>http://twitter.com/jp_chris]]
+
+**曲
+#list_by_tag(CHRIS（作り手）,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(CHRISCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm9024627)|&nicovideo(http://www.nicovideo.jp/watch/sm9491671)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm13164622)|&nicovideo(http://www.nicovideo.jp/watch/sm15911424)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm16316120)|&nicovideo(http://www.nicovideo.jp/watch/sm16409919)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm17365832)|&nicovideo(http://www.nicovideo.jp/watch/sm17651826)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm18857288)|&nicovideo(http://www.nicovideo.jp/watch/sm19042393)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm19302098)|&nicovideo(http://www.nicovideo.jp/watch/sm19315201)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm19339722)|&nicovideo(http://www.nicovideo.jp/watch/1360234832)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm20432353)|&nicovideo(http://www.nicovideo.jp/watch/sm22228393)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm22303287)|&nicovideo(http://www.nicovideo.jp/watch/sm22626781)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm23205207)|&nicovideo(http://www.nicovideo.jp/watch/sm24505980)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm24961612)|&nicovideo(http://www.nicovideo.jp/watch/sm25672022)|
+
+**コメント
+- この人の絵めっちゃ好き  -- 名無しさん  (2016-02-13 07:21:31)
+#comment()

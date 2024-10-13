@@ -1,0 +1,34 @@
+#right(){&furigana(たえこ)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/31718425" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a target="_blank" href="http://www.nicovideo.jp/mylist/31718425">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-絵師・動画師。時折作詞を手掛けることも。
+-「キューティクルの人」の別名通り、艶が感じられる髪と少女漫画を思わせる繊細な絵柄が特徴。また、青系統の色も多用されている。
+-旧友でもある [[PIROPARU]]氏と、[[ロリP]]、[[メッシとイタ飯]]氏の楽曲MVを担当することが多い。
+
+**リンク
+-[[pixiv>>http://www.pixiv.net/member.php?id=191449]]
+-[[Twitter>>https://twitter.com/0000taeko]]
+
+**曲
+#list_by_tag(多英子,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(多英子CD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm6803064)|&nicovideo(sm15414616)|
+|&nicovideo(sm16150222)|&nicovideo(sm17074365)|
+|&nicovideo(sm17699819)|&nicovideo(sm18049396)|
+|&nicovideo(sm18553781)|&nicovideo(sm18805926)|
+|&nicovideo(sm19625288)|&nicovideo(sm19843435)|
+|&nicovideo(sm20277885)|&nicovideo(sm20850590)|
+|&nicovideo(sm21225201)|&nicovideo(sm21439547)|
+|&nicovideo(sm21871459)|&nicovideo(sm22013327)|
+|&nicovideo(sm22353056)|&nicovideo(sm23005328)|
+|&nicovideo(sm23963452)|&nicovideo(sm24056880)|
+|&nicovideo(sm24207662)|&nicovideo(sm24855432)|
+|&nicovideo(sm27238769)|&nicovideo(sm27276513)|
+
+**コメント
+#comment()

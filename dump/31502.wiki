@@ -1,0 +1,11 @@
+#right(){&furigana()&furigana()【登録タグ:&tags()】}
+&nicovideo(http://www.nicovideo.jp/watch/sm23644954)
+作曲：[[スタッフロールP]]
+編曲：[[スタッフロールP]]
+唄：KAITO V3
+
+**曲紹介
+-『[[KAITO JAZZコンピレーションアルバム　Twilight Blue]]』収録曲のテクノアレンジバージョン。
+
+**コメント
+#comment()

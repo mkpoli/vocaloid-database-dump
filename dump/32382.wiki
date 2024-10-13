@@ -1,0 +1,162 @@
+#right(){&furigana(syudou)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo_mylist(<iframe width="312" height="176" src="http://ext.nicovideo.jp/thumb_mylist/34911106" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/34911106">【ニコニコ動画】</a></iframe>)|
+
+**特徴
+作り手名：『&u(){syudou}』(&u(){しゅどう})
+-2009年から音MADや演奏してみたを投稿していた活動者。
+--1995年9月27日、山梨県生まれ栃木県育ち。
+--2010年5月、「[[月の下で。]]」にてボカロPデビュー。
+--2010年から2013年に至る楽曲は現在全て削除されており、現存する中では「[[ふなっしーの歌]]」が最古の楽曲である。(一部2019年まで残っていたが現在はそれらも削除済み)
+-使用合成音声は[[初音ミク]]、[[可不]]。
+-代表作は、「[[邪魔]]」「[[ビターチョコデコレーション]]」「[[コールボーイ]]」「[[孤独の宗教]]」「[[キュートなカノジョ]]」など。
+--非VOCALOID曲では[[Ado]]氏に提供した「[[うっせぇわ>>https://www.youtube.com/watch?v=Qp3b-RXtz4w]]」。
+---「[[うっせぇわ]]」については、プロジェクトセカイとのタイアップによりVOCALOID版も公開された。
+-38作目の「邪魔」で自身初の殿堂入りを、44作目の「ビターチョコデコレーション」で自身初のミリオンを達成。
+-初の可不オリジナル曲「[[キュートなカノジョ]]」が爆発的ヒット。&bold(){可不オリジナル初のミリオン達成曲}となると同時に、&bold(){CeVIOオリジナル史上最短(67日)でのミリオン達成曲}となった。
+-自分の曲を自ら歌うセルフカバー動画を上げることもある。
+-2021年3月からはシンガーソングライターとしての活動もスタートさせた。
+//-殿堂入りしている曲は以下の通り。&br()「&list_by_tagsearch(syudou,殿堂入り,sort=furigana,option=nolist,nolistspace=」「,100)」
+-殿堂入りしている曲は以下の通り。&br()&list_by_tagsearch(syudou,殿堂入り,sort=furigana,option=nolist,nolistspace=／,100)
+
+**ミリオン達成状況
+|CENTER:&bold(){曲名}|CENTER:&bold(){100万再生}|CENTER:&bold(){200万再生}|CENTER:&bold(){300万再生}|CENTER:&bold(){備考}|
+|[[ビターチョコデコレーション]]|2019年4月29日|2019年11月9日|2020年7月13日||
+|[[コールボーイ]]|2020年10月11日||||
+|[[孤独の宗教]]|2020年11月17日|2022年12月11日|||
+|[[邪魔]]|2021年1月12日|||50人目となる4曲ミリオン持ちP|
+|[[キュートなカノジョ]]|2021年4月29日|2021年8月16日|2022年1月30日|&bold(){可不オリジナル曲では史上初&br()CeVIOオリジナル曲で最速ミリオン達成曲&br()CeVIOオリジナル曲史上初のダブルミリオン達成曲}&br()4２人目となる5曲ミリオン持ちP&br()34人目となる&b(){トリプルミリオン複数持ちP}|
+|[[ジャックポットサッドガール]]|2021年5月31日|2024年1月9日||36人目となる6曲ミリオン持ちP&br()34人目となる&bold(){4曲ダブルミリオン持ちP}|
+|[[カレシのジュード]]|2022年3月10日|2024年3月30日||35人目となる7曲ミリオン持ちP&br()23人目となる&bold(){5曲ダブルミリオン持ちP}|
+|[[爆笑]]|2022年4月22日|||27人目となる8曲ミリオン持ちP|
+|[[孤独毒毒]]|2022年9月5日|||20人目となる9曲ミリオン持ちP|
+|[[馬鹿>馬鹿/syudou]]|2023年7月8日|||18人目となる10曲ミリオン持ちP|
+
+**リンク
+//-個人HP、PIAPRO、YouTube等ある場合は、ここに。当wiki以外のサイトへリンクを貼る場合は必ず「>>」で別ウインドウでリンクしてください。
+-[[official site>>http://www.syudou.com/]]
+-[[ニコニコ動画>>https://www.nicovideo.jp/user/3489219]]
+-[[YouTube>>http://www.youtube.com/channel/UCraC7460yGQF4GDmSjCecpQ]]
+--[[YTプレイリスト「MusicVideo」>>https://m.youtube.com/playlist?list=PLp-7r_u58muaqAlOPa2cJVpiiT6YYercW]]
+--[[YTプレイリスト「Vocaloids」>>https://m.youtube.com/playlist?list=PLp-7r_u58muaa0ZDGzeYRixc95uFlr4va]]
+--[[YTプレイリスト「Works」>>https://m.youtube.com/playlist?list=PLp-7r_u58muaTgaj56TyLDBR3NR9Ly2iG]]
+-[[piapro>>http://piapro.jp/syudou]]
+-[[Twitter>>http://twitter.com/tikandame]]
+--[[Twitter（公式スタッフアカウント）>>https://twitter.com/syudou_info]]
+-[[Bilibili>>https://space.bilibili.com/514533622]]
+-[[Instagram>>https://www.instagram.com/syudou279/]]
+-[[note>>https://note.com/syudoublog]]
+-[[TikTok>>https://www.tiktok.com/@syudou]]
+
+-[[Wikipedia（単語記事）>>https://ja.m.wikipedia.org/wiki/Syudou]]
+-[[ニコニコ大百科（単語記事）>>https://dic.nicovideo.jp/a/syudou]]
+
+**曲
+#list_by_tagsearch(syudou,sort=furigana2,errmsg=まだ曲が登録されていません。,and,100)
+
+**CD
+#list_by_tagsearch(syudouCD,sort=furigana2,errmsg=まだCDが登録されていません。,and,100)
+
+**動画
+#region(close,2010~2015)
+#region(close,2011~2012（削除済み）)
+|&nicovideo(sm15861032)|&nicovideo(sm17301539)|
+|&nicovideo(sm17593532)|&nicovideo(sm17905174)|
+|&nicovideo(sm18596932)|&nicovideo(sm18766998)|
+|&nicovideo(sm19056186)|&nicovideo(sm19280477)|
+|&nicovideo(sm19524026)|>|
+#endregion
+
+#region(close,2013)
+|&nicovideo(sm19813429)|&nicovideo(sm19853247)|
+|&nicovideo(sm20011535)|&youtube(https://www.youtube.com/watch?v=7Qa3t1Om9_s){342,187}|
+|&nicovideo(sm20263910)|&nicovideo(sm20319108)|
+|&nicovideo(sm20483690)|&nicovideo(sm20675510)|
+|&nicovideo(sm20941123)|>|
+#endregion
+#region(close,2014)
+|&nicovideo(sm23193069)|&nicovideo(sm23243911)|
+|&nicovideo(sm23313391)|&nicovideo(sm23337578)|
+|&nicovideo(sm23400025)|&nicovideo(sm23468756)|
+|&nicovideo(sm23574611)|&nicovideo(sm23618444)|
+|&nicovideo(sm23770077)|&nicovideo(sm23944000)|
+|&nicovideo(sm24137092)|&nicovideo(sm24312156)|
+|&nicovideo(sm24461050)|&nicovideo(sm24699073)|
+|&nicovideo(sm24863560)|&nicovideo(sm25081463)|
+#endregion
+#region(close,2015)
+|&nicovideo(sm25290256)|&nicovideo(sm25410263)|
+|&nicovideo(sm25690264)|&nicovideo(sm25873554)|
+|&nicovideo(sm26225522)|&nicovideo(sm26509015)|
+|&nicovideo(sm26691992)|&nicovideo(sm26893496)|
+|&nicovideo(sm27026086)|&nicovideo(sm27489477)|
+#endregion
+#endregion
+#region(close,2016~2020)
+#region(close,2016)
+|&nicovideo(sm28111412)|&nicovideo(sm28318581)|
+|&nicovideo(sm28413225)|&nicovideo(sm28589225)|
+|&nicovideo(sm28751796)|&nicovideo(sm28957319)|
+|&nicovideo(sm29486710)|&nicovideo(sm29703860)|
+|&nicovideo(sm29841826)|&nicovideo(sm30256653)|
+#endregion
+#region(close,2017)
+|&nicovideo(sm30445892)|&nicovideo(sm30971121)|
+|&nicovideo(sm31199326)|&nicovideo(sm31319841)|
+|&nicovideo(sm31588258)|&nicovideo(sm32086980)|
+|&nicovideo(sm32200620)|&nicovideo(sm32429859)|
+#endregion
+#region(close,2018~2019)
+|&nicovideo(sm32633575)|&nicovideo(sm32921716)|
+|&nicovideo(sm33197924)|&nicovideo(sm33480884)|
+|&nicovideo(sm33741803)|&nicovideo(sm34108482)|
+
+|&nicovideo(sm34425299)|&nicovideo(sm34963017)|
+|&nicovideo(sm35517987)|&nicovideo(sm36003558)|
+#endregion
+#region(close,2020)
+|&nicovideo(sm36314325)|&nicovideo(sm37240710)|
+|&nicovideo(sm37396014)|&nicovideo(sm37716686)|
+|&nicovideo(sm37911216)|>|
+#endregion
+#endregion
+|&nicovideo(sm38300091)|&nicovideo(sm38508888)|
+|&nicovideo(sm38790520)|&nicovideo(sm39171468)|
+|&nicovideo(sm39666771)|&youtube(https://www.youtube.com/watch?v=hh3W_FjUn9s&list=PLp-7r_u58muaTgaj56TyLDBR3NR9Ly2iG&index=13&pp=iAQB8AUB){342,187}|
+|&nicovideo(sm40562139)|&nicovideo(sm41144625)|
+|&nicovideo(sm42763342)|&nicovideo(sm43315856)|
+//|&nicovideo()|&nicovideo()|
+//|&nicovideo(ニコ動のURL)|&nicovideo(ニコ動のURL)|
+//|&youtube(YoutubeのURL){342,187}|&youtube(YoutubeのURL){342,187}|
+**関連タグ内の更新履歴
+#region(close,関連タグ内の更新履歴)
+関連タグ内の更新履歴
+※「syudou」「syudouCD」タグ内で最近編集やコメントのあった記事を新しい方から10件表示しています。
+#list_by_tagsearch(syudou,syudouCD,sort=timestamp,sort2=desc,errmsg=まだ曲、CDが登録されていません。,or,10)
+#endregion
+
+**コメント
+- 歌も中の人も最高なお方(小並感)  -- 名無し  (2018-02-10 12:45:41)
+- 普通に好き  -- 名無しさん  (2018-05-23 14:46:38)
+//- 死生活の歌詞を追加してほしいです…！  -- 名無しさん  (2018-07-09 02:03:49)
+//- 「[[死生活]]」作成されました。  -- 名無しさん  (2018-07-09 19:18:09)
+- 好きです  -- 名無しさん  (2019-02-08 01:08:44)
+- ライブ配信見ました！ 素敵な声をお持ちですよ。(  -- 一等星  (2019-06-15 23:05:06)
+- アイソトープは？  -- 名無しさん  (2020-09-21 09:13:13)
+- ↑このwikiでは、CD収録のみで動画が投稿されていない曲は掲載することが出来ないため、載っていないのだと思います。  -- 名無しさん  (2020-09-21 12:26:13)
+- アイソトープいいよね  -- 名無しさん  (2020-10-20 20:20:28)
+- うっせぇわで知った人はぜひ色々聴いてみましょう。  -- 名無しさん  (2021-05-19 17:32:07)
+//- なぜ代表作の中にコールボーイが入ってないんだ…うわぁぁぁぁぁーー  -- あずき  (2021-09-09 12:32:33)
+- 今からでいいからギャンブル入れて…  -- 推しはすとぷり  (2021-09-09 12:34:37)
+- 特徴の「初音ミクのみ」じゃなくなったよね。可不が。  -- 名無しさん  (2022-02-13 22:19:37)
+//- ↑ミクwikiだからか  -- 上と同じ名無しさん  (2022-02-13 22:39:03)
+//- VocaDBからだとsyudouさんの処女作は「月の下で。」らしい  -- 名無しさん  (2023-08-07 18:12:55)
+- 控えめに言って、神。曲はもちろん最高で中毒性もあるし、syudouさん本人もかっこよくて可愛くて面白いからなぁ。  -- 名無しさん  (2023-10-26 19:11:45)
+- 歌えるボカロpって最高！！  -- 名無しさん  (2024-01-24 10:24:01)
+- この人うっせぇわ書いた人だったの！？！？まじか…  -- 名無しさん  (2024-07-11 21:45:12)
+- 最近syudouさん本人の歌の方がメインだよね。もうミクの曲は自発的に作らないのかな…？syudouさんのミクの声めちゃくちゃ好きなんだけどなあ…  -- 名無しさん  (2024-07-23 11:28:52)
+- この人って米津玄師が産まれた事に深い意味を感じざるを得ない人？  -- 名無しさん  (2024-09-27 01:53:04)
+#comment()

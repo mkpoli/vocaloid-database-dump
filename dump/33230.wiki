@@ -1,0 +1,41 @@
+#right(){&furigana(llliiillliiilll)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo_mylist(<iframe width="312" height="176" src="https://ext.nicovideo.jp/thumb_mylist/30563528" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/30563528">【ニコニコ動画】</a></iframe>)|&nicovideo_mylist(<iframe width="312" height="176" src="https://ext.nicovideo.jp/thumb_mylist/27644055" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/27644055">【ニコニコ動画】</a></iframe>)|
+
+**特徴
+作り手名：『&u(){llliiillliiilll}』（&u(){リリル}）
+-「バーコードP」と称されることもある。
+-rascal-pと共に楽曲制作をすることが多い。
+-安定した心地良い音作りと、調声技術に定評がある。
+-使用するVOCALOIDはGUMI、初音ミク、IA。
+
+**リンク
+-[[Soundcloud>>https://soundcloud.com/llliiillliiill]]
+-[[Twitter>>https://twitter.com/llliiillliiill]]
+-[[YouTube>>https://youtube.com/@320m320]]
+
+**曲
+#list_by_tag(llliiillliiilll,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(llliiillliiilllCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**オリジナル曲
+|&nicovideo(sm17037786)|&nicovideo(sm17803942)|
+|&nicovideo(sm25924709)||
+|&youtube(https://www.youtube.com/watch?v=7xNMcwAgxx8){342,187}|&youtube(https://www.youtube.com/watch?v=QakygNTWdns){342,187}|
+|&youtube(https://www.youtube.com/watch?v=pinoRW9qCsM){342,187}|&youtube(https://www.youtube.com/watch?v=RnbK1Z2vYRk){342,187}|
+
+**コラボ曲
+|&nicovideo(sm15588553)|&nicovideo(sm15755757)|
+|&nicovideo(sm16039124)|&nicovideo(sm16187258)|
+|&nicovideo(sm18050542)|&nicovideo(sm18839917)|
+|&nicovideo(sm19748969)|&nicovideo(sm27426333)|
+
+**コメント
+- Invationは？  -- 名無しさん  (2016-05-22 00:35:29)
+- ？  -- 名無しさん  (2016-05-22 11:13:11)
+#comment()

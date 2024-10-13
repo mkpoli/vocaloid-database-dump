@@ -1,0 +1,47 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1713_20150427004922_0280_0280.jpg)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm26036593)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Auto Heart E.P]]|CENTER:&bold(){Homeopathy}|CENTER:[[枯れない名前E.P]]|
+
+|&bold(){[[ちんまりP]]}|
+
+|流通|CENTER:即売|CENTER:通販|CENTER:配信|
+|発売|CENTER:2015年4月25日||CENTER:2015年5月13日|
+|価格|CENTER:￥1,000|CENTER:￥1,500（税別）|CENTER:￥1,500|
+|サークル|CENTER:あめあかり|CENTER:Rm||
+
+**CD紹介
+-ちんまりPことrisou氏の1stフルアルバム。
+-ジャケットイラストをふろく氏、マスタリングをenji氏が担当。
+-THE VOC@LOiD 超 M@STER 31（超ボーマス31）にて頒布。
+-委託販売と、KARENTレーベルよりダウンロード販売が行われる。
+
+**曲目
++ステラのクレーター / じんたん
++203号室より / Lily
++[[us>us/ちんまりP]] / ゆきな
++[[劇中歌]] / 初音ミク
++少女と傘 / ぽんず
++[[カランコエの話]] / 38番
++homeopathy / 初音ミク
++[[遠い記憶、花束の赤]] / *染
++[[幸せの内訳]] / 初音ミク
++グラフィカルメモリーズ / 大西あみみ
++[[Ryrie]] / 初音ミク
++detained by rain / 前野
++[[転校前夜]] / 初音ミク
++[[雨宙寫眞]] / *染
+
+**リンク
+-[[tumblr>>http://risoumusic.tumblr.com/]]
+-[[通販サイト>>http://risou.thebase.in/]]
+-[[twitter>>http://twitter.com/RisouMusic]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/30/26/040030302650.html]]
+-[[KARENT：「Homeopathy」>>http://karent.jp/album/1713]]
+-[[iTunes Store>>http://itunes.apple.com/jp/album/homeopathy/id990869027]]
+
+**コメント
+#comment()

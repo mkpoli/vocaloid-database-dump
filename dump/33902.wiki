@@ -1,0 +1,48 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#amazon(B00IL5D03A)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm17297237)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){sync-loid:01}|CENTER:[[sync-loid:02]]|
+
+|[[しのP]]|[[corico]]|[[くっじー]]|[[葛野大路右京]]|[[ちゃぷP]]|[[774P]]|[[なるしまたかし]]|
+|[[獅子神]]|[[muhmue]]|[[どあらP]]|[[ねこぜなおとこ]]|[[Eon]]|[[cittan*]]|[[ゆうくんラングレー]]|
+|[[project sync-loid]]|[[cao.]]|[[ヱースケ]]|||||
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2012年3月25日||
+|価格|CENTER:￥1,000（税込）|CENTER:￥1,300（税別・とらのあな）&br()￥1,500（税別・Amazon）|
+|レーベル|>|CENTER:project sync-loid|
+
+**CD紹介
+-VOCALOID PARADISE（ボーパラ）・VOCALOID PARADISE 関西（ボーパラ関西）・MUSIC COMMUNICATION（Mコミ）の公式コンピレーションCD。
+-ボーカロイドオンリー即売会「VOCALOID PARADISE 関西」と音系オンリー即売会「MUSIC COMMUNICATION」がお送りするコンピレーションアルバム第1弾![sync-loid]シリーズはここからはじまった!
+-VOCALOID PARADISE 関西（ボーパラ関西）・MUSIC COMMUNICATION 5（Mコミ5）で頒布。
+-とらのあな、メロンブックス、Amazonで委託販売が行われていた。
+
+**曲目
++[[Never fading]] / しのP feat. 初音ミク
++[[Color Days]] / corico feat. 巡音ルカ
++夢ノ彼方 / くっじー feat. 鏡音リン
++羨望の煉獄 / 葛野大路右京 feat. 歌愛ユキ
++MELTING SWITCH / ちゃぷP feat. CUL
++[[随神]] / 774P feat. KAITO
++Transcendental Violinist / なるしまたかし feat. 鏡音リン
++ガールズ・ハンマー / 獅子神 feat. 巡音ルカ
++屋根裏と魔女 / muhmue feat. 鏡音リン
++[[傷女の輪舞曲～ Shojo's Rondo ～]] / どあらP feat. IA
++[[D_MINE]] / ねこぜなおとこ feat. 初音ミク
++[[ハートのたね]] / Eon feat. GUMI
++ワンシーズン・フィロソフィー / cittan* feat. 初音ミク
++[[一期一会>一期一会/ゆうくんラングレー]] / ゆうくんラングレー feat. 初音ミク
+
+**リンク
+//-[[sync-loid:01 特設サイト>>http://vo-para.birdzberth.com/syncloid01/]]
+-[[sync-loid>>http://ttc.ninja-web.net/vo-para/sync-loid.htm]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/03/52/040030035217.html]]
+-[[Amazon>>http://www.amazon.co.jp/dp/B00IL5D03A/]]
+
+**コメント
+- 774P sm16333883 しのPの曲はラピス版のみ sm18862041 を確認しました  -- 名無しさん  (2016-02-14 05:16:41)
+#comment()

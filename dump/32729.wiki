@@ -1,0 +1,66 @@
+#right(){&furigana(れんあい)&furigana()【登録タグ:&tags() 】}
+//&ref(http://img.toranoana.jp/popup_img/04/0030/26/30/040030263094-1p.jpg,width=300,height=300)
+
+&ref(https://ecdnimg.toranoana.jp/ec/img/04/0030/26/30/040030263094-1p.jpg,x=300,y=300)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){恋哀}|CENTER:[[そこにいたこと>そこにいたこと/CD]]|
+
+|&bold(){[[regulus]]}|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2013年11月17日|CENTER:2014年12月3日|
+|価格|CENTER:￥1,000|CENTER:￥1,000|
+|サークル|>|CENTER:regulus|
+
+**CD紹介
+-regulus氏の初アルバム。
+-ラブソングから失恋ソングまでバラード中心に34トラックを収録。
+-THE VOC@LOID M@STER 27（ボーマス27）にて頒布。
+-とらのあなで委託販売が行われている。
+
+**曲目
+***Disc1
++tears blue
++[[アムネジア>アムネジア/regulus]]
++[[涙の跡]]
++[[I'll]]
++[[I've]]
++[[恋哀]]
++[[サクラナミキ]]
++betray instrumental
++[[betray]]
++[[Answer>Answer/regulus]]
++[[泡沫>泡沫/regulus]]
++[[それでもまだ]]
++[[灯し火]]
++[[Reason>Reason/regulus]]
++[[ありがとう>ありがとう/regulus]]
++[[面影]]
++楔
+
+***Disc2
++awakening
++[[風車]]
++[[空の涙]]
++[[雪月花>雪月花/regulus]]
++[[リアクト>リアクト/regulus]]
++[[コトノハ>コトノハ/regulus]]
++[[Bright Lights]]
++遥か彼方から
++[[アマゾラ]]
++[[Pure White]]
++[[生まれてきた理由]]
++[[その手の先に]]
++[[monotone]]
++[[ラストレスト]]
++[[フロストレスト]]
++[[心の雫]]-piano ver-
+
+**リンク
+-[[本人ブログでの告知>>http://regulustm.com]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/26/30/040030263094.html]]
+
+**コメント
+//- 買った！！けど歌詞カードが無いから全部投稿してください！  -- 名無しさん  (2015-11-03 19:41:29)
+#comment()

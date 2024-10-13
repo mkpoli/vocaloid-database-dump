@@ -1,0 +1,36 @@
+#right(){&furigana(fourtuity)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm20366540)|
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Rough Fellow]]|CENTER:&bold(){fourtuity}|CENTER:[[九十九ノ彩雲>九十九ノ彩雲/CD]]|
+
+|&bold(){[[アオトケイ]]}|[[ALT（蕾P）]]|
+
+発売：2013年3月24日
+価格：￥500
+流通：即売
+サークル：ふじりんご
+
+**CD紹介
+-Fuji（141hP）氏の2ndミニアルバム。
+-前作からの再収録を含む全6曲を収録。
+-Music&Movie：Fuji（141hP）、Bass&Masterring:busy...、Illust：蒼葉ミナ、Special Thanks：Ryo(exALT)、Special　Thanks：おみ
+-VOCALOID PARADISE 関西 2（ボーパラ関西2）で頒布。
+
+**曲目
++[[碧空リスタート]]
++@t_work
++一人ニ脚
++[[サマーモノグラム]]
++アマカラトンボ
++[[サンセットアパート]]
+
+**リンク
+-[[twitter>>http://twitter.com/aoto_kei]]
+-[[ブロマガ>>http://ch.nicovideo.jp/fujiringo]]
+
+**コメント
+#comment()

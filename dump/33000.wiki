@@ -1,0 +1,47 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1856_20151206171109_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Nyan Cat EX]]|CENTER:&bold(){CATS RULE THE WORLD}|CENTER:[[うちゅうぜんぶ]]|
+
+|&bold(){[[daniwell]]}|
+
+|流通|CENTER:即売|CENTER:委託|CENTER:配信|
+|発売|CENTER:2015年10月3日||CENTER:2016年1月6日|
+|価格|CENTER:￥1,000|CENTER:￥1,200（税込）|CENTER:￥1,500|
+|サークル|>|CENTER:AIDN||
+
+**CD紹介
+-daniwell氏の2ndアルバム。同人としては1stアルバムとなる。
+-イベント「君とUTAU日々」から頒布開始。
+-メロンブックスで委託販売が行われている。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++[[CATS RULE THE WORLD]] / daniwell feat. 初音ミク＆桃音モモ
++Nyanco Overflow / daniwell feat. 桃音モモ
++INVIOLABILITY / daniwell feat. 初音ミク
++[[REFLEXIVITY]] / daniwell feat. 初音ミク
++ねこねこねこね / daniwell feat. 初音ミク＆桃音モモ
++LP [retake] / daniwell
++[[AI YUENI]] / daniwell feat. 初音ミク＆桃音モモ
++[[とてたてとてた！]] / daniwell feat. ミク＆モモ＆リン＆レン
++[[山田くん]] / daniwell feat. 初音ミク＆桃音モモ
++Necological / daniwell feat. 初音ミク
++[[Nyanyanyanyanyan Cat>Nyanyanyanyanyanyanya!]] [Light Mix] / daniwell feat. 初音ミク＆桃音モモ
++Nyan Cat [箸休め Mix] / daniwell feat. 桃音モモ
++Stochastic Chain Rule / daniwell feat. 初音ミク
++[[BOX CAT]] / daniwell feat. 初音ミク＆桃音モモ
++猫、コタツを占拠する / daniwell feat. 初音ミク＆桃音モモ
+
+**リンク
+-[[特設サイト>>http://aidn.jp/daniwell/cats/]]
+-[[作者サイト>>http://aidn.jp/]]
+-[[メロンブックス>>http://www.melonbooks.co.jp/detail/detail.php?product_id=141314]]
+-[[KARENT：「CATS RULE THE WORLD」>>http://karent.jp/album/1856]]
+-[[iTunes Store>>http://itunes.apple.com/jp/album/cats-rule-the-world/id1070844296]]
+
+**コメント
+- ピアノのセンスすっごいですわ　  -- takoruka2  (2015-10-31 18:42:47)
+- track#1の疾走感は凄い　すごいシンプルなんだけど  -- 名無しさん  (2015-10-31 18:43:45)
+#comment()

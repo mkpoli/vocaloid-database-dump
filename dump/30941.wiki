@@ -1,0 +1,46 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/42195309" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/42195309">【ニコニコ動画】</a></iframe>)|&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/75956385" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/75956385">【ニコニコ動画】</a></iframe>)|
+
+**特徴
+-2014年3月、「[[ブラインド>ブラインド/PIPPO]]」でボカロPデビュー。
+-2023年11月、活動名義を&bold(){KALONE}に変更。
+-使用ボカロは 初音ミク、GUMI、重音テト、Mai。
+-作る曲は爽やかなロック。
+-殿堂入りしている曲は以下の通り。&br()&list_by_tagsearch(PIPPO,殿堂入り,sort=furigana,option=nolist,nolistspace=／,100)
+
+**リンク
+//-[[PIPPO（ぴっぽ）（個人ブログ）>>http://pippo61660.tumblr.com/]]
+-[[Twitter>>https://twitter.com/kalone61660]]
+-[[PIAPRO>>http://piapro.jp/pippo91990]]
+-[[YouTube>>http://www.youtube.com/channel/UCUmkFvx27TAd1DbwtwAVwCw]]
+
+**曲
+#list_by_tag(PIPPO,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(PIPPOCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|>|CENTER:BGCOLOR(lightblue):COLOR(#fff):&font(b,11pt){VOCALOIDオリジナル曲}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm23312672)|&nicovideo(http://www.nicovideo.jp/watch/sm23640410)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm23826566)|&nicovideo(http://www.nicovideo.jp/watch/sm24245417)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm24706042)|&nicovideo(http://www.nicovideo.jp/watch/sm25039009)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm25402027)|&nicovideo(http://www.nicovideo.jp/watch/sm25934213)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm26921631)|&nicovideo(http://www.nicovideo.jp/watch/sm27505459)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm33222576)|&nicovideo(http://www.nicovideo.jp/watch/sm34592421)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm37835868)|&nicovideo(https://www.nicovideo.jp/watch/sm43005499)|
+
+**コメント
+- この人もっと評価されていいと思うんだけどなぁ・・・まぁまだまだこれからか  -- ムタ  (2015-02-12 20:34:57)
+- オモイダシナキ大好き‼︎  -- 瑠璃  (2015-02-28 18:27:17)
+- すき！  -- 名無しさん  (2015-08-02 17:54:10)
+- デルニエで好きになりました！CD欲しいなぁ・・・  -- タケモト  (2015-11-29 17:07:07)
+- 最近ようやく有名になってきてるね、嬉しい！  -- Shou  (2015-12-04 19:48:34)
+- はじめてひとりぼっちとココロの本と聞いたのですがすごく好きになりました。とくにサビが好きです、ミクの声がかわいい  -- 名無しさん  (2015-12-07 22:08:16)
+- 良い歌ばっかだよ!!!大好き!!  -- iV  (2015-12-08 02:20:30)
+- どの曲も感動しちゃう  -- がんも  (2015-12-16 14:27:33)
+- ボカロに帰ってほしい。せめて今どこで音楽やってるのか知りたい  -- チト  (2016-10-03 18:08:23)
+- 雪ミクコンピで知った俺はあまりにも遅すぎた  -- 名無しさん  (2018-03-10 17:03:05)
+- デルニエ旅行記マジで神曲。クロワールエトワールとかイグジットも好きだけど  -- 名無しさん  (2019-09-27 16:46:24)
+- いい  -- 名無しさん  (2024-10-06 19:35:31)
+#comment()

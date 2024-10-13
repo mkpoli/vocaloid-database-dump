@@ -1,0 +1,109 @@
+#right(){&furigana(OnemoretimeOnemoretime)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&youtube(https://www.youtube.com/watch?v=wq_VD_wX12U){342,187}|
+作詞：[[かめりあ]]
+作曲：[[かめりあ]]
+編曲：[[かめりあ]]
+イラスト：[[キナコ]]
+映像：[[みず希]]
+キャラクターデザイン：[[如月憂]]
+唄：[[初音ミク]]
+
+**曲紹介
+曲名：『&u(){One more time * One more time...}』
+-雑誌「[[MIKU-Pack music&artworks feat.初音ミク>>https://karent.jp/special/mikupack14]]」10号付録CDにて先行収録された書き下ろし楽曲。
+-2019年にアニON STATION「初音ミク MUSIC CAFE 2本目」テーマソングに起用され、動画公開された。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**音楽配信
+&ref(https://karent.jp/npdca/1660_20141201215017_0280_0280.jpg,x=300)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Fly to night, tonight]]|CENTER:&bold(){One more time * One more time...}|CENTER:-|
+
+発売：2015年1月21日
+価格：￥150
+流通：配信
+レーベル：[[KARENT>>https://karent.jp/album/1660]]
+ジャケットイラスト：キナコ
+
+***曲目
++One more time * One more time... （feat. 初音ミク）
+
+**歌詞
+（動画より書き起こし）
+
+Dance all night, So dance all night, Oh yeah
+スポットライトが照らした
+Sing all night, So sing all night, Oh yeah
+追憶のダンスホール・スター
+Dance all night, So dance all night, Oh yeah
+輝くフロアの片隅
+Sing all night, So sing all night, Oh yeah
+いつかの面影探す
+
+初めての日々を なぞるもう一度
+今は One more time, 歌う One more time
+鮮やかな色も 時間に流され
+褪せていってしまうのだから
+思い出を探し 叫ぶ夢の中
+朝は One more time, 来ない One more time
+笑うノスタルジー 転がした昨日
+呼ぶ声に巻き戻されて
+
+昔の僕のように 世界はきらめかなくなって
+退屈しのぎのWeekend クリアできなかったゲームソフト差し込んだ
+焦って過ぎ去っていく 日付を追いかけるだけで
+手を引いて踊った その笑顔なくしたのいつからだろう
+
+初めての日々を 想い繰り返す
+今は One more time, 響く One more time
+あの日のときめき 高鳴る鼓動は
+二度と光らないのだから
+些細な言葉を たどった指先
+時は One more time, 駆ける One more time
+記憶も記録も 変わらないでいて
+そしてまた微笑みかけて
+
+欲しかったモノはなんだっけ 人混みの中に忘れて
+したいコトもないWeekend 次の月曜日の朝に怯えている
+「新しい刺激には疲れた」と言い訳すれば
+本日もまた"グッド・オールド・デイズ"
+オトナになっちゃったのはいつからだろう
+
+Dance all night, So dance all night, Oh yeah
+スポットライトが照らした
+Sing all night, So sing all night, Oh yeah
+追憶のダンスホール・スター
+Dance all night, So dance all night, Oh yeah
+輝くフロアの片隅
+Sing all night, So sing all night, Oh yeah
+いつかの面影探す
+
+初めての日々を なぞるもう一度
+今は One more time, 歌う One more time
+鮮やかな色も 時間に流され
+褪せていってしまうのだから
+思い出を探し 叫ぶ夢の中
+朝は One more time, 来ない One more time
+笑うノスタルジー 転がした昨日
+呼ぶ声に巻き戻されて
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+**コメント
+- ホントこの曲好き  -- 名無しさん  (2016-05-30 20:30:44)
+- ボカロはあんま聴かんけど、この曲はすっごい好きだわ。  -- 名無しさん  (2016-07-16 18:59:32)
+//- もう何回も聞いてしまう…歌詞欲しい。  -- 暇人#  (2017-10-22 20:43:28)
+//- かめりあとボカロの関係の話だと解釈した。  -- 名無しさん  (2019-09-04 21:02:36)
+- もっと有名になっていい曲 これからも聞きます  -- 名無しさん  (2024-09-15 10:15:46)
+#comment()
+
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)

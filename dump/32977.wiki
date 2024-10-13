@@ -1,0 +1,157 @@
+#right(){&furigana(DummyMarch)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm22061049)|&youtube(https://www.youtube.com/watch?v=h4V9qNncRrk){342,187}|
+作詞：[[モモカシュー]]（和訳：[[Shius>シウス]]）
+作曲：[[モモカシュー]]
+編曲：[[モモカシュー]]
+イラスト：[[水梦]]（[[foriio>>https://www.foriio.com/xxsuimxx]]）
+唄：[[Oliver]]・[[鏡音レン>鏡音リン・レン]]
+
+**曲紹介
+>&b(){人間かダミーか、所詮は同じもの。}
+曲名：『&u(){Dummy March}』（&u(){だみー まーち}）
+-モモカシュー氏 による狂気を孕んだ、レトロなハロウィンソング。
+-Oliverが英語パートを、鏡音レンが一部を除くスキャットを担当。
+//-和訳を [[Shius>シウス]]氏 が手掛ける。
+
+**歌詞
+//（[[引用元のサイト>>引用元のURL]]より転載）
+Chilly autumn wind leaves blushes on your skin
+With your pumpkin baggy, starts another journey
+What kind of candy?
+How many will there be?
+What kind of dirty tricks will you pull out this time?
+&color(dimgray){冷たい秋の木枯らしが肌を赤らめる中}
+&color(dimgray){可愛らしいカボチャの袋を持って 新しく旅立つ}
+&color(dimgray){何のキャンディーが}
+&color(dimgray){何個出るんだろう}
+&color(dimgray){今度はどんな悪戯を仕掛けてやろうか}
+
+“Hello, Mister Werewolf”
+“What an ugly tail”
+“Aren’t you ashamed at all?”
+“Get lost”
+&color(dimgray){「こんにちは、狼男さん」}
+&color(dimgray){「まあ、なんてみっともない尻尾なの」}
+&color(dimgray){「恥じらいも無いの？」}
+&color(dimgray){「消えて」}
+
+“You’re not invited, stinky bunch”
+“No one wants you here taking all our fun”
+Words you speak so loud and proud
+Go right in my heart and never come out
+“That’s not allowed, break up right now”
+“Mister Mustard, Mister Ketchup”
+And you pretend nothing happened
+Down goes spoon full of floating island
+&color(dimgray){「誰もお前らを呼んでなんかいないよ」}
+&color(dimgray){「誰もかもお前らなんかに自分の楽しみを奪われたくないんだ」}
+&color(dimgray){あなたが得意げに言うその言葉は}
+&color(dimgray){心に刺さり二度と出て来ない}
+&color(dimgray){「ダメだよ 離れなさい」}
+&color(dimgray){「ミスターマスタード、ミスターケチャップ」}
+&color(dimgray){そしてあなたは何も起こらなかったかのように振舞うんだ}
+&color(dimgray){フローティング・アイランドいっぱいのスプーンを落とした}
+
+Strawberry shortcakes
+Banana chocolate crepes
+No matter how much you eat
+You will always be empty
+Espresso jelly
+Sugar raisin cookies
+You are dummies
+All of these are unnecessary
+&color(dimgray){苺ショートケーキ}
+&color(dimgray){チョコレートとバナナのクレープ}
+&color(dimgray){どれだけ食べても}
+&color(dimgray){あなたは空っぽのまま}
+&color(dimgray){コーヒーゼリー}
+&color(dimgray){レーズンクッキー}
+&color(dimgray){あなたは本当にダミー（おバカさん）だね}
+&color(dimgray){こんなもの 全部いらないのに}
+
+“Nice to meet you, Mermaid”
+“Aren’t you over weight?”
+“Why don’t you get more in shape?”
+“Lazy”
+&color(dimgray){「ごきげんよう、人魚さん」}
+&color(dimgray){「あらあら、あなたはおデブさんね」}
+&color(dimgray){「もうちょっと痩せようとは思わないの」}
+&color(dimgray){「怠け者」}
+
+“You’re not important”
+“Attention, please”
+“All eyes on me and me only”
+Protected by wooden shells
+Living in a world all by yourselves
+“There’s only one God for us all”
+“You are wrong and you should burn in Hell”
+Given up your abilities to think
+Saying all these words you don’t understand
+&color(dimgray){「おまえは重要じゃないよ」}
+&color(dimgray){「みんな こっちに注目して」}
+&color(dimgray){「全ての視線を僕だけに向けて」}
+&color(dimgray){木の殻に守られて}
+&color(dimgray){自分ひとりの世界に浸って}
+&color(dimgray){「私達の神様は一人しかいない」}
+&color(dimgray){「間違っているあなたは地獄に落ちて死ぬがいい」}
+&color(dimgray){考える能力を放り出して}
+&color(dimgray){意味の分からない言葉を吐き捨てて}
+
+Dummies gathered
+Vulgarly marching across the street
+“Hey there, open up”
+“Trick or treat?”
+&color(dimgray){ダミーの集まりが}
+&color(dimgray){町を卑しく行進してまわる}
+&color(dimgray){「ほらほら、開けてちょうだい」}
+&color(dimgray){「トリック・オア・トリート」}
+
+“You know that you have no talent”
+“So stop wasting our oxygen”
+“You’ll never get as great as them”
+“Did you even try to be a normal person?”
+“All I have for you is disappointment”
+“When can I raise my expectations?”
+Covering my ears won’t do anything
+All your curses pierce through my skin
+&color(dimgray){「あなたには才能が無いんだ」}
+&color(dimgray){「だから私達の酸素を無駄にしないでちょうだい」}
+&color(dimgray){「彼らほどあなたは偉くなんかなれないわ」}
+&color(dimgray){「普通の人になる努力もしていないの？」}
+&color(dimgray){「私があなたに持っている感情なんて失望しかないよ」}
+&color(dimgray){「あなたはいつ期待に添うことができるかしら」}
+&color(dimgray){耳を塞いでも何もならない}
+&color(dimgray){冷たい言葉が肌に突き刺す}
+
+Is it my fault for feeling hurt?
+Is it my fault for trusting you first?
+Is it my fault that I heard your curse?
+Is it my fault that I read your words?
+You are only dummies without hearts
+But your faces look exactly like ours
+Again and again I try to buy
+Your over-priced “constructive criticism”
+&color(dimgray){痛くなるのは僕のせいなの？}
+&color(dimgray){あなたを信じた僕のせいなの？}
+&color(dimgray){あなたの悪態を聞いた僕が悪いの？}
+&color(dimgray){あなたの言葉を読んでしまった僕のせいなの？}
+&color(dimgray){あなた達はみんな心を持たないダミー（傀儡）だ}
+&color(dimgray){それでも僕たちと良く似ている}
+&color(dimgray){幾度も、幾度も僕は買ってしまうんだ}
+&color(dimgray){あなたの高すぎる「建設的な批評」を}
+
+Tulapeetata Luppashah
+Tuleeluteffetah Teelalupapa
+Lah
+
+
+**コメント
+//- 歌詞乙。和訳まで付けてくださってありがとうございます！レンくんもオリバーも可愛い！！  -- 悪斗  (2015-09-22 09:08:54)
+- 素晴らしい  -- 暮夜  (2016-09-08 21:14:55)
+- すごい、いい曲！  -- ばななあいす  (2016-12-13 20:41:05)
+- 和訳ありがたい…！！  -- 名無しさん  (2022-01-29 22:37:51)
+#comment()

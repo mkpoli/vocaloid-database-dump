@@ -1,0 +1,29 @@
+#right(){&furigana(すずきしょうた)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/44944197" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/44944197">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-2014年7月11日に投稿した「[[Orgel]]」でボカロPデビュー。
+-使用するボーカロイドはIA、MATCHA。
+-作詞・作曲のみならず、サムネのイラストも自分で手掛ける。
+-バンド経験があり、叩き手の有利氏とは同じバンドのメンバーだった。
+-普段は北海道を拠点に楽曲提供や編曲の仕事をしている。
+-アーティスト名は当初、shaun the slothだったが、現在は本名を名乗っている。
+
+**リンク
+-[[作者HP>>http://aquarelstudio.jp/]]
+-[[twitter>>http://twitter.com/shaunthesloth]]
+-[[facebook>>http://www.facebook.com/aquarelstudiojp]]
+-[[YouTube>>http://www.youtube.com/user/stsaquarelstudio]]
+
+**曲
+#list_by_tag(鈴木将太,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(鈴木将太CD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm23970521)|&nicovideo(sm24816283)|
+|&nicovideo(sm24862270)|&nicovideo(sm25846041)|
+
+**コメント
+#comment()

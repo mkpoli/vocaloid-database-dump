@@ -1,0 +1,18 @@
+#right(){【登録タグ:&tags()】}
+//↑タグ忘れ防止のための表示
+曖昧さ回避のためのページ
+----
+-[[びにゅP]]の曲
+--[[Hide And Seek/びにゅP]]
+-[[Chiquewa]]の曲
+--[[Hide And Seek/Chiquewa]]
+-[[ChasingFireflies]]の曲
+--[[Hide And Seek/ChasingFireflies]]
+//-[[]]の曲
+//--[[]]
+
+//-類似タイトル
+//-[[]]の曲
+//--[[]]
+
+#include(曖昧さ回避の追加の仕方/告知)

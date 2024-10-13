@@ -1,0 +1,67 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://ext.nicovideo.jp/thumb_mylist/23793506" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/23793506">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-バラードを多く手がける作り手。
+-切ないメロディーと歌詞に定評がある。
+-オリジナル曲の他にインストやカバーも手がける。
+-ですとろい氏とのユニット「ヴァイスショコラーデ」としても活動。
+-2022年7月、「[[Schwarzer Regen]]」にて自身初の殿堂入りを達成した。
+-使用ボカロはミク,リン,レン,ルカ,IA,VY1VY3,Lilyなど。
+
+**リンク
+-[[piapro>>http://piapro.jp/regulus_tm]]
+-[[piapro(ヴァイスショコラーデ)>>http://piapro.jp/weisseschokolade]]
+-[[twitter>>https://twitter.com/regulustm]]
+-[[Youtube>>https://www.youtube.com/channel/UCMa6EBMvAKWY4eXYDuNjWOg]]
+-[[ニコニコ大百科（単語記事）>>https://dic.nicovideo.jp/t/a/regulus]]
+
+**曲
+#list_by_tag(regulus,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(regulusCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/nm11930435)|&nicovideo(sm13586625)|
+|&nicovideo(sm13637737)|&nicovideo(sm13713503)|
+|&nicovideo(sm13908744)|&nicovideo(sm14174554)|
+|&nicovideo(sm14463610)|&nicovideo(sm14649629)|
+|&nicovideo(sm14781769)|&nicovideo(sm15006411)|
+|&nicovideo(sm15044407)|&nicovideo(sm15131580)|
+|&nicovideo(sm15228720)|&nicovideo(sm15249487)|
+|&nicovideo(sm15352439)|&nicovideo(sm15376615)|
+|&nicovideo(sm15421909)|&nicovideo(sm15461632)|
+|&nicovideo(sm15500142)|&nicovideo(sm15614585)|
+|&nicovideo(sm15827609)|&nicovideo(sm15962759)|
+|&nicovideo(sm16195186)|&nicovideo(sm16221103)|
+|&nicovideo(sm16352511)|&nicovideo(sm16553649)|
+|&nicovideo(sm16711894)|&nicovideo(sm16818665)|
+|&nicovideo(sm16949769)|&nicovideo(sm17112130)|
+|&nicovideo(sm17228726)|&nicovideo(sm17323674)|
+|&nicovideo(sm17461474)|&nicovideo(sm17501634)|
+|&nicovideo(sm17741186)|&nicovideo(sm17969668)|
+|&nicovideo(sm18219736)|&nicovideo(sm18219873)|
+|&nicovideo(sm18418735)|&nicovideo(sm18466265)|
+|&nicovideo(sm18629062)|&nicovideo(sm18691007)|
+|&nicovideo(sm18758306)|&nicovideo(sm19048789)|
+|&nicovideo(sm19249380)|&nicovideo(sm19597812)|
+|&nicovideo(sm19634182)|&nicovideo(sm19756160)|
+|&nicovideo(sm19825347)|&nicovideo(sm19885631)|
+|&nicovideo(sm20174403)|&nicovideo(sm20476530)|
+|&nicovideo(sm20660711)|&nicovideo(sm21540288)|
+|&nicovideo(sm21826383)|&nicovideo(sm21932852)|
+|&nicovideo(sm22518062)|&nicovideo(sm22703894)|
+|&nicovideo(sm22978540)|&nicovideo(sm23086797)|
+|&nicovideo(sm23351222)|&nicovideo(sm23722973)|
+|&nicovideo(sm24331377)|&nicovideo(sm24361668)|
+|&nicovideo(sm24670534)|&nicovideo(sm25100493)|
+
+
+**コメント
+- 作成乙  -- 名無しさん  (2014-12-30 08:36:05)
+- 作成乙  -- 名無しさん  (2015-01-08 00:18:42)
+- 作成乙  -- 名無しさん  (2015-01-08 00:18:58)
+- 作成乙　エングレイヴの歌詞下さい！  -- 名無しさん  (2015-08-17 07:56:25)
+- アルバムに収録曲されている奴全部歌詞下さい！  -- 名無しさん  (2015-11-03 21:46:19)
+#comment()

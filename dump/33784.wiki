@@ -1,0 +1,29 @@
+#right(){&furigana(いろなきひかり)&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1864_20160104230855_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[さよなら、みんなのキャンパスライフ。]]|CENTER:&bold(){色なき光}|CENTER:-|
+
+|&bold(){[[このり]]}|
+
+発売：2016年1月29日
+価格：￥150
+流通：配信
+レーベル：KARENT
+ジャケット：ハルセ
+
+**CD紹介
+-このり氏の配信シングル。
+-KARENTレーベルよりダウンロード販売が行われている。巡音ルカ7周年記念特集で配信された作品の1つ。
+
+**曲目
++色なき光 （feat. 巡音ルカ）
+
+**リンク
+-[[twitter>>http://twitter.com/konori_konori]]
+-[[KARENT：「色なき光」>>http://karent.jp/album/1864]]
+-[[KARENT：「巡音ルカ聖誕祭'16」特集ページ>>http://karent.jp/special/luka16]]
+-[[iTune Store>>http://itunes.apple.com/jp/album/iro-naki-hikari-single/id1074537805]]
+
+**コメント
+#comment()

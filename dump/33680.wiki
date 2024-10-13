@@ -1,0 +1,21 @@
+#right(){&furigana(まいまい)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://ext.nicovideo.jp/thumb_mylist/28920380" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/28920380">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-2011年VOCALOIDデビュー。それ以前にUTAU楽曲も発表している。
+-叩いてみた動画も発表している。
+
+**リンク
+-[[twitter>>http://twitter.com/maimai_nico2]]
+
+**曲
+#list_by_tag(マイマイ（岐阜の方P）,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(マイマイ（岐阜の方P）CD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+//**動画
+//|&nicovideo(ニコ動のURL)|&nicovideo(ニコ動のURL)|
+//
+**コメント
+#comment()

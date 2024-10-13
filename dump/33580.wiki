@@ -1,0 +1,33 @@
+#right(){&furigana(うんちょP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo_mylist(<iframe width="312" height="176" src="https://ext.nicovideo.jp/thumb_mylist/6405561" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/6405561">【ニコニコ動画】toukousakuhin</a></iframe>)|&nicovideo_mylist(<iframe width="312" height="176" src="https://ext.nicovideo.jp/thumb_mylist/10285133" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/10285133">【ニコニコ動画】コラボ作品</a></iframe>)|
+
+**特徴
+作り手名：『&u(){うんちょP}』
+-アーティスト名はyjogw。
+-下ネタが多い。
+
+**本人コメント
+-気が向いた時に作品を投稿しようと思っています。
+-ニコニコ動画でうんちょPというP名をもらいました。
+
+**リンク
+//-[[作者ホームページ>>http://www.geocities.jp/yjogw1975/]]
+-[[ニコニコ>>https://www.nicovideo.jp/user/3870483]]
+-[[ピアプロ>>https://piapro.jp/yjogw]]
+-[[Twitter>>https://twitter.com/yjogw]]
+
+**曲
+#list_by_tag(うんちょP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(うんちょPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm5477268)|&nicovideo(sm6105736)|
+
+**コメント
+#comment()

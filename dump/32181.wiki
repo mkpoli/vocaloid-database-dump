@@ -1,0 +1,40 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#amazon(B00VHN2KQQ)
+
+|&nicovideo(http://www.nicovideo.jp/watch/sm25941019)|&youtube(http://www.youtube.com/watch?v=85ja17mlv48){342,187}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm26151828)|&youtube(http://www.youtube.com/watch?v=4uxmJRZPOIA){342,187}|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[ATOLS/MIKU 0>ATOLS／MIKU 0]]|CENTER:&bold(){ATOLS/MIKU DET EP}|CENTER:[[マカロン>マカロン/ATOLS]]|
+
+|&bold(){[[ATOLS]]}|
+
+|流通|CENTER:即売|CENTER:委託|CENTER:配信|
+|発売|CENTER:2015年4月26日|CENTER:2015年5月13日|CENTER:2015年9月2日|
+|価格||CENTER:￥1,200（税込）|CENTER:￥900 / 1曲￥150|
+|サークル|>|CENTER:ATOLS||
+
+**CD紹介
+-ATOLS氏 のミニアルバム。
+-THE VOC@LOiD 超 M@STER 31（超ボーマス31）で頒布。
+-Amazon、とらのあなにて委託販売が、KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++Intro
++[[ゾンビメイカー]] [Long Version]
++[[＄149]]
++[[ハデス]]
++[[キメラ>キメラ/ATOLS]]
++[[牢獄のアドニス]]
++[[キーウィ>キーウィ/ATOLS]] [Long Version]
+
+**リンク
+-[[作者Twitter>>http://twitter.com/ATOLSX]]
+-[[Amazon>>http://www.amazon.co.jp/dp/B00VHN2KQQ]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/30/10/040030301062.html]]
+-[[KARENT：「ATOLS/MIKU DET EP」>>http://karent.jp/album/1795]]
+-[[iTunes Store>>http://itunes.apple.com/jp/album/atols-miku-det-ep/id1034672546]]
+
+**コメント
+- ありがとう！！！  -- 良太  (2015-06-05 00:57:34)
+#comment()

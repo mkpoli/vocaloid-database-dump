@@ -1,0 +1,38 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#amazon(B0135H5GLC)
+|&nicovideo(http://www.nicovideo.jp/watch/sm26844160)|&youtube(https://www.youtube.com/watch?v=awd4s1_sEbI){342,187}|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[TWO WORLDS]]|CENTER:&bold(){ZUNKO}|CENTER:[[KIRITAN]]|
+
+|&bold(){[[パイパンP]]}|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2015年8月16日|CENTER:2015年8月17日|
+|価格|CENTER:￥1,000（税込）|CENTER:￥1,620 （税込）|
+|サークル|>|CENTER:ZANIO|
+
+**CD紹介
+-パイパンP こと ZANIO（ざにお）氏 のアルバム。
+-東北ずん子をフィーチャーしたずんだぐれっしぶはうす。
+-アートワークを CHAN×CO氏 が手掛ける。
+-コミックマーケット88（C88）で頒布された。
+-Amazonにて委託販売が行われている。
+
+**曲目
++Realize
++[[ZUNDA]]
++[[ペヤングだばあ]]
++River
++Seventeen
++Breathe
++Moments
++Fade
+
+**リンク
+-[[作者サイト>>http://zani0.com/]]
+-[[twitter>>https://twitter.com/zani0]]
+-[[amazon>>http://www.amazon.co.jp/dp/B0135H5GLC]]
+
+**コメント
+#comment()

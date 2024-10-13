@@ -1,0 +1,39 @@
+#right(){&furigana(りんのまぼろし)&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1647_20141124093445_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[夏]]|CENTER:&bold(){リンのまぼろし！！}|CENTER:[[Spring rain]]|
+
+|&bold(){[[ジェバンニP]]}|
+
+発売：2014年12月17日
+価格：￥900
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：[[キタカライ>>http://piapro.jp/kitakarai]]
+
+|&bold(){[[iTunes Storeで購入する>>https://itunes.apple.com/jp/album/rins-vision/id948663227]]}|
+
+**CD紹介
+-ジェバンニPの8作目となる配信アルバム。
+-ジェバンニPが過去にCDで発表した楽曲を集めたアルバムとなっている。
+-KARENTレーベルの鏡音リン・レン7周年記念特集で配信された作品の1つ。
+
+**曲目
++[[讃岐女子、じょんならんで♪恋心>じょんならんで♪恋心]] （feat. 鏡音リン）
++[[恋のアルテマにぎゃぁ]] （feat. 鏡音リン）
++[[うちは三木町女子14歳]] （feat. 鏡音リン）
++[[ミステリアス・デイズ]] （feat. 鏡音リン＆初音ミク）
++[[夏恋>夏　恋]] （feat. 鏡音リン）
++不幸なはずの彼の夏 （feat. 鏡音リン）
++[[アマノガワ2014>アマノガワ]] （feat. 鏡音リン）
++Secret word （feat. 鏡音リン）
++ビューティフル・ライフ （feat. 鏡音リン）
+
+**リンク
+-[[作者ブログ>>http://jvnp.blog60.fc2.com/]]
+-[[KARENT：「リンのまぼろし！！」>>http://karent.jp/album/1647]]
+-[[KARENT：「鏡音リン・レン祭'14」特集ページ>>http://karent.jp/special/rinlen14]]
+
+**コメント
+#comment()

@@ -1,0 +1,32 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#image(http://vocadb.net/Album/CoverPicture/654?v=4,http://net.vocaloid.com/articles/closed_vocaloidstore,title=VY The Songs,blank) 
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){VY The Song}|CENTER:-|
+
+
+|[[otetsu]]|[[シグナルP]]|[[orange>orange/作り手]]|[[小林オニキス]]|[[中田ヤスタカ]]|
+
+発売：2011年7月13日
+価格：￥500（税込）
+流通：全国
+販売：ビープラッツ株式会社
+
+**CD紹介
+-『VY the songs』は、ヤマハ株式会社が開発した歌声を合成するWindows用ソフトウェア『VOCALOID2 VY1』『VOCALOID2 VY2』のリリース時に発表されたヤマハ公式デモソングを、5曲収録したミニアルバムです。
+-今回、リクエストにお答えして待望の音源化となりました！
+
+**曲目
++[[星屑ユートピア]] / [[otetsu]] feat. VY1
++ポリリズム / 中田ヤスタカ feat. VY1
++[[サイハテ]] / [[小林オニキス]] feat. VY1
++安里屋ユンタ / 沖縄県民謡 feat. VY2
++[[サンドリヨン>サンドリヨン（Cendrillon）]] / [[Dios/シグナルP>シグナルP]] feat. VY1・VY2
+
+**リンク
+-[[Hatsune Miku Miku>>http://vocaloid.blog120.fc2.com/blog-entry-9054.html]]
+-[[Vocaloid Store>>http://net.vocaloid.com/articles/closed_vocaloidstore]]
+-[[Vocaloid Wiki>>http://vocaloid.wikia.com/wiki/VY_The_Songs]]
+
+**コメント
+#comment()

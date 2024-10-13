@@ -1,0 +1,38 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm23891954)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Summer Time Summer Girl 4]]|CENTER:&bold(){Summer Time Summer Girl 5}|CENTER:-|
+
+|&bold(){[[あつぞうくん]]}|[[ふわP]]|[[ソレナンテP]]|[[れいな]]|
+|[[空海月]]|[[クマー@Taken♪]]|myomyo||
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2014年7月13日||
+|価格|CENTER:￥1,000|CENTER:￥1,343（税別）|
+|サークル|>|CENTER:ATZ Records|
+
+**CD紹介
+-あつぞうくん主宰ATZ Recordsの夏コンピCD第5弾。
+-本シリーズもとうとう５作目を迎えました！今回のボーカルは一部で待望（？）されていました、巡音ルカでお送りする夏曲コンピレーションアルバム！&br()あつぞうくん、空海月、ときわかねなり（ソレナンテP）、ふわP（すとり）、れいなによる、夏にぴったりなナンバーをご用意。イラストは手鞠が担当します。今年もすく水の夏がやってくる！！
+-THE VOC@LOiD M@STER 29（ボーマス29）にて頒布。委託販売も行われている。
+
+**曲目
++[[Like? Love!!]] / 空海月
++ぱらいそ / あつぞうくん
++柑橘の夜 / ふわP（すとり）・myomyo
++いちご模様の魔法 / れいな
++奇々怪々☆水着回 / ときわかねなり
++[[Sky-high☆Fly away]] / れいな
++願いごと、瞼とじて / ふわP（すとり）・クマー@Taken♪
++[[永遠のフェノミナ]] / ときわかねなり
++[[夏空>夏空/空海月]] / 空海月
++最後の夏 / あつぞうくん
+
+**リンク
+-[[特設ページ>>http://stsg5.atzrecords.com/]]
+-[[ATZ Records>>http://atzrecords.com/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/22/25/040030222503.html]]
+
+**コメント
+#comment()

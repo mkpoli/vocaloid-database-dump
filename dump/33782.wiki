@@ -1,0 +1,34 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+|&nicovideo(http://www.nicovideo.jp/watch/sm27906895)|&YouTube(http://www.youtube.com/watch?v=_9hxjUodLS4)|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[QUINT]]|CENTER:&bold(){redress Ⅲ}|CENTER:[[sweet,sweet -luka version-]]|
+
+|&bold(){[[ORYO]]}|
+
+発売：2015年12月31日
+価格：￥500
+流通：即売
+サークル：FAULHEIT
+
+**CD紹介
+-FAULHEITのミニアルバム。セルフカバーを収録。
+-全7曲を収録。
+-ジャケットイラストは[[おはぎ]]氏が手掛ける。
+-コミックマーケット89（C89）で頒布。
+
+**曲目
++[[繋いだ手>繋いだ手/ORYO]] / GUMI
++[[モノトーンコレクター]] / 鏡音レン
++[[進化論 code:variant]] / 鏡音リン
++[[マレフィカ]] / IA
++[[雨音>雨音/ORYO]] / GUMI
++[[sweet,sweet]] / 結月ゆかり
++繋いだ手 / 神威がくぽ
+
+**リンク
+-[[サークルサイト>>http://faulheit.jp/]]
+-[[作者ブログ>>http://oryo-faulheit.jugem.jp/]]
+
+**コメント
+#comment()

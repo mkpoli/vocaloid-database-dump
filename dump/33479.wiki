@@ -1,0 +1,43 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+|CD版ジャケット&br()&ref(http://img.toranoana.jp/img/04/0030/37/24/040030372498-1.gif)|配信版ジャケット&br()&ref(http://karent.jp/npdca/1972_20161114150030_0280_0280.jpg)|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Another Heavens]]&br()[[恋のチャイナ横町]]|CENTER:&bold(){INFINITY-∞-}|CENTER:[["PANDA"VIRUS]]|
+
+|&bold(){[[キッドP]]}|[[クリスタルP]]|[[残鏡P]]|[[パプリカP]]|
+
+|流通|CENTER:即売|CENTER:委託|CENTER:配信|
+|発売|CENTER:2015年12月31日||CENTER:2016年12月22日|
+|価格|CENTER:￥1,000|CENTER:￥1,300（税別）|CENTER:￥1,200|
+|サークル|CENTER:|CENTER:NnDS☆||
+
+**CD紹介
+-キッドPの8thアルバム。
+-Illustrations：[[碧茶]]、Design：猫凪みさお。
+-コミックマーケット89（C89）で頒布。
+-とらのあなにて委託販売が行われている。
+-KARENTレーベルよりダウンロード販売が行われている。鏡音リン・レン9周年記念企画で配信された作品の1つ。
+
+**曲目
++vanish to vanish （新曲）
++[[恋のチャイナ横町]] (NEW MIX)
++Nature（新曲）
++優等生シンドローム-album version- (NEW ARRANGE)
++さくらいろ
++[[Ocean Dream-海の落し物-]]
++[[閉ざした空の向こう側]] （新曲）
++Glorious Star -Re:PROTOTYPE- (NEW ARRANGE)
++Intelude-infinity- （新曲）
++[[∞>∞/キッドP]] （新曲）
++AM3：15 （新曲）
+
+**リンク
+-[[twitter>>http://twitter.com/kid_NnDS]]
+-[[作者ブログ>>http://yaplog.jp/kidsworks/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/37/24/040030372498.html]]
+-[[KARENT：「INFINITY-∞-」>>http://karent.jp/album/1972]]
+-[[KARENT：「鏡音リン・レン 9th Anniversary」特集ページ>>http://karent.jp/special/rinlen16]]
+-[[iTunes Store>>http://itunes.apple.com/jp/album/inifinity/id1184110147]]
+
+**コメント
+#comment()

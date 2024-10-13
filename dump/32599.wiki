@@ -1,0 +1,39 @@
+#right(){&furigana()&furigana()【登録タグ:&tags()】}
+&nicovideo(http://www.nicovideo.jp/watch/sm24891640)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[影像少女と躁鬱少年]]|CENTER:[[衝動中枢]]&br()&bold(){GEGE}|CENTER:-|
+
+|&bold(){[[触媒ファントムガール]]}|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|CENTER:2014年11月15日||
+|価格|CENTER:￥1,000|CENTER:￥1,500（税別）|
+|サークル|>|CENTER:SODAMANIA|
+
+**CD紹介
+-触媒ファントムガール氏 の7thアルバム。
+-6thアルバム『[[衝動中枢]]』と同時発売。
+-全10曲収録。
+-THE VOC@LOiD M@STER 30（ボーマス30）にて頒布。
+-とらのあなで委託販売が行われていた。
+
+**曲目
++[[キラーチューンオーバーチュア]]
++[[ナツゾライダー]] (ver.GUMI remix)
++[[ワールドサイレン]] (ver.IA remix)
++[[殺人的なビームタッチ]]
++ナツカゼ後遺症
++interception No.2 (inst)
++[[躁鬱少年28号]] (ver.RE)
++[[アキカゼ症候群]] (ver.14 remix)
++[[蜃気楼アスファルト]]
++リグレットガール
+
+**リンク
+-[[Twitter>>http://twitter.com/Phant0m_Girl]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/26/01/040030260130.html]]
+
+**コメント
+- ？？？  -- 良太  (2015-07-30 22:35:20)
+#comment()

@@ -1,0 +1,73 @@
+#right(){&furigana(しく)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/44932933" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/44932933">【ニコニコ動画】</a></iframe>)
+
+**特徴
+作り手名：『&u(){ジグ}』
+-2014年8月8日に投稿された「[[アオイプリズム]]」でデビュー。
+-使用するボーカロイドは初音ミク、鏡音リン・レン、IA、flower。
+-楽曲の曲調は、ポストロック・エレクトロポップ・R&B・ヒップホップ・ロックなど幅広い。
+-初期の曲調はロックやエレクトロポップなど。現在はヒップホップがメインになっている。
+-17作目の「[[メリーバッド]]」がスマッシュヒットし、自身初の殿堂入りを達成した。
+-2021年9月、&b(){HYLUL}名義でのシンガーソングライターの活動を開始した。
+-次の曲が殿堂入りを達成している。&br()&list_by_tagsearch(ジグ,殿堂入り,sort=furigana,option=nolist,nolistspace=、,100)
+
+**リンク
+//-[[作者サイト>>http://www.zigzag727.com]]
+//-[[ブロマガ>>https://ch.nicovideo.jp/zig_zag_727]]
+//-[[YouTube>>https://www.youtube.com/channel/UCwUqq7NIeXciLTAuAQzi08Q]]
+-[[YouTube>>https://www.youtube.com/channel/UCDSs0Hc8W2klLs1Qs38tDDQ]]
+//-[[Twitter（ジグ）>>https://twitter.com/zigzag727]]
+-[[Twitter（HYLUL）>>https://twitter.com/hylul_jp]]
+-[[piapro>>https://piapro.jp/happyicecream]]
+
+**曲
+#list_by_tag(ジグ,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(ジグCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm24187149)|&nicovideo(sm24296343)|
+|&nicovideo(sm24546710)|&nicovideo(sm24658573)|
+|&nicovideo(sm24939023)|&nicovideo(sm25091242)|
+|&nicovideo(sm25260898)|&nicovideo(sm25665060)|
+|&nicovideo(sm25708719)|&nicovideo(sm25769768)|
+|&nicovideo(sm25934425)|&nicovideo(sm25967654)|
+|&nicovideo(sm26082676)|&nicovideo(sm26207531)|
+|&nicovideo(sm26335838)|&nicovideo(sm26343615)|
+|&nicovideo(sm26424943)|&nicovideo(sm26594826)|
+|&nicovideo(sm26906337)|&nicovideo(sm26959239)|
+|&nicovideo(sm27172931)|&nicovideo(sm27335956)|
+|&nicovideo(sm27375944)|&nicovideo(sm27678124)|
+|&nicovideo(sm27758576)|&nicovideo(sm28174079)|
+|&nicovideo(sm28363372)|&nicovideo(sm28779746)|
+|&nicovideo(sm29098474)|&nicovideo(sm29303086)|
+|&nicovideo(sm29392196)|&nicovideo(sm29746920)|
+|&nicovideo(sm30030694)|&nicovideo(sm30193438)|
+|&nicovideo(sm30829175)|&nicovideo(sm31591938)|
+|&nicovideo(sm31882713)|&nicovideo(sm32166938)|
+|&nicovideo(sm32430462)|&nicovideo(sm32772746)|
+|&nicovideo(sm33302369)|&nicovideo(sm33487061)|
+|&nicovideo(sm33704122)|&nicovideo(sm34142075)|
+|&nicovideo(sm34434886)|&nicovideo(sm34709458)|
+|&nicovideo(sm34983416)|&nicovideo(sm35384810)|
+|&nicovideo(sm35747849)|&nicovideo(sm36048838)|
+|&nicovideo(sm36169869)|&nicovideo(sm36490311)|
+|&nicovideo(sm37009747)|>|
+
+**コメント
+- メリーバッド最高！！！  -- 名無しさん  (2015-06-30 15:48:56)
+- ユラリラルラリラが好き。可愛い。  -- 名無しさん  (2015-10-27 15:25:20)
+- メリーバッドより前の曲が片っ端から非公開にされているな。2016年の1月5日はまだユラリラルラリラが公開設定だったが、原因は調べてるけどなかなか見つからない。非公開になった動画は外しても良いのだろうか。  -- 名無しさん  (2016-01-10 09:46:19)
+- とりあえず、今見たら戻ってたという報告。  -- 名無しさん  (2016-01-15 22:17:55)
+- 嘘吐きエイミースゲー( ( ( (；゜Д゜) ) )  -- 名無しさん  (2016-02-29 09:14:25)
+- 誰か寂しい夏のせいにしてはよ  -- 名無しさん  (2017-03-17 07:10:15)
+- ｢寂しい夏のせいにして｣は？  -- 名無しさん  (2017-05-13 19:27:21)
+- ↑作成しました。よろしくお願いします。  -- 名無しさん  (2017-05-13 20:51:44)
+- 気球が落ちる夢がない…だと…  -- 名無しさん  (2017-08-11 02:21:30)
+- 「ナイトコール」がない…  -- 名無しさん  (2024-03-19 20:26:59)
+#comment()

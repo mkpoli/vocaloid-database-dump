@@ -1,0 +1,50 @@
+#right(){&furigana(mint)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/45385072" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/45385072">【ニコニコ動画】</a></iframe>)
+
+**特徴
+作り手名：『&u(){mint*}』(&u(){みんと})
+-P名は&bold(){&ruby(はっか){薄荷}キャンディP}。
+-2013年10月12日、「[[クピドとピストル]]」でデビュー。
+-使用ボカロは鏡音リン・鏡音レン・初音ミク・IA・GUMI・結月ゆかり・音街ウナ・flower。
+-次の曲が殿堂入りを達成している。&br()&list_by_tagsearch(mint*,殿堂入り,sort=furigana,option=nolist,nolistspace=、,100)
+
+**リンク
+-[[twitter>>http://twitter.com/mint_7x7x7]]
+-[[PIAPRO>>http://piapro.jp/mint4703]]
+-[[Youtube>>https://www.youtube.com/channel/UCINSMYZBz3DmLrb7t7Lp8Ww]]
+-[[ニコニコ大百科（単語記事）>>https://dic.nicovideo.jp/a/mint%2A]]
+
+**曲
+#list_by_tag(mint*,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(mint*CD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm22023784)|&nicovideo(sm22617110)|
+|&nicovideo(sm23260690)|&nicovideo(sm23458451)|
+|&nicovideo(sm24267780)|&nicovideo(sm24452850)|
+|&nicovideo(sm24614116)|&nicovideo(sm24713537)|
+|&nicovideo(sm24807130)|&nicovideo(sm25059178)|
+|&nicovideo(sm25717521)|&nicovideo(sm26202334)|
+|&nicovideo(sm26202405)|&nicovideo(sm26919977)|
+|&nicovideo(sm27024101)|&nicovideo(sm28007672)|
+|&nicovideo(sm28629861)|&nicovideo(sm28878365)|
+|&nicovideo(sm29112024)|&nicovideo(sm29971601)|
+|&nicovideo(sm31323228)|&nicovideo(sm31685608)|
+|&nicovideo(sm32422244)|&nicovideo(sm35293909)|
+
+**コメント
+//- 工作ニキオッスオッス  -- 名無しさん  (2015-12-20 16:46:48)
+//- 工作ニキオッスオッス  -- 名無しさん  (2015-12-22 22:23:06)
+//- 工作ニキオッスオッス  -- 名無しさん  (2016-01-20 20:44:34)
+- 小悪魔コスメティック大好きです‼️  -- 良太  (2016-01-21 09:13:27)
+//- 工作ニキオッスオッス  -- 名無しさん  (2016-01-23 10:35:40)
+//- 工作ニキオッスオッス  -- 名無しさん  (2016-04-22 14:37:42)
+//- 自演大好き2chのアイドル  -- 名無しさん  (2017-02-12 10:44:53)
+- 哀 Luv U好きです  -- R6  (2019-11-04 00:43:09)
+#comment()

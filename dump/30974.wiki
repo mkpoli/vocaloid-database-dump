@@ -1,0 +1,52 @@
+#right(){&furigana(にっかんいしょ)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+//#ref(http://img.toranoana.jp/img/04/0030/25/15/040030251509-1.gif,height=200,width=200)
+
+&ref(https://static.wixstatic.com/media/e77840_76a9e02484584e9186e633da8f821f2f.jpg,x=300,y=300)
+
+|&nicovideo(sm24806870)|&youtube(https://www.youtube.com/watch?v=ooz41bNaj6c){342,187}|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[水底に怠惰]]|CENTER:&bold(){日刊：遺書}|CENTER:[[有象偶像]]|
+
+|&bold(){[[ぬゆり]]}|[[ただのCo]]|[[ナブナ]]|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|>|CENTER:2014年11月15日|
+|価格|CENTER:￥1,000|CENTER:￥1,493（税抜）|
+|サークル|CENTER:強いぞ早いぞ藤森！とぬゆり。|CENTER:nulut.nnn|
+
+**CD紹介
+CD名：『&u(){日刊：遺書}』（&u(){にっかん：いしょ}）
+-ぬゆり氏の2ndフルアルバム。
+-ジャケットイラストを Aちき氏 が、デザインを ヨナミ氏 が手掛ける。
+-THE VOC＠LOiD M＠STER 30（ボーマス30）にて頒布。
+-BOOTH でダウンロード販売、とらのあな で委託販売が行われている。
+
+**曲目
++おるびたる
++[[DE-Pression]]
++[[新しい夜]]
++おるたねいと
++[[ギミイ]]
++コーヒーメイカー（Lyrics：ただのCo）
++over_turn
++幾千のテロリズムへ（Vocal：まじ娘）
++灰になってしまいそうだ
++[[墜落した水]]
++侮蔑
++Bonus track
+
+**リンク
+-[[特設サイト>>https://nulut314.wixsite.com/nikkan-isho]]
+-[[とらのあな>>https://www.toranoana.jp/mailorder/article/04/0030/25/15/040030251509.html]]
+//-[[BOOTH>>https://nulut.booth.pm/items/60211]]
+
+**コメント
+- 良かったよぬゆり  -- 名無しさん  (2015-02-01 03:05:39)
+- BOOTHで、まだ販売されてたっけ？  -- ｱｯﾋｮｳｯﾌｩ  (2019-06-14 07:53:51)
+- 遅かったか…もうねぇわ  -- 名無し  (2019-07-10 20:58:52)
+#comment()

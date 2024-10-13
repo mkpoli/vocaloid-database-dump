@@ -1,0 +1,54 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1797_20150827133130_0280_0280.jpg)
+|&nicovideo(http://www.nicovideo.jp/watch/sm26854840)|&YouTube(http://www.youtube.com/watch?v=yDytn5wBIBw)|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[on shore]]|CENTER:&bold(){LESS}|CENTER:[[Shopping]]|
+
+|&bold(){[[AVTechNO]]}|
+
+|流通|CENTER:即売|CENTER:委託|CENTER:配信|
+|発売|CENTER:2015年8月16日||CENTER:2015年9月16日|
+|価格|CENTER:￥1,000|CENTER:￥1,500（税別）|CENTER:￥600|
+|サークル||CENTER:AVTechNO!||
+
+**CD紹介
+-AVTechNO!氏のCDアルバム。
+-ザックザクのエレクトロ・ピコピコサウンド仕立てのポップな曲とインスト含めた全10曲。
+-ジャケットイラスト：[[和音>>http://piapro.jp/dot37]]
+-コミックマーケット88（C88）で頒布。
+-とらのあなで委託販売が行われている。
+-KARENTレーベルよりダウンロード販売が行われている。ただし、インストと既にシングルとして配信されている楽曲を除いた全6曲となっている。
+
+**曲目
+***CD版
++ater (inst
++[[sister/sister>sister／sister]] (feat. Hatsune Miku (dark
++flat (feat. Hatsune Miku (eng
++[[rea]] (feat. Hatsune Miku (sweet
++humain (feat. Hatsune Miku (dark
++sister (feat. Hatsune Miku (dark
++on shore(feat. Hatsune Miku (dark
++[[music>music/AVTechNO]] (feat. Hatsune Miku (dark
++charmeee (feat. Hatsune Miku (original
++dark lion (inst
+
+***配信版
++sister/sister
++flat
++humain
++sister
++music
++charmeee
+
+**リンク
+-[[twitter>>http://twitter.com/advance_tech_no]]
+-[[作者サイト>>http://x9-avtechno.wix.com/avtechno]]
+-[[特設ページ>>http://x9-avtechno.wix.com/sp-less]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/33/30/040030333032.html]]
+-[[KARENT：「LESS」>>http://karent.jp/album/1797]]
+-[[iTunes Store>>http://itunes.apple.com/jp/album/less-ep/id1036048997]]
+
+**コメント
+//- 色々な歌が入ってるみたいに聞こえる〜！  -- ニャー  (2015-09-16 16:18:47)
+#comment()

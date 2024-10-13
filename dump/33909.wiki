@@ -1,0 +1,49 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#amazon(B00CRANIZ0)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm20332919)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[sync-loid:02]]|CENTER:&bold(){sync-loid:03}|CENTER:[[sync-loid:04 -Yellow Star-]]|
+
+|[[TAGAMi]]|[[傘音]]|[[ゆうくんラングレー]]|[[Torero]]|[[TaKa]]|[[綾葉（爽P）]]|[[ぢゅ（メラゾーマP）]]|[[8810]]|[[7up]]|
+|[[葛野大路右京]]|[[higeoex]]|[[ねこぜなおとこ]]|[[くれない]]|[[市瀬るぽ]]|[[夜鳴夜叉]]|[[project sync-loid]]|[[市子おはる]]||
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2013年3月24日||
+|価格|CENTER:￥1,000（税込）|CENTER:￥1,500（税別）|
+|レーベル|>|CENTER:project sync-loid|
+
+**CD紹介
+-3/24みやこめっせ開催のVOCALOIDPARADISE関西２×MUSIC COMMUNICATION7にて頒布予定のイベント公式コンピレーションアルバム「sync-loid:03」のクロスフェードです。&br()今回も多くのPさんに参加頂きました！&br()会場内にございます本部にて頒布予定ですので&br()参加の記念にぜひ手にとって頂けるとうれしいです。&br()（クロスフェード動画説明文より引用）
+-好きだからこそ、作れるCDにしたい。
+-ボーカロイドオンリー即売会「VOCALOID PARADISE 関西」と&br()音系オンリー即売会「MUSIC COMMUNICATION」がお送りする&br()コンピレーションアルバム第三弾!&br()15名のプロデューサーによるボカロ曲を収録!&br()（Amazon商品説明文より引用）
+-Amazon、とらのあなで委託販売が行われていた。
+
+**曲目
++[[終わりないもの]] / TAGAMi feat. GUMI
++[[ちょwマジww無理www>ちょw マジww 無理www]] / 傘音 feat. 初音ミク
++[[夢をみつけた]] / ゆうくんラングレー feat. 初音ミク
++[[Future Air]](album Mix) / Torero feat. MC: MIKU RIN GUMI LUKA & DJ: LEN
++[[偽物シンデレラ]] /TaKa feat. CUL
++[[ゴーストラプソディ]] / 綾葉（爽P） feat. GUMI
++[[クラリサ]] / ぢゅ@メラゾーマP feat. 鏡音リン
++[[Insanity -side Psycho Assemble->Insanity - Side PsychoAssemble -]] / 8810 feat. IA
++[[red label>redlabel]] / 7up feat. 巡音ルカ
++きぼうのまち / 葛野大路右京 feat. 歌愛ユキ
++sixteendigit / higeoex feat. 巡音ルカ・デフォ子・LOKE
++darkpark's janitor / ねこぜなおとこ feat. CUL
++雪の中、君を待つ / くれない feat. 初音ミク
++[[君と僕のあすの歌]] / 市瀬るぽ feat. 初音ミク
++シンクロ / 夜鳴夜叉 feat. 初音ミク
+
+**リンク
+//-[[sync-loid:03 特設サイト>>http://vo-para.birdzberth.com/syncloid03/]]
+-[[sync-loid>>http://ttc.ninja-web.net/vo-para/sync-loid.htm]]
+-[[Amazon>>http://www.amazon.co.jp/dp/B00CRANIZ0/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/11/61/040030116149.html]]
+
+**コメント
+- TAGAMi氏 sm19122965 ゆうくんラングレー氏 sm20189242 Torero氏 sm19680265 8810氏 sm18670213 市瀬るぽ氏 sm18459148 確認しました 7upさんの動画では半角スペースがありませんがpiaproでは半角スペースがあるようです  -- 名無しさん  (2016-02-14 07:04:24)
+- 7up氏の動画 sm24507189  -- 名無しさん  (2016-02-14 07:05:45)
+#comment()

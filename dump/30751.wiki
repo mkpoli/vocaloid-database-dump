@@ -1,0 +1,35 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://f1.bcbits.com/img/a4058915099_2.jpg,height=180,width=180)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Ofeq}|CENTER:[[Fix>Fix/CD]]|
+
+|&bold(){[[宮沢もよよ]]}|&bold(){[[村上くるる]]}|[[Ev（イーブル）P]]|[[Go-qualia]]|
+
+|流通|CENTER:即売|CENTER:通販|CENTER:配信|
+|発売|CENTER:2011年10月30日|CENTER:|CENTER:2012年7月27日|
+|価格|CENTER:￥1,000|CENTER:￥|CENTER:￥700|
+|サークル|>|>|CENTER:QUADROPHENIA|
+
+**CD紹介
+-4人組クリエイティブユニット 「QUADROPHENIA」 の1stアルバム。
+-ゲストで Ev（イーブル）P こと Calla Soiled氏とGo-qualia氏 が参加。
+-ジャケットイラストは あさぎり氏 が手掛ける。
+-2011年10月30日開催の M3 にて頒布。その後通販が行われていたが、現在は終了している。
+-2012年7月27日より BandCamp にてデータ配信されている。
+
+**曲目
++Soliloquy / 村上くるる
++Green Brick Wonderland / 宮沢もよよ
++エーテル / 村上くるる
++[[アルゴリズムの庭]] / 宮沢もよよ
++After discarding / Calla Soiled
++Planet of the withdrawal / Calla Soiled
++Golem2112 / Go-qualia
+
+**リンク
+-[[特設サイト>>http://quadrophenia.cc/works/ofeq/]]
+-[[BandCamp>>http://quadrophenia.bandcamp.com/album/ofeq]]
+
+**コメント
+#comment()

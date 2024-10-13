@@ -1,0 +1,28 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[White>White/CD]]|CENTER:&bold(){ARTICUTION}|CENTER:-|
+
+|&bold(){[[Treow（逆衝動P）]]}|
+
+発売：2015年12月31日
+価格：￥1000（税込）
+流通：同人
+サークル：ELECTROCUTICA
+
+**CD紹介
+-約3年半ぶりに投稿されたボカロ楽曲「[[ARTICUTION／奇術師の告白]]」。その投稿記念として制作されたCD。
+-コミックマーケット89にて頒布。通販もやるらしい。
+
+**曲目
++[[ARTICUTION／奇術師の告白]] feat. 初音ミク
++[[Drain]] -Re:Act Mix 2015- feat. Luschka ([[ルシュカ]])
++ARTICUTION／奇術師の告白 instrumental A ver.
++ARTICUTION／奇術師の告白 instrumental B ver.
++Drain -Re:Act Mix 2015- instrumental
+
+**リンク
+-[[作者HP>>http://electrocutica.com/]]
+-[[Drain -Re:Act Mix 2015- 試聴版>>https://soundcloud.com/electrocutica/drain-re2015]]
+
+**コメント
+#comment()

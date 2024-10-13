@@ -1,0 +1,63 @@
+#right(){&furigana(はにゅうまゐこ)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://ext.nicovideo.jp/thumb_mylist/53720459" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/53720459">【ニコニコ動画】%E8%BF%B7%E3%81%84%E5%AE%B6</a></iframe>)
+
+**特徴
+作り手名：『&u(){羽生まゐご}』（&u(){はにゅうまゐご}）
+-2015年11月、「[[ゆれる]]」にてボカロデビュー。
+-使用ボカロは[[初音ミク]]、[[v flower]]。
+-小説を読んでいるような物語性のある歌詞が特徴。なお各曲には主人公が設定されている。
+-作曲ジャンルはアンビエントからエレクトロ系まで多岐に亘るが、基本的に和風が中心。
+-12作目の「[[阿吽のビーツ]]」にて自身初の殿堂入りを達成。そして2019年7月25日、同曲で自身初の[[ミリオン>曲一覧/ミリオン曲一覧]]を達成した。
+-次の曲が殿堂入りを達成している。&br()&list_by_tagsearch(羽生まゐご,殿堂入り,sort=furigana,option=nolist,nolistspace=、,100)
+
+**ミリオン達成情報
+|CENTER:&bold(){曲名}|CENTER:&bold(){100万再生}|CENTER:&bold(){200万再生}|CENTER:&bold(){300万再生}|CENTER:&bold(){備考}|
+|[[阿吽のビーツ]]|2019年7月25日|2021年5月31日|2023年5月8日||
+|[[懺悔参り]]|2020年7月7日||||
+
+**リンク
+-[[羽生まゐごの水槽（作者ホームページ）>>https://hanyuumaigo.wix.com/electro-pop-singe-jp]]
+//-[[Twitter>>https://twitter.com/hanyuu_maigo]]
+-[[Twitter>>https://twitter.com/maigo_hanyuu]]
+-[[PIAPRO>>https://piapro.jp/hanyuu_maigo]]
+-[[ニコニコ>>https://www.nicovideo.jp/user/53052370]]
+-[[YouTube>>https://www.youtube.com/channel/UCSwShVpWrdSAV9PYpH5ojBQ]]
+-[[Bilibili>>https://space.bilibili.com/86735192]]
+
+**曲
+#list_by_tagsearch(羽生まゐご,sort=furigana2,errmsg=まだ曲が登録されていません。,and,100)
+
+**CD
+#list_by_tagsearch(羽生まゐごCD,sort=furigana2,errmsg=まだCDが登録されていません。,and,100)
+
+**動画
+|>|BGCOLOR(#15406a):COLOR(#FFF):CENTER:&font(b,11pt){オリジナル曲}|
+|&nicovideo(sm27529451)|&nicovideo(sm27677042)|
+|&nicovideo(sm27979621)|&nicovideo(sm28234490)|
+|&nicovideo(sm28451920)|&nicovideo(sm28621765)|
+|&nicovideo(sm28940016)|&nicovideo(sm29094637)|
+|&nicovideo(sm29465561)|&nicovideo(sm29615611)|
+|&nicovideo(sm30518047)|&nicovideo(sm31775813)|
+|&nicovideo(sm32688081)|&nicovideo(sm33150910)|
+|&nicovideo(sm33877886)|&nicovideo(sm35665699)|
+|&nicovideo(sm35828971)|&nicovideo(sm36016631)|
+|&nicovideo(sm41799776)|>|
+//|&nicovideo()|&nicovideo()|
+
+**関連タグ内の更新履歴
+#region(close,関連タグ内の更新履歴)
+関連タグ内の更新履歴
+※「羽生まゐご」「羽生まゐごCD」タグ内で最近編集やコメントのあった記事を新しい方から10件表示しています。
+#list_by_tagsearch(羽生まゐご,羽生まゐごCD,sort=timestamp,sort2=desc,errmsg=まだ曲、CDが登録されていません。,or,10)
+#endregion
+
+**コメント
+//- 使用中のボカロは初音ミクだけじゃなくて、flowerもじゃないの?   -- 名無しさん  (2017-10-31 04:34:36)
+- この人、今日初めて知ったけど天才！ 和風テイストの曲連チャンで投稿して同じ感じにならないところが凄い！  -- 名無しさん  (2018-07-16 22:11:50)
+- 冥々って曲がまいごさんの作った曲なんだけど、コラボ先の所に投稿されてて、いい曲なのにあんまり認知されてなくて悲しい。ぜひここに追加して欲しいです。  -- 名無しさん  (2018-08-25 20:31:11)
+- 阿吽のビーツ、懺悔参りが好きです。また、ボカロではありませんが やいやいやい という曲が凄く良いです。歌詞の世界観にも瞬く間に引き込まれます。ご活動応援しております！  -- 名無しさん  (2021-02-22 22:22:44)
+#comment()

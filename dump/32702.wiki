@@ -1,0 +1,40 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://img.toranoana.jp/img/04/0030/23/53/040030235362-1.gif)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm24197086)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[ARLEQUIN]]|CENTER:&bold(){BLOOM}|CENTER:[[redress Ⅱ]]|
+
+|&bold(){[[ORYO]]}|[[おはぎ]]|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2014年8月17日|CENTER:|
+|価格|CENTER:￥1,000|CENTER:￥1,500（税別）|
+|サークル|>|CENTER:FAULHEIT|
+
+**CD紹介
+>&bold(){―いっそ夢であったら良かったのに。}
+-FAULHEIT名義での3rdアルバム。事実上の4thアルバムとなる。
+-全7曲を収録。
+-ジャケットイラストは[[おはぎ]]氏が手掛ける。氏の16Pのフルカラーイラスト集とセットになっている。
+-コミックマーケット86（C86）で頒布。
+-とらのあなで委託販売が行われている。
+
+**曲目
++紡 / GUMI
++[[トレチャリークロール]] / IA
++[[カサノヴァと純情]] / GUMI
++新港地区、午前五時。 / IA
++[[アダバナサイコロジカル]] / GUMI・IA
++[[秘め事]] / GUMI
++bonus track / IA
+
+**リンク
+-[[サークルサイト>>http://faulheit.jp/]]
+-[[特設サイト>>http://bloom.faulheit.jp/]]
+-[[作者ブログ>>http://oryo-faulheit.jugem.jp/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/23/53/040030235362.html]]
+
+**コメント
+#comment()

@@ -1,0 +1,50 @@
+#right(){&furigana(とうほうぼかろEDM2)&furigana()【登録タグ:&tags() 】}
+//#image(http://dl.dropboxusercontent.com/u/47864341/edm_2.png,width=205,height=205,title=edm2,left)
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186130733.jpg,x=300,y=300)
+
+|&nicovideo(http://www.nicovideo.jp/watch/sm24204783)|&youtube(https://www.youtube.com/watch?v=JMGdShzVvME){336,189}|
+
+|CENTER:|CENTER:本作|CENTER:次作|
+|CENTER:[[ボカロEDM]]|CENTER:&bold(){東方ボカロEDM2}|CENTER:-|
+
+|&bold(){[[Spacelectro]]}|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2014年8月6日||
+|価格|CENTER:￥1,000|CENTER:￥1,500|
+|サークル|>|CENTER:Spacelectro|
+
+**CD紹介
+-東方EDMボカロバージョン第2弾。
+-全曲Spacelectroによるアレンジ。
+-新曲に加え、前回好評だったボカロバージョンをCD化してほしいという声に答えて収録した珠玉の14曲。
+ 
+作詞 黒岩サトシ あおまふ のぶなが Spacelectro
+イラスト ちくわさび
+デザイン 三毛や素穴
+動画 桐
+☆超豪華ボーカルバージョン☆
+れをる、薛南
+
+**曲目
++Intro [Twerk] feat.初音ミク
++時の饗宴 [Drum & Bass,Hard Core] feat.鏡音リン Original 砕月
++Little Little wish [Complextro] feat.GUMIOriginal ハルトマンの妖怪少女、輝く針の小人族 ～ Little Princess
++Bad Apple!! [Glitch Hop,Drum & Bass]feat.GUMI Original Bad Apple!!
++はらぺこマイティハート [Eurobeat] feat.蒼姫ラピス Original 妖魔夜行
++想起～recollections～ [Dubstep,Trance] Feat.Merli Original 少女さとり　～ 3rd eye、月まで届け、不死の煙
++2/3のティーカップ [Trance] Feat.CUL Original 上海紅茶館～Chinese Tea
++Perfect World [House] Feat.GUMI Original 神々が恋した幻想郷
++Rewind [Dutch House] Feat. IA Original 霊知の太陽信仰　～ Nuclear Fusion
++antinomy [Electro House] Feat.MAYU Original 明治十七年の上海アリス
++世界を繋ぐ歌 [Progressive House] Feat.Lapis Original 幽霊楽団　～Phantom Ensemble
++over the limit [Eurobeat] Feat.初音ミク Original ネクロファンタジア
++Little Little wish [Complextro] feat.薛南
++Bad Apple!! [Glitch Hop,Drum & Bass] feat.[[れをる]]
+
+**リンク
+-[[Spacelectro>>http://spacelectro.com/]]
+
+**コメント
+#comment()

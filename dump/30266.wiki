@@ -1,0 +1,44 @@
+#right(){&furigana(おとこたましい)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+//#image(http://blog-imgs-26-origin.fc2.com/m/u/s/musicnatsuvocaloid/22.jpg,title=男魂,blank)
+//
+|初版&br()&ref(https://www.suruga-ya.jp/database/pics/game/186114694.jpg,x=300,y=300)|新装版&br()&ref(https://www.suruga-ya.jp/database/pics/game/186108120.jpg,x=300,y=300)|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:[[Seven Color Light]]&br()&bold(){男魂}|CENTER:[[ぷるるんぱにっく]]&br()[[IMITATION BLACK×breathe deeply]]|
+
+|&bold(){[[natsuP]]}|
+
+||CENTER:即売|CENTER:同人|
+|発売|CENTER:2009年2月22日|CENTER:2009年3月5日|
+|価格|CENTER:￥1,000|CENTER:￥1,449（税込）|
+|サークル|>|CENTER:SEVEN COLOR LIGHT|
+
+**CD紹介
+CD名：『&u(){男魂}』（&u(){おとこだましい}）
+-natsuP初のボーカロイドCDであり、インストを含めた全8曲のオリジナル作品を収録した渾身の一作。THE VOC@LOiD M@STER 7（ボーマス7）にて初頒布される。
+-同時頒布『[[Seven Color Light]]』はミクのソロ曲やメインヴォーカル曲が中心であるのに対して、こちらは「ナイス（[[Gackpo>がくっぽいど]]・[[Kyte>KAITO]]）」のヴォーカルCDとなっている。
+-&b(){THE VOC@LOiD M@STER 8（ボーマス8）にて、高音質リマスタリングが施された新装版が頒布される。}
+--刷新されたジャケットイラストはボーナストラックの収録シーンを彷彿しており、裏面にて&b(){座談会で声のみ出演した[[鏡音レン>鏡音リン・レン]]がようやく姿を現した}。
+
+
+**曲目
++[[大江戸絶唱☆茄子漢エクスタシー]]
++[[悶絶☆ナスダジオEX!]]
++茄子と哀愁のバラード &color(red){NEW!!}
++ナイスなKISS &color(red){NEW!!}
++大江戸絶唱☆茄子漢エクスタシー(inst)
++悶絶☆ナスダジオEX!(inst)
++茄子と哀愁のバラード(inst) &color(red){NEW!!}
++ナイスなKISS(inst) &color(red){NEW!!}&footnote(ボーナストラック（トラック9）「男だらけの座談会」挿入BGM、ニコニコ動画「バナナイスRADIO」（[[第１回>>https://nicovideo.jp/watch/sm7174494]]、[[第２回>>https://nicovideo.jp/watch/sm7488590]]、[[第３回>>https://nicovideo.jp/watch/sm8762744]]）オープニングトークBGM)
++(SecretTrack) &color(red){NEW!!}&footnote(男だらけの座談会　/　feat. VanaN'Ice（神威がくぽ・KAITO・鏡音レン)&footnote(↑natsuP初のトークロイド作品にして[[トークロイドシリーズ「バナナイスRADIO」の前身にあたる>>http://musicnatsuvocaloid.blog25.fc2.com/blog-entry-109.html]]。座談会の収録から約3ヶ月後にニコニコ動画で始動した「バナナイスRADIO」シリーズは、タグ[[「natsuPご乱心」>>https://sp.nicovideo.jp/tag/natsuP%E3%81%94%E4%B9%B1%E5%BF%83?sort=h&order=d&f_range=0&l_range=0&genre=]]（某[[「>大江戸絶唱☆茄子漢エクスタシー]][[ズ>>https://sp.nicovideo.jp/watch/sm5709444?ss_id=a2d47dea-2555-47b3-9bf2-87df6ba5a434&ss_pos=3]][[ンド>悶絶☆ナスダジオEX!]][[コ」>究極のナマステEX！]][[「ぷ>警報！ぷるるん指令☆]][[るる>警報！ぷるるん指令☆覚醒版]][[ん」>ぷるるんぱにっく]][[「トン>>https://sp.nicovideo.jp/watch/sm5270583?ss_id=a2d47dea-2555-47b3-9bf2-87df6ba5a434&ss_pos=4]][[チキ」>border/natsuP]]）に負けず劣らず（意外と）自重しないトークが特徴。奇しくも名前が「か」から始まるという繋がりを持つメンバー3名が揃って展開する下ネタとギャグの連発は、一定数のVaNI（ファン）から様々な評判を得ている。)
+
+**リンク
+-[[作者HP>>http://musicnatsuvocaloid.blog25.fc2.com/blog-entry-102.html]]
+
+**コメント
+- おおｗ  -- 名無しさん  (2014-09-06 15:09:43)
+#comment()

@@ -1,0 +1,32 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#ref(http://karent.jp/npdca/1789_20150724115821_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Distance>Distance/CD]]|CENTER:&bold(){your voice}|CENTER:[[Only 1 feat.Hatsune Miku]]|
+
+|&bold(){[[BIGHEAD]]}|
+
+発売：2015年8月19日
+価格：￥600
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：千助
+
+**CD紹介
+-BIGHEAD氏の配信作品。
+-表題曲の「your voice」と、インストゥルメンタル曲の「Who」を収録。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++[[your voice]] （feat. 初音ミク）
++your voice (Instrumental) （feat. 初音ミク）
++your voice (acappela) （feat. 初音ミク）
++Who (Instrumental) （feat. 初音ミク）
+
+**リンク
+-[[KARENT：「your voice」>>http://karent.jp/album/1789]]
+-[[iTunes Store>>https://itunes.apple.com/jp/album/your-voice-ep/id1025737813]]
+-[[作者サイト>>http://bighead-official.tumblr.com/]]
+
+**コメント
+#comment()

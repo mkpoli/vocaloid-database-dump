@@ -1,0 +1,97 @@
+#right(){&furigana(はるまきこはん)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+//&nicovideo_mylist(<iframe width="312" height="176" src="https://ext.nicovideo.jp/thumb_mylist/41232124" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/41232124">【ニコニコ動画】</a></iframe>)
+&nicovideo_mylist(<iframe width="312" height="176" src="https://ext.nicovideo.jp/thumb_mylist/57349416" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/57349416">【ニコニコ動画】はるまきごはんの</a></iframe>)
+
+**特徴
+作り手名：『&u(){はるまきごはん}』
+-SoundCloudで初音ミクオリジナル曲をUPし、ボカロデビュー。
+-2014年2月、ニコニコ動画上では処女作となる「[[WhiteNoise]]」を投稿する。
+-2016年1月、「[[銀河録]]」がボカロPの間で話題となりスマッシュヒットし、そのまま自身初の殿堂入りを達成。今後の活躍が期待されるPの一人である。
+-自身を中心とした[[スタジオごはん]]のメンバーである。
+-動画やイラストも自身で手掛けるというマルチな才能の持ち主。
+-使用合成音声は、初音ミク、鏡音リン、GUMI、LUMi。透き通った調声に定評がある。
+-殿堂入りした曲は以下の通り。&br()&list_by_tagsearch(はるまきごはん,殿堂入り,sort=furigana,option=nolist,nolistspace=／,100)
+
+**ミリオン達成状況
+|CENTER:&bold(){曲名}|CENTER:&bold(){100万再生}|CENTER:&bold(){200万再生}|CENTER:&bold(){備考}|
+|[[メルティランドナイトメア]]|2019年12月23日|2022年3月4日||
+|[[ドリームレス・ドリームス]]|2023年1月18日|||
+|[[月光>月光/キタニタツヤ・はるまきごはん]]|2024年1月12日||[[こんにちは谷田さん]]との共作|
+
+**リンク
+//-[[個人HP>>http://harumakigohan.wix.com/harumakigohan]]
+-[[個人HP>>https://harumakigohan.com]]
+-[[Twitter>>https://twitter.com/harumaki_gohan]]
+-[[ニコニコ>>https://www.nicovideo.jp/user/33802565]]
+-[[YouTube>>https://www.youtube.com/channel/UCgbTJ0Qb1OpA0GEocaJ7qrw]]
+-[[Bilibili>>https://space.bilibili.com/251134371]]
+-[[SoundCloud>>https://soundcloud.com/harumaki000]]
+-[[piapro>>https://piapro.jp/etelsiana]]
+-[[pixiv>>https://www.pixiv.net/users/2217467]]
+-[[pixivFANBOX>>https://www.pixiv.net/fanbox/creator/2217467]]
+
+**曲
+#list_by_tagsearch(はるまきごはん,sort=furigana2,errmsg=まだ曲が登録されていません。,and,100)
+
+**CD
+#list_by_tagsearch(はるまきごはんCD,sort=furigana2,errmsg=まだCDが登録されていません。,and,100)
+
+**動画
+|&nicovideo(sm22831683)|&nicovideo(sm23266389)|
+|&nicovideo(sm23975139)|&nicovideo(sm24356815)|
+|&nicovideo(sm25239660)|&nicovideo(sm25832830)|
+|&nicovideo(sm26523237)|&nicovideo(sm26930842)|
+|&nicovideo(sm27924987)|&nicovideo(sm28758529)|
+|&nicovideo(sm29155293)|&nicovideo(sm29465336)|
+|&nicovideo(sm29886155)|&nicovideo(sm31165275)|
+|&nicovideo(sm31936023)|&nicovideo(sm32748202)|
+|&nicovideo(sm32899091)|&nicovideo(sm33643870)|
+|&nicovideo(sm34093697)|&nicovideo(sm34379001)|
+|&nicovideo(sm35330510)|&nicovideo(sm35680547)|
+|&nicovideo(sm36109927)|&nicovideo(sm36748469)|
+|&nicovideo(sm37052227)|&nicovideo(sm37419909)|
+|&nicovideo(sm38740074)|&nicovideo(sm39875678)|
+|&nicovideo(sm40245930)|&nicovideo(sm41081226)|
+|&nicovideo(sm42001993)|&nicovideo(sm42454795)|
+|&nicovideo(sm42936210)|>|
+
+***VOCALOIDコラボ曲
+|&nicovideo(sm39251865)|&nicovideo(sm39495307)|
+|&nicovideo(sm40545552)|>|
+
+**関連タグ内の更新履歴
+#region(close,関連タグ内の更新履歴)
+関連タグ内の更新履歴
+※「はるまきごはん」「はるまきごはんCD」タグ内で最近編集やコメントのあった記事を新しい方から10件表示しています。
+#list_by_tagsearch(はるまきごはん,はるまきごはんCD,sort=timestamp,sort2=desc,errmsg=まだ曲、CDが登録されていません。,or,10)
+#endregion
+
+**コメント
+//- 追加させていただきました！追記等あればよろしくお願いします  -- 名無しさん  (2016-01-24 15:09:38)
+- カルデネいい曲  -- 名無しさん  (2016-05-03 21:20:05)
+- はるまきごはんさんが誤って一度マイリスを消されてしまったために、マイリストエラーが発生しているみたいなので誰か有志の方新しいマイリストを貼ってくださるようお願いします！  -- sakanna  (2016-10-24 17:21:26)
+- ボカロ全盛期の時だったら、今の10倍は再生されててもおかしくないんだよなボカロ全盛期の時だったら今の10倍は再生されててもおかしくないんだよな…  -- 名無しさん  (2016-11-08 14:20:52)
+- 何で勝手に2回繰り返したんた…  -- 名無しさん  (2016-11-08 14:23:33)
+- 大事なことだと判断されたんじゃないか？  -- 名無しさん  (2016-11-08 17:37:38)
+- まあやずやも2回だし、多少はね？  -- 名無しさん  (2016-11-18 18:26:06)
+- めっちゃいい曲ばっか  -- 名無しさん  (2017-01-20 02:11:27)
+- アルバム収録の「ルナ」　ドリームレス・ドリームスや銀河録もいいがとんでもなく良かった　是非買ってみてくれ  -- 名無しさん  (2017-05-15 21:59:47)
+- この人は絶対伸びる。実際、ドリームレス・ドリームスが投稿されてから3ヶ月で再生回数20万超えてるわけだし。  -- 名無しさん  (2017-08-18 15:50:05)
+- アトモスフィア、八月のレイニー、22世紀の僕らはetc…銀河録以前に良曲多いのに広まらなくて悲しい…  -- 名無しさん  (2017-11-03 02:45:04)
+- そらるさんの夢たま書き下ろし曲、最高でした。ピクミンの世界観を歌でここまで表現できるなんて天才だと思います。  -- 名無しさん  (2017-11-12 20:31:37)
+- 「ルナ」や「人間だった」は色々な人に聴いてほしいのだけれど　でもどちらもアルバムの最後でこれが流れるからこそこの曲は最高でもあるし　もどかしい・・・！  -- 名無しさん  (2018-03-04 03:11:49)
+- PVの曲はドリームレスドリームス、セブンティーナ   -- 名無しさん  (2019-02-20 13:17:47)
+- スチールワンダーが好きです。  -- 名無しさん  (2019-02-20 13:18:02)
+- アルバム限定は「Norbember」、「きっと夢の中ね」、「宇宙分解」が好きです。  -- 名無しさん  (2019-02-20 13:19:07)
+//- 春巻きご飯食べたい。  -- humeiP  (2019-02-24 09:48:35)
+- ネオドリームトラベラー収録の『アンサー』。可愛い声なのに、訴えかけるような力強い歌い方してて凄いんじゃ  -- 名無しさん  (2019-02-27 10:36:02)
+- ドリームレス・ドリームス好き過ぎてやばい(´；ω；｀)  -- ゆき  (2019-03-31 14:11:11)
+- ネオンノクチューン、サマーアリスが清涼感があって好き  -- 名無しさん  (2019-06-28 08:47:03)
+//- [  -- 名無しさん  (2020-02-29 02:13:08)
+- 量より質だから好き。そしてはるまきごはんさんは可愛い。ボカロverと分けて作るとこも人柄が出てる。  -- 名無しさん  (2020-11-28 15:09:16)
+- スタジオごはんに付いての言及がない...!?  -- 名無しさん  (2024-09-05 14:34:16)
+#comment()

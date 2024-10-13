@@ -1,0 +1,32 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+|&nicovideo(http://www.nicovideo.jp/watch/sm26054360)|&YouTube(http://www.youtube.com/watch?v=cRLb34B8Z7I)|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Psyche}|CENTER:-|
+
+|&bold(){[[ダルビッシュP]]}|&bold(){[[Keisuke.N]]}|
+
+発売：2015年4月26日
+価格：￥1,000
+流通：即売
+サークル：The Egoistic Garden
+
+**CD紹介
+-ダルビッシュPとKeisuke.N氏のユニット「The Egoistic Garden」の1stアルバム。
+-ジャケットイラストはレク氏。
+-THE VOC@LOiD 超 M@STER 31（超ボーマス31）で頒布。
+
+**曲目
++[[alnair]]
++[[ブランコ乗りのサン=テグジュペリ]]
++[[紅蓮]]
++プシュケの涙
++ヒトリシズカ
++アルジャーノンに花束を
++utopia
+
+**リンク
+-[[ウェブサイト>>http://www.the-egoistic-garden.com/]]
+
+**コメント
+#comment()

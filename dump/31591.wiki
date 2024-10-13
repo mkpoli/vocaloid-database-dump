@@ -1,0 +1,69 @@
+#right(){&furigana(BugLuv)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&youtube(https://www.youtube.com/watch?v=_mQRgeoabnI){342,187}|
+作詞：[[篁惺]]
+作曲：[[篁惺]]
+編曲：[[篁惺]]
+唄：[[KAITO]]
+
+**曲紹介
+曲名：『&u(){Bug≒Luv}』
+-2015年3月13日にYouTubeおよびPIAPROで発表された楽曲。
+
+**歌詞
+（[[PIAPRO>>http://piapro.jp/t/R5i-]]より転載）
+
+I'll never be with you,
+don't want to let you down
+For God's sake,Heaven's sake...
+Please stop this pain and
+sweet sorrow right now!
+
+その響きはまるで春の日差しに
+良く似た暖かな音色で
+僕は初めて嘘をついた
+二進法で叫ぶ愛は透明
+I'd be lying if I said“I don't know”
+
+I wanna spend time with you,
+but still I have to say “it's okey”
+If you please call my name
+at that moment,I wanna say-goodbye
+
+何度姿変えてみたって
+同じ夢を見るのは何故？
+Forgive me,bad to me...
+shed tears whenever I think of you
+
+それはどこかで違えた道筋
+きっともう戻れないけれど
+ひとつだけ忘れないで欲しい
+ずっと、ずっと
+
+I'll never be with you,
+Everything has to end,
+You know that right?
+If you please call my name
+at that moment,I wanna say-I xxx you
+
+何度形変えてみたって
+同じ面影を探して
+If you please hold my mind
+at that moment,I wanna say-crazy 4 you!
+
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+**コメント
+- めっちゃいい  -- 名無しさん  (2015-03-14 20:29:25)
+- どうしても、やらなきゃダメなことがあるようだから、せめて見守っているよ。  -- Miyako   (2019-04-07 01:11:11)
+#comment()
+
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)

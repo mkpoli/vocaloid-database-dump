@@ -1,0 +1,33 @@
+#right(){&furigana(まだみぬきみにであうために　さいじょうきゅうのすきをこめて)&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1656_20141129033937_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[おやすみの前に(Things We Said Today)]]|CENTER:&bold(){まだ見ぬキミに出逢うために (sing the song for you) ／最上級の「好き」をこめて！}|CENTER:-|
+
+|&bold(){[[ムスカP]]}|
+
+発売：2014年12月17日
+価格：￥600
+流通：配信
+サークル：KARENT
+ジャケットイラスト：ろだ
+
+|&bold(){[[iTunes Storeで購入する>>https://itunes.apple.com/jp/album/sing-song-for-you-sai-jo-kyu/id948654460]]}|
+
+**CD紹介
+-ムスカPの配信EP。
+-KARENTの鏡音リン・レン7周年記念企画で配信された作品の1つ。
+
+**曲目
++[[まだ見ぬキミに出逢うために (sing the song for you)]] （狐夢想 loves 鏡音レン）
++最上級の「好き」をこめて！  （狐夢想 loves 鏡音レン）
++まだ見ぬキミに出逢うために (Off VOCALOID)
++最上級の「好き」をこめて！ (Off VOCALOID)
+
+**リンク
+-[[KARENT：「まだ見ぬキミに出逢うために (sing the song for you) ／最上級の「好き」をこめて！」>>http://karent.jp/album/1656]]
+-[[KARENT：「鏡音リン・レン祭'14」特集ページ>>http://karent.jp/special/rinlen14]]
+-[[作者ホームページ>>http://tsubu.ath.cx/~komso/]]
+
+**コメント
+#comment()

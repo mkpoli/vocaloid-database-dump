@@ -1,0 +1,19 @@
+#right(){&furigana(きのことにじ)&furigana()【登録タグ:&tags()】}
+&nicovideo(http://www.nicovideo.jp/watch/nm6512002)
+作詞：[[うんちょP]]
+作曲：[[うんちょP]]
+//編曲：[[]]
+唄：鏡音レン
+
+**曲紹介
+-鏡音レンに歌わせているオリジナル曲
+
+**歌詞
+（[[ピアプロ>>http://piapro.jp/t/ow9R]]より転載）
+
+Mushroom,Toadstool,Kinds of Fungus…
+きのこきのこきのこは菌類
+きのこから雫が落ちて 空に虹が描かれる
+
+**コメント
+#comment()

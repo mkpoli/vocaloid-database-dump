@@ -1,0 +1,33 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm21259522)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Worlds End Holic}|CENTER:-|
+
+|&bold(){[[redo>redo/作り手]]}|&bold(){[[ぴすたP]]}|&bold(){[[やまじ>LITCHI]]}|
+
+発売：2013年7月7日
+価格：￥1,000
+流通：即売
+サークル：ハイパーメディアクリエイティ部
+
+**CD紹介
+-ぴすた、リドゥ、やまじのボカロP３人と絵師[[たいそす]]による、「地球滅亡」をテーマにしたスプリットアルバム。
+-THE VOC@LOiD M@STER 25（ボーマス25）で頒布。
+
+**曲目
++U.N.doing / redo
++ハイリゲンシャイン /やまじ
++[[Don't pop me]] / ぴすた cover
++[[人魚と海坊主]] / ぴすた
++Pyramid / やまじ
++[[午前二時に宇宙人と遭遇した場合]] / redo cover
++共依存 / redo
++超混沌的終末と眠らない夜 / ぴすた 
++[[ultramarine]] / やまじ cover
+
+**リンク
+-[[ぴすたブロマガ>>http://ch.nicovideo.jp/pista_choo/blomaga/ar278011]]
+
+**コメント
+#comment()

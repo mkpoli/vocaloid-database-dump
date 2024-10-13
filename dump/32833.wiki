@@ -1,0 +1,28 @@
+#right(){&furigana(あんすすすめ)&furigana()【登録タグ:&tags() 】}
+//&nicovideo_mylist(ここにマイリストブログパーツのiframe用をコピペ)
+
+**特徴
+-気が向いた時にボーカロイドを使用している。
+
+**リンク
+-[[Twitter>>http://twitter.com/anzusuzume]]
+-[[クレオフーガ>>https://creofuga.net/22408]]
+-[[muzie>>http://www.muzie.ne.jp/artist/r022027/]]
+-[[SoundCloud>>http://soundcloud.com/anzusuzume]]
+-[[YouTube>>https://www.youtube.com/channel/UCFRSvXVrIr9NSBZqxnCXCJQ]]
+
+**曲
+#list_by_tag(アンズスズメ,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(アンズスズメCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm21813056)|&nicovideo(sm22249565)|
+|&nicovideo(sm22556116)|&nicovideo(sm26891107)|
+|&nicovideo(sm27147623)|&nicovideo(sm27346396)|
+
+
+**コメント
+- 元のページがワープロモード、ならびにテンプレートに沿っていない編集でしたので、新たに作成し直しました。  -- 名無しさん  (2015-08-30 01:08:44)
+#comment()

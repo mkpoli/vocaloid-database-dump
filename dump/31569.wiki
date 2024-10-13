@@ -1,0 +1,87 @@
+#right(){&furigana(はつもえ)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm21002214)|&youtube(https://www.youtube.com/watch?v=7RB2C0rXVpc){342,187}|
+作詞：[[イチカワ マサキ]]（[[萌きゅんエンジェル]]）
+作曲：[[イチカワ マサキ]]（[[萌きゅんエンジェル]]）
+編曲：[[津田賢吾]]（[[萌きゅんエンジェル]]）
+唄：[[初音ミク]]
+
+**曲紹介
+曲名：『&u(){初萌}』（&u(){はつもえ}）
+-サークル「萌きゅんエンジェル」の4曲目。
+
+**歌詞
+（YouTube投稿者コメントより転載）
+
+風にスカートが揺れる　絶対領域侵犯
+天使のような小悪魔　見た目以上に惹かれる
+無邪気さの裏腹で　もて遊ばれている sign
+ルージュひと塗りでドラマ　今ここで見せたい
+
+ドキドキ so much cute KAWAII 急上昇
+キラキラ輝き I wish touch your heart
+あなたの着信 voice 危険な新療法
+一度鳴らしたら become an addict
+
+カノジョみたいに独占したい
+フィギュアみたいに私物化したい
+叶わぬ想いならリスクを犯したい（Oh, No）
+
+It's sounds sweet sweet voice. The signal just lighting up.
+Keep dreaming lovely angel　瞳閉じて
+Quuun Quuun burning heart　初めての夜に
+Without God ? not a chance　アイシテル
+Ahーーーー！！！
+
+
+妄想以上破廉恥未満　恋人模様の恋愛ゲーム
+手を伸ばしても届かない　はいはい（；´д｀）ノこなれた感じ
+触れてみたいとよぎっては　頭の中では進行中〈ING〉
+恋や愛の距離を測る　基準〈ものさし〉はデタラメ
+
+maniac love affair 知ってるみたいに
+見当違いな that's word you said
+生唾飲むような あなたの reflection
+キスだけでもいい I want you to accept
+
+はしゃいでばかりで子供みたい
+眩いばかりの宝石みたい
+カレシ気取りでメチャクチャにしてみたい（No, Please）
+
+How beautiful you are ! The usual say for MOE.
+Keep running to catch angel　油断できない
+Nico Nico fake smile　そんなの嘘でしょっ？
+Without a doubt I'm sure　キミだけを
+Ahーーーー！！！
+
+
+苦悩のジレンマ　偽りのラブロマンスを差し出す　あなたに釘づけになる
+ボクが一緒にいないとき　あなたの笑顔が他の男たちを魅惑するのを防ぐ手立てはない
+夢中になれるその瞬間は　常識や理性が機能不全　心も体も綺麗に終わらない
+善悪の対極で貪る淫靡な遊び
+
+Don't see me. She doesn't saw. The roulette begin to spin.
+Amazing and funny angel　火傷しそう
+If you love me let me know　神格化しても
+Because you must be mine　もう離さない（No No No...）
+
+It's sounds sweet sweet voice. The signal just lighting up.
+Keep dreaming lovely angel　瞳閉じて
+Quuun Quuun burning heart　初めての夜に
+Without God ? not a chance　アイシテル
+Ahーーーー！！！
+
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+**コメント
+#comment()
+
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)

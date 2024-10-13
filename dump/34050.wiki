@@ -1,0 +1,30 @@
+#right(){&furigana(ゆっぴー)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://ext.nicovideo.jp/thumb_mylist/52852383" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/52852383">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-「[[盲目レンズ]]」でデビューしたボカロP。
+-ぽわぽわしたミクトロニカや落ち着いたピアノのバラードなど、静かで耳が洗練される曲が多い。
+-使用ボカロは今のところ、初音ミクと初音ミクV3のみ。
+-[[葉っぱ天国>>http://10.120.2.1:21128/block.cgi?urldata=http://wrs.search.yahoo.co.jp/FOR=cugPy8VV3ihBzUgVfAFuBcHmakm.Wlefhbfm_mmYbdaT0nGp_ap84Yl1LzMAQ.6e976BI.rx4sLkTbkNXFXqF5PaOzLOV_6xBRvV.zaHvBWhv0OcLZWTlmhgjtFXBhVP_PwdwNGGusZd6RVrfBkQw5XfHtf_i2Obi0iQalP7_VSb5XSr7gkjrbpWB2.y778s6iEfwVb7F_TQ.vvYN_26nx.1jQZh_A--/_ylt=A7YWNNMTnNZWKmIAGgeDTwx.;_ylu=X3oDMTBtdTY1Z3BjBHBvcwMyBHNlYwNzcgRzbGsDdGl0bGU-/SIG=11p5bsj8m/EXP=1457006035/**http%3A//ha10.net/vocal/1441629616.html&ctgnum=1005&uid=1000227&gid=5&rcode=1&cip=10.19.119.196&keyword=]]のスレで感想を募集しているらしい。
+-二次創作したら↑に行ってみよう。本人に見てもらえるかもしれない。
+-Youtubeにも投稿されているので、そちらを見てもいいかもしれない。
+
+**リンク
+-[[Youtube>>http://www.youtube.com/channel/UCX3i9XWQIa4qE3WIFWzxOXA]]
+-[[Twitter>>http://twitter.com/cement0926]]
+-[[PIAPRO>>http://piapro.jp/hosigami0926]]
+-[[voca match>>http://vocamatch.com/detail.html&id=1074]]
+
+**曲
+#list_by_tag(優P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(優PCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm27100900)|&nicovideo(sm28366005)|
+|&nicovideo(sm28782299)||
+
+**コメント
+- 最近優Pさんにはまった。もっと評価されてほしい  -- 名無しさん  (2016-10-01 01:38:24)
+#comment()

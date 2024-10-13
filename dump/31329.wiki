@@ -1,0 +1,34 @@
+#right(){&furigana(みなせしょう)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+//&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/24478521" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/24478521">【ニコニコ動画】</a></iframe>)
+
+**特徴
+作り手名：『&u(){水瀬翔}』（&u(){みなせしょう}）
+-作詞家。
+-[[jon]]氏とのコラボが多い。
+-独特の世界観を持ち、繊細な言葉使いでそれぞれの曲調にあった歌詞を書く。
+
+//**リンク
+//-[[Radio-noiSe（個人サイト）>>http://radio.xxxxxxxx.jp/]]
+//-[[PIAPRO>>https://piapro.jp/shou3895]]
+//-[[Twitter>>https://twitter.com/savant7shou]]
+//
+**曲
+#list_by_tag(水瀬翔,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(水瀬翔CD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(nm16711200)|&nicovideo(sm19499651)|
+|&nicovideo(sm21130227)|&nicovideo(sm22103253)|
+|&nicovideo(sm22878691)|&nicovideo(sm23572460)|
+|&nicovideo(sm24675422)|>|
+
+**コメント
+- この人の歌詞ほんとに好き  -- 名無しさん  (2015-02-07 22:07:49)
+- 良い歌詞書くなあ、伸びてないのがもったいない  -- 名無しさん  (2015-04-19 19:08:44)
+#comment()

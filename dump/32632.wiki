@@ -1,0 +1,40 @@
+#right(){&furigana(せかいはひとりぼっちのゆめをみるか)&furigana()【登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186130421.jpg,x=300,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm23346793)
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){世界はひとりぼっちの夢を見るか}|CENTER:-|
+
+|[[なぎ]]|[[麻痺郎]]|[[ちんまりP]]|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2014年4月26日||
+|価格|CENTER:￥1,000|CENTER:￥1,000|
+|サークル|>|CENTER:the botchies|
+
+**CD紹介
+-『ひとりぼっち』をテーマにしたコンピレーションアルバム。
+-内容は各既存曲1曲、書き下ろし2曲の合計9曲となっている。
+-Illust&Design：灰庭結李、Mastering by Lowbell
+-演奏参加：神尾けい、さなだ、[[篠倉]]、yui
+-THE VOC@LOiD 超 M@STER 28（超ボーマス28）で頒布。
+-BOOTHで委託販売が行われていた。
+
+**曲目
++[[Eve>Eve/なぎ]] / なぎ feat. 初音ミクDark
++獏 / risou feat. 初音ミクSweet
++悲しき朝 / 麻痺郎 feat. 初音ミクDark
++[[Holograph]] / なぎ feat. 初音ミクDark
++マリー / 麻痺郎 feat. IA
++[[anica]] / risou feat. 初音ミクSweet
++心雨 / 麻痺郎 feat. 鏡音リン
++[[Panorama]] / なぎ feat. 初音ミクDark
++via / risou feat. GUMI Whisper
+
+**リンク
+-[[twitter（なぎ）>>http://twitter.com/Nagi_aoi]]
+-[[BOOTH>>http://botch.booth.pm/items/19196]]
+
+**コメント
+#comment()

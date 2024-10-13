@@ -1,0 +1,53 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+|&nicovideo(http://www.nicovideo.jp/watch/sm17089741)|&YouTube(http://www.youtube.com/watch?v=JtlkzNriL-4)|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){The Art Of Real Sounds vol.1 -WATER-}|CENTER:[[The Art Of Real Sounds vol.1.5 -INTERLUDE-]]|
+
+|[[tarezo]]|[[エロメガネ]]|[[ちぇず]]|となりちゃん|[[Man_boo]]|[[旅P]]|[[Lemm]]|
+|[[南欧P]]|azur|[[市蔵]]|[[イメソラP]]|[[なきゃむりゃ]]|[[鍵盤無双P]]|[[西島ソーンダイク]]|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|CENTER:2012年3月25日||
+|価格|CENTER:￥1,000|CENTER:￥1,500（税別）|
+|サークル|>|CENTER:Headfish Lab.|
+
+**CD紹介
+-生演奏　×　VOCALOIDのコンピレーションアルバム、The Art Of Real Sounds。
+-「水」をテーマにした12曲を収録しました。
+-企画：Headfish Lab.、イラスト・デザイン：ダリ、マスタリング：大輪勝則（Studio You）
+-VOCALOID PARADISE 関西（ボーパラ関西）で頒布。
+-とらのあなで委託販売が行われていた。
+
+**曲目
++Undercurrent / Music：tarezo / Vocal：初音ミク
++-Electric・Gut Guiter：エロメガネ、Contrabass：tabi-p、Flute：*ゆき*、Trumpet：Man_boo、Trombone：白クマさぶ、Clarinet, Piano, Alto・Tenor Saxphone：tarezo、Drums Sequence：Fu11Hous3 
++Rainy Music / Lyrics, Music：エロメガネ / Vocal：初音ミク
++-Electric Guitar, Electric Bass：エロメガネ
++体に流れる水のように / Lyrics：となりちゃん、Music：ちぇず / Vocal：巡音ルカ、となりちゃん
++-Pianica, Piano：ちぇず
++[[さかさまに]] / Lyrics, Music：Man_boo / Vocal：猫村いろは
++-Trumpet, Otamatone, Kazoo：Man_boo、Alto Saxophone：ただ何となく我々は放置されている、Flute, Piccolo：*ゆき*、Acoustic Guitar：エロメガネ、Contrabass：tabi-p
++[[雫のワルツ]] / Lyrics, Music：tabi-p / Vocal：megpoid
++-Contrabass, Glockenspiel, Xylophone, Banjo, Cajon, Djembe, Tambourine,Shaker, Rainstick, Windchime, Cymbal, Soprano・Alto・Tenor Recorder, Sleigh Bells, Triangle, Woodblock：tabi-p 
++Ophelia / Lyrics, Music：Lemm / Vocal：初音ミク
++-Acoustic Guitar：門脇ユウヘイ
++[[銀月魚の夜]] / Lyrics：azur、Music：ドグマ虫 / Vocal：巡音ルカ
++-Tenor Saxphone：tarezo
++バスタブは夜を行く / Lyrics, Music：市蔵 / Vocal：雪歌ユフ
++-Trombone, Piano, Celesta：市蔵
++[[Gift from HAYABUSA]] / Lyrics, Music, Arrangement：スナフキン＠イメソラ / Vocal：猫村いろは
++-Trumpet, Flugelhorn：kona_onda、Trombone：白クマさぶ、Alto Saxophone：[[oz_hiro>南のP]]、Contrabass：いち（Baguettes Ensemble)、Electric Guitar：いまいゆ、Piano：[[田中和夫]] 
++ローファイフィッシュボール / Lyrics, Music：なきゃむりゃ / Vocal：初音ミク
++-Acoustic・Electric Guitar, Electric Bass：なきゃむりゃ、Alto Saxophone：oz_hiro 
++[[逃げる]] / Lyrics, Music：たけ / Vocal：歌愛ユキ
++-Piano, Synthesizer：たけ
++底流 / Music：西島尊大 / Vocal：初音ミク
++-Acoustic Guitar：[[極悪P>maretu]]、Piano：西島尊大
+
+**リンク
+-[[特設サイト>>http://real-sounds.net/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/04/23/040030042326.html]]
+
+**コメント
+#comment()

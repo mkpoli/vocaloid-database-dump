@@ -1,0 +1,46 @@
+#right(){&furigana(たかおかみすき)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo_mylist(<iframe width="312" height="176" src="https://ext.nicovideo.jp/thumb_mylist/7896513" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/7896513">【ニコニコ動画】%E3%83%9C%E3%82%AB%E3%83%AD%E3%81%8C%E3%82%A2%E3%83%8B%E3%82%BD%E3%83%B3%E3%81%A8%E3%81%8B%E6%AD%8C%E3%81%86%E3%82%84%E3%81%A4</a></iframe>)|&nicovideo_mylist(<iframe width="312" height="176" src="https://ext.nicovideo.jp/thumb_mylist/30845055" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/30845055">【ニコニコ動画】%E2%94%80%E2%94%80%20%E7%A5%88%E3%82%8B%E6%B0%97%E6%8C%81%E3%81%A1%E3%82%92%E5%BF%98%E3%82%8C%E3%81%9A%E3%81%AB%E3%80%82</a></iframe>)|
+
+**特徴
+作り手名：『&u(){タカオカミズキ}』
+-ボカロ曲の調声協力としての参加や、ボカロによるカバー曲の制作活動を行っているボカロP。
+-ニコニコ動画への初投稿作品は、2007年の『[[初音ミクにZABADAK「満ち潮の夜」を歌ってもらった(未完成版)>>https://www.nicovideo.jp/watch/sm1475435]]』であり、MIDI7年ぶりの復帰作品。（Full版のマイリストコメントより）
+-2chDTM板発祥の[[ボカロ互助会]]に有志の一人として調声協力で参加しており、ボカロ調声技術の経験を積んでいた。
+-2009年の10月末にアニソンカバー『[[【初音ミク】なでこスネイクOP「恋愛サーキュレーション」【化物語】>>https://www.nicovideo.jp/watch/sm8653416]]』を投稿、自身の投稿作で初の殿堂入りを果たす。
+--長い沈黙を経て、1年9か月ぶりの投稿作品『[[【初音ミクAppend】Os-宇宙人を歌ってもらった【電波女と青春男】>>https://www.nicovideo.jp/watch/sm14990520]]』ではボカロカテゴリ週間ランキング1位、月間では5位となるヒット作・代表作の一つとなり、以後アニソンカバー曲について多数制作を続ける。
+-自身が制作した調声データ（VSQX/VSQファイル）について一般に公開している。
+-現在は、クリエイター集団「[[チームカミウタ]]」のボカロ調声担当として参加。
+-2015年3月4日に、アニソンカバーである『[[【結月ゆかり】名前のない怪物を歌ってもらった【PSYCHO-PASS】>>https://www.nicovideo.jp/watch/sm20308615]]』が[[100万再生>曲一覧/ミリオン曲一覧]]を達成し、結月ゆかりを使った楽曲として2つ目のミリオン動画となった。
+-現在、自身が投稿した動画で使用しているボカロライブラリは、ミク（及びミクAppend）、結月ゆかり、IA、鏡音リン（Act1）、MEIKO V3 、チームカミウタで使用したライブラリとしてKAITOとVY2がある。
+//動画タイトルの初音ミクAppend/V3や鏡音リン（Act1）/V3表記のものは【Vocaloid2音源ですが、Vocaloid3に読み込ませたもの】（動画説明文より）
+-[[ｼｬﾊﾞﾄﾞｩﾋﾞﾀｯﾁﾍ-ﾝｼｰﾝ!!>>https://www.nicovideo.jp/watch/sm18833947]]
+
+**リンク
+-[[Twitter>>https://twitter.com/takaokamizuki]]
+//-[[チームカミウタ（公式サイト）>>http://www.teamkamiuta.com/]]
+
+**曲
+#list_by_tag(タカオカミズキ,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(タカオカミズキCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+&b(){代表的なカバー曲}
+|&nicovideo(sm20308615)|&nicovideo(sm14990520)|
+|&nicovideo(sm21838486)|&nicovideo(sm22663823)|
+|&nicovideo(sm19552340)|&nicovideo(sm23175025)|
+&b(){チームカミウタ参加作品}
+|&nicovideo(sm19582438)|&nicovideo(sm21010033)|
+|&nicovideo(sm21458762)|&nicovideo(sm21875957)|
+|&nicovideo(sm22122475)|&nicovideo(sm23512374)|
+|&nicovideo(sm24537202)|&nicovideo(sm25055533)|
+
+**コメント
+- 神です!  -- 名無しさん  (2015-05-15 19:53:20)
+- カバー曲もチームカミウタ曲も大好きです!!  -- 名無しさん  (2016-08-31 23:09:24)
+#comment()

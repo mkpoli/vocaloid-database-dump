@@ -1,0 +1,33 @@
+#right(){&furigana(ほしみねさき)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/50535504" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/50535504">【ニコニコ動画】</a></iframe>)
+
+**特徴
+
+**リンク
+
+**曲
+#list_by_tag(星峰沙樹,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(星峰沙樹CD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm26492105)|&nicovideo(http://www.nicovideo.jp/watch/sm26517414)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm26538767)|&nicovideo(http://www.nicovideo.jp/watch/sm26566165)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm26589026)|&nicovideo(http://www.nicovideo.jp/watch/sm26633069)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm26665795)|&nicovideo(http://www.nicovideo.jp/watch/sm26715209)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm26781611)|&nicovideo(http://www.nicovideo.jp/watch/sm26867792)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm26966111)|&nicovideo(http://www.nicovideo.jp/watch/sm27078655)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm27164984)|&nicovideo(http://www.nicovideo.jp/watch/sm27214416)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm27285531)|&nicovideo(http://www.nicovideo.jp/watch/sm27368780)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm27463415)|&nicovideo(http://www.nicovideo.jp/watch/sm27551742)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm27648296)|&nicovideo(http://www.nicovideo.jp/watch/sm27751447)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm27839257)|&nicovideo(http://www.nicovideo.jp/watch/sm27984586)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm28084452)|&nicovideo(http://www.nicovideo.jp/watch/sm28236754)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm28344470)|&nicovideo(http://www.nicovideo.jp/watch/sm28557503)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm28757463)|&nicovideo(http://www.nicovideo.jp/watch/sm28978606)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm29170665)|&nicovideo(http://www.nicovideo.jp/watch/sm29363904)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm29576721)|&nicovideo(http://www.nicovideo.jp/watch/sm29751478)|
+
+**コメント
+#comment()

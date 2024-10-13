@@ -1,0 +1,46 @@
+#right(){&furigana(てんこP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/37724261" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/37724261">【ニコニコ動画】</a></iframe>)
+
+**特徴
+作り手名：『&u(){点五P}』（&u(){てんごP}）
+-「20.5世紀P」。略して「点五P」。Pは「プロジェクト」の意味。
+-HNはでくのぼーBen慶。
+-P名の由来は「21世紀の新しいリズムに乗せて、20世紀風のレトロなメロディを届ける」という自身のポリシーから。
+-当初はBenKayPとういうP名だったが、同名のDJと被るため、20.5世紀Pとなり、その後、現在のP名に落ち着いた。
+-20年間、音楽から離れていたが、自分が作った曲を発表するためにボカロPになった。
+
+**リンク
+-[[作者ブログ>>https://dekunobobenkay.blog.so-net.ne.jp/]]
+-[[YouTube>>https://www.youtube.com/channel/UCABKgO0N0XT71zonAMmvrfg]]
+-[[Twitter>>https://twitter.com/DekunoboBK]]
+
+**曲
+#list_by_tag(点五P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(点五PCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+***オリジナル曲
+|&nicovideo(sm29081245)|&nicovideo(sm28231309)|
+|&nicovideo(sm29088425)|&nicovideo(sm26552741)|
+|&nicovideo(sm27872183)|&nicovideo(sm28692103)|
+
+***カバー曲
+|&nicovideo(sm32361803)|&nicovideo(sm33126728)|
+|&nicovideo(sm33418824)|&nicovideo(sm33647452)|
+
+**コメント
+//- こんなに頑張ってるのに再生数伸びないって愚痴るボカロPはそのうち辞める。最初はドキドキした気持ちも次第にマンネリになって何のためにやってるのか疑い始める。  -- 名無しさん  (2016-01-28 16:40:50)
+- ボカロによる音楽の復活ですか、  -- 午前3時  (2016-05-11 12:44:29)
+//- 定期ツイートPに改名したら？  -- 尾道五助  (2018-04-26 11:36:19)
+//- 言ったことをコロコロ変えてP名コロコロ変えて鬱陶しい  -- 名無しさん  (2018-08-27 22:04:25)
+//- ツイッターでリムったらブロックされてキレるおっさん  -- 名無しさん  (2018-08-27 22:05:23)
+//- お前がフォローしてきたんだろ。ブロックして何が悪いの？Twitterの考え方わかってないだろ  -- 名無しさん  (2018-08-27 22:07:55)
+//- お前の言い方は「フォローしてやったのにリムったらブロックしやがった。なんて恩知らずな奴だ」って事か？  -- 名無しさん  (2018-08-27 22:16:00)
+//- てか何回フォローしてリムってきたんだよ。頑張ってると思ってそのたびフォロー返してきたけどもうめんどいからブロックしたら今度はそれに対して文句言うとかまじ頭どうなってんの？  -- 名無しさん  (2018-08-27 22:18:50)
+#comment()

@@ -1,0 +1,32 @@
+#right(){&furigana(わーるどわーるど)&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1861_20160103203605_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[ここだけのエトセトラ]]|CENTER:&bold(){ワールド・ワールド}|CENTER:[[Seize the day]]|
+
+|&bold(){[[卑屈P]]}|
+
+発売：2016年1月29日
+価格：￥300
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：[[霧雨。>>http://piapro.jp/kirisame]]
+
+**CD紹介
+-卑屈Pの配信シングル。
+-ルカ曲3曲を収録。
+-KARENTレーベルよりダウンロード販売が行われている。巡音ルカ7周年記念特集で配信された作品の1つ。
+
+**曲目
++[[ハローワールド>ハローワールド/卑屈P]] （feat. 巡音ルカ）
++[[イン マイ ワールド]] （feat. 巡音ルカ）
++[[イントゥ・ザ・ワールド]] （feat. 巡音ルカ）
+
+**リンク
+-[[twitter>>http://twitter.com/kou46]]
+-[[KARENT：「ワールド・ワールド」>>http://karent.jp/album/1861]]
+-[[KARENT：「巡音ルカ聖誕祭'16」特集ページ>>http://karent.jp/special/luka16]]
+-[[iTune Store>>http://itunes.apple.com/jp/album/world-world-single/id1074536738]]
+
+**コメント
+#comment()

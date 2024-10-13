@@ -1,0 +1,37 @@
+#right(){&furigana(みなるP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/49137719" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://nico.ms/mylist/60013187">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-現時点で所持が確認されているVOCALOIDは鏡音リン・鏡音レン（ACT1、ACT2、Append）、kokone、初音ミク、歌愛ユキ、v4flower。
+--UTAU楽曲も手掛けており、使用ライブラリは滲音かこい。
+-作品の傾向としては、和風曲やロックバラードが多く、優しく切ない曲調のものが多い。
+--インスト音源はニコニコモンズで公開されており、そのクオリティの高さゆえBGMとして使用されることも多い。
+-フルート奏者でもあり、[[「演奏してみた」動画>>http://www.nicovideo.jp/mylist/49057664]] も投稿している。
+--超パーティーⅢでは、超ニコニコ管弦楽団に所属していた。
+--超パーティー2015でも超ニコニコ管弦楽団で出演した。
+--現在はYouTubeでも公式アーティストチャンネルを開設している。
+
+**リンク
+-[[Twitter>>https://twitter.com/minarup]]
+-[[ニコニコユーザーページ>>http://www.nicovideo.jp/user/46622012]]
+-[[ニコニコミュニティ「みなる色の音紡ぎ」>>http://com.nicovideo.jp/community/co2055223]]
+-[[SoundCloud>>https://soundcloud.com/minarup]]
+-[[UTAU楽曲データベース「みなるP」ページ>>http://www24.atwiki.jp/utauuuta/pages/3213.html]]
+
+**曲
+#list_by_tag(みなるP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(みなるPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+***オリジナル
+|&nicovideo(http://www.nicovideo.jp/watch/sm25722445)|&nicovideo(http://www.nicovideo.jp/watch/sm25722669)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm25747814)|&nicovideo(http://www.nicovideo.jp/watch/sm26057825)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm26395356)|&nicovideo(http://www.nicovideo.jp/watch/sm27187640)|
+
+***カバー
+|&nicovideo(http://www.nicovideo.jp/watch/sm25890293)|&nicovideo(http://www.nicovideo.jp/watch/sm26548649)|
+
+**コメント
+#comment()

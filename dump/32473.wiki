@@ -1,0 +1,39 @@
+#right(){&furigana(あしんめとりーからーず)&furigana()【登録タグ:&tags() 】}
+
+&ref(https://ecdnimg.toranoana.jp/ec/img/04/0030/32/46/040030324660-1p.jpg,x=300,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm26645371)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[ロイヤルシンフォニー]]|CENTER:&bold(){アシンメトリーカラーズ}|CENTER:[[Bring back summer]]|
+
+|&bold(){[[sizimi]]}|[[おればななP]]|
+
+発売：2015年7月12日
+価格：￥1,000
+流通：即売
+サークル：しじみ3個分の力
+
+**CD紹介
+-sizimi氏の1stアルバム。
+-Mastering Engineer：[[かごめp]] / Art Director & Designer No.734/DMYM
+-THE VOC@LOiD M@STER 32（ボーマス32）で頒布。
+
+**曲目
++Orchid
++[[脳内シナプスの叛逆]]
++[[片思い☆Emotion]]
++[[Moon night party]]
++[[トキメキ☆ハピネスdays]]
++[[存在証明>存在証明/sizimi]]
++[[Bring back summer]]
++泡沫の陽炎
++Heart of selecter
+
+**リンク
+-[[作者twitter>>https://twitter.com/sizimirock]]
+-[[告知サイト>>http://asymmetrycolors.tumblr.com/]]
+-[[とらのあな>>https://ec.toranoana.jp/joshi_r/ec/item/040030324660/]]
+
+**コメント
+#comment()

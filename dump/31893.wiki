@@ -1,0 +1,41 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+
+&nicovideo(http://www.nicovideo.jp/watch/sm26064489)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[emonloid5]]|CENTER:&bold(){emonLOiD -best-}|CENTER:[[emonLOiD7]]|
+
+|&bold(){[[emon（Tes.）]]}|
+
+発売：2015年4月25日
+価格：￥2,000（税込）
+流通：即売
+サークル：
+
+**CD紹介
+-音楽グループ「Tes.」所属の emon氏 のベストアルバム。
+-アートワークは 大沼もん氏 が手掛ける。
+-あぷりこっと＊氏、大島はるな氏、びびあん氏、EVO+氏、柿チョコ氏 による歌唱曲とボーカロイド歌唱曲を収録。
+--ボーカロイド歌唱曲はTr.04、Tr.06、Tr.08、Tr.09、Tr.11の5曲。
+-THE VOC@LOiD 超 M@STER 31（超ボーマス31）にてリリース。
+
+**曲目
++inst
++[[Heart Beats]] sing by Apricot*
++[[too cute>too Cute!]] sing by Haruna Oshima
++[[Love timer]]
++[[ジュリエッタとロミヲ]] sing by Vivien
++[[7days]]
++shake it！-english ver. sing by EVO+
++[[静電気。]]
++[[さよならグライダー]]
++[[星空のライオン]] sing by Kakichoco
++[[shake it！]]
++outro
+
+**リンク
+-[[Twitter>>http://twitter.com/emon316]]
+
+**コメント
+- 追加乙！！！　  -- 良太  (2015-04-20 21:13:22)
+#comment()

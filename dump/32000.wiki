@@ -1,0 +1,34 @@
+#right(){&furigana(Moz)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="http://ext.nicovideo.jp/thumb_mylist/40805916" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/40805916">【ニコニコ動画】</a></iframe>)
+
+**特徴
+作り手名：『&u(){Moz}』(&u(){もず})
+-2013年にDTMを始め、[[ke-sanβ]]氏に誘われVOCALOIDを使用した楽曲を公開。
+-音楽と野菜を作って生計を立てているらしい。
+-Moz soundのロゴは[[木沢広人>>http://twitter.com/hirotokizawa]]氏が作成。
+-当初の名義は「meru」だったが、[[なんだか梅雨の時期と重なったのと色々あって名前が変わった>>http://twitter.com/moz_sound/status/477097382262231042]]。
+
+**リンク
+-[[Moz sound（作者ブログ）>>http://ameblo.jp/moz-sound/]]
+-[[Twitter>>https://twitter.com/moz_sound]]
+-[[piapro>>http://piapro.jp/moz_sound]]
+
+**曲
+#list_by_tagsearch(Moz,sort=furigana2,errmsg=まだ曲が登録されていません。,and,100)
+
+**CD
+#list_by_tagsearch(MozCD,sort=furigana2,errmsg=まだCDが登録されていません。,and,100)
+
+**動画
+|&nicovideo(sm23884582)|&nicovideo(sm25437626)|
+|&nicovideo(sm26202804)||
+
+**コメント
+- 上げ  -- 雪  (2015-05-09 16:00:34)
+- この方の曲はもっともっと評価されてほしいです。  -- 御坂  (2015-05-14 14:46:04)
+- とても好きです  -- 名無しさん  (2016-01-03 19:19:56)
+#comment()

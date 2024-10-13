@@ -1,0 +1,98 @@
+#right(){&furigana(すたーすとらく)&furigana()【登録タグ:&tags()】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&youtube(http://www.youtube.com/watch?v=r75-qNqMp-0){342,187}|&nicovideo(http://www.nicovideo.jp/watch/sm15933540)|
+|&youtube(http://www.youtube.com/watch?v=DhjQchn4ya8){342,187}|&nicovideo(http://www.nicovideo.jp/watch/sm15972623)|
+||&nicovideo(http://www.nicovideo.jp/watch/sm18000644)|
+|&youtube(http://www.youtube.com/watch?v=rzUAaJhnNNM){342,187}|&nicovideo(http://www.nicovideo.jp/watch/sm26068161)|
+|&youtube(http://www.youtube.com/watch?v=Llx5qIxyGvg){342,187}|&nicovideo(http://www.nicovideo.jp/watch/1449732847)|
+作詞：[[ShinRa]]
+作曲：[[MJQ]]
+編曲：[[MJQ]]
+唄：[[鏡音リン・レン]](オリジナル)、[[鏡音レン>鏡音リン・レン]]・[[IA]]（別ver.）
+
+**曲紹介
+-English Versionが鏡音リン・レンV4Xの公式デモソングに使用された。歌唱データベースは鏡音リン・レンV4 English。
+
+**歌詞
+（動画より書き起こし）
+
+月明かりを浴びたときに
+僕わ君にほれた
+星空を流れたときに
+わたしわ君に恋した
+
+Ah Starry Tree
+キラキラの眩しさ
+星より光るわ
+あのさ、わたしたち
+星をゆっくり数えよ
+
+Ah You and Me
+月と星の素敵さみたいに目立つわ
+小さな両手で
+心のメッセージ送りたい
+
+独り占めしたいくらい
+I Love you
+Yes I Do
+
+Ah Starry Tree
+キラキラの眩しさ
+星より光るわ
+あのさ、わたしたち
+星をゆっくり数えよ
+
+Ah You and Me
+月と星の素敵さみたいに目立つわ
+小さな両手で
+心のメッセージ送りたい
+
+#region(close,English Version歌詞)
+（動画より書き起こし）
+
+As when the moon rises
+the moonlight brightly shines
+She's the one I fell in love
+
+And when the stars pass by
+over the skyline
+He's the one I fell in love
+
+Ah starry Tree
+The shine from you glistens in the dark
+It is brighter than the stars
+Together, side by side
+Let us slowly count together all the stars
+
+Ah you and me
+We will stand out just like
+the wonderful illuminating moon and stars
+With these warm little hands
+To send the message from our hearts
+
+I want to keep all of you to myself
+I love you
+Yes, I do
+
+Ah starry Tree
+The shine from you glistens in the dark
+It is brighter than the stars
+Together, side by side
+Let us slowly count together all the stars
+
+Ah you and me
+We will stand out just like
+the wonderful illuminating moon and stars
+With these warm little hands
+To send the message from our hearts
+
+You and Me
+
+#endregion
+
+**コメント
+- すごい、優しい昼に聴きたくなる素敵な曲。  -- よとりゆ  (2015-12-13 09:50:20)
+#comment()

@@ -1,0 +1,36 @@
+#right(){&furigana(きのえP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+//&nicovideo_mylist(ここにマイリストブログパーツのiframe用をコピペ)
+
+**特徴
+作り手名：『&u(){きのえP}』
+-本職が警察官のボカロP。警視庁犯罪抑止対策本部の公式Twitterアカウントの中の人&b(){（甲）}氏である。
+-MikuMikuDanceを利用した自作のPVと共に動画を上げることが多い。
+--第13回MMD杯から、警察関連の話をネタとした作品投稿も行っている。
+-P名の由来は[[符丁の訓読み>>https://twitter.com/kinoe_p/status/547029448801796096]]から。（甲→きのえ）
+-現在の使用ボカロは初音ミク及び東北ずん子・結月ゆかり・巡音ルカV4X・Sachikoが居る。
+-警視庁犯罪抑止対策本部のTwitterフォロワー6万人を記念して制作された動画、[[ピーポくんのうた（YouTube）>>https://www.youtube.com/watch?v=6hWzbnrNkVI]]（作詞作曲:清水道代）の合成音声カバー版（[[ねとらぼ記事>>https://nlab.itmedia.co.jp/nl/articles/1310/15/news137.html]]）の作者である。
+-犯罪防止対策本部Twitterとの関連から、仲の良い企業などの公式Twitterアカウント（特に宮城地本）が視聴していた。
+
+**リンク
+//-[[Twitter（きのえP）>>https://twitter.com/kinoe_p]]
+-[[ニコニコユーザーページ>>https://www.nicovideo.jp/user/13633440]]
+
+**曲
+#list_by_tag(きのえP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(きのえPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm24441486)|&nicovideo(sm24783689)|
+|&nicovideo(sm25068173)|&nicovideo(sm25115802)|
+
+**コメント
+- ページ作成しました。ニコニコチャートのユーザーID検索によると桜田みかんと名乗っていた時代もあったようです。ミクWikiなのでMMD杯については軽く触れた程度に収めておきたいと思います。  -- 名無しさん  (2015-02-19 17:50:33)
+- ボーカロイドは、結月ゆかりさんも使ってます。  -- 名無しさん  (2015-02-19 17:58:13)
+- ↑追加しておきました。MMDの方ちょっと見過ごしてました  -- 名無しさん  (2015-02-19 17:59:18)
+#comment()

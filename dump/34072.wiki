@@ -1,0 +1,32 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+
+&nicovideo(http://www.nicovideo.jp/watch/sm28342917)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Dolci Momenti]]|CENTER:&bold(){Magical Sympathy}|CENTER:-|
+
+|&bold(){[[銀河方面P]]}|暴徒|KaoKao|
+
+|流通|CENTER:即売|
+|発売|CENTER:2016年3月6日|
+|価格|CENTER:￥500（税込）|
+|サークル|CENTER:すたじお☆ぺぱーみんと|
+
+**CD紹介
+-銀河方面Pの9thミニアルバム。
+-「[[未来Treasure]]」「[[エキセントリックw]]」のミクver.のなど全5曲を収録。
+-ジャケットイラストは 神無氏 が手掛ける。
+-VOCALOID PARADISE 関西5（ボーパラ関西5）にてリリース。
+
+**曲目
++[[未来Treasure]] -Miku Version-
++[[天翔恋唄日記]] -Long Version-
++僕のアイドル -Miku Version-
++[[エキセントリックw]] -Miku Version-
++[[ふたりはSympathy]]
+
+**リンク
+-[[銀河方面P@神野貴志（たかぴ）のブログ（作者ブログ）>>http://ameblo.jp/studiopeppermint/]]
+
+**コメント
+#comment

@@ -1,0 +1,39 @@
+#right(){&furigana()&furigana()【登録タグ:&tags()】}
+|&nicovideo(http://www.nicovideo.jp/watch/sm24803589)|&youtube(http://www.youtube.com/watch?v=xzkjSIEKDt4)|
+作詞：[[Chiquewa]]・[[ぱんだっち]]
+作曲：[[Chiquewa]]
+編曲：[[Chiquewa]]・[[ぱんだっち]]
+唄：初値ミク（調声：[[ぱんだっち]]）
+
+**曲紹介
+-[[ぱんだっち]]さんの作品『[[すーぱんだのテーマ]]』と前作『[[Rendez-vous Dans Un Reve]]』の続編です。
+-聴いての通り、スパイ映画・・というか0○7をモチーフにした、かなり派手なオーケストレーションを施しております。
+-イラスト・動画は[[ちぃ]]（0108-音屋-）氏、マスタリングはG_KOBA（[[恋竹林]]）氏。
+
+**歌詞
+（[[PIAPRO>>http://piapro.jp/t/Mt_3]]より転載）
+
+&nowiki(){*} パンダ パンダ パンダ　パンダ パンダ パンダ
+パンダ パンダ パンダ　パンダ パンダ パンダ
+Uh~
+パンダ！　パンダ！　パンダ！
+
+ちょいと出ました　Black & White
+本気を出せば　電光石火
+癒しの仮面被り　匠の業（ワザ）で逃がさない
+地上の果てまで　追いつめるヤツはパンダ
+
+&nowiki(){*} Repeat
+
+向かうところ　敵ナシ
+笹を奪われ　発狂寸前
+ヤロウの腕にかかりゃ　槍も鉄砲も敵わない
+本当の姿は　誰も知らないパンダ
+
+&nowiki(){*} Repeat
+
+&nowiki(){*} Repeat
+
+
+**コメント
+#comment()

@@ -1,0 +1,97 @@
+#right(){&furigana(CrazyAboutYou)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm25652544)|
+作詞：[[おこさまP]]
+作曲：[[おこさまP]]
+編曲：[[おこさまP]]
+イラスト：[[和泉スイ]]
+タイトルロゴ：[[ゆひぽち]]
+唄：[[GUMI>Megpoid]]
+
+**曲紹介
+>受け入れてもらえるのかちょいビビリ入ってますがw
+>自分なりにボカロへの想いを、出来るだけストレートに歌詞にしてみました！
+>よかったら聴いて下さいꉂ ( ੭ꇴ ˂̶ )੭♪
+曲名：『&u(){Crazy About You}』(&u(){くれいじー　あばうと　ゆー})
+-すてるふ(おこさまP)のボーカロイド処女作。
+
+**歌詞
+（作者配布のファイルより転載）
+
+焦がれてるの baby
+求めてる　so crazy
+朝も夜も　君だけに　夢中なの
+(crazy about you)
+ヴァーチャルだって baby
+かまわないの　stay here
+溢れ出す　君の声に　夢中なの　
+(crazy about you)
+
+君に出会うまでは
+知らなかった
+新しい自分に
+気づいてく
+
+きっかけは些細なことだったけど
+君に恋に落ちたの
+永遠を奏でるその声に
+
+焦がれてるの baby
+求めてる　so crazy
+朝も夜も　君だけに　夢中なの
+(crazy about you)
+響き合うの baby
+溶けていくの melting
+過去と未来が　交差する　この場所で
+(crazy about you)
+
+君に出会ってから
+動き出した
+時計の針が刻む
+恍惚を
+
+恍惚を
+目の前にあるのは
+果てしなく拡がるこの世界
+
+焦がれてるの baby
+求めてる　so crazy
+朝も夜も　君だけに　夢中なの
+(crazy about you)
+ヴァーチャルなんて baby
+超越して　 calling
+君の歌は　どこまでも　届くから(crazy about you)
+
+if you say that you love me
+I can do anything for you
+if you say that you love me
+I can do anything for you
+I love you
+
+(drop the bass)
+
+焦がれてるの baby
+I realize you drive me crazy
+I spend only your thing thinking day after day
+I'm missing you
+(crazy about you)
+
+求めてるの baby
+really far gone,I'm stuck on you
+Only you can make me feel so high baby
+I'm kissing you
+(crazy about you)
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+**コメント
+#comment()
+
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)

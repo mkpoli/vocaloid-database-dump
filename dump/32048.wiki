@@ -1,0 +1,38 @@
+#right(){&furigana(ゆき)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/33810664" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/33810664">【ニコニコ動画】オリジナル曲と参加作品</a></iframe>)
+
+**特徴
+作り手名：『&u(){雪}』（&u(){ゆき}）
+-アーティスト名は、&bold(){yuki}。
+-2012年の9月に、『[[powder snow>powder snow/雪]]』で初投稿。
+-使用ボカロはIA、蒼姫ラピス、ZOLA PROJECT WIL、v flower、初音ミク。
+-作曲・編曲を主に担当しており、歌詞については他の人との合作という形である。
+
+**リンク
+-[[ニコニコ>>https://www.nicovideo.jp/user/22307553/mylist/33810664]]
+-[[YouTube>>https://www.youtube.com/channel/UCgI91fbhd0u2wSS5JJRchBQ]]
+-[[Twitter>>https://twitter.com/yuki03aaaa]]
+-[[PIAPRO>>https://piapro.jp/yuki_03]]
+
+**曲
+#list_by_tag(雪,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(雪CD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm18897494)|&nicovideo(sm18947958)|
+|&nicovideo(sm25745836)|&nicovideo(sm25635628)|
+|&nicovideo(sm25964164)|&nicovideo(sm25832057)|
+|&nicovideo(sm26254833)|&nicovideo(sm26158547)|
+
+**コメント
+//- 動画の説明文での表記やTwitterアカウント名が「雪」であるので、「雪/作り手」に記事名変更した方がいいかも  -- 名無しさん  (2015-05-16 20:33:41)
+//- 編集競合で一部変更しました 被った編集者さんすみません。「yuki」のタグでのヒットでRe;nGさんとコラボしてる人や、巡音ルカを用いた同名の方が居るようです。  -- 名無しさん  (2015-05-16 20:51:24)
+//- 引き続き「雪」タグで見た結果1件、この方の曲があったので記事名変更出来る方お願いします  -- 名無しさん  (2015-05-16 21:28:15)
+//- 記事名変更はログインユーザーさんしかできないから、今度から[[追加編集削除の依頼>修正依頼]]ってページで頼んでもらえますか。ページは3万以上あるので、ここだと見落とされる可能性もあります。  -- 名無しさん  (2015-05-16 22:23:28)
+#comment()

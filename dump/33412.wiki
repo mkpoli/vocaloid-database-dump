@@ -1,0 +1,29 @@
+#right(){&furigana(きんいろはくちゅうむ)&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1829_20151110204252_0280_0280.jpg)
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[人狼村にようこそ]]|CENTER:&bold(){銀色白昼夢}&br()[[突然ですが、アイドル始めました]]|CENTER:-|
+
+|&bold(){[[ゆちゃP]]}|
+
+発売：2015年12月2日
+価格：￥300
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：[[憂]]
+
+**CD紹介
+-ゆちゃPの配信作品。
+-雑誌「[[MIKU-Pack music&artworks feat.初音ミク>>http://miku-pack.jp/]]」11号付録CDにて先行収録された書き下ろし楽曲「銀色白昼夢」と、コンピレーションアルバム『[[EXISTENCE>EXISTENCE/CD]]』収録の「わすれもの」の2曲を収録。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++[[銀色白昼夢]] （feat. 巡音ルカ）
++わすれもの （feat. メグッポイド＆初音ミク）
+
+**リンク
+-[[twitter>>http://twitter.com/ychhhh]]
+-[[KARENT：「銀色白昼夢」>>http://karent.jp/album/1829]]
+-[[iTune Stroe>>http://itunes.apple.com/jp/album/silver-daydream-single/id1062263586]]
+
+**コメント
+#comment()

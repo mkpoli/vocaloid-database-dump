@@ -1,0 +1,69 @@
+#right(){&furigana(Remember)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm21642110)|
+作詞：[[ジーザス勲]]
+作曲：[[tg-sora]]
+編曲：[[tg-sora]]
+唄：[[KAITO]] V3 English（調声：[[哀婉P]]）
+
+**曲紹介
+>―――あの頃の私達に戻れますか？
+-哀婉P、tg-sora氏、めりっさP、Peco氏、ジーザス勲氏からなるユニット・CRONUS×CЯOCUSの楽曲。
+-イラストをPeco氏、動画を哀婉Pが担当。
+
+**歌詞
+（[[PIAPRO>>http://piapro.jp/t/ebcF]]より転載）
+
+1
+did you forget everything
+that I am loving still
+the day we talked in the shade of the tree
+the pray we offered under the sunset by the lake
+
+assay to remember early
+allay my pain gently
+look at my direction
+watch my following
+
+see where I am!
+
+(※refrain)
+you left me behind
+my hand caught your wind
+your shadow get me by my neck
+my soul is bound and rupture
+I'll picture and see you
+under the tree, near the lakeside
+do you remember yourself and me
+I won't forget you forever
+
+
+
+2
+can you remember breathing
+that you blew to me
+cold palms touched my arm shyly
+and closed a pall of darkness quietly
+
+stay with my mind always
+betray the alternative you chose
+detect my suffering
+protect my heart
+
+see where I am!
+
+you left me alone
+my leg stepped nothing
+your vestige sink me to mud sea
+my fate is torn and melt
+I'll shed tears when I realize
+in the frozen air, in the icy darkness,
+can you remember when you laughed like a child
+can you remember yourself and me
+
+
+**コメント
+#comment()

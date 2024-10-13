@@ -1,0 +1,29 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1559_20140716130224_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Snow Story / Fly Away>Snow Story ／ Fly Away]]|CENTER:&bold(){Last Summer Memories}|CENTER:-|
+
+|&bold(){[[すけっちP]]}|
+
+発売：2014年9月17日
+価格：￥150
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：大石
+
+**CD紹介
+-雑誌「[[MIKU-Pack music&artworks feat.初音ミク>>http://miku-pack.jp/]]」08号付録CDにて先行収録された書き下ろし楽曲。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++Last Summer Memories （feat. 初音ミク）
+
+**リンク
+-[[作者ブログ>>http://suketchp.seesaa.net/]]
+-[[KARENT：「Last Summer Memories」>>http://karent.jp/album/1559]]
+-[[KARENT：「MIKU-Pack」特集ページ>>http://karent.jp/special/mikupack14]]
+-[[iTunes Store>>https://itunes.apple.com/jp/album/last-summer-memories-feat./id914465188]]
+
+**コメント
+#comment()

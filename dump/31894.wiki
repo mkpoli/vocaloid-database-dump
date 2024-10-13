@@ -1,0 +1,52 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+
+#ref(http://static.tumblr.com/c727802b77fb7fe72a8eebcefa52d14d/poyrtso/70tnmy1hl/tumblr_static_6izvxqna8tgkkcwwkw840cowk.jpg,width=300,height=300)
+
+
+|BGCOLOR(#2b5555):COLOR(#efefef):CENTER:&font(b,11pt){　クロスフェード　}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm26046523)|
+
+|BGCOLOR(#2b5555):COLOR(#efefef):CENTER:&font(b,11pt){　前作　}|BGCOLOR(#2b5555):COLOR(#efefef):CENTER:&font(b,11pt){　本作　}|BGCOLOR(#2b5555):COLOR(#efefef):CENTER:&font(b,11pt){　次作　}|
+|CENTER:-|CENTER:&bold(){übel}|CENTER:-|
+
+|[[なぎさ]]|[[こんにちは谷田さん]]|[[やまじ>LITCHI]]|[[メル]]|[[もっふーP]]|[[Yuma Saito]]|
+|[[田中じゅんじろー]]|[[翁]]|[[おかゆ]]|[[カラスヤサボウ]]|[[Eight]]||
+
+|BGCOLOR(#2b5555):COLOR(#efefef):CENTER:&font(b,11pt){　流通　}|BGCOLOR(#2b5555):COLOR(#efefef):CENTER:&font(b,11pt){　即売　}|BGCOLOR(#2b5555):COLOR(#efefef):CENTER:&font(b,11pt){同人}|
+|BGCOLOR(#2b5555):COLOR(#efefef):CENTER:&font(b,11pt){　発売　}|CENTER:　2015年4月25日・26日　||
+|BGCOLOR(#2b5555):COLOR(#efefef):CENTER:&font(b,11pt){　価格　}|CENTER:　￥1,000（税込）　|CENTER:￥1,500（税別）|
+|BGCOLOR(#2b5555):COLOR(#efefef):CENTER:&font(b,11pt){　サークル　}|>|CENTER:　エモくてオルタナでカッコいい　|
+
+**CD紹介
+>&bold(){あの日の失敗と失態を、悲しみになり損ねたような言葉を}
+-収録曲は全て書き下ろしのエモコンピCD。全10曲収録。
+-アートワークを [[Yuma Saito]]氏 が、マスタリングを [[友達募集P]] が手掛ける。
+-THE VOC@LOiD 超 M@STER 31（超ボーマス4）にてリリース。
+-とらのあなで委託販売が行われている。
+
+**曲目
+|BGCOLOR(#2b5555):COLOR(#efefef):CENTER:&font(b,11pt){　Track　}|BGCOLOR(#2b5555):COLOR(#efefef):CENTER:&font(b,11pt){　曲名　}|BGCOLOR(#2b5555):COLOR(#efefef):CENTER:&font(b,11pt){　楽曲制作者　}|
+|BGCOLOR(#2b5555):COLOR(#efefef):CENTER:&font(b,11pt){ 01 }|CENTER:[[無色の朝]]|CENTER:なぎさ|
+|BGCOLOR(#2b5555):COLOR(#efefef):CENTER:&font(b,11pt){ 02 }|CENTER:僕を悪魔と呼ばないで|CENTER:こんにちは谷田さん|
+|BGCOLOR(#2b5555):COLOR(#efefef):CENTER:&font(b,11pt){ 03 }|CENTER:[[Retrieve]]|CENTER:やまじ|
+|BGCOLOR(#2b5555):COLOR(#efefef):CENTER:&font(b,11pt){ 04 }|CENTER:[[ヘウリスコーの愛し方]]|CENTER:メル|
+|BGCOLOR(#2b5555):COLOR(#efefef):CENTER:&font(b,11pt){ 05 }|CENTER:レンドルは言ったんだ|CENTER:moff|
+|BGCOLOR(#2b5555):COLOR(#efefef):CENTER:&font(b,11pt){ 06 }|CENTER:青の諦観|CENTER:田中じゅんじろー|
+|BGCOLOR(#2b5555):COLOR(#efefef):CENTER:&font(b,11pt){ 07 }|CENTER:[[口には必要悪の味が残る]]|CENTER:翁|
+|BGCOLOR(#2b5555):COLOR(#efefef):CENTER:&font(b,11pt){ 08 }|CENTER:[[SILLY GALLERY]]|CENTER:おかゆ|
+|BGCOLOR(#2b5555):COLOR(#efefef):CENTER:&font(b,11pt){ 09 }|CENTER:排気塔の国|CENTER:カラスヤサボウ|
+|BGCOLOR(#2b5555):COLOR(#efefef):CENTER:&font(b,11pt){ 10 }|CENTER:[[ゴーストタウンRPG]]|CENTER:Eight|
+
+**リンク
+-[[特設サイト>>http://ubel-eac.tumblr.com/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/31/37/040030313796.html]]
+
+**コメント
+- 何これ？  -- 良太  (2015-04-20 22:47:49)
+- 通販ないんだろうなぁ  -- 名無しさん  (2015-04-26 21:58:12)
+- これ本当に最高だった  -- 名無しさん  (2015-07-06 22:58:15)
+- 完成度はハンハない。全曲鉄板。特に#05#09#10  -- takoruka2  (2015-09-25 00:47:51)
+- ボカロで一番好きなアルバム  -- たけ  (2015-11-19 15:34:26)
+- 何でこんなかっけえんだよ…  -- 名無しさん  (2016-03-28 09:52:25)
+- 買いました！ 最高でした！！  -- 名無しさん  (2016-05-04 13:06:44)
+#comment()

@@ -1,0 +1,70 @@
+//#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#right(){&furigana(ALL MY BEST)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&ref(http://img.toranoana.jp/img/04/0030/26/28/040030262819-1.gif)
+|&nicovideo(http://www.nicovideo.jp/watch/sm25160202)|&youtube(http://www.youtube.com/watch?v=WgqykWqxnh0)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm25160344)|&youtube(http://www.youtube.com/watch?v=R7iOHXzDJb8)|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[アニバーサリー]]|CENTER:&bold(){ALL MY BEST}|CENTER:[[青春フラグメント]]|
+
+|&bold(){[[キッドP]]}|[[クリスタルP]]|[[残鏡P]]|[[れれれP]]|[[おればななP]]|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2014年12月30日||
+|価格|CENTER:￥1,500|CENTER:￥2,000（税込）|
+|サークル|>|CENTER:NnDS☆|
+
+**CD紹介
+CD名：『&u(){ALL MY BEST}』
+-キッドPの初のベストアルバム。
+-2008年から2014年の7年間に作られた曲に新曲を加えた、計30曲をディスク２枚に収録。
+-ジャケットイラストは[[碧茶]]氏が手掛ける。イラストは1stアルバム『[[fate of･･･]]』のイラストのリメイク。
+-コミックマーケット87(C87)にて頒布開始。
+-とらのあなにて委託販売が行われている。
+
+**曲目
+***DISC 1
++[[運命の扉]]
++[[Beginning of the world]]
++[[あたりまえに言えたこと]]
++[[餞]]
++[[エンジェル・ハート]]
++[[雨音と偽りのワルツ]]
++[[“Panda” virus]]
++[[やきいものうた]]
++[[灰雪]]
++[[ツキノウタ]]
++[[かげろう]]
++[[Filtering]]
++ナツノセミ
++優等生シンドローム（新曲）
++陽だまりの場所（新曲）
+
+**DISC 2
++[[オオカミ少年の最後の嘘]]
++[[ぷらうどきゃっと]]
++[[バナナ☆キッス]]
++[[ストロベリー♡プリンセス]]
++[[サボテンのきもち]]
++慟哭のラビリズム
++[[カスル・エル・サファ]]
++Apple Ripple Triplet
++言葉の宝石箱
++[[男の娘さーきゅれーしょん]]
++僕は君のアイドルッ☆
++[[残月]]
++[[ライフ・ノルマ]]
++[[くるくるふわふわ]]（新曲）
++[[青春フラグメント]]（新曲）
+
+**リンク
+-[[作者ブログ>>http://yaplog.jp/kidsworks/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/26/28/040030262819.html]]
+
+**コメント
+- erase or zeroは？ってかほしい！！！！！  -- 名無しさん  (2014-12-27 00:25:15)
+#comment()

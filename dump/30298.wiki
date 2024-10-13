@@ -1,0 +1,19 @@
+#right(){&furigana()&furigana()【登録タグ:&tags()】}
+|&nicovideo(sm24434826)|&youtube(http://www.youtube.com/watch?v=lVLgUlQ0Ap8){320,186}|
+作詞：[[daniwell]]
+作曲：[[daniwell]]
+編曲：[[daniwell]]
+唄：初音ミク
+
+**曲紹介
+-=ﾟｰﾟ) いつもと違う感じです。ゲーム用です。(作者コメより転載)
+-Flashゲーム「ばくだんミクさん！」用の曲。ゲームについては[[こちら>>http://ch.nicovideo.jp/daniwell/blomaga/ar621767]]を参照。
+-PVについて[[MMDとFLASHを組み合わせて制作>>http://ch.nicovideo.jp/daniwell/blomaga/ar686010]]されたもので、更に[[MMEは自作しており>>http://ch.nicovideo.jp/daniwell/blomaga/ar685353]]、2014年12月より配布がされている。&s(){流石12月の精}
+
+**歌詞
+（[[ブロマガ>>http://ch.nicovideo.jp/daniwell/blomaga/ar619748]]より解説転載）
+>V3ミクさんの英語ライブラリを使ってますが、特に意味があるわけではなくて、&br()ランダムにチョイスした英単語を並べて何パターンか当て嵌めてみて、&br()いい感じに聞こえたものを採用、という至極適当な感じです。
+//インスト曲なので、歌詞はありません。
+
+**コメント
+#comment()

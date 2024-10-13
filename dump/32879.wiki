@@ -1,0 +1,31 @@
+#right(){&furigana(がれーじかくめい　ないと＆ないと)&furigana()【登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186134504.jpg,x=300,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm22256735)
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[恋愛小説>恋愛小説/CD]]|CENTER:&bold(){ガレージ革命/ナイト＆ナイト}|CENTER:[[18回目の春]]|
+
+|&bold(){[[ふえると]]}|
+
+発売：2013年11月17日
+価格：￥500
+流通：即売
+サークル：SKYCOLOR Project
+
+**CD紹介
+-ふえると氏の2ndシングルCD。
+-ジャケットイラスト：こしあんこ、るる、Engineer/Mastering：[[そらP]]、でまぞー、ジャケットデザイン：塩はにわ
+-THE VOC@LOiD M@STER 27（ボーマス27）で頒布。
+
+**曲目
++ガレージ革命
++[[ナイト＆ナイト]]
++クロッカスと雨
++夕暮れstep
+
+**リンク
+-[[サークルサイト>>http://scproj.com/]]
+
+**コメント
+#comment()

@@ -1,0 +1,42 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#ref(http://static.tumblr.com/622748a88108afddbdef7554766ab3dd/kymyyho/9BVo36om9/tumblr_static_egtfgjek9w8cg000scokckckw.png,width=300,height=300)
+
+
+&nicovideo(http://www.nicovideo.jp/watch/sm28269695)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[LAID BACK>LAID BACK/CD]]|CENTER:&bold(){brown sound}|CENTER:-|
+
+|&bold(){[[空海月]]}|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|CENTER:2016年3月6日|CENTER:2016年3月9日|
+|価格|CENTER:￥1,000（税込）|CENTER:￥1,400（税別）|
+|サークル|>|CENTER:jellyfish sounds|
+
+**CD紹介
+-空海月氏 の5thアルバム。
+-4thアルバム後にリリースされた既存曲を纏めた全11曲を収録。
+-ジャケットイラストなどのアートワークは しのはら氏 が手掛ける。楽曲中のスクラッチは DJ小原氏 が担当。
+-VOCALOID PARADISE 関西5（ボーパラ関西5）にて頒布。
+-とらのあなで委託販売が行われている。
+
+**曲目
++[[春雨>春雨/空海月]]
++[[Fruits Party!!]]
++[[summer days>summer days/空海月]]
++[[seaside music]]
++[[繋がらない電話]]
++[[red sky]]
++[[Digital Sensation]]
++[[slow emotion]]
++[[white traveler]]
++[[Happy Birthday]]
++[[Love is not forever]]
+
+**リンク
+-[[特設ページ>>http://solakurage5.tumblr.com/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/39/57/040030395762.html?newtweet=01]]
+
+**コメント
+#comment()

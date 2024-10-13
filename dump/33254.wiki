@@ -1,0 +1,48 @@
+#right(){&furigana(いちはちきっふ)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+
+|&nicovideo(sm27480257)|&youtube(http://www.youtube.com/watch?v=jktXkhgwJUA){342,187}|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[ネクストレイン]]|CENTER:&bold(){一八切符}|CENTER:[[雨秒心>雨秒心/CD]]|
+
+|&bold(){[[アオトケイ]]}|
+
+発売：2015年11月14日
+価格：￥1,000
+流通：即売
+サークル：青時計屋
+
+**CD紹介
+>&bold(){僕が知らない世界の終着駅へ──。}
+-アオトケイ氏 の2ndアルバム。
+-代表作「夏崩レ片想ヒ」をはじめとした『青』の楽曲を全て収録。
+-アートワークを ちやん氏 が、デザインを tissue氏 が手掛ける。
+-THE VOC@LOiD M@STER 33（ボーマス33）で頒布。
+
+**曲目
++Wicket
++[[ネクストレイン]]（feat.MEIKO）
++[[アンサーレスと停止線]]（feat.初音ミク）
++[[一人檄歌]]（feat.IA）
++Plathome
++[[夏崩レ片想ヒ]]（feat.初音ミク）
++一八切符（feat.初音ミク）
++[[ステラレイニー]]（feat.初音ミク）
++[[僕が最期に創るプラネタリウム]]（feat.初音ミク）
++[[ナツメグリ]]（feat.初音ミク）
++[[空白季説]]（feat.初音ミク）
++[[ジャノメエリカの鼓独]]（feat.初音ミク＆MEIKO）
++[[グレイア]]（feat.初音ミク）
++[[また、君との夏が最後になるならば]]（feat.初音ミク）
++Terminal
+
+**リンク
+-[[twitter>>http://twitter.com/aoto_kei]]
+-[[ブロマガ>>http://ch.nicovideo.jp/fujiringo]]
+
+**コメント
+#comment()

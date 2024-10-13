@@ -1,0 +1,32 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://ext.nicovideo.jp/thumb_mylist/36160870" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/36160870">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-読み方は「とてもやわらか」
+-4つ打ち、歌謡曲をよくつくるボカロP
+-所持ボカロはGUMIのみ。
+-常に高いマイリス率を誇る実力派。代表作「[[Stay with me!]]」は2万再生1000マイリスを超える。
+
+**リンク
+-[[piapro>>http://piapro.jp/ttmywrk]]
+-[[Twitter>>https://twitter.com/ttmywrk]]
+-[[ブログ>>http://ttmywrk.jugem.jp]]
+
+**曲
+#list_by_tag(ttmywrk,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(ttmywrkCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/nm17709363)|&nicovideo(http://www.nicovideo.jp/watch/sm19132262)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm20201550)|&nicovideo(http://www.nicovideo.jp/watch/sm20246740)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm21054432)|&nicovideo(http://www.nicovideo.jp/watch/sm21527199)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm21678445)|&nicovideo(http://www.nicovideo.jp/watch/sm22644986)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm23019287)|&nicovideo(http://www.nicovideo.jp/watch/sm23617298)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm24573488)|&nicovideo(http://www.nicovideo.jp/watch/sm24805489)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm26236372)|&nicovideo(http://www.nicovideo.jp/watch/sm26787861)|
+
+
+**コメント
+#comment()

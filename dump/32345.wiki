@@ -1,0 +1,38 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#amazon(B00H3HMT34)
+&nicovideo(http://www.nicovideo.jp/watch/sm22235362)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[8th]]|CENTER:&b(){Re:fiction}|CENTER:-|
+
+|&b(){[[kous]]}|[[hie]]|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2013年11月17日||
+|価格|CENTER:￥1,000|CENTER:￥1,620|
+|サークル|CENTER:ノルウェーサーモン|CENTER:+音|
+
+**CD紹介
+-kous氏のセルフアレンジCD。
+-THE VOC@LOiD M@STER 27（ボーマス27）で頒布。
+-Amazonで委託販売が行われている。
+
+**曲目
++Re:ruri / ルリイロ
++Re:hako / [[箱庭の悪魔憑き]]
++Re:moon / [[月屑]]
++Re:from / その先へ
++Re:fiction / [[絵虚言事。]]
++Re:cook / [[明日の料理]]
++Re:3.14 / [[円の幾何学]]
++Re:yami / [[ヤミ病み]]
+
+**リンク
+-[[特設ページ>>http://refition.tumblr.com/]]
+-[[kous+音（作者ホームページ）>>http://kous1128.mods.jp/hp/]]
+-[[作者ブログ>>http://kous1128.blog22.fc2.com/]]
+-[[Amazon>>http://www.amazon.co.jp/dp/B00H3HMT34/]]
+
+**コメント
+- どこかに売ってれば良いけど見つからない・・・・個人的に月屑が気になる。。。。。。  -- 名無しさん  (2015-10-08 21:21:32)
+#comment()

@@ -1,0 +1,44 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#amazon(B00OKQIS4U)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[あの子な幸せが>あの子な幸せが/CD]]|CENTER:&bold(){おわりのはじまり}|CENTER:[[みんなのびょうき]]|
+
+|&bold(){[[ばぶちゃん]]}|uota|こもりうた|四月|りんこ|
+
+|流通|CENTER:即売|CENTER:委託|CENTER:配信|
+|発売|CENTER:2014年11月15日|CENTER:2014年11月19日|CENTER:2016年4月6日|
+|価格|CENTER:￥1,000|CENTER:￥1,500（税込）|CENTER:￥1,500|
+|サークル|>|CENTER:ばぶちゃんち||
+
+**CD紹介
+>くそみたいなせかいのへいわをねがってつくった　かわいいおんがくでちゅ
+-ばぶちゃん初のCDアルバム。
+-THE VOC@LOiD M@STER 30（ボーマス30）で先行頒布。
+-Amazonとアニメイトで委託販売が行われている。
+-2016年にはKARENTレーベルよりダウンロード販売が開始された。
+
+**曲目
++おわりのはじまり
++[[造花の雫]]
++1260-1290
++朝に嗤う黒百合
++[[あの子な幸せが]]
++Sin
++[[螺鈿の骨]]
++R.I.P.
++不幸があの子な
++[[夜を撫でる都草]]
++[[1335-2300]]
++[[義眼の涙]]
++[[せかいのおわりのさいしょのうた]]
+
+**リンク
+-[[作者サイト>>http://www.babuchandechu.com/]]
+-[[Amazon>>http://www.amazon.co.jp/dp/B00OKQIS4U]]
+-[[アニメイト>>http://www.animate-onlineshop.jp/pn/pd/1296411/]]
+-[[KARENT「おわりのはじまり」>>http://karent.jp/album/1883]]
+-[[iTunes Store>>http://itunes.apple.com/jp/album/the-beginning-the-end/id1095970545]]
+
+**コメント
+#comment()

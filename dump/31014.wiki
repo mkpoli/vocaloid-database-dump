@@ -1,0 +1,82 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+|&nicovideo(http://www.nicovideo.jp/watch/sm32194711)|&youtube(http://www.youtube.com/watch?v=pQFJPIdMkHk)|
+作詞：[[AETA(イータ)]]
+作曲：[[AETA(イータ)]]
+編曲：[[AETA(イータ)]]
+唄：鏡音リン
+
+**曲紹介
+>君の存在が　僕にとっての奇跡なんだ
+>僕にとって　たった一つ　信じてた奇跡
+-Illustration：こきり
+-KARENTレーベルよりダウンロード販売が行われている。[[鏡音リン・レン7周年記念企画>>http://karent.jp/special/rinlen14]]で配信された作品の1つ。
+
+**音楽配信
+&ref(http://karent.jp/npdca/1655_20141128005812_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[冒険ベッド]]|CENTER:&bold(){SOPHIA}|CENTER:[[Take Over the World]]|
+
+発売：2014年12月17日
+価格：￥150
+流通：配信
+レーベル：[[KARENT>>http://karent.jp/album/1655]]
+ジャケットイラスト：[[こきり>>http://piapro.jp/kokirinrin]]
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/sophia-single/id948659470]]}|
+
+***曲目
++SOPHIA （feat. 鏡音リン）
+
+**歌詞
+（[[piapro>>http://piapro.jp/t/tkj3]]より転載）
+
+暗闇　飲み込んでく
+街は　巨大なスクリーン
+映し出されるのは　僕らの欲望
+
+笑顔で　這いずり
+気付いたら　落伍者
+転がる空き缶　蹴飛ばす
+
+思考回路は　モラトリアム　だけど
+夢見るだけじゃ　叶わない
+答えは　そう　僕の目の前に・・・
+
+SOPHIA　降り注ぐ　光宿した　君の目に
+溢れる　涙の理由　そっと教えて
+
+SOPHIA　凍えた　心溶かしてく　君の温もり
+僕にとって　たった一つ　信じたい奇跡
+
+
+指の隙間　覗けば
+隠された　秘め事
+抑えきれないのは　醜い衝動
+
+誰彼　構わず
+咀嚼して　吐き出す
+虚ろな時間　過ぎてく
+
+行動原理は　アイロニカルだけど
+拗ねてるだけじゃ　届かない
+答えは　そう　僕の手の中に・・・
+
+SOPHIA　降りしきる　雨音耳澄ます　君の目に
+溢れる　涙の理由　そっと教えて
+
+SOPHIA　遮る　言葉受け止める　君の温もり
+僕にとって　たった一つ　信じたい奇跡
+
+
+降り注ぐ　光宿した　君の目に
+溢れる　涙の理由　そっと教えて
+
+SOPHIA　壊れた　心癒してく　君の温もり
+見失って　気付いたよ
+今はきっと　誰かを照らしてる
+僕にとって　たった一つ　信じてた奇跡
+
+
+**コメント
+#comment()

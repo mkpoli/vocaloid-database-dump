@@ -1,0 +1,78 @@
+#right(){&furigana(うるてぃめいと)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo(sm26249606)
+作詞：[[-K-]]
+作曲：[[-K-]]
+編曲：[[-K-]]
+イラスト・動画：[[MW]]
+ギター：[[［TEST］]]
+ベース：[[Kei Nakamura]]（[[X(Twitter)>>https://twitter.com/kei4361]]）
+エンジニアリング関係：[[k-motoki]]
+唄：[[IA]]
+
+**曲紹介
+>&bold(){目覚めたヒロイズム}
+曲名：『&u(){-ウルティメイト-}』
+- -K-氏 の13作目。
+-本作が、自身初のIAオリジナル曲となる。
+//-PVを [[MW]]氏 が、エンジニアリング関係を k-motoki氏 が手掛ける。ギターを [[［TEST］]]氏 が、ベースを Kei Nakamura（[[Twitter>>https://twitter.com/kei4361]]）氏 が演奏。
+
+**歌詞
+目覚めたヒロイズム　もう止められない
+I'll hear my song... you can never steal my song
+Break the real & fate!
+
+繰り返す溜め息と　蒼褪（あおざ）めた Rusty eyes
+何かを求めても　何も掴めずに
+募る Damage と　迷い込んだ Blind game
+大切な色の褪せるまで
+
+途切れた「想い」と　失くした Emotion
+全ての痛みに　意味があるなら
+信じてきた夢（ミライ）を　決して失くしたくはない
+耀（かがや）きを…
+
+目覚めたヒロイズム　もう止められないよ
+昨日までの自分 壊して進むから
+完全な Story の　扉たたく時
+I'll hear my song... you can never steal my song
+Break the real & fate!
+
+Awake, Tears, Loneliness
+Disillusion, Longing, Pride
+Evolution, Glorious
+叶えるため
+
+止め処ない「哀」も　霞んだ「願い」も
+全ての涙を　救えるなら
+譲れない夢（イメージ）を　この手で離さない
+もう2度と
+
+目覚めたヒロイズム　もう邪魔できないよ
+拭い去った運命のように　蹴散らすから
+完璧な Melody の　重なり合う時　
+I'll feel my soul... you can never steal my soul
+Break the fear & pain!
+
+未完成な「痛み」と　突き刺す「涙」が
+こんな自分の全てじゃないと　知ったから
+
+目覚めたヒロイズム　もう止められないよ
+昨日までの自分　壊して進むから
+完全な Story の　扉ひらく時
+I'll sing my song... you can never steal my song
+Remake my real & days!
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+**コメント
+#comment()
+
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)

@@ -1,0 +1,35 @@
+#right(){&furigana(はしめての)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo(sm7029202)
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){はじめての}&br()[[モノクロセカイの積み木遊び。]]|CENTER:[[白い黒]]&br()[[01>01/CD]]|
+
+|&bold(){[[kous]]}|hie|
+
+発売：2009年5月17日
+価格：￥500
+流通：即売
+サークル：monaca:factory
+
+**CD紹介
+CD名：『&u(){はじめての}』
+-kous氏のはじめてのミニアルバム。
+-ルカオンリーだが、「Erazer」にはミクがいる。
+-デザインを山田エヌ氏が担当。
+-THE VOC@LOiD M@STER 8（ボーマス8）で頒布。
+
+**曲目
++[[Erazer>Eraser/kous]]
++[[かくれんぼ>かくれんぼ/kous]]（アレンジ＆ルカ版）
++[[はなれバなれ>はなればなれ]]
++[[君の隣で>君の隣で/kous]]
++[[タメイキ]]（ルカ新曲）
+
+**リンク
+-[[twitter>>https://twitter.com/kous1128]]
+
+**コメント
+#comment()

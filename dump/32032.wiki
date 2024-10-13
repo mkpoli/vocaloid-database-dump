@@ -1,0 +1,48 @@
+#right(){&furigana(Signal)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm24657980)|&YouTube(http://www.youtube.com/watch?v=_eFtpKu8t_s){342,187}|
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[グローリーフェノメノン>グローリーフェノメノン/CD]]|CENTER:&bold(){Signal}|CENTER:[[Under the sky>Under the sky/アオトケイ]]&br()[[縹色クロニクル]]|
+
+|&bold(){[[アオトケイ]]}|[[cillia]]|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2014年10月19日||
+|価格|CENTER:￥1,000|CENTER:￥1,000（税別）|
+|サークル|>|CENTER:141hour Record|
+
+**CD紹介
+>耳を澄ませて、君のシグナル──。
+-Fuji（141hP）氏の1stフルアルバム。
+-今までの自分、これからの自分を１枚のCDにしました。
+-Music:Fuji(141hP)、Bass:はるちん[track11,13,15]、Bass:busy...[track06]、Manipulator:cillia[track11]、Artwork:うらたあさお、Design:tissue、Mastering:ちと
+-VOCALOID PARADISE 9（ボーパラ9）で初頒布。
+-とらのあなで委託販売が行われている。
+
+**曲目
++Rising sun (inst)
++[[サイウングライダー]]
++[[Under the sky>Under the sky/アオトケイ]]
++[[グローリーフェノメノン]]
++[[アイカタ]]
++僕と私の一つだけの物語
++[[苺恋隠れん坊]]
++[[白と黒の現実世界]]
++[[サマーモノグラムⅡ]]
++[[セツナサクロウド]]
++[[もし、君との夏が最後ならば]]
++Signal
++[[縹色クロニクル]] feat.くろせ
++Next time (inst)
++もし、君との夏が最後ならば feat.くろせ
+
+**リンク
+-[[twitter>>http://twitter.com/aoto_kei]]
+-[[ブロマガ>>http://ch.nicovideo.jp/fujiringo]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/25/45/040030254558.html]]
+
+**コメント
+#comment()

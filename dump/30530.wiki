@@ -1,0 +1,39 @@
+#right(){&furigana(てがみ)&furigana()【登録タグ:&tags() 】}
+#amazon(B00O7MYZSU)
+
+&youtube(http://www.youtube.com/watch?v=RNYxdCM9PeQ){336,189}
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[手紙>手紙/まさP]]|CENTER:&bold(){手紙 - The Letter -}|CENTER:[[旅立ちの君へ]]|
+
+|&bold(){[[まさP]]}|
+
+発売：2014年11月19日
+価格：￥2,000（税込）
+流通：全国
+レーベル：KARENT
+
+**CD紹介
+-"まさP"こと、彩木雅夫 feat. 初音ミク 待望のアルバム。
+-重厚なギターサウンドに乗せて初音ミクが歌い上げる『手紙』や、動画サイトで殿堂入りとなった『花はかざれない』など、話題作を多数収録。
+-ボーナストラックとして、昭和40年代に自身が作曲リリースした楽曲をMEIKOでカバーした『モーニング・ブルース feat. MEIKO』を収録。
+
+**曲目
++[[手紙>手紙/まさP]]
++[[花はかざれない]]
++恋は奇跡
++[[恋は1970]]
++[[夜更けのララバイ]]
++ミクのドドンパ
++[[愛のテーマ]]
++[[哀しみのコルドバ]]
++[[花のない部屋]]
++[[オホーツク旅情歌]]
++モーニング・ブルース feat. MEIKO
+
+**リンク
+-[[amazon>>http://www.amazon.co.jp/dp/B00O7MYZSU]]
+-[[特設ページ>>http://karent.jp/special/tegami14]]
+
+**コメント
+#comment()

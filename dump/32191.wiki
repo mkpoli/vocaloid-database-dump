@@ -1,0 +1,41 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+|&nicovideo(http://www.nicovideo.jp/watch/sm26421273)|&youtube(http://www.youtube.com/watch?v=wWccKqNAV-I)|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[忘愁のエトランゼ>忘愁のエトランゼ/CD]]|CENTER:&bold(){Six Roses}|CENTER:[[Spiral Chronicle]]|
+
+|&bold(){[[Ebot]]}|Unin|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2015年6月14日|CENTER:2015年7月14日|
+|価格|CENTER:￥2,000|CENTER:￥2,800（税別）|
+|サークル|CENTER:ウタカタ社中|CENTER:Ebot|
+
+**CD紹介
+-Ebot氏のCD作品。
+-薔薇の品種名をモチーフにした楽曲で綴る6つの物語。
+-6曲+オフボーカルトラックの全12曲。
+-ジャケットイラストはUnin氏。
+-VOCALOID PARADISE 番外編4 KAITO PARADISE3（ボーパラ番外編4カイパラ3）で頒布。
+-アリスブックスで委託販売が行われている。
+
+**曲目
++[[Triumph]]
++Gabriel
++Teddybear
++Abygail
++Zen-禅-
++Pristine
++Triumph (off vocal)
++Gabriel (off vocal)
++Teddybear (off vocal)
++Abygail (off vocal)
++Zen-禅- (off vocal)
++Pristine (off vocal)
+
+**リンク
+-[[サークルサイト>>http://utakatasyachu.blog.fc2.com/]]
+-[[アリスブックス>>http://alice-books.com/item/show/4254-1]]
+
+**コメント
+#comment()

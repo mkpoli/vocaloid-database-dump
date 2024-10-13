@@ -1,0 +1,36 @@
+#right(){&furigana(おとがたり)&furigana()【登録タグ:&tags() 】}
+
+&ref(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTYTiZWJDYbwQ_4CzMaVF9R4Iuh-bOVIT8nKLa2NVycD81gZG1P&usqp=CAU,x=300,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm23305555)
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){オトガタリ}|CENTER:-|
+
+|&bold(){[[アナクロP]]}|[[ぴすたP]]|[[まきゃヴぇり]]|[[マイマイ（岐阜の方P）]]|[[吟]]|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|CENTER:2014年4月26日||
+|価格|CENTER:￥1,000|CENTER:￥1,000（税込）|
+|サークル|>|CENTER:Crosswhen|
+
+**CD紹介
+-5人のボカロPが好きな小説を題材に勝手に曲を作る「物語コンピ」。
+-Mastering：吟(clavinord)、Illustration：推奨幻想
+-THE VOC@LOiD 超 M@STER 28（超ボーマス28）で頒布。
+-BASEで委託販売が行われている。
+
+**曲目
++[[モシモクロニクル]] / ぴすた　from 村上春樹「世界の終わりとハードボイルドワンダーランド」
++[[千夜の鍵と優等生少女]] / まきゃヴぇり　from 荻原規子「これは王国のかぎ」
++ビターストライク / Orukana　from アレックス・シアラー「チョコレート・アンダーグラウンド」
++グッドエンドへの手引き / マイマイ　from ハセガワケイスケ「しにがみのバラッド。」
++[[神様のいない月曜日]] / Orukana　from ロン・カリーJr.「神は死んだ」
++5 YEARS AFTER / 吟(clavinord)　from 宮沢賢治「銀河鉄道の夜」
+
+**リンク
+-[[作品ページ>>http://orukana.wix.com/crosswhen#!oto-gatari/cv2b]]
+-[[サークルサイト>>http://orukana.wix.com/crosswhen]]
+-[[BASE>>http://crosswhen.thebase.in/items/641657]]
+
+**コメント
+#comment()

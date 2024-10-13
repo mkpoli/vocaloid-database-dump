@@ -1,0 +1,22 @@
+#right(){&furigana(にゃんしす)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://ext.nicovideo.jp/thumb_mylist/50248151" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/50248151">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-3DSソフト「大合奏！バンドブラザーズP」発ボカロP。
+-同ソフトで行われた「GUMIメジャーデビューコンテスト」にて優勝、CD「[[EXIT TUNES PRESENTS THE BEST OF GUMI from Megpoid]]」収録「キドアイラク」(アレンジは[[Nem]]氏)にてメジャーデビュー。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/bpnyansis]]
+-[[Twitter>>http://twitter.com/bp_Nyansis]]
+
+**曲
+#list_by_tag(ニャンシス,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(ニャンシスCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm26451418)|
+
+**コメント
+#comment()

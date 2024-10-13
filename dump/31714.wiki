@@ -1,0 +1,47 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#image(http://kgig.blue/banner2.png,http://kgig.blue/,title=K★GIG -KAITO GIG 2015 Paradise Stage-,blank)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){K★GIG -KAITO GIG 2015 Paradise Stage-}|CENTER:-|
+
+|[[鉄分P]]|[[(ω・ミэ )Э]]|[[銀鱗P]]|[[いわしP]]|[[halP]]|[[Ebot]]|Unin|
+|[[イントロP]]|[[うらら（マカーP）]]|SAYAKA|[[仕事してP]]|[[ベース缶P]]|[[新城P]]|[[篁惺]]|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|CENTER:2015年3月8日||
+|価格|CENTER:￥1,500|CENTER:￥2,222（税別）|
+|サークル|>|CENTER:ねりかな|
+
+**CD紹介
+-「KAITOにステージ上で歌わせたい曲」をコンセプトとした、ライブ・コンピレーションアルバム。
+-CDとイラスト集のセット。先着順で更にノベルティグッズが付属する。
+-主催：ゆずき、マスタリング：djseiru mylist、DTP：宝条、ロゴデザイン：shiro、WEB：maruya91
+-イラスト参加者：（表紙）しろつぐ、（表紙）みきぱ、（表紙）由杞、うむ、栖賀まゆ、しなお、田中琳、めり、ゆずっきー
+-ボーナストラック参加者：（調整）赤色７号、（調整）うずまきP、（調整）[[パプリカP]]、（調整）眩暈P、（調整）ゆずき、（調整）柳奈、（MIX）ナウロマP、（トークロイド）[[伝票P]]
+-VOCALOID PARADISE 関西4（ボーパラ関西4）で初頒布。
+-とらのあなで委託販売が行われている。
+
+**曲目
++トークロイド
++FLYFLY / 鉄分P
++僕を好きなきみをきみは好きになる / (ω・ミэ )Э
++[[星ツナギ]] / 銀鱗P
++LED / いわし
++原動ブースター / halP
++Abigail / Ebot（作詞：UnBalaNcE（Ebot&Unin））
++星と命のめぐり歌 / イントロP
++Wing of Wind / うらら（作詞：SAYAKA）
++[[イエローベイビー]] / hinayukki
++いつかの終着駅 / ベース缶
++Never Forget ～K～ / 新城P
++[[Bug≒Luv]] / 3106。
++トークロイド
++アンコール
+
+**リンク
+-[[告知サイト>>http://kgig.blue/]]
+-[[主催者twitter>>http://twitter.com/yuzsid609]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/28/52/040030285230.html]]
+
+**コメント
+#comment()

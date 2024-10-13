@@ -1,0 +1,54 @@
+#right(){&furigana(PLANETARYPLATE)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+//#amazon(B013Y4IP4Q)
+&ref(https://www.suruga-ya.jp/database/pics_light/game/186133425.jpg,x=300,y=300)
+|&nicovideo(sm26931215)|>|
+|&nicovideo(sm38182827)|&youtube(https://www.youtube.com/watch?v=US0dUZ640gA){342,187}|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[アフタヌーン・グラビティー]]|CENTER:&bold(){PLANETARY PLATE}|CENTER:[[MOON>MOON/10日PCD]]|
+
+|&bold(){[[10日P]]}|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2015年8月16日||
+|価格|CENTER:￥1,500|CENTER:￥1,700（税別）|
+|サークル|>|CENTER:monaca:factory|
+
+**CD紹介
+CD名：『&u(){PLANETARY PLATE}』
+-10日Pことmonaca:factoryのCDアルバム。
+-これまでの各種コンピCDに書き下ろした曲や、代表曲からマニアックな曲まですべて音を直して15曲詰め込みました！
+-イラスト：おさかなゼリー、デザイン：いとうとい
+-コミックマーケット88（C88）で頒布。
+-Amazon、とらのあなで委託販売が行われている。
+-現在は公式で無料公開されている。
+
+**曲目
++プロムナード / IA
++パラレルワールド / 初音ミク
++[[にじいろモンスター]] / Rana
++[[マーメイド>マーメイド/10日P]] / GUMI
++[[ココロカラ]] / 初音ミク
++カプセルモンスター / 初音ミク
++Circular Logic
++Room X / GUMI
++[[ロゼッタ]] / GUMI
++Sinkhole
++Drops / blanc
++空想線路 / GEM
++白亜
++Aquamarine / lasah
++ヴァニラの惑星 / GEM
+
+**リンク
+-[[作者サイト>>https://monacafactory.com/]]
+-[[Amazon>>https://www.amazon.co.jp/dp/B013Y4IP4Q]]
+//-[[とらのあな>>https://www.toranoana.jp/mailorder/article/04/0030/34/07/040030340704.html]]
+
+**コメント
+- 明日じゃん  -- 名無しさん  (2015-08-15 02:04:54)
+#comment()

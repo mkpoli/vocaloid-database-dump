@@ -1,0 +1,42 @@
+#right(){&furigana(かんぜんはんざい)&furigana()【登録タグ:&tags() 】}
+
+&ref(https://base-ec2.akamaized.net/images/item/origin/f52a7bdaa93b530033f7e7a2f3c6f4d4.png,x=300,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm27512096)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Paranormal LEGACY]]|CENTER:&bold(){完全犯罪}|CENTER:-|
+
+|&bold(){[[ナナホシ管弦楽団]]}|
+
+発売：2015年11月14日
+価格：￥1,500
+流通：即売
+サークル：AL-ZAL
+
+**CD紹介
+-ナナホシ管弦楽団の5thアルバム。
+-THE VOC@LOiD M@STER 33（ボーマス33）にてリリース。
+
+**曲目
++[[√AICARIOUS]]
++脱空 (inst)
++[[クリサリス]]
++San-crail Market (inst)
++FLY AWAY
++夜襲戦線午前四時
++ナイショのレイトショー
++Time Trial Tea Time (inst)
++完全犯罪
++AL-ZALIZATION (inst)
++光路
++[[心じゃきっとわかっていた>心じゃきっと分かっていた]]
+
+
+**リンク
+-[[AL-ZAL>>http://anohina-no39.tumblr.com/]]
+-[[Twitter>>http://twitter.com/sosite_iwamikun]]
+-[[Seven Star Akashic Records>>http://nanahoshi.buyshop.jp/]]
+
+**コメント
+#comment()

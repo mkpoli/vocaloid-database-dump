@@ -1,0 +1,29 @@
+#right(){&furigana(18かいめのはる)&furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm23391973)
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[ガレージ革命/ナイト＆ナイト>ガレージ革命／ナイト＆ナイト]]|CENTER:&bold(){18回目の春}|CENTER:[[No Title Summer>No Title Summer/CD]]|
+
+|&bold(){[[ふえると]]}|
+
+発売：2014年4月26日
+価格：無料
+流通：即売
+サークル：SKYCOLOR Project
+
+**CD紹介
+>「当たり前に過ぎ行く時間
+>　　いつまでも続きはしないって
+>　　　　　　　　...気づいてたんだ。」
+-ふえると氏の無料頒布CD。
+-ジャケットイラスト：花芽宮るる、動画：あわしま
+-THE VOC@LOiD 超 M@STER 28（超ボーマス28）で頒布。
+
+**曲目
++18回目の春
++[[ほんとはね]]
+
+**リンク
+-[[サークルサイト>>http://scproj.com/]]
+
+**コメント
+#comment()

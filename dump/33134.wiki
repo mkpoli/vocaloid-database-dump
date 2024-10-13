@@ -1,0 +1,26 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/42174992" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/42174992">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-初のボカロオリジナル曲は「[[百鬼夜行>百鬼夜行/ON]]」。
+-使用ボカロは、鏡音リン・レン、GUMI、結月ゆかり。
+
+**リンク
+-[[ホームページ>>http://switch-on.webnode.jp/]]
+-[[ピアプロ>>http://piapro.jp/switch_on123]]
+-[[Twitter>>http://twitter.com/5witch_0n]]
+
+**曲
+#list_by_tag(ON,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(ONCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm23076870)|&nicovideo(http://www.nicovideo.jp/watch/sm23405830)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm24188702)|&nicovideo(http://www.nicovideo.jp/watch/sm24759692)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm25542579)||
+
+
+**コメント
+#comment()

@@ -1,0 +1,42 @@
+#right(){&furigana(つきのかげ1) &furigana()【登録タグ:&tags() 】}
+#ref(http://www.vocalomakets.com/yukari_CD/009/image/jacket.png,width=300,height=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm28305374)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){月の陰 Ⅰ -ツキノカゲ-}|CENTER:-|
+
+|&bold(){[[Bumpyうるし]]}|sista|[[ちょむP]]|[[azuma]]|[[喜兵衛]]|
+|[[にいとP]]|[[ぱやP]]|楽乃由重|[[かごめP]]|[[cillia]]|
+
+|流通|CENTER:即売|
+|発売|CENTER:2016年2月28日|
+|価格|CENTER:￥1,000（税込）|
+|サークル|CENTER:マケッツ団|
+
+**CD紹介
+-結月ゆかり企画チーム「VOCALOMAKETS」メンバーの「月の詩」「月の調」シリーズから選りすぐった、ベストアルバム第1弾。
+-ジャケットイラストを もやししゃも氏 が、ロゴデザインを 渡辺浩彰氏 が、マスタリングを [[かごめP]] が手掛ける
+-結月ゆかりオンリー「この声届け、月までも 弐 」にてリリース。
+
+**曲目
++[[紲月歌]]　/　Bumpyうるし	
++[[スタートレーサー]]　/　ちょむP
++[[夢魅鳥]]　/　azuma
++[[つよがり>つよがり/喜兵衛]]　/　喜兵衛
++風と歌を紡ぎながら　/　にいとP	
++月ノ籠　/　ちょむP
++「月と猫とバイオリン」より第2楽章　/　ぱやP
++[[caged girl]]　/　Bumpyうるし
++Dazzling choice　/　azuma
++[[プリンセスシンドローム]]　/　かごめP
++言葉の雫　/　ぱやP
++[[恥ずかしいほどのラブソングを君に]]　/　にいとP
++[[ジュズダマ]]　/　喜兵衛
++[[Tiny PaRadisE]]　/　かごめP
+
+**リンク
+-[[特設ページ>>http://www.vocalomakets.com/yukari_CD/009/]]
+
+**コメント
+#comment

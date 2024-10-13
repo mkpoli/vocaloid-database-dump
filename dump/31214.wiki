@@ -1,0 +1,36 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm14612478)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Worthless>Worthless/CD]]|CENTER:&b(){NO MEANS}|CENTER:[[Sugar Brave]]|
+
+|&b(){[[井の頭P]]}|&b(){[[アリエP]]}|&bold(){[[mstk]]}|&bold(){[[蘭]]}|AMANE|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|CENTER:2011年6月12日||
+|価格|CENTER:￥1,000|￥1,543（税込）|
+|サークル|>|CENTER:Sugar Brave|
+
+**CD紹介
+-音楽サークル「&bold(){Sugar Brave}」の2ndアルバム。
+-前作より新メンバー『mstk』『蘭ちゃん』『モゲラッタ』も参加している。
+-THE VOC@LOiD M@STER 16（ボーマス16）で初頒布。
+-通販サイトTHREE!で委託販売が行われている。
+
+**曲目
++introduction
++[[Hiatus]] / mstk
++[[WINE BERRY]] / 蘭
++愁色ブギー / 井の頭P
++ラブ♥パラダイス / アリエP
++[[M7]] / mstk　AMANE
++[[OVER RAIN]] / 蘭
++[[アンブレラ]] / アリエP
++シュガブレどうでしょう
++シャイな王子と嘘吐きプリンセス / 井の頭P
+
+**リンク
+-[[THREE!>>http://lagoa.jp/SHOP/SB_0002.html]]
+
+**コメント
+#comment()

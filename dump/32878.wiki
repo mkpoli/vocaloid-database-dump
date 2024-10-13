@@ -1,0 +1,33 @@
+#right(){&furigana(れいにー)&furigana()【登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186152972.jpg,x=300,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm21260446)
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){レイニー}|CENTER:[[恋愛小説>恋愛小説/CD]]|
+
+|&bold(){[[ふえると]]}|
+
+発売：2013年7月7日
+価格：￥（税込）
+流通：即売
+サークル：SKYCOLOR Project
+
+**CD紹介
+-ふえると氏の1stシングルCD。
+-ジャケットイラスト：こしあんこ、マスタリングその他：[[そらP]]
+-THE VOC@LOiD M@STER 25（ボーマス25）で頒布。
+
+**曲目
++[[レイニー>レイニー/ふえると]] (CDMix)
++[[After the day]]
++極限エゴイズム
++明日。
++Raining (Inst)
+
+**リンク
+-[[サークルサイト>>http://scproj.com/]]
+
+**コメント
+- こんなのがあったんだ  -- 名無しさん  (2015-09-02 19:51:34)
+#comment()

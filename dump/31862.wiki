@@ -1,0 +1,41 @@
+#right(){&furigana(みっくすもだん)&furigana()【登録タグ:&tags() 】}
+
+&ref(https://ecdnimg.toranoana.jp/ec/img/04/0030/30/15/040030301588-1p.jpg,x=300,y=300)
+
+|&nicovideo(http://www.nicovideo.jp/watch/sm26022434)|&YouTube(http://www.youtube.com/watch?v=fqKFDIG3HyA)|
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){ミックスモダン}|CENTER:-|
+
+|&bold(){[[ミックスモダン]]}|なき|[[麺類子]]|[[HAMO]]|つぶ|[[夜宵]]|[[灯下はこ、]]|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|CENTER:2015年4月25日|CENTER:2015年4月|
+|価格|CENTER:￥1,000|CENTER:￥1,448（税別）|
+|サークル|CENTER:なぎゃりもだんぼう|CENTER:ミックスモダン|
+
+**CD紹介
+-ミックスモダン氏の1stアルバム。
+-ミックスとマスタリングを[[つこ]]氏が、ジャケットデザインを[[GYARI>ココアシガレットP]]氏が担当。
+-THE VOC@LOiD 超 M@STER 31（超ボーマス31）で初頒布。
+-とらのあなで委託販売が行われている。
+
+**曲目
++創造シンセサイザー / 初音ミク
++僕の手 / GUMI（作詞：なき・ギター：[[アキバヲタP]]）
++[[オレンジゾートロープ]] / 初音ミク（作詞：[[麺類子]]）
++ブルガリアの農民たち（Instrumental）
++[[Who killed Cock Robin]] / 初音ミク（作詞：[[HAMO]]・ギター：[[つこ]]）
++[[ノウ>ノウ/ミックスモダン]] / 巡音ルカ（V4X）（作詞：つぶ）
++ジャズ・ソナチネ（Instrumental）
++[[レイニーカフェ]] / 初音ミク（作詞：[[夜宵]]）
++[[退廃快速ランダムデイズ]] / 初音ミク（作詞：[[灯下はこ、]]）
++[[ブロークンハッピーエンド]] / GUMI・初音ミク（作詞：灯下はこ、・ギター：[[なきゃむりゃ]]）
++まだ世界を知らない君は / 初音ミク
+
+**リンク
+-[[作者サイト>>http://mix-modern.jimdo.com/]]
+-[[twitter>>http://twitter.com/mix_modern]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/30/15/040030301588.html]]
+
+**コメント
+#comment()

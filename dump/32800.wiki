@@ -1,0 +1,62 @@
+#right(){&furigana(まつかさ)&furigana()【登録タグ:&tags() 】}
+|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/42795950" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/42795950">【ニコニコ動画】</a></iframe>)|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/45227464" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/45227464">【ニコニコ動画】</a></iframe>)|
+
+**特徴
+-ヒップホップを得意とするボカロP。
+-作詞・トラック作成だけでなく、自身での作曲・イラスト・動画も手掛けるマルチな才能の持ち主。
+-エロスとグロテスクが同居した、独自の世界観を持つ。
+-[[MSSサウンドシステム]]氏等、他のボカロPとコラボする事もある。
+-ヒップホップの印象が強いPだが、ポップな曲も手掛ける。
+-2016年には画伯名義でVOCALOIDとデュエットするHIPHOPクルー"震える舌"の活動を開始。
+-2020年にはビートメイカー名義"Salmonella beats"や、VOCALOID非使用の想像上のバンド"画吐&His Imaginary Band"としても作品を発表。
+
+**リンク
+-[[作者HP>>http://matsukasite.web.fc2.com/]](※グロ注意！18才未満はご遠慮ください。)
+-[[YouTube>>https://www.youtube.com/channel/UC4hSdXPhA_3xJnBDHObDIbw]]
+-[[SOUNDCLOUD>>https://soundcloud.com/matsukasa]]
+-[[pixiv>>>http://www.pixiv.net/member.php?id=852020]]
+-[[twitter>>https://twitter.com/matsukasa_?lang=ja]]
+-[[bandcamp>>https://huruerushita.bandcamp.com/]]
+
+**曲
+#list_by_tag(松傘,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(松傘CD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm22460115)|&nicovideo(sm22739166)|
+|&nicovideo(sm22839675)|&nicovideo(sm23234236)|
+|&nicovideo(sm23319465)|&nicovideo(sm23330046)|
+|&nicovideo(sm23365585)|&nicovideo(sm24093265)|
+|&nicovideo(sm24344314)|&nicovideo(sm24376637)|
+|&nicovideo(sm25298703)|&nicovideo(sm25478162)|
+|&nicovideo(sm26399847)|&nicovideo(sm29303706)|
+|&nicovideo(sm29293106)|&nicovideo(sm34127426)|
+|&nicovideo(sm34603799)|&nicovideo(sm39073983)|
+|&nicovideo(sm39187862)||
+
+***コラボ作品
+|&nicovideo(sm23586759)|&nicovideo(sm24216558)|
+|&nicovideo(sm24461217)|&nicovideo(sm24634054)|
+|&nicovideo(sm24838463)|&nicovideo(sm25680284)|
+|&nicovideo(sm27624664)|&nicovideo(sm27814178)|
+|&nicovideo(sm29648214)|&nicovideo(sm30328276)|
+|&nicovideo(sm34771823)|&nicovideo(sm36397674)|
+|&nicovideo(sm39022474)||
+
+***震える舌
+|&nicovideo(sm28119367)|&nicovideo(sm28492610)|
+|&youtube(https://youtu.be/9lGTSCYt8o4){342,187}||&nicovideo(sm31166788)|
+|&youtube(https://youtu.be/naGCcNQDUOU){342,187}|&nicovideo(sm31701836)|
+|&nicovideo(sm32102387)|&nicovideo(sm32870519)|
+
+***Salmonella beats
+|&nicovideo(sm36820704)|&nicovideo(sm36876375)|
+
+**コメント
+- D O P E  -- 名無しさん  (2017-04-12 01:43:26)
+- この人の調教は独特すぎる  -- 名無しさん  (2017-05-08 17:59:00)
+- ハマってしまった    かっこいい  -- 名無し  (2018-09-04 13:26:13)
+- もっと評価されるべきだと思うけどひっそり評価されてほしい気持ちもある  -- 名無し  (2019-04-24 11:12:35)
+#comment()

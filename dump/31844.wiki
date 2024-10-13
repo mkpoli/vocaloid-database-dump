@@ -1,0 +1,36 @@
+#right(){&furigana(ふかぎゃくあんそろじー) &furigana()【登録タグ:&tags() 】}
+
+&ref(http://stat.ameba.jp/user_images/20150405/17/lamitsuop/a0/91/j/o0650064913267295536.jpg,x=300,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm25995455)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[凸凹トリニティ]]|CENTER:&bold(){不可逆アンソロジー}|CENTER:-|
+
+|&bold(){[[0o0]]}|
+
+|流通|CENTER:即売|
+|発売|CENTER:2015年4月26日|
+|価格|CENTER:￥1,000（税込）|
+|サークル|CENTER:ラミツオップ|
+
+**CD紹介
+-0o0（ミツオ）氏 の 2nd album 。
+-『[[サクラサクロスロード]]』などの既存曲に、新曲を加えた全8曲を収録。
+-THE VOC@LOiD 超 M@STER 31（超ボーマス4）の2日目にてリリース。
+
+**曲目
++Enter the 不可逆アンソロジー
++[[Giant Step]]
++[[サクラサクロスロード]]
++[[群青シンドローム]]
++[[Never look back]]
++[[だから、彼女は、夕映えの坂を駆ける]]
++パラレルミラクル
++[[透明になる夜明けまで]]
+
+**リンク
+-[[ラミツオップ（サークルブログ）>>http://ameblo.jp/lamitsuop/]]
+
+**コメント
+#comment

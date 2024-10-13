@@ -1,0 +1,30 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Aletheia>Aletheia/CD]]|CENTER:&bold(){Affectio}|CENTER:-|
+
+|&bold(){[[SeikoP]]}|
+
+|流通|CENTER:即売|CENTER:配信|CENTER:委託|
+|発売|CENTER:2014年4月27日|2014年4月|CENTER:2014年5月|
+|価格|CENTER:￥500|CENTER:￥500|CENTER:￥500（税別）|
+|サークル|>|>|CENTER:Garnet Cathedral|
+
+**紹介
+-SeikoPことムツキセイ氏の5曲入りCD。
+-M3-2014春で初頒布。
+-とらのあなで委託販売が行われていた。
+-bandcamp、note、BOOTH、メロンブックスDLでダウンロード販売が行われている。
+
+**曲目
++刻は廻る
++[[Almas Leyenda]]
++Snow Around
++[[Affectio Deorum]]
++Manawydan
+
+**リンク
+-[[作者ブログ>>http://sei-peri.seesaa.net/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/20/51/040030205138.html]]
+
+**コメント
+#comment()

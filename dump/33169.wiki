@@ -1,0 +1,35 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm25615834)
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[きみの瞳に映る空>きみの瞳に映る空/CD]]|CENTER:&bold(){Epangelia}|CENTER:[[Harmonia>Harmonia/ナナミPCD]]|
+
+|&bold(){[[ナナミP]]}|
+
+|流通|CENTER:即売|CENTER:通販|CENTER:配信|
+|発売|CENTER:2015年3月8日|CENTER:|CENTER:|
+|価格|CENTER:￥500|CENTER:￥500|CENTER:￥400|
+|サークル|>|>|CENTER:蝶々結び|
+
+**CD紹介
+>&bold(){ひとつの"約束"から 物語は始まった}
+-リン＆レンデュオ・民族調＆物語楽曲シリーズ「Lycieratia（リシェラティア）」の第1弾CD。
+-イラストは [[7:24>姉を見事に使いこなす妹P]]氏 が手掛ける。
+-VOCALOID PARADISE 関西4（ボーパラ関西4）にて頒布。
+-BASEとBOOTHにて通販及びダウンロード販売が行われている。
+
+**曲目
++prologue-約束-
++ディデゥ・オ・シャスタ-十五の宴-
++紅夜-終わりと始まりの夜-
++[[Lycieratia]](hidden ver.)
++prologue-約束-(Instrumental)
++ディデゥ・オ・シャスタ-十五の宴-(Instrumental)
++紅夜-終わりと始まりの夜-(Instrumental)
+
+**リンク
+-[[特設サイト>>http://lycieratia.web.fc2.com/]]
+-[[BASE>>http://nanamip.thebase.in/]]
+-[[BOOTH>>https://nanamip.booth.pm/items/80188]]
+
+**コメント
+#comment()

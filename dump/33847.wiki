@@ -1,0 +1,82 @@
+#right(){&furigana(ふたりで)&furigana()【登録タグ:&tags()】}
+&nicovideo(sm25843112)
+作詞：[[まつき]]
+作曲：[[まつき]]
+編曲：[[まつき]]
+唄：初音ミク
+
+**曲紹介
+>&bold(){「ずっと、ふたりで。」}
+-[[まつき]]氏、創作「MIONEPHIA-蒼翠の歌-」の登場人物「エヴァン」と「フィニア」の曲。
+-又、[[MIONEPHIA]]（主題歌）、[[偲び唄]]（フィニア）、[[海護り唄]]（エヴァン）、[[藍のかなしみ]]（フィニア）、ふたりで（エヴァン、フィニア）&br()ストーリは繋がっているため順番に見ることをオススメする。
+
+**歌詞
+（動画より書き起こし）
+
+&color(DodgerBlue){エヴァン}
+&color(HotPink){フィニア}
+&color(DarkOrchid){ふたり}
+
+&color(HotPink){わたしはいつもひとりで}
+&color(HotPink){怯えて泣いてばかり}
+&color(HotPink){暗闇の中で　生きるのが怖かった}
+
+&color(HotPink){だけど光を見つけた}
+&color(HotPink){かけがえのない日々が}
+&color(HotPink){眩しくてまた泣きそう}
+&color(HotPink){あなたのおかげだよ}
+
+&color(HotPink){ふたりで過ごす時間が}&color(DodgerBlue){(ふたりで過ごす時間が)}
+&color(HotPink){ずっと続くように}&color(DarkOrchid){願うよ}
+&color(HotPink){悲しい過去も}&color(DodgerBlue){(悲しい過去も)}　&color(HotPink){胸に抱いて}&color(DodgerBlue){(胸に抱いて)}
+&color(HotPink){わたしは今}　&color(DarkOrchid){生きていく}
+
+&color(DarkOrchid){あなたに出逢えたから}
+&color(DarkOrchid){わたしはもう}　&color(HotPink){ひとりじゃないの}　&color(DodgerBlue){(ひとりじゃないの)}　
+&color(HotPink){あたたかい}&color(DodgerBlue){(あたたかい)}&color(DarkOrchid){温もりと笑顔}　&color(HotPink){教えてくれた}&color(DodgerBlue){(教えてくれた)}
+&color(DarkOrchid){あなたが草花とともに眠っても}
+&color(HotPink){傍に寄り添おう}&color(DodgerBlue){(傍に寄り添おう)}　&color(HotPink){もし叶う}&color(DodgerBlue){もし叶う}&color(DarkOrchid){ならお願い}
+&color(HotPink){どうか}&color(DodgerBlue){(どうか)}　&color(HotPink){繋いだ手を}&color(DarkOrchid){離さないで}
+
+&color(DodgerBlue){僕はいつもひとりで}
+&color(DodgerBlue){大切なもの探して}
+&color(DodgerBlue){荒ぶ風の中で}
+&color(DodgerBlue){淡々と生きていた}
+
+&color(DodgerBlue){だけど光を見つけた}
+&color(DodgerBlue){かけがえのない日々が}
+&color(DodgerBlue){眩しくて愛おしい}
+&color(DodgerBlue){君のおかげだよ}
+
+&color(DodgerBlue){こんな僕にできること}&color(HotPink){(こんな僕にできること)}
+&color(DodgerBlue){大切な君を}&color(DarkOrchid){護りたい}
+&color(DodgerBlue){痛みを分かち}&color(HotPink){(痛みを分かち)}　&color(DodgerBlue){傷を癒せたら}&color(HotPink){(傷を癒せたら)}
+&color(DodgerBlue){心に深く}&color(DarkOrchid){刻んだ}
+
+&color(DarkOrchid){君に出逢えたから}
+&color(DarkOrchid){僕はやっと}　&color(DodgerBlue){強くなれたよ}&color(HotPink){(強くなれたよ)}
+&color(DodgerBlue){限りない}&color(HotPink){(限りない)}&color(DarkOrchid){優しさと愛を}　&color(DodgerBlue){教えてくれた}&color(HotPink){(教えてくれた)}
+&color(DodgerBlue){君が哀しみの海に沈んでも}
+&color(DodgerBlue){傍に寄り添おう}&color(HotPink){(傍に寄り添おう)}　&color(DodgerBlue){もし君が}&color(HotPink){(もし君が)}&color(DarkOrchid){望むのなら}
+&color(DodgerBlue){ずっと}&color(HotPink){(ずっと)}　&color(DodgerBlue){繋いだ手は}&color(DarkOrchid){離さないよ}
+
+&color(HotPink){夕日を見よう}　&color(DodgerBlue){君と一緒に}
+&color(DodgerBlue){明日を望もう}　&color(HotPink){あなたとともに}
+&color(DodgerBlue){ねえ}　&color(DarkOrchid){これからも生きよう}
+&color(DarkOrchid){ふたりで}
+
+&color(DarkOrchid){優しい唄をうたおう　愛の唄を}
+&color(HotPink){傍に寄り添って}&color(DodgerBlue){傍に寄り添って}&color(HotPink)　{ただ居る}&color(DodgerBlue){(ただ居る)}&color(DarkOrchid){だけで幸せだと}
+&color(DarkOrchid){未来誓おう}
+
+&color(DarkOrchid){どんなにつらいことも}
+&color(DarkOrchid){ふたりでなら　大丈夫だよ}
+&color(DarkOrchid){紡いで暖めたこの時を}
+&color(DarkOrchid){そっと抱き寄せて}
+&color(DarkOrchid){悲しい日も嬉しい日もいつも}
+&color(DarkOrchid){傍に寄り添おう　淡い空の下笑って}
+&color(DarkOrchid){ずっとふたり　道を歩んでいこう}
+
+
+**コメント
+#comment()

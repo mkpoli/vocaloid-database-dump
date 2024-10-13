@@ -1,0 +1,55 @@
+#right(){&furigana()&furigana()【登録タグ:&tags()】}
+|&nicovideo(http://www.nicovideo.jp/watch/1417581606)|&youtube(https://www.youtube.com/watch?v=bwRyn65iX6A){347,247}|
+作詞：[[玉城千春]]
+作曲：[[蔦谷好位置]]
+編曲：[[田中隼人]]
+調声：[[ぺぺろんP]]
+唄：galaco
+
+**曲紹介
+-ギャラ子の中の人である柴咲コウが出演するミズノの新製品ランニングシューズ「WAVE UNITUS DC」のCMソング。ギャラ子にとって初のCMタイアップソングである。
+-2014年12月3日に配信シングルとしてリリースされた。
+-動画および配信シングルのジャケットイラストは、富岡二郎氏によるもの。また、動画は[[まさたかP]]が手がけている。
+-前向きでさわやかな楽曲となっている。
+
+**音楽配信
+&ref(http://a1.mzstatic.com/jp/r30/Music3/v4/3b/ed/ff/3bedffb7-0188-9630-9014-cd167b21f024/cover170x170.jpeg)
+
+|CENTER:前作|CENTER:今作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Happy Brand New Days}|CENTER:-|
+
+流通：配信
+発売：2014年12月3日
+価格：￥250
+レーベル：Victor Entertainment
+ジャケットイラスト：富岡二郎
+
+|&bold(){[[iTunes Storeで購入>>https://itunes.apple.com/jp/album/happy-brand-new-days-single/id941528280]]}|
+
+***曲目
++Happy Brand New Days
+
+**歌詞
+（動画内歌詞より転載）
+
+あの虹が　私を呼んでる
+抱き合って　ときめいて
+夢を描こう自分だけの未来
+
+
+新しい世界　なんだか照れ臭い
+窓に映った私　心躍る
+気を引き締めなきゃ　腕時計を見直す
+はっとして　あわててる　しっかりしなきゃ
+
+一人でも何だってやれるって
+挑戦したの　不器用なりに
+涙溢れてく
+
+Happy brand new days　私にもできる
+つまずいたって　笑って
+信じていこう　前を向いて　ほら
+
+**コメント
+- すごくかわいいPVだし、柴崎コウさんのモデルとかすごいと思います!  -- 万里佳  (2015-03-21 15:14:15)
+#comment()

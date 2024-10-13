@@ -1,0 +1,38 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://img.toranoana.jp/bl_img/04/0030/22/77/040030227721-1.gif)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[旅路の途中で]]|CENTER:&bold(){Seventh Heavens}|CENTER:[[くるくるふわふわ／アニバーサリー]]|
+
+|&bold(){[[キッドP]]}|[[クリスタルP]]|[[残鏡P]]|[[パプリカP]]|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2014年8月17日||
+|価格|CENTER:￥1,000|CENTER:￥1,300（税込）|
+|サークル|CENTER:クリキッド|CENTER:NnDS☆|
+
+**CD紹介
+-キッドPの7thアルバム。
+-ジャケットイラストは[[碧茶]]氏。
+-コミックマーケット86（C86）で頒布。
+-とらのあなで委託販売が行われている。
+
+**曲目
++HEAVEN～introduction～ （新曲）
++Seventh Heavens / 鏡音レン （新曲）
++告白カラーはランデブー / 鏡音レン&鏡音リン （新曲）
++チェンジ！ / 鏡音レン (NEW MIX)
++[[ライフ・ノルマ]] / 鏡音レン
++忍 / 鏡音レン （新曲）
++流星のFuture Runner / 鏡音レン （新曲）
++[[アニバーサリー]] / 鏡音レン （新曲）
++[[男の娘さーきゅれーしょん]] / 鏡音レン (NEW MIX)
++[[残月]] / 鏡音レン&KAITO
++じゃあ、またね / 鏡音レン （新曲）
+
+**リンク
+-[[作者ブログ>>http://yaplog.jp/kidsworks/]]
+-[[とらのあな>>http://www.toranoana.jp/bl/article/04/0030/22/77/040030227721.html]]
+
+**コメント
+#comment()

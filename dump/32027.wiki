@@ -1,0 +1,36 @@
+#right(){&furigana(Rough Fellow)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm19204465)|
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Rough Fellow}|CENTER:[[fourtuity]]|
+
+|&bold(){[[アオトケイ]]}|
+
+発売：2012年10月28日
+価格：￥100
+流通：即売
+サークル：ふじりんご
+
+**CD紹介
+-Fuji（141hP）氏の1stミニアルバム。
+-VOCALOID PARADISE 7（ボーパラ7）で頒布。
+
+**曲目
++[[都会型迷宮ジュシンク]]
++[[荒くれピエロ]]
++アマカラトンボ
++[[サマー☆モノグラム>サマーモノグラム]]
++都会型迷宮ジュシンク（オケ）
++荒くれピエロ（オケ）
++アマカラトンボ（オケ）
++サマー☆モノグラム（オケ）
+
+**リンク
+-[[twitter>>http://twitter.com/aoto_kei]]
+-[[ブロマガ>>http://ch.nicovideo.jp/fujiringo]]
+
+**コメント
+#comment()

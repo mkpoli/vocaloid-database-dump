@@ -1,0 +1,42 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1695_20150214224621_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Minus>Minus/CD]]|CENTER:&bold(){Drops}|CENTER:[[TSUBASA EP]]|
+
+|&bold(){[[Rin（ぎん）]]}|
+
+発売：2015年3月4日
+価格：￥1,500 / 1曲￥150
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：mirimo
+
+**CD紹介
+-Rin（ぎん）氏のVOCALOID1stフルアルバム。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++[[Vrosteroid]] （feat. マクネナナ）
++[[Drops]] （feat. 初音ミク）
++[[First of the Year]] （feat. 初音ミク）
++Kaeritai （feat. 初音ミク）
++[[Border Incident>Negative Incident]] （feat. 初音ミク）
++Inefficient （feat. 初音ミク）
++[[Alone>Alone/Rin（ぎん）]](Raindrops mix) （feat. 初音ミク）
++[[Desire>Desire/Rin（ぎん）]] （feat. マクネナナ）
++[[KUSOGE- Pt.2]] （feat. 初音ミク）
++Crusader （feat. 初音ミク）
++[[Return to Home]] （feat. 鏡音リン）
++Feather Flow （feat. マクネナナ）
++go back home （feat. 初音ミク）
++[[Sky Fall Down]] （feat. マクネナナ）
++[[Loop>Loop/Rin（ぎん）]] （feat. 初音ミク）
+
+**リンク
+-[[KARENT：「Drops」>>http://karent.jp/album/1695]]
+-[[iTunes Store>>https://itunes.apple.com/jp/album/drops/id969893369]]
+-[[作者サイト>>http://kuronekolounge.sakura.ne.jp/neko/KuronekoLounge.html]]
+
+**コメント
+#comment()

@@ -1,0 +1,10 @@
+#right(){【登録タグ:&tags()】}
+//↑タグ忘れ防止のための表示
+曖昧さ回避のためのページ
+----
+-[[arp realizer]]の曲
+--[[break through the night/arp realizer]]
+-[[テラ小室P]]の曲
+--[[BREAK THROUGH THE NIGHT/テラ小室P]]
+
+#include(曖昧さ回避の追加の仕方/告知)

@@ -1,0 +1,45 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#ref(http://karent.jp/npdca/1634_20141104012832_0280_0280.jpg)
+
+|&nicovideo(http://www.nicovideo.jp/watch/sm24875880)|&YouTube(http://www.youtube.com/watch?v=j6AsrIvTaoY){336,189}|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[ワン☆オポ！vol.08]]|CENTER:&bold(){C++++}|CENTER:[[ワン☆オポ！vol.09]]|
+
+|&bold(){[[マイナスP]]}|&bold(){[[じーざすP]]}|
+
+||CENTER:即売|CENTER:委託|CENTER:配信|
+|発売|CENTER:2014年10月19日|CENTER:2014年11月|CENTER:2014年11月19日|
+|価格|CENTER:￥1,000|CENTER:￥1,300（税別）|CENTER:￥1,200|
+|サークル|>|>|CENTER:Wonderful★opportunity!|
+
+**CD紹介
+-マイナスP、じーざすPによる同人サークル「Wonderful★Opportunity!（ワンダフル☆オポチュニティ！）」の10thCDアルバム。
+-タイトルは「シーシャープ」と読む。
+-CDジャケットデザインを[[GYARI>ココアシガレットP]]氏が担当。
+-VOCALOID PARADISE 9（ボーパラ9）で頒布される。
+-とらのあな、Amazonで委託販売が行われている。
+-Tr.10を除き、KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++DAZZLED___<<<Hello Exterior>>> / ft.MIKU / マイナス
++[[性悪オンナ・オンライン]] / ft.RIN / マイナス
++[[ツヅク　ヒカル　ミライ]] / ft.MIKU / じーざす
++だっしゅつげえむ / ft.LEN,RIN / じーざす
++&nowiki(){-}PARI COLE- / ft.RIN / じーざす
++SYNCHRONIZE-we're to blame- / ft.LUKA / マイナス
++[[BUNKA開放区]]___<<<C#MIX Remix by Minus>>> / ft.RIN,LEN
++[[マイレイン]]___<<<弦楽四重奏 Remix by Minus>>> / ft.MIKU
++[[MIDI MASTER!!]]___<<<C#MIX Remix by Minus>>> /ft.RIN,LEN
++1UP LOVE / ft.MIKU / じーざす
+
+**リンク
+-[[特設ページ>>http://wanopotw.wixsite.com/c-sharp]]
+-[[official website>>http://www.wan-opo.com/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/25/88/040030258821.html]]
+-[[Amazon>>http://www.amazon.co.jp/gp/product/B00PK3EEYK]]
+-[[KARENT：「C++++」>>http://karent.jp/album/1634]]
+
+**コメント
+- すごい欲しい・・・！  -- 名無しさん  (2014-10-28 17:31:49)
+#comment()

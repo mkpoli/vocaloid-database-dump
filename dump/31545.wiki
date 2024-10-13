@@ -1,0 +1,24 @@
+#right(){&furigana(わんたらーす)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion}
+|&nicovideo(sm15298829)|&YouTube(https://www.youtube.com/watch?v=mGy4CqvPS1E){342,187}|
+作詞：[[ATOLS]]
+作曲：[[ATOLS]]
+編曲：[[ATOLS]]
+唄：[[初音ミク]]
+
+**曲紹介
+曲名：『&u(){ワンダラーズ}』
+-ビートパーカッション以外は、ミクの声をシンセ化し鳴らしています。
+-コンピレーションアルバム『[[LIFEWORK]]』収録曲。
+
+**歌詞
+（[[スタッフブログ>>http://blog.livedoor.jp/atolsmacaronstudio/]]より転載）
+
+溢れるセカイで ・・・
+
+**コメント
+- 追加ありがとう！！！！！！！！！  -- 良太  (2015-03-09 20:11:50)
+#comment()

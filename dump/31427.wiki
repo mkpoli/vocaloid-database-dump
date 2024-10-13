@@ -1,0 +1,33 @@
+#right(){&furigana(なみだいろぜんそうきょく)&furigana()【登録タグ:&tags() 】}
+
+&ref(http://blog-imgs-64.fc2.com/i/n/t/introid/20140621002732327.jpg,x=300,y=300)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[灰色前奏曲]]|CENTER:&bold(){涙色前奏曲}|CENTER:-|
+
+|&bold(){[[イントロP]]}|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2014年6月29日|CENTER:2014年7月|
+|価格|CENTER:￥500|CENTER:￥648（税別）|
+|サークル|>|CENTER:灰色前奏曲|
+
+**CD紹介
+-イントロPのオリジナルCD。
+-使用VOCALOIDはKAITO V3オンリー。
+-VOCALOID PARADISE 番外編3 KAITO PARADISE2（ボーパラ番外編3カイパラ2）で頒布。
+-とらのあなで委託販売が行われていた。
+
+**曲目
++Introduction ―涙色前奏曲―
++[[終わる春の歌]]
++[[smokin']]
++[[Song of Myosotis]]
++終わる春の歌 offvocal ver.
+
+**リンク
+-[[作者ブログ>>http://introid.blog6.fc2.com/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/22/12/040030221244.html]]
+
+**コメント
+#comment()

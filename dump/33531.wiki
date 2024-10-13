@@ -1,0 +1,71 @@
+#right(){&furigana(unitychan)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+**製品
+-VOCALOID版
+&image(http://rsc-net.vocaloid.com/assets/image_files/376de95b08ad9e4ca167dfbef6b933ba/unity-chan_600.png,width=200)
+-A.I.VOICE版
+&image(https://shop.aivoice.jp/cdn/shop/files/1000_1000_1024x1024@2x.png?v=1690351314,width=200)
+***製品概要
+|製品名|unity-chan!|ユニティちゃん|
+|発売|2016年1月14日|2023年8月5日|
+|価格|￥10,800（税込）|￥13,024|
+|開発|YAMAHA|エーアイ|
+|エンジン|VOCALOID4|A.I.VOICE|
+|言語|>|日本語ライブラリ|
+|性別|>|女声|
+|サンプリング元|>|角元明日香|
+
+***製品紹介
+合成音声名：『&u(){unity-chan!}』
+-VOCALOID4エンジン対応の、女性音声VOCALOID。
+-イメージキャラクターのユニティちゃん（大鳥こはく）は、ユニティ・テクノロジーズ・ジャパンの公式キャラクターであり、YAMAHA社とユニティ・テクノロジーズ・ジャパン社の合同プロジェクト「Unity with VOCALOID」開発にあたり、新たなVOCALOIDとして抜擢された。
+--なお旧プロジェクト名は「VOCALOID for Unity」。
+-キャラクターデザインは ntny氏。
+//Unite Japan 2014 講演者より http://japan.unity3d.com/unite/unite2014/lecturer
+//その他設定の経緯について http://japan.unity3d.com/unite/unite2014/schedule の講演pdfファイル 1日目 19時 部屋3 Unity-Chan! スターティングガイド より
+-Unityの開発環境からVOCALOIDの歌声合成エンジンにアクセスする「VOCALOID SDK for Unity」に対応した歌声ライブラリである。
+--「VOCALOID SDK for Unity」について他のVOCALOIDについても順次対応予定である。（[[AHS社>>http://www.ah-soft.com/vocaloid/unity.html]]）
+-2015年12月29日より開催のコミックマーケット89で先行発売。（[[ユニティちゃん公式C89>>http://unity-chan.com/contents/event/c89/]]）。また、2015年12月21日にリリースされたVOCALOID SDK for UnityにもSDK用のライブラリが同梱されている。
+-2023年8月5日には「Unity」エディター上で簡単にボイス素材を合成できるエディター拡張機能「A.I VOICE for GAMES」のリリースに合わせ、A.I.VOICE版によるテキスト読み上げソフトが発売された。
+//
+// ユニティちゃん（大鳥こはく）のプロフィール http://unity-chan.com/contents/character/#kohaku
+// 名前：大鳥こはく
+// 誕生日：8月13日
+// 年齢：17
+// 血液型：AO
+//
+// 以下大百科記事「ユニティちゃん」（http://dic.nicovideo.jp/id/5190740）より引用。上記pdfファイルについても参照
+// 『ユニティちゃんを「大鳥こはく」として扱ってもよいし、「大鳥こはく」の設定を無視し、
+// 別のパーソナリティを持つキャラクターとして扱ってもよい。』
+
+**デモソング
+|『[[UNITE IN THE SKY]]』&br()&youtube(http://youtu.be/V7Ku0O7h9S4){342,187}|クロスフェードサンプル&br()&youtube(http://youtu.be/3tAYtpb6U58){342,187}|
+
+**リンク
+-[[VOCALOID SHOP unity-chan!販売ページ>>http://net.vocaloid.com/products/show/v4l_unity_chan]]
+-[[A.I.VOICE ユニティちゃん販売ページ>>https://shop.aivoice.jp/products/unitychan-soft-download]]
+-[[ユニティちゃん公式サイト>>http://unity-chan.com/]]
+-[[Twitter公式PR>>http://twitter.com/unitychan_pr]]
+-[[Unity with VOCALOID 特設サイト>>http://business.vocaloid.com/unitysdk/]]
+-[[VOCALOID SDK for Unity ニュースリリース>>http://jp.yamaha.com/news_release/2015/15122101.html]]
+-[[VOCALOID for Unity ニュースリリース（YAMAHA）>>http://jp.yamaha.com/news_release/2015/15082602.html]]・[[VOCALOID for Unity ニュースリリース（Unity）>>http://japan.unity3d.com/blog/press/20150826]]
+
+**関連タグ内の更新履歴
+※「unity-chan!」タグ内で最近編集やコメントのあった記事を新しい方から10件表示しています。
+#list_by_tagsearch(unity-chan!,sort=timestamp,sort2=desc,errmsg=まだ曲が登録されていません。,or,10)
+
+
+**コメント
+- おおッ！！  -- 名無しさん  (2015-12-28 21:31:31)
+- おおっ！結構好きかも。声少しRanaちゃんに近い？  -- 悪斗  (2015-12-28 22:10:31)
+- ニコニコ超会議で歌っている姿を少し見たが、まさかボーカロイドになるとは･･･。正直驚きました!  -- けん  (2015-12-29 00:35:18)
+- リンとRanaを合わせたような声ですな  -- 名無しさん  (2016-02-01 16:29:29)
+- 声可愛い～  -- 夢美  (2016-02-06 16:19:25)
+- ユニティちゃん（大鳥こはく）誕生日おめでとう!!これからもよろしくね!!（公式サイトを見て誕生日を知りました!）  -- けん  (2016-08-13 00:10:49)
+- ユニティちゃん(大鳥こはく)誕生日おめでとう！「DTMer」が特にお気に入りの曲です！元気いっぱいの歌声もとても素敵です！これからも応援していきます‼  -- けん  (2017-08-13 01:36:46)
+- ユニティちゃん誕生日おめでとう!!  -- けん  (2018-08-13 23:06:41)
+- Ranaたんと比べるとやや発声が柔らかい感じかな？また好みにストレートな…最高かよ  -- 名無しさん  (2019-12-05 20:02:02)
+#comment()

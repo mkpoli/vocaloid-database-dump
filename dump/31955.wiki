@@ -1,0 +1,168 @@
+#right(){&furigana(にゅーす39)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm26167108)|&youtube(https://www.youtube.com/watch?v=l69v6SVoE9k){342,187}|
+作詞：[[Mitchie M]]
+作曲：[[Mitchie M]]
+編曲：[[Mitchie M]]
+PV：[[TOHRU MiTSUHASHi]]・[[cort]]
+唄：[[初音ミク]]
+
+**曲紹介
+>&bold(){今月から始まる初音ミクが送るニュース番組『ニュース39』。毎日午後3時と9時にMHKで放送を開始します。}（作者コメ転載）
+曲名：『&u(){ニュース39}』
+-Mitchie M氏 の11作目。
+-※ この番組は架空です。そんなミクさんの番組を想像してMVを楽しんで頂けたら幸いです。（作者コメ転載）
+//-PVは TOHRU MiTSUHASHi氏 と cort氏 の共作。
+
+**歌詞
+&bold(){「こんにちは、3時のニュースです」}
+今日10時頃 川で子犬が 溺れて流されちゃいました
+それを見つけた 優しいホームレス 飛び込み救出しました
+&color(dimgray){(News 39)}
+
+駆けつけて来た飼い主が 涙して感謝して
+お礼に職をプレゼント みんながHappy End
+
+午後のニュース 39 誰も愛 忘れちゃいけない
+見てねニュース 39 暗い話題放送禁止ダヨー
+午後のニュース 39 まだまだ世の中捨てたもんじゃない
+ララララ・・・そんな出来事伝えてます
+
+&bold(){「チャンネルはそのまま」}
+
+&bold(){「こんばんは、9時のニュースです」}
+今日選ばれた某国のPresident ちょっと変わった人で話題です
+給与は全て慈善寄付して 貧困に取り組みます
+&color(dimgray){(News 39)}
+
+スラムで過ごした青春は 苦しくて虚しくて
+だから彼は誓いました リーダーになるって
+
+夜のニュース 39 今を変えてかなきゃいけない
+見てねニュース 39 夢と希望 電波に乗せ ON AIR
+夜のニュース 39 まだまだ人生捨てたもんじゃない
+ララララ・・・一粒の勇気お送りします
+
+&bold(){「次は気象情報です」}
+
+&bold(){「全国の天気です」}
+明日は低気圧が通過っつーか雨
+てるてる坊主に祈ってアーメン
+傘手放せない日けど&bold(){（けど？）}
+気持ち次第で&bold(){（晴れるヤ）}
+夜は強い寒気何か南下&bold(){（寒ぶ！）}
+暑さ寒さもShuzo次第&bold(){（へ？）}
+気温、景気冷え込んだって
+笑顔でいれたら暖だダーン！
+&bold(){「天気予報でした」}
+
+今日のニュース 39 誰も愛 忘れちゃいけない
+見てねニュース 39 暗い話題放送&color(dimgray){（ピー）}ダヨー
+今日のニュース 39 まだまだ世の中捨てたもんじゃない
+ララララ・・・そんな出来事 明日もお伝えします
+
+&bold(){「この番組は、ご覧のスポンサーの提供でお送りしました」}
+
+#region(close, 英訳)
+※歌詞英訳
+（[[作者ブログ>>https://mitchie-m.com/blog/hatsune-miku/lyrics/english/news-39-eng/]]より転載）
+
+&bold(){“Here is the news for 3 o’clock”}
+Around 10am today, a puppy dog got drowned in a river and got carried away
+But a kind homeless person who found it, jumped into the river and saved the puppy
+
+The owner of the dog who rushed to the scene, shed tears of gratitude
+In return he gave the homeless person the job he wanted. Everybody comes to a happy ending
+
+News 39 of the afternoon, everyone should keep the love in mind
+News 39 want you to see, gloomy topics are forbidden on the air DAYO
+News 39 of the afternoon, the world is not that bad still
+La la la la… Reporting you these kind of stories
+
+&bold(){“Stay tuned”}
+
+&bold(){“Here is the news for 9 o’clock”}
+The president of a certain country selected today, is a man of the news for his peculiar character
+He donates all of his allowance, and tackles the poverty
+
+The youthful years spent in the slum, was painful and fruitless
+So he took an oath, to become a leader
+
+News39 of the evening, needs to change this moment
+News 39 want you to see,dreams and hope carried on the air
+News39 of the evening, life is not that bad still
+La la la la… Reporting you a drop of courage
+
+&bold(){“Here is the weather”}
+
+&bold(){“The nationwide weather”}
+Tomorrow we have low pressure passing by I mean rain
+Amen to the weather paper doll (teru teru bozu)
+Holding the umbrella tight today but
+All up to the feeling (to clear up the sky)
+In the evening, a strong chill somewhat goes south (cold!)
+Hot and cold, all depends on Shuzo (huh?)
+Even when the temperature and business gets cold
+Smile brings the warmness!
+&bold(){“That was the weather”}
+
+News 39 of today, everyone should keep the love in mind
+News 39 want you to see, gloomy topics are bleeped DAYO
+News 39 of the afternoon, the world is not that bad still
+La la la la… reporting you these kind of stories tomorrow also
+
+&bold(){“This program was brought you by following sponsors”}
+#endregion
+
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+**コメント
+//- 追加乙！！  -- 良太  (2015-05-03 17:51:29)
+- ノリノリになれる曲だね！　ミク可愛い・・・  -- 名無しさん  (2015-05-04 12:13:38)
+- 調教凄い!!  -- カフェ  (2015-05-04 16:02:11)
+- 仕事速えwお疲れ様です！！  -- ニュース39視聴者  (2015-05-04 16:09:09)
+- 途中のラップっぽい所の歌詞よく思いつきましたねとしかいいようがないんだけどもｗｗｗ好きだわこの歌ｗ  -- ニュース39録画者  (2015-05-04 18:26:02)
+- 殿堂入りおめ！！！！  -- 名無しさん  (2015-05-04 22:46:34)
+- もうすべてが最高！！！！  -- 名無しさん  (2015-05-06 00:28:51)
+- 発想がさすがとしか言えない！！！  -- 名無しさん  (2015-05-06 19:32:40)
+- かわいい！！！！！  -- 名無しさん  (2015-05-07 11:48:15)
+- この曲かわいい  -- 名無しさん  (2015-05-08 20:39:30)
+//- 追加乙です！まさに神調教…！  -- 名無しさん  (2015-05-08 20:56:37)
+- 可愛い  -- 名無し梨  (2015-05-09 15:12:41)
+- もう殿堂入りしたんだね!!おめでとう!!遅れたけど新曲かな?  -- エネ@閃光の舞姫  (2015-05-09 15:20:58)
+- ミッチーMの新曲キタ―――――――――(／≧∀≦／)  -- 小学生キレぬこ  (2015-05-14 01:19:09)
+- ミクのなめらかな発音と語り方が最高にうまい！さすがMitchieさん！  -- けん  (2015-05-14 01:35:39)
+- すごいです。  -- 名無しさん  (2015-07-20 20:11:04)
+- 全然喋り方に違和感がない！ミッチーさんのミクの声大好きです！  -- おとみか  (2015-09-03 19:37:15)
+- うわわ！一瞬人間が歌ってるのかと思った…すごい…  -- はるごん  (2015-10-08 19:45:42)
+- この歌の調教はホントに神だよ…( 〃▽〃)スゲーいい！  -- 名無しさん  (2015-10-24 03:48:17)
+- この曲はとてもおもしろいです。  -- 名無しさん  (2015-12-10 12:56:43)
+- こんなニュース流れてたらイイのにな〜（≧∇≦）  -- リア充撲滅会会長  (2016-04-27 17:53:08)
+- 日本語以外にも英語だけじゃなくて色んな言語で歌って欲しい  -- 奈音  (2016-05-22 17:23:48)
+- メッチャ楽しい歌だよねっ！  -- フラン  (2016-07-30 17:39:16)
+- 楽しい曲ですね！可愛い♡♡  -- 名無しさん  (2016-09-24 18:51:56)
+- ATUKUNAREYO!!!!!!  -- SYUZO  (2016-10-08 20:09:47)
+- ジョイサウンドに配信されてたｗｗ  -- 名無しさん  (2016-11-03 23:23:19)
+- 修造にツボッたわw  -- 名無しさん  (2016-11-26 08:44:17)
+- これが実際に放送されたらなー  -- 名無しさん  (2016-11-26 15:16:49)
+- 天気予報ラップすき  -- 名無しさん  (2017-02-18 16:03:49)
+- ガチのニュースかと思ったw  -- 雪ミクlove北海道  (2017-02-20 22:11:24)
+- 吹雪の時可愛いと思ったの俺だけ？  -- 天翔丸  (2017-02-20 22:20:05)
+- ミクちゃんの手の動き&amp;ノリノリなところ可愛い  -- 烈火舞　  (2017-02-20 22:22:14)
+- 珍獣ダヨー発見放送禁止w  -- ダヨー  (2017-02-20 22:25:01)
+- 16歳がこんなことしてていいのか?ww  -- 名無しさん  (2017-02-22 17:11:31)
+- 提供仕事しすぎwwwwww  -- 輸血P  (2017-09-16 22:20:18)
+- かわいい！！  -- 名無しさん  (2021-07-21 15:11:33)
+- 可愛すぎる…このニュース見たいなあ  -- なりあさ  (2022-01-14 12:25:14)
+- こんなニュース番組があればいいのに  -- うなねぎ  (2023-05-28 18:53:01)
+#comment()
+
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)

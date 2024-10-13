@@ -1,0 +1,40 @@
+#right(){&furigana(はんしゃこ)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&ref(https://karent.jp/npdca/1848_20151123221635_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[History to U]]|CENTER:[[Doppelganger>Doppelganger/ゆうP]]&br()&bold(){反射湖}&br()[[gray snow]]|CENTER:-|
+
+|&bold(){[[ゆうP]]}|
+
+発売：2015年12月18日
+価格：￥300
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：まぬるねこ
+
+**CD紹介
+CD名：『&u(){反射湖}』（&u(){はんしゃこ}）
+-音楽サークル「P∴Rhythmatiq」でも活動するゆうPの配信シングル。
+-シングル『[[Doppelganger>Doppelganger/CD]]』、アルバム『[[CLAIMS from LR]]』に収録されていた楽曲。
+-KARENTレーベルよりダウンロード販売が行われている。鏡音リン・レン8周年記念特集で配信された作品の1つ。
+
+**曲目
++反射湖 （feat. 鏡音リン＆鏡音レン）
++反射湖 - off
+
+**動画
+|&nicovideo(sm23494154)|&youtube(https://www.youtube.com/watch?v=tPnHE_djHsE){342,187}|
+
+**リンク
+//-[[作者サイト>>http://www.p-pr.info/]]
+-[[KARENT：「反射湖」>>https://karent.jp/album/1848]]
+-[[KARENT：「鏡音リン・レン祭'15」特集ページ>>https://karent.jp/special/rinlen15]]
+-[[iTunes Store>>https://itunes.apple.com/jp/album/the-reflection-lake-single/id1064844451]]
+
+
+**コメント
+#comment()

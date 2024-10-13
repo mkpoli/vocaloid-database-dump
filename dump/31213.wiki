@@ -1,0 +1,30 @@
+#right(){&furigana(mstk)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/16068472" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/16068472">【ニコニコ動画】</a></iframe>)|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/43476438" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/43476438">【ニコニコ動画】</a></iframe>)|
+
+**特徴
+作り手名：『&u(){mstk}』(&u(){えむえすてぃーけー})
+-P名はtwitterに真佐隆@masataka_mstkとあるようにMaSaTaKaの略
+-ギタリスト。
+-音楽サークル「SUGAR BRAVE」に参加している。
+-「[[Hiatus]]」でボカロPデビュー。
+
+**リンク
+-[[Twitter>>https://twitter.com/masataka_mstk]]
+-[[Ameblo>>https://ameblo.jp/masataka-mstk/]]
+-[[Piapro>>https://piapro.jp/mstk]]
+
+**曲
+#list_by_tagsearch(mstk,sort=furigana2,errmsg=まだ曲が登録されていません。,and,100)
+
+**CD
+#list_by_tagsearch(mstkCD,sort=furigana2,errmsg=まだCDが登録されていません。,and,100)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm14611754)|&nicovideo(http://www.nicovideo.jp/watch/sm23683265)|
+
+**コメント
+#comment()

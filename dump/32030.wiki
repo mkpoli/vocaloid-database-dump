@@ -1,0 +1,35 @@
+#right(){&furigana(Unknown World)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm22989690)|
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[九十九ノ彩雲>九十九ノ彩雲/CD]]|CENTER:&bold(){Unknown World}|CENTER:[[グローリーフェノメノン>グローリーフェノメノン/CD]]|
+
+|&bold(){[[アオトケイ]]}|[[cillia]]|
+
+発売：2014年3月2日
+価格：￥500
+流通：即売
+サークル：141hour Record
+
+**CD紹介
+-Fuji（141hP）氏の4thミニアルバム。
+-Music:Fuji(141hP)、Bass:はるちん[track01,05]、Bass:さとしき[track03]、Piano:GOTS[track05]、Manipulator:Cillia[track01,05]、Illust:宇都宮
+-VOCALOID PARADISE 関西 3（ボーパラ関西3）で頒布。
+
+**曲目
++[[縹色クロニクル]] feat.MEIKO by cillia
++SH-4 feat.GUMI
++ヒャクセンレンマ feat.結月ゆかり
++[[ハナイロイロハ]] feat.初音ミク
++[[九十九ノ彩雲>>http://www24.atwiki.jp/utauuuta/pages/2427.html]] feat.波音リツ by cillia
+
+**リンク
+-[[twitter>>http://twitter.com/aoto_kei]]
+-[[ブロマガ>>http://ch.nicovideo.jp/fujiringo]]
+-[[PIAPRO>>http://piapro.jp/Fuji_mix]]
+
+**コメント
+#comment()

@@ -1,0 +1,45 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1790_20150805072327_0280_0280.jpg)
+
+|&nicovideo(http://www.nicovideo.jp/watch/sm26980675)|&YouTube(http://www.youtube.com/watch?v=O8jQjn7ktCg){342,187}|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){TIARA}|CENTER:-|
+
+|&bold(){[[てぃあら]]}|StudioTiara@Jun|[[アウトプットP]]|
+
+発売：2015年8月28日
+価格：￥1,500
+流通：配信
+レーベル：KARENT
+
+**CD紹介
+-てぃあら氏の配信アルバム。
+-ジャケットイラストはAO氏。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++[[ねがい>ねがい/てぃあら]]-extended mix-
++[[Gravity Rain>GravityRain]]
++[[SEAHOLLY]]
++[[Umbrella>Umbrella/てぃあら]]
++[[BALLOON]]
++[[ミルクティー>ミルクティー/てぃあら]]
++[[SILVER]]-act4mix-
++トランキライザー
++[[SAYONARA>SAYONARA/てぃあら]]
++[[悠久-Song of Eternity-]]
++[[Undefined>Undefined-End of Sorrow-]]-world's end mix-
++[[Soleil>Soleil-world's end-]]
++Tiara-10th anniversary memory-
+
+**リンク
+-[[作者サイト>>http://lovetrue-emotion.net/studiotiara/1st_TIARA]]
+-[[ブロマガ>>http://ch.nicovideo.jp/tiarakkuma]]
+-[[twitter>>http://twitter.com/tiara0207]]
+-[[KARENT：「TIARA」>>http://karent.jp/album/1790]]
+-[[iTunes Store>>http://itunes.apple.com/jp/album/tiara/id1029360239]]
+
+**コメント
+- ひみつのきもちが無いッ！でもほしい！  -- 名無しさん  (2015-09-01 20:36:51)
+#comment()

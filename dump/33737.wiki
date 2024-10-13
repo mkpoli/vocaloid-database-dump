@@ -1,0 +1,27 @@
+#right(){&furigana(まひろう)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://ext.nicovideo.jp/thumb_mylist/28508124" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/28508124">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-ポップスからロックまで幅広い楽曲を作成。
+-魂を揺さぶるようなエモーショナルギターと調教は圧巻。
+-作者名は英字表記の「mahiro」も使用しているが、同名のボカロPがいるため当wikiでは「麻痺郎」にしています。
+
+**リンク
+-
+
+**曲
+#list_by_tag(麻痺郎,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(麻痺郎CD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm18579989)|&nicovideo(sm19510999)|
+|&nicovideo(sm20375671)|&nicovideo(sm20955049)|
+|&nicovideo(sm21259658)|&nicovideo(sm24144178)|
+
+**コメント
+- 同名の作り手さん（mylist/9018790）とかぶってしまっているので、ページ名を「麻痺郎」に変更しようと思います。  -- 名無しさん  (2016-01-25 20:14:43)
+- はい、変更よろしくお願いします。ページ名の変更の仕方が分からないので、お任せしても宜しいですか？  -- 名無しさん  (2016-01-27 09:05:33)
+- 変更しました。  -- 名無しさん  (2016-01-27 20:10:58)
+#comment()

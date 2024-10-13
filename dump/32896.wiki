@@ -1,0 +1,34 @@
+#right(){&furigana(こいのちゃいなよこちょう)&furigana()【登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186133777.jpg,x=300)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Ocean Dream-海の落し物-]]|CENTER:&bold(){恋のチャイナ横町／Ocean Dream-海の落し物-}|CENTER:[[Another Heavens]]&br()[[恋のチャイナ横町]]|
+
+|&bold(){[[キッドP]]}|[[残鏡P]]|[[おればななP]]|[[クリスタルP]]|
+
+発売：2015年8月16日
+価格：￥500
+流通：即売
+サークル：L3Project+クリキッド
+ジャケットイラスト：[[碧茶]]・槐まくろ
+
+**CD紹介
+-キッドPの両A面CDシングル。
+-中華をイメージした新曲とKARENTで配信が行われた楽曲、それに3レン腐のアルバム『[[五線譜戦隊 ゴレンジャー]]』からのシングルカットの全3曲+インスト。
+-コミックマーケット88（C88）で頒布。
+
+**曲目
++[[恋のチャイナ横町]]
++[[Ocean Dream-海の落し物-]]
++さくらいろ
++恋のチャイナ横町 (instrumental)
++Ocean Dream-海の落し物- (instrumental)
++さくらいろ (instrumental)
+
+**リンク
+-[[twitter>>http://twitter.com/kid_NnDS]]
+-[[作者ブログ>>http://yaplog.jp/kidsworks/]]
+
+**コメント
+#comment()

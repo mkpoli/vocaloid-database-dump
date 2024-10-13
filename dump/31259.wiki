@@ -1,0 +1,37 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+
+&youtube(https://www.youtube.com/watch?v=TBUajeLKWF4){336,189}
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[KARENT presents TIME TO SAY HELLO! feat. 初音ミク]]|CENTER:&bold(){KARENT presents ゆきのねいろ feat. 初音ミク}|CENTER:[[KARENT presents 夏色シンガソン feat. 初音ミク]]|
+
+|[[びにゅP]]|[[cosMo（暴走P）]]|[[あつぞうくん]]|[[えのやっく]]|[[ムジカデリク]]|[[のぼる↑]]||
+
+|流通|CENTER:限定販売|CENTER:配信|
+|発売|CENTER:2013年2月5日|CENTER:2018年6月1日|
+|価格|CENTER:￥1,200（税込）||
+|レーベル|>|CENTER:KARENT|
+
+**CD紹介
+>&bold(){青のカーテンを開けると、そこは白銀にきらめく世界でした――}
+>&bold(){白い息が上る澄みきった空気に、ふわりと舞う雪。}
+>&bold(){自然が作り出した繊細なシーンをかたどる6つの音楽が、今ここに舞い降りる。}
+-KARENTレーベルのコンセプトコンピレーションCD第4弾。
+-「雪」をテーマとした楽曲で構成された限定生産アルバム。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++[[Counterclockwise]] / ryuryu feat. 初音ミク 
++[[廃都アトリエスタにて]] / cosMo＠暴走P feat. 鏡音レン・鏡音リン
++[[うさぎのウシャンカ]] / あつぞうくん feat. 初音ミク 
++[[snow draws]] / えのやっく feat. 初音ミク 
++[[スノー・マン]] / ムジカデリク feat. 鏡音リン
++[[白い雪のプリンセスは]] Orchestra ver. / The Original : のぼる↑ feat. 初音ミク　Orchestra arranged : 多田彰文 
+
+**リンク
+-[[KARENTレーベル CD紹介ページ>>http://karent.jp/cd/4]]
+-[[SNOW MIKU 2013公式サイト>>http://www.crypton.co.jp/snowmiku2013/]]
+-[[KARENT：「ゆきのねいろ」>>http://karent.jp/album/2226]]
+-[[iTunes Store>>http://itunes.apple.com/jp/album/yuki-no-neiro-the-melody-of-snow-ep/1391011838]]
+**コメント
+#comment()

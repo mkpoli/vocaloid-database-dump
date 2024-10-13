@@ -1,0 +1,31 @@
+#right(){&furigana(くろーりーふぇのめのん)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm23965557)|
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Unknown World]]|CENTER:&bold(){グローリーフェノメノン}|CENTER:[[Signal>Signal/CD]]|
+
+|&bold(){[[アオトケイ]]}|
+
+発売：2014年7月13日
+価格：無料
+流通：即売
+サークル：141hour Record
+
+**CD紹介
+-Fuji（141hP）氏の無料配布シングルCD。
+-THE VOC@LOiD M@STER 29（ボーマス29）で頒布。
+
+**曲目
++[[グローリーフェノメノン]]
++[[Under the sky>Under the sky/アオトケイ]]
++[[白と黒の現実世界]]
+
+**リンク
+-[[twitter>>http://twitter.com/aoto_kei]]
+-[[ブロマガ>>http://ch.nicovideo.jp/fujiringo]]
+
+**コメント
+#comment()

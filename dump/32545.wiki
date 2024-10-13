@@ -1,0 +1,31 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://ext.nicovideo.jp/thumb_mylist/36401431" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/36401431">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-2013年「[[僕らのボイジャーレコード]]」でVOCALOIDデビュー。
+-使用VOCALOIDは、初音ミク。
+
+**リンク
+-[[tumblr>>http://yurariyureru.tumblr.com/]]
+-[[PIAPRO>>http://piapro.jp/hamelin]]
+-[[SOUNDCLOUD>>https://soundcloud.com/yura-8]]
+-[[KARENT>>http://karent.jp/artist/pp000728]]
+
+**曲
+#list_by_tag(ゆら,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(ゆらCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm20388089)|&nicovideo(http://www.nicovideo.jp/watch/sm20767690)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm20946764)|&nicovideo(http://www.nicovideo.jp/watch/sm22847389)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm24535824)|&nicovideo(http://www.nicovideo.jp/watch/sm24788953)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm25178936)|&nicovideo(http://www.nicovideo.jp/watch/sm25572091)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm26196374)|&nicovideo(http://www.nicovideo.jp/watch/sm26749500)|
+
+***カバー
+&nicovideo(http://www.nicovideo.jp/watch/sm24230923)
+
+**コメント
+#comment()

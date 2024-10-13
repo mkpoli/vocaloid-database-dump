@@ -1,0 +1,39 @@
+#right(){&furigana(こんなゆめをみた)&furigana()【登録タグ:&tags() 】}
+#amazon(B00WH7B9RW)
+&nicovideo(http://www.nicovideo.jp/watch/sm26004996)
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Carmina Machina]]|CENTER:&bold(){こんな夢を見た。}|CENTER:-|
+
+|&bold(){[[すずきP]]}|[[あー民P]]|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|CENTER:2015年4月25日|CENTER:2015年4月|
+|価格|CENTER:￥1,000|CENTER:￥1,620（税込）|
+|サークル|CENTER:わしらじゃ|CENTER:すずきP|
+
+**CD紹介
+-すずきPの5年振り3枚目のボーカロイドアルバム。
+-イラストは秋津イネノジ氏。
+-THE VOC@LOiD 超 M@STER 31（超ボーマス31）で初頒布。
+-Amazon、とらのあなで委託販売が行われている。。
+
+**曲目
++Good Night
++[[新月と稲妻]] / 鏡音リン・レン
++ノクターン -YR Edit- / 結月ゆかり・鏡音レン
++検非違使 -AC Edit- / ・・・誰？
++カンスト娘。 / 初音ミク　（ゲスト作詞：[[あー民P]]）
++Wish / さとうささら（CeVIO）
++[[Alphard]] / がくっぽいど
++まつろわぬ者！ / がくっぽいど
++めざめ / 巡音ルカ
+
+**リンク
+-[[作者サイト>>http://ssuzukki.sakura.ne.jp/]]
+-[[作品ページ>>http://ssuzukki.sakura.ne.jp/such-dream/]]
+-[[Amazon>>http://www.amazon.co.jp/gp/product/B00WH7B9RW]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/29/92/040030299249.html]]
+
+**コメント
+- おおお！！！！！めっちゃ楽しみ！！！！っていうか誰・・・？てｗ  -- 名無しさん  (2015-04-12 01:32:12)
+#comment()

@@ -1,0 +1,42 @@
+#right(){&furigana(ほんこつおてっせい)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+#amazon(B00W3G56YE)
+
+&nicovideo(sm26022336)
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[生きる>生きる/ぽわぽわPCD]]|CENTER:&bold(){ポンコツ・オデッセイ}|CENTER:[[故に。]]|
+
+|&bold(){[[ぽわぽわP]]}|[[kous]]|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|CENTER:2015年4月25日|CENTER:2015年5月8日|
+|価格|CENTER:￥1,000|CENTER:￥1,620（税込）|
+|サークル|CENTER:岐阜県|CENTER:ポンコツスタジオ|
+
+**CD紹介
+CD名：『&u(){ポンコツ・オデッセイ}』
+-ぽわぽわPの同人アルバム。
+-THE VOC@LOiD 超 M@STER 31（超ボーマス31）で初頒布。
+-Amazonで委託販売が行われる。
+
+**曲目
++夢の値段
++相対零度
++[[nee]]
++15日の日曜日
++[[ドラッグスコア]] (kous yesTerday Dub mix)
++夕食はハルシオン
++リトマス紙の判断
++エンドオブザワールド
+
+**リンク
+//-[[作者サイト>>http://www.siinamota.com/]]
+-[[twitter>>https://twitter.com/siinamota]]
+-[[Amazon>>https://www.amazon.co.jp/dp/B00W3G56YE/]]
+
+**コメント
+- んんんんんんん！？  -- 良太  (2015-04-15 06:49:29)
+#comment()

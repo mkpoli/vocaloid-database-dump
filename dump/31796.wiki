@@ -1,0 +1,59 @@
+#right(){&furigana(める)&furigana()【登録タグ:&tags() 】}
+//&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/45003418" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/45003418">【ニコニコ動画】</a></iframe>)
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/60638537" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/60638537">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-2014年7月、「[[ポワソン・ダヴリルについて]]」にてボカロデビュー。
+-かつて4ピースバンド eau のメンバーとして活動を行っていた。
+-使用ボカロは今のところ、GUMI・初音ミク・IA・v flower。
+-10作目の「翡翠のまち」にて初の殿堂入りを達成。
+-これまでに殿堂入りを達成した曲は、次の通り。&br()「&list_by_tagsearch(メル,殿堂入り,sort=furigana,option=nolist,nolistspace=」「,100)」
+
+**ミリオン達成状況
+-以下の楽曲が[[ミリオン>曲一覧/ミリオン曲一覧]]を達成している。
+|CENTER:&bold(){曲名}|CENTER:&bold(){100万再生}|CENTER:&bold(){備考}|
+|[[さようなら、花泥棒さん]]|2024年6月3日||
+
+**リンク
+-[[Twitter>>http://twitter.com/________mer]]
+-[[PIAPRO>>http://piapro.jp/mer_]]
+-[[YouTube>>http://www.youtube.com/channel/UCPp3q-IAFpfquV77qRgJmdQ]]
+-[[ブログ>>http://mer0120.blog.fc2.com/]]
+
+**曲
+#list_by_tag(メル,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(メルCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|>|BGCOLOR(#2b80d5):COLOR(#FFF):CENTER:&font(b,11pt){オリジナル曲}|
+|&nicovideo(sm24015104)|&nicovideo(sm24284405)|
+|&nicovideo(sm25535271)|&nicovideo(sm25710631)|
+|&nicovideo(sm25943367)|&nicovideo(sm26338641)|
+|&nicovideo(sm26405032)|&nicovideo(sm26884043)|
+|&nicovideo(sm27546102)|&nicovideo(sm28603963)|
+|&nicovideo(sm28921641)|&nicovideo(sm29532565)|
+|&nicovideo(sm31729501)|&nicovideo(sm32048533)|
+|&nicovideo(sm32469732)|&nicovideo(sm32639511)|
+|&nicovideo(sm33343424)|&nicovideo(sm33817239)|
+|&nicovideo(sm34394060)|&nicovideo(sm34867068)|
+
+**コメント
+- 一周年おめでとうございます！！！  -- 名無しさん  (2015-08-08 20:46:22)
+- はあ、好き  -- 名無しさん  (2015-11-08 21:39:25)
+- さようなら、花泥棒さんから  -- 名無しさん  (2016-03-04 22:24:01)
+- 本当に大好きです幸せ  -- 名無しさん  (2016-05-16 20:10:40)
+- メルさんも曲も大好きです  -- 名無しさん  (2016-05-27 21:10:50)
+- 花泥棒さんだいすき！！  -- 名無しさん  (2016-07-04 16:48:20)
+- メルさんの作る曲の世界観が大好きです。癒されます  -- 名無しさん  (2016-08-29 14:31:49)
+- メルさんのさようなら花泥棒さんがすごく大好きです！  -- 名無しさん  (2016-12-06 23:05:34)
+- メルさんのつくる曲、ほんとうにだいすきです。  -- 名無しさん  (2017-01-17 06:27:13)
+- メルさんの曲 は 好きです  -- 葉月  (2017-01-30 14:31:06)
+- 全部好き。夏のメロウ、プラトニックラブ、翡翠の街、花泥棒さん。ほんとすき  -- きなこ  (2017-02-26 21:14:33)
+- メルさんの曲大好きだから早く新曲を～！お願いします！！  -- 名無しさん  (2017-04-09 00:15:24)
+- 花泥棒とプラトニック知ってたのに翡翠のまち知らなくて後悔してる  -- NTFAI#  (2017-11-05 08:24:47)
+- 新曲の歌詞追加おねがいしたいです…  -- Ran13  (2017-12-27 01:50:29)
+- この人の歌詞が凄い好き  -- 名無しさん  (2019-02-16 01:40:55)
+- メルさんって現在バンドに所属してる認識で合ってますか？？  -- 名無しさん  (2022-08-21 09:48:49)
+#comment()

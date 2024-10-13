@@ -1,0 +1,10 @@
+#right(){【登録タグ:&tags()】}
+//↑タグ忘れ防止のための表示
+曖昧さ回避のためのページ
+----
+-[[SeikoP]]の曲
+--[[Crystalline/SeikoP]]
+-CIRCRUSH（[[Circus-P]]・[[CRUSHER-P]]）の曲
+--[[Crystalline/CIRCRUSH]]
+
+#include(曖昧さ回避の追加の仕方/告知)

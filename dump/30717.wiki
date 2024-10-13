@@ -1,0 +1,32 @@
+#right(){&furigana(おとのめいろ)&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1627_20141017002431_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[比賽>比賽/CD]]|CENTER:&bold(){音の迷路}|CENTER:[[キンモクセイの風]]|
+
+|&bold(){[[稲敷常州]]}|[[春夜]]|[[薪原あすみ]]|
+
+発売：2014年11月5日
+価格：￥600
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：[[ワタナベ>>http://piapro.jp/konpasu]]
+
+**CD紹介
+-稲敷常州氏の配信EP。
+-中国の弦楽器、「古箏」とMEIKOのコラボレーション。日本風、モンゴル風、中国風、変幻自在な音の旅をお楽しみください。
+-KARENTレーベルよりダウンロード販売が行われている。KARENTのMEIKO10周年記念企画で配信された作品の1つ。
+
+**曲目
++[[西域行]] （feat. MEIKO）
++[[ここまでおいで]] （feat. MEIKO）
++[[五彩十二花神杯]] （feat. MEIKO）
++[[きみがくれた恋]] （feat. MEIKO）
+
+**リンク
+-[[KARENT：「音の迷路」>>http://karent.jp/album/1627]]
+-[[KARENT：「MEIKO記念祭'14」特集ページ>>http://karent.jp/special/meiko14]]
+-[[iTunes Store>>https://itunes.apple.com/jp/album/the-journey-of-sound-ep/id931820279]]
+
+**コメント
+#comment()

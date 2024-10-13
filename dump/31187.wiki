@@ -1,0 +1,33 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo(sm23313847)
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){remember}|CENTER:[[HeatHazeSUMMER]]|
+
+|&bold(){[[23]]}|
+
+発売：2014年04月20日
+価格：￥0
+流通：配信
+
+**CD紹介
+>今まで自分が見てきたもの、感じた事を思い出しながら、初音ミクというフィルターを通して作ったアルバムです。
+>このアルバムで一つでも何かを感じて頂けたら、このアルバムが生活の何気ない一部になってくれたらとても嬉しいです。
+-主にダンスミュージックを作る23氏の、1stミニアルバム。
+-今までニコニコ動画に投稿した4曲＋インスト＋新曲で構成されている。
+-このアルバムは無料でダウンロードできるので、気になる人はまず動画を見てはいかがでしょうか。
+
+**曲目
++Invitation to past
++[[Ultra Hyper Super Bowl]]
++[[Blue-wool]]
++i say...
++[[raInbowday]]
++[[Surely↲Someday]]
++Digital Stardust
+
+**リンク
+-[[ダウンロード先>>http://www.dropbox.com/s/p9v8n08y0oq0xhs/remember.zip]]
+
+**コメント
+- 編集してくださり、ありがとうございます！  -- 名無しさん  (2015-01-21 01:13:40)
+#comment()

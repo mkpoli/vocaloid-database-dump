@@ -1,0 +1,36 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#amazon(B011T4CXK0)
+&nicovideo(http://www.nicovideo.jp/watch/sm26674359)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){WONDERLAND APPLE PIE}|CENTER:-|
+
+|&bold(){[[家の裏でマンボウが死んでるP]]}|&bold(){[[10日P]]}|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|CENTER:2015年7月12日||
+|価格|CENTER:￥1,500|￥1,600（税別）|
+|サークル|>|CENTER:家の裏でマンボウが死んでるP/monaca:factory|
+
+**CD紹介
+-家の裏でマンボウが死んでるPとmonaca:factoryのコラボレーションミニアルバム。
+-ジャケットデザイン：いとうとい
+-購入特典は、各楽曲に関するオーディオコメンタリー。
+-THE VOC@LOiD M@STER 32（ボーマス32）で頒布開始。
+-各イベント&各通販サイトにて、次のリンゴの旬が終わるまでの期間限定販売とのこと。
+
+**曲目
++フレッシュ or ベイクド / 10日P
++[[明日が来るの反対]] / 家の裏でマンボウが死んでるP
++[[ルナ]] / 10日P
++洗面器に嫁いだ羊・メリー / 家の裏でマンボウが死んでるP
++ワンダーボール・アップルパイ / コラボ曲
+
+**リンク
+-[[twitter（家の裏でマンボウが死んでるP）>>http://twitter.com/takahashi_manbo]]
+-[[twitter（monaca:factory）>>http://twitter.com/monaca10p]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/32/53/040030325333.html]]
+-[[amazon>>http://www.amazon.co.jp/dp/B011T4CXK0]]
+
+**コメント
+#comment()

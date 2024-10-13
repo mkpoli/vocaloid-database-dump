@@ -1,0 +1,104 @@
+#right(){&furigana(Memory)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm19237817)|&youtube(https://youtu.be/entxPGoRH50){342,187}|
+作詞：[[Circus-P]]
+作曲：[[Circus-P]]
+編曲：[[Circus-P]]
+唄：[[LEON>LEON/VOCALOID]]・[[LOLA]]
+
+**曲紹介
+曲名：『&u(){Memory}』(&u(){めもりー})
+-Lola:「（*´▽｀*）」 Leon:「Σ(ﾟДﾟ|||)」
+-作者初のLEON・LOLAオリジナル曲。
+
+**歌詞
+（[[Vocaloid Lylics Wiki>>http://vocaloidlyrics.wikia.com/wiki/Memory/Circus-P]]より転載）
+
+I'm not sure what we're doing
+I don't know how we got in
+This situation.
+
+But I think that I like it
+The rendezvous of our lips
+We make a perfect fit.
+
+Oh,this is love?(Oh,this is love?)
+I can't tell what we've done(I can't tell what we've done)
+Oh,this is right?(Oh,this is right?)
+I don't know what to do...(I don't know what to do...)
+
+Whisper to me It will set me free
+(Don't talk to me just let me be)
+There's no way that I'd expect this tonight
+(didn't expect this tonight).
+
+Nothing is wrong
+(something is wrong it is all gone)
+My thoughts,they are gone
+It wont be for long
+But I'll remember this forever
+(But I'll remember this forever)
+We will never forget
+(I won't forget)
+
+"I want you! I need you! I love you!
+Never leave this fantasy! Paradise!
+This is everything I wanted"
+
+Don't know you..."who are you? where are we?"
+"This isn't right! What are you? What am I?
+I can't stop and I don't know why...
+
+Oh,this is love?(Oh,this is love?)
+I can't tell what we've done(I can't tell what we've done)
+Oh,this is right?(Oh,this is right?)
+I don't know what to do...(I don't know what to do...)
+
+Whisper to me It will set me free
+(Don't talk to me just let me be)
+There's no way that I'd expect this tonight
+(didn't expect this tonight).
+
+Nothing is wrong
+(something is wrong it is all gone)
+My thoughts,they are gone
+It wont be for long
+But I'll remember this always
+(But I'll remember this always)
+We will never forget
+(I won't forget)
+
+Come stay with me,I'm sure we'll be free
+A worthless pair,this isn't fair
+It will be fun! You are the one!
+Who said this is ultimate bliss?
+
+Whisper to me It will set me free
+(Don't talk to me just let me be)
+There's no way that I'd expect this tonight
+(didn't expect this tonight).
+
+Nothing is wrong
+(something is wrong it is all gone)
+My thoughts,they are gone
+It wont be for long
+(Can't stop)
+But I'll remember this always
+(But I'll remember this always)
+We will never forget
+(I won't forget)
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+**コメント
+- LEONとLOLAの声めっちゃいい。  -- gon  (2017-09-29 00:18:49)
+#comment()
+
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)

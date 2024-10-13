@@ -1,0 +1,38 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm22938227)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[light sounds]]|CENTER:&bold(){blues power}|CENTER:[[in the city>in the city/CD]]|
+
+|&bold(){[[空海月]]}|
+
+発売：2014年3月2日
+価格：￥1,000
+流通：即売
+サークル：jellyfish sounds
+
+**CD紹介
+>楽しいこと、辛いこと、ドキドキすること、悲しいこと。
+>リズムに乗って軽く歌えばきっと力が湧いてくる、それが「blues power」！
+-空海月氏の2ndアルバム。
+-イラストは四ノ原氏。
+-VOCALOID PARADISE 関西3（ボーパラ関西3）で初頒布。
+
+**曲目
++[[Sha-Li-Lan, Lan♪]]
++[[ウィンナー・ココア]]
++[[Wave, Wave, Wave]]
++[[キラキラな日常]]
++[[take me down]]
++[[Long Distance]]
++[[tears for your love]]
++[[blue>blue/空海月]]
++[[雨の日>雨の日/空海月]]
++[[Like? Love!!]]
++[[カラフルスキップ]]
+
+**リンク
+-[[twitter>>http://twitter.com/solakurage]]
+
+**コメント
+#comment()

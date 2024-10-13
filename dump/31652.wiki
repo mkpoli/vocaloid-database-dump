@@ -1,0 +1,26 @@
+#right(){&furigana(clear)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/45387487" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/45387487">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-VOCALOID処女作は2014年10月投稿の「[[正義ノムナサワギ]]」。
+-使用ボーカロイドはIA、IA ROCKS、Rana。
+
+**リンク
+-[[#include>>http://music-include.jimdo.com/]]
+
+**曲
+#list_by_tag(るいす,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(るいすCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+***オリジナル曲
+|&nicovideo(http://www.nicovideo.jp/watch/sm24711328)|&nicovideo(http://www.nicovideo.jp/watch/sm25517871)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm25681066)|&nicovideo(http://www.nicovideo.jp/watch/sm25681472)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm26606779)|
+
+**コメント
+- list_by_tagをいじるのをやめてください。作品を表示させたいなら、そのページを作成してください。  -- 名無しさん  (2015-03-19 00:10:08)
+//- ･･･あり得ない  -- レモン  (2015-05-30 21:56:53)
+#comment()

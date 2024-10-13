@@ -1,0 +1,181 @@
+#right(){&furigana(SLAVEVVR)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/47835583" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/47835583">【ニコニコ動画】引退作品</a></iframe>)
+
+**特徴
+作り手名：『&u(){SLAVE.V-V-R}』（&u(){スレイブ・ブイブイアール}）
+-「[[やめろ！聴くな！]]」でデビューした期待の新人。
+--その「やめろ！聴くな！」で殿堂入りを果たす。
+-しかし、突然の引退発表。今まで応援してきた人も驚きを隠せなかった。
+--……と思いきや、風邪をひいてしまい、引退を失敗。それ以降、何らかの理由で引退を失敗している。
+--本人は必ず引退すると決心。
+--よって、視聴者からは&bold(){引退詐欺P}と呼ばれることもある。
+-サムネは白背景に黒文字でタイトルを斜めに配置したものと統一されていたが、最近は自作MMDを使ったMVがほとんどの曲を占めるようになり、サムネも多種多様になっている。
+-使用音声合成は、結月ゆかり・miki・猫村いろは・マクネナナ・心華・紲星あかり・初音ミク・音街ウナ・flower・歌愛ユキ・MEIKO・鏡音リン・裏命・可不・狐子・Amy・KAITO・Ken・kokone・鏡音レン・羽累・星界・重音テト・GUMI。&br()ボカロ購入は念願の夢だったらしい。
+-流暢な英語の発声技術に定評がある。
+-2016年には&bold(){egg crazy}というユニットを結成し、解散を失敗している。
+-2019年4月30日に「[[このピアノでお前を8759632145回ぶん殴る]]」が初のミリオンを達成した。
+-次の曲が殿堂入りを達成している。&br()&list_by_tagsearch(SLAVE.V-V-R,殿堂入り,sort=furigana,option=nolist,nolistspace=／,100)
+
+**ミリオン達成状況
+|CENTER:&bold(){曲名}|CENTER:&bold(){100万再生}|CENTER:&bold(){備考}|
+|[[このピアノでお前を8759632145回ぶん殴る]]|2019年4月30日|&bold(){猫村いろはソロオリジナル曲では史上初}|
+|[[『んっあっあっ。』]]|2023年10月30日||
+
+**リンク
+-[[SLAVE.V-V-R 引退計画実施中（作者ホームページ）>>https://slave-vvr.jimdo.com/]]
+-[[Twitter>>https://twitter.com/SLAVE_V_V_R]]
+-[[ニコニコ>>https://www.nicovideo.jp/user/45013355]]
+-[[YouTube>>https://www.youtube.com/channel/UCptMKQqJMdDXUoiEbYlAozg]]
+-[[pixivFANBOX>>https://slave-vvr.fanbox.cc/]]
+-[[ニコニコ大百科（単語記事）>>https://dic.nicovideo.jp/a/slave.v-v-r]]
+
+**曲
+#list_by_tag(SLAVE.V-V-R,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+#region(close,投稿日表)
+||CENTER:&bold(){曲名}|CENTER:&bold(){ボーカル}|CENTER:&bold(){投稿日}|CENTER:&bold(){収録アルバム}|CENTER:&bold(){その他}|
+|CENTER:1|CENTER:[[やめろ！聴くな！]]|CENTER:結月ゆかり|CENTER:2014年12月17日|CENTER:[[やめろ！買うな！]]||
+|CENTER:2|CENTER:[[だめだ！この曲は！]]|CENTER:結月ゆかり|CENTER:2015年1月6日|~||
+|CENTER:3|CENTER:[[おい！これアウトか！？]]|CENTER:結月ゆかり|CENTER:2015年2月1日|CENTER:[[スレイブお客様サービスセンター]]||
+|CENTER:4|CENTER:[[ブスに巨乳って意味あんのかよ]]|CENTER:結月ゆかり|CENTER:2015年3月17日|~||
+|CENTER:5|CENTER:[[ちょっと面倒くさい西山可奈子さん]]|CENTER:結月ゆかり|CENTER:2015年4月6日|~||
+|CENTER:6|CENTER:[[あのザコのポエムみたいなツイート、ゴミか！？]]|CENTER:結月ゆかり|CENTER:2015年5月20日|CENTER:───||
+|CENTER:7|CENTER:[[中国式マッサージ殺法]]|CENTER:miki|CENTER:2015年7月3日|CENTER:[[スレイブお客様サービスセンター]]||
+|CENTER:8|CENTER:[[言葉・記憶・心理・視線・体温・鼓動]]|CENTER:結月ゆかり|CENTER:2015年7月13日|CENTER:[[純情]]||
+|CENTER:9|CENTER:[[ん～いい！最高！パーフェクトなメス豚]]|CENTER:miki|CENTER:2015年9月5日|CENTER:[[スレイブお客様サービスセンター]]||
+|CENTER:10|CENTER:[[伝説のキャバクラ嬢]]|CENTER:猫村いろは|CENTER:2015年10月1日|~||
+||CENTER:[[でぶチャラ]]|CENTER:結月ゆかり|CENTER:2015年10月15日|CENTER:───|[[かずくんP]]、[[たけ>鍵盤無双P]]、[[アナバ]]、[[やえ]]とのコラボ&br()作詞を担当している|
+|CENTER:11|CENTER:[[地獄アイドル『ラブリーデストロイ』]]|CENTER:結月ゆかり、猫村いろは、miki|CENTER:2015年10月30日|CENTER:[[スレイブお客様サービスセンター]]||
+|CENTER:12|CENTER:[[女子中学生、禁断の事情]]|CENTER:miki|CENTER:2016年1月19日|CENTER:[[激録！少女群像譚]]||
+|CENTER:13|CENTER:[[追跡！家出少女の実態！]]|CENTER:猫村いろは|CENTER:2016年2月6日|~||
+|CENTER:14|CENTER:[[卒アル売って花屋になります]]|CENTER:結月ゆかり|CENTER:2016年3月9日|~||
+|CENTER:15|CENTER:[[このピアノでお前を8759632145回ぶん殴る]]|CENTER:猫村いろは|CENTER:2016年4月26日|CENTER:[[愛と哀しみの戦い]]||
+|CENTER:16|CENTER:[[愛とパンティからさわぎ]]|CENTER:結月ゆかり|CENTER:2016年5月3日|CENTER:[[スレイブお客様サービスセンター]]|YouTube限定で公開された&br()現在は非公開となっている|
+|CENTER:17|CENTER:[[一身上の都合によりぶっ殺します]]|CENTER:miki|CENTER:2016年6月19日|CENTER:[[愛と哀しみの戦い]]||
+|CENTER:18|CENTER:[[東京上空]]|CENTER:結月ゆかり|CENTER:2016年8月12日|CENTER:───||
+|CENTER:19|CENTER:[[僕の歌をこの世で一番最後に聴いてくれる人は誰ですか]]|CENTER:結月ゆかり|CENTER:2016年10月5日|CENTER:[[結月食堂 聖蹟桜ヶ丘アフェクション店]]||
+|CENTER:20|CENTER:[[結月ゆかり全裸吹奏楽団]]|CENTER:結月ゆかり|CENTER:2016年11月12日|CENTER:───||
+|CENTER:21|CENTER:[[アブダクション]]|CENTER:結月ゆかり|CENTER:2017年1月3日|~|egg crazy ver.と同時投稿|
+|CENTER:22|CENTER:[[Piano Girl]]|CENTER:結月ゆかり|CENTER:2017年2月26日|CENTER:[[結月食堂 聖蹟桜ヶ丘アフェクション店]]|YouTube限定で公開された|
+|CENTER:23|CENTER:[[お前がメシにありつくなど56876423年早いわ]]|CENTER:結月ゆかり|CENTER:2017年4月3日|~||
+|CENTER:24|CENTER:[[貴様の喉に牙を向け、我が賛嘆を呉れてやる。]]|CENTER:結月ゆかり|CENTER:2017年5月28日|CENTER:[[激情>激情/CD]]||
+|CENTER:25|CENTER:[[今宵は彼奴めを拐かし、いざ麗しき闇を燃やさん。]]|CENTER:マクネナナ|CENTER:2017年7月20日|~||
+|CENTER:26|CENTER:[[うるさすぎるジェラシー]]|CENTER:猫村いろは|CENTER:2017年10月3日|~||
+|CENTER:27|CENTER:[[チャイニーズ・アフェクション]]|CENTER:結月ゆかり|CENTER:2017年11月1日|CENTER:[[結月食堂 聖蹟桜ヶ丘アフェクション店]]||
+|CENTER:28|CENTER:[[13歳声明白書]]|CENTER:miki|CENTER:2017年11月19日|CENTER:[[激録！少女群像譚]]||
+|CENTER:29|CENTER:[[そして衝動は激情に変わる。]]|CENTER:心華|CENTER:2018年3月7日|CENTER:[[激情>激情/CD]]||
+|CENTER:30|CENTER:[[東京浪漫女子謳歌蘭街六九七番地ノ恋]]|CENTER:心華|CENTER:2018年4月9日|CENTER:[[純情]]||
+|CENTER:31|CENTER:[[？>？/SLAVE.V-V-R]]|CENTER:紲星あかり|CENTER:2018年5月18日|CENTER:───||
+|CENTER:32|CENTER:[[700800を踊る我らが26で或る。]]|CENTER:初音ミク|CENTER:2018年7月2日|CENTER:[[激情>激情/CD]]||
+|CENTER:33|CENTER:[[シナリオは雨と花束をラストシーンに選んだ─。]]|CENTER:心華|CENTER:2018年7月17日|CENTER:[[純情]]||
+|CENTER:34|CENTER:[[犬と地球がくだけちる]]|CENTER:音街ウナ|CENTER:2018年10月6日|CENTER:───||
+|CENTER:35|CENTER:[[精神変調型女子高生X]]|CENTER:紲星あかり|CENTER:2018年11月26日|CENTER:[[激録！少女群像譚]]||
+|CENTER:36|CENTER:[[心中なら銀座で]]|CENTER:心華|CENTER:2018年12月13日|CENTER:───|ニコニコ動画で公開されているのはショートバージョン&br()フルバージョンはYouTubeで公開されている|
+|CENTER:37|CENTER:[[伝説の堕罪婦殿慢宮]]|CENTER:ジュリアン★キャバレー歌劇団&br()（紲星あかり+結月ゆかり、猫村いろは+結月ゆかり、miki+結月ゆかり&br()（クロスシンセシス））|CENTER:2019年3月2日|~||
+|CENTER:38|CENTER:[[ときめきキサナドゥ新宿館]]|CENTER:ジュリアン★キャバレー歌劇団|CENTER:2019年5月8日|~||
+|CENTER:39|CENTER:[[令和記念京都大花火博覧会2019夏]]|CENTER:ジュリアン★キャバレー歌劇団|CENTER:2019年7月9日|~||
+|CENTER:40|CENTER:[[新学期、女子高生は自殺する。]]|CENTER:心華|CENTER:2019年9月1日|CENTER:[[激録！少女群像譚]]||
+|CENTER:41|CENTER:[[神様、わたしの性別間違えてます。]]|CENTER:心華|CENTER:2019年12月1日|~||
+|CENTER:42|CENTER:[[情事・色事・ん…こっち]]|CENTER:結月ゆかり|CENTER:2020年1月18日|CENTER:───||
+|CENTER:43|CENTER:[[圧倒的絶望ちゃん]]|CENTER:心華|CENTER:2020年4月12日|CENTER:[[EDEN of SLAVE]]||
+|CENTER:44|CENTER:[[地獄の浄土でこんにちは]]|CENTER:心華|CENTER:2020年7月15日|~||
+|CENTER:45|CENTER:[[少女、その正体──。]]|CENTER:心華|CENTER:2020年8月16日|CENTER:───||
+|CENTER:46|CENTER:[[この愛は痴れ者のテラトフィア]]|CENTER:歌愛ユキ|CENTER:2020年9月26日|~||
+|CENTER:47|CENTER:[[舐める女]]|CENTER:miki|CENTER:2020年11月15日|CENTER:[[激情>激情/CD]]||
+|CENTER:48|CENTER:[[あぁ！ボカロ狂想曲]]|CENTER:初音ミク|CENTER:2020年12月11日|CENTER:───|『The VOCALOID Collection ～2020 Winter～』参加曲&br()ボカコレTOP30ランキングにおいて3位を獲得した|
+|CENTER:49|CENTER:[[こ。]]|CENTER:初音ミク|CENTER:2021年2月20日|~|『ネタ曲投稿祭』参加曲&br()『一緒に作ろう！第6回楽曲コンテストプロセカNEXT』応募曲|
+|CENTER:50|CENTER:[[共鳴し、ゆかる。]]|CENTER:結月ゆかり|CENTER:2021年3月13日|~||
+|CENTER:51|CENTER:[[『んっあっあっ。』]]|CENTER:初音ミク|CENTER:2021年3月28日|~|『一緒に作ろう！第3回楽曲コンテストプロセカNEXT』応募曲&br()楽曲コンテストでは落選したが、その後に既存曲の枠でゲームに収録された|
+|CENTER:52|CENTER:[[『めっっっ。』]]|CENTER:初音ミク|CENTER:2021年5月8日|~||
+|CENTER:53|CENTER:[[『どっくっん。』]]|CENTER:初音ミク|CENTER:2021年7月24日|~||
+||CENTER:[[私の恋はヘルファイア]]|CENTER:MEIKO|CENTER:2021年11月2日|~|クリプトン公式チャンネルから投稿された&br()KARENT主催『MEIKO 17th Anniversary』提供曲|
+|CENTER:54|CENTER:[[『吐息と絶叫でもうめちゃくちゃ』]]|CENTER:初音ミク、MEIKO|CENTER:2021年12月12日|~||
+|CENTER:55|CENTER:[[その花は生涯で最も忌々しく邪魔だった──。]]|CENTER:音街ウナ|CENTER:2022年2月26日|~|konoco ver.と同時投稿|
+|CENTER:56|CENTER:[[ぐちゃり]]|CENTER:MEIKO|CENTER:2022年5月21日|~|『VocaDuo2022』参加曲のVOCALOID ver.|
+|CENTER:57|CENTER:[[リビングデッド・フィーバー]]|CENTER:鏡音リン|CENTER:2022年6月15日|~|TVアニメ『ハナビちゃんは遅れがち』主題歌のVOCALOID ver.&br()『ハナビちゃんの1週間』企画の『土曜日』の曲|
+|CENTER:58|CENTER:[[心中なら倉敷で]]|CENTER:裏命|CENTER:2022年7月26日|~|『裏命（CeVIO AI）』のデモソング|
+||CENTER:[[心中なら赤坂で]]|CENTER:可不|CENTER:2022年8月11日|~|音楽的同位体公式チャンネル（KAMITSUBAKI STUDIO）によって、YouTube限定で公開された&br()実験的コンピレーション企画『1/1440 Music（One Minutes Music）』提供曲|
+|CENTER:59|CENTER:[[『わっれっちゃう。』]]|CENTER:可不|CENTER:2022年9月24日|~|『可不（CeVIO AI）』のデモソング|
+|CENTER:60|CENTER:[[心中ならお嬢様部で]]|CENTER:狐子|CENTER:2022年10月24日|~|『狐子（CeVIO AI）』のデモソング|
+|CENTER:61|CENTER:[[BAKU☆NEW結月ゆかり]]|CENTER:結月ゆかり、&br()紲星あかり、Amy、KAITO、Ken、miki、猫村いろは、音街ウナ、&br()可不、狐子、kokone、心華、初音ミク、MEIKO、歌愛ユキ、鏡音レン|CENTER:2023年2月4日|~|『ネタ曲投稿祭2023』参加曲|
+|CENTER:62|CENTER:[[心中なら名画座で]]|CENTER:可不|CENTER:2023年2月18日|~|『可不（CeVIO AI）』のデモソング|
+|CENTER:63|CENTER:[[心中ならピアノが壊れたあとで]]|CENTER:羽累|CENTER:2023年4月9日|~|『羽累（CeVIO AI）』のデモソング|
+|CENTER:64|CENTER:[[心中なら蛇女とお屋敷で]]|CENTER:星界|CENTER:2023年5月26日|~|『星界（CeVIO AI）』のデモソング|
+|CENTER:65|CENTER:[[『ぺろりんちょっ。』]]|CENTER:初音ミク|CENTER:2023年10月14日|~||
+||CENTER:[[4元数のバタフライ]]|CENTER:星界|CENTER:2023年12月31日|~|HELLO OSAKA公式チャンネルによって、YouTube限定で公開された&br()ショートアニメーション『HELLO OSAKA』提供曲|
+|CENTER:66|CENTER:[[五臓六腑にピアス]]|CENTER:重音テト、GUMI|CENTER:2024年2月17日|~||
+|CENTER:67|CENTER:[[かみさまべにうめをせにさかせたる]]|CENTER:重音テト|CENTER:2024年4月1日|~|KARENT主催『重音テト 16th Anniversary』参加曲|
+|CENTER:68|CENTER:[[LaVI-Bavellabion]]|CENTER:GUMI|CENTER:2024年4月20日|~|魔法議論ミステリ×ADVデスゲーム『魔法少女ノ魔女裁判』主題歌のVOCALOID ver.|
+
+・&bold(){作品番号（以下『作番』）は本人から発表されているものではない。未発表であるため、非公式である。}
+・『[[でぶチャラ]]』は、本人のマイリストとは別に分けられていたため、作番としてはカウントをしていない。
+・『[[愛とパンティからさわぎ]]』は、1stフルアルバム『[[スレイブお客様サービスセンター]]』リリース後に、YouTube限定で&s(){[[なんとなく>https://x.com/SLAVE_V_V_R/status/727469006563602432]]}投稿された曲であるが、作番としてカウントをしている。
+・企業等のアカウントから投稿された曲は、作番としてはカウントをしていない。
+#endregion
+
+**CD
+#list_by_tag(SLAVE.V-V-RCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm25141591)|&nicovideo(sm25290390)|
+|&nicovideo(sm25472218)|&nicovideo(sm25807496)|
+|&nicovideo(sm25965029)|&nicovideo(sm26297094)|
+|&nicovideo(sm26624552)|&nicovideo(sm26696755)|
+|&nicovideo(sm27090991)|&nicovideo(sm27273722)|
+|&nicovideo(sm27480002)|&nicovideo(sm28039151)|
+|&nicovideo(sm28158448)|&nicovideo(sm28384523)|
+|&nicovideo(sm28714955)|&nicovideo(sm29078761)|
+|&nicovideo(sm29430864)|&nicovideo(sm29775929)|
+|&nicovideo(sm30030834)|&nicovideo(sm30358718)|
+|&nicovideo(sm30957032)|&nicovideo(sm31295974)|
+|&nicovideo(sm31603465)|&nicovideo(sm32037509)|
+|&nicovideo(sm32197688)|&nicovideo(sm32292831)|
+|&nicovideo(sm32846000)|&nicovideo(sm33026031)|
+|&nicovideo(sm33227550)|&nicovideo(sm33457545)|
+|&nicovideo(sm33542096)|&nicovideo(sm33973147)|
+|&nicovideo(sm34231702)|&youtube(https://www.youtube.com/watch?v=_Xl0jWAkAaU){342,187}|
+|&nicovideo(sm34715080)|&nicovideo(sm35094598)|
+|&nicovideo(sm35377461)|&nicovideo(sm35621548)|
+|&nicovideo(sm36025394)|&nicovideo(sm36240751)|
+|&nicovideo(sm36664254)|&nicovideo(sm37193567)|
+|&nicovideo(sm37365740)|&nicovideo(sm37579362)|
+|&nicovideo(sm37822390)|&nicovideo(sm37942989)|
+|&nicovideo(sm38301641)|&nicovideo(sm38413116)|
+|&nicovideo(sm38495939)|&nicovideo(sm38703794)|
+|&nicovideo(sm39076319)|&nicovideo(sm39744723)|
+|&nicovideo(sm40099331)|&nicovideo(sm40497678)|
+|&nicovideo(sm40612038)|&nicovideo(sm40826466)|
+|&nicovideo(sm41120980)|&nicovideo(sm41275794)|
+|&nicovideo(sm41744025)|&nicovideo(sm41813497)|
+|&nicovideo(sm42058143)|&nicovideo(sm42269726)|
+|&nicovideo(sm42885560)|>|
+//|&nicovideo()|&nicovideo()|
+
+**コメント
+//- 作成ありがとうｗｗｗ  -- 774  (2015-02-15 02:30:44)
+- 毎度毎度なんかタイトルが好きですわ  -- 名無しさん  (2015-03-28 02:19:56)
+- 新曲きたよ  -- 名無しさん  (2015-04-10 19:05:08)
+- 「高速引退P」は非公認ですよ  -- 名無しさん  (2015-04-26 18:24:54)
+- ↑とりあえず消しておきました。  -- 名無しさん  (2015-04-26 19:04:08)
+- すげえ  -- 名無しさん  (2015-04-27 07:20:56)
+- 曲名が面白すぎてワロタwwwwwwwこれからもずーーーーっとずーーーーーっと続けてほしいな！  -- 良太  (2015-07-14 22:21:10)
+- 2ndアルバムである愛と哀しみの戦いが追加されていませんね…  -- 名無しさん  (2017-04-11 19:00:57)
+//- 髱｢逋ｽ縺?ｈ縺ｭ縲４LAVE.V-V-R縺輔ｓ縺｣縺ｦ縲ゆｻ翫ヵ繧｡繝ｳ縺ｧ縺吮擘?  -- 不正直。  (2017-04-23 19:26:52)
+- 新しい曲が入ってませんよ？  -- ルキ  (2017-07-15 23:36:43)
+- 「今宵は彼奴めを拐かし、いざ麗しき闇を燃やさん」のページ追加をお願いします!  -- けん  (2018-04-13 00:03:15)
+- 『貴様の喉に牙を向け、我が賛嘆を呉れてやる。』も追加して欲しいです…！  -- 名無しさん  (2018-04-13 00:10:05)
+- ↑二曲追加しました。  -- 名無しさん  (2018-04-13 06:34:15)
+- ↑追加ありがとうございます！！  -- 名無しさん  (2018-04-13 13:19:00)
+- 「伝説のキャバクラ嬢」の追加をお願い致します。  -- 名無しさん  (2018-10-12 19:46:56)
+- 新曲追加してほしいです…！  -- 名無しさん  (2018-12-12 22:59:47)
+- 「精神変調型女子高生X」の追加をお願いします!  -- けん  (2019-05-29 02:20:51)
+- じゅりきゃばと新曲の追加お願いしますーやり方教えてもらえれば私がやります、誰か教えて  -- 名無しさん  (2019-09-05 09:15:46)
+- [[曲の追加の仕方]]  -- 名無しさん  (2019-09-05 22:14:28)
+- 「情事・色事・ん...こっち」も追加お願いします！  -- 名無しさん  (2020-02-16 11:52:57)
+- めっっっ。かっこよかったです。  -- ペルノ  (2022-10-28 12:07:57)
+- 魔法少女ノ魔女裁判、引退詐欺Pが曲制作してくれて感謝…！世界観がマジであってる！！最高です(´∀｀)  -- おむらいず  (2024-07-06 17:28:45)
+#comment()

@@ -1,0 +1,38 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1866_20160111223421_0280_0280.jpg)
+&nicovideo(http://www.nicovideo.jp/watch/sm28027591)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[妄想Sacrifice]]|CENTER:&bold(){7P's Tracks.JP}|CENTER:-|
+
+|&bold(){[[7P]]}|
+
+発売：2016年2月3日
+価格：￥1,200
+流通：配信
+レーベル：KARENT
+
+**CD紹介
+-7Pの配信アルバム。
+-1stアルバムにして、ベストアルバム。
+-既存曲はアルバム用にMIXが見直され、ボーカル変更、リミックス、また新曲も収録されている。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++[[相対性幸福論]] （feat. KAITO）
++[[シュウマツデート]] （feat. 鏡音レン）
++[[Perpetual Blue]] （feat. 鏡音レン）
++[[Invincible Smile]] （feat. KAITO&鏡音レン）
++[[アンバランス>Imbalance]] （feat. 鏡音レン）
++[[ボクノイルセカイ]] （feat. 鏡音レン）
++[[7=seven=]] （feat. 鏡音レン）
++RLGP （feat. 鏡音レン）
++[[妄想Sacrifice]] ~七MIX~ （feat. KAITO）
++[[春夏秋冬>春夏秋冬/7P]] （feat. KAITO）
+
+**リンク
+-[[KARENT：「7P's Tracks.JP」>>http://karent.jp/album/1866]]
+-[[iTune Store>>http://itunes.apple.com/jp/album/7ps-tracks.jp/id1077598646]]
+
+**コメント
+#comment()

@@ -1,0 +1,33 @@
+#right(){&furigana(らぶろま)&furigana()【登録タグ:&tags() 】}
+
+&ref(https://cdn.store-tsutaya.tsite.jp/images/jacket/06999/4515778501209_1L.jpg)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm14291075)
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){ラブロマ}|CENTER:[[初恋ノート]]|
+
+|&bold(){[[HoneyWorks]]}|
+
+|流通|CENTER:即売|CENTER:イベント物販|CENTER:委託|
+|発売|CENTER:2010年12月31日|CENTER:2011年5月|CENTER:2011年9月|
+|価格|CENTER:￥800|CENTER:￥1,000|CENTER:￥1,050（税込）|
+|サークル|>|>|CENTER:HoneyWorks|
+
+**CD紹介
+-HoneyWorksのCD作品。
+-コミックマーケット79（C79）で頒布。
+-2011年5月のニコニコ本社でのインストアイベント時に販売が行われた。後にアニメイト、TSUTAYAで委託販売が行われていた。
+
+**曲目
++[[泣キ虫カレシ]] / 鏡音レン・初音ミク
++[[スキキライ>スキキライ/HoneyWorks]]（act.2 Version） / 鏡音リン・レンact.2
++[[ロリババアに恋をした]] / 初音ミク
++[[パジャマっ子☆]] / 鏡音リン（レン）
+
+**リンク
+-[[サークルサイト>>http://honeyworks.jp/]]
+-[[ブログ>>http://ameblo.jp/honeyworks828/]]
+-[[TSUTAYA>>http://shop.tsutaya.co.jp/%E3%83%A9%E3%83%96%E3%83%AD%E3%83%9E-HoneyWorks/product-cd-4515778501209/]]
+
+**コメント
+#comment()

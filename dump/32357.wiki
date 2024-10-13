@@ -1,0 +1,60 @@
+#right(){&furigana(Forever16)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm23376673)|
+作詞：[[Metragoon]]
+作曲：[[Metragoon]]
+編曲：[[Metragoon]]
+唄：[[初音ミクV3(Dark、English)>初音ミク]]
+
+**曲紹介
+曲名：『&u(){Forever 16}』(&u(){ふぉーえばー　16})
+-Metragoon氏の4曲目。
+
+**歌詞
+（[[PIAPRO>>http://piapro.jp/t/QXFf]]より転載）
+
+別の年が経ちました
+思い出がたくさん
+だから僕は歌う 嬉しいでしょう...
+
+お時間がかかるください
+ここにいるよ
+一緒に私たちは偉大なチーム
+
+愛と幸せのためにある
+永遠16
+僕はあなたのためにこれを歌う
+永遠16
+
+Another year has passed like another memory
+So much more now
+However, I would be happy to sing this song of yours
+
+Take your time, I'll be here if you need me.
+I'll wait to see what you create
+Together we make a really good team
+Believe in me...
+
+In your heart I will always be
+Forever 16
+For the sake of love and joy I will continue singing your song
+Forever 16
+
+I'll stay this way
+永遠16
+滞在ように
+Forever 16
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+**コメント
+#comment()
+
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)

@@ -1,0 +1,42 @@
+#right(){&furigana(memorabilia)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm27852499)|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){memorabilia}|CENTER:-|
+
+|&bold(){[[ユジー]]}|[[房野聖]]|
+
+||CENTER:即売|CENTER:同人|
+|発売|CENTER:2015年12月31日|CENTER:2016年1月|
+|価格|CENTER:￥1,000|CENTER:￥1,500（税込）|
+
+**CD紹介
+>&bold(){「記憶たちの行き先」}
+CD名：『&u(){memorabilia}』
+-ジャケットアートワーク/[[房野聖]]
+-アルバムクロスフェード/火種
+-コミックマーケット89（C89）で頒布。
+-THREE!で委託販売が行われている。
+
+**曲目
++[[ブラックアウト>ブラックアウト/ユジー]]
++[[ミルククラウン・オン・ソーネチカ]]
++フローリシュコロール
++[[ハーテッド・ドール]]
++[[メロウバースデー・イヴ]]
++[[エキソダス]]
++[[メモリアフラワートーチ]]
++[[シンセリティパルス]]
++0番停車場前「碧の庭」
++ミルククラウン・オン・ソーネチカ jazz arrange(Instrumental)
+
+**リンク
+-[[THREE!>>http://www.lagoa.jp/shop/shopdetail.html?brandcode=000000001936&search=%A5%E6%A5%B8%A1%BC&sort=]]
+
+**コメント
+- 買います  -- 名無しさん  (2016-01-01 10:44:36)
+#comment()

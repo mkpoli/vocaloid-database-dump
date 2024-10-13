@@ -1,0 +1,31 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1691_20150203101905_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[41m]]|CENTER:&bold(){Snow Fairy Story（オーケストラ ver.）}|CENTER:[[だんだん早くなる>だんだん早くなる/CD]]|
+
+|&bold(){[[40㍍P]]}|
+
+発売：2015年2月5日
+価格：￥150
+流通：配信
+レーベル：KARENT
+イラスト：[[たま]]
+
+**CD紹介
+-SNOW MIKU 2015テーマソング「[[Snow Fairy Story]]」のオーケストラアレンジバージョン。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++Snow Fairy Story（オーケストラ ver.） （feat. 初音ミク）
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm25501931)|&youtube(http://www.youtube.com/watch?v=cYVJHgWPxJ0){336,189}|
+
+**リンク
+-[[KARENT：「Snow Fairy Story（オーケストラ ver.）」>>http://karent.jp/album/1691]]
+-[[iTunes Store>>http://itunes.apple.com/jp/album/snow-fairy-story-orchestra/id964087488]]
+
+**コメント
+- おおおおお！！！  -- 良太  (2015-02-05 21:02:47)
+#comment()

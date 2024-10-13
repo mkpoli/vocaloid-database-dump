@@ -1,0 +1,45 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#ref(http://karent.jp/npdca/1622_20141013141919_0280_0280.jpg)
+
+
+&nicovideo(http://www.nicovideo.jp/watch/sm24625280)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Sharing Voice>Sharing Voice/CD]]|CENTER:&bold(){GODDESS}|CENTER:[[CARDINAL RED]]|
+
+|&bold(){[[shu-tP]]}|
+
+発売：2014年11月5日
+価格：￥1,500 / 1曲￥150
+流通：配信
+レーベル：KARENT
+
+**CD紹介
+-shu-tPによるMEIKO 10周年記念アルバム。
+-これまで発表した楽曲のアレンジ版や、MEIKO歌唱版を収録。
+-KARENTレーベルよりダウンロード販売が行われている。KARENTのMEIKO10周年記念企画で配信された作品の1つ。
+
+**曲目
++Cause
++[[Change me]] 2014 （feat. MEIKO）
++[[Next Door>Next Door/shu-tP]] （feat. MEIKO）
++[[GODDESS>GODDESS/shu-tP]] -V3 Version- （feat. MEIKO）
++[[EVERLASTING]] （feat. MEIKO）
++[[AGGRE-MATIC>アグレマティック]] -MEIKO Version- （feat. MEIKO）
++[[GIVEN COURAGE]] 2014 （feat. MEIKO）
++DELETE MEMORY 2
++[[Stay with me>Stay with me/shu-tP]] -Angels Dance RMX- （feat. MEIKO）
++[[Dream Grows]] 2014 （feat. MEIKO）
++[[So Labyrinthine]] 2014 （feat. MEIKO＆初音ミク）
++[[Gentle Wind]] -MEIKO Version- （feat. MEIKO）
++GODDESS -V1 Version- （feat. MEIKO）
++GODDESS -Instrumental mix-
+
+**リンク
+-[[KARENT：「GODDESS」>>http://karent.jp/album/1622]]
+-[[KARENT：「MEIKO記念祭'14」特集ページ>>http://karent.jp/special/meiko14]]
+-[[iTunes Store>>http://itunes.apple.com/jp/album/goddess/id931828227]]
+
+**コメント
+- 曲名が全部英語…  -- 名無しさん  (2017-11-05 19:47:39)
+#comment()

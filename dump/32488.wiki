@@ -1,0 +1,37 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm16789295)
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[火葬曲>火葬曲/CD]]|CENTER:&bold(){Garakuta Tape.}|CENTER:[[水彩スペクトラム]]|
+
+|&bold(){[[No.D]]}|&bold(){上野悠仁}|
+
+||CENTER:即売|CENTER:同人|
+|発売|>|CENTER:2012年2月5日|
+|価格|CENTER:￥1,000|CENTER:￥1,260（税別）|
+|サークル|>|CENTER:我楽多スタジオ|
+
+**CD紹介
+-No.D氏と上野悠仁氏のサークル「我楽多スタジオ」のCDアルバム。
+-THE VOC@LOID M@STER 19（ボーマス19）で頒布。
+-とらのあなで委託販売が行われていた。
+
+**曲目
++Restart（リン・新曲）
++独りぐらしの晩ごはん（キヨテル・新曲）
++[[覚醒の日]](MEIKO)
++帰って寝たい（レン・新曲）
++[[Screen Shot]]（ミク）
++[[地下の呼吸]]（がくぽ）
++[[あなたのおもひで]]（いろは・新曲）
++[[Brilliant EVE]]（キヨテル）
++[[Cinnamon's Cafe]]（ミク）
++風の証（いろは・新曲）
++[[僕らと波の音]](MEIKO)
++さらばトーキョー（ルカ・新曲）
+
+**リンク
+-[[作者ブログ>>http://garakutastudio.blog.so-net.ne.jp/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/02/72/040030027207.html]]
+
+**コメント
+#comment

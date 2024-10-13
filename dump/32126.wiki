@@ -1,0 +1,59 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+|&nicovideo(http://www.nicovideo.jp/watch/sm26595993)|&youtube(https://www.youtube.com/watch?v=FY2Yusx7YhA){342,187}|
+作詞：[[solpie]]
+作曲：[[solpie]]
+編曲：[[solpie]]
+唄：鏡音リン・初音ミク
+
+**曲紹介
+-2015年5月7日に[[PIAPRO>>http://piapro.jp/t/GzSq]]で公開された楽曲。
+-ニコニコ動画では2015年6月29日に公開。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**音楽配信
+&ref(http://karent.jp/npdca/1715_20150511101539_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[映夏午絵]]|CENTER:&bold(){赫娜斯（ホーナス）少女}|CENTER:[[風竹門]]|
+
+|&bold(){[[solpie]]}|
+
+発売：2015年5月27日
+価格：￥150
+流通：配信
+レーベル：[[KARENT>>http://karent.jp/album/1715]]
+ジャケットイラスト：SolPie
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/hanasu-single/id994795406]]}|
+
+***曲目
++赫娜斯（ホーナス）少女 （feat. 初音ミク）
+
+**歌詞
+（[[PIAPRO>>http://piapro.jp/t/GzSq]]より転載）
+
+A1
+房间里回空荡呻吟
+墙上挂 满你的美丽
+没温度的唇印 冻结我的手臂
+なに なに 放してください
+Nya
+你 怀抱中的黑猫
+就快要睡着 蜷缩蟑螂在乱咬
+我 没有送你莲花
+买不起gita 隔壁偷来油画
+B1
+白莲花 在夜色中摇晃 拉伤花瓣
+躲在三楼温暖
+墨滴在窗纱 融化了油画
+残留你的形状 腐烂我的心脏
+B2
+花园旁 坟前邪恶飘荡 血色鲜花
+溅洒右肩的发
+鞋跟的图腾 掩埋兰花香
+划破圆形伤痕 我再为你缝上
+
+
+**コメント
+- よくわからない言葉だけど好き  -- 朱音  (2015-07-10 21:45:12)
+#comment()

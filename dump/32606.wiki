@@ -1,0 +1,28 @@
+#right(){&furigana(すてら)&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1776_20150723165858_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[aster>aster/CD]]|CENTER:&bold(){ステラ}|CENTER:-|
+
+|&bold(){[[骨盤P]]}|
+
+発売：2015年7月31日
+価格：￥150（税込）
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：KEI
+
+**CD紹介
+-骨盤P の配信シングル。
+-[[雪ミク スカイタウン>>http://snowmiku.com/skytown/]]をイメージした楽曲。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++ステラ （feat. 初音ミク）
+
+**リンク
+-[[KARENT：「ステラ」>>http://karent.jp/album/1776]]
+-[[iTunes Store>>https://itunes.apple.com/jp/album/stella-single/id1023243160]]
+
+**コメント
+#comment()

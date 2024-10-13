@@ -1,0 +1,41 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+
+&nicovideo(http://www.nicovideo.jp/watch/sm26078836)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[ガラクタコレクト]]|CENTER:&bold(){grass green}|CENTER:-|
+
+|&bold(){[[脱出型椎間板ヘルニアP]]}|[[真理恵]]|
+
+|流通|CENTER:即売|CENTER:通販|
+|発売|CENTER:2015年4月26日||
+|価格|CENTER:￥1,000（税込）|CENTER:￥1,000|
+|サークル|CENTER:あじっこ（ブース委託）||
+
+**CD紹介
+-脱出型椎間板ヘルニアPの2ndアルバム。
+-先行リリースした「[[disconnect]]」に新曲などを加えた全12曲を収録。
+-ジャケットイラストなどのアートワークは [[真理恵]]氏 が手掛ける。
+-THE VOC@LOiD 超 M@STER 31（超ボーマス4）、歌い手の あじっこ氏 のブースにて委託リリース。
+-通販が行われている。
+
+**曲目
++IBUKI -inst.-
++beautiful
++Rewrite
++Love & Peace
++star light
++togeφtoge
++some day
++MINAMO -inst.-
++ghost
++[[disconnect]]
++last letter
++[[twilight>twilight/脱出型椎間板ヘルニアP]]
+
+**リンク
+-[[Twitter>>http://twitter.com/helnia3]]
+-[[通販>>https://hel-nia.booth.pm/items/96231]]
+
+**コメント
+#comment()

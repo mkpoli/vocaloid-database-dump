@@ -1,0 +1,108 @@
+#right(){&furigana(なんてね)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm25450939)|&youtube(https://www.youtube.com/watch?v=potHmp1Dy-4){342,187}|
+作詞：[[さつき が てんこもり]]
+作曲：[[さつき が てんこもり]]
+編曲：[[さつき が てんこもり]]
+PV：[[音プリン]]
+唄：[[GUMI>Megpoid]]
+
+**曲紹介
+曲名：『&u(){なんてね}』
+-疲れて寝ちゃった陸部GUMIちゃんに、小田急に揺られながら肩を貸したい。そんな曲です。（作者コメ転載）
+//-PVは 音プリン氏 が手掛ける。
+-GUMI生誕5周年企画 「[[HIGH SCHOOL GUMI 2014>>http://gumix.jp/]]」 第3弾楽曲。
+
+**歌詞
+（動画より書き起こし）
+
+ショッキングピンククランベリー
+フィート単位でチョコレートサンデー
+蛇口からリッターでコーク
+キングサイズパンケーキ
+
+空気中の窒素酸素
+今日から全部メープルフレーバー
+バケツいっぱいのプディング
+メガロスピンガムボールマシン
+
+なんてね　なんてね　なんてね
+
+All Ready. It's so Sweetie.
+つい気になる今日の運勢
+There is Sunlight Behind the Clouds.
+前髪バッチリ
+
+All Ready. It's Just Easy.
+迫り来るテストは嫌い
+馴染んで来たシューズに
+願いを込めて
+　
+Ring a Ding Dong.
+動き出した (Oh Yeah All Right.)
+Ring a Ding Dong.
+飛び切りのストーリー
+Ring a Ding Dong.
+作戦通り (Oh Yeah All Right.)
+Ring a Ding Dong.
+見ていてね
+
+ショッキングピンククランベリー
+フィート単位でチョコレートサンデー
+蛇口からリッターでコーク
+キングサイズパンケーキ
+
+空気中の窒素酸素
+今日から全部メープルフレーバー
+バケツいっぱいのプディング
+メガロスピンガムボールマシン
+
+なんてね　なんてね　なんてね
+
+All Ready. It's so Sweetie.
+つい気になる彼の視線
+There is Sunlight Behind the Clouds.
+一歩ずつ前へ
+
+All Ready. It's Just Easy.
+目覚ましアラームは嫌い
+縮めたいタイムと距離
+Going My Way!
+
+Ring a Ding Dong.
+動き出した (Oh Yeah All Right.)
+Ring a Ding Dong.
+飛び切りのストーリー
+Ring a Ding Dong.
+作戦通り (Oh Yeah All Right.)
+Ring a Ding Dong.
+見ていてね
+
+ショッキングピンククランベリー
+フィート単位でチョコレートサンデー
+蛇口からリッターでコーク
+キングサイズパンケーキ
+
+空気中の窒素酸素
+今日から全部メープルフレーバー
+バケツいっぱいのプディング
+メガロスピンガムボールマシン
+
+なんてね (Oh Yeah All Right.)
+なんてね (Oh Yeah All Right.)
+なんてね (Oh Yeah.)
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+**コメント
+- 追加乙！！！  -- 良太  (2015-01-30 09:27:16)
+#comment()
+
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)

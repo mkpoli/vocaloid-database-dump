@@ -1,0 +1,31 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm26668334)
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Spring rain]]|CENTER:&bold(){APOCALYPSE}|CENTER:[[リンのほしたび！！]]|
+
+|&bold(){[[ジェバンニP]]}|[[ラジオ体操P]]|安価さん|
+
+発売：2015年7月12日
+価格：￥1,000
+流通：即売
+サークル：ジェバンニピー
+
+**CD紹介
+-ジェバンニPのCDアルバム。
+-6曲＋1曲おまけ入り。
+-THE VOC@LOiD M@STER 32（ボーマス32）で頒布。
+
+**曲目
++[[うちの妹は世界一可愛い]]
++[[未来夏タイムトラベル・アプリケーション]]
++[[igutema]]
++[[APOCALYPSE]]
++[[オズマ>オ　ズ　マ]]
++[[発明]]
++偉大である脱皮したばかりの夏の一曲
+
+**リンク
+-[[作者ブログ>>http://jvnp.blog60.fc2.com/]]
+
+**コメント
+#comment()

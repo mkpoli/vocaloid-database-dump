@@ -1,0 +1,38 @@
+#right(){&furigana(あのきかかくのかいろうて)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&ref(https://karent.jp/npdca/1706_20150405182845_0280_0280.jpg)
+|&youtube(https://www.youtube.com/watch?v=m340r2cHgi8){342,187}|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[私の世界>私の世界/くちばしP]]|CENTER:&bold(){あの幾何学の回廊で}|CENTER:-|
+
+|&bold(){[[くちばしP]]}|
+
+発売：2015年4月22日
+価格：￥150
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：望月けい
+
+
+**CD紹介
+CD名：『&u(){あの幾何学の回廊で}』（&u(){あのきかがくのかいろうで}）
+-くちばしPの配信シングル。
+-雑誌「[[MIKU-Pack music&artworks feat.初音ミク>>http://miku-pack.jp/]]」11号付録CDにて先行収録された書き下ろし楽曲。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++あの幾何学の回廊で （feat. 初音ミク）
+
+**リンク
+-[[KARENT：「あの幾何学の回廊で」>>https://karent.jp/album/1706]]
+-[[KARENT：「MIKU-Pack」特集ページ>>https://karent.jp/special/mikupack14]]
+-[[iTunes Store>>https://itunes.apple.com/jp/album/in-geometric-corridor-single/id983921798]]
+
+**コメント
+- この曲のさびがすごく好き!  -- マシュマロ  (2015-06-10 00:16:16)
+- 最高  -- 名無しさん  (2016-11-18 19:18:28)
+#comment()

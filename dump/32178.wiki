@@ -1,0 +1,58 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#amazon(B00C55Q7AU)
+
+|&nicovideo(http://www.nicovideo.jp/watch/sm20484110)|&youtube(http://www.youtube.com/watch?v=0R8nquOOShE){342,187}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm21265367)|&youtube(http://www.youtube.com/watch?v=J31qi4hE338){342,187}|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[オメガ]]|CENTER:&bold(){ATOLS/MIKU}|CENTER:[[ATOLS/MIKU 0>ATOLS／MIKU 0]]|
+
+|&bold(){[[ATOLS]]}|
+
+|流通|CENTER:即売|CENTER:委託|CENTER:配信|
+|発売|CENTER:2013年4月27日|CENTER:2013年5月3日|CENTER:2015年9月2日|
+|価格||CENTER:￥1,620（税込）|CENTER:￥2,400 / 1曲￥150|
+|サークル|>|CENTER:ATOLS||
+
+**CD紹介
+-ATOLS氏 のアルバム。
+-VOCALOID楽曲11曲とボーナスインストトラック13曲を収録。
+-THE VOC@LOiD 超 M@STER 24（超ボーマス24）で頒布。
+-Amazon、とらのあなにて委託販売が、KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++[[バベル>バベル/ATOLS]]
++[[エデン]]
++[[ブレス]]
++[[マカロン>マカロン/ATOLS]]
++[[立体音響]]
++[[ワンダラーズ]]
++[[01>01/ATOLS]]
++[[オメガ]]
++オメガ [DUBSTEP REMIX]
++[[呼吸>呼吸/ATOLS]]
++[[ラストシグナル]]
++bonus track
++ADAM
++I (Green)
++Buddhist Drum
++Symmetric Geisha
++The breathed atmosphere
++Neoblast
++come sweet death
++gomeo
++I (better)
++T2~T4
++The last world
++2013
+
+**リンク
+-[[作者Twitter>>http://twitter.com/ATOLSX]]
+-[[Amazon>>http://www.amazon.co.jp/dp/B00C55Q7AU]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/16/58/040030165823.html]]
+-[[KARENT：「ATOLS/MIKU」>>http://karent.jp/album/1792]]
+-[[iTunes Store>>http://itunes.apple.com/jp/album/atols-miku/id1034671543]]
+
+**コメント
+- 追加ありがとう！！！ほしいなぁ  -- 良太  (2015-06-05 00:56:30)
+#comment()

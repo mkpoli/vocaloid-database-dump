@@ -1,0 +1,37 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://satoimo.vocalo.me/image/jb4_jacket.jpg)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm25929937)
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[JewelBox Vol3]]|CENTER:&bold(){JewelBox Vol4}|CENTER:[[JewelBox Vol5]]|
+
+|[[さといも]]|[[薪原あすみ]]|
+
+発売：2015年4月25日
+価格：￥1,200（税込）
+流通：即売
+サークル：La Breeze
+
+**CD紹介
+-さといも（天宝石P）の6thアルバム。
+-2015/4/25開催の「THE VOC@LOiD 超 M@STER 31」で頒布。
+-「Prism Drop」以降の楽曲を始め未公開の新曲、おまけとして３曲のセルフカバー曲を収録。
+-ジャケットイラストをもうり氏が手掛ける。
+
+**曲目
++[[青空のエール]]/結月ゆかり（V4凛/穏）
++そよかぜグラフィティ/GUMI
++[[Prism Drop]]/結月ゆかり（V4純/穏）
++[[夏空ラブストーリー]]/KYO
++[[オトナ・パーティ]]/東北ずん子
++[[Angelic Jewel]]-2014-/KYO
++[[愛のまよいご]]/キヨテル&Lily
++[[月影DanceNight]]/心響
++[[未来へのメロディ]]/結月ゆかり（V4純/凛/穏）
++[[約束の魔法]]-LaBreeze-/GUMI
+
+**リンク
+-[[作者HP>>http://satoimo.vocalo.me/jewelbox4/index.html]]
+
+**コメント
+#comment()

@@ -1,0 +1,54 @@
+#right(){&furigana(ふたりのねがい)&furigana()【登録タグ:&tags() 】}
+#image(http://www.gcmstyle.com/rl_ballad/img/jacket.jpg,width=300,height=300)
+
+
+|&nicovideo(http://www.nicovideo.jp/watch/sm24742388)|&youtube(https://www.youtube.com/watch?v=anSbVUTlNEI){336,189}|
+
+|BGCOLOR(#d98719):COLOR(#FFF):CENTER:&font(b,11pt){　前作　}|BGCOLOR(#d98719):COLOR(#FFF):CENTER:&font(b,11pt){　本作　}|BGCOLOR(#d98719):COLOR(#FFF):CENTER:&font(b,11pt){　次作　}|
+|CENTER:-|CENTER:&b(){ふたりのねがい -RL Ballad Collection-}|CENTER:-|
+
+|&b(){[[アンメルツP]]}|[[曼荼羅P]]|[[スノーノイズP]]|[[パトリチェフ]]|[[キッドP]]|[[残鏡P]]|
+|[[クリスタルP]]|[[ヒダリガワすらっしゅ]]|[[れれれP]]|[[Becky.]]|[[korumi]]|[[ぺぺろんP]]|
+|[[銀銀]]|[[ライブP]]|[[shr]]|[[まなみん]]|[[レタスP]]|[[△○□×]]|
+
+|BGCOLOR(#d98719):COLOR(#FFF):CENTER:&font(b,11pt){　流通　}|BGCOLOR(#d98719):COLOR(#FFF):CENTER:&font(b,11pt){　即売　}|BGCOLOR(#d98719):COLOR(#FFF):CENTER:&font(b,11pt){　同人　}|
+|BGCOLOR(#d98719):COLOR(#FFF):CENTER:&font(b,11pt){　発売　}|CENTER:　2014年11月3日　|CENTER:　　|
+|BGCOLOR(#d98719):COLOR(#FFF):CENTER:&font(b,11pt){　価格　}|CENTER:　￥1,000（税込）　|CENTER:　￥1,300～￥1,400（税抜。価格は書店により異なります）　|
+|BGCOLOR(#d98719):COLOR(#FFF):CENTER:&font(b,11pt){　サークル　}|>|CENTER:　G.C.MRecords　|
+
+**CD紹介
+>&b(){――届けたい、ことばたちがあります。}
+-鏡音リン・レンによるバラードをテーマにした、書き下ろし楽曲集。全13曲を収録。
+-「ねがい」が込められた「ことば」をひとつひとつ大事にしながら、人生の色々な節目で何度も繰り返し聴いたり、ふとしたときに思い出して聴き込める、&br()手にとった方に寄り添うようなアルバムを目指しました。（作者コメ転載）
+-ジャケットイラストを [[△○□×]]氏 が、デザインを 猫凪みさお氏 が、マスタリングを [[Dios/シグナルP>シグナルP]] が手掛ける。
+-鏡音オンリーイベント「鏡音さんぽ！」にて初頒布。書店委託も行われている。
+
+**曲目
+|BGCOLOR(#d98719):COLOR(#FFF):CENTER:&font(b,11pt){　Track　}|BGCOLOR(#d98719):COLOR(#FFF):CENTER:&font(b,11pt){　曲名　}|BGCOLOR(#d98719):COLOR(#FFF):CENTER:&font(b,11pt){　楽曲制作者　}|
+|BGCOLOR(#d98719):COLOR(#FFF):CENTER:&font(b,11pt){ 01 }|BGCOLOR(#f0e68c):COLOR(#000):CENTER:&font(b,11pt){secta -intro-}|BGCOLOR(#f0e68c):COLOR(#000):CENTER:　曼荼羅P　|
+|BGCOLOR(#d98719):COLOR(#FFF):CENTER:&font(b,11pt){ 02 }|BGCOLOR(#f0e68c):COLOR(#000):CENTER:&font(b,11pt){[[心あらず]]}|BGCOLOR(#f0e68c):COLOR(#000):CENTER:　スノーノイズP　|
+|BGCOLOR(#d98719):COLOR(#FFF):CENTER:&font(b,11pt){ 03 }|BGCOLOR(#f0e68c):COLOR(#000):CENTER:&font(b,11pt){OFF}|BGCOLOR(#f0e68c):COLOR(#000):CENTER:　パトリチェフ　|
+|BGCOLOR(#d98719):COLOR(#FFF):CENTER:&font(b,11pt){ 04 }|BGCOLOR(#f0e68c):COLOR(#000):CENTER:&font(b,11pt){陽だまりの場所}|BGCOLOR(#f0e68c):COLOR(#000):CENTER:　キッドP（作詞：残鏡P・編曲：クリスタルP）　|
+|BGCOLOR(#d98719):COLOR(#FFF):CENTER:&font(b,11pt){ 05 }|BGCOLOR(#f0e68c):COLOR(#000):CENTER:&font(b,11pt){まだ、ずっと、聞こえてる}|BGCOLOR(#f0e68c):COLOR(#000):CENTER:　ヒダリガワすらっしゅ　|
+|BGCOLOR(#d98719):COLOR(#FFF):CENTER:&font(b,11pt){ 06 }|BGCOLOR(#f0e68c):COLOR(#000):CENTER:&font(b,11pt){ぼくのしあわせ}|BGCOLOR(#f0e68c):COLOR(#000):CENTER:　れれれP　|
+|BGCOLOR(#d98719):COLOR(#FFF):CENTER:&font(b,11pt){ 07 }|BGCOLOR(#f0e68c):COLOR(#000):CENTER:&font(b,11pt){[[Resonance>Resonance/Becky.・korumi]]}|BGCOLOR(#f0e68c):COLOR(#000):CENTER:　Becky Pop Sound Reserch.（作詞：korumi・調声：アンメルツP）　|
+|BGCOLOR(#d98719):COLOR(#FFF):CENTER:&font(b,11pt){ 08 }|BGCOLOR(#f0e68c):COLOR(#000):CENTER:&font(b,11pt){冬の予感を終わらせて}|BGCOLOR(#f0e68c):COLOR(#000):CENTER:　ぺぺろんP　|
+|BGCOLOR(#d98719):COLOR(#FFF):CENTER:&font(b,11pt){ 09 }|BGCOLOR(#f0e68c):COLOR(#000):CENTER:&font(b,11pt){ホワイトアウト}|BGCOLOR(#f0e68c):COLOR(#000):CENTER:　銀銀　|
+|BGCOLOR(#d98719):COLOR(#FFF):CENTER:&font(b,11pt){ 10 }|BGCOLOR(#f0e68c):COLOR(#000):CENTER:&font(b,11pt){エイトアタック}|BGCOLOR(#f0e68c):COLOR(#000):CENTER:　ライブP　|
+|BGCOLOR(#d98719):COLOR(#FFF):CENTER:&font(b,11pt){ 11 }|BGCOLOR(#f0e68c):COLOR(#000):CENTER:&font(b,11pt){[[有り明]]}|BGCOLOR(#f0e68c):COLOR(#000):CENTER:　shr　|
+|BGCOLOR(#d98719):COLOR(#FFF):CENTER:&font(b,11pt){ 12 }|BGCOLOR(#f0e68c):COLOR(#000):CENTER:&font(b,11pt){[[泣き虫夢見人]]}|BGCOLOR(#f0e68c):COLOR(#000):CENTER:　アンメルツP（作詞：まなみん）　|
+|BGCOLOR(#d98719):COLOR(#FFF):CENTER:&font(b,11pt){ 13 }|BGCOLOR(#f0e68c):COLOR(#000):CENTER:&font(b,11pt){[[あの日の嘘と本当の涙]]}|BGCOLOR(#f0e68c):COLOR(#000):CENTER:　レタスP　|
+
+**リンク
+-[[特設サイト>>http://www.gcmstyle.com/rl_ballad/]]
+
+**コメント
+- 発売楽しみ  -- 名無しさん  (2014-10-13 09:41:08)
+- 参加してるPさんが豪華！  -- 名無しさん  (2014-10-14 16:07:29)
+- 予約した！  -- 名無しさん  (2014-10-26 13:55:51)
+- shrさんの曲がついにＣＤに…！！ついうるっときてしまいました… ほかも、好きなボカロＰさんばかりなので、すごく楽しみです。  -- 真莉  (2014-10-29 18:46:00)
+- バラードだからゆったり聞けて良かった　こういうの好きだな・・・ボカロＰさんも良い人ばっかりだ・・・  -- 名無しさん  (2014-11-17 20:19:30)
+- 素敵なコンセプトのＣＤだと思います。何よりｓｈｒさんの曲が入っていることが嬉しいです。  -- 名無しさん  (2014-11-19 18:26:31)
+- shrさんの曲だ(T_T)嬉しいです…！  -- てろみゆ  (2015-01-09 17:06:16)
+- このアルバム大好き  -- 名無しさん  (2018-06-15 20:27:42)
+#comment()

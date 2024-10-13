@@ -1,0 +1,61 @@
+#right(){&furigana(めくまれこーと)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/47831597" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/47831597">【ニコニコ動画】</a></iframe>)|
+
+**特徴
+作り手名：『&u(){メグマレコード}』
+-VOCALOIDオリジナル曲を中心に楽曲制作を行う、ポップロック主体の同人音楽サークル。
+-メンバーは&bold(){阿佐ヶ谷}、&bold(){英吉利}。
+-2013年11月、「[[メグマレ]]」にてボカロPデビュー。&br()THE VOC@LOiD M@STER27にて発表された。
+--2014年11月、初のボカロオリジナル動画作品となる「[[ユニバース]]」をニコニコ動画へ投稿。
+-使用合成音声は[[初音ミク]]、[[GUMI>megpoid]]。
+-2013年9月、活動開始。
+-2014年8月に発表された3rdSingle『univese』から、サポートメンバーとして&bold(){英吉利}が加わった。
+
+***メンバー詳細
+（[[公式サイト>>http://megumarecords-official-website.webnode.jp/biography/]]より転載）
+>&bold(){阿佐ヶ谷}
+>作詞、作曲、ギター、ベース、その他諸々担当。
+>メグマレコードの中心の人。阿佐ヶ谷には住んでいない。
+
+>&bold(){英吉利}
+>ギター、ベース、シンセサイザー、ミキシング等を主に担当。
+>メグマレコードのブレイン的存在。４年間イギリスに住んでいた。
+
+**リンク
+//-個人HP、PIAPRO、YouTube等ある場合は、ここに。当wiki以外のサイトへリンクを貼る場合は必ず「>>」で別ウインドウでリンクしてください。
+-[[ニコニコ動画>>https://sp.nicovideo.jp/user/44324898]]
+--[[ニコニコミュニティ>>http://com.nicovideo.jp/community/co2680999]]
+-[[YouTube>>http://www.youtube.com/channel/UCOGl0eVtk8b30Q7AMOSoWcA]]
+//-[[piapro>>https://piapro.jp/]]
+-[[Twitter>>http://twitter.com/megumarecord]]
+-[[公式サイト>>http://megumarecords-official-website.webnode.jp/]]
+-[[Facebook>>http://www.facebook.com/megumarecord]]
+-[[通販（BOOTH）>>http://megumarecord.booth.pm/]]
+//-[[メグマレコードのブログ>>http://ch.nicovideo.jp/megumarecord]]
+
+**曲
+#list_by_tag(メグマレコード,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(メグマレコードCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm24904065)|&nicovideo(sm25587945)|
+|&nicovideo(sm25995199)|&nicovideo(sm26859710)|
+|&nicovideo(sm27913400)||
+
+**関連タグ内の更新履歴
+#region(close,関連タグ内の更新履歴)
+関連タグ内の更新履歴
+※「メグマレコード」「メグマレコードCD」タグ内で最近編集やコメントのあった記事を新しい方から10件表示しています。
+#list_by_tagsearch(メグマレコード,メグマレコードCD,sort=timestamp,sort2=desc,errmsg=まだ曲、CDが登録されていません。,or,10)
+#endregion
+
+**コメント
+- 編集履歴的に自貼りさんっぽい  -- 名無しさん  (2015-04-11 04:19:19)
+//- 遅くなったけどページ作成乙です！  -- 名無しさん  (2015-05-05 17:10:31)
+#comment()

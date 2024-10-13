@@ -1,0 +1,39 @@
+#right(){&furigana(はいいろぜんそうきょく)&furigana()【登録タグ:&tags() 】}
+
+&ref(http://blog-imgs-38.fc2.com/i/n/t/introid/2012030722540656a.jpg,x=300,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm17253123)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Introduce My Love]]|CENTER:&bold(){灰色前奏曲}|CENTER:[[涙色前奏曲]]|
+
+|&bold(){[[イントロP]]}|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2012年3月25日||
+|価格|CENTER:￥1,000|CENTER:￥1,000（税別）|
+|サークル|>|CENTER:灰色前奏曲|
+
+**CD紹介
+-イントロPのオリジナルCD。
+-ジャケットイラストはそろ氏。
+-VOCALOID PARADISE 関西（ボーパラ関西）で頒布。
+-とらのあなで委託販売が行われていた。
+
+**曲目
++Introduction ―灰色前奏曲―　（feat. 初音ミク）
++かえりつく詩　（feat. 初音ミク、Megpoid、巡音ルカ、KAITO）
++[[郷しのび]]　（feat. 巡音ルカ）
++[[因幡の白兎]] ―Band Edition―　（feat. 初音ミク、KAITO）
++Reverb　（feat. Megpoid）
++[[Cocktail and Lovers' Night]]　（feat. 巡音ルカ、KAITO）
++[[最後の夜明け]]　（feat. KAITO）
++眠れぬ君への子守唄　（feat. Megpoid、KAITO）
+
+**リンク
+//-[[作者ブログ>>http://introid.blog6.fc2.com/]]
+-[[作者ブログ>>http://introid.blog6.fc2.com/blog-date-201203.html]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/03/57/040030035711.html]]
+
+**コメント
+#comment()

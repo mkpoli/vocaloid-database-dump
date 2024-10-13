@@ -1,0 +1,39 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/modpub/images/cd/jkt07.jpg)
+
+&youtube(http://www.youtube.com/watch?v=84hSbRCf0gY){336,189}
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[KARENT presents スカイライトシアター feat. 初音ミク]]|CENTER:&bold(){KARENT presents 銀雪のアリア feat. 初音ミク}|CENTER:[[KARENT presents Hopeful Snow feat. 初音ミク]]|
+
+|[[Mitchie M]]|[[buzzG]]|[[もふ＠]]|[[氷夢P]]|[[はりー]]|[[ROOM841]]|[[まらしぃ]]|
+
+|流通|CENTER:限定販売|CENTER:配信|
+|発売|CENTER:2014年2月5日|CENTER:2018年6月1日|
+|価格|CENTER:￥1,500（税込）||
+|レーベル|>|CENTER:KARENT|
+
+**CD紹介
+>&bold(){雪がもっときらめく魔法、かけてあげる。}
+-KARENTレーベルのコンセプトコンピレーションCD第7弾。
+-氷点下、大地が白く包まれる季節に合わせて綴られた7曲入り魔導書仕立ての限定生産アルバム。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++[[好き！雪！本気マジック]] ⁄ Mitchie M feat. 初音ミク
++[[Yeti]] ⁄ buzzG feat. 初音ミク
++[[添い遂げたアンドロイドへ]] ⁄ Tinkle-POP feat. 初音ミク
++[[銀色ハイウェイ(-12℃)>銀色ハイウェイ]] ⁄ お家 feat. 初音ミク
++[[雪の日とラブソング]] ⁄ Harry（はりーP） feat. 初音ミク
++[[夜のまぼろし]] ⁄ ROOM841 feat. 初音ミク
++[[星のカケラ>星のカケラ/平沢栄司]] Piano ver. ⁄ Arranged by まらしぃ　The Original: 平沢栄司 ＜Bonus Track＞
+
+**リンク
+-[[KARENTレーベル CD紹介ページ>>http://karent.jp/cd/7]]
+-[[SNOW MIKU 2014公式サイト>>http://piapro.net/snowmiku2014/]]
+-[[KARENT：「銀雪のアリア」>>http://karent.jp/album/2227]]
+-[[iTunes Store>>http://itunes.apple.com/jp/album/aria-of-the-silvery-snow/1391013915]]
+
+**コメント
+- KARENTのCDの中で一番好き  -- 名無しさん  (2015-02-08 19:53:02)
+#comment()

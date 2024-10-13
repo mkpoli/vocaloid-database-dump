@@ -1,0 +1,34 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1852_20151129155902_0280_0280.jpg)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm27766253)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[garnet]]|CENTER:&bold(){amethyst}|CENTER:-|
+
+|&bold(){[[narry]]}|
+
+発売：2015年12月21日
+価格：￥600
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：[[壁Neko>>http://piapro.jp/aw344419]]
+
+**CD紹介
+-narry氏の配信アルバム。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++acroite （feat. 初音ミク）
++amazonite （feat. 初音ミク）
++iolite （feat. 初音ミク）
++[[sugilite]] （feat. 初音ミク）
++[[apatite]] （feat. 初音ミク）
++amethyst （feat. 初音ミク）
+
+**リンク
+-[[KARENT：「amethyst」>>http://karent.jp/album/1852]]
+-[[iTunes Store>>http://itunes.apple.com/jp/album/amethyst-ep/id1065385957]]
+
+**コメント
+#comment()

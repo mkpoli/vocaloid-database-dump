@@ -1,0 +1,96 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+
+#amazon(B019X9LOUS)
+
+|&nicovideo(http://www.nicovideo.jp/watch/sm27480973)|&youtube(http://www.youtube.com/watch?v=mYoA5i1fCXg){342,187}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm27724038)|&youtube(http://www.youtube.com/watch?v=XYd9XyCrKQc){342,187}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm27853182)|&youtube(http://www.youtube.com/watch?v=eZdRg4ISOP4){342,187}|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[FAIRYTALES -Geschichte von Inferno- (Lite Edition)]]|CENTER:&bold(){FAIRYTALES -Geschichte von Inferno-}|CENTER:[[ANTHEMS -Ultra Best of Xenon-P-]]|
+
+|&bold(){[[SHO（キセノンP）]]}|
+
+|流通|CENTER:即売|CENTER:委託|CENTER:配信|
+|発売|CENTER:2015年12月31日|CENTER:2015年1月13日|CENTER:2015年1月13日|
+|価格|CENTER:￥2,000|CENTER:￥3,024（税込）|CENTER:￥1,200 / 1曲￥150|
+|サークル|>|CENTER:XM -Xenon Maiden-||
+
+**CD紹介
+-キセノンPの「グリム童話」をテーマにしたコンセプト・アルバム『FAIRYTALES』の完全盤。
+-人間の心で怪しく蠢くカオスを、ボカロも歌いそして喋る! 
+-[[先行盤>FAIRYTALES -Geschichte von Inferno- (Lite Edition)]]に収録の楽曲も、全て別音源にて収録。
+-若本規夫、白石稔、堀川千華など、17名を数える豪華声優陣が参加。さらに生々しくその世界観を浮き立たせる。
+-11名のVOCALOID達も「声優」としても参加。トークロイドを Louis Attmar氏 、バンシー＠北海ロイドP氏 が手掛ける。
+-コミックマーケット89（C89）にて頒布。
+-KARENTレーベルよりダウンロード販売が行われている。こちらはDisc1収録曲に1曲を加えた15曲を収録。
+
+**曲目
+***CD版
+****Disc1
++Durch den dunklen Wald～暗い森を抜けて
++Ouvertüre～序曲
++Willkommen in Märchen～お伽話へようこそ
++Geschichte 1: Hänsel und Gretel～第1話：ヘンゼルとグレーテル
++Geschichte 2: Frau Trude～第2話：トゥルーデおばさん
++Geschichte 3: Schneeweißchen～第3話：白雪姫
++[[Geschichte 4: Rotkäppchen～第4話：赤ずきん>Rotkäppchen]]
++Geschichte 5: Blaubart～第5話：青髭
++Geschichte 6: Die Gänsemagd～第6話：がちょう番の娘
++Geschichte 7: Der gestiefelte Kater～第7話：長靴を履いた猫
++Geschichte 8: Das eigensinnige Kind～第8話：わがままな子供
++Geschichte 9: Aschenputtel～第9話：灰かぶり（シンデレラ）
++Erwacht aus dem Alptraum～悪夢からの目覚め
++Das Ende～終劇
+
+****Disc2
++CAUTION!
++Apropos Marchen
++Kommentar von Xenon-P
++Kommentar von Morita Akinori
++Kommentar von Maruyama Eleki
++Kommentar von Abe Ayaka
++Kommentar von Nekoshima Airu
++Kommentar von Nakamura Saaya
++Kommentar von Nakamura Sachiko
++Kommentar von Yuzuri Ai
++Kommentar von LUY
++Kommentar von Aoyama Bungo
++Kommentar von Kagari Yuga
++Kommentar von Yukita Masashi
++Kommentar von Saikyo Mamoru
++Kommentar von Yoshida Shiki
++Kommentar von Shiraishi Minoru
++Kommentar von Wakamato Norio
++Kommentar von Neechansan
++Kommentar von Kurousagi Uru
++Kommentar von Horikawa Chika
++Geschichte 10: Die Sterntaler
+
+***配信版
++Durch den dunklen Wald
++Ouvertüre
++Willkommen in Märchen （feat. SHO Xenon-P，黒兎ウル，堀川千華）
++Geschichte 1: Hänsel und Gretel （feat. 鏡音リン＆鏡音レン）
++Geschichte 2: Frau Trude （feat. 結月ゆかり）
++Geschichte 3: Schneeweißchen （feat. メグッポイド）
++[[Geschichte 4: Rotkäppchen>Rotkäppchen]] （feat. 初音ミク）
++Geschichte 5: Blaubart （feat. MEIKO＆KAITO）
++Geschichte 6: Die Gänsemagd （feat. 猫村いろは）
++Geschichte 7: Der gestiefelte Kater （feat. CUL，姉ちゃんさん）
++Geschichte 8: Das eigensinnige Kind （feat. v Flower）
++Geschichte 9: Aschenputtel （feat. 巡音ルカ）
++Erwacht aus dem Alptraum （feat. 黒兎ウル，SHO Xenon-P）
++Das Ende
++Geschichte 10: Die Sterntaler -Demo Version- （feat. 初音ミク）
+
+**リンク
+-[[作者サイト>>http://www.xenonmaiden.com/#!fairytales/xpc8o]]
+-[[amazon>>http://www.amazon.co.jp/dp/B019X9LOUS]]
+-[[KARENT：「FAIRYTALES -Geschichte von Inferno-」>>http://karent.jp/album/1858]]
+-[[iTunes Store>>http://itunes.apple.com/jp/album/fairytales-geschichte-von/id1070845301]]
+
+**コメント
+- え、これすごい。  -- 名無しさん  (2015-12-31 16:37:28)
+- 本当だ、特にわがままな子供が気になる  -- 名無しさん  (2015-12-31 19:33:42)
+#comment()

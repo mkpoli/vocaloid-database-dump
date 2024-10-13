@@ -1,0 +1,65 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+
+&ref(http://karent.jp/npdca/1670_20141224184135_0280_0280.jpg)
+
+|&nicovideo(http://www.nicovideo.jp/watch/sm25153068)|&youtube(https://www.youtube.com/watch?v=_00CnvyZ8NQ)|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[THIRDHANDED -Recycled Trash-]]|CENTER:&bold(){REBIRTH -Return of Phoenix-}|CENTER:[[FAIRYTALES -Geschichte von Inferno- (Lite Edition)]]|
+
+|&bold(){[[SHO（キセノンP）]]}|
+
+|流通|CENTER:即売|CENTER:同人|CENTER:配信|
+|発売|CENTER:2014年12月30日||CENTER:2015年1月19日|
+|価格|CENTER:￥1,000|CENTER:￥1,550（税別）|CENTER:￥1,500 / 1曲￥150|
+|サークル|>|CENTER:XM -Xenon Maiden-||
+
+**CD紹介
+>&bold(){憧れはやがて、夢見た宇宙をもその手に掴む。}
+-キセノンP率いるXM -Xenon Maiden-の6枚目のフルアルバムは、宇宙への夢と憧れを描くコンセプトアルバム。
+-マスタリングを [[Tom>酒言実行P]]氏 が、イラスト・デザインを [[雪月佳]]氏 、[[佳奈]]氏 、クロノ氏 が手掛ける。
+-コミックマーケット87（C87）にて頒布。
+-Amazonやとらのあななどで委託販売が行われている。
+-KATRENTレーベルよりダウンロード販売が行われている。CD版とは一部の収録曲が異なっている。
+
+**曲目
+***CD版
++[[SPRITE]] / HATSUNE MIKU
++STARLIGHT CHILDREN / KAGAMINE RIN
++MORNING SUN / KAGAMINE LEN
++FIGHTER / HATSUNE MIKU
++VOYAGER / HATSUNE MIKU
++SPACE STORK -KOUNOTORI- / HATSUNE MIKU
++APOLLO / HATSUNE MIKU
++CHALLENGER / GUMI
++ROCKET☆RIDE -NAGAREBOSHI EDITION- (BONUS TRACK) / HATSUNE MIKU
++[[ETERNAL WANDERING]] / MEGURINE LUKA
++BLACK DWARF / YUZUKI YUKARI
++NOZOMI / HATSUNE MIKU
++[[HAYABUSA II -REBIRTH OF PHOENIX-]] / HATSUNE MIKU
+
+***配信版
++SPRITE (feat. 初音ミク)
++STARLIGHT CHILDREN (feat. 鏡音リン)
++MORNING SUN (feat. 鏡音レン)
++FIGHTER (feat. 初音ミク)
++VOYAGER (feat. 初音ミク)
++SPACE STORK ～ KOUNOTORI (feat. 初音ミク)
++APOLLO (feat. 初音ミク)
++CHALLENGER (feat. メグッポイド)
++ETERNAL WANDERING (feat. 巡音ルカ)
++FOREVER DOWNFALL (feat. CUL)
++BLACK DWARF (feat. 結月ゆかり)
++NOZOMI (feat. 初音ミク)
++HAYABUSA II -Rebirth of Phoenix- (feat. 初音ミク＆鏡音リン＆鏡音レン＆巡音ルカ＆メグッポイド＆CUL＆結月ゆかり)
++HAYABUSA II -Rebirth of Phoenix- (Single Mix)  (feat. 初音ミク＆鏡音リン＆鏡音レン＆巡音ルカ＆メグッポイド＆CUL＆結月ゆかり)
++HAYABUSA II -Rebirth of Phoenix- (Original Karaoke)
+
+**リンク
+-[[特設サイト>>http://rebirthxm.tumblr.com/]]
+-[[amazon>>http://www.amazon.co.jp/gp/product/ASIN/B00RGMNE1W]]
+-[[KARENT：「REBIRTH -Return of Phoenix-」>>http://karent.jp/album/1670]]
+-[[iTune Store>>https://itunes.apple.com/jp/album/rebirth-return-of-phoenix/id956732310]]
+
+**コメント
+#comment()

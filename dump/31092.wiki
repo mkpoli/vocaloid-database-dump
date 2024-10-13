@@ -1,0 +1,28 @@
+#right(){&furigana(きょくたんP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://ext.nicovideo.jp/thumb_mylist/24692477" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/24692477">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-2011年3月30日投稿の「[[Before↑Dawn]]」が処女作。
+-使用ボカロは9割が鏡音レン。
+-明るい曲を聴くと病み、暗い曲を聴くと元気になるちょっと変わった感性のせいか暗い雰囲気の楽曲が多い。
+-dwango×KADOKAWA×グループSNE共同制作　[[3D小説『bell』>>http://3dnovel.jp/]]　のテーマソング、少年ヒーローの作曲者。
+
+**リンク
+-[[Twitter>>https://twitter.com/Piri_dm_]]
+-[[ブロマガ>>http://ch.nicovideo.jp/kyokutanP]]
+
+**曲
+#list_by_tag(極端P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(極端PCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+（本人推奨の4曲記載）
+|&nicovideo(http://www.nicovideo.jp/watch/sm20765287)|&nicovideo(http://www.nicovideo.jp/watch/sm21344299)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm24108288)|&nicovideo(http://www.nicovideo.jp/watch/sm25205229)|
+
+
+**コメント
+- ページ名などいろいろ直しました。ページ作った方、wiki掲載曲やCDを表示させるプラグインは消さないでください。  -- 名無しさん  (2015-01-01 03:44:18)
+#comment()

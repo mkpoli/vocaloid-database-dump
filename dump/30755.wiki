@@ -1,0 +1,38 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#amazon(B00CE427RO)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Slow>Slow/CD]]|CENTER:&bold(){epitaph}|CENTER:PLAY|
+
+|&bold(){[[宮沢もよよ]]}|&bold(){[[村上くるる]]}|[[Q flavor]]|[[Wonderlandica]]|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|2013年4月29日|2013年5月6日|
+|価格|CENTER:￥1,000|CENTER:￥1,500|
+|サークル|>|CENTER:QUADROPHENIA|
+
+**CD紹介
+-4人組のクリエイティブユニット 「QUADROPHENIA」 の4thアルバム。『epitaph』とは墓碑のこと。
+-不思議な花と古代の墓石を巡る一人の少女とロボットの旅をテーマに制作されている。
+-ゲストで Wonderlandica氏、Q flavor氏 が参加。
+-ジャケットイラストを あさぎり氏 が手掛ける。
+-2013年4月29日開催の M3 にて頒布。
+-Amazonにて委託販売が行われている。
+
+**曲目
++The Sound of Ruins / 村上くるる
++Password / Q flavor
++Desert / 宮沢もよよ
++[[祝祭と流転]] / 宮沢もよよ
++Memento / 宮沢もよよ
++Maple / 宮沢もよよ
++Outward / Wonderlandica
++アニマ / 村上くるる
+
+**リンク
+-[[特設サイト>>http://quadrophenia.cc/works/epitaph/]]
+-[[Amazon>>http://www.amazon.co.jp/dp/B00CE427RO/]]
+
+**コメント
+- このアルバムもBandcampで配信してほしい（切実）  -- 名無しさん  (2015-02-01 14:48:15)
+#comment()

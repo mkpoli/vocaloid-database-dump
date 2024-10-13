@@ -1,0 +1,29 @@
+#right(){&furigana(しふるはてぃむ)&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1684_20150116232246_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[深紅に染まれよ]]|CENTER:&bold(){零の指輪 -シフル・ハティム-}|CENTER:[[白梅の花に想う]]|
+
+|&bold(){[[As'257G]]}|水無月龍那|
+
+発売：2015年2月13日
+価格：￥150
+流通：配信
+レーベル：KARENT
+ジャケット：As'257G
+
+**CD紹介
+-Sound Team Layer-0のAs'257G氏の配信シングル。
+-KARENTレーベルのKAITO9周年記念特集で配信された作品の1つ。
+
+**曲目
++零の指輪 -シフル・ハティム- （feat. KAITO）
+
+**リンク
+-[[サークルサイト>>http://layer-0.shillest.net/]]
+-[[KARENT：「零の指輪 -シフル・ハティム-」>>http://karent.jp/album/1684]]
+-[[KARENT：「KAITO誕生祭'15」特集ページ>>http://karent.jp/special/kaito15]]
+-[[iTunes Store>>https://itunes.apple.com/jp/album/ring-of-zero-single/id961549001]]
+
+**コメント
+#comment()

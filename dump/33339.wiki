@@ -1,0 +1,78 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+|&youtube(http://www.youtube.com/watch?v=Bt_z35skik4)|&nicovideo(http://www.nicovideo.jp/watch/sm27558049)|
+作詞：[[solpie]]
+作曲：[[solpie]]
+編曲：[[solpie]]
+唄：初音ミク
+
+**曲紹介
+-PIAPROで公開された楽曲。2015年10月15日投稿。
+-2015年11月8日にYouTubeで、同年11月10日にニコニコ動画でも公開。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**音楽配信
+&ref(http://karent.jp/npdca/1809_20151015181252_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[風竹門]]|CENTER:&bold(){白郁琅}|CENTER:[[第三場暴風雨]]|
+
+|&bold(){[[solpie]]}|
+
+発売：2015年11月4日
+価格：￥150
+流通：配信
+レーベル：[[KARENT>>http://karent.jp/album/1809]]
+ジャケットイラスト：SolPie
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/the-white-silk-single/id1050945997]]}|
+
+***曲目
++白郁琅 （feat. 初音ミク）
+
+**歌詞
+（[[PIAPRO>>http://piapro.jp/t/vj7f]]より転載）
+
+A1
+晕崖 夕阳已微
+窗花偷月 正西北
+皱柳叶眉怨对
+铜镜 空杯
+薰沉水 你的美~~~
+
+A2
+云~彩月追 起~手来回
+影里灯堆恨成悔
+雁~南飞 骤~雨悲
+伞落清脆
+桥边上等谁
+
+B1
+绮罗纱~ 胭脂姹啊啊~
+繁~花~啊 天上人家
+虚设景秀良~辰~美~酒
+轻拢~慢~捻
+哀~唉~哎~
+C1
+锦瑟多
+宫雅喧闹 翩起舞蹈
+羞~把 眉~转~笑我 如何~是好
+惊鸿萦风飘 霓裳后六幺
+啊啊啊 西楼挽月照
+
+C2
+耳语说
+暮暮朝朝 不觉昏晓
+绣~花 鸳~鸯~戏水 你可~知道
+难掩苦中笑 满忧愁怀抱
+啊啊啊 怨恨两相好
+
+D1
+暮暮朝朝 朝朝暮暮
+绣花弄剪 枕~难熬
+戏~水鸳鸯鸳鸯戏~水
+轻拢~慢~捻
+哀~唉~哎~
+
+
+**コメント
+#comment()

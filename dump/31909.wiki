@@ -1,0 +1,44 @@
+#right(){&furigana(あめあかり) &furigana()【登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186135492.jpg,x=300,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm26045604)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){あめあかり}|CENTER:-|
+
+|&bold(){[[なぎ]]}|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2015年4月25日||
+|価格|CENTER:￥1,000（税込）|CENTER:￥1,389（税別）|
+|サークル|>|CENTER:あめあかり|
+
+**CD紹介
+-なぎ氏 の1stアルバム。
+-これまでにリリースした既存曲からの選りすぐりに新曲を加えた全10曲を収録。
+-6曲目の「止まない雨に花束を」では、歌い手の nayuta氏 をゲストボーカルとして迎えている。
+-ジャケットイラストなどのアートワークは さちこ氏 が手掛ける。
+-THE VOC@LOiD 超 M@STER 31（超ボーマス31）にてリリース。
+-とらのあなで委託販売が行われている。
+
+**曲目
++[[コトノハレイン]]
++[[Mirage>Mirage/なぎ]]
++[[感傷リフレクト]]
++Linaria
++[[ユキ]]
++止まない雨に花束を feat. nayuta
++[[箒星の降る夜に]]
++[[独りぼっちユートピア]]
++[[clock work]]
++[[あめあかり]]
+
+**リンク
+-[[Twitter>>https://twitter.com/Nagi_aoi]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/30/22/040030302280.html]]
+
+**コメント
+- 大好き！  -- 良太  (2015-08-03 17:04:49)
+- 完成度の高い1枚。粒ぞろいの名盤です。  -- takoruka2  (2016-03-13 17:52:27)
+#comment

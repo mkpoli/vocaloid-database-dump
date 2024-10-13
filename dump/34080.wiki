@@ -1,0 +1,39 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+
+&nicovideo(sm21533316)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[AREPK]]|CENTER:&bold(){escapist and realist}|CENTER:[[changed man]]|
+
+|&bold(){[[baker]]}|[[なぎみそ]]|[[パイパンP]]|[[Dixie Flatline]]|
+
+|CENTER:発売|>|CENTER:2013年08月12日|
+|CENTER:価格|CENTER:￥1000（税込）|CENTER:￥1512（税込）|
+|CENTER:流通|CENTER:即売|CENTER:同人|
+|CENTER:サークル|>|CENTER:zdbn records|
+
+**CD紹介
+-baker二年振りの新作CD。&br()ポップス中心の6曲で構成されたミニアルバムに4曲のボーナストラック、&br()更にざにお氏、Dixie Flatline氏によるゲストトラック2曲を加えた全12曲。
+-ボーカルは全て初音ミクDark。（ゲストトラックを除く）
+-アルパカシリーズの新作もあります。
+
+**曲目
++escapist
++[[君が君が]]
++[[明日になればまた続く]]
++拒否権
++残されると言う事
++realist
++奪い想うフタリ
++Intimidation
++drama
++神が我々に与えた大いなる試練
++君が君が (zanio reprize) / ざにお
++旅人のうた -old school mix- / Dixie Flatline feat. はるよ
+
+**リンク
+-[[Amazon>>http://www.amazon.co.jp/escapist-realist-baker/dp/B00EZ3Y1TY/]]
+
+**コメント
+- 編集乙です。  -- 名無しさん  (2016-03-09 01:31:58)
+#comment()

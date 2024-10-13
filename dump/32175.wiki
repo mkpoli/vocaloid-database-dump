@@ -1,0 +1,40 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm26064229)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[バスター！]]|CENTER:&bold(){Astronaut Symphony}|CENTER:-|
+
+|&bold(){[[一億円P]]}|[[赤髪]]|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2015年4月25日||
+|価格|CENTER:￥1,000|CENTER:￥1,563（税別）|
+|サークル|>|CENTER:STAR NiNE|
+
+**CD紹介
+-dezzy（一億円P）氏の2ndアルバム。
+-Artwork Produce：依存、Vo.：misha（英雄）、Pigg、Player：nodoka、[[赤い彗星P]]、KURUMIX、MZC、Remixer：[[赤髪]]（イケメン）
+-THE VOC@LOiD 超 M@STER 31（超ボーマス31）で頒布。
+-とらのあな、メロンブックスで委託販売が行われている。
+
+**曲目
++Astronaut Symphony(inst.)
++[[Rabbit>Rabbit/一億円P]] / 初音ミク・IA
++[[バスター！]] / 鏡音リン・レン
++星表とパンラッタ（未発表曲） / IA
++[[朝焼けターミナル]] / IA
++1999Hometown(inst.)
++Dr.サニーデイの哲学（未発表曲） / IA
++[[chocolate box]] / 鏡音リン・レン
++[[beautiful world>beautiful world/一億円P]] / 初音ミク
++Night Surf（未発表曲） / SF-A2 miki
++朝焼けターミナル（misha×赤髪 STARS REMIX）
+
+**リンク
+-[[作者ブログ>>http://ameblo.jp/s9dezzy/]]
+-[[サークルサイト>>http://starnine.jp/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/30/54/040030305427.html]]
+-[[メロンブックス>>http://www.melonbooks.co.jp/detail/detail.php?product_id=126329]]
+
+**コメント
+#comment()

@@ -1,0 +1,29 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Yukarecovery]]&br()[[Lock on YUKARIN]]|CENTER:&bold(){Violet Moon}|CENTER:[[Violet Moon+]]|
+
+|&bold(){[[ちょむP]]}|[[海兎]]|おがた|真雪|
+
+発売：2015年12月31日
+価格：￥500
+流通：即売
+サークル：ちょむ工房
+
+**CD紹介
+-ちょむPの20作目となるボーカロイドCD。
+-ちょっとオトナな雰囲気なミドルテンポのロックを描き下ろし３曲収録。全曲VOCALOID4結月ゆかりが歌唱。
+-ジャケットイラストはno10氏。
+-コミックマーケット89（C89）で頒布。
+-委託販売の予定は無し。
+-後に、本作と前作『[[Lock on YUKARIN]]』を一枚にまとめたアルバムが発表された。→『[[Violet Moon+]]』
+
+**曲目
++レイニーブルー
++伝想
++Heart Beats.
+
+**リンク
+-[[作者サイト>>http://chomstudio.com/]]
+
+**コメント
+#comment()

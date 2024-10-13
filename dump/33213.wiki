@@ -1,0 +1,30 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176"src="http://www.nicovideo.jp/thumb_mylist/36811079"scrolling="no" style="border:solid 1px #CCC;"frameborder="0"><a href="36811079">【ニコニコ動画】</a></iframe>)
+
+
+**特徴
+-主にseeUを使った韓国語のオリジナル曲をアップロードしている。
+-ニコニコ動画では日本語の曲を投稿しており、2013年に枕シリーズ1作目「[[てんせんまくら]]」でデビュー。
+-作品は主にアップテンポで可愛らしい曲。
+-使用VOCALOIDはSeeU、初音ミク、UNI。
+
+**リンク
+-[[Twitter>>http://twitter.com/ckr_z3z_zzz]]
+-[[PIAPRO>>http://piapro.jp/ckr_z3z_zzz]]
+-[[YouTube>>http://www.youtube.com/user/z2z3z3z2z]]
+
+**曲
+#list_by_tag(zzZ（まくらP）,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(zzZ（まくらP）CD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm20739854)|&nicovideo(http://www.nicovideo.jp/watch/sm20786623)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm23420669)|&nicovideo(http://www.nicovideo.jp/watch/sm25389815)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm25652632)|&nicovideo(http://www.nicovideo.jp/watch/sm26292528)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm26488932)||
+
+**コメント
+- テクノポップ系やバラード系など、いろいろ得意とするPさんだよね。UNIの公式曲のうちの1曲「Elixir」が制作されたとき、作詞・作曲を担当した人でもあるね。  -- 名無しさん  (2017-08-20 23:18:47)
+#comment()

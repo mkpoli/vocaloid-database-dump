@@ -1,0 +1,38 @@
+#right(){&furigana(めいそうあくせられーた)&furigana()【登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186117554.jpg,x=300,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm16836235)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:[[少女サブリミナル]]&br()&bold(){迷走アクセラレータ}|CENTER:[[ベイカーベイカーパラドクス]]|
+
+|&bold(){[[触媒ファントムガール]]}|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|CENTER:2012年2月5日||
+|価格|CENTER:￥500（税込）|CENTER:￥750（税別）|
+|サークル|>|CENTER:SODAMANIA|
+
+**CD紹介
+-触媒ファントムガール氏 のアルバム。
+-『[[少女サブリミナル]]』と同時発売。
+-全5曲収録。
+-ジャケットイラストは こさK氏 が手掛ける。
+-THE VOC@LOiD M@STER 19（ボーマス19）にて頒布。
+-とらのあなで委託販売が行われていた。
+
+**曲目
++[[アキカゼ症候群]]
++[[気になるあいつは怪獣少年]]
++[[君への歌]]
++[[転校生な君]]
++[[ポーラーロウ]]
+
+**リンク
+-[[Twitter>>http://twitter.com/Phant0m_Girl]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/04/30/040030043096.html]]
+
+**コメント
+- 欲しいです・・・今すぐ欲しいです・・・・・・・・今すぐ欲しいです・・・・・  -- 良太  (2015-07-30 21:23:49)
+#comment()

@@ -1,0 +1,72 @@
+#right(){&furigana()&furigana()【登録タグ:&tags()】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm27198526)||&youtube(https://youtu.be/Sa8A8Y_gqNY?si=SmUPvvckg81zhcO0){342,187}|
+作詞：[[MINO-U]]
+作曲：[[MINO-U]]
+編曲：[[MINO-U]]
+唄：[[MEIKO]] V3
+
+**曲紹介
+-MINO-U氏のVOCALOIDオリジナル2作目。
+-大人っぽく行こうと思ってたら、肉食系女子の曲に・・・。
+-KARENTレーベルよりダウンロード販売が行われている。[[MEIKO11周年記念企画>>http://karent.jp/special/meiko15]]で配信された作品の1つ。
+
+**音楽配信
+&ref(http://karent.jp/npdca/1816_20151019122149_0280_0280.jpg)
+
+|CENTER:前作|CENTER:今作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Take Me Away}|CENTER:-|
+
+流通：配信
+発売：2015年11月5日
+価格：￥150
+レーベル：[[KARENT>>http://karent.jp/album/1816]]
+ジャケットイラスト：[[何色>>http://piapro.jp/e20051109]]
+
+|&bold(){[[iTunes Storeで購入>>http://itunes.apple.com/jp/album/take-me-away-single/id1054838525]]}|
+
+***曲目
++Take Me Away （feat. MEIKO）
+
+**歌詞
+（動画より書き起こし）
+
+ネオンが煌くこの街で
+世相がどうとか言ってる
+変われないのは　あなたのせいでしょ
+ねぇ気づいてよ
+
+虹のかかるhighway
+ギリギリまで飛ばして
+追いついてよ
+鉛色の雲を飛び出して
+
+そんな　絵空事さえ
+現実（リアル）にしてみせてよ
+描けるのでしょう　その指先で
+震えさせてよ　「堅実」なんていらないわ
+賭して　博してよ　今すぐ
+
+あなただけが　欲しいだなんて
+安い言葉　いらないから
+黙って　抱き合ったら　すぐにでも
+わかるでしょ
+
+息のかかるDistance
+すぐそこまで　もうきてる
+追い越してよ　もっと遠くまで
+強く連れ出して
+
+期待してたの　ずっと
+あなただけのものよ
+軌跡なぞるの　この足先で
+リップのグロスも　溶け合い落ちてゆく
+I want you, I need you, Darling
+Take Me Away!
+
+
+**コメント
+#comment()

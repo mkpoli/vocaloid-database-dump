@@ -1,0 +1,99 @@
+#right(){&furigana(LastofMe)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm26958206)|&youtube(https://www.youtube.com/watch?v=7Skij_GE9n4){342,187}|
+作詞：[[Circus-P]]
+作曲：[[Circus-P]]
+編曲：[[Circus-P]]
+唄：[[巡音ルカV4X>巡音ルカ]]
+
+**曲紹介
+>&bold(){Wring my neck I won't feel a thing}
+曲名：『&u(){Last of Me}』（&u(){ラスト オブ ミー}）
+
+**歌詞
+（作者配布のzipより転載）
+
+Reach out, grasp nothing but air
+Can't you see there's nobody here?
+Watch out, you're on your final run
+And I'm already long gone
+
+I'm standing before you
+completely see-through
+You've drawn the outline
+Now look at me I'm
+A broken frame I'm
+Just fun and games I'll
+Keep my poker face
+And won't leave a trace
+
+You can keep the last of me
+I don't care I am obsolete
+You have seen the last of me
+wring my neck I won't feel a thing
+
+Reverb, Resound, and repeat
+Phase out my heart and you will see
+Slam shut, eyes blank, and repeat
+I will show you what I can be
+
+Breathe in, don't let it out
+Tread too far and you're out of bounds
+My lungs are toxic now
+Don't get close or you will drown
+
+I'm standing before you
+completely see-through
+You've drawn the outline
+Now look at me I'm
+A broken frame I'm
+Just fun and games I'll
+Keep my poker face
+And won't leave a trace
+
+You can keep the last of me
+I don't care I am obsolete
+You have seen the last of me
+... :(
+
+Reverb, Resound, and repeat
+Phase out my heart and you will see
+Slam shut, eyes blank, and repeat
+I will show you what I can be
+
+You can keep the last of me
+I don't care I am obsolete
+You have seen the last of me
+wring my neck I won't feel a thing
+
+Reverb, Resound, and repeat
+Phase out my heart and you will see
+Slam shut, eyes blank, and repeat
+I will show you what I can be
+I am more than what you can see
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+**コメント
+- かっこいい。ひたすらかっこいい  -- 名無しさん  (2016-02-08 12:08:51)
+- めっちゃいいです！  -- 名無しさん  (2016-02-08 16:43:04)
+- こんなにかっこいいのに何故もっと伸びん…！  -- 名無しさん  (2016-02-23 13:49:45)
+- 歌詞もいいけど曲が好き！  -- 名無しさん  (2016-04-02 14:33:15)
+- かっこいい！！  -- 名無しさん  (2016-07-03 14:27:56)
+//- 某動画ＯＰから。
+- かっこいいですねこの曲…！  -- 名無しさん  (2016-07-11 01:46:11)
+- ｇｏｄ！！！  -- 名無しさん  (2016-07-24 01:01:56)
+- ほんとこの曲好き。なんかコメントあってホッとしたわw  -- 名無しさん  (2017-01-29 17:16:17)
+- 頭の中をぐるぐる巡ってます  -- 名無しさん  (2017-03-04 14:29:01)
+- 神曲としか思えません。  -- 名無しさん  (2018-04-23 13:31:35)
+- 最後のseeだけ「見る」じゃなくて「分かる」だから、「私はあなたの理解を超えたものだ」なんだよな。かっこいい。  -- 名無しさん  (2024-09-08 14:00:36)
+#comment()
+
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)

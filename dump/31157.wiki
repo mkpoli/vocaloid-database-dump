@@ -1,0 +1,44 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+|&nicovideo(sm25201306)|&YouTube(https://www.youtube.com/watch?v=0Vg07uKmsc0){342,187}|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[海を知らない子供達]]|CENTER:&bold(){Flowords-フラワーズ-}|CENTER:[[レクイヱム～Requiem for the Moon～]]|
+
+|&bold(){[[ぺぺろんP]]}|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|CENTER:2014年12月30日||
+|価格|CENTER:￥1,000|CENTER:￥1,200（税別）|
+|サークル|>|CENTER:陰謀派スライダー|
+
+**CD紹介
+-花言葉をテーマとしたVOCALOIDアルバム。
+-収録曲は全て書き下ろしの新曲。
+-ジャケットイラストは[[御厨わた]]氏。
+-コミックマーケット87（C87）で頒布。
+-とらのあなで委託販売が行われている
+
+**曲目
++カンパニュラ（いろは）
++ガーベラ（GUMI）
++スズラン（リン）
++クレマチス（ゆかり）
++リコリス（いろは）
++ヘメロカリス（リン）
++[[シスタス・アルビドゥス]]（GUMI）
++カンパニュラ（Instrumental）
++ガーベラ（Instrumental）
++スズラン（Instrumental）
++クレマチス（Instrumental）
++リコリス（Instrumental）
++ヘメロカリス（Instrumental）
++シスタス・アルビドゥス（Instrumental）
+
+**リンク
+-[[作者サイト>>http://www.njpeperon.sakura.ne.jp/]]
+-[[作者ブログ>>http://peperonp.blog59.fc2.com/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/27/32/040030273241.html]]
+
+**コメント
+- 買いに行こう‼️いい唄が待っているから‼️  -- 良太  (2015-02-02 11:20:32)
+#comment()

@@ -1,0 +1,42 @@
+#right(){&furigana(KAITOどらむんべーすこんぴれーしょんあるばむAO1.5)&furigana()【登録タグ:&tags() 】}
+#image(http://lilium.web6.jp/k_compilation3/banner2.jpg,http://lilium.web6.jp/k_compilation3/,title=KAITOドラムンベースコンピレーションアルバム「AO1.5」,blank)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm23662995)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[KAITOロックコンピレーションアルバム「AO2」]]|CENTER:&bold(){KAITOドラムンベースコンピレーションアルバム「AO1.5」}|CENTER:[[KAITOコンピレーションアルバム「AO0」]]|
+
+|[[イントロP]]|[[新城P]]|[[うらら（マカーP）]]|[[銀鱗P]]|
+|[[halP]]|[[テンネン]]|[[ベース缶P]]||
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|CENTER:2014年6月29日|CENTER:2014年6月|
+|価格|CENTER:￥1,000|CENTER:￥1,500（税別）|
+|サークル|CENTER:食べに来ました|CENTER:KITC Project|
+
+**CD紹介
+-KAITOを使用したコンピレーションアルバム第3弾。今回のジャンルはドラムンベース。
+-3作目だがタイトルが「1.5」の理由は[[こちら参照>>http://togetter.com/li/673393]]。
+-主催はうむ。マスタリング：[[liam>liam/作り手]]、DTP：宝条
+-VOCALOID PARADISE 番外編3 KAITO PARADISE2（ボーパラ番外編3カイパラ2）で初頒布。
+-とらのあなで委託販売が行われている。
+
+**曲目
++16bitの独占欲 / イントロP
++Love Less / 新城P
++The frozen sun / うらら
++Icicle / 銀鱗P
++in light / halP
++コエナキコエ / テンネン
++Star Peace / 新城P+no name
++トウキョウの街 / ベース缶
+
+**リンク
+-[[公式サイト>>http://lilium.web6.jp/k_compilation3/]]
+-[[公式Twitter>>http://twitter.com/k_compilation3]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/21/50/040030215048.html]]
+
+**コメント
+- これは豪華。  -- 名無しさん  (2015-03-05 21:28:20)
+- どの曲も最高です！  -- 名無しさん  (2015-06-25 14:13:40)
+#comment()

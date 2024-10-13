@@ -1,0 +1,38 @@
+#right(){&furigana(ほしのだいち)&furigana()【登録タグ:&tags() 】}
+#amazon(B00U4NTN0Q)
+|&nicovideo(http://www.nicovideo.jp/watch/sm25646081)|&YouTube(http://www.youtube.com/watch?v=aKap_uEyuu4){345,185}|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){星の大地}|CENTER:-|
+
+|&bold(){[[Man_boo]]}|
+
+|流通|CENTER:即売|CENTER:同人|CENTER:配信|
+|発売|CENTER:2015年3月8日||CENTER:2015年3月14日|
+|価格|CENTER:￥1,000|CENTER:￥1,641（税別）|￥1,350|
+|サークル|>|>|CENTER:Headfish Lab.|
+
+**CD紹介
+-生きてる方のマンボウことMan_boo氏の1stアルバム。
+-デザイン＆アートワークは爾祢氏。マスタリングは大輪勝則氏。
+-VOCALOID PARADISE 関西 4（ボーパラ関西4）で頒布。
+-とらのあな、アリスブックスなどの書店委託、iTunes Store、Amazon Musicなどのダウンロード販売も行われている。
+-CD付属のポストカード記載のURLからRemix音源集『もうひとつの星の大地』をダウンロードできる。
+--Remix音源集『もうひとつの星の大地』の参加者は[[西島尊大>西島ソーンダイク]]・[[GYARI>ココアシガレットP]]・[[なきゃむりゃ]]・[[MSSサウンドシステム]]・[[6410]]。
+
+**曲目
++[[広くてすてきな宇宙じゃないか]] / 結月ゆかり・猫村いろは・扇せとか
++[[星の大地]] / Vo：猫村いろは・Cho：Mac音ナナ
++ミラの心臓（Instrumental）
++夜に気をつけて / Vo：猫村いろは・Cho：扇せとか
++4.2光年 / 結月ゆかり・猫村いろは
++[[星の化石]] / 結月ゆかり
++[[二人の小舟は遠くまで>>http://www.nicovideo.jp/watch/sm20158761]] / Cho：結月ゆかり
++カローン宇宙旅行社 / 猫村いろは
++星の記憶 / 扇せとか
+
+**リンク
+-[[作者サイト>>http://www.manbosphere.net/]]
+
+**コメント
+#comment()

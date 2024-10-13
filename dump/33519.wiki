@@ -1,0 +1,41 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+
+&youtube(https://www.youtube.com/watch?v=zgIhCGyYeHw){336,189}
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[KARENT presents Hopeful Snow feat. 初音ミク]]|CENTER:&bold(){KARENT presents キラユキ＊リフレクション feat. 初音ミク}|CENTER:[[KARENT presents Winterland's Anthology feat. 初音ミク]]|
+
+|[[紫嶌 開世]]|[[doriko]]|[[すこっぷ]]|[[ゆうP]]|
+|[[ヤマシロ]]|[[イナバリュウノスケ]]|[[narry]]|[[tilt]]|
+
+|流通|CENTER:限定販売|CENTER:配信|
+|発売|CENTER:2016年1月27日|CENTER:2018年6月1日|
+|価格|CENTER:￥1,500（税込）||
+|レーベル|>|CENTER:KARENT|
+
+**CD紹介
+>&bold(){おもわず目を細めた。雪と君の眩しさに。}
+-KARENTレーベルが贈る、冬のキラメキをテーマにしたコンセプトコンピレーションCD。
+-SNOW MIKU 2016イベントテーマソング「雪がとける前に」を収録した限定生産アルバム。
+-特典として、ODESSA(はるよ＆マクー）が手掛ける「雪がとける前に」Music VideoをダウンロードできるSONOCAを封入。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++白い舞台へ（introduction） / 紫嶌 開世
++[[雪がとける前に]] / doriko feat. 初音ミク＜SNOW MIKU 2016テーマソング＞
++[[スノートリック]] / すこっぷ feat. 初音ミク
++[[Snow Promenade]] / ゆうP feat. 初音ミク
++[[雪どけ、コラージュ]] / ヤマシロマシロ feat. 初音ミク
++[[Last December]] / イナバリュウノスケ feat. 初音ミク
++[[celestite]] / narry feat. 初音ミク
++雪がとける前に（love letters from the sky Remix） / Remixed by tilt-six
+
+**リンク
+-[[KARENTレーベル CD紹介ページ>>http://karent.jp/cd/10]]
+-[[SNOW MIKU 2016公式サイト>>http://snowmiku.com/2016/]]
+-[[KARENT：「キラユキ＊リフレクション」>>http://karent.jp/album/2229]]
+-[[iTunes Store>>http://itunes.apple.com/jp/album/kirayuki-reflection/1391016150]]
+
+**コメント
+- スノートリックがある、追加乙  -- 名無しさん  (2015-12-25 23:04:51)
+#comment()

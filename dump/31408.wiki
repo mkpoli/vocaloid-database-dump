@@ -1,0 +1,14 @@
+#right(){&furigana()&furigana()【登録タグ:&tags()】}
+|&nicovideo(http://www.nicovideo.jp/watch/sm20601131)|&nicovideo(http://www.nicovideo.jp/watch/sm20907295)|
+作詞：[[スタッフロールP]]
+作曲：[[スタッフロールP]]
+編曲：[[スタッフロールP]]
+唄：KAITO
+
+**曲紹介
+-KAITO_V1とV3　Englishのテクノです（注：冒頭30秒位無音です）。
+-V1版が[[KAITO電子音楽コンピレーションアルバムMidnight Blue]]に収録。
+-のちにミックスし直した「UnderCurrent2.1」が発表された。
+
+**コメント
+#comment()

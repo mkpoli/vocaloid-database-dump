@@ -1,0 +1,34 @@
+#right(){&furigana(まえすとろP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/26850520" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/26850520">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-2011年2月11日投稿の「element phase - slow」(現在は削除済み)でボカロPデビュー。
+-P名の由来は、自身が指揮者である事から、仲間からのあだ名が元になっている。
+-ちなみに、プロの作曲家でもある。
+-歌い手としては、「Chris」の名義で活動している。
+-使用するボーカロイドはKAITO、KAITO V3、MEIKO、MEIKO V3、初音ミク、氷山キヨテル。
+-作風は本業であるクラシックの影響を受けてものが多いが、ロックやジャズ等、様々なジャンルの曲を手掛けている。
+-歌詞の無い曲が多く、ボカロをひとつの楽器として、捉えている様である。
+-2015年2月14日投稿の「[[Tristitia domina -悲しみの姫君-]]」でボカロPを引退した。
+
+**リンク
+-[[作者ブログ>>http://christiesirlight.blog102.fc2.com/]]
+-[[Vocaloiders>>http://vocaloiders.com/2524/]]
+-[[TM BOX>>http://tmbox.net/user/chris_sirlight]]
+-[[twitter>>https://twitter.com/chris_sirlight]]
+
+**曲
+#list_by_tag(マエストロP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(マエストロPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm17870233)|&nicovideo(http://www.nicovideo.jp/watch/sm17891751)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm17907693)|&nicovideo(http://www.nicovideo.jp/watch/sm18328568)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm18328614)|&nicovideo(http://www.nicovideo.jp/watch/sm18328644)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm18607385)|&nicovideo(http://www.nicovideo.jp/watch/sm19004368)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm19446704)|&nicovideo(http://www.nicovideo.jp/watch/sm19561860)|
+
+**コメント
+#comment()

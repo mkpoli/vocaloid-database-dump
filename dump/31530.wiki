@@ -1,0 +1,49 @@
+#right(){&furigana()&furigana()【登録タグ:&tags()】}
+|&nicovideo(sm24570814)|&youtube(https://www.youtube.com/watch?v=9z6pn_gkk24){336,189}|
+作詞：[[23]]
+作曲：[[23]]
+編曲：[[23]]
+唄：初音ミク
+
+**曲紹介
+>人肌恋しい季節。
+-23氏の13作目。
+-今回はおとなしめな曲調だが、中毒性は抜群。
+
+**歌詞
+（Youtubeの動画説明文より転載）
+
+その言葉の意味をまだ　僕はずっと探してるんだ
+痛い痛いチクチク刺さる　人の視線を背に気づかないフリした
+夜が明ける僕が　あの時あの場所でついた嘘が
+ビルの隙間から登る太陽の　光で影を落とし消える
+
+寂しいよ　ねぇずっと　抱きしめて　離さないで
+
+その言葉の意味をまだ　僕はずっと探してるんだ
+肌を撫でる秋の知らせを　おろしきった裾で気づかないフリした
+今日も終わる僕が　あの時あの場所でついた嘘が
+海に沈み消えてゆく太陽の　光で影を伸ばし覆う
+
+寂しいよ　ねぇずっと　抱きしめて　離さないで
+
+
+#region(close,descent87氏による公式英詩)
+I am still searching for the meaning of those words
+That piercing pain I feel, pretending not to notice their stares 
+Standing here at dawn, the lies I uttered back then, at that place,
+They cast a shadow and vanish as the light of the rising sun shines down between the tall buildings
+
+I’m so lonely, hey, hold me tight, never let me go
+
+I am still looking for the meaning of those words
+Pretending not to feel the cold, fall breeze in my short-sleeves
+Here at the end of the day, the lies I uttered back then, at that place
+Their shadow grows long and they’re hidden away in the light of the sun which slowly sinks into the sea
+
+I’m so lonely, hey, hold me tight, never let me go
+#endregion
+
+
+**コメント
+#comment()

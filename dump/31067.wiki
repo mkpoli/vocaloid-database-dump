@@ -1,0 +1,34 @@
+#right(){&furigana(ぎゃらくしあん・るーれっと)&furigana()【登録タグ:&tags() 】}
+
+&ref(https://l3project.com/wp-content/uploads/2019/11/89_large.png,x=300,y=300)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[レン愛いたしませんかぁ！ ［リマスター盤］]]|CENTER:&bold(){ギャラクシアン・ルーレット}|CENTER:[[ビストロキッチン]]|
+
+|&bold(){[[れれれP]]}|
+
+発売：2014年12月30日
+価格：￥500
+流通：即売
+サークル：L3 Project
+
+**CD紹介
+-れれれPによる、宇宙や星がテーマとなっている曲を3曲収録したシングル。
+-イラスト・CDデザインは [[初]]氏 が手掛ける。
+-コミックマーケット87（C87）にて頒布。
+-手焼きCDで枚数が少ないため、通信販売は行わない。
+
+**曲目
++[[ギャラクシアン・ルーレット]]
++pisces (RL mix)
++ぼくのしあわせ (original mix)
++ギャラクシアン・ルーレット (instrumental)
++pisces (instrumental) 
++ぼくのしあわせ (instrumental) 
+
+**リンク
+-[[作者ブログ>>http://yaplog.jp/lelele-p/]]
+-[[れれれP HP>>https://l3project.com/?p=191]]
+
+**コメント
+#comment()

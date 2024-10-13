@@ -1,0 +1,45 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+
+&image(http://karent.jp/npdca/1915_20160623044247_0280_0280.jpg)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm25164925)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){No_hand sound A}|CENTER:[[liner_liner]]|
+
+|&bold(){[[note]]}|
+
+|流通|CENTER:即売|CENTER:委託|CENTER:配信|
+|発売|CENTER:2014年12月30日|CENTER:2015年1月8日|CENTER:2016年7月6日|
+|価格|CENTER:￥1,000|CENTER:￥1,000（税抜）|CENTER:￥1,200|
+|サークル|CENTER:L-tone|CENTER:note@L-tone||
+
+**CD紹介
+-note氏 の初の個人制作アルバム。
+-鏡音リン、初音ミクを中心とした浮遊感のある独特のサウンドと、日本語詩を大切にした楽曲を収録。
+-アートワークはイラストレーターの 秋吉氏 が手掛ける。
+-コミックマーケット87 にて頒布。メロンブックスで委託販売が、KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++[[おとなとおもちゃ]] / 鏡音リン
++6-7-5-1 / 初音ミク
++[[胸の中に]] / 初音ミク
++[[幸福とは]] / 初音ミク・鏡音リン
++[[ライナーノート]] / 鏡音リン・初音ミク
++[[死にました。]] / 初音ミク
++[[魔法の言葉>魔法の言葉/note]] / 初音ミク・鏡音リン
++フルカラー / 鏡音リン・初音ミク
++[[拝啓シーケンサー]] / 鏡音リン
++[[劣勢ミュージック]] / 初音ミク
++[[パンデミックの掃除]] / 鏡音リン
++[[低空飛行]] / 鏡音レン・鏡音リン
+
+**リンク
+-[[作者Twitter>>https://twitter.com/note0]]
+-[[メロンブックス>>https://www.melonbooks.co.jp/detail/detail.php?product_id=117563]]
+-[[KARENT：「No_hand sound A」>>http://karent.jp/album/1915]]
+-[[iTunes Store>>https://itunes.apple.com/jp/album/no-hand-sound-a/id1129195775]]
+
+**コメント
+- 追加乙でしたー。  -- 蒼空  (2016-07-10 22:34:26)
+#comment()

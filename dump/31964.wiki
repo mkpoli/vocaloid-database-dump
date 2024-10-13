@@ -1,0 +1,37 @@
+#right(){&furigana(どらごにくす)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://ext.nicovideo.jp/thumb_mylist/39911098" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/39911098">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-2014年1月、「狂愛偏愛ダークサイド」でデビュー。
+-初音ミクV3を使用し、ほぼ月一曲ペースで精力的に楽曲を投稿しているpである。
+-曲調はロックが多いが、テクノ系の曲も公開されている。
+-一部の曲ではギターを演奏しており、「Awareness」では動画内のイラストも自作している。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/dragonics2525]]
+-[[Twitter>>https://twitter.com/dragonics2525]]
+
+
+**曲
+#list_by_tag(ドラゴニクス,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(ドラゴニクスCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm22599638)|&nicovideo(http://www.nicovideo.jp/watch/sm22865117)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm23152297)|&nicovideo(http://www.nicovideo.jp/watch/sm23241087)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm23890589)|&nicovideo(http://www.nicovideo.jp/watch/sm24829425)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm25242200)|&nicovideo(http://www.nicovideo.jp/watch/sm25418184)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm25627255)|&nicovideo(http://www.nicovideo.jp/watch/sm25886084)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm25951451)|&nicovideo(http://www.nicovideo.jp/watch/sm26168264)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm26574440)|&nicovideo(http://www.nicovideo.jp/watch/sm26706185)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm27058544)|&nicovideo(http://www.nicovideo.jp/watch/sm27268934)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm27399352)|&nicovideo(http://www.nicovideo.jp/watch/sm27807231)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm28310549)|&nicovideo(http://www.nicovideo.jp/watch/sm28838282)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm28983840)|&nicovideo(http://www.nicovideo.jp/watch/sm29425889)|
+
+
+**コメント
+- 追加乙！仕事速いｗｗ  -- かのん  (2016-09-18 17:19:53)
+#comment()

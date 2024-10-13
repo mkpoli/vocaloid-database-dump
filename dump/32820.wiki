@@ -1,0 +1,51 @@
+#right(){&furigana(くろわーるりょこうき)&furigana()【登録タグ:&tags() 】}
+#amazon(B011MWICYK)
+|&nicovideo(http://www.nicovideo.jp/watch/sm26855852)|&youtube(http://www.youtube.com/watch?v=_9SRXUJY8mg){336,189}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm26705526)|&youtube(http://www.youtube.com/watch?v=yAACqzvebaI){336,189}|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){クロワール旅行記}|CENTER:[[デルニエ旅行記]]|
+
+|&bold(){[[PIPPO]]}|
+
+|流通|CENTER:同人|CENTER:配信|
+|発売|CENTER:2015年8月15日|CENTER:2017年2月15日|
+|価格|CENTER:￥2,000（税抜）|CENTER:￥2,100|
+|サークル|CENTER:PIPPO||
+
+**CD紹介
+-PIPPO氏 初のフルアルバム。
+-2014年4月のデビュー作から「[[デルニエ旅行記]]」「[[ひとりぼっちとココロの本と]]」「[[シオン>シオン/PIPPO]]」他、1年間のうちに公開された作品に加えて未発表曲も含めた全14曲を収録。
+-既存の楽曲は全てリテイクやリミキシングをされている。
+-委託販売は[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/32/30/040030323074.html]]と[[Amazon>>http://www.amazon.co.jp/dp/B011MWICYK]]でおこなわれている。
+-KARENTレーベルよりダウンロード販売が行われている。
+-Tr.13「keeping」は、「花与梦」のタイトルで初音ミクV4X CHINESEのデモソングとなった。
+
+**曲目
++[[オモイダシナキ]]
++[[ひとりぼっちとココロの本と]]
++[[構想外クリエイション]]
++槌
++[[歩めや旅人]]
++[[再訪の空]]
++邂逅を
++[[湧泉洞]]
++[[シオン>シオン/PIPPO]]
++For now
++[[クロワール・エトワール]]
++[[イグジット]]
++keeping
++[[デルニエ旅行記]]
++croire(Bonus track)
+
+**リンク
+-[[Twitter>>http://twitter.com/kalone61660]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/32/30/040030323074.html]]
+-[[Amazon>>http://www.amazon.co.jp/dp/B011MWICYK]]
+-[[作者ブロマガ>>http://ch.nicovideo.jp/pippo/blomaga/ar828273]]
+-[[KARENT：「クロワール旅行記」>>http://karent.jp/album/2018]]
+
+**コメント
+- 欲しいな。  -- 名無しさん  (2015-11-22 21:34:03)
+- 買いました！最高です！！！  -- ミルクティー☆  (2015-12-02 01:15:44)
+#comment()

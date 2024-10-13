@@ -1,0 +1,28 @@
+#right(){&furigana(しゅうげつふ)&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1808_20150926213001_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[遠恋]]|CENTER:&bold(){秋月賦}|CENTER:-|
+
+|&bold(){[[ルナ]]}|
+
+発売：2015年10月14日
+価格：￥300 / 1曲￥150
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：Rella
+
+**CD紹介
+-海外ボカロP・ルナ氏の配信シングル。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++秋月賦 （feat. 初音ミク）
++秋月賦 -Instrument- （feat. 初音ミク）
+
+**リンク
+-[[KARENT：「秋月賦」>>http://karent.jp/album/1808]]
+-[[iTunes Store>>https://itunes.apple.com/jp/album/the-autumn-moon-single/id1045915464]]
+
+**コメント
+#comment()

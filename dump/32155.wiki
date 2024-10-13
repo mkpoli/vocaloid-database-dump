@@ -1,0 +1,41 @@
+#right(){&furigana(せいしゅんふらくめんと)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+//&ref(http://img.toranoana.jp/img/04/0030/30/06/040030300617-1.gif)
+
+&ref(https://ecdnimg.toranoana.jp/ec/img/04/0030/30/06/040030300617-1p.jpg,x=300,y=300)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[ALL MY BEST]]|CENTER:&bold(){青春フラグメント}|CENTER:[[くるくるふわふわ]]|
+
+|&bold(){[[キッドP]]}|[[クリスタルP]]|[[残鏡P]]|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2015年4月25日||
+|価格|CENTER:￥500|CENTER:￥500（税別）|
+|サークル|CENTER:3レン腐|CENTER:NnDS☆|
+
+**CD紹介
+CD名：『&u(){青春フラグメント}』(&u(){せいしゅんふらぐめんと})
+-キッドPの4曲入りシングルCD。
+-表題曲はベストアルバム『[[ALL MY BEST]]』収録されていた楽曲。
+-Jacket Illustrations：shin、Design：猫凪みさお。
+-THE VOC@LOiD 超 M@STER 31（超ボーマス31）で頒布。
+-とらのあなにて委託販売が行われている。
+
+**曲目
++[[青春フラグメント]]
++-Lyrics:残鏡P／Music:キッド／Arrangement:HzEdge（クリスタルP）
++青春フラグメント-Acoustic Ver.-
++青春フラグメント-キッド少年合唱団-
++青春フラグメント-instrumental-
+
+**リンク
+-[[作者ブログ>>http://yaplog.jp/kidsworks/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/30/06/040030300617.html]]
+
+**コメント
+//- いちこめ  -- いいい  (2015-06-22 21:30:20)
+#comment()

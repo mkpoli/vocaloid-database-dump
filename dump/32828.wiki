@@ -1,0 +1,40 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#ref(http://karent.jp/npdca/1786_20150720213203_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[No Title Summer>No Title Summer/CD]]|CENTER:&bold(){Best of My Story}|CENTER:-|
+
+|&bold(){[[ふえると]]}|
+
+発売：2015年8月21日
+価格：￥1,200 / 1曲￥150
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：花芽宮るる
+
+**CD紹介
+-ふえると氏のベストアルバム。
+-人気楽曲6曲に未発表曲3曲を加えた9曲、全曲リテイク、再ミックス、再マスタリングしている。
+-エンジニアリングは[[そらP]]が手掛ける。
+-KARENTレーベルよりダウンロード販売が行われている。初音ミク8周年記念企画で配信された作品の1つ。
+
+**曲目
++[[レイニー>レイニー/ふえると]] （feat. 初音ミク）
++[[怪物みたいな君]] （feat. 初音ミク）
++[[その手を、引いて]] （feat. 初音ミク）
++ハートライト （feat. 初音ミク）
++汐風の坂道 （feat. 初音ミク）
++[[うさぎハート]] （feat. 初音ミク）
++[[ほんとはね]] （feat. 初音ミク）
++Sleep Sheep 4 o'clock （feat. 初音ミク）
++[[雨色ノベル]] （feat. 初音ミク）
+
+**リンク
+-[[作者twitter>>http://twitter.com/fueruto886]]
+-[[KARENT：「Best of My Story」>>http://karent.jp/album/1786]]
+-[[KARENT：「初音ミク 8th Anniversary」特集ページ>>http://karent.jp/special/miku15]]
+-[[iTunes Store>>http://itunes.apple.com/jp/album/best-of-my-story/id1024493836]]
+
+**コメント
+- 配信助かる〜  -- 名無しさん  (2015-08-29 23:47:46)
+#comment()

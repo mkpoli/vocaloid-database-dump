@@ -1,0 +1,33 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1669_20141221194931_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Stray Light]]|CENTER:&bold(){Blood Color Flower e.p.}|CENTER:-|
+
+|&bold(){[[wintermute]]}|
+
+発売：2015年1月14日
+価格：￥600 / 1曲￥150
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：小川ニヤコ
+
+**CD紹介
+-wintermute氏 の配信ミニアルバム。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++[[Blood Color Flower]] （feat. 初音ミク）
++[[Fall>Fall/wintermute]] （feat. 初音ミク）
++[[Coffee Made Body]] （feat. 初音ミク）
++[[Vermilion Moon]] （feat. 初音ミク）
++Sunshower （feat. 初音ミク）
++[[In The City of Ghost]] （feat. 巡音ルカ）
+
+**リンク
+-[[作者ホームページ>>http://likeadaydream.net/]]
+-[[KARENT：「Blood Color Flower e.p.」>>http://karent.jp/album/1669]]
+-[[iTune Store>>https://itunes.apple.com/jp/album/blood-color-flower-e.p./id955364204]]
+
+**コメント
+#comment()

@@ -1,0 +1,35 @@
+#right(){&furigana(えほっく)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://ext.nicovideo.jp/thumb_mylist/42493756" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/42493756">【ニコニコ動画】%E4%BD%9C%E6%9B%B2</a></iframe>)
+
+**特徴
+作り手名：『&u(){エポック}』
+-2014年3月、『[[啼衝シンパシー]]』にてボカロデビュー。
+-使用ボカロは今のところ、GUMI・ミク。
+-2020年10月に[[ユリイ・カノン]]を中心に結成されたバンド、「月詠み」のギタリストでもある。
+
+**リンク
+//-[[エポックのブロマガ（作者ブロマガ）>>https://ch.nicovideo.jp/aotomato8]]
+-[[Twitter>>https://twitter.com/AO_tomato8]]
+-[[YouTube>>https://www.youtube.com/channel/UCpgT84sItwNgY5k_YnC7GPA]]
+
+**曲
+#list_by_tag(エポック,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(エポックCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|>|BGCOLOR(#80d52b):COLOR(#FFF):CENTER:&font(b,11pt){オリジナル曲}|
+|&nicovideo(sm23196014)|&nicovideo(sm23976072)|
+|&nicovideo(sm25358316)|&nicovideo(sm25523330)|
+|&nicovideo(sm25913584)|&nicovideo(sm26574095)|
+|&nicovideo(sm26770663)|&nicovideo(sm27267183)|
+|&nicovideo(sm34673917)|&nicovideo(sm38189251)|
+|&nicovideo(sm38625622)|&nicovideo(sm39267682)|
+
+**コメント
+#comment()

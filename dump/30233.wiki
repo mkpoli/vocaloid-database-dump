@@ -1,0 +1,29 @@
+#right(){&furigana(びょうそく30まんきろめーとる)&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1583_20140807153704_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[unreachable ambition>unreachable ambition/CD]]|CENTER:&bold(){秒速30万キロメートル}|CENTER:[[face the truth]]|
+
+|&bold(){[[As'257G]]}|Nir-3|
+
+発売：2014年8月22日
+価格：￥150
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：Nir-3
+
+**CD紹介
+-Sound Team Layer-0のAs'257G氏の配信シングル。
+-KARENTレーベルよりダウンロード販売が行われている。KARENTの初音ミク7周年記念企画で配信された作品の1つ。
+
+**曲目
++秒速30万キロメートル （feat. 初音ミク）
+
+**リンク
+-[[サークルサイト>>http://layer-0.shillest.net/]]
+-[[KARENT：「秒速30万キロメートル」>>http://karent.jp/album/1583]]
+-[[KARENT：「初音ミク 7th Anniversary」特集ページ>>http://karent.jp/special/miku14]]
+-[[iTunes Store>>https://itunes.apple.com/jp/album/speed-light-feat.-hatsune/id908552445]]
+
+**コメント
+#comment()

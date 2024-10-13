@@ -1,0 +1,53 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+|&nicovideo(http://www.nicovideo.jp/watch/sm21161416)|&YouTube(http://www.youtube.com/watch?v=HobWxfghJ1E)|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[The Art Of Real Sounds vol.1.5 -INTERLUDE-]]|CENTER:&bold(){The Art Of Real Sounds vol.2 -NIGHT-}|CENTER:-|
+
+|[[Man_boo]]|[[ムジカデリク]]|いつきおと|ichi|[[西島ソーンダイク]]|[[∀Ku2]]|[[kaoling]]|[[手タレP]]|
+|[[Wonderlandica]]|[[setsat]]|はん☆ぺん|[[tarezo]]|[[(∵)キョトンP]]|となりちゃん|[[紅松弥知]]||
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|CENTER:2013年7月7日||
+|価格|CENTER:￥1,200|CENTER:￥1,850（税別）|
+|サークル|>|CENTER:Headfish Lab.|
+
+**CD紹介
+-VOCALOIDと生楽器のセッションをコンセプトにした、The Art Of Real Soundsシリーズ。&br()vol.2は「夜」をテーマにした12曲を収録しました。
+-企画：Headfish Lab.、イラスト・デザイン：ダリ、マスタリング：大輪勝則（Studio You）
+-THE VOC@LOiD M@STER 21（ボーマス21）で頒布。
+-とらのあな、JOYSOUND SHOPPING  MALLで委託販売が行われている。
+
+**曲目
++[[ロストボーイの手を取って>>http://www24.atwiki.jp/utauuuta/pages/3149.html]] / Music, Lyrics：Man_boo / Vocal：白鐘ヒヨリ
++-Trumpet, KAWAI Toy Piano, Kazoo, Kalimba, Shaker, Guiro：Man_boo、Flute：*ゆき*、Tenor Saxophone：tarezo、Acoustic Guitar：エロメガネ、Fretless Bass：tabi-p
++Vignette / Music：ムジカデリク、Lyrics：いつきおと / Vocal：初音ミクAppend, 巡音ルカ
++-Acoustic Guitar：∀Ku2、Flute：*ゆき*、Flugelhorn：Man_boo、Piano, Electric Bass, Cajon, Shaker, Pandeiro：ムジカデリク
++ワンナイトムービー / Music, Lyrics：いち / Vocal：初音ミク
++-Keyboard：daji、Electric Bass：いち、Drums：limbo、Electric Guitar：Hinofuji Hiroshi
++der Ursprung / Music：西島尊大 / Vocal：初音ミク
++-YAMAHA SILENT Piano P112：ひふみろ、Flute：*ゆき*、Clarinet：tarezo
++ゆりかご / Music, Lyrics：∀Ku2 / Vocal：初音ミクAppend
++-Acoustic Guitar：∀Ku2、Tenor Saxophone：tarezo
++神の愛した女 - The Lady He Loves / Music, Lyrics：kaoling、English Translation：しゅう / Vocal：Oliver
++-Violin, Acoustic Guitar：setsat、Celtic Harp：まやろーやる、Ocarina：風地、Percussion：NDK、Chorus：かおりんぐ、まやろーやる
++ポジティヴ・エスケープ / Music, Lyrics：手タレP / Vocal：初音ミクAppend, KAITO V3
++-Violão, Guitarra, Bandolim, Banjo Cavaquinho, Contorabaixo, Alfaia, Caixa, Bell, Xequere：手タレP
++Noctimagic / Music, Lyrics：Wonderlandica / Vocal：初音ミク
++-Acoustic & Electric Guitar, Electric Bass, Djembe, Radio Noise, Toy Noise：Wonderlandica
++reminiscene / Music：setsat、Lyrics：はん☆ぺん / Vocal：Megpoid
++-Violin, Viola, Acoustic Guitar, Piano, Rain Stick, Cajon, Maracas：setsat、Electric Bass：ハロゲン娘
++Eclipse / Music：tarezo / Vocal：初音ミク
++-YAMAHA YUS1：石川さやか、Contrabass：tabi-p、Alto & Tenor Saxophone, Flute, Clarinet：tarezo
++[[Beyond the Horizon>Beyond the Horizon/(∵)キョトンP]] / Music：ニシジマユーキ、Lyrics：となりちゃん / Vocal：IA
++-Electric Guitar：大道光、Drums, Wind Chime：藤田晃生、Piano, Electric Bass：ニシジマユーキ
++忘却の暁 / Music：紅松弥知 / Vocal：初音ミク
++-Steinway B-211：kie
+
+**リンク
+-[[特設サイト>>http://real-sounds.net/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/13/19/040030131937.html]]
+-[[JOYSOUND SHOPPING MALL>>http://mstore.utasuki.jp/utasuki/1/1/0/711901/goods/goods_detail.html]]
+
+**コメント
+#comment()

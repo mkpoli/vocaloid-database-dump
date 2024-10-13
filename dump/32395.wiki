@@ -1,0 +1,30 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1736_20150616113124_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[マカロン>マカロン/ATOLS]]|CENTER:&bold(){emotion}|CENTER:[[ATOLS/MIKU 2>ATOLS／MIKU 2]]|
+
+|&bold(){[[ATOLS]]}|
+
+発売：2015年7月3日
+価格：￥150
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：鮫子
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/emotion-single/id1010586490]]}|
+
+**CD紹介
+-ATOLS氏の配信シングル。
+-雑誌「[[MIKU-Pack music&artworks feat.初音ミク>>http://miku-pack.jp/]]」12号付録CDにて先行収録された書き下ろし楽曲。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++emotion （feat. 初音ミク）
+
+**リンク
+-[[twitter>>http://twitter.com/ATOLSX]]
+-[[KARENT：「emotion」>>http://karent.jp/album/1736]]
+
+**コメント
+#comment()

@@ -1,0 +1,30 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1565_20140725011000_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Leftover Footage]]|CENTER:&bold(){memento}|CENTER:[[Auto Heart E.P]]|
+
+|&bold(){[[ちんまりP]]}|
+
+発売：2014年9月17日
+価格：￥150
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：ミルサ
+
+**CD紹介
+-ちんまりPことrisou氏の配信シングル。
+-雑誌「[[MIKU-Pack music&artworks feat.初音ミク>>http://miku-pack.jp/]]」08号付録CDにて先行収録された書き下ろし楽曲。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++memento （feat. 初音ミク）
+
+**リンク
+-[[作者サイト>>http://risou.thebase.in/]]
+-[[KARENT：「memento」>>http://karent.jp/album/1565]]
+-[[KARENT：「MIKU-Pack」特集ページ>>http://karent.jp/special/mikupack14]]
+-[[iTunes Store>>https://itunes.apple.com/jp/album/memento-single/id914465167]]
+
+**コメント
+#comment()

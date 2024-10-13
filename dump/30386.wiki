@@ -1,0 +1,95 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#amazon(B00NI0MGYW)
+
+|&nicovideo(http://www.nicovideo.jp/watch/1413382816)|&youtube(https://www.youtube.com/watch?v=qQr7B5Xjv4s){336,189}|
+|&nicovideo(http://www.nicovideo.jp/watch/1414756687)|&youtube(https://www.youtube.com/watch?v=A1CiXbG8_xs){336,189}|
+|&nicovideo(http://www.nicovideo.jp/watch/1415198835)|&youtube(https://www.youtube.com/watch?v=fLZ6hBCYXwA){336,189}|
+
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[IA/02-COLOR->IA／02-COLOR-]]|CENTER:&bold(){IA/03 -VISION-}|CENTER:[[IA/04 -STAR->IA／04 -STAR-]]|
+
+|TeddyLoid|KURIS|YUICHI NAKASE|BACK-ON|中沢伴行（I've）|[[ぺぺろんP]]|SHO from MY FIRST STORY|
+|jumicchi|TAMATE BOX（UNIST）|[[うたたP]]|鳥居羊|[[触媒ファントムガール]]|[[ATOLS]]|[[takamatt]]|
+|[[10日P]]|[[自然の敵P]]|[[神無月P]]|[[Neru]]|Kuboty（TOTALFAT）|蓮尾理之|[[PolyphonicBranch]]|
+|[[ねじ式]]|H'aven|コーエーテクモゲームス|[[ゴボウメン]]|マッキー|DJ 家が無い|ワタナベイビー（ホフディラン）|
+|[[石風呂]]|[[ぽてんしゃる0]]|[[YASUHIRO（康寛）]]|[[out of survice]]|DOMINO88|[[れるりり]]|[[わさわさ]]|
+|bassy|小宮山雄飛（ホフディラン）||||||
+
+|発売：2014年11月5日|
+|価格：￥3,000（税抜）（通常版） / ￥3,800（税抜）（期間限定生産版）|
+|流通：全国|
+|発売元：1st PLACE株式会社 / IA Project|
+|販売元：株式会社ウルトラシープ|
+
+**CD紹介
+>&bold(){VOCALOID3TM で誕生したIAによる公式コンピレーションアルバム第3弾。}
+- 最新ライブラリ「IA ROCKS」発売により、更に多種多様な歌声表現が可能となったIAを、30組を超える豪華アーティスト達がクリエイト！
+-「じん」「石風呂」「れるりり」「Neru」らをはじめとする人気ボカロクリエイターからオーディション受賞者までが肩を並べるDisc1、Disc2。そして現在J-POP、J-ROCKシーンで活躍するアーティストが集結のDisc3。
+-期間限定生産盤のスペシャル特典として、①タイトルと音源を埋め込むだけで自分だけのオリジナルMVが作れる「Web投稿用動画テンプレート集」、②Music Video「Inner Arts」「セツナドライブ」「We gotta run」、③VOCALOID™3 Library「IA ROCKS -ARIA ON THE PLANETES-」体験版、④三方背特製ケース、⑤特製ポストカード4種、⑥限定ねこ武将「IAニャン」シリアルコードがある。
+-通常版は、特製スリーブケースで、限定ねこ武将「IAニャン」シリアルコードもつく。
+-アニメイト限定特典として、オリジナルB5クリアファイルがある。
+
+**曲目
+|>|>|BGCOLOR(#ffd700):COLOR(#000):CENTER:&font(b,11pt){GOLD(disc1)}|
+|01|[[Shooting Star>Shooting Star/KURIS&YUICHI NAKASE]]|TeddyLoid| 
+|02|[[憧憬～DOUKEI～]]|BACK-ON| 
+|03|[[Perverse Love Rock!]]|中沢伴行（I've）| 
+|04|『5』|SHO from MY FIRST STORY| 
+|05|[[We gotta run]]|jumicchi| 
+|06|片想い流星群|TAMATE BOX（UNIST）| 
+|07|[[ウラギリモジュール]]|うたたP|
+|08|[[ナツゾライダー]]|触媒ファントムガール|
+|09|[[キメラ>キメラ/ATOLS]]|ATOLS|
+|10|Waiting for...|takamatt| 
+|11|プロムナード|monaca:factory|
+
+|>|>|BGCOLOR(#c0c0c0):COLOR(#000):CENTER:&font(b,11pt){SILVER(disc2)}|
+|01|[[Inner Arts]]|じん| 
+|02|[[オーヴァークロック]]|Neru| 
+|03|真夜中デストロイヤー|Kuboty（TOTALFAT）|
+|04|slip|蓮尾理之|
+|05|キズナエフェクト|PolyphonicBranch|
+|06|[[ZERO BLADE]]|ねじ式|
+|07|[[selfish walker]]|H'aven| 
+|08|[[ねこ武将戦国絵巻]]|コーエーテクモゲームス|
+|09|空奏ファンタジア|マッキー| 
+|10|サンタクロースのバカヤロウ|DJ 家が無い|
+
+|>|>|BGCOLOR(#ffffff):COLOR(#000):CENTER:&font(b,11pt){WHITE(disc3)}|
+|01|恋は渋谷系|ワタナベイビー（ホフディラン）|
+|02|[[サンデーミナミパーク]]|石風呂|
+|03|[[死神のギター]]|ぽてんしゃる0|
+|04|[[慟哭吸血鬼]]|YASUHIRO（康寛）|
+|05|[[マジックアワー]]|out of survice| 
+|06|Dancing Harvest Moon|DOMINO88| 
+|07|君のとなりに|れるりり|
+|08|[[蛍火サテライト]]|わさわさ| 
+|09|平凡|bassy|
+|10|もっともっと|小宮山雄飛（ホフディラン）|
+
+**リンク
+-[[IA/03 -VISION- 特設サイト>>http://1stplace.co.jp/works/specialized/ia03/]]
+-[[1st PLACE OFFICIAL WEBSITE>>http://1stplace.co.jp/]]
+-[[IA ROCKS公式サイト>>http://1stplace.co.jp/vocaloid/]]
+
+**コメント
+- CDのページは初めて作ったので駄目なところは訂正お願いします  -- ページ作成した人  (2014-09-20 12:47:45)
+- お。豪華だ。作成有難う  -- 名無しさん  (2014-09-20 14:15:21)
+- 他収録アーティスト追加しました編集お願いします  -- cisa  (2014-09-20 14:52:23)
+- Neruさん！？  -- 名無しさん  (2014-09-26 09:48:54)
+- NeruさんのIA来るのか!?楽しみだな…!!  -- ミク廃  (2014-09-29 16:09:11)
+- NeruさんのIA曲ひさびさに聴けるー！　IA ROCKS音源の曲も聴けるといいなー  -- 名無しさん  (2014-09-30 00:22:46)
+- IA ROCKSのやつか、  -- 名無しさん  (2014-09-30 11:19:31)
+- ナナホシさんのも入るかな・・・？これはwktk  -- 名無しさん  (2014-09-30 11:19:51)
+- 「We gotta run」のページ作ってほしいです  -- 名無しさん  (2014-10-13 02:26:09)
+- ねこ武将戦国絵巻、超聞きたいｗｗ  -- パン  (2014-10-18 02:27:28)
+- パッケージが欲しくなる型をしてて、気になる。曲はどうでもいいが。  -- 名無しさん  (2014-10-20 16:45:32)
+- Neruさんのは、オーヴァースレプトみたいなタイトル……  -- 名無しさん  (2014-10-22 23:48:50)
+- 買ったよ！！  -- 名無しさん  (2014-11-06 23:31:15)
+- 憧憬～DOUKEI～、Perverse Love Rock!、We gotta run、ねこ武将戦国絵巻は公式でUPされてますが、曲のページは作られないのでしょうか？  -- 景  (2014-11-20 10:10:26)
+- れるりりさんとNeruさんとじんさん楽しみです！！！  -- しゅんちー  (2014-11-28 19:34:45)
+- ATOLSさん知ってる人どの位いるのかな……  -- 名無しさん  (2015-03-12 15:33:42)
+- ATOLSさん知らない人なんてそういない　bassyさんの  -- takourak2  (2015-11-04 00:03:13)
+- 平凡」　は好き  -- takoruka2  (2015-11-04 00:03:39)
+#comment()

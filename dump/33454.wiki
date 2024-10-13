@@ -1,0 +1,44 @@
+#right(){&furigana(Antenna)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+#amazon(B0198G45PM)
+|&nicovideo(http://www.nicovideo.jp/watch/sm27794186)|&YouTube(http://www.youtube.com/watch?v=mZWnb7pXD-0){342,187}|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[祭りだヘイカモン>祭りだヘイカモン/CD]]|CENTER:&bold(){Antenna}|CENTER:[[HUMAN>HUMAN/CD]]|
+
+|&bold(){[[ピノキオピー]]}|lasah|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|CENTER:2015年12月31日||
+|価格|CENTER:￥1,000|CENTER:￥1,500|
+|サークル|CENTER:ピノキオ定食||
+
+**CD紹介
+-ピノキオピーの6thアルバム。
+-合成音声と人間ボーカルを融合させ、アレコレ実験を重ねた意欲作。
+-コミックマーケット89（C89）で頒布される。
+-Amazon、BOOTHで委託販売およびダウンロード販売が行われる。
+
+**曲目
++[[東京マヌカン]]
++[[昨日、パンを食べました。]]
++[[モチベーションが死んでる]]
++[[ポリゴンティーチャー]]   &color(red){NEW!!}
++[[i . c . u]] -miku ver.-  &color(red){NEW!!}
++[[地獄でもう一度逢いましょう]]   &color(red){NEW!!}
++[[アンテナ>アンテナ/ピノキオピー]]   &color(red){NEW!!}
+
+**リンク
+-[[ピノキオ定食（作者ホームページ）>>http://pinocchiop.jimdo.com/]]
+-[[Twitter>>http://twitter.com/pinocchiop]]
+-[[Amazon>>http://www.amazon.co.jp/dp/B0198G45PM]]
+
+**コメント
+- 追加乙、昨日、パンを食べました。がある、まだどんな曲かわからんけど  -- 名無しさん  (2015-12-14 21:19:39)
+- タイトル曲「アンテナ」凄い良いですね。全体的に質が高い名盤！  -- takoruka2  (2016-02-28 20:04:38)
+- ピノキオPのアルバムの中でも結構異色だったけど聴きごたえあるね  -- 名無しさん  (2016-05-03 00:34:35)
+- アンテナ…これは今まで聞いた中で最高の曲  -- 名無しさん  (2017-06-18 00:30:59)
+#comment()

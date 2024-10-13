@@ -1,0 +1,12 @@
+#right(){【登録タグ:&tags()】}
+//↑タグ忘れ防止のための表示
+曖昧さ回避のためのページ
+----
+-[[まるばなP]]の曲
+--[[Stuck/まるばなP]]
+-[[Wonder-K]]の曲
+--[[Stuck/Wonder-K]]
+-[[Project OverDoze]]の曲
+--[[Stuck/Project OverDoze]]
+
+#include(曖昧さ回避の追加の仕方/告知)

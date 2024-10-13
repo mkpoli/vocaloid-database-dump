@@ -1,0 +1,66 @@
+#right(){&furigana(CRUSHERP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+//&nicovideo_mylist(ここにマイリストブログパーツのiframe用をコピペ)
+
+**特徴
+作り手名：『&u(){CRUSHER-P}』
+-HMはCien。
+-海外のボカロP。女性。
+-確認できる一番古い作品はYouTubeに投稿されている「[[I hate you>>https://www.youtube.com/watch?v=NeY6gtJtPEg]]」。
+-P名は当初、「Childhood Crusher-P」だったが、それを縮めて、今に至る。
+-2019年10月15日、自身のTwitterで「『Crusher』に改名する」と発表した。
+-使用するボーカロイドは歌愛ユキ、巡音ルカ、BIG-AL等。
+-[[Circus-P]]と親交が深く、「CIRCRUSH」というユニット名で活動していた。
+-「[[ECHO>ECHO/CRUSHER-P]]」がニコニコ動画で自身初となるミリオンを達成した。
+
+**ミリオン達成状況
+|CENTER:&bold(){曲名}|CENTER:&bold(){100万再生}|CENTER:&bold(){200万再生}|CENTER:&bold(){300万再生}|CENTER:&bold(){備考}|
+|[[ECHO>ECHO/CRUSHER-P]]|2015年7月10日|2016年2月28日|2016年11月11日||
+
+**リンク
+-[[YouTube>>https://www.youtube.com/user/HatsuneMikuVocaloid2]]
+-[[SoundCloud>>https://soundcloud.com/crusher-p]]
+-[[pixiv>>https://www.pixiv.net/users/2592322]]
+-[[Tumblr>>https://crusher-p.tumblr.com/]]
+-[[Twitter>>https://twitter.com/CCrusherr]]
+
+**曲
+#list_by_tag(CRUSHER-P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(CRUSHER-PCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&youtube(https://www.youtube.com/watch?v=c-3nZQVNXX8){342,187}|&youtube(https://www.youtube.com/watch?v=OqUtNjjOAYA){342,187}|
+|&youtube(https://www.youtube.com/watch?v=F-sOqekRX3M){342,187}|&youtube(https://www.youtube.com/watch?v=39zbWL94boo){342,187}|
+|&youtube(https://www.youtube.com/watch?v=v8s43c1DiIo){342,187}|&youtube(https://www.youtube.com/watch?v=Z4H7jJLSKKs){342,187}|
+|&youtube(https://www.youtube.com/watch?v=zbRf0LLc_N0){342,187}|&youtube(https://www.youtube.com/watch?v=OqUtNjjOAYA){342,187}|
+|&nicovideo(sm16519522)|&youtube(https://www.youtube.com/watch?v=j1UfzEkwCds){342,187}|
+|&youtube(https://www.youtube.com/watch?v=EfVEmqx4WAM){342,187}|&nicovideo(sm24021290)|
+|&nicovideo(sm24523373)|&nicovideo(sm24643818)|
+|&nicovideo(sm25723763)|&nicovideo(sm31818521)|
+|&nicovideo(sm31910935)|&nicovideo(sm32797885)|
+|&nicovideo(sm34885856)|&nicovideo(sm35202505)|
+|&nicovideo(sm39769517)|>|
+
+**カバー
+|&nicovideo(sm26175792)|&nicovideo(sm29798066)|
+|&nicovideo(sm34051796)|&nicovideo(sm35477706)|
+
+**コメント
+//- 作成乙！  -- 悪斗  (2015-02-18 16:46:48)
+- CIRCRUSHがいなくなった(´；ω；｀)  -- 名無しさん  (2015-06-13 00:30:29)
+- 今日からCrusher-PはVOCALOIDのことから離れます（Twitterで告げた）。Circus-Pとの友情がなくなったようです  -- 名無しさん  (2015-06-13 00:35:43)
+- ECHOうちの好み過ぎてヤバい（＾p＾）  -- 悪童  (2015-09-15 23:23:00)
+- ↑２　ttp://twitter.com/CCrusherP/status/704181323770933250  -- 名無しさん  (2016-03-04 11:50:26)
+- 好きなのに曲そこまで知らない…  -- 路地裏の猫  (2016-08-17 12:15:53)
+- この方の作る曲はとても好みです。  -- 魔術師 要 閖上  (2016-08-26 18:00:32)
+- 「Deja Vu」がカッコいい！  -- 名無しさん  (2017-07-26 23:27:47)
+- 新曲のAgainすごすぎ…  -- 名無しさん  (2017-09-03 12:13:53)
+- ECHO　　大好き！！！！！！！！  -- 悪霊退散(。∀ °)  (2017-09-15 20:41:50)
+- 本名はCien Millerと言うそうです。他アーティストとのコラボレーションで明らかになってます  -- 名無しさん  (2017-10-09 22:52:51)
+- PROBAGANDA!　記念  -- 名無しさん  (2019-06-29 11:48:01)
+#comment()

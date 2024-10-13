@@ -1,0 +1,31 @@
+#right(){&furigana(ひとみにうつるけしきはかわるもの)&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1646_20141121183148_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[レメアリネス]]|CENTER:&bold(){瞳にうつる景色は変わるもの}|CENTER:[[17K -Disorder]]|
+
+|&bold(){[[AVTechNO]]}|
+
+発売：2014年12月10日
+価格：￥150
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：yucco
+
+**CD紹介
+>叶わぬ恋と叶う恋
+-AVTechNO!氏の配信シングル。
+-雑誌「[[MIKU-Pack music&artworks feat.初音ミク>>http://miku-pack.jp/]]」09号付録CDにて先行収録された書き下ろし楽曲。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++瞳にうつる景色は変わるもの （feat. 初音ミク）
+
+**リンク
+-[[作者サイト>>http://x9-avtechno.wix.com/avtechno]]
+-[[KARENT：「瞳にうつる景色は変わるもの」>>http://karent.jp/album/1646]]
+-[[KARENT：「MIKU-Pack」特集ページ>>http://karent.jp/special/mikupack14]]
+-[[iTunes Store>>https://itunes.apple.com/jp/album/hitomi-ni-utsuru-keshiki-wa/id947253980]]
+
+**コメント
+#comment()

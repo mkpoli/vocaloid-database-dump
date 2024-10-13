@@ -1,0 +1,13 @@
+#right(){【登録タグ:&tags()】}
+//↑タグ忘れ防止のための表示
+曖昧さ回避のためのページ
+----
+-[[mt.pt]]の曲
+--[[near/mt.pt]]
+-[[KHAi]]の曲
+--[[near/KHAi]]
+
+-[[QUADROPHENIA>QUADROPHENIA/作り手]]のCD
+--[[NEAR/CD]]
+
+#include(曖昧さ回避の追加の仕方/告知)

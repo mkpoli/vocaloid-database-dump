@@ -1,0 +1,28 @@
+#right(){&furigana(ほそろんぐP)&furigana()【登録タグ:&tags() 】}
+|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/45361752" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/45361752">【ニコニコ動画】</a></iframe>)|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/36622789" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/36622789">【ニコニコ動画】</a></iframe>)|
+
+**特徴
+-2013年4月5日投稿の「[[BOCCHINATION]]」でボカロPデビュー。
+-P名の由来はハンドルネームのfosolong(フォソロング)から。
+-MAYUを用いたロックを投稿している。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/fosolong]]
+-[[Vocaloiders>>http://vocaloiders.com/3982/]]
+-[[twitter>>https://twitter.com/fosolong]]
+
+**曲
+#list_by_tag(細ロングP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(細ロングPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm20525213)|&nicovideo(http://www.nicovideo.jp/watch/sm20541376)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm20567549)|&nicovideo(http://www.nicovideo.jp/watch/sm20587882)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm20631883)|&nicovideo(http://www.nicovideo.jp/watch/sm20646827)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm20673459)|&nicovideo(http://www.nicovideo.jp/watch/sm20687829)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm20698477)|&nicovideo(http://www.nicovideo.jp/watch/sm20712411)|
+
+**コメント
+#comment()

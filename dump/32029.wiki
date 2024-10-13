@@ -1,0 +1,41 @@
+#right(){&furigana(つくものさいうん)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&ref(https://www.suruga-ya.jp/database/pics/game/186148929.jpg,x=300,y=300)
+|&nicovideo(sm21986470)|
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[fourtuity]]|CENTER:&bold(){九十九ノ彩雲}|CENTER:[[Unknown World/CD]]|
+
+|&bold(){[[アオトケイ]]}|[[cillia]]|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2013年10月20日||
+|価格|CENTER:￥500|CENTER:￥735（税別）|
+|サークル|CENTER:ふじりんご|CENTER:141Hour Records|
+
+**CD紹介
+>七色の空　何故か１つ足りない在る空
+-Fuji（141hP）氏の3rdミニアルバム。
+-作詞・作曲：Fuji、ベース：はるちん（track05,06)、調声：[[Cillia]]（track05)、ピアノ：GOTS（track05)、アルバムアートワーク：宇都宮、クロスフェード動画：Oka
+-VOCALOID PARADISE 8（ボーパラ8）で頒布。
+-とらのあなで委託販売が行われていた。
+
+**曲目
++五月病インフェクト Fuji feat.GUMI
++[[サクラノコエ]] Fuji feat.GUMI
++[[茜空コネクション]] Fuji feat.初音ミク
++[[Under the sky - 碧眼の少女]] Fuji feat.GUMI,初音ミク
++[[九十九ノ彩雲>九十九ノ彩雲/アオトケイ]] Fuji and Cillia feat. 波音リツ
++[[弱虫のトランスレータ]] Fuji feat.GUMI,初音ミク
++九十九ノ彩雲 - GOTS Piano Ver
++九十九ノ彩雲 - Off Vocal Ver
+
+**リンク
+-[[twitter>>http://twitter.com/aoto_kei]]
+-[[ブロマガ>>http://ch.nicovideo.jp/fujiringo]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/16/58/040030165826.html]]
+
+**コメント
+#comment()

@@ -1,0 +1,33 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+
+&nicovideo(http://www.nicovideo.jp/watch/sm25731742)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Prhythm☆Star]]|CENTER:&bold(){Dolci Momenti}|CENTER:[[Magical Sympathy]]|
+
+|&bold(){[[銀河方面P]]}|
+
+|流通|CENTER:即売|
+|発売|CENTER:2015年3月8日|
+|価格|CENTER:￥500（税込）|
+|サークル|CENTER:すたじお☆ぺぱーみんと|
+
+**CD紹介
+-銀河方面P の 8th mini album 。
+-『[[放課後スウィートパーティー]]』 『[[明日のパスワード]]』 のバージョン違いに新曲を加えた全5曲を収録。
+-キュートで元気一杯のナンバーから、ちょっぴり切ない弾き語り風まで、バリエーション豊かな5つの世界をお楽しみください！（作者コメ転載）
+-ジャケットイラストは もで氏 が手掛ける。
+-VOCALOID PARADISE 関西4（ボーパラ関西4）にてリリース。
+
+**曲目
++[[放課後スウィートパーティー]] -Album Version-
++CatStep←CatHop→CatJump -Remix-
++[[明日のパスワード]] -Miku Version-
++大切な風景
++[[もっと・ずっと・君に届けたい！]] -Miku Version-
+
+**リンク
+-[[銀河方面P@神野貴志（たかぴ）のブログ（作者ブログ）>>http://ameblo.jp/studiopeppermint/]]
+
+**コメント
+#comment

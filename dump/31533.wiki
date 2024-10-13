@@ -1,0 +1,48 @@
+#right(){&furigana(FantasticPlanets)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo_mylist(<iframe width="312" height="176" src="http://ext.nicovideo.jp/thumb_mylist/43536288" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/43536288">【ニコニコ動画】</a></iframe>)|&nicovideo_mylist(<iframe width="312" height="176" src="http://ext.nicovideo.jp/thumb_mylist/43581020" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/43581020">【ニコニコ動画】</a></iframe>)|
+
+**特徴
+作り手名：『&u(){FantasticPlanets}』(&u(){ファンタスティックプラネッツ})
+>&bold(){作曲、作詞、脚本、イラスト、ムービー制作まで全てのクリエイティビティを独自のカテゴライズで一元化し作品をお届けする謎のクリエイティブユニット。}（（[[ニコニコ動画>>https://sp.nicovideo.jp/user/38464594]] プロフィールより転載。））
+//-メンバーは&bold(){エル}、&bold(){west tee}、&bold(){RUCCA}、&bold(){YUKA}、&bold(){kain}、&bold(){ナス子}、&bold(){つのつき}、&bold(){しがらき}、&bold(){HI}、&bold(){シエル＊}。
+-メンバーはボカロPの&bold(){エル}、&bold(){Ryta}、脚本・作詞担当の&bold(){RUCCA}、歌い手の&bold(){柊優花}、&bold(){kain}、絵師の&bold(){つのつき}、&bold(){しがらき}、動画師の&bold(){シエル＊}。
+-2014年4月、「[[ゴーストサプリ -正夢-]]」にてボカロデビュー。
+-使用合成音声は[[初音ミク]]、[[IA]]、[[鏡音リン>鏡音リン・レン]]。
+-代表作は、音楽ストーリー「ゴーストサプリ」シリーズ。
+--元々「ゴーストサプリ」シリーズは、つのつき氏がニコニコ静画にて投稿していたストーリーである。
+
+**リンク
+//-個人HP、PIAPRO、YouTube等ある場合は、ここに。当wiki以外のサイトへリンクを貼る場合は必ず「>>」で別ウインドウでリンクしてください。
+-[[ニコニコ動画>>https://sp.nicovideo.jp/user/38464594]]
+//-[[YouTube>>https://www.youtube.com/]]
+//-[[piapro>>https://piapro.jp/]]
+-[[Twitter>>https://twitter.com/FanPla]]
+-&s(){[[サイト>>http://fantasticplanets.net/]]}
+
+【メールアドレス】fantasticplanets.official@gmail.com
+
+**曲
+#list_by_tag(FantasticPlanets,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(FantasticPlanetsCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm23355191)|&nicovideo(sm23565515)|
+|&nicovideo(sm24606161)|&nicovideo(sm24861394)|
+|&nicovideo(sm25059160)|&nicovideo(sm25310077)|
+|&nicovideo(sm25724239)|&nicovideo(sm25886471)|
+
+**関連タグ内の更新履歴
+#region(close,関連タグ内の更新履歴)
+関連タグ内の更新履歴
+※「FantasticPlanets」「FantasticPlanetsCD」タグ内で最近編集やコメントのあった記事を新しい方から10件表示しています。
+#list_by_tagsearch(FantasticPlanets,FantasticPlanetsCD,sort=timestamp,sort2=desc,errmsg=まだ曲、CDが登録されていません。,or,10)
+#endregion
+
+**コメント
+#comment()

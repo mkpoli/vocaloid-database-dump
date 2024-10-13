@@ -1,0 +1,39 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#ref(http://karent.jp/npdca/1811_20151018095411_0280_0280.jpg)
+
+|&nicovideo(http://www.nicovideo.jp/watch/sm26806829)|&YouTube(http://www.youtube.com/watch?v=JLXK2TlyvhM){342,187}|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[GODDESS>GODDESS/CD]]|CENTER:&bold(){CARDINAL RED}|CENTER:[[Keep Existing>Keep Existing/CD]]|
+
+|&bold(){[[shu-tP]]}|&bold(){[[kaya>kaya/作り手]]}|
+
+発売：2015年11月5日
+価格：￥1,200
+流通：配信
+レーベル：KARENT
+
+**CD紹介
+-shu-tPとkaya氏によるユニットGlint Of Soundの10周年記念アルバム。
+-Glint Of Soundとしてのアルバムは初。
+-KARENTレーベルよりダウンロード販売が行われている。KARENTのMEIKO11周年記念企画で配信された作品の1つ。
+
+**曲目
++[[Cry for the sky]] -GOS 10th- （feat. MEIKO）
++[[Crystal]] -GOS 10th- （feat. MEIKO）
++[[Cardinal]] （feat. MEIKO）
++[[Cradle Of Destiny]] -GOS 10th- （feat. MEIKO）
++[[Close my eyes]] -GOS 10th- （feat. MEIKO）
++Continue History
++[[M>M/Glint Of Sound]] -GOS 10th- （feat. MEIKO）
++[[Solitary forest]] -GOS 10th- （feat. MEIKO&KAITO）
++[[Various feelings]] -GOS 10th- （feat. MEIKO）
++[[Everybody Say Hello]] -GOS 10th- （feat. MEIKO）
+
+**リンク
+-[[KARENT：「CARDINAL RED」>>http://karent.jp/album/1811]]
+-[[KARENT：「MEIKO記念祭'15」特集ページ>>http://karent.jp/special/meiko15]]
+-[[iTunes Store>>http://itunes.apple.com/jp/album/cardinal-red/id1055661639]]
+
+**コメント
+#comment()

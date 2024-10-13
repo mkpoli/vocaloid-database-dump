@@ -1,0 +1,46 @@
+#right(){&furigana(らのべっぽいこんぴ)&furigana()【登録タグ:&tags() 】}
+
+#ref(http://static.tumblr.com/27500b46170de998f8207e67fe177787/h6uzmbf/YxSnmsslx/tumblr_static_4ihggcfns10kg00wocskwg4so.jpg,width=300,height=300)
+
+
+|BGCOLOR(#55aa80):COLOR(#efefef):CENTER:&font(b,11pt){　クロスフェード　}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm26066137)|
+
+|BGCOLOR(#55aa80):COLOR(#efefef):CENTER:&font(b,11pt){　前作　}|BGCOLOR(#55aa80):COLOR(#efefef):CENTER:&font(b,11pt){　本作　}|BGCOLOR(#55aa80):COLOR(#efefef):CENTER:&font(b,11pt){　次作　}|
+|CENTER:-|CENTER:&bold(){ラノベっぽいコンピ}|CENTER:-|
+
+|[[(∵)キョトンP]]|[[Syu]]|Giz|[[Nia]]|[[残響P]]||
+|[[mokemoke]]|攻|[[Torero]]|[[ねじ式]]|[[アイワナP]]|[[市瀬るぽ]]|
+
+|BGCOLOR(#55aa80):COLOR(#efefef):CENTER:&font(b,11pt){　流通　}|BGCOLOR(#55aa80):COLOR(#efefef):CENTER:&font(b,11pt){　即売　}|
+|BGCOLOR(#55aa80):COLOR(#efefef):CENTER:&font(b,11pt){　発売　}|CENTER:　2015年4月25日　|
+|BGCOLOR(#55aa80):COLOR(#efefef):CENTER:&font(b,11pt){　価格　}|CENTER:　￥1,000（税込）　|
+|BGCOLOR(#55aa80):COLOR(#efefef):CENTER:&font(b,11pt){　サークル　}|CENTER:　もけにあ！　|
+
+**CD紹介
+>&bold(){9人のボカロPが描く、ライトノベル系楽曲コンピレーション！！}
+-このコンピの為に書き下ろされた全9曲を収録。
+-ジャケットイラストは Miu氏 が手掛ける。
+-THE VOC@LOiD 超 M@STER 31（超ボーマス4）にてリリース。
+
+**曲目
+|BGCOLOR(#55aa80):COLOR(#efefef):CENTER:&font(b,11pt){　Track　}|BGCOLOR(#55aa80):COLOR(#efefef):CENTER:&font(b,11pt){　曲名　}|BGCOLOR(#55aa80):COLOR(#efefef):CENTER:&font(b,11pt){　楽曲制作者　}|
+|BGCOLOR(#55aa80):COLOR(#efefef):CENTER:&font(b,11pt){ 01 }|CENTER:契約の魔女と朱色の魔技士|CENTER:ニシジマユーキ|
+|BGCOLOR(#55aa80):COLOR(#efefef):CENTER:&font(b,11pt){ 02 }|CENTER:[[指輪と少女のサンスクリットウォーズ]]|CENTER:Syu|
+|BGCOLOR(#55aa80):COLOR(#efefef):CENTER:&font(b,11pt){ 03 }|CENTER:そもそも脳内補正1000％だから私のラブコメはきゅんきゅんする|CENTER:Nia|
+|BGCOLOR(#55aa80):COLOR(#efefef):CENTER:&font(b,11pt){ 04 }|CENTER:さよなら僕らの四角形戦争|CENTER:残響P|
+|BGCOLOR(#55aa80):COLOR(#efefef):CENTER:&font(b,11pt){ 05 }|CENTER:[[七つの法則と終焉のカタルシス]]|CENTER:mokemoke|
+|BGCOLOR(#55aa80):COLOR(#efefef):CENTER:&font(b,11pt){ 06 }|CENTER:Fenrir|CENTER:Torero|
+|BGCOLOR(#55aa80):COLOR(#efefef):CENTER:&font(b,11pt){ 07 }|CENTER:[[懲役三年生]]|CENTER:ねじ式|
+|BGCOLOR(#55aa80):COLOR(#efefef):CENTER:&font(b,11pt){ 08 }|CENTER:[[僕らの殺戮計画は順調です>『僕らの殺戮計画は順調です。』]]|CENTER:アイワナP|
+|BGCOLOR(#55aa80):COLOR(#efefef):CENTER:&font(b,11pt){ 09 }|CENTER:「僕がいて、君がいて」|CENTER:市瀬るぽ|
+
+**リンク
+-[[特設サイト>>http://lightnovelcompilation.tumblr.com/]]
+
+**コメント
+- これめっちゃほしい  -- 名無しさん  (2015-04-20 01:16:13)
+- キョトンさんのタグを修正しておきました。  -- 名無しさん  (2015-04-20 01:27:55)
+- 何これ？  -- 良太  (2015-04-22 22:39:17)
+- 意外にも濃いメンツ  -- 名無しさん  (2015-05-09 00:37:15)
+#comment()

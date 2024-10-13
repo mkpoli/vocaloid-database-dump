@@ -1,0 +1,94 @@
+#right(){&furigana(ほんこつへっと)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm21483000)|&youtube(https://www.youtube.com/watch?v=HldF8oEJwf8){342,187}|
+作詞：[[イチカワ マサキ]]（[[萌きゅんエンジェル]]）
+作曲：[[YubiDoll]]（[[萌きゅんエンジェル]]）
+編曲：[[YubiDoll]]（[[萌きゅんエンジェル]]）
+唄：[[初音ミク]]
+
+**曲紹介
+曲名：『&u(){ポンコツヘッド}』
+-サークル「萌きゅんエンジェル」の6曲目。
+
+**歌詞
+（YouTube投稿者コメントより転載）
+
+リズム刻めない　響かない反応
+五里霧中　ハチャメチャ　暗中模索
+彷徨う days　彷徨う days
+すぐカオス and パニック and フリーズ no no
+非力な自分　成りたい自分に成れない
+自己表現　って何ですか？
+
+考えても解らない　だから何もできない
+いてもいなくても同じ　必要のない存在
+その知識は飾り物　使い物にならないスクラップ
+夢も希望も捨てた　負け犬のレジューム
+
+Ctrl ＋ Shift ＋ Delete 終わらせて
+
+何をやってもダメダメ warning messages
+不安を勇気に変えて　立ち上げれ弱虫
+一人じゃない　かつての誇りを思い出せ
+逃げ場所なんてない　Go ahead I
+
+Pon popon Yeah！ Pon popon Yeah！ Pon popon Yeah！
+Ponco 2, Ponco 2, Ponco 2 Head.
+
+
+卑屈な境涯　ココロの傷
+自暴自棄　バグだらけ　木端微塵
+能無し fool　能無し fool
+
+未来を信じるのは　本当に難しい
+言い訳もうヤメタ　空を見上げてみる
+鏡に映るポンコツ　心から笑い飛ばせたら
+塞いでいた眼に残る　輝く力
+
+one up ＋ B dush ＋ fire 使えたら
+
+明けない夜はない awake in tears
+大きな失望に　光が差し込む
+手に入らないものがそこにあるから
+逆襲のシナリオ胸に　I'll can change
+
+Pon popon Yeah！ Pon popon Yeah！ Pon popon Yeah！
+Ponco 2, Ponco 2, Ponco 2 Head.
+
+
+But even so...Didn't lost courage.
+I did it. We will do the same.
+Everyone can. Everyone not impossible.
+Calling. I'm not Ponco 2 Head.
+Never suffering is given unnecessarily.
+Now or never ? In the abyss.
+The decision rests with you.
+I want to go with you. I want to go with you.
+
+(何をやってもダメダメ warning messages)
+
+何をやってもダメダメ warning messages
+不安を勇気に変えて　立ち上げれ弱虫
+一人じゃない　かつての誇りを思い出せ
+ネガティブ発言撤回　Go ahead and run
+
+Pon popon Yeah！ Pon popon Yeah！ Pon popon Yeah！
+Ponco 2, Ponco 2, Ponco 2 Head.
+
+Pon popon Yeah！ Pon popon Yeah！ Pon popon Yeah！
+Ponco 2, Ponco 2, Ponco 2 Head.
+
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+**コメント
+#comment()
+
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)

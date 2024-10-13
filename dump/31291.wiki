@@ -1,0 +1,36 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm24980195)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){NOCHINOYO}|CENTER:-|
+
+|&bold(){[[おかゆ]]}|
+
+|流通|CENTER:配信|CENTER:委託|
+|発売|CENTER:2014年11月28日||
+|価格|CENTER:￥500（APOLLO限定）|CENTER:￥800（CDのみ、APOLLO限定）|
+||CENTER:￥600|CENTER:￥1,000（CD＋DL）|
+|サークル|>|CENTER:Back Alley Records|
+
+**CD紹介
+-おかゆ氏 の1stミニアルバム。
+-再ミックス、再マスタリング・未発表曲2曲を含む全8曲を収録。
+-Web即売会 「APOLLO」 にて先行ダウンロード販売。CD販売は BOOTH 内で生産限定30枚(再生産未定)。
+-現在は BOOTH にてDL販売のみ行われている。
+
+**曲目
++マボロシ
++[[5℃]]
++[[NNSS]]
++[[放射状のセカイにて]]
++[[心理現象]]
++新世界の二人
++[[ダンスホールドール]]
++[[KUUIKI>Kuuiki]]
+
+**リンク
+-[[作者Twitter>>https://twitter.com/okayu_okayu]]
+-[[BOOTH>>https://backalleyrecords.booth.pm/]]
+
+**コメント
+#comment()

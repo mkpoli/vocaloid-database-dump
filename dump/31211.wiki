@@ -1,0 +1,64 @@
+#right(){&furigana(CYBERDIVA)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+**製品
+&image(https://archive.yamaha.com/ja/news_release/2015/photo/1501230201.jpg,width=180)
+
+|製品名|CYBER DIVA（サイバー ディーバ）|
+|発売日|2015年2月5日|
+|価格|オープンプライス|
+|開発|YAMAHA|
+|エンジン|VOCALOID4|
+|言語|英語ライブラリ|
+|性別|女声|
+|サンプリング元|Jenny Shima（米国出身のネイティブスピーカー）|
+|得意な曲のテンポ|60-180 BPM|
+|得意な音域|G2-C4|
+
+***製品紹介
+合成音声名：『&u(){CYBER DIVA}』
+-VOCALOID4用の女性音声VOCALOIDで、英語ライブラリの搭載はYAMAHA製の音声ライブラリとして初。
+--サンプリング元は、米国出身のネイティブスピーカーを起用。（ニュースリリース/主な特長1.より）
+--通常の歌声合成ではイギリス英語に近い発音記号となるが、付属する「CYBER DIVA専用ユーザー辞書ファイル」をV4エディタに設定することで、自然なアメリカ英語の発音となる。（ニュースリリース/主な特長2.より）
+--「グロウル」の性能を最大限に引き出すことができるよう、ロックやソウル、ブルースなどで活躍する、少しざらついたかすれた声によるRough（ラフ）な声や、激し唸って耳をつんざくようなHarsh（ハーシュ）な声など、多様な歌声表現を追求することができる製品。（ニュースリリース/主な特長3.より）
+-2018年7月12日には、VOCALOID5に対応させた「CYBER DIVA II」が発売された。
+
+**公式デモソング
+|ATHENA（[[Circus-P]]+[[CRUSHER-P]]）|RUN AWAY（[[Circus-P]]+[[CRUSHER-P]]）|
+|&youtube(https://www.youtube.com/watch?v=wJfL_GNREWk){340,240}|&youtube(https://www.youtube.com/watch?v=pd4URJPazsA){340,240}|
+|THUNDERSTORM（[[Circus-P]]+[[CRUSHER-P]]）|DRAW A MELODY（[[うたたP]]）|
+|&youtube(https://www.youtube.com/watch?v=KBd2Upg-kQM){340,240}|&youtube(https://www.youtube.com/watch?v=85q49h-_MxI){340,240}|
+|YOU WILL SEE.（[[うたたP]]）||
+|&youtube(https://www.youtube.com/watch?v=4FFfICBeEP4){340,240}||
+
+**リンク
+-[[製品情報：CYBER DIVA VOCALOID™ ヤマハ株式会社>>http://jp.yamaha.com/products/music-production/software/vocaloid/v4_v_cyber_diva/]]
+-[[VOCALOID SHOP>>https://net.vocaloid.com/products/show/v4l_cyber_diva]]
+-[[VOCALOID4 Library CYBER DIVA ニュースリリース>>http://archive.yamaha.com/ja/news_release/2015/15012302.html]]
+//www.vocaloid.comがnet.vocaloid.comに移行したためリンク切れ
+//-[[VOCALOID™ / VOCALOID4 Library CYBER DIVA>>http://www.vocaloid.com/vocaloid4/lineup/cyberdiva.html]]
+//-[[VOCALOID4 Library CYBER DIVA ニュースリリース>>http://jp.yamaha.com/news_release/2015/15012302.html]]
+
+**関連タグ内の更新履歴
+※「CYBER DIVA」タグ内で最近編集やコメントのあった記事を新しい方から10件表示しています。
+#list_by_tagsearch(CYBER DIVA,sort=timestamp,sort2=desc,errmsg=まだ曲が登録されていません。,or,10)
+
+
+**コメント
+- 誰だろう？  -- 良太  (2015-01-24 00:22:02)
+- 英語ボカロなんだけど、日本の会社なんだね。しかも、イギリス英語とアメリカ英語両方歌えるんだ。このボカロは期待できる。  -- 名無しさん  (2015-01-24 18:04:09)
+- 日本製英語VOCALOIDは初めてですよね、声も良いし期待できそうです！  -- 息継ぎしてP  (2015-01-25 08:49:33)
+- 声いいね。期待できそう！  -- 悪斗  (2015-01-25 21:29:14)
+- 活躍して欲しい  -- 名無しさん  (2015-01-31 10:36:44)
+- ヤマハ初の英語ボカロと聞いていたが日本製として初だったのか！  -- 名無しさん  (2015-02-10 17:05:10)
+- 国内産の英語ボカロが出てくるとは・・・。期待が高まります！  -- けん  (2015-02-18 23:36:14)
+- テラレディーガガなんだがｗｗｗ  -- 名無しさん  (2015-03-22 15:08:54)
+- 声がなんかIAっぽいな。てかデモソングすげー気に入る。  -- 名無しさん  (2015-04-05 14:05:31)
+- 思ってたより声高い  -- 名無しさん  (2015-05-29 21:57:42)
+- 声が可愛すぎる。絶対有名になりそう！  -- 餅付き娘  (2015-08-29 20:01:34)
+- この人にECHOとかWILDFIRE!!とか歌ってほしいかも！！  -- 夢美  (2016-02-06 16:02:24)
+- ｢kaleidoscope haze｣と｢roller coaster ｣の曲が好き！  -- みみ  (2017-12-13 18:20:39)
+- http://i.imgur.com/HWNa8Fa.png　中の人の情報  -- 名無しさん  (2018-05-26 20:31:43)
+#comment()

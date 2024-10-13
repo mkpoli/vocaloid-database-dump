@@ -1,0 +1,33 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://ext.nicovideo.jp/thumb_mylist/30004246" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/30004246">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-2012年1月14日、「[[星空シグナル]]」でボカロPデビューを果たす。
+-使用するVOCALOIDは、初音ミク、GUMI、IA、蒼姫ラピス。
+-聴き手が楽しくなるような音作りに定評があり、調声技術のレベルも高い。
+-2013年6月17日投稿の「[[Till we meet again～また逢う日まで～]]」でボカロPを引退した。
+
+**リンク
+-[[HP>>http://alt.ninpou.jp/]]
+-[[twitter>>http://twitter.com/ALT_MusicF]]
+-[[YouTube>>http://www.youtube.com/user/ALTmusicF]]
+
+**曲
+#list_by_tag(ALT（蕾P）,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(ALT（蕾P）CD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+-&bold(){オリジナル曲}
+|&nicovideo(sm16692737)|&nicovideo(sm17023198)|
+|&nicovideo(sm17347592)|&nicovideo(sm18138111)|
+|&nicovideo(sm18773090)|&nicovideo(sm20191815)|
+|&nicovideo(sm20971570)|&nicovideo(sm21139908)|
+
+-&bold(){コラボ曲}
+|&nicovideo(sm19970944)||
+
+**コメント
+//- 引退したとかマジ最悪・・・・もっと続けてくださいよ・・・・ページがやっとできたのに、「存在イマジネーション」とっても良かった！  -- 良太  (2015-02-28 09:58:24)
+#comment()

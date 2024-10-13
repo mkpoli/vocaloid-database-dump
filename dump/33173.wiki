@@ -1,0 +1,38 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+
+&nicovideo(http://www.nicovideo.jp/watch/sm20652009)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[STARLiT－心の居場所－>STARLiT－心の居場所－/CD]]|CENTER:&bold(){Mile；Smile}|CENTER:[[遠恋]]|
+
+|&bold(){[[ルナ]]}|
+
+発売：2013年4月27日
+価格：￥1,200
+流通：即売
+サークル：雅音宮羽を忘れないproject
+
+**CD紹介
+-距離と恋愛をコンセプトとした、Luna Safari の2ndアルバム。
+-THE VOC@LOiD 超 M@STER 24（超ボーマス24）にて頒布。
+
+**曲目
++[[ラブ・ワンダー]] vocal : 初音ミク	
++[[遠恋>遠恋（ミクへの恋文）]] vocal : 初音ミク	
++捕まった宇宙人 vocal : 初音ミク	
++[[STARLiT－心の居場所－]] vocal : 初音ミク	
++Step on your heart -心印- vocal : 洛天依	
++End with a smile vocal : 楊雲翔	
++巡恋風 vocal : サクヤ	
++[[蛍夢>螢夢]] vocal : 泠鳶yousa	
++[[Plankton>Plankton～浮遊生物]] vocal : 鴉糜	
++Smile Raindrops vocal : 楊雲翔	
++Step on your heart -心印- (Japanese ver) bonus track
+
+**リンク
+-[[特設サイト>>http://taiwan-toho-moe.com/blog/?p=1346]]
+-[[twitter>>https://twitter.com/luna_safari]]
+
+**コメント
+- ライブラリ巡回　これはお勧め！　今でも手に入るのだろうか  -- takoruka2  (2016-01-17 23:25:00)
+#comment()

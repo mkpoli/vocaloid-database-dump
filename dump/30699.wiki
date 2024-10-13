@@ -1,0 +1,45 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#ref(http://karent.jp/npdca/1624_20141016084710_0280_0280.jpg)
+
+
+|&nicovideo(sm23836683)|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[きとんて～る☆ -コネコノキモチ-]]|CENTER:&bold(){Margherita!}|CENTER:[[ココノコエ>ココノコエ/CD]]|
+
+|&bold(){[[斜め上P]]}|
+
+|流通|CENTER:即売|CENTER:委託|CENTER:配信|
+|発売|CENTER:2014年6月29日|CENTER:|CENTER:2014年11月5日|
+|価格|CENTER:￥300|CENTER:|CENTER:￥300 / 1曲￥150|
+|サークル|>|CENTER:SURPRISE PARTY|CENTER:|
+
+**CD紹介
+>&bold(){期待の“大型”アイドルユニット登場！}
+-GUMI、弱音ハク、咲音メイコからなるアイドルユニット「マルゲリータ」とMEIKOのオリジナル曲を収録したシングルCD。
+-ボーカロイドでゴスペルに挑戦し話題を呼んだ「アメイジング・グレイス」も収録。
+-ジャケットイラストは daigoman氏 が手掛ける。
+-MEIKO PARADISEより頒布開始。とらのあなにて委託販売が行われている。
+-off vocal版以外はKARENTレーベルよりダウンロード販売が行われている。KARENTのMEIKO10周年記念企画で配信された作品の1つ。
+
+**曲目
+***CD版
++マルゲリータ！ -Three Girls Make a Market!-
++Memories in Amber -琥珀色の追憶-
++アメイジング・グレイス -Vocaloid Gospel Version-
++マルゲリータ！ -Three Girls Make a Market!- (off vocal)
++Memories in Amber -琥珀色の追憶- (off vocal)
+
+***配信版
++マルゲリータ！ -Three Girls Make a Market!- （feat. 咲音メイコ（MEIKO）＆弱音ハク（初音ミク）＆メグッポイド）
++Memories in Amber -琥珀色の追憶- （feat. MEIKO）
++アメイジング・グレイス -Vocaloid Gospel Version- （feat. MEIKO）
+
+**リンク
+-[[KARENT：「Margherita!」>>http://karent.jp/album/1624]]
+-[[KARENT：「MEIKO記念祭'14」特集ページ>>http://karent.jp/special/meiko14]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/22/40/040030224067.html]]
+-[[作者ブログ>>http://www.nanameue.com/]]
+
+**コメント
+#comment()

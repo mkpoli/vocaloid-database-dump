@@ -1,0 +1,86 @@
+#right(){&furigana(BWhoIWant2B)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&youtube(https://www.youtube.com/watch?v=NO4faIIpTeE){342,187}|
+作詞：[[SOPHIE]]・[[Mitchie M]]
+作曲：[[SOPHIE]]
+編曲：[[SOPHIE]]
+初音ミク調声：[[Mitchie M]]
+唄：安室奈美恵・[[初音ミク]]
+
+**曲紹介
+曲名：『&u(){B Who I Want 2 B}』
+-様々な分野のプロ達が結集して手掛けた、豪華コラボレーション楽曲。
+-曲のジャンルは、メロディが心地良いフューチャーポップ。
+-2015年6月10日に発売された 安室奈美恵氏 のアルバム『_genic』収録曲。
+-当初、&bold(){"U hum sneak it"}名義で、コラボシンガーの名前を伏せた形でインストver.の音源が公開された。&br()CD発売日前日、コラボシンガーが&font(i,b,#20b2aa){"初音ミク"}である事を正式に発表した。
+--因みに、"U hum sneak it"は&font(i,b,#20b2aa){"HATSUNE MIKU"}を並び替えたアナグラムで「こっそり口ずさむ」という意味があり、楽曲の発表まで&bold(){「密かに（こっそり）制作（口ずさむ）」}されてきたとの事。（[[初音ミク 公式ブログ>>http://blog.piapro.net/2015/06/z1506091-1.html]]より）
+-コラボイラストをペルソナチーム所属のキャラクターデザイナーである 副島成記氏 が手掛ける。
+-2015年6月9日YouTubeにてLyric Videoが公開後、同年10月14日にMVが公開された。
+-MVのコンセプトは「NEO TOKYO」で、全編フルCGと賑やかでカラフルな作品となっている。
+
+**歌詞（MVサイズ）
+
+If you think I need you boy
+You clearly made a big mistake
+独りじゃいられないのはあなた
+私だけのユリシスを求める
+
+All my friends keep asking me, on the daily
+All the boys in Tokyo Town, must be crazy
+'Cause half those guys are chasing me
+I'm like maybe cos they couldn't give me that
+
+I don't need, don't need anyone to be who I want to be, I'm the only one
+理想を仮想で夢見るモードのTokyo Pygmalion
+
+When you first saw me around
+Dressin up and getting down
+(Down in the club with all friends laughing)
+Fashion boys and millionaires
+かわしたわ みんな コピーキャット
+
+All my friends keep asking me, are you happy?
+Happy as a girl can be, are you happy
+I'm actually ecstatic, I'm so happy
+自由さえまとえば
+
+I don't need, don't need anyone to be who I want to be, I'm the only one
+理想を仮想で夢見るモードのTokyo Pygmalion
+
+I don't need, don't need anyone to do what I want to do, I'm the only one
+Now I'm not saying I don't want what you're giving
+But you couldn't give me that
+
+I don't need, don't need anyone to do what I want to do
+夢縛るなら街もあなたもバビロン
+
+// 日本語訳が掲載されていましたが公式の詞でしょうか？
+// 翻訳権の侵害のおそれがあるため、暫定措置として削除いたします。
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+**コメント
+//- 現時点ではCD収録のみの楽曲ですので削除案件だと思います。  -- 名無しさん  (2015-10-02 00:21:55)
+//- ↑一応ショートバージョンですが本人による投稿はありますよ  -- 名無しさん  (2015-10-05 19:43:16)
+//- ショートバージョン動画とはこのページに載っているLyric Videoというもののことでしょうか。でしたら歌詞のフル掲載はアウトですので編集します。コメントアウトもダメですよ。  -- 名無しさん  (2015-10-05 23:16:05)
+- MVカッコよすぎでしょーーーー！！！何回も観ちゃう！  -- 廃人39号  (2015-10-20 12:59:50)
+- 変わった曲だなーと思ったらSOPHIEさんか。相変わらず面白い曲を書くなぁ  -- 名無しさん  (2016-07-29 21:32:19)
+- 安室ちゃんの引退が発表された今、ふだん安室ちゃんを聞かないボカロ好きにもぜひ聴いてほしい  -- 名無しさん  (2017-09-25 01:04:17)
+- 安室ちゃんとミクさんの声の相性がいいな。調声した人、シティーボーイとかアゲアゲアゲインの人か。通りで人間っぽいイントネーションだったわけだ。  -- クリオネf。t  (2018-10-20 16:34:06)
+- SOPHIE氏が亡くなってから聞いたが印象が変わっちまった。Mitchie Mにこれ。単体では聞けない  -- 名無しさん  (2023-07-30 16:14:41)
+#comment()
+
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)
+
+B WHO I WANT 2 B
+Samuel Long / Michio Tsukada
+Ⓒ Copyright by Brill Building Music Publishing, LLC
+All rights reserved.  Used by permission.
+Print rights for Japan administered by Yamaha Music Entertainment Holdings, Inc.

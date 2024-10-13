@@ -1,0 +1,42 @@
+#right(){&furigana(ゆめのはちばんち)&furigana()【登録タグ:&tags() 】}
+
+&ref(https://s2.booth.pm/aa45c899-cc35-4b02-bcf8-ccd1046b7327/i/95381/d75aa86e-6b62-408d-804e-328887d25cc1_base_resized.jpg,x=300,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm26043159)
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){夢の八番地}|CENTER:-|
+
+|&bold(){[[残響P]]}|&bold(){[[Liz.]]}|[[ミヤケン]]|[[エポック]]||
+|[[HaTa]]|[[夏鳴屋]]|[[Orangestar]]|[[mint*]]|攻|
+
+|流通|CENTER:即売|CENTER:通販|
+|発売|CENTER:2015年4月25日||
+|価格|CENTER:￥1,000|CENTER:￥1,000|
+|サークル|CENTER:せやねん||
+
+**CD紹介
+-『夢』をテーマに8人のボカロPが新曲を書き下ろし！
+-Illust：香味味噌、Mastering：enji
+-THE VOC@LOiD 超 M@STER 31（超ボーマス31）で頒布。
+-BOOTHで通信販売が行われている。
+
+**曲目
++ドリームランド / 初音ミク feat. ミヤケン
++DEDE / GUMI feat. エポック
++[[こんな夢を見た。>こんな夢を見た。/HaTa]] / 初音ミク feat. HaTa
++[[幾千ものありがとうと一輪の花]] / 初音ミク feat. 夏鳴屋
++[[Alicia]] / IA feat. Liz.
++CANCER / 初音ミク feat. Orangestar
++[[花風*ワンダーレール]] / IA×GUMI feat. mint*
++[[バロバクレ]] / 鏡音リン feat. 残響P
+
+**リンク
+-[[BOOTH通販>>http://3ps708.booth.pm/items/95381]]
+
+**コメント
+- ほしい  -- 名無しさん  (2015-07-27 19:43:51)
+- mintさんの曲よかった  -- 名無しさん  (2015-08-25 23:58:43)
+- 蜜柑星さんの曲あるのか……欲しい  -- 名無しさん  (2015-09-06 21:39:27)
+- なにこれ欲しい。すごく欲しい  -- 名無しさん  (2015-11-27 20:35:46)
+- hataさん大好き❤  -- しらす  (2017-06-19 18:28:42)
+#comment()

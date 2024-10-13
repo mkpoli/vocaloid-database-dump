@@ -1,0 +1,41 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm21987258)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){light sounds}|CENTER:[[blues power]]|
+
+|&bold(){[[空海月]]}|
+
+|流通|CENTER:即売|CENTER:配信|
+|発売|CENTER:2013年10月20日|CENTER:2016年3月7日|
+|価格|CENTER:￥1,000|CENTER:￥300|
+|サークル|>|CENTER:jellyfish sounds|
+
+**CD紹介
+>軽くて、キラキラで、ちょっぴり切ないアルバム。
+>「朝がきて、夜がきて、また朝はくるのに・・・」
+-空海月氏の1stアルバム。
+-イラストは四ノ原氏。
+-VOCALOID PARADISE 8（ボーパラ8）で初頒布。
+-2016年3月にBOOTHでダウンロード販売が開始された。
+
+**曲目
++[[君のことがやっぱり]]
++[[コーヒータイム]]
++[[Ice Cream Girl]]
++[[happiness>happiness/空海月]]
++[[夏の暑さ]]
++[[やっぱり好きなの]]
++[[恋愛ノート]]
++ko・i・shi・te・ru
++[[8:00 p.m.]]
++[[Lost My Love]]
++[[ハートアタック]]
++[[始まりの朝]]
+
+**リンク
+-[[twitter>>http://twitter.com/solakurage]]
+-[[BOOTH>>http://solakurage.booth.pm/items/213610]]
+
+**コメント
+#comment()

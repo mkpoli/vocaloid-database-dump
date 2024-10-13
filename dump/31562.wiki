@@ -1,0 +1,35 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+|&nicovideo(http://www.nicovideo.jp/watch/sm18240924)|&YouTube(http://www.youtube.com/watch?v=plTWGNyLEXM)|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[The Art Of Real Sounds vol.1 -WATER-]]|CENTER:&bold(){The Art Of Real Sounds vol.1.5 -INTERLUDE-}|CENTER:[[The Art Of Real Sounds vol.2 -NIGHT-]]|
+
+|[[南欧P]]|渡辺裕太浪|[[イメソラP]]|ブルーヘヴン|氷室|[[西島ソーンダイク]]|[[Man_boo]]|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|CENTER:2012年7月8日||
+|価格|CENTER:￥500|CENTER:￥750（税別）|
+|サークル|>|CENTER:Headfish Lab.|
+
+**CD紹介
+-生演奏　×　VOCALOID　のコンピレーションアルバム、The Art Of Real Sounds。&br()[[vol.1>The Art Of Real Sounds vol.1 -WATER-]]参加者の曲から、生演奏版3曲、生演奏Remix1曲を収録したミニアルバムをお届けします！
+-企画：tarezo、イラスト：ダリ、マスタリング：Man_boo
+-THE VOC@LOiD M@STER 21（ボーマス21）で頒布。
+-とらのあなで委託販売が行われていた。
+
+**曲目
++[[灼熱愛のサンバ]] / Lyrics：渡辺裕太浪、Music：ドグマ虫 / Vocal：初音ミク
++-Flute：*ゆき*、Trumpet：Man_boo、Trombone：Kei、Alto・Tenor Saxophone：tarezo、Electric Bass：エロメガネ  
++[[ala]] / Lyrics：ブルーヘヴン、氷室、Music：スナフキン＠イメソラ / Vocal：初音ミク
++-Violin：setsat、Flute：*ゆき*、Acordion Sequence：ドグマ虫、Flamenco Guitar Sequence：tarezo、Percussion：tabi-p、Electric Bass：エロメガネ
++[[6>6/西島ソーンダイク]] / Music：西島尊大 / Vocal：初音ミク
++-Piano：西島尊大、Flute：*ゆき*、Violin：setsat、Contrabass：tabi-p、Saxophone：tarezo
++[[ウソとパレード]] -Hard Samba Remix- / Lyrics, Music：Man_boo / Vocal：猫村いろは、なき
++-Piano：ちぇず、Trumpet, Percussion, Chorus：Man_boo、Electric Bass：やうり
+
+**リンク
+-[[特設サイト>>http://real-sounds.net/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/05/55/040030055580.html]]
+
+**コメント
+#comment()

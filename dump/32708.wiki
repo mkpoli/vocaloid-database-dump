@@ -1,0 +1,35 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm26093675)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[BLOOM>BLOOM/ORYOCD]]|CENTER:&bold(){redress Ⅱ}|CENTER:[[QUINT]]|
+
+|&bold(){[[ORYO]]}|
+
+発売：2015年4月26日
+価格：￥500
+流通：即売
+サークル：FAULHEIT
+
+**CD紹介
+>&bold(){―いっそ夢であったら良かったのに。}
+-FAULHEITのセルフカバーミニアルバム。
+-全7曲を収録。
+-ジャケットイラストは[[おはぎ]]氏が手掛ける。
+-THE VOC@LOiD 超 M@STER 31（超ボーマス31）で頒布。
+
+**曲目
++ヘヴンダイバー / GUMI
++[[独我論 code:altered]] / 鏡音レン
++[[シニカルアディクト]] / 鏡音リン
++[[声>声/ORYO]] / 神威がくぽ
++[[トレチャリークロール]] / GUMI
++[[空色の傲慢]] / 結月ゆかり
++fragment / 鏡音レン
+
+**リンク
+-[[サークルサイト>>http://faulheit.jp/]]
+-[[作者ブログ>>http://oryo-faulheit.jugem.jp/]]
+
+**コメント
+#comment()

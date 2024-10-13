@@ -1,0 +1,48 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+//&ref(http://s.mzstatic.com/htmlResources/ACCC/frameworks/images/p.png)
+//
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[一心不乱]]|CENTER:&bold(){DIVINE-DIVA}|CENTER:-|
+
+|BGCOLOR(yellow):CENTER:クロスフェード動画|
+|&nicovideo(sm25427059)|
+
+|&bold(){[[梅とら]]}|
+
+発売：2015年2月3日
+価格：￥1,200（税込） / 1曲￥200
+流通：配信
+レーベル：dwango.jp
+
+|&bold(){[[iTunes Storeで購入>>http://itunes.apple.com/jp/album/divine-diva/id959816349]]}|
+
+**CD紹介
+-梅とら氏が生み出したボカロ5人によるグループ「DIVINE-DIVA」の1stアルバム。
+-配信限定のアルバムである。
+-氏の初殿堂入り作「[[一心不乱]]」や、初ミリオン作「[[威風堂々]]」などの既存曲に、書下ろし曲も入った10曲入り。
+-既存曲のほとんどはこのアルバムのためにアレンジされている。
+-ちなみになぜ配信限定かというと、CDにすると制作コストが多くかかってしまうためらしい。
+
+**曲目
++[[威風堂々]] (ver.D/D)
++[[虎視眈々]] (ver.D/D)
++[[LaLaL危]]
++赤イ花
++[[狂喜乱舞]] (ver.D/D)
++[[一騎当千]]
++[[四面楚歌>四面楚歌/梅とら]] (ver.D/D)
++[[Flash Back>FLASH BACK/梅とら]] (ver.D/D)
++[[change the world for you>君の為にこの世界を変えてしまおう]] (ver.D/D)
++[[一心不乱]] (ver.D/D)
+
+**リンク
+-[[作者HP>>http://umemaru2umemaru.blog86.fc2.com/]]
+-[[dwango.jp>>http://pc.dwango.jp/portals/album/70027964]]
+
+**コメント
+- 梅トラさんのアルバムだ！！  -- 良太  (2015-02-07 17:26:15)
+- めっちゃ良かった‼︎  -- ゴリラ  (2015-02-08 22:27:32)
+- クロスフェード面白かった！梅とらさん相変わらず音楽かっこいい！！クロスフェードもそうだけど、センスあり過ぎ‼︎‼︎  -- なか  (2015-03-22 21:34:15)
+//- LALALALALA_(:3」∠)_  -- NEKOKAZARY  (2015-06-04 12:00:02)
+- 一騎当千 好きだわ～  -- MICHAEL  (2016-07-27 19:19:42)
+#comment()

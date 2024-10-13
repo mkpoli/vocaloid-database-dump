@@ -1,0 +1,70 @@
+#right(){&furigana(Haniwa)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://ext.nicovideo.jp/thumb_mylist/44470671" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/44470671">【ニコニコ動画】</a></iframe>)
+
+**特徴
+曲名：『&u(){Haniwa}』
+-処女作は2014年5月20日投稿の「[[ギターと騙され弾いたら四弦]]」。
+-初音ミク、およびVOICEROIDの結月ゆかりを使用した楽曲を制作している。
+-本人演奏のベースと打ち込みのドラムをメインにしたVOCAROCKおよびポエトリーリーディング曲が多い。また実験的な取り組みを採用した曲も多い。
+-『Haniwa』という名義が他の人とかぶっていたりするので、氏のサークルである『&b(){アメリカ民謡研究会}』で呼ばれることもある。
+-MVでは氏の手書きの文字や実写、プロジェクターを使用したもの、Unityを利用したものなど創意工夫を凝らした自作の動画を制作している。
+-次の曲が殿堂入りを達成している。&br()&list_by_tagsearch(Haniwa,殿堂入り,sort=furigana,option=nolist,nolistspace=、,100)
+
+**リンク
+-[[Twitter>>https://twitter.com/0Haniwa0]]
+-[[Piapro>>https://piapro.jp/haniwa0]]
+-[[YouTube>>https://www.youtube.com/channel/UC3e1WyrNEhu3TMJ2PyTUlNA]]
+
+**曲
+#list_by_tag(Haniwa,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(HaniwaCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|>|BGCOLOR(black):COLOR(white):CENTER:&font(b,11pt){オリジナル曲}|
+|&nicovideo(sm23599852)|&nicovideo(sm23679492)|
+|&nicovideo(sm23751507)|&nicovideo(sm23950078)|
+|&nicovideo(sm24213935)|&nicovideo(sm24432439)|
+|&nicovideo(sm24504957)|&nicovideo(sm24659237)|
+|&nicovideo(sm24809948)|&nicovideo(sm25010078)|
+|&nicovideo(sm25209897)|&nicovideo(sm25317039)|
+|&nicovideo(sm25405033)|&nicovideo(sm25620140)|
+|&nicovideo(sm25726301)|&nicovideo(sm25776276)|
+|&nicovideo(sm25961378)|&nicovideo(sm26218003)|
+|&nicovideo(sm26453455)|&nicovideo(sm26880240)|
+|&nicovideo(sm27414783)|&nicovideo(sm27701342)|
+|&nicovideo(sm28060499)|&nicovideo(sm28401800)|
+|&nicovideo(sm28885855)|&nicovideo(sm29387663)|
+|&nicovideo(sm29573547)|&nicovideo(sm29836558)|
+|&nicovideo(sm30196820)|&nicovideo(sm30704855)|
+|&nicovideo(sm30973732)|&nicovideo(sm31201865)|
+|&nicovideo(sm31690555)|&youtube(https://www.youtube.com/watch?v=PunoQuplzyM){342,187}|
+|&nicovideo(sm32014557)|&nicovideo(sm32169105)|
+|&nicovideo(sm32506644)|&nicovideo(sm32660275)|
+|&nicovideo(sm32822354)|&youtube(https://www.youtube.com/watch?v=I_JWJUu6wmY){342,187}|
+|&nicovideo(sm33047123)|&nicovideo(sm33631856)|
+|&nicovideo(sm34390306)|&nicovideo(sm34665577)|
+|&nicovideo(sm35088252)|&nicovideo(sm38326383)|
+|&nicovideo(sm38425450)|&nicovideo(sm38558064)|
+|&nicovideo(sm38736856)|&nicovideo(sm38899173)|
+//|&nicovideo()|&nicovideo()|
+
+
+|>|BGCOLOR(black):COLOR(white):CENTER:&font(b,11pt){コラボ曲}|
+|&nicovideo(sm25565954)|&nicovideo(sm25545605)|
+
+**コメント
+- かっこいいし面白い曲作るね  -- 名無しさん  (2015-12-07 16:42:19)
+- センスがすごい。世界観すき  -- 名無しさん  (2017-06-18 09:58:34)
+- すごいすきです。  -- 名無し  (2017-06-22 05:38:51)
+- 才能の塊。曲を聴くのを勿体ないと思ったのはこの人が初めて  -- 名無しさん  (2017-12-13 23:05:03)
+- VOCALOIDの結月ゆかりは使っていないんでしょうか？VOICEROIDのみだとページ作れないので確認しておきたいです。  -- 名無しさん  (2018-09-08 01:44:27)
+- HaniwaさんはVOCALOIDの結月ゆかりは使用されていなかったはずですー　既にボイロのみの曲のページあったので色々一気に作成してしまいました…　禁止事項だったならすみません  -- 名無しさん  (2018-09-08 01:58:19)
+- ルール改定により、VOICEROIDのみ使用の結月ゆかりの楽曲も掲載できるようになりました。また登録お願いします。  -- 名無しさん  (2021-04-23 01:06:05)
+- たったひとつのずっとなかよし。追加希望です！！！  -- 名無しさん  (2023-09-26 09:05:00)
+#comment()

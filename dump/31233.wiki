@@ -1,0 +1,35 @@
+#right(){&furigana(もりもとひろしーと)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/5939731" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/5939731">【ニコニコ動画】</a></iframe>)
+
+**特徴
+作り手名：『&u(){森本ヒロシート}』（&u(){もりもとひろしーと}）
+-IAを使ったオリジナル曲や、アレンジ曲を投稿しているP。
+
+**リンク
+-[[Twitter>>https://twitter.com/MrmtPiroCt]]
+-[[PIAPRO>>https://piapro.jp/MrmtPiroCt]]
+
+**曲
+#list_by_tag(森本ヒロシート,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(森本ヒロシートCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**オリジナル曲
+|&nicovideo(sm22307265)|&nicovideo(sm22463223)|
+|&nicovideo(sm22838554)|&nicovideo(sm23047332)|
+|&nicovideo(sm23342981)|&nicovideo(sm24653860)|
+
+**アレンジ曲
+|&nicovideo(sm17999622)|&nicovideo(sm19542427)|
+|&nicovideo(sm20042619)|&nicovideo(sm20652764)|
+|&nicovideo(sm20811473)|&nicovideo(sm21078707)|
+|&nicovideo(sm21596666)|&nicovideo(sm24248329)|
+|&nicovideo(sm24974103)|&nicovideo(sm25153327)|
+
+**コメント
+#comment()

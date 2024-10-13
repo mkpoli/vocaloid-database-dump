@@ -1,0 +1,31 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[White Memories>White Memories/CD]]|CENTER:&bold(){Yukarecovery}&br()[[Lock on YUKARIN]]|CENTER:[[Violet Moon]]|
+
+|&bold(){[[ちょむP]]}|
+
+発売：2015年10月25日
+価格：￥500
+流通：即売
+サークル：ちょむ工房
+
+**CD紹介
+-ちょむPの18作目となるボーカロイドアルバム。
+-メインボーカルは結月ゆかり。
+-今回は各所で発表済みの他ボーカルによる楽曲を結月ゆかりV4でカバー、さらに今回のために特別にミックスを見なおし再調整した、リミックス・カバーミニアルバムとなっています。
+-ジャケットイラストは黒白ぐれい氏。
+-CDではなく、[[SONOCA>>http://sonoca.net/]]でのリリースとなる。
+-M3-2015秋で頒布。
+-委託販売の予定は無し。
+
+**曲目
++えくすとりーむ・もふもふ (yukarecovery mof2 remix)
++ゼンカイガール (yukarecovery remix)
++[[空をわたる夢]] (yukarecovery zun2 remix)
++[[プリンセスは夢の中]] (yukarecovery remix)
+
+**リンク
+-[[作者サイト>>http://chomstudio.com/]]
+
+**コメント
+#comment()

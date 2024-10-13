@@ -1,0 +1,37 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#ref(http://vocadb.net/Album/CoverPicture/7951?v=15,width=300,height=300) 
+
+&nicovideo(http://www.nicovideo.jp/watch/sm22996492)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Re:fleaction}|CENTER:[[HEART'S WAVE]]|
+
+|&bold(){[[Project yumeiruka]]}|&bold(){[[ねこむら>ねこむら/作り手]]}|&bold(){[[かねイルカ]]}|
+
+>&b(){ジャケットイラスト：[[一之瀬くぅ(♀)]]}
+
+|流通|CENTER:即売|CENTER:通販|
+|発売|CENTER:2014年03月02日||
+|価格|CENTER:￥500（税込）||
+|サークル|>|Project yumeiruka|
+
+**CD紹介
+-Project yumeiruka1stミニアルバム。
+-[[ねこむら>ねこむら/作り手]]、[[かねイルカ]]それぞれ個人としても初のCD音源であり、両者のスプリットミニアルバムとしての側面を持ち合わせている。
+-イラスト・ロゴ：一之瀬くぅ(♀)
+-VOCALOID PARADISE 関西3（ボーパラ関西3）で頒布。
+-同人ショップ店頭や全国CDショップ店頭での販売、ダウンロード販売は行われていないものの、個人通販は行われている。
+
+**曲目
++Memories Of Autumn Breeze
++ここからまたはじめよう
++無題-extend edition-
++[[またひとつ]]
++クソムシといわれたい(Re:fleaction ver.)
++[[秋風の記憶]]
+
+**リンク
+-[[VOCADB>>http://vocadb.net/Al/7951]]
+
+**コメント
+#comment()

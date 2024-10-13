@@ -1,0 +1,44 @@
+#right(){&furigana(くりえいたーしょうこうぐん)&furigana()【登録タグ:&tags() 】}
+&image(http://karent.jp/npdca/1973_20161115225417_0280_0280.jpg)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm27391363)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){クリエイター症候群}|CENTER:[[世界はトマトに恋し過ぎ]]|
+
+|&bold(){[[たかぴぃ]]}|
+
+|流通|CENTER:即売|CENTER:同人|CENTER:配信|
+|発売|CENTER:2015年10月25日||CENTER:2016年11月30日|
+|価格|CENTER:￥1,000||CENTER:￥1,200|
+|サークル|CENTER:GTども|||
+
+**CD紹介
+-たかぴぃ氏 の1stアルバム。
+-メイン6曲に加え、ボーナストラックとして生放送中に出来た即興曲6曲（未完成）を収録。
+-ジャケットイラストを bob氏 が、デザインを chamo氏 が手掛ける。
+-M3 2015秋より頒布開始。
+-メロンブックスで委託販売が行われていた。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++[[その症状、もはや病気。]]
++[[Creator's Real]]
++[[ノイズサプレッサー]]
++[[マヤカシ]]
++[[ラシクサク]]
++[[夏ノ夜幻想曲>夏ノ夜幻想曲-ナツノヨファンタジア-]]（アルバムver）
++雲は有機物
++脳汁どばどば
++和傘クライシス
++ギターって（描くの）難しいよねの歌
++ミクが全力で寝かしつけにくる曲
++マヤカシ（LIVE ver）
+
+**リンク
+-[[twitter>>http://twitter.com/niconico_takaP]]
+-[[KARENT：「クリエイター症候群」>>http://karent.jp/album/1973]]
+-[[iTunes Store>>http://itunes.apple.com/jp/album/creator-syndrome/id1177378620]]
+
+**コメント
+#comment()

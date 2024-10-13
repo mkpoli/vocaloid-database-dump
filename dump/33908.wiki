@@ -1,0 +1,41 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+
+#amazon(B00CRANIPU)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm19171954)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[sync-loid:01]]|CENTER:&bold(){sync-loid:02}|CENTER:[[sync-loid:03]]|
+
+|[[キャプテンミライ]]|[[銀河方面P]]|[[アキバヲタP]]|[[ぼいじゃあ]]|[[takamatt]]|[[カニミソP]]|[[れれれP]]|
+|[[ぶりるP]]|korumi|[[Eon]]|佐野しいな |[[project sync-loid]]|[[市子おはる]]||
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2012年10月28日||
+|価格|CENTER:￥1,000（税込）|CENTER:￥1,500（税別）|
+|レーベル|>|CENTER:project sync-loid|
+
+**CD紹介
+-コンピアルバム「Sync-loid」シリーズ第二弾！&br()今回は10月28日に開催されますVOCALOID PARADISE7開催企画として&br()今回は9名のPの方にご協力頂き、「sync-loid:02」登場です！（クロスフェード動画説明文より引用）
+-ボーカロイドオンリー即売会「VOCALOID PARADISE 関西」と&br()音系オンリー即売会「MUSIC COMMUNICATION」がお送りする&br()コンピレーションアルバム第二弾!&br()総勢9名のプロデューサーによるボカロ曲の融合!（Amazon商品説明文より引用）
+-とらのあな、メロンブックス、Amazonで委託販売が行われていた。
+
+**曲目
++未来の話をしようじゃないか / キャプテンミライ feat. 鏡音リン
++紺碧の瞳 / 銀河方面P feat. 初音ミク
++或る交差点にて赤裸々と奏でるピアニストの思想は悲愴感からの観点を孕み優越に浸る輩を嘲笑うかの様に演奏し続けて死んでしまう / アキバヲタP feat. 猫村いろは
++[[愛エキ]] / ぼいじゃあ feat. 初音ミク
++[[ライオン☆ボーイ]] / takamatt feat. 鏡音レン
++ライアー・マント / mathru(かにみそP) feat. 神威がくぽ
++[[さよならを聞かせてよ]] / ぶりるP feat. GUMI
++イザ、サラバ / れれれP feat. 鏡音レン
++[[月と私]] / Eon feat. GUMI
+
+**リンク
+//-[[sync-loid:02 特設サイト>>http://vo-para.birdzberth.com/syncloid02/]]
+-[[sync-loid>>http://ttc.ninja-web.net/vo-para/sync-loid.htm]]
+-[[Amazon>>http://www.amazon.co.jp/dp/B00CRANIPU]]
+
+**コメント
+- Eonさんの曲 sm18128134 確認しました  -- 名無しさん  (2016-02-14 05:24:30)
+#comment()

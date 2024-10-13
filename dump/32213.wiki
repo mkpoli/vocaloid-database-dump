@@ -1,0 +1,36 @@
+#right(){&furigana(ここのこえ)&furigana()【登録タグ:&tags() 】}
+
+&ref(https://ecdnimg.toranoana.jp/ec/img/04/0030/32/19/040030321916-1p.jpg,x=300)
+
+|&nicovideo(sm26457096)|
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Margherita!]]|CENTER:&bold(){ココノコエ}|CENTER:[[ココノコエ（配信）>ココノコエ]]|
+
+|&bold(){[[斜め上P]]}|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|CENTER:2015年6月14日||
+|価格|CENTER:￥500|CENTER:￥746（税別）|
+|サークル|>|CENTER:SURPRISE PARTY|
+
+**CD紹介
+-斜め上PのCDシングル。
+-V3MEIKOをフィーチャーした表題曲「ココノコエ」に、結月ゆかりの「月魄 -TSUKISHIRO-」と神威がくぽの「月魄 -GEPPAKU-」も収録。
+-イラストはdaigoman氏。
+-VOCALOID PARADISE 番外編 4 MEIKO PARADISE 2（ボーパラ番外編4メイパラ2）で頒布。
+-とらのあなで委託販売が行われている。
+
+**曲目
++[[ココノコエ]]
++[[月魄 -TSUKISHIRO-]]
++[[月魄 -GEPPAKU->月魄 -TSUKISHIRO-]]
++ココノコエ (Off Vocal)
++月魄 -TSUKISHIRO- (Off Vocal)
++月魄 -GEPPAKU- (Off Vocal)
+
+**リンク
+-[[作者ブログ>>http://www.nanameue.com/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/32/19/040030321916.html]]
+
+**コメント
+#comment()

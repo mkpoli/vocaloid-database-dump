@@ -1,0 +1,42 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1639_20141111230356_0280_0280.jpg)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm24647443)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Odyssey>Odyssey/CD]]|CENTER:&bold(){わさび}&br()[[パンダ大作戦]]|CENTER:[[深淵>深淵/CD]]|
+
+|&bold(){[[Chiquewa]]}|[[ぱんだっち]]|
+
+|流通|CENTER:即売|CENTER:配信|
+|発売|CENTER:2014年10月19日|CENTER:2014年11月26日|
+|価格|CENTER:￥1,000|CENTER:￥900|
+|サークル|CENTER:Sasakama Studio||
+
+**CD紹介
+>日常のちょっとした薬味にどうぞ。
+-お刺身やお寿司、そのままでも十分美味しく満足できます。でも少し「わさび」を加えると、もっと美味しい。そんなアルバムです。
+-Chiquewa氏の4thアルバム。
+-イラストを[[ちぃ]]（0108-音屋-）氏が担当。
+-VOCALOID PARADISE 9（ボーパラ9）で初頒布。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++[[A.C.A.P (as close as possible)>A.C.A.P.]]　feat. 巡音ルカ
++[[咲くやこの花]]　feat. 巡音ルカ
++[[チョコレート・リバイバル]]　feat. 初音ミク Append
++Rhythm Of Love　feat. 初音ミク
++うまくいかない　feat. 巡音ルカ
++ぐるぐる　feat. 初音ミク Append
++チクタク　feat. 初音ミク
++プリムラ　feat. 巡音ルカ
++おやすみなさい　feat. 巡音ルカ
+
+**リンク
+-[[作者ブログ>>http://chiquewa.blogspot.jp/]]
+-[[特設サイト>>http://chiquewa-wasabi.blogspot.jp/]]
+-[[KARENT「わさび」>>http://karent.jp/album/1639]]
+-[[iTunes Store>>https://itunes.apple.com/jp/album/wasabi/id941523802]]
+
+**コメント
+#comment()

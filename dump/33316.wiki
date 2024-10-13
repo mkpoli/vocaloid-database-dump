@@ -1,0 +1,62 @@
+#right(){&furigana()&furigana()【登録タグ:&tags()】}
+|&nicovideo(http://www.nicovideo.jp/watch/sm23729167)|&YouTube(http://www.youtube.com/watch?v=p773U8ZBwR8){342,187}|
+作詞：[[雪月]]
+作曲：[[雪月]]
+編曲：[[雪月]]
+唄：[[MEIKO]] V3 WHISPER（コーラス：WIL（ZOLA PROJECT））
+
+**曲紹介
+>夜はお静かに。
+-静かな夜ジャズです。
+-KARENTレーベルよりダウンロード販売が行われている。[[MEIKO11周年記念企画>>http://karent.jp/special/meiko15]]で配信された作品の1つ。
+
+**音楽配信
+&ref(http://karent.jp/npdca/1810_20151016185902_0280_0280.jpg)
+
+|CENTER:前作|CENTER:今作|CENTER:次作|
+|CENTER:[[Trick]]|CENTER:&bold(){showdown}|CENTER:-|
+
+流通：配信
+発売：2015年11月5日
+価格：￥150
+レーベル：[[KARENT>>http://karent.jp/album/1810]]
+ジャケット：[[雪月]]
+
+|&bold(){[[iTunes Storeで購入>>http://itunes.apple.com/jp/album/showdown-single/id1054838116]]}|
+
+***曲目
++showdown （feat. MEIKO）
+
+**歌詞
+（動画より書き起こし）
+
+showdown
+あまり見つめないでくれ
+だってつまらないから
+笑いどころうっかり忘れてたよ
+
+クラブのジャックは絆され
+スペードのクイーンは逃げ出す
+これで全てだよ
+showdown
+
+ポーカーフェイスの裏側で
+浮かべた笑みは
+冷えた指を拒まずにいた
+
+Midnight,
+Believe in moon light and me.
+違えた言葉　二度と戻ってはこない
+
+showdown
+あまり見つめないでくれ
+ずっと隠れてたから
+あたためてよ　ゆっくり眠れるまで
+
+ダイヤの様な煌めき
+誰かのハートを遊ぶの
+夜はお静かに showdown
+
+
+**コメント
+#comment()

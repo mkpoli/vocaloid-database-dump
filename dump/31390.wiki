@@ -1,0 +1,45 @@
+#right(){&furigana(しゃっとたうん)【検索用:&furigana()&space(2)登録タグ:&tags()】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm25568408)|&youtube(https://www.youtube.com/watch?v=Sw2Gi9NLAkQ){342,187}|
+|&nicovideo(sm25731437)|>|
+作詞：[[薄塩指数]]
+作曲：[[薄塩指数]]
+編曲：[[薄塩指数]]
+絵：[[中二病な妹]]
+GUMI調声：[[今日犬（ジャムおじさんP）]]
+唄：[[GUMI>Megpoid]](オリジナル版)、[[重音テト]](セルフカバー版)
+
+**曲紹介
+>&b(){消灯ですよ。}
+曲名：『&u(){シャットダウン！}』
+
+**歌詞
+（[[PIAPRO>>http://piapro.jp/t/bHcx]]より転載）
+
+ああ　引っ掛かった小骨みたいな出来事だらけのDays
+幸せっていったいなんだっけ　禅問答じゃないよ
+
+Shut down. Shut down a network.
+Shut down. Shut down my own world.
+今日だって期待は空切って
+
+目が覚めたら　何もかもが終わってたらいいな　いいな
+窓に刺さる日差しの束に殺されそう
+
+ああ　気付いたんだ　ひとつだって欲しくもないってこと
+幸せっていったいなんだっけ　今も持ってたっけ
+
+目が覚めたら「何もかもが嘘だった」と教えて　教えて
+君にもほら　日差しの束は降り注ぐ
+
+目が覚めたら　何もかもが終わってたらいいな　いいな
+窓に刺さる日差しの束に殺されそう
+
+Shut down. Shut down a network.
+Shut down. Shut down my own world.
+
+**コメント
+#comment()

@@ -1,0 +1,194 @@
+#right(){&furigana(BURNING)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm26938670)|&youtube(https://www.youtube.com/watch?v=L-j_WOm0A6g){342,187}|
+作詞：[[梅とら]]
+作曲：[[梅とら]]
+編曲：[[梅とら]]
+唄：[[巡音ルカ]]・[[初音ミク]]・[[GUMI>Megpoid]]・[[IA]]・[[鏡音リン>鏡音リン・レン]]
+
+**曲紹介
+>&bold(){ギリギリなの？ゲリゲリなの？ベリベリなの？なんなの？( ･᷄ὢ･᷅ )もー}
+曲名：『&u(){BURNING}』（&u(){バーニング}）
+-2019年に発表したYouTube版はニコニコ動画版より音源も動画もいじってあるとのこと。
+
+**歌詞
+（作者ブログより転載）
+
+get it … ah …
+
+目を覚まして今ホラ　君の中眠るmonster
+その牙でこの首筋噛み付いてきてごらん 
+
+君が決めたその境界線(ぼーだー)
+理性というmerry go round
+半端な想いは捨てて踏みにじってごらん
+
+don’t you wanna
+衝動に任せたこの緊張感
+手なずけて　さぁ No,001
+
+全てを燃やせburning　　　
+ここからall along the line yeah
+君よ向かえ 最上階
+手に入れた始まり　深紅の物語
+Your heart will be burnt
+火花散らす鼓動　stand by now
+
+君が息をする世界　
+眼をそらしているdaylight
+乾いた心こすり焦げ付かせてみてごらん
+
+赤く焼け付く感情　I think it turns you on
+君の知らない君が　その血を濃くする
+more than now
+
+全てを燃やせburning
+心思うままに yeah
+君だけの壮大なLIVE
+その眼はもう欲張り　
+怖じ気づくなんてファニー
+Your heart will be burnt
+火花散らす鼓動　stand by now
+
+抗って運命のslave
+今解き放つ your flame
+every time you burn
+そう what a 勇敢
+思い込んで you can
+
+世界はlike a coster
+暴れ回るmonster you are
+さぁ今すぐburning
+
+don’t you wanna
+唯一無二の本性隠し持った
+君こそがそう No,001
+
+激しく燃やせburning 
+ここからall along the line yeah
+君よ向かえ 最上階
+手に入れた始まり　深紅の物語
+Your heart will be burnt
+It goes just as you want
+全てを燃やせburning　 
+太陽のようなburning
+妖艶に狂おしく燃ゆburning
+赤く鮮明なburining
+消えることない炎
+君の本能
+
+#region(close,色分け歌詞)
+（&color(deeppink){巡音ルカ}・&color(cyan){初音ミク}・&color(lightgreen){GUMI}・&color(gray){IA}・&color(orange){鏡音リン}
+&color(gold){IA＆リン}・&color(mediumseagreen){ミク＆GUMI}）
+
+get it … ah …
+
+&color(gray){目を覚まして今ホラ　君の中眠るmonster}
+&color(gray){その牙でこの首筋噛み付いてきてごらん}
+
+&color(lightgreen){君が決めたその&ruby(ボーダー){境界線}}
+&color(lightgreen){理性というmerry go round}
+&color(lightgreen){半端な想いは捨てて踏みにじってごらん}
+
+&color(deeppink){don’t you wanna}
+&color(deeppink){衝動に任せたこの緊張感}
+&color(deeppink){手なずけて　さぁ No,001}
+
+全てを燃やせburning
+ここからall along the line yeah
+君よ向かえ　最上階
+手に入れた始まり　深紅の物語
+Your heart will be burnt
+火花散らす鼓動　stand by now
+
+&color(cyan){君が息をする世界}
+&color(cyan){眼をそらしているdaylight}
+&color(cyan){乾いた心こすり焦げ付かせてみてごらん}
+
+&color(orange){赤く焼け付く感情　I think it turns you on}
+&color(orange){君の知らない君が　その血を濃くする}
+&color(orange){more than now}
+
+全てを燃やせburning
+心思うままに yeah
+君だけの壮大なLIVE
+その眼はもう欲張り
+怖じ気づくなんてファニー
+Your heart will be burnt
+火花散らす鼓動　stand by now
+
+&color(gold){抗って運命のslave}
+&color(gold){今解き放つ your flame}
+&color(gold){every time you burn}
+&color(gold){そう what a 勇敢}
+&color(gold){思い込んで you can}
+
+&color(mediumseagreen){世界はlike a coster}
+&color(mediumseagreen){暴れ回るmonster you are}
+&color(mediumseagreen){さぁ今すぐburning}
+
+&color(deeppink){don’t you wanna}
+&color(deeppink){唯一無二の本性隠し持った}
+&color(deeppink){君こそがそう No,001}
+
+激しく燃やせburning
+ここからall along the line yeah
+君よ向かえ　最上階
+手に入れた始まり　深紅の物語
+Your heart will be burnt
+It goes just as you want
+全てを燃やせburning
+太陽のようなburning
+妖艶に狂おしく燃ゆburning
+赤く鮮明なburining
+消えることない炎
+君の本能
+#endregion
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+**コメント
+- ぬおお！梅とら！！  -- 名無しさん  (2015-08-16 21:29:28)
+- 毎回毎回かっこよすぎる。今回も素敵でした。  -- 名無しさん  (2015-08-17 11:16:58)
+- 新曲ｷﾀ━(≧∇≦)!  -- 学生キレ汰ぬこ  (2015-08-17 19:32:47)
+//カラオケＢＯＸ配信来い✩  -- 小学生キレ汰ぬこ  (2015-08-17 19:32:47)
+- 今回もよかった！ＰＶの(ΦωΦ)どこ？  -- 名無しさん  (2015-08-25 12:25:18)
+- この曲一番好き！  -- 名無しさん  (2015-09-17 18:32:41)
+- 梅トラさんの曲には毎回驚かされます！めっちゃ興奮しました\(//∇//)\  -- 名無しさん  (2015-09-21 14:06:43)
+//- 牛泥棒から！  -- 名無しさん  (2015-09-23 12:19:41)
+- ハードリピｗ  -- 名無しさん  (2015-10-26 22:06:16)
+- もうこれ好き過ぎる  -- 名無しさん  (2015-11-29 16:28:51)
+- 最初からかっこよすぎ；；；  -- 名無しさん  (2016-01-31 11:46:41)
+//- BURNING踊れる  -- あいりん  (2016-02-05 20:41:11)
+//- 和田せいご  -- ふなふー  (2016-02-08 00:26:55)
+//- BURNING踊れる〜 ❣️  りりりと踊った  -- あいりん  (2016-02-08 00:28:24)
+- かっこよすぎ\(//∇//)\  -- 名無しさん  (2016-02-17 17:01:17)
+- ダメだ、、、めっちゃ好き、、、  -- 一期  (2016-02-23 15:35:42)
+- 大好き！get itって言ってたんですね！かっこよかったです  -- 光忠  猫之 。  (2016-03-19 23:57:18)
+- 好きです!もう、すごくカッコイイ！  -- ユー  (2016-03-20 22:58:48)
+- うああああ‼めっちゃカッコいい‼脳内リピートしてるww  -- 鶴丸  (2016-03-21 11:21:55)
+- まじ好き‼︎‼︎カッコよすぎてやばいww  -- 名無しさん  (2016-03-26 00:56:03)
+- かっこいいです……  -- 大包平  (2016-04-07 03:58:42)
+- カッコよすぎ…  -- 名無しさん  (2016-04-29 21:58:26)
+- あかんかっこよすぎる  -- ひきゃる  (2016-07-15 08:48:59)
+- かっけぇ  -- 名無しさん  (2016-09-09 18:40:48)
+- 凄いかっこいいです(^-^)  -- まぁくん  (2016-10-22 22:44:15)
+- 梅とらさんの曲本当に最高！  -- 文切丸  (2016-11-03 22:18:21)
+- 唯一無二の本性隠し持った君こそがそうNo.001・・・カッコイイ大好き！！  -- 夏葵  (2016-12-08 20:52:19)
+- 梅とらさんの曲、中毒性高すぎる！！  -- 名無しさん  (2017-01-16 15:47:33)
+- 滅茶苦茶えええぞ！  -- 禍霊夢siro   (2017-02-05 00:41:32)
+- これが一番好き！  -- 名無しさん  (2017-03-03 12:08:46)
+- かっこいい！これは中毒性高い！□  -- ジョーカー  (2017-11-05 07:18:49)
+- ヤバイ！ハマッた！梅さん大好き！  -- 名無しさん  (2018-01-14 04:44:39)
+- 早いですがカッコいいですー！  -- はにゃ  (2018-03-14 11:25:23)
+//耳コピ中です！  -- はにゃ  (2018-03-14 11:25:23)
+#comment()
+
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)

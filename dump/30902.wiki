@@ -1,0 +1,31 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1588_20140808220943_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[BRaNE WoRLD>BRaNE WoRLD/CD]]|CENTER:&bold(){clarte}|CENTER:-|
+
+|&bold(){[[スターライトP]]}|
+
+発売：2014年11月26日
+価格：￥300 / 1曲￥150
+流通：配信
+レーベル：KarenT
+ジャケットイラスト：わくや
+
+|&bold(){[[iTunes Storeで購入する>>https://itunes.apple.com/jp/album/clarte-single/id941523862]]}|
+
+**CD紹介
+-スターライトPの配信アルバム。
+-KarenTレーベルよりダウンロード販売が行われている。
+
+**曲目
++クラルテ (feat.初音ミク)
++エヴェレットの多世界解釈 (feat.初音ミク)
++そら、きれい (feat.鏡音リン)
+
+**リンク
+-[[作者ブログ>>http://starlighttraveler.blog78.fc2.com/]]
+-[[KarenT：「clarte」>>http://karent.jp/album/1588]]
+
+**コメント
+#comment

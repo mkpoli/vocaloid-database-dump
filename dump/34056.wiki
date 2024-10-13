@@ -1,0 +1,24 @@
+#right(){&furigana(ゆうのLv3)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/52634020" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/52634020">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-2015年8月、「[[シナスタジアの透明な夏]]」にてボカロデビュー。
+-使用ボカロは今のところ、ミクのみ。
+
+**リンク
+-[[Twitter>>http://twitter.com/yunolv3]]
+-[[PIAPRO>>http://piapro.jp/yunolv3]]
+
+**曲
+#list_by_tag(ゆうのLv3,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(ゆうのLv3CD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|>|BGCOLOR(#0080ff):COLOR(#FFF):CENTER:&font(b,11pt){オリジナル曲}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm27049593)|&nicovideo(http://www.nicovideo.jp/watch/sm27396781)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm28343946)|>|
+
+**コメント
+#comment()

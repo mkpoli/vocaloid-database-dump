@@ -1,0 +1,37 @@
+#right(){&furigana(ねむとろにかEP)&furigana()【登録タグ:&tags() 】}
+
+&ref(https://static.tumblr.com/56547a580dcdaf19aff5023e342e6202/nw4x8o2/3DOnwlo56/tumblr_static_ea3lm1dvx7ccw80sg0sc080ks.jpg,x=300,y=300)
+
+&nicovideo(sm27425707)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){ねむトロニカEP}|CENTER:-|
+
+|&bold(){[[イナバリュウノスケ]]}|[[23]]|[[FOS+]]|[[leas]]|[[Materia]]|
+
+発売：2015年10月25日
+価格：￥500（税込）
+流通：即売
+サークル：イナバの楽団
+
+**CD紹介
+>&bold(){おやすみ前のチルアウト...( ˘ω˘ )}
+-イナバリュウノスケによるコンピレーションアルバム。
+-就寝前に最適な心落ち着くエレクトロニカ曲を5人のPが書下ろし。
+-M3-2015秋、およびボーマス33にて頒布。
+
+**曲目
++Night Surf （feat. 初音ミク） / イナバリュウノスケ
++Loow （feat. 初音ミク） / 23.exe
++[[°•*◯º•. Confetti .•°◯*•°>°○*◯º•. confetti .•°◯*○°]] （feat. 初音ミク） / FOS+
++フレンドシップ （feat. 初音ミク） / Materia
++[[ゾルピデム]] （feat. 東北ずん子） / leas
++Womby / イナバリュウノスケ
+
+**リンク
+-[[特設サイト>>http://nemutronica-ep.tumblr.com/]]
+
+**コメント
+- 通販やってくれー！  -- 名無しさん  (2015-10-25 21:51:16)
+- ↑やるらしいですよ！  -- 名無しさん  (2015-11-04 21:39:49)
+#comment()

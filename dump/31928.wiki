@@ -1,0 +1,40 @@
+#right(){&furigana(つなぐみらいといのせんす) &furigana()【登録タグ:&tags() 】}
+#amazon(B00WZ4KPL8)
+&nicovideo(http://www.nicovideo.jp/watch/sm26085046)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){繋ぐ未来とイノセンス}|CENTER:-|
+
+|&bold(){[[ヘリP]]}|[[かなき]]|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2015年4月25日・26日|CENTER:2015年5月16日|
+|価格|CENTER:￥1,000（税込）|CENTER:￥1,620（税込）|
+|サークル|CENTER:Propelly Village（1日目）&br()28（2日目）||
+
+**CD紹介
+-ヘリPのVOCALOID 1stアルバム。
+-代表作の 『[[風待ちハローワールド]]』 を筆頭に、これまでにリリースした既存曲からの選りすぐりに新曲を加えた全10曲を収録。
+-ジャケットイラストなどのアートワークを [[koyubi]]氏 が、マスタリングを [[150P]] が手掛ける。
+-THE VOC@LOiD 超 M@STER 31（超ボーマス31）にてリリース。
+-Amazonで委託販売が行われている。
+
+**曲目
++[[ひとつの始まり]]
++[[風待ちハローワールド]]
++[[ブレイブストーリー]]
++[[ジンジャーとリリー]]
++[[over the latency]]
++[[イグドラ]]
++[[スカイ・シグナル]]
++[[駆ける、星空の彼方へ]]
++[[デイブレイク]]
++[[ミライ・イノセンス]]
+
+**リンク
+-[[Twitter>>http://twitter.com/heri_add9]]
+-[[Amazon>>http://www.amazon.co.jp/dp/B00WZ4KPL8]]
+
+**コメント
+- 爽やかな曲ばかりで元気が出ます  -- 名無しさん  (2015-11-25 23:50:19)
+#comment

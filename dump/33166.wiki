@@ -1,0 +1,40 @@
+#right(){&furigana(ふろーりあのはこにわ)&furigana()【登録タグ:&tags() 】}
+
+&ref(https://sound.jp/nanase615/x/floria.jpg,x=300,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm16048678)
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){フローリアの箱庭}|CENTER:[[the Portraits]]|
+
+|&bold(){[[ナナミP]]}|[[humi]]|
+
+|流通|CENTER:即売|CENTER:配信|
+|発売|CENTER:2012年7月8日|CENTER:|
+|価格|CENTER:|CENTER:￥500|
+|サークル|CENTER:|CENTER:|
+
+**CD紹介
+-ナナミP の1stアルバム。
+-巡音ルカ、鏡音リン・レンが歌う、民族調＆物語音楽を中心とした９曲入りのアルバム。
+-イラストとデザインは [[7:24>姉を見事に使いこなす妹P]]氏 が手掛ける。
+-THE VOC@LOiD M@STER 21（ボーマス21）にて頒布。
+-bonus tarckを除き、BOOTHにてダウンロード販売が行われている。
+
+**曲目
++Floria
++[[眠り姫と夢騎士のワルツ]]
++[[サルビアの娘]]
++かたちなきもの -Lycieratia-
++[[つばさあるひと]]
++まち
++[[花雪]]
++[[Starry Night>Starry Night/ナナミP]]
++[[シュドメールと風の唄]]
++bonus tarck： サルビアの娘～マヌーシュ風アレンジ～
+
+**リンク
+-[[特設サイト>>http://sound.jp/nanase615/x/flower.html]]
+-[[BOOTH>>https://nanamip.booth.pm/items/52648]]
+
+**コメント
+#comment()

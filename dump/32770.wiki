@@ -1,0 +1,31 @@
+#right(){&furigana(でうす・えくす・まきな)&furigana()【登録タグ:&tags() 】}
+#ref(http://karent.jp/npdca/1778_20150716193122_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[愛してくれなきゃしんじゃうよ？]]|CENTER:&bold(){デウス・エクス・マキナ}|CENTER:-|
+
+|&bold(){[[ぶりるP]]}|
+
+発売：2015年8月21日
+価格：￥300 / 1曲￥150
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：[[真理歪]]
+
+**CD紹介
+-ぶりるP の配信CD。
+-KARENTレーベルよりダウンロード販売が行われている。初音ミク8周年記念企画で配信された作品の1つ。
+
+**曲目
++[[デウス・エクス・マキナ]] （feat. 初音ミク）
++[[コワレ者]] （feat. 初音ミク＆鏡音リン）
++[[秘密警察]] -Confidential ver.- （feat. 初音ミク）
+
+**リンク
+-[[作者ブログ>>http://artical-riddim.net/]]
+-[[KARENT：「デウス・エクス・マキナ」>>http://karent.jp/album/1778]]
+-[[KARENT：「初音ミク 8th Anniversary」特集ページ>>http://karent.jp/special/miku15]]
+-[[iTunes Store>>https://itunes.apple.com/jp/album/deus-ex-machina-single/id1024492522]]
+
+**コメント
+#comment()

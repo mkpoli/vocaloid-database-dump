@@ -1,0 +1,30 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Graffiti>Graffiti/雷鳴PCD]]|CENTER:&bold(){Vanilla Age/Bitter Edge}|CENTER:[[Beat!Beat!Beat!]]|
+
+|&bold(){[[雷鳴P]]}|華蔦瑠依|
+
+発売：2010年12月31日
+価格：￥500
+流通：即売
+サークル：Art Polyphony
+
+**CD紹介
+-雷鳴PのシングルCD。
+-コミックマーケット79（C79）で頒布された。
+-リンレンの楽曲だけを詰め込んだ、全6曲入り。
+
+**曲目
++[[EXERION]] / 鏡音レン
++[[timepiece beat]] / 鏡音リン
++[[VanillaAge>Vanilla-Age]] / 鏡音リン
++[[BitterEdge>Bitter-Edge]] / 鏡音レン
++[[恋愛ロシアンルーレット]] / 鏡音リン
++[[白い重力]] / 鏡音レン
+
+**リンク
+-[[閑話休題（作者ブログ）>>http://papillon0mm.blog15.fc2.com/]]
+-[[Art Polyphony（サークルサイト）>>http://art-polyphony.sakura.ne.jp/]]
+
+**コメント
+#comment()

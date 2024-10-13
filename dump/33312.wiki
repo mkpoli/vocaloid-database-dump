@@ -1,0 +1,29 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#ref(http://karent.jp/npdca/1815_20151019143539_0280_0280.jpg)
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){TSUNDELADY}|CENTER:[[君が歌う僕の歌>君が歌う僕の歌/CD]]|
+
+|&bold(){[[畑中洋光]]}|
+
+発売：2015年11月5日
+価格：￥300
+流通：配信
+レーベル：KARENT
+
+**CD紹介
+-korbyhata氏とS.Nakajima氏によるユニット畑中洋光のアルバム。
+-KARENTレーベルよりダウンロード販売が行われている。KARENTのMEIKO11周年記念企画で配信された作品の1つ。
+
+**曲目
++[[TSUNDELADY]] （feat. MEIKO）
++[[Silent Truth]] （feat. MEIKO）
++[[Gaṇeśa]] （feat. MEIKO）
+
+**リンク
+-[[twitter>>http://twitter.com/korbyhata]]
+-[[KARENT：「TSUNDELADY」>>http://karent.jp/album/1815]]
+-[[KARENT：「MEIKO記念祭'15」特集ページ>>http://karent.jp/special/meiko15]]
+-[[iTunes Store>>http://itunes.apple.com/jp/album/tsundelady-single/id1054838130]]
+
+**コメント
+#comment()

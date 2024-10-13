@@ -1,0 +1,37 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#amazon(B00VZ3GLEK)
+&nicovideo(http://www.nicovideo.jp/watch/sm25996673)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Shy Heart,Shy Word]]|CENTER:&bold(){Prism}|CENTER:-|
+
+|&bold(){[[古墳P]]}|[[longan]]|
+
+|流通|CENTER:即売|CENTER:同人|CENTER:配信|
+|発売|CENTER:2015年4月26日||CENTER:2015年7月17日|
+|価格|CENTER:￥800|CENTER:|CENTER:￥900|
+|サークル|CENTER:そうだ、ここに古墳をつくろう|||
+
+**CD紹介
+-古墳Pの3rdアルバム。
+-イラスト・デザインを AKiru氏 が手掛ける。
+-THE VOCALOID 超MASTER 31（超ボーマス31） にてリリース。
+-amazon、とらのあなで委託販売が、KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++Asterism
++[[少女夜行]]
++Licorice
++[[Shy Heart,Shy Word]]
++Answer
++Answer [extended mix]
+
+**リンク
+-[[特設ページ>>http://trireact.net/]]
+-[[amazon>>http://www.amazon.co.jp/dp/B00VZ3GLEK]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/30/06/040030300612.html]]
+-[[KARENT：「Prism」>>http://karent.jp/album/1773]]
+-[[iTunes Store>>https://itunes.apple.com/jp/album/prism-ep/id1017645129]]
+
+**コメント
+#comment()

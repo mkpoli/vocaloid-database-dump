@@ -1,0 +1,47 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1698_20150219170958_0280_0280.jpg)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm25220521)
+
+|CENTER:前作|CENTER:今作|CENTER:次作|
+|CENTER:[[escapist and realist]]|CENTER:&bold(){changed man}|CENTER:-|
+
+|&bold(){[[baker]]}|
+
+|流通|CENTER:即売|CENTER:通販|CENTER:配信|
+|発売|CENTER:2014年12月30日||CENTER:2015年2月27日|
+|価格|CENTER:￥1,000（税込）|CENTER:￥1,550（税込）|CENTER:￥1,500 / 1曲￥150|
+|サークル|CENTER:REFLECTION|||
+
+**CD紹介
+-2007～2014 の活動の集大成となる VOCALOID BEST ALBUM 。
+-ボカロ草創期の名曲、『[[celluloid]]』『[[サウンド]]』を筆頭にした既存曲からの選りすぐりに書き下ろしの新曲を加えた全11曲。
+-C87（コミックマーケット87）にてリリース。
+-MOtOLOiD SHOPで通販が行われている。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++[[celluloid]]
++[[サウンド]]
++[[カナリア>カナリア/baker]]
++[[carol]]
++[[羽]]
++[[もう一人の僕へ]]
++[[sample]]
++[[ARPK]]
++[[This love will not be successful]]
++[[夏に去りし君を想フ]]
++[[明日になればまた続く]]
++[[君が君が]]
++changed man
+
+**リンク
+-[[Twitter>>http://twitter.com/kisk_baker]]
+-[[MOtOLOiD SHOP>>https://motoloid.stores.jp/]]
+-[[KARENT：「changed man」>>http://karent.jp/album/1698]]
+-[[iTunes Store>>https://itunes.apple.com/jp/album/changed-man/id969893424]]
+
+**コメント
+- 追加乙！！！  -- 良太  (2014-12-30 17:38:37)
+- はやく通販はじまんないかなー  -- 名無しさん  (2015-01-26 01:35:10)
+#comment()

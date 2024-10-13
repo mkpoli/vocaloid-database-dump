@@ -1,0 +1,49 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#ref(http://img.toranoana.jp/popup_img/04/0030/35/85/040030358517-1p.jpg,width=300,height=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm27413280)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[YANDELOID CONCEPTION]]|CENTER:&bold(){Sanctuary}|CENTER:[[ReLief>ReLief/CD]]|
+
+|&bold(){[[seleP]]}|[[優木きら]]|
+
+|流通|CENTER:同人|CENTER:配信|
+|発売|2015年11月11日|2017年7月9日|
+|価格|￥1,500（税別）||
+|サークル|>|UFERIUM|
+
+**CD紹介
+-selePの4thアルバム。
+-selePのボカロPデビューから今までの軌跡を辿るベスト盤。
+-ボカロPデビュー曲『Ufena』やゲーム提供曲『Luna:L.O.V.E side』等、今までのアルバムで収録しきれなかった過去曲を現在のselePが一挙リメイク・リミックスを実施！
+-[[Dios/シグナルP>シグナルP]]氏による全曲マスタリングで最高音質に生まれ変わった全14曲を収録。
+-[[優木きら]]氏によるジャケットデザインと、イメージイラストが描かれた全20Ｐブックレット付属！
+-とらのあな限定で委託販売される。
+-現在iTunes等でも配信中。
+
+**曲目
++[[Beats Of Silence]] -feat.kokone- / リマスター、各修正実施
++[[SERINE]] –feat.kokone- / リマスター、各修正実施
++[[Cecilie]] –feat.Lily- / リマスター、各修正実施
++BETH –feat.Lily- / 3rdアルバム収録『ALETHEA』の姉妹曲、リミックスバージョン
++[[Bright Snow]] –feat.IA- / リマスター、各修正実施
++Holy Night –feat.IA-/ アルバム収録限定曲
++[[TIELLI]] –feat.IA- / リマスター、各修正実施
++[[LUNARIA]] –feat.Lily- / Lily歌唱、リミックス
++[[EMIRIA]] –feat.Lily- / Lily歌唱、リミックス
++[[Ufena]] -Lilium Mix- -feat.Lily- / Lily歌唱、リミックス
++[[Luna : L.O.V.E side]]　–feat.Lily- / Lily歌唱、リミックス
++[[SHE’s>SHE's]] –feat.kokone- /kokone歌唱、リミックス
++[[Ever my…>Ever My Tears]] -feat.kokone- / kokone歌唱、リミックス
++[[Snow Marriage]] –feat.IA- / リマスター、各修正実施
+
+**リンク
+-[[UFERIUM（作者ブログ）>>http://ufena39.blog61.fc2.com/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/35/85/040030358517.html]]
+-[[iTunes Store>>https://itunes.apple.com/jp/album/sanctuary/1253465925]]
+
+**コメント
+- 絶対買わなきゃ(;゜∇゜)  -- 名無しさん  (2015-10-27 18:51:13)
+- ゆかりんいないのか…  -- 名無しさん  (2015-11-02 19:00:26)
+#comment()

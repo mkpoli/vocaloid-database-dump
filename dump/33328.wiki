@@ -1,0 +1,54 @@
+#right(){&furigana(LENCOMPILATIONLC2)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[LEN COMPILATION「LC」]]|CENTER:&bold(){LEN COMPILATION「LC2」}|CENTER:-|
+
+|>|>|>|BGCOLOR(#999):COLOR(#FFF):CENTER:&b(){楽曲}|
+|[[ムスカP]]|[[泡沫唄]]|[[ぴょろP]]|[[いたる]]|
+|[[残鏡P]]|[[キッドP]]|[[クリスタルP]]|[[メガレンP]]|
+|[[yukki＃]]|[[おればななP]]|[[ちくP]]|[[MANMES]]|
+|[[しえろP（ショタエロイドP）]]|[[toya]]|[[れれれP]]|[[ばすてぃP]]|
+
+|>|>|>|BGCOLOR(#999):COLOR(#FFF):CENTER:&b(){イラスト}|
+|[[いたる]]|[[初]]|[[おればななP]]|槐まくろ|
+|かどこあ|銀河|こそら|とーる|
+|[[碧茶]]|ミザ|[[△○□×]]|よもりん|
+|ワカコヒメモエ||||
+
+|BGCOLOR(#DDD):CENTER:流通|CENTER:即売|CENTER:委託|
+|BGCOLOR(#DDD):CENTER:発売|CENTER:2015年11月14日|CENTER:2015年11月29日|
+|BGCOLOR(#DDD):CENTER:価格|CENTER:￥1,200|CENTER:￥1,500（税別）|
+|BGCOLOR(#DDD):　発行　|>|CENTER:LC製作委員会|
+
+**CD紹介
+CD名：『&u(){LEN COMPILATION 「LC2」}』
+-[[前作>LEN COMPILATION 「LC」]]よりおよそ4年ぶりとなる、鏡音レンコンピレーションCD第2弾。
+-企画・主催は ちくP。マスタリングを クリスタルP が、ジャケットイラストを △○□×氏 が、デザインを 猫凪みさお氏 が手掛ける。
+-THE VOC@LOiD M@STER 33（ボーマス33）にて先行頒布、「鏡音まつり！」にて頒布。
+-とらのあなにて委託販売が行われる。
+
+**曲目
++時の輝きを取り戻せ / 狐夢想	
++つきあかり / ぴょろP	
++寵愛している少年からの手紙 / いたる	
++古の龍の骨 / キッド	
++ツブヤキ / メガレンP	
++[[絶頂フルコース]] / yukki#	
++うたかたに染まる / 葉之月	
++Beyond / MANMES	
++[[夢の破片]] / しえろ	
++septet ivory / toya	
++勇気をひとつ / れれれP	
++旋律 / ばすてぃ	
++[[男の娘さーきゅれーしょん]] / レン廃留置所
+
+**リンク
+-[[特設サイト>>http://www.lenconpilation-2.com/]]
+-[[とらのあな>>http://www.toranoana.jp/bl/article/04/0030/36/18/040030361833.html]]
+
+**コメント
+- 男の娘さーきゅれーしょんが或るなら買う  -- 名無しさん  (2015-12-27 09:55:00)
+#comment()

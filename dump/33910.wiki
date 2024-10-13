@@ -1,0 +1,43 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#amazon(B00IL5D026)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm22484489)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[sync-loid:03]]|CENTER:&bold(){sync-loid:04 -Yellow Star-}|CENTER:[[sync-loid:05]]|
+
+|[[あひる＠]]|[[TAGAMi]]|[[キッドP]]|[[残鏡P]]|[[つきのP]]|[[れれれP]]|[[muhmue]]|[[アンメルツP]]|
+|[[クリスタルP]]|[[ろひ]]|[[ナツメ神楽]]|[[ぴょろP]]|泡沫唄|[[みにま]]|[[project sync-loid]]||
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2013年6月23日||
+|価格|CENTER:￥1,000（税込）|CENTER:￥1,500（税別）|
+|レーベル|>|CENTER:project sync-loid|
+
+**CD紹介
+-鏡音パラダイスにて頒布されました&br()鏡音リン・レンオンリーコンピレーションアルバム&br()「sync-loid:04 -Yellow star-」のクロスフェードです。&br()（クロスフェード動画説明文より引用）
+-ボーカロイドオンリー即売会「VOCALOID PARADISE 関西」と&br()音系オンリー即売会「MUSIC COMMUNICATION」がお送りする&br()コンピレーションアルバム第四弾!&br()（Amazon商品説明文より引用）
+-VOCALOID PARADISE 番外編2 鏡音PARADISE 2（かがパラ2）で初頒布。
+-とらのあな、Amazonで委託販売が行われていた。
+
+**曲目
++[[Prism>Prism/あひる＠]] / あひる＠ feat. 鏡音レン
++[[茜色ソマルソラ]] / TAGAMi feat. 鏡音リン・レン
++[[桜花繚乱>桜花繚乱/キッドP]] / キッドP feat. 鏡音レン
++月祀る宴 / つきのP feat. 鏡音レン
++[[ノイズキャンセラー>ノイズキャンセラー/れれれP]] / れれれP feat. 鏡音レン
++メレンゲ / muhmue feat. 鏡音リン
++[[僕らはそんなに弱くない]] / アンメルツP feat. 鏡音リン・レン
++『それで。』 / クリスタルP feat. 鏡音レン
++FirsTandroMeda / ろひ feat. 鏡音レン
++夜空の弾痕 / ぴょろP feat. 鏡音レン
++[[Time Left]] / みにま feat. 鏡音レン
+
+**リンク
+-[[sync-loid:04 特設サイト>>http://ttc.ninja-web.net/vo-para/sync-loid04.htm]]
+-[[Amazon>>http://www.amazon.co.jp/dp/B00IL5D026/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/17/13/040030171387.html]]
+
+**コメント
+- あひる＠氏 sm21150077 TAGAMi氏 sm18940122 みにま氏 sm20784273 確認しました TAGAMi氏はGUMIカバー版となってます  -- 名無しさん  (2016-02-14 07:46:25)
+#comment()

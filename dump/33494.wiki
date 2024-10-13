@@ -1,0 +1,37 @@
+#right(){&furigana(つきのしらべ3) &furigana()【登録タグ:&tags() 】}
+#ref(http://www.vocalomakets.com/yukari_CD/008/image/jacket.png,width=300,height=300)
+
+
+&nicovideo(http://www.nicovideo.jp/watch/sm27843381)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[月の調 Ⅱ -ツキノシラベ-]]|CENTER:&bold(){月の調 Ⅲ -ツキノシラベ-}|CENTER:-|
+
+|&bold(){[[Bumpyうるし]]}|[[アヤサキミドリ]]|[[イトエコウキ]]|U.|[[はがね]]|[[ちょむP]]|[[喜兵衛]]|[[親方P]]|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|CENTER:2015年12月31日|CENTER:2016年1月|
+|価格|CENTER:￥500（税込）|CENTER:￥746（税抜）|
+|サークル|>|CENTER:マケッツ団|
+
+**CD紹介
+>&bold(){4周年を迎えた結月ゆかり。7名のボカロPによる旋律の調。}
+-「[[月の詩>月の詩 Ⅰ -ツキノウタ-]]」シリーズとは違う、新たなコンセプトのミニコンピレーションアルバム。その第3弾。
+-ジャケットイラストを samoni氏 が、ロゴデザインを 渡辺浩彰氏 が、マスタリングを [[かごめP]] が手掛ける。
+-C89（コミックマーケット89）にてリリース。後日、とらのあなにて書店委託された。
+
+**曲目
++[[僕は。]]　/　アヤサキミドリ	
++[[君と見た星空>君と見た星空/イトエコウキ]]　/　イトエコウキ
++[[Digital Torture]]　/　はがね
++リアルS.T.G.　/　Bumpyうるし	
++マダミヌキミヨ　/　ちょむP
++おひっこし　/　喜兵衛
++[[今日もまた、君を]]　/　親方P
+
+**リンク
+-[[特設ページ>>http://www.vocalomakets.com/yukari_CD/008/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/37/18/040030371858.html]]
+
+**コメント
+#comment

@@ -1,0 +1,67 @@
+#right(){&furigana(もえろっく)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm22987669)|&youtube(https://www.youtube.com/watch?v=tiMn-mO-Lbk){342,187}|
+作詞：イチカワ マサキ（[[萌きゅんエンジェル]]）
+作曲：イチカワ マサキ（[[萌きゅんエンジェル]]）
+編曲：津田賢吾（[[萌きゅんエンジェル]]）
+PVイラスト：[[のう]]
+唄：[[GUMI>>megpoid]]
+
+**曲紹介
+曲名：『&u(){モエロック}』
+-サークル「萌きゅんエンジェル」の14曲目。
+
+**歌詞
+（YouTube投稿者コメントより転載）
+
+今だけじゃないから本当はもっと　ドキドキ
+春の風のようにココロ預けたくなる　トキメキ
+限界のギリギリまで迫ってる　先々
+Did you not know ?　駆け引きが始まる
+
+好きなだけ萌えていいの？
+好きなだけ萌えと萎えの Refrain
+
+頬張るみずみずしく甘い蜜と嘘　Many a true word is spoken in jest.
+カノジョはまだ気づいていないかもしれない　You can't spend what you don't have.
+微笑んでる　Nothing else is needed.
+
+
+容姿だけじゃなくて本能はもっと　メラメラ
+秋の空のようにココロ落ち着かない　ハラハラ
+癖になるくちどけ感の絶頂は　裏腹
+Always be my baby　笑顔の中の本音
+
+好きだけど浮ついてる？
+好きだけど目移りしちゃう Temptation
+
+指先まで見つめちゃう見惚れちゃう　Love your enemies. Profit is better than fame.
+もうちょっと味わいたい大胆に口移しで　Don't be too sure of yourself !
+躊躇ってる　The state of being pitiful.
+
+
+綺麗な言葉で終わらない　どこまでも付いて行くよ
+お望み通りしてあげる　理性の枷を外して
+
+そこらじゅうで"萌愛"　"繊細"かつ"萌ポップ"
+次元の壁超えて　戯れ〈ツミ〉と物質的感覚〈カラダ〉重ね
+If that's alright with you.　ハズ・カシ・メテ
+
+頬張るみずみずしく甘い蜜と嘘　Many a true word is spoken in jest.
+カノジョはまだ気づいていないかもしれない　You can't spend what you don't have.
+微笑んでる　Nothing else is needed.
+We'll always have MOE-ROCK !!!
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+**コメント
+#comment()
+
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)

@@ -1,0 +1,32 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Introduce My Treasure}|CENTER:[[Introduce My Love]]|
+
+|&bold(){[[イントロP]]}|[[スースーP]]|
+
+発売：2009年2月22日
+価格：￥500
+流通：即売
+サークル：いたちごっこ＋
+
+**CD紹介
+-イントロPのアルバム。
+-KAITOメインオリジナル曲ＣＤ&br()……もとい今までの曲を振り返りながらKAITOとミクがｇｄｇｄ天然漫才するＣＤです。
+-THE VOC@LOiD M@STER 7（ボーマス7）で頒布。
+
+**曲目
++[[A Wish]]
++gdgdその1
++[[真夏の月の下]]
++[[スサノヲ]]
++gdgdその2
++[[クレイヂィ・クラウン]]
++gdgdその3
++[[風のそよぐ場所]]
++gdgdその4
+
+**リンク
+-[[作者ブログ>>http://introid.blog6.fc2.com/]]
+
+**コメント
+#comment()

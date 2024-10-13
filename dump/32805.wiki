@@ -1,0 +1,29 @@
+#right(){&furigana(それでも、ひかりは。)&furigana()【登録タグ:&tags() 】}
+#ref(http://karent.jp/npdca/1783_20150717233256_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Ready to Fight for yourself...]]|CENTER:&bold(){それでも、光は。}|CENTER:[[Faust]]|
+
+|&bold(){[[パンドリストP]]}|[[Trass_K]]|
+
+発売：2015年8月21日
+価格：￥150
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：パンドリストP
+
+**CD紹介
+-パンドリストPの配信シングル。
+-KARENTレーベルよりダウンロード販売が行われている。初音ミク8周年記念企画で配信された作品の1つ。
+
+**曲目
++それでも、光は。 （feat. 初音ミク）
+
+**リンク
+-[[作者ブログ>>http://corvorex.seesaa.net/]]
+-[[KARENT：「それでも、光は。」>>http://karent.jp/album/1783]]
+-[[KARENT：「初音ミク 8th Anniversary」特集ページ>>http://karent.jp/special/miku15]]
+-[[iTunes Store>>https://itunes.apple.com/jp/album/soredemo-hikari-wa-single/id1024493053]]
+
+**コメント
+#comment()

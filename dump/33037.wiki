@@ -1,0 +1,23 @@
+#right(){&furigana(BeFurious)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm26154625)|&YouTube(https://www.youtube.com/watch?v=8VGZUY16fb8){342,187}|
+作詞：[[Rin（ぎん）]]
+作曲：[[Rin（ぎん）]]
+編曲：[[Rin（ぎん）]]
+唄：[[初音ミク]]
+
+**曲紹介
+曲名：『&u(){Be Furious}』
+-Trap
+
+**歌詞
+心の中に抑え込んだ、怒りが溢れ出して
+積み上げてきた大切なもの、全部投げ出した
+僕にはもう止められない。何もいらないんだ。
+
+
+**コメント
+#comment()

@@ -1,0 +1,32 @@
+#right(){&furigana(うえむらかつき)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://ext.nicovideo.jp/thumb_mylist/37527007" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/37527007">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-2012年「[[桜花乱舞>桜花乱舞/上村香月]]」でVOCALOIDデビュー。
+-KONAMIの音ゲー「SOUND VOLTEX」シリーズに楽曲提供している。
+
+**リンク
+-[[作者サイト>>http://guitaremission.wix.com/katsukihp]]
+-[[twitter>>http://twitter.com/GuitarEmission]]
+-[[PIAPRO>>http://piapro.jp/gurio]]
+-[[YouTube>>https://www.youtube.com/channel/UCm1MlkG5-vAlNTV_jtHkh_g]]
+
+**曲
+#list_by_tag(上村香月,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(上村香月CD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm18220417)|&nicovideo(http://www.nicovideo.jp/watch/sm18614402)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm19133216)|&nicovideo(http://www.nicovideo.jp/watch/sm19465423)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm20566688)|&nicovideo(http://www.nicovideo.jp/watch/sm20672032)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm20796586)|&nicovideo(http://www.nicovideo.jp/watch/sm23844355)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm24108543)|&nicovideo(http://www.nicovideo.jp/watch/sm24580201)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm24734166)|&nicovideo(http://www.nicovideo.jp/watch/sm25141478)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm25459053)|&nicovideo(http://www.nicovideo.jp/watch/sm26020563)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm26078635)|&nicovideo(http://www.nicovideo.jp/watch/sm26856813)|
+
+**コメント
+- ページ乙  -- 名無しさん  (2015-08-19 21:15:21)
+#comment()

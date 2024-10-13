@@ -1,0 +1,37 @@
+#right(){&furigana(とうきょうりあるわーるど)&furigana()【登録タグ:&tags() 】}
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:[[SECRET8]]&br()&bold(){東京リアルワールド}|CENTER:[[PLANET8]]&br()[[横浜バトルライン>横浜バトルライン/CD]]|
+
+|&bold(){[[out of survice]]}|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|CENTER:2013年4月27日・29日|CENTER:2013年4月27日|
+|価格|CENTER:|CENTER:￥500（税別）|
+|サークル|>|CENTER:out of survice|
+
+**CD紹介
+-out of survice氏の1stシングル。
+-1stアルバム『[[SECRET8]]』とオリジナルステッカーを同時購入すると特典としてもらえるCD。
+-THE VOC@LOiD 超 M@STER 24（超ボーマス24）で頒布。
+-とらのあなで委託販売が行われていた。
+
+**曲目
++[[東京リアルワールド]]
++SECRET8 クロスフェードデモ
++次回作（曲名未定）（Instrumental）
++東京リアルワールド（Instrumental）
++[[スクランブルエッグガール]]（Instrumental）
++[[ガーネットフォスファ]]（Instrumental）
++[[サイコモーション]]（Instrumental）
++[[ユメサクラ]]（Instrumental）
++[[セルリアンヴェスパ]]（Instrumental）
++――――――（Instrumental）
++[[ブラックエンドターミナル]]（Instrumental）
++[[ホワイトアウト>ホワイトアウト/out of survice]]（Instrumental）
+
+**リンク
+-[[Twitter>>http://twitter.com/outofsurvice]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/cit/pagekit/0000/00/06/000000060220/index.html]]
+
+**コメント
+#comment()

@@ -1,0 +1,70 @@
+#right(){&furigana(ひろいこすもとちっぽけなわたし)&furigana()【登録タグ:&tags()】}
+|&nicovideo(http://www.nicovideo.jp/watch/sm21021152)|&youtube(http://www.youtube.com/watch?v=HK3sHdrh6go)|
+作詞：[[mebiuse444]]
+作曲：[[Gumin]]
+編曲：[[Gumin]]
+唄：巡音ルカ
+
+**曲紹介
+-siyuさんのイラストがアダルティなので、NYのJAZZ CLUBで歌っている感じのPV。
+-３番の歌詞は１番のポルトガル語訳になります。翻訳はGoogleアプリですので、雰囲気のみお楽しみください。
+
+**歌詞
+（[[PIAPRO>>http://piapro.jp/t/CE0b]]より転載）
+
+この星が生まれて
+そこに私が生まれた
+長い長い歴史（とき）の中で
+小さな小さな私
+
+知らないことも多いけど
+学んだことも多いのさ
+宇宙の広さに比べたら
+ちっぽけな思い出だけど
+
+空の青さを知り　海の広さを知り
+生きる喜びを知った
+木々の香りを知り　星の記憶を集め
+明日も頑張ってみようか
+
+
+星に人が生まれて
+そこに私も生きてる
+あたりまえの小さなこと
+私の大事な時間
+
+地球の時間に比べたら
+短く軽いものだけど
+私の中では壮大で
+大切な思い出なんだ
+
+人の弱さを知り　夜の孤独を知り
+時に悲しさを知った
+愛の強さを知り　夢の先を見つめ
+キミと二人で行こうか
+
+
+Esta estrela nasce
+#exkp(k){Eu nasci lá}
+#exkp(p){Eu nasci la}
+#exkp(k){Em uma longa história longa Pequeno pouco que eu}
+#exkp(p){Em uma longa historia longa Pequeno pouco que eu}
+
+#exkp(k){Que você não sabe, mas muitos}
+#exkp(p){Que voce nao sabe, mas muitos}
+#exkp(k){O que eu também aprendi muito é}
+#exkp(p){O que eu tambem aprendi muito e}
+
+#exkp(k){Quando comparado com o tamanho do universo É uma pequena mas memórias}
+#exkp(p){Quando comparado com o tamanho do universo E uma pequena mas memorias}
+
+#exkp(k){Você sabe o tamanho do mar para conhecer o azul do céu}
+#exkp(p){Voce sabe o tamanho do mar para conhecer o azul do ceu}
+Eu sei que a alegria de viver
+
+#exkp(k){O armazenamento combinado de estrelas, sabe o cheiro de árvores Você deixa o seu melhor amanhã}
+#exkp(p){O armazenamento combinado de estrelas, sabe o cheiro de arvores Voce deixa o seu melhor amanha}
+
+
+**コメント
+#comment()

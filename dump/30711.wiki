@@ -1,0 +1,79 @@
+#right(){&furigana(Underthesky)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm23721465)|&nicovideo(sm26047862)|
+作詞：[[Fuji（141hP）>アオトケイ]]
+作曲：[[Fuji（141hP）>アオトケイ]]
+編曲：[[Fuji（141hP）>アオトケイ]]
+唄：[[MEIKO]]
+
+**曲紹介
+>空に僕の歌をのせて君に届ける
+曲名：『&u(){Under the sky}』
+-「[[Under the sky - 碧眼の少女]]」の完全リメイク作品。
+-KARENTレーベルよりダウンロード販売が行われている。[[MEIKO10周年記念企画>>https://karent.jp/special/meiko14]]で配信された作品の1つ。
+
+**音楽配信
+&ref(https://karent.jp/npdca/1625_20141017005012_0280_0280.jpg)
+
+|CENTER:前作|CENTER:今作|CENTER:次作|
+|CENTER:[[Signal>Signal/CD]]|CENTER:&bold(){Under the sky}&br()[[縹色クロニクル]]|CENTER:[[もし、君との夏が最後ならば]]|
+
+流通：配信
+発売：2014年11月5日
+価格：￥150
+レーベル：[[KARENT>>https://karent.jp/album/1625]]
+ジャケットイラスト：[[宇都宮>>https://piapro.jp/sakakidani]]
+
+|&bold(){[[iTunes Storeで購入>>https://itunes.apple.com/jp/album/under-sky-feat.-meiko-single/id931821538]]}|
+
+***曲目
++Under the sky （feat. MEIKO）
+
+**歌詞
+見えない空の雫が
+一つ二つ落ちていく
+
+名前を知らない世界へ
+僕らは歩き続ける
+
+風に揺られて
+大きく息を吸い込んで
+空の下でこの世界で歌い叫んでいく
+
+Under the sky　僕らの声を
+Under the sky　君まで届け
+Under the sky　何が起きても
+Under the sky　此処にいる　
+
+冷たい雨が降り注ぎ
+生まれる滲んだ鱗雲
+
+身体に刺さる
+悔しい気持ちを握って
+空の奥へ吹き飛ばして
+僕は歌い続け…
+
+Under the sky　傷だらけでも
+Under the sky　諦めないから
+雨が止んで　空を見上げたら　
+僕たちの未来が見えた
+
+歩いて転んで挫けていても
+僕らは立ち上がり前へ進むよ
+名前を知らないこの空へ
+届けこの想い
+
+Under the sky　遠く離れても
+Under the sky　叫び届けるよ
+
+Under the sky　僕らの声を
+Under the sky　君まで届け
+Under the sky　何が起きても
+いつまでも　此処にいるから　ほら…
+
+
+**コメント
+#comment()

@@ -1,0 +1,117 @@
+#right(){&furigana(あめいしんくまししゃん)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm27472694)|&youtube(https://www.youtube.com/watch?v=H_13BVmiANU){342,187}|
+作詞：[[Mitchie M]]
+作曲：[[Mitchie M]]
+編曲：[[Mitchie M]]
+唄：[[初音ミク]]
+（コーラス：[[鏡音リン>鏡音リン・レン]]・[[鏡音レン>鏡音リン・レン]]・[[巡音ルカ]]）
+
+**曲紹介
+曲名：『&u(){アメイジング・マジシャン}』
+-ソーシャルゲーム「[[クイズRPG 魔法使いと黒猫のウィズ×初音ミク>>http://colopl.co.jp/magicianwiz/collabo_miku/]]」コラボの書き下ろし楽曲。
+-主人公はマジシャンの『初音ミク』という設定で、"ある"クエストの世界観に合わせた内容となっている。
+-Mitchie M氏 が『初音ミク V4X BETA』を使用した初の楽曲。
+-コーラスには鏡音リン Append（warm）、鏡音レン Append（cold）、巡音ルカ V4Xを使用している。
+-アルバム『[[バーチャル・ポップスター]]』収録曲。
+
+**歌詞
+（[[作者ブログ>>http://mitchie-m.com/blog/hatsune-miku/lyrics/amazing-magician/]]より転載）
+
+***Game Edit
+アメイジング・マジシャン　不思議なテクニシャン
+暗黒も眩しさに変える魔法
+
+光を失った　この闇の世界は
+誰かが仕掛けたトリック
+妖しくそびえ立った　シャトーはパンデモニウム
+キングの影は見えない　だけど
+
+輝き取り戻すのよ（きてます！きてます！ミラクル・パワー）
+MPフルチャージで　ラスボスを見破るブレイズ (It’s show time!)
+
+アメイジング・マジシャン　不思議なテクニシャン
+タネのないマジックで　魅せるの Wonderland
+夢があるから　照らすトゥルー・カラー
+粋なギミ・ギミ・ギミ・ギミ・ギミック効かせ　運ぶよ Sunlight
+
+#region(close, 英訳)
+※歌詞英訳
+（[[作者ブログ>>http://mitchie-m.com/blog/hatsune-miku/lyrics/english/amazing-magician-eng/]]より転載）
+
+Amazing magician, wondering technician
+
+The magic even changes the darkness to glare
+The light is lost, the world of darkness
+The trick someone set
+Standing dominantly, the castle of pandemonium
+Cannot see the shadows of the king but
+
+Take the brightness back (it’s coming! It’s coming! Power of miracles)
+Fully charged magic power, the blaze sees through the final boss
+(It’s show time!)
+
+Amazing magician, wondering technician
+The magic with no secret, charming wonderland
+Having a dream, true colors shine on
+Urbane gimmi gimmi gimmi gimmi gimmick on effect, carrying the sunlight
+
+#endregion
+
+
+***full ver.
+アメイジング・マジシャン　不思議なテクニシャン
+暗黒も眩しさに変える魔法
+
+光を失った　この闇の世界は
+誰かが仕掛けたトリック
+妖しくそびえ立った　シャトーはパンデモニウム
+キングの影は見えない　だけど
+
+輝き取り戻すのよ （きてます！きてます！ミラクル・パワー）
+MPフルチャージで　ラスボスを見破るブレイズ （It’s show time!）
+
+アメイジング・マジシャン　不思議なテクニシャン
+タネのないマジックで　魅せるの Wonderland
+夢があるから　照らすトゥルー・カラー
+粋なギミ・ギミ・ギミ・ギミ・ギミック効かせ　運ぶよ Sunlight
+
+ 
+不安に包まれた　世界はコンフュージョン
+やるっきゃない解決のミッション　さあ行くよ
+
+シルクハットの中から （きてます！きてます！秘密アイテム）
+MPフルチャージで　天功も仰天プリンセスの魔術 （It’s show time!）
+
+Amazing マジシャン　不可能はないじゃん
+信じれば現実に　なれるイリュージョン
+唱えてMagic Word　叶えてShining World
+派手にギミ・ギミ・ギミ・ギミ・ギミック決めて　つかもう Happiness
+「レン君！」
+
+ 
+アメイジング・マジシャン　不思議なテクニシャン
+タネのないマジックで　魅せるの Wonderland
+夢があるから　照らすトゥルー・カラー
+粋なギミ・ギミ・ギミ・ギミ・ギミック効かせ　運ぶよ Sunlight
+つかもう Happiness
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+**コメント
+- ニコ動はまだかな？  -- 名無しさん  (2015-10-27 09:23:29)
+//- 追加乙！！  -- 名無しさん  (2015-10-31 01:25:56)
+- アメイジングマジシャン、かわいい歌っすneーー!  -- 綾香  (2015-11-14 19:25:39)
+//- カラオケとかあるっすかneーー!覚えて歌いたいっすねー！上の3つ目のウチッスYoーコメントだけデｲｲかな♪っておもっちまいましてねー♪ボロがデちまいましたYoー！ッス!!!!!  -- 綾香  (2015-11-14 19:35:29)
+- PVめっちゃオシャレっす！  -- リア充撲滅会会長  (2016-04-27 17:58:34)
+- フルバージョン見てみたいな～。声もホントに歌ってるみたいで綺麗だし。  -- 平腹  (2016-09-23 18:36:03)
+#comment()
+
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)

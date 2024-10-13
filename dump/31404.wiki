@@ -1,0 +1,32 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){REVOLVER}|CENTER:-|
+
+|&bold(){[[奏音69]]}|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|CENTER:2014年12月30日|CENTER:2015年2月4日|
+|価格|CENTER:￥1,000|CENTER:￥1,200（税別）|
+|サークル|>|CENTER:Royal Scandal|
+
+**CD紹介
+-歌い手のluz、楽師の奏音69、絵師のRAHWIAによる『Royal Scandal』初のミニアルバム。
+-Tr.3がVOCLAOID使用楽曲。
+-2014年コミックマーケット87（C87）にて発売。
+-アニメイトで委託販売が行われている。
+
+**曲目
++[[クイーンオブハート]]（tWoluz edition） / luz
++[[チェリーハント]]（tWoluz edition） / luz
++チェリーハント（tWoluz edition） / 巡音ルカ
++[[REVOLVER>REVOLVER/奏音69]] / luz
++REVOLVER（instrumental）
+
+
+**リンク
+-[[奏音69サイト>>http://kanon69.com/]]
+-[[twitter（Royal Scandal）>>https://twitter.com/Royal_Scandal]]
+-[[アニメイト>>http://www.animate-onlineshop.jp/pn/%E3%80%90%E5%90%8C%E4%BA%BACD%E3%80%91Royal%20Scandal/REVOLVER/pd/1314185/]]
+
+**コメント
+#comment()

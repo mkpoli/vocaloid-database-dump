@@ -1,0 +1,31 @@
+#right(){&furigana(そうげんきょうEP)&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1725_20150608221257_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[深淵>深淵/CD]]|CENTER:&bold(){草原郷 EP}|CENTER:[[かんきり]]|
+
+|&bold(){[[Chiquewa]]}|
+
+発売：2015年7月15日
+価格：￥300
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：Sasakama Studio
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/sougen-kyo-ep/id1011716066]]}|
+
+**CD紹介
+-Chiquewa氏の配信作品。
+-KARENTレーベルよりダウンロード販売が行われている。「Summer Song」特集で配信された作品の1つ。
+
+**曲目
++[[草原郷]] （feat. 巡音ルカV4x）
++笑いたかった （feat. 巡音ルカV4x）
+
+**リンク
+-[[作者サイト>>http://chiquewa.blogspot.jp/]]
+-[[KARENT：「草原郷 EP」>>http://karent.jp/album/1725]]
+-[[KARENT：「Summer Song」特集ページ>>http://karent.jp/special/summer_song15]]
+
+**コメント
+#comment()

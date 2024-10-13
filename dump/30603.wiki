@@ -1,0 +1,35 @@
+#right(){&furigana(しやれおつP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/37248066" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/37248066">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-HNはりょう。
+-ハウスやR&Bを得意とし、P名の如く、お洒落な曲調に定評がある。
+-使用するボーカロイドはIA、初音ミクV3、巡音ルカ。
+-MMDを使用し、自ら動画を作る事が多い。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/ryouichi_t]]
+-[[YouTube>>https://www.youtube.com/c/%E3%82%B7%E3%83%A3%E3%83%AC%E3%82%AA%E3%83%84P%E3%82%8A%E3%82%87%E3%81%86]]
+-[[CreoFUGA>>http://creofuga.net/users/8023]]
+-[[twitter>>https://twitter.com/rtrt0224]]
+
+**曲
+#list_by_tag(シャレオツP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(シャレオツPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+
+|&nicovideo(http://www.nicovideo.jp/watch/sm20067502)|&nicovideo(http://www.nicovideo.jp/watch/sm20084179)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm20479992)|&nicovideo(http://www.nicovideo.jp/watch/sm20848571)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm21530898)|&nicovideo(http://www.nicovideo.jp/watch/sm22068160)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm22092495)|&nicovideo(http://www.nicovideo.jp/watch/sm22247479)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm22290426)|&nicovideo(http://www.nicovideo.jp/watch/sm23015045)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm23548197)|&nicovideo(http://www.nicovideo.jp/watch/sm24250731)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm24728126)|&nicovideo(http://www.nicovideo.jp/watch/sm25174698)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm26277443)|&nicovideo(http://www.nicovideo.jp/watch/sm27672581)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm27854410)|&nicovideo(http://www.nicovideo.jp/watch/sm28111610)|
+
+**コメント
+#comment()

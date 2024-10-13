@@ -1,0 +1,30 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1842_20151122215121_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Chasing tomorrow]]|CENTER:&bold(){wing of mind}|CENTER:-|
+
+|&bold(){[[As'257G]]}|楢崎このみ|
+
+発売：2015年12月16日
+価格：￥150
+流通：配信
+レーベル：KARENT
+ジャケット：As'257G
+
+**CD紹介
+>大切なものを信じる気持ち。
+>恐れずに手を伸ばせばきっと、なんでも越えてゆける――。
+-Sound Team Layer-0のAs'257G氏の配信シングル。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++wing of mind （feat. メグッポイド）
+
+**リンク
+-[[サークルサイト>>http://layer-0.shillest.net/]]
+-[[KARENT：「wing of mind」>>http://karent.jp/album/1842]]
+-[[iTunes Store>>http://itunes.apple.com/jp/album/wing-of-mind-single/id1063672904]]
+
+**コメント
+#comment()

@@ -1,0 +1,30 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1804_20150918100119_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[KLEP001 BeFurious]]|CENTER:&bold(){KLEP002 WageSlave}|CENTER:[[Relapse]]|
+
+|&bold(){[[Rin（ぎん）]]}|
+
+発売：2015年10月7日
+価格：￥300
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：TAKRIDER
+
+**CD紹介
+-Rin（ぎん）氏の配信EP。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++[[Wage slave]] （feat. 初音ミク）
++Loveless （feat. 初音ミク）
++[[Kind of Mind]] （feat. 初音ミク）
+
+**リンク
+-[[KARENT：「KLEP002 WageSlave」>>http://karent.jp/album/1804]]
+-[[iTunes Store>>http://itunes.apple.com/jp/album/klep002-wageslave-single/id1041337531]]
+-[[作者サイト>>http://kuronekolounge.sakura.ne.jp/neko/KuronekoLounge.html]]
+
+**コメント
+#comment()

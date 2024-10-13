@@ -1,0 +1,32 @@
+#right(){&furigana()&furigana()【登録タグ:&tags()】}
+&ref(http://karent.jp/npdca/1849_20151123224731_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[History to U]]|CENTER:[[Doppelganger>Doppelganger/ゆうP]]&br()[[反射湖]]&br()&bold(){gray snow}|CENTER:-|
+
+|&bold(){[[ゆうP]]}|
+
+発売：2015年12月18日
+価格：￥300
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：まぬるねこ
+
+**CD紹介
+-音楽サークル「P∴Rhythmatiq」でも活動するゆうPの配信シングル。
+-P∴Rhythmatiqのアルバム『[[P∴Rhythmatiq act:08]]』収録曲のリンバージョン。
+-KARENTレーベルよりダウンロード販売が行われている。鏡音リン・レン8周年記念特集で配信された作品の1つ。
+
+**曲目
++gray snow （feat. 鏡音リン）
++gray snow - off
+
+**リンク
+-[[作者サイト>>http://www.p-pr.info/]]
+-[[KARENT：「gray snow」>>http://karent.jp/album/1849]]
+-[[KARENT：「鏡音リン・レン祭'15」特集ページ>>http://karent.jp/special/rinlen15]]
+-[[iTunes Store>>http://itunes.apple.com/jp/album/gray-snow-single/id1064844580]]
+
+
+**コメント
+#comment()

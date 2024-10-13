@@ -1,0 +1,37 @@
+#right(){&furigana()&furigana()【登録タグ:&tags()】}
+&ref(http://karent.jp/npdca/1839_20151121190624_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Re:CaLL}|CENTER:[[エンジェルランプ>エンジェルランプ/CD]]|
+
+|&bold(){[[Liz.]]}|
+
+発売：2015年12月18日
+価格：￥900
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：[[葉桜ちこり>>http://piapro.jp/chiko99715]]
+
+**CD紹介
+-Liz.氏の配信アルバム。
+-動画サイトで公開されている楽曲もアレンジし直されて収録されている。
+-KARENTレーベルよりダウンロード販売が行われている。鏡音リン・レン8周年記念特集で配信された作品の1つ。
+
+**曲目
++[[GHOST>GHOST/Liz.]] （feat. 鏡音リン＆鏡音レン）
++[[最終列車に乗って]] （feat. 鏡音レン）
++[[ラヴソングと涙]] （feat. 鏡音リン）
++[[カトレアのくちづけ]] （feat. 鏡音リン）
++ユキゾラ （feat. 鏡音レン）
++[[朝に咲く花]] （feat. 鏡音リン）
++[[虚空ノ藍]] （feat. 鏡音リン）
+
+**リンク
+-[[twitter>>http://twitter.com/liz4kcl]]
+-[[KARENT：「Re:CaLL」>>http://karent.jp/album/1839]]
+-[[KARENT：「鏡音リン・レン祭'15」特集ページ>>http://karent.jp/special/rinlen15]]
+-[[iTunes Store>>http://itunes.apple.com/jp/album/re-call/id1064842155]]
+
+**コメント
+- ２年ほど前だからほぼ配信された頃からずっと好きなのですがＣＤがなくて悲しいです。ＭＰ3に取り込みたいのですがどうしたら取り込めますか？  -- 麗華  (2018-10-01 08:17:16)
+#comment()

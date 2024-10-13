@@ -1,0 +1,86 @@
+#right(){&furigana(てんのこP)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/42946540" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/42946540">【ニコニコ動画】</a></iframe>)|
+
+|&nicovideo_series(){<iframe width="312" height="176" src="https://ext.nicovideo.jp/thumb_series/278912" scrolling="no" style="border:solid 1px #CCC;" frameborder="0">【ニコニコ動画】</iframe>}|&nicovideo_series(){<iframe width="312" height="176" src="https://ext.nicovideo.jp/thumb_series/278913" scrolling="no" style="border:solid 1px #CCC;" frameborder="0">【ニコニコ動画】</iframe>}|
+
+**特徴
+作り手名：『&u(){でんの子P}』(&u(){でんのこピー})
+-2014年4月1日、「[[大大大キライ]]」にてボカロPデビュー。
+-使用合成音声は[[蒼姫ラピス]]、[[メルリ]]、[[マクネナナ]]、[[ギャラ子]]NEO、[[初音ミク]]V3、[[VY1]]V4、[[KAITO]] V3、[[Rana]]、[[杏音鳥音]]、[[巡音ルカ]]。
+-曲だけでなく、PVも全部自分で作っており、絆創膏を貼ったラピスは作者のマスコットキャラクターである。
+-作風は実験的な要素が強いが、キャッチなーメロディーと、心地よいリズムを主体とし、聴く者を飽きさせない。
+
+**リンク
+//-個人HP、PIAPRO、YouTube等ある場合は、ここに。当wiki以外のサイトへリンクを貼る場合は必ず「>>」で別ウインドウでリンクしてください。
+-[[ニコニコ動画>>https://www.nicovideo.jp/user/39550403]]
+-[[YouTube>>https://www.youtube.com/channel/UC9eN4L-2cJDdkI2RWSIDILw]]
+//-[[piapro>>https://piapro.jp/]]
+-[[Twitter>>https://twitter.com/dennoko_p]]
+//-[[Vocaloiders>>http://vocaloiders.com/4424/]]
+
+**曲
+#list_by_tagsearch(でんの子P,sort=furigana2,errmsg=まだ曲が登録されていません。,and,100)
+
+**CD
+#list_by_tagsearch(でんの子PCD,sort=furigana2,errmsg=まだCDが登録されていません。,and,100)
+
+**動画
+***オリジナル曲
+#region(close,~2015)
+|&nicovideo(sm23233072)|&nicovideo(sm23351624)|
+|&nicovideo(sm23477099)|&nicovideo(sm23633557)|
+|&nicovideo(sm23833831)|&nicovideo(sm23985032)|
+|&nicovideo(sm24354876)|&nicovideo(sm24513396)|
+|&nicovideo(sm24637396)|&nicovideo(sm24831643)|
+|&nicovideo(sm25027656)|&nicovideo(sm25177433)|
+|&nicovideo(sm25290377)|&nicovideo(sm25485263)|
+|&nicovideo(sm25767411)|&nicovideo(sm25966491)|
+|&nicovideo(sm26729488)|&nicovideo(sm27295741)|
+|&nicovideo(sm27765080)||
+#endregion
+|&nicovideo(sm27933414)|&nicovideo(sm28375740)|
+|&nicovideo(sm28548516)|&nicovideo(sm29555647)|
+|&nicovideo(sm30310842)|&nicovideo(sm30752264)|
+|&nicovideo(sm30973758)|&nicovideo(sm31427134)|
+|&nicovideo(sm31799162)|&nicovideo(sm32552866)|
+|&nicovideo(sm32991810)|&nicovideo(sm34021296)|
+|&nicovideo(sm34473149)|&nicovideo(sm34923091)|
+|&nicovideo(sm36629614)|&nicovideo(sm36916131)|
+|&nicovideo(sm37508099)|&nicovideo(sm38189436)|
+|&nicovideo(sm38526109)|&nicovideo(sm38683046)|
+
+***カバー曲
+|&nicovideo(sm24094359)|
+
+***コラボ曲
+|&nicovideo(sm25680284)|&nicovideo(sm27814178)|
+|&nicovideo(sm29648214)|&nicovideo(sm34771823)|
+
+
+**関連タグ内の更新履歴
+#region(close,関連タグ内の更新履歴)
+関連タグ内の更新履歴
+※「でんの子P」「でんの子PCD」タグ内で最近編集やコメントのあった記事を新しい方から10件表示しています。
+#list_by_tagsearch(でんの子P,でんの子PCD,sort=timestamp,sort2=desc,errmsg=まだ曲、CDが登録されていません。,or,10)
+#endregion
+
+**コメント
+- な　ぜ　の　び　な　い  -- 名無しさん  (2014-10-24 20:02:17)
+- メインがラピスな上、実験音楽が多くサムネもアレだから仕方ないっちゃ仕方ないけど…のびてほしい  -- 名無しさん  (2014-11-05 23:27:53)
+- 間違いなく今年のスーパールーキー  -- 名無しさん  (2014-11-09 12:09:13)
+- くせになる曲が多いよね  -- 名無しさん  (2014-12-25 19:34:36)
+- もっと知られてほしい。  -- 名無しさん  (2016-01-12 23:55:06)
+- 一度聞いたらはまってしまった  -- 名無しさん  (2016-01-20 23:28:47)
+- 新曲もよかったですし、ほんと奇才  -- 名無しさん  (2016-04-09 10:22:15)
+- ほんと天才。ボカロ離れてたけ聴いた瞬間どハマりしてしまった  -- 名無しさん  (2016-10-07 12:59:00)
+- 一度聴くと、歌詞と曲のテンポが忘れられない。  -- 名無しさん  (2016-11-02 21:18:33)
+- この人popからアングラまでジャンル広すぎ  -- 名無しさん  (2017-08-30 14:33:27)
+- かわいいラップショーは？  -- 名無しさん  (2017-10-26 10:33:29)
+- マジで好き。流行ってーーー伸びろーーー  -- 名無しさん  (2017-11-03 20:42:44)
+- カワイイラップショーは松傘さんとのコラボ曲だから……  -- 名無しさん  (2017-11-11 16:00:35)
+- かっこいいくてふわふわしててかわいい。  -- ユウウツ霜  (2023-09-06 19:27:47)
+#comment()

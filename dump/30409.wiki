@@ -1,0 +1,22 @@
+#right(){&furigana(たっさん)&furigana()【登録タグ:&tags() 】}
+//&nicovideo_mylist(ここにマイリストブログパーツのiframe用をコピペ)
+
+**特徴
+-2014年9月20日23時24分投稿の「合言葉は「大丈夫さ！」」でデビューを果たしたボカロP兼作詞作曲家。
+-ボカロだけでなく普通の楽曲製作活動がメイン（別名義。非公開。）
+
+**リンク
+-
+
+**曲
+#list_by_tag(たっさん,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(たっさんCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm24512729)||
+
+**コメント
+- 練習しつつ作成  -- 提督  (2014-09-23 02:24:36)
+#comment()

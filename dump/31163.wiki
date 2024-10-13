@@ -1,0 +1,44 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1891_20160413014024_0280_0280.jpg)
+#image(http://scx-ct.net/pict/banner/ao_banner01.jpg,http://scx-ct.net/sp/anotheroriginal/,title=Sound Collection - Another Original,blank)　　
+
+&nicovideo(http://www.nicovideo.jp/watch/sm25186741)
+
+|CENTER:前作|CENTER:今作|CENTER:次作|
+|CENTER:[[Tonality]]|CENTER:[[Sound Collection - New Original]]&br()&bold(){Sound Collection - Another Original}|CENTER:[[Reverberations 2]]|
+
+|&bold(){[[Clean Tears]]}|[[takamatt]]|[[すけっちP]]|[[味噌汁P]]|
+|[[Aether_Eru]]|[[かめりあ]]|[[定額P]]|[[鼻そうめんP]]|
+
+|流通|CENTER:即売|CENTER:委託|CENTER:配信|
+|発売|CENTER:2014年12月30日||CENTER:2016年5月18日|
+|価格|CENTER:￥1,000（税込）|CENTER:￥1,200（税別）|CENTER:￥1,500|
+|サークル|>|CENTER:S.C.X||
+
+**CD紹介
+-豪華リミックス陣によるS.C.Xボーカロイド楽曲のRemixアルバム。
+-マスタリングはKatana-Bitsの Hedonist氏 が手掛ける。
+-C87（コミックマーケット87）にてリリース。
+-各同人ショップで委託販売が行われている。
+-2016年、KARENTよりダウンロード販売が開始された。
+
+**曲目
++[[Pousse Cafe>Pusse Cafe]]（takamatt Remix）
++[[Sonorous]]（SuketchP Remix）
++[[Solesta!]]（Kenichi Chiba Remix）
++[[Love it!]]（P∴Rhythmatiq Remix）
++[[Tears of palm]]（かめりあ's "Retearing" Remix）
++[[Desert Wolf]]（Another Original Remix）
++Requiem（Another Original Remix）
++[[Dreamscape>Dreamscape/Clean Tears]]（TeigakuP Remix）
++[[Far away]]（3x Remix）
++[[Inverse Relation]]（HSP Remix）
+
+**リンク
+-[[サークルサイト>>http://scx-ct.net/]]
+-[[特設ページ>>http://scx-ct.net/sp/anotheroriginal/]]
+-[[KARENT：「Sound Collection - Another Original」>>http://karent.jp/album/1891]]
+-[[iTunes Store>>http://itunes.apple.com/jp/album/sound-collection-another-original/id1109950778]]
+
+**コメント
+#comment()

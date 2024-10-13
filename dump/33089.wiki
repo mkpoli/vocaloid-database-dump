@@ -1,0 +1,30 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1803_20150914221550_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[雨月怪改遊戯　～うづきあやかしあらためゆうぎ～]]|CENTER:&bold(){Oath of a migratory bird}|CENTER:[[Chasing tomorrow]]|
+
+|&bold(){[[As'257G]]}|飛高|
+
+発売：2015年10月7日
+価格：￥150
+流通：配信
+レーベル：KARENT
+ジャケット：As'257G
+
+**CD紹介
+>空高く舞う渡り鳥は、果てない荒野を飛んでいく。
+>遥か遠くの光を目指し、自由の風に乗って――。
+-Sound Team Layer-0のAs'257G氏の配信シングル。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++Oath of a migratory bird （feat. 巡音ルカ）
+
+**リンク
+-[[サークルサイト>>http://layer-0.shillest.net/]]
+-[[KARENT：「Oath of a migratory bird」>>http://karent.jp/album/1803]]
+-[[iTunes Store>>http://itunes.apple.com/jp/album/oath-migratory-bird-single/id1041337271]]
+
+**コメント
+#comment()

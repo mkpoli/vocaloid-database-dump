@@ -1,0 +1,36 @@
+#right(){&furigana(きみのひとみにうつるそら)&furigana()【登録タグ:&tags() 】}
+
+//&ref(https://sound.jp/nanase615/x/kimisora.jpg,x=300,y=300)
+&ref(https://s2.booth.pm/c32bee30-1fe8-4905-a441-5fef7caf32f6/i/52646/5257f062-e59b-4c9a-bafd-ca0113bcbc31_base_resized.jpg,x=300,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm24601748)
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[the Portraits]]|CENTER:&bold(){きみの瞳に映る空}|CENTER:[[Epangelia]]|
+
+|&bold(){[[ナナミP]]}|[[humi]]|
+
+|流通|CENTER:即売|CENTER:配信|
+|発売|CENTER:2014年10月19日|CENTER:|
+|価格|CENTER:￥500|CENTER:￥400|
+|サークル|>|CENTER:蝶々結び|
+
+**CD紹介
+-ナナミP の2ndミニアルバム。
+-「片想い」と「空」をテーマにした、民族調＆アコースティック調な巡音ルカ＆鏡音リンデュオのミニアルバム。
+-イラストとデザインは [[7:24>姉を見事に使いこなす妹P]]氏 が手掛ける。
+-VOCALOID PARADISE 9（ボーパラ9）で頒布。
+-BOOTHにてダウンロード販売が行われている。
+
+**曲目
++[[ユグドラシル]]
++[[うみ]]
++星祭りの夜
++[[ハルモニア]]-melodia de dos-
++[[きみの瞳に映る空]]
+
+**リンク
+-[[特設サイト>>http://sound.jp/nanase615/x/sky.html]]
+-[[BOOTH>>https://nanamip.booth.pm/items/52646]]
+
+**コメント
+#comment()

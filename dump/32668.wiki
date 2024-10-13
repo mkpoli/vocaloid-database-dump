@@ -1,0 +1,52 @@
+#right(){&furigana(つきのうた5)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+#ref(http://www.vocalomakets.com/yukari_CD/007/image/jacket.png,width=300,height=300)
+
+
+&nicovideo(http://www.nicovideo.jp/watch/sm26880409)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[月の詩 Ⅳ -ツキノウタ-]]|CENTER:&bold(){月の詩 Ⅴ -ツキノウタ-}|CENTER:[[月の詩 Ⅵ -ツキノウタ-]]|
+
+|&bold(){[[Bumpyうるし]]}|[[かごめP]]|[[cillia]]|[[たかぴぃ]]|[[ねじ式]]|[[ちょむP]]|おがた|[[Chief Meat]]|[[喜兵衛]]|
+|[[デッドボールP]]|[[チームカミウタ]]|[[タカオカミズキ]]|[[LIQ]]|[[Soh Yoshioka]]|[[iroha（sasaki）>iroha/作り手]]|[[kuma（alfred）]]|[[HMOとかの中の人]]|春野台ねしこ|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|>|CENTER:2015年8月16日|
+|価格|CENTER:￥1,000（税込）|CENTER:￥1,493（税抜）|
+|サークル|>|CENTER:マケッツ団|
+
+**CD紹介
+-VOCALOMAKETS メンバー企画による結月ゆかりの公式コンピレーションアルバムの第5弾！！
+-今回も前作同様、計13名のボカロPが参加している。
+-ジャケットイラストは Mika Pikazo氏 が手掛ける。ロゴデザインは 渡辺浩彰氏 。
+-C88（コミックマーケット88）にてリリース。書店委託も行われている。
+
+**曲目
++[[Guillotine]]　/　LIQ
++ちくわ　/　デッドボールP
++デイドリィム乙女脳内構想　/　HMOとかの中の人
++[[硝子細工の少女]]　/　ねじ式
++ねこのおねがい　/　Bumpyうるし
++[[プリンセス・シンドローム>プリンセスシンドローム]]　/　かごめP
++Coronagraph　/　Soh Yoshioka
++[[名もない君と名もない町]]　/　チームカミウタ
++[[おふとんのバラード]]　/　喜兵衛
++やぶれかけのノート　/　たかぴぃ
++[[風に任せて]]　/　Chief Meat
++白髪野原にて　/　iroha（sasaki）
++エンドロール -ver. Lin-　/　ちょむP
+
+**リンク
+-[[特設ページ>>http://www.vocalomakets.com/yukari_CD/007/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/33/04/040030330497.html]]
+
+**コメント
+- いろはさんだ！  -- 名無しさん  (2015-08-12 15:13:08)
+- ちくわｗｗｗｗｗｗｗｗｗｗｗｗｗｗ  -- 名無しさん  (2015-08-14 21:49:44)
+- iroha気になる  -- 名無しさん  (2015-08-22 17:26:38)
+- ここに入ってる５曲  -- 名無しさん  (2015-09-23 19:48:34)
+#comment

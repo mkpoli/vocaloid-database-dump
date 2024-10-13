@@ -1,0 +1,30 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[White Memories>White Memories/CD]]|CENTER:[[Yukarecovery]]&br()&bold(){Lock on YUKARIN}|CENTER:[[Violet Moon]]|
+
+|&bold(){[[ちょむP]]}|[[海兎]]|おがた|真雪|
+
+発売：2015年10月25日
+価格：￥500
+流通：即売
+サークル：ちょむ工房
+
+**CD紹介
+-ちょむPの19作目となるボーカロイドCD。
+-結月ゆかりが全曲を歌うロックなアルバム。歌謡ロックを意識した新作書き下ろし３曲収録。
+-ジャケットイラストはno10氏。
+-M3-2015秋で頒布。
+-委託販売の予定は無し。
+-後に、本作と次作『[[Violet Moon]]』を一枚にまとめたアルバムが発表された。→『[[Violet Moon+]]』
+
+**曲目
++君じゃなきゃダメだってこと
++メロディ
++[[ルーレット]]
++～おしゃべりトラック・カラオケ
+
+**リンク
+-[[作者サイト>>http://chomstudio.com/]]
+
+**コメント
+#comment()

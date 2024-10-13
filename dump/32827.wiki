@@ -1,0 +1,30 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#ref(http://karent.jp/npdca/1788_20150722132147_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Schluss.ep}|CENTER:[[彼は天井から見ている]]|
+
+|&bold(){[[こんにちは谷田さん]]}|
+
+発売：2015年8月21日
+価格：￥300
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：一二三ん
+
+**CD紹介
+-こんにちは谷田さん氏の配信作品。
+-KARENTレーベルよりダウンロード販売が行われている。初音ミク8周年記念企画で配信された作品の1つ。
+
+**曲目
++[[散るカラスと静謐な白巨塔の崩落]] （feat. 初音ミク）
++[[落下ウサギと寡黙な傍観者の手記]] （feat. 初音ミク）
+
+**リンク
+-[[作者twitter>>http://twitter.com/hello_tanitasan]]
+-[[KARENT：「Schluss.ep」>>http://karent.jp/album/1788]]
+-[[KARENT：「初音ミク 8th Anniversary」特集ページ>>http://karent.jp/special/miku15]]
+-[[iTunes Store>>http://itunes.apple.com/jp/album/schluss.ep-single/id1024493421]]
+
+**コメント
+#comment()

@@ -1,0 +1,37 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1853_20151202110013_0280_0280.jpg) 
+
+&youtube(http://www.youtube.com/watch?v=DMV6Q0YcwMU){342,187}
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[P∴Rhythmatiq Dark Side]]|CENTER:&b(){P∴Rhythmatiq act:08}|CENTER:[[Re:cover]]|
+
+|&b(){[[Aether_Eru]]}|&b(){[[ノア(Noah)]]}|&b(){[[ゆうP]]}|JOYH-TV|
+
+|流通|CENTER:即売|CENTER:同人|CENTER:配信|
+|発売|>|CENTER:2010年12月31日|CENTER:2015年12月24日|
+|価格|CENTER:￥500|CENTER:|CENTER:￥600 / 1曲￥150|
+|サークル|>|>|CENTER:P∴Rhythmatiq|
+
+**CD紹介
+-今回の新作は再び原点に戻りアクトシリーズ第８弾。
+-ジャケットイラストは しろ氏 が手掛ける。
+-ゲストクリエイターとして、 JOYH-TV氏 が『[[Constella]]』から「Undulation」をリミックス。
+-[[チーターガールP]]の「bpm」のリミックスを特別収録。
+-コミックマーケット79（C79）にて頒布。とらのあな、メロンブックス、D-STAGE、ホワイトキャンバス、あきばお～こく各店にて委託販売が行われた。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++[[冬空ペチカ]]
++gray snow
++Undulation -JOYH-TV mix-
++[[bpm>bpm -2008 mix-]] -P∴Rhythmatiq mix- （Original：KTG（チーターガールP））
++冬空ペチカ without Miku ver.
++gray snow without Miku ver.
+
+**リンク
+-[[P∴Rhythmatiq （プリズマティック）>>http://prhythmatiq.com/archives/325]]
+-[[KARENT：「P∴Rhythmatiq act:08」>>http://karent.jp/album/1853]]
+
+**コメント
+#comment()

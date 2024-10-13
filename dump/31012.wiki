@@ -1,0 +1,35 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1662_20141202232245_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Blue Chameleon]]|CENTER:&bold(){Continue_Play}|CENTER:-|
+
+|&bold(){[[ぴすたP]]}|
+
+発売：2014年12月17日
+価格：￥600
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：ぴちょこ
+
+**CD紹介
+-ぴすたPの配信ミニアルバム。
+-全6曲。
+-KARENTレーベルよりダウンロード販売が行われている。鏡音リン・レン7周年記念企画で配信された作品の1つ。
+
+**曲目
++Do you "Continue Play"?
++アンドロメダ幼稚園-Rin ver. （feat. 鏡音リン） ※[[UTAU楽曲データベースへのリンク>>http://www24.atwiki.jp/utauuuta/pages/3025.html]]
++[[オシャレ泥棒と色眼鏡]]-8bit theif ver. （feat. 鏡音レン）
++[[モシモクロニクル]] （feat. 鏡音リン）
++[[おばけのばけがく]] （feat. 鏡音リン）
++僕の数奇なミライ紀行 （feat. 鏡音レン）
+
+**リンク
+-[[KARENT：「Continue_Play」>>http://karent.jp/album/1662]]
+-[[KARENT：「鏡音リン・レン祭'14」特集ページ>>http://karent.jp/special/rinlen14]]
+-[[iTunes Store>>https://itunes.apple.com/jp/album/continue-play-ep/id948655532]]
+-[[twitter>>https://twitter.com/pista_choo]]
+
+**コメント
+#comment()

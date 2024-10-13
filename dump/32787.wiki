@@ -1,0 +1,81 @@
+#right(){&furigana()&furigana()【登録タグ:&tags()】}
+&nicovideo(http://www.nicovideo.jp/watch/sm26987826)
+作詞：[[バルP]]
+作曲：[[バルP]]
+編曲：[[バルP]]
+唄：初音ミク
+
+**曲紹介
+>&bold(){『気高きその胸に守るべき者は}
+>&bold(){　この美しき世界より美しい人』}
+-Words&Music、3DCG Modeling、MMD Edit：valgomila（バルP）、Logo&Artwork、Costume Design：日向、Movie、3DCG Animation、MMD Edit：ナイン
+-KARENTレーベルよりダウンロード販売が行われている。[[初音ミク8周年記念企画>>http://karent.jp/special/miku15]]で配信された作品の1つ。
+
+**音楽配信
+&ref(http://karent.jp/npdca/1775_20150713154236_0280_0280.jpg)
+
+|CENTER:前作|CENTER:今作|CENTER:次作|
+|CENTER:[[あしあとふたつ]]|CENTER:&bold(){Save the Queen}|CENTER:-|
+
+流通：配信
+発売：2015年8月21日
+価格：￥300
+レーベル：[[KARENT>>http://karent.jp/album/1775]]
+ジャケットイラスト：[[日向>>http://piapro.jp/kuro_usa]]
+
+|&bold(){[[iTunes Storeで購入>>https://itunes.apple.com/jp/album/save-the-queen-single/id1024492643]]}|
+
+***曲目
++Save the Queen （feat. 初音ミク）
++Save the Queen （Instrumental）
+
+**歌詞
+（[[PIAPRO>>http://piapro.jp/t/Sj0H]]より転載）
+
+この願いを叶えて それができるのはこの世で
+他の誰でもない貴方 ただ一人だけ
+健やかなる時にも 心病めるような時にも
+二人でいれたら ただ それだけを願う
+
+気高きその胸に守るべき者は
+この美しき世界より美しい人
+
+私に捧げる 合言葉は何？
+I'm sure you'll say. "Save The Queen"
+滑稽だって笑わないよ
+右手には愛を 左手に花束を
+両手が塞がっていたら守れないじゃない…
+そんな意地悪も 笑って許してね
+ふいに見せた その笑顔が愛しい
+
+二人で歩いて行くことが 当たり前になっても
+初めて出会った日のことを忘れない
+喜びの時にも どんな悲しみの時にも
+
+気高きその胸に守るべき者は
+この美しき世界より美しい人
+
+私に捧げる 言葉は一つだけ？
+I want you say. "I Love You"
+何回だって構わないよ
+目覚めた朝も 月が照らす夜も
+どこかで見た映画の 受け売りでも
+優しくて不器用な 貴方のことだから
+受け止めるよ そのすべてを
+
+飾り立てた 宝石なんかよりも
+輝くのは 本当の愛の証
+例えば明日になって 世界が終わるとしても
+関係ない程 傍にいて欲しいよ
+
+私に捧げる 合言葉は何？
+I'm sure you'll say. "Save The Queen"
+滑稽だって笑わないよ
+右手には愛を 左手に花束を
+両手が塞がっていたら都合がいいわ
+高貴なる口づけを 親愛なる騎士へ
+心から愛しい 貴方へ
+
+
+**コメント
+#comment()

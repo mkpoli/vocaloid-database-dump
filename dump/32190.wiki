@@ -1,0 +1,36 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm26056751)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[YOUTH WITHOUT YOUTH]]|CENTER:&bold(){ABnormal LEGACY}|CENTER:[[Paranormal LEGACY]]|
+
+|&bold(){[[ナナホシ管弦楽団]]}|
+
+|流通|CENTER:即売|CENTER:通販|
+|発売|CENTER:2015年4月26日||
+|価格|CENTER:￥1,500|CENTER:￥1,500|
+|サークル|CENTER:善因善果推奨委員会||
+
+**CD紹介
+-ナナホシ管弦楽団の3rdアルバム。
+-THE VOC@LOiD 超 M@STER 31（超ボーマス31）にてリリース。
+-自家通販が行われている。
+
+**曲目
++[[アンドロメダ>アンドロメダ/ナナホシ管弦楽団]]
++[[No.39>No,39]]
++[[赤点先生]]
++[[デリヘル呼んだら君が来た]]
++[[才能シュレッダー]]
++[[真夜中の微笑み]]
++[[あの娘のシークレットサービス]]
++[[さよならレシェノルティア]]
++[[シニカルブルーは眠らない]]
+
+**リンク
+-[[Twitter>>http://twitter.com/sosite_iwamikun]]
+-[[Seven Star Akashic Records>>http://nanahoshi.buyshop.jp/]]
+
+**コメント
+- おっ！デリヘルだ！  -- 良太  (2015-06-06 20:49:55)
+#comment()

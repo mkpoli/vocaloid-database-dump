@@ -1,0 +1,42 @@
+#right(){&furigana(びゃくやとげっかびじん)&furigana()【登録タグ:&tags() 】}
+
+&ref(https://ecdnimg.toranoana.jp/ec/img/04/0030/37/41/040030374170-1p.jpg,x=300,y=300)
+
+|&nicovideo(http://www.nicovideo.jp/watch/sm27834689)|&YouTube(http://www.youtube.com/watch?v=xTIlWlSVQvc){342,187}|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[刀歌>刀歌/CD]]|CENTER:&bold(){白夜と月下美人}|CENTER:[[GOTTANI！番外編]]|
+
+|&bold(){[[natsuP]]}|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|>|CENTER:2015年12月31日|
+|価格|CENTER:￥1,000|CENTER:￥1,500（税別）|
+|サークル|>|CENTER:SEVEN COLOR LIGHT|
+
+**CD紹介
+-SCL ProjectのCD作品。
+-SCL Projectがお送りする刀剣乱舞×男声VOCALOIDオリジナルイメージソングCD。
+-guitar・bass・drum・mix・mastering：haku、Jacket Illust：[[春アキ]] 
+-コミックマーケット89（C89）で頒布。
+-とらのあなで委託販売が行われている。
+
+**曲目
++[[刀歌]] / VY2・Gackpo・KAITO・LEN / オープニングイメージ
++雪の舞 / KAITO / 三日月宗近イメージ &color(red){NEW!!}
++それがお役目ならば / LEN・Piko / 短刀イメージ &color(red){NEW!!}
++雅なる影法師（Album remix） / VY2 / 鶴丸国永イメージ
++らなさよにとわ / Kiyoteru / 加州清光イメージ &color(red){NEW!!}
++邪悪なる敵 / 検非違使イメージ &color(red){NEW!!}
++罪と嘘 / Gackpo・KAITO・LEN / にっかり青江イメージ &color(red){NEW!!}
++終わりの乱 / VY2・Gackpo・KAITO・Kiyoteru・LEN・Piko / エンディングイメージ &color(red){NEW!!}
++出陣 / BGMアレンジ &color(red){NEW!!}
+
+**リンク
+-[[Twitter>>http://twitter.com/scl_natsu]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/37/41/040030374170.html]]
+
+**コメント
+- おおッ！  -- 名無しさん  (2016-01-18 23:08:23)
+- どの曲もめっちゃいいです！とうらぶ知る前に買ったので、知った後に聞くとヤバいです。  -- 名無しさん  (2017-08-15 20:16:31)
+#comment()

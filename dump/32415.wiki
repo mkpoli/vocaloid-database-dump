@@ -1,0 +1,45 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+
+&nicovideo(http://www.nicovideo.jp/watch/sm26653696)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Hydrangean Diva]]|CENTER:&bold(){nostalgic diva}|CENTER:[[Sad Dancer]]|
+
+|&bold(){[[ねじ式]]}|
+
+|流通|CENTER:即売|CENTER:通販|
+|発売|CENTER:2015年7月12日||
+|価格|CENTER:￥1,000（税込）|CENTER:￥1,620（税込）|
+|サークル|CENTER:ねじ式||
+
+**CD紹介
+-火曜日P こと ねじ式氏 の3rdアルバム。
+-2ndアルバム前後に投稿された楽曲の中からの選りすぐりに新曲を加えた全14曲を収録。
+-『[[六等星の夜]]』のささら版、『[[ZERO BLADE]]』のONE版、 [[ナナホシ管弦楽団]]氏 の楽曲、『[[さよならレシェノルティア]]』のIAカバーも収録される。
+-ジャケットイラストは Kor氏 が手掛ける。
+-THE VOC@LOiD M@STER 32（ボーマス32）にてリリース。
+-通販が行われている。
+
+**曲目
++[[心壁サチュレーション]]
++[[懲役三年生]]
++[[恋吹雪の空に]]
++[[リメンバー]]
++[[葉桜舞う頃に]]
++[[さよならレシェノルティア]]
++[[六等星の夜]]
++[[眠れぬ闇のヤンデレラ]]
++[[ZERO BLADE]]
++レーゾン・デートル
++[[さよならアルペジオ]]
++[[QT!39クッキング]]
++[[夜明け色の靴]]
++[[キミイロアーカイブス]]
+
+**リンク
+-[[Twitter>>http://twitter.com/nejishiki0221]]
+-[[通販サイト>>http://nejishiki.thebase.in/]]
+
+**コメント
+- 懲役三年生以外と好き  -- 名無しさん  (2015-07-07 22:01:19)
+#comment()

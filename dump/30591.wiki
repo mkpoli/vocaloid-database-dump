@@ -1,0 +1,43 @@
+#right(){&furigana(せおちゃんのうないえくせすてーじくりあ)&furigana()【登録タグ:&tags() 】}
+//&ref(http://vocadb.net/Album/CoverPicture/9734?v=2)
+//&ref(http://xceon.jp/m3_2014autumn/image/neetingp_jacket.png)
+
+&ref(https://stat.ameba.jp/user_images/20141010/00/neetingp/f1/5d/p/t02200220_0500050113093004791.png?caw=800,x=300,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm24655824)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&b(){せおちゃん脳内エクセステージクリア}|CENTER:-|
+
+|&bold(){[[ニーティングP]]}|[[Starving Trancer]]|[[Xceon]]|[[Frash back Dominant]]|
+
+|流通|CENTER:即売|
+|発売|CENTER:2014年10月26日|
+|価格|CENTER:無料|
+|サークル|CENTER:Xceon（委託）|
+
+**CD紹介
+-[[ニーティングP]]初のCDアルバム。
+-今までの動画配信曲と「せおちゃん」（Starving Trancer / Xceon）によってRemixされた楽曲が含まれている。
+-ジャケットイラストは [[ニーティングP]]本人。
+-第一A04a（M3-2014秋） [[Xceon]] のブースにて委託リリース。[[Xceon]]と[[Starving Trancer]]の新譜をセット購入すると付く特典CD扱い。
+
+**曲目
++[[せおちゃん！砂丘の中心でタクシーをよぶ]]（Starving Trancer remix) /Starving Trancer feat.Yusuke
++[[せおちゃん壊れたメガネは誰のもの？]](FBD remix) /Flash back Dominant
++[[せおちゃんおにぎり買ってこい！]]feat.MAYU(NENDO DE REMIX) /ニーティングP
++[[カレー屋でせおちゃん！ラーメン大盛り]]（Ver1.5) /ニーティングP
++[[眠れないせおちゃんの夜]] /ニーティングP
++[[せおちゃん！砂丘の中心でタクシーをよぶ]] /ニーティングP
++[[せおちゃん壊れたメガネは誰のもの？]] /ニーティングP
++[[せおちゃんおにぎり買ってこい！]]feat.MAYU /ニーティングP
++[[灼熱断罪ショコラッテ]] /ニーティングP
++[[爪にくいこむビタミンＣ]] /ニーティングP
+
+**リンク
+-[[公式ページ>>http://ameblo.jp/neetingp/]]
+-[[キャンペーンサイト(Xceon)>>http://xceon.jp/m3_2014autumn/]]
+
+**コメント
+- せおちゃんｗ  -- 名無しさん  (2014-10-20 21:23:15)
+#comment()

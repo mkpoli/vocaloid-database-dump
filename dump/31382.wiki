@@ -1,0 +1,28 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1727_20150611150128_0280_0280.jpg)
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[remember>remember/CD]]|CENTER:&bold(){HeatHazeSUMMER}|CENTER:[[Resonance↔line>Resonance↔line/CD]]|
+
+|&bold(){[[23]]}|
+
+|流通|CENTER:無料配信|CENTER:有料配信|
+|発売|CENTER:2014年7月1日|CENTER:2015年7月15日|
+|価格|CENTER:無料|CENTER:￥300|
+
+**CD紹介
+-23氏が投稿した、HeatHazeSUMMERシリーズ2曲を収録したシングル。
+-前作同様、無料でダウンロードできる。
+-手元のMP3プレイヤーで聞きたいときにどうぞ。
+-リマスターした音源がKARENTレーベルよりダウンロード販売されている。「Summer Song」特集で配信された作品の1つ。
+
+**曲目
++[[HeatHazeSUMMER_vacation!]]
++[[HeatHazeSUMMER_replay?]]
+
+**リンク
+-[[ダウンロード先>>https://www.dropbox.com/s/scdstswqeld25e1/HeatHazeSUMMER.zip]]
+-[[KARENT：「HeatHazeSUMMER」>>http://karent.jp/album/1727]]
+-[[KARENT：「Summer Song」特集ページ>>http://karent.jp/special/summer_song15]]
+
+**コメント
+#comment()

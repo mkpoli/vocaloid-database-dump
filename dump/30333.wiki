@@ -1,0 +1,73 @@
+#right(){&furigana(あおのやみ)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(https://www.nicovideo.jp/watch/sm24453305)|&youtube(https://www.youtube.com/watch?v=7_5Jk_iuM7k){342,187}|
+作詞：[[あやりす]]
+作曲：[[あやりす]]
+編曲：[[あやりす]]
+イラスト・動画：[[七種ひのる]]（[[Twitter>>https://twitter.com/SaikusaHinoru]]）
+唄：[[flower>v flower]]
+
+**曲紹介
+>&bold(){闇を照らす蒼}
+曲名：『&u(){蒼ノ闇}』(&u(){あおのやみ})
+-あやりす氏 の9作目。
+-本作が、自身初のflowerオリジナル曲となる。
+
+**歌詞
+（[[piapro>>https://piapro.jp/t/ad9U]]より転載・編集）
+
+出口の見えない　螺旋の空は無機質で
+冷たい光が　脳裏をかすめる
+
+FOREVER&EVER　続いてゆく　瓦礫に舞う幻想
+
+STAY WITH YOUR MIND
+TAKE ME YOUR PAIN
+NO WAY TO SAY
+
+HI-FIな記憶の傷を　曖昧なKISSで塞いで
+静寂を撃ち落としたREACTION
+空白に溺れた瞳　誘惑に狂うPARANOIA
+向かう先には　歪んだJUNXTION
+
+
+壊れた翼は　限界を突きつけられて
+彷徨う心は　虚しいと叫ぶ
+
+GAMEOVER…
+奪われた視界は　未来を欲しがり　&ruby(とき){刻}を止めた
+
+HIGH BRIGHTNESS　記憶の先へ　LIFE TIMEは走り始める
+REPLICA並べた夜のFIXION
+遠隔操り人形　幻覚に踊るPARANOIA
+崩れはじめた　二人のJUNXTION
+
+
+STAY WITH YOUR MIND
+TAKE ME YOUR PAIN
+NO WAY TO SAY
+
+HI-FIな記憶の傷を　曖昧なKISSで塞いで
+静寂を撃ち落としたREACTION
+空白に溺れた瞳　誘惑に狂うPARANOIA
+向かう先には
+
+HIGH BRIGHTNESS　記憶の先へ　LIFE TIMEは走り始める
+REPLICA並べた夜のFIXION
+遠隔操り人形　幻覚に踊るPARANOIA
+闇が照らした　二人のJUNXTION
+
+終りなきMISSION　
+
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+
+**コメント
+- 追加おつ！  -- 名無しさん  (2014-09-16 02:15:50)
+//- 歌詞を追加しました。  -- 名無しさん  (2014-09-18 15:26:11)
+- この曲もっと伸びていいと思うんだけど…  -- 暇人#  (2018-08-21 18:09:48)
+#comment()

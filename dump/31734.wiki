@@ -1,0 +1,25 @@
+#right(){&furigana(くまー@Taken)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/10401004" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/10401004">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-作詞家の作り手。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/yahhotake]]
+
+**曲
+#list_by_tag(クマー@Taken♪,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(クマー@Taken♪CD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm2501749)|&nicovideo(sm4207603)|
+|&nicovideo(sm4936473)|&nicovideo(sm5257032)|
+|&nicovideo(sm5588153)|&nicovideo(sm5589583)|
+|&nicovideo(sm5638571)|&nicovideo(sm5990045)|
+|&nicovideo(sm6014348)|&nicovideo(sm6309541)|
+//|&nicovideo(ニコ動のURL)|&nicovideo(ニコ動のURL)|
+
+**コメント
+#comment()

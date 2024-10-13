@@ -1,0 +1,32 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm19301635)
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[フローリアの箱庭]]|CENTER:&bold(){the Portraits}|CENTER:[[きみの瞳に映る空>きみの瞳に映る空/CD]]|
+
+|&bold(){[[ナナミP]]}|
+
+|流通|CENTER:即売|CENTER:配信|
+|発売|CENTER:2012年11月25日|CENTER:|
+|価格|CENTER:￥500|CENTER:￥400|
+|サークル|>|CENTER:蝶々結び|
+
+**CD紹介
+-ナナミP の1stミニアルバム。
+-鏡音リン・レンが歌う、「記憶」をテーマにした、アコースティックバラード中心の5曲入りミニアルバム。
+-鏡音ねいろ！で頒布。
+-イラストとデザインは [[7:24>姉を見事に使いこなす妹P]]氏 が手掛ける。
+-BOOTHにてダウンロード販売が行われている。
+
+**曲目
++[[ポートレート>ポートレート/ナナミP]]
++[[Last Summer～鮮やかな残像～]]
++[[時の雫>時の雫/ナナミP]]
++Railway ～色褪せぬ面影～
++[[ヒカリ>ヒカリ/ナナミP]]（Full arrange ver.）
+
+**リンク
+-[[特設サイト>>http://sound.jp/nanase615/x/portraits.html]]
+-[[BOOTH>>http://nanamip.booth.pm/items/52647]]
+
+**コメント
+#comment()

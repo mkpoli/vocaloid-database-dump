@@ -1,0 +1,42 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://img.toranoana.jp/popup_img/04/0030/32/97/040030329794-1p.jpg,width=300,height=300)
+
+
+&nicovideo(http://www.nicovideo.jp/watch/sm26892415)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Sound Collection - New Original]]&br()[[Sound Collection - Another Original]]|CENTER:&bold(){Reverberations 2}|CENTER:[[Wave Motion]]|
+
+|&bold(){[[Clean Tears]]}|
+
+|流通|CENTER:即売|CENTER:委託|CENTER:配信|
+|発売|CENTER:2015年8月16日|CENTER:2015年8月下旬|CENTER:2015年9月2日|
+|価格|CENTER:￥1,000（税込）|CENTER:￥1,200（税抜）|CENTER:￥1,200 / 1曲￥150|
+|サークル|>|>|CENTER:S.C.X|
+
+**CD紹介
+>&bold(){響き渡る声 遠くへと 水平線の虹へと向かえ}
+-ボカロトランスをメインにしたCDの第2弾。
+-ジャケットイラストは 六羽田トモエ氏 が手掛ける。
+-C88（コミックマーケット88）にてリリース。
+-書店委託およびKARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++intro -Reverberations 2-
++[[Dependence>Dependence/Clean Tears]]
++Time and space
++[[Vagueness]]
++Glisten
++Abandonment
++[[Tranquilizer]]
++Thawing
++Horizontal Line
+
+**リンク
+-[[作者ホームページ>>http://scx-ct.net/]]
+-[[特設ページ>>http://reverberations2.tumblr.com/]]
+-[[KARENT：「Reverberations 2」>>http://karent.jp/album/1791]]
+-[[iTunes Store>>http://itunes.apple.com/jp/album/reverberations-2/id1033080337]]
+
+**コメント
+#comment()

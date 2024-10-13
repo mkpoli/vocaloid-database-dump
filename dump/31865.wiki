@@ -1,0 +1,54 @@
+#right(){&furigana(わんおほvol09)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+
+#amazon(B00Y9HOPRY)
+
+|&nicovideo(http://www.nicovideo.jp/watch/sm26046403)|&YouTube(http://www.youtube.com/watch?v=SSjWKVUDB-k){342,187}|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[C++++]]|CENTER:&bold(){ワン☆オポ！vol.09}|CENTER:[[ワン☆オポ！THE BEST OF BEST]]|
+
+|&bold(){[[マイナスP]]}|&bold(){[[じーざすP]]}|
+
+|流通|CENTER:即売|CENTER:委託|CENTER:配信|
+|発売|CENTER:2015年4月26日||CENTER:2015年12月18日|
+|価格|CENTER:￥1,000|CENTER:￥1,389（税別）|CENTER:￥1,200 / 1曲￥150|
+|サークル|>|CENTER:Wonderful★opportunity!||
+
+**CD紹介
+CD名：『&u(){ワン☆オポ！vol.09}』
+-[[マイナスP]]、[[じーざすP]]による同人サークル「Wonderful★Opportunity!（ワンダフル☆オポチュニティ！）」の11thCDアルバム。
+-全8曲を収録。
+-ジャケットイラストは[[グライダー]]氏が担当。
+-THE VOC@LOiD 超 M@STER 31（超ボーマス31）にて初頒布された。
+-とらのあな、Amazonで委託販売が行われている。
+-KARENTレーベルよりダウンロード販売が行われている。鏡音リン・レン8周年記念企画で配信された作品の1つ。
+
+**曲目
++[[勝算◎最前線]] / リン・レン / じーざすP
++[[鬼KYOKAN]] / レン・リン / じーざすP
++アダムの告白 / レン / マイナスP
++[[ボクらの最終定理]] / レン・リン / じーざすP
++弔辞、夢追い人の森にて / リン / マイナスP
++いいえ、彼女の夢ではありません / リン / マイナスP
++教えて！ウィキペディアン / リン・レン / じーざすP
++You're Nothing / リン / マイナスP
+
+**リンク
+-[[official website>>http://www.wan-opo.com/]]
+-[[twitter>>http://twitter.com/WAN_OPO]]
+-[[CD特設サイト>>http://wanopotw.wixsite.com/vol-09]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/30/44/040030304483.html]]
+-[[Amazon>>http://www.amazon.co.jp/dp/B00Y9HOPRY]]
+-[[KARENT：「ワン☆オポ！VOL.09」>>http://karent.jp/album/1824]]
+-[[KARENT：「鏡音リン・レン祭'15」特集ページ>>http://karent.jp/special/rinlen15]]
+-[[iTunes Store>>http://itunes.apple.com/jp/album/wanopo!-vol.09/id1064841381]]
+
+**コメント
+- 「教えて！ウィキペディアン」は動画投稿するべき！  -- 良太  (2015-04-17 21:00:33)
+- ↑同意、買いたい！！！  -- 奏  (2015-06-03 23:00:06)
+- ↑同意、買う！  -- イルマ  (2016-11-15 22:09:01)
+#comment()

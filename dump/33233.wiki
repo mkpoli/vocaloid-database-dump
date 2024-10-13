@@ -1,0 +1,41 @@
+#right(){&furigana(MurmursofTime)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion|&nicovideo(sm25158378)|&youtube(https://www.youtube.com/watch?v=6fBd2A7xOHI){342,187}|
+作詞：[[モモカシュー]]
+作曲：[[モモカシュー]]
+編曲：[[モモカシュー]]
+唄：[[Oliver]]
+
+**曲紹介
+>&bold(){時のササヤキ}
+曲名：『&u(){Murmurs of Time}』(&u(){まーまーず おぶ たいむ})
+-楽器を演奏している8才・12才・17才のオリバーをイメージにして曲を作りました。（作者コメ転載）
+-イラストを Nai氏 が手掛ける。
+-歌詞は全て架空言語で構成されている。
+
+**歌詞
+（[[piapro>>http://piapro.jp/t/k3o6]]より転載）
+
+Fëj lućîna tis cœllj
+Jût am papiÿon es tîve ein
+Boumônd vuß kou läment
+Ego vîve libér te
+Der tëndo hou laj sûffle
+Pierämento deß cik vu nom
+Es colt mürhe mürhe
+Ego nesjô
+
+Jût am vessallä ojeÿa
+Terhaćîk vu non quarêt rhje
+Frœleß boi san nauće hêx
+Vun somélle somélle te
+Aasłaf vit rheß ciel
+Märha perllucîdas
+Inniß vîktarh vuvà vuvà
+Somélle somélle
+
+
+**コメント
+#comment()

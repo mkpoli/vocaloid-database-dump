@@ -1,0 +1,32 @@
+#right(){&furigana(かたなうた)&furigana()【登録タグ:&tags() 】}
+
+&ref(https://ecdnimg.toranoana.jp/ec/img/04/0030/32/91/040030329148-1p.jpg,x=300,y=300)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[GOTTANI!]]|CENTER:&bold(){刀歌}|CENTER:[[白夜と月下美人]]|
+
+|&bold(){[[natsuP]]}|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|>|CENTER:2015年7月26日|
+|価格|CENTER:￥500|CENTER:￥747（税別）|
+|サークル|CENTER:SEVEN COLOR LIGHT|CENTER:SCL Project|
+
+**CD紹介
+-SCL ProjectのCD作品。
+-刀剣乱舞×VOCALOIDのイメージソングを収録。
+-『刀剣乱舞』のオンリーイベント「特・百刀繚乱 ～君の心を白刃取り～」で頒布。
+-現在、とらのあなでの委託販売は終了している。
+
+**曲目
++[[刀歌]] （オープニングイメージソング）
++雅なる影法師 (piano inst) （鶴丸国永イメージソング） &color(red){NEW!!}
++刀歌 (inst) &color(red){NEW!!}
+
+**リンク
+-[[作者ブログ>>http://musicnatsuvocaloid.blog25.fc2.com/]]
+-[[Twitter>>http://twitter.com/scl_natsu]]
+//-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/32/91/040030329148.html]]
+
+**コメント
+#comment()

@@ -1,0 +1,39 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1605_20140904161134_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[EXIT TUNES PRESENTS THE COMPLETE BEST OF ラマーズP feat.初音ミク]]|CENTER:&bold(){I say love}|CENTER:[[恋のプログラム発動>恋のプログラム発動/CD]]|
+
+|&bold(){[[ラマーズP]]}|
+
+発売：2014年9月26日
+価格：￥1,500
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：ラマーズP
+
+|&bold(){[[iTunes Storeで購入>>https://itunes.apple.com/jp/album/i-say-love/id918065182]]}|
+
+**CD紹介
+-ラマーズPの配信アルバム。
+-初音ミクV3が発売されてから発表した楽曲、描き下ろし曲、新たにリメイクした曲を収録。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++[[愛の詩]] （feat. 初音ミク）
++[[デレ化現象100％]] （feat. 初音ミク）
++[[I say love]] （feat. 初音ミク）
++[[Aquaculture]] （feat. 初音ミク）
++[[Nothing>Nothing/ラマーズP]] （feat. 初音ミク）
++銀河系から徒歩5分以内で （feat. 初音ミク）
++[[Refugium]] （feat. 初音ミク）
++トキメキ （feat. 初音ミク）
++[[くるくるぱぁ]] （feat. 初音ミク）
++[[WAVEFILE]]_V3ver （feat. 初音ミク）
+
+**リンク
+-[[KARENT：「I say love」>>http://karent.jp/album/1605]]
+
+**コメント
+- おお！ラマーズPさん！最近のラマーズさんも好きだから、欲しいな！  -- 名無しさん  (2014-09-28 16:30:13)
+#comment()

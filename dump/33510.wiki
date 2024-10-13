@@ -1,0 +1,30 @@
+#right(){&furigana()&furigana()【登録タグ:&tags()】}
+&ref(http://karent.jp/npdca/1840_20151207093420_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[ドリームシアター]]|CENTER:&bold(){White Room}|CENTER:[[ミクロコスモス>ミクロコスモス/CD]]|
+
+|&bold(){[[Gumin]]}|天吉|
+
+発売：2015年12月18日
+価格：￥150
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：[[きーち>>http://piapro.jp/ruu214]]
+
+**CD紹介
+-Gumin氏の配信シングル。
+-KARENTレーベルよりダウンロード販売が行われている。鏡音リン・レン8周年記念特集で配信された作品の1つ。
+
+**曲目
++[[ホワイトルーム>小さな窓の内側から]] （feat. 鏡音レン）
+
+**リンク
+-[[twitter>>http://twitter.com/kirikirin3939]]
+-[[作者ブログ>>http://ameblo.jp/kirikirin3939/]]
+-[[KARENT：「White Room」>>http://karent.jp/album/1840]]
+-[[KARENT：「鏡音リン・レン祭'15」特集ページ>>http://karent.jp/special/rinlen15]]
+-[[iTunes Store>>http://itunes.apple.com/jp/album/white-room-single/id1064841903]]
+
+**コメント
+#comment()

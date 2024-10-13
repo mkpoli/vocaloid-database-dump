@@ -1,0 +1,40 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#amazon(B00L23WOOE)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[sync-loid:05]]|CENTER:&bold(){sync-loid:06 -Yellow Magic-}|CENTER:[[sync-loid:07]]|
+
+|[[あひる＠]]|[[かいわれP]]|[[キッドP]]|[[残鏡P]]|[[tagami]]|[[れれれP]]|[[つきのP]]|[[ことあ]]|[[クリスタルP]]|[[わんたろう]]|
+|[[冴戒椎也]]|[[van=jin（遅刻オトメンP）]]|[[ヤミカ]]|[[残響P]]|[[河瀬はる]]|[[cao.]]|[[shibayan]]|[[タナカミツヒロ]]|[[なかじー]]|[[project sync-loid]]|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2014年6月29日|CENTER:2014年7月6日|
+|価格|CENTER:￥1,000（税込）|CENTER:￥1,500（税別）|
+|レーベル|>|CENTER:project sync-loid|
+
+**CD紹介
+-即売会「VOCALOID PARADISE番外編」がお送りするリンレンオンリーコンピレーションアルバム第二弾!（Amazon商品説明文より引用）
+-STAFF（特設サイトより引用）&br()ジャケットイラスト：河瀬はる&br()ジャケットデザイン:cao.(*PetitBrain)&br()マスタリング:shibayan(Shibayan Records)&br()ディレクション:タナカミツヒロ(LC:AZE/M-COMI・ボーパラ関西事務局)&br()ディレクション:プロデューサー：なかじー（ボーパラ準備会）
+
+**曲目
++あの空の向こうまで / あひる＠ feat. 鏡音リン
++[[ラズライト>ラズライト/かいわれP]] / みっち（かいわれP） feat. 鏡音リン・レン
++[[ライフ・ノルマ]] / キッド feat. 鏡音レン
++bittersweet / tagami feat. 鏡音リン
++夏のむこうの蜃気楼 / れれれP feat. 鏡音レン
++ボクを照らす光 / つきのP feat. 鏡音レン
++[[オトトコト]] / ことあ feat. 鏡音リン・レン
++ガラム de マサラ / クリスタルP feat. 鏡音レン
++[[マタタビ]] / わんたろう feat. 鏡音リン
++[[スイート・グラビティ]] / 冴戒椎也 feat. 鏡音リン
++春国、幻に消ゆ。 / van=jin(遅刻オトメンP) feat. 鏡音リン・レン
++夢見草 / ヤミカ feat. 鏡音リン・レン/ラ・ズィマッキェ(UTAU)
++[[あの夏でまた。]] / 残響P feat. 鏡音リン
+
+**リンク
+-[[sync-loid:06 特設サイト>>http://vo-para.birdzberth.com/syncloid06/]]
+-[[Amazon>>http://www.amazon.co.jp/dp/B00L23WOOE/]]
+
+**コメント
+- かいわれP sm25205206 冴戒椎也氏 sm25022733 ことあ氏 sm24086786 確認しました  -- 名無しさん  (2016-02-14 08:54:02)
+#comment()

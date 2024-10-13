@@ -1,0 +1,30 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1600_20140830201120_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[秒速30万キロメートル]]|CENTER:&bold(){face the truth}|CENTER:[[Looking up at the stars]]|
+
+|&bold(){[[As'257G]]}|Azzy|
+
+発売：2014年9月24日
+価格：￥300
+流通：配信
+レーベル：KARENT
+ジャケット：As'257G
+
+**CD紹介
+-Sound Team Layer-0のAs'257G氏の配信シングル。
+-がくぽのロック曲2曲を収録。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++face the truth （feat. がくっぽいど）
++Fight of liberty （feat. がくっぽいど）
+
+**リンク
+-[[サークルサイト>>http://layer-0.shillest.net/]]
+-[[KARENT：「face the truth」>>http://karent.jp/album/1600]]
+-[[iTunes Store>>https://itunes.apple.com/jp/album/face-the-truth-single/id916625284]]
+
+**コメント
+#comment()

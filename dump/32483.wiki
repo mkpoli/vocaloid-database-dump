@@ -1,0 +1,38 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#amazon(B011MXNTAG)
+
+|&nicovideo(http://www.nicovideo.jp/watch/sm27070262)|&youtube(https://www.youtube.com/watch?v=_fmTblVlNsY){342,187}|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Nostalgia>Nostalgia/dorikoCD]]|CENTER:&bold(){origin}|CENTER:[[finale>finale/CD]]|
+
+|&bold(){[[doriko]]}|
+
+発売：2015年9月2日
+価格：￥2,376（税込）
+流通：全国
+レーベル：Being
+
+**CD紹介
+-doriko氏 の2ndコンセプトミニアルバム。
+-そのタイトルが示す通り、“Origin”＝“原点”を意識して制作に挑んだ。
+-ボーナストラックとして2008年に発表、ポプラ社よりノベライズもされた人気曲「歌に形はないけれど」を最新mixで収録。
+-ジャケットイラストは [[ちほP]] が手掛ける。
+
+**曲目
++[[あなたの願いをうたうもの]]
++海の見える坂道
++水彩画
++魔女裁判
++Alone
++Starlight
++[[歌に形はないけれど]]～ last mix～
+
+**リンク
+-[[作者HP>>http://doriko.jp/]]
+-[[amazon>>http://www.amazon.co.jp/dp/B011MXNTAG]]
+
+**コメント
+- おおおきりたんさん！楽しみ〜  -- 良太  (2015-07-16 20:39:05)
+- もう買うしかない  -- 名無しさん  (2015-07-17 01:56:36)
+#comment()

@@ -1,0 +1,298 @@
+#right(){&furigana(Paintër)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm27399621)|&youtube(http://www.youtube.com/watch?v=JxKVlmLvXBM){342,187}|
+作詞：[[halyosy]]
+作曲：[[halyosy]]
+編曲：[[halyosy]]
+エレキギター：[[Rio.T]]
+ピアノ：[[事務員G]]
+ベース：[[mao]]
+箏：[[いぶくろ聖志]]
+バイオリン：[[てっぺい先生]]・[[ゆさ]]
+イラスト：[[5月病マリオ>五月病マリオ]]
+動画：[[Goodman]]
+唄：[[初音ミク]]・[[鏡音リン>鏡音リン・レン]]・[[鏡音レン>鏡音リン・レン]]・[[巡音ルカ]]・[[KAITO]]・[[MEIKO]]
+
+**曲紹介
+>&bold(){「描け！」}
+>&bold(){ひとりでダメなら、誰かと描けば良い、そう改めて感じました。&br()これからもみんなで一緒に描いていけたら嬉しいです。}
+曲名：『&u(){Paintër}』
+−halyosyを中心とする歌い手集団「ニコニコラボ」として提供された楽曲のVOCALOID版。
+
+**歌詞
+
+描け！筆が動く限り
+描け！色が続く限り
+
+「何を描いても良い」と授けてくれた
+沢山の絵の具と真っ白なキャンバス
+透明な心で握りしめた筆
+目に映る全て鮮やかに見えた……のに
+
+歳と共に埋もれてく線画
+七十億色が擦った揉んだ
+自分らしさ模索して地団駄
+Oh oh oh oh oh oh oh
+描き方は誰も教えちゃくれない
+なのに好きなようにさせてくれない
+訳も分からず重ね濁ってく
+Oh oh oh oh oh oh oh
+
+ちょっと周りを見渡せば
+寝る間も惜しみ袖汚しっぱなし
+明日を目指して灯した闘志
+みんな同じなんだ！
+
+Imagine the new world
+Imagine the future
+その手で何もかも塗り潰せ
+
+Imagine the new world
+Imagine the future
+誰だって譲れない夢がある
+描け！筆が動く限り
+描け！色が続く限り
+
+押入れの奥に眠らせたノート
+答えを求めて磨り減ったエンピツ
+描きかけのスケッチ忘れたフリして
+毎日がむしゃら挫けずに来れた……のに
+
+"大人になるのが何故悪いんだ"
+"理想だけじゃ食っていけないんだ"
+塗り固めた嘘が綻んだ
+Oh oh oh oh oh oh oh
+人生はアンドゥーで取り消せない
+ましてリドゥーでやり直せもしない
+一筆書きの道が滲んでく
+Oh oh oh oh oh oh oh
+
+ちょっと後ろ振り向けば
+デッサンもパースも拙くても
+純粋に描き殴ってたあの頃
+なんて自由なんだ！
+
+Imagine the new world
+Imagine the future
+それぞれの絵の具をぶち撒けろ
+
+Imagine the new world
+Imagine the future
+ひとりでは見れない夢がある
+描け！筆が動く限り
+描け！色が続く限り
+
+Hey! Ladies & gentlemen, boys & girls
+ココは何でもアリな展覧会
+Look at this 空飛ぶ魚！
+Look at this 真冬の向日葵！
+Look at this 西から昇る太陽！
+教科書が正しいとは限らない
+
+RED 赤はススメ？！
+BLUE 青はトマレ？！
+YELLOW あ、え、黄色はどっちでも…
+感じたままに意味を選べば良い
+
+芸術は爆発した跡の後付けだ
+カリカリひっかいてペタペタくっつけて
+ゴシゴシこすってクシャクシャまるめて
+それでもなお残ったモノこそが
+この世で自分だけの色なんだ！
+
+Imagine the new world
+Imagine the future
+その手で何もかも塗り潰せ
+
+Imagine the new world
+Imagine the future
+誰だって譲れない夢がある
+
+街行く人も籠もる住人も
+殿も民も君も僕も百人百様
+こんな風に集まって遠くから眺めれば
+おっきくてカラフルな&ruby(え){夢}になるんだ！
+
+Imagine the new world
+Imagine the future
+それぞれの絵の具をぶち撒けろ
+
+Imagine the new world
+Imagine the future
+ひとりでは見れない夢がある
+描け！筆が動く限り
+描け！色が続く限り
+
+描け！筆が動く限り
+描け！色が続く限り
+
+塗り潰し終えた鮮やかなキャンバス
+次はどんな絵をみんなと描けるのかな
+
+#region(close,色分け歌詞)
+（&color(LightSeaGreen){初音ミク}、&color(Gold){鏡音リン}、&color(Orange){鏡音レン}、&color(HotPink){巡音ルカ}、&color(DodgerBlue){KAITO}、&color(Crimson){MEIKO}）
+（&color(brown){ミク＋リン}、&color(#EC008C){ルカ＋MEIKO}、&color(LightGreen){レン＋KAITO}、&color(green){ミク＋リン＋ルカ＋MEIKO}、&color(DarkOrchid){ミク＋レン＋ルカ}、&color(grey){リン＋KAITO＋MEIKO}、全員）
+
+&color(brown){描け！}&color(DodgerBlue){筆が動く限り}
+&color(#EC008C){描け！}&color(Orange){色が続く限り}
+
+&color(LightSeaGreen){「何を描いても良い」と授けてくれた}
+&color(LightSeaGreen){沢山の絵の具と真っ白なキャンバス}
+&color(Gold){透明な心で握りしめた筆}
+&color(Gold){目に映る全て鮮やかに見えた……のに}
+
+&color(Crimson){歳と共に埋もれてく線画}
+&color(HotPink){七十億色が擦った揉んだ}
+&color(#EC008C){自分らしさ模索して地団駄}
+&color(LightGreen){Oh oh oh oh oh oh oh}
+&color(Gold){描き方は誰も教えちゃくれない}
+&color(LightSeaGreen){なのに好きなようにさせてくれない}
+&color(brown){訳も分からず重ね濁ってく}
+&color(LightGreen){Oh oh oh oh oh oh oh}
+
+&color(HotPink){ちょっと周りを見渡せば}
+&color(Orange){寝る間も惜しみ袖汚しっぱなし}
+&color(DodgerBlue){明日を目指して灯した闘志}
+&color(Crimson){みんな同じなんだ！}
+
+Imagine the new world
+Imagine the future
+&color(LightSeaGreen){その手で何もかも塗り潰せ}
+
+Imagine the new world
+Imagine the future
+&color(Gold){誰だって譲れない夢がある}
+&color(green){描け！}&color(LightGreen){筆が動く限り}
+&color(green){描け！}&color(LightGreen){色が続く限り}
+
+&color(HotPink){押入れの奥に眠らせたノート}
+&color(HotPink){答えを求めて磨り減ったエンピツ}
+&color(Crimson){描きかけのスケッチ忘れたフリして}
+&color(Crimson){毎日がむしゃら挫けずに来れた……のに}
+
+&color(LightSeaGreen){"大人になるのが何故悪いんだ"}
+&color(Gold){"理想だけじゃ食っていけないんだ"}
+&color(brown){塗り固めた嘘が綻んだ}
+&color(LightGreen){Oh oh oh oh oh oh oh}
+&color(HotPink){人生はアンドゥーで取り消せない}
+&color(Crimson){ましてリドゥーでやり直せもしない}
+&color(#EC008C){一筆書きの道が滲んでく}
+&color(LightGreen){Oh oh oh oh oh oh oh}
+
+&color(Gold){ちょっと後ろ振り向けば}
+&color(DodgerBlue){デッサンもパースも拙くても}
+&color(Orange){純粋に描き殴ってたあの頃}
+&color(LightSeaGreen){なんて自由なんだ！}
+
+Imagine the new world
+Imagine the future
+&color(DodgerBlue){それぞれの絵の具をぶち撒けろ}
+
+Imagine the new world
+Imagine the future
+&color(Orange){ひとりでは見れない夢がある}
+&color(green){描け！}&color(LightGreen){筆が動く限り}
+&color(green){描け！}&color(LightGreen){色が続く限り}
+
+&color(LightGreen){Hey! Ledies & gentlemen, boys & girls}
+&color(LightGreen){ココは何でもアリな展覧会}
+&color(DarkOrchid){Look at this}&color(Gold){空飛ぶ魚！}
+&color(DarkOrchid){Look at this}&color(DodgerBlue){真冬の向日葵！}
+&color(DarkOrchid){Look at this}&color(Crimson){西から昇る太陽！}
+&color(grey){教科書が正しいとは限らない}
+
+&color(Crimson){RED}&color(HotPink){赤はススメ？！}
+&color(DodgerBlue){BLUE}&color(LightSeaGreen){青はトマレ？！}
+&color(Gold){YELLOW}&color(Orange){あ、え、黄色はどっちでも…}
+&color(DarkOrchid){感じたままに意味を選べば良い}
+
+&color(Crimson){芸術は爆発した跡の後付けだ}
+&color(Gold){カリカリひっかいて}&color(HotPink){ペタペタくっつけて}
+&color(DodgerBlue){ゴシゴシこすって}&color(Orange){クシャクシャまるめて}
+&color(LightSeaGreen){それでもなお残ったモノこそが}
+&color(Gold){この世で自分だけの色なんだ！}
+
+Imagine the new world
+Imagine the future
+&color(Crimson){その手で何もかも塗り潰せ}
+
+Imagine the new world
+Imagine the future
+&color(HotPink){誰だって譲れない夢がある}
+
+&color(Orange){街行く人も}&color(DodgerBlue){籠もる住人も}
+&color(Orange){殿も民も君も僕も}&color(DodgerBlue){百人百様}
+&color(Crimson){こんな風に集まって}&color(HotPink){遠くから眺めれば}
+&color(Crimson){おっきくて}&color(HotPink){カラフルな}&ruby(え){夢}になるんだ！
+
+Imagine the new world
+Imagine the future
+&color(LightSeaGreen){それぞれの絵の具をぶち撒けろ}
+
+Imagine the new world
+Imagine the future
+&color(Gold){ひとりでは見れない夢がある}
+&color(green){描け！}&color(LightGreen){筆が動く限り}
+&color(green){描け！}&color(LightGreen){色が続く限り}
+
+&color(green){描け！}&color(LightGreen){筆が動く限り}
+&color(green){描け！}&color(LightGreen){色が続く限り}
+
+&color(Gold){塗り潰し終えた鮮やかなキャンバス}
+&color(LightSeaGreen){次はどんな絵をみんなと描けるのかな}
+#endregion
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+**コメント
+//- タイトル誤字  -- 名無しさん  (2015-10-19 16:42:52)
+//- ウムラウトかトレマかわからないけど、ëが文字化け起こしてるね  -- 名無しさん  (2015-10-19 17:15:37)
+- 来た‼️  -- 名無しさん  (2015-10-19 17:47:56)
+- サビのメロディがBlessingに少し似てるところあって繋がってるんだな～って思った。今回も素敵な曲だ……！！！  -- 匿名  (2015-10-19 18:48:54)
+- 仕事早い！  -- 名無しさん  (2015-10-19 21:17:45)
+//美術部なので
+- 、とってもどハマリｗｗ  -- refrain  (2015-10-20 20:06:10)
+- この曲のおかげで絵がダイブ上手くなりました！ありがとう！！  -- ↑４  (2015-10-20 21:11:54)
+- すごくいい曲でした！色が綺麗なのとメロディーが覚えやすくてはまりました！  -- 名無しさん  (2015-10-26 16:18:23)
+- サビが明るい歌詞なのに切ないメロディーっていうのが絶妙的に好き  -- 名無しさん  (2015-10-27 22:00:51)
+- ものすっごく良い曲！クセのあるリズムと明るい歌詞が見事にマッチしていて、勇気づけられます！  -- 舞笛  (2015-11-05 17:25:40)
+- めっちゃ良い曲！ちょーハマる！マジでステキ！　「夢(え)になるんだ！」の歌詞は全員じゃなくてミクかルカでは？  -- るる  (2015-11-06 02:48:11)
+- イントロの部分ちょっと聴いただけで好きになった。  -- ねぎりんご  (2015-11-06 16:28:40)
+- Hey! Ledies & gentlemen, boys & girls ～この世で自分だけの色なんだ！が好き！ハマる！ヤバい！!好き好き  -- アルルラ  (2016-01-01 18:29:48)
+- 絵描いてて自分ってやっぱ才能無いんだなって思っててもこの曲を聴いてれば才能とかどうでもいいんだっていつも支えて貰ってます!!  -- rain__bow  (2016-01-29 18:32:02)
+- やっと見つけた！やっぱり泣けるなぁ  -- 飛鳥  (2016-04-11 00:35:33)
+- これ聞いて何度も泣いた...  -- はらり松  (2016-07-04 17:48:12)
+//- 美術部から転部したことを後悔している←  -- リンネ＠愛松  (2016-07-07 17:23:36)
+//- 美術部であることを誇りに思った！共感ですー！  -- nana  (2016-08-04 11:58:36)
+//- ここで美術部がどうとか言ってる奴はズレてるよ  -- 名無しさん  (2016-08-09 23:56:28)
+//- ↑うるせぇ、自分の感想なんだから他人にどうこう言われる筋合いは無いぞ  -- 蛇足  (2016-08-13 16:09:22)
+- 鉛筆、ありがとう、、、  -- 晴夏  (2016-10-01 18:31:03)
+- 名曲。  -- Reft  (2016-10-18 21:04:25)
+- 確かに。美術部は関係……ないね  -- なななし  (2016-11-08 06:57:02)
+- メロディーが好き  -- 名無しさん  (2016-12-24 17:26:57)
+- はるよしさんの曲は英語の所が凄く格好いいと思う。いまじんざにゅーわーるど！いまじんざふゅーちゃー！  -- ハンサム学園  (2017-01-28 17:43:04)
+- 前向きになれる。  -- 名無しさん  (2017-02-08 07:19:21)
+- この曲で夢を諦めず前に進もうと思います  -- 名無しさん  (2017-03-31 12:01:52)
+//（関係ないっていわれちゃうけど）送る会とかで美術部で歌ってあげたい。
+- 泣けるなあ、はるよしさんすごいなあ。  -- rizu  (2017-04-18 16:02:09)
+- あれっ..自分の好きな曲を書いてる紙がびしょびしょや..。書き直そっ！ｗ  -- 七海  (2017-04-21 18:54:54)
+//- あっ..紙なかったわ..(´・ω・｀)　買ってきます  -- 七海  (2017-04-21 18:55:57)
+- はいきた神曲  -- 名無しさん  (2017-06-11 17:46:11)
+- 絵を描いてる1人としてとっても励まされました。好きです。  -- 名無しさん  (2017-06-28 07:12:32)
+- 上の方と同様絵描いてるのでグッと来ました！  -- 名前などない  (2017-11-10 20:00:43)
+- 英語のとこ好きだなぁ～  -- 名無しさん  (2017-12-16 20:09:29)
+- 絵で挫けかけていた時にこの曲に出会って励まされました！  -- Ryukun  (2017-12-17 21:34:05)
+- 本当に好き！励まされる  -- 坂本  (2019-12-16 21:56:35)
+- 思わず泣いてしまいました。。ほんとにいい曲ですね。頑張ろうって気持ちになります！  -- のあ  (2020-06-23 21:42:08)
+//- この曲が学校の放送とかで流れて欲しい……  -- ルイルイ  (2021-09-21 23:14:24)
+- 👍  -- 名無しさん  (2024-06-17 12:46:19)
+- 良い曲だな。  -- 名無しさん  (2024-06-17 12:46:40)
+#comment()
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)

@@ -1,0 +1,40 @@
+#right(){&furigana(KAITOでんしおんがくこんぴれーしょんあるばむMidnight Blue)&furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm20408272)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){KAITO電子音楽コンピレーションアルバムMidnight Blue}|CENTER:[[KAITO JAZZコンピレーションアルバム　Twilight Blue]]|
+
+|[[スタッフロールP]]|[[カプリコP]]|[[さよ教P]]|[[（*・ω・）わおーんP]]|
+|[[新城P]]|[[halP]]|[[大福P]]|[[ねこしえーたー]]|
+|[[774P]]|[[すけP]]|[[クリスタルP]]||
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|CENTER:2013年3月24日|CENTER:2013年5月|
+|価格|CENTER:￥1,000|CENTER:￥1,500（税別）|
+|サークル|>|CENTER:電子音楽コンピレーションアルバムMidnight Blue|
+
+**CD紹介
+-KAITOを使用した電子音楽のコンピレーションアルバム。
+-VOCALOID PARADISE 関西2で初頒布。
+-とらのあなで委託販売が行われていた。
+
+**曲目
++[[UnderCurrent2]]　/　スタッフロールP
++[[Welcome to the ××××.]]　/　カプリコP
++ロールシャッハ　/　さよ教P
++Spell_to_another_world　/　（*・ω・）わおーんP
++UN-fair　/　新城P
++バックナンバー　/　halP
++I'll save your love　/　大福P
++[[夜明けのノクチルカ]]-dream trance mix-　/　ねこしえーたー
++Beautiful Earth　/　774P
++トーキョー・スカイ・ヒルズ・アンパン　/　すけP
++あの、夏。　/　クリスタルP
+
+**リンク
+-[[特設サイト>>http://midnightbird.soragoto.net/]]
+-[[twitter>>https://twitter.com/color_191970]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/12/07/040030120777.html]]
+
+**コメント
+#comment()

@@ -1,0 +1,37 @@
+#right(){&furigana(ふるーむーんP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://ext.nicovideo.jp/thumb_mylist/28890789" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/28890789">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-アーティスト名は&b(){黒兎b}（くろうさぎb）。
+
+**リンク
+-[[作者ブログ>>http://kurouagib.blog.fc2.com/]]
+-[[ピアプロ>>http://piapro.jp/kuro_usagi_b]]
+
+**曲
+#list_by_tag(ブルームーンP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(ブルームーンPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/nm11997906)|&nicovideo(sm12681746)|
+|&nicovideo(sm12748443)|&nicovideo(sm12950692)|
+|&nicovideo(sm13009497)|&nicovideo(sm13176555)|
+|&nicovideo(sm13390091)|&nicovideo(sm13578085)|
+|&nicovideo(sm13728455)|&nicovideo(sm13883641)|
+|&nicovideo(sm14368698)|&nicovideo(sm14598897)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm14804023)|&nicovideo(sm14992304)|
+|&nicovideo(sm15145316)|&nicovideo(sm15350218)|
+|&nicovideo(sm15492413)|&nicovideo(sm15702975)|
+|&nicovideo(sm16226226)|&nicovideo(sm16436063)|
+|&nicovideo(sm16609479)|&nicovideo(sm16767792)|
+|&nicovideo(sm16983024)|&nicovideo(sm17499004)|
+|&nicovideo(sm17999221)|&nicovideo(sm18377652)|
+|&nicovideo(sm18648461)|&nicovideo(sm18807664)|
+|&nicovideo(sm19730949)|&nicovideo(sm19822073)|
+|&nicovideo(sm21009423)|&nicovideo(sm21046441)|
+|&nicovideo(sm21260804)|&nicovideo(sm22382687)|
+
+**コメント
+#comment()

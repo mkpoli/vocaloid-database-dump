@@ -1,0 +1,30 @@
+#right(){&furigana(てれか)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://ext.nicovideo.jp/thumb_mylist/50269063" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/50269063">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-ノイズミュージックを基調とした音楽を発表している作り手。
+-2014年6月、2ちゃんねるで歌詞を安価で募集して完成した楽曲「[[サッフォーへの賛歌]]」が話題となり、後に殿堂入りを果たす
+-アーティスト名はドラえもんズに登場する「友情”テレカ”」より拝借。
+
+
+**リンク
+-[[個人HP>>http://gjmtpwjadwtjgmkamt.wix.com/tereca]]
+-[[PIAPRO>>http://piapro.jp/tereca006]]
+-[[Twitter>>http://twitter.com/tereca006]]
+
+**曲
+#list_by_tag(テレカ,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(テレカCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm23689271)|&nicovideo(sm23746977)|
+|&nicovideo(sm23789269)|&nicovideo(sm23797373)|
+|&nicovideo(sm24200177)|&nicovideo(sm24530225)|
+|&nicovideo(sm25279799)|&nicovideo(sm28000734)|
+|&nicovideo(sm28208978)|&nicovideo(sm28433513)|
+
+**コメント
+- 予言しておく　彼は２０１７年に大ブレイクする  -- 名無しさん  (2016-04-16 16:53:29)
+#comment()

@@ -1,0 +1,38 @@
+#right(){&furigana(Metragoon)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/33111062" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/33111062">【ニコニコ動画】</a></iframe>)|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/27509022" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/27509022">【ニコニコ動画】</a></iframe>)|
+
+**特徴
+作り手名：『&u(){Metragoon}』(&u(){めとらぐーん})
+-アメリカ在住のボカロP。
+-使用するボーカロイドは初音ミク、ミクV3、鏡音リン、GUMI、ギャラ子、ギャラ子NEO、KAITO V3、MEIKO V3、巡音ルカV3。
+
+**リンク
+-[[YouTube>>https://www.youtube.com/user/metragoon]]
+-[[PIAPRO>>http://piapro.jp/Metragoon]]
+-[[twitter>>https://twitter.com/metragoon]]
+-[[Facebook>>https://www.facebook.com/Metragoon]]
+
+**曲
+#list_by_tag(Metragoon,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(MetragoonCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**オリジナル曲（投稿が新しい順）
+|&nicovideo(http://www.nicovideo.jp/watch/sm18788728)|&nicovideo(http://www.nicovideo.jp/watch/sm23429971)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm19032739)|&nicovideo(http://www.nicovideo.jp/watch/sm23376673)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm24186865)|&nicovideo(http://www.nicovideo.jp/watch/sm24256737)|
+
+**カバー曲（再生数が多い順）
+|&nicovideo(http://www.nicovideo.jp/watch/sm23647547)|&nicovideo(http://www.nicovideo.jp/watch/sm24708903)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm23679248)|&nicovideo(http://www.nicovideo.jp/watch/sm21895853)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm23620531)|&nicovideo(http://www.nicovideo.jp/watch/sm23882380)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm22715642)|&nicovideo(http://www.nicovideo.jp/watch/sm21125960)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm21997152)|&nicovideo(http://www.nicovideo.jp/watch/sm23547818)|
+
+**コメント
+#comment()

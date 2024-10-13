@@ -1,0 +1,63 @@
+#right(){&furigana(NorthWind)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm28102405)|
+作詞：[[Ryo(ActLeS)]]
+作曲：[[RYO(Fluegel)]]
+編曲：[[RYO(Fluegel)]]
+唄：[[初音ミク]]
+
+**曲紹介
+曲名：『&u(){North Wind}』(&u(){のーす　うぃんど})
+-音楽ユニットFluegel（フリューゲル）のボーカロイド曲第3弾。
+
+**歌詞
+（動画より書き起こし）
+
+One of the memory in which it has flowe
+Tears that you shed that had been head down
+tears that you had shed
+
+And because to me l had heard
+Your feelings l know all
+Tears that you shed that had been head down
+And because to me l had heard
+
+あぁなぜなんだろう
+叶わない想いは
+もう忘れようと望むけど
+気持ちは消し去れない
+
+胸が　張り裂けそう
+北風が　僕の涙そっと拭ってゆく
+叶わない想い胸を刺す
+枯れ木に囁く叶わぬ願い
+
+あぁなぜなんだろう
+諦めようとしていたのにあなたが
+頭から離れないのはなぜなの？
+Ah...
+
+自分をなくしてまで・・・
+残ったこの気持ちは
+絶たれてしまった喪失感
+北風（かぜ）が僕の背中を
+
+全て失った　何もない
+行き場のない思い埋めるのは
+多くはいらないただ一つ
+居場所をください
+ただ　感じてみたい
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+**コメント
+#comment()
+
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)

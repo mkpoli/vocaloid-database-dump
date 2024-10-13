@@ -1,0 +1,25 @@
+#right(){&furigana(なかとP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/53027195" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/53027195">【ニコニコ動画】</a></iframe>)
+
+**特徴
+作り手名：『&u(){長門P}』(&u(){ながとP})
+-ハンドルネームは「長門恵」。
+-P名の由来はそのまま、自身の本名からきている。
+-自身創作曲は「[[だれ？]]」が初である。
+-歌ってみたとして「ぼくらのレットイットビー」を投稿しニコニコ動画デビュー。
+-歌ってみたでは「刹那い声」というタグがつくほどの切な良い声の持ち主。
+
+**リンク
+-[[twitter>>http://twitter.com/tsukaretanemui]]
+
+**曲
+#list_by_tag(長門P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(長門PCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm27146302)|
+
+**コメント
+#comment()

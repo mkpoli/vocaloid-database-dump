@@ -1,0 +1,45 @@
+#right(){&furigana(おふとぉんこーてぃんくしすてむ)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo(sm23661371)
+作詞：[[あえる]]
+作曲：[[あえる]]
+編曲：[[あえる]]
+唄：[[東北ずん子]]
+
+**曲紹介
+曲名：『&u(){オフトォンコーティングシステム}』
+-VOCALOID3東北ずん子体験版によるオフトゥンの歌。
+-イラストは お茶氏 が手掛ける。
+
+**歌詞
+//（[[引用元のサイト>>引用元のURL]]より転載）
+often coating system
+often coating system
+often coating system
+often coating system
+全米が絶賛システム
+斬新な封印システム
+ふかふかヒーリングシステム
+鉄壁の防御システム
+お子様も安心システム（｡・ω・｡）
+絶対防衛システム
+国民が納得システム
+画期的保温システム
+
+often coating system
+often coating system
+きみのいない布団で眠る
+きみのいない布団に隠れる
+きみの残り香を探す
+きみの温もりを探す
+often coating system
+きみがいる夢の世界へ今
+often coating system
+きみとぼくをつなぐシステム
+
+
+**コメント
+#comment()

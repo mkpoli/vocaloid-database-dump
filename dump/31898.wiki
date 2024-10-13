@@ -1,0 +1,38 @@
+#right(){&furigana(つきのしらべ2) &furigana()【登録タグ:&tags() 】}
+#ref(http://www.vocalomakets.com/yukari_CD/006/image/jacket.png,width=300,height=300)
+
+
+&nicovideo(http://www.nicovideo.jp/watch/sm26066040)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[月の調 Ⅰ -ツキノシラベ-]]|CENTER:&bold(){月の調 Ⅱ -ツキノシラベ-}|CENTER:[[月の調 Ⅲ -ツキノシラベ-]]|
+
+|&bold(){[[Bumpyうるし]]}|[[くらげP]]|[[Seven Strings]]|[[こてんぱんだ]]|[[ちょむP]]|楽乃由重|[[キョーヘイ]]|[[ツナマヨP]]|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|CENTER:2015年4月25日|CENTER:2015年4月下旬|
+|価格|CENTER:￥500（税込）|CENTER:￥746（税抜）|
+|サークル|>|CENTER:マケッツ団|
+
+**CD紹介
+-「[[月の詩>月の詩 Ⅰ -ツキノウタ-]]」シリーズとは違う、新たなコンセプトのミニコンピレーションアルバム。その第2弾。
+-新たな歌声、結月ゆかり穏・凛を迎え、7名のボカロPが奏でる7つの調べ。
+-ジャケットイラストを チカシゲ氏 が、ロゴデザインを 渡辺浩彰氏 が、マスタリングを [[かごめP]] が手掛ける。
+-THE VOC@LOiD 超 M@STER 31（超ボーマス4）にてリリース。
+-書店委託もあり。
+
+**曲目
++[[caged girl]] -ver. Lin-　/　Bumpyうるし	
++[[リトルガール・アニマージュ]]　/　くらげP
++[[たそがれあいす]]　/　Seven Strings
++[[きつねのうた]]　/　こてんぱんだ	
++月ノ籠　/　ちょむP
++[[Wasteland Harmonia]]　/　音坂キョーヘイ
++[[Starport]]　/　ツナマヨP
+
+**リンク
+-[[特設ページ>>http://www.vocalomakets.com/yukari_CD/006/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/29/87/040030298781.html]]
+
+**コメント
+#comment

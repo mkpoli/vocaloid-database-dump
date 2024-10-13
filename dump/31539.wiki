@@ -1,0 +1,55 @@
+#right(){&furigana(WORLDSCONNECT)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm25726480)|
+作詞：[[ねこめP]]
+作曲：[[ねこめP]]
+編曲：[[ねこめP]]
+PV：[[陽希]]
+MIX・マスタリング：[[アカシP]]
+唄：[[IA]]
+
+**曲紹介
+>&bold(){世界を繋いで。}
+曲名：『&u(){WORLDS CONNECT}』(&u(){わーるず　こねくと})
+-ねこめP のボカロデビュー作。
+
+**歌詞
+
+I connect the world 　空を超えて　響け
+今を思う　歌を歌え
+Share music 　キミの言葉　気持ち
+ボクの手のひらで　さあ繋ごう
+resound over the sky
+sing a song what you are feeling
+世界を繋いで。
+
+歪んだ感情も
+今だけ忘れて
+
+I connect the world 　月を照らして　届いて
+今を生きる　今　信じて
+Share music 　キミの笑顔　見せて
+ボクの手のひらで　さあ繋ごう
+
+I connect the world 　空を超えて　響け
+今を思う　歌を歌え
+Share music 　キミの言葉　気持ち
+ボクの手のひらで　さあ繋ごう
+resound over the sky
+sing a song what you are feeling
+世界を繋いで。
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+**コメント
+- もっと評価されてくれー!!!(≧Δ≦)←  -- 安東  (2016-03-03 18:58:47)
+#comment()
+
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)

@@ -1,0 +1,37 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm16689706)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Time is Honey}|CENTER:-|
+
+|&bold(){[[ソレナンテP]]}|[[あつぞうくん]]|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2012年2月5日|CENTER:|
+|価格|CENTER:￥1,000|CENTER:￥1,400（税別）|
+|サークル|>|CENTER:ATZ Records|
+
+**CD紹介
+-ソレナンテPことときわかねなり氏のの1stアルバム。
+-Tr.7のギターで[[スターライトP]]が、Tr.10のアレンジで[[あつぞうくん]]が参加。
+-ジャケットイラストを[[有識]]氏が担当している。
+-THE VOC@LOiD M@STER 19（ボーマス19）にて頒布。委託販売も行われていた。
+
+**曲目
++うたおう
++[[おしえて！だぁりん]]
++[[デジタル・ビットレート]]
++二律背反の混沌理論（バタフライ・エフェクト）
++[[ミルキーウェイ・レクイエム]]
++シーサイド・サマーガール
++性的コラボレーション
++恋する♪ちきんはぁと
++[[おやすみララバイ]]
++おしえて！だぁりん atz mix
+
+**リンク
+-[[ATZ Records>>http://atzrecords.com/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/02/22/040030022292.html]]
+
+**コメント
+#comment()

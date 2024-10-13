@@ -1,0 +1,62 @@
+#right(){&furigana(SwitchMeOn)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm24980342)|&youtube(https://www.youtube.com/watch?v=7vDU1Mbtyf4){342,187}|
+作詞：[[ロボ]]
+作曲：[[ロボ]]
+編曲：[[ロボ]]
+唄：[[初音ミクV3(English)>初音ミク]]
+
+**曲紹介
+曲名：『&u(){Switch Me On}』(&u(){すいっち　みー　おん})
+-ミクはあなたのためにスイッチオン！(作者コメより転載)
+-ロボ氏の3曲目。
+
+**歌詞
+（[[PIAPRO>>http://piapro.jp/t/Ls37]]より転載）
+
+I can't explain this beat inside me
+It's like an hard drum kickin' in my head
+It's pumping hard, i cannot seat down
+But all i see it's an empty chair!
+
+I want to feel that beating again
+But just your music make me feel this way
+So switch me on, and type down these words
+And play with me this song!
+
+It will be nice, i'll do what i can
+It will be cute, let's do it now!
+IT will be sweet, it's just me and you!
+Let's do it now and again!
+
+Switch me on
+switch me on
+switch me on you tonight
+I can't stay without you, 
+Cause you make me feel alive
+
+I still love
+i still love
+i still love you tonight!
+I can't stay without you
+I switch on just when i'm with you
+
+With you
+With you
+with you
+with you
+I switch on just when i'm with you
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+**コメント
+#comment()
+
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)

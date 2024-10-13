@@ -1,0 +1,34 @@
+#right(){&furigana(ぽすとでぃすとぴあ)&furigana()【登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186130531.jpg,x=300,y=300)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[YUKARisky]]|CENTER:&bold(){ポスト・ディストピア}|CENTER:[[White Memories>White Memories/CD]]|
+
+|&bold(){[[ちょむP]]}|[[海兎]]|たると|真雪|おがた|
+
+発売：2014年8月17日
+価格：￥
+流通：即売
+サークル：ちょむ工房
+
+**CD紹介
+-ちょむPの16作目となるボーカロイドCD。
+-VOCALOID結月ゆかりが歌うオルタナティブ・ロック。
+-ジャケットイラストはno10氏。
+-コミックマーケット86（C86）で頒布。
+
+**曲目
++バックドア
++負け犬Rockin'Blues
++紅華のコンクエスト
++Escaper
++花火
++エンドロール
++～Bonus track
+
+**リンク
+-[[作者サイト>>http://chomstudio.com/]]
+
+**コメント
+#comment()

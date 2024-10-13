@@ -1,0 +1,66 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+
+&ref(http://karent.jp/npdca/1671_20141225172129_0280_0280.jpg)
+
+#image(http://scx-ct.net/pict/banner/no_banner01.jpg,http://scx-ct.net/sp/neworiginal/,title=Sound Collection - New Original,blank)　　
+
+&nicovideo(http://www.nicovideo.jp/watch/sm25186590)
+
+|CENTER:前作|CENTER:今作|CENTER:次作|
+|CENTER:[[Tonality]]|CENTER:&bold(){Sound Collection - New Original}&br()[[Sound Collection - Another Original]]|CENTER:[[Reverberations 2]]|
+
+|&bold(){[[Clean Tears]]}|T-ism|海兎|留桜良姫|
+
+|流通|CENTER:即売|CENTER:委託|CENTER:配信|
+|発売|CENTER:2014年12月30日||CENTER:2015年1月19日|
+|価格|CENTER:￥1,000（税込）|CENTER:￥1,200（税別）|CENTER:￥1,800 / 1曲￥150|
+|サークル|>|CENTER:S.C.X||
+
+**CD紹介
+-過去発表してきた初音ミク楽曲からの選りすぐりで構成されたベストアルバム。
+-オリジナル曲の良さをそのままに、新たなアレンジを加えて再構築した全14曲を収録。
+-ジャケットイラストは k2pudding氏 が手掛ける。
+-C87（コミックマーケット87）にてリリース。
+-各同人ショップで委託販売が行われている。
+-KARENTレーベルよりダウンロード販売が行われている。CD版とは収録曲が一部異なる。
+
+**曲目
+***CD版
++[[Dragoon]]
++[[Sonorous]]
++[[Solesta!]]
++[[Pousse Cafe>Pusse cafe]]
++Sting
++月想夜
++[[It's me, It's you]]
++[[風の花]]
++[[To be style]]
++[[Tears of palm]]
++[[Inverse Relation]] -Radio Mix-
++[[虹>虹/Clean Tears]]
++[[Love it!]]
+
+***配信版
++Dragoon (New Original Version) (feat. 初音ミク)
++Sonorous (New Original Version) (feat. 初音ミク)
++Solesta! (New Original Version) (feat. 初音ミク)
++Pousse Cafe (New Original Version) (feat. 初音ミク)
++Sting (New Original Version) (feat. 初音ミク)
++月想夜 (New Original Version) (feat. 初音ミク)
++It's me, it's you (New Original Version) (feat. 初音ミク)
++風の花 (New Original Version) (feat. 初音ミク)
++To be style (New Original Version) (feat. 初音ミク)
++Tears of Palm (New Original Version) (feat. 初音ミク)
++[[水鏡の庭]] (New Original Version) (feat. 初音ミク)
++Inverse Relation -Radio Mix (New Original Version) (feat. 初音ミク)
++虹 (New Original Version) (feat. 初音ミク)
++Love it! (New Original Version) (feat. 初音ミク)
+
+**リンク
+-[[サークルサイト>>http://scx-ct.net/]]
+-[[特設ページ>>http://scx-ct.net/sp/neworiginal/]]
+-[[KARENT：「Sound Collection - New Original」>>http://karent.jp/album/1671]]
+-[[iTune Store>>https://itunes.apple.com/jp/album/sound-collection-new-original/id956732078]]
+
+**コメント
+#comment()

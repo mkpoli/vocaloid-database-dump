@@ -1,0 +1,33 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm24836218)
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[liberatescape]]|CENTER:&bold(){sukui}|CENTER:[[終わる夏に浮かぶ]]|
+
+|&bold(){[[ロリP]]}|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|CENTER:2014年11月15日||
+|価格|CENTER:￥500（税込）|CENTER:￥746（税別）|
+|サークル|CENTER:ロリPのサークル|CENTER:sukui records|
+
+**CD紹介
+-ロリPの1stミニアルバム。
+-書き下ろしの新曲を6曲収録。
+-THE VOC@LOiD M@STER 30（ボーマス30）にてリリース。
+-とらのあなで委託販売が行われていた。
+
+**曲目
++白昼夢を彼女に
++shallow algorithm 干渉
++blanket image
++[[sukui]]
++積み木の色
++ichizu
+
+**リンク
+-[[Twitter>>http://twitter.com/loli_p_thely]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/26/08/040030260837.html]]
+
+**コメント
+- 欲しい！！！  -- 名無しさん  (2015-01-07 15:30:58)
+#comment()

@@ -1,0 +1,99 @@
+#right(){&furigana()&furigana()【登録タグ:&tags()】}
+&nicovideo(http://www.nicovideo.jp/watch/sm25553006)
+作詞：[[いずみ]]
+作曲：[[マエストロP]]
+編曲：[[マエストロP]]
+唄：KAITO V3（STRAIGHT）・MEIKO V3（WHISPER・DARK）
+
+**曲紹介
+>幻想の砂漠を越えた詩人と、赤い砂の詩
+-KAITOお誕生会2015に投稿された楽曲。
+-KAITO民族調曲プロジェクト第4弾で、これがマエストロPの引退曲となる。
+-イラストをアケイ氏、のくはし氏、もうり氏が手掛ける。
+-プロットをマエストロP、Robert Guardner氏、N,Matsuzawa氏が担当している。
+
+**歌詞
+//（[[引用元のサイト>>引用元のURL]]より転載）
+&color(dimgray){END OF DESERTO INTERMINATIS FANTASY}
+&color(dimgray){幻想の砂漠の果て}
+&color(dimgray){ET FACTUM EST, APPARUIT SUPER PUL VEREM}
+&color(dimgray){砂塵の向こうから姿を現したのは}
+&color(dimgray){QUOD SI VIVERE IN TRISTITIA DOMINA PANNIS}
+&color(dimgray){悲しみに包まれた姫君の住まう}
+&color(dimgray){HARENA ERAT REGNUM}
+&color(dimgray){砂の王国だった}
+&color(dimgray){PER MULTAM EXPERIENTIAM BELLUM, ET VERBERATO PRINCEPS}
+&color(dimgray){幾度のも戦争の後、近しい者を失った姫は}
+&color(dimgray){SED SOLA TRISTITIA, CURA FALSO PACEM}
+&color(dimgray){悲しみに支配され、偽りの平和を憂い続ける}
+
+&color(dimgray){TRISTITIA DOMINA}
+&color(dimgray){悲しみの姫君}
+&color(dimgray){DICUNT EI SO, IM 'PASSUS A COR}
+&color(dimgray){姫を憂う民は彼女をそう呼ぶ}
+&color(dimgray){SOLUS, CLAUDITUR MENS IPSA}
+&color(dimgray){独り、心を閉ざした彼女は}
+&color(dimgray){ET COR HOMINIS AD REMOVENDUM TENEBRAS}
+&color(dimgray){心の暗闇を癒す者を}
+&color(dimgray){QUODQUE SPECTATE AD}
+&color(dimgray){ただ、待ち望む}
+
+&color(dimgray){VOLUNTAS ENIM ET FUTURA EMENDATIONE}
+&color(dimgray){変革の意思と未来}
+&color(dimgray){ET MUTARE INTENTIONEM SUAM IN POSTERUM}
+&color(dimgray){未来を変えるのは自ら意志}
+&color(dimgray){CUM COGITARE POETA RUMINANDUM}
+&color(dimgray){詩人は思考を巡らすと}
+&color(dimgray){EGO APERIRE OSTIUM,}
+&color(dimgray){扉に手を掛けた}
+
+&color(dimgray){-"IN PURO SAECULO}
+&color(dimgray){「- 無垢なる瞳に世界の色}
+&color(dimgray){ET MUNDUS TRANSIT IN MAP}
+&color(dimgray){白紙の地図に世界を写し}
+&color(dimgray){AD INDICEM NOTATI.}
+&color(dimgray){道標を印せ」}
+
+&bold(){CHAPTER.1　POET CITHARAE}
+&color(DodgerBlue){城壁に刻まれた深い傷跡}
+&color(DodgerBlue){別離の悲しみと　怒り燃える大地の記憶}
+
+&color(Crimson){偽りの平和に浸る人々の生活}　&color(DodgerBlue){賑わう人の流れ}
+&color(Crimson){遠くから眺めることしか出来ずに背を向け}　&color(DodgerBlue){言葉交わす}
+&color(DodgerBlue){水の花は咲き誇り}　&color(Crimson){一人心憂いて}　&color(DodgerBlue){異国の旅人集う}
+
+&color(DodgerBlue){散りばめられた光通す祈りの家}
+&color(DodgerBlue){遠くまで運ぶ路　敷き詰められた石畳}
+&color(DodgerBlue){車輪を響かせ　歯車　時間を刻んで}
+
+&color(Crimson){砂は流れ　人々は悲しみに俯く}
+&color(Crimson){紅い声は　涙となりて　乾いた大地に消えゆく}
+&color(Crimson){悲しみの花を敷き詰めて　人は皆眠りつく}
+
+&bold(){CHAPTER.2　SIGNA VIGILIAM NOCTIS}
+&color(DodgerBlue){巡る歴史の記録　星のきせき}　&color(Crimson){声を殺し願う耀き}
+&color(DodgerBlue){連なる螺旋の渦　静寂の夜}　&color(Crimson){空を見上げて祈り続ける}
+&color(DodgerBlue){火を囲んで踊る旋律}　&color(Crimson){嘆く暗闇の日　すくいあげ}
+&color(DodgerBlue){見知らぬ土地を巡る}　&color(Crimson){静寂の星空に流し}
+&color(DodgerBlue){旅は続く}　&color(Crimson){この夜を繰り返す}
+
+&bold(){CHAPTER.3　POET}
+&color(DodgerBlue){弾く糸の音に　重なる声}
+&color(DodgerBlue){祈りを捧げ　歌を紡いで}
+&color(DodgerBlue){未来を待ち望んで　夢の扉　開ける}
+
+&color(DodgerBlue){大地に延びる壁}　&color(Crimson){檻のような高い壁に阻まれて}
+&color(DodgerBlue){人は町築く}　&color(Crimson){身動きさえとれない心を抱いて}
+&color(DodgerBlue){名声は遠く彼方まで聞こえて　鳥は人を見下ろし}　&color(Crimson){未来変わる時を}
+&color(Crimson){一人待ち望んでいる}　&color(DodgerBlue){僕は歴史を語る}
+&color(Crimson){心の奥に残された悲しみを飲み込んで}　&color(DodgerBlue){光　導いて}　&color(Crimson){暗闇に決意を固める}
+
+&color(DodgerBlue){大地に残る影　意志は道開く}
+&color(DodgerBlue){歌は遠く彼方まで届いて}
+&color(DodgerBlue){果てなき大地に　超える海原　世界を塗り変える}
+&color(Crimson){静かに響いてく　祈りの言葉と　平和にと　願う未来を}
+
+
+**コメント
+- このシリーズ好き  -- 名無しさん  (2015-02-14 00:11:22)
+#comment()

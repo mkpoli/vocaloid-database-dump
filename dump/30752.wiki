@@ -1,0 +1,38 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://f1.bcbits.com/img/a2115049800_2.jpg,height=180,width=180)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Ofeq]]|CENTER:&bold(){Fix}|CENTER:[[We are friends,aren't We?]]|
+
+|&bold(){[[宮沢もよよ]]}|&bold(){[[村上くるる]]}|[[シャルロ]]|[[y0c1e]]|
+
+|流通|CENTER:即売|CENTER:配信|
+|発売|2012年4月30日|2012年12月21日|
+|価格|CENTER:￥1,000|CENTER:￥800|
+|サークル|>|CENTER:QUADROPHENIA|
+
+**CD紹介
+-4人組クリエイティブユニット QUADROPHENIA の2ndアルバム。
+-ゲストで シャルロ氏、y0c1e氏 が参加。
+-ジャケットイラストは あさぎり氏 が手掛ける。
+-2012年4月30日開催の M3 にて頒布。
+-2012年12月21日より BandCamp にてデータ配信が行われている。
+
+**曲目
++[[We are friends,aren't We?]] / 宮沢もよよ
++Purple Film Dreamland / 宮沢もよよ
++Melancholia / 宮沢もよよ
++[[鼓膜]] / 宮沢もよよ
++Sinewave vs Moyoyo / 宮沢もよよ
++耳鳴り / シャルロ
++delirium / y0c1e
++Amnesia(Stage-Alpha) / 村上くるる
++Amnesia(Stage-Delta) / 村上くるる
++Amnesia(REM) / 村上くるる
+
+**リンク
+-[[特設サイト>>http://quadrophenia.cc/works/fix/]]
+-[[BandCamp>>http://quadrophenia.bandcamp.com/album/fix]]
+
+**コメント
+#comment()

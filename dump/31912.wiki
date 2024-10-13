@@ -1,0 +1,31 @@
+#right(){&furigana(ましろやみ)&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1705_20150331180319_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[ツギハギスタッカート]]|CENTER:&bold(){真白闇}|CENTER:[[MIKU/TOA>MIKU／TOA]]|
+
+|&bold(){[[とあ]]}|
+
+発売：2015年4月22日
+価格：￥150
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：nim
+
+**CD紹介
+-とあ氏の配信シングル。
+-雑誌「[[MIKU-Pack music&artworks feat.初音ミク>>http://miku-pack.jp/]]」11号付録CDにて先行収録された書き下ろし楽曲。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++真白闇 （feat. 初音ミク）
+
+**リンク
+-[[KARENT：「真白闇」>>http://karent.jp/album/1705]]
+-[[KARENT：「MIKU-Pack」特集ページ>>http://karent.jp/special/mikupack14]]
+-[[iTunes Store>>http://itunes.apple.com/jp/album/pure-white-darkness-single/id983921937]]
+
+**コメント
+- おおおおおおおおおおおっ！！  -- 良太  (2015-04-22 19:04:34)
+//- 柔らかな光さす部屋  -- 名無しさん  (2017-02-01 16:31:52)
+#comment()

@@ -1,0 +1,33 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&youtube(https://www.youtube.com/watch?v=EcZ4cztD04c){336,189}
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[KARENT presents 夏色シンガソン feat. 初音ミク]]|CENTER:&bold(){KARENT presents スカイライトシアター feat. 初音ミク}|CENTER:[[KARENT presents 銀雪のアリア feat. 初音ミク]]|
+
+|[[kaoling]]|[[古墳P]]|[[骨盤P]]|[[keeno]]|[[kz]]|[[ピノキオピー]]|[[あかやかP]]|
+
+発売：2013年11月15日
+価格：￥1,500（税込）
+流通：限定販売
+レーベル：KARENT
+
+**CD紹介
+>&bold(){―今宵、音と光が世界を塗り変える。}
+-360°の巨大ドームシアターに流れる初音ミク楽曲を収めた、KARENTレーベルのコンセプトコンピレーションCD第6弾。
+-TRANS CITYイベントテーマソング「Asterism」を含む限定生産アルバム。
+
+**曲目
++[[神の名前に堕ちる者]] / kaoling feat. 初音ミク 
++Asterism / 古墳P feat. 初音ミク ＜「別府トランスシティ」イベントテーマソング＞ 
++[[能く在る輪廻と猫の噺]] / 骨盤P feat. 初音ミク 
++[[glow>glow/keeno]] / keeno feat. 初音ミク 
++[[Light Song]] / livetune feat. 初音ミク 
++[[からっぽのまにまに]] / ピノキオピー feat. 初音ミク 
++sunrise / akayaka feat. 初音ミク
+
+**リンク
+-[[KARENTレーベル CD紹介ページ>>http://karent.jp/cd/6]]
+-[[別府 TRANS CITY FEAT. HATSUNE MIKU公式サイト>>http://www.transcity.jp/]]
+
+**コメント
+#comment()
