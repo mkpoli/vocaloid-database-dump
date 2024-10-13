@@ -1,0 +1,31 @@
+#right(){&furigana(おやすみのまえに)&furigana()【登録タグ:&tags() 】}
+#ref(http://karent.jp/npdca/1541_20140612162148_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[["ARIGATO" from me to you]]|CENTER:&bold(){おやすみの前に(Things We Said Today)}|CENTER:[[まだ見ぬキミに出逢うために (sing the song for you) ／最上級の「好き」をこめて！]]|
+
+|&bold(){[[ムスカP]]}|
+
+発売：2014年7月9日
+価格：￥300 / 1曲￥150
+流通：配信
+サークル：KARENT
+ジャケットイラスト：[[あぐP]]
+
+|&bold(){[[iTunes Storeで購入する>>https://itunes.apple.com/jp/album/things-we-said-today-single/id895649030]]}|
+
+**CD紹介
+-ムスカP の配信CD。
+-KARENTレーベルよりダウンロード販売が行われている。「Good morning, Good night. 夜 ver.」特集で配信された作品の1つ。
+
+**曲目
++おやすみの前に(Things We Said Today) （feat. 鏡音レン）
++おやすみの前に(Off VOCALOID)
+
+**リンク
+-[[KARENT：「おやすみの前に(Things We Said Today)」>>http://karent.jp/album/1541]]
+-[[KARENT：「Good morning, Good night. 夜 ver.」特集ページ>>http://karent.jp/special/goodnight14]]
+-[[作者ホームページ>>http://tsubu.ath.cx/~komso/]]
+
+**コメント
+#comment()

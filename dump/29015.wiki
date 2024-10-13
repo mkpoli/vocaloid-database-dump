@@ -1,0 +1,40 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+//&ref()
+
+|&nicovideo(http://www.nicovideo.jp/watch/sm23343932)|
+
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Sense of Sight}|CENTER:-|
+
+|&bold(){[[kouki]]}|
+
+|流通|CENTER:即売|
+|発売|CENTER:2014年4月26日・27日|
+|価格|CENTER:￥1,000（税込）|
+|サークル|CENTER:INDICE（1日目）&br()ガスコンロ（2日目）|
+
+**CD紹介
+-kouki氏 待望の 1st album 。
+-これまでリリースした既存曲からの選りすぐりに新曲を加えた全11曲を収録。
+-ジャケットイラストを Mille氏 が、デザインを mujun氏 が手掛ける。
+-THE VOC@LOiD 超M@STER 28（超ボーマス3）にてリリース。
+
+**曲目
++Standby
++Askwords
++[[Breakthrough>Breakthrough/kouki]]
++[[Confliction]]
++[[Last Sunset]]
++[[フリージアの記憶]]
++[[レインシネマ]]
++[[Overflow>Overflow/kouki]]
++Teardrop
++サイドステップ -Another Step Mix-
++（BONUS TRACK）Last Sunset -House Remix-
+
+**リンク
+-[[Twitter>>http://twitter.com/kk_blitz]]
+
+**コメント
+#comment()

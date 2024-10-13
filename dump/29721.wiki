@@ -1,0 +1,34 @@
+#right(){&furigana(ちへいせん)&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1530_20140605220603_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Trajectory>Trajectory/CD]]|CENTER:&bold(){地平線／All New Days}|CENTER:-|
+
+|&bold(){[[Tranceformer Yuno]]}|
+
+発売：2014年6月30日
+価格：￥600
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：らつく
+
+|&bold(){[[iTunes Storeで購入する>>https://itunes.apple.com/jp/album/horizon-all-new-days/id892267625]]}|
+
+**CD紹介
+-Tranceformer Yuno氏の配信EP。
+-KARENTレーベルの「Good morning, Good night. 朝ver.」特集で配信された作品の1つ。
+-元気な気持ちの朝、穏やかな気持ちの朝、ちょっと切ない気持ちの朝...&br()あなたの「朝」により添えたら嬉しいです。
+
+**曲目
++[[地平線>地平線/Tranceformer Yuno]] (2014 rework) （feat. 初音ミク）
++[[All New Days]] (Radio Edit) （feat. 初音ミク）
++地平線 （カラオケ） （feat. 初音ミク）
++All New Days （カラオケ） （feat. 初音ミク）
++All New Days (2014 Rework) （feat. 初音ミク）
+
+**リンク
+-[[KARENT：「地平線／All New Days」>>http://karent.jp/album/1530]]
+-[[KARENT：「Good morning, Good night. 朝ver.」特集ページ>>http://karent.jp/special/goodmorning14]]
+
+**コメント
+#comment()

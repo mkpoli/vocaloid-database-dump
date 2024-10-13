@@ -1,0 +1,42 @@
+#right(){&furigana(すいろ)&furigana()【登録タグ:&tags() 】}
+
+&ref(https://booth.pximg.net/0b02ce6d-fe38-44e6-ab0c-1c1164084f72/i/46319/45c2a9bd-fb9b-4e9d-856a-0b806c65f441_base_resized.jpg,x=300,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm23879676)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[水鏡の声]]|CENTER:&bold(){水路}|CENTER:-|
+
+|&bold(){[[銀鱗P]]}|
+
+発売：2014年6月29日
+価格：￥1,000
+流通：即売
+サークル：ふたつあめ
+
+**CD紹介
+-銀鱗Pのミニアルバム。
+-銀鱗Pの楽曲イメージイラスト集『水音』とセットの『水路と水音』として頒布される。
+-VOCALOID PARADISE 番外編 3 KAITO PARADISE 2（ボーパラ番外編3）にて頒布。
+-現在はBOOTHにて通信販売が行われている。
+
+**曲目
++目次
++inst - 雨
++雨売り
++inst - 海
++船を沈める歌姫
++海辺の絵描き
++＃2
++inst - 星
++[[2番航路]]
+
+**リンク
+-[[ピアプロ>>http://piapro.jp/irodori_963]]
+-[[Twitter>>http://twitter.com/croqui9]]
+-[[BOOTH>>https://booth.pm/ja/items/46319]]
+
+**コメント
+- 買った！！  -- 名無しさん  (2014-07-02 21:45:44)
+- 好みの曲が多くて、気に入りました！買って良かったです  -- 名無しさん  (2014-12-21 15:11:55)
+#comment()

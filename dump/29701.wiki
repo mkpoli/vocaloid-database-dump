@@ -1,0 +1,43 @@
+#right(){&furigana(みかがみのこえ)&furigana()【登録タグ:&tags() 】}
+
+&ref(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRLsQGLKftQEt-QJ9ToG1LTR4b6NtJ5m5ak-zFsyRN381qtoUqT&usqp=CAU,x=300,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm21126698)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[水底の頁-欠片-]]|CENTER:&bold(){水鏡の声}|CENTER:[[水路]]|
+
+|&bold(){[[銀鱗P]]}|
+
+|CENTER:流通|CENTER:即売|CENTER:配信|
+|CENTER:発売|CENTER:2013年6月23日||
+|CENTER:価格|CENTER:￥1,000|CENTER:￥900（税込）|
+|CENTER:サークル|CENTER:鶏ガラ塩アイス||
+
+**CD紹介
+-銀鱗Pのアルバム。
+-VOCALOID PARADISE 番外編 2 KAITO PARADISE（ボーパラ番外編2）にて頒布。
+-BOOTHにてダウンロード販売が行われている。
+
+**曲目
++[[氷樹の森]] feat. Lily
++[[水尾]] feat. KAITO
++[[雨音>雨音/銀鱗P]] feat. MEIKO
++夜永 feat. KAITO
++[[深海月]] feat. KAITO
++[[銀鱗]] feat. KAITO
++[[水底の森にて]] feat. MEIKO・KAITO
++[[貝殻の涙]] feat. KAITO
++[[水面うつし]] feat. KAITO
++[[万華響]] feat. MEIKO
++小さな僕の箱 feat. 鏡音レン
++水面への足音 feat. 猫村いろは
+
+**リンク
+-[[ピアプロ>>http://piapro.jp/irodori_963]]
+-[[Twitter>>http://twitter.com/croqui9]]
+-[[BOOTH>>https://drops-ii.booth.pm/items/53244]]
+
+**コメント
+- これすごく良かったです。  -- 名無しさん  (2014-07-02 21:46:17)
+#comment()

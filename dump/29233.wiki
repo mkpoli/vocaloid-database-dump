@@ -1,0 +1,42 @@
+#right(){&furigana(あいしてくれなきゃしんじゃうよ)&furigana()【登録タグ:&tags() 】}
+//#ref(http://artical-riddim.net/img/usr/m/140316102951937689.jpg)
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186139553.jpg,x=300,y=300)
+
+|&nicovideo(http://www.nicovideo.jp/watch/sm23346628)|&youtube(https://www.youtube.com/watch?v=DJMurcP0ISY){336,189}|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[どえす]]|CENTER:&bold(){愛してくれなきゃしんじゃうよ？}|CENTER:[[デウス・エクス・マキナ>デウス・エクス・マキナ/CD]]|
+
+|&bold(){[[ぶりるP]]}|かをる★|
+
+|流通|CENTER:即売|CENTER:通販|
+|発売|CENTER:2014年4月26日|CENTER:2014年4月30日|
+|価格|CENTER:￥1,000|CENTER:￥1,000（+送料）|
+|サークル|>|CENTER:蜜柑派最後の砦|
+
+**CD紹介
+-ぶりるP の 5thアルバム。
+-ジャケットイラストを 栗栖 歳氏 が、デザインを korumi氏 が手掛ける。
+-THE VOC@LOiD 超 M@STER 28（超ボーマス28）にて頒布。
+-自サイトにて通信販売が行われている。
+
+**曲目
++Deus Ex Machina
++[[最終鬼畜少女]]
++[[どうしてこうなった>どうしてこうなった/ぶりるP]]
++[[コワレ者]]
++[[便所飯]]
++[[デウス・エクス・マキナ]]
++[[秘密警察]] -Confidential ver.-
++[[深夜2時でも私のためにアイス買ってきてよね]]
+
+**リンク
+-[[作者サイト>>http://artical-riddim.net/]]
+
+**コメント
+- おお・・・欲しい！！！  -- 名無しさん  (2014-05-10 11:36:34)
+- いいねー(TT)(^з^)-☆*  -- とも☆  (2014-06-08 17:35:21)
+- ふ――――  -- 名無しさん  (2014-08-11 12:26:47)
+- 欲しいなあ・・・・  -- 名無しさん  (2016-01-05 23:55:17)
+#comment()

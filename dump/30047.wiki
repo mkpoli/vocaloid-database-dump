@@ -1,0 +1,50 @@
+#right(){&furigana(あふたぬーんくらひてぃー)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+//#amazon(B00MLZ8MBG)
+&ref(https://www.suruga-ya.jp/database/pics_light/game/186127552.jpg,x=300,y=300)
+
+|&nicovideo(sm24144165)|&youtube(https://www.youtube.com/watch?v=iNLiKzrsZis){342,187}|
+|&nicovideo(sm38182669)|&youtube(https://www.youtube.com/watch?v=_4uSlqNNIcs){342,187}|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Psȳchē -プシケ-]]|CENTER:&bold(){アフタヌーン・グラビティー}|CENTER:[[PLANETARY PLATE]]|
+
+|&bold(){[[10日P]]}|
+
+|流通|CENTER:即売|CENTER:委託|CENTER:配信|
+|発売|CENTER:2014年8月17日||CENTER:2014年8月27日|
+|価格|CENTER:￥1,000（税込）|CENTER:￥1,400（税別）|CENTER:￥900|
+|サークル|CENTER:s10rw|CENTER:monaca:factory||
+
+**CD紹介
+CD名：『&u(){アフタヌーン・グラビティー}』
+-前作から約2年半ぶりとなる、 10日P の 5th full album。
+-『[[ショコラと隕石]]』『[[ワンダーワームホール]]』などの既存曲に新曲を加えた全9曲を収録。
+-ジャケットイラストを おどり氏 が、デザインを 荒木悟氏 が手掛ける。 
+-C86（コミックマーケット86）にてリリース。
+-Amazon、とらのあなで委託販売が、KARENTレーベルよりダウンロード販売が行われている。
+-現在は公式で無料公開されている。
+
+**曲目
++あなたは無重力
++[[ショコラと隕石]]
++[[メレンゲドール]]
++P.u.p.a
++[[惑星間コミュニケーション]]
++[[グーパースター]]
++P.r.i.s.m
++[[ワンダーワームホール]]
++わたしEclipse
+
+**リンク
+-[[作者ホームページ（monaca:factory official website）>>https://monacafactory.com/]]
+-[[Twitter>>https://twitter.com/monaca10p]]
+-[[amazon>>https://www.amazon.co.jp/dp/B00MLZ8MBG]]
+//-[[とらのあな>>https://www.toranoana.jp/mailorder/article/04/0030/22/76/040030227606.html]]
+-[[KARENT：「アフタヌーン・グラビティー」>>https://karent.jp/album/1584]]
+
+**コメント
+#comment

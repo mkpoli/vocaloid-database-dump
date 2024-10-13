@@ -1,0 +1,49 @@
+#right(){&furigana(SweetCatDreaming)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm21792755)|&youtube(https://www.youtube.com/watch?v=m55p-QuOiRs){342,187}|
+作詞：[[DJ A.Q.]]
+作曲：[[DJ A.Q.]]
+編曲：[[DJ A.Q.]]
+唄：[[初音ミク]]
+
+**曲紹介
+>&bold(){今回は前回アップしていた「Sweet Cat Dreaming」のプチPVって言ってもいいくらいの作品です。}
+>&bold(){使用していたミクはDeviantartからの「JohnSu」さんのHalfne Miku Studioを利用しました。}
+曲名：『&u(){Sweet Cat Dreaming}』
+
+**歌詞
+（動画より転載）
+
+昼間なんて関係ない
+眠そうに倒れかけてる
+子猫がなんだか可愛い過ぎる
+ねぇ、青ゾラはなんで
+白い雲があって
+素敵な時間を止めたい
+
+スィートな顔眠って
+時間の流れ忘れ
+夢見てる猫の様に
+僕は夢に落ちてゆく
+
+（間奏）
+
+スィートな顔眠って
+時間の流れ忘れ
+夢見てる猫の様に
+僕は夢に落ちてゆく
+
+スィートな顔眠って
+時間の流れ忘れ
+夢見てる猫の様に
+僕は夢に落ちてゆく
+落ちてゆく 
+
+落ちてゆく　Uhh
+
+
+**コメント
+#comment()

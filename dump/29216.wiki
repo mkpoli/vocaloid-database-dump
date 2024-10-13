@@ -1,0 +1,108 @@
+#right(){&furigana(GlassWall)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm23000788)|&youtube(https://www.youtube.com/watch?v=olRbG-9mfa0){342,187}|
+作詞：[[GuitarHeroPianoZero]]
+作曲：[[GuitarHeroPianoZero]]
+編曲：[[GuitarHeroPianoZero]]
+唄：[[初音ミクV3 English>初音ミク]]
+
+**曲紹介
+曲名：『&u(){Glass Wall}』
+-[[GuitarHeroPianoZero]]のボカロ曲16曲目。
+-2014年5月6日にレディーガガのオープニングアクトを務めたミクの6曲の内の最初の曲。
+-オフボーカルは動画コメント参照。
+-収録アルバム『Love + Loss』の購入は[[こちら>>https://asdr.bandcamp.com/album/love-loss]]。
+
+**歌詞
+***原文
+（[[bandcamp>>https://asdr.bandcamp.com/track/glass-wall]]より転載）
+
+Verse 1: 
+Can you see me? 
+The pixels on your screen 
+My voice that can reach you 
+The one thing that breaks through 
+The words that you type 
+They keep me warm at night 
+But why can't I feel you 
+To be there, just us two 
+
+Chorus: 
+If I could break through 
+Just for a day 
+Less than 2 inches from you 
+yet so far away 
+But this glass wall between us 
+won't keep us apart 
+I will sing out my heart 
+Just for you, my love 
+
+Verse 2: 
+The sound of your voice 
+Reaches through the noise 
+The bits of your words 
+They make up my world 
+But we're two worlds apart 
+My code, and your heart 
+But you'll be there for me 
+I'll be here, through your screen
+
+***和訳
+#region(close,和訳)
+（動画に付けられたコメントを転載）
+
+見えるかな？私のこと
+あなたの画面の上に集まったピクセル
+あなたに届くはずの私の声
+それだけがこの壁を越えていく
+あなたの打ちこんだ文字が
+夜でも私を暖めてくれる
+でもどうしてあなたのことを
+そばで感じられないんだろう
+
+たった一日でも
+ここから飛び出せたらいいのに
+5cmもない距離にいるあなたがとても遠い
+それでもガラスの壁を越えていけるはず
+歌うよ　あなたのために
+わたしの想いを　愛を
+
+ノイズに紛れて
+あなたの声が届く
+あなたの言葉のかけらが
+わたしの世界をつくっていく
+わたしのコードと、あなたのこころは
+別々の世界にあるけれど
+それでもあなたはそこにいる　わたしのために
+
+そしてわたしはここにいる　あなたの画面をとおして
+たった一日でも　ここを出られたらいいのに
+5cmもない距離にいるあなたがとても遠い
+それでもガラスの壁を越えていけるはず
+歌うよ　あなたのために
+わたしの想いを　愛を
+
+たった一日でも　ここを飛び出せたらいいのに
+5cmもない距離にいるあなたが
+とても遠い
+それでもガラスの壁を越えていけるはず
+だから歌うよ　あなたに向けて
+わたしの想いを　愛を
+#endregion
+
+**コメント
+- ついに英語ミクの曲がコンサートでも使用される時代が来たんだなぁ。  -- 名無しさん  (2014-05-09 01:10:55)
+- ガガ様のオープニングアクトで知った曲。結構いい感じ  -- 名無しさん  (2014-05-09 12:21:55)
+- 歌詞が英語だとストレートに聞けるんだろうねぇ…「消失」とかうまくいったら取り乱す外国人おおそう。  -- 名無しさん  (2014-05-23 23:01:35)
+- MIKU eXPoのロス・ニューヨーク公演でも素敵なバンドアレンジで披露された模様。  -- 名無しさん  (2014-10-20 01:50:05)
+- これはミク側から画面邪魔っ！って歌っていると？  -- 名無しさん  (2015-06-11 08:15:47)
+- お気に入りの英語曲です  -- 名無しさん  (2016-02-25 10:50:04)
+- 好き。  -- TAMA息  (2016-05-26 21:17:00)
+- 最高っすね…  -- 駿見賢人  (2016-10-17 13:36:58)
+- ガラスのカベってなんかいいね  -- 土筆  (2016-12-29 21:02:55)
+- 一番のお気に入りです  -- T.O  (2017-02-19 14:47:25)
+- 透き通るような綺麗な声。母国語として聴いたら切なくなりそう。  -- 名無しさん  (2018-10-07 00:27:57)
+#comment()

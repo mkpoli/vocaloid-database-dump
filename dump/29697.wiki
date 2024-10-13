@@ -1,0 +1,31 @@
+#right(){&furigana(よるのはてまで)&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1532_20140609185920_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[PARTED]]|CENTER:&bold(){夜ノ果テマデ}|CENTER:[[贄の風采]]|
+
+|&bold(){[[クリスタルP]]}|
+
+発売：2014年6月30日
+価格：￥300（税込）
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：クリスタルP
+
+|&bold(){[[iTunes Storeで購入する>>https://itunes.apple.com/jp/album/up-to-the-end-of-night-single/id892265782]]}|
+
+**CD紹介
+-クリスタルPの配信シングル。
+-アルバムよりの先行配信曲。
+-KARENTの「Good morning, Good night. 朝ver.」特集で配信された作品の1つ。
+
+**曲目
++夜ノ果テマデ (feat. KAITO)
++夜ノ果テマデ-inst-
+
+**リンク
+-[[KARENT：「夜ノ果テマデ」>>http://karent.jp/album/1532]]
+-[[KARENT：「Good morning, Good night. 朝ver.」特集ページ>>http://karent.jp/special/goodmorning14]]
+
+**コメント
+#comment()

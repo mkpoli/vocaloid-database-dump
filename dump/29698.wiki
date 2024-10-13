@@ -1,0 +1,30 @@
+#right(){&furigana(ねっとちるなのぐ)&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1540_20140611232843_0280_0280.jpg)
+
+|CENTER:前作|CENTER:今作|CENTER:次作|
+|CENTER:[[QFT>QFT/CD]]|CENTER:&bold(){ネットチルナノグ}|CENTER:[[パーティクルパーティ]]|
+
+|&bold(){[[lumo]]}|
+
+発売：2014年6月30日
+価格：￥300 / 1曲￥150
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：スズキハルカ
+
+|&bold(){[[iTunes Storeで購入する>>https://itunes.apple.com/jp/album/nettirnanog-single/id892267463]]}|
+
+**CD紹介
+-lumo氏の配信EP。
+-KARENTの「Good morning, Good night. 朝ver.」特集で配信された作品の1つ。
+
+**曲目
++Fulunilnala (before daybreak) （feat. 初音ミク）
++[[ネットチルナノグ]] （feat. 初音ミク）
+
+**リンク
+-[[KARENT：「ネットチルナノグ」>>http://karent.jp/album/1540]]
+-[[KARENT：「Good morning, Good night. 朝ver.」特集ページ>>http://karent.jp/special/goodmorning14]]
+
+**コメント
+#comment()

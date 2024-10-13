@@ -1,0 +1,44 @@
+#right(){&furigana(おとのはこのなか)&furigana()【登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186138417.jpg,x=300,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm15963027)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){音の箱の中}|CENTER:[[Fantastic story]]|
+
+|&bold(){[[あな兄]]}|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2011年11月19日|CENTER:2012年1月|
+|価格|CENTER:￥1,000|CENTER:￥1,050|
+|サークル|CENTER:あな場||
+
+**CD紹介
+-あな兄氏の1stアルバム。
+-収録曲数は13曲＋。
+-ジャケットデザインは147氏。
+-THE VOC@LOiD M@STER 18（ボーマス18）で頒布。
+-バンド倉庫で委託販売が行われていたが、終了している。
+
+**曲目
++[[Liberal Life]]
++探究少女
++[[apogee]] ～Short Ver～
++[[ワンダーナイト]]
++Pastel Magic
++[[ステレオイメージ]]
++[[音の箱の中]]
++[[sunnyday, rainyday,everyday]]
++[[Fantastic story]]
++good food
++[[リフレインレイン]]
++ドラマチックBGM
++[[おかえりなさいのうた]]
+
+**リンク
+-[[特設ページ>>http://ananii.web.fc2.com/]]
+-[[作者ブログ>>http://ananii.blog96.fc2.com/]]
+
+**コメント
+#comment()

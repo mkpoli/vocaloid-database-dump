@@ -1,0 +1,31 @@
+#right(){&furigana(うれいのあめ)&furigana()【登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186131974.jpg,x=300,y=300)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[CLAIMS from LR]]|CENTER:&bold(){憂いの雨}|CENTER:[[憂いの雨（配信）>憂いの雨]]|
+
+|&bold(){[[ゆうP]]}|
+
+||CENTER:即売|CENTER:通販|
+|発売|CENTER:2014年4月27日|CENTER:2014年5月|
+|価格|CENTER:￥500|CENTER:￥500（税込）|
+|サークル|CENTER:Aether + PHOENIX Project|CENTER:PHOENIX Project|
+
+**CD紹介
+>生きること、生きていること。
+-音楽サークル「P∴Rhythmatiq」でも活動するゆうPのシングル。
+-M3-2014春で頒布。
+-自サイトにて通販が行われている。
+
+**曲目
++[[憂いの雨]] （feat. 初音ミク）
++私は天邪鬼 - 2014 edit （feat. 初音ミク）
++mind's door - 2014 edit （feat. 初音ミク）
+
+**リンク
+-[[作者サイト>>http://www.p-pr.info/]]
+-[[作品ページ>>http://urei.p-pr.info/]]
+
+**コメント
+#comment()

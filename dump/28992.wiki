@@ -1,0 +1,37 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1490_20140325154353_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Pumpkin Candy　- カボチャの照らす世界から -]]|CENTER:&bold(){Unlimited possibilities}|CENTER:[[華月怪改絵巻　〜かげつあやかしあらためえまき〜]]|
+
+|&bold(){[[As'257G]]}|楢崎このみ|飛高|
+
+発売：2014年4月11日
+価格：￥900
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：As'257G
+
+|&bold(){[[iTunes Storeで購入する>>https://itunes.apple.com/jp/album/unlimited-possibilities/id850147595]]}|
+
+**CD紹介
+-Sound Team Layer-0のAs'257G氏の配信アルバム。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++[[Unlimited possibilities]] （feat. 初音ミク）
++[[Heavenly corridor]] （feat. 結月ゆかり）
++君の涙が止まるまで （feat. 初音ミク）
++[[滲む夢は深海で眠る]] （feat. 結月ゆかり）
++空白は歪な匂い （feat. 初音ミク）
++[[Artificial memory]] （feat. 結月ゆかり）
++[[慟哭のザイオン]] （feat. 結月ゆかり）
++双星のシリウス （feat. 初音ミク）
++[[La spada di una fine　-終幕の剣-]] （feat. 結月ゆかり）
+
+**リンク
+-[[サークルサイト>>http://layer-0.shillest.net/]]
+-[[KARENT：「Unlimited possibilities」>>http://karent.jp/album/1490]]
+
+**コメント
+#comment()

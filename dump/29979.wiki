@@ -1,0 +1,34 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1558_20140715164033_0280_0280.jpg)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm23924113)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Rebellion>Rebellion/CD]]|CENTER:&bold(){Shooting starting over}|CENTER:-|
+
+|&bold(){[[yu-go]]}|
+
+|流通|CENTER:即売|CENTER:配信|
+|発売|CENTER:2014年7月13日|CENTER:2014年7月30日|
+|価格|CENTER:￥500|CENTER:￥600|
+|サークル|CENTER:ぽんず囲いガチ勢||
+
+**CD紹介
+>&color(#33ccff){-星達の再上昇を記した僕らの音-}
+-yu-go氏のミニアルバム。
+-Tr.5はぽんず氏のアルバム『Pondentity2』に提供した楽曲のボカロカバー。
+-THE VOC@LOiD M@STER 29（ボーマス29）にて頒布。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++静寂の鳴る場所で～instrumental～
++Starise （feat. 初音ミク）
++[[相対のdistance]] （feat. 巡音ルカ）
++ADA （feat. 初音ミク）
++10年後の夏の終わりに （feat. 初音ミク）
+
+**リンク
+-[[KARENT：「Shooting starting over」>>http://karent.jp/album/1558]]
+
+**コメント
+#comment()

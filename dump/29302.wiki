@@ -1,0 +1,36 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm20654519)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[ラストダンス>ラストダンス/CD]]|CENTER:&bold(){JOYRIDE}|CENTER:[[FLASH BACK>FLASH BACK/CD]]|
+
+|&bold(){[[yksb]]}|[[一億円P]]|[[yu-go]]|
+
+発売：2013年4月27日
+価格：￥
+流通：即売
+サークル：キラピコスキー
+
+**CD紹介
+-イママP改めyksb氏としての1stアルバム。全10曲。
+-デザインプロデュースを雷夢氏が担当。
+-ゲストで[[一億円P]]、[[yu-go]]氏、tkd氏が参加。
+-THE VOC@LOiD 超 M@STER 24（超ボーマス23）にて頒布。
+
+**曲目
++中之島ファンカスティック feat. IA
++[[アッパーチューン]] feat. IA
++[[NAKED]] feat. IA & Miku
++C'mon C'mon fet. tkd
++[[ナガレボシニイノル]] feat. IA
++[[ASH DRIVE]] ～HATE mix～ ver. [[yu-go]] feat. Rin
++[[ユニゾン]] ～LOVE mix～ ver. [[dezzy>一億円P]] feat. IA & Miku
++[[なにものにも]] from [[やみくろ]] ～yksb Remix～ IA & Miku
++[[午前4時のヒトリゴト]] feat. IA
++Anubis feat. yksb & tkd
+
+**リンク
+-[[Twiiter>>https://twitter.com/yksbdance]]
+
+**コメント
+#comment()

@@ -1,0 +1,37 @@
+#right(){&furigana(らすとだんす)&furigana()【登録タグ:&tags() 】}
+
+&ref(https://vocadb.net/Album/CoverPicture/2146?v=5)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm19519974)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[United]]|CENTER:&bold(){ラストダンス}|CENTER:[[JOYRIDE>JOYRIDE/CD]]|
+
+|&bold(){[[イママP>yksb]]}|[[一億円P]]|ゆうなつ|
+
+発売：2012年12月15日
+価格：￥1,000
+流通：即売
+サークル：キラピコスキーA
+
+**CD紹介
+-イママPの4thアルバム。全9曲。
+-ゲストで[[一億円P]]、[[口南P]]、tkd氏が参加。
+-THE VOC@LOiD M@STER 23（ボーマス23）にて頒布。
+
+**曲目
++[[Hands UP!!]] feat. IA
++[[Twinkle>Twinkle/yksb・一億円P]] feat. MIKU&IA
++[[ASH DRIVE]] feat. tkd
++[[Face to Face]] feat. LUKA&GUMI
++[[Realize>Realize/yksb]] feat. IA
++[[Kiss×Kiss]] feat. Rin
++[[Beautiful Sniper]] feat. IA
++[[ラストダンス>ラストダンス/yksb]] feat. IA
++Noel feat. imama&tkd
+
+**リンク
+-[[Twitter>>https://twitter.com/imama5111]]
+
+**コメント
+#comment()

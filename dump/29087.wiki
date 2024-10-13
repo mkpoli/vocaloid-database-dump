@@ -1,0 +1,41 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+
+
+&nicovideo(http://www.nicovideo.jp/watch/sm23386919)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[どりーみんチュチュ]]|CENTER:&bold(){emonloid5}|CENTER:[[emonLOiD -best-]]|
+
+|&bold(){[[emon（Tes.）]]}|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2014年4月26日・27日|CENTER:2014年5月12日|
+|価格|CENTER:￥1,000（税込）|CENTER:￥1,512円（税込）|
+|サークル|CENTER:Yes techno clinin（1日目）&br()yksbdance（2日目）|CENTER:Emonloid|
+
+**CD紹介
+-音楽グループ「Tes.」所属の emon氏 の 6thアルバム。
+-『[[星空のライオン]]』『[[ばけらぶっ]]』『[[サテライト>サテライト/emon（Tes.）]]』などの既存曲に新曲を加えた全9曲を収録。
+-アートワークは [[yksb]]氏 が手掛ける。
+-THE VOC@LOiD 超 M@STER 28（超ボーマス3）にてリリース。
+-メロンブックスにて委託販売が行われている。
+
+**曲目
++instrument
++[[Sweet Life]] feat. 初音ミク
++Y feat. GUMI・初音ミク
++[[my feeling emotions]] feat. 初音ミク
++恋のお心 feat. 初音ミク
++[[ばけらぶっ]] feat. 鏡音リン
++黒髪のレラート feat. 巡音ルカ
++[[星空のライオン]] feat. IA
++[[サテライト>サテライト/emon（Tes.）]] feat. 初音ミク
++飛人（HIBITO） feat. IA
+
+**リンク
+-[[Twitter>>http://twitter.com/emon316]]
+-[[メロンブックス>>http://shop.melonbooks.co.jp/shop/sp_213001015541_emonloid_emo5.php]]
+
+**コメント
+- 一曲一曲の音源も多く、ハピコア系アッパーチューンの詰め合わせなので、テクノポップが好きな方はかなり楽しめるアルバムだと思います☆  -- サービスガールズ  (2014-08-04 01:22:27)
+#comment()

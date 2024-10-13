@@ -1,0 +1,41 @@
+#right(){&furigana(じゅんじょうかれん)&furigana()【登録タグ:&tags() 】}
+//&ref(http://img.toranoana.jp/img/04/0030/20/33/040030203314-1.gif)
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186133781.jpg,x=300,y=300)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[3×3=きゅー！]]|CENTER:&bold(){純情可レン！}|CENTER:[[五線譜戦隊 ゴレンジャー]]|
+
+|&bold(){[[キッドP]]}|&bold(){[[クリスタルP]]}|&bold(){[[れれれP]]}|[[残鏡P]]|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|>|CENTER:2014年4月26日|
+|価格|CENTER:￥500|CENTER:￥691（税抜）|
+|サークル|>|CENTER:3レン腐|
+
+**CD紹介
+-キッドP、クリスタルP、れれれPによるユニット「3レン腐」の3rdシングル。
+-ジャケットイラストはワカコヒメモエ氏。
+-THE VOC@LOiD 超 M@STER 28（超ボーマス28）にて頒布。
+-とらのあなにて委託販売が行われている。
+
+**曲目
++クッキン・クッキーズ
++-作詞・作曲・編曲：れれれP
++大安吉日
++-作詞・作曲：れれれP　編曲：れれれP・HzEdge（クリスタルP）
++ちいさな、ちいさな、この部屋で
++-作詞・作曲：HzEdge（クリスタルP）　編曲：れれれP
++チェンジ！
++-作詞：残鏡P　作曲：キッド　編曲：HzEdge（クリスタルP）
++クッキン・クッキーズ （instrumental）
++大安吉日 （instrumental）
++ちいさな、ちいさな、この部屋で （instrumental）
++チェンジ！ （instrumental）
+
+**リンク
+-[[れれれPのブログ>>http://yaplog.jp/lelele-p/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/20/33/040030203314.html]]
+
+**コメント
+#comment()

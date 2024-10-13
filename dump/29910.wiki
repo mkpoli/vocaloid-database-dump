@@ -1,0 +1,60 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/27615559" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/27615559">【ニコニコ動画】</a></iframe>)|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/35712786" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/35712786">【ニコニコ動画】</a></iframe>)|
+
+**特徴
+-&bold(){kyaami} とも。
+-アメリカ在住の女性ボカロP。カバー曲を専門とする。
+-感情豊かな調声は非常に評価が高く、「神調教」「魂実装済み」等のタグが付くことが多い。
+-元々はUTAUPであり、自身の音源「佐村トミ」等を使ったカバー曲を投稿していたが、&br()2011年9月10日に鏡音レンAppend(Power)を用いた、UTAUの健音テイオリジナル曲「13km」のカバーを投稿し、ボカロPとしても活動を開始した。
+-使用するボーカロイドは鏡音リン・レン、巡音ルカ、初音ミク、歌手音ピコ、VY1、猫村いろは、miki、結月ゆかり、歌愛ユキ、IA、GUMI、蒼姫ラピス、VY2、Oliver、MEIKO、ZOLA PROJECT、AVANNA、v flower、鳴花ヒメ・ミコトと非常に多い。
+-その調声技術の高さで、一部のリスナーには知られていたが、UTAUの波音リツのキレ音源を使った、[[niki]]氏の「[[-ERROR]]」のカバーで初の殿堂入りを達成し、一気に知名度が上がった。これがniki氏本人や、他のボカロPの目に留まり、[[チームカミウタ]]やniki氏とのコラボに繋がっていくのである。
+-2019年11月10日、自身初となるVOCALOIDオリジナル曲「[[Scattered Glass]]」を投稿した。
+--その後殿堂入りを達成している。
+
+**リンク
+-[[UTAU楽曲データベース「cillia」のページ>>http://www24.atwiki.jp/utauuuta/pages/2791.html]]
+-[[YouTube>>http://www.youtube.com/user/kyaami]]
+-[[pixiv>>http://www.pixiv.net/member.php?id=1551647]]
+-[[Twitter>>http://twitter.com/cillia]]
+
+**曲
+#list_by_tag(cillia,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(cilliaCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**カバー曲(再生数の多い順　※ボカロを使用している作品のみ。)
+|&nicovideo(http://www.nicovideo.jp/watch/sm22511693)|&nicovideo(http://www.nicovideo.jp/watch/sm18838768)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm23215628)|&nicovideo(http://www.nicovideo.jp/watch/sm18327784)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm22863738)|&nicovideo(http://www.nicovideo.jp/watch/sm19216715)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm23674967)|&nicovideo(http://www.nicovideo.jp/watch/sm20068257)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm18204166)|&nicovideo(http://www.nicovideo.jp/watch/sm22498438)|
+
+**コラボ作品
+|&nicovideo(http://www.nicovideo.jp/watch/sm19159315)|&nicovideo(http://www.nicovideo.jp/watch/sm20592957)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm21604460)|&nicovideo(http://www.nicovideo.jp/watch/sm21875957)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm23683512)|&nicovideo(sm25982069)|
+|&nicovideo(sm31886469)|&nicovideo(sm33222454)|
+|&nicovideo(sm33550626)|&nicovideo(sm35755698)|
+
+**オリジナル曲
+|&nicovideo(sm35934228)|&nicovideo(sm37318847)|
+
+**コメント
+- ついにページできたか!あとcilliaさんはがくぽも使ったことあるはず  -- 名無しさん  (2014-07-20 14:07:51)
+- ↑cilliaさん本人はLilyとがくぽは持っていないらしく、自分が作ったVSQxファイルを友人に渡して、歌わしたものらしいよ。  -- 竜奇  (2014-07-20 14:52:30)
+- ↑ そうだったのか…情報ありがとう  -- 名無しさん  (2014-07-27 18:01:38)
+- VY1V4のFairytale、本当に凄い。  -- 名無しさん  (2015-01-03 21:40:09)
+- 素晴らしすぎる…  -- 名無しさん  (2015-04-07 22:40:18)
+- ほんとこの方は神  -- 名無しさん  (2016-01-02 20:46:31)
+- 海外の本気  -- 名無しさん  (2016-01-02 20:47:03)
+- この方はボーカロイド界を変える希望だと思います＾＾  -- 名無しさん  (2016-01-02 23:18:11)
+- cilliaさん新しい投稿まだかなあ･･･  -- 名無しさん  (2017-01-07 23:06:45)
+- cilliaさん本当に凄い。特に黒猫が好きです。  -- 名無しさん  (2017-01-13 08:32:02)
+- Cilliaさんの調教は神としか言えない  -- 名無しさん  (2017-04-05 18:34:39)
+- 音街ｳﾅのﾒﾙﾄｶﾊﾞｰでﾐﾘｵﾝいってるね｡調声格好良過ぎてマジで惚れた！  -- 名無しさん  (2018-09-02 15:57:46)
+- 調声が凄すぎる…神としか言えない  -- 名無しさん  (2019-06-30 09:16:20)
+- 今までの中で一番調教が上手だと思います  -- 名無しさん  (2019-07-21 13:29:51)
+- 神！  -- 名無しさん  (2021-07-31 12:19:57)
+- この方のカバーでUTAUにハマった…！  -- 名無しさん  (2022-01-22 13:41:52)
+#comment()

@@ -1,0 +1,32 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1573_20140729232434_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[bus de sonoca]]|CENTER:&bold(){unreachable ambition}|CENTER:[[秒速30万キロメートル]]|
+
+|&bold(){[[As'257G]]}|楢崎このみ|
+
+発売：2014年8月20日
+価格：￥300
+流通：配信
+レーベル：KARENT
+ジャケット：As'257G
+
+|&bold(){[[iTunes Storeで購入する>>https://itunes.apple.com/jp/album/unreachable-ambition-single/id905878333]]}|
+
+**CD紹介
+-Sound Team Layer-0のAs'257G氏の配信ミニアルバム。
+-「過ちと後悔、結果」のミニアルバム。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++[[unreachable ambition]] （feat. 初音ミク）
++[[Mind dissolvable]] （feat. MEIKO＆初音ミク）
++SA-YO-NA-RA （feat. 初音ミク）
+
+**リンク
+-[[サークルサイト>>http://layer-0.shillest.net/]]
+-[[KARENT：「unreachable ambition」>>http://karent.jp/album/1573]]
+
+**コメント
+#comment()

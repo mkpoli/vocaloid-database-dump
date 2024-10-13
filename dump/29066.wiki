@@ -1,0 +1,42 @@
+#right(){&furigana(ふしけ)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+#amazon(B00JUH602Q)
+
+&nicovideo(sm23371436)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Wormhole EP]]|CENTER:&bold(){Psȳchē -プシケ-}|CENTER:[[アフタヌーン・グラビティー]]|
+
+|&bold(){[[10日P]]}|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2014年4月27日|CENTER:|
+|価格|CENTER:￥500|CENTER:￥600（税別）|
+|サークル|CENTER:s10rw|CENTER:monaca:factory|
+
+**CD紹介
+CD名：『&u(){Psȳchē -プシケ-}』
+-ニコニコ超会議3内の超ボーマスにて初頒布。
+-イラストはきゃらあい氏。
+-とらのあな、Amazonで委託販売が行われている。また、ダウンロード配信など予定している。
+
+**曲目
++[[プシケとフロウ]] feat.GUMI
++[[グーパースター]] feat.初音ミク&GUMI
++Aquamarine feat.lasah
++Drops feat.blanc
++プシケとフロウ (instrumental)
++グーパースター (instrumental)
++Aquamarine (instrumental)
++Drops (instrumental)
+
+**リンク
+-[[作者HP>>https://monacafactory.com/]]
+//-[[とらのあな>>https://www.toranoana.jp/mailorder/article/04/0030/20/25/040030202571.html]]
+-[[Amazon>>https://www.amazon.co.jp/dp/B00JUH602Q/]]
+
+**コメント
+#comment()

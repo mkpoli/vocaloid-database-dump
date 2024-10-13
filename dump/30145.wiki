@@ -1,0 +1,60 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#amazon(B00MNDKL56)
+
+|&nicovideo(http://www.nicovideo.jp/watch/sm24174297)|&nicovideo(http://www.nicovideo.jp/watch/sm24181047)|
+|&youtube(https://www.youtube.com/watch?v=YuRMbeXxexQ){336,189}|&youtube(https://www.youtube.com/watch?v=4NqWGVtVC4s){336,189}|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[SECONDHANDED -Used&Junks- SECONDCOMMING]]|CENTER:&bold(){THIRDHANDED -Recycled Trash-}|CENTER:[[REBIRTH -Return of Phoenix-]]|
+
+|&bold(){[[SHO（キセノンP）]]}|
+
+|流通|CENTER:即売|CENTER:委託|CENTER:配信|
+|発売|CENTER:2014年8月17日|CENTER:2014年8月19日|CENTER:2014年9月5日|
+|価格|CENTER:￥1,000（税込）|CENTER:￥1,512（税込）|CENTER:￥1,200 / 1曲￥150|
+|サークル|>|CENTER:XM||
+
+**CD紹介
+-サークルXMのミニアルバム。
+-ボツ曲（-Recycled Trash-）と、過去のアルバム収録曲のリミックス音源（-Remixed Ashes-）を合わせて1枚に収録。
+-マスタリングを [[Tom>酒言実行P]]氏 が、イラストを [[をかだ]]氏 が手掛ける。
+-コミックマーケット86(C86)にて頒布。Amazon、メロンブックス、Boothにて委託販売。
+-KARENTレーベルよりダウンロード販売が行われている。CD版とは一部の収録曲が異なっている。
+
+**曲目
+***CD版
++IMAGINARY ENEMY / MIKU
++THE VALUE OF THIS LIFE / RIN
++S&M / LEN
++肉食女子系パラダイム / YUKARI
++HAPPY TABLE / MIKU
++ブス不細工除染法案 / GUMI & LUKA
++MAMA / MIKU
++[[IMMORTAL SOUL]] / LEN
++EAT THEM ALL ON THE TABLE / LUKA
++JUNK / RIN
++[[雪桜>雪桜/SHO（キセノンP）]] -Duet Version- / MIKU & LUKA
++IMAGINARY ENEMY (8bit Version)
+
+***配信版
++IMAGINARY ENEMY (feat. 初音ミク)
++THE VALUE OF THIS LIFE (feat. 鏡音リン)
++&nowiki(){S&M (feat. 鏡音レン)}
++肉食女子系パラダイム (feat. 結月ゆかり)
++HAPPY TABLE (feat. 初音ミク＆鏡音リン＆鏡音レン＆巡音ルカ＆メグッポイド＆結月ゆかり)
++ブス不細工除染法案 /  (feat. メグッポイド＆巡音ルカ)
++MAMA (feat. 初音ミク)
++IMMORTAL SOUL (Remixed Ashes Version) (feat. 鏡音レン)
++EAT THEM ALL ON THE TABLE (Remixed Ashes Version) (feat. 巡音ルカ)
++JUNK (Remixed Ashes Version) (feat. 鏡音リン)
++雪桜 (Duet Version) (feat. 初音ミク＆巡音ルカ)
++THE VALUE OF THIS LIFE (8bit Version)
+
+**リンク
+-[[サークルホームページ>>http://sound.jp/xenonmaiden/html_j/entrance.html]]
+-[[作者ブログ>>http://xenonp.dou-jin.com/]]
+-[[amazon>>http://www.amazon.co.jp/dp/B00MNDKL56]]
+-[[KARENT：「THIRDHANDED -Recycled Trash-」>>http://karent.jp/album/1585]]
+
+**コメント
+#comment()

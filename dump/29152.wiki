@@ -1,0 +1,32 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+
+|BGCOLOR(#FFF):　|BGCOLOR(#DDD):CENTER:前作|BGCOLOR(#B66):COLOR(#FFF):CENTER:&b(){本作}|BGCOLOR(#DDD):CENTER:　次作　|
+|　[[しえろP>しえろP（ショタエロイドP）]]　|CENTER:　[[法力国家ノ魔法使R]]　|BGCOLOR(#FFF):MIDDLE:CENTER:&font(b,14px){　Resonance III　}|CENTER: |
+|　[[ちくP]]|CENTER:[[Yellow Dream]]|~|　|
+
+|&nicovideo(http://www.nicovideo.jp/watch/sm23367760){360,123}|
+
+|&bold(){　[[しえろP>しえろP（ショタエロイドP）]]　}|&bold(){　[[ちくP]]　}|
+
+|BGCOLOR(#FFF):　|BGCOLOR(#DDD):CENTER:　即売　|BGCOLOR(#DDD):CENTER:　委託　|
+|BGCOLOR(#DDD):CENTER:発売|CENTER:　2014年04月26日　|CENTER:-|
+|BGCOLOR(#DDD):CENTER:価格|CENTER:　500円　|CENTER:-|
+|BGCOLOR(#DDD):　サークル　|>|CENTER:ahp+way|
+
+**CD紹介
+-しえろP（成澤悠斗）＆ちくP（葉の月）の1年ぶりの合同CDシングル。
+-ジャケットイラストは[[マクロ>>http://piapro.jp/kignyo122]]。
+
+**トラックリスト
+|BGCOLOR(#CCC):　Tr　|BGCOLOR(#CCC):　タイトル|BGCOLOR(#CCC):　歌|BGCOLOR(#CCC):　作詞|BGCOLOR(#CCC):　作曲|BGCOLOR(#CCC):　編曲|
+|CENTER:01|　泡沫の世界|　鏡音レンpower　|　成澤悠斗　|　成澤悠斗　|　成澤悠斗　|　
+|CENTER:02|　絶望遊戯|　鏡音レンpower　|　葉の月　|　葉の月　|　葉の月、[[いたる]]　|
+|CENTER:03|　泡沫の世界 -instrumental-　|　-　|　-　|　成澤悠斗|　成澤悠斗　|
+|CENTER:04|　絶望遊戯 -instrumental-|　-　|　-|　葉の月|　葉の月、いたる　|
+
+**リンク
+[[ahp+way>>http://ahp.xii.jp/ahpway/]]
+
+
+**コメント
+#comment()

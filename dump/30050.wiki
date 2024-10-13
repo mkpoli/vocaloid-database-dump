@@ -1,0 +1,51 @@
+#right(){&furigana(つきのうた4)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+#ref(http://www.vocalomakets.com/yukari_CD/005/image/jacket.png,width=300,height=300)
+
+
+&nicovideo(http://www.nicovideo.jp/watch/sm24159446)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[月の詩 Ⅲ -ツキノウタ-]]|CENTER:&bold(){月の詩 Ⅳ -ツキノウタ-}|CENTER:[[月の詩 Ⅴ -ツキノウタ-]]|
+
+|&bold(){[[Bumpyうるし]]}|[[かごめP]]|[[ゆうゆ]]|[[ねじ式]]|[[ちょむP]]|[[ラマーズP]]|[[喜兵衛]]|
+|[[デッドボールP]]|[[空海月]]|[[寂恋]]|[[黒澤まどか]]|[[kous]]|[[HMOとかの中の人]]|>|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|>|CENTER:2014年8月17日|
+|価格|CENTER:￥1,000（税込）|CENTER:￥1,493（税抜）|
+|サークル|>|CENTER:マケッツ団|
+
+**CD紹介
+-VOCALOMAKETS メンバー企画による結月ゆかりの公式コンピレーションアルバムの第4弾！！
+-今回は、計13名のボカロPが参加している。
+-ジャケットイラストは マニャ子氏 が手掛ける。ロゴデザインは 渡辺浩彰氏 。
+-C86（コミックマーケット86）にてリリース。
+
+**曲目
++そしてまた月は廻ってゆく　/　ゆうゆ
++[[錯乱ぶる交差点]]　/　ねじ式
++ライラ・ライラ　/　ちょむP
++[[写生するウォシュレット]]　/　デッドボールP
++ユメノ　/　喜兵衛
++みなみ風　/　ラマーズP
++[[caged girl]]　/　Bumpyうるし
++あたしの砂糖戦争　/　かごめP
++[[a lover of music]]　/　空海月
++Metamorphosis　/　寂恋
++[[黄金の鍵]]　/　黒澤まどか
++涙のまにまに　/　kous
++キャロット　/　HMOとかの中の人
+
+**リンク
+-[[特設ページ>>http://www.vocalomakets.com/yukari_CD/005/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/22/74/040030227487.html]]
+
+**コメント
+- デＰどうしたｗｗｗｗｗｗｗｗｗｗｗ  -- 名無しさん  (2014-08-06 22:08:31)
+- ゆうゆさんとkousさんのゆかりん気になる！しかしデPよｗｗ  -- 名無しさん  (2014-08-07 00:14:05)
+- 涙のまにまにがとてもよさげ。CD欲しい  -- 名無しさん  (2014-10-13 17:18:51)
+#comment

@@ -1,0 +1,41 @@
+#right(){&furigana(めい)&furigana()【登録タグ:&tags() 】}
+#ref(http://baseec2.s3.amazonaws.com/images/item/origin/6ba392f4b846f19fa7fb5b2408c4ce43.png,width=300,height=300)
+
+
+&nicovideo(http://www.nicovideo.jp/watch/sm23370889)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[セツナサイクル>セツナサイクル/CD]]|CENTER:&bold(){メイ}|CENTER:[[わんわんテール EP]]|
+
+|&bold(){[[yui]]}|
+
+|流通|CENTER:即売|CENTER:通販|
+|発売|CENTER:2014年4月26日・27日|CENTER:2014年4月28日|
+|価格|>|CENTER:￥1,000（税込）|
+|サークル|CENTER:篠倉荘の割とロックな仲間たち（1日目）&br()ワニは席を外しております。（2日目）|CENTER:yui|
+
+**CD紹介
+-yui氏 の2ndアルバム。
+-1stアルバム後にリリースした既存曲＋書き下ろしの新曲＋アレンジの全8曲を収録。[[なぎ]]氏の「[[Panorama]]」のアレンジ ver.も収録。
+-アートワークは しめのソラ氏 が手掛ける。
+-THE VOC@LOiD 超 M@STER 28（超ボーマス3）にてリリース。通販も行われている。
+
+**曲目
++[[メイ>メイ/yui]]
++[[わんわんテール]]
++[[ショコラ>ショコラ/yui]]
++クッキーカッター
++ホノカ
++憧憬対話
++[[Panorama]] -yui mix-
++[[コーヒーカップ]]
+
+**リンク
+-[[特設サイト>>http://yuirock.thebase.in/items/478647]]
+-[[Twitter>>http://twitter.com/yui_wani]]
+
+**コメント
+- 楽しみーー  -- 名無しさん  (2014-04-20 11:54:31)
+- 新CDきたー!　絶対買う  -- 柚っこ  (2014-12-20 21:17:52)
+- 昨日学校の帰りにあって買った！ 「メイ」「クッキーカッター」「コーヒーカップ」が良かった、  -- 名無しさん  (2015-09-27 10:37:23)
+#comment()

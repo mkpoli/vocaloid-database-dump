@@ -1,0 +1,41 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1499_20140411164945_0280_0280.jpg)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm23349041)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Reverberations]]|CENTER:&bold(){Tonality}|CENTER:[[Sound Collection - New Original]]&br()[[Sound Collection - Another Original]]|
+
+|&bold(){[[Clean Tears]]}|[[海兎]]|
+
+|流通|CENTER:即売|CENTER:委託|CENTER:配信|
+|発売|CENTER:2014年4月26日|CENTER:2014年4月|CENTER:2014年5月7日|
+|価格|CENTER:￥1,000|CENTER:￥1,296（税込）|CENTER:￥1,200|
+|サークル|>|>|CENTER:S.C.X|
+
+**CD紹介
+>&bold(){感じる君の声}
+>&bold(){ゆっくりと心の鼓動シンクロしてく}
+-Clean Tears氏のVOCALOIDアルバム。
+-イラストを川崎順平氏が担当。
+-THE VOC@LOiD 超 M@STER 28（超ボーマス28）で頒布。
+-各同人ショップで委託販売が、KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++[[愛して？ ～Love me do～>愛して？ ～Love me do]] / 初音ミクV3・V3 English
++Beat in love / 初音ミクV3
++Go astray / 初音ミクV3 Solid
++積み木 / 初音ミクV3 Sweet
++I wanna change / 結月ゆかり
++[[Introvert]] / 初音ミクV3 Solid
++Intersection / IA
++旅立ちの日 / 初音ミクV3 Soft
++Outro Tech-nality
+
+**リンク
+-[[サークルサイト>>http://scx-ct.net/]]
+-[[特設ページ>>http://scx-ct.net/sp/tonality/]]
+-[[KARENT：「Tonality」>>http://karent.jp/album/1499]]
+
+**コメント
+#comment()

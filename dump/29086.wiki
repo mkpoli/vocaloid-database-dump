@@ -1,0 +1,39 @@
+#right(){&furigana(みなそことはる) &furigana()【登録タグ:&tags() 】}
+//#ref(http://blog-imgs-69-origin.fc2.com/k/i/h/kihitop/20140420113657e02.jpg,width=300,height=300)
+
+&ref(https://booth.pximg.net/580f41d1-edc7-48e8-861f-505021278005/i/889339/4d5ef459-349a-4f30-b27e-2cbc5f64c27d_base_resized.jpg,x=300,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm23369137)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Goodbye>Goodbye/CD]]|CENTER:&bold(){ミナソコと春}|CENTER:-|
+
+|&bold(){[[樹人]]}|
+
+|流通|CENTER:即売|CENTER:配信|
+|発売|CENTER:2014年4月26日|CENTER:2018年6月3日|
+|価格|CENTER:￥500（税込）|CENTER:￥400（税込）|
+|サークル|CENTER:進捗どうです会|kihito|
+
+**CD紹介
+-樹人氏 の 2nd e.p. 。CDとしては3枚目となる。
+-先行リリースされた 『[[クロウラ]]』 に新曲を加えた全5曲を収録。
+-THE VOC@LOiD 超 M@STER 28（超ボーマス3）にてリリース。
+-パッケージ版は現在廃盤となっているが、初頒布から4年後の2018年にBOOTHからダウンロード販売が開始された。
+
+**曲目
++芥
++光の王国
++僕は僕の夢を見る
++[[クロウラ]]
++影
+
+**リンク
+-[[GHOSTONE（作者ホームページ）>>http://kihitop.blog.fc2.com/]]
+-[[Twitter>>http://twitter.com/kihito_]]
+-[[BOOTH>>https://kihito.booth.pm/items/889339]]
+
+**コメント
+- おお  -- 名無しさん  (2014-04-22 23:26:52)
+- すごいよかった。ボカロ曲も樹人さんの歌声も  -- 名無しさん  (2014-05-16 20:50:40)
+#comment()

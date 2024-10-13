@@ -1,0 +1,50 @@
+#right(){&furigana(ほしふるよるをたびするしょうじょ)&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1511_20140510182732_0280_0280.jpg)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm23301751)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Lassitude]]|CENTER:&bold(){星降る夜を旅する少女}|CENTER:[[Lift Force]]|
+
+|&bold(){[[fatP]]}|久遠真雪|G-zass|
+
+|流通|CENTER:即売|CENTER:通販|CENTER:配信|
+|発売|CENTER:2014年4月26日||CENTER:2014年7月9日|
+|価格|CENTER:￥1,000|CENTER:￥1,300|CENTER:￥300|
+|サークル|>|CENTER:D.S.L||
+
+**CD紹介
+-fatPことamyu氏のサークル「D.S.L (Digital Sound Laboratory)」の10thCDアルバム。VOCALOIDアルバムとしては8作目。
+-ジャケットデザインはfuka氏が担当。
+-THE VOC@LOiD 超 M@STER 28（超ボーマス28）で頒布。
+-作者サイトで通信販売が行われている。
+-KARENTレーベルよりダウンロード販売が行われている。「Good morning, Good night. 夜 ver.」特集で配信された作品の1つ。&br()配信版はTr.1とTr.5の2曲入りとなっている。
+
+**曲目
+***CD版
++[[星降る夜を旅する少女]] / 使用ボーカロイド 初音ミクV3(Original,Sweet)
++accumulate mind / 使用ボーカロイド 巡音ルカ、鏡音レン(Power)、初音ミクV3(Sweet)
++FROATING DROPS / 使用ボーカロイド 初音ミクV3(Dark,Sweet)
++Lively Motion / 使用ボーカロイド 初音ミクV2(Solid,Sweet,Light)
++[[乾きの大地と銀の月夜]] / 使用ボーカロイド 鏡音リン(Original,Power)、鏡音レン(Power)、初音ミクV3(Sweet)
++Memorial Dispersion / 使用ボーカロイド 初音ミクV3(Dark)
++星降る夜を旅する少女 (instrumental)
++accumulate mind (instrumental)
++FROATING DROPS (instrumental)
++Lively Motion (instrumental)
++乾きの大地と銀の月夜 (instrumental)
++Memorial Dispersion (instrumental)
+
+***配信版
++[[星降る夜を旅する少女]] （feat. 初音ミク）
++乾きの大地と銀の月夜 （feat. 鏡音リン&鏡音レン）
+
+**リンク
+-[[特設ページ>>http://dslaboratory.com/vo28.html]]
+-[[作者サイト>>http://dslaboratory.com/]]
+-[[KARENT：「星降る夜を旅する少女」>>http://karent.jp/album/1511]]
+-[[KARENT：「Good morning, Good night. 夜ver.」特集ページ>>http://karent.jp/special/goodnight14]]
+
+**コメント
+- お、欲しいかも  -- 名無しさん  (2014-04-15 21:58:55)
+#comment()

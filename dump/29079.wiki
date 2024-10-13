@@ -1,0 +1,39 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm16127730)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Vogue>Vogue/CD]]|CENTER:&bold(){&}|CENTER:[[United]]|
+
+|&bold(){[[イママP>yksb]]}|[[emon（Tes.）]]|ゆうなつ|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|2011年11月19日||
+|価格|CENTER:￥1,000|CENTER:￥1,512（税込）|
+|サークル|>|CENTER:Bit-z|
+
+**CD紹介
+-イママPの2ndアルバム。全11曲。
+-ギターに[[口南P]]、ピアノに[[赤い彗星P]]、アレンジに[[emon>emon（Tes.）]]氏、ゲストボーカルでアマネ氏が参加。
+-デザインプロデュースをyunkel氏が担当。
+-THE VOC@LOiD M@STER 18（ボーマス18）にて頒布。
+-D-STAGEで委託販売が行われている。
+
+**曲目
++Prologue
++[[WAVES & VIBES>WAVES AND VIBES]]
++[[Across the sky]]
++クルクル
++[[Beautiful Sniper]] sunnyday mix
++Fairy Tale
++[[Glitter]]
++[[FANFAN GUMIX>fanfan-GUMIX]]
++Goodbye to you
++[[D.E.E.P. feat. Amane>>http://www.nicovideo.jp/watch/sm16195569]]
++[[Wonder]]
+
+**リンク
+-[[特設サイト>>http://imama-and.crap.jp/]]
+-[[D-STAGE>>https://d-stage.com/shop/detail.php?seq=28290]]
+
+**コメント
+#comment()

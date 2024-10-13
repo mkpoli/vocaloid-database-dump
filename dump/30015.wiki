@@ -1,0 +1,30 @@
+#right(){&furigana(きえてるほうしゃせん)&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1555_20140706225034_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[幕末浪漫]]|CENTER:&bold(){消えてる放射線}|CENTER:[[大夢宮]]|
+
+|&bold(){[[solpie]]}|
+
+発売：2014年7月30日
+価格：￥150（税込）
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：SolPie
+
+|&bold(){[[iTunes Storeで購入する>>https://itunes.apple.com/jp/album/floral-nuke-single/id902415001]]}|
+
+**CD紹介
+-solpie氏の1曲入り配信シングル。
+-表題曲は「[[消失的輻射]]」のタイトルでPIAPROで発表されている。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++消えてる放射線 (feat.初音ミク)
+
+**リンク
+-[[KARENT：「消えてる放射線」>>http://karent.jp/album/1555]]
+-[[PIAPRO>>http://piapro.jp/solpie]]
+
+**コメント
+#comment()

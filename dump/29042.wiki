@@ -1,0 +1,27 @@
+#right(){&furigana(ぼうしゅうのえとらんぜ)&furigana()【登録タグ:&tags() 】}
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Sandplay]]|CENTER:&bold(){忘愁のエトランゼ}|CENTER:[[Six Roses]]|
+
+|&bold(){[[Ebot]]}|
+
+発売：2013年12月31日
+価格：￥400
+流通：即売
+サークル：碧空
+
+**CD紹介
+-Ebot氏のCD作品。
+-手焼きシングルCDで少数頒布。
+-表題曲は動画やコンピCD収録のものとは異なるロングバージョン。
+-コミックマーケット85（C85）で頒布。
+
+**曲目
++[[忘愁のエトランゼ]] / ZOLA PROJECT
++忘愁のエトランゼ / KAITO V1
++忘愁のエトランゼ / オフボーカル
+
+**リンク
+-[[サークルサイト>>http://utakatasyachu.blog.fc2.com/]]
+
+**コメント
+#comment()

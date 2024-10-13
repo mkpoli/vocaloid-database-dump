@@ -1,0 +1,46 @@
+#right(){&furigana(ざんきょうP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/30598634" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/30598634">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-2012年3月、「[[リンポップ]]」にてボカロデビュー。
+-使用ボカロは今のところ、リン・レン・ミク・GUMI・りおん。
+-「[[隔離病棟]]」は反響が大きく、初の殿堂入りを達成。
+-アーティスト名は &bold(){708} 。
+
+**リンク
+-[[Twitter>>http://twitter.com/3ps708]]
+-[[PIAPRO>>http://piapro.jp/inoue01010]]
+-[[YouTube>>http://www.youtube.com/user/zankyou708]]
+
+**曲
+#list_by_tag(残響P,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(残響PCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|>|BGCOLOR(#808000):COLOR(#FFF):CENTER:&font(b,11pt){オリジナル曲}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm17117343)|&nicovideo(http://www.nicovideo.jp/watch/sm17144222)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm17583961)|&nicovideo(http://www.nicovideo.jp/watch/sm17971140)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm17988679)|&nicovideo(http://www.nicovideo.jp/watch/sm18481532)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm18718896)|&nicovideo(http://www.nicovideo.jp/watch/sm18988926)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm19408465)|&nicovideo(http://www.nicovideo.jp/watch/sm19674946)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm20258368)|&nicovideo(http://www.nicovideo.jp/watch/sm20645671)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm20765017)|&nicovideo(http://www.nicovideo.jp/watch/sm21208534)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm21384940)|&nicovideo(http://www.nicovideo.jp/watch/sm21406517)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm22098062)|&nicovideo(http://www.nicovideo.jp/watch/sm22359921)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm22537168)|&nicovideo(http://www.nicovideo.jp/watch/sm22765513)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm22878643)|&nicovideo(http://www.nicovideo.jp/watch/sm22953287)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm23278384)|&nicovideo(http://www.nicovideo.jp/watch/sm23371026)|
+
+**コメント
+- 残響Pさんのページできてたー!制作者さんありがとうございます!  -- 風華  (2014-05-05 21:06:39)
+- 知らない曲がおおかった  -- 名無しさん  (2014-08-01 06:29:54)
+- 愛辺恋辺がかわいい！  -- 名無しさん  (2015-03-09 16:15:11)
+- いっぱい非公開にされてる…  -- 名無しさん  (2015-05-21 19:43:29)
+- こーやってみるとすごいいっぱい上げてるね  -- 名無しさん  (2015-07-31 00:07:00)
+- 88と魑魅魍魎ダンスまだないんだ  -- 名無しさん  (2016-10-25 10:13:43)
+- ハイランダーシンドロームの追加お願いします！！  -- 名無しさん  (2017-02-24 13:35:31)
+- 作風の幅が広くて尊敬する  -- 名無しさん  (2018-05-26 18:07:13)
+- ハローモンテスキューっていうバンドやってたの知らなかった  -- 名無しさん  (2018-06-11 22:15:59)
+#comment()

@@ -1,0 +1,30 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm23305574)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Honesty Will Never Break You}|CENTER:-|
+
+|[[ジワタネホ]]|[[BATM]]|[[まつよ]]|[[なは]]|[[awomori]]|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2014年4月26日|CENTER:2014年4月27日|
+|価格|CENTER:￥500（税込）|CENTER:同左|
+|サークル|CENTER:現代社会の縮図（1日目）&br()I DO Loud（2日目）||
+
+**CD紹介
+-「THE VOC@LOiD 超 M@STER28」 にて頒布。
+-とらのあなで通販予定。
+-イラストは n嬢氏 が手掛ける。
+
+**曲目
++[[traveler>traveler/ジワタネホ]] / jiwatanneho
++Make Your Day / BATM
++Nostalgic Drive / まつよ
++『華』と『棘』 / なは
++散花の空に / awomori
+
+**リンク
+-[[特設サイト>>http://gendaisyakainosyuk.wix.com/h-w-n-b-y]]
+
+**コメント
+#comment()

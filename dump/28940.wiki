@@ -1,0 +1,35 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm15427170)
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[NewsPaper]]|CENTER:&bold(){Present}|CENTER:[[graffiti>graffiti/ねこぼーろCD]]|
+
+|&bold(){[[ねこぼーろ]]}|
+
+発売：2011年9月4日
+価格：￥500（税込）
+流通：即売
+
+**CD紹介
+-THE VOC@LOiD M@STER 17にて頒布。
+-500円という嬉しいPresent価格。
+
+**曲目
++プレゼント
++[[戯言スピーカー]]
++[[アイムファインダー]]
++[[樂壇]]
++飛行船で
++[[あかいなみだ]]
++[[マイラスト]]
++[[さよならいえるかな]]
++[[空音サイレンサ]]
++[[ふたりで。]]
++[[ハルニキミト]]
++またあした
++空色サイレンサ feat.まじ娘
+
+**リンク
+-[[作者マイリスト>>http://www.nicovideo.jp/mylist/13459994]]
+
+**コメント
+#comment()

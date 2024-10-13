@@ -1,0 +1,35 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+#ref(http://static.tumblr.com/3515ab24a8e2ea52d71b4a14f81cfe3d/cckhqml/avGn46ahr/tumblr_static_8yalgwcmbw0scow0w8s8sskkg.png,width=300,height=300)
+
+
+&nicovideo(http://www.nicovideo.jp/watch/sm23349839)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Have a sweet dream*]]|CENTER:&bold(){Sugarstick EP}|CENTER:[[clover>clover/CD]]|
+
+|&bold(){[[colate]]}|
+
+|流通|CENTER:即売|
+|発売|CENTER:2014年4月26日|
+|価格|CENTER:￥500（税込）|
+|サークル|CENTER:ショコラスムージー|
+
+**CD紹介
+-colate氏 の 2nd e.p. 。
+-『[[キャラメルタルト]]』『[[泣き虫病棟]]』に新曲を加えた全6曲を収録。
+-アートワークは はるこ氏 が手掛ける。
+-THE VOC@LOiD 超 M@STER 28（超ボーマス3）にてリリース。
+
+**曲目
++[[キャラメルタルト]] feat. GUMI
++Butterscotch feat. 初音ミク
++Teardrop Starlight feat. 初音ミク
++[[泣き虫病棟]] feat. 初音ミク
++Sky Trip feat. 雨歌エル
++Your Flavor -Miku Ver.-
+
+**リンク
+-[[特設ページ>>http://sugarstickep.tumblr.com/]]
+
+**コメント
+#comment

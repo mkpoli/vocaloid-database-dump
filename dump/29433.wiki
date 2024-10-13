@@ -1,0 +1,30 @@
+#right(){&furigana(しろいともしび)&furigana()【登録タグ:&tags() 】}
+#ref(http://karent.jp/npdca/1521_20140528142342_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[hymenoptera]]|CENTER:&bold(){しろいともしび}|CENTER:-|
+
+|&bold(){[[whoo]]}|
+
+発売：2014年6月2日
+価格：￥150
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：kise
+
+|&bold(){[[iTunes Storeで購入する>>https://itunes.apple.com/jp/album/shiroitomoshibi-feat.-hatsune/id883110895]]}|
+
+**CD紹介
+-whoo氏の配信シングル。
+-2014年1月に実施された『[[一番くじ 初音ミク ブランドコラボレーション MIKU wears MILK>>http://1kuji.bpnavi.jp/item/677/]]』のラストワン賞CD用に書き下ろしされた楽曲を収録。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++しろいともしび (feat.初音ミク)
+
+**リンク
+-[[作者HP>>http://s10rw.net/whoo/]]
+-[[KARENT：「しろいともしび」>>http://karent.jp/album/1521]]
+
+**コメント
+#comment()

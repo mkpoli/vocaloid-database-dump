@@ -1,0 +1,82 @@
+#right(){&furigana(くれいしーくれねーとくらっしゃーほんはー)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm18248453)|
+作詞：[[アキバヲタP]]
+作曲：[[アキバヲタP]]
+編曲：[[アキバヲタP]]
+イラスト：[[小動物]]
+唄：[[CUL]]
+
+**曲紹介
+>&bold(){タバコもう値上げしないでくれwwwwww金よこせww国wwwww}
+曲名：『&u(){クレイジーグレネードクラッシャーボンバー}』
+-なんかCUL使ってみた。あと激しいの書きたかったから書いた。ｲﾔｯﾎｳ（作者コメ転載）
+
+**歌詞
+
+先生、あの話ですが　決着はつきましたか
+先生、有耶無耶にせずに　ねぇどうか御鞭撻を
+
+Oh! Oh!　なんてこった　無難なナルシスト
+Oh! Oh!　なんだ一体　アンタどうしたいの
+
+先生、不適切なのは　客観視か冒涜か
+先生、不毛な論争以前に　喋りませんね
+
+Oh! Oh!　なんてこった　何故かロマンチスト
+Oh! Oh!　なんだ一体　アンタどうしたいの
+
+I just want to know is the truth
+拡声器は此処だ
+You have not only a lie
+さぁ開示しろ
+
+Baby,Crazy grenade　逃さないぜ此処から
+権化と憎悪のネジを　ぶっ飛ばす火薬を
+Baby,like a decoration　狂い辿ったミステイク
+空っぽの植木鉢に 水をやる Monkey
+
+先生、例の件ですが　また見てみぬ振りですか
+先生、マニフェストの意味　本当に知っていますか
+
+Oh! Oh!　なんてこった　愚劣なナルシスト
+Oh! Oh!　なんだ一体　アンタどうしたいの
+
+I just want to know is the truth
+マイクはONなんだぜ
+You have not only a lie
+さぁ声明を出せ
+
+Baby,Crazy grenade　外さないぜ此処なら
+無能が詰まった　サーバーは燃やすまでだ
+Baby,like a decoration　無駄が埋めてくリアリティ
+魚の居ない水槽を眺める Monkey
+
+Come on! Guitar!
+
+I just want to know is the truth
+拡声器は此処だ
+You have not only a lie
+さぁ開示しろ
+
+Baby,Crazy grenade　逃さないぜ此処から
+権化と憎悪のネジを　ぶっ飛ばす火薬を
+Baby,like a decoration　狂い辿ったミステイク
+おはようございます　能無し政治家
+
+Baby,like a decoration　狂い辿ったミステイク
+空っぽの植木鉢に水を撒く Monkey
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+**コメント
+#comment()
+
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)

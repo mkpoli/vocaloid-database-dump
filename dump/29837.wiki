@@ -1,0 +1,36 @@
+#right(){&furigana(なみだよとまれ) &furigana()【登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186129870.jpg,x=300,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm23867948)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Happy End Lala.]]|CENTER:&bold(){涙よ止まれ}|CENTER:-|
+
+|&bold(){[[もっふーP]]}|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|CENTER:2014年7月13日||
+|価格|CENTER:￥500|CENTER:￥746（税別）|
+|サークル|>|CENTER:ボカロ職人は眠らない|
+
+**CD紹介
+>&bold(){― 願わくば、愛の歌を。 ―}
+-もっふーP の 3rd mini album 。全4曲収録。
+-Tr.2のギターソロで[[らいだーP]]が、Tr.4のボーカルに歌い手の uuu（ウミ）氏 が参加。
+-THE VOC@LOiD M@STER 29（ボーマス29）にて頒布。
+-とらのあなで委託販売が行われている。
+
+**曲目
++[[獏と憂鬱]]
++そんな世界に花束を
++[[ライフイズビューティフル]]
++コイノハナ feat. uuu
+
+**リンク
+-[[ああ、憂鬱だ。（作者ブログ）>>http://moffmoffmoffmoff.blog.fc2.com/]]
+-[[Twitter>>http://twitter.com/moff_P]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/22/41/040030224194.html]]
+
+**コメント
+#comment

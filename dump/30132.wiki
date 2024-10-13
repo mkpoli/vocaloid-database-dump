@@ -1,0 +1,49 @@
+#right(){&furigana(DQNSTYLE2)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+//#ref(http://dl.dropboxusercontent.com/u/44424005/yankee2/img/jacket.png,width=300,height=300)
+
+|&nicovideo(http://www.nicovideo.jp/watch/sm24209718)|&youtube(https://www.youtube.com/watch?v=VTfxRcDI-2Q){342,187}|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[DQN STYLE]]|CENTER:&bold(){DQN STYLE2}|CENTER:-|
+
+|[[かごめP]]|[[Dixie Flatline]]|[[takamatt]]|[[うたたP]]|[[パトリチェフ]]|
+|[[tysP]]|[[konkon]]|[[Spacelectro]]|あおまふ|[[青屋夏生]]|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|>|CENTER:2014年8月17日|
+|価格|CENTER:￥1,000（税込）|CENTER:￥1,563（税抜）|
+|サークル|>|CENTER:PLANARIYA Recordings|
+
+**CD紹介
+>&bold(){夏だ！水着だ！リンちゃんだ！}
+-EDM 、 Raggae 、ソカ etc... 今回は海辺で聞きたい音楽が大集合！！豪華ボカロPと贈る、最高に DQN なサマーアンセムが完成！
+-全て書き下ろし、鏡音オンリーの新曲を9曲収録。
+-ジャケットイラストを [[Drahtpuppe]]氏 が、デザインを G.R.D.Garage. が手掛ける。
+-コミックマーケット86（C86）にてリリース。
+-とらのあなで委託販売が行われている。
+
+**曲目
++[[Welcome to DQN Style2]]　/　かごめP
++[[×××>xxx]]　/　Spacelectro
++[[心霊体験をしたアイツのその時の状況と心境がまったく伝わってこない]]　/　うたたP
++Scream from the Underground　/　tysP
++ROUTE23　/　パトリチェフ
++青　/　konkon
++ヒートアイランド　/　青屋夏生
++[[真夏の残像]]　/　takamatt
++ビッチーズ・オン・ザ・ラン　/　Dixie Flatline
+
+**リンク
+-[[特設サイト>>http://planariya.tumblr.com/DQNstyle2]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/23/32/040030233278.html]]
+
+**コメント
+- うたたPｗｗ  -- 名無しさん  (2014-08-17 10:57:11)
+- takamattか...うーん...  -- 名無しさん  (2014-08-17 11:13:35)
+- takamattか…買いだな…  -- 名無しさん  (2014-08-25 17:18:50)
+- このコンピシリーズはマジでレベル高いですよ。買い一択でいいのでは。  -- takoruka2  (2015-02-27 00:58:02)
+#comment()

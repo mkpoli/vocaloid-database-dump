@@ -1,0 +1,61 @@
+#right(){&furigana(TaKUK)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/41327656" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/41327656">【ニコニコ動画】</a></iframe>)
+
+**特徴
+作り手名：『&u(){TaKU.K}』
+//(&u(){作り手名の読み仮名を記入})
+-「&bold(){磔刑（たっけい）P}」とも呼ばれる。
+-2014年2月、「[[フランクリンの手記]]」にてボカロデビュー。
+-使用合成音声は、[[初音ミク]]・[[GUMI(SV)>>Megpoid]]・[[鏡音リン>>鏡音リン・レン]]・[[v flower]]。
+-次の曲が殿堂入りを達成している。&br()&list_by_tagsearch(TaKU.K,殿堂入り,sort=furigana,option=nolist,nolistspace=／,100)
+
+**リンク
+-[[雑記集（作者ブログ）>>http://blog.livedoor.jp/tkintheuk/]]
+-[[Twitter>>http://twitter.com/tk_k2b]]
+-[[PIAPRO>>http://piapro.jp/taku_k0910]]
+-[[YouTube>>https://www.youtube.com/channel/UC5EG7VTgfM1IEelDj1h-nYQ]]
+
+**曲
+#list_by_tagsearch(TaKU.K,100,sort=furigana2,errmsg=まだ曲が登録されていません。,and,100)
+
+**CD
+#list_by_tagsearch(TaKU.KCD,sort=furigana2,errmsg=まだCDが登録されていません。,and,100)
+
+**動画
+|>|BGCOLOR(#387272):COLOR(#FFF):CENTER:&font(b,11pt){オリジナル曲}|
+|&nicovideo(sm22860694)|&nicovideo(sm22918304)|
+|&nicovideo(sm22997303)|&nicovideo(sm23231783)|
+|&nicovideo(sm23389801)|&nicovideo(sm23455862)|
+|&nicovideo(sm23680068)|&nicovideo(sm24026544)|
+|&nicovideo(sm24092588)|&nicovideo(sm24449009)|
+|&nicovideo(sm25141285)|&nicovideo(sm25252660)|
+|&nicovideo(sm25735162)|&nicovideo(sm25919492)|
+|&nicovideo(sm25954150)|&nicovideo(sm25975078)|
+|&nicovideo(sm26595347)|&nicovideo(sm27351227)|
+|&nicovideo(sm27681384)|&nicovideo(sm28665218)|
+|&nicovideo(sm29728508)|&nicovideo(sm30871618)|
+|&nicovideo(sm31889054)|&nicovideo(sm33055059)|
+|&nicovideo(sm34242197)|&nicovideo(sm35788387)|
+|&nicovideo(sm36184141)|&nicovideo(sm36487579)|
+|&nicovideo(sm36625467)|&nicovideo(sm36672676)|
+|&nicovideo(sm36821714)|&nicovideo(sm36950645)|
+|&nicovideo(sm37254361)|&nicovideo(sm37948905)|
+|&nicovideo(sm43979078)||
+//|&nicovideo()|&nicovideo()|
+
+**関連タグ内の更新履歴
+#region(close,関連タグ内の更新履歴)
+関連タグ内の更新履歴
+※「TaKU.K」「TaKU.KCD」タグ内で最近編集やコメントのあった記事を新しい方から10件表示しています。
+#list_by_tagsearch(TaKU.K,TaKU.KCD,sort=timestamp,sort2=desc,errmsg=まだ曲、CDが登録されていません。,or,10)
+#endregion
+
+**コメント
+- 題名歌詞メロディ調教すべてセンスがいい！　新曲をいつでも待ちわびています♡  -- ミタカ猫背  (2014-09-19 09:32:47)
+- ワンダーランドの生活すごく素敵  -- 名無しさん  (2014-10-17 15:44:00)
+- 『アンベシル滑落奇譚』を追加して欲しいです！  -- 名無しさん  (2018-04-19 12:28:38)
+#comment()

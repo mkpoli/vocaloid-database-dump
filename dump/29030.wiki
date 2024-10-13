@@ -1,0 +1,44 @@
+#right(){&furigana(そうあいを)&furigana()【登録タグ:&tags() 】}
+
+&ref(https://cdn.karent.jp/thumb_a/003/2003_20170104203155_0400_0400.jpg,x=300,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm23344266)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[劣等感情回顧録]]|CENTER:&bold(){添う、愛を。}|CENTER:[[花を編む]]|
+
+|&bold(){[[やみくろ]]}|[[yksb]]|
+
+|流通|CENTER:即売|CENTER:委託|CENTER:配信|
+|発売|CENTER:2014年4月26日||CENTER:2017年1月30日|
+|価格|CENTER:￥1,000|CENTER:￥1,389（税別）||
+|サークル|CENTER:やみくろさん家のやみなべ屋|CENTER:やみなべ屋||
+
+**CD紹介
+-やみくろ氏の3rdアルバム。
+-アートワークを*たま*氏が、マスタリングを[[yksb]]氏が担当。yksb氏はTr.10でアレンジで参加している。
+-メインボーカルは巡音ルカ。
+-THE VOC@LOiD 超 M@STER 28（超ボーマス28）にて頒布。
+-とらのあなで委託販売が行われている。
+-KARENTレーベルよりダウンロード販売が行われている。「[[巡音ルカ8th Anniversary>>https://karent.jp/special/luka17]]」企画で配信された作品の一つ。
+
+**曲目
++[[なにものにも]]
++[[結う愛りぼん]]
++心の在り処
++prayer. [[ナナシシ]]（from [[世界の終わりに。]]）
++東三国二丁目
++[[からすがないたら。]]
++[[添う、愛を。]]
++キョウ
++ロストバッドエンド
++for life.
++ありったけの愛を。（BONUS TRACK）
+
+**リンク
+-[[作者ブログ>>http://ameblo.jp/yamichrome/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/20/91/040030209109.html]]
+-[[KARENT>>https://karent.jp/album/2003]]
+
+**コメント
+#comment()

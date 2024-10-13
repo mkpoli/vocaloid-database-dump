@@ -1,0 +1,34 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1551_20140627202339_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[コーヒーを淹れたなら]]|CENTER:&bold(){bus de sonoca}|CENTER:[[unreachable ambition>unreachable ambition/CD]]|
+
+|&bold(){[[As'257G]]}|楢崎このみ|飛高|
+
+発売：2014年7月16日
+価格：￥600
+流通：配信
+レーベル：KARENT
+ジャケット：As'257G
+
+|&bold(){[[iTunes Storeで購入する>>https://itunes.apple.com/jp/album/siesta-bus-ep/id897118543]]}|
+
+**CD紹介
+>ちいさなちいさな、すてきな恋のうた。やさしいきもちを、あなたにも。
+-Sound Team Layer-0のAs'257G氏の配信アルバム。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++[[bus de soneca]] （feat. MEIKO）
++空を見てる （feat. 初音ミク）
++aube （feat. MEIKO）
++[[優しい風]] （feat. 初音ミク）
++Sweet sugar pop (Sweet-Sweet Ver.) （feat. 初音ミク）
+
+**リンク
+-[[サークルサイト>>http://layer-0.shillest.net/]]
+-[[KARENT：「bus de sonoca」>>http://karent.jp/album/1551]]
+
+**コメント
+#comment()

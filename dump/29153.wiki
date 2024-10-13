@@ -1,0 +1,35 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+
+|BGCOLOR(#DDD):CENTER:　前作　|BGCOLOR(#B66):COLOR(#FFF):CENTER:&b(){　本作　}|BGCOLOR(#DDD):CENTER:　次作　|
+|CENTER:　[[Resonance II]]　|BGCOLOR(#FFF):CENTER:&font(b,14px){　Piece　}|CENTER:　[[法力国家ノ魔法使R]]　|
+
+|&b(){[[しえろP>しえろP（ショタエロイドP）]]}|
+
+|BGCOLOR(#FFF):　|BGCOLOR(#DDD):CENTER:即売|BGCOLOR(#DDD):CENTER:　委託　|
+|BGCOLOR(#DDD):CENTER:発売|CENTER:　2013年07月07日　|CENTER:　-　|
+|BGCOLOR(#DDD):CENTER:価格|CENTER:200円|CENTER:-|
+|BGCOLOR(#DDD):CENTER:備考|CENTER:&color(red){頒布終了}|CENTER:-|
+|BGCOLOR(#DDD):　サークル　|>|CENTER:ahp|
+
+**CD紹介
+-「[[Clepsanmia]]」「[[永遠の彼方]]」の未収録バージョンと、過去に発行したCDに収録されていないinstバージョンを収録。
+-ジャケットイラストはしえろP。
+
+**トラックリスト
+|BGCOLOR(#CCC):　Tr　|BGCOLOR(#CCC):　タイトル|BGCOLOR(#CCC):　歌|BGCOLOR(#CCC):　作詞|BGCOLOR(#CCC):　作曲　|
+|CENTER:01|　[[Clepsanmia]] [Remix]|　鏡音レンact.1　|　成澤悠斗　|　成澤悠斗　|
+|CENTER:02|　[[永遠の彼方]] [Remix]|　鏡音レンact.1　|　成澤悠斗|　成澤悠斗|
+|CENTER:03|　Clepsanmia [Remix] -instrumental-|　-|　-|　成澤悠斗|
+|CENTER:04|　永遠の彼方 [Remix] -instrumental-|　-|　-|　成澤悠斗|
+|CENTER:05|　Clepsanmia -instrumental-|　-|　-|　成澤悠斗|
+|CENTER:06|　おとのかけら -instrumental-|　-|　-|　成澤悠斗|
+|CENTER:07|　Clepsanmia [DIVA ver.] -instrumental-　|　-|　-|　成澤悠斗|
+|CENTER:08|　永遠の彼方 -instrumental-|　-|　-|　成澤悠斗|
+|CENTER:09|　Clepsanmia [A.R.T. Mix] -instrumental-|　-|　-|　成澤悠斗|
+
+**リンク
+[[ahp+way>>http://ahp.xii.jp/ahpway/]]
+
+
+**コメント
+#comment()

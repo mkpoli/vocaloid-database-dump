@@ -1,0 +1,51 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#amazon(B00MM1TDCG)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[RAMBLE！JUMBLE！]]|CENTER:&bold(){ReRections}|CENTER:[[SigSignature]]|
+
+|&bold(){[[シグナルP]]}|[[花束P]]|shino|Deadman|[[orange>orange/作り手]]|
+||もっちりオヤジ|nosuke|Miharu|Chisato|
+
+|流通|CENTER:即売|CENTER:同人|CENTER:配信|
+|発売|CENTER:2014年8月17日||CENTER:2015年2月25日|
+|価格|CENTER:￥1,000|CENTER:￥1,380（税別）|CENTER:￥1,800|
+|サークル|>|CENTER:twinkledisc||
+
+**CD紹介
+-Dios/シグナルPのVOCALOIDベストアルバム。
+-全17曲を再録音して収録。
+-ジャケットイラストを ume氏 が、デザインを [[NEGI]]氏 が手掛ける。
+-コミックマーケット86(C86)にてリリース。
+-Amazon、とらのあなで委託販売も行われる。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++[[カウントダウン]]
++[[トロピカル・サマー]]
++[[エンクロージャー>エンクロージャー（enclosure）]]
++[[会いたい]]
++[[UNBALANCE>UNBALANCE/シグナルP]]
++[[ラ・ピュセル]]
++[[ラビリンス>ラビリンス/シグナルP]]
++[[TABOO>TABOO/シグナルP]]
++[[革命>革命/シグナルP]]
++twinkle our days
++[[Transmit]]
++[[アドレサンス>アドレサンス（Adolescence）]]
++[[サンドリヨン>サンドリヨン（Cendrillon）]]
++[[CHU！して！]]
++[[ライバル>ライバル/シグナルP]]
++[[TIME & SPACE>Time&Space]]
++[[リンリンシグナル]]
+
+**リンク
+-[[twinkledisc（作者ホームページ）>>http://twinkledisc.net/index.htm]]
+-[[Amazon>>http://www.amazon.co.jp/dp/B00MM1TDCG]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/23/22/040030232206.html]]
+-[[KARENT：「ReRections」>>http://karent.jp/album/1693]]
+-[[iTunes Store>>http://itunes.apple.com/jp/album/rerections/id967893519]]
+
+**コメント
+- アドレサンスだ！これはかいます！！！  -- 良太  (2014-08-18 20:57:29)
+#comment()

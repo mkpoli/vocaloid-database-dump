@@ -1,0 +1,22 @@
+#right(){&furigana(さいなんP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/29329145" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/29329145">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-HMは「腰痛持ち」。
+-主にボカロ曲のカバーを専門にしているボカロP。
+-P名の由来は投稿者コメントが、毎回、作者が受けた災難について語られている事から。
+-使用するボーカロイドは猫村いろは、KAITO、KAITO V3、miki(体験版)、鏡音リン・レン、リン・レンAppend、Mew、歌愛ユキ。
+-感情豊かな調声に定評があり、KAITO V3を用いた「[[Palette>>Palette/ゆよゆっぺ]]」のカバーは、作者初の再生数５ケタを達成するなど、高い評価を受けた。
+
+**リンク
+-[[twitter>>https://twitter.com/_youtsuumochi]]
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm16779883)|&nicovideo(http://www.nicovideo.jp/watch/nm17995159)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm18403500)|&nicovideo(http://www.nicovideo.jp/watch/nm18555736)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm18833266)|&nicovideo(http://www.nicovideo.jp/watch/sm19688711)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm19762327)|&nicovideo(http://www.nicovideo.jp/watch/sm20060092)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm20102813)|&nicovideo(http://www.nicovideo.jp/watch/sm20450425)|
+
+**コメント
+#comment()

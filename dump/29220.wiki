@@ -1,0 +1,46 @@
+#right(){&furigana(Matica)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo_mylist(<iframe width="312" height="176" src="https://ext.nicovideo.jp/thumb_mylist/36041978" scrolling="no" style="border:solid 1px #CCC;" frameborder="0">【ニコニコ動画】mylist</a>)|
+
+**特徴
+>&bold(){Matica は　pen du matica　の　matica  です。}
+作り手名：『&u(){Matica}』(&u(){まてぃか})
+-作詞・作曲担当の &bold(){ShiroKuro}氏 と編曲担当の &bold(){Hasewo}氏 の2人組ユニット。
+-使用合成音声は[[初音ミク]]・[[鏡音リン・鏡音レン>鏡音リン・レン]]・[[杏音・鳥音>杏音鳥音]]。
+-2013年2月23日、「[[ツギハギとロジカル]]」でボカロデビュー。
+--デビュー作で初の殿堂入りを果たした。
+-現在殿堂入りを達成している曲は、「[[ツギハギとロジカル]]」「[[少女は夜と鮮やかに]]」
+
+**リンク
+//-個人HP、PIAPRO、YouTube等ある場合は、ここに。当wiki以外のサイトへリンクを貼る場合は必ず「>>」で別ウインドウでリンクしてください。
+-[[ニコニコ動画（ShiroKuro）>>https://www.nicovideo.jp/user/]]
+//-[[YouTube>>https://www.youtube.com/]]
+-[[PIAPRO>>https://piapro.jp/matica]]
+-[[Twitter（ShiroKuro）>>https://twitter.com/sr_kr_nk]]
+
+**曲
+#list_by_tag(Matica,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(MaticaCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+//|>|BGCOLOR(#b0c4de):COLOR(#FFF):CENTER:&font(b,11pt){オリジナル曲}|
+|&nicovideo(sm20168580)|&nicovideo(sm20468196)|
+|&nicovideo(sm22507463)|&nicovideo(sm22945128)|
+|&nicovideo(sm23335827)|&nicovideo(sm24277038)|
+|&nicovideo(sm24632511)||
+
+**関連タグ内の更新履歴
+#region(close,関連タグ内の更新履歴)
+関連タグ内の更新履歴
+※「Matica」「MaticaCD」タグ内で最近編集やコメントのあった記事を新しい方から10件表示しています。
+#list_by_tagsearch(Matica,MaticaCD,sort=timestamp,sort2=desc,errmsg=まだ曲、CDが登録されていません。,or,10)
+#endregion
+
+**コメント
+- この人すげえ  -- 名無しさん  (2015-03-09 16:19:47)
+#comment()

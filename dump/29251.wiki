@@ -1,0 +1,30 @@
+#right(){&furigana(なしょ)&furigana()【登録タグ:&tags() 】}
+|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/9841150" scrolling="no" style="border:solid 1px #CCC;" iframeborder="0"><a href="http://www.nicovideo.jp/mylist/9841150">【ニコニコ動画】</a></iframe>)|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/11571741" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/11571741">【ニコニコ動画】</a></iframe>)|
+
+**特徴
+-初投稿は、[[ナタP]] の楽曲『[[しあわせな王子]]（FULL)に絵をつけてみた』。
+-その後、[[合作動画>>http://www.nicovideo.jp/watch/sm10015871]] への参加や、[[yukkedoluce>黒髪ストロングP]]氏 の楽曲『[[林檎売りの泡沫少女]]』へのイラスト提供などで注目を集める。
+
+**リンク
+-[[twitter>>https://twitter.com/nazyorin]]
+-[[pixiv>>http://www.pixiv.net/member.php?id=1003065]]
+-[[piapro>>http://piapro.jp/poron]]
+-[[WhatApple（作者ブログ）>>http://nazyo.blog65.fc2.com/]]
+
+**曲
+#list_by_tag(なじょ,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(なじょCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画（再生数が多い順に8つ）
+|&nicovideo(sm19361252)|&nicovideo(sm10015871)|
+|&nicovideo(sm20050783)|&nicovideo(sm30476309)|
+|&nicovideo(sm23483993)|&nicovideo(sm6723010)|
+|&nicovideo(sm24408767)|&nicovideo(sm14973008)|
+
+**コメント
+- おおおおおっ！ついになじょさんのページが！＼(^o^)／大好きです！  -- さいのま  (2014-05-23 00:09:44)
+- なじょさん大好きです！もう絵が可愛すぎるー！！  -- リノ  (2015-07-16 18:17:14)
+- なじょさんが原点であり頂点…頼りになるぜ☆アルパーカーが大好きです！ずっと応援します！  -- Runa  (2017-01-06 20:12:43)
+#comment()

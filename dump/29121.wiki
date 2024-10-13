@@ -1,0 +1,24 @@
+#right(){&furigana(もももも)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/37112311" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/37112311">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-2012年11月、 『[[スノーワープ]]』 にてボカロデビュー。
+-使用ボカロは今のところ、ミク・ラピス・MAYU。
+
+**リンク
+-[[Twitter>>http://twitter.com/tententen1238]]
+-[[PIAPRO>>http://piapro.jp/tententen1238]]
+
+**曲
+#list_by_tag(もももも,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(ももももCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|>|BGCOLOR(#aa5580):COLOR(#FFF):CENTER:&font(b,11pt){オリジナル曲}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm20860166)|&nicovideo(http://www.nicovideo.jp/watch/sm20931121)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm21690728)|>|
+
+**コメント
+#comment()

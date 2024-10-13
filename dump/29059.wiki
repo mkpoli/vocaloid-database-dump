@@ -1,0 +1,43 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://blog-imgs-67.fc2.com/o/t/e/otetsu721/Rest250.jpg)
+
+|&nicovideo(http://www.nicovideo.jp/watch/sm23356067)|&youtube(http://youtu.be/CquoY8tP8qw){336,189}|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[ゆりかご>ゆりかご/CD]]|CENTER:&bold(){Rest}|CENTER:[[濫觴>濫觴/CD]]|
+
+|&bold(){[[otetsu]]}|[[riria009]]|
+
+|流通|CENTER:即売|CENTER:委託|CENTER:配信|
+|発売|CENTER:2014年4月26日・27日||CENTER:2014年4月28日|
+|価格|CENTER:￥1,000（税込）|CENTER:￥1,400（税別）|CENTER:￥600|
+|サークル|CENTER:ビラビラ百貨店（1日目）&br()えりまきトカゲ。（2日目）|CENTER:otetsu||
+
+**CD紹介
+-既存曲の『[[水面の桜、夢は逆夢]]』に、書き下ろしの新曲を加えた全5曲を収録。
+-ジャケットイラストは [[riria009]]氏 が手掛ける。
+-THE VOC@LOiD 超 M@STER 28（超ボーマス3）にてリリース。
+-インストCD『[[Gate>>http://www.nicovideo.jp/watch/sm23356146]]』と同時リリース。
+-Amazon、アニメイト、とらのあなで委託販売が行われる。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++mud
++[[孤独と疎外感だけが満ちている]]
++[[ERROR>ERROR/otetsu]]
++[[水面の桜、夢は逆夢]]
++罅
+
+**リンク
+-[[作者ブログ>>http://otetsu721.blog60.fc2.com/]]
+//-[[Amazon>>]]
+-[[アニメイト>>http://www.animate-onlineshop.jp/pn/%E3%80%90%E5%90%8C%E4%BA%BACD%E3%80%91otetsu/Rest/pd/1262391/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/20/19/040030201956.html]]
+-[[KARENT：「Rest」>>http://karent.jp/album/1497]]
+
+**コメント
+- おお  -- 名無しさん  (2014-04-20 18:36:39)
+- 水面の桜、夢は逆夢が入ってる・・・って５曲目なんて言う題名？  -- 良太  (2014-04-23 21:07:24)
+- ↑「ひび」  -- 名無しさん  (2014-04-23 22:05:56)
+- ↑分かりましたありがとうございます！ってまさか本人様！？  -- 良太  (2014-06-02 21:25:17)
+#comment()

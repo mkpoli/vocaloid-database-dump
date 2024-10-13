@@ -1,0 +1,42 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+
+|BGCOLOR(#d5aabf):COLOR(#d52b80):CENTER:&font(b,11pt){　クロスフェード　}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm23978260)|
+
+|BGCOLOR(#d5aabf):COLOR(#d52b80):CENTER:&font(b,11pt){　前作　}|BGCOLOR(#d5aabf):COLOR(#d52b80):CENTER:&font(b,11pt){　本作　}|BGCOLOR(#d5aabf):COLOR(#d52b80):CENTER:&font(b,11pt){　次作　}|
+|CENTER:-|CENTER:&bold(){-10-zyu}|CENTER:-|
+
+|[[アンビリカル244P]]|[[しけもく>夜はこれから]]|[[銀銀]]|[[カラスヤサボウ]]|[[noo]]|
+|[[きっきょん]]|[[ロリP]]|[[こがねむし]]|[[ミソナ]]|>|
+
+|BGCOLOR(#d5aabf):COLOR(#d52b80):CENTER:&font(b,11pt){　流通　}|BGCOLOR(#d5aabf):COLOR(#d52b80):CENTER:&font(b,11pt){　即売　}|
+|BGCOLOR(#d5aabf):COLOR(#d52b80):CENTER:&font(b,11pt){　発売　}|CENTER:　2014年7月13日　|
+|BGCOLOR(#d5aabf):COLOR(#d52b80):CENTER:&font(b,11pt){　価格　}|CENTER:　￥1,000（税込）　|
+|BGCOLOR(#d5aabf):COLOR(#d52b80):CENTER:&font(b,11pt){　サークル　}|CENTER:　ボカロ職人は眠らない　|
+
+**CD紹介
+-総勢9人によるノンコンセプトコンピCD。書き下ろしの全9曲を収録。
+-ジャケットイラストは [[たいそす]]氏 が手掛ける。
+-THE VOC@LOiD M@STER 29（ボーマス29）にてリリース。
+
+**曲目
+|BGCOLOR(#d5aabf):COLOR(#d52b80):CENTER:&font(b,11pt){　Track　}|BGCOLOR(#d5aabf):COLOR(#d52b80):CENTER:&font(b,11pt){　曲名　}|BGCOLOR(#d5aabf):COLOR(#d52b80):CENTER:&font(b,11pt){　楽曲制作者　}|
+|BGCOLOR(#d5aabf):COLOR(#d52b80):CENTER:&font(b,11pt){ 01 }|CENTER:ネガピアス|CENTER:ロリP feat. GUMI|
+|BGCOLOR(#d5aabf):COLOR(#d52b80):CENTER:&font(b,11pt){ 02 }|CENTER:Reckless|CENTER:しけもく feat. GUMI|
+|BGCOLOR(#d5aabf):COLOR(#d52b80):CENTER:&font(b,11pt){ 03 }|CENTER:X.Y.Z|CENTER:カラスヤサボウ feat. GUMI|
+|BGCOLOR(#d5aabf):COLOR(#d52b80):CENTER:&font(b,11pt){ 04 }|CENTER:Heart|CENTER:noo feat. 初音ミク|
+|BGCOLOR(#d5aabf):COLOR(#d52b80):CENTER:&font(b,11pt){ 05 }|CENTER:今宵、宴ノ夜ニアラマシヲ|CENTER:こがねむし feat. 初音ミク|
+|BGCOLOR(#d5aabf):COLOR(#d52b80):CENTER:&font(b,11pt){ 06 }|CENTER:それはきっと真夏の幻|CENTER:アンビリカル244P feat. 初音ミク|
+|BGCOLOR(#d5aabf):COLOR(#d52b80):CENTER:&font(b,11pt){ 07 }|CENTER:グライダー|CENTER:きっきょん feat. 初音ミク|
+|BGCOLOR(#d5aabf):COLOR(#d52b80):CENTER:&font(b,11pt){ 08 }|CENTER:[[ウォーキングデッドマン]]|CENTER:銀銀 feat. 鏡音リン|
+|BGCOLOR(#d5aabf):COLOR(#d52b80):CENTER:&font(b,11pt){ 09 }|CENTER:dazzle|CENTER:ミソナ feat. 鏡音リン|
+
+**リンク
+-[[特設サイト>>http://anbilip.wix.com/-10-zyu]]
+
+**コメント
+- うぉおお通販あるのかな！！  -- 名無しさん  (2014-07-12 13:32:51)
+- カラスヤサボウさんがGUMI…！？初じゃない！？  -- 名無しさん  (2014-07-12 20:33:07)
+- すごい良いCDで大満足でした...！でもカラスヤサボウさんGUMIじゃなくてゆかりっぽかったぞ  -- 名無しさん  (2014-10-21 06:25:06)
+- ↑どちらにせよ、珍しいよね…  -- ↑2の人  (2014-10-25 10:46:11)
+#comment()

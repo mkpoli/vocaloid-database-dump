@@ -1,0 +1,37 @@
+#right(){&furigana(とうかきょうらん)&furigana()【登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186148901.jpg,x=300,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm23322063)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){桃花狂乱}|CENTER:-|
+
+|&bold(){[[もももも]]}|
+
+|流通|CENTER:即売|
+|発売|CENTER:2014年4月27日|
+|価格|CENTER:￥1,000（税込）|
+|サークル|CENTER:もももも香る蜜は種|
+
+**CD紹介
+-もももも氏 の 1stミニアルバム。
+-デビュー作の「[[スノーワープ]]」からの既存曲に、書き下ろしの新曲を加えた全7曲を収録。
+-ジャケットイラストを ソウノ氏 が、デザイン・クロスフェードを [[まきのせな]]氏 が手掛ける。
+-THE VOC@LOiD 超 M@STER 28（超ボーマス3）にてリリース。
+
+**曲目
++エリスの篝火 feat. 蒼姫ラピス
++[[スノーワープ]] feat. 初音ミク
++[[たなごころ]] feat. 蒼姫ラピス
++[[ラムネビーダマ]] feat. 蒼姫ラピス
++クロノグラフ feat. 蒼姫ラピス
++marble feat. 蒼姫ラピス
++[[雨桜>雨桜/もももも]] feat. MAYU
+
+**リンク
+-[[Twitter>>http://twitter.com/tententen1238]]
+
+**コメント
+- お願いします通販でもいいので再販してください…！  -- 名無しさん  (2018-06-18 22:29:10)
+#comment()

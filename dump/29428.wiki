@@ -1,0 +1,35 @@
+#right(){&furigana()&furigana()【登録タグ:&tags()】}
+&nicovideo(http://www.nicovideo.jp/watch/sm13216678)
+作詞：[[peakedyellow]]
+作曲：[[peakedyellow]]
+編曲：[[peakedyellow]]
+唄：歌愛ユキ、peakedyellow
+
+**曲紹介
+-あけましておめでとうございます。本年もイントロは長ぇです。(作者コメより転載)
+
+**歌詞
+（動画より書き起こし）
+青：作者、赤：歌愛ユキ、黒：両方
+
+&color(blue){夢を見ている　夢を見ている}
+&color(blue){夢を見ている　夢を見ている}
+&color(blue){頭の中で　花が咲いている}
+
+&color(blue){目を閉じている　誰かシテいる}
+&color(blue){目を閉じている　誰かシテいる}
+&color(blue){頭の中で　花が咲いている}
+
+&color(red){「お花が咲いたよ？」×４}
+
+&color(blue){少女が踊る　下着が透ける}
+&color(blue){金髪が揺れる　金髪が揺れている}
+&color(blue){少女が踊る　下着が濡れる}
+&color(blue){頭の上で　花が咲いている}
+
+(間奏)
+
+「お花が咲いたよ？」×２６
+
+**コメント
+#comment()

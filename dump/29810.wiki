@@ -1,0 +1,34 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm17543129)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Fragment of life}|CENTER:[[ナミダスケープ]]|
+
+|&bold(){[[きっきょん]]}|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2012年4月28日・29日||
+|価格|CENTER:￥500|CENTER:￥762（税別）|
+|サークル|CENTER:！？|CENTER:micro magic|
+
+**CD紹介
+-きっきょん氏の1stミニアルバム。
+-THE VOC@LOID 超 M@STER 20（超ボーマス20）で頒布。
+-とらのあなで委託販売が行われていた。
+
+**曲目
++&nowiki(){- }TO RISE -
++[[サヨナラリグレット]]
++[[レビテトガール]]
++[[リズミックファンタジア]]
++[[夏の魔法>夏の魔法/きっきょん]]
++[[未来色サーチライト]]
++あの青の向こう側にあるもの
+
+**リンク
+-[[作者ブログ>>http://micro-magic.jugem.jp/]]
+-[[作者サイト>>http://micromagicx.com/saito/-_micro_magic_-.html]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/03/80/040030038053.html]]
+
+**コメント
+#comment()

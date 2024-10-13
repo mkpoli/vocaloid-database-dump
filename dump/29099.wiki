@@ -1,0 +1,39 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm17529874)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[&]]|CENTER:&bold(){United}|CENTER:[[ラストダンス>ラストダンス/CD]]|
+
+|&bold(){[[イママP>yksb]]}|[[emon（Tes.）]]|[[ミツバチP]]|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|2012年4月28・29日||
+|価格|CENTER:￥1,000|CENTER:￥1,512（税込）|
+|サークル|CENTER:イマエモン|CENTER:Bit-z|
+
+**CD紹介
+-イママPの3rdアルバム。全11曲。
+-ゲストで[[口南P]]、[[整列P]]、[[emon>emon（Tes.）]]氏、[[ミツバチP]]、sirayuki_氏、しじみ氏が参加。
+-デザインを雷夢氏が担当。
+-THE VOC@LOiD 超 M@STER 20（超ボーマス20）にて頒布。
+-D-STAGEで委託販売が行われている。
+
+**曲目
++C'mon C'mon
++[[ユニゾン]]
++[[STAR RIDER]]
++[[秘密のカケラ]]
++[[Brilliant>Brilliant/yksb]]
++[[泡沫>泡沫/yksb]]
++[[DIVE!!]]
++[[アイリス>アイリス/yksb]]
++[[Wonder]] -emon Remix-
++泡沫 -Honey mix-
++ユニゾン -sirayuki×しじみ-
+
+**リンク
+-[[D-STAGE>>https://d-stage.com/shop/detail.php?seq=28291]]
+
+**コメント
+- 最高だわ&amp;#9825;☆マジいいんですん(*^▽^*)w  -- アヤノ  (2014-05-29 21:00:05)
+#comment()

@@ -1,0 +1,41 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+|&nicovideo(http://www.nicovideo.jp/watch/sm24905826)|&youtube(http://www.youtube.com/watch?v=ZleUUOkbKj4)|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Doppelganger>Doppelganger/CD]]|CENTER:&bold(){CLAIMS from LR}|CENTER:[[憂いの雨>憂いの雨/CD]]|
+
+|&bold(){[[ゆうP]]}|
+
+||CENTER:即売|CENTER:委託|CENTER:通販|
+|発売|CENTER:2013年11月17日|CENTER:2013年11月||
+|価格|CENTER:￥1,000|CENTER:￥1,300（税別）|CENTER:￥1,000|
+|サークル|CENTER:|CENTER:ゆうP|CENTER:|
+
+**CD紹介
+>唱うR、叫ぶL…。
+-音楽サークル「P∴Rhythmatiq」でも活動するゆうPのソロアルバム。
+-ヘヴィでラウドな楽曲がメインとなっている。
+-ジャケットイラストはまぬるねこ氏。
+-THE VOC@LOiD M@STER 27（ボーマス27）で頒布。
+-メロンブックスによるCDの委託販売とダウンロード販売、自サイトでの通販が行われている。
+
+**曲目
++no Core – intro
++ヤサシイ嘘
++Mebius Hole
++Hermit Crab
++反射湖
++Defeat
++seek me
++harmonize
++TOO LATE
++[[Doppelganger>Doppelganger/ゆうP]]
+
+**リンク
+-[[作者サイト>>http://www.p-pr.info/]]
+-[[作品ページ>>http://p-pr.info/ppcd1305/]]
+-[[メロンブックス>>http://shop.melonbooks.co.jp/shop/sp_213001014543_up_claims.php?LIVRET=off]]
+-[[メロンブックスDL>>http://www.melonbooks.com/index.php?main_page=product_info&products_id=IT0000168272]]
+
+**コメント
+#comment()

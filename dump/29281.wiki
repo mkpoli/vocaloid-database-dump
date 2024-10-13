@@ -1,0 +1,30 @@
+#right(){&furigana(かげつあやかしあらためえまき)&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1503_20140425203625_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Unlimited possibilities>Unlimited possibilities/CD]]|CENTER:&bold(){華月怪改絵巻　〜かげつあやかしあらためえまき〜}|CENTER:[[不確定性ディストピア>不確定性ディストピア/CD]]|
+
+|&bold(){[[As'257G]]}|水無月龍那|
+
+発売：2014年5月14日
+価格：￥300
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：Hach
+
+|&bold(){[[iTunes Storeで購入する>>https://itunes.apple.com/jp/album/kagetsu-ayakashi-aratame-emaki/id872884889]]}|
+
+**CD紹介
+-Sound Team Layer-0のAs'257G氏の配信アルバム。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++[[華月怪改絵巻　〜かげつあやかしあらためえまき〜>華月怪改絵巻]] （feat. KAITO＆がくっぽいど＆鏡音レン）
++[[道中今日も日本晴れ♪]] （feat. 鏡音リン）
+
+**リンク
+-[[サークルサイト>>http://layer-0.shillest.net/]]
+-[[KARENT：「華月怪改絵巻　〜かげつあやかしあらためえまき〜」>>http://karent.jp/album/1503]]
+
+**コメント
+#comment()

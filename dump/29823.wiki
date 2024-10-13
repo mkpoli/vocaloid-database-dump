@@ -1,0 +1,46 @@
+#right(){&furigana(のんふぃくしょんめもりーず)&furigana()【登録タグ:&tags() 】}
+//#ref(http://img.toranoana.jp/popup_img/04/0030/21/68/040030216874-1p.jpg,width=300,height=300)
+
+&ref(https://static.tumblr.com/d26ffb87cb2f84414b1a1caea43c560b/8xuntzw/CT8n7ag5z/tumblr_static_cmnbpupojxck8s0k8owk4kwss.png,x=300,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm23866759)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Jukebox e.p.]]|CENTER:&bold(){ノンフィクションメモリーズ}|CENTER:-|
+
+|&bold(){[[綾葉（爽P）]]}|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|CENTER:2014年7月13日|CENTER:2014年7月下旬|
+|価格|CENTER:￥1,000（税込）|CENTER:￥1,500（税抜）|
+|サークル|>|CENTER:あやとり|
+
+**CD紹介
+>&bold(){戻れない昨日へ、さよなら告げなきゃ。}
+-爽P こと 綾葉氏 の、約3年の集大成となる 1st album 。
+-これまでにリリースした既存曲からの選りすぐりに書き下ろしの新曲を加えた全13曲を収録。
+-アートワークを 水溜鳥氏 が、デザインを 荒木悟氏 が手掛ける。マスタリングは [[かごめP]] 。
+-THE VOC@LOiD M@STER 29（ボーマス29）にてリリース。通販の予定もあり。
+
+**曲目
++[[Wake me up!]]
++[[3カウント]]
++[[Squall>Squall/綾葉（爽P）]]
++[[マジックミラーシンドローム]]
++[[魔法]]
++[[夜更かしのすゝめ]]
++告白
++オリオンブルーに染められて
++[[ゴーストラプソディ]]
++[[林檎の唄]]
++[[迷い猫の名は]]
++[[井の中の蛙、大海を知らず。]]
++世界の終わりの翌日に 
+
+**リンク
+-[[特設ページ>>http://non-fiction-memories.tumblr.com/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/21/68/040030216874.html]]
+
+**コメント
+- 欲しい、『魔法』が入ってる  -- 良太  (2014-07-14 23:46:31)
+#comment()

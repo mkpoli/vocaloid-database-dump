@@ -1,0 +1,45 @@
+#right(){&furigana(うみをしらないこどもたち)&furigana()【登録タグ:&tags() 】}
+//#ref(http://blog-imgs-64.fc2.com/p/e/p/peperonp/jac.jpg,width=300,height=300)
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186127535.jpg,x=300,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm24167822)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Peridot]]|CENTER:&bold(){海を知らない子供達}|CENTER:[[Flowords-フラワーズ-]]|
+
+|&bold(){[[ぺぺろんP]]}|[[御厨わた]]|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|CENTER:2014年8月17日||
+|価格|CENTER:￥1,000（税込）|CENTER:￥1,200（税別）|
+|サークル|>|CENTER:陰謀派スライダー|
+
+**CD紹介
+-「海」をテーマにした楽曲で構成された、GUMI・リンをフィーチャーしたコンセプトCD。
+-5曲（＋それぞれのインスト）の収録曲は全て書き下ろし。16Pの小説付き・紙ジャケット仕様。
+-アートワークは [[御厨わた]]氏 が手掛ける。
+-C86（コミックマーケット86）にてリリース。
+-とらのあなで委託販売が行われている。
+
+**曲目
++真夏の追憶
++Marine Snow
++Lament Blue
++あなたがいた海
++海を知らない子供達
++真夏の追憶（inst.）
++Marine Snow（inst.）
++Lament Blue（inst.）
++あなたがいた海（inst.）
++海を知らない子供達（inst.）
+
+**リンク
+-[[ぺっぺろん（作者ブログ）>>http://peperonp.blog59.fc2.com]]
+-[[Twitter>>http://twitter.com/NjPeperon]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/23/04/040030230444.html]]
+
+**コメント
+- おおお？！！  -- 名無しさん  (2014-08-04 01:10:38)
+- 前に買ったんだけど６曲目が抜いている、「シャンデリエ」が入っていました！  -- 名無しさん  (2015-09-08 23:57:43)
+#comment()

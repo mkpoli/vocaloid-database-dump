@@ -1,0 +1,39 @@
+#right(){&furigana(かんじょうれーるうぇい) &furigana()【登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186125888.jpg)
+
+|BGCOLOR(#80aa55):COLOR(#FFF):CENTER:&font(b,11pt){　クロスフェード　}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm23373755)|
+
+|BGCOLOR(#80aa55):COLOR(#FFF):CENTER:&font(b,11pt){　前作　}|BGCOLOR(#80aa55):COLOR(#FFF):CENTER:&font(b,11pt){　本作　}|BGCOLOR(#80aa55):COLOR(#FFF):CENTER:&font(b,11pt){　次作　}|
+|CENTER:-|CENTER:&bold(){感情レールウェイ}|CENTER:-|
+
+|[[colate]]|[[想太]]|[[Task>Task/作り手]]|[[noo]]|[[破P]]|[[村人P]]|[[あをこ]]|[[あす缶]]|[[148cm]]|
+
+|BGCOLOR(#80aa55):COLOR(#FFF):CENTER:&font(b,11pt){　流通　}|BGCOLOR(#80aa55):COLOR(#FFF):CENTER:&font(b,11pt){　即売　}|BGCOLOR(#80aa55):COLOR(#FFF):CENTER:&font(b,11pt){配信}|
+|BGCOLOR(#80aa55):COLOR(#FFF):CENTER:&font(b,11pt){　発売　}|CENTER:　2014年4月26日　||
+|BGCOLOR(#80aa55):COLOR(#FFF):CENTER:&font(b,11pt){　価格　}|CENTER:　￥500（税込）　|CENTER:￥300|
+|BGCOLOR(#80aa55):COLOR(#FFF):CENTER:&font(b,11pt){　サークル　}|>|CENTER:　感情レールウェイ　|
+
+**CD紹介
+>&bold(){駅に着いたときに思い出したくなる楽曲と、寄り添うパスケースがあったら素敵だと思いませんか？}
+-楽師6人と絵師3人による、山手線の駅をモチーフにしたコンピレーションアルバム。全6曲を収録。
+-山手線6駅をモチーフにした、描き下ろしイラストのパスケースも同時販売される。
+-THE VOC@LOiD 超 M@STER 28（超ボーマス3）にてリリース。
+-BOOTHでダウンロード販売が行われている。
+
+**曲目
+|BGCOLOR(#80aa55):COLOR(#FFF):CENTER:&font(b,11pt){　Track　}|BGCOLOR(#80aa55):COLOR(#FFF):CENTER:&font(b,11pt){　曲名　}|BGCOLOR(#80aa55):COLOR(#FFF):CENTER:&font(b,11pt){　楽曲制作者　}|BGCOLOR(#80aa55):COLOR(#FFF):CENTER:&font(b,11pt){　絵師　}|BGCOLOR(#80aa55):COLOR(#FFF):CENTER:&font(b,11pt){　担当駅　}|
+|BGCOLOR(#80aa55):COLOR(#FFF):CENTER:&font(b,11pt){ 01 }|CENTER:[[Frill Magic]]|CENTER:colate|CENTER:148cm|CENTER:　秋葉原駅　|
+|BGCOLOR(#80aa55):COLOR(#FFF):CENTER:&font(b,11pt){ 02 }|CENTER:はばたいて|CENTER:想太|CENTER:あす缶|CENTER:　池袋駅　|
+|BGCOLOR(#80aa55):COLOR(#FFF):CENTER:&font(b,11pt){ 03 }|CENTER:[[新宿シック]]|CENTER:Task|CENTER:あす缶|CENTER:　新宿駅　|
+|BGCOLOR(#80aa55):COLOR(#FFF):CENTER:&font(b,11pt){ 04 }|CENTER:小さな枠、原宿にて|CENTER:noo|CENTER:あをこ|CENTER:　原宿駅　|
+|BGCOLOR(#80aa55):COLOR(#FFF):CENTER:&font(b,11pt){ 05 }|CENTER:[[誰かが世界を救うとき]]|CENTER:破P|CENTER:148cm|CENTER:　渋谷駅　|
+|BGCOLOR(#80aa55):COLOR(#FFF):CENTER:&font(b,11pt){ 06 }|CENTER:[[黄昏切符]]|CENTER:ラムネ|CENTER:あをこ|CENTER:　品川駅　|
+
+**リンク
+-[[特設ページ>>http://kanjourailway.cz.cc/]]
+-[[BOOTH>>http://kanjourailway.booth.pm/items/17432]]
+
+**コメント
+#comment

@@ -1,0 +1,35 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/28437745" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/28437745">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-ボカロにハマって2011年10月からDTM開始。
+
+**リンク
+-[[PIAPRO>>http://piapro.jp/inkonoatama3600 ]]
+-[[pixiv>>http://www.pixiv.net/member.php?id=3211280 ]]
+-[[twitter>>http://twitter.com/gunyo2525 ]]
+-[[YouTube>>http://www.youtube.com/user/bowangunyon/videos]]
+-[[note>>http://note.mu/gunyo010 ]]
+
+**曲
+#list_by_tag(ぐにょ,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(ぐにょCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm16021400)|&nicovideo(http://www.nicovideo.jp/watch/sm17213238)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm17669937)|&nicovideo(http://www.nicovideo.jp/watch/sm18002429)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm18563163)|&nicovideo(http://www.nicovideo.jp/watch/sm18701838)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm18974554)|&nicovideo(http://www.nicovideo.jp/watch/sm19365711)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm19587181)|&nicovideo(http://www.nicovideo.jp/watch/sm19871897)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm20286981)|&nicovideo(http://www.nicovideo.jp/watch/sm20656420)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm21454250)|&nicovideo(http://www.nicovideo.jp/watch/sm21619883)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm22703938)|&nicovideo(http://www.nicovideo.jp/watch/sm22906797)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm23880637)||
+
+**コメント
+- ああ＾～やっぱり好きですわ＾～  -- 名無しさん  (2014-08-02 21:49:22)
+- 福寿草大好き！  -- 名無しさん  (2014-08-21 23:44:15)
+- 福寿草今更ながら知ったけど好きになったわ  -- 名無しさん  (2016-01-21 18:46:51)
+#comment()

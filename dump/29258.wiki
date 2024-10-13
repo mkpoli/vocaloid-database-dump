@@ -1,0 +1,60 @@
+#right(){&furigana(MJQ)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/32272766" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/32272766">【ニコニコ動画】</a></iframe>)|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/32272834" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/32272834">【ニコニコ動画】</a></iframe>)|
+|&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/32273127" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/32273127">【ニコニコ動画】</a></iframe>)||
+
+**特徴
+作り手名：『&u(){MJQ}』(&u(){えむじぇいきゅー})
+-フィリピン在住のボカロP。
+-ハンドルネームの「MJQ」は「Martin John Q」の略。
+-シューゲイザー、ハウス、バラード、ロック等、様々なジャンルの曲を手掛ける。
+-使用するボーカロイドは、初音ミク（V3も）、巡音ルカ（V4Xも）、鏡音リン・レン、IA、ギャラ子、&br()GUMI V3、MEIKO V3。
+-基本は英語曲を投稿しているが、日本語やタガログ語の楽曲を発表する事も。
+-音作りはもちろん調声のレベルも高く、国内外を問わず高い評価を受けている。
+
+**リンク
+-[[YouTube>>https://www.youtube.com/playlist?list=PL6ABDDC95E8E09130]]
+-[[SoundCloud>>https://soundcloud.com/mjq3690]]
+-[[PIAPRO>>http://www.piapro.jp/MJQ3690]]
+-[[iTunes>>https://itunes.apple.com/us/artist/mjq/id56606561]]
+-[[twitter>>https://twitter.com/mjq3690]]
+-[[Facebook>>https://www.facebook.com/mjqvocpro]]
+
+**曲
+#list_by_tagsearch(MJQ,sort=furigana2,errmsg=まだ曲が登録されていません。,and,100)
+
+**CD
+#list_by_tagsearch(MJQCD,sort=furigana2,errmsg=まだCDが登録されていません。,and,100)
+
+**動画
+|>|BGCOLOR(lightblue):COLOR(#FFF):CENTER:&font(b,11pt){オリジナル曲}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm13414024)|&nicovideo(http://www.nicovideo.jp/watch/sm13504000)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm13547903)|&nicovideo(http://www.nicovideo.jp/watch/sm13719730)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm13554720)|&nicovideo(http://www.nicovideo.jp/watch/sm13852318)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm14346203)|&nicovideo(http://www.nicovideo.jp/watch/sm14931109)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm14993216)|&nicovideo(http://www.nicovideo.jp/watch/sm15339486)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm15405357)|&nicovideo(http://www.nicovideo.jp/watch/sm15515502)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm15907230)|&nicovideo(http://www.nicovideo.jp/watch/sm16677347)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm16706485)|&nicovideo(http://www.nicovideo.jp/watch/sm16761826)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm16834135)|&nicovideo(http://www.nicovideo.jp/watch/sm17113117)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm17648990)|&nicovideo(http://www.nicovideo.jp/watch/sm17943262)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm18000644)|&nicovideo(http://www.nicovideo.jp/watch/sm18234592)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm18371483)|&nicovideo(http://www.nicovideo.jp/watch/sm18682319)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm18879363)|&nicovideo(http://www.nicovideo.jp/watch/sm19694795)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm20204782)|&nicovideo(http://www.nicovideo.jp/watch/sm20815766)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm21053898)|&nicovideo(http://www.nicovideo.jp/watch/sm21271869)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm21312172)|&nicovideo(http://www.nicovideo.jp/watch/sm21414406)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm21428599)|&nicovideo(http://www.nicovideo.jp/watch/sm21642659)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm21730457)|&nicovideo(http://www.nicovideo.jp/watch/sm21766948)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm21861112)|&nicovideo(http://www.nicovideo.jp/watch/sm22287363)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm22352169)|&nicovideo(http://www.nicovideo.jp/watch/sm22552178)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm22735202)|&nicovideo(http://www.nicovideo.jp/watch/sm22910425)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm23256885)|&nicovideo(http://www.nicovideo.jp/watch/sm23448752)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm23826319)||
+
+**コメント
+- Sharing The Worldの歌声アレンジがかなり上手だった。  -- uni  (2018-10-17 22:04:35)
+#comment()

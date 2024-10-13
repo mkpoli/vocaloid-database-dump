@@ -1,0 +1,154 @@
+#right(){&furigana(ろっふいやーのかいふつ)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo(http://www.nicovideo.jp/watch/sm24082892)
+作詞：[[前略P]]
+作曲：[[前略P]]
+編曲：[[前略P]]
+作画：[[猿吉]]（[[X(Twitter)>>https://twitter.com/SARUKlCHl]]）
+動画：[[アキバヲタP]]
+唄：GUMI 
+
+**曲紹介
+>&bold(){今とは違う、忙しくのんびりしている世界のお話です。&br()&br()とある小さな街には、恐ろしい怪物が住まうと言う噂がありました。&br()誰にも気付かれない怪物は、今日も街を散歩し&br()気ままに眠り&br()恋い焦がれた少女に自分の存在を気付かせて欲しいと&br()神様に毎日手紙を書いていました。}
+曲名：『&u(){ロップイヤーの怪物}』(&u(){ろっぷいやーのかいぶつ})
+-前略P の26作目。夭折した作家レミナ・ヴェルミラの作品群を綴る「Rabbit's Birthday E.P.(児童文学)」シリーズの3作目。
+-さあさあ皆様、便箋のご用意を。怪物は手紙で泣いてしまう程泣虫でございます…。そんなお話。（作者コメ転載）
+-私の手紙は、声をなくした事等いともたやすく忘れさせた。（シリーズマイリストコメントより転載）
+-主人公の名前は「トット」。
+-PV中に、Pの[[過去作の>はなうりのうた]][[キャラクター>マチルダと雨]]が登場している。&br()「つまり、みんな同じ世界にいるって事ですね。これはとある作家のお話なのになんでみんないるんでしょうね…ウフフ」（[[Twitter>>https://twitter.com/ZenryakuP/status/492953176207675393]]より転載）
+
+**歌詞
+&small(){&font(i,#696969){It is the story of the people world that are living at yesterday than modern.}}
+&small(){&font(i,#696969){There was a rumor in certain small town.}}
+&small(){&font(i,#696969){"That seems there are phantom that is not visible to the eye"}}
+&small(){&font(i,#696969){"That seems to be deprived of the soul and they look at him"}}
+&small(){&font(i,#696969){This story is a little sad every day of the phantom.}}
+
+待ち続け待ち続け　汽車は夜に消えていく
+またいつかまたいつか　あの丘へ会いに行こう
+
+&small(){&font(i,#696969){While a boy was waiting, the train went in the distance.}}
+&small(){&font(i,#696969){And boy will wish "wants to go to that hill again sometime".}}
+&small(){&font(i,#696969){The boy meets a girl.}}
+&small(){&font(i,#696969){The hill where is destined where God meets the boy who assumed fate sad here.}}
+
+&small(){&font(i,#696969){Nobody can see him who stands still at a station.}}
+&small(){&font(i,#696969){Even if I leave the station and commit a theft in a town nobody notices.}}
+
+誰もいない夜の中　不意に消えた歌声
+こんにちは　さようなら　誰かが歌い出した
+
+&small(){&font(i,#696969){The mystery girl who appeared suddenly there.}}
+&small(){&font(i,#696969){She has begun to music identical to the music that boys always sang.}}
+
+眠らない空の色　月はみとれ惚ける
+誰からも愛されず　一人夢を見ていた
+
+&small(){&font(i,#696969){The boy who heard her singing voice thought.}}
+&small(){&font(i,#696969){"She will be loved by all people".}}
+&small(){&font(i,#696969){The boy loved from nobody watched her who seemed to be loved from anyone and cried.}}
+
+ポストは気付かない　女神も気付かない
+広い野原の上　声を上げて泣き出した
+
+&small(){&font(i,#696969){Even if send a letter, the post does not notice.}}
+&small(){&font(i,#696969){Even if pray, the goddess does not notice…}}
+
+ロップイヤーゆらゆら　あなたの横にいるから
+寂しくないけれど誰かと話がしたいな
+
+&small(){&font(i,#696969){The boy shook the clothes which boy put on and sat down beside her afterwards.}}
+&small(){&font(i,#696969){And boy said while hearing her singing voice.}}
+
+&small(){&font(i,#696969){"somebody is by the side, I am not lonely"}}
+
+街角で[[花を売る少女>はなうりのうた]]に声を掛けても
+気付かない気付かない　赤い鳥が手を振る
+
+&small(){&font(i,#696969){Even if the boy hails a girl selling a flower at a street corner a girl cannot watch a boy.}}
+&small(){&font(i,#696969){When the girl handed floral art to an unknown man, girl just disappeared to the back alley.}}
+
+パーティーは続いていく　小さく消える教会
+誰からも愛されて[[私>マチルダと雨]]は空に消えた
+
+&small(){&font(i,#696969){The boy gave prayer every day at church.}}
+&small(){&font(i,#696969){To ask God for help.}}
+&small(){&font(i,#696969){The woman who was in the church confessed it.}}
+&small(){&font(i,#696969){"Oh God, have mercy on me."}}
+&small(){&font(i,#696969){"Please forgive me that I have killed their babies."}}
+
+目を閉じて笑えば微睡みの朝から
+一人の時間を裂く神を捜す叫び
+
+&small(){&font(i,#696969){The boy sent a letter to God every day.}}
+&small(){&font(i,#696969){Boy wrote, "I wanted to talk" and mailed a letter every day.}}
+
+&small(){&font(i,#696969){Now then!}}
+&small(){&font(i,#696969){The town became noisy suddenly.}}
+&small(){&font(i,#696969){The boy thought.}}
+&small(){&font(i,#696969){"Human beings of the town might notice me!"}}
+
+&small(){&font(i,#696969){But}}
+
+ロップイヤー揺らして走り抜ける街の中
+寂しくないけれど夢なら覚めて欲しい
+
+&small(){&font(i,#696969){The cause of the uproar of the town was a riot…!}}
+&small(){&font(i,#696969){The people who were angry at the town mayor repeating by tyranny run through downtown violently.}}
+&small(){&font(i,#696969){People walked stepping on the boy, but no one noticed the boy.}}
+
+「躓いて膝を擦りむいても誰も気付かないや」
+寂しがり怪物はとうとう声を上げて泣いた
+
+&small(){&font(i,#696969){From the loneliness that is not noticed by anyone, the boy had cried aloud at last.}}
+
+「どこまで行けば僕は気付かれるのかな？」
+「ママは気付くさ」臆病な物書きは言った
+
+&small(){&font(i,#696969){When the boy noticed, came to the hill.}}
+
+人々が語った幸せな場所まで
+僕も行けるのかな　誰かに愛されるかな
+
+&small(){&font(i,#696969){The whole story of the novel which a boy knows.}}
+&small(){&font(i,#696969){It is a story among who committed suicide would meet again in the afterlife.}}
+&small(){&font(i,#696969){A boy jumped off it, and was going to die.}}
+&small(){&font(i,#696969){Heard the singing voice of that girl then.}}
+
+&small(){&font(i,#696969){The boy said.}}
+&small(){&font(i,#696969){"I wanted you to find me."}}
+&small(){&font(i,#696969){"Please you find me, if I reincarnation"}}
+
+&small(){&font(i,#696969){And the boy jumped off a cliff.}}
+
+ロップイヤーゆらゆら　あなたの横にいるだけさ
+寂しくは無いけど　あなたに気付かれたいな
+
+&small(){&font(i,#696969){"いやだ！！"}}
+
+生まれ変わり会えたなら僕を愛してくれるかな　　　　&small(){&font(i,#696969){"やっぱり無理…死にたくない…"}}
+寂しがり怪物は　　　　&small(){&font(i,#696969){"ねえ、気付いてよ！ボクはココにいるんだよ！"}}
+声を上げて泣いた
+
+&small(){&font(i,#696969){"…あれ？…わたしの事が見えてるの？"}}
+&small(){&font(i,#696969){"…え？"}}
+&small(){&font(i,#696969){"わたしに手紙をくれたのはあなた？"}}
+
+&small(){&font(i,#696969){"…もしかして神様？"}}
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+
+**コメント
+- ひさしぶりだーー！！  -- 名無しさん  (2014-07-25 21:41:00)
+- この曲最高!!何よりも優しくて、心に残る!!  -- とんとん  (2014-07-27 20:30:03)
+#comment()
+
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)

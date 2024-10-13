@@ -1,0 +1,31 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm12701201)
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){NewsPaper}|CENTER:[[Present>Present/CD]]|
+
+|&bold(){[[ねこぼーろ]]}|
+
+発売：2010年11月14日
+価格：￥?（税込）
+流通：即売
+サークル：nekobolo
+
+**CD紹介
+-THE VOC@LOiD M@STER 14 にて頒布。
+-イラストは すち氏 が手掛ける。
+
+**曲目
++newspaper
++フレディ
++風と船
++[[A GAME A GAIN]]
++空と夢
++[[マイナーペイン]]
++R.I.P. (inst)
++クリナ
+
+**リンク
+-[[作者マイリスト>>http://www.nicovideo.jp/mylist/13459994]]
+
+**コメント
+#comment()

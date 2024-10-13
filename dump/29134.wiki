@@ -1,0 +1,10 @@
+#right(){【登録タグ:&tags()】}
+//↑タグ忘れ防止のための表示
+曖昧さ回避のためのページ
+----
+-[[HYBRID SENSE]]の曲
+--[[SAYONARA/HYBRID SENSE]]
+-[[てぃあら]]の曲
+--[[SAYONARA/てぃあら]]
+
+#include(曖昧さ回避の追加の仕方/告知)

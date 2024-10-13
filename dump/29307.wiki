@@ -1,0 +1,39 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm23231498)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[FLASH BACK>FLASH BACK/CD]]|CENTER:&bold(){STYRAL}|CENTER:-|
+
+|&bold(){[[yksb]]}|[[やみくろ]]|[[imosuke]]|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|2014年4月26・27日||
+|価格|CENTER:￥1,000|CENTER:￥1,500（税抜）|
+|サークル|CENTER:Yes techno clinin（1日目）&br()yksbdance（2日目）|CENTER:yksbdance|
+
+**CD紹介
+-yksb氏の3rdアルバム。全10曲。
+-踊り続けませんか?この音が止まるまで。
+-ゲストで[[やみくろ]]氏、[[imosuke]]氏、tkd氏、muki氏、nanashi氏、MiLO氏、tedeo氏、[[sat>頑なP]]氏、MIYU氏が参加。
+-デザインをseri氏が担当。
+-THE VOC@LOiD 超 M@STER 28（超ボーマス28）にて頒布。
+-とらのあなで委託販売が行われている。
+
+**曲目
++STYRAL
++[[Sick>Sick/yksb]] feat. IA & Luka
++[[ハンドメイド]] feat. IA
++でこりねいしょん☆ feat. IA
++Light your heart up feat. IA
++[[Sweet emotion]] feat. IA, Luka & Miku
++Ageha feat. Luka
++Solid feat. IA
++[[clickER]] feat. IA
++[[Thousand stars]] feat. IA
+
+**リンク
+-[[作者ブログ>>http://ameblo.jp/yksbdance/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/20/76/040030207610.html]]
+
+**コメント
+#comment()

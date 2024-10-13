@@ -1,0 +1,46 @@
+#right(){&furigana(ほうりきこっかのまほうつかい) &furigana()【登録タグ:&tags() 】}
+
+&ref(https://vocadb.net/Album/CoverPicture/24707,x=300,y=300)
+
+|BGCOLOR(#DDD):CENTER:　前作　|BGCOLOR(#B66):COLOR(#FFF):CENTER:&b(){　本作　}|BGCOLOR(#DDD):CENTER:　次作　|
+|CENTER:　[[Piece>Piece/CD]]　|BGCOLOR(#FFF):CENTER:&font(b,14px){　法力国家ノ魔法使　}|CENTER:　[[Resonance III]]　|
+
+|&nicovideo(http://www.nicovideo.jp/watch/sm22135520){360,123}|
+
+|&b(){　[[しえろP>しえろP（ショタエロイドP）]]　}|
+
+|BGCOLOR(#FFF):　|BGCOLOR(#DDD):CENTER:即売|BGCOLOR(#DDD):CENTER:　委託　|
+|BGCOLOR(#DDD):CENTER:発売|CENTER:　2013年10月20日　|CENTER:　2013年11月26日　|
+|BGCOLOR(#DDD):CENTER:価格|CENTER:800円|CENTER:[[1000円＋税>>http://www.toranoana.jp/mailorder/article/04/0030/16/52/040030165278.html]]|
+|BGCOLOR(#DDD):　サークル　|>|CENTER:ahp|
+
+
+**CD紹介
+-2009年に発行した[[法力国家ノ魔法使]]のリテイク＋＠版。
+-[[悪ノP]]、しえろPの楽曲の&b(){替え歌}を収録。
+-ジャケットイラストは[[しえろP>しえろP（ショタエロイドP）]]（さとり名義）。
+
+**トラックリスト
+|BGCOLOR(#CCC):　Tr　|BGCOLOR(#CCC):　タイトル|BGCOLOR(#CCC):　歌|BGCOLOR(#CCC):　作詞|BGCOLOR(#CCC):　原作詞・作曲　|BGCOLOR(#CCC):　原曲|
+|CENTER:01|　Prologue|　鏡音レンact.1　|　種代深秋　|　mothy|　[[Re_birthday]]　|
+|CENTER:02|　法力国家ノ魔法使|　鏡音レンact.1　|　種代深秋　|　mothy|　[[悪ノ召使]]　|
+|CENTER:03|　Promise.U|　鏡音リンact.1　|　成澤悠斗　|　成澤悠斗|　[[Promise ～約束の地～]]　|
+|CENTER:04|　Promise.S|　鏡音レンact.1　|　種代深秋　|　成澤悠斗|　Promise ～約束の地～　|
+|CENTER:05|　リグレットメッセージ|　鏡音リンact.1　|　種代深秋　|　mothy　|　[[リグレットメッセージ]]　|
+|CENTER:06|　Prologue -instrumental-|　-|　-|　mothy|　-|
+|CENTER:07|　法力国家ノ魔法使 -instrumental-　|　-|　-|　mothy|　-|
+|CENTER:08|　Promise.U -instrumental-|　-|　-|　成澤悠斗|　-|
+|CENTER:09|　Promise.S -instrumental-|　-|　-|　成澤悠斗|　-|
+|CENTER:10|　リグレットメッセージ -instrumental-　|　-|　-|　mothy　|　-|
+|CENTER:11|　Legend|　鏡音レンact.1、鏡音リンact.1　|　種代深秋|　成澤悠斗|　-|
+|CENTER:12|　Prologue（再録）|　鏡音レンact.1　|　種代深秋　|　mothy|　Re_birthday　|
+|CENTER:13|　法力国家ノ魔法使（再録）|　鏡音レンact.1　|　種代深秋　|　mothy|　悪ノ召使　|
+|CENTER:14|　リグレットメッセージ（再録）|　鏡音リンact.1　|　種代深秋　|　mothy　|　リグレットメッセージ　|
+|CENTER:15|　Legend -instrumental-|　-|　-|　成澤悠斗|　-|
+
+**リンク
+-[[ahp+way>>http://ahp.xii.jp/ahpway/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/16/52/040030165278.html]]
+
+**コメント
+#comment()

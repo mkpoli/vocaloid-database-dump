@@ -1,0 +1,42 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1566_20140726165213_0280_0280.jpg)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm23337066)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Leftover Footage}|CENTER:[[memento>memento/CD]]|
+
+|&bold(){[[ちんまりP]]}|noo|
+
+||CENTER:即売|CENTER:通販|CENTER:配信|
+|発売|CENTER:2014年4月26・27日|CENTER:|CENTER:2014年8月20日|
+|価格|CENTER:￥500|CENTER:￥500（税込）|CENTER:￥900|
+|サークル|>|>|CENTER:RisouMusic|
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/leftover-footage/id905877524]]}|
+
+**CD紹介
+>『出会いも、別れも、映画のように必然で。』
+-ちんまりPことrisou氏の1stコンセプトアルバム。
+-アートワークをたねつき氏、マスタリングをenji氏が担当。
+-THE VOC@LOiD 超 M@STER 28（超ボーマス28）で頒布。
+-作者のサイトで通信販売が行われていたが、完売した。
+-その後KARENTレーベルよりダウンロード販売が開始した。
+
+**曲目
++no words （feat. 初音ミク）
++[[316words for you]] （feat. 初音ミク）
++via （feat. GUMI）
++明窓 （feat. 初音ミク）
++常夜灯の下で君は笑う （feat. 初音ミク）
++[[cinema]] （feat. 初音ミク）
++[[a tale]] （feat. 初音ミク）
++detained by rain （feat. 初音ミク）
+
+**リンク
+-[[作者サイト>>http://risou.thebase.in/]]
+-[[twitter>>http://twitter.com/RisouMusic]]
+-[[KARENT：「Leftover Footage」>>http://karent.jp/album/1566]]
+
+**コメント
+#comment()

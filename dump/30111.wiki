@@ -1,0 +1,30 @@
+#right(){&furigana(りょう)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/39555311" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/39555311">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-2013年12月、「[[drinking bitter milk]]」にてボカロデビュー。
+-使用ボカロは今のところ、ミクのみ。
+-PVなどは他の人に外注する事が多いが、自らもイラストが描ける。
+
+**リンク
+-[[Melancholic Graffiti（作者ホームページ）>>http://www.mel-ryo.com/]]
+-[[Twitter>>http://twitter.com/mel_ryo]]
+-[[PIAPRO>>http://piapro.jp/mel_ryo]]
+-[[pixiv>>http://www.pixiv.net/member.php?id=11916321]]
+
+**曲
+#list_by_tag(了,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(了CD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|>|BGCOLOR(#2b2b55):COLOR(#FFF):CENTER:&font(b,11pt){オリジナル曲}|
+|&nicovideo(http://www.nicovideo.jp/watch/sm22395439)|&nicovideo(http://www.nicovideo.jp/watch/sm23150875)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm24181900)|&nicovideo(http://www.nicovideo.jp/watch/sm24197762)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm31945489)||
+
+**コメント
+- 了さんの曲好きなのに動画見れなくなっててショック  -- 名無しさん  (2017-09-28 10:49:19)
+- いま見れなくなってたのに気づいた、悲しい  -- ノナメ  (2018-04-14 01:28:18)
+#comment()

@@ -1,0 +1,55 @@
+#right(){&furigana(WB)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+#amazon(B00JTG5DBW)
+
+&nicovideo(https://www.nicovideo.jp/watch/sm23383358)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[てのひらセカンドワールド]]|CENTER:&bold(){W.B.}|CENTER:-|
+
+|&bold(){[[KulfiQ]]}|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2014年4月26日・27日||
+|価格|CENTER:￥1,000（税込）|CENTER:￥1,389（税別）|
+|サークル|CENTER:INDICE（1日目）&br()ガスコンロ（2日目）|CENTER:KulfiQ|
+
+**CD紹介
+CD名：『&u(){W.B.}』
+-KulfiQ氏 の 3rd album 。
+-『[[みつば]]』『[[ルーゲルダ]]』『[[エマージェンシー清水さん]]』などの既存曲に新曲を加えた、全11曲を収録。
+-イラスト：[[Haq]]（[[Twitter>>https://twitter.com/Haq_xx]]）
+-アートディレクション：[[ゴロー]]（[[ニコニコ動画>>https://www.nicovideo.jp/user/1035517]]）
+-THE VOC@LOiD 超 M@STER 28（超ボーマス28）にて頒布。
+-とらのあな、Amazonで委託販売が行われている。
+
+**曲目
++しろとくろのせかいで
++トリクロマシー
++[[ルーゲルダ]]
++[[エマージェンシー清水さん]]
++優待離脱
++[[らせん]]
++臨界点突破3秒前
++[[ID]]
++3分トーク
++[[みつば]]
++シロクロ
+
+**リンク
+-[[Twitter>>https://twitter.com/KulfiQ]]
+-[[とらのあな>>https://www.toranoana.jp/mailorder/article/04/0030/20/43/040030204334.html]]
+-[[Amazon>>https://www.amazon.co.jp/dp/B00JTG5DBW/]]
+
+**コメント
+- みつば！みつば入ってる！！  -- 名無しさん  (2014-04-22 22:41:57)
+- すきです  -- 名無しさん  (2014-04-26 14:35:42)
+- 通販来てた！  -- 名無しさん  (2014-05-01 03:10:21)
+- トリクロマシーと優待離脱がすき  -- 名無しさん  (2014-05-17 12:55:29)
+- IDのリンク貼り忘れてますよ！  -- 名無しさん  (2014-06-08 20:16:48)
+- 3分トークまじスルメ曲  -- 名無しさん  (2014-07-08 09:43:56)
+- 優待離脱、心にグサグサくる  -- 名無しさん  (2014-09-30 18:40:25)
+#comment()

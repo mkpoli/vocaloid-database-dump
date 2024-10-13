@@ -1,0 +1,42 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#amazon(B00M9DC9PK)
+
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[エレクトロトレイン]]|CENTER:&bold(){Pure Blue}|CENTER:-|
+
+|&bold(){[[nana]]}|[[海兎]]|あおまふ|
+
+|流通|CENTER:即売|CENTER:委託|CENTER:配信|
+|発売|>|CENTER:2014年8月17日|CENTER:2014年10月29日|
+|価格|CENTER:￥1,000（税込）|CENTER:￥1,389（税抜）|CENTER:￥900|
+|サークル|>|CENTER:Sevencolors||
+
+**CD紹介
+>&bold(){ VOCALOID と蒼い世界へ―――。}
+-前作からは約2年ぶりとなる Sevencolors の 5th mini album 。
+-先行リリースされた 『[[blue back imagination]]』 に新曲を加えた全7曲を収録。
+-ジャケットイラストは Tda氏 が、ジャケット・ロゴデザインを Techno Breakers が手掛ける。
+-C86（コミックマーケット86）にてリリース。通販・書店委託も行われる。
+-KARENTレーベルより『Sevencolors 5th mini album Pure Blue』のタイトルでダウンロード販売が行われている。
+
+**曲目
++マイ・フェイバリット・ソング / 初音ミクvivid
++critical Determination / Megpoid Power
++らぶれでぃ？れでぃ！～オトモするですにゃ？(´ω｀*)～ / 鏡音リンAct.2
++ゴーイング my フューチャー！ / Megpoid Power
++恋に恋してメリーゴーランド / 初音ミクvivid
++innumerable stars / 初音ミクsoft
++[[blue back imagination]] / IA -ARIA ON THE PLANETES-
+
+**リンク
+-[[Sevencolors Official Web Site（作者ホームページ）>>http://seven-colors.info/]]
+-[[特設ページ>>http://seven-colors.info/pureblue_hp/]]
+-[[amazon>>http://www.amazon.co.jp/gp/product/B00M9DC9PK]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/22/83/040030228332.html]]
+-[[メロンブックス>>http://shop.melonbooks.co.jp/shop/sp_213001015934_sevenc_7c5thpb.php]]
+-[[KARENT：「Sevencolors 5th mini album Pure Blue」>>http://karent.jp/album/1621]]
+-[[iTunes Store>>https://itunes.apple.com/jp/album/sevencolors-5th-mini-album/id931368265]]
+
+**コメント
+#comment()

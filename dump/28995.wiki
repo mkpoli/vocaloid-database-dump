@@ -1,0 +1,45 @@
+#right(){&furigana(はっけんしゅう)&furigana()【登録タグ:&tags() 】}
+
+&ref(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS-XaVZagTVY51e40owYkqAoirk1ssjCfBHw9UWq2Q8Qx26hhI9&usqp=CAU,x=300,y=300)
+
+|&nicovideo(http://www.nicovideo.jp/watch/sm23325633)|
+
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){発見集}|CENTER:-|
+
+|&bold(){[[翁]]}|
+
+|流通|CENTER:即売|
+|発売|CENTER:2014年4月26日・27日|
+|価格|CENTER:￥1,000（税込）|
+|サークル|CENTER:感情レールウェイ（1日目）&br()醗酵ダイオード（2日目）|
+
+**CD紹介
+-4年間の集大成となる、待望の 1st album 。
+-初殿堂入りした代表作の 『[[歯車さん]]』 などの既存曲に新曲を加えた全12曲を収録。
+-ジャケットイラストなどのアートワークを きゃらあい氏 が、マスタリングを 友達募集P が手掛ける。
+-THE VOC@LOiD 超M@STER 28（超ボーマス3）にてリリース。
+-BOOTHにて通販が行われている。
+
+**曲目
++イントロ
++[[押入れる6月]]
++みんな神様
++果てへ
++[[カエデの森]]
++触れて憧れ覗いて夢
++サンレイン
++[[デスカレーション]]
++[[僕の存在論]]
++[[歯車さん]]
++[[献身的人間は優しい人になれない]] -acoustic ver.-
++愛
+
+**リンク
+-[[Twitter>>http://twitter.com/okina_minicoil]]
+-[[BOOTH>>https://booth.pm/ja/items/60384]]
+-[[SoundCloud>>https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/172888836&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&visual=true#]]
+
+**コメント
+#comment()

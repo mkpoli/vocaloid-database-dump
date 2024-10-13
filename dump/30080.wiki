@@ -1,0 +1,40 @@
+#right(){&furigana(れめありねす)&furigana()【登録タグ:&tags() 】}
+#amazon(B00MVQ3HEC)
+
+|&nicovideo(http://www.nicovideo.jp/watch/sm24196235)|&YouTube(https://www.youtube.com/watch?v=MqcPtMrTXj4)|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Charm]]|CENTER:&bold(){レメアリネス}|CENTER:[[瞳にうつる景色は変わるもの]]|
+
+|&bold(){[[AVTechNO]]}|[[Dog tails]]|
+
+|流通|CENTER:即売|CENTER:委託|CENTER:配信|
+|発売|CENTER:2014年8月17日|>|CENTER:2014年9月10日|
+|価格|CENTER:￥|CENTER:￥1,944（税込）|CENTER:￥900|
+|サークル||||
+
+**CD紹介
+>０は１より小さく遥かに大きい世界でシェラ・ソンユが創する── 
+-AVTechNO!氏のCDアルバム。
+-イラストは和音氏。
+-コミックマーケット86（c86）で頒布。
+-Amazonで委託販売が、KARENTレーベルよりダウンロード販売が行われる。
+
+**曲目
+01：[[レメスタンス]] （feat. 初音ミク）
+02：エフ （feat. 初音ミク）
+03：ディストビル （feat. 初音ミク）
+04：[[メアリネス>MEARINESS]] （feat. 初音ミク）
+05：[[シェラ・ソンユ]] （feat. 初音ミク）
+06：プラシリス （feat. 初音ミク）
+07：Remestance (Dog tails Stanced Remix)　※BONUS TRACK
+08：Distvill (Dog tails Villam Remix)　※BONUS TRACK
+X9：-Opening- 0STXNULSOHEOTHTSOHNUL0
+
+**リンク
+-[[作者サイト>>http://x9-avtechno.wix.com/avtechno]]
+-[[Amazon>>http://www.amazon.co.jp/gp/product/B00MVQ3HEC/]]
+-[[KARENT：「レメアリネス」>>http://karent.jp/album/1598]]
+
+**コメント
+#comment()

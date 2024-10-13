@@ -1,0 +1,35 @@
+#right(){&furigana()&furigana()【登録タグ:&tags()】}
+|&nicovideo(http://www.nicovideo.jp/watch/sm20246697)|&YouTube(http://www.youtube.com/watch?v=VB2wbBJQBiw)|
+作詞：[[Tranceformer Yuno]]
+作曲：[[Tranceformer Yuno]]
+編曲：[[Tranceformer Yuno]]
+唄：初音ミク
+
+**曲紹介
+-今回は哀愁プログレッシブハウス系です。
+-イラストは木ト氏。
+-Sakura Recordz！のクラブで使えるボカロ曲コンピ『Synergy-Style』収録曲。
+
+**歌詞
+（動画より書き起こし）
+
+見知らぬ会話に　足をとられ
+塞ぎこんでたよ　昨日までの
+滲んだ　さえない My Life
+踏み出そう　ドアを開け
+心の向くまま
+
+広がる空　流れてゆく風
+確かな感覚は僕だけのもの
+触れて　感じて　生きて
+貫いて　信じて Myself
+
+広がる大地　流れてゆく時
+確かな感覚は僕だけのもの
+触れて　感じて　生きて
+貫いて　信じて Yourself
+触れて　感じて　生きて
+貫いて　信じて Myself
+
+**コメント
+#comment()

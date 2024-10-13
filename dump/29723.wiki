@@ -1,0 +1,45 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm23919022)
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){liberatescape}|CENTER:[[sukui>sukui/CD]]|
+
+|&bold(){[[ロリP]]}|[[多英子]]|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|CENTER:2014年7月13日||
+|価格|CENTER:￥1,000（税込）|CENTER:￥1,493（税別）|
+|サークル|CENTER:ロリPのアルバム|CENTER:sukui records|
+
+**CD紹介
+-6年半以上の時を経て放たれる、 ロリP待望の1stアルバム。
+-これまでにリリースした既存曲からの選りすぐり＋書き下ろしの新曲の全17曲を収録。既存曲は全て再調整されている。
+-アートワークは [[多英子]]氏 が手掛ける。
+-THE VOC@LOiD M@STER 29（ボーマス29）にてリリース。
+-とらのあなで委託販売が行われていた。
+
+**曲目
++liberatescape（inst.）
++[[蝶とユーチャリス]]
++[[鍵穴からパラレルワールド]]
++破綻した記憶のリアリティ
++[[the Fate of Outcast]]
++[[錯誤形成マジョリティ]]
++ノットジグソー
++[[sleep, sleep, cruel world.]]
++流転と回帰
++[[ルサンチマンと虚構の箱庭]]
++[[天秤、崩れ落ちるガラクタ]]
++[[林檎と歯車のショーケース]]
++Randomize
++[[未完成に巣食うフォビア]]
++[[君の指先]]
++[[pure elopement]]
++収束エピローグ
+
+**リンク
+-[[Twitter>>http://twitter.com/loli_p_thely]]
+-[[とらのあな>>https://www.toranoana.jp/mailorder/article/04/0030/22/38/040030223890.html]]
+
+**コメント
+- 新曲多くて楽しみ！！  -- 名無しさん  (2014-07-04 19:32:18)
+#comment()

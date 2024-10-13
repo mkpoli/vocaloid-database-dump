@@ -1,0 +1,32 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[another sky>another sky/CD]]|CENTER:&bold(){Lassitude}|CENTER:[[星降る夜を旅する少女>星降る夜を旅する少女/CD]]|
+
+|&bold(){[[fatP]]}|timeflies|久遠真雪|
+
+|流通|CENTER:即売|CENTER:通販|
+|発売|CENTER:2013年10月27日||
+|価格|CENTER:￥500|CENTER:￥500|
+|サークル|>|CENTER:D.S.L|
+
+**CD紹介
+-fatPことamyu氏のサークル「D.S.L (Digital Sound Laboratory)」の9thCD。VOCALOIDCDとしては7作目。
+-D.S.L初の同人メタルCD！作詞作曲編曲マスタリング全てがD.S.Lオリジナル。
+-ダークな世界観と疾走感全開なメロディの2曲と重厚なビートにデジタルなサウンドを乗せたミクスチャー的メタルの1曲の3曲（＋インスト版）構成。
+-M3-2013秋で頒布。
+-作者サイトで通信販売が行われている。
+
+**曲目
++[[discoloration world]]
++[[ラブラドライトの深淵を]]
++[[Lassitude]]
++discoloration world (instrumental)
++ラブラドライトの深淵を (instrumental)
++Lassitude (instrumental)
+
+**リンク
+-[[特設ページ>>http://dslaboratory.com/131027M3.html]]
+-[[作者サイト>>http://dslaboratory.com/]]
+
+**コメント
+#comment()

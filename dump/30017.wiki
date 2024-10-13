@@ -1,0 +1,52 @@
+#right(){&furigana(Яarenocollection)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+#amazon(B00MFSZDWK)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm24138012)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[それぞれに人生がある]]|CENTER:&bold(){Яareno collection}|CENTER:[[しぼう>しぼう/CD]]|
+
+|&bold(){[[ピノキオピー]]}|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|CENTER:2014年8月17日|CENTER:|
+|価格|CENTER:￥1,000（税込）|CENTER:￥1,389（税別）|
+|サークル|CENTER:きチりヨ|CENTER:ピノキオピー|
+
+**CD紹介
+-ピノキオピー の 5th album 。
+-2009年～2014年にかけての、未発表曲含む、アルバム未収録作品集。全13曲を収録。全曲リアレンジ、リマスタリング。
+-C86（コミックマーケット86）にてリリース。
+-amazon、とらのあなで委託販売が行われている。
+-配信されているのは2019年に再ミックス・リマスタリングされたもの。
+
+**曲目
++[[elf]]   &color(red){NEW!!}
++[[Bouncing Betty]]
++[[素晴らしい世界>素晴らしい世界/ピノキオピー]]
++[[くらげ>くらげ/ピノキオピー]] -8bit ver.-
++[[レアノ]]
++音 -instrumental- ((サークル「百化」によるイラスト集『音-oto-』のテーマソング（https://www.nicovideo.jp/watch/sm13703842）))
++[[ごりらがいるんだ]]
++[[ブラックホールヶ丘商店街]]   &color(red){NEW!!}
++[[解散しちゃったバンド]] -miku ver.-  &color(red){NEW!!}
++[[とげとげ>とげとげ/ピノキオピー]] -miku ver.-  &color(red){NEW!!}
++[[わたしがこの世にいた頃に]]   &color(red){NEW!!}
++[[それぞれに人生がある]]
++[[Last Continue>CONTINUE]]
+
+**リンク
+-[[ピノキオ定食（作者ホームページ）>>http://pinocchiop.jimdo.com/]]
+-[[Twitter>>http://twitter.com/pinokiop]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/23/01/040030230148.html]]
+-[[amazon>>http://www.amazon.co.jp/dp/B00MFSZDWK]]
+
+**コメント
+- 発売楽しみ  -- 名無しさん  (2014-08-01 22:21:52)
+- 買った！素晴らしい世界が入っていてホント良かった！ピノキオpは最近の曲も凄いけど、昔の暖かみがある皮肉が効いた曲も好きなのでなお良かった！  -- 名無しさん  (2014-08-28 21:25:52)
+- これすごい良かった  -- 名無しさん  (2014-08-30 13:59:18)
+#comment()

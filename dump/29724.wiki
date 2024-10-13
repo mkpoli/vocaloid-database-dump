@@ -1,0 +1,62 @@
+#right(){&furigana(はつねみくしかるみらい2014おふぃしゃるあるばむ)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+#amazon(B00LGFW33A)
+//&ref(http://ecx.images-amazon.com/images/I/610ZQnXSfpL._SL500_AA300_.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){初音ミク「マジカルミライ 2014」オフィシャルアルバム}|CENTER:[[初音ミク「マジカルミライ 2015」OFFICIAL ALBUM]]|
+
+|[[さつき が てんこもり]]|[[ささくれP]]|[[DECO*27]]|[[はりー]]|[[HoneyWorks]]|[[emon（Tes.）]]|
+|[[Mitchie M]]|[[ЯIRE]]|[[八王子P]]|[[q*Left]]|[[OSTER project]]|[[ゆうゆ]]|
+|[[クリスタルP]]|bestgt|[[ryo]]|[[doriko]]|[[PolyphonicBranch]]|[[みきとP>みきとP/作り手]]|
+|[[ピノキオピー]]|[[KEI]]|[[40㍍P]]|[[keeno]]|[[kz]]|[[ハチ]]| 
+
+発売：2014年8月6日
+価格：￥2,500（税込）
+流通：全国
+レーベル：KARENT
+
+**CD紹介
+CD名：『&u(){初音ミク「マジカルミライ 2014」オフィシャルアルバム}』(&u(){はつねミク「マジカルミライ 2014」オフィシャルアルバム})
+-2014年夏に大阪・東京で開催のイベント「マジカルミライ2014」のオフィシャルアルバム。
+-イベントテーマソングに加え、ライブパフォーマンスでメインとなる楽曲を収録。
+
+**曲目
+***DISC 1
++[[ネクストネスト]] / さつき が てんこもり feat. 初音ミク
++[[39>39/ささくれP・DECO*27]] / sasakure.UK×DECO*27 feat. 初音ミク
++[[EARTH DAY]] / Harry（はりーP） feat. 初音ミク
++[[スキキライ>スキキライ/HoneyWorks]] / HoneyWorks feat. 鏡音リン・鏡音レン
++[[shake it！]] / emon feat. 初音ミク・鏡音リン・鏡音レン
++[[FREELY TOMORROW]] / Mitchie M feat. 初音ミク
++[[Sweet Devil]] / 八王子P feat. 初音ミク
++[[ピアノ×フォルテ×スキャンダル]] / OSTER project feat. MEIKO
++[[erase or zero]] / クリスタルP feat. 鏡音レン・KAITO
++[[深海少女]] / ゆうゆ feat. 初音ミク
++[[ODDS&ENDS]] / ryo(supercell) feat. 初音ミク
+***DISC 2 
++[[キャットフード]] / doriko feat. 初音ミク 
++[[二次元ドリームフィーバー]] / PolyphonicBranch feat. 初音ミク 
++[[心臓デモクラシー]] / みきとP feat. 初音ミク 
++[[ありふれたせかいせいふく]] / ピノキオピー feat. 初音ミク 
++[[Hello, Worker]] / KEI feat. 巡音ルカ 
++[[からくりピエロ]] / 40mP feat. 初音ミク 
++[[glow>glow/keeno]] / keeno feat. 初音ミク 
++[[Last Night, Good Night]](Re:Dialed) / livetune feat. 初音ミク 
++[[ワンダーランドと羊の歌]] / ハチ feat. 初音ミク 
++ <bonus track>
+
+**リンク
+-[[「マジカルミライ 2014」公式サイト>>http://magicalmirai.com/2014/]]
+-[[amazon>>http://www.amazon.co.jp/dp/B00LGFW33A]]
+
+**コメント
+- うわぁ!!!マジカルミライ行くのちょー楽しみ  -- 青春  (2014-07-05 08:25:55)
+- ようやくshake it!のCD音源が手に入る。  -- 名無しさん  (2014-07-08 00:54:17)
+- クロスフェード動画とボーナストラック情報が来ました！！  -- 名無しさん  (2014-07-25 23:29:08)
+- これってライブ前に買ったほうがいいの？ライブ会場の特典が欲しいから会場で買いたいんだけども。  -- 名無しさん  (2014-08-09 08:18:32)
+- ライブでネクストネスト聴きたかったなぁ  -- 名無しさん  (2016-08-04 10:12:04)
+#comment()

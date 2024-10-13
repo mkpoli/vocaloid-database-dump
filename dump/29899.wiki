@@ -1,0 +1,40 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1552_20140627211049_0280_0280.jpg)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm23978591)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){garnet}|CENTER:[[amethyst]]|
+
+|&bold(){[[narry]]}|
+
+発売：2014年7月18日
+価格：￥1,200
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：[[壁Neko>>http://piapro.jp/aw344419]]
+
+**CD紹介
+-narry氏の配信アルバム。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++incarose （feat. 初音ミク）
++triphane （feat. 初音ミク）
++[[angelite]] （feat. 初音ミク）
++[[rose quartz]] （feat. 初音ミク）
++[[carnelian]] （feat. 初音ミク）
++[[sapphire]] （feat. 初音ミク）
++[[celestite]] （feat. 初音ミク）
++idocrase （feat. 初音ミク）
++[[gemsilica]] （feat. 初音ミク）
++[[fluorite]] （feat. 初音ミク）
++[[ametrin]] （feat. 初音ミク）
++garnet （feat. 初音ミク）
+
+**リンク
+-[[KARENT：「garnet」>>http://karent.jp/album/1552]]
+-[[iTunes Store>>https://itunes.apple.com/jp/album/garnet/id897118615]]
+
+**コメント
+#comment()

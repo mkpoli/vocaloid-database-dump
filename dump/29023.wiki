@@ -1,0 +1,82 @@
+#right(){&furigana(Nothing)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(http://www.nicovideo.jp/watch/sm23345314)|
+作詞：[[ラマーズP]]
+作曲：[[ラマーズP]]
+編曲：[[ラマーズP]]
+唄：[[初音ミク]]
+
+**曲紹介
+曲名：『&u(){Nothing}』（&u(){ナッシング}）
+-頑張って新曲頻度上げゆ（作者コメ転載）
+
+**歌詞
+So I think, Today is a special day.
+At this rate, I do not know how to dispose of my time.
+Now or never! Now or never!
+Before to change one's mind.
+I'll do fool...
+
+まずは窓辺から風を泳がせて
+両手広げて黄昏れる
+口笛鳴らせば静かに舞い踊って
+そのまま飛び出して
+晴れ晴れな空に少し見上げたら
+この時間が好きになれる
+「何もない」こそ価値は未知数
+前を向いて笑ってあげたらいいんじゃない？
+
+もしもだけど君が眠ったままの
+獅子であれば蟹になりたいねとお星様
+Now or never! Now or never!
+Before to change one's mind.
+I'll do fool...
+
+始まりの朝はいつも見逃して
+すぐに諦めてしまう
+でも始めて見なきゃ何も分からないさ
+もっと弾けちゃえばいい！！
+行動力が人々の心を
+鷲掴みできる感触を
+痛みの意味を知り明日を見る
+だから素直に思ったことやればいいんじゃない？
+
+If I can be reborn, I wanna spend the slightly useful life.
+If I can run after way of life with the meaningful justice forever.
+Well, because it's not had as the small existence me.
+I will decide it by oneself if somebody decides it......
+
+始まりの朝はいつも見逃して
+すぐに諦めてしまう
+でも始めて見なきゃ何も分からないさ
+もっと弾けちゃえばいい！！
+行動力が人々の心を
+鷲掴みできる感触を
+痛みの意味を知り明日を見る
+だから素直に思ったことやれば
+さあ　窓辺から風を泳がせて
+両手広げて黄昏れる
+口笛鳴らせば静かに舞い踊って
+そのまま飛び出して
+晴れ晴れな空に少し見上げたら
+この時間が好きになれる
+「何もない」こそ価値は未知数
+前を向いて笑ってあげたらいいんじゃない？
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+**コメント
+- 追加おつ！  -- 名無しさん  (2014-04-17 22:56:19)
+- 綺麗！  -- 名無しさん  (2014-05-02 17:41:03)
+- ここの所ずっとこの曲聴いてる…リピートハンパない！  -- なっぺ  (2014-12-23 17:55:44)
+- 発音きれい！  -- 名無しさん  (2015-07-16 03:32:41)
+#comment()
+
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)

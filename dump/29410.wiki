@@ -1,0 +1,95 @@
+#right(){&furigana(VenusdiUjungJari)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(http://www.nicovideo.jp/watch/sm14668906)|&youtube(https://www.youtube.com/watch?v=p_ezXbzcUwI){336,189}|
+作詞：[[mohax]]（[[VOCALO.ID]]）
+作曲：[[mohax]]（[[VOCALO.ID]]）
+編曲：[[mohax]]（[[VOCALO.ID]]）
+唄：[[初音ミク]]
+
+**曲紹介
+曲名：『&u(){Venus di Ujung Jari}』
+-インドネシアのボーカロイドサークル「VOCALO.ID」の1作目。
+-歌詞はインドネシア語。
+-タイトルの「Venus di Ujung Jari（ベヌス　ディ　ウジュン　ジャリ）」は、「ヴィーナスの指先」の意。
+
+**歌詞
+（[[ピアプロ>>http://piapro.jp/t/FdIv]]より転載）
+
+di atas sana aku menanti cahaya
+satu-satunya janji diantara kita
+
+aku ada di sini
+apakah kau di sana
+dan kita bawakan puisi
+
+ada venus di ujung jarimu
+ada senyuman yang ku tak sadari sendiri
+apa mungkin bisa aku katakan
+ada sesuatu yang kurasakan di hati ini
+
+aku ada di sini
+apakah kau di sana
+dan kita bawakan puisi
+
+ada venus di ujung jariku
+ada sentuhan yang tak 'kan bisa menggapainya
+tapi mungkin mampu ku sampaikan
+ada sesuatu yang kutemukan di hati ini
+
+kadang venus di ujung jariku
+kadang venus di ujung jarimu
+cahayanya kadang ku tak sadari
+tapi kurasakan hangatnya di sampingmu
+
+
+#region(和訳)
+（日本語訳：indrahebat）
+
+その高い場所で　僕は光を待つ
+僕たちのたった一つの　約束
+僕はここに
+君はそこにいるの？
+そして僕らは　ある詩を語る
+
+金星（ヴェナス）が　君の指先に
+思わず浮かんだ　微笑み
+僕には言えるのかな
+この胸に感じた　何かを
+
+僕はここに
+君はそこにいるの？
+そして僕らは　ある詩を語る
+
+金星（ヴェナス）が　僕の指先に
+この感触は届かないまま
+でも、伝わるでしょう
+この胸に見つけた何かが
+
+時に金星（ヴェナス）が　僕の指先に
+時に金星（ヴェナス）が　君の指先に
+その光に　気づかないときもあるけど
+君のそばでぬくもりを感じている
+
+
+#endregion
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+**コメント
+- これを聴いた現地組はマジで勝ち組だな。うらやましい  -- 名無しさん  (2014-06-03 14:27:51)
+- 勝ち組がきましたよｗｗ　今度またインドネシアでやる機会があったら、今度は俺らもインドネシア語で一緒に歌いたいｗｗ  -- 名無しさん  (2014-06-05 17:14:34)
+- 勝ち組さんｗ  -- 名無しさん  (2014-06-06 21:29:41)
+- すまんｗ俺も行ったからｗ空港のラウンジで飲んだ同志？？マジ良かったですよね～インドネシア、もう一度ミクさんも行ってほしいし、俺も行きたい！  -- 名無しさん  (2014-06-06 21:31:25)
+- 歌詞わからないけど、素晴らしい曲であることは間違いない。日本と全然変わらないボカロ文化が育っている事に感動を覚えますね。  -- 名無しさん  (2014-06-11 19:03:33)
+- 今更知ったけど、凄く綺麗な曲だな～！  -- 名無しさん  (2015-03-27 23:29:42)
+- 「指先の金星（ヴィーナス）」が正しい訳じゃないですか？  -- 名無しさん  (2016-04-19 14:39:54)
+#comment()
+
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)

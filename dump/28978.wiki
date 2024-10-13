@@ -1,0 +1,42 @@
+#right(){&furigana(やしょく)&furigana()【登録タグ:&tags() 】}
+
+&ref(https://static.vocadb.net/img/album/mainThumb/8023.png,x=300,y=300)
+
+|&nicovideo(http://www.nicovideo.jp/watch/sm23197077)|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[少年法第三条第一項第三号]]|CENTER:&bold(){夜食}|CENTER:-|
+
+|&bold(){[[アキバヲタP]]}|
+
+|流通|CENTER:即売|
+|発売|CENTER:2014年4月26日|
+|価格|CENTER:￥1,000（税込）|
+|サークル|CENTER:流通の仕組み|
+
+**CD紹介
+>&bold(){空腹で絶命しかけてる！}
+-アキバヲタP の 1st best album 。全曲いろはオンリー。
+-活動初期にリリースした楽曲＋1st・2nd album の中からの選りすぐりを加えた全12曲を収録。収録曲は全て完全リメイク。
+-THE VOC@LOiD 超M@STER 28（超ボーマス3）にてリリース。
+
+**曲目
++[[骨とブラジャーすっぽんぽん]]
++[[其ノ花ハ死ヌラム。]]
++ダーリン
++[[愚問]]
++[[女家庭教師麗子]]
++三文芝居
++遠隔のダンス
++[[東京ラテン系カーニバル]]
++[[変]]
++猫だまし
++[[気絶]]
++[[なんだ桜もう散りやがるか]]
+
+**リンク
+-[[Twitter>>http://twitter.com/akiba_ota_p]]
+
+**コメント
+- 其ノ花ハ死ヌラム。の完全リメイクのためだけに買いたい  -- 名無しさん  (2014-04-21 19:36:24)
+#comment()

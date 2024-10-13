@@ -1,0 +1,41 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#ref(http://karent.jp/npdca/1908_20160531113710_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[erase or zero／彼方]]|CENTER:&bold(){PARTED}|CENTER:[[夜ノ果テマデ]]|
+
+|&bold(){[[クリスタルP]]}|[[残鏡P]]|
+
+|流通|CENTER:即売|CENTER:委託|CENTER:配信|
+|発売|CENTER:2014年6月29日||CENTER:2016年6月15日|
+|価格|CENTER:￥1,000|CENTER:￥1,380（税別）|CENTER:￥1,200|
+|サークル|CENTER:3レン腐|CENTER:zeghed Label (S-hybrid)||
+
+**CD紹介
+-春の「erase or zero」祭（？）に引き続く、彼らのその後ちっくなアルバムが登場！！
+-春に配信された「彼方」を含む、KAITO・鏡音レンが歌い上げるバラエティに富んだアルバム。
+-VOCALOID PARADISE 番外編　「鏡音PARADISE3」にて頒布。
+-とらのあなにて委託販売が行われていた。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++ヒトリゴト
++[[彼方>彼方/クリスタルP]]
++それで。
++PARTED
++Interlude～A capella by "[[その日まで>そのひ、まで]]"～
++distance-KAITO ver.-
++トモダチに、戻ろう…？
++あの、夏。
++夜ノ果テマデ
++宇宙地図
++Bonus Track～[[erase or zero]] Live arr. (eraser&originator's 0th concert tour)
+
+**リンク
+-[[作者ブログ>>http://blog.k-kei.versus.jp/]]
+-[[とらのあな>>http://www.toranoana.jp/bl/article/04/0030/21/57/040030215741.html]]
+-[[KARENT：「PARTED」>>http://karent.jp/album/1908]]
+-[[iTunes Store>>http://itunes.apple.com/jp/album/parted/id1119474053]]
+
+**コメント
+#comment()

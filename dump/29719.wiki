@@ -1,0 +1,32 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+|&nicovideo(http://www.nicovideo.jp/watch/sm22598654)|&YouTube(http://www.youtube.com/watch?v=ggi7uYbgdCI)|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Trajectory}|CENTER:[[地平線／All New Days]]|
+
+|&bold(){[[Tranceformer Yuno]]}|
+
+発売：2014年1月10日
+価格：￥750 (iTunes)
+流通：配信
+レーベル：Rock River Records
+ジャケットイラスト：木ト
+
+|&bold(){[[iTunes Storeで購入する>>https://itunes.apple.com/jp/album/trajectory/id778849215]]}|
+
+**CD紹介
+-Tranceformer Yuno氏の配信ミニアルバム。
+-beatport、iTunes Store、junodownloadなどでダウンロード販売が行われている。
+
+**曲目
++[[Myself (Original Mix)>Myself]]
++[[More So Power (Burning Club Remix)>More so power]]
++[[地平線：Horizon (Original Mix)>地平線/Tranceformer Yuno]]
++[[Shining In Darkness (feat. Hatsune Miku Ver.)>Shining in Darkness (feat.Miku Hatsune)]]
++[[More So Power (Original Mix)>More so power]]
+
+**リンク
+-[[Rock River Records>>http://rockriverrecords.com/]]
+
+**コメント
+#comment()

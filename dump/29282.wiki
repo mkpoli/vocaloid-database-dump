@@ -1,0 +1,37 @@
+#right(){&furigana(こいちくりん5)&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1504_20140425225258_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[My fair lady>My fair lady/CD]]|CENTER:&bold(){恋竹林5}|CENTER:-|
+
+|&bold(){[[恋竹林]]}|
+
+||CENTER:配信|
+|発売|CENTER:2014年5月14日|
+|価格|CENTER:￥1,200 / 1曲￥150|
+|レーベル|CENTER:KARENT|
+|ジャケットイラスト|CENTER:小抹茶|
+
+**CD紹介
+-サークル恋竹林の5thアルバム。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++[[超魔爆炎覇]] （feat. 初音ミク）
++[[涙腺突破ガメンミエン 紅蓮編]] （feat. 初音ミク＆KAITO）
++[[belle]] （feat. 初音ミク）
++[[モジャモジャマン]] （feat. 初音ミク）
++エレクトリックサンダー （feat. 初音ミク）
++残輪-zanrin- （feat. メグッポイド）
++恋竹林音頭 （feat. 初音ミク）
++最愛にくらべたら最強なんて （feat. 初音ミク）
++belle ササカマ学園軽音楽部mix （feat. 巡音ルカ）
++アバンストラッシュ （feat. 初音ミク）
+
+**リンク
+-[[作者サイト>>http://koichikurinofficial.web.fc2.com/index.html]]
+-[[作者ブログ>>http://koichikurin.blog89.fc2.com/]]
+-[[KARENT：「恋竹林５」>>http://karent.jp/album/1504]]
+
+**コメント
+#comment()

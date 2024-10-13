@@ -1,0 +1,34 @@
+#right(){&furigana(めでぃっくP)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/13777162" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/13777162">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-ハンドルネームはAyano。
+-ジャズ、ボサノバ、ハウス、バラード等、様々なジャンルの曲を手掛ける。
+-P名の由来は最初の数曲のイメージが癒し系だった事と、ゲーム好きでmedicという言葉をtwitterで使っていたからとの本人の談。
+-使用するボーカロイドは、結月ゆかり、氷山キヨテル、GUMI V3、KAITO V3、東北ずん子。
+-動画で使用するイラストは一部を除き、絵師の天龍洸氏が手掛けている。
+-また自身でもイラストも描いており、pixivでは彼女の描いたイラストを見る事が出来る。
+
+**リンク
+-[[公式サイト>>http://whitesorcery.com/]]
+-[[YouTube>>https://www.youtube.com/user/xxxxAyanoxxxx/]]
+-[[PIAPRO>>http://piapro.jp/ayano_medicP]]
+-[[pixiv>>http://www.pixiv.net/member.php?id=824517]]
+-[[twitter>>https://twitter.com/Ayano_medicP]]
+
+**曲
+#list_by_tag(メディックP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(メディックPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm16526908)|&nicovideo(http://www.nicovideo.jp/watch/sm16580295)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm16651577)|&nicovideo(http://www.nicovideo.jp/watch/sm16800737)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm16945980)|&nicovideo(http://www.nicovideo.jp/watch/sm17136595)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm17245280)|&nicovideo(http://www.nicovideo.jp/watch/sm18698220)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm18797209)|&nicovideo(http://www.nicovideo.jp/watch/sm18901699)|
+
+**コメント
+- メディックPさんは、主婦をしながら作曲をしてて、すっごくかっこいいと思います。これからも素敵な曲を作って下さい。  -- 竜奇  (2014-05-16 19:03:41)
+#comment()

@@ -1,0 +1,32 @@
+#right(){&furigana(たびじのとちゅうで)&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1536_20140610232858_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[all my ballads 2 ~Eternal Dream~]]|CENTER:&bold(){旅路の途中で}|CENTER:[[Seventh Heavens]]|
+
+|&bold(){[[キッドP]]}|[[残鏡P]]|[[クリスタルP]]|
+
+発売：2014年7月9日
+価格：￥300
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：[[しえろP>しえろP（ショタエロイドP）]]
+
+|&bold(){[[iTunes Storeで購入する>>https://itunes.apple.com/jp/album/during-journey-course-single/id895649092]]}|
+
+**CD紹介
+-キッドPの配信シングル。
+-表題曲はアルバム『[[Season's]]』や『[[all my Ballads～Forever Love～]]』に収録されていた楽曲。
+-KARENTレーベルよりダウンロード販売が行われている。「Good morning, Good night. 夜 ver.」特集で配信された作品の1つ。
+
+**曲目
++旅路の途中で （feat. 鏡音レン）
++旅路の途中で-instrumental-
+
+**リンク
+-[[KARENT：「旅路の途中で」>>http://karent.jp/album/1536]]
+-[[KARENT：「Good morning, Good night. 夜 ver.」特集ページ>>http://karent.jp/special/goodnight14]]
+-[[作者ブログ>>http://yaplog.jp/kidsworks/]]
+
+**コメント
+#comment()

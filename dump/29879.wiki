@@ -1,0 +1,60 @@
+#right(){&furigana(ひこん)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb_mylist/38652935" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/38652935">【ニコニコ動画】</a></iframe>)
+
+**特徴
+作り手名：『&u(){ピコン}』
+-使用するボーカロイドは初音ミクとGUMI。
+-2013年11月22日に投稿した「[[憂焼けセンシティブ]]」でデビューした。
+-ソロユニット「ボクモスケルトン」にて活動する。
+-歌詞・メロディー共に独特のセンスを持ち、不思議な世界観を創り出している。
+-18作目となる「[[ガランド]]」にて自身初の殿堂入り・ミリオンを達成。
+-次の曲が殿堂入りを達成している。&br()&list_by_tagsearch(ピコン,殿堂入り,sort=furigana,option=nolist,nolistspace=、,100)
+
+
+**ミリオン達成状況
+-以下の楽曲が[[ミリオン>曲一覧/ミリオン曲一覧]]を達成している。
+|CENTER:&bold(){曲名}|CENTER:&bold(){100万再生}|CENTER:&bold(){備考}|
+|[[ガランド]]|2022年1月3日||
+
+**リンク
+//-[[作者ブログ>>https://ameblo.jp/samigen3]]
+-[[PIAPRO>>https://piapro.jp/bokumos]]
+-[[Twitter>>https://twitter.com/picon_bs]]
+-[[YouTube>>https://www.youtube.com/channel/UCaWVCqpIfWFXUHSKANMjVQA]]
+-[[Bilibili>>https://space.bilibili.com/255086005]]
+-[[pixivFANBOX>>https://bldgb80u.fanbox.cc/]]
+
+**曲
+#list_by_tag(ピコン,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(ピコンCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm22306159)|&nicovideo(sm22735494)|
+|&nicovideo(sm23250313)|&nicovideo(sm23800007)|
+|&nicovideo(sm23986034)|&nicovideo(sm29547282)|
+|&nicovideo(sm30349208)|&nicovideo(sm30654577)|
+|&nicovideo(sm31240870)|&nicovideo(sm31410617)|
+|&nicovideo(sm31526970)|&nicovideo(sm31653802)|
+|&nicovideo(sm31768408)|&nicovideo(sm31807833)|
+|&nicovideo(sm32134306)|&nicovideo(sm32459374)|
+|&nicovideo(sm32647403)|&nicovideo(sm33189938)|
+|&nicovideo(sm33552518)|&nicovideo(sm34868275)|
+|&nicovideo(sm35730338)|&nicovideo(sm39408553)|
+|&nicovideo(sm40797670)|&nicovideo(sm41503861)|
+|&nicovideo(sm42872870)|>|
+
+**コメント
+- この人のバラード聞くと落ち着きます  -- 名無しさん  (2017-11-10 17:31:31)
+- ガランド   鳥肌立っちゃった❤  -- ❕(ФωФ)  (2018-06-08 17:15:43)
+- ガランドが初殿堂なの？もっと伸びるべき  -- ろんろん  (2018-06-09 18:11:09)
+- 最近音沙汰なくて寂しい  -- めらんこ  (2021-04-08 14:43:28)
+- ピコンさん元気にしていらっしゃるのかな‥  -- 名無しさん  (2021-07-05 08:39:44)
+- ガランドと再生が大好きです。特に歌詞が好きです。  -- 名無しさん  (2022-01-03 20:29:42)
+- 上の人、寂しいってコメントして5ヶ月後に新作投稿されて嬉しくて踊ってそう()　更新止まってたけどチャンネル登録して良かったと思った人。  -- 名無しさん  (2022-02-08 12:14:18)
+#comment()

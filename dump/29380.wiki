@@ -1,0 +1,46 @@
+#right(){&furigana(TOTALOBJECTION)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo_mylist(<iframe width="312" height="176" src="https://ext.nicovideo.jp/thumb_mylist/38083435" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/38083435">【ニコニコ動画】楽曲たち</a></iframe>)|
+
+**特徴
+作り手名：『&u(){TOTAL OBJECTION}』（&u(){トータル オブジェクション}）
+-&bold(){yuna}、&bold(){須賀 勇介}、&bold(){けったろ}、&bold(){鬼丸P}の4名からなる創作グループ。
+-使用合成音声は[[GUMI>megpoid]]、[[IA]]、[[鏡音リン・レン]]。
+-「新世代の音楽家集団」を標榜している。
+-鬼丸氏がけったろ氏のソロCDの制作を手伝った事から、2012年12月に「TOTALOBJECTION」としての活動を開始し、その後元々親交のあった須賀氏とyuna氏が加わり現在のメンバーになる。
+-次の曲が殿堂入りを達成している。&br()&list_by_tagsearch(TOTAL OBJECTION,殿堂入り,sort=furigana,option=nolist,nolistspace=、,100)
+
+**リンク
+//-個人HP、PIAPRO、YouTube等ある場合は、ここに。当wiki以外のサイトへリンクを貼る場合は必ず「>>」で別ウインドウでリンクしてください。
+-[[ニコニコ動画>>https://www.nicovideo.jp/user/32578472]]
+//-[[YouTube>>https://www.youtube.com/]]
+-[[piapro>>https://piapro.jp/totalobjection]]
+//-[[Twitter>>https://twitter.com/]]
+//-[[公式HP>>http://www.totalobjection.com/]]
+
+**曲
+#list_by_tag(TOTAL OBJECTION,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(TOTAL OBJECTIONCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm20338311)|&nicovideo(sm21797925)|
+|&nicovideo(sm23342185)|&nicovideo(sm31162333)|
+
+**関連タグ内の更新履歴
+#region(close,関連タグ内の更新履歴)
+関連タグ内の更新履歴
+※「TOTAL OBJECTION」「TOTAL OBJECTIONCD」タグ内で最近編集やコメントのあった記事を新しい方から10件表示しています。
+#list_by_tagsearch(TOTAL OBJECTION,TOTAL OBJECTIONCD,sort=timestamp,sort2=desc,errmsg=まだ曲、CDが登録されていません。,or,10)
+#endregion
+
+**コメント
+- &co(){作成乙です！}この方々の曲大好きです！！  -- 名無しさん  (2014-05-28 13:20:07)
+//- TOのページやっとできてる！！ありがとうございます！！  -- 名無しさん  (2014-06-11 19:28:31)
+//- けったん&#9825;  -- 萌絵  (2014-08-09 13:03:48)
+- 茅蜩モラトリアム 大好きです！  -- りか  (2014-10-05 16:30:08)
+#comment()

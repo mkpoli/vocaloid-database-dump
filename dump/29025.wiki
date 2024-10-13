@@ -1,0 +1,42 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#amazon(B00JM1CQFA)
+
+|&nicovideo(http://www.nicovideo.jp/watch/1397703548)|&youtube(http://youtu.be/QRPWM9HxnBM){336,189}|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[VRUSH UP! ＃07 -siinamota Tribute-]]|CENTER:&bold(){VRUSH UP! ＃08 -40mP Tribute-}|CENTER:-|
+
+|&bold(){[[40㍍P]]}|[[うたたP]]|[[emon（Tes.）]]|[[電ポルP]]|[[すけっちP]]|[[DECO*27]]|[[ぺぺろんP]]|[[10日P]]|[[lumo]]|
+
+
+発売：2014年5月3日
+価格：￥1,620（税込）
+流通：全国
+レーベル：U/M/A/A
+
+**CD紹介
+-“VRUSH UP!”シリーズは、今までに発表されたVOCALOID楽曲を違う角度から楽しむことを目的として制作されたリミックスコンピレーションアルバム。
+-異なるクリエイターのセンスによって新たな解釈を加えることによって、楽曲を“VRUSH UP”しようという試み。
+-第八弾となる本作では &bold(){40mP} に焦点を当てている。
+-2014年4月27日に開催される「M3」のU/M/A/Aブース及び、「ニコニコ超会議3」内&br()「THE VOC@LOiD 超 M@STER28」の”う33.34（s10rw）”ブースにて先行販売された。（会場価格は￥1,000）
+-公式サイトにてCDの試聴可能。
+
+
+**曲目
++[[少年と魔法のロボット]] (Nijihara Peperon Blessed Whispers Remix)
++[[ジェンガ]] (monaca:factory 2363 Remix)
++[[キリトリセン]] (lumo conducts KIRITORemix)
++[[Melody in the sky]] (koyori PicoRock Remix)
++[[トリノコシティ]] (DECO*27 Nandemo Remix)
++[[Step to you]] (SuketchP fancy house Remix)
++[[夢地図]] (emon D’N’B Remix)
++[[シリョクケンサ]] (UtataP From A to D Remix)
+
+**リンク
+-[[amazon>>http://www.amazon.co.jp/dp/B00JM1CQFA]]
+-[[公式サイト>>http://vrushup.com/information/vrush-up-08-40mp-tribute/]]
+-[[作者サイト>>http://40meter.blog125.fc2.com]]
+
+**コメント
+- 追加おつ！  -- 名無しさん  (2014-04-18 21:13:28)
+#comment()

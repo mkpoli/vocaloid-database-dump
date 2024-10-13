@@ -1,0 +1,36 @@
+#right(){&furigana(ふかくていせいでぃすとぴあ)&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1520_20140525105258_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[華月怪改絵巻　〜かげつあやかしあらためえまき〜]]|CENTER:&bold(){不確定性ディストピア}|CENTER:[[コーヒーを淹れたなら]]|
+
+|&bold(){[[As'257G]]}|楢崎このみ|Azzy|
+
+発売：2014年6月11日
+価格：￥1,200 / 1曲￥150
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：As'257G
+
+|&bold(){[[iTunes Storeで購入する>>https://itunes.apple.com/jp/album/uncertainty-dystopia/id882611282]]}|
+
+**CD紹介
+-Sound Team Layer-0のAs'257G氏の配信アルバム。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++[[不確定性ディストピア]] （feat. がくっぽいど）
++[[零れた純潔の匂い]] （feat. がくっぽいど）
++悪意性モラリティ （feat. KAITO）
++[[CRAVING]] （feat. がくっぽいど）
++[[Trembling heart]] （feat. KAITO）
++[[Blague stupide]] （feat. がくっぽいど）
++[[Chain of sorrow]] （feat. がくっぽいど）
++[[淡雪]] （feat. KAITO）
+
+**リンク
+-[[サークルサイト>>http://layer-0.shillest.net/]]
+-[[KARENT：「不確定性ディストピア」>>http://karent.jp/album/1520]]
+
+**コメント
+#comment()

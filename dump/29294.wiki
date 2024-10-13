@@ -1,0 +1,35 @@
+#right(){&furigana(ことば)&furigana()【登録タグ:&tags() 】}
+//&ref(http://img.toranoana.jp/img/04/0030/20/32/040030203297-1.gif)
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186152055.jpg,x=300)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[残月>残月/CD]]|CENTER:&bold(){言葉}|CENTER:[[all my ballads 2 ~Eternal Dream~]]|
+
+|&bold(){[[キッドP]]}|ヒロバカー|[[クリスタルP]]|[[残鏡P]]|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2014年4月26日||
+|価格|CENTER:￥500|CENTER:￥746（税込）|
+|サークル|CENTER:クリキッド|CENTER:NnDS☆|
+
+**CD紹介
+-キッドPの6曲入りCD。
+-ヒロバカー氏とのコラボレーションシングル。ヒロバカー氏は8Pのブックレットと表題曲「言葉」の作詞を手掛けている。
+-THE VOC@LOiD 超 M@STER 28（超ボーマス28）で頒布。
+-とらのあなで委託販売が行われていた。
+
+**曲目
++言葉
++しんセカイ
++はじまりの草原
++言葉 -instrumental-
++しんセカイ -instrumental-
++はじまりの草原 -instrumental-
+
+**リンク
+-[[作者ブログ>>http://yaplog.jp/kidsworks/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/20/32/040030203297.html]]
+
+**コメント
+#comment()

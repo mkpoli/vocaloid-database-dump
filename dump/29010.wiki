@@ -1,0 +1,43 @@
+#right(){&furigana(えいぞうしょうじょとそううつしょうねん)&furigana()【登録タグ:&tags() 】}
+#ref(http://pbs.twimg.com/media/BlVYLtpCMAAkyMp.jpg,width=300,height=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm23387965)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[ヒトリボッチ革命戦争>ヒトリボッチ革命戦争/CD]]|CENTER:&bold(){影像少女と躁鬱少年}|CENTER:[[衝動中枢]]&br()[[GEGE]]|
+
+|&bold(){[[触媒ファントムガール]]}|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2014年4月27日||
+|価格|CENTER:￥1,000（税込）|CENTER:￥1,500（税別）|
+|サークル|>|CENTER:SODAMANIA|
+
+**CD紹介
+-触媒ファントムガール氏 の5thアルバム。
+-『[[気になるあいつは怪獣少年]]』『[[ネオテニーラヴ]]』などの既存曲に新曲を加えた全10曲を収録。
+-ジャケットイラストはこさk氏。
+-会場限定特典として、「非売品ポストカード（1種1枚）」をプレゼント。
+-THE VOC@LOiD 超 M@STER 28（超ボーマス3）にて頒布。
+-とらのあなで委託販売が行われていた。
+
+**曲目
++霹靂の音、通り雨、往来。
++[[躁鬱少年28号]]
++[[怪晴]]
++ナンバーショットχ
++[[ネオテニーラヴ]]（ver. looper remix）
++interception（inst.）
++三半規管、制御不能
++京王線メタフィジックス
++[[気になるあいつは怪獣少年]]（ver. eater remix）
++[[影像少女キルズミー]]
+
+**リンク
+-[[Twitter>>http://twitter.com/Phant0m_Girl]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/26/01/040030260143.html]]
+
+**コメント
+- 発売楽しみ  -- 名無しさん  (2014-04-16 19:34:41)
+- 曲名の順番は？  -- 名無しさん  (2015-07-30 19:53:07)
+#comment()

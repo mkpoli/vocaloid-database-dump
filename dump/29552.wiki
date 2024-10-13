@@ -1,0 +1,59 @@
+#right(){&furigana(ぴあのときみのものがたり)&furigana()【登録タグ:&tags() 】}
+//#image(http://img.toranoana.jp/bl_img/04/0030/05/26/040030052613-1.gif)
+
+&ref(https://dekadai.net/wp-content/uploads/2015/06/otoya008.jpg,x=300,y=430)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm18172711)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[ピアノのうた]]|CENTER:&bold(){ピアノと君の物語}|CENTER:[[音戯ばなし]]|
+
+|&bold(){[[挫折P]]}|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|>|CENTER:2012年7月8日|
+|価格|CENTER:￥1,500（税込）|CENTER:￥1,429（税抜）|
+|サークル|>|CENTER:音屋商会|
+
+**CD紹介
+-挫折Pの4年間の音楽の全てを詰め込んだ1stフルアルバム。
+-CDは全21曲の2枚組。さらにCDとは別に、48Pフルカラーの、絵本仕立てなイラストブックレットも付くという豪華仕様。
+-イラストは 真夜中二時過ぎ氏 が手掛ける。
+-THE VOC@LOiD M@STER 21（ボーマス21）にて頒布。
+
+**曲目
+[Disc1]
++Wonderful World（新曲）
++[[フクロウのそら]]
++[[道化師の夜の歌]]
++[[ピアノのために]]
++[[Funny Tiny Toy Box]]
++[[ねこ日和]]
++[[かんぱねら]]
++[[確率論]]
++[[存在証明>存在証明/挫折P]]
++[[カーニバル>カーニバル/挫折P]]
++[[聖夜一夜物語]]
+
+[Disc2]
++[[Swinging♪Valentine]]
++[[冬の魔法>冬の魔法/挫折P]] ～I Sing The Winter Magic～
++ゼロの風景
++[[恋想即興曲]]（フルVer.）
++[[夕立>夕立/挫折P]]
++[[君のピアノ]]
++ミライノハンブン
++すばらしい世界
++[[ひとりぼっちの日]]
++ねこ、眠る。
+
+**リンク
+-[[作者HP>>http://dekadai.net/]]
+-[[作者ブログ>>http://ameblo.jp/dekadai/]]
+-[[とらのあな>>http://www.toranoana.jp/bl/article/04/0030/05/26/040030052613.html]]
+-[[メロンブックス>>http://shop.melonbooks.co.jp/shop/detail/213001011530]]
+
+**コメント
+- 追加乙！！！！！！  -- 名無しさん  (2014-06-15 21:27:45)
+- 神曲多くてビックリ！  -- 名無しさん  (2017-01-14 22:40:17)
+#comment()

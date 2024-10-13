@@ -1,0 +1,175 @@
+#right(){&furigana(とうほくすんこ)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+**製品（ソング）
+//&image(http://www.ah-soft.net/shopimages/ahsshop/0000000005642.jpg,title=東北ずん子　Copyrights © 2005-2014 AHS Co. Ltd. All rights reserved.)
+
+|VOCALOID™3 東北ずん子|VOCALOID4 東北ずん子|CeVIO AI 東北ずん子 ソングボイス|h
+|&image(http://www.ah-soft.com/images/press/vocaloid/v3_zunko_box.jpg,height=240,title=東北ずん子　Copyrights © 2005-2014 AHS Co. Ltd. All rights reserved.)|&image(http://www.ah-soft.com/images/products/vocaloid/v4zunko/v4_zunko_natural_box.jpg,height=240,title=東北ずん子　Copyrights © 2005-2014 AHS Co. Ltd. All rights reserved.)|&image(https://www.ah-soft.com/images/products/cevio/zunko/cevio_zunko_pkg.jpg,height=240)|
+
+|CENTER:MIDDLE:製品名|CENTER:MIDDLE:[[VOCALOID™3 東北ずん子>https://www.ah-soft.com/vocaloid/zunko_v3/index.html]]|CENTER:MIDDLE:[[VOCALOID4 東北ずん子>https://www.ah-soft.com/vocaloid/zunko/index.html]]|CENTER:MIDDLE:[[CeVIO AI 東北ずん子 ソングボイス>https://www.ah-soft.com/cevio/zunko/index.html]]|
+|CENTER:MIDDLE:発売|CENTER:MIDDLE:2014年6月5日|CENTER:MIDDLE:2016年10月27日|CENTER:MIDDLE:2022年1月27日|
+|CENTER:MIDDLE:価格|CENTER:MIDDLE:11,238円（パッケージ版）(税抜)&br()8,381円（ダウンロード版）（税抜）|CENTER:MIDDLE:9,800円（パッケージ版）(税抜)&br()7,000円（ダウンロード版）（税抜）|CENTER:MIDDLE:11,880円（ソングボイスパッケージ版）(税込)&br()10,780円（ソングボイスダウンロード版）（税込|
+|CENTER:MIDDLE:開発|>|>|CENTER:MIDDLE:株式会社AHS|
+|CENTER:MIDDLE:エンジン|CENTER:MIDDLE:VOCALOID3|CENTER:MIDDLE:VOCALOID4|CENTER:MIDDLE:CeVIO AI|
+|CENTER:MIDDLE:言語|>|>|CENTER:MIDDLE:日本語ライブラリ|
+|CENTER:MIDDLE:性別|>|>|CENTER:MIDDLE:女声|
+|CENTER:MIDDLE:サンプリング元|>|>|CENTER:MIDDLE:佐藤聡美|
+|CENTER:MIDDLE:得意な曲のテンポ|>|CENTER:MIDDLE:70-140 BPM|CENTER:MIDDLE:(記載なし)|
+|CENTER:MIDDLE:得意な音域|>|CENTER:MIDDLE:F2-G♯4|CENTER:MIDDLE:(記載なし)|
+
+**製品（トーク）
+|VOICEROID+ 東北ずん子 EX|VOICEPEAK 東北ずん子|
+|&image(https://www.ah-soft.com/images/products/zunko/voiceroid_zunko_ex_box.jpg,height=240)|&image(https://www.ah-soft.com/images/products/voice/zunko/voicepeak_zunko_box.jpg,height=240)|
+|CENTER:MIDDLE:製品名|CENTER:MIDDLE:[[VOICEROID+ 東北ずん子 EX>https://www.ah-soft.com/voiceroid/zunko/index.html]]&Br()(旧称:VOICEROID+ 東北ずん子)|CENTER:MIDDLE:[[VOICEPEAK 東北ずん子>https://www.ah-soft.com/voice/zunko/index.html]]|
+|CENTER:MIDDLE:発売|CENTER:MIDDLE:2012年9月28日&Br()(EXは2014年10月30日)|CENTER:MIDDLE:2023年1月13日|
+|CENTER:MIDDLE:価格|CENTER:MIDDLE:11,000円（パッケージ版）(税抜)&br()7,980円（ダウンロード版）（税抜）&br()EXアップグレード版:1,480円（ダウンロードのみ）(税抜)|CENTER:MIDDLE:13,800円（パッケージ版）(税込)&br()10,800円（ダウンロード版）（税込）|
+|CENTER:MIDDLE:開発|>|CENTER:MIDDLE:株式会社AHS|
+|CENTER:MIDDLE:エンジン|CENTER:MIDDLE:VOICEROID+&Br()(現在はVOICEROID+ EXにバージョンアップ済)|CENTER:MIDDLE:VOICEPEAK|
+|CENTER:MIDDLE:言語|>|CENTER:MIDDLE:日本語ライブラリ|
+|CENTER:MIDDLE:性別|>|CENTER:MIDDLE:女声|
+|CENTER:MIDDLE:サンプリング元|>|CENTER:MIDDLE:佐藤聡美|
+
+***概要
+//「製品紹介」から題名変更
+合成音声名：『&u(){東北ずん子}』（&u(){とうほくずんこ}）
+-声優の佐藤聡美氏がサンプリング元の合成音声である。
+-キャラクターデザインは、江戸村ににこ氏。
+-当初は東北応援のために生まれたキャラクターである。
+--同じ目的で生まれた「[[東北イタコ]]」の妹、「[[東北きりたん]]」の姉であり、三姉妹の次女。
+-2023年2月12日時点で、以下のソフトが発売・公開されている。
+--ソング:VOCALOID3、VOCALOID4、NEUTRINO、CeVIO AI、
+--トーク:VOICELOID+EX、VOICEPRAK
+
+***公式設定
+|本名|東北じゅん子&br()・ずん子はあだ名&br()・本名のじゅん子で呼ばれることは全くない&br()・姉のイタコには忘れられ、妹のきりたんは全く知らなかった程|
+|年齢|17歳（高校2年生）|
+|身長|157cm|
+|趣味|ずんだ餅づくり|
+|特技|弓道&br()・弓道部に所属している&br()・ずんだアロー（という名の弓で放つ技）で、どんな餅もずんだ餅へと変えてしまう|
+|誕生日|10月27日|
+|将来の夢|東京にずんだカフェ、ずんだショップを作ること|
+|容姿|深緑色のロングヘア―で、枝豆形のカチューシャを付けている。&br()公式立ち絵は、萌葱色主体で裾が短めの弓道着を着ており、袴をはいていないのでミニスカートのような恰好である。&br()制服姿や、その他の恰好をした公式絵も多く存在する。|
+|家族|[[東北イタコ]]（姉・長女）、[[東北きりたん]]（妹・三女）、[[ずんだもん]]（ずん子のずんだアローの正体）|
+|友人|[[四国めたん]]、[[九州そら]]（mk=ll）、[[中国うさぎ]]（いずれもクラスメイト）|
+|その他関連人物|大都会：大江戸ちゃんこ、中部つるぎ、関西しのび&br()他:暗黒大将軍（アンコ食う大将軍）、北海道めろん、沖縄あわも|
+//[[東北ずん子 Official Website>>http://zunko.jp/]]や公式小説(http://inove.jp/sectionuserlist.php?nid=8)より一部引用
+//サイト更新により公式設定が見れなくなったためインターネットアーカイブより https://web.archive.org/web/20140802213856/http://zunko.jp/
+
+***今までの経過について
+-VOICELOID化（2012年）
+--『東北ずん子 ボイスロイド化ファンド』が立ち上がり資金を公募、目標を達成しVOICEROID化が決定。
+--2012年9月に、「VOICEROID+ 東北ずん子」がAHS社から発売された。
+--2014年10月に、「VOICEROID+ 東北ずん子 EX」にバージョンアップ。
+
+-VOCALOID3化（2013年）
+--2013年に『東北ずん子 ボーカロイド化ファンド』が作られ、目標資金である500万円以上を達成したことにより、VOCALOID化が決定。
+--結月ゆかり以来、2つ目となるVOICEROID兼VOCALOIDのキャラクターになる。
+--2014年6月に、「VOCALOID™3 東北ずん子」がAHS社から発売された。
+---（製品情報ページより転載：特徴について）ほんわかした可愛らしい声が特徴で、アイドル風の楽曲からバラードまで、やさしくふわっと歌い上げます。
+
+-VOCALOID4化（2016年）
+--2016年9月29日にVOCALOID4版のずん子（東北ずん子 ナチュラル）の情報を公開。
+---誕生日である10月27日に発売された。（同じ日に、きりたんのボイロも発売）
+
+-NEUTRINO化（2021年）
+--2020年にきりたんとイタコがNEUTRINO化されていたが、ずん子だけ取り残されていた。
+---ずん子はボカロがあったので後まわしになっていたとのこと。
+--2021年にクラファン「[[東北ずん子はAIで歌いたい！　テレビでも3姉妹で歌いたい！>https://greenfunding.jp/pub/projects/4482]]」で資金を募り、目標金額の750万円を達成。
+--これによりずん子もNEUTRINO化されることになり、2021年7月5日に一般リリースされた。
+---これで3姉妹全員NEUTRINO化（AI化）されることになった。
+---その後ずんだもんや、めたんもNEUTRINO化され現在に至る。
+--従来のボカロやUTAUより簡単に人のように歌わせられるが万能ではなく、「[[歌い手様総合テスト]]」のような人が歌えない歌は歌えないことが多い。
+---[[きりたんに歌わせた例>>https://www.nicovideo.jp/watch/sm36416739]]では、極端な極端な高音や低音は出ない、早口だと舌が回らず、ブレス無しだったり極端な長音だったりすると息切れするようである。
+
+--余談であるが、今回のクラファンはずん子のNEUTRINO化が目的であったが、「5分番組の放映」が追加ゴールに設定された。
+---残念ながらゴールには到達しなかったが、予算を圧縮することで、3姉妹や関連キャラの楽曲番組をテレビ放映できることになった。
+---2021年7月から9月にかけ、テレビ放送用の楽曲コンテストを開催（ずんコンテスト2021）
+---2021年10月から12月にかけて、宮城県の東北放送で1クール5分の番組「東北ずん子のミュージックパラダイス」を放映。
+---1回の放映で2曲、13回放映したため合計で26曲流れたが、ずん子含む3姉妹の曲が半数以上を占めていた。
+----なおソロ曲はきりたんが一番多く（7曲）、ずん子とイタコがそれぞれ2曲であった。
+
+-CeVIO AI化（2021年）
+--開発元はAHSで、2021年2月12日に発売された。
+---同日にCeVIO AI版イタコも発売。
+---先にきりたんがCeVIO AI化されており、今回ずん子と一緒に発売されたことで、ボイロ・NEUTRINOに続き、CeVIO AI(ソングボイス)も3姉妹揃うことになった。
+
+-VOICEPEAK化（2023年）
+--2023年1月13日に発売
+---最新のAI音声合成技術を用いた、テキスト読み上げ（トーク）用ソフト。
+---通常読み上げの他、「悲しみ」「驚き」「ふんわり」「決め台詞」「実況」という5種の感情表現にも対応。
+--[[ずんだもん]]と[[フリモメン]]も付属。
+
+***その他
+-キャラクターのガイドラインやVOCALOIDとしてのガイドライン、VOICEROIDのガイドラインなど異なる点に注意。（参考サイト：[[キャラクター利用のガイドライン>>https://zunko.jp/guideline.html]]・[[キャラクターライセンス窓口>>https://zunko.jp/con_shoushi.html]]）
+
+**公式デモソング
+-&b(){VOCALOID3版}
+|曲名：「[[麗しき大八洲]]」/作詞作曲：[[tamachang]]|曲名：「[[don't disappear]]」/作詞作曲：[[メディックP]]|
+|&nicovideo(sm23556588)|&nicovideo(sm23550928)|
+|曲名：「[[パステルイマジネーション]]」/作詞作曲：[[赤い彗星P]]|曲名：「[[Zung! Zung!]]」/作詞作曲：[[だいすけP]]|
+|&nicovideo(sm23556332)|&nicovideo(sm24136523)|
+|曲名:「[[空をわたる夢]]」/作詞作曲：[[ちょむP]]|曲名：「[[言葉を繋げて]]」/作詞作曲：[[tamachang]]|
+|&nicovideo(sm23639439)|&nicovideo(sm23666887)|
+|曲名：「[[FATE>FATE/AKI Oxford]]」/作詞作曲：AKI Oxford||
+|&nicovideo(1401852564)|~|
+
+-&b(){VOCALOID4版}
+|曲名：「[[Airy voice]]」/作詞作曲：[[TriadD Grid>トライアド]]|曲名：「[[Evergreen>Evergreen/パイパンP]]」/作詞作曲：[[ZANIO>パイパンP]]|
+|&nicovideo(sm29726537)|&nicovideo(sm29733545)|
+
+-&b(){CeVIO AI版}
+|曲名：「[[アイのプリンセス]]」/作詞作曲：[[マサキりたんP]]|曲名：「[[Green White]]」&br()/作詞：[[砂漠]]、作曲：[[ポンコツロマン]]&br()（投稿：[[あすたりすく]]）|
+|&nicovideo(sm39935907)|&nicovideo(sm39940507)|
+|曲名：「[[Zoom Down Café]]」/作詞作曲：[[haniwa15music]]|曲名：「[[全部、緑]]」/作詞作曲：[[ナスカズアキ]]|
+|&nicovideo(sm39937586)|&nicovideo(sm39939041)|
+
+**リンク
+-[[VOCALOID™3 東北ずん子 製品情報>>https://www.ah-soft.com/vocaloid/zunko_v3/index.html]]
+-[[VOCALOID4 東北ずん子 製品情報>>https://www.ah-soft.com/vocaloid/zunko/]]
+-[[NEUTRINO 東北ずん子 ダウンロードページ>>https://studio-neutrino.com/#library]]
+-[[CeXIO AI 東北ずん子 ソングボイス 製品情報>https://www.ah-soft.com/cevio/zunko/index.html]]
+
+-[[VOICEROID+ 東北ずん子 EX 製品情報>>https://www.ah-soft.com/voiceroid/zunko/index.html]]
+-[[VOICEPEAK 東北ずん子 製品情報>>https://www.ah-soft.com/voice/zunko/index.html]]
+
+-[[東北ずん子 Official Website>>https://zunko.jp/]]
+-[[東北ずん子 - VOCALOID™3 プレスリリース>>https://www.ah-soft.com/press/vocaloid/140515_zunko.html]]
+-[[東北ずん子 - VOCALOID4 プレスリリース>>https://www.ah-soft.com/press/voiceroid/160929_tohoku.html]]
+
+**関連タグ内の更新履歴
+※「東北ずん子」タグ内で最近編集やコメントのあった記事を新しい方から10件表示しています。
+#list_by_tagsearch(東北ずん子,sort=timestamp,sort2=desc,errmsg=まだ曲が登録されていません。,or,10)
+
+
+**コメント
+//- おーついに来た  -- 名無しさん  (2014-05-15 21:20:33)
+- 新しいＶＯＣＡＬＯＩＤがどんどん増えて賑やかになりますなー。これからの活躍に期待しています！  -- けん  (2014-05-15 21:50:11)
+//- 待ってました!!  -- 名無しさん  (2014-05-15 22:34:43)
+- ずん子ちゃんの利用ガイドラインの面白さはNo.1  -- 名無しさん  (2014-05-16 11:52:42)
+//- 私東北にすんでるよーー！！！  -- 伶  (2014-05-16 20:43:09)
+- ずん子かわいい！声質的にファンシーな曲や浮遊感のあるエレクトロやシューゲイザーなんかが聴きたいな！  -- 名無しさん  (2014-05-17 22:03:45)
+//- ん!?俺と誕生日が近いぞ!?  -- 名無しさん  (2014-05-18 15:46:22)
+- おお！CVは聡美さんか！！  -- 名無しさん  (2014-05-18 17:24:02)
+- 何この杏音鳥音やv flowerとの評価のギャップはｗｗｗｗ  -- 名無しさん  (2014-05-24 19:40:51)
+- ボイロとしての評価が上乗せされているから仕方ないよ  -- 名無しさん  (2014-05-24 21:36:18)
+- 私はずんちゃん大好きー  -- 紅  (2014-05-24 21:51:43)
+- パワー不足かなと思いましたが、その優しい声に癒やされます。パワータイプのいろは、メルリやおなじ優しい声のMewと一緒に歌わせたら良い感じかなと思います。  -- 名無しさん  (2014-07-11 03:12:29)
+- 声が可愛い！一番好きかも  -- 名無しさん  (2014-07-31 09:40:59)
+- MAYUと声の相性が良いですね。  -- 名無しさん  (2014-07-31 21:42:45)
+- お姉さんと妹さんがUTAU化する動きがありますね。  -- 名無しさん  (2014-08-27 11:52:15)
+- 公式設定の誕生日が発売日と違う件について。今までは発売日が誕生日でしたよね。  -- 名無しさん  (2014-09-16 18:46:33)
+- ずん子は東北復興のために生まれたキャラだから、VOCALOIDとして生まれたキャラとかとはそもそもの出自が違うよ。発売日＝誕生日じゃないのもそのため。  -- 名無しさん  (2014-09-16 20:22:07)
+- いろはやMAYU、SeeUあたりも発売日と誕生日は別ですよ。  -- 名無しさん  (2014-09-17 01:36:16)
+- ↑２と１　そうなんですか！！教えてくれてありがとうございます！！！  -- ３つ前の名無し  (2014-09-22 21:39:39)
+- だからといってオリンピックはない  -- 名無しさん  (2014-09-25 17:11:31)
+- UTAUの雪歌ユフといっしょに歌わせたらかなり良い感じだった。  -- 名無しさん  (2014-12-05 05:06:31)
+- 琉球vocaloidとか作って欲しい。元ちとせ風の音楽とか作られるのでは  -- tomohiro  (2015-03-08 19:04:22)
+- 誕生日おめでとう！クリヤスカイ機関大好きです！！  -- 悪斗  (2015-10-27 17:09:27)
+- ずんちゃんかわいいし佐藤聡美さんの声と凄く合ってると思います!東北三姉妹大好きです!!  -- ずんだもち  (2016-01-06 02:02:14)
+- ずんちゃんV4おめでとう!これからも頑張って!!  -- けん  (2016-10-25 23:40:31)
+- 東方とかでよく見ます。かわいい！がんばれ、東北！  -- 緋色pと言えるようになりたい  (2017-04-22 22:13:51)
+- ずんちゃん誕生日おめでとう!優しい歌声に心が癒されます!「桜はまた咲くけれど」が特にお気に入りの曲です!これからもよろしくね!!  -- けん  (2017-10-27 02:11:49)
+#comment()

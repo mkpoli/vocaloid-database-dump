@@ -1,0 +1,82 @@
+#right(){&furigana()&furigana()【登録タグ:&tags()】}
+|&nicovideo(sm22735202)|&YouTube(https://www.youtube.com/watch?v=ecED0tPBI8g&list=PLWVUjGst107PnMjEG3sUpN8KE4VRHwF-g){336,189}|
+作詞：[[Eri]]
+作曲：[[MJQ]]
+編曲：[[MJQ]]
+唄：初音ミク V3(ENGLISH)
+
+//**曲紹介
+//-
+
+**歌詞
+（[[YouTube概要欄>>http://www.youtube.com/watch?v=ecED0tPBI8g&list=PLWVUjGst107PnMjEG3sUpN8KE4VRHwF-g]]より転載）
+
+Things come and go, I don't know 
+when everything will slow down
+and follow my pace?
+Or am I just some broken
+piece of all things living?
+trying to find a place
+or a path to follow?
+
+I can't keep on living hanging on to helping hands
+but to stray from them, I can? To create more new beginnings
+I'm afraid to leap to someplace different from the past
+but if I go, would I last?
+Well I guess I should believe in me
+
+I just stay still, not a will 
+to go on new adventures
+or a new blank page?
+Or am I just a lost bird
+flying through the sky and
+not knowing where to go?
+Blinded by white clouds
+
+I can't keep on living on this excuse for a life
+but can I exit the line? To go make myself a new one
+I'm afraid that if I go there is no turning back, 
+no more schedule, no more tasks, well, I can make my own ones
+
+I can't keep on living , hanging on to helping hands
+but to stray from them, I can! To create more new beginnings
+I'm afraid to leap to someplace different from the past
+but if I go, would I last? So I guess I should just take that leap.
+
+#region(日本語訳詞)
+ぐるぐる世界は回る
+いつ静まって　わたしのペースに合うの？
+追いつこうと　場所や道を探してるけど
+わたし　壊れたかけらでしかないのかな
+
+誰かに頼り続けて生きてはいれない
+でも新しいことを始める為に
+一人になっても大丈夫？
+これまでと違うどこかに飛び出すのはこわいな
+負けないでいられるかな？
+でもね、きっと自分を信じなくちゃ
+
+まだここにいる
+新しい冒険や真っ白なページに進むつもりはないの？
+わたし　白い雲に目が眩んで
+空を飛びながら彷徨う
+迷子の鳥でしかないのかな
+
+こんな言い訳にしがみ続けてはいれない
+でも新しい自分の為に
+道を外れるなんて出来るかな？
+後戻りは出来ない
+予定も用事もなくなるのはこわいな
+でもね、全部一から作りだせるんだ
+
+誰かに頼り続けて生きてはいれない
+でも新しいことを始める為に
+一人になっても大丈夫？
+これまでと違うどこかに飛び出すのはこわいな
+負けないでいられるかな？
+そんなこと考えるより　きっととにかく飛び出してみるべきだよね
+#endregion
+
+
+**コメント
+#comment()

@@ -1,0 +1,33 @@
+#right(){&furigana(とうきょうさつきやまい)&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1527_20140531030829_0280_0280.jpg)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm23713732)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[ポケットサイズ・ドキュメンタリ]]|CENTER:&bold(){東京五月病}|CENTER:[[ぼくの魔法使い]]|
+
+|&bold(){[[西沢さんP]]}|
+
+発売：2014年7月16日
+価格：￥150
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：おどり
+
+|&bold(){[[iTunes Storeで購入する>>https://itunes.apple.com/jp/album/tokyo-may-blues-single/id897118548]]}|
+
+**CD紹介
+>雨が上がる。
+-雑誌「[[MIKU-Pack music&artworks feat.初音ミク>>http://miku-pack.jp/]]」07号付録CDにて先行収録された書き下ろし楽曲。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++東京五月病 （feat. 鏡音リン）
+
+**リンク
+-[[作者サイト>>http://zawaso.com/]]
+-[[KARENT：「東京五月病」>>http://karent.jp/album/1527]]
+-[[KARENT：「MIKU-Pack」特集ページ>>http://karent.jp/special/mikupack14]]
+
+**コメント
+#comment()

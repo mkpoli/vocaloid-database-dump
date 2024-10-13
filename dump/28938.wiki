@@ -1,0 +1,49 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+//#ref(http://img.toranoana.jp/img/04/0030/16/88/040030168818-1.gif)
+&nicovideo(http://www.nicovideo.jp/watch/sm17638695)
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Present>Present/CD]]|CENTER:&bold(){graffiti}|CENTER:[[TEXT]]|
+
+|&bold(){[[ねこぼーろ]]}|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2012年4月28日||
+|価格|CENTER:￥1,000（税込）|CENTER:￥1,429（税抜）|
+|サークル|CENTER:nekobolo|CENTER:Polymatope|
+
+**CD紹介
+>&bold(){(●･ч･)＜おはようございます}
+-ねこぼーろ氏の3rdアルバム。
+-やりたいようにやった結果、このようなものができました。ごめんなさい。ありがとうございます。（作者コメ転載）
+-レコード風CD仕様となっており、記録面も黒色である。
+-ニコニコ超会議内 THE VOC@LOiD 超 M@STER 20 にて頒布。とらのあな にて委託販売されている。
+
+**曲目
++3minutes open world
++嘘と絵画
++break33
++study
++散歩道
++bone
++博士の落書き
++Battle of Snack
++インチキさん
++press start
++[[Ghoti salad]]
++ホームワーク [loop34]
++イエスタデイ [loop16]
++Answer22
++[[ライア>ライア/ねこぼーろ]]
++lost [2010]
++歩き出せば最終電車
++さよならくがきのうた  
+
+**リンク
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/16/88/040030168818.html]]
+
+**コメント
+- これほしいなぁ  -- 名無しさん  (2014-04-10 20:21:52)
+- あっ！「歩き出せば最終電車」だ  -- 良太  (2014-06-02 19:54:30)
+- ↑今日買いました！   ねこぼーろのアルバム初めてゲットしました  -- 良太  (2014-07-08 17:32:16)
+- 「うつむけば嘘」じゃ無く「嘘と絵画」ですね  -- 名無しさん  (2015-10-03 20:52:01)
+#comment()

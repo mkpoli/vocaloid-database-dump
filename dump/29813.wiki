@@ -1,0 +1,66 @@
+#right(){&furigana(とうほくゆきにのって)&furigana()【登録タグ:&tags()】}
+&nicovideo(http://www.nicovideo.jp/watch/sm21617867)
+作詞：[[少々P]]
+作曲：[[少々P]]
+唄：&color(DodgerBlue){KAITO},&color(green){初音ミク},&color(Orange){鏡音レン,鏡音リン,巡音ルカ}
+
+**曲紹介
+-第11回MMD杯本選参加作品。テーマは東北。
+
+**歌詞
+（動画より転載）
+
+&color(DodgerBlue){言いたい事は飲み込んで}
+&color(DodgerBlue){上手く誤魔化して}
+&color(DodgerBlue){この夏が過ぎればいいと}
+&color(DodgerBlue){自己満足を探してる}
+
+&color(green){あなたはいつも疲れていて}
+&color(green){仕方ないから}
+&color(green){平気だよって笑ってみせて}
+&color(green){言いたい事は飲み込んでる}
+
+&color(DodgerBlue){子供のころ}約束した
+&color(green){ずっと}一緒に
+&color(DodgerBlue){夢に見てた}都会の暮らしが
+&color(green){何を}変えてしまったの？
+
+東北行に乗ってシーンを探そう
+あなたが「好き」と言った
+山の息吹　夏霞
+
+
+&color(green){お洒落な店を見つけたから}
+&color(green){行ってみようとか}
+&color(green){あなたに興味が無いなんて}
+&color(green){とっくに知ってる事だけど}
+
+&color(DodgerBlue){僕らはここで何を見て　生きてきたのか}
+&color(DodgerBlue){過ごした時の軽さだけで}
+&color(DodgerBlue){大事な何か無くしてきた}
+
+&color(green){降り注ぐ}満天の星への願いも
+&color(DodgerBlue){強すぎる}都会の光に
+&color(green){負けて}消えてしまったの？
+
+東北行に乗って　シーンを探そう
+あなたが「好き」と言った
+地平線の天の川
+
+
+&color(Orange){変わらない君達が　きっといるから}
+&color(Orange){失った時間軸の}
+&color(Orange){触れ合う言葉　探しに行こう　今すぐ}
+
+東北行に乗って　シーンを探そう
+あなたに「好き」と言った
+夕暮れ　田舎道で
+
+東北行に乗って　窓際座ろう
+そこではもう聞こえる
+秋を誘う蝉しぐれ
+
+新しい季節呼ぶ歌声
+
+**コメント
+#comment()

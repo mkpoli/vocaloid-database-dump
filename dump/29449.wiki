@@ -1,0 +1,32 @@
+#right(){&furigana(しあわせのとおりみち)&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1515_20140514213232_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[音戯ばなし]]|CENTER:&bold(){幸せの通り道}|CENTER:-|
+
+|&bold(){[[挫折P]]}|
+
+発売：2014年6月4日
+価格：￥150
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：へちま
+
+|&bold(){[[iTunes Storeで購入する>>https://itunes.apple.com/jp/album/happy-road-single/id882618744]]}|
+
+**CD紹介
+-挫折Pことでか大氏の配信シングル。
+-雑誌「[[MIKU-Pack music&artworks feat.初音ミク>>http://miku-pack.jp/]]」06号付録CDにて先行収録された書き下ろし楽曲。
+-テーマは通学路。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++幸せの通り道 （feat. 初音ミク）
+
+**リンク
+-[[作者サイト>>http://dekadai.net/]]
+-[[KARENT：「幸せの通り道」>>http://karent.jp/album/1515]]
+-[[KARENT：「MIKU-Pack collection」特集ページ>>http://karent.jp/special/mikupack14]]
+
+**コメント
+#comment()
