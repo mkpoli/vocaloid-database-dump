@@ -1,0 +1,34 @@
+#right(){&furigana(ときとわくせいとつみと)&furigana()【登録タグ:&tags() 】}
+
+&image(http://karent.jp/npdca/1949_20160929013914_0280_0280.jpg)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm29781525)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[もう一度最初から]]|CENTER:&bold(){時と惑星と罪と}|CENTER:[[刺激!]]|
+
+|&bold(){[[箸休／hashiyasume]]}|
+
+発売：2016年10月12日
+価格：￥600 / 1曲￥150
+流通：配信
+レーベル：KARENT
+
+**CD紹介
+-箸休 の3rdミニアルバム。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++[[失われた地平線]] （feat. 初音ミク）
++[[花宵時雨]] （feat. 初音ミク）
++[[ソラリス]] （feat. 初音ミク）
++却波 （feat. 初音ミク）
++マンクスマン （feat. 初音ミク）
+
+**リンク
+-[[作者twitter>>https://twitter.com/Edgar_Lovecraft]]
+-[[KARENT：「時と惑星と罪と」>>http://karent.jp/album/1949]]
+-[[iTunes Store>>https://itunes.apple.com/jp/album/time-planet-and-sin-ep/id1163095442]]
+
+**コメント
+#comment()

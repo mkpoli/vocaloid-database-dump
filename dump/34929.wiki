@@ -1,0 +1,41 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+|&nicovideo(sm29385843)|&YouTube(http://www.youtube.com/watch?v=Kt7aMZTu1Zc){342,187}|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[レクイヱム～Requiem for the Moon～]]|CENTER:&bold(){Whiteout Message}|CENTER:-|
+
+|&bold(){[[ぺぺろんP]]}|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|CENTER:2016年8月14日|CENTER:2016年8月下旬|
+|価格|CENTER:￥1,000|CENTER:未定|
+|サークル|>|CENTER:陰謀派スライダー|
+
+**CD紹介
+-17作目となる、同人オリジナルアルバム。
+-2013～2016年までに投稿した様々なボカロ楽曲を中心に、全13曲を収録。
+-コミックマーケット90（C90）にて頒布。後日、書店委託販売を予定。
+
+**曲目
++ホワイトアウトメッセージ feat. 鏡音リン
++[[Fantastic Night]] feat. 音街ウナ
++[[シスタス・アルビドゥス]] feat. GUMI
++[[In Your Dark]] feat. 神威がくぽ
++[[ブルームーン>ブルームーン/ぺぺろんP]] feat. galaco
++[[夜の欠片]] feat. 氷山キヨテル
++[[Possibility>Possibility/ぺぺろんP]] feat. GUMI
++[[エト・セトラ]] feat. Chika
++消える八月は線香花火のように feat. 結月ゆかり・IA
++さらばミレニアム feat. miki
++冬の予感を終わらせて feat. 鏡音リン
++[[たった一つの弾丸で]] feat. GUMI
++[[solid heart]]～2016 ver.～ feat. 初音ミク・鏡音リン
+
+**リンク
+-[[作者サイト>>http://www.njpeperon.sakura.ne.jp/]]
+-[[作者ブログ>>http://peperonp.blog59.fc2.com/]]
+//-[[とらのあな>>]]
+
+**コメント
+- おおおお！！！ペペロンだッ！  -- 名無しさん  (2016-08-13 00:12:22)
+#comment()

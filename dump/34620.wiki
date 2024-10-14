@@ -1,0 +1,40 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1950_20161003104513_0280_0280.jpg)
+|&nicovideo(http://www.nicovideo.jp/watch/sm28997901)|&youtube(http://www.youtube.com/watch?v=CN60zUdiC1E){342,187}|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[ココノコエ]]|CENTER:&bold(){with volume 1}|CENTER:-|
+
+|&bold(){[[斜め上P]]}|[[IGASIO]]|[[ちょいワルP]]|
+
+|流通|CENTER:即売|CENTER:委託|CENTER:配信|
+|発売|CENTER:2016年6月12日||CENTER:2016年11月4日|
+|価格||CENTER:￥781（税別）|CENTER:￥300|
+|サークル|>|CENTER:SURPRISE PARTY||
+
+**CD紹介
+-斜め上P のシングルCD。
+-IGASIO氏 とのコラボ曲、ダブルメーが歌う「Double Mē ～私が二人いたら～」と ちょいワルP とのコラボ曲、咲音メイコとレオンのデュエット「ありふれたラブソング - An Ordinary Love Song -」の2曲とオフボーカル版を収録。
+-イラストを daigoman氏 が、衣装デザインを [[アサミ(99P)>99P]]氏 が手掛ける。
+-「VOCALOID PARADISE 番外編5 MEIKO PARADISE 3」より頒布。
+-とらのあな、BOOTHにて通販が行われている。
+-KARENTレーベルよりダウンロード販売が行われている。配信版はオフボーカルを除いた全2曲。MEIKO12周年記念企画で配信された作品の1つ。
+
+**曲目
++[[Double Mē ～私が二人いたら～]]
++[[ありふれたラブソング - An Ordinary Love Song -]]
++Double Mē ～私が二人いたら～ (off vocal)
++ありふれたラブソング - An Ordinary Love Song - (off vocal)
++ありふれたラブソング - An Ordinary Love Song - (off vocal:duet with LEON)
++ありふれたラブソング - An Ordinary Love Song - (off vocal:duet with SAKINE MEIKO)
+
+**リンク
+-[[作者blog>>http://www.nanameue.com/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/44/27/040030442769.html]]
+-[[BOOTH>>http://daigoman.booth.pm/items/296964]]
+-[[KARENT：「with volume 1」>>http://karent.jp/album/1950]]
+-[[KARENT：「MEIKO 12th Anniversary」特集ページ>>http://karent.jp/special/meiko16]]
+-[[iTunes Store>>http://itunes.apple.com/jp/album/with-volume-1-single/id1170418285]]
+
+**コメント
+#comment()

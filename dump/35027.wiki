@@ -1,0 +1,28 @@
+#right(){&furigana(はちがつのれいにー)&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1925_20160717020755_0280_0280.jpg)
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){八月のレイニー(The Starry Night Mix)}|CENTER:[[BLUE ENDING NOVA]]|
+
+|&bold(){[[はるまきごはん]]}|
+
+発売：2016年8月22日
+価格：￥150
+流通：即売
+レーベル：KARENT
+
+**CD紹介
+-はるまきごはん氏の配信シングル。
+-「[[八月のレイニー]]」のアレンジバージョンを収録。
+-KARENTレーベルよりダウンロード販売が行われている。初音ミク9周年記念特集で配信された作品の1つ。
+
+**曲目
++八月のレイニー(Starry Night Mix) （feat. 初音ミク）
+
+**リンク
+-[[twitter>>http://twitter.com/harumaki_gohan]]
+-[[KARENT：「八月のレイニー(The Starry Night Mix)」>>http://karent.jp/album/1925]]
+-[[KARENT：「初音ミク 9th Anniversary」特集ページ>>http://karent.jp/special/miku16]]
+-[[iTunes Store>>http://itunes.apple.com/jp/album/rainy-in-august-single/id1139662154]]
+
+**コメント
+#comment()

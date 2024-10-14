@@ -1,0 +1,36 @@
+#right(){&furigana(きみがうたうぼくのうた)&furigana()【登録タグ:&tags() 】}
+#ref(http://karent.jp/npdca/1952_20161013104624_0280_0280.jpg)
+&nicovideo(http://www.nicovideo.jp/watch/sm30782475)
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[TSUNDELADY>TSUNDELADY/CD]]|CENTER:&bold(){君が歌う僕の歌}|CENTER:-|
+
+|&bold(){[[畑中洋光]]}|たちかぜ|
+
+発売：2016年11月4日
+価格：￥900
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：[[たちかぜ>>http://piapro.jp/sino131]]
+
+**CD紹介
+-korbyhata氏とS.Nakajima氏によるユニット畑中洋光のアルバム。
+-KARENTレーベルよりダウンロード販売が行われている。KARENTのMEIKO12周年記念企画で配信された作品の1つ。
+
+**曲目
++[[HAPPY BIRTHDAY SONG]] （feat. MEIKO）
++[[Love Dynamite]] （feat. MEIKO）
++[[Scene-緋]] （feat. MEIKO）
++[[影法師]] （feat. MEIKO）
++[[モノクロレイン]] （feat. MEIKO）
++[[さよならロジック]] （feat. MEIKO）
++[[砂の城>砂の城/畑中洋光]] （feat. MEIKO）
++[[君が歌う僕の歌]] （feat. MEIKO）
+
+**リンク
+-[[twitter>>http://twitter.com/korbyhata]]
+-[[KARENT：「君が歌う僕の歌」>>http://karent.jp/album/1952]]
+-[[KARENT：「MEIKO 12th Anniversary」特集ページ>>http://karent.jp/special/meiko16]]
+-[[iTunes Store>>http://itunes.apple.com/jp/album/my-song-that-you-sing/id1170419292]]
+
+**コメント
+#comment()

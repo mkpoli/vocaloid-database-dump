@@ -1,0 +1,31 @@
+#right(){&furigana(なつにさよなら)&furigana()【登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186147935.jpg,x=300,y=300)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[灰雪-2016-]]|CENTER:&bold(){夏に、サヨナラ}|CENTER:[[夏に、サヨナラ（配信）>夏に、サヨナラ]]|
+
+|&bold(){[[キッドP]]}|[[クリスタルP]]|[[残鏡P]]|
+
+発売：2016年6月12日
+価格：￥500
+流通：即売
+サークル：クリキッド＆ユメヤ
+
+**CD紹介
+-キッドPのシングルCD。
+-表題曲でKAITOをメインとしたシングルは初。
+-Tr.2はかつてレン曲として発表した楽曲のKAITO ver.。
+-ジャケットイラストは秋吉氏。
+-VOCALOID PARADISE 番外編5 KAITO PARADISE 4（ボーパラ番外編5カイパラ4）で初頒布。
+
+**曲目
++[[夏に、サヨナラ]]
++慟哭のラビリズム-KAITO ver.-
++夏に、サヨナラ-instrumental-
+
+**リンク
+-[[作者ブログ>>http://yaplog.jp/kidsworks/]]
+
+**コメント
+#comment()

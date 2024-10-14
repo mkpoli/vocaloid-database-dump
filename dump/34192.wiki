@@ -1,0 +1,55 @@
+#right(){&furigana(Letmetakeyououttodinner)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(http://www.nicovideo.jp/watch/sm25778331)|
+作詞：[[tunasarada]]
+作曲：[[tunasarada]]
+編曲：[[tunasarada]]
+動画：[[葉月ひよこ]]
+唄：[[鏡音レン>鏡音リン・レン]]
+
+**曲紹介
+>&bold(){幸せだったカップルのお話です。}
+曲名：『&u(){Let me take you out to dinner}』
+
+**歌詞
+君が見てた世界がどれくらい魅力的なのか
+想像すればよみがえる　どんな色でも
+
+少しずつの答えが何重もかさなっていけば
+いつの間にか全て思い出すから
+
+Let me take you out to dinner　失われた思い出は
+Let me take you out to dinner　きっと見つけられるから
+Let me take you out to dinner　君が好きだった場所まで　
+Let me take you out to dinner　連れて行くよ　いつでも
+
+二人で過ごした時間　忘れることなんて出来ない　
+はなればなれを受け入れる　そんなの嫌でしょう
+
+雫が落ちていく　何重も音色が響く
+気がついたらすぐに聞こえてくるよ
+
+Let me take you out to dinner　二人だけの合い言葉が
+Let me take you out to dinner　いつの日か通じ合うように
+Let me take you out to dinner　君が好きだった場所まで　
+Let me take you out to dinner　連れて行くよ　いつでも
+
+相向かいに座って　君の笑顔を見続けていたいから
+その時が来るまで　僕の想いは大事にしまっておくんだ
+
+Let me take you out to dinner　君が好きだった場所まで　
+Let me take you out to dinner　連れて行くよ　いつでも
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+**コメント
+#comment()
+
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)

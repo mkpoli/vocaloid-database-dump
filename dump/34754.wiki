@@ -1,0 +1,33 @@
+#right(){&furigana()&furigana()【登録タグ:&tags()】}
+&ref(http://karent.jp/npdca/1896_20160503105509_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[ミクロコスモス>ミクロコスモス/CD]]|CENTER:&bold(){Save the Children ~ Hope Macaron 2016}|CENTER:-|
+
+|&bold(){[[Gumin]]}|mebiuse444|
+
+発売：2016年6月1日
+価格：￥300
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：[[maborun>>http://piapro.jp/maborun]]
+
+**CD紹介
+-Gumin氏の配信作品。
+-KARENTレーベルよりダウンロード販売が行われている。
+-難病とたたかう子供たちのためのチャリティーイベント「マカロンデー」の企画「Hope Macaron 2016」特集で配信された作品の1つ。
+
+**曲目
++[[曇り空晴らして]] （feat. 初音ミク）
++[[幸せの螺旋]] （feat. 初音ミク）
++[[星月物語]] （feat. 初音ミク）
+
+**リンク
+-[[twitter>>http://twitter.com/kirikirin3939]]
+-[[作者ブログ>>http://ameblo.jp/kirikirin3939/]]
+-[[KARENT：「Save the Children ~ Hope Macaron 2016」>>http://karent.jp/album/1896]]
+-[[KARENT：「Hope Macaron 2016」特集ページ>>http://karent.jp/special/macaron16]]
+-[[iTunes Store>>http://itunes.apple.com/jp/album/save-children-hope-macaron/id1116001123]]
+
+**コメント
+#comment()

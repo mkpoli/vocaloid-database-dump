@@ -1,0 +1,46 @@
+#right(){&furigana(Dex)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+**製品
+&image(https://cdn.shopify.com/s/files/1/1890/5447/products/Dex_1024x1024.png,height=260)
+***製品概要
+|製品名|DEX|
+|発売|2015年11月|
+|価格|$69.99（ダウンロード販売）|
+|開発|Zero-G|
+|エンジン|VOCALOID4|
+|言語|英語ライブラリ|
+|性別|男性|
+|サンプリング元|Sam Blakeslee|
+|得意なジャンル|ロック、ポップ、ダンスミュージック|
+|得意な音域|B1-F#3|
+
+***製品紹介
+合成音声名：『&u(){Dex}』
+-イギリスのZero-G社より発売されたVOCALOID4対応の男性音源。
+-イギリス製ではあるが、アメリカ英語のアクセントに重点をおいて作成されているらしい。
+-サンプリング元であるSam Blakeslee氏はニコ動上でユーザー名「Kenji-B」で活動しているボカロP。
+--英語のUTAU音源「倍音音ケンジ」のサンプリング元でもある。
+-公式イラストはEmissarySteel氏によるもの。
+-当初は[[DAINA]]と一緒に獣耳コンビでデザインされていたが、制作元に難色を示されたためヘッドホンにFOXというデザインに変更された。([[Steel氏のtwitterより>>http://twitter.com/EmissarySteel/status/620632925537603584]])
+--この影響か公式PVは獣耳モードになってたりする。
+
+**デモソング
+|DEX AND DAINAデモ&br()&youtube(http://www.youtube.com/watch?v=h1bJToHUnwM){300,200}|Two Weeks&br()&youtube(http://www.youtube.com/watch?v=-HtYScbpi3Q){300,200}|
+|A Wicked Girl and a Tin Boy （DEXと[[DAINA]]のデュエット曲）&br()&youtube(http://www.youtube.com/watch?v=zm5sIy72jtQ){300,200}|Define Me （KENJI-B氏によるカバー曲）&br()&youtube(http://www.youtube.com/watch?v=1npRLb6iQ9c){300,200}|
+
+**関連タグ内の更新履歴
+※「Dex」タグ内で最近編集やコメントのあった記事を新しい方から10件表示しています。
+#list_by_tagsearch(Dex,sort=timestamp,sort2=desc,errmsg=まだ曲が登録されていません。,or,10)
+
+
+**リンク
+-[[公式サイト>>http://www.zero-g.co.uk/store/vocaloid4-dex-p544.php]]
+-[[Kenji-B氏のニコニコアカウント>>http://www.nicovideo.jp/user/16291467]]
+
+**コメント
+- おおおおおッ！！  -- 名無しさん  (2016-08-30 01:09:11)
+- ケモミミかわいい♡  -- ばななあいす  (2017-01-04 17:13:11)
+#comment()

@@ -1,0 +1,31 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Lots of Love feat.初音ミク]]|CENTER:&bold(){GRAND MUSE Presents みくのあなVol.1【45分の恋人】}|CENTER:-|
+
+|&bold(){[[坂本裕介]]}|&bold(){[[エンドケイプ]]}|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|CENTER:2012年4月28日|CENTER:2012年5月|
+|価格|CENTER:￥|CENTER:￥1,500（税別）|
+|サークル|>|CENTER:Grand Muse|
+
+**CD紹介
+-「[[45分の恋人]]」のアレンジCD。
+-THE VOC@LOiD  M@STER 20（超ボーマス20）で頒布。
+-とらのあなで委託販売が行われていた。
+
+**曲目
++[[45分の恋人]] / SAKAMOTO-P feat.初音ミク
++45分の恋人（ROCKバージョン） / SAKAMOTO-P feat. GUMI
++[[45分の恋人（男性バージョン）>45分の恋人男性バージョン]] / SAKAMOTO-P feat.神威がくぽ
++45分の恋人 【Off Vocal】
++45分の恋人（ROCKバージョン） 【Off Vocal】
++45分の恋人（男性バージョン） 【Off Vocal】
+
+**リンク
+//-[[Grand Muse>>http://grand-muse.jp/]]
+-[[twitter>>http://twitter.com/grand_muse]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/04/32/040030043213.html]]
+
+**コメント
+#comment()

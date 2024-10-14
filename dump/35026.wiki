@@ -1,0 +1,31 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm27522304)
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){years}|CENTER:-|
+
+|[[平井ジロー]]|[[はるまきごはん]]|[[nonemu]]|[[ことりっぷ]]|攻|
+
+|流通|CENTER:即売|CENTER:配信|
+|発売|CENTER:2015年11月14日||
+|価格|CENTER:￥500|CENTER:￥800|
+|サークル|CENTER:ラーメンズ||
+
+**CD紹介
+-4人のボカロPが贈る、春夏秋冬コンピレーションアルバム。
+-Illust：ACH、Texture：ROSHIKA
+-THE VOC@LOiD M@STER 33（ボーマス33）で頒布。
+-BOOTHでダウンロード販売が行われている。
+
+**曲目
++[[桜の海を往く]] feat. IA / 平井ジロー（調声：攻）
++レインカーテン feat. 初音ミク / 平井ジロー、はるまきごはん
++Apollo999 feat. 初音ミク / はるまきごはん
++[[金木犀の隣で]] feat. 初音ミク / nonemu
++時雨の跡 feat. GUMI / nonemu、ことりっぷ
++[[月暈]] feat. GUMI Power / ことりっぷ
+
+**リンク
+-[[BOOTH>>https://nonemu.booth.pm/items/223561]]
+
+**コメント
+#comment()

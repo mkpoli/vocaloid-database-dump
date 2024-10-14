@@ -1,0 +1,41 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#ref(http://vocadb.net/Album/CoverPicture/16834?v=7,width=300,height=300) 
+
+|&nicovideo(http://www.nicovideo.jp/watch/sm28328637)|&youtube(http://www.youtube.com/watch?v=Q8I-kER2rQg){336,189}||
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){IrukaLuka EP}|CENTER:-|
+
+|&bold(){[[かねイルカ]]}|
+
+|流通|CENTER:即売|CENTER:配信(iTunes Store)|CENTER:配信(Amazon MP3)|CENTER:通販|
+|発売|CENTER:2016年3月6日|CENTER:2016年5月4日|CENTER:2016年5月4日||
+|価格|CENTER:￥500（税込）|CENTER:￥450|CENTER:￥500||
+|サークル・レーベル|>|>|>|Project yumeiruka|
+
+**CD紹介
+-かねイルカ(オクターブ上P)、1st EP。
+-「[[かねイルカ（オクターブ上P）>かねイルカ]]」が歌唱にはVOCALOIDの「巡音ルカ」のみを用いて製作した全4曲入りのEP。（3曲目のみ歌無しのInstrumental楽曲。）
+-VOCALOID PARADISE 関西5（ボーパラ関西5）のサークル「[[Project yumeiruka]]」にて初頒布。
+-同人ショップ店頭や全国CDショップ店頭での販売は行われていないものの、個人通販は行われている。
+-個人名義初となる、ボカロP「かねイルカ（オクターブ上P）」とVOCALOID「巡音ルカ」の1st EP。収録曲の歌唱は巡音ルカだけが担当。チップチューン、エレクトロハウス、ポストダブステップ、ドラムステップと4曲4様の曲を全曲初CD化で収録しています。1曲目には完全未発表新曲を収録し、3曲目は、アレンジを加えて再収録。そして4曲目には、現時点でのかねイルカの代表曲ともいえる「インスリン」の巡音ルカ歌唱Ver.をBONUS TRACKとして収録しています！（EP特設サイトの説明文より引用。）
+-2016年05月04日、「iTunes Store」、「Amazon MP3」、「mora(モーラ)」、「OTOTOY」、「着信★うた♪」、「junodownload」、「music.jp」での配信も開始。（「music.jp」は1曲単位の販売のみが行われている模様。）
+
+**曲目
++Good morning, Good night
++[[Nothing with two]]
++夢遊病 / 浮遊病
++[[インスリン]]
+
+**リンク
+-[[特設サイト(Tumblr)>>http://irukaluka.tumblr.com/]]
+-[[VOCADB>>http://vocadb.net/Al/16834]]
+-[[iTunes Store：「IrukaLuka EP」>>http://itunes.apple.com/jp/album/id1106507397]]
+-[[Amazon MP3：「IrukaLuka EP」>>http://www.amazon.co.jp/dp/B01EO0VRNU/]]
+-[[mora(モーラ)：「IrukaLuka EP」>>http://mora.jp/package/43000018/4511820-93864/]]
+-[[OTOTOY：「IrukaLuka EP」>>http://ototoy.jp/_/default/p/62172]]
+-[[着信★うた♪：「IrukaLuka EP」>>http://uta.573.jp/song/8117604]]
+-[[junodownload：「IrukaLuka EP」>>http://www.junodownload.com/products/kaneiluka-megurine-luka-irukaluka-ep/3080013-02/]]
+
+**コメント
+#comment()

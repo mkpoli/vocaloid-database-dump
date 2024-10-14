@@ -1,0 +1,43 @@
+#right(){&furigana(すきお)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo_mylist(<iframe width="312" height="176" src="https://ext.nicovideo.jp/thumb_mylist/20065466" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/20065466">【ニコニコ動画】%E3%81%9A%E3%81%8D%E3%81%8A（%E3%82%9C%D0%97%E3%82%9C）</a></iframe>)|&nicovideo_mylist(<iframe width="312" height="176" src="https://ext.nicovideo.jp/thumb_mylist/39762328" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/39762328">【ニコニコ動画】%E3%83%9C%E3%82%AB%E3%83%AD%E8%AA%BF%E5%A3%B0%E3%81%8A%E3%81%A6%E3%81%A4%E3%81%A0%E3%81%84%E3%83%BC</a></iframe>)|
+
+**特徴
+作り手名：『&u(){ずきお}』
+-他のボカロPの楽曲で調声を担当することが多い。
+
+**リンク
+-[[PIAPRO>>https://piapro.jp/zucchini_]]
+-[[ニコニコ>>https://www.nicovideo.jp/user/4093028]]
+
+**曲
+#list_by_tag(ずきお,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(ずきおCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm10945236)|&nicovideo(sm11393959)|
+|&nicovideo(sm11590131)|&nicovideo(sm11705419)|
+|&nicovideo(sm12239831)|&nicovideo(sm12265226)|
+|&nicovideo(sm13172923)|&nicovideo(sm13534159)|
+|&nicovideo(sm13660233)|&nicovideo(sm13919859)|
+|&nicovideo(sm14024085)|&nicovideo(sm14163004)|
+|&nicovideo(sm14418885)|&nicovideo(sm14904682)|
+|&nicovideo(sm15490405)|&nicovideo(nm15788318)|
+|&nicovideo(nm15923637)|&nicovideo(sm16655221)|
+|&nicovideo(sm16963169)|&nicovideo(sm17622342)|
+|&nicovideo(sm17722102)|&nicovideo(nm19188149)|
+|&nicovideo(nm19584947)|&nicovideo(nm19826521)|
+|&nicovideo(nm19945157)|&nicovideo(nm20876576)|
+|&nicovideo(nm21229854)|&nicovideo(nm21517817)|
+|&nicovideo(sm22216727)|&nicovideo(nm22446967)|
+|&nicovideo(nm22831619)|&nicovideo(nm23454141)|
+|&nicovideo(sm23652540)|&nicovideo(sm23901826)|
+
+**コメント
+- ページ乙！  -- エン  (2016-05-07 09:22:25)
+#comment()

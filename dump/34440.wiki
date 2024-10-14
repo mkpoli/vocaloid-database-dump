@@ -1,0 +1,39 @@
+#right(){&furigana(いんすりん) &furigana()【登録タグ:&tags() 】}
+#ref(http://vocadb.net/Album/CoverPicture/18074?v=5,width=300,height=300)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[HEART'S WAVE]]|CENTER:&bold(){インスリン}|CENTER:-|
+
+|&bold(){[[Project yumeiruka]]}|&bold(){[[かねイルカ]]}|&bold(){[[ねこむら>ねこむら/作り手]]}|
+
+|流通|CENTER:配信(iTunes Store)|CENTER:配信(Amazon MP3)|
+|発売|>|CENTER:2016年4月9日|
+|価格|CENTER:￥200|CENTER:￥150|
+|レーベル|>|Project yumeiruka|
+ 
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/id1097706037]]}|
+
+**CD紹介
+-[[かねイルカ（オクターブ上P）>かねイルカ]]作詞曲、[[Project yumeiruka]]（[[かねイルカ]]、[[ねこむら（ゆめじん）>ねこむら/作り手]]）編曲の鏡音リンボーカルによる1曲の1st配信シングル(1st Digital Single)。
+-インスパイア元へのリスペクトを散りばめつつ、独自の色も織り交ぜた、VOCALOIDならではの音域、滑舌を活かした1曲。
+-なお、動画で発表されているver.での登録のため、『[[HEART'S WAVE]]』収録版とはver.違いとなっている。『[[sync-loid:08 -Yellow Sky-]]』収録ver.とは同じver.。
+-「iTunes Store」、「Amazon MP3」の他に、「mora(モーラ)」、「music.jp」、「OTOTOY」、「着信★うた♪」、「junodownload」での配信も行われている。
+
+**曲目
++[[インスリン]] / Project yumeiruka feat. 鏡音リン
+
+**動画
+&nicovideo(http://www.nicovideo.jp/watch/sm28150041)
+
+**リンク
+-[[VOCADB>>http://vocadb.net/Al/18074]]
+-[[iTunes Store：「インスリン - Single」>>http://itunes.apple.com/jp/album/id1097706037]]
+-[[Amazon MP3：「インスリン」>>http://www.amazon.co.jp/dp/B01DKN4T1Y/]]
+-[[mora(モーラ)：「インスリン」>>http://mora.jp/package/43000018/4511820-93845/]]
+-[[music.jp：「インスリン」>>http://music-book.jp/music/Artist/693943/Music/aaa4mmt9]]
+-[[OTOTOY：「インスリン」>>http://ototoy.jp/_/default/p/61599]]
+-[[着信★うた♪：「インスリン」>>http://uta.573.jp/song/8090924]]
+-[[junodownload：「Insulin」>>http://www.junodownload.com/products/project-yumeiruka-kagamine-rin-insulin/3058405-02/]]
+
+**コメント
+#comment

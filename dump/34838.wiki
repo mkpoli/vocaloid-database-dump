@@ -1,0 +1,46 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(https://ecdnimg.toranoana.jp/ec/img/04/0030/43/93/040030439392-1p.jpg,x=300,y=300)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[原罪物語 完全版]]|CENTER:&bold(){Lucifenia Trinity}|CENTER:[[master of the heavenly yard>master of the heavenly yard/CD]]|
+
+|&bold(){[[悪ノP]]}|
+
+|流通|CENTER:即売|CENTER:委託|CENTER:配信|
+|発売|>|CENTER:2016年8月14日|CENTER:2023年8月4日|
+|価格|CENTER:￥500|CENTER:￥746（税抜）|CENTER:￥600 / 1曲￥200|
+|サークル|>|CENTER:the heavenly yard||
+|レーベル|||CENTER:KARENT|
+
+**CD紹介
+-mothy_悪ノPのCD作品。
+-小説「悪ノ娘」に登場した三英雄（レオンハルト、エルルカ、マリアム）にスポットを当てた作品です。
+-ジャケットイラストは[[壱加]]氏。
+-コミックマーケット90（C90）で頒布。
+-とらのあなで委託販売が行われていたが、現在は終了している。
+-CD『[[双兎が来りて笛を吹く>双兎が来りて笛を吹く/CD]]』の初頒布に先駆けて、『[[master of the heavenly yard>master of the heavenly yard/CD]]』『[[EVILS EXTRA]]』と同時にKARENTレーベルによるダウンロード販売が行われている。
+
+**曲目
++[[英雄の鎧は常に紅く]] &color(red){NEW!!}
++逆さ墓標のネオマリア &color(red){NEW!!}
++[[あの橋に誓って]] &color(red){NEW!!}
++英雄の鎧は常に紅く (Off Vocal Version) &color(red){NEW!!}
++逆さ墓標のネオマリア (Off Vocal Version) &color(red){NEW!!}
++あの橋に誓って (Off Vocal Version) &color(red){NEW!!}
+
+**リンク
+-[[作者ブログ>>http://mothy.blog39.fc2.com/]]
+-[[旧Twitter、X>>http://twitter.com/mothy_akuno]]
+-[[KARENT>>https://karent.jp/album/3694]]
+
+**コメント
+- 追加乙！！  -- 名無しさん  (2016-08-02 20:17:37)
+- ルカがメインととらのあなで見たから、未違い  -- 名無しさん  (2016-08-02 20:33:20)
+- 逆さ墓標のネオマリア歌ってるのってMAYU？  -- 名無しさん  (2016-08-14 22:23:06)
+- 逆さ墓標のネオマリアはMAYUであってると思う。チミドロスイッチと聴き比べてみるとよりそう思う。  -- 名無しさん  (2016-08-15 13:48:13)
+- 歌詞は何？  -- 名無しさん  (2016-08-17 14:57:03)
+- ああ、2曲目はmayuか。MIZKIじゃないな、とは思ってた。  -- 名無しさん  (2016-08-23 00:46:11)
+- あー、ほしい……  -- ねこまたさん  (2016-10-20 12:03:53)
+- これってルシフェニア帝国建設時の歌？  -- bandana  (2016-11-02 07:36:24)
+- 三曲目のあの橋に誓ってって何とか橋の誓いだよね  -- 名無しさん  (2017-02-25 20:50:16)
+#comment()

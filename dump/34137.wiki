@@ -1,0 +1,33 @@
+#right(){&furigana(かふりこP)&furigana()【登録タグ:&tags() 】}
+|&nicovideo_mylist(<iframe width="312" height="176" src="http://ext.nicovideo.jp/thumb_mylist/30281400" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/30281400">【ニコニコ動画】</a></iframe>)|&nicovideo_mylist(<iframe width="312" height="176" src="http://ext.nicovideo.jp/thumb_mylist/7686979" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/7686979">【ニコニコ動画】</a></iframe>)|
+
+**特徴
+作り手名：『&u(){カプリコP}』
+-&bold(){浜千鳥}とも。
+-カバー曲やトークロイドなど幅広い動画を投稿している。
+
+**リンク
+-[[Twitter>>https://twitter.com/kprkp]]
+
+**曲
+#list_by_tag(カプリコP,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(カプリコPCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm10816101)|&nicovideo(nm11820174)|
+|&nicovideo(nm13890956)|&nicovideo(nm14288167)|
+|&nicovideo(nm14698481)|&nicovideo(sm14946858)|
+|&nicovideo(sm15604634)|&nicovideo(sm16384880)|
+|&nicovideo(sm17463189)|&nicovideo(nm18757141)|
+
+|&nicovideo(sm19536177)|&nicovideo(nm20003841)|
+|&nicovideo(sm20054595)|&nicovideo(sm21231120)|
+|&nicovideo(sm22882871)|&nicovideo(sm24632789)|
+|&nicovideo(sm28205530)|&nicovideo(sm34312273)|
+|&nicovideo(sm35646012)|>|
+
+**コメント
+- やっと出来たんだ！！  -- 名無しさん  (2016-03-18 22:06:38)
+#comment()

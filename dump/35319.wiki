@@ -1,0 +1,81 @@
+#right(){&furigana(Guiano)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/47490500" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/47490500">【ニコニコ動画】</a></iframe>)
+
+**特徴
+作り手名：『&u(){Guiano}』
+-名前はギター(guitar)の「gui」とピアノ(piano)の「ano」を組み合わせたもの。
+-初投稿作品は「[[ペルヴェルセ]]」。
+-ロック・落ち着いた曲調が多く歌詞が心に響いてくる楽曲が多い。
+-使用合成音声はIA、flower、初音ミク、裏命。
+-「[[死んでしまったのだろうか]]」がスマッシュヒット。自身初の殿堂入りを達成する。
+-「[[スーパーヒーロー>スーパーヒーロー/Guiano]]」がYouTubeで自身初となる100万再生、1000万再生を達成する。
+-殿堂入りした曲は以下の通り。&br()&list_by_tagsearch(Guiano,殿堂入り,sort=furigana,option=nolist,nolistspace=、,100)
+
+**ミリオン達成状況
+-以下の楽曲が[[ミリオン>曲一覧/ミリオン曲一覧]]を達成している。
+|CENTER:&bold(){曲名}|CENTER:&bold(){100万再生}|CENTER:&bold(){備考}|
+|[[スーパーヒーロー>スーパーヒーロー/Guiano]]|2023年4月29日||
+|[[死んでしまったのだろうか]]|2024年8月17日||
+
+**リンク
+-[[Twitter>>http://twitter.com/GuiAnoDayo]]
+-[[ピアプロ>>http://piapro.jp/Zerosuzu]]
+-[[YouTube>>http://www.youtube.com/channel/UCAwt148qKLXzPF3LHfN76Bw]]
+-[[旧YouTube>>https://www.youtube.com/channel/UCm8bii4OqcF5TKdiAqsR3uA]]
+-[[Bilibili>>https://space.bilibili.com/64874480]]
+
+**曲
+#list_by_tagsearch(Guiano,sort=furigana2,errmsg=まだ曲が登録されていません。,and,100)
+
+**CD
+#list_by_tagsearch(GuianoCD,100,sort=furigana2,errmsg=まだCDが登録されていません。,and,100)
+
+**動画
+|&nicovideo(sm25211458)|&nicovideo(sm25359093)|
+|&nicovideo(sm26186932)|&nicovideo(sm26248862)|
+|&nicovideo(sm26399178)|&nicovideo(sm26508169)|
+|&nicovideo(sm26716640)|&nicovideo(sm27057321)|
+|&nicovideo(sm27545328)|&nicovideo(sm27685840)|
+|&nicovideo(sm28447922)|&nicovideo(sm29073648)|
+|&nicovideo(sm29342215)|&nicovideo(sm29532785)|
+|&nicovideo(sm29603135)|&nicovideo(sm29671534)|
+|&nicovideo(sm29970768)|&nicovideo(sm30142239)|
+|&nicovideo(sm30305335)|&nicovideo(sm30505834)|
+|&nicovideo(sm30559650)|&nicovideo(sm30949692)|
+|&nicovideo(sm31074644)|&nicovideo(sm31365787)|
+|&nicovideo(sm31484018)|&nicovideo(sm31874716)|
+|&nicovideo(sm32123102)|&nicovideo(sm32338111)|
+|&nicovideo(sm32444823)|&nicovideo(sm32645410)|
+|&nicovideo(sm33051243)|&nicovideo(sm33186807)|
+|&nicovideo(sm33255722)|&nicovideo(sm33536770)|
+|&nicovideo(sm33736332)|&nicovideo(sm33876822)|
+|&nicovideo(sm34178924)|&nicovideo(sm34177849)|
+|&nicovideo(sm34253835)|&nicovideo(sm34603221)|
+|&nicovideo(sm34922312)|&nicovideo(sm35619695)|
+|&nicovideo(sm36261251)|&nicovideo(sm38061782)|
+|&nicovideo(sm38381959)|&nicovideo(sm39569569)|
+|&nicovideo(sm40362215)|&nicovideo(sm40992554)|
+|&nicovideo(sm41262410)|&nicovideo(sm41412031)|
+|&nicovideo(sm41824903)|&nicovideo(sm42438878)|
+
+**関連タグ内の更新履歴
+#region(close,関連タグ内の更新履歴)
+関連タグ内の更新履歴
+※「Guiano」「GuianoCD」タグ内で最近編集やコメントのあった記事を新しい方から10件表示しています。
+#list_by_tagsearch(Guiano,GuianoCD,sort=timestamp,sort2=desc,errmsg=まだ曲、CDが登録されていません。,or,10)
+#endregion
+
+**コメント
+- すごく好きです。  -- ふみ  (2017-11-12 21:00:51)
+- どの曲も本当に心に響く・・・。応援してます・・・！  -- Rimu  (2017-12-13 17:50:22)
+- めちゃくちゃ好きです。同年代なんて信じらんない……。  -- 名無しさん  (2017-12-28 00:49:32)
+- 好きです  -- ぜりー  (2018-08-10 17:19:56)
+- めっちゃ好き  -- 名無しさん  (2019-01-08 17:36:28)
+- とても好き。  -- 名無しさん  (2019-01-13 00:35:46)
+- 大好き  -- ゆう  (2020-12-10 01:12:49)
+- 好きすぎる  -- なりあさ  (2021-08-05 17:45:32)
+#comment()

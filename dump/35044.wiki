@@ -1,0 +1,27 @@
+#right(){&furigana(ほづかみか)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/13333688" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/13333688">【ニコニコ動画】穂塚ミカの音箱</a></iframe>)
+
+**特徴
+-UTAU、ボーカロイドで曲を作っている。
+-ボカロPとしては「[[最後の虹～the last rainbow～]]」でデビュー。
+-使っているボーカロイドは、初音ミク、巡音ルカ。
+
+**リンク
+-[[PIAPRO「穂塚ミカさんのページ」>>http://piapro.jp/mika2000]]
+-[[みかりんWeb.net（作者ホームページ）>>http://mikarin-web.net/]]
+-[[Twitter>>http://twitter.com/mika_Hz]]
+-[[UTAU楽曲データベース「穂塚ミカ」のページ>>http://www24.atwiki.jp/utauuuta/pages/892.html]]
+
+**曲
+#list_by_tag(穂塚ミカ,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(穂塚ミカCD,100,sort=furigana)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm7471909)|&nicovideo(http://www.nicovideo.jp/watch/sm7898356)|
+|&nicovideo(http://www.nicovideo.jp/watch/nm9168088)|&nicovideo(http://www.nicovideo.jp/watch/sm14085580)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm14213621)||
+
+**コメント
+#comment()

@@ -1,0 +1,33 @@
+#right(){&furigana(れんれんさまーふぃーばーとぅないと)&furigana()【登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186142604.jpg,x=300,y=300)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[夏に、サヨナラ]]|CENTER:&bold(){レンレン★サマーフィーバートゥナイト}|CENTER:[[vanish to vanish]]|
+
+|&bold(){[[キッドP]]}|[[クリスタルP]]|[[残鏡P]]|[[おればななP]]|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|CENTER:2016年8月14日||
+|価格|CENTER:￥500|CENTER:￥750（税別）|
+|サークル|CENTER:クリキッド|CENTER:NnDS☆|
+
+**CD紹介
+-キッドPのシングルCD。
+-ジャケットイラストは[[碧茶]]氏。
+-コミックマーケット90（C90）で頒布。
+-とらのあなで委託販売が行われている。
+
+**曲目
++[[レンレン★サマーフィーバートゥナイト]]
++宇宙少年遊泳記
++レンレン★サマーフィーバートゥナイト-instrumental-
++宇宙少年遊泳記-instrumental-
+
+**リンク
+-[[twitter>>http://twitter.com/kid_NnDS]]
+-[[作者ブログ>>http://yaplog.jp/kidsworks/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/44/11/040030441165.html]]
+
+**コメント
+#comment()

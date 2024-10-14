@@ -1,0 +1,46 @@
+#right(){&furigana(べるのおとがなる)&furigana()【登録タグ:&tags() 】}
+
+&ref(https://cdn.tower.jp/za/o/2W/zaP2_G6331182W.JPG,x=300,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm29858345)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){ベルの音が鳴る}|CENTER:-|
+
+|&bold(){[[ジグ]]}|[[雄之助]]|[[フミ]]|
+
+|流通|CENTER:即売|CENTER:委託|CENTER:配信|
+|発売|>|>|CENTER:2016年10月30日|
+|価格|>|CENTER:￥1,000|CENTER:￥1,500|
+|サークル|>|>|CENTER:Uniqker、ウサミンたいそう|
+
+**CD紹介
+-ジグ氏の1st Album。
+-illustration : たねつき
+-2016年10月30日 M3-2016秋、および11月5日 THE VOC@LOID M@STER 36（ボーマス36）にて頒布。
+-BOOTH通販、ダウンロード販売も予定されている。
+
+**曲目
++眩暈とバニラ
++[[ストレルカ]]
++[[ぼくらのオービット]]
++[[藍とサイレン]]
++[[チグハグチーク]]
++イエスタデイ
++夜の理科室
++[[栞のうた]]
++[[涙花病]]
++[[シーサイドグッバイ]]
++ゆめのはなし
++エス・ユー
++[[アイビィ]]
++キュー・キュー （Arranged by 雄之助）
++アイシークユー （Arranged by フミ）
+
+**リンク
+-[[BOOTH>>http://booth.pm/ja/items/307706]]
+-[[タワーレコード>>https://tower.jp/item/4497568/ベルの音が鳴る＜数量限定盤＞]]
+
+**コメント
+- ほっっしい  -- 名無しさん  (2016-11-14 19:09:36)
+#comment()

@@ -1,0 +1,30 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1921_20160708000832_0280_0280.jpg)
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[レンレン★サマーフィーバートゥナイト（CD）>レンレン★サマーフィーバートゥナイト/CD]]|CENTER:&bold(){vanish to vanish}|CENTER:[[レンレン★サマーフィーバートゥナイト（配信）>レンレン★サマーフィーバートゥナイト]]|
+
+|&bold(){[[キッドP]]}|[[残鏡P]]|[[おればななP]]|
+
+発売：2016年8月22日
+価格：￥300
+流通：配信
+レーベル：KARENT
+イラスト：[[酉≒酉>>http://piapro.jp/toritori_rooster]]
+
+**CD紹介
+-キッドPの配信シングル。
+-表題曲はアルバム『[[INFINITY-∞-]]』に収録されていた楽曲のミクバージョンで、初のミクソロ曲となる。
+-KARENTレーベルよりダウンロード販売が行われている。初音ミク9周年記念特集で配信された作品の1つ。
+
+**曲目
++vanish to vanish （feat. 初音ミク）
++vanish to vanish （instrumental）
+
+**リンク
+-[[twitter>>https://twitter.com/kid_NnDS]]
+-[[KARENT：「vanish to vanish」>>http://karent.jp/album/1921]]
+-[[KARENT：「初音ミク 9th Anniversary」特集ページ>>http://karent.jp/special/miku16]]
+-[[iTunes Store>>http://itunes.apple.com/jp/album/vanish-to-vanish-single/id1139661826]]
+
+**コメント
+#comment()

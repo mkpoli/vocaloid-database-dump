@@ -1,0 +1,40 @@
+#right(){&furigana(えんじぇるらんぷ)&furigana()【登録タグ:&tags()】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186154544.jpg,x=300,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm28646187)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Re:CaLL]]|CENTER:&bold(){エンジェルランプ}|CENTER:[[ひとり>ひとり/CD]]|
+
+|&bold(){[[Liz.]]}|[[mint*]]|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|CENTER:2016年4月29日||
+|価格|CENTER:￥500|CENTER:￥500|
+|サークル|CENTER:劣等感/せやねん||
+
+**CD紹介
+-Liz.氏の1stミニアルバム。
+-ジャケットイラスト：秋月アキラ、Mastering：[[さぶろう]]、Movie：ひらり
+-THE VOC@LOiD 超 M@STER 34（超ボーマス34）で頒布。
+-BOOTHで通信販売が行われている。
+
+**曲目
++[[エンジェルランプ]] feat. IA
++-Guitar：夏鳴屋
++[[朝に咲く花]] feat. Leu
++-Arrangement：[[mint*]]、Guitar：[[夏鳴屋]]
++ボトルシップ・サマー feat. 初音ミク
++-GuitarSolo：[[さまぐら>Summer Gratz]]
++[[星降る街に描いた]] feat. 我風
++-Guitar：あさくら
++[[虚空ノ藍]] feat. 鏡音リン
++-Guitar：あさくら
+
+**リンク
+-[[twitter>>http://twitter.com/liz4kcl]]
+-[[BOOTH>>https://liz4kcl.booth.pm/items/232992]]
+
+**コメント
+#comment()

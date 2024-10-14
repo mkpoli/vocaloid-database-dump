@@ -1,0 +1,47 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&amazon(B01F3HWZNY)
+
+|&nicovideo(http://www.nicovideo.jp/watch/sm28624081)|&youtube(https://www.youtube.com/watch?v=kkL0WbaODwg){342,187}|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[your voice>your voice/CD]]|CENTER:&bold(){Only 1 feat.Hatsune Miku}|CENTER:[[Open Your Lights (feat.Hatsune Miku)]]|
+
+|&bold(){[[BIGHEAD]]}|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2016年4月24日|CENTER:2016年5月7日|
+|価格|CENTER:|CENTER:￥1,900（税込）|
+|サークル|>|BIGHEAD|
+
+**CD紹介
+-BIGHEAD氏 の1stアルバム。
+-MIKUEXPO 2014 in LA/NYテーマソング「Sharing The World feat.Hatsune Miku」をはじめGOOD SMILE RACING 2015公式テーマソング「Gallop Through The World」、RIOT SKIS x SNOWMIKUテーマソング「390AIR feat.Hatsune Miku」、ニコニコ超会議2016告知動画BGM曲「Sharing The World 日本語ver」など全16曲を収録したベスト的アルバム。
+-ジャケットイラストは、「HATSUNE MIKU EXPO 2014 in LA & NY」のメインビジュアルを手掛けた apapico氏 の描き下ろし。
+-M3 2016春 にて初頒布。
+-amazonにて委託販売が行われている。
+
+**曲目
++[[DISTANCE>DISTANCE/EmpathP・BIGHEAD]] feat.Hatsune Miku
++[[Sharing The World]] (JAPANESE.ver) feat.Hatsune Miku
++[[Gallop Through the World]] feat.Hatsune Miku
++[[your voice]] feat.Hatsune Miku
++Start Up feat.Hatsune Miku
++[[Artificial Intelligence Music]] feat.Hatsune Miku
++[[NEVER ENDING LOVE]] feat.Hatsune Miku
++I feat.Hatsune Miku
++[[INSIGHT]] feat.Hatsune Miku
++[[Who!?]] feat.Hatsune Miku
++[[the cosmic theory]] feat.Hatsune Miku
++Singularity feat.Hatsune Miku
++[[seed of lights]] feat.Hatsune Miku
++[[When You Look At Me]] feat.Hatsune Miku
++390AIR feat.Hatsune Miku
++Sharing The World feat.Hatsune Miku
+
+**リンク
+-[[作者HP>>https://bigheadjapan.bandcamp.com/]]
+-[[特設サイト>>http://only1feat.wix.com/only-1]]
+-[[amazon>>http://www.amazon.co.jp/dp/B01F3HWZNY]]
+
+**コメント
+#comment()

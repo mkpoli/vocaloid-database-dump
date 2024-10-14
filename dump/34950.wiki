@@ -1,0 +1,33 @@
+#right(){&furigana(かひるす)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://ext.nicovideo.jp/thumb_mylist/37722844" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/37722844">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-2013年7月、「[[connect>connect/かぴるす]]」でボカロデビュー。
+-ポップでキャッチーな楽曲を発表している作り手。爽やかメロディにサビの疾走感に定評がある。
+-代表作は「[[フィクションライン]]」。この曲で自身初の殿堂入りを達成した。
+-使用ボカロは今のところ初音ミクのみである。
+
+**リンク
+-[[Twitter>>http://twitter.com/@capils1090]]
+-[[piapro>>http://piapro.jp/you_starfish]]
+
+**曲
+#list_by_tag(かぴるす,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(かぴるすCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm21297400)|&nicovideo(sm21335950)|
+|&nicovideo(sm21766153)|&nicovideo(sm22572069)|
+|&nicovideo(sm26261743)|&nicovideo(sm26262227)|
+|&nicovideo(sm26512086)|&nicovideo(sm26892437)|
+|&nicovideo(sm27279517)|&nicovideo(sm28058679)|
+|&nicovideo(sm28239858)|&nicovideo(sm28371847)|
+|&nicovideo(sm28603111)|&nicovideo(sm29198616)|
+|&nicovideo(sm30317594)|&nicovideo(sm31336564)|
+|&nicovideo(sm31370778)||
+
+**コメント
+- 新曲はよ  -- 名無しさん  (2020-05-21 16:51:34)
+#comment()

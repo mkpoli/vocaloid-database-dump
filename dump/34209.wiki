@@ -1,0 +1,44 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1880_20160219040848_0280_0280.jpg)
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[泡沫セレシェイラ>泡沫セレシェイラ/CD]]|CENTER:&bold(){colors}|CENTER:[[ハイエンドロール>ハイエンドロール/CD]]|
+
+|&bold(){[[CielP]]}|たる|[[レッドカードP]]|Noel|電算部|
+
+|流通|CENTER:即売|CENTER:自家通販|CENTER:配信|
+|発売|CENTER:2013年8月10-12日||CENTER:2016年3月9日|
+|価格|CENTER:￥|CENTER:￥1,500|CENTER:￥1,500|
+|サークル|>|>|CENTER:|
+
+**CD紹介
+-CielPのCDアルバム。
+-ベストアルバム的な1枚。
+-コミックマーケット84で初頒布。
+-自家通販が行われている。
+-2016年、KARENTレーベルよりダウンロード販売が開始された。配信版はTr.9、Tr.12、Tr.15が未収録の全13曲となっている。
+
+**曲目
++[[ひとりごと]] / 初音ミク
++[[泡沫セレシェイラ]] / 初音ミク
++[[AILE -アイル-]] / 巡音ルカ
++[[side story]] / 初音ミク
++[[Re:present]] / 巡音ルカ
++[[B.G.M. -Breath of Grove is like a Music-]] / 巡音ルカ
++[[ハイエンドロール]] / 巡音ルカ
++[[通り雨>通り雨/CielP]] / 巡音ルカ
++[[heartfelt]] / 巡音ルカ
++[[floret]] / 巡音ルカ
++[[勇者のサーガ]] / 初音ミク
++[[漆黒の輪舞曲]] / 鏡音リン
++[[Altair -アルタイル-]] / 巡音ルカ
++[[Catch up dream]] / 初音ミク＆巡音ルカ
++[[Repeat After Me]] / 巡音ルカ
++[[DYCON ～見渡せば荒野～>DYCON]] / 鏡音リン
+
+**リンク
+-[[作者サイト>>http://sound.jp/ciel/]]
+-[[KARENT：「colors (ダウンロード版)」>>http://karent.jp/album/1880]]
+-[[iTunes Store>>http://itunes.apple.com/jp/album/colors-download-ver./id1088191254]]
+
+**コメント
+#comment()

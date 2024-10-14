@@ -1,0 +1,38 @@
+#right(){&furigana()&furigana()【登録タグ:&tags()】}
+&nicovideo(http://www.nicovideo.jp/watch/sm28991140)
+作詞：[[空海月]]
+作曲：[[空海月]]
+編曲：[[空海月]]
+唄：初音ミク
+
+**曲紹介
+-梅雨になって雨の日も増えてきますが、こんな感じ方もあるよね、なんて思いながら作りました。（作者コメ転載）
+-イラストは 木倉たま氏 が手掛ける。
+
+**歌詞
+傘を打った雨の音
+胸にしみるようで
+少し濡れたカバンを
+ぎゅっと抱いてみた
+
+この僕の intention
+high and low tension
+いつも感じてる
+雨の日の reflection
+love and sad motion
+僕を映してる
+
+いつも通るこの道も
+新鮮に思えて
+冷たく濡れた木の幹に
+そっと触れてみた
+
+この街の intention
+high and low tension
+いつも感じてる
+雨の日の reflection
+love and sad motion
+いつも映してる
+
+**コメント
+#comment()

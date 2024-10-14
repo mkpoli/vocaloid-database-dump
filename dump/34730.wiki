@@ -1,0 +1,39 @@
+#right(){&furigana(こうりんぐ)&furigana()【登録タグ:&tags() 】}
+&amazon(B00LWTMVB4)
+&nicovideo(http://www.nicovideo.jp/watch/sm29175989)
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){コウリング}|CENTER:[[絶望接種>絶望接種/CD]]|
+
+|&bold(){[[コウ]]}|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|CENTER:2016年7月10日||
+|価格|CENTER:￥1,000|CENTER:￥1,111（税別）|
+|サークル|CENTER:ニンゲン†DOG with 野良いぬ|CENTER:コウ|
+
+**CD紹介
+-コウ氏のソロ1stアルバム。
+-ジャケットデザイン：ぺい
+-THE VOC@LOiD M@STER 35（ボーマス35）にて頒布。
+-Amazon、とらのあなで委託販売が行われている。
+
+**曲目
++Calling
++[[お茶ガール]]
++[[リミテル感覚少年]]
++[[ネアの幻遊]]
++[[ENDLOID]]
++[[ぼっちナンバー]]
++[[夏空と包帯]]
++メアの教育 -弾き語りver.-
+
+**リンク
+-[[twitter>>http://twitter.com/kou___________]]
+-[[Amazon>>http://www.amazon.co.jp/dp/B00LWTMVB4]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/43/41/040030434181.html]]
+
+**コメント
+- ENDLOID！  -- 名無しさん  (2016-07-07 01:58:19)
+- ENDLOIDとぼっちナンバー曲順逆だったけど俺だけ？  -- 名無しさん  (2016-08-22 13:37:40)
+- ↑同じくそうですよ....  -- 名無しさん  (2016-08-26 20:02:40)
+#comment()

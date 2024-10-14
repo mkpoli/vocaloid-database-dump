@@ -1,0 +1,52 @@
+#right(){&furigana(blackD)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://ext.nicovideo.jp/thumb_mylist/31417159" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/31417159">【ニコニコ動画】</a></iframe>)
+
+**特徴
+作り手名：『&u(){black、D}』
+-「Forward　New　Roman」のコンセプトで2012年に始動したMusic　LABELブラックディー。またはそれに付随するアーティスト（彼）そのものでもあり、その作品群に適用されるクレジットの総称です。基本的にblack、Dイコールブラックディー（ブラックディーは何処までもblack、D）と考えていただくのが現時点で最も自然なプロセスであると思われます。
+-制作された楽曲のイメージを再構成した小規模なプロットが発表される毎に「プロジェクト」と銘打たれ、現在彼による唯一のホームグランドである[[metaphysical music room>>https://dai70d.blog.jp/]]に於いて展開されています。
+-COMPOSER：[[黒澤大介>>https://www.youtube.com/user/dai70d]]（Dhi Black）&br()MEMBER：　初音ミク（Vocal・Chorus）　巡音ルカ　（Vocal・　Chorus）black、D（Musician・Vocal・Chorus・Programming）（ニコニコ大百科より）
+
+**リンク
+-[[ニコニコユーザー>>https://www.nicovideo.jp/user/14255505]]
+-[[マイリスト>>https://www.nicovideo.jp/mylist/31417159]]
+-[[Twitter>>https://twitter.com/dai70d]]
+-[[YouTube>>https://www.youtube.com/channel/UC8aWoNOrNsueIuLoMolty4A]]
+
+**曲
+#list_by_tag(black、D,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(black、DCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm22734780)|&nicovideo(sm23211592)|
+|&nicovideo(sm21804315)|&nicovideo(sm23731427)|
+|&nicovideo(sm23158824)|&nicovideo(sm21905104)|
+|&nicovideo(sm20629049)|&nicovideo(sm21905096)|
+|&nicovideo(sm20693457)|&nicovideo(sm20686976)|
+|&nicovideo(sm22549637)|&nicovideo(sm20629258)|
+|&nicovideo(sm20636704)|&nicovideo(sm21861826)|
+|&nicovideo(sm22072268)|&nicovideo(sm21826143)|
+|&nicovideo(sm17478378)|&nicovideo(sm20636956)|
+|&nicovideo(sm24134444)|&nicovideo(sm23080680)|
+|&nicovideo(sm20677510)|&nicovideo(sm20662727)|
+|&nicovideo(sm20662529)|&nicovideo(sm19674166)|
+|&nicovideo(sm24882714)|&nicovideo(sm22549720)|
+|&nicovideo(sm22079380)|&nicovideo(sm20686824)|
+|&nicovideo(sm32254855)|&nicovideo(sm32260220)|
+|&nicovideo(sm30286056)|&nicovideo(sm32333265)|
+|&nicovideo(sm32405991)|&nicovideo(sm33211459)|
+|&nicovideo(sm33376880)|&nicovideo(sm34045332)|
+|&nicovideo(sm29962884)|&nicovideo(sm30646812)|
+|&nicovideo(sm22549720)|&nicovideo(sm21795502)|
+|&nicovideo(sm21795380)|&nicovideo(sm24714334)|
+|&nicovideo(sm32480725)|&nicovideo(sm21947225)|
+|&nicovideo(sm20600601)|&nicovideo(sm20600820)|
+
+**コメント
+#comment()

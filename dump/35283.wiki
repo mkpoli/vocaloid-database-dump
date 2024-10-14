@@ -1,0 +1,25 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Traveling Murderer}|CENTER:-|
+
+|[[竹中]]|[[LITCHI]]|[[こんにちは谷田さん]]|[[メル]]|
+
+発売：2016年9月18日
+価格：￥500
+流通：配信
+
+**CD紹介
+-メル、こんにちは谷田さん、LITCHI（ex.やまじ）、竹中の四名による、「殺人鬼」をテーマにしたスプリットアルバム。
+-BOOTHでの配信限定アルバム。
+
+**曲目
++道化 / 竹中
++[[堕天クラブ]] / LITCHI
++優しいてのひらで心臓を包むように / こんにちは谷田さん
++ヴァンパイア / メル
+
+**リンク
+-[[BOOTH>>http://booth.pm/ja/items/329228]]
+
+**コメント
+#comment()

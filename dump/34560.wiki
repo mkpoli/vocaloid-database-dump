@@ -1,0 +1,30 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1900_20160516100622_0280_0280.jpg)
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Only 1 feat.Hatsune Miku]]|CENTER:&bold(){Open Your Lights (feat.Hatsune Miku)}|CENTER:-|
+
+|&bold(){[[BIGHEAD]]}|
+
+発売：2016年6月1日
+価格：￥300
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：apapico
+
+**CD紹介
+-BIGHEAD氏の配信シングル。
+-難病とたたかう子供たちのためのチャリティーイベント「マカロンデー」の企画「Hope Macaron 2016」特集で配信された作品の1つ。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++Open Your Light （feat. 初音ミク）
++Open Your Light (instrumental) （feat. 初音ミク）
++Open Your Light (acapella) （feat. 初音ミク）
+
+**リンク
+-[[KARENT：「Open Your Lights (feat.Hatsune Miku)」>>http://karent.jp/album/1900]]
+-[[KARENT：「Hope Macaron 2016」特集ページ>>http://karent.jp/special/macaron16]]
+-[[iTunes Store>>http://itunes.apple.com/jp/album/open-your-lights-feat.-hatsune/id1116001142]]
+
+**コメント
+#comment()

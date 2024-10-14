@@ -1,0 +1,76 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&youtube(http://www.youtube.com/watch?v=7crea-kCxvA)
+作詞：[[solpie]]
+作曲：[[solpie]]
+編曲：[[solpie]]
+唄：初音ミク・鏡音リン
+
+**曲紹介
+-PIAPROで公開された楽曲。2016年7月6日投稿。
+-KARENTレーベルよりダウンロード販売が行われている。[[初音ミク9周年記念特集>>http://karent.jp/special/miku16]]で配信された作品の1つ。
+-2016年8月31日に、YouTubeに動画投稿された。
+
+**音楽配信
+&ref(http://karent.jp/npdca/1920_20160706162817_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[茶丽丝少女]]|CENTER:&bold(){長安伶}|CENTER:[[夏末青春]]|
+
+発売：2016年8月22日
+価格：￥150
+流通：配信
+レーベル：[[KARENT>>http://karent.jp/album/1920]]
+ジャケットイラスト：SolPie
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/changan-musician-single/id1139661747]]}|
+
+***曲目
++長安伶 （feat. 初音ミク＆鏡音リン）
+
+**歌詞
+（[[PIAPRO>>http://piapro.jp/t/EQ2-]]より転載）
+
+A1
+解酒身衣短
+影里灯暗转
+红眼睁望穿
+几行珠泪满
+
+B1
+啊~古琴筝 锒铛铛铛
+凝恨~愁独倚
+啊~梦中惊醒 戎马北风旌旗
+哀~边城角 吹不尽
+
+C1
+残垣上（伤） 孤（都）城往 天涯何方
+绝尘*一骑~ 汜水流浪
+白发生 鬓云鬟
+缣帐缺 秋月半
+夜门关 狼烟 不安
+
+C2
+落月照 青*画~舫 西楼独唱（赏）
+洛阳花 千~风瘦 牡~丹
+红素衫 缃绫缎
+舞裀踏 弄云泛
+伶人兮 遥望长安
+
+A2
+入夜更 寒暖
+寝就多 思量
+哀一声 栅窗
+何故乡未还
+
+B2
+哭*~咽入声 hmmmm
+烛花~蚕~丝~几
+啊 银簪白首 泪尽怎有哭啼
+啊啊啊啊啊啊啊
+
+C1
+C2
+
+
+**コメント
+#comment()

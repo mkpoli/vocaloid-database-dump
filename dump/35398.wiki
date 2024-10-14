@@ -1,0 +1,31 @@
+#right(){&furigana(かそうしょうねんはそらをとべない　さーどにくすべるべてぃないと)&furigana()【登録タグ:&tags() 】}
+#ref(http://karent.jp/npdca/1957_20161015133045_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){仮想少年は空を飛べない／サードニクス・ヴェルヴェティ・ナイト}|CENTER:-|
+
+|&bold(){[[かと卯]]}|Moo|鶏|
+
+発売：2016年11月4日
+価格：￥300
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：[[日暮里>>http://piapro.jp/nippori]]
+
+**CD紹介
+-かと卯氏の両A面シングル。
+-動画バージョンよりリファインされ音が良くなっている。
+-KARENTレーベルよりダウンロード販売が行われている。KARENTのMEIKO12周年記念企画で配信された作品の1つ。
+
+**曲目
++[[仮想少年は空を飛べない]] （feat. MEIKO）
++[[サードニクス・ヴェルヴェティ・ナイト]] （feat. MEIKO）
+
+**リンク
+-[[twitter>>http://twitter.com/hiro32kato]]
+-[[KARENT：「仮想少年は空を飛べない／サードニクス・ヴェルヴェティ・ナイト」>>http://karent.jp/album/1957]]
+-[[KARENT：「MEIKO 12th Anniversary」特集ページ>>http://karent.jp/special/meiko16]]
+-[[iTunes Store>>http://itunes.apple.com/jp/album/virtual-boy-can-not-fly-sky/id1170419432]]
+
+**コメント
+#comment()

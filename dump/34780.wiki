@@ -1,0 +1,34 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[abgm]]|CENTER:&bold(){tettey-terettey}|CENTER:-|
+
+|&bold(){[[ココアシガレットP]]}|
+
+|流通|CENTER:即売|CENTER:同人|CENTER:配信|
+|発売|CENTER:2015年12月31日||CENTER:2016年4月1日|
+|価格|CENTER:￥1,000（税込）|CENTER:￥1,493（税別）|￥750（税込）|
+|サークル|>|GYARISUTA!||
+
+**CD紹介
+-動画「[[ボーカロイドたちがただﾃｯﾃｰﾃﾚｯﾃｰするだけ]]」関連の楽曲やイラスト、漫画が収録された本とCDセット。
+-収録内容
+--導入漫画1ページ
+--メインビジュアル
+--歌詞
+--唐突に始まる、我が家のボカロ解説（描きおろしイラスト）
+--音楽CD全2トラック（オフボーカル含む）
+-コミックマーケット89（C89）で頒布。
+-とらのあなで委託販売が行われていた。
+-音楽CDの内容がiTunes Storeにて配信中。
+
+**曲目
++tettey-terettey (feat. 鏡音リン)
++tettey-terettey -off vocal-
+
+**リンク
+-[[詳細HP>>http://www.gyari.com/content/tettey-terettey/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/39/32/040030393267.html]]
+-[[iTunes Store>>http://itunes.apple.com/jp/album/tettey-terettey-feat.-jing/id1096580067]]
+
+**コメント
+#comment()

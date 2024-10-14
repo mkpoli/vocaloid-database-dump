@@ -1,0 +1,35 @@
+#right(){&furigana() &furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm21242914)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Another Girl,Another Planet]]|CENTER:&bold(){anti human league}|CENTER:[[Solid State Easy Action]]|
+
+|&bold(){[[ハヤカワP]]}|
+
+|流通|CENTER:即売|CENTER:通販|
+|発売|CENTER:2013年7月7日||
+|価格|CENTER:￥800|CENTER:￥800|
+|サークル|>|CENTER:ハヤカワ・ラボ|
+
+**CD紹介
+-ハヤカワPの2ndミニアルバム。
+-人外の曲のみを集めた全8曲。
+-THE VOC@LOiD M@STER 25（ボーマス25）にて頒布。
+-自家通販が行われている。
+
+**曲目
++[[キマイラ>>http://www24.atwiki.jp/utauuuta/pages/1729.html]](Remix)　（重音テト）
++[[恋の秘法はネクロノミコン]](with silver key)　（鏡音リン）
++[[ショゴス=ロマンス]]　（鏡音リン）
++elder love　（鏡音リン）
++[[Replicant's blues]]　（IA）
++[[lobo the last king]]　（鏡音レン）
++[[インモラルゴースト]]　（鏡音リン）
++メロウアポカリプス　（Mew）
+
+**リンク
+-[[作者ブログ>>http://hayakawalabo.otaden.jp/]]
+-[[通販ページ>>http://hayakawaplutonius.wix.com/cd-sell]]
+
+**コメント
+#comment

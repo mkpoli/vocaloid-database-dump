@@ -1,0 +1,44 @@
+#right(){&furigana(たた)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://ext.nicovideo.jp/thumb_mylist/22352776" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/22352776">【ニコニコ動画】%E4%BD%9C%E3%81%A3%E3%81%9F%E6%9B%B2</a></iframe>)
+
+**特徴
+作り手名：『&u(){だだ}』
+-2010年11月27日、「[[美しい世界]]」でボカロデビュー。
+-使用ボカロは今のところ、初音ミク（Append）。
+
+**リンク
+-[[だだだだだ。ただのぶろぐ。（作者ブログ）>>http://blog.livedoor.jp/akimo123/]]
+//-[[Twitter>>http://twitter.com/akimo123]]
+
+**曲
+#list_by_tag(だだ,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(だだCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(nm12866123)|&nicovideo(nm13432118)|
+|&nicovideo(nm13487581)|&nicovideo(nm13519117)|
+|&nicovideo(nm13705248)|&nicovideo(nm13895134)|
+|&nicovideo(nm14316988)|&nicovideo(nm14459164)|
+|&nicovideo(nm14902071)|&nicovideo(nm15173119)|
+|&nicovideo(nm15667413)|&nicovideo(nm15822657)|
+|&nicovideo(nm16058081)|&nicovideo(sm16356644)|
+|&nicovideo(sm17034788)|&nicovideo(sm17563384)|
+|&nicovideo(sm17603973)|&nicovideo(sm18304200)|
+|&nicovideo(sm19806616)|&nicovideo(sm20794266)|
+|&nicovideo(sm21731267)|&nicovideo(sm24089923)|
+|&nicovideo(sm24144157)|&nicovideo(sm27914038)|
+
+**アルバム
+|&nicovideo(sm21224669)|&nicovideo(sm21242700)|
+
+**コメント
+- 楽観主義的思考論のページないのか…  -- 名無しさん  (2016-05-28 21:25:28)
+- ↑歌詞乗せました  -- ふわふわ  (2016-05-29 15:31:32)
+- 全曲乗せました...疲れました（汗）  -- 名無しさん  (2016-09-21 00:43:20)
+#comment()

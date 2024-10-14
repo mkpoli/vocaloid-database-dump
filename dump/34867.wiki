@@ -1,0 +1,50 @@
+#right(){&furigana(またおんなしゆめをみてる)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+#amazon(B01JWO9E2E)
+|&nicovideo(sm29400194)|&youtube(https://www.youtube.com/watch?v=hTWUVTY4Mkg){342,187}|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[ハートビート・フロムユー]]|CENTER:&bold(){また同じ夢を見てる}|CENTER:[[僕らの街に愛が降る夜だ>僕らの街に愛が降る夜だ/CD]]|
+
+|&bold(){[[西沢さんP]]}|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|CENTER:2016年8月14日||
+|価格|CENTER:￥1,000|CENTER:￥1,620（税込）|
+|サークル|>|CENTER:量産型西沢さん。|
+
+**CD紹介
+>&bold(){子供のまま大人になった。}
+作り手名：『&u(){また同じ夢を見てる/CD}』（&u(){またおんなじゆめをみてる}）
+-西沢さんPの同人4thフルアルバム。
+-「[[秘密男女の関係]]」「[[君色に染まる]]」などの既存曲に書き下ろし楽曲を加えた、全8曲収録。
+-Illust, Design, and Movie：[[べて]]、Sound Engineering：[[友達募集P]]
+-コミックマーケット90（C90）にて頒布。
+-会場特典として、オリジナルクリアファイル付いてくる。
+-Amazonで委託販売が行われている。
+
+**曲目
++[[ポケットサイズ・ドラマチカリ]] feat. 鏡音レン
++行き当たりハッタリ feat. GUMI
++[[秘密男女の関係]] feat. GUMI
++[[君色に染まる]] feat. GUMI
++[[ハートビート・フロムユー]] feat. 初音ミク
++[[また同じ夢を見てる]] feat. GUMI
++東京五月病 feat. 鏡音リン
++[[僕らの街に愛が降る夜だ]] feat. GUMI
+
+**リンク
+-[[特設ページ>>https://onnnajiyume.tumblr.com/]]
+-[[ざわ速（作者ホームページ）>>https://zawaso.com/]]
+-[[Twitter>>https://twitter.com/NishizawasanP]]
+-[[amazon>>https://www.amazon.co.jp/dp/B01JWO9E2E/]]
+
+**コメント
+//- レン君来た‼️  -- 名無しさん  (2016-08-09 11:36:43)
+//- ↑間違えた…
+- 西沢さんのレン君きになる〜〜  -- 名無しさん  (2016-08-09 11:37:20)
+//- また髪の話してる  -- 名無しさん  (2016-08-17 12:49:08)
+#comment()

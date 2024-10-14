@@ -1,0 +1,46 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#amazon(B01DZ16ITM)
+
+|&nicovideo(http://www.nicovideo.jp/watch/sm28707514)|&youtube(http://www.youtube.com/watch?v=0lG7f9vgzmo){342,187}|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[emotion>emotion/CD]]|CENTER:&bold(){ATOLS/MIKU 2}|CENTER:[[マカロン (ATOLS Remix)]]|
+
+|&bold(){[[ATOLS]]}|
+
+|流通|CENTER:即売|CENTER:委託|CENTER:配信|
+|発売|CENTER:2016年4月29日|CENTER:2016年5月11日|CENTER:2016年5月25日|
+|価格||CENTER:￥1,800（税込）|CENTER:￥1,500|
+|サークル|>|CENTER:ATOLS||
+
+**CD紹介
+-ATOLS氏 の6thアルバム。
+-ATOLS/MIKUシリーズの第4弾。
+-THE VOC@LOiD 超 M@STER 34（超ボーマス34）で頒布。
+-Amazon、とらのあなにて委託販売が行われている。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++銀河
++emotions
++[[神風]]
++[[タカナリ]]
++SCALA feat. lasah
++[[宇宙大規模11次元構造体]]
++ACID CAT
++[[おーばーどーず]]〔Piano Solo〕
++[[P>P/ATOLS]]
++[[立体音響Ⅱ（配信版では「立体音響2」）>立体音響Ⅱ]]
+
+**リンク
+-[[作者Twitter>>http://twitter.com/ATOLSX]]
+-[[Amazon>>http://www.amazon.co.jp/dp/B01DZ16ITM]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/40/91/040030409118.html]]
+-[[KARENT：「ATOLS/MIKU 2」>>http://karent.jp/album/1897]]
+-[[iTunes Store>>http://itunes.apple.com/jp/album/atols-miku-2/id1113889746]]
+
+**コメント
+- 楽しみだ！  -- 名無しさん  (2016-04-17 14:55:19)
+- 買うわ！絶対買うわ！  -- 名無しさん  (2016-04-19 19:25:05)
+- 超ボーマス31じゃなくて超ボーマス34じゃね  -- 名無しさん  (2016-05-04 19:44:12)
+#comment()

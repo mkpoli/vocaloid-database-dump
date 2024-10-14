@@ -1,0 +1,66 @@
+#right(){&furigana()&furigana()【登録タグ:&tags()】}
+&nicovideo(sm28638567)
+作詞：[[forute]]
+作曲：[[forute]]
+編曲：[[forute]]
+唄：初音ミクAppend(Dark)
+
+**曲紹介
+>&bold(){&color(lightgray){思い出は　変わらない　消えない}}
+-forute氏の、9作目。
+-タイトルの「レミニセンス(Reminiscence)」は、英語で追憶という意味。
+-KARENTレーベルよりダウンロード販売が行われている。[[初音ミク9周年記念特集>>http://karent.jp/special/miku16]]で配信された作品の1つ。
+
+**音楽配信
+&ref(http://karent.jp/npdca/1918_20160702013035_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Reminiscence}&br()[[Mist>Mist/forute]]|CENTER:-|
+
+発売：2016年8月22日
+価格：￥150
+流通：配信
+レーベル：[[KARENT>>http://karent.jp/album/1918]]
+ジャケットイラスト：[[ふろく>>http://piapro.jp/craft_21]]
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/reminiscence-single/id1139661674]]}|
+
+***曲目
++Reminiscence （feat. 初音ミク）
+
+**歌詞
+（動画より書き起こし）
+
+合わない速度で廻っていく
+二人の世界はこれ以上
+変わらない　最初からない明日を
+探し続けていたみたい
+
+崩れてゆく　罅だらけの心
+何度も叫ぶけれど　届かない
+
+君と　ずっとどこか繋がっていると
+勘違いはもう　今日で終わり
+いつか消えそうな空も色褪せて
+思い出に変わっていくのかな
+
+伝えたい事ばかり　今更浮かぶの
+何も変わらぬ過去を　繰り返し思い出して
+消えない　過去たちを並べて思い馳せ
+見えない　明日の空をずっと探し続けて
+
+見つからないよ
+
+夜の静寂を壊す朝が
+心(むね)の傷を照らしはじめる
+いつもずっと側に居た君の影が
+少しづつ消えていく
+
+君と　ずっとどこか繋がっていると
+勘違いはもう　今日で終わり
+いつか消えそうな空も色褪せて
+思い出に変わっていくのかな
+
+
+**コメント
+#comment()

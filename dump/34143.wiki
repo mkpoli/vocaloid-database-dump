@@ -1,0 +1,25 @@
+#right(){&furigana(まえだゆうき)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://ext.nicovideo.jp/thumb_mylist/54504565" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/54504565">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-使用VOCALOIDは初音ミク、Megpoid、巡音ルカV4X、Fukase。
+-バンドサウンドだけでなく、シンセを駆使したサウンドで処女作からクオリティの高い楽曲を発表している。
+-世界の終焉、終焉間際の物語、ボーイミーツガールな歌詞を得意とする。
+
+**リンク
+-[[twitter>>http://twitter.com/YUKI_MED_]]
+-[[PIAPRO>>http://piapro.jp/yuk717]]
+-[[YouTube>>https://www.youtube.com/channel/UC4t5Ap7H5jEzNP7JW5KfBkw]]
+
+**曲
+#list_by_tag(前田ユウキ,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(前田ユウキCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm15950959)|&nicovideo(http://www.nicovideo.jp/watch/sm16247532)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm28010410)|&nicovideo(http://www.nicovideo.jp/watch/sm28097653)|
+
+**コメント
+#comment()

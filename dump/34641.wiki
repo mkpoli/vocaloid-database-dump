@@ -1,0 +1,48 @@
+#right(){&furigana()&furigana()【登録タグ:&tags()】}
+&nicovideo(http://www.nicovideo.jp/watch/sm28617820)
+作詞：[[Notch]]
+作曲：[[Notch]]
+編曲：[[Notch]]
+唄：巡音ルカ
+
+**曲紹介
+>&bold(){別れの歌。}
+-Notch氏の9作目。
+-イラストはpen 氏の作品「[[瞬く>>http://piapro.jp/t/8naz]]」を使用している。
+
+**歌詞
+([[piapro>>http://piapro.jp/t/DSYY]]より転載)
+
+郷愁に袖を通した
+旋律の雨
+枯渇している退屈に身を委ねて　そして
+
+時間という負債を
+寿命で返すように
+
+I'm walking and talking
+Charge ahead in pursuit of the unknown
+君の浅い言葉
+
+言葉で表せぬ領域に
+まだ僕は言葉に頼り
+
+色彩で四季咲いて
+息割いて切り裂いた夜
+この正しさが間違いだとしても
+無常の風が時を選ばず吹いたとしても
+
+きっと
+
+I'm walking and talking
+Charge ahead in pursuit of the unknown
+僕を刺した言葉
+
+I'm drawing and going
+My memory is getting less and less clear
+泡に溶けた心
+
+届け
+
+**コメント
+#comment()

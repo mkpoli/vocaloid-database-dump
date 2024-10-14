@@ -1,0 +1,51 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1942_20160808184121_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Feedback/Artery>Feedback／Artery]]|CENTER:&bold(){INCOHERENT}|CENTER:[[EXORDIUM ~MIKULARUS CHORUS]]|
+
+|&bold(){[[AVTechNO]]}|
+
+|流通|CENTER:即売|CENTER:配信|CENTER:委託|
+|発売|CENTER:2016年8月14日|CENTER:2016年8月24日||
+|価格|CENTER:￥|CENTER:￥600|CENTER:￥|
+|サークル||CENTER:AVTechNO!||
+
+**CD紹介
+-AVTechNO!氏のCDアルバム。
+-ジャケットイラスト：[[和音>>http://piapro.jp/dot37]]
+-コミックマーケット90（C80）で頒布。
+-KARENTレーベルよりダウンロード販売が行われているが、CD版とは内容が異なる。
+-とらのあなで委託販売が行われる。
+
+**曲目
+***CD版
++[[MEDIUS LOCUS ~EXORDIUM>MEDIUS LOCUS < EXORDIUM]] / 初音ミク
++[[INTELLIGENCE 16569]] / 初音ミク
++QLONE / 初音ミク
++[[NEL]](Trance) (BONUS TRACK) / Fukase
++[[INCOHERENT]] / 初音ミク
++[[ARPEGGIO]](EDM) (BONUS TRACK) / Fukase
++[[HEART>HEART/AVTechNO]] / 初音ミク
++[[We>僕たちは]] (BONUS TRACK) / 鏡音レン
++[[EXORDIUM ~MIKULARUS CHORUS]] / 初音ミク
++9460730472580800 (Instrumental)
++LEER MINX SIVA / Fukase
++< RARE TRACK > / 鏡音リン
+
+***配信版
++[[MEDIUS LOCUS ~EXORDIUM>MEDIUS LOCUS < EXORDIUM]] （feat. 初音ミク）
++[[INTELLIGENCE 16569]] （feat. 初音ミク）
++QLONE （feat. 初音ミク）
++[[INCOHERENT]] （feat. 初音ミク）
++[[HEART>HEART/AVTechNO]] （feat. 初音ミク）
++[[We>僕たちは]] （feat. 鏡音レン）
+
+**リンク
+-[[twitter>>http://twitter.com/advance_tech_no]]
+-[[作者サイト>>http://x9-avtechno.wix.com/avtechno]]
+-[[KARENT：「INCOHERENT」>>http://karent.jp/album/1942]]
+-[[iTunes Store>>http://itunes.apple.com/jp/album/incoherent-ep/id1145670034]]
+
+**コメント
+#comment()

@@ -1,0 +1,37 @@
+#right(){&furigana(ほしくずおーけすとら)&furigana()【登録タグ:&tags() 】}
+
+&ref(https://ecdnimg.toranoana.jp/ec/img/04/0030/36/09/040030360908-1p.jpg,x=300,y=300)
+
+|&nicovideo(http://www.nicovideo.jp/watch/sm27412556)|&youtube(http://www.youtube.com/watch?v=rstekenIP70)|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[ムゲンノツバサ>ムゲンノツバサ/CD]]|CENTER:&bold(){星屑オーケストラ}|CENTER:[[茜色の魔法]]|
+
+|&bold(){[[ハヤブサ]]}|
+
+|流通|CENTER:即売|CENTER:同人|CENTER:配信|
+|発売|CENTER:2015年10月25日||CENTER:2015年11月|
+|価格|CENTER:￥500|CENTER:￥700|CENTER:￥500|
+|サークル|>|CENTER:Falconnect||
+
+**CD紹介
+-ハヤブサ氏の1stシングル。
+-2015年10月25日M3-2015秋にて頒布開始。
+-とらのあな、メロンブックスで委託販売が行われていた。BOOTHにて配信も行われている。
+
+**曲目
++[[星屑オーケストラ]]
++星屑オーケストラ feat.藤代裕太
++ココロノトモシビ
++ココロノトモシビ feat.藤代裕太
++夜が明けたら
++星屑オーケストラ (Instrumental)
++ココロノトモシビ (Instrumental)
+
+**リンク
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/36/09/040030360908.html]]
+-[[メロンブックス>>http://www.melonbooks.co.jp/detail/detail.php?product_id=143313]]
+-[[BOOTH>>http://falconnect.booth.pm/]]
+
+**コメント
+#comment()

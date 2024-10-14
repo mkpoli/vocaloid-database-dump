@@ -1,0 +1,44 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+|&nicovideo(http://www.nicovideo.jp/watch/sm29958637)|&youtube(http://www.youtube.com/watch?v=2GBmcJx1nYs){342,187}|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[八月のレイニー(The Starry Night Mix)]]|CENTER:&bold(){BLUE ENDING NOVA}|CENTER:[[SLEEP SHEEP SUNROOM]]|
+
+|&bold(){[[はるまきごはん]]}|
+
+|流通|CENTER:即売|CENTER:通販|CENTER:配信|CENTER:全国|
+|発売|CENTER:2016年11月5日|CENTER:-|CENTER:2017年4月1日|CENTER:2017年5月10日|
+|価格|>|CENTER:￥1,000|CENTER:￥1,200|CENTER:￥1,404|
+|サークル|>|>|CENTER:ウサミンたいそう|>|
+
+**CD紹介
+>&bold(){『 彗星は離陸した 』}
+-はるまきごはん1st同人フルアルバム
+-2016年11月5日 THE VOC@LOID M@STER 36にて頒布された。
+-BOOTHで通販されている。
+-2017年5月10日全国リリースが決定、それに合わせ4月1日よりiTunes, SPOTIFYで先行配信されている。
+
+**曲目
++[[泣いてしまいたいのは]]
++[[ラストライト]]
++[[サイレンは彼方より]]
++[[アトモスフィア]]
++[[サマーアリス]]
++[[フォトンブルー]]
++Galax Gate
++[[銀河録]]
++[[カルデネ]]
++[[宇宙分解]]
++[[November]]
++[[ネオンノクチューン]]
++[[ルナ]]
+
+**リンク
+-[[特設サイト>>http://nova999.webcrow.jp/]]
+-[[BOOTH>>https://harumakigohan.booth.pm/items/336426]]
+
+**コメント
+- 追加乙です。めちゃめちゃ良曲！  -- すずき  (2016-11-04 17:34:39)
+- 最高　特にルナ　10年近くボカロ聞き続けてきたけれど1番好きな曲かもしれない  -- 名無しさん  (2017-06-06 22:41:04)
+- 初めて聴いた時、このアルバムと自分との境界線が曖昧になって、どこまでも深い青に沈んでいくような、あるいは浮かんでいくような無重力状態が忘れられない  -- 名無しさん  (2022-07-07 14:44:05)
+#comment()

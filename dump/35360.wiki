@@ -1,0 +1,46 @@
+#right(){&furigana(CYBERSONGMAN)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+**製品
+&image(https://rsc-net.vocaloid.com/assets/image_files/13c477e675bd790b683e956654254c0b/CYBER_SONGMAN_600.png,width=180)
+
+|製品名|CYBER SONGMAN|
+|発売日|2016年10月31日|
+|価格|10,000円（税抜）|
+|開発|YAMAHA|
+|エンジン|VOCALOID4|
+|言語|英語ライブラリ|
+|性別|男声|
+|サンプリング元|不明（米国出身のネイティブスピーカー）|
+|得意な曲のテンポ|70-190 BPM|
+|得意な音域|A1-A3|
+
+***製品紹介
+合成音声名：『&u(){CYBER SONGMAN}』
+-VOCALOID4用の男性音声VOCALOIDで、男声の英語ライブラリの搭載はYAMAHA製の音声ライブラリとして初。
+--サンプリング元は、米国出身のネイティブスピーカーを起用。
+-2018年7月12日には、VOCALOID5に対応させた「CYBER SONGMAN II」が発売された。
+
+**公式デモソング
+|Rinse, Repeat（[[CRUSHER-P]]+[[The Living Tombstone]]）|Fighter（[[YusukeKira]]+[[cheesum]]）|
+|&youtube(http://www.youtube.com/watch?v=rcNbIoLh89o){340,240}|&youtube(http://www.youtube.com/watch?v=O9CFNxGlASI){340,240}|
+
+**リンク
+-[[VOCALOID SHOP>>http://net.vocaloid.com/products/show/v4l_cyber_songman]]
+
+**関連タグ内の更新履歴
+※「CYBER SONGMAN」タグ内で最近編集やコメントのあった記事を新しい方から10件表示しています。
+#list_by_tagsearch(CYBER SONGMAN,sort=timestamp,sort2=desc,errmsg=まだ曲が登録されていません。,or,10)
+
+
+**コメント
+- おおッ！！！新しいVOCALOID！！！  -- 名無しさん  (2016-11-02 22:15:27)
+- CYBER DIVAに続いて英語スタイルのVOCALOIDが発売されたか。歌唱も気になります。  -- けん  (2016-11-03 01:20:59)
+- こんなボーカロイドも遂に登場したのか……( (o(^∇^)o) )  -- 抹茶  (2016-12-05 21:01:05)
+- カッコイイ！！  -- あずきぱい  (2016-12-05 21:02:35)
+- おぉー！  近未来感がある！  -- ばななあいす  (2017-01-03 18:05:56)
+- かっこいい  -- 霧野蘭丸  (2017-02-17 23:03:28)
+- Crusher-Pのアルバムで初めて聞いたけど、すごく良い声。人間にしか聞こえない。  -- 名無しさん  (2018-01-16 00:02:27)
+#comment()

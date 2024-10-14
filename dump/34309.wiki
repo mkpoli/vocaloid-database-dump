@@ -1,0 +1,39 @@
+#right(){&furigana(えきたいのすすめ)&furigana()【登録タグ:&tags() 】}
+
+&ref(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT4pazzZx4UMM1aYz3P-MK-07_XvVyjxY534hidGXE5JuKRVunb&usqp=CAU,x=300,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm28664305)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){液体のすゝめ}|CENTER:-|
+
+|&bold(){[[3㍑P]]}|自転車|
+
+|流通|CENTER:即売|
+|発売|CENTER:2016年4月30日|
+|価格|CENTER:￥1,000|
+|サークル|CENTER:液体日和|
+
+**CD紹介
+>宴　、　始　ま　る
+-2016年4月30日の超ボーマス34で頒布の3㍑PのVOCALOiD Original 1st Album。
+
+**曲目
++[[イエスマン]]
++[[落ちて月　空に花]]
++staygreen
++[[幻想奇行]]
++[[ハッピーラッキーアンホリデーマンデー]]
++No work = No life ?
++深幸 -3LP Remix-
++get back my sadness
++[[サンデーモーニンセントーイン]]
++My little...
+
+**リンク
+-[[特設サイト>>http://liquid3lp.webcrow.jp/]]
+-[[BOOTH>>https://booth.pm/ja/items/241092]]
+
+**コメント
+- 欲しい。  -- 名無しさん  (2016-11-19 08:44:52)
+#comment()

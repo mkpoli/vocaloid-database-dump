@@ -1,0 +1,61 @@
+#right(){&furigana(おとえほん)&furigana()【登録タグ:&tags() 】}
+
+#amazon(B07L1KHL7G)
+
+|&nicovideo(http://www.nicovideo.jp/watch/sm28728596)|&youtube(http://www.youtube.com/watch?v=42eoIHuT2PE)|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[魔法少年]]|CENTER:&bold(){音絵本}|CENTER:-|
+
+|&bold(){[[YASUHIRO（康寛）]]}|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|CENTER:2016年4月29日||
+|価格|CENTER:￥1,500|CENTER:￥2,000（税別）|
+|サークル|>|CENTER:ホシゾラ列車【三日月線】|
+
+**CD紹介
+>ページをめくり　音を聞き　世界を感じる
+-YASUHIRO（康寛）氏のボーカロイド1stアルバム。
+-インスト曲を含む2枚組全24曲。
+-絵：こもも
+-THE VOC@LOiD 超 M@STER 34（超ボーマス34）で頒布。
+-メロンブックスで委託販売が行われている。
+
+**曲目
++魔女の絵本 / Vocal:初音ミク
++[[踊れオーケストラ]] / Vocal:IA
++[[憧憬人魚姫]] / Vocal:IA
++[[月世界旅行]] / Vocal:IA
++[[魔法少年]] / Vocal:初音ミク
++Master=serenade
++[[アイアムソフィ]] / Vocal:初音ミク
++[[がらくたのマーチ]] / Vocal:IA 鏡音リン
++地獄のヒーロー
++[[ヘンリー・キャット]] / Vocal:初音ミク
++白い私とそれ以外のあいつ / Vocal:鏡音リン
+
+***DISC2
++ロリっと解決名探偵！ / Vocal:鏡音リン
++[[デュアコイル]] / Vocal:鏡音レン
++メアリーは寂しがり / Vocal:IA
++通行料 / Vocal:初音ミク
++狂鬼夜行
++深海図書館 / Vocal:IA
++[[居残り花子]] / Vocal:初音ミク
++偽者の怪盗 / Vocal:初ミク
++カミカゼバトル / Vocal:鏡音レン
++すかいとらべら～ / Vocal:初音ミク
++Once Upon a Music
++[[お星さま列車]] / Vocal:IA Chorus:IA+お星さま列車乗客
++音楽家の秘密基地
+
+**リンク
+-[[作者ブログ>>http://ameblo.jp/yasuhiro-ruins/]]
+-[[メロンブックス>>https://www.melonbooks.co.jp/detail/detail.php?product_id=162845]]
+-[[BOOTH>>https://yasuhiromusic.booth.pm/items/1743759]]
+
+**コメント
+- すっごい！！！  -- 名無しさん  (2016-04-30 09:05:46)
+- 通販はメロンブックスらしいです、待機待機  -- 名無しさん  (2016-04-30 09:15:55)
+#comment()

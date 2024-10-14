@@ -1,0 +1,29 @@
+#right(){&furigana(ながしたかけらに)&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1923_20160715160850_0280_0280.jpg)
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){流したカケラに。}|CENTER:[[海が見えているから]]|
+
+|&bold(){[[小菅こんにゃく]]}|
+
+発売：2016年8月22日
+価格：￥300
+流通：配信
+レーベル：KARENT
+イラスト：[[琥珀むろ>>http://piapro.jp/kanakana123]]
+
+**CD紹介
+-小菅こんにゃく氏の配信作品。
+-KARENTレーベルよりダウンロード販売が行われている。初音ミク9周年記念特集で配信された作品の1つ。
+
+**曲目
++流したカケラに。 （feat. 初音ミク）
++[[六月の君は。]] （feat. 初音ミク）
+
+**リンク
+-[[twitter>>http://twitter.com/kosugekonyaku]]
+-[[KARENT：「流したカケラに。」>>http://karent.jp/album/1923]]
+-[[KARENT：「初音ミク 9th Anniversary」特集ページ>>http://karent.jp/special/miku16]]
+-[[iTunes Store>>http://itunes.apple.com/jp/album/flowed-our-memory-single/id1139661840]]
+
+**コメント
+#comment()

@@ -1,0 +1,48 @@
+#right(){&furigana(めいんきゃらくたー)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+//
+//&ref(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQsFA60iE5x9t2dEK_knSUHmnP-H9vaYd8MXhv5QO6q-0atI_Tb&usqp=CAU,x=300,y=300)
+
+|&nicovideo(sm28696236)|&youtube(https://www.youtube.com/watch?v=jIDCv3ADvDI){342,187}|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[H**rtful Pieces]]|CENTER:&bold(){メインキャラクター}|CENTER:[[Apostrophe]]|
+
+|&bold(){[[*Luna]]}|[[びび]]|
+
+|流通|CENTER:即売|CENTER:同人|CENTER:配信|
+|発売|CENTER:2016年4月29日|CENTER:2016年4月|CENTER:2016年4月|
+|価格|CENTER:￥1,500|CENTER:￥1,500|CENTER:￥1,200|
+|サークル|>|>|CENTER:ギョーザプリン|
+
+**CD紹介
+CD名：『&u(){メインキャラクター}』
+-*Luna氏の3rdアルバム。
+-ミックス・マスタリング：はるお、調声：びび、イラスト：おむたつ、デザイン：Kaito、りょしき 
+-THE VOC@LOiD 超 M@STER 34（超ボーマス34）で頒布。
+-BOOTHで通販とダウンロード販売が行われている。
+
+**曲目
++[[メインキャラクター]] （feat. 鏡音レン）
++マイナーアクター (feat. GUMI)
++Raining Heart (feat. GUMI)
++[[ハナウタショッピング]] （feat. 鏡音リン）
++糸の先で (feat. GUMI)
++空っぽのキャンディー （feat. 杏音鳥音）
++さよならの歌 (feat. IA)
++パラノイド (feat. GUMI)
++[[言い訳>言い訳/*Luna]] (feat. GUMI)
++Beginning Day (feat. GUMI)
+
+**リンク
+-[[作者ブログ>>https://luna-catbird.blogspot.com]]
+//-[[Twitter>>https://twitter.com/Luna_niconico]]
+//-[[BOOTH>>https://luna-catbird.booth.pm/items/240054]]
+
+**コメント
+//- 追加まってました、もう前のアルバムと一緒に買ってしまおう  -- 名無しさん  (2016-04-26 21:14:50)
+- 今回も完成度高し。貴重な杏音&鳥音ナンバー　良いです。  -- takoruka2  (2016-05-21 02:51:26)
+#comment()

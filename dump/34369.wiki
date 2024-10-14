@@ -1,0 +1,30 @@
+#right(){&furigana(はいゆき2016)&furigana()【登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186146931.jpg,x=300,y=300)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[テンカラット / Nature>テンカラット／Nature]]|CENTER:&bold(){灰雪-2016-}|CENTER:[[夏に、サヨナラ>夏に、サヨナラ/CD]]|
+
+|&bold(){[[キッドP]]}|[[クリスタルP]]|[[残鏡P]]|
+
+発売：2016年4月29日
+価格：￥500
+流通：即売
+サークル：3レン腐
+
+**CD紹介
+-キッドPのCD作品。
+-ジャケットイラストはシロツグ氏。
+-THE VOC@LOiD 34 M@STER 34（超ボーマス34）で初頒布。
+
+**曲目
++[[灰雪]]-V3&Append Mix-
++灰雪-Pf&Strings mix-
++灰雪-KARAOKE-
++灰雪-instrumental-
+
+**リンク
+-[[作者ブログ>>http://yaplog.jp/kidsworks/]]
+
+**コメント
+#comment()

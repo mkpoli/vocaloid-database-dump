@@ -1,0 +1,43 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+|&nicovideo(http://www.nicovideo.jp/watch/sm25673197)|&youtube(http://www.youtube.com/watch?v=BrbRfxjq1O4)|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[えほんのせかい2]]|CENTER:&bold(){Espresso}|CENTER:[[6-Sense]]|
+
+|&bold(){[[ムシP]]}|
+
+|流通|CENTER:即売|CENTER:配信|CENTER:通販|
+|発売|>|>|CENTER:2015年3月8日|
+|価格|CENTER:¥1,000|CENTER:￥1,200|CENTER:¥1,500|
+|サークル|>|>|CENTER:Blaite Records|
+
+**CD紹介
+-2015年3月のボーパラ関西で頒布されたムシPの3rdアルバム。
+-アートワークはムシPの母が手掛けている。
+-BOOTHでダウンロード販売、パッケージ版の通販も行われている。
+
+**曲目
++[[Espresso>Espresso/ムシP]]
++[[さけびごえ]]
++禽獣
++恋の証
++A Wonder Music Girl
++[[暗闇にふたりきり]]
++[[エイド]]
++ずっと迷子
++自傷行為 - instrumental
++祭ノ夜 - instrumental
++仮面と踊ろ - instrumental
++Espresso  - off vocals
++禽獣  - off vocals
++A Wonder Music Girl  - off vocals
++暗闇にふたりきり  - off vocals
++エイド  - off vocals
++ずっと迷子  - off vocals
+
+**リンク
+-[[Official site>>http://muship.jimdo.com/discography/05-espresso-3rd/]]
+-[[BOOTH>>http://muship.booth.pm/items/157063]]
+
+**コメント
+#comment()

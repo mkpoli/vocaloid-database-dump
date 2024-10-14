@@ -1,0 +1,40 @@
+#right(){&furigana(clear)&furigana()【登録タグ:&tags() 】}
+|&nicovideo(http://www.nicovideo.jp/watch/sm29349440)|&youtube(http://www.youtube.com/watch?v=-A1AOSSuuQc){342,187}|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[白夜と月下美人]]|CENTER:&bold(){GOTTANI！番外編}|CENTER:[[Diamond Lily>Diamond Lily/CD]]|
+
+|&bold(){[[natsuP]]}|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|>|CENTER:2016年8月14日|
+|価格|CENTER:￥800|CENTER:￥1,100（税別）|
+|サークル|>|CENTER:SEVEN COLOR LIGHT|
+
+**CD紹介
+-natsuPのサークルSCL ProjectのCD作品。
+-使用VOCALOIDはGUMI、結月ゆかり、鏡音リン、初音ミク、VY2、KAITO、神威がくぽ、氷山キヨテル、鏡音レン、歌手音ピコ。
+-ジャケットイラストは[[春アキ]]氏。
+-コミックマーケット90（C90）で頒布。
+-とらのあなで委託販売が行われていたが、現在は終了している。
+
+**曲目
++hate &color(red){NEW!!}
++砂時計 &color(red){NEW!!}
++Osaka☆Love!yeah!day! &color(red){NEW!!}
++Daylight☆名古屋 &color(red){NEW!!}
++[[ありがとうを伝えたい]] -re arrange-
++[[VanaN'Ice Medley ～Space of time～]]
++reborn &color(red){NEW!!}
++hate (instrumental) &color(red){NEW!!}
++砂時計 (instrumental) &color(red){NEW!!}
++Osaka☆Love!yeah!day! (instrumental) &color(red){NEW!!}
++Daylight☆名古屋 (instrumental) &color(red){NEW!!}
++ありがとうを伝えたい -re arrange- (instrumental)
++VanaN'Ice Medley ～Space of time～ (instrumental)
+
+**リンク
+-[[Twitter>>http://twitter.com/scl_natsu]]
+
+**コメント
+#comment()

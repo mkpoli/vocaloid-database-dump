@@ -1,0 +1,30 @@
+#right(){&furigana(みらーしゅてぃすく)&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1909_20160601122024_0280_0280.jpg)
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:[[水彩に染められて]]&br()&bold(){ミラージュディスク}|CENTER:[[水彩と祝福]]|
+
+|&bold(){[[Misumi]]}|
+
+発売：2016年6月15日
+価格：￥600
+流通：配信
+レーベル：KARENT
+
+**CD紹介
+-Misumi氏の配信作品。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++[[Flux>>http://www.nicovideo.jp/watch/sm28721487]] (inst)
++[[ミラージュメモリーズ]] (feat. 初音ミク)
++[[パラレルメカニズム]] (feat. 初音ミク)
++煙と言霊 (feat. 初音ミク)
++環 (feat. 初音ミク)
+
+**リンク
+-[[twitter>>http://twitter.com/_MISUMI_]]
+-[[KARENT：「ミラージュディスク」>>http://karent.jp/album/1909]]
+-[[iTunes Store>>http://itunes.apple.com/jp/album/mirage-disk-ep/id1121519292]]
+
+**コメント
+#comment()

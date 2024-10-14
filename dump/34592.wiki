@@ -1,0 +1,110 @@
+#right(){&furigana(ゆうのすけ)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://ext.nicovideo.jp/thumb_mylist/38919429" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/38919429">【ニコニコ動画】</a></iframe>)
+
+**特徴
+作り手名：『&u(){雄之助}』（&u(){ゆうのすけ}）
+-2014年8月、「[[The Mysterious Keys]]」でデビュー（現在は削除済）。
+-クラブミュージック（中でもEDM）を得意とする作り手。
+-代表作は「[[Take Me!!]]」「[[Pathos]]」「[[PaⅢ.SENSATION]]」。
+-使用音源は初音ミク・鏡音リン・GUMI・flower・可不。
+-曲は[[牛肉]]氏（作詞）や[[攻]]氏（VOCALOIDの調声）と共に制作することが多い。
+-&bold(){PaⅢ.シリーズ}
+--「[[PaⅢ.SENSATION]]」「[[PaⅢ.INCEPTION]]」「[[PaⅢ.REVOLUTION]]」「[[PaⅢ.AGITATION]]」
+-次の曲が殿堂入りを達成している。&br()&list_by_tagsearch(雄之助,殿堂入り,sort=furigana,option=nolist,nolistspace=／,100)
+
+**リンク
+-[[Twitter>>https://twitter.com/bass_ynk]]
+-[[YouTube>>https://youtube.com/user/yunosuke23]]
+-[[Bilibili>>https://space.bilibili.com/25480353]]
+-[[Piapro>>https://piapro.jp/Yunosuke41]]
+-[[ニコニコ大百科（単語記事）>>https://dic.nicovideo.jp/a/%E9%9B%84%E4%B9%8B%E5%8A%A9]]
+
+**曲
+#list_by_tag(雄之助,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(雄之助CD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+#region(close,2014年)
+|&nicovideo(sm24325819)|&nicovideo(sm24331873)|
+|&nicovideo(sm24352718)|&nicovideo(sm24392959)|
+|&nicovideo(sm24394248)|&nicovideo(sm24400370)|
+|&nicovideo(sm24431550)|&nicovideo(sm24590163)|
+|&nicovideo(sm24637250)|&nicovideo(sm24712281)|
+|&nicovideo(sm24842510)|&nicovideo(sm24905072)|
+|&nicovideo(sm24912399)|&nicovideo(sm24960258)|
+|&nicovideo(sm24990904)|&nicovideo(sm25014764)|
+|&nicovideo(sm25100402)|&nicovideo(sm25185100)|
+#endregion
+#region(close,2015年)
+|&nicovideo(sm25352503)|&nicovideo(sm25366684)|
+|&nicovideo(sm25431537)|&nicovideo(sm25458100)|
+|&nicovideo(sm25565801)|&nicovideo(sm25612879)|
+|&nicovideo(sm25778116)|&nicovideo(sm25823144)|
+|&nicovideo(sm26033947)|&nicovideo(sm26071603)|
+|&nicovideo(sm26233711)|&nicovideo(sm26261662)|
+|&nicovideo(sm26318593)|&nicovideo(sm26419666)|
+|&nicovideo(sm26491599)|&nicovideo(sm26950099)|
+|&nicovideo(sm27135298)|&nicovideo(sm27195936)|
+|&nicovideo(sm27385884)|&nicovideo(sm27562830)|
+|&nicovideo(sm27678889)|&nicovideo(sm27804554)|
+#endregion
+#region(close,2016年)
+|&nicovideo(sm28146093)|&nicovideo(sm28239601)|
+|&nicovideo(sm28591503)|&nicovideo(sm28779562)|
+|&nicovideo(sm28955541)|&nicovideo(sm29366472)|
+|&nicovideo(sm29648328)|&nicovideo(sm30023035)|
+|&nicovideo(sm30129355)||
+#endregion
+#region(close,2017年)
+|&nicovideo(sm30379473)|&nicovideo(sm30913018)|
+|&nicovideo(sm31227535)|&nicovideo(sm31562013)|
+|&nicovideo(sm31712326)|&nicovideo(sm32170199)|
+|&youtube(https://www.youtube.com/watch?v=T83HT-rxW1w){342,187}|&nicovideo(sm32449999)|
+#endregion
+#region(close,2018～2019年)
+|&nicovideo(sm32859218)|&nicovideo(sm33034982)|
+|&nicovideo(sm33062023)|&nicovideo(sm33342354)|
+|&nicovideo(sm33543698)|&nicovideo(sm34036668)|
+|&nicovideo(sm34166379)|&nicovideo(sm34764617)|
+|&nicovideo(sm35954619)||
+#endregion
+#region(close,2020～2021年)
+|&nicovideo(sm36967151)|&nicovideo(sm37121259)|
+|&nicovideo(sm37354883)|&nicovideo(sm37503032)|
+|&nicovideo(sm37777064)|&nicovideo(sm38841294)|
+|&nicovideo(sm39002508)|&nicovideo(sm39265908)|
+|&nicovideo(sm39473751)|&nicovideo(sm39809847)|
+#endregion
+|&nicovideo(sm40550223)|&nicovideo(sm41009818)|
+|&nicovideo(sm41058245)|&nicovideo(sm41187453)|
+|&nicovideo(sm41796807)|&nicovideo(sm42140100)|
+|&nicovideo(sm42274456)|&nicovideo(sm42571048)|
+|&nicovideo(sm43001284)|&nicovideo(sm43188404)|
+//|&nicovideo()|&nicovideo()|
+
+**Remix
+|&nicovideo(sm38590913)|&nicovideo(sm41946228)|
+|&nicovideo(sm42571095)||
+
+**コメント
+- この方はもっともっと評価されるべき　「DANCER」が好きです  -- 名無しさん  (2016-06-10 15:33:30)
+- PaⅢ.SENSATION　いいね  -- 名無しさん  (2016-09-19 22:20:42)
+- 確かに！ちなみにtake me !や、Iの証明も好きです  -- nanami kenty   (2016-11-09 14:02:35)
+- 曲調も歌詞も全てがどストライク。応援してます。  -- 名無しさん  (2016-11-12 19:40:06)
+- EDM好きだから雄之助さんの曲すごいタイプ  -- 名無しさん  (2017-10-15 14:47:00)
+- なぜ伸びないッ…！もっと評価されるべき！  -- 名無しさん  (2017-11-09 18:22:43)
+//- なんでLazy書いてないんだろ？  -- 名無しさん  (2017-11-16 22:22:25)
+//- ↑それな  -- ペンデュラム  (2017-11-19 00:25:16)
+- 機械音とミクの声がマッチしていて聴くの楽しい。控えめにいって最高です  -- べーくいっと  (2018-04-03 17:11:22)
+- すこ  -- 名無しさん  (2020-01-06 15:42:23)
+- 濁雨で知ったけどかなり好きなので伸びてほしい  -- 名無しさん  (2020-07-06 18:38:39)
+- この人の音楽が本当に好き  -- 名無しさん  (2022-07-06 20:06:46)
+- いいよね  -- 名無しさん  (2023-03-13 00:05:20)
+- 2020～2021年の曲を格納しました。  -- 名無しさん  (2023-08-10 20:43:25)
+#comment()

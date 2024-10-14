@@ -1,0 +1,43 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+
+&image(http://karent.jp/npdca/1941_20160808145307_0280_0280.jpg)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm29391124)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Reverberations 2]]|CENTER:&bold(){Wave Motion}|CENTER:[[Vermillion Sky]]|
+
+|&bold(){[[Clean Tears]]}|CHICACO|Rika|
+
+|流通|CENTER:即売|CENTER:同人|CENTER:配信|
+|発売|CENTER:2016年8月14日|CENTER:|CENTER:CENTER:2016年8月24日|
+|価格|CENTER:￥1,000|CENTER:￥1,200（税別）|CENTER:￥1,500 /1曲￥150|
+|サークル|>|>|CENTER:S.C.X|
+
+**CD紹介
+-Clean Tears氏のCDアルバム。
+-イラスト：k2pudding、ジャケットデザイン：tak
+-コミックマーケット90（C90）にて頒布。
+-書店委託およびKARENTレーベルよりダウンロード販売が行われる。
+
+**曲目
++Intro - Wave motion
++[[テイク・イット・イージー]]
++You and Me
++Lycoris
++Smoke
++Drop
++Only Life
++[[旅の終わり>旅の終わり/Clean Tears]]
++[[アルペジオ>アルペジオ/Clean Tears]]
++Only Life - Extended Mix
++アルペジオ - Extended Mix
+
+**リンク
+-[[作者ホームページ>>http://scx-ct.net/]]
+-[[特設ページ>>http://wave-motion-scx.tumblr.com/]]
+-[[KARENT：「Wave Motion」>>http://karent.jp/album/1941]]
+-[[iTunes Store>>https://itunes.apple.com/jp/album/wave-motion/id1145671163]]
+
+**コメント
+#comment()

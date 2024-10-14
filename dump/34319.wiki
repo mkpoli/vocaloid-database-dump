@@ -1,0 +1,30 @@
+#right(){&furigana(えんどれすえんどているず)&furigana()【登録タグ:&tags() 】}
+
+&ref(https://sawanoji.up.seesaa.net/image/E8A1A8E7B499E5A4A7.jpg,x=400,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm23765552)
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){エンドレスエンドテイルズ}|CENTER:-|
+
+|&bold(){[[或瀬沙和]]}|[[ねこしえーたー]]|[[凪唱P]]|
+
+発売：2014年6月29日
+価格：￥500
+流通：即売
+サークル：楽園軌道
+
+**CD紹介
+-或瀬沙和氏のカイト終末小説短編集に付属するCD。
+-作詞は全て作者の或瀬沙和氏が手がけ、楽曲は小説とリンクした内容になっている。
+-VOCALOID PARADISE 番外編3 KAITO PARADISE2（ボーパラ番外編3カイパラ2）で頒布。
+
+**曲目
+-[[神様のいない国]] / ねこしえーたー
+-[[グレイスケール・レインボウ]] / 凪唱P
+-グッバイ、ブループラネット / ねこしえーたー
+
+**リンク
+-[[特設ページ>>http://sawanoji.seesaa.net/article/399288359.html]]
+
+**コメント
+#comment()

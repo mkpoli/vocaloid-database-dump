@@ -1,0 +1,42 @@
+#right(){&furigana(あかねいろのまほう)&furigana()【登録タグ:&tags() 】}
+
+&ref(https://ecdnimg.toranoana.jp/ec/img/04/0030/40/88/040030408895-1p.jpg,x=300,y=300)
+
+|&nicovideo(http://www.nicovideo.jp/watch/sm28602806)|&youtube(http://www.youtube.com/watch?v=Jw2zOxdmi58){342,187}|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[星屑オーケストラ>星屑オーケストラ/CD]]|CENTER:&bold(){茜色の魔法}|CENTER:[[Initiator]]|
+
+|&bold(){[[ハヤブサ]]}|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|CENTER:2016年4月24日||
+|価格|CENTER:￥1,000|CENTER:￥1,400（税別）|
+|サークル|>|CENTER:Falconnect|
+
+**CD紹介
+>全てがいつか、魔法のように
+-ハヤブサ氏の1stアルバム。
+-2016年4月24日M3-2016春にて頒布開始。
+-4月29,30日のTHE VOC@LOiD 超 M@STER 34（超ボーマス34）でも頒布される。
+-とらのあな、メロンブックスで委託販売が行われている。
+
+**曲目
++茜色の魔法
++[[がらくたの僕に]]
++名も無い星屑 instrumental
++[[星屑オーケストラ]]
++[[常闇の夜に]]
++ナナイロハナ
++それでも僕らは instrumental
++[[サヨナラザクラ]]
++[[ムゲンノツバサ]]
++[[等身大の未来]]
+
+**リンク
+-[[特設サイト>>http://falconnect.net/lp/akaneiro/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/40/88/040030408895.html]]
+-[[メロンブックス>>http://www.melonbooks.co.jp/detail/detail.php?product_id=160660]]
+
+**コメント
+#comment()

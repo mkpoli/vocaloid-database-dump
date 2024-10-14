@@ -1,0 +1,43 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+
+|&nicovideo(sm28596832)|&youtube(http://www.youtube.com/watch?v=a3Ey4YChtEU)|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[IN]]|CENTER:&bold(){Call My Name}|CENTER:-|
+
+|&bold(){[[23]]}|
+
+発売：2016年4月29日
+価格：￥1,000（税込）
+流通：即売
+サークル：23.exe & FOS+、FOS+ & 23.exe
+
+**CD紹介
+-23.exe氏の2ndフルアルバム。
+-前回のアルバム以降に投稿された曲や、コンピアルバムへの書下ろし曲、新曲を収録した15曲入りCD。
+-クラブミュージック系の楽曲が収録される。
+-4月29日と30日に開かれる超ボーマス34にて初頒布。
+-のちに通販やDL販売などを開始する予定。
+
+**曲目
++From Me To The World
++[[Shelter]]
++[[It doesn't matter anyway]]
++[[Skip99]]
++Please don't go anywhere
++[[Self-awareness]]
++[[E-Breathe]]
++Bye Sirius
++[[D.H.M.S.≠‰]]
++Midnight playground
++[[Cressida]]
++Last Fireworks
++Loow
++[[Only1]]
++Call My Name
+
+**リンク
+-[[Twitter>>http://twitter.com/23_twt]]
+
+**コメント
+#comment()

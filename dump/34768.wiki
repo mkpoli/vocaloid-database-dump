@@ -1,0 +1,37 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1911_20160607215521_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[KLEP002 WageSlave]]|CENTER:&bold(){Relapse}|CENTER:-|
+
+|&bold(){[[Rin（ぎん）]]}|
+
+発売：2016年6月29日
+価格：￥1,200
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：TAKRIDER
+
+**CD紹介
+-Rin（ぎん）氏の配信EP。
+-Ocelot名義の4thEP。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++[[Not Alive]] （feat. 初音ミク）
++[[Words>Words/Rin（ぎん）]] （feat. 初音ミク）
++[[Night Vision]] （feat. 初音ミク）
++[[AKATSUKI]] （feat. 初音ミク）
++[[Era]] （feat. 初音ミク）
++[[HOMURA]] （feat. 初音ミク）
++[[Internet Gang]] （feat. 初音ミク）
++[[Spring Equinox]] （feat. 初音ミク）
++[[Echo>Echo/Rin（ぎん）]] （feat. 鏡音リン）
+
+**リンク
+-[[KARENT：「Relapse」>>http://karent.jp/album/1911]]
+-[[iTunes Store>>http://itunes.apple.com/jp/album/relapse/id1123547148]]
+-[[作者サイト>>http://kuronekolounge.com/]]
+
+**コメント
+#comment()

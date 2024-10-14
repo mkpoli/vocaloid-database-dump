@@ -1,0 +1,16 @@
+#right(){【登録タグ:&tags()】}
+//↑タグ忘れ防止のための表示
+曖昧さ回避のためのページ
+----
+-[[uzP]]の曲
+--[[Blackout]]
+-[[星奏P]]の曲
+--[[BLACK OUT/星奏P]]
+-[[梅とら]]の曲
+--[[Black Out/梅とら]]
+-[[*Luna]]の曲
+--[[Black Out/*Luna]]
+-[[Azari]]の曲
+--[[Black Out/Azari]]
+
+#include(曖昧さ回避の追加の仕方/告知)

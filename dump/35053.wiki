@@ -1,0 +1,38 @@
+#right(){&furigana(しあわせにとどくまで)&furigana()【登録タグ:&tags() 】}
+
+&ref(https://booth.pximg.net/85b189a0-6d62-4d0c-bee5-7f8a3dfec750/i/272890/fa743665-f90b-40f8-a49f-eee704ded375_base_resized.jpg,x=300,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm28621026)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[そしていつかはサヨナラを]]|CENTER:&bold(){幸せに届くまで}|CENTER:-|
+
+|&bold(){[[ゆら]]}|
+
+|流通|CENTER:即売|CENTER:配信|
+|発売|CENTER:2015年4月26日||
+|価格|CENTER:￥1,000|CENTER:￥500|
+|サークル|>|CENTER:当店では取り扱っておりません。|
+
+**CD紹介
+-ゆら氏の3rdアルバム。
+-アートワーク：まめ
+-THE VOC@LOiD 超 M@STER 34（超ボーマス34）で頒布。
+-BOOTHでダウンロード販売が行われている。
+
+**曲目
++morning glow
++てのひら
++sing to you
++sympathy
++[[花と落涙]]
++silent siren
++ジレンマ
+
+**リンク
+-[[twitter>>http://twitter.com/hamel1n]]
+-[[tumblr>>http://yurariyureru.tumblr.com/]]
+-[[BOOTH>>http://booth.pm/ja/items/272890]]
+
+**コメント
+#comment()

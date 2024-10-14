@@ -1,0 +1,32 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm28715666)
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){n.}|CENTER:-|
+
+|[[なぎさ]]|[[こんにちは谷田さん]]|[[Eight]]|
+
+|流通|CENTER:即売|CENTER:通販|
+|発売|CENTER:2016年4月30日||
+|価格|>|CENTER:￥700|
+|サークル|>|CENTER:ホラー&カトラリー新潟|
+
+**CD紹介
+-「なぎさ」「こんにちは谷田さん」「Eight」の三名によるクリエイティブサークル「ホラー&カトラリー新潟」が送るスプリットアルバム。
+-オリジナル曲だけでなく、互いのカバー曲も盛り込んだ全5曲。
+-Artwork：ひらり
+-THE VOC@LOiD 超 M@STER 34（超ボーマス34）にて頒布。
+-BOOTHで通販が行われている。 
+
+**曲目
++[[furete]] / なぎさ
++[[とても素敵な六月でした]] / こんにちは谷田さん（オリジナル：Eight）
++いのちは彼の食卓の上で / こんにちは谷田さん
++[[迷いヒツジと孤独な散歩者の夢想]] / なぎさ（オリジナル：こんにちは谷田さん）
++スロウスーサイド / Eight
+
+**リンク
+-[[特設サイト>>http://n-newlagoon.tumblr.com/]]
+-[[BOOTH>>https://booth.pm/ja/items/243046]]
+
+**コメント
+#comment()

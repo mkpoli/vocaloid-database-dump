@@ -1,0 +1,65 @@
+#right(){&furigana(Falling)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm28443617)|&youtube(https://www.youtube.com/watch?v=e3xMeY947pM){342,187}|
+作詞：[[MINO-U]]
+作曲：[[MINO-U]]
+編曲：[[MINO-U]]
+イラスト：[[何色]]
+唄：[[MEIKO V3>MEIKO]]
+
+**曲紹介
+曲名：『&u(){Falling...}』
+-MINO-U氏のVOCALOIDオリジナル５作目。
+-今までと作風が違いヘヴィなロック調ですが、決してゴーストライターじゃないです。（作者コメより転載）
+
+**歌詞
+（動画より書き起こし）
+
+この身すべて　天に預け
+堕ちていくの　深くへ
+
+ここから出してよ　檻の中から
+叫んでいたのは　ダレノコエ
+今さらどうして　自由なんてもの
+求めるなんて　イミナイワ
+
+命の砂時計　残された　時間は無いわ
+運命のドアが今　開かれた
+
+この身　すべて　天に預け
+堕ちていくの　深くへ
+闇を　裂いて　見えた光
+過去も未来も　現在さえ
+置き去りにして　輪廻を断つ
+この悪夢が　終わりを
+告げるまで　抗うのよ
+Against my destiny
+
+till the end of nightmare
+
+これ以上　理想なんて　不必要
+曝け出したら　あたしと　さぁ
+Falling...
+
+till the end of nightmare
+
+この身　全て　天に預け
+堕ちていくの　深くへ
+闇を　裂いて　見えた光
+過去も未来も　現在さえ
+置き去りにして　輪廻を断つ
+この悪夢が　終わりを
+告げるまで　抗うのよ
+Against my destiny
+
+これ以上　理想なんて　不必要
+キミと　Falling...
+
+till the end of nightmare
+
+
+**コメント
+#comment()

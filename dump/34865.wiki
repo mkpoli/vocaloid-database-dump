@@ -1,0 +1,52 @@
+#right(){&furigana(つきのうた6)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+#ref(http://www.vocalomakets.com/yukari_CD/010/image/jacket.png,width=300,height=300)
+
+
+&nicovideo(http://www.nicovideo.jp/watch/sm29405968)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[月の詩 Ⅴ -ツキノウタ-]]|CENTER:&bold(){月の詩 Ⅵ -ツキノウタ-}|CENTER:[[月の詩 Ⅶ -ツキノウタ-]]|
+
+|&bold(){[[Bumpyうるし]]}|[[たかぴぃ]]|[[azuma]]|[[ちょむP]]|
+|[[喜兵衛]]|[[あわあわp]]|[[オワタP]]|[[YonoP]]|
+|[[キャプテンミライ]]|[[baker]]|[[にいとP]]|[[SLAVE.V-V-R]]|
+
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|>|CENTER:2016年8月14日|
+|価格|CENTER:￥1,000（税込）|CENTER:￥1,493（税抜）|
+|サークル|>|CENTER:マケッツ団|
+
+**CD紹介
+-VOCALOMAKETS メンバー企画による結月ゆかりの公式コンピレーションアルバムの第6弾！！
+-「月の詩」「月の調」「月の陰」シリーズを合わせると通算10枚目となる。
+-今回は、計12名のボカロPが参加している。
+-ジャケットイラストは hanamuke氏 が手掛ける。ロゴデザインは 渡辺浩彰氏 。
+-C90（コミックマーケット90）にてリリース。書店委託が行われる。
+
+**曲目
++靴を見る　/　キャプテンミライ
++カサガフエル　/　ekl（あわあわp）
++[[霊喰永夢]]　/　オワタP
++[[シーラカンス>シーラカンス/YonoP]]　/　Yono
++ハレバレ　/　Bumpyうるし（詞：sista）
++Pray to Play　/　ちょむP
++トマトの存在　/　たかぴぃ
++[[欲しいと言って]]　/　喜兵衛
++3/4拍子　/　SLAVE.V-V-R
++1828の軌跡　/　アカサコフ・セルゲイ
++為息　/　azuma
++やり直せるかな　/　baker（詞：むぅ）
+
+**リンク
+-[[特設ページ>>http://www.vocalomakets.com/yukari_CD/010/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/43/97/040030439778.html]]
+
+**コメント
+- SLAVE.V-V-Rだ  -- 名無しさん  (2016-08-08 20:19:50)
+- 買った！  -- 結月ゆかり好き  (2016-11-01 19:55:13)
+#comment

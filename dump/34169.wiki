@@ -1,0 +1,57 @@
+#right(){&furigana(くろわっさんしかご)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://ext.nicovideo.jp/thumb_mylist/44247420" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/44247420">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-2014年6月、「バスタブから世界へ」を投稿しボカロデビュー。
+-曲調はポップからロックと幅広い。
+-使用VOCALOIDは、初音ミク、GUMI、IA、歌愛ユキ、Rana。
+-ニコニコインディーズでも活動の場を広げている。
+
+**リンク
+-[[Croissant Chicago(個人HP)>>http://croissantchicago.com]]
+-[[Twitter>>http://twitter.com/Croissant4or5]]
+-[[Piapro>>http://piapro.jp/Croissant4or5]]
+-[[Youtube>>https://www.youtube.com/channel/UCdpq51sq0qbzjyVC671dZ5Q]]
+-[[ブロマガ>>http://ch.nicovideo.jp/Croissant4or5]]
+**曲
+#list_by_tag(クロワッサンシカゴ,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(クロワッサンシカゴCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm23733173)|&nicovideo(sm23775486)|
+|&nicovideo(sm23827597)|&nicovideo(sm23920882)|
+|&nicovideo(sm23982119)|&nicovideo(sm24047473)|
+|&nicovideo(sm24167638)|&nicovideo(sm24256651)|
+|&nicovideo(sm24357429)|&nicovideo(sm24370174)|
+|&nicovideo(sm24590699)|&nicovideo(sm24746098)|
+|&nicovideo(sm24999340)|&nicovideo(sm25161759)|
+|&nicovideo(sm25251964)|&nicovideo(sm25324592)|
+|&nicovideo(sm25367537)|&nicovideo(sm25448297)|
+|&nicovideo(sm25571869)|&nicovideo(sm25588362)|
+|&nicovideo(sm25679178)|&nicovideo(sm25764291)|
+|&nicovideo(sm25904073)|&nicovideo(sm26079623)|
+|&nicovideo(sm26197854)|&nicovideo(sm26439527)|
+|&nicovideo(sm26616984)|&nicovideo(sm26922715)|
+|&nicovideo(sm26963329)|&nicovideo(sm27018237)|
+|&nicovideo(sm27118000)|&nicovideo(sm27325747)|
+|&nicovideo(sm27754750)|&nicovideo(sm28009593)|
+|&nicovideo(sm28268242)|&nicovideo(sm28565930)|
+|&nicovideo(sm28801107)|&nicovideo(sm28987108)|
+|&nicovideo(sm29223560)|&nicovideo(sm29277933)|
+|&nicovideo(sm29532801)|&nicovideo(sm29759596)|
+|&nicovideo(sm30481625)|&nicovideo(sm30544515)|
+|&nicovideo(sm30976406)|&nicovideo(sm32559785)|
+|&nicovideo(sm33001334)|&nicovideo(sm33322816)|
+|&nicovideo(sm35000450)||
+
+**アルバム
+|&nicovideo(sm25838711)|&nicovideo(sm26692246)|
+|&nicovideo(sm27601036)|&nicovideo(sm28028691)|
+|&nicovideo(sm31382378)|&nicovideo(sm32260125)|
+
+**コメント
+- 一瞬で惹きこまれる曲をたくさん生み出されている作り手さんなんだろうな、と感じる方に久々に出会えた。クロワッサンシカゴさんの独特でとても素敵な世界観が大好きです。  -- Rimu  (2018-01-30 15:48:45)
+- 正直、クロシカさんはそんなに有名では無いと思うのですが、私はクロシカさん好きです！もっと伸びるべきだと思いますよ！毎回毎回絵がとてもキレイ。特に、『彼女』の物寂しい透き通った感じがとても好みです。才能のある方ではあると思うので、これからも頑張って欲しいと思います。  -- 想蘭音  (2018-02-26 21:29:23)
+#comment()

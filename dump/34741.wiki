@@ -1,0 +1,68 @@
+#right(){&furigana(DAHLIA)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(http://www.nicovideo.jp/watch/sm29201703)|&youtube(http://www.youtube.com/watch?v=56-HCNCOxUU){342,187}|
+作詞：[[吉里爽]]（[[Twitter>>https://twitter.com/sowyoshizato]]）
+作曲：[[カズキヒロ]]（[[Twitter>>https://twitter.com/haioi_mimirichi]]）
+編曲：[[田村信二]]（[[Twitter>>https://twitter.com/shinjitamura]]）
+調声：[[琴線計画]]（[[Twitter>>https://twitter.com/tweetstrings]]）
+イラスト：[[和田夏祈]]（[[Twitter>>https://twitter.com/wada262]]）
+動画：[[雨河雪>SetsU]]
+唄：[[初音ミク]]
+
+**曲紹介
+>光を見つけた少女の物語。
+>&bold(){ダリアは歌う、生きるために！}
+曲名：『&u(){DAHLIA}』(&u(){ダリア})
+-音楽制作集団・Seeds of Wish（[[Twitter>>http://twitter.com/Seeds_Of_Wish]]）の作品。
+
+**歌詞
+（動画より書き起こし）
+
+何もかもが　嘘に思える夜には
+誰かに逢いたい
+きれいごとだけじゃ生きていけないこと
+気づき始めてる
+
+ダリア！ダリア！
+いつの間にか　そう呼ばれていたけど
+あたしのことを　知らないなら
+この歌を聴いてほしいだけ
+
+風が吹いても　嵐が来てもいい
+ずっとここで歌ってる
+熱い赤ワイン　静脈に流して
+花びら燃やすよ　深紅の花はダリア
+
+誰かが言う　「探し続けることこそ」
+最後の真実
+痛みを抱いて　さまよい続けるなんて
+そんなの嫌だわ
+
+ダリア！ダリア！
+はかなくても　力強く咲いてる
+あたしのことを知らなくても
+この歌を聴いてほしいだけ
+
+移ろっていく　廃墟の街にさえ
+ときに光は射すよ
+白いレースの裾を　翻しながら
+運命変えるの　あたしの名前はダリア
+
+ダリア　ダリア
+はかなくても　力強く咲いてる
+あたしのことを知らなくても
+この歌を聴いてほしいだけ
+
+風が吹いても　嵐が来てもいい
+ずっとここで歌ってる
+熱い赤ワイン　静脈に流して
+花びら燃やすよ　深紅の花はダリア
+
+何もかもが　嘘に思える夜には
+誰かに逢いたい
+
+**コメント
+#comment()

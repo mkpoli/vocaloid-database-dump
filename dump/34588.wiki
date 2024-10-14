@@ -1,0 +1,29 @@
+#right(){&furigana(にがつのはっぴーえんど)&furigana()【登録タグ:&tags() 】}
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){二月のハッピーエンド}|CENTER:-|
+
+|&bold(){[[ちんまりP]]}|&bold(){[[綾葉（爽P）]]}|
+
+発売：2016年3月6日
+価格：￥500
+流通：即売
+サークル：fille
+
+**CD紹介
+-ちんまりPことrisou氏と綾葉（爽P）氏のスプリットアルバム。
+-既存曲はリファインを施し、新曲を含む計6曲収録。
+-VOCALOID PARADISE 関西 5（ボーパラ関西5）で頒布。
+
+**曲目
++[[願わくばハッピーエンドを]] / 綾葉
++[[どうか元気で、幸せで]] / risou
++泣き虫パレット / 綾葉
++[[遠い記憶、花束の赤]] feat.*染 / risou
++箱庭オーバードライブ / 綾葉
++[[二月の花嫁]] / risou
+
+**リンク
+-[[特設サイト>>http://happyend-in-february.tumblr.com/]]
+
+**コメント
+#comment()

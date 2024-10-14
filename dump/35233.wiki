@@ -1,0 +1,39 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+|&nicovideo(http://www.nicovideo.jp/watch/sm29728025)|&youtube(http://www.youtube.com/watch?v=kU_nFQBEHYE)|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Sad Dancer]]|CENTER:&bold(){Tying The Moon}|CENTER:[[sissy songs]]|
+
+|&bold(){[[ねじ式]]}|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|CENTER:2016年10月2日||
+|価格|CENTER:￥1,000|CENTER:￥1,620（税込）|
+|サークル|>|CENTER:ねじ式|
+
+**CD紹介
+-ねじ式氏の5thアルバム。
+-結月ゆかりオンリーのアルバムとなっている。
+-新曲を5曲に過去の代表作をゆかり歌唱で再調声＆リミックスされている。
+-ジャケットイラスト：ミズキヨ
+-VOCALOID PARADISE 11（ボーパラ11）にて頒布。
+-自家通販が行われている。
+
+**曲目
++[[ヌケガライド]]
++[[愚者の裁き]]
++[[みずいろな14歳>みずいろな十四歳]]
++[[ブラッディグラビティ>ブラッディ　グラビティ]]
++[[拝啓、Ｆが押さえられない僕へ>拝啓、Fが押さえられない僕へ]]
++[[勇者になれない僕ら]]
++ガラパゴスラバーズ
++背徳の月
++[[紫陽花の夜]]
+
+**リンク
+-[[作者サイト>>http://www.nejishiki.com/]]
+-[[Twitter>>http://twitter.com/nejishiki0221]]
+-[[自家通販>>http://nejishiki.thebase.in/items/4316655]]
+
+**コメント
+#comment()

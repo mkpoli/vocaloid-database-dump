@@ -1,0 +1,32 @@
+#right(){&furigana(まかろん)&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1906_20160518204119_0280_0280.jpg)
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[ATOLS/MIKU 2>ATOLS／MIKU 2]]|CENTER:&bold(){マカロン (ATOLS Remix)}|CENTER:[[リアリティーのダンス]]|
+
+|&bold(){[[ATOLS]]}|
+
+発売：2016年6月1日
+価格：￥150
+流通：配信
+レーベル：KARENT
+
+**CD紹介
+-「[[マカロン>マカロン/ATOLS]]」のリミックスを収録した配信シングル。
+-難病とたたかう子供たちのためのチャリティーイベント「マカロンデー」のために制作された。
+-KARENTレーベルよりダウンロード販売が行われている。「Hope Macaron 2016」特集で配信された作品の1つ。
+
+**曲目
++マカロン (ATOLS Remix) （feat. 初音ミク）
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm29067494)|&youtube(http://www.youtube.com/watch?v=Rxq_Nxyx29M)|
+
+**リンク
+-[[twitter>>http://twitter.com/ATOLSX]]
+-[[KARENT：「マカロン (ATOLS Remix)」>>http://karent.jp/album/1906]]
+-[[KARENT：「Hope Macaron 2016」特集ページ>>http://karent.jp/special/macaron16]]
+-[[iTunes Store>>http://itunes.apple.com/jp/album/macaron-atols-remix-single/id1116001700]]
+
+**コメント
+- まかろん！！！  -- 名無しさん  (2016-06-01 22:42:40)
+#comment()

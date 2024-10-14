@@ -1,0 +1,45 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/38096466" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/13487583">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-ボカロPとしてだけでなく、東方アレンジサークルQUINTETでも知られている。
+-使用するVOCALOIDは、初音ミク、GUMI、鏡音リン・レン。
+//最近はGUMIが中心。
+-最初はSolarisという名前で活動していたが、途中からVirgin Noizeに変えた。
+--結果、分かりづらくなったのか現在はSolaris（Virgin Noize）に統一されている。
+-初期はテクノポップやエレクトロな曲が多かったが、近年はロック色の強い曲を書いている。
+
+**リンク
+-[[Twitter>>http://twitter.com/solarisystem]]
+-[[ピアプロ>>http://piapro.jp/solarisystem]]
+-[[ブログ>>http://solaris-almagest.hatenablog.com/]]
+-[[YouTube>>http://www.youtube.com/channel/UCAhMITPXYwdFR0cnNV6hnjg]]
+-[[YouTube>>http://www.youtube.com/channel/UCvueEqkhC78YvO4bo8GYYxg]]
+
+**曲
+#list_by_tag(solaris,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(solarisCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm20529327)|&nicovideo(http://www.nicovideo.jp/watch/sm22071102)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm22934745)|&nicovideo(http://www.nicovideo.jp/watch/sm23252598)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm23352613)|&nicovideo(http://www.nicovideo.jp/watch/sm24243273)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm26829285)|&nicovideo(http://www.nicovideo.jp/watch/sm26985580)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm27479297)|&nicovideo(http://www.nicovideo.jp/watch/sm27961938)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm28495463)|&nicovideo(http://www.nicovideo.jp/watch/sm28726863)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm30019455)|&nicovideo(http://www.nicovideo.jp/watch/sm30071062)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm30116254)|&nicovideo(sm30156747)|
+|&nicovideo(sm30467627)|&nicovideo(sm30746050)|
+|&nicovideo(sm31198441)|&nicovideo(sm31282417)|
+|&nicovideo(sm31364962)|&nicovideo(sm32607135)|
+|&nicovideo(sm33190072)|&nicovideo(sm33627520)|
+
+**コメント
+- アポトーシス(ry最高！  -- 名無しさん  (2016-09-17 00:16:57)
+- 東京ジェノサイドで化けた感ある  -- 名無しさん  (2016-11-27 01:17:18)
+- 東京インフェルノすっごいかっこいい  -- 名無しさん  (2017-03-06 15:07:02)
+- この人の曲、全部好きです！  ケモノガハラが気に入ってます♡  -- 名無しさん  (2017-06-10 19:13:28)
+- ターヘルアナトミアすごい好きなのに記事がない…作ってほしいなぁ  -- 名無しさん  (2017-07-10 22:49:56)
+#comment()

@@ -1,0 +1,35 @@
+#right(){&furigana(EXORDIUMMIKULARUSCHORUS)&furigana()【登録タグ:&tags()】}
+|&nicovideo(sm28868560)|&youtube(https://www.youtube.com/watch?v=q3e0ScgOSao){342,187}|
+作詞：[[AVTechNO]]
+作曲：[[AVTechNO]]
+編曲：[[AVTechNO]]
+唄：[[初音ミク]]
+
+**曲紹介
+曲名：『&u(){EXORDIUM ~MIKULARUS CHORUS}』
+-20分の大作。
+-タイトルは「エクソルディウム・ミクラルス・コーラス」と読む。
+-楽曲は7シーン4部構成。
+-歌詞はラテン語と日本語のハイブリット歌詞とのこと。
+-一部が「[[MEDIUS LOCUS < EXORDIUM]]」として発表されている。
+-KARENTレーベルよりダウンロード販売が行われている。[[初音ミク9周年記念特集>>http://karent.jp/special/miku16]]で配信された作品の1つ。
+
+**音楽配信
+&ref(http://karent.jp/npdca/1939_20160804073021_0280_0280.jpg)
+
+|CENTER:前作|CENTER:今作|CENTER:次作|
+|CENTER:[[INCOHERENT>INCOHERENT/CD]]|CENTER:&bold(){EXORDIUM ~MIKULARUS CHORUS}|CENTER:[[Red Beryl Mafia]]|
+
+流通：配信
+発売：2016年8月22日
+価格：￥150
+レーベル：[[KARENT>>http://karent.jp/album/1939]]
+ジャケットイラスト：[[和音>>http://piapro.jp/dot37]]
+
+|&bold(){[[iTunes Storeで購入>>http://itunes.apple.com/jp/album/exordium-mikularus-chorus-ep/id1142111917]]}|
+
+***曲目
++EXORDIUM ~MIKULARUS CHORUS （feat. 初音ミク）
+
+**コメント
+#comment()

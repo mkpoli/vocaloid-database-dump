@@ -1,0 +1,112 @@
+#right(){&furigana(FunkbeatJunkbeat)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm28367510)|&youtube(https://www.youtube.com/watch?v=iYXnjDBCpV4){342,187}|
+作詞：[[nyanyannya]]
+作曲：[[nyanyannya]]
+編曲：[[nyanyannya]]
+絵：[[予感子]]
+動画：[[原]]
+唄：[[KAITO]]
+
+**曲紹介
+>&bold(){大☆遅☆刻！！}
+曲名：『&u(){Funk beat≠Junk beat}』
+-KAITOお誕生会2016の遅刻組。2月過ぎてますよー。
+-濱神肖像コンポーネント16.5
+-「[[ドクター＝ファンクビート]]」の姉妹曲。
+-日本語ライブラリで英語のラップに挑戦です。
+-エレクトロスウィング系の楽曲で、すぐにノリノリになれます。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**音楽配信
+&ref(http://karent.jp/npdca/1902_20160516160020_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[シスター＝セクトルージュ]]|CENTER:&bold(){Funk beat≠Junk beat}&br()[[ハイパーゴアムササビスティックディサピアリジーニャス]]&br()[[私男と俺女]]|CENTER:[[カドワナルカ＝サーガ]]|
+
+発売：2016年6月8日
+価格：￥300
+流通：配信
+レーベル：[[KARENT>>http://karent.jp/album/1902]]
+ジャケット：[[予感子>>http://piapro.jp/yokan]]
+
+|&bold(){[[iTunes Storeで購入する>>http://itunes.apple.com/jp/album/funk-beat-junk-beat-single/id1116563668]]}|
+ 
+***曲目
++Funk beat≠Junk beat （feat. KAITO）
++Funk beat≠Junk beat Off Vocal
+
+
+**歌詞
+（動画より転載）
+
+(Dr. Funk=Beat...)
+
+Lots of idiot souls line up,
+and say the same way
+"Please give me happiness right now"
+That hoary rickety cranky door rings ding-dong
+
+Hi, you wanted to see me now? (Yes, my doctor)
+To see me now?
+You wanted to see me now? (Yes, my doctor)
+To see me now?
+Do you want to see me now? (Yes, my doctor)
+To see me now?
+Do you miss me now?
+(Get on!)
+
+"Doctor! Swinging bite my leg"
+Why do you hurt? Sweetheart, it's your conscience!
+(Dr. Funk=Beat)
+NX! NX! NX! NX! (Get on!)
+Your fakes make shakes, wow it's too late,
+come on, will you rag that jiggy tune?
+(Dr. Funk=Beat)
+
+Hey! Faker as you say, if loads of people are
+in pain, in grain, in the insane world,
+haha... how can you sleep at night?
+
+Don't throw down a worn-out gage
+It's only raise a pressure gauge
+If you pour out fuels,
+should I throw in brand-new towel?
+
+Are you happy now? (Yes, my doctor)
+Happy now? (Yes, my doctor)
+Are you happy now? (Yes, my doctor)
+
+DAI.TEN.SAI. (Get on!)
+
+"Doctor! Swinging breaks my neck"
+How do you call? Medically, it's your soul!
+(Dr. Funk=Beat)
+NX! NX! NX! NX! (Get on!)
+Grave is your place, and you are slave
+Come on, will you rag that jiggy tune?
+(Dr. Funk=Beat)
+
+Get happy soon...
+
+R.I.P.
+
+//ここから下の文章は削除しないでください。使用する場合があります。
+//楽曲制作者あるいは関係者以外が公開した有名な関連動画、楽曲制作者あるいは関係者による公開であっても大幅なアレンジ/二次創作に分類される関連動画はこちらに置いてください。
+//**関連動画
+//|&nicovideo(ここにニコニコ動画のURLを貼り付け)|&youtube(ここにYouTubeのURLを貼り付け){342,187}|
+//
+**コメント
+- 追加おつ！  -- 名無しさん  (2016-04-17 09:50:49)
+//- これ歌えたら相当カッコイイだろうなあ  -- 名無しさん  (2016-04-22 18:15:42)
+- 素敵...！  -- 名無しさん  (2016-05-05 19:40:59)
+- そゆことか  -- 蒼空  (2016-07-02 20:43:35)
+- わざわざ他のDB使う辺り、やっぱ英語DBはラップに向いてなかったんだな。  -- 名無しさん  (2017-10-31 08:09:00)
+- 英語難しい  -- 青いオタク  (2024-08-30 13:12:02)
+#comment()
+
+//※編集できる方。不適切なコメントを排除する場合は、削除するのではなくコメントアウトでお願いします。
+#include(曲の追加の仕方/告知)

@@ -1,0 +1,27 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/42491125" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/42491125">【ニコニコ動画】VOCALOIDやUTAUで作ってみた曲</a></iframe>)
+
+**特徴
+-ボカロやUTAUなどで楽曲を発表している作り手。
+-「[[goddess>goddess/It is R]]」でボカロデビュー。
+
+**リンク
+-[[ブログ>>http://original-game.com]]
+-[[YouTube>>http://www.youtube.com/user/ItIsR]]
+-[[UTAU楽曲データベース>>http://www24.atwiki.jp/utauuuta/pages/3734.html]]
+
+**曲
+#list_by_tag(It is R,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(It is RCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm23046691)|&nicovideo(http://www.nicovideo.jp/watch/sm23058973)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm23158884)|&nicovideo(http://www.nicovideo.jp/watch/sm23519560)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm23665743)|&nicovideo(http://www.nicovideo.jp/watch/sm24265284)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm26210579)|&nicovideo(http://www.nicovideo.jp/watch/sm26232149)|
+|&nicovideo(http://www.nicovideo.jp/watch/sm29629507)|&nicovideo(sm30876024)|
+
+**コメント
+#comment()

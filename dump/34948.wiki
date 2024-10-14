@@ -1,0 +1,10 @@
+#right(){【登録タグ:&tags()】}
+//↑タグ忘れ防止のための表示
+曖昧さ回避のためのページ
+----
+-[[samfree]]の曲
+--[[Euthanasia/samfree]]
+-[[regulus]]の曲
+--[[Euthanasia/regulus]]
+
+#include(曖昧さ回避の追加の仕方/告知)

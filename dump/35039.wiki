@@ -1,0 +1,29 @@
+#right(){&furigana(さんきゅー)&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1934_20160720000114_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[LEO ～ twins 2nd anniversary ～]]|CENTER:&bold(){サンキュー}|CENTER:[[二つの夜空]]|
+
+|&bold(){[[harunacute]]}|Lunaria|
+
+発売：2016年8月22日
+価格：￥150
+流通：配信
+レーベル：KarenT
+ジャケットイラスト：[[Lunaria>>http://piapro.jp/lunaria1067]]
+
+**CD紹介
+>そして10年後20年後、僕だけがしわくちゃになっても
+-harunacute氏の配信シングル。
+-KARENTレーベルよりダウンロード販売が行われている。初音ミク9周年記念企画で配信された作品の1つ。
+
+**曲目
++サンキュー （feat. 初音ミク）
+
+**リンク
+-[[KARENT：「サンキュー」>>http://karent.jp/album/1934]]
+-[[KARENT：「初音ミク 9th Anniversary」特集ページ>>http://karent.jp/special/miku16]]
+-[[iTunes Store>>http://itunes.apple.com/jp/album/thank-you-single/id1139662277]]
+
+**コメント
+#comment()

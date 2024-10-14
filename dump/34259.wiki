@@ -1,0 +1,42 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+
+&ref(https://booth.pximg.net/7b6d8978-99e4-435e-89bf-5dd53562aafe/i/58510/6c1c70c7-47e8-4bb4-9592-52a38a30a0d9_base_resized.jpg,x=300,y=300)
+
+|&nicovideo(http://www.nicovideo.jp/watch/sm24666647)|&youtube(http://www.youtube.com/watch?v=9inCtKu0hqE)|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[えほんのせかい]]|CENTER:&bold(){えほんのせかい2}|CENTER:[[Espresso>Espresso/CD]]|
+
+|&bold(){[[ムシP]]}|
+
+|流通|CENTER:即売|CENTER:配信|CENTER:通販|
+|発売|>|>|CENTER:2014年10月26日|
+|価格|CENTER:￥1,000|CENTER:￥1,200|CENTER:￥1,500|
+|サークル|>|>|CENTER:ムシの巣|
+
+**CD紹介
+-2014年秋のM3で頒布されたムシPの2ndアルバム。
+-アートワークは一二三氏が手掛けている。
+-BOOTHでダウンロード販売、パッケージ版の通販も行われている。
+
+**曲目
++[[これがわたしのゆめ]]
++[[Sci-fi]]
++星と苦しいと生きること
++Traumerei
++[[お天気少年]]
++桜
++[[おかしくなあれ]]
++[[boisterous grave]]
++[[狂気のペットショップ]]
++パフェの街
++RECIPE
++灯台
++死んじゃった君を愛してる
+
+**リンク
+-[[Official site>>http://muship.jimdo.com/discography/03-えほんのせかい2-2nd/]]
+-[[BOOTH>>http://muship.booth.pm/items/58510]]
+
+**コメント
+#comment()

@@ -1,0 +1,42 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://img.toranoana.jp/popup_img/04/0030/42/32/040030423259-1p.jpg)
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[テンカラット / Nature>テンカラット／Nature]]|CENTER:&bold(){Play with Airplane}|CENTER:-|
+
+|&bold(){[[クリスタルP]]}|[[キッドP]]|[[残鏡P]]|bestgt|
+
+|流通|CENTER:即売|CENTER:同人|CENTER:配信|
+|発売|CENTER:2016年6月12日||CENTER:2017年2月17日|
+|価格|CENTER:￥1,000|CENTER:￥1,382（税別）|CENTER:￥1,200|
+|サークル|CENTER:クリキッド|CENTER:zeghed Label (S-hybrid)||
+
+**CD紹介
+-クリスタルPのCDアルバム。
+-ジャケットイラスト：とろ
+-VOCALOID PARADISE 番外編5 KAITO PARADISE 4（ボーパラ番外編5カイパラ4）で初頒布。
+-とらのあなで委託販売が行われている。
+-KARENTレーベルよりダウンロード販売が行われている。KAITO11周年記念企画で配信された作品の1つ。
+
+**曲目
++Intro ～PA in Progress～
++on Boarding
++[[テンカラット]] [Len mix Ver.]
++tell a lie '16
++before you'll go to sleep
++[[贄の風采]]
++Fly me to the magical sky ～a cappella～
++ガラム de マサラ [album edited]
++水の往き者 ～b-Mermaid II～
++[[カスル・エル・サファ]] ～kaito Ver.～
++ちいさな、ちいさな、この部屋で ～kaito Ver.～
+
+**リンク
+-[[twitter>>http://twitter.com/HzEdge_crystalP]]
+-[[作者ブログ>>http://blog.k-kei.versus.jp/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/42/32/040030423259.html]]
+-[[KARENT：「Play with Airplane」>>http://karent.jp/album/2004]]
+-[[KARENT：「KAITO 11th Anniversary」特集ページ>>http://karent.jp/special/kaito17]]
+-[[iTunes Store>>http://itunes.apple.com/jp/album/play-with-airplane/id1202788027?app=itunes]]
+
+**コメント
+#comment()

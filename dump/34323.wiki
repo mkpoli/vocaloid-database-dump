@@ -1,0 +1,43 @@
+#right(){&furigana(ふぁんたしーすくーるらいふ)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+
+&ref(https://base-ec2.akamaized.net/images/item/origin/a87cb1afbe613143d6cff2e155964820.jpg,x=300,y=300)
+
+&nicovideo(sm26017623)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[わんわんテール EP]]|CENTER:&bold(){ファンタジースクールライフ}|CENTER:[[リリィクラウン>リリィクラウン/CD]]|
+
+|&bold(){[[yui]]}|
+
+|流通|CENTER:即売|CENTER:通販|
+|発売|CENTER:2015年4月25日||
+|価格|>|CENTER:￥1,000|
+|サークル|CENTER:ワニは席を外しております。|CENTER:yui|
+
+**CD紹介
+CD名：『&u(){ファンタジースクールライフ}』
+-yui氏の3rdアルバム。
+-アートワークは しめのソラ氏 が手掛ける。
+-THE VOC@LOiD 超 M@STER 31（超ボーマス31）やM3-2015春で頒布。
+-通販が行われている。
+
+**曲目
++ファンタジースクールライフ / GUMI
++[[雨いろこころもよう]] / GUMI
++[[茉莉歌]] / 初音ミク
++街の灯が消える頃 / 初音ミク
++[[リバイバル>リバイバル/yui]] / 鏡音リン
++わふわふわ / 初音ミク
++メモリーフォール / 初音ミク（ピアノアレンジ：さなだ）
+
+**リンク
+//-[[特設サイト>>http://yuirockxxx.tumblr.com/]]
+-[[通販サイト>>https://yuirock.thebase.in/]]
+-[[Twitter>>https://twitter.com/yui_wani]]
+
+**コメント
+#comment()

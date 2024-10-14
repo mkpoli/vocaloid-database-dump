@@ -1,0 +1,49 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#amazon(B01K4EVD4S)
+
+|&nicovideo(http://www.nicovideo.jp/watch/sm29373202)|&youtube(http://www.youtube.com/watch?v=XVIsijUM_NE){342,187}|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[TEYAKI]]|CENTER:&bold(){Post-Traumatic Stress Disorder}|CENTER:[[GALAPAGOS>GALAPAGOS/鬱PCD]]|
+
+|&bold(){[[鬱P]]}|
+
+|流通|CENTER:配信|CENTER:即売|CENTER:委託|
+|発売|CENTER:2016年8月10日|CENTER:2016年8月14日|CENTER:2016年9月7日|
+|価格|CENTER:￥1,500 / 1曲￥150|CENTER:￥1,000|CENTER:￥1,620（税込）|
+|サークル||CENTER:MY SONG IS SHIT||
+
+**CD紹介
+-鬱Pの約2年ぶりとなるVOCALOIDアルバム。
+-2010年11月リリースの2ndアルバム『[[TRAUMATIC>TRAUMATIC/CD]]』を今の音、今のテクニックで全曲再録。全15曲収録。
+-ジャケットイラスト、デザインは 飯時氏 が担当。
+-コミックマーケット（C90）にて頒布。Amazon、タワーレコード、アニメイト、とらのあなにて委託販売。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++Constipation Of Death
++子供の世界
++[[オトナのオモチャ]]
++[[THE DYING MESSAGE]]
++公衆便所のスミ
++[[TRAUMATIC]]
++猿は知らない
++ブラック・ショータイム
++[[potato-head in wonderland]]
++[[生霊]]
++[[害虫]]
++[[スリープウォーク]]
++ドール
++[[般若心経ハードコア>般若心経ポップ]]
++[[-Bonus Track->恐怖！スピーカー人間]]
+
+**リンク
+-[[特設サイト>>http://assholewii.tumblr.com/]]
+-[[KARENT：「Post-Traumatic Stress Disorder」>>http://karent.jp/album/1936]]
+-[[iTunes Store>>https://itunes.apple.com/jp/album/post-traumatic-stress-disorder/id1140049909]]
+-[[Amazon>>http://www.amazon.co.jp/dp/B01K4EVD4S]]
+
+**コメント
+- 何これ？昔の？  -- 名無しさん  (2016-08-22 21:54:18)
+- 概要見れば分かるだろ  -- 名無しさん  (2016-08-23 15:53:53)
+#comment()

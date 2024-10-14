@@ -1,0 +1,37 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+//#image(https://www.umaa.net/files/2016/09/f57d8c9b9d1304.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Conti New]]|CENTER:&bold(){DECO*27 ONE TIME SELECTION}|CENTER:[[GHOST>GHOST/CD]]|
+
+|&bold(){[[DECO*27]]}|[[kous]]|[[鬱P]]|
+
+流通：レンタル専用
+レンタル開始日：2016年9月14日
+レーベル：U/M/A/A Inc.
+
+**CD紹介
+-DECO*27の過去作品の中からハードでラウドな楽曲をコンパイル。
+-ボカロ界の“デスボイスマスター”こと鬱Pによる、「ゴーストルール」、「妄想税」のエクスクルーシヴ・リミックスも収録。
+-アルバム『GHOST』から「クイズRPG 魔法使いと黒猫のウィズ」×「初音ミク」コラボのために書き下ろされた「Find The Light」の未公開フルバージョンを先行収録。
+
+**曲目
++[[心壊サミット]] feat.初音ミク
++[[二息歩行]] feat.初音ミク
++[[罪と罰>罪と罰/DECO*27]] feat.初音ミク
++[[愛迷エレジー>愛迷エレジー/DECO*27]] feat.初音ミク
++[[妄想税]] feat.初音ミク
++[[音偽バナシ]] feat.初音ミク
++[[ストリーミングハート]] feat.初音ミク
++[[Find The Light]] feat.初音ミク（＊5thアルバム『[[GHOST>GHOST/CD]]』より先行収録）
++妄想税 feat.初音ミク-Battamon remix- remixed by鬱P （＊エクスクルーシブ収録）
++[[ゴーストルール]] feat.初音ミク-Battamon remix- remixed by鬱P （＊エクスクルーシブ収録）
+
+**リンク
+-[[U/M/A/A Inc.>>http://www.umaa.net/news/p894.html]]
+
+**コメント
+- おおッ！追加乙。  -- 名無しさん  (2016-09-28 23:09:23)
+- 知らなかった！  -- 名無しさん  (2016-09-29 23:07:49)
+- まさかの鬱P  -- 名無しさん  (2016-10-05 23:05:59)
+#comment()

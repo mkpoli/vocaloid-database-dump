@@ -1,0 +1,34 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm28696503)
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[ハンペン甲子園 ～月と太陽の双奏詩～]]|CENTER:&bold(){Sweetopia II}&br()[[ハンペン甲子園外伝 - 怒濤海溝オデンガー]]|CENTER:-|
+
+|&bold(){[[ほのづき]]}|
+
+発売：2016年4月30日
+価格：￥800
+流通：即売
+サークル：ハンペン甲子園
+
+**CD紹介
+-ほのづき氏のCDアルバム。
+-初音ミクAppend Sweetのみを使用している。
+-本作は[[Sweetopia]]の続編ですが、単品でも楽しめます。
+-絵・デザイン：Fuyu.O
+-THE VOC@LOiD 超 M@STER 34（超ボーマス34）で頒布。
+
+**曲目
++双対のSweetpia - introduction -
++popo
++[[こうして僕、幸せが生まれた]]（chiptune ver.）
++[[2089年]]
++しあわせアルゴー計画
++mortal garden
++[[へんしんできないキミとボクのために]]
++遠影の碧沙
+
+**リンク
+-[[twitter>>http://twitter.com/honoduki]]
+
+**コメント
+#comment()

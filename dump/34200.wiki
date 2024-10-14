@@ -1,0 +1,39 @@
+#right(){&furigana(てんからっと)&furigana()【登録タグ:&tags() 】}
+//|&ref(http://img-cdn.jg.jugem.jp/94f/2522661/20160228_4187858.jpg,x=300,y=300)|&ref(http://img-cdn.jg.jugem.jp/94f/2522661/20160228_4187859.jpg,x=300,y=300)|
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186146928.jpg,x=300,y=300)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[カスル・エル・サファ>カスル・エル・サファ/CD]]（クリキッド）&br()[[テンカラット]]（クリスタルP）&br()[[Nature]]（キッドP）|CENTER:&bold(){テンカラット / Nature}|CENTER:-（クリキッド）&br()[[Play with Airplane]]（クリスタルP）&br()[[灰雪-2016-]]（キッドP）|
+
+|&bold(){[[クリスタルP]]}|&bold(){[[キッドP]]}|[[残鏡P]]|[[パプリカP]]|
+
+発売：2016年3月6日
+価格：￥1,000
+流通：即売
+サークル：3レン腐
+
+**CD紹介
+-クリスタルPとキッドPのユニット「クリキッド」の両A面シングル。
+-ジャケットイラストは壱村氏（テンカラット）、秋吉氏＆由杞氏（Nature）。
+-VOCALOID PARADISE 関西5（ボーパラ関西5）で初頒布。
+
+**曲目
++[[テンカラット]]
++-作詞・作編曲・調声：クリスタルP
++Nature
++-作詞・調声：パプリカP、作曲：キッド、編曲：クリスタルP
++[[カスル・エル・サファ]] ～2016 KAITO Ver.～
++-作詞：残鏡P、作曲：キッド、編曲：クリスタルP、調声：クリキッド
++テンカラット ～KARENT Ver.～
++テンカラット ～インスト～
++Nature ～インスト～
++カスル・エル・サファ ～インスト～
+
+**リンク
+-[[クリキッドサイト>>http://k-kei.versus.jp/ck/]]
+-[[キッドPブログ>>http://yaplog.jp/kidsworks/]]
+-[[クリスタルPブログ>>http://blog.k-kei.versus.jp/]]
+
+**コメント
+#comment()

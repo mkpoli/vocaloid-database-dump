@@ -1,0 +1,41 @@
+#right(){&furigana(ゆかりすとvol.1)&furigana()【登録タグ:&tags() 】}
+#image(http://livedoor.blogimg.jp/yuu_p_0808-vol.1/imgs/1/0/10b13b67.png,width=300,height=300)
+&nicovideo(http://www.nicovideo.jp/watch/sm28264300)
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){ゆかりスト!! -Vol.1-}|CENTER:-|
+
+|[[meganee]]|[[ギャル子P]]|[[屍P]]|[[KAI>赤兎かい]]|[[みぜらP]]|
+|[[はてぃ～]]|[[たぴすけ]]|[[成田じゃる]]|[[ふぁむ]]|[[外道さん]]|
+|[[優雨P]]|[[大木ダイヅ]]|[[カーストP]]|>|>|
+
+
+発売：2016年2月28日
+価格：￥500
+流通：即売
+サークル：ゆかりスト!!制作委員会
+
+**CD紹介
+-結月ゆかりをフィーチャーしたコンピレーション企画CD。
+-ジャケットデザインは榛名千春が手がけている。
+-結月ゆかりオンリー同人誌即売会「この声届け、月までも　弐」（声月弐）にて頒布された。
+
+**曲目
++Bin@ry the World　/　meganee/ドットjp
++Axion of Voice　/　ギャル子P
++Noise　/　屍P
++ゆかりさんゆかりさん　/　KAI
++シベリア　/　みぜらP
++deadline　/　はてぃ～
++君が夢見た世界へ　/　たぴすけ
++ハッピーエンドな、映画みたいに。　/　成田じゃる
++じぇりーふぃっしゅ　/　ふぁむ
++夕焼け　/　外道さん
++Blue Bright Blue　/　優雨P
++頭にお花の咲いた少女　/　大木ダイヅ
++ゆかニンジャのうた　/　左通＝カーストP
+
+**リンク
+-[[特設ページ>>http://blog.livedoor.jp/yuu_p_0808-vol.1/]]
+
+**コメント
+#comment()

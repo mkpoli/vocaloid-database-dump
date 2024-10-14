@@ -1,0 +1,13 @@
+#right(){【登録タグ:&tags()】}
+//↑タグ忘れ防止のための表示
+曖昧さ回避のためのページ
+----
+-[[shu-tP]]の曲
+--[[GODDESS/shu-tP]]
+-[[It is R]]の曲
+--[[goddess/It is R]]
+
+-[[shu-tP]]のCD
+--[[GODDESS/CD]]
+
+#include(曖昧さ回避の追加の仕方/告知)

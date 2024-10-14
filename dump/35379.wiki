@@ -1,0 +1,32 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#ref(http://karent.jp/npdca/1963_20161017150735_0280_0280.jpg)
+
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[CARDINAL RED]]|CENTER:&bold(){Keep Existing}|CENTER:[[VOX 2017]]|
+
+|&bold(){[[shu-tP]]}|kaya|
+
+発売：2016年11月4日
+価格：￥600
+流通：配信
+レーベル：KARENT
+
+**CD紹介
+-shu-tPの配信アルバム。
+-KARENTレーベルよりダウンロード販売が行われている。KARENTのMEIKO12周年記念企画で配信された作品の1つ。
+
+**曲目
++[[Keep Existing]] （feat. MEIKO）
++[[カレイドスコープ>カレイドスコープ/shu-tP]] （feat. MEIKO）
++[[ラヴドライブ]] （feat. MEIKO）
++[[Trace]] 2016 （feat. MEIKO）
++[[Time with you]] 2016 （feat. MEIKO）
+
+**リンク
+-[[KARENT：「Keep Existing」>>http://karent.jp/album/1963]]
+-[[KARENT：「MEIKO 12th Anniversary」特集ページ>>http://karent.jp/special/meiko16]]
+-[[iTunes Store>>http://itunes.apple.com/jp/album/keep-existing-ep/id1171020224]]
+
+**コメント
+#comment()

@@ -1,0 +1,43 @@
+#right(){&furigana(とおる)&furigana()【登録タグ:&tags() 】}
+|&nicovideo_mylist(<iframe width="312" height="176" src="https://ext.nicovideo.jp/thumb_mylist/38702741" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/38702741">【ニコニコ動画】</a></iframe>)|
+
+**特徴
+-2013年9月、「[[ロンリープラネット]]」でデビュー。
+-ポップ、フュージョン、アンビエント、エレクトロニカ、ハウス、R&Bなど様々なジャンルを取り入れ、お洒落な曲調の楽曲を発表している作り手。
+-作詞は椿 氏をはじめ、他の作詞家が手掛けている。([[りろんかんかく]]では自身で作詞をしている。)
+-代表作は「[[回らないトゥシューズ]]」。
+-使用VOCALOIDは今のところ初音ミクのみである。
+
+**リンク
+-[[Twitter>>http://twitter.com/taks34]]
+-[[YouTube>>https://www.youtube.com/channel/UCfekwzh6e4RM8M0jiNFFfIA]]
+
+**曲
+#list_by_tag(透,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(透CD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm21852138)|&nicovideo(sm21881926)|
+|&nicovideo(sm21916242)|&nicovideo(sm21958956)|
+|&nicovideo(sm22327752)|&nicovideo(sm22372847)|
+|&nicovideo(sm22390826)|&nicovideo(sm22860710)|
+|&nicovideo(sm22956303)|&nicovideo(sm23062160)|
+|&nicovideo(sm23144958)|&nicovideo(sm23157672)|
+|&nicovideo(sm23185336)|&nicovideo(sm23218921)|
+|&nicovideo(sm23263709)|&nicovideo(sm23315758)|
+|&nicovideo(sm23415808)|&nicovideo(sm23467191)|
+|&nicovideo(sm23492807)|&nicovideo(sm23780475)|
+|&nicovideo(sm23828616)|&nicovideo(sm23995810)|
+|&nicovideo(sm24037640)|&nicovideo(sm24195012)|
+|&nicovideo(sm24411747)|&nicovideo(sm24466374)|
+|&nicovideo(sm24509073)|&nicovideo(sm24532504)|
+|&nicovideo(sm24718165)|&nicovideo(sm24765396)|
+|&nicovideo(sm24816116)|&nicovideo(sm24868359)|
+|&nicovideo(sm24966992)|&nicovideo(sm24972007)|
+|&nicovideo(sm24983954)|&nicovideo(sm25020347)|
+|&nicovideo(sm25212231)|&nicovideo(sm25249558)|
+
+**コメント
+#comment()

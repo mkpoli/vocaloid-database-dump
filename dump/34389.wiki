@@ -1,0 +1,46 @@
+#right(){&furigana(SummerGratz)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://ext.nicovideo.jp/thumb_mylist/45522831" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/45522831">【ニコニコ動画】さまぐらの歌</a></iframe>)
+
+**特徴
+作り手名：『&u(){Summer Gratz}』
+-2015年1月、「[[モノクロカメレオン]]」でデビューした作り手。
+-作品はロックチューンからバラードまで幅広い。
+-他のボカロPの作品のミックス、編曲も精力的に行っている。
+-縮めて「さまぐら」と名乗ることも。
+-使用VOCALOIDは初音ミク、鏡音リン・レン、巡音ルカ。
+
+**リンク
+-[[Twitter>>https://twitter.com/SummerGratz]]
+-[[piapro>>https://piapro.jp/summer_gratz]]
+-[[ニコニコ>>https://www.nicovideo.jp/user/42544377]]
+-[[YouTube>>https://www.youtube.com/channel/UCDgVHh4XxYK3M2TN75-c-aQ]]
+
+**曲
+#list_by_tag(Summer Gratz,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(Summer GratzCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm25246139)|&nicovideo(sm25525759)|
+|&nicovideo(sm25587620)|&nicovideo(sm25789297)|
+|&nicovideo(sm25834919)|&nicovideo(sm26524553)|
+|&nicovideo(sm26682591)|&nicovideo(sm26948551)|
+|&nicovideo(sm27755687)|&nicovideo(sm28015114)|
+|&nicovideo(sm28258441)|&nicovideo(sm28403085)|
+|&nicovideo(sm28493559)|&nicovideo(sm28640816)|
+|&nicovideo(sm29069608)|&nicovideo(sm29294205)|
+|&nicovideo(sm29879871)|&nicovideo(sm30201243)|
+|&nicovideo(sm30420878)|&nicovideo(sm30555967)|
+|&nicovideo(sm30644842)|&nicovideo(sm31252447)|
+|&nicovideo(sm32242420)|&nicovideo(sm32663959)|
+|&nicovideo(sm33157520)|&nicovideo(sm33841308)|
+|&nicovideo(sm34826485)|&nicovideo(sm36318669)|
+|&nicovideo(sm36435973)|&nicovideo(sm37131989)|
+
+**コメント
+#comment()

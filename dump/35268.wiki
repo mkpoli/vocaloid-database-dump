@@ -1,0 +1,32 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/10274845" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/10274845">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-「[[heartful song]]」が処女作。中学の時の友人[[ホンダ マキカズ]]氏作詞の元、[[iinigo]]氏が作曲担当。
+-使用ボカロは、初音ミク、鏡音レン、鏡音リン、巡音ルカ、GUMI、VY1、猫村いろは。
+-本人曰く、自分は聴き手らしい。
+
+**リンク
+-[[ピアプロ>>http://piapro.jp/iinigo]]
+-[[Twitter>>http://twitter.com/ii2go]]
+
+**曲
+#list_by_tag(iinigo,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(iinigoCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|>|BGCOLOR(#000000):COLOR(#00ffc2):CENTER:&font(b,11pt){オリジナル曲}|
+|&nicovideo(http://www.nicovideo.jp/watch/nm3514035)|&nicovideo(sm6518746)|
+|&nicovideo(sm6778733)|&nicovideo(sm10189347)|
+|&nicovideo(sm17620171)|&nicovideo(sm13383399)|
+|&nicovideo(sm15028766)|&nicovideo(sm15747578)|
+|&nicovideo(sm16525416)|&nicovideo(sm17620171)|
+|&nicovideo(sm20201820)|&nicovideo(sm20388227)|
+|&nicovideo(sm23161105)|&nicovideo(sm24285363)|
+|&nicovideo(sm26331937)||
+
+
+**コメント
+#comment()

@@ -1,0 +1,29 @@
+#right(){&furigana(ゆーくn.)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/55378343" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/55378343">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-2016年3月30日に「[[さよなら、蒼ノ刻]]」でボカロデビューした。
+-ボカロPとしての名前は&b(){うみびとP}。
+-普段は歌い手として動画投稿をしている。
+//-2012年5月18日に【ゆーくn.】キリトリセン【歌ってみた】を投稿。初投稿である。
+//-2015年11月28日に【受験生が本気で】マトリョシカを歌いました＊ゆーくn.を投稿した。脅威の声変わりを見せつけた。
+//-O型。
+//-感情的な歌が好き。
+//
+//歌い手としての経歴など、特筆性がない限り書かないようにお願いします。
+
+**リンク
+-[[サイト>>http://yumibito.wix.com/yu-kun-house]]
+
+**曲
+#list_by_tag(ゆーくn.,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(ゆーくn.CD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm28532426)||
+
+**コメント
+//- こんなゴミ追加する必要ない  -- 名無しさん  (2016-04-08 21:49:36)
+#comment()

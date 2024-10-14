@@ -1,0 +1,37 @@
+#right(){&furigana(もはやあい)&furigana()【登録タグ:&tags() 】}
+&image(http://karent.jp/npdca/1969_20161107203610_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[ワン☆オポ！vol.10]]|CENTER:&bold(){もはや愛 EP}|CENTER:[[ワン☆オポ！vol.11]]|
+
+|&bold(){[[じーざすP]]}|&bold(){[[マイナスP]]}|
+
+|流通|CENTER:即売|CENTER:配信|
+|発売|CENTER:2016年9月10日|CENTER:2016年12月22日|
+|価格|CENTER:￥500|CENTER:￥300|
+|サークル|ワンダフル☆オポチュニティ！||
+
+**CD紹介
+-じーざすP、マイナスPによる同人サークル「Wonderful★Opportunity!（ワンダフル☆オポチュニティ！）」のEP。
+-じーざすP、マイナスPそれぞれの書き下ろし2曲と、『[[ワン★オポ！vol.03]]』収録の「frozen world」のリビルドver.を含む3曲入り。
+-本作はCDと、スマートフォン専用音楽カード「SONOCA」形態での頒布となる。
+-ジャケットの題字はじーざすPによるもの。
+-マジカルミライ2016内音楽即売イベント「KARENT Presents クリエイターズマーケット」で頒布。
+-KARENTレーベルよりダウンロード販売が行われている。鏡音リン・レン9周年記念企画で配信された作品の1つ。
+
+**曲目
++もはや愛 （ft. 鏡音リン、レン） / じーざす
++Mute Garden （ft. 鏡音リン） / マイナス
++frozen world-ver.LEN （ft. 鏡音レン） / マイナス
+
+**リンク
+-[[サークルサイト>>http://www.wan-opo.com/]]
+-[[twitter>>http://twitter.com/WAN_OPO]]
+-[[マジカルミライ2016 音楽即売イベント「KARENT Presents クリエイターズマーケット」SONOCA販売サークルのお知らせ>>http://sonoca.net/creators/market]]
+-[[KARENT：「もはや愛 EP」>>http://karent.jp/album/1969]]
+-[[KARENT：「鏡音リン・レン 9th Anniversary」特集ページ>>http://karent.jp/special/rinlen16]]
+-[[iTunes Store>>http://itunes.apple.com/jp/album/already-love-ep/id1183692588]]
+
+**コメント
+- おお欲しい。  -- 名無しさん  (2016-09-10 07:30:17)
+#comment()

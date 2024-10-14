@@ -1,0 +1,35 @@
+#right(){&furigana(らんのせかい)&furigana()【登録タグ:&tags() 】}
+
+&image(http://karent.jp/npdca/1938_20160801124900_0280_0280.jpg)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm29371865)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[黄昏の空]]|CENTER:&bold(){乱の世界}|CENTER:[[もう一度最初から]]|
+
+|&bold(){[[箸休/hashiyasume>箸休／hashiyasume]]}|
+
+発売：2016年8月17日
+価格：￥600 / 1曲￥150
+流通：配信
+レーベル：KARENT
+
+**CD紹介
+-箸休 の5年ぶりとなる2ndミニアルバム。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++冗談だよ （feat. 初音ミク＆巡音ルカ）
++同主調変換 （feat. 初音ミク＆巡音ルカ）
++[[愛しき邪悪]] （feat. 初音ミク）
++[[属調>ドミナントキー]] （feat. 初音ミク）
++アナタの求める私にはなれない （feat. 初音ミク）
++再生 （feat. 初音ミク）
+
+**リンク
+-[[作者Twitter>>http://twitter.com/Edgar_Lovecraft]]
+-[[KARENT：「乱の世界」>>http://karent.jp/album/1938]]
+-[[iTunes Store>>http://itunes.apple.com/jp/album/ran-no-sekai-ep/id1141250195]]
+
+**コメント
+#comment()

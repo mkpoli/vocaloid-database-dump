@@ -1,0 +1,40 @@
+#right(){&furigana(てつか)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://ext.nicovideo.jp/thumb_mylist/709949" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/709949">【ニコニコ動画】</a></iframe>)
+
+**特徴
+作り手名：『&u(){テヅカ}』
+-niconicoのアカウント名は、mizki(テヅカ)。
+-&bold(){手塚祐太} 名義でも活動中。
+-使用VOCALOIDは、鏡音リン・鏡音レン・flower。
+-VOCALOID処女作は「[[自殺系男子]]」。
+-3作目の「[[トオリヨ]]」で自身初の殿堂入りを達成した。
+
+**リンク
+-[[twitter>>https://twitter.com/aboutlogic]]
+-[[ブログ>>https://aboutlogic.seesaa.net/]]
+-[[PIAPRO>>https://piapro.jp/mami3612]]
+-[[YouTube>>https://www.youtube.com/channel/UCj4OwuAvBqIUPkJwhbUB1TA]]
+
+**曲
+#list_by_tag(テヅカ,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(テヅカCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|>|BGCOLOR(#ffd700):COLOR(#000000):CENTER:&font(b,11pt){オリジナル曲}|
+|&nicovideo(sm18138987)|&nicovideo(sm23933884)|
+|&nicovideo(sm26835374)|&nicovideo(sm27645461)|
+|&nicovideo(sm28270436)|&nicovideo(sm28505542)|
+|&nicovideo(sm29559884)|&nicovideo(sm31745119)|
+|&nicovideo(sm34383656)|>|
+
+**コメント
+- もしもし神様(テヅカ feat.鏡音リン・鏡音レン)を追加してほしいです!  -- YouTubeのアートトラック「エレクトロニックエモーションコレクション」  (2022-10-18 20:33:40)
+- ↑ 太鼓の達人書き下ろし曲です  -- https://youtu.be/peGLXmkeQFg  (2022-10-18 20:40:42)
+- ↑追加しました  -- 名無しさん  (2023-07-15 21:21:12)
+#comment()

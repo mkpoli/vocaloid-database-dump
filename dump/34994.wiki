@@ -1,0 +1,43 @@
+#right(){&furigana(はなをあむ)&furigana()【登録タグ:&tags()】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186139237.jpg,x=300,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm28688703)
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[添う、愛を。>添う、愛を。/CD]]|CENTER:&bold(){花を編む}|CENTER:-|
+
+|&bold(){[[やみくろ]]}|[[imosuke]]|[[ぼーかりおどP]]|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|CENTER:2016年4月29日||
+|価格|CENTER:￥1,000|CENTER:￥1,428（税込）|
+|サークル|CENTER:||
+
+**CD紹介
+-やみくろ氏の4thアルバム。
+-メインボーカルは巡音ルカ。
+-artwork：今朝春、mastering：[[add9（ヘリP）>ヘリP]]
+-THE VOC@LOiD 超 M@STER 34（超ボーマス34）で頒布。
+-アキバホビーで委託販売が行われている。
+
+**曲目
++花を編む
++2mmの光
++息をしてる。
++[[「好きな人が出来ました。」 ]]
++空ヲ鳴ラセ 
++鈍痛 
++(looks like)アッパーリミット 
++[[明日、花咲く庭で]]
++学校の亡霊
++[[アイオハート]]
++僕は僕だよ。
++デイジー
++さよならブーケ 
+
+**リンク
+-[[twitter>>http://twitter.com/yamichrome]]
+-[[アキバホビー>>http://ec.akbh.jp/products/detail.php?product_id=2100000064366]]
+
+**コメント
+#comment()

@@ -1,0 +1,55 @@
+#right(){&furigana()&furigana()【登録タグ:&tags()】}
+|&nicovideo(http://www.nicovideo.jp/watch/sm28312129)|&youtube(http://www.youtube.com/watch?v=EfMPBvHC8Ig)|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Number One]]|CENTER:&bold(){with you}|CENTER:[[us>us/CD]]|
+
+|&bold(){[[アンメルツP]]}|[[korumi]]|[[ヒダリガワすらっしゅ]]|[[みなるP]]|[[ここ狭いP]]|[[まなみん]]|
+
+||CENTER:即売|CENTER:同人|CENTER:配信|
+|発売|CENTER:2016年3月6日|CENTER:|CENTER:2018年7月18日|
+|価格|CENTER:￥1,000円|CENTER:￥1,000～1,300（税別）||
+|サークル|>|CENTER:G.C.M Records||
+
+**CD紹介
+>「あなたと共に、音楽を紡いでいきたい。」
+-アンメルツPの6thアルバム。
+-ジャケットイラスト：うたおり
+-鏡音リン・レンオンリーイベント「かがみねのお茶会」で初頒布。
+-とらのあな、アリスブックス、BOOTHで委託販売が行われている。
+-KARENTレーベルよりダウンロード販売が行われている。「-Web Edition-」と題され、一部の楽曲が未収録となっている。
+
+**曲目
+***CD版
++プロローグ ～アドベントチルドレン～　唄：鏡音リン・レン
++[[アリでキリギリス]] 唄：鏡音リン・レン, KAITO, MEIKO
++[[頼りになるぜ☆アルパーカー！]]　唄：鏡音リン・レン
++[[awake to survive]] -V4X Full Ver.-　唄：鏡音リン
++[[Battle the Channel]]　唄：鏡音リン・レン
++[[人形館解放作戦]]　唄：巡音ルカ
++[[Endless Nightmare>Endless Nightmare/アンメルツP]]　唄：巡音ルカ, GUMI, 鏡音リン・レン
++SMALL 1995 ROOMS　唄：鏡音リン・レン
++コバルトダイアリー -RL Ver.-　唄：鏡音リン・レン
++[[プレミアサポーター]]　唄：鏡音リン・レン
++[[泣き虫夢見人]]　唄：鏡音リン・レン
++エピローグ ～with you～　唄：鏡音リン・レン
+
+***Web Edition
++プロローグ ～アドベントチルドレン～ （feat. 鏡音リン＆鏡音レン）
++[[アリでキリギリス]] （feat. 鏡音リン＆鏡音レン＆MEIKO＆KAITO）
++[[頼りになるぜ☆アルパーカー！]] （feat. 鏡音リン＆鏡音レン）
++[[awake to survive]] -V4X Full Ver.- （feat. 鏡音リン）
++[[Battle the Channel]] （feat. 鏡音リン＆鏡音レン）
++[[Endless Nightmare>Endless Nightmare/アンメルツP]] （feat. 巡音ルカ＆メグッポイド＆鏡音リン＆鏡音レン）
++SMALL 1995 ROOMS （feat. 鏡音リン＆鏡音レン）
++[[プレミアサポーター]] （feat. 鏡音リン＆鏡音レン）
++[[泣き虫夢見人]] （feat. 鏡音リン＆鏡音レン）
++エピローグ ～with you～ （feat. 鏡音リン＆鏡音レン）
+
+**リンク
+-[[作者サイト>>http://www.gcmstyle.com/]]
+-[[CD特設ページ>>http://www.gcmstyle.com/withyou/]]
+-[[KARENT：「with you -Web Edition-」>>https://karent.jp/album/2242]]
+
+**コメント
+#comment()

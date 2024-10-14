@@ -1,0 +1,48 @@
+#right(){&furigana(Daina)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+**製品&image(https://cdn.shopify.com/s/files/1/1890/5447/products/Daina_1024x1024.png,height=260)
+***製品概要
+|製品名|DAINA|
+|発売|2015年11月|
+|価格|$69.99（ダウンロード販売）|
+|開発|Zero-G|
+|エンジン|VOCALOID4|
+|言語|英語ライブラリ|
+|性別|女性|
+|サンプリング元|[[AkiGlancy>EmpathP]]|
+|得意なジャンル|ポップ、ダンスミュージック、カントリーソング|
+|得意な音域|G2-E4|
+
+***製品紹介
+合成音声名：『&u(){Daina}』
+-イギリスのZero-G社より発売されたVOCALOID4対応の女性音源。
+-イギリス製ではあるが、アメリカ英語のアクセントに重点をおいて作成されているらしい。
+-声質はソウルフルでハスキー。（公式談）
+-サンプリング元であるAkiGlancy氏はニコ動上でユーザー名「[[EmpathP]]」で活動しているボカロP。
+--UTAU音源「涙」のサンプリング元でもある。
+-公式イラストはEmissarySteel氏によるもの。
+-当初は[[DEX]]と一緒に獣耳コンビでデザインされていたが、制作元に難色を示されたためヘッドホンにHOUNDというデザインに変更された。（[[Steel氏のtwitterより>>http://twitter.com/EmissarySteel/status/620632925537603584]]）
+--この影響か公式PVは獣耳モードになってたりする。
+
+**デモソング
+|DEX AND DAINAデモ&br()&youtube(http://www.youtube.com/watch?v=h1bJToHUnwM){300,200}|A Wicked Girl and a Tin Boy （[[DEX]]とDAINAのデュエット曲）&br()&youtube(http://www.youtube.com/watch?v=zm5sIy72jtQ){300,200}|
+|Part of Me&br()&youtube(http://www.youtube.com/watch?v=xiJ5AFfBinY){300,200}|Missing （半公式？）&br()&youtube(http://www.youtube.com/watch?v=AvGGrG093VQ){300,200}|
+-[[Pushing Daisies>>http://soundcloud.com/nostraightanswer/pushing-daisies-feat-daina-vocaloid-original-song]]
+
+**リンク
+-[[公式サイト>>http://www.zero-g.co.uk/store/vocaloid4-daina-p545.php]]
+-[[EmpathP氏のニコニコアカウント>>http://www.nicovideo.jp/user/17461966]]
+
+**関連タグ内の更新履歴
+※「Daina」タグ内で最近編集やコメントのあった記事を新しい方から10件表示しています。
+#list_by_tagsearch(Daina,sort=timestamp,sort2=desc,errmsg=まだ曲が登録されていません。,or,10)
+
+
+**コメント
+- おおおお可愛い！！  -- 名無しさん  (2016-08-30 12:36:27)
+- ケモミミかわいい♡  -- ばななあいす  (2017-01-04 17:13:39)
+- いままでたくさんのケモミミキャラ見ても本当にこっちの方が天使すぎ！はやくAmazonに販売してほしい。  -- 名無しさん  (2017-01-15 19:07:06)
+#comment()

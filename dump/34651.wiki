@@ -1,0 +1,10 @@
+#right(){【登録タグ:&tags()】}
+//↑タグ忘れ防止のための表示
+曖昧さ回避のためのページ
+----
+-[[ELEGUMI TOKYO]]の曲
+--[[Dreamy Girl/ELEGUMI TOKYO]]
+-[[優P]]の曲
+--[[Dreamy Girl/優P]]
+
+#include(曖昧さ回避の追加の仕方/告知)

@@ -1,0 +1,38 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+
+&nicovideo(sm28699487)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[monochrome e.p.]]|CENTER:&bold(){null}|CENTER:-|
+
+|&bold(){[[fos+]]}|
+
+発売：2016年04月29日
+価格：￥800（税込）
+流通：即売
+サークル：23.exe & fos+、fos+ & 23.exe
+
+**CD紹介
+-fos+氏の1stアルバム。
+-今まで発表された曲をまとめたような感じです。
+-前回のEPに収録された曲も新しくなって登場します。
+-4月29日、30日に開催される超ボーマス34にて初頒布。
+--[[23.exe>23]]との合同サークルである。
+
+**曲目
++null
++[[signal envelope]]
++[[step on the comet]]
++rgb
++[[monochrome]]
++[[crepuscule rays]]
++[[time goes on]]
++[[raindrops]]
++[[°○*◯º•. confetti .•°◯*○°]]
+
+**リンク
+-[[Twitter>>https://twitter.com/fosplus]]
+
+**コメント
+- これお勧めです。全曲安定。  -- takoruka2  (2016-05-08 21:13:24)
+#comment()

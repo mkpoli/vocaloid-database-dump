@@ -1,0 +1,50 @@
+#right(){&furigana()&furigana()【登録タグ:&tags()】}
+&nicovideo(http://www.nicovideo.jp/watch/sm22978540)
+作詞：[[regulus]]
+作曲：[[regulus]]
+編曲：[[regulus]]
+唄：&color(LightSeaGreen){初音ミク}・&color(grey){IA} ・&color(#d1d151){Lily}・&color(#ffa3ff){巡音ルカ}
+
+**曲紹介
+>負けたりしないから
+-今回はボカロ4人組ユニットで作ってみました！&br()ユニット名は…それぞれの頭文字を取って「MiLL」と言ったところでしょうか(笑)（動画説明文より）
+
+**歌詞
+（[[PIAPRO>>http://piapro.jp/t/HE8k]]より転載）
+今この声響かせ 歌うよ
+届けて All for You(全員)
+
+&color(LightSeaGreen){独りで泣いたの}　&color(grey){誰にも言えなくて}
+&color(#d1d151){歩んで来た道}　&color(#ffa3ff){いつしか遠すぎて}
+
+&color(LightSeaGreen){何もない誰}&color(grey){も見えない}
+&color(#d1d151){この道を}&color(#ffa3ff){往くと決めたの}
+
+ほら、もう顔上げなよ
+笑ってる顔が一番いい
+今この声響かせ 歌うよ
+届けて All for You
+
+&color(LightSeaGreen){辛くて泣いてた}　&color(grey){君なら笑ったの}
+&color(#d1d151){恐くて怯えた}　&color(#ffa3ff){それでも前を見て}
+
+&color(LightSeaGreen){叶わない夢}&color(grey){なんて無い}
+&color(#d1d151){もうとっくに}&color(#ffa3ff){気付いてたのに}
+
+逃げ出したい時でも諦めない
+負けたりしないから
+今この声響かせ 歌うよ
+届けて All for You
+
+&color(grey){君が忘れた言葉を呟く}
+&color(#d1d151){君が私に教えてくれたように}
+&color(#ffa3ff){何も失くさず生きて}&color(#d1d151){はいけない}
+&color(LightSeaGreen){それでも私は}&color(#d1d151){前だけ見て生きる}
+
+ほら、もう顔上げなよ
+笑ってる顔が一番いい
+今この声響かせ 歌うよ
+届けて All for You
+
+**コメント
+#comment()

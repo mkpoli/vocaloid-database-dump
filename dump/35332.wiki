@@ -1,0 +1,41 @@
+#right(){&furigana(すいさいとしゅくふく)&furigana()【登録タグ:&tags() 】}
+
+&ref(https://f4.bcbits.com/img/a3324050088_10.jpg,x=300,y=300)
+
+|&nicovideo(http://www.nicovideo.jp/watch/sm29616205)|&youtube(http://www.youtube.com/watch?v=yIrSm_GSxS0)|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[水彩に染められて]]&br()[[ミラージュディスク]]|CENTER:&bold(){水彩と祝福}|CENTER:[[MONOLITH]]|
+
+|&bold(){[[Misumi]]}|
+
+|流通|CENTER:即売|CENTER:通販|CENTER:配信|
+|発売|CENTER:2016年9月10日|CENTER:-||
+|価格|>|CENTER:￥1,000|CENTER:￥1,000|
+|サークル|>|CENTER:水彩屋||
+
+**CD紹介
+-Misumi 1stミニアルバム
+-2016年9月10日 マジカルミライ2016内クリエイターズマーケットにて頒布された。
+-アートワークもミスミ自身が手掛ける。
+-WAVRECORDS、BOOTHにて委託販売されている。BOOTHではダウンロード販売も行われている。
+-Bandcamp、iTunesなどでも配信中である。
+
+**曲目
++[[水彩に染められて]]
++[[バニラと白昼夢]]
++[[祝祭めぐり]]
++夕暮れかざぐるま
++[[アンリアルブルー]]
++[[絵のような風景]]
++彗星が流れたら
++坂道の上で
+
+**リンク
+-[[WAVRECORDS>>https://wavrecords.stores.jp/]]
+-[[BOOTH>>https://misumid.booth.pm/items/374295]]
+-[[Bandcamp>>https://misumi.bandcamp.com/album/-]]
+-[[iTunes>>https://music.apple.com/jp/album/%E6%B0%B4%E5%BD%A9%E3%81%A8%E7%A5%9D%E7%A6%8F-feat-hatsune-miku-ia/1168553788]]
+
+**コメント
+#comment()

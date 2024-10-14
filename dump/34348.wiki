@@ -1,0 +1,47 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#amazon(B01GQ6I3VY)
+|&nicovideo(http://www.nicovideo.jp/watch/sm28714417)|&youtube(http://www.youtube.com/watch?v=3lu7RVEls8s){342,187}|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[nostalgic diva]]|CENTER:&bold(){Sad Dancer}|CENTER:[[Tying The Moon]]|
+
+|&bold(){[[ねじ式]]}|琴-koto-|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|CENTER:2016年4月29日||
+|価格|CENTER:￥1,000|CENTER:￥1,500（税別）|
+|サークル|||
+
+**CD紹介
+-ねじ式氏の4thアルバム。
+-ジャケットイラスト：葉桜ちこり
+-THE VOC@LOiD 超 M@STER 34（超ボーマス34）にて頒布。
+-特典としてアコースティックCDが付く。
+-アニメイト、タワーレコード、Amazonで委託販売が行われている。また自家通販も行われている。
+
+**曲目
++[[才の雨に撃たれて]]
++[[ダンシングダイス]]
++[[雲流れる]]
++[[硝子細工の少女]]
++[[執着列車]]
++[[逆襲という名の旋律]]
++ハコニワノセカイ
++[[ラストダンス>ラストダンス/ねじ式]]
++[[春の雫]]
++[[ゲッカビジン]]
++造花の笑顔
++[[リヒト>リヒト/ねじ式]]（作詞：琴-koto-）
++潔白のアジテーション
++[[ラストペインター]]
+
+**リンク
+-[[作者サイト>>http://www.nejishiki.com/]]
+-[[Twitter>>http://twitter.com/nejishiki0221]]
+-[[アニメイト>>http://www.animate-onlineshop.jp/pn/pd/1403589/]]
+-[[タワーレコード>>http://tower.jp/item/4290287/Sad-Dancer]]
+-[[Amazon>>http://www.amazon.co.jp/dp/B01GQ6I3VY]]
+-[[自家通販>>http://nejishiki.thebase.in/items/3146418]]
+
+**コメント
+#comment()

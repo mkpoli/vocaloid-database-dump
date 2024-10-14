@@ -1,0 +1,39 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://satoimo.vocalo.me/image/jb5_jacket.jpg)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm29076504)
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[JewelBox Vol4]]|CENTER:&bold(){JewelBox Vol5}|CENTER:-|
+
+|[[さといも]]|[[薪原あすみ]]|
+
+発売：2016年7月10日
+価格：￥1200（税込）
+流通：即売
+サークル：La Breeze
+
+**CD紹介
+-さといも(天宝石P)の7thアルバム。
+-2016/7/10開催の「THE VOC@LOiD M@STER35」で配布予定。
+-「ヴィーナスたちのVacation」以降の楽曲及び未公開の新曲、おまけも収録。
+-ジャケットイラストは富夫氏が手掛ける。
+
+**曲目
++[[空色スクリーン]]/メルリ
++[[グラスティカス・ロマンセ]]/東北ずん子＆kokone
++[[たそがれ色の記憶]]/東北ずん子
++[[青い炎の恋]]/kokone
++[[ヴィーナスたちのVacation]]/東北ずん子
++[[Decoration Night]]/kokone
++[[禁断のルーレット]]/氷山キヨテルV4
++[[月の断章]]/メルリ
++[[悔やんでも君は還らない]]/種村めぐみ(GUMIV4)
++[[Nouvelle Tablier]]/結月ゆかりV4
++[[禁断のルーレット]]/氷山キヨテルV2
++[[そよかぜ通信]]/結月ゆかりV4
+
+**リンク
+-[[作者HP>>http://satoimo.vocalo.me/jewelbox5/index.html]]
+
+**コメント
+#comment()

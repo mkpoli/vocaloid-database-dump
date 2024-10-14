@@ -1,0 +1,23 @@
+#right(){&furigana(きき)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://ext.nicovideo.jp/thumb_mylist/55014962" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/55014962">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-歌い手としても活動している。他にも作曲家、歌の講師、バンド等活動は多岐に渡る。
+-歌詞が不思議で言葉選びが独特。
+-初音ミク、GUMIを使用した楽曲を投稿している。
+-2016年2月に一作目「川の絵」を投稿。
+
+**リンク
+-[[Twitter>>http://twitter.com/kikhayakiki]]
+
+**曲
+#list_by_tag(木木,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(木木CD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm28280044)|&nicovideo(http://www.nicovideo.jp/watch/sm29832243)|
+
+**コメント
+#comment()

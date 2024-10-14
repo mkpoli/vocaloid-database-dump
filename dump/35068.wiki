@@ -1,0 +1,41 @@
+#right(){&furigana(やぶれたちょうちんからのぞくせかい)&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1937_20160730121701_0280_0280.jpg)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm29472711)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[丑三つ時にかき鳴らす箒]]|CENTER:&bold(){破れた提灯から覗く世界}|CENTER:-|
+
+|&bold(){[[カオスP]]}|
+
+発売：2016年8月17日
+価格：￥1,200
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：[[モケケ>>http://piapro.jp/jina19841105]]
+
+**CD紹介
+-カオスPの3rdアルバム。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++過ぎ去るコンクリート奇譚 （feat. 初音ミク）
++[[撒き散らす肥やし]] （feat. 初音ミク）
++[[奇刀師]] （feat. 初音ミク）
++[[MIETAALE]] （feat. 初音ミク）
++[[TOSHIMORO現象]] （feat. 初音ミク）
++[[超自然に生きるアタシ]] (Album Ver.) （feat. 初音ミク）
++[[貴方を創る貴方]] （feat. 初音ミク）
++[[場末の酒場で流した泪は今日も哀しい味がうぇーい]] （feat. 初音ミク）
++[[キ気危基季節]] （feat. 初音ミク）
++[[公園錯誤野郎]] （feat. 初音ミク）
++[[くくちくちなな]] (Album Ver.) （feat. 初音ミク）
++言葉なんていらない （feat. 初音ミク）
+
+**リンク
+-[[作者blog>>http://genjutsuuekibachi.blog22.fc2.com/]]
+-[[KARENT：「破れた提灯から覗く世界」>>http://karent.jp/album/1937]]
+-[[iTunes Store>>http://itunes.apple.com/jp/album/yaburetachouchin-kara-nozokusekai/id1141251181]]
+
+**コメント
+#comment()

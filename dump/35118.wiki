@@ -1,0 +1,47 @@
+#right(){&furigana(ししまかいせ)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://ext.nicovideo.jp/thumb_mylist/52710683" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/52710683">【ニコニコ動画】しじまの作品</a></iframe>)
+
+**特徴
+作り手名：『&u(){紫嶌 開世}』（&u(){しじまかいせ}）
+-2014年9月、「Q=Xiwll xew kexma rawx?」でデビュー。独特な世界観と幻想的な雰囲気からひっそりと評価を受ける。
+-2015年12月「[[グレア>グレア/紫嶌 開世]]」が鏡音リン・レンV4Xの音声デモに大抜擢。
+-VOCALOIDと人の声を合わせるなどの挑戦的な音作り、圧倒的なセンスと情報量から「感性の反乱β」タグをつけられることもしばしば。
+-11作目「[[ドライフラワー]]」でじわじわ評価を高め、12作目「[[初音ミクは死ぬことにした]]」がスマッシュヒット。
+-15作目の「[[人間そっくり]]」にて自身初の殿堂入りを達成する。
+-殿堂入りを達成している曲は、「&list_by_tagsearch(紫嶌 開世,殿堂入り,sort=furigana,option=nolist,nolistspace=」「,100)」である。
+
+**リンク
+-[[Twitter>>https://twitter.com/shizima0]]
+-[[ニコニコ>>https://www.nicovideo.jp/user/39274211]]
+-[[YouTube>>https://www.youtube.com/channel/UC6H-WzS6lnwjEOztPjwcbJw]]
+-[[piapro>>https://piapro.jp/shizima0]]
+-[[pixivFANBOX>>https://www.pixiv.net/fanbox/creator/13272512]]
+
+**曲
+#list_by_tag(紫嶌 開世,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(紫嶌 開世CD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm27067948)|&nicovideo(sm27160121)|
+|&nicovideo(sm27270688)|&nicovideo(sm27374478)|
+|&nicovideo(sm27477701)|&nicovideo(1450757825)|
+|&nicovideo(sm28454888)|&nicovideo(sm28500687)|
+|&nicovideo(sm28529881)|&nicovideo(sm28539739)|
+|&nicovideo(sm29152061)|&nicovideo(sm29552925)|
+|&nicovideo(sm30288996)|&nicovideo(sm30647385)|
+|&nicovideo(sm31289955)|&nicovideo(sm31843688)|
+|&nicovideo(sm32328707)|&nicovideo(sm32894325)|
+|&nicovideo(sm32995064)|&nicovideo(sm33253317)|
+|&nicovideo(sm33668193)|&nicovideo(sm34186872)|
+
+**コメント
+//- しじまという表記の方がメジャーであるのでページタイトルを変更していただけないでしょうか？  -- 名無しさん  (2017-05-28 17:26:04)
+- 人間そっくりは？  -- 名無しさん  (2017-07-07 21:24:33)
+- 曲と試聴回数が割に合ってない　今更だがもっと伸びるべき  -- meo-meo  (2019-08-08 09:30:29)
+#comment()

@@ -1,0 +1,35 @@
+#right(){&furigana(つかだたかしげ)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://www.nicovideo.jp/thumb_mylist/20010524" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/20010524">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-2010年「[[出会いは別れの始まり]]」でデビューした作り手。
+
+**リンク
+-[[twitter>>https://twitter.com/takashige4315]]
+-[[YouTube>>https://www.youtube.com/channel/UC6AA1isHBuAP0pyFuY-0OIA]]
+
+**曲
+#list_by_tag(ツカダタカシゲ,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(ツカダタカシゲCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm10480187)|&nicovideo(sm10554423)|
+|&nicovideo(sm13377452)|&nicovideo(sm17282720)|
+|&nicovideo(sm17297009)|&nicovideo(sm18661045)|
+|&nicovideo(sm18738231)|&nicovideo(sm19162328)|
+|&nicovideo(sm19632742)|&nicovideo(sm20751910)|
+|&nicovideo(sm21597191)|&nicovideo(sm21690846)|
+|&nicovideo(sm21798555)|&nicovideo(sm21913366)|
+|&nicovideo(sm22012684)|&nicovideo(sm22109402)|
+|&nicovideo(sm22393780)|&nicovideo(sm22521899)|
+|&nicovideo(sm22772065)|&nicovideo(sm22960255)|
+|&nicovideo(sm23114238)|&nicovideo(sm23749929)|
+|&nicovideo(sm26553062)|&nicovideo(sm26617600)|
+|&nicovideo(sm26725794)|&nicovideo(sm36895940)|
+|&nicovideo(sm37458362)|&nicovideo(sm37974599)|
+|&nicovideo(sm38058069)||
+
+**コメント
+#comment()

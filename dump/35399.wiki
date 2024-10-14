@@ -1,0 +1,30 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#ref(http://karent.jp/npdca/1966_20161024020743_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){Rafflesia -V3 version-}|CENTER:-|
+
+|&bold(){[[愛鍵 祥]]}|Souya|
+
+発売：2016年11月4日
+価格：￥200
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：show2show
+
+**CD紹介
+-愛鍵 祥氏の配信シングル。
+-2011年に発表した「Rafflesia」をMEIKO V3で再調声している。
+-KARENTレーベルよりダウンロード販売が行われている。KARENTのMEIKO12周年記念企画で配信された作品の1つ。
+
+**曲目
++[[Rafflesia]] -V3 version- （feat. MEIKO）
+
+**リンク
+-[[twitter>>http://twitter.com/aikagi_sho]]
+-[[KARENT：「Rafflesia -V3 version-」>>http://karent.jp/album/1966]]
+-[[KARENT：「MEIKO 12th Anniversary」特集ページ>>http://karent.jp/special/meiko16]]
+-[[iTunes Store>>http://itunes.apple.com/jp/album/rafflesia-v3-version-single/id1171020572]]
+
+**コメント
+#comment()

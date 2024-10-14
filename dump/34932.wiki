@@ -1,0 +1,46 @@
+#right(){&furigana(Shuffle！)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&ref(http://karent.jp/npdca/1943_20160813194245_0280_0280.jpg)
+|&nicovideo(http://www.nicovideo.jp/watch/sm29437312)|&youtube(http://www.youtube.com/watch?v=2FNBrNpTq8E){342,187}|
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[ミスルトウ～神々の宿り木～]]|CENTER:&bold(){Shuffle!!}|CENTER:[[VersuS>VersuS/CD]]|
+
+|&bold(){[[ひとしずくP]]}|&bold(){[[やま△]]}|
+
+|流通|CENTER:即売|CENTER:配信|
+|発売|CENTER:2016年8月14日|CENTER:2016年8月31日|
+|価格|CENTER:￥300|CENTER:￥600|
+|サークル|>|CENTER:team OS|
+
+**CD紹介
+-ひとしずくP×やま△の6.5th同人アルバム。
+-既存楽曲の歌唱者シャッフルデュエットを収録している。
+-コミックマーケット90（C90）で頒布。
+-通販委託はなし。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++[[イカサマ⇔カジノ]] / 神威がくぽ＆巡音ルカ
++[[十三番目の黙示録]] / 初音ミク＆KAITO
++[[四季折の羽]] / KAITO＆MEIKO
++[[大和撫子]] / 鏡音リン＆鏡音レン
++[[蝶と花と蜘蛛]] / GUMI＆Lily＆神威がくぽ
++[[赤と白と黒の系譜]] / IA＆MAYU＆勇馬
+
+**リンク
+-[[作者サイト>>http://yamashizuku.web.fc2.com/index.html]]
+-[[KARENT「Shuffle!!」>>http://karent.jp/album/1943]]
+-[[iTunes Store>>http://itunes.apple.com/jp/album/shuffle!!-ep/id1147076072]]
+
+**コメント
+- おおおお！！四季折の羽楽しみ  -- 名無しさん  (2016-08-13 17:29:28)
+- 十三番目の黙示録のshuffleステキ過ぎるぅぅ  -- 桜子  (2016-08-14 00:41:01)
+- え、委託ないの？！！蝶と花と蜘蛛めっちゃ聞きたいのに。  -- 名無しさん  (2016-08-14 10:46:13)
+- 四季折の羽のメイコさんの声がああああ！カイメイLOVEなので。コミケお出かけして行けなかった…！アニメイトとかで売ってますか？  -- 蜜林檎  (2016-08-22 11:47:14)
+- ↑KARENTさんでの配信（一曲100円かな？）だけだそうですよ><  -- 近道  (2016-09-01 23:43:33)
+- 蝶と花と蜘蛛のインタネ組素敵すぎる。  -- 名無しさん  (2017-05-29 22:40:03)
+- IA、MAYU、VY2/勇馬のコンビが一番気になりますぅ。…歌声がぶつかり合わなければいいけどぉ…  -- MAYUちゃん大好き  (2018-04-09 20:34:34)
+#comment()

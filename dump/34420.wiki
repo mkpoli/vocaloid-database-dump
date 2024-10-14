@@ -1,0 +1,34 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(<iframe width="312" height="176" src="http://ext.nicovideo.jp/thumb_mylist/49320300" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/mylist/49320300">【ニコニコ動画】</a></iframe>)
+
+**特徴
+-2011年5月、「[[チョコレーション]]」でボカロデビュー。
+-エレクトリック・ダンス・ミュージックからポップな楽曲を手掛けている。
+-ボカロだけでなく、NNIやUTAUでも楽曲を発表している。
+-代表作は「[[ポンコツセカイ]]」。
+
+**リンク
+-[[lightspop.com（作者HP）>>http://lightspop.com]]
+-[[Twitter>>http://twitter.com/lightspop]]
+-[[Piapro>>http://piapro.jp/kiyu20]]
+-[[YouTube>>https://www.youtube.com/channel/UCShzYJ0-x-Yv26GwAbnQnlA]]
+-[[SoundCloud>>https://soundcloud.com/lightspop]]
+
+**曲
+#list_by_tag(lightspop,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(lightspopCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm14315054)|&nicovideo(sm16669386)|
+|&nicovideo(sm17701725)|&nicovideo(sm18067344)|
+|&nicovideo(sm18760580)|&nicovideo(sm19434254)|
+|&nicovideo(sm20528839)|&nicovideo(sm20694016)|
+|&nicovideo(sm21153627)|&nicovideo(sm24312077)|
+|&nicovideo(sm25835094)|&nicovideo(sm25930490)|
+|&nicovideo(sm25996562)|&nicovideo(sm26638205)|
+|&nicovideo(sm28244645)|&nicovideo(sm28383249)|
+
+**コメント
+#comment()

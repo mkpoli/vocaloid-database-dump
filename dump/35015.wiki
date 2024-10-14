@@ -1,0 +1,32 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1924_20160716204437_0280_0280.jpg)
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[If Only EP]]|CENTER:&bold(){Afterglow EP}|CENTER:-|
+
+|&bold(){[[すしP]]}|
+
+発売：2016年8月22日
+価格：￥600
+流通：配信
+レーベル：KARENT
+イラスト：星屑
+
+**CD紹介
+-すしPこと5u5h1氏の配信EP。
+-コンピレーション参加曲含む全4曲。
+-KARENTレーベルよりダウンロード販売が行われている。初音ミク9周年記念特集で配信された作品の1つ。
+
+**曲目
++Afterglow
++九日目 （feat. 初音ミク）
++[[六月の空蝉]] （feat. 初音ミク）
++[[Blur]] （feat. 初音ミク）
+
+**リンク
+-[[twitter>>http://twitter.com/sushi0422]]
+-[[KARENT：「Afterglow EP」>>http://karent.jp/album/1924]]
+-[[KARENT：「初音ミク 9th Anniversary」特集ページ>>http://karent.jp/special/miku16]]
+-[[iTunes Store>>http://itunes.apple.com/jp/album/afterglow-ep/id1139661987]]
+
+**コメント
+#comment()

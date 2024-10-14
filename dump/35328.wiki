@@ -1,0 +1,51 @@
+#right(){&furigana(MOON)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+//#amazon(B01KFPCA0M)
+&ref(https://www.suruga-ya.jp/database/pics_light/game/186138111.jpg,x=300,y=300)
+|&nicovideo(sm29361767)|&youtube(https://www.youtube.com/watch?v=hX-mltTIdks){342,187}|
+|&nicovideo(sm38185729)|&youtube(https://www.youtube.com/watch?v=6RAiiT6xmI4){342,187}|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[PLANETARY PLATE]]|CENTER:&bold(){MOON}|CENTER:[[不可思議と旅人]]|
+
+|&bold(){[[10日P]]}|
+
+|流通|CENTER:即売|CENTER:委託|CENTER:配信|
+|発売|CENTER:2016年8月14日||CENTER:2016年10月12日|
+|価格|CENTER:￥1,000|CENTER:￥1,300（税別）|CENTER:￥900|
+|サークル|>|CENTER:monaca:factory||
+
+**CD紹介
+CD名：『&u(){MOON}』
+-10日Pことmonaca:factoryのCDアルバム。
+-イラスト：おさかなゼリー
+-コミックマーケット90（C90）で頒布。
+-Amazon、とらのあなで委託販売が行われている。
+-KARENTレーベルよりダウンロード販売が行われている。
+-現在は公式で無料公開されている。
+
+**曲目
++Moonlight
++[[ルナ]] feat. 初音ミク
++[[ジュエル]] feat. 初音ミク
++ソナタ
++スーパーノーマル feat. GUMI
++[[RABBIT>RABBIT/10日P]] feat. 初音ミク
++ノクターン feat. 初音ミク
+
+**リンク
+-[[作者サイト>>https://monacafactory.com/]]
+-[[twitter>>https://twitter.com/monaca10p]]
+//-[[とらのあな>>https://www.toranoana.jp/mailorder/article/04/0030/44/61/040030446163.html]]
+-[[Amazon>>https://www.amazon.co.jp/dp/B01KFPCA0M]]
+-[[KARENT：「MOON」>>https://karent.jp/album/1948]]
+-[[iTunes Store>>https://itunes.apple.com/jp/album/moon/id1161304483]]
+
+**コメント
+- おお  -- 名無しさん  (2016-10-26 22:15:01)
+- ルナちゃん！！  -- 名無しさん  (2016-10-26 22:29:15)
+- 追加乙です  -- 名無しさん  (2016-10-27 10:35:12)
+#comment()

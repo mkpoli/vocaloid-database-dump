@@ -1,0 +1,43 @@
+#right(){&furigana(Noak)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+&nicovideo_mylist(<iframe width="312" height="176" src="https://ext.nicovideo.jp/thumb_mylist/31019377" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="https://www.nicovideo.jp/mylist/31019377">【ニコニコ動画】%E3%83%9C%E3%82%AB%E3%83%AD%E4%BD%9C%E5%93%81</a></iframe>)
+
+**特徴
+作り手名：『&u(){Noak}』（&u(){ノク}）
+-普段は&bold(){鎌田ノク}名義で活動するシンガーソングライターである。
+-ボカロの他に、ニコニコインディーズ、歌ってみた、演奏してみたなど様々なカテゴリで活躍する作り手。
+-2012年3月、「[[Dance>Dance/Noak]]」で満を持してボカロデビュー。
+
+**リンク
+//-[[NOAK KAMATA（作者HP）>>https://noakky7.wixsite.com/noak-kamata-jp]]
+//-[[作者ブログ>>http://noak.seesaa.net/s/]]
+-[[Twitter>>https://twitter.com/kamata_noak]]
+-[[piapro>>https://piapro.jp/noak]]
+-[[ニコニコ>>https://www.nicovideo.jp/user/5873714]]
+-[[YouTube>>https://www.youtube.com/channel/UC194HcW7eZytWY9yviIsi7g]]
+
+**曲
+#list_by_tag(Noak,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(NoakCD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(sm17285267)|&nicovideo(sm18279596)|
+|&nicovideo(sm19051857)|&nicovideo(sm19530139)|
+|&nicovideo(sm20909885)|&nicovideo(sm22855239)|
+|&nicovideo(sm23220163)|&nicovideo(sm23220200)|
+|&nicovideo(sm23341926)|&nicovideo(sm23731339)|
+|&nicovideo(sm25659406)|&nicovideo(sm25871487)|
+|&nicovideo(sm26495621)|&nicovideo(sm26610417)|
+|&nicovideo(sm26806046)|&nicovideo(sm27371550)|
+|&nicovideo(sm28039149)|&nicovideo(sm28433799)|
+|&nicovideo(sm32598344)|&nicovideo(sm32773303)|
+|&nicovideo(sm33813041)|>|
+
+**コメント
+- ノークさん大好き！もっと伸びてほしい！  -- 肩  (2018-01-14 19:44:05)
+#comment()

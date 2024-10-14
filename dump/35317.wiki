@@ -1,0 +1,39 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm29837283)
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){One Room Industry 4.0}|CENTER:-|
+
+|[[プロペリン]]|[[マロン菩薩]]|[[ぽてんしゃる0]]|[[有機酸]]|[[フタリ]]|[[イズレ]]|[[しーくん]]|
+|[[ため（叫べP）]]|[[クソガキP]]|[[エポック]]|[[ナポリP]]|[[はるまきごはん]]|[[Summer Gratz]]||
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|CENTER:2016年11月5日||
+|価格|CENTER:￥1,000|CENTER:￥1,500|
+|サークル|>|CENTER:IQ4|
+
+**CD紹介
+-『A.I』をテーマにしたコンピレーションアルバム。人工知能が発達した世界をイメージして13名のボカロPが書き下ろし。
+-Illustration MkMA / mikuma  Mastering [[MI8k>ナポリP]]
+-THE VOC@LOID M@STER 36にて頒布。
+-BOOTHで委託販売が行われている。
+
+**曲目
++腐食したのは / プロペリン feat.VY1V4
++[[333]] / マロン菩薩 feat.初音ミク
++チアノーゼ / ぽてんしゃる0 feat.GUMI & IA
++[[lili.]] / 有機酸 feat.v flower
++electronic swimmer / フタリ feat.初音ミク
++aventure / イズレ feat.鏡音リン
++[[失う、シナプス]] / しーくん feat.鏡音レン
++血液を見いだす / ため（叫べP） feat. 初音ミク
++AI・ニンゲン / くにまり feat.初音ミク
++ROBITA / エポック feat.GUMI
++DNA.I / MI8k feat.GUMI
++Null / はるまきごはん feat.初音ミク
++[[サテライト>サテライト/Summer Gratz]] / さまぐら feat.初音ミク
+
+**リンク
+-[[BOOTH>>http://seeeeecun.booth.pm/items/351426]]
+
+**コメント
+#comment()

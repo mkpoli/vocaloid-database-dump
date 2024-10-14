@@ -1,0 +1,37 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm29917438)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[エンドロールに髑髏は咲く]]&br()[[レスポール]]|CENTER:&bold(){luce}|CENTER:[[blindness>blindness/Summer GratzCD]]|
+
+|&bold(){[[Summer Gratz]]}|
+
+|流通|CENTER:即売|CENTER:委託|
+|発売|CENTER:2016年11月5日|CENTER:2016年11月7日|
+|価格|>|CENTER:￥1,000|
+|サークル|>|CENTER:モッシュピット|
+
+**CD紹介
+-1st同人フルアルバム。
+-テーマは「光」。
+-Artwork ＆ design：DMYM、Mastering：さぶろう、Crossfade：ろーまじん
+-2016年11月5日 THE VOC@LOID M@STER 36にて頒布。通販も行われる。
+
+**曲目
++[[ダイブ！！]] (Album ver)
++落空
++[[ユリーカ]]
++シーラカンスが棲んでいる
++フレアライトマーチ
++[[灯火の命題]] (Album ver)
++[[リビングライト]]
++[[レスポール]]
++ハートビートカウント
++[[エンドロールに髑髏は咲く]]
++生きる意味を探した
+
+**リンク
+-[[BOOTH>>http://summergratz.booth.pm/items/362366]]
+
+**コメント
+#comment()

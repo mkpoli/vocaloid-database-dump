@@ -1,0 +1,31 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186125896.jpg,x=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm23372652)
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[AQUARIUM]]|CENTER:&bold(){ごめんねep}|CENTER:[[モノクロアンダーグラウンド>モノクロアンダーグラウンド/CD]]|
+
+|&bold(){[[くらげP]]}|
+
+発売：2014年4月26日
+価格：￥100
+流通：即売
+サークル：海月屋茶房
+
+**CD紹介
+-くらげPの4曲入りCD。
+-THE VOC@LOiD 超 M@STER 28（超ボーマス28）で頒布。
+-委託予定は無し。
+
+**曲目
+-[[モノクロアンダーグラウンド]]
+-[[リトルガールアニマージュ>リトルガール・アニマージュ]]
+-[[それは、いいことだよ]]
+-ごめんね
+
+**リンク
+-[[twitter>>http://twitter.com/kurage_P]]
+
+**コメント
+#comment()

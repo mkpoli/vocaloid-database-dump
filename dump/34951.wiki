@@ -1,0 +1,41 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+|&nicovideo(http://www.nicovideo.jp/watch/sm28547986)|&youtube(http://www.youtube.com/watch?v=X2-7W6H62Ic)|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[54273]]|CENTER:&bold(){D.A. Telegraph}|CENTER:-|
+
+|&bold(){[[DATEKEN]]}|
+
+|流通|CENTER:即売|CENTER:同人|
+|発売|CENTER:2016年4月29日||
+|価格|CENTER:￥1,000|CENTER:￥1,000（税別）|
+|サークル|>|CENTER:伊達建設|
+
+**CD紹介
+-DATEKEN氏の6年ぶりのCDアルバム。
+-THE VOC@LOiD 超 M@STER 34（超ボーマス34）で初頒布。
+-とらのあなで委託販売が行われている。
+
+**曲目
++[[ワンルーム・オール・ザット・ジャズ]]
++[[蜜月アン・ドゥ・トロワ]]
++[[彼方此方]]
++[[54273]]
++[[時の侭に]]
++[[唯然う在る様に]]
++[[東京ルミネッセンス]]
++[[小さなその手で]]
++[[sigh>sigh/DATEKEN]]
++[[僕が僕に帰れる場所]]
++[[たいせつなじかん]]
++Drawing Palette -soul edit.-
+
+**リンク
+-[[特設サイト>>http://vitdat.wix.com/dateken]]
+-[[twitter>>http://twitter.com/dateken]]
+-[[ブロマガ>>http://ch.nicovideo.jp/dateken]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/41/59/040030415986.html]]
+
+**コメント
+- 追加乙です。こうして6年振りにアルバムが出たのがたまらなく嬉しい。  -- 名無しさん  (2016-08-20 19:51:31)
+#comment()

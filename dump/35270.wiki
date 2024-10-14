@@ -1,0 +1,45 @@
+#right(){&furigana(うそうくうそう)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+#amazon(B01JGR86GC)
+|&nicovideo(sm29323028)|&youtube(https://www.youtube.com/watch?v=fOPRdcIXU70){342,187}|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[日刊：遺書]]|CENTER:&bold(){有象偶象}|CENTER:[[plotoplan]]|
+
+|&bold(){[[ぬゆり]]}|[[ナブナ]]|
+
+|流通|CENTER:即売|CENTER:通販|
+|発売|CENTER:2016年8月14日|CENTER:-|
+|価格|>|CENTER:￥1,000|
+|サークル|>|CENTER:偽犬|
+
+**CD紹介
+CD名：『&u(){有象偶像}』（&u(){うぞうぐうぞう}）
+-ぬゆり氏の3rdアルバム。
+-ジャケットイラストをみず希氏が、デザインをヨナミ氏、マスタリングを[[中村リョーマ]]氏が手掛けている。
+-コミックマーケット90（C90）にて頒布。
+-下記リンクにて通販も行われている。
+
+**曲目
++[[大病>>https://www.nicovideo.jp/watch/sm29016802]]
++[[錯蒼]]
++ぼくらしかしらない <Extended>
++[[色失は青になる]]
++Stleq <Extended>
++[[フラジール]]
++Torfh
++BSSM
++サイケメンヘル
++[[スチム>>https://www.nicovideo.jp/watch/sm28603971]]
++[[さいしょへ]]
+
+**リンク
+-[[amazon>>https://www.amazon.co.jp/dp/B01JGR86GC]]
+
+**コメント
+- フラジール！！買う売り切れにならないで、  -- 名無しさん  (2016-10-18 09:41:24)
+- boothとかで再販してほしい…  -- おるたねいと  (2018-02-07 21:00:47)
+#comment()

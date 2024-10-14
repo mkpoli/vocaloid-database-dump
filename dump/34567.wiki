@@ -1,0 +1,53 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#amazon(B01GHD79I4)
+
+|&nicovideo(http://www.nicovideo.jp/watch/sm28850150)|&youtube(http://www.youtube.com/watch?v=tFLSmHzc7CA)|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Hope Sound]]|CENTER:&bold(){Re:tilt-six Vol.1}|CENTER:-|
+
+|&bold(){[[tilt]]}|
+
+|流通|CENTER:通販|CENTER:即売|
+|発売|CENTER:2016年6月22日|CENTER:2016年8月13日|
+|価格|CENTER:￥1,728（税込）|CENTER:￥1,200（税込）|
+|サークル|>|CENTER:tilt-sics|
+
+**CD紹介
+-tilt-six こと tilt氏 の「2.5枚目の」アルバム。
+-氏が以前からずっとやりたいと思っていたという本人初のワンマンライブ「[[tilt Cinema Party 2016>>http://tilt-six.com/cinemaparty16/]]」の開催予告と共に発表された。
+-1stアルバム『[[＜/TearDrop＞><／TearDrop>]]』及び2ndアルバム『[[Hope Sound]]』から選ばれた楽曲を、ライブで生演奏できるようアレンジ。
+-SQUARE ENIXのスマートフォン向けRPG「乖離性ミリオンアーサー」と「SNOW MIKU 2016」のコラボレーションイベントのタイアップ曲「キラユキ」も収録。
+-ジャケットイラストをサメヤマ次郎氏が、クロスフェードを[[まきのせな]]氏と黒井心氏が、マスタリングをyasu氏が手掛ける。
+-Amazon、とらのあなにて販売中。ライブ会場でも販売される予定。
+
+**曲目
++Re: [[エレクトロサチュレイタ]] feat. HATSUNE MIKU
++Re: [[キミにガザニア]] feat. HATSUNE MIKU
++Re: [[プラスチックボイス]] feat. HATSUNE MIKU
++Re: [[ヒカレルサテライト]] feat. HATSUNE MIKU
++Re: [[overwriter]] feat. HATSUNE MIKU
++Re: 嘘つきクライベイビー feat. HATSUNE MIKU
++Re: [[夜明け前のレゾナンス]] feat. HATSUNE MIKU
++Re: Accept feat. HATSUNE MIKU
++Re: ホープサウンド feat. HATSUNE MIKU
++Re: [[オワラナイユメ]] feat. HATSUNE MIKU
++キラユキ feat. HATSUNE MIKU （乖離性ミリオンアーサー × SNOW MIKU2016 コラボ タイアップ曲）
+
+**ゲストミュージシャン（敬称略）
+-ピアノ・エレクトリックピアノ：友人Y Track 01, 08, 10, 11
+-エレキベース：友人K Track 01, 08
+-ドラム：友人H Track 01, 06, 10
+-ピアノ・ベースアレンジ：中前"timo"智彦 Track 02
+-バイオリン：西浦詩織
+-ギターソロ：バッチオ Track 04
+
+**リンク
+-[[特設ページ>>http://tilt-six.com/retilt1/]]
+-[[Twitter>>http://twitter.com/tilt_six]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/42/33/040030423312.html]]
+-[[ブログ告知>>http://ch.nicovideo.jp/tilt_six/blomaga/ar1029095]]
+-[[ブログお礼>>http://ch.nicovideo.jp/tilt_six/blomaga/ar1058454]]
+
+**コメント
+#comment()

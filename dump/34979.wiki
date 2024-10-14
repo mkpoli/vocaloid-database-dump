@@ -1,0 +1,35 @@
+#right(){&furigana(MEDIUSLOCUSEXORDIUM)&furigana()【登録タグ:&tags()】}
+|&nicovideo(sm28889600)|&youtube(https://www.youtube.com/watch?v=l7zTzSHkKvs){342,187}|
+作詞：[[AVTechNO]]
+作曲：[[AVTechNO]]
+編曲：[[AVTechNO]]
+絵：[[有坂あこ]]
+唄：[[初音ミク]]
+
+**曲紹介
+>&b(){もう１つの[[EXORDIUM>EXORDIUM ~MIKULARUS CHORUS]]}
+曲名：『&u(){MEDIUS LOCUS EXORDIUM}』(&u(){メディウス・ロクス　エクソルディウム})
+
+**歌詞
+insania ebrietas ros initium matrix
+mira anima nihil fine dea deus mens zero
+falsa fama miser flos ad carta clarus adverusus
+
+virtus flop ligatur nox volptus magnifico
+roseus dea viridis dea tertia amor mira stella
+clarus nemus nature hora sector wentus bellus floreo
+insane jocular miser miles moles bellus flos jonah miku filia
+
+xeno miser diva falsa libera remora restinguitur
+libero genus idem admonitio affectus alo mergitur
+fluttua lacrima anima mortali ater servi juvenis toristis
+persona causa olim amicus molis dormito
+
+nemus nature wentus clarus servi memoria omnis diva sano
+viridis fons roseus fons amor terutia essere nihil servi
+clarus nemus nature hora sector wentus bells floreo
+insane jocular miser miles bellus molis fons jonah lumen miku
+
+
+**コメント
+#comment()

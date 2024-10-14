@@ -1,0 +1,61 @@
+#right(){&furigana(ゆぇちょんりん)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+**製品
+&bold(){VOCALOID3}
+#image(http://img.alicdn.com/bao/uploaded/i4/TB1YwkpIpXXXXbOXpXXXXXXXXXX_!!0-item_pic.jpg,,width=300,height=300,blank)
+
+&bold(){VOCALOID5}
+&image(https://pbs.twimg.com/media/FSe1gl6VIAYoPeH?format=jpg&name=small,height=260)
+***製品概要
+|製品名|楽正綾（Yuezheng Ling　ユェヂョン・リン）|VOCALOID5 楽正綾|
+|~|>|（簡体中国語表記では 乐正绫）|
+|発売|2015年7月17日（中国国内）|2023年2月13日|
+|価格|680元||
+|企画|>|VOCALOID™ CHINA PROJECT → VOCANESE|
+|~|~|（両社とも現在は解散、上海禾念に継承）| 
+|販売|>|Shanghai HENIAN Information Technology Co. Ltd.|
+|~|~|（上海禾念信息科技有限公司）|
+|エンジン|VOCALOID3|VOCALOID5|
+|言語|>|中国語ライブラリ|
+|性別|>|女声|
+|サンプリング元|>|祈Inory（Qi Inory　チー・イノリ）|
+|得意な曲のテンポ|70-220BPM|60-220|
+|得意な音域|G2-C5|F2-F4|
+
+***製品紹介
+合成音声名：『&u(){楽正綾}』(&u(){ゆぇぢょん・りん})
+-2015年7月中旬発売のVOCALOID™ CHINA PROJECT3人目となる中国語VOCALOID。
+-年齢16才、身長160cm、体重41kg。キャラクター原案はrikuhao氏、イラストレーターはideolo氏。
+-画像の後ろにちょこっと描かれているエレキギターは音の精霊：释天（SHI TIAN/シ　ティエン）の変化した姿。
+--ギターに变化する前はトラのような姿をしている。年齢は10000才、大きさは200cm。
+--公式プロフィールによると綾のベッドになったり抱枕になったりしているらしい。
+-残念ながら日本国内で販売していない。中国の大手通販サイト「淘宝網」を利用できる個人輸入代行を利用すれば手に入れることができる。（[[ごぼうPによる購入方法紹介>>http://ameblo.jp/chrolea/entry-12047481520.html]]）
+-2023年2月13日には、VOCALOID5によるアップデート版が発売。「炽（Normal）」と「幽（Dark）」の2種類のライブラリが搭載されている。また、ACE StudioによるAI版音源の発売も予定されている。
+
+**デモソング
+|「[[Scarlet Drop]]」/人形兎|「[[夢語]]」/人形兎|h
+|&youtube(http://www.youtube.com/watch?v=UDwuzNwJRb0){342,187}|&youtube(http://www.youtube.com/watch?v=a57tkxV-jVo){342,187}|
+
+**リンク
+-[[Shanghai HENIAN VSINGER>>http://www.zenith-grp.com/henian/]]
+
+-&s(){VOCALOID™ CHINA PROJECT}　閉鎖
+-[[VOCALOID™ CHINA PROJECT 楽正綾のページ(Internet Archive内)>>http://web.archive.org/web/20120906025710/http://vocaloidproject.com/ling.html]]
+-[[VSINGER FACEBOOK>>http://www.facebook.com/vsingerofficial]]
+-[[VSINGER 微博>>http://tw.weibo.com/vsingeroffical]]
+-[[乐正绫 微博>>http://tw.weibo.com/yuezhengling?refer_flag=1001030101_]]
+
+**関連タグ内の更新履歴
+※「楽正綾」タグ内で最近編集やコメントのあった記事を新しい方から10件表示しています。
+#list_by_tagsearch(楽正綾,sort=timestamp,sort2=desc,errmsg=まだ曲が登録されていません。,or,10)
+
+**コメント
+//- 追加お疲れ様！  -- 名無しさん  (2016-08-24 17:47:39)
+- 彼女ファンです。  -- tomohiro  (2016-08-31 20:57:49)
+- 彼女の兄、乐正龙牙も出たみたいだ。  -- tomohiro  (2017-06-30 12:28:01)
+- ロンヤ君出たね！ 兄妹設定いいな〜  -- 名無しさん  (2017-06-30 19:39:16)
+- めっちゃかわいい  -- 不協  (2021-06-07 16:24:11)
+#comment

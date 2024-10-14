@@ -1,0 +1,37 @@
+#right(){&furigana(かれないなまえ)&furigana()【登録タグ:&tags() 】}
+
+&ref(https://sonoca.net/images/creators-market/card-risou.jpg,x=500,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm29591496)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Homeopathy]]|CENTER:&bold(){枯れない名前E.P}|CENTER:-|
+
+|&bold(){[[ちんまりP]]}|
+
+発売：2016年9月10日
+価格：￥500
+流通：即売
+サークル：fille
+
+**CD紹介
+-ちんまりPことrisou氏のEP。
+-本作はCDではなく、スマートフォン専用音楽カード「SONOCA」形態での頒布となる。
+-マジカルミライ2016内音楽即売イベント「KARENT Presents クリエイターズマーケット」で頒布。
+
+**曲目
++[[転校前夜]] （Refined）
++[[最終列車で朝を待つ （Refined）>最終列車で朝を待つ]]
++キャロル
++[[私雨]]
++二人
+
+**リンク
+-[[作者サイト>>http://risou.thebase.in/]]
+-[[twitter>>http://twitter.com/RisouMusic]]
+-[[マジカルミライ2016 音楽即売イベント「KARENT Presents クリエイターズマーケット」SONOCA販売サークルのお知らせ>>http://sonoca.net/creators/market]]
+-[[BOOTH>>https://booth.pm/ja/items/330675]]
+
+**コメント
+- 転校前夜きになる〜  -- 名無しさん  (2016-09-10 08:12:29)
+#comment()

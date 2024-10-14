@@ -1,0 +1,13 @@
+#right(){【登録タグ:&tags()】}
+//↑タグ忘れ防止のための表示
+曖昧さ回避のためのページ
+----
+-[[maya]]の曲
+--[[reason of birth/maya]]
+-[[buzzG]]の曲
+--[[reason of birth/buzzG]]
+
+-[[maya]]のCD
+--[[reason of birth/CD]]
+
+#include(曖昧さ回避の追加の仕方/告知)

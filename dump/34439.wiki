@@ -1,0 +1,42 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+#ref(http://vocadb.net/Album/CoverPicture/16829?v=10,width=300,height=300) 
+
+|&nicovideo(http://www.nicovideo.jp/watch/sm28320836)|&youtube(http://www.youtube.com/watch?v=KuBEvtZ8OQM){336,189}||
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Re:fleaction]]|CENTER:&bold(){HEART'S WAVE}|CENTER:[[インスリン>インスリン/CD]]|
+
+|&bold(){[[Project yumeiruka]]}|&bold(){[[ねこむら>ねこむら/作り手]]}|&bold(){[[かねイルカ]]}|&bold(){[[下駄メガネ]]}|
+
+|流通|CENTER:即売|CENTER:通販|
+|発売|CENTER:2016年3月6日||
+|価格|CENTER:￥500（税込）||
+|サークル|>|Project yumeiruka|
+
+**CD紹介
+-Project yumeiruka初となる1stフルアルバム。
+-VOCALOID PARADISE 関西5（ボーパラ関西5）のサークル「Project yumeiruka」にて初頒布。
+-アルバムジャケットとクロスフェード動画の製作も[[ねこむら>ねこむら/作り手]]が担当している。
+-「ねこむら(ゆめじん)」と「かねイルカ(オクターブ上P)」によるユニット兼サークル「Project yumeiruka」の1stフルアルバム完成です。アルバムタイトルは「HEART'S WAVE」――心の波。 人と人の距離感、頭と心の距離感、そして心と心の距離感。 海辺の潮のように常に揺れ動き続ける、「波」。 そして音楽ファイルの形式、「WAVE」。 12曲入りワンコイン500円ながら、今持ちうる全力で創作しました。 当日是非お越し下さい！ 参加VOCALOID：初音ミク、鏡音リン、巡音ルカ、結月ゆかり M8 作詞：下駄メガネ（特設サイト、アルバム説明文より引用。）
+-委託通販はないものの個人通販は行われている。
+
+**曲目
++[[アダムとイブとボク]]
++[[ぼくらのペニーレイン]]
++patsbad (Album Version)
++[[インスリン]](Album Mix)
++[[ユラフワでいず]]
++[[クソムシといわれたい]](nekomuraアレンジ)
++【Brain】Labyrinth【Heart】
++朝に夜に
++the ocean is calm
++[[drifting]] (album version)
++[[Nothing with two]]
++うたうイルカ
+
+**リンク
+-[[特設サイト(Tumblr)>>http://hearts-wave.tumblr.com/]]
+-[[VOCADB>>http://vocadb.net/Al/16829]]
+
+**コメント
+#comment()

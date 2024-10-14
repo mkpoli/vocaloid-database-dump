@@ -1,0 +1,31 @@
+#right(){&furigana(きりょ)&furigana()【登録タグ:&tags() 】}
+#ref(http://karent.jp/npdca/1962_20161017091530_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[キンモクセイの風]]|CENTER:&bold(){羇旅}|CENTER:-|
+
+|&bold(){[[稲敷常州]]}|
+
+発売：2016年11月4日
+価格：￥300
+流通：配信
+レーベル：KARENT
+ジャケットイラスト：[[konpasu>>http://piapro.jp/konpasu]]
+
+**CD紹介
+-稲敷常州氏の配信シングル。
+-KARENTレーベルよりダウンロード販売が行われている。KARENTのMEIKO12周年記念企画で配信された作品の1つ。
+
+**曲目
++[[草原の誓い]] （feat. MEIKO）
++[[魔窟にて]] （feat. MEIKO）
+
+**リンク
+-[[twitter>>http://twitter.com/InashikiJoshu]]
+-[[piapro>>http://piapro.jp/tnakano0316]]
+-[[KARENT：「羇旅」>>http://karent.jp/album/1962]]
+-[[KARENT：「MEIKO 12th Anniversary」特集ページ>>http://karent.jp/special/meiko16]]
+-[[iTunes Store>>http://itunes.apple.com/jp/album/travel-single/id1171020048]]
+
+**コメント
+#comment()

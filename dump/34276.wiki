@@ -1,0 +1,37 @@
+#right(){&furigana(ゆうごうまじっく)&furigana()【登録タグ:&tags() 】}
+
+&ref(https://www.suruga-ya.jp/database/pics/game/186146282.jpg,x=300,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm28648529)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[クラブナイトメア]]|CENTER:&bold(){融合魔法}|CENTER:-|
+
+|&bold(){[[融合P]]}|
+
+発売：2016年4月29日
+価格：￥1,000
+流通：即売
+サークル：融合発表会(新譜)
+
+**CD紹介
+-融合P のイベント限定鏡音アルバム第2弾。
+-アートワークを [[7:24>姉を見事に使いこなす妹P]]氏 が、MIX＆マスタリングを [[よぴー]]氏 が手掛ける。
+-7:24氏 による8ページのブックレット付き。
+-THE VOC@LOiD 超 M@STER 34（超ボーマス34）にて頒布。
+
+**曲目
++さくらさくら
++[[クラブナイトメア]]
++[[ゾンビーヌ]]
++冷凍光線
++[[マジカルクリスマス]]
++ティンクル宇宙人
++無感情な悪魔
++単純メーカー
+
+**リンク
+-[[作者twitter>>http://twitter.com/naoyan_yuugoup]]
+
+**コメント
+#comment()

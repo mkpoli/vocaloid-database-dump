@@ -1,0 +1,36 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&ref(http://karent.jp/npdca/1881_20160305040217_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Violet Moon]]|CENTER:&bold(){Violet Moon+}|CENTER:-|
+
+|&bold(){[[ちょむP]]}|[[海兎]]|おがた|真雪|
+
+|流通|CENTER:即売|CENTER:配信|
+|発売|CENTER:2016年2月28日|CENTER:2016年3月23日|
+|価格|CENTER:￥1,000|CENTER:￥900|
+|サークル|CENTER:マケッツ団||
+
+**CD紹介
+-ちょむPのボーカロイドCD。
+-前作『[[Violet Moon]]』と前々作『[[Lock on YUKARIN]]』を一枚にまとめたCD。一部ミックスの見直しとリマスタリングが行なわれている。
+-ちょっとオトナな雰囲気なミドル～ハイテンポの歌謡曲風ロックを収録。全曲VOCALOID4結月ゆかりが歌唱。
+-ジャケットイラストはno10氏。
+-この声とどけ、月までも　弐（声月弐）で頒布。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++君じゃなきゃダメだってこと
++メロディ
++[[ルーレット]]
++レイニーブルー
++伝想
++Heart Beats.
+
+**リンク
+-[[作者サイト>>http://chomstudio.com/]]
+-[[KARENT：「Violet Moon+」>>http://karent.jp/album/1881]]
+-[[iTunes Store>>http://itunes.apple.com/jp/album/violet-moon+-s-ep/id1093066048]]
+
+**コメント
+#comment()

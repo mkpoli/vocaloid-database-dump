@@ -1,0 +1,40 @@
+#right(){&furigana(だれもいないとかい、ふしぎのくに)&furigana()【登録タグ:&tags() 】}
+
+&ref(https://booth.pximg.net/e25fa220-5dbd-4e72-b332-f190db824fa8/i/244258/c5f3b720-5a7f-48be-bfbf-5d7b5873ce46_base_resized.jpg,x=300,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm28695081)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){誰もいない都会、不思議の国}|CENTER:-|
+
+|&bold(){[[sea-no]]}|&bold(){[[紫嶌 開世]]}|
+
+|流通|CENTER:即売|
+|発売|CENTER:2016年4月30日|
+|価格|CENTER:¥1,000|
+|サークル|CENTER:-|
+
+**CD紹介
+>ボーカロイド＋肉声 エレクトロニカをお届けします 
+-2016年4月30日、THE VOC@LOiD 超 M@STER34にて頒布された。
+-ジャケットはsea-no氏のイラストである。マスタリングにはごまつこ氏を迎えている。
+-6月下旬には委託も予定されている。
+-BOOTHにて通販が行われていた。
+
+
+**曲目
++[[drink me]] / 紫嶌 開世
++真夜中、それは / sea-no
++[[シィナ]] / 紫嶌 開世
++[[花染]](紫嶌開世remix) / sea-no
++[[歩くような速さで>歩くような速さで/紫嶌 開世]] / 紫嶌 開世
++ファンタジー・シンドローム / sea-no
++[[Invisible silence]]（紫嶌 開世arranged） / sea-no
+
+**リンク
+-[[Twitter(1)>>http://twitter.com/shizima0/status/726743234316111874]]
+-[[Twitter(2)>>http://twitter.com/shizima0/status/726743268415799296]]
+-[[BOOTH>>https://booth.pm/ja/items/244258]]
+
+**コメント
+#comment()

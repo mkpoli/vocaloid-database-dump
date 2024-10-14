@@ -1,0 +1,29 @@
+#right(){&furigana(もういちどさいしょから)&furigana()【登録タグ:&tags() 】}
+
+&image(http://karent.jp/npdca/1922_20160712103910_0280_0280.jpg)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[乱の世界]]|CENTER:&bold(){もう一度最初から}|CENTER:[[時と惑星と罪と]]|
+
+|&bold(){[[箸休/hashiyasume>箸休／hashiyasume]]}|
+
+発売：2016年8月22日
+価格：￥150
+流通：配信
+レーベル：KARENT
+
+**CD紹介
+-箸休氏 の配信シングル。
+-KARENTレーベルよりダウンロード販売が行われている。初音ミク9周年記念企画で配信された作品の1つ。
+
+**曲目
++もう一度最初から （feat. 初音ミク）
+
+**リンク
+-[[作者Twitter>>http://twitter.com/Edgar_Lovecraft]]
+-[[KARENT：「もう一度最初から」>>http://karent.jp/album/1922]]
+-[[KARENT：「初音ミク 9th Anniversary」特集ページ>>http://karent.jp/special/miku16]]
+-[[iTunes Store>>https://itunes.apple.com/jp/album/again-from-scratch-single/id1139661901]]
+
+**コメント
+#comment()

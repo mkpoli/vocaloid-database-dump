@@ -1,0 +1,24 @@
+#right(){&furigana(きたべっぷ)&furigana()【登録タグ:&tags() 】}
+&nicovideo_mylist(ここにマイリストブログパーツのiframe用をコピペ)
+
+**特徴
+-創作サークル「北別府Project」の音楽制作部門。正式名称は「北別府・濃い味」。
+-メンバーは「ムッシュチキン（代表）、QJITAI、revel、とんぷく」の４人。
+-名前の由来は九州の地名や某野球選手とは無関係である。（チキン談）
+-アカウント系の管理は一括チキンが行っている。
+
+**リンク
+-[[twitter>>http://twitter.com/kb_voyage1969]]
+-[[ピアプロ>>http://piapro.jp/voyage1969KB]]
+
+**曲
+#list_by_tag(北別府,100,sort=furigana,errmsg=まだ曲が登録されていません)
+
+**CD
+#list_by_tag(北別府CD,100,sort=furigana,errmsg=まだCDが登録されていません)
+
+**動画
+|&nicovideo(http://www.nicovideo.jp/watch/sm28994657)||
+
+**コメント
+#comment()

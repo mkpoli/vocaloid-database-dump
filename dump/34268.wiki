@@ -1,0 +1,48 @@
+#right(){&furigana(Marble)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm28641691)|&youtube(https://www.youtube.com/watch?v=b6iiXJafvQE){342,187}|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[apartment>apartment/CD]]|CENTER:&bold(){Marble}|CENTER:[[Corridor]]|
+
+|&bold(){[[バルーン>バルーン/作り手]]}|[[アボガド6]]|
+
+|流通|CENTER:即売|CENTER:通販|CENTER:配信|
+|発売|CENTER:2016年4月30日|CENTER:|CENTER:|
+|価格|CENTER:¥1,000|CENTER:￥1,382（税別）|CENTER:￥1,050|
+|サークル|>|>|CENTER:Tabloid|
+
+**CD紹介
+CD名：『&u(){Marble}』
+-バルーン氏のCDアルバム。
+-アートワークはアボガド6氏が手掛けている。
+-4月30日のTHE VOC@LOiD 超 M@STER 34（超ボーマス34）にて頒布。
+-とらのあなで委託販売が、BOOTHでダウンロード販売が行われている。
+
+**曲目
++[[トピアリー>トピアリー/バルーン]]
++[[花瓶に触れた]]
++[[unseen]]
++[[ミラーリング]]
++[[羊と隣人]]
++[[朝を呑む]]
++[[閑話]]
++[[雨に花束]]
++花瓶に触れた -self cover-
++朝を呑む -self cover-
+
+**リンク
+-[[色色（作者ブログ）>>http://balloon0120.blog.fc2.com/]]
+//-[[とらのあな>>https://www.toranoana.jp/mailorder/article/04/0030/40/98/040030409810.html]]
+-[[BOOTH>>https://balloon0120.booth.pm/items/242104]]
+
+**コメント
+- 『[[花瓶に触れた]]』と『[[朝を呑む]]』めあて出欲しいヤワ  -- 名無しさん  (2016-04-17 07:10:03)
+- 発売日間違えてるよね、これ?　  -- 名無しさん  (2016-09-11 22:24:02)
+- 訂正しました  -- 名無しさん  (2016-09-12 00:15:00)
+- v flower 目当てで欲しい  -- アリア  (2017-10-25 17:22:38)
+- 買ったYO  -- ボニー  (2018-05-04 14:44:33)
+#comment()

@@ -1,0 +1,36 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Scramble Full Panic>Scramble Full Panic/CD]]|CENTER:&bold(){abgm}|CENTER:[[tettey-terettey]]|
+
+|&bold(){[[ココアシガレットP]]}|
+
+|流通|CENTER:即売|CENTER:同人|CENTER:配信|
+|発売|CENTER:2015年8月16日||CENTER:2016年4月1日|
+|価格|CENTER:￥1,000（税込）|CENTER:￥1,493（税別）|CENTER:￥750（税込）|
+|サークル|GYARISUTA!|||
+
+**CD紹介
+-動画「[[ボーカロイドたちがただ2コードくりかえすだけ]]」関連の楽曲やイラスト、漫画を収録した本とCDのセット。
+-ちなみに題名はこの動画で使われてるコード「A♭（Aフラットメジャー）」と「Gm（Gマイナー）」が由来。
+-収録内容
+--スタイリッシュにだらけきった歌わないボーカロイドたち（描きおろしイラスト）
+--導入4コマ漫画4点+α
+--abgm楽譜
+--音楽CD全1トラック23:36
+--メインビジュアル
+--おまけ　結月ゆかりイラスト1点（描きおろしイラスト）
+-コミックマーケット88（C88）で頒布。
+-とらのあなで委託販売が行われていた。
+-CDの内容がiTunes Storeにて配信中。
+
+**曲目
++abgm (feat. 鏡音リン)
++abgm -off vocal-
+
+**リンク
+-[[詳細HP>>http://www.gyari.com/content/abgm/]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/34/41/040030344145.html]]
+-[[iTunes Store>>http://itunes.apple.com/jp/album/abgm-feat.-jing-yinrin/id1096574791]]
+
+**コメント
+#comment()

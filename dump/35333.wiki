@@ -1,0 +1,45 @@
+#right(){&furigana(みしゅうろくOSC)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+
+&ref(https://cdn.tower.jp/za/o/83/4589686420983.jpg,x=300,y=300)
+
+|&nicovideo(sm29877747)|&youtube(https://www.youtube.com/watch?v=pgy3vV1MMjY){342,187}|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[柑橘類収穫記念祭]]|CENTER:&bold(){未収録OSC}|CENTER:[[SEASIDE SOLILOQUIES]]|
+
+|&bold(){[[Orangestar]]}|
+
+|流通|CENTER:即売|CENTER:通販|
+|発売|CENTER:2016年11月5日|CENTER:2017年1月18日|
+|価格|CENTER:¥1,000|CENTER:￥1,500（税抜）|
+|サークル|CENTER:うたうごりら||
+
+**CD紹介
+CD名：『&u(){未収録OSC}』（&u(){みしゅうろくOSC}）
+-Orangestar 自主制作ミニアルバム。 
+-2016年11月5日 THE VOC@LOID M@STER 36にて頒布。
+-Design & Artwork by [[M.B]] 
+-現在はタワーレコードにて通販が行われている。
+
+**曲目
++[[CITRUS]]
++[[心象蜃気楼]]
++[[キミノヨゾラ哨戒班>アスノヨゾラ哨戒班]]
++[[Lingering Fireworks>残灯花火]]
++[[時ノ雨、最終戦争]]
++[[新世界LIVE]]
+
+**リンク
+-[[タワーレコード>>https://tower.jp/item/4418754]]
+
+**コメント
+- おおッ☆アルバム来た、欲しい！  -- 名無しさん  (2016-10-28 14:48:25)
+- 通販ってありましたよね？？  -- スマイルさん  (2016-11-03 22:17:51)
+- これCITLUSってなってたのスペルミスだよね？  -- 名無しさん  (2017-01-28 15:23:31)
+- Gracenoteデータベースで拾うと、アルバム名が「未完成OSC」になってたり、上コメのように「CITLUS」になってしまいますね。  -- 名無しさん  (2017-02-06 16:24:20)
+- またほしいな…  -- 名無しさん  (2020-05-26 15:46:01)
+#comment()

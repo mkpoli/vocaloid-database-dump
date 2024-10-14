@@ -1,0 +1,50 @@
+#right(){&furigana(わんおほvol10)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+
+&ref(http://karent.jp/npdca/1898_20160513000702_0280_0280.jpg)
+|&nicovideo(http://www.nicovideo.jp/watch/sm28720916)|&youtube(http://www.youtube.com/watch?v=L5clTve5nqQ){342,187}|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[ワン☆オポ！THE BEST OF BEST]]|CENTER:&bold(){ワン☆オポ！vol.10}|CENTER:[[もはや愛 EP]]|
+
+|&bold(){[[じーざすP]]}|&bold(){[[マイナスP]]}|
+
+|流通|CENTER:即売|CENTER:同人|CENTER:配信|
+|発売|CENTER:2016年4月29日||CENTER:2016年6月1日|
+|価格|CENTER:￥|CENTER:￥1,296（税別）|CENTER:￥1,200|
+|サークル|>|CENTER:Wonderful★opportunity!||
+
+**CD紹介
+CD名：『&u(){ワン☆オポ！vol.10}』
+-[[マイナスP]]、[[じーざすP]]による同人サークル「Wonderful★Opportunity!（ワンダフル☆オポチュニティ！）」のアルバム。
+-全8曲を収録。1〜4曲目はじーざすP、5〜8曲目はマイナスPが担当。
+-ジャケットイラストは[[グライダー]]氏が担当。
+-THE VOC@LOiD 超 M@STER 34（超ボーマス34）にて頒布。
+-とらのあなにて委託販売が行われている。
+-KARENTレーベルよりダウンロード販売が行われている。
+
+**曲目
++ファッションジャンキー
++[[無頼ック自己ライザー]]
++ゆうちゅうばあ
++[[誓燈のマルシェ]]
++[[ー＜ARCADE＞ー]]
++水彩
++パエリア好き大阪花子の主張
++くるっちまったあたまにわ 
+
+**リンク
+-[[official website>>http://www.wan-opo.com/]]
+-[[twitter>>http://twitter.com/WAN_OPO]]
+-[[CD特設サイト>>http://wanopotw.wixsite.com/vol-10]]
+-[[とらのあな>>http://www.toranoana.jp/mailorder/article/04/0030/41/59/040030415965.html]]
+-[[KARENT：「ワン☆オポ！VOL.10」>>http://karent.jp/album/1898]]
+-[[iTunes Store>>http://itunes.apple.com/jp/album/wanopo!vol.10/id1114426515]]
+
+**コメント
+- 誓燈のマルシェ！！  -- 名無しさん  (2016-04-16 21:16:37)
+- 昨日の夜に買った、「パエリア好き大阪花子の主張」が良かったです。  -- 名無しさん  (2016-05-17 12:58:35)
+#comment()

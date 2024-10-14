@@ -1,0 +1,44 @@
+#right(){&furigana(あいしまさっかてん)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+
+#amazon(B07MQGGCFL)
+
+|&nicovideo(sm29340000)|&youtube(https://www.youtube.com/watch?v=rFCSh8PiseM){342,187}|
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[GOOD SCHOOL GIRL>GOOD SCHOOL GIRL/CD]]|CENTER:&bold(){愛島雑貨店}|CENTER:[[DAISAN WAVE]]|
+
+|&bold(){[[みきとP>みきとP/作り手]]}|
+
+発売：2016年8月3日
+価格：限定盤：￥5,000（税別）、通常盤：￥1,500（税別）
+流通：ヴィレッジヴァンガード限定
+
+**CD紹介
+CD名：『&u(){愛島雑貨店}』（&u(){あいじまざっかてん}）
+-ヴィレッジヴァンガード限定で販売されるミニアルバム。
+-Enginner：友達募集P、Illustlation：[[にほへ]]
+-限定盤には9月2日開催のライブチケットとそのライブの打ち上げ参加権が付く。
+
+**曲目
++[[Hoi]] / みきとP feat. 初音ミク、鏡音リン、SF-A2 開発コードmiki
++さよならはきえない / みきとP feat. 初音ミク
++[[ガールズインターハイ]] / みきとP feat. MAYU
++いるか Starlight / みきとP feat. 鏡音リン、鏡音レン
++Home Party / みきとP feat. 初音ミク
+
+**リンク
+-[[作者Twitter>>https://twitter.com/mikito_p_]]
+//-[[ヴィレッジヴァンガードONLINE STORE>>https://vvstore.jp/i/vv_000000000109111/]]
+
+**コメント
+- おおッ！！  -- 名無しさん  (2016-07-14 22:54:07)
+- 39みゅーじっく！は入らない...かな？  -- 名無しさん  (2016-07-15 00:07:43)
+- 2年ぶり...もうそんなに経っていたのか  -- 名無しさん  (2016-07-15 20:29:49)
+- ヴィレヴァン限定か  -- 名無しさん  (2016-07-25 09:59:39)
+- 限定盤高いなと思ったらライブチケットが付いてるのね。なるほど。  -- 名無しさん  (2016-07-25 23:33:16)
+- ヴィレヴァン限定とはいえ取り扱いのない店も多いのね...  -- 名無しさん  (2016-08-04 10:08:28)
+#comment

@@ -1,0 +1,36 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm28292550)
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:[[Memoria>Memoria/CD]]&br()[[Dear RiL～氷の樹海を渡る方舟～]]|CENTER:&bold(){Storia}|CENTER:-|
+
+|&bold(){[[ナナミP]]}|
+
+|流通|CENTER:即売|CENTER:通販|CENTER:配信|
+|発売|CENTER:2016年3月6日|CENTER:|CENTER:|
+|価格|CENTER:￥500|CENTER:￥500|CENTER:￥400|
+|サークル|>|>|CENTER:蝶々結び|
+
+**CD紹介
+>&bold(){名づけられた楽園の"物語"は永遠に}
+-リン＆レンデュオ・民族調＆物語楽曲シリーズ「Lycieratia（リシェラティア）」の第4弾CDにして完結作。
+-イラストは[[7:24>姉を見事に使いこなす妹P]]氏が手掛ける。
+-VOCALOID PARADISE関西5（ボーパラ関西5）にて頒布。
+-BASEとBOOTHにて通販及びダウンロード販売が行われている。
+
+**曲目
++かたちあるもの
++或る詩人の最後のうた
++[[夢紡ぎ]]
++epilogue-花薫る風-
++かたちあるもの(Instrumental)
++或る詩人の最後のうた(Instrumental)
++夢紡ぎ(Instrumental)
++epilogue-花薫る風-(Instrumental)
+
+**リンク
+-[[特設サイト>>http://lycieratia.web.fc2.com/]]
+-[[BASE>>http://nanamip.thebase.in/]]
+-[[BOOTH>>http://nanamip.booth.pm/items/214673]]
+
+**コメント
+#comment()

@@ -1,0 +1,112 @@
+#right(){&furigana(りひと)【検索用:&furigana()&space(2)登録タグ:&tags() 】}
+#region(close,目次)
+目次
+#contents()
+#endregion
+|&nicovideo(sm29690328)|&youtube(https://www.youtube.com/watch?v=exiDaiu223g){342,187}|
+作詞：[[natsuP]]
+作曲：[[natsuP]]
+編曲：[[natsuP]]・[[haku]]
+唄：[[神威がくぽ>がくっぽいど]]・[[KAITO]]・[[鏡音レン>鏡音リン・レン]]
+
+**曲紹介
+>&bold(){ただいま}
+曲名：『&u(){リヒト}』
+-「リヒト」（Licht）はドイツ語で「光」。
+-コンピレーションアルバム『[[EXIT TUNES PRESENTS Vocalocreation feat. 初音ミク]]』への書き下ろし楽曲。
+-アルバム『[[Diamond Lily>Diamond Lily/CD]]』にも収録。
+
+**歌詞
+#region(close,色分け)&color(purple){神威がくぽ}・&color(blue){KAITO}・&color(gold){鏡音レン}
+※黒…KAITO&鏡音レン
+#endregion
+
+&color(blue){everything under the sun}
+&color(blue){willing to give up one’s life for you}
+&color(blue){forever and ever Unchanging shine}
+&color(blue){blaze a new trail in my life}
+&color(blue){I’ve got some hope don’t put out the glow}
+&color(blue){everlasting love Unchanging shine}
+
+&color(blue){when there’s no hope in sight}
+&color(blue){You opened up my eyes}
+&color(blue){I Saw a light in you}
+
+&Italic(){&color(gray){アナタは僕の光}}
+
+&color(blue){it’s not the end of the line}
+&color(blue){Please tell me I wish this could be dream}
+&color(blue){What am I if I can’t be yours}
+
+&Italic(){&color(gray){これは悪夢だ}}
+
+&color(blue){I kept crying}
+&color(blue){Say you’ll love me again}
+&color(blue){Don’t leave me Without you}
+
+&color(blue){everything under the sun}
+&color(blue){willing to give up one’s life for you}
+&color(blue){forever and ever Unchanging shine}
+&color(blue){blaze a new trail in my life}
+&color(blue){I’ve got some hope don’t put out the glow}
+&color(blue){everlasting love Unchanging shine}
+
+&color(blue){Undo the hurt you caused}
+&color(blue){that the rain washed away}
+&color(blue){The feeling’s gone}
+
+&Italic(){&color(gray){全て消し去って}}
+
+&color(blue){privation of light}
+&color(blue){I wander down a road}
+‘’&color(blue){All good things must come to an end.}‘’
+
+&Italic(){&color(gray){真っ暗な世界}}
+
+&color(blue){I just moment}
+&color(blue){I wish time stopped forever}
+&color(blue){I hope my wish will come true.}
+
+&color(blue){everything under the sun}
+&color(blue){willing to give up one’s life for you}
+&color(blue){forever and ever Unchanging shine}
+&color(blue){blaze a new trail in my life}
+&color(blue){I’ve got some hope don’t put out the glow}
+&color(blue){everlasting love Unchanging shine}
+
+&color(gold){眩しすぎて 見えなくなる}
+&color(gold){君の光をただ追いかけてた}
+&color(gold){近づいては また遠くなる}
+&color(gold){微かに聞こえる声}
+
+大好きな君が呼んでる
+
+&color(blue){everything under the sun}
+&color(blue){willing to give up one’s life for you}
+&color(blue){forever and ever Unchanging shine}
+&color(blue){blaze a new trail in my life}
+&color(blue){I’ve got some hope don’t put out the glow}
+&color(blue){everlasting love Unchanging shine}
+
+&color(purple){あぁ あなたを想い続けて}
+(&color(blue){everything under the sun}
+&color(blue){willing to give up one’s life for you})
+&color(purple){幾千の時が流れても}
+(&color(blue){forever and ever Unchanging shine})
+&color(purple){あぁ とめどなく 流れる光}
+(&color(blue){blaze a new trail in my life}
+&color(blue){I’ve got some hope don’t put out the glow})
+&color(purple){その場所を目指し 光り続けるだろう}
+(&color(blue){everlasting love Unchanging shine})
+
+
+**コメント
+- アルバム欲しい......早く買わなきゃ（汗）  -- 名無しさん  (2016-09-22 19:15:24)
+- バナナイスお帰り！！さっきどうか聴いたけどKAITO格好良すぎでしょ？驚いた！！  -- 良太  (2016-09-22 20:32:28)
+- 歌詞を日本語に翻訳するのに一苦労…だがしかし、好きだ！  -- かのん  (2016-09-24 12:31:36)
+- ↑翻訳したのか！？俺英語苦手だからわかんねｗただかっこいい曲だなって感じ。。  -- 櫻宮  (2016-09-24 12:33:14)
+- おかえりなさいっ！  -- 月影 恋歌  (2016-10-03 18:34:34)
+- おかえりなさい！ずっと待ってました  -- ヒライースゥ  (2016-10-08 15:58:28)
+- 兄さんの英語の歌がすっごく綺麗！  意味わからんけど。   あとレンがスカートじゃないのに驚いたw  -- カイトラブ  (2017-01-08 09:17:54)
+- アルバム買えた♡　リヒトの兄さん大好き過ぎるし英語上手い!!!!　  -- 名無しさん  (2017-02-09 22:52:28)
+#comment()

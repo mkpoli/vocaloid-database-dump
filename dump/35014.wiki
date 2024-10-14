@@ -1,0 +1,31 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+&nicovideo(http://www.nicovideo.jp/watch/sm28699905)
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){If Only EP}|CENTER:[[Afterglow EP]]|
+
+|&bold(){[[すしP]]}|
+
+発売：2016年4月30日
+価格：￥800
+流通：即売
+サークル：ゴ……
+
+**CD紹介
+-すしPこと5u5h1氏の1st EP。
+-沢山の「もしも」が詰まったCDになりました。
+-THE VOC@LOiD 超 M@STER 34（超ボーマス34）で頒布。
+
+**曲目
++[[Parallels]]
++さよならスカイライン
++[[カシオペア (Spacefaring Mix)>カシオペア]]
++Inverted Horizon
++[[6月の空蝉>六月の空蝉]]
++[[アライン]]
++Parallels (VIP)
+
+**リンク
+-[[twitter>>http://twitter.com/sushi0422]]
+
+**コメント
+#comment()

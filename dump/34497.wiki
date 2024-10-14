@@ -1,0 +1,30 @@
+#right(){&furigana(maimaiおりじなるさうんどとらっくことのはProjectだい1しょうことのはかるま)&furigana()【登録タグ:&tags() 】}
+&image(https://maimai.sega.jp/storage/special/kotonoha_vol.1.jpg){342,187}
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){maimaiオリジナルサウンドトラック 言ノ葉Project 第1章 言ノ葉カルマ}|CENTER:[[maimaiオリジナルサウンドトラック 言ノ葉Project 第二章 言ノ葉遊戯]]|
+|&bold(){[[れるりり]]}|&bold(){田中秀和(MONAKA)}|uRy|
+
+発売：2015年12月29日
+価格：￥2,000
+流通：即売
+出展：セガ
+
+**CD紹介
+-音楽ゲームとボカロPのコラボレーション企画「言ノ葉プロジェクト」のCD。
+-ツカサ、律、ナルキをイメージした手袋3種類とのセット。
+-コミックマーケット89（C89）で頒布。
+
+**曲目
++言ノ葉カルマ / そらる・ろん×れるりり
++[[言ノ葉カルマ]]　VOCALOID Ver. / れるりり
++言ノ葉カルマ　カラオケ Ver. / れるりり
++言ノ葉カルマ　maimai Ver. / そらる・ろん×れるりり
++悪戯 / ろん×田中秀和(MONACA)
++悪戯　カラオケ Ver. / 田中秀和(MONACA)
+
+**リンク
+-[[アルバム紹介ページ>>http://maimai.sega.jp/special/kotonoha01/]]
+-[[公式サイト>>https://maimai.sega.jp/kotonoha/1st/]]
+
+**コメント
+#comment()

@@ -1,0 +1,41 @@
+#right(){&furigana()&furigana()【登録タグ:&tags() 】}
+
+&ref(https://booth.pximg.net/7b6d8978-99e4-435e-89bf-5dd53562aafe/i/30739/99e9cfdb-9c8e-419e-abd8-cc20f2bb597c_base_resized.jpg,x=300,y=300)
+
+&nicovideo(http://www.nicovideo.jp/watch/sm22097741)
+
+|CENTER:前作|CENTER:本作|CENTER:次作|
+|CENTER:-|CENTER:&bold(){えほんのせかい}|CENTER:[[えほんのせかい2]]|
+
+|&bold(){[[ムシP]]}|
+
+|流通|CENTER:即売|CENTER:配信|
+|発売|CENTER:2013年10月27日|CENTER:不明|
+|価格|CENTER:￥1,000|CENTER:￥1,500|
+|サークル|>|CENTER:YCA|
+
+**CD紹介
+-2013年秋のM3から頒布されたムシPの1st Album。
+-パッケージ版は2014年12月を持って、廃盤となった。
+-現在はBOOTHでダウンロード販売が行われている。
+
+**曲目
++[[感傷癖の神様]]
++[[変な子ね]]
++艶だ
++おわかれのうた
++[[Bike]]
++えほんのせかい
++[[Doodle]]
++ムシ
++robots planet
++[[怪しい酒場にて]]
++カモメと方舟
++Time Out (remake)
++感傷癖と結末
+
+**リンク
+-[[Booth>>https://muship.booth.pm/items/30739]]
+
+**コメント
+#comment()
